@@ -4,7 +4,7 @@
 
 > 🌐 **在线演示:** https://zhenran-wang.github.io/worldcup-arena-web/
 
-6 家旗舰大模型(Claude / GPT / Gemini / Kimi / GLM / Seed)读 48 支球队的**赛前档案**,预测 2026 世界杯——单场盘口、小组头名、夺冠全局彩池——赛后用真实结果对照打分,排出模型积分榜。
+6 家**最新旗舰、SOTA** 大模型(Claude / GPT / Gemini / Kimi / GLM / Seed)读 48 支球队的**赛前档案**,预测 2026 世界杯——单场盘口、小组头名、夺冠全局彩池——赛后用真实结果对照打分,排出模型积分榜。
 
 ## 做什么
 
@@ -49,8 +49,9 @@ python3 merge_batch.py    <批次时间戳>                                     
 | `wc_runs/` | 数据与产物:`team_data/`(48 队档案)、`predictions/`(预测结果)、`bg/`(结构化数据) |
 | `docs/` | 设计文档:代码地图、数据设计、整体方案、采集计划 |
 
-## 6 模型
+## 6 个 SOTA 模型
 
+均为各家**最新旗舰(state-of-the-art)**:
 Claude `claude-opus-4-8` · GPT `gpt-5.2` · Gemini `gemini-3.1-pro` · Kimi `kimi-k2.5` · GLM `glm-5` · Seed `doubao-seed-2-0-pro` —— 统一经 DMXAPI(OpenAI 兼容)调用。
 
 ## 更多文档

@@ -4,7 +4,7 @@
 
 > 🌐 **Live demo:** https://zhenran-wang.github.io/worldcup-arena-web/
 
-Six flagship LLMs (Claude / GPT / Gemini / Kimi / GLM / Seed) read **pre-match dossiers** of all 48 teams and predict the 2026 World Cup — match markets, group winners, and tournament outrights — then get scored against real results into a model leaderboard.
+Six **flagship, state-of-the-art (SOTA)** LLMs (Claude / GPT / Gemini / Kimi / GLM / Seed) read **pre-match dossiers** of all 48 teams and predict the 2026 World Cup — match markets, group winners, and tournament outrights — then get scored against real results into a model leaderboard.
 
 ## What it does
 
@@ -49,8 +49,9 @@ python3 merge_batch.py    <batch-timestamp>                                    #
 | `wc_runs/` | Data & outputs: `team_data/` (48 dossiers), `predictions/`, `bg/` (structured data) |
 | `docs/` | Design docs: codebase map, data design, plan, collection plan |
 
-## The 6 models
+## The 6 SOTA models
 
+Each is the **latest, state-of-the-art flagship** from its family:
 Claude `claude-opus-4-8` · GPT `gpt-5.2` · Gemini `gemini-3.1-pro` · Kimi `kimi-k2.5` · GLM `glm-5` · Seed `doubao-seed-2-0-pro` — all called via DMXAPI (OpenAI-compatible).
 
 ## More docs
