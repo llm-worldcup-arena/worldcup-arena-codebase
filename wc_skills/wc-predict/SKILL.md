@@ -35,10 +35,10 @@ Claude `claude-opus-4-6-thinking` · GPT `gpt-5.2` · Gemini `gemini-3.1-pro-pre
               (含截至昨日的已踢结果,绝不含待预测场 → 防泄露)
 ② 单场预测 → predict_match --snapshot <新快照> --run-ts <批次>,跑当天每场
               只跑单场!不碰头名/全局
-③ 合并    → merge_batch.py <批次> → _unified.json
-④ 上线    → 转 worldcup-arena-web 的 worldcup-data.js(替换 PRED + 批次号)→ push 前端;
-              前端 worldcup-arena.js 顶部 REVEAL_THROUGH 调到当天(放出当天预测)
-⑤ 评分    → 赛果出后 score.py 对照打分 → 积分榜
+③ 写档案  → merge_batch.py <批次>,再 archive_pred.py <批次> --daily(当天 matches【累加】进 archive/predictions.json,不动旧场)
+④ 上线    → update_web.py --reveal <当天,如6.12>(从预测档案刷网页 + 运行时验证 + 解锁当天)→ push 前端
+⑤ 收赛果  → 填 archive/results.json(matches 填比分即可,score.py 自动推各市场)
+⑥ 算分    → score.py(predictions.json × results.json → scorecard.json)→ push 前端积分榜
 ```
 
 ## prompt 设计(三类统一,已固化在各脚本 `build_user`)
