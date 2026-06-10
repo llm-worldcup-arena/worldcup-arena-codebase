@@ -12,9 +12,11 @@ description: 世界杯预测评测——6 家 SOTA 旗舰模型(经 DMXAPI)读 t
 1. **开跑前必先汇报**:真正调模型跑测评(烧 DMX API)前,**必须先向用户汇报**(测什么 / 哪 6 模型 / 调用量·成本 / 防泄露确认),**等用户确认才跑**。见记忆 `feedback-eval-report-first`。
 2. **防泄露**:只喂「该预测点**之前**」的干净快照——赛前=base/最新版;逐日=当轮快照(`snapshot_round` 出的)。**绝不把待预测的赛果喂进去。**
 
-## 评测对象(6 SOTA · `wc_eval/predict/models.json`)
+## 评测对象(6 家带 thinking 的 SOTA · `wc_eval/predict/models.json`)
 
-Claude `claude-opus-4-8` · GPT `gpt-5.2` · Gemini `gemini-3.1-pro` · Kimi `kimi-k2.5` · GLM `glm-5` · Seed `doubao-seed-2-0-pro` —— 各家**最新旗舰(SOTA)**,统一经 `wc_eval/llm_client.py`(DMXAPI)调。
+Claude `claude-opus-4-6-thinking` · GPT `gpt-5.2` · Gemini `gemini-3.1-pro-preview-thinking` · Kimi `Kimi-K2-Thinking` · GLM `glm-5` · Seed `doubao-seed-2-0-pro-260215`,统一经 `wc_eval/llm_client.py`(DMXAPI)调;**`ask_json` 统一传 `reasoning_effort:"high"`(thinking 拉满最高档,6 模型实测均可传)**。
+
+> **为什么这 6 个(实测 2026-06-11,判据=响应是否吐 `reasoning_content` 思考过程)**:Claude opus-4-8 无 thinking 后缀 → 退 `claude-opus-4-6-thinking`;Gemini 换 `-thinking` 版、Kimi 换 `Kimi-K2-Thinking`(k2.5 实测 reasoning_content 为空);GLM-5、Seed-2.0 实测自带 thinking → 保留;**GPT 整个 OpenAI 家(含 o1/o3/o4 推理模型)在 DMXAPI 都不吐 reasoning_content(平台隐藏 reasoning tokens、非无 thinking)**,gpt-5.2 是稳定的 reasoning 旗舰。**旧纯 SOTA 配置见 models.json 的 `_sota_previous_备选`,可回滚。**
 
 ## 三类预测
 

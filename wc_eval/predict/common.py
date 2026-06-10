@@ -97,7 +97,8 @@ def ask_json(model_id, system, user, retries=2, temperature=0.3):
     for _ in range(retries + 1):
         try:
             txt = chat([{"role": "system", "content": system},
-                        {"role": "user", "content": user}], model=model_id, temperature=temperature, timeout=300)
+                        {"role": "user", "content": user}], model=model_id, temperature=temperature,
+                       timeout=300, reasoning_effort="high")      # thinking 拉满 high 档(6 模型实测均可传)
             for c in reversed(re.findall(r"\{[^{}]*\}", txt, re.S)):     # 取最后一个扁平 JSON(答案在末尾)
                 try:
                     return {"_json": json.loads(c), "_raw": txt.strip()}
