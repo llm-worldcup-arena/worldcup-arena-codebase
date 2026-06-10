@@ -59,6 +59,38 @@ def load_groups():
     return {}
 
 
+def load_matches():
+    """赛程 matches.json(每场 date/round/group/venue_id/team_a/team_b/result)。"""
+    p = f"{ROOT}/wc_runs/bg/matches.json"
+    return json.load(open(p, encoding="utf-8")) if os.path.exists(p) else []
+
+
+_HOSTS = {"MEX", "USA", "CAN"}                                        # 2026 三东道主
+_MX_CITY = {"Mexico City", "Guadalajara", "Zapopan", "Monterrey"}
+_CA_CITY = {"Toronto", "Vancouver"}
+_ROUND_CN = {"group": "小组赛", "r32": "32 强", "r16": "16 强", "qf": "1/4 决赛", "sf": "半决赛", "final": "决赛"}
+
+
+def match_header(home, away):
+    """比赛抬头:指定这场未来比赛(赛事/阶段/组/日期/场地/主客/真主场 or 中立/未打)。从 matches.json 读。"""
+    mt = next((m for m in load_matches() if m.get("team_a") == home and m.get("team_b") == away), None)
+    if not mt:
+        return f"2026 世界杯 · 主队 {home} vs 客队 {away}(赛果未出,预测)"
+    venues = json.load(open(f"{ROOT}/wc_runs/bg/venues.json", encoding="utf-8"))
+    v = venues.get(mt.get("venue_id"), {})
+    vname, vcity = v.get("name", "?"), v.get("city", "?")
+    rd = _ROUND_CN.get(mt.get("round"), mt.get("round", ""))
+    grp = f"{mt.get('group')} 组 · " if mt.get("group") else ""
+    vcountry = "MEX" if vcity in _MX_CITY else "CAN" if vcity in _CA_CITY else "USA"
+    if home in _HOSTS and vcountry == home:
+        site = f"{vname}({vcity})—— {home} 为东道主、享真实主场之利"
+    else:
+        site = f"{vname}({vcity},中立场地)—— 双方均非本场东道主,名义主队 {home} 无真实主场加成"
+    status = "本场尚未开打(预测即将进行的这一场)" if mt.get("result") is None else "本场已结束"
+    return (f"2026 世界杯 · {rd} · {grp}{mt.get('date', '')}\n"
+            f"场地:{site}\n主队 {home} vs 客队 {away} · {status}")
+
+
 def ask_json(model_id, system, user, retries=2, temperature=0.3):
     """调 LLM 要结构化 JSON。模型可先分析、最后给 JSON → 抓【最后一个】能解析的 JSON 对象。失败重试。
     返回 {"_json": dict, "_raw": 全文}(保留分析全文,便于人看)。失败返回 None。"""

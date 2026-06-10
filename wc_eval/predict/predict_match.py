@@ -6,14 +6,17 @@
 跑:python3 predict_match.py --home MEX --away RSA --snapshot 2026-06-10_1310
 """
 import argparse
-from common import load_models, read_summary, ask_json, save_pred, run_ts
+from common import load_models, read_summary, ask_json, save_pred, run_ts, match_header
 
 SYS = ("你是资深足球分析师。下面两队的赛前资料供你参考,你可结合自己掌握的球队/球员信息与判断"
        "来预测,不必局限于给定资料。先给一点简要分析,再在最后输出 JSON(全文只这一个 JSON)。")
 
 
 def predict_one(model_id, home, away, sh):
-    user = f"""【主队 {home} · 赛前资料】
+    user = f"""【本场比赛】
+{match_header(home, away)}
+
+【主队 {home} · 赛前资料】
 {read_summary(home, sh)}
 
 【客队 {away} · 赛前资料】

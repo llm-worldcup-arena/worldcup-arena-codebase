@@ -2,6 +2,8 @@
 
 # 世界杯 2026 · 多模型预测基准
 
+> 🌐 **在线演示:** https://zhenran-wang.github.io/worldcup-arena-web/
+
 6 家旗舰大模型(Claude / GPT / Gemini / Kimi / GLM / Seed)读 48 支球队的**赛前档案**,预测 2026 世界杯——单场盘口、小组头名、夺冠全局彩池——赛后用真实结果对照打分,排出模型积分榜。
 
 ## 做什么
