@@ -59,7 +59,7 @@ def main():
     # ③ cache-bust
     ver = batch.replace("-", "").replace("_", "-") + "-" + datetime.datetime.now().strftime("%H%M%S")
     ip = f"{WEB}/index.html"; html = open(ip, encoding="utf-8").read()
-    html = re.sub(r"(worldcup[.-][a-z]*\.(?:js|css))\?v=[0-9a-zA-Z-]+", rf"\1?v={ver}", html)
+    html = re.sub(r"(worldcup[a-z-]*\.(?:js|css))\?v=[0-9a-zA-Z-]+", rf"\1?v={ver}", html)  # [a-z-]* 兼容单点 worldcup.css(旧 regex 漏了它→CSS 改动一直不刷新)
     open(ip, "w", encoding="utf-8").write(html)
 
     # 改 arena.js:解锁 REVEAL_THROUGH(可选)+ 从 results.json 注入真实赛果 RESULTS(前端自动结算积分榜)
@@ -79,9 +79,26 @@ def main():
                 v += "/" + str(rr["ht"]).replace("-", ":")
             RES[str(idx)] = v
     aj = re.sub(r"RESULTS:\s*\{[^}]*\}", "RESULTS: " + json.dumps(RES, ensure_ascii=False), aj, count=1)
+    # 注入全局赛果（results.global + group_winners → arena.js;FIFA码转英文队名）
+    teams = {t["team_id"]: t["name_en"] for t in json.load(open(f"{ROOT}/wc_runs/bg/teams.json", encoding="utf-8"))}
+    en = lambda c: teams.get(c, c)
+    g = res.get("global") or {}
+    CONF = {"欧洲": "UEFA", "南美": "CONMEBOL", "北美": "CONCACAF", "非洲": "CAF", "亚洲": "AFC", "大洋洲": "OFC"}
+    inj = {
+        "CHAMPION": (en(g["夺冠"]) if g.get("夺冠") else ""),
+        "FINALISTS": [en(c) for c in (g.get("进决赛") or [])],
+        "SEMIS": [en(c) for c in (g.get("四强") or [])],
+        "WINNER_CONF": (CONF.get(g.get("夺冠大洲"), "") if g.get("夺冠大洲") else ""),
+        "TOTAL_GOALS": res.get("total_goals"),
+        "GROUP_WINNERS": {grp: en(c) for grp, c in (res.get("group_winners") or {}).items()},
+    }
+    for field, val in inj.items():
+        aj = re.sub(field + r":\s*(\[[^\]]*\]|\"[^\"]*\"|null|\d+|\{[^}]*\})", field + ": " + json.dumps(val, ensure_ascii=False), aj, count=1)
     open(apjs, "w", encoding="utf-8").write(aj)
     if RES:
-        revmsg += f" · 注入 RESULTS {len(RES)} 场"
+        revmsg += f" · RESULTS {len(RES)} 场"
+    if g:
+        revmsg += " · 全局赛果"
 
     nm = len(next(iter(arc["models"].values()), {}).get("matches", {}))
     print(f"✅ 上线就绪:worldcup-data.js ← 预测档案(matches {nm} 场/模型){revmsg}")

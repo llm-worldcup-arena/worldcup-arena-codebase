@@ -1,13 +1,13 @@
 {
- "_说明": "现实档案:真实赛果,逐日收集。score.py 用它与预测档案对照算分。matches 填比分即可(score.py 自动从比分推算 胜平负/大小/双方进球/单双/正确比分,有半场比分 ht 还能推半全场);group_winners 小组赛后填;global 淘汰赛/决赛后填;total_goals 整届 104 场打完填。",
+ "_说明": "现实档案:真实赛果,逐日收集。score.py 用它与预测档案对照算分。matches 填比分即可;group_winners 小组赛后填;global 淘汰赛/决赛后填;total_goals 整届打完填。",
  "matches": {
   "MEX_vs_RSA": {
-   "score": "2-0",
-   "ht": "1-0"
+   "score": null,
+   "ht": null
   },
   "KOR_vs_CZE": {
-   "score": "1-0",
-   "ht": "0-0"
+   "score": null,
+   "ht": null
   }
  },
  "group_winners": {},
