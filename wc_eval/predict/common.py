@@ -91,6 +91,32 @@ def match_header(home, away):
             f"场地:{site}\n主队 {home} vs 客队 {away} · {status}")
 
 
+# 亚洲让球盘:固定盘口(主队让球数,负 = 主队让球)。来源:多方赔率核对。
+# 让球是市场给定的一条线,模型只预测「该线下 主胜盘 / 走盘 / 客胜盘」—— 不是自选盘口。
+_HANDICAP = {
+    ("MEX", "RSA"): -1.0,    # 墨西哥 -1(阿兹特克主场;Yahoo / BoyleSports 主 -1)
+    ("KOR", "CZE"): -0.5,    # 韩国 -0.5(ESPN spread 韩 -0.5)
+}
+
+
+def match_handicap(home, away):
+    """本场固定让球盘口(主队让球数,负 = 主队让球)。None = 未定(前端用公式兜底)。"""
+    return _HANDICAP.get((home, away))
+
+
+def handicap_clause(home, away):
+    """让球 prompt 说明:固定盘口 + 主胜盘/走盘/客胜盘 判定(覆盖主队让球场景)。"""
+    h = match_handicap(home, away)
+    if h is None:
+        return None
+    ab = abs(h); need = int(ab) + 1
+    if ab == int(ab):                                    # 整数盘:有走盘
+        return (f"本场亚洲让球盘固定盘口:{home}(主)让 {int(ab)} 球。"
+                f"判定:{home} 净胜 ≥ {need} 球 →「主胜盘」;正好净胜 {int(ab)} 球 →「走盘」;打平或输 →「客胜盘」。")
+    return (f"本场亚洲让球盘固定盘口:{home}(主)让 {ab} 球(半球盘,无走盘)。"
+            f"判定:{home} 净胜 ≥ {need} 球 →「主胜盘」;否则 →「客胜盘」。")
+
+
 def ask_json(model_id, system, user, retries=2, temperature=0.3):
     """调 LLM 要结构化 JSON。模型可先分析、最后给 JSON → 抓【最后一个】能解析的 JSON 对象。失败重试。
     返回 {"_json": dict, "_raw": 全文}(保留分析全文,便于人看)。失败返回 None。"""

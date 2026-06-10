@@ -8,16 +8,18 @@
 """
 import argparse
 from concurrent.futures import ThreadPoolExecutor
-from common import load_models, read_summary, ask_json, save_pred, save_prompt, run_ts, match_header
+from common import load_models, read_summary, ask_json, save_pred, save_prompt, run_ts, match_header, handicap_clause
 
 SYS = ("你是资深足球分析师。下面两队的赛前资料供你参考,你可结合自己掌握的球队/球员信息与判断"
        "来预测,不必局限于给定资料。先给一点简要分析,再在最后输出 JSON(全文只这一个 JSON)。")
 
 
 def build_user(home, away, sh):
+    hc = handicap_clause(home, away)
+    hc_block = f"\n【让球盘口 · 固定】{hc}\n" if hc else ""
     return f"""【本场比赛】
 {match_header(home, away)}
-
+{hc_block}
 【主队 {home} · 赛前资料】
 {read_summary(home, sh)}
 
@@ -28,7 +30,7 @@ def build_user(home, away, sh):
 **先简要分析**(双方攻防实力 / 近期状态 / 伤停 / 关键对位,3-5 句),**然后在最后输出 JSON**(全文只这一个 JSON,每项必须从给定选项里选):
 {{
   "胜平负": "主胜 / 平 / 客胜",
-  "让球": "主-2 / 主-1.5 / 主-1 / 主-0.5 / 平手 / 客-0.5 / 客-1 / 客-1.5 / 客-2（强队让几球,从中选一）",
+  "让球": "主胜盘 / 走盘 / 客胜盘（在上方固定盘口下判定,半球盘无走盘,三选一）",
   "大小2.5": "大 / 小",
   "双方进球": "是 / 否",
   "单双": "单 / 双（全场总进球数）",

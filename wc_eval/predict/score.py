@@ -7,17 +7,18 @@
 跑:python3 score.py
 """
 import json
+from common import match_handicap
 
 ROOT = "/home/ubuntu/worldcup_2026"
 ARC = f"{ROOT}/wc_runs/archive"
 
-# 分值(可调)。让球盘需盘口结算、暂不计;其余 6 个单场市场 + 头名 + 全局各项:
-SC = {"胜平负": 1, "大小2.5": 1, "双方进球": 1, "单双": 1, "半全场": 2, "正确比分": 3,
-      "头名": 3, "夺冠": 10, "进决赛": 3, "四强": 2, "夺冠大洲": 2, "总进球285.5": 2}
+# 单场 7 市场权重(2026-06 调:看着难的其实多是猜,权重压平)+ 头名 + 全局各项:
+SC = {"让球": 4, "半全场": 3, "胜平负": 2, "大小2.5": 2, "双方进球": 2, "正确比分": 2, "单双": 1,
+      "头名": 2, "夺冠": 25, "进决赛": 6, "四强": 4, "夺冠大洲": 5, "总进球285.5": 4}   # 全局对齐前端 GLOBAL
 
 
-def derive(score, ht=None):
-    """从真实比分推算各市场真值。score 如 '3-1';ht 半场比分 '1-0'(可选,用于半全场)。"""
+def derive(score, ht=None, line=None):
+    """从真实比分推各市场真值。score '3-1';ht 半场 '1-0';line 让球盘口(主队让球,负=主让)。"""
     if not score or "-" not in str(score):
         return {}
     h, a = map(int, str(score).split("-")); tot = h + a
@@ -29,6 +30,9 @@ def derive(score, ht=None):
     if ht and "-" in str(ht):
         hh, ha = map(int, str(ht).split("-")); seg = lambda x, y: "主" if x > y else ("客" if y > x else "平")
         r["半全场"] = f"{seg(hh, ha)}-{seg(h, a)}"
+    if line is not None:                                   # 让球盘:全场净胜 + 盘口
+        m = (h - a) + line
+        r["让球"] = "主胜盘" if m > 1e-6 else ("客胜盘" if m < -1e-6 else "走盘")
     return r
 
 
@@ -41,8 +45,9 @@ def main():
     for name, md in pred.items():
         s, d = 0, {"单场": 0, "头名": 0, "全局": 0}
         for mk, markets in (md.get("matches") or {}).items():                 # 单场
-            truth = derive((rm.get(mk) or {}).get("score"), (rm.get(mk) or {}).get("ht"))
-            for mkt in ["胜平负", "大小2.5", "双方进球", "单双", "半全场", "正确比分"]:
+            ha = mk.split("_vs_"); line = match_handicap(ha[0], ha[1]) if len(ha) == 2 else None
+            truth = derive((rm.get(mk) or {}).get("score"), (rm.get(mk) or {}).get("ht"), line)
+            for mkt in ["让球", "胜平负", "大小2.5", "双方进球", "单双", "半全场", "正确比分"]:
                 if truth.get(mkt) and (markets or {}).get(mkt) == truth[mkt]:
                     s += SC[mkt]; d["单场"] += SC[mkt]
         for g, gw in (md.get("group_winners") or {}).items():                 # 头名
@@ -60,7 +65,7 @@ def main():
         card[name] = {"总分": s, **d}
 
     rank = sorted(card.items(), key=lambda x: -x[1]["总分"])
-    out = {"_说明": "算分:预测档案 vs 现实档案。分值见 score.py 的 SC(让球盘暂不计)。",
+    out = {"_说明": "算分:预测档案 vs 现实档案。分值见 score.py 的 SC(让球用固定盘口结算)。",
            "排名": [{"模型": n, **dd} for n, dd in rank]}
     json.dump(out, open(f"{ARC}/scorecard.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     print("✅ 积分榜 → archive/scorecard.json")
