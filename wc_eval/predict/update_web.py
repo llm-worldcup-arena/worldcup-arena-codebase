@@ -15,7 +15,7 @@
 教训(2026-06-11):曾"提取应用逻辑重组文件",漏掉夹在 PRED 与 function hc 间的 var X2/OU/BT
 → ready() 崩 → 下半页不渲染。本脚本只换 PRED + 实跑验证 + 回滚,机制上根除。
 """
-import json, re, sys, subprocess, argparse
+import json, re, sys, subprocess, argparse, datetime
 
 WEB = "/home/ubuntu/worldcup_2026_web/site"
 ROOT = "/home/ubuntu/worldcup_2026"
@@ -57,18 +57,31 @@ def main():
         sys.exit(f"✗ 运行时验证失败 → 已回滚、未上线:\n{r.stderr.strip()[:400]}")
 
     # ③ cache-bust
-    ver = batch.replace("-", "").replace("_", "-")
+    ver = batch.replace("-", "").replace("_", "-") + "-" + datetime.datetime.now().strftime("%H%M%S")
     ip = f"{WEB}/index.html"; html = open(ip, encoding="utf-8").read()
     html = re.sub(r"(worldcup[.-][a-z]*\.(?:js|css))\?v=[0-9a-zA-Z-]+", rf"\1?v={ver}", html)
     open(ip, "w", encoding="utf-8").write(html)
 
-    # 解锁 REVEAL_THROUGH（可选）
+    # 改 arena.js:解锁 REVEAL_THROUGH(可选)+ 从 results.json 注入真实赛果 RESULTS(前端自动结算积分榜)
+    apjs = f"{WEB}/worldcup-arena.js"; aj = open(apjs, encoding="utf-8").read()
     revmsg = ""
     if a.reveal:
-        apjs = f"{WEB}/worldcup-arena.js"; aj = open(apjs, encoding="utf-8").read()
-        aj = re.sub(r"(REVEAL_THROUGH\s*=\s*)['\"][^'\"]*['\"]", rf"\1'{a.reveal}'", aj, count=1)
-        open(apjs, "w", encoding="utf-8").write(aj)
+        aj = re.sub(r"(REVEAL_THROUGH\s*[:=]\s*)['\"][^'\"]*['\"]", rf'\1"{a.reveal}"', aj, count=1)
         revmsg = f" · REVEAL_THROUGH→{a.reveal}"
+    res = json.load(open(f"{ARC}/results.json", encoding="utf-8"))
+    order = [f"{m['team_a']}_vs_{m['team_b']}" for m in json.load(open(f"{ROOT}/wc_runs/bg/matches.json", encoding="utf-8"))]
+    RES = {}
+    for idx, mk in enumerate(order):
+        rr = (res.get("matches") or {}).get(mk, {})
+        if rr.get("score"):
+            v = str(rr["score"]).replace("-", ":")
+            if rr.get("ht"):
+                v += "/" + str(rr["ht"]).replace("-", ":")
+            RES[str(idx)] = v
+    aj = re.sub(r"RESULTS:\s*\{[^}]*\}", "RESULTS: " + json.dumps(RES, ensure_ascii=False), aj, count=1)
+    open(apjs, "w", encoding="utf-8").write(aj)
+    if RES:
+        revmsg += f" · 注入 RESULTS {len(RES)} 场"
 
     nm = len(next(iter(arc["models"].values()), {}).get("matches", {}))
     print(f"✅ 上线就绪:worldcup-data.js ← 预测档案(matches {nm} 场/模型){revmsg}")
