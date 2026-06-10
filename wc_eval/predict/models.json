@@ -1,0 +1,11 @@
+{
+  "_note": "评测对象：6 家旗舰 SOTA(各家最新最强)。SOTA 自带 thinking/reasoning 能力,无需降到 -thinking 后缀的旧版。经 DMXAPI(wc_eval/llm_client.py)。实测可调通 2026-06-10。",
+  "models": [
+    {"name": "Claude", "id": "claude-opus-4-8"},
+    {"name": "GPT",    "id": "gpt-5.2"},
+    {"name": "Gemini", "id": "gemini-3.1-pro-preview"},
+    {"name": "Kimi",   "id": "kimi-k2.5"},
+    {"name": "GLM",    "id": "glm-5"},
+    {"name": "Seed",   "id": "doubao-seed-2-0-pro-260215"}
+  ]
+}

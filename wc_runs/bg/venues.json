@@ -1,0 +1,130 @@
+{
+  "estadio_azteca": {
+    "name": "Estadio Azteca",
+    "city": "Mexico City",
+    "altitude_m": null,
+    "climate": null,
+    "surface": "grass",
+    "history": []
+  },
+  "estadio_akron": {
+    "name": "Estadio Akron",
+    "city": "Zapopan",
+    "altitude_m": null,
+    "climate": null,
+    "surface": "grass",
+    "history": []
+  },
+  "bmo_field": {
+    "name": "BMO Field",
+    "city": "Toronto",
+    "altitude_m": null,
+    "climate": null,
+    "surface": "grass",
+    "history": []
+  },
+  "sofi_stadium": {
+    "name": "SoFi Stadium",
+    "city": "Inglewood, California",
+    "altitude_m": null,
+    "climate": null,
+    "surface": "grass",
+    "history": []
+  },
+  "gillette_stadium": {
+    "name": "Gillette Stadium",
+    "city": "Foxborough, Massachusetts",
+    "altitude_m": null,
+    "climate": null,
+    "surface": "grass",
+    "history": []
+  },
+  "bc_place": {
+    "name": "BC Place",
+    "city": "Vancouver",
+    "altitude_m": null,
+    "climate": null,
+    "surface": "grass",
+    "history": []
+  },
+  "metlife_stadium": {
+    "name": "MetLife Stadium",
+    "city": "East Rutherford, New Jersey",
+    "altitude_m": null,
+    "climate": null,
+    "surface": "grass",
+    "history": []
+  },
+  "levi_s_stadium": {
+    "name": "Levi's Stadium",
+    "city": "Santa Clara, California",
+    "altitude_m": null,
+    "climate": null,
+    "surface": "grass",
+    "history": []
+  },
+  "lincoln_financial_field": {
+    "name": "Lincoln Financial Field",
+    "city": "Philadelphia",
+    "altitude_m": null,
+    "climate": null,
+    "surface": "grass",
+    "history": []
+  },
+  "nrg_stadium": {
+    "name": "NRG Stadium",
+    "city": "Houston",
+    "altitude_m": null,
+    "climate": null,
+    "surface": "grass",
+    "history": []
+  },
+  "at_t_stadium": {
+    "name": "AT&T Stadium",
+    "city": "Arlington, Texas",
+    "altitude_m": null,
+    "climate": null,
+    "surface": "grass",
+    "history": []
+  },
+  "estadio_bbva": {
+    "name": "Estadio BBVA",
+    "city": "Guadalupe, Nuevo León",
+    "altitude_m": null,
+    "climate": null,
+    "surface": "grass",
+    "history": []
+  },
+  "hard_rock_stadium": {
+    "name": "Hard Rock Stadium",
+    "city": "Miami Gardens, Florida",
+    "altitude_m": null,
+    "climate": null,
+    "surface": "grass",
+    "history": []
+  },
+  "mercedes_benz_stadium": {
+    "name": "Mercedes-Benz Stadium",
+    "city": "Atlanta",
+    "altitude_m": null,
+    "climate": null,
+    "surface": "grass",
+    "history": []
+  },
+  "lumen_field": {
+    "name": "Lumen Field",
+    "city": "Seattle",
+    "altitude_m": null,
+    "climate": null,
+    "surface": "grass",
+    "history": []
+  },
+  "arrowhead_stadium": {
+    "name": "Arrowhead Stadium",
+    "city": "Kansas City, Missouri",
+    "altitude_m": null,
+    "climate": null,
+    "surface": "grass",
+    "history": []
+  }
+}

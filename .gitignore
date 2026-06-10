@@ -1,0 +1,17 @@
+# ── 凭证 · 绝不提交 ──
+config/secrets.local.json
+*.secrets.json
+.env
+.env.*
+
+# ── 不发布:基底镜像 / 旧备份 / 大采集原文(可由代码重跑生成) ──
+base/
+backup/
+wc_runs/raw/
+
+# ── Python ──
+__pycache__/
+*.pyc
+
+# ── 临时 ──
+*.tmp

@@ -1,0 +1,74 @@
+{
+  "A": [
+    "MEX",
+    "RSA",
+    "KOR",
+    "CZE"
+  ],
+  "B": [
+    "CAN",
+    "BIH",
+    "QAT",
+    "SUI"
+  ],
+  "D": [
+    "USA",
+    "PAR",
+    "AUS",
+    "TUR"
+  ],
+  "C": [
+    "HAI",
+    "SCO",
+    "BRA",
+    "MAR"
+  ],
+  "E": [
+    "CIV",
+    "ECU",
+    "GER",
+    "CUW"
+  ],
+  "F": [
+    "NED",
+    "JPN",
+    "SWE",
+    "TUN"
+  ],
+  "H": [
+    "KSA",
+    "URU",
+    "ESP",
+    "CPV"
+  ],
+  "G": [
+    "IRN",
+    "NZL",
+    "BEL",
+    "EGY"
+  ],
+  "I": [
+    "FRA",
+    "SEN",
+    "IRQ",
+    "NOR"
+  ],
+  "J": [
+    "ARG",
+    "ALG",
+    "AUT",
+    "JOR"
+  ],
+  "L": [
+    "GHA",
+    "PAN",
+    "ENG",
+    "CRO"
+  ],
+  "K": [
+    "POR",
+    "COD",
+    "UZB",
+    "COL"
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "R32": [
+    {
+      "round": "R32",
+      "date": "2026-06-29",
+      "venue": "Foxborough",
+      "slot_a": "Winner Group E",
+      "slot_b": "3rd Group A/B/C/D/F"
+    },
+    {
+      "round": "R32",
+      "date": "2026-06-30",
+      "venue": "East Rutherford",
+      "slot_a": "Winner Group I",
+      "slot_b": "3rd Group C/D/F/G/H"
+    },
+    {
+      "round": "R32",
+      "date": "2026-06-28",
+      "venue": "Inglewood",
+      "slot_a": "Runner-up Group A",
+      "slot_b": "Runner-up Group B"
+    },
+    {
+      "round": "R32",
+      "date": "2026-06-29",
+      "venue": "Guadalupe",
+      "slot_a": "Winner Group F",
+      "slot_b": "Runner-up Group C"
+    },
+    {
+      "round": "R32",
+      "date": "2026-07-02",
+      "venue": "Toronto",
+      "slot_a": "Runner-up Group K",
+      "slot_b": "Runner-up Group L"
+    },
+    {
+      "round": "R32",
+      "date": "2026-07-02",
+      "venue": "Inglewood",
+      "slot_a": "Winner Group H",
+      "slot_b": "Runner-up Group J"
+    },
+    {
+      "round": "R32",
+      "date": "2026-07-01",
+      "venue": "Santa Clara",
+      "slot_a": "Winner Group D",
+      "slot_b": "3rd Group B/E/F/I/J"
+    },
+    {
+      "round": "R32",
+      "date": "2026-07-01",
+      "venue": "Seattle",
+      "slot_a": "Winner Group G",
+      "slot_b": "3rd Group A/E/H/I/J"
+    },
+    {
+      "round": "R32",
+      "date": "2026-06-29",
+      "venue": "Houston",
+      "slot_a": "Winner Group C",
+      "slot_b": "Runner-up Group F"
+    },
+    {
+      "round": "R32",
+      "date": "2026-06-30",
+      "venue": "Arlington",
+      "slot_a": "Runner-up Group E",
+      "slot_b": "Runner-up Group I"
+    },
+    {
+      "round": "R32",
+      "date": "2026-06-30",
+      "venue": "Mexico City",
+      "slot_a": "Winner Group A",
+      "slot_b": "3rd Group C/E/F/H/I"
+    },
+    {
+      "round": "R32",
+      "date": "2026-07-01",
+      "venue": "Atlanta",
+      "slot_a": "Winner Group L",
+      "slot_b": "3rd Group E/H/I/J/K"
+    },
+    {
+      "round": "R32",
+      "date": "2026-07-03",
+      "venue": "Miami Gardens",
+      "slot_a": "Winner Group J",
+      "slot_b": "Runner-up Group H"
+    },
+    {
+      "round": "R32",
+      "date": "2026-07-03",
+      "venue": "Arlington",
+      "slot_a": "Runner-up Group D",
+      "slot_b": "Runner-up Group G"
+    },
+    {
+      "round": "R32",
+      "date": "2026-07-02",
+      "venue": "Vancouver",
+      "slot_a": "Winner Group B",
+      "slot_b": "3rd Group E/F/G/I/J"
+    },
+    {
+      "round": "R32",
+      "date": "2026-07-03",
+      "venue": "Kansas City",
+      "slot_a": "Winner Group K",
+      "slot_b": "3rd Group D/E/I/J/L"
+    }
+  ],
+  "note": "占位，实队小组赛后定"
+}

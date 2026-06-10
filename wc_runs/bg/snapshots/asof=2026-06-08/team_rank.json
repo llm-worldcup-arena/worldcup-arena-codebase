@@ -1,0 +1,338 @@
+{
+  "MEX": {
+    "fifa_rank": 15,
+    "fifa_asof": "2026-04-01",
+    "elo": 1875,
+    "elo_asof": "2026-06-08",
+    "squad_value_m": null
+  },
+  "RSA": {
+    "fifa_rank": 60,
+    "fifa_asof": "2026-04-01",
+    "elo": 1528,
+    "elo_asof": "2026-06-08",
+    "squad_value_m": null
+  },
+  "KOR": {
+    "fifa_rank": 25,
+    "fifa_asof": "2026-04-01",
+    "elo": 1758,
+    "elo_asof": "2026-06-08",
+    "squad_value_m": null
+  },
+  "CZE": {
+    "fifa_rank": 41,
+    "fifa_asof": "2026-04-01",
+    "elo": 1740,
+    "elo_asof": "2026-06-08",
+    "squad_value_m": null
+  },
+  "CAN": {
+    "fifa_rank": 30,
+    "fifa_asof": "2026-04-01",
+    "elo": 1788,
+    "elo_asof": "2026-06-08",
+    "squad_value_m": null
+  },
+  "BIH": {
+    "fifa_rank": 65,
+    "fifa_asof": "2026-04-01",
+    "elo": 1595,
+    "elo_asof": "2026-06-08",
+    "squad_value_m": null
+  },
+  "QAT": {
+    "fifa_rank": 55,
+    "fifa_asof": "2026-04-01",
+    "elo": 1421,
+    "elo_asof": "2026-06-08",
+    "squad_value_m": null
+  },
+  "SUI": {
+    "fifa_rank": 19,
+    "fifa_asof": "2026-04-01",
+    "elo": 1891,
+    "elo_asof": "2026-06-08",
+    "squad_value_m": null
+  },
+  "BRA": {
+    "fifa_rank": 6,
+    "fifa_asof": "2026-04-01",
+    "elo": 1991,
+    "elo_asof": "2026-06-08",
+    "squad_value_m": null
+  },
+  "MAR": {
+    "fifa_rank": 8,
+    "fifa_asof": "2026-04-01",
+    "elo": 1827,
+    "elo_asof": "2026-06-08",
+    "squad_value_m": null
+  },
+  "HAI": {
+    "fifa_rank": 83,
+    "fifa_asof": "2026-04-01",
+    "elo": 1548,
+    "elo_asof": "2026-06-08",
+    "squad_value_m": null
+  },
+  "SCO": {
+    "fifa_rank": 43,
+    "fifa_asof": "2026-04-01",
+    "elo": 1782,
+    "elo_asof": "2026-06-08",
+    "squad_value_m": null
+  },
+  "USA": {
+    "fifa_rank": 16,
+    "fifa_asof": "2026-04-01",
+    "elo": 1726,
+    "elo_asof": "2026-06-08",
+    "squad_value_m": null
+  },
+  "PAR": {
+    "fifa_rank": 40,
+    "fifa_asof": "2026-04-01",
+    "elo": 1833,
+    "elo_asof": "2026-06-08",
+    "squad_value_m": null
+  },
+  "AUS": {
+    "fifa_rank": 27,
+    "fifa_asof": "2026-04-01",
+    "elo": 1777,
+    "elo_asof": "2026-06-08",
+    "squad_value_m": null
+  },
+  "TUR": {
+    "fifa_rank": 22,
+    "fifa_asof": "2026-04-01",
+    "elo": 1911,
+    "elo_asof": "2026-06-08",
+    "squad_value_m": null
+  },
+  "GER": {
+    "fifa_rank": 10,
+    "fifa_asof": "2026-04-01",
+    "elo": 1932,
+    "elo_asof": "2026-06-08",
+    "squad_value_m": null
+  },
+  "CUW": {
+    "fifa_rank": 82,
+    "fifa_asof": "2026-04-01",
+    "elo": 1434,
+    "elo_asof": "2026-06-08",
+    "squad_value_m": null
+  },
+  "CIV": {
+    "fifa_rank": 34,
+    "fifa_asof": "2026-04-01",
+    "elo": 1695,
+    "elo_asof": "2026-06-08",
+    "squad_value_m": null
+  },
+  "ECU": {
+    "fifa_rank": 23,
+    "fifa_asof": "2026-04-01",
+    "elo": 1938,
+    "elo_asof": "2026-06-08",
+    "squad_value_m": null
+  },
+  "NED": {
+    "fifa_rank": 7,
+    "fifa_asof": "2026-04-01",
+    "elo": 1944,
+    "elo_asof": "2026-06-08",
+    "squad_value_m": null
+  },
+  "JPN": {
+    "fifa_rank": 18,
+    "fifa_asof": "2026-04-01",
+    "elo": 1906,
+    "elo_asof": "2026-06-08",
+    "squad_value_m": null
+  },
+  "SWE": {
+    "fifa_rank": 38,
+    "fifa_asof": "2026-04-01",
+    "elo": 1712,
+    "elo_asof": "2026-06-08",
+    "squad_value_m": null
+  },
+  "TUN": {
+    "fifa_rank": 44,
+    "fifa_asof": "2026-04-01",
+    "elo": 1628,
+    "elo_asof": "2026-06-08",
+    "squad_value_m": null
+  },
+  "BEL": {
+    "fifa_rank": 9,
+    "fifa_asof": "2026-04-01",
+    "elo": 1893,
+    "elo_asof": "2026-06-08",
+    "squad_value_m": null
+  },
+  "EGY": {
+    "fifa_rank": 29,
+    "fifa_asof": "2026-04-01",
+    "elo": 1696,
+    "elo_asof": "2026-06-08",
+    "squad_value_m": null
+  },
+  "IRN": {
+    "fifa_rank": 21,
+    "fifa_asof": "2026-04-01",
+    "elo": 1772,
+    "elo_asof": "2026-06-08",
+    "squad_value_m": null
+  },
+  "NZL": {
+    "fifa_rank": 85,
+    "fifa_asof": "2026-04-01",
+    "elo": 1562,
+    "elo_asof": "2026-06-08",
+    "squad_value_m": null
+  },
+  "ESP": {
+    "fifa_rank": 2,
+    "fifa_asof": "2026-04-01",
+    "elo": 2155,
+    "elo_asof": "2026-06-08",
+    "squad_value_m": null
+  },
+  "CPV": {
+    "fifa_rank": 69,
+    "fifa_asof": "2026-04-01",
+    "elo": 1578,
+    "elo_asof": "2026-06-08",
+    "squad_value_m": null
+  },
+  "KSA": {
+    "fifa_rank": 61,
+    "fifa_asof": "2026-04-01",
+    "elo": 1569,
+    "elo_asof": "2026-06-08",
+    "squad_value_m": null
+  },
+  "URU": {
+    "fifa_rank": 17,
+    "fifa_asof": "2026-04-01",
+    "elo": 1892,
+    "elo_asof": "2026-06-08",
+    "squad_value_m": null
+  },
+  "FRA": {
+    "fifa_rank": 1,
+    "fifa_asof": "2026-04-01",
+    "elo": 2062,
+    "elo_asof": "2026-06-08",
+    "squad_value_m": null
+  },
+  "SEN": {
+    "fifa_rank": 14,
+    "fifa_asof": "2026-04-01",
+    "elo": 1867,
+    "elo_asof": "2026-06-08",
+    "squad_value_m": null
+  },
+  "IRQ": {
+    "fifa_rank": 57,
+    "fifa_asof": "2026-04-01",
+    "elo": 1618,
+    "elo_asof": "2026-06-08",
+    "squad_value_m": null
+  },
+  "NOR": {
+    "fifa_rank": 31,
+    "fifa_asof": "2026-04-01",
+    "elo": 1914,
+    "elo_asof": "2026-06-08",
+    "squad_value_m": null
+  },
+  "ARG": {
+    "fifa_rank": 3,
+    "fifa_asof": "2026-04-01",
+    "elo": 2114,
+    "elo_asof": "2026-06-08",
+    "squad_value_m": null
+  },
+  "ALG": {
+    "fifa_rank": 28,
+    "fifa_asof": "2026-04-01",
+    "elo": 1760,
+    "elo_asof": "2026-06-08",
+    "squad_value_m": null
+  },
+  "AUT": {
+    "fifa_rank": 24,
+    "fifa_asof": "2026-04-01",
+    "elo": 1830,
+    "elo_asof": "2026-06-08",
+    "squad_value_m": null
+  },
+  "JOR": {
+    "fifa_rank": 63,
+    "fifa_asof": "2026-04-01",
+    "elo": 1680,
+    "elo_asof": "2026-06-08",
+    "squad_value_m": null
+  },
+  "POR": {
+    "fifa_rank": 5,
+    "fifa_asof": "2026-04-01",
+    "elo": 1986,
+    "elo_asof": "2026-06-08",
+    "squad_value_m": null
+  },
+  "COD": {
+    "fifa_rank": 46,
+    "fifa_asof": "2026-04-01",
+    "elo": 1661,
+    "elo_asof": "2026-06-08",
+    "squad_value_m": null
+  },
+  "UZB": {
+    "fifa_rank": 50,
+    "fifa_asof": "2026-04-01",
+    "elo": 1718,
+    "elo_asof": "2026-06-08",
+    "squad_value_m": null
+  },
+  "COL": {
+    "fifa_rank": 13,
+    "fifa_asof": "2026-04-01",
+    "elo": 1982,
+    "elo_asof": "2026-06-08",
+    "squad_value_m": null
+  },
+  "ENG": {
+    "fifa_rank": 4,
+    "fifa_asof": "2026-04-01",
+    "elo": 2021,
+    "elo_asof": "2026-06-08",
+    "squad_value_m": null
+  },
+  "CRO": {
+    "fifa_rank": 11,
+    "fifa_asof": "2026-04-01",
+    "elo": 1911,
+    "elo_asof": "2026-06-08",
+    "squad_value_m": null
+  },
+  "GHA": {
+    "fifa_rank": 74,
+    "fifa_asof": "2026-04-01",
+    "elo": 1510,
+    "elo_asof": "2026-06-08",
+    "squad_value_m": null
+  },
+  "PAN": {
+    "fifa_rank": 33,
+    "fifa_asof": "2026-04-01",
+    "elo": 1730,
+    "elo_asof": "2026-06-08",
+    "squad_value_m": null
+  }
+}
