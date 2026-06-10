@@ -132,3 +132,14 @@ def save_pred(kind, batch_ts, data, meta=None):
         open(f"{d}/_meta.md", "w", encoding="utf-8").write(meta)
     print(f"  ✅ 存 → predictions/{batch_ts}/{kind}.json")
     return path
+
+
+def save_prompt(batch_ts, kind, system, user):
+    """留存该预测【实际用的 prompt】(System+User,含真实抬头+summary)到
+    predictions/<批次>/_prompts/<kind>.txt —— 和预测结果放一块,可追溯当时喂了什么。每类存一份。"""
+    d = f"{ROOT}/wc_runs/predictions/{batch_ts}/_prompts"
+    os.makedirs(d, exist_ok=True)
+    p = f"{d}/{kind}.txt"
+    if not os.path.exists(p):                              # 同类 prompt 对各模型一致,存一份样本即可
+        with open(p, "w", encoding="utf-8") as f:
+            f.write(f"【System】\n{system}\n\n{'='*64}\n【User】\n{user}")

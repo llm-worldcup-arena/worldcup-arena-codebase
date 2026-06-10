@@ -1,19 +1,21 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""单场 7 市场预测:喂对阵 2 队完整 summary → 6 模型各预测 7 个市场。
-🚨 真正跑前必须先向用户汇报(skill wc-predict / 记忆 feedback-eval-report-first)。本脚本不评分(赛果未出)。
+"""单场 7 市场预测:喂比赛抬头 + 对阵 2 队完整 summary → 6 模型各预测 7 个市场。
+🚨 真正跑前必须先向用户汇报(skill wc-predict / 记忆 feedback-eval-report-first)。不评分。
+   跑时自动把实际 prompt 留存到 predictions/<批次>/_prompts/。
 
 跑:python3 predict_match.py --home MEX --away RSA --snapshot 2026-06-10_1310
 """
 import argparse
-from common import load_models, read_summary, ask_json, save_pred, run_ts, match_header
+from concurrent.futures import ThreadPoolExecutor
+from common import load_models, read_summary, ask_json, save_pred, save_prompt, run_ts, match_header
 
 SYS = ("你是资深足球分析师。下面两队的赛前资料供你参考,你可结合自己掌握的球队/球员信息与判断"
        "来预测,不必局限于给定资料。先给一点简要分析,再在最后输出 JSON(全文只这一个 JSON)。")
 
 
-def predict_one(model_id, home, away, sh):
-    user = f"""【本场比赛】
+def build_user(home, away, sh):
+    return f"""【本场比赛】
 {match_header(home, away)}
 
 【主队 {home} · 赛前资料】
@@ -33,7 +35,10 @@ def predict_one(model_id, home, away, sh):
   "半全场": "主-主 / 主-平 / 主-客 / 平-主 / 平-平 / 平-客 / 客-主 / 客-平 / 客-客（共9种,选一）",
   "正确比分": "给最可能的比分,如 2-1 / 1-0 / 0-0 / 2-2"
 }}"""
-    return ask_json(model_id, SYS, user)
+
+
+def predict_one(model_id, home, away, sh):
+    return ask_json(model_id, SYS, build_user(home, away, sh))
 
 
 def main():
@@ -46,8 +51,9 @@ def main():
     a = ap.parse_args()
     models = [m for m in load_models() if not a.only or m["name"].lower() == a.only.lower()]
     bt = a.run_ts or run_ts()
+    kind = f"match_{a.home}_vs_{a.away}"
     print(f"⚠️ 单场预测 {a.home} vs {a.away}(快照 {a.snapshot}）· {len(models)} 模型 · 批次 {bt} —— 真正跑前应已向用户汇报")
-    from concurrent.futures import ThreadPoolExecutor
+    save_prompt(bt, kind, SYS, build_user(a.home, a.away, a.snapshot))        # 留存实际 prompt
     out = {}
     def _run(m):
         return m["name"], predict_one(m["id"], a.home, a.away, a.snapshot)
@@ -57,7 +63,7 @@ def main():
             print(f"  ✓ {name}: {res['_json'].get('胜平负') if res and '_json' in res else '失败'}")
     meta = (f"# 预测批次 {bt}\n- 类型:单场 {a.home} vs {a.away}\n- 喂快照:{a.snapshot}\n"
             f"- 模型:{[m['name'] for m in models]}\n- 防泄露:喂赛前快照、不含本场结果\n")
-    save_pred(f"match_{a.home}_vs_{a.away}", bt, out, meta)
+    save_pred(kind, bt, out, meta)
 
 
 if __name__ == "__main__":

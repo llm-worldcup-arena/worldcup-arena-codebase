@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """全局彩池预测(夺冠 / 进决赛2 / 四强4 / 夺冠大洲 / 总进球大小 285.5)。
-喂法:48 队「速览」(extract_brief 默认:速览+⑦动态+⑧定位+市值,去掉 ⑤阵容5000字细节),一次喂全 → 全局视野。
-🚨 真正跑前必须先向用户汇报(skill wc-predict)。
+喂法:赛事抬头 + 48 队速览(extract_brief:速览+市值整段 + ⑧⑦②③⑥精华,~118k token),一次喂全 → 全局视野。
+🚨 真正跑前必须先向用户汇报。跑时自动把 prompt 留存到批次 _prompts/。
 
 跑:python3 predict_global.py --snapshot 2026-06-10_1310 --run-ts 2026-06-10_1437 [--only Seed]
 """
 import argparse
 from concurrent.futures import ThreadPoolExecutor
-from common import load_models, load_groups, read_summary, extract_brief, ask_json, save_pred, run_ts
+from common import load_models, load_groups, read_summary, extract_brief, ask_json, save_pred, save_prompt, run_ts
 
 SYS = ("你是资深足球分析师。下面 48 队的赛前简况供你参考,你可结合自己掌握的信息与判断预测本届世界杯整体走向,"
        "不必局限于给定资料。先简要分析夺冠梯队,再在最后输出 JSON(全文只这一个 JSON)。")
@@ -21,8 +21,10 @@ def build_context(snapshot):
     return "\n\n".join(parts), teams
 
 
-def predict_one(model_id, ctx):
-    user = f"""以下是本届世界杯全部 48 队的赛前简况(实力/近期状态/伤停/身价):
+def build_user(ctx):
+    return f"""【赛事】2026 世界杯(2026 年 6-7 月 · 美/加/墨三国主办 · 首届 48 队新赛制 · 共 104 场)· 目前【尚未开赛】。赛制:48 队分 12 组小组赛 → 每组前 2 名 + 成绩最好的 8 个第 3 名共 32 队进淘汰赛(32强 → 16强 → 8强 → 4强 → 决赛)。注:"总进球285.5" 指整届全部 104 场的总进球数(猜大或小)。基于以下赛前简况,预测整届最终走向。
+
+以下是全部 48 队的赛前简况(实力/近期状态/伤停/身价):
 
 {ctx}
 
@@ -34,7 +36,10 @@ def predict_one(model_id, ctx):
   "夺冠大洲": "欧洲 / 南美 / 北美 / 非洲 / 亚洲",
   "总进球285.5": "大 / 小"
 }}"""
-    return ask_json(model_id, SYS, user)
+
+
+def predict_one(model_id, ctx):
+    return ask_json(model_id, SYS, build_user(ctx))
 
 
 def main():
@@ -47,6 +52,7 @@ def main():
     bt = a.run_ts or run_ts()
     ctx, teams = build_context(a.snapshot)
     print(f"⚠️ 全局彩池 · {len(models)} 模型 · 批次 {bt} · 喂 {len(teams)} 队速览({len(ctx)} 字)")
+    save_prompt(bt, "global_pool", SYS, build_user(ctx))                  # 留存实际 prompt
     out = {}
     def _run(m):
         return m["name"], predict_one(m["id"], ctx)
