@@ -1,0 +1,6 @@
+# World Cup 2026 · Multi-LLM Prediction Benchmark
+# ───────────── 零第三方依赖 ─────────────
+# 全部使用 Python 标准库(urllib / json / re / concurrent.futures / argparse 等),
+# 运行环境 Python 3.8+,无需 pip install。
+#
+# 可选:采集 Transfermarkt 身价时,Apify token 从环境变量 APIFY_TOKEN 读取。
