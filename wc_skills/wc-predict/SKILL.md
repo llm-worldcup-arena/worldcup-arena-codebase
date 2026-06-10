@@ -48,7 +48,14 @@ Claude `claude-opus-4-8` · GPT `gpt-5.2` · Gemini `gemini-3.1-pro` · Kimi `ki
 
 ## 结果上线(转前端 `worldcup-data.js`)
 
-前端 `PRED` 对象 = 我们 `_unified.json` 的 `models`(matches + group_winners + global_pool,**结构一样**)。上线 = 读 `_unified.json["models"]` 替换 worldcup-data.js 的 `PRED` + 改批次号注释、**保留后面应用逻辑**(`function hc` 起到 `})();`)→ push `worldcup-arena-web`。前端 `nav-code` 按钮已链到代码库。
+**用 `update_web.py` 上线,绝不手动拼接 worldcup-data.js**:
+```bash
+python3 wc_eval/predict/update_web.py <批次>
+cd worldcup_2026_web/site && git add -A && git commit -m '上线 <批次>' && git push
+```
+脚本三件事根除崩页:① **只替换 PRED 对象**(括号深度匹配,文件其余一字不动)② **node 实跑 ready() 验证**(崩就回滚、不写坏文件)③ **cache-bust** index.html 的 `?v=`。前端 PRED = 我们 `_unified.json` 的 `models`(结构一样);`nav-code` 按钮已链代码库。
+
+> ⚠️ **2026-06-11 崩页教训**:曾「提取应用逻辑重组文件」,漏掉夹在 PRED 与 function hc 之间的 `var X2/OU/BT` 映射表 → `ready()` 崩 → 下半页全不渲染。**根因 =「重组文件」脆弱 + 只做语法检查没实跑**。`update_web.py` 从机制上根除(只换 PRED、必实跑验证、失败回滚)——**别再手动改 worldcup-data.js**。
 
 ## 评分(`score.py`,赛后对照真实赛果)
 
