@@ -1,57 +1,59 @@
+**English** | [中文](README_zh.md)
+
 # World Cup 2026 · Multi-LLM Prediction Benchmark
 
-6 家旗舰大模型(Claude / GPT / Gemini / Kimi / GLM / Seed)读 48 支球队的**赛前档案**,预测 2026 世界杯——单场盘口、小组头名、夺冠全局彩池——赛后用真实结果对照打分,排出模型积分榜。
+Six flagship LLMs (Claude / GPT / Gemini / Kimi / GLM / Seed) read **pre-match dossiers** of all 48 teams and predict the 2026 World Cup — match markets, group winners, and tournament outrights — then get scored against real results into a model leaderboard.
 
-## 做什么
+## What it does
 
-- **数据**:为 48 队各建一份赛前档案(`wc_runs/team_data/`)——阵容、近期状态、伤病、世界杯历史、身价,多源采集(Wikipedia / Transfermarkt / Elo)并交叉核对;
-- **预测**:6 模型读档案,做三类预测(下表);
-- **评分**:赛后用真实赛果对照打分 → 模型积分榜。
+- **Data**: a pre-match dossier for each of the 48 teams (`wc_runs/team_data/`) — squad, recent form, injuries, World Cup history, market value — collected from multiple sources (Wikipedia / Transfermarkt / Elo) and cross-checked;
+- **Predict**: the 6 models read the dossiers and make three kinds of predictions (below);
+- **Score**: after the matches, compare against real results → model leaderboard.
 
-> 防泄露:只喂「该预测点之前」的干净快照,绝不把待预测的赛果喂进去。
+> No leakage: only the clean snapshot *before* each prediction point is fed in; actual results are never included.
 
-## 三类预测
+## Three prediction types
 
-| 类型 | 喂什么 | 预测什么 |
+| Type | Input | Predicts |
 |---|---|---|
-| **单场 7 市场** | 对阵两队完整档案 | 胜平负 / 让球 / 大小 2.5 / 双方进球 / 单双 / 半全场 / 正确比分 |
-| **小组头名** | 该组 4 队档案 | 12 组各押头名 |
-| **全局彩池** | 48 队速览(`extract_brief` 压缩版) | 夺冠 / 进决赛 / 四强 / 夺冠大洲 / 总进球 |
+| **Match (7 markets)** | Both teams' full dossiers | 1X2 / handicap / O-U 2.5 / BTTS / odd-even / HT-FT / correct score |
+| **Group winner** | The group's 4 dossiers | Winner of each of the 12 groups |
+| **Tournament outrights** | 48-team digest (`extract_brief`) | Champion / finalists / semifinalists / winning confederation / total goals |
 
-## 快速开始
+## Quick start
 
 ```bash
-# 1. 零第三方依赖,Python 3.8+ 即可(标准库 urllib 调 API)
+# 1. Zero third-party deps — Python 3.8+ (stdlib urllib for API calls)
 
-# 2. 配置 API key(经 DMXAPI 统一调 6 模型)
+# 2. Configure your API key (6 models via DMXAPI)
 cp config/secrets.local.json.example config/secrets.local.json
-#    编辑它,填入你的 DMX_API_KEY
+#    edit it and fill in your DMX_API_KEY
 
-# 3. 跑预测(以 6/11 揭幕场为例)
+# 3. Run predictions (6/11 opening matches as an example)
 cd wc_eval/predict
-python3 predict_match.py  --home MEX --away RSA --snapshot 2026-06-10_1310   # 单场 7 市场
-python3 predict_group.py  --snapshot 2026-06-10_1310                          # 12 组头名
-python3 predict_global.py --snapshot 2026-06-10_1310                          # 全局彩池
-python3 merge_batch.py    <批次时间戳>                                          # 合成统一 json
+python3 predict_match.py  --home MEX --away RSA --snapshot 2026-06-10_1310   # match, 7 markets
+python3 predict_group.py  --snapshot 2026-06-10_1310                          # 12 group winners
+python3 predict_global.py --snapshot 2026-06-10_1310                          # tournament outrights
+python3 merge_batch.py    <batch-timestamp>                                    # merge into one JSON
 ```
 
-## 结构
+## Layout
 
-| 目录 | 内容 |
+| Dir | Contents |
 |---|---|
-| `wc_eval/` | 代码:`bg_collect/`(数据采集)+ `predict/`(6 模型预测) |
-| `wc_skills/` | 三个 skill:数据采集 / 增量更新 / 预测的操作规则 |
-| `config/` | LLM 配置(`llm.json` + key 模板) |
-| `wc_runs/` | 数据与产物:`team_data/`(48 队档案)、`predictions/`(预测结果)、`bg/`(结构化数据) |
-| `docs/` | 设计文档:代码地图、数据设计、整体方案、采集计划 |
+| `wc_eval/` | Code: `bg_collect/` (data collection) + `predict/` (6-model prediction) |
+| `wc_skills/` | Three skills: data collection / incremental update / prediction |
+| `config/` | LLM config (`llm.json` + key template) |
+| `wc_runs/` | Data & outputs: `team_data/` (48 dossiers), `predictions/`, `bg/` (structured data) |
+| `docs/` | Design docs: codebase map, data design, plan, collection plan |
 
-## 6 模型
+## The 6 models
 
-Claude `claude-opus-4-8` · GPT `gpt-5.2` · Gemini `gemini-3.1-pro` · Kimi `kimi-k2.5` · GLM `glm-5` · Seed `doubao-seed-2-0-pro` —— 统一经 DMXAPI(OpenAI 兼容)调用。
+Claude `claude-opus-4-8` · GPT `gpt-5.2` · Gemini `gemini-3.1-pro` · Kimi `kimi-k2.5` · GLM `glm-5` · Seed `doubao-seed-2-0-pro` — all called via DMXAPI (OpenAI-compatible).
 
-## 更多文档
+## More docs
 
-- 代码地图(收集→预测每个 py/skill 干啥)→ [`docs/CODEBASE.md`](docs/CODEBASE.md)
-- 数据/档案设计 → [`docs/BG_DESIGN.md`](docs/BG_DESIGN.md)
-- 整体方案 → [`docs/PLAN.md`](docs/PLAN.md)
-- 预测喂法 & token 预算 → [`wc_eval/predict/FEED_DESIGN.md`](wc_eval/predict/FEED_DESIGN.md)
+- Codebase map (what each py/skill does, collection → prediction) → [`docs/CODEBASE.md`](docs/CODEBASE.md)
+- Data / dossier design → [`docs/BG_DESIGN.md`](docs/BG_DESIGN.md)
+- Overall plan → [`docs/PLAN.md`](docs/PLAN.md)
+- Prediction feeding & token budget → [`wc_eval/predict/FEED_DESIGN.md`](wc_eval/predict/FEED_DESIGN.md)
