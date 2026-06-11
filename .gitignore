@@ -15,3 +15,6 @@ __pycache__/
 
 # ── 临时 ──
 *.tmp
+
+# ── 不发布:游离的 prompt 预览样例(各批次已自带 _prompts/) ──
+wc_runs/prompt_preview/
