@@ -8,7 +8,7 @@ import os, sys, json, re, datetime
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))   # 让 import llm_client（在 wc_eval/）
 from llm_client import chat, chat_search
 
-ROOT = "/home/ubuntu/worldcup_2026"
+ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))   # 仓库根(可移植,不再硬编码)
 PRED_DIR = f"{ROOT}/wc_eval/predict"
 
 
@@ -125,6 +125,37 @@ def _search_ids():
         return set()
 
 
+def _extract_last_json(txt):
+    """扫描文本里所有【括号配对平衡】的 {...} 块(支持嵌套、忽略字符串内的花括号),返回最后一个能 json.loads 的。
+    比旧的 re.findall(r"\\{[^{}]*\\}") 健壮:旧版只吃扁平 JSON,模型一旦返回嵌套结构就误抓、贪婪兜底还会吞进分析文字。"""
+    objs, depth, start, in_str, esc = [], 0, -1, False, False
+    for i, ch in enumerate(txt):
+        if in_str:                                   # 字符串内:只处理转义与收尾引号,花括号不计深度
+            if esc:
+                esc = False
+            elif ch == "\\":
+                esc = True
+            elif ch == '"':
+                in_str = False
+            continue
+        if ch == '"':
+            in_str = True
+        elif ch == "{":
+            if depth == 0:
+                start = i
+            depth += 1
+        elif ch == "}" and depth > 0:
+            depth -= 1
+            if depth == 0 and start >= 0:
+                objs.append(txt[start:i + 1])
+    for c in reversed(objs):                         # 答案 JSON 通常在末尾 → 从后往前取第一个能解析的
+        try:
+            return json.loads(c)
+        except Exception:
+            continue
+    return None
+
+
 def ask_json(model_id, system, user, retries=2, temperature=0.3):
     """调 LLM 要结构化 JSON。模型可先分析、最后给 JSON → 抓【最后一个】能解析的 JSON 对象。失败重试。
     models.json 标 search=true 的模型自动走联网搜索通道(chat_search),其余闭卷(chat)。
@@ -140,14 +171,9 @@ def ask_json(model_id, system, user, retries=2, temperature=0.3):
             else:
                 txt = chat(msgs, model=model_id, temperature=temperature,
                            timeout=300, reasoning_effort="high")  # thinking 拉满 high 档(实测均可传)
-            for c in reversed(re.findall(r"\{[^{}]*\}", txt, re.S)):     # 取最后一个扁平 JSON(答案在末尾)
-                try:
-                    return {"_json": json.loads(c), "_raw": txt.strip(), "_search": use_search}
-                except Exception:
-                    continue
-            m = re.search(r"\{.*\}", txt, re.S)                          # 兜底:贪婪
-            if m:
-                return {"_json": json.loads(m.group(0)), "_raw": txt.strip(), "_search": use_search}
+            obj = _extract_last_json(txt)            # 括号配对抽取(支持嵌套,见 _extract_last_json)
+            if obj is not None:
+                return {"_json": obj, "_raw": txt.strip(), "_search": use_search}
         except Exception as e:
             print(f"      {model_id} 失败: {str(e)[:60]}")
     return None

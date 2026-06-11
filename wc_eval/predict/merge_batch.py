@@ -7,7 +7,7 @@
 """
 import os, sys, json, glob
 
-ROOT = "/home/ubuntu/worldcup_2026"
+ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))   # 仓库根(可移植,不再硬编码)
 
 
 def merge_batch(batch_ts):

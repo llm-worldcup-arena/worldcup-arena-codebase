@@ -6,10 +6,10 @@
 
 跑:python3 score.py
 """
-import json
+import json, os
 from common import match_handicap
 
-ROOT = "/home/ubuntu/worldcup_2026"
+ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))   # 仓库根(可移植,不再硬编码)
 ARC = f"{ROOT}/wc_runs/archive"
 
 # 单场 7 市场权重(2026-06 调:看着难的其实多是猜,权重压平)+ 头名 + 全局各项:

@@ -27,9 +27,11 @@
 ```bash
 # 1. 零第三方依赖,Python 3.8+ 即可(标准库 urllib 调 API)
 
-# 2. 配置 API key(经 DMXAPI 统一调 6 模型)
+# 2. 配置 API key
 cp config/secrets.local.json.example config/secrets.local.json
-#    编辑它,填入你的 DMX_API_KEY
+#    DMX_API_KEY 必填(Claude/GPT/Gemini/Seed 经 DMXAPI 调)。
+#    MOONSHOT_API_KEY / ZHIPU_API_KEY 选填——仅当要让 Kimi、GLM 也开联网搜索时填
+#    (它俩经 DMXAPI 的通道没有服务端搜索,需各自官方 API 直连)。
 
 # 3. 跑预测(以 6/11 揭幕场为例)
 cd wc_eval/predict
@@ -49,10 +51,13 @@ python3 merge_batch.py    <批次时间戳>                                     
 | `wc_runs/` | 数据与产物:`team_data/`(48 队档案)、`predictions/`(预测结果)、`bg/`(结构化数据) |
 | `docs/` | 设计文档:代码地图、数据设计、整体方案、采集计划 |
 
-## 6 个 SOTA 模型
+## 6 个模型
 
-均为各家**最新旗舰(state-of-the-art)**:
-Claude `claude-opus-4-8` · GPT `gpt-5.2` · Gemini `gemini-3.1-pro` · Kimi `kimi-k2.5` · GLM `glm-5` · Seed `doubao-seed-2-0-pro` —— 统一经 DMXAPI(OpenAI 兼容)调用。
+均为各家**带思考(reasoning)的旗舰**,且都开了联网搜索。选型上取能吐思考过程的变体(如用 `claude-opus-4-6-thinking` 而非 4-8——后者经 DMXAPI 不返回思考过程):
+
+Claude `claude-opus-4-6-thinking` · GPT `gpt-5.2` · Gemini `gemini-3.1-pro-preview-thinking` · Kimi `kimi-k2.6` · GLM `glm-5.1` · Seed `doubao-seed-2-0-pro-260215`。
+
+Claude / GPT / Gemini / Seed 经 **DMXAPI**(OpenAI 兼容)调用;**Kimi、GLM 走各自官方 API 直连**(Moonshot / 智谱)——这俩经 DMXAPI 的通道没有服务端搜索,为让 6 家都"开卷"故用官方端点。每个模型的具体通道、温度、token 上限见 [`wc_eval/predict/models.json`](wc_eval/predict/models.json)。
 
 ## 更多文档
 

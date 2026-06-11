@@ -15,10 +15,11 @@
 教训(2026-06-11):曾"提取应用逻辑重组文件",漏掉夹在 PRED 与 function hc 间的 var X2/OU/BT
 → ready() 崩 → 下半页不渲染。本脚本只换 PRED + 实跑验证 + 回滚,机制上根除。
 """
-import json, re, sys, subprocess, argparse, datetime
+import json, re, sys, subprocess, argparse, datetime, os
 
-WEB = "/home/ubuntu/worldcup_2026_web/site"
-ROOT = "/home/ubuntu/worldcup_2026"
+ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))   # 仓库根(可移植)
+# 网页仓库在另一个目录;默认同级 worldcup_2026_web/site,可用环境变量 WC_WEB_DIR 覆盖
+WEB = os.environ.get("WC_WEB_DIR") or os.path.join(os.path.dirname(ROOT), "worldcup_2026_web", "site")
 ARC = f"{ROOT}/wc_runs/archive"
 
 
@@ -43,7 +44,7 @@ def main():
             break
         i += 1
     new = orig[:b0] + pred + orig[i + 1:]
-    new = re.sub(r"数据批次: \S+", f"数据批次:{batch}(预测档案)", new)
+    new = re.sub(r"数据批次:\s*\S+", f"数据批次:{batch}(预测档案)", new)   # 注:原正则冒号后多了空格,与实际"数据批次:xxx"(无空格)不匹配→注释永不更新,已修
     open(path, "w", encoding="utf-8").write(new)
 
     # ② node 运行时验证 ready()，崩就回滚

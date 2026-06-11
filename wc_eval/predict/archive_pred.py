@@ -11,7 +11,7 @@
 """
 import json, os, sys, argparse
 
-ROOT = "/home/ubuntu/worldcup_2026"
+ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))   # 仓库根(可移植,不再硬编码)
 ARC = f"{ROOT}/wc_runs/archive"
 PRED = f"{ARC}/predictions.json"
 

@@ -27,9 +27,11 @@ Six **flagship, state-of-the-art (SOTA)** LLMs (Claude / GPT / Gemini / Kimi / G
 ```bash
 # 1. Zero third-party deps — Python 3.8+ (stdlib urllib for API calls)
 
-# 2. Configure your API key (6 models via DMXAPI)
+# 2. Configure your API keys
 cp config/secrets.local.json.example config/secrets.local.json
-#    edit it and fill in your DMX_API_KEY
+#    DMX_API_KEY is required (Claude/GPT/Gemini/Seed go through DMXAPI).
+#    MOONSHOT_API_KEY / ZHIPU_API_KEY are optional — only needed if you want
+#    Kimi & GLM to use live web search (their DMXAPI routes have no server-side search).
 
 # 3. Run predictions (6/11 opening matches as an example)
 cd wc_eval/predict
@@ -49,10 +51,13 @@ python3 merge_batch.py    <batch-timestamp>                                    #
 | `wc_runs/` | Data & outputs: `team_data/` (48 dossiers), `predictions/`, `bg/` (structured data) |
 | `docs/` | Design docs: codebase map, data design, plan, collection plan |
 
-## The 6 SOTA models
+## The 6 models
 
-Each is the **latest, state-of-the-art flagship** from its family:
-Claude `claude-opus-4-8` · GPT `gpt-5.2` · Gemini `gemini-3.1-pro` · Kimi `kimi-k2.5` · GLM `glm-5` · Seed `doubao-seed-2-0-pro` — all called via DMXAPI (OpenAI-compatible).
+Each is a **thinking/reasoning flagship** from its family, with live web search enabled. We pick the variant that exposes a reasoning trace (e.g. `claude-opus-4-6-thinking` rather than 4-8, which doesn't surface one over DMXAPI):
+
+Claude `claude-opus-4-6-thinking` · GPT `gpt-5.2` · Gemini `gemini-3.1-pro-preview-thinking` · Kimi `kimi-k2.6` · GLM `glm-5.1` · Seed `doubao-seed-2-0-pro-260215`.
+
+Claude / GPT / Gemini / Seed are called via **DMXAPI** (OpenAI-compatible). **Kimi and GLM call their official APIs directly** (Moonshot / Zhipu) — DMXAPI's routes for those two have no server-side web search, so to keep all six "open-book" they use the official endpoints. The exact channel, temperature and token limits per model are recorded in [`wc_eval/predict/models.json`](wc_eval/predict/models.json).
 
 ## More docs
 
