@@ -1,6 +1,6 @@
 ---
 name: wc-predict
-description: 世界杯预测评测——6 家 SOTA 旗舰模型(经 DMXAPI)读 team_data 的 summary 做预测,赛后对照真实赛果打分→积分榜。赛前跑全量(单场+头名+全局),开赛后逐日只跑单场。两条铁律:开跑前必先汇报、防泄露只喂干净快照。
+description: 世界杯预测评测——6 家 SOTA 旗舰模型(经 DMXAPI)读 team_data 的 summary 做预测,赛后对照真实赛果打分→积分榜。Claude/GPT/Gemini/Seed 4 家开真联网搜索(chat_search),Kimi/GLM 经 DMXAPI 开不了(闭卷,注明不对称)。赛前跑全量(单场+头名+全局),开赛后逐日只跑单场。两条铁律:开跑前必先汇报、防泄露只喂干净快照(带搜索只能预测未开球场次)。
 ---
 
 # 世界杯预测评测
@@ -10,11 +10,19 @@ description: 世界杯预测评测——6 家 SOTA 旗舰模型(经 DMXAPI)读 t
 ## 🚨 两条铁律
 
 1. **开跑前必先汇报**:真正调模型跑测评(烧 DMX API)前,**必须先向用户汇报**(测什么 / 哪 6 模型 / 调用量·成本 / 防泄露确认),**等用户确认才跑**。见记忆 `feedback-eval-report-first`。
-2. **防泄露**:只喂「该预测点**之前**」的干净快照——赛前=base/最新版;逐日=当轮快照(`snapshot_round` 出的)。**绝不把待预测的赛果喂进去。**
+2. **防泄露**:只喂「该预测点**之前**」的干净快照——赛前=base/最新版;逐日=当轮快照(`snapshot_round` 出的)。**绝不把待预测的赛果喂进去。**联网搜索开通后多一个口子:**带搜索的预测只能在开球前跑**——开打后模型会把赛果直接搜出来,**已开打/已结束的场次绝不带搜索补跑**(要补只能闭卷并在 meta 注明)。
 
 ## 评测对象(6 家带 thinking 的 SOTA · `wc_eval/predict/models.json`)
 
-Claude `claude-opus-4-6-thinking` · GPT `gpt-5.2` · Gemini `gemini-3.1-pro-preview-thinking` · Kimi `Kimi-K2-Thinking` · GLM `glm-5` · Seed `doubao-seed-2-0-pro-260215`,统一经 `wc_eval/llm_client.py`(DMXAPI)调;**`ask_json` 统一传 `reasoning_effort:"high"`(thinking 拉满最高档,6 模型实测均可传)**。
+Claude `claude-opus-4-6-thinking` · GPT `gpt-5.2` · Gemini `gemini-3.1-pro-preview-thinking` · Kimi `Kimi-K2-Thinking` · GLM `glm-5` · Seed `doubao-seed-2-0-pro-260215`,统一经 `wc_eval/llm_client.py`(DMXAPI)调。
+
+### 联网搜索(2026-06-11 接入,逐家实测)
+
+**搜索是 API 工具参数,prompt 里写"可以搜"不会真联网**(假搜真编实锤:glm 走偏门时自称能搜,把揭幕战对手答成新西兰)。`models.json` 每模型有 `search` 标记,`ask_json` 按标记自动分流:
+
+- **search=true(开卷 4 家)** Claude/GPT/Gemini/Seed → `llm_client.chat_search()`,各走不同接口:Claude=Anthropic 原生 `/v1/messages`+`web_search` 工具、GPT/Seed=`/v1/responses`+`web_search`、Gemini=`/v1beta` 原生+`google_search`。该通道**不传 reasoning_effort/temperature**(thinking 由 -thinking 型号自带;Claude 开 thinking 禁自定温度、gpt-5 系 responses 拒收 temperature),timeout 480s;
+- **search=false(闭卷 2 家)** Kimi/GLM:经 DMXAPI 是第三方托管通道,**无服务端搜索,所有偏门已实测排除**(kimi-k2.5 两步 $web_search、/v1/messages、智谱原生路径、:online 后缀——见 models.json `_search_dead_ends`,**别再试**);走原 `chat()`,`reasoning_effort:"high"` 照旧(实测可传);要开只能换 Moonshot/智谱官方 key 直连;
+- 每条预测带 `_search: true/false` 字段可追溯;**成绩单/对比展示必须注明「4 开卷 + 2 闭卷」的不对称**。
 
 > **为什么这 6 个(实测 2026-06-11,判据=响应是否吐 `reasoning_content` 思考过程)**:Claude opus-4-8 无 thinking 后缀 → 退 `claude-opus-4-6-thinking`;Gemini 换 `-thinking` 版、Kimi 换 `Kimi-K2-Thinking`(k2.5 实测 reasoning_content 为空);GLM-5、Seed-2.0 实测自带 thinking → 保留;**GPT 整个 OpenAI 家(含 o1/o3/o4 推理模型)在 DMXAPI 都不吐 reasoning_content(平台隐藏 reasoning tokens、非无 thinking)**,gpt-5.2 是稳定的 reasoning 旗舰。**旧纯 SOTA 配置见 models.json 的 `_sota_previous_备选`,可回滚。**
 
@@ -46,7 +54,8 @@ Claude `claude-opus-4-6-thinking` · GPT `gpt-5.2` · Gemini `gemini-3.1-pro-pre
 - **开放式 System**:「资料**供参考**,可结合自己掌握的信息与判断,**不必局限于给定**」—— 测真实预测力,不是阅读理解(**不再是旧版"只依据给定、不许编"**);
 - **赛事抬头**:每个 prompt 开头点明赛事/阶段/时间/**尚未开赛**;单场还带 `common.match_header`(读 matches.json,自动出 日期/场地/**主客场**/真主场 or 中立);头名带时间+出线规则;全局带赛制(104场)+总进球定义;
 - **先分析、再输出 JSON**;选项**能列全的列全**(半全场 9 种);**让球用固定盘口**——`common.handicap_clause` 给一条真实盘口(如 MEX-RSA 主-1、KOR-CZE 主-0.5),模型只判 **主胜盘/走盘/客胜盘**,**绝不让模型自选盘口**(旧版自选盘口=错,6 模型给不同线没法对照);
-- **prompt 留存**:跑时 `save_prompt` 自动把实际 prompt(含真实抬头+summary)存到 `predictions/<批次>/_prompts/<kind>.txt`,和结果放一块、可追溯。
+- **搜索注入句**:search=true 的模型,`ask_json` 会在 System 前自动加一句「你已接入实时联网搜索工具…」(闭卷模型没有,免得鼓励它假搜);
+- **prompt 留存**:跑时 `save_prompt` 自动把实际 prompt(含真实抬头+summary)存到 `predictions/<批次>/_prompts/<kind>.txt`,和结果放一块、可追溯。注意留存的是脚本原始 prompt,**不含上面那句自动注入**(句子固定,见 `common.py:ask_json`)。
 
 ## 结果上线(转前端 `worldcup-data.js`)
 
@@ -66,6 +75,6 @@ cd worldcup_2026_web/site && git add -A && git commit -m '上线 <批次>' && gi
 ## 存储 & 实测经验
 
 - `predictions/<日期_时分>/`:各类预测 json + `_meta.md` + **`_prompts/`(留存)** + **`_unified.json`(merge_batch 合并)**;
-- **并行** `ThreadPoolExecutor`(6-8);**`ask_json` timeout 300s**(thinking 慢,**GLM 偶 timeout 需重试**);`save_pred` **合并写**(补跑单模型不覆盖其他);
-- `ask_json` 抓**最后一个** JSON(容前面分析文字),返回 `{_json, _raw}`;
+- **并行** `ThreadPoolExecutor`(6-8);**`ask_json` timeout:闭卷 300s / 搜索 480s**(thinking+搜索更慢,**GLM 偶 timeout 需重试**);`save_pred` **合并写**(补跑单模型不覆盖其他);
+- `ask_json` 抓**最后一个** JSON(容前面分析文字),返回 `{_json, _raw, _search}`;搜索失败**不静默退闭卷**(宁可失败补跑,保 `_search` 字段真实);开卷模型**按次计搜索费**,汇报成本时记入;
 - **已跑批次**:1437(旧 prompt)→ 1604(开放式)→ **2330(最新:开放SYS + 赛事抬头 + prompt留存,210条全成功)**;前端现挂 **2330**。
