@@ -41,6 +41,57 @@ def chat(messages, model=None, temperature=0.7, timeout=120, **kw):
     return d["choices"][0]["message"]["content"]
 
 
+# ── 联网搜索版：搜索不是 prompt 能开的，是各家 API 的「工具/参数」，且接口各不相同（2026-06-11 实测 DMXAPI）：
+#    Claude → Anthropic 原生 /v1/messages + web_search 工具；GPT / 豆包 → /v1/responses + web_search 工具；
+#    Gemini → 原生 /v1beta:generateContent + google_search 工具；Kimi / GLM 经 DMXAPI 为第三方托管通道，
+#    无服务端搜索（喂 tools 会被丢弃或只回 tool_call 没人执行）→ 这俩仍走上面的 chat()，评测需注明不对称。
+
+def _post(url, body, headers, timeout):
+    req = urllib.request.Request(url, data=json.dumps(body).encode(),
+                                 headers={"Content-Type": "application/json", **headers}, method="POST")
+    return json.loads(urllib.request.urlopen(req, timeout=timeout).read())
+
+
+def chat_search(messages, model, temperature=0.3, timeout=300, max_uses=5):
+    """带【真联网搜索】的一轮对话，返回回复文本。只支持 claude*/gpt*/doubao*/gemini*，其余抛 ValueError。
+    参数策略：各通道只传实测能过的最小集（gpt-5 系经 responses 不收 temperature → 不传）。"""
+    cfg = load_config()
+    root = cfg["base_url"].rstrip("/").removesuffix("/v1")          # https://www.dmxapi.com
+    auth = {"Authorization": f"Bearer {cfg['_key']}"}
+    m = model.lower()
+
+    if m.startswith("claude"):                                       # Anthropic 原生：system 提到顶层参数
+        sys_txt = "\n".join(x["content"] for x in messages if x["role"] == "system")
+        body = {"model": model, "max_tokens": 16000,                  # thinking 模型禁自定温度 → 不传 temperature
+                "messages": [x for x in messages if x["role"] != "system"],
+                "tools": [{"type": "web_search_20250305", "name": "web_search", "max_uses": max_uses}]}
+        if sys_txt:
+            body["system"] = sys_txt
+        d = _post(f"{root}/v1/messages", body,
+                  {**auth, "x-api-key": cfg["_key"], "anthropic-version": "2023-06-01"}, timeout)
+        return "".join(b.get("text", "") for b in d["content"] if b.get("type") == "text")
+
+    if m.startswith("gpt") or m.startswith("doubao"):                # OpenAI Responses 兼容通道
+        d = _post(f"{root}/v1/responses",
+                  {"model": model, "input": messages, "tools": [{"type": "web_search"}]}, auth, timeout)
+        return "".join(c.get("text", "") for o in d.get("output", []) if o.get("type") == "message"
+                       for c in o.get("content", []))
+
+    if m.startswith("gemini"):                                       # Google 原生：google_search 接地
+        sys_txt = "\n".join(x["content"] for x in messages if x["role"] == "system")
+        body = {"contents": [{"role": "user", "parts": [{"text": x["content"]}]}
+                             for x in messages if x["role"] != "system"],
+                "tools": [{"google_search": {}}], "generationConfig": {"temperature": temperature}}
+        if sys_txt:
+            body["systemInstruction"] = {"parts": [{"text": sys_txt}]}
+        d = _post(f"{root}/v1beta/models/{model}:generateContent", body,
+                  {**auth, "x-goog-api-key": cfg["_key"]}, timeout)
+        parts = d["candidates"][0].get("content", {}).get("parts", [])
+        return "".join(p.get("text", "") for p in parts if not p.get("thought"))   # 滤掉思考块
+
+    raise ValueError(f"{model} 经 DMXAPI 无服务端联网搜索（Kimi/GLM 为托管通道），请走 chat()")
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("prompt", nargs="?", default="用一句话介绍 2026 世界杯")

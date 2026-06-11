@@ -2,7 +2,7 @@
 
 # World Cup 2026 · Multi-LLM Prediction Benchmark
 
-> 🌐 **Live demo:** https://zrw-lab.github.io/worldcup-arena-web/
+> 🌐 **Live demo:** https://llm-worldcup-arena.github.io/worldcup-arena-web/
 
 Six **flagship, state-of-the-art (SOTA)** LLMs (Claude / GPT / Gemini / Kimi / GLM / Seed) read **pre-match dossiers** of all 48 teams and predict the 2026 World Cup — match markets, group winners, and tournament outrights — then get scored against real results into a model leaderboard.
 

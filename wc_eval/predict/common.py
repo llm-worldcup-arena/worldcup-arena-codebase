@@ -6,7 +6,7 @@
 """
 import os, sys, json, re, datetime
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))   # 让 import llm_client（在 wc_eval/）
-from llm_client import chat
+from llm_client import chat, chat_search
 
 ROOT = "/home/ubuntu/worldcup_2026"
 PRED_DIR = f"{ROOT}/wc_eval/predict"
@@ -117,22 +117,37 @@ def handicap_clause(home, away):
             f"判定:{home} 净胜 ≥ {need} 球 →「主胜盘」;否则 →「客胜盘」。")
 
 
+def _search_ids():
+    """models.json 里 search=true 的模型(经 DMXAPI 可真联网,见 llm_client.chat_search)。"""
+    try:
+        return {m["id"] for m in load_models() if m.get("search")}
+    except Exception:
+        return set()
+
+
 def ask_json(model_id, system, user, retries=2, temperature=0.3):
     """调 LLM 要结构化 JSON。模型可先分析、最后给 JSON → 抓【最后一个】能解析的 JSON 对象。失败重试。
-    返回 {"_json": dict, "_raw": 全文}(保留分析全文,便于人看)。失败返回 None。"""
+    models.json 标 search=true 的模型自动走联网搜索通道(chat_search),其余闭卷(chat)。
+    返回 {"_json": dict, "_raw": 全文, "_search": bool}(保留分析全文,便于人看)。失败返回 None。"""
+    use_search = model_id in _search_ids()
+    if use_search:                       # 明告模型有真搜索工具,鼓励主动用(光在 prompt 里说"可以搜"并不会真联网)
+        system = "你已接入实时联网搜索工具,可主动搜索最新信息(伤停/状态/赔率/赛果等)辅助判断。\n" + system
+    msgs = [{"role": "system", "content": system}, {"role": "user", "content": user}]
     for _ in range(retries + 1):
         try:
-            txt = chat([{"role": "system", "content": system},
-                        {"role": "user", "content": user}], model=model_id, temperature=temperature,
-                       timeout=300, reasoning_effort="high")      # thinking 拉满 high 档(6 模型实测均可传)
+            if use_search:
+                txt = chat_search(msgs, model=model_id, temperature=temperature, timeout=480)
+            else:
+                txt = chat(msgs, model=model_id, temperature=temperature,
+                           timeout=300, reasoning_effort="high")  # thinking 拉满 high 档(实测均可传)
             for c in reversed(re.findall(r"\{[^{}]*\}", txt, re.S)):     # 取最后一个扁平 JSON(答案在末尾)
                 try:
-                    return {"_json": json.loads(c), "_raw": txt.strip()}
+                    return {"_json": json.loads(c), "_raw": txt.strip(), "_search": use_search}
                 except Exception:
                     continue
             m = re.search(r"\{.*\}", txt, re.S)                          # 兜底:贪婪
             if m:
-                return {"_json": json.loads(m.group(0)), "_raw": txt.strip()}
+                return {"_json": json.loads(m.group(0)), "_raw": txt.strip(), "_search": use_search}
         except Exception as e:
             print(f"      {model_id} 失败: {str(e)[:60]}")
     return None
