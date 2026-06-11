@@ -1,6 +1,6 @@
 ---
 name: wc-predict
-description: 世界杯预测评测——6 家 SOTA 旗舰模型(经 DMXAPI)读 team_data 的 summary 做预测,赛后对照真实赛果打分→积分榜。Claude/GPT/Gemini/Seed 4 家开真联网搜索(chat_search),Kimi/GLM 经 DMXAPI 开不了(闭卷,注明不对称)。赛前跑全量(单场+头名+全局),开赛后逐日只跑单场。两条铁律:开跑前必先汇报、防泄露只喂干净快照(带搜索只能预测未开球场次)。
+description: 世界杯预测评测——6 家 SOTA 旗舰模型读 team_data 的 summary 做预测,赛后对照真实赛果打分→积分榜。6 家全开真联网搜索(chat_search):Claude/GPT/Gemini/Seed 经 DMXAPI,Kimi/GLM 因 DMXAPI 无服务端搜索改走各自官方 API 直连(Moonshot/智谱,作备用开卷路径)。赛前跑【第一天全量=每模型 15 个=12 小组头名+1 全局+2 第一天单场】,开赛后逐日只跑单场。两条铁律:开跑前必先汇报、防泄露只喂干净快照(带搜索只能预测未开球场次)。
 ---
 
 # 世界杯预测评测
@@ -20,9 +20,14 @@ Claude `claude-opus-4-6-thinking` · GPT `gpt-5.2` · Gemini `gemini-3.1-pro-pre
 
 **搜索是 API 工具参数,prompt 里写"可以搜"不会真联网**(假搜真编实锤:glm 走偏门时自称能搜,把揭幕战对手答成新西兰)。`models.json` 每模型有 `search` 标记,`ask_json` 按标记自动分流:
 
-- **search=true(开卷 4 家)** Claude/GPT/Gemini/Seed → `llm_client.chat_search()`,各走不同接口:Claude=Anthropic 原生 `/v1/messages`+`web_search` 工具、GPT/Seed=`/v1/responses`+`web_search`、Gemini=`/v1beta` 原生+`google_search`。该通道**不传 reasoning_effort/temperature**(thinking 由 -thinking 型号自带;Claude 开 thinking 禁自定温度、gpt-5 系 responses 拒收 temperature),timeout 480s;
-- **search=false(闭卷 2 家)** Kimi/GLM:经 DMXAPI 是第三方托管通道,**无服务端搜索,所有偏门已实测排除**(kimi-k2.5 两步 $web_search、/v1/messages、智谱原生路径、:online 后缀——见 models.json `_search_dead_ends`,**别再试**);走原 `chat()`,`reasoning_effort:"high"` 照旧(实测可传);要开只能换 Moonshot/智谱官方 key 直连;
-- 每条预测带 `_search: true/false` 字段可追溯;**成绩单/对比展示必须注明「4 开卷 + 2 闭卷」的不对称**。
+- **search=true(6 家全开卷)** 全部经 `llm_client.chat_search()`,按厂商走各自接口:
+  - **Claude/GPT/Gemini/Seed 经 DMXAPI**:Claude=Anthropic 原生 `/v1/messages`+`web_search`、GPT/Seed=`/v1/responses`+`web_search`、Gemini=`/v1beta` 原生+`google_search`;
+  - **Kimi/GLM 走各自【官方 API 直连】(关键设计:DMXAPI 是统一默认通道,但它对 Kimi/GLM 是第三方托管、无服务端搜索 → 必须官方 key 直连作为"开卷备用路径")**:Kimi=Moonshot `api.moonshot.cn`(key `MOONSHOT_API_KEY`)、GLM=智谱 `open.bigmodel.cn`(key `ZHIPU_API_KEY`);
+  - 通道**不传 reasoning_effort/temperature**(thinking 由型号自带;Claude 开 thinking 禁自定温度、gpt-5 系 responses 拒 temperature、kimi-k2.6/glm-5.1 强制 temp=1 内部写死),timeout 480s;
+- **Kimi 接入**(`_kimi_search`):builtin `$web_search` 两步流程——收到 tool_call 把 arguments **原样**回传(含 server 给的 search_id,搜索由 Moonshot 服务端执行)、回传的 assistant 消息必须补 `reasoning_content` 字段(思考模型要求);
+- **GLM 接入**(`_glm_search`):glm-5.1 thinking + **函数调用**,模型自选 query → 我方调智谱独立搜索端点 `/web_search`(search_engine=search_std)执行 → 结果回传(搜索引擎仍是智谱自家、公平)。**为何不用智谱 in-chat web_search 工具**:实测它不带 `search_engine` 会**静默假搜**(答错揭幕战对手、prompt_tokens 仅 47),且不返回引用、难自证,故改用可控的函数调用执行;
+- **为何 Kimi/GLM 不走 DMXAPI**:DMX 那条托管通道无服务端搜索(喂 tools 被丢弃或只回 tool_call 没人执行,模型自认无法联网,GLM 偏门还会假搜)——见 models.json `_search_dead_ends`,**别再试 DMX 偏门**;
+- 每条预测带 `_search:true` 字段可追溯;现 **6 家全开卷**(Kimi/GLM 用各自官方 API,公开 repo 需在 `secrets.local.json` 各填自己的 key,gitignore 不入库)。
 
 > **为什么这 6 个(实测 2026-06-11,判据=响应是否吐 `reasoning_content` 思考过程)**:Claude opus-4-8 无 thinking 后缀 → 退 `claude-opus-4-6-thinking`;Gemini 换 `-thinking` 版、Kimi 换 `Kimi-K2-Thinking`(k2.5 实测 reasoning_content 为空);GLM-5、Seed-2.0 实测自带 thinking → 保留;**GPT 整个 OpenAI 家(含 o1/o3/o4 推理模型)在 DMXAPI 都不吐 reasoning_content(平台隐藏 reasoning tokens、非无 thinking)**,gpt-5.2 是稳定的 reasoning 旗舰。**旧纯 SOTA 配置见 models.json 的 `_sota_previous_备选`,可回滚。**
 

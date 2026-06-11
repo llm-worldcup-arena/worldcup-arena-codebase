@@ -1,14 +1,14 @@
 {
   "_note": "评测对象:6 家【带 thinking 的 SOTA】。选型实测于 2026-06-11(经 DMXAPI),判据=响应是否返回 reasoning_content 思考过程。模型名带 thinking / 本身即 reasoning 模型 → 自动思考,llm_client 无需额外传参。",
   "_why_thinking": "Claude opus-4-8 无 thinking 后缀 → 退 claude-opus-4-6-thinking(吐思考过程);Gemini 3.1-pro 不吐 → 换 gemini-3.1-pro-preview-thinking;Kimi k2.5 实测 reasoning_content 为空 → 换 Kimi-K2-Thinking;GLM-5、doubao-seed-2-0-pro 实测自带 thinking → 保留;GPT 整个 OpenAI 家(含 o1/o3/o4 推理模型)在 DMXAPI 都不返回 reasoning_content(平台隐藏 reasoning tokens,非无 thinking),gpt-5.2 是稳定的 reasoning 旗舰(5.5 / 5-pro 在 DMXAPI 调用失败)。",
-  "_search_note": "search=true 表示该模型经 DMXAPI 可开【真联网搜索】(2026-06-11 逐家实测,开法见 llm_client.chat_search:Claude 走 /v1/messages、GPT/豆包走 /v1/responses、Gemini 走 /v1beta 原生)。搜索不是 prompt 里说一句就有,必须传 API 工具参数。Kimi/GLM 经 DMXAPI 是第三方托管通道、无服务端搜索 → search=false,只能闭卷,评测对比时须注明这一不对称(要开得换 Moonshot/智谱官方直连 key)。",
-  "_search_dead_ends": "Kimi/GLM 别再试了,2026-06-11 已逐条排除:① kimi-k2.5/moonshot-v1 + $web_search 两步流程→工具能注册但服务端不执行搜索(只回传查询词,模型自认无法联网) ② glm/kimi 走 /v1/messages + web_search 工具→被丢弃(glm 还假装搜过并答错揭幕战对手,恰证没联网) ③ 智谱原生路径 /api/paas/v4→404 ④ :online 后缀→无渠道 ⑤ /v1/responses→unsupported model。",
+  "_search_note": "search=true 表示该模型可开【真联网搜索】(2026-06-11 逐家实测,开法见 llm_client.chat_search)。搜索不是 prompt 里说一句就有,必须传 API 工具参数。通道:Claude 走 DMXAPI /v1/messages、GPT/豆包走 /v1/responses、Gemini 走 /v1beta 原生、【Kimi 走 Moonshot 官方直连 api.moonshot.cn 的 builtin $web_search 两步流程(DMXAPI 那条托管通道无服务端搜索,故必须官方 key)】。仅 GLM 仍 search=false(经 DMXAPI 托管、无服务端搜索;要开得换智谱官方 key 直连),评测对比时须注明这一条不对称。",
+  "_search_dead_ends": "GLM 别再试 DMXAPI 偏门,2026-06-11 已逐条排除:① /v1/messages + web_search 工具→被丢弃(还假装搜过并答错揭幕战对手) ② 智谱原生路径 /api/paas/v4→404 ③ :online 后缀→无渠道 ④ /v1/responses→unsupported。Kimi 曾同样卡在 DMXAPI,后改 Moonshot 官方 key 直连解决(见 _search_note)。",
   "models": [
     {"name": "Claude", "id": "claude-opus-4-6-thinking", "search": true},
     {"name": "GPT",    "id": "gpt-5.2", "search": true},
     {"name": "Gemini", "id": "gemini-3.1-pro-preview-thinking", "search": true},
-    {"name": "Kimi",   "id": "Kimi-K2-Thinking", "search": false},
-    {"name": "GLM",    "id": "glm-5", "search": false},
+    {"name": "Kimi",   "id": "kimi-k2.6", "search": true, "channel": "moonshot", "_note": "官方直连,非DMXAPI;k2.6最新、自带thinking、temp固定1"},
+    {"name": "GLM",    "id": "glm-5.1", "search": true, "channel": "zhipu", "_note": "智谱官方直连,非DMXAPI;glm-5.1、thinking+函数调用联网(智谱/web_search执行)、temp=1"},
     {"name": "Seed",   "id": "doubao-seed-2-0-pro-260215", "search": true}
   ],
   "_sota_previous_备选": {
