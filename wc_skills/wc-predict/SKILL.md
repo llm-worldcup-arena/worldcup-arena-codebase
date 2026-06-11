@@ -79,6 +79,7 @@ cd worldcup_2026_web/site && git add -A && git commit -m '上线 <批次>' && gi
 
 ## 存储 & 实测经验
 
+- **批次命名铁规:`YYYY-MM-DD_HHMM`(日期_时分),代码强制**——`common.run_ts(override)` 校验格式,`--run-ts` 传非规范名(如 `..._rerun`)直接报错;3 个 predict 脚本统一 `bt = run_ts(a.run_ts)`。**别手动起花名**,要么不传(自动用当前时分)、要么传合规时分;
 - `predictions/<日期_时分>/`:各类预测 json + `_meta.md` + **`_prompts/`(留存)** + **`_unified.json`(merge_batch 合并)**;
 - **并行** `ThreadPoolExecutor`(6-8);**`ask_json` timeout:闭卷 300s / 搜索 480s**(thinking+搜索更慢,**GLM 偶 timeout 需重试**);`save_pred` **合并写**(补跑单模型不覆盖其他);
 - `ask_json` 抓**最后一个** JSON(容前面分析文字),返回 `{_json, _raw, _search}`;搜索失败**不静默退闭卷**(宁可失败补跑,保 `_search` 字段真实);开卷模型**按次计搜索费**,汇报成本时记入;

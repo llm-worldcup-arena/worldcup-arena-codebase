@@ -49,7 +49,7 @@ def main():
     ap.add_argument("--run-ts", dest="run_ts", help="批次目录,默认当前")
     a = ap.parse_args()
     models = [m for m in load_models() if not a.only or m["name"].lower() == a.only.lower()]
-    bt = a.run_ts or run_ts()
+    bt = run_ts(a.run_ts)   # 经 run_ts 校验格式,非规范名直接报错
     ctx, teams = build_context(a.snapshot)
     print(f"⚠️ 全局彩池 · {len(models)} 模型 · 批次 {bt} · 喂 {len(teams)} 队速览({len(ctx)} 字)")
     save_prompt(bt, "global_pool", SYS, build_user(ctx))                  # 留存实际 prompt

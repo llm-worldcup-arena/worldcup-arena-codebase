@@ -57,7 +57,7 @@ def main():
     ap.add_argument("--run-ts", dest="run_ts", help="批次目录(日期_时分),默认当前时间")
     a = ap.parse_args()
     models = [m for m in load_models() if not a.only or m["name"].lower() == a.only.lower()]
-    bt = a.run_ts or run_ts()
+    bt = run_ts(a.run_ts)   # 经 run_ts 校验格式,非规范名直接报错
     kind = f"match_{a.home}_vs_{a.away}"
     print(f"⚠️ 单场预测 {a.home} vs {a.away}(快照 {a.snapshot}）· {len(models)} 模型 · 批次 {bt} —— 真正跑前应已向用户汇报")
     save_prompt(bt, kind, SYS, build_user(a.home, a.away, a.snapshot))        # 留存实际 prompt

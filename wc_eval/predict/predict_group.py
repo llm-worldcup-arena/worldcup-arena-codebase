@@ -43,7 +43,7 @@ def main():
     if a.group:
         groups = {a.group: groups[a.group]}
     models = [m for m in load_models() if not a.only or m["name"].lower() == a.only.lower()]
-    bt = a.run_ts or run_ts()
+    bt = run_ts(a.run_ts)   # 经 run_ts 校验格式,非规范名直接报错
     print(f"⚠️ 小组头名预测 {len(groups)} 组 · {len(models)} 模型 · 批次 {bt}(快照 {a.snapshot}）")
     for grp, teams in groups.items():                                   # 每组留存一份实际 prompt
         save_prompt(bt, f"group_{grp}", SYS, build_user(grp, teams, a.snapshot))

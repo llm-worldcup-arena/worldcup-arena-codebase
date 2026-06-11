@@ -179,8 +179,17 @@ def ask_json(model_id, system, user, retries=2, temperature=0.3):
     return None
 
 
-def run_ts():
-    """预测批次时间戳,精确到分钟(像 raw 命名规范)。"""
+_BATCH_RE = re.compile(r"^\d{4}-\d{2}-\d{2}_\d{4}$")     # 批次命名铁规:YYYY-MM-DD_HHMM
+
+
+def run_ts(override=None):
+    """预测批次时间戳,**标准格式 YYYY-MM-DD_HHMM**(精确到分钟)。
+    传 override(来自 --run-ts)必须合规,否则直接报错 —— 把命名规范【强制在代码里】,
+    杜绝随手起非规范批次名(如 ..._rerun)。各 predict 脚本统一用 run_ts(a.run_ts)。"""
+    if override:
+        if not _BATCH_RE.match(override):
+            raise SystemExit(f"✗ 批次名「{override}」不规范:必须 YYYY-MM-DD_HHMM(如 2026-06-12_0323)。")
+        return override
     return datetime.datetime.now().strftime("%Y-%m-%d_%H%M")
 
 
