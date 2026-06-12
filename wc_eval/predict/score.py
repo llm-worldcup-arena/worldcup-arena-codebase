@@ -6,8 +6,16 @@
 
 跑:python3 score.py
 """
-import json, os
+import json, os, re
 from common import match_handicap
+
+
+def _norm(v):
+    """规范化预测值:去掉模型偶尔抄进来的括号提示(如"双（全场总进球数）"→"双")与空白,再与真值精确比对。
+    否则前端(会解析提取)与本脚本(精确匹配)会差几分——曾因此 GPT 前端20/后端19 不一致。"""
+    if not isinstance(v, str):
+        return v
+    return re.sub(r"[（(].*?[)）]", "", v).strip()
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))   # 仓库根(可移植,不再硬编码)
 ARC = f"{ROOT}/wc_runs/archive"
@@ -48,7 +56,7 @@ def main():
             ha = mk.split("_vs_"); line = match_handicap(ha[0], ha[1]) if len(ha) == 2 else None
             truth = derive((rm.get(mk) or {}).get("score"), (rm.get(mk) or {}).get("ht"), line)
             for mkt in ["让球", "胜平负", "大小2.5", "双方进球", "单双", "半全场", "正确比分"]:
-                if truth.get(mkt) and (markets or {}).get(mkt) == truth[mkt]:
+                if truth.get(mkt) and _norm((markets or {}).get(mkt)) == truth[mkt]:   # 规范化后比对(与前端一致)
                     s += SC[mkt]; d["单场"] += SC[mkt]
         for g, gw in (md.get("group_winners") or {}).items():                 # 头名
             pick = gw.get("头名") if isinstance(gw, dict) else gw

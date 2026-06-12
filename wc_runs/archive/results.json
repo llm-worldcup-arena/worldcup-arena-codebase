@@ -2,12 +2,12 @@
  "_说明": "现实档案:真实赛果,逐日收集。score.py 用它与预测档案对照算分。matches 填比分即可;group_winners 小组赛后填;global 淘汰赛/决赛后填;total_goals 整届打完填。",
  "matches": {
   "MEX_vs_RSA": {
-   "score": null,
-   "ht": null
+   "score": "2-0",
+   "ht": "1-0"
   },
   "KOR_vs_CZE": {
-   "score": null,
-   "ht": null
+   "score": "2-1",
+   "ht": "0-0"
   }
  },
  "group_winners": {},
