@@ -20,6 +20,8 @@ import json, re, sys, subprocess, argparse, datetime, os
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))   # 仓库根(可移植)
 # 网页仓库在另一个目录;默认同级 worldcup_2026_web/site,可用环境变量 WC_WEB_DIR 覆盖
 WEB = os.environ.get("WC_WEB_DIR") or os.path.join(os.path.dirname(ROOT), "worldcup_2026_web", "site")
+if not os.path.isdir(WEB):                # 别人 clone 没有相邻网页仓 → 明确报错(而非默默失败),指明用环境变量
+    raise SystemExit(f"✗ 找不到网页仓库目录:{WEB}\n  请设环境变量 WC_WEB_DIR=<你的 worldcup 网页仓 site 路径> 后重试。")
 ARC = f"{ROOT}/wc_runs/archive"
 
 

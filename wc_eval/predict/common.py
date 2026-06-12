@@ -158,10 +158,22 @@ def _extract_last_json(txt):
     return None
 
 
+def _clean_values(obj):
+    """入库前清洗:去掉模型抄进答案的括号提示(如"双（全场总进球数）"→"双")与首尾空白。
+    治本——脏值进档案会让 score.py 精确匹配静默判错、与前端解析不一致(GPT单双那个缺口)。"""
+    if isinstance(obj, str):
+        return re.sub(r"[（(].*?[)）]", "", obj).strip()
+    if isinstance(obj, list):
+        return [_clean_values(x) for x in obj]
+    if isinstance(obj, dict):
+        return {k: _clean_values(v) for k, v in obj.items()}
+    return obj
+
+
 def ask_json(model_id, system, user, retries=2, temperature=0.3):
     """调 LLM 要结构化 JSON。模型可先分析、最后给 JSON → 抓【最后一个】能解析的 JSON 对象。失败重试。
     models.json 标 search=true 的模型自动走联网搜索通道(chat_search),其余闭卷(chat)。
-    返回 {"_json": dict, "_raw": 全文, "_search": bool}(保留分析全文,便于人看)。失败返回 None。"""
+    返回 {"_json": dict, "_raw": 全文, "_search": bool}(_json 已清洗括号尾巴/空白,杜绝脏值)。失败返回 None。"""
     use_search = model_id in _search_ids()
     if use_search:                       # 明告模型有真搜索工具,鼓励主动用(光在 prompt 里说"可以搜"并不会真联网)
         system = "你已接入实时联网搜索工具,可主动搜索最新信息(伤停/状态/赔率/赛果等)辅助判断。\n" + system
@@ -175,7 +187,7 @@ def ask_json(model_id, system, user, retries=2, temperature=0.3):
                            timeout=300, reasoning_effort="high")  # thinking 拉满 high 档(实测均可传)
             obj = _extract_last_json(txt)            # 括号配对抽取(支持嵌套,见 _extract_last_json)
             if obj is not None:
-                return {"_json": obj, "_raw": txt.strip(), "_search": use_search}
+                return {"_json": _clean_values(obj), "_raw": txt.strip(), "_search": use_search}   # 入库前清洗脏值
         except Exception as e:
             print(f"      {model_id} 失败: {str(e)[:60]}")
     return None
