@@ -5,8 +5,8 @@
 
 版本链：base(赛前) →复制→ R1 →复制→ R2 …  每个新快照 = 复制上一个最新版 + integrate 本轮新比赛。
 
-跑：python3 snapshot_round.py --name 2026-06-15_R2                      # 自动找最新版、cp 成新快照
-   python3 snapshot_round.py --name 2026-06-15_R2 --from 2026-06-11_R1  # 指定源版本
+跑：python3 snapshot_round.py --name 2026-06-15_1400                      # 自动找最新版、cp 成新快照
+   python3 snapshot_round.py --name 2026-06-15_1400 --from 2026-06-12_1252  # 指定源版本
 """
 import os, shutil, argparse, glob, re
 from collect_squads import BASE
@@ -23,9 +23,13 @@ def latest_version():
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--name", required=True, help="新快照目录名，如 2026-06-15_R2")
+    ap.add_argument("--name", required=True, help="新快照目录名，**必须 YYYY-MM-DD_HHMM**（或基底 YYYY-MM-DD_base）")
     ap.add_argument("--from", dest="src", help="源版本（默认自动取 team_data 最新日期版）")
     a = ap.parse_args()
+
+    # 命名格式强制：与预测批次同规范（日期_时分），杜绝 _R1/_rerun 之类花名导致 team_data 命名混乱
+    if not re.match(r"^\d{4}-\d{2}-\d{2}_(\d{4}|base)$", a.name):
+        raise SystemExit(f"✗ 快照名「{a.name}」不规范：必须 YYYY-MM-DD_HHMM（如 2026-06-12_1252）或 YYYY-MM-DD_base。")
 
     src = a.src or latest_version()
     if not src:
