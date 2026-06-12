@@ -92,6 +92,8 @@ def main():
     ap.add_argument("--asof", default=ASOF, help="本次快照日期")
     ap.add_argument("--skip-names", action="store_true", help="跳过中文名（测试用，省时间）")
     args = ap.parse_args()
+    from naming_util import valid_asof
+    valid_asof(args.asof)        # 命名规范强制:asof 必须 YYYY-MM-DD
     codes = [c.strip().upper() for c in args.only.split(",")] if args.only else list(WIKI_PAGE)
     codes = [c for c in codes if c in WIKI_PAGE]
 

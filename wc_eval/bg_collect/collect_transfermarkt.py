@@ -120,6 +120,8 @@ def main():
     ap.add_argument("--from-raw", dest="from_raw", help="不联网，从指定 raw 目录重提取（如 2026-06-09_1111）")
     ap.add_argument("--workers", type=int, default=12, help="并发线程数（联网采集）")
     args = ap.parse_args()
+    from naming_util import valid_asof
+    valid_asof(args.asof)   # 命名规范强制
     only = {c.strip().upper() for c in args.only.split(",")} if args.only else None
 
     by_id = {p["person_id"]: p for p in load_json(persons_path(), [])}

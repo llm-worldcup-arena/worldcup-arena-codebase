@@ -96,6 +96,8 @@ def main():
     ap.add_argument("--today", required=True, help="今天 YYYY-MM-DD（防泄露基准）")
     ap.add_argument("--td", default="2026-06-10_0228", help="team_data 子目录（默认迭代版）")
     a = ap.parse_args()
+    from naming_util import valid_ts, valid_asof
+    valid_ts(a.ts); valid_ts(a.td); valid_asof(a.today)        # 命名规范强制(花名直接报错)
     integrate(json.load(open(a.raw, encoding="utf-8")), a.td, a.ts, a.today)
 
 

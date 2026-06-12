@@ -208,6 +208,8 @@ def main():
     ap.add_argument("--only", help="只生成某队，逗号分隔")
     ap.add_argument("--ts", default="2026-06-08_2336", help="输出 team_data 时间目录")
     args = ap.parse_args()
+    from naming_util import valid_ts
+    valid_ts(args.ts)   # 命名规范强制
     only = {c.strip().upper() for c in args.only.split(",")} if args.only else None
 
     teams = {t["team_id"]: t for t in load_json(teams_path(), [])}

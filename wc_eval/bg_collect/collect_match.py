@@ -105,6 +105,8 @@ def main():
     ap.add_argument("--ha", help="主队的 主/客/中（home 视角，世界杯小组赛多为中立）")
     ap.add_argument("--out", help="输出单场 data JSON 路径")
     a = ap.parse_args()
+    from naming_util import valid_ts
+    a.ts = valid_ts(a.ts, auto=True)        # 命名规范强制 + 空则取当前时分
     iso = None
     if a.date:  # DD/MM/YYYY → YYYY-MM-DD
         dd, mm, yy = a.date.split("/"); iso = f"{yy}-{mm}-{dd}"

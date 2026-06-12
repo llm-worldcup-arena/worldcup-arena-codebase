@@ -308,6 +308,8 @@ def main():
     ap.add_argument("--asof", default=ASOF, help="data 快照日期")
     ap.add_argument("--run-ts", help="raw 目录时间戳(带分钟)；抓取默认当前时刻，--from-raw 默认最近一次")
     args = ap.parse_args()
+    from naming_util import valid_ts, valid_asof
+    valid_asof(args.asof); valid_ts(getattr(args,"run_ts",None))   # 命名规范强制
     ts = args.run_ts or (latest_run_ts() if args.from_raw else run_ts())
     if not ts:
         print("找不到可用的 raw 时间戳目录"); return
