@@ -57,13 +57,23 @@ def integrate(match, td_dir, raw_ts, today):
         t = open(f, encoding="utf-8").read()
         row = f"| {match['date']} | {ha} | {opp} | {my}-{ot} | {comp} |"
 
-        # 近期赛果表末追加一行（防重复）
-        added_row = False
-        if f"| {match['date']} |" not in t.split("## 近期状态")[-1].split("## ")[0] if "## 近期状态" in t else True:
-            m = re.search(r"(## 近期状态.*?\n(?:\|[^\n]*\n)+)", t, re.S)
-            if m and match["date"] not in m.group(1):
-                t = t.replace(m.group(1), m.group(1).rstrip() + "\n" + row + "\n", 1)
-                added_row = True
+        # 近期赛果：①表格格式 append 一行 ②列表格式(- 近N场)append 一条 bullet ③都没识别→明确告警(不再静默"已存")
+        rec_seg = t.split("## 近期状态")[-1].split("\n## ")[0] if "## 近期状态" in t else ""
+        added_row = "已存"
+        if match["date"] in rec_seg:                                   # 真的已存
+            pass
+        elif re.search(r"## 近期状态.*?\n(?:\|[^\n]*\n)+", t, re.S):     # 表格格式
+            mt = re.search(r"(## 近期状态.*?\n(?:\|[^\n]*\n)+)", t, re.S)
+            t = t.replace(mt.group(1), mt.group(1).rstrip() + "\n" + row + "\n", 1); added_row = "+1表"
+        else:
+            mb = re.search(r"(## 近期状态\n(?:[^\n]*\n)*?(?:  - [^\n]+\n)+)", t)   # 列表格式
+            if mb:
+                wld = "W" if (my and ot and int(my) > int(ot)) else ("L" if (my and ot and int(my) < int(ot)) else "D")
+                bullet = f"  - {match['date']} {ha} vs {opp} {my}–{ot}({wld})  ← {comp}"
+                t = t.replace(mb.group(1), mb.group(1).rstrip() + "\n" + bullet + "\n", 1); added_row = "+1列"
+            else:
+                added_row = "⚠️未识别格式·未追加,请人工补"
+                print(f"  ⚠️ {team}: 近期状态段格式无法识别,赛果【未自动追加】——人工补：{row}")
 
         # ⑦关键动态：追加本场伤停（对预测最直接）
         notes = [f"- 🏥 {x}（{match['date']} vs {opp}）" for x in match.get("injuries", [])]
@@ -75,7 +85,7 @@ def integrate(match, td_dir, raw_ts, today):
                 t = t.replace(m7.group(1), m7.group(1) + "\n".join(notes) + "\n", 1); added_notes = len(notes)
 
         open(f, "w", encoding="utf-8").write(t)
-        print(f"  ✅ {team}: 近期赛果{'+1' if added_row else '(已存)'}、伤停动态+{added_notes}")
+        print(f"  ✅ {team}: 近期赛果[{added_row}]、伤停动态+{added_notes}")
     return True
 
 
