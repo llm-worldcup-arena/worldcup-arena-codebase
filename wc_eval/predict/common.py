@@ -96,6 +96,8 @@ def match_header(home, away):
 _HANDICAP = {
     ("MEX", "RSA"): -1.0,    # 墨西哥 -1(阿兹特克主场;Yahoo / BoyleSports 主 -1)
     ("KOR", "CZE"): -0.5,    # 韩国 -0.5(ESPN spread 韩 -0.5)
+    ("CAN", "BIH"): -0.5,    # 加拿大 -0.5(主场;ESPN / SportsGambler 加 -0.5)
+    ("USA", "PAR"): -0.5,    # 美国 -0.5(主场;ESPN / FanDuel 美 -0.5)
 }
 
 
