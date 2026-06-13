@@ -2,6 +2,14 @@
 
 > 每次操作本工作区**必看**。详细见 [README.md](README.md) 与 [wc_skills/wc-data-collect](wc_skills/wc-data-collect/SKILL.md);这里是精简版,不许违反。
 
+## 🚨 仓库结构(别再搞混!2026-06-13 踩坑)
+
+- **`/home/ubuntu/worldcup_2026/`** = **工作目录**(在这里干活)。**它本身不是 git 仓**。
+- **`/home/ubuntu/worldcup_2026_release/`** = **公开代码仓**(GitHub `llm-worldcup-arena/worldcup-arena-codebase`,论文/公开 codebase 的唯一真源)。
+- **`worldcup_2026_web/site/`** = 网页仓(GitHub Pages 展示)。
+- **发布代码 = 同步 + 推**:改完工作目录 → `rsync -a --delete --exclude=.git --exclude=secrets.local.json --exclude=base/ --exclude=backup/ --exclude=__pycache__ 工作目录/{wc_eval,wc_skills,wc_runs,config,docs}/ → release仓/` + 拷 CLAUDE.md/README → 在 release 仓 `git commit && git push`(中性作者)。**光推网页≠推代码;两个都要推,否则代码仓 vs 网页不一致(砸"唯一真源")。**
+- 安全铁律:`config/secrets.local.json`(真 key)**永远只在本地、被 gitignore**,**绝不进任何 git 仓**;同步/提交前必扫一遍全树无 key。data_raw 按用户决定**带进 release**(可重跑但要全)。
+
 ## 数据采集 & 备份
 
 1. **一次收集 = 一个完整快照** —— 一次采齐,raw 落**一个** `data_raw/<YYYY-MM-DD_HHMM>/` 目录,data 全基于这一次;**绝不多次 raw 拼**。
