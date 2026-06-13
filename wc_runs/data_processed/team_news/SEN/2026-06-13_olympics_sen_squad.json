@@ -1,0 +1,16 @@
+{
+ "team": "SEN",
+ "source": "Olympics.com",
+ "url": "https://www.olympics.com/en/news/fifa-world-cup-2026-senegal-all-players-full-squad-list-key-stats-schedule",
+ "title": "FIFA World Cup 2026: Can Senegal's 'golden generation' deliver on the big stage? All players, full squad list, key stats and schedule",
+ "news_date": "2026-06-13",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-13",
+ "fetched": "2026-06-13_0637",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "FIFA World Cup 2026: Can Senegal's 'golden generation' deliver on the big stage? All players, full squad list, key stats and schedule\nQuick facts\nCaptain: Kalidou Koulibaly\nManager: Pape Thiaw\nWorld Cup appearances (including 2026): 4\nBest World Cup result: Quarter-finals (2002)\nFIFA World Cup 2026 – Senegal’s final squad\nGoalkeepers: Édouard Mendy (Al-Ahli), Mory Diaw (Le Havre AC), Yehvann Diouf (OGC Nice)\nDefenders: Krépin Diatta (AS Monaco), Antoine Mendy (OGC Nice), Kalidou Koulibaly (Al-Hilal), El Hadji Malick Diouf (West Ham United), Mamadou Sarr (Chelsea), Moussa Niakhaté (Lyon), Abdoulaye Seck (Maccabi Haifa), Ismaïl Jakobs (Galatasaray SK)\nMidfielders: Idrissa Gana Gueye (Everton), Pape Gueye (Villarreal CF), Lamine Camara (AS Monaco), Habib Diarra (Sunderland), Pathé Ciss (Rayo Vallecano), Pape Matar Sarr (Tottenham Hotspur), Bara Sapoko Ndiaye (Bayern Munich)\nForwards: Sadio Mané (Al-Nassr), Ismaïla Sarr (Crystal Palace), Iliman Ndiaye (Everton), Assane Diao (Como), Ibrahim Mbaye (PSG), Nicolas Jackson (Chelsea), Bamba Dieng (Lorient), Chérif Ndiaye (Samsunspor)",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

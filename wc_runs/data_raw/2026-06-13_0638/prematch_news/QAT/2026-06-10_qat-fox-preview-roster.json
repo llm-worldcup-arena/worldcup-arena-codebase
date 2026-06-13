@@ -1,0 +1,16 @@
+{
+ "team": "QAT",
+ "source": "FOX Sports",
+ "url": "https://www.foxsports.com/stories/soccer/qatar-world-cup-2026-preview-best-players-roster-history-jersey-predictions",
+ "title": "Qatar World Cup 2026 Preview: Best Players, Roster, History | FOX Sports",
+ "news_date": "2026-06-10",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "asof": "2026-06-10",
+ "fetched": "2026-06-13_0638",
+ "method": "jsonld:articleBody",
+ "status": "ok",
+ "original_text": "Qatar enters the tournament with recent major-tournament experience, having hosted the 2022 edition and won the Asian Cup in both 2019 and 2023. The national team continues to draw heavily from the Qatar Stars League, supported by a core that has played together through multiple AFC cycles and regional competitions. How they Qualified: Qatar secured a spot at the 2026 FIFA World Cup by finishing at the top of Group A in the fourth round of AFC qualifying rounds. After finishing fourth in the third round and needing to beat out the United Arab Emirates and Oman for a spot, the team obtained four points— highlighted by a win against the U.A.E. World Cup Group Stage Schedule: Previous World Cup appearances: What is Qatar's Best Finish in the World Cup? Who'll be Qatar's Key Players at the World Cup? Akram Afif enters the tournament as Qatar’s most decorated player, highlighted by two AFC Player of the Year awards and multiple Qatar Stars League titles with Al-Sadd, along with Golden Ball honors at the 2023 Asian Cup. Almoez Ali adds will also be on the roster and is the team's all-time leading scorer, having won the Golden Boot at the 2019 Asian Cup as well. Both players have been central to Qatar’s rise, combining domestic success with standout performances across AFC competition. Who is Qatar's Manager for the World Cup? Julen Lopetegui brings a long résumé of international and club experience, highlighted by leading Spain to the 2018 World Cup before moving into top European roles. His club career includes winning the 2020 Europa League with Sevilla and managing Porto, Real Madrid and Wolverhampton Wanderers. Qatar's All-Time Leading Scorer: Qatar's All-Time Caps leaders Qatar's Team Nickname: About the country: Want great stories delivered right to your inbox? Create or log in to your FOX Sports account and follow leagues, teams and players to receive a personalized newsletter daily!",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

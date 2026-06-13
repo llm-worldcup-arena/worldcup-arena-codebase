@@ -1,0 +1,16 @@
+{
+ "team": "SUI",
+ "source": "ESPN",
+ "url": "https://www.espn.com/soccer/match/_/gameId/401869743/australia-switzerland",
+ "title": "Switzerland 1-1 Australia (Jun 6, 2026) Final Score - ESPN",
+ "news_date": "2026-06-10",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "asof": "2026-06-10",
+ "fetched": "2026-06-13_0638",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Data is currently unavailable.\nGame Odds\nOdds by\nOpenMLTotalSpread\n-160\nML\n-165\no2.5\n+120\n-0.5\n-180\nu2.5\n-140\n+475\nu2.5\n-160\n+0.5\n+130\nDrawDrawDraw\n+300\nDraw\n+290\nHead-To-Head\n0\nInternational Friendly\nFT\n9/3/10\n@ SUI\n0\nMen's International Friendly News\nGAMBLING PROBLEM? CALL 1-800-GAMBLER or 1-800-MY-RESET, (800) 327-5050 or visit gamblinghelplinema.org (MA). Call 877-8-HOPENY/text HOPENY (467369) (NY). Call 888-789-7777/visit ccpg.org (CT), or visit www.mdgamblinghelp.org (MD), 1-800-981-0023 (PR). 21+ and present in most states. (18+ DC/KY/NH/PR/WY). Void in ONT. Eligibility restrictions apply. Terms: draftkings.com/sportsbook. On behalf of Boot Hill Casino (KS). Pass-thru of per wager tax may apply in IL.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

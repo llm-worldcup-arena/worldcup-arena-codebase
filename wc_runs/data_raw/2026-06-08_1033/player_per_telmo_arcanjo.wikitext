@@ -1,0 +1,100 @@
+{{short description|Cape Verdean footballer}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+| name = Telmo Arcanjo
+| image = 
+| full_name = Telmo Emanuel Gomes Arcanjo
+| birth_date = {{birth date and age|df=yes|2001|6|21}}
+| birth_place = [[Lisbon]], Portugal
+| height = 1.80 m
+| position = [[Midfielder]], [[winger (association football)|winger]]
+| currentclub = [[Vitória S.C.|Vitória Guimarães]]
+| clubnumber = 18
+| youthyears1 = 2011–2012
+| youthclubs1 = [[S.L. Olivais (futsal)|Olivais]]
+| youthyears2 = 2012–2013
+| youthclubs2 = [[Sporting CP|Sporting]]
+| youthyears3 = 2013–2019
+| youthclubs3 = [[C.F. Os Belenenses|Belenenses]]
+| youthyears4 = 2019–2020
+| youthclubs4 = [[C.D. Tondela|Tondela]]
+| years1 = 2020–2023
+| clubs1 = [[C.D. Tondela|Tondela]]
+| caps1 = 55
+| goals1 = 6
+| years2 = 2023–
+| clubs2 = [[Vitória S.C.|Vitória Guimarães]]
+| caps2 = 57
+| goals2 = 6
+| nationalyears1 = 2019
+| nationalteam1 = Cape Verde U19
+| nationalcaps1 = 2
+| nationalgoals1 = 0
+| nationalyears2 = 2021–
+| nationalteam2 = [[Cape Verde national football team|Cape Verde]]
+| nationalcaps2 = 10
+| nationalgoals2 = 1
+| club-update = 25 May 2026
+| nationalteam-update = 8 October 2025
+}}
+
+'''Telmo Emanuel Gomes Arcanjo''' ({{IPA|pt|ˈtɛl.mu e.mɐ.nu.ˈɛl ˈɡo.mɨz ɐɾ.ˈkɐ̃.ʒu|lang}}; born 21 June 2001) is a professional [[association football|footballer]] who plays as a [[midfielder]] or [[winger (association football)|winger]] for [[Vitória S.C.]] Born in Portugal, he plays for the [[Cape Verde national football team|Cape Verde national team]].
+
+==Club career==
+Arcanjo made his professional debut with [[C.D. Tondela|Tondela]] in a 3–2 [[Primeira Liga]] loss to [[Gil Vicente F.C.|Gil Vicente]] on 14 July 2020.<ref>{{Cite web|url=https://int.soccerway.com/matches/2020/07/14/portugal/portuguese-liga-/gil-vicente-fc/cd-tondela/3064928/|title=Gil Vicente vs. Tondela - 14 July 2020|website=Soccerway}}</ref>
+
+On 16 June 2023, Vitória SC announced the free signing of Arcanjo on a four-year deal.<ref>{{Cite web |date=16 June 2023 |title=Telmo Arcanjo é do Vitória até 2027 - Vitória Sport Clube |trans-title=Telmo Arcanjo to Vitória until 2027 - Vitória Sport Clube |url=https://vitoriasc.pt/2023/06/16/telmo-arcanjo-e-do-vitoria-ate-2027/ |access-date=11 July 2023 |publisher=Vitória SC |language=pt-PT}}</ref> On 10 January 2026, Arcanjo played in the Portuguese [[Taça da Liga]] final against [[S.C. Braga|Braga]] in which [[Vitória S.C.|Vitória Guimarães]] won 2-1.
+
+==International career==
+Born in Portugal, Arcanjo is of Cape Verdean descent. He represented the [[Cape Verde national football team|Cape Verde U19]]s in a friendly 2–0 loss to the [[Portugal national under-19 football team|Portugal U19]]s on 30 January 2019.<ref>{{Cite web|url=https://www.fpf.pt/selecoes/futebol-masculino/selecao-sub-19/jogos/ficha-de-jogo/match/1359450|title=Seleção Sub-19 - Ficha de Jogo, resultados e equipas &#124; FPF|website=www.fpf.pt}}</ref> He was called up to the [[Cape Verde national football team|Cape Verde national team]] for a pair of friendlies in June 2021.<ref>{{Cite web|url=https://inforpress.cv/football-newcomers-sixten-mohlin-joao-correia-rely-cabral-and-alexis-goncalves-are-new-in-bubistas-call-up/|title=Football: Newcomers Sixten Mohlin, João Correia, Rely Cabral and Alexis Gonçalves are new in Bubista's call-up &#124; INFORPRESS|date=27 May 2021|access-date=9 June 2021|archive-date=30 January 2022|archive-url=https://web.archive.org/web/20220130204751/https://inforpress.cv/football-newcomers-sixten-mohlin-joao-correia-rely-cabral-and-alexis-goncalves-are-new-in-bubistas-call-up/|url-status=dead}}</ref> He debuted with the Cape Verde national team in a friendly 2–0 loss to [[Senegal national football team|Senegal]] on 8 June 2021.<ref>{{Cite web|url=https://globalsportsarchive.com/match/soccer/2021-06-08/senegal-vs-cape-verde-islands/2376236/|title=Match Report of Senegal vs Cape Verde Islands - 2021-06-08 - FIFA Friendlies - Global Sports Archive|website=globalsportsarchive.com}}</ref>
+
+===International goals===
+:''Scores and results list Cape Verde's goal tally first, score column indicates score after each Arcanjo goal.''
+
+{| class="wikitable sortable"
+|+ List of international goals scored by Sidny Lopes Cabral
+! No. !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+|align=center | 1 || 8 October 2025 || [[Tripoli Stadium]], [[Tripoli, Libya|Tripoli]], Libya || {{fb|LBY}} || align=center | 1–1 || align=center | 3–3 || [[2026 FIFA World Cup qualification – CAF Group D|2026 FIFA World Cup qualification]]
+|}
+
+==Personal life==
+Arcanjo is the brother of the [[Cape Verde national football team|Cape Verde]] international footballer [[Fábio Arcanjo]].<ref>{{Cite web|url=https://criolosports.com/index.php/criolos-no-estrangeiro/5789-criolos-no-estrangeiro-futebol-portugal-telmo-arcanjo-reforca-juniores-do-tondela|title=Criolos no Estrangeiro: Futebol Portugal – Telmo Arcanjo reforça juniores do Tondela|website=criolosports.com|access-date=21 July 2020|archive-date=21 July 2020|archive-url=https://web.archive.org/web/20200721165349/https://criolosports.com/index.php/criolos-no-estrangeiro/5789-criolos-no-estrangeiro-futebol-portugal-telmo-arcanjo-reforca-juniores-do-tondela|url-status=dead}}</ref>
+
+== Honours ==
+'''Individual'''
+
+* [[Liga Portugal 2]] Young Player of the Season: [[2022–23 Liga Portugal 2|2022–23]]<ref>{{Cite web |date=27 June 2023 |title=Telmo Arcanjo Jovem Jogador da Liga Portugal SABSEG 2022-23 |trans-title=Telmo Arcanjo 2022-23 Liga Portugal SABSEG's Young Player |url=http://www.ligaportugal.pt/pt/epocas/20222023/noticias/geral/premios-mensais/11-ano/telmo-arcanjo-jovem-jogador-da-liga-portugal-sabseg-2022-23/ |access-date=13 October 2023 |website=Liga Portugal |language=pt-pt}}</ref>
+* Liga Portugal 2 Team of the Season: [[2022–23 Liga Portugal 2|2022–23]]<ref>{{Cite web |date=23 June 2023 |title=Telmo Arcanjo no 11 do Ano da Liga Portugal SABSEG |trans-title=Telmo Arcanjo in Liga Portugal SABSEG's XI of the Year |url=http://www.ligaportugal.pt/pt/epocas/20222023/noticias/geral/premios-mensais/11-ano/telmo-arcanjo-no-11-do-ano-da-liga-portugal-sabseg/ |access-date=13 October 2023 |website=Liga Portugal |language=pt-pt}}</ref>
+* Liga Portugal 2 Midfielder of the Month: September 2022,<ref>{{Cite web |date=12 October 2022 |title=Best of September: Arcanjo wins Midfielder of the Month in Liga Portugal SABSEG |url=http://www.ligaportugal.pt/en/epocas/20222023/noticias/geral/premios-mensais/setembro/melhores-de-setembro-arcanjo-e-o-medio-do-mes-da-liga-portugal-sabseg/ |access-date=15 October 2023 |website=Liga Portugal}}</ref> December 2022/January 2023<ref>{{Cite web |date=14 February 2023 |title=Arcanjo é o Médio do Mês da Liga Portugal SABSEG |trans-title=Arcanjo is Liga Portugal SABSEG's Midfielder of the Month |url=http://www.ligaportugal.pt/pt/epocas/20222023/noticias/geral/premios-mensais/dezembrojaneiro/arcanjo-e-o-medio-do-mes-da-liga-portugal-sabseg/ |access-date=15 October 2023 |website=Liga Portugal |language=pt-pt}}</ref>
+
+'''Vitória SC'''
+*[[Taça da Liga]]: [[2025–26 Taça da Liga|2025–26]]<ref>{{cite web|url=https://www.ojogo.pt/futebol/artigo/historico-v-guimaraes-vence-braga-e-conquista-a-taca-da-liga/18039106|title=Histórico: V. Guimarães vence Braga e conquista a Taça da Liga|website=O Jogo|access-date=11 January 2026|date=10 January 2026|language=Portuguese}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Soccerway|telmo-emanuel-gomes-arcanjo/660384}}
+* {{BDFutbol|24988}}
+
+{{Vitória S.C. squad}}
+{{Cape Verde squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Arcanjo, Telmo}}
+[[Category:2001 births]]
+[[Category:Living people]]
+[[Category:21st-century Portuguese sportsmen]]
+[[Category:Portuguese people of Cape Verdean descent]]
+[[Category:Sportspeople of Cape Verdean descent]]
+[[Category:Black Portuguese sportspeople]]
+[[Category:Cape Verdean men's footballers]]
+[[Category:Portuguese men's footballers]]
+[[Category:Footballers from Lisbon]]
+[[Category:Men's association football midfielders]]
+[[Category:Cape Verde men's international footballers]]
+[[Category:Primeira Liga players]]
+[[Category:Liga Portugal 2 players]]
+[[Category:C.D. Tondela players]]
+[[Category:Vitória S.C. players]]
+[[Category:2026 FIFA World Cup players]]

@@ -1,0 +1,36 @@
+{
+ "team": "AUT",
+ "coach": {
+  "name_zh": "拉尔夫·朗尼克",
+  "name_en": "Ralf Rangnick",
+  "nationality": "West Germany",
+  "career_since": "1983",
+  "person_id": "per_ralf_rangnick"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "拉尔夫·朗尼克，现任奥地利国家队主帅，率队以19分斩获欧洲区H组头名，终结28年大赛荒直通世界杯。其战术体系以高强度压迫为标签，预选赛打出五连胜（含10-0胜圣马力诺），末轮靠迈克尔·格雷戈里奇绝平波黑锁定资格。防线由大卫·阿拉巴统领，莱默与萨比策实施中场高压，克里斯托夫·鲍姆加特纳任创造力核心，辅以保罗·万纳等年轻爆点。世界杯开赛前遭重创：鲍姆加特纳因伤退出，朗尼克决定不补招球员，称此为\"对克里斯托夫和球队都极为苦涩的消息\"，引发对阵容深度的担忧。尽管失去核心，朗尼克仍寄望其体系首战展现竞争力。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": true,
+  "need_fix": true,
+  "keep_ratio": 0.55,
+  "issues": [
+   "'西德籍'表述过时",
+   "'屠戮''铁军'等词情绪化",
+   "末句抒情内容与预测无关",
+   "部分历史背景信息冗余"
+  ]
+ },
+ "brief_fetched": "2026-06-13_1750",
+ "brief_info_chars": 3746,
+ "coach_xverify": {
+  "canonical": "Ralf Rangnick",
+  "confidence": "high",
+  "discrepancy": "",
+  "sources_agree": 8,
+  "n_sources": 8
+ }
+}

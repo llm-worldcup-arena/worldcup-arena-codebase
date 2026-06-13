@@ -1,0 +1,91 @@
+{{Short description|Paraguayan footballer (born 2000)}}
+{{Use dmy dates|date=January 2021}}
+{{family name hatnote|Gill|Noldin|lang=Spanish}}
+{{Infobox football biography
+|name = Orlando Gill
+|full_name = Orlando Daniel Gill Noldin
+|image = 
+|height = 1.98m
+|birth_date = {{Birth date and age|df=yes|2000|6|11}}
+|birth_place = [[San Lorenzo, Paraguay]]
+|position = [[Goalkeeper (association football)|Goalkeeper]]
+|currentclub = [[San Lorenzo de Almagro]]
+|clubnumber = 12
+|youthyears1 = 2012–2013
+|youthclubs1 = Club 13 de Junio
+|youthyears2 = 2013–2019
+|youthclubs2 = [[Club Sportivo San Lorenzo|CS San Lorenzo]]
+|years1 = 2019–2024
+|clubs1 = [[Club Sportivo San Lorenzo|CS San Lorenzo]]
+|caps1 = 3
+|goals1 = 0
+|years2 = 2023–2024
+|clubs2 = → [[San Lorenzo de Almagro|San Lorenzo de Almagro II]] (loan)
+|caps2 = 12
+|goals2 = 0
+|years3 = 2024–
+|clubs3 = [[San Lorenzo de Almagro]]
+|caps3 = 50
+|goals3 = 0
+|nationalyears1 = 2019
+|nationalteam1 = [[Paraguay national under-20 football team|Paraguay U20]]
+|nationalcaps1 = 1
+|nationalgoals1 = 0
+|nationalyears2 = 2025–
+|nationalteam2 = [[Paraguay national football team|Paraguay]]
+|nationalcaps2 = 5
+|nationalgoals2 = 0
+|pcupdate = 16:52, 4 June 2026 (UTC)
+|ntupdate = 23:18, 31 March 2026 (UTC)
+}}
+
+'''Orlando Daniel Gill Noldin''' (born 11 June 2000) is a Paraguayan professional [[Association football|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for the [[Argentine Primera División]] club [[San Lorenzo de Almagro|San Lorenzo]] and the [[Paraguay national football team|Paraguay national team]].
+
+==Club career==
+Gill is a youth product of the Paraguayan clubs Club 13 de Junio and [[Club Sportivo San Lorenzo|CS San Lorenzo]], and began his senior career with [[Club Sportivo San Lorenzo|CS San Lorenzo]].<ref>{{Cite web|url=https://www.tycsports.com/san-lorenzo/dura-historia-orlando-gill-vendio-todo-mantener-familia-id685567.html|title=La dura historia de Orlando Gill, el arquero que "vendió todo" para mantener a su familia - TyC Sports|date=12 September 2025|website=www.tycsports.com}}</ref> On 30 December 2023, Gill joined the Argentine club [[San Lorenzo de Almagro]] on loan with an option to buy, and was originally assigned to their reserves.<ref>{{Cite web|url=https://onefootball.com/es/noticias/quien-es-orlando-gill-nuevo-arquero-de-san-lorenzo-38800400|title=¿Quién es Orlando Gill, nuevo arquero de San Lorenzo?|date=11 October 2025|website=OneFootball}}</ref> On 21 January 2025, he was bought outright by San Lorenzo de Almagro promoted to their senior team on a contract until 2027.<ref>{{Cite web|url=https://www.pagina12.com.ar/798419-ni-keylor-ni-el-holandes-san-lorenzo-apuesta-por-orlando-gil|title=Ni Keylor ni el holandés, San Lorenzo apuesta por Orlando Gill &#124; Compró la mitad del pase del arquero paraguayo|date=21 January 2025|website=PAGINA12}}</ref>
+
+==International career==
+Gill was called up to the [[Paraguay national under-20 football team|Paraguay U20]]s for the [[2019 South American U-20 Championship]].<ref>{{Cite web|url=https://www.apf.org.py/espanol/los-23-albirrojos-elegidos-para-el-sudamericano-4?nid=3013|title=Los 23 albirrojos elegidos para el Sudamericano &#124; Asociación Paraguaya de Fútbol|website=Asociación Paraguaya de Fútbol}}</ref> He debuted with the senior [[Paraguay national football team|Paraguay national team]] for a 1–0 [[2026 FIFA World Cup qualification]] win over [[Peru national football team|Peru national team]] on 6 September 2025.<ref>{{Cite web|url=https://www.ole.com.ar/san-lorenzo/san-lorenzo-gill-paraguay_0_joES8MvWPD.html|title=La transformación de Gill: de la apuesta de San Lorenzo al debut soñado en Paraguay|first=Diario Deportivo|last=Olé|date=10 September 2025|website=Olé}}</ref>
+
+==Career statistics==
+===International===
+{{updated|match played 31 March 2026}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="2"|[[Paraguay national football team|Paraguay]]
+|2025||4||0
+|-
+|2026||1||0
+|-
+!colspan="2"|Total!!5!!0
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Soccerway|new_id=gill-orlando/d6RBYBBD}}
+
+{{San Lorenzo de Almagro squad}}
+{{Paraguay squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Gill, Orlando}}
+[[Category:2000 births]]
+[[Category:Living people]]
+[[Category:Footballers from San Lorenzo, Paraguay]]
+[[Category:Paraguayan men's footballers]]
+[[Category:Paraguay men's international footballers]]
+[[Category:Men's association football goalkeepers]]
+[[Category:San Lorenzo de Almagro footballers]]
+[[Category:Paraguayan Primera División players]]
+[[Category:Paraguayan División Intermedia players]]
+[[Category:Argentine Primera División players]]
+[[Category:21st-century Paraguayan sportsmen]]
+[[Category:Paraguayan expatriate men's footballers]]
+[[Category:Paraguayan expatriates in Argentina]]
+[[Category:Expatriate men's footballers in Argentina]]
+[[Category:2026 FIFA World Cup players]]

@@ -1,0 +1,17 @@
+{
+ "match": {
+  "slug": "2026-06-14_NED_vs_JPN",
+  "date": "2026-06-14",
+  "home": "NED",
+  "away": "JPN",
+  "round": "group",
+  "group": "F"
+ },
+ "referee": {
+  "name": "Ismail Elfath(美国)",
+  "source": "WebSearch多源(ESPN/cryptobriefing)",
+  "fetched": "2026-06-13_1601"
+ },
+ "brief": "- 执法风格：严格，对战术犯规与危险动作出牌果断，注重球员安全。VAR使用符合标准流程，无明显延误倾向。\n- 大赛履历：2022卡塔尔世界杯主裁（执法2场小组赛），2021美洲金杯，多次执法MLS杯决赛/季后赛。国际大赛经验扎实。\n- 潜在影响：在身体对抗与技术流风格碰撞中，判罚一致性是焦点。世界杯经验应能支撑关键战压力下的控场。",
+ "_note": "裁判=比赛层人员数据,与教练同规格(结构化+可读brief);brief 由 referee_enrich.py py-Kimi 生成。"
+}

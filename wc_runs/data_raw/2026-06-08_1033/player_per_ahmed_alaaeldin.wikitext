@@ -1,0 +1,236 @@
+{{short description|Qatari footballer (born 1993)}}
+{{distinguish|Ahmed Alaa|Alaa El-Din Ahmed}}
+{{Use dmy dates|date=March 2025}}
+{{Infobox football biography
+| name = Ahmed Alaaeldin
+| image = Qatar v Japan – AFC Asian Cup 2019 final 04 (cropped).jpg
+| caption = Alaaeldin in 2019
+| full_name = Ahmed Alaaeldin Abdelmotaal<ref>{{Cite web|url=https://us.soccerway.com/players/ahmed-alaaeldin-abdelmotaal/179179/|title=Qatar – Ahmed Alaa Eldin – Profile with news, career statistics and history|website=Soccerway}}</ref>
+| birth_date = {{birth date and age|1993|1|31|df=y}}
+| birth_place = [[Ismailia]], Egypt
+| height = 1.76 m<ref name="FIFA 2022">{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=FIFA World Cup Qatar 2022™: List of Players: Qatar |publisher=FIFA |page=23 |date=15 November 2022 |access-date=22 November 2022 |archive-url=https://web.archive.org/web/20221218195301/https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |archive-date=18 December 2022 |url-status=live}}</ref>
+| position = [[Forward (association football)|Forward]]
+| currentclub = [[Al-Rayyan SC|Al-Rayyan]]
+| clubnumber =  7
+| years1 = 2010–2017
+| clubs1 = [[Al-Rayyan SC|Al-Rayyan]]
+| caps1 = 56
+| goals1 = 5
+| years2 = 2017–2025
+| clubs2 = [[Al-Gharafa SC|Al-Gharafa]]
+| caps2 = 122
+| goals2 = 35
+| years3 = 2024–2025
+| clubs3 = → [[Al-Arabi SC (Qatar)|Al-Arabi]] (loan)
+| caps3 = 17
+| goals3 = 6
+| years4 = 2025– 
+| clubs4 = [[Al-Rayyan SC|Al-Rayyan]]
+| caps4 = 0
+| goals4 = 0
+| nationalyears1 = 2013–
+| nationalteam1 = [[Qatar national football team|Qatar]]
+| nationalcaps1 = 60
+| nationalgoals1 = 7
+| club-update = 4 April 2024
+| nationalteam-update = 25 December 2023
+| medaltemplates = {{MedalCountry|{{fb|QAT}}}}
+{{MedalSport|Men's [[Association football|Football]]}}
+{{MedalCompetition|[[AFC Asian Cup]]}}
+{{Medal|Winner|[[2019 AFC Asian Cup|2019 UAE]]|[[Qatar national football team|Team]]}}
+{{Medal|Winner|[[2023 AFC Asian Cup|2023 Qatar]]|[[Qatar national football team|Team]]}}
+{{MedalCompetition|[[FIFA Arab Cup]]}}
+{{Medal|3rd|[[2021 FIFA Arab Cup|2021 Qatar]]|[[Qatar national football team|Team]]}}
+}}
+'''Ahmed Alaaeldin Abdelmotaal''' ({{langx|ar|أحمد علاء الدين عبد المتعال}}; born 31 January 1993), simply known as '''Ahmed Alaaeldin''' or '''Alaa''', is a professional [[association football|footballer]] who plays for [[Al-Rayyan SC|Al-Rayyan]]. Born in Egypt, he plays for the [[Qatar national football team|Qatar national team]].
+
+==Personal life==
+Alaaeldin arrived in Qatar when he was 10 years old. His father, an Egyptian civil engineer, brought his family to Qatar in 2003.<ref>{{cite web|url=https://www.theguardian.com/football/2015/nov/14/qatar-world-cup-200-billion-dollar-gamble|title='We will be ready, inshallah': inside Qatar's $200bn World Cup|work=The Guardian|author=Robert Booth|date=14 November 2015|accessdate=14 November 2015}}</ref>
+
+==Club career==
+Alaaeldin began his professional career with [[Al-Rayyan SC]] in 2010. In July 2017, he joined Al-Gharafa SC.<ref>{{cite web | url=https://www.gulf-times.com/story/557067/Gharafa-sign-Ahmed-Alaaeldin-for-two-years | title=Gharafa sign Ahmed Alaaeldin for two years | date=18 July 2017 | accessdate=30 November 2022}}</ref> He scored in the 2011 [[AFC Champions League]] game against [[Emirates Club]].<ref>{{Cite web|url=http://www.the-afc.com/en/component/joomleague/?view=report&compID=410&matchId=3455|title=The AFC.com – The Asian Football Confederation|date=18 January 2018|archive-url=https://web.archive.org/web/20180118010743/http://www.the-afc.com/en/component/joomleague/?view=report&compID=410&matchId=3455|archive-date=18 January 2018}}</ref>
+
+==International career==
+Alaaeldin has played for the Qatar Olympic football team in the GGC U23 tournament in August 2011. He was also at the [[2016 AFC U-23 Championship]] and was the top goal scorer with 6 goals during the competition.<ref>{{cite web | url=https://www.goal.com/en-in/player/ahmed-alaa-eldin/career/d83znywa6z78vo6gqqa0up591 | title=Ahmed Alaaeldin | work=Goal.com |date= | access-date=7 February 2022}}</ref>
+
+==Career statistics==
+===International===
+{{Updated|match played 25 March 2025}}<ref>{{NFT player|54045|access-date=24 August 2025}}</ref>
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="11"|[[Qatar national football team|Qatar]]
+|2013||1||0
+|-
+|2016||2||0
+|-
+|2017||6||0
+|-
+|2018||10||1
+|-
+|2019||10||0
+|-
+|2020||4||0
+|-
+|2021||13||0
+|-
+|2022||7||0
+|-
+|2023||10||4
+|-
+|2024||3||0
+|-
+|2025||2||1
+|-
+!colspan="2"|Total
+!68!!6
+|}
+
+:''Scores and results list United Arab Emirates' goal tally first, score column indicates score after each Alaaeldin goal.''
+
+{| class="wikitable sortable"
+|+ List of international goals scored by Ahmed Alaaeldin
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+!scope="col" class="unsortable"|{{Abbr|Ref.|Reference}}
+|-
+|style="text-align:center"|1
+|{{dts|23 December 2018}}
+|[[Khalifa International Stadium]], [[Al Rayyan (city)|Al Rayyan]], Qatar
+|{{fb|Jordan}}
+|style="text-align:center"|2–0
+|style="text-align:center"|2–0
+|[[Friendly (association football)|Friendly]]
+|<ref>{{Cite web|title=Qatar vs. Jordan|url=https://www.national-football-teams.com/matches/report/21677/Qatar_Jordan.html|website=National Football Teams|access-date=24 August 2025}}</ref>
+|-
+|style="text-align:center"|2
+|{{dts|7 January 2023}}
+|[[Al-Minaa Olympic Stadium]], [[Basra]], Iraq
+|{{fb|Kuwait}}
+|style="text-align:center"|2–0
+|style="text-align:center"|2–0
+|[[25th Arabian Gulf Cup]]
+|<ref>{{Cite web|title=Kuwait vs. Qatar|url=https://www.national-football-teams.com/matches/report/35922/Kuwait_Qatar.html|website=National Football Teams|access-date=24 August 2025}}</ref>
+|-
+|style="text-align:center"|3
+|{{dts|10 January 2023}}
+|Al-Minaa Olympic Stadium, Basra, Iraq	
+|{{fb|Bahrain}}
+|style="text-align:center"|1–0
+|style="text-align:center"|1–2
+|25th Arabian Gulf Cup	
+|<ref>{{Cite web|title=Qatar vs. Bahrain|url=https://www.national-football-teams.com/matches/report/35966/Qatar_Bahrain.html|website=National Football Teams|access-date=24 August 2025}}</ref>
+|-
+|style="text-align:center"|4
+|{{dts|12 September 2023}}
+|[[Al Janoub Stadium]], [[Al Wakrah]], Qatar
+|{{fb|Russia}}
+|style="text-align:center"|1–0
+|style="text-align:center"|1–1
+|Friendly
+|<ref>{{Cite web|title=Qatar vs. Russia|url=https://www.national-football-teams.com/matches/report/37399/Qatar_Russia.html|website=National Football Teams|access-date=24 August 2025}}</ref>
+|-
+|style="text-align:center"|5
+|{{dts|16 November 2023}}
+|Khalifa International Stadium, Al Rayyan, Qatar	
+|{{fb|Afghanistan}}
+|style="text-align:center"|7–1
+|style="text-align:center"|8–1
+|[[2026 FIFA World Cup qualification (AFC)|2026 FIFA World Cup qualification]]
+|<ref>{{Cite web|title=Qatar vs. Afghanistan|url=https://www.national-football-teams.com/matches/report/37661/Qatar_Afghanistan.html|website=National Football Teams|access-date=24 August 2025}}</ref>
+|-
+|style="text-align:center"|6
+|{{dts|20 March 2025}}
+|[[Jassim bin Hamad Stadium]], [[Doha]], Qatar
+|{{fb|North Korea}}
+|style="text-align:center"|5–0
+|style="text-align:center"|5–1
+|2026 FIFA World Cup qualification	
+|<ref>{{Cite web|title=Qatar vs. North Korea|url=https://www.national-football-teams.com/matches/report/41024/Qatar_North_Korea.html|website=National Football Teams|access-date=24 August 2025}}</ref>
+|-
+|style="text-align:center"|7
+|{{dts|4 December 2025}}
+|Khalifa International Stadium, Al Rayyan, Qatar
+|{{fb|SYR}}
+|align="center"|1–0
+|align="center"|1–1
+|[[2025 FIFA Arab Cup Group A|2025 FIFA Arab Cup]]
+|}
+
+==Honours==
+'''Al-Rayyan'''
+*[[Qatari Stars League]]: [[2015–16 Qatar Stars League|2015–16]]
+*[[Qatar Cup]]: [[2012 Qatar Crown Prince Cup|2012]] 
+*[[Emir of Qatar Cup]]: [[2011 Emir of Qatar Cup|2011]]
+*[[Qatari Sheikh Jassim Cup]]: [[2013 Sheikh Jassim Cup|2013]]
+
+'''Al-Gharafa'''
+*[[Qatari Stars Cup]]: [[2017–18 Qatari Stars Cup|2017–18]], [[2018–19 Qatari Stars Cup|2018–19]]
+
+'''Qatar'''
+*[[AFC Asian Cup]]: [[2019 AFC Asian Cup|2019]], [[2023 AFC Asian Cup|2023]]
+
+'''Individual'''
+* [[AFC U-23 Championship]] top goalscorer: [[2016 AFC U-23 Championship|2016]]
+
+==References==
+{{reflist}}
+
+==External links==
+*{{soccerway|179179}}
+*{{NFT player|54045}}
+
+{{Al-Rayyan SC squad}}
+{{Navboxes
+|title=Qatar squads
+|bg=#660033
+|fg=white
+|bordercolor=white
+|list1=
+{{Qatar squad 2019 AFC Asian Cup}}
+{{Qatar squad 2019 Copa América}}
+{{Qatar squad 2021 CONCACAF Gold Cup}}
+{{Qatar squad 2022 FIFA World Cup}}
+{{Qatar squad 2023 AFC Asian Cup}}
+{{Qatar squad 2026 FIFA World Cup}}
+}}
+{{Navboxes
+| title = Awards
+| bg = gold
+| fg = navy
+| list1 =
+{{AFC U-23 Asian Cup awards}}
+}}
+
+{{DEFAULTSORT:Alaaeldin, Ahmed}}
+[[Category:1993 births]]
+[[Category:Living people]]
+[[Category:Egyptian men's footballers]]
+[[Category:Qatari men's footballers]]
+[[Category:21st-century Qatari sportsmen]]
+[[Category:Men's association football forwards]]
+[[Category:Naturalized citizens of Qatar]]
+[[Category:Al-Rayyan SC players]]
+[[Category:Al-Gharafa SC players]]
+[[Category:Al-Arabi SC (Qatar) players]]
+[[Category:Qatar Stars League players]]
+[[Category:Qatari Second Division players]]
+[[Category:2019 AFC Asian Cup players]]
+[[Category:2021 CONCACAF Gold Cup players]]
+[[Category:Qatari people of Egyptian descent]]
+[[Category:AFC Asian Cup–winning players]]
+[[Category:Qatar men's international footballers]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:Naturalised association football players]]
+[[Category:2023 AFC Asian Cup players]]
+[[Category:2026 FIFA World Cup players]]
+
+
+{{Qatar-footy-forward-stub}}

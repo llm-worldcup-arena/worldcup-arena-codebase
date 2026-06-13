@@ -1,0 +1,16 @@
+{
+ "team": "URU",
+ "source": "FC Barcelona",
+ "url": "https://www.fcbarcelona.com/en/football/first-team/news/4512085/araujo-heading-to-the-world-cup",
+ "title": "Araujo heading to the World Cup",
+ "news_date": "2026-06-13",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "asof": "2026-06-13",
+ "fetched": "2026-06-13_0637",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "Another Barça player is heading to the 2026 World Cup. Ronald Araújo has been called up by Uruguay for this summer’s international tournament. Marcelo Biels a has included him in his 26-man squad as they prepare for a competition that gets underway on 11 June.\n\nIt will be the defender’s second World Cup. He was also included in Uruguay’s squad for the previous edition, but did not play a single minute after arriving at the tournament carrying an injury. As a result, the Barça number 4 will be hoping to make his World Cup debut in this latest edition of one of international football’s most prestigious tournaments.\n\nMarcelo Bielsa’s side have been drawn in Group H alongside Saudi Arabia, Cape Verde and Spain , whose squad includes eight Barça players. There will therefore be a blaugrana clash in the group stage of the tournament, which is being held in the United States, Mexico and Canada.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

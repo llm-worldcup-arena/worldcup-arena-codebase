@@ -1,0 +1,844 @@
+[
+ {
+  "player_id": "346779",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/346779",
+  "name": "ChéAdams",
+  "shirt_number": 19,
+  "club": "Joined:",
+  "club_id": "416",
+  "market_value": "€5.00m",
+  "market_value_numeric": 5000000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Social-Media:",
+  "nationality": "Italy",
+  "citizenships": [
+   "Italy",
+   "England",
+   "Scotland",
+   "Scotland",
+   "England",
+   "Scotland",
+   "England"
+  ],
+  "market_value_history": [
+   {
+    "date": "Feb 27, 2015",
+    "value": "€50k",
+    "value_numeric": 50000,
+    "club": "Sheffield United",
+    "age": "18"
+   },
+   {
+    "date": "Oct 16, 2015",
+    "value": "€250k",
+    "value_numeric": 250000,
+    "club": "Sheffield United",
+    "age": "19"
+   },
+   {
+    "date": "May 30, 2016",
+    "value": "€350k",
+    "value_numeric": 350000,
+    "club": "Sheffield United",
+    "age": "19"
+   },
+   {
+    "date": "Sep 1, 2016",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "Birmingham City",
+    "age": "20"
+   },
+   {
+    "date": "Feb 27, 2017",
+    "value": "€2.00m",
+    "value_numeric": 2000000,
+    "club": "Birmingham City",
+    "age": "20"
+   },
+   {
+    "date": "Sep 18, 2017",
+    "value": "€2.50m",
+    "value_numeric": 2500000,
+    "club": "Birmingham City",
+    "age": "21"
+   },
+   {
+    "date": "Feb 27, 2018",
+    "value": "€2.50m",
+    "value_numeric": 2500000,
+    "club": "Birmingham City",
+    "age": "21"
+   },
+   {
+    "date": "Sep 24, 2018",
+    "value": "€2.50m",
+    "value_numeric": 2500000,
+    "club": "Birmingham City",
+    "age": "22"
+   },
+   {
+    "date": "Feb 27, 2019",
+    "value": "€7.00m",
+    "value_numeric": 7000000,
+    "club": "Birmingham City",
+    "age": "22"
+   },
+   {
+    "date": "Jun 28, 2019",
+    "value": "€7.00m",
+    "value_numeric": 7000000,
+    "club": "Birmingham City",
+    "age": "22"
+   },
+   {
+    "date": "Sep 12, 2019",
+    "value": "€12.00m",
+    "value_numeric": 12000000,
+    "club": "Southampton FC",
+    "age": "23"
+   },
+   {
+    "date": "Dec 10, 2019",
+    "value": "€12.00m",
+    "value_numeric": 12000000,
+    "club": "Southampton FC",
+    "age": "23"
+   },
+   {
+    "date": "Apr 8, 2020",
+    "value": "€9.50m",
+    "value_numeric": 9500000,
+    "club": "Southampton FC",
+    "age": "23"
+   },
+   {
+    "date": "Jul 30, 2020",
+    "value": "€12.00m",
+    "value_numeric": 12000000,
+    "club": "Southampton FC",
+    "age": "24"
+   },
+   {
+    "date": "Oct 13, 2020",
+    "value": "€12.00m",
+    "value_numeric": 12000000,
+    "club": "Southampton FC",
+    "age": "24"
+   },
+   {
+    "date": "Dec 17, 2020",
+    "value": "€15.00m",
+    "value_numeric": 15000000,
+    "club": "Southampton FC",
+    "age": "24"
+   },
+   {
+    "date": "Mar 18, 2021",
+    "value": "€18.00m",
+    "value_numeric": 18000000,
+    "club": "Southampton FC",
+    "age": "24"
+   },
+   {
+    "date": "May 28, 2021",
+    "value": "€20.00m",
+    "value_numeric": 20000000,
+    "club": "Southampton FC",
+    "age": "24"
+   },
+   {
+    "date": "Dec 23, 2021",
+    "value": "€20.00m",
+    "value_numeric": 20000000,
+    "club": "Southampton FC",
+    "age": "25"
+   },
+   {
+    "date": "Jun 15, 2022",
+    "value": "€18.00m",
+    "value_numeric": 18000000,
+    "club": "Southampton FC",
+    "age": "25"
+   },
+   {
+    "date": "Sep 15, 2022",
+    "value": "€22.00m",
+    "value_numeric": 22000000,
+    "club": "Southampton FC",
+    "age": "26"
+   },
+   {
+    "date": "Nov 3, 2022",
+    "value": "€22.00m",
+    "value_numeric": 22000000,
+    "club": "Southampton FC",
+    "age": "26"
+   },
+   {
+    "date": "Jun 20, 2023",
+    "value": "€20.00m",
+    "value_numeric": 20000000,
+    "club": "Southampton FC",
+    "age": "26"
+   },
+   {
+    "date": "Oct 27, 2023",
+    "value": "€18.00m",
+    "value_numeric": 18000000,
+    "club": "Southampton FC",
+    "age": "27"
+   },
+   {
+    "date": "Dec 21, 2023",
+    "value": "€15.00m",
+    "value_numeric": 15000000,
+    "club": "Southampton FC",
+    "age": "27"
+   },
+   {
+    "date": "May 24, 2024",
+    "value": "€15.00m",
+    "value_numeric": 15000000,
+    "club": "Southampton FC",
+    "age": "27"
+   },
+   {
+    "date": "Dec 18, 2024",
+    "value": "€15.00m",
+    "value_numeric": 15000000,
+    "club": "Torino FC",
+    "age": "28"
+   },
+   {
+    "date": "Jun 17, 2025",
+    "value": "€15.00m",
+    "value_numeric": 15000000,
+    "club": "Torino FC",
+    "age": "28"
+   },
+   {
+    "date": "Oct 7, 2025",
+    "value": "€10.00m",
+    "value_numeric": 10000000,
+    "club": "Torino FC",
+    "age": "29"
+   },
+   {
+    "date": "Dec 23, 2025",
+    "value": "€8.50m",
+    "value_numeric": 8500000,
+    "club": "Torino FC",
+    "age": "29"
+   },
+   {
+    "date": "May 29, 2026",
+    "value": "€5.00m",
+    "value_numeric": 5000000,
+    "club": "Torino FC",
+    "age": "29"
+   }
+  ],
+  "peak_market_value": 22000000,
+  "transfers": [],
+  "_our_pid": "per_che_adams"
+ },
+ {
+  "player_id": "235767",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/235767",
+  "name": "JohnSouttar",
+  "shirt_number": 5,
+  "club": "Joined:",
+  "club_id": "124",
+  "market_value": "€2.00m",
+  "market_value_numeric": 2000000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Social-Media:",
+  "nationality": "Scotland",
+  "citizenships": [
+   "Scotland",
+   "Scotland",
+   "Scotland",
+   "Scotland",
+   "Scotland",
+   "Scotland",
+   "Australia"
+  ],
+  "market_value_history": [
+   {
+    "date": "Oct 8, 2013",
+    "value": "€200k",
+    "value_numeric": 200000,
+    "club": "Dundee United FC",
+    "age": "17"
+   },
+   {
+    "date": "Feb 13, 2014",
+    "value": "€500k",
+    "value_numeric": 500000,
+    "club": "Dundee United FC",
+    "age": "17"
+   },
+   {
+    "date": "Oct 9, 2014",
+    "value": "€500k",
+    "value_numeric": 500000,
+    "club": "Dundee United FC",
+    "age": "18"
+   },
+   {
+    "date": "Dec 7, 2015",
+    "value": "€500k",
+    "value_numeric": 500000,
+    "club": "Dundee United FC",
+    "age": "19"
+   },
+   {
+    "date": "Feb 14, 2017",
+    "value": "€600k",
+    "value_numeric": 600000,
+    "club": "Heart of Midlothian FC",
+    "age": "20"
+   },
+   {
+    "date": "Mar 4, 2018",
+    "value": "€750k",
+    "value_numeric": 750000,
+    "club": "Heart of Midlothian FC",
+    "age": "21"
+   },
+   {
+    "date": "Aug 8, 2018",
+    "value": "€850k",
+    "value_numeric": 850000,
+    "club": "Heart of Midlothian FC",
+    "age": "21"
+   },
+   {
+    "date": "Jan 3, 2019",
+    "value": "€1.25m",
+    "value_numeric": 1250000,
+    "club": "Heart of Midlothian FC",
+    "age": "22"
+   },
+   {
+    "date": "Aug 20, 2019",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "Heart of Midlothian FC",
+    "age": "22"
+   },
+   {
+    "date": "Feb 5, 2020",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "Heart of Midlothian FC",
+    "age": "23"
+   },
+   {
+    "date": "Apr 8, 2020",
+    "value": "€1.20m",
+    "value_numeric": 1200000,
+    "club": "Heart of Midlothian FC",
+    "age": "23"
+   },
+   {
+    "date": "Jul 21, 2020",
+    "value": "€1.00m",
+    "value_numeric": 1000000,
+    "club": "Heart of Midlothian FC",
+    "age": "23"
+   },
+   {
+    "date": "Jan 18, 2021",
+    "value": "€1.00m",
+    "value_numeric": 1000000,
+    "club": "Heart of Midlothian FC",
+    "age": "24"
+   },
+   {
+    "date": "Jun 3, 2021",
+    "value": "€800k",
+    "value_numeric": 800000,
+    "club": "Heart of Midlothian FC",
+    "age": "24"
+   },
+   {
+    "date": "Dec 31, 2021",
+    "value": "€1.00m",
+    "value_numeric": 1000000,
+    "club": "Heart of Midlothian FC",
+    "age": "25"
+   },
+   {
+    "date": "Jun 27, 2022",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "Heart of Midlothian FC",
+    "age": "25"
+   },
+   {
+    "date": "Dec 13, 2022",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "Rangers FC",
+    "age": "26"
+   },
+   {
+    "date": "Jun 26, 2023",
+    "value": "€1.20m",
+    "value_numeric": 1200000,
+    "club": "Rangers FC",
+    "age": "26"
+   },
+   {
+    "date": "Dec 5, 2023",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "Rangers FC",
+    "age": "27"
+   },
+   {
+    "date": "Mar 20, 2024",
+    "value": "€2.50m",
+    "value_numeric": 2500000,
+    "club": "Rangers FC",
+    "age": "27"
+   },
+   {
+    "date": "May 30, 2024",
+    "value": "€3.00m",
+    "value_numeric": 3000000,
+    "club": "Rangers FC",
+    "age": "27"
+   },
+   {
+    "date": "Oct 2, 2024",
+    "value": "€3.50m",
+    "value_numeric": 3500000,
+    "club": "Rangers FC",
+    "age": "28"
+   },
+   {
+    "date": "Dec 3, 2024",
+    "value": "€4.50m",
+    "value_numeric": 4500000,
+    "club": "Rangers FC",
+    "age": "28"
+   },
+   {
+    "date": "Jun 17, 2025",
+    "value": "€4.00m",
+    "value_numeric": 4000000,
+    "club": "Rangers FC",
+    "age": "28"
+   },
+   {
+    "date": "Dec 10, 2025",
+    "value": "€3.50m",
+    "value_numeric": 3500000,
+    "club": "Rangers FC",
+    "age": "29"
+   },
+   {
+    "date": "Mar 5, 2026",
+    "value": "€3.00m",
+    "value_numeric": 3000000,
+    "club": "Rangers FC",
+    "age": "29"
+   },
+   {
+    "date": "May 20, 2026",
+    "value": "€2.00m",
+    "value_numeric": 2000000,
+    "club": "Rangers FC",
+    "age": "29"
+   }
+  ],
+  "peak_market_value": 4500000,
+  "transfers": [],
+  "_our_pid": "per_john_souttar"
+ },
+ {
+  "player_id": "300716",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/300716",
+  "name": "KieranTierney",
+  "shirt_number": 63,
+  "club": "Joined:",
+  "club_id": "371",
+  "market_value": "€8.00m",
+  "market_value_numeric": 8000000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Outfitter:",
+  "nationality": "Scotland",
+  "citizenships": [
+   "Scotland",
+   "Isle of Man",
+   "Scotland",
+   "Scotland",
+   "Isle of Man",
+   "Scotland",
+   "Isle of Man"
+  ],
+  "market_value_history": [
+   {
+    "date": "Oct 14, 2015",
+    "value": "€100k",
+    "value_numeric": 100000,
+    "club": "Celtic Glasgow U20",
+    "age": "18"
+   },
+   {
+    "date": "Dec 28, 2015",
+    "value": "€500k",
+    "value_numeric": 500000,
+    "club": "Celtic Glasgow U20",
+    "age": "18"
+   },
+   {
+    "date": "Feb 14, 2017",
+    "value": "€2.00m",
+    "value_numeric": 2000000,
+    "club": "Celtic FC",
+    "age": "19"
+   },
+   {
+    "date": "Mar 4, 2018",
+    "value": "€5.00m",
+    "value_numeric": 5000000,
+    "club": "Celtic FC",
+    "age": "20"
+   },
+   {
+    "date": "Aug 8, 2018",
+    "value": "€12.50m",
+    "value_numeric": 12500000,
+    "club": "Celtic FC",
+    "age": "21"
+   },
+   {
+    "date": "Jan 3, 2019",
+    "value": "€12.50m",
+    "value_numeric": 12500000,
+    "club": "Celtic FC",
+    "age": "21"
+   },
+   {
+    "date": "Sep 12, 2019",
+    "value": "€25.00m",
+    "value_numeric": 25000000,
+    "club": "Arsenal FC",
+    "age": "22"
+   },
+   {
+    "date": "Dec 10, 2019",
+    "value": "€25.00m",
+    "value_numeric": 25000000,
+    "club": "Arsenal FC",
+    "age": "22"
+   },
+   {
+    "date": "Apr 8, 2020",
+    "value": "€20.00m",
+    "value_numeric": 20000000,
+    "club": "Arsenal FC",
+    "age": "22"
+   },
+   {
+    "date": "Jul 30, 2020",
+    "value": "€28.00m",
+    "value_numeric": 28000000,
+    "club": "Arsenal FC",
+    "age": "23"
+   },
+   {
+    "date": "Oct 13, 2020",
+    "value": "€32.00m",
+    "value_numeric": 32000000,
+    "club": "Arsenal FC",
+    "age": "23"
+   },
+   {
+    "date": "Dec 17, 2020",
+    "value": "€28.00m",
+    "value_numeric": 28000000,
+    "club": "Arsenal FC",
+    "age": "23"
+   },
+   {
+    "date": "Mar 18, 2021",
+    "value": "€30.00m",
+    "value_numeric": 30000000,
+    "club": "Arsenal FC",
+    "age": "23"
+   },
+   {
+    "date": "May 28, 2021",
+    "value": "€32.00m",
+    "value_numeric": 32000000,
+    "club": "Arsenal FC",
+    "age": "23"
+   },
+   {
+    "date": "Dec 23, 2021",
+    "value": "€32.00m",
+    "value_numeric": 32000000,
+    "club": "Arsenal FC",
+    "age": "24"
+   },
+   {
+    "date": "Jun 15, 2022",
+    "value": "€32.00m",
+    "value_numeric": 32000000,
+    "club": "Arsenal FC",
+    "age": "25"
+   },
+   {
+    "date": "Nov 3, 2022",
+    "value": "€30.00m",
+    "value_numeric": 30000000,
+    "club": "Arsenal FC",
+    "age": "25"
+   },
+   {
+    "date": "Mar 16, 2023",
+    "value": "€25.00m",
+    "value_numeric": 25000000,
+    "club": "Arsenal FC",
+    "age": "25"
+   },
+   {
+    "date": "Jun 20, 2023",
+    "value": "€25.00m",
+    "value_numeric": 25000000,
+    "club": "Arsenal FC",
+    "age": "26"
+   },
+   {
+    "date": "Dec 22, 2023",
+    "value": "€18.00m",
+    "value_numeric": 18000000,
+    "club": "Real Sociedad",
+    "age": "26"
+   },
+   {
+    "date": "Mar 21, 2024",
+    "value": "€12.00m",
+    "value_numeric": 12000000,
+    "club": "Real Sociedad",
+    "age": "26"
+   },
+   {
+    "date": "Jun 7, 2024",
+    "value": "€12.00m",
+    "value_numeric": 12000000,
+    "club": "Real Sociedad",
+    "age": "27"
+   },
+   {
+    "date": "Oct 1, 2024",
+    "value": "€10.00m",
+    "value_numeric": 10000000,
+    "club": "Arsenal FC",
+    "age": "27"
+   },
+   {
+    "date": "Dec 16, 2024",
+    "value": "€10.00m",
+    "value_numeric": 10000000,
+    "club": "Arsenal FC",
+    "age": "27"
+   },
+   {
+    "date": "May 30, 2025",
+    "value": "€9.00m",
+    "value_numeric": 9000000,
+    "club": "Arsenal FC",
+    "age": "27"
+   },
+   {
+    "date": "Oct 8, 2025",
+    "value": "€8.00m",
+    "value_numeric": 8000000,
+    "club": "Celtic FC",
+    "age": "28"
+   },
+   {
+    "date": "Dec 10, 2025",
+    "value": "€8.00m",
+    "value_numeric": 8000000,
+    "club": "Celtic FC",
+    "age": "28"
+   },
+   {
+    "date": "May 20, 2026",
+    "value": "€8.00m",
+    "value_numeric": 8000000,
+    "club": "Celtic FC",
+    "age": "28"
+   }
+  ],
+  "peak_market_value": 32000000,
+  "transfers": [],
+  "_our_pid": "per_kieran_tierney"
+ },
+ {
+  "player_id": "424015",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/424015",
+  "name": "NathanPatterson",
+  "shirt_number": 2,
+  "club": "Joined:",
+  "club_id": "29",
+  "market_value": "€10.00m",
+  "market_value_numeric": 10000000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Social-Media:",
+  "nationality": "England",
+  "citizenships": [
+   "England",
+   "Scotland",
+   "Scotland",
+   "Scotland",
+   "Scotland",
+   "Scotland"
+  ],
+  "market_value_history": [
+   {
+    "date": "Jan 18, 2021",
+    "value": "€250k",
+    "value_numeric": 250000,
+    "club": "Rangers FC",
+    "age": "19"
+   },
+   {
+    "date": "May 28, 2021",
+    "value": "€1.30m",
+    "value_numeric": 1300000,
+    "club": "Rangers FC",
+    "age": "19"
+   },
+   {
+    "date": "Dec 31, 2021",
+    "value": "€3.00m",
+    "value_numeric": 3000000,
+    "club": "Rangers FC",
+    "age": "20"
+   },
+   {
+    "date": "Mar 29, 2022",
+    "value": "€8.00m",
+    "value_numeric": 8000000,
+    "club": "Everton FC",
+    "age": "20"
+   },
+   {
+    "date": "Jun 15, 2022",
+    "value": "€8.00m",
+    "value_numeric": 8000000,
+    "club": "Everton FC",
+    "age": "20"
+   },
+   {
+    "date": "Sep 15, 2022",
+    "value": "€14.00m",
+    "value_numeric": 14000000,
+    "club": "Everton FC",
+    "age": "20"
+   },
+   {
+    "date": "Nov 3, 2022",
+    "value": "€14.00m",
+    "value_numeric": 14000000,
+    "club": "Everton FC",
+    "age": "21"
+   },
+   {
+    "date": "Jun 20, 2023",
+    "value": "€16.00m",
+    "value_numeric": 16000000,
+    "club": "Everton FC",
+    "age": "21"
+   },
+   {
+    "date": "Dec 19, 2023",
+    "value": "€15.00m",
+    "value_numeric": 15000000,
+    "club": "Everton FC",
+    "age": "22"
+   },
+   {
+    "date": "May 27, 2024",
+    "value": "€15.00m",
+    "value_numeric": 15000000,
+    "club": "Everton FC",
+    "age": "22"
+   },
+   {
+    "date": "Dec 16, 2024",
+    "value": "€15.00m",
+    "value_numeric": 15000000,
+    "club": "Everton FC",
+    "age": "23"
+   },
+   {
+    "date": "May 30, 2025",
+    "value": "€15.00m",
+    "value_numeric": 15000000,
+    "club": "Everton FC",
+    "age": "23"
+   },
+   {
+    "date": "Oct 17, 2025",
+    "value": "€13.00m",
+    "value_numeric": 13000000,
+    "club": "Everton FC",
+    "age": "24"
+   },
+   {
+    "date": "Dec 9, 2025",
+    "value": "€10.00m",
+    "value_numeric": 10000000,
+    "club": "Everton FC",
+    "age": "24"
+   },
+   {
+    "date": "Jun 3, 2026",
+    "value": "€10.00m",
+    "value_numeric": 10000000,
+    "club": "Everton FC",
+    "age": "24"
+   }
+  ],
+  "peak_market_value": 16000000,
+  "transfers": [],
+  "_our_pid": "per_nathan_patterson"
+ }
+]

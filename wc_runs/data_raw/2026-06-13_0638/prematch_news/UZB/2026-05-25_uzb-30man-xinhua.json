@@ -1,0 +1,16 @@
+{
+ "team": "UZB",
+ "source": "新华社Xinhua",
+ "url": "https://english.news.cn/20260525/f1cfa5f2d1cb48df8126023d6e286aad/c.html",
+ "title": "Uzbekistan names provisional 30-man squad for World Cup debut",
+ "news_date": "2026-05-25",
+ "published": "2026-05-25",
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-10",
+ "fetched": "2026-06-13_0638",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "TASHKENT, May 25 (Xinhua) -- The Uzbekistan Football Association announced a provisional 30-man squad on Sunday for the 2026 FIFA World Cup as the country prepares for its historic debut at the tournament.\n\nEach nation is allowed a final 26-man roster for the competition, with UFA first vice president Ravshan Irmatov previously explaining that four extra players had been included to guard against possible injuries before the tournament begins. Coach Fabio Cannavaro is expected to reduce the squad before Uzbekistan's opening match.\n\nThe squad includes several internationally based players, notably Abdukodir Khusanov of Manchester City and captain Eldor Shomurodov of Istanbul Basaksehir.\n\nUzbekistan is scheduled to arrive in New York on Monday to begin a pre-World Cup training camp. The team will play warmup matches against Canada on June 1 and the Netherlands seven days later.\n\nAt the World Cup, Uzbekistan will compete in Group K alongside Colombia, Portugal and DR Congo. Uzbekistan opens its campaign against Colombia in Mexico City on June 18.\n\nGoalkeepers: Utkir Yusupov, Botirali Ergashev, Abduvokhid Nematov.\n\nDefenders: Rustamjon Ashurmatov, Umarbek Eshmurodov, Avazbek Ulmasaliev, Abdukodir Khusanov, Abdulla Abdullaev, Jakhongir Urozov, Khojiakbar Alijonov, Bekhruz Karimov, Ruslanbek Jiyanov, Farrukh Sayfiev, Sherzod Nasrullaev, Umarali Rakhmonaliev.\n\nMidfielders: Azizjon Ganiev, Akmal Mozgovoy, Sherzod Esanov, Otabek Shukurov, Odiljon Hamrobekov, Dostonbek Khamdamov, Jamshid Iskanderov, Jasurbek Jaloliddinov.\n\nForwards: Abbosbek Fayzullaev, Oston Urunov, Jaloliddin Masharipov, Azizbek Amonov, Eldor Shomurodov, Igor Sergeev, Sherzod Temirov.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

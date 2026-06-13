@@ -1,0 +1,34 @@
+===Current squad===
+The following players have been called up to participate in the [[2026 FIFA World Cup]].<ref>{{Cite web |date=4 October 2025 |title=30 بازیکن به تیم ملی فوتبال دعوت شدند |url=https://the-ffiri.com/fa/news/28384/ |website=Iran Football Federation |language=fa}}</ref>
+<br>''Caps and goals updated as of 4 June 2026, after the match against [[Mali national football team|Mali]].''<ref>{{Cite web |date=10 June 2025 |title=لیست 30 نفره ایران برای جام جهانی اعلام شد |url=https://www.varzesh3.com/news/2361381/%D9%81%D9%88%D8%B1%DB%8C-%D9%84%DB%8C%D8%B3%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AC%D8%A7%D9%85-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%B4%D8%AF}}</ref>
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Alireza Beiranvand]]|sortname=Beiranvand, Alireza|age={{bda|df=y|1992|9|21}}|caps=86|goals=0|club=[[Tractor S.C.|Tractor]]|clubnat=IRN}}
+{{nat fs g player|no=12|pos=GK|name=[[Payam Niazmand]]|sortname=Niazmand, Payam|age={{bda|df=y|1995|4|6}}|caps=15|goals=0|club=[[Persepolis F.C.|Persepolis]]|clubnat=IRN}}
+{{nat fs g player|no=22|pos=GK|name=[[Hossein Hosseini (footballer, born 1992)|Hossein Hosseini]]|sortname=Hosseini, Hossein|age={{bda|df=y|1992|6|30}}|caps=13|goals=0|club=[[Sepahan S.C.|Sepahan]]|clubnat=IRN}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Saleh Hardani]]|sortname=Hardani, Saleh|age={{bda|df=y|1998|12|26}}|caps=18|goals=1|club=[[Esteghlal F.C.|Esteghlal]]|clubnat=IRN}}
+{{nat fs g player|no=3|pos=DF|name=[[Ehsan Hajsafi]]|sortname=Hajsafi, Ehsan|age={{bda|df=y|1990|2|25}}|caps=146|goals=7|club=[[Sepahan S.C.|Sepahan]]|clubnat=IRN}}
+{{nat fs g player|no=4|pos=DF|name=[[Shojae Khalilzadeh]]|sortname=Khalilzadeh, Shojae|age={{bda|df=y|1989|5|14}}|caps=58|goals=2|club=[[Tractor S.C.|Tractor]]|clubnat=IRN}}
+{{nat fs g player|no=5|pos=DF|name=[[Milad Mohammadi]]|sortname=Mohammadi, Milad|age={{bda|df=y|1993|9|29}}|caps=76|goals=1|club=[[Persepolis F.C.|Persepolis]]|clubnat=IRN}}
+{{nat fs g player|no=13|pos=DF|name=[[Hossein Kanaanizadegan]]|sortname=Kanaanizadegan, Hossein|age={{bda|df=y|1994|3|23}}|caps=65|goals=6|club=[[Persepolis F.C.|Persepolis]]|clubnat=IRN}}
+{{nat fs g player|no=17|pos=DF|name=[[Aria Yousefi]]|sortname=Yousefi, Aria|age={{bda|df=y|2002|4|22}}|caps=14|goals=1|club=[[Sepahan S.C.|Sepahan]]|clubnat=IRN}}
+{{nat fs g player|no=19|pos=DF|name=[[Ali Nemati]]|sortname=Nemati, Ali|age={{bda|df=y|1996|2|7}}|caps=17|goals=0|club=[[Foolad F.C.|Foolad]]|clubnat=IRN}}
+{{nat fs g player|no=23|pos=DF|name=[[Ramin Rezaeian]]|sortname=Rezaeian, Ramin|age={{bda|df=y|1990|3|21}}|caps=74|goals=8|club=[[Foolad F.C.|Foolad]]|clubnat=IRN}}
+{{nat fs g player|no=25|pos=DF|name=[[Danial Eiri]]|sortname=Eiri, Danial|age={{bda|df=y|2003|10|26}}|caps=0|goals=0|club=[[Malavan F.C.|Malavan]]|clubnat=IRN}}
+{{nat fs break}}
+{{nat fs g player|no=6|pos=MF|name=[[Saeid Ezatolahi]]|sortname=Ezatolahi, Saeid|age={{bda|df=y|1996|10|1}}|caps=83|goals=2|club=[[Shabab Al Ahli Club|Shabab Al-Ahli]]|clubnat=UAE}}
+{{nat fs g player|no=7|pos=MF|name=[[Alireza Jahanbakhsh]]|sortname=Jahanbakhsh, Alireza|age={{bda|df=y|1993|8|11}}|caps=98|goals=17|club=[[F.C.V. Dender E.H.|Dender]]|clubnat=BEL}}
+{{nat fs g player|no=8|pos=MF|name=[[Mohammad Mohebi]]|sortname=Mohebi, Mohammad Mehdi|age={{bda|1998|12|20|df=y}}|caps=36|goals=14|club=[[FC Rostov|Rostov]]|clubnat=RUS}}
+{{nat fs g player|no=14|pos=MF|name=[[Saman Ghoddos]]||sortname=Ghoddos, Saman|age={{bda|df=y|1993|9|6}}|caps=68|goals=3|club=[[Kalba FC|Kalba]]|clubnat=UAE}}
+{{nat fs g player|no=15|pos=MF|name=[[Rouzbeh Cheshmi]]||sortname=Cheshmi, Rouzbeh|age={{bda|df=y|1993|7|24}}|caps=40|goals=3|club=[[Esteghlal F.C.|Esteghlal]]|clubnat=IRN}}
+{{nat fs g player|no=16|pos=MF|name=[[Mahdi Torabi]]|sortname=Torabi, Mahdi|age={{bda|df=y|1994|9|10}}|caps=52|goals=7|club=[[Tractor S.C.|Tractor]]|clubnat=IRN}}
+{{nat fs g player|no=21|pos=MF|name=[[Mohammad Ghorbani (footballer)|Mohammad Ghorbani]]|sortname=Ghorbani, Mohammad|age={{bda|df=y|2001|5|21}}|caps=16|goals=0|club=[[Al Wahda FC|Al-Wahda]]|clubnat=UAE}}
+{{nat fs g player|no=26|pos=MF|name=[[Amirmohammad Razzaghinia]]|sortname=Razzaghnia, Amirmohammad|age={{bda|df=y|2006|4|11}}|caps=4|goals=0|club=[[Esteghlal F.C.|Esteghlal]]|clubnat=IRN}}
+{{nat fs break}}
+{{nat fs g player|no=9|pos=FW|name=[[Mehdi Taremi]]|sortname=Taremi, Mehdi|age={{bda|df=y|1992|7|18}}|caps=105|goals=60|club=[[Olympiacos F.C.|Olympiacos]]|clubnat=GRE}}
+{{nat fs g player|no=10|pos=FW|name=[[Mehdi Ghayedi]]||sortname=Ghayedi, Mehdi|age={{bda|df=y|1998|12|5}}|caps=30|goals=10|club=[[Al-Nasr SC (Dubai)|Al-Nasr]]|clubnat=UAE}}
+{{nat fs g player|no=11|pos=FW|name=[[Ali Alipour]]|sortname=Alipour, Ali|age={{bda|df=y|1995|11|11}}|caps=14|goals=1|club=[[Persepolis F.C.|Persepolis]]|clubnat=IRN}}
+{{nat fs g player|no=18|pos=FW|name=[[Amirhossein Hosseinzadeh]]|sortname=Hosseinzadeh, Amirhossein|age={{bda|df=y|2000|10|30}}|caps=18|goals=5|club=[[Tractor S.C.|Tractor]]|clubnat=IRN}}
+{{nat fs g player|no=20|pos=FW|name=[[Shahriyar Moghanlou]]||sortname=Moghanlou, Shahriyar|age={{bda|df=y|1994|12|21}}|caps=21|goals=2|club=[[Kalba FC|Kalba]]|clubnat=UAE}}
+{{nat fs g player|no=24|pos=FW|name=[[Dennis Eckert]]||sortname=Eckert, Dennis|age={{bda|df=y|1997|1|9}}|caps=0|goals=0|club=[[Standard Liège]]|clubnat=BEL}}
+{{nat fs end}}

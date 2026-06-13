@@ -1,0 +1,209 @@
+{{short description|Algerian footballer (born 2000)}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+| name           = Mohamed Amine Tougai
+| image          = Mohamed Amine Tougai.jpg
+| fullname       = Mohamed Amine Tougai<ref name="FIFA Arab 2021">{{cite web |url=https://fdp.fifa.org/assetspublic/ce14/pdf/SquadLists-English.pdf |title=FIFA Arab Cup Qatar 2021: List of players: Algeria |publisher=[[FIFA]] |page=1 |date=4 December 2021 |access-date=12 December 2022}}</ref>
+| birth_date     = {{birth date and age|df=yes|2000|01|22}}<ref name="FIFA Arab 2021"/>
+| birth_place    = [[Bourouba]], Algeria
+| height         = 1.91 m<ref name="FIFA Arab 2021"/>
+| position       = [[Defender (association football)#Centre-back|Centre-back]]
+| currentclub    = [[Espérance Sportive de Tunis|Espérance de Tunis]]
+| clubnumber     = 15
+| youthyears1    =
+| youthclubs1    = [[NA Hussein Dey]]
+| years1         = 2019–2020 | clubs1 = [[NA Hussein Dey]]                                 | caps1 = 18  | goals1 = 0
+| years2         = 2020–     | clubs2 = [[Espérance Sportive de Tunis|Espérance de Tunis]] | caps2 = 100 | goals2 = 8
+| nationalyears1 = 2018
+| nationalteam1  = [[Algeria national under-18 football team|Algeria U18]]
+| nationalcaps1  = 3
+| nationalgoals1 = 0
+| nationalyears2 = 2017–2018
+| nationalteam2  = [[Algeria national under-20 football team|Algeria U20]]
+| nationalcaps2  = 9
+| nationalgoals2 = 0
+| nationalyears3 = 2019
+| nationalteam3  = [[Algeria national under-23 football team|Algeria U23]]
+| nationalcaps3  = 4
+| nationalgoals3 = 0
+| nationalyears4 = 2021–
+| nationalteam4  = [[Algeria national football team|Algeria]]
+| nationalcaps4  = 28
+| nationalgoals4 = 2
+| club-update    = 10 May 2026
+| ntupdate       = 31 December 2025
+| medaltemplates = {{MedalSport|Men's [[association football|football]]}}
+{{MedalCountry|{{fb|ALG}}}}
+{{MedalCompetition|[[FIFA Arab Cup]]}}
+{{Medal|W|[[2021 FIFA Arab Cup|2021 Qatar]]|}}
+}}
+'''Mohamed Amine Tougai''' ({{langx|ar|محمد أمين توغاي}}; born 22 January 2000) is an Algerian professional [[Association football|footballer]] who plays as a [[Defender (association football)#Centre-back|centre-back]] for {{Tunisian football updater|EST}} club [[Espérance Sportive de Tunis|Espérance de Tunis]] and the [[Algeria national football team|Algeria national team]].<ref>{{cite web |url=https://e-s-tunis.com/fr/news/2019/12/29/13564-un-d%C3%A9fenseur-alg%C3%A9rien-signe-%C3%A0-l-esp%C3%A9rance|title=UN DÉFENSEUR ALGÉRIEN SIGNE À L'ESPÉRANCE}}</ref><ref>{{cite web |url=https://www.ettachkila.com/qui-est-mohamed-amine-tougai-le-jeune-defenseur-algerien-qui-a-rejoint-lesperance-de-tunis/|title=Qui est Mohamed Amine Tougai, le jeune défenseur algérien qui a rejoint l'Espérance de Tunis ?}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|10 May 2025}}<ref>{{Cite news|url=https://int.soccerway.com/players/mohamed-amine--tougai/556244/ | title = Mohamed Amine Tougai | publisher = Soccerway }}</ref>
+
+{| class="wikitable" style="text-align: center"
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|Cup
+!colspan=2|Continental
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan=3|[[NA Hussein Dey]]
+|[[2018–19 NA Hussein Dey season|2018–19]]
+|[[Algerian Ligue Professionnelle 1]]
+|14||0||2||0||7{{efn|Appearances in [[CAF Confederation Cup]]}}||1||colspan=2|—||23||1
+|-
+|[[2019–20 NA Hussein Dey season|2019–20]]
+|Algerian Ligue Professionnelle 1
+|4||0||colspan=2|—||colspan=2|—||colspan=2|—||4||0
+|-
+!colspan=2|Total
+!18!!0!!2!!0!!7!!1!!colspan=2|—!!27!!1
+|-
+|rowspan=8|[[Espérance Sportive de Tunis|Espérance de Tunis]]
+|[[2019–20 Espérance Sportive de Tunis season|2019–20]]
+|[[Tunisian Ligue Professionnelle 1]]
+|5||0||3||0||0||0||0||0||8||0
+|-
+|[[2020–21 Espérance Sportive de Tunis season|2020–21]]
+|Tunisian Ligue Professionnelle 1
+|10||0||0||0||2{{efn|name=CCL|Appearances in [[CAF Champions League]]}}||0||colspan=2|—||12||0
+|-
+|[[2021–22 Espérance Sportive de Tunis season|2021–22]]
+|Tunisian Ligue Professionnelle 1
+|20||3||0||0||10{{efn|name=CCL}}||0||0||0||30||3
+|-
+|[[2022–23 Espérance Sportive de Tunis season|2022–23]]
+|Tunisian Ligue Professionnelle 1
+|19||0||3||0||12{{efn|name=CCL}}||1||colspan=2|—||34||1
+|-
+|[[2023–24 Espérance Sportive de Tunis season|2023–24]]
+|Tunisian Ligue Professionnelle 1
+|15||0||colspan=2|—||18{{efn|Fourteen appearances and one goal in CAF Champions League, four appearances and one goal in [[African Football League]]}}||2||3{{efn|All appearances in [[Arab Club Champions Cup]]}}||0||36||2
+|-
+|[[2024–25 Espérance Sportive de Tunis season|2024–25]]
+|Tunisian Ligue Professionnelle 1
+|16||3||3||0||9{{efn|name=CCL}}||1||4{{efn|One appearance in [[Tunisian Super Cup]], three appearances in [[FIFA Club World Cup]]}}||0||32||4
+|-
+|[[2025–26 Espérance Sportive de Tunis season|2025–26]]
+|Tunisian Ligue Professionnelle 1
+|13||2||0||0||7{{efn|name=CCL}}||2||1{{efn|Appearance in Tunisian Super Cup}}||0||21||4
+|-
+!colspan=2|Total
+!100!!8!!6!!0!!58!!6!!8!!0!!175!!14
+|-
+!colspan=3|Career total
+!118!!8!!11!!0!!65!!7!!8!!0!!202!!15
+|}
+{{notelist}}
+
+===International===
+{{updated|31 December 2025}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan=5|[[Algeria national football team|Algeria]]
+|2021||4||1
+|-
+|2022||3||0
+|-
+|2023||6||0
+|-
+|2024||9||0
+|-
+|2025||6||1
+|-
+!colspan=2|Total
+!28
+!2
+|}
+
+:''Scores and results list Algeria's goal tally first, score column indicates score after each Tougai goal.''
+
+{| class="wikitable sortable"
+|+ List of international goals scored by Mohamed Amine Tougai
+|-
+!No.
+!Date
+!Venue
+!Opponent
+!Score
+!Result
+!Competition
+|-
+|1.
+|7 December 2021
+|[[Al Janoub Stadium]], [[Al Wakrah]], Qatar
+|{{fb|EGY}}
+|rowspan=2 align=center|1–0
+|align=center|1–1
+|[[2021 FIFA Arab Cup Group D|2021 FIFA Arab Cup]]
+|-
+|2.
+|9 December 2025
+|[[Khalifa International Stadium]], [[Al Rayyan (city)|Al Rayyan]], Qatar
+|{{fb|IRQ}}
+|align=center|2–0
+|[[2025 FIFA Arab Cup Group D|2025 FIFA Arab Cup]]
+|}
+
+==Honours==
+'''Espérance de Tunis'''
+*[[Tunisian Ligue Professionnelle 1]]: [[2019–20 Tunisian Ligue Professionnelle 1|2019–20]],<ref>{{cite web |url=https://www.rfi.fr/fr/afrique-foot/20200830-les-tunis-champion-tunisie-la-30e-fois |title=L'ES Tunis champion de Tunisie pour la 30e fois |website=rfi.fr |date= 30 August 2020 |accessdate= 23 August 2021}}</ref> [[2020–21 Tunisian Ligue Professionnelle 1|2020–21]],<ref>{{cite web |url=https://www.aa.com.tr/fr/sport/football-lesp%C3%A9rance-sportive-de-tunis-sacr%C3%A9-champion-de-tunisie-pour-la-31e-fois/2226805 |title=Football : L'Espérance Sportive de Tunis sacré champion de Tunisie pour la 31e fois |website=aa.com.tr |date= 1 May 2021 |accessdate= 23 August 2021}}</ref> [[2021–22 Tunisian Ligue Professionnelle 1|2021–22]], [[2023–24 Tunisian Ligue Professionnelle 1|2023–24]], [[2024–25 Tunisian Ligue Professionnelle 1|2024–25]]
+*[[Tunisian Super Cup]]: [[2020–21 Tunisian Super Cup|2021]], [[2023–24 Tunisian Super Cup|2024]], [[2024–25 Tunisian Super Cup|2025]]
+*[[Tunisian Cup]]: [[2024–25 Tunisian Cup|2024–25]], [[2025–26 Tunisian Cup|2025–26]]
+
+'''Algeria'''
+*[[FIFA Arab Cup]]: [[2021 FIFA Arab Cup|2021]]<ref>{{Cite web|title=Algeria beat Tunisia to win FIFA Arab Cup 2021|url=https://www.aljazeera.com/sports/2021/12/18/algeria-beat-tunisia-to-win-fifa-arab-cup-2021|access-date=2021-12-18|website=aljazeera.com|language=en}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{soccerway|mohamed-amine--tougai/556244}}
+
+{{Espérance Sportive de Tunis squad}}
+{{Navboxes
+| title = Algeria squads
+| bg = white
+| fg = #006633
+| bordercolor = #006633
+| list1 =
+{{Algeria squad 2021 Africa Cup of Nations}}
+{{Algeria squad 2023 Africa Cup of Nations}}
+{{Algeria squad 2025 Africa Cup of Nations}}
+{{Algeria squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Tougai, Mohamed Amine}}
+[[Category:2000 births]]
+[[Category:Living people]]
+[[Category:Algerian men's footballers]]
+[[Category:Algeria men's youth international footballers]]
+[[Category:Algeria men's international footballers]]
+[[Category:Algerian expatriate men's footballers]]
+[[Category:Men's association football defenders]]
+[[Category:NA Hussein Dey players]]
+[[Category:Espérance Sportive de Tunis players]]
+[[Category:Algerian Ligue Professionnelle 1 players]]
+[[Category:Tunisian Ligue Professionnelle 1 players]]
+[[Category:Expatriate men's footballers in Tunisia]]
+[[Category:Algerian expatriate sportspeople in Tunisia]]
+[[Category:21st-century Algerian sportsmen]]
+[[Category:2021 Africa Cup of Nations players]]
+[[Category:2023 Africa Cup of Nations players]]
+[[Category:2025 Africa Cup of Nations players]]
+[[Category:2026 FIFA World Cup players]]
+
+
+{{Algeria-footy-defender-stub}}

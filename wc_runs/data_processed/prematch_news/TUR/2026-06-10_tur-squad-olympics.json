@@ -1,0 +1,16 @@
+{
+ "team": "TUR",
+ "source": "Olympics.com",
+ "url": "https://www.olympics.com/en/news/fifa-world-cup-2026-turkiye-all-players-full-squad-list-key-stats-schedule",
+ "title": "Türkiye at FIFA World Cup 2026: All players, full squad list, key stats and schedule",
+ "news_date": "2026-06-10",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-10",
+ "fetched": "2026-06-13_0748",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Türkiye at FIFA World Cup 2026: All players, full squad list, key stats and schedule\nQuick facts\nCaptain: Hakan Çalhanoğlu\nManager: Vincenzo Montella\nWorld Cup appearances (including 2026): 3\nBest World Cup result: Third (2002)\nGoalkeepers: Altay Bayındır (Manchester United), Mert Günok (Fenerbahçe A.Ş.), Uğurcan Çakır (Galatasaray A.Ş.)\nDefenders: Abdülkerim Bardakcı (Galatasaray A.Ş.), Çağlar Söyüncü (Fenerbahçe A.Ş.), Eren Elmalı (Galatasaray A.Ş.), Ferdi Kadıoğlu (Brighton & Hove Albion), Merih Demiral (Al-Ahli), Mert Müldür (Fenerbahçe A.Ş.), Ozan Kabak (TSG 1899 Hoffenheim), Samet Akaydın (Çaykur Rizespor A.Ş.), Zeki Çelik (AS Roma)\nMidfielders: Hakan Çalhanoğlu (Internazionale), İsmail Yüksek (Fenerbahçe A.Ş.), Kaan Ayhan (Galatasaray A.Ş.), Orkun Kökçü (Beşiktaş A.Ş.), Salih Özcan (Borussia Dortmund)\nForwards: Arda Güler (Real Madrid), Barış Alper Yılmaz (Galatasaray A.Ş.), Can Uzun (Eintracht Frankfurt), Deniz Gül (FC Porto), İrfan Can Kahveci (Kasımpaşa A.Ş.), Kenan Yıldız (Juventus), Kerem Aktürkoğlu (Fenerbahçe A.Ş.), Oğuz Aydın (Fenerbahçe A.Ş.), Yunus Akgün (Galatasaray A.Ş.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

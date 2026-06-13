@@ -1,0 +1,269 @@
+{{short description|Panamanian footballer (born 1994)}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+| name        = Orlando Mosquera
+| image       = Partido Galicia - Panamá en Balaídos 160 (Orlando Mosquera).jpg
+| caption     = Mosquera in 2024
+| birth_date  = {{Birth date and age|df=yes|1994|12|25}}
+| birth_place = [[San Miguelito District|San Miguelito]], Panama
+| height      = 1.91 m
+| position    = [[Goalkeeper (association football)|Goalkeeper]]
+| currentclub = [[Al-Fayha FC|Al-Fayha]]
+| clubnumber  = 52
+| youthyears1 =
+| youthclubs1 =
+| years1 = 2012–2017
+| clubs1 = [[Sporting San Miguelito]]
+| caps1  = 70
+| goals1 = 1
+| years2 = 2017–2020
+| clubs2 = [[Tauro F.C.|Tauro]]
+| caps2  = 64
+| goals2 = 0
+| years3 = 2020–2021
+| clubs3 = [[Boluspor]]
+| caps3  = 32
+| goals3 = 0
+| years4 = 2021
+| clubs4 = [[Club Always Ready|Always Ready]]
+| caps4  = 19
+| goals4 = 0
+| years5 = 2022
+| clubs5 = [[Carabobo F.C.|Carabobo]]
+| caps5  = 29
+| goals5 = 0
+| years6 = 2023
+| clubs6 = [[Monagas S.C.|Monagas]]
+| caps6  = 17
+| goals6 = 0
+| years7 = 2023–2024
+| clubs7 = [[Maccabi Tel Aviv F.C.|Maccabi Tel Aviv]]
+| caps7  = 9
+| goals7 = 0
+| years8 = 2024–
+| clubs8 = [[Al-Fayha FC|Al-Fayha]]
+| caps8  = 38
+| goals8 = 0
+| nationalyears1 = 2020–
+| nationalteam1  = [[Panama national football team|Panama]]
+| nationalcaps1  = 44
+| nationalgoals1 = 0
+| pcupdate       = 7 November 2025
+| ntupdate       = 18 November 2025
+| medaltemplates = {{Medal|Sport|Men's [[association football|football]]}}
+{{Medal|Country|{{fb|PAN}}}}
+{{MedalCompetition|[[CONCACAF Gold Cup]]}}
+{{Medal|RU|[[2023 CONCACAF Gold Cup|2023 United States–Canada]]}}
+{{MedalCompetition|[[CONCACAF Nations League]]}}
+{{Medal|RU|[[2025 CONCACAF Nations League Finals|2025 United States]]|}}
+}}
+'''Orlando Mosquera''' (born 25 December 1994), commonly known as '''Kuty Mosquera''',<ref>[https://www.critica.com.pa/deportes/portero-orlando-cuti-mosquera-jugara-en-primera-division-de-israel-453063 Portero Orlando ‘Cuti’ Mosquera jugará en Primera División de Israel] critica.com.pa</ref> is a Panamanian professional [[Association football|footballer]] who plays as a [[goalkeeper (association football)|goalkeeper]] for [[Saudi Pro League]] club [[Al-Fayha FC|Al-Fayha]] and the [[Panama national football team|Panama national team]].
+
+==Career==
+On 1 November 2015, Mosquera scored to tie Tauro 2-2 during the 90th minute. After that, he played for Tauro, helping them win the 2017 Panamanian top flight Clasura as well as the 2018 and 2019 Aperturas.<ref>[https://www.prensa.com/deportes/orlando-mosquera-la-muralla-mas-valiosa-del-tauro-fc-campeon/ Orlando Mosquera, la muralla más valiosa del Tauro FC campeón] prensa.com</ref>
+
+For the second half of 2019/20, he signed for Boluspor in the Turkish second division.<ref>{{Cite web|url=https://www.rpctv.com/deportes/futbol/Orlando-Kuty-MosqueraLa-cuarentena-Turquia_0_1349865536.html|title=Orlando 'Kuty' Mosquera:"La cuarentena en Turquía ha sido regular"|date=27 April 2020 |publisher=rpctv.com}}</ref><ref>{{Cite web|url=https://jmdeportes.com/futbol/kuty-mosquera-figura-clave-para-lograr-objetivo-de-su-club/|title=¡»KUTY» MOSQUERA FIGURA CLAVE PARA LOGRAR OBJETIVO DE SU CLUB!|date=19 July 2020 |publisher=jmdeportes.com}}</ref> In 2021, he signed for [[Club Always Ready|Always Ready]].<ref>{{Cite web|url=https://sportbolivia.com/mosquera-la-muralla-de-always-que-se-enfoca-en-el-campeonato/|title=Mosquera, la muralla de Always que se enfoca en el "campeonato"|publisher=sportbolivia.com (Archived)|access-date=8 September 2023|archive-date=2 May 2022|archive-url=https://archive.today/20220502191446/https://sportbolivia.com/mosquera-la-muralla-de-always-que-se-enfoca-en-el-campeonato/|url-status=bot: unknown}}</ref><ref>{{Cite web|url=https://www.cospanama.com/invencible-el-panameno-orlando-mosquera-suma-8-porterias-cero-el-always-ready-boliviano-n5572237|title=el panameño Orlando Mosquera suma 8 porterías en cero con el Always Ready boliviano|date=26 October 2021 |publisher=cospanama.com}}</ref> In 2022, he signed for [[Carabobo F.C.|Carabobo]].<ref>{{Cite web|url=https://ligafutve.org/orlando-mosquera-impone-su-competitividad-en-el-carabobo/|title=ORLANDO MOSQUERA IMPONE SU COMPETITIVIDAD EN EL CARABOBO|date=10 May 2022 |publisher=ligafutve.org}}</ref> In early 2023, he signed for [[Monagas SC|Monagas]] and after a successful [[2023 CONCACAF Gold Cup|Gold Cup]] for Panama in the summer of that year, he got a move to [[Maccabi Tel Aviv]] in the later stages of the summer 2023 transfer window
+
+==Career statistics==
+===Club===
+{{updated|match played 7 November 2025}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National Cup
+!colspan="2"|Continental
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="6"|[[Sporting San Miguelito]]
+|[[2012–13 Liga Panameña de Fútbol season|2012–13]]
+|rowspan="5"|[[Liga Panameña de Fútbol]]
+|1||0||colspan="2"|–||colspan="2"|–||1||0
+|-
+|[[2013–14 Liga Panameña de Fútbol season|2013–14]]
+|0||0||0||0||0||0||0||0
+|-
+|[[2014–15 Liga Panameña de Fútbol season|2014–15]]
+|28||0||0||0||colspan="2"|–||28||0
+|-
+|[[2015–16 Liga Panameña de Fútbol season|2015–16]]
+|25||1||0||0||colspan="2"|–||25||1
+|-
+|[[2016–17 Liga Panameña de Fútbol season|2016–17]]
+|16||0||0||0||colspan="2"|–||16||0
+|-
+!colspan="2"|Total
+!70||1||0||0||0||0||70||1
+|-
+|rowspan="5"|[[Tauro F.C.|Tauro]]
+|2016–17
+|rowspan="4"|Liga Panameña de Fútbol
+|10||0||colspan="2"|–||colspan="2"|–||10||0
+|-
+|[[2017–18 Liga Panameña de Fútbol season|2017–18]]
+|22||0||0||0||colspan="2"|–||22||0
+|-
+|[[2018–19 Liga Panameña de Fútbol season|2018–19]]
+|32||0||0||0||2{{efn|Appearance(s) in the [[Copa Libertadores]]|name=Libertadores}}||0||34||0
+|-
+|[[2019–20 Liga Panameña de Fútbol|2019–20]]
+|14||0||0||0||0||0||14||0
+|-
+!colspan="2"|Total
+!78||0||0||0||2||0||80||0
+|-
+|rowspan="3"|[[Boluspor]]
+|[[2019–20 Süper Lig|2019–20]]
+|rowspan="2"|[[Süper Lig]]
+|16||0||0||0||colspan="2"|–||16||0
+|-
+|[[2020–21 Süper Lig|2020–21]]
+|16||0||0||0||colspan="2"|–||16||0
+|-
+!colspan="2"|Total
+!32||0||0||0||colspan="2"|–||32||0
+|-
+|[[Club Always Ready|Always Ready]]
+|[[2021 Bolivian Primera División|2021]]
+|[[Bolivian Primera División]]
+|19||0||0||0||colspan="2"|–||19||0
+|-
+|[[Carabobo F.C.|Carabobo]]
+|[[2022 Venezuelan Primera División season|2022]]
+|[[Venezuelan Primera División]]
+|29||0||0||0||colspan="2"|–||29||0
+|-
+|[[Monagas S.C.|Monagas]]
+|[[2023 Venezuelan Primera División season|2023]]
+|Venezuelan Primera División
+|17||0||0||0||5{{efn|name=Libertadores}}||0||22||0
+|-
+|[[Maccabi Tel Aviv F.C.|Maccabi Tel Aviv]]
+|[[2023–24 Maccabi Tel Aviv F.C. season|2023–24]]
+|[[Israeli Premier League]]
+|9||0||0||0||4{{efn|name=UCL|Appearance(s) in the [[UEFA Champions League]]}}||0||13||0
+|-
+|rowspan="3"|[[Al-Fayha FC|Al-Fayha]]
+|[[2024–25 Saudi Pro League|2024–25]]
+|rowspan="2"|[[Saudi Pro League]]
+|30||0||2||0||colspan="2"|—||32||0
+|-
+|[[2025–26 Saudi Pro League|2025–26]]
+|8||0||1||0||colspan="2"|—||9||0
+|-
+!colspan="2"|Total
+!38!!0!!3!!0!!colspan="2"|—!!41!!0
+|-
+!colspan="3"|Career total
+!299!!1!!3!!0!!4!!0!!306!!1
+|}
+
+{{notelist}}
+
+===International===
+{{updated|match played 18 November 2025|<ref name="NFT">{{NFT player|80469|Orlando Mosquera|access-date=8 July 2023}}</ref>}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="6"|[[Panama national football team|Panama]]
+|2020||2||0
+|-
+|2021||2||0
+|-
+|2022||5||0
+|-
+|2023||12||0
+|-
+|2024||11||0
+|-
+|2025||12||0
+|-
+!colspan="2"|Total||44||0
+|}
+
+==Honours==
+'''Tauro'''
+* [[Liga Panameña de Fútbol]]: [[2018–19 Liga Panameña de Fútbol#Apertura|Apertura 2018]]
+
+'''Maccabi Tel Aviv'''
+* [[Israeli Premier League]]: [[2023–24 Israeli Premier League|2023–24]]
+* [[Toto Cup]]: [[2023–24 Toto Cup Al|2023–24]]
+
+'''Panama'''
+
+* [[CONCACAF Gold Cup]] runner-up: [[2023 CONCACAF Gold Cup|2023]]<ref>{{Cite web |title=Mexico 1-0 Panama (Jul 16, 2023) Final Score |url=https://www.espn.com/soccer/match/_/gameId/678990/panama-mexico |access-date=2025-03-27 |website=ESPN |language=en}}</ref>
+* [[CONCACAF Nations League]] runner-up: [[2024–25 CONCACAF Nations League|2024–25]]<ref>{{Cite web |date=23 March 2025 |title=Mexico beat Panama with stoppage-time penalty for CONCACAF Nations League title |url=https://www.reuters.com/sports/soccer/mexico-beat-panama-with-stoppage-time-penalty-concacaf-nations-league-title-2025-03-24/#:~:text=March%2023%20(Reuters)%20%2D%20Raul,Inglewood%2C%20California%2C%20on%20Sunday. |access-date=26 March 2025 |website=[[Reuters]]}}</ref>
+
+'''Individual'''
+* [[Saudi Pro League]] Goalkeeper of the Month: [[2024–25 Saudi Pro League#Monthly awards|February 2025]], [[2024–25 Saudi Pro League#Monthly awards|March 2025]]
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Soccerway|orlando-mosquera/282114}}
+
+{{Al-Fayha FC squad}}
+{{Navboxes
+| title = Panama squads
+| bg          = #DA121A
+| fg          = white
+| bordercolor = #072357
+| list =
+{{Panama squad 2017 CONCACAF Gold Cup}}
+{{Panama squad 2019 CONCACAF Gold Cup}}
+{{Panama squad 2021 CONCACAF Gold Cup}}
+{{Panama squad 2023 CONCACAF Gold Cup}}
+{{Panama squad 2024 Copa América}}
+{{Panama squad 2025 CONCACAF Gold Cup}}
+{{Panama squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Mosquera, Orlando}}
+[[Category:1994 births]]
+[[Category:Living people]]
+[[Category:Panamanian men's footballers]]
+[[Category:21st-century Panamanian sportsmen]]
+[[Category:Men's association football goalkeepers]]
+[[Category:Sporting San Miguelito players]]
+[[Category:Tauro F.C. players]]
+[[Category:Boluspor footballers]]
+[[Category:Club Always Ready players]]
+[[Category:Carabobo F.C. players]]
+[[Category:Maccabi Tel Aviv F.C. players]]
+[[Category:Al-Fayha Club players]]
+[[Category:TFF 1. Lig players]]
+[[Category:Bolivian Primera División players]]
+[[Category:Venezuelan Primera División players]]
+[[Category:Israeli Premier League players]]
+[[Category:Saudi Pro League players]]
+[[Category:Panama men's international footballers]]
+[[Category:2017 CONCACAF Gold Cup players]]
+[[Category:2019 CONCACAF Gold Cup players]]
+[[Category:2021 CONCACAF Gold Cup players]]
+[[Category:2023 CONCACAF Gold Cup players]]
+[[Category:2024 Copa América players]]
+[[Category:2025 CONCACAF Gold Cup players]]
+[[Category:Panamanian expatriate men's footballers]]
+[[Category:Expatriate men's footballers in Bolivia]]
+[[Category:Expatriate men's footballers in Turkey]]
+[[Category:Expatriate men's footballers in Venezuela]]
+[[Category:Expatriate men's footballers in Israel]]
+[[Category:Expatriate men's footballers in Saudi Arabia]]
+[[Category:Panamanian expatriate sportspeople in Bolivia]]
+[[Category:Panamanian expatriate sportspeople in Turkey]]
+[[Category:Panamanian expatriate sportspeople in Venezuela]]
+[[Category:Panamanian expatriate sportspeople in Israel]]
+[[Category:Panamanian expatriate sportspeople in Saudi Arabia]]
+[[Category:Sportspeople from Panamá Province]]
+[[Category:2026 FIFA World Cup players]]
+
+{{Panama-footy-bio-stub}}

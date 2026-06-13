@@ -1,0 +1,186 @@
+{{short description|Austrian footballer}}
+{{Use dmy dates|date=April 2021}}
+{{Infobox football biography
+| name = David Affengruber
+| image = FC RB Salzburg gegen SK Sturm Graz(2023-05-21) 56.jpg
+| alt = 
+| caption = Affengruber in 2023
+| full_name = David Leopold Affengruber<ref name="FWC26">{{cite web |url=https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf |title=FIFA World Cup 2026™ – Squad List: Austria (AUT)|publisher=[[FIFA]]|page=4 |date=2 June 2026 |access-date=3 June 2026}}</ref>
+| birth_date = {{birth date and age|df=yes|2001|03|19}}<ref name="FWC26"/>
+| birth_place = [[Scheibbs]], Austria
+| height = 1.85 m<ref name="FWC26"/>
+| position = [[Centre-back]]
+| currentclub = [[Elche CF|Elche]]
+| clubnumber = 22
+| youthyears1 = 2007–2013
+| youthclubs1 = SC Wieselburg
+| youthyears2 = 2013–2019
+| youthclubs2 = [[FC Red Bull Salzburg|Red Bull Salzburg]]
+| years1 = 2019–2021
+| clubs1 = [[FC Liefering]]
+| caps1 = 51
+| goals1 = 5
+| years2 = 2021
+| clubs2 = [[FC Red Bull Salzburg|Red Bull Salzburg]]
+| caps2 = 5
+| goals2 = 0
+| years3 = 2021–2024
+| clubs3 = [[SK Sturm Graz|Sturm Graz]]
+| caps3 = 85
+| goals3 = 7
+| years4 = 2024–
+| clubs4 = [[Elche CF|Elche]]
+| caps4 = 76
+| goals4 = 1
+| nationalyears1 = 2019–2020
+| nationalteam1 = [[Austria national under-19 football team|Austria U19]]
+| nationalcaps1 = 8
+| nationalgoals1 = 0
+| nationalyears2 = 2021–2022
+| nationalteam2 = [[Austria national under-21 football team|Austria U21]]
+| nationalcaps2 = 6
+| nationalgoals2 = 0
+| nationalyears3 = 2026–
+| nationalteam3 = [[Austria national football team|Austria]]
+| nationalcaps3 = 1
+| nationalgoals3 = 0
+| pcupdate = 27 May 2026
+| ntupdate = 27 March 2026
+}}
+
+'''David Leopold Affengruber''' (born 19 March 2001) is an Austrian professional [[association football|footballer]] who plays as a [[centre-back]] for {{Spanish football updater|Elche}} club [[Elche CF|Elche]] and the [[Austria national football team|Austria national team]].
+
+==Club career==
+Affengruber began his career at SC Wieselburg. In September 2013 he moved to the youth team of [[FC Red Bull Salzburg|Red Bull Salzburg]]. From the 2015–16 season he played in all age groups in the academy at Red Bull Salzburg.
+
+For the 2019–20 season he was promoted to [[FC Liefering]]. He made his debut for Liefering in the second division in July 2019. He started against [[SKU Amstetten]] on matchday one of that season. In the game he also scored his first second division goal.
+
+In January 2021 he made his Bundesliga debut for Red Bull Salzburg against [[TSV Hartberg]]. In February 2021 he received a contract in Salzburg that ran until May 2022.<ref>[https://www.redbullsalzburg.at/de/fc-red-bull-salzburg/news/saison_2020_21/neuer-vertrag-fuer-david-affengruber.html FC Red Bull Salzburg Homepage]</ref> By the end of the season he had made five appearances for Salzburg in the Bundesliga.
+
+On 11 June 2021, Affengruber signed a three-year contract with [[SK Sturm Graz|Sturm Graz]].<ref>{{cite web|publisher=[[SK Sturm Graz|Sturm Graz]]|url=https://www.sksturm.at/de/news/kampfmannschaft/2021/sturm-graz-verpflichtet-david-affengruber/|title=STURM GRAZ VERPFLICHTET DAVID AFFENGRUBER|date=11 June 2021|language=de|access-date=11 June 2021|archive-date=11 January 2022|archive-url=https://web.archive.org/web/20220111182131/https://www.sksturm.at/de/news/kampfmannschaft/2021/sturm-graz-verpflichtet-david-affengruber/|url-status=dead}}</ref> On 28 August 2024, he moved abroad for the first time in his career after joining Spanish [[Segunda División]] side [[Elche CF|Elche]].<ref>{{cite web|url=https://www.elchecf.es/noticias/affengruber-un-refuerzo-de-lujo-para-cerrar-la-defensa-del-elche-cf|title=Affengruber, un refuerzo de lujo para cerrar la defensa del Elche CF|trans-title=Affengruber, a luxury signing to complete the defense of Elche CF|publisher=Elche CF|language=es|date=28 August 2024|accessdate=28 August 2024}}</ref>
+
+==International career==
+Affengruber made his debut for the Austrian U-19 team against Latvia in September 2019. He made his U-21 debut against [[Norway national under-21 football team|Norway]] in September 2021.
+
+==Career statistics==
+===Club===
+{{updated|match played 3 April 2026}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|Cup
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="3"|[[FC Liefering]] 
+|[[2019–20 Austrian Football Second League|2019–20]]
+|[[2. Liga (Austria)|2. Liga]]
+|28||2||colspan="2"|—||colspan="2"|—||colspan="2"|—||28||2
+|-
+|[[2020–21 Austrian Football Second League|2020–21]]
+|2. Liga
+|23||3||colspan="2"|—||colspan="2"|—||colspan="2"|—||23||3
+|-
+!colspan="2"|Total
+!51!!5!!colspan="2"|—||colspan="2"|—!!colspan="2"|—!!51!!5
+|-
+|[[FC Red Bull Salzburg|Red Bull Salzburg]]
+|[[2020–21 FC Red Bull Salzburg season|2020–21]]
+|[[Austrian Football Bundesliga|Austrian Bundesliga]]
+|5||0||1||0||colspan="2"|—||colspan="2"|—||6||0
+|-
+|rowspan="4"|[[SK Sturm Graz|Sturm Graz]]
+|[[2021–22 SK Sturm Graz season|2021–22]]
+|Austrian Bundesliga
+|30||1||3||1||8||0||colspan="2"|—||41||2
+|-
+|[[2022–23 SK Sturm Graz season|2022–23]]
+|Austrian Bundesliga
+|27||4||5||1||8||0||colspan="2"|—||40||5
+|-
+|[[2023–24 Austrian Football Bundesliga|2023–24]]
+|Austrian Bundesliga
+|28||2||4||1||12||0||colspan="2"|—||44||3
+|-
+!colspan="2"|Total
+!85!!7!!12!!3!!28!!0!!colspan="2"|—!!125!!10
+|-
+| rowspan="3" |[[Elche CF|Elche]]
+|[[2024–25 Elche CF season|2024–25]]
+|[[Segunda División]]
+|40||0||2||1||colspan="2"|—||colspan="2"|—||42||1
+|-
+|[[2025–26 Elche CF season|2025–26]]
+|[[La Liga]]
+|28||0||3||0||colspan="2"|—||colspan="2"|—||31||0
+|-
+! colspan="2" |Total
+!68!!0!!5!!1!!colspan="2"!|—!!colspan="2"|—!!73!!1
+|-
+! colspan="3" |Career total
+!210!!12!!21!!4!!28!!0!!0!!0!!256!!16
+|}
+
+===International===
+{{updated|match played 27 March 2026}}
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="1"|[[Austria national football team|Austria]]
+|2026||1||0
+|-
+!colspan="2"|Total!!1!!0
+|}
+
+==Honours==
+'''Red Bull Salzburg Youth'''
+* Jugendliga U18: 2019<ref>{{cite web|url=https://soccerway.com/national/austria/jugendliga-u18/20182019/regular-season/r49380|title=Summary - Jugendliga U18 - Austria - Results, fixtures, tables and news|website=Soccerway|accessdate=6 September 2019}}</ref>
+
+{{Commons category}}
+
+'''FC Liefering'''
+* [[Austrian Football First League]] runner-up: [[2020–21 Austrian Football Second League|2021]]
+
+'''Red Bull Salzburg '''
+* Austrian Bundesliga: [[2020–21 Austrian Football Bundesliga|2021]]
+* Austrian Cup: [[2020–21 Austrian Cup|2021]]
+
+==References==
+{{reflist}}
+
+== External links ==
+*{{WorldFootball.net|david-affengruber_2}}
+*{{Soccerway|david-affengruber/508745}}
+
+{{Elche CF squad}}
+{{Austria squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Affengruber, David}}
+[[Category:2001 births]]
+[[Category:Living people]]
+[[Category:Austrian men's footballers]]
+[[Category:Austria men's youth international footballers]]
+[[Category:Austria men's under-21 international footballers]]
+[[Category:Men's association football forwards]]
+[[Category:FC Liefering players]]
+[[Category:FC Red Bull Salzburg players]]
+[[Category:SK Sturm Graz players]]
+[[Category:Elche CF players]]
+[[Category:2. Liga (Austria) players]]
+[[Category:La Liga players]]
+[[Category:Austrian Football Bundesliga players]]
+[[Category:Austrian expatriate men's footballers]]
+[[Category:Austrian expatriate sportspeople in Spain]]
+[[Category:Expatriate men's footballers in Spain]]
+[[Category:21st-century Austrian sportsmen]]
+[[Category:Austria men's international footballers]]
+[[Category:2026 FIFA World Cup players]]

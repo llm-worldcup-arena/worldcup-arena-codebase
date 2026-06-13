@@ -1,0 +1,206 @@
+{{short description|Austrian footballer (born 2001)}}
+{{Use dmy dates|date=November 2023}}
+{{Infobox football biography
+|name        = Alexander Prass
+|image       = FC Liefering versus WSG Wattens (24. Mai 2019) 06.jpg
+|alt         = 
+|caption     = Prass with [[FC Liefering|Liefering]] in 2019
+|birth_date  = {{birth date and age|df=yes|2001|05|26}}
+|birth_place = [[Hellmonsödt]], Austria
+|height      = 1.80 m
+|position    = [[Central midfielder]], [[left wing-back]]
+|currentclub = [[TSG 1899 Hoffenheim|TSG Hoffenheim]]
+|clubnumber  = 22
+|youthyears1 = 2008–2009
+|youthclubs1 = [[LASK]]
+|youthyears2 = 2009–2010
+|youthclubs2 = [[FC Juniors OÖ|FC Pasching]]
+|youthyears3 = 2010–2012
+|youthclubs3 = [[LASK]]
+|youthyears4 = 2012–2019
+|youthclubs4 = [[FC Red Bull Salzburg|Red Bull Salzburg]]
+|years1      = 2018–2021
+|clubs1      = [[FC Liefering|Liefering]]
+|caps1       = 59
+|goals1      = 12
+|years2      = 2021–2024
+|clubs2      = [[SK Sturm Graz|Sturm Graz]]
+|caps2       = 90
+|goals2      = 10
+|years3      = 2024–
+|clubs3      = [[TSG 1899 Hoffenheim|TSG Hoffenheim]]
+|caps3       = 55
+|goals3      = 3
+|nationalyears1 = 2018–2019
+|nationalteam1  = [[Austria national under-18 football team|Austria U18]]
+|nationalcaps1  = 5
+|nationalgoals1 = 1
+|nationalyears2 = 2019–2020
+|nationalteam2  = [[Austria national under-19 football team|Austria U19]]
+|nationalcaps2  = 5
+|nationalgoals2 = 1
+|nationalyears3 = 2021–2022
+|nationalteam3  = [[Austria national under-21 football team|Austria U21]]
+|nationalcaps3  = 11
+|nationalgoals3 = 1
+|nationalyears4 = 2022–
+|nationalteam4  = [[Austria national football team|Austria]]
+|nationalcaps4  = 19
+|nationalgoals4 = 0
+|pcupdate       = 18 May 2026
+|ntupdate       = 1 June 2026
+}}
+
+'''Alexander Prass''' (born 26 May 2001) is an Austrian professional [[association football|footballer]] who plays as a [[central midfielder]] or [[left wing-back]] for {{German football updater|Hoffenhe}} club [[TSG 1899 Hoffenheim|TSG Hoffenheim]] and the [[Austria national football team|Austria national team]].<ref>{{Soccerway|alexander-prass/508728}}</ref>
+
+==Club career==
+Born in [[Hellmonsödt]], [[Upper Austria]], Prass began his career as a youth player at [[LASK]].<ref>{{cite news |last1=Fohler |first1=Gernot |title=Alex ist roter Bulle |url=https://www.meinbezirk.at/urfahr-umgebung/c-sport/alex-ist-roter-bulle_a234473 |access-date=21 November 2023 |work=MeinBezirk.at |date=8 August 2012 |archive-url=https://web.archive.org/web/20231121180726/https://www.meinbezirk.at/urfahr-umgebung/c-sport/alex-ist-roter-bulle_a234473 |archive-date=21 November 2023 |language=de}}</ref> Between 2009 and 2010 he played at FC Pasching before returning to LASK. For the 2012–13 season he moved to the youth team of [[FC Red Bull Salzburg|Red Bull Salzburg]], where he would later also play in the academy.
+
+In March 2019 he was named for the first time in the matchday squad of Salzburg feeder team [[FC Liefering]] for a game against [[SK Vorwärts Steyr]], but did not come on. He made his debut for Liefering in the second flight in the same month when he came on as an 87th minute [[Substitute (association football)|substitute]] for [[Karim Adeyemi]] against [[FK Austria Wien II|Austria Wien II]]. In two and a half years with Liefering, he made a total of 59 second division appearances, in which he scored twelve goals.
+
+For the 2021–22 season he moved to [[Austrian Football Bundesliga|Ö Bundesliga]] club [[SK Sturm Graz|Sturm Graz]], where he received a contract until June 2024, extending this for a year in July 2022 to keep him at the club until the end of the 2024–25 season.<ref>{{cite web|publisher=[[SK Sturm Graz|Sturm Graz]]|url=https://www.sksturm.at/de/news/kampfmannschaft/2021/alexander-prass-unterschreibt-bei-sturm/|title=ALEXANDER PRASS UNTERSCHREIBT BEI STURM|date=28 May 2021|language=de|access-date=10 September 2021|archive-date=12 January 2022|archive-url=https://web.archive.org/web/20220112040937/https://www.sksturm.at/de/news/kampfmannschaft/2021/alexander-prass-unterschreibt-bei-sturm/|url-status=dead}}</ref>
+
+On 5 August 2024, Prass signed for [[Bundesliga]] club [[TSG 1899 Hoffenheim|TSG Hoffenheim]] on a long-term contract.<ref>{{cite web|url=https://www.tsg-hoffenheim.de/aktuelles/news/2024/08/tsg-verpflichtet-oesterreichischen-nationalspieler-alexander-prass|trans-title=TSG signs Austrian international Alexander Prass|title=TSG verpflichtet österreichischen Nationalspieler Alexander Prass|language=German|website=www.tsg-hoffenheim.de|date=5 August 2024|accessdate=5 August 2024}}</ref>
+
+==International career==
+Prass made his [[Austria national under-18 football team|Austrian U-18]] debut on 9 October 2018 against [[Switzerland national under-18 football team|Switzerland's U-18]] squad. Just two days later, he scored his first goal for an Austrian squad, this time against Switzerland. In October 2019, he made his debut for the [[Austria national under-19 football team|Austrian U-19]] squad in a match against Wales U-19. By March 2021, he had made his debut for the [[Austria national under-21 football team|Austrian U-21]] squad against [[Saudi Arabia national under-20 football team|Saudi Arabia]].
+
+In November 2022, the winger received his first call-up to the senior Austrian national team.<ref>[https://www.oefb.at/oefb/News/Nationalteam-Kader-fuer-die-Spiele-gegen-Andorra-und-Italien-nominiert National team squad for the matches against Andorra and Italy nominated] oefb.at, November 8, 2022, retrieved November 8, 2022.</ref> He made his senior debut later that month in a match against the [[Andorra national football team|Andorra national team]]. In May 2024, he was named in Austria's preliminary squad for the [[UEFA Euro 2024|2024 European Championship]]<ref>[https://www.oefb.at/oefb/News/Grosskader-UEFA-EURO-2024 Rangnick nominates large squad for UEFA EURO 2024] oefb.at, May 21, 2024, retrieved June 4, 2024</ref> and was eventually included in the final squad.<ref>[https://www.oefb.at/oefb/News/OeFB-Kader-UEFA-EURO-2024 National team squad for UEFA EURO 2024 confirmed] oefb.at, June 7, 2024, retrieved June 8, 2024</ref> Austria was eliminated in the round of 16, losing 1-2 to the [[Turkey national football team|Turkey national team]], but Prass appeared in all four of Austria's matches during the tournament.{{Commons category|Alexander Prass}}
+
+==Career statistics==
+===Club===
+{{updated|match played 16 May 2026}}
+
+{|class="wikitable" style="text-align: center"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup
+!colspan="2"|League cup
+!colspan="2"|Europe
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="4"|[[FC Liefering]]
+|[[2018–19 Austrian Football Second League|2018–19]]
+|[[2. Liga (Austria)|Austrian 2. Liga]]
+|4||0||0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||4||0
+|-
+|[[2019–20 Austrian Football Second League|2019–20]]
+|Austrian 2. Liga
+|27||6||0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||27||6
+|-
+|[[2020–21 Austrian Football Second League|2020–21]]
+|Austrian 2. Liga
+|28||6||0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||28||6
+|-
+!colspan="2"|Total
+!59!!12!!0!!0!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!59!!12
+|-
+|rowspan="4"|[[SK Sturm Graz|Sturm Graz]]
+|[[2021–22 SK Sturm Graz season|2021–22]]
+|[[Austrian Football Bundesliga|Austrian Bundesliga]]
+|28||0||2||0||colspan="2"|—||7{{efn|name=UEL|Appearances in [[UEFA Europa League]]}}||0||colspan="2"|—||37||0
+|-
+|[[2022–23 SK Sturm Graz season|2022–23]]
+|Austrian Bundesliga
+|32||3||6||0||colspan="2"|—||8{{efn|Two appearances in [[UEFA Champions League]], six appearances in UEFA Europa League}}||0||colspan="2"|—||46||3
+|-
+|[[2023–24 SK Sturm Graz season|2023–24]]
+|Austrian Bundesliga
+|30||7||6||1||colspan="2"|—||11{{efn|Two appearances in UEFA Champions League, six appearances and one goal in UEFA Europa League, three appearances in [[UEFA Europa Conference League]]}}||1||colspan="2"|—||47||9
+|-
+!colspan="2"|Total
+!90!!10!!14!!1!!colspan="2"|—!!26!!1!!colspan="2"|—!!130!!12
+|-
+|rowspan="3"|[[TSG 1899 Hoffenheim|TSG Hoffenheim]]
+|[[2024–25 TSG 1899 Hoffenheim season|2024–25]]
+|[[Bundesliga]]
+|23||0||2||0||colspan="2"|—||6{{efn|name=UEL}}||0||colspan="2"|—||31||0
+|-
+|[[2025–26 Bundesliga|2025–26]]
+|Bundesliga
+|32||3||2||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||34||3
+|-
+!colspan="2"|Total
+!55!!3!!4!!0!!colspan="2"|—!!6!!0!!colspan="2"|—!!65!!3
+|-
+!colspan="3"|Career total
+!204!!25!!18!!3!!0!!0!!32!!1!!0!!0!!254!!27
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 1 June 2026}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="5"|[[Austria national football team|Austria]]
+|2022||1||0
+|-
+|2023||2||0
+|-
+|2024||10||0
+|-
+|2025||3||0
+|-
+|2026||3||0
+|-
+!colspan="2"|Total!!19!!0
+|}
+
+==Honours==
+'''Sturm Graz'''
+* [[Austrian Bundesliga]]: [[2023–24 Austrian Football Bundesliga|2023–24]]
+* [[Austrian Cup]]: [[2022–23 Austrian Cup|2022–23]], [[2023–24 Austrian Cup|2023–24]]
+
+==References==
+{{reflist}}
+
+== External links ==
+* {{WorldFootball.net|alexander-prass}}
+* {{ÖFB player|786310}}
+* {{ÖFB player|1247016}} (national team)
+* {{Instagram}}
+
+{{TSG 1899 Hoffenheim squad}}
+{{Navboxes
+| title = Austria squads
+| bg = #ED2939
+| fg = white
+| bordercolor = #860909
+| list1 =
+{{Austria squad UEFA Euro 2024}}
+{{Austria squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Prass, Alexander}}
+[[Category:2001 births]]
+[[Category:Living people]]
+[[Category:People from Urfahr-Umgebung District]]
+[[Category:Footballers from Upper Austria]]
+[[Category:Austrian men's footballers]]
+[[Category:Austria men's international footballers]]
+[[Category:Austria men's youth international footballers]]
+[[Category:Austria men's under-21 international footballers]]
+[[Category:Men's association football midfielders]]
+[[Category:FC Liefering players]]
+[[Category:SK Sturm Graz players]]
+[[Category:TSG 1899 Hoffenheim players]]
+[[Category:2. Liga (Austria) players]]
+[[Category:Austrian Football Bundesliga players]]
+[[Category:Bundesliga players]]
+[[Category:UEFA Euro 2024 players]]
+[[Category:Austrian expatriate men's footballers]]
+[[Category:Expatriate men's footballers in Germany]]
+[[Category:Austrian expatriate sportspeople in Germany]]
+[[Category:21st-century Austrian sportsmen]]
+[[Category:LASK players]]
+[[Category:FC Juniors OÖ players]]
+[[Category:FC Red Bull Salzburg players]]
+[[Category:2026 FIFA World Cup players]]

@@ -1,0 +1,24 @@
+{
+ "source": "CNN",
+ "url": "https://www.cnn.com/2026/06/12/sport/live-news/world-cup-group-b-d-opening-matches",
+ "title": "It’s a party in the USA: The Americans dominate Paraguay in opening World Cup match, 4-1 | CNN",
+ "published": "2026-06-12T18:00:15.071Z",
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-12",
+  "home": "USA",
+  "away": "PAR",
+  "home_en": "United States",
+  "away_en": "Paraguay",
+  "home_zh": "美国",
+  "away_zh": "巴拉圭",
+  "comp": "小组赛·D组",
+  "match_id": "M4",
+  "slug": "2026-06-12_USA_vs_PAR"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Mexico and South Korea got their World Cup tournament campaigns started with wins on Thursday. Mexico’s 2-0 victory over South Africa on Thursday at Estadio Azteca in Mexico City was marked by three red cards, two goals and one massive tournament getting underway in earnest. El Tri got off to a fast start with a goal in the ninth minute, though it was sadly all about a mistake from South Africa’s Sphephelo Sithole who got caught on the ball as his team tried to play out from a goal kick. Julián Quiñones made him pay with a fine finish, blasting a right-footed shot into the South African net. Sithole’s afternoon got worse just after halftime when he received the match’s first red card, leaving Bafana with 10 men. The Mexicans would make them pay, as Raúl Jiménez scored his first World Cup goal for his country in an emotional moment. The striker made a great run at the back post to nod in a fantastic cross. He burst into tears on the pitch after scoring, an emotional moment and a great comeback for the 35-year-old who suffered a serious head injury in 2020, which threatened his career. He was also playing in honor of his father, who died earlier this year. In the late game, South Korea came from behind to beat Czech Republic 2-1 in the Estadio Akron thanks to a late goal from forward Oh Hyeon-gyu. After a scoreless first half in Zapopan, Mexico, it was the Czechs who got the scoring started. Captain and center back Ladislav Krejčí connected with a powerful header off a long throw to give the Repre a 1-0 lead. But South Korea wasn’t down for long as Hwang In-beom scored the equalizer about eight minutes later. It was a sensational goal as well, with the midfielder showing composure to lift his finish over the on-rushing goalkeeper. Czech Republic nearly found a way back, but Tomáš Souček’s header from a brilliant free-kick was rightly ruled offside. But an 80th-minute goal by Beşiktaş forward Oh was what secured the victory and the much-needed three points in a match that the Taegeuk Warriors controlled.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

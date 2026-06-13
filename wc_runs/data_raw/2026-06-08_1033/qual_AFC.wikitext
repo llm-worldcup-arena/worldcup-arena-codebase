@@ -1,0 +1,340 @@
+{{Short description|none}}
+{{Use dmy dates|date=July 2022}}
+{{Infobox international football competition
+| tourney_name   = 2026 FIFA World Cup qualification (AFC)
+| image          = FIFA World Cup 2026 qualification Asian region logo.jpg
+| dates          = {{nowrap|12 October 2023 – 18 November 2025}}
+| num_teams      = 46
+| confederations = 1
+| matches        = {{#expr: <!--First round--> 20 +<!--Second round--> 107 +<!--Third round--> 90 +<!--Fourth round--> 6 +<!--Fifth round--> 2}}
+| goals          = {{#expr: <!--First round--> 51 +<!--Second round--> 331 +<!--Third round--> 231 +<!--Fourth round--> 12 +<!--Fifth round--> 5}}
+| attendance     = {{#expr: <!--First round--> 138247 +<!--Second round--> 2092613 +<!--Third round--> 2581626 +<!--Fourth round--> 150967 +<!--Fifth round--> 32008 + 62444}}
+| top_scorer     = {{fbicon|QAT}} [[Almoez Ali]] (12 goals)
+| prevseason     = [[2022 FIFA World Cup qualification (AFC)|2022]]
+| nextseason     = ''[[2030 FIFA World Cup qualification (AFC)|2030]]''
+}}
+{{Qualification for championships (AFC)}}
+
+The Asian section of the [[2026 FIFA World Cup qualification]] acted as qualifiers for the [[2026 FIFA World Cup]] for national teams of the [[Asian Football Confederation]] (AFC). AFC teams were allocated eight direct qualifying slots and one inter-confederation play-off slot.<ref name="48teams">{{Cite news|date=10 January 2017|title=Unanimous decision expands FIFA World Cup to 48 teams from 2026|publisher=FIFA|url=https://www.fifa.com/about-fifa/news/y=2017/m=1/news=fifa-council-unanimously-decides-on-expansion-of-the-fifa-world-cuptm--2863100.html|archive-url=https://web.archive.org/web/20170110231324/http://www.fifa.com/about-fifa/news/y=2017/m=1/news=fifa-council-unanimously-decides-on-expansion-of-the-fifa-world-cuptm--2863100.html|url-status=dead|archive-date=10 January 2017}}</ref>
+
+The qualification process involved five rounds; the first two also serving as [[2027 AFC Asian Cup qualification|qualification]] for the [[2027 AFC Asian Cup]].
+
+==Entrants==
+All FIFA-affiliated nations entered the joint qualification process for both the 2026 FIFA World Cup and 2027 AFC Asian Cup; <!--DO NOT REMOVE THIS!-->[[Northern Mariana Islands national football team|Northern Mariana Islands]], who are not members of [[FIFA]], would have entered through the [[2027 AFC Asian Cup qualification#Play-off round|2027 AFC Asian Cup qualification play-off round]].<ref name="new format"/> However, the AFC excluded Northern Mariana Islands from the draw for the play-off round.<ref>{{cite web|url=https://www.the-afc.com/en/national/afc_asian_cup/news/six_teams_to_contest_qualifiers_playoff_for_saudi_arabia_2027.html|title=Six teams to contest Qualifiers Playoff for Saudi Arabia 2027|publisher=AFC|date=2 May 2024|access-date=6 May 2024}}</ref><!--DO NOT REMOVE THIS!-->
+
+==Format==
+The qualification format was announced on 1 August 2022, having been revamped to fit the increased finals allocation of eight direct qualifiers and one play-off qualifier:<ref>{{cite web|title=Asia's pathway to the FIFA World Cup 2026 and AFC Asian Cup 2027 confirmed|url=https://www.the-afc.com/en/more/afc_competitions/news/asia%E2%80%99s_pathway_to_the_fifa_world_cup_2026_and_afc_asian_cup%E2%84%A2_2027_confirmed.html|website=the-afc |publisher=Asian Football Confederation |access-date=1 August 2024 |date=1 August 2022}}</ref><ref name="AFC seeding">{{Cite web|title=Seedings revealed for FIFA World Cup 2026 and AFC Asian Cup Saudi Arabia 2027 Qualifiers draw|url=https://www.the-afc.com/en/national/fifa_world_cup/news/seedings_revealed_for_fifa_world_cup_2026_and_afc_asian_cup_saudi_arabia_2027™_qualifiers_draw.html|access-date=27 July 2023|website=the-AFC|language=en}}</ref>
+*'''First round''': 20 teams (ranked 27–46) played home-and-away over [[Two-legged tie|two legs]]. The ten winners advanced to the second round. The best loser qualified for the [[2027 AFC Asian Cup qualification#Third round|2027 AFC Asian Cup qualification third round]], while the remaining teams qualified for the [[2027 AFC Asian Cup qualification – play-off round]].
+*'''Second round''': 36 teams (ranked 1–26 and ten first-round winners) were divided into nine groups of four teams. The teams played against each other on a home-and-away basis. The nine group winners and group runners-up advanced to the third round and automatically qualified for the [[2027 AFC Asian Cup]]. The remaining teams qualified for the 2027 AFC Asian Cup qualification third round.<!--DO NOT REMOVE AFC ASIAN CUP!-->
+*'''Third round''': 18 teams which advanced from the second round were divided into three groups of six teams. The teams played against each other on a home-and-away basis. The top two teams of each group qualified directly for the FIFA World Cup, the third- and fourth-placed teams advanced to the fourth round.
+*'''Fourth round''': Six third- and fourth-placed teams from the third round were divided into two groups of three teams each. The teams played against each other once in a centralized venue. The winners of each group qualified for the World Cup, and the runners-up of each group advanced to the fifth round.
+*'''Fifth round''': The group runners-up in the fourth round competed home-and-away over two legs to determine the Asian representation at the [[2026 FIFA World Cup qualification (inter-confederation play-offs)|inter-confederation play-offs]].<ref name="new format">{{cite web|title=AFC Competitions Committee approves key decisions on reformatted competitions|url=https://www.the-afc.com/en/more/afc_competitions/news/afc_competitions_committee_approves_key_decisions_on_reformatted_competitions_1.html|website=Asian Football Confederation|access-date=1 July 2023|date=1 July 2023}}</ref>
+
+==Draw==
+The draw for the first and second rounds of joint qualification took place in [[Kuala Lumpur]], Malaysia on 27 July 2023.<ref name="AFC seeding"/><ref>{{cite web|date=5 July 2023|title=Stage set for FIFA World Cup 2026 and AFC Asian Cup Saudi Arabia 2027 Qualifiers draw|url=https://www.the-afc.com/en/national/fifa_world_cup/news/stage_set_for_fifa_world_cup_2026_and_afc_asian_cup_saudi_arabia_2027%E2%84%A2_qualifiers_draw.html|access-date=5 July 2023|publisher=AFC}}</ref> The top 26 ranked teams were given byes to the second round, while the 20 teams entering the first round were seeded into two pots of 10 teams each and drawn alternately from pot 1 then pot 2 to form a pairing. The team from pot 1 hosted the first leg and the team from pot 2 hosted the second leg. Pots 1, 2 and 3 for the second round draw contained the teams ranked 1–9, 10–18, and 19–26, respectively, while pot 4 contained placeholders for the ten winners of the first round ties. Nine teams were drawn from pot 4 first and placed in position 4 of each group. The tenth team from pot 4 was moved to Pot 3, and subsequently drawn at random from Pot 3. Teams were then drawn into each group sequentially from pots 3, 2, and 1.<ref name="AFC seeding"/>
+
+<!--DO NOT CHANGE THIS TABLE TO TWO COLUMNS AND DO NOT CHANGE THE RANKINGS-->
+{| class="wikitable"
+|+From the July 2023 [[FIFA World Rankings]]<ref>{{cite web|url=https://www.fifa.com/fifa-world-ranking/men?dateId=id14079|title=FIFA Men's Ranking – July 2023|publisher=FIFA|date=20 July 2023}}</ref>
+|-
+! colspan="3"|Bye to second round
+! colspan="2"|Competing in first round
+|-
+! style="width:20%" | Pot 1
+! style="width:20%" | Pot 2
+! style="width:20%" | Pot 3
+! style="width:20%" | Pot 1
+! style="width:20%" | Pot 2
+|- style="vertical-align:top"
+|{{ordered list
+ |'''{{fb|JPN}}''' (20)
+ |'''{{fb|IRN}}''' (22)
+ |'''{{fb|AUS}}''' (27)
+ |'''{{fb|KOR}}''' (28)
+ |'''{{fb|KSA}}''' (54)
+ |'''{{fb|QAT}}''' (59)
+ |'''{{fb|IRQ}}''' (70)
+ |{{fb|UAE}} (72)
+ |{{fb|OMA}} (73)
+}}
+|{{ordered list|start=10
+ |'''{{fb|UZB}}''' (74)
+ |{{fb|CHN}} (80)
+ |'''{{fb|JOR}}''' (82)
+ |{{fb|BHR}} (86)
+ |{{fb|SYR|1980}} (94)
+ |{{fb|VIE}} (95)
+ |{{fb|PLE}} (96)
+ |{{fb|KGZ}} (97)
+ |{{fb|IND}} (99)
+}}
+|{{ordered list|start=19
+ |{{fb|LBN}} (100)
+ |{{fb|TJK}} (110)
+ |{{fb|THA}} (113)
+ |{{fb|PRK}} (115)
+ |{{fb|PHI}} (135)
+ |{{fb|MAS}} (136)
+ |{{fb|KUW}} (137)
+ |{{fb|TKM}} (138)
+}}
+|{{ordered list|start=27
+ |{{fb|HKG}} (149)
+ |{{fb|IDN}} (150)
+ |{{fb|TPE}} (153)
+ |{{fb|MDV}} (155)
+ |{{fb|YEM}} (156)
+ |{{fb|AFG}} (157)
+ |{{fb|SIN}} (158)
+ |{{fb|MYA}} (160)
+ |{{fb|NEP}} (175)
+ |{{fb|CAM}} (176)
+}}
+|{{ordered list|start=37
+ |{{fb|MAC}} (182)
+ |{{fb|MNG}} (183)
+ |{{fb|BHU}} (185)
+ |{{fb|LAO}} (187)
+ |{{fb|BAN}} (189)
+ |{{fb|BRU}} (190)
+ |{{fb|TLS}} (192)
+ |{{fb|PAK}} (201)
+ |{{fb|GUM}} (203)
+ |{{fb|SRI}} (204)
+}}
+|}
+
+==Schedule==
+The competition schedule was as follows:<ref>{{cite web|url=https://assets.the-afc.com/downloads/calendars/AFC-Competitions-Calendar-(Aug-2023-Jul-2024).pdf|publisher=AFC|title=AFC Competitions Calendar (Aug 2023 – Jul 2024)|date=7 April 2023|access-date=12 April 2023|archive-date=22 May 2023|archive-url=https://web.archive.org/web/20230522064114/https://assets.the-afc.com/downloads/calendars/AFC-Competitions-Calendar-(Aug-2023-Jul-2024).pdf|url-status=dead}}</ref><ref>{{cite web|url=https://assets.the-afc.com/downloads/calendars/AFC-Competitions-Calendar-(Aug-2024-Jul-2025).pdf|publisher=AFC|title=AFC Competitions Calendar (Aug 2024 – Jul 2025)|date=7 April 2023|access-date=12 April 2023|archive-date=18 April 2023|archive-url=https://web.archive.org/web/20230418195404/https://assets.the-afc.com/downloads/calendars/AFC-Competitions-Calendar-(Aug-2024-Jul-2025).pdf|url-status=dead}}</ref><ref>{{cite web|title=AFC Competitions Calendar (Jul 2025 - Jun 2026)|url=https://assets.the-afc.com/downloads/calendars/AFC-Competitions-Calendar-(Jul-2025---Jun-2026)_upd_26Jun24.pdf|publisher=AFC|date=26 June 2024|access-date=23 July 2024|archive-date=23 July 2024|archive-url=https://web.archive.org/web/20240723064250/https://assets.the-afc.com/downloads/calendars/AFC-Competitions-Calendar-(Jul-2025---Jun-2026)_upd_26Jun24.pdf}}</ref><ref name="new format"/>
+
+{|
+|valign=top|
+{| class="wikitable"
+!Round
+!Matchday
+!Date
+|-
+|rowspan=2|[[#First round|First round]]
+|First leg
+|12 October 2023
+|-
+|Second leg
+|17 October 2023
+|-
+|rowspan=6|[[#Second round|Second round]]
+|Matchday 1
+|16 November 2023
+|-
+|Matchday 2
+|21 November 2023
+|-
+|Matchday 3
+|21 March 2024
+|-
+|Matchday 4
+|26 March 2024
+|-
+|Matchday 5
+|6 June 2024
+|-
+|Matchday 6
+|11 June 2024
+|}
+|valign=top|
+{| class="wikitable"
+!Round
+!Matchday
+!Date
+|-
+|rowspan=10|[[#Third round|Third round]]
+|Matchday 1
+|5 September 2024
+|-
+|Matchday 2
+|10 September 2024
+|-
+|Matchday 3
+|10 October 2024
+|-
+|Matchday 4
+|15 October 2024
+|-
+|Matchday 5
+|14–15 November 2024
+|-
+|Matchday 6
+|19 November 2024
+|-
+|Matchday 7
+|20 March 2025
+|-
+|Matchday 8
+|25 March 2025
+|-
+|Matchday 9
+|5 June 2025
+|-
+|Matchday 10
+|10 June 2025
+|}
+|valign=top|
+{| class="wikitable"
+!Round
+!Matchday
+!Date
+|-
+|rowspan=3|[[#Fourth round|Fourth round]]
+|Matchday 1
+|8 October 2025
+|-
+|Matchday 2
+|11 October 2025
+|-
+|Matchday 3
+|14 October 2025
+|-
+|rowspan=2|[[#Fifth round|Fifth round]]
+|First leg
+|13 November 2025
+|-
+|Second leg
+|18 November 2025
+|}
+|}
+
+==First round==
+{{Main|2026 FIFA World Cup qualification – AFC first round}}
+
+Note: '''Bolded''' teams qualified for the [[2026 FIFA World Cup qualification – AFC second round|second round]] of World Cup qualifying.
+{{#lst:2026 FIFA World Cup qualification – AFC first round#Summary}}
+
+==Second round==
+{{Main|2026 FIFA World Cup qualification – AFC second round}}
+
+===Group A===
+{{:2026 FIFA World Cup qualification – AFC second round|transcludesection=Group A}}
+
+===Group B===
+{{:2026 FIFA World Cup qualification – AFC second round|transcludesection=Group B}}
+
+===Group C===
+{{:2026 FIFA World Cup qualification – AFC second round|transcludesection=Group C}}
+
+===Group D===
+{{:2026 FIFA World Cup qualification – AFC second round|transcludesection=Group D}}
+
+===Group E===
+{{:2026 FIFA World Cup qualification – AFC second round|transcludesection=Group E}}
+
+===Group F===
+{{:2026 FIFA World Cup qualification – AFC second round|transcludesection=Group F}}
+
+===Group G===
+{{:2026 FIFA World Cup qualification – AFC second round|transcludesection=Group G}}
+
+===Group H===
+{{:2026 FIFA World Cup qualification – AFC second round|transcludesection=Group H}}
+
+===Group I===
+{{:2026 FIFA World Cup qualification – AFC second round|transcludesection=Group I}}
+
+==Third round==
+{{Main|2026 FIFA World Cup qualification – AFC third round}}
+
+===Group A===
+{{:2026 FIFA World Cup qualification – AFC third round|transcludesection=Group A}}
+
+===Group B===
+{{:2026 FIFA World Cup qualification – AFC third round|transcludesection=Group B}}
+
+===Group C===
+{{:2026 FIFA World Cup qualification – AFC third round|transcludesection=Group C}}
+
+==Fourth round==
+{{Main|2026 FIFA World Cup qualification – AFC fourth round}}
+
+===Group A===
+{{:2026 FIFA World Cup qualification – AFC fourth round|transcludesection=Group A}}
+
+===Group B===
+{{:2026 FIFA World Cup qualification – AFC fourth round|transcludesection=Group B}}
+
+==Fifth round==
+{{Main|2026 FIFA World Cup qualification – AFC fifth round}}
+
+The two second-placed teams from the fourth round played against each other over two legs in November 2025 to determine which team advanced to the inter-confederation play-offs.<ref name="new format"/>
+
+{{:2026 FIFA World Cup qualification – AFC fifth round}}
+
+==Inter-confederation play-offs==
+{{Main|2026 FIFA World Cup qualification (inter-confederation play-offs)}}
+
+The winner of the fifth round, [[Iraq national football team|Iraq]], joined [[Bolivia national football team|Bolivia]] (from [[CONMEBOL]]), [[DR Congo national football team|DR Congo]] (from [[Confederation of African Football|CAF]]), [[Jamaica national football team|Jamaica]] and [[Suriname national football team|Suriname]] (both from [[CONCACAF]]), and [[New Caledonia national football team|New Caledonia]] (from [[Oceania Football Confederation|OFC]]) in the inter-confederation play-offs.
+
+The teams were ranked according to the November 2025 [[FIFA Men's World Ranking]], with the four lowest-ranked teams playing in two {{nowrap|single-elimination}} matches. The winners met the two highest-ranked teams in another set of {{nowrap|single-elimination}} matches, with the winners of these matches qualifying for the [[2026 FIFA World Cup]].<ref>{{cite web|url=https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/play-off-tournament-draw-results|title=Path to 2026 laid out for Play-Off Tournament hopefuls|date=20 November 2025|access-date=20 November 2025|publisher=FIFA}}</ref>
+
+{{#lst:2026 FIFA World Cup qualification (inter-confederation play-offs)|Pathway 2}}
+
+==Qualified teams==
+[[File:2026 World Cup AFC qualification.png|thumb|right|upright=2.0|{{legend|#0000FF|Qualified for the World Cup}}{{legend|#ffcc00|Failed to qualify}}{{legend|#CCCCCC|Not an AFC member}}]]
+The following teams from AFC qualified for the final tournament.
+{| class="wikitable sortable"
+|-
+! Team
+! Qualified as
+! Qualified on
+! data-sort-type="number"|Previous [[National team appearances in the FIFA World Cup|appearances]] in [[FIFA World Cup]]{{efn|group=qual|''Italics'' indicates hosts for that year.}}
+|-
+| {{fb|JPN}} || {{sort|3C1|[[2026 FIFA World Cup qualification – AFC third round#Group C|Third round group C]] winners}} || {{dts|2025|03|20|format=dmy}} || 7 ([[1998 FIFA World Cup|1998]], ''[[2002 FIFA World Cup|2002]]'', [[2006 FIFA World Cup|2006]], [[2010 FIFA World Cup|2010]], [[2014 FIFA World Cup|2014]], [[2018 FIFA World Cup|2018]], [[2022 FIFA World Cup|2022]])
+|-
+| {{fb|IRN}} || {{sort|3A1|[[2026 FIFA World Cup qualification – AFC third round#Group A|Third round group A]] winners}} || {{dts|2025|03|25|format=dmy}} || 6 ([[1978 FIFA World Cup|1978]], [[1998 FIFA World Cup|1998]], [[2006 FIFA World Cup|2006]], [[2014 FIFA World Cup|2014]], [[2018 FIFA World Cup|2018]], [[2022 FIFA World Cup|2022]])	
+|-
+| {{fb|UZB}} || {{sort|3A2|[[2026 FIFA World Cup qualification – AFC third round#Group A|Third round group A]] runners-up}} || {{dts|2025|6|5|format=dmy|addkey=1}} || Debut{{efn|group=qual|name=UZB|Until 1991, Uzbekistan was part of the [[Soviet Union national football team|Soviet Union]], which competed at seven World Cup tournaments. FIFA considers [[Russia national football team|Russia]] to be the successor team of the Soviet Union.}}
+|-
+| {{fb|KOR}} || {{sort|3B1|[[2026 FIFA World Cup qualification – AFC third round#Group B|Third round group B]] winners}} || {{dts|2025|6|5|format=dmy|addkey=3}} || 11 ([[1954 FIFA World Cup|1954]], [[1986 FIFA World Cup|1986]], [[1990 FIFA World Cup|1990]], [[1994 FIFA World Cup|1994]], [[1998 FIFA World Cup|1998]], ''[[2002 FIFA World Cup|2002]]'', [[2006 FIFA World Cup|2006]], [[2010 FIFA World Cup|2010]], [[2014 FIFA World Cup|2014]], [[2018 FIFA World Cup|2018]], [[2022 FIFA World Cup|2022]])
+|-
+| {{fb|JOR}} || {{sort|3B2|[[2026 FIFA World Cup qualification – AFC third round#Group B|Third round group B]] runners-up}} || {{dts|2025|6|5|format=dmy|addkey=2}} || Debut
+|-
+| {{fb|AUS}} || {{sort|3C2|[[2026 FIFA World Cup qualification – AFC third round#Group C|Third round group C]] runners-up}} || {{dts|2025|06|10|format=dmy}} || 6 ([[1974 FIFA World Cup|1974]]{{efn|group=qual|name=AUS|Australia qualified as a member of the [[Oceania Football Confederation|OFC]] in 1974 and 2006 (qualifying took place until 2005, and they left the OFC for the AFC in 2006), and qualified as a member of the AFC for first time in 2010.}}, [[2006 FIFA World Cup|2006]]{{efn|name=AUS}}, [[2010 FIFA World Cup|2010]], [[2014 FIFA World Cup|2014]], [[2018 FIFA World Cup|2018]], [[2022 FIFA World Cup|2022]])
+|-
+| {{fb|QAT}} || {{sort|4A1|[[2026 FIFA World Cup qualification – AFC fourth round#Group A|Fourth round group A]] winners}} || {{dts|2025|10|14|format=dmy}} || 1 (''[[2022 FIFA World Cup|2022]]'')
+|-
+| {{fb|KSA}} || {{sort|4B1|[[2026 FIFA World Cup qualification – AFC fourth round#Group B|Fourth round group B]] winners}} || {{dts|2025|10|14|format=dmy}} || 6 ([[1994 FIFA World Cup|1994]], [[1998 FIFA World Cup|1998]], [[2002 FIFA World Cup|2002]], [[2006 FIFA World Cup|2006]], [[2018 FIFA World Cup|2018]], [[2022 FIFA World Cup|2022]])
+|-
+| {{fb|IRQ}} || {{sort|J1|[[2026 FIFA World Cup qualification (inter-confederation play-offs)|Inter-confederation play-offs Pathway 2]] winners}} || {{dts|2026|3|31|format=dmy}}|| 1 ([[1986 FIFA World Cup|1986]])
+|}
+{{notelist|group=qual}}
+{{clear}}
+
+==Top goalscorers==
+{{#invoke:Goalscorers|main|2026 FIFA World Cup qualification (AFC)|minimum=5}}<!--CAREFULLY update goalscorers at Module:Goalscorers/data/2026 FIFA World Cup qualification (AFC)-->
+
+Below are full goalscorer lists for each round:
+{{flatlist|
+*[[2026 FIFA World Cup qualification – AFC first round#Goalscorers|First round]]
+*[[2026 FIFA World Cup qualification – AFC second round#Goalscorers|Second round]]
+*[[2026 FIFA World Cup qualification – AFC third round#Goalscorers|Third round]]
+*[[2026 FIFA World Cup qualification – AFC fourth round#Goalscorers|Fourth round]]
+*[[2026 FIFA World Cup qualification – AFC fifth round#Goalscorers|Fifth round]]
+}}
+
+==See also==
+*[[2027 AFC Asian Cup qualification]]
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026|Official FIFA World Cup website}}
+*[https://www.fifa.com/tournaments/mens/worldcup FIFA.com]
+*[https://www.the-afc.com/en/national/fifa_world_cup FIFA World Cup] – the-AFC.com
+
+{{2026 FIFA World Cup qualification}}
+
+{{DEFAULTSORT:FIFA World Cup qualification (AFC)}}
+[[Category:2026 FIFA World Cup qualification (AFC)| ]]
+[[Category:2026 FIFA World Cup qualification|AFC]]
+[[Category:FIFA World Cup qualification (AFC)|2026]]
+[[Category:2023 in Asian men's international football]]
+[[Category:2024 in Asian men's international football]]
+[[Category:2025 in Asian men's international football]]

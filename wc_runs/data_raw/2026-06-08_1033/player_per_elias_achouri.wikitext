@@ -1,0 +1,240 @@
+{{Short description|Footballer (born 1999)}}
+{{Use British English|date=May 2022}}
+{{Use dmy dates|date=July 2024}}
+{{Infobox football biography
+|name = Elias Achouri
+|image = Elias Achouri, Vejle Boldklub - FC København, 29. July 2023 - opvarmning FCK's 1. hold (cropped).jpg
+|upright = 
+|caption = Achouri with [[F.C. Copenhagen|Copenhagen]] in 2023
+|full_name = Mohamed Elias Achouri
+|birth_date = {{Birth date and age|1999|02|10|df=y}}
+|birth_place = [[Saint-Denis, Réunion|Saint-Denis]], Réunion, France
+|height = 1.77 m
+|position = [[Midfielder (association football)|Midfielder]]
+|currentclub = [[F.C. Copenhagen|Copenhagen]]
+|clubnumber = 30
+|youthyears1 = {{0|0000}}–2016
+|youthclubs1 = [[AS Saint-Étienne|Saint-Étienne]]
+|youthyears2 = 2016–2018
+|youthclubs2 = [[Vitória S.C.|Vitória Guimarães]]
+|years1 = 2019–2020
+|clubs1 = [[Vitória S.C. B|Vitória Guimarães B]]
+|caps1 = 17
+|goals1 = 2
+|years2 = 2020–2022
+|clubs2 = [[G.D. Estoril Praia|Estoril]]
+|caps2 = 2
+|goals2 = 0
+|years3 = 2021–2022
+|clubs3 = → [[C.D. Trofense|Trofense]] (loan)
+|caps3 = 27
+|goals3 = 9
+|years4 = 2022–2023
+|clubs4 = [[Viborg FF|Viborg]]
+|caps4 = 28
+|goals4 = 6
+|years5 = 2023–
+|clubs5 = [[F.C. Copenhagen|Copenhagen]]
+|caps5 = 72
+|goals5 = 9
+|nationalyears1 = 2022–
+|nationalteam1 = [[Tunisia national football team|Tunisia]]
+|nationalcaps1 = 29
+|nationalgoals1 = 5
+|pcupdate = 21 May 2026
+|ntupdate = 3 January 2026
+}}
+
+'''Mohamed Elias Achouri''' ({{langx|ar|مُحَمَّد إِلْيَاس عَاشُورِيّ}}; born 10 February 1999) is a professional [[association football|footballer]] who plays as a [[midfielder]] for [[Danish Superliga]] club [[F.C. Copenhagen|Copenhagen]]. Born in [[Réunion]], an [[Overseas departments and regions of France|overseas department of France]], he plays for the [[Tunisia national football team|Tunisia national team]].
+
+==Club career==
+On 26 August 2021, Achouri joined [[Liga Portugal 2]] club [[C.D. Trofense|Trofense]] on loan from [[G.D. Estoril Praia|Estoril]].<ref>{{cite web|publisher=[[C.D. Trofense|Trofense]]|url=https://cdtrofense.pt/elias-achouri-e-reforco/|title=Elias Achouri é Reforço|date=26 August 2021|accessdate=29 September 2021|language=pt|archive-date=7 September 2023|archive-url=https://web.archive.org/web/20230907104954/https://cdtrofense.pt/elias-achouri-e-reforco/|url-status=dead}}</ref> On 31 August 2022, Achouri joined [[Danish Superliga]] side [[Viborg FF]] on a deal until June 2025.<ref>[https://www.vff.dk/nyhed/sport/13305-vff-henter-tunesisk-landsholdsspiller VFF henter tunesisk landsholdsspiller], vff.dk, 31 August 2022</ref>
+
+Achouri made the move to 15-time Danish Superliga champions [[F.C. Copenhagen|Copenhagen]] on 24 July 2023, signing a four-year deal with the Lions. This was at the time the biggesst sale of Viborg FF ever.<ref>{{cite news|url=https://bold.dk/fodbold/stillinger/superligaen/nyheder/avis-fck-betaler-22-millioner-for-achouri |title=Avis: FCK betaler 22 millioner for Achuri|publisher=bold.dk|date=24 July 2023|language=da}}</ref>
+
+==International career==
+Achouri was born in [[Saint-Denis, Réunion|Saint-Denis]], [[Réunion]] to a Tunisian father and an Algerian mother.<ref>{{Cite web|url=https://www.footmercato.net/a3485999445446560247-info-fm-a-la-decouverte-delias-achouri-jeune-etoile-montante-du-vitoria-guimaraes|title=Info FM : à la découverte d'Elias Achouri, jeune étoile montante du Vitoria Guimaraes|website=Foot Mercato : Info Transferts Football - Actu Foot Transfert|date=15 April 2018 }}</ref> He debuted for the [[Tunisia national football team|Tunisia national team]] in a 4–0 win over [[Equatorial Guinea national football team|Equatorial Guinea]] on 2 June 2022.<ref>{{Cite web|url=https://int.soccerway.com/matches/2022/06/02/africa/africa-cup-of-nations-qualification/tunisia/equatorial-guinea/3783068/|title=Tunisia vs. Equatorial Guinea - 2 June 2022 |website=Soccerway}}</ref>
+
+==Career statistics==
+
+===Club===
+{{updated|match played 21 May 2026}}<ref>{{Soccerway|mohamed-elias-achouri/561410|accessdate=20 June 2019}}</ref><ref>{{ForaDeJogo|199800000063|Elias Achouri}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup{{efn|Includes [[Taça de Portugal]], [[Danish Cup]]}}
+!colspan="2"|League cup{{efn|Includes [[Taça da Liga]]}}
+!colspan="2"|Europe
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="3"|[[Vitória S.C. B|Vitória Guimarães B]]
+|[[2018–19 LigaPro|2018–19]]
+|[[LigaPro]]
+|8||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||8||0
+|-
+|[[2019–20 LigaPro|2019–20]]
+|LigaPro
+|9||2||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||9||2
+|-
+!colspan="2"|Total
+!17!!2!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!17!!2
+|-
+|rowspan="4"|[[G.D. Estoril Praia|Estoril]]
+|[[2020–21 Liga Portugal 2|2020–21]]
+|[[Liga Portugal 2]]
+|0||0||0||0||0||0||colspan="2"|—||colspan="2"|—||0||0
+|-
+|[[2021–22 Primeira Liga|2021–22]]
+|[[Primeira Liga]]
+|0||0||0||0||1||0||colspan="2"|—||colspan="2"|—||1||0
+|-
+|[[2022–23 Primeira Liga|2022–23]]
+|Primeira Liga
+|2||0||0||0||0||0||colspan="2"|—||colspan="2"|—||2||0
+|-
+!colspan="2"|Total
+!2!!0!!0!!0!!1!!0!!colspan="2"|—!!colspan="2"|—!!3!!0
+|-
+|[[C.D. Trofense|Trofense]] (loan)
+|[[2021–22 Liga Portugal 2|2021–22]]
+|Liga Portugal 2
+|27||9||1||0||0||0||colspan="2"|—||colspan="2"|—||28||9
+|-
+|[[Viborg FF|Viborg]]
+|[[2022–23 Danish Superliga|2022–23]]
+|[[Danish Superliga]]
+|24||6||3||0||colspan="2"|—||0||0||1{{efn|Appearance in Danish Superliga European play-off|name=EUR}}||0||12||0
+|-
+|rowspan="4"|[[F.C. Copenhagen|Copenhagen]]
+|[[2023–24 F.C. Copenhagen season|2023–24]]
+|Danish Superliga
+|28||4||2||0||colspan="2"|—||13{{efn|name=UCL|Appearances in [[UEFA Champions League]]}}||1||colspan="2"|—||43||5
+|-
+|[[2024–25 F.C. Copenhagen season|2024–25]]
+|Danish Superliga
+|23||2||4||0||colspan="2"|—||10{{efn|name=UECL|Appearances in [[UEFA Conference League]]}}||0||colspan="2"|—||37||2
+|-
+|[[2025–26 F.C. Copenhagen season|2025–26]]
+|Danish Superliga
+|21||3||5||1||colspan="2"|—||11{{efn|name=UCL}}||1||colspan="2"|—||37||5
+|-
+!colspan="2"|Total
+!72!!9!!11!!1!!colspan="2"|—!!34!!1!!colspan="2"|—!!117!!11
+|-
+!colspan="3"|Career total
+!142!!26!!15!!1!!1!!0!!34!!2!!1!!0!!193!!29
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 3 January 2026}}
+
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="5"|[[Tunisia national football team|Tunisia]]
+|2022||2||0
+|-
+|2023||6||0
+|-
+|2024||9||1
+|-
+|2025||11||4
+|-
+|2026||1||0
+|-
+!colspan="2"|Total!!29!!5
+|}
+
+{| class="wikitable sortable"
+|+ List of international goals scored by Elias Achouri
+|-
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+|-
+| align="center"|1 || 10 January 2024 || [[Hammadi Agrebi Stadium]], [[Tunis]], Tunisia || {{fb|CPV}} || align="center"|1–0 || align="center"|2–0 || [[Friendly (association football)|Friendly]]
+|-
+| align="center"|2 || 24 March 2025 || Hammadi Agrebi Stadium, Tunis, Tunisia || {{fb|MWI}} || align="center" |2–0 || align="center"|2–0 || [[2026 FIFA World Cup qualification – CAF Group H|2026 FIFA World Cup qualification]]
+|-
+| align="center"|3 || 14 November 2025 || Hammadi Agrebi Stadium, Tunis, Tunisia || {{fb|JOR}} || align="center" |3–2 || align="center"|3–2 || Friendly
+|-
+| align="center"|4 || rowspan=2| 23 December 2025 || rowspan=2| [[Rabat Olympic Stadium]], [[Rabat]], Morocco || rowspan=2| {{fb|UGA}} || align="center" |2–0|| rowspan="2" align="center" | 3–1 || rowspan=2| [[2025 Africa Cup of Nations Group C|2025 Africa Cup of Nations]]
+|-
+| align="center"|5 || align="center" | 3–0
+|}
+
+{{notelist}}
+
+==Honours==
+'''Copenhagen'''
+* [[Danish Superliga]]: [[2024–25 Danish Superliga|2024–25]]<ref>{{Cite web|url=https://www.mediano.nu/oversigt/2025/05/26/mediano-superliga-32-runde|title=Mediano Superliga: Tillykke til FC København|date=25 May 2025|website=Mediano}}</ref>
+* [[Danish Cup]]: [[2024–25 Danish Cup|2024–25]]<ref>{{Cite web|url=https://www.bt.dk/content/item/1824551|title=FCK tager tiende pokaltitel med soloridt på hadebanen|date=29 May 2025|website=www.bt.dk|archive-url=http://web.archive.org/web/20250529175851/https://www.bt.dk/fodbold/fck-tager-tiende-pokaltitel-med-soloridt-paa-hadebanen|archive-date=2025-05-29}}</ref>
+
+'''Individual'''
+* [[Danish Superliga|Superliga]] Team of the Month: [[2023–24 Danish Superliga|September 2023]]<ref>{{cite news |title=Månedens Hold i Superligaen – september |url=https://www.tipsbladet.dk/nyhed/superliga/maanedens-hold-i-superligaen-september-7 |access-date=16 April 2024 |work=Tipsbladet |date=3 October 2023 |language=da}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://www.fck.dk/en/spiller/elias-achouri Profile] at the F.C. Copenhagen website
+* {{UEFA player}}
+
+{{F.C. Copenhagen squad}}
+{{Navboxes
+| title = Tunisia squads
+| bg = #E70013
+| fg = white
+| bordercolor = gainsboro
+| list1 =
+{{Tunisia squad 2023 Africa Cup of Nations}}
+{{Tunisia squad 2025 Africa Cup of Nations}}
+{{Tunisia squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Achouri, Elias}}
+[[Category:1999 births]]
+[[Category:Living people]]
+[[Category:Tunisian people of Algerian descent]]
+[[Category:French sportspeople of Tunisian descent]]
+[[Category:French sportspeople of Algerian descent]]
+[[Category:Tunisian men's footballers]]
+[[Category:21st-century Tunisian sportsmen]]
+[[Category:French men's footballers]]
+[[Category:Men's footballers from Réunion]]
+[[Category:Tunisia men's international footballers]]
+[[Category:Men's association football midfielders]]
+[[Category:2023 Africa Cup of Nations players]]
+[[Category:Primeira Liga players]]
+[[Category:Liga Portugal 2 players]]
+[[Category:Campeonato de Portugal (league) players]]
+[[Category:Danish Superliga players]]
+[[Category:Vitória S.C. B players]]
+[[Category:G.D. Estoril Praia players]]
+[[Category:C.D. Trofense players]]
+[[Category:Viborg FF players]]
+[[Category:F.C. Copenhagen players]]
+[[Category:Tunisian expatriate men's footballers]]
+[[Category:French expatriate men's footballers]]
+[[Category:Tunisian expatriate sportspeople in Portugal]]
+[[Category:French expatriate sportspeople in Portugal]]
+[[Category:French expatriate sportspeople in Denmark]]
+[[Category:Expatriate men's footballers in Portugal]]
+[[Category:Expatriate men's footballers in Denmark]]
+[[Category:21st-century French sportsmen]]
+[[Category:2025 Africa Cup of Nations players]]
+[[Category:2026 FIFA World Cup players]]

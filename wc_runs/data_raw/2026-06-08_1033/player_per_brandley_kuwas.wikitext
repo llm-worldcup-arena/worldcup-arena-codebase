@@ -1,0 +1,222 @@
+{{short description|Curaçaoan footballer}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+| name           = Brandley Kuwas
+| image          = Brandley_Kuwas.png
+| caption        = Kuwas with Heracles Almelo in 2017
+| fullname       = Brandley Mack-Olien Kuwas<ref>{{cite web |url=http://cloudfront.bernews.com/wp-content/uploads/2019/05/2019_Concacaf_Gold_Cup_Preliminary_Lists_May_20.pdf |title=40-Player National Team Roster: 2019 Concacaf Gold Cup: Curaçao |publisher=CONCACAF |page=5 |access-date=20 May 2019 |via=Bernews}}</ref>
+| birth_date     = {{birth date and age|1992|9|19|df=yes}}
+| birth_place    = [[Hoorn]], Netherlands
+| height         = {{height|m=1.78}}
+| position       = [[Forward (association football)#Winger|Winger]]
+| currentclub    = [[FC Volendam|Volendam]]
+| clubnumber     = 10
+| youthyears1    = {{0|0000}}–2004
+| youthclubs1    = Hellas Sport
+| youthyears2    = 2004–2007
+| youthclubs2    = [[AZ Alkmaar|AZ]]
+| youthyears3    = 2007–2009
+| youthclubs3    = Hellas Sport
+| youthyears4    = 2009–2012
+| youthclubs4    = KFC
+| years1         = 2012–2015
+| clubs1         = [[FC Volendam|Volendam]]
+| caps1          = 103
+| goals1         = 15
+| years2         = 2015–2016
+| clubs2         = [[SBV Excelsior|Excelsior]]
+| caps2          = 34
+| goals2         = 4
+| years3         = 2016–2019
+| clubs3         = [[Heracles Almelo]]
+| caps3          = 96
+| goals3         = 21
+| years4         = 2019–2021
+| clubs4         = [[Al-Nasr Dubai SC|Al Nasr]] 
+| caps4          = 31
+| goals4         = 5
+| years5         = 2021
+| clubs5         = → [[Al Jazira Club|Al Jazira]] (loan)
+| caps5          = 13
+| goals5         = 3
+| years6         = 2021–2022
+| clubs6         = [[Maccabi Tel Aviv F.C.|Maccabi Tel Aviv]] 
+| caps6          = 28
+| goals6         = 3
+| years7         = 2022–2024
+| clubs7         = [[Giresunspor]]
+| caps7          = 38
+| goals7         = 2
+| years8         = 2024–
+| clubs8         = [[FC Volendam|Volendam]]
+| caps8          = 61
+| goals8         = 9
+| nationalyears1 = 2017–
+| nationalteam1  = [[Curaçao national football team|Curaçao]]
+| nationalcaps1  = 31
+| nationalgoals1 = 2
+| club-update    = 19 May 2026
+| ntupdate       = 18 June 2025
+}}
+
+'''Brandley Mack-Olien Kuwas''' (born 19 September 1992) is a professional [[association football|footballer]] who plays as a [[Forward (association football)|winger]] for {{Dutch football updater|Volendam}} club [[FC Volendam|Volendam]]. Born in the Netherlands, he plays for the [[Curaçao national football team|Curaçao national team]].
+
+==International career==
+Kuwas is of Curaçaoan descent, and played an unofficial match for the [[Curaçao national football team]] against Dutch club Excelsior in November 2016.<ref>{{Cite web |date=2016-11-09 |title=Curaçao niet langs Excelsior bij debuut 'Oranje-target' Kuwas |url=https://www.vi.nl/nieuws/curacao-niet-langs-excelsior-bij-debuut-oranjetarget-kuwas- |access-date=2024-03-05 |website=Voetbal International |language=nl}}</ref> Kuwas made his international debut for Curaçao in a friendly 1–1 tie with [[El Salvador national football team|El Salvador]] on 22 March 2017.<ref>{{cite web|url=http://www.rtvoost.nl/pl.aspx?nid=265454|title=Assist Brandley Kuwas voor Curaçao tegen El Salvador|first=R. T. V.|last=Oost|date=23 March 2017|website=RTV Oost}}</ref><ref>{{Cite web |date=2017-03-23 |title=Kuwas debuteert voor nationale ploeg Curaçao |url=https://www.ad.nl/nederlands-voetbal/kuwas-debuteert-voor-nationale-ploeg-curacao~a0fe6d9c/ |access-date=2024-03-05 |website=[[Algemeen Dagblad]]}}</ref>
+
+==Career statistics==
+{{updated|match played 1 June 2022|<ref>{{cite web |title=B. Kuwas |url=https://int.soccerway.com/players/brandley-kuwas/255469/ |work=Soccerway | publisher=Perform Group |access-date=30 January 2018}}</ref>}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National Cup
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="4"|[[FC Volendam|Volendam]]
+|[[2012–13 Eerste Divisie|2012–13]]
+|rowspan="3"|[[Eerste Divisie]]
+|32||5||1||0||0||0||4<ref group=lower-alpha>Appearances in the [[2012–13 Eredivisie#Relegation|2012–13 Eerste Divisie promotion play-offs]]</ref>||1||37||6
+|-
+|[[2013–14 Eerste Divisie|2013–14]]
+|34||2||1||0||0||0||0||0||35||2
+|-
+|[[2014–15 Eerste Divisie|2014–15]]
+|37||8||3||0||0||0||4<ref group=lower-alpha>Appearances in the [[2014–15 Eredivisie#Promotion/relegation play-offs|2014–15 Eerste Divisie promotion play-offs]]</ref>||1||44||9
+|-
+!colspan="2"|Total
+!103!!15!!5!!0!!0!!0!!8!!2!!116!!17
+|-
+|rowspan="2"|[[S.B.V. Excelsior|Excelsior]]
+|[[2015–16 Eredivisie|2015–16]]
+|[[Eredivisie]]
+|34||4||2||0||0||0||0||0||36||4
+|-
+!colspan="2"|Total
+!34!!4!!2!!0!!0!!0!!0!!0!!36!!4
+|-
+|rowspan="4"|[[Heracles Almelo]]
+|[[2016–17 Eredivisie|2016–17]]
+|rowspan="3"|[[Eredivisie]]
+|33||6||3||1||2<ref group=lower-alpha name="UEL">Appearances in the [[2017–18 UEFA Europa League|Europa League]]</ref>||0||0||0||38||7
+|-
+|[[2017–18 Eredivisie|2017–18]]
+|30||5||2||0||0||0||0||0||32||5
+|-
+|[[2018–19 Eredivisie|2018–19]]
+|35||10||2||0||0||0||0||0||37||10
+|-
+!colspan="2"|Total
+!98!!21!!7!!1!!2!!0!!0!!0!!107!!22
+|-
+|rowspan="3"|[[Al-Nasr SC (Dubai)|Al-Nasr SC]]
+|[[2019–20 UAE Pro League|2019–20]]
+|rowspan="2"|[[UAE Pro League]]
+|19||3||6||1||0||0||0||0||25||4
+|-
+|[[2020–21 UAE Pro League|2020–21]]
+|12||2||1||0||0||0||0||0||13||2
+|-
+!colspan="2"|Total
+!31!!5!!7!!1!!0!!0!!0!!0!!38!!6
+|-
+|rowspan="2"|[[Al Jazira Club|Al Jazira]]
+|[[2020–21 UAE Pro League|2020–21]]
+|rowspan="1"|[[UAE Pro League]]
+|12||3||0||0||0||0||0||0||12||3
+|-
+!colspan="2"|Total
+!12!!3!!0!!0!!0!!0!!0!!0!!12!!3
+|-
+|rowspan="3"|[[Maccabi Tel Aviv F.C.|Maccabi Tel Aviv]]
+|[[2021–22 Israeli Premier League|2021–22]]
+|rowspan="2"|[[Israeli Premier League]]
+|27||3||5||0||8||1||1<ref group=lower-alpha name="ITC">Appearances in the [[Toto Cup]]</ref>||0||41||4
+|-
+|[[2022–23 Israeli Premier League|2022–23]]
+|0||0||0||0||0||0||0<ref group=lower-alpha name="ITC"/>||0||0||0
+|-
+!colspan="2"|Total
+!27!!3!!5!!0!!8!!1!!1!!0!!41!!4
+|-
+!colspan="3"|Career total
+!305!!51!!26!!2!!10!!1!!9!!2!!350!!56
+|}
+
+{{reflist|group=lower-alpha}}
+
+===International goals===
+:''Scores and results list Curaçao's goal tally first.''<ref name="NFT">{{cite web|url=https://www.national-football-teams.com/player/67496/Brandley_Kuwas.html|title=Kuwas, Brandley|publisher=National Football Teams|access-date=18 September 2018}}</ref>
+
+{| class="wikitable" style="font-size:100%;"
+! No. !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| 1. || 10 September 2018 || [[Ergilio Hato Stadium]], [[Willemstad]], Curaçao || {{fb|GRN}} || align=center | '''3'''–0 || align=center | 10–0 || [[2019–20 CONCACAF Nations League qualifying|2019–20 CONCACAF Nations League qualification]]
+|-
+| 2. || 5 June 2021 || [[Estadio El Trébol]], [[Guatemala City]], Guatemala || {{fb|VGB}} || align=center | '''1'''–0 || align=center | 8–0 || [[2022 FIFA World Cup qualification – CONCACAF first round|2022 FIFA World Cup qualification]]
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{NFT player|67496}}
+* {{WorldFootball.net|brandley-kuwas}}
+* [http://www.vi.nl/spelers/carriere/brandley-kuwas.htm Brandley Kuwas at ''Voetbal International''] {{Webarchive|url=https://web.archive.org/web/20150915223046/http://www.vi.nl/spelers/carriere/brandley-kuwas.htm |date=15 September 2015 }} {{in lang|nl}}
+
+{{FC Volendam squad}}
+{{Navboxes
+| title = Curaçao squads
+| bg = #002a7e
+| fg = white
+| bordercolor = yellow
+| list1 =
+{{Curaçao squad 2025 CONCACAF Gold Cup}}
+{{Curaçao squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Kuwas, Brandley}}
+[[Category:1992 births]]
+[[Category:Dutch people of Curaçaoan descent]]
+[[Category:Living people]]
+[[Category:Footballers from Hoorn]]
+[[Category:Curaçaoan men's footballers]]
+[[Category:Curaçao men's international footballers]]
+[[Category:Dutch men's footballers]]
+[[Category:Men's association football midfielders]]
+[[Category:FC Volendam players]]
+[[Category:Excelsior Rotterdam players]]
+[[Category:Heracles Almelo players]]
+[[Category:Al-Nasr SC (Dubai) players]]
+[[Category:Al Jazira Club players]]
+[[Category:Maccabi Tel Aviv F.C. players]]
+[[Category:Giresunspor footballers]]
+[[Category:Eredivisie players]]
+[[Category:Eerste Divisie players]]
+[[Category:UAE Pro League players]]
+[[Category:Israeli Premier League players]]
+[[Category:Süper Lig players]]
+[[Category:2025 CONCACAF Gold Cup players]]
+[[Category:Dutch expatriate men's footballers]]
+[[Category:Curaçaoan expatriate men's footballers]]
+[[Category:Expatriate men's footballers in Israel]]
+[[Category:Expatriate men's footballers in the United Arab Emirates]]
+[[Category:Expatriate men's footballers in Turkey]]
+[[Category:Curaçaoan expatriate sportspeople in the United Arab Emirates]]
+[[Category:Dutch expatriate sportspeople in the United Arab Emirates]]
+[[Category:Curaçaoan expatriate sportspeople in Israel]]
+[[Category:Dutch expatriate sportspeople in Israel]]
+[[Category:Curaçaoan expatriate sportspeople in Turkey]]
+[[Category:Dutch expatriate sportspeople in Turkey]]
+[[Category:21st-century Dutch sportsmen]]
+[[Category:2026 FIFA World Cup players]]
+
+
+{{Curaçao-footy-bio-stub}}

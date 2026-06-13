@@ -1,0 +1,16 @@
+{
+ "team": "KOR",
+ "source": "StarNews Korea",
+ "url": "https://www.starnewskorea.com/en/sports/2026/06/01/2026060114590235684",
+ "title": "Jo Yu-min, ultimately will not play in the World Cup: \"Plantar fasciitis injury, eight-week prognosis\"; Jo Wi-je selected as replacement... Bae Jun-ho avoids major injury | STARNEWS",
+ "news_date": "2026-06-01",
+ "published": "2026-06-01T15:48:14+09:00",
+ "tier": "3",
+ "lang": "en",
+ "asof": "2026-06-13",
+ "fetched": "2026-06-13_0637",
+ "method": "jsonld:articleBody",
+ "status": "ok",
+ "original_text": "Hong Myung-bo's central defender Jo Yu-min (30, Sharjah) will be unable to step onto the 2026 FIFA World Cup stage due to injury. The vacancy will be filled by Jo Wi-je (25, Jeonbuk).\nAccording to the Korea Football Association on the 1st, Jo Yu-min was diagnosed with a rupture of the plantar fascia in his right heel, requiring an eight-week prognosis, and was consequently released from the national team roster.\nJo Yu-min collapsed in the early second half of the friendly match against Trinidad and Tobago (5-0 victory) held the previous day in Salt Lake City, Utah, USA, complaining of foot pain, and was eventually substituted for Park Jin-seop (Zhejiang). Jo Yu-min, whose World Cup participation fell through, is expected to return to Korea to focus on treatment and rehabilitation.\nAs Jo Yu-min's replacement, 2001-born rookie center-back Jo Wi-je was selected. Originally accompanying the U.S. pre-camp as a \"training partner,\" Jo Wi-je will now be officially added to the 26th-man final roster submitted to FIFA on the 1st.\nWith Jo Wi-je selected as the replacement, midfielder Kang Sang-yoon (Jeonbuk), who was originally scheduled to return home after the camp concluded, will take over the training partner role and accompany the national team through the World Cup finals.\nMeanwhile, striker Bae Jun-ho (Stoke City), who was substituted after twisting his right ankle in the Trinidad and Tobago match, fortunately avoided a major injury. It is reported that he is in no condition to participate in the World Cup. The association plans to monitor the injury's status continuously while having him participate in training.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

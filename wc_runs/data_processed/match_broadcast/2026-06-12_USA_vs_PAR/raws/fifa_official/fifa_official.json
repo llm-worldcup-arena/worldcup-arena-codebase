@@ -1,0 +1,24 @@
+{
+ "source": "FIFA 官方",
+ "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/usa-paraguay-highlights-match-report",
+ "title": "USA 4-1 Paraguay | Match report and highlights",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-12",
+  "home": "USA",
+  "away": "PAR",
+  "home_en": "United States",
+  "away_en": "Paraguay",
+  "home_zh": "美国",
+  "away_zh": "巴拉圭",
+  "comp": "小组赛·D组",
+  "match_id": "M4",
+  "slug": "2026-06-12_USA_vs_PAR"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Folarin Balogun scored twice as Mauricio Pochettino's men delivered one of USA's most impressive performances at a FIFA World Cup.\nUSA goals: Bobadilla (7 OG), Balogun (31, 45+5), Reyna (90+8) Paraguay goals: Mauricio (73)\nKaty Perry's opening song set the tone for what turned out to be an American party as Hollywood's biggest stars watched the Stars and Stripes overcome a spirited Paraguay at Los Angeles Stadium.\nThe visitors took advantage of a frenetic start with a cheeky shot from Antonio Sanabria forcing an early save from Matt Freese. From then on it was all USA. Mauricio Pochettino's men took the lead after Weston McKennie found Christian Pulisic on the left wing, and the AC Milan forward bamboozled two defenders before McKennie squared the ball into Damian Bobadilla, who inadvertently put the ball in his own net.\nParaguay were unable to recover and the American onslaught continued with Sergino Dest coming close before Folarin Balogun put the ball in the back of the net only for it to be called back for offside.\nBalogun got his goal moments later, slotting home a pass from Christian Pulisic, who had successfully gotten in behind his defender on the left wing. The Monaco striker then scored his second and USA's third deep into first-half stoppage time. The Stars and Stripes forward ran on to a threaded through ball from Malik Tillman, cut back against the grain and smashed the ball into the top left corner of Omar Gill's net, sending the American fans into raptures.\nAfter the break, Paraguay replaced Bobadilla with attacking midfielder Mauricio and made a push to get back into the match. The substitute added impetus into Paraguay and latched on to a subtle pass from Julio Enciso to fire home and give the South Americans a lifeline.\nParaguay's goal reawakened the USA. Malik Tillman could have added a fourth for the Stars and Stripes moments later, but the American midfielder showed hesitancy in front of goal allowing Gill to save comfortably. Gio Reyna put the cherry on top of the performance, scoring an impressive long distance goal in the dying seconds. The co-hosts ran out comfortable winners and will head into their next match against Australia full of confidence.\nKey statKey stat\nFolarin Balogun becomes the fourth player in as many FIFA World Cups to score a brace in a host nation's opening match. The other three were: Neymar in 2014, Denis Cheryshev in 2018 and Enner Valencia in 2022.\nWhat they saidWhat they said\n\"It puts us in a good spot, of course. It shows the amount of chemistry we have as a team and we're prepared for the next one and all good vibes here. Being here at home I thought it was a fantastic atmosphere to open up our World Cup.\"\nRicardo Pepi, USA forward\nIt's an honour to lead the team and just to be part of the group is a huge honour. We've put in a lot of work and the guys have done a lot to get to this point. To put in a performance like that and get three points and start the way we have is everything that we wanted. Hats off to the guys - a lot of firsts... first goals and first goals it's been a good night overall.\nTim Ream, USA captain\nMichelob Ultra Superior Player of the MatchMichelob Ultra Superior Player of the Match\nFolarin Balogun (USA)",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

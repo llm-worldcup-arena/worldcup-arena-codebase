@@ -1,0 +1,150 @@
+{{short description|Paraguayan footballer (born 1991)}}
+{{for|the Salvadorian footballer of the same name|Víctor Velásquez}}
+{{family name hatnote|Velázquez|Ramos|lang=Spanish}}
+{{Use dmy dates|date=June 2024}}
+{{Infobox football biography
+|name = Gustavo Velázquez
+|image =
+|full_name = Víctor Gustavo Velázquez Ramos
+|birth_date = {{Birth date and age|df=yes|1991|04|17}}
+|birth_place = [[Itauguá]], Paraguay
+|height = 1.79 m
+|position = [[Centre-back]]
+|currentclub = [[Cerro Porteño]]
+|clubnumber = 23
+|youthyears1 =
+|youthclubs1 =
+|years1 = 2012–2013
+|clubs1 = [[Cerro Porteño]]
+|caps1 = 61
+|goals1 = 1
+|years2 = 2014
+|clubs2 = [[Sportivo Luqueño]]
+|caps2 = 19
+|goals2 = 1
+|years3 = 2014–2015
+|clubs3 = [[Club Nacional|Nacional Asunción]]
+|caps3 = 49
+|goals3 = 0
+|years4 = 2016–2017
+|clubs4 = [[Cerro Porteño]]
+|caps4 = 11
+|goals4 = 1
+|years5 = 2016–2017
+|clubs5 = → [[Club Sol de América|Sol de América]] (loan)
+|caps5 = 37
+|goals5 = 4
+|years6 = 2018
+|clubs6 = [[Club Nacional|Nacional Asunción]]
+|caps6 = 37
+|goals6 = 4
+|years7 = 2019
+|clubs7 = [[Lobos BUAP]]
+|caps7 = 5
+|goals7 = 0 
+|years8 = 2019–2022
+|clubs8 = [[FC Juárez|Juárez]]
+|caps8 = 77
+|goals8 = 5
+|years9 = 2022
+|clubs9 = → [[Newell's Old Boys]] (loan)
+|caps9 = 26
+|goals9 = 1
+|years10 = 2023–2024
+|clubs10 = [[Newell's Old Boys]]
+|caps10 = 70
+|goals10 = 5
+|years11 = 2025–
+|clubs11 = [[Cerro Porteño]]
+|caps11 = 43
+|goals11 = 1
+|nationalyears1 = 2024–
+|nationalteam1 = [[Paraguay national football team|Paraguay]]
+|nationalcaps1 = 12
+|nationalgoals1 = 1
+|pcupdate = 22 March 2026
+|ntupdate = 27 March 2026
+}}
+
+'''Víctor Gustavo Velázquez Ramos''' (born 17 April 1991) is a Paraguayan professional [[association football|footballer]] who plays as a [[centre-back]] for [[Cerro Porteño]] and the [[Paraguay national football team|Paraguay national team]].
+
+==International career==
+Velázquez made his debut for the [[Paraguay national football team|Paraguay national team]] on 7 June 2024 in a friendly against [[Peru national football team|Peru]] at [[Estadio Monumental "U"|Estadio Monumental]]. He played the full game which ended in a scoreless draw.<ref>{{cite web|publisher=ESPN|url=https://www.espn.com/soccer/match/_/gameId/701635|title=Peru v Paraguay game report|date=7 June 2024}}</ref>
+
+==Career statistics==
+
+===International===
+{{updated|match played 27 March 2026}}
+
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="3"|[[Paraguay national football team|Paraguay]]
+|2024||6||1
+|-
+|2025||5||0
+|-
+|2026||1||0
+|-
+!colspan="2"|Total!!12!!1
+|}
+
+:''Paraguay score listed first, score column indicates score after each Velázquez goal.''
+{| class="wikitable sortable"
+|+ List of international goals scored by Gustavo Velázquez
+|-
+! No. !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| align=center | 1 || 16 June 2024 || [[Estadio Rommel Fernández]], Panama City, Panama || {{fb|PAN}} || align=center | 1–0 || align=center | 1–0 || Friendly
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Soccerway|victor-gustavo-velazquez/236422}}
+* [https://www.soccerstand.com/es/jugador/velazquez-ramos-gustavo/MFT77Isk/ Víctor Velázquez] at Soccerstand
+* {{Liga MX player|138054/victor-gustavo-velazquez-ramos|Víctor Gustavo Velázquez Ramos}}
+
+{{Cerro Porteño squad}}
+{{Navboxes
+| title = Paraguay squads
+| bg = #D52B1E
+| fg = white
+| bordercolor = #0038A8
+| list1 =
+{{Paraguay squad 2024 Copa América}}
+{{Paraguay squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Velazquez, Gustavo}}
+[[Category:1991 births]]
+[[Category:Living people]]
+[[Category:Paraguayan men's footballers]]
+[[Category:Paraguay men's international footballers]]
+[[Category:Paraguayan expatriate men's footballers]]
+[[Category:Men's association football defenders]]
+[[Category:Cerro Porteño players]]
+[[Category:Sportivo Luqueño players]]
+[[Category:Club Nacional footballers]]
+[[Category:Club Sol de América footballers]]
+[[Category:Lobos BUAP footballers]]
+[[Category:FC Juárez footballers]]
+[[Category:Newell's Old Boys footballers]]
+[[Category:Paraguayan Primera División players]]
+[[Category:Liga MX players]]
+[[Category:Argentine Primera División players]]
+[[Category:Paraguayan expatriate sportspeople in Mexico]]
+[[Category:Paraguayan expatriate sportspeople in Argentina]]
+[[Category:Expatriate men's footballers in Mexico]]
+[[Category:Expatriate men's footballers in Argentina]]
+[[Category:People from Itauguá]]
+[[Category:Footballers from Central Department]]
+[[Category:2024 Copa América players]]
+[[Category:21st-century Paraguayan sportsmen]]
+[[Category:2026 FIFA World Cup players]]
+
+
+{{Paraguay-footy-defender-stub}}

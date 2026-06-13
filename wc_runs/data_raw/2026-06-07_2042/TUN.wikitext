@@ -1,0 +1,105 @@
+{{Short description|Men's association football team}}
+{{About|the men's team|the women's team|Tunisia women's national football team}}
+{{Use dmy dates|date=November 2022}}
+{{Use British English|date=August 2022}}
+{{Infobox national football team
+| Name                      = Tunisia
+| Nickname                  = {{lang|ar|نسور قرطاج}}<br>(Eagles of [[Carthage]])
+| Badge                     = Tunisia national football team logo.png
+| Badge_size                = 200px
+| Association               = [[Tunisian Football Federation]] (TFF)
+| Confederation             = [[Confederation of African Football|CAF]] (Africa)
+| Sub-confederation         = [[Union of North African Football Federations|UNAF]] (North Africa)
+| Coach                     = [[Sabri Lamouchi]]
+| Captain                   = [[Ellyes Skhiri]]
+| Most caps                 = [[Radhi Jaïdi]] (105)
+| Top scorer                = [[Issam Jemâa]] ([[List of international goals scored by Issam Jemâa|36]])
+| FIFA Trigramme            = TUN<ref name=FIFACode>{{cite web |url=https://www.rsssf.org/miscellaneous/fifa-codes.html |title=FIFA Country Codes |date=6 August 2015 |access-date=10 January 2016 |last=Jeffree |website=[[RSSSF]] |first=Iain |archive-date=19 September 2000 |archive-url=https://web.archive.org/web/20000919111901/http://www.rsssf.com/miscellaneous/fifa-codes.html |url-status=live }}</ref>
+| FIFA Rank                 = {{FIFA World Rankings|TUN}}
+| FIFA max                  = 14
+| FIFA max date             = April – May 2018
+| FIFA min                  = 65
+| FIFA min date             = July 2010
+| Home Stadium              = [[Hammadi Agrebi Stadium]]
+| pattern_la1               = _tun26h
+| pattern_b1                = _tun26h
+| pattern_ra1               = _tun26h
+| pattern_sh1               = 
+| pattern_so1               = 
+| leftarm1                  = FFFFFF
+| body1                     = FFFFFF
+| rightarm1                 = FFFFFF
+| shorts1                   = FFFFFF
+| socks1                    = FFFFFF
+| pattern_la2               = _tun26a
+| pattern_b2                = _tun26a
+| pattern_ra2               = _tun26a
+| pattern_sh2               = 
+| pattern_so2               = 
+| leftarm2                  = FF0000
+| body2                     = FF0000
+| rightarm2                 = FF0000
+| shorts2                   = FF0000
+| socks2                    = FF0000
+| pattern_la3               = _tun26t
+| pattern_b3                = _tun26t
+| pattern_ra3               = _tun26t
+| pattern_sh3               = 
+| pattern_so3               = 
+| leftarm3                  = 000000
+| body3                     = 000000
+| rightarm3                 = 000000
+| shorts3                   = 000000
+| socks3                    = 000000
+| First game                = {{fb|TUN|1959}} 4–2 {{fb-rt|LBY}}<br />([[Tunis]], Tunisia; 2 June 1957)
+|Largest win                = {{fb|TUN|1959}} 8–1 {{fb-rt|ROC|name=Taiwan}}<br />([[Rome]], Italy; 18 August 1960)<br />{{fb|TUN}} 7–0 {{fb-rt|TOG}}<br />(Tunis, Tunisia; 7 January 2000)<br />{{fb|TUN}} 7–0 {{fb-rt|MWI}}<br />(Tunis, Tunisia; 26 March 2005)<br />{{fb|TUN}} 8–1 {{fb-rt|DJI}}<br />(Tunis, Tunisia; 12 June 2015)
+| Largest loss              = {{fb|HUN}} 10–1 {{fb-rt|TUN|1959}}<br />([[Budapest]], Hungary; 24 July 1960)
+| World cup apps            = 7
+| World cup first           = 1978
+| World cup best            = Group stage ([[1978 FIFA World Cup|1978]], [[1998 FIFA World Cup|1998]], [[2002 FIFA World Cup|2002]], [[2006 FIFA World Cup|2006]], [[2018 FIFA World Cup|2018]], [[2022 FIFA World Cup|2022]])
+| Regional name             = [[Africa Cup of Nations]]
+| Regional cup apps         = 22
+| Regional cup first        = [[1962 African Cup of Nations|1962]]
+| Regional cup best         = '''Champions''' ([[2004 African Cup of Nations|2004]])
+| 2ndRegional name          = [[African Nations Championship]]
+| 2ndRegional cup apps      = 2
+| 2ndRegional cup first     = [[2011 African Nations Championship|2011]]
+| 2ndRegional cup best      = '''Champions''' ([[2011 African Nations Championship|2011]])
+| 3rdRegional name          = [[FIFA Arab Cup|Arab Cup]]
+| 3rdRegional cup best      = '''Champions''' ([[1963 Arab Cup|1963]])
+| 3rdRegional cup apps      = 4
+| 3rdRegional cup first     = [[1963 Arab Cup|1963]]
+| Confederations cup apps   = 1
+| Confederations cup first  = [[2005 FIFA Confederations Cup|2005]]
+| Confederations cup best   = Group stage ([[2005 FIFA Confederations Cup|2005]])
+| website                   = {{url|ftf.org.tn}} (in French)
+| medaltemplates            = {{MedalSport|Men's [[Association football|Football]]}}
+{{MedalCompetition|[[Africa Cup of Nations]]}}
+{{MedalGold|[[2004 African Cup of Nations|2004 Tunisia]]|[[2004 African Cup of Nations squads#Tunisia|Team]]}}
+{{MedalSilver|[[1965 African Cup of Nations|1965 Tunisia]]|[[1965 African Cup of Nations squads#Tunisia|Team]]}}
+{{MedalSilver|[[1996 African Cup of Nations|1996 South Africa]]|[[1996 African Cup of Nations squads#Tunisia|Team]]}}
+{{MedalBronze|[[1962 African Cup of Nations|1962 Ethiopia]]|[[1962 African Cup of Nations squads#Tunisia|Team]]}}
+{{MedalCompetition|[[African Nations Championship]]}}
+{{MedalGold|[[2011 African Nations Championship|2011 Sudan]]|[[2011 African Nations Championship squads#Tunisia|Team]]}}
+{{MedalCompetition|[[Football at the African Games|African Games]]}}
+{{MedalSilver|[[Football at the 1991 All-Africa Games|1991 Cairo]]|[[Football at the 1991 All-Africa Games – Men's team squads#Tunisia|Team]]}}
+{{MedalBronze|[[Football at the 2007 All-Africa Games – Men's tournament|2007 Algiers]]|[[Football at the 2007 All-Africa Games – Men's team squads#Tunisia|Team]]}}
+{{MedalCompetition|[[FIFA Arab Cup|Arab Cup]]}}
+{{MedalGold|[[1963 Arab Cup|1963 Lebanon]]|[[1963 Arab Cup squads#Tunisia|Team]]}}
+{{MedalSilver|[[2021 FIFA Arab Cup|2021 Qatar]]|[[2021 FIFA Arab Cup squads#Tunisia|Team]]}}
+{{MedalCompetition|[[Palestine Cup of Nations]]}}
+{{MedalGold|[[1973 Palestine Cup of Nations|1973 Libya]]|[[1973 Palestine Cup of Nations squads#Tunisia|Team]]}}
+{{MedalCompetition|[[Football at the Arab Games|Arab Games]]}}
+{{MedalSilver|[[Football at the 1957 Arab Games|1957 Lebanon]]|[[Team]]}}
+{{MedalCompetition|[[Football at the Mediterranean Games|Mediterranean Games]]}}
+{{MedalGold|[[Football at the 2001 Mediterranean Games|2001 Tunis]]|[[Football at the 2001 Mediterranean Games – Men's team squads#Tunisia|Team]]}}
+{{MedalSilver|[[Football at the 1971 Mediterranean Games|1971 Izmir]]|[[Football at the 1971 Mediterranean Games – Men's team squads#Tunisia|Team]]}}
+{{MedalBronze|[[Football at the 1975 Mediterranean Games|1975 Alger]]|[[Football at the 1975 Mediterranean Games – Men's team squads#Tunisia|Team]]}}
+{{MedalBronze|[[Football at the 2013 Mediterranean Games|2013 Mersin]]|[[Football at the 2013 Mediterranean Games – Men's team squads#Tunisia|Team]]}}
+}}
+
+The '''Tunisia national football team''', represents [[Tunisia]] in men's international [[association football]] competitions, and is controlled by the [[Tunisian Football Federation]] (TFF). The team competes under the [[Confederation of African Football]] (CAF) on the continental level, and is affiliated with [[FIFA]] for global competitions. Additionally, the team is a member of the [[UNAF|Union of North African Football]] (UNAF) and the [[Union of Arab Football Associations]] (UAFA). The team is colloquially known as ''Eagles of [[Carthage]]'' by fans and the media, with the [[bald eagle]] serving as its symbol.<ref>{{Cite web |title="Carthage Eagles" home glory |url=https://www.cafonline.com/total-africa-cup-of-nations/news/carthage-eagles-home-glory |access-date=19 April 2022 |website=CAF |language=en}}</ref> Their home kit is primarily white and their away kit is red, which is a reference to the [[Flag of Tunisia|national flag]] of the country. The team has qualified for the [[FIFA World Cup]] seven times and the [[Africa Cup of Nations]] 22 times, and has appeared in four editions of [[Football at the Summer Olympics|Summer Olympics]] and participated once in the [[FIFA Confederations Cup|FIFA Confederation Cup]]. Since 2001, Tunisia's home stadium is the [[Hammadi Agrebi Stadium]] in [[Radès]], Tunis.
+
+Tunisia's first match after independence was against [[Libya national football team|Libya]], which they won 4–2. The team qualified for the FIFA World Cup for the first time in [[1978 FIFA World Cup|1978]] as the only representative of the continent, and became the first African and Arab team to win a World Cup match by beating [[Mexico national football team|Mexico]] [[1978 FIFA World Cup Group 2#Tunisia vs Mexico|3–1]] in the first game. Tunisia holds the most consecutive appearances in the Africa Cup of Nations, with 17, qualifying for every tournament between [[1994 African Cup of Nations|1994]] and [[2025 Africa Cup of Nations|2025]]. By winning the [[2004 African Cup of Nations]], they qualified for the [[2005 FIFA Confederations Cup]] and was eliminated in the group stage. The team qualified twice for the [[African Nations Championship]], winning the title in their first appearance in [[2011 African Nations Championship|2011]], while also competing in the [[FIFA Arab Cup]] three times, winning the title in the inaugural edition in [[1963 Arab Cup|1963]] and finishing second in [[2021 FIFA Arab Cup|2021]]. [[Radhi Jaïdi]], with 105 international matches, holds the record for the number of matches played for Tunisia while [[Issam Jemâa]], with [[List of international goals scored by Issam Jemâa|36 goals]], is their all-time highest scorer. Their highest-ever [[FIFA Men's World Ranking]] was 14th in April and May 2018, while their lowest rank was 65th in July 2010.<ref>{{Cite web |date=12 April 2018 |title=Classement mondial FIFA: L'équipe de Tunisie est classée 14ème mondiale réalisant le meilleur classement de son histoire. |trans-title=FIFA World Ranking: Tunisia team ranked 14th in the world, achieving the best ranking in its history |url=https://www.ftf.org.tn/fr/classement-mondial-fifa-lequipe-de-tunisie-est-classee-14eme-mondiale-realisant-le-meilleur-classement-de-son-histoire/ |access-date=19 September 2024 |website=[[Tunisian Football Federation]] |language=fr-FR}}</ref> 
+
+On 13 October 2025, Tunisia became the first team in history to qualify for the World Cup without conceding a goal, during the [[2026 FIFA World Cup qualification – CAF Group H|2026 World Cup qualifying]] campaign.{{fact|date=June 2026}}

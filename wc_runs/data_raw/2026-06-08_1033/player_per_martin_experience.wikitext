@@ -1,0 +1,192 @@
+{{short description|Haitian footballer (born 1999)}}
+{{Use dmy dates|date=February 2020}}
+{{Infobox football biography
+| name           = Martin Expérience
+| image          = 
+| full_name      = Martin Yves Experiénce
+| birth_date     = {{birth date and age|df=yes|1999|3|9}}
+| birth_place    = [[Châteaubriant]], France
+| height         = 1.78 m
+| position       = [[Left-back]]
+| currentclub    = [[AS Nancy Lorraine|Nancy]]
+| clubnumber     = 19
+| youthyears1    = 2017–2018
+| youthclubs1    = [[Xerez CD|Xerez]]
+| years1         = 2018–2020
+| clubs1         = [[US Changé|Changé]]
+| caps1          = 18
+| goals1         = 0
+| years2         = 2020
+| clubs2         = [[US Avranches|Avranches II]]
+| caps2          = 3
+| goals2         = 2
+| years3         = 2020–2022 | clubs3 = [[US Avranches|Avranches]]    | caps3 = 29 | goals3 = 1
+| years4         = 2022–2024 | clubs4 = [[SO Cholet|Cholet]]          | caps4 = 54 | goals4 = 3
+| years5         = 2024–     | clubs5 = [[AS Nancy Lorraine|Nancy]]   | caps5 = 50 | goals5 = 1
+| totalcaps      = 
+| totalgoals     = 
+| nationalyears1 = 2021
+| nationalteam1  = [[Haiti national under-23 football team|Haiti U23]]
+| nationalcaps1  = 1
+| nationalgoals1 = 0
+| nationalyears2 = 2021–
+| nationalteam2  = [[Haiti national football team|Haiti]]
+| nationalcaps2  = 20
+| nationalgoals2 = 0
+| medaltemplates = 
+| pcupdate       = 12 May 2026
+| ntupdate       = 21:45, 2 June 2026 (UTC)
+}}
+
+'''Martin Yves Expérience''' (born 9 March 1999) is a professional [[association football|footballer]] who plays as a [[left-back]] for French {{French football updater|Nancy}} club [[AS Nancy Lorraine|Nancy]]. Born in France, he plays for the [[Haiti national football team|Haiti national team]].
+
+==Club career==
+A youth product of [[Xerez CD|Xerez]], Expérience began his senior career with [[US Changé|Changé]] in 2018. After a couple of seasons there, he moved to [[US Avranches|Avranches]] in 2020.<ref>{{Cite web|url=https://saint-lo.maville.com/actu/actudet_-us-avranches.-martin-experience-a-l-heure-de-la-renaissance_fil-4252324_actu.Htm|title=US Avranches. Martin Expérience, à l'heure de la renaissance|website=saint-lo.maville.com}}</ref> In June 2022, he signed with [[SO Cholet|Cholet]].<ref>{{cite web|publisher=Cholet|url=https://www.socholet.fr/actualites/martin-experience-avranches-signe-a-cholet/|title=MARTIN EXPÉRIENCE (AVRANCHES) SIGNE À CHOLET|access-date=13 July 2022|language=fr}}</ref>
+
+On 31 May 2024, Expérience joined Championnat National club [[AS Nancy Lorraine|Nancy]].<ref>{{cite web|url=https://www.asnl.net/58/actualites/actualites/fiche/29899|trans-title=Martin Expérience joins AS Nancy-Lorraine 🖋️🔴⚪️|title=Martin Expérience rejoint l'AS Nancy-Lorraine 🖋️🔴⚪️|language=French|website=www.asnl.net|date=31 May 2024|accessdate=1 June 2024}}</ref>
+
+==International career==
+Expérience debuted with the [[Haiti national football team|Haiti national team]] in a 6–1 [[2021 CONCACAF Gold Cup qualification]] win over [[Saint Vincent and the Grenadines national football team|Saint Vincent and the Grenadines]] on 2 July 2021.<ref>{{Cite web|url=https://www.concacaf.com/en/gold-cup/game-details?matchid=568629|title=Game Details|date=11 March 2021|website=Gold Cup}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 25 April 2026}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|Cup
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="3"|[[US Changé|Changé]]
+|[[2018–19 Championnat National 3|2018–19]]
+|[[Championnat National 3|National 3]]
+|1||0||colspan="2"|—||colspan="2"|—||1||0
+|-
+|[[2019–20 Championnat National 3|2019–20]]
+|National 3
+|17||0||colspan="2"|—||colspan="2"|—||17||0
+|-
+!colspan="2"|Total
+!18!!0!!colspan="2"|—!!colspan="2"|—!!18!!0
+|-
+|[[US Avranches|Avranches II]]
+|[[2020–21 Championnat National 3|2020–21]]
+|National 3
+|3||2||colspan="2"|—||colspan="2"|—||3||2
+|-
+|rowspan="3"|[[US Avranches|Avranches]]
+|[[2020–21 Championnat National|2020–21]]
+|[[Ligue 3]]
+|17||1||0||0||colspan="2"|—||17||1
+|-
+|[[2021–22 Championnat National|2021–22]]
+|Ligue 3
+|12||0||1||0||colspan="2"|—||13||0
+|-
+!colspan="2"|Total
+!29!!1!!1!!0!!colspan="2"|—!!30!!1
+|-
+|rowspan="3"|[[SO Cholet|Cholet]]
+|[[2022–23 Championnat National|2022–23]]
+|Ligue 3
+|31||1||3||0||colspan="2"|—||34||1
+|-
+|[[2023–24 Championnat National|2023–24]]
+|Ligue 3
+|23||2||1||0||colspan="2"|—||24||2
+|-
+!colspan="2"|Total
+!54!!3!!4!!0!!colspan="2"|—!!58!!3
+|-
+|rowspan="3"|[[AS Nancy Lorraine|Nancy]]
+|[[2024–25 Championnat National|2024–25]]
+|Ligue 3
+|29||0||colspan="2"|—||colspan="2"|—||29||0
+|-
+|[[2025–26 Ligue 2|2025–26]]
+|[[Ligue 2]]
+|20||1||3||0||colspan="2"|—||23||1
+|-
+!colspan="2"|Total
+!48!!1!!3!!0!!colspan="2"|—!!51!!1
+|-
+!colspan="3"|Career total
+!140!!7!!7!!0!!0!!0!!147!!7
+|}
+
+===International===
+{{updated|match played 2 June 2026}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="5"|[[Haiti national football team|Haiti]]
+|2021||4||0
+|-
+|2023||1||0
+|-
+|2024||4||0
+|-
+|2025||8||0
+|-
+|2026||3||0
+|-
+!colspan="2"|Total!!20!!0
+|}
+
+== Honours ==
+'''Nancy'''
+
+* [[Championnat National]]: [[2024–25 Championnat National|2024–25]]<ref>{{Cite web |last1=Jacquot |first1=Romain |date=11 May 2025 |title=Une AS Nancy Lorraine impressionnante à plus d'un titre ! |url=https://www.estrepublicain.fr/sport/2025/05/11/une-as-nancy-lorraine-impressionnante-a-plus-d-un-titre |access-date=11 May 2025 |website=[[L'Est Républicain]] |language=fr}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Soccerway|martin-experience/539974}}
+* {{LaPreferente|236719}}
+
+{{AS Nancy Lorraine squad}}
+{{Navboxes
+| title = Haiti squads
+| bg        = #00209F
+| fg        = white
+| bordercolor = #D21034
+| list1 = 
+{{Haiti squad 2021 CONCACAF Gold Cup}}
+{{Haiti squad 2025 CONCACAF Gold Cup}}
+{{Haiti squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Experience, Martin}}
+[[Category:1998 births]]
+[[Category:Living people]]
+[[Category:People from Châteaubriant]]
+[[Category:French sportspeople of Haitian descent]]
+[[Category:Haitian men's footballers]]
+[[Category:French men's footballers]]
+[[Category:Footballers from Loire-Atlantique]]
+[[Category:Haiti men's international footballers]]
+[[Category:Haiti men's youth international footballers]]
+[[Category:Men's association football full-backs]]
+[[Category:2021 CONCACAF Gold Cup players]]
+[[Category:2025 CONCACAF Gold Cup players]]
+[[Category:Ligue 2 players]]
+[[Category:Ligue 3 players]]
+[[Category:Championnat National 3 players]]
+[[Category:US Avranches players]]
+[[Category:SO Cholet players]]
+[[Category:AS Nancy Lorraine players]]
+[[Category:21st-century French sportsmen]]
+[[Category:21st-century Haitian sportsmen]]
+[[Category:2026 FIFA World Cup players]]
+
+{{Haiti-footy-bio-stub}}

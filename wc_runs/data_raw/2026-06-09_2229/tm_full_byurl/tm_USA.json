@@ -1,0 +1,148 @@
+[
+ {
+  "player_id": "503770",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/503770",
+  "name": "FolarinBalogun",
+  "shirt_number": 9,
+  "club": "Joined:",
+  "club_id": "162",
+  "market_value": "€40.00m",
+  "market_value_numeric": 40000000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Outfitter:",
+  "nationality": "France",
+  "citizenships": [
+   "France",
+   "United States",
+   "United States",
+   "United States",
+   "United States",
+   "United States",
+   "England"
+  ],
+  "market_value_history": [
+   {
+    "date": "Dec 17, 2020",
+    "value": "€4.00m",
+    "value_numeric": 4000000,
+    "club": "Arsenal FC U23",
+    "age": "19"
+   },
+   {
+    "date": "Dec 23, 2021",
+    "value": "€4.00m",
+    "value_numeric": 4000000,
+    "club": "Arsenal FC U23",
+    "age": "20"
+   },
+   {
+    "date": "May 13, 2022",
+    "value": "€4.00m",
+    "value_numeric": 4000000,
+    "club": "Middlesbrough FC",
+    "age": "20"
+   },
+   {
+    "date": "Sep 19, 2022",
+    "value": "€7.00m",
+    "value_numeric": 7000000,
+    "club": "Stade Reims",
+    "age": "21"
+   },
+   {
+    "date": "Nov 2, 2022",
+    "value": "€14.00m",
+    "value_numeric": 14000000,
+    "club": "Stade Reims",
+    "age": "21"
+   },
+   {
+    "date": "Mar 27, 2023",
+    "value": "€25.00m",
+    "value_numeric": 25000000,
+    "club": "Stade Reims",
+    "age": "21"
+   },
+   {
+    "date": "Jun 27, 2023",
+    "value": "€30.00m",
+    "value_numeric": 30000000,
+    "club": "Stade Reims",
+    "age": "21"
+   },
+   {
+    "date": "Dec 18, 2023",
+    "value": "€30.00m",
+    "value_numeric": 30000000,
+    "club": "AS Monaco",
+    "age": "22"
+   },
+   {
+    "date": "Jun 3, 2024",
+    "value": "€30.00m",
+    "value_numeric": 30000000,
+    "club": "AS Monaco",
+    "age": "22"
+   },
+   {
+    "date": "Oct 7, 2024",
+    "value": "€25.00m",
+    "value_numeric": 25000000,
+    "club": "AS Monaco",
+    "age": "23"
+   },
+   {
+    "date": "Dec 10, 2024",
+    "value": "€25.00m",
+    "value_numeric": 25000000,
+    "club": "AS Monaco",
+    "age": "23"
+   },
+   {
+    "date": "Mar 24, 2025",
+    "value": "€20.00m",
+    "value_numeric": 20000000,
+    "club": "AS Monaco",
+    "age": "23"
+   },
+   {
+    "date": "Jun 3, 2025",
+    "value": "€18.00m",
+    "value_numeric": 18000000,
+    "club": "AS Monaco",
+    "age": "23"
+   },
+   {
+    "date": "Dec 15, 2025",
+    "value": "€22.00m",
+    "value_numeric": 22000000,
+    "club": "AS Monaco",
+    "age": "24"
+   },
+   {
+    "date": "Mar 27, 2026",
+    "value": "€30.00m",
+    "value_numeric": 30000000,
+    "club": "AS Monaco",
+    "age": "24"
+   },
+   {
+    "date": "Jun 1, 2026",
+    "value": "€40.00m",
+    "value_numeric": 40000000,
+    "club": "AS Monaco",
+    "age": "24"
+   }
+  ],
+  "peak_market_value": 40000000,
+  "transfers": [],
+  "_our_pid": "per_folarin_balogun"
+ }
+]

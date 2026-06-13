@@ -1,0 +1,67 @@
+{{short description|South African soccer player}}
+{{Use dmy dates|date=April 2022}}
+{{Infobox football biography
+|name           = Nkosinathi Sibisi
+|image          = 
+|fullname       = Nkosinathi Emmanuel Sibisi<ref>{{cite web |title=Squad List FIFA World Cup 2026 |url=https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf |website=[[FIFA]] |access-date=3 June 2026}}</ref>
+|birth_date     = {{birth date and age|1995|09|22|df=y}}
+|birth_place    = [[Durban]], South Africa
+|height         = 1.77 m
+|position       = [[Defender (association football)|Defender]]
+|currentclub    = [[Orlando Pirates F.C.|Orlando Pirates]]
+|clubnumber     = 5
+|years1         = 2015–2022
+|clubs1         = [[Lamontville Golden Arrows F.C.|Lamontville Golden Arrows]]
+|caps1          = 100
+|goals1         = 3
+|years2         = 2022–
+|clubs2         = [[Orlando Pirates F.C.|Orlando Pirates]]
+|caps2          = 73
+|goals2         = 3
+| nationalyears1 = 2021– | nationalteam1 = [[South Africa national soccer team|South Africa]] | nationalcaps1 = 12 | nationalgoals1 = 0
+|club-update    = 3 January 2026
+|nationalteam-update = 13 October 2023
+}}
+'''Nkosinathi Emmanuel Sibisi''' (born 22 September 1995) is a South African [[Association football|soccer]] player who plays as a [[Defender (association football)|defender]] for [[South African Premier Division]] side [[Orlando Pirates F.C.|Orlando Pirates]], who is currently their club captain, and the [[South Africa national soccer team|South Africa national team]].<ref>{{Soccerway|nkosinathi-sibisi/441795|accessdate=9 July 2023}}</ref><ref>{{Cite web |url=http://www.goldenarrowsfc.com/1st-team/nkosinathi-sibisi/ |title=Nkosinathi Sibisi |access-date=31 July 2020 |publisher=Orlando Pirates F.C. }}</ref>
+
+==International career==
+He made his debut for [[South Africa national soccer team]] on 10 June 2021 in a friendly against [[Uganda national football team|Uganda]].<ref>{{cite web|publisher=[[ESPN]]|url=https://www.espn.com/soccer/lineups?gameId=602891|title=South Africa v Uganda game report|date=10 June 2021|accessdate=11 August 2021}}</ref> In 2022, he appeared in three international friendlies.<ref>{{NFT player|82955}}</ref> On the 10th of February 2024 he won AFCON 23 bronze medal with his national team South Africa
+
+On 1 December 2025, Sibisi was called up to the South Africa squad for the [[2025 Africa Cup of Nations]].<ref>{{cite web|url=https://www.cafonline.com/afcon2025/news/totalenergies-afcon-morocco-2025-fever-rises-as-broos-become-first-coach-to-unveil-final-squad/|title=TotalEnergies AFCON Morocco 2025 fever rises as Broos become first coach to unveil final squad|publisher=[[Confederation of African Football]]|date=1 December 2025|access-date=12 December 2025}}</ref>
+
+== Honours ==
+'''South Africa'''
+
+* [[Africa Cup of Nations]] third place: [[2023 Africa Cup of Nations|2023]]<ref>{{Cite web |last=Edwards |first=Piers |date=10 February 2024 |title=South Africa 0–0 DR Congo |url=https://www.bbc.com/sport/football/68190249 |url-status=live |archive-url=https://web.archive.org/web/20240212015031/https://www.bbc.com/sport/football/68190249 |archive-date=12 February 2024 |access-date=12 February 2024 |website=BBC Sport |publisher=}}</ref>
+
+==References==
+{{reflist}}
+
+{{Orlando Pirates F.C. squad}}
+{{Navboxes
+| title = South Africa squads
+| bg        = #FFB81C
+| fg        = #007749
+| bordercolor = #007749
+| list =
+{{South Africa squad 2023 Africa Cup of Nations}}
+{{South Africa squad 2025 Africa Cup of Nations}}
+{{South Africa squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Sibisi, Nkosinathi}}
+[[Category:Living people]]
+[[Category:1995 births]]
+[[Category:Soccer players from Durban]]
+[[Category:South African men's soccer players]]
+[[Category:Men's association football defenders]]
+[[Category:Lamontville Golden Arrows F.C. players]]
+[[Category:Orlando Pirates F.C. players]]
+[[Category:South African Premier Division players]]
+[[Category:South Africa men's international soccer players]]
+[[Category:2023 Africa Cup of Nations players]]
+[[Category:2025 Africa Cup of Nations players]]
+[[Category:21st-century South African sportsmen]]
+[[Category:2026 FIFA World Cup players]]
+
+{{SouthAfrica-footy-defender-stub}}

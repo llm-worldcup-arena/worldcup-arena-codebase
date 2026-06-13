@@ -1,0 +1,35 @@
+===Current squad===
+The following 26 players were called up for the [[2026 FIFA World Cup]].<ref>{{cite web|title=Khusanov named in Uzbekistan's World Cup squad|url=https://www.bbc.com/sport/football/articles/c5yenm7xllyo|website=BBC.com|date=2 June 2026|access-date=2 June 2026}}</ref>
+<br>''Caps and goals correct as of 1 June 2026, after the match against [[Canada men's national soccer team|Canada]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Utkir Yusupov]]|age={{bda|1991|1|4|df=y}}|caps=39|goals=0|club=[[PFC Navbahor Namangan|Navbahor Namangan]]|clubnat=UZB}}
+{{nat fs g player|no=12|pos=GK|name=[[Abduvohid Nematov]]|age={{bda|2001|3|20|df=y}}|caps=8|goals=0|club=[[FC Nasaf|Nasaf]]|clubnat=UZB}}
+{{nat fs g player|no=16|pos=GK|name=[[Botirali Ergashev]]|age={{bda|1995|6|23|df=y}}|caps=2|goals=0|club=[[FC Neftchi Fergana|Neftchi Fergana]]|clubnat=UZB}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Abdukodir Khusanov]]|age={{bda|2004|2|29|df=y}}|caps=26|goals=0|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs g player|no=3|pos=DF|name=[[Khojiakbar Alijonov]]|age={{bda|1997|4|19|df=y}}|caps=40|goals=2|club=[[Pakhtakor FC|Pakhtakor]]|clubnat=UZB}}
+{{nat fs g player|no=4|pos=DF|name=[[Farrukh Sayfiev]]|age={{bda|1991|1|17|df=y}}|caps=45|goals=1|club=[[FC Neftchi Fergana|Neftchi Fergana]]|clubnat=UZB}}
+{{nat fs g player|no=5|pos=DF|name=[[Rustam Ashurmatov]]|age={{bda|1996|7|7|df=y}}|caps=48|goals=1|club=[[Esteghlal F.C.|Esteghlal]]|clubnat=IRN}}
+{{nat fs g player|no=13|pos=DF|name=[[Sherzod Nasrullaev]]|age={{bda|1998|7|23|df=y}}|caps=30|goals=2|club=[[Pakhtakor FC|Pakhtakor]]|clubnat=UZB}}
+{{nat fs g player|no=15|pos=DF|name=[[Umar Eshmurodov]]|age={{bda|1992|11|30|df=y}}|caps=29|goals=0|club=[[FC Nasaf|Nasaf]]|clubnat=UZB}}
+{{nat fs g player|no=18|pos=DF|name=[[Abdulla Abdullaev]]|age={{bda|1997|9|1|df=y}}|caps=17|goals=0|club=[[Dibba FC|Dibba]]|clubnat=UAE}}
+{{nat fs g player|no=24|pos=DF|name=[[Bekhruz Karimov]]|age={{bda|2007|7|8|df=y}}|caps=2|goals=0|club=[[FC Surkhon|Surkhon Termiz]]|clubnat=UZB}}
+{{nat fs g player|no=25|pos=DF|name=[[Avazbek Ulmasaliev]]|age={{bda|2000|3|27|df=y}}|caps=0|goals=0|club=[[FC AGMK|AGMK]]|clubnat=UZB}}
+{{nat fs g player|no=26|pos=DF|name=[[Jakhongir Urozov]]|age={{bda|2004|1|18|df=y}}|caps=3|goals=0|club=[[FC Dinamo Samarqand|Dinamo Samarqand]]|clubnat=UZB}}
+{{nat fs break}}
+{{nat fs g player|no=6|pos=MF|name=[[Akmal Mozgovoy]]|age={{bda|1999|4|2|df=y}}|caps=24|goals=1|club=[[Pakhtakor FC|Pakhtakor]]|clubnat=UZB}}
+{{nat fs g player|no=7|pos=MF|name=[[Otabek Shukurov]]|age={{bda|1996|6|22|df=y}}|caps=83|goals=9|club=[[Baniyas Club|Baniyas]]|clubnat=UAE}}
+{{nat fs g player|no=8|pos=MF|name=[[Jamshid Iskanderov]]|age={{bda|1993|10|16|df=y}}|caps=37|goals=4|club=[[FC Neftchi Fergana|Neftchi Fergana]]|clubnat=UZB}}
+{{nat fs g player|no=9|pos=MF|name=[[Odiljon Hamrobekov]]|age={{bda|1996|2|13|df=y}}|caps=72|goals=1|club=[[Tractor S.C.|Tractor]]|clubnat=IRN}}
+{{nat fs g player|no=10|pos=MF|name=[[Jaloliddin Masharipov]]|age={{bda|1993|9|1|df=y}}|caps=74|goals=12|club=[[Esteghlal F.C.|Esteghlal]]|clubnat=IRN}}
+{{nat fs g player|no=11|pos=MF|name=[[Oston Urunov]]|age={{bda|2000|12|19|df=y}}|caps=41|goals=10|club=[[Persepolis F.C.|Persepolis]]|clubnat=IRN}}
+{{nat fs g player|no=17|pos=MF|name=[[Dostonbek Khamdamov]]|age={{bda|1996|7|24|df=y}}|caps=33|goals=5|club=[[Pakhtakor FC|Pakhtakor]]|clubnat=UZB}}
+{{nat fs g player|no=19|pos=MF|name=[[Azizjon Ganiev]]|age={{bda|1998|2|22|df=y}}|caps=19|goals=0|club=[[Al Bataeh Club|Al Bataeh]]|clubnat=UAE}}
+{{nat fs g player|no=22|pos=MF|name=[[Abbosbek Fayzullaev]]|age={{bda|2003|10|3|df=y}}|caps=31|goals=8|club=[[İstanbul Başakşehir F.K.|İstanbul Başakşehir]]|clubnat=TUR}}
+{{nat fs g player|no=23|pos=MF|name=[[Sherzod Esanov]]|age={{bda|2003|2|1|df=y}}|caps=1|goals=0|club=[[FC Bukhara|Bukhara]]|clubnat=UZB}}
+{{nat fs break}}
+{{nat fs g player|no=14|pos=FW|name=[[Eldor Shomurodov]]|other=[[Captain (association football)|captain]]|age={{bda|1995|6|29|df=y}}|caps=91|goals=44|club=[[İstanbul Başakşehir F.K.|İstanbul Başakşehir]]|clubnat=TUR}}
+{{nat fs g player|no=20|pos=FW|name=[[Azizbek Amonov]]|age={{bda|1997|10|30|df=y}}|caps=12|goals=2|club=[[FC Dinamo Samarqand|Dinamo Samarqand]]|clubnat=UZB}}
+{{nat fs g player|no=21|pos=FW|name=[[Igor Sergeev]]|age={{bda|1993|4|30|df=y}}|caps=82|goals=24|club=[[Persepolis F.C.|Persepolis]]|clubnat=IRN}}
+{{nat fs end}}

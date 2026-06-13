@@ -1,0 +1,215 @@
+{{Short description|Uzbekistani footballer (born 1996)}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+| name = Odiljon Hamrobekov
+| fullname = Odiljon Hamrobekov
+| image = Odiljon Hamrobekov 2020.jpg
+| birth_date = {{birth date and age|1996|02|13|df=yes}}
+| birth_place = Shorqorgon, [[Namangan Region]], [[Uzbekistan]]
+| height = 1.78 m
+| currentclub = [[Tractor S.C.]]
+| clubnumber = 21
+| position = [[Midfielder]]
+| years1 = 2013–2018
+| clubs1 = [[FC Nasaf|Nasaf]]
+| caps1 = 70
+| goals1 = 2
+| years2 = 2019–2020
+| clubs2 = [[Pakhtakor Tashkent FK|Pakhtakor]]
+| caps2 = 41
+| goals2 = 0
+| years3 = 2021
+| clubs3 = [[Shabab Al-Ahli Club|Shabab Al-Ahli]]
+| caps3 = 8
+| goals3 = 0
+| years4 = 2021–2023
+| clubs4 = [[Pakhtakor Tashkent FK|Pakhtakor]]
+| caps4 = 56
+| goals4 = 1
+| years5 = 2024
+| clubs5 = [[PFC Navbahor Namangan|Navbahor]]
+| caps5 = 23
+| goals5 = 1
+| years6 = 2025
+| clubs6 = [[Bunyodkor]]
+| caps6 = 15
+| goals6 = 0
+| years7 = 2025–
+| clubs7 = [[Tractor S.C.|Tractor]]
+| caps7 = 19
+| goals7 = 0
+| nationalyears1 = 2013
+| nationalteam1 = [[Uzbekistan national under-17 football team|Uzbekistan U-17]]
+| nationalcaps1 = 4
+| nationalgoals1 = 0
+| nationalyears2 = 2014–2015
+| nationalteam2 = [[Uzbekistan national under-19 football team|Uzbekistan U-19]]
+| nationalcaps2 = 7
+| nationalgoals2 = 0
+| nationalyears3 = 2017–2018
+| nationalteam3 = [[Uzbekistan national under-23 football team|Uzbekistan U-23]]
+| nationalcaps3 = 14
+| nationalgoals3 = 0
+| nationalyears4 = 2017–
+| nationalteam4 = [[Uzbekistan national football team|Uzbekistan]]
+| nationalcaps4 = 71
+| nationalgoals4 = 1
+| medaltemplates = {{MedalCountry|{{UZB}}}}
+{{MedalSport|Men's [[Association football|football]]}}
+{{Medal|Competition|[[AFC U-23 Championship]]}}
+{{Medal|W|[[2018 AFC U-23 Championship|China 2018]]|[[2018 AFC U-23 Championship squads#Uzbekistan|Team]]}}
+{{Medal|Competition|[[CAFA Nations Cup]]}}
+{{Medal|RU|[[2023 CAFA Nations Cup|2023 Kyrgyzstan–Uzbekistan]]|[[2023 CAFA Nations Cup squads#Uzbekistan|Team]]}}
+{{Medal|W|[[2025 CAFA Nations Cup|2025 Tajikistan–Uzbekistan]]|[[2025 CAFA Nations Cup squads#Uzbekistan|Team]]}}
+| pcupdate = 1 March 2026
+| ntupdate = 27 March 2026
+}}
+
+'''Odiljon Hamrobekov''' (born 13 February 1996) is an Uzbek professional [[football (soccer)|footballer]] who plays as a [[midfielder]] for [[Tractor S.C.|Tractor]] and the [[Uzbekistan national football team|Uzbekistan national team]].<ref name="Soccerway">{{Soccerway|odiljon-khamrobekov/289109}}</ref>
+
+==Career==
+===Club===
+On 23 July 2021, Hamrobekov returned to [[Pakhtakor Tashkent FK|Pakhtakor Tashkent]], signing a contract until the end of 2022.Currently playing for Bunyodkor FC, another team from the capital city.<ref>{{cite web |title=ОДИЛ ҲАМРОБЕКОВ "ПАХТАКОР"ГА ҚАЙТДИ |url=http://www.pakhtakor.uz/news/cnews/5651 |website=pakhtakor.uz/ |publisher=Pakhtakor Tashkent FK |access-date=23 July 2021 |language=Uzbek |date=23 July 2021}}</ref>
+
+===International===
+Hamrobekov made his international debut for [[Uzbekistan national football team|Uzbekistan]] on 14 November 2017, during a friendly match against [[United Arab Emirates national football team|United Arab Emirates]].<ref>[https://www.national-football-teams.com/matches/report/18516/United_Arab_Emirates_Uzbekistan.html UAE 1–0 Uzbekistan]</ref>
+
+==Career statistics==
+
+===Club===
+{{updated|match played 6 March 2021}}<ref name="Soccerway"/>
+{| class="wikitable" style="text-align: center;"
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National Cup
+!colspan="2"|League Cup
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="3" valign="center"|[[Pakhtakor Tashkent FK|Pakhtakor Tashkent]]
+|[[2019 Uzbekistan Super League|2019]]
+|rowspan="2" valign="center"|[[Uzbekistan Super League]]
+|20||0||4||0||1||1||7||0||colspan="2"|–||32||0
+|-
+|[[2020 Uzbekistan Super League|2020]]
+|21||0||4||0||colspan="2"|–||8||0||colspan="2"|–||33||0
+|-
+!colspan="2"|Total
+!41!!0!!8!!0!!1!!1!!15!!0!!-!!-!!65!!1
+|-
+|rowspan="1" valign="center"|[[Shabab Al Ahli Club|Shabab Al Ahli]]
+|[[2020–21 UAE Pro League|2020–21]]
+|rowspan="1" valign="center"|[[UAE Pro League]]
+|8||0||0||0||0||0||colspan="2"|–||colspan="2"|–||8||0
+|-
+!colspan="3"|Career total
+!49!!0!!8!!0!!1!!1!!15!!0!!-!!-!!73!!1
+|}
+
+===International===
+{| class="wikitable" style="text-align:center"
+|-
+!colspan=3|[[Uzbekistan national football team|Uzbekistan national team]]
+|-
+!Year!!Apps!!Goals
+|-
+|2017||1||0
+|-
+|2018||8||0
+|-
+|2019||8||0
+|-
+|2020||1||0
+|-
+|2021||7||0
+|-
+|2022||9||0
+|-
+|2023||12||0
+|-
+|2024||5||1
+|-
+!Total||51||1
+|}
+''Statistics accurate as of match played 3 February 2024''<ref>{{NFT player|id=69358|accessdate=}}</ref>
+
+{| class="wikitable plainrowheaders sortable"
+|-
+!No.!!Date!!Venue!!Opponent!!Score!!Result!!Competition
+|-
+| 1. || 3 February 2024 || [[Al Bayt Stadium]], [[Al Khor (city)|Al Khor]], Qatar || {{fb|QAT}} || align=center | '''1'''–1 || align=center | 1–1 || [[2023 AFC Asian Cup knockout stage|2023 AFC Asian Cup]]
+|}
+
+==Honours==
+===Club===
+;Nasaf
+* [[Uzbekistan Super League]] runner-up (1): 2017
+* [[Uzbekistan Cup]] (1): 2015
+* [[Uzbekistan Cup]] runner-up (2): 2013, 2016
+* [[Uzbekistan Super Cup]] (1): 2016
+;Pakhtakor
+[[Uzbekistan Super League]]: 2019, 2020, 2021, 2022
+;Shabab Al-Ahli
+*[[UAE League Cup]]: [[2020–21 UAE League Cup|2020–21]]
+*[[UAE President's Cup]]: [[2020–21 UAE President's Cup|2020–21]]<ref>{{cite web |title=Cartabia penalties help Shabab Al Ahli Dubai to UAE President's Cup success|date=17 May 2021 |url=https://gulfnews.com/sport/football/cartabia-penalties-help-shabab-al-ahli-dubai-to-uae-presidents-cup-success-1.79253036}}</ref>
+'''Tractor'''
+*[[Iranian Super Cup]]: [[2025 Iranian Super Cup|2025]]<ref>{{Cite news |date=2025-08-11 |title=Tractor win 2025 Iran’s Super Cup |publisher=[[Tehran Times]] |url=https://www.tehrantimes.com/news/516714 |access-date=2025-08-11}}</ref><ref>{{Cite news |date=2025-08-11 |title=استقلال 1 - 2 تراکتور: اولین جام فصل با کامبک رویایی |language=fa |trans-title=first cup of season |publisher=[[Varzesh 3]] |url=https://www.varzesh3.com/news/2144099 |access-date=2025-08-11}}</ref>
+
+===International===
+* [[AFC U-23 Championship]]: [[2018 AFC U-23 Championship|2018]]
+
+===Individual===
+* [[AFC U-23 Championship]] Most Valuable Player: [[2018 AFC U-23 Championship|2018]]<ref>{{cite web|url=http://www.the-afc.com/competitions/afc-u-23-championship/latest/news/xamrobekov-dedicates-award-to-squad-fans|title=Xamrobekov dedicates award to squad, fans|website=the-afc.com|date=27 January 2018|access-date=18 September 2021}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{sports links}}
+
+{{Tractor S.C. squad}}
+{{Navboxes
+| title = Uzbekistan squads
+| bg          = #0099B5
+| fg          = white 
+| bordercolor = #CE1126
+| list =
+{{Uzbekistan squad 2019 AFC Asian Cup}}
+{{Uzbekistan squad 2023 AFC Asian Cup}}
+{{Uzbekistan squad 2026 FIFA World Cup}}
+}}
+{{Navboxes
+| title = Awards
+| bg = gold
+| fg = navy
+| list1 =
+{{AFC U-23 Asian Cup awards}}
+}}
+
+{{DEFAULTSORT:Hamrobekov, Odiljon}}
+[[Category:1996 births]]
+[[Category:Living people]]
+[[Category:Men's association football midfielders]]
+[[Category:Uzbekistani men's footballers]]
+[[Category:21st-century Uzbekistani sportsmen]]
+[[Category:Uzbekistani expatriate men's footballers]]
+[[Category:Uzbekistan men's youth international footballers]]
+[[Category:Uzbekistan men's international footballers]]
+[[Category:FC Nasaf players]]
+[[Category:Pakhtakor Tashkent FK players]]
+[[Category:Shabab Al Ahli Club players]]
+[[Category:FC Bunyodkor players]]
+[[Category:Uzbekistan Super League players]]
+[[Category:UAE Pro League players]]
+[[Category:Footballers at the 2018 Asian Games]]
+[[Category:2019 AFC Asian Cup players]]
+[[Category:2023 AFC Asian Cup players]]
+[[Category:Asian Games footballers for Uzbekistan]]
+[[Category:Expatriate men's footballers in the United Arab Emirates]]
+[[Category:Uzbekistani expatriate sportspeople in the United Arab Emirates]]
+[[Category:2026 FIFA World Cup players]]

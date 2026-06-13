@@ -1,0 +1,24 @@
+{
+ "team": "SWE",
+ "coach": {
+  "name_zh": "格雷厄姆·波特",
+  "name_en": "Graham Potter",
+  "nationality": "England",
+  "career_since": "2008",
+  "person_id": "per_graham_potter"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 格雷厄姆·波特（Graham Potter），英格兰籍教练，2008年开启执教生涯，2025年接手瑞典国家队，接替带队在预选赛初期仅获1分的Jon Dahl Tomasson。\n- 波特推行流动性控球战术，主用3-4-2-1或不对称4-3-3阵型，要求中后卫持球推进、边锋内切，通过短传三角从后场组织进攻以制造人数优势。\n- 他成功扭转瑞典队颓势，凭借欧国联成绩通过附加赛晋级2026世界杯，完成从低位防守到主动进攻的战术转型，队内氛围积极。\n- 瑞典队近期5战2胜1平2负，拥有伊萨克与于克雷斯组成的顶级锋线，但波特需解决高位逼抢下的防守平衡问题，避免被对手快速反击。\n- 2026世界杯首战对阵突尼斯，波特将首次在世界大赛检验其战术理念，瑞典自1990年以来从未小组赛出局，历史交锋对突尼斯2胜1平1负。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.95,
+  "issues": []
+ },
+ "brief_fetched": "2026-06-13_1138",
+ "brief_info_chars": 6000
+}

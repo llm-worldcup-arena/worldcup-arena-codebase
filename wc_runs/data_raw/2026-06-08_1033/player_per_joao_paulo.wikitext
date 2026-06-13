@@ -1,0 +1,212 @@
+{{short description|Cape Verdean footballer (born 1998)}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+| name                = João Paulo
+| image               = 
+| image_size          = 
+| caption             = 
+| full_name           = João Paulo Moreira Fernandes
+| birth_date          = {{birth date and age|df=yes|1998|5|26}}
+| birth_place         = [[Ribeira Grande de Santiago]], Cape Verde
+| height              = 1.80 m
+| position            = [[Midfielder (association football)|Midfielder]], [[Left-back]]
+| currentclub         = [[FCSB]]
+| clubnumber          = 18
+| youthyears1         = {{0|0000}}–2015| youthclubs1 = Tchadense
+| years1              = 2016–2017 | clubs1 = Tchadense                                  | caps1 =    | goals1 =
+| years2              = 2017–2018 | clubs2 = [[Sporting Clube da Praia|Sporting Praia]] | caps2 = 10   | goals2 = 0
+| years3              = 2018–2019 | clubs3 = [[SC Maria da Fonte|Maria da Fonte]]       | caps3 = 30 | goals3 = 3
+| years4              = 2019–2021 | clubs4 = [[Leça F.C.|Leça]]                         | caps4 = 41 | goals4 = 5
+| years5              = 2021–2023 | clubs5 = [[C.D. Feirense|Feirense]]                 | caps5 = 56 | goals5 = 4
+| years6              = 2023–2025 | clubs6 = [[FC Sheriff Tiraspol|Sheriff Tiraspol]]   | caps6 = 34 | goals6 = 4
+| years7              = 2025–2026 | clubs7 = [[ASC Oțelul Galați|Oțelul Galați]]        | caps7 = 20 | goals7 = 1
+| years8              = 2026–     | clubs8 = [[FCSB]]                                   | caps8 = 14 | goals8 = 1
+| nationalyears1      = 2019      | nationalteam1 = [[Cape Verde national football team|Cape Verde U19]] | nationalcaps1 = 2 | nationalgoals1 = 0
+| nationalyears2      = 2021–     | nationalteam2 = [[Cape Verde national football team|Cape Verde]] | nationalcaps2 = 42 | nationalgoals2 = 1
+| club-update         = 11 May 2026
+| nationalteam-update = 31 May 2026
+}}
+
+'''João Paulo Moreira Fernandes''' ({{IPA|pt|ʒu.ˈɐ̃w ˈpaw.lu mu.ˈɾej.ɾɐ fɨɾ.ˈnɐ̃.dɨʃ|lang}}; born 26 May 1998), commonly known as '''João Paulo''', is a Cape Verdean professional [[association football|footballer]] who plays as a [[Midfielder (association football)|midfielder]] or a [[left-back]] for [[Liga I]] club [[FCSB]] and the [[Cape Verde national football team|Cape Verde national team]].
+
+==Club career==
+In June 2025, the player moved to [[ASC Oțelul Galați|Oțelul Galați]] from [[Liga I]], signing a two-year contract.<ref>{{cite news |title=Bem-vindo, Joao Paulo! |trans-title=Welcome, Joao Paulo! |url=https://ascotelul.ro/bem-vindo-joao-paulo/ |work=ascotelul.ro |date=30 June 2025 |access-date=30 June 2025 |language=Romanian}}</ref>
+
+==International career==
+Fernandes was called up to the [[Cape Verde national football team|Cape Verde national team]] for a pair of friendlies in June 2021.<ref>{{Cite web|url=https://inforpress.cv/football-newcomers-sixten-mohlin-joao-correia-rely-cabral-and-alexis-goncalves-are-new-in-bubistas-call-up/|title=Football: Newcomers Sixten Mohlin, João Correia, Rely Cabral and Alexis Gonçalves are new in Bubista's call-up &#124; INFORPRESS|date=27 May 2021|access-date=9 June 2021|archive-date=30 January 2022|archive-url=https://web.archive.org/web/20220130204751/https://inforpress.cv/football-newcomers-sixten-mohlin-joao-correia-rely-cabral-and-alexis-goncalves-are-new-in-bubistas-call-up/|url-status=dead}}</ref> He debuted with the Cape Verde national team in a friendly 2–0 loss to [[Senegal national football team|Senegal]] on 8 June 2021.<ref>{{Cite web|url=https://globalsportsarchive.com/match/soccer/2021-06-08/senegal-vs-cape-verde-islands/2376236/|title=Match Report of Senegal vs Cape Verde Islands – 2021-06-08 – FIFA Friendlies – Global Sports Archive|website=globalsportsarchive.com}}</ref>
+
+==Career statistics==
+===Club===
+{{Updated|match played 29 May 2026}}<ref name="SW">{{Soccerway|569324|accessdate=1 February 2026}}</ref>
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|National cup{{efn|Includes [[Taça de Portugal]], [[Cupa Moldovei]], [[Cupa României]]}}
+!colspan=2|Continental
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+| rowspan="1" |Tchadense
+|[[2017 Cape Verdean Football Championships|2017]]
+| rowspan="1" |[[Cape Verdean Football Championships|Campeonato Caboverdiano de Futebol]]
+|?||?||?||?||colspan="2"|—||colspan="2"|—||?||?
+|-
+| rowspan="1" |[[Sporting Clube da Praia|Sporting Praia]]
+|[[2018 Cape Verdean Football Championships|2018]]
+| rowspan="1" |Campeonato Caboverdiano de Futebol
+|10||0||0||0||colspan="2"|—||colspan="2"|—||10||0
+|-
+| rowspan="1" |[[SC Maria da Fonte|Maria da Fonte]]
+|[[2018–19 Campeonato de Portugal|2018–19]]
+| rowspan="1" |[[Campeonato de Portugal (league)|Campeonato de Portugal]]
+|30||3||3||1||colspan="2"|—||colspan="2"|—||33||4
+|-
+| rowspan="3" |[[Leça F.C.|Leça]]
+|[[2019–20 Campeonato de Portugal|2019–20]]
+| rowspan="2" |Campeonato de Portugal
+|17||3||3||0||colspan="2"|—||colspan="2"|—||20||3
+|-
+|[[2020–21 Campeonato de Portugal|2020–21]]
+|24||2||1||0||colspan="2"|—||colspan="2"|—||25||2
+|-
+! colspan="2" |Total
+!41!!5!!4!!0!!colspan="2"|—!!colspan="2"|—!!45!!5
+|-
+| rowspan="3" |[[C.D. Feirense|Feirense]]
+|[[2021–22 Liga Portugal 2|2021–22]]
+| rowspan="2" |[[Liga Portugal 2]]
+|24||1||3||0||colspan="2"|—||1{{efn|name=TDL|Appearances in [[Taça da Liga]]}}||0||28||1
+|-
+|[[2022–23 Liga Portugal 2|2022–23]]
+|32||3||1||0||colspan="2"|—||3{{efn|name=TDL}}||0||36||3
+|-
+! colspan="2" |Total
+!56!!4!!4!!0!!colspan="2"|—!!4!!0!!64!!4
+|-
+| rowspan="3" |[[FC Sheriff Tiraspol|Sheriff Tiraspol]]
+|[[2023–24 Moldovan Super Liga|2023–24]]
+| rowspan="2" |[[Moldovan Super Liga]]
+|20||4||3||2||13{{efn|Four appearances in [[UEFA Champions League]], nine appearances in [[UEFA Europa League]]}}||0||colspan="2"|—||36||6
+|-
+|[[2024–25 Moldovan Super Liga|2024–25]]
+|14||0||3||0||6{{efn|Four appearances in UEFA Europa League, two appearances in [[UEFA Conference League]]}}||0||colspan="2"|—||23||0
+|-
+! colspan="2" |Total
+!34!!4!!6!!2!!19!!0!!colspan="2"|—!!59!!6
+|-
+| rowspan="1" |[[ASC Oțelul Galați|Oțelul Galați]]
+|[[2025–26 Liga I|2025–26]]
+| rowspan="1" |[[Liga I]]
+|20||1||2||0||colspan="2"|—||colspan="2"|—||22||1
+|-
+| rowspan="1" |[[FCSB]]
+|[[2025–26 Liga I|2025–26]]
+| rowspan="1" |Liga I
+|14||1||1||0||colspan="2"|—||2{{efn|Appearances in Liga I European play-offs}}||1||17||2
+|-
+! colspan="3" |Career total
+!205!!18!!20!!3!!19!!0!!6!!1!!250!!22
+|}
+
+{{notelist}}
+
+===International===
+{{updated|match played 31 May 2026}}
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="6"|[[Cape Verde national football team|Cape Verde]]
+|2021||4||0
+|-
+|2022||3||0
+|-
+|2023||9||1
+|-
+|2024||15||0
+|-
+|2025||7||0
+|-
+|2026||3||0
+|-
+!colspan="2"|Total!!41!!1
+|}
+
+:''Scores and results list Cape Verde's goal tally first, score column indicates score after each João Paulo goal.''
+{| class="wikitable sortable"
+|+ List of international goals scored by João Paulo
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+|-
+| align="center"|1 || 18 June 2023 || [[Estádio Nacional de Cabo Verde]], [[Praia]], Cape Verde || {{fb|BFA}} || align="center"|2–0 || align="center"|3–1 || [[2023 Africa Cup of Nations qualification Group B|2023 Africa Cup of Nations qualification]]
+|}
+
+==Honours==
+
+'''Sporting Praia'''
+*[[Taça Nacional de Cabo Verde]]: 2018
+
+'''Sheriff Tiraspol'''
+*[[Moldovan Cup|Cupa Moldovei]]: [[2024–25 Moldovan Cup|2024–25]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Soccerway|joao-paulo-fernandes/569324}}
+* {{ForaDeJogo|199805260009}}
+
+{{FCSB squad}}
+{{Navboxes
+| title = Cape Verde squads
+| bg        = #003893
+| fg        = white
+| bordercolor = #CF2027
+| list =
+{{Cape Verde squad 2021 Africa Cup of Nations}}
+{{Cape Verde squad 2023 Africa Cup of Nations}}
+{{Cape Verde squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Fernandes, Joao Paulo}}
+[[Category:1998 births]]
+[[Category:Living people]]
+[[Category:People from Santo Antão, Cape Verde]]
+[[Category:Cape Verdean men's footballers]]
+[[Category:21st-century Cape Verdean sportsmen]]
+[[Category:Cape Verde men's international footballers]]
+[[Category:Men's association football midfielders]]
+[[Category:Men's association football full-backs]]
+[[Category:Sporting Clube da Praia players]]
+[[Category:Leça F.C. players]]
+[[Category:C.D. Feirense players]]
+[[Category:FC Sheriff Tiraspol players]]
+[[Category:ASC Oțelul Galați players]]
+[[Category:FCSB players]]
+[[Category:Cape Verdean National Championships players]]
+[[Category:Campeonato de Portugal (league) players]]
+[[Category:Liga Portugal 2 players]]
+[[Category:Moldovan Super Liga players]]
+[[Category:Liga I players]]
+[[Category:Cape Verdean expatriate men's footballers]]
+[[Category:Expatriate men's footballers in Portugal]]
+[[Category:Cape Verdean expatriate sportspeople in Portugal]]
+[[Category:Expatriate men's footballers in Moldova]]
+[[Category:Cape Verdean expatriate sportspeople in Moldova]]
+[[Category:Expatriate men's footballers in Romania]]
+[[Category:Cape Verdean expatriate sportspeople in Romania]]
+[[Category:2021 Africa Cup of Nations players]]
+[[Category:2023 Africa Cup of Nations players]]
+[[Category:2026 FIFA World Cup players]]
+
+{{CapeVerde-footy-bio-stub}}

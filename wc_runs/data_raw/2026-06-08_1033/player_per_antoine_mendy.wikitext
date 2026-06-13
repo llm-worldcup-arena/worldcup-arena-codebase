@@ -1,0 +1,173 @@
+{{Short description|Footballer (born 2004)}}
+{{Use British English|date=March 2025}}
+{{Use dmy dates|date=September 2021}}
+{{Infobox football biography
+|name = Antoine Mendy
+|image = Mendy asse ogcn 2425.png
+|upright = 
+|caption = Mendy with [[OGC Nice|Nice]] in 2025
+|full_name = Antoine Alpha Mendy<ref>{{cite web |url=https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf |title=Squad List: FIFA World Cup 2026: Senegal (SEN) |publisher=FIFA |page=39 |date=6 June 2026 |access-date=7 June 2026}}</ref>
+|birth_date = {{birth date and age|df=y|2004|5|27}}
+|birth_place = [[Marseille]], France
+|height = 1.87 m
+|position = [[Right-back]]
+|currentclub = [[OGC Nice|Nice]]
+|clubnumber = 33
+|youthyears1 = 2014–2021
+|youthclubs1 = [[OGC Nice|Nice]]
+|years1 = 2021–
+|clubs1 = [[OGC Nice|Nice II]]
+|caps1 = 19
+|goals1 = 2
+|years2 = 2022–
+|clubs2 = [[OGC Nice|Nice]]
+|caps2 = 64
+|goals2 = 1
+|nationalyears1 = 2024
+|nationalteam1 = [[France national under-20 football team|France U20]]
+|nationalcaps1 = 1
+|nationalgoals1 = 0
+|nationalyears2 = 2025–
+|nationalteam2 = [[Senegal national football team|Senegal]]
+|nationalcaps2 = 6
+|nationalgoals2 = 0
+|club-update = 17 May 2026
+|nationalteam-update = 31 March 2026
+|medaltemplates = 
+{{MedalSport|Men's [[Association football|football]]}}
+{{MedalCountry|{{fb|SEN}}}}
+{{MedalCompetition|[[Africa Cup of Nations]]}}
+{{Medal|RU|[[2025 Africa Cup of Nations|2025 Morocco]]|}}
+}}
+'''Antoine Alpha Mendy''' (born 27 May 2004) is a professional [[association football|football]]er who plays as a [[right-back]] and [[centre-back]] for {{French football updater|Nice}} club [[OGC Nice|Nice]]. Born in France, he plays for the [[Senegal national football team|Senegal national team]].
+
+==Club career==
+Mendy is a youth product of [[OGC Nice|Nice]] since the age of 10, and worked his way up their youth categories. He began his senior career with their reserves in 2021, and signed his first professional contract with the club on 29 September 2022.<ref>{{Cite web|url=https://news.maxifoot.fr/nice/antoine-mendy-passe-pro-officiel-foot-376531.htm|title=Nice : Antoine Mendy passe pro (officiel)|website=news.maxifoot.fr}}</ref>
+
+He made his professional and [[Ligue 1]] with Nice as a late substitute in a 1–1 win over [[AJ Auxerre|Auxerre]] on 16 October 2022.<ref>{{Cite web|url=https://www.monacomatin.mc/football/accroche-a-auxerre-1-1-logc-nice-sinquiete-en-prime-pour-delort-801123|title=Accroché à Auxerre (1-1), l'OGC Nice s'inquiète en prime pour Delort|first=La|last=rédaction|date=16 October 2022|website=Monaco-Matin}}</ref>
+
+In Oct 2025, he is listed as one of the ESPN soccer's next generation of entertainers.<ref>{{Cite web|title=The next generation of entertainers: 15 young stars lighting up Europe |url=https://www.espn.com.sg/soccer/story/_/id/46770791/the-next-gen-entertainers-15-young-stars-lighting-europe|date=30 October 2025|website=ESPN}}</ref>
+
+==International career==
+Antoine Mendy received his first call-up to the [[Senegal national football team|Senegal national team]] in 22 March 2025 to take part in the [[2026 FIFA World Cup qualification (CAF)|2026 FIFA World Cup qualifiers]].<ref>{{Cite web|url=https://soccerway.com/matches/2025/03/22/-/-/-/-/4236795|title=Sudan vs. Senegal|date=22 March 2025|website=Soccerway}}</ref>
+
+He made his debut as a starter in a goalless draw against [[Sudan national football team|Sudan]], then came on as a substitute against [[Togo national football team|Togo]], earning praise for his defensive solidity.<ref>{{cite web|date=27 March 2025 |title=Antoine Mendy, une première réussie en équipe nationale ! |url=https://wiwsport.com/2025/03/27/antoine-mendy-une-premiere-reussie-en-equipe-nationale/ |website=wiwsport.com}}<!-- auto-translated from French by Module:CS1 translator --></ref>
+
+==Personal life==
+Born in [[France]], Mendy is of [[Senegal]]ese descent.<ref>{{Cite web|url=https://www.africatopsports.com/2022/10/01/nice-lucien-favre-elogieux-envers-antoine-mendy/|title=Nice : Lucien Favre élogieux envers Antoine Mendy|first=Alfred|last=ZIKPI|date=1 October 2022}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 29 May 2026}}
+
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup
+!colspan="2"|Europe
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="3"|[[OGC Nice|Nice II]]
+|[[2021–22 Championnat National 3|2021–22]]
+|[[Championnat National 3]]
+|16||2||colspan="2"|—||colspan="2"|—||colspan="2"|—||16||2
+|-
+|[[2022–23 Championnat National 3|2022–23]]
+|Championnat National 3
+|3||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||3||0
+|-
+!colspan="2"|Total
+!19!!2!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!19!!2
+|-
+|rowspan="6"|[[OGC Nice|Nice]]
+|[[2021–22 OGC Nice season|2021–22]]
+|[[Ligue 1]]
+|0||0||0||0||colspan="2"|—||colspan="2"|—||0||0
+|-
+|[[2022–23 OGC Nice season|2022–23]]
+|Ligue 1
+|11||0||1||0||3{{efn|Appearances in [[UEFA Europa Conference League]]}}||0||colspan="2"|—||15||0
+|-
+|[[2023–24 OGC Nice season|2023–24]]
+|Ligue 1
+|10||0||3||0||colspan="2"|—||colspan="2"|—||13||0
+|-
+|[[2024–25 OGC Nice season|2024–25]]
+|Ligue 1
+|18||0||2||0||3{{efn|Appearance in [[UEFA Europa League]]}}||0||colspan="2"|—||23||0
+|-
+|[[2025–26 Ligue 1|2025–26]]
+|Ligue 1
+|25||1||4||1||9{{efn|Two appearances in [[UEFA Champions League]], seven appearances in UEFA Europa League}}||0||2{{efn|Appearances in [[Ligue 1 relegation/promotion play-offs]]}}||0||40||2
+|-
+!colspan="2"|Total
+!64!!1!!10!!1!!15!!0!!2!!0!!91!!2
+|-
+!colspan="3"|Career total
+!83!!3!!10!!1!!15!!0!!2!!0!!110!!4
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 31 March 2026}}<ref>{{NFT player}}</ref>
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="2"|[[Senegal national football team|Senegal]]
+|2025||4||0
+|-
+|2026||2||0
+|-
+!colspan="2"|Total!!6!!0
+|}
+
+== Honours ==
+'''Nice'''
+*[[Coupe de France]] runner-up: [[2025–26 Coupe de France|2025–26]]<ref>{{cite web |last=Brotherton |first=Alex |date=22 May 2026 |title=Lens 3-1 Nice: Lens end Coupe de France curse to lift trophy for first time in their history |url=https://www.bbc.com/sport/football/live/c8xw1nr8kq1t |access-date=22 May 2026 |website=BBC Sport}}</ref>
+
+'''Senegal'''
+*[[Africa Cup of Nations]] runner-up: [[2025 Africa Cup of Nations|2025]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+* {{Soccerway|antoine-mendy/701521}}
+* [https://www.ogcnice.com/fr/fiche/2209/antoine-mendy.html OGC Nice profile]
+* {{LFP Ligue 1|antoine-alpha-mendy}}
+
+{{OGC Nice squad}}
+{{Navboxes
+| title = Senegal squads
+| bg = #00853F
+| fg = #FDEF42
+| bordercolor = red
+| list1 =
+{{Senegal squad 2025 Africa Cup of Nations}}
+{{Senegal squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Mendy, Antoine}}
+[[Category:2004 births]]
+[[Category:Living people]]
+[[Category:Footballers from Marseille]]
+[[Category:Senegalese men's footballers]]
+[[Category:Senegal men's international footballers]]
+[[Category:French men's footballers]]
+[[Category:French sportspeople of Senegalese descent]]
+[[Category:OGC Nice players]]
+[[Category:Ligue 1 players]]
+[[Category:Championnat National 3 players]]
+[[Category:2025 Africa Cup of Nations players]]
+[[Category:Men's association football full-backs]]
+[[Category:21st-century French sportsmen]]
+[[Category:21st-century Senegalese sportsmen]]
+[[Category:2026 FIFA World Cup players]]

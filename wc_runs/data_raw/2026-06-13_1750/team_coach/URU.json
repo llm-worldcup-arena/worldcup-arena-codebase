@@ -1,0 +1,31 @@
+{
+ "team": "URU",
+ "coach": {
+  "name_zh": "馬些路·比爾沙",
+  "name_en": "Marcelo Bielsa",
+  "nationality": "Argentina",
+  "career_since": "1987",
+  "person_id": "per_marcelo_bielsa"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 阿根廷人馬些路·比爾沙自1987年執教，現任烏拉圭國家隊主教練，率隊以CONMEBOL第四名直接晉級2026世界盃。\n\n- 烏拉圭在2026世界盃H組將對陣沙特阿拉伯、佛得角及西班牙，後者陣中有八名巴塞隆拿球員。\n\n- 巴塞罗那后卫罗纳德·阿劳霍赛前肌肉受伤，其兄在Instagram公开指责「感谢比爾沙在世界盃前弄伤球员」，引发舆论风波。\n\n- 阿劳霍已返巴萨接受治疗，预计缺席6月17日首战对沙特阿拉伯，目标赶及6月22日对佛得角或6月27日对西班牙复出。\n\n- 队长何塞·玛丽亚·希门尼斯（脚踝）与塞巴斯蒂安·卡塞雷斯（脑震荡）同样带伤备战，31岁的希门尼斯本季仅出赛25场仍因领导力获征召。\n\n- 比爾沙或需启用桑蒂·布埃诺与伤愈的希门尼斯或卡塞雷斯组成临时中坚组合，应对揭幕战对沙特阿拉伯。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.95,
+  "issues": []
+ },
+ "brief_fetched": "2026-06-13_1750",
+ "brief_info_chars": 4783,
+ "coach_xverify": {
+  "canonical": "Marcelo Bielsa",
+  "confidence": "high",
+  "discrepancy": "",
+  "sources_agree": 6,
+  "n_sources": 8
+ }
+}

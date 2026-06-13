@@ -1,0 +1,219 @@
+{{short description|Norwegian footballer (born 2003)}}
+{{Use British English|date=June 2025}}
+{{Use dmy dates|date=June 2025}}
+{{Infobox football biography
+|name = Oscar Bobb
+|image = ManCity20240722-050 (Oscar Bobb2).jpg
+|caption = Bobb training with [[Manchester City F.C.|Manchester City]] in 2024
+|full_name = Oscar Bobb<ref>{{cite news|url=https://www.premierleague.com/news/2163099|title=Premier League clubs publish 2020/21 retained lists|date=4 June 2021|access-date=7 January 2022|publisher=Premier League|archive-date=6 April 2022|archive-url=https://web.archive.org/web/20220406161143/https://www.premierleague.com/news/2163099|url-status=live}}</ref>
+|birth_date = {{birth date and age|2003|7|12|df=y}}
+|birth_place = [[Oslo]], Norway
+|height = 1.74 m<ref name="PremProfile"/>
+|currentclub = [[Fulham F.C.|Fulham]]
+|clubnumber = 14
+|position = [[Midfielder]], [[Winger (association football)|winger]]
+|youthyears1 = {{0|0000}}–2015
+|youthclubs1 = [[Lyn Fotball|Lyn]]
+|youthyears2 = 2017–2019
+|youthclubs2 = [[Vålerenga Fotball|Vålerenga]]
+|youthyears3 = 2019–2023
+|youthclubs3 = [[Manchester City F.C.|Manchester City]]
+|years1 = 2023–2026
+|clubs1 = [[Manchester City F.C.|Manchester City]]
+|caps1 = 26
+|goals1 = 1
+|years2 = 2026–
+|clubs2 = [[Fulham F.C.|Fulham]]
+|caps2 = 14
+|goals2 = 0
+|nationalyears1 = 2019
+|nationalteam1 = [[Norway national under-16 football team|Norway U16]]
+|nationalcaps1 = 12
+|nationalgoals1 = 0
+|nationalyears2 = 2020
+|nationalteam2 = [[Norway national under-17 football team|Norway U17]]
+|nationalcaps2 = 1
+|nationalgoals2 = 0
+|nationalyears3 = 2021
+|nationalteam3 = [[Norway national under-18 football team|Norway U18]]
+|nationalcaps3 = 9
+|nationalgoals3 = 3
+|nationalyears4 = 2022
+|nationalteam4 = [[Norway national under-19 football team|Norway U19]]
+|nationalcaps4 = 4
+|nationalgoals4 = 1
+|nationalyears5 = 2022–2023
+|nationalteam5 = [[Norway national under-21 football team|Norway U21]]
+|nationalcaps5 = 8
+|nationalgoals5 = 2
+|nationalyears6 = 2023–
+|nationalteam6 = [[Norway national football team|Norway]]
+|nationalcaps6 = 18
+|nationalgoals6 = 2
+|pcupdate = 23:38, 24 May 2026 (UTC)
+|ntupdate = 31 March 2026
+}}
+
+'''Oscar Bobb''' (born 12 July 2003) is a Norwegian professional [[Association football|footballer]] who plays as a [[midfielder]] or [[Winger (association football)|winger]] for [[Premier League]] {{English football updater|FulhamFC}} club [[Fulham F.C.|Fulham]] and the [[Norway national football team|Norway national team]].
+
+==Club career==
+===Early career and move to Portugal===
+Born in [[Oslo]],<ref>{{WorldFootball.net|oscar-bobb}}</ref> Bobb played for [[Lyn Fotball|Lyn]] at youth level. In 2013, he began being linked with Portuguese club [[FC Porto|Porto]] at the age of 10, after performing well at a youth tournament in [[Algarve]].<ref name=te>{{cite web|url=https://tribunaexpresso.pt/football-leaks/2018-11-29-Como-o-FC-Porto-perdeu-o-talentoso-Oscar-Bobb|title=Como o FC Porto perdeu o talentoso Oscar Bobb|trans-title=How FC Porto lost the talented Oscar Bobb|first1=Micael|last1=Pereira|first2=Miguel|last2=Prado|first3=Anders|last3=Christiansen|archive-url=https://web.archive.org/web/20210514211701/https://tribunaexpresso.pt/football-leaks/2018-11-29-Como-o-FC-Porto-perdeu-o-talentoso-Oscar-Bobb|archive-date=14 May 2021|accessdate=7 January 2022|url-status=dead}}</ref> Porto reached out to Bobb's mother, {{ill|Turid Gunnes|no}}, to convince the young footballer to sign with them, even going as far as to pay for the two of them to visit the club in Porto.<ref name=te/> In October 2015, Gunnes moved to [[Portugal]] on her own, before signing documentation in November of the same year for Bobb to be enrolled in the [[Portuguese Football Federation]].<ref name=te/>
+
+Despite the documentation being rejected by [[FIFA]] in January 2016, Bobb and his mother remained in Porto, and in January 2017 he attempted to sign with Escola de Futebol Hernâni Gonçalves.<ref name=te/> However, FIFA were neither convinced that Bobb's mother had moved to Portugal of her own volition, to pursue an acting career, nor that the Escola de Futebol Hernâni Gonçalves were independent from Porto, and consequently refused Bobb an international transfer certificate.<ref name=te/><ref>{{cite web|url=https://terryblaw.medium.com/not-exceptional-enough-oscar-bobbs-uselessly-close-article-19-case-cec96d21b532|title=Not Exceptional Enough: Oscar Bobb's Uselessly Close Article 19 Case|first=Terence D.|last=Brennan|date=3 June 2020|access-date=7 January 2022|website=terryblaw.medium.com|archive-date=27 September 2023|archive-url=https://web.archive.org/web/20230927085609/https://terryblaw.medium.com/not-exceptional-enough-oscar-bobbs-uselessly-close-article-19-case-cec96d21b532|url-status=live}}</ref>
+
+The case reached the [[Court of Arbitration for Sport]], who sided with FIFA, and Bobb was told to return to [[Norway]].<ref name=te/> He would go on to sign for fellow Oslo-based club [[Vålerenga Fotball|Vålerenga]].<ref name=te/>
+
+===Manchester City===
+[[File:Yokohama F. Marinos - Manchester City (3-5) - 53075274094 (Oscar Bobb).jpg|thumb|upright|Bobb playing for [[Manchester City F.C.|Manchester City]] in 2023]]
+
+Bobb joined [[Premier League]] club [[Manchester City F.C.|Manchester City]] in July 2019.<ref>{{cite web |title=Oscar Bobb |url=https://www.mancity.com/players/oscar-bobb |access-date=7 January 2022 |website=Manchester City |archive-date=19 December 2023 |archive-url=https://web.archive.org/web/20231219212439/https://www.mancity.com/players/oscar-bobb |url-status=live }}</ref> In October of the same year, he was named by English newspaper ''[[The Guardian]]'' as the best young talent at Manchester City of his age group.<ref>{{cite web |last1=Christenson |first1=Marcus |last2=Powell |first2=Jim |last3=Blight |first3=Garry |date=9 October 2019 |title=Next Generation 2019: 20 of the best talents at Premier League clubs |url=https://www.theguardian.com/football/ng-interactive/2019/oct/09/next-generation-2019-20-of-the-best-talents-at-premier-league-clubs |access-date=7 January 2022 |website=The Guardian |archive-date=4 January 2024 |archive-url=https://web.archive.org/web/20240104034501/https://www.theguardian.com/football/ng-interactive/2019/oct/09/next-generation-2019-20-of-the-best-talents-at-premier-league-clubs |url-status=live }}</ref>
+
+After a relatively slow start, compared to other youth players brought in at the same time, Bobb cemented his place in Manchester City's under-23 side, notching a number of assists in his first full season.<ref>{{cite web |last=Bajkowski |first=Simon |date=22 December 2021 |title=Oscar Bobb is reaping the rewards of Man City step up in summer |url=https://www.manchestereveningnews.co.uk/sport/football/football-news/oscar-bobb-interview-man-city-22541503?fr=operanews |access-date=7 January 2022 |website=Manchester Evening News |archive-date=27 September 2023 |archive-url=https://web.archive.org/web/20230927085614/https://www.manchestereveningnews.co.uk/sport/football/football-news/oscar-bobb-interview-man-city-22541503?fr=operanews |url-status=live }}</ref> As a reward for his fine form for the reserve side, Bobb was named on the Manchester City bench for the first time, in an [[FA Cup]] third round tie against [[Swindon Town F.C.|Swindon Town]] on 7 January 2022, though he did not feature.<ref>{{cite web |last=Wood |first=Liam |date=7 January 2022 |title=Who is Oscar Bobb? Profile on Man City youngster included on bench vs Swindon |url=https://www.manchestereveningnews.co.uk/sport/football/football-news/oscar-bobb-profile-man-city-22684575 |access-date=7 January 2022 |website=Manchester Evening News |archive-date=27 September 2023 |archive-url=https://web.archive.org/web/20230927085610/https://www.manchestereveningnews.co.uk/sport/football/football-news/oscar-bobb-profile-man-city-22684575 |url-status=live }}</ref><ref>{{cite web|url=https://www.dagsavisen.no/sport/2022/01/07/lyn-og-vif-talentet-oscar-bobb-pa-benken-til-manchester-city/|title=Lyn og VIF-talentet Oscar Bobb på benken til Manchester City|trans-title=Lyn and VIF talent Oscar Bobb on the bench for Manchester City|date=7 January 2022|access-date=7 January 2022|website=dagsavisen.no|language=Norwegian|archive-date=27 September 2023|archive-url=https://web.archive.org/web/20230927085614/https://www.dagsavisen.no/sport/2022/01/07/lyn-og-vif-talentet-oscar-bobb-pa-benken-til-manchester-city/|url-status=live}}</ref>
+
+On 2 September 2023, Bobb was given his [[Premier League]] debut against [[Fulham F.C.|Fulham]] coming on as an 88th minute substitute for [[Phil Foden]], where he was involved in the buildup leading to the 5th goal scored by fellow Norwegian [[Erling Haaland]].<ref>{{cite web|url=https://www.skysports.com/football/manchester-city-vs-fulham/report/482629|title=Manchester City 5–1 Fulham|publisher=Sky Sports|date=2 August 2023|access-date=2 August 2023|archive-date=16 November 2023|archive-url=https://web.archive.org/web/20231116182628/https://www.skysports.com/football/manchester-city-vs-fulham/report/482629|url-status=live}}</ref> On 19 September, he made his [[UEFA Champions League|Champions League]] debut against [[Red Star Belgrade]], replacing Phil Foden in the 83rd minute in a 3–1 win.<ref>{{cite web |url=https://www.mancity.com/news/mens/oscar-bobb-champions-league-debut-reaction-63830816 |title=Bobb on Champions League debut: 'I'm very grateful' |publisher=Manchester City |date=20 September 2023 |access-date=4 November 2023 |archive-date=16 November 2023 |archive-url=https://web.archive.org/web/20231116183254/https://www.mancity.com/news/mens/oscar-bobb-champions-league-debut-reaction-63830816 |url-status=live }}</ref> On 13 December also against Red Star Belgrade, Bobb scored his first Champions League goal in a 3–2 victory.<ref>{{cite web |author=Paul Brown |url=https://www.mancity.com/news/mens/red-star-belgrade-manchester-city-match-report-63838084 |title=Academy aces Hamilton and Bobb score in City win at Red Star |publisher=Manchester City |date=13 December 2023 }}</ref> On 13 January 2024, he scored his first Premier League goal in the 91st minute, securing a 3–2 comeback away win over [[Newcastle United F.C.|Newcastle United]], after a [[Kevin De Bruyne]] cross. A month later, on 26 February, he signed a new long-term contract at the club until 2029.<ref>{{cite web |url=https://www.mancity.com/news/mens/oscar-bobb-manchester-city-contract-63844565 |title=Bobb signs extension to City deal! |publisher=Manchester City F.C. |date=26 February 2024 }}</ref>
+
+In August 2024, during pre-season training with Manchester City, Bobb suffered a fractured leg that required surgery. The injury was initially expected to sideline him for up to four months.<ref>{{Cite web |title=Oscar Bobb out for months after leg fracture |url=https://www.foxsports.com/soccer/oscar-bobb-player |work=FOX Sports |access-date=2025-06-19}}</ref> However, manager Pep Guardiola later confirmed that while the fracture had healed, Bobb was not yet ready to return to matches and was only taking part in partial team training by January 2025.<ref>{{Cite web |title=Pep Guardiola provides major injury and fitness updates on Ruben Dias, Oscar Bobb, Erling Haaland, Ederson and John Stones |url=https://onefootball.com/en/news/pep-guardiola-provides-major-injury-and-fitness-updates-on-ruben-dias-oscar-bobb-erling-haaland-ederson-and-john-stones-40541769 |publisher=OneFootball |access-date=2025-06-19 |archive-date=19 June 2025 |archive-url=https://web.archive.org/web/20250619105633/https://onefootball.com/en/news/pep-guardiola-provides-major-injury-and-fitness-updates-on-ruben-dias-oscar-bobb-erling-haaland-ederson-and-john-stones-40541769 |url-status=live }}</ref>
+
+In late April 2025, Bobb suffered a hamstring injury in training, forcing him to miss the FA Cup semi-final and several matches late in the season. He returned to team training at the end of the season and rejoined the squad for the [[2025 FIFA Club World Cup]].<ref>{{Cite web |publisher=OneFootball |date=25 April 2025 |title=Oscar Bobb's new injury is revealed as his horror luck continues for this season |url=https://www.onefootball.com/en/news/oscar-bobbs-new-injury-is-revealed-as-his-horror-luck-continues-for-this-season-41021609}}</ref><ref>{{Cite web |date=May 2025 |title=Manchester City injury update: Rodri, Oscar Bobb, and John Stones latest |url=https://www.standard.co.uk/sport/football/manchester-city-injury-update-rodri-oscar-bobb-john-stones-latest-news-and-return-dates-b1228445.html |publisher=Evening Standard}}</ref> On 22 June, he scored his first goal since his return from injury in City's 6–0 group stage win against [[Al Ain FC|Al Ain]] after coming on as a substitute.<ref>{{cite web |url=https://www.mancity.com/news/fifa-club-world-cup/man-city-v-al-ain-fifa-club-world-cup-match-report-63886230 |title=City cruise into Club World Cup knockouts with Al Ain win |publisher=Manchester City F.C. |date=23 June 2025 |access-date=23 June 2025}}</ref>
+
+=== Fulham ===
+
+Bobb joined [[Premier League]] club [[Fulham F.C.|Fulham]] in January 2026, agreeing a five-and-a-half-year deal for £27m.<ref>{{cite web |title=Fulham sign Bobb |url=https://www.fulhamfc.com/news/2026/january/30/fulham-sign-bobb/ |website=Fulham FC |date=30 January 2026 |access-date=30 January 2026}}</ref><ref>{{Cite web|title=Oscar Bobb transfer news: Fulham sign Manchester City winger for £27m|url=https://www.bbc.com/sport/football/articles/c3edk98e49po|website=BBC Sport|date=2026-01-30|access-date=2026-02-01|language=en-GB}}</ref>
+
+==International career==
+[[File:Norway Italy - June 2025 D 45.jpg|thumb|upright|left|Bobb with [[Norway national football team|Norway]] in 2025]]
+Born in Norway, Bobb is of partial Gambian and Norwegian descent.<ref>{{Cite web|date=26 March 2023|title=Nå er «Moi» den eneste: "Håper virkelig det blir annerledes"|url=https://www.tv2.no/sport/fotball/na-er-moi-den-eneste-haper-virkelig-det-blir-annerledes/15610842/|website=[[TV 2 Direkte]]|language=no|access-date=3 August 2023|archive-date=3 August 2023|archive-url=https://web.archive.org/web/20230803190858/https://www.tv2.no/sport/fotball/na-er-moi-den-eneste-haper-virkelig-det-blir-annerledes/15610842/|url-status=live}}</ref> Until 2023, he was a youth international for Norway, having played up to the [[Norway national under-21 football team|Norway U21]].<ref>{{Cite web|url=https://www.manchestereveningnews.co.uk/sport/football/football-news/bobb-man-city-norway-news-27207954|title=Man City forward Oscar Bobb could get two senior debuts next season|first=Joe|last=Bray|date=27 June 2023|website=Manchester Evening News|access-date=3 August 2023|archive-date=3 August 2023|archive-url=https://web.archive.org/web/20230803190902/https://www.manchestereveningnews.co.uk/sport/football/football-news/bobb-man-city-norway-news-27207954|url-status=live}}</ref>
+
+Bobb received his first call-up for the [[Norway national football team|Norway men's team]] for the October 2023 international fixtures.<ref>{{Cite news |title=Bobb called up to Norway's Senior Squad for Euro 2024 qualifiers |url=https://www.mancity.com/news/mens/oscar-bobb-called-into-norway-senior-squad-63832203 |access-date=13 October 2023 |publisher=Manchester City |archive-date=16 November 2023 |archive-url=https://web.archive.org/web/20231116182100/https://www.mancity.com/news/mens/oscar-bobb-called-into-norway-senior-squad-63832203 |url-status=live }}</ref> On 12 October, he made his senior debut as a substitute at the 63rd minute, in the team's 4–0 [[UEFA Euro 2024 qualifying]] victory against [[Cyprus national football team|Cyprus]].<ref name="Sportskeeda">{{Cite web|first=Apratim|last=Banerjee|title=Who is Oscar Bobb? Meet 20-year-old Norway international who scored Manchester City's winner in 3–2 comeback win against Newcastle|url=https://www.sportskeeda.com/football/news-who-oscar-bobb-meet-20-year-old-norway-international-scored-manchester-city-s-winner-3-2-comeback-win-newcastle|website=Sportskeeda|publisher=[[Nazara Technologies]]|date=13 January 2024|access-date=2 April 2025}}</ref> On 16 November, Bobb scored his first goal for Norway in a home friendly match against the [[Faroe Islands national football team|Faroe Islands]].<ref name="Sportskeeda"/>
+
+==Personal life==
+Bobb speaks fluent [[Portuguese language|Portuguese]].<ref>{{Cite web |date=7 March 2024 |title=Vídeo: norueguês do Man. City fala português perfeito (e há uma razão para isso) {{!}} Abola.pt |url=https://www.abola.pt/futebol/noticias/video-noruegues-do-man-city-fala-portugues-perfeito-e-ha-uma-razao-para-isso-2024030710404111097 |access-date=2024-03-07 |website=Abola.pt |language=pt}}</ref>
+
+==Career statistics==
+=== Club ===
+{{updated|match played 24 May 2026}}<ref>{{Soccerway|oscar-bobb/624931}}</ref>
+
+{| class="wikitable" style="text-align: center"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|[[FA Cup]]
+!colspan="2"|[[EFL Cup]]
+!colspan="2"|[[UEFA#Club|Europe]]
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="4"|[[Manchester City F.C.|Manchester City]]
+|[[2023–24 Manchester City F.C. season|2023–24]]
+|[[Premier League]]
+|14||1||5||0||1||0||4{{efn|name=UCL|Appearances in [[UEFA Champions League]]}}||1||2{{efn|Appearances in [[FIFA Club World Cup]]}}||0||26||2
+|-
+|[[2024–25 Manchester City F.C. season|2024–25]]
+|Premier League
+|3||0||0||0||0||0||0||0||3{{efn|One appearance in [[FA Community Shield]], two appearances and one goal in FIFA Club World Cup}}||1||6||1
+|-
+|[[2025–26 Manchester City F.C. season|2025–26]]
+|Premier League
+|9||0||0||0||3||0||3{{efn|name=UCL}}||0||colspan="2"|—||15||0
+|-
+!colspan="2"|Total
+!26||1||5||0||4||0||7||1||5||1||47||3
+|-
+|[[Fulham F.C.|Fulham]]
+|[[2025–26 Fulham F.C. season|2025–26]]
+|Premier League
+|14||0||2||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||16||0
+|-
+!colspan="3"|Career total
+!40||1||7||0||4||0||7||1||5||1||63||3
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 31 March 2026}}<ref name="NFT">{{NFT player}}</ref>
+
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="4"|[[Norway national football team|Norway]]
+|2023||4||1
+|-
+|2024||4||1
+|-
+|2025||8||0
+|-
+|2026||2||0
+|-
+!colspan="2"|Total||18||2
+|}
+
+{{updated|match played 31 March 2026}}
+:''Norway score listed first, score column indicates score after each Bobb goal''<ref name="NFT"/>
+
+{| class="wikitable sortable"
+|+ List of international goals scored by Oscar Bobb
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Cap
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+|-
+|align="center"|1||16 November 2023||[[Ullevaal Stadion]], Oslo, Norway||align="center"|3||{{fb|FRO}}||align="center"|2–0||align="center"|2–0||[[Friendly (association football)|Friendly]]
+|-
+|align="center"|2||22 March 2024||[[Ullevaal Stadion]], Oslo, Norway||align="center"|5||{{fb|Czechia}}||align="center"|1–0||align="center"|1–2||[[Friendly (association football)|Friendly]]
+|}
+
+==Honours==
+'''Manchester City'''
+*[[Premier League]]: [[2023–24 Premier League|2023–24]]<ref name="PremProfile">{{cite web |url=https://www.premierleague.com/players/66657/Oscar-Bobb/overview |title=Oscar Bobb: Overview |publisher=Premier League |access-date=12 August 2024 |archive-date=21 May 2024 |archive-url=https://web.archive.org/web/20240521204103/https://www.premierleague.com/players/66657/Oscar-Bobb/overview |url-status=live }}</ref>
+*[[FA Community Shield]]: [[2024 FA Community Shield|2024]]<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/live/c9wjkjyqpg4t#Line-ups |title=Manchester City 1–1 Manchester United: Line-ups |website=BBC Sport |date=10 August 2024 |access-date=10 August 2024 |archive-date=1 October 2024 |archive-url=https://web.archive.org/web/20241001191553/https://www.bbc.co.uk/sport/football/live/c9wjkjyqpg4t#Line-ups |url-status=live }}</ref>
+*[[UEFA Super Cup]]: [[2023 UEFA Super Cup|2023]]<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/66513883 |title=Manchester City 1–1 Sevilla |first=Phil |last=McNulty |website=BBC Sport |date=16 August 2023 |access-date=19 May 2024 |archive-date=29 August 2023 |archive-url=https://web.archive.org/web/20230829172949/https://www.bbc.co.uk/sport/football/66513883 |url-status=live }}</ref>
+*[[FIFA Club World Cup]]: [[2023 FIFA Club World Cup|2023]]<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/67795653 |title=Manchester City 4–0 Fluminense |website=BBC Sport |date=22 December 2023 |access-date=22 December 2023 |archive-date=28 December 2023 |archive-url=https://web.archive.org/web/20231228001550/https://www.bbc.co.uk/sport/football/67795653 |url-status=live }}</ref>
+*[[FA Cup]] runner-up: [[2023–24 FA Cup|2023–24]]<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/live/c2jj8k5vym5t#Line-ups |title=Manchester City 1–2 Manchester United: Line-ups |website=BBC Sport |date=25 May 2024 |access-date=25 May 2024}}</ref>
+
+'''Individual'''
+*[[Premier League Goal of the Month]]: [[2023–24 Premier League#Monthly awards|January 2024]]<ref>{{cite web |url=https://www.premierleague.com/news/3894507 |title=Bobb's brilliant strike wins January 2024 Budweiser Goal of the Month award |publisher=Premier League |date=16 February 2024 |access-date=19 May 2024 |archive-date=16 February 2024 |archive-url=https://web.archive.org/web/20240216184600/https://www.premierleague.com/news/3894507 |url-status=live }}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*{{NFF|3707234}}
+*{{UEFA player}}
+
+{{Fulham F.C. squad}}
+{{Norway squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Bobb, Oscar}}
+[[Category:2003 births]]
+[[Category:Living people]]
+[[Category:Footballers from Oslo]]
+[[Category:Norwegian men's footballers]]
+[[Category:21st-century Norwegian sportsmen]]
+[[Category:Men's association football midfielders]]
+[[Category:Men's association football wingers]]
+[[Category:Lyn Fotball players]]
+[[Category:Vålerenga Fotball players]]
+[[Category:Manchester City F.C. players]]
+[[Category:Fulham F.C. players]]
+[[Category:Premier League players]]
+[[Category:2026 FIFA World Cup players]]
+[[Category:Norway men's youth international footballers]]
+[[Category:Norway men's under-21 international footballers]]
+[[Category:Norway men's international footballers]]
+[[Category:Norwegian expatriate men's footballers]]
+[[Category:Expatriate men's footballers in England]]
+[[Category:Expatriate men's footballers in Portugal]]
+[[Category:Norwegian expatriate sportspeople in England]]
+[[Category:Norwegian expatriate sportspeople in Portugal]]
+[[Category:Norwegian people of Gambian descent]]

@@ -1,0 +1,188 @@
+{{short description|South African footballer}}
+{{Use dmy dates|date=April 2022}}
+{{Infobox football biography
+| name = Oswin Reagen Appollis
+| image = 
+| fullname = Oswin Reagan Appollis<ref>{{cite web |url=https://www.fifadata.com/document/FWYC/2019/pdf/FWYC_2019_SquadLists.pdf |title=FIFA U-20 World Cup Poland 2019: List of Players: South Africa |publisher=FIFA |page=20 |date=13 June 2019 |archive-url=https://web.archive.org/web/20200206013743/https://www.fifadata.com/document/FWYC/2019/pdf/FWYC_2019_SquadLists.pdf |archive-date=6 February 2020}}</ref>
+| birth_date = {{birth date and age|2001|08|25|df=y}}
+| birth_place = [[Bishop Lavis]], Cape Town, South Africa
+| height = 1.71 m
+| currentclub = [[Orlando Pirates F.C.|Orlando Pirates]]
+| clubnumber = 12
+| position = {{hlist|[[Winger (association football)|Left winger]]|[[midfielder#Attacking midfielder|attacking midfielder]]}}
+| youthyears1 = 
+| youthclubs1 = [[Cape Town Spurs F.C.|Ajax Cape Town]]
+| youthyears2 = 2018–2019
+| youthclubs2 = [[SuperSport United F.C.|SuperSport United]]
+| years1 = 2019–2022
+| clubs1 = [[SuperSport United F.C.|SuperSport United]]
+| caps1 = 6
+| goals1 = 1
+| years2 = 2021
+| clubs2 = → [[University of Pretoria F.C.|University of Pretoria]] (loan)
+| caps2 = 15
+| goals2 = 4
+| years3 = 2022–2023
+| clubs3 = [[Pretoria Callies F.C.|Pretoria Callies]]
+| caps3 = 32
+| goals3 = 8
+| years4 = 2023–2025
+| clubs4 = [[Polokwane City F.C.|Polokwane City FC]]
+| caps4 = 68
+| goals4 = 13
+| years5 = 2025–
+| clubs5 = [[Orlando Pirates F.C.|Orlando Pirates]]
+| caps5 = 43
+| goals5 = 12
+| nationalyears1 = 2019
+| nationalteam1 = [[South Africa national under-20 soccer team|South Africa U20]]
+| nationalcaps1 = 3
+| nationalgoals1 = 0
+| nationalyears2 = 2023–
+| nationalteam2 = [[South Africa national soccer team|South Africa]]
+| nationalcaps2 = 28
+| nationalgoals2 = 11
+| club-update = 3 January 2026
+| nationalteam-update = 27 March 2026
+}}
+'''Oswin Reagan Appollis''' also known as '''10111''' (born 25 August 2001) is a South African [[Association football|soccer player]] who currently plays as a [[Winger (association football)|winger]] or [[midfielder#Attacking midfielder|attacking midfielder]] for [[South African Premiership]] club [[Orlando Pirates F.C.|Orlando Pirates]] and the [[South Africa national soccer team|South Africa national team]].
+
+== Club career ==
+
+=== Polokwane City ===
+He featured for [[Polokwane City F.C.|Polokwane City]] during the 2023/24 and 2024/25 season in the [[South African Premier Division]].<ref>{{Cite web |date=2024-08-01 |title=Polokwane City unwilling to budge on Oswin Appollis interest {{!}} soccer |url=https://www.sabcsport.com/soccer/news/polokwane-city-unwilling-to-budge-on-oswin-appollis-interest |access-date=2025-12-22 |website=SABC |language=en}}</ref>
+
+=== Orlando Pirates ===
+He joined [[Orlando Pirates F.C.|Orlando Pirates]] at the start of the 2025/26 season.<ref>{{Cite web |date=2025-12-07 |title=Appollis: I Made The Right Decision To Join Pirates |url=https://www.soccerladuma.co.za/psl/orlando-pirates/oswin-appollis-didn-t-hesitate-to-sign-for-orlando-pirates |access-date=2025-12-22 |website=Soccer Laduma |language=en}}</ref><ref>{{Cite web |date=2025-11-12 |title=Agent lifts the lid on how Orlando Pirates 'hijacked' Oswin Appollis, beating Kaizer Chiefs, Mamelodi Sundowns and Esperance to the Bafana Bafana star player's signature {{!}} Goal.com South Africa |url=https://www.goal.com/en-za/lists/agent-lifts-the-lid-on-how-orlando-pirates-hijacked-oswin-appollis-beating-kaizer-chiefs-mamelodi-sundowns-and-esperance-to-the-bafana-bafana-star-player-s-signature/bltf33ac829d1dff1ac |access-date=2025-12-22 |website=www.goal.com |language=en-ZA}}</ref>
+
+== International career ==
+Appollis scored his debut goal for South Africa against South Sudan in the 2025 Afcon qualifiers.
+
+On 1 December 2025, Appollis was called up to the South Africa squad for the [[2025 Africa Cup of Nations]].<ref>{{cite web|url=https://www.cafonline.com/afcon2025/news/totalenergies-afcon-morocco-2025-fever-rises-as-broos-become-first-coach-to-unveil-final-squad/|title=TotalEnergies AFCON Morocco 2025 fever rises as Broos become first coach to unveil final squad|publisher=[[Confederation of African Football]]|date=1 December 2025|access-date=12 December 2025}}</ref> He scored his fourth goal of 2025 against Angola at the [[2025 Africa Cup of Nations]].<ref>{{Cite web |last=Mahlase |first=Eliot |date=2025-12-22 |title=Oswin Appollis: Four goals in five matches for Bafana |url=https://www.thesouthafrican.com/sport/soccer/bafana-bafana/oswin-appollis-four-goals-in-five-matches-for-bafana/ |access-date=2025-12-22 |website=The South African |language=en-ZA}}</ref>
+
+=== International goals ===
+{| class="wikitable sortable"
+|+ List of international goals scored by Oswin Appollis
+|-
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+|-
+| 1. || rowspan="2"|10 September 2024 || rowspan="2"|[[Juba Stadium]], [[Juba]], South Sudan|| rowspan="2"|{{fb|SSD}} || style="text-align:center;"|1–1 || rowspan="2" style="text-align:center;"|3–2 || rowspan="2"|[[2025 Africa Cup of Nations qualification Group K|2025 Africa Cup of Nations qualification]]
+|- 
+| 2. || style="text-align:center;"|2–1
+|-
+| 3. || 5 September 2025 || [[Free State Stadium]], [[Bloemfontein]], South Africa || {{fb|LES}} || style="text-align:center;"|3–0 || style="text-align:center;"|3–0 || rowspan=2| [[2026 FIFA World Cup qualification – CAF Group C|2026 FIFA World Cup qualification]]
+|-
+| 4. || 14 October 2025 || [[Mbombela Stadium]], [[Mbombela]], South Africa || {{fb|RWA}} || style="text-align:center;"| 2–0 || style="text-align:center;"|3–0
+|-
+| 5. || 15 November 2025 || [[Nelson Mandela Bay Stadium]], [[Gqeberha]], South Africa || {{fb|ZAM}} || rowspan=2 style="text-align:center;"| 1–0 || style="text-align:center;"|3–1 || [[Friendly (association football)|Friendly]]
+|-
+| 6. || 22 December 2025 || [[Marrakesh Stadium]], [[Marrakesh]], Morocco || {{fb|ANG}} || style="text-align:center;"|2–1 || rowspan=2| [[2025 Africa Cup of Nations Group B|2025 Africa Cup of Nations]]
+|-
+| 7. || 29 December 2025 || Marrakesh Stadium, Marrakesh, Morocco || {{fb|ZIM}} || style="text-align:center;"| 3–2 || style="text-align:center;"|3–2
+|-
+| 8. || 27 March 2026 || [[Moses Mabhida Stadium]], [[Durban]], South Africa || {{fb|PAN}} || style="text-align:center;"| 1–1 || style="text-align:center;"|1–1 || Friendly
+|}
+
+==Career statistics==
+<!--
+{| class="wikitable" style="text-align: center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National Cup
+!colspan="2"|League Cup
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="2"|[[SuperSport United F.C.|SuperSport United]]
+|[[2019–20 South African Premier Division|2019–20]]
+|[[South African Premier Division]]
+|3||0||0||0||0||0||0||0||3||0
+|-
+|[[2020–21 South African Premier Division|2020–21]]
+|South African Premier Division
+|1||0||0||0||0||0||0||0||1||0
+|-
+!colspan=3|Career total
+!4!!0!!0!!0!!0!!0!!0!!0!!4!!0
+|}
+;Notes
+{{notelist}}
+-->
+{{updated|29 December 2025}}<ref name="NFT">{{cite web|url=https://www.national-football-teams.com/player/93109/Oswin_Appollis.html|title=Appollis, Oswin|website=National Football Teams|access-date=March 20, 2025}}</ref>
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="4"|[[South Africa national soccer team|South Africa]]
+|2023||1||0
+|-
+|2024||11||2
+|-
+|2025||11||5
+|-
+|2026||5||4
+|-
+!colspan="2"|Total||28||11
+|}
+
+:''Scores and results list South Africa's goal tally first, score column indicates score after each Appollis goal.''
+
+== Honours ==
+'''Orlando Pirates'''
+
+* [[MTN 8]]: [[2025 MTN 8|2025]]
+* [[Carling Black Label Cup]]: [[2025 Carling Knockout Cup|2025]]
+*[[South African Premiership|Betway Premiership]]: [[2025–26 South African Premiership|2025–26]]
+
+<ref>{{cite web |url=https://www.bbc.com/sport/football/68190249 |title=South Africa 0-0 DR Congo: Bafana Bafana win on penalties to finish third |archive-url=https://web.archive.org/web/20240212015031/https://www.bbc.com/sport/football/68190249 |archive-date=12 February 2024 |access-date=12 February 2024 |website=BBC Sport |publisher=}}</ref>
+
+==References==
+{{reflist}}
+
+{{Orlando Pirates F.C. squad}}
+{{Navboxes
+| title = South Africa squads
+| bg        = #FFB81C
+| fg        = #007749
+| bordercolor = #007749
+| list =
+{{South Africa squad 2023 Africa Cup of Nations}}
+{{South Africa squad 2025 Africa Cup of Nations}}
+{{South Africa squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Appollis, Oswin}}
+[[Category:2001 births]]
+[[Category:Living people]]
+[[Category:Soccer players from Cape Town]]
+[[Category:Cape Coloureds]]
+[[Category:South African men's soccer players]]
+[[Category:Men's association football midfielders]]
+[[Category:South African Premier Division players]]
+[[Category:National First Division players]]
+[[Category:Cape Town Spurs F.C. players]]
+[[Category:SuperSport United F.C. players]]
+[[Category:University of Pretoria F.C. players]]
+[[Category:Pretoria Callies F.C. players]]
+[[Category:Polokwane City F.C. players]]
+[[Category:South Africa men's youth international soccer players]]
+[[Category:South Africa men's under-20 international soccer players]]
+[[Category:South Africa men's international soccer players]]
+[[Category:2023 Africa Cup of Nations players]]
+[[Category:2025 Africa Cup of Nations players]]
+[[Category:21st-century South African sportsmen]]
+[[Category:2026 FIFA World Cup players]]
+
+{{SouthAfrica-footy-midfielder-stub}}

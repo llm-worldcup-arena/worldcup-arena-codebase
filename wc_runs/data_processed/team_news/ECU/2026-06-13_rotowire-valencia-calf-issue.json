@@ -1,0 +1,16 @@
+{
+ "team": "ECU",
+ "source": "RotoWire",
+ "url": "https://www.rotowire.com/soccer/headlines/enner-valencia-injury-calf-issue-managed-carefully-518821",
+ "title": "Enner Valencia Injury: Calf issue managed carefully | RotoWire",
+ "news_date": "2026-06-13",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "asof": "2026-06-13",
+ "fetched": "2026-06-13_0637",
+ "method": "jsonld:articleBody",
+ "status": "ok",
+ "original_text": "Valencia has been seen training alongside his teammates in recent sessions, with the rehabilitation progressing within the planned timeframe and the muscle fatigue gradually subsiding under the care of the national team's medical department. Coach Sebastian Beccacece has made clear he will take no risks with his captain in a friendly fixture, prioritizing having Ecuador's all-time top scorer at full fitness for their World Cup opener against Ivory Coast on June 14 rather than rushing him back prematurely.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

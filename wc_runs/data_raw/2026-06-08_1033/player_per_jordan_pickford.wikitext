@@ -1,0 +1,434 @@
+{{Short description|English footballer (born 1994)}}
+{{pp-semi-indef|small=yes}}
+{{Use British English|date=October 2016}}
+{{Use dmy dates|date=November 2022}}
+{{Infobox football biography
+| name = Jordan Pickford
+| image = Jordan Pickford 2022-07-16 1.jpg
+| caption = Pickford playing for [[Everton F.C.|Everton]] in 2022
+| full_name = Jordan Lee Pickford
+| birth_name = Jordan Lee Logan
+| birth_date = {{birth date and age|1994|3|7|df=y}}<ref>{{Cite web |last=UEFA.com |title=Jordan Pickford |url=https://www.uefa.com/uefanationsleague/teams/players/250024791--jordan-pickford/ |access-date=2024-11-15 |website=[[UEFA]] |language=en}}</ref>
+| birth_place = [[Washington, Tyne and Wear|Washington]], Tyne and Wear, England
+| height = {{convert|1.85|m|order=flip}}<ref name="PremProfile">{{cite web |url=https://www.premierleague.com/players/4640/Jordan-Pickford/overview |title=Jordan Pickford: Overview |publisher=Premier League |access-date=1 April 2023}}</ref>
+| position = [[Goalkeeper (association football)|Goalkeeper]]<ref>{{Hugman|26312|access-date=12 April 2020}}</ref>
+| currentclub = [[Everton F.C.|Everton]]
+| clubnumber = 1
+| youthyears1 = 2002–2011
+| youthclubs1 = [[Sunderland A.F.C. Reserves and Academy|Sunderland]]
+| years1 = 2011–2017
+| clubs1 = [[Sunderland A.F.C.|Sunderland]]
+| caps1 = 31
+| goals1 = 0
+| years2 = 2012
+| clubs2 = → [[Darlington F.C.|Darlington]] (loan)
+| caps2 = 17
+| goals2 = 0
+| years3 = 2013
+| clubs3 = → [[Alfreton Town F.C.|Alfreton Town]] (loan)
+| caps3 = 12
+| goals3 = 0
+| years4 = 2013
+| clubs4 = → [[Burton Albion F.C.|Burton Albion]] (loan)
+| caps4 = 12
+| goals4 = 0
+| years5 = 2014
+| clubs5 = → [[Carlisle United F.C.|Carlisle United]] (loan)
+| caps5 = 18
+| goals5 = 0
+| years6 = 2014–2015
+| clubs6 = → [[Bradford City A.F.C.|Bradford City]] (loan)
+| caps6 = 33
+| goals6 = 0
+| years7 = 2015–2016
+| clubs7 = → [[Preston North End F.C.|Preston North End]] (loan)
+| caps7 = 24
+| goals7 = 0
+| years8 = 2017–
+| clubs8 = [[Everton F.C.|Everton]]
+| caps8 = 331
+| goals8 = 0
+| nationalyears1 = 2009–2010
+| nationalteam1 = [[England national under-16 football team|England U16]]<!-- per http://www.englandfootballonline.com/MatchRsl/MatchRslTmU16pg3.html -->
+| nationalcaps1 = 5
+| nationalgoals1 = 0
+| nationalyears2 = 2010–2011
+| nationalteam2 = [[England national under-17 football team|England U17]]<!-- per http://www.englandfootballonline.com/MatchRsl/MatchRslTmU17pg2.html -->
+| nationalcaps2 = 17
+| nationalgoals2 = 0
+| nationalyears3 = 2010–2012
+| nationalteam3 = [[England national under-18 football team|England U18]]<!-- per http://www.englandfootballonline.com/MatchRsl/MatchRslTmU18pg7.html -->
+| nationalcaps3 = 3
+| nationalgoals3 = 0
+| nationalyears4 = 2012–2013
+| nationalteam4 = [[England national under-19 football team|England U19]]<!-- per http://www.englandfootballonline.com/MatchRsl/MatchRslTmU19pg2.html -->
+| nationalcaps4 = 8
+| nationalgoals4 = 0
+| nationalyears5 = 2015
+| nationalteam5 = [[England national under-20 football team|England U20]]<!-- per http://www.englandfootballonline.com/MatchRsl/MatchRslTmU21pg4.html includes two appearances from the 2015 Toulon Tournament, which England Football Online list on their U21 page although the FA class England's matches at this tournament as being at U20 level -->
+| nationalcaps5 = 3
+| nationalgoals5 = 0
+| nationalyears6 = 2015–2017
+| nationalteam6 = [[England national under-21 football team|England U21]] <!-- http://www.englandfootballonline.com/MatchRsl/MatchRslTmU21pg4.html excludes two appearances from the 2015 Toulon Tournament, which England Football Online list on their U21 page although the FA class England's matches at this tournament as being at U20 level -->
+| nationalcaps6 = 14
+| nationalgoals6 = 0
+| nationalyears7 = 2017–
+| nationalteam7 = [[England national football team|England]]
+| nationalcaps7 = 83
+| nationalgoals7 = 0
+| medaltemplates = {{MedalSport|Men's [[Association football|football]]}}
+{{MedalCountry|{{fb|ENG}}}}
+{{MedalCompetition|[[UEFA European Championship]]}}
+{{Medal|RU|[[UEFA Euro 2020|2020 Europe]]|[[UEFA Euro 2020 squads#England|Team]]}}
+{{Medal|RU|[[UEFA Euro 2024|2024 Germany]]|[[UEFA Euro 2024 squads#England|Team]]}}
+{{MedalCompetition|[[UEFA Nations League]]}}
+{{Medal|3rd|[[2019 UEFA Nations League Finals|2019 Portugal]]|[[2019 UEFA Nations League Finals squads#England|Team]]}}
+| club-update = 23:18, 24 May 2026 (UTC)
+| nationalteam-update = 22:10, 6 June 2026 (UTC)
+}}
+'''Jordan Lee Pickford''' (''{{ne}}'' '''Logan'''; born 7 March 1994) is an English professional [[Association football|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for {{English football updater|Everton}} club [[Everton F.C.|Everton]] and the [[England national football team|England national team]].
+
+Pickford began his career at [[Sunderland A.F.C.|Sunderland]], and played for their academy, reserve and senior teams. He had [[Loan (association football)|loan]] spells at [[Darlington F.C.|Darlington]], [[Alfreton Town F.C.|Alfreton Town]], [[Burton Albion F.C.|Burton Albion]], [[Carlisle United F.C.|Carlisle United]], [[Bradford City A.F.C.|Bradford City]] and [[Preston North End F.C.|Preston North End]]. He signed for Everton for a fee of £30 million in June 2017.
+
+Pickford has represented England at [[England national under-16 football team|under-16]], [[England national under-17 football team|under-17]], [[England national under-18 football team|under-18]], [[England national under-19 football team|under-19]], [[England national under-20 football team|under-20]] and [[England national under-21 football team|under-21]] levels. He made his debut for the full England national team in November 2017 in a friendly against [[Germany national football team|Germany]]. He was the starting goalkeeper in England's [[2018 FIFA World Cup]] fourth-place finish, in which the squad made its first semi-final appearance since 1990. He also started in England's [[UEFA Euro 2020]] runners-up finish, in which they reached their first ever Euro final and first major tournament final since 1966. Starting every game in the group stage, Pickford conceded no goals. Pickford again started as England's first-choice goalkeeper as they reached the [[UEFA Euro 2024 final|final]] of [[UEFA Euro 2024]].
+
+==Early and personal life==
+Jordan Lee Pickford<ref>{{cite web |url=https://www.premierleague.com/news/612828 |title=Updated squads for 2017/18 Premier League confirmed |publisher=Premier League |date=2 February 2018 |access-date=11 February 2018}}</ref> was born Jordan Lee Logan<ref>{{cite web |url=http://www.englandfootballonline.com/TeamPlyrsBios/PlayersP/BioPickfordJL.html |title=Jordan Pickford |website=England Football Online |date=11 November 2023 |access-date=13 November 2023}}</ref> on 7 March 1994<ref>{{cite web |url=https://www.11v11.com/players/jordan-pickford-236512/ |title=Jordan Pickford |website=11v11.com |publisher=AFS Enterprises |access-date=18 May 2018}}</ref> in [[Washington, Tyne and Wear|Washington]], Tyne and Wear.<ref>{{cite web |url=https://www.worldfootball.net/person/pe253400/jordan-pickford/ |title=Jordan Pickford: Profile |website=Worldfootball.net |publisher=HEIM:SPIEL |access-date=12 April 2020}}</ref> His father Lee had changed the family name from Pigford before he was born.<ref>{{Cite news |last=Christenson |first=Marcus |last2=Hills |first2=David |last3=Bloor |first3=Steven |last4=Blight |first4=Garry |last5=Munday |first5=Billy |date=2026-06-04 |title=World Cup 2026: guide to all 1,248 players |url=https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide |access-date=2026-06-06 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref> He attended [[St Robert of Newminster Catholic School]].<ref name="SEcho_Nov2016">{{cite news |last=Wheeler |first=Katy |title=Hundreds turn up to Sunderland players' Christmas signing session |url=http://www.sunderlandecho.com/lifestyle/hundreds-turn-up-to-sunderland-players-christmas-signing-session-1-8262680 |newspaper=Sunderland Echo |access-date=13 June 2017}}</ref> He grew up supporting his local football club, [[Sunderland A.F.C.|Sunderland]].<ref>{{Cite web|url=https://www.chroniclelive.co.uk/sport/football/football-news/jordan-pickford-hope-sunderland-fans-13287875|title = Jordan Pickford: I hope I did Sunderland fans proud, I'll be back as a fan in the south stand|website=Chroniclelive.co.uk|date = 5 July 2017}}</ref><ref>{{Cite web|url=https://news.sky.com/story/jordan-pickford-from-a-career-low-that-led-to-death-threats-to-star-england-player-at-euro-2020-12350609|title = Jordan Pickford: From a career low that led to death threats to starring for England at Euro 2020|website=News.sky.com}}</ref><ref>{{Cite web|url=https://www.itv.com/news/tyne-tees/2021-06-17/sunderland-born-jordan-pickford-the-best-is-yet-to-come-from-me|title = Sunderland born Jordan Pickford: The best is yet to come from me|website=Itv.com|date = 18 June 2021}}</ref>
+
+Pickford began dating Megan Davison whilst at secondary school. In March 2020, they married. The couple have a son who was born in 2019,<ref>{{cite news |last1=Collings |first1=Katie |title=Jordan Pickford's fiancée Megan Davison reveals adorable first picture of their newborn baby |url=https://www.chroniclelive.co.uk/news/north-east-news/jordan-pickfords-fiance-megan-davison-15896771 |access-date=29 September 2019 |website=Chronicle Live |date=27 February 2019}}</ref> and two daughters born in 2023 and 2025.<ref>{{cite news |last=Cooper |first=Matthew |title=Jordan Pickford and wife Megan welcome third child – giving her adorable name |url=https://www.mirror.co.uk/sport/football/news/jordan-pickford-megan-baby-daughter-35070146 |access-date=17 October 2025 |website=The Mirror |date=17 April 2025}}</ref>
+
+==Club career==
+===Sunderland===
+Pickford joined [[Sunderland A.F.C. Reserves and Academy|Sunderland's Academy]] at the age of eight and progressed through the age groups before signing two-year scholarship terms in 2010.<ref name="skysports.com">{{cite news |last=Charles |first=Andy |url=http://www.skysports.com/football/news/11695/10144727/sunderland-goalkeeper-jordan-pickford-signs-new-contract |title=Sunderland goalkeeper Jordan Pickford signs new contract |website=Sky Sports |date=26 January 2016 |access-date=11 October 2016}}</ref> The following year, he was promoted from the Academy to the reserve team.<ref>{{cite news |title=Black Cats boss has keeper dilemma |url=http://www.thenorthernecho.co.uk/sport/9080459.Black_Cats_boss_has_keeper_dilemma/ |newspaper=The Northern Echo |location=Darlington |date=13 June 2011 |access-date=17 October 2016}}</ref>
+
+In 2011, Pickford signed his first professional contract with the club.<ref>{{cite news |title=Poyet still wants Sunderland back-up, despite Pickford deal |url=http://www.sunderlandecho.com/sport/football/sunderland-afc/poyet-still-wants-sunderland-back-up-despite-pickford-deal-1-6648325 |newspaper=Sunderland Echo |date=2 June 2014 |access-date=17 October 2016 |archive-url=https://web.archive.org/web/20170815181328/http://www.sunderlandecho.com/sport/football/sunderland-afc/poyet-still-wants-sunderland-back-up-despite-pickford-deal-1-6648325 |archive-date=15 August 2017}}</ref> The following year, he signed a contract extension with the club.<ref>{{cite news |title=Sunderland sign up two players to their youth system |url=http://www.chroniclelive.co.uk/sport/football/football-news/sunderland-sign-up-two-players-1367457 |newspaper=Evening Chronicle |location=Newcastle upon Tyne |date=8 June 2012 |access-date=17 October 2016}}</ref>
+
+====Loans to Darlington and Alfreton Town====
+Pickford signed on [[Loan (association football)|loan]] for [[Conference Premier]] club [[Darlington F.C.|Darlington]] in time to make his debut against [[Fleetwood Town F.C.|Fleetwood Town]] on 21 January 2012, playing the whole of a 1–0 home loss.<ref>{{cite news |title=Keeper Jordan Pickford signs as the region rallies round Darlington FC |url=http://www.gazettelive.co.uk/sport/football/football-news/keeper-jordan-pickford-signs-region-3677528 |newspaper=Teesside Gazette |location=Middlesbrough |access-date=3 August 2013}}</ref><ref>{{cite news |title=Match Report: Darlington 0–1 Fleetwood Town |url=http://www.chroniclelive.co.uk/sport/football/football-news/darlington-0-fleetwood-town-1-1343033 |newspaper=Evening Chronicle |location=Newcastle upon Tyne |date=22 January 2012 |access-date=17 October 2016}}</ref> The initial month-long loan was subsequently extended until the end of April.<ref>{{cite news |title=Sunderland keeper Jordan Pickford extends Darlington loan |url=https://www.bbc.co.uk/sport/football/17105108 |website=BBC Sport |date=20 February 2012 |access-date=3 August 2013}}</ref> He went on to make 17 appearances for Darlington,<ref name=Soccerway/> who were relegated.<ref>{{Cite web |title=A Brief History of Darlington FC |url=http://darlingtonfootballclub.co.uk/history/brief-history/ |publisher=Darlington F.C. |access-date=14 November 2017}}</ref>
+
+On 25 February 2013, Pickford signed for Conference Premier club [[Alfreton Town F.C.|Alfreton Town]], again on an initial month-long loan<ref>{{cite news |title=Alfreton Town sign Sunderland keeper Jordan Pickford |url=https://www.bbc.co.uk/sport/football/21579193 |website=BBC Sport |access-date=3 August 2013}}</ref> and was a cover for [[Phil Barnes]], who was injured.<ref>{{cite news |title=Pickford moves in to help Alfreton Town with Barnes out |url=http://www.derbytelegraph.co.uk/pickford-moves-help-alfreton-barnes/story-18256218-detail/story.html |newspaper=Derby Telegraph |date=25 February 2013 |access-date=17 October 2016 |archive-url=https://web.archive.org/web/20161017190852/http://www.derbytelegraph.co.uk/pickford-moves-help-alfreton-barnes/story-18256218-detail/story.html |archive-date=17 October 2016}}</ref> He made his debut the next day in a 5–1 win over [[Hyde United F.C.|Hyde United]].<ref>{{cite news |title=Tomlinson hits hat-trick as Alfreton Town crush Hyde United |url=http://www.derbytelegraph.co.uk/tomlinson-hits-hat-trick-alfreton-town-crush-hyde/story-18265198-detail/story.html |newspaper=Derby Telegraph |date=26 February 2013 |access-date=17 October 2016 |archive-url=https://web.archive.org/web/20161017191229/http://www.derbytelegraph.co.uk/tomlinson-hits-hat-trick-alfreton-town-crush-hyde/story-18265198-detail/story.html |archive-date=17 October 2016}}</ref> His loan spell at the club was subsequently extended until the end of the season.<ref>{{cite news |title=Jordan Pickford: Alfreton Town extend Sunderland keeper's loan |url=https://www.bbc.co.uk/sport/football/21964851 |website=BBC Sport |access-date=3 August 2013}}</ref> During this spell, Pickford kept 5 [[clean sheets]] in 12 matches.<ref name="burtonloan">{{cite news |title=Jordan Pickford: Burton agree deal Sunderland keeper |url=https://www.bbc.co.uk/sport/football/23540671 |website=BBC Sport |access-date=3 August 2013}}</ref>
+
+====Loans to Burton Albion and Carlisle United====
+On 2 August 2013, Pickford signed another loan deal, this time with [[EFL League Two|League Two]] club Burton Albion,<ref name="burtonloan"/> and made his debut the next day against [[Cheltenham Town F.C.|Cheltenham Town]].<ref name="soccerbase">{{soccerbase|id=63860|name=Jordan Pickford}}</ref> However, his loan ended on 17 August, after Sunderland recalled him with Pickford featuring just three times for Burton.<ref name="burtontermination">{{cite news |title=Derby County keeper joins Burton Albion on loan |url=http://www.derbytelegraph.co.uk/Derby-County-keeper-joins-Burton-Albion-loan/story-19673066-detail/story.html |newspaper=Derby Telegraph |access-date=17 August 2013 |archive-url=https://web.archive.org/web/20130820084821/http://www.derbytelegraph.co.uk/Derby-County-keeper-joins-Burton-Albion-loan/story-19673066-detail/story.html |archive-date=20 August 2013}}</ref><ref>{{cite news |title=Lyness steps up as Pickford recalled |url=http://www.derbytelegraph.co.uk/lyness-steps-pickford-recalled/story-19677394-detail/story.html |newspaper=Derby Telegraph |date=19 August 2013 |access-date=17 October 2016 |archive-url=https://web.archive.org/web/20161017192659/http://www.derbytelegraph.co.uk/lyness-steps-pickford-recalled/story-19677394-detail/story.html |archive-date=17 October 2016}}</ref> On 13 September, Pickford re-joined Burton on loan.<ref>{{cite web |url=http://www.burtonalbionfc.co.uk/news/article/pickfordreturn-1049311.aspx |title=Pickford back at the Pirelli |publisher=Burton Albion F.C. |date=13 September 2013 |access-date=7 December 2013 |archive-url=https://web.archive.org/web/20160305074939/http://www.burtonalbionfc.co.uk/news/article/pickfordreturn-1049311.aspx |archive-date=5 March 2016 |url-status=live}}</ref> His handful of first-team appearances at Burton Albion led to an extension of his loan spell for another month.<ref>{{cite news |title=Burton Albion extend loan of Sunderland goalkeeper Jordan Pickford |url=http://www.derbytelegraph.co.uk/burton-albion-extend-loan-sunderland-goalkeeper/story-19939108-detail/story.html |newspaper=Derby Telegraph |date=16 October 2013 |access-date=17 October 2016 |archive-url=https://web.archive.org/web/20131019093740/http://www.derbytelegraph.co.uk/Burton-Albion-extend-loan-Sunderland-goalkeeper/story-19939108-detail/story.html |archive-date=19 October 2013}}</ref> After making 13 appearances across his two loan spells, Pickford was recalled by his parent club once again.<ref>{{cite web |url=http://www.burtonalbionfc.co.uk/news/article/20131122-pickford-1190533.aspx |title=Pickford Recalled |publisher=Burton Albion F.C. |date=22 November 2013 |access-date=17 October 2016 |archive-url=https://web.archive.org/web/20161017192406/http://www.burtonalbionfc.co.uk/news/article/20131122-pickford-1190533.aspx |archive-date=17 October 2016 |url-status=live}}</ref> He subsequently spent 11 matches as an unused substitute on the bench as a cover for [[Vito Mannone]] between 23 November 2013 and 18 January 2014.<ref name=auto>{{cite news |title=Sunderland goalkeeper facing lengthy spell on the sidelines as operation looks likely |url=http://www.thenorthernecho.co.uk/sport/10890580.Sunderland_goalkeeper_facing_lengthy_spell_on_the_sidelines_as_operation_looks_likely/ |newspaper=The Northern Echo |location=Darlington |date=20 November 2013 |access-date=17 October 2016}}</ref>
+
+Although it was rumoured that he could return on loan to Burton for the third time,<ref>{{cite web |url=https://www.planetfootball.com/in-depth/jordan-pickfords-brilliant-career-in-quotes-it-was-clear-he-was-special/ |title=Jordan Pickford's brilliant career in quotes: 'It was clear he was special' |website=Planet Football.com |date=10 July 2018 |access-date=22 October 2020}}</ref> Pickford joined League One club [[Carlisle United F.C.|Carlisle United]] on a one-month loan on 8 February 2014.<ref>{{cite web |title=Loan: Keeper joins Cumbrians |url=http://www.carlisleunited.co.uk/news/article/pickfordloan7feb14-1345128.aspx |publisher=Carlisle United F.C. |date=8 February 2014 |archive-url=https://web.archive.org/web/20160304052314/http://www.carlisleunited.co.uk/news/article/pickfordloan7feb14-1345128.aspx |archive-date=4 March 2016 |url-status=live}}</ref> He made his debut that same day in a 2–1 loss away to [[Gillingham F.C.|Gillingham]].<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/25994422 |title=Carlisle United 1–2 Gillingham |website=BBC Sport |date=8 February 2014 |access-date=13 June 2018}}</ref> His form and handful of first-team appearances led the club to keep him on loan for the rest of the season.<ref>{{cite web |url=http://www.carlisleunited.co.uk/news/article/pickfordloanextends10march14-1409746.aspx |title=Loan: Keeper sticks with United |publisher=Carlisle United F.C. |date=14 March 2014 |access-date=17 October 2016 |archive-url=https://web.archive.org/web/20161017194959/http://www.carlisleunited.co.uk/news/article/pickfordloanextends10march14-1409746.aspx |archive-date=17 October 2016 |url-status=live}}</ref> After extending his loan at the club, Pickford went on to make 18 appearances for Carlisle.<ref name=sb1314/>
+
+At the end of the 2013–14 season, Pickford signed a four-year contract with Sunderland, keeping him at the club until 2018.<ref>{{cite news |title=Sunderland tie youngster to long-term deal |url=http://www.thenorthernecho.co.uk/sport/11248898.Sunderland_tie_youngster_to_long_term_deal |newspaper=The Northern Echo |location=Darlington |date=1 June 2014 |access-date=17 October 2016}}</ref>
+
+====Loan to Bradford City====
+On 21 July 2014, Pickford joined [[EFL League One|League One]] club Bradford City on a season-long loan for the 2014–15 season.<ref>{{cite web |title=Pickford on the move |url=http://www.safc.com/news/team-news/2014/july/pickford-on-the-move |publisher=Sunderland A.F.C. |access-date=21 July 2014 |archive-url=https://web.archive.org/web/20140721121410/http://www.safc.com/news/team-news/2014/july/pickford-on-the-move |archive-date=21 July 2014}}</ref> He made his debut on 9 August in a 3–2 win against [[Coventry City F.C.|Coventry City]] at [[Valley Parade]],<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/28646631 |title=Bradford City 3–2 Coventry City |website=BBC Sport |date=9 August 2014 |access-date=11 October 2016}}</ref> and kept his first clean sheet in the following match, a 0–0 draw away to [[Walsall F.C.|Walsall]].<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/28716713 |title=Walsall 0–0 Bradford City |website=BBC Sport |date=16 August 2014 |access-date=11 October 2016}}</ref> Pickford then received his first ever red card after he was sent off in the 11th minute of a 2–1 loss to [[Rochdale A.F.C.|Rochdale]] on 10 January 2015.<ref>{{cite news |title=Bradford City 1–2 Rochdale |url=https://www.bbc.co.uk/sport/football/30663535 |website=BBC Sport |date=10 January 2015 |access-date=17 October 2016}}</ref> He served a one-match suspension which his club did not appeal.<ref>{{cite web |url=http://www.bradfordcityfc.co.uk/news/article/city-decide-against-pickford-appeal-2197948.aspx |title=City decide against Pickford appeal |publisher=Bradford City A.F.C. |date=12 January 2015 |access-date=17 October 2016 |archive-url=https://web.archive.org/web/20161017202706/http://www.bradfordcityfc.co.uk/news/article/city-decide-against-pickford-appeal-2197948.aspx |archive-date=17 October 2016 |url-status=live}}</ref>
+
+On 7 February, he was once again expelled from play as he was sent off in the last minute of a 2–2 away draw against [[Port Vale F.C.|Port Vale]].<ref>{{cite news |title=Port Vale 2–2 Bradford City |url=https://www.bbc.co.uk/sport/football/31070834 |website=BBC Sport |date=7 February 2015 |access-date=17 October 2016}}</ref> After being given a two-match ban, the club successfully appealed and had it revoked.<ref>{{cite web |url=http://www.bradfordcityfc.co.uk/news/article/pickford-set-for-two-match-ban-2254726.aspx |title=Pickford set for two-match ban |publisher=Bradford City A.F.C. |date=7 February 2015 |access-date=17 October 2016 |archive-url=https://web.archive.org/web/20150313123205/http://www.bradfordcityfc.co.uk/news/article/pickford-set-for-two-match-ban-2254726.aspx |archive-date=13 March 2015 |url-status=live}}</ref><ref>{{cite web |url=http://www.bradfordcityfc.co.uk/news/article/city-win-pickford-appeal-2257188.aspx |title=City win Pickford appeal |publisher=Bradford City A.F.C. |date=9 January 2015 |access-date=17 October 2016 |archive-url=https://web.archive.org/web/20161017203251/http://www.bradfordcityfc.co.uk/news/article/city-win-pickford-appeal-2257188.aspx |archive-date=17 October 2016 |url-status=live}}</ref>
+
+Pickford established himself as a first-choice goalkeeper for most of the season until he was recalled by his parent club on 9 March 2015.<ref>{{cite web |url=http://www.bradfordcityfc.co.uk/news/article/pickford-returns-to-sunderland-2323603.aspx |title=Pickford returns to Sunderland |publisher=Bradford City A.F.C. |date=9 March 2015 |access-date=17 October 2016 |archive-url=https://web.archive.org/web/20150322175418/http://www.bradfordcityfc.co.uk/news/article/pickford-returns-to-sunderland-2323603.aspx |archive-date=22 March 2015 |url-status=live}}</ref>
+
+====Loan to Preston North End====
+On 31 July 2015, Pickford joined [[EFL Championship|Championship]] club [[Preston North End F.C.|Preston North End]] on a season-long loan for the [[2015–16 Preston North End F.C. season|2015–16 season]].<ref>{{cite web |title=Pickford Joins Preston |url=http://www.safc.com/news/team-news/2015/july/pickford-joins-preston |publisher=Sunderland A.F.C. |date=31 July 2015}}</ref> He kept a clean sheet on his debut in a 0–0 draw against [[Middlesbrough F.C.|Middlesbrough]] at [[Deepdale]].<ref>{{cite news |last=Aloia |first=Andrew |url=https://www.bbc.co.uk/sport/football/33750467 |title=Preston North End 0–0 Middlesbrough |website=BBC Sport |date=9 August 2015 |access-date=11 October 2016}}</ref>
+
+Further clean sheets in a 1–0 win against [[Milton Keynes Dons F.C.|Milton Keynes Dons]] in his second league appearance and a 0–0 draw with [[Rotherham United F.C.|Rotherham United]] on 18 August made it three clean sheets from his first three league appearances for the club.<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/33831740 |title=MK Dons 0–1 Preston North End |website=BBC Sport |date=15 May 2015 |access-date=11 October 2016}}</ref><ref>{{cite news |url=https://www.bbc.co.uk/sport/football/33857728 |title=Rotherham United 0–0 Preston North End |website=BBC Sport |date=18 August 2015 |access-date=11 October 2016}}</ref> On 25 August, Pickford kept another clean sheet as Preston defeated [[Premier League]] team [[Watford F.C.|Watford]] 1–0 in the [[2015–16 Football League Cup|League Cup]].<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/33969908 |title=Preston 1–0 Watford |website=BBC Sport |access-date=29 October 2017}}</ref> On 7 November, he recorded a 6th consecutive clean sheet in a 0–0 draw against QPR, equalling the club record.<ref>{{cite news |url=http://www.sunderlandecho.com/sport/sunderland-afc/latest-safc-news/safc-match-analysis/sam-allardyce-keeping-close-eye-on-preston-s-on-loan-sunderland-keeper-jordan-pickford-1-7553951 |title=Sam Allardyce keeping close eye on Preston's on-loan Sunderland keeper Jordan Pickford |newspaper=Sunderland Echo |access-date=11 October 2016 |archive-url=https://web.archive.org/web/20160304074014/http://www.sunderlandecho.com/sport/sunderland-afc/latest-safc-news/safc-match-analysis/sam-allardyce-keeping-close-eye-on-preston-s-on-loan-sunderland-keeper-jordan-pickford-1-7553951 |archive-date=4 March 2016}}</ref><ref>{{cite news |url=https://www.bbc.co.uk/sport/football/34685931 |title=Queens Park Rangers 0–0 Preston North End |website=BBC Sport |access-date=11 October 2016}}</ref> During his stint at Preston, Pickford impressed his veteran goalkeeping teammate [[Chris Kirkland]], who said "Jordan comes out to take crosses and has an authority for someone still very young... As for his kicking, that is brilliant! I have never seen anyone kick a ball like he does."<ref>{{cite news |url=http://www.sunderlandecho.com/sport/sunderland-afc/latest-safc-news/safc-match-analysis/going-to-the-top-pickford-could-keep-sunderland-up-says-chris-kirkland-1-7634077 |title='Going to the top' Pickford could keep Sunderland up, says Chris Kirkland |newspaper=Sunderland Echo |access-date=11 October 2016}}</ref> On 20 December 2015, Pickford was controversially sent off in a 1–0 defeat against [[Leeds United F.C.|Leeds United]]: he rushed out of his box to challenge striker [[Chris Wood (footballer, born 1991)|Chris Wood]], and was judged to have handled the ball.<ref>{{cite news |url=http://www.lep.co.uk/sport/national-football/pne-set-to-appeal-pickford-dismissal-1-7635514 |title=PNE set to appeal Pickford dismissal |newspaper=Lancashire Evening Post |location=Preston |access-date=11 October 2016}}</ref> Preston successfully appealed the decision, using replay footage that showed the ball hitting his chest.<ref>{{cite news |url=http://www.lep.co.uk/sport/national-football/pne-keeper-pickford-wins-red-card-appeal-1-7638855 |title=PNE keeper Pickford wins red card appeal |newspaper=Lancashire Evening Post |location=Preston |access-date=11 October 2016}}</ref>
+
+====Return to Sunderland====
+On 1 January 2016, Pickford was recalled by Sunderland, with the side struggling in 19th place in the [[2015–16 Premier League|Premier League]].<ref>{{cite news |title=Man Utd's Sam Johnstone off on loan to Preston North End |url=http://www.skysports.com/football/news/11697/10115470/man-utds-sam-johnstone-off-on-loan-to-preston-north-end |website=Sky Sports |access-date=31 December 2015}}</ref> He made his first-team debut on 9 January 2016, in a 3–1 [[2015–16 FA Cup|FA Cup]] loss to [[Arsenal F.C.|Arsenal]].<ref>{{cite news |title=Arsenal 3 Sunderland 1: Gunners fight back to knock Cats out of FA Cup |url=http://www.shieldsgazette.com/sport/sunderland-afc/latest-safc-news/arsenal-3-sunderland-1-gunners-fight-back-to-knock-cats-out-of-fa-cup-1-7665597 |newspaper=Shields Gazette |access-date=9 January 2016 |archive-url=https://web.archive.org/web/20160113014103/http://www.shieldsgazette.com/sport/sunderland-afc/latest-safc-news/arsenal-3-sunderland-1-gunners-fight-back-to-knock-cats-out-of-fa-cup-1-7665597 |archive-date=13 January 2016}}</ref> He made his Premier League debut against [[Tottenham Hotspur F.C.|Tottenham Hotspur]] at [[White Hart Lane]] on 16 January 2016 losing 4–1, meaning he had played in the top five leagues of English football by the age of 21.<ref>{{cite web |url=https://www.premierleague.com/news/60834 |title=Pickford promise fulfilled for club and country |publisher=Premier League |date=16 July 2016 |access-date=12 November 2017}}</ref> On 26 January, Pickford signed a new contract committing his future to Sunderland until 2020.<ref name="skysports.com"/>
+
+Pickford began the [[2016–17 Sunderland A.F.C. season|2016–17]] season as understudy to Vito Mannone. However, after Mannone suffered a serious arm injury in training, Pickford started Sunderland's third league match of the season, away to [[Southampton F.C.|Southampton]]. He produced several saves during the match, but in the 85th minute he made an error that allowed [[Jay Rodriguez]] to equalise for the hosts in a 1–1 draw.<ref name="Echo_October2016"/> On 13 April 2017, Pickford was named as one of six players shortlisted for the [[PFA Young Player of the Year]] award.<ref>{{cite web |url=https://www.thepfa.com/news/2017/4/13/pfa-mens-young-player-of-the-year |title=Men's PFA Young Player of the Year 2017 |date=13 April 2017 |publisher=Professional Footballers' Association}}</ref>
+
+===Everton===
+====2017–18 season====
+On 15 June 2017, Pickford signed for Premier League club [[Everton F.C.|Everton]] on a five-year contract. The initial fee of £25&nbsp;million, with the possibility of rising to £30&nbsp;million in add-ons, made him [[Goalkeeper (association football)#Highest transfer fees|the third most expensive goalkeeper in history]] at the time, the most expensive British goalkeeper of all time and will make him Everton's second most expensive signing, pending add-on payments,<ref>{{cite news |title=Jordan Pickford: Everton confirm £25m, rising to £30m, deal with Sunderland |url=https://www.bbc.co.uk/sport/football/40258852 |website=BBC Sport |date=15 June 2017 |access-date=5 September 2017}}</ref> as [[Gylfi Sigurðsson]] is currently the club's most expensive signing with £40&nbsp;million plus add-on payments.<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/40848343 |title=Gylfi Sigurdsson: Everton sign £45m deal for Swansea midfielder |website=BBC Sport |date=16 August 2017 |access-date=9 September 2017}}</ref> Pickford made his league debut for Everton on 12 August 2017, when his club beat [[Stoke City F.C.|Stoke City]] 1–0 at Goodison Park.<ref name=sb1718/> At the conclusion of his first season, he was named Everton's Player of the Season, along with numerous other club accolades.<ref>{{cite news |url=http://www.skysports.com/football/news/11671/11355385/jordan-pickford-honoured-after-dominating-everton-awards-night |title=Jordan Pickford 'honoured' after dominating Everton awards night |website=Sky Sports |date=1 May 2017 |access-date=4 July 2018}}</ref>
+
+====2018–19 season====
+On 2 December 2018, against [[Merseyside derby|local rivals]] [[Liverpool F.C.|Liverpool]], Pickford made a last-minute mistake after he mishandled a volley from [[Virgil van Dijk]], allowing [[Divock Origi]] to score the winning goal for Liverpool from a close-range header in the 96th minute.<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/46333097 |title=Liverpool 1–0 Everton: Jordan Pickford error gifts Divock Origi late winner |website=BBC Sport |date=2 December 2018 |access-date=12 December 2018}}</ref><ref>{{cite news |url=https://www.independent.co.uk/sport/football/premier-league/liverpool-everton-jordan-pickford-mistake-goal-error-divock-origi-a8664181.html |archive-url=https://ghostarchive.org/archive/20220614/https://www.independent.co.uk/sport/football/premier-league/liverpool-everton-jordan-pickford-mistake-goal-error-divock-origi-a8664181.html |archive-date=14 June 2022 |url-access=subscription |url-status=live |title= Liverpool vs Everton: Jordan Pickford explains what he was trying to do in 'freak' mistake |newspaper=The Independent |date=2 December 2018 |access-date=12 December 2018}}</ref>
+
+On 10 March 2019, against [[Newcastle United F.C.|Newcastle United]], Pickford misjudged a cross from [[Matt Ritchie]] and then [[Tackle (football move)#Rugby union|rugby tackle]]d [[Salomón Rondón]], conceding a penalty. He quickly redeemed himself by saving Ritchie's penalty with his legs, and Everton doubled their lead a minute later.<ref>{{cite news |url=https://www.telegraph.co.uk/football/2019/03/09/villain-hero-scapegoat-jordan-pickford-spotlight-newcastle/ |archive-url=https://ghostarchive.org/archive/20220112/https://www.telegraph.co.uk/football/2019/03/09/villain-hero-scapegoat-jordan-pickford-spotlight-newcastle/ |archive-date=12 January 2022 |url-access=subscription |url-status=live |title=From villain, to hero, to scapegoat – Jordan Pickford in the spotlight as Newcastle fight back to stun Everton|newspaper=The Daily Telegraph |date=9 March 2019 |access-date=21 March 2019}}{{cbignore}}</ref> In the second half, when an effort by Rondón went wide of the post, Pickford was seen smiling at the Newcastle fans in the Gallowgate end. However, he conceded three times after that, including parrying a shot by [[Miguel Almirón]] into the path of [[Ayoze Pérez]]. On ''[[Match of the Day]]'', [[Ian Wright]] suggested that Pickford should have focused on his game more, and given he was a former Sunderland player, not let his emotions affect him.<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/47424848|title=Newcastle United 3–2 Everton|website=BBC Sport|date=10 March 2019|access-date=22 March 2019}}</ref> In April 2019 Pickford was allegedly filmed involved in a fracas; police said they would investigate.<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/47779510|title=Jordan Pickford: Police investigate alleged incident involving England goalkeeper|date=2 April 2019|website=BBC Sport}}</ref>
+
+====2019–20 season====
+Pickford remained Everton's first choice goalkeeper, making 38 appearances in the [[Premier League]] and keeping 13 clean sheets.<ref>{{cite web |title=Jordan Pickford statistics 2019/20 |url=https://www.premierleague.com/players/4640/Jordan-Pickford/stats?co=1&se=274 |website=PremierLeague.com |publisher=Premier League |access-date=15 November 2020}}</ref>
+
+However, he struggled with form and again made several errors. His record of four errors leading to goals was the highest of any keeper in the Premier League.<ref>{{cite web |last1=Lucas |first1=Katherine |title=Jordan Pickford keeps making errors – but will Everton and England stick by the goalkeeper? |url=https://inews.co.uk/sport/football/jordan-pickford-errors-everton-england-ancelotti-southgate-659590 |website=iNews |date=25 September 2020 |publisher=Daily Mail and General Trust plc |access-date=15 November 2020}}</ref> When it came to saving shots, only [[Chelsea F.C.|Chelsea]]'s [[Kepa Arrizabalaga]] saved fewer than Pickford.<ref>{{cite web |last1=Swan |first1=Rob |title=Kepa Arrizabalaga has the worst save percentage of any goalkeeper in the Premier League |url=https://www.givemesport.com/1539468-kepa-arrizabalaga-has-the-worst-save-percentage-of-any-goalkeeper-in-the-premier-league |website=Give Me Sport |date=19 January 2020 |publisher=Sports New Media Limited |access-date=15 November 2020}}</ref> Despite this, [[Carlo Ancelotti]] remained steadfast in his support for Pickford, saying "Sometimes unfortunately you can have a mistake but after that you need to have the personality to move on quickly and he did."<ref>{{cite web |title=Jordan Pickford has personality to brush off critics, says Carlo Ancelotti |url=https://www.skysports.com/football/news/11671/11940145/jordan-pickford-has-personality-to-brush-off-critics-says-carlo-ancelotti |website=Sky Sports |publisher=Sky |access-date=15 November 2020}}</ref>
+
+However, he performed much better in the [[EFL Cup]], being part of the team that made the Quarter-Finals of the competition, including saving a penalty from [[Leicester City]]'s [[James Maddison]]. It was however not enough and Leicester progressed through after the [[Penalty shoot-out (association football)|penalty shoot-out]].<ref>{{cite news |last1=Rose |first1=Gary |title=Everton 2–2 Leicester City (2–4 on Penalties): Foxes survive comeback to progress on penalties |work=BBC Sport |url=https://www.bbc.co.uk/sport/football/50738363 |access-date=15 November 2020}}</ref>
+
+====2020–21 season====
+Pickford again continued to be Everton's first choice goalkeeper, being part of the team that won its opening four games for the first time since the 1969–70 season.<ref>{{cite news |last1=Dawkes |first1=Phil |title=Everton 4 – 2 Brighton: Calvert-Lewin scores again as Toffees go top |work=BBC Sport |url=https://www.bbc.co.uk/sport/football/54305845 |access-date=14 November 2020}}</ref>
+
+In the first [[Merseyside derby]] of the season, Pickford was criticised<ref>{{cite web |last1=Blackham |first1=Daniel |title=Alan Shearer delivers VAR rant over Jordan Pickford's tackle on Virgil van Dijk |url=https://www.express.co.uk/sport/football/1349114/Alan-Shearer-VAR-rant-Jordan-Pickford-Virgil-van-Dijk |website=Express.co.uk |date=18 October 2020 |publisher=Daily Express |access-date=14 November 2020 |quote=Everton goalkeeper Jordan Pickford should have been sent off for his "awful challenge" on Virgil van Dijk which left the Liverpool defender facing eight months out with a potential ACL injury. That's the opinion of Alan Shearer, who tore into the decision on Match of the Day.}}</ref> for his tackle on [[Liverpool F.C.|Liverpool]] defender [[Virgil van Dijk]] which resulted in Van Dijk being substituted after six minutes, with what later turned out to be a season-ending ACL injury. The derby was one of the most heated in recent years, with [[Richarlison]] being sent off for a late challenge on [[Thiago Alcântara|Thiago Alcantara]] and captain [[Jordan Henderson]] having a game-winning goal ruled out for offside by [[Video assistant referee|VAR]].<ref>{{cite web |last1=Hunter |first1=Andy |title=Liverpool denied by Everton and VAR in wild Merseyside derby draw |url=https://www.theguardian.com/football/2020/oct/17/everton-liverpool-premier-league-match-report |website=Observer Sport |date=17 October 2020 |publisher=The Guardian |access-date=14 November 2020}}</ref>
+
+====2021–22 season====
+On 25 May 2022, Pickford claimed the Player of the Season award from Everton following a personally outstanding campaign.<ref>{{cite news |title=Pickford and Gordon scoop Everton awards|url= https://www.evertonfc.com/news/2634469/pickford-and-gordon-scoop-everton-awards |website=Everton F.C. |date=25 May 2022 |access-date=5 June 2022}}</ref> On 28 May 2022, Pickford claimed the 2021–22 Castrol Save of the Season award for his amazing goal line stop against Chelsea. After Mason Mount's shot had hit both posts, Pickford raced across his line and then dived in the opposite direction to keep out Azpilicueta's rebound as Everton beat Chelsea 1–0 on 1 May 2022.<ref>{{cite web |last1=League |first1=Premier |title= Pickford wins Castrol Save of the Season award |url= https://www.premierleague.com/news/2635571 |website=Premier League |date=28 May 2022 |access-date=5 June 2022}}</ref>
+
+====2022–present====
+Pickford kept his first clean sheet of the [[2022–23 Everton F.C. season|2022–23 season]] on 3 September 2022, in the Merseyside derby draw at [[Goodison Park]].<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/62697702|website=BBC Sport|first=Phil|last=McNulty|title=Everton and Liverpool in eventful goalless draw|date=3 September 2022|access-date=25 February 2023}}</ref> He was praised for his performance in the match by [[BBC Sport]]'s chief football writer [[Phil McNulty]], who said that "Pickford's status as England's first choice goalkeeper is unquestioned and fully deserved" ahead of the [[2022 FIFA World Cup]].<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/62781637|website=BBC Sport|first=Phil|last=McNulty|title=Jordan Pickford: England keeper shows class as Everton begin to take shape|date=3 September 2022|access-date=25 February 2023}}</ref>
+He signed a new contract with Everton on 24 February 2023, keeping him at the club until June 2027.<ref>{{cite web|url=https://www.evertonfc.com/news/3079137/pickford-signs-new-long-term-contract|website=Everton F.C.|title=Pickford signs new long-term contract|date=24 February 2023|access-date=24 February 2023}}</ref>
+
+At the end of the [[2023–24 Everton F.C. season|2023–24]] season, Pickford was named as the Everton Player of the Season for the third consecutive season.<ref name="POTY2324"/>
+
+On 16 October 2025, Pickford signed a new four-year-contract, committing his future to the club until 2029.<ref>{{cite web|url=https://www.evertonfc.com/news/2025/october/16/Pickford-Signs-New-Everton-Contract/|title=Pickford Signs New Everton Contract|website=Evertonfc.com|access-date=21 May 2026}}</ref>
+
+==International career==
+===Youth===
+[[File:2017083200955 2017-03-24 Fussball U21 Deutschland vs England - Sven - 1D X - 0153 - DV3P6479 - Jordan Pickford.jpg|thumb|upright|Pickford playing for [[England national under-21 football team|England U21]] in 2017]]
+
+Pickford has represented the England international team at every level from under-16s to under-21s.<ref name="Echo_October2016">{{cite news |title=10 things you may not know about England new boy Jordan Pickford |url=http://www.sunderlandecho.com/sport/football/sunderland-afc/10-things-you-may-not-know-about-england-new-boy-jordan-pickford-1-8173261 |newspaper=Sunderland Echo |access-date=13 June 2017}}</ref> In October 2009, he made his [[England national under-16 football team|England U16]] debut against [[Wales national under-16 football team|Wales U16]].<ref>{{cite news |title=Bruce chasing Zenden |url=http://www.thenorthernecho.co.uk/sport/4686565.Bruce_chasing_Zenden |newspaper=The Northern Echo |location=Darlington |date=16 October 2009 |access-date=17 October 2016}}</ref> In 2011, Pickford represented England at the [[2011 FIFA U-17 World Cup]]. In a game versus Canada, Pickford allowed an 86th-minute goal, from a downfield kick by Canadian goalkeeper [[Quillan Roberts]] which tied the game in a 2–2 draw.<ref>{{Cite news |title=Canadian goalkeeper makes history with goal at u17 World Cup |url=https://www.theglobeandmail.com/sports/soccer/canadian-goalkeeper-makes-history-with-goal-at-u-17-world-cup/article584267/ |newspaper=The Globe and Mail |access-date=5 April 2014}}</ref> This remains as the only goal scored by a goalkeeper in a FIFA finals to date from open play.<ref>{{cite web |title=Uruguay advance as records fell |url=https://www.fifa.com/u17worldcup/news/newsid=1458456/index.html |archive-url=https://web.archive.org/web/20110626121039/http://www.fifa.com/u17worldcup/news/newsid=1458456/index.html |url-status=dead |archive-date=26 June 2011 |publisher=FIFA |access-date=14 July 2018}}</ref>
+
+On 25 August 2015, he was called up to the [[England national under-21 football team|England under-21]] squad for the first time.<ref>{{cite news |url=http://www.sunderlandecho.com/sport/sunderland-afc/latest-safc-news/safc-match-analysis/sunderland-s-duncan-watmore-and-jordan-pickford-selected-for-england-u21s-1-7427777 |title=Sunderland's Duncan Watmore and Jordan Pickford selected for England U21s |newspaper=Sunderland Echo |access-date=11 October 2016 |archive-url=https://web.archive.org/web/20150924123418/http://www.sunderlandecho.com/sport/sunderland-afc/latest-safc-news/safc-match-analysis/sunderland-s-duncan-watmore-and-jordan-pickford-selected-for-england-u21s-1-7427777 |archive-date=24 September 2015}}</ref> Pickford made his debut for the under-21s in a [[Friendly (association football)|friendly]] against the [[United States men's national under-23 soccer team|United States under-23s]] at Deepdale on 3 September 2015.<ref name="Echo_October2016"/>
+
+On 13 October 2015, Pickford assisted [[Nathan Redmond]]'s goal in the England U21s' 3–0 victory over [[Kazakhstan national under-21 football team|Kazakhstan]] at the [[Ricoh Arena]] with a long range pass from his own penalty area.<ref>{{cite news |url=http://www.sunderlandecho.com/sport/sunderland-afc/latest-safc-news/safc-match-analysis/watch-sunderland-s-ace-goalkeeper-jordan-pickford-hailed-after-england-assist-1-7513763 |title=Watch: Sunderland's ace goalkeeper Jordan Pickford hailed after England assist |newspaper=Sunderland Echo |access-date=11 October 2016 |archive-url=https://web.archive.org/web/20160304081137/http://www.sunderlandecho.com/sport/sunderland-afc/latest-safc-news/safc-match-analysis/watch-sunderland-s-ace-goalkeeper-jordan-pickford-hailed-after-england-assist-1-7513763 |archive-date=4 March 2016}}</ref> His team won the [[2016 Toulon Tournament]], their first in 22 years.<ref name="toulon">{{cite news |title=England Under-21s win Toulon Tournament for first time in 22 years |url=https://www.bbc.co.uk/sport/football/36410296 |access-date=11 October 2016 |website=BBC Sport |date=29 May 2016}}</ref>
+
+On 9 October 2016, Pickford received his first call-up to the [[England national football team|senior squad]], replacing an injured [[Tom Heaton]] for the [[2018 FIFA World Cup qualification|2018 FIFA World Cup qualifier]] against [[Slovenia national football team|Slovenia]].<ref>{{cite web |url=http://www.safc.com/news/team-news/2016/october/pickford-gets-england-call |title=Pickford for England |date=9 October 2016 |publisher=Sunderland A.F.C. |access-date=11 October 2016}}</ref>
+
+Pickford led the England under-21 to the semi-final of the [[2017 UEFA European Under-21 Championship]] in June 2017 with a string of strong performances.<ref>{{cite news |url=http://www.goal.com/en/news/8/main/2017/06/30/36749952/saul-pickford-star-in-euro-under-21-team-of-the-tournament |title=Saul & Pickford star in Euro Under-21 Team of the Tournament |website=Goal.com |date=30 June 2017}}</ref>
+
+===Senior team===
+On 24 August 2017, Pickford was called up to the England squad by manager [[Gareth Southgate]] for two 2018 FIFA World Cup qualifiers against [[Malta national football team|Malta]] and [[Slovakia national football team|Slovakia]].<ref>{{cite news |url=https://www.theguardian.com/football/2017/aug/24/england-squad-maguire-chalobah-slovakia-malta |title=Harry Maguire and Nathaniel Chalobah called up to England squad for first time |newspaper=The Guardian |location=London |date=24 August 2017 |access-date=12 November 2017}}</ref> However, he later withdrew from the squad due to injury.<ref>{{cite news |url=https://www.theguardian.com/football/2017/aug/29/jordan-pickford-out-england-squad-world-cup-qualifiers |title=Jordan Pickford ruled out of England's squad for World Cup qualifiers |newspaper=The Guardian |location=London |date=29 August 2017 |access-date=5 September 2017}}</ref> Pickford made his debut in a friendly on 10 November 2017, starting as England drew 0–0 with [[Germany national football team|Germany]] at [[Wembley Stadium]].<ref>{{cite news |first=Phil |last=McNulty |title=England 0–0 Germany |url=https://www.bbc.co.uk/sport/football/41854505 |website=BBC Sport |date=10 November 2017 |access-date=11 November 2017}}</ref>
+
+====2018 FIFA World Cup====
+[[File:Jordan Pickford 2018 (cropped).jpg|thumb|upright|Pickford playing for [[England national football team|England]] at the [[2018 FIFA World Cup]]]]
+
+Pickford was named in the 23-man [[England national football team|England national team]] squad for the [[2018 FIFA World Cup]].<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/44138600 |title=England World Cup squad: Trent Alexander-Arnold in 23-man squad |website=BBC Sport |date=16 May 2018 |access-date=17 May 2018}}</ref> He started the opening match against [[Tunisia national football team|Tunisia]], which England won 2–1.<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/44434276 |title=Tunisia 1–2 England |website=BBC Sport |date=19 June 2018 |access-date=19 June 2018}}</ref> In their round of 16 match on 3 July, Pickford helped England beat [[Colombia national football team|Colombia]] 4–3 on penalties after a 1–1 draw, saving from [[Carlos Bacca]], to claim his nation's first World Cup penalty shoot-out victory and a place in the quarter-final.<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/44610244 |title=Colombia 1–1 England |first=Phil |last=McNulty |website=BBC Sport |date=3 July 2018 |access-date=3 July 2018}}</ref>
+
+On 7 July 2018, Pickford kept his first clean sheet of the World Cup and was named man of the match, as England knocked out [[Sweden men's national football team|Sweden]] with a 2–0 win in the quarter-finals. The result earned England a place in the semi-finals of the World Cup for the first time since [[1990 FIFA World Cup|1990]].<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/44665445 |title=World Cup 2018: England beat Sweden 2–0 to reach semi-finals |first=Phil |last=McNulty |website=BBC Sport |date=7 July 2018 |access-date=7 July 2018}}</ref>
+
+====2019 UEFA Nations League====
+In June 2019, Pickford scored and then saved the decisive penalty as England beat [[Switzerland national football team|Switzerland]] to finish third at the inaugural [[2019 UEFA Nations League Finals|UEFA Nations League Finals]]. It was the second penalty shoot-out in a row that England had won, with Pickford saving penalties in both, and he became the first goalkeeper to take (and score) a penalty in a competitive shoot-out for England.<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/48191915 |title=Switzerland 0 0 England |first=Phil |last=McNulty |website=BBC Sport |date=9 June 2019 |access-date=16 June 2019}}</ref>
+
+====UEFA Euro 2020====
+On 1 June 2021, Pickford was named in the 26-man squad for the rescheduled UEFA Euro 2020. At the tournament, Pickford became the first goalkeeper in history to keep clean sheets in the first five games of a European Championship.<ref>{{cite web | url= https://theworldgame.sbs.com.au/pickford-makes-euro-history-as-england-s-clean-sheet-run-rolls-on | title= Pickford makes Euro history as England's clean sheet run rolls on | work=The World Game | access-date=4 July 2021}}</ref> On 7 July 2021, Pickford set an all-time England record for most consecutive scoreless minutes posted by a goalkeeper. He set the mark of 721 minutes midway through the first half [[UEFA Euro 2020|Euro 2020]] semi-final against [[Denmark national football team|Denmark]], passing a record previously held by [[Gordon Banks]] (720 minutes).<ref>{{Cite web|title=Pickford passes Banks to set all-time England record for scoreless minutes {{!}} Goal.com|url=https://www.goal.com/en/news/pickford-passes-banks-to-set-all-time-england-record-for/i81umdcuiv7qz6mjyw2s2p7z|access-date=7 July 2021|website=Goal.com}}</ref><ref>{{Cite web|last=Meade|first=Samuel|date=7 July 2021|title=Pickford breaks 55-year record moments before conceding first Euro 2020 goal|url=https://www.mirror.co.uk/sport/football/news/jordan-pickford-england-record-euros-24484292|access-date=7 July 2021|website=mirror}}</ref> On 11 July 2021, Pickford saved two Italy penalties during the shoot-out in the [[UEFA Euro 2020 final|final]], after the match finished 1–1 after extra time. However, England lost 3–2 after missing their last three penalties.<ref>{{Cite news|title=Euro 2020 final: England beaten by Italy on penalties|first=Phil|last=McNulty|work=BBC Sport|url=https://www.bbc.co.uk/sport/football/51198762|date=11 July 2021|access-date=30 July 2021}}</ref>
+
+====2022 FIFA World Cup====
+Pickford was selected for England's 26-man squad on 10 November 2022 for the [[2022 FIFA World Cup]].<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/63585869|website=BBC Sport|title=World Cup 2022:England squad features Maddison, Rashford and Wilson|date=10 November 2022|access-date=24 February 2023}}</ref> He played in every minute of England's campaign and kept three clean sheets. The first two were in the group stage games against the [[United States men's national soccer team|USA]] (0–0)<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/63603425|website=BBC Sport|title=England labour to goalless draw against USA|first=Phil|last=McNulty|date=25 November 2022|access-date=24 February 2023}}</ref> and [[Wales national football team|Wales]] (3–0),<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/63603442|website=BBC Sport|title=Rashford double sees England top group as Wales exit|first=Phil|last=McNulty|date=29 November 2022|access-date=24 February 2023}}</ref> as England topped [[2022 FIFA World Cup Group B|Group B]]. He also kept out [[Senegal national football team|Senegal]] in England's 3–0 [[2022 FIFA World Cup knockout stage|Round of 16]] win.<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/63771033|website=BBC Sport|title=England beat Senegal to set up France quarter-final|first=Phil|last=McNulty|date=4 December 2022|access-date=24 February 2023}}</ref> Pickford won his 50th [[Cap (sport)|cap]] in England's quarter-final defeat to [[France national football team|France]].<ref>{{cite news|url=https://www.evertonfc.com/news/2980985/pickford-collects-50th-cap-but-england-exit-world-cup|website=Everton F.C.|title=Pickford collects 50th cap but England exit World Cup|date=10 December 2022|access-date=25 February 2023}}</ref><ref>{{cite web|url=https://www.bbc.co.uk/sport/football/63843792|website=BBC Sport|title=Kane misses penalty as England exit World Cup|first=Phil|last=McNulty|date=10 December 2022|access-date=24 February 2023}}</ref><ref>{{cite news|url=https://www.bbc.co.uk/sport/football/63585869|title=Jordan Pickford – 50 Caps (0 Goals)|work=BBC Sport }}</ref>
+
+====UEFA Euro 2024====
+On 6 June 2024, Pickford was named in England's squad for [[UEFA Euro 2024]].<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/articles/cv22menk7dno |title=Eze & Wharton named in England squad for Euro 2024 |website=BBC Sport |date=6 June 2024 |access-date=6 June 2024}}</ref> He started the team's opening match of the tournament against [[Serbia national football team|Serbia]], keeping a clean sheet in the 1–0 win to record his tenth shutout for England in a major international tournament, equaling [[Peter Shilton]]'s record.<ref>{{Cite web|url=https://www.evertonfc.com/news/4039510/pickford-levels-england-best-in-euro-win|title=Pickford Levels England Best In Euro Win|website=Everton FC|access-date=17 June 2024}}</ref> On 25 June, he became the outright record holder with his eleventh clean sheet in the 0–0 draw against [[Slovenia national football team|Slovenia]].<ref>{{Cite web|url=https://www.nytimes.com/athletic/5585069/2024/06/25/england-slovenia-euro-2024-result-analysis/|title=England vs Slovenia: Euro 2024 Result and Analysis|date=25 June 2024|access-date=25 June 2024|website=The New York Times}}</ref>
+
+After the Euro 2024 [[UEFA Euro 2024 knockout stage#quarter-final|quarter-final]] against Switzerland went to a penalty shootout, Pickford saved the first kick from [[Manuel Akanji]], the only unsuccessful kick of the shootout as England won 5–3.<ref>{{Cite web|url=https://www.uefa.com/euro2024/news/028f-1b4e143fd946-8d1c55ab8bed-1000--england-1-1-switzerland-aet-5-3-pens-pickford-and-saka-l/|title=England 1–1 Switzerland (5–3 pens): Pickford and Saka lead England to semi-finals|date=6 July 2024|website=[[UEFA]]|access-date=7 July 2024}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 24 May 2026}}
+
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|[[FA Cup]]
+!colspan="2"|[[EFL Cup|League Cup]]
+!colspan="2"|[[UEFA#Club|Europe]]
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals 
+|-
+|rowspan="7"|[[Sunderland A.F.C.|Sunderland]]
+|[[2011–12 Sunderland A.F.C. season|2011–12]]<ref>{{soccerbase season|63860|2011|access-date=11 October 2020}}</ref>
+|[[Premier League]]
+|0||0||0||0||0||0||colspan="2"|—||colspan="2"|—||0||0
+|-
+|[[2012–13 Sunderland A.F.C. season|2012–13]]<ref>{{soccerbase season|63860|2012|access-date=11 October 2020}}</ref>
+|Premier League
+|0||0||0||0||0||0||colspan="2"|—||colspan="2"|—||0||0
+|-
+|[[2013–14 Sunderland A.F.C. season|2013–14]]<ref name=sb1314>{{soccerbase season|63860|2013|access-date=11 October 2020}}</ref>
+|Premier League
+|0||0||0||0||0||0||colspan="2"|—||colspan="2"|—||0||0
+|-
+|[[2014–15 Sunderland A.F.C. season|2014–15]]<ref name=sb1415>{{soccerbase season|63860|2014|access-date=11 October 2020}}</ref>
+|Premier League
+|0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||0||0
+|-
+|[[2015–16 Sunderland A.F.C. season|2015–16]]<ref name=sb1516>{{soccerbase season|63860|2015|access-date=11 October 2020}}</ref>
+|Premier League
+|2||0||1||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||3||0
+|-
+|[[2016–17 Sunderland A.F.C. season|2016–17]]<ref>{{soccerbase season|63860|2016|access-date=11 October 2020}}</ref>
+|Premier League
+|29||0||0||0||3||0||colspan="2"|—||colspan="2"|—||32||0
+|-
+!colspan="2"|Total
+!31||0||1||0||3||0||colspan="2"|—||colspan="2"|—||35||0
+|-
+|[[Darlington F.C.|Darlington]] (loan)
+|[[2011–12 Conference Premier|2011–12]]<ref name=Soccerway>{{cite web |url=https://uk.soccerway.com/players/jordan-pickford/160405/ |title=J. Pickford: Summary |website=Soccerway |publisher=Perform Group |access-date=18 May 2018}}</ref>
+|[[Conference Premier]]
+|17||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||17||0
+|-
+|[[Alfreton Town F.C.|Alfreton Town]] (loan)
+|[[2012–13 Conference Premier|2012–13]]<ref name=Soccerway/>
+|Conference Premier
+|12||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||12||0
+|-
+|[[Burton Albion F.C.|Burton Albion]] (loan)
+|[[2013–14 Burton Albion F.C. season|2013–14]]<ref name=sb1314/>
+|[[EFL League Two|League Two]]
+|12||0||colspan="2"|—||1||0||colspan="2"|—||colspan="2"|—||13||0
+|-
+|[[Carlisle United F.C.|Carlisle United]] (loan)
+|[[2013–14 Carlisle United F.C. season|2013–14]]<ref name=sb1314/>
+|[[EFL League One|League One]]
+|18||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||18||0
+|-
+|[[Bradford City A.F.C.|Bradford City]] (loan)
+|[[2014–15 Bradford City A.F.C. season|2014–15]]<ref name=sb1415/>
+|League One
+|33||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||1{{efn|Appearance in [[Football League Trophy]]}}||0||34||0
+|-
+|[[Preston North End F.C.|Preston North End]] (loan)
+|[[2015–16 Preston North End F.C. season|2015–16]]<ref name=sb1516/>
+|[[EFL Championship|Championship]]
+|24||0||colspan="2"|—||3||0||colspan="2"|—||colspan="2"|—||27||0
+|-
+|rowspan="10"|[[Everton F.C.|Everton]]
+|[[2017–18 Everton F.C. season|2017–18]]<ref name=sb1718>{{soccerbase season|63860|2017|access-date=11 October 2020}}</ref>
+|Premier League
+|38||0||1||0||1||0||6{{efn|Appearances in [[UEFA Europa League]]}}||0||colspan="2"|—||46||0
+|-
+|[[2018–19 Everton F.C. season|2018–19]]<ref>{{soccerbase season|63860|2018|access-date=11 October 2020}}</ref>
+|Premier League
+|38||0||2||0||0||0||colspan="2"|—||colspan="2"|—||40||0
+|-
+|[[2019–20 Everton F.C. season|2019–20]]<ref>{{soccerbase season|63860|2019|access-date=11 October 2020}}</ref>
+|Premier League
+|38||0||1||0||4||0||colspan="2"|—||colspan="2"|—||43||0
+|-
+|[[2020–21 Everton F.C. season|2020–21]]<ref>{{soccerbase season|63860|2020|access-date=23 June 2021}}</ref>
+|Premier League
+|31||0||0||0||2||0||colspan="2"|—||colspan="2"|—||33||0
+|-
+|[[2021–22 Everton F.C. season|2021–22]]<ref>{{soccerbase season|63860|2021|access-date=27 August 2022}}</ref>
+|Premier League
+|35||0||2||0||0||0||colspan="2"|—||colspan="2"|—||37||0
+|-
+|[[2022–23 Everton F.C. season|2022–23]]<ref>{{soccerbase season|63860|2022|access-date=17 June 2023}}</ref>
+|Premier League
+|37||0||1||0||0||0||colspan="2"|—||colspan="2"|—||38||0
+|-
+|[[2023–24 Everton F.C. season|2023–24]]<ref>{{soccerbase season|63860|2023|access-date=7 September 2024}}</ref>
+|Premier League
+|38||0||0||0||4||0||colspan="2"|—||colspan="2"|—||42||0
+|-
+|[[2024–25 Everton F.C. season|2024–25]]<ref>{{soccerbase season|63860|2024|access-date=15 September 2024}}</ref>
+|Premier League
+|38||0||1||0||1||0||colspan="2"|—||colspan="2"|—||40||0
+|-
+|[[2025–26 Everton F.C. season|2025–26]]<ref>{{soccerbase season|63860|2025|access-date=18 August 2025}}</ref>
+|Premier League
+|38||0||1||0||0||0||colspan="2"|—||colspan="2"|—||39||0
+|-
+!colspan="2"|Total
+!331||0||9||0||12||0||6||0||colspan="2"|—||358||0
+|-
+!colspan="3"|Career total
+!478||0||10||0||19||0||6||0||1||0||514||0
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 6 June 2026}}<ref>{{cite web |url=https://www.worldfootball.net/person/pe253400/jordan-pickford/international-matches/ |title=Jordan Pickford: Internationals |website=Worldfootball.net |publisher=HEIM:SPIEL |date=<!-- citation bot adds wrong date --> |access-date=6 September 2025}}</ref>
+
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="10"|[[England national football team|England]]
+|2017||1||0
+|-
+|2018||14||0
+|-
+|2019||9||0
+|-
+|2020||6||0
+|-
+|2021||12||0
+|-
+|2022||8||0
+|-
+|2023||8||0
+|-
+|2024||15||0
+|-
+|2025||8||0
+|-
+|2026||2||0
+|-
+!colspan="2"|Total||83||0
+|}
+
+==Honours==
+'''England U21'''
+*[[Toulon Tournament]]: [[2016 Toulon Tournament|2016]]<ref name="toulon"/>
+
+'''England'''
+*[[UEFA European Championship]] runner-up: [[UEFA Euro 2020|2020]],<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/51198762 |title=Italy 1–1 England |first=Phil |last=McNulty |website=BBC Sport |date=11 July 2021 |access-date=16 July 2021}}</ref> [[UEFA Euro 2024|2024]]<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/live/cp68zzx8x4rt |title=Spain 2–1 England: Heartbreak for England in Euro 2024 Final |first=Phil |last=McNulty |website=BBC Sport |date=14 July 2024 |access-date=15 July 2024 |archive-date=15 July 2024 |archive-url=https://web.archive.org/web/20240715010859/https://www.bbc.co.uk/sport/football/live/cp68zzx8x4rt |url-status=live }}</ref>
+*[[UEFA Nations League]] third place: [[2018–19 UEFA Nations League|2018–19]]<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/48191915 |title=Switzerland 0–0 England |first=Phil |last=McNulty |website=BBC Sport |date=9 June 2019 |access-date=12 June 2019}}</ref>
+
+'''Individual'''
+*Everton Player of the Season: [[2017–18 Everton F.C. season|2017–18]],<ref>{{cite web |url=http://www.evertonfc.com/news/2018/05/01/pickford-bags-awards-hat-trick-at-dixies |title=Pickford bags awards hat-trick at Dixies |publisher=Everton F.C. |date=1 May 2018 |access-date=18 May 2018 |archive-date=12 June 2018 |archive-url=https://web.archive.org/web/20180612141447/http://www.evertonfc.com/news/2018/05/01/pickford-bags-awards-hat-trick-at-dixies |url-status=dead }}</ref> [[2021–22 Everton F.C. season|2021–22]],<ref>{{cite news|url=https://www.evertonfc.com/news/2634469/pickford-and-gordon-scoop-everton-awards |title=Pickford and Gordon Scoop Everton Awards |publisher=Everton F.C. |date=25 May 2022 |access-date=24 September 2022}}</ref> [[2022–23 Everton F.C. season|2022–23]],<ref>{{cite web |last=Calvin |date=2 June 2023 |title=Everton 2022–23 Season Awards – The Complete List |url=https://royalbluemersey.sbnation.com/2023/6/2/23746579/everton-2022-23-season-awards-announced-pickford-player-of-the-year-iwobi-bjorn-park-coleman-mills |access-date=22 May 2024 |website=Royal Blue Mersey}}</ref> [[2023–24 Everton F.C. season|2023–24]]<ref name="POTY2324">{{cite news |title=Everton Award Winners Revealed |url=https://www.evertonfc.com/news/4024747/everton-award-winners-revealed |access-date=22 May 2024 |publisher=Everton F.C.}}</ref>
+*Everton Players' Player of the Season: 2017–18<ref>{{cite news |url=http://www.evertonfc.com/news/2018/05/01/awards-double-for-players-player-pickford |title=Jordan is the players' pick |publisher=Everton F.C. |date=1 May 2018 |access-date=18 May 2018 |archive-date=12 June 2018 |archive-url=https://web.archive.org/web/20180612141331/http://www.evertonfc.com/news/2018/05/01/awards-double-for-players-player-pickford |url-status=dead }}</ref>
+*Everton Young Player of the Season: 2017–18<ref>{{cite news |url=http://www.evertonfc.com/news/2018/05/01/pickford-named-best-young-player |title=Pickford named best young player |publisher=Everton F.C. |date=1 May 2018 |access-date=18 May 2018 |archive-date=14 June 2018 |archive-url=https://web.archive.org/web/20180614150044/http://www.evertonfc.com/news/2018/05/01/pickford-named-best-young-player |url-status=dead }}</ref>
+*[[The FA England Awards#England Men's U21 Player of the Year|England Under-21 Player of the Year]]: 2017<ref>{{cite news |url=http://www.thefa.com/news/2018/jan/22/england-2017-player-of-the-year-award-winners-named-as-harry-kane-and-jordan-pickford-220118 |title=Harry Kane and Jordan Pickford named England senior and U21s' Players of the Year |publisher=The Football Association |date=22 January 2018 |access-date=20 March 2018}}</ref>
+*UEFA Nations League Finals Team of the Tournament: [[2019 UEFA Nations League Finals#Awards|2019]]<ref>{{cite news |url=https://www.uefa.com/uefanationsleague/news/0253-0d821e23494c-f0c94c4974b3-1000--uefa-nations-league-finals-team-of-the-tournament/ |title=UEFA Nations League Finals: Team of the Tournament |publisher=UEFA |date=10 June 2019 |access-date=11 June 2019}}</ref>
+*[[Premier League Save of the Season]]: [[2021–22 Premier League#Annual awards|2021–22]]<ref>{{cite web|title=Pickford wins Castrol Save of the Season award|url=https://www.premierleague.com/news/2635571|publisher=Premier League|date=28 May 2022|access-date=28 May 2022}}</ref>, [[2025–26 Premier League#Annual awards|2025–26]]<ref name="PremProfile"/>
+*[[Premier League Save of the Month]]: [[2022–23 Premier League#Monthly awards|September 2022]],<ref>{{cite news |url=https://www.premierleague.com/news/2801451 |title=Pickford claims Castrol Save of the Month award |publisher=Premier League |date=30 September 2022 |access-date=30 September 2022}}</ref> [[2023–24 Premier League#Monthly awards|January 2024]],<ref>{{cite news |date=16 February 2024 |title=Pickford claims Castrol Save of the Month award |url=https://www.premierleague.com/news/3894644 |publisher=Premier League |access-date=19 February 2024}}</ref> [[2025–26 Premier League#Monthly awards|November 2025]],<ref>{{cite news |title=Pickford equals record for Coca-Cola Save of the Month award |url=https://www.premierleague.com/news/4497963 |access-date=12 December 2025|date=12 December 2025|publisher=Premier League}}</ref> February 2026<ref>{{cite news |title=Pickford wins record fourth Coca-Cola Save of the Month award |url=https://www.premierleague.com/news/4611611 |access-date=13 March 2026|date=13 March 2026|publisher=Premier League}}</ref>
+*Fantasy Premier League Team of the Season: [[2023–24 Premier League|2023–24]]<ref>{{cite news |url=https://www.premierleague.com/news/4026195 |title=FPL Team of the Season 2023/24 |publisher=Premier League |date=27 May 2024 |access-date=29 May 2024 |archive-date=7 October 2024 |archive-url=https://web.archive.org/web/20241007091131/https://www.premierleague.com/news/4026195 |url-status=live }}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category}}
+* [https://www.evertonfc.com/teams/Men/jordanleepickford Profile] at the Everton F.C. website
+* [https://www.englandfootball.com/england/mens-senior-team/squad/Jordan-Pickford Profile] at the Football Association website
+* {{Englandstats}}
+* {{UEFA player}}
+
+{{Everton F.C. squad}}
+{{Navboxes
+| title = England squads
+| bg = white
+| fg = #CF081F
+| bordercolor = #0B0B3F
+| list1 = 
+{{England squad 2018 FIFA World Cup}}
+{{England squad UEFA Euro 2020}}
+{{England squad 2022 FIFA World Cup}}
+{{England squad UEFA Euro 2024}}
+{{England squad 2026 FIFA World Cup}}
+}}
+{{Navboxes
+| title = Awards
+| bg = gold
+| fg = navy
+| list1 = 
+{{Everton F.C. Player of the Year}}
+{{2019 UEFA Nations League Finals Team of the Tournament}}
+{{Premier League Save of the Season}}
+}}
+{{Authority control}}
+
+{{DEFAULTSORT:Pickford, Jordan}}
+[[Category:1994 births]]
+[[Category:Living people]]
+[[Category:Footballers from Washington, Tyne and Wear]]
+[[Category:English men's footballers]]
+[[Category:Men's association football goalkeepers]]
+[[Category:Sunderland A.F.C. players]]
+[[Category:Darlington F.C. players]]
+[[Category:Alfreton Town F.C. players]]
+[[Category:Burton Albion F.C. players]]
+[[Category:Carlisle United F.C. players]]
+[[Category:Bradford City A.F.C. players]]
+[[Category:Preston North End F.C. players]]
+[[Category:Everton F.C. players]]
+[[Category:National League (English football) players]]
+[[Category:English Football League players]]
+[[Category:Premier League players]]
+[[Category:England men's youth international footballers]]
+[[Category:England men's under-21 international footballers]]
+[[Category:England men's international footballers]]
+[[Category:2018 FIFA World Cup players]]
+[[Category:UEFA Euro 2020 players]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:UEFA Euro 2024 players]]
+[[Category:2026 FIFA World Cup players]]
+[[Category:21st-century English sportsmen]]

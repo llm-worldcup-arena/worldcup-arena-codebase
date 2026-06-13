@@ -1,0 +1,217 @@
+{{short description|South African soccer player (born 1989)}}
+{{Use dmy dates|date=August 2020}}
+{{Use South African English|date=May 2019}}
+{{Infobox football biography
+| name = Themba Zwane
+| image =
+| caption = 
+| fullname = Themba Zwane<ref name="FCWC 2016">{{cite web |title=FIFA Club World Cup Japan 2016: List of Players: Memelodi Sundowns |url=http://www.fifadata.com/document/FCWC/2016/pdf/FCWC_2016_SquadLists.pdf |publisher=FIFA |page=6 |date=14 December 2016 |archive-url=https://web.archive.org/web/20171201033347/http://www.fifadata.com/document/FCWC/2016/pdf/FCWC_2016_SquadLists.pdf |archive-date=1 December 2017 |url-status=dead}}</ref>
+| height = 179 cm
+| birth_date = {{birth date and age|df=yes|1989|08|03}}
+| birth_place = [[Tembisa]], South Africa
+| currentclub = [[Mamelodi Sundowns F.C.|Mamelodi Sundowns]]
+| clubnumber = 18
+| position = [[Midfielder#Attacking midfielder|Attacking midfielder]]
+| youthyears1 = 
+| youthyears2 = 
+| youthclubs1 = M Tigers
+| youthclubs2 = Vardos FC
+| years1 = 2011–
+| clubs1 = [[Mamelodi Sundowns F.C.|Mamelodi Sundowns]]
+| caps1 = 300 <!-- South African Premier Division games only -->
+| goals1 = 68
+| years2 = 2013–2014
+| clubs2 = → [[Mpumalanga Black Aces F.C.|Mpumalanga Black Aces]] (loan)
+| caps2 = 27
+| goals2 = 6
+| nationalyears1 = 2014–
+| nationalteam1 = [[South Africa national soccer team|South Africa]]
+| nationalcaps1 = 53
+| nationalgoals1 = 12
+| pcupdate = 16 August 2025
+| ntupdate = 31 March 2026
+}}
+
+'''Themba Zwane''', also known as '''Mshishi''' (born 3 August 1989) is a South African professional [[Association football|soccer]] player who plays as an [[Midfielder#Attacking midfielder|attacking midfielder]] for [[Premier Soccer League]] club [[Mamelodi Sundowns F.C.|Mamelodi Sundowns]] and the [[South Africa national soccer team|South Africa national team]].
+
+On the 11th of October 2024 he earned his [[Cap (sport)|50th international cap]] for [[South Africa national soccer team|South Africa]].<ref>{{Cite web |date=2024-10-11 |title=Bafana Bafana's midfield maestro getting his flowers with 50th cap in the offing {{!}} soccer |url=https://www.sabcsport.com/soccer/news/bafana-bafana-s-midfield-maestro-getting-his-flowers-with-50th-cap-in-the-offering |access-date=2024-10-11 |website=SABC |language=en}}</ref>
+
+==Honours==
+'''Mamelodi Sundowns'''
+*[[South African Premier Division|South African Premier]] (9): [[2015-16 South African Premier Division|2015–16]]; [[2017-18 South African Premier Division|2017–18]]; [[2018-19 South African Premier Division|2018–19]]; [[2019-20 South African Premier Division|2019–20]]; [[2020-21 South African Premier Division|2020–21]]; [[2021-22 South African Premier Division|2021–22]]; [[2022–23 South African Premier Division|2022–23]]; [[2023-24 South African Premier Division|2023-24]]; [[2024-25 South African Premier Division|2024-25]]
+*[[Telkom Knockout]] (2): [[2015 Telkom Knockout|2015]]; [[2019 Telkom Knockout|2019]]
+*[[Nedbank Cup]] (3): [[2014-15 Nedbank Cup|2014–15]]; [[2019-20 Nedbank Cup|2019–20]]; [[2021-22 Nedbank Cup|2021–22]]
+* [[MTN 8]]: [[2021 MTN 8|2021]]
+*[[CAF Champions League]]: 2015–2016; 2025–2026
+* [[CAF Super Cup]]: 2017
+* [[African Football League]]: 2023
+'''South Africa'''
+
+* [[Africa Cup of Nations]] third place: [[2023 Africa Cup of Nations|2023]]<ref>{{Cite web |last=Edwards |first=Piers |date=10 February 2024 |title=South Africa 0–0 DR Congo |url=https://www.bbc.com/sport/football/68190249 |url-status=live |archive-url=https://web.archive.org/web/20240212015031/https://www.bbc.com/sport/football/68190249 |archive-date=12 February 2024 |access-date=12 February 2024 |website=BBC Sport |publisher=}}</ref>
+
+'''Individual'''
+*PSL Footballer Of the Season: 2019–20
+*PSL Player's Player of the season: 2019–20
+*PSL Midfielder of the Season: 2019–20
+*Mamelodi Sundowns Player of the season: 2019–20
+*Mamelodi Sundowns' players player of the season: 2019–20
+*PFA Player of the Year: 2020–21
+
+==Career statistics==
+{|class="wikitable" style="text-align:center"
+|-
+!rowspan="2"|Club<ref>{{Cite web|url=https://footystats.org/players/south-africa/themba-zwane|title=Themba Zwane|publisher=footystats|accessdate=17 November 2022|language=en-ZA}}</ref>
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|Cup
+!colspan="2"|League Cup
+!colspan="2"|[[CAF Champions League]]
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!goals!!Apps!!Goals
+|-
+|rowspan="3"|[[Mamelodi Sundowns]]
+|rowspan="1"|[[2010-11 Premier Soccer League|2010-11]]
+|rowspan="15"|[[South African Premier Division|PSL]]||0||0|||-||-||-||-||-||-||-||-||'''0'''||'''0'''
+|-
+|[[2011-12 Premier Soccer League|2011-12]]||14||1||2||0||1||0|| - || - || - || -|| '''17''' ||'''1'''
+|-
+|[[2012-13 Premier Soccer League|2012-13]]||11||0||0||0||1||0||-||-||0||0||'''12'''||'''0'''
+|-
+|[[Mpumalanga Black Aces]]||[[2013-14 Premier Soccer League|2013-14]]||27||4||1||0||1||0||-||-||-||-||'''29'''||'''4'''
+|-
+|rowspan="11"|[[Mamelodi Sundowns]]||[[2014-15 Premier Soccer League|2014-15]]||22||2||3||1||2||1||2||0||1||0||'''30'''||'''4'''
+|-
+|[[2015-16 South African Premier Division|2015-16]]||22||3||3||1||4||2||9||0||1||0||'''39'''||'''6'''
+|-
+|[[2016-17 South African Premier Division|2016-17]]||27||8||1||0||1||1||8||0||1||0||'''38'''||'''9'''
+|-
+|[[2017-18 South African Premier Division|2017-18]]||27||6||4||0||1||0||7||0||1||0||'''40'''||'''6'''
+|-
+|[[2018-19 South African Premier Division|2018-19]]||25||4||1||0||2||0||9||5||2||0||'''39'''||'''9'''
+|-
+|[[2019-20 South African Premier Division|2019-20]]||25||11||3||0||2||0||8||2||3||1||'''41'''||'''14'''
+|-
+|[[2020-21 South African Premier Division|2020-21]]
+| 25 || 10 || 3 || 1 || - || - || 5 || 2 || 1 || 0 || '''34''' || '''13'''
+|-
+|[[2021-22 South African Premier Division|2021-22]]
+| 25 || 5 || 4 || 1 || - || - || 10 || 3 || 3 || 1 || '''42''' || '''10'''
+|-
+|[[2022-23 South African Premier Division|2022-23]]
+| 23 || 3 || 2 || 0 || - || - || 8 || 3 || 3 || 0 || '''36''' || '''6'''
+|-
+|[[2023-24 South African Premier Division|2023-24]]
+| 18 || 0 || 3 || 1 || 0 || 0 || 10 || 0 || 10 || 1 || '''41''' || '''2'''
+|-
+|[[2024-25 South African Premier Division|2024-25]]
+| 7 || 0 || 0 || 0 || 0 || 0 || 2 || 0 || 6 || 0 || '''15''' || '''0'''
+|-
+!colspan="3"|Career Total!! 298 !! 57 !! 30 !! 5 !! 15 !! 4 !! 78 !! 15 !! 32 !! 3 !! 453 !! 84
+ |}
+{{Updated|match played on 15 October 2024}}<ref name="NFT">{{cite web|url=http://www.national-football-teams.com/player/55466/Themba_Zwane.html|title=Zwane, Themba|publisher=National Football Teams|accessdate=10 October 2017|archive-date=10 October 2017|archive-url=https://web.archive.org/web/20171010155355/http://www.national-football-teams.com/player/55466/Themba_Zwane.html|url-status=live}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|-
+!colspan="3"|[[South Africa national football team|South Africa]]
+|-
+!Year!!Apps!!Goals
+|-
+|2014||4||0
+|-
+|2015||2||0
+|-
+|2016||0||0
+|-
+|2017||8||1
+|-
+|2018||2||0
+|-
+|2019||7||1
+|-
+|2020||3||2
+|-
+|2021||2||0
+|-
+|2022||3||2
+|-
+|2023||6||1
+|-
+|2024||14||5
+|-
+!Total||51||12
+|}
+
+===International goals===
+:''Scores and results list South Africa's goal tally first.''<ref name="NFT"/>
+
+{| class="wikitable"
+! No !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| 1. || 7 October 2017 || [[FNB Stadium]], [[Johannesburg]], South Africa || {{fb|BFA}} || align=center | '''2'''–0 || align=center | 3–1 || [[2018 FIFA World Cup qualification – CAF third round|2018 FIFA World Cup qualification]]
+|-
+| 2. || 13 October 2019 || [[Nelson Mandela Bay Stadium]], [[Port Elizabeth]], South Africa || {{fb|MLI}} || align=center | '''2'''–0 || align=center | 2–2 || [[Friendly (association football)|Friendly]]
+|-
+| 3. || rowspan="2"| 16 November 2020 || rowspan=2| Nelson Mandela Bay Stadium, Port Elizabeth, South Africa || align=center rowspan="2"|{{fb|STP}} || align=center | '''1'''–0 || align=center rowspan="2"|4–2 || rowspan="2"|[[2021 Africa Cup of Nations qualification Group C|2021 Africa Cup of Nations qualification]]
+|-
+| 4. || align=center|'''3'''–2
+|-
+| 5. || rowspan=2| 24 September 2022 || rowspan=2| FNB Stadium, Johannesburg, South Africa || rowspan=2| {{fb|SLE}} || align=center|'''1'''–0 || rowspan=2 align=center| 4–0 || rowspan=2| Friendly
+|-
+| 6. || align=center|'''3'''–0
+|-
+| 7. || 17 October 2023 || [[Felix Houphouet Boigny Stadium]], [[Abidjan]], Ivory Coast || {{fb|CIV}} || align=center | '''1'''–0 || align=center | 1–1 || Friendly
+|-
+| 8. || rowspan=2| 21 January 2024 || rowspan=2| [[Amadou Gon Coulibaly Stadium]], [[Korhogo]], Ivory Coast || rowspan=2| {{fb|NAM}} || align=center|'''2'''–0 || rowspan=2 align=center| 4–0 || rowspan=2| [[2023 Africa Cup of Nations Group E|2023 Africa Cup of Nations]]
+|-
+| 9. || align=center|'''3'''–0
+|-
+| 10. || rowspan=2| 23 March 2024 || rowspan=2| [[Nelson Mandela Stadium]], [[Algiers]], Algeria || rowspan=2| {{fb|ALG}} || align=center|'''1'''–1 || rowspan=2 align=center| 3–3 || rowspan=2| Friendly
+|-
+| 11. || align=center|'''2'''–1
+|-
+| 12. || 7 June 2024 || [[Godswill Akpabio International Stadium]], [[Uyo]], Nigeria || {{fb|NGA}} || align=center | '''1'''–0 || align=center | 1–1 || [[2026 FIFA World Cup qualification – CAF Group C|2026 FIFA World Cup qualification]]
+|}
+
+==References==
+{{reflist}}
+
+{{Mamelodi Sundowns}}
+{{Navboxes
+| title       = South Africa squads
+| bg          = #FFB81C
+| fg          = #007749
+| bordercolor = #007749
+| list =
+{{South Africa squad 2015 Africa Cup of Nations}}
+{{South Africa squad 2019 Africa Cup of Nations}}
+{{South Africa squad 2023 Africa Cup of Nations}}
+{{South Africa squad 2026 FIFA World Cup}}
+}}
+{{PSL Player of the Season}}
+
+{{DEFAULTSORT:Zwane, Themba}}
+[[Category:Living people]]
+[[Category:1989 births]]
+[[Category:People from Tembisa]]
+[[Category:South African men's soccer players]]
+[[Category:South African Premier Division players]]
+[[Category:Orlando Pirates F.C. players]]
+[[Category:South Africa men's international soccer players]]
+[[Category:Men's association football midfielders]]
+[[Category:Mamelodi Sundowns F.C. players]]
+[[Category:2015 Africa Cup of Nations players]]
+[[Category:African Games silver medalists for South Africa]]
+[[Category:African Games silver medalists in football]]
+[[Category:Footballers at the 2011 All-Africa Games]]
+[[Category:2019 Africa Cup of Nations players]]
+[[Category:Soccer players from Gauteng]]
+[[Category:All Stars F.C. (South Africa) players]]
+[[Category:Chippa United F.C. players]]
+[[Category:2023 Africa Cup of Nations players]]
+[[Category:CAF Champions League–winning players]]
+[[Category:21st-century South African sportsmen]]
+[[Category:2026 FIFA World Cup players]]
+
+{{SouthAfrica-footy-midfielder-stub}}

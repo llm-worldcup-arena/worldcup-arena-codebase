@@ -1,0 +1,205 @@
+{{Short description|Argentine footballer (born 1999)}}
+{{Use dmy dates|date=July 2020}}
+{{Infobox football biography
+|name = Facundo Medina
+|image = Facundo Médina ASSE RCL 2425.jpg
+|image_size = 
+|caption = Medina with [[RC Lens|Lens]] in 2024
+|fullname = Facundo Axel Medina<ref>{{cite web |url=https://www.fifadata.com/document/FWYC/2019/pdf/FWYC_2019_SquadLists.pdf |title=FIFA U-20 World Cup Poland 2019: List of Players: Argentina |publisher=FIFA |page=1 |date=13 June 2019 |archive-url=https://web.archive.org/web/20200206013743/https://www.fifadata.com/document/FWYC/2019/pdf/FWYC_2019_SquadLists.pdf |archive-date=6 February 2020}}</ref>
+|birth_date = {{Birth date and age|1999|5|28|df=y}}<ref name="WF1"/>
+|birth_place = [[Villa Fiorito]], Argentina<ref name="IB1">{{cite news|title=No tuvo lugar en River, brilló en Talleres y fue campeón como juvenil en la Selección: la historia de Facundo Medina, el nuevo elegido por Scaloni|url=https://www.infobae.com/deportes/2020/09/18/no-tuvo-lugar-en-river-brillo-en-talleres-y-fue-campeon-como-juvenil-en-la-seleccion-la-historia-de-facundo-medina-el-nuevo-elegido-por-scaloni/|access-date=19 September 2020|work=Infobae|date=18 September 2020}}</ref>
+|height = 1.84 m<ref>{{cite web|url=https://www.rclens.fr/fr/pros-facundo-medina?saison=6773 |title=Facundo Medina |publisher=RC Lens |access-date=19 September 2022}}</ref>
+|position = [[Centre-back]], [[left-back]]<ref name="WF1">{{cite news|title=Facundo Medina|url=https://www.worldfootball.net/person/pe478563/facundo-medina/|access-date=9 July 2020|work=World Football}}</ref>
+|currentclub = [[Olympique de Marseille|Marseille]] (on loan from [[RC Lens|Lens]])
+|clubnumber = 32
+|youthyears1 = 
+|youthclubs1 = [[Club Atlético River Plate|River Plate]]
+|youthyears2 = 2018
+|youthclubs2 = [[Talleres de Córdoba|Talleres]]
+|years1 = 2018–2020
+|clubs1 = [[Talleres de Córdoba|Talleres]]
+|caps1 = 33
+|goals1 = 1
+|years2 = 2020–
+|clubs2 = [[RC Lens|Lens]]
+|caps2 = 147
+|goals2 = 6
+|years3 = 2025–
+|clubs3 = → [[Olympique de Marseille|Marseille]] (loan)
+|caps3 = 17
+|goals3 = 0
+|nationalyears1 = 2018–2019
+|nationalteam1 = [[Argentina national under-20 football team|Argentina U20]]
+|nationalcaps1 = 12
+|nationalgoals1 = 0 <!--includes one friendly, alongside Soccerway's tally-->
+|nationalyears2 = 2019–2021
+|nationalteam2 = [[Argentina national under-23 football team|Argentina U23]]
+|nationalcaps2 = 17
+|nationalgoals2 = 1 <!--Soccerway class the Pan American Games as U22, the AFA class it as U23-->
+|nationalyears3 = 2020–
+|nationalteam3 = [[Argentina national football team|Argentina]]
+|nationalcaps3 = 8
+|nationalgoals3 = 0
+|pcupdate = 23:46, 17 May 2026 (UTC)
+|ntupdate = 03:41, 7 June 2026 (UTC)
+|medaltemplates = {{MedalCountry|{{ARG}}}}
+{{MedalSport | Men's [[Association football|Football]]}}
+{{MedalCompetition|[[Pan American Games]]}}
+{{MedalGold | [[2019 Pan American Games|2019 Lima]] |[[Football at the 2019 Pan American Games|Team competition]]}}
+}}
+
+'''Facundo Axel Medina''' (born 28 May 1999) is an Argentine professional [[association football|footballer]] who plays as a [[centre-back]] or [[left-back]] for {{French football updater|Lens}} club [[Olympique de Marseille|Marseille]], on loan from [[RC Lens|Lens]], and the [[Argentina national football team|Argentina national team]].<ref name="Soccerway">{{cite news|title=Argentina - F. Medina|url=https://int.soccerway.com/players/facundo-medina/469493/|access-date=21 September 2018|work=Soccerway}}</ref>
+
+==Club career==
+Medina's career got underway with a stint with [[Club Atlético River Plate|River Plate]], who he was an unused substitute for four times during the [[2016–17 Argentine Primera División]] season.<ref name="Soccerway"/> In January 2018, Medina completed a move to fellow [[Argentine Primera División]] side [[Talleres de Córdoba|Talleres]].<ref name="Talleres">{{cite news|title=Facundo Medina refuerza la defensa de Talleres para la Superliga|url=https://www.clubtalleres.com.ar/facundo-medina-refuerza-la-defensa-de-talleres-para-la-superliga/|access-date=21 September 2018|work=Talleres|archive-date=1 February 2021|archive-url=https://web.archive.org/web/20210201165737/https://www.clubtalleres.com.ar/facundo-medina-refuerza-la-defensa-de-talleres-para-la-superliga/|url-status=dead}}</ref><ref name="BDFA">{{cite news|title=Ficha Estadistica de FACUNDO MEDINA|url=https://www.bdfa.com.ar/jugadores-FACUNDO-ALEX-MEDINA-116454.html|access-date=21 September 2018|work=BDFA}}</ref> After featuring for their U20s at the [[2018 U-20 Copa Libertadores]] in February, he made his first league appearances in August when he played in matches against [[Boca Juniors]], [[Rosario Central]] and [[Club de Gimnasia y Esgrima La Plata|Gimnasia y Esgrima]].<ref name="Soccerway"/> He scored his first senior goal in February 2020 against [[Club Atlético Huracán|Huracán]].<ref name="Soccerway"/> After a total of 37 appearances for Talleres, Medina departed in July 2020 to [[Ligue 1]] side [[RC Lens|Lens]].<ref name="LEN1">{{cite news|title=Facundo Medina rejoint le RC Lens|url=https://www.rclens.fr/fr/news/mercato-contrat-facundo-medina-franck-haise-arnaud-pouille-rclens-2020702|access-date=9 July 2020|work=Lens|date=2 July 2020}}</ref>
+
+Medina netted his first goal for Lens on 13 September against [[FC Lorient|Lorient]], scoring with an [[Bicycle kick|overhead kick]] as his side won 3–2 away from home.<ref name="Soccerway"/><ref name="IB2">{{cite news|title=Un argentino ex River y Talleres anotó de chilena el mejor gol del fin de semana en Europa|url=https://www.infobae.com/deportes/2020/09/13/un-argentino-ex-river-y-talleres-anoto-de-chilena-el-mejor-gol-del-fin-de-semana-en-europa/|access-date=19 September 2020|work=Infobae|date=13 September 2020}}</ref> He scored again on 3 February 2021 during a 2–2 draw at home to [[Olympique de Marseille|Marseille]].<ref name="Soccerway"/> His third Lens goal arrived on his [[Coupe de France]] starting debut in a defeat away to [[Championnat National]] club [[Red Star F.C.|Red Star]] on 6 March.<ref name="Soccerway"/> On 18 January 2023, he extended his contract with Lens until 2026.<ref>{{Cite web |last= |first= |date=2023-01-18 |title=RC Lens : Facundo Medina officiellement prolongé jusqu’en 2026 |url=https://www.lavoixdunord.fr/1280200/article/2023-01-18/rc-lens-facundo-medina-officiellement-prolonge-jusqu-en-2026 |access-date=2023-01-18 |website=La Voix du Nord |language=fr}}</ref>
+
+==International career==
+After playing in all three of Talleres' fixtures at the beginning of [[2018–19 Argentine Primera División|2018–19]], Medina received a call-up to the [[Argentina national under-20 football team|Argentina U20]] squad.<ref name="Mundod Lavoz 1">{{cite news|title=Facundo Medina, el lateral de Talleres que fue convocado a la selección argentina sub 20|url=http://mundod.lavoz.com.ar/futbol/facundo-medina-el-lateral-de-talleres-que-fue-convocado-la-seleccion-argentina-sub-20|access-date=21 September 2018|work=Mundod Lavoz|date=27 August 2018}}</ref><ref name="Mundod Lavoz 2">{{cite news|title=Jugó Facundo Medina de Talleres y ganó la selección sub 20|url=http://mundod.lavoz.com.ar/futbol/jugo-facundo-medina-de-talleres-y-gano-la-seleccion-sub-20|access-date=21 September 2018|work=Mundod Lavoz|date=29 August 2018}}</ref> He subsequently featured on 29 August 2018 in a friendly with [[Uruguay national under-20 football team|Uruguay]].<ref name="Mundod Lavoz 1"/><ref name="Mundod Lavoz 2"/> He had previous experience with the U20s during his time with River Plate, and was also called up to train against the [[Argentina national football team|senior squad]] during the [[2018 FIFA World Cup]] in Russia.<ref name="Talleres"/><ref name="Mundod Lavoz 3">{{cite news|title=Facundo Medina, el último "propio" en sumarse a la pretemporada de Talleres|url=http://mundod.lavoz.com.ar/futbol/facundo-medina-el-ultimo-propio-en-sumarse-la-pretemporada-de-talleres|access-date=21 September 2018|work=Mundod Lavoz|date=9 July 2018}}</ref> In December, Medina was selected for the [[2019 South American U-20 Championship]].<ref name="AFA 1">{{cite news|title=Convocados para el Sudamericano Sub 20|url=http://www.afa.com.ar/11288/convocados-para-el-sudamericano-sub-20|access-date=2 January 2019|work=AFA|date=22 December 2018|archive-url=https://web.archive.org/web/20190102050811/http://www.afa.com.ar/11288/convocados-para-el-sudamericano-sub-20|archive-date=2 January 2019|url-status=dead}}</ref> He was also picked for the subsequent [[2019 FIFA U-20 World Cup|FIFA U-20 World Cup]].<ref name="AFA 2">{{cite news|title=Lista de convocados para el Mundial|url=http://www.afa.com.ar/12140/lista-de-convocados-para-el-mundial|access-date=4 May 2019|work=AFA|archive-url=https://web.archive.org/web/20190504144225/http://www.afa.com.ar/12140/lista-de-convocados-para-el-mundial|archive-date=4 May 2019|url-status=dead}}</ref> He featured eleven times in the tournaments.<ref name="Soccerway"/> Medina was called by the [[Argentina national under-23 football team|U23s]] for the [[Football at the 2019 Pan American Games – Men's tournament|2019 Pan American Games]].<ref name="AFA 3">{{cite news|title=Lista de convocados de la Selección Sub 23 para los Juegos Panamericanos|url=https://www.afa.com.ar/es/posts/lista-de-convocados-de-la-seleccion-sub-23-para-los-juegos-panamericanos|access-date=29 July 2019|work=AFA|date=17 July 2019}}</ref>
+
+Medina appeared in all five of Argentina's matches at the Pan American Games, as they came away with the trophy after defeating Honduras in the final.<ref name="Soccerway"/> In September 2020, having won the [[2020 CONMEBOL Pre-Olympic Tournament]] with the U23s months earlier, Medina received his first call-up to the Argentina senior squad from manager [[Lionel Scaloni]].<ref name="IB1"/> He debuted in a [[2022 FIFA World Cup qualification (CONMEBOL)|2022 FIFA World Cup]] qualifying victory away to [[Bolivia national football team|Bolivia]] on 13 October, after replacing [[Lautaro Martínez]] for the final moments at the [[Estadio Hernando Siles]].<ref name="Soccerway"/>
+
+==Career statistics==
+===Club===
+{{updated|match played 17 May 2026}}<ref name="Soccerway"/>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup
+!colspan="2"|League cup
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="3"|[[Talleres de Córdoba|Talleres]]
+|[[2018–19 Argentine Primera División|2018–19]]
+|[[AFA Liga Profesional de Fútbol]]
+|16||0||1||0||0||0||0||0||0||0||17||0
+|-
+|[[2019–20 Talleres de Córdoba season|2019–20]]
+|AFA Liga Profesional de Fútbol
+|17||1||2||0||1||0||colspan="2"|—||0||0||20||1
+|-
+!colspan="2"|Total
+!33!!1!!3!!0!!1!!0!!0!!0!!0!!0!!37!!1
+|-
+|rowspan="6"|[[RC Lens|Lens]]
+|[[2020–21 RC Lens season|2020–21]]
+|[[Ligue 1]]
+|24||2||2||1||colspan="2"|—||colspan="2"|—||colspan="2"|—||26||3
+|-
+|[[2021–22 RC Lens season|2021–22]]
+|Ligue 1
+|31||1||3||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||34||1
+|-
+|[[2022–23 RC Lens season|2022–23]]
+|Ligue 1
+|32||2||3||1||colspan="2"|—||colspan="2"|—||colspan="2"|—||35||3
+|-
+|[[2023–24 RC Lens season|2023–24]]
+|Ligue 1
+|31||1||1||0||colspan="2"|—||7{{efn|Six appearances in [[UEFA Champions League]], one appearance in [[UEFA Europa League]]}}||0||colspan="2"|—||39||1
+|-
+|[[2024–25 RC Lens season|2024–25]]
+|Ligue 1
+|29||0||1||0||colspan="2"|—||1{{efn|Appearance in [[UEFA Conference League]]}}||0||colspan="2"|—||31||0
+|-
+!colspan="2"|Total
+!147!!6!!10!!2!!colspan="2"|—!!8!!0!!colspan="2"|—!!165!!8
+|-
+|[[Olympique de Marseille|Marseille]] (loan)
+|[[2025–26 Olympique de Marseille season|2025–26]]
+|Ligue 1
+|17||0||4||0||colspan="2"|—||4{{efn|Appearances in UEFA Champions League}}||0||1{{efn|Appearance in [[Trophée des Champions]]}}||0||26||0
+|-
+!colspan="3"|Career total
+!197!!7!!17!!2!!1!!0!!12!!0!!1!!0!!228!!9
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 6 June 2026|<ref name="Soccerway"/>}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="6"|[[Argentina national football team|Argentina]]
+|2020||1||0
+|-
+|2021||1||0
+|-
+|2023||1||0
+|-
+|2024||1||0
+|-
+|2025||3||0
+|-
+|2026||1||0
+|-
+!colspan="2"|Total!!8!!0
+|}
+
+==Honours==
+'''Argentina U23'''<ref name="IB1"/><ref name="IB3">{{cite news|title=La selección de fútbol vence a Honduras y se queda con la medalla dorada de los Juegos Panamericanos|url=https://www.infobae.com/deportes-2/juegos-panamericanos-lima-2019/2019/08/10/la-seleccion-de-futbol-buscara-vencer-a-honduras-para-ganar-la-medalla-dorada-en-los-juegos-panamericanos-hora-tv-y-formaciones/|access-date=15 August 2019|work=Infobae|date=10 August 2019}}</ref>
+*[[Football at the Pan American Games|Pan American Games]]: [[Football at the 2019 Pan American Games – Men's tournament|2019]]
+*[[CONMEBOL Pre-Olympic Tournament]]: [[2020 CONMEBOL Pre-Olympic Tournament|2020]]<ref>{{cite web |date=7 February 2020 |title=Argentina win ticket to Tokyo as continental champions |url=https://www.fifa.com/mensolympic/news/argentina-win-ticket-to-tokyo-as-continental-champions |url-status=dead |archive-url=https://web.archive.org/web/20200207051941/https://www.fifa.com/mensolympic/news/argentina-win-ticket-to-tokyo-as-continental-champions |archive-date=February 7, 2020 |publisher=FIFA.com}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+{{commons category}}
+* [https://www.om.fr/en/team/men/facundo-medina Profile] at the Olympique de Marseille website
+* {{Soccerbase|130353}}
+* {{Soccerway|facundo-medina/469493}}
+* {{UEFA player}}
+* {{Olympics.com|facundo-medina}}
+* {{Olympedia}}
+
+{{Olympique de Marseille squad}}
+<!--{{RC Lens squad}}-->
+{{Navboxes
+| title = Argentina squads
+| bg = white
+| fg = #0074E7
+| bordercolor = black
+| list1 =
+{{Argentina men's football squad 2020 Summer Olympics}}
+{{Argentina squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Medina, Facundo}}
+[[Category:1999 births]]
+[[Category:Living people]]
+[[Category:People from Lomas de Zamora Partido]]
+[[Category:Argentine men's footballers]]
+[[Category:Argentina men's international footballers]]
+[[Category:Argentina men's youth international footballers]]
+[[Category:Argentina men's under-20 international footballers]]
+[[Category:Footballers at the 2019 Pan American Games]]
+[[Category:Pan American Games gold medalists for Argentina]]
+[[Category:Pan American Games footballers for Argentina]]
+[[Category:Pan American Games gold medalists in football]]
+[[Category:Men's association football central defenders]]
+[[Category:Argentine expatriate men's footballers]]
+[[Category:Expatriate men's footballers in France]]
+[[Category:Argentine expatriate sportspeople in France]]
+[[Category:Argentine Primera División players]]
+[[Category:2026 FIFA World Cup players]]
+[[Category:Ligue 1 players]]
+[[Category:Club Atlético River Plate footballers]]
+[[Category:Talleres de Córdoba footballers]]
+[[Category:RC Lens players]]
+[[Category:Olympique de Marseille players]]
+[[Category:Medalists at the 2019 Pan American Games]]
+[[Category:Olympic footballers for Argentina]]
+[[Category:Footballers at the 2020 Summer Olympics]]
+[[Category:Footballers from Buenos Aires Province]]
+[[Category:21st-century Argentine sportsmen]]

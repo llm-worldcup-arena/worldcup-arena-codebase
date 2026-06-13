@@ -1,0 +1,16 @@
+{
+ "team": "QAT",
+ "source": "WhoScored",
+ "url": "https://www.whoscored.com/matches/1953856/preview/international-fifa-world-cup-2026-qatar-switzerland",
+ "title": "Qatar-Switzerland - FIFA World Cup 2026 Statistical Preview",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-13",
+ "fetched": "2026-06-13_0247",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Do you consent to these personal data processing activities by us and our partners?\nStore and/or access information on a device\nPrecise geolocation data, and identification through device scanning\nPersonalised advertising and content, advertising and content measurement, audience research and services development\nSome partners may rely on their legitimate interest. Your choices on this site will be applied for this site. You can change your settings at any time, including withdrawing your consent, by clicking the link or icon at the bottom of this page. Please note that you may need to scroll down to access it. Cookies, IDs, browser data or similar online identifiers could be processed for one or several of the purposes presented here.",
+ "_note": "team_data 赛前伤停/新闻 raw 全量留底;摘要(digest)另写进 summary ⑦/块B,可凭此回溯全文。",
+ "news_date": "2026-06-13"
+}

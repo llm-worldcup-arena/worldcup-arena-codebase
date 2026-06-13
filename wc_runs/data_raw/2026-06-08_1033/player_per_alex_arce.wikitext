@@ -1,0 +1,147 @@
+{{Short description|Paraguayan footballer (born 1995)}}
+{{family name hatnote|Arce|Barrios|lang=Spanish}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+|name        = Álex Arce
+|image       = 
+|full_name   = Álex Adrián Arce Barrios
+|birth_date  = {{birth date and age|1995|06|16|df=y}}
+|birth_place = [[Carapeguá]], Paraguay
+|height      = 1.87 m
+|position    = [[Forward (association football)|Striker]]
+|currentclub = [[Independiente Rivadavia]]
+|clubnumber  = 9
+|youthyears1 = 
+|youthclubs1 = [[Cerro Porteño]]
+|years1         = 2017–2019
+|clubs1         = [[Cerro Porteño]]
+|caps1          = 1
+|goals1         = 0
+|years2         = 2019
+|clubs2         = [[Club Rubio Ñu|Rubio Ñu]]
+|caps2          = 22
+|goals2         = 7
+|years3         = 2021–2023
+|clubs3         = [[Sportivo Ameliano]]
+|caps3          = 36
+|goals3         = 10
+|years4         = 2023–2024
+|clubs4         = [[Independiente Rivadavia]]
+|caps4          = 36
+|goals4         = 28
+|years5         = 2024–2025
+|clubs5         = [[LDU Quito]]
+|caps5          = 43
+|goals5         = 31
+|years6         = 2025–
+|clubs6         = [[Independiente Rivadavia]]
+|caps6          = 15
+|goals6         = 4
+|nationalyears1 = 2024–
+|nationalteam1 = [[Paraguay national football team|Paraguay]]
+|nationalcaps1 = 14
+|nationalgoals1 = 1
+|pcupdate = 1 April 2026
+|ntupdate = 27 March 2026
+}}
+
+'''Álex Adrián Arce Barrios''' (born 16 June 1995) is a Paraguayan professional [[Association football|footballer]] who plays as a [[Forward (association football)|striker]] for Argentine club [[Independiente Rivadavia]] and the [[Paraguay national football team|Paraguay national team]].
+
+==Early life==
+Arce came through the youth academy at Cerro Porteño and signed his first contract in 2015. However, he had to wait almost two years to make his debut in the top category and shortly afterwards suffered a cruciate ligament rupture. After recovering, his level was not the same and that is why he spent a lot of time training with the team's Reserve, until in 2019 he decided to leave to seek continuity in a minor league club.<ref>{{Cite web|url=https://www.infobae.com/deportes/2023/06/28/de-vendedor-ambulante-en-paraguay-a-ser-el-maximo-goleador-del-futbol-argentino-la-historia-de-superacion-de-alex-arce/|title=De vendedor ambulante en Paraguay a ser el máximo goleador del fútbol argentino: la historia de superación de Álex Arce|date=28 June 2023 |publisher=infobae.com}}</ref>
+
+==Club career==
+Arce played for Paraguayan side [[Sportivo Ameliano]], helping the club achieve promotion.<ref>{{Cite web|url=https://www.cronica.com.ar/depo/ascenso/Alex-Arce-el-Erling-Haaland-que-tiene-Independiente-Rivadavia-y-todo-el-futbol-argentino-20230623-0035.html|title=Álex Arce, el Erling Haaland que tiene Independiente Rivadavia y todo el fútbol argentino|publisher=cronica.com.py}}</ref>
+
+==International career==
+Arce made his debut for the [[Paraguay national football team|Paraguay national team]] on 7 June 2024 in a friendly against [[Peru national football team|Peru]] at [[Estadio Monumental "U"|Estadio Monumental]]. He started the game and played 65 minutes in a 0–0 draw.<ref>{{cite web|publisher=ESPN|url=https://www.espn.com/soccer/match/_/gameId/701635|title=Peru v Paraguay game report|date=7 June 2024}}</ref>
+
+==Style of play==
+Arce mainly operates as a striker and has been described as "stands out for kicking from outside the area with both legs , executing free kicks, dribbling at speed and As if that were not enough, his 187 centimeters and strength in jumping made him add a dangerous aerial game".<ref>{{Cite web|url=https://www.tycsports.com/al-angulo/alex-arce-independiente-rivadavia-jugaba-en-una-liga-amateur-historia-id522506.html|title=Jugaba en una liga amateur, fue vendedor ambulante y es el goleador del fútbol argentino: la historia de Álex Arce|date=12 July 2023 |publisher=tycsports.com}}</ref>
+
+==Personal life==
+Arce is the son of Miriam Barrios.<ref>{{Cite web|url=https://www.cronica.com.py/2021/08/06/alex-arce-quiero-ser-goleador-en-la-primera/|title=ÁLEX ARCE: "QUIERO SER GOLEADOR EN LA PRIMERA"|publisher=cronica.com.py|date=2021-08-06|last=Rojas C.|first=Arturo}}</ref>
+
+==Career statistics==
+===International===
+{{updated|match played 27 March 2026}}
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="3"|[[Paraguay national football team|Paraguay]]
+|2024||9||0
+|-
+|2025||4||1
+|-
+|2026||1||0
+|-
+!colspan="2"|Total||14||1
+|}
+
+{| class="wikitable"
+|-
+! No. !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+|+List of international goals scored by Álex Arce
+|-
+|1.||15 November 2025||[[Subaru Park]], [[Chester, Pennsylvania|Chester]], United States||{{fb|USA}}||align=center|'''1'''–1||align=center|1–2||[[Exhibition game|Friendly]]
+|}
+
+==Honours==
+'''Cerro Porteño'''
+* [[APF División de Honor|Primera División]]: [[2017 APF División de Honor|2017]]
+
+'''Sportivo Ameliano'''
+* [[Copa Paraguay]]: [[2022 Copa Paraguay|2022]]
+* [[Supercopa Paraguay]]: [[2022 Supercopa Paraguay|2022]]
+
+'''Independiente Rivadavia'''
+* [[Primera Nacional|Primera B Nacional]]: [[2023 Primera Nacional|2023]]
+* [[Copa Argentina]]: [[2025 Copa Argentina|2025]]<ref>{{Cite web|title=Independiente Rivadavia win first-ever Copa Argentina title in dramatic final|url=https://www.batimes.com.ar/news/sports/independiente-rivadavia-win-first-ever-copa-argentina-title-in-dramatic-final.phtml|website=Buenos Aires Times|date=2025-11-06|access-date=2025-11-27|language=en}}</ref>
+
+'''LDU Quito'''
+* [[LigaPro Serie A|Serie A]]: [[2024 LigaPro Serie A|2024]]
+* [[Supercopa Ecuador]]: [[2025 Supercopa Ecuador|2025]]
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Soccerway|399440}}
+
+{{Independiente Rivadavia squad}}
+{{Navboxes
+| title = Paraguay squads
+| bg = #D52B1E
+| fg = white
+| bordercolor = #0038A8
+| list1 =
+{{Paraguay squad 2024 Copa América}}
+{{Paraguay squad 2026 FIFA World Cup}}
+}}
+{{Ecuadorian Serie A top scorers}}
+
+{{DEFAULTSORT:Arce, Álex}}
+[[Category:1995 births]]
+[[Category:Living people]]
+[[Category:Paraguayan expatriate men's footballers]]
+[[Category:Paraguayan expatriate sportspeople in Argentina]]
+[[Category:Paraguayan expatriate sportspeople in Ecuador]]
+[[Category:Paraguayan men's footballers]]
+[[Category:Expatriate men's footballers in Argentina]]
+[[Category:Expatriate men's footballers in Ecuador]]
+[[Category:Men's association football forwards]]
+[[Category:Paraguayan Primera División players]]
+[[Category:Cerro Porteño players]]
+[[Category:People from Carapeguá]]
+[[Category:Footballers from Paraguarí Department]]
+[[Category:L.D.U. Quito footballers]]
+[[Category:Argentine Primera División players]]
+[[Category:Independiente Rivadavia footballers]]
+[[Category:Paraguay men's international footballers]]
+[[Category:2024 Copa América players]]
+[[Category:Ecuadorian Serie A players]]
+[[Category:21st-century Paraguayan sportsmen]]
+[[Category:2026 FIFA World Cup players]]

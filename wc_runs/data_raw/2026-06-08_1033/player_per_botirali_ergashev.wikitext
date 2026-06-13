@@ -1,0 +1,196 @@
+{{Short description|Uzbekistani footballer (born 1995)}}
+{{Infobox football biography
+| name = Botirali Ergashev
+| fullname = Botirali Ergashev
+| image = Botirali Ergashev 03.jpg
+| birth_date = {{Birth date and age|1995|6|23}}
+| birth_place = [[Pap, Uzbekistan]]<ref>{{cite web|url=http://namangan.uz/uz/yangiliklar-2/725-botirali-ergashev-va-uning-ota-onasi-viloyat-hokimiga-o-z-minnatdorchiliklarini-bildirdilar|title=Botirali Ergashev va uning ota-onasi viloyat hokimiga o'z minnatdorchiliklarini bildirdilar|website=namangan.uz}}</ref>
+| height = 1.87m
+| currentclub = [[FC Neftchi Fergana]]
+| clubnumber = 1
+| position = [[Goalkeeper (association football)|Goalkeeper]]
+| youthyears1 = 2009–2016
+| youthclubs1 = [[FC Pakhtakor Tashkent|Pakhtakor Tashkent]]
+| years1 = 2016–2018
+| clubs1 = [[FC Pakhtakor Tashkent|Pakhtakor Tashkent]]
+| caps1 = 2
+| goals1 = 0
+| years2 = 2018–2019
+| clubs2 = [[PFC Navbahor Namangan|Navbahor Namangan]]
+| caps2 = 14
+| goals2 = 0
+| years3 = 2019-2020
+| clubs3 = [[FC Dinamo Samarqand|Dinamo Samarqand]]
+| caps3 = 22
+| goals3 = 0
+| years4 = 2020–2021
+| clubs4 = [[FK Kokand 1912|Kokand 1912]]
+| caps4 = 15
+| goals4 = 0
+| years5 = 2021–2024
+| clubs5 = [[FC AGMK|AGMK]]
+| caps5 = 45
+| goals5 = 0
+| years6 = 2024–
+| clubs6 = [[FC Neftchi Fergana|Neftchi Fergana]]
+| caps6 = 31
+| goals6 = 0
+| nationalyears1 = 2018
+| nationalteam1 = [[Uzbekistan national under-23 football team|Uzbekistan U23]]
+| nationalcaps1 = 10
+| nationalgoals1 = 0
+| nationalyears2 = 2019–
+| nationalteam2 = [[Uzbekistan national football team|Uzbekistan]]
+| nationalcaps2 = 2
+| nationalgoals2 = 0
+| medaltemplates = {{MedalCountry|{{UZB}}}}
+{{MedalSport|Men's [[Association football|football]]}}
+{{Medal|Competition|[[AFC U-23 Championship]]}}
+{{Medal|W|[[2018 AFC U-23 Championship|2018 China]]|[[2018 AFC U-23 Championship squads#Uzbekistan|Team]]}}
+{{Medal|Competition|[[CAFA Nations Cup]]}}
+{{Medal|RU|[[2023 CAFA Nations Cup|2023 Kyrgyzstan–Uzbekistan]]|[[2023 CAFA Nations Cup squads#Uzbekistan|Team]]}}
+{{Medal|W|[[2025 CAFA Nations Cup|2025 Tajikistan–Uzbekistan]]|[[2025 CAFA Nations Cup squads#Uzbekistan|Team]]}}
+| pcupdate = 10 August 2025
+| ntupdate = 31 March 2015
+}}
+
+'''Botirali Ergashev''' ([[Cyrillic|Uzbek Cyrillic]]: ''Ботирали Эргашев''; born 23 June 1995) is an [[Uzbekistan]]i [[association football|footballer]] who plays for [[FC Neftchi Fergana|Neftchi Fergana]] and [[Uzbekistan national football team|Uzbekistan national team]].
+
+==International career==
+Ergashev made his debut for the [[Uzbekistan national football team]] in a 1–0 friendly loss to [[Iran national football team|Iran]] on 19 May 2019.<ref>{{cite web|url=https://us.soccerway.com/matches/2018/05/19/world/friendlies/iran/uzbekistan/2702101/|title=Iran vs. Uzbekistan – 19 May 2018 – Soccerway|website=us.soccerway.com}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 30 November 2024}}<ref>{{Soccerway|botirali-ergashev/383045}}</ref>
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National Cup
+!colspan="2"|League Cup
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="3|[[Pakhtakor Tashkent FK|Pakhtakor Tashkent]]
+|[[2016 Uzbek League|2016]]
+|rowspan="2"|[[Uzbek League]]
+|1||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||1||0
+|-
+|[[2017 Uzbek League|2017]]
+|1||0||0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||1||0
+|-
+!colspan="2"|Total
+!2!!0!!0!!0!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!2!!0
+|-
+|[[PFC Navbahor Namangan|Navbahor Namangan]]
+|[[2018 Uzbekistan Super League|2018]]
+|[[Uzbekistan Super League]]
+|14||0||0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||14||0
+|-
+|[[FC Neftchi Fergana|Neftchi Fergana]]
+|[[2019 Uzbekistan Super League|2019]]
+|Uzbekistan Super League
+|22||0||0||0||0||0||colspan="2"|—||colspan="2"|—||22||0
+|-
+|[[FK Kokand 1912|Kokand 1912]]
+|[[2020 Uzbekistan Super League|2020]]
+|Uzbekistan Super League
+|14||0||1||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||15||0
+|-
+|rowspan="4"|[[FC AGMK|AGMK]]
+|[[2021 Uzbekistan Super League|2021]]
+|rowspan="3"|Uzbekistan Super League
+|7||0||0||0||colspan="2"|—||2||0||colspan="2"|—||9||0
+|-
+|[[2022 Uzbekistan Super League|2022]]
+|20||0||3||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||23||0
+|-
+|[[2023 Uzbekistan Super League|2023]]
+|18||0||7||0||colspan="2"|—||5||0||colspan="2"|—||25||0
+|-
+!colspan="2"|Total
+!45!!0!!10!!0!!colspan="2"|—!!7!!0!!colspan="2"|—!!62!!0
+|-
+|[[FC Neftchi Fergana|Neftchi Fergana]]
+|[[2024 Uzbekistan Super League|2024]]
+|Uzbekistan Super League
+|17||0||2||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||19||0
+|-
+!colspan="3"|Career total
+!114!!0!!13!!0!!0!!0!!7!!0!!0!!0!!134!!0
+|}
+
+===International===
+{{Updated|match played 13 October 2023}}<ref>{{NFT|id=71149}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="8"|[[Uzbekistan national football team|Uzbekistan]]
+|2018||1||0
+|-
+|2019||0||0
+|-
+|2020||0||0
+|-
+|2021||0||0
+|-
+|2022||0||0
+|-
+|2023||1||0
+|-
+|2024||0||0
+|-
+|2025||0||0
+|-
+!colspan="2"|Total!!2!!0
+|}
+
+== References ==
+{{Reflist}}
+
+==External links==
+*{{Soccerway|botirali-ergashev/383045}}
+*{{NFT|71149}}
+
+{{FC Neftchi Fergana squad}}
+{{Navboxes
+| title = Uzbekistan squads
+| bg = #0099B5
+| fg = white 
+| bordercolor = #CE1126
+| list =
+{{Uzbekistan squad 2023 AFC Asian Cup}}
+{{Uzbekistan squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Ergashev, Botirali}}
+[[Category:1995 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Namangan Region]]
+[[Category:Uzbekistani men's footballers]]
+[[Category:21st-century Uzbekistani sportsmen]]
+[[Category:Uzbekistan men's international footballers]]
+[[Category:Uzbekistan men's youth international footballers]]
+[[Category:Men's association football goalkeepers]]
+[[Category:Uzbekistan Super League players]]
+[[Category:Pakhtakor Tashkent FK players]]
+[[Category:PFC Navbahor Namangan players]]
+[[Category:FC Kokand 1912 players]]
+[[Category:FK Dinamo Samarqand players]]
+[[Category:FC AGMK players]]
+[[Category:FC Neftchi Fergana players]]
+[[Category:Asian Games footballers for Uzbekistan]]
+[[Category:Footballers at the 2018 Asian Games]]
+[[Category:2023 AFC Asian Cup players]]
+[[Category:2026 FIFA World Cup players]]
+
+
+{{Uzbekistan-footy-bio-stub}}

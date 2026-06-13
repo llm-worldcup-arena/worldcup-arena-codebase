@@ -1,0 +1,15 @@
+{
+ "team": "CAN",
+ "source": "FOX Sports",
+ "url": "https://www.foxsports.com/articles/soccer/alphonso-davies-suffers-injury-blow-ahead-of-world-cup-blow-as-canada-miss-star-player-against-bosnia-herzegovina",
+ "title": "Alphonso Davies suffers injury blow ahead of World Cup blow as Canada miss star player against Bosnia-Herzegovina | FOX Sports",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-12",
+ "fetched": "2026-06-13_0247",
+ "method": "jsonld:articleBody",
+ "status": "ok",
+ "original_text": "The co-hosts Speaking to reporters during a pre-match news conference ahead of the group stage opener, Marsch explained the decision regarding his captain's fitness timeline. He said: \"We did an MRI with him [on Wednesday]. It showed very positive signs that he’s healing incredibly well, almost completely. We’re getting ready to ramp things up. I think that he’s showing, like he always has, a real good ability to recover from muscle injuries.\" Nevertheless, the former Leeds United manager refused to close the door on his star man featuring in the subsequent matches of the tournament, adding: \"I think that having his private physio here has been very helpful, and the concentration on his body’s needs every day. And so we are really hopeful that over the next days and week that we can accelerate things and give him a chance to contribute here soon.\" In a major tactical boost, centre-back Moise Bombito will remain on the roster despite breaking his leg with Nice in October. Although young defender Luc de Fougerolles is expected to deputise initially, Marsch praised Bombito's resilience: \"He has made incredible progress over the past month, and certainly over the last week, and it made the decision relatively easy that we should keep him in the group. \"He’ll be ready to contribute tomorrow. He’s not fully at 100 percent but he’s reached his top speed. He’s shown in training that every day he’s getting stronger and better, and can focus more on football behaviours.\"",
+ "_note": "team_data 赛前伤停/新闻 raw 全量留底;摘要(digest)另写进 summary ⑦/块B,可凭此回溯全文。"
+}

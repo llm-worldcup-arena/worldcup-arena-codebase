@@ -1,0 +1,16 @@
+{
+ "team": "COL",
+ "source": "FIFA.com",
+ "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/colombia-squad-announced",
+ "title": "Luis Diaz and James Rodriguez headline Colombia World Cup squad",
+ "news_date": "2026-06-13",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "asof": "2026-06-13",
+ "fetched": "2026-06-13_0637",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Luis Diaz and James Rodriguez headline Colombia World Cup squad\nNestor Lorenzo has named his 26-man Colombia squad for the FIFA World Cup 2026.\nNestor Lorenzo has unveiled the 26-man squad for the FIFA World Cup 2026™, where Colombia will take on Congo DR, Portugal and Uzbekistan in Group K.\nThe Argentinian manager will have at his disposal the core of the squad that reached the final of the CONMEBOL Copa America two years ago — a feat they will aim to replicate in Canada, Mexico and the USA. After missing out on Qatar 2022, Colombia are chomping at the bit ahead of their return to the world’s biggest stage.\nThe squad is led by superstar Luis Diaz, who has enjoyed a sensational year at Bayern Munich, and James Rodriguez, the team captain and Colombia’s all-time leading scorer in the FIFA World Cup. James prepared for the global showpiece with a short-term move to Major League Soccer team Minnesota United.\nNotably, Lorenzo has named nine midfielders to provide a number of attacking options during the tournament. \"In tournaments like the World Cup, it is crucial to have options in the midfield; we aim to cover that area comprehensively,\" he said.\nColombia's World Cup squadColombia's World Cup squad\nGoalkeepersGoalkeepers\nAlvaro Montero Camilo Vargas David Ospina\nDefendersDefenders\nDaniel Munoz Santiago Arias Davinson Sanchez Jhon Lucumi Yerry Mina Willer Ditta Deiver Machado Johan Mojica\nMidfieldersMidfielders\nGustavo Puerta James Rodriguez Jefferson Lerma Jhon Arias Jorge Carrascal Juan Fernando Quintero Richard Rios Kevin Castano Jaminton Campaz Juan Portilla\nForwardsForwards\nLuis Diaz Luis Suarez Jhon Cordoba Carlos Gomez Juan Camilo Hernandez\nAll squads are provisional until the final list of 26 players is announced by FIFA, following their submission by participating teams, on 2 June.\nColombia's World Cup 2026 fixtures and groupColombia's World Cup 2026 fixtures and group\n17 June: Uzbekistan v Colombia - Mexico City Stadium\n23 June: Colombia v Congo DR - Estadio Guadalajara\n27 June: Colombia v Portugal - Miami Stadium\nRead more on Colombia at the World CupRead more on Colombia at the World Cup\nExplore hospitality packages for Colombia's FIFA World Cup 2026™ matchesExplore hospitality packages for Colombia's FIFA World Cup 2026™ matches",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

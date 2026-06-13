@@ -1,0 +1,130 @@
+{{short description|Uzbek footballer (born 1991)}}
+{{Use dmy dates|date=January 2015}}
+{{Infobox football biography
+| name = Farrukh Sayfiyev
+| fullname = Farrux Karimovich Sayfiyev
+| image = Iran v Uzbekistan 2-2, 25 March 2025, Azadi Stadium, World Cup 2026 qualifier 32 (cropped).jpg
+| birth_date = {{birth date and age|df=yes|1991|1|17}}
+| birth_place = [[Samarkand]], [[Uzbek SSR]]
+| height = 1.80 m
+| position = [[Defender (association football)#Full-back|Left-back]]
+| currentclub = [[FC Neftchi Fergana|Neftchi Fergana]]
+| clubnumber = 34
+| youthyears1 = 2011–2012
+| youthclubs1 = [[FC Nasaf-2|Nasaf-2]]
+| years1 = 2012–2018
+| clubs1 = [[FC Nasaf|Nasaf]]
+| caps1 = 111
+| goals1 = 13
+| years2 = 2018–2024
+| clubs2 = [[Pakhtakor Tashkent FK|Pakhtakor]]
+| caps2 = 195
+| goals2 = 11
+| years3 = 2024
+| clubs3 = [[FC Navbahor Namangan|Navbahor Namangan]]
+| caps3 = 22
+| goals3 = 1
+| years4 = 2025–
+| clubs4 = [[FC Neftchi Fergana|Neftchi Fergana]]
+| caps4 = 11
+| goals4 = 1
+| nationalyears1 = 2014–
+| nationalteam1 = [[Uzbekistan national football team|Uzbekistan]]
+| nationalcaps1 = 44
+| nationalgoals1 = 1
+| medaltemplates = {{MedalCountry|{{fb|UZB}}}}
+{{Medal|Competition|[[CAFA Nations Cup]]}}
+{{Medal|RU|[[2023 CAFA Nations Cup|2023 Kyrgyzstan–Uzbekistan]]|[[2023 CAFA Nations Cup squads#Uzbekistan|Team]]}}
+{{Medal|W|[[2025 CAFA Nations Cup|2025 Tajikistan–Uzbekistan]]|[[2025 CAFA Nations Cup squads#Uzbekistan|Team]]}}
+| pcupdate = 25 August 2025
+| ntupdate = 20 June 2023
+| caption = Sayfiyev with [[uzbekistan national football team|Uzbekistan]] in 2025
+}}
+'''Farrukh Sayfiyev'''  ({{lang-x2|uz|Farrux Sayfiyev|Фаррух Сайфиев}}; born 17 January 1991) is an Uzbek professional [[Association football|footballer]] who plays as a [[Defender (association football)#Full-back|left-back]] for [[FC Neftchi Fergana|Neftchi Fergana]] and the [[Uzbekistan national football team|Uzbekistan national team]].<ref>{{cite web |url=https://www.worldfootball.net/person/pe364451/farrukh-sayfiyev/ |title=Farrukh Sayfiev |website=worldfootball.net |publisher=HEIM:SPIEL |access-date=24 December 2018}}</ref>
+
+==Career==
+On January 5, 2025, a member of the [[Uzbekistan Super League]], he signed a contract with the [[Fergana]] club Neftchi.<ref>{{cite web |url=https://championat.asia/uz/news/neftchi-yana-bir-bomba-transferni-elon-qildi |title="Нефтчи" яна бир бомба трансферни эълон қилди |website=championat.asia |publisher=championat.asia |access-date=5 January 2025}}</ref>
+
+===International===
+Sayfiev made his debut for the [[Uzbekistan national football team|Uzbekistan]] main team on 20 August 2014 in a [[Friendly (sport)|Friendly]] match against [[Azerbaijan national football team|Azerbaijan]].<ref>[https://www.national-football-teams.com/matches/report/11092/Azerbaijan_Uzbekistan.html Azerbaijan 0–0 Uzbekistan]</ref>
+
+{| class="wikitable" style="text-align:center"
+|-
+!colspan=3|[[Uzbekistan national football team|Uzbekistan national team]]
+|-
+!Year!!Apps!!Goals
+|-
+|2014||9||0
+|-
+|2015||4||0
+|-
+|2016||0||0
+|-
+|2017||1||0
+|-
+|2018||1||0
+|-
+|2019||10||0
+|-
+|2020||2||0
+|-
+|2021||5||0
+|-
+|2022||8||1
+|-
+|2023||2||0
+|-
+!Total||42||1
+|}
+''Statistics accurate as of match played 20 June 2023.''
+
+===International goals===
+:''Scores and results list Uzbekistan's goal tally first.''
+{| class="wikitable"
+! No. !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| 1. || 8 June 2022 || [[Markaziy Stadium (Namangan)|Markaziy Stadium]], [[Namangan]], [[Uzbekistan]] || {{fb|SRI}} || align=center | '''2'''–0 || align=center | 3–0 || [[2023 AFC Asian Cup qualification – third round|2023 AFC Asian Cup qualification]]
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{soccerway|farrux-sayfiyev/278005|Farrukh Sayfiev}}
+* {{NFT player|pid=56634}}
+
+{{FC Neftchi Fergana squad}}
+{{Navboxes
+| title = Uzbekistan squads
+| bg          = #0099B5
+| fg          = white 
+| bordercolor = #CE1126
+| list =
+{{Uzbekistan squad 2015 AFC Asian Cup}}
+{{Uzbekistan squad 2019 AFC Asian Cup}}
+{{Uzbekistan squad 2023 AFC Asian Cup}}
+{{Uzbekistan squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Sayfiev, Farrukh}}
+[[Category:1991 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Samarkand]]
+[[Category:Uzbekistani men's footballers]]
+[[Category:21st-century Uzbekistani sportsmen]]
+[[Category:Uzbekistan men's international footballers]]
+[[Category:Men's association football midfielders]]
+[[Category:FC Nasaf players]]
+[[Category:Pakhtakor Tashkent FK players]]
+[[Category:PFC Navbahor Namangan players]]
+[[Category:FC Neftchi Fergana players]]
+[[Category:Uzbekistan Super League players]]
+[[Category:Footballers at the 2014 Asian Games]]
+[[Category:2015 AFC Asian Cup players]]
+[[Category:2019 AFC Asian Cup players]]
+[[Category:2023 AFC Asian Cup players]]
+[[Category:Asian Games footballers for Uzbekistan]]
+[[Category:2026 FIFA World Cup players]]
+
+
+{{Uzbekistan-footy-bio-stub}}

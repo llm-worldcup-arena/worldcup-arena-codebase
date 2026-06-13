@@ -1,0 +1,158 @@
+<noinclude>
+'''Please read before you update the table:'''
+# '''Final score only''': Most importantly, make sure the score is final. Don't update based on games that are still ongoing.
+# '''Both teams''': Update the record of both teams (not just the winner or the team you support).
+# '''Every column''': Update every column (not just Pts). Pay close attention to GF, GA, and GD (errors will be hard to detect).
+# '''Correct positions''': Make sure the teams are in the correct positions. In particular, make sure teams with the same number of points are ranked correctly based on the tiebreakers of the tournament.
+#*The tiebreakers for this tournament are at [[2026 FIFA World Cup qualification#Format]].
+If in any doubt, check with standings from the official website (https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/qualifiers/conmebol/standings) or other reliable sources.
+
+</noinclude>{{#invoke:Sports table|main|style=WDL
+|source=[https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/qualifiers/conmebol/standings FIFA]
+|show_matches=y
+|class_rules=[[2026 FIFA World Cup qualification#Tiebreakers|Tiebreakers]]
+
+<!--UPDATE positions below (check tiebreakers)-->
+|team_order = ARG, ECU, COL, URU, BRA, PAR, BOL, VEN, PER, CHI
+
+<!--UPDATE standings below (including date)-->
+|update=complete
+|win_ARG=12|draw_ARG=2 |loss_ARG=4 |gf_ARG=31|ga_ARG=10
+|win_BOL=6 |draw_BOL=2 |loss_BOL=10|gf_BOL=17|ga_BOL=35
+|win_BRA=8 |draw_BRA=4 |loss_BRA=6 |gf_BRA=24|ga_BRA=17
+|win_CHI=2 |draw_CHI=5 |loss_CHI=11|gf_CHI=9 |ga_CHI=27
+|win_COL=7 |draw_COL=7 |loss_COL=4 |gf_COL=28|ga_COL=18
+|win_ECU=8 |draw_ECU=8 |loss_ECU=2 |gf_ECU=14|ga_ECU=5 
+|win_PAR=7 |draw_PAR=7 |loss_PAR=4 |gf_PAR=14|ga_PAR=10
+|win_PER=2 |draw_PER=6 |loss_PER=10|gf_PER=6 |ga_PER=21
+|win_URU=7 |draw_URU=7 |loss_URU=4 |gf_URU=22|ga_URU=12
+|win_VEN=4 |draw_VEN=6 |loss_VEN=8 |gf_VEN=18|ga_VEN=28
+
+|status_text_Y=Cannot qualify directly, may only advance to inter-confederation play-offs
+
+<!--NOTE: USE fb TEMPLATE FOR NAME AND fbicon FOR SHORT-->
+|name_ARG={{fb|ARG}} |short_ARG={{fbicon|ARG}}
+|name_BOL={{fb|BOL}} |short_BOL={{fbicon|BOL}}
+|name_BRA={{fb|BRA}} |short_BRA={{fbicon|BRA}}
+|name_CHI={{fb|CHI}} |short_CHI={{fbicon|CHI}}
+|name_COL={{fb|COL}} |short_COL={{fbicon|COL}}
+|name_ECU={{fb|ECU}} |short_ECU={{fbicon|ECU}}
+|name_PAR={{fb|PAR}} |short_PAR={{fbicon|PAR}}
+|name_PER={{fb|PER}} |short_PER={{fbicon|PER}}
+|name_URU={{fb|URU}} |short_URU={{fbicon|URU}}
+|name_VEN={{fb|VEN}} |short_VEN={{fbicon|VEN}}
+
+<!--Update qualifications below-->
+|res_col_header=Q
+|result1=WC |result2=WC |result3=WC |result4=WC |result5=WC |result6=WC |result7=PO
+|col_WC=green1 |text_WC={{nowrap|[[2026 FIFA World Cup]]}}
+|col_PO=blue1  |text_PO=[[2026 FIFA World Cup qualification (inter-confederation play-offs)|Inter-confederation play-offs]]
+
+<!--Points deductions-->
+|adjust_points_ECU=-3
+|hth_ECU=Ecuador were penalized 3 points for the use of false birth documents for [[Byron Castillo]] in the previous World Cup qualification cycle.<ref name="ecuador_deduction">{{cite web |url=https://www.tas-cas.org/fileadmin/user_upload/CAS_Media_Release_9175_9176_Decision.pdf |title=The CAS confirms the eligibility of the player Byron Castillo (Ecuador) but imposes sanctions against the Ecuadorian Football Federation for a violation of the FIFA regulations |work=Court of Arbitration for Sport |date=8 November 2022 |access-date=12 December 2022 |archive-date=3 December 2022 |archive-url=https://web.archive.org/web/20221203052908/https://www.tas-cas.org/fileadmin/user_upload/CAS_Media_Release_9175_9176_Decision.pdf |url-status=live}}</ref>
+
+<!--Update final match scores below-->
+|match_ARG_BOL=[[2026 FIFA World Cup qualification (CONMEBOL)#ARG v BOL|6–0]]
+|match_ARG_BRA=[[2026 FIFA World Cup qualification (CONMEBOL)#ARG v BRA|4-1]]
+|match_ARG_CHI=[[2026 FIFA World Cup qualification (CONMEBOL)#ARG v CHI|3–0]]
+|match_ARG_COL=[[2026 FIFA World Cup qualification (CONMEBOL)#ARG v COL|1–1]]
+|match_ARG_ECU=[[2026 FIFA World Cup qualification (CONMEBOL)#ARG v ECU|1–0]]
+|match_ARG_PAR=[[2026 FIFA World Cup qualification (CONMEBOL)#ARG v PAR|1–0]]
+|match_ARG_PER=[[2026 FIFA World Cup qualification (CONMEBOL)#ARG v PER|1–0]]
+|match_ARG_URU=[[2026 FIFA World Cup qualification (CONMEBOL)#ARG v URU|0–2]]
+|match_ARG_VEN=[[2026 FIFA World Cup qualification (CONMEBOL)#ARG v VEN|3–0]]
+
+|match_BOL_ARG=[[2026 FIFA World Cup qualification (CONMEBOL)#BOL v ARG|0–3]]
+|match_BOL_BRA=[[2026 FIFA World Cup qualification (CONMEBOL)#BOL v BRA|1–0]]
+|match_BOL_CHI=[[2026 FIFA World Cup qualification (CONMEBOL)#BOL v CHI|2–0]]
+|match_BOL_COL=[[2026 FIFA World Cup qualification (CONMEBOL)#BOL v COL|1–0]]
+|match_BOL_ECU=[[2026 FIFA World Cup qualification (CONMEBOL)#BOL v ECU|1–2]]
+|match_BOL_PAR=[[2026 FIFA World Cup qualification (CONMEBOL)#BOL v PAR|2–2]]
+|match_BOL_PER=[[2026 FIFA World Cup qualification (CONMEBOL)#BOL v PER|2–0]]
+|match_BOL_URU=[[2026 FIFA World Cup qualification (CONMEBOL)#BOL v URU|0–0]]
+|match_BOL_VEN=[[2026 FIFA World Cup qualification (CONMEBOL)#BOL v VEN|4–0]]
+
+|match_BRA_ARG=[[2026 FIFA World Cup qualification (CONMEBOL)#BRA v ARG|0–1]]
+|match_BRA_BOL=[[2026 FIFA World Cup qualification (CONMEBOL)#BRA v BOL|5–1]]
+|match_BRA_CHI=[[2026 FIFA World Cup qualification (CONMEBOL)#BRA v CHI|3–0]]
+|match_BRA_COL=[[2026 FIFA World Cup qualification (CONMEBOL)#BRA v COL|2–1]]
+|match_BRA_ECU=[[2026 FIFA World Cup qualification (CONMEBOL)#BRA v ECU|1–0]]
+|match_BRA_PAR=[[2026 FIFA World Cup qualification (CONMEBOL)#BRA v PAR|1–0]]
+|match_BRA_PER=[[2026 FIFA World Cup qualification (CONMEBOL)#BRA v PER|4–0]]
+|match_BRA_URU=[[2026 FIFA World Cup qualification (CONMEBOL)#BRA v URU|1–1]]
+|match_BRA_VEN=[[2026 FIFA World Cup qualification (CONMEBOL)#BRA v VEN|1–1]]
+
+|match_CHI_ARG=[[2026 FIFA World Cup qualification (CONMEBOL)#CHI v ARG|0–1]]
+|match_CHI_BOL=[[2026 FIFA World Cup qualification (CONMEBOL)#CHI v BOL|1–2]]
+|match_CHI_BRA=[[2026 FIFA World Cup qualification (CONMEBOL)#CHI v BRA|1-2]]
+|match_CHI_COL=[[2026 FIFA World Cup qualification (CONMEBOL)#CHI v COL|0–0]]
+|match_CHI_ECU=[[2026 FIFA World Cup qualification (CONMEBOL)#CHI v ECU|0–0]]
+|match_CHI_PAR=[[2026 FIFA World Cup qualification (CONMEBOL)#CHI v PAR|0–0]]
+|match_CHI_PER=[[2026 FIFA World Cup qualification (CONMEBOL)#CHI v PER|2–0]]
+|match_CHI_URU=[[2026 FIFA World Cup qualification (CONMEBOL)#CHI v URU|0–0]]
+|match_CHI_VEN=[[2026 FIFA World Cup qualification (CONMEBOL)#CHI v VEN|4–2]]
+
+|match_COL_ARG=[[2026 FIFA World Cup qualification (CONMEBOL)#COL v ARG|2-1]]
+|match_COL_BOL=[[2026 FIFA World Cup qualification (CONMEBOL)#COL v BOL|3–0]]
+|match_COL_BRA=[[2026 FIFA World Cup qualification (CONMEBOL)#COL v BRA|2–1]]
+|match_COL_CHI=[[2026 FIFA World Cup qualification (CONMEBOL)#COL v CHI|4–0]]
+|match_COL_ECU=[[2026 FIFA World Cup qualification (CONMEBOL)#COL v ECU|0–1]]
+|match_COL_PAR=[[2026 FIFA World Cup qualification (CONMEBOL)#COL v PAR|2–2]]
+|match_COL_PER=[[2026 FIFA World Cup qualification (CONMEBOL)#COL v PER|0–0]]
+|match_COL_URU=[[2026 FIFA World Cup qualification (CONMEBOL)#COL v URU|2–2]]
+|match_COL_VEN=[[2026 FIFA World Cup qualification (CONMEBOL)#COL v VEN|1–0]]
+
+|match_ECU_ARG=[[2026 FIFA World Cup qualification (CONMEBOL)#ECU v ARG|1–0]]
+|match_ECU_BOL=[[2026 FIFA World Cup qualification (CONMEBOL)#ECU v BOL|4–0]]
+|match_ECU_BRA=[[2026 FIFA World Cup qualification (CONMEBOL)#ECU v BRA|0–0]]
+|match_ECU_CHI=[[2026 FIFA World Cup qualification (CONMEBOL)#ECU v CHI|1–0]]
+|match_ECU_COL=[[2026 FIFA World Cup qualification (CONMEBOL)#ECU v COL|0–0]]
+|match_ECU_PAR=[[2026 FIFA World Cup qualification (CONMEBOL)#ECU v PAR|0–0]]
+|match_ECU_PER=[[2026 FIFA World Cup qualification (CONMEBOL)#ECU v PER|1–0]]
+|match_ECU_URU=[[2026 FIFA World Cup qualification (CONMEBOL)#ECU v URU|2–1]]
+|match_ECU_VEN=[[2026 FIFA World Cup qualification (CONMEBOL)#ECU v VEN|2–1]]
+
+|match_PAR_ARG=[[2026 FIFA World Cup qualification (CONMEBOL)#PAR v ARG|2–1]]
+|match_PAR_BOL=[[2026 FIFA World Cup qualification (CONMEBOL)#PAR v BOL|1–0]]
+|match_PAR_BRA=[[2026 FIFA World Cup qualification (CONMEBOL)#PAR v BRA|1-0]]
+|match_PAR_CHI=[[2026 FIFA World Cup qualification (CONMEBOL)#PAR v CHI|1–0]]
+|match_PAR_COL=[[2026 FIFA World Cup qualification (CONMEBOL)#PAR v COL|0–1]]
+|match_PAR_ECU=[[2026 FIFA World Cup qualification (CONMEBOL)#PAR v ECU|0–0]]
+|match_PAR_PER=[[2026 FIFA World Cup qualification (CONMEBOL)#PAR v PER|0–0]]
+|match_PAR_URU=[[2026 FIFA World Cup qualification (CONMEBOL)#PAR v URU|2–0]]
+|match_PAR_VEN=[[2026 FIFA World Cup qualification (CONMEBOL)#PAR v VEN|2–1]]
+
+|match_PER_ARG=[[2026 FIFA World Cup qualification (CONMEBOL)#PER v ARG|0–2]]
+|match_PER_BOL=[[2026 FIFA World Cup qualification (CONMEBOL)#PER v BOL|3–1]]
+|match_PER_BRA=[[2026 FIFA World Cup qualification (CONMEBOL)#PER v BRA|0–1]]
+|match_PER_CHI=[[2026 FIFA World Cup qualification (CONMEBOL)#PER v CHI|0–0]]
+|match_PER_COL=[[2026 FIFA World Cup qualification (CONMEBOL)#PER v COL|1–1]]
+|match_PER_ECU=[[2026 FIFA World Cup qualification (CONMEBOL)#PER v ECU|0–0]]
+|match_PER_PAR=[[2026 FIFA World Cup qualification (CONMEBOL)#PER v PAR|0–1]]
+|match_PER_URU=[[2026 FIFA World Cup qualification (CONMEBOL)#PER v URU|1–0]]
+|match_PER_VEN=[[2026 FIFA World Cup qualification (CONMEBOL)#PER v VEN|1–1]]
+
+|match_URU_ARG=[[2026 FIFA World Cup qualification (CONMEBOL)#URU v ARG|0–1]]
+|match_URU_BOL=[[2026 FIFA World Cup qualification (CONMEBOL)#URU v BOL|3–0]]
+|match_URU_BRA=[[2026 FIFA World Cup qualification (CONMEBOL)#URU v BRA|2–0]]
+|match_URU_CHI=[[2026 FIFA World Cup qualification (CONMEBOL)#URU v CHI|3–1]]
+|match_URU_COL=[[2026 FIFA World Cup qualification (CONMEBOL)#URU v COL|3–2]]
+|match_URU_ECU=[[2026 FIFA World Cup qualification (CONMEBOL)#URU v ECU|0–0]]
+|match_URU_PAR=[[2026 FIFA World Cup qualification (CONMEBOL)#URU v PAR|0–0]]
+|match_URU_PER=[[2026 FIFA World Cup qualification (CONMEBOL)#URU v PER|3–0]]
+|match_URU_VEN=[[2026 FIFA World Cup qualification (CONMEBOL)#URU v VEN|2–0]]
+
+|match_VEN_ARG=[[2026 FIFA World Cup qualification (CONMEBOL)#VEN v ARG|1–1]]
+|match_VEN_BOL=[[2026 FIFA World Cup qualification (CONMEBOL)#VEN v BOL|2–0]]
+|match_VEN_BRA=[[2026 FIFA World Cup qualification (CONMEBOL)#VEN v BRA|1–1]]
+|match_VEN_CHI=[[2026 FIFA World Cup qualification (CONMEBOL)#VEN v CHI|3–0]]
+|match_VEN_COL=[[2026 FIFA World Cup qualification (CONMEBOL)#VEN v COL|3–6]]
+|match_VEN_ECU=[[2026 FIFA World Cup qualification (CONMEBOL)#VEN v ECU|0–0]]
+|match_VEN_PAR=[[2026 FIFA World Cup qualification (CONMEBOL)#VEN v PAR|1–0]]
+|match_VEN_PER=[[2026 FIFA World Cup qualification (CONMEBOL)#VEN v PER|1–0]]
+|match_VEN_URU=[[2026 FIFA World Cup qualification (CONMEBOL)#VEN v URU|0–0]]
+
+}}<noinclude>
+[[Category:2026 FIFA World Cup qualification templates]]
+</noinclude>

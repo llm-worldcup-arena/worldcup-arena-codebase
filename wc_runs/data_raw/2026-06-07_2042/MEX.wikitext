@@ -1,0 +1,144 @@
+{{Short description|Men's association football team}}
+{{About|the men's team|the women's team|Mexico women's national football team}}
+{{Redirect|El Tri|the band|El Tri (band)}}
+{{pp-semi-indef}}
+{{Use dmy dates|date=June 2025}}
+{{Infobox national football team
+| Name                     = Mexico
+| Badge                    = Mexico national football team crest.svg <!-- Please do NOT remove this image. It was conceived to represent the national team, NOT the federation. -->
+| Badge_size               = 165px
+| Nickname                 = ''{{lang|es|El Tri}}''<br>''{{lang|es|El Tricolor}}''
+| Association              = [[Mexican Football Federation|Federación Mexicana de Fútbol]] (FMF)
+| Confederation            = [[CONCACAF]] (North America)
+| Sub-confederation        = [[North American Football Union|NAFU]] (North America)
+| Coach                    = [[Javier Aguirre]]
+| Captain                  = [[Edson Álvarez]]
+| Most caps                = [[Andrés Guardado]] (180)
+| Top scorer               = [[Javier Hernández]] ([[List of international goals scored by Javier Hernández|52]])
+| Home Stadium             = [[Estadio Azteca]]
+| FIFA Trigramme           = MEX
+| FIFA Rank                = {{FIFA World Rankings|MEX}}
+| FIFA max                 = 4
+| FIFA max date            = February–June 1998, August 2003, April 2004, June 2004, May–June 2006
+| FIFA min                 = 40
+| FIFA min date            = July 2015
+| Elo Rank                 = {{World Football Elo Ratings|Mexico}}
+| Elo max                  = 4
+| Elo max date             = June 2016
+| Elo min                  = 47
+| Elo min date             = February 1979
+| pattern_la1              = _mex26h
+| pattern_b1               = _mex26hA
+| pattern_ra1              = _mex26h
+| pattern_sh1              = _mex26h
+| pattern_so1              = _mex26h
+| leftarm1                 = 3a7257
+| body1                    = 3a7257
+| rightarm1                = 3a7257
+| shorts1                  = ffffff
+| socks1                   = DE0000
+| pattern_la2              = _mex26a
+| pattern_b2               = _mex26a
+| pattern_ra2              = _mex26a
+| pattern_sh2              = _mex26a
+| pattern_so2              = _mex26al
+| leftarm2                 = ffffff
+| body2                    = ffffff
+| rightarm2                = ffffff
+| shorts2                  = 0d392d
+| socks2                   = ffffff
+| pattern_la3              = _mex26t
+| pattern_b3               = _mex26t
+| pattern_ra3              = _mex26t
+| pattern_sh3              = _mex26t
+| pattern_so3              = _mex26tl
+| leftarm3                 = 000000
+| body3                    = 000000
+| rightarm3                = 000000
+| shorts3                  = 000000
+| socks3                   = 000000
+| First game               = {{fb|MEX|1916}} 2–1 {{fb-rt|GUA|1871}}<br>([[Mexico City]], Mexico; 9 December 1923)
+| Largest win              = {{fb|MEX}} 13–0 {{fb-rt|BAH}}<br>([[Toluca]], Mexico; 28 April 1987)
+| Largest loss             = {{fb|ENG}} 8–0 {{fb-rt|MEX|1934}}<br>([[London]], England; 10 May 1961)
+| World cup apps           = 18<!--as of 2026-->
+| World cup first          = 1930
+| World cup best           = Quarter-finals ([[1970 FIFA World Cup|1970]], [[1986 FIFA World Cup|1986]])
+| Regional name            = [[CONCACAF Championship]] / [[CONCACAF Gold Cup|Gold Cup]]
+| Regional cup apps        = 26<!--as of 2025-->
+| Regional cup first       = [[1963 CONCACAF Championship|1963]]
+| Regional cup best        = '''Champions''' ([[1965 CONCACAF Championship|1965]], [[1971 CONCACAF Championship|1971]], [[1977 CONCACAF Championship|1977]], [[1993 CONCACAF Gold Cup|1993]], [[1996 CONCACAF Gold Cup|1996]], [[1998 CONCACAF Gold Cup|1998]], [[2003 CONCACAF Gold Cup|2003]], [[2009 CONCACAF Gold Cup|2009]], [[2011 CONCACAF Gold Cup|2011]], [[2015 CONCACAF Gold Cup|2015]], [[2019 CONCACAF Gold Cup|2019]], [[2023 CONCACAF Gold Cup|2023]], [[2025 CONCACAF Gold Cup|2025]])
+| 2ndRegional name         = [[CONCACAF Nations League]]
+| 2ndRegional cup apps     = 4<!--as of 2025-->
+| 2ndRegional cup first    = [[2019–20 CONCACAF Nations League|2019–20]]
+| 2ndRegional cup best     = '''Champions''' ([[2025 CONCACAF Nations League Finals|2025]])
+| 3rdRegional name         = [[CONCACAF Cup]]
+| 3rdRegional cup apps     = 1
+| 3rdRegional cup first    = [[CONCACAF Cup|2015]]
+| 3rdRegional cup best     = '''Champions''' ([[CONCACAF Cup|2015]]) | Confederations cup apps  = 7
+| Confederations cup first = [[1995 FIFA Confederations Cup|1995]]
+| Confederations cup best  = '''Champions''' ([[1999 FIFA Confederations Cup|1999]])
+| 4thRegional name         = [[Copa América]]
+| 4thRegional cup apps     = 11<!--as of 2024-->
+| 4thRegional cup first    = [[1993 Copa América|1993]]
+| 4thRegional cup best     = Runners-up ([[1993 Copa América|1993]], [[2001 Copa América|2001]])
+| medaltemplates           = {{MedalCompetition|[[FIFA Confederations Cup]]}}
+{{MedalGold|[[1999 FIFA Confederations Cup|1999 Mexico]]|[[1999 FIFA Confederations Cup squads|Team]]}}
+{{MedalBronze|[[1995 King Fahd Cup|1995 Saudi Arabia]]|[[1995 King Fahd Cup squads|Team]]}}
+{{MedalCompetition|[[CONCACAF Championship]] / [[CONCACAF Gold Cup|Gold Cup]]}}
+{{MedalGold|[[1965 CONCACAF Championship|1965 Guatemala]]|Team}}
+{{MedalGold|[[1971 CONCACAF Championship|1971 Trinidad and Tobago]]|Team}}
+{{MedalGold|[[1977 CONCACAF Championship|1977 Mexico]]|Team}}
+{{MedalGold|[[1993 CONCACAF Gold Cup|1993 Mexico and United States]]|[[1991 CONCACAF Gold Cup squads#Mexico|Team]]}}
+{{MedalGold|[[1996 CONCACAF Gold Cup|1996 United States]]|[[2002 CONCACAF Gold Cup squads#Mexico|Team]]}}
+{{MedalGold|[[1998 CONCACAF Gold Cup|1998 United States]]|[[2005 CONCACAF Gold Cup squads#Mexico|Team]]}}
+{{MedalGold|[[2003 CONCACAF Gold Cup|2003 Mexico and United States]]|[[2007 CONCACAF Gold Cup squads#Mexico|Team]]}}
+{{MedalGold|[[2009 CONCACAF Gold Cup|2009 United States]]|[[2013 CONCACAF Gold Cup squads#Mexico|Team]]}}
+{{MedalGold|[[2011 CONCACAF Gold Cup|2011 United States]]|[[2017 CONCACAF Gold Cup squads#Mexico|Team]]}}
+{{MedalGold|[[2015 CONCACAF Gold Cup|2015 Canada and United States]]|[[2021 CONCACAF Gold Cup squads#Mexico|Team]]}}
+{{MedalGold|[[2019 CONCACAF Gold Cup|2019 Costa Rica, Jamaica and United States]]|[[2021 CONCACAF Gold Cup squads#Mexico|Team]]}}
+{{MedalGold|[[2023 CONCACAF Gold Cup|2023 Canada and United States]]|[[2021 CONCACAF Gold Cup squads#Mexico|Team]]}}
+{{MedalGold|[[2025 CONCACAF Gold Cup|2025 Canada and United States]]|[[2021 CONCACAF Gold Cup squads#Mexico|Team]]}}
+{{MedalSilver|[[1967 CONCACAF Championship|1967 Honduras]]|Team}}
+{{MedalSilver|[[2007 CONCACAF Gold Cup|2007 United States]]|[[2021 CONCACAF Gold Cup squads#Mexico|Team]]}}
+{{MedalSilver|[[2021 CONCACAF Gold Cup|2021 United States]]|[[2021 CONCACAF Gold Cup squads#Mexico|Team]]}}
+{{MedalBronze|[[1973 CONCACAF Championship|1973 Haiti]]|Team}}
+{{MedalBronze|[[1981 CONCACAF Championship|1981 Honduras]]|Team}}
+{{MedalBronze|[[1991 CONCACAF Gold Cup|1991 United States]]|[[2021 CONCACAF Gold Cup squads#Mexico|Team]]}}
+{{MedalCompetition|[[CONCACAF Nations League]]}}
+{{MedalGold|[[2025 CONCACAF Nations League Finals|2025 United States]]|[[2025 CONCACAF Nations League Finals squads#Mexico|Team]]}}
+{{MedalSilver|[[2020 CONCACAF Nations League Finals|2020 United States]]|[[2021 CONCACAF Nations League Finals squads#Mexico|Team]]}}
+{{MedalSilver|[[2024 CONCACAF Nations League Finals|2024 United States]]|[[2024 CONCACAF Nations League Finals squads#Mexico|Team]]}}
+{{MedalBronze|[[2023 CONCACAF Nations League Finals|2023 United States]]|[[2023 CONCACAF Nations League Finals squads#Mexico|Team]]}}
+{{MedalCompetition|[[CONCACAF Cup]]}}
+{{MedalGold|[[CONCACAF Cup|2015 United States]]|[[CONCACAF Cup|Team]]}}
+{{MedalCompetition|[[Copa América]]}}
+{{MedalSilver|[[1993 Copa América|1993 Ecuador]]|[[1993 Copa América squads|Team]]}}
+{{MedalSilver|[[2001 Copa América|2001 Colombia]]|[[2001 Copa América squads|Team]]}}
+{{MedalBronze|[[1997 Copa América|1997 Bolivia]]|[[1997 Copa América squads|Team]]}}
+{{MedalBronze|[[1999 Copa América|1999 Paraguay]]|[[1999 Copa América squads|Team]]}}
+{{MedalBronze|[[2007 Copa América|2007 Venezuela]]|[[2007 Copa América squads|Team]]}}
+{{MedalCompetition|[[Panamerican Championship]]}}
+{{MedalBronze|[[1960 Panamerican Championship|1960 Costa Rica]]|[[1960 Panamerican Championship squads#Mexico|Team]]}}
+{{MedalCompetition|[[North American Football Confederation#NAFC Championship|NAFC Championship]]}}
+{{MedalGold|[[1947 NAFC Championship|1947 Cuba]]|Team}}
+{{MedalGold|[[1949 NAFC Championship|1949 Mexico]]|Team}}
+{{MedalCompetition|[[North American Nations Cup]]}}
+{{MedalGold|[[1991 North American Nations Cup|1991 United States]]|[[1991 North American Nations Cup squads#Mexico|Team]]}}
+{{MedalSilver|[[1990 North American Nations Cup|1990 Canada]]|[[1990 North American Nations Cup squads#Mexico|Team]]}}
+{{MedalCompetition|[[Football at the Central American and Caribbean Games|Central American and Caribbean Games]]}}
+{{MedalGold|[[Football at the 1935 Central American and Caribbean Games|1935 El Salvador]]|[[Football at the 1935 Central American and Caribbean Games – Men's team squads#Mexico|Team]]}}
+{{MedalGold|[[Football at the 1938 Central American and Caribbean Games|1938 Panama]]|[[Football at the 1938 Central American and Caribbean Games – Men's team squads#Mexico|Team]]}}
+| website = {{url|https://miseleccion.mx/|miseleccion.mx}}
+}}
+
+The '''Mexico national football team''' ({{Langx|es|Selección de fútbol de México}}) represents [[Mexico]] in men's international [[Association football|football]], which is governed by the [[Mexican Football Federation|Federación Mexicana de Fútbol]] ({{Langx|en|Mexican Football Federation}}) founded in 1927. It has been an affiliate member of [[FIFA]] since 1929 and a founding affiliate member of [[CONCACAF]] since 1961. Regionally, it is an affiliate member of [[North American Football Union|NAFU]] in the North American Zone.
+From 1946 to 1961, it was a member of [[North American Football Confederation|NAFC]], the former governing body of football in North America and a predecessor confederation of CONCACAF, and also a member of [[Panamerican Championship#Panamerican Football Confederation|PFC]], the former unified confederation of the Americas.
+
+Mexico has qualified for the [[FIFA World Cup]] eighteen times and has qualified consecutively since 1994, making it one of six countries to do so.<ref>{{cite news |url=http://eljalisco.com/mexicos-world-cup-soccer-history/ |title=Mexico's World Cup Soccer History |website=eljalisco.com |access-date=15 June 2017 |archive-date=29 June 2017 |archive-url=https://web.archive.org/web/20170629101937/http://eljalisco.com/mexicos-world-cup-soccer-history/ |url-status=live }}</ref> It is one of four CONCACAF teams to have advanced to the knockout stage, reaching the quarter-finals twice ([[1970 FIFA World Cup|1970]] and [[1986 FIFA World Cup|1986]]) both as hosts, and also reaching the round of 16 in seven editions. On 13 July 1930, Mexico played with [[France national football team|France]] in the first match in World Cup history in [[1930 FIFA World Cup|Uruguay 1930]]. In [[2026 FIFA World Cup|2026]], Mexico will host the World Cup for the third time.
+It has qualified for the [[FIFA Confederations Cup]] seven times, being the only CONCACAF team and the only non-European or South American team to have won a FIFA global competition, winning the [[1999 FIFA Confederations Cup]] as hosts, defeating [[Brazil national football team|Brazil]] 4–3.
+
+Mexico has participated twenty-six times in CONCACAF's premier continental competition, it is the most successful team in its confederation, winning 15 CONCACAF continental titles (10 [[CONCACAF Gold Cup]] titles, 3 [[CONCACAF Championship]] titles, one [[CONCACAF Nations League]] and one [[CONCACAF Cup]]). It has participated eleven times in the [[Copa América]], finishing as runners-up twice ([[1993 Copa América|1993]] and [[2001 Copa América|2001]]) and finishing in third place three times. It also participated three times in the [[Panamerican Championship]], finishing in third place in [[1960 Panamerican Championship|1960]].
+
+Regionally, the team won two [[North American Football Confederation#NAFC Championship|NAFC Championship]] titles, one [[North American Nations Cup]], and two gold medals at the [[Football at the Central American and Caribbean Games|Central American and Caribbean Games]].
+
+It is one of eight nations{{efn|Along with Germany, Brazil, Italy, Argentina, France, Spain, and Uruguay.}} to have won two of the three most important global football competitions that are recognized and endorsed by FIFA (World Cup, Confederations Cup, and Olympic football tournament), winning the 1999 Confederations Cup<ref>{{cite news|url=https://www.supersport.com/football/fifa-confederations-cup/mexico-1999|title=Mexico 1999|website=SuperSport.com|access-date=25 August 2018|archive-date=16 June 2013|archive-url=https://web.archive.org/web/20130616014724/https://www.supersport.com/football/fifa-confederations-cup/mexico-1999|url-status=live}}</ref> with the senior team and the [[Football at the 2012 Summer Olympics – Men's tournament|2012 Olympic football tournament]]<ref>{{cite news |url=https://www.nytimes.com/2012/08/12/sports/olympics/mexico-downs-brazil-in-olympics-soccer.html |title=Mexico Has Its Moment in Upset Over Brazil |work=The New York Times |date=11 August 2012 |access-date=25 August 2018 |last1=Borden |first1=Sam |archive-date=29 June 2018 |archive-url=https://web.archive.org/web/20180629102340/https://www.nytimes.com/2012/08/12/sports/olympics/mexico-downs-brazil-in-olympics-soccer.html |url-status=live }}</ref> with the under-23 team.

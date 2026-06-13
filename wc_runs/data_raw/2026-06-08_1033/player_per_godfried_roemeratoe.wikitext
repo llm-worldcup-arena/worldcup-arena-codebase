@@ -1,0 +1,225 @@
+{{short description|Footballer (born 1999)}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+| name = Godfried Roemeratoe
+| fullname = 
+| birth_date = {{birth date and age|1999|8|19|df=yes}}
+| birth_place = [[Oost-Souburg]], Netherlands
+| image = 
+| height = 1.78 m
+| position = [[Defensive midfielder]], [[Full back (association football)|right back]]
+| currentclub = [[RKC Waalwijk]]
+| clubnumber = 6
+| youthyears1 = {{0|0000}}–2014
+| youthclubs1 = JVOZ
+| youthyears2 = 2014–2018
+| youthclubs2 = [[FC Twente|Twente]]
+| years1 = 2017–2018
+| clubs1 = [[Jong FC Twente]]
+| caps1 = 38
+| goals1 = 0
+| years2 = 2017–2022
+| clubs2 = [[FC Twente|Twente]]
+| caps2 = 48
+| goals2 = 0
+| years3 = 2021–2022
+| clubs3 = → [[Willem II Tilburg|Willem II]] (loan)
+| caps3 = 21
+| goals3 = 1
+| years4 = 2022–2023
+| clubs4 = [[Hapoel Tel Aviv F.C.|Hapoel Tel Aviv]]
+| caps4 = 24
+| goals4 = 0
+| years5 = 2023–
+| clubs5 = [[RKC Waalwijk]]
+| caps5 = 86
+| goals5 = 1
+| nationalyears1 = 2015
+| nationalteam1 = [[Netherlands national under-17 football team|Netherlands U17]]
+| nationalcaps1 = 3
+| nationalgoals1 = 0
+| nationalyears2 = 2019
+| nationalteam2 = [[Netherlands national under-20 football team|Netherlands U20]]
+| nationalcaps2 = 3
+| nationalgoals2 = 0
+| nationalyears3 = 2023–
+| nationalteam3 = [[Curaçao national football team|Curaçao]]
+| nationalcaps3 = 24
+| nationalgoals3 = 1
+| pcupdate = 25 April 2026
+| ntupdate = 27 March 2026
+}}
+'''Godfried Roemeratoe''' (born 19 August 1999) is a professional [[association football|footballer]] who plays as a [[defensive midfielder]] or [[Full back (association football)|right back]] for {{Dutch football updater|RKCWaalwi}} club [[RKC Waalwijk]].<ref name = "WF">{{Worldfootball.net|godfried-roemeratoe|new_id=pe425026}}</ref> Born in the Netherlands, he plays for the [[Curaçao national football team|Curaçao national team]].
+
+==Club career==
+Roemeratoe made his [[Eerste Divisie]] debut for [[FC Twente]] on 21 December 2018 in a game against [[N.E.C. (football club)|N.E.C.]] as a 90th-minute substitute for [[Matthew Smith (footballer, born 1999)|Matthew Smith]].<ref>{{cite web|publisher=Soccerway|url=https://int.soccerway.com/matches/2018/12/21/netherlands/eerste-divisie/stichting-fc-twente-65/nijmegen-eendracht-combinatie/2794558/|title=Game Report by Soccerway|date=21 December 2018}}</ref>
+
+On 23 August 2021, he joined [[Willem II (football club)|Willem II]] on loan for the 2021–22 season.<ref>{{cite web|publisher=[[Willem II (football club)|Willem II]]|url=https://www.willem-ii.nl/artikel/godfried-roemeratoe-naar-tilburg|title=Godfried Roemeratoe naar Tilburg|date=23 August 2021|accessdate=1 October 2021|language=nl}}</ref>
+
+== International career ==
+In March 2023, Roemeratoe received his first call-up to the [[Curaçao national football team|Curaçao senior national team]] for the [[2022–23 CONCACAF Nations League A|Nations League]] match against [[Canada men's national soccer team|Canada]] and the [[Exhibition game|friendly]] against [[Argentina national football team|Argentina]].<ref>{{cite web |date=14 March 2023 |title=PREPARASHONNAN TA KONTINUÁ PA NOS SELEKSHON NASHONAL ENFRENTÁ CANADA DJASABRA 25 MART PRÓKSIMO! NOS HUNGADÓNAN TA KONOSÍ! |url=https://www.facebook.com/photo/?fbid=589715713200644 |access-date=17 March 2023 |website=facebook.com |publisher=[[Curaçao Football Federation]] |language=Papiamento}}</ref>
+
+==Personal life==
+Godfried is of Indonesian descent from his family name "Roemeratoe" which originates from [[Seram]] in the [[Maluku Islands]].<ref>{{cite web|title=Profil Godfried Roemeratoe, Pemain Keturunan Maluku yang Kini Bela Timnas Curacao|url=https://www.suara.com/bola/2023/03/07/215500/profil-godfried-roemeratoe-pemain-keturunan-maluku-yang-kini-bela-timnas-curacao|website=amp.suara.com|publisher=[[:id:Suara.com|Suara]]|access-date=2 May 2024|date=7 March 2023|first=Rully|last=Fauzi|language=id|trans-title=Profile of Godfried Roemeratoe, a player of Maluku descent who is now playing for the Curacao National Team}}</ref>
+
+==Career statistics==
+===Club===
+{{Updated|match played 21 March 2026}}<ref name="WF"/><ref>{{Soccerway|new_id=roemeratoe-godfried/4KG2w9JQ|name=Godfried Roemeratoe|access-date=26 March 2026}}</ref>
+{| class="wikitable" style="text-align: center;"
+|-
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup{{efn|Includes [[KNVB Cup]] and [[Israel State Cup]]}}
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|[[Jong FC Twente]]
+|[[2017–18 Derde Divisie|2017–18]]
+|[[Derde Divisie]]
+|31||0||colspan="2"|—||colspan="2"|—||31||0
+|-
+|rowspan="5"|[[FC Twente|Twente]]
+|[[2018–19 FC Twente season|2018–19]]
+|[[Eerste Divisie]]
+|3||0||0||0||colspan="2"|—||3||0
+|-
+|[[2019–20 FC Twente season|2019–20]]
+|[[Eredivisie]]
+|15||0||1||0||colspan="2"|—||16||0
+|-
+|[[2020–21 FC Twente season|2020–21]]
+|Eredivisie
+|30||0||1||0||colspan="2"|—||31||0
+|-
+|[[2021–22 FC Twente season|2021–22]]
+|Eredivisie
+|0||0||0||0||colspan="2"|—||0||0
+|-
+!colspan="2"|Total
+!48!!0!!2!!0!!colspan="2"|—!!50!!0
+|-
+|[[Willem II Tilburg|Willem II]] (loan)
+|[[2021–22 Willem II season|2021–22]]
+|Eredivisie
+|21||1||1||0||colspan="2"|—||22||1
+|-
+|[[Hapoel Tel Aviv F.C.|Hapoel Tel Aviv]]
+|[[2022–23 Israeli Premier League|2022–23]]
+|[[Israeli Premier League|Ligat HaAl]]
+|24||0||0||0||5{{efn|Appearance(s) in [[Toto Cup]]}}||0||29||0
+|-
+|rowspan="4"|[[RKC Waalwijk]]
+|[[2023–24 RKC Waalwijk season|2023–24]]
+|Eredivisie
+|29||0||0||0||colspan="2"|—||29||0
+|-
+|[[2024–25 RKC Waalwijk season|2024–25]]
+|Eredivisie
+|25||1||1||0||colspan="2"|—||26||1
+|-
+|[[2025–26 Eerste Divisie|2025–26]]
+|Eerste Divisie
+|28||0||2||0||colspan="2"|—||30||0
+|-
+!colspan="2"|Total
+!82!!1!!3!!0!!colspan="2"|—!!85!!0
+|-
+!colspan="3"|Career total
+!206!!2!!6!!0!!5!!0!!217!!2
+|}
+{{notelist}}
+
+===International===
+{{Updated|match played 18 November 2025}}<ref>{{NFT player|90637|access-date=26 March 2026}}</ref>
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="3"|[[Curaçao national football team|Curaçao]]
+|2023||9||1
+|-
+|2024||6||0
+|-
+|2025||9||0
+|-
+!colspan="2"|Total
+!24!!1
+|}
+
+:''Scores and results list Curaçao's goal tally first, score column indicates score after each Roemeratoe goal.''
+{| class="wikitable sortable"
+|+ List of international goals scored by Godfried Roemeratoe
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+!scope="col" class="unsortable"|{{Abbr|Ref.|Reference}}
+|-
+|style="text-align:center"|1
+|{{dts|17 October 2023}}
+|[[Ergilio Hato Stadium]], [[Willemstad]], Curaçao 
+|{{fb|Trinidad and Tobago}}
+|style="text-align:center"|2–0
+|style="text-align:center"|5–3
+|[[2023–24 CONCACAF Nations League A]]
+|<ref>{{Cite web|title=Curaçao vs. Trinidad & Tobago|url=https://www.national-football-teams.com/matches/report/37600/Curacao_Trinidad_Tobago.html|website=National Football Teams|access-date=26 March 2026}}</ref>
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Soccerway|godfried-roemeratoe/426582}}
+
+{{RKC Waalwijk squad}}
+{{Navboxes
+| title = Curaçao squads
+| bg = #002a7e
+| fg = white
+| bordercolor = yellow
+| list1 =
+{{Curaçao squad 2025 CONCACAF Gold Cup}}
+{{Curaçao squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Roemeratoe, Godfried}}
+[[Category:1999 births]]
+[[Category:Footballers from Vlissingen]]
+[[Category:Living people]]
+[[Category:21st-century Dutch sportsmen]]
+[[Category:Dutch people of Indonesian descent]]
+[[Category:Dutch people of Curaçaoan descent]]
+[[Category:Men's association football full-backs]]
+[[Category:Men's association football midfielders]]
+[[Category:Dutch men's footballers]]
+[[Category:Netherlands men's youth international footballers]]
+[[Category:Curaçaoan men's footballers]]
+[[Category:Curaçao men's international footballers]]
+[[Category:Jong FC Twente players]]
+[[Category:FC Twente players]]
+[[Category:Willem II Tilburg players]]
+[[Category:Hapoel Tel Aviv F.C. players]]
+[[Category:RKC Waalwijk players]]
+[[Category:Eredivisie players]]
+[[Category:Eerste Divisie players]]
+[[Category:Derde Divisie players]]
+[[Category:Israeli Premier League players]]
+[[Category:2025 CONCACAF Gold Cup players]]
+[[Category:Dutch expatriate men's footballers]]
+[[Category:Curaçaoan expatriate men's footballers]]
+[[Category:Expatriate men's footballers in Israel]]
+[[Category:Dutch expatriate sportspeople in Israel]]
+[[Category:Curaçaoan expatriate sportspeople in Israel]]
+[[Category:2026 FIFA World Cup players]]
+
+
+{{Curaçao-footy-bio-stub}}
+{{Netherlands-footy-midfielder-1990s-stub}}

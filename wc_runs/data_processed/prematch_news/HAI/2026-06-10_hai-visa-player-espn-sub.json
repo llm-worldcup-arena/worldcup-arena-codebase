@@ -1,0 +1,16 @@
+{
+ "team": "HAI",
+ "source": "AP via Washington Times",
+ "url": "https://www.washingtontimes.com/news/2026/jun/2/us-grants-visa-haitian-soccer-player-join-team-world-cup/",
+ "title": "U.S. grants visa to Haitian soccer player to join team for World Cup",
+ "news_date": "2026-06-10",
+ "published": null,
+ "tier": "",
+ "lang": "",
+ "asof": "2026-06-10",
+ "fetched": "2026-06-13_0748",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "U.S. grants visa to Haitian soccer player to join team for World Cup\nSAN JUAN, Puerto Rico — The U.S. government has given a visa to Woodensky Pierre, the only member of Haiti’s national soccer team who lives in the Caribbean country, to travel and participate in the World Cup, an official said Tuesday.\nThecieux Jeanty, Haiti’s soccer federation spokesperson, told The Associated Press that Pierre is scheduled to travel to Florida on Tuesday.\n“It was a great moment for him, a moment of happiness,” he said.\nTeammates arrived in Florida last week to start preparing for the World Cup. It is the second time that Haiti has qualified. The last time it appeared on soccer’s biggest stage was more than half a century ago.\nPierre had been training with local players in an upscale area of Port-au-Prince as he awaited the visa. The team’s stadium in Haiti’s capital was considered too dangerous, so Haiti was forced to play its “home” World Cup qualifiers in Curaçao.\nPierre is from Cite Soleil, a seaside neighborhood that has long struggled with hunger and gang violence.\nHaiti will play World Cup warmup matches against New Zealand on Tuesday and Peru on Friday.\nHaiti opens World Cup play on June 13 in Foxborough, Massachusetts, against Scotland, then plays five-time champion Brazil on June 19 in Philadelphia and Morocco on June 24 in Atlanta.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

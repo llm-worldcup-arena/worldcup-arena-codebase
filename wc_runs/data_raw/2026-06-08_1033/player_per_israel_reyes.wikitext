@@ -1,0 +1,221 @@
+{{short description|Mexican footballer (born 2000)}}
+{{Use dmy dates|date=December 2021}}
+{{family name hatnote|Reyes|Romero|lang=Spanish}}
+{{Infobox football biography
+| name = Israel Reyes
+| fullname = Israel Reyes Romero
+| image = Israel Reyes.png
+| caption = Reyes with [[Club América|América]] in 2025
+| birth_date = {{birth date and age|2000|05|23|df=y}}
+| birth_place = [[El Grullo]], Mexico
+| height = 1.80 m
+| currentclub = [[Club América|América]]
+| clubnumber = 3
+| position = [[Defender (association football)#Centre-back|Centre-back]]<br>[[Defender (association football)#Full-back|Right-back]]<br>[[Midfielder#Defensive midfielder|Defensive midfielder]]
+| youthyears1 = 2016–2019
+| youthclubs1 = [[Atlas F.C.|Atlas]]
+| years1 = 2019–2021
+| clubs1 = [[Atlas F.C.|Atlas]]
+| caps1 = 1
+| goals1 = 0
+| years2 = 2020–2021
+| clubs2 = → [[Club Puebla|Puebla]] (loan)
+| caps2 = 19
+| goals2 = 0
+| years3 = 2021–2022
+| clubs3 = [[Club Puebla|Puebla]]
+| caps3 = 57
+| goals3 = 6
+| years4 = 2023–
+| clubs4 = [[Club América|América]]
+| caps4 = 120
+| goals4 = 3
+| nationalyears1 = 2021–
+| nationalteam1 = [[Mexico national football team|Mexico]]
+| nationalcaps1 = 32
+| nationalgoals1 = 2
+| medaltemplates = {{Medal|Sport|Men's [[association football|football]]}}
+{{Medal|Country|{{fb|MEX}}}}
+{{MedalCompetition|[[CONCACAF Gold Cup]]}}
+{{Medal|W|[[2023 CONCACAF Gold Cup|2023 United States–Canada]]|[[2023 CONCACAF Gold Cup squads#Mexico|Team]]}}
+{{Medal|W|[[2025 CONCACAF Gold Cup|2025 United States–Canada]]|[[2025 CONCACAF Gold Cup squads#Mexico|Team]]}}
+{{MedalCompetition|[[CONCACAF Nations League]]}}
+{{Medal|W|[[2025 CONCACAF Nations League Finals|2025 United States]]|}}
+{{Medal|3rd|[[2023 CONCACAF Nations League Finals|2023 United States]]|}}
+| club-update = 25 April 2026
+| nationalteam-update = 22 May 2026
+}}
+'''Israel Reyes Romero''' (born 23 May 2000) is a Mexican professional [[Association football|footballer]] who plays as a [[Defender (association football)#Centre-back|centre-back]], [[Defender (association football)#Full-back|right-back]] and [[Midfielder#Defensive midfielder|defensive midfielder]] for [[Liga MX]] club [[Club América|América]] and the [[Mexico national football team|Mexico national team]].<ref>{{cite web |title=Israel Reyes Romero |url=https://ligamx.net/cancha/jugador/108788/eyJpZENsdWIiOiAxMTU1MH0=/israel-reyes-romero |access-date=5 December 2021 |website=LigaMX.net |publisher=LIGA BBVA Bancomer MX}}</ref><ref name="Soccerway">{{cite web|title=Israel Reyes Romero |url=https://int.soccerway.com/players/israel-reyes-romero/618381/ |website=Soccerway |access-date=10 April 2026}}</ref>
+
+==Club career==
+===Atlas===
+Reyes commenced his career in the youth academy of [[Atlas F.C.|Atlas]]. He made his professional debut on 30 July 2019, in a match that ended in a draw against [[C.F. Pachuca|Pachuca]]. Four months later, he made his league debut as a substitute in a 2–0 loss to [[C.F. Monterrey|Monterrey]].
+
+===Puebla===
+In the summer of 2020, Reyes joined [[Club Puebla|Puebla]] on a loan. He faced obstacles in getting playing time during his first tournament, but eventually established himself and secured a permanent transfer.
+
+===América===
+On 1 December 2022, Reyes signed with [[Club América|América]].
+
+==International career==
+Reyes received his first call-up to the [[Mexico national football team|senior national team]] by [[Gerardo Martino]], and made his debut on 8 December 2021 in a friendly match against [[Chile national football team|Chile]], coming in as a substitute in the 65th minute for [[Jordan Silva]].<ref>{{cite web|url= https://www.fanbolero.com/2021/12/checa-la-convocatoria-de-mexico-para-enfrentar-a-chile/|title= ¡Checa la convocatoria de México para enfrentar a Chile!|website= fanbolero.com|date= December 6, 2021|access-date= 7 December 2021|archive-date= 7 December 2021|archive-url= https://web.archive.org/web/20211207181234/https://www.fanbolero.com/2021/12/checa-la-convocatoria-de-mexico-para-enfrentar-a-chile/|url-status= dead}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 25 April 2026}}<ref name="Soccerway" />
+
+{| class="wikitable" style="text-align: center"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|Cup
+!colspan="2"|Continental
+!colspan="2"|Club World Cup
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+|-
+|[[Atlas F.C.|Atlas]]
+|[[2019–20 Liga MX season|2019–20]]
+|rowspan="4"|[[Liga MX]]
+|1||0||3||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||4||0
+|-
+|[[Club Puebla|Puebla]] (loan)
+|[[2020–21 Liga MX season|2020–21]]
+|19||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||19||0
+|-
+|rowspan="3"|Puebla
+|[[2021–22 Liga MX season|2021–22]]
+|37||3||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||37||3
+|-
+|[[2022–23 Liga MX season|2022–23]]
+|20||3||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||20||3
+|-
+!colspan="2"|Total
+!57!!6!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!57!!6
+|-
+|rowspan="5"|[[Club América|América]]
+|[[2022–23 Club América season|2022–23]]
+|rowspan="4"|Liga MX
+|17||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||17||0
+|-
+|[[2023–24 Club América season|2023–24]]
+|29||1||colspan="2"|—||6{{efn|name=CCC|Appearances in [[CONCACAF Champions Cup]]}}||0||colspan="2"|—||4{{efn|name=LC|Appearances in [[Leagues Cup]]}}||0||39||1
+|-
+|[[2024–25 Liga MX season|2024–25]]
+|41||2||colspan="2"|—||3{{efn|name=CCC}}||0||colspan="2"|—||3{{efn|name=LC}}||0||47||2
+|-
+|[[2025–26 Liga MX season|2025–26]]
+|33||0||1{{efn|name=CdC|Appearances in [[Campeón de Campeones]]}}||0||5{{efn|name=CCC}}||0||1{{efn|name=CWCQ|Appearance in [[FIFA Club World Cup|Club World Cup play-in]]}}||0||3{{efn|name=LC}}||0||43||0
+|-
+!colspan="2"|Total
+!120!!3!!1!!0!!14!!0!!1!!0!!10!!0!!146!!3
+|-
+!colspan=3|Career total
+!197!!9!!4!!0!!14!!0!!1!!0!!10!!0!!226!!9
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 22 May 2026|<ref name="NFT">{{NFT player|id=84916|access-date=}}</ref>}}
+
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by national team and year
+! National team !! Year !! Apps !! Goals
+|-
+|rowspan="6" valign="center"|[[Mexico national football team|Mexico]]
+| 2021 || 1 || 0
+|-
+| 2022 || 2 || 1
+|-
+| 2023 || 11 || 1
+|-
+| 2024 || 4 || 0
+|-
+| 2025 || 9 || 0
+|-
+| 2026 || 5 || 0
+|-
+! colspan="2" | Total !! 32 !! 2
+|}
+
+:''Scores and results list Mexico's goal tally first.''<ref name="NFT"/>
+{|class="wikitable plainrowheaders sortable"
+|+ List of international goals scored by Israel Reyes
+!No.!!Date!!Venue!!Opponent!!Score!!Result!!Competition
+|-
+| 1. || 11 June 2022 || [[Estadio Corona]], [[Torreón]], Mexico || {{fb|SUR}} || align=center | '''1'''–0 || align=center | 3–0 || [[2022–23 CONCACAF Nations League A]]
+|-
+| 2. || 10 June 2023 || [[Snapdragon Stadium]], [[San Diego]], California || {{fb|CMR}} || align=center | '''1'''–1 || align=center | 2–2 || [[Exhibition game#Association football|Friendly]]
+|}
+
+==Honours==
+'''América'''
+*[[Liga MX]]: [[2023–24 Liga MX season#Torneo Apertura|Apertura 2023]],<ref>{{cite web | last=Hernandez | first=Cesar | title=Club América extends Liga MX record to 14 titles after defeating Tigres | website=ESPN | date=18 December 2023 | url=https://www.espn.com/soccer/report/_/gameId/690858 | access-date=19 December 2023}}</ref> [[2023–24 Liga MX season#Torneo Clausura|Clausura 2024]],<ref>{{cite web | last=Hernandez | first=Cesar | title=América secure back-to-back Liga MX titles with win over Cruz Azul | website=ESPN | date=27 May 2024 | url=https://www.espn.com/soccer/report?gameId=702650 | access-date=28 May 2024}}</ref> [[2024–25 Liga MX season#Torneo Apertura|Apertura 2024]]<ref>{{cite web | last=Hernandez | first=Cesar | title=América beats Monterrey to lift 3rd-straight Liga MX trophy | website=ESPN | date=15 December 2024 |url=https://www.espn.com/soccer/report?gameId=724679 | access-date=18 December 2024}}</ref>
+*[[Campeón de Campeones]]: [[2024 Campeón de Campeones|2024]]
+*[[Supercopa de la Liga MX]]: [[2024 Supercopa de la Liga MX|2024]]
+*[[Campeones Cup]]: [[2024 Campeones Cup|2024]]
+
+'''Mexico'''
+*[[CONCACAF Gold Cup]]: [[2023 CONCACAF Gold Cup|2023]],<ref>{{Cite web |date=16 July 2023 |title=Mexico beats Panama in Gold Cup final with late Gimenez goal |url=https://www.espn.com/soccer/report/_/gameId/678990 |access-date=17 July 2023 |website=ESPN}}</ref> [[2025 CONCACAF Gold Cup|2025]]<ref>{{Cite web |title=United States 1-2 Mexico: Mauricio Pochettino's side beaten in Gold Cup final |url=https://www.bbc.com/sport/football/live/cy4nj815ep1t |access-date=2025-07-07 |website=BBC Sport |language=en-GB}}</ref>
+*[[CONCACAF Nations League]]: [[2024–25 CONCACAF Nations League|2024–25]]<ref>{{Cite news |last= |first= |date=2025-03-24 |title=Mexico win first Nations League final thanks to Raúl Jiménez double |url=https://www.theguardian.com/football/2025/mar/24/mexico-concacaf-nations-league-panama-raul-jimenez#:~:text=Ra%C3%BAl%20Jim%C3%A9nez%20scored%20his%20second,tournament%20for%20the%20first%20time. |access-date=2025-03-24 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref>
+
+'''Individual'''
+*[[Liga MX]] Best XI: [[2023–24 Liga MX season#Torneo Clausura|Clausura 2024]]<ref>{{cite web | url=https://us.marca.com/soccer/liga-mx/2024/06/04/665f7bba268e3e24268b4571.html | title=América domina el 11 ideal del Clausura 2024 con Luis Ángel Malagón como el MVP | date=4 June 2024 }}</ref>
+*[[CONCACAF Nations League Finals]] Best XI: [[2025 CONCACAF Nations League Finals|2025]]<ref>{{cite web|date=April 3, 2025|title=Jiménez, Waterman, David headline CNL Finals Best XI|url=https://www.concacaf.com/nations-league/news/jimenez-waterman-david-headline-cnl-finals-best-xi/|access-date=April 8, 2025|publisher=CONCACAF}}</ref>
+*[[Liga MX]] All-Stars: [[2025 MLS All-Star Game|2025]]<ref>https://www.mlssoccer.com/allstar/2025/news/2025-liga-mx-all-star-team-roster</ref>
+==See also==
+{{Portal|Association football|Mexico|Biography}}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Liga MX player|108788/israel-reyes-romero|Israel Reyes Romero}}
+* {{WorldFootball.net|israel-reyes}}
+* {{Soccerway|618381}}
+
+{{Club América squad}}
+{{Navboxes
+|title=Mexico squads
+|bg = #016549
+|fg = White
+|bordercolor =#CE1126
+|list1=
+{{Mexico squad 2023 CONCACAF Gold Cup}}
+{{Mexico squad 2024 Copa América}}
+{{Mexico squad 2025 CONCACAF Gold Cup}}
+{{Mexico squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Reyes, Israel}}
+[[Category:Living people]]
+[[Category:2000 births]]
+[[Category:2023 CONCACAF Gold Cup players]]
+[[Category:2024 Copa América players]]
+[[Category:2025 CONCACAF Gold Cup players]]
+[[Category:2026 FIFA World Cup players]]
+[[Category:Atlas F.C. footballers]]
+[[Category:Club Puebla players]]
+[[Category:CONCACAF Gold Cup–winning players]]
+[[Category:Footballers from Jalisco]]
+[[Category:Liga MX players]]
+[[Category:Men's association football central defenders]]
+[[Category:Men's association football full-backs]]
+[[Category:Men's association football midfielders]]
+[[Category:Mexican men's footballers]]
+[[Category:Mexico men's international footballers]]

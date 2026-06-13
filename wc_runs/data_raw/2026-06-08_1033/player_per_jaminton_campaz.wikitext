@@ -1,0 +1,217 @@
+{{Short description|Colombian footballer (born 2000)}}
+{{Use dmy dates|date=August 2021}}
+{{Infobox football biography
+|name = Jaminton Campaz
+|full_name = Jaminton Leandro Campaz
+|birth_date = {{birth date and age|2000|05|24|df=yes}}
+|birth_place = [[Tumaco]], [[Nariño]], Colombia<ref name="soccerway">{{Soccerway|jaminton-leandro-campaz/475158}}</ref>
+|height = 1.68 m
+|position = [[Attacking midfielder]]
+|currentclub = [[Rosario Central]]
+|clubnumber = 99
+|youthyears1 = 
+|youthclubs1 = [[Deportes Tolima]]
+|years1 = 2017–2021
+|clubs1 = [[Deportes Tolima]]
+|caps1 = 70
+|goals1 = 15
+|years2 = 2021–2023
+|clubs2 = [[Grêmio FBPA|Grêmio]]
+|caps2 = 42
+|goals2 = 3
+|years3 = 2023
+|clubs3 = → [[Rosario Central]] (loan)
+|caps3 = 40
+|goals3 = 9
+|years4 = 2024–
+|clubs4 = [[Rosario Central]]
+|caps4 = 66
+|goals4 = 10
+|nationalyears1 = 2017
+|nationalteam1 = [[Colombia national under-17 football team|Colombia U17]]
+|nationalcaps1 = 13
+|nationalgoals1 = 3
+|nationalyears2 = 2021–
+|nationalteam2 = [[Colombia national football team|Colombia]]
+|nationalcaps2 = 9
+|nationalgoals2 = 1
+|pcupdate = 22:54, 22 March 2026 (UTC)
+|ntupdate = 03:15, 30 March 2026 (UTC)
+}}
+
+'''Jaminton Leandro Campaz''' (born 24 May 2000) is a Colombian professional [[association football|footballer]] who plays as an [[attacking midfielder]] for [[Argentine Primera División]] club [[Rosario Central]] and the [[Colombia national football team|Colombia national team]].<ref>{{Cite web|url=https://www.futbolred.com/seleccion-colombia/jaminton-campaz-hablo-de-su-actualidad-con-tolima-y-de-la-preparacion-de-la-seleccion-sub-17-al-mundial-58692|title='He trabajado bien en Tolima, pero debo mantener humildad': Jaminton|first=Casa Editorial El|last=Tiempo|website=futbolred.com |date=2 May 2017 }}</ref>
+
+==Club career==
+Campaz joined [[Campeonato Brasileiro Série A]] club [[Grêmio Foot-Ball Porto Alegrense|Grêmio]] from [[Deportes Tolima]] in August 2021, having signed a contract until December 2025.<ref>{{cite web |title=Colombiano Jaminton Campaz é o novo reforço do Tricolor |url=https://gremio.net/noticias/detalhes/24580/colombiano-jaminton-campaz-e-o-novo-reforco-do-tricolor |website=Grêmio Foot-Ball Porto Alegrense |access-date=24 August 2021 |language=pt |date=24 August 2021}}</ref>
+
+==International career==
+Campaz was selected for the [[Colombia national football team|Colombia national team]] for [[2021 Copa América]] and made his debut on 17 June 2021 in a match against [[Venezuela national football team|Venezuela]].<ref>{{cite web|publisher=[[ESPN]]|url=https://www.espn.com/soccer/lineups?gameId=560518|title=Colombia v Venezuela game report|date=17 June 2021|accessdate=11 August 2021}}</ref>
+
+== Career statistics ==
+
+=== Club ===
+{{Updated|22 March 2026}}<ref name="soccerway"/>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="2"|League
+!colspan="3"|State league
+!colspan="2"|Cup
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="6"|[[Deportes Tolima]]
+|[[2017 Categoría Primera A season|2017]]
+|rowspan="5"|[[Liga DIMAYOR]]
+|5||1||colspan="2"|—||1||0||colspan="2"|—||colspan="2"|—||6
+|1
+|-
+|[[2018 Categoría Primera A season|2018]]
+|0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||0||0
+|-
+|[[2019 Categoría Primera A season|2019]]
+|30||5||colspan="2"|—||3||0||2{{efn|Appearance(s) in [[Copa Libertadores]] and [[Copa Sudamericana]]|name=LiberandSud}}||0||1{{efn|Appearance(s) in [[Superliga Colombiana]]|name=Superliga}}||0||36||5
+|-
+|[[2020 Categoría Primera A season|2020]]
+|18||5||colspan="2"|—||3||1||5{{efn|name=LiberandSud}}||3||colspan="2"|—||26||9
+|-
+|[[2021 Categoría Primera A season|2021]]
+|17||4||colspan="2"|—||colspan="2"|—||8{{efn|Appearance(s) in [[Copa Sudamericana]]|name=Sudamericana}}||2||colspan="2"|—||24||6
+|-
+!colspan="2"|Total
+!70!!15!!0!!0!!7!!1!!15!!5!!1!!0!!93!!21
+|-
+|rowspan="4"|[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+|[[2021 Grêmio F.B.P.A. season|2021]]
+|[[Campeonato Brasileiro Série A|Série A]]
+|13||1||colspan="2"|—||1||0||colspan="2"|—||colspan="2"|—||14||1
+|-
+|[[2022 Grêmio F.B.P.A. season|2022]]
+|[[Campeonato Brasileiro Série B|Série B]]
+|29||2||9{{efn|name=cg|Appearances in [[Campeonato Gaúcho]]}}||2||1||0||colspan="2"|—||colspan="2"|—||39||4
+|-
+|[[2023 Grêmio F.B.P.A. season|2023]]
+|Série A
+|colspan="2"|—||1{{efn|name=cg}}||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||1||0
+|-
+!colspan="2"|Total
+!42!!3!!10!!2!!2!!0!!0!!0!!0!!0!!54!!5
+|-
+|[[Rosario Central]] (loan)
+|[[2023 Argentine Primera División|2023]]
+|[[AFA Liga Profesional de Fútbol|Liga Profesional de Fútbol]]
+|40||9||colspan="2"|—||2||1||colspan="2"|—||9{{efn|One appearance in [[Trofeo de Campeones de la Liga Profesional]], eight appearances in play-offs}}||3||51||13
+|-
+|rowspan="4"|Rosario Central
+|[[2024 Argentine Primera División|2024]]
+|Liga Profesional de Fútbol
+|31||4||colspan="2"|—||2||0||9{{efn|name=LiberandSud}}||1||colspan="2"|—||42||5
+|-
+|[[2025 Rosario Central season|2025]]
+|Liga Profesional de Fútbol
+|28||5||colspan="2"|—||1||0||colspan="2"|—||colspan="2"|—||29||5
+|-
+|[[2026 AFA Liga Profesional de Fútbol|2026]]
+|Liga Profesional de Fútbol
+|7||1||colspan="2"|—||0||0||colspan="2"|—||colspan="2"|—||7||1
+|-
+!colspan="2"|Total
+!106!!19!!colspan="2"|—!!5!!0!!9!!1!!9!!3!!129!!24
+|-
+!colspan="3"|Career total
+!218!!37!!10!!2!!14!!2!!24!!6!!10!!3!!276!!50
+|}
+{{notelist}}
+
+=== International ===
+{{Updated|match played 29 March 2026}}<ref name="soccerway" />
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="4"|[[Colombia national football team|Colombia]]
+|2021||1||0
+|-
+|2023||1||0
+|-
+|2025||6||0
+|-
+|2026||1||1
+|-
+!colspan="2"|Total!!9!!1
+|}
+
+:''Scores and results list Colombia's goal tally first, score column indicates score after each Campaz goal.''<ref name="soccerway"/>
+
+{| class="wikitable"
+|+ List of international goals scored by Jaminton Campaz
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+|-
+| align="center"|1 || 29 March 2026 || [[Northwest Stadium]], [[Landover, Maryland|Landover]], United States || {{fb|FRA}} || align="center"|1–1 || align="center" | 1–3 || [[Friendly (association football)|Friendly]]
+|-
+|}
+
+==Honours==
+'''Grêmio'''
+*[[Campeonato Gaúcho]]: [[2022 Campeonato Gaúcho|2022]]
+*[[Recopa Gaúcha]]: [[2022 Recopa Gaúcha|2022]]
+'''Rosario Central''' 
+*[[Copa de la Liga Profesional]]: [[2023 Copa de la Liga Profesional|2023]]
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Soccerway|475158}}
+
+{{Rosario Central squad}}
+{{Navboxes
+| title = Colombia squads
+| bg = #FCD116
+| fg = #003893
+| bordercolor = #CE1126
+| list1 =
+{{Colombia squad 2021 Copa América}}
+{{Colombia squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Campaz, Jaminton}}
+[[Category:2000 births]]
+[[Category:Living people]]
+[[Category:Footballers from Tumaco]]
+[[Category:Footballers from Nariño Department]]
+[[Category:Colombian men's footballers]]
+[[Category:Men's association football midfielders]]
+[[Category:Colombia men's youth international footballers]]
+[[Category:21st-century Colombian sportsmen]]
+[[Category:Colombia men's international footballers]]
+[[Category:2021 Copa América players]]
+[[Category:Categoría Primera A players]]
+[[Category:Campeonato Brasileiro Série A players]]
+[[Category:Campeonato Brasileiro Série B players]]
+[[Category:Argentine Primera División players]]
+[[Category:Deportes Tolima footballers]]
+[[Category:Grêmio FBPA players]]
+[[Category:Rosario Central footballers]]
+[[Category:Colombian expatriate men's footballers]]
+[[Category:Colombian expatriate sportspeople in Brazil]]
+[[Category:Expatriate men's footballers in Brazil]]
+[[Category:Colombian expatriate sportspeople in Argentina]]
+[[Category:Expatriate men's footballers in Argentina]]
+[[Category:2026 FIFA World Cup players]]
+
+
+{{Colombia-footy-midfielder-stub}}

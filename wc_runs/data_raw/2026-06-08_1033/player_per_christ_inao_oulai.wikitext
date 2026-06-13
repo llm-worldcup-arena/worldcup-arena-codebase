@@ -1,0 +1,120 @@
+{{short description|Ivorian footballer (born 2006)}}
+{{Use dmy dates|date=August 2024}}
+{{Infobox football biography
+| name = Christ Inao Oulaï
+| image = 
+| full_name = Christ Ravynel Inao Oulaï<ref>{{cite web |url=https://www.tff.org/Default.aspx?pageId=30&kisiId=2821493 |title=Christ Ravynel Inao Oulaï |publisher=Turkish Football Federation |access-date=27 December 2025 |language=tr}}</ref>
+| birth_date = {{birth date and age|df=y|2006|4|6}}
+| birth_place = [[Yopougon]], Ivory Coast
+| height = 1.73 m<ref name="auto">{{Cite web|url=https://www.corsematin.com/article/sports/883153824925314/ligue-2-rencontre-avec-christ-inao-oulai-le-diamant-brut-du-sc-bastia?id=883153824925314|title=Ligue 2 : rencontre avec Christ Inao Oulaï, le diamant brut du SC Bastia|date=1 May 2025|website=www.corsematin.com}}</ref>
+| position = [[Midfielder]]
+| currentclub = [[Trabzonspor]]
+| clubnumber = 42
+| youthyears1 = 2018–2024
+| youthclubs1 = [[JMG Academy]]<ref name="auto"/>
+| years1 = 2024–2025
+| clubs1 = [[SC Bastia|Bastia II]]
+| caps1 = 6
+| goals1 = 0
+| years2 = 2024–2025
+| clubs2 = [[SC Bastia|Bastia]]
+| caps2 = 16
+| goals2 = 1
+| years3 = 2025–
+| clubs3 = [[Trabzonspor]]
+| caps3 = 25
+| goals3 = 2
+| nationalyears1 = 2025–
+| nationalteam1 = [[Ivory Coast national football team|Ivory Coast]]
+| nationalcaps1 = 8
+| nationalgoals1 = 0
+| club-update = 08:48, 25 April 2026
+| nationalteam-update = 21:05, 9 May 2024 (UTC)
+}}
+
+'''Christ Ravynel Inao Oulaï''' (born 6 April 2006) is an Ivorian professional [[association football|footballer]] who plays as a [[midfielder]] for [[Trabzonspor]] and the [[Ivory Coast national football team|Ivory Coast national team]].
+
+==Club career==
+Inao joined the youth academy of [[JMG Academy]] at the age of 12, where he finished his development.<ref name="auto"/> On 6 July 2024, he joined the French [[Ligue 2]] club [[SC Bastia|Bastia]].<ref>{{Cite web|url=https://www.spiritu-turchinu.com/actualite/breves/3027-bastia-recrute-christ-ravynel-inao-oulai|title=Le SC Bastia recrute Christ Ravynel Inao Oulaï|date=6 July 2024|website=Spiritu Turchinu}}</ref> He made his senior debut with Bastia in a 4–0 [[Coupe de France]] win over FC Freymingon 16 November 2024.<ref name="auto"/> On 14 April 2025, he scored his first career goal in a 5–2 victory over [[Stade Lavallois|Laval]].<ref>{{cite web |url=https://www.espn.com/soccer/match/_/gameId/707046/stade-laval-bastia |title=Bastia 5–2 Stade Laval |publisher=ESPN |date=14 April 2025 }}</ref>
+
+On 22 August 2025, he transferred to the Turkish [[Süper Lig]] club [[Trabzonspor]] on a 5-year contract.<ref>{{Cite web|url=https://sports.yahoo.com/article/christ-inao-oula-signs-trabzonspor-102600114.html|title=Christ Inao Oulaï signs with Trabzonspor from SC Bastia|first=Foot Africa·1 min|last=read|date=22 August 2025|website=Yahoo Sports}}</ref> Later that year, on 25 October, he scored his first goal for the club in a 2–0 win over [[Eyüpspor]].<ref>{{cite web |url=https://www.espn.com/soccer/match/_/gameId/750007/eyupspor-trabzonspor |title=Trabzonspor 2–0 Eyupspor |publisher=ESPN |date=25 October 2025 }}</ref>
+
+==International career==
+Inao was called up to the [[Ivory Coast national football team|Ivory Coast national team]] for a set of friendlies in November 2025.<ref>{{cite web |title=Côte d'Ivoire : un nouveau et un retour surprise dans la liste des Eléphants pour jouer la qualif'|url=https://www.afrik-foot.com/cote-divoire-la-liste-pleine-de-surprises-demerse-fae-pour-les-retrouvailles-avec-herve-renard |website=afrik-foot.com |date=1 October 2025}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played on 14 December 2025}}
+{| class="wikitable" style="text-align: center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup{{efn|Includes [[Coupe de France]], [[Turkish Cup]]}}
+!colspan="2"|Total
+|-
+!Division||Apps||Goals||Apps||Goals||Apps||Goals
+|-
+|[[SC Bastia|Bastia II]]
+|[[2024–25 Championnat National 3|2024–25]]
+|[[Championnat National 3]]
+|6||0||colspan="2"|—||6||0
+|-
+|[[SC Bastia|Bastia]]
+|[[2024–25 Ligue 2|2024–25]]
+|[[Ligue 2]]
+|16||1||2||0||18||1
+|-
+|[[Trabzonspor]]
+|[[2025–26 Trabzonspor season|2025–26]]
+|[[Süper Lig]]
+|9||2||1||0||10||2
+|-
+!colspan="3"|Career total
+!31||3||3||0||34||3
+|}
+{{notelist}}
+
+==Honours==
+'''Trabzonspor'''
+*[[Turkish Cup]]: [[2025–26 Turkish Cup|2025–26]]<ref>{{cite news|url=https://www.trabzonspor.org.tr/en/news/trabzonspor-is-the-2025-2026-ziraat-turkish-cup-champion-22-05-2026|title=Trabzonspor is the 2025–2026 Ziraat Turkish Cup champion!|publisher=Trabzonspor|date=22 May 2026|access-date=22 May 2026}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Soccerway|christ-inao-oula-/974678}}
+
+{{Trabzonspor squad}}
+{{Navboxes
+| title = Ivory Coast squads
+| bg        = #F77F00
+| fg        = white
+| bordercolor = #009E60
+| list =
+{{Ivory Coast squad 2025 Africa Cup of Nations}}
+{{Ivory Coast squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Inao Oulai, Christ}}
+[[Category:2006 births]]
+[[Category:Living people]]
+[[Category:Footballers from Abidjan]]
+[[Category:Ivorian men's footballers]]
+[[Category:Ivory Coast men's international footballers]]
+[[Category:JMG Academy (Djékanou) players]]
+[[Category:SC Bastia players]]
+[[Category:Trabzonspor footballers]]
+[[Category:Ligue 2 players]]
+[[Category:Championnat National 3 players]]
+[[Category:Süper Lig players]]
+[[Category:Men's association football midfielders]]
+[[Category:2025 Africa Cup of Nations players]]
+[[Category:21st-century Ivorian sportsmen]]
+[[Category:Ivorian expatriate men's footballers]]
+[[Category:Ivorian expatriate sportspeople in France]]
+[[Category:Expatriate men's footballers in France]]
+[[Category:Ivorian expatriate sportspeople in Turkey]]
+[[Category:Expatriate men's footballers in Turkey]]
+[[Category:2026 FIFA World Cup players]]

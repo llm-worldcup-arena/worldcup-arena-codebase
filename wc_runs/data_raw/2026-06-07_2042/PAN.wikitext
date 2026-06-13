@@ -1,0 +1,108 @@
+{{Short description|Men's association football team}}
+{{About|the men's team|the women's team|Panama women's national football team}}
+{{Use dmy dates|date=June 2026}}
+{{Infobox national football team
+| Name                  = Panama
+| Badge                 = Panamanian Football Federation logo 2024.svg
+| Badge_size            = 160px
+| Nickname              = ''Los Canaleros'' (The Canal Men)<br>''La Marea Roja'' (The Red Tide)
+| Association           = [[Panamanian Football Federation|Federación Panameña de Fútbol]] (FEPAFUT)
+| Confederation         = [[CONCACAF]] (North America)
+| Sub-confederation     = [[Central American Football Union|UNCAF]] (Central America)
+| Captain               = [[Aníbal Godoy]]
+| Coach                 = [[Thomas Christiansen]]
+| Most caps             = Aníbal Godoy (159)
+| Top scorer            = [[Luis Tejada]] (43)
+| Home Stadium          = [[Rommel Fernández Stadium|Estadio Rommel Fernández Gutiérrez]]
+| FIFA Trigramme        = PAN
+| FIFA Rank             = {{nowrap|{{FIFA World Rankings|PAN}}}}
+| FIFA max              = 29
+| FIFA max date         = March 2014, September 2025 –
+| FIFA min              = 150
+| FIFA min date         = August 1995
+| Elo Rank              = {{World Football Elo Ratings|Panama}}
+| Elo max               = 28
+| Elo max date          = July 2013
+| Elo min               = 151
+| Elo min date          = June 1984
+| pattern_la1           = _pan26h
+| pattern_b1            = _pan26h
+| pattern_ra1           = _pan26h
+| pattern_sh1           = 
+| pattern_so1           = 
+| leftarm1              = ff0000
+| body1                 = ff0000
+| rightarm1             = ff0000
+| shorts1               = ff0000
+| socks1                = ff0000
+| pattern_la2           = _pan26a
+| pattern_b2            = _pan26a
+| pattern_ra2           = _pan26a
+| pattern_sh2           = 
+| pattern_so2           = 
+| leftarm2              = FFFFFF
+| body2                 = FFFFFF
+| rightarm2             = FFFFFF
+| shorts2               = FFFFFF
+| socks2                = FFFFFF
+| pattern_la3           = _pan26t
+| pattern_b3            = _pan26t
+| pattern_ra3           = _pan26t
+| pattern_sh3           = 
+| pattern_so3           = 
+| leftarm3              = 000080
+| body3                 = 000080
+| rightarm3             = 000080
+| shorts3               = 000080
+| socks3                = 000080
+| First game            = {{fb|PAN}} 2–1 {{fb-rt|VEN|1930}}<br/>([[Panama City]], Panama; 12 February 1938)<ref name="panama rsssf">{{cite web |url=https://www.rsssf.org/tablesp/panama-intres.html |title=Panama&nbsp;– International Results |author=Barrie Courtney |publisher=Rec.Sport.Soccer Statistics Foundation |access-date=23 July 2013 |archive-date=6 February 2023 |archive-url=https://web.archive.org/web/20230206144505/https://www.rsssf.org/tablesp/panama-intres.html |url-status=live }}</ref>
+| Largest win           = {{fb|AIA}} 0–13 {{fb-rt|PAN}}<br/>([[Panama City]], Panama; 5 June 2021)
+| Largest loss          = {{fb|PAN}} 0–11 {{fb-rt|CRC}}<br/>([[Panama City]], Panama; 16 February 1938)
+| World cup apps        = 2
+| World cup first       = 2018
+| World cup best        = Group stage ([[2018 FIFA World Cup|2018]])
+| Regional name         = [[CONCACAF Championship]] / [[CONCACAF Gold Cup|Gold Cup]]
+| Regional cup apps     = 13<!--as of 2025-->
+| Regional cup first    = [[1963 CONCACAF Championship|1963]]
+| Regional cup best     = Runners-up ([[2005 CONCACAF Gold Cup|2005]], [[2013 CONCACAF Gold Cup|2013]], [[2023 CONCACAF Gold Cup|2023]])
+| 2ndRegional name      = [[CONCACAF Nations League]]
+| 2ndRegional cup apps  = 4<!--as of 2025-->
+| 2ndRegional cup first = [[2019–20 CONCACAF Nations League|2019–20]]
+| 2ndRegional cup best  = Runners-up ([[2025 CONCACAF Nations League Finals|2025]])
+| 3rdRegional name      = [[Copa América]]
+| 3rdRegional cup apps  = 2<!--as of 2024-->
+| 3rdRegional cup first = [[2016 Copa América|2016]]
+| 3rdRegional cup best  = Quarter-finals ([[2024 Copa América|2024]]) 
+| 4thRegional name      = [[CCCF Championship]]
+| 4thRegional cup apps  = 7
+| 4thRegional cup first = [[1941 CCCF Championship|1941]]
+| 4thRegional cup best  = '''Champions''' ([[1951 CCCF Championship|1951]])
+| medaltemplates        = 
+{{MedalCompetition|[[CONCACAF Gold Cup]]}}
+{{MedalSilver|[[2005 CONCACAF Gold Cup|2005 United States]]|[[2005 CONCACAF Gold Cup squads#Panama|Team]]}}
+{{MedalSilver|[[2013 CONCACAF Gold Cup|2013 United States]]|[[2013 CONCACAF Gold Cup squads#Panama|Team]]}}
+{{MedalSilver|[[2023 CONCACAF Gold Cup|2023 United States and Canada]]|[[2023 CONCACAF Gold Cup squads#Panama|Team]]}}
+{{MedalBronze|[[2015 CONCACAF Gold Cup|2015 United States and Canada]]|[[2015 CONCACAF Gold Cup squads#Panama|Team]]}}
+{{MedalCompetition|[[CONCACAF Nations League]]}}
+{{MedalSilver|[[2025 CONCACAF Nations League Finals|2025 United States]]|[[2025 CONCACAF Nations League Finals squads#Panama|Team]]}}
+{{MedalCompetition|[[CCCF Championship]]}}
+{{MedalGold|[[1951 CCCF Championship|1951 Panama]]|[[1951 CCCF Championship squads#Panama|Team]]}}
+{{MedalBronze|[[1948 CCCF Championship|1948 Guatemala]]|[[1948 CCCF Championship squads#Panama|Team]]}}
+{{MedalCompetition|[[Copa Centroamericana]]}}
+{{MedalGold|[[2009 UNCAF Nations Cup|2009 Honduras]]|[[UNCAF Nations Cup 2009 squads#Panama|Team]]}}
+{{MedalSilver|[[2007 UNCAF Nations Cup|2007 El Salvador]]|[[UNCAF Nations Cup 2007 squads#Panama|Team]]}}
+{{MedalSilver|[[2017 Copa Centroamericana|2017 Panama]]|[[2017 Copa Centroamericana squads#Panama|Team]]}}
+{{MedalBronze|[[1993 UNCAF Nations Cup|1993 Honduras]]|[[1993 UNCAF Nations Cup squads#Panama|Team]]}}
+{{MedalBronze|[[2011 Copa Centroamericana|2011 Panama]]|[[2011 Copa Centroamericana squads#Panama|Team]]}}
+{{MedalBronze|[[2014 Copa Centroamericana|2014 United States]]|[[2014 Copa Centroamericana squads#Panama|Team]]}}
+{{MedalCompetition|[[Football at the Central American and Caribbean Games|Central American and Caribbean Games]]}}
+{{MedalBronze|[[Football at the 1946 Central American and Caribbean Games|1946 Colombia]]|Team}}
+}}
+
+The '''Panama national football team''' ({{langx|es|Selección de fútbol de Panamá}}) represents [[Panama]] in men's international [[Association football|football]], which is governed by the [[Panamanian Football Federation|Federación Panameña de Fútbol]] ({{langx|en|Panamanian Football Federation}}) founded in 1937. It has been an affiliate member of [[FIFA]] since 1938 and a founding affiliate member of [[CONCACAF]] since 1961. Regionally, it is an affiliate member of [[Central American Football Union|UNCAF]] in the Central American Zone. From 1938 to 1961, it was a member of [[Confederación Centroamericana y del Caribe de Fútbol|CCCF]], the former governing body of football in Central America and Caribbean and a predecessor confederation of CONCACAF, and also a member of [[Panamerican Championship#Panamerican Football Confederation|PFC]], the former unified confederation of the Americas, from 1946 to 1961.
+
+Panama has qualified for the [[FIFA World Cup]] twice ([[2018 FIFA World Cup|2018]] and [[2026 FIFA World Cup|2026]]), it scored their first goal against [[England national football team|England]].<ref>{{cite web|url=https://www.independent.co.uk/sport/football/international/panama-world-cup-2018-usa-from-agony-to-ecstasy-a-night-theyll-never-forget-a7994516.html |archive-url=https://ghostarchive.org/archive/20220524/https://www.independent.co.uk/sport/football/international/panama-world-cup-2018-usa-from-agony-to-ecstasy-a-night-theyll-never-forget-a7994516.html |archive-date=24 May 2022 |url-access=subscription |url-status=live |title= From agony to ecstasy: Panama's remarkable journey to the 2018 World Cup and a night they'll never forget|date=11 October 2017|work=The Independent|access-date=12 October 2017}}</ref><ref>{{cite web|url=http://kwese.espn.com/football/blog/espn-fc-united/68/post/3226710/us-world-cup-exit-how-wild-concacaf-night-played-out-in-real-time|title=The wildest night in CONCACAF history? How the U.S. exit played out|date=11 October 2017|publisher=ESPN|access-date=12 October 2017|archive-date=12 January 2022|archive-url=https://web.archive.org/web/20220112180515/https://africa.espn.com/football/blog/espn-fc-united/68/post/3226710/us-world-cup-exit-how-wild-concacaf-night-played-out-in-real-time|url-status=live}}</ref>
+
+Panama has participated thirteen times in CONCACAF's premier continental competition, the team's best performance was finishing as runners-up three times in the [[CONCACAF Gold Cup]] ([[2005 CONCACAF Gold Cup|2005]],<ref>{{Cite web|url=https://www.rsssf.org/tables/05gc.html|title=CONCACAF Championship, Gold Cup 2005|website=[[RSSSF]]|access-date=18 June 2018|archive-date=3 October 2022|archive-url=https://web.archive.org/web/20221003040918/https://www.rsssf.org/tables/05gc.html|url-status=live}}</ref> [[2013 CONCACAF Gold Cup|2013]]<ref>{{Cite web|url=https://www.ussoccer.com/stories/2014/03/17/11/24/130728-mnt-vs-pan-match-report|title=U.S. MNT Wins CONCACAF Gold Cup with 1-0 Victory against Panama|website=US Soccer|access-date=18 June 2018|archive-date=19 June 2018|archive-url=https://web.archive.org/web/20180619041207/https://www.ussoccer.com/stories/2014/03/17/11/24/130728-mnt-vs-pan-match-report|url-status=live}}</ref> and [[2023 CONCACAF Gold Cup|2023]]), and also finishing as runners-up in the [[CONCACAF Nations League]] in the [[2025 CONCACAF Nations League Finals|2025 finals]]. It participated twice in the [[Copa América]] ([[Copa América Centenario|2016]] and [[2024 Copa América|2024]]).
+
+Regionally, it won the [[CCCF Championship]] as hosts in [[1951 CCCF Championship|1951]], and the [[Copa Centroamericana]] in [[2009 UNCAF Nations Cup|2009]].

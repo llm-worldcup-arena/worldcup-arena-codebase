@@ -1,0 +1,156 @@
+{{short description|Argentine footballer (born 2000)}}
+{{Use dmy dates|date=January 2021}}
+{{Infobox football biography
+| name = José Manuel López
+| image = Flaco-Lopez-Palmeiras-Juventude-jun24.jpg
+| caption = López with [[SE Palmeiras|Palmeiras]] in 2024
+| full_name = José Manuel Alberto López<ref name="FIFA">{{cite web |url=https://fdp.fifa.org/assetspublic/ce233/pdf/SquadLists-English.pdf |title=FIFA Club World Cup 2025™ – Squad List: Palmeiras (BRA) |publisher=FIFA |page=25 |date=4 July 2025 |access-date=18 July 2025 |archive-url=https://web.archive.org/web/20250713085533/https://fdp.fifa.org/assetspublic/ce233/pdf/SquadLists-English.pdf |archive-date=13 July 2025 |url-status=live }}</ref>
+| birth_date = {{birth date and age|2000|12|6|df=y}}<ref name="FIFA"/>
+| birth_place = [[Saladas Department|San Lorenzo]],<ref name="Soccerway"/> Argentina
+| height = 1.90 m<ref name="FIFA"/>
+| position = [[Forward (association football)#Striker|Striker]]<ref name="FG1">{{cite news|title=Conociéndote: José Manuel López|url=https://www.fortalezagranate.com.ar/conociendote-jose-manuel-lopez/|accessdate=4 January 2021|work=Fortaleza Granate|date=3 August 2018}}</ref>
+| currentclub = [[SE Palmeiras|Palmeiras]]
+| clubnumber = 42
+| youthyears1 = {{0|0000}}
+| youthclubs1 = Club El Progreso
+| youthyears2 = {{0|0000}}
+| youthclubs2 = [[Boca Juniors]]
+| youthyears3 = 2010-2017
+| youthclubs3 = [[Club Atlético Independiente|Independiente]]
+| youthyears4 = 2017–2019
+| youthclubs4 = [[Club Atlético Lanús|Lanús]]
+| years1 = 2019–2022
+| clubs1 = [[Club Atlético Lanús|Lanús]]
+| caps1 = 37
+| goals1 = 18
+| years2 = 2022–
+| clubs2 = [[SE Palmeiras|Palmeiras]]
+| caps2 = 163
+| goals2 = 56
+| nationalyears1 = 2025–
+| nationalteam1 = [[Argentina national football team|Argentina]]
+| nationalcaps1 = 4
+| nationalgoals1 = 0
+| club-update = 28 May 2026
+| ntupdate = 6 June 2026
+}}
+'''José Manuel Alberto López''' (born 6 December 2000), commonly known as '''Flaco López''', is an Argentine professional [[Association football|footballer]] who plays as a [[Forward (association football)#Striker|striker]] for [[Campeonato Brasileiro Série A]] club [[SE Palmeiras|Palmeiras]] and the [[Argentina national football team|Argentina national team]].
+
+==Club career==
+López started his career at the age of seven with Club El Progreso in [[Saladas, Corrientes|Saladas]].<ref name="FG1"/> Six months later, soon before a trial in front of their scouts, the player was signed by [[Boca Juniors]].<ref name="FG1"/> At the age of nine, López joined [[Club Atlético Independiente|Independiente]]; remaining until 2016, he notably trained with [[Ariel Holan]]'s first-team squad at one point.<ref name="FG1"/> 2017 saw López head to [[Club Atlético Lanús|Lanús]], initially featuring at youth level before being called up mid-season ahead of the [[2018–19 Argentine Primera División|2018–19 Primera División]] resumption.<ref name="FG1"/> However, in that period, López was loaned to [[List of regional football leagues in Argentina#Buenos Aires|Liga Tresarroyense]] side Colegiales de Tres Arroyos in 2019.<ref name="FG1"/><ref name="LVDP1">{{cite news|title=José López, de Colegiales: "Estamos muy motivados y confiados"|url=https://lavozdelpueblo.com.ar/noticia/84869-Jos%C3%A9-L%C3%B3pez,-de-Colegiales:-%E2%80%9CEstamos-muy-motivados-y-confiados%E2%80%9D|accessdate=4 January 2021|work=La Voz del Pueblo|date=7 July 2019}}</ref><ref name="LU1">{{cite news|title=Colegiales presentó las nuevas incorporaciones|url=https://www.lu24.com.ar/colegiales-presento-las-nuevas-incorporaciones/|accessdate=4 January 2021|work=Lu24|date=5 April 2019}}</ref> He finished his stint there as the club's top scorer.<ref name="FG1"/>
+
+López was promoted into [[Luis Zubeldía]]'s senior squad in late-2020, appearing on the substitute's bench for [[2020 Copa de la Liga Profesional|Copa de la Liga Profesional]] encounters with [[Club Atlético Aldosivi|Aldosivi]] and [[Defensa y Justicia]].<ref name="Soccerway"/><ref name="IN1">{{cite news|title=Por una mínima ventaja Lanús se lleva los tres puntos ante Aldosivi|url=https://www.infobae.com/america/agencias/2020/12/13/aldosivi-recibira-a-lanus-por-la-grupo-a-fecha-1/|accessdate=4 January 2021|work=Infobae|date=13 December 2020}}</ref> López, in the aforementioned competition, made his professional debut on 3 January 2021 during a draw on the road against [[Club Atlético Patronato|Patronato]], after he was substituted on in place of [[Gonzalo Torres]] with twenty-five minutes left.<ref name="Soccerway"/><ref name="LAN1">{{cite news|title=Lista de viajeros a Paraná|url=http://clublanus.com/secciones/futbol-profesional/noticias/lista-de-viajeros-a-parana|accessdate=4 January 2021|work=Lanús|date=2 January 2021|archive-date=26 November 2021|archive-url=https://web.archive.org/web/20211126011700/http://clublanus.com/secciones/futbol-profesional/noticias/lista-de-viajeros-a-parana|url-status=dead}}</ref> On his second appearance, López scored his first goal during a win over [[Rosario Central]] on 9 January.<ref name="Soccerway"/>
+
+==Career statistics==
+===Club===
+{{updated|match played 28 May 2026}}<ref name="Soccerway">{{cite web |url=https://int.soccerway.com/players/jose-manuel-lopez/685490/ |title=J. López: Summary |website=Soccerway |publisher=Perform Group |access-date=1 January 2024}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|State league{{efn|Includes [[Campeonato Paulista]]}}
+!colspan="2"|National cup{{efn|Includes [[Copa Argentina]], [[Copa do Brasil]]}}
+!colspan="2"|Continental 
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="4"|[[Club Atlético Lanús|Lanús]]
+|[[2020–21 Argentine Primera División|2020–21]]
+|rowspan="3"|[[Argentine Primera División]]
+|2||1||colspan="2"|—||1||0||colspan="2"|—||colspan="2"|—||3||1
+|-
+|[[2021 Argentine Primera División|2021]]
+|32||13||colspan="2"|—||0||0||5{{efn|name=COS|Appearances in [[Copa Sudamericana]]}}||1||colspan="2"|—||37||14
+|-
+|[[2022 Argentine Primera División|2022]]
+|13||4||colspan="2"|—||1||3||5{{efn|name=COS}}||0||colspan="2"|—||19||7
+|-
+!colspan="2"|Total
+!37!!18!!colspan="2"|—!!2!!3!!10!!1!!colspan="2"|—!!59!!22
+|-
+|rowspan="6"|[[SE Palmeiras|Palmeiras]]
+|[[2022 SE Palmeiras season|2022]]
+|rowspan="5"|[[Campeonato Brasileiro Série A|Série A]]
+|12||2||colspan="2"|—||0||0||2{{efn|name=COL|Appearances in [[Copa Libertadores]]}}||0||colspan="2"|—||14||2
+|-
+|[[2023 SE Palmeiras season|2023]]
+|22||5||6||1||5||1||7{{efn|name=COL}}||1||0||0||40||8
+|-
+|[[2024 SE Palmeiras season|2024]]
+|35||10||15||10||2||0||8{{efn|name=COL}}||2||1{{efn|Appearance in [[Supercopa do Brasil]]}}||0||61||22
+|-
+|[[2025 SE Palmeiras season|2025]]
+|33||12||12||4||3||1||12{{efn|name=COL}}||7||4{{efn|Appearances in [[FIFA Club World Cup]]}}||1||64||25
+|-
+|[[2026 SE Palmeiras season|2026]]
+|17||6||11||6||1||0||6{{efn|name=COL}}||2||colspan="2"|—||35||14
+|-
+!colspan="2"|Total
+!119!!35!!44!!21!!11!!2!!35!!12!!5!!1!!214!!71
+|-
+!colspan="3"|Career total
+!156!!53!!44!!21!!13!!5!!45!!13!!5!!1!!273!!93
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 6 June 2026}}<ref>{{NFT player|id=101400}}</ref>
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="2"|[[Argentina national football team|Argentina]]
+|2025||2||0
+|-
+|2026||2||0
+|-
+!colspan="2"|Total!!4!!0
+|}
+
+==Honours==
+'''Palmeiras'''
+*[[Campeonato Brasileiro Série A]]: [[2022 Campeonato Brasileiro Série A|2022]], [[2023 Campeonato Brasileiro Série A|2023]]
+*[[Supercopa do Brasil]]: [[2023 Supercopa do Brasil|2023]]
+*[[Campeonato Paulista]]: [[2023 Campeonato Paulista|2023]], [[2024 Campeonato Paulista|2024]], [[2026 Campeonato Paulista|2026]]
+*[[Copa Libertadores]] runner-up: [[2025 Copa Libertadores|2025]]
+
+'''Individual'''
+*[[Campeonato Paulista]] Top scorer: [[2024 Campeonato Paulista|2024]] (10 goals)
+*[[Campeonato Paulista]] Team of the Year: [[2024 Campeonato Paulista|2024]]<ref>{{cite web|url=https://ge.globo.com/sp/santos-e-regiao/futebol/times/santos/noticia/2024/04/08/vice-santos-domina-a-selecao-do-campeonato-paulista-abel-do-palmeiras-e-o-melhor-tecnico.ghtml|title=Vice, Santos domina a seleção do Campeonato Paulista; Abel, do Palmeiras, é o melhor técnico|trans-title=Runners-up, Santos dominate the Campeonato Paulista Best XI; Abel, from Palmeiras, is the best head coach|publisher=[[Grupo Globo|ge]]|language=pt-BR|date=8 April 2024|accessdate=9 April 2024}}</ref>, [[2026 Campeonato Paulista|2026]]
+*[[Troféu Mesa Redonda]] Team of the Year: 2025<ref>{{cite web|url=https://www.uol.com.br/esporte/futebol/ultimas-noticias/gazeta-esportiva/2025/12/08/com-homenagem-a-ancelotti-trofeu-mesa-redonda-elege-melhores-de-2025-veja-vencedores.htm |title=Com homenagem a Ancelotti, Troféu Mesa Redonda elege melhores de 2025; veja vencedores |website=UOL Esporte |date=8 December 2025 |language=pt |archive-date=8 December 2025 |archive-url=https://web.archive.org/web/20251208232724/https://www.uol.com.br/esporte/futebol/ultimas-noticias/gazeta-esportiva/2025/12/08/com-homenagem-a-ancelotti-trofeu-mesa-redonda-elege-melhores-de-2025-veja-vencedores.htm |url-status=live }}</ref>
+*[[Copa Libertadores]] Team of the year: [[2025 Copa Libertadores|2025]]
+*[[Copa Libertadores]] Top Scorer: [[2025 Copa Libertadores|2025]] (7 goals)
+*[[:UR:Equipo Ideal de América|South America Team of the Year]]: [[:es: Equipo Ideal de América#2025|2025]]
+*[[Campeonato Paulista]] Best Player: [[2026 Campeonato Paulista|2026]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Soccerway|jose-manuel-lopez/685490}}
+
+{{Sociedade Esportiva Palmeiras squad}}
+{{Argentina squad 2026 FIFA World Cup}}
+{{Campeonato Paulista top scorers}}
+{{2025 South American Team of the Year}}
+
+{{DEFAULTSORT:Lopez, Jose Manuel}}
+[[Category:2000 births]]
+[[Category:Living people]]
+[[Category:Footballers from Corrientes Province]]
+[[Category:Argentine men's footballers]]
+[[Category:Men's association football forwards]]
+[[Category:Argentina men's international footballers]]
+[[Category:2026 FIFA World Cup players]]
+[[Category:Club Atlético Lanús footballers]]
+[[Category:SE Palmeiras players]]
+[[Category:Argentine Primera División players]]
+[[Category:Campeonato Brasileiro Série A players]]
+[[Category:Argentine expatriate men's footballers]]
+[[Category:Expatriate men's footballers in Brazil]]
+[[Category:Argentine expatriate sportspeople in Brazil]]
+[[Category:21st-century Argentine sportsmen]]

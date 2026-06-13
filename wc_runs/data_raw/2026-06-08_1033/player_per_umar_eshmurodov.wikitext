@@ -1,0 +1,124 @@
+{{short description|Uzbekistani footballer}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+| name = Umarbek Eshmurodov
+| image = Umar Eshmurodov 2.jpg
+| fullname = Umarbek Yusuf oʻgʻli Eshmurodov <ref>{{cite web | url=https://globalsportsarchive.com/people/soccer/umar-eshmurodov/119914/ | title=Umar Eshmurodov - Soccer player profile & career statistics - Global Sports Archive }}</ref>
+| birth_date = {{Birth date and age|1992|11|30|df=y}}
+| birth_place = [[Koson, Uzbekistan|Koson]], Uzbekistan
+| height = 1.85 m<ref name=nft>[https://www.national-football-teams.com/player/77040/Umar_Eshmurodov.html Profile at NFT], national-football-teams.com</ref>
+| position = [[Centre-back]]<ref name=nft/>
+| currentclub = [[FC Nasaf|Nasaf]]
+| clubnumber = 92
+| youthyears1 = 
+| youthclubs1 = 
+| years1 = 2013–2017
+| clubs1 = [[FC Shurtan Guzar|Shurtan Guzar]]
+| caps1 = 62
+| goals1 = 2
+| years2 = 2017–2019
+| clubs2 = [[FC Nasaf|Nasaf]]
+| caps2 = 27
+| goals2 = 0
+| years3 = 2020–2021
+| clubs3 = [[Pakhtakor Tashkent FK|Pakhtakor Tashkent]]
+| caps3 = 0
+| goals3 = 0
+| years4 = 2020
+| clubs4 = → [[FC Nasaf|Nasaf]] (loan)
+| caps4 = 24
+| goals4 = 0
+| years5 = 2021–2023
+| clubs5 = [[FC Nasaf|Nasaf]]
+| caps5 = 70
+| goals5 = 3
+| years6 = 2024
+| clubs6 = [[Selangor F.C.|Selangor]]
+| caps6 = 12
+| goals6 = 1
+| nationalyears1 = 2020–
+| nationalteam1 = [[Uzbekistan national football team|Uzbekistan]]
+| nationalcaps1 = 29
+| nationalgoals1 = 0
+| club-update = 10 August 2025
+| nationalteam-update = 26 March 2024  (UTC)
+| years7 = 2025–
+| clubs7 = [[FC Nasaf|Nasaf]]
+| caps7 = 15
+| goals7 = 0
+| medaltemplates = {{MedalCountry|{{fb|UZB}}}}
+{{Medal|Competition|[[CAFA Nations Cup]]}}
+{{Medal|RU|[[2023 CAFA Nations Cup|2023 Kyrgyzstan–Uzbekistan]]|[[2023 CAFA Nations Cup squads#Uzbekistan|Team]]}}
+}}
+
+'''Umarbek Eshmurodov''' (born 30 November 1992) is an Uzbekistani [[association football|footballer]] who currently plays as a [[centre-back]] for [[Uzbekistan Super League]] club [[FC Nasaf|Nasaf]] and [[Uzbekistan national football team|Uzbekistan national team]].<ref>{{Soccerway|umar-eshmuradov/297303}}</ref><ref>[https://globalsportsarchive.com/people/soccer/umar-eshmurodov/119914/ Player profile in globalsportsarchive.com]</ref><ref>{{Cite web |title=Instagram |url=https://www.instagram.com/p/DEFeXZFtYtO/?igsh=MWVxb3Rrb3kybW15bg== |access-date=2024-12-27 |website=www.instagram.com}}</ref>
+
+Eshmurodov made his debut for the [[Uzbekistan national football team|Uzbekistan senior national team]] on 23 February 2020 in a [[friendly (sport)|friendly]] match against [[Belarus national football team|Belarus]].<ref>[https://www.national-football-teams.com/matches/report/25444/Uzbekistan_Belarus.html Uzbekistan 0–1 Belarus]</ref>
+
+Named to the Uzbekistan national team squad for the [[2026 FIFA World Cup]].<ref>{{Cite web|url=https://t.me/uzpfl/77948|title=UzPFL|website=Telegram|access-date=2026-05-29}}</ref>
+
+==Career statistics==
+===International===
+{{updated|match played 23 January 2023}}
+{| class="wikitable" style="text-align:center"
+|-
+!colspan=3|[[Uzbekistan national football team|Uzbekistan]]
+|-
+!Year!!Apps!!Goals
+|-
+|2020||1||0
+|-
+|2021||2||0
+|-
+|2022||8||0
+|-
+|2023||11||0
+|-
+|2024||3||0
+|-
+!Total||25||0
+|}
+
+==Honours==
+'''Shurtan'''
+*[[Uzbekistan Pro League]]: 2014
+
+'''Nasaf'''
+*[[Uzbekistan Super League]] runner-up: 2017
+
+==References==
+{{reflist}}
+
+{{FC Nasaf squad}}
+{{Navboxes
+| title = Uzbekistan squads
+| bg = #0099B5
+| fg = white 
+| bordercolor = #CE1126
+| list =
+{{Uzbekistan squad 2023 AFC Asian Cup}}
+{{Uzbekistan squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Eshmrodov, Umar}}
+[[Category:1992 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Qashqadaryo Region]]
+[[Category:Uzbekistani men's footballers]]
+[[Category:21st-century Uzbekistani sportsmen]]
+[[Category:Uzbekistan men's youth international footballers]]
+[[Category:2023 AFC Asian Cup players]]
+[[Category:Men's association football midfielders]]
+[[Category:FC Shurtan players]]
+[[Category:FC Nasaf players]]
+[[Category:Pakhtakor Tashkent FK players]]
+[[Category:Selangor F.C. players]]
+[[Category:Uzbekistan Super League players]]
+[[Category:Malaysia Super League players]]
+[[Category:Uzbekistani expatriate men's footballers]]
+[[Category:Expatriate men's footballers in Malaysia]]
+[[Category:Uzbekistani expatriate sportspeople in Malaysia]]
+[[Category:2026 FIFA World Cup players]]
+
+
+{{Uzbekistan-footy-bio-stub}}

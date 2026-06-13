@@ -1,0 +1,168 @@
+{{Short description|Austrian footballer (born 2001}}
+{{Infobox football biography
+|name = Florian Wiegele
+|birth_date = {{birth date and age|2001|3|21|df=y}}
+|birth_place = [[Graz]], [[Styria]], Austria
+|height = 2.05 m
+|position = [[Goalkeeper (association football)|Goalkeeper]]
+|currentclub = [[FC Viktoria Plzeň|Viktoria Plzeň]]
+|clubnumber = 44
+|youthyears1 = {{0|0000}}–2007
+|youthclubs1 = SV Strassgang
+|youthyears2 = 2007–2019
+|youthclubs2 = [[SK Sturm Graz]]
+|years1 = 2017–2019
+|clubs1 = [[SK Sturm Graz|Sturm Graz II]]
+|caps1 = 0
+|goals1 = 0
+|years2 = 2019–2022
+|clubs2 = SV Lebring
+|caps2 = 47
+|goals2 = 0
+|years3 = 2022–2023
+|clubs3 = FC Gleisdorf 09
+|caps3 = 24
+|goals3 = 0
+|years4 = 2023–2024
+|clubs4 = [[DSV Leoben]]
+|caps4 = 12
+|goals4 = 0
+|years5 = 2024–
+|clubs5 = [[FC Viktoria Plzeň|Viktoria Plzeň]]
+|caps5 = 20
+|goals5 = 0
+|years6 = 2025
+|clubs6 = → [[Grazer AK]] (loan)
+|caps6 = 15
+|goals6 = 0
+|nationalyears1 = 2026–
+|nationalteam1 = [[Austria national football team|Austria]]
+|nationalcaps1 = 1
+|nationalgoals1 = 0
+|pcupdate = 27 May 2026
+|ntupdate = 27 March 2026
+}}
+
+'''Florian Wiegele''' (born 21 March 2001) is an Austrian professional [[Association football|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for [[FC Viktoria Plzeň]] and the [[Austria national football team|Austria national team]].
+
+==Early life==
+Wiegele was born on 21 March 2001 in [[Austria]] and is a native of [[Graz]], Austria. Growing up, he regarded [[Germany national football team|Germany]] international [[Manuel Neuer]] as his football idol and has been nicknamed "Langer".<ref>{{Cite web|url=https://www.kleinezeitung.at/sport/fussball/oesterreich/bundesliga/sksturm/19446647/florian-wiegele-und-kjell-scherpen-sorgen-fuer-das-groesste-grazer|title=Florian Wiegele und Kjell Scherpen sorgen für das größte Grazer Derby aller Zeiten|trans-title=Florian Wiegele and Kjell Scherpen ensure the greatest Graz derby of all time|language=de|publisher=[[Kleine Zeitung]]|date=8 March 2025|access-date=17 May 2025}}</ref>
+
+==Career==
+Wiegele started his career with the [[reserve team]] of Austrian side [[SK Sturm Graz]] in 2017. Two years later, he signed for Austrian side SV Lebring. In 2022, he signed for Austrian side FC Gleisdorf 09, where he made twenty-four league appearances and scored zero goals. During the summer of 2023, he signed for Austrian side [[DSV Leoben]], where he made twelve league appearances and scored zero goals and suffered relegation from the [[2. Liga (Austria)|second tier]] to the [[Austrian Regionalliga|third tier]] while playing for the club.<ref>{{Cite web|url=https://isport.blesk.cz/clanek/fotbal-chance-liga-rocnik-2024-25/449773/dvanactka-novacku-plzne-klenot-do-zakladu-obr-v-brane-i-strelci.html|title=Dvanáctka nováčků Plzně: klenot do základu, obr v bráně i střelci|trans-title=Plzeň's twelve newcomers: a gem in the foundation, a giant in goal and scorers|language=cs|publisher=[[Blesk]]|date=16 July 2024|access-date=17 May 2025}}</ref>
+
+Ahead of the [[2024–25 Czech First League|2024–25 season]], he signed for Czech side [[FC Viktoria Plzeň|Viktoria Plzeň]]. Six months later, he was sent on loan to Austrian side [[Grazer AK]]. German magazine [[Kicker (magazine)|Kicker]] wrote in 2025 that he "immediately established himself as the number one goalie for GAK, pushing promotion hero [[Jakob Meierhofer]] to the bench" while playing for the club.<ref>{{Cite web|url=https://www.kicker.de/der-sonntag-mit-rugby-schuhen-und-papa-soehnen-1091015/artikel|title=Der Sonntag mit Rugby-Schuhen und Papa-Söhne|trans-title=Sunday with rugby shoes and daddy's sons|language=de|publisher=[[Kicker (magazine)|Kicker]]|date=16 February 2025|access-date=17 May 2025}}</ref>
+He had great half of the season in Grazer and he came back to Viktoria Plzeň where he is fighting for the number one.
+
+Wiegele was named in the [[2026 FIFA World Cup squads#Austria|Austria squad for the 2026 Men's World Cup]]<ref>{{Cite web |title=Alaba, Arnautovic feature as Austria name World Cup squad |url=https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/austria-ralf-rangnick-world-cup-squad |access-date=2026-06-03 |website=www.fifa.com}}</ref> and at 2.05m, became the tallest player to ever make a World Cup squad.<ref>{{Cite web |url=https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/numbers-squads-stats |access-date=2026-06-03 |website=www.fifa.com|title=The squads in stats}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 15 March 2026}}
+
+{| class="wikitable" style="text-align: center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup
+!colspan="2"|Europe
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps||Goals||Apps||Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|[[SK Sturm Graz|Sturm Graz II]]
+|[[2017–18 Austrian Regionalliga|2018–19]]
+|[[Austrian Regionalliga Central]]
+|0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||0||0
+|-
+|rowspan="4"|SV Lebring
+|2019–20
+|[[Landesliga Steiermark]]
+|14||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||14||0
+|-
+|2020–21
+|Landesliga Steiermark
+|5||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||5||0
+|-
+|2021–22
+|Landesliga Steiermark
+|28||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||28||0
+|-
+!colspan="2"|Total
+!47!!0!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!47!!0
+|-
+|FC Gleisdorf 09
+|[[2022–23 Austrian Regionalliga|2022–23]]
+|Austrian Regionalliga Central
+|24||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||24||0
+|-
+|[[DSV Leoben]]
+|[[2023–24 Austrian Football Second League|2023–24]]
+|[[2. Liga (Austria)|2. Liga]]
+|12||0||4||0||colspan="2"|—||colspan="2"|—||16||0
+|-
+|rowspan="3"|[[FC Viktoria Plzeň|Viktoria Plzeň]]
+|[[2024–25 FC Viktoria Plzeň season|2024–25]]
+|[[Czech First League]]
+|0||0||0||0||0||0||colspan="2"|—||0||0
+|-
+|[[2025–26 FC Viktoria Plzeň season|2025–26]]
+|Czech First League
+|12||0||3||0||8{{efn|Two appearances in [[UEFA Champions League]], six appearances in [[UEFA Europa League]]}}||0||colspan="2"|—||23||0
+|-
+!colspan="2"|Total
+!12!!0!!3!!0!!8!!0!!colspan="2"|—!!23!!0
+|-
+|[[Grazer AK]] (loan)
+|[[2024–25 Austrian Football Bundesliga|2024–25]]
+|[[Austrian Football Bundesliga|Austrian Bundesliga]]
+|15||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||15||0
+|-
+!colspan="3"|Career total
+!110!!0!!7!!0!!8!!0!!0!!0!!125!!0
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 27 March 2026}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="1"|[[Austria national football team|Austria]]
+|2026||1||0
+|-
+!colspan="2"|Total!!1!!0
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Soccerway|517693}}
+*{{Chanceliga.cz|4733-florian-wiegele}}
+
+{{FC Viktoria Plzeň squad}}
+{{Austria squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Wiegele, Florian}}
+[[Category:2001 births]]
+[[Category:Living people]]
+[[Category:Austrian men's footballers]]
+[[Category:Men's association football goalkeepers]]
+[[Category:DSV Leoben players]]
+[[Category:FC Viktoria Plzeň players]]
+[[Category:Grazer AK players]]
+[[Category:2. Liga (Austria) players]]
+[[Category:Austrian Football Bundesliga players]]
+[[Category:Austrian Regionalliga players]]
+[[Category:Czech First League players]]
+[[Category:Austrian expatriate men's footballers]]
+[[Category:Expatriate men's footballers in the Czech Republic]]
+[[Category:Austrian expatriate sportspeople in the Czech Republic]]
+[[Category:Austria men's international footballers]]
+[[Category:2026 FIFA World Cup players]]

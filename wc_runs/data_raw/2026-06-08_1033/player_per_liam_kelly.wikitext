@@ -1,0 +1,254 @@
+{{short description|Scottish footballer (born 1996)}}
+{{Other people|Liam Kelly}}
+{{Use dmy dates|date=December 2016}}
+{{Use British English|date=December 2016}}
+{{Infobox football biography
+| name = Liam Kelly
+| image = 
+| caption = 
+| full_name = Liam Patrick Kelly<ref>{{cite web |url=https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf |title=Squad List: FIFA World Cup 2026: Scotland (SCO) |publisher=FIFA |page=38 |date=3 June 2026 |access-date=3 June 2026}}</ref>
+| birth_date = {{birth date and age|1996|1|23|df=y}}
+| birth_place = [[Glasgow]], Scotland
+| height = {{convert|1.87|m|order=flip}}<ref>{{Cite news |url=https://www.qpr.co.uk/squads/first-team/liam-kelly/ |title=Player Profile: Goalkeeper Liam Kelly |access-date=22 March 2020 |publisher=Queens Park Rangers F.C. |language=en}}</ref>
+| position = [[Goalkeeper (association football)|Goalkeeper]]
+| currentclub = [[Rangers F.C.|Rangers]]
+| clubnumber = 31
+| youthyears1 = 2006–2015
+| youthclubs1 = [[Rangers F.C. B Team and Academy|Rangers]]
+| years1 = 2015–2018
+| clubs1 = [[Rangers F.C.|Rangers]]
+| caps1 = 0
+| goals1 = 0
+| years2 = 2016
+| years3 = 2016–2017
+| clubs3 = → [[Livingston F.C.|Livingston]] (loan)
+| caps3 = 34
+| goals3 = 0
+| years4 = 2018–2019
+| clubs4 = [[Livingston F.C.|Livingston]]
+| caps4 = 36
+| goals4 = 0
+| years5 = 2019–2021
+| clubs5 = [[Queens Park Rangers F.C.|Queens Park Rangers]]
+| caps5 = 19
+| goals5 = 0
+| years6 = 2021
+| clubs6 = → [[Motherwell F.C.|Motherwell]] (loan)
+| caps6 = 18
+| goals6 = 0
+| years7 = 2021–2024
+| clubs7 = [[Motherwell F.C.|Motherwell]]
+| caps7 = 114
+| goals7 = 0
+| years8 = 2024–
+| clubs8 = [[Rangers F.C.|Rangers]]
+| caps8 = 10
+| goals8 = 0
+| nationalyears1 = 2011–2012
+| nationalteam1 = [[Scotland national under-16 football team|Scotland U16]]<ref name="SFA" />
+| nationalcaps1 = 3
+| nationalgoals1 = 0
+| nationalyears2 = 2012
+| nationalteam2 = [[Scotland national under-17 football team|Scotland U17]]<ref name="SFA" />
+| nationalcaps2 = 5
+| nationalgoals2 = 0
+| nationalyears3 = 2012–2015
+| nationalteam3 = [[Scotland national under-19 football team|Scotland U19]]<ref name="SFA">{{SFA Profile|id=105101|name=Liam Kelly}}</ref>
+| nationalcaps3 = 11
+| nationalgoals3 = 0
+| nationalyears4 = 2016
+| nationalteam4 = [[Scotland national under-21 football team|Scotland U21]]<ref name="SFA" />
+| nationalcaps4 = 2
+| nationalgoals4 = 0
+| nationalyears5 = 2023–
+| nationalteam5 = [[Scotland national football team|Scotland]]<ref name="SFA" />
+| nationalcaps5 = 3
+| nationalgoals5 = 0
+| club-update = 23:29, 2 April 2024 (UTC)
+| nationalteam-update = 23:46, 30 May 2026 (UTC)
+}}
+'''Liam Patrick Kelly''' (born 23 January 1996) is a Scottish professional [[association football|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for {{Scottish football updater|Rangers}} club [[Rangers F.C.|Rangers]] and the [[Scotland national football team|Scotland national team]]. Kelly has previously played for [[Motherwell F.C.|Motherwell]], [[East Fife F.C.|East Fife]], [[Livingston F.C.|Livingston]] and [[Queens Park Rangers F.C.|Queens Park Rangers]].
+
+==Club career==
+===Rangers===
+Kelly joined Rangers aged ten and played in the club's youth sides, notably scoring the final penalty during Rangers under-17s [[Glasgow Cup]] win in 2012.<ref>{{Cite news |url=http://www.eveningtimes.co.uk/news/13233159.Goalkeeper_Liam_Kelly_is_the_hero_as_Rangers_colts_triumph_in_Glasgow_Cup_penalty_shoot_out/ |title=Goalkeeper Liam Kelly is the hero as Rangers colts triumph in Glasgow Cup penalty shoot-out |date=17 April 2012 |work=Evening Times |publisher=Herald & Times Group |location=Glasgow}}</ref><ref name="glasgow">{{Cite news |last=Dickson |first=Andrew |url=http://rangers.co.uk/news/academy-news/gers-win-glasgow-cup/ |title=Gers Win Glasgow Cup |date=16 April 2012 |work=Rangers.co.uk |access-date=17 April 2012 |publisher=Rangers Football Club}}</ref>
+
+After training with the first-team for the majority of the 2014–15 season and featuring on the bench, Kelly signed a contract extension on 25 February 2015, until the summer of 2018.<ref>{{Cite news |url=http://www.rangers.co.uk/news/academy-news/item/8567-kelly-delight-at-new-deal |title=Kelly Delight At New Deal |date=25 February 2015 |work=Rangers.co.uk |access-date=16 July 2016 |url-status=dead |archive-url=https://web.archive.org/web/20150712115838/http://www.rangers.co.uk/news/academy-news/item/8567-kelly-delight-at-new-deal |archive-date=12 July 2015 |publisher=Rangers Football Club}}</ref>
+
+====Loan moves====
+On 8 January 2016, Kelly joined [[East Fife F.C.|East Fife]] in [[Scottish League Two]] on a six-month loan.<ref>{{Cite news |url=http://rangers.co.uk/news/headlines/kelly-joins-east-fife/? |title=Kelly Joins East Fife |date=8 January 2016 |work=Rangers.co.uk |publisher=Rangers Football Club}}</ref> During his time at [[Bayview Stadium]], Kelly played in 16 league matches and was part of the side which won the League Two title.<ref name="East fife">{{Cite news |last=Macgregor |first=Archie |url=http://www.scotsman.com/sport/football/competitions/league-two/clyde-0-0-east-fife-league-2-title-joy-for-fifers-1-4102467 |title=Clyde 0-0 East Fife: League 2 title joy for Fifers |date=16 April 2016 |work=[[The Scotsman]] |publisher=Johnston Press |location=Edinburgh}}</ref> Upon returning to Rangers, Kelly travelled to the United States with the first team for a pre-season training camp.<ref>{{Cite news |url=http://rangers.co.uk/news/headlines/gers-head-america/ |title=Gers head to America |date=27 June 2016 |work=Rangers.co.uk |publisher=Rangers Football Club}}</ref> However, on 15 July 2016, he was loaned out to the then [[Scottish League One]] team [[Livingston F.C.|Livingston]] until January 2017.<ref>{{Cite news |last=Thomson |first=Nick |url=http://rangers.co.uk/news/headlines/kelly-moves-loan/? |title=Kelly Moves On Loan |date=15 July 2016 |work=Rangers.co.uk |publisher=Rangers Football Club}}</ref> He made his debut for ''Livi'' the next day in a [[Scottish League Cup|League Cup]] match against [[St Mirren F.C.|St Mirren]].<ref>{{Cite news |last=McLauchlin |first=Brian |url=https://www.bbc.co.uk/sport/football/36753147 |title=Livingston 2-3 St Mirren |date=16 July 2016 |work=BBC Sport |publisher=BBC}}</ref>
+
+===Livingston===
+Kelly moved to [[Livingston F.C.|Livingston]], where he had previously been on loan, for an undisclosed fee in June 2018.<ref>{{Cite web |url=https://rangers.co.uk/news/club/liam-kelly-joins-livingston/ |title=Liam Kelly Joins Livingston |date=8 June 2018 |publisher=Rangers FC |access-date=8 June 2018}}</ref> He played regularly for Livingston in the 2018–19 season, but then invoked a release clause in his contract.<ref>{{Cite web |url=https://www.bbc.co.uk/sport/football/48519001 |title=Liam Kelly triggers Livingston release clause amid English Championship interest |date=4 June 2019 |publisher=BBC Sport |access-date=5 June 2019}}</ref>
+
+===Queens Park Rangers===
+On 14 June 2019, Kelly signed for [[Queens Park Rangers F.C.|Queens Park Rangers]] for an undisclosed fee on a four-year contract.<ref>{{Cite web |url=https://www.bbc.co.uk/sport/football/48639859 |title=Liam Kelly: QPR sign goalkeeper from Livingston |date=14 June 2019 |publisher=BBC Sport |access-date=14 June 2019}}</ref> It was reported that the transfers fee was £50,000 with Livingston retaining a sell on bonus.<ref>{{Cite web|url=https://www.dailyrecord.co.uk/sport/local-sport/livingston-goalkeeper-liam-kelly-completes-16517652|title=Livingston goalkeeper Liam Kelly completes switch to Queen's Park Rangers|first=Callum|last=Carson|date=14 June 2019|website=Daily Record}}</ref> He made his debut on 13 August 2019, in an [[EFL Cup]] match against [[Bristol City F.C.|Bristol City]] saving two penalties in a 5–4 penalty shootout win.
+
+====Motherwell (loan)====
+On 6 January 2021, Kelly moved on loan to [[Motherwell F.C.|Motherwell]] for the remainder of the season.<ref>{{cite web|title=Liam Kelly signs on loan|url=https://www.motherwellfc.co.uk/2021/01/06/liam-kelly-signs-on-loan/|website=motherwellfc.co.uk|date=6 January 2021|accessdate=6 January 2021}}</ref>
+
+===Motherwell===
+On 5 July 2021, Kelly returned to Motherwell on a permanent transfer from Queens Park Rangers, signing a three-year contract.<ref>{{cite web |title=LIAM KELLY RETURNS TO MOTHERWELL |url=https://www.motherwellfc.co.uk/2021/07/05/liam-kelly-returns-to-motherwell/ |website=motherwellfc.co.uk/ |publisher=Motherwell F.C. |access-date=5 July 2021 |date=5 July 2021}}</ref>
+
+===Return to Rangers===
+On 27 June 2024, Rangers completed the signing of goalkeeper Liam Kelly on a two-year deal. Kelly, a former Rangers academy player, returned to Ibrox after his contract expired at Motherwell.<ref>{{Cite web |url=https://www.rangers.co.uk/Article/rangers-sign-scotland-international-goalkeeper-liam-kelly/6V1RhVAM3lxTWnYRogJ7bR |title=Rangers Sign Scotland International Goalkeeper Liam Kelly |date=27 June 2024 |publisher=Rangers FC |access-date=27 June 2024}}</ref> Kelly made his first competitive appearance for Rangers on 21 December 2024, in a 1&ndash;0 victory against [[Dundee F.C.|Dundee]] at [[Ibrox Stadium|Ibrox]].<ref>{{Cite web |url=https://www.bbc.co.uk/sports/articles/c05p87r1ny9o |title=Kelly revels in 'unbelievable' Rangers debut |date=22 December 2024 |publisher=BBC Sport |access-date=3 July 2025}}{{dead link|date=September 2025|bot=medic}}{{cbignore|bot=medic}}</ref> He then started in an [[Old Firm]] game for the first time, as Rangers won 3&ndash;0 against [[Celtic F.C.|Celtic]] on 2 January 2025.<ref>{{Cite web |url=https://www.rangers.co.uk/fixture/rangers-vs-celtic-scottish-premiership-2025-01-02/2B2XDvamYVuay2C5Ay281w |title=Rangers 3-0 Celtic |date=2 January 2025 |publisher=Rangers FC |access-date=13 January 2025}}</ref> Following a dip of form for regular starter Butland, Kelly was chosen to play in a [[2024&ndash;25 UEFA Europa League|Europa League]] tie against [[Athletic Bilbao]]. He saved a [[penalty kick]] in the first leg, which ended in a goalless draw.<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/live/ckgeyng3dnlt |first=Martin |last=Dowden |title=Rangers 0-0 Athletic Club - Liam Kelly saves penalty for 10-man hosts |website=BBC Sport |date=10 April 2025 |accessdate=2 July 2025}}</ref> Kelly played in 10 league games during the [[2024&ndash;25 Scottish Premiership|2024&ndash;25]] season, recording four clean sheets.
+
+==International career==
+[[File:Украина U-21 - Шотландия U-21 4-0. 6 сентября 2016 года — 708159.jpg|thumb|Kelly (No 1) with [[Scotland national under-21 football team|Scotland U21s]] in Ukraine, 2016]]
+Kelly has represented Scotland at various age levels, up to an including the [[Scotland national under-21 football team|under-21]] team.<ref name="SFA" />
+
+Kelly received his first call-up to the senior [[Scotland national football team|Scotland]] squad in March 2019 for games against [[Kazakhstan national football team|Kazakhstan]] and [[San Marino national football team|San Marino]].<ref>{{Cite web |url=https://www.bbc.co.uk/sport/football/47604868 |title=Scotland: Andy Robertson to miss Kazakhstan clash as trio also pull out |date=17 March 2019 |website=BBC Sport |access-date=18 March 2019 |publisher=BBC}}</ref> After many call-ups to the squad without playing, Kelly finally made his full international debut in a [[friendly match|friendly]] against [[France national football team|France]] on 17 October 2023.<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/67061897 |title=France 4-1 Scotland: Star-studded hosts inflict heavy defeat on makeshift Scots |website=BBC Sport |date=17 October 2023 |accessdate=17 October 2023}}</ref> He was selected in the Scotland squads for [[UEFA Euro 2024]]<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/articles/clwwdq8dzrno |title=Liam Kelly signs short-term Motherwell deal to secure Euro bonus |website=BBC Sport |date=8 June 2024 |accessdate=8 June 2024}}</ref> and the [[2026 FIFA World Cup]].<ref>{{Cite web|url=https://www.foxsports.com/stories/soccer/scotland-craig-gordon-2026-fifa-world-cup-roster|title=Scotland Includes 43-year-old Goalkeeper Craig Gordon In World Cup Squad|publisher=Fox Sports}}</ref><ref>{{cite web|url=https://www.bbc.co.uk/sport/football/articles/cvgz2e8g4e8o|title=World Cup: Meet the Scotland squad in their own words|last=Canavan|first=Amy|date=3 June 2026|website=BBC Sport}}</ref>
+
+==Style of play==
+[[Kenny Miller]], who played alongside Kelly at Rangers and was also his player-manager at Livi, said of him in 2018: "He's excellent with the ball at his feet. He's a proper modern-day goalkeeper".<ref>{{Cite news |url=https://www.bbc.co.uk/sport/football/45741014 |title=Liam Kelly 'could lead next batch of Scotland goalkeepers' - Kenny Miller |date=4 October 2018 |work=BBC Sport |access-date=4 October 2018 |publisher=British Broadcasting Corporation}}</ref>
+
+==Personal life==
+He is the brother of [[Livingston F.C.|Livingston]] defender [[Sean Kelly (Scottish footballer)|Sean Kelly]]<ref>{{cite web|title=Sean Kelly says Liam Kelly 'has the ability and mindset' to play for Rangers|url=https://sportslens.com/sean-kelly-says-liam-kelly-has-the-ability-and-mindset-to-play-for-rangers/251805/|website=Sports Lens|author=Charlie Rhodes |date=25 November 2018}}</ref> and [[Dumbarton F.C.|Dumbarton]] goalkeeper Shay Kelly.<ref>{{Cite web |last=Clarke |first=Fraser |date=2025-03-30 |title=My brother is a Rangers ace - now I've made my SPFL debut I want to follow him |url=https://www.dailyrecord.co.uk/sport/football/football-news/brother-rangers-ace-now-ive-34960489 |access-date=2026-01-03 |website=Daily Record |language=en}}</ref> In October 2023 Liam and Sean faced each other from 12 yards in a Scottish Premiership fixture, with Sean scoring his penalty past Liam.<ref>{{cite news|url=https://www.dailyrecord.co.uk/sport/local-sport/motherwell-kid-lennon-miller-wise-31148552|title=Motherwell kid Lennon Miller has wise head on his shoulders, red card won't affect him, says skipper|last=McGilvray|first=Andy|date=10 October 2023|work=Daily Record}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 8 February 2026}}<ref>{{Cite web |url=https://int.soccerway.com/players/liam-kelly/275840/ |title=L. Kelly |website=Soccerway |access-date=5 December 2016}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup
+!colspan="2"|League cup
+!colspan="2"|Continental 
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="4"|[[Rangers F.C.|Rangers]]
+|[[2015–16 Rangers F.C. season|2015–16]]
+|[[Scottish Championship]]
+|0||0||0||0||0||0||0||0||colspan="2"|—
+|-
+|[[2016–17 Rangers F.C. season|2016–17]]
+|[[Scottish Premiership]]
+|0||0||0||0||0||0||colspan="2"|—||colspan="2"|—
+|-
+|[[2017–18 Rangers F.C. season|2017–18]]
+|Scottish Premiership
+|0||0||0||0||0||0||0||0||colspan="2"|—
+|-
+|-
+!colspan="2"|Total
+!0!!0!!0!!0!!0!!0!!0!!0!!0!!0
+|-
+|[[East Fife F.C.|East Fife]] (loan)
+|[[2015–16 in Scottish football|2015–16]]
+|[[Scottish League Two]]
+|16||0||0||0||0||0||0||0||16||0
+|-
+|[[Livingston F.C.|Livingston]] (loan)
+|[[2016–17 in Scottish football|2016–17]]
+|[[Scottish League One]]
+|34||0||2||0||4||0||0||0||40||0
+|-
+|Livingston
+|[[2018–19 Livingston F.C. season|2018–19]]
+|Scottish Premiership
+|36||0||1||0||5||0||colspan="2"|—||42||0
+|-
+|rowspan="3"|[[Queens Park Rangers F.C.|Queens Park Rangers]]
+|[[2019–20 Queens Park Rangers F.C. season|2019–20]]
+|[[EFL Championship|Championship]]
+|19||0||1||0||2||0||colspan="2"|—||22||0
+|-
+|[[2020–21 Queens Park Rangers F.C. season|2020–21]]
+|Championship
+|0||0||0||0||0||0||colspan="2"|—||0||0
+|-
+!colspan="2"|Total
+!19!!0!!1!!0!!2!!0!!0!!0!!22!!0
+|-
+|[[Motherwell F.C.|Motherwell]] (loan)
+|[[2020–21 Motherwell F.C. season|2020–21]]
+|Scottish Premiership
+|18||0||3||0||0||0||colspan="2"|—||21||0
+|-
+|rowspan="4"|Motherwell
+|[[2021–22 Motherwell F.C. season|2021–22]]
+|Scottish Premiership
+|38||0||3||0||5||0||colspan="2"|—||46||0
+|-
+|[[2022–23 Motherwell F.C. season|2022–23]]
+|Scottish Premiership
+|38||0||2||0||2||0||2||0||44||0
+|-
+|[[2023–24 Motherwell F.C. season|2023–24]]
+|Scottish Premiership
+|38||0||2||0||3||0||0||0||43||0
+|-
+!colspan="2"|Total
+!132!!0!!10!!0!!10!!0!!2!!0!!154!!0
+|-
+|rowspan="3"|[[Rangers F.C.|Rangers]]
+|[[2024–25 Rangers F.C. season|2024–25]]
+|Scottish Premiership
+|10||0||1||0||0||0||2||0||13||0
+|-
+|[[2025–26 Rangers F.C. season|2025–26]]
+|Scottish Premiership
+|0||0||2||0||1||0||0||0||3||0
+|-
+!colspan="2"|Total
+!10!!0!!3!!0!!1!!0!!2!!0!!16!!0
+|-
+!colspan="3"|Career total
+!243!!0!!17!!0!!22!!0!!4!!0!!284!!0
+|}
+
+==Honours==
+
+===Club===
+;Rangers under-17
+*[[Glasgow Cup]]: 2012<ref name="glasgow" />
+
+;East Fife
+*[[Scottish League Two]]: [[2015–16 Scottish League Two|2015–16]]<ref name="East fife" />
+
+;Livingston
+*[[Scottish League One]]: [[2016–17 Scottish League One|2016–17]]<ref>{{Cite web |url=http://livingstonfc.co.uk/livingston-2-1-alloa-athletic/ |title=Livingston 2–1 Alloa Athletic |date=8 April 2017 |publisher=Livingston F.C. |access-date=8 April 2017}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{soccerbase|id=70011|name=Liam Kelly}}
+*{{UEFA player}}
+
+{{Rangers F.C. squad}}
+{{Navboxes
+| title = Scotland squads
+| bg          = #003876
+| fg          = #FFFFFF
+| bordercolor = silver
+| list1 =
+{{Scotland squad UEFA Euro 2024}}
+{{Scotland squad 2026 FIFA World Cup}}
+}}
+{{Motherwell F.C. Player of the Year}}
+
+{{DEFAULTSORT:Kelly, Liam}}
+[[Category:1996 births]]
+[[Category:Living people]]
+[[Category:Footballers from Glasgow]]
+[[Category:Scottish men's footballers]]
+[[Category:Men's association football goalkeepers]]
+[[Category:Rangers F.C. players]]
+[[Category:East Fife F.C. players]]
+[[Category:Livingston F.C. players]]
+[[Category:Queens Park Rangers F.C. players]]
+[[Category:Motherwell F.C. players]]
+[[Category:Scottish Professional Football League players]]
+[[Category:English Football League players]]
+[[Category:Scotland men's youth international footballers]]
+[[Category:Scotland men's under-21 international footballers]]
+[[Category:Scotland men's international footballers]]
+[[Category:UEFA Euro 2024 players]]
+[[Category:21st-century Scottish sportsmen]]
+[[Category:2026 FIFA World Cup players]]

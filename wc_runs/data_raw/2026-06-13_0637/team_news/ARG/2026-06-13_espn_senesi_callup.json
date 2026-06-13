@@ -1,0 +1,16 @@
+{
+ "team": "ARG",
+ "source": "ESPN",
+ "url": "https://www.espn.com/soccer/story/_/id/49032417/tottenham-defender-marcos-senesi-called-argentina-world-cup-squad",
+ "title": "Tottenham defender Marcos Senesi called up to Argentina World Cup squad - ESPN",
+ "news_date": "2026-06-13",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-13",
+ "fetched": "2026-06-13_0637",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Tottenham defender Marcos Senesi called up to Argentina World Cup squad\nplay\nMoreno: Austria could be 'problematic' for Argentina in Group J (1:08)\nLizzy BecheranoJun 11, 2026, 02:59 PM ET\nThe Argentina national team confirmed Thursday that defender Marcos Senesi will replace the injured Leonardo Balerdi on the 26-player World Cup roster.\nHe is set to join La Albiceleste at their World Cup base in Kansas City, Missouri, ahead of the team's debut on June 16 against Algeria.\nBalerdi suffered a muscle injury in his right leg that ruled him out of the tournament.\n\"Defender Leonardo Balerdi suffered a muscle injury in the soleus of his right leg and will not be able to be part of the squad that will play in the World Cup. Get well soon, Balerdi!,\" the Argentina national team confirmed on social media.\nArgentina manager Lionel Scaloni used the team's pre-World Cup friendly against Iceland to make his final decision regarding the replacement for Balerdi.\n\"Today's test left me satisfied and cleared up many doubts regarding what the team might be lacking ... Maybe I'll take one or two more days to announce Balerdi's replacement,\" Scaloni said on Tuesday\nThe defender is now on the 26-player roster that will face Algeria, Austria and Jordan in the World Cup Group J.\n- Marcos Senesi joins Tottenham from Bournemouth as Roberto De Zerbi's second signing\n- Lionel Messi scores in return as Argentina look to World Cup\nSenesi received his first call up to the Argentina national team ahead of the 2022 Finalissima. During that same international window, he was also called up by Italy -- who Argentina defeated at Wembley.\nSenesi is of Italian descent, so was eligible to represent the Azzurri but chose to play for Argentina at international level instead.\nHe made his debut just days later in a friendly against Estonia and has since played additional matches, though none were competitive fixtures.\nHe played the full 90 minutes in the 1-0 victory over Venezuela on Oct. 10 last year, and his most recent appearance was against Mauritania at La Bombonera on March 27.\nIt's been a busy 24 hours for Sensei. On Wednesday it was confirmed that Senesi will be joining Tottenham Hotspur on a free transfer when his contract at Bournemouth expires on July 1. He will join Cristian Romero as Spurs' Argentinian representation at this World Cup.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

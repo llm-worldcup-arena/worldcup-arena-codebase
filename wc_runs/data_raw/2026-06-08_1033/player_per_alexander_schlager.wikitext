@@ -1,0 +1,222 @@
+{{short description|Austrian footballer (born 1996)}}
+{{Use dmy dates|date=August 2024}}
+{{Infobox football biography
+|name = Alexander Schlager
+|image = FC Salzburg vs. Atletico Madrid (2025-01-29 UEFA Championsleague) 47.jpg
+|image_size = 200
+|caption = Schlager with [[FC Red Bull Salzburg|Red Bull Salzburg]] in 2025
+|full_name = Alexander Schlager
+|birth_date = {{birth date and age|df=yes|1996|2|1}}
+|birth_place = [[Salzburg]], Austria
+|height = 1.84 m
+|currentclub = [[FC Red Bull Salzburg|Red Bull Salzburg]]
+|clubnumber = 24
+|position = [[Goalkeeper (association football)|Goalkeeper]]
+|youthyears1 = 2002–2005
+|youthclubs1 = ASK Salzburg
+|youthyears2 = 2005–2007
+|youthclubs2 = [[FC Red Bull Salzburg|Red Bull Salzburg]]
+|youthyears3 = 2007
+|youthclubs3 = ASK Maxglan
+|youthyears4 = 2007–2009
+|youthclubs4 = [[SV Austria Salzburg|Austria Salzburg]]
+|youthyears5 = 2009–2015
+|youthclubs5 = [[FC Red Bull Salzburg|Red Bull Salzburg]]
+|youthyears6 = 2014–2015
+|youthclubs6 = → [[RB Leipzig]] (loan)
+|years1 = 2012–2015
+|clubs1 = [[FC Red Bull Salzburg|Red Bull Salzburg]]
+|caps1 = 0
+|goals1 = 0
+|years2 = 2012–2017
+|clubs2 = [[FC Liefering]]
+|caps2 = 0
+|goals2 = 0
+|years3 = 2014–2015
+|clubs3 = → [[RB Leipzig]] (loan)
+|caps3 = 0
+|goals3 = 0
+|years4 = 2015–2016
+|clubs4 = → [[SV Grödig]] (loan)
+|caps4 = 10
+|goals4 = 0
+|years5 = 2016–2017
+|clubs5 = → [[Floridsdorfer AC]] (loan)
+|caps5 = 23
+|goals5 = 0
+|years7 = 2017–2023
+|clubs7 = [[LASK]]
+|caps7 = 152
+|goals7 = 0
+|years8 = 2023–
+|clubs8 = [[FC Red Bull Salzburg|Red Bull Salzburg]]
+|caps8 = 80
+|goals8 = 0
+|nationalyears1 = 2015–2019
+|nationalteam1 = [[Austria national under-21 football team|Austria U21]]
+|nationalcaps1 = 15
+|nationalgoals1 = 0
+|nationalyears2 = 2019–
+|nationalteam2 = [[Austria national football team|Austria]]
+|nationalcaps2 = 26
+|nationalgoals2 = 0
+|pcupdate = 17 May 2026 (UTC)
+|ntupdate = 1 June 2026 (UTC)
+}}
+
+'''Alexander Schlager''' (born 1 February 1996) is an Austrian professional [[association football|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for [[Austrian Football Bundesliga|Austrian Bundesliga]] club [[FC Red Bull Salzburg|Red Bull Salzburg]] and the [[Austria national football team|Austria national team]].<ref>{{cite web|title=A. SCHLAGER|url=https://int.soccerway.com/players/alexander-schlager/245446/|website=Soccerway|accessdate=27 July 2015}}</ref>
+
+==Club career==
+Schlager started his career at [[FC Red Bull Salzburg|Red Bull Salzburg]], before joining [[LASK]] in 2017.<ref>{{cite web |url=https://sportreport.biz/2017/05/29/trio-fuer-die-oberoesterreicher-aufsteiger-lask-verpflichtet-trauner-goiginger-und-schlager/ |title=Trio für die Oberösterreicher – Aufsteiger LASK verpflichtet Trauner, Goiginger und Schlager |publisher=Sportreport |language=de |date=29 May 2017 }}</ref> In May 2023, he returned to Red Bull Salzburg by signing a contract until 2027.<ref>{{cite web |url=https://www.redbullsalzburg.at/de/aktuelles/news/alexander-schlager-kehrt-nach-salzburg-zuruck |title=Alexander Schlager kehrt nach Salzburg zurück |publisher=Red Bull Salzburg |language=de |date=30 May 2023 }}</ref>
+
+==International career==
+Schlager was the captain for [[Austria national under-21 football team|Austria U-21]] in [[2019 UEFA European Under-21 Championship|2019 Euro U-21]].<ref>{{cite web |title=U-21 Denmark Squad|url=https://www.uefa.com/under21/history/teams/200008--austria/|publisher=UEFA |access-date=5 June 2019 |date=5 June 2019 }}</ref>
+
+On 16 November 2019, he played his first match for [[Austria national football team|Austria's national team]] in the deciding [[UEFA Euro 2020 qualifying|Euro 2020 qualifier]] against [[North Macedonia national football team|North Macedonia]], which ended in a 2–1 victory in Vienna.<ref>{{cite web |title=EURO 2020: MIA SAN DABEI! |url=https://www.oefb.at/News/Spielbericht-AUTMKD |website=oefb.at |publisher=[[Austrian Football Association]] |accessdate=17 November 2019 |language=de |date=16 November 2019 |archive-date=17 November 2019 |archive-url=https://web.archive.org/web/20191117011149/https://www.oefb.at/News/Spielbericht-AUTMKD |url-status=dead }}</ref> In May 2021, he was named in the 26-man squad for the postponed [[UEFA Euro 2020|Euro 2020]].<ref>{{cite news |url=https://www.oefb.at/oefb/News/Franco-Foda-fixiert-26-Spieler-umfassenden-EURO-Kader |title=Franco Foda fixiert 26 Spieler umfassenden EURO-Kader |trans-title=Franco Foda fixes the 26-player Euro squad |work=[[Austrian Football Association]] |date=24 May 2021 |access-date=24 May 2021 |language=de}}</ref> In May 2024, he sustained a knee injury which would force him to miss the upcoming [[UEFA Euro 2024|Euro 2024]].<ref>{{cite web |url=https://www.redbullsalzburg.at/de/aktuelles/news/alex-schlager-knie-operation-06052024 |title=Update zur Verletzung von Alexander Schlager |publisher=Red Bull Salzburg |language=de |date=6 May 2024 }}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 17 May 2026}}
+
+{| class="wikitable" style="text-align: center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|[[Austrian Cup]]
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|[[SV Grödig]] (loan)
+|[[2015–16 Austrian Football Bundesliga|2015–16]]
+|[[Austrian Football Bundesliga|Austrian Bundesliga]]
+|10||0||0||0||colspan="2"|—||colspan="2"|—||10||0
+|-
+|[[Floridsdorfer AC]] (loan)
+|[[2016–17 Austrian Football First League|2016–17]]
+|[[Austrian Football Second League|2. Liga]]
+|23||0||1||0||colspan="2"|—||colspan="2"|—||24||0
+|-
+|rowspan="7"|[[LASK Linz|LASK]]
+|[[2017–18 Austrian Football Bundesliga|2017–18]]
+|Austrian Bundesliga
+|1||0||0||0||colspan="2"|—||colspan="2"|—||1||0
+|-
+|[[2018–19 Austrian Football Bundesliga|2018–19]]
+|Austrian Bundesliga
+|31||0||5||0||4{{efn|name=UEL|Appearance(s) in [[UEFA Europa League]]}}||0||colspan="2"|—||40||0
+|-
+|[[2019–20 LASK season|2019–20]]
+|Austrian Bundesliga
+|32||0||4||0||14{{efn|Ten appearances in UEFA Europa League, four appearances in [[UEFA Champions League]]}}||0||colspan="2"|—||50||0
+|-
+|[[2020–21 LASK season|2020–21]]
+|Austrian Bundesliga
+|30||0||6||0||8{{efn|name=UEL}}||0||colspan="2"|—||44||0
+|-
+|[[2021–22 LASK season|2021–22]]
+|Austrian Bundesliga
+|33||0||3||0||11{{efn|name=UECL|Appearance(s) in [[UEFA Conference League|UEFA Europa Conference League]]}}||0||colspan="2"|—||47||0
+|-
+|[[2022–23 LASK season|2022–23]]
+|Austrian Bundesliga
+|24||0||5||0||0||0||colspan="2"|—||30||0
+|-
+!colspan="2"|Total
+!152!!0!!20!!0!!40!!0!!0!!0!!212!!0
+|-
+|rowspan="4"|[[FC Red Bull Salzburg|Red Bull Salzburg]]
+|[[2023–24 FC Red Bull Salzburg season|2023–24]]
+|Austrian Bundesliga
+|28||0||3||0||6{{efn|name=UCL|Appearance(s) in UEFA Champions League}}||0||0||0||37||0
+|-
+|[[2024–25 FC Red Bull Salzburg season|2024–25]]
+|Austrian Bundesliga
+|21||0||2||0||4{{efn|name=UCL}}||0||0||0||27||0
+|-
+|[[2025–26 FC Red Bull Salzburg season|2025–26]]
+|Austrian Bundesliga
+|31||0||5||0||11{{efn|Four appearances in UEFA Champions League, seven appearances in UEFA Europa League}}||0||colspan="2"|—||47||0
+|-
+!colspan="2"|Total
+!80!!0!!10!!0!!21!!0!!0!!0!!111!!0
+|-
+!colspan="3"|Career total
+!265!!0!!32!!0!!61!!0!!0!!0!!358!!0
+|}
+{{Notelist}}
+
+===International===
+{{updated|match played 1 June 2026}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="8"|[[Austria national football team|Austria]]
+|2019||1||0
+|-
+|2020||2||0
+|-
+|2021||3||0
+|-
+|2022||1||0
+|-
+|2023||7||0
+|-
+|2024||3||0
+|-
+|2025||7||0
+|-
+|2026||2||0
+|-
+!colspan="2"|Total||26||0
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category}}
+* [https://www.redbullsalzburg.at/en/squad/alexander-schlager Profile] at the FC Red Bull Salzburg website
+* {{ÖFB player|244781}}
+* {{ÖFB player|1003807}} (national team)
+* {{UEFA player}}
+* {{Instagram}}
+
+{{FC Red Bull Salzburg squad}}
+{{Navboxes
+| title = Austria squads
+| bg = #ED2939
+| fg = white
+| bordercolor = #860909
+| list1 =
+{{Austria squad UEFA Euro 2020}}
+{{Austria squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Schlager, Alexander}}
+[[Category:1996 births]]
+[[Category:Living people]]
+[[Category:Austrian men's footballers]]
+[[Category:Austria men's international footballers]]
+[[Category:Austrian Football Bundesliga players]]
+[[Category:2. Liga (Austria) players]]
+[[Category:FC Red Bull Salzburg players]]
+[[Category:Floridsdorfer AC players]]
+[[Category:SV Grödig players]]
+[[Category:FC Liefering players]]
+[[Category:RB Leipzig players]]
+[[Category:UEFA Euro 2020 players]]
+[[Category:Austrian expatriate men's footballers]]
+[[Category:Expatriate men's footballers in Germany]]
+[[Category:Austrian expatriate sportspeople in Germany]]
+[[Category:Men's association football goalkeepers]]
+[[Category:LASK players]]
+[[Category:Footballers from Salzburg]]
+[[Category:21st-century Austrian sportsmen]]
+[[Category:2026 FIFA World Cup players]]

@@ -1,0 +1,16 @@
+{
+ "team": "URU",
+ "source": "Barca Blaugranes (SB Nation)",
+ "url": "https://www.barcablaugranes.com/barcelona-internationals/122838/barcelona-star-ronald-araujo-suffers-injury-before-world-cup-2026-as-uruguay-issue-statement",
+ "title": "Barcelona star Ronald Araujo suffers injury before World Cup 2026 as Uruguay issue statement",
+ "news_date": "2026-06-08",
+ "published": "2026-06-08T08:18:28+00:00",
+ "tier": "",
+ "lang": "",
+ "asof": "2026-06-10",
+ "fetched": "2026-06-13_0748",
+ "method": "jsonld:articleBody",
+ "status": "ok",
+ "original_text": "Barcelona defender Ronald Araujo has sustained a minor muscle injury ahead of World Cup 2026 with Uruguay.\nThe center-back has been named in Marcelo Bielsa’s squad for the tournament but is now taking a quick trip back to Barcelona for treatment.\nThe national team have issued a statement to clarify the situation\n“To help resolve a muscle strain, the player will receive medical treatment from professionals who have treated him previously.\n“The coaching staff and the AUF medical team agreed with this decision. He will not participate in group activities on Monday, rejoining the team on Tuesday the 9th, when they will travel that night to the 2026 FIFA World Cup.”\nAccording to Ole, it’s thought “highly unlikely” that Araujo will play Uruguay’s first game of the World Cup but it is hoped he can recover in time to face Cape Verde on June 22nd and Spain on June 27th.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

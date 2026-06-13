@@ -1,0 +1,1953 @@
+[
+ {
+  "player_id": "195736",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/195736",
+  "name": "FlorianGrillitsch",
+  "shirt_number": 27,
+  "club": "Joined:",
+  "club_id": "1075",
+  "market_value": "€2.50m",
+  "market_value_numeric": 2500000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Outfitter:",
+  "nationality": "Portugal",
+  "citizenships": [
+   "Portugal",
+   "Austria",
+   "Austria",
+   "Austria",
+   "Austria",
+   "Austria"
+  ],
+  "market_value_history": [
+   {
+    "date": "Jan 29, 2014",
+    "value": "€50k",
+    "value_numeric": 50000,
+    "club": "SV Werder Bremen U19",
+    "age": "18"
+   },
+   {
+    "date": "Feb 20, 2014",
+    "value": "€75k",
+    "value_numeric": 75000,
+    "club": "SV Werder Bremen U19",
+    "age": "18"
+   },
+   {
+    "date": "Aug 18, 2014",
+    "value": "€75k",
+    "value_numeric": 75000,
+    "club": "SV Werder Bremen II",
+    "age": "19"
+   },
+   {
+    "date": "Feb 8, 2015",
+    "value": "€100k",
+    "value_numeric": 100000,
+    "club": "SV Werder Bremen II",
+    "age": "19"
+   },
+   {
+    "date": "Jul 1, 2015",
+    "value": "€200k",
+    "value_numeric": 200000,
+    "club": "SV Werder Bremen",
+    "age": "19"
+   },
+   {
+    "date": "Oct 16, 2015",
+    "value": "€500k",
+    "value_numeric": 500000,
+    "club": "SV Werder Bremen",
+    "age": "20"
+   },
+   {
+    "date": "Feb 15, 2016",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "SV Werder Bremen",
+    "age": "20"
+   },
+   {
+    "date": "Apr 13, 2016",
+    "value": "€2.50m",
+    "value_numeric": 2500000,
+    "club": "SV Werder Bremen",
+    "age": "20"
+   },
+   {
+    "date": "Jul 22, 2016",
+    "value": "€4.00m",
+    "value_numeric": 4000000,
+    "club": "SV Werder Bremen",
+    "age": "20"
+   },
+   {
+    "date": "Feb 7, 2017",
+    "value": "€4.00m",
+    "value_numeric": 4000000,
+    "club": "SV Werder Bremen",
+    "age": "21"
+   },
+   {
+    "date": "Jun 19, 2017",
+    "value": "€4.00m",
+    "value_numeric": 4000000,
+    "club": "SV Werder Bremen",
+    "age": "21"
+   },
+   {
+    "date": "Dec 28, 2017",
+    "value": "€4.50m",
+    "value_numeric": 4500000,
+    "club": "TSG 1899 Hoffenheim",
+    "age": "22"
+   },
+   {
+    "date": "Apr 4, 2018",
+    "value": "€7.50m",
+    "value_numeric": 7500000,
+    "club": "TSG 1899 Hoffenheim",
+    "age": "22"
+   },
+   {
+    "date": "Jun 5, 2018",
+    "value": "€10.00m",
+    "value_numeric": 10000000,
+    "club": "TSG 1899 Hoffenheim",
+    "age": "22"
+   },
+   {
+    "date": "Aug 22, 2018",
+    "value": "€15.00m",
+    "value_numeric": 15000000,
+    "club": "TSG 1899 Hoffenheim",
+    "age": "23"
+   },
+   {
+    "date": "Oct 22, 2018",
+    "value": "€20.00m",
+    "value_numeric": 20000000,
+    "club": "TSG 1899 Hoffenheim",
+    "age": "23"
+   },
+   {
+    "date": "Dec 18, 2018",
+    "value": "€20.00m",
+    "value_numeric": 20000000,
+    "club": "TSG 1899 Hoffenheim",
+    "age": "23"
+   },
+   {
+    "date": "Jun 5, 2019",
+    "value": "€22.00m",
+    "value_numeric": 22000000,
+    "club": "TSG 1899 Hoffenheim",
+    "age": "23"
+   },
+   {
+    "date": "Dec 17, 2019",
+    "value": "€22.00m",
+    "value_numeric": 22000000,
+    "club": "TSG 1899 Hoffenheim",
+    "age": "24"
+   },
+   {
+    "date": "Mar 11, 2020",
+    "value": "€25.00m",
+    "value_numeric": 25000000,
+    "club": "TSG 1899 Hoffenheim",
+    "age": "24"
+   },
+   {
+    "date": "Apr 8, 2020",
+    "value": "€20.00m",
+    "value_numeric": 20000000,
+    "club": "TSG 1899 Hoffenheim",
+    "age": "24"
+   },
+   {
+    "date": "Feb 10, 2021",
+    "value": "€20.00m",
+    "value_numeric": 20000000,
+    "club": "TSG 1899 Hoffenheim",
+    "age": "25"
+   },
+   {
+    "date": "May 27, 2021",
+    "value": "€18.00m",
+    "value_numeric": 18000000,
+    "club": "TSG 1899 Hoffenheim",
+    "age": "25"
+   },
+   {
+    "date": "Oct 7, 2021",
+    "value": "€16.00m",
+    "value_numeric": 16000000,
+    "club": "TSG 1899 Hoffenheim",
+    "age": "26"
+   },
+   {
+    "date": "Dec 22, 2021",
+    "value": "€16.00m",
+    "value_numeric": 16000000,
+    "club": "TSG 1899 Hoffenheim",
+    "age": "26"
+   },
+   {
+    "date": "Jun 9, 2022",
+    "value": "€16.00m",
+    "value_numeric": 16000000,
+    "club": "TSG 1899 Hoffenheim",
+    "age": "26"
+   },
+   {
+    "date": "Nov 11, 2022",
+    "value": "€10.00m",
+    "value_numeric": 10000000,
+    "club": "Ajax Amsterdam",
+    "age": "27"
+   },
+   {
+    "date": "Mar 17, 2023",
+    "value": "€8.00m",
+    "value_numeric": 8000000,
+    "club": "Ajax Amsterdam",
+    "age": "27"
+   },
+   {
+    "date": "Jun 23, 2023",
+    "value": "€6.50m",
+    "value_numeric": 6500000,
+    "club": "Ajax Amsterdam",
+    "age": "27"
+   },
+   {
+    "date": "Dec 14, 2023",
+    "value": "€6.50m",
+    "value_numeric": 6500000,
+    "club": "TSG 1899 Hoffenheim",
+    "age": "28"
+   },
+   {
+    "date": "May 29, 2024",
+    "value": "€6.50m",
+    "value_numeric": 6500000,
+    "club": "TSG 1899 Hoffenheim",
+    "age": "28"
+   },
+   {
+    "date": "Dec 20, 2024",
+    "value": "€3.50m",
+    "value_numeric": 3500000,
+    "club": "TSG 1899 Hoffenheim",
+    "age": "29"
+   },
+   {
+    "date": "Mar 21, 2025",
+    "value": "€3.00m",
+    "value_numeric": 3000000,
+    "club": "Real Valladolid CF",
+    "age": "29"
+   },
+   {
+    "date": "Jun 9, 2025",
+    "value": "€2.00m",
+    "value_numeric": 2000000,
+    "club": "Real Valladolid CF",
+    "age": "29"
+   },
+   {
+    "date": "Dec 18, 2025",
+    "value": "€2.00m",
+    "value_numeric": 2000000,
+    "club": "SC Braga",
+    "age": "30"
+   },
+   {
+    "date": "May 28, 2026",
+    "value": "€2.50m",
+    "value_numeric": 2500000,
+    "club": "SC Braga",
+    "age": "30"
+   }
+  ],
+  "peak_market_value": 25000000,
+  "transfers": [],
+  "_our_pid": "per_florian_grillitsch"
+ },
+ {
+  "player_id": "120205",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/120205",
+  "name": "MichaelGregoritsch",
+  "shirt_number": 38,
+  "club": "Joined:",
+  "club_id": "167",
+  "market_value": "€1.50m",
+  "market_value_numeric": 1500000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Outfitter:",
+  "nationality": "Germany",
+  "citizenships": [
+   "Germany",
+   "Austria",
+   "Austria",
+   "Austria",
+   "Austria",
+   "Austria"
+  ],
+  "market_value_history": [
+   {
+    "date": "Apr 25, 2010",
+    "value": "€50k",
+    "value_numeric": 50000,
+    "club": "SV Kapfenberg II",
+    "age": "16"
+   },
+   {
+    "date": "Jun 22, 2010",
+    "value": "€100k",
+    "value_numeric": 100000,
+    "club": "SV Kapfenberg II",
+    "age": "16"
+   },
+   {
+    "date": "Dec 28, 2010",
+    "value": "€200k",
+    "value_numeric": 200000,
+    "club": "SV Kapfenberg",
+    "age": "16"
+   },
+   {
+    "date": "Apr 7, 2011",
+    "value": "€250k",
+    "value_numeric": 250000,
+    "club": "SV Kapfenberg",
+    "age": "16"
+   },
+   {
+    "date": "Sep 21, 2011",
+    "value": "€350k",
+    "value_numeric": 350000,
+    "club": "SV Kapfenberg",
+    "age": "17"
+   },
+   {
+    "date": "Dec 30, 2011",
+    "value": "€350k",
+    "value_numeric": 350000,
+    "club": "SV Kapfenberg",
+    "age": "17"
+   },
+   {
+    "date": "May 30, 2012",
+    "value": "€200k",
+    "value_numeric": 200000,
+    "club": "SV Kapfenberg",
+    "age": "18"
+   },
+   {
+    "date": "Jan 13, 2013",
+    "value": "€200k",
+    "value_numeric": 200000,
+    "club": "TSG 1899 Hoffenheim",
+    "age": "18"
+   },
+   {
+    "date": "Jun 30, 2013",
+    "value": "€200k",
+    "value_numeric": 200000,
+    "club": "TSG 1899 Hoffenheim",
+    "age": "19"
+   },
+   {
+    "date": "Jan 20, 2014",
+    "value": "€450k",
+    "value_numeric": 450000,
+    "club": "FC St. Pauli",
+    "age": "19"
+   },
+   {
+    "date": "Jun 30, 2014",
+    "value": "€450k",
+    "value_numeric": 450000,
+    "club": "TSG 1899 Hoffenheim",
+    "age": "20"
+   },
+   {
+    "date": "Oct 1, 2014",
+    "value": "€600k",
+    "value_numeric": 600000,
+    "club": "VfL Bochum",
+    "age": "20"
+   },
+   {
+    "date": "Jan 13, 2015",
+    "value": "€600k",
+    "value_numeric": 600000,
+    "club": "VfL Bochum",
+    "age": "20"
+   },
+   {
+    "date": "Jul 1, 2015",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "VfL Bochum",
+    "age": "21"
+   },
+   {
+    "date": "Oct 16, 2015",
+    "value": "€3.00m",
+    "value_numeric": 3000000,
+    "club": "Hamburger SV",
+    "age": "21"
+   },
+   {
+    "date": "Feb 15, 2016",
+    "value": "€3.50m",
+    "value_numeric": 3500000,
+    "club": "Hamburger SV",
+    "age": "21"
+   },
+   {
+    "date": "Jul 22, 2016",
+    "value": "€3.50m",
+    "value_numeric": 3500000,
+    "club": "Hamburger SV",
+    "age": "22"
+   },
+   {
+    "date": "Feb 7, 2017",
+    "value": "€3.50m",
+    "value_numeric": 3500000,
+    "club": "Hamburger SV",
+    "age": "22"
+   },
+   {
+    "date": "Jun 19, 2017",
+    "value": "€3.50m",
+    "value_numeric": 3500000,
+    "club": "Hamburger SV",
+    "age": "23"
+   },
+   {
+    "date": "Oct 18, 2017",
+    "value": "€5.00m",
+    "value_numeric": 5000000,
+    "club": "FC Augsburg",
+    "age": "23"
+   },
+   {
+    "date": "Dec 28, 2017",
+    "value": "€9.00m",
+    "value_numeric": 9000000,
+    "club": "FC Augsburg",
+    "age": "23"
+   },
+   {
+    "date": "Apr 4, 2018",
+    "value": "€13.00m",
+    "value_numeric": 13000000,
+    "club": "FC Augsburg",
+    "age": "23"
+   },
+   {
+    "date": "Jun 5, 2018",
+    "value": "€14.00m",
+    "value_numeric": 14000000,
+    "club": "FC Augsburg",
+    "age": "24"
+   },
+   {
+    "date": "Oct 22, 2018",
+    "value": "€18.00m",
+    "value_numeric": 18000000,
+    "club": "FC Augsburg",
+    "age": "24"
+   },
+   {
+    "date": "Dec 18, 2018",
+    "value": "€20.00m",
+    "value_numeric": 20000000,
+    "club": "FC Augsburg",
+    "age": "24"
+   },
+   {
+    "date": "Mar 6, 2019",
+    "value": "€16.00m",
+    "value_numeric": 16000000,
+    "club": "FC Augsburg",
+    "age": "24"
+   },
+   {
+    "date": "Jun 5, 2019",
+    "value": "€12.00m",
+    "value_numeric": 12000000,
+    "club": "FC Augsburg",
+    "age": "25"
+   },
+   {
+    "date": "Dec 17, 2019",
+    "value": "€7.00m",
+    "value_numeric": 7000000,
+    "club": "FC Augsburg",
+    "age": "25"
+   },
+   {
+    "date": "Apr 8, 2020",
+    "value": "€5.50m",
+    "value_numeric": 5500000,
+    "club": "FC Schalke 04",
+    "age": "25"
+   },
+   {
+    "date": "Sep 16, 2020",
+    "value": "€4.50m",
+    "value_numeric": 4500000,
+    "club": "FC Augsburg",
+    "age": "26"
+   },
+   {
+    "date": "Feb 10, 2021",
+    "value": "€4.00m",
+    "value_numeric": 4000000,
+    "club": "FC Augsburg",
+    "age": "26"
+   },
+   {
+    "date": "May 27, 2021",
+    "value": "€3.00m",
+    "value_numeric": 3000000,
+    "club": "FC Augsburg",
+    "age": "27"
+   },
+   {
+    "date": "Oct 7, 2021",
+    "value": "€2.00m",
+    "value_numeric": 2000000,
+    "club": "FC Augsburg",
+    "age": "27"
+   },
+   {
+    "date": "Dec 22, 2021",
+    "value": "€2.00m",
+    "value_numeric": 2000000,
+    "club": "FC Augsburg",
+    "age": "27"
+   },
+   {
+    "date": "Mar 24, 2022",
+    "value": "€3.50m",
+    "value_numeric": 3500000,
+    "club": "FC Augsburg",
+    "age": "27"
+   },
+   {
+    "date": "Jun 9, 2022",
+    "value": "€4.50m",
+    "value_numeric": 4500000,
+    "club": "FC Augsburg",
+    "age": "28"
+   },
+   {
+    "date": "Sep 21, 2022",
+    "value": "€6.00m",
+    "value_numeric": 6000000,
+    "club": "SC Freiburg",
+    "age": "28"
+   },
+   {
+    "date": "Nov 9, 2022",
+    "value": "€8.00m",
+    "value_numeric": 8000000,
+    "club": "SC Freiburg",
+    "age": "28"
+   },
+   {
+    "date": "Jun 22, 2023",
+    "value": "€8.00m",
+    "value_numeric": 8000000,
+    "club": "SC Freiburg",
+    "age": "29"
+   },
+   {
+    "date": "Dec 14, 2023",
+    "value": "€8.00m",
+    "value_numeric": 8000000,
+    "club": "SC Freiburg",
+    "age": "29"
+   },
+   {
+    "date": "May 29, 2024",
+    "value": "€8.00m",
+    "value_numeric": 8000000,
+    "club": "SC Freiburg",
+    "age": "30"
+   },
+   {
+    "date": "Dec 20, 2024",
+    "value": "€6.00m",
+    "value_numeric": 6000000,
+    "club": "SC Freiburg",
+    "age": "30"
+   },
+   {
+    "date": "Mar 27, 2025",
+    "value": "€4.00m",
+    "value_numeric": 4000000,
+    "club": "SC Freiburg",
+    "age": "30"
+   },
+   {
+    "date": "Jun 5, 2025",
+    "value": "€3.00m",
+    "value_numeric": 3000000,
+    "club": "SC Freiburg",
+    "age": "31"
+   },
+   {
+    "date": "Dec 15, 2025",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "Bröndby IF",
+    "age": "31"
+   },
+   {
+    "date": "May 27, 2026",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "FC Augsburg",
+    "age": "32"
+   }
+  ],
+  "peak_market_value": 20000000,
+  "transfers": [],
+  "_our_pid": "per_michael_gregoritsch"
+ },
+ {
+  "player_id": "438961",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/438961",
+  "name": "MichaelSvoboda",
+  "shirt_number": 30,
+  "club": "Joined:",
+  "club_id": "607",
+  "market_value": "€3.50m",
+  "market_value_numeric": 3500000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Feb 19, 2026",
+  "nationality": "Italy",
+  "citizenships": [
+   "Italy",
+   "Austria",
+   "Austria",
+   "Austria",
+   "Austria",
+   "Austria"
+  ],
+  "market_value_history": [
+   {
+    "date": "Jul 2, 2018",
+    "value": "€100k",
+    "value_numeric": 100000,
+    "club": "WSG Wattens",
+    "age": "19"
+   },
+   {
+    "date": "Dec 1, 2018",
+    "value": "€200k",
+    "value_numeric": 200000,
+    "club": "WSG Wattens",
+    "age": "20"
+   },
+   {
+    "date": "Jun 1, 2019",
+    "value": "€250k",
+    "value_numeric": 250000,
+    "club": "WSG Wattens",
+    "age": "20"
+   },
+   {
+    "date": "Sep 3, 2019",
+    "value": "€350k",
+    "value_numeric": 350000,
+    "club": "WSG Tirol",
+    "age": "20"
+   },
+   {
+    "date": "Dec 16, 2019",
+    "value": "€400k",
+    "value_numeric": 400000,
+    "club": "WSG Tirol",
+    "age": "21"
+   },
+   {
+    "date": "Apr 8, 2020",
+    "value": "€350k",
+    "value_numeric": 350000,
+    "club": "WSG Tirol",
+    "age": "21"
+   },
+   {
+    "date": "Jul 22, 2020",
+    "value": "€450k",
+    "value_numeric": 450000,
+    "club": "WSG Tirol",
+    "age": "21"
+   },
+   {
+    "date": "Feb 22, 2021",
+    "value": "€450k",
+    "value_numeric": 450000,
+    "club": "Venezia FC",
+    "age": "22"
+   },
+   {
+    "date": "Jun 24, 2021",
+    "value": "€600k",
+    "value_numeric": 600000,
+    "club": "Venezia FC",
+    "age": "22"
+   },
+   {
+    "date": "Oct 14, 2021",
+    "value": "€900k",
+    "value_numeric": 900000,
+    "club": "Venezia FC",
+    "age": "22"
+   },
+   {
+    "date": "Dec 28, 2021",
+    "value": "€900k",
+    "value_numeric": 900000,
+    "club": "Venezia FC",
+    "age": "23"
+   },
+   {
+    "date": "Jun 7, 2022",
+    "value": "€900k",
+    "value_numeric": 900000,
+    "club": "Venezia FC",
+    "age": "23"
+   },
+   {
+    "date": "Dec 22, 2022",
+    "value": "€650k",
+    "value_numeric": 650000,
+    "club": "Venezia FC",
+    "age": "24"
+   },
+   {
+    "date": "Jun 12, 2023",
+    "value": "€900k",
+    "value_numeric": 900000,
+    "club": "Venezia FC",
+    "age": "24"
+   },
+   {
+    "date": "Dec 27, 2023",
+    "value": "€900k",
+    "value_numeric": 900000,
+    "club": "Venezia FC",
+    "age": "25"
+   },
+   {
+    "date": "Jun 3, 2024",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "Venezia FC",
+    "age": "25"
+   },
+   {
+    "date": "Dec 18, 2024",
+    "value": "€3.00m",
+    "value_numeric": 3000000,
+    "club": "Venezia FC",
+    "age": "26"
+   },
+   {
+    "date": "Jun 17, 2025",
+    "value": "€2.50m",
+    "value_numeric": 2500000,
+    "club": "Venezia FC",
+    "age": "26"
+   },
+   {
+    "date": "Oct 6, 2025",
+    "value": "€2.00m",
+    "value_numeric": 2000000,
+    "club": "Venezia FC",
+    "age": "26"
+   },
+   {
+    "date": "Dec 11, 2025",
+    "value": "€2.00m",
+    "value_numeric": 2000000,
+    "club": "Venezia FC",
+    "age": "27"
+   },
+   {
+    "date": "Mar 17, 2026",
+    "value": "€3.00m",
+    "value_numeric": 3000000,
+    "club": "Venezia FC",
+    "age": "27"
+   },
+   {
+    "date": "Jun 4, 2026",
+    "value": "€3.50m",
+    "value_numeric": 3500000,
+    "club": "Venezia FC",
+    "age": "27"
+   }
+  ],
+  "peak_market_value": 3500000,
+  "transfers": [],
+  "_our_pid": "per_michael_svoboda"
+ },
+ {
+  "player_id": "223972",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/223972",
+  "name": "PatrickPentz",
+  "shirt_number": 1,
+  "club": "Joined:",
+  "club_id": "206",
+  "market_value": "€2.20m",
+  "market_value_numeric": 2200000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Outfitter:",
+  "nationality": "Denmark",
+  "citizenships": [
+   "Denmark",
+   "Austria",
+   "Austria",
+   "Austria",
+   "Austria",
+   "Austria"
+  ],
+  "market_value_history": [
+   {
+    "date": "Jul 14, 2015",
+    "value": "€50k",
+    "value_numeric": 50000,
+    "club": "Austria Vienna",
+    "age": "18"
+   },
+   {
+    "date": "Dec 29, 2015",
+    "value": "€50k",
+    "value_numeric": 50000,
+    "club": "Austria Vienna",
+    "age": "18"
+   },
+   {
+    "date": "Jun 1, 2016",
+    "value": "€100k",
+    "value_numeric": 100000,
+    "club": "Austria Vienna",
+    "age": "19"
+   },
+   {
+    "date": "Dec 22, 2016",
+    "value": "€100k",
+    "value_numeric": 100000,
+    "club": "Austria Vienna",
+    "age": "19"
+   },
+   {
+    "date": "Jun 2, 2017",
+    "value": "€150k",
+    "value_numeric": 150000,
+    "club": "Austria Vienna",
+    "age": "20"
+   },
+   {
+    "date": "Oct 11, 2017",
+    "value": "€350k",
+    "value_numeric": 350000,
+    "club": "Austria Vienna",
+    "age": "20"
+   },
+   {
+    "date": "Jan 2, 2018",
+    "value": "€600k",
+    "value_numeric": 600000,
+    "club": "Austria Vienna",
+    "age": "21"
+   },
+   {
+    "date": "Mar 30, 2018",
+    "value": "€1.00m",
+    "value_numeric": 1000000,
+    "club": "Austria Vienna",
+    "age": "21"
+   },
+   {
+    "date": "Jun 14, 2018",
+    "value": "€1.00m",
+    "value_numeric": 1000000,
+    "club": "Austria Vienna",
+    "age": "21"
+   },
+   {
+    "date": "Dec 19, 2018",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "Austria Vienna",
+    "age": "21"
+   },
+   {
+    "date": "Jun 3, 2019",
+    "value": "€2.00m",
+    "value_numeric": 2000000,
+    "club": "Austria Vienna",
+    "age": "22"
+   },
+   {
+    "date": "Sep 3, 2019",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "Austria Vienna",
+    "age": "22"
+   },
+   {
+    "date": "Dec 16, 2019",
+    "value": "€1.00m",
+    "value_numeric": 1000000,
+    "club": "Austria Vienna",
+    "age": "22"
+   },
+   {
+    "date": "Apr 8, 2020",
+    "value": "€800k",
+    "value_numeric": 800000,
+    "club": "Austria Vienna",
+    "age": "23"
+   },
+   {
+    "date": "Jul 22, 2020",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "Austria Vienna",
+    "age": "23"
+   },
+   {
+    "date": "Dec 21, 2020",
+    "value": "€1.80m",
+    "value_numeric": 1800000,
+    "club": "Austria Vienna",
+    "age": "23"
+   },
+   {
+    "date": "Mar 24, 2021",
+    "value": "€2.50m",
+    "value_numeric": 2500000,
+    "club": "Austria Vienna",
+    "age": "24"
+   },
+   {
+    "date": "Jun 2, 2021",
+    "value": "€2.50m",
+    "value_numeric": 2500000,
+    "club": "Austria Vienna",
+    "age": "24"
+   },
+   {
+    "date": "Dec 16, 2021",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "Austria Vienna",
+    "age": "24"
+   },
+   {
+    "date": "May 27, 2022",
+    "value": "€1.70m",
+    "value_numeric": 1700000,
+    "club": "Austria Vienna",
+    "age": "25"
+   },
+   {
+    "date": "Sep 19, 2022",
+    "value": "€2.00m",
+    "value_numeric": 2000000,
+    "club": "Stade Reims",
+    "age": "25"
+   },
+   {
+    "date": "Nov 2, 2022",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "Stade Reims",
+    "age": "25"
+   },
+   {
+    "date": "Jun 22, 2023",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "Bayer 04 Leverkusen",
+    "age": "26"
+   },
+   {
+    "date": "Dec 21, 2023",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "Bröndby IF",
+    "age": "26"
+   },
+   {
+    "date": "Jun 10, 2024",
+    "value": "€3.00m",
+    "value_numeric": 3000000,
+    "club": "Bröndby IF",
+    "age": "27"
+   },
+   {
+    "date": "Dec 9, 2024",
+    "value": "€3.00m",
+    "value_numeric": 3000000,
+    "club": "Bröndby IF",
+    "age": "27"
+   },
+   {
+    "date": "Jun 16, 2025",
+    "value": "€2.50m",
+    "value_numeric": 2500000,
+    "club": "Bröndby IF",
+    "age": "28"
+   },
+   {
+    "date": "Dec 15, 2025",
+    "value": "€2.20m",
+    "value_numeric": 2200000,
+    "club": "Bröndby IF",
+    "age": "28"
+   },
+   {
+    "date": "May 25, 2026",
+    "value": "€2.20m",
+    "value_numeric": 2200000,
+    "club": "Bröndby IF",
+    "age": "29"
+   }
+  ],
+  "peak_market_value": 3000000,
+  "transfers": [],
+  "_our_pid": "per_patrick_pentz"
+ },
+ {
+  "player_id": "533295",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/533295",
+  "name": "PatrickWimmer",
+  "shirt_number": 39,
+  "club": "Joined:",
+  "club_id": "82",
+  "market_value": "€12.00m",
+  "market_value_numeric": 12000000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Outfitter:",
+  "nationality": "Germany",
+  "citizenships": [
+   "Germany",
+   "Austria",
+   "Austria",
+   "Austria",
+   "Austria",
+   "Austria"
+  ],
+  "market_value_history": [
+   {
+    "date": "Jul 5, 2019",
+    "value": "€100k",
+    "value_numeric": 100000,
+    "club": "Young Violets Austria Wien",
+    "age": "18"
+   },
+   {
+    "date": "Dec 3, 2019",
+    "value": "€200k",
+    "value_numeric": 200000,
+    "club": "Young Violets Austria Wien",
+    "age": "18"
+   },
+   {
+    "date": "Jul 22, 2020",
+    "value": "€800k",
+    "value_numeric": 800000,
+    "club": "Austria Vienna",
+    "age": "19"
+   },
+   {
+    "date": "Oct 12, 2020",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "Austria Vienna",
+    "age": "19"
+   },
+   {
+    "date": "Dec 21, 2020",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "Austria Vienna",
+    "age": "19"
+   },
+   {
+    "date": "Jun 2, 2021",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "Austria Vienna",
+    "age": "20"
+   },
+   {
+    "date": "Dec 22, 2021",
+    "value": "€4.00m",
+    "value_numeric": 4000000,
+    "club": "Arminia Bielefeld",
+    "age": "20"
+   },
+   {
+    "date": "Mar 24, 2022",
+    "value": "€8.00m",
+    "value_numeric": 8000000,
+    "club": "Arminia Bielefeld",
+    "age": "20"
+   },
+   {
+    "date": "Jun 9, 2022",
+    "value": "€8.00m",
+    "value_numeric": 8000000,
+    "club": "Arminia Bielefeld",
+    "age": "21"
+   },
+   {
+    "date": "Nov 9, 2022",
+    "value": "€8.00m",
+    "value_numeric": 8000000,
+    "club": "VfL Wolfsburg",
+    "age": "21"
+   },
+   {
+    "date": "Mar 29, 2023",
+    "value": "€12.00m",
+    "value_numeric": 12000000,
+    "club": "VfL Wolfsburg",
+    "age": "21"
+   },
+   {
+    "date": "Jun 22, 2023",
+    "value": "€18.00m",
+    "value_numeric": 18000000,
+    "club": "VfL Wolfsburg",
+    "age": "22"
+   },
+   {
+    "date": "Dec 14, 2023",
+    "value": "€18.00m",
+    "value_numeric": 18000000,
+    "club": "VfL Wolfsburg",
+    "age": "22"
+   },
+   {
+    "date": "May 29, 2024",
+    "value": "€15.00m",
+    "value_numeric": 15000000,
+    "club": "VfL Wolfsburg",
+    "age": "22"
+   },
+   {
+    "date": "Dec 20, 2024",
+    "value": "€12.00m",
+    "value_numeric": 12000000,
+    "club": "VfL Wolfsburg",
+    "age": "23"
+   },
+   {
+    "date": "Mar 27, 2025",
+    "value": "€15.00m",
+    "value_numeric": 15000000,
+    "club": "VfL Wolfsburg",
+    "age": "23"
+   },
+   {
+    "date": "Jun 5, 2025",
+    "value": "€15.00m",
+    "value_numeric": 15000000,
+    "club": "VfL Wolfsburg",
+    "age": "24"
+   },
+   {
+    "date": "Dec 19, 2025",
+    "value": "€15.00m",
+    "value_numeric": 15000000,
+    "club": "VfL Wolfsburg",
+    "age": "24"
+   },
+   {
+    "date": "May 27, 2026",
+    "value": "€12.00m",
+    "value_numeric": 12000000,
+    "club": "VfL Wolfsburg",
+    "age": "24"
+   }
+  ],
+  "peak_market_value": 18000000,
+  "transfers": [],
+  "_our_pid": "per_patrick_wimmer"
+ },
+ {
+  "player_id": "346853",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/346853",
+  "name": "RomanoSchmid",
+  "shirt_number": 20,
+  "club": "Joined:",
+  "club_id": "86",
+  "market_value": "€15.00m",
+  "market_value_numeric": 15000000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Outfitter:",
+  "nationality": "Germany",
+  "citizenships": [
+   "Germany",
+   "Austria",
+   "Austria",
+   "Austria",
+   "Austria",
+   "Austria"
+  ],
+  "market_value_history": [
+   {
+    "date": "Jul 6, 2016",
+    "value": "€100k",
+    "value_numeric": 100000,
+    "club": "SK Sturm Graz",
+    "age": "16"
+   },
+   {
+    "date": "Dec 22, 2016",
+    "value": "€100k",
+    "value_numeric": 100000,
+    "club": "SK Sturm Graz",
+    "age": "16"
+   },
+   {
+    "date": "Jun 2, 2017",
+    "value": "€100k",
+    "value_numeric": 100000,
+    "club": "SK Sturm Graz",
+    "age": "17"
+   },
+   {
+    "date": "Aug 1, 2017",
+    "value": "€350k",
+    "value_numeric": 350000,
+    "club": "SK Sturm Graz",
+    "age": "17"
+   },
+   {
+    "date": "Oct 11, 2017",
+    "value": "€500k",
+    "value_numeric": 500000,
+    "club": "Red Bull Salzburg",
+    "age": "17"
+   },
+   {
+    "date": "Jan 2, 2018",
+    "value": "€600k",
+    "value_numeric": 600000,
+    "club": "Red Bull Salzburg",
+    "age": "17"
+   },
+   {
+    "date": "Jun 14, 2018",
+    "value": "€800k",
+    "value_numeric": 800000,
+    "club": "Red Bull Salzburg",
+    "age": "18"
+   },
+   {
+    "date": "Dec 19, 2018",
+    "value": "€800k",
+    "value_numeric": 800000,
+    "club": "Red Bull Salzburg",
+    "age": "18"
+   },
+   {
+    "date": "Jun 3, 2019",
+    "value": "€800k",
+    "value_numeric": 800000,
+    "club": "Wolfsberger AC",
+    "age": "19"
+   },
+   {
+    "date": "Dec 16, 2019",
+    "value": "€1.80m",
+    "value_numeric": 1800000,
+    "club": "Wolfsberger AC",
+    "age": "19"
+   },
+   {
+    "date": "Apr 8, 2020",
+    "value": "€1.60m",
+    "value_numeric": 1600000,
+    "club": "Wolfsberger AC",
+    "age": "20"
+   },
+   {
+    "date": "Jul 22, 2020",
+    "value": "€2.00m",
+    "value_numeric": 2000000,
+    "club": "Wolfsberger AC",
+    "age": "20"
+   },
+   {
+    "date": "Feb 10, 2021",
+    "value": "€3.00m",
+    "value_numeric": 3000000,
+    "club": "SV Werder Bremen",
+    "age": "21"
+   },
+   {
+    "date": "Mar 31, 2021",
+    "value": "€5.00m",
+    "value_numeric": 5000000,
+    "club": "SV Werder Bremen",
+    "age": "21"
+   },
+   {
+    "date": "Jun 9, 2021",
+    "value": "€4.00m",
+    "value_numeric": 4000000,
+    "club": "SV Werder Bremen",
+    "age": "21"
+   },
+   {
+    "date": "Dec 15, 2021",
+    "value": "€3.00m",
+    "value_numeric": 3000000,
+    "club": "SV Werder Bremen",
+    "age": "21"
+   },
+   {
+    "date": "Jun 16, 2022",
+    "value": "€3.50m",
+    "value_numeric": 3500000,
+    "club": "SV Werder Bremen",
+    "age": "22"
+   },
+   {
+    "date": "Nov 9, 2022",
+    "value": "€4.50m",
+    "value_numeric": 4500000,
+    "club": "SV Werder Bremen",
+    "age": "22"
+   },
+   {
+    "date": "Jun 22, 2023",
+    "value": "€4.50m",
+    "value_numeric": 4500000,
+    "club": "SV Werder Bremen",
+    "age": "23"
+   },
+   {
+    "date": "Dec 14, 2023",
+    "value": "€6.50m",
+    "value_numeric": 6500000,
+    "club": "SV Werder Bremen",
+    "age": "23"
+   },
+   {
+    "date": "May 29, 2024",
+    "value": "€10.00m",
+    "value_numeric": 10000000,
+    "club": "SV Werder Bremen",
+    "age": "24"
+   },
+   {
+    "date": "Oct 9, 2024",
+    "value": "€13.00m",
+    "value_numeric": 13000000,
+    "club": "SV Werder Bremen",
+    "age": "24"
+   },
+   {
+    "date": "Dec 20, 2024",
+    "value": "€15.00m",
+    "value_numeric": 15000000,
+    "club": "SV Werder Bremen",
+    "age": "24"
+   },
+   {
+    "date": "Jun 5, 2025",
+    "value": "€17.00m",
+    "value_numeric": 17000000,
+    "club": "SV Werder Bremen",
+    "age": "25"
+   },
+   {
+    "date": "Dec 19, 2025",
+    "value": "€17.00m",
+    "value_numeric": 17000000,
+    "club": "SV Werder Bremen",
+    "age": "25"
+   },
+   {
+    "date": "Mar 20, 2026",
+    "value": "€15.00m",
+    "value_numeric": 15000000,
+    "club": "SV Werder Bremen",
+    "age": "26"
+   },
+   {
+    "date": "May 27, 2026",
+    "value": "€15.00m",
+    "value_numeric": 15000000,
+    "club": "SV Werder Bremen",
+    "age": "26"
+   }
+  ],
+  "peak_market_value": 17000000,
+  "transfers": [],
+  "_our_pid": "per_romano_schmid"
+ },
+ {
+  "player_id": "223974",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/223974",
+  "name": "StefanPosch",
+  "shirt_number": 4,
+  "club": "Joined:",
+  "club_id": "39",
+  "market_value": "€6.00m",
+  "market_value_numeric": 6000000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Social-Media:",
+  "nationality": "Germany",
+  "citizenships": [
+   "Germany",
+   "Austria",
+   "Austria",
+   "Austria",
+   "Austria",
+   "Austria"
+  ],
+  "market_value_history": [
+   {
+    "date": "Jul 3, 2014",
+    "value": "€125k",
+    "value_numeric": 125000,
+    "club": "FC Admira Wacker Mödling",
+    "age": "17"
+   },
+   {
+    "date": "Jan 11, 2015",
+    "value": "€125k",
+    "value_numeric": 125000,
+    "club": "FC Admira Wacker Mödling",
+    "age": "17"
+   },
+   {
+    "date": "Jun 17, 2015",
+    "value": "€100k",
+    "value_numeric": 100000,
+    "club": "FC Admira Wacker Mödling",
+    "age": "18"
+   },
+   {
+    "date": "Jul 8, 2015",
+    "value": "-",
+    "value_numeric": null,
+    "club": "FC Admira Wacker Mödling",
+    "age": "18"
+   },
+   {
+    "date": "Aug 9, 2016",
+    "value": "€75k",
+    "value_numeric": 75000,
+    "club": "TSG 1899 Hoffenheim II",
+    "age": "19"
+   },
+   {
+    "date": "Feb 6, 2017",
+    "value": "€100k",
+    "value_numeric": 100000,
+    "club": "TSG 1899 Hoffenheim II",
+    "age": "19"
+   },
+   {
+    "date": "Oct 18, 2017",
+    "value": "€300k",
+    "value_numeric": 300000,
+    "club": "TSG 1899 Hoffenheim",
+    "age": "20"
+   },
+   {
+    "date": "Dec 28, 2017",
+    "value": "€2.50m",
+    "value_numeric": 2500000,
+    "club": "TSG 1899 Hoffenheim",
+    "age": "20"
+   },
+   {
+    "date": "Jun 5, 2018",
+    "value": "€2.50m",
+    "value_numeric": 2500000,
+    "club": "TSG 1899 Hoffenheim",
+    "age": "21"
+   },
+   {
+    "date": "Dec 18, 2018",
+    "value": "€2.50m",
+    "value_numeric": 2500000,
+    "club": "TSG 1899 Hoffenheim",
+    "age": "21"
+   },
+   {
+    "date": "Mar 6, 2019",
+    "value": "€5.50m",
+    "value_numeric": 5500000,
+    "club": "TSG 1899 Hoffenheim",
+    "age": "21"
+   },
+   {
+    "date": "Jun 5, 2019",
+    "value": "€5.50m",
+    "value_numeric": 5500000,
+    "club": "TSG 1899 Hoffenheim",
+    "age": "22"
+   },
+   {
+    "date": "Oct 2, 2019",
+    "value": "€9.00m",
+    "value_numeric": 9000000,
+    "club": "TSG 1899 Hoffenheim",
+    "age": "22"
+   },
+   {
+    "date": "Dec 17, 2019",
+    "value": "€14.00m",
+    "value_numeric": 14000000,
+    "club": "TSG 1899 Hoffenheim",
+    "age": "22"
+   },
+   {
+    "date": "Apr 8, 2020",
+    "value": "€11.00m",
+    "value_numeric": 11000000,
+    "club": "TSG 1899 Hoffenheim",
+    "age": "22"
+   },
+   {
+    "date": "Nov 26, 2020",
+    "value": "€13.00m",
+    "value_numeric": 13000000,
+    "club": "TSG 1899 Hoffenheim",
+    "age": "23"
+   },
+   {
+    "date": "Feb 10, 2021",
+    "value": "€13.00m",
+    "value_numeric": 13000000,
+    "club": "TSG 1899 Hoffenheim",
+    "age": "23"
+   },
+   {
+    "date": "May 27, 2021",
+    "value": "€13.00m",
+    "value_numeric": 13000000,
+    "club": "TSG 1899 Hoffenheim",
+    "age": "24"
+   },
+   {
+    "date": "Oct 7, 2021",
+    "value": "€11.00m",
+    "value_numeric": 11000000,
+    "club": "TSG 1899 Hoffenheim",
+    "age": "24"
+   },
+   {
+    "date": "Dec 22, 2021",
+    "value": "€11.00m",
+    "value_numeric": 11000000,
+    "club": "TSG 1899 Hoffenheim",
+    "age": "24"
+   },
+   {
+    "date": "Jun 9, 2022",
+    "value": "€10.00m",
+    "value_numeric": 10000000,
+    "club": "TSG 1899 Hoffenheim",
+    "age": "25"
+   },
+   {
+    "date": "Sep 27, 2022",
+    "value": "€7.00m",
+    "value_numeric": 7000000,
+    "club": "Bologna FC 1909",
+    "age": "25"
+   },
+   {
+    "date": "Nov 11, 2022",
+    "value": "€7.00m",
+    "value_numeric": 7000000,
+    "club": "Bologna FC 1909",
+    "age": "25"
+   },
+   {
+    "date": "Mar 21, 2023",
+    "value": "€10.00m",
+    "value_numeric": 10000000,
+    "club": "Bologna FC 1909",
+    "age": "25"
+   },
+   {
+    "date": "Jun 15, 2023",
+    "value": "€14.00m",
+    "value_numeric": 14000000,
+    "club": "Bologna FC 1909",
+    "age": "26"
+   },
+   {
+    "date": "Dec 20, 2023",
+    "value": "€14.00m",
+    "value_numeric": 14000000,
+    "club": "Bologna FC 1909",
+    "age": "26"
+   },
+   {
+    "date": "Jun 5, 2024",
+    "value": "€14.00m",
+    "value_numeric": 14000000,
+    "club": "Bologna FC 1909",
+    "age": "27"
+   },
+   {
+    "date": "Dec 18, 2024",
+    "value": "€10.00m",
+    "value_numeric": 10000000,
+    "club": "Bologna FC 1909",
+    "age": "27"
+   },
+   {
+    "date": "Jun 17, 2025",
+    "value": "€8.00m",
+    "value_numeric": 8000000,
+    "club": "Atalanta BC",
+    "age": "28"
+   },
+   {
+    "date": "Oct 7, 2025",
+    "value": "€7.00m",
+    "value_numeric": 7000000,
+    "club": "Como 1907",
+    "age": "28"
+   },
+   {
+    "date": "Dec 23, 2025",
+    "value": "€5.50m",
+    "value_numeric": 5500000,
+    "club": "Como 1907",
+    "age": "28"
+   },
+   {
+    "date": "May 27, 2026",
+    "value": "€6.00m",
+    "value_numeric": 6000000,
+    "club": "1.FSV Mainz 05",
+    "age": "29"
+   }
+  ],
+  "peak_market_value": 14000000,
+  "transfers": [],
+  "_our_pid": "per_stefan_posch"
+ },
+ {
+  "player_id": "223979",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/223979",
+  "name": "XaverSchlager",
+  "shirt_number": 24,
+  "club": "Joined:",
+  "club_id": "23826",
+  "market_value": "€10.00m",
+  "market_value_numeric": 10000000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Outfitter:",
+  "nationality": "Germany",
+  "citizenships": [
+   "Germany",
+   "Austria",
+   "Austria",
+   "Austria",
+   "Austria",
+   "Austria"
+  ],
+  "market_value_history": [
+   {
+    "date": "Feb 4, 2015",
+    "value": "€50k",
+    "value_numeric": 50000,
+    "club": "FC Liefering",
+    "age": "17"
+   },
+   {
+    "date": "Jun 19, 2015",
+    "value": "€125k",
+    "value_numeric": 125000,
+    "club": "FC Liefering",
+    "age": "17"
+   },
+   {
+    "date": "Dec 1, 2015",
+    "value": "€250k",
+    "value_numeric": 250000,
+    "club": "FC Liefering",
+    "age": "18"
+   },
+   {
+    "date": "May 30, 2016",
+    "value": "€400k",
+    "value_numeric": 400000,
+    "club": "FC Liefering",
+    "age": "18"
+   },
+   {
+    "date": "Oct 6, 2016",
+    "value": "€500k",
+    "value_numeric": 500000,
+    "club": "Red Bull Salzburg",
+    "age": "19"
+   },
+   {
+    "date": "Dec 22, 2016",
+    "value": "€750k",
+    "value_numeric": 750000,
+    "club": "Red Bull Salzburg",
+    "age": "19"
+   },
+   {
+    "date": "Jun 2, 2017",
+    "value": "€1.25m",
+    "value_numeric": 1250000,
+    "club": "Red Bull Salzburg",
+    "age": "19"
+   },
+   {
+    "date": "Jan 2, 2018",
+    "value": "€1.75m",
+    "value_numeric": 1750000,
+    "club": "Red Bull Salzburg",
+    "age": "20"
+   },
+   {
+    "date": "Mar 30, 2018",
+    "value": "€7.00m",
+    "value_numeric": 7000000,
+    "club": "Red Bull Salzburg",
+    "age": "20"
+   },
+   {
+    "date": "Jun 14, 2018",
+    "value": "€10.00m",
+    "value_numeric": 10000000,
+    "club": "Red Bull Salzburg",
+    "age": "20"
+   },
+   {
+    "date": "Dec 19, 2018",
+    "value": "€15.00m",
+    "value_numeric": 15000000,
+    "club": "Red Bull Salzburg",
+    "age": "21"
+   },
+   {
+    "date": "Jun 3, 2019",
+    "value": "€15.00m",
+    "value_numeric": 15000000,
+    "club": "Red Bull Salzburg",
+    "age": "21"
+   },
+   {
+    "date": "Dec 17, 2019",
+    "value": "€15.00m",
+    "value_numeric": 15000000,
+    "club": "VfL Wolfsburg",
+    "age": "22"
+   },
+   {
+    "date": "Apr 8, 2020",
+    "value": "€12.00m",
+    "value_numeric": 12000000,
+    "club": "VfL Wolfsburg",
+    "age": "22"
+   },
+   {
+    "date": "Jul 8, 2020",
+    "value": "€17.00m",
+    "value_numeric": 17000000,
+    "club": "VfL Wolfsburg",
+    "age": "22"
+   },
+   {
+    "date": "Feb 10, 2021",
+    "value": "€22.00m",
+    "value_numeric": 22000000,
+    "club": "VfL Wolfsburg",
+    "age": "23"
+   },
+   {
+    "date": "May 27, 2021",
+    "value": "€27.00m",
+    "value_numeric": 27000000,
+    "club": "VfL Wolfsburg",
+    "age": "23"
+   },
+   {
+    "date": "Dec 22, 2021",
+    "value": "€27.00m",
+    "value_numeric": 27000000,
+    "club": "VfL Wolfsburg",
+    "age": "24"
+   },
+   {
+    "date": "Jun 9, 2022",
+    "value": "€27.00m",
+    "value_numeric": 27000000,
+    "club": "VfL Wolfsburg",
+    "age": "24"
+   },
+   {
+    "date": "Sep 21, 2022",
+    "value": "€22.00m",
+    "value_numeric": 22000000,
+    "club": "RB Leipzig",
+    "age": "24"
+   },
+   {
+    "date": "Nov 9, 2022",
+    "value": "€22.00m",
+    "value_numeric": 22000000,
+    "club": "RB Leipzig",
+    "age": "25"
+   },
+   {
+    "date": "Jun 22, 2023",
+    "value": "€22.00m",
+    "value_numeric": 22000000,
+    "club": "RB Leipzig",
+    "age": "25"
+   },
+   {
+    "date": "Oct 18, 2023",
+    "value": "€28.00m",
+    "value_numeric": 28000000,
+    "club": "RB Leipzig",
+    "age": "26"
+   },
+   {
+    "date": "Dec 14, 2023",
+    "value": "€28.00m",
+    "value_numeric": 28000000,
+    "club": "RB Leipzig",
+    "age": "26"
+   },
+   {
+    "date": "May 29, 2024",
+    "value": "€28.00m",
+    "value_numeric": 28000000,
+    "club": "RB Leipzig",
+    "age": "26"
+   },
+   {
+    "date": "Dec 20, 2024",
+    "value": "€28.00m",
+    "value_numeric": 28000000,
+    "club": "RB Leipzig",
+    "age": "27"
+   },
+   {
+    "date": "Mar 27, 2025",
+    "value": "€18.00m",
+    "value_numeric": 18000000,
+    "club": "RB Leipzig",
+    "age": "27"
+   },
+   {
+    "date": "Jun 5, 2025",
+    "value": "€10.00m",
+    "value_numeric": 10000000,
+    "club": "RB Leipzig",
+    "age": "27"
+   },
+   {
+    "date": "Dec 19, 2025",
+    "value": "€10.00m",
+    "value_numeric": 10000000,
+    "club": "RB Leipzig",
+    "age": "28"
+   },
+   {
+    "date": "May 27, 2026",
+    "value": "€10.00m",
+    "value_numeric": 10000000,
+    "club": "RB Leipzig",
+    "age": "28"
+   }
+  ],
+  "peak_market_value": 28000000,
+  "transfers": [],
+  "_our_pid": "per_xaver_schlager"
+ }
+]

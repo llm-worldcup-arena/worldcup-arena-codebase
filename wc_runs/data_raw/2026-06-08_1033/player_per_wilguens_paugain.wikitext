@@ -1,0 +1,180 @@
+{{short description|Haitian footballer (born 2001)}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+| name        = Wilguens Paugain
+| full_name   = Wilguens Raphael Polynice Paugain
+| birth_date  = {{birth date and age|2001|8|24|df=yes}}<ref>{{WorldFootball.net|wilguens-paugain}}</ref>
+| birth_place = [[Thomazeau]], Haiti
+| height      = 1.80m
+| currentclub = [[S.V. Zulte Waregem|Zulte Waregem]]
+| clubnumber  = 12
+| position    = [[Right-back]]
+| youthyears1 = 2007–2008
+| youthclubs1 = AS Nomexy Vincey
+| youthyears2 = 2008–2015
+| youthclubs2 = [[SAS Épinal|Épinal]]
+| youthyears3 = 2015–2019
+| youthclubs3 = [[AS Nancy Lorraine|Nancy]]
+| years1 = 2019–2022
+| clubs1 = [[AS Nancy Lorraine|Nancy II]]
+| caps1 = 5
+| goals1 = 0
+| years2 = 2022–2023 | clubs2 = [[Akritas Chlorakas]]                         | caps2 = 21 | goals2 = 0
+| years3 = 2023–2024 | clubs3 = [[FK Auda]]                                   | caps3 = 21 | goals3 = 0
+| years4 = 2024–2025 | clubs4 = [[SKN St. Pölten]]                            | caps4 = 14 | goals4 = 0
+| years5 = 2025      | clubs5 = → [[S.V. Zulte Waregem|Zulte Waregem]] (loan) | caps5 = 3  | goals5 = 0
+| years6 = 2025–     | clubs6 = [[S.V. Zulte Waregem|Zulte Waregem]]          | caps6 = 24 | goals6 = 1
+| nationalyears1 = 2018
+| nationalteam1  = [[France national under-18 football team|France U18]]
+| nationalcaps1  = 2
+| nationalgoals1 = 0
+| nationalyears2 = 2025–
+| nationalteam2  = [[Haiti national football team|Haiti]]
+| nationalcaps2  = 7
+| nationalgoals2 = 0
+| pcupdate = 11 May 2026
+| ntupdate = 21:14, 2 June 2026 (UTC)
+}}
+
+'''Wilguens Raphael Polynice Paugain''' (born 24 August 2001) is a Haitian professional football player who plays as [[right-back]] for [[S.V. Zulte Waregem|Zulte Waregem]]. A former youth international for France, he plays for the [[Haiti national football team|Haiti national team]].
+
+==Career==
+Paugain is a youth product of AS Nomexy Vincey and [[SAS Épinal|Épinal]], before moving to [[AS Nancy Lorraine|Nancy]]'s academy in 2015 where he finished his development. He debuted with their reserves in the [[Championnat National 3]] in 2019.<ref>{{Cite web|url=https://www.estrepublicain.fr/sport/2019/11/23/photos-le-duel-entre-l-asnl-et-forbach-en-r1|title=Photos . La réserve de l'ASNL domine Forbach (3-1) dans le match au sommet de Régional 1|date=23 November 2019|website=www.estrepublicain.fr}}</ref> On 22 July 2022, he transferred to the Cypriot club [[Akritas Chlorakas]].<ref>{{Cite web|url=https://www.vosgesmatin.fr/sport/2022/07/21/le-spinalien-wilguens-paugain-s-engage-en-premiere-division-chypriote|title=Football - Gazette des transferts. Le Spinalien Wilguens Paugain s'engage en première division chypriote|date=21 July 2022|website=www.vosgesmatin.fr}}</ref> In 2023, he moved to the Latvian club [[FK Auda]].<ref>{{Cite web|url=https://sportpassioninfo.com/wilguens-paugain-a-la-porte-des-grenadiers/|title=Wilguens Paugain à la porte des Grenadiers - Sport Passion Info|date=23 November 2024|website=sportpassioninfo.com}}</ref> On 31 July 2024, he transferred to the Austrian club [[S.V. Zulte Waregem|Zulte Waregem]] until 2026.<ref>{{Cite web|url=https://www.skn-stpoelten.at/skn-news/skn-st-polten-verpflichtet-wilguens-paugain|title=SKN St. Pölten verpflichtet Wilguens Paugain|website=www.skn-stpoelten.at}}</ref> On 1 February 2025, he joined [[S.V. Zulte Waregem|Zulte Waregem]] on loan for the second half of the 2024–25 season.<ref>{{Cite web|url=https://www.essevee.be/nieuws/wilguens-paugain-tweede-winteraankoop-voor-essevee|title=Wilguens Paugain tweede winteraankoop voor Essevee|website=Essevee Zulte Waregem|date=2 February 2025}}</ref>
+
+==International career==
+Born in Haiti, Paugain moved to France at a young age and is a dual-citizen. He played for the [[France national under-18 football team|France U18]]s in friendlies in 2018.<ref>{{Cite web|url=https://www.lepopulaire.fr/limoges-87100/football/vingt-bleuets-selectionnes_12965473/|title=Vingt Bleuets sélectionnés|date=31 August 2018}}</ref> In March 2025, he was called up to the [[Haiti national football team|Haiti national team]] for a set of friendlies.<ref>{{Cite web|url=https://tedactu.com/2025/03/05/emerson-laisse-convoque-pour-le-match-haiti-azerbaidjan/|title=Emerson Laissé convoqué pour le match Haïti-Azerbaïdjan|first=Marc Gorvens|last=Baptiste|date=6 March 2025}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 2 May 2026}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|Cup
+!colspan="2"|Europe
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="3"|[[AS Nancy Lorraine|Nancy II]]
+|[[2018–19 Championnat National 3|2018–19]]
+|[[Championnat National 3|National 3]]
+|1||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||1||0
+|-
+|[[2019–20 Championnat National 3|2019–20]]
+|National 3
+|4||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||4||0
+|-
+!colspan="2"|Total
+!5!!0!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!5!!0
+|-
+|[[Akritas Chlorakas]]
+|[[2022–23 Cypriot First Division|2022–23]]
+|[[Cypriot First Division]]
+|21||0||2||0||colspan="2"|—||colspan="2"|—||23||0
+|-
+|rowspan="3"|[[FK Auda]]
+|[[2023 Latvian Higher League|2023]]
+|[[Latvian Higher League]]
+|3||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||3||0
+|-
+|[[2024 Latvian Higher League|2024]]
+|Latvian Higher League
+|18||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||18||0
+|-
+!colspan="2"|Total
+!21!!0!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!21!!0
+|-
+|[[SKN St. Pölten]]
+|[[2024–25 Austrian Football Second League|2024–25]]
+|[[2. Liga (Austria)|2. Liga]]
+|14||0||1||0||colspan="2"|—||colspan="2"|—||15||0
+|-
+|[[S.V. Zulte Waregem|Zulte Waregem]] (loan)
+|[[2024–25 Challenger Pro League|2024–25]]
+|[[Challenger Pro League]]
+|3||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||3||0
+|-
+|Zulte Waregem
+|[[2025–26 Challenger Pro League|2025–26]]
+|Challenger Pro League
+|24||1||1||0||colspan="2"|—||colspan="2"|—||25||1
+|-
+!colspan="3"|Career total
+!88!!0!!4!!0!!0!!0!!0!!0!!92!!1
+|}
+
+===International===
+{{updated|match played 2 June 2026}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="2"|[[Haiti national football team|Haiti]]
+|2025||4||0
+|-
+|2026||3||0
+|-
+!colspan="2"|Total!!7!!0
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Soccerway|wilguens-paugain/610839}}
+* {{FFF player|8191-paugain-wilguens}}
+* {{WorldFootball.net|wilguens-paugain}}
+
+{{S.V. Zulte Waregem squad}}
+{{Navboxes
+| title = Haiti squads
+| bg = #00209F
+| fg = white
+| bordercolor = #D21034
+| list1 =
+{{Haiti squad 2025 CONCACAF Gold Cup}}
+{{Haiti squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Paugain, Wilguens}}
+[[Category:2001 births]]
+[[Category:Living people]]
+[[Category:People from Ouest (department)]]
+[[Category:Haitian men's footballers]]
+[[Category:Haiti men's international footballers]]
+[[Category:French men's footballers]]
+[[Category:French sportspeople of Haitian descent]]
+[[Category:Haitian emigrants to France]]
+[[Category:Men's association football full-backs]]
+[[Category:21st-century Haitian sportsmen]]
+[[Category:21st-century French sportsmen]]
+[[Category:AS Nancy Lorraine players]]
+[[Category:Akritas Chlorakas players]]
+[[Category:FK Auda players]]
+[[Category:SKN St. Pölten players]]
+[[Category:SV Zulte Waregem players]]
+[[Category:Championnat National 3 players]]
+[[Category:Cypriot First Division players]]
+[[Category:Latvian Higher League players]]
+[[Category:2. Liga (Austria) players]]
+[[Category:Belgian Pro League players]]
+[[Category:Challenger Pro League players]]
+[[Category:2025 CONCACAF Gold Cup players]]
+[[Category:Haitian expatriate men's footballers]]
+[[Category:French expatriate men's footballers]]
+[[Category:Haitian expatriate sportspeople in Cyprus]]
+[[Category:Haitian expatriate sportspeople in Latvia]]
+[[Category:Haitian expatriate sportspeople in Austria]]
+[[Category:Haitian expatriate sportspeople in Belgium]]
+[[Category:French expatriate sportspeople in Cyprus]]
+[[Category:French expatriate sportspeople in Latvia]]
+[[Category:French expatriate sportspeople in Austria]]
+[[Category:French expatriate sportspeople in Belgium]]
+[[Category:2026 FIFA World Cup players]]

@@ -1,0 +1,31 @@
+{
+ "team": "EGY",
+ "coach": {
+  "name_zh": "霍萨姆·哈桑",
+  "name_en": "Hossam Hassan",
+  "nationality": "Egypt",
+  "career_since": "2008",
+  "person_id": "per_hossam_hassan"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 霍萨姆·哈桑（Hossam Hassan），埃及人，59岁，2008年开启执教生涯，球员时代以69球保持埃及国家队进球纪录。\n- 现任埃及国家队主教练，正带队备战2026世界杯（第四次参赛，自2018年后重返），训练营设于美国斯波坎。\n- 确认利物浦前锋萨拉赫担任队长，其与曼城前锋马穆什将搭档领衔锋线，但萨拉赫近期腿筋撕裂需休战四周。\n- 公布的26人最终名单包含萨拉赫、马穆什、特雷泽盖等核心，但南特前锋穆斯塔法·穆罕默德及两名扎马雷克球员意外落选。\n- 征召五名潜在首秀新人，包括租借至巴萨B队的19岁前锋哈姆扎·阿卜杜勒卡里姆，为阵容注入年轻化元素。\n- 世界杯小组赛赛程：6月15日西雅图首战比利时，21日温哥华对阵新西兰，26日西雅图再战伊朗；5月28日起将与俄罗斯、巴西进行两场热身。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.95,
+  "issues": []
+ },
+ "brief_fetched": "2026-06-13_1750",
+ "brief_info_chars": 4001,
+ "coach_xverify": {
+  "canonical": "Hossam Hassan",
+  "confidence": "high",
+  "discrepancy": "World Soccer Talk mentions 'coach Arne Slot', but this refers to Liverpool FC (club context for Salah's injury), not Egypt's national team. All authoritative sources (FIFA, CAF, Al Jazeera) consistently identify Hossam Hassan as Egypt's head coach for the 2026 World Cup.",
+  "sources_agree": 5,
+  "n_sources": 8
+ }
+}

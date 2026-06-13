@@ -1,0 +1,330 @@
+{{short description|English footballer (born 1999)}}
+{{for-multi|another English footballer with the same name|Reece James (footballer, born 1993)||Reece James (disambiguation)}}
+{{Use British English|date=November 2022}}
+{{Use dmy dates|date=May 2026}}
+{{Infobox football biography
+| name = Reece James
+| image = Reece James FIFA Club World Cup final extraction.jpg
+| caption = James with [[Chelsea F.C.|Chelsea]] in 2025
+| full_name = Reece Lewis James<ref>{{cite web |url=https://editorial.uefa.com/resources/0280-17b435f4337c-781b62e2f080-1000/ucl_bookinglist_before_qf_1st_leg.pdf |title=UEFA Champions League 2022/2023 Booking List before Quarter-finals, 1st leg |publisher=UEFA |date=5 April 2023 |access-date=4 August 2023}}</ref>
+| birth_date = {{birth date and age|1999|12|8|df=y}}<ref>{{cite web |url=https://www.premierleague.com/players/14571/Reece-James/overview |title=Reece James: Overview |publisher=Premier League |access-date=10 June 2022}}</ref>
+| birth_place = [[Redbridge, London]], England
+| height = {{convert|1.80|m|order=flip}}<ref>{{cite web |url=https://www.chelseafc.com/en/teams/profile/reece-james |title=Reece James |publisher=Chelsea F.C. |access-date=11 November 2022}}</ref>
+| position = [[Right-back]]<ref>{{cite web |url=https://www.premierleague.com/news/1803539 |title=FPL breakout stars: Reece James |publisher=Premier League |date=3 September 2020 |access-date=10 October 2020}}</ref>
+| currentclub = [[Chelsea F.C.|Chelsea]]
+| clubnumber = 24
+| youthyears1 = 
+| youthclubs1 = Kew Park Rangers
+| youthyears2 = {{0|0000}}–2006
+| youthclubs2 = Epsom Eagles
+| youthyears3 = 2006–2007
+| youthclubs3 = [[Chelsea F.C.|Chelsea]]
+| youthyears4 = 2007–2008
+| youthclubs4 = [[Fulham F.C.|Fulham]]
+| youthyears5 = 2008–2018
+| youthclubs5 = [[Chelsea F.C.|Chelsea]]
+| years1 = 2018–
+| clubs1 = [[Chelsea F.C.|Chelsea]]
+| caps1 = 156
+| goals1 = 10
+| years2 = 2018–2019
+| clubs2 = → [[Wigan Athletic F.C.|Wigan Athletic]] (loan)
+| caps2 = 45
+| goals2 = 3
+| nationalyears1 = 2017
+| nationalteam1 = [[England national under-18 football team|England U18]]<!-- per http://www.englandfootballonline.com/MatchRsl/MatchRslTmU18pg7.html -->
+| nationalcaps1 = 3
+| nationalgoals1 = 0
+| nationalyears2 = 2017–2018
+| nationalteam2 = [[England national under-19 football team|England U19]]<!-- per http://www.englandfootballonline.com/MatchRsl/MatchRslTmU19pg2.html -->
+| nationalcaps2 = 7
+| nationalgoals2 = 0
+| nationalyears3 = 2017–2019
+| nationalteam3 = [[England national under-20 football team|England U20]]<!-- per http://www.englandfootballonline.com/MatchRsl/MatchRslTmU20.html and http://www.englandfootballonline.com/MatchRsl/MatchRslTmU21pg4.html (includes two appearances at the 2019 Toulon Tournament, as the Football Association consider the team fielded at this tournament to be an U20 team -->
+| nationalcaps3 = 12
+| nationalgoals3 = 0
+| nationalyears4 = 2019
+| nationalteam4 = [[England national under-21 football team|England U21]]<!-- per http://www.englandfootballonline.com/MatchRsl/MatchRslTmU21pg4.html (excludes two appearances at the 2019 Toulon Tournament, as the Football Association consider the team fielded at this tournament to be an U20 team -->
+| nationalcaps4 = 2
+| nationalgoals4 = 0
+| nationalyears5 = 2020–
+| nationalteam5 = [[England national football team|England]]
+| nationalcaps5 = 23
+| nationalgoals5 = 1
+| club-update = 20:55, 24 May 2026 (UTC)
+| nationalteam-update = 14:52, 7 June 2026 (UTC)
+| medaltemplates = {{MedalSport|Men's [[Association football|football]]}}
+{{MedalCountry|{{fb|ENG}}}}
+{{MedalCompetition|[[UEFA European Under-19 Championship]]}}
+{{Medal|W|[[2017 UEFA European Under-19 Championship|2017]]|[[England national under-19 football team|U-19 Team]]}}
+{{MedalCompetition|[[UEFA European Championship]]}}
+{{Medal|RU|[[UEFA Euro 2020|2020]]|}}
+}}
+'''Reece Lewis James''' (born 8 December 1999) is an English professional [[association football|footballer]] who plays as a [[right-back]] for {{English football updater|Chelsea}} club [[Chelsea F.C.|Chelsea]], which he [[Captain (association football)|captain]]s, and the [[England national football team|England national team]].
+
+James joined the Chelsea academy as a youth and turned professional in 2017, a season where he [[Captain (association football)|captained]] the under-18s to victory in the [[FA Youth Cup]] and was named Academy Player of the Season. A productive [[Loan (association football)|loan]] spell with [[Wigan Athletic F.C.|Wigan Athletic]] of the [[EFL Championship|Championship]] saw him promoted to the Chelsea first team upon his return in 2019. He won the [[2020–21 UEFA Champions League|UEFA Champions League]], [[2021 UEFA Super Cup|UEFA Super Cup]] and [[2021 FIFA Club World Cup|FIFA Club World Cup]] with the club in 2021, and was appointed captain in 2023. He led Chelsea to victory at the [[2024–25 UEFA Conference League|UEFA Conference League]] and [[2025 FIFA Club World Cup|FIFA Club World Cup]] in 2025.
+
+After representing [[England national football team|England]] at various youth levels, James made his senior debut in 2020, and went on to appear at [[UEFA Euro 2020]].
+
+==Early life==
+James was born in [[Redbridge, London|Redbridge]], Greater London,<ref>{{cite web |url=https://www.11v11.com/players/reece-james-254515/ |title=Reece James |website=11v11.com |publisher=AFS Enterprises |access-date=10 October 2020}}</ref> growing up in [[Mortlake]],<ref name="auto">{{Cite web|url=https://www.bbc.co.uk/sport/football/articles/c8dr9l4dly5o|title=Reece James: Chelsea captain in his own words in BBC Sport's Football Interview|date=25 October 2025|website=BBC Sport}}</ref> and attending [[Isleworth and Syon School]].<ref>{{Cite web |title=Isleworth & Syon Alumni Success Stories page |url=https://www.isleworthsyon.org/Alumni/Success-Stories/ |url-status=live }}</ref> He is from a family involved in football; his older brother played,<ref name="auto"/> his sister, [[Lauren James|Lauren]], is also a professional footballer,<ref>{{cite news |url=https://www.thetimes.com/sport/football/article/brother-and-sister-who-are-giving-dad-a-very-difficult-decision-to-make-tstgdbwls |title=Brother and sister who are giving dad a very difficult decision to make |first=Alyson |last=Rudd |newspaper=[[The Times]] |location=London |date=3 November 2018}}</ref><ref>{{cite web |url=https://www.bbc.co.uk/sport/football/49866712 |title=Lauren and Reece James score goals in same week |website=BBC Sport |date=28 September 2019}}</ref> and signed for [[Chelsea F.C. Women|Chelsea Women]] in July 2021,<ref>{{Cite news|url=https://www.bbc.com/sport/football/66079219|title='I don't want to be known as Reece James' sister'|work=BBC Sport |date=7 July 2023 }}</ref><ref>{{cite web |title=Lauren James joins Chelsea Women |url=https://www.chelseafc.com/en/news/2021/07/23/lauren-james-joins-chelsea-women |publisher=Chelsea F.C.}}</ref> and their father Nigel is a football coach.<ref>{{Cite web |url=http://www.thefa.com/news/2020/jun/19/nigel-james-fathers-day-piece-190620 |title=Nigel James hoping for a restful Father's Day watching son Reece with daughter Lauren |first=The Football |last=Association |publisher=The Football Association}}</ref> James grew up as a Chelsea fan, with [[Didier Drogba]] his favourite player.<ref name="auto"/> James credits his father, and Chelsea youth team coaches Frank O'Brien, [[Joe Edwards (football manager)|Joe Edwards]], and [[Jody Morris]] as having had a major influence on his career.{{r|rjauto}} Reece and Lauren are the first brother and sister to represent England at senior level in the modern era.<ref>{{Cite web |last=Association |first=The Football |title=Lauren James and Reece James: England's footballing siblings |url=https://www.englandfootball.com/articles/2022/Sep/03/lauren-james-reece-james-grassroots-story-20220903 |access-date=28 July 2023 |website=www.englandfootball.com |language=en}}</ref>
+
+He is of Grenadian and Dominican descent through his father, and English descent through his mother.<ref>{{Cite news|url=https://www.telegraph.co.uk/womens-sport/2021/03/25/many-siblings-play-elite-football-living-dream-say-lauren-reece/|title=Meet Lauren and Reece James: 'How many siblings play elite football? We're living a dream'|first=Fadumo|last=Olow|newspaper=The Telegraph |date=25 March 2021|via=www.telegraph.co.uk}}</ref><ref>{{Cite web|url=https://www.ucfb.ac.uk/news/flying-the-flags-the-influence-of-the-caribbean-on-england-s-euros-teams/|title=Flying the flags: The influence of the Caribbean on England's Euros teams|date=21 July 2024|website=www.ucfb.ac.uk|access-date=1 September 2024|archive-date=1 September 2024|archive-url=https://web.archive.org/web/20240901061841/https://www.ucfb.ac.uk/news/flying-the-flags-the-influence-of-the-caribbean-on-england-s-euros-teams/|url-status=dead}}</ref>
+
+==Club career==
+===Early career===
+[[File:Reece James.jpg|thumb|upright|James playing for [[Chelsea F.C.|Chelsea]] in 2017]]
+
+Starting his grassroots playing career at Kew Park Rangers and Epsom Eagles, James signed with [[Chelsea F.C.|Chelsea]] at the age of six,<ref name="rjauto">{{cite web |title=Reece James' grassroots story |url=https://www.englandfootball.com/articles/2023/Mar/03/Reece-James-Grassroots-Story |date=3 March 2023 |archive-url=https://archive.today/20230309150331/https://www.englandfootball.com/articles/2023/Mar/03/Reece-James-Grassroots-Story |archive-date=9 March 2023 |website=englandfootball.com |last=James |first=Reece}}</ref><ref name = "captain"/> and had a short spell at West London rivals [[Fulham F.C.|Fulham]] when he was seven.<ref name="bbc1">{{cite web |url=https://www.bbc.co.uk/sport/football/59431496 |title=Chelsea: Father of Reece and Lauren James on his children's rise to football stardom |archive-date=12 March 2023 |archive-url=https://archive.today/20230312145549/https://www.bbc.com/sport/football/59431496 |first=Harry |last=De Cosemo |date=27 November 2021 |access-date=27 November 2021 |website=BBC Sport}}</ref> He played as a striker idolizing [[Didier Drogba]] in his early teens, but was moved to the midfield, and later to a [[right-back]] position where he struggled at first.<ref name="rjauto"/> He turned professional with Chelsea in March 2017.<ref name="Chelsea">{{cite web |url=https://www.chelseafc.com/en/teams/academy/reece-james |title=Profile |access-date=7 November 2018 |publisher=Chelsea F.C. |archive-url=https://web.archive.org/web/20190327122524/https://www.chelseafc.com/en/teams/academy/reece-james |archive-date=27 March 2019}}</ref> During the 2017–18 season he [[Captain (association football)|captained]] the under-18s to win the [[FA Youth Cup]] and was named Academy Player of the Season.<ref name="Chelsea" /> He signed a new four-year contract with the club in June 2018.<ref name="Chelsea" />
+
+In June 2018, James joined [[EFL Championship|Championship]] club [[Wigan Athletic F.C.|Wigan Athletic]] on [[Loan (association football)|loan]] for the [[2018–19 Wigan Athletic F.C. season|2018–19 season]].<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/44631267 |title=Reece James: Wigan Athletic sign Chelsea full-back on season-long loan |website=BBC Sport |date=27 June 2018 |access-date=27 June 2018}}</ref> He made his first-team debut on 4 August, starting in Wigan's first game of the season, helping his side to a 3–2 home victory over [[Sheffield Wednesday F.C.|Sheffield Wednesday]].<ref>{{cite web |url=https://www.bbc.com/sport/football/44989047 |title=Wigan Athletic 3–2 Sheffield Wednesday |website=BBC Sport |date=4 August 2018 |access-date=4 August 2018}}</ref> He scored his first goal for Wigan on 4 November, scoring the first goal with a [[Free kick (association football)|free kick]] in the sixth minute of a 2–1 home loss to [[Leeds United F.C.|Leeds United]].<ref>{{cite web |url=https://www.bbc.com/sport/football/46007116 |title=Wigan Athletic 1–2 Leeds United |website=BBC Sport |date=4 November 2018 |access-date=4 November 2018}}</ref> In March 2019, he was selected to the 2018–19 Championship Team of the Season.<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/47710254 |title=EFL awards: Che Adams, Teemu Pukki & Billy Sharp on Championship shortlist |website=BBC Sport |date=26 March 2019 |access-date=28 March 2019}}</ref> He won three awards at Wigan Athletic's end of season awards, including Player of the Year.<ref name="WiganAwards">{{cite web |url=https://www.wiganathletic.com/news/2019/may/reece-james-scoops-trio-of-awards-at-wigan-athletic-end-of-season-party-in-the-park/ |title=Reece James scoops trio of awards at Wigan Athletic end of season party in the park |publisher=Wigan Athletic F.C. |date=6 May 2019 |access-date=7 May 2019}}</ref>
+
+===2019–2021: First-team breakthrough and UEFA Champions League title===
+On 25 September 2019, James made his debut for Chelsea after returning from injury. He scored his first goal and assisted two in a 7–1 win over [[Grimsby Town F.C.|Grimsby Town]] in the third round of the [[2019–20 EFL Cup]].<ref>{{cite web |url=https://www.bbc.com/sport/football/49736854 |title=Chelsea 7–1 Grimsby Town: Reece James impresses on debut |website=BBC Sport |date=25 September 2019 |access-date=26 September 2019}}</ref> James became Chelsea's youngest ever goalscorer in the [[UEFA Champions League]] when he scored the fourth goal of their 4–4 comeback draw with [[AFC Ajax|Ajax]] on 5 November.<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/50294383 |title=Chelsea 4–4 Ajax: Champions League thriller ends in stunning draw |website=BBC Sport |date=5 November 2019 |access-date=7 November 2019}}</ref> He signed a long-term contract extension with Chelsea on 16 January 2020.<ref>{{cite web |url=https://www.chelseafc.com/en/news/2020/01/16/reece-james-agrees-new-long-term-chelsea-deal |title=Reece James agrees new long-term Chelsea deal |publisher=Chelsea F.C. |date=16 January 2020 |access-date=16 January 2020}}</ref>
+
+On 14 September 2020, James scored his first [[Premier League]] goal, in a 3–1 win for Chelsea against [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]].<ref>{{cite web |url=https://www.bbc.com/sport/football/54052535 |title=Brighton 1–3 Chelsea: Frank Lampard impressed with Chelsea debutants |website=BBC Sport |date=14 September 2020 |access-date=15 September 2020}}</ref> On 5 December, James made his 50th appearance for Chelsea in all competitions in the club's 3–1 league win over Leeds United.<ref>{{cite web |url=https://www.chelseafc.com/en/news/2020/12/04/chelsea-vs-leeds---the-stats |title=Chelsea vs Leeds – The Stats |publisher=Chelsea F.C. |date=5 December 2020|access-date=7 December 2020}}</ref>
+[[File:Reece James in 2021.jpg|thumb|James playing for Chelsea in 2021]]
+In January 2021, James was subject to [[Racism in association football|racist abuse]] online.<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/55866503 |title=Chelsea 'disgusted' by James abuse |website=BBC Sport |date=30 January 2021}}</ref><ref>{{cite web |url=https://www.chelseafc.com/en/news/2021/01/29/statement-on-racist-abuse |title=Statement on racist abuse |publisher=Chelsea F.C. |date=29 January 2021|access-date=4 February 2021}}</ref> In March, he deleted his [[Instagram]] account in response to the abuse he received.<ref>{{Cite web |title=Reece James Deletes His Instagram Account Due To Stream Of Hateful Abuse |url=https://www.sportbible.com/football/football-news-reece-james-deletes-instagram-account-due-to-stream-of-hateful-abuse-20210310 |access-date=27 May 2021 |website=SPORTbible |archive-date=4 October 2022 |archive-url=https://web.archive.org/web/20221004034153/https://www.sportbible.com/football/football-news-reece-james-deletes-instagram-account-due-to-stream-of-hateful-abuse-20210310 |url-status=dead }}</ref> On 29 May, James won his first-ever Champions League as Chelsea won 1–0 against [[Manchester City F.C.|Manchester City]] in the [[2021 UEFA Champions League Final|final]] in [[Porto]].<ref>{{Cite web |url=https://www.uefa.com/uefachampionsleague/news/0269-12650cedca55-37515f69768e-1000--report-chelsea-claim-second-title/ |title=Man. City 0–1 Chelsea: Havertz gives Blues second Champions League triumph |publisher=UEFA |date=29 May 2021 |access-date=29 May 2021}}</ref>
+
+===2021–2023: Injury issues===
+[[File:Reece James 2021.jpg|thumb|James playing for Chelsea in 2021]]
+On 28 August 2021, James was sent off at the end of the first half of a 1–1 draw against [[Liverpool F.C.|Liverpool]] due to a handball incident.<ref>{{cite news |url=https://www.standard.co.uk/sport/football/reece-james-red-card-handball-chelsea-vs-liverpool-b952821.html |title=Reece James red card: Chelsea FC defender sent off vs Liverpool for handball |newspaper=Evening Standard |location=London |date=28 August 2021 |access-date=28 August 2021}}</ref> He scored two goals in the second half of a 3–0 win over [[Newcastle United F.C.|Newcastle United]] at [[St James' Park]] on 30 October.<ref>{{Cite news |url=https://www.premierleague.com/match/66437 |title=James double increases Chelsea's lead at the top |newspaper=Evening Standard |location=London |date=30 October 2021 |access-date=30 October 2021}}</ref> At the end of the season James was nominated for the [[PFA Young Player of the Year]] award.<ref>{{Cite web |url=https://www.nytimes.com/athletic/3490529/2022/06/01/pfa-mens-young-player-of-the-year-bukayo-saka-reece-james-and-phil-foden-up-for-award/ |title=PFA men's young player of the year: Bukayo Saka, Reece James and Phil Foden up for award |website=The Athletic |date=1 June 2022 |access-date=1 June 2022}}</ref>
+
+On 5 September 2022, James signed a new six-year contract with Chelsea, committing to the club until June 2028.<ref>{{Cite web |title=New long-term Chelsea deal for Reece James |url=https://www.chelseafc.com/en/news/article/new-long-term-deal-for-james |access-date=5 September 2022 |publisher=Chelsea F.C.}}</ref><ref>{{Cite news |url=https://www.bbc.com/sport/football/62795896 |title=James signs new six-year contract at Chelsea |work=BBC Sport |date=5 September 2022 }}</ref> His performances were praised in October 2022,<ref>{{Cite news |url=https://www.bbc.com/sport/football/63153370 |title='James' quality reduced to England footnote' |work=BBC Sport |date=5 October 2022 }}</ref> although later that month he suffered a knee injury,<ref>{{Cite news |url=https://www.bbc.com/sport/football/63220723 |title=James gives Southgate more right-back worries |work=BBC Sport |date=11 October 2022 }}</ref> and had to see a specialist doctor.<ref>{{Cite news |url=https://www.bbc.com/sport/football/63260342 |title=James to see a specialist over knee injury |work=BBC Sport |date=14 October 2022 }}</ref> He was injured on his first game back, on 27 December 2022, being substituted after 53 minutes.<ref>{{Cite news|url=https://www.bbc.com/sport/football/64105840|title=Potter has 'fingers crossed' over James injury|work=BBC Sport |date=27 December 2022 }}</ref> he was ruled out of play for a further four weeks.<ref>{{Cite news|url=https://www.bbc.com/sport/football/64108507|title=James out for up to four weeks with knee injury|work=BBC Sport |date=28 December 2022 }}</ref> On 25 April 2023, Chelsea announced that James would miss the rest of the season with a hamstring problem.<ref>{{Cite news |title=Chelsea's James ruled out for rest of season |website=BBC Sport |url=https://www.bbc.com/sport/football/65385578 |access-date=25 April 2023}}</ref>
+
+===2023–present: Assuming the captaincy and further injuries===
+Following the departure of [[César Azpilicueta]], James was named [[club captain]] of Chelsea on 9 August 2023.<ref name = "captain">{{cite web |title=Reece James named Chelsea captain |url=https://www.chelseafc.com/en/news/article/reece-james-named-chelsea-captain |website=Chelsea F.C. |access-date=9 August 2023 |date=9 August 2023}}</ref> He suffered a hamstring injury early in the season,<ref>{{Cite news|url=https://www.bbc.com/sport/football/66544307|title=Chelsea's James to miss 'a few weeks' with injury|work=BBC Sport |date=18 August 2023 }}</ref> which re-occurred in November 2023 after he returned to play.<ref>{{Cite news|url=https://www.bbc.com/sport/football/67791223|title=Chelsea's James has surgery on hamstring injury|work=BBC Sport |date=21 December 2023 }}</ref> In late December 2023, he had surgery to fix the recurring hamstring injury.<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/67791223 |title=Reece James: Chelsea captain has surgery on hamstring injury |website=BBC Sport |date=22 December 2023 |access-date=10 January 2024}}</ref> James returned on 11 May 2024 as a substitute against [[Nottingham Forest F.C.|Nottingham Forest]], providing the game-winning assist to [[Nicolas Jackson]] in the 3–2 victory at [[City Ground]].<ref>{{Cite web |last=Kinsella |first=Nizaar |date=12 May 2024 |title=James makes Champions League claim after starring on Chelsea comeback |url=https://www.standard.co.uk/sport/football/chelsea-fc-reece-james-champions-league-b1157204.html |access-date=12 May 2024 |website=Evening Standard |language=en}}</ref>
+
+On 11 May 2024, James was shown a red card for violent conduct in a 2–1 win at [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]], meaning he would miss the final fixture of the 2023–24 season and the first three matches of the 2024–25 season.<ref>{{Cite web|url=https://www.bbc.com/sport/football/articles/cy005kd0r4go|title=Reece James: FA rejects Chelsea appeal against four-match ban|date=3 June 2024|website=BBC Sport}}</ref><ref>{{cite web|url=https://www.standard.co.uk/sport/football/reece-james-suspension-chelsea-fc-red-card-brighton-b1158138.html|title=Chelsea captain Reece James gets FOUR-match ban after 'painful' red card at Brighton|date=16 May 2024|access-date=10 September 2025|website=The Standard}}</ref>
+
+James began the 2024–25 season with a number of injuries.<ref>{{Cite web|url=https://www.independent.co.uk/sport/football/chelsea-reece-james-injury-update-liverpool-b2631625.html|title=Chelsea handed boost as Enzo Maresca provides Reece James injury update|date=18 October 2024|website=The Independent}}</ref> After returning to play in October 2024, James was criticised by Chelsea manager [[Enzo Maresca]] for a lack of effort.<ref>{{Cite web|url=https://www.bbc.co.uk/sport/football/articles/c624m7jkyp2o|title=Reece James: Chelsea boss Enzo Maresca demands more from Blues captain|date=25 October 2024|website=BBC Sport}}</ref><ref>{{Cite news|url=https://www.theguardian.com/football/2024/oct/25/chelsea-enzo-maresca-reece-james-leadership|title=Chelsea's Maresca 'expected more' leadership from injured Reece James|first=Dan|last=Ludlam|date=25 October 2024|newspaper=The Guardian}}</ref> He suffered a further hamstring injury in November 2024.<ref>{{Cite web|url=https://www.bbc.co.uk/sport/football/articles/c1wjyq2g5zxo|title=Reece James injury: Chelsea captain has another hamstring problem says Enzo Maresca|date=21 November 2024|website=BBC Sport}}</ref>
+
+On 11 January 2025, James returned to the Chelsea team for the [[2024–25 FA Cup|FA Cup]] third round tie with [[Morecambe F.C.|Morecambe]], playing the first half of the 5–0 win. Three days later, he scored a 95th minute equaliser from a free kick after appearing as a 56th-minute substitute in a 2–2 draw with [[AFC Bournemouth|Bournemouth]].<ref>{{Cite web|url=https://www.bbc.co.uk/sport/football/articles/c203n5r2vjvo|title=Chelsea 2–2 Bournemouth: Reece James makes the headlines with goal on Prem return|date=14 January 2025|website=BBC Sport}}</ref> This was James' first Premier League goal since August 2022, when he scored in a 2–2 draw with [[Tottenham Hotspur F.C.|Tottenham Hotspur]]. James said his time injured had been "lonely and frustrating".<ref>{{Cite web|url=https://www.bbc.co.uk/sport/football/articles/c9vmnwrwn7do|title=Reece James: Chelsea defender shakes off 'lonely and frustrating' injuries to score equaliser|date=14 January 2025|website=BBC Sport}}</ref>
+
+On 28 May 2025, James lifted his first trophy as Chelsea captain after coming on as a half-time substitute in the [[2025 UEFA Conference League final]] victory against [[Real Betis]].<ref>{{cite web|url=https://www.espn.com.sg/soccer/story/_/id/45365615/chelsea-conference-league-final-reece-james|title=Chelsea 'had to win' Conference League title – Reece James|date=29 May 2025|access-date=10 September 2025|website=ESPN}}</ref> The following month, he captained Chelsea at the [[2025 FIFA Club World Cup]], a tournament they went on to win by beating [[Paris Saint-Germain]] 3–0 in [[2025 FIFA Club World Cup final|the final]] on 13 July.<ref>{{cite web|url=https://www.rte.ie/sport/soccer/2025/0714/1523363-chelseas-gig-statement-win-over-psg-delights-james/|title=Reece James hails Chelsea progress after statement win against Paris St-Germain|date=14 July 2025|access-date=10 September 2025|website=RTÉ}}</ref>
+
+The next season, James improved on his injury record and was often deployed as a [[midfielder]] under [[Enzo Maresca]].<ref>{{cite web|url=https://www.premierleague.com/en/news/4486630/talking-tactics-on-reece-james-versatility-bringing-balance-to-chelsea/|title=Reece James leaving injuries behind and becoming midfield star for Chelsea|date=5 December 2025|access-date=10 September 2025|website=Premier League}}</ref> On 18 October 2025, he scored his first goal of the [[Premier League]] season against [[Nottingham Forest F.C.|Nottingham Forest]], while also registering an assist.<ref>{{cite web|url=https://www.bbc.com/sport/football/live/cr7mrpgr15vt/|title=Nottingham Forest 3-0 Chelsea FC|date=18 October 2025|access-date=18 October 2025|website=BBC}}</ref> He backed this up with another goal, this time from a free kick, against [[Newcastle United F.C.|Newcastle United]] on 20 December.<ref>{{cite web|url=https://www.bbc.com/sport/football/live/c865y7y9x28t/|title=Newcastle United 2-2 Chelsea FC|date=20 December 2025|website=BBC}}</ref> On 13 March 2026, James extended his contract with Chelsea to 2032.<ref>{{cite news |title=Reece James signs new Chelsea contract! |url=https://www.chelseafc.com/en/news/article/reece-james-signs-new-chelsea-contract |access-date=12 March 2026 |publisher=Chelsea FC |date=12 March 2026}}</ref>
+
+==International career==
+===Youth===
+James has represented England at youth level from [[England national under-18 football team|under-18]] up to [[England national under-21 football team|under-21]].<ref>{{cite web |url=http://www.englandfootballonline.com/matchrsl/MatchRslTmU19pg2.html |title=England Football Online – under-19 |access-date=17 January 2019 |website=England Football Online}}</ref><ref>{{cite web |url=http://www.englandfootballonline.com/matchrsl/MatchRslTmU20.html |title=England Football Online – under-20 |access-date=17 January 2019 |website=England Football Online}}</ref><ref>{{cite web |url=http://www.englandfootballonline.com/matchrsl/MatchRslTmU21pg4.html |title=England Football Online – under-21 |access-date=17 January 2019 |website=England Football Online}}</ref> In May 2017, James was included in the [[England national under-20 football team|under-20]] squad for the [[2017 Toulon Tournament]].<ref>{{cite web |url=http://www.thefa.com/news/2017/may/16/england-squad-named-for-toulon-160517 |title=Toulon squad selected |date=16 May 2017 |access-date=5 August 2018 |publisher=The Football Association}}</ref> He started in the final as England beat the [[Ivory Coast national under-20 football team|Ivory Coast]] to retain their title.<ref>{{cite web |url=http://www.thefa.com/news/2017/jun/10/england-v-ivory-coast-report-100617 |title=Spot on Young Lions hold their nerve to retain Toulon Tournament title |publisher=The Football Association |date=10 June 2017 |access-date=5 August 2018}}</ref> In July, James was part of the [[England national under-19 football team|under-19]] squad that won the [[2017 UEFA European Under-19 Championship]].<ref name=U19>{{cite web |url=https://www.bbc.co.uk/sport/football/40619862 |title=European Under-19 Championship: England beat Portugal in final |website=BBC Sport |date=15 July 2017 |access-date=5 August 2018}}</ref> He started in the semi-final against the [[Czech Republic national under-19 football team|Czech Republic]].<ref>{{cite web |url=http://www.thefa.com/news/2017/jul/12/england-u19s-czech-republic-semi-final-report-120717 |title=England U19s 1–0 Czech Republic |date=12 July 2017 |access-date=5 August 2018 |publisher=The Football Association}}</ref>
+
+James was a member of the under-20 squad that travelled to the [[2019 Toulon Tournament]] and was carried off on a stretcher with ankle ligament damage during the first half of the final group game defeat to Chile on 7 June 2019.<ref>{{cite web |url=http://www.thefa.com/news/2019/jun/07/england-u20s-chile-report-070619 |title=Young Lions suffer a third defeat in Toulon after two late goals turn game around |publisher=The Football Association |date=7 June 2019 |access-date=11 June 2019}}</ref> On 4 October, James was included in the under-21 squad for the first time.<ref>{{cite web |url=http://www.thefa.com/news/2019/oct/04/england-u21s-squad-named-for-slovenia-and-austria-031019 |title=Aidy Boothroyd picks HIS MU21S squad to play Slovenia and Austria this month |publisher=The Football Association |date=4 October 2019 |access-date=6 October 2019}}</ref> He made his under-21 debut during the 3–0 [[2021 UEFA European Under-21 Championship qualification]] victory away to [[Albania national under-21 football team|Albania]] on 15 November.<ref>{{cite web |url=http://www.thefa.com/news/2019/nov/15/england-mu21s-albania-report-151119 |title=Goals from Phil Foden, Conor Gallagher and Reiss Nelson see MU21S to win in Albania |publisher=The Football Association |date=15 November 2019 |access-date=17 November 2019}}</ref>
+
+===Senior===
+On 5 October 2020, James was called up for the first time to the [[England national football team|senior team]] by manager [[Gareth Southgate]] following an injury to [[Raheem Sterling]].<ref>{{Cite news |date=5 October 2020 |title=Reece James earns maiden senior England call-up |publisher=Chelsea F.C. |url=https://www.chelseafc.com/en/news/2020/10/05/reece-james-earns-maiden-senior-england-call-up |access-date=5 October 2020}}</ref> He made his debut on 8 October at [[Wembley Stadium]], coming on as a 58th-minute substitute for [[Kieran Trippier]] in a 3–0 friendly win over [[Wales national football team|Wales]].<ref>{{Cite news |date=9 October 2020 |title=England 3–0 Wales |website=BBC Sport |url=https://www.bbc.com/sport/football/54366319 |access-date=9 October 2020}}</ref><ref>{{Cite web |date=9 October 2020 |title=James makes England debut |url=https://www.chelseafc.com/en/news/2020/10/08/james-makes-england-debut--batshuayi-bags-belgium-goal |access-date=9 October 2020 |publisher=Chelsea F.C.}}</ref> His first start came in a 1–0 loss to [[Denmark national football team|Denmark]] in the [[2020–21 UEFA Nations League|UEFA Nations League]], where he was sent off for dissent after the final whistle.<ref>{{cite news |date=15 October 2020 |title=Why James received a red card after England's defeat by Denmark |url=https://www.independent.co.uk/sport/football/international/england-vs-denmark-nations-league-results-reece-james-red-card-sent-off-b1043689.html |access-date=18 January 2021 |newspaper=The Independent |location=London}}</ref>
+
+In June 2021, James was named in England's 26-man squad for the postponed [[UEFA Euro 2020]].<ref>{{Cite news |date=1 June 2021 |title=Euro 2020: Trent Alexander-Arnold named in England's 26-man squad |website=BBC Sport |url=https://www.bbc.co.uk/sport/football/57321188 |url-status=live |access-date=7 July 2021 |archive-url=https://web.archive.org/web/20210601214201/https://www.bbc.com/sport/football/57321188 |archive-date=1 June 2021}}</ref> He made one appearance at the tournament, playing the full match against [[Scotland national football team|Scotland]] in a 0–0 draw during the group stage.<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/51197603 |title=England 0–0 Scotland |first=Phil |last=McNulty |website=BBC Sport |date=18 June 2021 |access-date=16 August 2022}}</ref>
+
+James made three appearances for England during the [[2022 FIFA World Cup qualification|2022 FIFA World Cup qualifying campaign]] and five appearances in the [[2022–23 UEFA Nations League]]. However, he was ruled out of the [[2022 FIFA World Cup]] with a knee injury in November 2022.<ref>{{Cite news |url=https://www.espn.co.uk/football/story/_/id/37633712/devastated-reece-james-england-world-cup-squad|title='Devastated' Reece James out of England's World Cup squad|website=ESPN|date=9 November 2022|access-date=10 September 2025}}</ref> He later stated he was "devastated" to be excluded from the England squad.<ref>{{cite news |url=https://www.bbc.com/sport/football/63567613 |title=England defender Reece James says he is 'devastated' to miss World Cup with knee injury |last=Alistair |first=Magowan |website=BBC Sport |date=9 November 2022 |access-date=9 November 2022}}</ref>
+
+In March 2023, James returned to the England squad for [[UEFA Euro 2024 qualifying|UEFA Euro 2024 qualifiers]] against [[Italy national football team|Italy]] and [[Ukraine national football team|Ukraine]]. After making a five-minute substitute appearance in the 2–1 win in Italy on 23 March, James withdrew from the squad due to a hamstring issue.<ref>{{cite news|url=https://www.nytimes.com/athletic/4346360/2023/03/25/reece-james-england-euro-2024-ukraine/|title=Reece James withdraws from England squad for Euro 2024 qualifier against Ukraine|date=25 March 2023|access-date=10 September 2025|website=The Athletic}}</ref>
+
+After a two-year absence, James returned to the England squad for [[2026 FIFA World Cup qualification]] matches against [[Albania national football team|Albania]] and [[Latvia national football team|Latvia]].<ref>{{Cite web|url=https://www.skysports.com/football/news/11095/13327826/marcus-rashford-recalled-as-thomas-tuchel-announces-first-england-squad-as-manager-for-world-cup-qualifiers|title=Marcus Rashford recalled as Thomas Tuchel announces first England squad as head coach for World Cup Qualifiers|date=14 March 2025|access-date=10 September 2025|website=SkySports}}</ref> He appeared as a stoppage-time substitute in the match against Albania on 21 March,<ref>{{Cite web|url=https://www.bbc.com/sport/football/articles/cgm1rrnj217o|title=James set for first England start since 2022s|date=24 March 2025|access-date=10 September 2025|website=BBC Sport}}</ref> before starting at right back and scoring his first senior international goal against Latvia three days later.<ref name=":0" />
+
+James was called up again for October matches against [[Wales national football team|Wales]] and [[Latvia national football team|Latvia]], but later withdrew due to injury and was replaced by [[Nico O'Reilly]].<ref>{{Cite web |date=6 October 2025 |title=Nico O'Reilly replaces injured Reece James in England squad |url=https://www.bbc.com/sport/football/articles/c9wd4848nrxo |access-date=6 October 2025 |website=BBC Sport |language=en-GB}}</ref>
+
+==Style of play==
+James began playing as a striker, moving to become a winger, then a midfielder, before becoming a right back.<ref name="auto" /> His former manager at Chelsea, [[Thomas Tuchel]], described him as "strong and influential".<ref>{{Cite web |title=Exclusive: Thomas Tuchel on Reece James' form and the end of a big week at Stamford Bridge |url=https://www.chelseafc.com/en/videos/v/2021/11/26/exclusive--thomas-tuchel-on-reece-james--form-and-the-end-of-a-b-pDv6ZiIv |access-date=23 January 2022 |publisher=Chelsea F.C.}}</ref> For part of his career he had a [[Wing-back (association football)|wing-back]] partnership with [[Ben Chilwell]] at both club and international level.<ref>{{Cite web |last=Smith |first=Peter |date=20 November 2021 |title=Reece James and Ben Chilwell starring as Thomas Tuchel's wing-back system helps Chelsea shine at both ends |url=https://www.skysports.com/football/news/15116/12469530/reece-james-and-ben-chilwell-starring-as-thomas-tuchels-wing-back-system-helps-chelsea-shine-at-both-ends |access-date=23 January 2022 |website=Sky Sports}}</ref>
+
+==Personal life==
+In August 2020, James made a personal donation and posted a link on his social media accounts to a Crowdfunder site which was looking to boost [[Wigan Athletic F.C.|Wigan's]] funds in a bid to help save his former loan club. He wrote in the post 'Come on let's help @laticsofficial out' in a bid to encourage others to follow.<ref>{{Cite web |title=Media Watch: Reece James helps drive to save Wigan, Harry Redknapp backs Frank Lampard to thrive under pressure, Didier Drogba may get election lifeline |url=https://www.chelseafc.com/en/news/2020/08/31/media-watch--reece-james-helps-drive-to-save-wigan--harry-redkna |access-date=24 April 2022 |publisher=Chelsea F.C.}}</ref>
+
+In January 2021, [[Marcus Rashford]] praised James, along with his teammate [[Mason Mount]], for their "amazing" charitable work. James had spent the past 18 months volunteering with a London-based charity, [[The Felix Project]].<ref>{{cite news |date=21 January 2021 |title=Marcus Rashford praises Reece James and Mason Mount for charity work |url=http://www.theguardian.com/football/2021/jan/21/marcus-rashford-reece-james-mason-mount-charity-work-chelsea-manchester-united |newspaper=The Guardian |location=London |access-date=24 April 2022}}</ref>
+
+James is a fan of fashion shows, and is friends with F1 driver [[Lewis Hamilton]].<ref name="auto"/>
+
+==Career statistics==
+===Club===
+{{updated|match played 24 May 2026}}
+
+{|class="wikitable" style="text-align: center;"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|[[FA Cup]]
+!colspan="2"|[[League Cup|EFL Cup]]
+!colspan="2"|Europe
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="3"|[[Chelsea F.C. Under-23s and Academy|Chelsea U23/U21]]
+|2016–17<ref>{{soccerbase season|99408|2016|access-date=10 October 2020}}</ref>
+|colspan="3"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||1{{efn|name=EFLT}}||0||1||0
+|-
+|2017–18<ref>{{soccerbase season|99408|2017|access-date=10 October 2020}}</ref>
+|colspan="3"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||6{{efn|name=EFLT|Appearance(s) in [[EFL Trophy]]}}||1||6||1
+|-
+!colspan="2"|Total
+!colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||7||1||7||1
+|-
+|rowspan="9"|[[Chelsea F.C.|Chelsea]]
+|[[2018–19 Chelsea F.C. season|2018–19]]<ref name="sb1819">{{soccerbase season|99408|2018|access-date=10 October 2020}}</ref>
+|[[Premier League]]
+|0||0||colspan="2"|—||colspan="2"|—||0||0||colspan="2"|—||0||0
+|-
+|[[2019–20 Chelsea F.C. season|2019–20]]<ref>{{soccerbase season|99408|2019|access-date=10 October 2020}}</ref>
+|Premier League
+|24||0||5||0||2||1||6{{efn|name=UCL|Appearances in [[UEFA Champions League]]}}||1||0||0||37||2
+|-
+|[[2020–21 Chelsea F.C. season|2020–21]]<ref>{{soccerbase season|99408|2020|access-date=11 November 2022}}</ref>
+|Premier League
+|32||1||5||0||0||0||10{{efn|name=UCL}}||0||colspan="2"|—||47||1
+|-
+|[[2021–22 Chelsea F.C. season|2021–22]]<ref>{{soccerbase season|99408|2021|access-date=11 November 2022}}</ref>
+|Premier League
+|26||5||3||0||4||0||6{{efn|name=UCL}}||1||0||0||39||6
+|-
+|[[2022–23 Chelsea F.C. season|2022–23]]<ref>{{soccerbase season|99408|2022|access-date=25 November 2023}}</ref>
+|Premier League
+|16||1||0||0||0||0||8{{efn|name=UCL}}||1||colspan="2"|—||24||2
+|-
+|[[2023–24 Chelsea F.C. season|2023–24]]<ref>{{soccerbase season|99408|2023|access-date=10 December 2023}}</ref>
+|Premier League
+|10||0||0||0||1||0||colspan="2"|—||colspan="2"|—||11||0
+|-
+|[[2024–25 Chelsea F.C. season|2024–25]]<ref>{{soccerbase season|99408|2024|access-date=11 August 2024}}</ref>
+|Premier League
+|19||1||1||0||0||0||7{{efn|Appearances in [[UEFA Conference League]]}}||1||5{{efn|Appearances in [[FIFA Club World Cup]]}}||1||32||3
+|-
+|[[2025–26 Chelsea F.C. season|2025–26]]<ref>{{soccerbase season|99408|2025|access-date=17 August 2025}}</ref>
+|Premier League
+|29||2||2||0||0||0||8{{efn|name=UCL}}||0||colspan="2"|—||39||2
+|-
+!colspan="2"|Total
+!156||10||16||0||7||1||45||4||5||1||229||16
+|-
+|[[Wigan Athletic F.C.|Wigan Athletic]] (loan)
+|[[2018–19 Wigan Athletic F.C. season|2018–19]]<ref name="sb1819"/>
+|[[EFL Championship|Championship]]
+|45||3||1||0||0||0||colspan="2"|—||colspan="2"|—||46||3
+|-
+!colspan="3"|Career total
+!201||13||17||0||7||1||45||4||12||2||282||20
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 6 June 2026}}<ref>{{cite web |url=https://www.worldfootball.net/person/pe494884/reece-james/|title=Reece James: Internationals |website=worldfootball.net|date=18 August 2023 |publisher=HEIM:SPIEL|access-date=6 September 2025}}</ref>
+
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="7"|[[England national football team|England]]
+|2020||4||0
+|-
+|2021||6||0
+|-
+|2022||5||0
+|-
+|2023||1||0
+|-
+|2024||0||0
+|-
+|2025||6||1
+|-
+|2026||1||0
+|-
+!colspan="2"|Total||23||1
+|}
+
+{{updated|match played 13 November 2025}}
+:''England score listed first, score column indicates score after each James goal''
+
+{| class="wikitable sortable"
+|+ List of international goals scored by Reece James
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Cap
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+!scope="col" class="unsortable"|{{abbr|Ref.|Reference}}
+|-
+|style="text-align: center;"|1||24 March 2025||[[Wembley Stadium]], London, England||style="text-align: center;"|18||{{fb|LAT}}||style="text-align: center;"|1–0||style="text-align: center;"|3–0||[[2026 FIFA World Cup qualification]]||style="text-align: center;"|<ref name=":0">{{cite web|url=https://uk.soccerway.com/matches/2025/03/24/europe/wc-qualifying-europe/england/latvia/4571404/|title=England vs. Latvia 3–0: Summary|website=Soccerway|publisher=Perform Group|access-date=24 March 2025}}</ref>
+|}
+
+==Honours==
+'''Chelsea U18'''
+*[[Professional Development League|U18 Premier League]]: [[2016–17 Professional U18 Development League|2016–17]], [[2017–18 Professional U18 Development League|2017–18]]<ref name=Chelsea/>
+*[[FA Youth Cup]]: [[2016–17 FA Youth Cup|2016–17]], [[2017–18 FA Youth Cup|2017–18]]<ref name=Chelsea/>
+
+'''Chelsea'''
+*[[UEFA Champions League]]: [[2020–21 UEFA Champions League|2020–21]]<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/57268064 |title=Manchester City 0–1 Chelsea |first=Phil |last=McNulty |website=BBC Sport |date=29 May 2021 |access-date=11 November 2022}}</ref>
+*[[UEFA Conference League]]: [[2024–25 UEFA Conference League|2024–25]]<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/live/crk2zx2e1xet#Report|title=Chelsea beat Real Betis 4–1 to win Conference League|website=BBC|date=28 May 2025|accessdate=28 May 2025}}</ref>
+*[[UEFA Super Cup]]: [[2021 UEFA Super Cup|2021]]<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/58157867 |title=Chelsea 1–1 Villarreal |first=Mark |last=Sterling |website=BBC Sport |date=11 August 2021 |access-date=11 November 2022}}</ref>
+*[[FIFA Club World Cup]]: [[2021 FIFA Club World Cup|2021]],<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/60352740 |title=Chelsea 2–1 Palmeiras |website=BBC Sport |date=12 February 2022 |access-date=1 April 2024}}<br />{{cite web |url=https://tribuna.com/en/news/chelsea-2022-02-12-injured-james-chilwell-get-club-world-cup-medals/ |title=Injured James & Chilwell get Club World Cup medals |website=Tribuna.com |date=12 February 2022 |access-date=1 April 2024 |quote=Reece James and Ben Chilwell were unable to help their teammates in the Club World Cup due to injuries. But even without their first-choice wing-backs, Chelsea claimed the title and are now champions of the world. And both James and Chilwell received their Club World Cup medals!}}</ref> [[2025 FIFA Club World Cup|2025]]<ref>{{cite web|url=https://www.theguardian.com/football/live/2025/jul/13/chelsea-psg-club-world-cup-2025-final-live|title=Chelsea 3–0 Paris Saint-Germain: Club World Cup 2025 final – live reaction|website=The Guardian|date=13 July 2025|accessdate=13 July 2025}}</ref>
+*[[FA Cup]] runner-up: [[2019–20 FA Cup|2019–20]],<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/53546100 |title=Arsenal 2–1 Chelsea |first=Phil |last=McNulty |website=BBC Sport |date=1 August 2020 |access-date=1 August 2020}}</ref> [[2020–21 FA Cup|2020–21]],<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/57055571 |title=Chelsea 0–1 Leicester City |first=Phil |last=McNulty |website=BBC Sport |date=15 May 2021 |access-date=16 May 2021}}</ref> [[2021–22 FA Cup|2021–22]],<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/61429640 |title=Chelsea 0–0 Liverpool |first=Phil |last=McNulty |website=BBC Sport |date=14 May 2022 |access-date=14 May 2022}}</ref> [[2025–26 FA Cup|2025–26]]<ref>{{Cite web |title=FA Cup final LIVE: Chelsea vs Man City score, watch stream, commentary & updates |url=https://www.bbc.com/sport/football/live/clypx2em7drt |access-date=16 May 2026 |website=BBC Sport |language=en-GB}}</ref>
+*[[EFL Cup]] runner-up: [[2021–22 EFL Cup|2021–22]]<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/60450274 |title=Chelsea 0–0 Liverpool |last=McNulty |first=Phil |website=BBC Sport |date=27 February 2022 |access-date=1 April 2024}}</ref>
+
+'''England U19'''
+*[[UEFA European Under-19 Championship]]: [[2017 UEFA European Under-19 Championship|2017]]<ref name=U19/>
+
+'''England U20'''
+*[[Toulon Tournament]]: [[2017 Toulon Tournament|2017]]<ref>{{cite news |url=https://www.standard.co.uk/sport/football/chelsea-news-reece-james-named-in-toulon-tournament-best-xi-for-england-triumph-a3563406.html |title=Chelsea defender Reece James named in Toulon best XI after England victory |newspaper=Evening Standard |location=London |date=12 June 2017 |access-date=23 March 2019}}</ref>
+
+'''England'''
+*[[UEFA European Championship]] runner-up: [[UEFA Euro 2020|2020]]<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/51198762 |title=England lose shootout in Euro 2020 final |first=Phil |last=McNulty |website=BBC Sport |date=11 July 2021 |access-date=11 July 2021}}</ref>
+
+'''Individual'''
+*[[Toulon Tournament]] Best XI: [[2017 Toulon Tournament#Best XI|2017]]<ref>{{Cite web |title=Hirst named in Team of the Tournament |url=https://www.swfc.co.uk/news/2017/june/hirst-named-in-team-of-the-tournament/ |access-date=3 January 2023 |website=www.swfc.co.uk |language=en-gb}}</ref>
+*[[List of Chelsea F.C. players#Academy Player of the Year|Chelsea Academy Player of the Year]]: [[2017–18 Chelsea F.C. season|2017–18]]<ref name=Chelsea/>
+*[[Wigan Athletic F.C.#Player of the Year (1978–2019)|Wigan Athletic Player of the Year]]: [[2018–19 Wigan Athletic F.C. season|2018–19]]<ref name=WiganAwards/>
+*Wigan Athletic Player's Player of the Year: 2018–19<ref name=WiganAwards/>
+*Wigan Athletic Goal of the Season: 2018–19<ref name=WiganAwards/>
+*FA Cup Team of the Year: 2020–21<ref>{{cite web |url=https://twitter.com/EmiratesFACup/status/1399410349376344071 |title=Here is the #EmiratesFACup Team of the Competition, as voted by you! 🤩 4️⃣ @LCFC 3️⃣ @ChelseaFC 1️⃣ @hashtagutd 1️⃣ @ManUtd 1️⃣ @MarineAFC 1️⃣ @TauntonTownFC Led by Brendan Rodgers 🦊 |via=Twitter |publisher=Emirates FA Cup |date=1 June 2021|access-date=2 June 2021}}</ref>
+*PFA Community Champion Award: 2020–21<ref>{{Cite web |title=James and Telford awarded PFA Community Champions |url=https://www.chelseafc.com/en/news/2021/06/04/james-and-telford-awarded-pfa-community-champions |publisher=Chelsea F.C. |date=4 June 2021|access-date=6 August 2021}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*[https://www.chelseafc.com/en/teams/profile/reece-james Profile] at the Chelsea F.C. website
+*[https://www.englandfootball.com/england/mens-senior-team/squad/reece-james Profile] at the Football Association website
+*{{UEFA player}}
+
+{{Chelsea F.C. squad}}
+{{Navboxes
+| title = England squads
+| bg = white
+| fg = #CF081F
+| bordercolor = #0B0B3F
+| list1 =
+{{England squad UEFA Euro 2020}}
+{{England squad 2026 FIFA World Cup}}
+}}
+{{Wigan Athletic F.C. Player of the Year}}
+{{Authority control}}
+
+{{DEFAULTSORT:James, Reece}}
+[[Category:1999 births]]
+[[Category:Living people]]
+[[Category:People from Redbridge, London]]
+[[Category:Footballers from the London Borough of Redbridge]]
+[[Category:English men's footballers]]
+[[Category:Men's association football defenders]]
+[[Category:Fulham F.C. players]]
+[[Category:Chelsea F.C. players]]
+[[Category:Wigan Athletic F.C. players]]
+[[Category:English Football League players]]
+[[Category:Premier League players]]
+[[Category:UEFA Champions League–winning players]]
+[[Category:UEFA Conference League–winning players]]
+[[Category:England men's youth international footballers]]
+[[Category:England men's under-21 international footballers]]
+[[Category:England men's international footballers]]
+[[Category:UEFA Euro 2020 players]]
+[[Category:Black British sportsmen]]
+[[Category:21st-century Black British people]]
+[[Category:English people of Grenadian descent]]
+[[Category:English people of Dominica descent]]
+[[Category:Sportspeople of Grenadian descent]]
+[[Category:21st-century English sportsmen]]
+[[Category:2026 FIFA World Cup players]]

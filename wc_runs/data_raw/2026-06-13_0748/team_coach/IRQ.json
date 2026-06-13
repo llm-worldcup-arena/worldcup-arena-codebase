@@ -1,0 +1,14 @@
+{
+ "team": "IRQ",
+ "coach": {
+  "name_zh": "格雷厄姆·阿诺德",
+  "name_en": "Graham Arnold",
+  "nationality": "Australia",
+  "career_since": "1989",
+  "person_id": "per_graham_arnold"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。"
+}

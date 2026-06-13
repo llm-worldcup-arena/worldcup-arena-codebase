@@ -1,0 +1,35 @@
+===Current squad===
+The following players were called up for [[2026 FIFA World Cup]] squad.<ref>{{cite web |url=https://x.com/EFA/status/2060488299849073058 |title=🗒️🔴{{pipe}} أعلن الجهاز الفني لمنتخب مصر الأول لكرة القدم بقيادة حسام حسن، قائمة اللاعبين النهائية التي تضم 26 لاعبا لبطولة كأس العالم 2026 بالولايات المتحدة وكندا والمكسيك خلال الفترة من 11 يونيو إلي 19 يوليو المقبلين. |publisher=[[Egyptian Football Association]] |via=[[X (Twitter)|X]] |date=May 29, 2026 |access-date=May 29, 2026}}</ref>
+<br>''Caps and goals are correct as of 6 June 2026, after the match against [[Brazil national football team|Brazil]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Mohamed El Shenawy]]|other=[[Captain (association football)|fifth captain]]|age={{birth date and age|df=yes|1988|12|18}}|caps=76|goals=0|club=[[Al Ahly SC|Al Ahly]]|clubnat=EGY}}
+{{nat fs g player|no=16|pos=GK|name=[[El Mahdy Soliman]]|age={{birth date and age|df=yes|1987|6|8}}|caps=0|goals=0|club=[[Zamalek SC|Zamalek]]|clubnat=EGY}}
+{{nat fs g player|no=23|pos=GK|name=[[Mostafa Shobeir]]|age={{birth date and age|df=yes|2000|3|17}}|caps=9|goals=0|club=[[Al Ahly SC|Al Ahly]]|clubnat=EGY}}
+{{nat fs g player|no=26|pos=GK|name=[[Mohamed Alaa]]|age={{birth date and age|df=yes|1999|1|9}}|caps=0|goals=0|club=[[El Gouna FC|El Gouna]]|clubnat=EGY}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Yasser Ibrahim]]|age={{birth date and age|df=yes|1993|2|10}}|caps=17|goals=1|club=[[Al Ahly SC|Al Ahly]]|clubnat=EGY}}
+{{nat fs g player|no=3|pos=DF|name=[[Mohamed Hany]]|age={{birth date and age|df=yes|1996|1|25}}|caps=42|goals=0|club=[[Al Ahly SC|Al Ahly]]|clubnat=EGY}}
+{{nat fs g player|no=4|pos=DF|name=[[Hossam Abdelmaguid]]|age={{birth date and age|df=yes|2001|4|30}}|caps=13|goals=0|club=[[Zamalek SC|Zamalek]]|clubnat=EGY}}
+{{nat fs g player|no=5|pos=DF|name=[[Ramy Rabia]]|other=[[Captain (association football)|fourth captain]]|age={{birth date and age|df=yes|1993|5|20}}|caps=44|goals=5|club=[[Al Ain FC|Al Ain]]|clubnat=UAE}}
+{{nat fs g player|no=6|pos=DF|name=[[Mohamed Abdelmonem]]|age={{birth date and age|df=yes|1999|2|1}}|caps=36|goals=3|club=[[OGC Nice|Nice]]|clubnat=FRA}}
+{{nat fs g player|no=13|pos=DF|name=[[Ahmed Fatouh]]|age={{birth date and age|df=yes|1998|3|22}}|caps=39|goals=1|club=[[Zamalek SC|Zamalek]]|clubnat=EGY}}
+{{nat fs g player|no=15|pos=DF|name=[[Karim Hafez]]|age={{birth date and age|df=yes|1996|3|12}}|caps=9|goals=0|club=[[Pyramids FC|Pyramids]]|clubnat=EGY}}
+{{nat fs g player|no=24|pos=DF|name=[[Tarek Alaa (footballer, born 2002)|Tarek Alaa]]|age={{birth date and age|df=yes|2002|1|5}}|caps=3|goals=0|club=[[ZED FC|ZED]]|clubnat=EGY}}
+{{nat fs break}}
+{{nat fs g player|no=8|pos=MF|name=[[Emam Ashour]]|age={{birth date and age|df=yes|1998|2|20}}|caps=29|goals=0|club=[[Al Ahly SC|Al Ahly]]|clubnat=EGY}}
+{{nat fs g player|no=11|pos=MF|name=[[Mostafa Ziko]]|age={{birth date and age|df=yes|1997|4|27}}|caps=2|goals=2|club=[[Pyramids FC|Pyramids]]|clubnat=EGY}}
+{{nat fs g player|no=14|pos=MF|name=[[Hamdy Fathy]]|age={{birth date and age|df=yes|1994|9|29}}|caps=63|goals=3|club=[[Al-Wakrah SC|Al-Wakrah]]|clubnat=QAT}}
+{{nat fs g player|no=17|pos=MF|name=[[Mohanad Lasheen]]|age={{birth date and age|df=yes|1996|5|29}}|caps=23|goals=0|club=[[Pyramids FC|Pyramids]]|clubnat=EGY}}
+{{nat fs g player|no=18|pos=MF|name=[[Nabil Emad]]|age={{birth date and age|df=yes|1996|4|6}}|caps=12|goals=0|club=[[Al-Najma SC (Saudi Arabia)|Al-Najma]]|clubnat=KSA}}
+{{nat fs g player|no=19|pos=MF|name=[[Marwan Attia]]|age={{birth date and age|df=yes|1998|8|12}}|caps=34|goals=1|club=[[Al Ahly SC|Al Ahly]]|clubnat=EGY}}
+{{nat fs g player|no=21|pos=MF|name=[[Mahmoud Saber]]|age={{birth date and age|df=yes|2001|7|30}}|caps=15|goals=1|club=[[ZED FC|ZED]]|clubnat=EGY}}
+{{nat fs break}}
+{{nat fs g player|no=7|pos=FW|name=[[Trézéguet (Egyptian footballer)|Trézéguet]]|other=[[Captain (association football)|third captain]]|age={{birth date and age|df=yes|1994|10|1}}|caps=96|goals=23|club=[[Al Ahly SC|Al Ahly]]|clubnat=EGY}}
+{{nat fs g player|no=9|pos=FW|name=[[Hamza Abdelkarim]]|age={{birth date and age|df=yes|2008|1|1}}|caps=2|goals=0|club=[[FC Barcelona Atlètic|Barcelona B]]|clubnat=ESP}}
+{{nat fs g player|no=10|pos=FW|name=[[Mohamed Salah]]|other=[[Captain (association football)|captain]]|age={{birth date and age|df=yes|1992|6|15}}|caps=116|goals=67|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs g player|no=12|pos=FW|name=[[Haissem Hassan]]|age={{birth date and age|df=yes|2002|2|8}}|caps=4|goals=0|club=[[Real Oviedo|Oviedo]]|clubnat=ESP}}
+{{nat fs g player|no=20|pos=FW|name=[[Ibrahim Adel]]|age={{birth date and age|df=yes|2001|4|23}}|caps=24|goals=3|club=[[FC Nordsjælland|Nordsjælland]]|clubnat=DEN}}
+{{nat fs g player|no=22|pos=FW|name=[[Omar Marmoush]]|other=[[Captain (association football)|sixth captain]]|age={{birth date and age|df=yes|1999|2|7}}|caps=49|goals=11|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs g player|no=25|pos=FW|name=[[Zizo (footballer)|Zizo]]|age={{birth date and age|df=yes|1996|1|10}}|caps=63|goals=5|club=[[Al Ahly SC|Al Ahly]]|clubnat=EGY}}
+{{nat fs end}}

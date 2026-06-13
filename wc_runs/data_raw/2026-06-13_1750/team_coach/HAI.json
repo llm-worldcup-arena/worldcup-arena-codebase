@@ -1,0 +1,31 @@
+{
+ "team": "HAI",
+ "coach": {
+  "name_zh": "塞巴斯蒂安·米涅",
+  "name_en": "Sébastien Migné",
+  "nationality": "France",
+  "career_since": "1998",
+  "person_id": "per_sebastien_migne"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 53岁法国教练塞巴斯蒂安·米涅，职业始于1998年，2024年6月接手海地国家队，率队晋级2026世界杯，终结球队52年无缘决赛圈的纪录。\n- 执教风格以4-4-2阵型为主，强调防守结构稳固，世界杯26人名单仅1人来自海地本土联赛，其余均为海外侨民球员，阵容平均年龄24岁。\n- 带队期间克服国内安全危机，将主场迁至库拉索，依靠预选赛核心班底保持战术连续性。\n- 教练生涯深耕非洲足坛，曾执教肯尼亚、刚果（金）、多哥、赤道几内亚等国家队，2018年执教肯尼亚获非洲足联年度最佳国家队提名。\n- 2022-2024年担任喀麦隆助理教练，亲历卡塔尔世界杯小组赛1-0击败巴西；2013年率刚果（金）U20首次晋级洲际锦标赛。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.9,
+  "issues": []
+ },
+ "brief_fetched": "2026-06-13_1750",
+ "brief_info_chars": 6000,
+ "coach_xverify": {
+  "canonical": "Sébastien Migné",
+  "confidence": "high",
+  "discrepancy": "Spelling variation: English sources (Sports Mole, RotoWire) write 'Sebastien Migne' without accent; canonical French spelling is 'Sébastien Migné'. No dispute over identity. FourFourTwo references 'French head coach' (consistent with Migné's nationality) but doesn't name him in snippet.",
+  "sources_agree": 3,
+  "n_sources": 8
+ }
+}

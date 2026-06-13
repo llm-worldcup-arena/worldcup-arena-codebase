@@ -1,0 +1,164 @@
+{{short description|Saudi Arabian footballer (born 1998)}}
+{{Use dmy dates|date=November 2022}}
+{{Infobox football biography
+| name = Nasser Al-Dawsari
+| image = Saudi Arabia v Oman (9) (cropped).jpg
+| full_name = Nasser Essa Shafi Al-Shardan Al-Dawsari<ref name="SW"/>
+| birth_date = {{birth date and age|1998|12|19|df=yes}}
+| birth_place = [[Riyadh]], Saudi Arabia
+| height = 1.78 m<ref name="FIFA 2022">{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=FIFA World Cup Qatar 2022: List of players: Saudi Arabia |publisher=[[FIFA]] |page=24 |date=15 November 2022 |access-date=10 December 2022}}</ref>
+| position = [[Defender (SuperLeague Indonesia)#Full-back|Left-back]], [[Midfielder]]
+| currentclub = [[Al Hilal SFC|Al Hilal]]
+| clubnumber = 16
+| youthyears1 = 2011-2017 
+| youthclubs1 = [[Al Hilal SFC|Al Hilal]]
+| years1 = 2017–
+| clubs1 = [[Al Hilal SFC|Al Hilal]]
+| caps1 = 160
+| goals1 = 3
+| nationalyears1 = 2016–2018
+| nationalteam1 = [[Saudi Arabia national under-20 football team|Saudi Arabia U20]]
+| nationalcaps1 = 2
+| nationalgoals1 = 0
+| nationalyears2 = 2019–2021
+| nationalteam2 = [[Saudi Arabia national under-23 football team|Saudi Arabia U23]]
+| nationalcaps2 = 
+| nationalgoals2 = 
+| nationalyears3 = 2021–
+| nationalteam3 = [[Saudi Arabia national football team|Saudi Arabia]]
+| nationalcaps3 = 43
+| nationalgoals3 = 0
+| club-update = 21 May 2026
+| nationalteam-update = 6 June 2026
+| caption = Al-Dawsari with [[Saudi Arabia national football team|Saudi Arabia]] at the [[2023 AFC Asian Cup]]
+}}
+'''Nasser Essa Shafi Al-Shardan Al-Dawsari''' ({{langx|ar|ناصر عيسى الدوسري}}; born 19 December 1998) is a Saudi Arabian professional [[football (soccer)|footballer]] who plays as a [[Defender (association football)#Full-back|left-back]], [[Defensive Midfielder|defensive-midfielder]] or [[Central Midfielder|central-midfielder]] for [[Saudi Pro League]] club [[Al Hilal SFC|Al Hilal]] and the [[Saudi Arabia national football team|Saudi Arabia national team]].<ref>{{Soccerway|nasser-al-dawsari/465476}}</ref>
+
+==Club career==
+Al-Dawsari started his career at Al-Hilal in 2011 at the age of 13. 23 November 2021, Al-Dawsari scored the fastest goal ever in the [[AFC Champions League]], just 16 seconds into the game, propelling his side to a 2–0 victory over [[Pohang Steelers]] to secure a record fourth continental title for [[Al-Hilal FC|Al Hilal]].<ref name=AFCgoal />
+
+==Career statistics==
+===Club===
+{{Update section|date=February 2026}}
+{{updated|4 July 2024}}<ref name="SW">{{cite web |title=NASSER AL-DAWSARI |url=https://int.soccerway.com/players/nasser-al-dawsari/465476/}}</ref>
+
+{| class="wikitable" style="text-align: center"
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|[[Kings Cup (Saudi Arabia)|King Cup]]
+!colspan=2|Continental
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan=8|[[Al Hilal SFC|Al Hilal]]
+|[[2017–18 Saudi Professional League|2017–18]]
+|rowspan=8|[[Saudi Professional League|SPL]]
+|3||0||1||0||1{{efn|name=AFC|Appearances in [[AFC Champions League]]}}||0||3{{efn|name=AC|Appearances in [[Arab Club Champions Cup]]}}||1||8||1
+|-
+|[[2018–19 Al-Hilal FC season|2018–19]]
+|13||0||5||1||2{{efn|name=AFC}}||0||8{{efn|Seven appearances in Arab Club Champions Cup, and one appearance in [[Saudi Super Cup]]}}||0||28||1
+|-
+|[[2019–20 Al-Hilal FC season|2019–20]]
+|9||0||3||0||6{{efn|name=AFC}}||0||0||0||18||0
+|-
+|[[2020–21 Al Hilal SFC season|2020–21]]
+|16||1||0||0||5{{efn|name=AFC}}||0||1{{efn|name=SC|Appearances in Saudi Super Cup}}||0||22||1
+|-
+|[[2021–22 Al Hilal SFC season|2021–22]]
+|14||0||1||0||9{{efn|name=AFC}}||2||0||0||24||2
+|-
+|[[2022–23 Al Hilal SFC season|2022–23]]
+|22||0||2||0||3{{efn|name=AFC}}||0||4{{efn|One appearance in [[Saudi Super Cup]], and three appearances in [[FIFA Club World Cup]]}}||0||31||0
+|-
+|[[2023–24 Al Hilal SFC season|2023–24]]
+|25||1||4||0||6{{efn|name=AFC}}||0||5{{efn|Four appearances in [[Arab Club Champions Cup]], and one appearance and one goal in [[Saudi Super Cup]]}}||1||40||2
+|-
+|[[2024–25 Al Hilal SFC season|2024–25]]
+|31||1||3||0||11{{efn|name=AFC}}||3||7{{efn|Two appearances in Saudi Super Cup, five appearances in FIFA Club World Cup}}||0||52||4
+|-
+!colspan="3"|Career total
+!133!!3!!19!!1!!43!!5!!28!!2!!223!!11
+|}
+
+{{notelist}}
+
+===International===
+:''Statistics accurate as of match played 6 June 2026''<ref>{{NFT player|id=82010}}</ref>
+
+{| class="wikitable" style="text-align:center"
+| colspan=3|[[Saudi Arabia national football team|Saudi Arabia]]
+|-
+!Year!!Apps!!Goals
+|-
+|2021||4||0
+|-
+|2022||7||0
+|-
+|2023||5||0
+|-
+|2024||13||0
+|-
+|2025||12||0
+|-
+|2026||2||0
+|-
+!Total||43||0
+|}
+
+;International goals
+{|class="wikitable plainrowheaders sortable"
+|-
+!Goal!!Date!!Venue!!Opponent!!Score!!Result!!Competition
+|-
+|- style="background:#8fcfdf;"
+|- style="background:#8fcfdf;"
+|  || 17 December 2024 || [[Al-Shabab Club Stadium]], Riyadh, Saudi Arabia || {{fb|TRI}} || align=center | '''3'''–0 || align=center | 3–1 || Unofficial
+|}
+
+==Honours==
+'''Al Hilal'''
+* [[Saudi Professional League]]: [[2017–18 Saudi Professional League|2017–18]], [[2019–20 Saudi Professional League|2019–20]], [[2020–21 Saudi Professional League|2020–21]], [[2021–22 Saudi Professional League|2021–22]], [[2023–24 Saudi Pro League|2023–24]]
+* [[Kings Cup (Saudi Arabia)|King Cup]]: [[2019–20 King Cup|2019–20]], [[2022–23 King Cup|2022–23]], [[2023–24 King Cup|2023–24]]
+* [[Saudi Super Cup]]: [[2018 Saudi Super Cup|2018]], [[2021 Saudi Super Cup|2021]], [[2023 Saudi Super Cup|2023]],<ref>{{cite news |date=11 April 2024 |title=Al Hilal thrash Al Ittihad to win Saudi Super Cup |url=https://www.espn.com/soccer/story/_/id/39924782/al-hilal-thrash-al-ittihad-win-saudi-super-cup |access-date=11 April 2024 |publisher=ESPN}}</ref> [[2024 Saudi Super Cup|2024]]<ref>{{cite news |date=17 August 2024 |title=Cristiano Ronaldo, Al Nassr routed by Al Hilal in Saudi Super Cup final |url=https://www.espn.com/soccer/story/_/id/40895601/cristiano-ronaldo-al-nassr-al-hilal-saudi-super-cup-final |access-date=17 August 2024 |publisher=ESPN}}</ref>
+* [[AFC Champions League]]: [[2019 AFC Champions League|2019]], [[2021 AFC Champions League|2021]]<ref name=AFCgoal />
+
+'''Records'''
+*Fastest goal in the [[AFC Champions League]] Final: [[2021 AFC Champions League Final|2021]] (16 seconds in against [[Pohang Steelers]])<ref name=AFCgoal>{{cite web|url=https://www.france24.com/en/live-news/20211123-al-dawsari-s-16th-second-goal-spurs-al-hilal-to-record-fourth-afc-title|title=Al-Dawsari's 16th-second goal spurs Al Hilal to record fourth AFC title|website=France24|date=23 November 2021|access-date=28 November 2021}}</ref>
+
+==References==
+{{reflist}}
+
+{{Al-Hilal FC squad}}
+{{Navboxes
+| title = Saudi Arabia squads
+| bg          = #006C35
+| fg          = #FFFFFF
+| bordercolor = #005429
+| list =
+{{Saudi Arabia squad 2022 FIFA World Cup}}
+{{Saudi Arabia squad 2023 AFC Asian Cup}}
+{{Saudi Arabia squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Dawsari, Nasser}}
+[[Category:1998 births]]
+[[Category:Living people]]
+[[Category:Footballers from Riyadh]]
+[[Category:Saudi Arabian men's footballers]]
+[[Category:21st-century Saudi Arabian sportsmen]]
+[[Category:Saudi Arabia men's youth international footballers]]
+[[Category:Saudi Arabia men's international footballers]]
+[[Category:Men's association football midfielders]]
+[[Category:Al Hilal SFC players]]
+[[Category:Saudi Pro League players]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:2023 AFC Asian Cup players]]
+[[Category:AFC Champions League Elite–winning players]]
+[[Category:2026 FIFA World Cup players]]
+
+
+{{SaudiArabia-footy-midfielder-stub}}

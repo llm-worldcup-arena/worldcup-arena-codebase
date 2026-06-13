@@ -1,0 +1,248 @@
+{{Short description|Iranian footballer (born 1998)}}
+{{Distinguish|Mohammad Mehdi Mohebi}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+| name = Mohammad Mohebi
+| image = Mohammad Mohebi, Esteghlal FC vs Gol Gohar Sirjan FC, 6 March 2023.jpg
+| caption = Mohammad Mohebi with [[Esteghlal F.C.|Esteghlal]] at 2023
+| fullname = Mohammad Ali Mohebi
+| height = 1.85 m
+| birth_date = {{birth date and age|1998|12|20|df=yes}}
+| birth_place = [[Bushehr]], Iran
+| currentclub = [[FC Rostov|Rostov]]
+| clubnumber = 9
+| position = [[Midfielder (association football)|Midfielder]], [[Forward (association football)|Forward]]
+| youthclubs1 = [[Shahin Bushehr F.C.|Shahin Bushehr]]
+| youthyears1 = 2016–2017
+| years1 = 2017–2019
+| clubs1 = [[Shahin Bushehr F.C.|Shahin Bushehr]]
+| caps1 = 36
+| goals1 = 4
+| years2 = 2019–2021
+| clubs2 = [[Sepahan S.C.|Sepahan]]
+| caps2 = 53
+| goals2 = 9
+| years3 = 2021–2023
+| clubs3 = [[C.D. Santa Clara|Santa Clara]]
+| caps3 = 16
+| goals3 = 3
+| years4 = 2022–2023
+| clubs4 = → [[Esteghlal F.C.|Esteghlal]] (loan)
+| caps4 = 28
+| goals4 = 8
+| years5 = 2023–
+| clubs5 = [[FC Rostov|Rostov]]
+| caps5 = 65
+| goals5 = 13
+| nationalyears1 = 2019–
+| nationalteam1 = [[Iran national football team|Iran]]
+| nationalcaps1 = 36
+| nationalgoals1 = 14
+| pcupdate = 17 May 2026
+| ntupdate = 30 May 2026
+| medaltemplates = {{MedalCountry|{{fb|IRN}}}}
+{{Medal|Competition|[[CAFA Nations Cup]]}}
+{{Medal|W|[[2023 CAFA Nations Cup|2023 Kyrgyzstan – Uzbekistan]]|[[2023 CAFA Nations Cup squads#Iran|Team]]}}
+{{Medal|RU|[[2025 CAFA Nations Cup|2025 Tajikistan–Uzbekistan]]|[[2025 CAFA Nations Cup squads#Iran|Team]]}}
+}}
+
+'''Mohammad Mohebi''' ({{langx|fa|محمد محبی}}; born 20 December 1998) is an Iranian professional [[Association football|footballer]] who plays as a [[winger (association football)|winger]] for Russian club [[FC Rostov|Rostov]] and the [[Iran national football team|Iran national team]].<ref>{{Soccerway|mohammad-mohebi/619060}}</ref>
+
+==Club career==
+===Sepahan===
+He made his debut for [[Sepahan S.C.|Sepahan]] in first fixtures of [[2019–20 Iran Pro League]] against his former team, [[Shahin Bushehr F.C.|Shahin Bushehr]], and scored first goal of match.<ref>{{Cite web |url=https://www.varzesh3.com/match/80301 |title=بازی شاهین شهرداری بوشهر - سپاهان}}</ref>
+
+===Santa Clara===
+On 24 August 2021, Mohebi joined [[Primeira Liga]] side [[C.D. Santa Clara|Santa Clara]] on a three-year deal with [[Shahriyar Moghanlou]] moving in the opposite direction.<ref>{{cite web|url=https://cdsantaclara.com/oficial-mohebi/|title=OFICIAL: MOHEBI|publisher=[[C.D. Santa Clara]]|date=24 August 2021|access-date=25 August 2021}}</ref>
+
+===Rostov===
+On 13 July 2023, Mohebi signed with [[Russian Premier League]] club [[FC Rostov|Rostov]].<ref>{{cite web|publisher=FC Rostov|url=https://fc-rostov.ru/ru/news/2691|title=МОХАММАД МОХЕБИ – ИГРОК ФК "РОСТОВ"!|date=13 July 2023|language=ru}}</ref> He was voted league's player of the month for March 2024 after scoring 4 goals and providing 1 assist.<ref name="Mar24">{{cite web|publisher=Russian Premier League|url=https://premium.premierliga.ru/news-and-media/novosti-i-media_237.html|title=МОХАММАД МОХЕББИ – WINLINE ИГРОК МАРТА!|date=10 April 2024|language=ru}}</ref>
+
+==International career==
+He made his debut against [[Cambodia national football team|Cambodia]] in a [[2022 FIFA World Cup]] [[2022 FIFA World Cup qualification|qualification]] match on 10 October 2019, in which he scored two goals and had two assists on his debut.<ref>{{cite web |title=Iran thrash Cambodia 14-0 on marquee night for female fans |url=https://www.reuters.com/article/us-soccer-worldcup-iran/iran-thrash-cambodia-14-0-on-marquee-night-for-female-fans-idUSKBN1WP2O5 |website=Reuters |publisher=Reuters |access-date=10 October 2019}}</ref> He scored against [[Japan national football team|Japan]] at quarter-final of [[2023 AFC Asian Cup]].<ref>{{Cite web |title=گل دیدنی محبی، ایران برگشت! |url=https://www.varzesh3.com/news/1999510/%DA%AF%D9%84-%D8%AF%DB%8C%D8%AF%D9%86%DB%8C-%D9%85%D8%AD%D8%A8%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%B1%DA%AF%D8%B4%D8%AA |access-date=2024-02-04 |website=ورزش سه |language=fa}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 17 May 2026}}
+
+{|class="wikitable" style="text-align: center;"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|National cup
+!colspan=2|League cup
+!colspan=2|Continental
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="3"|[[Shahin Bushehr F.C.|Shahin Busheshr]]
+|[[2017–18 League 2 (Iran)|2017–18]]
+|[[League 2 (Iran)|League 2]]
+|25||3||colspan=2|—|| colspan="2" rowspan="2" |—|| colspan="2" rowspan="2" |—|| colspan="2" rowspan="2" |—||25||3
+|-
+|[[2018–19 Azadegan League|2018–19]]
+|[[Azadegan League]]
+|24||2||1||0||25||2
+|-
+!colspan="2"|Total
+!49!!5!!1!!0!!colspan=2|—!!colspan=2|—!!colspan=2|—!!50!!5
+|-
+|rowspan="3"|[[Sepahan S.C.|Sepahan]]
+|[[2019–20 Persian Gulf Pro League|2019–20]]
+|[[Persian Gulf Pro League]]
+|26||6||3||1|| colspan="2" rowspan="2" |—||6{{efn|name=ACL|Appearances in [[AFC Champions League]]}}||1|| colspan="2" rowspan="2" |—||35||8
+|-
+|[[2020–21 Persian Gulf Pro League|2020–21]]
+|Persian Gulf Pro League
+|27||3||2||1|| colspan="2" |—||29||4
+|-
+!colspan=2|Total
+!53!!9!!5!!2!!0!!0!!6!!1!!0!!0!!64!!12
+|-
+|[[C.D. Santa Clara|Santa Clara]]
+|[[2021–22 C.D. Santa Clara season|2021–22]]
+|[[Primeira Liga]]
+|16||3||0||0||2||0|| colspan="2" rowspan="3" |—||colspan=2|—||18||3
+|-
+|[[Esteghlal F.C.|Esteghlal]] (loan)
+|[[2022–23 Persian Gulf Pro League|2022–23]]
+|Persian Gulf Pro League
+|28||8||5||2||colspan=2|—||1{{efn|Appearance in [[Iranian Super Cup]]}}||0||34||10
+|-
+|rowspan="4"|[[FC Rostov|Rostov]]
+|[[2023–24 Russian Premier League|2023–24]]
+|[[Russian Premier League]]
+|22||6||7||0||colspan=2|—|| colspan="2" |—||29||6
+|-
+|[[2024–25 FC Rostov season|2024–25]]
+|Russian Premier League
+|15||4||5||2|| colspan="2" |—|| colspan="2" |—|| colspan="2" |—||20||6
+|-
+|[[2025–26 Russian Premier League|2025–26]]
+|Russian Premier League
+|28||3||3||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||31||3
+|-
+!colspan=2|Total
+!65!!13!!15!!2!! colspan="2" |—!! colspan="2" |—!! colspan="2" |—!!80!!15
+|-
+!colspan=3|Career total
+!211!!38!!26!!6!!2!!0!!6!!1!!1!!0!!246!!45
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 30 May 2026}}
+{|class=wikitable style=text-align:center
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="4"|[[Iran national football team|Iran]]
+|2019||3||2
+|-
+|2023||11||2
+|-
+|2024||13||6
+|-
+|2025||6||3
+|-
+|2026||3||1
+|-
+!colspan="2"|Total||36||14
+|}
+
+:''Scores and results list Iran's goal tally first.''<ref name="NFT">{{NFT player|id=75674|access-date=14 October 2019}}</ref>
+
+{| class="wikitable"
+|+ List of international goals scored by Mohammad Mohebi
+! No. !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| 1. || rowspan="2" | 10 October 2019 || rowspan="2" | [[Azadi Stadium]], [[Tehran]], Iran || rowspan="2" | {{fb|CAM}} || align=center | '''11'''–0 || rowspan="2" style="text-align:center"| 14–0 || rowspan="2" | [[2022 FIFA World Cup qualification – AFC second round|2022 FIFA World Cup qualification]]
+|-
+| 2. || align=center | '''12'''–0
+|-
+| 3. || 28 March 2023 || Azadi Stadium, Tehran, Iran || {{fb|KEN}} || align=center | '''1'''–1 || align=center | 2–1 || rowspan="2" | [[Friendly (association football)|Friendly]]
+|-
+| 4. || 7 September 2023 || [[Hristo Botev Stadium (Plovdiv)|Hristo Botev Stadium]], [[Plovdiv]], Bulgaria || {{fb|BUL}} || align=center | '''1'''–0 || align=center | 1–0 
+|-
+| 5. || 3 February 2024 || [[Education City Stadium]], [[Al Rayyan (city)|Al Rayyan]], Qatar || {{fb|JAP}} || align=center | '''1'''–1 || align=center | 2–1 || [[2023 AFC Asian Cup knockout stage|2023 AFC Asian Cup]]
+|-
+| 6. || 21 March 2024|| Azadi Stadium, Tehran, Iran || {{fb|TKM}} || align=center | '''4'''–0 || style="text-align:center"| 5–0 || [[2026 FIFA World Cup qualification – AFC second round|2026 FIFA World Cup qualification]]
+|-
+| 7. || rowspan="2" | 15 October 2024 || rowspan="2" | [[Rashid Stadium]], [[Dubai]], United Arab Emirates || rowspan="2" | {{fb|QAT}} || align=center | '''3'''–1 || rowspan="2" style="text-align:center"| 4–1 || rowspan="5" | [[2026 FIFA World Cup qualification – AFC third round|2026 FIFA World Cup qualification]]
+|-
+| 8. || align="center"|'''4'''–1
+|-
+| 9. || rowspan="2" | 14 November 2024 || rowspan="2" | [[New Laos National Stadium]], [[Vientiane]], Laos || rowspan="2" | {{fb|PRK}} || align=centeR |'''2'''–0 || rowspan="2" style="text-align:center"| 3–2 
+|-
+| 10. || align="center"| '''3'''–0
+|-
+| 11. || 20 March 2025 || Azadi Stadium, Tehran, Iran || {{fb|UAE}} || align="center" |'''2'''–0 ||style="text-align:center"|2–0
+|-
+| 12. || 4 September 2025 || [[Hisor Central Stadium]], [[Hisor|Hisar]], Tajikistan, ||{{fb|TJK}} || align="center" |'''2'''–0 || style="text-align:center"| 2–2||[[2025 CAFA Nations Cup]]
+|-
+| 13. || 14 October 2025 || [[Rashid Stadium]], [[Dubai]], United Arab Emirates, ||{{fb|TAN}} || align="center| '''2'''–0 || style="text-align:center| 2–0 || Friendly
+|-
+| 14. || 31 March 2016 || [[Antalya Stadium|Corendon Airlines Park]], [[Antalya]], Turkey || {{fb|CRC}} || align=center | '''3'''–0 ||style="text-align:center"| 5–0 || [[Jordan International Tournament|2026 Jordan International Tournament]]
+|}
+
+== Honours ==
+'''Sepahan'''
+*[[Iran Pro League]] runner-up: [[2020–21 Iran Pro League|2020–21]]
+
+'''Esteghlal'''
+*[[Iranian Super Cup]]: [[2022 Iranian Super Cup|2022]]
+
+'''Iran'''
+*[[CAFA Nations Cup]]: [[2023 CAFA Nations Cup|2023]]
+
+'''Individual'''
+*[[Russian Premier League]] Player of the Month: March 2024<ref name="Mar24" />
+*[[Russian Football Union]] First-class Player: [[2023–24 Russian Premier League|2023–24]]<ref>{{cite news |url=https://rfs.ru/news/221168 |title=Тюкавин – лучший футболист России сезона 2023/24 |publisher=Russian Football Union |language=ru |date=2024-09-19 |access-date=2025-04-15}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{NFT player|75674}}
+
+{{FC Rostov squad}}
+{{Navboxes
+|title = Iran squads
+|bg = white
+|fg = #DA0000
+|bordercolor = #239F40
+|list1=
+{{Iran squad 2023 AFC Asian Cup}}
+{{Iran squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Mohebi, Mohammad}}
+[[Category:1998 births]]
+[[Category:Sportspeople from Bushehr]]
+[[Category:Living people]]
+[[Category:Men's association football forwards]]
+[[Category:Iranian men's footballers]]
+[[Category:Iran men's international footballers]]
+[[Category:Sepahan S.C. footballers]]
+[[Category:Shahin Bushehr F.C. players]]
+[[Category:C.D. Santa Clara players]]
+[[Category:Esteghlal F.C. players]]
+[[Category:FC Rostov players]]
+[[Category:Persian Gulf Pro League players]]
+[[Category:Primeira Liga players]]
+[[Category:Russian Premier League players]]
+[[Category:Iranian expatriate men's footballers]]
+[[Category:Expatriate men's footballers in Portugal]]
+[[Category:Iranian expatriate sportspeople in Portugal]]
+[[Category:Expatriate men's footballers in Russia]]
+[[Category:Iranian expatriate sportspeople in Russia]]
+[[Category:21st-century Iranian sportsmen]]
+[[Category:2023 AFC Asian Cup players]]
+[[Category:2026 FIFA World Cup players]]
+
+
+{{Iran-footy-forward-stub}}

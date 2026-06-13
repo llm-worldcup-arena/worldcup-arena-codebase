@@ -1,0 +1,31 @@
+{
+ "team": "USA",
+ "coach": {
+  "name_zh": "毛里西奥·波切蒂诺",
+  "name_en": "Mauricio Pochettino",
+  "nationality": "Argentina",
+  "career_since": "2009",
+  "person_id": "per_mauricio_pochettino"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 阿根廷人毛里西奥·波切蒂诺自2009年起执教，现任美国男足主教练，正带队备战2026年世界杯首战巴拉圭，仅获三天完整准备时间。\n- 世界杯前两场热身赛取得1胜1负：3-2击败塞内加尔，随后1-2负于德国，球队整体表现获认可。\n- 面临三大主力球员体能隐患：克里斯·理查兹、泰勒·亚当斯与安东尼·罗宾逊均在世界杯开赛前出现状况。\n- 理查兹因脚踝伤缺三周后已于6月8日恢复全队合练，此前错过了水晶宫欧协联决赛及美国队两场热身赛。\n- 亚当斯未受伤但处于\"负荷管理\"状态，6月8日训练仅穿跑鞋在场边活动，因其在伯恩茅斯赛季末段出场频繁。\n- 罗宾逊在对德国热身赛中半场伤退但无大碍，目前已正常参与全队训练，该战他曾打入一记精彩进球。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.95,
+  "issues": []
+ },
+ "brief_fetched": "2026-06-13_1750",
+ "brief_info_chars": 6000,
+ "coach_xverify": {
+  "canonical": "Mauricio Pochettino",
+  "confidence": "high",
+  "discrepancy": "",
+  "sources_agree": 4,
+  "n_sources": 8
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "team": "ESP",
+ "coach": {
+  "name_zh": "路易斯·德拉富恩特",
+  "name_en": "Luis de la Fuente",
+  "nationality": "Spain",
+  "career_since": "",
+  "person_id": "per_luis_de_la_fuente"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "路易斯·德拉富恩特，西班牙国家队主帅，正率队征战2026年美加墨世界杯。\n\n伤病管理审慎：腿筋受伤的亚马尔、尼科·威廉姆斯和维克托·穆尼奥斯缺席对秘鲁的最后热身赛，留在查塔努加基地康复。德拉富恩特对亚马尔赶上首战持谨慎乐观态度，但明确其出场时间可能受限至\"仅几分钟\"。\n\n小组赛赛程：6月15日亚特兰大对阵佛得角，6月21日亚特兰大对阵沙特阿拉伯，6月26日瓜达拉哈拉迎战乌拉圭。",
+ "brief_qc": {
+  "dirty": true,
+  "verbose": false,
+  "need_fix": true,
+  "keep_ratio": 0.81,
+  "issues": [
+   "含系统ID无关信息",
+   "执教信息缺失说明冗余"
+  ]
+ },
+ "brief_fetched": "2026-06-13_1138",
+ "brief_info_chars": 6000
+}

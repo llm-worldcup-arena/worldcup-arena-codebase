@@ -1,0 +1,34 @@
+===Current squad===
+The following 26 players were called up to the [[2026 FIFA World Cup]], and for the pre-tournament friendly matches against [[Haiti national football team|Haiti]] and [[England national football team|England]] on 2 and 7 June 2026, respectively.<ref>{{cite web|title=New Zealand Squad Named for FIFA World Cup 2026|url=https://www.nzfootball.co.nz/newsarticle/165753?newsfeedId=1841052|publisher=[[New Zealand Football]]|date=14 May 2026|access-date=14 May 2026}}</ref>
+<br>''Caps and goals updated as of 7 June 2026 after the match against [[England national football team|England]].''
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Max Crocombe]]|age={{bda|1993|8|12|df=y}}|caps=24|goals=0|club=[[Millwall F.C.|Millwall]]|clubnat=ENG}}
+{{nat fs g player|no=12|pos=GK|name=[[Alex Paulsen]]|age={{bda|2002|7|4|df=y}}|caps=8|goals=0|club=[[Lechia Gdańsk]]|clubnat=POL}}
+{{nat fs g player|no=22|pos=GK|name=[[Michael Woud]]|age={{bda|1999|1|16|df=y}}|caps=6|goals=0|club=[[Auckland FC]]|clubnat=NZL}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Tim Payne (footballer)|Tim Payne]]|age={{bda|1994|1|10|df=y}}|caps=51|goals=3|club=[[Wellington Phoenix FC|Wellington Phoenix]]|clubnat=NZL}}
+{{nat fs g player|no=3|pos=DF|name=[[Francis de Vries]]|age={{bda|1994|11|28|df=y}}|caps=20|goals=1|club=[[Auckland FC]]|clubnat=NZL}}
+{{nat fs g player|no=4|pos=DF|name=[[Tyler Bindon]]|age={{bda|2005|1|27|df=y}}|caps=25|goals=3|club=[[Sheffield United F.C.|Sheffield United]]|clubnat=ENG}}
+{{nat fs g player|no=5|pos=DF|name=[[Michael Boxall]]|age={{bda|1988|8|18|df=y}}|caps=63|goals=1|club=[[Minnesota United FC|Minnesota United]]|clubnat=USA}}
+{{nat fs g player|no=13|pos=DF|name=[[Liberato Cacace]]|age={{bda|2000|9|27|df=y}}|caps=37|goals=1|club=[[Wrexham A.F.C.|Wrexham]]|clubnat=WAL}}
+{{nat fs g player|no=15|pos=DF|name=[[Nando Pijnaker]]|age={{bda|1999|2|25|df=y}}|caps=25|goals=0|club=[[Auckland FC]]|clubnat=NZL}}
+{{nat fs g player|no=16|pos=DF|name=[[Finn Surman]]|age={{bda|2003|9|23|df=y}}|caps=19|goals=2|club=[[Portland Timbers]]|clubnat=USA}}
+{{nat fs g player|no=24|pos=DF|name=[[Callan Elliot]]|age={{bda|1999|7|7|df=y}}|caps=11|goals=0|club=[[Auckland FC]]|clubnat=NZL}}
+{{nat fs g player|no=26|pos=DF|name=[[Tommy Smith (footballer, born 1990)|Tommy Smith]]|age={{bda|1990|3|31|df=y}}|caps=56|goals=2|club=[[Braintree Town F.C.|Braintree Town]]|clubnat=ENG}}
+{{nat fs break}}
+{{nat fs g player|no=6|pos=MF|name=[[Joe Bell (footballer)|Joe Bell]]|age={{bda|1999|4|27|df=y}}|caps=32|goals=1|club=[[Viking FK|Viking]]|clubnat=NOR}}
+{{nat fs g player|no=7|pos=MF|name=[[Matthew Garbett]]|age={{bda|2002|4|13|df=y}}|caps=37|goals=5|club=[[Peterborough United F.C.|Peterborough United]]|clubnat=ENG}}
+{{nat fs g player|no=8|pos=MF|name=[[Marko Stamenić]]|age={{bda|2002|2|19|df=y}}|caps=39|goals=3|club=[[Swansea City A.F.C.|Swansea City]]|clubnat=WAL}}
+{{nat fs g player|no=10|pos=MF|name=[[Sarpreet Singh]]|age={{bda|1999|2|20|df=y}}|caps=28|goals=3|club=[[Wellington Phoenix FC|Wellington Phoenix]]|clubnat=NZL}}
+{{nat fs g player|no=11|pos=MF|name=[[Elijah Just]]|age={{bda|2000|5|1|df=y}}|caps=44|goals=9|club=[[Motherwell F.C.|Motherwell]]|clubnat=SCO}}
+{{nat fs g player|no=14|pos=MF|name=[[Alex Rufer]]|age={{bda|1996|6|12|df=y}}|caps=26|goals=0|club=[[Wellington Phoenix FC|Wellington Phoenix]]|clubnat=NZL}}
+{{nat fs g player|no=19|pos=MF|name=[[Ben Old]]|age={{bda|2002|8|13|df=y}}|caps=24|goals=2|club=[[AS Saint-Étienne|Saint-Étienne]]|clubnat=FRA}}
+{{nat fs g player|no=20|pos=MF|name=[[Callum McCowatt]]|age={{bda|1999|4|30|df=y}}|caps=32|goals=4|club=[[Silkeborg IF|Silkeborg]]|clubnat=DEN}}
+{{nat fs g player|no=23|pos=MF|name=[[Ryan Thomas (footballer)|Ryan Thomas]]|age={{bda|1994|12|20|df=y}}|caps=25|goals=3|club=[[PEC Zwolle]]|clubnat=NED}}
+{{nat fs g player|no=25|pos=MF|name=[[Lachlan Bayliss]]|age={{bda|2002|7|24|df=y}}|caps=4|goals=0|club=[[Newcastle Jets FC|Newcastle Jets]]|clubnat=AUS}}
+{{nat fs break}}
+{{nat fs g player|no=9|pos=FW|name=[[Chris Wood (footballer, born 1991)|Chris Wood]]|other=[[Captain (association football)|captain]]|age={{bda|1991|12|7|df=y}}|caps=90|goals=[[List of international goals scored by Chris Wood|45]]|club=[[Nottingham Forest F.C.|Nottingham Forest]]|clubnat=ENG}}
+{{nat fs g player|no=17|pos=FW|name=[[Kosta Barbarouses]]|age={{bda|1990|2|19|df=y}}|caps=76|goals=10|club=[[Western Sydney Wanderers FC|Western Sydney Wanderers]]|clubnat=AUS}}
+{{nat fs g player|no=18|pos=FW|name=[[Ben Waine]]|age={{bda|2001|6|11|df=y}}|caps=31|goals=9|club=[[Port Vale F.C.|Port Vale]]|clubnat=ENG}}
+{{nat fs g player|no=21|pos=FW|name=[[Jesse Randall]]|age={{bda|2002|8|19|df=y}}|caps=11|goals=2|club=[[Auckland FC]]|clubnat=NZL}}
+{{nat fs end}}

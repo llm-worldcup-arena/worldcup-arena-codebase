@@ -1,0 +1,105 @@
+{{short description|Bosnian footballer (born 2007)}}
+{{Use dmy dates|date=June 2026}}
+{{Infobox football biography
+| name = Mladen Jurkas
+| image = 
+| image_size = 
+| caption = 
+| fullname = Mladen Jurkas
+| birth_date = {{Birth date and age|2007|10|07|df=y}}
+| birth_place = [[Doboj]], Bosnia and Herzegovina
+| height = 1.93 m
+| position = [[Goalkeeper (association football)|Goalkeeper]]
+| currentclub = [[FK Borac Banja Luka|Borac Banja Luka]]
+| clubnumber = 72
+| youthyears1 = 2014–2022
+| youthclubs1 = [[FK Sloga Doboj|Sloga Doboj]]
+| youthyears2 = 2022–2025
+| youthclubs2 = [[FK Borac Banja Luka|Borac Banja Luka]]
+| years1 = 2025–
+| clubs1 = [[FK Borac Banja Luka|Borac Banja Luka]]
+| caps1 = 33
+| goals1 = 0
+| nationalyears1 = 2021–2022
+| nationalteam1 = [[Bosnia and Herzegovina national under-15 football team|Bosnia and Herzegovina U15]]
+| nationalcaps1 = 6
+| nationalgoals1 = 0
+| nationalyears2 = 2023–2024
+| nationalteam2 = [[Bosnia and Herzegovina national under-16 football team|Bosnia and Herzegovina U16]]
+| nationalcaps2 = 2
+| nationalgoals2 = 0
+| nationalyears3 = 2023–2024
+| nationalteam3 = [[Bosnia and Herzegovina national under-17 football team|Bosnia and Herzegovina U17]]
+| nationalcaps3 = 9
+| nationalgoals3 = 0
+| nationalyears4 = 2025–
+| nationalteam4 = [[Bosnia and Herzegovina national under-21 football team|Bosnia and Herzegovina U21]]
+| nationalcaps4 = 4
+| nationalgoals4 = 0
+| pcupdate = 1 June 2026
+| ntupdate = 1 June 2026
+}}
+'''Mladen Jurkas''' (born 7 October 2007) is a Bosnian professional [[association football|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for [[Premier League of Bosnia and Herzegovina|Bosnian Premier League]] club [[FK Borac Banja Luka|Borac Banja Luka]] and the [[Bosnia and Herzegovina national football team|Bosnia and Herzegovina national team]].
+
+==Club career==
+Jurkas started his professional career at [[FK Borac Banja Luka|Borac Banja Luka]] in 2025, at the age of 16.
+
+==International career==
+In May 2026, Jurkas was named in [[Bosnia and Herzegovina national football team|Bosnia and Herzegovina]]'s squad for the [[2026 FIFA World Cup]].<ref>{{Cite web|url=https://nap.ba/post/golman-borca-mladen-jurkas-pridruzio-se-pripremama-zmajeva|title=Borac goalkeeper Mladen Jurkas joins the Dragons' preparations|date=30 May 2026|website=NAP.ba}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 16 May 2026}}<ref>{{cite web|url=https://www.soccerway.com/player/jurkas-mladen/K2fzyHBL/|title=Mladen Jurkas Stats|access-date=1 June 2026|website=Soccerway}}</ref>
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|[[Bosnia and Herzegovina Football Cup|Bosnian Cup]]
+!colspan=2|Continental
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan=3|[[FK Borac Banja Luka|Borac Banja Luka]]
+|[[2024–25 Premier League of Bosnia and Herzegovina|2024–25]]
+|[[Premier League of Bosnia and Herzegovina|Bosnian Premier League]]
+|2||0||1||0||0||0||1{{efn|Appearance in [[Supercup of Bosnia and Herzegovina|Bosnian Supercup]]}}||0||4||0
+|-
+|[[2025–26 Premier League of Bosnia and Herzegovina|2025–26]]
+|Bosnian Premier League
+|31||0||colspan=2|—||1{{efn|Appearance in [[UEFA Conference League]]}}||0||colspan=2|—||32||0
+|-
+!colspan=2|Total
+!33!!0!!1!!0!!1!!0!!1!!0!!36!!0
+|-
+!colspan=3|Career total
+!33!!0!!1!!0!!1!!0!!1!!0!!36!!0
+|}
+{{notelist}}
+
+==Honours==
+'''Borac Banja Luka'''
+*[[Premier League of Bosnia and Herzegovina|Bosnian Premier League]]: [[2025–26 Premier League of Bosnia and Herzegovina|2025–26]]
+
+==References==
+{{Reflist}}
+
+{{FK Borac Banja Luka squad}}
+{{Bosnia and Herzegovina squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Jurkas, Mladen}}
+[[Category:2007 births]]
+[[Category:Living people]]
+[[Category:Footballers from Doboj]]
+[[Category:Bosnia and Herzegovina men's footballers]]
+[[Category:21st-century Bosnia and Herzegovina sportsmen]]
+[[Category:Premier League of Bosnia and Herzegovina players]]
+[[Category:Bosnia and Herzegovina men's youth international footballers]]
+[[Category:Bosnia and Herzegovina men's under-21 international footballers]]
+[[Category:Men's association football goalkeepers]]
+[[Category:Bosnia and Herzegovina expatriate men's footballers]]
+[[Category:FK Borac Banja Luka players]]
+[[Category:2026 FIFA World Cup players]]

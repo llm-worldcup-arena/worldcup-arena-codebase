@@ -1,0 +1,60 @@
+[
+ {
+  "player_id": "1322355",
+  "profile_url": "https://www.transfermarkt.com/tomas-aranda/profil/spieler/1322355",
+  "full_name": "Tomás Leandro Aranda",
+  "display_name": "Tomás Aranda",
+  "short_name": "T. Aranda",
+  "nickname": "",
+  "date_of_birth": "2007-05-09",
+  "age": 19,
+  "place_of_birth": "Ciudadela",
+  "country_of_birth": "Argentina",
+  "nationality": [
+   "Argentina"
+  ],
+  "gender": "male",
+  "position": "Attacking Midfield",
+  "position_category": "Midfielder",
+  "foot": "right",
+  "height_cm": 172,
+  "current_club": "CA Boca Juniors",
+  "current_club_id": "189",
+  "current_competition": "Torneo Clausura",
+  "current_competition_code": "ARGC",
+  "shirt_number": 36,
+  "is_captain": false,
+  "contract_until": "2029-12-31",
+  "last_contract_renewal": "2025-05-24",
+  "market_value_eur": 9000000,
+  "market_value_currency": "EUR",
+  "market_value_determined": "2026-05-22",
+  "previous_market_value_eur": 800000,
+  "highest_market_value_eur": 9000000,
+  "highest_market_value_determined": "2026-05-22",
+  "market_value_history": [
+   "0 | CA Boca Juniors | EUR 800,00K",
+   "0 | CA Boca Juniors | EUR 9,00M"
+  ],
+  "agent": "",
+  "agency": "Interplayers",
+  "agency_id": "5789",
+  "youth_clubs": [],
+  "career_history": [
+   "CA Boca Juniors Juveniles -> CA Boca Juniors U20 | 2024-01-01 | - | 23/24",
+   "CA Boca Juniors U20 -> CA Boca Juniors II | 2025-01-01 | - | 24/25",
+   "CA Boca Juniors II -> CA Boca Juniors | 2026-01-01 | - | 25/26"
+  ],
+  "total_transfer_fees_eur": 0,
+  "international_team": "",
+  "international_caps": 0,
+  "international_goals": 0,
+  "national_team_history": [
+   "Argentina | 1 apps | 0 goals | RECENT_NATIONAL_PLAYER"
+  ],
+  "injuries": [],
+  "suspensions": [],
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/big/1322355-1770725367.jpg",
+  "scraped_at": "2026-06-08T18:09:23.488Z"
+ }
+]

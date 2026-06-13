@@ -1,0 +1,183 @@
+{{Short description|Swedish footballer (born 1998)}}
+{{Use dmy dates|date=January 2024}}
+{{Infobox football biography
+| name = Alexander Bernhardsson
+| image = 2026-03-04 Alexander Bernhardsson.jpg
+| caption = Bernhardsson in 2026
+| full_name = Alexander Olof Bernhardsson<ref name="wf">{{Worldfootball.net|alexander-bernhardsson|new_id=pe595952}}</ref>
+| birth_date = {{Birth date and age|1998|9|8|df=y}}
+| birth_place = [[Gothenburg]], Sweden
+| height = 1.84 m<ref name="wf"/>
+| position = [[Forward (association football)|Forward]]
+| currentclub = [[Holstein Kiel]]
+| clubnumber = 11
+| youthyears1 = {{0|0000}}–2010 | youthclubs1 = [[Partille IF]]
+| youthyears2 = 2010–2015 | youthclubs2 = [[Jonsereds IF]]
+| years1 = 2016–2017
+| clubs1 = [[Jonsereds IF]]
+| caps1 = 34
+| goals1 = 9
+| years2 = 2018
+| clubs2 = [[Sävedalens IF]]
+| caps2 = 19
+| goals2 = 4
+| years3 = 2019
+| clubs3 = [[Örgryte IS]]
+| caps3 = 26
+| goals3 = 5
+| years4 = 2020–2023
+| clubs4 = [[IF Elfsborg]]
+| caps4 = 65
+| goals4 = 17
+| years5 = 2024–
+| clubs5 = [[Holstein Kiel]]
+| caps5 = 52
+| goals5 = 13
+| nationalyears1 = 2023–
+| nationalteam1 = [[Sweden men's national football team|Sweden]]
+| nationalcaps1 = 11
+| nationalgoals1 = 0
+| club-update = 18 May 2026
+| nationalteam-update = 17:25, 5 June 2026 (UTC)
+}}
+
+'''Alexander Olof Bernhardsson''' (born 8 September 1998) is a Swedish professional footballer who plays as a [[forward (association football)|forward]] for {{German football updater|Kiel}} club [[Holstein Kiel]] and the [[Sweden men's national football team|Sweden national team]].<ref name="SW">{{Soccerway|alexander-bernhardsson/555065|access-date=26 August 2021}}</ref><ref>{{cite web|url=https://fotbolltransfers.com/site/player/9309|title=12. Alexander Bernhardsson|publisher=Fotbolltransfers|language=Swedish|access-date=26 August 2021}}</ref>
+
+==Club career==
+On 22 January 2024, Bernhardsson signed a contract with [[2. Bundesliga]] club [[Holstein Kiel]] until 30 June 2027.<ref>{{cite web|publisher=Holstein Kiel|url=https://www.holstein-kiel.de/news-herren/schwede-alexander-bernhardsson-verstaerkt-kieler-offensive/|title=SCHWEDE ALEXANDER BERNHARDSSON VERSTÄRKT KIELER OFFENSIVE|trans-title=SWEDE ALEXANDER BERNHARDSSON STRENGTHENS KIEL'S OFFENSE|date=22 January 2024|access-date=22 January 2024|language=de|archive-date=23 January 2024|archive-url=https://web.archive.org/web/20240123075836/https://www.holstein-kiel.de/news-herren/schwede-alexander-bernhardsson-verstaerkt-kieler-offensive/|url-status=dead}}</ref>
+
+==International career ==
+Bernhardsson made his full international debut for [[Sweden men's national football team|Sweden]] on 9 January 2023, playing for 90 minutes in a [[Exhibition game|friendly]] 2–0 win against [[Finland national football team|Finland]].<ref>{{Cite web |title=Sverige - Finland - Matchfakta - Svensk fotboll |url=https://www.svenskfotboll.se/matchfakta/sverige-finland-landskamper-herr-senior/5386999/ |access-date=10 January 2023 |website=www.svenskfotboll.se |language=sv}}</ref>
+
+On 12 May 2026, Bernhardsson was named in the Sweden squad for the [[2026 FIFA World Cup]].<ref>{{Cite web |date=2026-05-12 |title=Mystiskt inlägg efter petningen |url=https://www.expressen.se/sport/fotboll/landslaget/har-ar-sveriges-trupp-till-fotbolls-vm-2026/ |access-date=2026-05-15 |website=www.expressen.se |language=sv}}</ref>
+
+== Career statistics ==
+=== Club ===
+{{updated|match played 17 May 2025}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup
+!colspan="2"|Europe
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|[[Jonsereds IF]]
+|[[2017 Swedish football division 2|2017]]
+|[[Swedish football division 2]]
+|18||6||1||0||colspan="2"|—||colspan="2"|—||19||6
+|-
+|[[Sävedalens IF]]
+|[[2018 Swedish football division 2|2018]]
+|Swedish football division 2
+|19||4||2||0||colspan="2"|—||colspan="2"|—||21||4
+|-
+|[[Örgryte IS]]
+|[[2019 Superettan|2019]]
+|[[Superettan]]
+|26||5||2||0||colspan="2"|—||colspan="2"|—||28||5
+|-
+|rowspan="5"|[[IF Elfsborg]]
+|[[2020 Allsvenskan|2020]]
+|[[Allsvenskan]]
+|0||0||1||0||colspan="2"|—||colspan="2"|—||1||0
+|-
+|[[2021 Allsvenskan|2021]]
+|Allsvenskan
+|21||4||0||0||5{{efn|name=UECL|Appearances in [[UEFA Conference League]]}}||1||colspan="2"|—||26||5
+|-
+|[[2022 Allsvenskan|2022]]
+|Allsvenskan
+|26||7||5||0||2{{efn|name=UECL}}||0||colspan="2"|—||33||7
+|-
+|[[2023 Allsvenskan|2023]]
+|Allsvenskan
+|18||6||1||0||colspan="2"|—||colspan="2"|—||19||6
+|-
+!colspan="2"|Total
+!65!!17!!7!!0!!7!!1!!colspan="2"|—!!79!!18
+|-
+|[[Holstein Kiel|Holstein Kiel II]]
+|[[2023–24 Regionalliga|2023–24]]
+|[[Regionalliga Nord]]
+|13||4||colspan="2"|—||colspan="2"|—||colspan="2"|—||13||4
+|-
+|[[Holstein Kiel]]
+|[[2024–25 Holstein Kiel season|2024–25]]
+|[[Bundesliga]]
+|19||7||1||0||colspan="2"|—||colspan="2"|—||20||7
+|-
+!colspan="3"|Career total
+!160!!43!!13!!0!!7!!1!!0!!0!!180!!42
+|}
+{{notelist}}
+
+=== International ===
+{| class="wikitable" style="text-align:center"
+|+Appearances and goals by national team and year
+!National team
+!Year
+!Apps
+!Goals
+|-
+|rowspan="4"|[[Sweden men's national football team|Sweden]]
+|2023
+|1
+|0
+|-
+|2024
+|0
+|0
+|-
+|2025
+|8
+|0
+|-
+|2026
+|2
+|0
+|-
+! colspan="2" |Total
+!11
+!0
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Elitefootball|alexander-bernhardsson/44304}}
+* {{SvFF player|id=ecfa126c-5952-42cf-a57e-c6e6c96fa519}}
+
+{{Holstein Kiel squad}}
+{{Sweden squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Bernhardsson, Alexander}}
+[[Category:1998 births]]
+[[Category:Living people]]
+[[Category:Swedish men's footballers]]
+[[Category:Footballers from Gothenburg]]
+[[Category:Men's association football forwards]]
+[[Category:Sweden men's international footballers]]
+[[Category:Superettan players]]
+[[Category:Allsvenskan players]]
+[[Category:Bundesliga players]]
+[[Category:2. Bundesliga players]]
+[[Category:Jonsereds IF players]]<!--
+[[Category:Sävedalens IF players]]-->
+[[Category:Örgryte IS players]]
+[[Category:IF Elfsborg players]]
+[[Category:Holstein Kiel players]]
+[[Category:Swedish expatriate men's footballers]]
+[[Category:Swedish expatriate sportspeople in Germany]]
+[[Category:Expatriate men's footballers in Germany]]
+[[Category:21st-century Swedish sportsmen]]
+[[Category:2026 FIFA World Cup players]]
+
+{{sweden-footy-forward-1990s-stub}}

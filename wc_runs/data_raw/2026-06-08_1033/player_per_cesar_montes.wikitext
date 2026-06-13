@@ -1,0 +1,334 @@
+{{short description|Mexican footballer (born 1997)}}
+{{Use dmy dates|date=November 2022}}
+{{family name hatnote|Montes|Castro|lang=Spanish}}
+{{Infobox football biography
+| name = César Montes
+| image = César Montes.png
+| caption = Montes with [[Mexico national football team|Mexico]] in 2025
+| full_name = César Jasib Montes Castro<ref name="FIFA 2022">{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=FIFA World Cup Qatar 2022™ – List of Players: Mexico (MEX)|publisher=FIFA |page=18 |date=15 November 2022 |access-date=11 December 2022 |archive-url=https://web.archive.org/web/20221218195301/https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |archive-date=18 December 2022 |url-status=live}}</ref>
+| birth_date = {{Birth date and age|1997|2|24|df=y}}<ref name="FIFA 2022"/>
+| birth_place = [[Hermosillo]], Mexico
+| height = 1.95 m<ref>https://www.fclm.ru/players/21139/</ref>
+| position = [[Defender (association football)#Centre-back|Centre-back]]
+| currentclub = [[FC Lokomotiv Moscow|Lokomotiv Moscow]]
+| clubnumber = 23
+| youthyears1 = 2013–2014
+| youthclubs1 = Pobablo Miguel Alemán FC
+| youthyears2 = 2014–2015
+| youthclubs2 = [[C.F. Monterrey|Monterrey]]
+| years1 = 2015–2022
+| clubs1 = [[C.F. Monterrey|Monterrey]]
+| caps1 = 216
+| goals1 = 9
+| years2 = 2023
+| clubs2 = [[RCD Espanyol|Espanyol]]
+| caps2 = 20
+| goals2 = 3
+| years3 = 2023–2024
+| clubs3 = [[UD Almería|Almería]]
+| caps3 = 22
+| goals3 = 0
+| years4 = 2024–
+| clubs4 = [[FC Lokomotiv Moscow|Lokomotiv Moscow]]
+| caps4 = 42 <!-- Only league games go into the infobox, not cup-->
+| goals4 = 4
+| nationalyears1 = 2018
+| nationalteam1 = [[Mexico national under-21 football team|Mexico U21]]
+| nationalcaps1 = 4
+| nationalgoals1 = 0
+| nationalyears2 = 2016–2021
+| nationalteam2 = [[Mexico national under-23 football team|Mexico U23]]
+| nationalcaps2 = 12
+| nationalgoals2 = 0
+| nationalyears3 = 2017–
+| nationalteam3 = [[Mexico national football team|Mexico]]
+| nationalcaps3 = 65
+| nationalgoals3 = 4
+| medaltemplates = {{MedalSport|Men's [[association football|football]]}}
+{{MedalCountry|{{fb|MEX}}}}
+{{MedalCompetition|[[CONCACAF Gold Cup]]}}
+{{Medal|W|[[2019 CONCACAF Gold Cup|2019 United States]]|[[2019 CONCACAF Gold Cup squads#Mexico|Team]]}}
+{{Medal|W|[[2023 CONCACAF Gold Cup|2023 United States–Canada]]|[[2023 CONCACAF Gold Cup squads#Mexico|Team]]}}
+{{Medal|W|[[2025 CONCACAF Gold Cup|2025 United States–Canada]]|[[2025 CONCACAF Gold Cup squads#Mexico|Team]]}}
+{{MedalCompetition|[[CONCACAF Nations League]]}}
+{{Medal|W|[[2025 CONCACAF Nations League Finals|2025 United States]]|}}
+{{Medal|RU|[[2024 CONCACAF Nations League Finals|2024 United States]]|}}
+{{Medal|3rd|[[2023 CONCACAF Nations League Finals|2023 United States]]|}}
+{{Medal|Competition|[[Football at the Summer Olympics|Olympic Games]]}}
+{{Medal|Bronze|[[2020 Summer Olympics|2020 Tokyo]]|[[Football at the 2020 Summer Olympics – Men's tournament|Team]]}}
+{{MedalCompetition|[[Maurice Revello Tournament|Toulon Tournament]]}}
+{{Medal|RU|[[2018 Toulon Tournament|2018 France]]|[[2018 Toulon Tournament squads#Mexico|Team]]}}
+| pcupdate = 1 May 2026
+| nationalteam-update = 31 March 2026
+}}
+
+'''César Jasib Montes Castro''' (born 24 February 1997) is a Mexican professional [[Association football|footballer]] who plays as a [[Defender (association football)#Centre-back|centre-back]] for [[Russian Premier League]] club [[FC Lokomotiv Moscow|Lokomotiv Moscow]] and the [[Mexico national football team|Mexico national team]].
+
+==Club career==
+===Monterrey===
+
+During a youth league playoff match with Pobablo Miguel Alemán FC against [[C.F. Monterrey|Monterrey]], he caught the attention of the opposing team.<ref>{{cite web|title=ENTREVISTA: "Que nadie les diga que no lo pueden lograr": Cesar Jasib Montes|url=http://www.triunfodeportivo.com/vernoticiasanteriores.php?artid=5263&categoria=5|work=Triunfodeportivo.com|accessdate=20 September 2018|url-status=dead}}</ref> He was eventually brought onto Monterrey's youth team and on 2 August 2015, Montes played his first match with Monterrey against the Portuguese team [[S.L. Benfica|Benfica]] on the inauguration of the [[Estadio BBVA Bancomer]]. Montes came in as a substitute for the second half, and at the 48th minute he scored the first ever-goal in the Estadio BBVA Bancomer. Monterrey defeated [[S.L. Benfica|Benfica]] 3–0.<ref>{{cite web|title=Rayados goleó a Benfica en inauguración|url=http://www.mediotiempo.com/futbol/mexico/noticias/2015/08/03/rayados-goleo-a-benfica-en-inauguracion|work=Medio Tiempo|first=Sahid|last=Hernández Rosete|date=2 August 2015|accessdate=20 September 2018}}</ref>
+
+Montes made his official debut for Monterrey on 29 July 2015, against [[Correcaminos UAT]] in an [[Apertura 2015 Copa MX]] group stage match, where Monterrey defeated Correcaminos 3–1.<ref>{{cite web|title=César Montes, inscrito en la historia de Rayados con 1er gol en nuevo estadio|url=http://espndeportes.espn.com/noticias/nota/_/id/2438080/cesar-montes-inscrito-en-la-historia-de-rayados-con-1er-gol-en-nuevo-estadio|work=ESPN Deportes|first=Alan|last=Rafalowski|date=3 August 2015|accessdate=20 September 2018|archive-date=8 October 2020|archive-url=https://web.archive.org/web/20201008230740/https://espndeportes.espn.com/noticias/nota/_/id/2438080/cesar-montes-inscrito-en-la-historia-de-rayados-con-1er-gol-en-nuevo-estadio|url-status=dead}}</ref> At the end of the [[2015–16 Liga MX season#Torneo Clausura|2016 Clausura]], he was listed in the Best XI.<ref name="clausura">{{cite web|title=Lo Mejor del Clausura 2016 |url=http://www.ligabancomer.mx/cancha/detallenoticia/16543/revista-digital-liga-bancomer-mx-lo-mejor-del-clausura-2016 |language=Spanish|website=LigaMX.net |publisher=Liga Bancomer MX |accessdate=6 June 2016}}</ref>
+
+At the end of December 2019, Montes would win the [[2019–20 Liga MX season#Torneo Apertura|2019 Apertura]] finals against [[Club América|América]].<ref>{{cite web|title=Monterrey defeat Club America on penalties to win Liga MX 2019 Apertura title|url=https://www.espn.com/soccer/report?gameId=560779|work=ESPN|first=Tom|last=Marshall|date=30 December 2019|access-date=2026-05-29}}</ref>
+
+With Monterrey's victory of the [[2019–20 Copa MX]], they had obtained the [[Treble (association football)|continental treble]].<ref>{{cite web|title=¡TRI-PLE-TE! {{!}} Rayados consiguió triplete y ahora va por el campeonato del Guard1anes 2020|url=https://www.90min.com/es/posts/tri-ple-te-rayados-consiguio-triplete-y-ahora-va-por-el-campeonato-del-guard1anes-2020|work=90 Min|language=Spanish|date=5 November 2020|access-date=2026-05-29}}</ref>
+
+=== Clásico Regiomontano ===
+[[Clásico Regiomontano]] matches against crosstown rivals [[Tigres UANL]] have proven to be significant for Montes, scoring three goals against them to date.<ref>{{Cite web |last=Mediotiempo |first=Editorial |date=2026-05-29 |title=César Montes, la pesadilla de Tigres |url=https://www.mediotiempo.com/futbol/liga-mx/cesar-montes-la-pesadilla-de-tigres |access-date=2026-05-29 |website=Mediotiempo |language=es-mx}}</ref> He made his league debut on 19 September 2015 against Tigres UANL, contributing a 40-meter long ball assist to [[Rogelio Funes Mori]] to score the only goal for Monterrey where they lost Monterrey lost 3–1.<ref>{{Cite web |last=Vanegas |first=Fernando |date=20 September 2015 |title=Se lleva Tigres el Clásico regio |url=https://nnc.mx/articulo/Deportes/se-lleva-tigres-el-clasico-regio/1442740781 |archive-url=http://web.archive.org/web/20241221123119/https://nnc.mx/articulo/Deportes/se-lleva-tigres-el-clasico-regio/1442740781 |archive-date=2024-12-21 |access-date=2026-05-29 |website=nnc.mx}}</ref><ref>{{Cite web |last=Berterame |first=Chaine |date=2026-05-29 |title=Ngành S |url=https://cadobongda2026.com |access-date=2026-05-29 |language=en}}</ref> On 14 May 2016, he would score Monterrey's only goal of the second leg of the [[Clausura 2016 Liga MX championship stage|Clausura 2016 championship]] quarter-final against Tigres UANL, losing 2–1, but with an aggregate score of 4–3 in favor of Monterrey to allow them move onto the semi-final against [[Club América|América]].<ref>{{Cite news |last=Notimex |title=Cardiaco pase de Monterrey; elimina con polémica a Tigres |url=https://www.excelsior.com.mx/adrenalina/2016/05/14/1092617 |archive-url=http://web.archive.org/web/20241221125333/https://www.excelsior.com.mx/adrenalina/2016/05/14/1092617 |archive-date=2024-12-21 |access-date=2026-05-29 |work=Excélsior |language=es-MX}}</ref>   
+
+On 29 October 2016, he would tie the game against Tigres UANL, 1–1.<ref>{{Cite web |date=2016-10-30 |title=Tigres vs Rayados de Monterrey (1-1): resumen, resultado y goles |url=https://mexico.as.com/mexico/2016/10/29/futbol/1477753363_397506.html |access-date=2026-05-29 |website=Diario AS |language=es-mx}}</ref> On 21 April 2017, Montes scored the only goal in a 1–0 victory over Tigres UANL.<ref>{{Cite web |last=Mediotiempo |first=Editorial |date=2026-05-29 |title=César Montes, la pesadilla de Tigres |url=https://www.mediotiempo.com/futbol/liga-mx/cesar-montes-la-pesadilla-de-tigres |access-date=2026-05-29 |website=Mediotiempo |language=es-mx}}</ref>
+
+===Espanyol===
+On 27 December 2022, Montes moved abroad and joined [[La Liga]] club [[RCD Espanyol]], with a contract until 2028.<ref>{{cite web|url=https://www.rcdespanyol.com/en/new/cesar-montes-joins-rcd-espanyol/14997|title=César Montes joins RCD Espanyol|publisher=RCD Espanyol|date=27 December 2022|accessdate=29 December 2022}}</ref> He made his debut for the club on 7 January 2023, in a 2–2 home draw against [[Girona FC]].
+
+===Almería===
+Following Espanyol's relegation, Montes submitted a transfer request and, on September 1st, completed a move to [[UD Almería|Almería]].<ref>{{cite web|url=https://www.rcdespanyol.com/ca/noticia/cesar-montes,-traspassat-a-la-ud-almeria/15965|title=César Montes, traspassat a la UD Almeria|trans-title=César Montes, transferred to UD Almería|publisher=RCD Espanyol|language=ca|date=1 September 2023|accessdate=1 September 2023}}</ref> He reportedly signed a six-year deal, with the club paying a €14 million transfer fee, making Montes the most expensive signing in the club's history.<ref>{{cite web | url=https://www.marca.com/mx/futbol/mexicanos-mundo/2023/09/02/64f2cca9e2704eabb78b45a3.html | title=César Montes, ¿el fichaje más caro en la historia del Almería? | date=2 September 2023 |access-date=2026-05-29}}</ref>
+
+===Lokomotiv Moscow===
+On 12 September 2024, Montes signed for [[Russian Premier League]] club [[FC Lokomotiv Moscow|Lokomotiv Moscow]] on a five-year deal.<ref>{{cite web|url=https://www.fclm.ru/en/news/n/sesar-montes-novyy-zashchitnik-lokomotiva-/|trans-title=Cesar Montes is the new defender of Lokomotiv!|title=Сесар Монтес – новый защитник "Локомотива"!|language=Russian|website=www.fclm.ru|date=12 September 2024|accessdate=12 September 2024}}</ref>
+
+==International career==
+===Youth===
+[[File:Coréia do Sul x México - Futebol masculino - Olimpíada Rio 2016 (28866553346).jpg|thumb|upright=1.20|Montes playing against [[South Korea national under-23 football team|South Korea]] in the 2016 Summer Olympics]]
+Montes was part of [[Marco Antonio Ruiz]]'s roster that participated in the [[2018 Toulon Tournament]].<ref>{{cite web|title=Revelan convocatoria del Tri Sub-21 para el torneo Esperanzas de Toulon|url=http://www.espn.com.mx/futbol/mundial/nota/_/id/4333245/revelan-convocatoria-del-tri-sub-21-para-el-torneo-esperanzas-de-toulon|work=ESPN|date=22 May 2018|accessdate=19 September 2018}}</ref> He would go on to appear in all group stage matches including the semi-final, except for the final where Mexico would go to lose 1–2 against [[England national under-21 football team|England]] since he picked up an injury in the previous match against [[Turkey national under-21 football team|Turkey]].<ref>{{cite web|title=César Montes se perderá la Final de Toulon|url=http://www.mediotiempo.com/futbol/2018/06/06/cesar-montes-se-perdera-la-final-de-toulon|work=Medio Tiempo|date=6 June 2018|accessdate=19 September 2018}}</ref> He would go on to be included in the Best XI team of the tournament.<ref name="toulon">{{cite web|title=L'équipe type du Festival International Espoirs 2018 |url=https://festival-foot-espoirs.com/festival/detail_actualite.php?id=3391 |date=11 June 2018 |publisher=Toulon Tournament |language=French|access-date=2026-05-29}}</ref>
+
+On 7 July 2016, Montes was named by [[Raúl Gutiérrez]] to be included in Mexico's 21-man squad that would participate in the [[Football at the 2016 Summer Olympics|2016 Summer Olympics]] in [[Rio de Janeiro]], Brazil.<ref>{{cite web|title=Definida la convocatoria del Tri para Juegos Olímpicos |url=http://www.mediotiempo.com/futbol/2016/07/07/definida-la-convocatoria-del-tri-para-juegos-olimpicos |work=Medio Tiempo |date=7 July 2016 |language=Spanish |accessdate=7 July 2016}}</ref> He would appear in all of Mexico's group stage matches but Mexico would finish third in their group and were thus eliminated from the competition.
+
+Ruled out for the [[2020 CONCACAF Men's Olympic Qualifying Championship]] as it was not a FIFA-sanctioned tournament, Montes was called up by [[Jaime Lozano]] to participate in the [[2020 Summer Olympics]].<ref>{{cite web|title=Revelan lista oficial de la Selección Sub-23 que acudirá a Tokio 2020|date=5 July 2021|url=https://espndeportes.espn.com/futbol/selecciones/nota/_/id/8854207/mexico-sub23-convocatoria-jaime-lozano-tokio-2020|access-date=2026-05-29}}</ref> He won the [[bronze medal]] with the Olympic team.<ref>{{cite web | url=https://www.tudn.com/futbol/futbol-olimpico-varonil/bronce-mexico-vence-a-japon | title=México gana el bronce tras vencer 3-1 a Japón &#124; TUDN Fútbol Olímpico Varonil &#124; TUDN |access-date=2026-05-29}}</ref>
+
+===Senior===
+[[File:Arg vs mex julian alvarez vs cesar montes.jpg|thumb|upright=1.20|Montes playing against [[Argentina national football team|Argentina]] in the 2022 World Cup]]
+Montes was called up by the [[Mexico national football team|senior national team]] to participate in the [[2017 CONCACAF Gold Cup]].<ref>{{Cite news |title=Lista la convocatoria de México para la Copa Oro - MARCA Claro México |url=https://www.marca.com/claro-mx/futbol/copa-oro/2017/06/29/59542cb0ca4741ab508b4609.html |access-date=2026-05-29 |work=MARCA Claro México |language=es-MX}}</ref> He would make his debut on 13 July 2017 during a group stage match against [[Jamaica national football team|Jamaica]], coming in as a substitute for [[Rodolfo Pizarro]] at half-time, finishing the game at 0–0.<ref>{{Cite web |title=Debuta César Montes con la Selección Mexicana |url=http://espndeportes.espn.com/futbol/mundial/nota/_/id/3389954/debuta-cesar-montes-con-la-seleccion-mexicana |access-date=2026-05-29 |website=espndeportes.espn.com}}</ref>
+
+On 6 June 2019, Montes was called up by coach [[Gerardo Martino]] to participate in the [[2019 CONCACAF Gold Cup|CONCACAF Gold Cup]].<ref>{{Cite web |last=Mediotiempo |first=Editorial |date=2026-05-29 |title=Selección Mexicana anuncia lista definitiva para Copa Oro 2019 |url=https://www.mediotiempo.com/futbol/copa-oro/seleccion-mexicana-anuncia-lista-definitiva-copa-oro-2019 |access-date=2026-05-29 |website=Mediotiempo |language=es-mx}}</ref> He appeared as a substitute in the [[2019 CONCACAF Gold Cup Group A|group stage]] match against [[Cuba national football team|Cuba]] and as a starter in the final group stage match against [[Martinique national football team|Martinique]] as Mexico went on to win the tournament.<ref name="Straus">{{cite web|title=Mexico Turns Tide, Wins Gold Cup Title Again vs. Wasteful USMNT|url=https://www.si.com/soccer/2019/07/07/mexico-usa-gold-cup-title-dos-santos-pizarro-pulisic-berhalter|publisher=[[Sports Illustrated]]|first=Brian|last=Straus|date=7 July 2019|access-date=2026-05-29}}</ref>
+
+In October 2022, Montes was named in Mexico's preliminary 31-man [[Mexico national football team|squad]] for the [[2022 FIFA World Cup]], and in November, he was ultimately included in the final 26-man roster.<ref>{{cite web|title=Lista de convocados de la Selección Mexicana al Mundial de Qatar 2022|url=https://www.tvazteca.com/aztecadeportes/lista-oficial-convocados-seleccion-mexicana-mundial-qatar-2022|work=Tvazteca.com|first=Omar|last=Moro|date=14 November 2022|language=Spanish|access-date=2026-05-29}}</ref>
+
+Montes was included in [[Diego Cocca]]'s roster for the [[2023 CONCACAF Nations League Finals]]. During the semi-final match against the United States, Montes was sent off in the 69th minute after getting in a physical altercation with [[Weston McKennie]], who was also sent off in the 71st minute after a VAR check. Montes was given a four-match suspension by CONCACAF, which included the third place match against Panama and the [[2023 CONCACAF Gold Cup]] group stage.<ref>{{cite web|date=June 26, 2023|title=Mexico Fútbol Players Suspended After Nation's League Semifinal — Here's the Latest|url=https://remezcla.com/sports/mexico-futbol-players-suspended-after-nations-league-semifinal-heres-the-latest/|access-date=April 15, 2024|publisher=Remezcla}}</ref>
+
+Montes was included in the subsequent [[2023 CONCACAF Gold Cup]].<ref>{{cite web | url=https://www.tudn.com/futbol/copa-oro/por-que-jaime-lozano-disputara-copa-oro-2023-con-convocatoria-de-diego-cocca | title=¿Jaime Lozano jugará la Copa Oro 2023 con la convocatoria de Diego Cocca? &#124; TUDN Copa Oro &#124; TUDN |access-date=2026-05-29}}</ref> Mexico won the tournament after defeating [[Panama national football team|Panama]].<ref>{{cite web | url=https://mexico.as.com/futbol/mexico-gana-la-copa-oro-por-novena-vez-al-derrotar-a-panama-n/ | title=México gana la Copa Oro por novena vez al derrotar a Panamá | date=16 July 2023 |access-date=2026-05-29}}</ref>
+
+Montes was part of the roster that participated at the [[2025 CONCACAF Gold Cup]], scoring three times, once in Mexico's 3–2 victory over the [[Dominican Republic national football team|Dominican Republic]] and both goals in the 2–0 win over [[Suriname national football team|Suriname]]. Mexico won the competition defeating rivals the [[United States men's national soccer team|United States]] 2–1 in the [[2025 CONCACAF Gold Cup final|final]]. He was subsequently included in the competition's Best XI.<ref>{{cite news|url=https://www.concacaf.com/en/gold-cup/news/diaz-jimenez-richards-headline-gold-cup-best-xi/|title=Díaz, Jiménez, Richards headline Gold Cup Best XI|publisher=CONCACAF|date=9 July 2025|access-date=9 July 2025}}</ref>
+
+==Style of play==
+Montes had been described as a ball-playing defender with skilled range of passing, and has shown on occasions that he is able to pick out long-range passes, and can execute a well-timed and accurate slide tackle. His stature allows him to participate in set-piece situations, specifically regarding headers and defending high passes into the penalty area.<ref>{{cite web|title=Cesar Montes, Javier Eduardo Lopez and Alexis Vega's El Tri claims|url=http://www.espnfc.us/team/mexico/203/blog/post/2856406/cesar-montes-javier-eduardo-lopez-and-alexis-vega-el-tri-claims|work=ESPN|first=Cesar|last=Hernandez|date=23 April 2016|accessdate=8 October 2018}}</ref><ref>{{cite web|title=Scout Report: César Montes Monterrey's young defensive jewel|url=http://outsideoftheboot.com/2016/09/07/scout-report-cesar-montes/|work=Outsideoftheboot.com|first=Thomas|last=Harrison|date=7 September 2016|accessdate=20 September 2018}}</ref><ref>{{cite web|title=Lozano, Pineda, Montes, Pizarro and Aguirre are El Tri's ones to watch|url=http://www.espn.com.au/football/mexican-liga-mx/22/blog/post/3028049/hirving-lozano-orbelin-pineda-cesar-montes-rodolfo-pizarro-and-erick-aguirre-are-el-tris-ones-to-watch|work=ESPN|first=Tom|last=Marshall|date=30 December 2016|accessdate=11 October 2018}}</ref>
+
+==Personal life==
+His younger brother, [[Alán Montes|Alán]], is also a professional footballer, playing for [[TFF 1. Lig]] club [[Serikspor]].{{cn|date=April 2026}}
+
+==Career statistics==
+===Club===
+{{updated|match played 1 May 2026}}<ref>{{Soccerway|cesar-jasib-montes-castro/411239}}</ref>
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup{{efn|Includes [[Copa MX]], [[Copa del Rey]], [[Russian Cup (football)|Russian Cup]]}}
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="9"|[[C.F. Monterrey|Monterrey]]
+|[[2015–16 Liga MX season|2015–16]]
+|rowspan="8"|[[Liga MX]]
+|33||1||4||1||colspan="2"|—||colspan="2"|—||37||2
+|-
+|[[2016–17 Liga MX season|2016–17]]
+|33||4||6||0||2{{efn|name=CCL|Appearances in [[CONCACAF Champions League]]}}||1||colspan="2"|—||41||5
+|-
+|[[2017–18 Liga MX season|2017–18]]
+|27||0||10||0||colspan="2"|—||colspan="2"|—||37||0
+|-
+|[[2018–19 C.F. Monterrey season|2018–19]]
+|25||2||1||0||7{{efn|name=CCL}}||0||colspan="2"|—||33||2
+|-
+|[[2019–20 C.F. Monterrey season|2019–20]]
+|24||1||10||1||colspan="2"|—||2{{efn|name=FCWC|Appearance(s) in [[FIFA Club World Cup]]}}||0||36||2
+|-
+|[[2020–21 Liga MX season|2020–21]]
+|30||0||colspan="2"|—||6{{efn|name=CCL}}||0||colspan="2"|—||36||0
+|-
+|[[2021–22 Liga MX season|2021–22]]
+|28||1||colspan="2"|—||colspan="2"|—||1{{efn|name=FCWC}}||1||29||2
+|-
+|[[2022–23 C.F. Monterrey season|2022–23]]
+|16||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||16||0
+|-
+! colspan="2" |Total
+!216!!9!!31!!2!!15!!1!!3!!1!!265!!13
+|-
+|[[RCD Espanyol|Espanyol]]
+|[[2022–23 RCD Espanyol season|2022–23]]
+|rowspan="2"|[[La Liga]]
+|20||3||2||0||colspan="2"|—||colspan="2"|—||22||3
+|-
+|rowspan="3"|[[UD Almería|Almería]]
+|[[2023–24 UD Almería season|2023–24]]
+|21||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||21||0
+|-
+|[[2024–25 UD Almería season|2024–25]]
+|[[Segunda División]]
+|1||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||1||0
+|-
+! colspan="2" |Total
+!22!!0!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!22!!0
+|-
+|rowspan="3"|[[FC Lokomotiv Moscow|Lokomotiv Moscow]]
+|[[2024–25 FC Lokomotiv Moscow season|2024–25]]
+|rowspan="2"|[[Russian Premier League]]
+|16||0||4||2||colspan="2"|—||colspan="2"|—||20||2
+|-
+|[[2025–26 Russian Premier League|2025–26]]
+|26||4||3||0||colspan="2"|—||colspan="2"|—||29||4
+|-
+! colspan="2" |Total
+!42!!4!!7!!2!!0!!0!!0!!0!!49!!6
+|-
+! colspan="3" |Career total
+!300!!16!!40!!4!!15!!1!!3!!1!!358!!22
+|}
+
+{{notelist}}
+
+===International===
+{{updated|match played 31 March 2026}}<ref>{{NFT player|68550}}</ref>
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan=9|[[Mexico national football team|Mexico]]
+|2017||5||0
+|-
+|2019||4{{efn|name=Martinique|Montes additionally played a match against Martinique in 2019, which is not recognized by FIFA.}}||0
+|-
+|2020||2||0
+|-
+|2021||7||1
+|-
+|2022||15||0
+|-
+|2023||9||0
+|-
+|2024||9||0
+|-
+|2025||12||3
+|-
+|2026||2||0
+|-
+!colspan=2|Total||65||4
+|}
+{{notelist}}
+
+:''Scores and results list Mexico's goal tally first.''
+
+{| class="wikitable"
+|+ List of international goals scored by César Montes
+! No. !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| 1. || 30 June 2021 || [[Nissan Stadium (Nashville)|Nissan Stadium]], [[Nashville, Tennessee|Nashville]], United States || {{fb|PAN}} || align=center | '''2'''–0 || align=center | 3–0 || [[Exhibition game#Association football|Friendly]]
+|-
+| 2. || 14 June 2025 || [[SoFi Stadium]], [[Inglewood, California|Inglewood]], United States || {{fb|DOM}} || align=center |'''3'''–1 ||align=center |3–2 || rowspan="3"|[[2025 CONCACAF Gold Cup Group A|2025 CONCACAF Gold Cup]]
+|-
+| 3.|| rowspan="2"|18 June 2025 || rowspan="2"|[[AT&T Stadium]], [[Arlington, Texas|Arlington]], United States || rowspan="2"|{{fb|SUR}} || align=center|'''1'''–0 || rowspan="2" align=center|2–0
+|-
+| 4. || align=center|'''2'''–0
+|}
+
+==Honours==
+'''Monterrey'''
+*[[Liga MX]]: [[2019–20 Liga MX season#Torneo Apertura|Apertura 2019]]
+*[[Copa MX]]: [[Apertura 2017 Copa MX|Apertura 2017]], [[2019–20 Copa MX|2019–20]]
+*[[CONCACAF Champions League]]: [[2019 CONCACAF Champions League|2019]], [[2021 CONCACAF Champions League|2021]]
+
+'''Mexico U23'''
+*[[Football at the Summer Olympics|Olympic Bronze Medal]]: [[Football at the 2020 Summer Olympics – Men's tournament|2020]]<ref>{{cite web|url=https://www.goal.com/en/news/mexico-win-olympic-bronze-medal-after-beating-hosts-japan-at/xfw3o7f3tzte1pp4ern8bzrb6|title=Mexico win Olympic bronze medal after beating hosts Japan at Tokyo 2020|website=Goal|date=6 August 2021|accessdate=6 August 2021}}</ref>
+
+'''Mexico'''
+*[[CONCACAF Gold Cup]]: [[2019 CONCACAF Gold Cup|2019]],<ref name="Straus"/> [[2023 CONCACAF Gold Cup|2023]],<ref>{{Cite web |date=16 July 2023 |title=Mexico beats Panama in Gold Cup final with late Gimenez goal |url=https://www.espn.com/soccer/report/_/gameId/678990 |access-date=17 July 2023 |website=ESPN}}</ref> [[2025 CONCACAF Gold Cup|2025]]<ref>{{Cite web |title=United States 1-2 Mexico: Mauricio Pochettino's side beaten in Gold Cup final |url=https://www.bbc.com/sport/football/live/cy4nj815ep1t |access-date=2025-07-07 |website=BBC Sport |language=en-GB}}</ref>
+*[[CONCACAF Nations League]]: [[2024–25 CONCACAF Nations League|2024–25]]<ref>{{Cite news |last=Press |first=Associated |date=2025-03-24 |title=Mexico win first Nations League final thanks to Raúl Jiménez double |url=https://www.theguardian.com/football/2025/mar/24/mexico-concacaf-nations-league-panama-raul-jimenez |access-date=2026-05-29 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref>
+
+'''Individual'''
+*[[Liga MX]] Best XI: [[2015–16 Liga MX season#Torneo Clausura|Clausura 2016]]
+*[[Liga MX]] Best Rookie: [[2015–16 Liga MX season|2015–16]]<ref>{{cite web|title=César Montes Ganó el Balón de Oro al Mejor Novato|url=http://www.ligabancomer.mx/cancha/detallenoticia/16761/cesar-montes-gano-el-balon-de-oro-al-mejor-novato|work=Ligabancomer.mx|date=9 July 2016|accessdate=20 September 2018}}</ref>
+*[[Liga MX]] All-Star: [[2021 MLS All-Star Game|2021]]<ref>{{cite web|title=Liga MX unveils its final roster for the 2021 All-Star game|url=https://en.as.com/en/2021/07/18/soccer/1626635244_954732.html|date=19 July 2021|work=AS|access-date=2026-05-29}}</ref>
+*[[Toulon Tournament]] Best XI: [[2018 Toulon Tournament|2018]]
+*[[IFFHS]] Men's CONCACAF Best XI: 2022<ref>{{cite web | url=https://www.iffhs.com/posts/2476 | title=IFFHS |access-date=2026-05-29}}</ref>
+*[[CONCACAF Gold Cup]] Best XI: [[2025 CONCACAF Gold Cup#Awards|2025]]
+*[[CONCACAF Nations League Finals]] Best XI: [[2024 CONCACAF Nations League Finals#Awards|2024]]<ref>{{cite news|url=https://www.concacaf.com/nations-league/news/reyna-pulisic-head-up-nations-league-finals-best-xi/|title=Reyna, Pulisic head up Nations League Finals Best XI|work=CONCACAF|date=March 27, 2024|access-date=March 27, 2024}}</ref>
+==See also==
+{{Portal|Association football|Mexico|Biography}}
+{{clear}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+* [https://www.rcdespanyol.com/en/teams/rcd-espanyol/c-montes/3504 Profile] at the RCD Espanyol website
+* {{Liga MX player|101898|César Jasib Montes Castro}}
+* {{Olympics.com profile|cesar-montes}}
+* {{SR/Olympics profile|mo/cesar-montes-1}}
+
+{{FC Lokomotiv Moscow squad}}
+{{Navboxes
+|title=Mexico squads
+|bg = #016549
+|fg = White
+|bordercolor =#CE1126
+|list1=
+{{Mexico men's football squad 2016 Summer Olympics}}
+{{2016 Mexico Summer Olympic team}}
+{{Mexico squad 2017 CONCACAF Gold Cup}}
+{{Mexico squad 2019 CONCACAF Gold Cup}}
+{{Mexico men's football squad 2020 Summer Olympics}}
+{{2020 Mexico Summer Olympic team}}
+{{Mexico squad 2022 FIFA World Cup}}
+{{Mexico squad 2023 CONCACAF Gold Cup}}
+{{Mexico squad 2024 Copa América}}
+{{Mexico squad 2025 CONCACAF Gold Cup}}
+{{Mexico squad 2026 FIFA World Cup}}
+}}
+{{2015–16 Liga MX Best XI}}
+{{Authority control}}
+
+{{DEFAULTSORT:Montes, Cesar}}
+[[Category:1997 births]]
+[[Category:Living people]]
+[[Category:Mexican men's footballers]]
+[[Category:Mexico men's international footballers]]
+[[Category:Footballers from Hermosillo]]
+[[Category:Men's association football central defenders]]
+[[Category:C.F. Monterrey players]]
+[[Category:RCD Espanyol footballers]]
+[[Category:UD Almería players]]
+[[Category:FC Lokomotiv Moscow players]]
+[[Category:Liga MX players]]
+[[Category:La Liga players]]
+[[Category:Segunda División players]]
+[[Category:Russian Premier League players]]
+[[Category:Footballers at the 2016 Summer Olympics]]
+[[Category:Footballers at the 2020 Summer Olympics]]
+[[Category:Olympic footballers for Mexico]]
+[[Category:2017 CONCACAF Gold Cup players]]
+[[Category:2019 CONCACAF Gold Cup players]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:2023 CONCACAF Gold Cup players]]
+[[Category:2024 Copa América players]]
+[[Category:2025 CONCACAF Gold Cup players]]
+[[Category:2026 FIFA World Cup players]]
+[[Category:CONCACAF Gold Cup–winning players]]
+[[Category:Olympic medalists in football]]
+[[Category:Olympic bronze medalists for Mexico]]
+[[Category:Medalists at the 2020 Summer Olympics]]
+[[Category:Mexican expatriate men's footballers]]
+[[Category:Mexican expatriate sportspeople in Spain]]
+[[Category:Expatriate men's footballers in Spain]]
+[[Category:Mexican expatriate sportspeople in Russia]]
+[[Category:Expatriate men's footballers in Russia]]
+[[Category:CONCACAF Champions Cup–winning players]]
+[[Category:21st-century Mexican sportsmen]]

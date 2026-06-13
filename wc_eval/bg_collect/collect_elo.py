@@ -9,7 +9,7 @@ import json, os, urllib.request
 from datetime import datetime
 from collect_squads import snap_path
 
-BASE = "/home/ubuntu/worldcup_2026/wc_runs"
+BASE = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))) + "/wc_runs"   # 可移植
 ASOF = "2026-06-08"
 UA = "WorldCup2026-BG-Research/1.0 (academic benchmark; mailto:zhenran.w.1103@gmail.com)"
 URL = "https://www.eloratings.net/World.tsv"
@@ -31,7 +31,7 @@ def main(ts=None, asof=ASOF):
     req = urllib.request.Request(URL, headers={"User-Agent": UA})
     tsv = urllib.request.urlopen(req, timeout=30).read().decode("utf-8", errors="replace")
 
-    raw_dir = f"{BASE}/raw/bg/{ts}"
+    raw_dir = f"{BASE}/data_raw/{ts}"
     os.makedirs(raw_dir, exist_ok=True)
     open(f"{raw_dir}/World.tsv", "w", encoding="utf-8").write(tsv)   # 原文留底
 

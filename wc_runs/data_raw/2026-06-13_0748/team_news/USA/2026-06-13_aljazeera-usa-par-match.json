@@ -1,0 +1,16 @@
+{
+ "team": "USA",
+ "source": "Al Jazeera",
+ "url": "https://www.aljazeera.com/sports/2026/6/12/usa-vs-paraguay-world-cup-2026-group-match-trump-schedule-lineups",
+ "title": "USA face tricky Paraguay in opening match of World Cup 2026",
+ "news_date": "2026-06-13",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-13",
+ "fetched": "2026-06-13_0748",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "FIFA World Cup cohosts United States begin their campaign against Paraguay, with Donald Trump’s attendance in doubt.\n\nWho : USA vs Paraguay\nWhat : FIFA World Cup 2026 Group D match\nWhere : SoFi Stadium, Los Angeles, California\nWhen : Friday, 6pm local time (01:00 GMT Saturday)\nHow to follow : We’ll have all the build-up on",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

@@ -1,0 +1,26 @@
+{
+ "team": "NED",
+ "coach": {
+  "name_zh": "罗纳德·科曼",
+  "name_en": "Ronald Koeman",
+  "nationality": "Netherlands",
+  "career_since": "2000",
+  "person_id": "per_ronald_koeman"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 罗纳德·科曼（Ronald Koeman）荷兰籍教练，自2000年开启执教生涯，现任荷兰国家队主帅。\n- 科曼倾向使用相对固定的首发十一人，但在关键位置（如门将）采取\"状态优先\"的谨慎评估策略，伤病与竞技状态直接决定世界杯首战用人。\n- 其战术体系高度依赖门将的脚下出球与禁区掌控能力，巴特·弗布鲁亨因此成为无可争议的一号选择，该位置无备选方案余地。\n- 利物浦双星科迪·加克波与队长维吉尔·范迪克是科曼阵中雷打不动的绝对核心，前者包办近期关键进球，后者统领防线。\n- 弗布鲁亨6月9日对乌兹别克斯坦友谊赛臀部挫伤后，科曼团队逐日评估其恢复情况，若6月14日对日本赛前未达全 mobility 将启用弗莱肯。\n- 科曼对荷兰NOS透露，门将决策已酝酿数日，最终通过与管理团队及球员多轮沟通敲定，体现其审慎透明的备战风格。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.92,
+  "issues": [
+   "末句含轻微评价性套话"
+  ]
+ },
+ "brief_fetched": "2026-06-13_1138",
+ "brief_info_chars": 1923
+}

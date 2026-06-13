@@ -1,0 +1,15 @@
+{
+ "team": "SUI",
+ "source": "Olympics.com",
+ "url": "https://www.olympics.com/en/news/fifa-world-cup-2026-switzerland-players-squad-list-key-stats-schedule",
+ "title": "FIFA World Cup 2026: Can captain Granit Xhaka and Switzerland overcome quarter-final hurdle? All players, full squad list, key stats and schedule",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-13",
+ "fetched": "2026-06-13_0247",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Can captain Granit Xhaka and Switzerland overcome quarter-final hurdle? All players, full squad list, key stats and schedule\nQuick facts\nCaptain: Granit Xhaka\nManager: Murat Yakin\nWorld Cup appearances (including 2026): 13\nBest World Cup result: Quarter-finals (1934, 1938, 1954)\nFIFA World Cup 2026 – Switzerland’s full squad\nGoalkeepers: Marvin Keller (BSC Young Boys), Gregor Kobel (Borussia Dortmund), Yvon Mvogo (Lorient)\nDefenders: Manuel Akanji (Internazionale), Aurèle Amenda (Eintracht Frankfurt), Eray Cömert (Valencia), Nico Elvedi (Borussia Mönchengladbach), Luca Jaquez (Stuttgart), Miro Muheim (Hamburger SV), Ricardo Rodríguez (Real Betis), Silvan Widmer (Mainz 05)\nMidfielders: Michel Aebischer (Pisa), Remo Freuler (Bologna), Ardon Jashari (AC Milan), Fabian Rieder (Augsburg), Djibril Sow (FC Sevilla), Granit Xhaka (Sunderland), Denis Zakaria (Monaco)\nForwards: Zeki Amdouni (Burnley), Breel Embolo (Stade Rennais), Dan Ndoye (Nottingham Forest), Noah Okafor (Leeds United), Rubén Vargas (Sevilla), Christian Fassnacht (BSC Young Boys), Cedric Itten (Fortuna Düsseldorf), Johan Manzambi (SC Freiburg)",
+ "_note": "team_data 赛前伤停/新闻 raw 全量留底;摘要(digest)另写进 summary ⑦/块B,可凭此回溯全文。"
+}

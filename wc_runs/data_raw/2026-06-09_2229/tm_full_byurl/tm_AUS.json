@@ -1,0 +1,445 @@
+[
+ {
+  "player_id": "867137",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/867137",
+  "name": "AlessandroCircati",
+  "shirt_number": 39,
+  "club": "Joined:",
+  "club_id": "130",
+  "market_value": "€12.00m",
+  "market_value_numeric": 12000000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Social-Media:",
+  "nationality": "Italy",
+  "citizenships": [
+   "Italy",
+   "Italy",
+   "Australia",
+   "Australia",
+   "Italy",
+   "Australia",
+   "Italy"
+  ],
+  "market_value_history": [
+   {
+    "date": "Jun 23, 2022",
+    "value": "€150k",
+    "value_numeric": 150000,
+    "club": "Parma Primavera",
+    "age": "18"
+   },
+   {
+    "date": "Sep 27, 2022",
+    "value": "€600k",
+    "value_numeric": 600000,
+    "club": "Parma Calcio 1913",
+    "age": "18"
+   },
+   {
+    "date": "Dec 22, 2022",
+    "value": "€600k",
+    "value_numeric": 600000,
+    "club": "Parma Calcio 1913",
+    "age": "19"
+   },
+   {
+    "date": "Jun 12, 2023",
+    "value": "€900k",
+    "value_numeric": 900000,
+    "club": "Parma Calcio 1913",
+    "age": "19"
+   },
+   {
+    "date": "Oct 11, 2023",
+    "value": "€2.00m",
+    "value_numeric": 2000000,
+    "club": "Parma Calcio 1913",
+    "age": "20"
+   },
+   {
+    "date": "Dec 27, 2023",
+    "value": "€3.30m",
+    "value_numeric": 3300000,
+    "club": "Parma Calcio 1913",
+    "age": "20"
+   },
+   {
+    "date": "Mar 25, 2024",
+    "value": "€5.00m",
+    "value_numeric": 5000000,
+    "club": "Parma Calcio 1913",
+    "age": "20"
+   },
+   {
+    "date": "Jun 3, 2024",
+    "value": "€8.50m",
+    "value_numeric": 8500000,
+    "club": "Parma Calcio 1913",
+    "age": "20"
+   },
+   {
+    "date": "Dec 18, 2024",
+    "value": "€8.50m",
+    "value_numeric": 8500000,
+    "club": "Parma Calcio 1913",
+    "age": "21"
+   },
+   {
+    "date": "Jun 17, 2025",
+    "value": "€8.00m",
+    "value_numeric": 8000000,
+    "club": "Parma Calcio 1913",
+    "age": "21"
+   },
+   {
+    "date": "Dec 23, 2025",
+    "value": "€8.00m",
+    "value_numeric": 8000000,
+    "club": "Parma Calcio 1913",
+    "age": "22"
+   },
+   {
+    "date": "Mar 24, 2026",
+    "value": "€10.00m",
+    "value_numeric": 10000000,
+    "club": "Parma Calcio 1913",
+    "age": "22"
+   },
+   {
+    "date": "May 29, 2026",
+    "value": "€12.00m",
+    "value_numeric": 12000000,
+    "club": "Parma Calcio 1913",
+    "age": "22"
+   }
+  ],
+  "peak_market_value": 12000000,
+  "transfers": [],
+  "_our_pid": "per_alessandro_circati"
+ },
+ {
+  "player_id": "746891",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/746891",
+  "name": "CristianVolpato",
+  "shirt_number": 7,
+  "club": "Joined:",
+  "club_id": "6574",
+  "market_value": "€10.00m",
+  "market_value_numeric": 10000000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Social-Media:",
+  "nationality": "Italy",
+  "citizenships": [
+   "Italy",
+   "Australia",
+   "Australia",
+   "Australia",
+   "Australia",
+   "Australia",
+   "Italy"
+  ],
+  "market_value_history": [
+   {
+    "date": "Jun 23, 2022",
+    "value": "€900k",
+    "value_numeric": 900000,
+    "club": "Roma U19",
+    "age": "18"
+   },
+   {
+    "date": "Nov 11, 2022",
+    "value": "€3.00m",
+    "value_numeric": 3000000,
+    "club": "AS Roma",
+    "age": "18"
+   },
+   {
+    "date": "Jun 15, 2023",
+    "value": "€3.00m",
+    "value_numeric": 3000000,
+    "club": "AS Roma",
+    "age": "19"
+   },
+   {
+    "date": "Oct 11, 2023",
+    "value": "€5.00m",
+    "value_numeric": 5000000,
+    "club": "US Sassuolo",
+    "age": "19"
+   },
+   {
+    "date": "Dec 20, 2023",
+    "value": "€5.00m",
+    "value_numeric": 5000000,
+    "club": "US Sassuolo",
+    "age": "20"
+   },
+   {
+    "date": "Jun 5, 2024",
+    "value": "€4.50m",
+    "value_numeric": 4500000,
+    "club": "US Sassuolo",
+    "age": "20"
+   },
+   {
+    "date": "Dec 23, 2024",
+    "value": "€4.00m",
+    "value_numeric": 4000000,
+    "club": "US Sassuolo",
+    "age": "21"
+   },
+   {
+    "date": "Jun 2, 2025",
+    "value": "€6.50m",
+    "value_numeric": 6500000,
+    "club": "US Sassuolo",
+    "age": "21"
+   },
+   {
+    "date": "Dec 23, 2025",
+    "value": "€10.00m",
+    "value_numeric": 10000000,
+    "club": "US Sassuolo",
+    "age": "22"
+   },
+   {
+    "date": "May 29, 2026",
+    "value": "€10.00m",
+    "value_numeric": 10000000,
+    "club": "US Sassuolo",
+    "age": "22"
+   }
+  ],
+  "peak_market_value": 10000000,
+  "transfers": [],
+  "_our_pid": "per_cristian_volpato"
+ },
+ {
+  "player_id": "1279984",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/1279984",
+  "name": "LucasHerrington",
+  "shirt_number": 22,
+  "club": "Joined:",
+  "club_id": "1247",
+  "market_value": "€4.50m",
+  "market_value_numeric": 4500000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Social-Media:",
+  "nationality": "United States",
+  "citizenships": [
+   "United States",
+   "Australia",
+   "Australia",
+   "Australia",
+   "Australia",
+   "Australia"
+  ],
+  "market_value_history": [
+   {
+    "date": "Jan 9, 2025",
+    "value": "€125k",
+    "value_numeric": 125000,
+    "club": "Brisbane Roar",
+    "age": "17"
+   },
+   {
+    "date": "Jun 3, 2025",
+    "value": "€400k",
+    "value_numeric": 400000,
+    "club": "Brisbane Roar",
+    "age": "17"
+   },
+   {
+    "date": "Jan 13, 2026",
+    "value": "€750k",
+    "value_numeric": 750000,
+    "club": "Brisbane Roar",
+    "age": "18"
+   },
+   {
+    "date": "Apr 7, 2026",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "Colorado Rapids",
+    "age": "18"
+   },
+   {
+    "date": "Jun 2, 2026",
+    "value": "€4.50m",
+    "value_numeric": 4500000,
+    "club": "Colorado Rapids",
+    "age": "18"
+   }
+  ],
+  "peak_market_value": 4500000,
+  "transfers": [],
+  "_our_pid": "per_lucas_herrington"
+ },
+ {
+  "player_id": "849429",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/849429",
+  "name": "TeteYengi",
+  "shirt_number": 99,
+  "club": "Joined:",
+  "club_id": "23568",
+  "market_value": "€450k",
+  "market_value_numeric": 450000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Current club:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "-",
+  "nationality": "Japan",
+  "citizenships": [
+   "Japan",
+   "Australia",
+   "Australia",
+   "Australia",
+   "Australia",
+   "Australia",
+   "England"
+  ],
+  "market_value_history": [
+   {
+    "date": "Mar 30, 2021",
+    "value": "€100k",
+    "value_numeric": 100000,
+    "club": "Newcastle United Jets",
+    "age": "20"
+   },
+   {
+    "date": "Oct 1, 2021",
+    "value": "€100k",
+    "value_numeric": 100000,
+    "club": "Ipswich Town",
+    "age": "20"
+   },
+   {
+    "date": "Apr 15, 2022",
+    "value": "€150k",
+    "value_numeric": 150000,
+    "club": "Vaasan Palloseura",
+    "age": "21"
+   },
+   {
+    "date": "Jul 25, 2022",
+    "value": "€300k",
+    "value_numeric": 300000,
+    "club": "Vaasan Palloseura",
+    "age": "21"
+   },
+   {
+    "date": "Oct 27, 2022",
+    "value": "€400k",
+    "value_numeric": 400000,
+    "club": "Vaasan Palloseura",
+    "age": "21"
+   },
+   {
+    "date": "Apr 6, 2023",
+    "value": "€300k",
+    "value_numeric": 300000,
+    "club": "Northampton Town",
+    "age": "22"
+   },
+   {
+    "date": "Jun 9, 2023",
+    "value": "€300k",
+    "value_numeric": 300000,
+    "club": "Ipswich Town",
+    "age": "22"
+   },
+   {
+    "date": "Jul 28, 2023",
+    "value": "€300k",
+    "value_numeric": 300000,
+    "club": "Kuopion Palloseura",
+    "age": "22"
+   },
+   {
+    "date": "Nov 24, 2023",
+    "value": "€250k",
+    "value_numeric": 250000,
+    "club": "Kuopion Palloseura",
+    "age": "22"
+   },
+   {
+    "date": "Mar 20, 2024",
+    "value": "€400k",
+    "value_numeric": 400000,
+    "club": "Livingston FC",
+    "age": "23"
+   },
+   {
+    "date": "May 30, 2024",
+    "value": "€400k",
+    "value_numeric": 400000,
+    "club": "Livingston FC",
+    "age": "23"
+   },
+   {
+    "date": "Oct 4, 2024",
+    "value": "€200k",
+    "value_numeric": 200000,
+    "club": "Livingston FC",
+    "age": "23"
+   },
+   {
+    "date": "Dec 3, 2024",
+    "value": "€200k",
+    "value_numeric": 200000,
+    "club": "Livingston FC",
+    "age": "24"
+   },
+   {
+    "date": "Jun 17, 2025",
+    "value": "€150k",
+    "value_numeric": 150000,
+    "club": "Livingston FC",
+    "age": "24"
+   },
+   {
+    "date": "Dec 10, 2025",
+    "value": "€250k",
+    "value_numeric": 250000,
+    "club": "Livingston FC",
+    "age": "25"
+   },
+   {
+    "date": "Jun 3, 2026",
+    "value": "€450k",
+    "value_numeric": 450000,
+    "club": "Machida Zelvia",
+    "age": "25"
+   }
+  ],
+  "peak_market_value": 450000,
+  "transfers": [],
+  "_our_pid": "per_tete_yengi"
+ }
+]

@@ -1,0 +1,142 @@
+{{short description|Norwegian footballer (born 2002)}}
+{{Use dmy dates|date=August 2021}}
+{{Infobox football biography
+|name = Sander Tangvik
+|fullname = 
+|image =
+|birth_date = {{Birth date and age|2002|11|29|df=y}}
+|birth_place = [[Trondheim]], Norway
+|height = 193 cm
+|position = [[Goalkeeper (association football)|Goalkeeper]]
+|currentclub = [[Hamburger SV]]
+|clubnumber = 12
+|youthyears1 = {{0|0000}}–2017
+|youthclubs1 = [[Byåsen Toppfotball|Byåsen]]
+|youthyears2 = 2017–2021
+|youthclubs2 = [[Rosenborg BK|Rosenborg]]
+|years1 = 2021–2026
+|clubs1 = [[Rosenborg BK|Rosenborg]]
+|caps1 = 69
+|goals1 = 0
+|years2 = 2026–
+|clubs2 = [[Hamburger SV]]
+|caps2 = 1
+|goals2 = 0
+|nationalyears1 = 2021
+|nationalteam1 = [[Norway national under-15 football team|Norway U15]]
+|nationalcaps1 = 1
+|nationalgoals1 = 0
+|nationalyears2 = 2022
+|nationalteam2 = [[Norway national under-16 football team|Norway U16]]
+|nationalcaps2 = 8
+|nationalgoals2 = 0
+|nationalyears3 = 2021
+|nationalteam3 = [[Norway national under-17 football team|Norway U17]]
+|nationalcaps3 = 6
+|nationalgoals3 = 0
+|nationalyears4 = 2022
+|nationalteam4 = [[Norway national under-18 football team|Norway U18]]
+|nationalcaps4 = 2
+|nationalgoals4 = 0
+|nationalyears5 = 2022–2023
+|nationalteam5 = [[Norway national under-20 football team|Norway U20]]
+|nationalcaps5 = 4
+|nationalgoals5 = 0
+|nationalyears6 = 2023–2024
+|nationalteam6 = [[Norway national under-21 football team|Norway U21]]
+|nationalcaps6 = 12
+|nationalgoals6 = 0
+|pcupdate = 16 May 2026
+|ntupdate = 19 November 2024
+}}
+
+'''Sander Tangvik''' (born 29 November 2002) is a Norwegian [[association football|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for German {{German football updater|Hamburg}} club [[Hamburger SV]] and the [[Norway national football team|Norway national team]].
+
+==Club career==
+
+In March 2021 Tangvik signed a new contract with Rosenborg and became a part of the first team squad.<ref>{{cite news|url=https://www.rbk.no/nyheter/dette-er-noe-jeg-har-trent-for-hele-livet|title=Dette er noe jeg har trent for hele livet|date=4 March 2021|publisher=RBK.no|access-date=6 November 2022}}</ref> Later that year in August he made his debut against [[Orkla Fotballklubb|Orkla]] in the [[2021–22 Norwegian Football Cup|Norwegian Cup]], coming on for the second half.<ref>{{cite news|url=https://www.nidaros.no/sander-fikk-rbk-debuten-etter-27-turer-pa-benken-jeg-har-ventet-en-stund-ja/s/5-113-222221|title=Sander fikk RBK debuten etter 27 turer på benken - Jeg har ventet en stund ja|date=1 August 2021|publisher=Nidaros.no|access-date=7 November 2022}}</ref>
+
+Tangvik made his league debut on 6 November 2022 coming on in the 89th minute against [[FK Jerv|Jerv]], replacing [[André Hansen]].<ref>{{cite news|url=https://www.rbk.no/nyheter/sikret-europakvalifisering-borte-mot-jerv|title=Sikret Europakvalifisering borte mot Jerv|date=6 November 2022|publisher=RBK.no|access-date=6 November 2022}}</ref><ref>{{cite news|url=https://www.nidaros.no/rbk-gjorde-jobben-na-venter-charterbillet-til-europa/s/5-113-383274|title=RBK gjorde jobben – nå venter charterbillet til Europa|date=6 November 2022|publisher=RBK.no|access-date=7 November 2022}}</ref>
+
+On 22 January 2026, Tangvik signed with [[Hamburger SV]] in Germany.<ref>{{cite web|publisher=Hamburger SV|url=https://www.hsv.de/en/news/hsv-sign-sander-tangvik|title=HSV sign Sander Tangvik|date=22 January 2026|access-date=22 January 2026}}</ref>
+He made his debut in a 1-1 match against [[Bayer 04 Leverkusen]] on the last day of the [[2025–26 Bundesliga|2025-26]]-season, where he also saved a penalty against [[Patrik Schick]].<ref>{{cite web|url=https://www.hsv.de/news/sander-tangvik-eine-mehr-als-gelungene-premiere|title=Sander Tangvik: Eine mehr als gelungene premiere|publisher=HSV|language=de|date=18 May 2026}}</ref>
+
+==Career statistics==
+
+===Club===
+{{updated|match played 16 May 2026}}<ref>{{cite news|url=https://www.fotball.no/fotballdata/person/profil/?fiksId=3071176|title=Sander Tangvik Career Statistics|accessdate=6 November 2022|publisher=Fotball.no}}</ref>
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!rowspan="2"|Division
+!colspan="2"|League
+!colspan="2"|Cup
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="6" valign="center"|[[Rosenborg BK|Rosenborg]]
+|[[2021 Eliteserien|2021]]
+|[[Eliteserien]]
+|0||0||1||0||0||0||colspan="2"|—||1||0
+|-
+|[[2022 Eliteserien|2022]]
+|Eliteserien
+|1||0||0||0||0||0||colspan="2"|—||1||0
+|-
+|[[2023 Eliteserien|2023]]
+|Eliteserien
+|9||0||3||0||0||0||colspan="2"|—||12||0
+|-
+|[[2024 Eliteserien|2024]]
+|Eliteserien
+|29||0||2||0||0||0||colspan="2"|—||31||0
+|-
+|[[2025 Eliteserien|2025]]
+|Eliteserien
+|30||0||4||0||6||0||colspan="2"|—||40||0
+|-
+!colspan=2|Total
+!69!!0!!10!!0!!6!!0!!colspan="2"|—!!85!!0
+|-
+|rowspan="1" valign="center"|[[Hamburger SV|Hamburg]]
+|[[2025–26 Bundesliga|2025–26]]
+|rowspan="1" |[[Bundesliga]]
+|1||0||0||0||0||0||colspan="2"|—||1||0
+|-
+!colspan="3"|Career total
+!70!!0!!10!!0!!6!!0!!0!!0!!86!!0
+|}
+
+==References==
+{{reflist|30em}}
+
+==External links==
+{{commons category}}
+* {{NFF|3071176}}
+
+{{Hamburger SV squad}}
+{{Norway squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Tangvik, Sander}}
+[[Category:2002 births]]
+[[Category:Footballers from Trondheim]]
+[[Category:Living people]]
+[[Category:21st-century Norwegian sportsmen]]
+[[Category:Men's association football goalkeepers]]
+[[Category:Norwegian men's footballers]]
+[[Category:Norway men's youth international footballers]]
+[[Category:Norway men's under-21 international footballers]]
+[[Category:Rosenborg BK players]]
+[[Category:Hamburger SV players]]
+[[Category:Eliteserien players]]
+[[Category:Norwegian expatriate men's footballers]]
+[[Category:Expatriate men's footballers in Germany]]
+[[Category:Norwegian expatriate sportspeople in Germany]]
+[[Category:2026 FIFA World Cup players]]
+
+{{Norway-footy-forward-stub}}

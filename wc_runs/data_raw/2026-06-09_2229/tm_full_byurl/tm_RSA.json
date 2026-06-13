@@ -1,0 +1,220 @@
+[
+ {
+  "player_id": "994370",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/994370",
+  "name": "KamogeloSebelebele",
+  "shirt_number": 36,
+  "club": "Joined:",
+  "club_id": "2557",
+  "market_value": "€1.20m",
+  "market_value_numeric": 1200000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "-",
+  "nationality": "South Africa",
+  "citizenships": [
+   "South Africa",
+   "South Africa",
+   "South Africa",
+   "South Africa"
+  ],
+  "market_value_history": [
+   {
+    "date": "Jun 30, 2022",
+    "value": "€25k",
+    "value_numeric": 25000,
+    "club": "TS Galaxy FC",
+    "age": "19"
+   },
+   {
+    "date": "Feb 3, 2023",
+    "value": "€75k",
+    "value_numeric": 75000,
+    "club": "TS Galaxy FC",
+    "age": "20"
+   },
+   {
+    "date": "May 30, 2023",
+    "value": "€50k",
+    "value_numeric": 50000,
+    "club": "TS Galaxy FC",
+    "age": "20"
+   },
+   {
+    "date": "Jan 5, 2024",
+    "value": "€150k",
+    "value_numeric": 150000,
+    "club": "TS Galaxy FC",
+    "age": "21"
+   },
+   {
+    "date": "Jun 11, 2024",
+    "value": "€550k",
+    "value_numeric": 550000,
+    "club": "TS Galaxy FC",
+    "age": "21"
+   },
+   {
+    "date": "Jan 10, 2025",
+    "value": "€550k",
+    "value_numeric": 550000,
+    "club": "TS Galaxy FC",
+    "age": "22"
+   },
+   {
+    "date": "May 28, 2025",
+    "value": "€700k",
+    "value_numeric": 700000,
+    "club": "TS Galaxy FC",
+    "age": "22"
+   },
+   {
+    "date": "Dec 12, 2025",
+    "value": "€850k",
+    "value_numeric": 850000,
+    "club": "Orlando Pirates",
+    "age": "23"
+   },
+   {
+    "date": "Jun 5, 2026",
+    "value": "€1.20m",
+    "value_numeric": 1200000,
+    "club": "Orlando Pirates",
+    "age": "23"
+   }
+  ],
+  "peak_market_value": 1200000,
+  "transfers": [],
+  "_our_pid": "per_kamogelo_sebelebele"
+ },
+ {
+  "player_id": "735697",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/735697",
+  "name": "ThalenteMbatha",
+  "shirt_number": 16,
+  "club": "Joined:",
+  "club_id": "2557",
+  "market_value": "€2.00m",
+  "market_value_numeric": 2000000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "-",
+  "nationality": "South Africa",
+  "citizenships": [
+   "South Africa",
+   "South Africa",
+   "South Africa",
+   "South Africa",
+   "South Africa",
+   "South Africa"
+  ],
+  "market_value_history": [
+   {
+    "date": "Feb 14, 2020",
+    "value": "€50k",
+    "value_numeric": 50000,
+    "club": "Highlands Park FC",
+    "age": "19"
+   },
+   {
+    "date": "Jan 14, 2021",
+    "value": "€50k",
+    "value_numeric": 50000,
+    "club": "SuperSport United",
+    "age": "20"
+   },
+   {
+    "date": "Jun 15, 2021",
+    "value": "€50k",
+    "value_numeric": 50000,
+    "club": "SuperSport United",
+    "age": "21"
+   },
+   {
+    "date": "Jan 15, 2022",
+    "value": "€50k",
+    "value_numeric": 50000,
+    "club": "SuperSport United",
+    "age": "21"
+   },
+   {
+    "date": "Jun 30, 2022",
+    "value": "€75k",
+    "value_numeric": 75000,
+    "club": "SuperSport United",
+    "age": "22"
+   },
+   {
+    "date": "Feb 3, 2023",
+    "value": "€125k",
+    "value_numeric": 125000,
+    "club": "SuperSport United",
+    "age": "22"
+   },
+   {
+    "date": "May 30, 2023",
+    "value": "€175k",
+    "value_numeric": 175000,
+    "club": "SuperSport United",
+    "age": "23"
+   },
+   {
+    "date": "Jan 5, 2024",
+    "value": "€150k",
+    "value_numeric": 150000,
+    "club": "SuperSport United",
+    "age": "23"
+   },
+   {
+    "date": "Jun 11, 2024",
+    "value": "€350k",
+    "value_numeric": 350000,
+    "club": "Orlando Pirates",
+    "age": "24"
+   },
+   {
+    "date": "Jan 10, 2025",
+    "value": "€700k",
+    "value_numeric": 700000,
+    "club": "Orlando Pirates",
+    "age": "24"
+   },
+   {
+    "date": "May 28, 2025",
+    "value": "€1.00m",
+    "value_numeric": 1000000,
+    "club": "Orlando Pirates",
+    "age": "25"
+   },
+   {
+    "date": "Dec 12, 2025",
+    "value": "€1.60m",
+    "value_numeric": 1600000,
+    "club": "Orlando Pirates",
+    "age": "25"
+   },
+   {
+    "date": "Jun 5, 2026",
+    "value": "€2.00m",
+    "value_numeric": 2000000,
+    "club": "Orlando Pirates",
+    "age": "26"
+   }
+  ],
+  "peak_market_value": 2000000,
+  "transfers": [],
+  "_our_pid": "per_thalente_mbatha"
+ }
+]

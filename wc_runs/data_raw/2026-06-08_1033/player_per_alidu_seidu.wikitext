@@ -1,0 +1,83 @@
+{{short description|Ghanaian footballer (born 2000)|bot=PearBOT 5}}
+{{Use dmy dates|date=November 2020}}
+{{Infobox football biography
+| name = Alidu Seidu
+| image = 
+| caption = 
+| fullname = Alidu Seidu<ref name="FIFA 2022">{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=FIFA World Cup Qatar 2022: List of players: Ghana |publisher=[[FIFA]] |page=14 |date=15 November 2022 |access-date=4 December 2022}}</ref>
+| birth_date = {{birth date and age|df=yes|2000|6|04}}<ref name="FIFA 2022"/>
+| birth_place = [[Kumasi]], Ghana
+| height = 1.73 m<ref name="FIFA 2022"/>
+| position = [[Defender (association football)|Defender]]
+| currentclub = [[Stade Rennais F.C.|Rennes]]
+| clubnumber = 36
+| youthyears1 = 
+| youthclubs1 = [[JMG Academy]]
+| years1 = 2019–2021
+| clubs1 = [[Clermont Foot|Clermont II]]
+| caps1 = 10
+| goals1= 0
+| years2 = 2020–2024
+| clubs2 = [[Clermont Foot|Clermont]]
+| caps2 = 72
+| goals2= 0
+| years3 = 2024–
+| clubs3 = [[Stade Rennais F.C.|Rennes]]
+| caps3 = 43
+| goals3 = 0
+| nationalyears1 = 2022–
+| nationalteam1 = [[Ghana national football team|Ghana]]
+| nationalcaps1 = 17
+| nationalgoals1 = 1
+| club-update = 19 May 2026
+| nationalteam-update = 9 September 2024
+}}
+
+'''Alidu Seidu''' (born 4 June 2000) is a Ghanaian-French<ref>{{Cite web |last=Demba |first=Varore |date=24 April 2024 |title=Alidu Seidu : "Depuis tout petit, j'ai baigné dans la culture ghanéenne" - Football |url=https://sportnewsafrica.com/news-football/montpellier-modibo-sagnan-depuis-tout-petit-jai-baigne-dans-la-culture-malienne/ |access-date=7 August 2025 |website=Sport News Africa |language=fr-FR}}</ref> professional [[Association football|footballer]] who plays as a [[Defender (association football)|defender]] for French {{French football updater|Rennes}} club [[Stade Rennais F.C.|Rennes]] and the [[Ghana national football team|Ghana national team]].
+
+==Club career==
+On 1 June 2019, Seidu joined [[Clermont Foot]] from the [[JMG Academy]].<ref>{{Cite web|url=https://jmgmanagement.pro/2017/12/01/alidu-seidu-jmg-academician-profesionnal-player/|title=C.S. Clermont sign Alidu Seidu|publisher=Soccer News|date=1 June 2019|access-date=18 September 2020|archive-date=23 September 2020|archive-url=https://web.archive.org/web/20200923114407/http://jmgmanagement.pro/2017/12/01/alidu-seidu-jmg-academician-profesionnal-player/|url-status=dead}}</ref> He made his debut with Clermont in a 1–1 [[Ligue 2]] draw with [[Toulouse FC]] on 19 September 2020.<ref>{{Cite web|title=Clermont vs. Toulouse - 19 September 2020 - Soccerway|url=https://int.soccerway.com/matches/2020/09/19/france/ligue-2/clermont-foot-auvergne/toulouse-fc/3287847/|access-date=28 November 2020|website=int.soccerway.com}}</ref><ref>{{Cite web|title=Ligue 2 : retrouvez les temps forts du match Clermont Foot - Toulouse FC (1-1)|url=https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/puy-de-dome/clermont-ferrand/ligue-2-suivez-direct-match-du-clermont-foot-63-face-toulouse-1875418.html|access-date=28 November 2020|website=France 3 Auvergne-Rhône-Alpes|date=19 September 2020 |language=fr-FR}}</ref>
+
+On 29 January 2024, Seidu signed a contract with [[Stade Rennais F.C.|Rennes]] until 2028.<ref>{{cite web|publisher=Rennes|url=https://www.staderennais.com/actualites/equipe-pro/alidu-seidu-officiellement-rennais|title=Alidu Seidu officiellement Rennais !|trans-title=Alidu Seidu officially at Rennes!|date=29 January 2024|access-date=29 January 2024|language=fr}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Wikiquote-inline}}
+* {{Soccerway|649655}}
+
+{{Stade Rennais F.C. squad}}
+{{Navboxes
+|title=Ghana squads
+|bg=#CA1118
+|fg=#FBE816
+|bordercolor=black
+|list1=
+{{Ghana squad 2022 FIFA World Cup}}
+{{Ghana squad 2023 Africa Cup of Nations}}
+{{Ghana squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Seidu, Alidu}}
+[[Category:2000 births]]
+[[Category:Living people]]
+[[Category:Ghanaian men's footballers]]
+[[Category:Men's association football defenders]]
+[[Category:Ghana men's international footballers]]
+[[Category:Ligue 1 players]]
+[[Category:Ligue 2 players]]
+[[Category:Championnat National 3 players]]
+[[Category:JMG Academy (Djékanou) players]]
+[[Category:Clermont Foot 63 players]]
+[[Category:Stade Rennais FC players]]
+[[Category:Ghanaian expatriate men's footballers]]
+[[Category:Ghanaian expatriate sportspeople in France]]
+[[Category:Expatriate men's footballers in France]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:2023 Africa Cup of Nations players]]
+[[Category:21st-century Ghanaian sportsmen]]
+[[Category:2026 FIFA World Cup players]]
+
+
+{{Ghana-footy-bio-stub}}

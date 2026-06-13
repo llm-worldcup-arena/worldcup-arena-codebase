@@ -1,0 +1,16 @@
+{
+ "team": "BRA",
+ "source": "FOX Sports",
+ "url": "https://www.foxsports.com/stories/soccer/brazil-says-neymar-sidelined-by-a-calf-injury-isnt-traveling-for-an-exhibition-game-vs-egypt",
+ "title": "Neymar Not Traveling With Brazil For Friendly vs. Egypt Due To Calf Injury | FOX Sports",
+ "news_date": "2026-06-10",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "asof": "2026-06-10",
+ "fetched": "2026-06-13_0638",
+ "method": "jsonld:articleBody",
+ "status": "ok",
+ "original_text": "Neymar is not traveling to Cleveland with Brazil’s World Cup team for its exhibition tuneup against Egypt on Saturday, according to the country’s soccer association. The Brazilian Football Confederation said Thursday the 34-year-old forward would remain in New Jersey to undergo treatment. Last week, the team doctor said that Neymar was expected to be sidelined two to three weeks because of a calf injury. Brazil’s opening game at the World Cup is June 13 against Morocco in East Rutherford, New Jersey, and it was not clear if Neymar would be ready to play in it. Picking Neymar for the 26-player roster was considered a risk because of his health. He is Brazil’s all-time leading goal scorer with 79 but has struggled since returning from tearing the ACL in his left knee in October 2023 in a World Cup qualifier. \"He can still improve his fitness until the first match of the World Cup,\" coach Carlos Ancelotti said last month. \"He has experience in this kind of competition, the love of our group, he can create a better environment in this group.\" Neymar has played eight matches for Santos FC this year and has four goals and two assists. FIFA rules allow an injured player to be replaced up to one day before a team’s first game at the tournament. If he plays, this would be Neymar's fourth World Cup. Brazil earlier this week named 32-year-old defender Marquinhos captain. \"You think about all the legendary captains who have worn this armband before, so I feel very honored and very happy,\" Marquinhos said in Portuguese on Wednesday. \"Being captain isn’t simply about wearing the armband and playing football. It’s much more than that. It starts with the person and with what you can contribute to the group, to your teammates and to the team as a whole.\" Reporting by The Associated Press.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

@@ -43,7 +43,7 @@ def parse_qual_table(wt, codes):
 
 
 def main(ts=None):
-    raw_dir = f"{BASE}/raw/bg/{ts or run_ts()}"             # 预选赛页 + table 模板原文存这（raw 全量）
+    raw_dir = f"{BASE}/data_raw/{ts or run_ts()}"             # 预选赛页 + table 模板原文存这（raw 全量）
     codes = set(WIKI_PAGE)
     qual = {}
     for cpage in CONFED_PAGES:

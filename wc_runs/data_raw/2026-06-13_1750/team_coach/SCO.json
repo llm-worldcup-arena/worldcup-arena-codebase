@@ -1,0 +1,35 @@
+{
+ "team": "SCO",
+ "coach": {
+  "name_zh": "史蒂夫·克拉克",
+  "name_en": "Steve Clarke",
+  "nationality": "Scotland",
+  "career_since": "1999",
+  "person_id": "per_steve_clarke"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 史蒂夫·克拉克，苏格兰人，1999年开启执教生涯，2019年起执掌苏格兰国家队，合同已续签至2030年。\n- 率队连续晋级2020、2024欧洲杯及2026世界杯，终结苏格兰自1998年以来世界杯正赛荒，但前两届欧洲杯小组赛均告负且未取一胜。\n- 战术上曾将斯科特·麦克托米奈改造为中后卫但效果不佳，现已将其定位为攻击型中场，球员在预选赛对丹麦的关键战中攻入制胜倒钩。\n- 执教理念强调26人整体而非依赖单一球星，拒绝将压力集中于麦克托米奈一人，主张团队共同承担责任。\n- 2024欧洲杯首战1-5遭德国重创，克拉克自嘲\"别被痛宰\"为最大教训，本届世界杯首战海地力求避免重蹈覆辙。\n- 带队力争队史首次世界杯小组出线，近期热身赛状态不俗（6胜1平3负），但需克服前两届大赛小组赛全败的心理阴影。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.88,
+  "issues": [
+   "合同至2030年对单场预测无关",
+   "曾改造麦克托米奈打中卫已过时",
+   "预选赛倒钩案例过于具体"
+  ]
+ },
+ "brief_fetched": "2026-06-13_1750",
+ "brief_info_chars": 6000,
+ "coach_xverify": {
+  "canonical": "Steve Clarke",
+  "confidence": "high",
+  "discrepancy": "STV News erroneously mentions 'head coach Mohamed Ouahbi', but this refers to Morocco's national team (context: discussing Moroccan player Noussair Mazraoui), not Scotland. All other sources explicitly confirm Steve Clarke.",
+  "sources_agree": 4,
+  "n_sources": 8
+ }
+}

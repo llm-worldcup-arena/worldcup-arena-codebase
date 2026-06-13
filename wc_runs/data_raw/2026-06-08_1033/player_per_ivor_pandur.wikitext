@@ -1,0 +1,200 @@
+{{short description|Croatian footballer (born 2000)}}
+{{Use dmy dates|date=January 2024}}
+{{Infobox football biography
+| name = Ivor Pandur
+| image = 
+| caption = 
+| fullname = Ivor Pandur<ref>{{cite web |url=https://s3.eu-west-1.amazonaws.com/gc-media-assets.gc.eflservices.co.uk/04353ec0-24df-11ef-b4b6-4382bb2cf5f6.pdf |title=Club list of registered players: Hull City |publisher=English Football League |page=8 |accessdate=3 August 2024}}</ref>
+| birth_date = {{birth date and age|2000|03|25|df=y}}
+| birth_place = [[Rijeka]], Croatia
+| height = 1.87 m<ref name="WF">{{WorldFootball.net|ivor-pandur}}</ref>
+| position = [[Goalkeeper (association football)|Goalkeeper]]
+| currentclub = [[Hull City A.F.C.|Hull City]]
+| clubnumber = 1
+| youthyears1 = 2011–2019
+| youthclubs1 = [[HNK Rijeka|Rijeka]]
+| years1 = 2019–2020
+| clubs1 = [[HNK Rijeka|Rijeka]]
+| caps1 = 20
+| goals1 = 0
+| years2 = 2020–2023
+| clubs2 = [[Hellas Verona F.C.|Hellas Verona]]
+| caps2 = 7
+| goals2 = 0
+| years3 = 2022–2023
+| clubs3 = → [[Fortuna Sittard]] (loan)
+| caps3 = 31
+| goals3 = 0
+| years4 = 2023–2024
+| clubs4 = [[Fortuna Sittard]]
+| caps4 = 16
+| goals4 = 0
+| years5 = 2024–
+| clubs5 = [[Hull City A.F.C.|Hull City]]
+| caps5 = 89
+| goals5 = 0
+| nationalyears1 = 2015
+| nationalteam1  = [[Croatia national under-15 football team|Croatia U15]]
+| nationalcaps1  = 2
+| nationalgoals1 = 0
+| nationalyears2 = 2016–2017
+| nationalteam2  = [[Croatia national under-17 football team|Croatia U17]]
+| nationalcaps2  = 4
+| nationalgoals2 = 0
+| nationalyears3 = 2018
+| nationalteam3  = [[Croatia national under-18 football team|Croatia U18]]
+| nationalcaps3  = 1
+| nationalgoals3 = 0
+| nationalyears4 = 2017–2019
+| nationalteam4  = [[Croatia national under-19 football team|Croatia U19]]
+| nationalcaps4  = 6
+| nationalgoals4 = 0
+| nationalyears5 = 2019–2021
+| nationalteam5  = [[Croatia national under-20 football team|Croatia U20]]
+| nationalcaps5  = 2
+| nationalgoals5 = 0
+| nationalyears6 = 2021
+| nationalteam6  = [[Croatia national under-21 football team|Croatia U21]]
+| nationalcaps6  = 4
+| nationalgoals6 = 0
+| club-update = 19:39, 2 May 2026 (UTC)
+| nationalteam-update =
+}}
+'''Ivor Pandur''' (born 25 March 2000) is a Croatian professional [[Association football|footballer]] who plays as a [[goalkeeper (association football)|goalkeeper]] for {{English football updater|HullCity}} club [[Hull City A.F.C.|Hull City]] and the [[Croatia national football team|Croatia national team]].<ref>{{Soccerway|ivor-pandur/557480}}</ref>
+
+==Club career==
+===Rijeka===
+Pandur made his professional debut for [[HNK Rijeka|Rijeka]] in October 2019 in a [[2019–20 Croatian Football Cup|cup]] tie against Buje.<ref>{{cite web |title=Buje vs. Rijeka – 1 October 2019 |url=https://int.soccerway.com/matches/2019/10/01/croatia/hr-nogometni-cup/nk-buje/hnk-rijeka/3160642/ |website=Soccerway |publisher=Perform Group |accessdate=16 May 2023 |archiveurl=https://web.archive.org/web/20220926044236/https://int.soccerway.com/matches/2019/10/01/croatia/hr-nogometni-cup/nk-buje/hnk-rijeka/3160642/ |archivedate=26 September 2022}}</ref> He then made his [[2019–20 Croatian First Football League|league]] debut on 14 December 2019, playing the full 90 minutes of a 3–1 victory over [[NK Varaždin (2012)|Varaždin]].<ref>{{cite press release|title=Ivor Pandur nakon Varaždina: Ovo je bilo nešto o čemu sam dugo maštao|url=http://www.nk-rijeka.hr/vijest/ivor-pandur-nakon-varazdina-ovo-je-bilo-nesto-o-cemu-sam-dugo-mastao/|date=31 August 2020|publisher=[[HNK Rijeka|Rijeka]]|accessdate=1 September 2020|language=hr|archivedate=19 October 2020|archiveurl=https://web.archive.org/web/20201019210134/http://nk-rijeka.hr/vijest/ivor-pandur-nakon-varazdina-ovo-je-bilo-nesto-o-cemu-sam-dugo-mastao/|url-status=dead}}</ref>
+
+===Hellas Verona===
+On 31 August 2020, Pandur signed with Italian [[Serie A]] club [[Hellas Verona F.C.|Hellas Verona]] a five-year contract.<ref>{{cite press release|title=Ivor Pandur potpisao za Veronu: Rijeka je moj dom i jednog dana ću se vratiti|url=http://www.nk-rijeka.hr/vijest/ivor-pandur-potpisao-za-veronu-rijeka-je-moj-dom-i-jednog-dana-cu-se-vratiti/|language=hr|date=31 August 2020|publisher=[[HNK Rijeka|Rijeka]]|accessdate=1 September 2020|archivedate=1 September 2020|archiveurl=https://web.archive.org/web/20200901064731/http://www.nk-rijeka.hr/vijest/ivor-pandur-potpisao-za-veronu-rijeka-je-moj-dom-i-jednog-dana-cu-se-vratiti/|url-status=dead}}</ref><ref>{{cite press release|title=Ufficiale: Ivor Pandur a titolo definitivo dall'HNK Rijeka|url=https://www.hellasverona.it/2020/08/31/ufficiale_ivor_pandur_a_titolo_definitivo_dall_hnk_rijeka|publisher=[[Hellas Verona]]|language=it|date=31 August 2020|accessdate=1 September 2020}}</ref> He made his debut on 28 October in a [[2020–21 Coppa Italia|Coppa Italia]] tie with [[Venezia F.C.|Venezia]] that ended 3–3 after extra time, with Verona progressing thanks to Pandur saving two [[Penalty kick (association football)|penalties]] in the [[Penalty shoot-out (association football)|shoot-out]].<ref>{{cite web|date=28 October 2020|title=Pandur debitirao s dva obranjena penala za Veronu: "Mogao sam i bolje"|url=https://www.index.hr/clanak.aspx?id=2225718|accessdate=14 May 2021|website=Index.hr|language=hr}}</ref> He made his [[2020–21 Serie A|league]] debut on 9 May 2021 in a 1–1 draw with [[Torino F.C.|Torino]].<ref>{{cite web|last=[[Croatian News Agency|HINA]]|date=9 May 2021|title=Bivši vratar Rijeke Ivor Pandur debitirao u remiju protiv Torina, petarda Rome kod fenjeraša|url=https://www.novilist.hr/sport/nogomet/bivsi-vratar-rijeke-ivor-pandur-debitirao-u-remiju-protiv-torina-petarda-rome-kod-fenjerasa/|accessdate=14 May 2021|website=Novi list|language=hr}}</ref>
+
+===Fortuna Sittard===
+On 7 July 2022, Pandur agreed to a one-season loan with option to buy at [[Eredivisie]] club [[Fortuna Sittard]].<ref>{{cite press release |title=Ivor Pandur en Vasilios Sourlis op huurbasis naar Sittard |url=https://www.fortunasittard.nl/ivor-pandur-en-vasilios-sourlis-op-huurbasis-naar-sittard/ |website=[[Fortuna Sittard]] |archiveurl=https://web.archive.org/web/20230208045548/https://www.fortunasittard.nl/ivor-pandur-en-vasilios-sourlis-op-huurbasis-naar-sittard/ |archivedate=8 February 2023 |language=nl |date=7 July 2022 |url-status=dead}}</ref> He made his debut on 27 August, taking over the starting job from [[Yanick van Osch]] in a 2–1 league loss to [[SC Heerenveen]].<ref>{{cite news |last1=Caelen |first1=Sem |title=Van Osch: 'Klaar zijn voor Fortuna of een andere club' |url=https://www.1limburg.nl/sport/1897684/van-osch-klaar-zijn-voor-fortuna-of-een-andere-club |accessdate=14 April 2023 |work=1limburg |date=6 December 2022 |archiveurl=https://web.archive.org/web/20221206204310/https://www.1limburg.nl/sport/1897684/van-osch-klaar-zijn-voor-fortuna-of-een-andere-club |archivedate=6 December 2022 |language=nl}}</ref><ref>{{cite web |title=sc Heerenveen – Fortuna Sittard 2:1 (Eredivisie 2022/2023, 4. Round) |url=https://www.worldfootball.net/report/eredivisie-2022-2023-sc-heerenveen-fortuna-sittard/ |website=worldfootball.net |publisher=HEIM:SPIEL |accessdate=16 May 2023}}</ref> He remained a starter throughout the [[2022–23 Eredivisie|season]] for Fortuna.<ref>{{cite web |title=Ivor Pandur » Eredivisie 2022/2023 |url=https://www.worldfootball.net/player_summary/ivor-pandur/ned-eredivisie-2022-2023/fortuna-sittard/3/ |website=worldfootball.net |publisher=HEIM:SPIEL |accessdate=16 May 2023}}</ref>
+
+On 28 April 2023, the club exercised their purchase option and signed Pandur to a four-year contract, starting from 1 July.<ref>{{cite press release |title=Fortuna licht koopoptie in contract Ivor Pandur |url=https://fortunasittard.nl/nieuws/fortuna-licht-koopoptie-in-contract-ivor-pandur |website=Fortuna Sittard |accessdate=16 May 2023 |archiveurl=https://web.archive.org/web/20230510134717/https://fortunasittard.nl/nieuws/fortuna-licht-koopoptie-in-contract-ivor-pandur |archivedate=10 May 2023 |language=nl |date=28 April 2023}}</ref><ref>{{cite news |last1=Schreurs |first1=Joost |title=Fortuna licht koopoptie in contract Ivor Pandur |url=https://www.1limburg.nl/sport/2178656/fortuna-licht-koopoptie-in-contract-ivor-pandur |accessdate=16 May 2023 |work=1limburg |date=28 April 2023 |archiveurl=https://web.archive.org/web/20230514080152/https://www.1limburg.nl/sport/2178656/fortuna-licht-koopoptie-in-contract-ivor-pandur |archivedate=14 May 2023 |language=nl}}</ref>
+
+===Hull City===
+On 20 January 2024, Pandur signed a three-and-a-half-year deal with [[EFL Championship]] side [[Hull City A.F.C.|Hull City]] for an undisclosed fee, rumoured to be around €2,000,000.<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/68042386|title=Ivor Pandur: Hull City sign Croatian goalkeeper from Fortuna Sittard|work=BBC Sport|date=20 January 2024|accessdate=20 January 2024}}</ref><ref>{{cite news|url=https://the72.co.uk/2025/09/20/hull-city-ivor-pandur-estimated-worth/|title=Less than Giles: Data estimates how much Hull City 'keeper Ivor Pandur is worth after summer interest|work=the72.co.uk|date=17 September 2025|accessdate=24 October 2025}}</ref> After nearly eight months at the club, on 10 August, he made his debut in the opening game of the [[2024–25 Hull City A.F.C. season|2024–25]] season, a 1–1 home draw with [[Bristol City F.C.|Bristol City]].<ref>{{cite news|url=https://www.wearehullcity.co.uk/news/2024/august/10/hull-city-1-1-bristol-city/|title=Hull City 1–1 Bristol City|date=10 August 2024|publisher=Hull City A.F.C.|accessdate=10 August 2024}}</ref> Pandur became the Tigers' starting goalkeeper for the remainder of the campaign, with his performances often garnering praise. In particular, in a match against [[Coventry City F.C.|Coventry City]] on 14 April 2025, he was cited as the sole reason Hull earned a 1–1 draw amidst their fight for league survival. He won the Player of the Match award as a result of his efforts.<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/articles/c39jd39x1eyo|title=Pandur a 'one-man barrier' in Coventry draw|work=BBC Sport|date=15 April 2025|accessdate=18 April 2025}}</ref> Ultimately, the team survived relegation on the final day,<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/live/cd02mrpkd4xt|title=Portsmouth 1–1 Hull City|work=BBC Sport|date=3 May 2025|accessdate=24 October 2025}}</ref> and Pandur received further acclaim for his role in the achievement. On 6 May, the club announced that the Croatian had won the Player of the Year award, Players' Player of the Year award, and Supporters' Player of the Year award for the [[2024–25 Hull City A.F.C. season|2024–25]] season.<ref name="POTY">{{cite news|url=https://www.wearehullcity.co.uk/news/2025/may/06/hull-city-awards-2024-25-round-up/|title=Hull City Awards 2024/25: Round-Up|work=Hull City A.F.C.|date=6 May 2025|accessdate=6 May 2025}}</ref>
+
+That summer, several clubs expressed an interest in buying Pandur. Links to [[West Ham United F.C.|West Ham United]] were initially thought to be true, however they were eventually reported to be "wide of the mark".<ref>{{cite news|url=https://www.hulldailymail.co.uk/sport/football/transfer-news/hull-city-prepared-ivor-pandur-10459862|title=Hull City prepared for Ivor Pandur transfer decision with late bid now expected|work=Hull Daily Mail|date=29 August 2025|accessdate=24 October 2025}}</ref> Elsewhere, [[Middlesbrough F.C.|Middlesbrough]] expressed a genuine desire to sign the 25-year-old, but they were unwilling to meet Hull's asking price of £5,000,000. A transfer to [[Leicester City F.C.|Leicester City]] was also briefly discussed, as was a move to German side [[SV Werder Bremen|Werder Bremen]], whilst a return to [[Northeast Italy|northeastern Italy]] with [[Parma Calcio 1913|Parma]] was considered less likely.<ref>{{cite news|url=https://footballleagueworld.co.uk/hull-city-boost-middlesbrough-leicester-werder-bremen-swerve-ivor-pandur/#:~:text=Interest%20in%20the%2025%2Dyear,emergency%20loans%20and%20free%20transfers.|title=Hull City get big transfer boost as Middlesbrough, Leicester City & Werder Bremen swerve Ivor Pandur|work=the72.co.uk|date=1 September 2025|accessdate=24 October 2025}}</ref> In the end, Pandur remained in [[East Riding of Yorkshire|East Yorkshire]] for the upcoming [[2025–26 Hull City A.F.C. season|2025–26]] season, later stating that he had always planned to stay with Hull, regardless of any interest from other clubs.<ref>{{cite news|url=https://www.hulldailymail.co.uk/sport/football/transfer-news/ivor-pandur-makes-hull-city-10578373|title=Ivor Pandur makes Hull City transfer confession after 'tough' summer of exit talk|work=Hull Daily Mail|date=17 October 2025|accessdate=24 October 2025}}</ref> The return of football saw Pandur struggle amid the news of his possible departure. Although overall results were good, Hull's leaky defence had conceded 16 goals in their first nine games of the campaign, with a home match on 30 September against [[Preston North End F.C.|Preston North End]] proving to be a personal nadir for the Croatian.<ref>{{cite news|url=https://www.hulldailymail.co.uk/sport/football/football-news/ivor-pandur-makes-confession-early-10553518|title=Ivor Pandur makes confession about early season Hull City form after vital contribution|work=Hull Daily Mail|date=6 October 2025|accessdate=24 October 2025}}</ref> The visitors scored twice in the opening 10 minutes, with Pandur at fault for the second goal. Having saved an effort from [[Lewis Gibson (footballer)|Lewis Gibson]], he cleared the ball straight to [[Benjamin Whiteman|Ben Whiteman]], who set up [[Michael Smith (footballer, born 1991)|Michael Smith]] to score into a scarcely defended net.<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/live/cwynrd7g07qt|title=Hull City 2–2 Preston North End|work=BBC Sport|date=30 September 2025|accessdate=24 October 2025}}</ref> Despite his poor performances up to that point, Pandur returned to his expected standard on 4 October, saving a late penalty from [[Harrison Burrows]] to secure an important 1–0 home win over [[Sheffield United F.C.|Sheffield United]].<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/live/cdjz78jngrvt|title=Hull City 1–0 Sheffield United|work=BBC Sport|date=4 October 2025|accessdate=24 October 2025}}</ref>
+
+== International career ==
+Pandur was capped several times by [[Croatia national football team|Croatia]] at youth level.<ref name="HNS">{{cite web |title=Ivor Pandur |url=https://hns-cff.hr/en/players/209341/ivor-pandur/ |website=[[Croatian Football Federation]] |accessdate=16 May 2023 |archiveurl=https://web.archive.org/web/20221008091855/https://hns-cff.hr/en/players/209341/ivor-pandur/ |archivedate=8 October 2022}}</ref><ref>{{cite news|url=https://www.wearehullcity.co.uk/news/2024/january/20/the-story-so-far--ivor-pandur/|title=The Story So Far: Ivor Pandur|publisher=Hull City A.F.C.|date=20 January 2024|accessdate=24 October 2025}}</ref> On 22 September 2025, he was named as a standby member of the senior squad for fixtures against the [[Czech Republic national football team|Czech Republic]] and [[Gibraltar national football team|Gibraltar]].<ref>{{cite news|url=https://hns.team/vijesti/29975/izbornik-dalic-objavio-popis-igraca-za-susrete-s-ceskom-i-gibraltarom/|title=Izbornik Dalić objavio popis igrača za susrete s Češkom i Gibraltarom|work=hns.team|date=22 September 2025|accessdate=24 October 2025}}</ref> The following month, Pandur announced his hopes of being selected for the [[2026 FIFA World Cup]].<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/articles/c5y9xz9rpeqo|title=Pandur hopes performances will earn World Cup spot|work=BBC Sport|date=17 October 2025|accessdate=24 October 2025}}</ref> Then, on 10 November, he received his first senior call-up for upcoming qualifiers against the [[Faroe Islands national football team|Faroe Islands]] and [[Montenegro national football team|Montenegro]].<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/articles/cy8v2z3mev5o|title=Hull keeper Pandur receives first senior Croatia call-up|work=BBC Sport|date=10 November 2025|accessdate=10 November 2025}}</ref>
+
+==Career statistics==
+{{updated|23 May 2026}}<ref name="WF" />
+
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup{{efn|Includes [[Croatian Football Cup]], [[Coppa Italia]], [[KNVB Beker]]}}
+!colspan="2"|League cup
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="3"|[[HNK Rijeka|Rijeka]]
+|[[2019–20 HNK Rijeka season|2019–20]]
+|[[Croatian Football League]]
+|18||0||4||0||colspan="2"|—||colspan="2"|—||22||0
+|-
+|[[2020–21 HNK Rijeka season|2020–21]]
+|Croatian Football League
+|2||0||0||0||colspan="2"|—||colspan="2"|—||2||0
+|-
+!colspan="2"|Total
+!20!!0!!4!!0!!colspan="2"|—!!colspan="2"|—!!24!!0
+|-
+|rowspan="3"|[[Hellas Verona F.C.|Hellas Verona]]
+|[[2020–21 Hellas Verona F.C. season|2020–21]]
+|[[Serie A]]
+|4||0||2||0||colspan="2"|—||colspan="2"|—||6||0
+|-
+|[[2021–22 Hellas Verona F.C. season|2021–22]]
+|Serie A
+|3||0||2||0||colspan="2"|—||colspan="2"|—||5||0
+|-
+!colspan="2"|Total
+!7!!0!!4!!0!!colspan="2"|—!!colspan="2"|—!!11!!0
+|-
+|[[Fortuna Sittard]] (loan)
+|[[2022–23 Fortuna Sittard season|2022–23]]
+|[[Eredivisie]]
+|29||0||0||0||colspan="2"|—||colspan="2"|—||29||0
+|-
+|Fortuna Sittard
+|[[2023–24 Fortuna Sittard season|2023–24]]
+|Eredivisie
+|16||0||2||0||colspan="2"|—||colspan="2"|—||18||0
+|-
+|rowspan="3"|[[Hull City A.F.C.|Hull City]]
+|[[2024–25 Hull City A.F.C. season|2024–25]]
+|[[EFL Championship]]
+||44||0||0||0||0||0||colspan="2"|—||44||0
+|-
+|[[2025–26 Hull City A.F.C. season|2025–26]]
+|EFL Championship
+||44||0||0||0||0||0||3{{efn|Appearances in [[EFL Championship play-offs]]}}||0||47||0
+|-
+!colspan="2"|Total
+!89||0||0||0||0||0||3||0||92||0
+|-
+!colspan="3"|Career total
+!161!!0!!10!!0!!0!!0!!3!!0!!174!!0
+|}
+
+{{notelist}}
+
+==Honours==
+'''Rijeka'''
+* [[Croatian Football Cup]]: [[2019–20 Croatian Football Cup|2019–20]]<ref>{{cite web |title=Rijeka – Lokomotiva 1:0 – Hrvatski nogometni savez |url=https://hns-cff.hr/matches/34038889/rijeka-lokomotiva-1-0/ |website=Croatian Football Federation |accessdate=16 May 2023 |archiveurl=https://web.archive.org/web/20221002071204/https://hns-cff.hr/matches/34038889/rijeka-lokomotiva-1-0/ |archivedate=2 October 2022 |language=hr}}</ref>
+
+'''Hull City'''
+*[[EFL Championship play-offs]]: [[2026 EFL Championship play-offs|2026]]<ref>{{cite news |last=Woodcock |first=Ian |date=23 May 2026 |title=Hull City 1–0 Middlesbrough |url=https://www.bbc.co.uk/sport/football/live/cn9p8yrdy9qt#Line-ups |access-date=23 May 2026 |website=BBC Sport}}</ref>
+
+'''Individual'''
+* [[Eredivisie]] Team of the Month: [[2022-23 Eredivisie#Monthly awards|October 2022]], [[2023–24 Eredivisie#Monthly awards|August 2023]]<ref>{{cite web|title=Negen clubs leveren spelers voor Eredivisie elftal van de maand|url=https://eredivisie.nl/nieuws/negen-clubs-leveren-spelers-voor-eredivisie-elftal-van-de-maand-augustus/|website=Eredivisie|language=nl}}</ref>
+* [[Hull City A.F.C.|Hull City]] Player of the Year: [[2024–25 Hull City A.F.C. season|2024–25]]<ref name="POTY"/>
+* [[Hull City A.F.C.|Hull City]] Players' Player of the Year: [[2024–25 Hull City A.F.C. season|2024–25]]<ref name="POTY"/>
+* [[Hull City A.F.C.|Hull City]] Supporters' Player of the Year: [[2024–25 Hull City A.F.C. season|2024–25]]<ref name="POTY"/>
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://web.archive.org/web/20210422025425/http://www.nk-rijeka.hr/player/ivor-pandur/ Ivor Pandur] at the [[HNK Rijeka|Rijeka]] website (archived)
+* {{sports links}}
+
+{{Hull City A.F.C. squad}}
+{{Croatia squad 2026 FIFA World Cup}}
+{{Hull City A.F.C. Player of the Year}}
+
+{{DEFAULTSORT:Pandur, Ivor}}
+[[Category:2000 births]]
+[[Category:Living people]]
+[[Category:Footballers from Rijeka]]
+[[Category:Croatian men's footballers]]
+[[Category:Men's association football goalkeepers]]
+[[Category:HNK Rijeka players]]
+[[Category:Hellas Verona FC players]]
+[[Category:Fortuna Sittard players]]
+[[Category:Croatian Football League players]]
+[[Category:Serie A players]]
+[[Category:Eredivisie players]]
+[[Category:Hull City A.F.C. players]]
+[[Category:Croatia men's youth international footballers]]
+[[Category:Croatia men's under-21 international footballers]]
+[[Category:2026 FIFA World Cup players]]
+[[Category:Croatian expatriate men's footballers]]
+[[Category:Croatian expatriate sportspeople in Italy]]
+[[Category:Expatriate men's footballers in Italy]]
+[[Category:Croatian expatriate sportspeople in the Netherlands]]
+[[Category:Expatriate men's footballers in the Netherlands]]
+[[Category:Croatian expatriate sportspeople in England]]
+[[Category:Expatriate men's footballers in England]]
+[[Category:21st-century Croatian sportsmen]]

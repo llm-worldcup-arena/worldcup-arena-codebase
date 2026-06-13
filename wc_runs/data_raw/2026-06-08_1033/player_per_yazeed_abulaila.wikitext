@@ -1,0 +1,155 @@
+{{short description|Jordanian footballer (born 1993)}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+| name = Yazeed Abu Laila
+| image = Asian Nations Cup - Jordan and South Korea (53) (cropped).jpg
+| caption = Abu Laila with [[Jordan national football team|Jordan]] at the [[2023 AFC Asian Cup]]
+| full_name = Yazeed Moein Hasan Abu Laila<ref name="FIFA Arab 2021">{{cite web |url=https://fdp.fifa.org/assetspublic/ce14/pdf/SquadLists-English.pdf |title=Squad List: FIFA Arab Cup Qatar 2021: Jordan (JOR) |publisher=FIFA |page=5 |date=4 December 2021 |access-date=20 January 2024}}</ref>
+| birth_date = {{birth date and age|1993|1|8|df=y}}<ref name="FIFA Arab 2021"/>
+| birth_place = [[Amman]], Jordan
+| height = 1.88 m<ref name="FIFA Arab 2021"/>
+| currentclub = [[Al-Hussein SC (Irbid)|Al-Hussein]]
+| clubnumber = 1
+| position = [[Goalkeeper (association football)|Goalkeeper]]
+| youthyears1 = 
+| youthclubs1 = [[Shabab Al-Ordon]]
+| years1 = 2012–2017
+| clubs1 = [[Shabab Al-Ordon]]<ref>{{cite web|url=http://www.kooora.com/?n=499124&pg=1&o=n3071371|title=Shabab Al-Ordon renewed Abu Laila contract|date=9 July 2019 }}</ref>
+| years2 = 2017–2024
+| clubs2 = [[Al-Faisaly SC (Amman)|Al-Faisaly]]<ref>{{cite web|url=http://www.kooora.com/?n=656347&o=n3071371|title=Abu Laila signs up for Al-Faisaly|date=9 July 2019 }}</ref>
+| years3 = 2023–2024
+| clubs3 = → [[Al-Jabalain FC|Al-Jabalain]] (loan)
+| caps3 = 38
+| goals3 = 0
+| years4 = 2024–
+| clubs4 = [[Al-Hussein SC (Irbid)|Al-Hussein]]
+| caps4 = 34
+| goals4 = 0
+| nationalyears1 = 2016
+| nationalteam1 = [[Jordan national under-23 football team|Jordan U23]]
+| nationalcaps1 = 1
+| nationalgoals1 = 0
+| nationalyears2 = 2017–
+| nationalteam2 = [[Jordan national football team|Jordan]]
+| nationalcaps2 = 64
+| nationalgoals2 = 0
+| club-update = 2 February 2026
+| nationalteam-update = 31 March 2026
+| caps2 = 
+| goals2 = 
+| medaltemplates = {{MedalSport|Men's [[association football|football]]}}
+{{MedalCountry|{{fb|JOR}}}}
+{{MedalCompetition|[[AFC Asian Cup]]}}
+{{Medal|RU|[[2023 AFC Asian Cup|2023 Qatar]]|}}
+{{MedalCompetition|[[FIFA Arab Cup]]}}
+{{Medal|RU|[[2025 FIFA Arab Cup|2025 Qatar]]|[[2025 FIFA Arab Cup squads#Jordan|Team]]}}
+}}
+
+'''Yazeed Moein Hasan Abu Laila''' ({{langx|ar|يَزِيد مُعِين حَسَن أَبُو لَيْلَى}}; born 8 January 1993) is a Jordanian [[Association football|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for [[Jordanian Pro League]] side [[Al-Hussein SC (Irbid)|Al-Hussein]] and the [[Jordan national football team|Jordan national team]].
+
+==Club career==
+On 27 January 2023, Abu Laila joined [[Saudi First Division League]] club [[Al-Jabalain FC|Al-Jabalain]] on [[Loan (association football)|loan]].<ref>{{cite web |title=الفيصلي يوافق على إعارة حارس المرمى أبو ليلى لفريق الجبلين السعودي |url=https://alghad.com/%D8%A7%D9%84%D9%81%D9%8A%D8%B5%D9%84%D9%8A-%D9%8A%D9%88%D8%A7%D9%81%D9%82-%D8%B9%D9%84%D9%89-%D8%A5%D8%B9%D8%A7%D8%B1%D8%A9-%D8%AD%D8%A7%D8%B1%D8%B3-%D8%A7%D9%84%D9%85%D8%B1%D9%85%D9%89-%D8%A3%D8%A8/}}</ref> On 3 July, Abu Laila renewed his loan with Al-Jabalain on a season-long loan.<ref>{{cite web |title=أبو ليلى يجدد اعارته مع الجبلين .. ويشكر جماهير الفيصلي !! |url=https://www.al-mala3b.net/index.php?page=article&id=31570}}</ref>
+
+On 14 July 2024, Abu Laila signed for [[Al-Hussein SC (Irbid)|Al-Hussein SC]].
+
+==International career==
+Abu Laila made his debut for the [[Jordan national football team|Jordan national team]] on 1 June 2017 in a 1–0 defeat to [[Iraq national football team|Iraq]] in [[Friendly (association football)|friendly]] at [[Basra International Stadium]].<ref name="NFT"/>
+
+He was a part of the called up squad that reached the final of the 2023 edition of the [[AFC Asian Cup|Asian Cup]], playing every match.
+
+==International career statistics==
+{{updated|match played 31 March 2026}}<ref name="NFT">{{NFT player |id=68106 |name=Yazeed Abu Laila |access-date=20 January 2024}}</ref>
+
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+| rowspan="9" |[[Jordan national football team|Jordan]]
+|2017||5||0
+|-
+|2018||1||0
+|-
+|2019||3||0
+|-
+|2021||7||0
+|-
+|2022||7||0
+|-
+|2023||8||0
+|-
+|2024||17||0
+|-
+|2025||14||0
+|-
+|2026
+|2
+|0
+|-
+!colspan="2"|Total!!64!!0
+|}
+
+== Honours ==
+
+'''Shabab Al-Ordon SC '''
+* [[Jordanian Pro League]]: [[Jordanian Pro League|2012-13]]
+* [[Jordan Super Cup]]: 2013
+* [[Jordan Shield Cup]]: 2016
+
+'''Al-Faisaly SC '''
+* [[Jordanian Pro League]]: [[Jordanian Pro League|2016-17]], [[Jordanian Pro League|2018-19]], [[Jordanian Pro League|2022]]
+* [[Jordan FA Cup]]: [[Jordan FA Cup|2016-17]], [[Jordan FA Cup|2018-19]], [[Jordan FA Cup|2021]]
+* [[Jordan Shield Cup]]: [[Jordan Shield Cup|2022]], [[Jordan Shield Cup|2023]]
+* [[Jordan Super Cup]]: [[Jordan Super Cup|2017]], [[Jordan Super Cup|2020]]
+* [[Arab Club Champions Cup]] runner up: [[Arab Club Champions Cup|2017]]
+'''Al-Hussein SC'''
+*[[Jordanian Pro League]]: [[2023–24 Jordanian Pro League|2023–24]], [[2024–25 Jordanian Pro League|2024–25]]
+*[[Jordan Super Cup]]: [[2024 Jordan Super Cup|2024]]
+'''Jordan'''
+* [[AFC Asian Cup]] runner-up: [[2023 AFC Asian Cup|2023]]
+
+'''Individual'''
+*[[AFC Asian Cup awards#Team of the Tournament|AFC Asian Cup Team of the Tournament]]: [[2023 AFC Asian Cup|2023]]<ref>{{cite web |url=https://assets.the-afc.com/Corporate_Page/Technical/Technical_Reports/AFC-Asian-Cup-Qatar-2023%E2%84%A2-Technical-Report.pdf |title=AFC Asian Cup Qatar 2023 Technical Report |page=69 |publisher=AFC |date=2024-08-12 |access-date=2024-08-13}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Kooora|71371}}
+* [http://www.eurosport.com/football/yazid-abu-laila_prs327805/person.shtml Yazeed Abu Laila] at Eurosport.com
+* [https://www.11v11.com/players/yazid-abu-laila-251974/ Yazeed Abu Laila] at 11v11.com
+* {{NFT player|68106/Yazeed_Abu_Laila}}
+* {{Soccerway player|yazeed-moien-hasan-abulaila/329068}}
+
+{{Navboxes
+|title=Jordan squads
+|bg=white
+|fg=#CE1126
+|bordercolor=#CE1126
+|list1=
+{{Jordan squad 2023 AFC Asian Cup}}
+{{Jordan squad 2026 FIFA World Cup}}
+}}
+{{2023 AFC Asian Cup Team of the Tournament}}
+
+{{DEFAULTSORT:Abu Laila, Yazeed}}
+[[Category:1993 births]]
+[[Category:Living people]]
+[[Category:Jordanian men's footballers]]
+[[Category:Footballers from Amman]]
+[[Category:Men's association football goalkeepers]]
+[[Category:Shabab Al-Ordon SC players]]
+[[Category:Al-Faisaly SC players]]
+[[Category:Al-Jabalain Club players]]
+[[Category:Jordanian Pro League players]]
+[[Category:Saudi First Division League players]]
+[[Category:Jordan men's international footballers]]
+[[Category:2023 AFC Asian Cup players]]
+[[Category:Jordanian expatriate men's footballers]]
+[[Category:Expatriate men's footballers in Saudi Arabia]]
+[[Category:Jordanian expatriate sportspeople in Saudi Arabia]]
+[[Category:21st-century Jordanian sportsmen]]
+[[Category:2026 FIFA World Cup players]]
+
+
+{{Jordan-footy-bio-stub}}

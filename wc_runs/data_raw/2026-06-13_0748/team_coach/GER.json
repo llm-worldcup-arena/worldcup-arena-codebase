@@ -1,0 +1,14 @@
+{
+ "team": "GER",
+ "coach": {
+  "name_zh": "尤利安·纳格尔斯曼",
+  "name_en": "Julian Nagelsmann",
+  "nationality": "West Germany",
+  "career_since": "2016",
+  "person_id": "per_julian_nagelsmann"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。"
+}

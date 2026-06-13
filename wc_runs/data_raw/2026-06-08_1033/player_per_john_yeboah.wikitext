@@ -1,0 +1,297 @@
+{{short description|Ecuadorian footballer (born 2000)}}
+<noinclude>{{Requested move notice|1=John Yeboah Zamora|2=Talk:John Yeboah#Requested move 6 June 2026}}
+</noinclude>{{Use British English|date=March 2024}}
+{{Use dmy dates|date=June 2024}}
+{{family name hatnote|Yeboah|Zamora|lang=Spanish}}
+{{Infobox football biography
+|name           = John Yeboah
+|image          = John Yeboah 2020.png
+|caption        = Yeboah in 2020
+|fullname       = John Yeboah Zamora
+|birth_date     = {{Birth date and age|df=y|2000|6|23}}
+|birth_place    = [[Hamburg]], Germany
+|height         = 1.70m
+|position       = [[Winger (football)|Winger]]
+|currentclub    = [[Venezia FC|Venezia]]
+|clubnumber     = 10
+|youthyears1    =
+|youthclubs1    = SV Rönneburg
+|youthyears2    = {{0|0000}}–2015
+|youthclubs2    = FC Türkiye Wilhelmsburg
+|youthyears3    = 2015–2019
+|youthclubs3    = [[VfL Wolfsburg]]
+|years1         = 2018–2020
+|clubs1         = [[VfL Wolfsburg]]
+|caps1          = 2
+|goals1         = 0
+|years2         = 2019–2020
+|clubs2         = [[VfL Wolfsburg II]]
+|caps2          = 5
+|goals2         = 4
+|years3         = 2019–2020
+|clubs3         = → [[VVV-Venlo]] (loan)
+|caps3          = 18
+|goals3         = 1
+|years4         = 2020–2022
+|clubs4         = [[Willem II (football club)|Willem II]]
+|caps4          = 17
+|goals4         = 1
+|years5         = 2021
+|clubs5         = → [[Almere City FC|Almere City]] (loan)
+|caps5          = 17
+|goals5         = 4
+|years6         = 2022
+|clubs6         = → [[MSV Duisburg]] (loan)
+|caps6          = 17
+|goals6         = 0
+|years7         = 2022–2023
+|clubs7         = [[Śląsk Wrocław]]
+|caps7          = 32
+|goals7         = 10
+|years8         = 2023–2024
+|clubs8         = [[Raków Częstochowa]]
+|caps8          = 30
+|goals8         = 3
+|years9         = 2024–
+|clubs9         = [[Venezia FC|Venezia]]
+|caps9          = 67
+|goals9         = 11
+|nationalyears1 = 2016
+|nationalteam1  = [[Germany national under-16 football team|Germany U16]]
+|nationalcaps1  = 1
+|nationalgoals1 = 0
+|nationalyears2 = 2016–2017
+|nationalteam2  = [[Germany national under-17 football team|Germany U17]]
+|nationalcaps2  = 15
+|nationalgoals2 = 3
+|nationalyears3 = 2018
+|nationalteam3  = [[Germany national under-18 football team|Germany U18]]
+|nationalcaps3  = 3
+|nationalgoals3 = 2
+|nationalyears4 = 2018–2019
+|nationalteam4  = [[Germany national under-19 football team|Germany U19]]
+|nationalcaps4  = 7
+|nationalgoals4 = 2
+|nationalyears5 = 2019
+|nationalteam5  = [[Germany national under-20 football team|Germany U20]]
+|nationalcaps5  = 4
+|nationalgoals5 = 2
+|nationalyears6 = 2024–
+|nationalteam6  = [[Ecuador national football team|Ecuador]]
+|nationalcaps6  = 22
+|nationalgoals6 = 3
+|pcupdate       = 12 May 2026
+|ntupdate       = 30 May 2026
+}}
+
+'''John Yeboah Zamora''' (born 23 June 2000) is a professional [[footballer]] who plays as a [[Winger (football)|winger]] for {{Italian football updater|Venezia}} club [[Venezia FC|Venezia]].<ref>{{Worldfootball.net|john-yeboah|new_id=pe450505}}</ref> Born in Germany, he plays for the [[Ecuador national football team|Ecuador national team]].
+
+==Club career==
+Yeboah began his youth career with [[Hamburg]] clubs SV Rönneburg and FC Türkiye Wilhelmsburg, before moving to youth team of [[VfL Wolfsburg]] in 2015. In February 2018, Yeboah signed his first professional contract with Wolfsburg, lasting three years until 30 June 2021.<ref>{{cite news |url=https://www.vfl-wolfsburg.de/en/news-detail/news-detail/detail/news/long-term-deal/ |title=Long-term deal |website=vfl-wolfsburg.de |publisher=[[VfL Wolfsburg]] |date=23 February 2018 |access-date=3 November 2018 |url-status=live |archive-url=https://web.archive.org/web/20181103171800/https://www.vfl-wolfsburg.de/en/news-detail/news-detail/detail/news/long-term-deal/ |archive-date=3 November 2018}}</ref>
+
+Yeboah made his professional debut for VfL Wolfsburg in the [[Bundesliga]] on 3 November 2018, coming on as a substitute in the 81st minute for [[Josip Brekalo]] in the 0–1 home loss against [[Borussia Dortmund]].<ref>{{cite news |url=https://www.kicker.de/wolfsburg-gegen-dortmund-2018-bundesliga-4243354/analyse |title=Per Kopf: Reus besorgt den Treffer des Tages |trans-title=By head: Reus gets the strike of the day |website=[[Kicker (magazine)|Kicker]] |publisher=[[Kicker (sports magazine)|kicker-sportmagazin]] |date=3 November 2018 |access-date=3 November 2018 |language=German}}</ref>
+
+In September 2019, Yeboah joined [[VVV-Venlo]] on a season-long loan deal.<ref>{{cite web|url=https://www.vfl-wolfsburg.de/newsdetails/news-detail/detail/news/in-die-eredivisie/|title=In der Eredivisie|language=German|publisher=VfL Wolfsburg|date=2 September 2019|accessdate=2 September 2019}}</ref>
+
+He was loaned to [[MSV Duisburg]] in January 2022 from his parent club, [[Willem II (football club)|Willem II]].<ref>{{cite web |url=https://www.msv-duisburg.de/aktuelles/artikel/jung-dynamisch-und-dribbelstark-msv-leiht-john-yeboah-von-willem-ii-aus/|title="Jung, dynamisch und dribbelstark": MSV leiht John Yeboah von Willem II aus|website=msv-duisburg.de|date=12 January 2022|access-date=12 January 2022}}</ref>
+
+On 25 June 2022, he joined Polish club [[Śląsk Wrocław]] on a three-year deal.<ref>{{cite web |title=John Yeboah piłkarzem Śląska |url=http://slaskwroclaw.pl/strona/aktualnosci/john-yeboah-pilkarzem-slaska-12850188 |publisher=[[Śląsk Wrocław]] |language=pl |date=25 June 2022}}</ref> On 15 July 2022, he made his [[Ekstraklasa]] debut, coming on as a substitute in the 0–0 Lower Silesia derby draw against [[Zagłębie Lubin]].<ref>{{cite web |title=Inauguracja na remis |url=http://slaskwroclaw.pl/strona/aktualnosci/inauguracja-na-remis-12850269 |publisher=[[Śląsk Wrocław]] |language=pl |date=15 July 2022}}</ref>
+
+On 6 July 2023, Yeboah moved to defending Polish champions [[Raków Częstochowa]] on a three-year contract, for a fee reported to be €1.5 million.<ref>{{cite web |title=Oficjalnie: hit transferowy Rakowa! On zastąpi Iviego Lopeza |url=https://sportowefakty.wp.pl/pilka-nozna/1069541/oficjalnie-hit-transferowy-rakowa-on-zastapi-iviego-lopeza |website=sportowefakty.wp.pl |language=pl |date=6 July 2023}}</ref> After the [[2024 Copa América]] concluded, Yeboah refused to resume training in Poland, and was subsequently fined and moved to the reserve team.<ref>{{cite web |last1=Bernard |first1=Aleksander |title=Gwiazda Ekstraklasy przekroczyła kolejną granicę. "Przekreśla wszystkie lata" |url=https://www.sport.pl/pilka/7,65039,31201242,gwiazda-ekstraklasy-przekroczyla-kolejna-granice-przekresla.html |website=sport.pl |access-date=31 August 2024 |language=pl |date=5 August 2024}}</ref>
+
+On 30 August 2024, Italian club [[Venezia FC|Venezia]] announced the signing of Yeboah on a four-year deal,<ref>{{cite web |last1=Wieczorek |first1=Bartosz |title=John Yeboah odszedł z Rakowa Częstochowa. Zagra w klubie Serie A |url=https://sport.tvp.pl/81842344/john-yeboah-odszedl-z-rakowa-czestochowa-zagra-w-klubie-serie-a |website=sport.tvp.pl |access-date=31 August 2024 |language=pl |date=30 August 2024}}</ref> for a transfer fee of over €2.5 million.<ref>{{cite web |last1=Czaplewski |first1=Jacek |title=Raków Częstochowa sprzedał Johna Yeboaha do Venezii za więcej niż podano. Mocne słowa Marka Papszuna o piłkarzu |url=https://gol24.pl/rakow-czestochowa-sprzedal-johna-yeboaha-do-venezii-za-wiecej-niz-podano-mocne-slowa-marka-papszuna-o-pilkarzu/ar/c2-18775805 |website=gol24.pl |access-date=31 August 2024 |language=pl |date=30 August 2024}}</ref>
+
+==International career==
+Born in Germany, Yeboah is eligible to play for his country of birth, as well for Ghana and Ecuador through his parents.<ref name=ECU>{{cite web |title=John Yeboah powołany do reprezentacji Ekwadoru |url=https://rakow.com/aktualnosci/john-yeboah-powolany-do-reprezentacji-ekwadoru-12752 |publisher=[[Raków Częstochowa]] |access-date=7 October 2023 |language=pl |date=7 October 2023}}</ref>
+
+Yeboah began his youth international career with the [[Germany national under-16 football team|Germany under-16 team]], making his debut on 16 May 2016 in a friendly against [[France national under-16 football team|France]], which finished as a 1–1 away draw.<ref>{{cite web |url=https://www.dfb.de/datencenter/laenderspiel-2512/2015-2016/saison/2229438 |title=Frankreich U16 – Deutschland U16, 1:1, Länderspiel 2015/16 Saison |trans-title=France U16 v Germany U16, 1–1, friendly 2015–16 season |website=DFB.de |publisher=[[German Football Association]] |date=16 May 2016 |access-date=3 November 2018 |language=German}}</ref> In 2017, he was included in [[2017 UEFA European Under-17 Championship squads#Germany|Germany's squad]] for the [[2017 UEFA European Under-17 Championship]] in Croatia.<ref>{{cite news |url=https://www.dfb.de/news/detail/u-17-euro-wueck-nominiert-18-spieler-165896/full/1/ |title=U 17-EURO: Wück nominiert 18 Spieler |trans-title=Under-17 Euro: Wück nominates 18 players |website=DFB.de |publisher=[[German Football Association]] |date=19 April 2017 |access-date=20 August 2018 |language=German}}</ref> He scored against [[Serbia national under-17 football team|Serbia]] in the group stage, with Germany managing to reach the semi-finals before losing on penalties to [[Spain national under-17 football team|Spain]].<ref>{{cite web |url=http://www.uefa.com/under17/season=2017/statistics/round=2000710/players/kind=goals/index.html#order=3desc |archive-url=https://web.archive.org/web/20170514034502/http://www.uefa.com/under17/season=2017/statistics/round=2000710/players/kind=goals/index.html#order=3desc |url-status=dead |archive-date=14 May 2017 |title=Statistics – Tournament phase – Player statistics – Goals |publisher=UEFA |date=19 May 2017 |access-date=20 August 2018}}</ref> Later that year, Yeboah was included in [[2017 FIFA U-17 World Cup squads#Germany|Germany's squad]] for the [[2017 FIFA U-17 World Cup]] in India. He scored against [[Colombia national under-17 football team|Colombia]] in the round of 16, with Germany later being eliminated in the quarter-finals.<ref>{{cite news |url=https://www.dfb.de/news/detail/wm-in-indien-wueck-nominiert-21-spieler-174365/ |title=WM in Indien: Wück nominiert 21 Spieler |trans-title=World Cup in India: Wück nominates 21 players |website=DFB.de |publisher=[[German Football Association]] |date=20 September 2017 |access-date=20 August 2018 |language=German}}</ref>
+
+On 7 October 2023, he received his first call-up to the [[Ecuador national football team|Ecuador national team]] for the [[2026 FIFA World Cup qualification (CONMEBOL)|2026 FIFA World Cup qualifying]] matches against [[Bolivia national football team|Bolivia]] and [[Colombia national football team|Colombia]], scheduled for 12 and 16 October.<ref name=ECU/>
+
+He featured for Ecuador during the [[2024 Copa América]] tournament played in the United States. On 4 July 2024, in a quarter-final against [[Argentina national football team|Argentina]], he provided an assist to [[Kevin Rodríguez (footballer, born 2000)|Kevin Rodríguez]] in stoppage time to tie the game at 1–1. Yeboah was one of the two Ecuadorian players to convert a penalty during an eventual shoot-out, lost by Ecuador 2–4.<ref>{{cite web |title=Quarter finals Argentina 1–1 Ecuador 07/04/2024 |url=https://copaamerica.com/en/matches/match-25-argentina-ecuador |website=copaamerica.com |access-date=5 July 2024 |language=en |date=5 July 2024}}</ref>
+
+==Personal life ==
+Yeboah was born in [[Hamburg]], [[Germany]] to a [[Ghana]]ian father and [[Ecuador]]ian mother.<ref>{{cite news |last1=Hotop |first1=Daniel |last2=Rücker |first2=Lars |url=https://www.wolfsburger-nachrichten.de/sport/vfl-wolfsburg/article215636313/Tanzt-Yeboah-bald-in-der-Bundesliga.html |title=Tanzt Yeboah bald in der Bundesliga? |trans-title=Will Yeboah be dancing in the Bundesliga soon? |work=[[Braunschweiger Zeitung]]|date=23 October 2018 |access-date=3 November 2018 |language=German |url-access=limited |url-status=live |archive-url=https://web.archive.org/web/20181103172721/https://www.wolfsburger-nachrichten.de/sport/vfl-wolfsburg/article215636313/Tanzt-Yeboah-bald-in-der-Bundesliga.html |archive-date=3 November 2018}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 9 May 2026|<ref>{{Soccerway}}</ref>}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!rowspan="2"|Division
+!colspan="2"|League
+!colspan="2"|Cup
+!colspan="2"|Europe
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|[[VfL Wolfsburg]]
+|[[2018–19 VfL Wolfsburg season|2018–19]]
+|[[Bundesliga]]
+|2||0||1||0||colspan="2"|—||colspan="2"|—||3||0
+|-
+|[[VfL Wolfsburg II]]
+|[[2018–19 Regionalliga|2018–19]]
+|[[Regionalliga Nord]]
+|5||4||colspan="2"|—||colspan="2"|—||colspan="2"|—||5||4
+|-
+|[[VVV-Venlo]] (loan)
+|[[2019–20 VVV-Venlo season|2019–20]]
+|[[Eredivisie]]
+|18||1||colspan="2"|—||colspan="2"|—||colspan="2"|—||18||1
+|-
+|rowspan=3|[[Willem II (football club)|Willem II]]
+|[[2020–21 Willem II season|2020–21]]
+|Eredivisie
+|9||1||1||0||colspan="2"|—||1{{efn|Appearance in Europa League qualification}}||0||11||1
+|-
+|[[2021–22 Willem II season|2021–22]]
+|Eredivisie
+|8||0||1||0||colspan="2"|—||colspan="2"|—||9||0
+|-
+!colspan="2"|Total
+!17!!1!!2!!0!!colspan="2"|—!!1!!0!!20!!1
+|-
+|[[Almere City FC|Almere City]] (loan)
+|[[2020–21 Eerste Divisie|2020–21]]
+|[[Eerste Divisie]]
+|17||4||colspan="2"|—||colspan="2"|—||1{{efn|Appearance in relegation playoff}}||0||18||4
+|-
+|[[MSV Duisburg]] (loan)
+|[[2021–22 MSV Duisburg season|2021–22]]
+|[[3. Liga]]
+|17||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||17||0
+|-
+|[[Śląsk Wrocław]]
+|[[2022–23 Ekstraklasa|2022–23]]
+|[[Ekstraklasa]]
+|32||10||4||3||colspan="2"|—||colspan="2"|—||36||13
+|-
+|[[Raków Częstochowa]]
+|[[2023–24 Raków Częstochowa season|2023–24]]
+|Ekstraklasa
+|30||3||2||0||11{{efn|Six appearances and one goal in [[UEFA Champions League]], five appearances in [[UEFA Europa League]]}}||1||1{{efn|Appearance in [[Polish Super Cup]]}}||0||44||4
+|-
+|rowspan="3"|[[Venezia FC|Venezia]]
+|[[2024–25 Venezia FC season|2024–25]]
+|[[Serie A]]
+|33||1||0||0||colspan="2"|—||colspan="2"|—||33||1
+|-
+|[[2025–26 Serie B|2025–26]]
+|[[Serie B]]
+|34||10||2||2||colspan="2"|—||colspan="2"|—||36||12
+|-
+!colspan="2"|Total
+!67!!11!!2!!2!!colspan="2"|—!!colspan="2"|—!!69!!13
+|-
+!colspan="3"|Career total
+!205!!34!!11!!5!!11!!1!!3!!0!!228!!40
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 30 May 2026}}
+
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="3"|[[Ecuador national football team|Ecuador]]
+|2024||11||2
+|-
+|2025||8||0
+|-
+|2026||2||1
+|-
+!colspan="2"|Total!!22!!2
+|}
+
+:''Ecuador score listed first, score column indicates score after each Yeboah goal.''
+{| class="wikitable sortable"
+|+ List of international goals scored by John Yeboah
+|-
+! No. !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| align=center | 1 || 21 March 2024 || [[Red Bull Arena (New Jersey)|Red Bull Arena]], New Jersey, United States || {{fb|GUA}} || align=center | 1–0 || align=center | 2–0 || [[Exhibition game|Friendly]]
+|-
+| align=center | 2 || 12 June 2024 || [[Subaru Park]], Chester, United States || {{fb|BOL}} || align=center | 2–0 || align=center | 3–1 || Friendly
+|-
+| align=center | 3 || 27 March 2026 || [[Metropolitano Stadium]], Madrid, Spain || {{fb|MAR}} || align=center | 1–0 || align=center | 1–1 || Friendly
+|}
+
+==Honours==
+'''Individual'''
+* [[Ekstraklasa]] Player of the Month: [[2022–23 Ekstraklasa#Player of the Month|February 2023]]<ref>{{cite web |url=https://www.ekstraklasa.org/aktualnosci/6946 |title=PIŁKARZ LUTEGO 2023: JOHN YEBOAH (ŚLĄSK WROCŁAW) |publisher=Ekstraklasa |date=8 March 2023 |language=pl |access-date=20 March 2023 |archive-date=30 January 2023 |archive-url=https://web.archive.org/web/20230130232417/https://www.ekstraklasa.org/aktualnosci/6946/ |url-status=dead }}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Sports links}}
+*{{DFB}}
+*{{Kicker}}
+
+{{Venezia FC squad}}
+{{Navboxes
+| bg = #FFDD00
+| fg = #034EA2
+| bordercolor = #ED1C24
+| title = Ecuador squads
+| list1 =
+{{Ecuador squad 2024 Copa América}}
+{{Ecuador squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Yeboah, John}}
+[[Category:2000 births]]
+[[Category:Living people]]
+[[Category:Footballers from Hamburg]]
+[[Category:Ecuadorian men's footballers]]
+[[Category:21st-century Ecuadorian sportsmen]]
+[[Category:Ecuador men's international footballers]]
+[[Category:German men's footballers]]
+[[Category:Germany men's youth international footballers]]
+[[Category:Ecuadorian people of Ghanaian descent]]
+[[Category:Ghanaian people of Ecuadorian descent]]
+[[Category:Sportspeople of Ghanaian descent]]<!--as Ecuadorian-->
+[[Category:German people of Ecuadorian descent]]
+[[Category:Sportspeople of Ecuadorian descent]]<!--as German-->
+[[Category:German people of Ghanaian descent]]
+[[Category:Men's association football wingers]]
+[[Category:VfL Wolfsburg players]]
+[[Category:VfL Wolfsburg II players]]
+[[Category:VVV-Venlo players]]
+[[Category:Willem II Tilburg players]]
+[[Category:Almere City FC players]]
+[[Category:MSV Duisburg players]]
+[[Category:Śląsk Wrocław players]]
+[[Category:Raków Częstochowa players]]
+[[Category:Venezia FC players]]
+[[Category:Bundesliga players]]
+[[Category:3. Liga players]]
+[[Category:Regionalliga players]]
+[[Category:Eredivisie players]]
+[[Category:Eerste Divisie players]]
+[[Category:Ekstraklasa players]]
+[[Category:Serie A players]]
+[[Category:2024 Copa América players]]
+[[Category:Ecuadorian expatriate men's footballers]]
+[[Category:German expatriate men's footballers]]
+[[Category:German expatriate sportspeople in the Netherlands]]
+[[Category:Expatriate men's footballers in the Netherlands]]
+[[Category:German expatriate sportspeople in Poland]]
+[[Category:Expatriate men's footballers in Germany]]
+[[Category:Ecuadorian expatriate sportspeople in Germany]]
+[[Category:Expatriate men's footballers in Poland]]
+[[Category:Ecuadorian expatriates in Poland]]
+[[Category:Expatriate men's footballers in Italy]]
+[[Category:Ecuadorian expatriate sportspeople in Italy]]
+[[Category:21st-century German sportsmen]]
+[[Category:2026 FIFA World Cup players]]

@@ -1,0 +1,127 @@
+{{Short description|Qatari footballer (born 1999)}}
+{{Use dmy dates|date=November 2022}}
+{{Infobox football biography
+| name = Homam Ahmed
+| image = Asian Nations Cup Iran - Qatar (8) (cropped).jpg
+| caption = Ahmed with [[Qatar national football team|Qatar]] at the [[2023 AFC Asian Cup]]
+| fullname = Homam El-Amin Mohamed Ahmed 
+| birth_date = {{birth date and age|1999|08|25|df=y}}
+| birth_place = [[Doha]], Qatar
+| height = 1.88 m<ref name="FIFA 2022">{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=FIFA World Cup Qatar 2022™: List of Players: Qatar |publisher=FIFA |page=23 |date=15 November 2022 |access-date=22 November 2022 |archive-url=https://web.archive.org/web/20221218195301/https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |archive-date=18 December 2022 |url-status=live}}</ref>
+| currentclub = [[Cultural y Deportiva Leonesa|Cultural Leonesa]]<br/>(on loan from [[Al-Duhail SC|Al-Duhail]])
+| clubnumber =  12
+| position = [[Defender (association football)#Full-back|Left Back]]
+| youthyears1 = {{0|0000}}–2017
+| youthclubs1 = [[Aspire Academy]]
+| years1 = 2017–2018
+| clubs1 = [[K.A.S. Eupen|Eupen]]
+| caps1 = 0
+| goals1 = 0
+| years2 = 2019–2024
+| clubs2 = [[Al-Gharafa SC|Al-Gharafa]]
+| caps2 = 79
+| goals2 = 7
+| years3 = 2024–
+| clubs3 = [[Al-Duhail SC|Al-Duhail]]
+| caps3 = 30
+| goals3 = 5
+| years4 = 2026–
+| clubs4 = → [[Cultural y Deportiva Leonesa|Cultural Leonesa]] (loan)
+| caps4 = 14
+| goals4 = 0
+| nationalyears1 = 2018–2019
+| nationalteam1 = [[Qatar national under-20 football team|Qatar U20]]
+| nationalcaps1 = 5
+| nationalgoals1 = 1
+| nationalyears2 = 2020–2021
+| nationalteam2 = [[Qatar national under-23 football team|Qatar U23]]
+| nationalcaps2 = 7
+| nationalgoals2 = 0
+| nationalyears3 = 2019–
+| nationalteam3 = [[Qatar national football team|Qatar]]
+| nationalcaps3 = 54
+| nationalgoals3 = 3
+| club-update = 9 January 2026
+| nationalteam-update = 27 March 2024 (UTC)
+| medaltemplates = {{MedalCountry|{{fb|QAT}}}}
+{{MedalSport|Men's [[association football|football]]}}
+{{MedalComp|[[FIFA Arab Cup]]}}
+{{Medal|3rd|[[2021 FIFA Arab Cup|2021]]|}}
+{{MedalComp|[[AFC Asian Cup]]}}
+{{Medal|1st|[[2023 AFC Asian Cup|2023]]|}}
+}}
+
+'''Homam El-Amin Mohamed Ahmed''' ({{langx|ar|همام الأمين محمد أحمد}}; born 25 August 1999) is a [[Qatar]]i professional [[association football|footballer]] who plays as a [[Defender (association football)#Full-back|left back]] for [[Cultural y Deportiva Leonesa|Cultural Leonesa]], on loan from [[Al-Duhail SC|Al-Duhail]] and the [[Qatar national football team|Qatar national team]].<ref>{{Soccerway|homam-ahmed-ahmed/465705|accessdate=1 June 2019}}</ref>
+
+==Career statistics==
+===International goals===
+:''Scores and results list Qatar's goal tally first.''<ref>{{cite web | url=https://www.national-football-teams.com/player/76320/Homam_Ahmed.html| title=Homam Ahmed Homam Elamin M. Ahmed (Player)| date= | accessdate=18 October 2022}}</ref>
+
+{| class="wikitable" style="font-size:100%;"
+! No. !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| 1. || 21 July 2021 || [[PNC Stadium]], [[Houston]], United States || {{fb|HON|1949}} || align=center | '''1'''–0 || align=center | 2–0 || [[2021 CONCACAF Gold Cup]]
+|-
+| 2. || 7 September 2021 || [[Stade de Luxembourg]], [[Gasperich]], Luxembourg || {{fb|LUX}} || align=center | '''1'''–1 || align=center | 1–1 || [[Exhibition game|Friendly]]
+|-
+| 3. || 15 June 2023 || Sonnenseestadion, [[Ritzing]], Austria || {{fb|JAM}} || align=center | '''1'''–0 || align=center | 2–1 || Friendly
+|}
+
+==Honours==
+'''Al-Gharafa'''
+*[[Qatari Stars Cup]]: [[2017–18 Qatari Stars Cup|2017–18]], [[2018–19 Qatari Stars Cup|2018–19]]
+
+'''Qatar'''
+* [[AFC Asian Cup]]: [[2023 AFC Asian Cup|2023]]
+
+==References==
+{{reflist}}
+
+==External links==
+* {{soccerway|homam-el-amin/465705}}
+* {{NFT player|pid=76320}}
+
+{{Cultural Leonesa squad}}
+{{Navboxes
+|title=Qatar squads
+|bg=#660033
+|fg=white
+|bordercolor=white
+|list1=
+{{Qatar squad 2021 CONCACAF Gold Cup}}
+{{Qatar squad 2022 FIFA World Cup}}
+{{Qatar squad 2023 CONCACAF Gold Cup}}
+{{Qatar squad 2023 AFC Asian Cup}}
+{{Qatar squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Ahmed, Homam}}
+[[Category:1999 births]]
+[[Category:Living people]]
+[[Category:Footballers from Doha]]
+[[Category:Qatari men's footballers]]
+[[Category:Qatar men's international footballers]]
+[[Category:Qatar men's under-20 international footballers]]
+[[Category:Qatar men's youth international footballers]]
+[[Category:Men's association football full-backs]]
+[[Category:Al-Gharafa SC players]]
+[[Category:KAS Eupen players]]
+[[Category:Al Duhail SC players]]
+[[Category:Cultural y Deportiva Leonesa players]]
+[[Category:Belgian Pro League players]]
+[[Category:Qatar Stars League players]]
+[[Category:Segunda División players]]
+[[Category:2021 CONCACAF Gold Cup players]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:2023 CONCACAF Gold Cup players]]
+[[Category:2023 AFC Asian Cup players]]
+[[Category:Qatari expatriate men's footballers]]
+[[Category:Qatari expatriate sportspeople in Belgium]]
+[[Category:Qatari expatriate sportspeople in Spain]]
+[[Category:Expatriate men's footballers in Belgium]]
+[[Category:Expatriate men's footballers in Spain]]
+[[Category:21st-century Qatari sportsmen]]
+[[Category:2026 FIFA World Cup players]]
+
+
+{{Qatar-footy-defender-stub}}

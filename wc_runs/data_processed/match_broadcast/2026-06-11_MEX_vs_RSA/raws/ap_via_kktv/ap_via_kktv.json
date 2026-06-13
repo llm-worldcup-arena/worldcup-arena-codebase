@@ -1,0 +1,22 @@
+{
+ "source": "美联社 AP（通讯社·权威，经 KKTV 转载）",
+ "url": "https://www.kktv.com/2026/06/11/mxico-derrota-2-0-sudfrica-tres-jugadores-expulsados-durante-el-partido-inaugural/",
+ "title": "México derrota 2-0 a Sudáfrica; tres jugadores expulsados durante el partido inaugural",
+ "published": "2026-06-11T21:12:01.027Z",
+ "tier": "1",
+ "lang": "es",
+ "match": {
+  "date": "2026-06-11",
+  "home": "MEX",
+  "away": "RSA",
+  "home_en": "Mexico",
+  "away_en": "South Africa",
+  "comp": "小组赛·A组",
+  "match_id": "M1",
+  "slug": "2026-06-11_MEX_vs_RSA"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "CIUDAD DE MÉXICO (AP) — La fiesta de México fue redonda. Julián Quiñones y Raúl Jiménez pusieron los goles. Y los primeros tres puntos del Mundial 2026 se quedaron en casa.\n\nQuiñones precisó de apenas nueve minutos para abrir el marcador con el que el anfitrión México se impuso el jueves 2-0 a una Sudáfrica que se vio abrumada por completo en su presentación, acabando con nueve hombres. Jiménez hizo el segundo tanto a los 66 minutos.\n\nEric Lira le robó un balón al zaguero Sphephelo Sithole en los linderos del área sudafricana y habilitó a Quiñones, el artillero que nació en Colombia y que juega con el club saudí Al Qadsiah FC, para firmar el primer tanto del Mundial 2026.\n\nJiménez duplicó la ventaja con un potente cabezazo a quemarropa tras el centro por la derecha de Roberto Alvarado para dar rienda suelta al frenesí entre los 80,824 aficionados en el estadio Azteca de la Ciudad de México.\n\nJiménez llegó a 46 goles con la camiseta del Tri, la tercera mayor cantidad en la historia de la selección. Pero tuvo que esperar a su tercer Mundial para gritar el primero.\n\nEn el cuarto Mundial de su historia y primero desde que fue anfitrión de la cita de 2010, Sudáfrica finalizó el encuentro con nueve hombres. Sithole rubricó una actuación para el olvido al salir expulsado a los 49 por derribar a Brian Gutiérrez al borde del área, frenando el avance del jugador mexicano. Themba Zwane también vio la roja directa a los 84.\n\nMéxico también sufrió una expulsión: el central César Montes se fue a los vestuarios en el segundo minuto del agregado por una falta imprudente.\n\nEl mediocampista Gilberto Mora, con tan sólo 17 años , ingresó de cambio a los 65 minutos, convirtiéndose en el mexicano de menor edad en pisar la cancha en un Mundial y el sexto más joven en la historia del torneo.\n\nCon dos hombres de más, dos goles de diferencia y sin peligro real a lo largo de todo el encuentro, la afición mexicana inició su serenata a falta de 10 minutos para finalizar el encuentro, cuando desde la tribuna descendió el clásico canto del “Cielito Lindo”.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

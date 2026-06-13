@@ -1,0 +1,89 @@
+{{Short description|Men's association football team}}
+{{About|the men's team|the women's team|Belgium women's national football team}}
+{{featured article}}
+{{Use British English|date=November 2025}}
+{{Use dmy dates|date=November 2025}}
+{{Infobox national football team
+| Name                  = Belgium
+| Badge                 = Royal Belgian FA logo 2019.svg
+| Badge_size            = 135px
+| Nickname              =
+{{Plainlist|
+* ''De Rode Duivels''
+* ''Les Diables rouges''
+* ''Die Roten Teufel''
+* (The Red Devils)
+}}
+| Association           = [[Royal Belgian Football Association]] (RBFA)
+| Confederation         = [[UEFA]] (Europe)
+| website               = [https://www.rbfa.be/ rbfa.be]
+| Coach                 = [[Rudi Garcia]]
+| Captain               = [[Youri Tielemans]]<ref>{{Cite news |date=2025-09-03 |title=Tielemans named as new Belgium captain |url=https://www.reuters.com/sports/soccer/tielemans-named-new-belgium-captain-2025-09-03/ |access-date=2025-09-03 |work=[[Reuters]] |language=en}}</ref>
+| Most caps             = [[Jan Vertonghen]] (157){{efn|name=fifa_unrec}}
+| Top scorer            = [[Romelu Lukaku]] ([[List of international goals scored by Romelu Lukaku|90]]){{efn|name=fifa_unrec}}
+| Home Stadium          = [[King Baudouin Stadium]]
+| FIFA Trigramme        = BEL
+| FIFA Rank             = {{FIFA World Rankings|BEL}}
+| FIFA max              = 1
+| FIFA max date         = November 2015 – March 2016, September 2018 – March 2022<ref name="FIFA World Rankings" />
+| FIFA min              = 71
+| FIFA min date         = June 2007<ref name="FIFA World Rankings" />
+| Elo Rank              = {{World Football Elo Ratings|Belgium}}
+| pattern_la1           = _bel26h
+| pattern_b1            = _bel26hA
+| pattern_ra1           = _bel26h
+| pattern_sh1           = _bel26h
+| pattern_so1           = _bel26hl
+| leftarm1              = ee3137
+| body1                 = ee3137
+| rightarm1             = ee3137
+| shorts1               = 000000
+| socks1                = 000000
+| pattern_la2           = _bel26a
+| pattern_b2            = _bel26a
+| pattern_ra2           = _bel26a
+| pattern_sh2           = _bel26a
+| pattern_so2           = _adidasblackl
+| leftarm2              = 8bddf5
+| body2                 = 8bddf5
+| rightarm2             = 8bddf5
+| shorts2               = FFFFFF
+| socks2                = FFFFFF
+| Elo max               = 1
+| Elo max date          = 16 November 2019 – 10 October 2020
+| Elo min               = 70
+| Elo min date          = 14 October 2009, 7 September 2010
+| First game            = {{fb|BEL}} [[Évence Coppée Trophy|3–3]] {{fb-rt|FRA|1794}}<br />([[Uccle]], Belgium; 1 May 1904)
+| Largest win           = {{fb|BEL}} 9–0 {{fb-rt|Zambia|1964}}<br />([[Brussels]], Belgium; 4 June 1994)<br />{{fb|BEL}} 10–1 {{fb-rt|SMR|1862}}<br />([[Brussels]], Belgium; 28 February 2001)<br />{{fb|BEL}} 9–0 {{fb-rt|GIB}}<br />([[Liège]], Belgium; 31 August 2017)<br />{{fb|BEL}} 9–0 {{fb-rt|SMR}}<br />([[Brussels]], Belgium; 10 October 2019)
+| Largest loss          = {{Fbam|ENG|full=y}} 11–2 {{fb-rt|BEL}}<br />([[London]], England; 17 April 1909)
+| World cup apps        = 15
+| World cup first       = 1930
+| World cup best        = Third place ([[2018 FIFA World Cup|2018]])
+| Regional name         = [[UEFA European Championship|European Championship]]
+| Regional cup apps     = 7
+| Regional cup first    = [[UEFA Euro 1972|1972]]
+| Regional cup best     = Runners-up ([[UEFA Euro 1980|1980]])
+| 2ndRegional name      = [[UEFA Nations League|Nations League Finals]]
+| 2ndRegional cup apps  = 1
+| 2ndRegional cup first = [[2021 UEFA Nations League Finals|2021]]
+| 2ndRegional cup best  = Fourth place ([[2021 UEFA Nations League Finals|2021]])
+| 3rdRegional name      = [[Football at the Summer Olympics|Olympic Games]]
+| 3rdRegional cup apps  = 4
+| 3rdRegional cup first = [[Football at the 1920 Summer Olympics|1920]]
+| 3rdRegional cup best  = [[File:Gold medal.svg|16px]] '''Gold medal''' ([[Football at the 1920 Summer Olympics|1920]])
+| medaltemplates        = {{MedalSport|Men's [[Association football|football]]}}
+{{MedalCompetition|[[FIFA World Cup]]}}
+{{MedalBronze|[[2018 FIFA World Cup|2018 Russia]]|[[2018 FIFA World Cup squads#Belgium|Team]]}}
+{{MedalCompetition|[[UEFA European Championship]]}}
+{{MedalSilver|[[UEFA Euro 1980|1980 Italy]]|[[UEFA Euro 1980 squads#Belgium|Team]]}}
+{{MedalBronze|[[UEFA Euro 1972|1972 Belgium]]|[[UEFA Euro 1972 squads#Belgium|Team]]}}
+{{MedalCompetition|[[Football at the Summer Olympics|Olympic Games]]}}
+{{MedalGold|[[1920 Summer Olympics|1920 Antwerp]]|[[Football at the 1920 Summer Olympics|Team]]}}
+{{MedalBronze|[[1900 Summer Olympics|1900 Paris]]|[[Football at the 1900 Summer Olympics|Team]]}}
+}}
+
+The '''Belgium national football team'''{{efn|{{langx|nl|Belgisch nationaal voetbalelftal}}<br />{{langx|fr|Équipe nationale belge de football}}<br />{{langx|de|Belgische Fußballnationalmannschaft}}}} has represented [[Belgium]] in men's international [[Association football|football]] since [[Évence Coppée Trophy|their maiden match]] in 1904. The squad is under the global jurisdiction of [[FIFA]] and is governed in Europe by [[UEFA]]—both of which were co-founded by the Belgian team's supervising body, the [[Royal Belgian Football Association]]. Periods of regular Belgian representation at the highest international level, from 1920 to 1938, from 1980 to 2002 and again from 2014 onwards, have alternated with mostly unsuccessful qualification rounds. Most of Belgium's home matches are played at the [[King Baudouin Stadium]] in [[Brussels]].
+
+Belgium's national team have participated in three quadrennial major football competitions. It appeared in fourteen [[FIFA World Cup]]s and six [[UEFA European Championship]]s, and featured at three Olympic football tournaments, including the [[Football at the 1920 Summer Olympics|1920 Summer Olympics]] which they won. Other notable performances are victories over four [[FIFA World Cup#Results|reigning world champions]]—West Germany, Brazil, Argentina and France—between 1954 and 2002. Belgium has long-standing football rivalries with its Dutch and French counterparts, having played both teams nearly every year from 1905 to 1967. The squad has been known as the Red Devils since 1906; its fan club is named "1895".
+
+Belgium finished in third place as hosts at [[UEFA Euro 1972]]. After that, they experienced two [[golden generation]]s. In the first period, which lasted from the 1980s to the early 1990s, the team finished as runners-up at [[UEFA Euro 1980]] and fourth in the [[1986 FIFA World Cup]]. In the second, under the guidance of [[Marc Wilmots]] and later [[Roberto Martínez]] in the 2010s, Belgium topped the [[FIFA Men's World Ranking|FIFA World Ranking]] for the first time in November 2015 and finished third at the [[2018 FIFA World Cup]]. To date, Belgium is the only national team to top the FIFA ranking without having won a World Cup or continental trophy.

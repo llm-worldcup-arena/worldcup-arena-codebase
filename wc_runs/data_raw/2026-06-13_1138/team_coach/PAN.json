@@ -1,0 +1,24 @@
+{
+ "team": "PAN",
+ "coach": {
+  "name_zh": "托马斯·克里斯蒂安森",
+  "name_en": "Thomas Christiansen",
+  "nationality": "Denmark",
+  "career_since": "",
+  "person_id": "per_thomas_christiansen"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 丹麦人托马斯·克里斯蒂安森于2020年7月接手巴拿马国家队，童年时期曾短暂旅居该国。\n- 执教近五年期间成功率领巴拿马晋级2026年世界杯，这是巴拿马历史上第二次入围世界杯决赛圈。\n- 战术体系以防守结构严密著称，预选赛关键阶段6场比赛仅失2球，主打紧凑低位防守。\n- 对中场核心卡拉斯奎利亚的伤情管理极为谨慎，明确表示不会冒险让其提前复出参加世界杯首战。\n- 世界杯前5场热身赛战绩为2胜2平1负，曾4-2击败多米尼加共和国，但也0-6惨败于巴西。\n- 26人世界杯名单包含多名2018世界杯老将，中场卡拉斯奎利亚是球队攻防转换的绝对枢纽。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.95,
+  "issues": []
+ },
+ "brief_fetched": "2026-06-13_1138",
+ "brief_info_chars": 4896
+}

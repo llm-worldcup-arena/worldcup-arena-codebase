@@ -1,0 +1,33 @@
+{
+ "team": "CZE",
+ "coach": {
+  "name_zh": "",
+  "name_en": "Miroslav Koubek",
+  "nationality": "Czechoslovakia",
+  "career_since": "1983",
+  "person_id": "per_miroslav_koubek"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 捷克教练米罗斯拉夫·库贝克自1983年开启执教生涯，现任捷克国家队主帅，率队终结球队连续20年无缘世界杯的纪录。\n- 2026世预赛带队连赢两场点球大战（对爱尔兰、丹麦）晋级，队长拉迪斯拉夫·克雷吉齐两次在加时赛攻入关键扳平球。\n- 惯用3-4-2-1阵型，依托三中卫身体对抗、帕特里克·希克为进攻支点，主打定位球威胁与空中优势。\n- 世界杯首战韩国，克雷吉齐破门后球队遭2-1逆转，激进防守被对手利用身后空当完成绝杀。\n- 欧预赛阶段捷克抢断（160次）、拦截（88次）、空中对抗胜利（238次）均位列所有欧洲球队之首。\n- 启用里昂中场帕维尔·苏尔克顶替伤缺核心瓦茨拉夫·切尔尼，并激活亚当·赫洛热克作为替补奇兵。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.95,
+  "issues": [
+   "首句执教年份信息冗余"
+  ]
+ },
+ "brief_fetched": "2026-06-13_1750",
+ "brief_info_chars": 6000,
+ "coach_xverify": {
+  "canonical": "Miroslav Koubek",
+  "confidence": "high",
+  "discrepancy": "Squawka 声称主教练是 Dean Smith（18 小时前），但 UEFA.com、Al Jazeera 等权威来源均确认为 Miroslav Koubek。Squawka 的说法可能是事实错误（可能混淆了其他国家队），因为 UEFA 官网和多家媒体在同期报道中均未提及换帅，且世界杯前夕突然更换主教练却无广泛报道的可能性极低。",
+  "sources_agree": 5,
+  "n_sources": 8
+ }
+}

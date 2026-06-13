@@ -1,0 +1,14 @@
+{
+ "team": "AUT",
+ "coach": {
+  "name_zh": "拉尔夫·朗尼克",
+  "name_en": "Ralf Rangnick",
+  "nationality": "West Germany",
+  "career_since": "1983",
+  "person_id": "per_ralf_rangnick"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。"
+}

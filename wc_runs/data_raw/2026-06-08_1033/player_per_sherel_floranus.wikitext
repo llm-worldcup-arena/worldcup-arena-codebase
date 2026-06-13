@@ -1,0 +1,129 @@
+{{short description|Curaçaoan footballer (born 1998)}}
+{{Use dmy dates|date=January 2024}}
+{{Infobox football biography
+| name = Sherel Floranus
+| fullname = 
+| image = Sherel Floranus at Antalyaspor vs Fatih Karagümrük SK 20220213.jpg
+| birth_date = {{Birth date and age|1998|8|23|df=y}}
+| birth_place = [[Rotterdam]], Netherlands
+| height = 1.85 m
+| position = [[Full back (association football)|Right back]]
+| currentclub = [[PEC Zwolle]]
+| clubnumber = 2
+| youthyears1 = {{0|0000}}–2015
+| youthclubs1 = [[Sparta Rotterdam]]
+| years1 = 2015–2018
+| clubs1 = [[Sparta Rotterdam]]
+| caps1 = 61
+| goals1 = 0
+| years2 = 2016
+| clubs2 = [[Sparta Rotterdam|Jong Sparta]]
+| caps2 = 2
+| goals2 = 0
+| years3 = 2018–2021
+| clubs3 = [[SC Heerenveen]]
+| caps3 = 71
+| goals3 = 2
+| years4 = 2021–2023
+| clubs4 = [[Antalyaspor]]
+| caps4 = 30
+| goals4 = 1
+| years5 = 2023–2024
+| clubs5 = [[Almere City FC|Almere City]]
+| caps5 = 31
+| goals5 = 0
+| years6 = 2024–
+| clubs6 = [[PEC Zwolle]]
+| caps6 = 54
+| goals6 = 1
+| nationalyears1 = 2014
+| nationalteam1 = Netherlands U16
+| nationalcaps1 = 6
+| nationalgoals1 = 0
+| nationalyears2 = 2014–2015
+| nationalteam2 = [[Netherlands national under-17 football team|Netherlands U17]]
+| nationalcaps2 = 11
+| nationalgoals2 = 1
+| nationalyears3 = 2015
+| nationalteam3 = [[Netherlands national under-18 football team|Netherlands U18]]
+| nationalcaps3 = 2
+| nationalgoals3 = 0
+| nationalyears4 = 2016–2017
+| nationalteam4 = [[Netherlands national under-19 football team|Netherlands U19]]
+| nationalcaps4 = 10
+| nationalgoals4 = 0
+| nationalyears5 = 2018–2020
+| nationalteam5 = [[Netherlands national under-21 football team|Netherlands U21]]
+| nationalcaps5 = 7
+| nationalgoals5 = 0
+| nationalyears6 = 2023–
+| nationalteam6 = [[Curaçao national football team|Curaçao]]
+| nationalcaps6 = 24
+| nationalgoals6 = 0
+| club-update = 21 May 2026
+| nationalteam-update = 9 December 2025
+}}
+
+'''Sherel Floranus''' (born 23 August 1998) is a professional [[Association football|footballer]] who plays as a [[right-back]] for {{Dutch football updater|PECZwolle}} club [[PEC Zwolle]].<ref name="soccerway">{{Soccerway|sherel-floranus/385271}}</ref> Born in the Netherlands, he plays for the [[Curaçao national football team|Curaçao national team]].
+
+==Club career==
+Floranus is a youth exponent from [[Sparta Rotterdam]]. He made his team debut on 21 August 2015 against [[FC Eindhoven]] starting in the first eleven and was replaced after 81 minutes by Denzel Dumfries.<ref name="soccerway2">{{cite web|url=https://int.soccerway.com/matches/2015/10/04/netherlands/eredivisie/bv-de-graafschap/feyenoord-rotterdam-nv/2039318/|title=Sparta Rotterdam vs. FC Eindhoven – 21 August 2015 – Soccerway|publisher=soccerway.com|access-date=10 October 2015}}</ref>
+
+On 1 August 2023, Floranus signed a two-year contract with [[Almere City FC|Almere City]], freshly promoted to [[Eredivisie]].<ref>{{cite web|publisher=Almere City|url=https://almerecity.nl/almere-city-1/sherel-floranus-versterkt-verdediging-almere-city-fc/|title=Sherel Floranus versterkt verdediging Almere City FC|trans-title=Sherel Floranus strengthens Almere City FC's defense|date=1 August 2023|access-date=1 August 2023|language=nl}}</ref>
+
+On 26 August 2024, Floranus moved to [[PEC Zwolle]] on a three-season deal.<ref>{{cite web|publisher=PEC Zwolle|url=https://peczwolle.nl/nieuws/pec-zwolle-haalt-ervaren-sherel-floranus-binnen|title=PEC Zwolle haalt ervaren Sherel Floranus binnen|trans-title=PEC Zwolle brings in experienced Sherel Floranus|date=26 August 2024|access-date=26 August 2024|language=nl}}</ref>
+
+==International career==
+Born in the Netherlands, Floranus is of Curaçaoan descent. He is a youth international for the Netherlands. In June 2021 He was called up to [[Curaçao national football team|Curaçao]]'s preliminary squad for the [[2021 CONCACAF Gold Cup]].<ref name=":0">{{cite web|date=18 June 2021|title=2021 Concacaf Gold Cup preliminary rosters announced|url=https://www.concacaf.com/gold-cup/article/2021-concacaf-gold-cup-preliminary-rosters-announced/|access-date=19 June 2021|publisher=CONCACAF}}</ref>
+
+==Honours==
+'''Sparta Rotterdam'''
+* [[Eerste Divisie]]: [[2015–16 Eerste Divisie|2015–16]]
+
+==References==
+{{reflist}}
+
+==External links==
+* {{WorldFootball.net|sherel-floranus}}
+
+{{PEC Zwolle squad}}
+{{Navboxes
+| title = Curaçao squads
+| bg = #002a7e
+| fg = white
+| bordercolor = yellow
+| list1 =
+{{Curaçao squad 2025 CONCACAF Gold Cup}}
+{{Curaçao squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Floranus, Sherel}}
+[[Category:1998 births]]
+[[Category:Living people]]
+[[Category:Footballers from Rotterdam]]
+[[Category:Men's association football full-backs]]
+[[Category:Curaçaoan men's footballers]]
+[[Category:Curaçao men's international footballers]]
+[[Category:Dutch men's footballers]]
+[[Category:Netherlands men's youth international footballers]]
+[[Category:Dutch people of Curaçaoan descent]]
+[[Category:Eredivisie players]]
+[[Category:Eerste Divisie players]]
+[[Category:Süper Lig players]]
+[[Category:Sparta Rotterdam players]]
+[[Category:SC Heerenveen players]]
+[[Category:Antalyaspor footballers]]
+[[Category:Almere City FC players]]
+[[Category:PEC Zwolle players]]
+[[Category:Dutch expatriate men's footballers]]
+[[Category:Expatriate men's footballers in Turkey]]
+[[Category:Dutch expatriate sportspeople in Turkey]]
+[[Category:21st-century Dutch sportsmen]]
+[[Category:Jong Sparta players]]
+[[Category:Netherlands men's under-21 international footballers]]
+[[Category:2025 CONCACAF Gold Cup players]]
+[[Category:2026 FIFA World Cup players]]
+
+
+{{Curaçao-footy-bio-stub}}
+{{Netherlands-footy-defender-1990s-stub}}

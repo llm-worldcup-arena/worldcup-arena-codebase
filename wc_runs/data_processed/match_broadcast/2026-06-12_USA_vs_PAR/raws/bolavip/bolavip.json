@@ -1,0 +1,24 @@
+{
+ "source": "Bolavip",
+ "url": "https://bolavip.com/en/world-cup/usa-vs-paraguay-live-usmnt-makes-2026-world-cup-debut",
+ "title": "Folarin Balogun’s brace leads USA to a 4-1 win over Paraguay in 2026 World Cup debut",
+ "published": "2026-06-12T19:47:47-04:00",
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-12",
+  "home": "USA",
+  "away": "PAR",
+  "home_en": "United States",
+  "away_en": "Paraguay",
+  "home_zh": "美国",
+  "away_zh": "巴拉圭",
+  "comp": "小组赛·D组",
+  "match_id": "M4",
+  "slug": "2026-06-12_USA_vs_PAR"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "USA delivered a dominant performance against Paraguay in their 2026 World Cup opener, securing a convincing 4-1 victory at Los Angeles Stadium. The hosts controlled the match from the opening minutes, setting the tone with high intensity and quick transitions. A Folarin Balogun brace and a late strike from Giovanni Reyna capped off a complete team display in front of a home crowd.\n\nThe match opened with USA immediately pushing forward, forcing Paraguay deep into their own half with sustained attacking pressure. An early breakthrough came through an own goal by Damian Bobadilla, which shifted momentum firmly in favor of the hosts. USA continued to exploit spaces behind the Paraguayan defense, with Christian Pulisic and Malik Tillman heavily involved in creating chances, including the brace of Balogun.\n\nIn the second half, Paraguay managed to pull one goal back through Mauricio after a more aggressive attacking approach. However, USA quickly regained control. Giovanni Reyna added a late goal to put the finishing touch on a strong collective performance. USA maintained control in the closing stages, comfortably seeing out the match to begin their tournament campaign with confidence.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

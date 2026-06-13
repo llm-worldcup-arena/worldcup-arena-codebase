@@ -9,7 +9,7 @@
 数据源:API-Football(v3,免费档,含世界杯)为主;
         国家队生涯 caps / Elo 等 API-Football 给不全的,标注 → 另源(FBref/Wikidata/eloratings)。
 输出:范式化 JSON,ensure_ascii=False。
-  raw:  wc_runs/raw/bg/asof=YYYY-MM-DD/<endpoint>_<team>.json   ← API 原始 JSON 响应(未加工)
+  raw:  wc_runs/data_raw/asof=YYYY-MM-DD/<endpoint>_<team>.json   ← API 原始 JSON 响应(未加工)
   data: wc_runs/data/static/{persons,teams}.json + bg/asof=YYYY-MM-DD/{squad,team_rank,...}.json
 
 ⚠️ build_* 的字段映射按 API-Football v3 常见结构写;**拿到 key 后用真实返回校准**(标 ★校准)。

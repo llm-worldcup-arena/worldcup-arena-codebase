@@ -1,0 +1,297 @@
+{{short description|Swiss footballer of Tunisian descent (born 2000)}}
+{{Use dmy dates|date=August 2024}}
+{{Infobox football biography
+| name = Zeki Amdouni
+| image = 
+| caption = 
+| full_name = Mohamed Zeki Amdouni<ref>{{cite web |url=https://www.premierleague.com/news/3681595 |title=2023/24 Premier League squad lists |publisher=Premier League |date=13 September 2023 |access-date=13 September 2023}}</ref>
+| birth_date = {{birth date and age|2000|12|4|df=y}}<ref>{{Cite web |last=UEFA.com |title=Zeki Amdouni – Switzerland – European Qualifiers |url=https://www.uefa.com/european-qualifiers/teams/players/250162865--zeki-amdouni/ |access-date=2023-06-12 |website=[[UEFA]] |language=en}}</ref>
+| birth_place = [[Geneva]], Switzerland
+| height = 1.85 m<ref>{{cite web |url=https://www.fcb.ch/teams/1-mannschaft/spieler/mohamed-zeki-amdouni/ |title=Zeki Amdouni |publisher=FC Basel |accessdate=2 September 2022 |archive-date=8 June 2023 |archive-url=https://web.archive.org/web/20230608155455/https://www.fcb.ch/teams/1-mannschaft/spieler/mohamed-zeki-amdouni/ |url-status=dead }}</ref>
+| position = [[Attacking midfielder]], [[Forward (association football)|forward]]
+| currentclub = [[Burnley F.C.|Burnley]]
+| clubnumber = 25
+| youthyears1 = 2008–2013
+| youthclubs1 = [[Servette FC|Servette]]
+| youthyears2 = 2013–2018
+| youthclubs2 = [[FC Meyrin|Meyrin]]
+| youthyears3 = 2017–2018
+| youthclubs3 = → [[Étoile Carouge FC|Étoile Carouge]] (loan)
+| years1 = 2018–2019
+| clubs1 = [[Étoile Carouge FC|Étoile Carouge]]
+| caps1 = 38
+| goals1 = 14
+| years2 = 2019–2021
+| clubs2 = [[FC Stade Lausanne Ouchy|Stade Lausanne Ouchy]]
+| caps2 = 56
+| goals2 = 14
+| years3 = 2021–2023
+| clubs3 = [[FC Lausanne-Sport|Lausanne-Sport]]
+| caps3 = 34
+| goals3 = 12
+| years4 = 2022–2023
+| clubs4 = → [[FC Basel|Basel]] (loan)
+| caps4 = 32
+| goals4 = 12
+| years6 = 2023–
+| clubs6 = [[Burnley F.C.|Burnley]]
+| caps6 = 40
+| goals6 = 6
+| years7 = 2024–2025
+| clubs7 = → [[S.L. Benfica|Benfica]] (loan)
+| caps7 = 24
+| goals7 = 7
+| nationalyears1 = 2019
+| nationalteam1 = [[Switzerland national under-20 football team|Switzerland U20]]
+| nationalcaps1 = 2
+| nationalgoals1 = 0
+| nationalyears2 = 2021
+| nationalteam2 = [[Turkey national under-21 football team|Turkey U21]]
+| nationalcaps2 = 1
+| nationalgoals2 = 0
+| nationalyears3 = 2021–2023
+| nationalteam3 = [[Switzerland national under-21 football team|Switzerland U21]]
+| nationalcaps3 = 15
+| nationalgoals3 = 9
+| nationalyears4 = 2022–
+| nationalteam4 = [[Switzerland national football team|Switzerland]]
+| nationalcaps4 = 29
+| nationalgoals4 = 11
+| club-update = 11:36, 28 May 2026 (UTC)
+| nationalteam-update = 10:27, 6 June 2026 (UTC)
+}}
+'''Mohamed Zeki Amdouni''' (born 4 December 2000) is a Swiss professional [[association football|footballer]] who plays as an [[attacking midfielder]] or [[Forward (association football)|forward]] for {{English football updater|Burnley}} club [[Burnley F.C.|Burnley]] and the [[Switzerland national football team|Switzerland national team]].
+
+==Club career==
+===Early years===
+Amdouni is a youth product of [[Servette FC|Servette]], [[FC Meyrin|Meyrin]], and [[Étoile Carouge FC|Étoile Carouge]]. He began his career with Étoile Carouge, playing in the [[Swiss 1. Liga (football)|1. Liga]] the fourth tier of the [[Swiss football league system]], before moving to [[FC Stade Lausanne Ouchy|Stade Lausanne Ouchy]] in the [[Swiss Challenge League]] in 2019. On 9 June 2021, he transferred to [[FC Lausanne-Sport|Lausanne-Sport]] in the [[Swiss Super League]].<ref>{{Cite web|url=https://fcslo.ch/2021/06/09/zeki-amdouni-au-lausanne-sport/|title=Zeki Amdouni au Lausanne-Sport|date=June 9, 2021}}</ref> He made his professional debut with Lausanne-Sport in a 2–1 [[Swiss Super League]] defeat against [[FC St. Gallen]] on 24 July 2021.<ref>{{Cite web|url=https://int.soccerway.com/matches/2021/07/24/switzerland/super-league/fc-lausanne-sport/fc-sankt-gallen-1879/3524177/|title=Lausanne Sport vs. St. Gallen – 24 July 2021 – Soccerway|website=int.soccerway.com}}</ref> At the end of the [[2021–22 Swiss Super League|2021–22 season]] Lausanne-Sport suffered relegation, but Amdouni was the team's top scorer with 12 goals.<ref name="rsssf-Switzerland 2021/22">{{cite web | first1 = Niklaus | last1 = Rohrer| first2 = Karel | last2 = Stokkermans | author-link = | year = 2022 | url = https://www.rsssf.org/tablesz/zwit2022.html | title = Switzerland 2021/22 | publisher = Rec.Sport.Soccer Statistics Foundation | access-date = 2022-11-16}}</ref>
+
+===Basel===
+On 24 June 2022, Amdouni joined [[FC Basel|Basel]]'s first team for their [[2022–23 FC Basel season|2022–23 season]] under head coach [[Alexander Frei]] signing a two-year loan with an option for the club to buy.<ref name="fcb-aktuell-Zeki Amdouni">{{cite web | last = FC Basel 1893 | author-link = | date =24 June 2022 | url = https://www.fcb.ch/aktuell/news/1-mannschaft/transfer-amdouni/ | title = Amouni leihweise von Lausanne-Sport zum FCB | format = | work = Amouni on loan from Lausanne-Sport to FCB | publisher = FC Basel 1893 AG | access-date = 2022-06-24}}</ref> After playing in two test games, in each of which he had scored a goal, Amdouni played his domestic league debut for his new club in the away game in the [[Schützenwiese]] on 16 July 2022 as Basel drew 1–1 with [[FC Winterthur|Winterthur]].<ref name="fcb-matchcenter-2022/23-Winterthur-FCB">{{cite web | last = FC Basel 1893 | author-link = | date = 16 July 2022 | url = https://www.fcb.ch/matchcenter/startcenter/62b02665e3be78190d362f64/2022-FC_Winterthur_-_FC_Basel_1893 | title = FC Winterthur – FC Basel 1:1 (1:0) | format = | publisher = FC Basel 1893 AG | access-date = 2022-07-16}}</ref> He played his first European match in the second qualifying round of the [[2022–23 UEFA Europa Conference League]] 21 July, it was the home game in the [[St. Jakob-Park]] as Basel won 2–0 against Northern Ireland team [[Crusaders F.C.|Crusaders]].<ref name="fcb-achiv-2022/23-UECL-FCB-Crusaders">{{cite web | last = Verein "Basler Fussballarchiv” | author-link = | date = 21 July 2022 | url = https://www.fcb-archiv.ch/saison/spiele?command=detail&id=31754 | title = FC Basel – Crusaders FC 2:0 (1:0) | format = | publisher = Verein "Basler Fussballarchiv” | access-date = 2022-07-21}}</ref> Amdouni scored his first goal for the club on 28 August in the away game in the [[Letzigrund]] against [[FC Zürich|Zürich]] as Basel won 4–2.<ref name="fcb-matchcenter-2022/23-FCZ-FCB">{{cite web | last = FC Basel 1893 | author-link = | date = 28 August 2022 | url = https://www.fcb.ch/matchcenter/startcenter/62b02666e3be78190d362fd6/2022-FC_Zrich_-_FC_Basel_1893 | title = FC Zürich – FC Basel 2:4 (1:1) | format = | publisher = FC Basel 1893 AG | access-date = 2022-08-28}}</ref>
+
+Basel finished the [[2022–23 UEFA Europa Conference League group stage|Conference League group stage]] in second position and advanced to the Knockout round. It was here that Amdoumi showed his goal scoring flair, with seven goals in eight outings, during Basel's run to the semi-finals, where they lost to [[ACF Fiorentina|Fiorentina]] after extra time in the second leg.<ref name="fcb-achiv-2022/23-UECL-FCB-Fiorentina">{{cite web | last = Verein "Basler Fussballarchiv” | author-link = | date = 18 May 2023 | url = https://www.fcb-archiv.ch/saison/spiele?command=detail&id=31821 | title = FC Basel – ACF Fiorentina 1:3 n.V. (1:2, 0:1) | format = | publisher = Verein "Basler Fussballarchiv” | access-date = 2023-05-18}}</ref> These seven goals made Amdouni the competition's joint top goal scorer together with [[Arthur Cabral]] of Fiorentina.<ref>{{cite web |url=https://www.uefa.com/uefaconferenceleague/news/0279-16108d406aae-2f981d699ac3-1000--2022-23-europa-conference-league-top-scorers-cabral-and-am/ |title=2022/23 Europa Conference League top scorers: Cabral and Amdouni |publisher=UEFA |date=7 June 2023 }}</ref> On 2 May 2023, Basel's option to buy the player was activated, with Amdouni signing a four-year contract.<ref name="fcb-aktuell-2022/23-Andy Diouf">{{cite web | last = FC Basel 1893 | author-link = | date = 2 May 2023 | url = https://www.fcb.ch/aktuell/news/1-mannschaft/amdouni-und-diouf-definitiv-zum-fcb | title = Der FCB Verpflichet Zeki Amouni und Andy Diouf definitiv | format = | publisher = FC Basel 1893 AG | language = de | trans-title = FCB sign Zeki Amouni and Andy Diouf definitely | access-date = 2023-05-02}}</ref> On 17 July 2023, Basel confirmed that although Amdouni had joined the club permanently, he was in talks for a move to another team and two days later he left the club.<ref>{{Cite news |last=Scrafton |first=Matt |date=18 July 2023 |title='Another club': Basel release statement on Zeki Amdouni's future amid Burnley links |work=Burnley Express |url=https://www.burnleyexpress.net/sport/football/another-club-basel-release-statement-on-zeki-amdounis-future-amid-burnley-links-4222252 |access-date=19 July 2023}}</ref>
+
+During his one season with them, Amdouni played a total of 58 games for Basel scoring a total of 25 goals. 32 of these games were in the [[Swiss Super League]], three in the [[Swiss Cup]], 17 in the UEFA Europa Conference League, and six were friendly games. He scored 12 goals in the domestic league, three in the cup, seven in the European games and the other three were scored during the test games.<ref name="fcb-achiv-Zeki Amdouni">{{cite web | last = Verein "Basler Fussballarchiv” | authorlink = | year = 2023 | url = https://www.fcb-archiv.ch/spieler?command=detail&id=10264 | title = Zeki Amdouni – FCB statistics | format = | publisher = Verein "Basler Fussballarchiv” | accessdate = 2023-07-19}}</ref>
+
+===Burnley===
+On 19 July 2023, Amdouni signed for newly-promoted [[Premier League]] club [[Burnley F.C.|Burnley]] on a five-year contract, for an undisclosed fee.<ref>{{Cite web |last= |date=19 July 2023 |title=ZEKI AMDOUNI HAS ARRIVED! |url=https://www.burnleyfootballclub.com/content/zeki-has-arrived |access-date=2023-07-19 |website=Burnley Football Club |language=en}}</ref><ref>{{Cite news |date=19 July 2023 |title=Burnley sign Switzerland forward Amdouni from Basel |language=en-GB |work=BBC Sport |url=https://www.bbc.com/sport/football/66242177 |access-date=2023-07-19}}</ref>
+
+==== Loan to Benfica ====
+On 29 August 2024, Amdouni signed for Portuguese club [[S.L. Benfica|Benfica]] on a year-long loan.<ref>{{Cite web |date=2024-08-29 |title=Burnley attacker Zeki Amdouni completes Benfica loan move |url=https://uk.sports.yahoo.com/news/burnley-attacker-zeki-amdouni-completes-183626676.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAI3EDHj226KAQz5-UEkoiXAJdo5HIuLBM-RteyBVa4s81aJY5XvA_tTCNVtmQE7ziajCqaPE-hMGeB2HdZfQklKTz7BhJ46VydiRxWpwCSmbO3m6AeS9RtPs3c-sI0Br4lj6VjsAfK6kNOEuu0B64kEIcgXG0tV8vHQRSam5Ryt_ |access-date=2024-08-29 |website=Yahoo Sports |language=en-GB}}</ref> He made his competitive debut for his new club on 14 September in a 4–1 home league victory over [[C.D. Santa Clara|Santa Clara]],<ref>{{cite web|url=https://www.rtp.pt/noticias/desporto/benfica-goleia-santa-clara-no-regresso-de-bruno-lage-ao-clube_v1599845|title=Benfica goleia Santa Clara no regresso de Bruno Lage ao clube|publisher=RTP|language=pt|date=14 September 2024|accessdate=20 September 2024}}</ref> and scored his first goal in a 5–1 win against [[Gil Vicente F.C.|Gil Vicente]] on 28 September.<ref>{{Cite web |date=28 September 2024 |title=Zeki Amdouni estreia-se a marcar pelo Benfica com golo de fora da área |url=https://bolanarede.pt/especial-bola-na-rede/atualidade/zeki-amdouni-estreia-se-a-marcar-pelo-benfica-com-golo-de-fora-da-area/|access-date=29 September 2024 |website=Bola na Rede |language=pt-PT}}</ref>
+
+==International career==
+Amdouni was born in Switzerland to a Turkish father and Tunisian mother.<ref>{{Cite web|url=https://www.fanatik.com.tr/mohamed-zeki-amdouni-kimdir-nereli-mohamed-zeki-amdouni-kac-yasinda-hangi-takimda-oynuyor-2210656|title=Mohamed Zeki Amdouni kimdir, nereli? Mohamed Zeki Amdouni kaç...|website=Fanatik|date=30 March 2021 }}</ref> He represented [[Switzerland national under-20 football team|Switzerland U20]], before switching to represent [[Turkey national under-21 football team|Turkey U21]] in May 2019. That same month, he again switched over to [[Switzerland national under-21 football team|Switzerland U21]].<ref>{{Cite web|url=https://www.sozcu.com.tr/spor/futbol/mohamed-zeki-amdouni-isvicreyi-secti-tff-aciklama-yapti-6437488/|title=Mohamed Zeki Amdouni' İsviçre'yi seçti, TFF açıklama yaptı|website=www.sozcu.com.tr|date=18 May 2021 }}</ref>
+
+He was called up by the senior Switzerland squad for the [[2022–23 UEFA Nations League]] matches against [[Czech Republic national football team|Czech Republic]], [[Portugal national football team|Portugal]] and [[Spain national football team|Spain]] in June 2022.<ref>{{cite news 
+|url=https://www.bbc.co.uk/sport/football/61778820
+|title=Switzerland 1–0 Portugal
+|publisher=[[BBC]] 
+|date=12 June 2022 |access-date=13 June 2022}}</ref> He made his debut on 27 September 2022 in a Nations League match against the Czech Republic, replacing [[Ruben Vargas]] as a 79th-minute substitute.<ref>{{cite web|publisher=UEFA|url=https://www.uefa.com/uefanationsleague/match/2034565/|title=Switzerland v Czechia game report|date=27 September 2022|access-date=6 October 2022}}</ref>
+
+On 25 March 2023, Amdouni scored his first international goal against [[Belarus national football team|Belarus]], as Switzerland won 5–0 in a [[UEFA Euro 2024 qualifying]] match.<ref>{{Cite web |last=UEFA.com |title=Belarus-Switzerland {{!}} European Qualifiers 2024 |url=https://www.uefa.com/european-qualifiers/match/2036307--belarus-vs-switzerland/ |access-date=2023-03-26 |website=[[UEFA]] |language=en}}</ref> He went to make his first start for the national team against [[Israel national football team|Israel]] three days later, scoring the second goal of a 3–0 win. He ended the Euro qualifying campaign with six goals from ten appearances, scoring the winning goal in a 2–1 win away to [[Andorra national football team|Andorra]], both goals of a 2–2 draw at home to [[Romania national football team|Romania]], and a 90th minute equaliser in a 3–3 draw in [[Belarus national football team|Belarus]].<ref>{{Cite web|url= https://www.uefa.com/european-qualifiers/teams/players/250162865--zeki-amdouni/matches/|title=ZEKI AMDOUNI|website=UEFA|access-date=16 June 2024}}</ref>
+
+On 7 June 2024, Amdouni was named in Switzerland's squad for the [[UEFA Euro 2024]] finals in Germany.<ref>{{Cite web|url=https://www.reuters.com/sports/soccer/switzerland-announce-26-man-squad-euro-2024-2024-06-07/|title=Switzerland announce 26-man squad for Euro 2024|date=7 June 2024|website=Reuters|access-date=16 June 2024}}</ref> He appeared as a substitute in the team's first match, replacing opening goalscorer [[Kwadwo Duah]] in the 68th minute of the 3–1 win over [[Hungary national football team|Hungary]] in Cologne.<ref>{{Cite web|url=https://www.bbc.com/sport/football/live/cy99107knekt#Line-ups|title=Hungary 1–3 Switzerland LIVE: UEFA Euro 2024 – score, updates & reaction|website=BBC Sport|access-date=16 June 2024}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 24 May 2026}}
+
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup{{efn|Includes [[Swiss Cup]], [[FA Cup]], [[Taça de Portugal]]}}
+!colspan="2"|League cup{{efn|Includes [[EFL Cup]], [[Taça da Liga]]}}
+!colspan="2"|Europe
+!colspan="2"|Other 
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals 
+|-
+|rowspan="3"|[[Étoile Carouge FC|Étoile Carouge]]
+|[[2017–18 Swiss 1. Liga|2017–18]]<ref name="nft"/>
+|[[Swiss 1. Liga (football)|Swiss 1. Liga]]
+|13||4||||||colspan="2"|—||colspan="2"|—||colspan="2"|—||13||4
+|-
+|[[2018–19 Swiss 1. Liga|2018–19]]<ref name="nft"/>
+|Swiss 1. Liga
+|25||10||||||colspan="2"|—||colspan="2"|—||colspan="2"|—||25||10
+|-
+!colspan="2"|Total
+!38!!14!!!!!!colspan="2"|—||colspan="2"|—!!colspan="2"|—!!38!!14
+|-
+|rowspan="3"|[[FC Stade Lausanne Ouchy|Stade Lausanne Ouchy]]
+|[[2019–20 Swiss Challenge League|2019–20]]<ref name="SW"/>
+|[[Swiss Challenge League]]
+|24||3||3||1||colspan="2"|—||colspan="2"|—||colspan="2"|—||27||4
+|-
+|[[2020–21 Swiss Challenge League|2020–21]]<ref name="SW"/>
+|Swiss Challenge League
+|32||11||1||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||33||11
+|-
+!colspan="2"|Total
+!56!!14!!4!!1!!colspan="2"|—||colspan="2"|—!!colspan="2"|—!!60!!15
+|-
+|[[FC Lausanne-Sport|Lausanne-Sport]]
+|[[2021–22 Swiss Super League|2021–22]]<ref name="SW">{{Soccerway|mohamed-zeki-amdouni/617605|access-date=8 June 2023}}</ref>
+|[[Swiss Super League]]
+|34||12||4||3||colspan="2"|—||colspan="2"|—||colspan="2"|—||38||15
+|-
+|[[FC Basel|Basel]] (loan)
+|[[2022–23 FC Basel season|2022–23]]<ref name="SW"/>
+|Swiss Super League
+|32||12||3||3||colspan="2"|—||17{{efn|Appearances in [[UEFA Europa Conference League]]}}||7||colspan="2"|—||52||22
+|-
+|rowspan="4"|[[Burnley F.C.|Burnley]]
+|[[2023–24 Burnley F.C. season|2023–24]]<ref name="SW"/>
+|[[Premier League]]
+|34||5||1||0||2||1||colspan="2"|—||colspan="2"|—||37||6
+|-
+|[[2024–25 Burnley F.C. season|2024–25]]<ref name="SW"/>
+|[[EFL Championship|Championship]]
+|2||1||colspan="2"|—||0||0||colspan="2"|—||colspan="2"|—||2||1
+|-
+|[[2025–26 Burnley F.C. season|2025–26]]<ref name="SW"/>
+|Premier League 
+|4||0||0||0||0||0||colspan="2"|—||colspan="2"|—||4||0
+|-
+!colspan="2"|Total
+!40!!6!!1!!0!!2!!1!!colspan="2"|—!!colspan="2"|—!!43!!7
+|-
+|[[S.L. Benfica|Benfica]] (loan)
+|[[2024–25 S.L. Benfica season|2024–25]]<ref name="SW"/>
+|[[Primeira Liga]]
+|24||7||6||1||2||0||11{{efn|Appearances in [[UEFA Champions League]]}}||1||0||0||43||9
+|-
+!colspan="3"|Career total
+!224!!65!!18!!8!!4!!1!!28!!8!!0!!0!!274!!82
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 6 June 2026}}<ref name="nft">{{cite web |url=https://www.national-football-teams.com/player/88885/Zeki_Amdouni.html |title=Zeki Amdouni |website=National Football Teams |access-date=21 June 2023}}</ref>
+
+{| class=wikitable style="text-align: center;"
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="5"|[[Switzerland national football team|Switzerland]]
+|2022||1||0
+|-
+|2023||10||6
+|-
+|2024||14||4
+|-
+|2025||2||1
+|-
+|2026||2||0
+|-
+!colspan="2"|Total!!29!!11
+|}
+
+:''Switzerland score listed first, score column indicates score after each Amdouni goal.''
+
+{| class="wikitable sortable plainrowheaders"
+|+ International goals by date, venue, cap, opponent, score, result and competition
+!scope=col|No.
+!scope=col|Date
+!scope=col|Venue
+!scope=col|Cap
+!scope=col|Opponent
+!scope=col|Score
+!scope=col|Result
+!scope=col|Competition
+|-
+| align=center|1 || 25 March 2023 || [[Karađorđe Stadium]], [[Novi Sad]], Serbia ||align="center"| 2 || {{fb|BLR}} || align=center|5–0 || align=center| 5–0 || [[UEFA Euro 2024 qualifying Group I|UEFA Euro 2024 qualifying]]
+|-
+| align=center|2 || 28 March 2023 || [[Stade de Genève]], [[Geneva]], Switzerland ||align="center"| 3 || {{fb|ISR}} || align=center|2–0 || align=center| 3–0 || [[UEFA Euro 2024 qualifying Group I|UEFA Euro 2024 qualifying]]
+|-
+| align=center|3 || 16 June 2023 || [[Estadi Nacional]], [[Andorra la Vella]], Andorra ||align="center"| 4 || {{fb|AND}} || align=center|2–0 || align=center| 2–1 || [[UEFA Euro 2024 qualifying Group I|UEFA Euro 2024 qualifying]]
+|-
+| align=center|4 || rowspan=2|19 June 2023 || rowspan=2|[[Swissporarena]], [[Lucerne]], Switzerland ||rowspan=2 align="center"| 5 || rowspan=2|{{fb|ROU}} || align=center|1–0 || align=center rowspan=2| 2–2 || rowspan=2|[[UEFA Euro 2024 qualifying Group I|UEFA Euro 2024 qualifying]]
+|-
+| align=center|5 || align=center|2–0
+|-
+| align=center|6 || 15 October 2023 || [[Kybunpark]], [[St Gallen]], Switzerland ||align="center"| 8 || {{fb|BLR}} || align=center|3–3 || align=center| 3–3 || [[UEFA Euro 2024 qualifying Group I|UEFA Euro 2024 qualifying]]
+|-
+| align=center|7 || 4 June 2024 || [[Swissporarena]], [[Lucerne]], Switzerland ||align="center"| 14 || {{fb|EST}} || align=center|2–0 || align=center|4–0 || [[Friendly (association football)|Friendly]]
+|-
+| align=center|8 || 8 September 2024 || [[Stade de Genève]], [[Geneva]], Switzerland|| align="center" | 21 || {{fb|ESP}} || align=center | 1–2 || align=center | 1–4 || [[2024–25 UEFA Nations League A]]
+|-
+| align=center|9 || 15 October 2024 || [[Kybunpark]], [[St. Gallen]], Switzerland || align="center" | 23 || {{fb|DEN}} || align=center|2–1 || align=center| 2–2 || [[2024–25 UEFA Nations League A]]
+|-
+| align=center|10 || 15 November 2024 || [[Stadion Letzigrund]], [[Zurich]], Switzerland || align="center" | 24 || {{fb|SRB}} || align=center|1–0 || align=center| 1–1 || [[2024–25 UEFA Nations League A]]
+|-
+| align=center|11 || 7 June 2025 || [[Rice–Eccles Stadium]], [[Salt Lake City]], United States ||align="center"| 26 || {{fb|MEX}} || align=center|2–1 || align=center|4–2 || [[Friendly (association football)|Friendly]]
+|}
+
+==Honours==
+'''Benfica'''
+* [[Taça da Liga]]: [[2024–25 Taça da Liga|2024–25]]<ref>{{cite news|url=https://www.slbenfica.pt/pt-pt/agora/noticias/2025/01/11/futebol-cronica-jogo-sporting-benfica-final-taca-da-liga|title=Taça da Liga pintada de vermelho e branco!|publisher=S.L. Benfica|language=pt|date=12 January 2025|access-date=12 January 2025}}</ref>
+
+'''Individual'''
+* [[Swiss Super League]] Player of the Month: [[2022-23 Swiss Super League#Minthly awards|February 2023]]<ref>{{Cite web|url=https://www.sfl.ch/news/detail/best-player-im-februar-ist-zeki-amdouni/|title="Best Player" im Februar ist: Zeki Amdouni|publisher=Swiss Football League|language=de|date=2023-03-11|access-date=27 December 2023|archive-date=22 March 2023|archive-url=https://web.archive.org/web/20230322162845/https://www.sfl.ch/news/detail/best-player-im-februar-ist-zeki-amdouni/|url-status=dead}}</ref>
+* [[Swiss Super League]] Team of the Year: [[2022-23 Swiss Super League|2022–23]]<ref>{{Cite web|url=https://www.sfl.ch/news/detail/das-sfl-team-der-saison-2022-23/|title=Das SFL-Team der Saison 2022/23|publisher=Swiss Football League|language=de|date=2023-06-29|access-date=27 December 2023|archive-date=1 July 2023|archive-url=https://web.archive.org/web/20230701113714/https://www.sfl.ch/news/detail/das-sfl-team-der-saison-2022-23/|url-status=dead}}</ref>
+*[[UEFA Europa Conference League]] Top scorer: [[2022–23 UEFA Europa Conference League|2022–23]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://www.burnleyfootballclub.com/player/zeki-amdouni Profile]{{Dead link|date=August 2025 |bot=InternetArchiveBot |fix-attempted=yes }} at the Burnley F.C. website
+* {{Soccerway|mohamed-zeki-amdouni/617605}}
+* {{NFT player|88885}}
+* [https://www.sfl.ch/fr/challengeleague/clubs/fc-stade-lausanne-ouchy/player/mohamed-zeki-amdouni/season/202021/ SFL profile] {{Webarchive|url=https://web.archive.org/web/20220415165225/https://www.sfl.ch/fr/challengeleague/clubs/fc-stade-lausanne-ouchy/player/mohamed-zeki-amdouni/season/202021/ |date=15 April 2022 }}
+* [https://www.football.ch/SFV/Nationalteams/U-20/Team.aspx/t-41649/p-767879/ SFV U20 profile]
+* [https://football.ch/sfv/nationalteams/u-21/team.aspx/t-41643/p-767879/ SFV U21 profile]
+* {{UEFA player}}
+
+{{Burnley F.C. squad}}
+{{Navboxes
+| title = Switzerland squads
+| bg = #E00000
+| fg = white
+| bordercolor = #CC0000
+| list1 =
+{{Switzerland squad UEFA Euro 2024}}
+{{Switzerland squad 2026 FIFA World Cup}}
+}}
+{{UEFA Europa Conference League top scorers}}
+
+{{DEFAULTSORT:Amdouni, Zeki}}
+[[Category:2000 births]]
+[[Category:Living people]]
+[[Category:Swiss people of Tunisian descent]]
+[[Category:Turkish people of Tunisian descent]]
+[[Category:Sportspeople of Turkish descent]]
+[[Category:Swiss people of Turkish descent]]
+[[Category:Footballers from Geneva]]
+[[Category:Swiss men's footballers]]
+[[Category:Turkish men's footballers]]
+[[Category:Men's association football forwards]]
+[[Category:FC Stade Lausanne Ouchy players]]
+[[Category:FC Lausanne-Sport players]]
+[[Category:Étoile Carouge FC players]]
+[[Category:FC Basel players]]
+[[Category:Burnley F.C. players]]
+[[Category:S.L. Benfica footballers]]
+[[Category:Swiss 1. Liga (football) players]]
+[[Category:Swiss Super League players]]
+[[Category:Challenge League (Switzerland) players]]
+[[Category:Premier League players]]
+[[Category:Primeira Liga players]]
+[[Category:Switzerland men's youth international footballers]]
+[[Category:Turkey men's under-21 international footballers]]
+[[Category:Switzerland men's under-21 international footballers]]
+[[Category:Switzerland men's international footballers]]
+[[Category:UEFA Euro 2024 players]]
+[[Category:Swiss expatriate men's footballers]]
+[[Category:Swiss expatriate sportspeople in England]]
+[[Category:Swiss expatriate sportspeople in Portugal]]
+[[Category:Expatriate men's footballers in England]]
+[[Category:Expatriate men's footballers in Portugal]]
+[[Category:21st-century Swiss sportsmen]]
+[[Category:21st-century Turkish sportsmen]]
+[[Category:Sportspeople of Tunisian descent]]
+[[Category:2026 FIFA World Cup players]]

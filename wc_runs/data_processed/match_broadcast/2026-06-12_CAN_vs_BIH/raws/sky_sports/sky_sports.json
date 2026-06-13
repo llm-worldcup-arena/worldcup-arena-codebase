@@ -1,0 +1,24 @@
+{
+ "source": "Sky Sports",
+ "url": "https://www.skysports.com/football/canada-vs-bosnia-and-herzegovina/549768",
+ "title": "World Cup 2026: Canada 1-1 Bosnia-Herzegovina - Cyle Larin rescues point for Jesse Marsch's co-hosts in Toronto",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-12",
+  "home": "CAN",
+  "away": "BIH",
+  "home_en": "Canada",
+  "away_en": "Bosnia and Herzegovina",
+  "home_zh": "加拿大",
+  "away_zh": "波黑",
+  "comp": "小组赛·B组",
+  "match_id": "M3",
+  "slug": "2026-06-12_CAN_vs_BIH"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Canada claimed their first ever World Cup point as the co-hosts came from behind to rescue a 1-1 draw against Bosnia-Herzegovina. For long periods, Canada thought it wasn't their day. After Bosnia led through Jovo Lukic's close-range header from a corner, some wasteful finishing and equally stunning Bosnia-Herzegovina defending frustrated the co-hosts. Jonathan David and Tani Oluwaseyi missed golden first-half chances to score. In the second half, former Arsenal defender Sead Kolasinac and Nikola Katic both cleared off the line as the pressure from Jesse Marsch's side grew.   But Southampton striker Cyle Larin's finish from inside the box - his first touch after coming onto the pitch 121 seconds earlier - sent Toronto into delirium and rescued a point for the co-hosts. The key moments from Toronto... 17: Jonathan David misses a golden chance to give Canada the lead but fires straight at the goalkeeper when given a clear sight on goal. 21 : GOAL! Lukic puts Bosnia-Herezgovina in front after Kolasinac flicked on a corner. 32: Oluwaseyi gets a clear sight of goal in the box but blazes over the bar. 49: VAR checks a collision between Oluwaseyi and Bosnia's Nikola Vasilj in the box but gives no penalty as the keeper got the ball 53: OFF THE LINE! Canada's Laryea has a golden chance to equalise and beats the keeper - but Kolasinac somehow deflects it onto the bar and away to safety! 54: Bosnia break straight away and Ermedin Demirovic fails to convert a one-on-one when played through. 67: OFF THE LINE AGAIN! Bosnia's Katic denies Oluwaseyi's header by clearing off the line 79: GOAL! Southampton striker Larin scores two minutes after coming off the bench after a clever flick from fellow substitute Promise David. 90+6: Larin nearly wins it but his late effort is blocked by Tarik Muharemovic. Analysis: Jonathan David's form raises Canada questions Jonathan David is one of Canada's poster boys at this World Cup. After scoring at least 25 goals in each of his final three seasons at Lille, he created a reputation as one of the best strikers in Europe. But now it's time to question whether he should start up front for Canada on current form. He came into the tournament in poor form for new club Juventus, scoring just eight times in 46 games and in this World Cup opener, he looked a player short of confidence. His golden chance in the game saw him fire a big chance straight at the goalkeeper in the first half. He had just 24 touches, the lowest out of all of Canada's starters. What won't help his case is how substitutes Promise David and Cyle Larin - who have had much better club seasons than the Juventus man - looked much sharper after coming off the bench. Both players combined for Larin's equaliser and have put themselves in contention to start Canada's next game - a crucial must-win game against Qatar. Does Jesse Marsch stick with Jonathan David and hope he finds his confidence against Qatar? Or does he go with the sharper and more in-form options? Marsch: We had Bosnia, they were fading Canada head coach Jesse Marsch on what he said in the final drinks break to push the team to a equaliser: \"We felt like we had them. We were starting to push the game. The subs came on and the tempo got higher. We saw that Bosnia were fading. So I told them that: 'we've got them now, it's time to put your foot on the jugular and go for the goal'. \"I'm disappointed with the first half. We were tentative. We didn't play as aggressively as I would have liked. When we say we want to be aggressive and play intense and hard to play against, we actually [have to] do it. \"The second half, from the first second we stepped on the pitch, it was different. We have to learn these lessons, we have to learn quick. \"We still have everything in hand, that's a really big point for us to put ourselves in the group and make sure we're not losing any ground. But we have to make sure the next performance is a reflection and learning point from what we did today.\"",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

@@ -1,0 +1,24 @@
+{
+ "team": "AUS",
+ "coach": {
+  "name_zh": "托尼·波波维奇",
+  "name_en": "Tony Popovic",
+  "nationality": "Australia",
+  "career_since": "2009",
+  "person_id": "per_tony_popovic"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 托尼·波波维奇（Tony Popovic），澳大利亚籍，2009年开启执教生涯，2024年末中途接手澳大利亚国家队，率队征战2026世界杯周期。\n- 推行高度组织化的3-4-2-1体系，强调刚性防守结构、身体对抗与中场二点球控制，依赖翼卫拉开宽度，但面临如何为缺乏经验的前锋线创造机会的挑战。\n- 在2026世界杯预选赛亚洲区第三阶段，他上任后迅速改造球队，凭借边后卫阿齐兹·贝希奇对日本的绝杀终结十年不胜，直接锁定决赛圈席位。\n- 本届世界杯26人大名单大胆启用17名新人，首次征召克里斯蒂安·沃尔帕托与特特·延吉两名零出场前锋，同时由门将马修·瑞恩与前锋马修·莱基领衔第四次参赛追平队史纪录。\n- 作为2006年世界杯黄金一代的主力中卫，波波维奇需在温哥华首战土耳其时证明其紧凑、强硬的体系能在世界大赛奏效，并应对阿尔达·居莱尔对个人才华的考验。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.95,
+  "issues": []
+ },
+ "brief_fetched": "2026-06-13_1138",
+ "brief_info_chars": 4194
+}

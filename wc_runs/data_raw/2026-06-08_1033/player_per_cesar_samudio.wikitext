@@ -1,0 +1,85 @@
+{{short description|Panamanian footballer (born 1994)}}
+{{family name hatnote|Samudio|Murillo|lang=Spanish}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+|name                = César Samudio
+|image               = 
+|full_name           = César Jair Samudio Murillo<ref name=S>{{Soccerway|cesar-samudio/309245|accessdate=19 June 2024}}</ref>
+|birth_date          = {{Birth date and age|1994|2|23|df=y}}<ref>{{cite web |url=https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf |title=FIFA World Cup 2026: Squad List |publisher=[[FIFA]] |date=June 2, 2026 |access-date=June 2, 2026}}</ref>
+|birth_place         = [[Panama City]], Panama<ref name=S/>
+|height              = 1.88 m<ref name=S/>
+|position            = [[Goalkeeper (association football)|Goalkeeper]]
+|currentclub         = [[C.D. Marathón|Marathón]]
+|clubnumber          = 23
+|youthyears1         = 
+|youthclubs1         = 
+|years1              = 2013–2016 |clubs1 = [[Chepo F.C.|Chepo]]                       |caps1 = 27 |goals1 = 0
+|years2              = 2016–2017 |clubs2 = [[Atlético Veragüense]]                    |caps2 = 10 |goals2 = 0
+|years3              = 2018–2019 |clubs3 = [[Club Deportivo del Este|Costa del Este]] |caps3 = 8  |goals3 = 0
+|years4              = 2019      |clubs4 = [[C.D. Plaza Amador|Plaza Amador]]         |caps4 = 0  |goals4 = 0
+|years5              = 2020      |clubs5 = [[Club Deportivo del Este|Costa del Este]] |caps5 = 10 |goals5 = 0
+|years6              = 2021–2023 |clubs6 = [[C.A. Independiente de La Chorrera|CAI]]  |caps6 = 53 |goals6 = 0
+|years7              = 2023      |clubs7 = → [[C.D. Marathón|Marathón]] (loan)        |caps7 = 22 |goals7 = 0
+|years8              = 2023–     |clubs8 = [[C.D. Marathón|Marathón]]                 |caps8 = 41 |goals8 = 0
+|nationalyears1      = 2022–
+|nationalteam1       = [[Panama national football team|Panama]]
+|nationalcaps1       = 2
+|nationalgoals1      = 0
+|club-update         = 16 June 2024
+|nationalteam-update = 16 June 2024
+}}
+'''César Jair Samudio Murillo''' (born 23 February 1994) is a Panamanian professional [[association football|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for Honduran side [[C.D. Marathón|Marathón]] and the [[Panama national football team|Panama national team]].
+
+==Club career==
+Born in [[Panama City]], Samudio played as a senior for [[Chepo F.C.|Chepo]], [[Atlético Veragüense]],<ref>{{cite web|url=https://jmdeportes.com/futbol/futbol-nacional/lpf/veraguense-ficha-a-jugador-de-la-seleccion/|title=Veragüense ficha a jugador de la selección|trans-title=Veragüense sign a player from the national team|publisher=JM Deportes|language=es|date=11 July 2016|accessdate=19 June 2024}}</ref> [[Club Deportivo del Este|Costa del Este]], [[C.D. Plaza Amador|Plaza Amador]] and [[C.A. Independiente de La Chorrera|CAI]] in his home country. He won the [[2022 Liga Panameña de Fútbol]] with the latter, being named the Most Valuable Player of the competition.<ref>{{cite web|url=https://www.tvn-2.com/tvmax/somos-la-sele/panama-cesar-samudio-galardonado-gala_1_2025042.html|title=Panamá: César Samudio, el más galardonado en gala del fútbol panameño 2022|trans-title=Panama: César Samudio, the most awarded at the 2022 Panamanian football gala|publisher=[[TVN (Panamanian TV network)|TVN]]|language=es|date=14 December 2022|accessdate=19 June 2024}}</ref>
+
+On 7 January 2023, Samudio moved abroad and signed for [[C.D. Marathón|Marathón]] in Honduras.<ref>{{cite web|url=https://www.rpctv.com/futbol-internacional/futbol/cesar-samudio-mvp-la-lpf-ficha-el-cd-marathon-n5828005|title=César Samudio (MVP de la LPF) ficha por el CD Marathón|trans-title=César Samudio (LPF's MVP) signs for CD Marathón|publisher=[[RPC Televisión]]|language=es|date=7 January 2023|accessdate=19 June 2024}}</ref> Initially on loan, he signed a permanent contract until December 2026 with the club on 26 May.<ref>{{cite web|url=https://www.rpctv.com/futbol-internacional/futbol/el-cd-marathon-adquiere-ficha-completa-del-panameno-cesar-samudio-n5885245|title=El CD Marathón adquiere ficha completa del panameño César Samudio|trans-title=CD Marathón purchase the full rights of Panamanian César Samudio|publisher=[[RPC Televisión]]|language=es|date=26 May 2023|accessdate=19 June 2024}}</ref>
+
+==International career==
+Samudio received his first call-up to the [[Panama national football team|Panama]] in April 2022, for a non-[[FIFA]] [[Exhibition match|friendly]] against [[El Salvador national football team|El Salvador]].<ref>{{cite web|url=https://www.rpctv.com/marea-roja/cesar-samudio-se-respeta-lo-que-decida-cada-club-porque-no-es-fecha-fifa-n5700299|title=César Samudio: "Se respeta lo que decida cada club, porque no es fecha FIFA"|trans-title=César Samudio: "We respect what each club say, because it is not a FIFA date"|publisher=[[RPC Televisión]]|language=es|date=28 April 2022|accessdate=19 June 2024}}</ref> He made his debut on 1 May, starting in the 3–2 loss at the [[WakeMed Soccer Park]] in [[Cary, North Carolina]].
+
+Samudio's full international debut occurred on 10 June 2023, replacing [[Luis Mejía]] in a 3–2 win over [[Nicaragua national football team|Nicaragua]].
+
+== Honours ==
+'''Panama'''
+
+* [[CONCACAF Gold Cup]] runner-up: [[2023 CONCACAF Gold Cup|2023]]<ref>{{Cite web |title=Mexico 1-0 Panama (Jul 16, 2023) Final Score |url=https://www.espn.com/soccer/match/_/gameId/678990/panama-mexico |access-date=2025-03-27 |website=ESPN |language=en}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{NFT player|88012}}
+
+{{Navboxes
+| title = Panama squads
+| bg          = #DA121A
+| fg          = white
+| bordercolor = #072357
+| list =
+{{Panama squad 2023 CONCACAF Gold Cup}}
+{{Panama squad 2024 Copa América}}
+{{Panama squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Samudio, Cesar}}
+[[Category:1994 births]]
+[[Category:Living people]]
+[[Category:Footballers from Panama City]]
+[[Category:Panamanian men's footballers]]
+[[Category:21st-century Panamanian sportsmen]]
+[[Category:Panama men's international footballers]]
+[[Category:2024 Copa América players]]
+[[Category:Men's association football goalkeepers]]
+[[Category:Liga Panameña de Fútbol players]]
+[[Category:Liga Nacional de Fútbol Profesional de Honduras players]]
+[[Category:Chepo F.C. players]]
+[[Category:Atlético Veragüense players]]
+[[Category:Potros del Este players]]
+[[Category:C.D. Plaza Amador players]]
+[[Category:C.A. Independiente de La Chorrera players]]
+[[Category:C.D. Marathón players]]
+[[Category:Panamanian expatriate men's footballers]]
+[[Category:Panamanian expatriate sportspeople in Honduras]]
+[[Category:Expatriate men's footballers in Honduras]]
+[[Category:2026 FIFA World Cup players]]

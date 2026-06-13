@@ -1,0 +1,171 @@
+{{short description|German footballer (born 2004)}}
+{{Use dmy dates|date=January 2023}}
+{{Infobox football biography
+| name = Aleksandar Pavlović
+| image = File:FC RB Salzburg gegen FC Bayern München (2026-01-06 Testspiel) 34.jpg
+| caption = Pavlović with [[FC Bayern Munich|Bayern Munich]] in 2026
+| fullname = Aleksandar Pavlović<ref>{{cite web |url=https://fdp.fifa.org/assetspublic/ce233/pdf/SquadLists-English.pdf |title=FIFA Club World Cup 2025 – Squad List: FC Bayern München (GER) |publisher=[[FIFA]] |page=15 |date=11 June 2025 |access-date=11 June 2025}}</ref>
+| birth_date = {{birth date and age|2004|5|3|df=yes}}
+| birth_place = [[Munich]], Germany<ref name="auto">{{Cite web|url=https://www.bundesliga.com/en/bundesliga/player/aleksandar-pavlovic|title=Aleksandar Pavlovic |website=Bundesliga|access-date=24 October 2023}}</ref>
+| height = 1.88 m<ref>{{cite web | url = https://fcbayern.com/de/teams/profis/aleksandar-pavlovic | title = Aleksandar Pavlović | language = de | website = FC Bayern Munich | access-date = 5 March 2024}}</ref>
+| position = [[Midfielder#Defensive midfielder|Defensive midfielder]]
+| currentclub = [[FC Bayern Munich|Bayern Munich]]
+| clubnumber = 45
+| youthyears1 = 2010–2011
+| youthclubs1 = [[SC Fürstenfeldbruck]]
+| youthyears2 = 2011–2023
+| youthclubs2 = [[FC Bayern Munich Junior Team|Bayern Munich]]
+| years1 = 2023–2024
+| clubs1 = [[FC Bayern Munich II|Bayern Munich II]]
+| caps1 = 9
+| goals1 = 0
+| years2 = 2023–
+| clubs2 = [[FC Bayern Munich|Bayern Munich]]
+| caps2 = 64
+| goals2 = 6
+| nationalyears1 = 2023
+| nationalteam1 = [[Germany national under-20 football team|Germany U20]]
+| nationalcaps1 = 2
+| nationalgoals1 = 0
+| nationalyears2 = 2024–
+| nationalteam2 = [[Germany national football team|Germany]]
+| nationalcaps2 = 11
+| nationalgoals2 = 1
+| pcupdate = 15:32, 2 May 2026 (UTC)
+| ntupdate = 16:40, 6 June 2026 (UTC)
+}}
+'''Aleksandar Pavlović''' ({{lang-sr-Cyrl|Александар Павловић}}; born 3 May 2004) is a German professional [[Association football|footballer]] who plays as a [[Midfielder#Defensive midfielder|defensive midfielder]] for {{German football updater|BaMunich}} club [[FC Bayern Munich|Bayern Munich]] and the [[Germany national football team|Germany national team]]. He is known for his passing accuracy, vision and composure on the ball.<ref>{{Cite web|url=https://tribuna.com/en/news/2026-05-16-aleksandar-pavlovic-leads-europe-with-passing-accuracy-this-season|title=Aleksandar Pavlovic leads Europe with passing accuracy this season|date=16 May 2026|website=Tribuna.com|access-date=16 May 2026}}</ref>
+
+==Club career==
+===Youth career===
+Pavlović was an [[FC Bayern Munich Junior Team|academy of Bayern Munich]] youth product. He joined Bayern Munich in 2011 when he was seven years old from [[SC Fürstenfeldbruck]].<ref name="auto"/> On 23 July 2021, Pavlović extended his contract until 2022.<ref>{{Cite web|url=https://www.bavarianfootballworks.com/2021/7/23/22589849/bayern-munich-transfer-news-rumors-extend-contracts-youth-players-aydin-eberhart-pavlovic-reinelt|title=Bayern Munich extend contracts of four youth players, send one out on loan|first=Phillip|last=Quinn|date=23 July 2021|website=Bavarian Football Works|access-date=24 October 2023}}</ref> On 3 May 2022, he signed a contract with Bayern Munich until 2024.<ref>{{Cite web|url=https://www.sport1.de/news/fussball/bundesliga/2022/05/fc-bayern-verlangert-mit-talente-trio-jonathans-pavlovic-und-dibrani-bleiben|title=FC Bayern verlängert mit Talente-Trio: Jonathans, Pavlovic und Dibrani bleiben | language = de |date=3 May 2022|website=Sport1|access-date=24 October 2023}}</ref> That same month, he started training with the [[FC Bayern Munich|senior squad of Bayern Munich]] for the first time, subsequently appearing on the bench for a pair of [[Bundesliga]] matches.<ref>{{Cite web|url=https://sportbild.bild.de/bundesliga/vereine/bayern-muenchen/fc-bayern-top-talent-aleksandar-pavlovic-begeistert-thomas-tuchel-im-training-83774564.sport.html|title=FC Bayern: Top-Talent Aleksandar Pavlovic begeistert Thomas Tuchel im Training | language = de |date=2 May 2023|website=[[Bild]]|access-date=24 October 2023}}</ref>
+
+===Senior career===
+Pavlović played for the senior Bayern Munich in the pre-season in the summer of 2023.<ref>{{Cite web|url=https://sportal.blic.rs/fudbal/reprezentacija-srbije/aleksandar-pavlovic-biser-bajerna-igrace-za-srbiju-gledao-ga-i-piksijev-pomocnik/2023073008341586900|title=Biser Bajerna igraće za Srbiju! Piksijev pomoćnik otkrio novu pobedu nad Nemačkom|website=Sportal|access-date=24 October 2023}}</ref> He made his [[Bundesliga]] debut as a substitute in an 8–0 victory against [[SV Darmstadt 98|Darmstadt 98]] on 28 October 2023.<ref>{{Cite web|url=https://sportal.blic.rs/fudbal/medjunarodni-fudbal/bundesliga/bajern-pobedio-sa-80-hari-kejn-dao-gol-sa-pola-terena-neverovatan-mec-bundeslige-na-alijanc-areni/2023102815264179961|title=Nestvarne scene u Minhenu! Kejn ga dao sa pola, igralo se deset na devet, a Bavarci su brojali do osam: O ovom meču Bajerna će se pričati /VIDEO/|website=Sportal | language = sr | date = 28 October 2023 | access-date = 1 November 2023}}</ref> On 1 November 2023, he signed a professional contract with Bayern Munich until 2027.<ref>{{cite magazine| url = https://www.kicker.de/doppelte-premiere-pavlovic-erhaelt-profivertrag-bei-bayern-976783/artikel | title = Doppelte Premiere: Pavlovic erhält Profivertrag bei Bayern | language = de |magazine= [[Kicker (magazine)|Kicker]] | date = 1 November 2023 | access-date = 1 November 2023}}</ref> On 4 November, he provided his first assist in Bundesliga to the third goal scored by [[Harry Kane]] in a 4–0 away victory against [[Borussia Dortmund]].<ref>{{cite web |url=https://fcbayern.com/de/spiele/profis/bundesliga/2023-2024/borussia-dortmund-fc-bayern-muenchen-04-11-2023/spielbericht |title=Starke Bayern triumphieren im Klassiker beim BVB |publisher=FC Bayern Munich |language=de |date=4 November 2023 }}</ref> One week later, Pavlović made his first start in a 4–2 victory against [[1. FC Heidenheim]].<ref>{{cite web |url=https://fcbayern.com/en/news/2023/11/five-special-stories-from-the-heidenheim-clash |title=Five special stories from the Heidenheim match |publisher=FC Bayern Munich |date=11 November 2023 }}</ref> On 29 November, he made his [[UEFA Champions League|Champions League]] debut, coming off the bench in the 64th minute in a goalless draw against [[F.C. Copenhagen|Copenhagen]].<ref>{{cite web |url=https://fcbayern.com/en/matches/profis/champions-league/2023-2024/fc-bayern-muenchen-fc-kopenhagen-29-11-2023/report |title=Bayern held by Copenhagen |publisher=FC Bayern Munich |date=29 November 2023 }}</ref> On 27 January 2024, he scored his first goal in a Bundesliga 3–2 away victory against [[FC Augsburg|Augsburg]].<ref>{{cite web |url=https://www.beinsports.com/en-au/football/bundesliga/articles/bayern-munich-edge-thrilling-clash-with-augsburg-to-maintain-title-pressure-2024-01-27|url-status=dead|title=Bayern Munich edge thrilling clash with Augsburg to maintain title pressure|website=[[BeIN Sports]]|publisher=BeIN Media Group|date=27 January 2024|archive-url=https://web.archive.org/web/20240127171140/https://www.beinsports.com/en-au/football/bundesliga/articles/bayern-munich-edge-thrilling-clash-with-augsburg-to-maintain-title-pressure-2024-01-27|archive-date=27 January 2024}}</ref> Later that year, on 16 June, Pavlović extended his contract until 2029.<ref>{{cite web |url=https://fcbayern.com/en/news/2024/06/fc-bayern-extend-contract-with-aleksandar-pavlovi%C4%87-until-2029 |title=FC Bayern extend contract with Aleksandar Pavlović |publisher=FC Bayern Munich |date=16 June 2024 }}</ref>
+
+In the [[2024–25 Bundesliga|2024–25 season]], he achieved his first Bundesliga title with the club.<ref>{{cite web |last=Kovbasa |first=Ivan |url=https://tribuna.com/en/blogs/dreams-come-true-seven-years-ago-aleksandar-pavlovic-watched/ |title=Dreams come true: Seven years ago, Aleksandar Pavlovic watched Bayern's title win - now he's champion himself |publisher=Tribuna.com |date=16 May 2025 }}</ref> On 15 April 2026, he scored his first Champions League goal in a 4–3 win over [[Real Madrid CF|Real Madrid]] in the [[2025–26 UEFA Champions League knockout phase|quarter-finals]].<ref>{{cite web |last=Ramsay |first=George |url=https://www.nytimes.com/athletic/live-blogs/bayern-munich-vs-real-madrid-live-updates-champions-league-score-result/0a9rKBvUokd8/YoaRQ1kID6pi/ |title=Pavlovic's first Champions League goal |publisher=The New York Times |date=15 April 2026 }}</ref>
+
+==International career==
+Born in Germany to a [[Serbs|Serbian]] father and a [[Germans|German]] mother,<ref>{{cite web | url = https://onefootball.com/en/news/debutant-aleksandar-pavlovic-discusses-maiden-germany-nomination-39204475 | title = Debutant Aleksandar Pavlović discusses maiden Germany nomination | website = Onefootball | date = 11 March 2024 | access-date = 28 June 2025 | first = Daniel | last = Pinder}}</ref><ref name="Soccerway profile">{{soccerway|aleksandar-pavlovic/671281|accessdate=31 October 2023}}</ref><ref>{{Cite web |title=Aleksandar Pavlović: Who is Bayern Munich's homegrown midfield master? |url=https://www.bundesliga.com/en/bundesliga/news/aleksandar-pavlovic-who-is-bayern-munich-s-homegrown-midfielder-germany-serbia-25235 |access-date=5 June 2025|website=Bundesliga}}</ref> Pavlović holds dual citizenship.<ref>{{Cite web|url=https://www.nogomania.com/article/Bayern-Munich-coach-Thomas-Tuchel-considers-promoting-Serbian-talent-Aleksandar-Pavlovic-to-first-team|title=Bayern Munich coach Thomas Tuchel considers promoting Serbian talent Aleksandar Pavlović to first team|website=Nogomania|date=28 August 2023|access-date=24 October 2023}}</ref> In September 2021, he was called up to the [[Serbia national under-18 football team|Serbia U18]] for a set of friendly matches.<ref>{{Cite web | url = https://fss.rs/u18-mladji-omladinci-imaju-dve-provere-u-sloveniji/ | script-title = sr:U18 {{!}} Млађи Омладинци Имају Две Провере У Словенији|publisher=[[Football Association of Serbia]]| language = sr | date = 13 September 2021 | access-date=24 October 2023}}</ref> In November 2023, Pavlović was called up to the [[Germany national under-20 football team]].<ref>{{Cite web|url=https://www.sport.de/news/ne5818898/fc-bayern-fcb-juwel-fuer-nationalmannschaft-nominiert/|title=Bayern-Juwel für Nationalmannschaft nominiert|website=sport.de|date=10 November 2023|access-date=5 June 2025}}</ref>
+
+On 14 March 2024, Pavlović was called up for the [[Germany national football team|German senior squad]] by head coach [[Julian Nagelsmann]] for the friendly matches against [[France national football team|France]] and the [[Netherlands national football team|Netherlands]].<ref>{{cite web |date=14 March 2024 |title=Start ins EM-Jahr mit sechs Neulingen und sechs Rückkehrern |url=https://www.dfb.de/news/detail/start-ins-em-jahr-mit-sechs-neulingen-und-sechs-rueckkehrern-259584/ |url-status=live |archive-url=https://web.archive.org/web/20240402201335/https://www.dfb.de/news/detail/start-ins-em-jahr-mit-sechs-neulingen-und-sechs-rueckkehrern-259584/ |archive-date=2 April 2024 |access-date=14 March 2024 |publisher=[[German Football Association]] |language=de}}</ref> However, he missed both fixtures due to suffering from [[tonsillitis]].<ref>{{cite web |url=https://www.dfb.de/news/detail/pavlovic-to-miss-games-against-france-and-the-netherlands-259761/|url-status=dead|title=Pavlovic to miss games against France and the Netherlands |publisher=German Football Association |date=19 March 2024|archive-url=https://web.archive.org/web/20240319233245/https://www.dfb.de/news/detail/pavlovic-to-miss-games-against-france-and-the-netherlands-259761/|archive-date=19 March 2024}}</ref>
+
+Pavlović was selected in the German preliminary squad for the [[UEFA Euro 2024]].<ref>{{cite web | url = https://www.br.de/nachrichten/sport/aleksandar-pavlovic-vom-fc-bayern-steht-im-em-kader,UCde1Z3 | title = Aleksandar Pavlovic vom FC Bayern steht im EM-Kader | language = de | website=[[BR24]]|date=13 May 2024 | access-date=14 May 2024}}</ref><ref>{{cite web |url=https://www.dfb.de/news/detail/bundestrainer-nagelsmann-gibt-kader-fuer-heim-em-bekannt-261479/|title=Bundestrainer Nagelsmann gibt kader für heim-em bekannt|date=16 May 2024|publisher=[[German Football Association]] |access-date=16 May 2024|language=de }}</ref> He made his senior debut on 3 June in a friendly match against [[Ukraine national football team|Ukraine]] prior to the tournament.<ref>{{cite web |url=https://www.rnd.de/sport/deutschland-ukraine-die-einzelkritik-der-dfb-elf-im-ueberblick-FSJBWFPFJJBV7GLCQ7K2REIUX4.html |title=Kein Tor gegen die Ukraine: Vier Zweien, aber auch eine Fünf für DFB-Stars|publisher=[[RedaktionsNetzwerk Deutschland]]|language=de |date=3 June 2024 }}</ref> Pavlović was confirmed in Germany's final 26-man squad,<ref>{{cite web|url=https://olympics.com/en/news/uefa-euro-2024-all-squads-and-players-full-list|title=UEFA Euro 2024: All squads and players full list|date=7 June 2024|access-date=5 June 2025|website=Olympics Committee}}</ref> but had to withdraw due to an illness.<ref>{{cite web|url=https://www.dfb.de/news/detail/pavlovic-verpasst-em-can-nachnominiert-262267/|title=Pavlovic verpasst EM – Can nachnominiert|publisher=German Football Association|date=12 June 2024|access-date=5 June 2025|language=de}}</ref> On 7 September 2024, he scored his first goal for Germany in a 5–0 victory against [[Hungary national football team|Hungary]] during the [[2024–25 UEFA Nations League A|UEFA Nations League]].<ref>{{cite web |url=https://www.dw.com/en/germany-hammer-hungary-5-0-in-nations-league-match/a-70162964 |title=Germany hammer Hungary 5-0 in Nations League |publisher=[[Deutsche Welle]]|date=7 September 2024 }}</ref>
+
+On 21 May 2026, he was selected in Germany’s 26-man squad for the [[2026 FIFA World Cup]].<ref>{{cite web|url=https://www.dfb.de/news/bundestrainer-nagelsmann-gibt-wm-kader-bekannt|title=Bundestrainer Nagelsmann gibt WM-Kader bekannt|publisher=[[German Football Association]]|language=de|date=21 May 2026|access-date=21 May 2026}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 23 May 2026}}<ref name="Soccerway profile"/>
+
+{| class="wikitable" Style="text-align: center"
+|+ Appearances and goals by club, season and competitions
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|[[DFB-Pokal]]
+!colspan="2"|[[UEFA#Club|Europe]]
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="3"|[[FC Bayern Munich II|Bayern Munich II]]
+|[[2022–23 Regionalliga#Regionalliga Bayern|2022–23]]
+|[[Regionalliga Bayern]]
+|6||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||6||0
+|-
+|[[2023–24 Regionalliga#Regionalliga Bayern|2023–24]]
+|Regionalliga Bayern
+|3||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||3||0
+|-
+!colspan="2"|Total
+!9!!0!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!9!!0
+|-
+|rowspan="4"|[[FC Bayern Munich|Bayern Munich]]
+|[[2023–24 FC Bayern Munich season|2023–24]]
+|[[Bundesliga]]
+|19||2||0||0||3{{efn|Appearances in [[UEFA Champions League]]|name=UCL}}||0||colspan="2"|—||22||2
+|-
+|[[2024–25 FC Bayern Munich season|2024–25]]
+|Bundesliga
+|21||1||2||0||5{{efn|name=UCL}}||0||5{{efn|Appearances in [[FIFA Club World Cup]]}}||0||33||1
+|-
+|[[2025–26 FC Bayern Munich season|2025–26]]
+|Bundesliga
+|24||3||6||0||14{{efn|name=UCL}}||1||0||0||44||4
+|-
+!colspan="2"|Total
+!64!!6!!8!!0!!22!!1!!5!!0!!99!!7
+|-
+!colspan="3"|Career total
+!73!!6!!8!!0!!22!!1!!5!!0!!108!!7
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 6 June 2026}}<ref name=eufoot>{{cite web | url = https://eu-football.info/_player.php?id=32732| title = Aleksandar Pavlović international matches| website = EU-Football.info| date = 3 June 2024| access-date = 3 June 2024}}</ref>
+
+{| class="wikitable" style="text-align: center"
+|+ Appearances and goals by national team and year
+!National team!!Year!!{{Tooltip|Apps|Appearances}}!!Goals
+|-
+|rowspan=3|[[Germany national football team|Germany]]
+|2024||4||1
+|-
+|2025||5||0
+|-
+|2026||2||0
+|-
+!colspan="2"|Total!!11!!1
+|}
+
+{{updated|match played 14 October 2024}}<ref name=eufoot/>
+:''Scores and results list Germany's goal tally first.''
+
+{| class="wikitable sortable"
+|+ List of international goals scored by Aleksandar Pavlović
+! No. !! Date !! Venue !! Cap !! Opponent !! Score !! Result !! Competition
+|-
+| align=center| 1 || 7 September 2024 || [[Merkur Spiel-Arena]], Düsseldorf, Germany || align=center| 2 || {{fb|HUN}} || align=center| 4–0 || align=center| 5–0 || 
+[[2024–25 UEFA Nations League A]]
+|}
+
+==Honours==
+'''Bayern Munich'''
+*[[Bundesliga]]: [[2024–25 Bundesliga|2024–25]],<ref>{{Cite web |date=4 May 2025|title=FC Bayern München deutscher Meister 2025: Leverkusen patzt gegen Freiburg in Bundesliga |url=https://www.faz.net/aktuell/sport/fussball/bundesliga/fc-bayern-muenchen-deutscher-meister-2025-leverkusen-patzt-gegen-freiburg-in-bundesliga-110402738.html |access-date=5 June 2025|website=FAZ.NET |language=de}}</ref> [[2025–26 Bundesliga|2025–26]]<ref>{{cite web | url = https://www.kicker.de/bayern-gegen-stuttgart-2026-bundesliga-5051012/spielbericht | title = Bayern dreht nach Rückstand auf und kürt sich vorzeitig zum Deutschen Meister | language = de | website = kicker.de | date = 19 April 2026 | access-date = 19 April 2026}}</ref>
+* [[DFB-Pokal]]: [[2025–26 DFB-Pokal|2025–26]]<ref>{{cite web | url = https://www.kicker.de/bayern-gegen-stuttgart-2026-dfb-pokal-5199090/ticker| title = Hattrick Kane: Bayern gewinnt nach sechs Jahren Wartezeit den DFB-Pokal | language = de | website = kicker.de | date = 23 May 2026 | access-date = 23 May 2026}}</ref>
+* [[Franz Beckenbauer Supercup]]: [[2025 Franz Beckenbauer Supercup|2025]]<ref>{{cite web | url = https://www.spiegel.de/sport/fussball/sieg-ueber-den-vfb-stuttgart-bayern-muenchen-ist-der-erste-gewinner-des-franz-beckenbauer-supercups-a-7a83e553-46f8-4c53-b549-09044133eec0 | title = Bayern München ist der erste Gewinner des Franz-Beckenbauer-Supercups | language = de | website = Spiegel | date = 16 August 2025 | access-date = 16 August 2025}}</ref>
+
+'''Individual'''
+*[[Bundesliga]] Goal of the Month: [[2024–25 Bundesliga#Monthly awards|September 2024]]<ref>{{cite news|url=https://www.bundesliga.com/en/bundesliga/news/2024-25-goal-of-the-month-season-vote-28780|title=Aleksandar Pavlović wins September's Bundesliga Goal of the Month!|publisher=Bundesliga|date=11 October 2024|access-date=11 October 2024}}</ref>
+*[[Bundesliga Awards#Team of the Season|Bundesliga Team of the Season]]: [[2025–26 Bundesliga#Team of the Season|2025–26]]<ref>{{cite news|title=Check out the EA SPORTS FC 26 Bundesliga Team of the Season!|url=https://www.bundesliga.com/en/bundesliga/news/team-of-the-season-ea-sports-fc-26-voting-36810|date=29 April 2026|access-date=21 May 2026|publisher=Bundesliga}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://fcbayern.com/en/teams/first-team/aleksandar-pavlovic Profile] at the FC Bayern Munich website
+* {{DFB|aleksandar-pavlovic}}
+* {{Soccerway|aleksandar-pavlovic/671281}}
+* {{UEFA player}}
+
+{{FC Bayern Munich squad}}
+{{Germany squad 2026 FIFA World Cup}}
+{{Authority control}}
+
+{{DEFAULTSORT:Pavlovic, Aleksandar}}
+[[Category:2004 births]]
+[[Category:Living people]]
+[[Category:Footballers from Munich]]
+[[Category:German men's footballers]]
+[[Category:German people of Serbian descent]]
+[[Category:FC Bayern Munich footballers]]
+[[Category:FC Bayern Munich II players]]
+[[Category:Bundesliga players]]
+[[Category:Regionalliga players]]
+[[Category:Men's association football midfielders]]
+[[Category:Germany men's youth international footballers]]
+[[Category:Germany men's international footballers]]
+[[Category:21st-century German sportsmen]]
+[[Category:2026 FIFA World Cup players]]

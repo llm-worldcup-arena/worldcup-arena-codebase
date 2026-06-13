@@ -1,0 +1,141 @@
+{{Short description|Ghanaian footballer (born 2004)}}
+{{Infobox football biography
+|name = Kojo Peprah Oppong 
+|full_name = 
+|birth_date = {{birth date and age|2004|6|4|df=y}}
+|birth_place = [[Accra]], Ghana 
+|height = 1.88 m
+|position = [[Defender (association football)|Defender]]
+|currentclub = [[OGC Nice|Nice]]
+|clubnumber = 37
+|years1 = {{0|0000}}–2022
+|clubs1 = [[Attram De Visser Soccer Academy|Attram De Visser]]
+|years2 = 2023–2025
+|clubs2 = [[IFK Norrköping]]
+|caps2  = 16
+|goals2 = 0
+|years3 = 2023–2024
+|clubs3 = → [[GIF Sundsvall]] (loan)
+|caps3  = 38
+|goals3 = 0
+|years4 = 2025–
+|clubs4 = [[OGC Nice|Nice]]
+|caps4  = 29
+|goals4 = 1
+|nationalyears1 = 2025–
+|nationalteam1 = [[Ghana national football team|Ghana]]
+|nationalcaps1 = 4
+|nationalgoals1 = 0
+|pcupdate = 17 May 2026
+|ntupdate = 30 March 2026
+}}
+
+'''Kojo Peprah Oppong ''' (born 4 June 2004) is a French-Ghanaian<ref>{{Cite web |last=Demba |first=Varore |date=24 April 2024 |title=Kojo Peprah Oppong : "Depuis tout petit, j'ai baigné dans la culture ghanéenne" - Football |url=https://sportnewsafrica.com/news-football/montpellier-modibo-sagnan-depuis-tout-petit-jai-baigne-dans-la-culture-malienne/ |access-date=7 August 2025 |website=Sport News Africa |language=fr-FR}}</ref> professional [[association football|footballer]] who plays as a [[Defender (association football)|defender]] for [[Ligue 1]] club [[OGC Nice|Nice]] and the [[Ghana national football team|Ghana national team]].
+
+==Early life==
+Peprah Oppong was born on 4 June 2004 in [[Accra]], Ghana. The son of Cecilia and Joseph, he has a sister. He holds [[French nationality]] from his mother.<ref>{{Cite web|url=https://www.nt.se/story-sport/fotboll/artikel/smog-ut-pa-morgnarna-i-jakt-pa-drommen-mamma-hjalpte-mig/jvdg0y1j|title=Han smög ut på morgnarna – i jakt på drömmen: "Mamma hjälpte mig"|trans-title=He sneaked out in the mornings – in pursuit of the dream: "Mom helped me"|language=sv|publisher=[[Norrköpings Tidningar]]|date=25 March 2025|access-date=7 August 2025}}</ref><ref>{{Cite web |last=Demba |first=Varore |date=24 April 2024 |title=Kojo Peprah Oppong : "Depuis tout petit, j'ai baigné dans la culture ghanéenne" - Football |url=https://sportnewsafrica.com/news-football/montpellier-modibo-sagnan-depuis-tout-petit-jai-baigne-dans-la-culture-malienne/ |access-date=7 August 2025 |website=Sport News Africa |language=fr-FR}}</ref>
+
+==Club career==
+Peprah Oppong started his career with Ghanaian side [[Attram De Visser Soccer Academy|Attram De Visser]]. Following his stint there, he signed for Swedish side [[IFK Norrköping]] in 2023, where he made sixteen league appearances and scored zero goals.
+
+During the summer of the same year, he was sent on loan to Swedish side [[GIF Sundsvall]], where he made thirty-eight league appearances and scored zero goals. Ahead of the [[2025–26 Ligue 1|2025–26 season]], he signed for French [[Ligue 1]] side [[OGC Nice|Nice]].<ref>{{Soccerway|888675}}</ref>
+
+==International career==
+In October 2025, Peprah Oppong earned his maiden invitation to the [[Ghana national football team|Ghana senior national team]].<ref>{{cite web |last=Taiwo |first=Taiye |title=Exclusive: OGC Nice Defender Kojo Peprah Oppong Set for Maiden Ghana Call-Up |url=https://www.sportsboom.com/football/exclusive-ogc-nice-defender-oppong-set-for-maiden-ghana-callup/ |access-date=18 October 2025 |website=SportsBoom}}</ref> He made his international debut in a [[2026 FIFA World Cup qualification|2026 FIFA World Cup qualifier]] against [[Comoros national football team|Comoros]] at the [[Accra Sports Stadium]] on 12 October 2025.
+
+==Style of play==
+Peprah Oppong plays as a [[Defender (association football)|defender]] and is right-footed. French news website wrote in 2025 that he is "a solid defender, strong on the man and very lively... a versatile central defender... can play on either the right or left flank".<ref>{{Cite web|url=https://quatretroistrois.fr/qui-est-kojo-peprah-oppong-5eme-recrue-de-logc-nice/|title=Qui est Kojo Peprah Oppong, 5ème recrue de l’OGC Nice?|trans-title=Who is Kojo Peprah Oppong, OGC Nice's 5th signing?|language=fr|publisher=QuatreTroisTrois|date=23 July 2025|access-date=7 August 2025}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 29 May 2026}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup
+!colspan="2"|Europe
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="3"|[[IFK Norrköping]]
+|[[2023 IFK Norrköping season|2023]]
+|[[Allsvenskan]]
+|1||0||2||0||colspan="2"|—||colspan="2"|—||3||0
+|-
+|[[2025 Allsvenskan|2025]]
+|Allsvenskan
+|15||0||5||0||colspan="2"|—||colspan="2"|—||20||0
+|-
+!colspan="2"|Total
+!16!!0!!7!!0!!colspan="2"|—!!colspan="2"|—!!23!!0
+|-
+|rowspan="3"|[[GIF Sundsvall]] (loan)
+|[[2023 Superettan|2023]]
+|[[Superettan]]
+|11||0||1||0||colspan="2"|—||colspan="2"|—||12||0
+|-
+|[[2024 GIF Sundsvall season|2024]]
+|Superettan
+|27||0||3||0||colspan="2"|—||colspan="2"|—||30||0
+|-
+!colspan="2"|Total
+!38!!0!!4!!0!!colspan="2"|—!!colspan="2"|—!!42!!0
+|-
+|[[OGC Nice|Nice]]
+|[[2025–26 Ligue 1|2025–26]]
+|[[Ligue 1]]
+|29||1||5||0||7{{efn|Two appearances in [[UEFA Champions League]], five appearances in [[UEFA Europa League]]}}||0||2{{efn|Appearances in [[Ligue 1 relegation/promotion play-offs]]}}||0||43||1
+|-
+!colspan="3"|Career total
+!83!!1!!16!!0!!7!!0!!2!!0!!108!!1
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 30 March 2026}}<ref>{{NFT player|id=101381}}</ref>
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="2"|[[Ghana national football team|Ghana]]
+|2025||3||0
+|-
+|2026||1||0
+|-
+!colspan="2"|Total!!4!!0
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Soccerway|888675}}
+
+{{OGC Nice squad}}
+{{Ghana squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Peprah Oppong, Kojo}}
+[[Category:2004 births]]
+[[Category:Living people]]
+[[Category:Footballers from Accra]]
+[[Category:Ghanaian men's footballers]]
+[[Category:Men's association football defenders]]
+[[Category:GIF Sundsvall players]]
+[[Category:IFK Norrköping players]]
+[[Category:OGC Nice players]]
+[[Category:Allsvenskan players]]
+[[Category:Superettan players]]
+[[Category:Ligue 1 players]]
+[[Category:Ghana men's international footballers]]
+[[Category:Ghanaian expatriate men's footballers]]
+[[Category:Ghanaian expatriate sportspeople in France]]
+[[Category:Ghanaian expatriate sportspeople in Sweden]]
+[[Category:Expatriate men's footballers in France]]
+[[Category:Expatriate men's footballers in Sweden]]
+[[Category:2026 FIFA World Cup players]]

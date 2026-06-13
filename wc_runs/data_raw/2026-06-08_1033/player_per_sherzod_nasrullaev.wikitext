@@ -1,0 +1,101 @@
+{{Short description|Uzbek footballer (born 1998)}}
+{{Infobox football biography
+| name = Sherzod Nasrullaev
+| birth_name = Sherzod Innatillo oʻgʻli Nasrullayev
+| image = Sherzod Nasrullayev.jpg
+| birth_date = {{birth date and age|1998|7|23}}
+| birth_place = [[Koson, Uzbekistan]]
+| height = {{height|m=1.80}}<ref>{{Cite web|url=https://teams.by/sherzod-nasrullayev/player-154244/|title=Насруллаев Шерзод - Nasrullayev Sherzod - профиль футболиста, игрока - teams.by|website=teams.by|access-date=2024-01-03|archive-date=2024-01-03|archive-url=https://web.archive.org/web/20240103201500/https://teams.by/sherzod-nasrullayev/player-154244/|url-status=live}}</ref>
+| position = [[Left-back]]
+| currentclub = [[FC Nasaf|Nasaf]]
+| clubnumber = 34
+| youthyears1 = 
+| youthclubs1 = [[FC Nasaf|Nasaf]]
+| years1 = 2018–
+| clubs1 = [[FC Nasaf|Nasaf]]
+| caps1 = 134
+| goals1 = 7
+| nationalyears1 = 2018
+| nationalteam1 = [[Uzbekistan national under-21 football team|Uzbekistan U21]]
+| nationalcaps1 = 3
+| nationalgoals1 = 1
+| nationalyears2 = 2019
+| nationalteam2 = [[Uzbekistan national under-23 football team|Uzbekistan U23]]
+| nationalcaps2 = 1
+| nationalgoals2 = 0
+| nationalyears3 = 2022–
+| nationalteam3 = [[Uzbekistan national football team|Uzbekistan]]
+| nationalcaps3 = 29
+| nationalgoals3 = 2
+| medaltemplates = {{MedalCountry|{{fb|UZB}}}}
+{{Medal|Competition|[[CAFA Nations Cup]]}}
+{{Medal|RU|[[2023 CAFA Nations Cup|2023 Kyrgyzstan–Uzbekistan]]|[[2023 CAFA Nations Cup squads#Uzbekistan|Team]]}}
+| ntupdate = 18 January 2024
+| pcupdate = 10 August 2025
+}}
+
+'''Sherzod Innatillo oʻgʻli Nasrullayev''' ([[Cyrillic|Uzbek Cyrillic]]: Шерзод Иннатилло ўғли Насруллаев; born 23 July 1998) is an Uzbek professional footballer who plays as a [[left-back]] for [[FC Nasaf|Nasaf]] and the [[Uzbekistan national football team|Uzbekistan national team]].
+
+==Club career==
+Nasrullaev began his senior career with [[FC Nasaf|Nasaf]] in 2018. He helped them win 3 consecutive [[Uzbekistan Cup]]s and 1 [[Uzbekistan Super Cup]].<ref>{{Cite web|url=https://kun.uz/ru/60244623|title="Насаф" — обладатель Кубка Узбекистана в третий раз подряд|first=Kun|last=uz|website=Kun.uz|access-date=2024-01-03|archive-date=2024-01-03|archive-url=https://web.archive.org/web/20240103201500/https://kun.uz/ru/60244623|url-status=live}}</ref>
+
+==International career==
+Nasrullaev was called up to the [[Uzbekistan national under-21 football team|Uzbekistan U21]]s to a youth tournament in 2018, and won the prize for "goal of the tournament" for his game-winning goal in the final.<ref>{{Cite web|url=https://kun.uz/ru/91676345|title=Футбол: "молодежка" Узбекистана стала победителем турнира в Китае|first=Kun|last=uz|website=Kun.uz|access-date=2024-01-03|archive-date=2024-01-03|archive-url=https://web.archive.org/web/20240103201501/https://kun.uz/ru/91676345|url-status=live}}</ref> He was part of the [[Uzbekistan national under-23 football team|Uzbekistan U23]]s at the [[2020 AFC U-23 Championship]].<ref>{{Cite web|url=http://www.ufa.uz/2019/12/15/ozbekiston-u-23-terma-jamoasi-ertaga-baaga-yol-oladi|title=Ўзбекистон U-23 терма жамоаси эртага БААга йўл олади|website=ufa.uz|access-date=2024-01-03|archive-date=2019-12-16|archive-url=https://web.archive.org/web/20191216113412/http://www.ufa.uz/2019/12/15/ozbekiston-u-23-terma-jamoasi-ertaga-baaga-yol-oladi|url-status=dead}}</ref>
+
+Nasrullaev was first called up to the senior [[Uzbekistan national football team|Uzbekistan national team]] in 2022.<ref>{{Cite web|url=http://kazfootball.kz/news/68459|title=Сборная Казахстана в товарищеском матче всухую уступила Узбекистану|website=kazfootball.kz|access-date=2024-01-03|archive-date=2024-01-03|archive-url=https://web.archive.org/web/20240103201500/http://kazfootball.kz/news/68459|url-status=live}}</ref> He was called up to the national team for the [[2023 AFC Asian Cup]].<ref>{{Cite web|url=https://xabar.uz/g4jx|title=Ўзбекистон терма жамоасининг Осиё Кубогида қатнашадиган таркиби эълон қилинди|website=xabar.uz|access-date=2024-01-03|archive-date=2024-01-18|archive-url=https://web.archive.org/web/20240118153445/https://xabar.uz/g4jx|url-status=live}}</ref>
+
+===International goals===
+{| class="wikitable sortable"
+|-
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+|-
+| align="center"|1 || 18 January 2024 || [[Ahmad bin Ali Stadium]], [[Al Rayyan (city)|Al Rayyan]], Qatar || {{fb|IND}} || align="center"|3–0 || align="center"|3–0 || [[2023 AFC Asian Cup Group B|2023 AFC Asian Cup]]
+|-
+| align="center"|2 || 6 June 2024 || [[Milliy Stadium]], [[Tashkent]], Uzbekistan || {{fb|TKM}}|| align="center"|3–1 || align="center"|3–1 || [[2026 FIFA World Cup qualification]]
+|}
+
+==Honours==
+'''Nasaf'''
+*[[Uzbekistan Cup]]: [[2021 Uzbekistan Cup|2021]], [[2022 Uzbekistan Cup|2022]], [[2023 Uzbekistan Cup|2023]]
+*[[Uzbekistan Super Cup]]: [[Uzbekistan Super Cup|2023]]
+
+==References==
+{{reflist|2}}
+
+==External links==
+* {{Soccerway|sherzod-nasrullayev/562659}}
+* {{NFT player|85580}}
+
+{{FC Nasaf squad}}
+{{Navboxes
+| title = Uzbekistan squads
+| bg = #0099B5
+| fg = white 
+| bordercolor = #CE1126
+| list =
+{{Uzbekistan squad 2023 AFC Asian Cup}}
+{{Uzbekistan squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Nasrullaev, Sherzod}}
+[[Category:1998 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Qashqadaryo Region]]
+[[Category:Uzbekistani men's footballers]]
+[[Category:21st-century Uzbekistani sportsmen]]
+[[Category:Uzbekistan men's international footballers]]
+[[Category:Uzbekistan men's youth international footballers]]
+[[Category:2023 AFC Asian Cup players]]
+[[Category:Men's association football full-backs]]
+[[Category:FC Nasaf players]]
+[[Category:Uzbekistan Super League players]]
+[[Category:2026 FIFA World Cup players]]
+
+
+{{Uzbekistan-footy-bio-stub}}

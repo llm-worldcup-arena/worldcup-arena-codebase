@@ -1,0 +1,597 @@
+{{Short description|none}}
+{{protection padlock|small=yes}}
+{{Use dmy dates|date=November 2024}}
+{{Infobox international football competition
+| tourney_name   = 2026 FIFA World Cup qualification (UEFA)
+| dates          = {{nowrap|21 March 2025 – 31 March 2026}}
+| num_teams      = 54
+| confederations = 1
+| matches        = 204
+| goals          = 676
+| attendance     = {{#expr: <!--Group A--> 9214 + 20013 + 8487 + 43169 + 18109 + 25249 + 17926 + 13010 + 9214 + 12093 + 18037 + 40120 + <!--Group B--> 15679 + 33996 + 12887 + 12757 + 12268 + 50151 + 14637 + 36571 + 15382 + 26458 + 11215 + 25724 + <!--Group C--> 14936 + 35369 + 0 + 31172 + 0 + 46006 + 49346 + 35623 + 18405 + 35493 + 0 + 49587 + <!--Group D--> 4021 + 38973 + 8450 + 40150 + 9111 + 40150 + 9151 + 6995 + 4300 + 41055 + 29700 + 20004 + <!--Group E--> 44238 + 40582 + 44077 + 32059 + 10059 + 28661 + 26633 + 24526 + 44314 + 42756 + 1980 + 30812 + <!--Group F--> 14403 + 51137 + 13144 + 61473 + 57285 + 48821 + 42292 + 47854 + 14247 + 50717 + 59411 + 46702 + <!--Group G--> 5106 + 55738 + 10421 + 45872 + 2785 + 29483 + 16511 + 21006 + 7854 + 40904 + 14797 + 50897 + 15819 + 9254 + 52387 + 11741 + 13577 + 56278 + 10326 + 46913 + <!--Group H--> 2336 + 49413 + 7464 + 3556 + 11828 + 48500 + 45324 + 3075 + 16300 + 2740 + 11700 + 4875 + 37500 + 2355 + 598 + 39581 + 6012 + 11459 + 48000 + 8426 + <!--Group I--> 9342 + 270 + 6112 + 1200 + 5967 + 25796 + 11577 + 18771 + 7242 + 22559 + 2540 + 24605 + 19363 + 11913 + 4731 + 9965 + 25493 + 9526 + 3312 + 69020 + <!--Group J--> 4094 + 32473 + 1123 + 23114 + 23070 + 30646 + 27694 + 33653 + 28219 + 3158 + 8693 + 15119 + 26539 + 18583 + 19929 + 32803 + 28012 + 5563 + 26253 + 32154 + <!--Group K--> 957 + 82378 + 17183 + 79572 + 8872 + 20427 + 6083 + 7576 + 6238 + 39202 + 16568 + 39789 + 5027 + 4320 + 987 + 10404 + 2225 + 74289 + 21459 + 3894 + <!--Group L--> 3021 + 8978 + 583 + 3226 + 10889 + 1516 + 2632 + 12207 + 4632 + 6315 + 1603 + 21209 + 18870 + 2034 + 2980 + 7579 + 668 + 7846 + 6587 + 4673 + <!--Second round--> 23439 + 32487 + 9500 + 18846 + 56412 + 49627 + 38979 + 20113 + 12887 + 35746 + 19137 + 18215}}
+| top_scorer     = {{fbicon|NOR}} [[Erling Haaland]] (16 goals)
+| prevseason     = [[2022 FIFA World Cup qualification (UEFA)|2022]]
+| nextseason     = ''2030''
+}}
+{{Qualification for championships (UEFA)|expanded=FIFA}}
+The European section of the '''[[2026 FIFA World Cup qualification]] competition''' acted as qualifiers for the [[2026 FIFA World Cup]], to be held in Canada, Mexico and the United States, for national teams that are members of the Union of European Football Associations ([[UEFA]]). A total of 16 slots in the final tournament were available for UEFA teams.
+
+==Format==
+A revised qualification format was confirmed by the UEFA Executive Committee during their meeting in [[Nyon]], Switzerland, on 25 January 2023. As the number of final tournament slots for UEFA has increased from 13 to 16,<ref>{{cite web |date=9 May 2017 |title=FIFA Council prepares Congress, takes key decisions for the future of the FIFA World Cup |url=https://www.fifa.com/about-fifa/organisation/fifa-council/media-releases/fifa-council-prepares-congress-takes-key-decisions-for-the-future-of-t-2883353 |url-status=live |archive-url=https://web.archive.org/web/20251112225419/https://www.bbc.com/news/articles/c3rj0d97ynvo |archive-date=2025-11-12 |access-date=30 January 2023 |publisher=[[FIFA]]}}</ref> the qualification format was modified from the [[2022 FIFA World Cup qualification (UEFA)|previous cycle]]. The qualifying group stage featured six groups of four and six groups of five teams. The winner of each group qualified for the World Cup, while the second-placed teams advanced to the play-offs, along with the four best-ranked group winners from the [[2024–25 UEFA Nations League]] that finished outside the top two of their World Cup qualifying group.<ref name="new formats">{{cite news |url=https://www.uefa.com/news-media/news/027d-1727b3b1e199-61019185e2c8-1000/ |title=New formats for UEFA men's national team competitions approved |publisher=[[UEFA]] |date=25 January 2023 |access-date=25 January 2023}}</ref> On 28 June 2023, the UEFA Executive Committee formally recommended the qualification format to FIFA,<ref>{{cite news |url=https://www.uefa.com/news-media/news/0282-185d513bd18e-32f59d9c7dea-1000/ |title=Lisbon to host UEFA Women's Champions League final in 2025 |publisher=[[UEFA]] |date=28 June 2023 |access-date=28 June 2023}}</ref> which was later approved.<ref>{{cite web |url=https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026/articles/road-to-world-cup-26-qualifiers-usa-canada-mexico/ |title=Road to the FIFA World Cup 26 has begun |publisher=[[FIFA]] |date=28 August 2023 |access-date=21 October 2023}}</ref><ref>{{cite news |url=https://www.fifa.com/tournaments/mens/worldcup/canadamexicousa2026/news/journey-to-historic-fifa-world-cup-2026-tm-kicks-off-in-south-america |title=CONMEBOL kick off journey of "great joy and happiness" to historic FIFA World Cup 2026, says FIFA President |publisher=[[FIFA]] |date=7 September 2023 |access-date=8 February 2024}}</ref>
+* '''First round (group stage)''': Six groups of four and six groups of five teams played [[Round-robin tournament|home-and-away matches]] against all other teams in the group. Group winners qualified for the World Cup.
+* '''Second round (play-offs)''': Sixteen teams (twelve group runners-up and four best Nations League group winners, based on the [[2024–25 UEFA Nations League#Overall ranking|Nations League overall ranking]], which finished outside the top two of their qualifying group) were drawn into four paths, playing two rounds of single-match play-offs (semi-finals with the seeded teams to host, followed by finals, with the home teams to be drawn). The four path winners qualified for the World Cup.
+
+==Schedule==
+Below was the schedule of the European qualifiers for the [[2026 FIFA World Cup]].<ref>{{cite web |url=https://documents.uefa.com/r/Regulations-of-the-UEFA-Nations-League-2024/25-Online |title=Regulations of the UEFA Nations League, 2024/25|publisher=UEFA|format=PDF |at=Annex A – 2024–26 National Team Match Calendar |date=11 December 2023 |access-date=8 February 2024 |url-status=live |archive-url=https://web.archive.org/web/20240208090253/https://documents.uefa.com/api/khub/maps/otUcsEb2itzXUnw8dos1iQ/attachments/_cm94sGUOEarkSBFBeLppg/content |archive-date=8 February 2024}}</ref> Groups of five teams (Groups G–L) began in March 2025, while groups of four teams (Groups A–F) began in September 2025.<ref name="new formats"/><ref name="format chart">{{cite web |url=https://editorial.uefa.com/resources/027d-172768727c48-45d6e1772dcc-1000/new_format_for_uefa_men_s_national_team_competitions.pdf |title=New formats for UEFA men's national team competitions |publisher=[[UEFA]] |date=25 January 2023 |access-date=25 January 2023}}</ref><ref name="fixture schedule" />
+{{table alignment}}
+{| class="wikitable defaultcenter col-1left"
+! rowspan=2 | Round
+! colspan=2 | Matchday
+! rowspan=2 | Dates
+|-
+! Groups A–F
+! Groups G–L
+|-
+| rowspan=10 | [[#First round|First round]]<br>(group stage)
+| rowspan=4 {{N/a}}
+| Matchday 1
+| 21–22 March 2025
+|-
+| Matchday 2
+| 24–25 March 2025
+|-
+| Matchday 3
+| 6–7 June 2025
+|-
+| Matchday 4
+| 9–10 June 2025
+|-
+| colspan=2 | Matchday 5
+| 4–6 September 2025
+|-
+| colspan=2 | Matchday 6
+| 7–9 September 2025
+|-
+| colspan=2 | Matchday 7
+| 9–11 October 2025
+|-
+| colspan=2 | Matchday 8
+| 12–14 October 2025
+|-
+| colspan=2 | Matchday 9
+| 13–15 November 2025
+|-
+| colspan=2 | Matchday 10
+| 16–18 November 2025
+|-
+| rowspan=2 | [[#Second round|Second round]]<br>(play-offs)
+| colspan=2 | Semi-finals
+| 26 March 2026
+|-
+| colspan=2 | Finals
+| 31 March 2026
+|}
+
+==Draw==
+The draw for the first round (group stage) was held on 13 December 2024, 12:00 [[Central European Time|CET]], at the [[FIFA headquarters]] in [[Zurich]], Switzerland.<ref>{{cite web |url=https://www.uefa.com/european-qualifiers/news/0292-1c1a655f1be0-84538c15a736-1000/ |title=European Qualifiers for the 2026 FIFA World Cup: All you need to know |website=[[UEFA]] |publisher=Union of European Football Associations |date=16 October 2024 |access-date=16 October 2024}}</ref><ref>{{cite web |url=https://www.uefa.com/european-qualifiers/draws/2026/2002060/ |title=European Qualifiers for the 2026 FIFA World Cup: All you need to know |website=[[UEFA]] |publisher=Union of European Football Associations |access-date=10 December 2024}}</ref><ref>{{cite web |url=https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/uefa-qualifying-teams-schedule-dates-places |title=Everything you need to know about UEFA qualifying |publisher=[[FIFA]] |date=15 October 2024 |access-date=18 October 2024}}</ref><ref>{{cite web |url=https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/uefa-preliminary-draw-date-13-december |title=UEFA Preliminary Draw for FIFA World Cup 26 to take place on 13 December |publisher=FIFA |date=19 November 2024 |access-date=19 November 2024}}</ref> Of UEFA's 55 member associations, 54 men's national teams submitted a valid entry to the competition; [[Russia national football team|Russia]]'s entry was invalidated by their suspension from UEFA and FIFA competitions after [[Russian invasion of Ukraine|their country's invasion of Ukraine]].<ref>{{cite web |url=https://www.fifa.com/tournaments/mens/worldcup/qatar2022/media-releases/fifa-uefa-suspend-russian-clubs-and-national-teams-from-all-competitions |title=FIFA/UEFA suspend Russian clubs and national teams from all competitions |publisher=[[FIFA]] |date=28 February 2022 |access-date=8 February 2024}}</ref><ref>{{cite web |url=https://www.uefa.com/news-media/news/0272-148df1faf082-6e50b5ea1f84-1000/ |title=FIFA/UEFA suspend Russian clubs and national teams from all competitions|publisher=UEFA|date=28 February 2022 |access-date=27 September 2022}}</ref>
+
+The teams were seeded into five pots: Pots 1 to 4 each contained twelve teams, and Pot 5 contained six teams. FIFA, in consultation with UEFA, announced the allocation of teams to the five pots following the completion of the league phase of the [[2024–25 UEFA Nations League]]. The teams were drawn into twelve groups: six groups of four teams (Groups A–F) and six groups of five teams (Groups G–L).<ref name="draw procedure">{{cite web |url=https://digitalhub.fifa.com/m/445599b755be1b8a/original/Draw-Procedures-for-the-UEFA-Preliminary-Draw-for-the-FIFA-World-Cup-26.pdf |title=Draw Procedures for the UEFA Preliminary Draw for the FIFA World Cup 26 |publisher=[[FIFA]] |date=28 November 2024 |access-date=28 November 2024}}</ref>
+
+Following changes to the UEFA qualifying format, the competition featured staggered start dates. Five-team groups began in March 2025, while four-team groups started in September 2025. As 24 teams would be competing in the [[2024–25 UEFA Nations League]] in March 2025 (8 in the [[2024–25 UEFA Nations League A#Quarter-finals|League A quarter-finals]] and 16 in the [[2024–25 UEFA Nations League promotion/relegation play-offs|League A/B or B/C promotion/relegation play-offs]]), significant changes were made to the seeding and draw procedures to accommodate all teams within the schedule.
+
+===Seeding method===
+Five-team groups could only contain one team participating in Nations League matches in March 2025, allowing these teams to have two free matchdays in World Cup qualifying to be scheduled during March. The remaining four teams in their group played among themselves during this window. Additionally, as the four quarter-final winners would compete in the [[2025 UEFA Nations League Finals]] in June, they could not begin World Cup qualifying until September and therefore had to be drawn into four-team groups.<ref name="draw procedure"/>
+
+Given these conditions, Pot 1 contained the eight Nations League quarter-finalists, regardless of their position in the [[FIFA Men's World Ranking]] of November 2024. The quarter-finalists were represented by placeholders in the draw, denoting the winners and losers of each quarter-final pairing.{{refn|group=note|name=placeholder|As there were only six four-team groups available for the eight quarter-finalists, and the identities of the [[2025 UEFA Nations League Finals]] participants were not known at the time of the World Cup qualifying draw, the eight quarter-finalists were represented in Pot 1 as the winners or defeated teams of quarter-finals 1–4.}} The four remaining teams in Pot 1 were the next best-ranked teams in the World Ranking that November. The remaining teams were allocated to Pots 2 to 5 based on the World Ranking. This seeding method differed from previous cycles, as all World Cup qualifying group draws since [[2010 FIFA World Cup qualification|2010]] had been seeded based solely on the World Ranking.
+
+While ultimately not required, adjustments to Pots 2 to 5 could have been necessary depending on the distribution of teams competing in the Nations League promotion/relegation play-offs in March 2025. Specifically, if any draw pot contained more Nations League play-off teams than could be accommodated in the available qualifying groups, the lowest-ranked Nations League play-off team from that pot would have been swapped with the highest-ranked eligible team from the lower pot. This process would have been repeated as needed within the same pot or across different pots.<ref>{{cite web |url=https://archive.org/download/draw-procedures-for-the-uefa-preliminary-draw-for-the-fifa-world-cup-26/Draw_Procedures_for_the_UEFA_Preliminary_Draw_for_the_FIFA_World_Cup_26.pdf |title=Draw Procedures for the UEFA Preliminary Draw for the FIFA World Cup 26 |publisher=[[FIFA]] |date=September 2024 |access-date=20 November 2024}}</ref>
+
+===Draw procedure===
+The draw started with Pot 1 and completed with Pot 5. A team was drawn and assigned to the first available group (based on draw conditions) in alphabetical order. Each five-team group contained one team from each of the five pots, while each four-team group contained one team from each of the first four pots.<ref name="draw procedure"/>
+
+The following restrictions were applied with computer assistance:
+*'''Competition-related reasons:''' To allow for the parallel scheduling of World Cup qualifying and Nations League matches in March and June 2025, the following restrictions applied for allocating teams to groups of four or five:
+**Pot 1: The four teams participating in the [[2025 UEFA Nations League Finals]] (identified as the winners of quarter-finals 1–4) were guaranteed to be drawn into four-team groups (Groups A–F). All other teams from this pot could be drawn into any group.
+**Pots 2, 3 and 4: Nations League promotion/relegation play-off teams from these pots could be drawn into any-sized group, but could only join five-team groups (Groups G–L) that did not already contain a losing quarter-finalist or play-off participant. All other teams from these pots could be drawn into any group.
+*'''Prohibited clashes:''' For political reasons, matches between the following pairs of teams were considered prohibited clashes and could not be drawn into the same group: [[Belarusian involvement in the Russian invasion of Ukraine|Belarus–Ukraine]], [[Status of Gibraltar|Gibraltar–Spain]],{{refn|group=note|The Gibraltar–Spain draw condition only applied to the placeholder for the loser of quarter-final 1, featuring the Netherlands and Spain. This was because the winner was placed in a four-team group, while Gibraltar, as a Pot 5 team, was placed in a five-team group.}} [[Bosnia and Herzegovina–Kosovo relations|Kosovo–Bosnia and Herzegovina]], [[Kosovo–Serbia relations|Kosovo–Serbia]]. (Additionally, [[Nagorno-Karabakh conflict|Armenia–Azerbaijan]] was identified as a prohibited clash, but the teams were in the same pot for the draw.)
+*'''Winter venues:''' A maximum of two teams whose venues were identified as having high or medium risk of severe winter conditions could be placed in each group: Estonia, Faroe Islands, Finland, Iceland, Latvia, Lithuania, Norway.{{refn|group=note|Belarus and Ukraine, which typically have a winter venue draw restriction, did not have it applied given they were required to play at neutral venues.}}
+**The two "hard winter venues" (Faroe Islands and Iceland) generally cannot host games in March or November, thus could not be drawn together, whilst the others had to play as few home matches as possible in March and November.
+*'''Excessive travel:''' A maximum of one pair of teams identified with excessive travel distance in relation to other countries could be placed in each group:{{refn|group=note|Excessive travel pairings involving France, Spain and Portugal applied to the placeholders for both the winner and loser of their respective quarter-final pairing.}}
+**Azerbaijan: with Gibraltar, Iceland, Portugal.
+**Iceland: with Armenia, Cyprus.{{refn|group=note|Israel, which typically have an excessive travel restriction with Iceland, were removed given they were required to play at neutral venues.}}
+**Kazakhstan: with Andorra, England, France, Gibraltar, Iceland, Malta, Northern Ireland, Portugal, Republic of Ireland, Scotland, Spain, Wales.
+
+===Seeding pots===
+The draw pots were announced on 28 November 2024,<ref>{{cite web |url=https://inside.fifa.com/about-fifa/organisation/news/fifa-world-cup-26-uefa-preliminary-draw-procedures-and-seedings-confirmed |title=UEFA Preliminary Draw for the FIFA World Cup 26: procedures and seedings confirmed |publisher=[[FIFA]] |date=28 November 2024 |access-date=28 November 2024}}</ref> based on the [[FIFA Men's World Ranking]] released on the same day.<ref>{{cite web |url=https://inside.fifa.com/fifa-world-ranking/men?dateId=id14576 |title=FIFA/Coca-Cola World Ranking: Men's World ranking |publisher=[[FIFA]] |date=28 November 2024 |access-date=28 November 2024}}</ref>
+{{vertical align rows}}{{table alignment}}
+{| class="vertical-align-top"
+|-
+|
+{| class="wikitable defaultcenter col-2left"
+|+ Pot 1{{refn|group=note|name=placeholder}}
+|-
+! {{Abbr|QF|Nations League quarter-final pairing that was used as a placeholder in the draw}}
+! style="width:190px" | Team{{efn|group=draw|name=bolditalic|Note: '''Bold''' indicates the team qualified for the World Cup. ''Italics'' indicates the team advanced to the [[2026 FIFA World Cup qualification – UEFA second round|second round]].}}
+! {{Tooltip|Rank|Position in the November 2024 FIFA World Rankings}}
+|-
+| rowspan="2" | 1
+| '''{{fb|ESP}}'''{{Cref2|QF}}
+| 3
+|-
+| '''{{fb|NED}}'''{{Cref2|QF}}
+| 7
+|-
+| rowspan="2" | 2
+| '''{{fb|FRA}}'''{{Cref2|QF}}
+| 2
+|-
+| '''{{fb|CRO}}'''{{Cref2|QF}}
+| 13
+|-
+| rowspan="2" | 3
+| '''{{fb|POR}}'''{{Cref2|QF}}
+| 6
+|-
+| ''{{fb|DEN}}''{{Cref2|QF}}
+| 21
+|-
+| rowspan="2" | 4
+| ''{{fb|ITA}}''{{Cref2|QF}}
+| 9
+|-
+| '''{{fb|GER}}'''{{Cref2|QF}}
+| 10
+|-
+| rowspan="4" {{N/a}}
+| '''{{fb|ENG}}'''
+| 4
+|-
+| '''{{fb|BEL}}'''{{Cref2|PO}}
+| 8
+|-
+| '''{{fb|SUI}}'''
+| 20
+|-
+| '''{{fb|AUT}}'''{{Cref2|PO}}
+| 22
+|}
+|
+{| class="wikitable col2center"
+|+ Pot 2
+|-
+! style="width:190px" | Team{{efn|name=bolditalic}}
+! {{Tooltip|Rank|Position in the November 2024 FIFA World Rankings}}
+|-
+| ''{{fb|UKR}}''{{Cref2|PO}}
+| 25
+|-
+| ''{{fb|SWE}}''
+| 27
+|-
+| ''{{fb|TUR}}''{{Cref2|PO}}
+| 28
+|-
+| ''{{fb|WAL}}''
+| 29
+|-
+| {{fb|HUN}}{{Cref2|PO}}
+| 30
+|-
+| {{fb|SRB}}{{Cref2|PO}}
+| 32
+|-
+| ''{{fb|POL}}''
+| 35
+|-
+| ''{{fb|ROU}}''
+| 38
+|-
+| {{fb|GRE}}{{Cref2|PO}}
+| 39
+|-
+| ''{{fb|SVK}}''{{Cref2|PO}}
+| 41
+|-
+| ''{{fb|CZE}}''
+| 42
+|-
+| '''{{fb|NOR}}'''
+| 43
+|}
+|
+{| class="wikitable col2center"
+|+ Pot 3
+|-
+! style="width:190px" | Team{{efn|name=bolditalic}}
+! {{Tooltip|Rank|Position in the November 2024 FIFA World Rankings}}
+|-
+| '''{{fb|SCO}}'''{{Cref2|PO}}
+| 45
+|-
+| {{fb|SVN}}{{Cref2|PO}}
+| 55
+|-
+| ''{{fb|IRL}}''{{Cref2|PO}}
+| 60
+|-
+| ''{{fb|ALB}}''
+| 65
+|-
+| ''{{fb|MKD}}''
+| 67
+|-
+| {{fb|GEO}}{{Cref2|PO}}
+| 68
+|-
+| {{fb|FIN}}
+| 69
+|-
+| {{fb|ISL}}{{Cref2|PO}}
+| 70
+|-
+| ''{{fb|NIR}}''
+| 71
+|-
+| {{fb|MNE}}
+| 73
+|-
+| ''{{fb|BIH}}''
+| 74
+|-
+| {{fb|ISR}}
+| 76
+|}
+|-
+|
+{| class="wikitable col2center"
+|+ Pot 4
+|-
+! style="width:190px" | Team{{efn|name=bolditalic}}
+! {{Tooltip|Rank|Position in the November 2024 FIFA World Rankings}}
+|-
+| {{fb|BUL}}{{Cref2|PO}}
+| 82
+|-
+| {{fb|LUX}}
+| 92
+|-
+| {{fb|BLR}}
+| 98
+|-
+| ''{{fb|KOS}}''{{Cref2|PO}}
+| 99
+|-
+| {{fb|ARM}}{{Cref2|PO}}
+| 100
+|-
+| {{fb|KAZ}}
+| 110
+|-
+| {{fb|AZE}}
+| 117
+|-
+| {{fb|EST}}
+| 123
+|-
+| {{fb|CYP}}
+| 130
+|-
+| {{fb|FRO}}
+| 137
+|-
+| {{fb|LVA}}
+| 140
+|-
+| {{fb|LTU}}
+| 142
+|}
+|
+{| class="wikitable col2center"
+|+ Pot 5
+|-
+! style="width:190px" | Team
+! {{Tooltip|Rank|Position in the November 2024 FIFA World Rankings}}
+|-
+| {{fb|MDA}}
+| 151
+|-
+| {{fb|MLT}}
+| 169
+|-
+| {{fb|AND}}
+| 171
+|-
+| {{fb|GIB}}
+| 197
+|-
+| {{fb|LIE}}
+| 204
+|-
+| {{fb|SMR}}
+| 210
+|}
+|
+|}
+{{notelist|group=draw}}
+
+{| class="wikitable col2center"
+|+ Banned from entering qualifying
+|-
+! style="width:190px" | Team
+! {{Tooltip|Rank|Position in the November 2024 FIFA World Rankings}}
+|-
+| {{fb|RUS}}
+| 34
+|}
+
+'''Key'''
+{{Cnote2 Begin|liststyle=disc}}
+{{Cnote2|QF|n=0|<sup>QF</sup> Nations League quarter-finalist, automatically seeded into Pot 1 and unavailable during the March 2025 window}}
+{{Cnote2|PO|n=0|<sup>PO</sup> Nations League promotion/relegation play-offs participant that was unavailable during the March 2025 window}}
+{{Cnote2 End}}
+
+==Summary==
+{{legend|#BBF3BB|Group winners qualified directly for [[2026 FIFA World Cup]]}}
+{{legend|#BBF3FF|Group runners-up and [[#Nations League team selection|best four Nations League group winners]] advanced to [[2026 FIFA World Cup qualification – UEFA second round|second round (play-offs)]]}}
+{{legend||Other teams were eliminated after the first round (group stage)}}
+
+{| class="wikitable" style="text-align:center;width:100%;font-size:90%"
+|-
+!style="width:8.34%"| [[#Group A|Group A]]
+!style="width:8.33%"| [[#Group B|Group B]]
+!style="width:8.33%"| [[#Group C|Group C]]
+!style="width:8.34%"| [[#Group D|Group D]]
+!style="width:8.33%"| [[#Group E|Group E]]
+!style="width:8.33%"| [[#Group F|Group F]]
+!style="width:8.34%"| [[#Group G|Group G]]
+!style="width:8.33%"| [[#Group H|Group H]]
+!style="width:8.33%"| [[#Group I|Group I]]
+!style="width:8.34%"| [[#Group J|Group J]]
+!style="width:8.33%"| [[#Group K|Group K]]
+!style="width:8.33%"| [[#Group L|Group L]]
+|- style="background:#BBF3BB"
+| {{fb-big|GER}}
+| {{fb-big|SUI}}
+| {{fb-big|SCO}}
+| {{fb-big|FRA}}
+| {{fb-big|ESP}}
+| {{fb-big|POR}}
+| {{fb-big|NED}}
+| {{fb-big|AUT}}
+| {{fb-big|NOR}}
+| {{fb-big|BEL}}
+| {{fb-big|ENG}}
+| {{fb-big|CRO}}
+|- style="background:#BBF3FF"
+| {{fb-big|SVK}}
+| {{fb-big|KOS}}
+| {{fb-big|DEN}}
+| {{fb-big|UKR}}
+| {{fb-big|TUR}}
+| {{fb-big|IRL}}
+| {{fb-big|POL}}
+| {{fb-big|BIH}}
+| {{fb-big|ITA}}
+| {{fb-big|WAL}}
+| {{fb-big|ALB}}
+| {{fb-big|CZE}}
+|-
+| style="background:#BBF3FF" | {{fb-big|NIR}}
+| {{fb-big|SVN}}
+| {{fb-big|GRE}}
+| {{fb-big|ISL}}
+| {{fb-big|GEO}}
+| {{fb-big|HUN}}
+| {{fb-big|FIN}}
+| style="background:#BBF3FF" | {{fb-big|ROU}}
+| {{fb-big|ISR}}
+| style="background:#BBF3FF" | {{fb-big|MKD}}
+| {{fb-big|SRB}}
+| {{fb-big|FRO}}
+|-
+| {{fb-big|LUX}}
+| style="background:#BBF3FF" | {{fb-big|SWE}}
+| {{fb-big|BLR}}
+| {{fb-big|AZE}}
+| {{fb-big|BUL}}
+| {{fb-big|ARM}}
+| {{fb-big|MLT}}
+| {{fb-big|CYP}}
+| {{fb-big|EST}}
+| {{fb-big|KAZ}}
+| {{fb-big|LVA}}
+| {{fb-big|MNE}}
+|-
+|colspan="6" {{N/a|}}
+| {{fb-big|LTU}}
+| {{fb-big|SMR}}
+| {{fb-big|MDA}}
+| {{fb-big|LIE}}
+| {{fb-big|AND}}
+| {{fb-big|GIB}}
+|}
+
+==First round==
+The group stage fixture list was confirmed by UEFA on 13 December 2024 following the draw.<ref name="fixture schedule">{{cite web |url=https://www.uefa.com/european-qualifiers/news/0294-1c916a81655d-47c1bac26fb9-1000/ |title=European Qualifiers for 2026 World Cup: All the fixtures and results |publisher=[[UEFA]] |date=14 December 2024 |access-date=16 December 2024}}</ref><ref>{{cite web |url=https://editorial.uefa.com/resources/0294-1c90009aeefa-d2cddfaae581-1000/eq_24-26_group_stage_fixtures_by_match_day.pdf |title=European Qualifiers 2024–26 (FIFA World Cup Preliminary Competition) – Group stage fixtures by matchday |publisher=[[UEFA]] |date=13 December 2024 |access-date=13 December 2024}}</ref><ref>{{cite web |url=https://editorial.uefa.com/resources/0294-1c90033b12f4-a0311a9ebc79-1000/eq_24-26_group_stage_fixtures_by_group.pdf |title=European Qualifiers 2024–26 (FIFA World Cup Preliminary Competition) – Group stage fixtures by group |publisher=[[UEFA]] |date=14 December 2024 |access-date=16 December 2024}}</ref>
+
+===Group A===
+{{main|2026 FIFA World Cup qualification – UEFA Group A}}
+{{2026 FIFA World Cup qualification – UEFA group tables|Group A|show_matches=yes|only_pld_pts=no|show_class_rules=yes}}
+
+===Group B===
+{{main|2026 FIFA World Cup qualification – UEFA Group B}}
+
+{{2026 FIFA World Cup qualification – UEFA group tables|Group B|show_matches=yes|only_pld_pts=no|show_class_rules=yes}}
+
+===Group C===
+{{main|2026 FIFA World Cup qualification – UEFA Group C}}
+
+{{2026 FIFA World Cup qualification – UEFA group tables|Group C|show_matches=yes|only_pld_pts=no|show_class_rules=yes}}
+
+===Group D===
+{{main|2026 FIFA World Cup qualification – UEFA Group D}}
+
+{{2026 FIFA World Cup qualification – UEFA group tables|Group D|show_matches=yes|only_pld_pts=no|show_class_rules=yes}}
+
+===Group E===
+{{main|2026 FIFA World Cup qualification – UEFA Group E}}
+
+{{2026 FIFA World Cup qualification – UEFA group tables|Group E|show_matches=yes|only_pld_pts=no|show_class_rules=yes}}
+
+===Group F===
+{{main|2026 FIFA World Cup qualification – UEFA Group F}}
+
+{{2026 FIFA World Cup qualification – UEFA group tables|Group F|show_matches=yes|only_pld_pts=no|show_class_rules=yes}}
+
+===Group G===
+{{main|2026 FIFA World Cup qualification – UEFA Group G}}
+
+{{2026 FIFA World Cup qualification – UEFA group tables|Group G|show_matches=yes|only_pld_pts=no|show_class_rules=yes}}
+
+===Group H===
+{{main|2026 FIFA World Cup qualification – UEFA Group H}}
+
+{{2026 FIFA World Cup qualification – UEFA group tables|Group H|show_matches=yes|only_pld_pts=no|show_class_rules=yes}}
+
+===Group I===
+{{main|2026 FIFA World Cup qualification – UEFA Group I}}
+
+{{2026 FIFA World Cup qualification – UEFA group tables|Group I|show_matches=yes|only_pld_pts=no|show_class_rules=yes}}
+
+===Group J===
+{{main|2026 FIFA World Cup qualification – UEFA Group J}}
+
+{{2026 FIFA World Cup qualification – UEFA group tables|Group J|show_matches=yes|only_pld_pts=no|show_class_rules=yes}}
+
+===Group K===
+{{main|2026 FIFA World Cup qualification – UEFA Group K}}
+
+{{2026 FIFA World Cup qualification – UEFA group tables|Group K|show_matches=yes|only_pld_pts=no|show_class_rules=yes}}
+
+===Group L===
+{{main|2026 FIFA World Cup qualification – UEFA Group L}}
+
+{{2026 FIFA World Cup qualification – UEFA group tables|Group L|show_matches=yes|only_pld_pts=no|show_class_rules=yes}}
+
+==Second round==
+{{main|2026 FIFA World Cup qualification – UEFA second round}}
+
+The second round (play-offs) was contested by the twelve group runners-up and the best four Nations League group winners, based on the [[2024–25 UEFA Nations League#Interim overall ranking|Nations League interim overall ranking]], who finished outside the top two of their qualifying group. The sixteen teams were split into four play-off paths, each containing four teams. Each path featured two single-leg semi-finals and one single-leg final. In the semi-finals, the fixtures of each path were determined by [[#Seeding|seeding pots]], with the Pot 1 team hosting the Pot 4 team and the Pot 2 team hosting the Pot 3 team. The host of each path final was decided by a draw between the two semi-final pairings.<ref name="additional info">{{cite web |url=https://archive.org/download/draw-procedures-for-the-uefa-preliminary-draw-for-the-fifa-world-cup-26/UEFA_Preliminary_Competition_for_the_FIFA_World_Cup_26_Additional_Competition_Information.pdf |title=UEFA Preliminary Competition for the FIFA World Cup 26 – Additional Competition Information |publisher=[[FIFA]] |date=September 2024 |access-date=20 November 2024}}</ref>
+
+===Nations League team selection===
+{{#section-h:2026 FIFA World Cup qualification – UEFA second round|Nations League teams (four advance)}}
+
+===Draw===
+{{#section:2026 FIFA World Cup qualification – UEFA second round|Seeding}}
+
+===Path A===
+{{#section:2026 FIFA World Cup qualification – UEFA second round|Path A}}
+
+===Path B===
+{{#section:2026 FIFA World Cup qualification – UEFA second round|Path B}}
+
+===Path C===
+{{#section:2026 FIFA World Cup qualification – UEFA second round|Path C}}
+
+===Path D===
+{{#section:2026 FIFA World Cup qualification – UEFA second round|Path D}}
+
+==Qualified teams==
+[[File:2026 world cup qualification at UEFA.png|thumb|Status of UEFA countries with respect to the 2026 FIFA World Cup: {{legend|#0000ff|Team qualified for World Cup}}{{legend|#ffcc00|Team eliminated}} {{legend|#000000|Team suspended}} {{legend|#cccccc|Country not a UEFA member}}]]
+
+The following teams from UEFA qualified for the final tournament.
+
+{| class="wikitable sortable"
+|-
+! Team
+! Qualified as
+! Qualified on
+! data-sort-type="number"|Previous [[National team appearances in the FIFA World Cup|appearances]] in [[FIFA World Cup]]{{efn|'''Bold''' indicates champions for that year. ''Italic'' indicates hosts for that year.}}
+|-
+| {{fb|ENG}} || {{sort|K1|[[2026 FIFA World Cup qualification – UEFA Group K|Group K]] winners}} || {{dts|2025|10|14|format=dmy}} || 16 ([[1950 FIFA World Cup|1950]], [[1954 FIFA World Cup|1954]], [[1958 FIFA World Cup|1958]], [[1962 FIFA World Cup|1962]], '''''[[1966 FIFA World Cup|1966]]''''', [[1970 FIFA World Cup|1970]], [[1982 FIFA World Cup|1982]], [[1986 FIFA World Cup|1986]], [[1990 FIFA World Cup|1990]], [[1998 FIFA World Cup|1998]], [[2002 FIFA World Cup|2002]], [[2006 FIFA World Cup|2006]], [[2010 FIFA World Cup|2010]], [[2014 FIFA World Cup|2014]], [[2018 FIFA World Cup|2018]], [[2022 FIFA World Cup|2022]])
+|-
+| {{fb|FRA}}|| {{sort|D1|[[2026 FIFA World Cup qualification – UEFA Group D|Group D]] winners}} || {{dts|2025|11|13|format=dmy}} || 16 ([[1930 FIFA World Cup|1930]], [[1934 FIFA World Cup|1934]], ''[[1938 FIFA World Cup|1938]]'', [[1954 FIFA World Cup|1954]], [[1958 FIFA World Cup|1958]], [[1966 FIFA World Cup|1966]], [[1978 FIFA World Cup|1978]], [[1982 FIFA World Cup|1982]], [[1986 FIFA World Cup|1986]], '''''[[1998 FIFA World Cup|1998]]''''', [[2002 FIFA World Cup|2002]], [[2006 FIFA World Cup|2006]], [[2010 FIFA World Cup|2010]], [[2014 FIFA World Cup|2014]], '''[[2018 FIFA World Cup|2018]]''', [[2022 FIFA World Cup|2022]])
+|-
+| {{fb|CRO}} || {{sort|L1|[[2026 FIFA World Cup qualification – UEFA Group L|Group L]] winners}} || {{dts|2025|11|14|format=dmy}} || 6 ([[1998 FIFA World Cup|1998]], [[2002 FIFA World Cup|2002]], [[2006 FIFA World Cup|2006]], [[2014 FIFA World Cup|2014]], [[2018 FIFA World Cup|2018]], [[2022 FIFA World Cup|2022]])
+|-
+| {{fb|POR}} || {{sort|F1|[[2026 FIFA World Cup qualification – UEFA Group F|Group F]] winners}} || {{dts|2025|11|16|format=dmy}} || 8 ([[1966 FIFA World Cup|1966]], [[1986 FIFA World Cup|1986]], [[2002 FIFA World Cup|2002]], [[2006 FIFA World Cup|2006]], [[2010 FIFA World Cup|2010]], [[2014 FIFA World Cup|2014]], [[2018 FIFA World Cup|2018]], [[2022 FIFA World Cup|2022]])
+|-
+| {{fb|NOR}} || {{sort|I1|[[2026 FIFA World Cup qualification – UEFA Group I|Group I]] winners}} || {{dts|2025|11|16|format=dmy}} || 3 ([[1938 FIFA World Cup|1938]], [[1994 FIFA World Cup|1994]], [[1998 FIFA World Cup|1998]])
+|-
+| {{fb|GER}}{{efn|name=west-germany|From 1954 to 1990, Germany competed as [[Germany national football team|West Germany]]. A separate team for [[East Germany national football team|East Germany]] also participated in qualification during this time, qualifying only once in 1974.}} || {{sort|A1|[[2026 FIFA World Cup qualification – UEFA Group A|Group A]] winners}} || {{dts|2025|11|17|format=dmy}} || 20 ([[1934 FIFA World Cup|1934]], [[1938 FIFA World Cup|1938]], '''[[1954 FIFA World Cup|1954]]''', [[1958 FIFA World Cup|1958]], [[1962 FIFA World Cup|1962]], [[1966 FIFA World Cup|1966]], [[1970 FIFA World Cup|1970]], '''''[[1974 FIFA World Cup|1974]]''''', [[1978 FIFA World Cup|1978]], [[1982 FIFA World Cup|1982]], [[1986 FIFA World Cup|1986]], '''[[1990 FIFA World Cup|1990]]''', [[1994 FIFA World Cup|1994]], [[1998 FIFA World Cup|1998]], [[2002 FIFA World Cup|2002]], ''[[2006 FIFA World Cup|2006]]'', [[2010 FIFA World Cup|2010]], '''[[2014 FIFA World Cup|2014]]''', [[2018 FIFA World Cup|2018]], [[2022 FIFA World Cup|2022]])
+|-
+| {{fb|NED}} || {{sort|G1|[[2026 FIFA World Cup qualification – UEFA Group G|Group G]] winners}} || {{dts|2025|11|17|format=dmy}} || 11 ([[1934 FIFA World Cup|1934]], [[1938 FIFA World Cup|1938]], [[1974 FIFA World Cup|1974]], [[1978 FIFA World Cup|1978]], [[1990 FIFA World Cup|1990]], [[1994 FIFA World Cup|1994]], [[1998 FIFA World Cup|1998]], [[2006 FIFA World Cup|2006]], [[2010 FIFA World Cup|2010]], [[2014 FIFA World Cup|2014]], [[2022 FIFA World Cup|2022]])
+|-
+| {{fb|BEL}} || {{sort|J1|[[2026 FIFA World Cup qualification – UEFA Group J|Group J]] winners}} || {{dts|2025|11|18|format=dmy}} || 14 ([[1930 FIFA World Cup|1930]], [[1934 FIFA World Cup|1934]], [[1938 FIFA World Cup|1938]], [[1954 FIFA World Cup|1954]], [[1970 FIFA World Cup|1970]], [[1982 FIFA World Cup|1982]], [[1986 FIFA World Cup|1986]], [[1990 FIFA World Cup|1990]], [[1994 FIFA World Cup|1994]], [[1998 FIFA World Cup|1998]], [[2002 FIFA World Cup|2002]], [[2014 FIFA World Cup|2014]], [[2018 FIFA World Cup|2018]], [[2022 FIFA World Cup|2022]])
+|-
+| {{fb|ESP}} || {{sort|E1|[[2026 FIFA World Cup qualification – UEFA Group E|Group E]] winners}} || {{dts|2025|11|18|format=dmy}} || 16 ([[1934 FIFA World Cup|1934]], [[1950 FIFA World Cup|1950]], [[1962 FIFA World Cup|1962]], [[1966 FIFA World Cup|1966]], [[1978 FIFA World Cup|1978]], ''[[1982 FIFA World Cup|1982]]'', [[1986 FIFA World Cup|1986]], [[1990 FIFA World Cup|1990]], [[1994 FIFA World Cup|1994]], [[1998 FIFA World Cup|1998]], [[2002 FIFA World Cup|2002]], [[2006 FIFA World Cup|2006]], '''[[2010 FIFA World Cup|2010]]''', [[2014 FIFA World Cup|2014]], [[2018 FIFA World Cup|2018]], [[2022 FIFA World Cup|2022]])
+|-
+| {{fb|SUI}} || {{sort|B1|[[2026 FIFA World Cup qualification – UEFA Group B|Group B]] winners}} || {{dts|2025|11|18|format=dmy}} || 12 ([[1934 FIFA World Cup|1934]], [[1938 FIFA World Cup|1938]], [[1950 FIFA World Cup|1950]], ''[[1954 FIFA World Cup|1954]]'', [[1962 FIFA World Cup|1962]], [[1966 FIFA World Cup|1966]], [[1994 FIFA World Cup|1994]], [[2006 FIFA World Cup|2006]], [[2010 FIFA World Cup|2010]], [[2014 FIFA World Cup|2014]], [[2018 FIFA World Cup|2018]], [[2022 FIFA World Cup|2022]])
+|-
+| {{fb|AUT}} || {{sort|H1|[[2026 FIFA World Cup qualification – UEFA Group H|Group H]] winners}} || {{dts|2025|11|18|format=dmy}} || 7 ([[1934 FIFA World Cup|1934]], [[1954 FIFA World Cup|1954]], [[1958 FIFA World Cup|1958]], [[1978 FIFA World Cup|1978]], [[1982 FIFA World Cup|1982]], [[1990 FIFA World Cup|1990]], [[1998 FIFA World Cup|1998]])
+|-
+| {{fb|SCO}} || {{sort|C1|[[2026 FIFA World Cup qualification – UEFA Group C|Group C]] winners}} || {{dts|2025|11|18|format=dmy}} || 8 ([[1954 FIFA World Cup|1954]], [[1958 FIFA World Cup|1958]], [[1974 FIFA World Cup|1974]], [[1978 FIFA World Cup|1978]], [[1982 FIFA World Cup|1982]], [[1986 FIFA World Cup|1986]], [[1990 FIFA World Cup|1990]], [[1998 FIFA World Cup|1998]])
+|-
+| {{fb|BIH}} || {{sort|PA|[[2026 FIFA World Cup qualification – UEFA second round#Path A|Play-offs Path A]] winners}} || {{dts|2026|3|31||format=dmy}} || 1 ([[2014 FIFA World Cup|2014]])
+|-
+| {{fb|SWE}} || {{sort|PB|[[2026 FIFA World Cup qualification – UEFA second round#Path B|Play-offs Path B]] winners}} || {{dts|2026|3|31||format=dmy}} || 12 ([[1934 FIFA World Cup|1934]], [[1938 FIFA World Cup|1938]], [[1950 FIFA World Cup|1950]], ''[[1958 FIFA World Cup|1958]]'', [[1970 FIFA World Cup|1970]], [[1974 FIFA World Cup|1974]], [[1978 FIFA World Cup|1978]], [[1990 FIFA World Cup|1990]], [[1994 FIFA World Cup|1994]], [[2002 FIFA World Cup|2002]], [[2006 FIFA World Cup|2006]], [[2018 FIFA World Cup|2018]])
+|-
+| {{fb|TUR}}|| {{sort|PC|[[2026 FIFA World Cup qualification – UEFA second round#Path C|Play-offs Path C]] winners}} || {{dts|2026|3|31||format=dmy}} || 2 ([[1954 FIFA World Cup|1954]], [[2002 FIFA World Cup|2002]])
+|-
+| {{fb|CZE}} || {{sort|PD|[[2026 FIFA World Cup qualification – UEFA second round#Path D|Play-offs Path D]] winners}} || {{dts|2026|3|31||format=dmy}} || 9 ([[1934 FIFA World Cup|1934]], [[1938 FIFA World Cup|1938]], [[1954 FIFA World Cup|1954]], [[1958 FIFA World Cup|1958]], [[1962 FIFA World Cup|1962]], [[1970 FIFA World Cup|1970]], [[1982 FIFA World Cup|1982]], [[1990 FIFA World Cup|1990]], [[2006 FIFA World Cup|2006]])
+|}
+'''Notes'''
+{{notelist}}
+
+==Top goalscorers==
+{{#invoke:Goalscorers|main|2026 FIFA World Cup qualification (UEFA)|minimum=5}}<!--CAREFULLY update goalscorers at Module:Goalscorers/data/2026 FIFA World Cup qualification (UEFA)-->
+Below are full goalscorer lists for all groups and the second round:
+{{hlist
+|[[2026 FIFA World Cup qualification – UEFA Group A#Goalscorers|Group A]]
+|[[2026 FIFA World Cup qualification – UEFA Group B#Goalscorers|Group B]]
+|[[2026 FIFA World Cup qualification – UEFA Group C#Goalscorers|Group C]]
+|[[2026 FIFA World Cup qualification – UEFA Group D#Goalscorers|Group D]]
+|[[2026 FIFA World Cup qualification – UEFA Group E#Goalscorers|Group E]]
+|[[2026 FIFA World Cup qualification – UEFA Group F#Goalscorers|Group F]]
+|[[2026 FIFA World Cup qualification – UEFA Group G#Goalscorers|Group G]]
+|[[2026 FIFA World Cup qualification – UEFA Group H#Goalscorers|Group H]]
+|[[2026 FIFA World Cup qualification – UEFA Group I#Goalscorers|Group I]]
+|[[2026 FIFA World Cup qualification – UEFA Group J#Goalscorers|Group J]]
+|[[2026 FIFA World Cup qualification – UEFA Group K#Goalscorers|Group K]]
+|[[2026 FIFA World Cup qualification – UEFA Group L#Goalscorers|Group L]]
+|[[2026 FIFA World Cup qualification – UEFA second round#Goalscorers|Second round]]
+}}
+
+==Controversies==
+During the draw on 13 December 2024, when [[Ukraine national football team|Ukraine]] was drawn, the map of the country did not include the disputed area of [[Crimea]], which led to outrage from the [[Ukrainian Association of Football]]. FIFA later apologised for the incident.<ref>{{cite web |url=https://www.bbc.com/sport/football/articles/clyj333j9yvo |title=Fifa regrets Ukraine map error at 2026 World Cup qualifiers draw |publisher=BBC Sport |website=bbc.com |date=17 December 2024 |access-date=27 December 2024}}</ref>
+
+In [[2026 FIFA World Cup qualification – UEFA Group I|Group I]], the [[Norwegian Football Federation]] stated that they "cannot remain indifferent to [[Gaza genocide|Israel's disproportionate attacks on the civilian population in Gaza]]"  during the [[Gaza war]].<ref>{{cite web |url=https://www.haaretz.com/israel-news/2024-12-15/ty-article/.premium/cant-remain-indifferent-norway-highlights-gaza-ahead-of-world-cup-match-against-israel/00000193-ca3c-d432-a193-eafdfa9f0000 |title='Can't Remain Indifferent': Norway Spotlights Gaza Ahead of World Cup Qualifier Against Israel |publisher=Haaretz |website=haaretz.com |date=15 December 2024 |access-date=27 December 2024}}</ref> In the same group, during the [[Estonia national football team|Estonia]]–[[Israel national football team|Israel]] qualification match, Estonian fans waved a banner targeting Israeli captain [[Eli Dasa]] who played for Russian club [[FC Dynamo Moscow]] from 2022 to 2025, for comments Dasa made that he was "proud to play" in Russia. The banner was removed at the request of UEFA.<ref>{{cite web |last1=Zenziper |first1=Nadav |title=Estonian police seek to question Israeli soccer captain over pro-Russia remarks |url=https://www.ynetnews.com/culture/article/b1gafcz7ll |website=Ynetnews |language=en |date=7 June 2025}}</ref> Also in the same group, the Italian Football Coaches' Association called for Israel to be suspended prior to the [[Italy national football team|Italy]]–Israel qualification match.<ref>{{Cite web|url=https://sports.yahoo.com/article/italian-soccer-coaches-call-israel-125723398.html|title=Italian soccer coaches call for Israel to be suspended by UEFA and FIFA over Gaza war|first=DANIELLA|last=MATAR|date=August 20, 2025|website=Yahoo Sports}}</ref>
+
+Following the end of qualification, some UEFA members complained that Europe's allocation of 16 places was insufficient. They also criticised the home advantage which some nations had had in the play-offs, believing that the games should have been hosted on neutral grounds.<ref>{{cite news |last=Delaney |first=Miguel |date=1 April 2026 |title=European countries fume over home advantage in 'extremely unfair' World Cup qualifying |url=https://www.independent.co.uk/sport/football/world-cup-qualifying-uefa-europe-b2949908.html |work=[[The Independent]] |access-date=3 April 2026}}</ref>
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026|Official FIFA World Cup website}}
+**[https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/qualifiers/uefa Qualifiers – UEFA], FIFA.com
+*[https://www.uefa.com/european-qualifiers/ European Qualifiers], UEFA.com
+
+{{2026 FIFA World Cup qualification}}
+{{2024–25 in European football (UEFA)}}
+{{2025–26 in European football (UEFA)}}
+
+{{DEFAULTSORT:FIFA World Cup qualification (UEFA)}}
+[[Category:2026 FIFA World Cup qualification (UEFA)| ]]
+[[Category:2026 FIFA World Cup qualification|UEFA]]
+[[Category:FIFA World Cup qualification (UEFA)|2026]]
+[[Category:2025 in European men's international football]]
+[[Category:2026 in European men's international football]]
+[[Category:March 2025 sports events in Europe]]
+[[Category:June 2025 sports events in Europe]]
+[[Category:September 2025 sports events in Europe]]
+[[Category:October 2025 sports events in Europe]]
+[[Category:November 2025 sports events in Europe]]

@@ -1,0 +1,573 @@
+{{short description|South Korean footballer and manager}}
+{{family name hatnote|[[Hong (Korean name)|Hong]]||lang=Korean}}
+{{Use dmy dates|date=May 2026}}
+{{Infobox football biography
+| name = Hong Myung-bo
+| image = Hong Myung-Bo.jpg{{!}}border
+| caption = Hong in 2013
+| fullname = 
+| birth_date = {{Birth date and age|1969|2|12|df=yes}}
+| birth_place = [[Seoul]], South Korea
+| height = 1.81 m
+| position = [[Defender (association football)#Sweeper (libero)|Sweeper]]
+| currentclub = [[South Korea national football team|South Korea]] (manager)
+| youthyears1 = 1981–1983<ref name="Youth">{{cite news |url=https://news.joins.com/article/2892287 |script-title=ko:‘영원한 리베로’ 홍명보, 한국의 베켄바우어를 향해 |language=ko |publisher=[[JoongAng Ilbo]] |date=21 September 2007 |access-date=20 December 2020}}</ref>
+| youthclubs1 = Kwanghee Middle School
+| youthyears2 = 1984–1986<ref name="Youth"/>
+| youthclubs2 = {{ill|Dongbuk High School|ko|동북고등학교 축구부|display=1}}
+| collegeyears1 = 1987–1990
+| college1 = {{ill|Korea University|ko|고려대학교 축구부|display=1}}
+| years1 = 1991
+| clubs1 = [[Gimcheon Sangmu FC|Sangmu FC]] ([[Conscription in South Korea|draft]])
+| caps1 = 
+| goals1 = 
+| years2 = 1992–1997
+| clubs2 = [[Pohang Steelers]]
+| caps2 = 110
+| goals2 = 14
+| years3 = 1997–1998
+| clubs3 = [[Shonan Bellmare|Bellmare Hiratsuka]]
+| caps3 = 42
+| goals3 = 0
+| years4 = 1999–2001
+| clubs4 = [[Kashiwa Reysol]]
+| caps4 = 72
+| goals4 = 7
+| years5 = 2002
+| clubs5 = [[Pohang Steelers]]
+| caps5 = 19
+| goals5 = 0
+| years6 = 2003–2004
+| clubs6 = [[LA Galaxy]]
+| caps6 = 38
+| goals6 = 0
+| totalcaps = 281
+| totalgoals = 21
+| nationalyears1 = 2000
+| nationalteam1 = [[South Korea national under-23 football team|South Korea U23]]
+| nationalyears2 = 1991
+| nationalteam2 = [[South Korea national football B team|South Korea B]]
+| nationalyears3 = 1990–2002
+| nationalteam3 = [[South Korea national football team|South Korea]]
+| nationalcaps1 = 1{{efn-lg|Appearance as an overage player in a friendly}}
+| nationalgoals1 = 0
+| nationalcaps2 = 
+| nationalgoals2 = 
+| nationalcaps3 = 136
+| nationalgoals3 = 10
+| manageryears1 = 2005–2007
+| managerclubs1 = [[South Korea national football team|South Korea]] (assistant)
+| manageryears2 = 2009
+| managerclubs2 = [[South Korea national under-20 football team|South Korea U20]]
+| manageryears3 = 2009–2012
+| managerclubs3 = [[South Korea national under-23 football team|South Korea U23]]
+| manageryears4 = 2013
+| managerclubs4 = [[FC Anzhi Makhachkala|Anzhi Makhachkala]] (assistant)
+| manageryears5 = 2013–2014
+| managerclubs5 = [[South Korea national football team|South Korea]]
+| manageryears6 = 2015–2017
+| managerclubs6 = [[Zhejiang Professional F.C.|Hangzhou Greentown]]
+| manageryears7 = 2020–2024
+| managerclubs7 = [[Ulsan HD FC|Ulsan HD]]
+| manageryears8 = 2024–
+| managerclubs8 = [[South Korea national football team|South Korea]]
+| medaltemplates = {{MedalSport  | Men's [[Association football|football]]}}
+{{MedalCountry | {{KOR}} {{small|(as player)}}}}
+{{MedalCompetition | [[Universiade|Summer Universiade]]}}
+{{MedalGold|[[1991 Summer Universiade|1991 Sheffield]]<ref name="Universiade">{{cite web |url=https://newslibrary.naver.com/viewer/index.nhn?articleId=1991051900289111008&editNo=4&printCount=1&publishDate=1991-05-19&officeId=00028&pageNo=11&printNo=929&publishType=00010 |script-title=ko:체육계 쪽지 |website=[[Naver]] |publisher=[[The Hankyoreh]] |language=ko |date=19 May 1991}}</ref> |}}
+{{MedalCompetition | [[Asian Games]]}}
+{{MedalBronze  | [[1990 Asian Games|1990 Beijing]] |}}
+{{MedalCompetition | [[AFC Asian Cup]]}}
+{{MedalBronze  | [[2000 AFC Asian Cup|2000 Lebanon]] |}}
+{{MedalCountry | {{KOR}} {{small|(as manager)}}}}
+{{MedalCompetition|[[Olympic Games]]}}
+{{MedalBronze|[[2012 Summer Olympics|2012 London]] |}}
+{{MedalCompetition | [[Asian Games]]}}
+{{MedalBronze  | [[2010 Asian Games|2010 Guangzhou]] |}}
+{{MedalCompetition|[[EAFF E-1 Football Championship|EAFF Championship]]}}
+{{MedalRU | [[2025 EAFF E-1 Football Championship|2025 South Korea]] |}}
+{{MedalBronze | [[2013 EAFF East Asian Cup|2013 South Korea]] |}}
+}}
+{{Infobox Korean name/auto| hangul=%홍명보 | hanja=洪明甫 }}
+
+'''Hong Myung-bo''' ({{langx|ko|홍명보}}, [[Hanja]]: 洪明甫; {{IPA|ko|hoŋmjʌŋbo}}; born 12 February 1969) is a South Korean football manager and former [[Association football|footballer]] who played as a [[Defender (association football)#Sweeper (libero)|sweeper]]. He is currently the manager of the [[South Korea national football team|South Korea national team]].
+
+Hong is widely considered one of the greatest Asian defenders of all time.<ref>{{cite web |url=https://www.goal.com/en-sg/news/3952/asia/2013/06/19/4058684/hong-myung-bo-strongest-candidate-for-south-korea-post |title=Hong Myung-Bo strongest candidate for South Korea post |publisher=Goal |date=19 June 2013 |access-date=23 September 2019}}</ref> He participated at four consecutive [[FIFA World Cup]]s between 1990 and 2002, becoming the first Asian player to do so. He also received the [[FIFA World Cup award#Golden Ball|Bronze Ball]] at the [[2002 FIFA World Cup]], becoming the first Asian to receive an individual award at the World Cup.<ref name="Bronze"/> He received some votes in elections for the [[FIFA World Player of the Year]], finishing 21st in [[1996 FIFA World Player of the Year|1996]] and 17th in [[2002 FIFA World Player of the Year|2002]].<ref>{{cite web |url=http://archiviostorico.gazzetta.it/1997/gennaio/21/Ronaldo_Weah_vincono_due_ga_0_970121984.shtml |title=Ronaldo e Weah, vincono in due |language=it |publisher=La Gazzetta dello Sport |date=21 January 1997 |access-date=27 February 2021}}</ref><ref>{{cite web|url=http://www.european-football-statistics.co.uk/special/old/bestplayer02.htm|title=FIFA World player 2002 Elected by 148 managers of national teams|publisher=European Football Statistics}}</ref> In 2004, he was selected for the [[FIFA 100]] by [[Pelé]].<ref name="FIFA100"/>
+
+==International career==
+=== 1990 World Cup ===
+Hong was selected for the [[South Korea national football team|South Korea national team]] for the [[1990 FIFA World Cup]] just four months after his international debut.<ref>{{cite web |url=https://newslibrary.naver.com/viewer/index.nhn?articleId=1990053000289109003&editNo=4&printCount=1&publishDate=1990-05-30&officeId=00028&pageNo=9&printNo=631&publishType=00010 |script-title=ko:월드컵 축구팀 22명 최종확정 |website=[[Naver]] |publisher=[[The Hankyoreh]] |date=30 May 1990 |access-date=18 May 2020 |language=ko}}</ref> The youngest player at the team, he was one of the few South Koreans to be acclaimed, whlie they lost all three group stage matches.<ref>{{cite web |url=https://newslibrary.naver.com/viewer/index.nhn?articleId=1990061300329211003&editNo=3&printCount=1&publishDate=1990-06-13&officeId=00032&pageNo=11&printNo=13758&publishType=00020 |script-title=ko:崔순호·洪명보 두명만 뛰었다 |website=[[Naver]] |publisher=[[Kyunghyang Shinmun]] |date=13 June 1990 |access-date=18 May 2020 |language=ko}}</ref><ref>{{cite web |url=https://newslibrary.naver.com/viewer/index.nhn?articleId=1990062200209210003&editNo=2&printCount=1&publishDate=1990-06-22&officeId=00020&pageNo=10&printNo=21156&publishType=00020 |script-title=ko:마지막30초 虚찔렸지만 잘싸웠다 |first=Hong-ki |last=Han |website=[[Naver]] |publisher=[[The Dong-a Ilbo]] |date=22 June 1990 |access-date=18 May 2020 |language=ko}}</ref>
+
+=== 1994 World Cup ===
+Hong was selected for the [[South Korea national football B team|South Korea Universiade team]] for the [[Football at the 1991 Summer Universiade|1991 tournament]].<ref name="Universiade"/> He stabilised his team's defense, helping them advance to the final.<ref>{{cite web |url=https://newslibrary.naver.com/viewer/index.nhn?articleId=1991072300329111001&editNo=15&printCount=1&publishDate=1991-07-23&officeId=00032&pageNo=11&printNo=14119&publishType=00010 |script-title=ko:한국축구 U대회 "진군나팔" |website=[[Naver]] |publisher=[[Kyunghyang Shinmun]] |date=23 July 1991 |access-date=18 May 2020 |language=ko}}</ref> After a goalless draw with the Netherlands in the final, he scored his team's first penalty in a 5–4 penalty shoot-out win, contributing to winning the tournament.<ref>{{cite web |url=https://newslibrary.naver.com/viewer/index.nhn?articleId=1991072500209219001&editNo=2&printCount=1&publishDate=1991-07-25&officeId=00020&pageNo=19&printNo=21542&publishType=00020 |script-title=ko:궂은 비 맞으며 활활 타오른 투혼 한국축구 유니버시아드制覇 |website=[[Naver]] |publisher=[[The Dong-a Ilbo]] |date=25 July 1991 |access-date=18 May 2020 |language=ko}}</ref>
+
+Hong's talent started to receive attention internationally at the [[1994 FIFA World Cup]]. During the last five minutes of South Korea's opener against [[Spain men's national football team|Spain]], he converted opponents' 2–0 lead into a 2–2 draw by scoring a goal outside the penalty area and providing an assist for [[Seo Jung-won]]'s equaliser.<ref>{{cite web |url=https://newslibrary.naver.com/viewer/index.nhn?articleId=1994061900209101004&editNo=45&printCount=1&publishDate=1994-06-19&officeId=00020&pageNo=1&printNo=22546&publishType=00010 |script-title=ko:한국"「16强」보인다" |website=[[Naver]] |publisher=[[The Dong-a Ilbo]] |date=19 June 1994 |access-date=18 May 2020 |language=ko}}</ref> He once again scored a long-range goal in a 3–2 defeat to defending champions [[Germany national football team|Germany]].<ref>{{cite web |url=https://www.fifa.com/worldcup/archive/usa1994/matches/match/3076/#match-lineups |title=GERMANY 3-2 KOREA REPUBLIC |publisher=FIFA |access-date=18 May 2020}}</ref><ref>{{cite web |url=https://newslibrary.naver.com/viewer/index.nhn?articleId=1994062900289115005&editNo=5&printCount=1&publishDate=1994-06-29&officeId=00028&pageNo=15&printNo=1939&publishType=00010 |script-title=ko:94월드컵 한국 후회없이 싸웠다 |website=[[Naver]] |publisher=[[The Hankyoreh]] |date=29 June 1994 |access-date=18 May 2020 |language=ko}}</ref>
+
+=== 1998 World Cup ===
+Hong participated at the [[Football at the 1994 Asian Games|1994 Asian Games]] after the World Cup, but he injured his knee during a quarter-final match against [[Japan national football team|Japan]].<ref>{{cite web |url=https://newslibrary.naver.com/viewer/index.nhn?articleId=1994101200209123003&editNo=45&printCount=1&publishDate=1994-10-12&officeId=00020&pageNo=23&printNo=22653&publishType=00010 |script-title=ko:「월드컵 스타」황선홍이 해냈다 |website=[[Naver]] |publisher=[[The Dong-a Ilbo]] |date=12 October 1994 |access-date=18 May 2020 |language=ko}}</ref> South Korea lost to [[Uzbekistan national football team|Uzbekistan]] in the semi-finals after he quit the competition.
+
+While [[Park Jong-hwan (footballer)|Park Jong-hwan]] managed South Korea from 1995 to 1996, Hong was suspected of being in conflict with Park, who had a coercive disposition. The press reported that Hong formed a faction at the national team,<ref>{{cite web |url=https://newslibrary.naver.com/viewer/index.nhn?articleId=1996121700329116007&editNo=45&printCount=1&publishDate=1996-12-17&officeId=00032&pageNo=16&printNo=15968&publishType=00010 |script-title=ko:축구계「열하나회」있다 |website=[[Naver]] |publisher=[[Kyunghyang Shinmun]] |date=17 December 1996 |access-date=18 May 2020 |language=ko}}</ref> and doubted whether Hong did his best at the [[1996 AFC Asian Cup]], where South Korea was eliminated after a 6–2 quarter-final defeat to [[Iran national football team|Iran]].<ref>{{cite web |url=https://m.pressian.com/m/pages/articles/69111?no=69111 |first=Hee-jun |last=Jeong |script-title=ko:기성용 전에는 홍명보가 있었다…"그러다 다친" 감독들 |publisher=[[Pressian]] |date=8 July 2013 |access-date=18 May 2020 |language=ko}}</ref>
+
+Under [[Cha Bum-kun]], the next manager, South Korea had one draw and two defeats including a 5–0 defeat to the [[Netherlands national football team|Netherlands]] in the group stage of the [[1998 FIFA World Cup]]. Hong and his teammates conceded nine goals in three matches.<ref>{{cite web |url=https://newslibrary.naver.com/viewer/index.nhn?articleId=1998062200289118002&editNo=6&printCount=1&publishDate=1998-06-22&officeId=00028&pageNo=18&printNo=3225&publishType=00010 |script-title=ko:전술도 투지도 없었다 한국,최악의 수모 |website=[[Naver]] |publisher=[[The Hankyoreh]] |date=22 June 1998 |access-date=18 May 2020 |language=ko}}</ref>
+
+=== 2002 World Cup ===
+Hong was going to be selected as an overage player of the [[South Korea national under-23 football team|South Korea under-23 team]] for the [[Football at the 2000 Summer Olympics – Men's tournament|2000 Summer Olympics]], but he was injured just before the tournament.<ref>{{cite web |url=https://news.joins.com/article/9025192 |script-title=ko:[런던2012]런던서 '올림픽 恨' 푼 홍명보 감독 |publisher=[[JoongAng Ilbo]] |date=11 August 2012 |access-date=18 May 2020 |language=ko}}</ref>
+
+At the [[2000 AFC Asian Cup]], where South Korea finished third, Hong captained the national team, and was selected for the All-Star Team.
+
+Hong led South Korea to a historic fourth-place finish at the [[2002 FIFA World Cup]]. He commanded South Korea's defensive line, which conceded only three goals until the semi-finals, and scored the final penalty to secure a 5–3 shoot-out win in a quarter-final match against Spain. Despite his error in the third place match against [[Turkey national football team|Turkey]], which was followed by the fastest goal in World Cup history,<ref>{{cite news |url=https://www.theguardian.com/football/2002/jun/29/worldcupfootball2002.sport8 |title=South Korea 2 - 3 Turkey |publisher=The Guardian |date=29 June 2002 |access-date=21 January 2026}}</ref> the Technical Study Group voted him as the third best player of the tournament, giving the Bronze Ball to him. He became the first-ever Asian player to be named one of the top three players at a World Cup.<ref name="Bronze"/>
+
+That year, Hong ended his international career after a friendly match against World Cup champions [[Brazil national football team|Brazil]]. He was South Korea's all-time leader in appearances with 136 caps at the time,<ref>{{cite web |url=https://bleacherreport.com/articles/1285522-south-korea-2002-fifa-world-cup-retrospective#/articles/1285522-south-korea-2002-fifa-world-cup-retrospective |title=South Korea 2002 FIFA World Cup Retrospective |first=Allan |last=Jiang |publisher=Bleacher Report |date=5 August 2012 |access-date=23 March 2018}}</ref> and his record was broken by [[Son Heung-min]] in 2025.<ref>{{cite news |url=https://www.koreatimes.co.kr/sports/20251010/son-heung-min-becomes-most-capped-male-player-in-s-korean-football |title=Son Heung-min becomes most-capped male player in S. Korean football |publisher=The Korea Times |date=10 October 2025 |access-date=10 October 2025}}</ref>
+
+==Style of play==
+Hong didn't have rapid pace, untiring stamina or outstanding ability in [[man-to-man defense]], but he possessed a wide field of vision as well as great leadership skills with which he marshalled his defensive partners.<ref>{{cite web |url=https://newslibrary.naver.com/viewer/index.nhn?articleId=1996120600289118001&editNo=6&printCount=1&publishDate=1996-12-06&officeId=00028&pageNo=18&printNo=2745&publishType=00010 |script-title=ko:공수핵 홍명보 약점보강 열쇠 |date=6 December 1996 |access-date=17 May 2020 |website=[[Naver]] |publisher=[[The Hankyoreh]] |language=ko}}</ref><ref>{{cite web |url=https://www.hankyung.com/sports/article/2002060114478 |script-title=ko:[월드컵] 홍명보 수비라인복귀, `천군만마' |date=1 June 2002 |access-date=17 May 2020 |publisher=[[The Korea Economic Daily]] |language=ko}}</ref><ref>{{cite web |url=https://www.sportalkorea.com/news/view.php?gisa_uniq=2015111907023253 |script-title=ko:[홍의택의 대담] 아시아의 리베로가 말한다, '한국 중앙 수비수' |date=24 May 2017 |access-date=17 May 2020 |publisher=Sportalkorea |language=ko}}</ref> An offensive [[Defender (association football)#Sweeper (libero)|sweeper]], he was noted for his accurate long-range passing skills which greatly contributed to South Korea's attack.<ref>{{cite web |url=https://newslibrary.naver.com/viewer/index.nhn?articleId=1997110200209111016&editNo=45&printCount=1&publishDate=1997-11-02&officeId=00020&pageNo=11&printNo=23697&publishType=00010 |script-title=ko:「홍명보 공백」못메우고 공-수서 몰락 |date=2 November 1997 |access-date=17 May 2020 |website=[[Naver]] |publisher=[[The Dong-a Ilbo]] |language=ko}}</ref> He was nicknamed the "Eternal Libero" by the South Korean media, and became a preeminent icon of South Korean football during his era.<ref>{{cite web |url=https://news.joins.com/article/15216909 |script-title=ko:'영원한 리베로' 홍명보, 24년 대표팀 영욕의 역사 |date=10 July 2014 |access-date=17 May 2020 |publisher=[[JoongAng Ilbo]] |language=ko}}</ref>
+
+==Managerial career==
+=== South Korea ===
+On 26 September 2005, after his retirement as a player, Hong returned to the national team as an assistant coach. He took part in the [[2006 FIFA World Cup]], helping manager [[Dick Advocaat]]. He also worked with the next manager [[Pim Verbeek]] at the [[2007 AFC Asian Cup]]. After Verbeek's resignation, he was one of the candidates to become the next manager.
+
+On 19 February 2009, the [[Korea Football Association]] (KFA) announced that they had appointed Hong as the manager of the [[South Korea national under-20 football team|South Korea under-20 team]]. At the [[2009 FIFA U-20 World Cup]], the team reached the quarter-finals under his guidance, but lost 3–2 to eventual champions [[Ghana national under-20 football team|Ghana]] in the quarter-finals.
+
+In October 2009, he took over duties as a manager of the [[South Korea national under-23 football team|South Korea under-23 team]]. He won bronze at both the [[Football at the 2010 Asian Games – Men's tournament|2010 Asian Games]] and the [[Football at the 2012 Summer Olympics – Men's tournament|2012 Summer Olympics]]. He achieved South Korea's first-ever Olympic medal in football, also known as Asia's second.<ref>{{cite web |url=https://www.cbc.ca/sports/2.720/south-korea-blanks-japan-for-men-s-soccer-bronze-1.1211596 |title=South Korea blanks Japan for men's soccer bronze – CBC Sports |publisher=CBC Sports |access-date=23 March 2018}}</ref>
+
+After working as assistant coach to [[Guus Hiddink]] at [[Russian Premier League]] club [[FC Anzhi Makhachkala|Anzhi Makhachkala]] for half a year, on 24 June 2013, Hong was appointed [[South Korea national football team|South Korea]]'s manager. His predecessor [[Choi Kang-hee (footballer)|Choi Kang-hee]] resigned voluntarily at the end of the [[2014 FIFA World Cup qualification (AFC)|2014 FIFA World Cup qualification]], and he started to prepare the [[2014 FIFA World Cup]], which was going to be held after a year.<ref>{{cite news |url=https://www.reuters.com/article/sports/south-korea-name-hong-as-new-coach-idUSBRE95N046/ |title=South Korea name Hong as new coach |publisher=Reuters |date=24 June 2013 |access-date=11 October 2024}}</ref> After a winless World Cup campaign, on 10 July 2014, he resigned from his post.<ref name=":0">{{Cite web |last=Yoo |first=Jee-ho |date=7 July 2024 |title=(3rd LD) Hong Myung-bo named new head coach for men's nat'l football team |url=https://en.yna.co.kr/view/AEN20240707002153315?section=sports/sports |access-date=7 July 2024 |publisher=[[Yonhap News Agency]]}}</ref>
+
+=== Hangzhou Greentown ===
+On 17 December 2015, Hong was appointed manager of [[Chinese Super League]] club [[Hangzhou Greentown]]. In his first match on 6 March 2016, he guided the club to a 2–1 win over [[Changchun Yatai F.C.|Changchun Yatai]]. However, his team was relegated to the [[China League One]] after the [[2016 Chinese Super League|2016 season]]. The next year, he resigned from the club and criticised the club's owner for interfering in tactics and selection of players.<ref>{{cite news |url=https://www.koreatimes.co.kr/www/sports/2024/10/600_230299.html |title=Korean coach blasts Chinese football club for 'EXCESSIVE' management meddling |publisher=The Korea Times |date=30 May 2017 |access-date=11 October 2024}}</ref>
+
+=== Ulsan Hyundai ===
+On 24 December 2020, Hong became the manager of [[K League 1]] club [[Ulsan HD FC|Ulsan Hyundai]].<ref>{{cite web |title=Ex-national football coach Hong Myung-bo takes over K League's Ulsan |url=https://www.koreatimes.co.kr/www/sports/2020/12/600_301406.html |website=[[The Korea Times]] |date=24 December 2020}}</ref> He led Ulsan to win two consecutive league titles in [[2022 K League 1|2022]] and [[2023 K League 1|2023]].<ref name=":0" />
+
+=== Return to South Korea ===
+On 8 July 2024, Hong was reappointed as South Korea's manager by KFA's committeemen in charge of finding a new manager.<ref name=":0" /> KFA president [[Chung Mong-gyu]], who preferred foreign managers to domestic managers, tried to interfere in the procedure, but Hong's appointment was not reversed by the support of executives and committeemen.<ref>{{cite news |url=https://www.khan.co.kr/article/202410021601001 |script-title=ko:문체부 “1순위 홍명보 먼저 만났다면 문제 없었을 것···계약 무효 판단 어려워” |language=ko |publisher=Kyunghyang |date=2 October 2024 |access-date=13 June 2025}}</ref> His team qualified for the [[2026 FIFA World Cup]] with six wins and four draws without a defeat despite criticism about three consecutive draws in the middle of the [[2026 FIFA World Cup qualification – AFC third round|qualifiers]].<ref>{{cite news |url=https://www.kyeonggi.com/article/20250326580357 |script-title=ko:홍명보호, 3연속 무승부…잇단 추가골 불발 ‘답답’ |language=ko |publisher=Kyeonggi Ilbo |date=26 March 2025 |access-date=13 June 2025}}</ref>
+
+==Personal life==
+In 1997, Hong married a woman five years his junior, and has two sons.<ref>{{cite web |url=http://www.donga.com/docs/magazine/woman_donga/200202/people14.html |script-title=ko:국가대표 복귀문제로 논란 이는 한국축구 간판스타 홍명보·조수미 부부 |language=ko |publisher=W Dong-A |access-date=22 August 2012 |url-status=dead |archive-url=https://web.archive.org/web/20150923223538/http://www.donga.com/docs/magazine/woman_donga/200202/people14.html |archive-date=23 September 2015 }}</ref>
+
+==Career statistics==
+
+===Club===
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition<ref>{{cite web|url=http://www.kleague.com/record?ch=011659 |script-title=ko:#20 홍명보 |language=ko |publisher=K League |access-date=27 June 2019}}</ref>
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup
+!colspan="2"|League cup
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division
+!Apps!!Goals
+!Apps!!Goals
+!Apps!!Goals
+!Apps!!Goals
+!Apps!!Goals
+!Apps!!Goals
+|-
+|[[Sangju Sangmu FC|Sangmu FC]] ([[Conscription in South Korea|draft]])
+|1991||[[Korean National Semi-Professional Football League|Semipro League]]||||||{{efn|name=KOR1|Appearance(s) in [[Korean National Football Championship|Korean National Championship]]}}||||{{efn|Appearance(s) in [[Korean National Semi-Professional Football Championship|Korean Semi-professional Championship]]}}||||colspan="2"|—||{{efn|name=PC|Appearance(s) in [[Korean President's Cup National Football Tournament|Korean President's Cup]]}}||||||
+|-
+|rowspan="7"|[[Pohang Steelers]]
+|[[1992 K-League|1992]]||[[K League]]||29||1||colspan="2"|—||8||0||colspan="2"|—||colspan="2"|—||37||1
+|-
+|[[1993 K-League|1993]]||K League||11||1||colspan="2"|—||1||0||colspan="2"|—||colspan="2"|—||12||1
+|-
+|[[1994 K-League|1994]]||K League||17||4||colspan="2"|—||0||0||colspan="2"|—||colspan="2"|—||17||4
+|-
+|[[1995 K-League|1995]]||K League||24||1||colspan="2"|—||7||0||colspan="2"|—||colspan="2"|—||31||1
+|-
+|[[1996 K-League|1996]]||K League||29||7||{{efn|name=KOR|Appearance(s) in [[Korean FA Cup]]}}||||5||0||{{efn|name=ACL|Appearance(s) in [[AFC Champions League|Asian Club Championship]]}}||||colspan="2"|—||34||7
+|-
+|[[1997 K-League|1997]]||K League||0||0||{{efn|name=KOR}}||||6||0||{{efn|name=ACL}}||||colspan="2"|—||6||0
+|-
+!colspan="2"|Total
+!110!!14!!!!!!27!!0!!!!!!colspan="2"|—!!137!!14
+|-
+|rowspan="3"|[[Bellmare Hiratsuka]]
+|[[1997 Bellmare Hiratsuka season|1997]]||[[J1 League]]||10||0||3||1||0||0||colspan="2"|—||colspan="2"|—||13||1
+|-
+|[[1998 Bellmare Hiratsuka season|1998]]||J1 League||32||0||2||0||0||0||colspan="2"|—||colspan="2"|—||34||0
+|-
+!colspan="2"|Total
+!42!!0!!5!!1!!0!!0!!colspan="2"|—!!colspan="2"|—!!47!!1
+|-
+|rowspan="4"|[[Kashiwa Reysol]]
+|[[1999 Kashiwa Reysol season|1999]]||J1 League||28||5||4||2||5||2||colspan="2"|—||colspan="2"|—||37||9
+|-
+|[[2000 Kashiwa Reysol season|2000]]||J1 League||29||2||2||0||2||0||colspan="2"|—||colspan="2"|—||33||2
+|-
+|[[2001 Kashiwa Reysol season|2001]]||J1 League||15||0||0||0||3||0||colspan="2"|—||colspan="2"|—||18||0
+|-
+!colspan="2"|Total
+!72!!7!!6!!2!!10!!2!!colspan="2"|—!!colspan="2"|—!!88!!11
+|-
+|Pohang Steelers
+|[[2002 K-League|2002]]||K League||19||0||{{efn|name=KOR}}||||0||0||colspan="2"|—||colspan="2"|—||19||0
+|-
+|rowspan="3"|[[LA Galaxy]]
+|[[2003 Major League Soccer season|2003]]||[[Major League Soccer]]||25||0||2||0||colspan="2"|—||{{efn|Appearance(s) in [[CONCACAF Champions League|CONCACAF Champions' Cup]]}}||||colspan="2"|—||27||0
+|-
+|[[2004 Major League Soccer season|2004]]||Major League Soccer||13||0||0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||13||0
+|-
+!colspan="2"|Total
+!38!!0!!2!!0!!colspan="2"|—!!!!!!colspan="2"|—!!40!!0
+|-
+!colspan="3"|Career total
+!281!!21!!13!!3!!37!!2!!!!!!!!!!331!!26
+|}
+{{notelist}}
+
+===International===
+<div><li style=display:inline-table;>
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year<ref>{{cite web |url=https://www.rsssf.org/miscellaneous/hong-intl.html |title=Myung-Bo Hong – Century of International Appearances |website=RSSSF |access-date=23 March 2018}}</ref>
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="13"|[[South Korea national football team|South Korea]]
+|[[South Korea national football team results (1990–1999)|1990]]||20||2
+|-
+|1991||1||0
+|-
+|1992||3||1
+|-
+|1993||18||2
+|-
+|1994||14||4
+|-
+|1995||5||0
+|-
+|1996||16||1
+|-
+|1997||12||0
+|-
+|1998||8||0
+|-
+|1999||5||0
+|-
+|[[South Korea national football team results (2000–2009)|2000]]||11||0
+|-
+|2001||7||0
+|-
+|2002||16||0
+|-
+!colspan="2"|Total!!136!!10
+|}
+</li> <li style=display:inline-table>
+{| class="wikitable" style="text-align:center"
+|+Appearances and goals by competition
+|-
+!Competition!!Apps!!Goals
+|-
+|align="left"|[[Exhibition game|Friendlies]]
+|48
+|2
+|-
+|align="left"|Minor competitions
+|26
+|2
+|-
+|align="left"|[[CONCACAF Gold Cup]]
+|2
+|0
+|-
+|align="left"|[[Football at the Asian Games|Asian Games]]
+|9
+|1
+|-
+|align="left"|[[AFC Asian Cup qualification]]
+|3
+|1
+|-
+|align="left"|[[AFC Asian Cup]]
+|9
+|0
+|-
+|align="left"|[[FIFA Confederations Cup]]
+|3
+|0
+|-
+|align="left"|[[FIFA World Cup qualification]]
+|20
+|2
+|-
+|align="left"|[[FIFA World Cup]]
+|16
+|2
+|-
+!Total!!136!!10
+|}
+</li></div>
+:''Results list South Korea's goal tally first.''
+{| class="wikitable sortable"
+|+List of international goals scored by Hong Myung-bo
+|-
+! No. !! Date !! Venue 
+!Cap!! Opponent !! Score !! Result !! Competition
+|-
+| align="center"|1 || 3 August 1990 || [[Beijing]], China 
+| align="center"|10|| {{fb|CHN}} || align="center"|1–0 || align="center"|1–1 {{aet}}<br>{{pso|6–5}} || [[1990 Dynasty Cup]]
+|-
+| align="center"|2 || 23 September 1990 || Beijing, China 
+| align="center"|13|| {{fb|SIN}} || align="center"|1–0 || align="center"|7–0 || [[Football at the 1990 Asian Games|1990 Asian Games]]
+|-
+| align="center"|3 || 24 August 1992 || Beijing, China 
+| align="center"|23|| {{fb|PRK}} || align="center"|1–0 || align="center"|1–1 || [[1992 Dynasty Cup]]
+|-
+| align="center"|4 || 13 May 1993 || [[Beirut]], Lebanon 
+| align="center"|29|| {{fb|IND}} || align="center"|1–0 || align="center"|3–0 || [[1994 FIFA World Cup qualification (AFC)|1994 FIFA World Cup qualification]]
+|-
+| align="center"|5 || 19 October 1993 || [[Doha]], Qatar 
+| align="center"|39|| {{fb|IRQ|1991}} || align="center"|2–1 || align="center"|2–2 || 1994 FIFA World Cup qualification
+|-
+| align="center"|6 || 5 June 1994 || [[Boston]], United States 
+| align="center"|46|| {{fb|ECU}} || align="center"|1–1 || align="center"|1–2 || [[Exhibition game|Friendly]]
+|-
+| align="center"|7 || 17 June 1994 || [[Dallas]], United States 
+| align="center"|48|| {{fb|ESP}} || align="center"|1–2 || align="center"|2–2 || [[1994 FIFA World Cup]]
+|-
+| align="center"|8 || 27 June 1994 || Dallas, United States 
+| align="center"|50|| {{fb|DEU}} || align="center"|2–3 || align="center"|2–3 || 1994 FIFA World Cup
+|-
+| align="center"|9 || 11 September 1994 ||[[Gangneung]], South Korea 
+| align="center"|51|| {{fb|UKR}} || align="center"|1–0 || align="center"|1–0 || Friendly
+|-
+| align="center"|10 || 8 August 1996 || [[Ho Chi Minh City]], Vietnam 
+| align="center"|69|| {{fb|TPE}} || align="center"|1–0 || align="center"|4–0 || [[1996 AFC Asian Cup qualification]]
+|-
+|}
+
+==Managerial statistics==
+{{updated|match played 3 June 2026}}
+
+{| class=wikitable style="text-align:center;"
+|+ Managerial record by team and tenure
+|-
+!rowspan="2"|Team
+!rowspan="2"|From
+!rowspan="2"|To
+!colspan="5"|Record
+!rowspan="2"|{{Ref.}}
+|-
+!{{Tooltip|Pld|Matches played}}
+!{{Tooltip|W|Matches won}}
+!{{Tooltip|D|Matches drawn}}
+!{{Tooltip|L|Matches lost}}
+!{{Tooltip|Win %|Win percentage}}
+|-
+|[[South Korea national under-20 football team|South Korea U20]]
+|align="left"|19 February 2009
+|align="left"|9 October 2009
+{{WDL|12|8|2|2}}
+|<ref>{{cite web |url=https://www.kfa.or.kr/national/?act=mu_20&position=&s_idx=6967&search_val=2009&cursor=#cursor_location_sub |title=Men's U-20 results - 2009 |publisher=KFA |access-date=15 September 2025}}</ref>
+|-
+|[[South Korea national under-23 football team|South Korea U23]]
+|align="left"|20 October 2009
+|align="left"|27 June 2013
+{{WDL|32|19|8|5}}
+|<ref>{{cite web |url=https://www.kfa.or.kr/national/?act=mu_23&position=&s_idx=2008&search_val=2009&cursor=#cursor_location_sub |title=Men's U-23 results - 2009 |publisher=KFA |access-date=12 September 2025}}</ref><ref>{{cite web |url=https://www.kfa.or.kr/national/?act=mu_23&position=&s_idx=2008&search_val=2010&cursor=#cursor_location_sub |title=Men's U-23 results - 2010 |publisher=KFA |access-date=12 September 2025}}</ref><ref>{{cite web |url=https://www.kfa.or.kr/national/?act=mu_23&position=&s_idx=2008&search_val=2011&cursor=#cursor_location_sub |title=Men's U-23 results - 2011 |publisher=KFA |access-date=12 September 2025}}</ref><ref>{{cite web |url=https://www.kfa.or.kr/national/?act=mu_23&position=&s_idx=2008&search_val=2012&cursor=#cursor_location_sub |title=Men's U-23 results - 2012 |publisher=KFA |access-date=12 September 2025}}</ref>
+|-
+|[[South Korea national football team|South Korea]]
+|align="left"|27 June 2013
+|align="left"|10 July 2014
+{{WDL|19|5|4|10}}
+|<ref>{{cite web |url=https://www.kfa.or.kr/national/?act=nt_man&position=&s_idx=6887&search_val=2013&cursor=#cursor_location_sub |title=Men's A results - 2013 |publisher=KFA |access-date=12 September 2025}}</ref><ref>{{cite web |url=https://www.kfa.or.kr/national/?act=nt_man&position=&s_idx=6887&search_val=2014&cursor=#cursor_location_sub |title=Men's A results - 2014 |publisher=KFA |access-date=12 September 2025}}</ref>
+|-
+|[[Zhejiang Professional F.C.|Hangzhou Greentown]]
+|align="left"|17 December 2015
+|align="left"|27 May 2017
+{{WDL|45|15|11|19}}
+|<ref>{{cite web |url=https://www.rsssf.org/tablesc/china2016.html |title=China 2016 |publisher=RSSSF |date=2 August 2018 |access-date=15 September 2025}}</ref><ref>{{cite web |url=https://www.flashscore.com/football/china/jia-league-2017/results/ |title=Jia League 2017 results, Football China |publisher=Flashscore |access-date=15 September 2025}}</ref><ref>{{cite web |url=https://www.rsssf.org/tablesc/china2017.html |title=China 2017 |publisher=RSSSF |date=27 May 2021 |access-date=15 September 2025}}</ref>
+|-
+|[[Ulsan HD FC|Ulsan HD]]{{efn|Ulsan HD did not recognise penalty shoot-outs (at the [[Korean FA Cup|Korea Cup]] and the [[AFC Champions League Elite|AFC Champions League]]) as draws, announcing that Hong reached the 100th win in the 170th match. He finally had 102 wins, 37 draws and 36 losses according to their standard.<ref>{{cite news |url=https://www.uhdfc.com/board/board_view.php?page=3&no_seq=56043&buid=news_g&s_field=bd_title&s_value=#:~:text=%ED%95%9C%ED%8E%B8%2C%20%EC%9A%B8%EC%82%B0%20%EA%B5%AC%EB%8B%A8%EC%97%90%EC%84%9C%EB%8A%94%20%ED%99%8D%EB%AA%85%EB%B3%B4%20%EA%B0%90%EB%8F%85%EC%9D%98%20100%EC%8A%B9%EC%9D%84%20%EA%B8%B0%EB%85%90%ED%95%B4,%ED%9B%84%20%EC%84%B1%EC%A0%81%5D%20%E2%96%A1%20K%EB%A6%AC%EA%B7%B81%20131%EA%B2%BD%EA%B8%B0%2075%EC%8A%B9%2033%EB%AC%B4 |script-title=ko:‘킹 오브 킹스’ 울산 HD 홍명보 감독, 통산 100승 달성! 1,207일 만에 쾌거! |language=ko |publisher=Ulsan HD FC |date=19 June 2024 |access-date=16 September 2025}}</ref>}}
+|align="left"|24 December 2020
+|align="left"|11 July 2024
+{{WDL|175|99|42|34}}
+|<ref>{{cite web |url=https://www.rsssf.org/tablesf/fifa-wcc2020.html |title=FIFA Club World Cup 2020/21 |publisher=RSSSF |date=23 February 2022 |access-date=16 September 2025}}</ref><ref>{{cite web |url=https://www.rsssf.org/tabless/skor2021.html |title=South Korea 2021 |publisher=RSSSF |date=5 December 2024 |access-date=21 December 2024 |archive-date=2 January 2025 |archive-url=https://web.archive.org/web/20250102172103/https://www.rsssf.org/tabless/skor2021.html |url-status=live }}</ref><ref>{{cite web |url=https://www.rsssf.org/tablesa/ascup2021.html#cl |title=Asian Champions League 2021 |publisher=RSSSF |date=12 December 2022 |access-date=21 December 2024 |archive-date=3 December 2024 |archive-url=https://web.archive.org/web/20241203062646/https://www.rsssf.org/tablesa/ascup2021.html#cl |url-status=live }}</ref><ref>{{cite web |url=https://www.rsssf.org/tabless/skor2022.html |title=South Korea 2022 |publisher=RSSSF |date=5 December 2024 |access-date=21 December 2024}}</ref><ref>{{cite web |url=https://www.rsssf.org/tablesa/ascup2022.html#cl |title=Asian Champions League 2022/23 |publisher=RSSSF |date=6 May 2023 |access-date=21 December 2024 |archive-date=14 October 2024 |archive-url=https://web.archive.org/web/20241014233006/https://rsssf.org/tablesa/ascup2022.html#cl |url-status=live }}</ref><ref>{{cite web |url=https://www.rsssf.org/tabless/skor2023.html |title=South Korea 2023 |publisher=RSSSF |date=5 December 2024 |access-date=21 December 2024}}</ref><ref>{{cite web |url=https://www.the-afc.com/en/club/afc_champions_league_elite/archive/202324.html |title=AFC Champions League 2023/24 Archive |publisher=AFC |access-date=16 September 2025}}</ref><ref>{{cite web |url=https://www.rsssf.org/tabless/skor2023.html |title=South Korea 2024 |publisher=RSSSF |date=8 December 2024 |access-date=16 September 2025}}</ref>
+|-
+|[[South Korea national football team|South Korea]]
+|align="left"|8 July 2024
+|align="left"|Present
+{{WDL|23|14|5|4}}
+|<ref>{{cite web |url=https://www.kfa.or.kr/national/?act=nt_man&position=&s_idx=6887&search_val=2024&cursor=#cursor_location_sub |title=Men's A results - 2024 |publisher=KFA |access-date=12 September 2025}}</ref><ref>{{cite web |url=https://www.kfa.or.kr/national/?act=nt_man&position=&s_idx=6887&search_val=2025&cursor=#cursor_location_sub |title=Men's A results - 2025 |publisher=KFA |access-date=12 September 2025}}</ref>
+|-
+!colspan="3"|Total
+{{WDLtot|306|160|72|74}}
+!
+|}
+{{notelist}}
+
+==Honours==
+===Player===
+'''Sangmu FC'''
+*[[Korean National Semi-Professional Football League|Korean Semi-professional League (Autumn)]]: 1991<ref name="Leagues">{{cite web |url=https://www.rsssf.org/tabless/skorchamp.html |title=South Korea - List of Champions |date=13 May 2020 |access-date=2 September 2020 |first1=Seung-soo |last1=Lee |first2=Hans |last2=Schöggl |first3=Mark |website=[[RSSSF]] |last3=Trevena}}</ref>
+
+'''Pohang Steelers'''
+*[[AFC Champions League|Asian Club Championship]]: [[1996–97 Asian Club Championship|1996–97]]<ref>{{cite web |url=https://www.rsssf.org/tablesa/as1.html |title=Asian Champions' Cup |date=25 March 2020 |access-date=2 September 2020 |first1=Atsushi |last1=Fujioka |first2=Stephen |last2=Halchuk |first3=Karel |website=[[RSSSF]] |last3=Stokkermans}}</ref>
+*[[K League 1]]: [[1992 K League|1992]]<ref name="Leagues"/>
+*[[Korean FA Cup]]: [[1996 Korean FA Cup|1996]]<ref name="Cups">{{cite web |url=https://www.rsssf.org/tabless/skorcuphist.html |title=South Korea - List of Cup Winners |date=8 April 2020 |access-date=2 September 2020 |first1=Seung-soo |last1=Lee |first2=Mark |website=[[RSSSF]] |last2=Trevena}}</ref>
+*[[Korean League Cup]]: [[1993 Korean League Cup|1993]]<ref name="Cups"/>
+
+'''Kashiwa Reysol'''
+*[[J.League Cup]]: [[1999 J.League Cup|1999]]<ref>{{cite web |url=https://www.rsssf.org/tablesj/japleagcuphist.html |title=Japan - List of League Cup Winners |date=8 April 2020 |access-date=5 September 2020 |first=Erlan |website=[[RSSSF]] |last=Manaschev}}</ref>
+
+'''South Korea B'''
+*[[Football at the Summer Universiade|Summer Universiade]]: [[Football at the 1991 Summer Universiade|1991]]<ref>{{cite news |url=https://www.rsssf.org/tablesf/fisu.html |title=Universiade |date=30 July 2020 |access-date=5 September 2020 |first1=Erik |last1=Garin |first2=Roberto |website=[[RSSSF]] |last2=Di Maggio}}</ref>
+
+'''South Korea'''
+*[[Football at the Asian Games|Asian Games]] bronze medal: [[Football at the 1990 Asian Games|1990]]<ref name="AsianGames">{{cite web |url=https://www.rsssf.org/tablesa/asia-games.html |title=Asian Games |date=6 September 2018 |access-date=4 September 2020 |first=Karel |website=[[RSSSF]] |last=Stokkermans}}</ref>
+*[[AFC Asian Cup]] third place: [[2000 AFC Asian Cup|2000]]<ref>{{cite news |url=https://www.rsssf.org/tablesa/asiachamp.html |title=Asian Nations Cup |date=7 February 2019 |access-date=2 September 2020 |first=Karel |website=[[RSSSF]] |last=Stokkermans}}</ref>
+*[[Dynasty Cup]]: [[1990 Dynasty Cup|1990]]<ref>{{cite news |url=https://www.rsssf.org/tablesd/dynastycup.html |title=Dynasty Cup |date=20 June 2007 |access-date=4 September 2020 |first1=Josef |last1=Bobrowsky |first2=Karel |website=[[RSSSF]] |last2=Stokkermans}}</ref>
+
+'''Individual'''
+*[[FIFA]] [[World XI]]: 1997<ref>{{cite web|url=https://www.rsssf.org/miscellaneous/fifa-xi.html|title=FIFA XI´s Matches – Full Info|website=[[RSSSF]]|date=20 October 2015}}</ref>
+*[[FIFA World Cup awards#Golden Ball|FIFA World Cup Bronze Ball]]: [[2002 FIFA World Cup|2002]]<ref name="Bronze">{{cite web|url=https://www.fifa.com/worldcup/archive/koreajapan2002/awards/index.html?intcmp=fifacom_hp_module_news|archive-url=https://web.archive.org/web/20180729081333/https://www.fifa.com/worldcup/archive/koreajapan2002/awards/index.html?intcmp=fifacom_hp_module_news|url-status=dead|archive-date=29 July 2018|title=Awards|publisher=FIFA|access-date=29 July 2018}}</ref>
+*[[FIFA World Cup awards#All-Star Team|FIFA World Cup All-Star Team]]: [[2002 FIFA World Cup|2002]]<ref>{{cite web|url=https://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/08/41/fwc_korea_japan_2002_a_part1_265.pdf|archive-url=https://web.archive.org/web/20090711052315/http://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/08/41/fwc_korea_japan_2002_a_part1_265.pdf|url-status=dead|archive-date=11 July 2009|title=2002 FIFA World Cup Korea/Japan: Report and Statistics|publisher=FIFA}}</ref>
+*[[FIFA World Cup awards#All-Star Team|FIFA World Cup Fans' All-Star Team]]: [[2002 FIFA World Cup|2002]]<ref>{{cite web |archive-url=https://web.archive.org/web/20020703223230/http://promo.yahoo.com/fifa/mastercard/fantasypoll/en/results.html |url=http://promo.yahoo.com/fifa/mastercard/fantasypoll/en/results.html |title=THE RESULTS ARE IN |publisher=FIFA, MasterCard |archive-date=3 July 2002 |access-date=25 April 2026}}</ref>
+*[[FIFA 100]]: 2004<ref name="FIFA100">{{cite news |url=https://www.theguardian.com/football/2004/mar/04/newsstory.sport15  |title=The Fifa 100 |work=The Guardian |date=4 March 2004}}</ref>
+*[[AFC Annual Awards#Asian All Stars|AFC Asian All-Star]]: 1993, 1997, 2000<ref>{{cite news |url=https://newslibrary.naver.com/viewer/index.naver?articleId=1993103000099118016&editNo=15&printCount=1&publishDate=1993-10-30&officeId=00009&pageNo=18&printNo=8574&publishType=00010 |script-title=ko:辛홍기·洪명보「아시아베스트11」올라 |website=[[Naver]] |publisher=[[Maeil Business Newspaper]] |date=30 October 1993 |access-date=16 May 2022 |language=ko}}</ref><ref>{{cite web|url=https://www.rsssf.org/miscellaneous/as-poy.html|title=Asian Player of the Year|website=[[RSSSF]]|date=18 January 2018}}</ref>
+*[[AFC Asian Cup]] Team of the Tournament: [[2000 AFC Asian Cup|2000]]<ref>{{cite web |url=https://worldcdb.com/asiancup2000.htm |script-title=ja:アジアカップ2000・レバノン大会 |language=ja |publisher=WorldCup's world |access-date=15 June 2020}}</ref>
+*[[Asian Football Hall of Fame|AFC Hall of Fame]]: 2014<ref>{{cite web |url=http://in.reuters.com/article/soccer-asia-halloffame-idINKCN0J50YG20141121 |archive-url=https://web.archive.org/web/20160305212927/http://in.reuters.com/article/soccer-asia-halloffame-idINKCN0J50YG20141121 |url-status=dead |archive-date=5 March 2016 |first1=Peter |last1=Rutherford |first2=Patrick |last2=Johnston |title=Kewell, Hong, Daei among AFC's first Hall of Fame inductees |date=21 November 2014 |access-date=21 November 2014 |work=Reuters}}</ref>
+*[[Asian nations at the FIFA World Cup#Notable players|AFC Opta All-time XI at the FIFA World Cup]]: 2020<ref name="afcwc">{{cite web |url=https://www.the-afc.com/competitions/fifa-world-cup/latest/news/the-best-asian-team-at-the-fifa-world-cup-announced |archive-url=https://web.archive.org/web/20210116082205/https://www.the-afc.com/competitions/fifa-world-cup/latest/news/the-best-asian-team-at-the-fifa-world-cup-announced |title=The best Asian team at the FIFA World Cup announced! |publisher=Asian Football Confederation |date=7 July 2020 |access-date=19 May 2021 |archive-date=16 January 2021}}</ref>
+*[[Asian nations at the FIFA World Cup#Notable players|AFC Fans' All-time XI at the FIFA World Cup]]: 2020<ref name="afcwc"/>
+*[[AFC Asian Cup awards#All-time XI|AFC Asian Cup All-time XI]]: 2023<ref>{{cite news |url=https://www.the-afc.com/en/national/afc_asian_cup/news/asiancup2023_five-month_countdown_fan-voted_all-time_afc_asian_cup%E2%84%A2_dream_xi_revealed_.html |title=#AsianCup2023 five-month countdown: Fan-voted all-time AFC Asian Cup Dream XI revealed |publisher=Asian Football Confederation |date=12 August 2023 |access-date=13 August 2023}}</ref>
+*[[IFFHS World Team|IFFHS Asian Men's Team of the 20th Century]]: 2021<ref>{{cite web |url=https://www.iffhs.com/posts/1089 |title=IFFHS ASIA MEN TEAM OF THE XXth CENTURY (1901-2000) |publisher=IFFHS |date=8 May 2021 |access-date=12 May 2021}}</ref>
+*[[IFFHS World Team|IFFHS Asian Men's Team of All Time]]: 2021<ref>{{cite web |url=https://www.iffhs.com/posts/1144 |title=IFFHS ALL TIME ASIA MEN'S DREAM TEAM |publisher=IFFHS |date=11 June 2021 |access-date=8 September 2021}}</ref>
+*[[K League All-Star Game|K League All-Star]]: 1992, 1995, 2002<ref>{{cite news |url=https://newslibrary.naver.com/viewer/index.naver?articleId=1992072200329119014&editNo=15&printCount=1&publishDate=1992-07-22&officeId=00032&pageNo=19&printNo=14473&publishType=00010 |script-title=ko:프로축구 올스타戰 오늘 동대문구장서 |website=Naver |publisher=Kyunghyang |language=ko |date=22 July 1992 |access-date=19 June 2024}}</ref><ref>{{cite news |url=https://newslibrary.naver.com/viewer/index.naver?articleId=1995072300239111008&editNo=1&printCount=1&publishDate=1995-07-23&officeId=00023&pageNo=11&printNo=23092&publishType=00010 |script-title=ko:프로축구 올스타전 출전선수명단 확정 |website=Naver |publisher=The Chosun Ilbo |language=ko |date=23 July 1995 |access-date=19 June 2024}}</ref><ref>{{cite news |url=https://www.kyeonggi.com/article/200208030051884 |script-title=ko:홍명보 ’영원한 왕별’ |publisher=Kyeonggi Ilbo |language=ko |date=3 August 2002 |access-date=19 June 2024}}</ref>
+*[[K League MVP Award|K League 1 Most Valuable Player]]: [[1992 K League|1992]]<ref>{{cite web|url=http://newslibrary.naver.com/viewer/index.nhn?articleId=1992120400289111013&editNo=5&printCount=1&publishDate=1992-12-04&officeId=00028&pageNo=11&printNo=1412&publishType=00010|script-title=ko:포철 홍명보 '올해의 선수'뽑혀|publisher=[[The Hankyoreh]]|language=ko|date=4 December 1992}}</ref>
+*[[K League Best XI|K League 1 Best XI]]: [[1992 K League|1992]], [[1994 K League|1994]], [[1995 K League|1995]], [[1996 K League|1996]], [[2002 K League|2002]]<ref>{{cite web|url=http://newslibrary.naver.com/viewer/index.nhn?articleId=1992120600289111013&editNo=5&printCount=1&publishDate=1992-12-06&officeId=00028&pageNo=11&printNo=1414&publishType=00010|script-title=ko:올 최우수선수 홍명보|publisher=[[The Hankyoreh]]|language=ko|date=6 December 1992}}</ref><ref>{{cite web|url=http://newslibrary.naver.com/viewer/index.nhn?articleId=1994112000329119003&editNo=20&printCount=1&publishDate=1994-11-20&officeId=00032&pageNo=19&printNo=15261&publishType=00010|script-title=ko:「적토마」고정운 MVP영예|publisher=[[Kyunghyang Shinmun]]|language=ko|date=20 November 1994}}</ref><ref>{{cite web|url=http://newslibrary.naver.com/viewer/index.nhn?articleId=1995112400289119002&editNo=5&printCount=1&publishDate=1995-11-24&officeId=00028&pageNo=19&printNo=2405&publishType=00010|script-title=ko:신태용 올 축구 황금발|publisher=[[The Hankyoreh]]|language=ko|date=24 November 1995}}</ref><ref>{{cite web|url=http://newslibrary.naver.com/viewer/index.nhn?articleId=1996113000289118001&editNo=5&printCount=1&publishDate=1996-11-30&officeId=00028&pageNo=18&printNo=2740&publishType=00010|script-title=ko:프로축구 MVP 김현석 뽑혀|publisher=[[The Hankyoreh]]|language=ko|date=30 November 1996}}</ref><ref>{{cite web|url=https://sports.news.naver.com/general/news/read.nhn?oid=001&aid=0000293269|script-title=ko:2002년 K-리그 시상식 21일 개최|publisher=[[Yonhap News Agency]]|language=ko|date=20 December 2002}}</ref>
+*[[K League Best XI#K League 30th Anniversary Legends Best XI (2013)|K League 30th Anniversary Best XI]]: 2013<ref>{{cite web |url=https://www.ytn.co.kr/_ln/0107_201305310856320188 |script-title=ko:한국 축구 레전드 베스트11 발표 |publisher=[[YTN]] |language=ko |date=31 May 2013}}</ref>
+*[[K League]] Hall of Fame: 2023<ref>{{cite web |url=https://www.kleague.com/news_view.do?orderBy=seq&viewOption=album&seq=87585 |script-title=ko:‘K리그 명예의 전당’ 초대 헌액자 발표 |publisher=K League |language=ko |date=16 March 2023 |access-date=16 March 2023 |title=K League }}</ref>
+*[[J.League All-Star Soccer|J.League All-Star]]: 1999, 2001<ref>{{cite web |url=https://data.j-league.or.jp/SFMS02/?match_card_id=4399 |title=1999 Ｊリーグたらみオールスターサッカー |language=ja |publisher=J.League Data Site |access-date=19 June 2024}}</ref><ref>{{cite web |url=https://data.j-league.or.jp/SFMS02/?match_card_id=5638 |title=2001 Ｊリーグたらみオールスターサッカー |language=ja |publisher=J.League Data Site |access-date=19 June 2024}}</ref>
+*[[J.League Best XI|J1 League Best XI]]: [[2000 J.League Division 1|2000]]<ref>{{cite web|url=http://ultra.zone/jleague-mvp-best-eleven-top-scorer|script-title=ja:Jリーグ 歴代のMVP・ベストイレブン・得点王|publisher=ULTRAZONE|language=ja|date=5 December 2017}}</ref>
+*[[MLS All-Star Game|MLS All-Star]]: [[2003 MLS All-Star Game|2003]]<ref>{{cite web |url=https://www.mlssoccer.com/news/2003-mls-all-star-game-373148 |title=2003 MLS All-Star Game |publisher=Major League Soccer |date=3 August 2003 |access-date=10 September 2025}}</ref>
+
+===Manager===
+'''South Korea U23'''
+*[[Football at the Summer Olympics|Summer Olympics]] bronze medal: [[Football at the 2012 Summer Olympics – Men's tournament|2012]]<ref>{{cite web |url=https://www.nytimes.com/2016/07/26/sports/international/olympic-medal-south-korea-military-exempted.html |first=John |last=Duerden |title=Olympic Success Carries a Bonus for Koreans: Military Exemption |work=The New York Times |date=25 July 2016 |access-date=5 September 2020}}</ref>
+*[[Football at the Asian Games|Asian Games]] bronze medal: [[Football at the 2010 Asian Games|2010]]<ref name="AsianGames"/>
+
+'''Ulsan Hyundai'''
+*[[K League 1]]: [[2022 K League 1|2022]], [[2023 K League 1|2023]]
+
+'''South Korea'''
+*[[EAFF E-1 Football Championship|EAFF Championship]] runner-up: [[2025 EAFF E-1 Football Championship|2025]]
+
+'''Individual'''
+*[[K League]] Manager of the Month: August 2021, February/March 2022, February/March 2023<ref>{{cite news |url=https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/%ED%99%8D%EB%AA%85%EB%B3%B4-%EA%B0%90%EB%8F%85-8%EC%9B%94-%ED%98%84%EB%8C%80%EC%98%A4%EC%9D%BC%EB%B1%85%ED%81%AC-%EA%B3%A0%EA%B8%89%ED%9C%98%EB%B0%9C%EC%9C%A0-%EC%B9%B4%EC%A0%A0-%EC%9D%B4%EB%8B%AC%EC%9D%98-%EA%B0%90%EB%8F%85-%EC%84%A0%EC%A0%95/pfxtztqczv761v8wvj40sy7wg |script-title=ko:홍명보 감독, 8월 ‘현대오일뱅크 고급휘발유 카젠 이달의 감독’ 선정 |publisher=Goal |date=6 September 2021 |access-date=9 December 2023 |language=ko}}</ref><ref>{{cite news |url=https://kleague.com/news_view.do?seq=85563&category=league&orderBy=seq&viewOption=album&page=1 |script-title=ko:울산 홍명보 감독, 22시즌 첫 ‘K리그 이달의 감독상’ 수상 |publisher=K League |date=6 April 2022 |access-date=9 December 2023 |language=ko |title=K League }}</ref><ref>{{cite news |url=https://www.chosun.com/sports/football/2023/03/31/CU5SRALA25S7UPNE34XGTE4Y44/ |script-title=ko:울산 홍명보 감독, 2023시즌 첫 ‘flex 이달의 감독상’ 수상 |website=[[The Chosun Ilbo]] |publisher=Osen |date=31 March 2023 |access-date=9 December 2023 |language=ko}}</ref>
+*[[K League Manager of the Year Award|K League 1 Manager of the Year]]: [[2022 K League 1|2022]], [[2023 K League 1|2023]]<ref>{{cite web |url=https://sports.news.naver.com/news?oid=108&aid=0003099224 |script-title=ko:울산 이청용 K리그 '최고의 별'... 홍명보는 감독상 영예 (종합) |language=ko |website=[[Naver]] |publisher=Starnews |date=24 October 2022}}</ref><ref>{{cite web |url=https://sports.news.naver.com/news?oid=108&aid=0003199608 |script-title=ko:'K리그 MVP의 눈물' 김영권 "머리가 하얘졌다"+홍명보 '최고 감독'... K리그 빛낸 별들 모두 가려졌다 '2023 K리그 대상 시상식' (종합) |language=ko |website=[[Naver]] |publisher=Starnews |date=4 December 2023}}</ref>
+*[[K League All-Star Game|K League All-Star]]: 2023<ref>{{cite web |url=https://uk.soccerway.com/matches/2023/07/27/world/hybrid-friendlies/club-atletico-de-madrid/k-league-xi/4087744/ |title=K-League XI vs. Atletico Madrid 3 – 2 |publisher=Soccerway |date=27 July 2023 |access-date=12 July 2024}}</ref>
+
+==See also==
+* [[List of men's footballers with 100 or more international caps]]
+
+==Notes==
+{{notelist-lg}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{K League player}}
+*[https://kfa.or.kr/archive/player_record.php?search_val=%ED%99%8D%EB%AA%85%EB%B3%B4 Hong Myung-bo] at [[Korea Football Association|KFA]] {{in lang|ko}}
+*{{FIFA player|2188}}
+*{{NFT player|13786}}
+*{{J.League player}}
+*[https://www.rsssf.org/miscellaneous/hong-intl.html International Appearances & Goals] rsssf.com
+*[https://www.youtube.com/watch?v=z9E2ToWi2to Hong`s match winning goal　Jleague 2000 FC Tokyo vs Reysol]
+
+{{Navboxes
+|title=Awards
+|bg=gold
+|fg=navy
+|list1=
+{{FIFA 100}}
+{{2002 FIFA World Cup Team of the Tournament}}
+{{2000 AFC Asian Cup Team of the Tournament}}
+{{Asian Football Hall of Fame}}
+{{K-League Most Valuable Player}}
+{{1992 K-League Best XI}}
+{{1994 K-League Best XI}}
+{{1995 K-League Best XI}}
+{{1996 K-League Best XI}}
+{{2000 J.League Team of the Year}}
+{{2002 K-League Best XI}}
+{{K-League Manager of the Year}}
+}}
+{{Navboxes
+|title= South Korea squads
+ | bg        = #C21E2B
+ | fg        = white
+ |bordercolor= #2E20BF
+|list1=
+{{South Korea Squad 1990 World Cup}}
+{{South Korea Squad 1994 World Cup}}
+{{South Korea Squad 1996 Asian Cup}}
+{{South Korea Squad 1998 World Cup}}
+{{South Korea Squad 2000 Gold Cup}}
+{{South Korea Squad 2000 Asian Cup}}
+{{South Korea Squad 2001 FIFA Confederations Cup}}
+{{South Korea Squad 2002 World Cup}}
+{{South Korea squad 2012 Summer Olympics}}
+{{South Korea squad 2014 FIFA World Cup}}
+{{South Korea squad 2026 FIFA World Cup}}
+}}
+{{Current managers of AFC national teams}}
+{{South Korea national football team managers}}
+{{Ulsan Hyundai FC managers}}
+{{Authority control}}
+
+{{DEFAULTSORT:Hong, Myung-bo}}
+[[Category:1969 births]]
+[[Category:Living people]]
+[[Category:Men's association football central defenders]]
+[[Category:South Korean men's footballers]]
+[[Category:South Korean expatriate men's footballers]]
+[[Category:South Korea men's international footballers]]
+[[Category:Pohang Steelers players]]
+[[Category:Shonan Bellmare players]]
+[[Category:Kashiwa Reysol players]]
+[[Category:LA Galaxy players]]
+[[Category:K League 1 players]]
+[[Category:J1 League players]]
+[[Category:Major League Soccer players]]
+[[Category:Expatriate men's footballers in Japan]]
+[[Category:Expatriate men's soccer players in the United States]]
+[[Category:1990 FIFA World Cup players]]
+[[Category:1994 FIFA World Cup players]]
+[[Category:1996 AFC Asian Cup players]]
+[[Category:1998 FIFA World Cup players]]
+[[Category:2000 AFC Asian Cup players]]
+[[Category:2000 CONCACAF Gold Cup players]]
+[[Category:2001 FIFA Confederations Cup players]]
+[[Category:2002 FIFA World Cup players]]
+[[Category:2014 FIFA World Cup managers]]
+[[Category:FIFA 100]]
+[[Category:FIFA Men's Century Club]]
+[[Category:Footballers from Seoul]]
+[[Category:South Korean expatriate sportspeople in Japan]]
+[[Category:South Korean expatriate sportspeople in the United States]]
+[[Category:Men's association football sweepers]]
+[[Category:Korea University alumni]]
+[[Category:Major League Soccer All-Stars]]
+[[Category:South Korea national football team managers]]
+[[Category:South Korea national under-23 football team managers]]
+[[Category:South Korea national under-20 football team managers]]
+[[Category:Expatriate football managers in China]]
+[[Category:Zhejiang Professional F.C. managers]]
+[[Category:Ulsan HD FC managers]]
+[[Category:Footballers at the 1990 Asian Games]]
+[[Category:Footballers at the 1994 Asian Games]]
+[[Category:Asian Games bronze medalists for South Korea]]
+[[Category:Chinese Super League managers]]
+[[Category:Medalists at the 1990 Asian Games]]
+[[Category:South Korean expatriate football managers]]
+[[Category:FISU World University Games gold medalists for South Korea]]
+[[Category:Summer World University Games medalists in football]]
+[[Category:AFC Champions League Elite–winning players]]
+[[Category:20th-century South Korean sportsmen]]
+[[Category:Asian Games bronze medalists in football]]
+[[Category:2026 FIFA World Cup managers]]

@@ -1,0 +1,144 @@
+{{Short description|Japanese footballer}}
+{{Western name order|Hayakama Tomoki}}
+{{Use dmy dates|date=June 2021}}
+{{Infobox football biography
+|name                = Tomoki Hayakawa
+|image               =
+|fullname            = 
+|birth_date          = {{birth date and age|1999|3|3|df=y}}
+|birth_place         = [[Sagamihara]], [[Kanagawa Prefecture|Kanagawa]], Japan
+|height              = 1.87 m<ref>{{cite web|url=https://www.antlers.co.jp/clubs/8411/top_player?club=3 |title=Tomoki Hayakawa |language=Japanese |publisher=Kashima Antlers |access-date=22 September 2022}}</ref>
+|currentclub         = [[Kashima Antlers]]
+|clubnumber          = 1
+|position            = [[Goalkeeper (association football)|Goalkeeper]]
+|youthyears1         = 
+|youthclubs1         = [[Yokohama F. Marinos]]
+|youthyears2         = 2014–2016
+|youthclubs2         = Toin Gakuen High School
+|collegeyears1       = 2017–2020
+|college1            = [[Meiji University]]
+|years1              = 2021– |clubs1 = [[Kashima Antlers]] |caps1 = 131 |goals1 = 0
+|nationalyears1 = 2025–
+|nationalteam1  = [[Japan national football team|Japan]]
+|nationalcaps1  = 4
+|nationalgoals1 = 0
+|club-update         = 10:38, 15 May 2026 (UTC)
+|nationalteam-update = 31 May 2026
+}}
+{{nihongo|'''Tomoki Hayakawa'''|早川 友基|Hayakawa Tomoki|born 3 March 1999}} is a Japanese professional [[Association football|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for {{Japanese football updater|KashimaA}} club [[Kashima Antlers]] and the [[Japan national football team|Japan national team]].<ref>{{cite web |title=早川 友基：鹿島アントラーズ：Ｊリーグ.jp |url=https://www.jleague.jp/player/1632225/#gk |website=Ｊリーグ.jp（日本プロサッカーリーグ） |access-date=20 December 2022 |language=ja}}</ref>
+
+==Club career==
+Hayakawa made his professional debut in a 8–1 [[Emperor's Cup]] win against [[YSCC Yokohama]].<ref>{{cite web|url=http://www.jfa.jp/match/emperorscup_2021/match_page/m39.html|title=鹿島アントラーズ 8–1 Ｙ.Ｓ.Ｃ.Ｃ.横浜|date=16 June 2021|accessdate=16 June 2021|website=jfa.jp|language=Japanese}}</ref> He made his J1 League debut in the 2022 season, in a 1–1 draw with [[Sagan Tosu]].<ref>{{cite web |title=Soccer D.B. : 2022 J1 League 22/09/16 Sagan Tosu - Kashima Antlers Results,Players,Highlight |url=https://soccer-db.net/result.php?g=20220916001&la=e |website=Soccer D.B. |access-date=20 December 2022 |language=en}}</ref>
+
+In the 2023 season, Hayakawa became first-choice goalkeeper for Kashima and played in every league game. Before the 2024 season, he was given the number 1 shirt following the retirement of [[Kwoun Sun-tae]].<ref>{{cite web |title=2024シーズントップチーム登録選手のお知らせ {{!}} 鹿島アントラーズ オフィシャルサイト |url=https://www.antlers.co.jp/news/team_info/97712 |website=鹿島アントラーズ オフィシャルサイト {{!}} KASHIMA ANTLERS |access-date=9 January 2024 |language=ja}}</ref> In the 2024 season, Hayakawa also participated in every league game for the club and kept 15 clean sheets, the second most in the league.<ref>{{cite web |title=MEIJI YASUDA J1 LEAGUE {{!}} 2024 Stats |url=https://jleague.co/stats/dashboard/j1/2024/ |website=J.LEAGUE |access-date=15 January 2025 |language=en}}</ref>
+
+In 2025, he played every minute of every league match for the third consecutive season and was named the Save of the Month award winner four times, contributing to Kashima's ninth league championship and their first in nine years. He was awarded the J.League Most Valuable Player award for the 2025 season at the J.League Awards ceremony held on 11 December.<ref name="2025-player-of-the-year" />
+
+== International career ==
+Hayakawa was called up [[Japan national football team|Japan national team]] squad for the [[2025 EAFF E-1 Football Championship]]. He made his debut on 12 July 2025 in a 2–0 win over [[China national football team|China]].
+
+On 15 May 2026, Hayakawa was named in Japan's squad for the [[2026 FIFA World Cup]].<ref>{{cite web |title=SAMURAI BLUE（日本代表）メンバー・スケジュール キリンチャレンジカップ2026 ひとつになるから強くなる。 5.31 アイスランド代表戦（5.31 東京／国立競技場）FIFAワールドカップ2026（6.11-7.19 カナダ・メキシコ・アメリカ） |url=https://www.jfa.jp/samuraiblue/news/00036338/ |website=www.jfa.jp |access-date=15 May 2026 |language=ja}}</ref>
+
+==Career statistics==
+
+===Club===
+{{updated|15 May 2026}}.<ref>{{Soccerway|tomoki-hayakawa/687710}}</ref><ref>{{cite web |title=Soccer D.B. : 2022 Tomoki Hayakawa Result by Season |url=https://soccer-db.net/player/index.php?pl=69317&la=e |website=Soccer D.B. |access-date=20 December 2022 |language=en}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup{{efn|Includes [[Emperor Cup]]}}
+!colspan="2"|League cup{{efn|Includes [[J.League Cup]]}}
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="7"|[[Kashima Antlers]]
+|[[2021 Kashima Antlers season|2021]]
+|[[J1 League]]
+|0||0||1||0||0||0||1||0
+|-
+|[[2022 Kashima Antlers season|2022]]
+|J1 League
+|5||0||0||0||0||0||5||0
+|-
+|[[2023 Kashima Antlers season|2023]]
+|J1 League
+|34||0||0||0||2||0||36||0
+|-
+|[[2024 Kashima Antlers season|2024]]
+|J1 League
+|38||0||2||0||2||0||42||0
+|-
+|[[2025 Kashima Antlers season|2025]]
+|J1 League
+|38||0||3||0||1||0||42||0
+|-
+|[[J1 100 Year Vision League|2026]]
+|J1 (100)
+|16||0||0||0||0||0||16||0
+|-
+!colspan="2"|Total
+!131!!0!!6!!0!!5!!0!!142!!0
+|-
+!colspan="3"|Career total
+!131!!0!!6!!0!!5!!0!!142!!0
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 31 May 2026}}<ref>{{cite web |title=Tomoki Hayakawa (Player) |url=https://www.national-football-teams.com/player/100215/Tomoki_Hayakawa.html |website=www.national-football-teams.com |access-date=15 May 2026 |language=en}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="2"|[[Japan national football team|Japan]]
+|2025||3||0
+|-
+|2026||1||0
+|-
+!colspan="2"|Total!!4!!0
+|}
+
+==Honours==
+'''Kashima Antlers'''
+* [[J1 League]]: [[2025 J1 League|2025]]<ref>{{cite web |url= https://www.jleague.jp/standings/2025/|title= 明治安田J1リーグの順位表|access-date= 6 December 2025|website= J. League|language=ja}}</ref>
+
+'''Japan'''
+* [[EAFF E-1 Football Championship|EAFF Championship]]: [[2025 EAFF E-1 Football Championship|2025]]
+
+;Individual
+*[[J.League Player of the Year]]: [[2025 J1 League|2025]]<ref name="2025-player-of-the-year">{{cite web |url= https://web.gekisaka.jp/news/jleague/detail/?442577-442577-fl|title= 2025年Jリーグベストイレブンが発表!! 王者・鹿島から最多3人、初受賞は10人|access-date= 11 December 2025|date= 11 December 2025|website= Gekisaka|language=ja}}</ref>
+*[[J.League Best XI]]: 2025<ref name="2025-player-of-the-year"/>
+*[[J1 League]] Save of the Month: [[2025 J1 League#Monthly awards|April 2025]],<ref>{{cite web|url=https://www.jleague.jp/news/article/30952/|title=4月度「2025 明治安田Ｊリーグ KONAMI 月間MVP」を発表！「月間ベストゴール」「月間優秀監督賞」「月間ヤングプレーヤー賞」「月間ベストセーブ賞」の各賞も決定！|trans-title=The "2025 Meiji Yasuda J.League KONAMI Monthly MVP" for April has been announced! The winners of the "Monthly Best Goal", "Monthly Outstanding Manager", "Monthly Young Player", and "Monthly Best Save" awards have also been decided!|language=ja|access-date=24 May 2025|date=20 May 2025|website=JLeague.jp |publisher=Japan Professional Football League}}</ref> [[2025 J1 League#Monthly awards|September 2025]],<ref>{{cite web|url=https://www.jleague.jp/news/article/32188/|title=9月度「2025明治安田Jリーグ KONAMI 月間MVP」を発表！「月間ベストゴール」「月間優秀監督賞」「月間ヤングプレーヤー賞」「月間ベストセーブ賞」の各賞も決定！|trans-title=The "2025 Meiji Yasuda J.League KONAMI Monthly MVP" for September has been announced! The winners of the "Monthly Best Goal", "Monthly Outstanding Manager", "Monthly Young Player", and "Monthly Best Save" awards have also been decided!|language=ja|access-date=18 October 2025|date=14 October 2025|website=JLeague.jp |publisher=Japan Professional Football League}}</ref> [[2025 J1 League#Monthly awards|October 2025]],<ref>{{cite web|url=https://www.jleague.jp/news/article/32403/|title=10月度「2025明治安田Jリーグ KONAMI 月間MVP」を発表！「月間ベストゴール」「月間優秀監督賞」「月間ヤングプレーヤー賞」「月間ベストセーブ賞」の各賞も決定！|trans-title=The "2025 Meiji Yasuda J.League KONAMI Monthly MVP" for October has been announced! The winners of the "Monthly Best Goal", "Monthly Outstanding Manager", "Monthly Young Player", and "Monthly Best Save" awards have also been decided!|language=ja|access-date=11 November 2025|date=11 November 2025|website=JLeague.jp |publisher=Japan Professional Football League}}</ref> [[2025 J1 League#Monthly awards|November/December 2025]]<ref>{{cite web|url=https://www.jleague.jp/news/article/32705/|title=11・12月度「2025明治安田Jリーグ KONAMI 月間MVP」を発表！「月間ベストゴール」「月間優秀監督賞」「月間ヤングプレーヤー賞」「月間ベストセーブ賞」の各賞も決定！|trans-title=The "2025 Meiji Yasuda J.League KONAMI Monthly MVP" for November and December has been announced! The winners of the "Monthly Best Goal", "Monthly Outstanding Manager", "Monthly Young Player", and "Monthly Best Save" awards have also been decided!|language=ja|access-date=12 December 2025|date=8 December 2025|website=JLeague.jp |publisher=Japan Professional Football League}}</ref>
+*[[J1 100 Year Vision League]] Regional Round East Best Eleven: [[J1 100 Year Vision League|2026]]<ref name=":0">{{cite web|url=https://www.instagram.com/p/DZFBF8sGCAO/?igsh=MWV1eWpxMzNyOTljaw==| title=Instagram }}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{J.League player}}
+*[https://www.antlers.co.jp/clubs/8411/top_player?club=3 Profile at Kashima Antlers]
+
+{{Kashima Antlers squad}}
+{{Japan squad 2026 FIFA World Cup}}
+{{J.League Player of the Year}}
+
+{{DEFAULTSORT:Hayakawa, Tomoki}}
+[[Category:1999 births]]
+[[Category:Living people]]
+[[Category:Football people from Kanagawa Prefecture]]
+[[Category:Meiji University alumni]]
+[[Category:Japanese men's footballers]]
+[[Category:Men's association football goalkeepers]]
+[[Category:Yokohama F. Marinos players]]
+[[Category:Kashima Antlers players]]
+[[Category:Japan men's international footballers]]
+[[Category:21st-century Japanese sportsmen]]
+[[Category:2026 FIFA World Cup players]]
+
+{{Japan-footy-goalkeeper-stub}}

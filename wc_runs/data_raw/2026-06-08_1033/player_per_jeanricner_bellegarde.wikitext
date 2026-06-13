@@ -1,0 +1,235 @@
+{{short description|Haitian footballer (born 1998)}}
+{{Use British English|date=June 2025}}
+{{Use dmy dates|date=May 2026}}
+{{Infobox football biography
+|name = Jean-Ricner Bellegarde
+|image = Lens B - AC Amiens (12-09-2015) 64 (cropped).JPG
+|image_size = 250px
+|caption = Bellegarde playing for [[RC Lens|Lens B]] in 2015
+|birth_date = {{birth date and age|1998|6|27|df=y}}
+|birth_place = [[Colombes]], France
+|height = 1.70 m<ref name="soccerway"/>
+|currentclub = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|clubnumber = 27
+|position = [[Midfielder]]
+|youthyears1 = 2009–2012
+|youthclubs1 = Villetaneuse CS
+|youthyears2 = 2012–2013
+|youthclubs2 = [[Le Mans FC|Le Mans]]
+|youthyears3 = 2013–2016
+|youthclubs3 = [[RC Lens|Lens]]
+|years1 = 2015–2019
+|clubs1 = [[RC Lens|Lens B]]
+|caps1 = 38
+|goals1 = 0
+|years2 = 2016–2019
+|clubs2 = [[RC Lens|Lens]]
+|caps2 = 55
+|goals2 = 5
+|years3 = 2019–2023
+|clubs3 = [[RC Strasbourg Alsace|Strasbourg]]
+|caps3 = 128
+|goals3 = 7
+|years4 = 2023–
+|clubs4 = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|caps4 = 83
+|goals4 = 5
+|nationalyears1 = 2017
+|nationalteam1 = [[France national under-19 football team|France U19]]
+|nationalcaps1 = 1
+|nationalgoals1 = 0
+|nationalyears2 = 2017–2018
+|nationalteam2 = [[France national under-20 football team|France U20]]
+|nationalcaps2 = 4
+|nationalgoals2 = 0
+|nationalyears3 = 2019
+|nationalteam3 = [[France national under-21 football team|France U21]]
+|nationalcaps3 = 3
+|nationalgoals3 = 0
+|nationalyears5 = 2025–
+|nationalteam5 = [[Haiti national football team|Haiti]]
+|nationalcaps5 = 9
+|nationalgoals5 = 0
+|pcupdate = 23:44, 17 May 2026 (UTC)
+|ntupdate = 21:15, 2 June 2026 (UTC)
+}}
+
+'''Jean-Ricner Bellegarde''' ({{IPA|fr|ʒɑ̃ʁiknɛʁ bɛlɡaʁd}}; born 27 June 1998) is a professional [[Association football|footballer]] who plays as a [[midfielder]] for {{English football updater|WolverhW}} club [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]. Born in France, he represents the [[Haiti national football team|Haiti national team]].<ref name="soccerway">{{Soccerway|420786|accessdate=23 July 2019}}</ref><ref name="FFF">{{cite web|title=Joueur – Jean-Ricner BELLEGARDE|url=https://www.fff.fr/equipes-de-france/tous-les-joueurs/fiche-joueur/2545649444-jean-ricner-bellegarde|accessdate=23 July 2019}}</ref>
+
+==Club career==
+
+===Lens===
+On 29 July 2016, he played his first professional match with [[RC Lens]] on the field of [[Chamois Niortais FC]].{{citation needed|date=January 2025}} He caught attention in the match against [[Stade de Reims]] (1–1, 12th round of Ligue 2) by delivering an assist to [[Viktor Klonaridis]]. Often present with the reserve team, he also participated in the under-19s' campaign in the [[Coupe Gambardella]].
+
+During the [[2017–18 Ligue 2]] season, he benefited from the arrival of Éric Sikora, who knew him well from his time in the reserve team, to establish himself in the starting eleven. He was even promoted to captain on a few occasions.<ref>{{cite web|url=https://www.lensois.com/bellegarde-etre-nomme-capitaine-du-rc-lens-par-sikora-ma-aide-developper/|title=Bellegarde: "Being named captain of RC Lens by Sikora helped me develop"|website=lensois.com|date=8 September 2019}}</ref> On 18 September 2017, he scored his first goal against US Quevilly-Rouen Métropole.
+
+In the [[2018–19 Ligue 2]] season, he scored a goal in the opening match against [[US Orléans]] but gradually lost his place in the starting line-up. He regained it towards the end of the season, scoring consecutively in the last two rounds of the championship—a goal against [[AC Ajaccio]] and then a double against US Orléans—to secure Racing's place in the promotion playoffs for [[Ligue 1]].
+
+===Strasbourg===
+In 2019, Bellegarde joined [[Racing Club de Strasbourg Alsace|Strasbourg]], where he made 129 appearances.<ref name="auto1"/>
+
+===Wolverhampton Wanderers===
+On 1 September 2023, Bellegarde joined [[Wolverhampton Wanderers]] on a five-year deal for £12.8m.<ref name="auto1">{{cite web|url=https://www.bbc.co.uk/sport/football/66692352|title=Wolves transfer news: Jean-Ricner Bellegarde signs from Strasbourg for £12.8m|work=[[BBC Sport]]|last=Stone|first=Simon|date=1 September 2023}}</ref> Later that month, on 23 September, in only his second appearance for his new club away to [[Luton Town F.C.|Luton Town]] in the Premier League, Bellegarde was shown a straight red card in the 39th minute for his reaction to a challenge by [[Tom Lockyer]].<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/66828985|title=Luton Town 1–1 Wolves: Hatters earn first Premier League point as O'Neil disputes penalty|work=BBC Sport|last=Stone|first=Simon|date=23 September 2023|accessdate=9 October 2023}}</ref> The match finished as a 1–1 draw.
+
+On 4 November 2023, in his third Wolves appearance, away to [[Sheffield United F.C.|Sheffield United]], where he was introduced as a second-half substitute, Bellegarde scored his debut Wolves goal in the 89th minute.<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/67247517|title=Sheffield United 2–1 Wolves: Oliver Norwood's penalty earns Premier League win at last|work=BBC Sport|last=Thomas|first=Marissa|date=4 November 2023|accessdate=4 November 2023}}</ref> Wolves lost the match 2–1, conceding a penalty deep into time added on at the end of the second-half.
+
+Following his switch of international allegiance to Haiti in August 2025, Bellegarde became the first Haitian-represented player to feature in the [[Premier League]].<ref>{{cite web |url=https://www.premierleague.com/en/news/4353667/all-the-nations-represented-in-the-premier-league |title=All the nations represented in the Premier League |publisher=Premier League |date=13 September 2025 }}</ref>
+
+==International career==
+Bellegarde was born in France and is of Haitian descent.<ref>{{cite web|url=https://lenouvelliste.com/article/186553/haiti-vs-argentine-le-29-mai|title=Haiti vs Argentine le 29 Mai|website=lenouvelliste.com}}</ref> He was a youth international for France.
+
+In May 2019, he was named to [[Haiti national football team|Haiti]]'s 40-man provisional squad for the [[2019 CONCACAF Gold Cup]].<ref>{{cite web|url=https://gallery.mailchimp.com/78d3589fb61466b549ff752e5/files/041bd60a-92da-467b-b8d6-d6a51bae68bd/2019_Concacaf_Gold_Cup_Preliminary_Lists_May_20.pdf|date=20 May 2019|title=40-Player National Team Roster}}</ref>
+
+In August 2025, he was called up for Haiti's national football team for the [[2026 FIFA World Cup qualification – CONCACAF third round|2026 FIFA World Cup qualification third round]] and made his debut on 5 September against [[Honduras national football team|Honduras]], which ended in a 0–0 draw.<ref>{{cite web |url=https://www.espn.com/soccer/match/_/gameId/754239/honduras-haiti |title=Haiti 0–0 Honduras |publisher=ESPN |date=5 September 2025 }}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 17 May 2026}}
+
+{| class="wikitable" style="text-align: center"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup{{efn|Includes [[Coupe de France]], [[FA Cup]]}}
+!colspan="2"|League cup{{efn|Includes [[Coupe de la Ligue]], [[EFL Cup]]}}
+!colspan="2"|Europe
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="4"|[[RC Lens|Lens B]]
+|[[2015–16 Championnat National|2015–16]]
+|[[Championnat National]]
+|23||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||23||0
+|-
+|[[2016–17 Championnat National|2016–17]]
+|Championnat National
+|11||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||11||0
+|-
+|[[2018–19 Championnat National|2018–19]]
+|Championnat National
+|4||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||4||0
+|-
+!colspan="2"|Total
+!38!!0!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!38!!0
+|-
+|rowspan="4"|[[RC Lens|Lens]]
+|[[2016–17 Ligue 2|2016–17]]
+|[[Ligue 2]]
+|9||0||2||0||2||0||colspan="2"|—||colspan="2"|—||11||0
+|-
+|[[2017–18 Ligue 2|2017–18]]
+|Ligue 2
+|25||1||4||0||2||0||colspan="2"|—||colspan="2"|—||31||1
+|-
+|[[2018–19 RC Lens season|2018–19]]
+|Ligue 2
+|21||4||3||1||2||0||colspan="2"|—||4{{efn|Appearances in [[Ligue 1 relegation/promotion play-offs]]}}||1||30||6
+|-
+!colspan="2"|Total
+!55!!5!!9!!1!!6!!0!!colspan="2"|—!!4!!1!!74!!7
+|-
+|rowspan="6"|[[RC Strasbourg Alsace|Strasbourg]]
+|[[2019–20 RC Strasbourg Alsace season|2019–20]]
+|[[Ligue 1]]
+|24||0||2||1||1||0||3{{efn|name=UEL|Appearances in [[UEFA Europa League]]}}||0||colspan="2"|—||30||1
+|-
+|[[2020–21 RC Strasbourg Alsace season|2020–21]]
+|Ligue 1
+|36||1||1||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||37||1
+|-
+|[[2021–22 RC Strasbourg Alsace season|2021–22]]
+|Ligue 1
+|36||2||2||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||38||2
+|-
+|[[2022–23 RC Strasbourg Alsace season|2022–23]]
+|Ligue 1
+|30||2||1||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||31||2
+|-
+|[[2023–24 RC Strasbourg Alsace season|2023–24]]
+|Ligue 1
+|3||2||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||3||2
+|-
+!colspan="2"|Total
+!129!!7!!6!!1!!1!!0!!3!!0!!colspan="2"|—!!139!!8
+|-
+|rowspan="4"|[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|[[2023–24 Wolverhampton Wanderers F.C. season|2023–24]]
+|[[Premier League]]
+|22||2||4||0||0||0||colspan="2"|—||colspan="2"|—||26||2
+|-
+|[[2024–25 Wolverhampton Wanderers F.C. season|2024–25]]
+|Premier League
+|35||2||3||0||1||0||colspan="2"|—||colspan="2"|—||39||2
+|-
+|[[2025–26 Wolverhampton Wanderers F.C. season|2025–26]]
+|Premier League
+|26||1||2||0||3||0||colspan="2"|—||colspan="2"|—||31||1
+|-
+!colspan="2"|Total
+!83!!5!!9!!0!!4!!0!!colspan="2"|—!!colspan="2"|—!!96!!5
+|-
+!colspan="3"|Career total
+!305!!17!!24!!2!!11!!0!!3!!0!!4!!1!!347!!20
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 2 June 2026}}<ref>{{NFT player|100926|access-date=18 November 2025}}</ref>
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="2"|[[Haiti national football team|Haiti]]
+|2025||6||0
+|-
+|2026||3||0
+|-
+!colspan="2"|Total!!9!!0
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+* [https://www.wolves.co.uk/teams/mens-first-team/jean-ricner-bellegarde/ Profile] at the Wolverhampton Wanderers F.C. website
+* {{LFP Ligue 1|jeanricner-bellegarde}}
+* {{Lequipe|58061}}
+* {{Soccerway|420786}}
+* {{FFF|9004-bellegarde-jean-ricner}}
+* {{FFF male|2545649444-jean-ricner-bellegarde|archive=20190723192436}}
+* {{UEFA player}}
+
+{{Wolverhampton Wanderers F.C. squad}}
+{{Haiti squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Bellegarde, Jean-Ricner}}
+[[Category:1998 births]]
+[[Category:Living people]]
+[[Category:Footballers from Colombes]]
+[[Category:Haitian men's footballers]]
+[[Category:Haiti men's international footballers]]
+[[Category:French men's footballers]]
+[[Category:France men's youth international footballers]]
+[[Category:France men's under-21 international footballers]]
+[[Category:Black French sportspeople]]
+[[Category:French sportspeople of Haitian descent]]
+[[Category:Men's association football midfielders]]
+[[Category:RC Lens players]]
+[[Category:RC Strasbourg Alsace players]]
+[[Category:Wolverhampton Wanderers F.C. players]]
+[[Category:Ligue 1 players]]
+[[Category:Ligue 2 players]]
+[[Category:Premier League players]]
+[[Category:2026 FIFA World Cup players]]
+[[Category:French expatriate men's footballers]]
+[[Category:French expatriate sportspeople in England]]
+[[Category:Haitian expatriate men's footballers]]
+[[Category:Haitian expatriate sportspeople in England]]
+[[Category:Expatriate men's footballers in England]]
+[[Category:21st-century French sportsmen]]
+[[Category:21st-century Haitian sportsmen]]

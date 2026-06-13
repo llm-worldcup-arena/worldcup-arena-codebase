@@ -1,0 +1,72 @@
+{{Short description|Haitian footballer (born 2004)}}
+{{Use dmy dates|date=May 2026}}
+{{Infobox football biography
+| name = Woodensky Pierre
+| full_name = Olivier Woodensky Pierre
+| image = 
+| caption = 
+| height = 1.80 m 
+| birth_date = {{Birth date and age|df=yes|2004|12|30}}
+| birth_place = [[Cité Soleil]], Haiti
+| position = [[Defensive midfielder]]
+| currentclub = [[Violette AC]]
+| clubnumber = 27
+| youthyears1 = 
+| youthclubs1 = [[Violette AC]]
+| years1 = 2021–2023
+| clubs1 = [[Violette AC]]
+| caps1 = 
+| goals1 = 
+| years2 = 2024–2025
+| clubs2 = [[Real Hope FA]]
+| caps2 = 
+| goals2 = 
+| years3 = 2025–
+| clubs3 = [[Violette AC]]
+| caps3 = 
+| goals3 = 
+| nationalyears1 = 2022
+| nationalteam1 = [[Haiti national under-20 football team|Haiti U20]]
+| nationalcaps1 = 4 
+| nationalgoals1 = 0
+| nationalyears2 = 2026–
+| nationalteam2 = [[Haiti national football team|Haiti]]
+| nationalcaps2 = 1
+| nationalgoals2 = 0
+| pcupdate = 
+| ntupdate = 31 March 2026 
+}}
+'''Olivier Woodensky Pierre''' (born 30 December 2004) is a Haitian [[Association football|footballer]] who plays as a [[defensive midfielder]] for [[Ligue Haïtienne]] team [[Violette AC]] and the [[Haiti national football team|Haiti national team]].
+
+==Club career==
+Born in [[Cité Soleil]], Pierre was a youth product of [[Violette AC]].<ref name="may26">{{cite web|url=https://haititempo.com/foot-selection-woodensky-pierre-la-fierte-de-la-d1-haitienne-au-mondial/|title=Foot – Sélection : Woodensky Pierre, la fierté de la D1 Haïtienne au Mondial|publisher=Haiti Tempo|date=15 May 2026|language=fr}}</ref> 
+
+In October 2024, Pierre signed for [[Real Hope FA]].<ref>{{cite web|url=https://sportpassioninfo.com/un-effectif-renouvele-pour-le-real-hope-fa/|title=Un effectif renouvelé pour le Real Hope FA|publisher=Sport Passion Info|date=11 October 2024|language=fr}}</ref> 
+
+Pierre returned to [[Violette AC]] after one season.<ref name="may26"/> There, he won both Série d'Ouverture and the Série de Clôture with the team in the [[2025–26 Ligue Haïtienne]]. He was also named as the Best Player of the Série de Clôture.<ref>{{cite web|url=https://www.lenational.org/post_article.php?spo=2594|title=Le Violette AC signe un doublé historique !|publisher=Le National|date=12 May 2026|language=fr}}</ref>
+
+==International career==
+Pierre received his first call-up to the [[Haiti national football team|Haiti senior national team]] in March 2026, for the friendly matches against [[Tunisia national football team|Tunisia]] and [[Iceland national football team|Iceland]].<ref>{{Cite web|url=https://haititempo.com/foot-selection-u20-woodensky-pierre-fleuron-de-la-nouvelle-vague-haitienne/|title=Foot – Sélection U20: Woodensky Pierre, fleuron de la nouvelle vague haïtienne !|publisher=Haiti Tempo|language=fr|date=24 June 2022}}</ref> He made his international debut on 31 March against Iceland, coming in as a substitute for the injured [[Leverton Pierre]] in the 37th minute.<ref>{{cite web|url=https://letemoinhaiti.com/une-entree-reussie-et-convaincante-pour-woodensky-pierre-en-selection/|title=Une entrée réussie et convaincante pour Woodensky Pierre en sélection !|publisher=Le Témoin|date=4 April 2026|language=fr}}</ref> 
+
+In May 2026, Pierre was named in Haiti's final 26-men squad for the [[2026 FIFA World Cup]].<ref>{{cite web|url=https://www.facebook.com/fhfhaiti/posts/pfbid0sgioyXTC9xmDjdqqPgHtmLPVWu2j7R1KG3hQC8pNZhQgiNRGHixSVMp9aPjKYKxAl|title=Lis Ofisyèl Grenadye yo pou Mondyal 2026 |trans-title=List of Official Grenadiers for the 2026 World Cup |publisher=[[Haitian Football Federation]] |via=[[Facebook]] |date=15 May 2026 |language=ht |url-status=live |archive-date=15 May 2026 |archive-url=https://web.archive.org/web/20260515175636/https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ffhfhaiti%2Fposts%2Fpfbid0sgioyXTC9xmDjdqqPgHtmLPVWu2j7R1KG3hQC8pNZhQgiNRGHixSVMp9aPjKYKxAl}}</ref> He was the only Haitian player in the country's domestic league to be selected.<ref name="may26"/>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Soccerway|new_id=pierre-woodensky-olivier/zyYbg9z9}}
+
+{{Haiti squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Woodensky, Pierre}}
+[[Category:2004 births]]
+[[Category:Living people]]
+[[Category:People from Ouest (department)]]
+[[Category:Haitian men's footballers]]
+[[Category:Haiti men's international footballers]]
+[[Category:Haiti men's youth international footballers]]
+[[Category:Men's association football midfielders]]
+[[Category:21st-century Haitian sportsmen]]
+[[Category:Violette AC players]]
+[[Category:Ligue Haïtienne players]]
+[[Category:2026 FIFA World Cup players]]

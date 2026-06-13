@@ -1,0 +1,80 @@
+{{Short description|none}}
+{{About|the men's team|the women's team|England women's national football team}}
+{{Pp-semi-indef|small=yes}}
+{{Use British English|date=June 2018}}
+{{Use dmy dates|date=June 2024}}
+{{Infobox national football team
+| Name                  = England
+| Badge                 = England national football team crest.svg
+| Badge_size            = 150
+| FIFA Trigramme        = ENG
+| Nickname              = ''The Three Lions''
+| Association           = [[The Football Association]]<br>(The FA)
+| Confederation         = [[UEFA]] (Europe)
+| website               = [https://www.englandfootball.com/ englandfootball.com]
+| Coach                 = [[Thomas Tuchel]]
+| Most caps             = [[Peter Shilton]] (125)
+| Captain               = [[Harry Kane]]
+| Top scorer            = [[Harry Kane]] ([[List of international goals scored by Harry Kane|79]])
+| Home Stadium          = [[Wembley Stadium]]
+| FIFA Rank             = {{FIFA World Rankings|ENG}}
+| FIFA max              = 3
+| FIFA max date         = August–September 2012, September–October 2021, November 2023<ref name="FIFA World Rankings"/>
+| FIFA min              = 27
+| FIFA min date         = February 1996<ref name="FIFA World Rankings"/>
+| Elo Rank              = {{World Football Elo Ratings|England}}
+| Elo max               = 1
+| Elo max date          = 1872–1876, 1892–1911,<br />1966–1970, 1987–1988
+| Elo min               = 17
+| Elo min date          = 11 June 1995
+| pattern_la1           = _eng26H
+| pattern_b1            = _eng26H
+| pattern_ra1           = _eng26H
+| pattern_sh1           = _eng26H
+| pattern_so1           = _eng26Hl
+| leftarm1              = FFFFFF
+| body1                 = FFFFFF
+| rightarm1             = FFFFFF
+| shorts1               = FFFFFF 
+| socks1                = FFFFFF
+| pattern_la2           = _eng26A
+| pattern_b2            = _eng26A
+| pattern_ra2           = _eng26A
+| pattern_sh2           = _eng26A
+| pattern_so2           = _eng26Al
+| leftarm2              = fe080a
+| body2                 = fe080a
+| rightarm2             = fe080a
+| shorts2               = 000040
+| socks2                = fe080a
+| First game            = {{fb|SCO}} [[1872 Scotland v England football match|0–0]] {{fb-rt|ENG}}<br />([[Partick]], Scotland<!-- DO NOT LINK, see "MOS:GEOLINK" for further guidance -->; 30 November 1872)<br /><small>(The first ever international football match)</small>
+| Largest win           = {{fb|Ireland|1783}} 0–13 {{fb-rt|ENG}}<br />([[Belfast]], Ireland<!-- DO NOT LINK, see "MOS:GEOLINK" for further guidance -->; 18 February 1882)
+| Largest loss          = {{fb|HUN|1949}} [[1954 Hungary v England football match|7–1]] {{fb-rt|ENG}}<br />([[Budapest]], Hungary<!-- DO NOT LINK, see "MOS:GEOLINK" for further guidance -->; 23 May 1954)
+| World cup apps        = 17
+| World cup first       = 1950
+| World cup best        = '''Winners''' ([[1966 FIFA World Cup|1966]])
+| Regional name         = [[UEFA European Championship|European Championship]]
+| Regional cup apps     = 11
+| Regional cup first    = [[UEFA Euro 1968|1968]]
+| Regional cup best     = Runners-up ([[UEFA Euro 2020|2020]], [[UEFA Euro 2024|2024]])
+| 2ndRegional name      = [[UEFA Nations League|Nations League Finals]]
+| 2ndRegional cup apps  = 1
+| 2ndRegional cup first = [[2019 UEFA Nations League Finals|2019]]
+| 2ndRegional cup best  = Third place ([[2019 UEFA Nations League Finals|2019]])
+| medaltemplates        = 
+{{MedalSport|Men's [[Association football|football]]}}
+{{MedalCompetition|[[FIFA World Cup]]}}
+{{Medal|Gold|[[1966 FIFA World Cup|1966 England]]|[[England 1966 FIFA World Cup squad|Team]]}}
+{{MedalCompetition|[[UEFA European Championship]]}}
+{{Medal|Silver|[[UEFA Euro 2020|2020 Europe]]|[[UEFA Euro 2020 squads#England|Team]]}}
+{{Medal|Silver|[[UEFA Euro 2024|2024 Germany]]|[[UEFA Euro 2024 squads#England|Team]]}}
+{{MedalBronze|[[UEFA Euro 1968|1968 Italy]]|[[UEFA Euro 1968 squads#England|Team]]}}
+{{MedalCompetition|[[UEFA Nations League]]}}
+{{MedalBronze|[[2019 UEFA Nations League Finals|2019 Portugal]]|[[2019 UEFA Nations League Finals squads#England|Team]]}}
+}}
+
+The '''England national football team''' have represented [[England]] in men's international [[Association football|football]] since the first international match in 1872. It is controlled by [[the Football Association]] (FA), the governing body for [[football in England]], which is affiliated with [[UEFA]] and comes under the global jurisdiction of world football's governing body [[FIFA]].<ref>{{cite web|title=FA Handbook 2013–14|url=http://www.thefa.com/~/media/files/thefaportal/governance-docs/rules-of-the-association/2013-14/fa-handbook-2013-14.ashx|publisher=The Football Association|access-date=2 February 2014|page=621|format=PDF|archive-date=19 February 2014|archive-url=https://web.archive.org/web/20140219013018/http://www.thefa.com/~/media/files/thefaportal/governance-docs/rules-of-the-association/2013-14/fa-handbook-2013-14.ashx|url-status=live}}</ref><ref>{{cite web|title=Written evidence submitted by Lord Triesman|url=https://publications.parliament.uk/pa/cm201012/cmselect/cmcumeds/792/792we16.htm|publisher=Parliament of the United Kingdom|access-date=31 August 2014|date=May 2009|archive-date=14 June 2018|archive-url=https://web.archive.org/web/20180614172317/https://publications.parliament.uk/pa/cm201012/cmselect/cmcumeds/792/792we16.htm|url-status=dead}}</ref> England competes in the three major international tournaments contested by European nations: the [[FIFA World Cup]], [[UEFA European Championship]] and [[UEFA Nations League]].
+
+England are the joint oldest national team in football having played in the world's [[1872 Scotland v England football match|first international football match]] in 1872, against [[Scotland men's national football team|Scotland]]. England's home ground is [[Wembley Stadium]], London<!-- DO NOT LINK, see "MOS:GEOLINK" for further guidance -->, and their training headquarters is at [[St George's Park National Football Centre|St George's Park]], Burton upon Trent<!-- DO NOT LINK, see "MOS:GEOLINK" for further guidance -->. [[Thomas Tuchel]] is the current head coach.<ref name=":0">{{cite web |title=Thomas Tuchel appointed as England men's senior head coach |url=https://www.englandfootball.com/articles/2024/Oct/16/thomas-tuchel-appointed-as-england-mens-senior-head-coach-20241610 |access-date=16 October 2024 |website=England Football}}</ref>
+
+England won the [[1966 FIFA World Cup final]] on home soil, making them one of eight nations to have won the World Cup. They have qualified for the World Cup seventeen times, with fourth place finishes in the [[1990 FIFA World Cup|1990]] and [[2018 FIFA World Cup|2018]] editions. England have never won the European Championship, with their best performances to date being runners-up finishes in [[UEFA Euro 2020|2020]] and [[UEFA Euro 2024|2024]]. As a constituent [[Countries of the United Kingdom|country of the United Kingdom]], England are not a member of the [[International Olympic Committee]] (as English athletes compete for [[Great Britain at the Olympics|Great Britain]]), and so do not compete at the [[Olympic Games]]. England are the only team to have won the World Cup at senior level but not their own major continental title, and the only team representing a non-sovereign country to have won the World Cup.

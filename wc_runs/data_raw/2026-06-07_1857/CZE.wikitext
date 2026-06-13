@@ -1,0 +1,35 @@
+===Current squad===
+The following players were named in the final squad for the [[2026 FIFA World Cup]].<ref>{{cite web |title=Finální nominace reprezentace na mistrovství světa 2026|url=https://www.fotbal.cz/repre/finalni-nominace-reprezentace-na-mistrovstvi-sveta-2026/a24171|publisher=[[Football Association of the Czech Republic]]|language=cs|date=31 May 2026|access-date=31 May 2026}}</ref>
+<br>''Caps and goals updated as of 4 June 2026 after the match against [[Guatemala national football team|Guatemala]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Matěj Kovář]]|age={{bda|df=y|2000|5|17}}|caps=20|goals=0|club=[[PSV Eindhoven]]|clubnat=NED}}
+{{nat fs g player|no=16|pos=GK|name=[[Jindřich Staněk]]|age={{bda|df=y|1996|4|27}}|caps=14|goals=0|club=[[SK Slavia Prague|Slavia Prague]]|clubnat=CZE}}
+{{nat fs g player|no=23|pos=GK|name=[[Lukáš Horníček]]|age={{bda|df=y|2002|7|13}}|caps=1|goals=0|club=[[S.C. Braga|Braga]]|clubnat=POR}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[David Zima]]|age={{bda|df=y|2000|11|8}}|caps=25|goals=1|club=[[SK Slavia Prague|Slavia Prague]]|clubnat=CZE}}
+{{nat fs g player|no=3|pos=DF|name=[[Tomáš Holeš]]|age={{bda|df=y|1993|3|31}}|caps=41|goals=2|club=[[SK Slavia Prague|Slavia Prague]]|clubnat=CZE}}
+{{nat fs g player|no=4|pos=DF|name=[[Robin Hranáč]]|age={{bda|df=y|2000|1|29}}|caps=14|goals=1|club=[[TSG 1899 Hoffenheim|TSG Hoffenheim]]|clubnat=GER}}
+{{nat fs g player|no=5|pos=DF|name=[[Vladimír Coufal]]|age={{bda|df=y|1992|8|22}}|caps=62|goals=2|club=[[TSG 1899 Hoffenheim|TSG Hoffenheim]]|clubnat=GER}}
+{{nat fs g player|no=6|pos=DF|name=[[Štěpán Chaloupek]]|age={{bda|2003|3|8|df=y}}|caps=5|goals=0|club=[[SK Slavia Prague|Slavia Prague]]|clubnat=CZE}}
+{{nat fs g player|no=7|pos=DF|name=[[Ladislav Krejčí (footballer, born 1999)|Ladislav Krejčí]]|age={{bda|df=y|1999|4|20}}|caps=27|goals=5|club=[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]|clubnat=ENG|other=[[Captain (association football)|captain]]}}
+{{nat fs g player|no=14|pos=DF|name=[[David Jurásek]]|age={{bda|df=y|2000|8|7}}|caps=18|goals=1|club=[[SK Slavia Prague|Slavia Prague]]|clubnat=CZE}}
+{{nat fs g player|no=20|pos=DF|name=[[Jaroslav Zelený]]|age={{bda|df=y|1992|8|20}}|caps=23|goals=0|club=[[AC Sparta Prague|Sparta Prague]]|clubnat=CZE}}
+{{nat fs g player|no=21|pos=DF|name=[[David Douděra]]|age={{bda|df=y|1998|5|31}}|caps=17|goals=2|club=[[SK Slavia Prague|Slavia Prague]]|clubnat=CZE}}
+{{nat fs break}}
+{{nat fs g player|no=8|pos=MF|name=[[Vladimír Darida]]|age={{bda|df=y|1990|8|8}}|caps=79|goals=8|club=[[FC Hradec Králové|Hradec Králové]]|clubnat=CZE}}
+{{nat fs g player|no=12|pos=MF|name=[[Lukáš Červ]]|age={{bda|df=y|2001|4|10}}|caps=17|goals=2|club=[[FC Viktoria Plzeň|Viktoria Plzeň]]|clubnat=CZE}}
+{{nat fs g player|no=15|pos=MF|name=[[Pavel Šulc]]|age={{bda|df=y|2000|12|29}}|caps=21|goals=5|club=[[Olympique Lyonnais|Lyon]]|clubnat=FRA}}
+{{nat fs g player|no=17|pos=MF|name=[[Lukáš Provod]]|age={{bda|df=y|1996|10|23}}|caps=38|goals=3|club=[[SK Slavia Prague|Slavia Prague]]|clubnat=CZE}}
+{{nat fs g player|no=18|pos=MF|name=[[Michal Sadílek]]|age={{bda|df=y|1999|5|31}}|caps=35|goals=1|club=[[SK Slavia Prague|Slavia Prague]]|clubnat=CZE}}
+{{nat fs g player|no=22|pos=MF|name=[[Tomáš Souček]]|age={{bda|df=y|1995|2|27}}|caps=90|goals=17|club=[[West Ham United F.C.|West Ham United]]|clubnat=ENG}}
+{{nat fs g player|no=24|pos=MF|name=[[Alexandr Sojka]]|age={{bda|df=y|2003|4|2}}|caps=2|goals=0|club=[[FC Viktoria Plzeň|Viktoria Plzeň]]|clubnat=CZE}}
+{{nat fs g player|no=25|pos=MF|name=[[Hugo Sochůrek]]|age={{bda|df=y|2008|6|7}}|caps=1|goals=0|club=[[AC Sparta Prague|Sparta Prague]]|clubnat=CZE}}
+{{nat fs g player|no=26|pos=MF|name=[[Denis Višinský]]|age={{bda|df=y|2003|3|21}}|caps=2|goals=1|club=[[FC Viktoria Plzeň|Viktoria Plzeň]]|clubnat=CZE}}
+{{nat fs break}}
+{{nat fs g player|no=9|pos=FW|name=[[Adam Hložek]]|age={{bda|df=y|2002|7|25}}|caps=43|goals=5|club=[[TSG 1899 Hoffenheim|TSG Hoffenheim]]|clubnat=GER}}
+{{nat fs g player|no=10|pos=FW|name=[[Patrik Schick]]|age={{bda|df=y|1996|1|24}}|caps=53|goals=26|club=[[Bayer 04 Leverkusen|Bayer Leverkusen]]|clubnat=GER}}
+{{nat fs g player|no=11|pos=FW|name=[[Jan Kuchta]]|age={{bda|df=y|1997|1|8}}|caps=31|goals=3|club=[[AC Sparta Prague|Sparta Prague]]|clubnat=CZE}}
+{{nat fs g player|no=13|pos=FW|name=[[Mojmír Chytil]]|age={{bda|df=y|1999|4|29}}|caps=22|goals=6|club=[[SK Slavia Prague|Slavia Prague]]|clubnat=CZE}}
+{{nat fs g player|no=19|pos=FW|name=[[Tomáš Chorý]]|age={{bda|df=y|1995|1|26}}|caps=22|goals=7|club=[[SK Slavia Prague|Slavia Prague]]|clubnat=CZE}}
+{{nat fs end}}

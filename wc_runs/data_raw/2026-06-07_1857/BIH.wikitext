@@ -1,0 +1,35 @@
+===Current squad===
+The following players were called up for the [[2026 FIFA World Cup]].<ref>{{Cite web | url=https://www.nfsbih.ba/images/2026-D/005_maj/NFSBIH_Spisak_SP.pdf | title=We are dragons | website=www.nfsbih.ba}}</ref>
+<br />''Caps and goals are correct {{as of|2026|06|06|lc=y}}, after the match against [[Panama national football team|Panama]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Nikola Vasilj]]|age={{birth date and age|1995|12|2|df=y}}|caps=26|goals=0|club=[[FC St. Pauli]]|clubnat=GER}}
+{{nat fs g player|no=12|pos=GK|name=[[Mladen Jurkas]]|age={{birth date and age|2007|10|7|df=y}}|caps=0|goals=0|club=[[FK Borac Banja Luka|Borac Banja Luka]]|clubnat=BIH}}
+{{nat fs g player|no=22|pos=GK|name=[[Martin Zlomislić]]|age={{birth date and age|1998|8|16|df=y}}|caps=3|goals=0|club=[[HNK Rijeka|Rijeka]]|clubnat=CRO}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Nihad Mujakić]]|age={{birth date and age|1998|4|15|df=y}}|caps=12|goals=1|club=[[Gaziantep F.K.|Gaziantep]]|clubnat=TUR}}
+{{nat fs g player|no=3|pos=DF|name=[[Dennis Hadžikadunić]]|age={{birth date and age|1998|7|9|df=y}}|caps=32|goals=0|club=[[UC Sampdoria|Sampdoria]]|clubnat=ITA}}
+{{nat fs g player|no=4|pos=DF|name=[[Tarik Muharemović]]|age={{birth date and age|2003|2|28|df=y}}|caps=14|goals=1|club=[[US Sassuolo Calcio|Sassuolo]]|clubnat=ITA}}
+{{nat fs g player|no=5|pos=DF|name=[[Sead Kolašinac]]|age={{birth date and age|1993|6|20|df=y}}|caps=65|goals=0|club=[[Atalanta BC|Atalanta]]|clubnat=ITA}}
+{{nat fs g player|no=7|pos=DF|name=[[Amar Dedić]]|age={{birth date and age|2002|8|18|df=y}}|caps=28|goals=1|club=[[S.L. Benfica|Benfica]]|clubnat=POR}}
+{{nat fs g player|no=18|pos=DF|name=[[Nikola Katić]]|age={{birth date and age|1996|10|10|df=y}}|caps=17|goals=2|club=[[FC Schalke 04|Schalke 04]]|clubnat=GER}}
+{{nat fs g player|no=21|pos=DF|name=[[Stjepan Radeljić]]|age={{birth date and age|1997|9|5|df=y}}|caps=5|goals=0|club=[[HNK Rijeka|Rijeka]]|clubnat=CRO}}
+{{nat fs g player|no=24|pos=DF|name=[[Nidal Čelik]]|age={{birth date and age|2006|7|17|df=y}}|caps=2|goals=0|club=[[RC Lens|Lens]]|clubnat=FRA}}
+{{nat fs break}}
+{{nat fs g player|no=6|pos=MF|name=[[Benjamin Tahirović]]|age={{birth date and age|2003|3|3|df=y}}|caps=28|goals=2|club=[[Brøndby IF|Brøndby]]|clubnat=DEN}}
+{{nat fs g player|no=8|pos=MF|name=[[Armin Gigović]]|age={{birth date and age|2002|4|6|df=y}}|caps=20|goals=1|club=[[BSC Young Boys|Young Boys]]|clubnat=SUI}}
+{{nat fs g player|no=13|pos=MF|name=[[Ivan Bašić]]|age={{birth date and age|2002|4|30|df=y}}|caps=17|goals=0|club=[[FC Astana|Astana]]|clubnat=KAZ}}
+{{nat fs g player|no=14|pos=MF|name=[[Ivan Šunjić]]|age={{birth date and age|1996|10|9|df=y}}|caps=11|goals=0|club=[[Pafos FC|Pafos]]|clubnat=CYP}}
+{{nat fs g player|no=15|pos=MF|name=[[Amar Memić]]|age={{birth date and age|2001|1|20|df=y}}|caps=13|goals=1|club=[[FC Viktoria Plzeň|Viktoria Plzeň]]|clubnat=CZE}}
+{{nat fs g player|no=16|pos=MF|name=[[Amir Hadžiahmetović]]|age={{birth date and age|1997|3|8|df=y}}|caps=36|goals=0|club=[[Hull City A.F.C.|Hull City]]|clubnat=ENG}}
+{{nat fs g player|no=17|pos=MF|name=[[Dženis Burnić]]|age={{birth date and age|1998|5|22|df=y}}|caps=20|goals=0|club=[[Karlsruher SC]]|clubnat=GER}}
+{{nat fs g player|no=19|pos=MF|name=[[Kerim Alajbegović]]|age={{birth date and age|2007|9|21|df=y}}|caps=10|goals=1|club=[[FC Red Bull Salzburg|Red Bull Salzburg]]|clubnat=AUT}}
+{{nat fs g player|no=20|pos=MF|name=[[Esmir Bajraktarević]]|age={{birth date and age|2005|3|10|df=y}}|caps=16|goals=1|club=[[PSV Eindhoven|PSV]]|clubnat=NED}}
+{{nat fs g player|no=26|pos=MF|name=[[Ermin Mahmić]]|age={{birth date and age|2005|3|14|df=y}}|caps=2|goals=0|club=[[FC Slovan Liberec|Slovan Liberec]]|clubnat=CZE}}
+{{nat fs break}}
+{{nat fs g player|no=9|pos=FW|name=[[Samed Baždar]]|age={{birth date and age|2004|1|31|df=y}}|caps=13|goals=1|club=[[Jagiellonia Białystok]]|clubnat=POL}}
+{{nat fs g player|no=10|pos=FW|name=[[Ermedin Demirović]]|age={{birth date and age|1998|3|25|df=y}}|caps=40|goals=4|club=[[VfB Stuttgart]]|clubnat=GER}}
+{{nat fs g player|no=11|pos=FW|name=[[Edin Džeko]]|age={{birth date and age|1986|3|17|df=y}}|caps=148|goals=73|club=[[FC Schalke 04|Schalke 04]]|clubnat=GER}}
+{{nat fs g player|no=23|pos=FW|name=[[Haris Tabaković]]|age={{birth date and age|1994|6|20|df=y}}|caps=10|goals=4|club=[[Borussia Mönchengladbach]]|clubnat=GER}}
+{{nat fs g player|no=25|pos=FW|name=[[Jovo Lukić]]|age={{birth date and age|1998|11|28|df=yes}}|caps=3|goals=0|club=[[FC Universitatea Cluj|Universitatea Cluj]]|clubnat=ROU}}
+{{nat fs end}}

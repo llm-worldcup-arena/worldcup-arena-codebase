@@ -1,0 +1,34 @@
+{
+ "team": "COD",
+ "coach": {
+  "name_zh": "",
+  "name_en": "Sébastien Desabre",
+  "nationality": "France",
+  "career_since": "2006",
+  "person_id": "per_sebastien_desabre"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "Sébastien Desabre, 49, French manager since 2006, appointed DR Congo coach in 2022. Led team to 2023 Afcon semi-finals and 2026 World Cup qualification (first since 1974). Uses flexible 4-1-4-1/4-3-3 formations, defensive organization, high work rate; features Premier League-experienced players like Aaron Wan-Bissaka. Prior African experience: Uganda (2017-2019), Wydad AC, Esperance de Tunis. World Cup Group K: Portugal, Colombia, Uzbekistan. Key players: Yoane Wissa (20 goals for Brentford in 2024/25) and Cedric Bakambu.",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": true,
+  "need_fix": true,
+  "keep_ratio": 0.7,
+  "issues": [
+   "教练生涯史略冗余",
+   "历史背景抒情偏多"
+  ]
+ },
+ "brief_fetched": "2026-06-13_1750",
+ "brief_info_chars": 6000,
+ "coach_xverify": {
+  "canonical": "Sébastien Desabre",
+  "confidence": "high",
+  "discrepancy": "Squawka声称Dean Smith是主教练（2天前），但FIFA、Al Jazeera和维基种子均确认Sébastien Desabre。Squawka的信息可能错误、过时或混淆了其他球队；FIFA作为最权威来源已明确Desabre带队征战2026世界杯。",
+  "sources_agree": 3,
+  "n_sources": 6
+ }
+}

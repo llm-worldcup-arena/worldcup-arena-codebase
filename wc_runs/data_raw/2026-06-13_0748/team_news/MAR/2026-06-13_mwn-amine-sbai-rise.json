@@ -1,0 +1,16 @@
+{
+ "team": "MAR",
+ "source": "Morocco World News",
+ "url": "https://www.moroccoworldnews.com/2026/06/318220/amine-sbais-rise-from-frances-lower-divisions-to-moroccos-world-cup-2026-squad/",
+ "title": "US Warns Foreign Influencers Against Monetized World Cup Content on Tourist Visas",
+ "news_date": "2026-06-13",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "asof": "2026-06-13",
+ "fetched": "2026-06-13_0748",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "US Warns Foreign Influencers Against Monetized World Cup Content on Tourist Visas\nRabat – American immigration authorities are warning foreign influencers that creating monetized content while on a tourist visa could violate federal immigration rules.\nThe warning comes ahead of the FIFA World Cup 2026, a tournament expected to dominate social media platforms throughout the summer, with creators from around the world planning to document matches, fan culture, and behind-the-scenes experiences across host cities in the US.\nAccording to El País, they received statements issued by US Customs and Border Protection (CBP) and the Department of Homeland Security (DHS), stating that foreign nationals entering the country under a tourist visa or visitor program are prohibited from carrying out activities considered “work,” including generating revenue through online content creation.\n“Coming to the United States with the sole purpose of creating content as an influencer, thereby generating earnings while in the country, is considered work and requires the appropriate visa,” the agencies said.\nUnder current US immigration regulations, the B-2 tourist visa permits travel for tourism, family visits, or medical treatment, but does not allow professional or income-generating activities. Authorities warned that violating those conditions could lead to visa cancellation, deportation, or future travel restrictions.\nThe US will host the majority of the tournament’s matches, with games scheduled in major cities, affecting a growing number of digital creators planning to attend the World Cup.\nA government source cited by El País said US officials are particularly focused on influencers who openly document monetized travel content online, and that the goal is to “protect American jobs.”\n“Their own videos give them away,” the source reportedly added.\nImmigration authorities pointed to alternative visa pathways such as the O-1 visa, for creators seeking to legally perform paid promotional work, which is reserved for individuals with “extraordinary ability” in fields including entertainment, sports, and the arts.\nThe World Cup is expected to become one of the year’s biggest online events, but the new restrictions could create uncertainty for creators hoping to capitalize on the tournament’s massive digital reach.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

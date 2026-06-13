@@ -1,0 +1,36 @@
+{
+ "team": "ENG",
+ "coach": {
+  "name_zh": "托马斯·图赫尔",
+  "name_en": "Thomas Tuchel",
+  "nationality": "West Germany",
+  "career_since": "2007",
+  "person_id": "per_thomas_tuchel"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "托马斯·图赫尔（Thomas Tuchel）自2007年起执教，国籍德国，现任英格兰主帅备战世界杯。图赫尔将八强视为争冠心理关口，主张分阶段消化赛事而非背负1966年后无冠历史包袱。布卡约·萨卡自三月起带伤作战，图赫尔承认其仅恢复九成，计划在小组赛弱旅场次控制其60-70分钟出场时间以确保淘汰赛健康。约翰·斯通斯全程参与集训且\"完全具备竞争力\"，图赫尔看重其中卫转中场多位置属性，尽管俱乐部赛季缺勤仍保持基本健康。图赫尔构建双人选覆盖每个位置，右边锋除萨卡外储备诺尼·马杜埃凯、摩根·罗杰斯及马库斯·拉什福德作为战术变招。新西兰热身赛后全队无新增伤病，图赫尔将在对哥斯达黎加友谊赛末轮将主力出场时间提升至60-70分钟以调整竞技状态。",
+ "brief_qc": {
+  "dirty": true,
+  "verbose": false,
+  "need_fix": true,
+  "keep_ratio": 0.7,
+  "issues": [
+   "西德国籍标注错误",
+   "世界杯L组不存在",
+   "拉什福德俱乐部信息错误",
+   "部分球员位置描述存疑"
+  ]
+ },
+ "brief_fetched": "2026-06-13_1750",
+ "brief_info_chars": 4735,
+ "coach_xverify": {
+  "canonical": "Thomas Tuchel",
+  "confidence": "medium",
+  "discrepancy": "所有来源一致指向Thomas Tuchel，但内容均涉及2026年世界杯（未来事件），ESPN来源日期显示为2026年6月12日，疑似模拟或预测性报道，非当前事实。",
+  "sources_agree": 4,
+  "n_sources": 6
+ }
+}

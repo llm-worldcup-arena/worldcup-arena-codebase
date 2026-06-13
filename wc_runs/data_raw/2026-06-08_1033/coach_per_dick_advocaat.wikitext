@@ -1,0 +1,818 @@
+{{short description|Dutch footballer and manager (born 1947)}}
+{{Use dmy dates|date=September 2020}}
+{{Infobox football biography
+| name = Dick Advocaat
+| image = Dick Advocaat 2021.jpg
+| caption = Advocaat in 2021
+| full_name = Dirk Nicolaas Advocaat<ref>{{cite web |url=https://www.fsgc.sm/wp-content/uploads/2017/10/san-marino-olanda-0-7.pdf |title=FIFA World Cup: UEFA / Qualifying round: Group 2: ENG-HOL-NOR-POL-SMR-TUR |publisher=UEFA |page=1 |date=13 October 2017 |access-date=30 November 2022 |archive-date=7 December 2022 |archive-url=https://web.archive.org/web/20221207000454/https://www.fsgc.sm/wp-content/uploads/2017/10/san-marino-olanda-0-7.pdf |url-status=dead }}</ref>
+| birth_date = {{birth date and age|1947|9|27|df=y}}<ref name="worldfootball">{{cite web |url=https://www.worldfootball.net/person/pe25447/dick-advocaat/ |title=Dick Advocaat: Profile |website=worldfootball.net |date=31 July 2021 |publisher=HEIM:SPIEL |access-date=30 November 2022}}</ref>
+| birth_place = [[The Hague]], Netherlands
+| height = 1.70 m<ref name="worldfootball"/>
+| position = [[Defensive midfielder]], [[centre-back]]<ref>{{WorldFootball.net|dick-advocaat|Dick Advocaat}}</ref>
+| currentclub = [[Curaçao national football team|Curaçao]] (manager)
+| years1 = 1966–1973
+| clubs1 = [[ADO Den Haag]]
+| caps1 = 147
+| goals1 = 7
+| years2 = 1967
+| clubs2 = → [[San Francisco Golden Gate Gales|San Francisco Gales]] (loan)
+| caps2 = 7
+| goals2 = 1
+| years3 = 1973–1977
+| clubs3 = [[Roda JC Kerkrade|Roda JC]]
+| caps3 = 113
+| goals3 = 2
+| years4 = 1977–1979
+| clubs4 = [[VVV-Venlo]]
+| caps4 = 74
+| goals4 = 6
+| years5 = 1979
+| clubs5 = [[Chicago Sting]]
+| caps5 = 32
+| goals5 = 3
+| years6 = 1979–1980
+| clubs6 = [[ADO Den Haag]]
+| caps6 = 11
+| goals6 = 1
+| years7 = 1980
+| clubs7 = [[Chicago Sting]]
+| caps7 = 31
+| goals7 = 1
+| years8 = 1980–1982
+| clubs8 = [[Sparta Rotterdam]]
+| caps8 = 61
+| goals8 = 6
+| years9 = 1982–1983
+| clubs9 = [[K. Berchem Sport]]
+| caps9 = 10
+| goals9 = 0
+| years10 = 1983–1984
+| clubs10 = [[FC Utrecht|Utrecht]]
+| caps10 = 39
+| goals10 = 0
+| totalcaps = 525
+| totalgoals = 27
+| manageryears1 = 1980–1984
+| managerclubs1 = DSVP
+| manageryears2 = 1987
+| managerclubs2 = [[Netherlands women's national football team|Netherlands Women]]
+| manageryears3 = 1987–1989
+| managerclubs3 = [[HFC Haarlem]]
+| manageryears4 = 1989–1991
+| managerclubs4 = [[Schiedamse Voetbal Vereniging|SVV]]
+| manageryears5 = 1991–1992
+| managerclubs5 = [[FC Dordrecht|Dordrecht]]
+| manageryears6 = 1992–1994
+| managerclubs6 = [[Netherlands national football team|Netherlands]]
+| manageryears7 = 1994–1998
+| managerclubs7 = [[PSV Eindhoven|PSV]]
+| manageryears8 = 1998–2001
+| managerclubs8 = [[Rangers F.C.|Rangers]]
+| manageryears9 = 2002–2004
+| managerclubs9 = [[Netherlands national football team|Netherlands]]
+| manageryears10 = 2004–2005
+| managerclubs10 = [[Borussia Mönchengladbach]]
+| manageryears11 = 2005
+| managerclubs11 = [[United Arab Emirates national football team|United Arab Emirates]]
+| manageryears12 = 2005–2006
+| managerclubs12 = [[South Korea national football team|South Korea]]
+| manageryears13 = 2006–2009
+| managerclubs13 = [[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]
+| manageryears14 = 2009–2010
+| managerclubs14 = [[Belgium national football team|Belgium]]
+| manageryears15 = 2009–2010
+| managerclubs15 = [[AZ Alkmaar|AZ]]
+| manageryears16 = 2010–2012
+| managerclubs16 = [[Russia national football team|Russia]]
+| manageryears17 = 2012–2013
+| managerclubs17 = [[PSV Eindhoven|PSV]]
+| manageryears18 = 2013–2014
+| managerclubs18 = [[AZ Alkmaar|AZ]]
+| manageryears19 = 2014
+| managerclubs19 = [[Serbia national football team|Serbia]]
+| manageryears20 = 2015
+| managerclubs20 = [[Sunderland A.F.C.|Sunderland]]
+| manageryears21 = 2016–2017
+| managerclubs21 = [[Fenerbahçe S.K. (football)|Fenerbahçe]]
+| manageryears22 = 2017
+| managerclubs22 = [[Netherlands national football team|Netherlands]]
+| manageryears23 = 2017–2018
+| managerclubs23 = [[Sparta Rotterdam]]
+| manageryears24 = 2018–2019
+| managerclubs24 = [[FC Utrecht|Utrecht]]
+| manageryears25 = 2019–2021
+| managerclubs25 = [[Feyenoord]]
+| manageryears26 = 2021
+| managerclubs26 = [[Iraq national football team|Iraq]]
+| manageryears27 = 2022–2023
+| managerclubs27 = [[ADO Den Haag]]
+| manageryears28 = 2024–2026
+| managerclubs28 = [[Curaçao national football team|Curaçao]]
+| manageryears29 = 2026–
+| managerclubs29 = [[Curaçao national football team|Curaçao]]
+}}
+'''Dirk Nicolaas''' "'''Dick'''" '''Advocaat''' ({{IPA|nl|ˈdɪk ɑtfoːˈkaːt|-|Nl-Dick Advocaat.ogg}}; born 27 September 1947) is a Dutch professional [[association football|football]]  coach and former player who is the manager of the [[Curaçao national football team|Curaçao national team]]. A successful player and manager, he is nicknamed "'''The Little General'''", a reference to his mentor [[Rinus Michels]].
+
+Advocaat has coached a number of clubs in the Netherlands and abroad (including the Russian club [[FC Zenit Saint Petersburg|Zenit Saint Petersburg]], with which he won the [[2008 UEFA Cup Final]]), as well as the national teams of a number of countries, including [[South Korea national football team|South Korea]], [[Belgium national football team|Belgium]] and [[Russia national football team|Russia]].
+
+==Club career==
+[[File:Knvbbeker cropped.jpg|thumb|upright|left|Advocaat won the [[KNVB Cup]] as a player with [[ADO Den Haag|FC Den Haag]]]]
+
+Advocaat was born in [[The Hague]]<ref name="worldfootball"/> and was a [[defensive midfielder]] during his playing days.<ref name="Independent">{{cite news |url=https://www.independent.co.uk/sport/football-dutchman-for-whom-winning-is-losing-if-dick-advocaats-team-beat-england-in-wednesdays-world-cup-tie-he-will-still-lose-his-job-joe-lovejoy-met-him-1509666.html |title=Football: Dutchman for whom winning is losing: If Dick Advocaat's team beat England in Wednesday's World Cup tie he will still lose his job. Joe Lovejoy met him |last=Lovejoy |first=Joe |date=9 October 1993 |work=[[The Independent]] |access-date=28 November 2009 |location=London}}</ref> His career began as an 18-year-old with Hague club [[ADO Den Haag]],<ref name="Herald">{{cite news |url=https://findarticles.com/p/articles/mi_qn4156/is_19990725/ai_n13940036/ |title=As Dick Advocaat embarks on his second season at Ibrox, the award-winning author of Football Against the Enemy examines the man sitting in the Premier champions' dug-out |last=Kuper |first=Simon |date=25 July 1999 |work=[[Sunday Herald]] |access-date=28 November 2009}}</ref> and he made his professional debut with the club on 21 May 1967 in a 3–0 win against [[FC Groningen|GVAV]].<ref name="KSTVV">{{cite web |url=http://www.scottishkanaries.eu/Storys/Connections/Dick%20Advocaat.htm |title=Connections: Part 2, Dick Advocaat |publisher=[[K. Sint-Truidense V.V.|KSTVV]] supporters club |access-date=5 December 2009 |url-status=dead |archive-url=https://web.archive.org/web/20110720172143/http://www.scottishkanaries.eu/Storys/Connections/Dick%20Advocaat.htm |archive-date=20 July 2011}}</ref> He only featured for Den Haag once more [[1966–67 Eredivisie|that season]],<ref name="KSTVV"/> and that summer, the [[San Francisco Golden Gate Gales]] franchise imported the Den Haag team, which included Advocaat, to play for six weeks in the [[United Soccer Association]] as part of an effort to make the sport more popular in the United States.<ref>{{cite web |url=http://www.adodenhaag.nl/adodenhaag/nl/html/algemeen/declub/clubhistorie/clubhistorie.pshe |title=Club Historie |publisher=[[ADO Den Haag]] |language=nl |access-date=28 November 2009 |url-status=dead |archive-url=https://web.archive.org/web/20110720100619/http://www.adodenhaag.nl/adodenhaag/nl/html/algemeen/declub/clubhistorie/clubhistorie.pshe |archive-date=20 July 2011}}</ref> It was [[1967–68 Eredivisie|the following season]] that Advocaat won his only honour as a player, the [[KNVB Cup]], in 1968.<ref name="Herald"/> In the [[1969–70 Eredivisie|1969–70 season]], he became a regular in the side, making 29 appearances and scoring his first goal for the club. He made 33 appearances [[1968–69 Eredivisie|the season after that]].<ref name="KSTVV"/> From the [[1971–72 Eredivisie|1971–72]], the club merged with Holland Sport to become FC Den Haag. [[1972–73 Eredivisie|That season]], his final one for the club, Advocaat made a further 66 appearances and scored 6 goals.<ref name="KSTVV"/> In total, he made 147 appearances and scored 7 goals for the club.<ref name="KSTVV"/>
+
+From 1973, Advocaat's playing career continued for [[Roda JC Kerkrade|Roda JC]] until he moved to [[VVV-Venlo]] during the [[1976–77 Eredivisie|1976–77 season]]. With Roda JC, Advocaat made 121 total appearances and scored 2 goals.<ref name="KSTVV"/> When the club was to be discontinued in 2009, Goal.com described him as their most famous player.<ref>{{cite web |url=http://www.goal.com/en/news/462/netherlands/2009/04/03/1190380/the-end-of-an-era-roda-and-fortuna-to-merge |title=The End of an Era: Roda And Fortuna To Merge |last=Coerts |first=Stefan |date=3 April 2009 |publisher=Goal.com |access-date=3 December 2009}}</ref> In his first season with VVV-Venlo, Advocaat scored 2 goals in 20 appearances. He made 33 appearances in the [[1977–78 Eredivisie|1977–78 season]], scoring four goals, and made a further 21 appearances in his [[1978–79 Eredivisie|final season]] at the club. In total, he made 74 appearances and scored 6 goals.<ref name="KSTVV"/>
+
+In 1978, Advocaat made the move to the United States to play with the [[Chicago Sting]] in the [[North American Soccer League (1968–1984)|North American Soccer League]] (NASL).<ref>{{cite web |url=https://www.nasljerseys.com/images/Sting/Sting%2078%20Road%20Team.JPG |title=Sting 78 Road Team |publisher=[[Chicago Sting]] |access-date=27 December 2009}}</ref> [[1978 North American Soccer League season|That season]], he made 24 appearances, scoring two goals. In [[1979 North American Soccer League season|1979]], he scored three more goals in 28 appearances and for the [[1979 North American Soccer League season|1980 season]], he scored one further goal from 29 appearances.<ref>{{cite web |url=https://www.nasljerseys.com/Rosters/Sting_Rosters.htm |title=NASL Chicago Sting Rosters |publisher=NASLjerseys.com |access-date=27 December 2009}}</ref> During [[1979–80 Eredivisie|the break]] between the 1979 and 1980 NASL seasons, Advocaat returned to the Netherlands and made 11 appearances, scoring one goal, for his former club, FC Den Haag.<ref name="KSTVV"/>
+
+Following the 1980 NASL season, Advocaat moved to [[Sparta Rotterdam]] to play the remainder of the [[1980–81 Eredivisie|1980–81 season]]. He spent 18 months at the club, scoring six goals and making 61 appearances.<ref name="KSTVV"/> Following that, Advocaat moved to Belgium and played in the [[Belgian Second Division|second division]] for [[K. Berchem Sport]]. However, he only made ten appearances there before moving back to the [[Eredivisie]] to join [[FC Utrecht|Utrecht]], where he made 39 more appearances before the end of his playing career.<ref>{{cite web |url=http://www.parool.nl/parool/nl/11/SPORT/article/detail/263928/2009/10/07/De-Berchemse-periode-van-Dick-Advocaat.dhtml |title=De Berchemse periode van Dick Advocaat |date=7 October 2009 |work=[[Het Parool]] |access-date=27 December 2009 |language=nl}}</ref>
+
+==Coaching career==
+
+===1981–92: Early coaching in the Netherlands===
+In addition to playing football, Advocaat was a [[physical education]] teacher and became involved in coaching in 1981 when his older brother Jaap was offered a job running amateur Saturday football side Door Samenwerking Verkregen Pijnacker (DSVP). Jaap did not take the role but recommended Dick for the job.<ref name="Herald"/><ref name="Factfile">{{cite news |url=https://www.theguardian.com/football/2002/jan/24/newsstory.sport10 |title=Dick Advocaat factfile |date=24 January 2002 |work=[[The Guardian]] |access-date=28 November 2009 |location=London}}</ref> Advocaat coached this side during the final four years of his playing career with Sparta Rotterdam and Utrecht.<ref name="ABC">{{cite web |url=http://www.abc.net.au/soccer/euro/2004/profiles/advocaat.htm |title=Advocaat answers his critics with play-off success |publisher=[[ABC Online]] |access-date=29 November 2009 |archive-url=https://web.archive.org/web/20121110133210/http://www.abc.net.au/soccer/euro/2004/profiles/advocaat.htm |archive-date=10 November 2012 |url-status=dead}}</ref>
+
+In 1984, Advocaat was unexpectedly appointed as assistant to [[Netherlands national football team|Netherlands national team]] head coach [[Rinus Michels]]. Advocaat became a protégé of Michels, whose sobriquet was "The General". In reference to this, Advocaat acquired the nickname "The Little General".<ref name="Herald"/><ref name="Factfile"/> In 1987, Advocaat became manager of his first professional club, [[HFC Haarlem]], which he led for two years. Haarlem finished in ninth place in the 1987–88 season<ref name="1987–88 league season">{{cite web |last1=Schoenmakers |first1=Jan |title=Netherlands 1987/88 |url=https://www.rsssf.org/tablesn/ned88.html |publisher=Rec.Sport.Soccer Statistics Foundation |access-date=10 July 2016}}</ref> and tenth place in the 1988–89 season.<ref name="1988–89 league season">{{cite web |last1=Schoenmakers |first1=Jan |title=Netherlands 1988/89 |url=https://www.rsssf.org/tablesn/ned89.html |publisher=Rec.Sport.Soccer Statistics Foundation |access-date=10 July 2016}}</ref> Haarlem were eliminated in the second round of the [[KNVB Cup]] in both seasons.<ref name="dutch cup (70–94)">{{cite web |title=Netherlands Cup Full Results 1970–1994 |url=https://www.rsssf.org/tablesn/nedcuphistfull.html |publisher=Rec.Sport.Soccer Statistics Foundation |access-date=10 July 2016 |url-status=live |archive-url=https://web.archive.org/web/20130314114032/http://rsssf.com/tablesn/nedcuphistfull.html |archive-date=14 March 2013}}</ref>
+
+Advocaat then moved to [[Schiedamse Voetbal Vereniging]] (SVV) as manager.<ref name="Herald"/> At SVV, alongside technical director [[Wim Jansen]], Advocaat led the team to become [[Eerste Divisie]] champions in the [[1989–90 Eerste Divisie|1989–90 season]] to win promotion to the [[1990–91 Eredivisie]],<ref name="Factfile"/> winning by 15 points.<ref name="1989–90 league season">{{cite web |last1=Schoenmakers |first1=Jan |title=Netherlands 1989/90 |url=https://www.rsssf.org/tablesn/ned90.html |publisher=Rec.Sport.Soccer Statistics Foundation |access-date=11 July 2016}}</ref> In 1991, SVV merged with neighbouring club [[Dordrecht '90]], which failed to win promotion to the [[1990–91 Eerste Divisie#Promotion/relegation play-offs|1991 play-offs]]. SVV had finished 16th the previous season, but remained in the Eredivisie after winning their relegation play-off.<ref name="1990–91 season">{{cite web |last1=Schoenmakers |first1=Jan |title=Netherlands 1990/91 |url=https://www.rsssf.org/tablesn/ned91.html |publisher=Rec.Sport.Soccer Statistics Foundation |access-date=11 July 2016}}</ref> The two teams competed as [[SVV/Dordrecht '90]] during the [[1991–92 Eredivisie|1991–92 season]], where they finished in 15th place.<ref name="1991–92 season">{{cite web |title=Netherlands 1991/92 |url=https://www.rsssf.org/tablesn/ned92.html |publisher=Rec.Sport.Soccer Statistics Foundation |access-date=11 July 2016 |url-status=live |archive-url=https://web.archive.org/web/20160415100628/http://rsssf.com/tablesn/ned92.html |archive-date=15 April 2016}}</ref> and became [[FC Dordrecht]] the following season, after Advocaat had left.<ref>{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/teams/r/rangers/7393259.stm |title=Advocaat's Rangers legacy |last=Campbell |first=Andy |date=13 May 2008 |publisher=[[BBC Sport]] |access-date=29 November 2009}}</ref> Despite success at both clubs, Advocaat was criticised in his initial coaching years for playing defensive football.<ref name="Herald"/>
+
+===1992–98: Dutch national team and PSV Eindhoven===
+In 1990, Advocaat once more became an assistant to Michels, who was having his fourth spell as coach of the Dutch national team and looking to [[UEFA Euro 1992 qualifying Group 6|qualify]] for [[UEFA Euro 1992]].<ref name="Independent"/> At Euro 1992, it became apparent it would be Michels' last job, and following the tournament, Advocaat took over as national coach.<ref name="Herald"/><ref name="ABC"/> Advocaat lost his first two matches in charge, a friendly against [[Italy national football team|Italy]] and a [[1994 FIFA World Cup qualification (UEFA)#Group 2|1994 FIFA World Cup qualifier]] against [[Norway national football team|Norway]].<ref name="ned 1992">{{cite web |title=Netherlands » Fixtures & Results 1992 |url=https://www.worldfootball.net/teams/te1363/netherlands/all-matches/ |publisher=World Football |access-date=10 July 2016}}</ref> During the qualifying campaign, Advocaat and [[Ruud Gullit]] fell out; Gullit was unhappy with Advocaat's tactics in the World Cup qualifier against [[England national football team|England]] and was eventually substituted. Following this, Gullit retired from international football, but was widely expected to return with a change of administration in the summer.<ref name="Independent"/> Advocaat qualified for the World Cup, following a crucial win against qualification rivals England. Despite the result, Advocaat was scheduled to lose his job to [[Johan Cruyff]] for the [[1994 FIFA World Cup|1994 World Cup]]. However, talks between Cruyff and the [[Royal Dutch Football Association]] (KNVB) broke down at the last minute and Advocaat retained his position, causing Gullit to remain in retirement although he initially joined the Dutch squad for the [[1994 FIFA World Cup|1994 World Cup]].<ref>{{cite web |url=https://www.latimes.com/archives/la-xpm-1994-05-31-sp-64033-story.html |title=Star Gullit Quits Dutch World Cup Team |last=Jones |first=Grahame |date=31 May 1994 |work=[[Los Angeles Times]]}}</ref><ref>{{cite news |url=http://www.highbeam.com/doc/1P2-872404.html |archive-url=https://web.archive.org/web/20121102151430/http://www.highbeam.com/doc/1P2-872404.html |url-status=dead |archive-date=2 November 2012 |title=Some Dutch Unhappy Cruyff Out of Picture |last=Goff |first=Steven |date=24 January 1994 |newspaper=[[The Washington Post]] |access-date=29 November 2009}}</ref> In 1993, the Dutch national team had a record of five wins and two draws.<ref name="ned 1993">{{cite web |title=Netherlands » Fixtures & Results 1993 |url=https://www.worldfootball.net/teams/te1363/netherlands/all-matches/ |publisher=World Football |access-date=10 July 2016}}</ref>
+
+At the World Cup, Advocaat led the Dutch to the [[1994 FIFA World Cup#Quarter-finals|quarter-finals]], where they lost 3–2 to eventual winners [[Brazil national football team|Brazil]]. Following the World Cup, Advocaat returned to manage at club level.<ref>{{cite news |url=http://in.reuters.com/article/sportsNews/idINIndia-40741620090701?pageNumber=2&virtualBrandChannel=0&sp=true |title=FACTBOX – Belgium coach Dick Advocaat |date=1 July 2009 |work=[[Reuters]] |access-date=29 November 2009}}{{dead link|date=September 2024|bot=medic}}{{cbignore|bot=medic}}</ref> His final match was a 5–0 win against [[Luxembourg national football team|Luxembourg]].<ref name="ned 1994">{{cite web |title=Netherlands » Fixtures & Results 1994 |url=https://www.worldfootball.net/teams/te1363/netherlands/all-matches/ |publisher=World Football |access-date=10 July 2016}}</ref>
+
+Advocaat returned to coaching at club level with [[PSV Eindhoven|PSV]] on 16 December 1994, taking over from interim manager [[Kees Rijvers]].<ref name="PSV Eindhoven » Manager history">{{cite web |title=PSV Eindhoven » Manager history |url=https://www.worldfootball.net/teams/te1502/psv-eindhoven/all-managers/ |publisher=World Football |access-date=11 July 2016}}</ref> His first match was 1–0 loss against [[AFC Ajax|Ajax]] on 22 January 1995.<ref name="1994–95 season">{{cite web |title=PSV Eindhoven » Fixtures & Results 1994/1995 |url=https://www.worldfootball.net/teams/te1502/psv-eindhoven/all-matches/ |publisher=World Football |access-date=11 July 2016}}</ref> PSV finished third [[1994–95 Eredivisie|that season]].<ref name="1994–95 league table">{{cite web |title=Netherlands » Eredivisie 1994/1995 » 34. Round |url=https://www.worldfootball.net/competition/ro13650/md34/results-and-standings/ |publisher=World Football |access-date=11 July 2016}}</ref> Coming to the club, Advocaat coached existing players [[Ronaldo (Brazilian footballer)|Ronaldo]] and [[Luc Nilis]], and in [[1995–96 Eredivisie|1995–96]], Advocaat's first full season with the club, he led PSV to second place in the Eredivisie.<ref name="1995–96 league table">{{cite web |title=Netherlands » Eredivisie 1995/1996 » 34. Round |url=https://www.worldfootball.net/competition/ro13649/md34/results-and-standings/ |publisher=World Football |access-date=12 July 2016}}</ref> They also won [[1995–96 KNVB Cup|that year]]'s KNVB Cup, which qualified them for the [[1996–97 UEFA Cup Winners' Cup|following years]] [[UEFA Cup Winners' Cup]].<ref name="1996–97 season">{{cite web |title=PSV Eindhoven » Fixtures & Results 1996/1997 |url=https://www.worldfootball.net/teams/te1502/psv-eindhoven/all-matches/ |publisher=World Football |access-date=11 July 2016}}</ref> Over the summer, Advocaat signed [[Jaap Stam]], and in the [[1996–97 Eredivisie|1996–97 season]], PSV won the Eredivisie title and qualified for the [[UEFA Champions League]] [[1997–98 UEFA Champions League|the following year]]. In June 1998, Advocaat left the club.<ref>[https://www.independent.co.uk/sport/football/internationals/advocaat-can-make-juggling-act-a-fine-art-660193.html Advocaat can make juggling act a fine art]{{dead link|date=August 2021|bot=medic}}{{cbignore|bot=medic}} The Independent, 10 February 2002</ref> PSV also won the [[Johan Cruyff Shield]], the Dutch Super Cup, in [[1996 Johan Cruyff Shield|1996]] and [[1997 Johan Cruyff Shield|1997]].<ref name="dutch super cup">{{cite web |last1=Stokkermans |first1=Karel |title=Netherlands – List of Super Cup Finals |url=https://www.rsssf.org/tablesn/nedsupcuphist.html |publisher=Rec.Sport.Soccer Statistics Foundation |access-date=11 July 2016}}</ref>
+
+===1998–2001: Rangers===
+In 1998, Advocaat accepted the invitation from [[Rangers F.C.|Rangers]] chairman [[David Murray (Scottish businessman)|David Murray]] to become the [[Scottish Premier League]] (SPL) team's new manager.<ref name="Rangers FC » Manager history">{{cite web |title=Rangers FC » Manager history |url=https://www.worldfootball.net/teams/te893/rangers-fc/all-managers/ |publisher=World Football |access-date=12 July 2016}}</ref> [[Walter Smith]] was still in the job but had announced his departure in advance.
+
+When Advocaat took charge of Rangers, he became the first foreign manager to do so<ref name=Rangers>{{cite news |url=https://news.bbc.co.uk/sport1/hi/football/teams/r/rangers/7393259.stm |title=Advocaat's Rangers legacy |publisher=BBC |date=13 May 2008 |access-date=6 August 2010 |first=Andy |last=Campbell}}</ref> and only the tenth manager in the history of the club. The previous season was the last of seven under Walter Smith,<ref name=Rangers /> and the first time the club had finished without a trophy in 12 years.<ref name=legacy>{{cite web |url=https://www.thefreelibrary.com/DICK+ADVOCAAT%3B+The+Rangers+boss+will+be+staking+his+reputation+on+...-a060421042 |title=The Rangers boss will be staking his reputation on bringing Euro success to Ibrox |work=Daily Record |date=19 May 1999 |access-date=6 August 2010}}</ref> Long-term members of the squad that had won [[Nine in a row|nine league championships in a row]] left,<ref name=Rangers /> including [[Ally McCoist]], [[Ian Durrant]], [[Andy Goram]] and [[Stuart McCall]].<ref name=legacy /> With financial backing from chairman David Murray, Advocaat invested heavily in the team.<ref name=Rangers /> Big money signings such as [[Giovanni van Bronckhorst]], [[Arthur Numan]] and [[Andrei Kanchelskis]] were among Advocaat's first as Rangers tried to regain the league championship.<ref name=Rangers />
+
+In Advocaat's first season, [[1998–99 in Scottish football|1998–99]], Rangers won the domestic treble,<ref name=Rangers /> finishing six points above second-place [[Celtic F.C.|Celtic]] in the league,<ref name="1998–99 league table">{{cite web |title=Scotland » Premiership 1998/1999 » 36. Round |url=https://www.worldfootball.net/competition/ro53244/md36/results-and-standings/ |publisher=World Football |access-date=12 July 2016}}</ref> defeating Celtic 1–0 in the Scottish Cup final,<ref name="1998–99 season">{{cite web |title=Rangers FC » Fixtures & Results 1998/1999 |url=https://www.worldfootball.net/teams/te893/rangers-fc/all-matches/ |publisher=World Football |access-date=12 July 2016}}</ref> and defeating [[St. Johnstone F.C.|St. Johnstone]] 2–1 in the League Cup final.<ref name="1998–99 league cup">{{cite web |title=Scottish League Cup |url=https://www.soccerbase.com/tournaments/tournament.sd?tourn_id=818 |website=Soccerbase |publisher=CENTURYCOMM LIMITED |access-date=12 July 2016}}</ref> The club also had a short run in the [[UEFA Cup]],<ref name=Rangers /> where they reached the round of 16.<ref name="1998–99 season"/> In the following season, the club won the SPL by an SPL record 21-point margin,<ref>{{cite web |url=http://thescotsman.scotsman.com/rangersfc/When-Rangers-can-win-the.6186919.jp |title=When Rangers can win the league |work=The Scotsman |date=29 March 2010 |access-date=6 August 2010}}</ref><ref name="1999–2000 league table">{{cite web |title=Scotland » Premiership 1999/2000 » 36. Round |url=https://www.worldfootball.net/competition/ro53245/md36/results-and-standings/ |publisher=World Football |access-date=12 July 2016}}</ref> and also won the [[1999–2000 Scottish Cup]].<ref name="1999–2000 season">{{cite web |title=Rangers FC » Fixtures & Results 1999/2000 |url=https://www.worldfootball.net/teams/te893/rangers-fc/all-matches/ |publisher=World Football |access-date=12 July 2016}}</ref> Rangers fans paid tribute to Advocaat and the Dutch Rangers players at the [[2000 Scottish Cup Final]] by wearing replica orange Netherlands international tops and other orange merchandise.<ref>{{cite news |url=https://www.questia.com/read/1G1-62294525 |title=Ibrox shops are Orange free states |work=Daily Record |date=25 May 2000 |access-date=6 August 2010 }}{{Dead link|date=July 2024 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> Advocaat also guided Rangers into the [[1999–2000 UEFA Champions League|UEFA Champions League]], having beaten UEFA Cup winners [[Parma Calcio 1913|Parma]] in the third round qualifier.<ref name="1999–2000 season"/> However, Rangers went out of the group stage after being drawn alongside [[FC Bayern Munich|Bayern Munich]], PSV and [[Valencia CF|Valencia]].<ref name="1999–2000 season"/> The club then lost to [[Borussia Dortmund]] in a penalty shoot out in the UEFA Cup.<ref>{{cite news |url=https://www.independent.co.uk/sport/football-shootout-exit-stuns-rangers-1131131.html |title=Shoot-out exit stuns Rangers |work=The Independent |date=8 December 1999 |access-date=6 August 2010 |location=London |first=Ken |last=Gaunt}}</ref>
+
+Advocaat's third season at Rangers was less successful. Despite investment in the team with players such as [[Tore André Flo]] for a record £12&nbsp;million,<ref>{{cite news |url=https://www.independent.co.uk/sport/football/scottish/rangers-sign-pound12m-flo-624780.html |title=Rangers sign £12m Flo |work=The Independent |date=12 November 2000 |access-date=6 August 2010 |location=London}}{{dead link|date=May 2026}}</ref> Rangers failed to win any trophies, as Celtic under new manager [[Martin O'Neill]] won the domestic treble.<ref name=Rangers /> Advocaat branded some of his players "fat-necks" in the press.<ref>{{cite web |url=http://sport.scotsman.com/sport/Agitated-Advocaat-gets-his-wires.2249207.jp |title=Agitated Advocaat gets his wires crossed over Fernandes}}</ref> In Europe, Rangers qualified for the [[2000–01 UEFA Champions League|UEFA Champions league]] for the second consecutive season after two qualifying rounds. They were drawn alongside [[SK Sturm Graz|Sturm Graz]], [[Galatasaray S.K. (football)|Galatasaray]] and [[AS Monaco FC|Monaco]].<ref name="2000–01 season">{{cite web |title=Rangers FC » Fixtures & Results 2000/2001 |url=https://www.worldfootball.net/teams/te893/rangers-fc/all-matches/ |publisher=World Football |access-date=12 July 2016}}</ref> After good results against Sturm Graz<ref>{{cite news |url=http://findarticles.com/p/news-articles/sunday-mail-glasgow-scotland/mi_7994/is_2000_Oct_22/football-cut-rangers-graz-patch/ai_n36202266/ |title=We'll cut Rangers Graz on our patch says Austrian star Gilbert |work=Sunday Mail |date=22 October 2000 |access-date=6 August 2010 |first=Hugh |last=Keevins}} {{Dead link|date=September 2010|bot=H3llBot}}</ref> and Monaco,<ref>{{cite news |url=https://www.theguardian.com/football/2000/sep/21/championsleague.sport1 |title=Monaco 0 – 1 Rangers |work=The Guardian |date=21 September 2000 |access-date=6 August 2010 |location=London |first=Graham |last=Spiers}}</ref> the club failed to qualify for the next phase of the competition, finishing third behind Galatasaray on goal difference. Rangers then lost 3–0 to [[1. FC Kaiserslautern]] in the UEFA Cup.<ref>{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/uefa_cup/1059684.stm |title=Kaiserslautern 3–0 Rangers |publisher=BBC |date=7 December 2000 |access-date=6 August 2010}}</ref>
+
+In his last season at Rangers, with Celtic leading the SPL by 12 points, Advocaat resigned from the manager's position on 12 December 2001.<ref>{{cite web |url=http://archive.thepeninsulaqatar.com/component/content/article/118281.html |title=Dick advocates changes at Rangers |date=12 December 2001 |work=[[The Peninsula (newspaper)|The Peninsula]] |access-date=4 August 2010 |location=Glasgow |url-status=dead |archive-url=https://web.archive.org/web/20120420142254/http://archive.thepeninsulaqatar.com/component/content/article/118281.html |archive-date=20 April 2012}}</ref> His final match was a 1–1 draw against [[Hibernian F.C.|Hibernian]].<ref name="2001–02 season">{{cite web |title=Rangers FC » Fixtures & Results 2001/2002 |url=https://www.worldfootball.net/teams/te893/rangers-fc/all-matches/ |publisher=World Football |access-date=12 July 2016}}</ref> [[Alex McLeish]] was appointed as his successor, with Advocaat moving to the position of general manager. Advocaat eventually left Rangers for the Netherlands national team. More than a decade later, in March 2012, Advocaat's reign as manager came under scrutiny as [[Administration and liquidation of The Rangers Football Club Plc|Rangers entered administration]]. Advocaat defended the money spent on transfer fees and said he did not think the club would go bankrupt.<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/17313165 |title=Former Rangers boss Dick Advocaat defends spending policy |publisher=BBC |date=9 March 2012 |access-date=9 March 2012}}</ref>
+
+===2002–06: International management and Mönchengladbach===
+Advocaat rejoined the national team set-up following [[Louis van Gaal]]'s failure to take the national team to the [[2002 FIFA World Cup|2002 World Cup]] in January 2002<ref name="Dual">{{cite news |url=https://www.independent.co.uk/sport/football/scottish/advocaat-stays-at-rangers-but-takes-dutch-job-670274.html |title=Advocaat stays at Rangers but takes Dutch job |last=Pierson |first=Mark |date=26 January 2002 |work=[[The Independent]] |access-date=28 December 2009 |location=London}}{{dead link|date=August 2021|bot=medic}}{{cbignore|bot=medic}}</ref> and presided over the Netherlands qualification for [[UEFA Euro 2004|Euro 2004]] via the playoffs. His first match was 1–1 draw against England.<ref name="ned 2002">{{cite web |title=Netherlands » Fixtures & Results 2002 |url=https://www.worldfootball.net/teams/te1363/netherlands/all-matches/ |publisher=World Football |access-date=13 July 2016}}</ref> The [[Netherlands national football team|''Oranje'']] had finished second in their group behind the [[Czech Republic national football team|Czech Republic]]<ref name="EURO Qualifiers 2002/2003 » Group 3">{{cite web |title=EURO Qualifiers 2002/2003 » Group 3 |url=https://www.worldfootball.net/competition/ro10272/md0/results-and-standings/ |publisher=World Football |access-date=13 July 2016}}</ref> and therefore went into a playoff in order to qualify for Euro 2004. They managed to achieve this after a 6–1 aggregate win over [[Scotland national football team|Scotland]] but not before surviving a harrowing encounter, losing 1–0 in the first leg in Scotland.<ref name="ned 2003">{{cite web |title=Netherlands » Fixtures & Results 2003 |url=https://www.worldfootball.net/teams/te1363/netherlands/all-matches/ |publisher=World Football |access-date=13 July 2016}}</ref> Advocaat was criticised by the Dutch media so much so that several of the team's players refused to speak to the media even after the comfortable and inspired 6–0 victory in the return leg at the [[Amsterdam Arena]].<ref>{{Cite web |title=Advocaat: Mede door Van Hanegem is het fout gelopen |date=2010-03-10 |url=https://www.ad.nl/ad/nl/1016/Nederlands-voetbal/article/detail/1952724/2010/03/10/Advocaat-Mede-door-Van-Hanegem-is-het-fout-gelopen.dhtml |archive-url= https://web.archive.org/web/20150402170819/http://www.ad.nl/ad/nl/1016/Nederlands-voetbal/article/detail/1952724/2010/03/10/Advocaat-Mede-door-Van-Hanegem-is-het-fout-gelopen.dhtml |archive-date= 2015-04-02 |access-date=2024-03-26 }}</ref>
+
+Despite taking Netherlands to the semi-finals of Euro 2004,<ref name="ned 2004">{{cite web |title=Netherlands » Fixtures & Results 2004 |url=https://www.worldfootball.net/teams/te1363/netherlands/all-matches/ |publisher=World Football |access-date=13 July 2016}}</ref> the Dutch media were critical of Advocaat. Netherlands were beaten 2–1 by [[Portugal national football team|Portugal]] in the semi-finals of Euro 2004 after a dismal performance. The team also made several criticisms of his tactics, especially those in the team's shock loss to the [[Czech Republic national football team|Czech Republic]] in the second match of the first round of the tournament. In that match, Advocaat made a tactical change that shocked even his own players, as he brought on the aging [[Paul Bosvelt]] in midfield to replace crowd favourite [[Arjen Robben]], who had been contributing immensely throughout the match with two assists. The Czechs seized the opportunity to capitalize on it and scored the decisive goal. Shortly after the tournament, with mounting pressure and even death threats, Advocaat quit his job as head coach on 6 July 2004.<ref name="Quits">{{cite news |url=https://www.telegraph.co.uk/sport/2382529/Advocaat-quits-Holland.html |archive-url=https://ghostarchive.org/archive/20220112/https://www.telegraph.co.uk/sport/2382529/Advocaat-quits-Holland.html |archive-date=12 January 2022 |url-access=subscription |url-status=live |title=Advocaat quits Holland |last=Groves |first=Nancy |date=7 July 2004 |work=[[The Daily Telegraph]] |access-date=28 December 2009 |location=London}}{{cbignore}}</ref>
+
+Advocaat then went briefly back into club management. He was hired by German club [[Borussia Mönchengladbach]] on 2 November 2004.<ref name="Advocaat ist unser Wunschtrainer">{{cite news |title=Advocaat ist unser Wunschtrainer |url=https://www.kicker.de/advocaat-ist-unser-wunschtrainer-306562/artikel |access-date=9 July 2016 |publisher=kicker |date=2 November 2004 |language=de}}</ref> His first match was a 1–1 draw against [[1. FSV Mainz 05|Mainz 05]] on 6 November 2004.<ref>{{cite news |title=Noveski rettet einen Punkt |url=https://www.kicker.de/mainz-gegen-mgladbach-2004-bundesliga-677770/analyse |access-date=9 July 2016 |publisher=kicker |date=5 November 2004 |language=de}}</ref> He resigned on 18 April 2005 after less than six months at the helm.<ref name="Dick Advocaat gibt auf">{{cite news |title=Dick Advocaat gibt auf |url=https://www.kicker.de/dick-advocaat-gibt-auf-313803/artikel |access-date=9 July 2016 |publisher=kicker |date=18 April 2005 |language=de}}</ref> His final match was 1–1 draw against Mainz 05 on 16 April 2005.<ref name="2004–05 season">{{cite web |title=Bor. Mönchengladbach |url=https://www.kicker.de/bor-moenchengladbach/spielplan/bundesliga/2004-05 |website=[[Kicker (magazine)|Kicker]] |publisher=kicker |access-date=9 July 2016 |language=de}}</ref> He finished with a record of four wins, six draws, and eight losses.<ref name="Bor. Mönchengladbach - Trainerhistorie">{{cite web |title=Bor. Mönchengladbach |url=https://www.kicker.de/bor-moenchengladbach/team-trainer/bundesliga/2014-15 |website=[[Kicker (magazine)|Kicker]] |publisher=kicker |access-date=22 July 2014 |language=de |archive-url=https://web.archive.org/web/20141019064413/http://www.kicker.de/news/fussball/bundesliga/vereine/1-bundesliga/2014-15/borussia-mgladbach-15/trainer.html |archive-date=19 October 2014 |url-status=live }}</ref>
+
+In July 2005, Advocaat signed a one-year contract to become coach of the [[United Arab Emirates national football team|United Arab Emirates national team]],<ref name="UAE">{{cite web |url=https://www.rediff.com/sports/2005/jul/18uae.htm |title=Advocaat to coach UAE |date=18 July 2005 |work=[[Rediff.com]] |access-date=28 November 2009}}</ref> but he terminated this contract in September to become manager of [[South Korea national football team|South Korea's national team]] from 1 October 2005 until the end of the [[2006 FIFA World Cup|2006 World Cup]].<ref name="Korea">{{cite web |url=http://soccernet.espn.go.com/news/story?id=342443&cc=5739 |archive-url=https://web.archive.org/web/20110604141514/http://soccernet.espn.go.com/news/story?id=342443&cc=5739 |url-status=dead |archive-date=4 June 2011 |title=Advocaat appointed as S.Korea's new coach |date=13 September 2005 |publisher=[[ESPNsoccernet]] |access-date=28 November 2009}}</ref> During his tenure with the UAE, Advocaat was manager for two matches at the 1st International Arab Friendly Tournament in Switzerland.<ref name="uae record">{{cite web |url=https://www.rsssf.org/tablesg/genevearab05.html |title=1st International Arab Friendly Tournament 2005 (Switzerland) |publisher=[[Rec.Sport.Soccer Statistics Foundation]] |access-date=27 December 2009}}</ref> UAE won the first match against [[Kuwait national football team|Kuwait]] 7–6 on [[Penalty shootout (association football)|penalties]] after the match had finished 1–1.<ref>{{cite web |url=http://english.people.com.cn/200507/30/eng20050730_199299.html |title=Kuwait national football team loses to UAE in friendship |date=30 July 2005 |work=[[People's Daily]] |access-date=27 December 2009}}</ref> They then lost the final to [[Egypt national football team|Egypt]] 4–5 on penalties, following a 0–0 draw in normal time.<ref>{{cite web |url=http://www.egyptianplayers.com/nationalteams/articles-NT22.htm |title=Arab Tournament: Egypt vs UAE |date=31 July 2005 |publisher=EgyptianPlayers.com |access-date=27 December 2009 |url-status=dead |archive-url=https://web.archive.org/web/20100109023157/http://egyptianplayers.com/nationalteams/articles-NT22.htm |archive-date=9 January 2010}}</ref>
+
+Advocaat's first match in charge of South Korea was a friendly against [[Iran national football team|Iran]] on 12 October 2005, which South Korea won 2–0.<ref>{{cite web |url=https://www.soccerphile.com/soccerphile/news/korean-soccer/korea-iran.html |title=South Korea Downs Iran 2–0 |last=Duerden |first=John |publisher=Soccerphile |access-date=27 December 2009}}</ref> Two more friendlies were played that year in November, a draw against [[Sweden men's national football team|Sweden]] and a victory against [[Serbia national football team|Serbia]].
+
+In early 2006, during the break between domestic seasons, Advocaat took a [[2006 Carlsberg Cup#.C2.A0Korea Republic|23-man squad]] of players from the [[K-League]] and [[J-League]] and embarked on a five-week, ten-match tour. It started with an Advocaat's first defeat as manager against the UAE. From there they travelled to [[Riyadh]], Saudi Arabia, where they drew with [[Greece national football team|Greece]] and won against [[Finland national football team|Finland]]. Then they travelled to Hong Kong to take part in the [[2006 Carlsberg Cup|Carlsberg Cup]], where they defeated [[Croatia national football team|Croatia]] before losing in the final to [[Denmark national football team|Denmark]]. They then travelled to America where they lost to [[Costa Rica national football team|Costa Rica]], won against [[Major League Soccer]] (MLS) side [[LA Galaxy]] and [[Mexico national football team|Mexico]]. The tour finished in [[Aleppo]], Syria, on 22 February 2006 with an [[2007 AFC Asian Cup|Asian Cup]] [[2007 AFC Asian Cup qualification#Group B|qualifying match]] against [[Syria national football team|Syria]] which they won 2–1, ending the tour with six wins, one draw and three losses.<ref>{{cite web |url=https://www.fifa.com/worldcup/archive/germany2006/news/newsid=15513.html |title=Tour puts Korea on right track |date=24 February 2006 |publisher=[[FIFA]] |access-date=27 December 2009 |url-status=dead |archive-url=https://web.archive.org/web/20121107131854/http://www.fifa.com/worldcup/archive/germany2006/news/newsid%3D15513.html |archive-date=7 November 2012}}</ref><ref>{{cite web |url=http://english.ohmynews.com/articleview/article_view.asp?at_code=311476 |title=Korean Football Ends Tour on High Note |last=Duerden |first=John |date=17 February 2006 |work=[[OhmyNews]] |access-date=27 December 2009 |archive-date=19 February 2014 |archive-url=https://web.archive.org/web/20140219053411/http://english.ohmynews.com/articleview/article_view.asp?at_code=311476 |url-status=dead }}</ref> In the lead up to the World Cup, South Korea played five more friendlies, winning two, drawing two and losing one.<ref>{{cite web |url=https://www.fifa.com/associations/association=kor/fixturesresults/gender=m/index.html |archive-url=https://web.archive.org/web/20070604201447/http://www.fifa.com/associations/association=kor/fixturesresults/gender=m/index.html |url-status=dead |archive-date=4 June 2007 |title=Korea Republic: Fixtures and results |publisher=[[FIFA]] |access-date=27 December 2009}} Note: Time range → Customize search, From → March 2006, To → June 2006</ref>
+
+At the World Cup, South Korea opened their campaign with a 2–1 victory over [[Togo national football team|Togo]]. In their second group match, they scored a late equalizer to draw 1–1 against [[France national football team|France]], putting them in a position to qualify from [[2006 FIFA World Cup Group G|Group G]]. However, South Korea failed to make it into the last 16 after a 2–0 loss against [[Switzerland national football team|Switzerland]], while France defeated Togo 2–0 to advance to the next round.<ref>{{cite web |url=https://www.fifa.com/worldcup/archive/germany2006/news/newsid=27566.html#koreans+find+cause+optimism |title=Kreans find cause for optimism |date=10 July 2006 |publisher=[[FIFA]] |access-date=27 December 2009 |url-status=dead |archive-url=https://web.archive.org/web/20100409185325/http://www.fifa.com/worldcup/archive/germany2006/news/newsid%3D27566.html |archive-date=9 April 2010}}</ref> Following Korea's exit from the World Cup, Advocaat resigned.<ref name="Zenit Reuters">{{cite news |url=http://uk.reuters.com/article/idUKB52531920080514 |archive-url=https://web.archive.org/web/20121012022135/http://uk.reuters.com/article/2008/05/14/soccer-uefa-quotes-idUKB52531920080514 |url-status=dead |archive-date=12 October 2012 |title=Advocaat savours Zenit's UEFA Cup triumph |last=Palmer |first=Justin |date=15 May 2008 |work=[[Reuters]] |access-date=5 March 2010}}</ref>
+
+===2006–09: Zenit Saint Petersburg===
+In December 2005, gas giant [[Gazprom]] took over as owners of [[Russian Premier League]] team [[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]. After a mediocre start to the season, manager [[Vlastimil Petržela]] was sacked in the summer.<ref name="Gazprom">{{cite web |url=http://www.uefa.com/magazine/news/kind=134217728/newsid=497842.html |archive-url=https://web.archive.org/web/20070127113337/http://www.uefa.com/magazine/news/kind%3D134217728/newsid%3D497842.html |url-status=dead |archive-date=27 January 2007 |title=Gazprom fuels Zenit dream |last=Nisenboim |first=Eduard |date=19 January 2007 |publisher=[[UEFA]] |access-date=13 March 2010 }}</ref> On 26 June 2006, Advocaat was appointed in his place,<ref name="Verbeek folgt Advocaat">{{cite news |title=Verbeek folgt Advocaat |url=https://www.kicker.de/verbeek-folgt-advocaat-351609/artikel |access-date=9 July 2016 |publisher=kicker |date=26 June 2006 |language=de}}</ref> signing an 18-month contract with the option of a one-year extension.<ref name="Zenit Reuters"/> Zenit finished the [[2006 Russian Premier League|2006 season]] in fourth place, earning a place in the [[2007–08 UEFA Cup]] [[2007–08 UEFA Cup#Second qualifying round|second qualifying round]].<ref name="2006 league table">{{cite web |title=Premier Liga – Spieltag / Tabelle |url=https://www.kicker.de/premjer-liga/spieltag/2006/30/0 |website=[[Kicker (magazine)|Kicker]] |publisher=kicker |access-date=13 July 2016 |language=de}}</ref> In December 2006, the Russian Premier League transfer record was broken twice, first with the signing of [[Pavel Pogrebnyak]] and then again when Zenit bought [[Alejandro Domínguez (footballer, born 1981)|Alejandro Domínguez]].<ref name="Gazprom"/>
+
+[[File:Dick Advocaat.jpg|thumb|right|200px|Advocaat in 2007]]
+For [[2007 Russian Premier League|the 2007 season]], Advocaat led Zenit to their first domestic league title since the Soviet Union was disbanded.{{citation needed|date=February 2023}} Zenit won by two points over second–place [[FC Spartak Moscow|Spartak Moscow]].<ref name="2007 league table">{{cite web |title=Premier Liga – Spieltag / Tabelle |url=http://www.kicker.de/news/fussball/intligen/russland/premier-liga/2007/0/0/spieltag.html |archive-url=https://web.archive.org/web/20100821083748/http://www.kicker.de/news/fussball/intligen/russland/premier-liga/2007/0/0/spieltag.html |url-status=dead |archive-date=21 August 2010 |website=[[Kicker (magazine)|Kicker]] |publisher=kicker |access-date=13 July 2016 |language=de}}</ref> [[Andrey Arshavin]] stood out as the star player of the season, being the only member of the team to start all 30 league matches.<ref>{{cite web |url=https://www.fifa.com/worldfootball/clubfootball/news/newsid=636487.html |archive-url=https://web.archive.org/web/20071114000717/http://www.fifa.com/worldfootball/clubfootball/news/newsid=636487.html |url-status=dead |archive-date=14 November 2007 |title=Zenit wrest trophy from Moscow |publisher=FIFA |date=12 November 2007 |access-date=16 November 2007}}</ref> Advocaat became the first foreign coach to win the Russian championship and,<ref name="Who"/> by winning the league, Zenit qualified for the [[2008–09 UEFA Champions League group stage|group stage of the Champions League]] the following season. In August, Advocaat had signed a deal to become manager of the [[Australia men's national soccer team|Australia national team]], however when Zenit offered him a new US$4&nbsp;million contract extension in November,<ref name="Who">{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/teams/r/rangers/7398400.stm |title=Who are Zenit? |date=13 May 2008 |publisher=[[BBC Sport]] |access-date=5 March 2010 |first=Tom |last=Fordyce}}</ref><ref>{{cite web |url=https://www.fifa.com/worldfootball/clubfootball/news/newsid=642118.html#advocaat+extends+zenit+contract |archive-url=https://web.archive.org/web/20071122202354/http://www.fifa.com/worldfootball/clubfootball/news/newsid=642118.html#advocaat+extends+zenit+contract |url-status=dead |archive-date=22 November 2007 |title=Advocaat extends Zenit contract |date=21 November 2007 |publisher=[[FIFA]] |access-date=6 March 2010}}</ref> Advocaat reneged on the deal with Australia.<ref>{{cite news |url=http://www.news.com.au/dailytelegraph/story/0,22049,22772640-5001023,00.html |title=Advocaat stands Socceroos up |work=The Daily Telegraph |date=17 November 2007 |access-date=17 November 2007 |first=David |last=Davutovic |archive-date=17 November 2007 |archive-url=https://web.archive.org/web/20071117085951/http://www.news.com.au/dailytelegraph/story/0,22049,22772640-5001023,00.html |url-status=dead }}</ref><ref>{{cite news |url=http://www.news.com.au/heraldsun/story/0,21985,22773227-11088,00.html |title=Dick Advocaat backs out of Socceroos' coaching deal |publisher=Melbourne Herald Sun |date=17 November 2007 |access-date=17 November 2007 |first=David |last=Davutovic |archive-date=17 November 2007 |archive-url=https://web.archive.org/web/20071117100821/http://www.news.com.au/heraldsun/story/0,21985,22773227-11088,00.html |url-status=dead }}</ref> In Europe, Zenit qualified for the [[2007–08 UEFA Cup group stage|group stage]] of the UEFA Cup. Zenit finished third in [[2007–08 UEFA Cup group stage#Group A|their group]] and advanced to the last 32 of the competition. They progressed to the quarter-finals coming through matches against [[Villarreal CF|Villarreal]] and [[Olympique de Marseille|Marseille]] on the [[away goals rule]].<ref>{{cite web |url=https://www.fifa.com/worldfootball/ranking/news/newsid=826265.html |title=Russia: a sleeping giant wakes |date=17 July 2008 |publisher=[[FIFA]] |access-date=6 March 2010 |url-status=dead |archive-url=https://web.archive.org/web/20100730022755/http://www.fifa.com/worldfootball/ranking/news/newsid%3D826265.html |archive-date=30 July 2010}}</ref>
+
+[[File:Dmitry Medvedev 16 May 2008-2.jpg|thumb|right|250px|Advocaat with then-Russian president [[Dmitry Medvedev]] at the [[Moscow Kremlin]] in 2008]]
+[[File:AdvocaatZenit.JPG|thumb|right|200px|Advocaat with [[FC Zenit Saint Petersburg|Zenit Saint Petersburg]] in 2008]]
+
+Prior to the start of the [[2008 Russian Premier League|2008 domestic season]], as league winners, Zenit faced [[Russian Football Cup|Russian Cup]] winners [[FC Lokomotiv Moscow|Lokomotiv Moscow]] in the [[2008 Russian Super Cup|Russian Super Cup]] on 9 March 2008; Zenit won the match 2–0.<ref>{{cite web |url=https://www.fifa.com/worldfootball/clubfootball/news/newsid=708669.html |archive-url=https://web.archive.org/web/20080311233812/http://www.fifa.com/worldfootball/clubfootball/news/newsid=708669.html |url-status=dead |archive-date=11 March 2008 |title=Zenit win Super Cup |publisher=[[FIFA]] |access-date=6 March 2010}}</ref> Continuing in the UEFA Cup, Zenit were victorious against German clubs [[Bayer 04 Leverkusen|Bayer Leverkusen]] and Bayern Munich to reach the final against Rangers, Advocaat's former club.<ref>{{cite web |url=http://soccernet.espn.go.com/report?id=239866&cc=5739 |title=Bayern Munich 1 – 1 Zenit St Petersburg |date=24 April 2008 |work=[[ESPNSoccernet]] |access-date=6 March 2010 |archive-date=4 June 2011 |archive-url=https://web.archive.org/web/20110604151719/http://soccernet.espn.go.com/report?id=239866&cc=5739 |url-status=dead }}</ref><ref name="UCFinal"/> In [[2008 UEFA Cup Final|the final]], played on 14 May 2008, Zenit won 2–0 to become only the second Russian team to ever win a European trophy.<ref name="UCFinal">{{cite news |url=https://news.bbc.co.uk/sport1/hi/football/teams/r/rangers/7398183.stm |title=Live – Uefa Cup |date=14 May 2008 |publisher=[[BBC Sport]] |access-date=6 March 2010}}</ref> On 24 August 2008, [[FC Dynamo Moscow|Dynamo Moscow]] player [[Danny (footballer)|Danny]] transferred to Zenit for a Russian record transfer fee of €30&nbsp;million ([[Pound sterling|£]]23&nbsp;million).<ref>{{cite web |title=Zenit pay record €30m for Danny |url=https://www.uefa.com/uefachampionsleague/news/0250-0c50f24dd298-59d969be7976-1000--zenit-pay-record-30m-for-danny/ |website=[[UEFA]] |access-date=2 September 2020 |date=25 August 2008}}</ref> The arrival of Danny increased speculation that Arshavin was to leave the club, but the club rejected substantial bids from both [[FC Barcelona|Barcelona]] and [[Tottenham Hotspur F.C.|Tottenham Hotspur]] in the [[List of English football transfers summer 2008|summer transfer window]],<ref>{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/teams/t/tottenham_hotspur/7589344.stm |title=Arshavin's Spurs move 'ruled out' |date=29 August 2008 |publisher=[[BBC Sport]] |access-date=5 March 2010}}</ref> despite the player's strong desire to leave the club.<ref>{{cite news |url=https://www.telegraph.co.uk/sport/football/leagues/premierleague/tottenham/2521784/Andrei-Arshavin-vents-frustration-at-Spurs-move-Football.html |title=Andrei Arshavin vents frustration at Tottenham move |date=8 August 2008 |work=[[The Daily Telegraph]] |access-date=6 March 2010 |location=London |url-status=dead |archive-url=https://web.archive.org/web/20121113165050/https://www.telegraph.co.uk/sport/football/leagues/premierleague/tottenham/2521784/Andrei-Arshavin-vents-frustration-at-Spurs-move-Football.html |archive-date=13 November 2012}}</ref>
+
+On 29 August 2008, Zenit contested with [[2007–08 UEFA Champions League|Champions League]] winners [[Manchester United F.C.|Manchester United]] for the [[2008 UEFA Super Cup|European Super Cup]]. Zenit won the match 2–1 with new signing Danny scoring the decisive goal.<ref>{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/europe/7584103.stm |title=Man Utd 1–2 Zenit St Petersburg |date=29 August 2008 |publisher=[[BBC Sport]] |access-date=6 March 2010 |first=Sam |last=Lyon}}</ref> In Europe, Zenit failed to advance from their [[2008–09 UEFA Champions League group stage#Group H|Champions League group]] but finished third which meant they entered into the last 32 of the [[2008–09 UEFA Cup|UEFA Cup]].{{citation needed|date=December 2020}} That year, Zenit finished fifth domestically, qualifying for the [[2009–10 UEFA Europa League#Play-off round|play-offs of the Europa League]] the following season.<ref name="2008 league table">{{cite web |title=Premier Liga – Spieltag / Tabelle |url=http://www.kicker.de/news/fussball/intligen/russland/premier-liga/2008/0/0/spieltag.html |archive-url=https://web.archive.org/web/20100821083754/http://www.kicker.de/news/fussball/intligen/russland/premier-liga/2008/0/0/spieltag.html |url-status=dead |archive-date=21 August 2010 |website=[[Kicker (magazine)|Kicker]] |publisher=kicker |access-date=13 July 2016}}</ref> On 7 November 2008, Advocaat signed a one-year extension that contracted him to the club until the end of 2009.<ref>{{cite news |title=Advocaat extends contract with Zenit |date=7 November 2009 |agency=[[RIA Novosti]]}}</ref> In December, Advocaat was named Trainer of the Year in Russia.{{citation needed|date=February 2023}}
+
+In January 2009, Arshavin was heavily rumoured to move again. Towards the end of the [[List of English football transfers winter 2008–09|winter transfer window]], the Russian threatened to strike if he was not sold.<ref>{{cite news |url=https://www.theguardian.com/sport/2009/jan/23/newcastle-united-kinnear-charles-nzogbia-roy-carroll |title=Zenit losing patience with Arsenal as Arshavin considers strike action |last=Jackson |first=Jamie |author2=Fifield, Dominic |date=23 January 2009 |work=[[The Guardian]] |access-date=6 March 2010 |location=London}}</ref> Arshavin transferred to [[Arsenal F.C.|Arsenal]] at the last-minute for around £16.9&nbsp;million.<ref>{{cite web |url=http://soccernet.espn.go.com/news/story?id=615780&cc=5739 |title=Arshavin transfer finally gets the go ahead |date=4 February 2009 |work=[[ESPNSoccernet]] |access-date=6 March 2010 |archive-date=11 April 2009 |archive-url=https://web.archive.org/web/20090411231149/http://soccernet.espn.go.com/news/story?id=615780&cc=5739 |url-status=dead }}</ref> In February, Zenit's UEFA Cup continued and Zenit progressed to the last 16. They failed to reach the quarter-finals, though, losing to [[Udinese Calcio|Udinese]] 2–1 on aggregate.<ref>{{cite web |url=http://search.japantimes.co.jp/cgi-bin/sc20090321a1.html |title=Udinese ousts champ Zenit from UEFA Cup |date=21 March 2009 |work=[[Japan Times]] |access-date=6 March 2010 |url-status=dead |archive-url=https://web.archive.org/web/20090326035825/http://search.japantimes.co.jp/cgi-bin/sc20090321a1.html |archive-date=26 March 2009 }}</ref> In the [[2009 Russian Premier League|domestic season]], Advocaat fielded seven foreign players in a team selection (one more than the league rules allow) against Lokomotiv Moscow in April 2009. Advocaat admitted he was at fault for the mistake and the club were fined but not deducted points.{{citation needed|date=December 2020}} In May 2009, Advocaat agreed to become manager of the [[Belgium national football team|Belgium national team]] when his contract with Zenit expired on 1 January 2010.<ref name="Belgium">{{cite web |url=http://soccernet.espn.go.com/news/story?id=648743&cc=5739 |title=Advocaat set to take over as Belgium coach |date=23 May 2009 |publisher=[[ESPNsoccernet]] |access-date=28 November 2009 |archive-date=4 June 2011 |archive-url=https://web.archive.org/web/20110604141451/http://soccernet.espn.go.com/news/story?id=648743&cc=5739 |url-status=dead }}</ref> However, on 10 August 2009, after run of poor results, he was sacked by the club with Zenit seventh in the league.<ref name="Advocaat sacked as Zenit manager">{{cite news |url=https://news.bbc.co.uk/sport1/hi/football/europe/8192749.stm |title=Advocaat sacked as Zenit manager |date=10 August 2009 |publisher=[[BBC Sport]] |access-date=5 March 2010}}</ref> His final match was a 2–0 loss to [[FC Tom Tomsk|Tom Tomsk]] on 9 August 2009.<ref>{{cite web |title=Zenit St. Petersburg |url=https://www.kicker.de/zenit-st-petersburg/spielplan/premjer-liga/2009 |publisher=kicker |access-date=13 July 2016 |language=de}}</ref> Zenit were in seventh place at the time of the dismissal.<ref name="2009 league table">{{cite web |title=Premier Liga – Spieltag / Tabelle |url=https://www.kicker.de/premjer-liga/spieltag/2009/17/0 |website=[[Kicker (magazine)|Kicker]] |publisher=kicker |access-date=13 July 2016}}</ref>
+
+===2009–10: Belgium and AZ===
+Before his dismissal from Zenit, Advocaat had already agreed a two-year, US$1,688,400<ref name="LAT">{{cite news |url=https://www.latimes.com/archives/la-xpm-2009-jul-05-sp-jones-soccer5-story.html |title=He has cards; will he shuffle deck? |last=Jones |first=Grahame L. |date=5 July 2009 |work=[[Los Angeles Times]] |access-date=3 December 2009}}</ref> contract as manager of Belgium to start in 2010.<ref name="Belgium"/> However, when Belgium [[2010 FIFA World Cup qualification – UEFA Group 5|failed to qualify]] for the [[2010 FIFA World Cup|2010 World Cup]], [[Franky Vercauteren]] resigned as manager and Advocaat's contract was brought forward to commence on 1 October 2009.<ref name="UEFA">{{cite web |url=https://www.uefa.com/competitions/worldcup/news/kind=1/newsid=891473.html |title=Advocaat agrees to early Belgium start |date=17 September 2009 |publisher=[[UEFA]] |access-date=28 November 2009 |url-status=dead |archive-url=https://web.archive.org/web/20090927155741/http://www.uefa.com/competitions/worldcup/news/kind%3D1/newsid%3D891473.html |archive-date=27 September 2009}}</ref> Advocaat's first two matches in charge were the remaining fixtures in the qualifying campaign, a 2–0 victory against [[Turkey national football team|Turkey]] and a 2–0 defeat to [[Estonia national football team|Estonia]].<ref name="bel 2009">{{cite web |title=Belgium » Fixtures & Results 2009 |url=https://www.worldfootball.net/teams/te13948/belgium/all-matches/ |publisher=World Football |access-date=10 July 2016}}</ref> In the remainder of 2009, Belgium won in friendly matches against [[Hungary national football team|Hungary]] and [[Qatar national football team|Qatar]].<ref name="FIFA Belgium">{{cite web |url=https://www.fifa.com/associations/association=bel/fixturesresults/gender=m/index.html |archive-url=https://web.archive.org/web/20070626203303/http://www.fifa.com/associations/association=bel/fixturesresults/gender=m/index.html |url-status=dead |archive-date=26 June 2007 |title=Belgium: Fixtures and Results |publisher=[[FIFA]] |access-date=5 February 2010}}</ref> Belgium lost their first match of 2010 in a friendly against Croatia.<ref>{{cite web |url=http://soccernet.espn.go.com/report?id=287643&cc=5739&league=FIFA.FRIENDLY |date=3 March 2010 |title=Kranjcar the difference |work=[[ESPNsoccernet]] |access-date=5 March 2010 |archive-date=29 June 2011 |archive-url=https://web.archive.org/web/20110629123940/http://soccernet.espn.go.com/report?id=287643&cc=5739&league=FIFA.FRIENDLY |url-status=dead }}</ref>
+
+On 6 December 2009, it was announced Advocaat would function as manager of both the Belgium national team and Dutch club [[AZ Alkmaar|AZ]].<ref name="AZ">{{cite web |url=http://www.standaard.be/artikel/detail.aspx?artikelid=DMF06122009_004 |title=Advocaat vervangt Koeman bij AZ |date=6 December 2009 |work=[[De Standaard]] |language=nl |access-date=6 December 2009}}</ref> Advocaat succeeded [[Ronald Koeman]], who was dismissed the previous day, and his contract ran until the end of the [[2009–10 Eredivisie|2009–10 season]]. Advocaat only watched AZ's final [[2009–10 UEFA Champions League group stage#Group H|group match]] of the [[2009–10 UEFA Champions League|Champions League]] on 9 December 2009, which [[Martin Haar]] managed.<ref>{{cite web |title=Standard Lüttich 1:1 AZ Alkmaar |url=https://www.kicker.de/s-luettich-gegen-alkmaar-2009-champions-league-988124/schema |website=[[Kicker (magazine)|Kicker]] |publisher=kicker |access-date=9 July 2016 |language=de}}</ref> He was officially presented to the media the following day.<ref name="AZ"/><ref>{{cite web |url=http://www.football365.com/story/0,17033,8652_5759873,00.html |title=AZ turn to Advocaat |date=8 December 2009 |work=[[Football365]] |access-date=12 December 2009 |url-status=dead |archive-url=https://web.archive.org/web/20091213034507/http://www.football365.com/story/0%2C17033%2C8652_5759873%2C00.html |archive-date=13 December 2009}}</ref> His first match in charge was against PSV in the [[2009–10 Eredivisie|Eredivisie]] on 12 December 2009; AZ lost 1–0.<ref name="2009–10 season">{{cite web |title=AZ Alkmaar » Fixtures & Results 2009/2010 |url=https://www.worldfootball.net/teams/te181/az-alkmaar/all-matches/ |publisher=World Football |access-date=9 July 2016}}</ref> His first win managing the club came the following weekend, a 3–0 win against ADO Den Haag.<ref>{{cite web |url=http://soccernet.espn.go.com/news/story?id=715828&sec=europe&cc=5739 |title=Eredivisie: Advocaat claims first win as Alkmaar boss |date=19 December 2009 |work=[[ESPNsoccernet]] |access-date=5 March 2010 |archive-date=4 June 2011 |archive-url=https://web.archive.org/web/20110604152135/http://soccernet.espn.go.com/news/story?id=715828&sec=europe&cc=5739 |url-status=dead }}</ref> Belgium lost to Croatia on 3 March 2010.<ref name="bel 2010">{{cite web |title=Belgium » Fixtures & Results 2010 |url=https://www.worldfootball.net/teams/te13948/belgium/all-matches/ |publisher=World Football |access-date=10 July 2016}}</ref>
+
+On 15 April 2010, Advocaat left as manager of the Belgian national team after breaking his contract with the [[Royal Belgian Football Association]] (KBVB) amid speculation he was to become coach of the [[Russia national football team|Russia national team]].<ref name="Dick Advocaat resigns as Belgium coach">{{cite news |url=https://www.telegraph.co.uk/sport/football/international/7594670/Dick-Advocaat-resigns-as-Belgium-coach.html |archive-url=https://ghostarchive.org/archive/20220112/https://www.telegraph.co.uk/sport/football/international/7594670/Dick-Advocaat-resigns-as-Belgium-coach.html |archive-date=12 January 2022 |url-access=subscription |url-status=live |title=Dick Advocaat resigns as Belgium coach |date=15 April 2010 |work=[[The Daily Telegraph]] |access-date=17 April 2010 |location=London}}{{cbignore}}</ref> Advocaat was later appointed Russia manager and announced his intention to leave AZ at the end of the season.<ref name="Verbeek"/> On 22 April 2010, it was announced that [[Gertjan Verbeek]] would take over as AZ manager for the following season.<ref name="Verbeek">{{cite web |url=http://soccernet.espn.go.com/news/story?id=775139&cc=5739 |title=Gertjan Verbeek to take over at AZ Alkmaar |work=[[ESPNsoccernet]] |date=22 April 2010 |access-date=8 June 2010 |archive-date=21 October 2012 |archive-url=https://web.archive.org/web/20121021132236/http://soccernet.espn.go.com/news/story?id=775139&cc=5739 |url-status=dead }}</ref> Under Advocaat, AZ finished fifth in the [[2009–10 Eredivisie|league]], entering the [[2010–11 UEFA Europa League#Third qualifying round|third qualifying round]] of the [[2010–11 UEFA Europa League]].<ref name="2009–10 league table">{{cite web |title=Netherlands » Eredivisie 2009/2010 » 34. Round |url=https://www.worldfootball.net/competition/ro4363/md34/results-and-standings/ |publisher=World Football |access-date=9 July 2016}}</ref>
+
+===2010–12: Russia===
+[[File:Dick Advocaat and Morten Olsen.webm|thumb|right|222px|Advocaat and [[Morten Olsen]] before the friendly Denmark–Russia at [[Parken]], 2012]]
+On 17 May 2010, Advocaat was named the new manager of the Russia national team. He began his contract on 1 July, succeeding compatriot [[Guus Hiddink]].<ref name="Russia">{{cite news |url=https://news.bbc.co.uk/sport1/hi/football/europe/8686861.stm |title=Dick Advocaat appointed head coach of Russia |date=17 May 2010 |publisher=BBC Sport |access-date=17 May 2010}}</ref> Advocaat signed a four-year contract.<ref>{{cite news |last1=Fyodorov |first1=Gennady |title=Advocaat follows in Hiddink's footsteps again |url=https://www.reuters.com/article/idINIndia-48640720100520 |access-date=2 September 2020 |work=Reuters |date=20 May 2010}}</ref><ref>{{cite web |title=Advocaat signs 4-year contract with Russia |url=https://sports.yahoo.com/soccer/news?slug=ap-russia-advocaat |first=Leonid |last=Chizhov |date=18 May 2010 |access-date=8 June 2010 |work=[[Yahoo! Sports]]}}{{dead link|date=December 2016 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+Advocaat's side began their [[UEFA Euro 2012 qualifying Group B|qualifying campaign for Euro 2012]] with an unexpected defeat at home to [[Slovakia national football team|Slovakia]]. However, Russia managed to win their group and secure automatic qualification to the Euro 2012 finals.
+
+Russia began the participation of [[UEFA Euro 2012|Euro 2012]] ([[UEFA Euro 2012 Group A|Group A]]) in a promising fashion by defeating the Czech Republic 4–1 and playing a 1–1 draw against hosts [[Poland national football team|Poland]]. However, the team ultimately failed to pass the group stage after losing to Greece 1–0 in the last match. It was already decided before the tournament that Advocaat would leave to take charge of PSV.<ref name=advocaat_leaves>{{cite web |title=Адвокат подтвердил, что уходит из сборной России после чемпионата Европы |url=https://www.championat.com/football/news-1167202-advokat-podtverdil-chto-ukhodit-iz-sbornoj-rossii-posle-chempionata-evropy.html |publisher=championat.com |access-date=1 May 2012}}</ref>
+
+===2012–14: Return to PSV and AZ; Serbian national team===
+[[File:Dick Advocaat1.jpg|thumb|right|222px|Advocaat with AZ in 2014]]
+Advocaat signed a contract with Dutch giants PSV.<ref name=AdvocaatPSVhiring>{{cite news |title=PSV appoint Advocaat |url=http://soccernet.espn.go.com/news/story/_/id/1067809/psv-eindhoven-appoint-dick-advocaat?cc=5901 |access-date=10 May 2012 |newspaper=[[ESPN Soccernet]] |date=10 May 2012 |archive-date=5 July 2018 |archive-url=https://web.archive.org/web/20180705234444/http://www.espnfc.com/story/1067809/psv-eindhoven-appoint-dick-advocaat |url-status=dead }}</ref> The contract began on 1 July 2012.<ref name=AdvocaatPSVhiring/> He replaced [[Fred Rutten]], who was sacked in March 2012.<ref name=AdvocaatPSVhiring/> For Advocaat, it was a return to the club from which he had his first success.<ref name=AdvocaatPSVreturn>{{cite news |title=Russia's Advocaat accepts PSV return By Berend Scholten |url=http://www.uefa.com/memberassociations/association=ned/news/newsid=1795821.html |archive-url=https://web.archive.org/web/20120513005319/http://www.uefa.com/memberassociations/association=ned/news/newsid=1795821.html |url-status=dead |archive-date=13 May 2012 |access-date=10 May 2012 |publisher=[[UEFA]] |date=10 May 2012}}</ref>
+
+Advocaat began his new job with a win in the show competition [[2012 Polish Masters]], followed up by beating Ajax 4–2 to secure the [[2012 Johan Cruyff Shield]]. The [[2012–13 Eredivisie]] campaign under Advocaat began with a shock defeat to [[RKC Waalwijk]]. At the winter break, PSV were leading the league table on goal difference over [[FC Twente|Twente]]. In the [[2012–13 UEFA Europa League|Europa League]], PSV finished third in [[2012–13 UEFA Europa League group stage#Group F|Group F]].<ref>{{cite web |title=Europa League 2012/2013 » Group F |url=https://www.worldfootball.net/competition/ro31475/md0/results-and-standings/ |publisher=World Football |access-date=11 July 2016}}</ref>
+
+After finishing second to champions Ajax in the [[2012–13 Eredivisie|Eredivisie]],<ref name="2012–13 league table">{{cite web |title=Netherlands » Eredivisie 2012/2013 » 34. Round |url=https://www.worldfootball.net/competition/ro29934/md34/results-and-standings/ |publisher=World Football |access-date=11 July 2016}}</ref> and losing the [[2012–13 KNVB Cup#Final|cup final]] to AZ,<ref name="2012–13 season">{{cite web |title=PSV Eindhoven » Fixtures & Results 2012/2013 |url=https://www.worldfootball.net/teams/te1502/psv-eindhoven/all-matches/ |access-date=11 July 2016}}</ref> Advocaat announced his retirement from club coaching at the end of the 2012–13 season.<ref name=AdvocaatRetires>{{cite news |title=Trainer Dick Advocaat vertrekt bij PSV en stopt als clubtrainer |url=http://www.omroepwest.nl/sport/09-05-2013/trainer-dick-advocaat-vertrekt-bij-psv-en-stopt-als-clubtrainer |access-date=9 May 2013 |newspaper=[[Omroep West]] |date=9 May 2013 |archive-date=13 June 2013 |archive-url=https://web.archive.org/web/20130613073330/http://www.omroepwest.nl/sport/09-05-2013/trainer-dick-advocaat-vertrekt-bij-psv-en-stopt-als-clubtrainer |url-status=dead }}</ref> However, on 15 October 2013, he returned to AZ to succeed the sacked [[Gertjan Verbeek]].<ref name="Advocaat übernimmt in Alkmaar">{{cite news |title=Advocaat übernimmt in Alkmaar |url=https://www.kicker.de/advocaat-uebernimmt-in-alkmaar-593653/artikel |access-date=12 July 2016 |publisher=kicker |date=16 October 2013 |language=de}}</ref> He was replaced at the end of the season by [[Marco van Basten]].<ref name="Van Basten übernimmt bei AZ Alkmaar">{{cite news |title=Van Basten übernimmt bei AZ Alkmaar |url=https://www.kicker.de/van-basten-uebernimmt-bei-az-alkmaar-603043/artikel |access-date=12 July 2016 |publisher=kicker |date=18 April 2014 |language=de}}</ref> AZ finished the season in eighth place.<ref name="2013–14 league table">{{cite web |title=Eredivisie – Spieltag / Tabelle |url=https://www.kicker.de/eredivisie/spieltag/2013-14/34/0 |website=[[Kicker (magazine)|Kicker]] |publisher=kicker |access-date=12 July 2016 |language=de}}</ref> He also reached the semi–finals of the KNVB Cup and the quarter–finals of the Europa League.<ref name="2013–14 season">{{cite web |title=AZ Alkmaar |url=https://www.kicker.de/az-alkmaar/spielplan/eredivisie/2013-14 |website=[[Kicker (magazine)|Kicker]] |publisher=kicker |access-date=12 July 2016 |language=de}}</ref>
+
+In July 2014, Advocaat was named the new manager of the [[Serbia national football team|Serbia national team]]. As the beginning of the [[UEFA Euro 2016 qualifying]], Serbia earned just one single point in three matches: Serbia drew 1–1 with [[Armenia national football team|Armenia]]; forfeited (3–0 loss) their match against [[Albania national football team|Albania]] because of stadium incidents during the match; then lost 3–1 to Denmark.<ref name="Ser 2014">{{cite web |title=Serbia » Fixtures & Results 2014 |url=https://www.worldfootball.net/teams/te1675/serbia/all-matches/ |publisher=World Football |access-date=9 July 2016}}</ref> Advocaat agreed to terminate his contract following the 3–1 home defeat against Denmark on 14 November 2014.<ref name="Advocaat ends stint as coach of Serbia's national team">{{cite news |title=Advocaat ends stint as coach of Serbia's national team |url=http://www.b92.net/eng/news/society.php?yyyy=2014&mm=11&dd=17&nav_id=92260 |access-date=18 November 2014 |publisher=B92 |date=17 November 2014}}</ref>
+
+===2015: Sunderland===
+[[File:Dick Advocaat 2 (18375288832).jpg|thumbnail|Advocaat on the touchline as manager of [[Sunderland A.F.C.|Sunderland]] in May 2015]]
+Following the sacking of manager [[Gus Poyet]], Advocaat was appointed manager of English [[Premier League]] club [[Sunderland A.F.C.|Sunderland]] on 17 March 2015 until the end of the season.<ref name="SAFC">{{cite news |url=https://www.bbc.com/sport/0/football/31919801 |title=Sunderland: Dick Advocaat appointed Black Cats boss |date=17 March 2015 |publisher=BBC Sport |access-date=17 March 2015}}</ref> Initially, Advocaat was appointed on temporary basis. His first match in charge was a 1–0 loss to [[West Ham United F.C.|West Ham United]] four days later.<ref>{{cite news |url=https://www.bbc.com/sport/0/football/31883464 |title=West Ham United 1–0 Sunderland |publisher=BBC Sport |date=21 March 2015 |access-date=22 March 2015 |first=Richard |last=Winton}}</ref> His first win as manager came from his second match, a 1–0 victory over [[Newcastle United F.C.|Newcastle United]] in the [[Tyne–Wear derby]] on 5 April 2015.<ref>{{cite news |title=Sunderland 1–0 Newcastle United |url=https://www.bbc.co.uk/sport/football/32103959 |publisher=BBC Sport |first=Pete |last=Oliver |date=5 April 2015 |access-date=5 April 2015}}</ref> Following a 4–1 home defeat to [[Crystal Palace F.C.|Crystal Palace]], Advocaat oversaw a turnaround in Sunderland's form with a 1–1 draw at [[Stoke City F.C.|Stoke City]], and back to back wins against [[Southampton F.C.|Southampton]] and [[Everton F.C.|Everton]].<ref name="2014–15 season">{{cite web |title=Sunderland AFC » Fixtures & Results 2014/2015 |url=https://www.worldfootball.net/teams/te1844/sunderland-afc/all-matches/ |publisher=World Football |access-date=9 July 2016}}</ref>
+
+Advocaat guided Sunderland to Premier League safety on 20 May 2015 with one match remaining after a 0–0 draw at Arsenal,<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/32716700 |title=Arsenal 0–0 Sunderland |publisher=BBC Sport |date=20 May 2015 |access-date=21 May 2015}}</ref> and a visibly moved Advocaat was pictured in tears after the final whistle.<ref>{{cite web |url=https://www1.skysports.com/football/news/11695/9858178/dick-advocaat-cries-after-sunderland-avoid-premier-league-relegation |title=Sunderland's Premier League survival has Dick Advocaat in tears |work=Sky Sports}}</ref> Sunderland finished the season in 16th place, two spots and three points above the relegation zone.<ref name="2014–15 league table">{{cite web |title=Premier League 2014/2015 » 38. Round |url=https://www.worldfootball.net/competition/ro47271/md38/results-and-standings/ |publisher=World Football |access-date=9 July 2016}}</ref>
+
+He left the club a week later, announcing the end of his managerial career,<ref>{{cite news |title=Dick Advocaat: Sunderland boss leaves after leading side to safety |url=https://www.bbc.com/sport/0/football/32909542 |access-date=27 May 2015 |publisher=BBC Sport |date=27 May 2015}}</ref> but reversed his decision to retire on 4 June 2015, signing a one-year contract with Sunderland.<ref>{{cite news |url=https://www.bbc.com/sport/0/football/33008285 |title=Dick Advocaat set to become Sunderland manager |publisher=BBC Sport |date=4 June 2015 |access-date=4 June 2015}}</ref> During the summer transfer window, the club made two major signings in winger [[Jeremain Lens]], who previously played under Advocaat at PSV, and striker [[Fabio Borini]], who played for Sunderland on loan during the [[2013–14 Sunderland A.F.C. season|2013–14 season]]. The club also signed several defenders and secured the loan signings of [[Yann M'Vila]], [[DeAndre Yedlin]] and [[Ola Toivonen]], the latter having also played under Advocaat at PSV. Despite the additions, Sunderland made a poor start to the season with a 4–2 away defeat at [[Leicester City F.C.|Leicester City]] on 8 August and a 1–3 home defeat to newly promoted [[Norwich City F.C.|Norwich City]] the following week.<ref>{{cite web |url=https://www.theguardian.com/football/2015/aug/16/sunderland-dick-advocaat-cannot-go-on-norwich-city |title=Sunderland's Dick Advocaat: I cannot go on this way and we must find a solution |author=Louise Taylor |work=The Guardian|date=16 August 2015 }}</ref> Following a 2–2 draw with West Ham, Advocaat resigned on 4 October 2015.<ref name="Dick Advocaat: Sunderland boss quits Premier League strugglers">{{cite news |title=Dick Advocaat: Sunderland boss quits Premier League strugglers |work=BBC Sport |url=https://www.bbc.co.uk/sport/football/34437620 |access-date=4 October 2015}}</ref> His only win in the [[2015–16 Sunderland A.F.C. season|2015–16 season]] was a 6–3 victory against [[Exeter City F.C.|Exeter City]] on 25 August 2015 in the [[2015–16 Football League Cup|League Cup]].<ref name="2015–16 season">{{cite web |title=Sunderland AFC » Fixtures & Results 2015/2016 |url=https://www.worldfootball.net/teams/te1844/sunderland-afc/all-matches/ |publisher=World Football |access-date=9 July 2016}}</ref> At the time of Advocaat's resignation, Sunderland were in 19th place and in the relegation zone.<ref name="2015–16 league table">{{cite web |title=Premier League 2015/2016 » 8. Round |url=https://www.worldfootball.net/competition/ro57071/md8/results-and-standings/ |publisher=World Football |access-date=9 July 2016 |language=de}}</ref> He finished with a record of four wins, six draws and nine losses.<ref name="English wdl record">{{cite news |title=Dick Advocaat |url=https://www.soccerbase.com/managers/manager.sd?manager_id=1375 |access-date=9 July 2016 |publisher=Soccerbase}}</ref>
+
+===2016: Fenerbahçe===
+On 17 August 2016, Advocaat signed a one-year contract with Turkish [[Süper Lig]] club [[Fenerbahçe S.K. (football)|Fenerbahçe]].<ref name="Fenerbahçe_boss">{{cite news |title=Hollandalı Teknik Adam Dirk Advocaat İmzaladı |url=http://www.fenerbahce.org/detay.asp?ContentID=51695 |website=Fenerbahçe S.K. official website |date=17 August 2016 |access-date=19 September 2016 |language=tr}}</ref> His first match in charge was a [[2016–17 UEFA Europa League]] home tie against [[Grasshopper Club Zürich|Grasshopper]], which Fenerbahçe won 3–0.<ref>{{cite news |title=Dream start for Fenerbahçe's Advocaat |url=http://www.dailysabah.com/football/2016/08/20/dream-start-for-fenerbahces-advocaat |website=Daily Sabah |date=19 August 2016 |access-date=19 September 2016}}</ref><ref name="2016–17 season">{{cite web |title=Fenerbahçe » Fixtures & Results 2016/2017 |url=https://www.worldfootball.net/teams/te735/fenerbahce/all-matches/ |publisher=World Football |access-date=26 January 2017}}</ref> On 3 November, Advocaat led Fenerbahçe to a 2–1 win at [[Şükrü Saracoğlu Stadium|home]] against Manchester United in the [[2016–17 UEFA Europa League|fourth group stage match]] of the Europa League and finished the group stage in first place, above United, with 13 points.<ref>[https://web.archive.org/web/20160828112544/http://www.uefa.com/uefaeuropaleague/season=2017/standings/index.html UEFA] {{cite news |last1=Hafez |first1=Shamoon |title=Fenerbahce 2 1 Manchester United |url=https://www.bbc.com/sport/football/37847391 |access-date=26 January 2017 |publisher=BBC Sport |date=3 November 2016}}</ref>
+
+===2017: Netherlands===
+On 9 May 2017, Advocaat was revealed as the new manager of the Netherlands, his third spell in charge of the national team.<ref>{{cite news |title=Dick Advocaat appointed Netherlands boss for third time |url=https://www.bbc.com/sport/football/39856734 |access-date=25 May 2017 |publisher=BBC Sport |date=9 May 2017}}</ref> His first match in charge was the [[2018 FIFA World Cup qualification – UEFA Group A|World Cup qualifier]] at home against Luxembourg on 9 June, which the Netherlands won 5–0. He was joined by Ruud Gullit as his assistant, whom Advocaat previously clashed with in his first spell in charge of the ''Oranje''.<ref>{{cite news |title=Advocaat to launch Dutch rescue mission next month |url=http://gulftoday.ae/portal/75e1480a-c4ba-4fac-9c52-87dab297f2b6.aspx |access-date=25 May 2017 |publisher=The Gulf Today |date=24 May 2017 |archive-url=https://web.archive.org/web/20170825232539/http://gulftoday.ae/portal/75e1480a-c4ba-4fac-9c52-87dab297f2b6.aspx |archive-date=25 August 2017 |url-status=dead }}</ref>
+After failing to qualify to the World Cup, Advocaat stepped down following the November friendlies against [[Scotland national football team|Scotland]] and [[Romania national football team|Romania]]. With victories in both matches, he became the most successful Netherlands manager in terms of winning, with a total number of 37 victories, a record previously held by [[Bob Glendenning]] for 77 years.<ref>{{cite news |title=Advocaat Bows Out with Netherlands' Winning Record |url=http://www.goal.com/en/news/dick-advocaat-bows-out-netherlands-winning-record/1dn7k1x180zpc19v8sxgsk34og |access-date=23 November 2017 |publisher=Goal.com |first1=Matt |last1=Dorman |date=15 November 2017}}</ref>
+
+===2018: Sparta Rotterdam===
+On 25 December 2017, [[Sparta Rotterdam]] announced that Advocaat would be the club's new manager for the remainder of the [[2017–18 Eredivisie|2017–18]] season.<ref>{{cite news |title=Dick Advocaat tot eind van seizoen coach van Sparta Rotterdam |url=https://www.nu.nl/voetbal/5063813/dick-advocaat-eind-van-seizoen-coach-van-sparta-rotterdam.html |access-date=21 May 2018|language=nl}}</ref> On 20 May 2018 Sparta was relegated to the [[Eerste Divisie]] following a 1–3 loss to [[FC Emmen]] in the [[2017–18 Eredivisie#Promotion/relegation play-offs|Promotion/relegation play-offs]].<ref>{{cite news |title=Sparta verliest en degradeert |url=https://www.sparta-rotterdam.nl/sparta-verliest-en-degradeert/ |access-date=21 May 2018|language=nl}}</ref>
+
+===FC Utrecht===
+On 12 September FC Utrecht announced they had a verbal agreement with Advocaat to finish the 2018-2019 season, after their previous manager had been sacked after 4 games.<ref>{{cite news |title=FC Utrecht bereikt Mondeling Akkord met Dick Advocaat|url=https://www.fcutrecht.nl/fc-utrecht-bereikt-mondeling-akkoord-met-dick-advocaat/4|access-date=12 September 2018|language=nl}}</ref>
+
+===Feyenoord===
+On 30 October 2019, Feyenoord announced that Dick Advocaat was appointed as the club's coach for the remainder of the [[2019–20 Eredivisie]] season after their previous manager [[Jaap Stam]] had resigned.<ref>{{cite web |url=https://www.ad.nl/nederlands-voetbal/dick-advocaat-neemt-john-de-wolf-mee-naar-feyenoord~ad6ca6ee/ |title=Dick Advocaat neemt John de Wolf mee naar Feyenoord |publisher=[[Algemeen Dagblad]] |language=nl |date=30 October 2019 |access-date=3 November 2019}}</ref> On 3 November 2019, Feyenoord played their first game under Dick Advocaat, winning 3-0 in an away game against [[VVV-Venlo]].<ref>{{cite web |url=https://www.feyenoord.nl/nieuws/nieuwsoverzicht/berghuis-eist-positieve-hoofdrol-op-bij-debuut-advocaat---031119 |title=Berghuis eist positieve hoofdrol op bij debuut Advocaat |publisher=[[Feyenoord]] |language=nl |date=3 November 2019 |access-date=3 November 2019}}</ref> On 21 April 2020, Feyenoord announced that the club and Advocaat had reached an agreement for Advocaat to continue being the club's coach for the [[2020–21 Eredivisie|2020–21 season]].<ref>{{cite web |url=https://www.feyenoord.nl/nieuws/nieuwsoverzicht/advocaat-blijft-bij-feyenoord---210420 |title=Dick Advocaat blijft bij Feyenoord |publisher=[[Feyenoord]] |language=nl |date=21 April 2020 |access-date=21 April 2020}}</ref> On 12 September 2020, Advocaat become the oldest coach in the history of the Dutch Eredivisie at 72 years and 351 days old.<ref>{{cite web |url=https://www.rtlnieuws.nl/sport/voetbal/artikel/5183356/advocaat-oudste-trainer-ooit-de-eredivisie |title=Advocaat oudste trainer ooit in de eredivisie |publisher=RTL Nieuws |language=nl |date=12 September 2020 |access-date=13 September 2020}}</ref>
+
+===Iraq===
+On 1 August 2021, he was unveiled as the new head coach of [[Iraq national football team]] to lead them in the [[2022 FIFA World Cup qualification (AFC)|FIFA World Cup Qualifiers]].<ref>{{Cite web|url=https://www.tehrantimes.com/news/463575/Dick-Advocaat-named-Iraq-head-coach|title=Dick Advocaat named Iraq head coach|date=31 July 2021}}</ref> However, he didn't manage a win in 6 games, with 4 draws and 2 losses. He resigned on 23 November 2021.<ref>{{Cite web|url=https://www.vi.nl/nieuws/advocaat-als-je-geen-perspectief-meer-ziet-moet-je-je-conclusies-trekken|title=Advocaat: 'Als je geen perspectief meer ziet, moet je je conclusies trekken'|language=Dutch|date=23 November 2021}}</ref>
+
+===ADO Den Haag===
+On 28 November 2022, Advocaat was appointed as the new manager of a struggling [[ADO Den Haag]] side, after former manager [[Dirk Kuyt]] had been fired after an unsuccessful spell at the club.<ref>{{cite web |title=Dick Advocaat nieuwe trainer van ADO Den Haag |url=https://adodenhaag.nl/nl/nieuws/laatste-nieuws/1e-elftal/10513-dick-advocaat-nieuwe-trainer-van-ado-den-haag |language=Dutch |date=28 November 2022}}</ref> Advocaat retired as a coach at the end of the 2022–23 season as ADO Den Haag finished the season in mid-table of the second-tier [[Eerste Divisie]].<ref>{{cite web|publisher=ADO Den Haag|url=https://adodenhaag.nl/nl/teams/1e-elftal/resultaten/965-ado-den-haag-fc-dordrecht-965|title=ADO DEN HAAG KOMT IN LAATSTE THUISWEDSTRIJD NIET VERDER DAN GELIJKSPEL|trans-title=ADO DEN HAAG DOES NOT GET FURTHER THAN A DRAW IN THE LAST HOME GAME|date=12 May 2023|access-date=4 August 2023|language=nl}}</ref>
+
+=== Curaçao ===
+On 15 January 2024, Advocaat was appointed as the new head coach of the [[Curaçao national football team|Curaçao national team]], signing a one-year contract with an option for a further year.<ref>{{Cite news |date=15 January 2024 |title=Dick Advocaat hired to coach Curaçao national team ahead of World Cup qualifying |url=https://www.washingtonpost.com/sports/soccer/2024/01/15/dick-advocaat-curacao-coach/a29a74d4-b3e9-11ee-b285-0853d4d1b92f_story.html |access-date=17 January 2024 |newspaper=[[The Washington Post]]}}</ref> On 18 November 2025, Curaçao managed to qualify for the [[2026 FIFA World Cup]], the team's first World Cup in their history.<ref>{{cite web|url= https://www.bbc.com/sport/football/articles/c14p3dmdld1o|title=Curacao become smallest nation to qualify for World Cup|date=19 November 2025|work=BBC Sport|accessdate=19 November 2025}}</ref> They finished their qualifying campaign at the top of their [[2026 FIFA World Cup qualification – CONCACAF third round#Group B|Group B]] after a goalless away draw against [[Jamaica national football team|Jamaica]], even though he missed the match due to family reasons.<ref>{{cite web |url=https://www.theguardian.com/football/2025/nov/19/curacao-complete-fairytale-with-battling-draw-in-jamaica-to-qualify-for-world-cup |title=Curaçao complete fairytale with battling draw in Jamaica to qualify for World Cup |work=The Guardian |date=19 November 2025 }}</ref> He resigned from his position in February 2026 due to his daughter's health concerns.<ref>{{cite web |url=https://www.vi.nl/nieuws/cura-ao-zonder-advocaat-naar-wk-rutten-neemt-taken-over |title=Curaçao zonder Advocaat naar WK, Rutten neemt taken over |trans-title=Curaçao without Advocaat to the World Cup, Rutten takes over |language=Dutch |date=23 February 2026 |access-date=23 February 2026}}</ref> On May 11, however, Advocaat returned to the national team after his daughter's health improved. His return was also a result of disagreements between the national team's players and Advocaat's successor [[Fred Rutten]] as well as pressure from the national team's main sponsor, [[Corendon Dutch Airlines]].<ref>{{cite web |url=https://www.ad.nl/voetbal/dick-advocaat-toch-met-curacao-naar-het-wk-fred-rutten-trekt-zich-terug~a63ed30f8/ |title=Dick Advocaat toch met Curaçao naar het WK, Fred Rutten trekt zich terug |trans-title=Dick Advocaat will go to the World Cup with Curaçao after all, Fred Rutten resigns |publisher=[[Algemeen Dagblad|AD]] |date=May 11, 2026}}</ref>
+
+===Overview===
+
+====Club====
+
+{{updated|matches played on 28 January 2017.}}
+
+{| class="wikitable" Style="text-align: center"
+|-
+!rowspan=2|Club!!rowspan=2|Season!!colspan=8|League!!Cup!!{{Tooltip|L. Cup|League Cup}}!!Europe!!Other!!rowspan=2|{{Tooltip|Ref.|Reference}}
+|-
+!{{Tooltip|M|Matches coached}}!!{{Tooltip|W|Matches won}}!!{{Tooltip|D|Matches drawn}}!!{{Tooltip|L|Matches lost}}!!{{Tooltip|GF|Goals for}}!!{{Tooltip|GA|Goals against}}!!{{Tooltip|Win %|Winning percentage}}!!{{Tooltip|Pos.|Final position.}}!!{{Tooltip|Pos.|Final position.}}!!{{Tooltip|Pos.|Final position.}}!!{{Tooltip|Pos.|Final position.}}!!{{Tooltip|Pos.|Final position.}}
+|-
+|rowspan=3|[[HFC Haarlem]]||1987–88
+{{WDL|34|14|6|14|for=42|against=46}}
+|{{Tooltip|9th|9th of 18 teams.}}||{{Tooltip|SR|Second round}}||—||—||—||<ref name="1987–88 league season"/><ref name="dutch cup (70–94)"/>
+|-
+|1988–89
+{{WDL|34|11|11|12|for=37|against=50}}
+|{{Tooltip|10th|10th of 18 teams.}}||{{Tooltip|SR|Second round}}||—||—||—||<ref name="1988–89 league season"/><ref name="dutch cup (70–94)"/>
+|-
+!Total
+{{WDLtot|68|25|17|26|for=79|against=96}}
+!—!!—!!—!!—!!—!!—
+|-
+|rowspan=3|[[Schiedamse Voetbal Vereniging|SVV]]||1989–90
+{{WDL|36|26|6|4|for=67|against=21}}
+|{{Tooltip|1st|1st of 19 teams.}}||{{Tooltip|TR|Third round}}||—||—||—||<ref name="dutch cup (70–94)"/><ref name="1989–90 league season"/>
+|-
+|1990–91
+{{WDL|34|8|8|18|for=31|against=52}}
+|{{Tooltip|16th|16th of 18 teams.}}||{{Tooltip|TR|Third round}}||—||—||{{Tooltip|W|Winner of relegation playoff.}}||<ref name="dutch cup (70–94)"/><ref name="1990–91 season"/>
+|-
+!Total
+{{WDLtot|70|34|14|22|for=98|against=73}}
+!—!!—!!—!!—!!—!!—
+|-
+|[[FC Dordrecht|Dordrecht]]||1991–92
+{{WDL|34|9|7|18|for=38|against=64}}
+|{{Tooltip|15th|15th of 18 teams.}}||{{Tooltip|FR|First round}}||—||—||—||<ref name="dutch cup (70–94)"/><ref name="1991–92 season"/>
+|-
+|rowspan=5|[[PSV Eindhoven|PSV]]||[[1994–95 PSV Eindhoven season|1994–95]]
+{{WDL|18|12|2|4|for=46|against=24}}
+|{{Tooltip|3rd|3rd of 18 teams.}}||—||—||—||—||<ref name="1994–95 season"/><ref name="1994–95 league table"/>
+|-
+|[[1995–96 PSV Eindhoven season|1995–96]]
+{{WDL|34|24|5|5|for=97|against=25}}
+|{{Tooltip|2nd|2nd of 18 teams.}}||{{Tooltip|W|Winner}}||—||{{Tooltip|QF|Quarter finals of UEFA Cup.}}||—||<ref name="1995–96 league table"/><ref name="1995–96 season">{{cite web |title=PSV Eindhoven » Fixtures & Results 1995/1996 |url=https://www.worldfootball.net/teams/te1502/psv-eindhoven/all-matches/ |publisher=World Football |access-date=13 July 2016}}</ref>
+|-
+|[[1996–97 PSV Eindhoven season|1996–97]]
+{{WDL|34|24|5|5|for=90|against=26}}
+|{{Tooltip|1st|1st of 18 teams.}}||{{Tooltip|R16|Round of 16}}||—||{{Tooltip|SR|Second round of UEFA Cup Winners' Cup.}}||{{Tooltip|W|Winner of Dutch Super Cup.}}||<ref name="1996–97 season"/><ref name="dutch super cup"/><ref name="1996–97 Dutch Cup">{{cite web |title=KNVB Beker 1996/97 |url=https://www.rsssf.org/tablesn/nedcup97.html |publisher=Rec.Sport.Soccer Statistics Foundation |access-date=13 July 2016}}</ref>
+|-
+|[[1997–98 PSV Eindhoven season|1997–98]]
+{{WDL|34|21|9|4|for=95|against=44}}
+|{{Tooltip|2nd|2nd of 18 teams.}}||{{Tooltip|F|Losing finalist}}||—||{{Tooltip|GS|Group stage of Champions League.}}||{{Tooltip|W|Winner of Dutch Super Cup.}}||<ref name="dutch super cup"/><ref name="1997–98 season">{{cite web |title=PSV Eindhoven » Fixtures & Results 1997/1998 |url=https://www.worldfootball.net/teams/te1502/psv-eindhoven/all-matches/ |publisher=World Football |access-date=13 July 2016}}</ref><ref>{{cite web |title=Netherlands » Eredivisie 1997/1998 » 34. Round |url=https://www.worldfootball.net/competition/ro13645/md34/results-and-standings/ |publisher=World Football |access-date=13 July 2016}}</ref>
+|-
+!Total
+{{WDLtot|120|81|21|18|for=328|against=119}}
+!—!!—!!—!!—!!—!!—
+|-
+|rowspan=5|[[Rangers F.C.|Rangers]]||[[1998–99 Rangers F.C. season|1998–99]]
+{{WDL|36|23|8|5|for=78|against=31}}
+|{{Tooltip|1st|1st of 10 teams.}}||{{Tooltip|W|Winner}}||{{Tooltip|W|Winner}}||{{Tooltip|R16|Round of 16 of UEFA Cup.}}||—||<ref name="1998–99 league table"/><ref name="1998–99 season"/><ref name="1998–99 league cup"/>
+|-
+|[[1999–2000 Rangers F.C. season|1999–2000]]
+{{WDL|36|28|6|2|for=96|against=26}}
+|{{Tooltip|1st|1st of 10 teams.}}||{{Tooltip|W|Winner}}||{{Tooltip|QF|Quarter finals}}||{{Tooltip|TR|Third round of UEFA Cup.}}||—||<ref name="1999–2000 league table"/><ref name="1999–2000 season"/><ref name="1999–2000 league cup">{{cite web |title=Scottish League Cup |url=https://www.soccerbase.com/tournaments/tournament.sd?tourn_id=817 |website=Soccerbase |publisher=CENTURYCOMM LIMITED |access-date=13 July 2016}}</ref>
+|-
+|[[2000–01 Rangers F.C. season|2000–01]]
+{{WDL|38|26|4|8|for=76|against=36}}
+|{{Tooltip|2nd|2nd of 10 teams.}}||{{Tooltip|QF|Quarter final}}||{{Tooltip|SF|Semi finals}}||{{Tooltip|TR|Third round of UEFA Cup.}}||—||<ref name="2000–01 league table">{{cite web |title=Scotland 2000/01 |url=https://www.rsssf.org/tabless/scot01.html |publisher=Rec.Sport.Soccer Statistics Foundation |access-date=12 July 2016}}</ref><ref name="2000–01 season"/><ref name="2000–01 league cup">{{cite web |title=Scottish League Cup |url=https://www.soccerbase.com/tournaments/tournament.sd?tourn_id=816 |website=Soccerbase |publisher=CENTURYCOMM LIMITED |access-date=13 July 2016}}</ref>
+|-
+|[[2001–02 Rangers F.C. season|2001–02]]
+{{WDL|18|11|5|2|for=40|against=13}}
+|—||—||—||—||—||<ref name="2001–02 season"/><ref name="2001–02 league cup">{{cite web |title=Scottish League Cup |url=https://www.soccerbase.com/tournaments/tournament.sd?tourn_id=815 |website=Soccerbase |publisher=CENTURYCOMM LIMITED |access-date=13 July 2016}}</ref>
+|-
+!Total
+{{WDLtot|128|88|23|17|for=290|against=106}}
+!—!!—!!—!!—!!—!!—
+|-
+|[[Borussia Mönchengladbach]]||[[2004–05 Borussia Mönchengladbach season|2004–05]]
+{{WDL|18|4|6|8|for=17|against=29}}
+|—||—||—||—||—||<ref name="2004–05 season"/>
+|-
+|rowspan=5|[[FC Zenit Saint Petersburg|Zenit]]||[[2006 FC Zenit Saint Petersburg season|2006]]
+{{WDL|21|10|8|3|for=28|against=15}}
+|{{Tooltip|4th|4th of 16 teams.}}||—||—||—||—||<ref name="2006 league table"/><ref name="2006 season">{{cite web |title=Zenit St. Petersburg |url=https://www.kicker.de/zenit-st-petersburg/spielplan/premjer-liga/2006 |website=[[Kicker (magazine)|Kicker]] |publisher=kicker |access-date=13 July 2016 |language=de}}</ref>
+|-
+|[[2007 FC Zenit Saint Petersburg season|2007]]
+{{WDL|30|18|7|5|for=54|against=32}}
+|{{Tooltip|1st|1st of 16 teams.}}||{{Tooltip|QF|Quarter finals}}||—||—||—||<ref name="2007 league table"/><ref name="2006–07 russian cup">{{cite web |last1=Dryomin |first1=Mike |title=Russia Cups 2006/07 |url=https://www.rsssf.org/tablesr/ruscup07.html |publisher=Rec.Sport.Soccer Statistics Foundation |access-date=13 July 2016}}</ref>
+|-
+|[[2008 FC Zenit Saint Petersburg season|2008]]
+{{WDL|30|12|12|6|for=59|against=37}}
+|{{Tooltip|5th|5th of 16 teams.}}||{{Tooltip|QF|Quarter finals}}||—||{{Tooltip|W|Winner of the UEFA Cup.}}||{{Tooltip|W|Winner of Russian Super Cup.}}<br/>{{Tooltip|W|Winner of UEFA Super Cup.}}||<ref name="2008 league table"/><ref name="2008 season">{{cite web |title=Zenit St. Petersburg |url=https://www.kicker.de/zenit-st-petersburg/spielplan/premjer-liga/2008 |website=[[Kicker (magazine)|Kicker]] |publisher=kicker |access-date=13 July 2016 |language=de}}</ref><ref name="2007–08 russian cup">{{cite web |last1=Dryomin |first1=Mike |title=Russia Cups 2007/08 |url=https://www.rsssf.org/tablesr/ruscup08.html |publisher=Rec.Sport.Soccer Statistics Foundation |access-date=13 July 2016}}</ref><ref name="2007–08 uefa cup">{{cite web |title=UEFA European Competitions 2007–08 |url=https://www.rsssf.org/ec/ec200708.html |publisher=Rec.Sport.Soccer Statistics Foundation |access-date=13 July 2016}}</ref>
+|-
+|[[2009 FC Zenit Saint Petersburg season|2009]]
+{{WDL|17|6|6|5|for=24|against=19}}
+|—||{{Tooltip|FR|Fifth round}}||—||{{Tooltip|GS|Group stage of Champions League.}}<br/>{{Tooltip|R16|Round of 16 of UEFA Cup.}}||—||<ref name="2009 league table"/><ref name="2008–09 russian cup">{{cite web |last1=Dryomin |first1=Mike |title=Russia Cups 2008/09 |url=https://www.rsssf.org/tablesr/ruscup09.html |publisher=Rec.Sport.Soccer Statistics Foundation |access-date=13 July 2016}}</ref><ref name="UEFA European Competitions 2008-09">{{cite web |title=UEFA European Competitions 2008–09 |url=https://www.rsssf.org/ec/ec200809.html |publisher=Rec.Sport.Soccer Statistics Foundation |access-date=13 July 2016}}</ref>
+|-
+!Total
+{{WDLtot|98|46|33|19|for=165|against=103}}
+!—!!—!!—!!—!!—!!—
+|-
+|[[AZ Alkmaar|AZ]]||[[2009–10 AZ season|2009–10]]
+{{WDL|18|11|4|3|for=35|against=14}}
+|{{Tooltip|5th|5th out of 18 teams.}}||{{Tooltip|R16|Round of 16}}||—||—||—||<ref name="AZ"/><ref name="2009–10 season"/><ref name="2009–10 league table"/>
+|-
+|[[PSV Eindhoven|PSV]]||[[2012–13 PSV Eindhoven season|2012–13]]
+{{WDL|34|22|3|9|for=103|against=43}}
+|{{Tooltip|2nd|5th out of 18 teams.}}||{{Tooltip|F|Losing finalist.}}||—||{{Tooltip|GS|Group stage}}||{{Tooltip|W|Winner of Dutch Super Cup.}}||<ref name="dutch super cup"/><ref name="2012–13 league table"/><ref name="2012–13 season"/>
+|-
+|[[AZ Alkmaar|AZ]]||[[2013–14 AZ season|2013–14]]
+{{WDL|25|9|7|9|for=40|against=34}}
+|{{Tooltip|8th|8th out of 18 teams.}}||<!-- Cup position -->||—||<!-- European position -->||<!-- Other position -->||<ref name="2013–14 league table"/>
+|-
+|rowspan=3|[[Sunderland A.F.C.|Sunderland]]||[[2014–15 Sunderland A.F.C. season|2014–15]]
+{{WDL|9|3|3|3|for=8|against=10}}
+|{{Tooltip|16th|16th of 20 teams.}}||—||—||—||—||<ref name="2014–15 season"/><ref name="2014–15 league table"/>
+|-
+|[[2015–16 Sunderland A.F.C. season|2015–16]]
+{{WDL|8|0|3|5|for=8|against=18}}
+|{{Tooltip|19th|19th of 20 teams at the time of his resignation.}}||—||{{Tooltip|TR|Third round}}||—||—||<ref name="2015–16 season"/><ref name="2015–16 league table"/>
+|-
+!Total
+{{WDLtot|17|3|6|8|for=16|against=28}}
+!—!!—!!—!!—!!—!!—
+|-
+|[[Fenerbahçe S.K. (football)|Fenerbahçe]]
+|[[2016–17 Fenerbahçe S.K. season|2016–17]]
+{{WDL|18|10|5|3|for=37|against=14}}
+|—||—||—||—||—||<ref name="2016–17 season"/>
+|}
+
+====National team====
+{{updated|25 June 2025}}
+
+{| class="wikitable" Style="text-align: center"
+|-
+!rowspan=2|Country!!rowspan=2|Year!!colspan=8|Competitions!!colspan=7|Friendly matches!!rowspan=2|{{Tooltip|Ref.|Reference}}
+|-
+!{{Tooltip|M|Matches coached}}!!{{Tooltip|W|Matches won}}!!{{Tooltip|D|Matches drawn}}!!{{Tooltip|L|Matches lost}}!!{{Tooltip|GF|Goals for}}!!{{Tooltip|GA|Goals against}}!!{{Tooltip|Win %|Winning percentage}}!!{{Tooltip|Pos.|Final Position.}}!!{{Tooltip|M|Matches coached}}!!{{Tooltip|W|Matches won}}!!{{Tooltip|D|Matches drawn}}!!{{Tooltip|L|Matches lost}}!!{{Tooltip|GF|Goals for}}!!{{Tooltip|GA|Goals against}}!!{{Tooltip|Win %|Winning percentage}}
+|-
+|rowspan=4|[[Netherlands national football team|Netherlands]]||1992
+{{WDL|3|1|1|1|for=6|against=5}}||—
+{{WDL|1|0|0|1|for=2|against=3}}
+|<ref name="ned 1992"/>
+|-
+|1993
+{{WDL|7|5|2|0|for=23|against=4}}||{{Tooltip|2nd|2nd of 6 teams in World Cup qualifying.}}
+|colspan=7|—||<ref name="ned 1993"/><ref>{{cite web |title=WC Qualifiers Europe 1992/1993 » Group 2 |url=https://www.worldfootball.net/competition/ro11829/md0/results-and-standings/ |publisher=World Football |access-date=13 July 2016}}</ref>
+|-
+|1994
+{{WDL|9|5|2|2|for=18|against=7}}||{{Tooltip|QF|Quarter finals at the 1994 FIFA World Cup.}}
+{{WDL|6|4|1|1|for=16|against=5}}
+|<ref name="ned 1994"/>
+|-
+!Total
+{{WDLtot|19|11|5|3|for=47|against=16}}
+!—
+{{WDLtot|7|4|1|2|for=18|against=8}}
+!—
+|-
+|rowspan=4|Netherlands||2002
+{{WDL|2|2|0|0|for=6|against=0}}||—
+{{WDL|5|4|1|0|for=8|against=2}}
+|<ref name="ned 2002"/>
+|-
+|2003
+{{WDL|8|5|1|2|for=20|against=2}}||{{Tooltip|2nd|2nd of 5 teams in Euro 2004 qualifying.}}
+{{WDL|3|1|2|0|for=3|against=2}}
+|<ref name="EURO Qualifiers 2002/2003 » Group 3"/><ref name="ned 2003"/>
+|-
+|2004
+{{WDL|5|1|2|2|for=7|against=6}}||{{Tooltip|SF|Semi finals at Euro 2004.}}
+{{WDL|6|3|1|2|for=8|against=2}}
+|<ref name="ned 2004"/>
+|-
+!Total
+{{WDLtot|15|8|3|4|for=33|against=8}}
+!—
+{{WDLtot|14|8|4|2|for=19|against=6}}
+!—
+|-
+|[[United Arab Emirates national football team|United Arab Emirates]]||2005
+|colspan=8|—
+{{WDL|2|0|2|0|for=1|against=1}}
+|<ref name="uae record"/>
+|-
+|rowspan=3|[[South Korea national football team|South Korea]]||2005
+|colspan=8|—
+{{WDL|3|2|1|0|for=6|against=2}}
+|<ref name="sk 2005">{{cite web |title=South Korea » Fixtures & Results 2005 |url=https://www.worldfootball.net/teams/te1842/south-korea/all-matches/ |publisher=World Football |access-date=13 July 2016}}</ref>
+|-
+|2006
+{{WDL|3|1|1|1|for=3|against=4}}||{{Tooltip|GS|Group stage at 2006 World Cup.}}
+{{WDL|12|5|3|4|for=11|against=10}}
+|<ref name="sk 2006">{{cite web |title=South Korea » Fixtures & Results 2006 |url=https://www.worldfootball.net/teams/te1842/south-korea/all-matches/ |publisher=World Football |access-date=13 July 2016}}</ref>
+|-
+!Total
+{{WDLtot|3|1|1|1|for=3|against=4}}
+!—
+{{WDLtot|15|7|4|4|for=17|against=12}}
+!—
+|-
+|rowspan=3|[[Belgium national football team|Belgium]]||2009
+{{WDL|2|1|0|1|for=2|against=2}}||{{Tooltip|4th|4th out of 6 teams.}}
+{{WDL|2|2|0|0|for=5|against=0}}
+|<ref name="LAT"/><ref name="bel 2009"/><ref>{{cite web |title=WC Qualifiers Europe 2008/2009 » Group 5 |url=https://www.worldfootball.net/competition/ro2534/md0/results-and-standings/ |publisher=World Football |access-date=13 July 2016}}</ref>
+|-
+|2010
+|colspan=8|—
+{{WDL|1|0|0|1|for=0|against=1}}
+|<ref name="bel 2010"/><ref name="Dick Advocaat resigns as Belgium coach"/>
+|-
+!Total
+{{WDLtot|2|1|0|1|for=2|against=2}}
+!—
+{{WDLtot|3|2|0|1|for=5|against=1}}
+!—
+|-
+|rowspan=4|[[Russia national football team|Russia]]||2010
+{{WDL|4|3|0|1|for=6|against=3}}||—
+{{WDL|2|1|0|1|for=1|against=2}}
+|<ref name="rus 2010">{{cite web |title=Russia » Fixtures & Results 2010 |url=https://www.worldfootball.net/teams/te1600/russia/all-matches/ |publisher=World Football |access-date=13 July 2016}}</ref>
+|-
+|2011
+{{WDL|6|4|2|0|for=11|against=1}}||{{Tooltip|1st|1st out of 6 teams in Euro 2012 qualifying.}}
+{{WDL|5|1|3|1|for=3|against=3}}
+|<ref name="rus 2011">{{cite web |title=Russia » Fixtures & Results 2011 |url=https://www.worldfootball.net/teams/te1600/russia/all-matches/ |publisher=World Football |access-date=13 July 2016}}</ref><ref>{{cite web |title=EURO Qualifiers 2010/2011 » Group B |url=https://www.worldfootball.net/competition/ro5919/md0/results-and-standings/ |publisher=World Football |access-date=13 July 2016}}</ref>
+|-
+|2012
+{{WDL|3|1|1|1|for=5|against=3}}||{{Tooltip|GS|Group stage at Euro 2012.}}
+{{WDL|4|2|2|0|for=6|against=1}}
+|<ref name="rus 2012">{{cite web |title=Russia » Fixtures & Results 2012 |url=https://www.worldfootball.net/teams/te1600/russia/all-matches/ |publisher=World Football |access-date=13 July 2016}}</ref>
+|-
+!Total
+{{WDLtot|13|8|3|2|for=22|against=7}}
+!—
+{{WDLtot|12|4|5|3|for=10|against=6}}
+!—
+|-
+|[[Serbia national football team|Serbia]]||2014
+{{WDL|3|0|1|2|for=2|against=7}}||—
+{{WDL|1|0|1|0|for=1|against=1}}
+|<ref name="Ser 2014"/>
+|-
+|[[Netherlands national football team|Netherlands]]||2017
+{{WDL|5|4|0|1|for=11|against=6}}||{{Tooltip|3rd|3rd of 6 teams in World Cup qualifying.}}
+{{WDL|4|4|0|0|for=11|against=1}}
+|<ref name="ned 2017">{{cite web |title=Netherlands » Fixtures & Results 2017 |url=https://www.worldfootball.net/teams/te1363/netherlands/all-matches/ |publisher=World Football |access-date=2 November 2019}}</ref>
+|-
+|[[Iraq national football team|Iraq]]||2021
+{{WDL|6|0|4|2|for=3|against=9}}||—
+|colspan=7|—
+|
+|-
+|rowspan=2|[[Curaçao national football team|Curaçao]]||2024
+{{WDL|8|6|1|1|for=21|against=4}}||—
+|colspan=7|—
+|
+|-
+|2025
+{{WDL|9|4|3|2|for=17|against=6}}||{{Tooltip|GS|Group stage at 2025 Gold Cup.}}
+{{WDL|1|0|0|1|for=0|against=2}}||
+|-
+|}
+
+==Managerial statistics==
+{{updated|matches played on 6 June 2026}}
+
+{| class="wikitable" style="text-align: left"
+|-
+!rowspan=2|Team!!rowspan=2|From!!rowspan=2|To!!colspan=9|Record
+|-
+!{{Tooltip|M|Matches coached}}!!{{Tooltip|W|Matches won}}!!{{Tooltip|D|Matches drawn}}!!{{Tooltip|L|Matches lost}}!!{{Tooltip|GF|Goals for}}!!{{Tooltip|GA|Goals against}}!!{{Tooltip|GD|Goal difference}}!!{{Tooltip|Win %|Winning percentage}}!!{{Tooltip|Ref.|Reference}}
+|-
+|{{flagicon|NED}} [[HFC Haarlem|Haarlem]]||1 July 1987||30 June 1989
+{{WDL|72|27|19|26|for=88|against=100|diff=yes}}
+|<ref name="1987–88 league season"/><ref name="1988–89 league season"/>
+|-
+|{{flagicon|NED}} [[Schiedamse Voetbal Vereniging|S.V.V.]]||1 July 1989||30 June 1991
+{{WDL|78|39|15|24|for=115|against=86|diff=yes}}
+|<ref name="dutch cup (70–94)"/><ref name="1989–90 league season"/><ref name="1990–91 season"/>
+|-
+|{{flagicon|NED}} [[FC Dordrecht|Dordrecht]]||1 July 1991||22 August 1992
+{{WDL|35|9|7|19|for=39|against=68|diff=yes}}
+|<ref name="dutch cup (70–94)"/>
+|-
+|{{flagicon|NED}} [[Netherlands national football team|Netherlands]]||7 September 1992||15 December 1994
+{{WDL|26|15|6|5|for=65|against=24|diff=yes}}
+|<ref name="ned 1992"/><ref name="ned 1993"/><ref name="ned 1994"/>
+|-
+|{{flagicon|NED}} [[PSV Eindhoven|PSV]]||16 December 1994<ref name="PSV Eindhoven » Manager history"/>||30 June 1998<ref name="PSV Eindhoven » Manager history"/>
+{{WDL|152|100|29|23|for=404|against=160|diff=yes}}
+|<ref name="1994–95 season"/><ref name="1996–97 season"/><ref name="dutch super cup"/><ref name="1995–96 season"/><ref name="1996–97 Dutch Cup"/><ref name="1997–98 season"/>
+|-
+|{{flagicon|SCO}} [[Rangers F.C.|Rangers]]||1 July 1998<ref name="Rangers FC » Manager history"/>||12 December 2001<ref name="Rangers FC » Manager history"/>
+{{WDL|195|131|34|30|for=427|against=158|diff=yes}}
+|<ref name="1998–99 season"/><ref name="1998–99 league cup"/><ref name="1999–2000 season"/><ref name="2000–01 season"/><ref name="2001–02 season"/><ref name="1999–2000 league cup"/><ref name="2000–01 league cup"/><ref name="2001–02 league cup"/>
+|-
+|{{flagicon|NED}} Netherlands||25 January 2002<ref name="Dual"/>||6 July 2004<ref name="Quits"/>
+{{WDL|29|16|7|6|for=52|against=14|diff=yes}}
+|<ref name="ned 2002"/><ref name="ned 2003"/><ref name="ned 2004"/>
+|-
+|{{flagicon|GER}} [[Borussia Mönchengladbach]]||2 November 2004<ref name="Advocaat ist unser Wunschtrainer"/>||18 April 2005<ref name="Dick Advocaat gibt auf"/>
+{{WDL|18|4|6|8|for=17|against=29|diff=yes}}
+|<ref name="2004–05 season"/><ref name="Bor. Mönchengladbach - Trainerhistorie"/>
+|-
+|{{flagicon|UAE}} [[United Arab Emirates national football team|United Arab Emirates]]||17 July 2005<ref name="UAE"/>||13 September 2005<ref name="Korea"/>
+{{WDL|2|0|2|0|for=1|against=1|diff=yes}}
+|<ref name="uae record"/>
+|-
+|{{flagicon|KOR}} [[South Korea national football team|South Korea]]||1 October 2005<ref name="Korea"/>||9 July 2006<ref name="Korea"/>
+{{WDL|18|8|5|5|for=20|against=16|diff=yes}}
+|<ref name="sk 2005"/><ref name="sk 2006"/>
+|-
+|{{flagicon|RUS}} [[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]||26 June 2006<ref name="Verbeek folgt Advocaat"/>||10 August 2009<ref name="Advocaat sacked as Zenit manager"/>
+{{WDL|135|64|42|29|for=225|against=141|diff=yes}}
+|<ref name="2007 league table"/><ref name="2008 league table"/><ref name="2009 league table"/><ref name="2006 season"/><ref name="2006–07 russian cup"/><ref name="2008 season"/><ref name="2007–08 russian cup"/><ref name="2007–08 uefa cup"/><ref name="2008–09 russian cup"/><ref name="UEFA European Competitions 2008-09"/>
+|-
+|{{flagicon|BEL}} [[Belgium national football team|Belgium]]||1 October 2009<ref name="UEFA"/>||15 April 2010<ref name="Dick Advocaat resigns as Belgium coach"/>
+{{WDL|5|3|0|2|for=7|against=3|diff=yes}}
+|<ref name="bel 2009"/><ref name="bel 2010"/>
+|-
+|{{flagicon|NED}} [[AZ Alkmaar|AZ]]||6 December 2009<ref name="AZ"/>||1 July 2010<ref name="Verbeek"/>
+{{WDL|19|11|4|4|for=35|against=15|diff=yes}}
+|<ref name="2009–10 season"/>
+|-
+|{{flagicon|RUS}} [[Russia national football team|Russia]]||1 July 2010<ref name="Russia"/>||30 June 2012<ref name=advocaat_leaves/>
+{{WDL|25|12|8|5|for=32|against=13|diff=yes}}
+|<ref name="rus 2010"/><ref name="rus 2011"/><ref name="rus 2012"/>
+|-
+|{{flagicon|NED}} PSV||1 July 2012<ref name=AdvocaatPSVhiring/>||30 June 2013<ref name=AdvocaatRetires/>
+{{WDL|49|32|4|13|for=145|against=58|diff=yes}}
+|<ref name="2012–13 season"/>
+|-
+|{{flagicon|NED}} AZ||15 October 2013<ref name="Advocaat übernimmt in Alkmaar"/>||30 June 2014<ref name="Van Basten übernimmt bei AZ Alkmaar"/>
+{{WDL|43|16|13|14|for=63|against=48|diff=yes}}
+|<ref name="2013–14 season"/>
+|-
+|{{flagicon|SER}} [[Serbia national football team|Serbia]]||22 July 2014||15 November 2014<ref name="Advocaat ends stint as coach of Serbia's national team"/>
+{{WDL|4|0|2|2|for=3|against=8|diff=yes}}
+|<ref name="Ser 2014"/>
+|-
+|{{flagicon|ENG}} [[Sunderland A.F.C.|Sunderland]]||17 March 2015<ref name="SAFC"/>||4 October 2015<ref name="Dick Advocaat: Sunderland boss quits Premier League strugglers"/>
+{{WDL|19|4|6|9|for=23|against=35|diff=yes}}
+|<ref name="2014–15 season"/><ref name="2015–16 season"/><ref name="English wdl record"/>
+|-
+|{{flagicon|TUR}} [[Fenerbahçe S.K. (football)|Fenerbahçe]]||17 August 2016<ref name="Fenerbahçe_boss"/>||9 May 2017
+{{WDL|55|30|16|9|for=99|against=49|diff=yes}}
+|<ref name="2016–17 season"/>
+|-
+|{{flagicon|NED}} Netherlands||9 May 2017||14 November 2017
+{{WDL|9|8|0|1|for=22|against=7|diff=yes}}
+|
+|-
+|{{flagicon|NED|}} [[Sparta Rotterdam]]||25 December 2017||30 June 2018
+{{WDL|21|6|3|12|for=26|against=44|diff=yes}}
+|
+|-
+|{{flagicon|NED}} [[FC Utrecht|Utrecht]]||12 September 2018||1 July 2019
+{{WDL|37|19|7|11|for=71|against=48|diff=yes}}
+|
+|-
+|{{flagicon|NED}} [[Feyenoord]]||30 October 2019||23 May 2021
+{{WDL|65|35|18|12|for=126|against=72|diff=yes}}
+|
+|-
+|{{flagicon|Iraq}} [[Iraq national football team|Iraq]]||31 July 2021||23 November 2021
+{{WDL|6|0|4|2|for=3|against=9|diff=yes}}
+|
+|-
+|{{flagicon|NED}} [[ADO Den Haag]]||28 November 2022||30 June 2023
+{{WDL|25|11|8|6|for=37|against=35|diff=yes}}
+|
+|-
+|{{flagicon|CUR}} [[Curaçao national football team|Curaçao]]||15 January 2024||23 February 2026
+{{WDL|20|11|6|3|for=45|against=13|diff=yes}}
+|
+|-
+|{{flagicon|CUR}} Curaçao||12 May 2026||present
+{{WDL|2|1|0|1|for=5|against=4|diff=yes}}
+|
+|-
+! colspan=3| Total
+{{WDLtot|1164|612|271|281|for=2195|against=1258|diff=yes}}
+!—
+|}
+
+==Honours==
+===Player===
+'''ADO Den Haag'''
+*[[KNVB Cup]]: 1967-68
+
+===Manager===
+'''SVV'''
+*[[Eerste Divisie]]: [[1989–90 Eerste Divisie|1989–90]]
+
+'''PSV Eindhoven'''
+*[[Eredivisie]]: [[1996–97 Eredivisie|1996–97]]
+*[[KNVB Cup]]: [[1995–96 KNVB Cup|1995–96]]
+*[[Johan Cruyff Shield]]: [[1996 Johan Cruyff Shield|1996]], [[1997 Johan Cruyff Shield|1997]], [[2012 Johan Cruyff Shield|2012]]
+
+'''Rangers'''
+*[[Scottish Premier League]]: [[1998–99 Scottish Premier League|1998–99]], [[1999–2000 Scottish Premier League|1999–2000]]
+*[[Scottish Cup]]: [[1998–99 Scottish Cup|1998–99]], [[1999–2000 Scottish Cup|1999–2000]]
+*[[Scottish League Cup]]: [[1998–99 Scottish League Cup|1998–99]]
+
+'''Zenit Saint Petersburg'''
+*[[Russian Premier League]]: [[2007 Russian Premier League|2007]]
+*[[UEFA Europa League|UEFA Cup]]: [[2007–08 UEFA Cup|2007–08]]
+*[[UEFA Super Cup]]: [[2008 UEFA Super Cup|2008]]
+
+===Individual===
+* The 2008 UEFA Cup success earned Advocaat the Honorary Citizen of Saint Petersburg award, making him the city's first foreign honorary citizen since 1866.<ref>[http://www.nos.nl/nos/artikelen/2008/05/art000001C8C09950FD5EFD.html NOS.nl | Nieuws, Sport en Evenementen op Radio, TV en Internet | Nederlandse Omroep Stichting] {{webarchive |url=https://web.archive.org/web/20080922171814/http://www.nos.nl/nos/artikelen/2008/05/art000001C8C09950FD5EFD.html |date=22 September 2008 }}</ref>
+
+==Personal life==
+Advocaat is [[teetotalism|teetotal]].<ref>{{cite news|title=Proud Advocaat receives Putin congratulations|work=ESPN FC|date=14 May 2008|url=http://www.espnfc.com/story/535323|url-status=dead|archive-url=https://web.archive.org/web/20170729030034/http://www.espnfc.com/story/535323|archive-date=29 July 2017}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category}}
+* {{soccerbase (manager)|id=1375|name=Dick Advocaat}}
+* [http://jp.uefa.com/printoutfiles/competitions/supercup/2008/e/e_302814_pk.pdf UEFA profile, inc. former playing clubs (PDF file)] {{Webarchive|url=https://web.archive.org/web/20160303194644/http://jp.uefa.com/printoutfiles/competitions/supercup/2008/e/e_302814_pk.pdf |date=3 March 2016 }}
+* [https://nasljerseys.com/Players/A/Advocaat.Dick.htm nasljerseys.com NASL stats]
+* [https://zenit-history.ru/trenery/243-trenery/nativ-language/2116-advokat-dik-eng Dick Advocaat stats at Zenit]
+
+{{Current managers of CONCACAF national teams}}
+{{#invoke:navboxes|top
+| title = International tournaments
+| bg = 
+| fg = 
+| bordercolor = 
+}}
+{{Netherlands squad 1994 FIFA World Cup}}
+{{Netherlands squad UEFA Euro 2004}}
+{{South Korea squad 2006 FIFA World Cup}}
+{{Russia squad UEFA Euro 2012}}
+{{Curaçao squad 2025 CONCACAF Gold Cup}}
+{{Curaçao squad 2026 FIFA World Cup}}
+{{#invoke:navboxes|bottom}}
+{{#invoke:navboxes|top
+| title = Managerial positions
+| bg = 
+| fg = 
+}}
+{{Netherlands women's national football team managers}}
+{{HFC Haarlem managers}}
+{{FC Dordrecht managers}}
+{{Netherlands national football team managers}}
+{{PSV Eindhoven managers}}
+{{Rangers F.C. managers}}
+{{Borussia Mönchengladbach managers}}
+{{United Arab Emirates national football team managers}}
+{{South Korea national football team managers}}
+{{FC Zenit Saint Petersburg managers}}
+{{Belgium national football team managers}}
+{{AZ managers}}
+{{Russia national football team managers}}
+{{Serbia national football team managers}}
+{{Sunderland A.F.C. managers}}
+{{Fenerbahçe SK managers}}
+{{Sparta Rotterdam managers}}
+{{FC Utrecht managers}}
+{{Feyenoord managers}}
+{{Iraq national football team managers}}
+{{ADO Den Haag managers}}
+{{Curaçao national football team managers}}
+{{#invoke:navboxes|bottom}}
+{{#invoke:navboxes|top
+| title = Awards
+| bg = gold
+| fg = navy
+}}
+{{UEFA Europa League winning managers}}
+{{UEFA Super Cup winning managers}}
+{{Eredivisie winning managers}}
+{{Scottish Football First Tier League Championship winning managers}}
+{{Scottish Cup winning managers}}
+{{Scottish League Cup winning managers}}
+{{Rinus Michels Award}}
+{{#invoke:navboxes|bottom}}
+{{#invoke:Authority control|authorityControl}}
+
+{{DEFAULTSORT:Advocaat, Dick}}
+[[Category:1947 births]]
+[[Category:Living people]]
+[[Category:Footballers from The Hague]]
+[[Category:Dutch men's footballers]]
+[[Category:Men's association football central defenders]]
+[[Category:Men's association football midfielders]]
+[[Category:ADO Den Haag players]]
+[[Category:San Francisco Golden Gate Gales players]]
+[[Category:Roda JC Kerkrade players]]
+[[Category:VVV-Venlo players]]
+[[Category:Chicago Sting (NASL) players]]
+[[Category:Sparta Rotterdam players]]
+[[Category:Berchem Sport players]]
+[[Category:FC Utrecht players]]
+[[Category:Eredivisie players]]
+[[Category:United Soccer Association players]]
+[[Category:North American Soccer League (1968–1984) players]]
+[[Category:Belgian Pro League players]]
+[[Category:Challenger Pro League players]]
+[[Category:Dutch expatriate men's footballers]]
+[[Category:Dutch expatriate sportspeople in the United States]]
+[[Category:Dutch expatriate sportspeople in Belgium]]
+[[Category:Expatriate men's soccer players in the United States]]
+[[Category:Expatriate men's footballers in Belgium]]
+[[Category:Dutch football managers]]
+[[Category:Netherlands women's national football team managers]]
+[[Category:HFC Haarlem managers]]
+[[Category:SV SVV managers]]
+[[Category:FC Dordrecht managers]]
+[[Category:Netherlands national football team managers]]
+[[Category:PSV Eindhoven managers]]
+[[Category:Rangers F.C. managers]]
+[[Category:Borussia Mönchengladbach managers]]
+[[Category:United Arab Emirates national football team managers]]
+[[Category:South Korea national football team managers]]
+[[Category:FC Zenit Saint Petersburg managers]]
+[[Category:Belgium national football team managers]]
+[[Category:AZ Alkmaar managers]]
+[[Category:Russia national football team managers]]
+[[Category:Serbia national football team managers]]
+[[Category:Sunderland A.F.C. managers]]
+[[Category:Fenerbahçe S.K. (football) managers]]
+[[Category:Sparta Rotterdam managers]]
+[[Category:FC Utrecht managers]]
+[[Category:Feyenoord managers]]
+[[Category:ADO Den Haag managers]]
+[[Category:Iraq national football team managers]]
+[[Category:Curaçao national football team managers]]
+[[Category:Eredivisie managers]]
+[[Category:Eerste Divisie managers]]
+[[Category:Scottish Premier League managers]]
+[[Category:Bundesliga managers]]
+[[Category:Russian Premier League managers]]
+[[Category:Premier League managers]]
+[[Category:Süper Lig managers]]
+[[Category:UEFA Europa League–winning managers]]
+[[Category:1994 FIFA World Cup managers]]
+[[Category:UEFA Euro 2004 managers]]
+[[Category:2006 FIFA World Cup managers]]
+[[Category:UEFA Euro 2012 managers]]
+[[Category:2025 CONCACAF Gold Cup managers]]
+[[Category:2026 FIFA World Cup managers]]
+[[Category:Dutch expatriate football managers]]
+[[Category:Dutch expatriate sportspeople in Scotland]]
+[[Category:Dutch expatriate sportspeople in Germany]]
+[[Category:Dutch expatriate sportspeople in the United Arab Emirates]]
+[[Category:Dutch expatriate sportspeople in South Korea]]
+[[Category:Dutch expatriate sportspeople in Russia]]
+[[Category:Dutch expatriate sportspeople in Serbia]]
+[[Category:Dutch expatriate sportspeople in England]]
+[[Category:Dutch expatriate sportspeople in Turkey]]
+[[Category:Dutch expatriate sportspeople in Iraq]]
+[[Category:Dutch expatriate sportspeople in Curaçao]]
+[[Category:Expatriate football managers in Scotland]]
+[[Category:Expatriate football managers in Germany]]
+[[Category:Expatriate football managers in the United Arab Emirates]]
+[[Category:Expatriate football managers in South Korea]]
+[[Category:Expatriate football managers in Russia]]
+[[Category:Expatriate football managers in Belgium]]
+[[Category:Expatriate football managers in Serbia]]
+[[Category:Expatriate football managers in England]]
+[[Category:Expatriate football managers in Turkey]]
+[[Category:Expatriate football managers in Iraq]]
+[[Category:Expatriate football managers in Curaçao]]
+[[Category:Dutch football commentators]]
+[[Category:Articles containing video clips]]
+[[Category:20th-century Dutch sportsmen]]

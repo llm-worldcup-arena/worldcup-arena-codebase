@@ -1,0 +1,251 @@
+{{short description|Egyptian footballer (born 1994)}}
+{{Use dmy dates|date=March 2023}}
+{{Infobox football biography
+| name = Hamdy Fathy
+| image = Hamdy Fathy 2.jpg
+| image_size = 250px
+| caption = Fathy with [[Egypt national football team|Egypt]] at the [[2021 Africa Cup of Nations]]
+| full_name = Hamdy Fathy Abdelhalim Abdelfattah<ref name="FIFA">{{cite web |url=https://fdp.fifa.org/assetspublic/ce233/pdf/SquadLists-English.pdf |title=FIFA Club World Cup 2025™ – Squad List: Al Ahly FC (EGY) |publisher=FIFA |page=1 |date=4 July 2025 |access-date=18 July 2025 |archive-url=https://web.archive.org/web/20250713085533/https://fdp.fifa.org/assetspublic/ce233/pdf/SquadLists-English.pdf |archive-date=13 July 2025 |url-status=live }}</ref>
+| birth_date = {{birth date and age|1994|09|29|df=yes}}<ref name="FIFA"/>
+| birth_place = [[Beheira Governorate|Beheira]], Egypt
+| height = 1.83 m<ref name="FIFA"/>
+| position = [[Defensive midfielder]]
+| currentclub = [[Al-Wakrah SC|Al-Wakrah]]
+| clubnumber =  8
+| youthyears1 = 2005–2014
+| youthclubs1 = [[Ala'ab Damanhour SC|Ala'ab Damanhour]]
+| years1 = 2014–2015
+| clubs1 = [[Ala'ab Damanhour SC|Ala'ab Damanhour]]
+| caps1 = 31
+| goals1 = 3
+| years2 = 2015–2018
+| clubs2 = [[ENPPI Club|Enppi]]
+| caps2 = 51
+| goals2 = 6
+| years3 = 2016–2017
+| clubs3 = → [[Petrojet FC|Petrojet]] (loan)
+| caps3 = 27
+| goals3 = 2
+| years4 = 2019–2023
+| clubs4 = [[Al Ahly SC|Al Ahly]]
+| caps4 = 89
+| goals4 = 7
+| years5 = 2023–
+| clubs5 = [[Al-Wakrah SC|Al-Wakrah]]
+| caps5 = 49
+| goals5 = 5
+| years6 = 2025 
+| clubs6 = → [[Al Ahly SC|Al Ahly]] (loan)
+| caps6 = 0
+| goals6 = 0
+| nationalyears1 = 2019–
+| nationalteam1 = [[Egypt national football team|Egypt]]
+| nationalcaps1 = 49
+| nationalgoals1 = 4
+| club-update = 17 January 2026
+| nationalteam-update = 18 December 2024
+| medaltemplates = {{MedalCountry|{{fb|EGY}}}}
+{{MedalSport|Men's [[association football|football]]}}
+{{Medal|Competition|[[Africa Cup of Nations]]}} {{Medal|RU|[[2021 Africa Cup of Nations|2021 Cameroon]]|}}
+}}
+'''Hamdy Fathy Abdelhalim Abdelfattah''' ({{langx|ar|حمدي فتحي عبد الحليم عبد الفتاح}}; born 29 September 1994) is an Egyptian professional [[Association football|footballer]] who plays as a [[defensive midfielder]] for [[Qatar Stars League]] club [[Al-Wakrah SC|Al-Wakrah]] and the [[Egypt national football team|Egypt national team]].
+
+==Club career==
+Fathy began his career with [[Ala'ab Damanhour SC|Ala'ab Damanhour]] before moving to [[ENPPI Club|Enppi]] in 2015 and later joining [[Petrojet FC|Petrojet]] on loan. In 2019, he signed with [[Al Ahly SC|Al Ahly]] and remained with the club until 2023, when he transferred to Qatari side [[Al-Wakrah SC|Al-Wakrah]].
+
+=== 2025: Loan to Al Ahly ===
+In December 2024, it was announced that he would return to Al Ahly on loan to participate in the [[2025 FIFA Club World Cup]].<ref>{{cite web |url=https://english.ahram.org.eg/NewsContent/6/51/537032/Sports/Egyptian-Football/Ahly-secure-loan-deal-for-Hamdi-Fathi-from-AlWakra.aspx |title=Ahly secure loan deal for Hamdi Fathi from Al-Wakrah SC for the 2025 FIFA Club World Cup |publisher=Ahram Online |date=15 December 2024 }}</ref>
+
+==International career==
+On 14 October 2019, Fathy made his international debut and scored the only goal of the match in a 1–0 win against [[Botswana national football team|Botswana]].<ref>{{cite web|url=https://www.kooora.com/?n=860747&o=n3107844|script-title=ar:حمدي فتحي يضع بصمته الأولى مع منتخب مصر|website=Kooora|language=Arabic|date=14 October 2019}}</ref> Hamdy featured in the [[2021 Africa Cup of Nations|2021 AFCON]] final match against [[Senegal national football team|Senegal]].<ref>{{Cite web|title=Afcon 2021: Egypt XI to face Senegal – Salah, Elneny start, Ashour in for suspended Kamal {{!}} Goal.com|url=https://www.goal.com/en-gh/lists/afcon-2021-egypt-xi-to-face-senegal-salah-elneny-start-ashour-in-/bltbabcf03e09d636c6#csbd32c2ed1f492e6b|access-date=6 February 2022|website=www.goal.com}}</ref>
+
+On 2 December 2025, Fathy was called up to the Egypt squad for the [[2025 Africa Cup of Nations]].<ref>{{cite web|url=https://www.cafonline.com/afcon2025/news/egypt-name-final-28-man-squad-for-totalenergies-caf-afcon-2025-salah-leads-pharaohs-charge/|title=Egypt name final 28-man squad for TotalEnergies CAF AFCON 2025, Salah leads Pharaohs' charge|publisher=[[Confederation of African Football]]|date=2 December 2025|access-date=12 December 2025}}</ref>
+
+== Career statistics ==
+=== Club ===
+''Last updated on 26 January 2024''
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup{{efn|Includes [[Egypt Cup]], [[Qatar Cup]]}}
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|[[Ala'ab Damanhour SC|Ala'ab Damanhour]]
+|[[2014–15 Egyptian Premier League|2014–15]]
+|rowspan="5"|[[Egyptian Premier League]]
+|30||3||0||0
+|colspan="2"|—
+|colspan="2"|—
+|30||3
+|-
+|rowspan="5"|[[ENPPI SC|ENPPI]]
+|[[2015–16 Egyptian Premier League|2015–16]]
+|6||0||1||0||1||0
+|colspan="2"|—
+|8||0
+|-
+|[[2016–17 Egyptian Premier League|2016–17]]
+|0||0||0||0
+|colspan="2"|—
+|colspan="2"|—
+|0||0
+|-
+|[[2017–18 Egyptian Premier League|2017–18]]
+|29||2||0||0
+|colspan="2"|—
+|colspan="2"|—
+|29||2
+|-
+|[[2018–19 Egyptian Premier League|2018–19]]
+|16||3||1||0
+|colspan="2"|—
+|colspan="2"|—
+|17||3
+|-
+!colspan="2"|Total
+!51!!5!!2!!0!!1!!0!!0!!0!!54!!5
+|-
+|[[Petrojet SC|Petrojet]] (loan)
+|[[2016–17 Egyptian Premier League|2016–17]]
+|rowspan="6"|Egyptian Premier League
+|27||2||2||0
+|colspan="2"|—
+|colspan="2"|—
+|29||2
+|-
+|rowspan="6"|[[Al Ahly SC|Al Ahly]]
+|[[2018–19 Al Ahly SC season|2018–19]]
+|13||2||1||0||1||0||1||0||16||2
+|-
+|[[2019–20 Al Ahly SC season|2019–20]]
+|18||3||5||1||5||2||0||0||28||6
+|-
+|[[2020–21 Al Ahly SC season|2020–21]]
+|21||0||3||0||12||0||4||0||40||0
+|-
+|[[2021–22 Al Ahly SC season|2021–22]]
+|20||1||2||2||16||1||2||0||40||4
+|-
+|[[2022–23 Al Ahly SC season|2022–23]]
+|17||1||1||0||12||3||6||0||36||4
+|-
+!colspan="2"|Total
+!89!!7!!9!!1!!39!!4!!13!!0!!150!!12
+|-
+|rowspan="2"|[[Al-Wakrah SC|Al-Wakrah]]
+|[[2023–24 Qatar Stars League|2023–24]]
+|[[Qatar Stars League]]
+|10||3||0||0
+|colspan="2"|—
+|colspan="2"|—
+|10||3
+|-
+!colspan="2"|Total
+!10!!3!!0!!0!!0!!0!!0!!0!!10!!3
+|-
+!colspan="3"|Career total
+!208!!21!!13!!1!!39!!4!!13!!0!!273!!26
+|}
+{{notelist}}
+
+=== International ===
+{{Updated|match played 15 November 2024}}<ref name="NFT">{{NFT player|id=75890|access-date=2 November 2019}}</ref>
+{| class="wikitable" style=text-align:center
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan=6|[[Egypt national football team|Egypt]]
+|2019||2||2
+|-
+|2020||1||0
+|-
+|2021||13||0
+|-
+|2022||11||0
+|-
+|2023||9||2
+|-
+|2024||13||0
+|-
+!colspan=2|Total||49||2
+|}
+
+:''Scores and results list Egypt's goal tally first, score column indicates score after each Fathy goal.''<ref name="NFT"/>
+{| class="wikitable sortable"
+|+ List of international goals scored by Hamdy Fathy
+|-
+! No. !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| align=center | 1 || 14 October 2019 || rowspan=2 | [[Borg El Arab Stadium]], [[Alexandria]], Egypt || {{fb|BOT}} || align=center | 1–0 || align=center | 1–0 || rowspan=4 | [[Exhibition game#Association football|Friendly]]
+|-
+| align=center | 2 || 7 November 2019 || {{fb|LBR}} || align=center | 1–0 || align=center | 1–0
+|-
+| align=center | 3 || 12 October 2023 || rowspan=2 | [[Hazza bin Zayed Stadium]], [[Abu Dhabi]], United Arab Emirates || {{fb|ZAM}} || align=center | 1–0 || align=center | 1–0
+|-
+| align=center | 4 || 16 October 2023 || {{fb|ALG}} || align=center | 1–0 || align=center | 1–1
+|}
+
+==Honours==
+'''Al Ahly'''
+* [[Egyptian Premier League]]: [[2018–19 Egyptian Premier League|2018–19]], [[2019–20 Egyptian Premier League|2019–20]], [[2022–23 Egyptian Premier League|2022–23]]
+* [[Egypt Cup]]: [[2019–20 Egypt Cup|2019–20]], [[2021–22 Egypt Cup|2021–22]]
+* [[Egyptian Super Cup]]: [[2018–19 Egyptian Super Cup|2018–19]], [[2021–22 Egyptian Super Cup|2021–22]], 2022–23
+* [[CAF Champions League]]: [[2019–20 CAF Champions League|2019–20]], [[2020–21 CAF Champions League|2020–21]], [[2022–23 CAF Champions League|2022–23]]
+* [[CAF Super Cup]]: [[2021 CAF Super Cup (May)|2021 (May)]], [[2021 CAF Super Cup (December)|2021 (December)]]
+
+'''Al-Wakrah'''
+* [[Qatar Cup]]: [[2024 Qatar Cup|2024]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category}}
+* [https://www.efa.com.eg/ar/%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AE%D8%A8%D8%A7%D8%AA/%D8%A7%D9%84%D9%84%D8%A7%D8%B9%D8%A8%D9%8A%D9%86/%D8%AD%D9%85%D8%AF%D9%8A-%D9%81%D8%AA%D8%AD%D9%8A/ Profile] at the Egyptian Football Association website {{in lang|ar}}
+* {{UEFA player}}
+
+{{Al-Wakrah SC squad}}
+{{Navboxes
+|title= Egypt squads
+|bg=#DD0000
+|fg=white
+|bordercolor=black
+|list1=
+{{Egypt squad 2021 Africa Cup of Nations}}
+{{Egypt squad 2023 Africa Cup of Nations}}
+{{Egypt squad 2025 Africa Cup of Nations}}
+{{Egypt squad 2026 FIFA World Cup}}
+}}
+{{2022–23 Egyptian Premier League Team of the Season}}
+
+{{DEFAULTSORT:Fathy, Hamdy}}
+[[Category:1994 births]]
+[[Category:Living people]]
+[[Category:Egyptian men's footballers]]
+[[Category:Egyptian expatriate men's footballers]]
+[[Category:Egypt men's international footballers]]
+[[Category:ENPPI SC players]]
+[[Category:Petrojet SC players]]
+[[Category:Ala'ab Damanhour SC players]]
+[[Category:Al Ahly SC players]]
+[[Category:Al-Wakrah SC players]]
+[[Category:Egyptian Premier League players]]
+[[Category:Qatar Stars League players]]
+[[Category:Men's association football forwards]]
+[[Category:2021 Africa Cup of Nations players]]
+[[Category:2023 Africa Cup of Nations players]]
+[[Category:2025 Africa Cup of Nations players]]
+[[Category:2026 FIFA World Cup players]]
+[[Category:People from Beheira Governorate]]
+[[Category:Expatriate men's footballers in Qatar]]
+[[Category:Egyptian expatriate sportspeople in Qatar]]
+[[Category:CAF Champions League–winning players]]
+[[Category:21st-century Egyptian sportsmen]]

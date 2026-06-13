@@ -1,0 +1,40 @@
+{
+ "match": {
+  "slug": "2026-06-13_BRA_vs_MAR",
+  "date": "2026-06-13",
+  "home": "BRA",
+  "away": "MAR",
+  "round": "group",
+  "group": "C"
+ },
+ "kickoff": {
+  "美东": "2026-06-13T18:00:00-04:00",
+  "北京": "06-14 06:00"
+ },
+ "venue": {
+  "name": "MetLife Stadium",
+  "city": "East Rutherford, New Jersey",
+  "altitude_m": 3,
+  "roof": "open",
+  "surface": "grass"
+ },
+ "weather": {
+  "开球时段": {
+   "温度C": 31.4,
+   "体感C": 29.7,
+   "降水概率%": 0,
+   "降水mm": 0.0,
+   "风速kmh": 12.7,
+   "湿度%": 28,
+   "天况": "晴"
+  },
+  "source": "open-meteo(免费预报API)",
+  "fetched": "2026-06-13_0800",
+  "_note": "临近开球建议 --refresh 刷新"
+ },
+ "referee": {
+  "name": null,
+  "_note": "待 WebSearch FIFA指派公告"
+ },
+ "_note": "环境=比赛+时间+地点 确定;天气为开球时段;顶棚 retractable/fixed-canopy 时天气影响有限。"
+}

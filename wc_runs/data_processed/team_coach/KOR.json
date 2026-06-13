@@ -1,0 +1,36 @@
+{
+ "team": "KOR",
+ "coach": {
+  "name_zh": "洪明甫",
+  "name_en": "Hong Myung-bo",
+  "nationality": "South Korea",
+  "career_since": "2005",
+  "person_id": "per_hong_myung_bo"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 韩国籍主帅洪明甫（Hong Myung-bo）自2005年起执教，2026年北美世界杯是其继2014年巴西世界杯小组赛出局后第二次带队出征该赛事。\n\n- 韩国队目前于墨西哥瓜达拉哈拉备战2026世界杯，但遭遇严重伤病潮：主力中卫曹侑珉（Jo Yu-min）在对阵特立尼达和多巴哥的友谊赛中右脚足底筋膜断裂，已退出26人名单，由赵惟捷（Jo Wi-je）递补。\n\n- 中场球员裴俊镐（Bae Jun-ho）在同场比赛中扭伤左脚踝，虽无大碍但已连续三天缺席合练，出战小组赛首战捷克的可能性极低，成为目前唯一未参与团队训练的伤号。\n\n- 后卫金泰贤（Kim Tae-hyeon）同样受伤，主帅洪明甫决定不征召替代人选，评估其或可赶上6月25日对阵南非的第三场小组赛或之后的32强赛。\n\n- 根据国际足联2026世界杯规程第24条第2款，各队仅可在首场赛事24小时前因严重伤病更换球员，逾期则必须以现有阵容完成全部赛事，此规则加剧了韩国队的伤病管理压力。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.8,
+  "issues": [
+   "洪明甫2005年执教时间疑似错误",
+   "缺少近期战绩和战术分析",
+   "未提供对手捷克相关信息",
+   "规则说明与下场比赛关联弱"
+  ]
+ },
+ "brief_fetched": "2026-06-13_1750",
+ "brief_info_chars": 6000,
+ "coach_xverify": {
+  "canonical": "Hong Myung-bo",
+  "confidence": "high",
+  "discrepancy": "Sports Mole 提及的 Miroslav Koubek 实为捷克共和国主教练，与韩国无关，属于信息错配。RotoWire 仅提及捷克队新帅，未涉及韩国主帅信息。其余5个来源均一致确认洪明甫为韩国现任主教练。",
+  "sources_agree": 5,
+  "n_sources": 7
+ }
+}

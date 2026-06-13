@@ -6,7 +6,7 @@
 数据源：Apify Actor  automation-lab/transfermarkt-scraper（searchQueries 数组一次采全队）。
 
 【铁律·两步走】
-  ① raw 全量留底 + 分子文件夹：完整 JSON 一字不改存 raw/bg/<ts>/transfermarkt/tm_<队>.json + 写 _source.md。
+  ① raw 全量留底 + 分子文件夹：完整 JSON 一字不改存 data_raw/<ts>/transfermarkt/tm_<队>.json + 写 _source.md。
   ② 再从 raw 提取（从宽，多留 tm_*）。改了提取逻辑用 --from-raw 从 raw 重提取，不重采、不花钱。
 
 【准确性】TM 出生**年份** ⨯ 维基 birthdate 交叉校验：年份不符 = 同名搜错人 → **剔除 TM 数据**（不污染）。
@@ -43,7 +43,7 @@ def apify_run(inp):
 
 
 def raw_dir_of(ts):
-    d = f"{BASE}/raw/bg/{ts}/transfermarkt"
+    d = f"{BASE}/data_raw/{ts}/transfermarkt"
     os.makedirs(d, exist_ok=True)
     return d
 
@@ -137,7 +137,7 @@ def main():
     if args.from_raw:
         print(f"=== 从 raw 重提取  {args.from_raw}  {len(teams)} 队 ===")
         for t in teams:
-            rf = f"{BASE}/raw/bg/{args.from_raw}/transfermarkt/tm_{t}.json"
+            rf = f"{BASE}/data_raw/{args.from_raw}/transfermarkt/tm_{t}.json"
             if os.path.exists(rf):
                 team_items[t] = json.load(open(rf, encoding="utf-8"))
     else:

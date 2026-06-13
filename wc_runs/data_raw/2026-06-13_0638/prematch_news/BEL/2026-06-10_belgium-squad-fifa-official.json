@@ -1,0 +1,16 @@
+{
+ "team": "BEL",
+ "source": "FIFA",
+ "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/belgium-squad-garcia-lukaku-named",
+ "title": null,
+ "news_date": "2026-06-10",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "asof": "2026-06-10",
+ "fetched": "2026-06-13_0638",
+ "method": "jsonld",
+ "status": "blocked",
+ "original_text": "",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

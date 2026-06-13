@@ -1,0 +1,118 @@
+{{short description|South African soccer player}}
+{{Use dmy dates|date=November 2022}}
+{{Use South African English|date=August 2022}}
+{{Infobox football biography
+| name = Sphephelo Sithole
+| image = 
+| fullname = Sphephelo S'Miso Sithole<ref name="u17wc squad list">{{Cite web |title=FIFA U-17 World Cup Chile 2015 List of Players: South Africa |url=https://www.fifadata.com/document/FU17/2015/pdf/FU17_2015_SquadLists.pdf |archive-url=https://web.archive.org/web/20191103180706/https://www.fifadata.com/document/FU17/2015/pdf/FU17_2015_SquadLists.pdf |archive-date=2019-11-03 |website=fifadata.com |publisher=FIFA |page=22}}</ref>
+| birth_date = {{birth date and age|1999|3|3|df=y}}
+| birth_place = [[Ulundi]], South Africa
+| height = 1.86 m
+| position = [[Midfielder]]
+| currentclub = [[C.D. Tondela|Tondela]]
+| clubnumber = 15
+| youthyears1 = 2016–2017
+| youthclubs1 = KZN Academy
+| youthyears2 = 2017–2018
+| youthclubs2 = [[Sporting CP|Sporting]]
+| youthyears3 = 2018–2019
+| youthclubs3 = [[Vitória F.C.|Vitória Setúbal]]
+| years1 = 2019–2023
+| clubs1 = [[B-SAD]]
+| caps1 = 71
+| goals1 = 0
+| years2 = 2023–
+| clubs2 = [[C.D. Tondela|Tondela]]
+| caps2 = 48
+| goals2 = 3
+| years3 = 2024–2025
+| clubs3 = → [[Gil Vicente F.C.|Gil Vicente]] (loan)
+| caps3 = 2
+| goals3 = 0
+| totalcaps = 
+| totalgoals = 
+| medaltemplates = 
+| pcupdate = 18 May 2026
+| nationalyears1 = 2015
+| nationalteam1 = [[South Africa national under-17 soccer team|South Africa under-17]]
+| nationalyears2 = 2022–
+| nationalteam2 = [[South Africa national soccer team|South Africa]]
+| nationalcaps2 = 27
+| nationalgoals2 = 1
+| nationalteam-update = 29 April 2026
+}}
+'''Sphephelo S'Miso "Yaya" Sithole''' (born 3 March 1999) is a South African professional [[Association football|footballer]] who plays as a [[midfielder]] for [[Liga Portugal]] club [[C.D. Tondela|CD Tondela]] and the [[South Africa national soccer team|South Africa national team]].
+
+==Professional career==
+Sithole made his professional debut with [[B-SAD]] in a 1–1 [[Primeira Liga]] tie with [[S.C. Braga|Braga]] on 15 July 2020.<ref>{{Cite web|url=https://int.soccerway.com/matches/2020/07/15/portugal/portuguese-liga-/sporting-braga/clube-futebol--os-belenenses/3064926/|title=Sporting Braga vs. Belenenses – 15 July 2020 – Soccerway|website=int.soccerway.com}}</ref>
+
+On 11 July 2023, following B-SAD's [[2022–23 Belenenses SAD season|relegation]] from the [[Liga Portugal 2]], Sithole signed a two-year contract with [[C.D. Tondela|Tondela]].<ref>{{Cite web |date=11 July 2023 |title=Oficial: Sithole contratado à B SAD (Tondela) |trans-title=Official: Sithole signed from B SAD (Tondela) |url=https://www.abola.pt/Nnh/Noticias/Ver/https%3a%2f%2fwww.abola.pt%2fNnh%2fNoticias%2fVer%2f995874 |access-date=11 July 2023 |website=A Bola |language=pt}}</ref>
+
+On 22 July 2024, Sithole joined Primeira Liga club [[Gil Vicente F.C.|Gil Vicente]] on a season-long loan deal with the option to purchase.<ref>{{cite web|url=https://gilvicentefc.pt/2024/07/22/yaya-sithole-e-galo-e-ja-se-juntou-ao-grupo/|trans-title=YAYA SITHOLE IS A GALO AND HAS ALREADY JOINED THE GROUP|title=YAYA SITHOLE É GALO E JÁ SE JUNTOU AO GRUPO|language=Portuguese|website=gilvicentefc.pt|date=22 July 2024|accessdate=22 July 2024}}</ref>
+
+==International career==
+
+On 1 December 2025, Sithole was called up to the South Africa squad for the [[2025 Africa Cup of Nations]].<ref>{{cite web|url=https://www.cafonline.com/afcon2025/news/totalenergies-afcon-morocco-2025-fever-rises-as-broos-become-first-coach-to-unveil-final-squad/|title=TotalEnergies AFCON Morocco 2025 fever rises as Broos become first coach to unveil final squad|publisher=[[Confederation of African Football]]|date=1 December 2025|access-date=12 December 2025}}</ref>
+
+===International===
+{{updated|match played 15 November 2025}}
+{|class=wikitable style=text-align:center
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="4"|[[South Africa national football team|South Africa]]
+|2022||3||0
+|-
+|2023||6||0
+|-
+|2024||12||0
+|-
+|2025||2||1
+|-
+!colspan=2|Total||23||1
+|}
+
+== Honours ==
+'''South Africa'''
+
+* [[Africa Cup of Nations]] third place: [[2023 Africa Cup of Nations|2023]]<ref>{{Cite web |last=Edwards |first=Piers |date=10 February 2024 |title=South Africa 0–0 DR Congo |url=https://www.bbc.com/sport/football/68190249 |url-status=live |archive-url=https://web.archive.org/web/20240212015031/https://www.bbc.com/sport/football/68190249 |archive-date=12 February 2024 |access-date=12 February 2024 |website=BBC Sport |publisher=}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Soccerway|sphephelo-sithole/425522}}
+* {{ForaDeJogo|199905030003}}
+
+{{C.D. Tondela squad}}
+{{Navboxes
+| title = South Africa squads
+| bg        = #FFB81C
+| fg        = #007749
+| bordercolor = #007749
+| list =
+{{South Africa squad 2023 Africa Cup of Nations}}
+{{South Africa squad 2025 Africa Cup of Nations}}
+{{South Africa squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Sithole, Sphephelo}}
+[[Category:1999 births]]
+[[Category:Living people]]
+[[Category:Soccer players from Durban]]
+[[Category:South African men's soccer players]]
+[[Category:Men's association football midfielders]]
+[[Category:Primeira Liga players]]
+[[Category:Campeonato de Portugal (league) players]]
+[[Category:Liga Portugal 2 players]]
+[[Category:B-SAD players]]
+[[Category:C.D. Tondela players]]
+[[Category:Gil Vicente F.C. players]]
+[[Category:South African expatriate men's soccer players]]
+[[Category:South African expatriate sportspeople in Portugal]]
+[[Category:Expatriate men's footballers in Portugal]]
+[[Category:2023 Africa Cup of Nations players]]
+[[Category:2025 Africa Cup of Nations players]]
+[[Category:21st-century South African sportsmen]]
+[[Category:2026 FIFA World Cup players]]

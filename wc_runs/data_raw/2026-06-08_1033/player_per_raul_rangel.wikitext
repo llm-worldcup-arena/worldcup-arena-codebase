@@ -1,0 +1,164 @@
+{{short description|Mexican footballer (born 2000)}}
+{{family name hatnote|Rangel|Aguilar|lang=Spanish}}
+{{Infobox football biography
+| name = Raúl Rangel
+| image = Raúl Rangel.png
+| caption = Rangel in 2025
+| fullname = José Raúl Rangel Aguilar<ref name=wf>{{WorldFootball.net|jose-rangel}}</ref>
+| birth_date = {{Birth date and age|2000|02|25|df=y}}
+| birth_place = [[Zapotlán el Grande]], Mexico<ref name=wf/>
+| height = 1.90 m<ref name=wf/>
+| position = [[Goalkeeper (association football)|Goalkeeper]]
+| currentclub = [[C.D. Guadalajara|Guadalajara]]
+| clubnumber = 1
+| youthyears1 = 2015–2020
+| youthclubs1 = [[C.D. Guadalajara|Guadalajara]]
+| years1 = 2020–2023
+| clubs1 = [[C.D. Tapatío|Tapatío]]
+| caps1 = 63
+| goals1 = 0
+| years2 = 2023–
+| clubs2 = [[C.D. Guadalajara|Guadalajara]]
+| caps2 = 81
+| goals2 = 0
+| nationalyears1 = 2024–
+| nationalteam1 = [[Mexico national football team|Mexico]]
+| nationalcaps1 = 14
+| nationalgoals1 = 0
+| club-update = 15 February 2026
+| nationalteam-update = 4 June 2026
+| medaltemplates = {{Medal|Sport|Men's [[association football|football]]}}
+{{Medal|Country|{{fb|MEX}}}}
+{{MedalCompetition|[[CONCACAF Gold Cup]]}}
+{{Medal|W|[[2025 CONCACAF Gold Cup|2025 United States–Canada]]|}}
+{{MedalCompetition|[[CONCACAF Nations League]]}}
+{{Medal|W|[[2025 CONCACAF Nations League Finals|2025 United States]]|}}
+}}
+
+'''José Raúl Rangel Aguilar''' (born 25 February 2000), commonly known as "'''Tala Rangel'''", is a Mexican professional [[Association football|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for [[Liga MX]] club [[C.D. Guadalajara|Guadalajara]] and the [[Mexico national football team|Mexico national team]].
+
+==Club career==
+Rangel began his professional career at [[C.D. Guadalajara|Guadalajara]], rising through the club's youth academy before making his senior debut for affiliate side [[C.D. Tapatío|Tapatío]] on 20 September 2020 in a 3–0 victory over Alebrijes de Oaxaca.<ref>{{cite web |url=https://el.soccerway.com/matches/2020/09/21/mexico/liga-de-ascenso/tapatio/zacatepec/3335671/ |title=Tapatío vs. Alebrijes de Oaxaca - 20 September 2020|publisher=Soccerway|access-date=1 April 2024}}</ref> He went on to make his first-team debut for Guadalajara on 1 October 2023, in a match that ended in a 1–1 draw against Toluca.<ref>{{cite web |url=https://www.chivasdecorazon.com.mx/es/noticias/36876/10-cosas-que-no-sabas-del-Tala-Rangel |title=10 cosas que no sabías del 'Tala' Rangel|publisher=Club Deportivo Guadalajara|access-date=1 April 2024}}</ref>
+
+==International career==
+Rangel made his debut for the senior [[Mexico national football team|national team]] on 5 June 2024, in a friendly against [[Uruguay national football team|Uruguay]] at the [[Empower Field at Mile High]] in Denver, he played the full game as Uruguay won 4–0.<ref>{{cite web|publisher=ESPN|url=https://www.espn.com/soccer/match/_/gameId/692532|title=Mexico v Uruguay game report|date=5 June 2024}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 30 November 2025}}<ref>{{Soccerway|jose-raul-rangel-aguilar/620470}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|Cup
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="5"|[[C.D. Tapatío|Tapatío]]
+|[[2020–21 Liga de Expansión MX season|2020–21]]
+|rowspan="4"|[[Liga de Expansión MX]]
+|24||0||colspan=2|—||colspan=2|—||colspan=2|—||24||0
+|-
+|[[2021–22 Liga de Expansión MX season|2021–22]]
+|27||0||colspan=2|—||colspan=2|—||colspan=2|—||27||0
+|-
+|[[2022–23 Liga de Expansión MX season|2022–23]]
+|6||0||colspan=2|—||colspan=2|—||colspan=2|—||6||0
+|-
+|[[2023–24 Liga de Expansión MX season|2023–24]]
+|6||0||colspan=2|—||colspan=2|—||colspan=2|—||6||0
+|-
+!colspan="2"|Total
+!63!!0!!colspan=2|—!!colspan=2|—!!colspan=2|—!!63!!0
+|-
+|rowspan="6"|[[C.D. Guadalajara|Guadalajara]]
+|[[2021–22 Liga MX season|2021–22]]
+|rowspan="5"|[[Liga MX]]
+|0||0||colspan=2|—||colspan=2|—||colspan=2|—||0||0
+|-
+|[[2022–23 Liga MX season|2022–23]]
+|0||0||colspan=2|—||colspan=2|—||colspan=2|—||0||0
+|-
+|[[2023–24 Liga MX season|2023–24]]
+|23||0||colspan=2|—||0||0||2{{efn|name=LC|Appearances in [[Leagues Cup]]}}||0||25||0
+|-
+|[[2024–25 Liga MX season|2024–25]]
+|33||0||colspan=2|—||4||0||2{{efn|name=LC}}||0||39||0
+|-
+|[[2025–26 Liga MX season|2025–26]]
+|19||0||colspan=2|—||colspan=2|—||3{{efn|name=LC}}||0||22||0
+|-
+!colspan="2"|Total
+!75!!0!!colspan=2|—!!4!!0!!7!!0!!86!!0
+|-
+!colspan="3"|Career total
+!138!!0!!0!!0!!4!!0!!7!!0!!149!!0
+|}
+
+{{notelist}}
+
+===International===
+{{updated|match played 4 June 2026}}<ref name="NFT">{{NFT player|94913}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="3"|[[Mexico national football team|Mexico]]
+|2024||2||0
+|-
+|2025||4||0
+|-
+|2026||8||0
+|-
+!colspan="2"|Total!!14!!0
+|}
+
+==Honours==
+'''Tapatío'''
+*[[Liga de Expansión MX]]: [[2022–23 Liga de Expansión MX season#Clausura 2023|Clausura 2023]]<ref>{{cite web |url=https://mexico.as.com/futbol/futbol-mexicano/tapatio-campeon-de-la-liga-de-expansion-n/ |title=Tapatío, campeón de la Liga de Expansión |publisher=mexico.as.com|date=20 May 2023 |access-date=1 April 2024}}</ref>
+
+'''Mexico'''
+*[[CONCACAF Gold Cup]]: [[2025 CONCACAF Gold Cup|2025]]<ref>{{Cite web |title=United States 1-2 Mexico: Mauricio Pochettino's side beaten in Gold Cup final |url=https://www.bbc.com/sport/football/live/cy4nj815ep1t |access-date=2025-07-07 |website=BBC Sport |language=en-GB}}</ref>
+*[[CONCACAF Nations League]]: [[2024–25 CONCACAF Nations League|2024–25]]<ref>{{Cite news |last= |first= |date=2025-03-24 |title=Mexico win first Nations League final thanks to Raúl Jiménez double |url=https://www.theguardian.com/football/2025/mar/24/mexico-concacaf-nations-league-panama-raul-jimenez#:~:text=Ra%C3%BAl%20Jim%C3%A9nez%20scored%20his%20second,tournament%20for%20the%20first%20time. |access-date=2025-03-24 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref>
+
+==References==
+{{reflist}}
+
+{{C.D. Guadalajara squad}}
+{{Navboxes
+|title=Mexico squads
+|bg = #016549
+|fg = White
+|bordercolor =#CE1126
+|list1=
+{{Mexico squad 2024 Copa América}}
+{{Mexico squad 2025 CONCACAF Gold Cup}}
+{{Mexico squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Rangel, Raul}}
+[[Category:2000 births]]
+[[Category:Living people]]
+[[Category:Footballers from Jalisco]]
+[[Category:Mexican men's footballers]]
+[[Category:Men's association football goalkeepers]]
+[[Category:C.D. Guadalajara footballers]]
+<!--[[Category:C.D. Tapatío players]]-->
+[[Category:Liga MX players]]
+[[Category:Liga de Expansión MX players]]
+[[Category:Mexico men's international footballers]]
+[[Category:2024 Copa América players]]
+[[Category:2025 CONCACAF Gold Cup players]]
+[[Category:2026 FIFA World Cup players]]
+[[Category:21st-century Mexican sportsmen]]
+[[Category:CONCACAF Gold Cup–winning players]]
+
+{{Mexico-footy-bio-stub}}

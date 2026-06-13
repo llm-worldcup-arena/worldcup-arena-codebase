@@ -8,7 +8,7 @@ import json, re, os, urllib.request, urllib.parse
 from collect_squads import persons_path, load_json, dump_json
 
 UA = "WorldCup2026-BG-Research/1.0 (academic benchmark; mailto:zhenran.w.1103@gmail.com)"
-RAW_BASE = "/home/ubuntu/worldcup_2026/wc_runs/raw/bg"
+RAW_BASE = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))) + "/wc_runs/data_raw"   # 可移植
 
 
 def api(host, params):

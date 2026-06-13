@@ -1,0 +1,24 @@
+{
+ "team": "GER",
+ "coach": {
+  "name_zh": "尤利安·纳格尔斯曼",
+  "name_en": "Julian Nagelsmann",
+  "nationality": "West Germany",
+  "career_since": "2016",
+  "person_id": "per_julian_nagelsmann"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 尤利安·纳格尔斯曼（Julian Nagelsmann），德国籍，2016年开启执教生涯，现任德国国家队主教练。\n- 率队以5胜1负战绩晋级2026世界杯，6月14日首战对阵库拉索。\n- 敲定40岁伤愈门将诺伊尔首发揭幕战，后者已缺席正式比赛近一个月。\n- 对替补门将鲍曼的职业态度公开致谢，称其\"完全服务于团队\"。\n- 麾下拥有多名球星，但德国队未被列为本届世界杯夺冠热门。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.92,
+  "issues": []
+ },
+ "brief_fetched": "2026-06-13_1138",
+ "brief_info_chars": 5198
+}

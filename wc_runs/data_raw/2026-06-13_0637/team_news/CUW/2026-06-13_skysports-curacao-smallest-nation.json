@@ -1,0 +1,16 @@
+{
+ "team": "CUW",
+ "source": "Sky Sports",
+ "url": "https://www.skysports.com/football/news/12098/13545528/world-cup-2026-curacao-caribbean-nations-historic-first-appearance",
+ "title": "World Cup 2026: All you need to know about Dick Advocaat's Curacao - the tournament's smallest ever nation",
+ "news_date": "2026-06-13",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-13",
+ "fetched": "2026-06-13_0637",
+ "method": "jsonld:articleBody",
+ "status": "ok",
+ "original_text": "On Tuesday November 18 2025, Curacao travelled to Kingston to take on Jamaica in a winner-takes-all World Cup qualifier. Jamaica - led by Steve McClaren - trailed their opponents by one point, so needed to win to reach the tournament for the second time, and the first time since France '98. Curacao - led by Dick Advocaat - only needed one point to qualify for the tournament for the first time in history. A 0-0 draw ensured they did just that. World Cup full fixture schedule and KO times World Cup Group guides | World Cup squads | World Cup kits",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

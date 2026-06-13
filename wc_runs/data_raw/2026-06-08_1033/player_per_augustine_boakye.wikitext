@@ -1,0 +1,121 @@
+{{short description|Ghanaian footballer (born 2000)}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+| name = Augustine Boakye
+| image = File:Boakye ASSE MHSC 2425.png
+| caption = Augustine Boakye in 2024.
+| fullname = 
+| birth_date = {{Birth date and age|2000|11|03|df=y}}
+| birth_place = [[Bompata]], Ghana
+| height = 1.78 m<ref name="rzp" />
+| position = [[Midfielder]]
+| currentclub = [[AS Saint-Étienne|Saint-Étienne]]
+| clubnumber = 20
+| youthyears1 = 
+| youthclubs1 = 
+| years1 = 2018–2021
+| clubs1 = [[West African Football Academy|WAFA]]
+| caps1 = 51
+| goals1 = 10
+| years2 = 2021–2024
+| clubs2 = [[Wolfsberger AC]]
+| caps2 = 41
+| goals2 = 12
+| years3 = 2021–2022
+| clubs3 = [[Wolfsberger AC|Wolfsberger AC II]]
+| caps3 = 16
+| goals3 = 5
+| years4 = 2024–
+| clubs4 = [[AS Saint-Étienne|Saint-Étienne]]
+| caps4 = 48
+| goals4 = 8
+| nationalyears1 = 
+| nationalteam1 = 
+| nationalcaps1 = 
+| nationalgoals1 = 
+| club-update = 11 May 2026
+| nationalteam-update = 
+}}
+
+'''Augustine Boakye''' (born 3 November 2000) is a Ghanaian professional [[association football|footballer]] who plays as a [[midfielder]] for {{French football updater|Saint-Étienne}} club [[AS Saint-Étienne|Saint-Étienne]] and the [[Ghana national football team|Ghana national team]].
+
+==Career==
+Boakye began his football career with [[West African Football Academy|WAFA]] in the [[Ghana Premier League]].<ref>{{Cite web|url=https://ghanasoccernet.com/talent-tavern-wafa-whiz-kid-augustine-boakye-marks-ghana-premier-league-debut-in-liberty-win |title=Talent Tavern: WAFA whiz kid Augustine Boakye marks Ghana Premier League debut in Liberty win |date=27 March 2018 |accessdate=12 April 2020 |publisher=Ghana Web}}</ref>
+
+In August 2021, Boakye signed a four-year contract with [[Austrian Football Bundesliga]] club [[Wolfsberger AC]].<ref name="rzp">{{cite web |title=Servus Augustine {{!}} RZ Pellets WAC |url=https://www.rzpelletswac.at/2021/08/31/servus-augustine/ |website=Wolfsberger AC |language=de-DE |date=31 August 2021}}</ref>
+
+In July 2024, Boakye joined [[Ligue 1]] side [[AS Saint-Étienne|Saint-Étienne]], signing a four-year deal with an option of an additional year.<ref>{{cite web|url=https://www.asse.fr/fr/actualites/augustine-boakye-est-vert--ac36879|title=Augustine Boakye est Vert !|publisher=[[AS Saint-Étienne]]|date=13 July 2024|accessdate=15 July 2024}}</ref>
+
+==Career statistics==
+
+===Club===
+{{updated|12 April 2020.}}
+
+{| class="wikitable" style="text-align: center"
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|Cup
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+|-
+|rowspan="2"|[[West African Football Academy|WAFA]]
+|[[2018 Ghanaian Premier League|2018]]
+|rowspan="2"|[[Ghana Premier League]]
+|12||1||0||0||colspan="2" |–||0||0||12||1
+|-
+|[[2019–20 Ghanaian Premier League|2019–20]]
+|10||0||0||0||colspan="2" |–||0||0||10||0
+|-
+! colspan="3" |'''Career total'''
+!22!!1!!0!!0!!0!!0!!0!!0!!22!!1
+|}
+;Notes
+{{Reflist|group=lower-alpha}}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{soccerway|augustine-boakye/787521}}
+
+{{AS Saint-Étienne squad}}
+{{Ghana squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Boakye, Augustine}}
+[[Category:2000 births]]
+[[Category:Living people]]
+[[Category:Ghanaian men's footballers]]
+[[Category:Ghanaian expatriate men's footballers]]
+[[Category:Men's association football midfielders]]
+[[Category:Ghana Premier League players]]
+[[Category:Austrian Football Bundesliga players]]
+[[Category:Ligue 1 players]]
+[[Category:Ligue 2 players]]
+[[Category:West African Football Academy players]]
+[[Category:Wolfsberger AC players]]
+[[Category:Expatriate men's footballers in Austria]]
+[[Category:Ghanaian expatriate sportspeople in Austria]]
+[[Category:Footballers from Ashanti Region]]
+[[Category:AS Saint-Étienne players]]
+[[Category:Ghanaian expatriate sportspeople in France]]
+[[Category:Expatriate men's footballers in France]]
+[[Category:21st-century Ghanaian sportsmen]]
+[[Category:2026 FIFA World Cup players]]
+
+
+{{Ghana-footy-forward-stub}}

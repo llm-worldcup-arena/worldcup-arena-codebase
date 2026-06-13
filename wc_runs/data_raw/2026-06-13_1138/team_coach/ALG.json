@@ -1,0 +1,24 @@
+{
+ "team": "ALG",
+ "coach": {
+  "name_zh": "弗莱基米尔·佩特科维奇",
+  "name_en": "Vladimir Petković",
+  "nationality": "SFR Yugoslavia",
+  "career_since": "1997",
+  "person_id": "per_vladimir_petkovic"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 弗莱基米尔·佩特科维奇（Vladimir Petković），前南斯拉夫籍，自1997年起执教，现任阿尔及利亚国家队主教练。\n- 2026年美加墨世界杯周期，已公布27人初选名单，带队重返世界杯舞台。\n- 麾下拥有马赫雷斯等经验领袖与伊布拉希姆·马扎等新兴核心，目标打造非洲最具威胁球队之一。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 1.0,
+  "issues": []
+ },
+ "brief_fetched": "2026-06-13_1138",
+ "brief_info_chars": 461
+}

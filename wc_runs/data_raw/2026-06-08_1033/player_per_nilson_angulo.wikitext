@@ -1,0 +1,218 @@
+{{Short description|Ecuadorian footballer (born 2003)}}
+{{Family name hatnote|Angulo|Ramírez|lang=Spanish}}
+{{Use dmy dates|date=November 2021}}
+{{Infobox football biography
+|name = Nilson Angulo
+|full_name = Nilson David Angulo Ramírez<ref name="FIFA">{{cite web |url=https://fdp.fifa.org/assetspublic/ce89/pdf/SquadLists-English.pdf |title=FIFA U-20 World Cup Argentina 2023™ SQUAD LIST: Ecuador (ECU) |publisher=FIFA |page=5 |date=22 May 2023 |access-date=30 May 2023}}</ref>
+|image = Nilson Angulo RSC Anderlecht 2025.jpg
+|caption = Angulo with [[R.S.C. Anderlecht|Anderlecht]] in 2025
+|birth_date = {{birth date and age|2003|6|19|df=yes}}<ref name="FIFA"/>
+|birth_place = [[Quinindé]], Ecuador
+|height = 1.84 m<ref name="FIFA"/>
+|position = [[Winger (association football)|Winger]], [[Wide midfielder]]
+|currentclub = [[Sunderland A.F.C.|Sunderland]]
+|clubnumber = 10
+|youthyears1 = 2015–2018
+|youthclubs1 = [[Independiente del Valle]]
+|youthyears2 = 2018–2020
+|youthclubs2 = [[C.S. Norte América]]
+|youthyears3 = 2020–2021
+|youthclubs3 = [[L.D.U. Quito|LDU Quito]]
+|youthyears4 = 2020
+|youthclubs4 = → Atlético Kin (loan)
+|years1 = 2021–2022
+|clubs1 = [[L.D.U. Quito|LDU Quito]]
+|caps1 = 35
+|goals1 = 7
+|years2 = 2022–2026
+|clubs2 = [[RSC Anderlecht|Anderlecht]]
+|caps2 = 71
+|goals2 = 8
+|years3 = 2022–2025
+|clubs3 = [[RSCA Futures]]
+|caps3 = 31
+|goals3 = 9
+|years4 = 2026–
+|clubs4 = [[Sunderland A.F.C.|Sunderland]]
+|caps4 = 8
+|goals4 = 0
+|nationalyears1 = 2023
+|nationalteam1 = [[Ecuador national under-20 football team|Ecuador U20]]
+|nationalcaps1 = 4
+|nationalgoals1 = 0
+|nationalyears2 = 2021–
+|nationalteam2 = [[Ecuador national football team|Ecuador]]
+|nationalcaps2 = 13
+|nationalgoals2 = 1
+|pcupdate = 24 May 2026
+|ntupdate = 30 May 2026
+}}
+
+'''Nilson David Angulo Ramírez''' (born 19 June 2003) is an Ecuadorian professional [[association football|footballer]] who plays as a [[winger (association football)|winger]] or [[wide midfielder]] for [[Premier League]] club [[Sunderland A.F.C.|Sunderland]] and the [[Ecuador national football team|Ecuador national team.]]
+
+==Club career==
+Angulo started his senior career at [[L.D.U. Quito|LDU Quito]]. In June 2022, he joined [[Belgian First Division A]] side [[R.S.C. Anderlecht|Anderlecht]] on a five-year deal.<ref>{{cite web |url=https://www.rsca.be/en/angulo |title=BIENVENIDO, NILSON ANGULO |publisher=[[R.S.C. Anderlecht]] |date=21 June 2022 |accessdate=22 June 2022}}</ref> He scored his first goal for the club in a 2–1 away win over [[Club Brugge KV|Club Brugge]] on 5 February 2024.<ref>{{cite web |url=https://www.espn.com/soccer/match/_/gameId/674600/anderlecht-club-brugge |title=Club Brugge 1–2 Anderlecht |publisher=ESPN |date=5 February 2024 }}</ref>
+
+===Sunderland===
+On 2 February 2026, Angulo signed for [[Sunderland A.F.C.|Sunderland]] on a four-and-a-half year deal.<ref>{{Cite news|url=https://www.safc.com/news/2026/february/02/nilson-angulo-signs-for-sunderland/|title=Nilson Angulo Signs for Sunderland|publisher=[[Sunderland A.F.C.]]|date=2 February 2026|access-date=2 February 2026}}</ref>
+
+==International career==
+In October 2021, Angulo made his senior international debut for [[Ecuador national football team|Ecuador]], playing in a 3–2 friendly win over [[Mexico national football team|Mexico]].<ref>{{cite web |url=https://int.soccerway.com/matches/2021/10/28/world/friendlies/mexico/ecuador/3624760/ |title=MEXICO VS. ECUADOR  2 - 3 |website=soccerway.com |date=28 October 2021 |accessdate=22 June 2022}}</ref>
+
+On 9 May 2023, Angulo was called up for the [[2023 FIFA U-20 World Cup]] in Argentina.<ref>{{cite web|url=https://www.ecuavisa.com/deportes/futbol-internacional/mundial-sub-20-estos-son-los-convocados-de-ecuador-que-disputaran-este-torneo-CG5091455|title=Mundial Sub 20: Estos son los convocados de Ecuador que disputaran este torneo|publisher=[[Ecuavisa]]|first=Fernando|last=Guevara|date=9 May 2023|language=es}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 24 May 2026}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup{{efn|Includes [[Belgian Cup]], [[FA Cup]]}}
+!colspan="2"|League cup
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="3"|[[L.D.U. Quito|LDU Quito]]
+|[[2021 Ecuadorian Serie A|2021]]
+|[[LigaPro Serie A]]
+|11||1||0||0||colspan="2"|—||1{{efn|name=COS|Appearance(s) in [[Copa Sudamericana]]}}||0||1{{efn|Appearance in [[Supercopa Ecuador]]}}||0||13||1
+|-
+|[[2022 Ecuadorian Serie A|2022]]
+|LigaPro Serie A
+|13||2||0||0||colspan="2"|—||8{{efn|name=COS}}||3||colspan="2"|—||21||5
+|-
+!colspan="2"|Total
+!24!!3!!0!!0!!colspan="2"|—!!9!!3!!1!!0!!34!!6
+|-
+|rowspan="5"|[[RSC Anderlecht|Anderlecht]]
+|[[2022–23 R.S.C. Anderlecht season|2022–23]]
+|[[Belgian Pro League]]
+|6||0||1||0||colspan="2"|—||4{{efn|Appearances in [[UEFA Europa Conference League]]}}||0||colspan="2"|—||11||0
+|-
+|[[2023–24 R.S.C. Anderlecht season|2023–24]]
+|Belgian Pro League
+|14||1||0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||14||1
+|-
+|[[2024–25 R.S.C. Anderlecht season|2024–25]]
+|Belgian Pro League
+|29||1||2||0||colspan="2"|—||7{{efn|name=UEL|Appearances in [[UEFA Europa League]]}}||1||colspan="2"|—||38||2
+|-
+|[[2025–26 RSC Anderlecht season|2025–26]]
+|Belgian Pro League
+|22||6||3||0||colspan="2"|—||5{{efn|Two appearances in UEFA Europa League, three appearance and one goal in UEFA Conference League}}||1||colspan="2"|—||30||7
+|-
+!colspan="2"|Total
+!71!!8!!6!!0!!colspan="2"|—!!16!!2!!colspan="2"|—!!92!!10
+|-
+|rowspan="4"|[[RSCA Futures]]
+|[[2022–23 Challenger Pro League|2022–23]]
+|[[Challenger Pro League]]
+|11||2||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||11||2
+|-
+|[[2023–24 Challenger Pro League|2023–24]]
+|Challenger Pro League
+|15||5||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||15||5
+|-
+|[[2024–25 Challenger Pro League|2024–25]]
+|Challenger Pro League
+|5||2||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||5||2
+|-
+!colspan="2"|Total
+!31!!9!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!31!!9
+|-
+|[[Sunderland A.F.C.|Sunderland]]
+|[[2025–26 Premier League|2025–26]]
+|[[Premier League]]
+|8||0||1||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||9||0
+|-
+!colspan="3"|Career total
+!134!!20!!7!!0!!0!!0!!25!!5!!1!!0!!166!!25
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 7 June 2026}}
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="5"|[[Ecuador national football team|Ecuador]]
+|2021||1||0
+|-
+|2022||2||0
+|-
+|2024||1||0
+|-
+|2025||8||1
+|-
+|2026||2||1
+|-
+!colspan="2"|Total!!14!!2
+|}
+
+:''Scores and results list Venezuela's goal tally first, score column indicates score after each Angulo goal''
+
+{| class="wikitable sortable"
+|+ List of international goals scored by Nilson Angulo
+|-
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+|-
+|align=center|1||18 November 2025||[[Sports Illustrated Stadium]], [[Harrison, New Jersey|Harrison]], United States||{{fb|NZL}}||align=center|1–0||align=center|2–0||[[Exhibition game|Friendly]]
+|-
+|align=center|2||7 June 2026||[[ScottsMiracle-Gro Field]], [[Colombus, Ohio|Colombus]], United States||{{fb|GUA}}||align=center|2–0||align=center|3–0||[[Exhibition game|Friendly]]
+|}
+
+==Honours==
+'''LDU Quito'''
+* [[Supercopa Ecuador]]: [[2021 Supercopa Ecuador|2021]]
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Soccerway|nilson-david-angulo-ramirez/698696}}
+*{{NFT player|84505}}
+*{{worldfootball.net|nilson-angulo|new_id=pe773912}}
+
+{{Sunderland A.F.C. squad}}
+{{Ecuador squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Angulo, Nilson}}
+[[Category:2003 births]]
+[[Category:Living people]]
+[[Category:Ecuadorian men's footballers]]
+[[Category:21st-century Ecuadorian sportsmen]]
+[[Category:Footballers from Quito]]
+[[Category:L.D.U. Quito footballers]]
+[[Category:Ecuadorian Serie A players]]
+[[Category:Ecuador men's international footballers]]
+[[Category:Expatriate men's footballers in Belgium]]
+[[Category:RSC Anderlecht players]]
+[[Category:Sunderland A.F.C. players]]
+[[Category:Ecuadorian expatriate men's footballers]]
+[[Category:Ecuadorian expatriate sportspeople in Belgium]]
+[[Category:Challenger Pro League players]]
+[[Category:Premier League players]]
+[[Category:RSCA Futures players]]
+[[Category:Men's association football forwards]]
+[[Category:Expatriate men's footballers in England]]
+[[Category:Ecuadorian expatriate sportspeople in England]]
+[[Category:2026 FIFA World Cup players]]
+
+
+{{Ecuador-footy-forward-stub}}

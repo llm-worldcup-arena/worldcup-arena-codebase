@@ -1,0 +1,154 @@
+{{short description|Saudi Arabian footballer}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+| name        = Ziyad Al-Johani
+| image       =  Ziyad Al-Johani.jpg
+| caption = Al-Johani with [[Al Ahli Saudi FC|Al-Ahli]] in 2026
+| fullname    = Ziyad Mubarak Eid Al-Marwani Al-Johani
+| birth_date  = {{birth date and age|2001|11|11|df=yes}}
+| birth_place = [[Jeddah]], [[Saudi Arabia]]
+| height      = {{height|m=1.80|precision=}}
+| position    = [[Midfielder]]
+| currentclub = [[Al-Ahli Saudi FC|Al-Ahli]]
+| clubnumber  = 30
+| youthyears1 = 
+| youthclubs1 = [[Al-Ahli Saudi FC|Al-Ahli]]
+| years1 = 2020–
+| clubs1 = [[Al-Ahli Saudi FC|Al-Ahli]]
+| caps1  = 110
+| goals1 = 6
+| years2 = 
+| clubs2 = 
+| caps2  = 
+| goals2 = 
+| years3 = 
+| clubs3 = 
+| caps3  = 
+| goals3 = 
+| nationalyears1 = 2019–2021
+| nationalteam1  = [[Saudi Arabia national under-20 football team|Saudi Arabia U20]]
+| nationalcaps1  = 
+| nationalgoals1 = 
+| nationalyears2 = 2021–
+| nationalteam2  = [[Saudi Arabia national under-23 football team|Saudi Arabia U23]]
+| nationalcaps2  = 
+| nationalgoals2 = 
+| nationalyears3 = 2025–
+| nationalteam3  = [[Saudi Arabia national football team|Saudi Arabia]]
+| nationalcaps3  = 12
+| nationalgoals3 = 0
+| pcupdate = 20 May 2026 
+| ntupdate = 6 June 2026
+| medaltemplates=
+{{MedalSport|Men's [[association football|football]]}}
+{{MedalCountry|{{KSA}}}}
+{{MedalCompetition|[[Islamic Solidarity Games]]}}
+{{Medal|Silver|[[2021 Islamic Solidarity Games|2021 Konya]]|}}
+}}
+'''Ziyad Mubarak Eid Al-Marwani Al-Johani''' ({{langx|ar|زياد مبارك المرواني الجهني}}; born 11 November 2001) is a Saudi Arabian professional [[football (soccer)|footballer]] who plays as a [[midfielder]] for [[Al-Ahli Saudi FC|Al-Ahli]] and the [[Saudi Arabia national football team|Saudi Arabia national team]].<ref>{{cite web |title=زياد مبارك الجهني - Zaid Al-Johani|url=https://www.kooora.com/?player=139152}}</ref><ref name="soccerway">{{cite web |title=ZIYAD AL-JOHANI |url=https://int.soccerway.com/players/ziyad-aljohani/662796/}}</ref>
+
+==Career==
+Al-Johani started his career at the youth teams of [[Al-Ahli Saudi FC|Al-Ahli]]. He was first called up to the first team after the 2019–20 season resumed following the COVID-19 pandemic. He signed his first professional contract for the club on 8 August 2020.<ref>{{cite web |title=رسمياً..أهلي جدة يوقع عقداً احترافياً مع زياد الجهني لـ4 سنوات |url=https://kora.com/news/226575-%D8%B1%D8%B3%D9%85%D9%8A%D8%A7%D8%A3%D9%87%D9%84%D9%8A-%D8%AC%D8%AF%D8%A9-%D9%8A%D9%88%D9%82%D8%B9-%D8%B9%D9%82%D8%AF%D8%A7-%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%81%D9%8A%D8%A7-%D9%85%D8%B9-%D8%B2%D9%8A%D8%A7%D8%AF-%D8%A7%D9%84%D8%AC%D9%87%D9%86%D9%8A-%D9%84%D9%804-%D8%B3%D9%86%D9%88%D8%A7%D8%AA }}{{Dead link|date=September 2025 |bot=InternetArchiveBot }}</ref> He was then named on the bench for the first time in the [[Ittihad F.C.–Al-Ahli F.C. rivalry|derby match]] against [[Al-Ittihad Club (Jeddah)|Al-Ittihad]] a day later. He made his first-team on 30 May 2021 in the final league match of the season against [[Ettifaq FC|Al-Ettifaq]].<ref>{{cite web |title=تعرف على تشكيلة الأهلي لمباراة الاتفاق |url=https://sa.hihi2.com/2021/05/30/p148068.html}}</ref> On 24 July 2022, Al-Johani renewed his contract with Al-Ahli until the end of the 2025–26 season.<ref>{{cite web |title=الأهلي يجدد عقد زياد الجهني حتى 2026م |url=https://www.alriyadh.com/1963106}}</ref>
+
+==International career==
+In June 2023, he took part in the [[Maurice Revello Tournament]] in France<ref>{{cite web| url=https://www.tournoimauricerevello.com/smartphone/festival/archives/joueurs.php?annee=2023| title=Festival International Espoirs Football Tournoi Maurice Revello Toulon| publisher=Maurice Revello Tournament| website=tournoimauricerevello.com| language=fr| accessdate=14 May 2025}}</ref> with Saudi Arabia.
+
+==Career statistics==
+
+===Club===
+{{updated|27 May 2024}}<ref name="soccerway" /><ref>{{cite web |title=Ziyad Al Johani - Fbref |url=https://fbref.com/en/players/ac0a9132/Ziyad-Al-Johani}}</ref>
+
+{| class="wikitable" style="text-align: center"
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=2|League
+!colspan=2|King Cup
+!colspan=2|Asia
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+|-
+|rowspan=5 |[[Al-Ahli Saudi FC|Al-Ahli]]
+|[[2020–21 Al-Ahli Saudi FC season|2020–21]]
+|1||0||0||0||0||0||colspan=2|—||1||0
+|-
+|[[2021–22 Al-Ahli Saudi FC season|2021–22]]
+|10||0||0||0||colspan=2|—||colspan=2|—||10||0
+|-
+|[[2022–23 Al-Ahli Saudi FC season|2022–23]]
+|22||2||colspan=2|—||colspan=2|—||colspan=2|—||22||2
+|-
+|[[2023–24 Al-Ahli Saudi FC season|2023–24]]
+|22||2||2||0||colspan=2|—||colspan=2|—||24||2
+|-
+!Total
+!55!!4!!2!!0!!0!!0!!0!!0!!57!!4
+|-
+! colspan=2 | Career totals
+!55!!4!!2!!0!!0!!0!!0!!0!!57!!4
+|}
+
+{{notelist}}
+
+==Honours==
+===Club===
+'''Al-Ahli'''
+*[[Saudi First Division League]]: [[2022–23 Saudi First Division League|2022–23]]
+*[[Saudi Super Cup]]: [[2025 Saudi Super Cup|2025]]
+*[[AFC Champions League Elite]]: [[2024-25 AFC Champions League Elite|2024–25]],<ref name=":02">{{Cite web |last=Lynch |first=Joey |date=3 May 2025 |title=Never taking their eyes off the prize, Al Ahli are champions of Asia at long last |url=https://global.espn.com/football/story/_/id/44984369/never-taking-eyes-prize-al-ahli-champions-asia-long-last |access-date=4 May 2025 |website=ESPN}}</ref> [[2025-26 AFC Champions League Elite|2025–26]]
+
+===International===
+'''Saudi Arabia U23'''
+*[[AFC U-23 Asian Cup]]: [[2022 AFC U-23 Asian Cup|2022]]
+*[[WAFF U-23 Championship]]: [[2022 WAFF U-23 Championship|2022]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Soccerway|662796}}
+* {{Goalzz|139152}}
+
+{{Al-Ahli Saudi FC squad}}
+{{Navboxes
+| title = Saudi Arabia squads
+| bg          = #006C35
+| fg          = white
+| bordercolor = #005429
+| list =
+{{Saudi Arabia squad 2025 CONCACAF Gold Cup}}
+{{Saudi Arabia squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Johani, Ziyad}}
+[[Category:2001 births]]
+[[Category:Living people]]
+[[Category:Footballers from Jeddah]]
+[[Category:Men's association football midfielders]]
+[[Category:Saudi Arabian men's footballers]]
+[[Category:Saudi Arabia men's youth international footballers]]
+[[Category:Saudi Arabia men's international footballers]]
+[[Category:21st-century Saudi Arabian sportsmen]]
+[[Category:Al-Ahli Saudi FC players]]
+[[Category:Saudi Pro League players]]
+[[Category:Saudi First Division League players]]
+[[Category:Islamic Solidarity Games medalists in football]]
+[[Category:Medalists at the 2021 Islamic Solidarity Games]]
+[[Category:Islamic Solidarity Games silver medalists for Saudi Arabia]]
+[[Category:AFC Champions League Elite–winning players]]
+[[Category:2025 CONCACAF Gold Cup players]]
+[[Category:2026 FIFA World Cup players]]
+
+
+{{SaudiArabia-footy-bio-stub}}

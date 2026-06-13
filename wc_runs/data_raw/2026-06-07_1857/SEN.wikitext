@@ -1,0 +1,35 @@
+===Current squad===
+The following players were called up to the [[2026 FIFA World Cup]] between 11 June – 19 July 2026 and the pre-tournament [[Exhibition game#International football|friendlies]] against [[United States men's national soccer team|United States]] and [[Saudi Arabia national football team|Saudi Arabia]] on 31 May and 9 June 2026; respectively.<ref>{{cite tweet|author=Senegalese Football Federation|author-link=Senegalese Football Federation|title=La liste des 26 Lions retenus par le sélectionneur national Pape Thiaw pour défendre les couleurs du Senegal à la Coupe du Monde 2026.|trans-title=The list of the 26 Lions selected by national team coach Pape Thiaw to represent Senegal at the 2026 World Cup.|number=2061625034532172127|user=GaindeYi|date=1 June 2026|access-date=2 June 2026|language=fr}}</ref>
+<br>''Caps and goals updated as of 31 May 2026, after the match against [[United States men's national soccer team|United States]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Yehvann Diouf]]|age={{birth date and age|1999|11|16|df=y}}|caps=2|goals=0|club=[[OGC Nice|Nice]]|clubnat=FRA}}
+{{nat fs g player|no=16|pos=GK|name=[[Édouard Mendy]]|age={{birth date and age|1992|3|1|df=y}}|caps=56|goals=0|club=[[Al-Ahli Saudi FC|Al-Ahli]]|clubnat=KSA}}
+{{nat fs g player|no=23|pos=GK|name=[[Mory Diaw]]|age={{birth date and age|1993|6|22|df=y}}|caps=5|goals=0|club=[[Le Havre AC|Le Havre]]|clubnat=FRA}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Mamadou Sarr]]|age={{birth date and age|2005|8|29|df=y}}|caps=7|goals=0|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs g player|no=3|pos=DF|name=[[Kalidou Koulibaly]]|age={{birth date and age|1991|6|20|df=y}}|caps=102|goals=2|club=[[Al Hilal SFC|Al-Hilal]]|clubnat=KSA}}
+{{nat fs g player|no=4|pos=DF|name=[[Abdoulaye Seck (footballer, born 1992)|Abdoulaye Seck]]|age={{birth date and age|1992|6|4|df=y}}|caps=22|goals=4|club=[[Maccabi Haifa F.C.|Maccabi Haifa]]|clubnat=ISR}}
+{{nat fs g player|no=14|pos=DF|name=[[Ismail Jakobs]]|age={{birth date and age|1999|8|17|df=y}}|caps=29|goals=0|club=[[Galatasaray S.K. (football)|Galatasaray]]|clubnat=TUR}}
+{{nat fs g player|no=15|pos=DF|name=[[Krépin Diatta]]|age={{birth date and age|1999|2|25|df=y}}|caps=60|goals=2|club=[[AS Monaco FC|Monaco]]{{efn|name=mon|[[AS Monaco FC|Monaco]] is a Monégasque club playing in the [[French football league system]].}}|clubnat=FRA}}
+{{nat fs g player|no=19|pos=DF|name=[[Moussa Niakhaté]]|age={{birth date and age|1996|3|8|df=y}}|caps=30|goals=0|club=[[Olympique Lyonnais|Lyon]]|clubnat=FRA}}
+{{nat fs g player|no=24|pos=DF|name=[[Antoine Mendy (footballer)|Antoine Mendy]]|age={{birth date and age|2004|5|27|df=y}}|caps=6|goals=0|club=[[OGC Nice|Nice]]|clubnat=FRA}}
+{{nat fs g player|no=25|pos=DF|name=[[El Hadji Malick Diouf]]|age={{birth date and age|2004|12|28|df=y}}|caps=19|goals=1|club=[[West Ham United F.C.|West Ham United]]|clubnat=ENG}}
+{{nat fs break}}
+{{nat fs g player|no=5|pos=MF|name=[[Idrissa Gueye]]|age={{birth date and age|1989|9|26|df=y}}|caps=130|goals=7|club=[[Everton F.C.|Everton]]|clubnat=ENG}}
+{{nat fs g player|no=6|pos=MF|name=[[Pathé Ciss]]|age={{birth date and age|1994|3|16|df=y}}|caps=29|goals=0|club=[[Rayo Vallecano]]|clubnat=ESP}}
+{{nat fs g player|no=8|pos=MF|name=[[Lamine Camara]]|age={{birth date and age|2004|1|1|df=y}}|caps=32|goals=5|club=[[AS Monaco FC|Monaco]]{{efn|name=mon}}|clubnat=FRA}}
+{{nat fs g player|no=17|pos=MF|name=[[Pape Matar Sarr]]|age={{birth date and age|2002|9|14|df=y}}|caps=39|goals=4|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG}}
+{{nat fs g player|no=21|pos=MF|name=[[Habib Diarra]]|age={{birth date and age|2004|1|3|df=y}}|caps=20|goals=4|club=[[Sunderland A.F.C|Sunderland]]|clubnat=ENG}}
+{{nat fs g player|no=22|pos=MF|name=[[Bara Sapoko Ndiaye]]|age={{birth date and age|2007|12|31|df=yes}}|caps=1|goals=0|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs g player|no=26|pos=MF|name=[[Pape Gueye]]|age={{birth date and age|1999|1|24|df=y}}|caps=41|goals=5|club=[[Villarreal CF|Villarreal]]|clubnat=ESP}}
+{{nat fs break}}
+{{nat fs g player|no=7|pos=FW|name=[[Assane Diao]]|age={{birth date and age|2005|12|7|df=y}}|caps=5|goals=0|club=[[Como 1907|Como]]|clubnat=ITA}}
+{{nat fs g player|no=9|pos=FW|name=[[Bamba Dieng]]|age={{birth date and age|2000|03|23|df=yes}}|caps=22|goals=2|club=[[FC Lorient|Lorient]]|clubnat=FRA}}
+{{nat fs g player|no=10|pos=FW|name=[[Sadio Mané]]|age={{birth date and age|1992|4|10|df=y}}|caps=127|goals=55|club=[[Al Nassr FC|Al-Nassr]]|clubnat=KSA}}
+{{nat fs g player|no=11|pos=FW|name=[[Nicolas Jackson]]|age={{birth date and age|2001|6|20|df=y}}|caps=32|goals=8|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs g player|no=12|pos=FW|name=[[Cherif Ndiaye]]|age={{birth date and age|1996|1|23|df=y}}|caps=18|goals=4|club=[[Samsunspor]]|clubnat=TUR}}
+{{nat fs g player|no=13|pos=FW|name=[[Iliman Ndiaye]]|age={{birth date and age|2000|3|6|df=y}}|caps=39|goals=4|club=[[Everton F.C.|Everton]]|clubnat=ENG}}
+{{nat fs g player|no=18|pos=FW|name=[[Ismaïla Sarr]]|age={{birth date and age|1998|2|25|df=y}}|caps=82|goals=19|club=[[Crystal Palace F.C.|Crystal Palace]]|clubnat=ENG}}
+{{nat fs g player|no=20|pos=FW|name=[[Ibrahim Mbaye]]|age={{birth date and age|2008|1|24|df=y}}|caps=10|goals=3|club=[[Paris Saint-Germain F.C.|Paris Saint-Germain]]|clubnat=FRA}}
+{{nat fs end}}

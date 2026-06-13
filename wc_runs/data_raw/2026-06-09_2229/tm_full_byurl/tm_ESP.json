@@ -1,0 +1,281 @@
+[
+ {
+  "player_id": "176553",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/176553",
+  "name": "AymericLaporte",
+  "shirt_number": 14,
+  "club": "Joined:",
+  "club_id": "621",
+  "market_value": "€8.00m",
+  "market_value_numeric": 8000000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Current club:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Outfitter:",
+  "nationality": "Spain",
+  "citizenships": [
+   "Spain",
+   "France",
+   "Spain",
+   "Spain",
+   "France",
+   "Spain",
+   "France"
+  ],
+  "market_value_history": [
+   {
+    "date": "Dec 17, 2012",
+    "value": "€600k",
+    "value_numeric": 600000,
+    "club": "Athletic Bilbao",
+    "age": "18"
+   },
+   {
+    "date": "Jan 11, 2013",
+    "value": "€1.00m",
+    "value_numeric": 1000000,
+    "club": "Athletic Bilbao",
+    "age": "18"
+   },
+   {
+    "date": "Jun 12, 2013",
+    "value": "€2.00m",
+    "value_numeric": 2000000,
+    "club": "Athletic Bilbao",
+    "age": "19"
+   },
+   {
+    "date": "Oct 21, 2013",
+    "value": "€4.00m",
+    "value_numeric": 4000000,
+    "club": "Athletic Bilbao",
+    "age": "19"
+   },
+   {
+    "date": "Jan 23, 2014",
+    "value": "€10.00m",
+    "value_numeric": 10000000,
+    "club": "Athletic Bilbao",
+    "age": "19"
+   },
+   {
+    "date": "Jul 20, 2014",
+    "value": "€15.00m",
+    "value_numeric": 15000000,
+    "club": "Athletic Bilbao",
+    "age": "20"
+   },
+   {
+    "date": "Jan 23, 2015",
+    "value": "€15.00m",
+    "value_numeric": 15000000,
+    "club": "Athletic Bilbao",
+    "age": "20"
+   },
+   {
+    "date": "Jul 1, 2015",
+    "value": "€15.00m",
+    "value_numeric": 15000000,
+    "club": "Athletic Bilbao",
+    "age": "21"
+   },
+   {
+    "date": "Nov 22, 2015",
+    "value": "€20.00m",
+    "value_numeric": 20000000,
+    "club": "Athletic Bilbao",
+    "age": "21"
+   },
+   {
+    "date": "Feb 22, 2016",
+    "value": "€25.00m",
+    "value_numeric": 25000000,
+    "club": "Athletic Bilbao",
+    "age": "21"
+   },
+   {
+    "date": "Jul 15, 2016",
+    "value": "€25.00m",
+    "value_numeric": 25000000,
+    "club": "Athletic Bilbao",
+    "age": "22"
+   },
+   {
+    "date": "Jan 24, 2017",
+    "value": "€25.00m",
+    "value_numeric": 25000000,
+    "club": "Athletic Bilbao",
+    "age": "22"
+   },
+   {
+    "date": "Jun 5, 2017",
+    "value": "€25.00m",
+    "value_numeric": 25000000,
+    "club": "Athletic Bilbao",
+    "age": "23"
+   },
+   {
+    "date": "Jan 1, 2018",
+    "value": "€25.00m",
+    "value_numeric": 25000000,
+    "club": "Athletic Bilbao",
+    "age": "23"
+   },
+   {
+    "date": "Mar 23, 2018",
+    "value": "€50.00m",
+    "value_numeric": 50000000,
+    "club": "Manchester City",
+    "age": "23"
+   },
+   {
+    "date": "May 28, 2018",
+    "value": "€50.00m",
+    "value_numeric": 50000000,
+    "club": "Manchester City",
+    "age": "24"
+   },
+   {
+    "date": "Dec 19, 2018",
+    "value": "€60.00m",
+    "value_numeric": 60000000,
+    "club": "Manchester City",
+    "age": "24"
+   },
+   {
+    "date": "Jun 13, 2019",
+    "value": "€75.00m",
+    "value_numeric": 75000000,
+    "club": "Manchester City",
+    "age": "25"
+   },
+   {
+    "date": "Dec 10, 2019",
+    "value": "€75.00m",
+    "value_numeric": 75000000,
+    "club": "Manchester City",
+    "age": "25"
+   },
+   {
+    "date": "Apr 8, 2020",
+    "value": "€60.00m",
+    "value_numeric": 60000000,
+    "club": "Manchester City",
+    "age": "25"
+   },
+   {
+    "date": "Oct 13, 2020",
+    "value": "€60.00m",
+    "value_numeric": 60000000,
+    "club": "Manchester City",
+    "age": "26"
+   },
+   {
+    "date": "Mar 18, 2021",
+    "value": "€50.00m",
+    "value_numeric": 50000000,
+    "club": "Manchester City",
+    "age": "26"
+   },
+   {
+    "date": "May 31, 2021",
+    "value": "€45.00m",
+    "value_numeric": 45000000,
+    "club": "Manchester City",
+    "age": "27"
+   },
+   {
+    "date": "Dec 23, 2021",
+    "value": "€45.00m",
+    "value_numeric": 45000000,
+    "club": "Manchester City",
+    "age": "27"
+   },
+   {
+    "date": "Jun 15, 2022",
+    "value": "€45.00m",
+    "value_numeric": 45000000,
+    "club": "Manchester City",
+    "age": "28"
+   },
+   {
+    "date": "Nov 3, 2022",
+    "value": "€38.00m",
+    "value_numeric": 38000000,
+    "club": "Manchester City",
+    "age": "28"
+   },
+   {
+    "date": "Mar 16, 2023",
+    "value": "€30.00m",
+    "value_numeric": 30000000,
+    "club": "Manchester City",
+    "age": "28"
+   },
+   {
+    "date": "Jun 20, 2023",
+    "value": "€25.00m",
+    "value_numeric": 25000000,
+    "club": "Manchester City",
+    "age": "29"
+   },
+   {
+    "date": "Dec 15, 2023",
+    "value": "€25.00m",
+    "value_numeric": 25000000,
+    "club": "Al-Nassr FC",
+    "age": "29"
+   },
+   {
+    "date": "Jun 4, 2024",
+    "value": "€20.00m",
+    "value_numeric": 20000000,
+    "club": "Al-Nassr FC",
+    "age": "30"
+   },
+   {
+    "date": "Dec 13, 2024",
+    "value": "€18.00m",
+    "value_numeric": 18000000,
+    "club": "Al-Nassr FC",
+    "age": "30"
+   },
+   {
+    "date": "May 27, 2025",
+    "value": "€15.00m",
+    "value_numeric": 15000000,
+    "club": "Al-Nassr FC",
+    "age": "31"
+   },
+   {
+    "date": "Oct 2, 2025",
+    "value": "€10.00m",
+    "value_numeric": 10000000,
+    "club": "Athletic Bilbao",
+    "age": "31"
+   },
+   {
+    "date": "Dec 12, 2025",
+    "value": "€9.00m",
+    "value_numeric": 9000000,
+    "club": "Athletic Bilbao",
+    "age": "31"
+   },
+   {
+    "date": "Jun 5, 2026",
+    "value": "€8.00m",
+    "value_numeric": 8000000,
+    "club": "Athletic Bilbao",
+    "age": "32"
+   }
+  ],
+  "peak_market_value": 75000000,
+  "transfers": [],
+  "_our_pid": "per_aymeric_laporte"
+ }
+]

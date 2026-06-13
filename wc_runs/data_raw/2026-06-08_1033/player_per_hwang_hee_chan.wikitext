@@ -1,0 +1,393 @@
+{{short description|South Korean footballer (born 1996)}}
+{{family name hatnote|Hwang||lang=Korean}}
+{{Use British English|date=June 2025}}
+{{Use dmy dates|date=June 2025}}
+{{Infobox football biography
+| name = Hwang Hee-chan
+| image = 240622 황희찬 풋볼 페스티벌.jpg
+| caption = Hwang in 2024
+| full_name = Hwang Hee-chan<ref>{{cite web |url=https://www.premierleague.com/news/2247219 |title=2021/22 Premier League squads confirmed |publisher=Premier League |date=10 September 2021 |access-date=13 September 2021}}</ref>
+| birth_date = {{Birth date and age|1996|1|26|df=y}}
+| birth_place = [[Chuncheon]], South Korea
+| height = 1.77 m<ref>{{cite web |url=https://www.fifadata.com/documents/FWC/2018/pdf/FWC_2018_SQUADLISTS.PDF |title=2018 FIFA World Cup Russia – List of Players |publisher=FIFA |date=4 June 2018 |access-date=19 June 2018 |archive-url=https://web.archive.org/web/20190611000407/https://www.fifadata.com/documents/FWC/2018/pdf/FWC_2018_SQUADLISTS.PDF |archive-date=11 June 2019}}</ref>
+| position = [[Forward (association football)|Forward]]<!--Winger belongs to forward-->
+| currentclub = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+| clubnumber = 11
+| youthyears1 = 2009–2014
+| youthclubs1 = [[Pohang Steelers]]{{refn|group=note|Played for {{ill|Pohang Jecheol Middle School|ko|포항제철중학교 축구부|display=1}} from 2009 to 2011, and {{ill|Pohang Jecheol High School|ko|포항제철고등학교 축구부|display=1}} from 2012 to 2014, which were academies of Pohang Steelers.}}
+| years1 = 2015–2020
+| clubs1 = [[FC Red Bull Salzburg|Red Bull Salzburg]]
+| caps1 = 86
+| goals1 = 28
+| years2 = 2015–2016
+| clubs2 = → [[FC Liefering]] (loan)
+| caps2 = 31
+| goals2 = 13
+| years3 = 2018–2019
+| clubs3 = → [[Hamburger SV]] (loan)
+| caps3 = 20
+| goals3 = 2
+| years4 = 2020–2022
+| clubs4 = [[RB Leipzig]]
+| caps4 = 20
+| goals4 = 0
+| years5 = 2021–2022
+| clubs5 = → [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] (loan)
+| caps5 = 30
+| goals5 = 5
+| years6 = 2022–
+| clubs6 = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+| caps6 = 103
+| goals6 = 19
+| nationalyears1 = 2011–2012
+| nationalteam1 = [[South Korea national under-17 football team|South Korea U17]]
+| nationalcaps1 = 7
+| nationalgoals1 = 7
+| nationalyears2 = 2013–2014
+| nationalteam2 = [[South Korea national under-20 football team|South Korea U20]]
+| nationalcaps2 = 12
+| nationalgoals2 = 6
+| nationalyears3 = 2015–2018
+| nationalteam3 = [[South Korea national under-23 football team|South Korea U23]]
+| nationalcaps3 = 22
+| nationalgoals3 = 5
+| nationalyears4 = 2016–
+| nationalteam4 = [[South Korea national football team|South Korea]]
+| nationalcaps4 = 79
+| nationalgoals4 = 17
+| medaltemplates = {{MedalCountry | {{KOR}} }}
+{{MedalSport  | Men's [[Association football|football]]}}
+{{MedalCompetition|[[Asian Games]]}}
+{{MedalGold|[[Football at the 2018 Asian Games – Men's tournament|2018 Jakarta-Palembang]]|}}
+{{MedalCompetition|[[AFC U-23 Asian Cup|AFC U-23 Championship]]}}
+{{MedalRU|[[2016 AFC U-23 Championship|2016 Qatar]]|}}
+| pcupdate = 24 May 2026
+| ntupdate = 3 June 2026
+}}
+{{Infobox Korean name/auto
+|hangul=%황희찬
+|hanja=黄喜燦
+}}
+
+'''Hwang Hee-chan''' ({{langx|ko|황희찬}}; born 26 January 1996) is a South Korean professional [[Association football|footballer]] who plays as a [[Forward (association football)|forward]] for {{English football updater|WolverhW}} club [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] and the [[South Korea national football team|South Korea national team]].
+
+Hwang is nicknamed "Hwangso" ({{Korean|hangul=황소|labels=no}}), the Korean word for bull, in South Korea due to his aggressive playing style and surname.
+
+==Youth career==
+Hwang Hee-chan was born in [[Chuncheon]], but his family moved to [[Bucheon]] right after his birth. They lived there until he was eleven years old.<ref>{{cite web |url=http://www.redbullsalzburg.at/de/fc-liefering/news/saison_2014_15/fc-liefering-elfer-mit-hee-chan-hwang.html |archive-url=https://web.archive.org/web/20151213142321/http://www.redbullsalzburg.at/de/fc-liefering/news/saison_2014_15/fc-liefering-elfer-mit-hee-chan-hwang.html |archive-date=13 December 2015 |title=FC Liefering-Elfer mit Hee-Chan Hwang |trans-title=FC Liefering-Penalty with Hee-Chan Hwang |language=de |date=2 February 2015 |publisher=Red Bull Salzburg}}</ref>
+
+Hwang started to play football at {{Ill|Uijeongbu Singok Elementary School|ko|의정부신곡초등학교}}. In 2008, he scored the most goals in both Hwarangdaegi Tournament and Dongwon Youth Cup, which were South Korean national youth competitions. His strong performance continued in the South Korean national under-12 team. Hwang scored 22 goals in the [[Kanga Cup]], setting a new record of the tournament. With outstanding performances in these competitions, he was awarded the grand prize of the [[Cha Bum-kun]] Football Award, given to the best youth footballers in South Korea.<ref>{{cite news |script-title=ko:제21회 차범근 축구상 대상 학생과 함께 한 차범근 감독 |url=http://sports.news.naver.com/sports/index.nhn?category=k_league&ctg=news&mod=read&office_id=003&article_id=0002505380 |website=[[Naver]]|publisher=[[Newsis]] |date=15 August 2015 |language=ko |title=|access-date=2026-05-15}}</ref>
+
+After graduating from Singok Elementary School, he entered {{Ill|Pohang Jecheol Middle School|ko|포항제철중학교}} and started to play in [[Pohang Steelers]] under-15 team, the school's affiliated football club. In 2011, his team won the middle school division of the Korean National School League, hosted by [[Korea Football Association]], and Hwang received the MVP award of the competition.<ref>{{cite news |script-title=ko:대한축구협회 20일 올해의 선수상 시상 |url=http://sports.news.naver.com/sports/index.nhn?category=a_match&ctg=news&mod=read&office_id=001&article_id=0005427212 |website=[[Naver]]|agency=[[Yonhap News Agency]] |date=19 December 2011 |language=ko |title=|access-date=2026-05-15}}</ref>
+
+Subsequently, he joined {{Ill|Pohang Jecheol High School|ko|포항제철고등학교}} and [[Pohang Steelers]] under-18 team. In the 2013 K League Junior, contested between youth teams of [[K League]] clubs, he scored 12 goals in 12 games for his team, helping his high school to win the league.<ref>{{cite news |script-title=ko:아디다스 올인 챌린지리그 베스트11, K-리그 미래스타는? |url=http://sports.news.naver.com/sports/index.nhn?category=k_league&ctg=news&mod=read&office_id=076&article_id=0002417522 |website=[[Naver]] |publisher=[[Sports Chosun]] |date=4 November 2013 |language=ko|title=|access-date=2026-05-15}}</ref> Afterwards, in the high school division of the National School League, he once again led Pohang to the title, becoming the MVP in addition to the top scorer.<ref>{{cite news |script-title=ko:[고교 왕중왕전] 포철고, 영생고 꺾고 우승... 더블 달성 |url=http://sports.news.naver.com/sports/index.nhn?category=k_league&ctg=news&mod=read&office_id=413&article_id=0000006965 |publisher=InterFootball |date=16 November 2013 |language=ko|title=|access-date=2026-05-15}}</ref>
+
+==Club career==
+
+=== Red Bull Salzburg ===
+In December 2014, [[Pohang Steelers]] intended to sign forward Hwang Hee-chan as a homegrown player, but he opted to sign with Austrian club [[FC Red Bull Salzburg|Red Bull Salzburg]].<ref>{{Cite web |script-title=ko:논란의 19살 황희찬, 실력만큼은 '진짜'였다 |url=http://www.mydaily.co.kr/new_yk/html/read.php?newsid=201510091900472231&ext=na |publisher=Mydaily |language=ko |access-date=9 October 2015| date=9 October 2015 |title=|trans-title=The controversial 19-year-old Hwang Hee-chan, his skills were 'the real deal'}}</ref> On 3 November 2016, Hwang came off the bench and scored a brace in a [[UEFA Europa League|Europa League]] match for Salzburg against Ligue 1 side [[OGC Nice|Nice]], contributing to his team's first Europa win of the campaign.<ref>{{Cite web |title=[VIDEO] CUPLIKAN GOL Nice 0–2 FC Salzburg: Dua Gol Pemain Muda Korea Permalukan Balotelli Cs |url=https://www.sepakbola.com/2016/11/video-cuplikan-gol-nice-0-2-fc-salzburg-dua-gol-pemain-muda-korea-permalukan-balotelli-cs/ |publisher=Sepakbola |language=id |access-date=20 December 2016 |archive-date=15 September 2018 |archive-url=https://web.archive.org/web/20180915122323/https://www.sepakbola.com/2016/11/video-cuplikan-gol-nice-0-2-fc-salzburg-dua-gol-pemain-muda-korea-permalukan-balotelli-cs/ |url-status=dead }}</ref> He failed to score in his first [[Austrian Football Bundesliga|Austrian Bundesliga]] season.
+
+During the 2017–18 season Salzburg had their best ever European campaign. They finished top of their [[UEFA Europa League]] group for a record fourth time before beating [[Real Sociedad]] and [[Borussia Dortmund]], thus making their first-ever appearance in the competition's quarter-finals.<ref>{{Cite web |title=EUROPA LEAGUE PREVIEW: LAZIO V RED BULL SALZBURG |date=5 April 2018 |url=https://www.thesportsman.com/articles/lazio-v-red-bull-salzburg-immobile-could-be-the-difference-in-an-evenly-matched-encounter |publisher=The Sportsman |access-date=5 April 2018}}</ref> On 12 April, Hwang scored a goal against [[S.S. Lazio|Lazio]], leading a 4–1 victory to proceed to the semi-finals.<ref>{{Cite web |title=Salzburg stages remarkable fightback to sink Lazio |url=http://www.beinsports.com/au/uefa-europa-league/video/salzburg-stages-remarkable-fightback-to-sink-/843433 |publisher=beIN Sports |access-date=12 April 2018}}</ref>
+
+On 3 May 2018, Hwang played in the second away match of the semi-final, when Salzburg defeated [[Olympique de Marseille|Marseille]] by 1–2 but lost on aggregate 3–2.<ref>{{Cite web |title=Marseille Advance to 2018 Europa League Final with Win vs. Red Bull Salzburg |url=https://bleacherreport.com/articles/2774129-marseille-advance-to-2018-europa-league-final-with-win-vs-red-bull-salzburg |publisher=Bleacher Report |access-date=3 May 2018}}</ref> On 31 August 2018, Hwang joined [[Hamburger SV]] on a loan deal until the end of the 2018–19 season.<ref>{{cite web |title=HSV leiht Hee-chan Hwang aus |url=https://www.hsv.de/news/meldungen/saison-2018-19/august-2018/hsv-leiht-hee-chan-hwang-aus/ |publisher=Hamburger SV |language=de |date=31 August 2018 |access-date=31 August 2018|trans-title=HSV loans in Hee-chan Hwang}}</ref>
+
+During the [[2019–20 FC Red Bull Salzburg season|2019–20 season]], Hwang drew plaudits alongside Salzburg's attacking players [[Erling Haaland]] and [[Takumi Minamino]].<ref>{{Cite news |url=https://www.telegraph.co.uk/football/2019/12/11/wolves-prepare-january-swoop-salzburg-forward-hwang-hee-chan/ |title=Wolves prepare transfer swoop for Salzburg forward Hwang Hee-chan |last=Percy |first=John |newspaper=The Daily Telegraph |date=11 December 2019 |access-date=13 December 2019 |issn=0307-1235}}</ref> The trio were particularly praised for their exploits in the Champions League, where Hwang was involved in eight goals by recording three goals and three assists,<ref>{{Cite web |url=https://www.uefa.com/uefachampionsleague/clubs/players/250098954--heechan-hwang/ |title=Hee-Chan Hwang – Salzburg – UCL |publisher=UEFA |access-date=13 December 2019}}</ref> and winning two penalty kicks.<ref>{{Cite web |url=https://www.skysports.com/football/salzburg-vs-napoli/420381 |title=Live Commentary – Salzburg vs Napoli |publisher=Sky Sports |date=23 October 2019 |access-date=27 May 2020}}</ref><ref>{{Cite web |url=https://www.goal.com/en/match/napoli-v-salzburg/bgyiuvigjdxn8ca5z4oskx36y |title=Napoli 1–1 Salzburg: Ancelotti's side miss chance to secure early qualification |work=Goal (website) |date=6 November 2019 |access-date=27 May 2020}}</ref> His playing style was described as energetic with accurate passing and an eye for dribbling.<ref>{{Cite web |url=https://www.uefa.com/uefachampionsleague/news/0256-0e99f9c9dc16-a3f6388a145d-1000--hee-chan-hwang-shining-for-salzburg/ |title=Hee-Chan Hwang shining for Salzburg |publisher=UEFA |date=3 October 2019 |access-date=13 December 2019}}</ref> In all competitions, Hwang had a remarkable season, scoring 16 goals and providing 22 assists in 40 appearances.<ref>{{Cite web |url=https://www.redbullsalzburg.at/en/fc-red-bull-salzburg/news/saison_2019_20/hwang-leaves-us-for-germany.html|title=RB Leipzig sign Hwang Hee-chan from Red Bull Salzburg |publisher=Red Bull Salzburg |access-date=8 July 2020}}</ref>
+
+=== RB Leipzig ===
+On 8 July 2020, Hwang signed for [[RB Leipzig]] on a five-year contract.<ref>{{cite web |url=https://www.dierotenbullen.com/de/aktuelles/neuigkeiten/Saison_2019_20/Neuzugang-Hwang.html |title=RB LEIPZIG VERPFLICHTET HEE-CHAN HWANG |publisher=RB Leipzig |language=de |date=8 July 2020 |access-date=8 July 2020}}</ref> On 12 September, he scored a goal and created an assist against [[1. FC Nürnberg|Nürnberg]] in the first round of the [[2020–21 DFB-Pokal]], where he made his debut.<ref>{{Cite web |url=https://www.kicker.de/nuernberg-gegen-leipzig-2020-dfb-pokal-4660436/analyse |title=Haidara nutzt Mathenias schlimmen Patzer |publisher=kicker |language=de |date=12 September 2020 |access-date=13 September 2020|trans-title=Haidara takes advantage of Mathenia's terrible blunder}}</ref> He helped Leipzig to reach the [[2021 DFB-Pokal Final]] by scoring against [[VfL Wolfsburg]] and [[SV Werder Bremen|Werder Bremen]], though he was a substitute.<ref>{{cite news |url=https://www.kicker.de/leipzig-gegen-wolfsburg-2021-dfb-pokal-4699313/analyse |title=Weghorst rutscht aus und vergibt – Leipzig im Halbfinale |language=de |publisher=kicker |date=3 March 2021 |access-date=22 May 2021}}</ref><ref>{{cite news |url=https://www.kicker.de/bremen-gegen-leipzig-2021-dfb-pokal-4702975/analyse |title=120.+1! Forsberg entscheidet packenden Pokalkrimi für Leipzig |language=de |publisher=kicker |date=30 April 2021 |access-date=22 May 2021|trans-title=120.+1! Forsberg decides thrilling cup thriller for Leipzig}}</ref> However, he failed to score in his first German Bundesliga season.
+
+===Wolverhampton Wanderers===
+On 29 August 2021, Hwang joined [[Premier League]] side [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] on a season long loan.<ref>{{Cite web|title=Hwang becomes latest new signing|url=https://www.wolves.co.uk/news/first-team/20210829-hwang-becomes-latest-new-signing/|access-date=2 September 2021|website=wolves.co.uk}}</ref> On 11 September, Hwang scored Wolves' second goal away to [[Watford F.C.|Watford]] on his debut as a second-half substitute in a 2–0 win.<ref>{{Cite web |title=Watford 0–2 Wolverhampton Wanderers: Hwang Hee-Chan scores on debut as Wolves win|url=https://www.bbc.co.uk/sport/football/58437017|date=11 September 2021|access-date=11 September 2021|work=[[BBC Sport]]|first=Emlyn|last=Begley}}</ref> He then got his first goals at [[Molineux Stadium|Molineux]] on 2 October, as he scored both goals in Wolves' 2–1 win against [[Newcastle United F.C.|Newcastle United]], both strikes coming from similarly tight angles.<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/58667875 |title=Wolverhampton Wanderers 2–1 Newcastle United: Hwang Hee-chan double sinks winless Magpies |work=BBC Sport|first=Matthew|last=Howarth|date=2 October 2021|access-date=3 October 2021}}</ref>
+
+On 26 January 2022, the club announced that they had activated a clause in his loan deal that would see him join the club on a permanent deal on 1 July 2022, upon the expiration of his loan, signing a contract until 2026.<ref>{{cite web |url=https://www.wolves.co.uk/news/first-team/20220126-hwang-set-to-become-permanent-wolves-player/ |title=Hwang set to become permanent Wolves player |website=wolves.co.uk |date=26 January 2022}}</ref> He scored five goals in his debut campaign in the Premier League.
+
+Hwang scored his first [[FA Cup]] goal away to [[Liverpool F.C.|Liverpool]] in the third round of the competition on 7 January 2023, his strike tying the game at 2–2.<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/64168002|title=Liverpool 2–2 Wolverhampton Wanderers: Sides forced to settle for a reply after Anfield draw |work=BBC Sport|first=Callum|last=Matthews|date=7 January 2023|access-date=1 December 2023}}</ref> Wolves then had a third goal disallowed in controversial circumstances, the game ultimately finishing all square.<ref>{{cite web|url=https://www.skysports.com/football/liverpool-vs-wolves/479256|title=Liverpool 2–2 Wolves: Match report & highlights|publisher=Sky Sports|first=Ron|last=Walker|date=8 January 2023|access-date=1 December 2023}}</ref> On 30 September, Hwang scored the decisive goal against [[Manchester City F.C.|Manchester City]] to win the match 2–1 at home to give the 2022–23 Premier League champions their first loss in the 2023–24 season.<ref>{{Cite news |last=Fisher |first=Ben |date=30 September 2023 |title=Wolves stun Manchester City as Hwang wrecks champions' perfect league start |language=en-GB |work=The Guardian |url=https://www.theguardian.com/football/2023/sep/30/wolves-manchester-city-premier-league-match-report |access-date=2023-10-01 |issn=0029-7712}}</ref><ref>{{Cite web |last=Amir |first=Abrashi |date=2024-07-16 |title=HI77 |url=https://hi77s.com/ |access-date=2026-05-14 |language=en}}</ref> On 28 October, Hwang scored Wolves's second goal in a 2–2 home draw with Newcastle United, meaning he became the first Wolves player since [[Derek Dougan]], fifty years previously, to score six goals in the first ten games of a top-flight season.<ref>{{Cite news |last=Brewin |first=John |date=2023-10-28 |title=Hwang the hero as Wolves twice come from behind to frustrate Newcastle |url=https://www.theguardian.com/football/2023/oct/28/wolves-newcastle-premier-league-match-report |access-date=2026-05-14 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref>
+
+On 21 December 2023, Hwang signed a new long-term contract with Wolves, keeping him at the club until 2028 with an option for a further year.<ref>{{cite web|url=https://www.wolves.co.uk/news/mens-first-team/20231221-hwang-signs-long-term-contract-extension/|title=Hwang signs long-term contract extension|publisher=Wolverhampton Wanderers F.C.|date=21 December 2023|accessdate=22 December 2023}}</ref> On 27 December, he scored a brace in a 4–1 away win over [[Brentford F.C.|Brentford]], becoming the third Wolves player to score at least 10 Premier League goals in one season, following [[Raúl Jiménez]] and [[Steven Fletcher (footballer)|Steven Fletcher]].<ref>{{cite web |url=https://www.bbc.com/sport/articles/c51z7r4wld4o |title=Brentford 1–4 Wolves: Key stats |work=BBC Sport |date=27 December 2023 }}</ref>
+
+In July 2024, during a friendly match with [[Como 1907]], Hwang reportedly heard a racist remark towards him from Como.<ref name=":0" /> Como later reported that the remark was calling Hwang "[[Jackie Chan]]", who is a Chinese actor that commonly features in Asian stereotypes.<ref name=":1">{{Cite web |date=16 July 2024 |title=Fans outraged at 'disgraceful' Como 1907 statement on Hwang racism row |url=https://talksport.com/football/1969697/como-1907-statement-hwang-hee-chan-racism-wolves/ |access-date=2024-07-17 |website=talkSPORT |language=en-gb}}</ref> Hwang's teammate [[Daniel Podence]] reportedly threw a punch in defence of Hwang, which led to Podence receiving a red card. Hwang's team issued a statement of support for him, and filed a complaint to the [[UEFA]].<ref name=":0">{{Cite web |last=Bulley |first=Jim |date=16 July 2024 |title=Wolves winger punches opponent after alleged racist abuse of Hwang Hee-chan |url=https://koreajoongangdaily.joins.com/news/2024-07-16/sports/football/Wolves-winger-punches-opponent-after-alleged-racist-abuse-of-Hwang-Heechan/2091037 |access-date=2024-07-16 |website=[[Korea JoongAng Daily]] |language=en}}</ref><ref>{{Cite web |date=15 July 2024 |title=Wolves to submit complaint to UEFA over alleged racist remark during Como clash |url=https://uk.sports.yahoo.com/news/wolves-submit-complaint-uefa-over-215425243.html |access-date=2024-07-16 |website=Yahoo Sports |language=en-GB}}</ref><ref>{{Cite news |last=Garrick |first=Omar |title=Wolves to file complaint over alleged racist remark aimed at Hwang |url=https://www.nytimes.com/athletic/5639943/2024/07/15/hwang-wolves-racist-abuse/ |access-date=2024-07-16 |work=The New York Times |date=16 July 2024 |language=en-US |issn=0362-4331}}</ref> Como 1907 defended the remark and claimed it was not racist.<ref name=":1" /><ref>{{Cite web |date=17 July 2024 |title=Como claim 'Jackie Chan' comment made to Hwang Hee-chan wasn't racist |url=https://koreajoongangdaily.joins.com/news/2024-07-17/sports/football/Como-claim-Jackie-Chan-comment-made-to-Hwang-Heechan-wasnt-racist/2091990 |access-date=2024-07-17 |website=[[Korea JoongAng Daily]] |language=en}}</ref>
+
+==International career==
+In the [[2012 AFC U-16 Championship]], South Korea was eliminated in the quarter-finals, but Hwang became the top scorer of the tournament with five goals including a hat-trick against [[North Korea national under-17 football team|North Korea]].<ref>{{Cite news |url=http://interfootball.ytn.co.kr/news/article/2012092409593959/?key=&page=1&section_code=0 |script-title=ko:[U-16 챔피언십] '황희찬 해트트릭' 한국, 북한에 3–0 완승 |last=Lee |first=Hyun-min |date=24 September 2012 |publisher=InterFootball |access-date=6 July 2020 }}{{Dead link|date=January 2023 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+Hwang participated in the [[Football at the 2016 Summer Olympics|2016 Summer Olympics]] and scored a goal in a group match against [[Germany Olympic football team|Germany]], which finished in a 3–3 draw.<ref>{{cite web |title=Germany vs. South Korea 2016: Final score 3–3 in best men's Olympic soccer game so far |url=https://www.sbnation.com/soccer/2016/8/7/12398966/germany-south-korea-2016-results-olympics-soccer-score |publisher=SB Nation |date=7 August 2016 |access-date=6 July 2020}}</ref>
+
+In a friendly on 28 March 2018, Hwang scored South Korea's second goal against [[Poland national football team|Poland]], with the match ending in a 2–3 loss.<ref>{{Cite news |url=http://news.joins.com/article/22687784 |script-title=ko:대표팀 뽑히고도 축구과외 받는다···'연습황소' 황희찬 |date=5 June 2018 |publisher=[[JoongAng Ilbo]] |access-date=8 June 2018 |language=ko}}</ref>
+
+Hwang represented South Korea in the [[South Korea national under-23 football team|under-23 team]] at the [[2018 Asian Games]] where he scored the second and winning goal for South Korea in the 2–1 final against Japan, a goal assisted by [[Son Heung-min]].<ref>{{Cite web |date=1 September 2018 |title=Son Heung-min helps South Korea U-23 capture Asiad gold, earns national service exemption {{!}} Goal.com Tanzania |url=https://www.goal.com/en-tza/news/son-heung-min-helps-south-korea-u-23-capture-asiad-gold-earns-national-service-exemption/1qrzkx768cac11f5oe433cl9xo |access-date=2024-01-30 |website=Goal (website) |language=en-TZ}}</ref> The tournament win guaranteed Hwang and his teammates exemption from [[Conscription in South Korea|mandatory military service]].<ref>{{Cite news |last=Fisher |first=Ben |date=10 November 2023 |title='A very special game': South Korea gears up for Hwang v Son showdown |url=https://www.theguardian.com/football/2023/nov/10/hwang-v-son-south-korea-wolves-tottenham |access-date=2024-01-30 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref>
+
+In the [[2018 FIFA World Cup]], Hwang started in South Korea's first two matches against [[Sweden men's national football team|Sweden]] and [[Mexico national football team|Mexico]]. He was criticised for not converting a scoring chance against Sweden. He was substituted in for [[Koo Ja-cheol]] in the [[2018 FIFA World Cup Group F#South Korea vs Germany|2–0]] victory against [[Germany national football team|Germany]], but was brought off after only 20 minutes for [[Go Yo-han]]. After the tournament, manager [[Shin Tae-yong]] expressed remorse for taking off Hwang and explained that it was a tactical decision as Hwang was struggling to help the team on defence.<ref>{{cite news |url=https://news.kbs.co.kr/news/view.do?ncd=4188071 |script-title=ko:신태용 감독 "러시아월드컵 이제는 말할 수 있다" ②희찬아 미안하다 |publisher=[[Korean Broadcasting System]] |language=ko |date=25 April 2019 |access-date=2 October 2021|title=|trans-title=Coach Shin Tae-yong "Now I can talk about the Russia World Cup" ② Hee-chan, I'm sorry}}</ref>
+
+In the [[2022 FIFA World Cup]], Hwang scored the winning goal in stoppage time against [[Portugal national football team|Portugal]] to secure a 2–1 win, which helped South Korea advance to the Round of 16,<ref>{{Cite news |title=Last-gasp Hwang strike sends South Korea into World Cup last 16 with superb comeback win over Portugal |work=Eurosport |url=https://www.eurosport.com/football/world-cup/2022/last-gasp-hwang-strike-sends-south-korea-into-world-cup-last-16-with-superb-comeback-win-over-portug_sto9248735/story.shtml |date=2 December 2022}}</ref> where they were eliminated by [[Brazil national football team|Brazil]] following a 4–1 defeat on 5 December.<ref>{{Cite web |last=Grez |first=Matias |date=5 December 2022 |title=Brazil dances its way into World Cup quarterfinals thanks to dazzling display against South Korea |url=https://www.cnn.com/2022/12/05/football/brazil-south-korea-qatar-world-cup-spt-intl/index.html |access-date=2022-12-06 |publisher=CNN |language=en |archive-date=6 December 2022 |archive-url=https://web.archive.org/web/20221206195914/https://www.cnn.com/2022/12/05/football/brazil-south-korea-qatar-world-cup-spt-intl/index.html |url-status=live }}</ref>
+
+Hwang was called up for the [[2023 AFC Asian Cup]], but suffered a hip injury just before the competition.<ref>{{cite news |url=https://sports.news.nate.com/view/20240114n02241 |script-title=ko:[아시안컵] 바레인전 못 뛰는 황희찬이 기자회견에 나서는 이유는 |language=ko |website=Nate.com |publisher=News1 |date=14 January 2024 |access-date=2024-04-13}}</ref> He could not participate in South Korea's first two matches, and played as a substitute in the last group stage match and round of 16.<ref>{{cite news |url=https://www.yna.co.kr/view/AKR20240126000900007 |script-title=ko:[아시안컵] 부상 털고 '첫 출전' 황희찬 "몸 상태 괜찮아…이제 결과 필요" |language=ko |work=Yonhap News Agency |date=26 January 2024 |access-date=2024-04-13}}</ref> In a 2–1 quarter-final win over [[Australia men's national soccer team|Australia]], he scored a penalty equaliser and won a crucial free-kick, which was followed by [[Son Heung-min]]'s winning goal.<ref>{{cite news |url=https://en.yna.co.kr/view/AEN20240203000300315 |title=(Asian Cup) Premier League stars Son, Hwang carry S. Korea to semifinals |work=Yonhap News Agency |date=3 February 2024 |access-date=2024-04-13}}</ref> He came back to the club after a 2–0 semi-final loss to [[Jordan national football team|Jordan]].<ref>{{cite news |url=https://www.goal.com/lists/son-heung-min-south-korea-asian-cup-semi-finals-jordan-tottenham/blt1339884221ff08b4#cscf5c23e93771f58d |title=Son Heung-min sent packing! South Korea dumped out of the Asian Cup semi-finals by underdogs Jordan as talisman prepares to return to Tottenham |website=Goal (website) |date=7 February 2024 |access-date=2024-02-07}}</ref>
+
+==Career statistics==
+<!--DON'T CHANGE THE SHAPE OF TABLE ARBITRARILY-->
+
+===Club===
+{{updated|match played 24 May 2026}}<ref>{{cite web |title=Hee-chan Hwang ≫ Club matches |url=https://www.worldfootball.net/person/pe376230/hee-chan-hwang/club-matches/ |website=WorldFootball.net |access-date=24 July 2018}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup{{efn|Includes [[Austrian Cup]], [[DFB-Pokal]], [[FA Cup]]}}
+!colspan="2"|League cup{{efn|Includes [[EFL Cup]]}}
+!colspan="2"|Europe 
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="3"|[[FC Liefering]] (loan)
+|[[2014–15 Austrian Football First League|2014–15]]
+|[[2. Liga (Austria)|Austrian 2. Liga]]
+|13||2||colspan="2"|—||colspan="2"|—||colspan="2"|—||13||2
+|-
+|[[2015–16 Austrian Football First League|2015–16]]
+|Austrian 2. Liga
+|18||11||colspan="2"|—||colspan="2"|—||colspan="2"|—||18||11
+|-
+!colspan="2"|Total
+!31!!13!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!31!!13
+|-
+|rowspan="5"|[[FC Red Bull Salzburg|Red Bull Salzburg]]
+|[[2015–16 FC Red Bull Salzburg season|2015–16]]
+|[[Austrian Football Bundesliga|Austrian Bundesliga]]
+|13||0||1||0||colspan="2"|—||colspan="2"|—||14||0
+|-
+|[[2016–17 FC Red Bull Salzburg season|2016–17]]
+|Austrian Bundesliga
+|26||12||6||2||colspan="2"|—||3{{efn|name=UEL|Appearances in [[UEFA Europa League]]}}||2||35||16
+|-
+|[[2017–18 FC Red Bull Salzburg season|2017–18]]
+|Austrian Bundesliga
+|20||5||3||3||colspan="2"|—||14{{efn|Four appearances and two goals in [[UEFA Champions League]], ten appearances and three goals in UEFA Europa League}}||5||37||13
+|-
+|[[2019–20 FC Red Bull Salzburg season|2019–20]]
+|Austrian Bundesliga
+|27||11||5||1||colspan="2"|—||8{{efn|Six appearances and three goals in UEFA Champions League, two appearances and one goal in UEFA Europa League}}||4||40||16
+|-
+!colspan="2"|Total
+!86!!28!!15!!6!!colspan="2"|—!!25!!11!!126!!45
+|-
+|[[Hamburger SV]] (loan)
+|[[2018–19 Hamburger SV season|2018–19]]
+|[[2. Bundesliga]]
+|20||2||1||0||colspan="2"|—||colspan="2"|—||21||2
+|-
+|rowspan="3"|[[RB Leipzig]]
+|[[2020–21 RB Leipzig season|2020–21]]
+|[[Bundesliga]]
+|18||0||5||3||colspan="2"|—||3{{efn|name=UCL|Appearances in UEFA Champions League}}||0||26||3
+|-
+|[[2021–22 RB Leipzig season|2021–22]]
+|Bundesliga
+|2||0||1||0||colspan="2"|—||colspan="2"|—||3||0
+|-
+!colspan="2"|Total
+!20!!0!!6!!3!!colspan="2"|—!!3!!0!!29!!3
+|-
+|[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] (loan)
+|[[2021–22 Wolverhampton Wanderers F.C. season|2021–22]]
+|[[Premier League]]
+|30||5||0||0||1||0||colspan="2"|—||31||5
+|-
+|rowspan="5"|Wolverhampton Wanderers
+|[[2022–23 Wolverhampton Wanderers F.C. season|2022–23]]
+|Premier League
+|27||3||1||1||4||0||colspan="2"|—||32||4
+|-
+|[[2023–24 Wolverhampton Wanderers F.C. season|2023–24]]
+|Premier League
+|29||12||1||0||1||1||colspan="2"|—||31||13
+|-
+|[[2024–25 Wolverhampton Wanderers F.C. season|2024–25]]
+|Premier League
+|21||2||2||0||2||0||colspan="2"|—||25||2
+|-
+|[[2025–26 Wolverhampton Wanderers F.C. season|2025–26]]
+|Premier League
+|26||2||2||1||3||0||colspan="2"|—||31||3
+|-
+!colspan="2"|Total
+!103||19||6||2||10||1||colspan="2"|—||119||22
+|-
+!colspan="3"|Career total
+!290!!67!!28!!11!!11!!1!!28!!11!!357!!90
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 3 June 2026}}<ref>{{cite web |script-title=ko:황희찬 HWANG Heechan MF |url=https://kfa.or.kr/archive/player_record.php?search_val=%ED%99%A9%ED%9D%AC%EC%B0%AC |publisher=KFA |access-date=2 January 2020 |language=ko}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="11"|[[South Korea national football team|South Korea]]
+|2016||3||0
+|-
+|2017||6||1
+|-
+|2018||12||1
+|-
+|2019||11||2
+|-
+|2020||2||1
+|-
+|2021||9||2
+|-
+|2022||8||3
+|-
+|2023||8||2
+|-
+|2024||10||3
+|-
+|2025||6||1
+|-
+|2026||4||1
+|-
+!colspan="2"|Total!!79!!17
+|}
+
+:''Scores and results list South Korea's goal tally first, score column indicates score after each Hwang goal.''<ref name="NFT">{{cite web|url=https://www.national-football-teams.com/player/65003/Hee_Chan_Hwang.html|title=Hwang, Hee-Chan|website=National Football Teams|access-date=9 June 2021}}</ref>
+
+{| class="wikitable sortable"
+|+ List of international goals scored by Hwang Hee-chan
+|-
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+|-
+| align="center"|1 || 13 June 2017 || [[Jassim Bin Hamad Stadium]], [[Doha]], Qatar || {{fb|QAT}} || align="center"|2–2 || align="center"|2–3 || [[2018 FIFA World Cup qualification – AFC third round|2018 FIFA World Cup qualification]]
+|-
+| align="center"|2 || 27 March 2018 || [[Stadion Śląski]], [[Chorzów]], Poland || {{fb|POL}} || align="center"|2–2 || align="center"|2–3 || [[Friendly (association football)|Friendly]]
+|-
+| align="center"|3 || 22 January 2019 || [[Rashid Stadium]], [[Dubai]], United Arab Emirates || {{fb|BHR}} || align="center"|1–0 || align="center"|2–1 {{aet}} || [[2019 AFC Asian Cup knockout stage|2019 AFC Asian Cup]]
+|-
+| align="center"|4 || 10 October 2019 || [[Hwaseong Stadium]], [[Hwaseong, Gyeonggi|Hwaseong]], South Korea || {{fb|SRI}} || align="center"|3–0 || align="center"|8–0 || [[2022 FIFA World Cup qualification – AFC second round|2022 FIFA World Cup qualification]]
+|-
+| align="center"|5 || 17 November 2020 || [[BSFZ-Arena]], [[Maria Enzersdorf]], Austria || {{fb|QAT}} || align="center"|1–0 || align="center"|2–1 || Friendly 
+|-
+| align="center"|6 || 9 June 2021 || [[Goyang Stadium]], [[Goyang]], South Korea || {{fb|SRI}} || align="center"|4–0 || align="center"|5–0 || 2022 FIFA World Cup qualification
+|-
+| align="center"|7 || 11 November 2021 || Goyang Stadium, Goyang, South Korea || {{fb|UAE}} || align="center"|1–0 || align="center"|1–0 || [[2022 FIFA World Cup qualification – AFC third round|2022 FIFA World Cup qualification]]
+|-
+| align="center"|8 || 6 June 2022 || [[Daejeon World Cup Stadium]], [[Daejeon]], South Korea || {{fb|CHI}} || align="center"|1–0 || align="center"|2–0 || Friendly 
+|-
+| align="center"|9 || 23 September 2022 || Goyang Stadium, Goyang, South Korea || {{fb|CRC}} || align="center"|1–0 || align="center"|2–2 || Friendly 
+|-
+| align="center"|10 || 2 December 2022 || [[Education City Stadium]], [[Al Rayyan (city)|Al Rayyan]], Qatar || {{fb|POR}} || align="center"|2–1 || align="center"|2–1 || [[2022 FIFA World Cup Group H|2022 FIFA World Cup]]
+|-
+| align="center"|11 || 17 October 2023 || [[Suwon World Cup Stadium]], [[Suwon]], South Korea || {{fb|VIE}} || align="center"|2–0 || align="center"|6–0 || Friendly
+|-
+| align="center"|12 || 16 November 2023 || [[Seoul World Cup Stadium]], [[Seoul]], South Korea || {{fb|SIN}} || align="center"|2–0 || align="center"|5–0 || [[2026 FIFA World Cup qualification – AFC second round|2026 FIFA World Cup qualification]]
+|-
+| align="center"|13 || 2 February 2024 || [[Al Janoub Stadium]], [[Al Wakrah]], Qatar || {{fb|AUS}} || align="center"|1–1 || align="center"|2–1 {{aet}} || [[2023 AFC Asian Cup knockout stage|2023 AFC Asian Cup]]
+|-
+| align="center"|14 || 6 June 2024 || [[National Stadium, Singapore|National Stadium]], [[Kallang]], Singapore || {{fb|SIN}} || align="center"|7–0 || align="center"|7–0 || 2026 FIFA World Cup qualification
+|-
+| align="center"|15 || 10 September 2024 || [[Sultan Qaboos Sports Complex]], [[Muscat]], Oman || {{fb|OMA}} || align="center"|1–0 || align="center"|3–1 || [[2026 FIFA World Cup qualification – AFC third round|2026 FIFA World Cup qualification]] 
+|-
+| align="center"|16 || 20 March 2025 || Goyang Stadium, Goyang, South Korea || {{fb|OMA}} || align="center"|1–0 || align="center"|1–1 || 2026 FIFA World Cup qualification
+|-
+| align="center"|17 || 30 May 2026 || [[South Field (Provo)|South Field]], [[Provo, Utah|Provo]], United States || {{fb|TRI}} || align="center"|4–0 || align="center"|5–0 || Friendly
+|}
+
+==Honours==
+'''Red Bull Salzburg'''
+*[[Austrian Football Bundesliga|Austrian Bundesliga]]: [[2015-16 Austrian Football Bundesliga|2015–16]], [[2016-17 Austrian Football Bundesliga|2016–17]], [[2017–18 Austrian Football Bundesliga|2017–18]], [[2019–20 Austrian Football Bundesliga|2019–20]]<ref>{{cite web |title=Austria – List of Champions |url=https://www.rsssf.org/tableso/oostchamp.html |date=2 July 2020 |access-date=6 July 2020 |first=Tamas |publisher=[[Rec.Sport.Soccer Statistics Foundation]] |last=Karpati}}</ref>
+*[[Austrian Cup]]: [[2015–16 Austrian Cup|2015–16]], [[2016–17 Austrian Cup|2016–17]], [[2019–20 Austrian Cup|2019–20]]<ref>{{cite web |title=Austria – List of Cup Finals |url=https://www.rsssf.org/tableso/oostcuphist.html |date=10 June 2020 |access-date=6 July 2020 |first=Karel |publisher=[[Rec.Sport.Soccer Statistics Foundation]] |last=Stokkermans}}</ref>
+ 
+'''RB Leipzig'''
+*[[DFB-Pokal]] runner-up: [[2020–21 DFB-Pokal|2020–21]]<ref>{{cite news |url=https://www.kicker.de/leipzig-gegen-dortmund-2021-dfb-pokal-4704927/analyse |title=Sancho und Haaland treffen doppelt: BVB krönt sich zum Pokalsieger |language=de |publisher=kicker |date=13 May 2021 |access-date=23 May 2021|trans-title=Sancho and Haaland score twice: BVB crowned cup winners}}</ref>
+
+'''South Korea U23'''
+*[[Football at the Asian Games|Asian Games]]: [[Football at the 2018 Asian Games – Men's tournament|2018]]<ref>{{cite web |title=Men's Gold Medal Match: South Korea 2–1 Japan |url=https://en.asiangames2018.id/sport/football/event/football-men/match/fbm400101/ |publisher=Asian Games 2018 |access-date=1 September 2018 |archive-url=https://web.archive.org/web/20180820005807/https://en.asiangames2018.id/sport/football/event/football-men/match/fbm400101/ |archive-date=20 August 2018 |url-status=dead}}</ref>
+*[[AFC U-23 Championship]] runner-up: [[2016 AFC U-23 Championship|2016]]<ref>{{cite web |title=AFC U-23 Championship 2016 – Finals |url=http://www.the-afc.com/afcasfeeds?fixtureid=9828&stageid=385&tMode=C&view=ajax&show=matchsummary |publisher=AFC |access-date=6 July 2020 |archive-url=https://web.archive.org/web/20160131194853/http://www.the-afc.com/afcasfeeds?fixtureid=9828&stageid=385&tMode=C&view=ajax&show=matchsummary |archive-date=31 January 2016 |url-status=dead}}</ref>
+
+'''Individual'''
+*[[AFC U-16 Championship]] top goalscorer: [[2012 AFC U-16 Championship|2012]]<ref name="AFCU16">{{Cite web |url=http://www.the-afc.com/en/tournaments/men-a-youth/afc-u16-championship/40258-hwangs-heroics-difficult-to-eclipse |archive-url=https://web.archive.org/web/20121007231721/http://www.the-afc.com/en/tournaments/men-a-youth/afc-u16-championship/40258-hwangs-heroics-difficult-to-eclipse |title=Hwang's heroics difficult to eclipse |publisher=AFC |date=5 October 2012 |archive-date=7 October 2012 |access-date=27 May 2020}}</ref>
+*[[KFA Awards#Goal of the Year|Korean FA Goal of the Year]]: 2022<ref>{{cite news |url=https://www.kfa.or.kr/layer_popup/popup_live.php?act=news_tv_detail&idx=24881&div_code=news&check_url=bGF5ZXI=&lang=KOR |script-title=ko:팬들이 뽑은 '올해의 골'은 황희찬의 포르투갈전 결승포 |publisher=KFA |date=27 December 2022 |access-date=2022-01-08 |language=ko}}</ref>
+*[[IFFHS]] Asian Men's Team of the Year: 2022, 2023, 2024<ref>{{cite web |url=https://www.iffhs.com/posts/2472 |title=IFFHS MEN'S CONTINENTAL TEAMS 2022 – AFC |publisher=IFFHS |date=15 January 2023 |access-date=2025-01-15}}</ref><ref>{{cite web |url=https://iffhs.com/posts/3332 |title=IFFHS MEN'S AFC TEAM 2023 |publisher=IFFHS |date=20 January 2024 |access-date=2025-01-15}}</ref><ref>{{cite web |url=https://iffhs.com/posts/4120 |title=IFFHS CONTINENTAL TEAMS 2024 – AFC MEN |publisher=IFFHS |date=15 January 2025 |access-date=2025-01-15}}</ref>
+
+==Notes==
+{{reflist|group=note}}
+{{notelist-lg}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category|Hwang Hee-chan}}
+* [https://www.wolves.co.uk/teams/mens-first-team/hee-chan-hwang/ Hwang Hee-chan] at the Wolverhampton Wanderers F.C. website
+* [http://www.kfa.or.kr/archive/player_history.php?search_val=%ED%99%A9%ED%9D%AC%EC%B0%AC Hwang Hee-chan – National Team Stats] at [[Korea Football Association|KFA]] {{in lang|ko}}
+* {{FIFA player}}
+* {{UEFA player}}
+* {{Soccerway|hee-chan-hwang/382807}}
+
+{{Wolverhampton Wanderers F.C. squad}}
+{{Navboxes
+| title = South Korea squads
+| bg = #C21E2B
+| fg = White
+| bordercolor = #2E20BF
+| list1 = 
+{{South Korea men's football squad 2016 Summer Olympics}}
+{{South Korea squad 2018 FIFA World Cup}}
+{{South Korea squad 2019 AFC Asian Cup}}
+{{South Korea squad 2022 FIFA World Cup}}
+{{South Korea squad 2023 AFC Asian Cup}}
+{{South Korea squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Hwang, Hee-chan}}
+[[Category:1996 births]]
+[[Category:Living people]]
+[[Category:Footballers from Chuncheon]]
+[[Category:Men's association football forwards]]
+[[Category:South Korean men's footballers]]
+[[Category:South Korea men's youth international footballers]]
+[[Category:South Korea men's under-20 international footballers]]
+[[Category:South Korea men's under-23 international footballers]]
+[[Category:South Korea men's international footballers]]
+[[Category:South Korean expatriate men's footballers]]
+[[Category:Austrian Football Bundesliga players]]
+[[Category:2. Liga (Austria) players]]
+[[Category:FC Red Bull Salzburg players]]
+[[Category:FC Liefering players]]
+[[Category:Expatriate men's footballers in Austria]]
+[[Category:South Korean expatriate sportspeople in Austria]]
+[[Category:Footballers at the 2016 Summer Olympics]]
+[[Category:Olympic footballers for South Korea]]
+[[Category:2018 FIFA World Cup players]]
+[[Category:Footballers at the 2018 Asian Games]]
+[[Category:Asian Games gold medalists for South Korea]]
+[[Category:Asian Games footballers for South Korea]]
+[[Category:Medalists at the 2018 Asian Games]]
+[[Category:2. Bundesliga players]]
+[[Category:2019 AFC Asian Cup players]]
+[[Category:Bundesliga players]]
+[[Category:RB Leipzig players]]
+[[Category:Expatriate men's footballers in Germany]]
+[[Category:South Korean expatriate sportspeople in Germany]]
+[[Category:South Korean expatriate sportspeople in England]]
+[[Category:Premier League players]]
+[[Category:Wolverhampton Wanderers F.C. players]]
+[[Category:Hamburger SV players]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:2023 AFC Asian Cup players]]
+[[Category:2026 FIFA World Cup players]]
+[[Category:Footballers from Gangwon Province, South Korea]]
+[[Category:Footballers from Gyeonggi Province]]
+[[Category:Sportspeople from Bucheon]]
+[[Category:21st-century South Korean sportsmen]]
+[[Category:Expatriate men's footballers in England]]
+[[Category:Asian Games gold medalists in football]]

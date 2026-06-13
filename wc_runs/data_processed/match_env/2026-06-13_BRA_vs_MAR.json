@@ -1,0 +1,42 @@
+{
+ "match": {
+  "slug": "2026-06-13_BRA_vs_MAR",
+  "date": "2026-06-13",
+  "home": "BRA",
+  "away": "MAR",
+  "round": "group",
+  "group": "C"
+ },
+ "kickoff": {
+  "美东": "2026-06-13T18:00:00-04:00",
+  "北京": "06-14 06:00"
+ },
+ "venue": {
+  "name": "MetLife Stadium",
+  "city": "East Rutherford, New Jersey",
+  "altitude_m": 3,
+  "roof": "open",
+  "surface": "grass"
+ },
+ "weather": {
+  "开球时段": {
+   "温度C": 31.4,
+   "体感C": 29.7,
+   "降水概率%": 0,
+   "降水mm": 0.0,
+   "风速kmh": 12.7,
+   "湿度%": 28,
+   "天况": "晴"
+  },
+  "source": "open-meteo(免费预报API)",
+  "fetched": "2026-06-13_0748",
+  "_note": "临近开球建议 --refresh 刷新"
+ },
+ "referee": {
+  "name": "Slavko Vincic(斯洛文尼亚)",
+  "source": "WebSearch多源(MoroccoWorldNews/ESPN)",
+  "fetched": "2026-06-13_0748",
+  "brief": "- ① 执法尺度偏严，出牌率在欧洲顶级裁判中偏高，对战术犯规和危险动作判罚果断，VAR介入时配合度高但不过度依赖。\n- ② 2022世界杯主裁2场（阿根廷vs墨西哥、荷兰vs美国），2020欧洲杯主裁（比利时vs葡萄牙），欧冠淘汰赛常客。\n- ③ 对抗激烈时出牌概率高，对拉扯、阻挡等\"聪明犯规\"容忍度低，可能通过快速出牌建立权威。"
+ },
+ "_note": "环境=比赛+时间+地点 确定;天气为开球时段;顶棚 retractable/fixed-canopy 时天气影响有限。"
+}

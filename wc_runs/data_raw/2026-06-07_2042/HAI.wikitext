@@ -1,0 +1,108 @@
+{{Short description|Men's association football team}}
+{{About|the men's team|the women's team|Haiti women's national football team}}
+{{Use dmy dates|date=June 2026}}
+{{Infobox national football team
+| Name                  = Haiti
+| Badge                 = Flag of Haiti.svg
+| Badge_size            = 200px
+| Nickname              = {{lang|fr|Les Grenadiers}}<ref>{{cite web |url=http://www.mlssoccer.com/goldcup/2015/news/article/2015/05/22/gold-cup-first-ever-matchup-haiti-would-be-surreal-jozy-altidores-hamstring- |title=Gold Cup: First-ever matchup with Haiti would be "surreal" for Jozy Altidore |author=Wiebe, Andrew |date=10 July 2015 |publisher=MLS Soccer |access-date=22 July 2015 |archive-date=25 September 2015 |archive-url=https://web.archive.org/web/20150925074903/http://www.mlssoccer.com/goldcup/2015/news/article/2015/05/22/gold-cup-first-ever-matchup-haiti-would-be-surreal-jozy-altidores-hamstring- |url-status=dead }}</ref> <br> (The Grenadiers)<br>{{lang|fr|Le Rouge et Bleu}}<ref>{{cite web|url=http://www.trinitytigers.com/sports/msoc/2009-10/releases/4-19-2010_Haiti|title=Haiti's National Soccer Team Edges Trinity Men in Exhibition|work=Trinity (TX)|access-date=23 July 2015|archive-date=22 March 2019|archive-url=https://web.archive.org/web/20190322110610/https://www.trinitytigers.com/sports/msoc/2009-10/releases/4-19-2010_Haiti|url-status=dead}}</ref> <br> (The Red and Blue) <br> {{lang|fr|Les Bicolores}}<ref>{{cite book|url=https://books.google.com/books?id=jfrWCQAAQBAJ&q=haiti+football+Bicolores&pg=PA711 |title=The Complete Guide to National 67 land and Emblems |author=Minahan, James B. |page=711 |date=23 December 2009 |publisher=Abc-Clio |isbn=9780313344978 |access-date=22 July 2015}}</ref> <br> (The Bicolor) <br> {{lang|fr|La Sélection Nationale}}<ref>{{cite web|url=http://haiti-reference.com/pages/sports-et-loisirs/sports/9110-foot-ball/selection-nationale/|title=9112.- Sélection Nationale de Foot-ball|access-date=23 July 2015|archive-date=23 July 2015|archive-url=https://web.archive.org/web/20150723102639/http://haiti-reference.com/pages/sports-et-loisirs/sports/9110-foot-ball/selection-nationale/|url-status=live}}</ref> (The National Selection)
+| Association           = [[Haitian Football Federation|Fédération Haïtienne de Football]] (FHF)
+| Confederation         = [[CONCACAF]] (North America)
+| Sub-confederation     = [[Caribbean Football Union|CFU]] (Caribbean)
+| Coach                 = [[Sébastien Migné]]
+| Captain               = [[Johny Placide]]
+| Most caps             = [[Pierre Richard Bruny]] (95)
+| Top scorer            = [[Duckens Nazon]] (44)
+| Home Stadium          = [[Stade Sylvio Cator]]
+| FIFA Trigramme        = HAI
+| FIFA Rank             = {{FIFA World Rankings|HAI}}
+| FIFA max              = 38<ref>{{cite web|url=https://www.fifa.com/fifa-world-ranking/news/y=2013/m=1/news=ecuador-haiti-climb-highest-ever-slots-1986609.html |archive-url=https://web.archive.org/web/20150727002814/http://www.fifa.com/fifa-world-ranking/news/y=2013/m=1/news=ecuador-haiti-climb-highest-ever-slots-1986609.html |url-status=dead |archive-date=27 July 2015 |title=Ecuador, Haiti climb to highest-ever slots |editor=Press |date=17 January 2013 |publisher=FIFA |access-date=8 June 2016}}</ref>
+| FIFA max date         = January 2013
+| FIFA min              = 155
+| FIFA min date         = April 1996
+| Elo Rank              = {{World Football Elo Ratings|Haiti}}
+| Elo max               = 40
+| Elo max date          = December 1973
+| Elo min               = 121
+| Elo min date          = April 1996
+| pattern_la1           = _hai26H
+| pattern_b1            = _hai26H
+| pattern_ra1           = _hai26H
+| pattern_sh1           = 
+| pattern_so1           = 
+| leftarm1              = 0000FF
+| body1                 = 0000FF
+| rightarm1             = 0000FF
+| shorts1               = 0000FF
+| socks1                = 0000FF
+| pattern_la2           = _hai26A
+| pattern_b2            = _hai26A
+| pattern_ra2           = _hai26A
+| pattern_sh2           =
+| pattern_so2           = 
+| leftarm2              = FFFFFF
+| body2                 = FFFFFF
+| rightarm2             = FFFFFF
+| shorts2               = FFFFFF
+| socks2                = FFFFFF
+| pattern_la3           = _hai26T
+| pattern_b3            = _hai26T
+| pattern_ra3           = _hai26T
+| pattern_sh3           = 
+| pattern_so3           = 
+| leftarm3              = FF0000
+| body3                 = FF0000
+| rightarm3             = FF0000
+| shorts3               = FF0000
+| socks3                = FF0000
+| First game            = {{fb|HAI|1859}} 1–2 {{fb-rt|JAM|1906}}<br>([[Port-au-Prince]], Haiti;<ref>{{cite web |url=https://www.rsssf.org/tablesc/carib-tour2569.html |title=Caribbean Tour Matches 1925-1969 |editor=Courtney, Barrie |date=5 November 2014 |website=[[RSSSF]] |access-date=24 November 2018 |archive-date=23 October 2018 |archive-url=https://web.archive.org/web/20181023131618/http://www.rsssf.com/tablesc/carib-tour2569.html |url-status=live }}</ref> 22 March 1925)
+| Largest win           = {{fb|HAI}} 13–0 {{fb-rt|SXM}}<br>([[Port-au-Prince]], Haiti; 10 September 2018)
+| Largest loss          = {{fb|MEX|1934}} 8–0 {{fb-rt|HAI|1859}}<br>([[Mexico City]], Mexico; 19 July 1953)<br>{{fb|CRC}} 8–0 {{fb-rt|HAI|1859}}<br>([[San José, Costa Rica|San José]], Costa Rica; 19 March 1961)
+| World cup apps        = 2
+| World cup first       = 1974
+| World cup best        = Group stage ([[1974 FIFA World Cup|1974]])
+| Regional name         = [[CONCACAF Championship]] / [[CONCACAF Gold Cup|Gold Cup]]
+| Regional cup apps     = 17<!--as of 2025-->
+| Regional cup first    = [[1965 CONCACAF Championship|1965]]
+| Regional cup best     = '''Champions''' ([[1973 CONCACAF Championship|1973]])
+| 2ndRegional name      = [[Copa América]]
+| 2ndRegional cup apps  = 1
+| 2ndRegional cup first = [[Copa América Centenario|2016]]
+| 2ndRegional cup best  = Group stage ([[Copa América Centenario|2016]])
+| 3rdRegional name      = [[CCCF Championship]]
+| 3rdRegional cup apps  = 2
+| 3rdRegional cup first = [[1957 CCCF Championship|1957]]
+| 3rdRegional cup best  = '''Champions''' ([[1957 CCCF Championship|1957]])
+| 4thRegional name      = [[CFU Championship]] / [[Caribbean Cup]]
+| 4thRegional cup apps  = 11
+| 4thRegional cup first = [[1978 CFU Championship|1978]]
+| 4thRegional cup best  = '''Champions''' ([[1979 CFU Championship|1979]], [[2007 Caribbean Cup|2007]])
+| medaltemplates        =
+{{MedalCompetition|[[CONCACAF Championship]]}}
+{{MedalGold|[[1973 CONCACAF Championship|1973 Haiti]]|Team}}
+{{MedalSilver|[[1971 CONCACAF Championship|1971 Trinidad and Tobago]]|Team}}
+{{MedalSilver|[[1977 CONCACAF Championship|1977 Mexico]]|Team}}
+{{MedalCompetition|[[CCCF Championship]]}}
+{{MedalGold|[[1957 CCCF Championship|1957 Netherlands Antilles]]|Team}}
+{{MedalCompetition|[[CFU Championship]] / [[Caribbean Cup]]}}
+{{MedalGold|[[1979 CFU Championship|1979 Suriname]]|Team}}
+{{MedalGold|[[2007 Caribbean Cup|2007 Trinidad and Tobago]]|Team}}
+{{MedalSilver|[[2001 Caribbean Cup|2001 Trinidad and Tobago]]|Team}}
+{{MedalBronze|[[1978 CFU Championship|1978 Trinidad and Tobago]]|Team}}
+{{MedalBronze|[[1998 Caribbean Cup|1998 Trinidad and Tobago and Jamaica]]|Team}}
+{{MedalBronze|[[1999 Caribbean Cup|1999 Trinidad and Tobago]]|Team}}
+{{MedalBronze|[[2012 Caribbean Cup|2012 Antigua and Barbuda]]|[[2012 Caribbean Cup squads#Haiti|Team]]}}
+{{MedalBronze|[[2014 Caribbean Cup|2014 Jamaica]]|[[2014 Caribbean Cup squads#Haiti|Team]]}}
+}}
+
+The '''Haiti national football team''' ({{langx|fr|Équipe d'Haïti de football}}, {{langx|ht|Ekip Foutbòl Ayiti}}) represents [[Haiti]] in men's international [[Association football|football]], which is governed by the [[Haitian Football Federation|Fédération Haïtienne de Football]] ({{langx|en|Haitian Football Federation}}, {{langx|ht|Federasyon Foutbòl Ayisyen}}), the governing body for [[football in Haiti]] founded in 1904. It has been an affiliate member of [[FIFA]] since 1934 and a founding affiliate member of [[CONCACAF]] since 1961. Regionally, it is an affiliate member of [[Caribbean Football Union|CFU]] in the Caribbean Zone. From 1938 to 1961, it was a member of [[Confederación Centroamericana y del Caribe de Fútbol|CCCF]], the former governing body of football in Central America and Caribbean and a predecessor confederation of CONCACAF, and also a member of [[Panamerican Championship#Panamerican Football Confederation|PFC]], the former unified confederation of the Americas.
+
+Haiti has qualified for the [[FIFA World Cup]] twice ([[1974 FIFA World Cup|1974]] and [[2026 FIFA World Cup|2026]]) and is the only Caribbean nation to have done so.
+
+Haiti has participated seventeen times in CONCACAF's premier continental competition, it is the only Caribbean team to have won a title, winning the [[CONCACAF Championship]] in [[1973 CONCACAF Championship|1973]]. The team's best performance under the [[CONCACAF Gold Cup]] format was reaching the semifinals in [[2019 CONCACAF Gold Cup|2019]]. It has participated twice in League A and twice in League B of the [[CONCACAF Nations League]]. It has also participated once in the [[Copa América]], which was the 100th anniversary edition in [[Copa América Centenario|2016]]. 
+
+Regionally, the team won the [[CCCF Championship]] in [[1957 CCCF Championship|1957]] (organized by CCCF), the [[CFU Championship]] in [[1979 CFU Championship|1979]] and the [[Caribbean Cup]] in [[2007 Caribbean Cup|2007]] (both organized by CFU).
+
+Haiti's home ground is [[Stade Sylvio Cator]] in [[Port-au-Prince]] and the team's manager is [[Sébastien Migné]].<ref>{{cite web|url=https://www.icihaiti.com/en/news-41843-icihaiti-football-sebastien-migne-new-coach-of-the-grenadiers-senior.html|title=Sebastien Migné new coach of the Grenadiers Sénior|website=Icihaiti.com|date=9 March 2024|access-date=22 March 2025}}</ref>
+Haiti has one of the longest football traditions in the region, being the second Caribbean team to make the FIFA World Cup, after qualifying from winning the 1973 CONCACAF Championship. They made their World Cup debut in 1974, and were beaten in the group stage by [[Italy national football team|Italy]], [[Poland national football team|Poland]], and [[Argentina national football team|Argentina]], who were all pre-tournament favorites. In 2016, Haiti qualified for the 100th anniversary of the Copa América, by defeating [[Trinidad and Tobago national football team|Trinidad and Tobago]].
+Haiti qualified for the 2026 FIFA World Cup for the second time in its history, after defeating [[Nicaragua national football team|Nicaragua]] 2–0 in [[Curaçao]], on the final matchday to top Group C of the qualifiers.<ref>{{cite web|url= https://www.bbc.com/sport/football/articles/cwy70v7grl4o|title=Haiti reach World Cup despite coach having never been to the country|date=19 November 2025|work=BBC Sport|accessdate=19 November 2025}}</ref>

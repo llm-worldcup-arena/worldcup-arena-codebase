@@ -1,0 +1,92 @@
+[
+ {
+  "player_id": "648195",
+  "profile_url": "https://www.transfermarkt.com/enzo-fernandez/profil/spieler/648195",
+  "full_name": "Enzo Jeremías Fernández",
+  "display_name": "Enzo Fernández",
+  "short_name": "E. Fernández",
+  "nickname": "",
+  "date_of_birth": "2001-01-17",
+  "age": 25,
+  "place_of_birth": "San Martín",
+  "country_of_birth": "Argentina",
+  "nationality": [
+   "Argentina"
+  ],
+  "gender": "male",
+  "position": "Central Midfield",
+  "position_category": "Midfielder",
+  "foot": "right",
+  "height_cm": 178,
+  "current_club": "Chelsea FC",
+  "current_club_id": "631",
+  "current_competition": "Premier League",
+  "current_competition_code": "GB1",
+  "shirt_number": 8,
+  "is_captain": false,
+  "contract_until": "2032-06-30",
+  "last_contract_renewal": "",
+  "market_value_eur": 90000000,
+  "market_value_currency": "EUR",
+  "market_value_determined": "2026-06-03",
+  "previous_market_value_eur": 90000000,
+  "highest_market_value_eur": 90000000,
+  "highest_market_value_determined": "2026-06-03",
+  "market_value_history": [
+   "2020 | Defensa y Justicia | EUR 4,00M",
+   "2020 | Defensa y Justicia | EUR 5,00M",
+   "2021 | CA River Plate | EUR 5,00M",
+   "2021 | CA River Plate | EUR 6,50M",
+   "2021 | CA River Plate | EUR 15,00M",
+   "2022 | SL Benfica | EUR 20,00M",
+   "2022 | SL Benfica | EUR 35,00M",
+   "2022 | SL Benfica | EUR 55,00M",
+   "2022 | Chelsea FC | EUR 85,00M",
+   "2022 | Chelsea FC | EUR 80,00M",
+   "2023 | Chelsea FC | EUR 80,00M",
+   "2023 | Chelsea FC | EUR 75,00M",
+   "2024 | Chelsea FC | EUR 75,00M",
+   "2024 | Chelsea FC | EUR 75,00M",
+   "2025 | Chelsea FC | EUR 80,00M",
+   "2025 | Chelsea FC | EUR 85,00M",
+   "2025 | Chelsea FC | EUR 90,00M",
+   "2025 | Chelsea FC | EUR 90,00M"
+  ],
+  "agent": "",
+  "agency": "The Elegant Game",
+  "agency_id": "15804",
+  "youth_clubs": [
+   "Club La Recova (2005-2007)",
+   "CA River Plate (2007-2019)"
+  ],
+  "career_history": [
+   "CA River Plate U20 -> CA River Plate II | 2018-07-01 | - | 18/19",
+   "CA River Plate II -> Defensa y Justicia | 2020-08-22 | undisclosed | 20/21",
+   "Defensa y Justicia -> CA River Plate II | 2021-06-30 | undisclosed | 20/21",
+   "CA River Plate II -> CA River Plate | 2021-07-01 | - | 21/22",
+   "CA River Plate -> SL Benfica | 2022-07-14 | €44.25M | 22/23",
+   "SL Benfica -> Chelsea FC | 2023-01-31 | €121.00M | 22/23"
+  ],
+  "total_transfer_fees_eur": 165250000,
+  "international_team": "Argentina",
+  "international_caps": 41,
+  "international_goals": 6,
+  "national_team_history": [
+   "Argentina | 41 apps | 6 goals | CURRENT_NATIONAL_PLAYER",
+   "Argentina U20 | 2 apps | 0 goals | FORMER_NATIONAL_PLAYER"
+  ],
+  "injuries": [
+   "2026-04-03 to 2026-04-13 | Suspended | 2 games"
+  ],
+  "suspensions": [
+   "2025-06-11 to 2025-09-06 | Red card suspension | 1 game",
+   "2025-03-27 to 2025-06-06 | Yellow card suspension | 0 games",
+   "2024-02-29 to 2024-03-18 | Yellow card suspension | 1 game",
+   "2023-01-31 to 2023-01-31 | special leave | 0 games",
+   "2022-10-27 to 2022-11-03 | Yellow card suspension | 1 game",
+   "2021-03-29 to 2021-04-05 | Indirect card suspension | 1 game"
+  ],
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/big/648195-1669894717.jpg",
+  "scraped_at": "2026-06-08T18:08:28.233Z"
+ }
+]

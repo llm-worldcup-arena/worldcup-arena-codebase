@@ -1,0 +1,168 @@
+{{short description|Saudi Arabian footballer}}
+{{Use dmy dates|date=June 2018}}
+{{Infobox football biography
+| name= Abdullah Al-Khaibari
+| full_name = Abdullah Mohammed Al-Khaibari<ref name="FIFA">{{cite web |url=https://tournament.fifadata.com/documents/FWC/2018/pdf/FWC_2018_SQUADLISTS.PDF |title=2018 FIFA World Cup Russia – List of Players |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=4 June 2018 |access-date=4 June 2018 |archive-url=https://web.archive.org/web/20180619164139/https://tournament.fifadata.com/documents/FWC/2018/pdf/FWC_2018_SQUADLISTS.PDF |archive-date=19 June 2018 |url-status=dead }}</ref>
+| image       = Abdullah Al-Khaibari 2023 (cropped).jpg
+| caption     = Al-Khaibari with [[Al Nassr FC|Al-Nassr]] in 2023
+| birth_date  = {{birth date and age|df=yes|1996|8|15}}
+| birth_place = [[Riyadh]], Saudi Arabia
+| height      = 1.75 m<ref name="FIFA"/>
+| currentclub = [[Al Nassr FC|Al-Nassr]]
+| clubnumber  = 17
+| position    = [[Defensive midfielder]]
+| youthyears1 =  2008-2017
+| youthclubs1 = [[Al-Shabab FC (Riyadh)|Al-Shabab]]
+| years1      = 2017–2019
+| clubs1      = [[Al-Shabab FC (Riyadh)|Al-Shabab]]
+| caps1       = 32
+| goals1      = 0
+| years2      = 2019–
+| clubs2      = [[Al Nassr FC|Al-Nassr]]
+| caps2       = 175
+| goals2      = 1
+| nationalyears1 = 2017–2018
+| nationalteam1  = [[Saudi Arabia national under-23 football team|Saudi Arabia U-23]]
+| nationalcaps1  = 
+| nationalgoals1 = 
+| nationalyears2 = 2018–
+| nationalteam2  = [[Saudi Arabia national football team|Saudi Arabia]]
+| nationalcaps2  = 39
+| nationalgoals2  = 0
+| pcupdate       = 21 May 2026 
+| ntupdate       = 6 June 2026
+}}
+'''Abdullah Mohammed Al-Khaibari''' ({{langx|ar|عبد الله محمد الخيبري}}, born 15 August 1996) is a Saudi Arabian professional [[Association football|footballer]] who plays as a [[defensive midfielder]] for the [[Saudi Arabia national football team|Saudi Arabia national team]] and [[Saudi Pro League]] club [[Al Nassr FC|Al-Nassr]].<ref>{{cite web|url=http://www.slstat.com/spl2016-2017ar/player.php?id=1805|title=إحصائيات رابطة دوري المحترفين السعودي 2016/2017 - عبد الله الخيبري}}</ref>
+
+In May 2018, he was named in Saudi Arabia's preliminary [[Saudi Arabia national football team|squad]] for the [[2018 World Cup]] in [[Russia]].<ref>{{cite web|title= World Cup 2018: All the confirmed squads for this summer's finals in Russia|url= https://www.bbc.co.uk/sport/football/440833652018}}{{dead link|date=September 2025|bot=medic}}{{cbignore|bot=medic}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|31 May 2024}}<ref>{{cite web |title=ABDULLAH ALKHAIBARI |url=https://us.soccerway.com/players/abdullah-alkhaibari/471094/}}</ref>
+
+{| class=wikitable style="text-align: center;"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|King Cup
+!colspan=2|Asia
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan=4|[[Al-Shabab FC (Riyadh)|Al-Shabab]]
+|[[2016–17 Saudi Professional League|2016–17]]
+|rowspan=3|[[Saudi Professional League|SPL]]
+|4||0||0||0||colspan=2|—||colspan=2|—||4||0
+|-
+|[[2017–18 Saudi Professional League|2017–18]]
+|16||0||1||0||colspan=2|—||colspan=2|—||17||0
+|-
+|[[2018–19 Saudi Professional League|2018–19]]
+|12||0||0||0||colspan=2|—||colspan=2|—||12||0
+|-
+!colspan=2|Al-Shabab Total
+!32!!0!!1!!0!!0!!0!!0!!0!!33!!0
+|-
+|rowspan=7|[[Al-Nassr FC|Al-Nassr]]
+|[[2018–19 Al-Nassr FC season|2018–19]]
+|rowspan=6|[[Saudi Professional League|SPL]]
+|8||0||1||0||4||0||0||0||13||0
+|-
+|[[2019–20 Al-Nassr FC season|2019–20]]
+|18||0||3||0||10||0||1{{efn|name=SC|Appearance(s) in [[Saudi Super Cup]]}}||0||32||0
+|-
+|[[2020–21 Al-Nassr FC season|2020–21]]
+|17||0||2||0||3||0||1{{efn|name=SC}}||0||23||0
+|-
+|[[2021–22 Al-Nassr FC season|2021–22]]
+|23||0||2||0||3||0||colspan=2|—||28||0
+|-
+|[[2022–23 Al-Nassr FC season|2022–23]]
+|28||0||3||1||colspan=2|—||1{{efn|name=SC}}||0||32||1
+|-
+|[[2023–24 Al-Nassr FC season|2023–24]]
+|26||1||5||0||9||0||5{{efn|name=ACCC|Appearance(s) in [[Arab Club Champions Cup]]}} 1{{efn|name=SC}}||0||46||1
+|-
+!colspan=2|Al-Nassr Total
+!120!!1!!16!!1!!29!!0!!9!!0!!174!!2
+|-
+!colspan=3|Career total
+!152!!1!!17!!1!!29!!0!!9!!0!!207!!2
+|}
+
+{{notelist}}
+
+===International===
+:''Statistics accurate as of match played 6 June 2026.''<ref>{{NFT player|id=70331}}</ref><ref>{{cite web |title=( Abdullah ALKHAIBARI ) Matches Played |url=https://www.ksa-team.com/english/players.php?id=1140&type=1}}</ref>
+
+{| class="wikitable" style="text-align:center"
+! colspan=3|[[Saudi Arabia national football team|Saudi Arabia]]
+|-
+!Year!!Apps!!Goals
+|-
+|2018||8||0
+|-
+|2019||2||0
+|-
+|2022||2||0
+|-
+|2023||6||0
+|-
+|2024||8||0
+|-
+|2025||10||0
+|-
+|2026||3||0
+|-
+!Total||39||0
+
+|}
+
+==Honours==
+===Club===
+'''Al-Nassr'''
+* [[Saudi Pro League]]: [[2018–19 Saudi Professional League|2018–19]],  [[2025–26 Saudi Pro League|2025–26]]
+* [[Saudi Super Cup]]: [[2019 Saudi Super Cup|2019]], [[2020 Saudi Super Cup|2020]]
+*[[Arab Club Champions Cup]]: [[2023 Arab Club Champions Cup|2023]]
+
+==References==
+{{reflist}}
+
+==External links==
+*{{soccerway|abdullah-al-khaibari/471094}}
+
+{{Al Nassr FC squad}}
+{{Navboxes
+| title = Saudi Arabia squads
+| bg          = #006C35
+| fg          = #FFFFFF
+| bordercolor = #005429
+| list =
+{{Saudi Arabia squad 2018 FIFA World Cup}}
+{{Saudi Arabia squad 2023 AFC Asian Cup}}
+{{Saudi Arabia squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Khaibari, Abdullah}}
+[[Category:Living people]]
+[[Category:1996 births]]
+[[Category:Footballers from Riyadh]]
+[[Category:Men's association football midfielders]]
+[[Category:Saudi Arabian men's footballers]]
+[[Category:Al Shabab Club players]]
+[[Category:Al-Nassr FC players]]
+[[Category:Place of birth missing (living people)]]
+[[Category:Saudi Pro League players]]
+[[Category:2018 FIFA World Cup players]]
+[[Category:2023 AFC Asian Cup players]]
+[[Category:Saudi Arabia men's youth international footballers]]
+[[Category:21st-century Saudi Arabian sportsmen]]
+[[Category:Saudi Arabia men's international footballers]]
+[[Category:2026 FIFA World Cup players]]
+
+
+{{SaudiArabia-footy-midfielder-stub}}

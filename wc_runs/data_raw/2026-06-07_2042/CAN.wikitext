@@ -1,0 +1,103 @@
+{{Short description|Men's national soccer team representing Canada}}
+{{About|the men's team|the women's team|Canada women's national soccer team}}
+{{Use mdy dates|date=June 2025}}
+{{Use Canadian English|date=June 2025}}
+{{Infobox national football team
+| Name                  = Canada
+| Badge                 = Canadian Soccer Association logo.svg
+| Badge_size            = 210px
+| Nickname              = ''Les Rouges'' (The Reds)<br>''The [[Canuck]]s''<br>''The Maple Leaf Team''
+| Association           = [[Canadian Soccer Association]] (CSA)
+| Confederation         = [[CONCACAF]] (North America)
+| Sub-confederation     = [[North American Football Union|NAFU]] (North America)
+| Coach                 = [[Jesse Marsch]]
+| Captain               = [[Alphonso Davies]]
+| Most caps             = [[Atiba Hutchinson]] (104)
+| Top scorer            = [[Jonathan David]] ([[List of international goals scored by Jonathan David|39]])
+| FIFA Trigramme        = CAN
+| Home Stadium          = [[Canada men's national soccer team#Stadiums|Various]]
+| FIFA Rank             = {{FIFA World Rankings|CAN|mdy=y}}
+| FIFA max              = 26
+| FIFA max date         = September 2025
+| FIFA min              = 122
+| FIFA min date         = August 2014, October 2014
+| Elo Rank              = {{World Football Elo Ratings|Canada|mdy=y}}
+| Elo max               = 21
+| Elo max date          = February 2022
+| Elo min               = 92
+| Elo min date          = May 1975, June 2014
+<!-- home kit -->
+| pattern_la1           = _can26h
+| pattern_b1            = _can26h
+| pattern_ra1           = _can26h
+| pattern_sh1           = _can26h
+| pattern_so1           = 
+| leftarm1              = FF0000
+| body1                 = FF0000
+| rightarm1             = FF0000
+| shorts1               = FF0000
+| socks1                = FF0000
+<!-- away kit -->
+| pattern_la2           = _can26t
+| pattern_b2            = _can26t
+| pattern_ra2           = _can26t
+| pattern_sh2           = _can26t
+| pattern_so2           = 
+| leftarm2              = 000000
+| body2                 = 000000
+| rightarm2             = 000000
+| shorts2               = 000000
+| socks2                = 000000
+<!-- third kit -->
+| pattern_la3           = _can26a
+| pattern_b3            = _can26a
+| pattern_ra3           = _can26a
+| pattern_sh3           = _can26a
+| pattern_so3           = 
+| leftarm3              = FFFFFF
+| body3                 = FFFFFF
+| rightarm3             = FFFFFF
+| shorts3               = FFFFFF
+| socks3                = FFFFFF
+| First game            = {{fb|AUS}} 3–2 {{fb-rt|CAN|1921}}<br>([[Brisbane]], Australia; June 7, 1924)
+| Largest win           = {{fb|CAY}} 0–11 {{fb-rt|CAN}}<br>([[Bradenton, Florida|Bradenton]], United States; March 29, 2021)
+| Largest loss          = {{fb|MEX}} 8–0 {{fb-rt|CAN}}<br>([[Mexico City]], Mexico; July 18, 1993)
+| World cup apps        = 3<!--as of 2022-->
+| World cup first       = 1986
+| World cup best        = Group stage ([[1986 FIFA World Cup|1986]], [[2022 FIFA World Cup|2022]])
+| Regional name         = [[CONCACAF Championship]] / [[CONCACAF Gold Cup|Gold Cup]]
+| Regional cup apps     = 20<!--as of 2025-->
+| Regional cup first    = [[1977 CONCACAF Championship|1977]]
+| Regional cup best     = '''Champions''' ([[1985 CONCACAF Championship|1985]], [[2000 CONCACAF Gold Cup|2000]])
+| 2ndRegional name      = [[CONCACAF Nations League]]
+| 2ndRegional cup apps  = 4<!--as of 2025-->
+| 2ndRegional cup first = [[2019–20 CONCACAF Nations League|2019–20]]
+| 2ndRegional cup best  = Runners-up ([[2023 CONCACAF Nations League Finals|2023]])
+| 3rdRegional name      = [[Copa América]]
+| 3rdRegional cup apps  = 1
+| 3rdRegional cup first = [[2024 Copa América|2024]]
+| 3rdRegional cup best = Fourth place ([[2024 Copa América|2024]])
+| website               = {{Officialsite|https://www.canadasoccer.com/}}
+| medaltemplates        =
+{{MedalCompetition|[[Football at the Summer Olympics|Olympic Games]]}}{{efn|group=note|Medal recognized by [[International Olympic Committee|IOC]], but not by [[FIFA]].}}
+{{MedalGold|[[1904 Summer Olympics|1904 St. Louis]]|[[Football at the 1904 Summer Olympics|Team]]}}
+{{MedalCompetition|[[CONCACAF Championship]] / [[CONCACAF Gold Cup|Gold Cup]]}}
+{{MedalGold|[[1985 CONCACAF Championship|1985 North America]]|Team}}
+{{MedalGold|[[2000 CONCACAF Gold Cup|2000 United States]]|[[2000 CONCACAF Gold Cup squads#Canada|Team]]}}
+{{MedalBronze|[[2002 CONCACAF Gold Cup|2002 United States]]|[[2002 CONCACAF Gold Cup squads#Canada|Team]]}}
+{{MedalCompetition|[[CONCACAF Nations League]]}}
+{{MedalSilver|[[2023 CONCACAF Nations League Finals|2023 United States]]|[[2023 CONCACAF Nations League Finals squads#Canada|Team]]}}
+{{MedalBronze|[[2025 CONCACAF Nations League Finals|2025 United States]]|[[2025 CONCACAF Nations League Finals squads#Canada|Team]]}}
+{{MedalCompetition|[[North American Nations Cup]]}}
+{{MedalGold|[[1990 North American Nations Cup|1990 Canada]]|[[1990 North American Nations Cup squads#Canada|Team]]}}
+{{MedalBronze|[[1991 North American Nations Cup|1991 United States]]|[[1991 North American Nations Cup squads#Canada|Team]]}}
+}}
+
+The '''Canada men's national soccer team''' ({{langx|fr|Équipe du Canada de soccer masculin}})<ref>{{cite web |last=Wiebe |first=Andrew |title=(bleep)-show circus for USWNT, Pulisic's place & CanMNT dreams |url=https://www.mlssoccer.com/post/2019/06/28/extratime-bleep-show-circus-uswnt-pulisics-place-canmnt-dreams |website=MLS Soccer |date=June 28, 2019 |access-date=August 30, 2019 |archive-url=https://web.archive.org/web/20190717095129/https://www.mlssoccer.com/post/2019/06/28/extratime-bleep-show-circus-uswnt-pulisics-place-canmnt-dreams |archive-date=July 17, 2019 |url-status=live }}</ref><ref>{{cite news |last=Murray |first=Nicholas |title=Fury FC's Haworth Has Earned CanMNT Call |url=https://www.uslchampionship.com/news_article/show/1039560 |agency=USL Championship |date=August 6, 2019 |access-date=August 30, 2019 |archive-url=https://web.archive.org/web/20190830023928/https://www.uslchampionship.com/news_article/show/1039560 |archive-date=August 30, 2019 |url-status=live }}</ref><ref>{{cite news |url=https://canpl.ca/article/its-extra-special-carducci-plays-hero-vs-pacific-after-canmnt-nod |last=Prusna |first=Sandra |title=Carducci plays hero vs. Pacific after CanMNT nod |publisher=CanPL.ca |date=August 28, 2019 |access-date=August 30, 2019 |archive-url=https://web.archive.org/web/20190830023925/https://canpl.ca/article/its-extra-special-carducci-plays-hero-vs-pacific-after-canmnt-nod |archive-date=August 30, 2019 |url-status=live }}</ref> represents [[Canada]] in men's international [[Association football|soccer]], which is governed by the [[Canadian Soccer Association]] ({{langx|fr|Association canadienne de soccer}}), the governing body for [[soccer in Canada]] founded in 1912. It has been an affiliate member of [[FIFA]] since 1912 and a founding affiliate member of [[CONCACAF]] since 1961.<ref>{{Cite web|url=http://www.canadasoccer.com/about-s14644|title=About Us |website=Canada Soccer|access-date=February 12, 2017|archive-url=https://web.archive.org/web/20170204174844/http://www.canadasoccer.com/about-s14644|archive-date=February 4, 2017|url-status=live}}</ref> Regionally, it is an affiliate member of [[North American Football Union|NAFU]] in the North American Zone.
+
+Canada has qualified for the [[FIFA World Cup]] three times ([[1986 FIFA World Cup|1986]],<ref>{{Cite web|url=http://www.canadasoccer.com/canadian-soccer-timeline-from-1983-to-1986-p150670|title=Canada Soccer from 1983 to 1986 |website=Canada Soccer|access-date=February 12, 2017|archive-url=https://web.archive.org/web/20170126202022/http://www.canadasoccer.com/canadian-soccer-timeline-from-1983-to-1986-p150670|archive-date=January 26, 2017|url-status=live}}</ref> [[2022 FIFA World Cup|2022]] and [[2026 FIFA World Cup|2026]]). In 2026, Canada will host the World Cup for the first time.
+It has qualified for the [[FIFA Confederations Cup]] once ([[2001 FIFA Confederations Cup|2001]]).<ref>{{Cite web|url=http://www.canadasoccer.com/canadian-soccer-timeline-from-1999-to-2002-p150674|title=Canada Soccer from 1999 to 2002|website=Canada Soccer|access-date=February 12, 2017|archive-url=https://web.archive.org/web/20160820162302/http://www.canadasoccer.com/canadian-soccer-timeline-from-1999-to-2002-p150674|archive-date=August 20, 2016|url-status=live}}</ref><ref>{{Cite news|url=https://fansided.com/2017/07/03/list-of-gold-cup-winners/|title=List of Gold Cup winners|last=Finch|first=Ty|date=July 3, 2017|work=FanSided|access-date=October 10, 2017|archive-url=https://web.archive.org/web/20171010211025/https://fansided.com/2017/07/03/list-of-gold-cup-winners/|archive-date=October 10, 2017|url-status=live}}</ref>
+
+Canada has participated twenty times in CONCACAF's premier continental competition, winning the [[CONCACAF Championship]] in [[1985 CONCACAF Championship|1985]] and the successor [[CONCACAF Gold Cup]] in [[2000 CONCACAF Gold Cup|2000]]. It also finished as runners-up in the [[CONCACAF Nations League]] in the [[2023 CONCACAF Nations League Finals|2023 finals]]. It participated once in the [[Copa América]], finishing in fourth place in [[2024 Copa América|2024]]. 
+
+Regionally, the team won the [[North American Nations Cup]] as hosts in [[1990 North American Nations Cup|1990]].

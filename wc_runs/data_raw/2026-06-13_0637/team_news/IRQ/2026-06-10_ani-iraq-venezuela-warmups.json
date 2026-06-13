@@ -1,0 +1,16 @@
+{
+ "team": "IRQ",
+ "source": "ANI",
+ "url": "https://www.aninews.in/news/sports/football/iraq-lose-to-venezuela-saudi-arabia-draw-with-senegal-in-world-cup-warm-ups20260610102943/",
+ "title": "Iraq lose to Venezuela, Saudi Arabia draw with Senegal in World Cup warm-ups",
+ "news_date": "2026-06-10",
+ "published": "2026-06-10T04:59:43.527851+00:00",
+ "tier": "3",
+ "lang": "en",
+ "asof": "2026-06-13",
+ "fetched": "2026-06-13_0637",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "You are using an outdated browser. Please upgrade your browser to improve your experience.\n\nPennsylvania [US], June 10 (ANI): Iraq suffered a 2-0 defeat against Venezuela in their final FIFA World Cup 2026 warm-up friendly in Bridgeville, Illinois, on Wednesday. Venezuela took the lead in the 17th minute through Cristian Casseres, who finished from close range to put the South American side ahead. The visitors doubled their advantage immediately after the restart when Casseres won possession and set up striker Jesus Ramirez, who beat a defender before unleashing a powerful finish to make it 2-0. Iraq 's night further worsened as they were reduced to 10 men in the 72nd minute after forward Ali Youssef was shown a straight red card.\n\nDespite the defeat, Iraq will return to the World Cup finals for the first time in 40 years, with their Group I campaign set to begin against Norway on June 17, followed by matches against France and Senegal . In another warm-up fixture, Saudi Arabia played out a goalless draw against 10-man Senegal in their final preparatory match before the tournament. Saudi Arabia, coached by Giorgos Donis, made several changes in the second half after fielding a strong starting lineup and created early chances, including a close effort from Musab Al Juwayr in the 10th minute. Senegal also threatened through Lamine Camara and Nicolas Jackson but failed to break the deadlock, as the match ended 0-0. Saudi Arabia will open their Group H campaign against Uruguay on June 16, while Senegal begins their Group I journey against France before facing Norway and Iraq .",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

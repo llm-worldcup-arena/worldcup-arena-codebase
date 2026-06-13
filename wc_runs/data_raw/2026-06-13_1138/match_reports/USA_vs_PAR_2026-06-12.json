@@ -1,0 +1,59 @@
+{
+ "match_id": "usapar",
+ "date": "2026-06-12",
+ "comp": "世界杯·D组",
+ "ha_home": "主",
+ "home": "USA",
+ "away": "PAR",
+ "score": "4-1",
+ "venue": "SoFi Stadium (Inglewood)",
+ "goals": [
+  {
+   "min": 7,
+   "side": "home",
+   "player": "Bobadilla(OG乌龙)",
+   "sub": null
+  },
+  {
+   "min": 31,
+   "side": "home",
+   "player": "Folarin Balogun",
+   "sub": null
+  },
+  {
+   "min": 45,
+   "side": "home",
+   "player": "Folarin Balogun",
+   "sub": null
+  },
+  {
+   "min": 73,
+   "side": "away",
+   "player": "巴拉圭(2H)",
+   "sub": null
+  },
+  {
+   "min": 90,
+   "side": "home",
+   "player": "Gio Reyna",
+   "sub": null
+  }
+ ],
+ "cards": [],
+ "stats": {},
+ "lineups": {},
+ "missing": [],
+ "events": [],
+ "injuries": [],
+ "suspensions": [],
+ "ratings": {},
+ "quotes": [
+  {
+   "who": "Mauricio Pochettino(美国主帅)",
+   "text": "队史首次半场3-0领先,揭幕完美开局。",
+   "src": "ESPN/CNN"
+  }
+ ],
+ "narrative": "洛杉矶SoFi揭幕:美国半场3-0(7'Bobadilla乌龙/31'+45+5'Balogun梅开二度)、终场4-1(Reyna补时锦上添花),巴拉圭下半场扳回一球。美国队史首次世界杯半场3-0,Balogun两球成英雄,Pulisic/Reyna串联。",
+ "prediction_note": "美国攻击线状态火热(Balogun/Reyna),主场+大胜士气;巴拉圭防线被打穿、需重整。D组美国领跑。"
+}

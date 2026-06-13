@@ -1,0 +1,117 @@
+{{short description|Paraguayan footballer (born 1996)}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+|name = José Canale
+|full_name = José María Canale Domínguez
+|birth_date = {{Birth date and age|1996|7|20|df=y}}
+|birth_place = [[Itauguá]], Paraguay
+|height = 1.87 m
+|position = [[Centre-back]]
+|currentclub =  [[Club Atlético Lanús|Lanús]]
+|clubnumber = 13
+|youthyears1 = 2012–2015
+|youthclubs1 = [[Club Libertad|Libertad]]
+|years1 = 2015–2023
+|clubs1 = [[Club Libertad|Libertad]]
+|caps1 = 44
+|goals1 = 0
+|years2 = 2017
+|clubs2 = → [[Club Nacional|Nacional]] (loan)
+|caps2 = 20
+|goals2 = 0
+|years3 = 2020
+|clubs3 = → [[Club Sol de América|Sol de América]] (loan)
+|caps3 = 22
+|goals3 = 2
+|years4 = 2021
+|clubs4 = → [[Newell's Old Boys]] (loan)
+|caps4 = 11
+|goals4 = 0
+|years5 = 2022
+|clubs5 = → [[Godoy Cruz Antonio Tomba|Godoy Cruz]] (loan)
+|caps5 = 14
+|goals5 = 0
+|years6 = 2023–
+|clubs6 = [[Club Atlético Lanús|Lanús]]
+|caps6 = 49
+|goals6 = 5
+|years7 = 2024–2025
+|clubs7 = → [[Querétaro F.C.|Querétaro]] (loan)
+|caps7 = 22
+|goals7 = 1
+|nationalyears1 = 2026–
+|nationalteam1 = [[Paraguay national football team|Paraguay]]
+|nationalcaps1 = 1
+|nationalgoals1 = 0
+|pcupdate = 17:14, 6 June 2026 (UTC)
+|ntupdate = 23:52, 27 March 2026 (UTC)
+}}
+
+'''José María Canale Domínguez''' (born 20 July 1996) is a Paraguayan professional [[association football|footballer]] who plays as a [[centre-back]] for [[Argentine Primera División]] side [[Club Atlético Lanús|Lanús]] and the [[Paraguay national football team|Paraguay national team]].
+
+==Career==
+Canale debuted for [[Club Libertad|Libertad]] on 28 May 2015 in a 3–0 win against [[Club Sportivo San Lorenzo|San Lorenzo]] in the [[Paraguayan Primera División]].
+
+On 29 July 2021, he moved to Argentina to join [[Newell's Old Boys]] on loan.<ref>{{Cite web |date=2021-10-25 |title=Acuerdo para la contratación de José Canale - Noticias CANOB |url=https://www.newellsoldboys.com.ar/noticias/primera-division/2021/07/29/Acuerdo-para-la-contratacion-de-Jose-Canale |access-date=2024-08-19 |archive-url=https://web.archive.org/web/20211025203248/https://www.newellsoldboys.com.ar/noticias/primera-division/2021/07/29/Acuerdo-para-la-contratacion-de-Jose-Canale |archive-date=25 October 2021 }}</ref><ref>{{Cite web |title=José Maria Canale sería cedido a Newell's de Argentina - Libertad - ABC Color |url=https://www.abc.com.py/deportes/futbol/libertad/2021/07/29/jose-maria-canale-seria-cedido-a-newells-de-argentina/ |access-date=2024-08-19 |website=www.abc.com.py |language=es}}</ref>
+
+On 7 December 2022, he left Libertad permanently to join [[Club Atlético Lanús|Lanús]].<ref>{{Cite web |date=2022-12-07 |title=José Canale refuerza a Lanús |url=https://d10.ultimahora.com/jose-canale-refuerza-lanus-n3037614 |access-date=2024-08-19 |website=D10 |language=es}}</ref> In August 2024, he joined [[Liga MX]] side [[Querétaro F.C.|Querétaro]] on loan, with an option to buy.<ref>{{Cite web |title=Liga MX: José Canale es nuevo jugador del Querétaro |url=https://www.tusbuenasnoticias.com/noticias/deportes/2024/08/16/36438-liga-mx-jose-canale-refuerza-al-queretaro |access-date=2024-08-19 |website=TusBuenasNoticias |language=es}}</ref>
+
+==Career statistics==
+===International===
+{{updated|match played 27 March 2026}}
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="1"|[[Paraguay national football team|Paraguay]]
+|2026||1||0
+|-
+!colspan="2"|Total!!1!!0
+|}
+
+==Honours==
+'''Libertad'''
+*[[Paraguayan Primera División]]: [[2016 Paraguayan Primera División season|2016]]
+*[[Copa Paraguay]]: [[2019 Copa Paraguay|2019]]
+
+'''Lanús'''
+*[[Copa Sudamericana]]: [[2025 Copa Sudamericana final|2025]]
+*[[Recopa Sudamericana]]: [[2026 Recopa Sudamericana|2026]]
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Soccerway|jose-canale-dominguez/405996}}
+* [http://www.ultimahora.com/canale-reaparecera-n1099477.html José Canale] at Canale reaparecerá
+
+{{Club Atlético Lanús squad}}
+{{Paraguay squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Canale, José}}
+[[Category:Living people]]
+[[Category:1996 births]]
+[[Category:People from Itauguá]]
+[[Category:21st-century Paraguayan sportsmen]]
+[[Category:Paraguayan men's footballers]]
+[[Category:Men's association football central defenders]]
+[[Category:Club Libertad footballers]]
+[[Category:Club Nacional footballers]]
+[[Category:Club Sol de América footballers]]
+[[Category:Newell's Old Boys footballers]]
+[[Category:Godoy Cruz Antonio Tomba footballers]]
+[[Category:Club Atlético Lanús footballers]]
+[[Category:Querétaro F.C. footballers]]
+[[Category:Paraguayan Primera División players]]
+[[Category:Argentine Primera División players]]
+[[Category:Liga MX players]]
+[[Category:Paraguayan expatriate men's footballers]]
+[[Category:Paraguayan expatriate sportspeople in Mexico]]
+[[Category:Paraguayan expatriate sportspeople in Argentina]]
+[[Category:Expatriate men's footballers in Mexico]]
+[[Category:Copa Sudamericana–winning players]]
+[[Category:Expatriate men's footballers in Argentina]]
+[[Category:Paraguay men's international footballers]]
+[[Category:2026 FIFA World Cup players]]

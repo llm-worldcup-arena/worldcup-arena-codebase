@@ -1,0 +1,107 @@
+{{Short description|Men's national football team}}
+{{About|the men's football team|the women's team|South Africa women's national football team}}
+{{Use South African English|date = November 2024}}
+{{Use dmy dates|date=November 2024}}
+{{Infobox national football team
+| Name               = South Africa
+| Badge              = South Africa national soccer team logo.svg
+| Badge_size         = 190px
+| FIFA Trigramme     = RSA
+| Nickname           = ''Bafana Bafana''
+| Association        = [[South African Football Association]] (SAFA)
+| Confederation      = [[Confederation of African Football|CAF]] (Africa)
+| Sub-confederation  = [[COSAFA]] (Southern Africa)
+| Coach              = [[Hugo Broos]]
+| Captain            = [[Ronwen Williams]]
+| Most caps          = [[Aaron Mokoena]] (107)
+| Top scorer         = [[Benni McCarthy]] ([[List of international goals scored by Benni McCarthy|31]])
+| Home Stadium       = [[List of football stadiums in South Africa|Various]]
+| website            = {{URL|https://www.safa.net/|safa.net}}
+| FIFA Rank          = {{FIFA World Rankings|RSA}}
+| FIFA max           = 16
+| FIFA max date      = August 1996
+| FIFA min           = 124
+| FIFA min date      = December 1992
+| Elo Rank           = {{World Football Elo Ratings|South Africa}}
+| Elo max            = 21 (9)
+| Elo max date       = September 1996 (October 1955)<ref>The [http://www.eloratings.net/world.html Elo ratings website] {{webarchive|url=http://archive.wikiwix.com/cache/20110723000000/http://www.eloratings.net/world.html |date=23 July 2011 }} lists 21 as the highest reached position, though after 23 (too few?) matches between 1947 and 1955, almost all with Australia and New Zealand, it had reached [http://www.eloratings.net/South_Africa.htm 9th place] .</ref>
+| Elo min                  = 94
+| Elo min date             = May 2006
+| pattern_la1              = _rsa26h
+| pattern_b1               = _rsa26h
+| pattern_ra1              = _rsa26h
+| pattern_sh1              = _rsa26h
+| pattern_so1              = 
+| leftarm1                 = fce53d
+| body1                    = fce53d
+| rightarm1                = fce53d
+| shorts1                  = 21835d
+| socks1                   = FFF000
+| pattern_la2              = _rsa26a
+| pattern_b2               = _rsa26a
+| pattern_ra2              = _rsa26a
+| pattern_sh2              = _rsa26a
+| pattern_so2              = _adidasonwhitel
+| leftarm2                 = 400000
+| body2                    = 400000
+| rightarm2                = 400000
+| shorts2                  = ffffff
+| socks2                   = dcb687
+| pattern_la3              = 
+| pattern_b3               = 
+| pattern_ra3              = 
+| pattern_sh3              = 
+| pattern_so3              = 
+| leftarm3                 = 
+| body3                    = 
+| rightarm3                = 
+| shorts3                  = 
+| socks3                   = 
+| First game               = {{fb|ARG}} 0–1 {{fb-rt|South Africa|1902}}<br />([[Buenos Aires]], [[Argentina]]; 9 July 1906)<ref name=Elo>{{cite web|title=South Africa|url=https://www.eloratings.net/South_Africa|publisher=Elo Ratings|access-date=16 March 2022|archive-date=2 October 2022|archive-url=https://web.archive.org/web/20221002140100/https://www.eloratings.net/South_Africa|url-status=live}}</ref><ref>{{cite web|title=Argentina v South Africa, 09 July 1906|url=https://www.11v11.com/matches/argentina-v-south-africa-09-july-1906-222693/|publisher=International Football History and Statistics|access-date=23 March 2019|archive-date=5 April 2022|archive-url=https://web.archive.org/web/20220405192214/https://www.11v11.com/matches/argentina-v-south-africa-09-july-1906-222693/|url-status=live}}</ref>
+| Largest win              = {{fb|AUS}} 0–8 {{fb-rt|South Africa|1928}}<br />([[Adelaide]], [[Australia]]; 17 September 1955)<ref>{{cite web|title=All Bafana Bafana Matches|url=http://www.safa.net/UserFiles/www.safa.net/Documents/ALL%20BAFANA%20INTERNATIONAL%20MATCHES%202009%20Part1.pdf|publisher=South Africa FA|access-date=29 October 2010|url-status=dead|archive-url=https://web.archive.org/web/20110105154511/http://safa.net/UserFiles/www.safa.net/Documents/ALL%20BAFANA%20INTERNATIONAL%20MATCHES%202009%20Part1.pdf|archive-date=5 January 2011}}</ref>
+| Largest loss             = {{fb|South Africa|1912}} 1–9 {{fb-rt|ENG}}<br />([[Cape Town]], [[South Africa]]; 17 July 1920)<ref name=Elo/>
+| World cup apps           = 4
+| World cup first          = 1998
+| World cup best           = Group stage ([[1998 FIFA World Cup|1998]], [[2002 FIFA World Cup|2002]], [[2010 FIFA World Cup|2010]])
+| Regional name            = [[Africa Cup of Nations]]
+| Regional cup apps        = 12
+| Regional cup first       = [[1996 African Cup of Nations|1996]]
+| Regional cup best        = '''Champions''' ([[1996 African Cup of Nations|1996]])
+| 2ndRegional name         = [[CONCACAF Gold Cup]]
+| 2ndRegional cup apps     = 1
+| 2ndRegional cup first    = [[2005 CONCACAF Gold Cup|2005]]
+| 2ndRegional cup best     = Quarter-finals ([[2005 CONCACAF Gold Cup|2005]])
+| 3rdRegional name         = [[African Nations Championship]]
+| 3rdRegional cup apps     = 2
+| 3rdRegional cup first    = [[2011 African Nations Championship|2011]]
+| 3rdRegional cup best     = Quarter-finals ([[2011 African Nations Championship|2011]])
+| 4thRegional name         = [[FIFA Confederations Cup|Confederations Cup]]
+| 4thRegional cup apps     = 2
+| 4thRegional cup first    = [[1997 FIFA Confederations Cup|1997]]
+| 4thRegional cup best     = Fourth place ([[2009 FIFA Confederations Cup|2009]])
+| medaltemplates           = 
+{{MedalCompetition|[[Africa Cup of Nations]]}}
+{{MedalGold|[[1996 African Cup of Nations|1996 South Africa]]|[[1996 African Cup of Nations squads#South Africa|Team]]}}
+{{MedalSilver|[[1998 African Cup of Nations|1998 Burkina Faso]]|[[1998 African Cup of Nations squads#South Africa|Team]]}}
+{{MedalBronze|[[2000 African Cup of Nations|2000 Nigeria and Ghana]]|[[2000 African Cup of Nations squads#South Africa|Team]]}}
+{{MedalBronze|[[2023 Africa Cup of Nations|2023 Ivory Coast]]|[[2023 Africa Cup of Nations squads#South Africa|Team]]}}
+{{MedalCompetition|[[Afro-Asian Cup of Nations]]}}
+{{MedalGold|[[1997 Afro-Asian Cup of Nations|1997 South Africa and Saudi Arabia]]|Team}}
+{{MedalCompetition|[[COSAFA Cup]]}}
+{{MedalGold|[[2002 COSAFA Cup|2002 Southern Africa]]|Team}}
+{{MedalGold|[[2007 COSAFA Cup|2007 Southern Africa]]|Team}}
+{{MedalGold|[[2008 COSAFA Cup|2008 South Africa]]|Team}}
+{{MedalGold|[[2016 COSAFA Cup|2016 Namibia]]|[[2016 COSAFA Cup squads#South Africa|Team]]}}
+{{MedalGold|[[2021 COSAFA Cup|2021 South Africa]]|Team}}
+{{MedalSilver|[[2025 COSAFA Cup|2025 South Africa]]|Team}}
+{{MedalBronze|[[2000 COSAFA Cup|2000 Southern Africa]]|Team}}
+{{MedalBronze|[[2005 COSAFA Cup|2005 Mauritius, Namibia, South Africa and Zambia]]|Team}}
+{{MedalBronze|[[2013 COSAFA Cup|2013 Zambia]]|[[2013 COSAFA Cup squads#South Africa|Team]]}}
+{{MedalBronze|[[2023 COSAFA Cup|2023 South Africa]]|Team}}
+}}
+
+The '''South Africa national soccer team''' represents [[South Africa]] in men's international [[association football|football]] and is run by the [[South African Football Association]], the governing body for [[football in South Africa]]. Nicknamed '''Bafana Bafana''' (The Boys in [[Zulu language|Zulu]]), the team plays at various stadiums around the country. The team is a member of both [[FIFA]] and the [[Confederation of African Football]] (CAF), is one of the most well-supported national sides in Africa,<ref>{{Cite journal | title=Supporters' perceived brand equity of the Bafana Bafana National Football Team of South Africa {{!}} African Journal for Physical Health Education, Recreation and Dance | journal=African Journal for Physical Health Education, Recreation and Dance | date=June 2013 | volume=19 | issue=2 | pages=324–335 | url=https://journals.co.za/doi/abs/10.10520/EJC137202 | archive-url=https://web.archive.org/web/20240404074110/https://journals.co.za/doi/abs/10.10520/EJC137202 | access-date=23 December 2024 | archive-date=4 April 2024 | last1=Mahlangu | first1=H. B. | last2=Dlodlo | first2=N. | last3=Mokoena | first3=B. A. }}</ref> and are recognised by their traditional yellow-green kits.
+
+Having played their first match in 1906, South Africa returned to the world stage in 1992, after sixteen years of being banned from [[FIFA]], and forty years of effective suspension due to the [[apartheid]] system.<ref>{{cite news| url=https://www.fifa.com/about-fifa/news/y=2004/m=10/news=from-apartheid-the-world-cup-four-decades-the-sporting-life-south-afri-94531.html | archive-url=https://web.archive.org/web/20170210183231/http://www.fifa.com/about-fifa/news/y=2004/m=10/news=from-apartheid-the-world-cup-four-decades-the-sporting-life-south-afri-94531.html | url-status=dead | archive-date=10 February 2017 | publisher=FIFA | title=From apartheid to the World Cup – four decades in the sporting life of South Africa | date=27 October 2004 | access-date=1 September 2017 <!--DASHBot-->}}</ref> South Africa have qualified for the [[FIFA World Cup]] three times: [[1998 FIFA World Cup|1998]], [[2002 FIFA World Cup|2002]] and [[2026 FIFA World Cup|2026]], in addition to qualifying as hosts of the 2010 tournament, becoming the first African nation to do so. Despite defeating [[France national football team|France]] 2–1 in their final game of the group stage, they failed to progress from the first round of the tournament, becoming the first host nation in the history of the FIFA World Cup to exit in the group stage, followed by [[Qatar national football team|Qatar]] in 2022.<ref>{{cite news | url=https://news.bbc.co.uk/sport2/hi/football/world_cup_2010/8814195.stm | publisher=BBC News | title=England slip to worst Cup ranking | date=13 July 2010 | access-date=1 December 2011 <!--DASHBot--> | archive-date=29 December 2018 | archive-url=https://web.archive.org/web/20181229103711/http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/8814195.stm | url-status=live }}</ref> As of January 2026, the team is ranked 60th in [[FIFA]] overall.
+
+South Africa's most significant achievement came in [[1996 African Cup of Nations|1996]] when they hosted and won the [[Africa Cup of Nations]] (AFCON). They reached the final again in 1998 but were defeated by Egypt.

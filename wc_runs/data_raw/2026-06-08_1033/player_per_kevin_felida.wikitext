@@ -1,0 +1,90 @@
+{{short description|Curaçaoan professional footballer|bot=PearBOT 5}}
+{{Use dmy dates|date=July 2025}}
+{{Infobox football biography
+|name        = Kevin Felida
+|image       = kevin felida-1571753982.jpg
+|image_size  = 
+|caption     = Felida in 2019
+|fullname    = 
+|birth_date  = {{birth date and age|1999|11|11|df=y}}
+|birth_place = [[Spijkenisse]], Netherlands<ref name = "WF"/>
+|height      = 1.74 m<ref name = "WF"/>
+|position    = [[Defensive midfielder]]
+|currentclub = [[FC Den Bosch|Den Bosch]]
+|clubnumber  = 6
+|youthyears1 = 
+|youthclubs1 = SCO '63
+|youthyears2 = 2009–2012
+|youthclubs2 = [[VV Spijkenisse]]
+|youthyears3 = 2012–2016
+|youthclubs3 = [[SBV Excelsior|Excelsior]]
+|youthyears4 = 2016–2017
+|youthclubs4 = Brabant United
+|youthyears5 = 2017–2018
+|youthclubs5 = [[FC Den Bosch|Den Bosch]]
+|years1      = 2018–2022
+|clubs1      = [[FC Den Bosch|Den Bosch]]
+|caps1       = 132
+|goals1      = 6
+|years2      = 2022–2025
+|clubs2      = [[RKC Waalwijk]]
+|caps2       = 32
+|goals2      = 1
+|years3      = 2025–
+|clubs3      = [[FC Den Bosch|Den Bosch]]
+|caps3       = 34
+|goals3      = 4
+|nationalyears1 = 2021–
+|nationalteam1 = [[Curaçao national football team|Curaçao]]<ref>{{NFT player|pid=82906|accessdate=26 September 2022}}</ref>
+|nationalcaps1 = 17
+|nationalgoals1 = 1
+|club-update = 25 April 2026
+|ntupdate = 13:37, 18 June 2025 (UTC)
+}}
+
+'''Kevin Felida''' (born 11 November 1999) is a professional [[association football|footballer]] who plays as a [[defensive midfielder]] for [[Eerste Divisie]] club [[FC Den Bosch|Den Bosch]].<ref name = "SW">{{Soccerway|kevin--felida/501817|accessdate=1 May 2018}}</ref><ref name = "WF">{{Worldfootball.net|kevin-felida|new_id=pe498290}}</ref> Born in the Netherlands, he plays for the [[Curaçao national football team|Curaçao national team]].
+
+==Club career==
+Born in [[Spijkenisse]], where he grew up as a childhood friend of [[Joshua Zirkzee]],<ref>{{cite news |last1=Gouka |first1=Mikos |title=Van A tot Zirkzee: zien we deze nieuwkomer in Koemans voorselectie? |url=https://www.ad.nl/nederlands-voetbal/van-a-tot-zirkzee-zien-we-deze-nieuwkomer-in-koemans-voorselectie~ad7562be/ |accessdate=20 October 2020 |work=Algemeen Dagblad |date=11 March 2020 |location=Rotterdam |language=Dutch |quote=Kevin Felida is de grote vriend van Zirkzee. De middenvelder speelt bij FC Den Bosch. Hij stond op het veld toen Ahmad Mendes Moreira van Excelsior racistisch werd beledigd. ''Ahmad en ik waren de enige donkere spelers op het veld. Ik voelde me bij hem betrokken'', zei hij tegen het NRC.}}</ref> Felida ended up in the youth academy of FC Den Bosch via [[VV Spijkenisse]] and [[SBV Excelsior|Excelsior]]. In the 2017–18 season, he began playing for their under-21 team. Felida made his senior debut on 1 December 2017, in the 3–0 win over [[Go Ahead Eagles]], where he came on as a substitute in the 85th minute for [[Muhammed Mert]]. On 14 November, it was announced that Felida has signed a contract extension keeping him at the club until the summer of 2020.<ref>{{cite web |title=FC Den Bosch bindt jeugdspeler Kevin Felida |url=http://www.fcdenbosch.nl/fc-bosch-bindt-jeugdspeler-kevin-felida/ |publisher=FC Den Bosch |accessdate=20 October 2020 |language=Dutch |date=14 December 2017 |archive-date=15 December 2017 |archive-url=https://web.archive.org/web/20171215000920/http://www.fcdenbosch.nl/fc-bosch-bindt-jeugdspeler-kevin-felida/ |url-status=dead }}</ref> At the same time, Felida became a regular part of the first-team squad.<ref>{{cite news |last1=Martens |first1=Jan |title=FC Den Bosch haalt Kevin Felida bij de hoofdmacht |url=https://www.bd.nl/fc-den-bosch/fc-den-bosch-haalt-kevin-felida-bij-de-hoofdmacht~a0664710/ |accessdate=20 October 2020 |work=Brabants Dagblad |date=14 December 2017 |language=Dutch}}</ref> In the match against [[FC Dordrecht]] (4–1 win), on 16 March 2018, Felida scored his first professional goal, a strike from 30 metres out.<ref>{{cite news |last1=van der Zouw |first1=Hennie |title=Koude douche voor FC Dordrecht in Den Bosch |url=https://www.dordrecht.net/nieuws/2018-03-18-21975-koude-douche-voor-fc-dordrecht-in-den-bosch |accessdate=20 October 2020 |work=dordrecht.net |date=18 March 2018 |language=Dutch}}</ref>
+
+In the summer of 2022, Felida joined [[RKC Waalwijk]] on a three-year contract.<ref>{{cite web|publisher=RKC Waalwijk|url=https://www.rkcwaalwijk.nl/kevin-felida-eerste-zomeraanwinst-rkc-waalwijk|title=Kevin Felida eerste zomeraanwinst RKC Waalwijk|access-date=20 July 2022|language=nl}}</ref>
+
+In July 2025, Felida returned to FC Den Bosch on a free transfer and signed a two-year contract with the club.<ref>{{Cite news |last=Wezenbeek |first=Yannick |date=19 July 2025 |title=FC Den Bosch haalt oude bekende transfervrij op bij RKC |url=https://www.bd.nl/fc-den-bosch/fc-den-bosch-haalt-oude-bekende-transfervrij-op-bij-rkc~ad1e4e72/ |url-status=live |archive-url=https://archive.today/20250722131011/https://www.bd.nl/fc-den-bosch/fc-den-bosch-haalt-oude-bekende-transfervrij-op-bij-rkc~ad1e4e72/ |archive-date=22 July 2025 |access-date=22 July 2025 |work=Brabants Dagblad |language=nl}}</ref>
+
+==International career==
+Felida debuted with the [[Curaçao national football team|Curaçao national team]] in a 0–0 [[2022 FIFA World Cup qualification]] tie with [[Guatemala national football team|Guatemala]] on 8 June 2021.<ref>{{Cite web|url=https://www.fifa.com/worldcup/preliminaries/nccamerica/matches/match/400136243/#match-timeline|archive-url=https://web.archive.org/web/20210603131359/https://www.fifa.com/worldcup/preliminaries/nccamerica/matches/match/400136243/#match-timeline|url-status=dead|archive-date=3 June 2021|title = FIFA}}</ref>
+
+==Personal life==
+Born in the Netherlands, Felida is of [[Curaçao]]an descent. He is the nephew of the footballer [[Charlison Benschop]].<ref>{{Cite web|url=https://www.derwesten.de/incoming/von-curacao-bis-nach-bad-blankenburg-id9625173.html|title=Von Curaçao bis nach Bad Blankenburg|first=DerWesten-|last=derwesten.de|date=22 July 2014|website=www.derwesten.de|access-date=31 May 2020|archive-date=26 August 2021|archive-url=https://web.archive.org/web/20210826014506/https://www.derwesten.de/incoming/von-curacao-bis-nach-bad-blankenburg-id9625173.html|url-status=dead}}</ref>
+
+==References==
+{{reflist}}
+
+{{FC Den Bosch squad}}
+{{Navboxes
+| title = Curaçao squads
+| bg = #002a7e
+| fg = white
+| bordercolor = yellow
+| list1 =
+{{Curaçao squad 2025 CONCACAF Gold Cup}}
+{{Curaçao squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Felida, Kevin}}
+[[Category:1999 births]]
+[[Category:Living people]]
+[[Category:Men's association football midfielders]]
+[[Category:Curaçaoan men's footballers]]
+[[Category:Curaçao men's international footballers]]
+[[Category:Dutch men's footballers]]
+[[Category:Dutch people of Curaçaoan descent]]
+[[Category:FC Den Bosch players]]
+[[Category:RKC Waalwijk players]]
+[[Category:Eerste Divisie players]]
+[[Category:Sportspeople from Spijkenisse]]
+[[Category:VV Spijkenisse players]]
+[[Category:Footballers from South Holland]]
+[[Category:21st-century Dutch sportsmen]]
+[[Category:2025 CONCACAF Gold Cup players]]
+[[Category:2026 FIFA World Cup players]]

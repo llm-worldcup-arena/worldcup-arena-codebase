@@ -55,7 +55,7 @@ def strip_cell(s):
 
 def wiki_raw_dir():
     """最近一次含队页整页全文的 raw 目录。"""
-    ds = sorted(glob.glob(f"{BASE}/raw/bg/*/"), reverse=True)
+    ds = sorted(glob.glob(f"{BASE}/data_raw/*/"), reverse=True)
     for d in ds:
         if glob.glob(d + "[A-Z][A-Z][A-Z].wikitext"):
             return d.rstrip("/")

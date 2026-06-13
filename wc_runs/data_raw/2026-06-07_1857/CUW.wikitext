@@ -1,0 +1,35 @@
+===Current squad===
+The following 26 players were called up to the [[2026 FIFA World Cup]], and for the pre-tournament friendly matches against [[Scotland national football team|Scotland]] and [[Aruba national football team|Aruba]] on 30 May and 6 June 2026, respectively.<ref>{{cite web |url=https://www.instagram.com/thebluewaveffk/p/DYe60yqjJc-/ |title=This is... The Blue Wave. Our squad that will represent Curaçao for the first time at the @fifaworldcup this summer! |publisher=[[Curaçao Football Federation]] |via=[[Instagram]] |date=May 18, 2026 |access-date=May 18, 2026}}</ref>
+<br>''Caps and goals as of 7 June 2026, after the match against [[Aruba national football team|Aruba]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Eloy Room]]|age={{bda|df=yes|1989|2|6}}|caps=71 |goals=0|club=[[Miami FC]]|clubnat=USA}}
+{{nat fs g player|no=25|pos=GK|name=[[Trevor Doornbusch]]|age={{bda|df=yes|1999|7|6}}|caps=8|goals=0|club=[[VVV-Venlo]]|clubnat=NED}}
+{{nat fs g player|no=26|pos=GK|name=[[Tyrick Bodak]]|age={{bda|df=yes|2002|5|15}}|caps=4|goals=0|club=[[SC Telstar|Telstar]]|clubnat=NED}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Shurandy Sambo]]|age={{bda|df=yes|2001|8|19}}|caps=8|goals=0|club=[[Sparta Rotterdam]]|clubnat=NED}}
+{{nat fs g player|no=3|pos=DF|name=[[Juriën Gaari]]|age={{bda|df=yes|1993|12|23}}|caps=60|goals=1|club=[[Abha Club|Abha]]|clubnat=KSA}}
+{{nat fs g player|no=4|pos=DF|name=[[Roshon van Eijma]]|age={{bda|df=yes|1998|6|9}}|caps=28|goals=1|club=[[RKC Waalwijk]]|clubnat=NED}}
+{{nat fs g player|no=5|pos=DF|name=[[Sherel Floranus]]|age={{bda|df=yes|1998|8|23}}|caps=28|goals=0|club=[[PEC Zwolle]]|clubnat=NED}}
+{{nat fs g player|no=18|pos=DF|name=[[Armando Obispo]]|age={{bda|df=yes|1999|3|5}}|caps=6|goals=0|club=[[PSV Eindhoven|PSV]]|clubnat=NED}}
+{{nat fs g player|no=20|pos=DF|name= [[Joshua Brenet]]|age={{bda|df=yes|1994|3|20}}|caps=18|goals=2|club=[[Kayserispor]]|clubnat=TUR}}
+{{nat fs g player|no=23|pos=DF|name=[[Riechedly Bazoer]]|age={{bda|df=yes|1996|10|12}}|caps=5|goals=0|club=[[Konyaspor]]|clubnat=TUR}}
+{{nat fs g player|no=24|pos=DF|name=[[Deveron Fonville]]|age={{bda|df=yes|2003|5|16}}|caps=2|goals=0|club=[[NEC Nijmegen|NEC]]|clubnat=NED}}
+{{nat fs break}}
+{{nat fs g player|no=6|pos=MF|name=[[Godfried Roemeratoe]]|age={{bda|df=yes|1999|8|19}}|caps=28|goals=1|club=[[RKC Waalwijk]]|clubnat=NED}}
+{{nat fs g player|no=7|pos=MF|name=[[Juninho Bacuna]]|age={{bda|df=yes|1997|8|7}}|caps=49|goals=15|club=[[FC Volendam|Volendam]]|clubnat=NED}}
+{{nat fs g player|no=8|pos=MF|name=[[Livano Comenencia]]|age={{bda|df=yes|2004|2|3}}|caps=20|goals=2|club=[[FC Zürich|Zürich]]|clubnat=SUI}}
+{{nat fs g player|no=10|pos=MF|name=[[Leandro Bacuna]]|other=[[Captain (association football)|captain]]|age={{bda|df=yes|1991|8|21}}|caps=72|goals=16|club=[[Iğdır F.K.|Iğdır]]|clubnat=TUR}}
+{{nat fs g player|no=13|pos=MF|name=[[Tyrese Noslin]]|age={{bda|df=yes|2002|9|11}}|caps=7|goals=1|club=[[SC Telstar|Telstar]]|clubnat=NED}}
+{{nat fs g player|no=15|pos=MF|name=[[Ar'jany Martha]]|age={{bda|df=yes|2003|9|4}}|caps=9|goals=2|club=[[Rotherham United F.C.|Rotherham United]]|clubnat=ENG}}
+{{nat fs g player|no=22|pos=MF|name=[[Kevin Felida]]|age={{bda|df=yes|1999|11|11}}|caps=19|goals=1|club=[[FC Den Bosch|Den Bosch]]|clubnat=NED}}
+{{nat fs break}}
+{{nat fs g player|no=9|pos=FW|name=[[Jürgen Locadia]]|age={{bda|df=yes|1993|11|7}}|caps=13|goals=1|club=[[Miami FC]]|clubnat=USA}}
+{{nat fs g player|no=11|pos=FW|name=[[Jeremy Antonisse]]|age={{bda|df=yes|2002|3|29}}|caps=27|goals=4|club=[[A.E. Kifisia F.C.|Kifisia]]|clubnat=GRE}}
+{{nat fs g player|no=12|pos=FW|name=[[Sontje Hansen]]|age={{bda|df=yes|2002|5|18}}|caps=6|goals=1|club=[[Middlesbrough F.C.|Middlesbrough]]|clubnat=ENG}}
+{{nat fs g player|no=14|pos=FW|name=[[Kenji Gorré]]|age={{bda|df=yes|1994|9|29}}|caps=38|goals=6|club=[[Maccabi Haifa F.C.|Maccabi Haifa]]|clubnat=ISR}}
+{{nat fs g player|no=16|pos=FW|name=[[Jearl Margaritha]]|age={{bda|df=yes|2000|4|10}}|caps=22|goals=5|club=[[S.K. Beveren|Beveren]]|clubnat=BEL}}
+{{nat fs g player|no=17|pos=FW|name=[[Brandley Kuwas]]|age={{bda|df=yes|1992|9|19}}|caps=35|goals=2|club=[[FC Volendam|Volendam]]|clubnat=NED}}
+{{nat fs g player|no=19|pos=FW|name=[[Gervane Kastaneer]]|age={{bda|df=yes|1996|6|9}}|caps=29|goals=9|club=[[Terengganu FC|Terengganu]]|clubnat=MAS}}
+{{nat fs g player|no=21|pos=FW|name=[[Tahith Chong]]|age={{bda|df=yes|1999|12|4}}|caps=6|goals=3|club=[[Sheffield United F.C.|Sheffield United]]|clubnat=ENG}}
+{{nat fs end}}

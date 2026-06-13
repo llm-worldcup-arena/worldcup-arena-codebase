@@ -56,7 +56,7 @@ def main():
     ids = [(r["pid"], str(r["tm_id"])) for r in recs if r.get("tm_id")]
     batches = [ids[i:i + BATCH] for i in range(0, len(ids), BATCH)]
 
-    ts = run_ts(); rawd = f"{BASE}/raw/bg/{ts}/tm_byurl"; os.makedirs(rawd, exist_ok=True)
+    ts = run_ts(); rawd = f"{BASE}/data_raw/{ts}/tm_byurl"; os.makedirs(rawd, exist_ok=True)
     allp = {}
     with ThreadPoolExecutor(max_workers=WORKERS) as ex:
         for i, res in enumerate(ex.map(fetch_batch, batches)):
@@ -72,7 +72,7 @@ def main():
         "- **方式**：WebSearch 找 TM 数字 id → 本工具批量采（并发 4、每批 12）\n"
         "- **可靠**：market_value_numeric / market_value_history；**foot/height/club 错位勿用**\n"
         "- **用于**：automation-lab 搜不到的音译名队（KOR/EGY/中东/UZB）｜配 wc-data-collect §4b\n")
-    print(f"✅ 采 {len(allp)}/{len(ids)} 人 → raw/bg/{ts}/tm_byurl/（raw 全量留底）")
+    print(f"✅ 采 {len(allp)}/{len(ids)} 人 → data_raw/{ts}/tm_byurl/（raw 全量留底）")
 
     if a.apply:
         by_id = {p["person_id"]: p for p in load_json(persons_path(), [])}

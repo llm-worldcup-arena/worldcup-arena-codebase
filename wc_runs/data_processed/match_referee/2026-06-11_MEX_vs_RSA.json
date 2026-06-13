@@ -1,0 +1,17 @@
+{
+ "match": {
+  "slug": "2026-06-11_MEX_vs_RSA",
+  "date": "2026-06-11",
+  "home": "MEX",
+  "away": "RSA",
+  "round": "group",
+  "group": "A"
+ },
+ "referee": {
+  "name": "Wilton Sampaio(巴西)",
+  "source": "WebSearch多源(Athlon/WorldSoccerTalk/Yardbarker)",
+  "fetched": "2026-06-13_0748"
+ },
+ "brief": "- 执法风格偏严，出牌倾向明显，对战术犯规容忍度低，身体对抗尺度把握较紧。\n- 大赛履历：2022卡塔尔世界杯主裁（执法含1/8决赛荷兰vs美国），2021美洲杯，南美解放者杯决赛裁判。\n- 潜在影响：对抗激烈时易连续出牌控制局面，可能在上半场就建立严格尺度，关键球员过早黄牌风险较高。",
+ "_note": "裁判=比赛层人员数据,与教练同规格;从 match_env 迁出独立成仓库(2026-06-13)。"
+}

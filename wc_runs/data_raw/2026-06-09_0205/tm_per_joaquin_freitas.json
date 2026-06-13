@@ -1,0 +1,61 @@
+[
+ {
+  "player_id": "1324003",
+  "profile_url": "https://www.transfermarkt.com/joaquin-freitas/profil/spieler/1324003",
+  "full_name": "Joaquín Freitas",
+  "display_name": "Joaquín Freitas",
+  "short_name": "J. Freitas",
+  "nickname": "",
+  "date_of_birth": "2006-12-02",
+  "age": 19,
+  "place_of_birth": "San Fernando",
+  "country_of_birth": "Argentina",
+  "nationality": [
+   "Argentina"
+  ],
+  "gender": "male",
+  "position": "Centre-Forward",
+  "position_category": "Striker",
+  "foot": "right",
+  "height_cm": 177,
+  "current_club": "CA River Plate",
+  "current_club_id": "209",
+  "current_competition": "Torneo Clausura",
+  "current_competition_code": "ARGC",
+  "shirt_number": 35,
+  "is_captain": false,
+  "contract_until": "2028-12-31",
+  "last_contract_renewal": "2025-12-22",
+  "market_value_eur": 1000000,
+  "market_value_currency": "EUR",
+  "market_value_determined": "2026-05-22",
+  "previous_market_value_eur": 500000,
+  "highest_market_value_eur": 1000000,
+  "highest_market_value_determined": "2026-05-22",
+  "market_value_history": [
+   "0 | CA River Plate | EUR 500,00K",
+   "0 | CA River Plate | EUR 1,00M"
+  ],
+  "agent": "",
+  "agency": "BOLP Calcio",
+  "agency_id": "16139",
+  "youth_clubs": [],
+  "career_history": [
+   "CA Acassuso II -> CA Acassuso | 2023-07-01 | - | 23/24",
+   "CA Acassuso -> CA River Plate U20 | 2024-01-01 | €100.00K | 23/24",
+   "CA River Plate U20 -> CA River Plate II | 2025-01-01 | - | 24/25",
+   "CA River Plate II -> CA River Plate | 2026-01-01 | - | 25/26"
+  ],
+  "total_transfer_fees_eur": 100000,
+  "international_team": "",
+  "international_caps": 0,
+  "international_goals": 0,
+  "national_team_history": [
+   "Argentina | 1 apps | 0 goals | RECENT_NATIONAL_PLAYER"
+  ],
+  "injuries": [],
+  "suspensions": [],
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/big/1324003-1771857419.jpg",
+  "scraped_at": "2026-06-08T18:09:33.386Z"
+ }
+]

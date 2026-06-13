@@ -1,0 +1,94 @@
+[
+ {
+  "player_id": "401578",
+  "profile_url": "https://www.transfermarkt.com/exequiel-palacios/profil/spieler/401578",
+  "full_name": "Exequiel Alejandro Palacios",
+  "display_name": "Exequiel Palacios",
+  "short_name": "E. Palacios",
+  "nickname": "",
+  "date_of_birth": "1998-10-05",
+  "age": 27,
+  "place_of_birth": "Famaillá",
+  "country_of_birth": "Argentina",
+  "nationality": [
+   "Argentina"
+  ],
+  "gender": "male",
+  "position": "Central Midfield",
+  "position_category": "Midfielder",
+  "foot": "right",
+  "height_cm": 177,
+  "current_club": "Bayer 04 Leverkusen",
+  "current_club_id": "15",
+  "current_competition": "Bundesliga",
+  "current_competition_code": "L1",
+  "shirt_number": 25,
+  "is_captain": false,
+  "contract_until": "2030-06-30",
+  "last_contract_renewal": "2025-10-03",
+  "market_value_eur": 25000000,
+  "market_value_currency": "EUR",
+  "market_value_determined": "2026-05-27",
+  "previous_market_value_eur": 30000000,
+  "highest_market_value_eur": 45000000,
+  "highest_market_value_determined": "2024-05-29",
+  "market_value_history": [
+   "2015 | CA River Plate II | EUR 300.00K",
+   "2016 | CA River Plate II | EUR 300.00K",
+   "2017 | CA River Plate | EUR 1.50M",
+   "2017 | CA River Plate | EUR 3.70M",
+   "2018 | CA River Plate | EUR 20.00M",
+   "2019 | CA River Plate | EUR 20.00M",
+   "2019 | CA River Plate | EUR 25.00M",
+   "2019 | Bayer 04 Leverkusen | EUR 22.00M",
+   "2020 | Bayer 04 Leverkusen | EUR 18.00M",
+   "2020 | Bayer 04 Leverkusen | EUR 18.00M",
+   "2020 | Bayer 04 Leverkusen | EUR 13.00M",
+   "2020 | Bayer 04 Leverkusen | EUR 13.00M",
+   "2021 | Bayer 04 Leverkusen | EUR 15.00M",
+   "2021 | Bayer 04 Leverkusen | EUR 15.00M",
+   "2021 | Bayer 04 Leverkusen | EUR 15.00M",
+   "2022 | Bayer 04 Leverkusen | EUR 15.00M",
+   "2022 | Bayer 04 Leverkusen | EUR 22.00M",
+   "2023 | Bayer 04 Leverkusen | EUR 35.00M",
+   "2023 | Bayer 04 Leverkusen | EUR 40.00M",
+   "2023 | Bayer 04 Leverkusen | EUR 45.00M",
+   "2024 | Bayer 04 Leverkusen | EUR 40.00M",
+   "2024 | Bayer 04 Leverkusen | EUR 40.00M",
+   "2025 | Bayer 04 Leverkusen | EUR 30.00M",
+   "2025 | Bayer 04 Leverkusen | EUR 30.00M",
+   "2025 | Bayer 04 Leverkusen | EUR 25.00M"
+  ],
+  "agent": "",
+  "agency": "KMB ",
+  "agency_id": "15454",
+  "youth_clubs": [
+   "CA River Plate (-2015)"
+  ],
+  "career_history": [
+   "CA River Plate U20 -> CA River Plate II | 2015-07-01 | - | 15/16",
+   "CA River Plate II -> CA River Plate | 2017-01-01 | - | 16/17",
+   "CA River Plate -> Bayer 04 Leverkusen | 2020-01-01 | €17.00M | 19/20"
+  ],
+  "total_transfer_fees_eur": 17000000,
+  "international_team": "Argentina",
+  "international_caps": 39,
+  "international_goals": 0,
+  "national_team_history": [
+   "Argentina | 39 apps | 0 goals | CURRENT_NATIONAL_PLAYER",
+   "Argentina U20 | 5 apps | 2 goals | FORMER_NATIONAL_PLAYER",
+   "Argentina U17 | 10 apps | 1 goals | FORMER_NATIONAL_PLAYER"
+  ],
+  "injuries": [
+   "2025-09-17 to 2026-01-27 | No eligibility | 0 games"
+  ],
+  "suspensions": [
+   "2023-12-18 to 2023-12-21 | Yellow card suspension | 1 game",
+   "2023-02-24 to 2023-03-10 | Yellow card suspension | 1 game",
+   "2020-01-01 to 2020-02-02 | Red card suspension | 3 games",
+   "2017-05-05 to 2017-06-02 | Called up to national team | 8 games"
+  ],
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/big/401578-1695368200.jpg",
+  "scraped_at": "2026-06-08T18:07:53.783Z"
+ }
+]

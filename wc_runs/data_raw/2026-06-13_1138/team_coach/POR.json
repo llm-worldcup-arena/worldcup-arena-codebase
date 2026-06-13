@@ -1,0 +1,28 @@
+{
+ "team": "POR",
+ "coach": {
+  "name_zh": "罗伯托·马丁内斯",
+  "name_en": "Roberto Martínez",
+  "nationality": "Spain",
+  "career_since": "2007",
+  "person_id": "per_roberto_martinez"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 西班牙籍教练罗伯托·马丁内斯2023年接手葡萄牙国家队，上任后率队夺得2024/25赛季欧国联冠军。\n- 2007年开启执教生涯，先后执教球员时代效力的斯旺西、维冈竞技以及埃弗顿三个赛季，2016至2022年执教比利时国家队六年。\n- 执教比利时期间率队夺得2018年世界杯季军。\n- 2026年世界杯预选赛带领葡萄牙以F组头名晋级（4胜1平1负，进20球失7球），决赛圈与刚果、乌兹别克斯坦、哥伦比亚同处K组。\n- 球员时代司职防守型中场，职业生涯主要效力于英格兰联赛的维冈和斯旺西，2026年世界杯将率领41岁队长C罗征战其第六届世界杯。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.75,
+  "issues": [
+   "早期俱乐部执教史对预测价值低",
+   "球员生涯细节信息冗余",
+   "C罗年龄信息偏花边"
+  ]
+ },
+ "brief_fetched": "2026-06-13_1138",
+ "brief_info_chars": 6000
+}

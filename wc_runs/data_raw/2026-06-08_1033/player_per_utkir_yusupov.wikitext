@@ -1,0 +1,127 @@
+{{short description|Uzbek footballer (born 1991)}}
+{{Use dmy dates|date=December 2018}}
+{{Infobox football biography
+| name = Utkir Yusupov
+| fullname = Utkir Yusupov<ref name="AFC"/>
+| image = Oʻtkir Yusupov (cropped).jpg
+| height = 1.85 m<ref name="AFC"/>
+| birth_date = {{Birth date and age|df=yes|1991|1|4}}
+| birth_place = [[Sayram District|Sayram]], [[Kazakh Soviet Socialist Republic|Kazakh SSR]], Soviet Union<ref>{{Cite web|url=https://zamin.uz/oz/sport/46937-otkir-yusupov-ektor-kuperga-vaqt-kerak.html|title=O'tkir Yusupov: "Ektor Kuperga vaqt kerak..."|access-date=25 January 2019|archive-date=26 January 2019|archive-url=https://web.archive.org/web/20190126000953/https://zamin.uz/oz/sport/46937-otkir-yusupov-ektor-kuperga-vaqt-kerak.html|url-status=live}}</ref>
+| position = [[Goalkeeper (association football)|Goalkeeper]]
+| currentclub = [[FC Navbahor|Navbahor]]
+| clubnumber = 
+| years1 = 2012–2013
+| clubs1 = [[FC Mash'al|Mash'al Mubarek]]
+| caps1 = 4
+| goals1 = 0
+| years2 = 2014–2015
+| clubs2 = [[FC Nasaf|Nasaf]]
+| caps2 = 18
+| goals2 = 0
+| years3 = 2016–2018
+| clubs3 = [[FC Neftchi Fergana|Neftchi Fergana]]
+| caps3 = 38
+| goals3 = 0
+| years4 = 2018–2019
+| clubs4 = [[FC Kokand 1912|Kokand 1912]]
+| caps4 = 32
+| goals4 = 0
+| years5 = 2019–2024
+| clubs5 = [[FC Navbahor|Navbahor]]
+| caps5 = 116
+| goals5 = 0
+| years6 = 2024–2026
+| clubs6 = [[Foolad F.C.|Foolad]]
+| caps6 = 29
+| goals6 = 0
+| years7 = 2026–
+| clubs7 = [[FC Navbahor|Navbahor]]
+| caps7 = 0
+| goals7 = 0
+| nationalyears1 = 2018–
+| nationalteam1 = [[Uzbekistan national football team|Uzbekistan]]
+| nationalcaps1 = 39
+| nationalgoals1 = 0
+| medaltemplates = {{MedalCountry|{{fb|UZB}}}}
+{{Medal|Competition|[[CAFA Nations Cup]]}}
+{{Medal|RU|[[2023 CAFA Nations Cup|2023 Kyrgyzstan–Uzbekistan]]|[[2023 CAFA Nations Cup squads#Uzbekistan|Team]]}}
+{{Medal|W|[[2025 CAFA Nations Cup|2025 Tajikistan–Uzbekistan]]|[[2025 CAFA Nations Cup squads#Uzbekistan|Team]]}}
+| pcupdate = 1 May 2025
+| ntupdate = 25 March 2025
+}}
+
+'''Utkir Yusupov''' ({{langx|uz|Oʻtkir Yusupov}}, {{langx|ru|Уткир Юсупов}}; born 4 January 1991) is an Uzbek professional [[Association football|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for [[Uzbekistan Super League]] club [[FC Navbahor|Navbahor]]. Born in Kazakhstan, he plays for the [[Uzbekistan national football team|Uzbekistan national team]].
+
+==Career==
+Born in Kazakhstan, Yusupov moved to Uzbekistan aged 5, and gained Uzbekistani citizenship in 2017.<ref>{{Cite web|url=https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide|title=World Cup 2026: guide to all 1,248 players|first1=Marcus|last1=Christenson|first2=David|last2=Hills|first3=Steven|last3=Bloor|first4=Garry|last4=Blight|first5=Billy|last5=Munday|date=4 June 2026|via=The Guardian}}</ref> He was included in [[Uzbekistan national football team|Uzbekistan]]'s squad for the [[2019 AFC Asian Cup]] in the United Arab Emirates.<ref name="AFC">{{cite web |url=http://www.the-afc.com/afc/documents/PdfFiles/afc-asian-cup-uae-2019-complete-squad-lists |title=AFC Asian Cup UAE 2019 Complete Squad Lists |website=the-AFC.com |publisher=[[Asian Football Confederation]] |format=PDF |date=27 December 2018 |access-date=31 December 2018 |url-status=live |archive-url=https://web.archive.org/web/20181228174458/http://www.the-afc.com/afc/documents/PdfFiles/afc-asian-cup-uae-2019-complete-squad-lists |archive-date=28 December 2018}}</ref> He participated in the 2023 AFC Asian Cup in Qatar as well.
+
+==Career statistics==
+
+===International===
+{| class="wikitable" style="text-align:center"
+|-
+!colspan=3|[[Uzbekistan national football team]]
+|-
+!Year!!Apps!!Goals
+|-
+|2018||1||0
+|-
+|2019||0||0
+|-
+|2020||0||0
+|-
+|2021||1||0
+|-
+|2022||9||0
+|-
+|2023||4||0
+|-
+!Total!!15!!0
+|}
+''Statistics accurate as of match played 20 June 2023 ''<ref name="NFT Stats">{{NFT player|id=72308|name=Utkir  Yusupov}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{NFT player|72308}}
+* {{WorldFootball.net|utkir-yusupov}}
+* [http://www.worldfootball.com/p/72522/uzbekistan/U.%20Yusupov Utkir Yusupov] {{Webarchive|url=https://web.archive.org/web/20190101051512/http://www.worldfootball.com/p/72522/uzbekistan/U.%20Yusupov |date=1 January 2019 }} at WorldFootball.com
+
+{{Foolad F.C. squad}}
+{{Navboxes
+| title = Uzbekistan squads
+| bg          = #0099B5
+| fg          = white 
+| bordercolor = #CE1126
+| list =
+{{Uzbekistan squad 2019 AFC Asian Cup}}
+{{Uzbekistan squad 2023 AFC Asian Cup}}
+{{Uzbekistan squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Yusupov, Utkir}}
+[[Category:1991 births]]
+[[Category:Living people]]
+[[Category:21st-century Uzbekistani sportsmen]]
+[[Category:Men's association football goalkeepers]]
+[[Category:Uzbekistani men's footballers]]
+[[Category:Uzbekistan men's international footballers]]
+[[Category:Kazakhstani men's footballers]]
+[[Category:Kazakhstani emigrants to Uzbekistan]]
+[[Category:Uzbekistani people of Kazakhstani descent]]
+[[Category:FK Mash'al Mubarek players]]
+[[Category:FC Nasaf players]]
+[[Category:FC Neftchi Fergana players]]
+[[Category:FC Kokand 1912 players]]
+[[Category:PFC Navbahor Namangan players]]
+[[Category:Foolad F.C. players]]
+[[Category:Uzbekistan Pro League players]]
+[[Category:Uzbekistan Super League players]]
+[[Category:Persian Gulf Pro League players]]
+[[Category:2019 AFC Asian Cup players]]
+[[Category:2023 AFC Asian Cup players]]
+[[Category:Uzbekistani expatriate men's footballers]]
+[[Category:Expatriate men's footballers in Iran]]
+[[Category:Uzbekistani expatriate sportspeople in Iran]]
+[[Category:2026 FIFA World Cup players]]

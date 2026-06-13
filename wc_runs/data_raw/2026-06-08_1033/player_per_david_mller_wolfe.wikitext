@@ -1,0 +1,207 @@
+{{short description|Norwegian footballer (born 2002)}}
+{{Use dmy dates|date=August 2024}}
+{{Infobox football biography
+| name = David Møller Wolfe
+| image = David Møller Wolfe.jpg
+| caption = Wolfe playing for [[AZ Alkmaar|AZ]] in 2024
+| fullname = 
+| birth_date = {{birth date and age|2002|4|23|df=y}}
+| birth_place = [[Bergen]], Norway
+| height = 1.85 m<ref>{{WorldFootball.net}}</ref>
+| position = [[Left-back]]/[[left wing-back]]
+| currentclub = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+| clubnumber = 6
+| youthyears1 = 
+| youthclubs1 = [[Bergen Nord FK|Bergen Nord]]
+| youthyears2 = 2019
+| youthclubs2 = [[SK Brann|Brann]]
+| years1 = 2017–2019
+| clubs1 = [[Bergen Nord FK|Bergen Nord]]
+| caps1 = 13
+| goals1 = 2
+| years2 = 2020–2023
+| clubs2 = [[SK Brann|Brann]]
+| caps2 = 56
+| goals2 = 1
+| years3 = 2020
+| clubs3 = → [[Åsane Fotball|Åsane]] (loan)
+| caps3 = 26
+| goals3 = 1
+| years4 = 2023–2025
+| clubs4 = [[AZ Alkmaar|AZ]]
+| caps4 = 67
+| goals4 = 3
+| years5 = 2025–
+| clubs5 = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+| caps5 = 22
+| goals5 = 0
+| nationalyears1 = 2019
+| nationalteam1 = [[Norway national under-17 football team|Norway U17]]
+| nationalcaps1 = 7
+| nationalgoals1 = 0
+| nationalyears3 = 2020
+| nationalteam3 = [[Norway national under-18 football team|Norway U18]]
+| nationalcaps3 = 3
+| nationalgoals3 = 1
+| nationalyears4 = 2021–2023
+| nationalteam4 = [[Norway national under-20 football team|Norway U20]]
+| nationalcaps4 = 9
+| nationalgoals4 = 0
+| nationalyears5 = 2023
+| nationalteam5 = [[Norway national under-21 football team|Norway U21]]
+| nationalcaps5 = 8
+| nationalgoals5 = 0
+| nationalyears6 = 2023–
+| nationalteam6 = [[Norway national football team|Norway]]
+| nationalcaps6 = 20
+| nationalgoals6 = 1
+| pcupdate = 24 May 2026
+| ntupdate = 31 March 2026
+}}
+'''David Møller Wolfe''' (born 23 April 2002) is a [[Norway|Norwegian]] professional [[association football|footballer]] who plays as a [[left-back]] or [[left wing-back]] for {{English football updater|WolverhW}} club [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] and the [[Norway national football team|Norway national team]].
+
+==Club career==
+===Bergen and Brann===
+Wolfe started his career in [[Bergen Nord FK|Bergen Nord]], playing on the senior team in 2017, 2018 and 2019 before joining the junior team of [[SK Brann]] in the summer of 2019. The same year, he became a Norway youth international player. In 2020, Wolfe was loaned out to [[Åsane Fotball|Åsane]] for the entire season.<ref name=nff>{{NFF|3210856}}</ref> In 2021 he signed a three-year contract with Brann.<ref>{{cite news|url=https://www.brann.no/nyheter/to-nye-unggutter-har-skrevet-langtidskontrakter|title=To nye unggutter har skrevet langtidskontrakter|date=1 February 2021|publisher=SK Brann|language=Norwegian|accessdate=9 May 2021}}</ref> He made his [[Eliteserien]] debut in May 2021 against Viking, as a left [[winger (football)|winger]].<ref>[https://int.soccerway.com/players/david-moller-wolfe/603294/ Soccerway]</ref>
+
+===AZ===
+On 22 May 2023, Wolfe signed a five-year contract with Dutch [[Eredivisie]] club [[AZ Alkmaar]].<ref>{{Cite press release|url=https://www.az.nl/nl/nieuws/moller-wolfe-eerste-aanwinst-seizoen-2023-2024|title=Møller Wolfe eerste aanwinst seizoen 2023-2024|language=nl|publisher=[[AZ Alkmaar]]|date=22 May 2023|access-date=29 May 2023|archive-date=7 June 2023|archive-url=https://web.archive.org/web/20230607221122/https://www.az.nl/nl/nieuws/moller-wolfe-eerste-aanwinst-seizoen-2023-2024|url-status=dead}}</ref>
+
+===Wolverhampton Wanderers===
+On 2 August 2025, Wolfe signed for [[Premier League]] club [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] on a five-year deal worth €10 million plus €2.1 million in add-ons.<ref>{{cite news|url=https://www.wolves.co.uk/news/mens-first-team/20250802-wolves-bring-in-the-wolfe/|title=Wolves bring in the Wolfe|publisher=Wolverhampton Wanderers F.C.|date=2 August 2025|access-date=2 August 2025}}</ref>
+
+==International career==
+Wolfe made his debut for the [[Norway national under-21 football team|Norway under-21 national team]] on 28 March 2023 in a match against [[Portugal national under-21 football team|Portugal]]. He came on as a substitute, but Norway were defeated 3–0.
+
+On 21 May 2026, Wolfe was included in the 26-man squad selected by [[Norway national football team|Norway national team]] manager [[Ståle Solbakken]] for the [[2026 FIFA World Cup]].<ref>{{cite web|access-date=1 June 2026 |date=21 May 2026 |language=en |title=Norway squad announcement |url=https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/norway-squad-announcement-stale-solbakken |website=[[FIFA]]}}<!-- auto-translated from French by Module:CS1 translator --></ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 24 May 2026}}
+
+{| class="wikitable" style="text-align: center"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup{{efn|Includes [[Norwegian Cup]], [[KNVB Cup]], [[FA Cup]]}}
+!colspan="2"|League cup{{efn|Includes [[EFL Cup]]}}
+!colspan="2"|Europe
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="5"|[[SK Brann|Brann]]
+|[[2020 Eliteserien|2020]]
+|[[Eliteserien]]
+|0||0||0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||0||0
+|-
+|[[2021 Eliteserien|2021]]
+|Eliteserien
+|20||1||1||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||21||1
+|-
+|[[2022 Norwegian First Division|2022]]
+|[[Norwegian First Division]]
+|25||0||2||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||27||0
+|-
+|[[2023 Eliteserien|2023]]
+|Eliteserien
+|11||0||5||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||17||0
+|-
+!colspan="2"|Total
+!56!!1!!8!!0!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!64!!1
+|-
+|[[Åsane Fotball|Åsane]] (loan)
+|[[2020 Norwegian First Division|2020]]
+|[[Norwegian First Division]]
+|26||1||0||0||colspan="2"|—||colspan="2"|—||2{{efn|Appearances in Norwegian First Division play-offs}}||0||28||1
+|-
+|rowspan="3"|[[AZ Alkmaar|AZ]]
+|[[2023–24 AZ Alkmaar season|2023–24]]
+|[[Eredivisie]]
+|34||1||1||0||colspan="2"|—||10{{efn|Appearances in [[UEFA Europa Conference League]]}}||0||colspan="2"|—||45||1
+|-
+|[[2024–25 AZ Alkmaar season|2024–25]]
+|Eredivisie
+|33||2||4||0||colspan="2"|—||10{{efn|Appearances in [[UEFA Europa League]]}}||1||colspan="2"|—||47||3
+|-
+!colspan="2"|Total
+!67!!3!!5!!0!!colspan="2"|—!!20!!1!!colspan="2"|—!!92!!4
+|-
+|[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|[[2025–26 Wolverhampton Wanderers F.C. season|2025–26]]
+|[[Premier League]]
+|22||0||3||0||1||2||colspan="2"|—||colspan="2"|—||26||2
+|-
+!colspan="3"|Career total
+!171!!5!!16!!0!!1!!2!!20!!1!!2!!0!!210!!8
+|}
+{{notelist}}
+
+===International===
+{{updated|matches played 31 March 2026}}
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="4"|[[Norway national football team|Norway]]
+|2023||1||0
+|-
+|2024||7||0
+|-
+|2025||10||1
+|-
+|2026||2||0
+|-
+!colspan="2"|Total!!20!!1
+|}
+
+''Scores and results list Norway's goal tally first.''
+
+{| class="wikitable"
+|+ List of international goals scored by David Møller Wolfe
+! No. !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| align=center|1 || 25 March 2025 || [[Nagyerdei Stadion]], [[Debrecen]], Hungary || {{fb|ISR}} || align=center|1–0 || align=center| 4–2 || [[2026 FIFA World Cup qualification – UEFA Group I|2026 FIFA World Cup qualification]]
+|}
+
+==Honours==
+'''Individual'''
+*[[Eliteserien]] Young Player of the Month: [[2023 Eliteserien#Monthly awards|April 2023]]<ref>{{cite news|last=Torjusen|first=Thomas|date=5 May 2023|title=Eirik Horneland er månedens trener|url=https://www.eliteserien.no/nyheter/eirik-horneland-er-manedens-trener|language=no|publisher=Eliteserien|access-date=24 August 2025}}</ref>
+*[[Eredivisie]] Team of the Month: [[2024–25 Eredivisie#Monthly awards|February 2025]],<ref>{{cite news|title=AZ and SC Heerenveen main suppliers to the Eredivisie Team of the Month for February|url=https://eredivisie.eu/news/az-and-sc-heerenveen-main-suppliers-of-the-eredivisie-team-of-the-month-for-february/|website=Eredivisie|date=28 February 2025|access-date=7 March 2025}}</ref> [[2024–25 Eredivisie#Monthly awards|May 2025]]<ref>{{cite news|title=Eredivisie Team of the Month: AZ leads the way|url=https://eredivisie.eu/news/eredivisie-team-of-the-month-az-leads-the-way/|website=Eredivisie|date=23 May 2025|access-date=24 May 2025}}</ref>
+
+==References==
+{{Reflist}}
+{{commons category}}
+
+{{Wolverhampton Wanderers F.C. squad}}
+{{Norway squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Wolfe, David Møller}}
+[[Category:2002 births]]
+[[Category:Living people]]
+[[Category:Footballers from Bergen]]
+[[Category:Norwegian men's footballers]]
+[[Category:Men's association football defenders]]
+[[Category:SK Brann players]]
+[[Category:Åsane Fotball players]]
+[[Category:AZ Alkmaar players]]
+[[Category:Wolverhampton Wanderers F.C. players]]
+[[Category:Norwegian First Division players]]
+[[Category:Eliteserien players]]
+[[Category:Eredivisie players]]
+[[Category:Premier League players]]
+[[Category:Norway men's youth international footballers]]
+[[Category:Norway men's under-21 international footballers]]
+[[Category:Norway men's international footballers]]
+[[Category:Norwegian expatriate men's footballers]]
+[[Category:Norwegian expatriate sportspeople in the Netherlands]]
+[[Category:Norwegian expatriate sportspeople in England]]
+[[Category:Expatriate men's footballers in the Netherlands]]
+[[Category:Expatriate men's footballers in England]]
+[[Category:21st-century Norwegian sportsmen]]
+[[Category:2026 FIFA World Cup players]]
+
+{{Norway-footy-defender-stub}}

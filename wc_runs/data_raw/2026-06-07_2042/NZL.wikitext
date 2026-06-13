@@ -1,0 +1,85 @@
+{{short description|Team representing New Zealand in men's international football competitions}}
+{{About|the men's team|the women's team|New Zealand women's national football team}}
+{{Use Australian English|date=April 2017}}
+{{Use dmy dates|date=September 2017}}
+{{Infobox national football team
+| Name               = New Zealand
+| Badge              = New Zealand Football Crest 2022.svg
+| Badge_size         = 200px
+| Nickname           = [[New Zealand national team nomenclature based on the "All Blacks"|All Whites]]
+| Association        = [[New Zealand Football]] (NZF)
+| Confederation      = [[Oceania Football Confederation|OFC]] (Oceania)
+| Coach              = [[Darren Bazeley]]
+| Captain            = [[Chris Wood (footballer, born 1991)|Chris Wood]]
+| Most caps          = Chris Wood (90)
+| Top scorer         = Chris Wood ([[List of international goals scored by Chris Wood|45]])
+| Home Stadium       = [[List of stadiums in New Zealand|Various]]
+| FIFA Trigramme     = NZL
+| FIFA Rank          = {{FIFA World Rankings|NZL}}
+| FIFA max           = 47
+| FIFA max date      = August 2002
+| FIFA min           = 161
+| FIFA min date      = April–May 2016
+| Elo Rank           = {{World Football Elo Ratings|New Zealand}}
+| Elo max            = 39
+| Elo max date       = June 1983
+| Elo min            = 100
+| Elo min date       = June 1997
+| pattern_la1      = _nzl26h
+| pattern_b1       = _nzl26h
+| pattern_ra1      = _nzl26h
+| pattern_sh1      = _nzl26h
+| pattern_so1      = 
+| leftarm1         = FFFFFF
+| body1            = FFFFFF
+| rightarm1        = FFFFFF
+| shorts1          = FFFFFF
+| socks1           = FFFFFF
+| pattern_la2      = _nze26a
+| pattern_b2       = _nze26a
+| pattern_ra2      = _nze26a
+| pattern_sh2      = _nze26a
+| pattern_so2      = 
+| leftarm2         = 000000
+| body2            = 000000
+| rightarm2        = 000000
+| shorts2          = 000000
+| socks2           = 000000
+| First game       = {{fb|NZL}} [[1922 New Zealand v Australia soccer match|3–1]] {{fb-rt|AUS}} <br /> ([[Dunedin]], [[New Zealand]]; 17 June 1922)
+| Largest win        = {{fb|NZL}} 13–0 {{fb-rt|FIJ}} <br /> ([[Auckland]], [[New Zealand]]; 16 August 1981)
+| Largest loss       = {{fb|NZL}} 0–10 {{fb-rt|AUS}} <br /> ([[Wellington]], [[New Zealand]]; 11 July 1936)<ref>{{cite web|url=http://www.eloratings.net/New_Zealand.htm|title=New Zealand matches, ratings and points exchanged|website=www.eloratings.net|access-date=4 September 2017|archive-date=5 September 2017|archive-url=https://web.archive.org/web/20170905092716/http://www.eloratings.net/New_Zealand.htm|url-status=live}}</ref>
+| World cup apps     = 2
+| World cup first    = 1982
+| World cup best     = Group stage ([[1982 FIFA World Cup|1982]], [[2010 FIFA World Cup|2010]])
+| Regional name      = [[OFC Men's Nations Cup|OFC Nations Cup]]
+| Regional cup apps  = 11
+| Regional cup first = [[1973 Oceania Cup|1973]]
+| Regional cup best  = '''Champions''' ([[1973 Oceania Cup|1973]], [[1998 OFC Nations Cup|1998]], [[2002 OFC Nations Cup|2002]], [[2008 OFC Nations Cup|2008]], [[2016 OFC Nations Cup|2016]], [[2024 OFC Men's Nations Cup|2024]])
+| 2ndRegional name   =
+| 2ndRegional cup apps =
+| 2ndRegional cup first =
+| 2ndRegional cup best =
+| Confederations cup apps = 4
+| Confederations cup first = [[1999 FIFA Confederations Cup|1999]]
+| Confederations cup best = Group stage ([[1999 FIFA Confederations Cup|1999]], [[2003 FIFA Confederations Cup|2003]], [[2009 FIFA Confederations Cup|2009]], [[2017 FIFA Confederations Cup|2017]])
+| website            = {{nowrap|{{URL|https://www.nzfootball.co.nz/}}}}
+| medaltemplates           =
+{{MedalSport|Men's [[Association football|football]]}}
+{{Medal|Competition|[[OFC Nations Cup]]}}
+{{Medal|Gold|[[1973 OFC Nations Cup|1973 New Zealand]]|Team}}
+{{Medal|Gold|[[1998 OFC Nations Cup|1998 Australia]]|Team}}
+{{Medal|Gold|[[2002 OFC Nations Cup|2002 New Zealand]]|Team}}
+{{Medal|Gold|[[2008 OFC Nations Cup|2008 No Host]]|Team}}
+{{Medal|Gold|[[2016 OFC Nations Cup|2016 Papua New Guinea]]|Team}}
+{{Medal|Gold|[[2024 OFC Men's Nations Cup|2024 Vanuatu & Fiji]]|Team}}
+{{Medal|Silver|[[2000 OFC Nations Cup|2000 Tahiti]]|Team}}
+{{Medal|Bronze|[[1996 OFC Nations Cup|1996 No Host]]|Team}}
+{{Medal|Bronze|[[2004 OFC Nations Cup|2004 Australia]]|Team}}
+{{Medal|Bronze|[[2012 OFC Nations Cup|2012 Solomon Islands]]|Team}}
+{{Medal|Competition|[[AFC–OFC Challenge Cup]]}}
+{{Medal|Silver|[[2003 AFC–OFC Challenge Cup|2003 Iran]]|Team}}
+}}
+
+The '''New Zealand men's national football team''' ({{langx|mi|Tīma hoka a-motu o Aotearoa}}) represents [[New Zealand]] in men's international [[Association football|football]] competitions. The team is governed by the governing body for football in New Zealand, [[New Zealand Football]] (NZF), which is currently a member of [[FIFA]] and the [[Oceania Football Confederation]] (OFC). The team's official nickname is the '''All Whites''' ({{langx|mi|Ōmā}} {{IPA|mi|ɔːmaː|}}).<ref>{{cite web|last1=Burgess|first1=Michael|title=New Zealand Football announce parity for Football Ferns and All Whites|url=https://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&objectid=12047294|work=The New Zealand Herald|access-date=19 May 2018|language=en-NZ|date=8 May 2018|archive-date=19 May 2018|archive-url=https://web.archive.org/web/20180519121203/https://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&objectid=12047294|url-status=live}}</ref>
+
+The team represented New Zealand at the [[FIFA World Cup]] tournaments in [[1982 FIFA World Cup|1982]] and [[2010 FIFA World Cup|2010]], and are set to appear in the [[2026 FIFA World Cup]]. It also participated in the [[FIFA Confederations Cup]] in [[1999 FIFA Confederations Cup|1999]], [[2003 FIFA Confederations Cup|2003]], [[2009 FIFA Confederations Cup|2009]], and [[2017 FIFA Confederations Cup|2017]]. New Zealand is a six-time [[OFC Men's Nations Cup|OFC Nations Cup]] champion. New Zealand was the only unbeaten country in the 2010 FIFA World Cup, drawing all three group stage games; nevertheless, they were eliminated in the group stage.

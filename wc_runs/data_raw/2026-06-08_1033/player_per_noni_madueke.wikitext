@@ -1,0 +1,286 @@
+{{short description|English footballer (born 2002)}}
+{{distinguish|Nordi Mukiele}}
+{{Use British English|date=September 2024}}
+{{Use dmy dates|date=June 2026}}
+{{Infobox football biography
+|name           = Noni Madueke
+|image          = Fulham v Chelsea 20042025 (7) (Noni Madueke).jpg
+|upright        = 
+|caption        = Madueke in 2025
+|full_name      = Chukwunonso Azuka Tristan Madueke<ref>{{cite web |url=https://fdp.fifa.org/assetspufblic/ce233/pdf/SquadLists-English.pdf |title=Squad List: FIFA Club World Cup 2025: Chelsea FC (ENG) |publisher=FIFA |page=12 |date=15 June 2025 |access-date=15 June 2025}}</ref>
+|birth_date     = {{birth date and age|2002|3|10|df=y}}<ref name="ChelseaProfile">{{cite web |url=https://www.chelseafc.com/en/teams/profile/noni-madueke |title=Noni Madueke |publisher=Chelsea F.C. |access-date=13 September 2024}}</ref>
+|birth_place    = [[Barnet, London]], England
+|height         = {{convert|1.82|m|order=flip}}<ref name="ChelseaProfile"/>
+|position       = [[Winger (association football)|Winger]]<ref name="ChelseaProfile"/>
+|currentclub    = [[Arsenal F.C.|Arsenal]]
+|clubnumber     = 20
+|youthyears1    = 2011–2014
+|youthclubs1    = [[Crystal Palace F.C. Under-23s and Academy|Crystal Palace]]
+|youthyears2    = 2014–2018
+|youthclubs2    = [[Tottenham Hotspur F.C. Under-23s and Academy|Tottenham Hotspur]]
+|youthyears3    = 2018–2019
+|youthclubs3    = [[PSV Eindhoven]]
+|years1         = 2019–2020
+|clubs1         = [[Jong PSV]]
+|caps1          = 6
+|goals1         = 4
+|years2         = 2019–2023
+|clubs2         = [[PSV Eindhoven]]
+|caps2          = 51
+|goals2         = 11
+|years3         = 2023–2025
+|clubs3         = [[Chelsea F.C.|Chelsea]]
+|caps3          = 67
+|goals3         = 13
+|years4         = 2025–
+|clubs4         = [[Arsenal F.C.|Arsenal]]
+|caps4          = 26
+|goals4         = 3<!-- domestic league stats only - no Cup/European etc. games -->
+|nationalyears1 = 2017–2018
+|nationalteam1  = [[England national under-16 football team|England U16]]<!-- per http://www.englandfootballonline.com/MatchRsl/MatchRslTmU16pg4.html -->
+|nationalcaps1  = 3
+|nationalgoals1 = 0
+|nationalyears2 = 2018–2019
+|nationalteam2  = [[England national under-17 football team|England U17]]<!-- per http://www.englandfootballonline.com/MatchRsl/MatchRslTmU17pg2.html -->
+|nationalcaps2  = 11
+|nationalgoals2 = 2
+|nationalyears3 = 2019
+|nationalteam3  = [[England national under-18 football team|England U18]]<!-- per http://www.englandfootballonline.com/MatchRsl/MatchRslTmU18pg7.html -->
+|nationalcaps3  = 9
+|nationalgoals3 = 4
+|nationalyears4 = 2021–2024
+|nationalteam4  = [[England national under-21 football team|England U21]]<!-- per http://www.englandfootballonline.com/MatchRsl/MatchRslTmU21pg5.html -->
+|nationalcaps4  = 20
+|nationalgoals4 = 7
+|nationalyears5 = 2024–
+|nationalteam5  = [[England national football team|England]]
+|nationalcaps5  = 10
+|nationalgoals5 = 1
+|club-update    = 18:02, 24 May 2026 (UTC)
+|nationalteam-update = 22:10, 27 March 2026 (UTC)
+|medaltemplates = {{Medal|Country|{{fb|ENG}}}}
+{{MedalCompetition|[[UEFA European Under-21 Championship]]}}
+{{Medal|W|[[2023 UEFA European Under-21 Championship|2023]]|}}
+}}
+'''Chukwunonso Azuka Tristan''' "'''Noni'''" '''Madueke''' ({{IPAc-en|lang|audio=LL-Q33578 (ibo)-Vivian Amalachukwu-Chukwunonso Azuka Tristan "Noni" Madueke.wav|n|ɒ|n|i|_|m|ə|d|w|ə|ɪ|k|ə|ɪ}}; born 10 March 2002) is an English professional [[association football|footballer]] who plays as a [[winger (association football)|winger]] for {{English football updater|Arsenal}} club [[Arsenal F.C.|Arsenal]] and the [[England national football team|England national team]].
+
+After playing youth football with  [[Crystal Palace F.C. Under-23s and Academy|Crystal Palace]] and [[Tottenham Hotspur F.C. Under-23s and Academy|Tottenham Hotspur]], Madueke began his professional career with Dutch club [[PSV Eindhoven]]. He joined [[Chelsea F.C.|Chelsea]] in 2023, after four and a half years at PSV. With the ''Blues'', Madueke won a [[2024–25 UEFA Conference League|UEFA Conference League]] title, and the [[2025 FIFA Club World Cup]]. In July 2025, he moved to fellow London side [[Arsenal F.C.|Arsenal]] for a reported initial fee of £48.5m and won the [[Premier League]] title in his first season.
+
+Born in London to Nigerian parents, Madueke chose to represent [[England national football team|England]] at youth level. In August 2024, Madueke made his senior international debut in the [[2024–25 UEFA Nations League]] against [[Finland national football team|Finland]], and scored his first senior goal against [[Serbia national football team|Serbia]] in [[2026 FIFA World Cup qualification (UEFA)|2026 FIFA World Cup qualification]].
+
+==Early life==
+Madueke is of [[Igbo people|Igbo]] Nigerian descent.<ref name="auto">{{Cite web |url=https://www.psv.nl/english-psv/news/article/psv-complete-signing-of-madueke.htm |title=PSV complete signing of Madueke |publisher=PSV Eindhoven |date=29 June 2018 |access-date=29 October 2019 |archive-date=26 April 2021 |archive-url=https://web.archive.org/web/20210426090934/https://www.psv.nl/english-psv/news/article/psv-complete-signing-of-madueke.htm |url-status=dead }}</ref><ref>{{Cite web |date=3 May 2021 |title=Noni Madueke: Nigeria still in the race but England working closely |work=Interesting Football |url=https://interestingfootball.com/noni-madueke-nigeria-still-in-the-race-but-england-working-closely/ |access-date=7 August 2021 |archive-date=25 September 2023 |archive-url=https://web.archive.org/web/20230925131348/https://interestingfootball.com/noni-madueke-nigeria-still-in-the-race-but-england-working-closely/ |url-status=dead }}</ref> He was born in [[Barnet, London|Barnet]], Greater London,<ref>{{cite web |url=https://www.hitc.com/en-gb/2020/11/06/revelation-forward-who-left-tottenham-for-free-is-following-van-nistelrooys-example/ |title='Revelation': Forward who left Tottenham for free is following Van Nistelrooy's example |date=6 November 2020|access-date=8 August 2021 |publisher=HITC}}</ref> and was educated at [[St Columba's College, St Albans|St Columba's College]], a [[Private schools in the United Kingdom|private]] day school in [[St Albans]], [[Hertfordshire]].<ref>{{cite web|title=Notable Alumni|website=columbannetwork.org|url=https://columbannetwork.org/ocd.aspx?action=printsnippet&snippet=pg_18&printtemplate=on&builder=on&code=&menuItem=Notable+Alumni|access-date=28 April 2025}}</ref> Upon signing for [[PSV Eindhoven]], Madueke moved to the small village of [[Wintelre]] with his mother.<ref>{{cite news |url=https://www.ed.nl/psv/madueke-stoomt-bij-psv-op-vanuit-uitvalsbasis-wintelre~af25c0e7/ |title=Madueke stoomt bij PSV op vanuit uitvalsbasis Wintelre |newspaper=Eindhovens Dagblad |date=14 January 2020 |access-date=8 August 2021 |language=nl}}</ref>
+
+==Club career==
+===Early career===
+Madueke joined [[Crystal Palace F.C.|Crystal Palace]] at the age of nine and spent three years at the club.<ref name="Guardian2">{{cite web |url=https://www.theguardian.com/football/2022/apr/07/noni-madueke-players-realising-world-outside-england-psv-leicester |title=Noni Madueke: 'Players are realising there is a world outside of England' |first=Ben |last=Fisher |newspaper=The Guardian |location=London |date=7 April 2022 |access-date=8 April 2022}}</ref> He subsequently joined [[Tottenham Hotspur F.C.|Tottenham Hotspur]]; he captained their under-16 side and made his under-18 debut at the age of 15.<ref name="auto"/><ref name="Guardian2"/>
+
+===PSV Eindhoven===
+Madueke signed with Dutch club PSV Eindhoven in June 2018 on a three-year contract,<ref name="auto"/> rejecting an offer from [[Manchester United F.C.|Manchester United]] in the process.<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/46062786 |title=Jadon Sancho, Reiss Nelson, who's next? Four more English teenagers playing in Europe |date=6 November 2018|access-date=7 November 2018 |website=BBC Sport}}</ref><ref name="Guardian">{{cite web |url=https://www.theguardian.com/football/2018/aug/15/exodus-young-english-players-moving-abroad-jonathan-panzo |title=The big exodus: why are young English players moving abroad? |first=Ed |last=Aarons |newspaper=The Guardian |location=London |date=15 August 2018 |access-date=7 November 2018}}</ref> On 26 August 2019, Madueke made his senior debut in the [[Eerste Divisie]] for [[Jong PSV]], coming on as a 64th minute substitute in a 1–0 loss to [[MVV Maastricht|MVV]].<ref>{{cite web |url=https://www.psv.nl/english-psv/news/article/psv-u21-slump-to-a-1-0-defeat-against-mvv.htm |title=PSV U21 slump to a 1–0 defeat against MVV |publisher=PSV Eindhoven |date=27 August 2019 |access-date=28 August 2019 |archive-date=28 August 2019 |archive-url=https://web.archive.org/web/20190828104419/https://www.psv.nl/english-psv/news/article/psv-u21-slump-to-a-1-0-defeat-against-mvv.htm |url-status=dead }}</ref>
+
+After making his debut for PSV's first team on 19 January 2020, in a 1–1 draw against [[VVV-Venlo]],<ref name="Soccerway"/> Madueke broke into the PSV team fully during the [[2020–21 Eredivisie|2020–21 season]], scoring on his first start for the club in a 2–1 win against [[FC Emmen|Emmen]] on 19 September 2020. Madueke finished the season with seven [[Eredivisie]] goals.<ref name="Sky">{{cite news |url=https://www.skysports.com/football/news/11095/12240123/noni-madueke-impressing-at-psv-english-youngster-scores-again-in-eredivisie-win-over-fortuna-sittard |title=Noni Madueke impressing at PSV: English youngster scores again in Eredivisie win over Fortuna Sittard |website=Sky Sports |date=8 March 2021 |access-date=8 August 2021}}</ref> He was later described as having a "breakout" campaign, with nine goals and eight assists in all competitions.<ref name="auto1">{{cite news |url=https://www.bbc.co.uk/sport/football/59037904 |title=Noni Madueke: The English teenager who rejected English giants to star for PSV Eindhoven |first=Ryan |last=Baldi |website=BBC Sport |date=26 October 2021 |access-date=26 October 2021}}</ref>
+
+On 7 August 2021, Madueke scored twice in a 4–0 [[2021 Johan Cruyff Shield|Johan Cruyff Shield]] win against [[AFC Ajax|Ajax]], in turn helping to end Ajax's 17-game unbeaten streak.<ref name=JCS>{{cite web |url=https://www.goal.com/en-my/news/madueke-nigeria-prospects-brace-powers-psv-past-10-man-ajax/10tk7d2k08k9y1t0hzggo8uu54 |title=Madueke: Nigeria prospect's brace powers PSV past 10-man Ajax in Dutch Super Cup |date=7 August 2021|access-date=8 August 2021 |website=Goal}}</ref> On 26 August, Madueke signed a new contract with PSV, keeping him at the club until 2025.<ref>{{cite news |url=https://www.psv.nl/english-psv/news/article/madueke-extends-contract-with-psv-until-2025.htm |publisher=PSV Eindhoven |date=26 August 2021 |access-date=26 September 2021 |title=Madueke extends contract with PSV until 2025 |archive-date=26 September 2021 |archive-url=https://web.archive.org/web/20210926193031/https://www.psv.nl/english-psv/news/article/madueke-extends-contract-with-psv-until-2025.htm |url-status=dead }}</ref> He was also given the number 10 jersey.<ref name="auto1"/>
+
+===Chelsea===
+On 20 January 2023, [[Premier League]] club [[Chelsea F.C.|Chelsea]] signed Madueke on a seven-and-a-half-year contract,<ref>{{cite news |url=https://www.chelseafc.com/en/news/article/chelsea-complete-madueke-signing |title=Chelsea complete Madueke signing |publisher=Chelsea F.C. |date=20 January 2023|access-date=20 January 2023}}</ref><ref>{{Cite web |url=https://www.bbc.com/sport/football/64339737 |title=Chelsea complete £30m signing of PSV winger Madueke |website=BBC Sport |date=20 January 2023|access-date=21 January 2023}}</ref> for an estimated [[transfer fee]] of £28.5&nbsp;million (€33&nbsp;million).<ref>{{cite web |url=https://www.nytimes.com/athletic/4107166/2023/01/19/chelsea-transfer-news-noni-madueke/ |first=David |last=Ornstein |title=Chelsea reach Noni Madueke agreement with PSV Eindhoven |website=The Athletic |date=19 January 2023|access-date=20 January 2023}}</ref> He scored his first goal for the club on 2 May, in a 3–1 league defeat away to [[Arsenal F.C.|Arsenal]].<ref>{{cite news |last=Wright |first=Nick |url=https://www.skysports.com/football/arsenal-vs-chelsea/report/464965 |title=Arsenal 3–1 Chelsea: Martin Odegaard scores twice as Gunners keep title bid alive and go back above Man City |website=Sky Sports |date=2 May 2023}}</ref>
+
+Ahead of the [[2024–25 Chelsea F.C. season|2024–25 season]], Madueke stated that a dispute between teammates [[Enzo Fernández]] and [[Wesley Fofana (footballer)|Wesley Fofana]] (with Fofana accusing Fernandez of [[Racism in association football|racism]]), would be resolved.<ref>{{Cite web |url=https://www.bbc.com/sport/football/articles/cek9pe0m49xo |title=Enzo Fernandez: Noni Madueki says Chelsea situation will be 'fine' when Argentina midfielder returns |date=25 July 2024 |website=BBC Sport}}</ref>
+
+Madueke scored the first hat-trick of his senior career in a 6–2 away win over [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] on 25 August 2024, having come under fire earlier in the day for disparaging the city of [[Wolverhampton]] in an [[Instagram]] story.<ref>{{Cite news |last=Twomey |first=Liam |title=The Briefing: Wolves 2–6 Chelsea – Madueke runs riot, the Portuguese connection and anyone for chaos? |url=https://www.nytimes.com/athletic/5718712/2024/08/25/chelsea-wolves-madueke-palmer-briefing/ |access-date=25 August 2024 |newspaper=The New York Times|date=25 August 2024 }}</ref> The story was later deleted and he apologised after the match.<ref>{{Cite news |date=25 August 2024 |title=Noni Madueke apologises after hat-trick against Wolves as Chelsea boss Enzo Maresca blasts Mykhailo Mudryk |url=https://sport.optus.com.au/news/premier-league/os78968/noni-madueke-apologises-hat-trick-wolves-chelsea-enzo-maresca-blasts-mykhailo-mudryk |access-date=27 August 2024 |website=Optus Sport}}</ref>
+
+In December 2024, Madueke was told by manager [[Enzo Maresca]] to "work harder" after losing his first-team place.<ref>{{Cite web|url=https://www.bbc.co.uk/sport/football/articles/c140lzn2g7yo|title=Noni Madueke 'must work more', says Chelsea boss Enzo Maresca|date=4 December 2024|website=BBC Sport}}</ref> In February 2025, he was injured, and ruled out until late March.<ref>{{Cite web|url=https://www.bbc.co.uk/sport/football/articles/cn9vdnrg27xo|title=Noni Madueke: Chelsea and England winger ruled out until after international break in late March|date=21 February 2025|website=BBC Sport}}</ref>
+
+===Arsenal===
+On 5 July 2025, it was reported that Madueke agreed personal terms with [[Arsenal F.C.|Arsenal]], although the two clubs had not yet agreed a transfer fee.<ref>{{Cite web|url=https://www.bbc.com/sport/football/articles/c93kdgnnw2zo|title=Noni Madueke: Chelsea winger agrees personal terms with Arsenal|date=5 July 2025|website=BBC Sport}}</ref> On 9 July it was confirmed that Arsenal had made a formal approach to Chelsea,<ref>{{Cite web|url=https://www.bbc.com/sport/football/articles/c2k19nggy8eo|title=Noni Madueke: Arsenal make formal approach for Chelsea winger|date=9 July 2025|website=BBC Sport}}</ref> with an agreement in principle for a £50 million transfer being agreed the next day.<ref>{{Cite web|url=https://www.bbc.com/sport/football/articles/crrqxdwnz5go|title=Noni Madueke: Arsenal close to signing Chelsea winger for £50m.|date=10 July 2025|website=BBC Sport}}</ref> The prospective move was criticised by some Arsenal fans, who started a '#NoToMadueke' campaign.<ref>{{Cite web|url=https://www.bbc.com/sport/football/articles/c23gzevz398o|title=Noni Madueke: Why #NoToMadueke is trending among Arsenal fans|date=11 July 2025|website=BBC Sport}}</ref> The campaign was later criticised by Arsenal teammate [[Declan Rice]].<ref>{{Cite web|url=https://www.bbc.com/sport/football/articles/c1k89kv2w27o|title=Arsenal: Declan Rice says Noni Madueke will shock fans|date=24 July 2025|website=BBC Sport}}</ref>
+
+On 18 July 2025, Madueke was officially announced as an Arsenal player,<ref>{{Cite web |date=18 July 2025 |title=Noni Madueke signs for Arsenal |url=https://www.arsenal.com/news/noni-madueke-signs-arsenal |access-date=18 July 2025 |website=Arsenal.com |language=en}}</ref> signing a five-year contract for a reported initial fee of £48.5 million, rising to £52 million with add-ons.<ref>{{Cite web |date=18 July 2025 |title=Noni Madueke: Arsenal sign England winger from Chelsea for £48.5m |url=https://www.bbc.com/sport/football/articles/cvg8j1l0751o |access-date=18 July 2025 |website=BBC Sport |language=en-GB}}</ref><ref>{{Cite web |date=18 July 2025 |title=Noni Madueke transfer news: Arsenal complete £52m deal to sign England international from rivals Chelsea |url=https://www.skysports.com/football/news/33694/13395330/noni-madueke-transfer-news-arsenal-complete-52m-deal-to-sign-england-international-from-rivals-chelsea |access-date=18 July 2025 |website=Sky Sports |language=en-GB}}</ref> On 17 August, he made his debut for the club, as a substitute, in a 1–0 win against [[Manchester United F.C.|Manchester United]] in the league.<ref>{{Cite web |last1=Jackson |first1=Jamie |date=17 August 2025 |title=Calafiori strikes after goalkeeper's error as Arsenal grind to win at Manchester United |work=The Guardian |url=https://www.theguardian.com/football/2025/aug/17/manchester-united-arsenal-premier-league-match-report |access-date=23 August 2025 }}</ref>
+
+On 23 September 2025, it was announced that Madueke would be out for six to eight weeks with a knee injury, after leaving the pitch in their 1–1 draw with [[Manchester City F.C.|Manchester City]].<ref>{{Cite web |last=Mokbel |first=Sami |date=23 September 2025 |title=Noni Madueke: Arsenal forward out for six to eight weeks with knee injury |url=https://www.bbc.com/sport/football/articles/c62l01rgn12o |access-date=23 September 2025 |website=BBC Sport |language=en-GB}}</ref><ref>{{Cite web |date=23 September 2025 |title=Arteta provides injury update on Noni Madueke |url=https://www.arsenal.com/news/arteta-provides-injury-update-noni-madueke |access-date=23 September 2025 |website=Arsenal |language=en}}</ref> On 26 November, Madueke scored his first goal for Arsenal in a 3–1 [[2025–26 UEFA Champions League league phase#Matchday 5|Champions League]] win over [[Bayern Munich]].<ref>{{cite web |title=Arsenal 3–1 Bayern Munich |url=https://www.arsenal.com/fixture/arsenal/2025-Nov-26/arsenal-3-1-bayern-munich-match-report |website=Arsenal.com |access-date=26 November 2025}}</ref><ref>{{Cite web|url=https://www.bbc.co.uk/sport/football/articles/c8xd1d9y474o|title=Club Brugge 0-3 Arsenal: Can Noni Madueke find consistency?|first=Alex|last=Howell|date=11 December 2025|website=BBC Sport}}</ref>
+
+On 31 January 2026, Madueke recorded his first Premier League goal for the club in a 4–0 win against [[Leeds United]]. The goal was originally credited as a [[Karl Darlow]] own goal, before the [[Dubious Goals Committee|Premier League goal accreditation panel]] credited Madueke with the goal. The goal came directly from a corner.<ref>{{Cite web|url=https://x.com/PLMatchCentre/status/2017963190903091272?s=20|title=The goal accreditation panel has adjudged Arsenal's 38th minute goal as a Madueke goal. |website=X}}</ref>
+
+On 31 May 2026, Madueke played in the [[2026 Champions League final]] against [[Paris Saint-Germain FC|Paris Saint-Germain]], and was controversially tackled in the match, with Arsenal claiming a penalty should have been awarded.<ref>{{Cite news |last=Joseph |first=Sam |last2=Lawrence |first2=Amy |last3=Scott |first3=Graham |date=30 May 2026 |title=Arteta on Madueke penalty claim: I watched all Champions League penalties in last 72 hours, that could ‘easily’ be given |url=https://www.nytimes.com/athletic/7320610/2026/05/30/arsenal-madueke-penalty-arteta-champions-league-psg/ |access-date=1 June 2026 |work=The New York Times |language=en-US |issn=0362-4331}}</ref><ref>{{Cite web |date=30 May 2026 |title=Arteta claims Arsenal ‘could easily’ have had penalty in Champions League loss |url=https://www.independent.co.uk/sport/football/mikel-arteta-arsenal-penalty-noni-madueke-nuno-mendes-b2986551.html |access-date=1 June 2026 |website=The Independent |language=en}}</ref>
+
+==International career==
+===Youth career===
+Madueke has represented England at youth level,<ref name="Guardian"/> scoring twice for the [[England national under-17 football team|under-17 team]] in a qualifier against [[Denmark national under-17 football team|Denmark]]<ref>{{cite web |url=http://www.thefa.com/news/2019/mar/27/england-u17s-denmark-report-270319 |title=Drama in Denmark as young Lions' late winner seals top spot in Euro Qualifying |date=27 March 2019|access-date=28 August 2019 |publisher=The Football Association}}</ref> and was a squad member at the [[2019 UEFA European Under-17 Championship]].<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/48128613 |title=Under-17 Euros: Six England players to look out for at men's and women's tournaments |date=2 May 2019|access-date=3 May 2019 |website=BBC Sport}}</ref>
+
+Madueke made his U18 debut as a 70th minute substitute during the 3–2 win over Australia at [[De Montfort Park]] on 6 September 2019.<ref>{{cite web |url=http://www.thefa.com/news/2019/sep/06/england-u18s-3-2-australia-060919 |title=Alex Mighten blasts hat-trick to fire England U18s to victory over Australia |date=6 September 2019|access-date=7 September 2019 |publisher=The Football Association.}}</ref> He opened his goalscoring account for the U18s during a 2–0 win over South Korea at [[North Street (stadium)|North Street]] on 10 September 2019.<ref>{{cite web |url=http://www.thefa.com/news/2019/sep/10/england-u18s-korea-republic-report-100919 |title=Cole Palmer and Nonso Madueke ensure England MU18s down Korea Republic |date=10 September 2019|access-date=16 September 2019 |publisher=The Football Association.}}</ref>
+
+On 15 March 2021, Madueke received his first [[England national under-21 football team|England U21]] call up as part of the Young Lions squad for the [[2021 UEFA European Under-21 Championship]]<ref>{{cite web |url=https://www.thefa.com/news/2021/mar/15/england-mens-under-21-squad-named-for-euro-group-stage-20210315 |title=England MU21 squad named for UEFA U21 Euro group stages in Slovenia |date=15 March 2021|access-date=15 March 2021 |publisher=The Football Association}}</ref> and made his debut as a starter in the second group game, a 2–0 defeat to [[Portugal national under-21 football team|Portugal]] on 28 March 2021.<ref>{{cite web |url=https://www.thefa.com/news/2021/mar/28/england-mens-under-21s-portugal-u21-euro-match-report-20210328 |title=Young Lions suffer second consecutive European Championship defeat against Portugal |date=28 March 2021|access-date=29 March 2021 |publisher=The Football Association}}</ref> He scored his first goal for the U21s in a 4–0 friendly win over [[France national under-21 football team|France]] on 25 March 2023.<ref>{{cite web |url=https://www.espn.co.uk/football/match/_/gameId/664867 |title=England U21 4–0 France U21 |date=25 March 2023|access-date=25 March 2023 |publisher=ESPN}}</ref>
+
+On 14 June 2023, Madueke was included in the England squad for the [[2023 UEFA European Under-21 Championship]].<ref>{{Cite web |date=14 June 2023 |title=England MU21s squad named for EURO Finals |url=https://www.englandfootball.com/articles/2023/Jun/14/england-mens-under-21s-squad-named-for-uefa-u21-euro-finals-20231406 |publisher=The Football Association |access-date=26 June 2023}}</ref> Featuring in all of his country's six games, Madueke helped England to win the tournament without conceding a single goal.<ref>{{Cite web |title=Colwill and Madueke crowned European champions |url=https://www.chelseafc.com/en/news/article/colwill-and-madueke-crowned-european-champions |publisher=Chelsea F.C. |access-date=9 July 2023}}</ref>
+
+===Senior career===
+On 29 August 2024, Madueke was called up to the [[England national football team|senior squad]] for the first time for the [[2024–25 UEFA Nations League|UEFA Nations League]] matches against the [[Republic of Ireland national football team|Republic of Ireland]] and [[Finland national football team|Finland]].<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/articles/c985q16jrn4o |title=Gomes, Livramento and Madueke in England squad |website=BBC Sport |date=29 August 2024 |accessdate=29 August 2024}}</ref> He debuted on 10 September 2024 against Finland at [[Wembley Stadium]], coming on as a substitute for [[Bukayo Saka]] in the 66th minute, where he assisted on [[Harry Kane]]'s second goal ten minutes later as England won 2–0.<ref>{{cite web |publisher=ESPN |url=https://www.espn.com/soccer/match/_/gameId/698928/finland-england |title=England v Finland game report |date=10 September 2024}}</ref>
+
+On 14 November 2024, Madueke made his first start for England in a Nations League fixture against [[Greece national football team|Greece]], assisting [[Ollie Watkins]]' opening goal in the seventh minute of the 3–0 win.<ref>{{cite web|url=https://www.skysports.com/football/news/13952/13254203/greece-0-3-england-jude-bellingham-and-curtis-jones-star-but-ollie-watkins-fails-to-take-chance-despite-scoring-opener|title=Greece 0-3 England: Jude Bellingham and Curtis Jones star but Ollie Watkins fails to take chance despite scoring opener|date=14 November 2024|access-date=10 September 2025|website=Sky Sports}}</ref> He scored his first senior international goal in a 5–0 win over [[Serbia national football team|Serbia]] during [[2026 FIFA World Cup qualification (UEFA)|2026 FIFA World Cup qualification]] on 9 September 2025.<ref>{{cite web|url=https://www.englandfootball.com/articles/2025/Sep/09/noni-madueke-marc-guehi-serbia-match-reaction-interview-20250909|title=Noni Madueke and Marc Guéhi speak after first England goals|date=9 September 2025|website=England Football}}</ref><ref>{{Cite web|url=https://www.theguardian.com/football/2025/sep/09/serbia-england-world-cup-2026-qualifier-match-report|title=Noni Madueke leads five-star England's rout of Serbia with World Cup in sight|first=David|last=Hytner|work=The Guardian |date=9 September 2025}}</ref>
+
+==Style of play==
+Upon signing for PSV in June 2018, Madueke was described by the club as "a creative, physically strong left-footed midfielder".<ref name="auto"/> His manager at PSV, [[Roger Schmidt (footballer)|Roger Schmidt]], stated that Madueke was "able to read situations, get to the right positions and be in the right place".<ref name="Sky"/> The BBC described him as a "direct, powerful and versatile attacker" who was inspired by [[Cristiano Ronaldo]].<ref name="auto1"/> Madueke is known for his speed and dribbling ability.<ref>{{Cite news |url=https://www.nytimes.com/athletic/4116397/2023/01/25/noni-madueke-chelsea-mudryk-analysis/ |title=Noni Madueke: Quick, skilful, clever and Chelsea's perfect complement for Mudryk |first=Liam |last=Twomey |website=The Athletic |date=25 January 2023 }}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 30 May 2026}}
+
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup{{efn|Includes [[KNVB Cup]], [[FA Cup]]}}
+!colspan="2"|League cup{{efn|Includes [[EFL Cup]]}}
+!colspan="2"|Europe
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|[[Jong PSV]]
+|[[2019–20 Eerste Divisie|2019–20]]<ref name="Soccerway"/>
+|[[Eerste Divisie]]
+|6||4||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||6||4
+|-
+|rowspan="5"|[[PSV Eindhoven]]
+|[[2019–20 PSV Eindhoven season|2019–20]]<ref name="Soccerway"/>
+|[[Eredivisie]]
+|4||0||0||0||colspan="2"|—||0||0||0||0||4||0
+|-
+|[[2020–21 PSV Eindhoven season|2020–21]]<ref name="Soccerway"/>
+|Eredivisie
+|24||7||1||1||colspan="2"|—||7{{efn|name=UEL|Appearances in [[UEFA Europa League]]}}||1||colspan="2"|—||32||9
+|-
+|[[2021–22 PSV Eindhoven season|2021–22]]<ref name="Soccerway"/>
+|Eredivisie
+|18||3||2||1||colspan="2"|—||14{{efn|Six appearances and two goals in [[UEFA Champions League]], three appearances in UEFA Europa League, five appearances and one goal in [[UEFA Europa Conference League]]}}||3||1{{efn|Appearance in [[Johan Cruyff Shield]]}}||2||35||9
+|-
+|[[2022–23 PSV Eindhoven season|2022–23]]<ref name="Soccerway">{{cite web |url=https://uk.soccerway.com/players/chukwunonso-madueke/509344/ |title=N. Madueke: Summary |website=Soccerway |publisher=Perform Group |access-date=13 September 2024}}</ref>
+|Eredivisie
+|5||1||1||1||colspan="2"|—||3{{efn|name=UEL}}||0||0||0||9||2
+|-
+!colspan="2"|Total
+!51!!11!!4!!3!!0!!0!!24!!4!!1!!2!!80!!20
+|-
+|rowspan="4"|[[Chelsea F.C.|Chelsea]]
+|[[2022–23 Chelsea F.C. season|2022–23]]<ref>{{soccerbase season|124943|2022|access-date=13 September 2024}}</ref>
+|[[Premier League]]
+|12||1||colspan="2"|—||colspan="2"|—||0||0||colspan="2"|—||12||1
+|-
+|[[2023–24 Chelsea F.C. season|2023–24]]<ref>{{soccerbase season|124943|2023|access-date=13 September 2024}}</ref>
+|Premier League
+|23||5||6||1||5||2||colspan="2"|—||colspan="2"|—||34||8
+|-
+|[[2024–25 Chelsea F.C. season|2024–25]]<ref>{{soccerbase season|124943|2024|access-date=20 June 2025}}</ref>
+|Premier League
+|32||7||1||0||1||0||7{{efn|Appearances in UEFA Conference League}}||4||5{{efn|Appearances in [[FIFA Club World Cup]]}}||0||46||11
+|-
+!colspan="2"|Total
+!67!!13!!7!!1!!6!!2!!7!!4!!5!!0!!92!!20
+|-
+|[[Arsenal F.C.|Arsenal]]
+|[[2025–26 Arsenal F.C. season|2025–26]]<ref>{{soccerbase season|124943|2025|access-date=18 July 2025}}</ref>
+|Premier League
+|26||3||4||2||3||0||10{{efn|Appearances in UEFA Champions League}}||3||colspan="2"|—||43||8
+|-
+!colspan="3"|Career total
+!150!!31!!15!!6!!9!!2!!41!!11!!6!!2!!221!!52
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 27 March 2026}}<ref>{{cite web |url=https://www.worldfootball.net/player_summary/noni-madueke/4/ |title=Noni Madueke: Internationals |website=worldfootball.net |publisher=HEIM:SPIEL |date=<!-- citation bot adds wrong date --> |access-date=20 June 2025}}</ref>
+
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="3"|[[England national football team|England]]
+|2024||5||0
+|-
+|2025||4||1
+|-
+|2026||1||0
+|-
+!colspan="2"|Total||10||1
+|}
+
+{{updated|match played 27 March 2026}}
+:''England score listed first, score column indicates score after each Madueke goal.''
+
+{| class="wikitable"
+|+ List of international goals scored by Noni Madueke
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Cap
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+!scope="col class="unsortable"|{{abbr|Ref.|Reference}}
+|-
+|align="center"|1||9 September 2025||[[Red Star Stadium]], [[Belgrade]], Serbia|| align="center" |9||{{fb|SRB}}|| align="center" |2–0|| align="center" |5–0||[[2026 FIFA World Cup qualification – UEFA Group K|2026 FIFA World Cup qualification]] || align="center" |<ref name=":3">{{Cite web |date=9 September 2025 |title=Serbia vs. England – FIFA World Cup 2026 Qualifier |url=https://www.fifa.com/en/match-centre/match/520/288329/288330/400019383 |access-date=9 September 2025 |website=FIFA}}</ref>
+|}
+
+==Honours==
+'''PSV Eindhoven'''
+*[[KNVB Cup]]: [[2021–22 KNVB Cup|2021–22]]<ref>{{cite web |url=https://www.psv.nl/english-psv/news/article/transfer-psv-sell-madueke-to-chelsea-fc-.htm |title=PSV sell Madueke to Chelsea FC |website=PSV |date=20 January 2023 |accessdate=22 January 2023 |archive-date=4 February 2023 |archive-url=https://web.archive.org/web/20230204180333/https://www.psv.nl/english-psv/news/article/transfer-psv-sell-madueke-to-chelsea-fc-.htm |url-status=dead }}</ref>
+*[[Johan Cruyff Shield]]: [[2021 Johan Cruyff Shield|2021]]<ref name=JCS />
+
+'''Chelsea'''
+*[[UEFA Conference League]]: [[2024–25 UEFA Conference League|2024–25]]<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/live/crk2zx2e1xet#Report|title=Chelsea beat Real Betis 4-1 to win Conference League|website=BBC|date=28 May 2025|accessdate=28 May 2025}}</ref>
+*[[FIFA Club World Cup]]: [[2025 FIFA Club World Cup|2025]]<ref>{{cite web|url=https://www.bbc.com/sport/football/live/cpwqnpdz929t|title=Chelsea 3–0 PSG|publisher=BBC Sport|first=Emlyn|last=Begley|date=13 July 2025|access-date=13 July 2025}}</ref>
+*[[EFL Cup]] runner-up: [[2023–24 EFL Cup|2023–24]]<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/68329936 |title=Carabao Cup final: Chelsea 0–1 Liverpool (aet) |first=Phil |last=McNulty |website=BBC Sport |date=25 February 2024 |access-date=26 February 2024}}</ref>
+
+'''Arsenal'''
+*[[Premier League]]: [[2025–26 Premier League|2025–26]]<ref>{{cite news |last=Aarons |first=Ed |date=19 May 2026 |title=Arsenal crowned Premier League champions after Manchester City draw |url=https://www.theguardian.com/football/2026/may/19/arsenal-premier-league-champions-manchester-city-bournemouth |access-date=19 May 2026 |newspaper=The Guardian |location=London}}</ref>
+*[[UEFA Champions League]] runner-up: [[2025–26 UEFA Champions League|2025–26]]<ref>{{cite web |url=https://www.uefa.com/uefachampionsleague/match/2047742--paris-vs-arsenal/ |title=Paris vs Arsenal |publisher=UEFA |access-date=31 May 2026}}</ref>
+*EFL Cup runner-up: [[2025–26 EFL Cup|2025–26]]<ref>{{Cite web|url=https://www.bbc.co.uk/sport/football/live/cy030p56zx4t|title=Carabao Cup final: Nico O'Reilly double helps Man City beat Arsenal at Wembley|first=Phil|last=McNulty|website=BBC Sport}}</ref>
+
+'''England U21'''
+*[[UEFA European Under-21 Championship]]: [[2023 UEFA European Under-21 Championship|2023]]<ref>{{Cite news |last=Howell |first=Alex |date=8 July 2023 |title=England beat Spain to win Euro U21 Championship |website=BBC Sport |url=https://www.bbc.com/sport/football/66127349 |access-date=8 July 2023}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*[https://www.arsenal.com/men/players/noni-madueke Profile] at the Arsenal F.C. website
+*[https://www.englandfootball.com/england/mens-senior-team/squad/noni-madueke Profile] at the Football Association website
+*{{UEFA player}}
+
+{{Arsenal F.C. squad}}
+{{England squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Madueke, Noni}}
+[[Category:2002 births]]
+[[Category:Living people]]
+[[Category:People from Chipping Barnet]]
+[[Category:Footballers from the London Borough of Barnet]]
+[[Category:English men's footballers]]
+[[Category:Men's association football wingers]]
+[[Category:Crystal Palace F.C. players]]
+[[Category:Tottenham Hotspur F.C. players]]
+[[Category:PSV Eindhoven players]]
+[[Category:Jong PSV players]]
+[[Category:Chelsea F.C. players]]
+[[Category:Arsenal F.C. players]]
+[[Category:UEFA Conference League–winning players]]
+[[Category:Eerste Divisie players]]
+[[Category:Eredivisie players]]
+[[Category:Premier League players]]
+[[Category:England men's youth international footballers]]
+[[Category:England men's under-21 international footballers]]
+[[Category:England men's international footballers]]
+[[Category:English expatriate men's footballers]]
+[[Category:Expatriate men's footballers in the Netherlands]]
+[[Category:English expatriate sportspeople in the Netherlands]]
+[[Category:Black British sportsmen]]
+[[Category:21st-century Black British people]]
+[[Category:English people of Nigerian descent]]
+[[Category:Sportspeople of Nigerian descent]]
+[[Category:English people of Igbo descent]]
+[[Category:21st-century English sportsmen]]
+[[Category:2026 FIFA World Cup players]]

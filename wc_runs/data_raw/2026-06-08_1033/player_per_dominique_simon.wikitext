@@ -1,0 +1,123 @@
+{{short description|Haitian footballer (born 2000)}}
+{{Use dmy dates|date=June 2025}}
+{{Infobox football biography
+|name = Dominique Simon
+|image =
+|image_size = 
+|alt = 
+|caption = 
+|fullname = Dominique Célidor Simon<ref name="auto">{{Cite web|url=https://sportpassioninfo.com/?p=20366|title=Dominique Célidor Simon : un parcours discret avec l’ambition de représenter Haïti|first=Adm Sport passion|last=info|date=22 March 2026|website=Sport Passion Info}}</ref>
+|birth_date = {{Birth date and age|2000|7|29|df=y}}
+|birth_place = [[Pontoise]], France
+|height = 1.79m
+|position = [[Defensive midfielder]]
+|currentclub = [[1. FC Tatran Prešov|Tatran Prešov]], on loan from [[FK Pardubice|Pardubice]]
+|clubnumber = 29
+|youthyears1 = 2006–2018
+|youthclubs1 = [[Paris Saint-Germain F.C.|Paris Saint-Germain]]
+|youthyears2 = 2018–2019
+|youthclubs2 = [[FCM Aubervilliers|Aubervilliers]]
+|years1 = 2019–2020
+|clubs1 = [[FCM Aubervilliers|Aubervilliers]]
+|caps1 = 1
+|goals1 = 0
+|years2 = 2021–2022
+|clubs2 = [[SD Navarro CF|Navarro]]
+|caps2 = 5
+|goals2 = 2
+|years3 = 2022–2023
+|clubs3 = [[Paide Linnameeskond U21|Paide U21]]
+|caps3 = 8
+|goals3 = 0
+|years4 = 2022–2024
+|clubs4 = [[Paide Linnameeskond|Paide]]
+|caps4 = 49
+|goals4 = 3
+|years5 = 2024
+|clubs5 = [[FC Dinamo Tbilisi|Dinamo Tbilisi]]
+|caps5 = 15
+|goals5 = 2
+|years6 = 2024–
+|clubs6 = [[FK Pardubice|Pardubice]]
+|caps6 = 16
+|goals6 = 1
+|years7 = 2025–
+|clubs7 = → [[1. FC Tatran Prešov|Tatran Prešov]] (loan)
+|caps7 = 20
+|goals7 = 1
+|nationalyears1 = 2026–
+|nationalteam1 = [[Haiti national football team|Haiti]]
+|nationalcaps1 = 2
+|nationalgoals1 = 0
+
+|medaltemplates =
+|pcupdate = 25 May 2026
+|ntupdate = 7 June 2026
+}}
+
+'''Dominique Célidor Simon''' (born 29 July 2000) is a professional [[Association football|footballer]] who plays as a [[defensive midfielder]] for [[Slovak First Football League]] club [[1. FC Tatran Prešov|Tatran Prešov]]. Born in France, he plays for the [[Haiti national football team|Haiti national team]].
+
+==Club career==
+Simon is a product of the youth academies of the French clubs [[Paris Saint-Germain F.C.|Paris Saint-Germain]] and [[FCM Aubervilliers|Aubervilliers]]. He made one appearance with Aubervilliers in 2019, before moving to the Spanish club [[SD Navarro CF|Navarro]] in 2021.<ref>{{Cite web|url=https://www.sofoot.com/breves/ancien-joueur-daubervilliers-dominique-simon-signe-en-d1-estonienne-estonie-paide-linnameeskond|title=Ancien joueur d’Aubervilliers, Dominique Simon signe en D1 estonienne|date=23 February 2022|website=SOFOOT.com}}</ref> On 23 February 2022, he joined the Estonian [[Meistriliiga]] club [[Paide Linnameeskond|Paide]] on a professional contract, and helped them win the [[2021–22 Estonian Cup]].<ref>{{Cite web|url=https://www.paidelinnameeskond.ee/tere-tulemast-dominique-simon/|title=Paide Linnameeskond – Tere tulemast, Dominique Simon!}}</ref> On 31 January 2024, he moved to the [[Erovnuli Liga]] club [[FC Dinamo Tbilisi|Dinamo Tbilisi]].<ref>{{Cite web|url=https://sportline.ge/fexburti/11725--23-.html|title=დინამო თბილისმა 23 წლის ფრანგი ნახევარმცველი დაიმატა|website=სპორტის ხაზი}}</ref>
+
+On 18 August 2024, he joined the [[Czech First League]] club [[FK Pardubice|Pardubice]].<ref>{{Cite web|url=https://soccernet.ee/artikkel/endine-paide-poolkaitsja-siirdus-gruusia-kaudu-tsehhi-korgliigasse|title=Endine Paide poolkaitsja siirdus Gruusia kaudu Tšehhi kõrgliigasse|first=Kris|last=Ilves|date=19 August 2024|website=Soccernet.ee - Jalgpall luubi all!}}</ref> On 22 August 2025, he joined [[1. FC Tatran Prešov|Tatran Prešov]] on a year-long loan in the [[Slovak First Football League]].
+
+==International career==
+Born in France, Simon is of Haitian descent.<ref name="auto"/> He was called up to the [[Haiti national football team|Haiti national team]] for the [[2026 FIFA World Cup]].<ref>{{Cite web|url=https://infotbal.cz/pardubice-opousti-zaloznik-simon-sezonu-stravi-na-hostovani-v-presove/|title=Pardubice opustil záložník Simon. Sezonu stráví na hostování v Prešově » inFotbal.cz|date=22 August 2025}}</ref>
+
+==Honours==
+;Paide 
+*[[Estonian Cup]]: [[2021–22 Estonian Cup|2021–22]]
+*[[Estonian Supercup]]: [[Estonian Supercup|2023]]
+
+== References ==
+{{reflist}}
+
+==External links==
+*{{Soccerway|new_id=simon-dominique/K4kIpYsN}}
+
+{{1. FC Tatran Prešov squad}}
+{{Haiti squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Simon, Dominique}}
+[[Category:2000 births]]
+[[Category:Living people]]
+[[Category:Footballers from Pontoise]]
+[[Category:Haitian men's footballers]]
+[[Category:Haiti men's international footballers]]
+[[Category:French men's footballers]]
+[[Category:French sportspeople of Haitian descent]]
+[[Category:Men's association football midfielders]]
+[[Category:FCM Aubervilliers players]]
+[[Category:SD Navarro CF footballers]]
+[[Category:Paide Linnameeskond players]]
+[[Category:FC Dinamo Tbilisi players]]
+[[Category:FK Pardubice players]]
+[[Category:1. FC Tatran Prešov players]]
+[[Category:Championnat National 3 players]]
+[[Category:Tercera Federación players]]
+[[Category:Esiliiga players]]
+[[Category:Meistriliiga players]]
+[[Category:Erovnuli Liga players]]
+[[Category:Czech First League players]]
+[[Category:Slovak First Football League players]]
+[[Category:2026 FIFA World Cup players]]
+[[Category:Haitian expatriate men's footballers]]
+[[Category:French expatriate men's footballers]]
+[[Category:Haitian expatriates in Spain]]
+[[Category:French expatriates in Spain]]
+[[Category:Expatriate footballers in Spain]]
+[[Category:Haitian expatriates in Spain]]
+[[Category:Expatriate footballers in Spain]]
+[[Category:Haitian expatriates in Estonia]]
+[[Category:French expatriates in Estonia]]
+[[Category:Expatriate footballers in Estonia]]
+[[Category:Haitian expatriates in Georgia (country)]]
+[[Category:French expatriates in Georgia (country)]]
+[[Category:Expatriate footballers in Georgia (country)]]
+[[Category:Haitian expatriates in the Czech Republic]]
+[[Category:French expatriates in the Czech Republic]]
+[[Category:Expatriate footballers in the Czech Republic]]
+[[Category:Haitian expatriates in Slovakia]]
+[[Category:French expatriates in Slovakia]]
+[[Category:Expatriate footballers in Slovakia]]

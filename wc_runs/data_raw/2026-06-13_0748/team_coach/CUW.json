@@ -1,0 +1,14 @@
+{
+ "team": "CUW",
+ "coach": {
+  "name_zh": "迪克·艾德沃卡特",
+  "name_en": "Dick Advocaat",
+  "nationality": "Netherlands",
+  "career_since": "1980",
+  "person_id": "per_dick_advocaat"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。"
+}

@@ -1,0 +1,34 @@
+{
+ "team": "TUN",
+ "coach": {
+  "name_zh": "薩布里·拉穆奇",
+  "name_en": "Sabri Lamouchi",
+  "nationality": "France",
+  "career_since": "2012",
+  "person_id": "per_sabri_lamouchi"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 法国籍教练薩布里·拉穆奇2012年开启执教生涯，1月从萨米·特拉贝尔西手中接手突尼斯国家队，将率队第七次征战世界杯。\n- 以务实防守著称，打造严密防守体系，通过严格防守训练在高压下榨取球员最大效率。\n- 带队在非洲区H组十战九胜且一球未失，创世界杯预选赛历史纪录。\n- 2022年世界杯小组赛出局但击败亚军法国，非洲杯首轮被马里点球淘汰。\n- 已敲定26人名单，以门将达门（37场）为核心，融合欧洲经验与本土精英，但失去退役老将哈兹里。\n- 年初在摩洛哥表现不佳后预计调整阵容，但防守体系保持不变。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.85,
+  "issues": [
+   "执教背景信息冗余",
+   "历史战绩与当前关联度弱"
+  ]
+ },
+ "brief_fetched": "2026-06-13_1750",
+ "brief_info_chars": 3567,
+ "coach_xverify": {
+  "canonical": "Sabri Lamouchi",
+  "confidence": "high",
+  "discrepancy": "Sources 3 (Goal) and 4 (Sports Mole) incorrectly discuss Sweden's coach Graham Potter, not Tunisia; this appears to be a data matching error rather than actual disagreement on Tunisia's coach. All Tunisia-relevant sources consistently identify Sabri Lamouchi.",
+  "sources_agree": 6,
+  "n_sources": 8
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "team": "CIV",
+ "coach": {
+  "name_zh": "",
+  "name_en": "Emerse Faé",
+  "nationality": "France",
+  "career_since": "2021",
+  "person_id": "per_emerse_fae"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 法国籍教练埃默塞·法埃（Emerse Faé）2021年开启执教生涯，现任科特迪瓦国家队主帅，正率队征战2026年世界杯。\n- 预选赛阶段带队10场不败（8胜2平），10场零封对手，末轮主场3-0击败肯尼亚直接晋级。\n- 科特迪瓦第四次入围世界杯决赛圈，此前三届均未能从小组突围。\n- 队长弗兰克·凯西以超100次出场领衔，中场塞科·福法纳以3球成为队内预选赛最佳射手。\n- 26人大名单涵盖阿玛德·迪亚洛（曼联）、埃万·盖桑（水晶宫）等多名英超球员，整体由旅欧精英构成。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.9,
+  "issues": [
+   "历史战绩与下一场关联弱"
+  ]
+ },
+ "brief_fetched": "2026-06-13_1138",
+ "brief_info_chars": 3175
+}

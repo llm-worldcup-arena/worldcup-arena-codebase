@@ -1,0 +1,34 @@
+===Current squad===
+The following 26 players were called up to the [[2026 FIFA World Cup]], and for the pre-tournament friendly matches against [[Tunisia national football team|Tunisia]] and [[Guatemala national football team|Guatemala]] on 1 and 10 June 2026, respectively.<ref>{{cite web |url=https://www.oefb.at/oefb/News/Nationalteam-WM-Kader |title=Ralf Rangnick nennt WM-Kader |trans-title=Ralf Rangnick names World Cup squad |publisher=[[Austrian Football Association]] |date=May 18, 2026 |access-date=May 18, 2026 |language=de}}</ref> [[Christoph Baumgartner]] withdrew injured on 2 June;<ref>{{cite web |url=https://www.oefb.at/oefb/News/Baumgartner-faellt-fuer-WM-aus |title=Christoph Baumgartner fällt für WM aus |trans-title=Christoph Baumgartner will miss the World Cup |publisher=[[Austrian Football Association]] |date=2 June 2026 |access-date=2 June 2026 |language=de}}</ref> his replacement has yet to be named.
+<br>''Caps and goals as of 1 June 2026, after the match against [[Tunisia national football team|Tunisia]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Alexander Schlager]]|sortname=Schlager, Alexander|age={{Birth date and age|1996|2|1|df=y}}|caps=26|goals=0|club=[[FC Red Bull Salzburg|Red Bull Salzburg]]|clubnat=AUT}}
+{{nat fs g player|no=12|pos=GK|name=[[Florian Wiegele]]|sortname=Wiegele, Florian|age={{Birth date and age|2001|3|21|df=y}}|caps=1|goals=0|club=[[FC Viktoria Plzeň|Viktoria Plzeň]]|clubnat=CZE}}
+{{nat fs g player|no=13|pos=GK|name=[[Patrick Pentz]]|sortname=Pentz, Patrick|age={{Birth date and age|1997|1|2|df=y}}|caps=18|goals=0|club=[[Brøndby IF|Brøndby]]|clubnat=DEN}}
+{{nat fs g break}}
+{{nat fs g player|no=2|pos=DF|name=[[David Affengruber (footballer, born 2001)|David Affengruber]]|sortname=Affengruber, David|age={{Birth date and age|2001|3|19|df=y}}|caps=1|goals=0|club=[[Elche CF|Elche]]|clubnat=ESP}}
+{{nat fs g player|no=3|pos=DF|name=[[Kevin Danso]]|sortname=Danso, Kevin|age={{Birth date and age|1998|9|19|df=y}}|caps=32|goals=0|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG}}
+{{nat fs g player|no=5|pos=DF|name=[[Stefan Posch]]|sortname=Posch, Stefan|age={{Birth date and age|1997|5|14|df=y}}|caps=52|goals=5|club=[[1. FSV Mainz 05|Mainz 05]]|clubnat=GER}}
+{{nat fs g player|no=8|pos=DF|name=[[David Alaba]]|sortname=Alaba, David|other=[[Captain (association football)|captain]]|age={{Birth date and age|1992|6|24|df=y}}|caps=113|goals=15|club=[[Real Madrid CF|Real Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=15|pos=DF|name=[[Philipp Lienhart]]|sortname=Lienhart, Philipp|age={{Birth date and age|1996|7|11|df=y}}|caps=41|goals=3|club=[[SC Freiburg]]|clubnat=GER}}
+{{nat fs g player|no=16|pos=DF|name=[[Phillipp Mwene]]|sortname=Mwene, Phillipp|age={{Birth date and age|1994|1|29|df=y}}|caps=30|goals=0|club=[[1. FSV Mainz 05|Mainz 05]]|clubnat=GER}}
+{{nat fs g player|no=22|pos=DF|name=[[Alexander Prass]]|sortname=Prass, Alexander|age={{Birth date and age|2001|5|26|df=y}}|caps=19|goals=0|club=[[TSG 1899 Hoffenheim|TSG Hoffenheim]]|clubnat=GER}}
+{{nat fs g player|no=23|pos=DF|name=[[Marco Friedl]]|age={{Birth date and age|1998|3|16|df=y}}|caps=11|goals=0|club=[[SV Werder Bremen|Werder Bremen]]|clubnat=GER}}
+{{nat fs g player|no=25|pos=DF|name=[[Michael Svoboda]]|sortname=Svoboda, Michael|age={{Birth date and age|1998|10|15|df=y}}|caps=4|goals=0|club=[[Venezia FC|Venezia]]|clubnat=ITA}}
+{{nat fs g break}}
+{{nat fs g player|no=4|pos=MF|name=[[Xaver Schlager]]|sortname=Schlager, Xaver|age={{Birth date and age|1997|9|28|df=y}}|caps=51|goals=4|club=[[RB Leipzig]]|clubnat=GER}}
+{{nat fs g player|no=6|pos=MF|name=[[Nicolas Seiwald]]|sortname=Seiwald, Nicolas|age={{Birth date and age|2001|5|4|df=y}}|caps=47|goals=1|club=[[RB Leipzig]]|clubnat=GER}}
+{{nat fs g player|no=9|pos=MF|name=[[Marcel Sabitzer]]|sortname=Sabitzer, Marcel|other=[[Captain (association football)|third captain]]|age={{Birth date and age|1994|3|17|df=y}}|caps=98|goals=26|club=[[Borussia Dortmund]]|clubnat=GER}}
+{{nat fs g player|no=10|pos=MF|name=[[Florian Grillitsch]]|sortname=Grillitsch, Florian|age={{Birth date and age|1995|8|7|df=y}}|caps=58|goals=1|club=[[S.C. Braga|Braga]]|clubnat=POR}}
+{{nat fs g player|no=17|pos=MF|name=[[Carney Chukwuemeka]]|sortname=Chukwuemeka, Carney|age={{Birth date and age|2003|10|20|df=y}}|caps=3|goals=1|club=[[Borussia Dortmund]]|clubnat=GER}}
+{{nat fs g player|no=18|pos=MF|name=[[Romano Schmid]]|sortname=Schmid, Romano|age={{Birth date and age|2000|1|27|df=y}}|caps=34|goals=3|club=[[SV Werder Bremen|Werder Bremen]]|clubnat=GER}}
+{{nat fs g player|no=20|pos=MF|name=[[Konrad Laimer]]|sortname=Laimer, Konrad|age={{Birth date and age|1997|5|27|df=y}}|caps=57|goals=7|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs g player|no=21|pos=MF|name=[[Patrick Wimmer]]|sortname=Wimmer, Patrick|age={{Birth date and age|2001|5|30|df=y}}|caps=30|goals=1|club=[[VfL Wolfsburg]]|clubnat=GER}}
+{{nat fs g player|no=24|pos=MF|name=[[Paul Wanner]]|sortname=Wanner, Paul|age={{Birth date and age|2005|12|23|df=y}}|caps=3|goals=0|club=[[PSV Eindhoven|PSV]]|clubnat=NED}}
+{{nat fs g player|no=26|pos=MF|name=[[Alessandro Schöpf]]|sortname=Schöpf, Alessandro|age={{Birth date and age|1994|2|7|df=y}}|caps=35|goals=6|club=[[Wolfsberger AC]]|clubnat=AUT}}
+{{nat fs g break}}
+{{nat fs g player|no=7|pos=FW|name=[[Marko Arnautović]]|sortname=Arnautovic, Marko|other=[[Captain (association football)|vice-captain]]|age={{Birth date and age|1989|4|19|df=y}}|caps=133|goals=[[List of international goals scored by Marko Arnautović|47]]|club=[[Red Star Belgrade]]|clubnat=SRB}}
+{{nat fs g player|no=11|pos=FW|name=[[Michael Gregoritsch]]|sortname=Gregoritsch, Michael|age={{Birth date and age|1994|4|18|df=y}}|caps=75|goals=24|club=[[FC Augsburg]]|clubnat=GER}}
+{{nat fs g player|no=14|pos=FW|name=[[Saša Kalajdžić]]|sortname=Kalajdžić, Saša|age={{Birth date and age|1997|7|7|df=y}}|caps=22|goals=4|club=[[LASK]]|clubnat=AUT}}
+{{nat fs end}}

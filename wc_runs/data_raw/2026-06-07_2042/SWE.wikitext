@@ -1,0 +1,73 @@
+{{Short description|Men's association football team}}
+{{Use dmy dates|date=March 2025}}
+{{Infobox national football team
+| Name               = Sweden
+| Badge              = Sweden national football team badge.svg
+| Badge_size         = 130px
+| Nickname           = ''Blågult''<br>(The Blue and Yellow)
+| Association        = ''[[Swedish Football Association|Svenska Fotbollförbundet]]'' (SvFF)
+| Confederation      = [[UEFA]] (Europe)
+| website            = {{URL|https://www.svenskfotboll.se/}}
+| Coach              = [[Graham Potter]]
+| Captain            = [[Victor Lindelöf]]
+| Most caps          = [[Anders Svensson]] (148)
+| Top scorer         = [[Zlatan Ibrahimović]] ([[List of international goals scored by Zlatan Ibrahimović|62]])
+| Home Stadium       = [[Nationalarenan]]
+| FIFA Trigramme     = SWE
+| FIFA Rank          = {{FIFA World Rankings|SWE}}
+| FIFA max           = 2
+| FIFA max date      = November 1994
+| FIFA min           = 45
+| FIFA min date      = March 2015, October–November 2015, March 2017
+| Elo Rank           = {{World Football Elo Ratings|Sweden}}
+| Elo max            = 2
+| Elo max date       = May–June 1949, October 1949, July 1950
+| Elo min            = 48
+| Elo min date       = September 1980, May 1981
+| pattern_la1        = _swe26h
+| pattern_b1         = _swe26hA
+| pattern_ra1        = _swe26h
+| pattern_sh1        = _swe26h
+| pattern_so1        = _swe26hl
+| leftarm1           = FFF200
+| body1              = FFF200
+| rightarm1          = FFF200
+| shorts1            = 000040
+| socks1             = FFF200
+| pattern_la2        = _swe26a
+| pattern_b2         = _swe26a
+| pattern_ra2        = _swe26a
+| pattern_sh2        = _swe26a
+| pattern_so2        = _swe26al
+| leftarm2           = 000040
+| body2              = 000040
+| rightarm2          = 000040
+| shorts2            = 000040
+| socks2             = 000040
+| First game         = {{fb|SWE}} 11–3 {{fb-rt|NOR}}<br>([[Gothenburg]], Sweden; 12 July 1908)
+| Largest win        = {{fb|SWE}} 12–0 {{fb-rt|LVA}}<br>([[Stockholm]], Sweden; 29 May 1927)<br>{{fb|SWE}} 12–0 {{fb-rt|KOR|1948}}<br>([[London]], England; 5 August 1948)
+| Largest loss       = {{fbo|GBR}} 12–1 {{Fb-rt|SWE}}<br>([[London]], England; 20 October 1908)
+| World cup apps     = 13
+| World cup first    = 1934
+| World cup best     = Runners-up ([[1958 FIFA World Cup|1958]])
+| Regional name      = [[UEFA European Championship|European Championship]]
+| Regional cup apps  = 7
+| Regional cup first = [[UEFA Euro 1992|1992]]
+| Regional cup best  = Semi-finals ([[UEFA Euro 1992|1992]])
+| 3rdRegional name   = [[Football at the Summer Olympics|Olympic Games]]
+| 3rdRegional cup apps     = 7
+| 3rdRegional cup first    = [[Football at the 1908 Summer Olympics|1908]]
+| 3rdRegional cup best     = [[File:Gold medal.svg|16px]] '''Gold medal''' ([[Football at the 1948 Summer Olympics|1948]])
+| medaltemplates     = 
+{{Medal|Competition|[[FIFA World Cup|World Cup]]}}
+{{MedalSilver|[[1958 FIFA World Cup|1958 Sweden]]|[[1958 FIFA World Cup squads#Sweden|Team]]}}
+{{MedalBronze|[[1950 FIFA World Cup|1950 Brazil]]|[[1950 FIFA World Cup squads#Sweden|Team]]}}
+{{MedalBronze|[[1994 FIFA World Cup|1994 United States]]|[[1994 FIFA World Cup squads#Sweden|Team]]}}{{Medal|Competition|[[Football at the Summer Olympics|Olympic Games]]}}
+{{Medal|Gold|[[1948 Summer Olympics|1948 London]]|[[Football at the 1948 Summer Olympics|Team]]}}
+{{Medal|Bronze|[[1924 Summer Olympics|1924 Paris]]|[[Football at the 1924 Summer Olympics|Team]]}}
+{{Medal|Bronze|[[1952 Summer Olympics|1952 Helsinki]]|[[Football at the 1952 Summer Olympics|Team]]}}
+}}
+
+The '''Sweden men's national football team''' ({{langx|sv|Sveriges herrlandslag i fotboll}}) represents [[Sweden]] in men's international [[Association football|football]] and it is controlled by the [[Swedish Football Association]], the governing body of [[football in Sweden]]. Sweden's home ground is [[Nationalarenan]] in [[Solna]]. From 1945 to the late 1950s, they were considered one of the greatest teams in Europe.<ref>{{cite web|url=https://www.footballparadise.com/india-1950-world-cup/|quote=[Sweden] were arguably the best team in Europe when football restarted after War until the rise of the great Hungarian team of the early 1950s. [...] Sweden was still perhaps the strongest European team in 1950|work=[[Football Paradise]]|access-date=3 July 2018|date=30 June 2018|title='What if?' – The story of India's lost opportunity at the 1950 World Cup|first=Somnath|last=Sengupta|archive-date=3 July 2018|archive-url=https://web.archive.org/web/20180703220343/https://www.footballparadise.com/india-1950-world-cup/|url-status=live}}</ref>
+
+Sweden has made twelve appearances at the [[FIFA World Cup|World Cup]] with their first coming in [[1934 FIFA World Cup|1934]]. They have also made seven appearances at the [[UEFA European Championship|European Championship]]. Sweden finished second at the [[1958 FIFA World Cup]], which they hosted, and third in both [[1950 FIFA World Cup|1950]] and [[1994 FIFA World Cup|1994]]. Sweden's other accomplishments also include a gold medal at the [[Football at the 1948 Summer Olympics|1948 Summer Olympics]], and bronze medals in [[Football at the 1924 Summer Olympics|1924]] and [[Football at the 1952 Summer Olympics|1952]]. They also reached the semi-finals at [[UEFA Euro 1992]], while hosting the tournament. Sweden's most prominent result in recent history was at the [[2018 FIFA World Cup]], where they reached the quarter-finals.

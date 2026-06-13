@@ -1,0 +1,31 @@
+{
+ "team": "CIV",
+ "coach": {
+  "name_zh": "",
+  "name_en": "Emerse Faé",
+  "nationality": "France",
+  "career_since": "2021",
+  "person_id": "per_emerse_fae"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 法国籍主帅埃默斯·法埃2021年开启执教生涯，2023年非洲杯夺冠后正式接手科特迪瓦，以十场零失球战绩直通2026世界杯。\n- 法埃将球队改造为纪律严明的防守体系，以罗马中卫埃文·恩迪卡为防线核心，中场由塞科·福法纳与队长弗兰克·凯西提供活力与领导力。\n- 科特迪瓦在2026世界杯预选赛CAF F组10战8胜2平且零失球，末轮主场3-0击败肯尼亚锁定名额，福法纳以3球成为队内最佳射手。\n- 队长凯西以超百场国家队经验领衔26人名单，曼联边锋阿玛德·迪亚洛与水晶宫前锋埃万·盖桑等英超球员将迎来世界杯首秀。\n- 科特迪瓦此前四次世界杯之旅均未突破小组赛，2026年落入E组将先后对阵厄瓜多尔、德国与库拉索。\n- 后卫克莱芒·阿克帕临战受伤，由FC达拉斯后卫赫尔曼·约翰松递补入选最终名单。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.95,
+  "issues": []
+ },
+ "brief_fetched": "2026-06-13_1750",
+ "brief_info_chars": 3953,
+ "coach_xverify": {
+  "canonical": "Emerse Faé",
+  "confidence": "high",
+  "discrepancy": "Minor spelling variation: 'Faé' (accented) vs 'Fae' (unaccented) across sources. Heavy.com snippet confirms 'Head coach' role but doesn't name him in provided text.",
+  "sources_agree": 5,
+  "n_sources": 6
+ }
+}

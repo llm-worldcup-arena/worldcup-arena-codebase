@@ -1,0 +1,36 @@
+===Current squad===
+<!-- IMPORTANT NOTE: WHEN YOU UPDATE THE CURRENT SQUAD, COULD YOU PLEASE ALSO UPDATE "RECENT CALLUPS" BELOW? ALSO WHEN UPDATING CAPS/GOALS PLEASE CHANGE THE 'CORRECT AS OF...' DATE. THANK YOU -->
+The following 26 players were called up to the [[2026 FIFA World Cup]], and for the pre-tournament friendly matches against [[Sweden men's national football team|Sweden]] and [[Morocco national football team|Morocco]] on 1 and 7 June 2026, respectively.<ref>{{cite web |url=https://ca.sports.yahoo.com/news/official-norways-squad-world-cup-183300398.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAFgGHlHiBBNs5sEPwrgfkPOgWaT4Z0qNrN4xBSfmKBxvPgOBSXRawP_92Et-K2s_CFv21kQ4yo9tvcPXz82quVmYNOv0Kc-ZLH854nBfP1SQzWY0XTdzzWyUq6FW-k1S1b5y3kN2EQ_RXuX29_cGVdhoz0IEmXBjct8DquE6iCaO |title=Official: Norway's squad for the World Cup |publisher=ca.sports.yahoo.com |date=May 21, 2026 |access-date=May 21, 2026}}</ref><ref>{{Cite Instagram |user=herrelandslaget |author=Norway men's national football team |postid=DYptu7rDA5D |title=Hvilket nummer går du for i sommer? |trans-title=Which number are you going for this summer? |language=no |date=22 May 2026 |access-date=23 May 2026}}</ref>
+<br>''Caps and goals correct as of 1 June 2026, after the match against [[Sweden men's national football team|Sweden]].''{{Citation needed|date=October 2024}}
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Ørjan Nyland]]|age={{birth date and age|1990|9|10|df=y}}|caps=70|goals=0|club=[[Sevilla FC|Sevilla]]|clubnat=ESP}}
+{{nat fs g player|no=12|pos=GK|name=[[Sander Tangvik]]|age={{birth date and age|2002|11|29|df=y}}|caps=0|goals=0|club=[[Hamburger SV]]|clubnat=GER}}
+{{nat fs g player|no=13|pos=GK|name=[[Egil Selvik]]|age={{birth date and age|1997|7|30|df=y}}|caps=6|goals=0|club=[[Watford F.C.|Watford]]|clubnat=ENG}}
+{{nat fs break}}
+{{nat fs g player|no=3|pos=DF|name=[[Kristoffer Ajer|Kristoffer Vassbakk Ajer]]|age={{birth date and age|1998|4|17|df=y}}|caps=51|goals=2|club=[[Brentford F.C.|Brentford]]|clubnat=ENG}}
+{{nat fs g player|no=4|pos=DF|name=[[Leo Østigård]]|age={{birth date and age|1999|11|28|df=y}}|caps=37|goals=1|club=[[Genoa CFC|Genoa]]|clubnat=ITA}}
+{{nat fs g player|no=5|pos=DF|name=[[David Møller Wolfe]]|age={{birth date and age|2002|4|23|df=y}}|caps=21|goals=1|club=[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]|clubnat=ENG}}
+{{nat fs g player|no=15|pos=DF|name=[[Fredrik André Bjørkan]]|age={{birth date and age|1998|8|21|df=y}}|caps=20|goals=1|club=[[FK Bodø/Glimt|Bodø/Glimt]]|clubnat=NOR}}
+{{nat fs g player|no=16|pos=DF|name=[[Marcus Holmgren Pedersen]]|age={{birth date and age|2000|7|16|df=y}}|caps=32|goals=0|club=[[Torino FC|Torino]]|clubnat=ITA}}
+{{nat fs g player|no=17|pos=DF|name=[[Torbjørn Heggem]]|age={{birth date and age|1999|1|12|df=y}}|caps=14|goals=0|club=[[Bologna FC 1909|Bologna]]|clubnat=ITA}}
+{{nat fs g player|no=24|pos=DF|name=[[Sondre Langås]]|age={{birth date and age|2001|2|2|df=y}}|caps=3|goals=0|club=[[Derby County F.C.|Derby County]]|clubnat=ENG}}
+{{nat fs g player|no=25|pos=DF|name=[[Henrik Falchener]]|age={{birth date and age|2003|5|8|df=y}}|caps=1|goals=0|club=[[Viking FK|Viking]]|clubnat=NOR}}
+{{nat fs g player|no=26|pos=DF|name=[[Julian Ryerson]]|age={{birth date and age|1997|11|17|df=y}}|caps=42|goals=1|club=[[Borussia Dortmund]]|clubnat=GER}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=MF|name=[[Morten Thorsby]]|age={{birth date and age|1996|5|5|df=y}}|caps=31|goals=0|club=[[US Cremonese|Cremonese]]|clubnat=ITA}}
+{{nat fs g player|no=6|pos=MF|name=[[Patrick Berg]]|age={{birth date and age|1997|11|24|df=y}}|caps=42|goals=0|club=[[FK Bodø/Glimt|Bodø/Glimt]]|clubnat=NOR}}
+{{nat fs g player|no=8|pos=MF|name=[[Sander Berge]]|age={{birth date and age|1998|2|14|df=y}}|caps=65|goals=1|club=[[Fulham F.C.|Fulham]]|clubnat=ENG}}
+{{nat fs g player|no=10|pos=MF|name=[[Martin Ødegaard]]|other=[[Captain (association football)|captain]]|age={{birth date and age|1998|12|17|df=y}}|caps=67|goals=4|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs g player|no=14|pos=MF|name=[[Fredrik Aursnes]]|age={{birth date and age|1995|12|10|df=y}}|caps=21|goals=1|club=[[S.L. Benfica|Benfica]]|clubnat=POR}}
+{{nat fs g player|no=18|pos=MF|name=[[Kristian Thorstvedt]]|age={{birth date and age|1999|3|13|df=y}}|caps=36|goals=4|club=[[US Sassuolo Calcio|Sassuolo]]|clubnat=ITA}}
+{{nat fs g player|no=19|pos=MF|name=[[Thelo Aasgaard]]|age={{birth date and age|2002|5|2|df=yes}}|caps=7|goals=5|club=[[Rangers F.C.|Rangers]]|clubnat=SCO}}
+{{nat fs g player|no=20|pos=MF|name=[[Antonio Nusa]]|age={{birth date and age|2005|4|17|df=y}}|caps=23|goals=8|club=[[RB Leipzig]]|clubnat=GER}}
+{{nat fs g player|no=21|pos=MF|name=[[Andreas Schjelderup]]|age={{birth date and age|2004|6|1|df=y}}|caps=11|goals=1|club=[[S.L. Benfica|Benfica]]|clubnat=POR}}
+{{nat fs g player|no=22|pos=MF|name=[[Oscar Bobb]]|age={{birth date and age|2003|7|12|df=y}}|caps=19|goals=2|club=[[Fulham F.C.|Fulham]]|clubnat=ENG}}
+{{nat fs g player|no=23|pos=MF|name=[[Jens Petter Hauge]]|age={{birth date and age|1999|10|12|df=y}}|caps=15|goals=1|club=[[FK Bodø/Glimt|Bodø/Glimt]]|clubnat=NOR}}
+{{nat fs break}}
+{{nat fs g player|no=7|pos=FW|name=[[Alexander Sørloth]]|age={{birth date and age|1995|12|5|df=y}}|caps=71|goals=26|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=9|pos=FW|name=[[Erling Haaland]]|age={{birth date and age|2000|7|21|df=y}}|caps=49|goals=[[List of international goals scored by Erling Haaland|55]]|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG|other=[[Captain (association football)#Vice-captain|vice-captain]]}}
+{{nat fs g player|no=11|pos=FW|name=[[Jørgen Strand Larsen]]|age={{birth date and age|2000|2|6|df=y}}|caps=27|goals=6|club=[[Crystal Palace F.C.|Crystal Palace]]|clubnat=ENG}}
+{{nat fs end}}

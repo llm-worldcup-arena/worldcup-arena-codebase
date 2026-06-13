@@ -1,0 +1,455 @@
+{{short description|Belgian footballer (born 1991)}}
+{{lead too short|date=August 2025}}
+{{Use dmy dates|date=November 2022}}
+{{Infobox football biography
+|name = Thomas Meunier
+|image = Thomas Meunier USMNT v Belgium Mar 28 2026-16 (cropped).jpg
+|caption = Meunier with [[Belgium national football team|Belgium]] in 2026
+|full_name = Thomas André A. Meunier<ref>{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=Squad List: FIFA World Cup Qatar 2022: Belgium (BEL) |publisher=FIFA |page=3 |date=18 December 2022 |access-date=31 August 2024}}</ref>
+|birth_date = {{birth date and age|1991|9|12|df=y}}<ref>{{cite web|title=Thomas Meunier|date=12 September 1991 |url=https://en.psg.fr/teams/first-team/squad/thomas-meunier}}</ref>
+|birth_place = [[Sainte-Ode]], Belgium
+|height = 1.91 m<ref>{{cite web |title=Thomas Meunier |url=https://www.bvb.de/eng/Teams/First-Team/Thomas-Meunier |publisher=Borussia Dortmund |access-date=29 October 2021| archive-url = https://web.archive.org/web/20211022174131/https://www.bvb.de/eng/Teams/First-Team/Thomas-Meunier | archive-date = 22 October 2021 |url-status=live}}</ref>
+|position = [[Right-back]]
+|currentclub = [[Lille OSC|Lille]]
+|clubnumber = 12
+|youthyears1 = 1996–2002
+|youthclubs1 = RUS Saint-Ode
+|youthyears2 = 2002–2004
+|youthclubs2 = RUS Givry
+|youthyears3 = 2004–2006
+|youthclubs3 = [[Standard Liège]]
+|youthyears4 = 2006–2009
+|youthclubs4 = [[Royal Excelsior Virton|Virton]]
+|years1 = 2009–2011
+|clubs1 = [[Royal Excelsior Virton|Virton]]
+|caps1 = 49
+|goals1 = 15
+|years2 = 2011–2016
+|clubs2 = [[Club Brugge KV|Club Brugge]]
+|caps2 = 149
+|goals2 = 15
+|years3 = 2016–2020
+|clubs3 = [[Paris Saint-Germain FC|Paris Saint-Germain]]
+|caps3 = 84
+|goals3 = 8
+|years4 = 2020–2024
+|clubs4 = [[Borussia Dortmund]]
+|caps4 = 56
+|goals4 = 3
+|years5 = 2023
+|clubs5 = [[Borussia Dortmund II]]
+|caps5 = 3
+|goals5 = 0
+|years6 = 2024
+|clubs6 = [[Trabzonspor]]
+|caps6 = 14
+|goals6 = 1
+|years7 = 2024–
+|clubs7 = [[Lille OSC|Lille]]
+|caps7 = 55
+|goals7 = 3
+|nationalyears1 = 2006
+|nationalteam1 = [[Belgium national youth football team|Belgium U15]]
+|nationalcaps1 = 1
+|nationalgoals1 = 0
+|nationalyears2 = 2011–2012
+|nationalteam2 = [[Belgium national under-21 football team|Belgium U21]]
+|nationalcaps2 = 7
+|nationalgoals2 = 1
+|nationalyears3 = 2013–
+|nationalteam3 = [[Belgium national football team|Belgium]]
+|nationalcaps3 = 79
+|nationalgoals3 = 10
+|pcupdate = 10 May 2026 (UTC)
+|ntupdate = 2 June 2026 (UTC)
+|medaltemplates = {{Medal|Sport|Men's [[Association football|football]]}}
+{{Medal|Country|{{fb|BEL}}}}
+{{Medal|Comp|[[FIFA World Cup]]}}
+{{Medal|3rd|[[2018 FIFA World Cup|2018]]|}}
+}}
+
+'''Thomas André A. Meunier''' ({{IPA|fr|tɔma mønje}}; born 12 September 1991) is a Belgian professional [[Association football|footballer]] who plays as a [[right-back]] for [[Ligue 1]] club [[Lille OSC|Lille]] and the [[Belgium national football team|Belgium national team]].
+
+==Club career==
+===Virton===
+Born in [[Sainte-Ode]], Belgium, Meunier began playing for various youth teams, starting with RUS Saint-Ode, RUS Givry and [[Standard Liège]]. He spent two seasons with Liège before being released due to injuries.<ref>{{cite news|title=J'en suis là… grâce à mon renvoi du Standard Liege !|url=https://www.dhnet.be/sports/football/j-en-suis-la-grace-a-mon-renvoi-du-standard-527dbd323570ea593db72bb7|publisher=DHnet|language=nl|date=9 November 2013|access-date=17 November 2017}}</ref><ref name="Meunier La Meuse Interview">{{cite news|title=Anderlecht? Je n'ai pas encore le niveau|url=http://www.lameuse.be/archive/d-20130101-Z1735W|publisher=La Meuse|language=fr|date=11 December 2010|access-date=6 August 2018}}</ref> Meunier revealed that his release affected him and at one point he considered quitting football before being persuaded by his mother to continue. During a trial at [[R.E. Virton|Virton]],<ref name="Meunier Nieuwblad Interview 2018">{{cite news|date=12 June 2018|title=Rode Duivel Thomas Meunier was bijna gestopt met voetballen: "Mijn mama en Youtube hebben mij gered"|language=nl|publisher=Nieuwsblad|url=https://www.nieuwsblad.be/cnt/dmf20180612_03556960|access-date=6 August 2018}}</ref> Meunier impressed the club's management and was subsequently signed by the club.<ref name="Meunier Nieuwblad Interview 2018"/><ref>{{cite news|date=5 November 2011|title=Revelatie Thomas Meunier verkoos Brugge boven Luik|language=nl|publisher=Nieuwsblad|url=https://www.nieuwsblad.be/cnt/g0t3hve4q|access-date=17 November 2017}}</ref>
+
+Meunier started to play professionally for Virton's first team in the first half of 2009, making his debut for the club in a 1–1 draw against [[VW Hamme|K.F.C. V.W. Hamme]] on 31 January 2009.<ref>{{cite news|title=Football - Division 2 - Virton-Hamme (ce soir, 20 heures) >P.32 L'Excelsior ne peut pas perdre sous peine d'être encore plus englué dans la lutte pour le maintien : Virton: 10 joueurs formés au club dans les 16!|url=http://www.lameuse.be/archive/d-20090130-Y1ANPW?|publisher=La Meuse|language=fr|date=30 January 2009|access-date=6 August 2018}}</ref> He went on to make five appearances, as Virton were relegated from the Second Division.
+
+After becoming a first team regular in the 2009–10 season, making 16 appearances and scoring 5 times in all competitions, the 2010–11 season proved to be his breakthrough.<ref>{{cite news|title=Division 3B - Excelsior Virton-FC Bleid (3-1) : Meunier: un œil a suffi|url=http://www.lameuse.be/archive/d-20130119-Z1YDTR?&noCookies=1|publisher=La Meuse|language=fr|date=15 March 2010|access-date=6 August 2018}}<br>{{cite news|title=Foot " Meunier file vers la D1 " dit Arnaud André|url=http://www.lameuse.be/archive/d-20130107-Z1FXY1?&noCookies=1|publisher=La Meuse|language=fr|date=13 September 2010|access-date=6 August 2018}}<br>{{cite news|title=L'avis de ... Arnaud André ex-attaquant virtonais : " Pour moi, Thomas file vers la Division 1"|url=http://www.lameuse.be/archive/d-20130107-Z1FY27?&noCookies=1|publisher=La Meuse|language=fr|date=14 September 2010|access-date=6 August 2018}}</ref> His first goal of the 2010–11 season came on 22 August 2010 when he scored in a 3–0 win over [[C.S. Visé]].<ref>{{cite news|title=COFIDIS CUP - 5E JOURNÉE Visé a lourdement chuté à domicile : Plus de Liégeois en Coupe de Belgique|url=http://www.lameuse.be/archive/d-20130109-Z1HJ35?|publisher=La Meuse|language=fr|date=23 August 2010|access-date=6 August 2018}}</ref> He then scored twice on 2 October 2010, in a 4–0 win over [[RFC Liège]], followed up by scoring another brace seven days later on 9 October 2010, in a 2–1 win over [[Sporting Hasselt]].<ref>{{cite news|title=Division 3B - Fc Liège-Virton (0-4) : "Le but de l'année? Non"|url=http://www.lameuse.be/archive/d-20130105-Z1E109|publisher=La Meuse|language=fr|date=5 October 2010|access-date=6 August 2018}}<br>{{cite news|title=Mons retrouve la deuxième place|url=https://www.dhnet.be/regions/mons/mons-retrouve-la-deuxieme-place-51b79096e4b0de6db981de43|publisher=DHnet.be|language=fr|date=11 October 2010|access-date=6 August 2018}}</ref> He then scored two goals in two matches between 30 January 2011 and 6 February 2011 against [[Racing Charleroi Couillet Fleurus|R. Charleroi Couillet Fleurus]] and KSKL Ternat.<ref>{{cite news|title=Football (D3B): le RFC Liège battu par Huy (1-2)|url=http://www.lameuse.be/archive/d-20121229-Z12KJZ?|publisher=La Meuse|language=fr|date=30 January 2011|access-date=6 August 2018}}<br>{{cite news|title=Mouscron écrase tous ses adversaires|url=https://www.dhnet.be/regions/tournai-ath-mouscron/mouscron-ecrase-tous-ses-adversaires-51b788f3e4b0de6db9805ac4|publisher=DHnet.be|language=fr|date=6 February 2011|access-date=6 August 2018}}</ref> Throughout the 2010–11 season, Meunier quickly made an impression for the side, as he made 29 appearances and scoring 11 times in all competitions.<ref>{{cite news|title=l'équipe de la décennie Chaque jour, une personnalité de la province nous donnera son équipe type de la décennie. Ce jeudi, c'est au tour de Marcel Javaux : "Un plaisir à coacher"|url=http://www.lameuse.be/archive/d-20130101-Z15YZ5?|publisher=La Meuse|language=fr|date=23 December 2010|access-date=6 August 2018}}<br>{{cite news|title=Football - l'équipe de la décennie L'ex-entraîneur de Bastogne, Bernard Wegria, nous livre son équipe de la décennie : "Zanini, exemplaire"|url=http://www.lameuse.be/archive/d-20121231-Z14EFR?r|publisher=La Meuse|language=fr|date=12 January 2011|access-date=6 August 2018}}</ref> From 2009 to 2011, Meunier made 52 appearances and scored 15 goals in all competitions for Virton's first team.
+
+===Club Brugge===
+[[File:20110705 Brugge - Mons (Koksijde) (65)-1.jpg|thumb|left|upright|Meunier in his early [[Club Brugge KV|Club Brugge]] career, in 2011]]
+
+Meunier was signed by [[Club Brugge KV|Club Brugge]] in January 2011 for a transfer fee of 200,000 euros, with the actual transfer to be completed during the 2011 summer transfer window.<ref>{{cite news|title=Club Brugge rondt transfer Meunier af|url=https://www.nieuwsblad.be/cnt/dmf20110119_147|publisher=Nieuwsblad|language=nl|date=19 January 2011|access-date=17 November 2017}}<br>{{cite news|title=Anderlecht doet 19-jarige uit derde klasse dromen|url=https://www.nieuwsblad.be/cnt/g6m32tvu1|publisher=Nieuwsblad|language=nl|date=27 November 2010|access-date=17 November 2017}}</ref> A few days earlier, [[Club Brugge KV|Club Brugge]] had just missed out on the transfers of [[Dalibor Veselinović]] and [[Jelle Van Damme]] and therefore wanted to make sure Meunier would not become the third near miss. [[Club Brugge KV|Club Brugge]] managed to complete the deal before any of the several other interested Belgian clubs ([[R.S.C. Anderlecht|Anderlecht]], [[Standard Liège]], [[K. Sint-Truidense V.V.|Sint-Truiden]] and [[S.V. Zulte Waregem|Zulte Waregem]]) could.<ref>{{cite news|url=http://www.sporza.be/permalink/1.943666|title=Final trick of Devroe: the signing of Meunier|language=nl|date=18 January 2011|publisher=sporza.be}}<br>{{cite news|title=Le Standard piste Thomas Meunier (Virton)|url=http://www.7sur7.be/7s7/fr/1508/Sports/article/detail/1197041/2010/12/17/Le-Standard-piste-Thomas-Meunier-Virton.dhtml|publisher=7SUR7.be|language=fr|date=17 December 2010|access-date=17 November 2017}}</ref>
+
+Ahead of the new season, Meunier was given the number 19 shirt.<ref>{{cite news|title=Ronald Vargas kiest nieuw rugnummer bij Club|url=https://www.nieuwsblad.be/cnt/dmf20110616_181|publisher=Nieuwsblad|language=nl|date=16 June 2011|access-date=17 November 2017}}</ref> On 31 July 2011, [[Club Brugge KV|Club Brugge]] played its first match of the 2011–12 season against [[K.V.C. Westerlo|Westerlo]] in which Meunier was allowed to play the final 20 minutes. Meunier played a decent match, getting on the score sheet in the process.<ref>{{cite news|url=http://sporza.be/cm/sporza/voetbal/Jupiler_Pro_League/1.1079173|title=Meunier scores at debut in first division:"Most beautiful day"|language=nl|date=1 August 2011|publisher=sporza.be}}</ref> It wasn't until on 21 September 2011 when he scored again, in a 3–2 win over [[K.F.C. Dessel Sport|Dessel Sport]].<ref>{{cite news|title=Club ontsnapt aan blamage|url=https://www.standaard.be/cnt/973g084n|publisher=De Standaard|language=nl|date=21 September 2011|access-date=17 November 2017}}</ref> He then scored three goals in five appearances in all competitions between 16 October 2011 and 3 November 2011 against [[K.A.A. Gent|Gent]], [[K.R.C. Genk|Genk]] and [[Birmingham City F.C.|Birmingham City]].<ref>{{cite news|title= Le FC Bruges reprend la main|url=http://www.7sur7.be/7s7/fr/1508/Sports/article/detail/1334623/2011/10/16/Le-FC-Bruges-reprend-la-main.dhtml|publisher=7SUR7.be|language=fr|date=16 October 2011|access-date=17 November 2017}}<br>{{cite news|title=Racing Genk klopt Club Brugge in knotsgekke spektakelmatch|url=https://www.standaard.be/cnt/dmf20111029_086|publisher=De Standaard|language=nl|date=29 October 2011|access-date=17 November 2017}}<br>{{cite news|title=Birmingham City 2 – 2 Club Brugge|url=https://news.bbc.co.uk/sport2/hi/football/europe/15473011.stm|publisher=BBC Sport|date=3 November 2011|access-date=17 November 2017}}</ref> Since making his debut for Club Brugge, Meunier established himself in the first team, playing in the midfield position.<ref>{{cite news|title=Thomas Meunier: "We moeten nu zeker tweede worden"|url=http://sporza.be/cm/sporza/voetbal/Jupiler_Pro_League/1.1288503|publisher=Sporza.be|language=nl|date=1 May 2012|access-date=17 November 2017}}<br>{{cite news|title=Anderlecht op zeven posities sterker dan Club|url=https://www.nieuwsblad.be/cnt/gha3p2ipv|publisher=Nieuwsblad|language=nl|date=21 April 2012|access-date=17 November 2017}}</ref> As a result, he signed a contract extension, to keep him at the club until 2016.<ref>{{cite news|title=Club Brugge legt Thomas Meunier vast tot 2016|url=http://sporza.be/cm/sporza/voetbal/Jupiler_Pro_League/1.1252107|publisher=Sporza.be|language=nl|date=23 March 2012|access-date=17 November 2017}}</ref> Despite injuries, Meunier finished his first season at Club Brugge, making 49 appearances and scoring 5 times in all competitions.<ref>{{cite news|title=Dirar: 'Dit is een grote test' – Volg Club Brugge – Anderlecht LIVE vanaf 15u|url=https://www.nieuwsblad.be/cnt/1u3ej90v|publisher=Nieuwsblad|language=nl|date=28 August 2011|access-date=17 November 2017}}<br>{{cite news|title=Daum: "De mentale frisheid terugbrengen"|url=http://sporza.be/cm/sporza/voetbal/Jupiler_Pro_League/1.1203976|publisher=Sporza.be|language=nl|date=24 January 2012|access-date=17 November 2017}}</ref> At the end of the 2011–12 season, Meunier's goal against Genk earned him third place for Goal of the Season.<ref>{{cite news|title=De Ceulaer maakte volgens u de Goal van het Seizoen|url=http://sporza.be/cm/sporza/extra/wedstrijden/1.1301701|publisher=Sporza.be|language=nl|date=21 May 2012|access-date=17 November 2017}}</ref>
+
+[[File:Thomas Meunier (17 juli 2012) (4).JPG|200px|thumb|Meunier in 2012]]
+
+At the start of the 2012–13 season, Meunier started the season well when he scored in the first four league matches against [[Waasland-Beveren]], [[R. Charleroi S.C.|Charleroi]], [[KV Mechelen]] and [[Beerschot A.C.|Beerschot]].<ref>{{cite news|title=Refaelov gidst Club naar winst tegen Waasland-Beveren|url=https://www.standaard.be/cnt/dmf20120728_132|publisher=De Standaard|language=nl|date=28 July 2012|access-date=17 November 2017}}<br>{{cite news|title=Tien Club-spelers doen het zuinig in Charleroi|url=http://sporza.be/cm/sporza/matchcenter/mc_voetbal/2.22186/speeldag2/1.1381665|publisher=Sporza.be|language=nl|date=4 August 2012|access-date=17 November 2017}}<br>{{cite news|title=Club kan geen voorsprong houden|url=https://www.standaard.be/cnt/dmf20120812_00256520|publisher=De Standaard|language=nl|date=12 August 2012|access-date=17 November 2017}}<br>{{cite news|title=Blondel sleept zege uit de brand voor alweer matig Club|url=https://www.standaard.be/cnt/dmf20120818_113|publisher=De Standaard|language=nl|date=18 August 2012|access-date=17 November 2017}}</ref> After the match, Meunier talked about scoring regularly, saying "Last season I scored three times. My ambition was to do better. But this is very close."<ref>{{cite news|title=Meunier al bijna even productief als vorig jaar|url=https://www.nieuwsblad.be/cnt/dmf20120805_00247578|publisher=Nieuwsblad|language=nl|date=6 August 2012|access-date=17 November 2017}}</ref> He started out playing in the right–wing position.<ref>{{cite news|title=Flankaanvallers Refaelov en Meunier bepalend voor Club Brugge|url=https://www.nieuwsblad.be/cnt/dmf20120821_00265753|publisher=Nieuwsblad|language=nl|date=22 August 2012|access-date=17 November 2017}}</ref> However, Meunier suffered injuries on two occasions that kept him out until November.<ref>{{cite news|title=Leekens moet kiezen: supersub Bacca of topaankoop Tchite|url=https://www.nieuwsblad.be/cnt/dmf20120827_00272911|publisher=Nieuwsblad|language=nl|date=27 August 2012|access-date=17 November 2017}}<br>{{cite news|title=Le FC Brugeois privé de Meunier à Bordeaux|url=http://www.7sur7.be/7s7/fr/1508/Sports/article/detail/1503178/2012/09/18/Le-FC-Brugeois-prive-de-Meunier-a-Bordeaux.dhtml|publisher=7SUR7.be|language=fr|date=18 September 2012|access-date=17 November 2017}}</ref> He didn't return until 17 November 2012, coming on as a second–half substitute, in a 6–2 win over Waasland-Beveren.<ref>{{cite news|title=Tchite out, Meunier weer bij selectie|url=http://www.standaard.be/cnt/dmf20121116_0037183|publisher=De Standaard|language=nl|date=16 November 2012|access-date=17 November 2017}}</ref> After returning, Meunier began playing in the right–back position, which he said was no problem.<ref name="Meunier Right Back">{{cite news|title=Meunier: "Zonder probleem weer op rechtsback"|url=http://sporza.be/cm/sporza/voetbal/Jupiler_Pro_League/1.1499087|publisher=Sporza.be|language=nl|date=7 December 2012|access-date=17 November 2017}}</ref> Around late–January, he suffered an injury once again and was sidelined until March.<ref>{{cite news|title=Thomas Meunier nog minstens vier weken out|url=https://www.nieuwsblad.be/cnt/dmf20130206_00460440|publisher=Nieuwsblad|language=nl|date=6 February 2013|access-date=17 November 2017}}<br>{{cite news|title=Meunier (Club) zit op schema|url=https://www.nieuwsblad.be/cnt/dmf20130305_00493218|publisher=Nieuwsblad|language=nl|date=5 March 2013|access-date=17 November 2017}}</ref> After returning to the first from injury, Meunier regained his first team place, where he played in the right–back position for the rest of the season.<ref>{{cite news|title=Ik ben coach dankbaar|url=https://www.nieuwsblad.be/cnt/dmf20130318_00508677|publisher=Nieuwsblad|language=nl|date=18 March 2013|access-date=17 November 2017}}<br>{{cite news|title=De bekerwinnaar moet een Champions League-ticket krijgen|url=http://sporza.be/cm/sporza/voetbal/Jupiler_Pro_League/1.1637369|publisher=Sporza.be|language=nl|date=18 May 2013|access-date=17 November 2017}}</ref> At the end of the 2012–13 season, Meunier went on to make 28 appearances and scoring 4 times in all competitions.
+
+At the start of the 2013–14 season, Meunier was sidelined until September, after an operation on a groin injury.<ref>{{cite news|title=Uitblinker Meunier: "Na seizoen meteen operatie"|url=http://sporza.be/cm/sporza/voetbal/Jupiler_Pro_League/1.1627897|publisher=Sporza.be|language=nl|date=13 May 2013|access-date=17 November 2017}}<br>{{cite news|title=Verdediging Club Brugge start geblesseerd aan voorbereiding|url=https://www.nieuwsblad.be/cnt/dmf20130611_00618836|publisher=Nieuwsblad|language=nl|date=11 June 2013|access-date=17 November 2017}}<br>{{cite news|title=Gudjohnsen uit selectie gelaten om 'extra-sportieve redenen'|url=https://www.nieuwsblad.be/cnt/dmf20130831_00717185|publisher=Nieuwsblad|language=nl|date=31 August 2013|access-date=17 November 2017}}</ref> Since returning from injury, Meunier quickly returned to the first team, regaining his right–back position and helped the side keep a clean sheet four times between 14 September 2013 and 5 October 2013.<ref>{{cite news|title=Meunier terug als rechtsachter bij Club Brugge|url=https://www.standaard.be/cnt/dmf20130915_00742922|publisher=De Standaard|language=nl|date=15 September 2013|access-date=17 November 2017}}<br>{{cite news|title=Thomas Meunier: 'Waarom zou ik niet meekunnen naar Brazilië?'|url=https://www.nieuwsblad.be/cnt/dmf20131030_029|publisher=Nieuwsblad|language=nl|date=30 October 2013|access-date=17 November 2017}}<br>{{cite news|title=Hebben een van de beste achterlinies van België|url=https://www.nieuwsblad.be/cnt/dmf20131007_00779420|publisher=Nieuwsblad|language=nl|date=7 October 2013|access-date=17 November 2017}}</ref> His performance attracted attention from [[Bundesliga]] side [[VfL Wolfsburg|Wolfsburg]] but stayed at the club throughout the January transfer window.<ref>{{cite news|title=Thomas Meunier aan Wolfsburg gelinkt|url=http://sporza.be/cm/sporza/voetbal/Jupiler_Pro_League/1.1872340|publisher=Sporza.be|language=nl|date=12 February 2014|access-date=17 November 2017}}<br>{{cite news|title=Meunier is klaar om deze zomer te vertrekken|url=http://sporza.be/cm/sporza/voetbal/Jupiler_Pro_League/1.1872340|publisher=Sporza.be|language=nl|date=12 February 2014|access-date=17 November 2017}}</ref> It wasn't until on 18 February 2014 when he scored his first goal for the club, in a 5–2 win over [[Oud-Heverlee Leuven|OH Leuven]].<ref>{{cite news|title=Club walst over OHL met wereldgoal De Sutter|url=https://www.standaard.be/cnt/dmf20140223_010|publisher=De Standaard|language=nl|date=23 February 2014|access-date=17 November 2017}}</ref> He then scored twice on 16 March 2014, in a 2–0 win over [[Cercle Brugge KSV|Cercle Brugge]].<ref>{{cite news|title=Le Standard accroché à Waasland, Genk en playoffs 1|url=http://www.7sur7.be/7s7/fr/1508/Sports/article/detail/1815084/2014/03/16/Le-Standard-accroche-a-Waasland-Genk-en-playoffs-1.dhtml|publisher=7SUR7.be|language=fr|date=16 March 2014|access-date=17 November 2017}}</ref> In a 1–0 loss against Anderlecht on 4 May 2014, Meunier scored an own goal, which saw them lose and costing the club their title chances.<ref>{{cite news|title=Thomas Meunier: even alleen op de wereld|url=http://sporza.be/cm/sporza/extra/opvallend/1.1958132|publisher=Sporza.be|language=nl|date=5 May 2014|access-date=17 November 2017}}</ref> Despite being sidelined later in the 2013–14 season, Meunier made 33 appearances and scored three times in all competitions.<ref>{{cite news|title=Nog zes op zes halen|url=https://www.nieuwsblad.be/cnt/dmf20131216_00890708|publisher=Nieuwsblad|language=nl|date=16 December 2013|access-date=17 November 2017}}<br>{{cite news|title=Preud'homme: "Waarom zoveel geblesseerden?"|url=http://sporza.be/cm/sporza/voetbal/Jupiler_Pro_League/1.1830540|publisher=Sporza.be|language=nl|date=11 January 2014|access-date=17 November 2017}}<br>{{cite news|title=PLAY-OFFS. Club mist acht spelers, ook zorgen voor Genk|url=https://www.nieuwsblad.be/cnt/dmf20140328_011|publisher=Nieuwsblad|language=nl|date=28 March 2014|access-date=17 November 2017}}</ref> He also received a Blue Shoe two months later.<ref>{{cite news|title=Thomas Meunier wint Blauwe Schoen|url=https://www.nieuwsblad.be/cnt/bltde_01188870|publisher=Nieuwsblad|language=nl|date=23 July 2014|access-date=17 November 2017}}</ref>
+
+In the 2014–15 season, Meunier started the season well when he set up one of the goals, in a 2–0 win over Waasland-Beveren.<ref>{{cite news|title=Blauw-zwart wint verdiend met 0–2 van Waasland-Beveren|url=https://www.standaard.be/cnt/dmf20140726_01193023|publisher=Sporza.be|language=nl|date=26 July 2014|access-date=17 November 2017}}</ref> From the start of the season, Meunier appeared in every match in the right–back position until he suffered an injury in early–December.<ref>{{cite news|title=Manager Meunier: "Alles is mogelijk, ook een contractverlenging"|url=http://sporza.be/cm/sporza/voetbal/Jupiler_Pro_League/1.2186362|publisher=Sporza.be|language=nl|date=19 December 2014|access-date=17 November 2017}}<br>{{cite news|title=Club raapt in knotsgekke slotfase toch een punt in Anderlecht|url=https://www.standaard.be/cnt/dmf20141130_01403856|publisher=De Standaard|language=nl|date=30 November 2014|access-date=17 November 2017}}<br>{{cite news|title=Club Brugge moet sterkhouder missen tegen Zulte Waregem|url=https://www.standaard.be/cnt/dmf20141206_01415624|publisher=Sporza.be|language=nl|date=6 December 2014|access-date=17 November 2017}}</ref> On 22 November 2014, Meunier scored his first goal of the season, in a 4–2 win over Waasland-Beveren.<ref>{{cite news|title=Club Brugge springt over Anderlecht naar eerste plaats|url=https://www.nieuwsblad.be/cnt/dmf20141122_01390510|publisher=Nieuwsblad|language=nl|date=22 November 2014|access-date=17 November 2017}}</ref> After returning from injury, he scored again on 14 December 2014, in a 3–1 win over [[Standard Liège]].<ref>{{cite news|title=Club Brugge wint ook autoritair op Sclessin|url=https://www.nieuwsblad.be/cnt/dmf20141214_01428310|publisher=Nieuwsblad|language=nl|date=14 December 2014|access-date=17 November 2017}}</ref> In January 2015, Meunier signed a new contract with the club, keeping him until 2019.<ref>{{cite news|title=Ook Thomas Meunier blijft Club Brugge trouw|url=http://sporza.be/cm/sporza/voetbal/Jupiler_Pro_League/1.2208419|publisher=Sporza.be|language=nl|date=14 January 2015|access-date=17 November 2017}}</ref> Shortly after, on 20 January 2015, he produced a hat–trick of assists, in a 3–2 win over KV Mechelen to send them through to the [[2014–15 Belgian Cup#Second legs|semi final of Beker van België]].<ref>{{cite news|title=Mechele redt Club Brugge in de slotfase tegen KVM|url=http://sporza.be/cm/sporza/matchcenter/mc_voetbal/2.35449/MG_BVB_kwartfinales_terug/1.2202688|publisher=Sporza.be|language=nl|date=20 January 2015|access-date=17 November 2017}}</ref> Meunier suffered two injuries towards the end of the season.<ref>{{cite news|title=Club Brugge zal Meunier paar weken moeten missen|url=https://www.nieuwsblad.be/cnt/dmf20150323_01594878|publisher=Nieuwsblad|language=nl|date=23 March 2015|access-date=17 November 2017}}<br>{{cite news|title=Club Brugge in nesten: cruciale maand op halve kracht|url=https://www.nieuwsblad.be/cnt/dmf20150408_01621232|publisher=Nieuwsblad|language=nl|date=8 April 2015|access-date=17 November 2017}}<br>{{cite news|title=Moet Meunier rest seizoen missen door contractuur?|url=https://www.nieuwsblad.be/cnt/dmf20150517_01684736|publisher=Nieuwsblad|language=nl|date=17 May 2015|access-date=17 November 2017}}</ref> Nevertheless, he played every minute of the [[2015 Belgian Cup Final]] against rivals [[Anderlecht (football club)|RSC Anderlecht]], which ended in a 2–1 win for Club Brugge which enabled the club to win its first Belgian Cup since 2007.<ref>{{cite news|title=Club Brugge win Belgian Cup final thriller|url=https://www.uefa.com/uefaeuropaleague/news/0252-0cda70ef2d3f-7d1adb6ef904-1000--club-brugge-win-belgian-cup-final-thriller/|publisher=UEFA Official Website|date=22 March 2015|access-date=17 November 2017}}<br>{{cite news|title=Club Brugge pakt eerste prijs sinds 2007 na sensationele slotfase|url=https://www.standaard.be/cnt/dmf20150322_01592284|publisher=De Standaard|language=nl|date=22 March 2015|access-date=17 November 2017}}</ref> At the end of the 2014–15 season, Meunier made 46 appearances and scored two times in all competitions. For his performance, Meunier was awarded Footballer of the Year.<ref>{{cite news|title=Meunier stemt op zichzelf als Profvoetballer van het jaar|url=https://www.nieuwsblad.be/cnt/dmf20150506_01666641|publisher=Nieuwsblad|language=nl|date=6 May 2015|access-date=17 November 2017}}</ref>
+
+Ahead of the 2015–16 season, Meunier was linked with a move away from Club Brugge and was expected to leave the club in the summer.<ref>{{cite news|title=Club houdt rekening met vertrek Meunier|url=https://www.nieuwsblad.be/cnt/dmf20150505_01666051|publisher=Nieuwsblad|language=nl|date=5 May 2015|access-date=17 November 2017}}</ref> However, he suffered a knee injury whilst on international duty and was out for two months.<ref>{{cite news|title=Meunier verlaat Rode Duivels: 2 maanden out met knieblessure|url=https://www.nieuwsblad.be/cnt/dmf20150605_01716328|publisher=Nieuwsblad|language=nl|date=5 June 2015|access-date=17 November 2017}}</ref> It wasn't until on 30 August 2015 when he returned to the first team from injury, coming on as a late substitute, in a 7–1 win over Standard Liège.<ref>{{cite news|title=VIDEO. Standard afgemaakt door swingend Club Brugge|url=https://www.standaard.be/cnt/dmf20150830_01840485|publisher=De Standaard|language=nl|date=30 August 2015|access-date=17 November 2017}}</ref> He then scored his first goal of the season on 23 September 2015, as well as, setting up a goal, in a 4–0 win over [[K. Patro Eisden Maasmechelen|Patro Eisden]].<ref>{{cite news|title=Patro Eisden legt Club Brugge geen strobreed in de weg|url=http://sporza.be/cm/sporza/matchcenter/mc_voetbal/2.40711/MG_BvB_16F/1.2441405|publisher=Sporza.be|language=nl|date=23 September 2015|access-date=17 November 2017}}</ref> A week later, on 1 October 2015, Meunier scored again in a [[UEFA Europa League]] match, in a 3–1 loss against [[FC Midtjylland|Midtjylland]].<ref>{{cite news|title=Club Brugge start tegen Midtjylland met De fauw en Claudemir|url=https://www.standaard.be/cnt/dmf20151001_01897606|publisher=De Standaard|language=nl|date=1 October 2015|access-date=17 November 2017}}</ref> Then, on 5 November 2015, he scored in the UEFA Europa League campaign once again, in a 1–0 win over [[Legia Warsaw]].<ref>{{cite news|title=Club houdt Europese hoop levend met belangrijke zege tegen Legia Warschau|url=https://www.standaard.be/cnt/dmf20151105_01956814|publisher=De Standaard|language=nl|date=5 November 2015|access-date=17 November 2017}}</ref> He captained Club Brugge for the first time when he led a 4–1 win over KV Mechelen on 30 November 2015.<ref>{{cite news|title=Club Brugge tegen KV Mechelen met nieuwe kapitein|url=https://www.nieuwsblad.be/cnt/dmf20151129_01995191|publisher=Nieuwsblad|language=nl|date=29 November 2015|access-date=17 November 2017}}</ref> He then set up two goals in a 6–0 win over [[K.V.C. Westerlo|Westerlo]], followed up by scoring again, in a 3–2 loss against Genk.<ref>{{cite news|title=Club Brugge vernedert Westerlo|url=https://www.standaard.be/cnt/dmf20160219_02139593|publisher=De Standaard|language=nl|date=19 February 2016|access-date=17 November 2017}}<br>{{cite news|title=Club vervalt bij Racing Genk in slechte gewoonten|url=https://www.standaard.be/cnt/dmf20160228_02155063|publisher=De Standaard|language=nl|date=28 February 2016|access-date=17 November 2017}}</ref> He went on to score two more goals against Genk and Gent towards the end of the season and helped the club win the league.<ref>{{cite news|title=Stuntelig Club Brugge gaat met de billen bloot bij Racing Genk|url=http://sporza.be/cm/sporza/matchcenter/mc_voetbal/2.43340/JPL-PO1_1516/MG_JPL-PO1_speeldag4/1.2633508|publisher=Sporza.be|language=nl|date=20 April 2016|access-date=17 November 2017}}<br>{{cite news|title=Weergaloze Izquierdo knalt Club Brugge voorbij Gent naar titelmatch tegen Anderlecht|url=https://www.nieuwsblad.be/sportwereld/live/voetbal/240128|publisher=Nieuwsblad|language=nl|date=8 May 2016|access-date=17 November 2017}}<br>{{cite web|url=https://www.clubbrugge.be/nl/content/club-pakt-titel-na-4-0-zege-tegen-anderlecht|title=Club pakt titel na 4–0 zege tegen Anderlecht!|work=Club Brugge |publisher=Club Brugge KV|language=nl|date=17 May 2016|access-date=17 November 2017|archive-url=https://web.archive.org/web/20171116222012/https://www.clubbrugge.be/nl/content/club-pakt-titel-na-4-0-zege-tegen-anderlecht|archive-date=16 November 2017|url-status=live}}</ref> Despite being sidelined on two occasions later in the 2015–16 season, Meunier went on to make 42 appearances and scored six times.<ref>{{cite news|title=Preud'homme: "Contact gehad met De Sutter|url=https://www.nieuwsblad.be/cnt/dmf20160129_02097537|publisher=Nieuwsblad|language=nl|date=29 January 2016|access-date=17 November 2017}}<br>{{cite news|title=CLUBNIEUWS. Goed nieuws voor AA Gent uit ziekenboeg, twijfels bij Club Brugge|url=https://www.nieuwsblad.be/cnt/dmf20160303_02163745|publisher=Nieuwsblad|language=nl|date=3 March 2016|access-date=17 November 2017}}</ref>
+
+Over the 2016 summer transfer window, Meunier was a transfer target for several clubs, with [[Paris Saint-Germain]] leading the chase to sign him.<ref>{{cite news|title=Als Meunier niet van makelaar was veranderd, zat hij nu bij PSG|url=https://www.nieuwsblad.be/cnt/dmf20160422_02252231|publisher=Nieuwsblad|language=nl|date=22 April 2016|access-date=17 November 2017}}</ref> But in early June, he made it clear that he was going to stay at the club.<ref>{{cite news|title=Meunier: "Ik blijf 100% zeker bij Club Brugge"|url=http://sporza.be/cm/sporza/voetbal/Jupiler_Pro_League/1.2677353|publisher=Sporza.be|language=nl|date=9 June 2016|access-date=17 November 2017}}</ref> Despite his claim that he intended to stay at Club Brugge, he continued to be a transfer target.<ref>{{cite news|title=CLUBNIEUWS. Updates over Okaka, De Sutter en Meunier, Simon mist seizoensstart|url=https://www.nieuwsblad.be/cnt/dmf20160622_02351396|publisher=Nieuwsblad|language=nl|date=22 June 2016|access-date=17 November 2017}}<br>{{cite news|title=Meunier op weg naar Italiaanse topclub|url=https://www.nieuwsblad.be/cnt/dmf20160620_02349069|publisher=Nieuwsblad|language=nl|date=20 June 2016|access-date=17 November 2017}}</ref>
+
+When Meunier joined Club Brugge in 2011, he initially played as a [[Forward (association football)|striker]] or [[Winger (association football)|right winger]] before he was transformed into a [[Defender (association football)#Full-back|right back]] by head coaches [[Juan Carlos Garrido]], [[Georges Leekens]] and [[Michel Preud'homme]] due to the lack of players playing in that position because of injuries sustained by his teammates [[Davy De Fauw]] and [[Tom Høgli]], and the departure of [[Carl Hoefkens]].<ref name="Meunier Right Back"/><ref>{{cite news|title=Meunier: "Liever kampioen dan naar het WK"|url=http://sporza.be/cm/sporza/voetbal/Jupiler_Pro_League/1.1766792|publisher=Sporza.be|language=nl|date=30 October 2013|access-date=17 November 2017}}</ref>
+
+===Paris Saint-Germain===
+[[File:2019-07-17 SG Dynamo Dresden vs. Paris Saint-Germain by Sandro Halank–121.jpg|thumb|upright|Meuiner with [[Paris Saint-Germain F.C.|Paris Saint-Germain]] in 2019]]
+On 3 July 2016, [[Paris Saint-Germain F.C.|Paris Saint-Germain]] announced that Meunier had just joined PSG on a four-year deal that would tie him to the club until 30 June 2020.<ref>{{cite news|url=http://www.psg.fr/en/News/003001/Article/76115/Thomas-Meunier-signs-four-year-deal|title=Thomas Meunier signs four-year deal|publisher=PSG official website|date=3 July 2016|archive-url=https://web.archive.org/web/20160705111356/http://www.psg.fr/en/News/003001/Article/76115/Thomas-Meunier-signs-four-year-deal|archive-date=5 July 2016|url-status=dead}}<br>{{cite news|title=Nog een Duivelse toptransfer: Thomas Meunier trekt naar PSG|url=https://www.standaard.be/cnt/dmf20160703_02368417|publisher=De Standaard|language=nl|date=3 July 2016|access-date=17 November 2017}}</ref> The transfer fee was reported to be 7 million euros.<ref>{{cite news|title=Thomas Meunier signing a luxury for Paris Saint-Germain, not a necessity|url=https://www.espn.co.uk/football/french-ligue-1/9/blog/post/2908236/thomas-meunier-signing-a-luxury-for-paris-saint-germainbut-not-a-necessity|publisher=ESPN|date=7 July 2016|access-date=17 November 2017}}<br>{{cite news|title=Thomas Meunier rejoint le PSG (officiel)|url=https://www.lequipe.fr/Football/Actualites/Thomas-meunier-rejoint-le-psg-officiel/702475|publisher=L’Equipe|language=fr|date=3 July 2016|access-date=17 November 2017}}</ref> Prior to the move, Meunier admitted to having doubts about moving to PSG, citing a possible lack of playing time there.<ref>{{cite news|title=Club Brugge's Thomas Meunier unsure about Paris Saint-Germain move|url=https://www.espn.co.uk/football/story/2906278/club-brugges-thomas-meunier-unsure-about-paris-saint-germain-move|publisher=ESPN|date=2 July 2016|access-date=17 November 2017}}</ref>
+
+In the [[2016 International Champions Cup]] friendly match against [[Real Madrid C.F.|Real Madrid]] in [[Ohio]], Meunier scored twice to help PSG to a 3–1 win.<ref>{{cite news|title=Un succès de prestige pour le PSG|url=https://www.lequipe.fr/Football/Actualites/Un-succes-de-prestige-pour-le-psg/710756|publisher=L’Equipe|language=fr|date=28 July 2016|access-date=17 November 2017}}</ref>
+
+====2016–17 season====
+On 6 August 2016, Meunier made his first competitive appearance for PSG by coming on as a substitute for [[David Luiz]] in the 76th minute of the [[2016 Trophée des Champions]].<ref>{{cite news|title=PSG zet seizoen in met vierde Supercup op rij|url=http://sporza.be/cm/sporza/voetbal/buitenland/Frankrijk/1.2731812|publisher=Sporza.be|language=nl|date=6 August 2016|access-date=17 November 2017}}</ref> After being an unused substitute for PSG's first two [[2016–17 Ligue 1|league]] matches of the [[2016–17 Paris Saint-Germain F.C. season|2016–17 season]], he made his league debut for the club and played 28 minutes in a 3–1 loss against [[AS Monaco FC|AS Monaco]] on 28 August 2016.<ref>{{cite news|title=Debuterende Meunier kan eerste nederlaag van PSG niet vermijden|url=http://sporza.be/cm/sporza/matchcenter/mc_voetbal/2.45026/MG_speeldag_3/1.2752946|publisher=Sporza.be|language=nl|date=28 August 2016|access-date=17 November 2017}}</ref> Meunier found himself competing with [[Serge Aurier]] throughout the season and due to good performances by Aurier, Meunier often appeared on the substitute's bench.<ref>{{cite news|title=Le onze des recrues qui jouent peu en ce début de saison|url=https://www.lequipe.fr/Football/Actualites/Le-onze-des-recrues-qui-jouent-peu-en-ce-debut-de-saison/725606|publisher=L’Equipe|language=fr|date=9 September 2016|access-date=17 November 2017}}<br>{{cite news|title=Concurrent van Meunier laat zich opnieuw negatief opmerken|url=https://www.nieuwsblad.be/cnt/dmf20161009_02509818|publisher=Nieuwsblad|language=nl|date=9 September 2016|access-date=17 November 2017}}<br>{{cite news|title=PSG razend: Aurier mag Engeland niet binnen voor clash met Arsenal, krijgt Meunier zijn kans?|url=https://www.nieuwsblad.be/cnt/dmf20161122_02585264|publisher=Nieuwsblad|language=nl|date=22 November 2016|access-date=17 November 2017}}</ref>
+
+After suffering a knee injury in late September, Meunier returned to the first team, starting in the right back position and scoring a goal, in a 2–0 league home win over [[FC Girondins de Bordeaux|Bordeaux]] on 1 October 2016.<ref>{{cite news|title=Martin Braithwaite forfait, Odsonne Edouard (Toulouse) titulaire contre le PSG|url=https://www.lequipe.fr/Football/Actualites/Martin-braithwaite-forfait-odsonne-edouard-toulouse-titulaire-contre-le-psg/730290|publisher=L’Equipe|language=fr|date=23 September 2016|access-date=17 November 2017}}<br>{{cite news|title=Thomas Meunier (PSG) : "Une belle revanche" pour Edinson Cavani|url=https://www.lequipe.fr/Football/Actualites/Thomas-meunier-psg-une-belle-revanche-pour-edinson-cavani/732982|publisher=L’Equipe|language=fr|date=2 October 2016|access-date=17 November 2017}}</ref> On 1 November 2016, Meunier [[assist (football)|assisted]] [[Blaise Matuidi]]'s opening goal and scored the winning goal with a stunning 90th-minute side-footed curling volley in PSG's 2–1 away win over [[FC Basel|Basel]] in a [[2016–17 UEFA Champions League group stage|2016–17 UEFA Champions League]] Group A match; it was Meunier's first competitive goal for PSG.<ref>{{cite news|url=https://www.uefa.com/uefachampionsleague/news/0233-0e9593b22f86-6b1d9d2c266f-1000--arsenal-paris-atletico-bayern-go-through/|title=Arsenal, Paris, Atlético, Bayern go through|publisher=[[UEFA]]|date=1 November 2016}}<br>{{cite news|url=https://www.espnfc.com/club/paris-saint-germain/160/blog/post/2986409/thomas-meunier-wins-it-for-psg-while-unai-emerys-attackers-flop|title=Thomas Meunier wins it for PSG while Unai Emery's attackers flop|publisher=ESPN FC|date=1 November 2016}}</ref> As a result of his good performance, he was named a member of the UEFA Team of the Week.<ref>{{cite news|title=Champions League – Thomas Meunier in Team van de Week, De Bruyne niet|url=https://www.nieuwsblad.be/cnt/dmf20161103_02553502|publisher=Nieuwsblad|language=nl|date=3 November 2016|access-date=17 November 2017}}</ref>
+
+On 21 December 2016, Meunier scored his first league goal for the club, in a 5–0 win over [[FC Lorient|Lorient]].<ref>{{cite news|title=Nice cale, Monaco et Paris gagnent|url=https://www.lequipe.fr/Football/Actualites/Nice-cale-monaco-et-paris-gagnent/762601|publisher=L’Equipe|language=fr|date=21 December 2016|access-date=17 November 2017}}</ref> However, the next two months saw him sidelined with injuries on two occasions.<ref>{{cite news|title=Thomas Meunier s'enflamme pour Presnel Kimpembe|url=https://www.lequipe.fr/Football/Actualites/Thomas-meunier-s-enflamme-pour-presnel-kimpembe/764473|publisher=L’Equipe|language=fr|date=30 December 2016|access-date=17 November 2017}}<br>{{cite news|title=PSG : Angel Di Maria ne s'est pas entraîné jeudi|url=https://www.lequipe.fr/Football/Actualites/Psg-angel-di-maria-ne-s-est-pas-entraine-jeudi/774793|publisher=L’Equipe|language=fr|date=3 February 2017|access-date=17 November 2017}}</ref> Despite this, Meunier received more playing time throughout January 2017 as a right–back because Aurier had to play for his national team in the finals of the [[2017 Africa Cup of Nations]].<ref>{{cite news|title=Meunier heeft basisplaats weer beet bij PSG en bekert voort|url=https://www.nieuwsblad.be/cnt/dmf20170111_02669830|publisher=Nieuwsblad|language=nl|date=11 January 2017|access-date=17 November 2017}}</ref> The following month, he played the whole 90 minutes and set up a goal for [[Edinson Cavani]], in a 4–0 win over [[FC Barcelona|Barcelona]] in the last 16 first leg of the [[2016-17 UEFA Champions League knockout phase|2016–17 UEFA Champions League]]. "We played the perfect match. Everyone was really looking forward to it, I have not seen that this season," he said right after that match.<ref>{{cite news|title=Thomas Meunier: "Zo veel goesting als gisteren, dat heb ik dit seizoen nog nooit gezien"|url=https://www.nieuwsblad.be/cnt/dmf20170215_02731946|publisher=Nieuwsblad|language=nl|date=15 February 2017|access-date=17 November 2017}}</ref> However, Meunier conceded a penalty and PSG lost 6–1 to Barcelona in the second leg; PSG were thus eliminated from the competition 6–5 on aggregate. "This is unacceptable. We had to start the game in a calmer way. That is what PSG lacks a bit. Finding an explanation is difficult," Meunier said.<ref>{{cite news|title=Thomas Meunier reageert na de nederlaag: "Dit is onaanvaardbaar"|url=https://www.nieuwsblad.be/cnt/dmf20170309_02770967|publisher=Nieuwsblad|language=nl|date=9 March 2017|access-date=17 November 2017}}</ref>
+
+Towards the end of the 2016–17 season, Meunier continued to compete for a first team place with Aurier.<ref>{{cite news|title=Bernard Mendy : "Thomas Meunier est devenu n°1 à droite" à Paris|url=https://www.lequipe.fr/Football/Actualites/Bernard-mendy-thomas-eunier-est-devenu-n-1-a-droite-a-paris/783419|publisher=L’Equipe|language=fr|date=7 March 2017|access-date=17 November 2017}}<br>{{cite news|title=Unai Emery : "Je fais confiance à Serge Aurier"|url=https://www.lequipe.fr/Football/Actualites/Unai-emery-je-fais-confiance-a-serge-aurier/786717|publisher=L’Equipe|language=fr|date=20 March 2017|access-date=17 November 2017}}</ref> He suffered further injuries.<ref>{{cite news|title=Meunier reste très incertain|url=https://www.lequipe.fr/Football/Actualites/Meunier-reste-tres-incertain/786534|publisher=L’Equipe|language=fr|date=18 March 2017|access-date=17 November 2017}}<br>{{cite news|title=PSG : Thomas Meunier et la "greffe de pied"|url=https://www.lequipe.fr/Football/Actualites/Psg-thomas-meunier-et-la-greffe-de-pied/802439|publisher=L’Equipe|language=fr|date=18 May 2017|access-date=17 November 2017}}</ref> Although he featured in both the [[2016–17 Coupe de la Ligue|Coupe de la Ligue]] and [[2016–17 Coupe de France|Coupe de France]] campaigns, Meunier did not play in both of the finals; he was on the substitute bench for the former and  missed the latter because of an injury sustained.<ref>{{cite news|title=Paris Saint Germain 4–1 Monaco: PSG win fourth straight French League Cup|url=https://www.skysports.com/football/news/11820/10821907/psg-4-1-monaco-psg-win-fourth-straight-french-league-cup|publisher=Sky Sports|date=1 April 2017|access-date=17 November 2017}}<br>{{cite news|title=Angers 0 – 1 Paris Saint Germain|url=https://www.bbc.co.uk/sport/football/39909497|publisher=BBC Sport|date=27 May 2017|access-date=17 November 2017}}</ref> During the 2016–17 season, he made 36 appearances and scored twice in all competitions.
+
+====2017–18 season====
+During the summer transfer window of 2017, Meunier was the subject of a transfer request when [[Premier League]] side [[Chelsea F.C.|Chelsea]] tried to sign him on the transfer window deadline day but had their bid rejected by PSG.<ref>{{cite news|title=Thomas Meunier says Chelsea tried to sign him from Paris Saint-Germain on Deadline Day|url=https://www.skysports.com/football/news/11668/11121983/thomas-meunier-says-chelsea-tried-to-sign-him-from-paris-saint-germain-on-deadline-day|publisher=Sky Sport|date=11 November 2017|access-date=17 November 2017}}</ref> At the start of the 2017–18 season, Meunier played his first competitive match of the season by starting as the right–back, in the 2–1 win over AS Monaco in the [[2017 Trophée des Champions]].<ref>{{cite news|title=PSG : Daniel Alves et Thomas Meunier titulaires pour le Trophée des champions|url=https://www.lequipe.fr/Football/Actualites/Psg-daniel-alves-et-thomas-meunier-titulaires-pour-le-trophee-des-champions/821822|publisher=L’Equipe|language=fr|date=29 July 2017|access-date=17 November 2017}}</ref> After Aurier's departure to [[Tottenham Hotspur F.C.|Tottenham Hostpur]], he still had to compete for the right–back position due to the arrival of [[Dani Alves]].<ref>{{cite news|title=Concurrent van Thomas Meunier bij PSG op weg naar Tottenham Hotspur|url=https://www.standaard.be/cnt/dmf20170830_03043102|publisher=De Standaard|language=nl|date=30 August 2017|access-date=17 November 2017}}<br>{{cite news|title=Ageless Dani Alves seizing right-back job, becoming a key figure for PSG|url=https://www.espn.co.uk/football/club/paris-saint-germain/160/blog/post/3269661/ageless-dani-alves-seizing-right-back-job-becoming-a-key-figure-for-paris-saint-germain|publisher=ESPN|date=15 November 2017|access-date=17 November 2017}}<br>{{cite news|title=Thomas Meunier (PSG) : "Je fais tout ce que je peux"|url=https://www.lequipe.fr/Football/Actualites/Thomas-meunier-psg-je-fais-tout-ce-que-je-peux/839768|publisher=L’Equipe|language=fr|date=4 October 2017|access-date=17 November 2017}}</ref>
+
+Having been an unused substitute for PSG's previous two [[2017-18 Ligue 1|league]] matches (against [[En Avant de Guingamp|Guingamp]] and [[FC Toulouse|Toulouse]]), Meunier finally made his first league appearance of the season, replacing [[Dani Alves]] and then setting up a goal for [[Edinson Cavani]], in a 3–0 home win over [[AS Saint-Étienne|Saint-Étienne]] on 25 August 2017.<ref>{{cite news|title=Thomas Meunier (PSG) : "Tombés sur un bon Saint-Etienne"|url=https://www.lequipe.fr/Football/Actualites/Thomas-meunier-psg-tombes-sur-un-bon-saint-etienne/828621|publisher=L’Equipe|language=fr|date=26 August 2017|access-date=17 November 2017}}<br>{{cite news|title=Thiago Silva et Dani Alves (PSG) sur le banc contre Saint-Étienne|url=https://www.lequipe.fr/Football/Actualites/Thiago-silva-et-dani-alves-psg-sur-le-banc-contre-saint-etienne/828522|publisher=L’Equipe|language=fr|date=25 August 2017|access-date=17 November 2017}}</ref> It was not until 30 September 2017 when he scored his first goal of the season for the club, in a 6–2 league home win over [[Girondins de Bordeaux|Bordeaux]].<ref>{{cite news|title=Paris Saint Germain 6 – 2 Bordeaux|url=https://www.bbc.co.uk/sport/football/41413736|publisher=BBC Sport|date=30 September 2017|access-date=17 November 2017}}</ref> On 14 October 2017, Meunier scored both of PSG's goals in another league match, in a 2–1 win at [[Dijon FCO|Dijon]].<ref>{{cite news|url=http://www.ligue1.com/ligue1/article/psg-s-meunier-steals-the-show-and-the-points-at-dijon.htm|title=PSG's Meunier steals the show ... and the points at Dijon|publisher=Ligue 1 Official Website|date=14 October 2017}}</ref> Between late–October and mid–December, he played twice in the league despite picking up an injury while playing for the national side.<ref>{{cite news|title=Julian Draxler et Thomas Meunier absents à la reprise de l'entraînement du PSG|url=https://www.lequipe.fr/Football/Actualites/Julian-draxler-et-thomas-meunier-absents-a-la-reprise-de-l-entrainement-du-psg/851211|publisher=L’Equipe|language=fr|date=16 November 2017|access-date=6 August 2018}}<br>{{cite news|title=PSG : Un onze de départ sans surprise à Monaco|url=https://www.lequipe.fr/Football/Actualites/Psg-un-onze-de-depart-sans-surprise-a-monaco/854110|publisher=L’Equipe|language=fr|date=26 November 2017|access-date=6 August 2018}}<br>{{cite news|title=Unai Emery (PSG) : "C'est plus difficile pour jouer"|url=https://www.lequipe.fr/Football/Actualites/Unai-emery-psg-c-est-plus-difficile-pour-jouer/854587|publisher=L’Equipe|language=fr|date=28 November 2017|access-date=6 August 2018}}</ref>
+
+On 13 December 2017, Meunier started in the right–back position and assisted two goals, in a 4–2 win over [[RC Strasbourg Alsace|RC Strasbourg]].<ref>{{cite news|title=Le PSG se venge de Strasbourg (2-4) et se qualifie pour les quarts de finale|url=https://www.eurosport.fr/football/coupe-de-la-ligue/2017-2018/le-psg-se-venge-de-strasbourg-2-4-et-se-qualifie-pour-les-quarts-de-finale_sto6442984/story.shtml|publisher=Eurosport|language=fr|date=13 December 2017|access-date=6 August 2018}}</ref> A month later, on 30 January 2018, Meunier scored again in the [[2017–18 Coupe de la Ligue#Semi-finals|semi-finals of Coupe de la Ligue]], in a 3–2 win over [[Stade Rennais F.C.|Stade Rennais]].<ref>{{cite news|title=Coupe de la Ligue : les notes des joueurs de Rennes-PSG (2-3)|url=https://www.leparisien.fr/sports/football/psg/coupe-de-la-ligue-les-notes-des-joueurs-de-rennes-psg-2-3-31-01-2018-7532307.php|publisher=La Parisien|language=fr|date=30 January 2018|access-date=6 August 2018}}</ref> He then scored his fourth goal of the season, in a 5–0 win over [[FC Metz]] on 10 March 2018.<ref>{{cite news|title=Le PSG corrige Metz|url=https://www.leparisien.fr/sports/football/psg/le-psg-corrige-metz-10-03-2018-7601103.php|publisher=La Parisien|language=fr|date=10 March 2018|access-date=6 August 2018}}</ref> Towards the end of the 2017–18 season, he regained his right–back position in number of matches when Alves was absent from the first team, due to injury and suspension.<ref>{{cite news|title=PSG : il faut sauver le soldat Meunier|url=https://www.leparisien.fr/sports/football/psg/psg-il-faut-sauver-le-soldat-meunier-16-03-2018-7611438.php|publisher=La Parisien|language=fr|date=16 March 2018|access-date=6 August 2018}}</ref> On 8 May 2018, he came off the bench as PSG won 2–0 against [[Les Herbiers VF]] to clinch the [[2017-18 Coupe de France|Coupe de France]].<ref>{{cite news|title=Le PSG s'offre la Coupe de France devant des Herbiers valeureux - Débrief et NOTES des joueurs (Les Herbiers 0-2 PSG)|url=https://www.maxifoot.fr/football/article-35994.htm|publisher=Maxi Foot|language=fr|date=8 May 2018|access-date=6 August 2018}}</ref> Meunier also won his first league title at PSG after beating [[AS Monaco|Monaco]] on 15 April 2018.<ref>{{cite news|title=7-1! PSG neemt Monaco Franse titel af met monsterzege|url=https://www.nieuwsblad.be/sportwereld/live/voetbal/265063|publisher=Nieuwsblad|language=nl|date=15 April 2018|access-date=6 August 2018}}</ref> At  the end of the 2017–18 season, he went on to make 34 appearances and scoring 5 times in all competitions.
+
+====2018–19 season====
+On 18 September 2018, Meunier scored a goal in a 2–3 loss to [[Liverpool F.C.|Liverpool]] in [[2018–19 UEFA Champions League]] group stage.<ref>{{cite web |url=https://www.uefa.com/uefachampionsleague/match/2025057--liverpool-vs-paris/ |title=Liverpool 3–2 Paris |website=UEFA |date=18 September 2018 }}</ref> On 6 March 2019, he came on as a substitute in a 1–3 loss to [[Manchester United F.C.|Manchester United]], in which Paris Saint-Germain were eliminated from the Champions League round of 16 on away goals.<ref>{{cite web |url=https://www.uefa.com/uefachampionsleague/match/2026859--paris-vs-man-united/ |title=Paris 1–3 Man. United |website=UEFA |date=6 March 2019 }}</ref>
+
+====2019–20 season====
+In the [[2019–20 UEFA Champions League]] group stage, he scored a goal in a 3–0 win over [[Real Madrid CF|Real Madrid]] on 18 September 2019.<ref>{{cite web |url=https://www.uefa.com/uefachampionsleague/match/2027025--paris-vs-real-madrid/ |title=Paris 3–0 Real Madrid |website=UEFA |date=18 September 2019 }}</ref> On 4 March 2020, he played his last match with Paris Saint-Germain in a 5–1 win over [[Olympique Lyonnais|Lyon]] in the [[2019–20 Coupe de France]] semi-final.<ref>{{cite web |url=https://int.soccerway.com/matches/2020/03/04/france/coupe-de-france/olympique-lyonnais/paris-saint-germain-fc/3229576/ |title=Olympique Lyonnais 1–5 PSG |website=soccerway.com |date=4 March 2020 }}</ref> PSG ultimately reached the final of the Champions League, but as this was postponed until August, Meunier had already for Dortmund by that time.
+
+===Borussia Dortmund===
+[[File:2021-11-06 Fußball, Männer, 1. Bundesliga, RB Leipzig - Borussia Dortmund 1DX 1644 by Stepro.jpg|thumb|Meunier with [[Borussia Dortmund]] in 2021]]
+On 25 June 2020, it was announced that Meunier would be joining [[Borussia Dortmund]] from PSG on a four-year deal as a free agent.<ref>{{Cite web|last=Uersfeld|first=Stephan|date=25 June 2020|title=Borussia Dortmund sign PSG right-back Thomas Meunier for free|url=https://www.espn.com/soccer/soccer-transfers/story/4121306/borussia-dortmund-sign-psg-right-back-thomas-meunier-for-free|access-date=25 June 2020|website=ESPN}}</ref>
+
+===Trabzonspor===
+On 7 February 2024, Meunier moved to [[Trabzonspor]] in Turkey.<ref>{{cite web|publisher=Trabzonspor|url=https://www.trabzonspor.org.tr/tr/haberler/kamuoyuna-duyuru-7-02-2024|title=Kamuoyuna duyuru|trans-title=Public announcement|date=7 February 2024|access-date=7 February 2024|language=tr}}</ref>
+
+===Lille===
+On 19 July 2024, French club [[Lille OSC|Lille]] announced the signing of Meunier on a two-year contract.<ref>{{cite news|url=https://www.losc.fr/actualites/2024-07-19/thomas-meunier-un-diable-rouge-au-losc|title=Thomas Meunier, un Diable Rouge au LOSC|trans-title=Thomas Meunier, a Red Devil at LOSC|date=19 July 2024|access-date=19 July 2024|publisher=Lille OSC|language=fr}}</ref>
+
+==International career==
+===Youth career===
+After appearing for the [[Belgium national youth football team|Belgium U15]] team, Meunier was called up for the [[Belgium national under-21 football team|Belgium U21]] team for the first time in February 2011, but did not play.<ref>{{cite news|title=Thomas Meunier vervangt Fileccia in beloftenselectie|url=https://www.nieuwsblad.be/cnt/dmf20110204_134|publisher=Nieuwsblad|language=nl|date=4 February 2011|access-date=17 November 2017}}</ref>
+
+Meunier was called up for the second time in August 2011<ref>{{cite news|title=Selectie nationale beloften voor oefeninterland tegen Turkije|url=https://www.standaard.be/cnt/dmf20110804_140|publisher=De Standaard|language=nl|date=4 August 2011|access-date=17 November 2017}}</ref> and finally made his Belgium U21 debut on 9 August 2011, in a 3–2 friendly loss against [[Turkey national under-21 football team|Turkey U21]].<ref>{{cite news|title=Football – diables rouges espoirs (belgique–Turquie: 2–3) Le coach Franky Dury juge le Brugeois, Guillaume François et Anthony Moris (blessé) : Meunier a fêté sa 1ère titularisation|url=http://www.lameuse.be/archive/d-20121218-Z0HDFD|publisher=La Meuse|language=fr|date=9 August 2011|access-date=6 August 2018}}</ref> On 6 September 2011, he then scored his first U21 goal, in the [[2013 UEFA European Under-21 Football Championship qualification]] 4–1 home win over [[Azerbaijan national under-21 football team|Azerbaijan U21]].<ref>{{cite news|url=http://sporza.be/cm/sporza/voetbal/1.1104546|title=U21 beat Azerbaijan in EC qualification|language=nl|date=6 September 2011|publisher=sporza.be}}</ref> He made seven appearances (five of those were in 2013 UEFA European Under-21 Football Championship qualification matches) and scored once for the Belgium U21 team.
+
+===Senior career===
+[[File:Thomas Meunier 2018.jpg|thumb|left|180px|Meunier playing for [[Belgium national football team|Belgium]] at the [[2018 FIFA World Cup|FIFA World Cup]] in Russia]]
+
+After being called up to the senior side for the first time on 14 November 2013, Meunier made his debut for the [[Belgium national football team|Belgium national team]] in a home friendly match against [[Colombian national football team|Colombia]], which was preparation for the [[2014 FIFA World Cup]] in Brazil.<ref>{{cite news|title=Marc Wilmots roept Meunier op voor Colombia en Japan|url=http://sporza.be/cm/sporza/voetbal/Rode_Duivels/1.1773026|publisher=Sporza.be|language=nl|date=7 November 2013|access-date=17 November 2017}}<br>{{cite news|title=Colombia speelt de Belgen van hun wolk|url=http://sporza.be/cm/sporza/matchcenter/mc_voetbal/oefeninterlands/1.1777849|publisher=Sporza.be|language=nl|date=14 November 2013|access-date=17 November 2017}}</ref> He also appeared as a substitute in two further friendlies, against [[Japan national football team|Japan]] (2–3 loss) and [[Iceland national football team|Iceland]] (3–1 win), but was not included in coach [[Marc Wilmots]]' final [[2014 FIFA World Cup squads#Belgium|23-man squad]] for the tournament.<ref>{{cite news|url=https://www.theguardian.com/football/2014/jun/06/belgium-world-cup-squad-2014|title=Belgium squad for 2014 World Cup: the 23 chosen by Marc Wilmots|date=6 June 2014|work=The Guardian}}</ref>
+
+After missing out in the World Cup, Meunier was called up in November 2014 and made his first appearance in almost a year, in a 3–1 win over [[Iceland national football team|Iceland]] on 12 November 2014.<ref>{{cite news|title=Meunier en De Bock sluiten aan bij Duivels|url=https://www.standaard.be/cnt/dmf20141110_01368840|publisher=De Standaard|language=nl|date=10 November 2014|access-date=17 November 2017}}<br>{{cite news|title=Les Diables ne manquent pas leur répétition|url=http://www.7sur7.be/7s7/fr/1508/Sports/article/detail/2118789/2014/11/12/Les-Diables-ne-manquent-pas-leur-repetition.dhtml|publisher=7SUR7.be|language=fr|date=12 November 2014|access-date=17 November 2017}}</ref>
+
+After being called up to the squad for the [[UEFA Euro 2016|Euro 2016]], Meunier played the whole 90 minutes at right back in the UEFA [[UEFA Euro 2016 Group E|Euro 2016 group stage]] and then set up a goal for [[Axel Witsel]], in a 3–0 win over [[Republic of Ireland national football team|Republic of Ireland]].<ref>{{cite news|title=Ook Lombaerts out voor EK, twijfels over Boyata, Kabasele erbij|url=http://sporza.be/cm/sporza/voetbal/Rode_Duivels/1.2670009|publisher=Sporza.be|language=nl|date=30 May 2016|access-date=17 November 2017}}<br>{{cite news|title=Belgium get going as Romelu Lukaku punishes Republic of Ireland|url=https://www.theguardian.com/football/2016/jun/18/belgium-republic-of-ireland-euro-2016-match-report|work=The Guardian|date=18 June 2016|access-date=17 November 2017}}</ref> He also aided his team in keeping another clean sheet in 90 minutes at right back in another victory over [[Sweden men's national football team|Sweden]] four days later.<ref>{{cite news|title=Sweden 0 – 1 Belgium|url=https://www.bbc.co.uk/sport/football/36535313|publisher=BBC Sport|date=22 June 2016|access-date=17 November 2017}}</ref> He also started in Belgium's 4–0 [[UEFA Euro 2016 knockout phase|round of 16]] win against [[Hungary national football team|Hungary]].<ref>{{cite news|title=Hungary 0 – 4 Belgium|url=https://www.bbc.co.uk/sport/football/36569531|publisher=BBC Sport|date=26 June 2016|access-date=17 November 2017}}<br>{{cite web|url=https://www.uefa.com/euro2024/teams/players/250029318--thomas-meunier/|title=Thomas Meunier|language=en|access-date=26 June 2016|publisher=UEFA}}</ref> Meunier finished the UEFA Euro 2016 campaign with five appearances for the side.
+
+On 13 November 2016, Meunier scored in the 8th minute in Belgium's 8–1 [[2018 FIFA World Cup Qualification]] win over [[Estonia national football team|Estonia]] at the [[King Baudouin Stadium]] to register his first ever senior international goal.<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/37965298|title=Belgium 8–1 Estonia|date=13 November 2016|access-date=14 November 2016|publisher=BBC Sport}}</ref> On 31 August 2017, Meunier recorded his first career senior international hat-trick in Belgium's 9–0 defeat of [[Gibraltar national football team|Gibraltar]], a match in which he also recorded four assists.<ref>{{cite news|url=https://nieuws.vtm.be/stadion/stadion/meunier-eerste-hattrick-ooit|title=MEUNIER: "EERSTE HATTRICK OOIT"|date=31 August 2017|work=Vlaamse Televisie Maatschappij|language=nl}}</ref> On 7 October 2017, he scored the opening goal of Belgium's 4–3 defeat of [[Bosnia and Herzegovina national football team|Bosnia and Herzegovina]] to end the 2018 World Cup qualifying campaign with five goals and seven assists from eight matches.<ref>{{cite news|url=https://en.psg.fr/pro/article/meunier-scores-and-assists-with-belgium|title=Meunier scores and assists with Belgium|date=7 October 2017|work=Paris Saint-Germain F.C.|archive-url=https://web.archive.org/web/20171117092354/https://en.psg.fr/pro/article/meunier-scores-and-assists-with-belgium|archive-date=17 November 2017|url-status=live}}</ref>
+
+Meunier was selected in Belgium's [[Belgium national football team#Current squad|final 23-man squad]] for the [[2018 FIFA World Cup]].<ref>{{Cite news|title=Roberto Martinez annonce sa liste des 23 Diables Rouges|url=https://fr.metrotime.be/2018/06/04/actualite/diables-rouges-roberto-martinez-annonce-liste-23/|publisher=Metro|language=fr|date=6 August 2018}}</ref> He was Belgium's first-choice right midfielder and played his first World Cup match, in a 3–0 win over [[Panama national football team|Panama]] in their opening group game at the [[2018 FIFA World Cup]].<ref>{{cite news|title=World Cup 2018: Belgium best debutants Panama 3-0 in Sochi|url=https://www.bbc.co.uk/sport/football/44434275|publisher=BBC Sport|access-date=6 August 2018}}</ref> In a next match against  [[Tunisia national football team|Tunisia]] on 23 June 2018, Meunier set up [[Romelu Lukaku]]'s second goal of the game, in a 5–2 win to qualify for the Round of 16.<ref>{{Cite news|title=World Cup 2018: Belgium v Tunisia|url=https://www.bbc.co.uk/sport/football/44439152|publisher=BBC Sport|date=23 June 2018|access-date=6 August 2018}}</ref> He also set up [[Nacer Chadli]] to score in injury time in a 3–2 victory over [[Japan national football team|Japan]] in the round of 16 of the 2018 FIFA World Cup.<ref>{{cite news|title=De perfecte counter van de kwalificatie ontleed: in tien seconden naar uitbundige extase|url=https://www.nieuwsblad.be/cnt/dmf20180702_03595072|publisher=Nieuwsblad|language=nl|date=2 July 2018|access-date=6 August 2018}}</ref> However, after a 2–1 win over [[Brazil national football team|Brazil]] on 6 July 2018, he received another booking, which caused him to miss the semi–finals.<ref>{{cite news|title=World Cup 2018: Belgium produce masterclass to knock out Brazil|url=https://www.bbc.co.uk/sport/football/44652178|publisher=BBC Sport|date=6 July 2018|access-date=6 August 2018}}<br>{{cite news|title=Geschorste Meunier vervangen tegen Frankrijk? Er zijn twee opties|url=https://www.nieuwsblad.be/cnt/dmf20180709_03604191|publisher=Nieuwsblad|language=nl|date=9 July 2018|access-date=6 August 2018}}</ref> On 14 July 2018, Meunier returned from suspension, scoring the opening goal of the match for Belgium in a 2–0 victory against [[England national football team|England]] in their [[2018 FIFA World Cup#Third place play-off|third-place play-off]], his nation's best-ever World Cup finish.<ref>{{cite news|title=World Cup 2018: England finish fourth after Belgium defeat|url=https://www.bbc.co.uk/sport/football/44748604|publisher=BBC Sport|access-date=6 August 2018}}</ref>
+
+On 12 June 2021, Meunier came on as a substitute for the injured [[Timothy Castagne]] after just 27 minutes and scored Belgium's second goal in the 34th minute during a 3–0 win in their first [[UEFA Euro 2020 Group B|Euro 2020 group stage]] match against [[Russia national football team|Russia]]. In doing so, Meunier became the first ever player to score a first half goal after coming on as a substitute in the [[UEFA European Championship]].<ref>{{Cite web|url=https://www.uefa.com/uefaeuro-2020/match/2024450--belgium-vs-russia/postmatch/report/?iv=true|title=Belgium 3-0 Russia: Lukaku scores twice in opening win|work=[[UEFA]]|date=12 June 2021|accessdate=15 June 2021}}{{dead link|date=March 2025|bot=medic}}{{cbignore|bot=medic}}</ref>
+
+Meunier was part of Belgium's squad for the [[2022 FIFA World Cup]] in Qatar. After appearing as a half-time substitute in the opening match against [[Canada men's national soccer team|Canada]],<ref>{{cite web|url=https://www.nytimes.com/athletic/live-blogs/belgium-canada-score-world-cup-2022/jsAj9ml2nO5C/|title=Full highlights and analysis of Belgium's 1-0 win over Canada in World Cup 2022 Group F game|date=24 November 2022|access-date=16 May 2022|website=The Athletic}}</ref> he started both the 0-2 loss against [[Morocco national football team|Morocco]]<ref>{{cite web|url=https://www.nytimes.com/athletic/live-blogs/belgium-morocco-score-world-cup-2022/cZdqcreQKvmR/|title=World Cup result: How Morocco stunned Belgium 2-0 to leap to the top of Group F|date=27 November 2022|access-date=16 May 2026|website=The Athletic}}</ref> and the 0–0 draw with [[Croatia national football team|Croatia]] as Belgium were eliminated at the group stage.<ref>{{cite web|url=https://www.nytimes.com/athletic/3956873/2022/12/01/croatia-belgium-world-cup/|title=Belgium knocked out, Croatia through in second, Lukaku’s misses and misery|date=2 December 2022|access-date=16 May 2026|website=The Athletic}}</ref>
+
+On 28 May 2024, Meunier was named in Belgium's squad for [[UEFA Euro 2024]].<ref>{{cite web|url=https://www.rbfa.be/en/news/25-devils-go-euro-2024|title=25 DEVILS GO TO EURO 2024|date=28 May 2024|access-date=16 May 2026|website=Royal Belgian Football Association}}</ref> After suffering an injury in a pre-tournament friendly against [[Luxembourg national football team|Luxembourg]],<ref>{{cite web|url=https://www.lequipe.fr/Football/Actualites/Touche-a-la-cuisse-droite-thomas-meunier-incertain-pour-l-euro-2024/1473497|title=Touché à la cuisse droite, Thomas Meunier incertain pour l'Euro 2024|date=8 June 2024|access-date=16 May 2026|website=L'Équipe}}</ref> Meunier remained in Antwerp for treatment during the team's opening two matches. He arrived in Germany to join up with the Belgian squad on 24 June<ref>{{cite web|url=https://www.straitstimes.com/sport/football/belgiums-meunier-makes-belated-arrival-at-euro-2024|title=Belgium's Meunier makes belated arrival at Euro 2024|date=24 June 2024|access-date=16 May 2026|website=The Straits Times}}</ref>but did not take part in the third group match, or the round of 16 match, where Belgium were knocked out by France.<ref>{{cite web|url=https://www.nytimes.com/athletic/live-blogs/france-belgium-live-updates-euro-2024-score-result/B6sviLva8LqZ/|title=How France overcame Belgium at Euro 2024 thanks to Randal Kolo Muani's deflected strike|date=1 July 2024|access-date=16 May 2026|website=The Athletic}}</ref>
+
+On 15 May 2026, he was named in Belgium's squad for the [[2026 FIFA World Cup]].<ref>{{cite web|url=https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/belgium-squad-garcia-lukaku-named|title=Lukaku among experienced names in Belgium squad|date=15 May 2026|access-date=16 May 2026|website=FIFA}}</ref>
+
+==Personal life==
+Growing up, Meunier idolised Brazil [[FIFA World Cup|World Cup]] winner [[Ronaldo (Brazilian footballer)|Ronaldo]], saying: "He evolves, like me, at the center forward position. I liked his style of play and his dribbling".<ref name="Meunier La Meuse Interview" /> He was quoted in an interview saying that he supported [[R.S.C. Anderlecht|Anderlecht]] growing up, but this turned out to be incorrect.<ref>{{cite news|date=21 January 2011|title=Meunier: 'Ik ben eigenlijk supporter van Anderlecht'|language=nl|publisher=Nieuwsblad|url=https://www.nieuwsblad.be/cnt/gk335a7nq|access-date=17 November 2017}}<br />{{cite news|date=22 January 2011|title=Meunier: 'Met hart honderd procent bij Club Brugge'|language=nl|publisher=Nieuwsblad|url=https://www.nieuwsblad.be/cnt/g0v35bpob|access-date=6 August 2018}}<br />{{cite web|date=23 January 2011|title=Meunier: "Voor de volle 100% naar Club"|url=https://sporza.be/cm/sporza/voetbal/Jupiler_Pro_League/110123_meunier_bis/|url-status=dead|archive-url=https://web.archive.org/web/20110125173238/https://sporza.be/cm/sporza/voetbal/Jupiler_Pro_League/110123_meunier_bis/|archive-date=25 January 2011|access-date=6 August 2018|publisher=Sporza.be|language=nl}}</ref> He revealed that he didn't have an easy childhood: his parents divorced when he was a teenager and started a new life with his mother and sister.<ref name="Meunier Nieuwblad Interview 2018" /> While at Virton, Meunier worked part time at a car factory and as a postman, receiving a diploma for finishing school.<ref name="Meunier Nieuwblad Interview 2018" /> Outside of football, he's also a fan of art.<ref>{{cite news|date=26 December 2011|title=Dalí is geweldig|language=nl|publisher=De Standaard (subscription required)|url=https://www.standaard.be/cnt/fg3k257f|access-date=17 November 2017}}</ref> He opened a catering business in his hometown of [[Bastogne]] and has thought about becoming a baker once his football career is over.<ref>{{cite news|date=17 February 2017|title=Thomas Meunier voelt zich kiplekker na monsterzege tegen Barça en opent eigen zaak|language=nl|publisher=Nieuwsblad|url=https://www.nieuwsblad.be/cnt/dmf20170217_02737078|access-date=17 November 2017}}</ref>
+
+Meunier speaks fluent [[Belgian French|French]],<ref>{{cite web |title=L'interview complète de Thomas Meunier | date=14 November 2019 |url=https://www.youtube.com/watch?v=2-aVWgEt_nU |via=YouTube |publisher=RTL |access-date=30 April 2022}}</ref> [[Flemish dialects|Flemish]], [[English language|English]], and [[German language|German]].<ref>{{cite web |title=Matchday Magazine with Thomas Meunier, TSG Hoffenheim - BVB | date=21 January 2022 |url=https://www.youtube.com/watch?v=bAUIU0H_nSw |via=YouTube |publisher=Borussia Dortmund |access-date=30 April 2022}}</ref> In November 2012, Meunier was fined €120 and given a 13-day driving ban after being convicted of speeding.<ref>{{cite news|date=9 November 2012|title=Yoni Buyens en Thomas Meunier veroordeeld voor te snel rijden|language=nl|publisher=Nieuwsblad|url=https://www.nieuwsblad.be/cnt/dmf20121109_00363937|access-date=17 November 2017}}</ref> After his conviction, Meunier began taking driving lessons again.<ref>{{cite news|date=20 March 2013|title=Meunier moet theoretisch rij-examen opnieuw afleggen|language=nl|publisher=Nieuwsblad|url=https://www.nieuwsblad.be/cnt/dmf20130320_00512048|access-date=17 November 2017}}</ref>
+
+Meunier is in a relationship with Deborah Panzokou, having known her since high school.<ref>{{cite news|date=8 November 2013|title=Mevrouw Meunier is jaloers|language=nl|publisher=Nieuwsblad|url=https://www.nieuwsblad.be/cnt/dmf20131108_00830318|access-date=17 November 2017}}</ref> In May 2015, it was announced that the couple were expecting their first child. Deborah gave birth to a baby boy, Landrys, (born in December 2015).<ref>{{cite news|date=24 May 2015|title=Thomas Meunier kondigt heugelijk nieuws aan met prachtige foto|language=nl|publisher=Nieuwsblad|url=https://www.nieuwsblad.be/cnt/dmf20150524_01696616|access-date=17 November 2017}}<br />{{cite news|date=8 December 2015|title=Thomas Meunier is papa geworden|language=nl|publisher=De Standaard|url=https://www.standaard.be/cnt/dmf20151208_02010245|access-date=17 November 2017}}</ref> In October 2017, it was announced that the couple were expecting their second child, who was born in April 2018.<ref>{{cite news|date=27 October 2017|title=Thomas Meunier (PSG): Sa compagne est enceinte, il l'annonce avec humour|language=fr|publisher=Pure People|url=https://www.purepeople.com/article/thomas-meunier-psg-sa-compagne-est-enceinte-il-l-annonce-avec-humour_a257209/1|access-date=6 August 2018}}<br />{{cite news|date=13 April 2018|title=Thomas Meunier dévoile une photo de son deuxième enfant|language=fr|publisher=DHnet.be|url=https://www.dhnet.be/sports/football/diablesrouges/thomas-meunier-devoile-une-photo-de-son-deuxieme-enfant-5ad0f812cd709bfa6b580f6d|access-date=6 August 2018}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 10 May 2026}}
+
+{|class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup{{efn|Includes [[Belgian Cup]], [[Coupe de France]], [[DFB-Pokal]], [[Turkish Cup]]}}
+!colspan="2"|League cup{{efn|Includes [[Coupe de la Ligue]]}}
+!colspan="2"|Europe
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="4"|[[R.E. Virton]]
+|[[2008–09 in Belgian football|2008–09]]<ref name="TMSW">{{soccerway|94078|access-date=23 July 2017}}</ref>
+|[[Belgian Second Division]]
+|5||0||1||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||6||0
+|-
+|[[2009–10 in Belgian football|2009–10]]<ref name="TMSW"/>
+|rowspan="2"|[[Belgian Third Division]]
+|16||5||1||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||17||5
+|-
+|[[2010–11 in Belgian football|2010–11]]<ref name="TMSW"/>
+|28||10||1||1||colspan="2"|—||colspan="2"|—||colspan="2"|—||29||11
+|-
+!colspan="2"|Total
+!49!!15!!3!!1!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!52!!16
+|-
+|rowspan="6"|[[Club Brugge KV|Club Brugge]]
+|[[2011–12 Belgian Pro League|2011–12]]<ref name="TM11">{{soccerbase season|60712|2011|access-date=23 July 2017}}</ref>
+|rowspan="5"|[[Belgian Pro League]]
+|35||3||2||1||colspan="2"|—||12{{efn|name=UEL|Appearances in [[UEFA Europa League]]}}||1||colspan="2"|—||49||5
+|-
+|[[2012–13 Belgian Pro League|2012–13]]<ref name="TM12">{{soccerbase season|60712|2012|access-date=23 July 2017}}</ref>
+|21||4||1||0||colspan="2"|—||6{{efn|Two appearances in [[UEFA Champions League]], four appearances in UEFA Europa League}}||0||colspan="2"|—||28||4
+|-
+|[[2013–14 Club Brugge KV season|2013–14]]<ref name="TM13">{{soccerbase season|60712|2013|access-date=23 July 2017}}</ref>
+|32||3||1||0||colspan="2"|—||0||0||colspan="2"|—||33||3
+|-
+|[[2014–15 Club Brugge KV season|2014–15]]<ref name="TM14">{{soccerbase season|60712|2014|access-date=23 July 2017}}</ref>
+|30||2||5||0||colspan="2"|—||11{{efn|name=UEL}}||0||colspan="2"|—||46||2
+|-
+|[[2015–16 Club Brugge KV season|2015–16]]<ref name="TM15">{{soccerbase season|60712|2015|access-date=23 July 2017}}</ref>
+|31||3||5||1||colspan="2"|—||6{{efn|name=UEL}}||2||colspan="2"|—||42||6
+|-
+!colspan="2"|Total
+!149!!15!!14!!2!!colspan="2"|—!!35!!3!!colspan="2"|—!!198!!20
+|-
+|rowspan="5"|[[Paris Saint-Germain F.C.|Paris Saint-Germain]]
+|[[2016–17 Paris Saint-Germain F.C. season|2016–17]]<ref name="TM16">{{soccerbase season|60712|2016|access-date=23 July 2017}}</ref>
+|rowspan="4"|[[Ligue 1]]
+|22||1||4||0||3||0||6{{efn|name=UCL|Appearance(s) in UEFA Champions League}}||1||1{{efn|name=TDC|Appearance in [[Trophée des Champions]]}}||0||36||2
+|-
+|[[2017–18 Paris Saint-Germain F.C. season|2017–18]]<ref name="TM17">{{soccerbase season|60712|2017|access-date=19 September 2018}}</ref>
+|24||4||5||0||3||1||1{{efn|name=UCL}}||0||1{{efn|name=TDC}}||0||34||5
+|-
+|[[2018–19 Paris Saint-Germain F.C. season|2018–19]]<ref name="TM18">{{soccerbase season|60712|2018|access-date=19 September 2018}}</ref>
+|22||3||3||1||1||0||5{{efn|name=UCL}}||1||0||0||31||5
+|-
+|[[2019–20 Paris Saint-Germain F.C. season|2019–20]]<ref name="TM19">{{soccerbase season|60712|2019|access-date=19 September 2018}}</ref>
+|16||0||3||0||2||0||5{{efn|name=UCL}}||1||1{{efn|name=TDC}}||0||27||1
+|-
+!colspan="2"|Total
+!84!!8!!15!!1!!9!!1!!17!!3!!3!!0!!128!!13
+|-
+|rowspan="5"|[[Borussia Dortmund]]
+|[[2020–21 Borussia Dortmund season|2020–21]]<ref name="TM20">{{soccerbase season|60712|2020|access-date=11 September 2020}}</ref>
+|rowspan="4"|[[Bundesliga]]
+|21||1||4||0||colspan="2"|—||7{{efn|name=UCL}}||0||1{{efn|Appearance in [[DFL-Supercup]]}}||0||33||1
+|-
+|[[2021–22 Borussia Dortmund season|2021–22]]<ref name="TM21">{{soccerbase season|60712|2021|access-date=27 August 2021}}</ref>
+|17||2||2||0||colspan="2"|—||7{{efn|Six appearances in UEFA Champions League, one appearance in UEFA Europa League}}||0||0||0||26||2
+|-
+|[[2022–23 Borussia Dortmund season|2022–23]]<ref name="TM22">{{soccerbase season|60712|2022|access-date=2 February 2024}}</ref>
+|10||0||2||0||colspan="2"|—||4{{efn|name=UCL}}||0||colspan="2"|—||16||0
+|-
+|[[2023–24 Borussia Dortmund season|2023–24]]<ref name="TM23">{{soccerbase season|60712|2023|access-date=2 February 2024}}</ref>
+|8||0||0||0||colspan="2"|—||0||0||colspan="2"|—||8||0
+|-
+!colspan="2"|Total
+!56!!3!!8!!0!!colspan="2"|—!!18!!0!!1!!0!!83!!3
+|-
+|rowspan="3"|[[Borussia Dortmund II]]
+|[[2022–23 Borussia Dortmund II season|2022–23]]
+|rowspan="2"|[[3. Liga]]
+|2||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||2||0
+|-
+|[[2023–24 Borussia Dortmund II season|2023–24]]
+|1||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||1||0
+|-
+!colspan="2"|Total
+!3!!0!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!3!!0
+|-
+|[[Trabzonspor]]
+|[[2023–24 Trabzonspor season|2023–24]]
+|[[Süper Lig]]
+|14||1||5||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||19||1
+|-
+|rowspan="3"|[[Lille OSC|Lille]]
+|[[2024–25 Lille OSC season|2024–25]]
+|rowspan="2"|Ligue 1
+|30||2||3||0||colspan="2"|—||13{{efn|name=UCL}}||0||colspan="2"|—||46||2
+|-
+|[[2025–26 Lille OSC season|2025–26]]
+|25||1||2||0||colspan="2"|—||8{{efn|name=UEL}}||0||colspan="2"|—||35||1
+|-
+!colspan="2"|Total
+!55!!3!!5!!0!!colspan="2"|—!!21!!0!!colspan="2"|—!!81!!3
+|-
+!colspan="3"|Career total
+!410!!45!!50!!3!!9!!1!!91!!6!!4!!0!!564!!55
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 2 June 2026|<ref>{{cite web|url=https://eu-football.info/_player.php?id=28386|title=Thomas Meunier|website=EU-Football.info|access-date=1 July 2018}}</ref>}}
+
+{|class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan=14|[[Belgium national football team|Belgium]]
+|2013||2||0
+|-
+|2014||1||0
+|-
+|2015||2||0
+|-
+|2016||10||1
+|-
+|2017||6||4
+|-
+|2018||15||1
+|-
+|2019||4||1
+|-
+|2020||4||0
+|-
+|2021||10||1
+|-
+|2022||8||0
+|-
+|2023||0||0
+|-
+|2024||5||0
+|-
+|2025||9||2
+|-
+|2026||3||0
+|-
+!colspan=2|Total||79||10
+|}
+
+{{updated|match played 13 October 2025.}} ''Belgium score listed first, score column indicates score after each Meunier goal.''<ref name="NFT">{{cite web|url=https://www.national-football-teams.com/player/54036/Thomas_Meunier.html|title=Meunier, Thomas|website=National Football Teams|access-date=1 September 2017}}</ref>
+
+{| class="wikitable sortable plainrowheaders"
+|+ International goals by date, venue, cap, opponent, score, result and competition
+!scope=col|No.
+!scope=col|Date
+!scope=col|Venue
+!scope=col|Cap
+!scope=col|Opponent
+!scope=col|Score
+!scope=col|Result
+!scope=col|Competition
+|-
+!scope=row|1
+|14 November 2016||[[King Baudouin Stadium]], [[Brussels]], Belgium||align=center|15||{{fb|EST}}||align=center|'''1'''–0||align=center|8–1||rowspan=5|[[2018 FIFA World Cup qualification – UEFA Group H|2018 FIFA World Cup qualification]]
+|-
+!scope=row|2
+|rowspan=3|31 August 2017||rowspan=3|[[Stade Maurice Dufrasne]], [[Liège]], Belgium||rowspan=3 align=center|16||rowspan=3|{{fb|GIB}}||align=center|'''2'''–0||rowspan=3 align=center|9–0
+|-
+!scope=row|3
+|align=center|'''7'''–0
+|-
+!scope=row|4
+|align=center|'''8'''–0
+|-
+!scope=row|5
+|7 October 2017||[[Stadion Grbavica]], [[Sarajevo]], Bosnia and Herzegovina||align=center|18||{{fb|BIH}}||align=center|'''1'''–0||align=center|4–3
+|-
+!scope=row|6
+|14 July 2018||[[Krestovsky Stadium]], [[Saint Petersburg]], Russia||align=center|30||{{fb|ENG}}||align=center|'''1'''–0||align=center|2–0||[[2018 FIFA World Cup knockout stage|2018 FIFA World Cup]]
+|-
+!scope=row|7
+|13 October 2019||[[Astana Arena]], [[Nur-Sultan]], Kazakhstan||align=center|39||{{fb|KAZ}}||align=center|'''2'''–0||align=center|2–0||[[UEFA Euro 2020 qualifying Group I|UEFA Euro 2020 qualifying]]
+|-
+!scope=row|8
+|12 June 2021||[[Krestovsky Stadium]], [[Saint Petersburg]], Russia||align=center|48||{{fb|RUS}}||align=center|'''2'''–0||align=center|3–0||[[UEFA Euro 2020 Group B|UEFA Euro 2020]]
+|-
+!scope=row|9
+|7 September 2025||[[Constant Vanden Stock Stadium]], [[Anderlecht]], Belgium||align=center|73||{{fb|KAZ}}||align=center|'''6'''–0||align=center|6–0||rowspan=2|[[2026 FIFA World Cup qualification – UEFA Group J|2026 FIFA World Cup qualification]]
+|-
+!scope=row|10
+|13 October 2025||[[Cardiff City Stadium]], [[Cardiff]], Wales||align=center|75||{{fb|WAL}}||align=center|'''2'''–1||align=center|4–2
+|}
+
+==Honours==
+'''Club Brugge'''
+* [[Belgian Pro League]]: [[2015–16 Belgian Pro League|2015–16]]
+* [[Belgian Cup]]: [[2014–15 Belgian Cup|2014–15]]
+
+'''Paris Saint Germain'''
+* [[Ligue 1]]: [[2017–18 Ligue 1|2017–18]],<ref>{{cite web|url=https://www.goal.com/en-my/news/psg-clinch-ligue-1-title-by-thrashing-monaco/1ty70ovdroka415jkim9oc0zsj|title=PSG clinch Ligue 1 title by thrashing Monaco|website=goal.com|publisher=Goal|date=16 April 2018|access-date=6 April 2020}}</ref> [[2018–19 Ligue 1|2018–19]],<ref>{{cite web|url=https://www.ligue1.com/ligue1/article/psg-champions-as-lille-held-at-toulouse.htm|title=PSG Champions as Lille held at Toulouse|date=21 April 2019|access-date=21 April 2019|website=ligue1.com|publisher=Ligue de Football Professionnel|archive-url=https://web.archive.org/web/20190626220236/https://www.ligue1.com/ligue1/article/psg-champions-as-lille-held-at-toulouse.htm|archive-date=26 June 2019}}</ref> [[2019–20 Ligue 1|2019–20]]<ref>{{cite web|url=https://www.ligue1.com/Articles/NEWS/2020/04/30/psg-champions-season-ended-ligue-1|title=PSG champions as season ended|work=Ligue1 |date=30 April 2020|access-date=30 April 2020|publisher=Ligue 1}}</ref>
+* [[Coupe de France]]: [[2017–18 Coupe de France|2017–18]],<ref>{{cite web|url=https://www.goal.com/en-ng/news/paris-saint-germain-set-record-with-fourth-straight-coupe-de/1ubb1rik0lw6b1pwatka3l5nh6|title=Paris Saint-Germain set record with fourth straight Coupe De France crown|website=goal.com|publisher=[[Goal (website)|Goal]]|access-date=8 May 2018}}</ref> [[2019–20 Coupe de France|2019–20]]; runner-up: [[2018–19 Coupe de France|2018–19]]<ref>{{Cite web|title=Stade Rennes vs. Paris Saint-Germain - Football Match Report - April 27, 2019 - ESPN|url=https://www.espn.com/soccer/report?gameId=539117|access-date=28 December 2020|website=ESPN.com|language=en}}</ref>
+* [[Coupe de la Ligue]]: [[2016–17 Coupe de la Ligue|2016–17]], [[2017–18 Coupe de la Ligue|2017–18]], [[2019–20 Coupe de la Ligue|2019–20]]
+* [[Trophée des Champions]]: [[2016 Trophée des Champions|2016]], [[2017 Trophée des Champions|2017]], [[2019 Trophée des Champions|2019]]<ref>{{cite web|url=https://www.ligue1.com/tropheeChampions/article/mbappe-and-di-maria-earn-psg-first-2019-20-trophy.htm|title=Mbappé and Di Maria Earn PSG First 2019-20 Trophy|date=3 August 2019|access-date=6 April 2020|website=ligue1.com|publisher=Ligue de Football Professionnel|archive-url=https://web.archive.org/web/20190803150004/https://www.ligue1.com/tropheeChampions/article/mbappe-and-di-maria-earn-psg-first-2019-20-trophy.htm|archive-date=3 August 2019}}</ref>
+
+'''Borussia Dortmund'''
+* [[DFB-Pokal]]: [[2020–21 DFB-Pokal|2020–21]]
+
+'''Belgium'''
+*[[FIFA World Cup]] third place: [[2018 FIFA World Cup|2018]]<ref>{{cite news|title=Hazard, Meunier bag bronze for Belgium|url=https://www.fifa.com/worldcup/archive/russia2018/matches/match/300331536/#match-summary}}</ref>
+
+'''Individual'''
+*Godefroid of Honour: 2016<ref>{{cite news |title=Godefroid d'honneur |language=nl |publisher=Les Godefroid |url=https://lesgodefroid.be/laureat-historique |access-date=6 August 2018}}</ref>
+*[[Marca (newspaper)|Marca]]/[[Forbes]] [[FIFA World Cup awards#Unofficial winners|World Cup All-Star team]]: [[2018 FIFA World Cup|2018]]<ref>{{Cite web |date=2018-07-16 |title=Mundial 2018: El once ideal tiene claro acento francés: Griezmann, Mbappé, Varane... |url=https://www.marca.com/futbol/mundial/2018/07/16/5b4c79aa268e3e21778b4613.html |access-date=2022-05-28 |website=Marca.com |language=es}}</ref><ref name="McMahon-2018">{{Cite web |last=McMahon |first=Bobby |title=2018 World Cup: The Best 11, The Best Player (Modric, Of Course) And Other Musings |url=https://www.forbes.com/sites/bobbymcmahon/2018/07/15/2018-world-cup-my-best-eleven/ |access-date=2023-02-02 |website=Forbes |language=en}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*{{RBFA player}}
+*{{UEFA player}}
+*{{FIFA player}}
+
+{{Lille OSC squad}}
+{{Navboxes
+| title = Belgium squads
+| bg = #E20E0E
+| fg = #FDDA25
+| bordercolor = black
+| list1 = 
+{{Belgium squad UEFA Euro 2016}}
+{{Belgium squad 2018 FIFA World Cup}}
+{{Belgium squad UEFA Euro 2020}}
+{{Belgium squad 2022 FIFA World Cup}}
+{{Belgium squad UEFA Euro 2024}}
+{{Belgium squad 2026 FIFA World Cup}}
+}}
+{{Authority control}}
+
+{{DEFAULTSORT:Meunier, Thomas}}
+[[Category:1991 births]]
+[[Category:Living people]]
+[[Category:People from Sainte-Ode]]
+[[Category:Footballers from Luxembourg (Belgium)]]
+[[Category:Belgian men's footballers]]
+[[Category:Men's association football defenders]]
+[[Category:Standard Liège players]]
+[[Category:Royal Excelsior Virton players]]
+[[Category:Club Brugge KV players]]
+[[Category:Paris Saint-Germain FC players]]
+[[Category:Borussia Dortmund players]]
+[[Category:Trabzonspor footballers]]
+[[Category:Lille OSC players]]
+[[Category:Belgian Pro League players]]
+[[Category:Ligue 1 players]]
+[[Category:Bundesliga players]]
+[[Category:Süper Lig players]]
+[[Category:Belgium men's youth international footballers]]
+[[Category:Belgium men's under-21 international footballers]]
+[[Category:Belgium men's international footballers]]
+[[Category:UEFA Euro 2016 players]]
+[[Category:2018 FIFA World Cup players]]
+[[Category:UEFA Euro 2020 players]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:UEFA Euro 2024 players]]
+[[Category:2026 FIFA World Cup players]]
+[[Category:Belgian expatriate men's footballers]]
+[[Category:Expatriate men's footballers in France]]
+[[Category:Expatriate men's footballers in Germany]]
+[[Category:Expatriate men's footballers in Turkey]]
+[[Category:Belgian expatriate sportspeople in France]]
+[[Category:Belgian expatriate sportspeople in Germany]]
+[[Category:Belgian expatriate sportspeople in Turkey]]
+[[Category:21st-century Belgian sportsmen]]

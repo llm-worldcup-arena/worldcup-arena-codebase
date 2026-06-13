@@ -1,0 +1,255 @@
+{{Short description|Czech footballer (born 1992)}}
+{{Use dmy dates|date=March 2021}}
+{{Expand Czech|topic=bio|language=March 2024|date=May 2026}}
+{{Infobox football biography
+| name           = Jaroslav Zelený
+| image          = Jaroslav Zelený, FCB-SLAVIA 30092018.jpg
+| caption        = Zelený in 2018
+| full_name      = 
+| birth_date     = {{birth date and age|df=yes|1992|08|20}}
+| birth_place    = [[Hradec Králové]], [[Czechoslovakia]]
+| height         = 1.90 m
+| position       = [[Left-back]], [[centre-back]]
+| currentclub    = [[AC Sparta Prague|Sparta Prague]]
+| clubnumber     = 30
+| youthyears1    = 
+| youthclubs1    = [[FC Hradec Králové|Hradec Králové]]
+| years1         = 2010–2014
+| clubs1         = [[FC Hradec Králové|Hradec Králové]]
+| caps1          = 78
+| goals1         = 5
+| years2         = 2014–2015
+| clubs2         = → [[MFK Karviná|Karviná]] (loan)
+| caps2          = 17
+| goals2         = 0
+| years3         = 2015–2017
+| clubs3         = [[MFK Karviná|Karviná]]
+| caps3          = 28
+| goals3         = 1
+| years4         = 2017–2018
+| clubs4         = [[FK Jablonec|Jablonec]]
+| caps4          = 41
+| goals4         = 1
+| years5         = 2018–2021
+| clubs5         = [[SK Slavia Prague|Slavia Prague]]
+| caps5          = 20
+| goals5         = 0
+| years6         = 2020
+| clubs6         = → [[FK Mladá Boleslav|Mladá Boleslav]] (loan)
+| caps6          = 13
+| goals6         = 1
+| years7         = 2020–2021
+| clubs7         = → [[FK Jablonec|Jablonec]] (loan)
+| caps7          = 32
+| goals7         = 3
+| years8         = 2021–2022
+| clubs8         = [[FK Jablonec|Jablonec]]
+| caps8          = 33
+| goals8         = 1
+| years9         = 2022–
+| clubs9         = [[AC Sparta Prague|Sparta Prague]]
+| caps9          = 112
+| goals9         = 5
+| nationalyears1 = 2008
+| nationalteam1  = [[Czech Republic national under-17 football team|Czech Republic U17]]
+| nationalcaps1  = 1
+| nationalgoals1 = 0
+| nationalyears2 = 2010
+| nationalteam2  = Czech Republic U18
+| nationalcaps2  = 1
+| nationalgoals2 = 0
+| nationalyears3 = 2020–
+| nationalteam3  = [[Czech Republic national football team|Czech Republic]]
+| nationalcaps3  = 22
+| nationalgoals3 = 0
+| pcupdate       = 25 May 2026
+| ntupdate       = 31 May 2026
+}}
+
+'''Jaroslav Zelený''' (born 20 August 1992) is a Czech professional [[association football|footballer]] who plays as a [[left-back]] or [[centre-back]] for [[AC Sparta Prague|Sparta Prague]] and the [[Czech Republic national football team|Czech Republic national team]].<ref>{{Cite web|url=https://www.ceskenoviny.cz/zpravy/prvni-letni-posilou-slavie-je-schranz-opacnym-smerem-miri-malinsky-a-zeleny/2048486|title=První letní posilou Slavie je Schranz, opačným směrem míří Malínský a Zelený}}</ref>
+
+==Career==
+On 3 June 2022, Zelený signed a contract with [[AC Sparta Prague|Sparta Prague]].<ref>{{Cite web|title=Sparta má druhou posilu. Zelený podepsal víceletou smlouvu|url=https://isport.blesk.cz/clanek/fotbal-1-liga-rocnik-2022-23/415077/sparta-ma-druhou-posilu-zeleny-podepsal-viceletou-smlouvu.html|website=[[Blesk]]|publisher=[[Czech News Center]]|agency=[[Czech News Agency]]|date=3 June 2022|language=cs}}</ref>
+
+On 6 September 2020, Zelený received his first invitation to the Czech senior team for the [[2020–21 UEFA Nations League]] match against [[Scotland national football team|Scotland]].<ref>{{Cite news|first=Martin|last=Sedlák|title=V české lize je řada kvalitních hráčů, říká Zelený po duelu se Skotskem|url=https://www.idnes.cz/fotbal/reprezentace/cesko-skotsko-jaroslav-zeleny.A200910_570165_fot_reprez_rou|website=[[Mladá fronta Dnes]]|publisher=[[Mafra (company)|Mafra]]|date=10 September 2020|language=cs}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 24 May 2026}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|Cup
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="6"|[[FC Hradec Králové|Hradec Králové]]
+|[[2009–10 Czech 2. Liga|2009–10]]
+|[[Czech National Football League]]
+|2||0||0||0||colspan="2"|—||colspan="2"|—||2||0
+|-
+|[[2010–11 Czech First League|2010–11]]
+|rowspan="3"|[[Czech First League]]
+|6||1||0||0||colspan="2"|—||colspan="2"|—||6||1
+|-
+|[[2011–12 Czech First League|2011–12]]
+|28||2||0||0||colspan="2"|—||colspan="2"|—||28||2
+|-
+|[[2012–13 Czech First League|2012–13]]
+|14||0||0||0||colspan="2"|—||colspan="2"|—||14||0
+|-
+|[[2013–14 Czech National Football League|2013–14]]
+|Czech National Football League
+|28||2||1||0||colspan="2"|—||colspan="2"|—||29||2
+|-
+!colspan="2"|Total
+!78!!5!!1!!0!!colspan="2"|—!!colspan="2"|—!!79!!5
+|-
+|[[MFK Karviná|Karviná]] (loan)
+|[[2014–15 Czech National Football League|2014–15]]
+|Czech National Football League
+|17||0||1||0||colspan="2"|—||colspan="2"|—||18||0
+|-
+|rowspan="3"|Karviná
+|[[2015–16 Czech National Football League|2015–16]]
+|Czech National Football League
+|12||0||2||0||colspan="2"|—||colspan="2"|—||14||0
+|-
+|[[2016–17 Czech First League|2016–17]]
+|[[Czech First League|Fortuna liga]]
+|16||1||0||0||colspan="2"|—||colspan="2"|—||16||1
+|-
+!colspan="2"|Total
+!28!!1!!2!!0!!colspan="2"|—!!colspan="2"|—!!30!!1
+|-
+|rowspan="3"|[[FK Jablonec|Jablonec]]
+|[[2016–17 Czech First League|2016–17]]
+|rowspan="2"|Czech First League
+|15||0||0||0||colspan="2"|—||colspan="2"|—||15||0
+|-
+|[[2017–18 Czech First League|2017–18]]
+|26||1||6||0||colspan="2"|—||colspan="2"|—||32||1
+|-
+!colspan="2"|Total
+!41!!1!!6!!0!!colspan="2"|—!!colspan="2"|—!!47!!1
+|-
+|rowspan="3"|[[SK Slavia Prague|Slavia Prague]]
+|[[2018–19 Czech First League|2018–19]]
+|rowspan="2"|Czech First League
+|13||0||3||0||1||0||colspan="2"|—||17||0
+|-
+|[[2019–20 Czech First League|2019–20]]
+|7||0||2||1||4||0||0||0||13||1
+|-
+!colspan="2"|Total
+!20!!0!!5!!1!!5!!0!!0!!0!!30!!1
+|-
+|[[FK Mladá Boleslav|Mladá Boleslav]] (loan)
+|[[2019–20 Czech First League|2019–20]]
+|Czech First League
+|13||1||1||0||colspan="2"|—||colspan="2"|—||14||1
+|-
+|Jablonec (loan)
+|[[2020–21 FK Jablonec season|2020–21]]
+|Czech First League
+|32||3||2||0||1||1||colspan="2"|—||35||4
+|-
+|Jablonec
+|[[2021–22 FK Jablonec season|2021–22]]
+|Czech First League
+|33||1||4||0||10||0||colspan="2"|—||47||1
+|-
+|rowspan="5"|[[AC Sparta Prague|Sparta Prague]]
+|[[2022–23 AC Sparta Prague season|2022–23]]
+|rowspan="4"|Czech First League
+|34||1||5||1||2||1||colspan="2"|—||42||3
+|-
+|[[2023–24 AC Sparta Prague season|2023–24]]
+|22||1||5||0||11||0||colspan="2"|—||38||1
+|-
+|[[2024–25 AC Sparta Prague season|2024–25]]
+|29||2||4||1||9||0||colspan="2"|—||42||3
+|-
+|[[2025–26 Czech First League|2025–26]]
+|25||1||1||0||10||0||colspan="2"|—||36||1
+|-
+!colspan="2"|Total
+!112!!5!!15!!2!!32!!1!!colspan="2"|—!!158!!8
+|-
+!colspan="3"|Career total
+!372!!17!!37!!3!!48!!2!!0!!0!!458!!22
+|}
+
+===International===
+{{updated|31 May 2026}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="7"|[[Czech Republic national football team|Czech Republic]]
+|2020||1||0
+|-
+|2021||0||0
+|-
+|2022||5||0
+|-
+|2023||3||0
+|-
+|2024||3||0
+|-
+|2025||8||0
+|-
+|2026||2||0
+|-
+!colspan="2"|Total!!22!!0
+|}
+
+==Honours==
+'''Sparta Prague'''
+*[[Czech First League]]: [[2022–23 Czech First League|2022–23]],<ref>{{Cite news|agency=[[Czech News Agency]]|date=23 May 2023|accessdate=23 May 2023|title=Sparta v euforii! Remíza na Slovácku odstartovala mistrovské oslavy|url=https://www.sport.cz/clanek/fotbal-ceska-1-liga-sparta-v-euforii-remiza-na-slovacku-odstartovala-mistrovske-oslavy-4229432 |website=Sport.cz|language=cs}}</ref> [[2023–24 Czech First League|2023–24]]<ref name="blesk.cz 2024">{{Cite news|title=SESTŘIH: Boleslav - Sparta 0:5. Titul pro Letenské! Kuchta dal čtyři góly|url=https://isport.blesk.cz/clanek/fotbal-1-liga-rocnik-2023-24/447579/sestrih-boleslav-sparta-0-5-titul-pro-letenske-kuchta-dal-ctyri-goly.html|website=[[Blesk]]|date=18 May 2024|language=cs|publisher=[[Czech News Center]]|agency=[[Czech News Agency]]|access-date=19 May 2024}}</ref>
+*[[Czech Cup]]: [[2023–24 Czech Cup|2023–24]]<ref name="sport.cz 2024">{{Cite news|last=Neumann|first=Robert|title=Sparta slaví double! Triumf v nervózním finále trefil Birmančevič|url=https://www.sport.cz/clanek/fotbal-pohar-fotbaliste-sparty-budou-ve-finale-domaciho-poharu-v-plzni-usilovat-o-zisk-double-5028779|website=Sport.cz|date=22 May 2024|language=cs|publisher=Borgis|access-date=23 May 2024}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Webarchive |url=https://web.archive.org/web/20120322120549/http://www.fotbal.cz/c/nat/players/viewstat.asp?name=ZelenyJaroslav |date=dmy |title=Jaroslav Zelený at ČMFS {{in lang|cs}} }}
+* {{FACR player|new_id=3274|old_id=ZelenyJaroslav}}
+* [http://guardian.touch-line.com/?Lang=0&CTID=27&CPID=89&pStr=Player&PLID=221560&TEID=935 Guardian Football] {{Webarchive|url=https://web.archive.org/web/20121011113914/http://guardian.touch-line.com/?Lang=0&CTID=27&CPID=89&pStr=Player&PLID=221560&TEID=935 |date=11 October 2012 }}
+* {{Soccerway|jaroslav-zeleny/132709}}
+* {{Fotbal DNES|new_id=243|old_id=3009617}}
+
+{{AC Sparta Prague squad}}
+{{Czech Republic squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Zeleny, Jaroslav}}
+[[Category:1992 births]]
+[[Category:Living people]]
+[[Category:21st-century Czech sportsmen]]
+[[Category:Czech men's footballers]]
+[[Category:Footballers from Hradec Králové]]
+[[Category:Men's association football full-backs]]
+[[Category:Men's association football central defenders]]
+[[Category:Czech Republic men's international footballers]]
+[[Category:Czech Republic men's youth international footballers]]
+[[Category:Czech First League players]]
+[[Category:Czech National Football League players]]
+[[Category:FC Hradec Králové players]]
+[[Category:MFK Karviná players]]
+[[Category:FK Jablonec players]]
+[[Category:SK Slavia Prague players]]
+[[Category:FK Mladá Boleslav players]]
+[[Category:AC Sparta Prague players]]
+[[Category:2026 FIFA World Cup players]]
+
+
+{{CzechRepublic-footy-defender-stub}}

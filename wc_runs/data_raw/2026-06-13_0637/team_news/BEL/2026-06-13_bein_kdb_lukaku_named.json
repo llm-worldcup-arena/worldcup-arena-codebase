@@ -1,0 +1,16 @@
+{
+ "team": "BEL",
+ "source": "beIN SPORTS",
+ "url": "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/de-bruyne-and-lukaku-named-in-belgium-world-cup-squad-despite-injuries-2026-05-15",
+ "title": "De Bruyne and Lukaku named in Belgium World Cup squad despite injuries",
+ "news_date": "2026-06-13",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-13",
+ "fetched": "2026-06-13_0637",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "Kevin De Bruyne and Romelu Lukaku have both been included in Belgium's squad for the 2026 World Cup this summer.\n\nBoth De Bruyne and Lukaku are currently sidelined for Napoli with an eye and a hip injury respectively, though they are set to feature in their fourth World Cup finals.\n\nLukaku is Belgium's joint-top scorer in the World Cup, with five (level with Marc Wilmots), while De Bruyne is their joint-top assister (four – level with Eden Hazard).\n\nBelgium are making their 15th World Cup appearance; no European team has qualified for as many tournaments without ever winning the trophy.\n\nRudi Garcia, who is set to become the fourth non-Belgian to take charge of the team at a World Cup, did leave out some notable players.\n\nChelsea midfielder Romeo Lavia, who has continued to struggle with injuries this season, has been left out along with Lois Openda, who has scored just once in 24 Serie A games for Juventus in 2025-26.\n\nYoungsters Mika Godts and Arthur Vermeeren have also missed out on the squad; Godts has directly contributed to 29 goals (17 goals, 12 assists) in 31 Eredivisie games for Ajax this season.\n\nPremier League stars Jeremy Doku, Leandro Trossard, Youri Tielemans and Amadou Onana were all named in Garcia's 26-man squad.\n\nThibaut Courtois (Real Madrid), Senne Lammens (Manchester United), Mike Penders (Strasbourg); Timothy Castagne (Fulham), Zeno Debast (Sporting CP), Maxim De Cuyper (Brighton), Koni De Winter (AC Milan), Brandon Mechele (Club Brugge), Nathan Ngoy (Lille), Joaquin Seys (Club Brugge), Arthur Theate (Frankfurt); Kevin De Bruyne (Napoli), Amadou Onana (Aston Villa), Nicolas Raskin (Rangers), Youri Tielemans (Aston Villa), Hans Vanaken (Club Brugge), Axel Witsel (Girona); Charles De Ketelaere (Atalanta), Jeremy Doku (Manchester City); Matias Fernandez Pardo (Lille), Romelu Lukaku (Napoli), Dodi Lukebakio (Benfica), Leandro Trossard (Arsenal), Diego Moreira (Strasbourg), Alexis Saelemaekers (AC Milan).",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

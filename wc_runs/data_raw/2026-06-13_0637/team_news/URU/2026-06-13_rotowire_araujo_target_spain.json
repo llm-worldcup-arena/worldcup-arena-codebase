@@ -1,0 +1,16 @@
+{
+ "team": "URU",
+ "source": "RotoWire",
+ "url": "https://www.rotowire.com/soccer/headlines/ronald-araujo-injury-targeting-spain-clash-518907",
+ "title": "Ronald Araujo Injury: Targeting Spain clash | RotoWire",
+ "news_date": "2026-06-13",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "asof": "2026-06-13",
+ "fetched": "2026-06-13_0637",
+ "method": "jsonld:articleBody",
+ "status": "ok",
+ "original_text": "Araujo underwent the treatment in coordination with Barcelona's medical services and the AUF, with the sole objective of accelerating his recovery and ensuring he is fully available to coach Marcelo Bielsa as quickly as possible. The AUF confirmed the target is to have their captain available for Uruguay's group stage fixture against Spain on June 26, with the carefully managed approach reflecting the importance they place on having one of their most important defender fit and ready for the tournament's most anticipated clash. Jose Maria Gimenez (ankle) and Sebastian Caceres (concussion) have been managing issues ahead of the tournament but could pair in the opener against Saudi Arabia. Santi Bueno remains also a possible option to start in central defense for the Celeste.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

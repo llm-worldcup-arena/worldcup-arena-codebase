@@ -1,0 +1,35 @@
+===Current squad===
+The following 26 players were called up to the [[2026 FIFA World Cup]].<ref>{{cite web |trans-title=We are announcing the roster for the 🇰🇷South Korea national football team participating in the 2026 FIFA World Cup in North America!|script-title=ko:2026 FIFA 북중미 월드컵에 참가하는 🇰🇷대한민국 축구국가대표팀의 명단을 공개합니다!|url=https://www.instagram.com/p/DYY_nO7D-SP/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA== |publisher=[[Korea Football Association]] |access-date=16 May 2026 |language=ko}}</ref><ref>{{cite web |trans-title=Squad List |script-title=ko:선수 명단 |url=https://www.kfa.or.kr/national/?act=nt_man |publisher=[[Korea Football Association]] |access-date=16 May 2026 |language=ko}}</ref>
+<br>''Caps and goals updated as of 3 June 2026, after the match against [[El Salvador national football team|El Salvador]].''
+
+{{nat fs g start}}
+{{nat fs g player|pos=GK|no=1|name=[[Kim Seung-gyu]]|age={{birth date and age|1990|9|30|df=y}}|caps=87|goals=0|club=[[FC Tokyo]]|clubnat=JPN}}
+{{nat fs g player|pos=GK|no=12|name=[[Song Bum-keun]]|age={{birth date and age|1997|10|15|df=y}}|caps=3|goals=0|club=[[Jeonbuk Hyundai Motors]]|clubnat=KOR}}
+{{nat fs g player|pos=GK|no=21|name=[[Jo Hyeon-woo]]|age={{birth date and age|1991|9|25|df=y}}|caps=48|goals=0|club=[[Ulsan HD FC|Ulsan HD]]|clubnat=KOR}}
+{{nat fs break}}
+{{nat fs g player|pos=DF|no=2|name=[[Lee Han-beom]]|age={{birth date and age|2002|6|17|df=y}}|caps=8|goals=0|club=[[FC Midtjylland|Midtjylland]]|clubnat=DEN}}
+{{nat fs g player|pos=DF|no=3|name=[[Lee Gi-hyuk]]|age={{birth date and age|2000|7|7|df=y}}|caps=3|goals=0|club=[[Gangwon FC]]|clubnat=KOR}}
+{{nat fs g player|pos=DF|no=4|name=[[Kim Min-jae (footballer)|Kim Min-jae]]|age={{birth date and age|1996|11|15|df=y}}|caps=79|goals=4|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs g player|pos=DF|no=5|name=[[Kim Tae-hyeon]]|age={{birth date and age|2000|9|17|df=y}}|caps=7|goals=0|club=[[Kashima Antlers]]|clubnat=JPN}}
+{{nat fs g player|pos=DF|no=13|name=[[Lee Tae-seok]]|age={{birth date and age|2002|7|28|df=y}}|caps=15|goals=1|club=[[FK Austria Wien|Austria Wien]]|clubnat=AUT}}
+{{nat fs g player|pos=DF|no=14|name=[[Cho Wi-je]]|age={{birth date and age|2001|8|25|df=y}}|caps=1|goals=0|club=[[Jeonbuk Hyundai Motors]]|clubnat=KOR}}
+{{nat fs g player|pos=DF|no=15|name=[[Kim Moon-hwan]]|age={{birth date and age|1995|8|1|df=y}}|caps=35|goals=0|club=[[Daejeon Hana Citizen]]|clubnat=KOR}}
+{{nat fs g player|pos=DF|no=16|name=[[Park Jin-seob (footballer, born 1995)|Park Jin-seob]]|age={{birth date and age|1995|10|23|df=y}}|caps=14|goals=1|club=[[Zhejiang Professional F.C.|Zhejiang FC]]|clubnat=CHN}}
+{{nat fs g player|pos=DF|no=22|name=[[Seol Young-woo]]|age={{birth date and age|1998|12|5|df=y}}|caps=34|goals=0|club=[[Red Star Belgrade]]|clubnat=SRB}}
+{{nat fs g player|pos=DF|no=23|name=[[Jens Castrop]]|age={{birth date and age|2003|7|29|df=y}}|caps=7|goals=0|club=[[Borussia Mönchengladbach]]|clubnat=GER}}
+{{nat fs break}}
+{{nat fs g player|pos=MF|no=6|name=[[Hwang In-beom]]|age={{birth date and age|1996|9|20|df=y}}|caps=73|goals=6|club=[[Feyenoord]]|clubnat=NED}}
+{{nat fs g player|pos=MF|no=8|name=[[Paik Seung-ho]]|age={{birth date and age|1997|3|17|df=y}}|caps=27|goals=3|club=[[Birmingham City F.C.|Birmingham City]]|clubnat=ENG}}
+{{nat fs g player|pos=MF|no=10|name=[[Lee Jae-sung]]|age={{birth date and age|1992|8|10|df=y}}|caps=105|goals=15|club=[[1. FSV Mainz 05|Mainz 05]]|clubnat=GER}}
+{{nat fs g player|pos=MF|no=11|name=[[Hwang Hee-chan]]|age={{birth date and age|1996|1|26|df=y}}|caps=79|goals=17|club=[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]|clubnat=ENG}}
+{{nat fs g player|pos=MF|no=17|name=[[Bae Jun-ho]]|age={{birth date and age|2003|8|21|df=y}}|caps=13|goals=2|club=[[Stoke City F.C.|Stoke City]]|clubnat=ENG}}
+{{nat fs g player|pos=MF|no=19|name=[[Lee Kang-in]]|age={{birth date and age|2001|2|19|df=y}}|caps=47|goals=11|club=[[Paris Saint-Germain F.C.|Paris Saint-Germain]]|clubnat=FRA}}
+{{nat fs g player|pos=MF|no=20|name=[[Yang Hyun-jun]]|age={{birth date and age|2002|5|25|df=y}}|caps=9|goals=0|club=[[Celtic F.C.|Celtic]]|clubnat=SCO}}
+{{nat fs g player|pos=MF|no=24|name=[[Kim Jin-gyu (footballer, born 1997)|Kim Jin-gyu]]|age={{birth date and age|1997|2|24|df=y}}|caps=22|goals=3|club=[[Jeonbuk Hyundai Motors]]|clubnat=KOR}}
+{{nat fs g player|pos=MF|no=25|name=[[Eom Ji-sung]]|age={{birth date and age|2002|5|9|df=y}}|caps=9|goals=2|club=[[Swansea City A.F.C.|Swansea City]]|clubnat=WAL}}
+{{nat fs g player|pos=MF|no=26|name=[[Lee Dong-gyeong]]|age={{birth date and age|1997|9|20|df=y}}|caps=18|goals=4|club=[[Ulsan HD FC|Ulsan HD]]|clubnat=KOR}}
+{{nat fs break}}
+{{nat fs g player|pos=FW|no=7|name=[[Son Heung-min]]|other=[[Captain (association football)|captain]]|age={{birth date and age|1992|7|8|df=y}}|caps=144|goals=56|club=[[Los Angeles FC]]|clubnat=USA}}
+{{nat fs g player|pos=FW|no=9|name=[[Cho Gue-sung]]|age={{birth date and age|1998|1|25|df=y}}|caps=44|goals=12|club=[[FC Midtjylland|Midtjylland]]|clubnat=DEN}}
+{{nat fs g player|pos=FW|no=18|name=[[Oh Hyeon-gyu]]|age={{birth date and age|2001|4|12|df=y}}|caps=27|goals=6|club=[[Beşiktaş J.K.|Beşiktaş]]|clubnat=TUR}}
+{{nat fs end}}

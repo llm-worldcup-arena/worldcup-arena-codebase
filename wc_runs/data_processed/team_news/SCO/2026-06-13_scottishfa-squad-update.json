@@ -1,0 +1,16 @@
+{
+ "team": "SCO",
+ "source": "Scottish FA",
+ "url": "https://www.scottishfa.co.uk/en/news/fifa-world-cup-2026-squad-update",
+ "title": "FIFA World Cup 2026 squad update - Scottish FA",
+ "news_date": "2026-06-13",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "asof": "2026-06-13",
+ "fetched": "2026-06-13_0748",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "We regret to announce that the knee injury sustained by Billy Gilmour in today's win over Curaçao will rule him out of participation in FIFA World Cup 2026.\n\nEveryone involved with the Scotland Men's National Team wishes Billy a speedy recovery. He will now return to his club, SSC Napoli, to commence rehabilitation.\n\nSteve Clarke: \"I am devastated for Billy because he has been an integral part of our World Cup qualifying campaign. The timing of this injury is so, so cruel and we all feel for him.\n\n\"He knows what we all think of him as a footballer and a person and while no words will give him any comfort tonight, I am certain Billy will have many major tournaments ahead of him in the future.\"",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

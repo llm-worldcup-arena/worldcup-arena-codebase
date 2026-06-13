@@ -1,0 +1,16 @@
+{
+ "team": "BRA",
+ "source": "Olympics.com",
+ "url": "https://www.olympics.com/en/news/fifa-world-cup-2026-brazil-players-squad-list-key-stats-schedule",
+ "title": "Brazil at FIFA World Cup 2026: Can Neymar and Vini Jr make the difference? All players, full squad list, key stats and schedule",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-13",
+ "fetched": "2026-06-13_0247",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Brazil at FIFA World Cup 2026: Can Neymar and Vini Jr make the difference? All players, full squad list, key stats and schedule\nQuick facts\nCaptain: Marquinhos\nManager: Carlo Ancelotti\nWorld Cup appearances (including 2026): 23\nBest World Cup result: Winners (1958, 1962, 1970, 1994, 2002)\nFIFA World Cup 2026 – Brazil’s full squad\nGoalkeepers: Alisson (Liverpool), Ederson (Fenerbahçe), Weverton (Grêmio)\nDefenders: Éderson (Atalanta)*, Douglas Santos (Zenit), Alex Sandro (Flamengo), Gabriel Magalhães (Arsenal), Marquinhos (PSG), Danilo (Flamengo), Bremer (Juventus), Ibañez (Al-Ahli), Léo Pereira (Flamengo)\nMidfielders: Bruno Guimarães (Newcastle), Casemiro (Manchester United), Danilo Santos (Botafogo), Fabinho (Al-Ittihad),Lucas Paquetá (Flamengo), Raphinha (Barcelona), Neymar (Santos)\nForwards: Vinícius Júnior (Real Madrid), Luiz Henrique (Zenit), Matheus Cunha (Manchester United), Gabriel Martinelli (Arsenal), Igor Thiago (Brentford), Endrick (Lyon), Rayan (Bournemouth)\n*Éderson was a late call-up to the squad to replace Wesley, who withdrew with injury on 7 June",
+ "_note": "team_data 赛前伤停/新闻 raw 全量留底;摘要(digest)另写进 summary ⑦/块B,可凭此回溯全文。",
+ "news_date": "2026-06-13"
+}

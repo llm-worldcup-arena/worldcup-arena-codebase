@@ -1,0 +1,90 @@
+{{Short description|Jordanian association football team for men}}
+{{About|the men's team|the women's team|Jordan women's national football team}}
+{{Use dmy dates|date=November 2022}}
+{{Infobox national football team
+| Nickname              = النشامى (The Chivalrous Ones)<br /><ref>{{cite news |last1=Smale |first1=Simon |title=Who the Socceroos are facing as the Asian Cup kicks off, and when to watch |url=https://www.abc.net.au/news/2019-01-06/socceroos-asian-cup-group-b-preview-when-to-watch/10685218 |website=ABC News |date=5 January 2019 |publisher=Australian Broadcasting Corporation |access-date=6 January 2019 |archive-date=5 January 2019 |archive-url=https://web.archive.org/web/20190105221045/https://www.abc.net.au/news/2019-01-06/socceroos-asian-cup-group-b-preview-when-to-watch/10685218 |url-status=live }}</ref>
+| Name                  = Jordan
+| Badge                 = Jordan national football team logo 2024.svg 
+| Badge_size            = 175px
+| Association           = [[Jordan Football Association]] (JFA) 
+| Confederation         = [[Asian Football Confederation|AFC]] (Asia)
+| Sub-confederation     = [[West Asian Football Federation|WAFF]] (West Asia)
+| Coach                 = [[Jamal Sellami]]
+| Captain               = [[Ihsan Haddad]]
+| Most caps             = [[Amer Shafi]] (171)<ref>{{Cite web |url=https://www.rsssf.org/miscellaneous/sabbah-intl.html |title=Amer Shafi Sabbah Mahmoud - Century of International Appearances |access-date=2 February 2023 |archive-date=10 May 2017 |archive-url=https://web.archive.org/web/20170510042400/http://www.rsssf.com/miscellaneous/sabbah-intl.html |url-status=live }}</ref><ref>{{Cite web |url=https://digitalhub.fifa.com/m/7a29d8a2cac79416/original/Century-Club-01112021.pdf |title=FIFA Century Club |access-date=3 October 2023 |archive-date=4 August 2021 |archive-url=https://web.archive.org/web/20210804001601/https://digitalhub.fifa.com/m/453a231298ba04f1/original/FIFA-Century-Club-03082021.pdf |url-status=live }}</ref>
+| Top scorer            = [[Hamza Al-Dardour]] (33)
+| Home Stadium          = [[Amman International Stadium]]<br>[[King Abdullah II Stadium]]
+| FIFA Trigramme        = JOR
+| FIFA Rank             = {{FIFA World Rankings|JOR}}<ref>{{Cite web|url=http://www.fifa.com/fifa-world-ranking/associations/association=jor/men/index.html|archive-url=https://web.archive.org/web/20150219140633/http://www.fifa.com/fifa-world-ranking/associations/association=jor/men/index.html|url-status=dead|archive-date=19 February 2015|title=The FIFA/Coca-Cola World Ranking - Associations - Jordan - Men's|website=FIFA|access-date=22 February 2019}}</ref>
+| FIFA max              = 37
+| FIFA max date         = August – September 2004
+| FIFA min              = 152
+| FIFA min date         = July 1996
+| Elo Rank              = {{nowrap|{{World Football Elo Ratings|Jordan}}}}
+| Elo max               = 37
+| Elo max date          = 23 July 2004
+| Elo min               = 143
+| Elo min date          = September 1984, July 1985
+| pattern_b1            = _jor26h
+| pattern_la1           = _jor26h
+| pattern_ra1           = _jor26h
+| pattern_sh1           = _jor26h
+| pattern_so1           = _jor26h
+| leftarm1              = FFFFFF
+| body1                 = FFFFFF
+| rightarm1             = FFFFFF
+| shorts1               = FFFFFF
+| socks1                = FFFFFF
+| pattern_b2            = _jor26a
+| pattern_la2           = _jor26a
+| pattern_ra2           = _jor26a
+| pattern_sh2           = _jor26a
+| pattern_so2           = _jor26a
+| leftarm2              = FF0000
+| body2                 = FF0000
+| rightarm2             = FF0000
+| shorts2               = FF0000
+| socks2                = FF0000
+| pattern_b3            = _jor24T
+| pattern_la3           = _jor24T
+| pattern_ra3           = _jor24T
+| pattern_sh3           = 
+| pattern_so3           = 
+| leftarm3              = 000000
+| body3                 = 000000
+| rightarm3             = 000000
+| shorts3               = 000000
+| socks3                = 000000
+| First game            = {{fb|Syria|1932}} 3–1 {{fb-rt|JOR}}<br>([[Alexandria]], Egypt; 1 August 1953)
+| Largest win           = {{fb|JOR}} 9–0 {{fb-rt|NEP}}<br>([[Amman]], Jordan; 23 July 2011)
+| Largest loss          = {{fb|Lebanon|1943}} 6–0 {{fb-rt|Jordan}}<br>([[Beirut]], Lebanon; 22 October 1957)<br>{{fb|IRQ|1963}} 7–1 {{fb-rt|Jordan}}<br>(Iraq; 19 February 1982)<br>{{fb|China}} 6–0 {{fb-rt|Jordan}}<br>([[Guangzhou]], China; 15 September 1984)<br>{{fb|JPN}} 6–0 {{fb-rt|JOR}}<br>([[Saitama, Saitama|Saitama]], Japan; 8 June 2012)<br>{{fb|NOR}} 6–0 {{fb-rt|JOR}}<br>([[Oslo]], Norway; 7 September 2023)
+| World cup apps        = 1
+| World cup first       = 2026
+| World cup best        = TBD ([[2026 FIFA World Cup|2026]])
+| Regional name         = [[AFC Asian Cup|Asian Cup]]
+| Regional cup apps     = 6
+| Regional cup first    = [[2004 AFC Asian Cup|2004]]
+| Regional cup best     = Runners-up ([[2023 AFC Asian Cup|2023]])
+| 2ndRegional name      = [[WAFF Championship]]
+| 2ndRegional cup apps  = 9
+| 2ndRegional cup first = [[2000 WAFF Championship|2000]]
+| 2ndRegional cup best  = Runners-up ([[2002 WAFF Championship|2002]], [[2008 WAFF Championship|2008]], [[2013 WAFF Championship|2013]])
+| medaltemplates        = 
+{{MedalCompetition|[[AFC Asian Cup]]}}
+{{MedalSilver|[[2023 AFC Asian Cup|2023 Qatar]]|[[2023 AFC Asian Cup squads#Group E|Team]]}}
+{{MedalCompetition|[[FIFA Arab Cup]]}}
+{{MedalSilver|[[2025 FIFA Arab Cup|2025 Qatar]]|[[2025 FIFA Arab Cup squads#Group C|Team]]}}
+{{MedalCompetition|[[Football at the Arab Games|Arab Games]]}}
+{{MedalGold|[[1997 Arab Games|1997 Beirut]]|Team}}
+{{MedalGold|[[1999 Arab Games|1999 Amman]]|Team}}
+{{MedalSilver|[[2011 Arab Games|2011 Doha]]|Team}}
+{{MedalCompetition|[[WAFF Championship]]}}
+{{MedalSilver|[[2002 WAFF Championship|2002 Syria]]|Team}}
+{{MedalSilver|[[2008 WAFF Championship|2008 Iran]]|Team}}
+{{MedalSilver|[[2013 WAFF Championship|2013 Qatar]]|[[2013 WAFF Championship squads#Group C|Team]]}}
+| website               = {{URL|https://www.jfa.jo/|jfa.jo}} {{in lang|ar}}
+|3rdRegional cup apps=10|3rdRegional name=[[FIFA Arab Cup]]|3rdRegional cup first=[[1963 Arab Cup|1963]]|3rdRegional cup best=Runners-up ([[2025 FIFA Arab Cup|2025]])}}
+
+The '''Jordan national football team''' ({{langx|ar|منتخب الأردن لكرة القدم}}), nicknamed '''''Al Nashama''''' ({{lit|''The Chivalrous Ones''}}), represents [[Jordan]] in men's international [[Association football|football]]. It is under the jurisdiction of the [[Jordan Football Association]]. 
+
+Jordan has played in five [[AFC Asian Cup]] tournaments, appearing in the final of a major tournament for the first time in the [[2023 AFC Asian Cup|2023]] edition, finishing as runners-up. They also finished runners-up of the [[FIFA Arab Cup]] in [[2025 FIFA Arab Cup|2025]], and have won the [[Arab Games]] twice, in [[1997 Arab Games|1997]] and [[1999 Arab Games|1999]]. The team reached the [[WAFF Championship]] final on three occasions but never won it. The country qualified for their first [[FIFA World Cup]] in [[2026 FIFA World Cup|2026]].

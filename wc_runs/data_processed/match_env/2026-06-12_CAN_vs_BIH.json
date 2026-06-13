@@ -1,0 +1,43 @@
+{
+ "match": {
+  "slug": "2026-06-12_CAN_vs_BIH",
+  "date": "2026-06-12",
+  "home": "CAN",
+  "away": "BIH",
+  "round": "group",
+  "group": "B"
+ },
+ "kickoff": {
+  "美东": "2026-06-12T15:00:00-04:00",
+  "北京": "06-13 03:00"
+ },
+ "venue": {
+  "name": "BMO Field",
+  "city": "Toronto",
+  "altitude_m": 76,
+  "roof": "open",
+  "surface": "grass"
+ },
+ "weather": {
+  "开球时段": {
+   "温度C": 25.7,
+   "体感C": 25.3,
+   "降水概率%": 0,
+   "降水mm": 0.0,
+   "风速kmh": 24.7,
+   "湿度%": 50,
+   "天况": "晴"
+  },
+  "source": "open-meteo(免费预报API)",
+  "fetched": "2026-06-13_0748",
+  "_note": "临近开球建议 --refresh 刷新"
+ },
+ "referee": {
+  "name": "Facundo Tello(阿根廷)",
+  "var": "Hernan Mastrangelo(阿根廷)",
+  "source": "WebSearch多源(Athlon/FourFourTwo/Yahoo)",
+  "fetched": "2026-06-13_0748",
+  "brief": "- **执法风格与尺度**：Facundo Tello 在南美解放者杯及世预赛中出牌率偏高，风格偏严，对战术犯规和争议动作容忍度较低。VAR 使用方面无显著倾向性记录。\n- **大赛履历**：执法过 2021 美洲杯、多届解放者杯淘汰赛及 2022 世界杯南美区预选赛；2022 卡塔尔世界杯期间担任第四官员，尚未有世界杯正赛主裁记录。\n- **本场潜在影响**：若比赛对抗激烈或出现频繁犯规，其南美执法背景可能导致出牌较多；但世界杯舞台首秀可能使其在关键判罚上更趋谨慎，与阿根廷籍 VAR Mastrangelo 的沟通或更顺畅。"
+ },
+ "_note": "环境=比赛+时间+地点 确定;天气为开球时段;顶棚 retractable/fixed-canopy 时天气影响有限。"
+}

@@ -1,0 +1,231 @@
+{{short description|New Zealand footballer (born 1996)}}
+{{Use dmy dates|date=December 2022}}
+{{Infobox football biography
+| name = Alex Rufer
+| full_name = Alex Arthur Rufer<ref name="FIFA U-20 World Cup New Zealand 2015 List of Players">{{Cite web |title=FIFA U-20 World Cup New Zealand 2015 List of Players |url=http://www.fifadata.com/document/FWYC/2015/pdf/FWYC_2015_SquadLists.pdf |page=14 |publisher=[[FIFA]] |date=30 May 2015 |access-date=1 June 2015}}</ref>
+| image = Alex Rufer.jpg
+| image_size = 200px
+| caption = Rufer playing for the [[Wellington Phoenix FC|Wellington Phoenix]] in 2024.
+| birth_date = {{birth date and age|df=yes|1996|6|12}}<ref name="FIFA U-20 World Cup New Zealand 2015 List of Players"/>
+| birth_place = [[Geneva]], Switzerland
+| height = 1.84 m<ref name="FIFA U-20 World Cup New Zealand 2015 List of Players"/>
+| position = [[Defensive midfielder]]
+| currentclub = [[Wellington Phoenix FC|Wellington Phoenix]]
+| clubnumber = 14
+| youthyears1 = {{0|0000}}–2013
+| youthclubs1 = [[YoungHeart Manawatu]]
+| years1 = 2013
+| clubs1 = [[YoungHeart Manawatu]]
+| caps1 = 5
+| goals1 = 0
+| years2 = 2013
+| clubs2 = [[Wairarapa United]]
+| caps2 = 1
+| goals2 = 1
+| years3 = 2013–2022
+| clubs3 = [[Wellington Phoenix FC Reserves|Wellington Phoenix Reserves]]
+| caps3 = 28
+| goals3 = 3
+| years4 = 2013–
+| clubs4 = [[Wellington Phoenix FC|Wellington Phoenix]]
+| caps4 = 167
+| goals4 = 6
+| nationalyears1 = 2013–2014
+| nationalcaps1 = 13
+| nationalgoals1 = 3
+| nationalteam1 = [[New Zealand national under-17 football team|New Zealand U17]]
+| nationalyears2 = 2015
+| nationalcaps2 = 1
+| nationalgoals2 = 1
+| nationalteam2 = [[New Zealand national under-20 football team|New Zealand U20]]
+| nationalyears3 = 2015–2020
+| nationalcaps3 = 4
+| nationalgoals3 = 1
+| nationalteam3 = [[New Zealand national under-23 football team|New Zealand U23]]
+| nationalyears4 = 2015–
+| nationalcaps4 = 23
+| nationalgoals4 = 0
+| nationalteam4 = [[New Zealand men's national football team|New Zealand]]
+| club-update = 29 November 2025
+| nationalteam-update = 18 November2024
+| medaltemplates = {{MedalSport|Men's [[association football|football]]}}
+{{MedalCountry|{{fb|NZ}}}}
+{{MedalCompetition|[[OFC Men's Nations Cup|OFC Nations Cup]]}}
+{{Medal|W|[[2024 OFC Men's Nations Cup|2024 Fiji/Vanuatu]]|}}
+{{MedalCompetition|[[OFC U-17 Championship]]}}
+{{Medal|W|[[2013 OFC U-17 Championship|2013 Samoa/Vanuatu]]|}}
+}}
+'''Alex Arthur Rufer''' ({{IPA|en|ˈɹuːfə(ɹ)}};<ref>https://www.instagram.com/reel/DPDEMkIEuLW/?igsh=M281aGtrdnplZXJv</ref> born 12 June 1996) is a New Zealand professional [[association football|footballer]] who captains and plays as a [[defensive midfielder]] for [[Wellington Phoenix FC|Wellington Phoenix]] in the [[A-League]]. Born in Switzerland, he represents the [[New Zealand men's national football team|New Zealand national team]].
+
+==Personal life==
+Rufer is the son of former international [[New Zealand men's national football team|New Zealand]] player [[Shane Rufer]], and the nephew of Oceania Player of the Century [[Wynton Rufer]]. He also attended [[Palmerston North Boys' High School]].<ref>{{cite news|url=http://www.stuff.co.nz/sport/football/9001612/Young-Alex-Rufer-hopes-to-keep-name-in-lights|title=Young Alex Rufer hopes to keep name in lights |first=Sam|last=Worthington|newspaper=[[Stuff.co.nz]]|date=5 August 2013}}</ref>
+
+==Club career==
+Rufer started his career with [[YoungHeart Manawatu]].
+
+In February 2013, Rufer joined [[Wairarapa United]].<ref>{{cite news|url=http://www.nzherald.co.nz/wairarapa-times-age/sport/news/article.cfm?c_id=1503412&objectid=11091230|title=Rufer to join United|first=Gary|last=Caffell|newspaper=[[Wairarapa Times-Age]]|date=21 February 2013}}</ref>
+
+In August 2013, ahead of the [[A-League]] season, Rufer signed a three-year contract with [[Wellington Phoenix FC|Wellington Phoenix]].<ref>{{cite news|url=http://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&objectid=10907326|title=Rufer signs three-year deal with Phoenix|newspaper=[[The New Zealand Herald]]|date=2 August 2013}}</ref> Rufer made his debut for the Wellington Phoenix in the 3–2 away win against [[Newcastle Jets FC|Newcastle Jets]] on 9 February 2014.<ref>{{cite news |last=Barclay |first=Chris |date=9 February 2014 |title=Hicks the man for Phoenix in win over Newcastle |url=http://www.stuff.co.nz/sport/football/9702367/Hicks-the-man-for-Phoenix-in-win-over-Newcastle |url-status= |work=[[Stuff (website)|Stuff]] |archive-url=https://web.archive.org/web/20140210211350/http://www.stuff.co.nz/sport/football/9702367/Hicks-the-man-for-Phoenix-in-win-over-Newcastle |archive-date=10 February 2014 |access-date=16 March 2022}}</ref>
+
+In a 2–1 loss against [[Brisbane Roar FC|Brisbane Roar]] on 12 March 2022, Rufer suffered an [[anterior cruciate ligament]] (ACL) rupture. He was expected to return from injury 12 months later.<ref>{{cite news|url=https://www.stuff.co.nz/sport/football/a-league/300540744/wellington-phoenix-captain-alex-rufer-out-for-a-year-with-seasonending-injury|title=Wellington Phoenix captain Alex Rufer out for a year with ACL injury|accessdate=15 March 2022|date=15 March 2022|website=[[Stuff (website)|Stuff]]|author=Rollo, Phillip}}</ref>
+
+==International career==
+Rufer made his international debut for the [[New Zealand men's national football team|All Whites]] in a friendly match against Myanmar on 7 September 2015, coming on for [[Jeremy Brockie]] in the 72nd minute.<ref>{{cite web |url=http://www.nzfootball.co.nz/myanmar-fight-back-earns-draw/ |title=Myanmar fight back earns draw |publisher=nzfootball.co.nz |access-date=8 September 2015 |archive-url=https://web.archive.org/web/20150910031825/http://www.nzfootball.co.nz/myanmar-fight-back-earns-draw |archive-date=10 September 2015 |url-status=dead}}</ref>
+
+==Career statistics==
+===Club===
+{{Updated|match played on 29 April 2023}}<ref>{{Soccerway|281606|name=Alex Rufer}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|Cup
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|[[YoungHeart Manawatu]]
+|[[2012–13 New Zealand Football Championship|2012–13]]
+|[[New Zealand Football Championship|Premiership]]
+|5||0||colspan="2"|—||colspan="2"|—||5||0
+|-
+|rowspan="14"|[[Wellington Phoenix FC|Wellington Phoenix]]
+|[[2013–14 Wellington Phoenix FC season|2013–14]]
+|rowspan=8|[[A-League]]
+|1||0||colspan="2"|—||colspan="2"|—||1||0
+|-
+|[[2014–15 Wellington Phoenix FC season|2014–15]]
+|3||0||0||0||colspan="2"|—||3||0
+|-
+|[[2015–16 Wellington Phoenix FC season|2015–16]]
+|4||0||1||0||colspan="2"|—||5||0
+|-
+|[[2016–17 Wellington Phoenix FC season|2016–17]]
+|3||0||0||0||colspan="2"|—||3||0
+|-
+|[[2017–18 Wellington Phoenix FC season|2017–18]]
+|11||0||1||0||colspan="2"|—||12||0
+|-
+|[[2018–19 Wellington Phoenix FC season|2018–19]]
+|24||0||1||0||1{{efn|name=ALFS|Appearance in the [[A-League Men finals series|A-League final series]]}}||0||26||0
+|-
+|[[2019–20 Wellington Phoenix FC season|2019–20]]
+|19||0||1||0||1{{efn|name=ALFS}}||0||21||0
+|-
+|[[2020–21 Wellington Phoenix FC season|2020–21]]
+|21||0||0||0||colspan="2"|—||21||0
+|-
+|[[2021–22 Wellington Phoenix FC season|2021–22]]
+|rowspan=5|A-League Men
+|14||0||3||0||colspan="2"|—||17||0
+|-
+|[[2022–23 Wellington Phoenix FC season|2022–23]]
+|18||2||0||0||1{{efn|name=ALFS}}||0||19||2
+|-
+|[[2023–24 Wellington Phoenix FC season|2023–24]]
+|24||3||2||0||2{{efn|name=ALFS}}||0||28||3
+|-
+|{{nowrap|[[2024–25 Wellington Phoenix FC season|2024–25]]}}
+|19||0||1{{efn|Appearance in [[2025 Australia Cup]]}}||0||colspan="2"|—||20||0
+|-
+|[[2025–26 Wellington Phoenix FC season|2025–26]]
+|23||2||1||0||colspan="2"|—||24||2
+|-
+!colspan="2"|Total
+!129!!2!!7!!0!!3!!0!!139!!2
+|-
+|rowspan="8"|{{nowrap|[[Wellington Phoenix FC Reserves|Wellington Phoenix Reserves]]}}
+|[[2014–15 New Zealand Football Championship|2014–15]]
+|rowspan=6|Premiership 
+|13||1||colspan="2"|—||colspan="2"|—||13||1
+|-
+|[[2015–16 New Zealand Football Championship|2015–16]]
+|2||0||colspan="2"|—||colspan="2"|—||2||0
+|-
+|[[2016–17 New Zealand Football Championship|2016–17]]
+|7||1||colspan="2"|—||colspan="2"|—||7||1
+|-
+|[[2017–18 New Zealand Football Championship|2017–18]]
+|4||1||colspan="2"|—||colspan="2"|—||4||1
+|-
+|[[2019–20 New Zealand Football Championship|2019–20]]
+|1||0||colspan="2"|—||colspan="2"|—||1||0
+|-
+|[[2020–21 New Zealand Football Championship|2020–21]]
+|1||0||colspan="2"|—||colspan="2"|—||1||0
+|-
+|[[2022 New Zealand National League|2022]]
+|{{nowrap|[[New Zealand National League|National League]]}}
+|1||0||colspan="2"|—||colspan="2"|—||1||0
+|-
+!colspan="2"|Total
+!29!!3!!0!!0!!0!!0!!29!!3
+|-
+!colspan="3"|Career total
+!163!!5!!7!!0!!3!!0!!173!!5
+|}
+{{notelist}}
+
+===International===
+
+==Honours==
+;New Zealand
+* [[OFC Nations Cup]]: [[2024 OFC Nations Cup|2024]]
+
+;Individual
+* [[PFA Footballer of the Year Awards|PFA A-League Team of the Season]]: [[2023–24 A-League Men|2023–24]]<ref>{{cite news|url=https://www.stuff.co.nz/sport/350279718/wellington-phoenix-dominate-pfa-league-men-team-season|first=Phillip|last=Rollo|date=16 May 2024|access-date=17 May 2024|website=[[Stuff.co.nz]]|title=Wellington Phoenix dominate PFA A-League Men team of the season}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{FIFA player|371142|Alex Rufer}}
+
+{{Wellington Phoenix FC squad}}
+{{Navboxes
+| title = New Zealand squads
+| bg          = black
+| fg          = white
+| bordercolor = black
+| list =
+{{New Zealand squad 2017 FIFA Confederations Cup}}
+{{New Zealand squad 2024 OFC Men's Nations Cup}}
+{{New Zealand squad 2026 FIFA World Cup}}
+}}
+{{Navboxes
+| title = Awards
+| bg = gold
+| fg = navy
+| list =
+{{Wellington Phoenix FC Player of the Year}}
+{{2023–24 A-League Men PFA Team of the Season}}
+}}
+
+{{DEFAULTSORT:Rufer, Alex}}
+[[Category:1996 births]]
+[[Category:Living people]]
+[[Category:Ngāti Porou people]]
+[[Category:Footballers from Geneva]]
+[[Category:New Zealand men's association footballers]]
+[[Category:New Zealand men's international footballers]]
+[[Category:New Zealand men's youth international footballers]]
+[[Category:New Zealand people of Swiss descent]]
+[[Category:Swiss men's footballers]]
+[[Category:Swiss people of New Zealand descent]]
+[[Category:Men's association football midfielders]]
+[[Category:Wellington Phoenix FC players]]
+[[Category:A-League Men players]]
+[[Category:New Zealand Football Championship players]]
+[[Category:New Zealand Māori sportspeople]]
+[[Category:2017 FIFA Confederations Cup players]]
+[[Category:2024 OFC Men's Nations Cup players]]
+[[Category:Wairarapa United players]]
+[[Category:People educated at Palmerston North Boys' High School]]
+[[Category:OFC Nations Cup–winning players]]
+[[Category:21st-century Swiss sportsmen]]
+[[Category:21st-century New Zealand sportsmen]]
+[[Category:2026 FIFA World Cup players]]

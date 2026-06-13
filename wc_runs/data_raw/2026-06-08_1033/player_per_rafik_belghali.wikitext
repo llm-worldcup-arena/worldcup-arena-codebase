@@ -1,0 +1,181 @@
+{{Short description|Algerian footballer (born 2002)}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+| name          = Rafik Belghali
+| image         = 
+| caption       = 
+| fullname      = 
+| birth_date    = {{Birth date and age|2002|6|7|df=y}}
+| birth_place   = [[Leuven]], Belgium
+| height        = 1.80m
+| position      = [[Right-back]]
+| currentclub   = [[Hellas Verona FC|Hellas Verona]]
+| clubnumber    = 7
+| youthyears1   = 2009–2010 | youthclubs1         = [[Sint-Truidense V.V.|Sint-Truiden]]
+| youthyears2   = 2010–2011 | youthclubs2         = [[PSV Eindhoven|PSV]]
+| youthyears3   = 2011–2013 | youthclubs3         = [[Lierse S.K. (1906)|Lierse]]
+| youthyears4   = 2013–2018 | youthclubs4         = [[S.V. Zulte Waregem|Zulte Waregem]]
+| youthyears5   = 2019–2020 | youthclubs5         = [[Lommel S.K.|Lommel]]
+| years1        = 2020–2023 | clubs1 = [[Lommel S.K.|Lommel]]             | caps1 = 44 | goals1 = 7
+| years2        = 2023–2025 | clubs2 = [[K.V. Mechelen|Mechelen]]         | caps2 = 48 | goals2 = 3
+| years3        = 2025–     | clubs3 = [[Hellas Verona FC|Hellas Verona]] | caps3 = 26 | goals3 = 2
+|nationalyears1 = 2022–2025
+|nationalteam1  = [[Algeria national under-23 football team|Algeria U23]]
+|nationalcaps1  = 3
+|nationalgoals1 = 0
+|nationalyears2 = 2025–
+|nationalteam2  = [[Algeria national football team|Algeria]]
+|nationalcaps2  = 11
+|nationalgoals2 = 1
+|club-update        = 25 May 2026
+|nationalteam-update = 31 March 2026
+}}
+'''Rafik Belghali''' (born 7 June 2002) is a professional [[association football|footballer]] who plays as a right-back for Italian {{Italian football updater|HellasVerona}} club [[Hellas Verona FC|Hellas Verona]]. Born in Belgium, he represents the [[Algeria national football team|Algeria national team]].
+
+==Club career==
+On 28 June 2023, Belghali signed a three-season contract with [[K.V. Mechelen|Mechelen]].<ref>{{cite web|publisher=Mechelen|url=https://www.kvmechelen.be/2023-2024/rafik-belghali-zomertransfer-2|title=Rafik Belghali is tweede zomertransfer|trans-title=Rafik Belghali is second summer transfer|date=28 June 2023|access-date=7 September 2023|language=nl}}</ref>
+
+On 19 August 2025, Belghali moved to [[Hellas Verona FC|Hellas Verona]] in Italy with a four-season contract.<ref>{{cite web|publisher=Hellas Verona FC|url=https://www.hellasverona.it/news/benvenuto-rafik-belghali-e-un-nuovo-difensore-gialloblu|title=Benvenuto Rafik! Belghali è un nuovo difensore gialloblù|trans-title=Welcome Rafik! Belghali is a new Gialloblu defender.|date=19 August 2025|access-date=19 August 2025|language=it}}</ref>
+
+==International career==
+In March 2022, Belghali was called up by [[Noureddine Ould Ali]] to the [[Algeria national under-23 football team|Algeria under-23 national team]] for the first time for a pair of friendlies against Mauritania.<ref>{{cite web|url=http://www.faf.dz/equipe-nationale-u23-ould-ali-convoque-23-joueurs-pour-la-mauritanie/|title=EQUIPE NATIONALE U23 : OULD ALI CONVOQUE 23 JOUEURS POUR LA MAURITANIE|author=FAF.dz|date=March 19, 2022|accessdate=March 23, 2022|language=French}}</ref>
+
+In his maiden call up to the [[Algeria national football team|Algerian national team]], Belghali started in a friendly against Zimbabwe on November 13, 2025.<ref>https://www.vavel.com/en-us/soccer/2025/11/13/1241112-algeria-vs-zimbabwe-live-score-friendly.html</ref>
+
+==Personal life==
+Belghali was born in Belgium to Algerian parents.<ref>{{cite web|url=http://www.dzfoot.com/2021/03/13/belgique-ishak-boussouf-dans-le-groupe-de-lommel-199760.php|title=Belgique : Ishak Boussouf dans le groupe de Lommel|author=Walid Ziani|publisher=DZfoot|language=French|date=March 13, 2021|accessdate=March 22, 2021}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 4 April 2026}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup{{efn|Includes [[Belgian Cup]], [[Copa del Rey]]}}
+!colspan="2"|Europe
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="4"|[[Lommel S.K.|Lommel]]
+|[[2020–21 Belgian First Division B|2020–21]]
+|[[Challenger Pro League]]
+|3||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||3||0
+|-
+|[[2021–22 Belgian First Division B|2021–22]]
+|Challenger Pro League
+|24||1||3||0||colspan="2"|—||colspan="2"|—||27||1
+|-
+|[[2022–23 Challenger Pro League|2022–23]]
+|Challenger Pro League
+|17||6||1||0||colspan="2"|—||colspan="2"|—||18||6
+|-
+!colspan="2"|Total
+!44!!7!!4!!0!!colspan="2"|—!!colspan="2"|—!!48!!7
+|-
+|rowspan="4"|[[K.V. Mechelen|Mechelen]]
+|[[2023–24 K.V. Mechelen season|2023–24]]
+|[[Belgian Pro League]]
+|9||2||colspan="2"|—||colspan="2"|—||colspan="2"|—||9||2
+|-
+|[[2024–25 K.V. Mechelen season|2024–25]]
+|Belgian Pro League
+|36||1||2||0||colspan="2"|—||colspan="2"|—||38||1
+|-
+|[[2025–26 Belgian Pro League|2025–26]]
+|Belgian Pro League
+|3||0||0||0||colspan="2"|—||colspan="2"|—||3||0
+|-
+!colspan="2"|Total
+!48!!3!!2!!0!!colspan="2"|—!!colspan="2"|—!!50!!3
+|-
+|[[Hellas Verona FC|Hellas Verona]]
+|[[2025–26 Hellas Verona FC season|2025–26]]
+|[[Serie A]]
+|19||2||0||0||colspan="2"|—||colspan="2"|—||19||2
+|-
+!colspan="3"|Career total
+!111!!12!!6!!0!!0!!0!!0!!0!!117!!12
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 31 March 2026}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="2"|[[Algeria national football team|Algeria]]
+|2025||7||1
+|-
+|2026||4||0
+|-
+!colspan="2"|Total!!11!!1
+|}
+
+:''Algeria score listed first, score column indicates score after each Belghali goal.''
+
+{| class="wikitable"
+|+ List of international goals scored by Rafik Belghali
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+|-
+|align="center"|1||18 November 2025||[[Prince Abdullah Al-Faisal Sports City Stadium]], [[Jeddah]], Saudi Arabia||{{fb|KSA}}||align="center"|2–0||align="center"|2–0||[[Friendly (association football)|Friendly]]
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{sports links}}
+
+{{Hellas Verona FC squad}}
+{{Navboxes
+| title = Algeria squads
+| bg = white
+| fg = #009921
+| bordercolor = #009921
+| list1 =
+{{Algeria squad 2025 Africa Cup of Nations}}
+{{Algeria squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Belghali, Rafik}}
+[[Category:2002 births]]
+[[Category:Living people]]
+[[Category:Footballers from Leuven]]
+[[Category:Algerian men's footballers]]
+[[Category:Algeria men's international footballers]]
+[[Category:Algeria men's under-23 international footballers]]
+[[Category:Belgian men's footballers]]
+[[Category:Belgian people of Algerian descent]]
+[[Category:Men's association football wingers]]
+[[Category:Challenger Pro League players]]
+[[Category:Belgian Pro League players]]
+[[Category:SV Zulte Waregem players]]
+[[Category:KV Mechelen players]]
+[[Category:PSV Eindhoven players]]
+[[Category:Lommel SK players]]
+[[Category:Hellas Verona FC players]]
+[[Category:Algerian expatriate men's footballers]]
+[[Category:Belgian expatriate men's footballers]]
+[[Category:Expatriate men's footballers in the Netherlands]]
+[[Category:Algerian expatriate sportspeople in the Netherlands]]
+[[Category:Belgian expatriate sportspeople in the Netherlands]]
+[[Category:Expatriate men's footballers in Italy]]
+[[Category:Algerian expatriate sportspeople in Italy]]
+[[Category:Belgian expatriate sportspeople in Italy]]
+[[Category:21st-century Algerian sportsmen]]
+[[Category:21st-century Belgian sportsmen]]
+[[Category:2025 Africa Cup of Nations players]]
+[[Category:2026 FIFA World Cup players]]

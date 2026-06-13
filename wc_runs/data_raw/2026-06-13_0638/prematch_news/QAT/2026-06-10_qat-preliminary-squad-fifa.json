@@ -1,0 +1,16 @@
+{
+ "team": "QAT",
+ "source": "FIFA.com",
+ "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/qatar-announce-preliminary-squad",
+ "title": "Qatar announce squad｜FIFA World Cup 2026",
+ "news_date": "2026-06-10",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "asof": "2026-06-10",
+ "fetched": "2026-06-13_0638",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Akram Afif and Almoez Ali headline Julen Lopetegui’s experienced 26-strong FIFA World Cup squad.\nQatar coach Julen Lopetegui has finalised a 26-strong squad as the nation prepares to head to a second edition of the FIFA World Cup™.\nHosts four years ago, Qatar secured a return to the global showpiece in the fourth round of AFC qualification late last year.\nCreative dynamo Akram Afif and prolific goal plunderer Almoez Ali headline the selection that will face co-hosts Canada, Switzerland and Bosnia and Herzegovina in Group B, prior to which they will tune up with a friendly against El Salvador on 6 June.\nQatar's World Cup squadQatar's World Cup squad\nGoalkeepersGoalkeepers\nMahmoud Abunada Meshaal Barsham Salah Zakaria\nDefendersDefenders\nAl Hashemi Al Hussein Ayub Al Alawi Hommam Al Amin Sultan Al Brake Boualem Khoukhi Lucas Mendes Pedro Miguel\nMidfieldersMidfielders\nKarim Boudiaf Ahmed Fathi Jassem Gaber Abdulaziz Hatem Issa Lay Assim Madibo Mohammed Manaai Tahsin Mohammed\nForwardsForwards\nYoussef Abdelrisaq Akram Afif Ahmed Alaaeldin Hassan Al Haydos Almoez Ali Ahmed Al Janhi Edmilson Junior Mohammed Muntari\nFamiliar faces hope to shineFamiliar faces hope to shine\nSeveral key players will be returning to the world's grandest stage, with defenders Pedro Miguel and Boualem Khoukhi and veteran Hassan Al Haydos among those who also featured during Qatar's debut campaign in 2022.\nMohammed Muntari, who scored the nation's first, and thus far only, goal at the World Cup, is back too, and will add to the firepower already provided by forwards Afif and Ali as Qatar target a maiden appearance in the knockout stage.\nQatar's World Cup 2026 fixtures and groupQatar's World Cup 2026 fixtures and group\n13 June: Qatar v Switzerland – San Francisco Bay Area Stadium\n18 June: Canada v Qatar – BC Place Vancouver\n24 June: Bosnia and Herzegovina v Qatar – Seattle Stadium",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

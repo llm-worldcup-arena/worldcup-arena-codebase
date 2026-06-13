@@ -1,0 +1,211 @@
+{{Short description|South Korean footballer (born 2000)}}
+{{family name hatnote|Kim||lang=Korean}}
+{{about||the South Korean weightlifter|Kim Tae-hyun}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+| name = Kim Tae-hyeon
+| image = 
+| fullname = 
+| birth_date = {{birth date and age|2000|09|17|df=y}}
+| birth_place = [[Gimpo]], South Korea
+| height = 1.87 m
+| currentclub = [[Kashima Antlers]]
+| clubnumber = 3
+| position = [[Centre-back]]
+| youthclubs1 = Tongjin High School
+| youthyears1 = 2015–2017
+| years1 = 2019–2023
+| clubs1 = [[Ulsan Hyundai FC|Ulsan Hyundai]]
+| caps1 = 6
+| goals1 = 0
+| years2 = 2019
+| clubs2 = → [[Daejeon Citizen FC|Daejeon Citizen]] (loan)
+| caps2 = 11
+| goals2 = 0
+| years3 = 2020
+| clubs3 = → [[Seoul E-Land FC|Seoul E-Land]] (loan)
+| caps3 = 24
+| goals3 = 1
+| years4 = 2022–2023
+| clubs4 = → [[Vegalta Sendai]] (loan)
+| caps4 = 53
+| goals4 = 2
+| years5 = 2024
+| clubs5 = [[Sagan Tosu]]
+| caps5 = 26
+| goals5 = 0
+| years6 = 2025–
+| clubs6 = [[Kashima Antlers]]
+| caps6 = 30
+| goals6 = 0
+| nationalyears1 = 2015–2016
+| nationalteam1 = [[South Korea national under-17 football team|South Korea U17]]
+| nationalcaps1 = 8
+| nationalgoals1 = 1
+| nationalyears2 = 2019
+| nationalteam2 = [[South Korea national under-20 football team|South Korea U20]]
+| nationalcaps2 = 2
+| nationalgoals2 = 0
+| nationalyears3 = 2019–2023
+| nationalteam3 = [[South Korea national under-23 football team|South Korea U23]]
+| nationalcaps3 = 11{{efn-lg|Includes one appearance against [[South Korea national under-23 football team results#Non-international matches|another KFA team]].}}
+| nationalgoals3 = 0
+| nationalyears4 = 2025–
+| nationalteam4 = [[South Korea national football team|South Korea]]
+| nationalcaps4 = 7
+| nationalgoals4 = 0
+| club-update = 17 May 2026 (UTC)
+| nationalteam-update = 31 March 2026 (UTC)
+| medaltemplates = {{MedalCountry | {{KOR}} }}
+{{MedalSport  | Men's [[Association football|football]]}}
+{{MedalCompetition|[[Asian Games]]}}
+{{MedalGold|[[2022 Asian Games|2022 Hangzhou]]|[[Football at the 2022 Asian Games – Men|Team]]}}
+{{MedalCompetition|[[AFC U-23 Championship]]}}
+{{MedalGold|[[2020 AFC U-23 Championship|2020 Thailand]]|}}
+}}
+{{Infobox Korean name/auto|hangul=%김태현|hanja=金太鉉}}
+
+'''Kim Tae-hyeon''' ({{Korean|hangul=김태현}}; born 17 September 2000) is a South Korean [[Association football|footballer]] who plays as a left-footed [[centre-back]] for {{Japanese football updater|KashimaA}} club [[Kashima Antlers]]<ref>{{Cite web |title=J.LEAGUE Data Site |url=https://data.j-league.or.jp/SFIX04/?player_id=45209}}</ref> and the [[South Korea national football team|South Korea national team]].
+
+==Career==
+
+On 28 December 2021, Kim joined Vegalta Sendai on a one year loan.<ref>{{cite web|url=https://www.vegalta.co.jp/backnumber/2021/news-team/2021/12/post-1018.html|title=蔚山現代FC キム テヒョン選手 期限付き移籍加入内定のお知らせ|trans-title=Ulsan Hyundai FC announces that Kim Tae-hyun will join the team on a temporary transfer|language=Japanese|website=www.vegalta.co.jp}}</ref>
+
+On 10 January 2024, Kim joined Sagan Tosu.<ref>{{cite web|url=https://www.sagan-tosu.net/news/p/27493/|title=キム テヒョン選手 完全移籍加入のお知らせ|trans-title=Kim Tae-hyun joins the team on a permanent transfer|language=Japanese|website=www.sagan-tosu.net}}</ref>
+
+In January 2025, it was announced that Kim would be joining [[J1 League]] club [[Kashima Antlers]] following a single season at [[Sagan Tosu]].<ref>{{cite web |title=キム テヒョン選手 完全移籍加入のお知らせ {{!}} 鹿島アントラーズ オフィシャルサイト |url=https://www.antlers.co.jp/news/article/20250104-1-zrynb.html |website=鹿島アントラーズ オフィシャルサイト {{!}} KASHIMA ANTLERS |access-date=4 January 2025 |language=ja}}</ref>
+
+==Career statistics==
+
+===Club===
+{{updated|17 May 2026}}<ref>{{Soccerway|tae-hyun-kim/593549|accessdate=3 January 2020}}</ref><ref>{{cite web |title=2024 Kim Taehyeon Players |url=https://soccer-db.net/player/index/76756/2024?la=e |website=Soccer D.B. Japan |access-date=4 January 2025 |language=en}}</ref>
+
+{| class="wikitable" style="text-align:center;"
+|+ Appearances and goals by club, season and competition
+|-
+! rowspan=2 | Club
+! rowspan=2 | Season
+! colspan=3 | League
+! colspan=2 | National cup{{efn|Includes [[Korean FA Cup]] and [[Emperor's Cup]]}}
+! colspan=2 | League cup{{efn|Includes [[J.League Cup]]}}
+! colspan=2 | Continental
+! colspan=2 | Other
+! colspan=2 | Total
+|-
+! Division
+! Apps !! Goals
+! Apps !! Goals
+! Apps !! Goals
+! Apps !! Goals
+! Apps !! Goals
+! Apps !! Goals
+|-
+|rowspan="3"|[[Ulsan Hyundai FC|Ulsan Hyundai]]
+|[[2019 K League 1|2019]]
+|[[K League 1]]
+|0||0||0||0||colspan="2"|—||1{{efn|Appearances in the [[AFC Champions League]]|name=AFCCL}}||0||colspan="2"|—||1||0
+|-
+|[[2021 K League 1|2021]]
+|K League 1
+|6||0||2||0||colspan="2"|—||3{{efn|name=AFCCL}}||0||colspan="2"|—||11||0
+|-
+!colspan="2"|Total
+!6||0||2||0||colspan="2"|—||4||0||colspan="2"|—||12||0
+|-
+|[[Daejeon Citizen FC|Daejeon Citizen]] (loan)
+|[[2019 K League 2|2019]]
+|[[K League 2]]
+|11||0||0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||11||0
+|-
+|[[Seoul E-Land FC|Seoul E-Land]] (loan)
+|[[2020 K League 2|2020]]
+|K League 2
+|24||1||1||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||25||1
+|-
+|rowspan="3"|[[Vegalta Sendai]] (loan)
+|[[2022 J2 League|2022]]
+|[[J2 League]]
+|30||1||2||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||32||1
+|-
+|[[2023 J2 League|2023]]
+|J2 League
+|23||1||0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||23||1
+|-
+!colspan="2"|Total
+!53||2||2||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||55||2
+|-
+|[[Sagan Tosu]]
+|[[2024 J1 League|2024]]
+|[[J1 League]]
+|26||0||3||0||2||0||colspan="2"|—||colspan="2"|—||31||0
+|-
+|rowspan="3"|[[Kashima Antlers]]
+|[[2025 J1 League|2025]]
+|J1 League
+|30||0||3||0||2||0||colspan="2"|—||colspan="2"|—||35||0
+|-
+|[[2026–27 J1 League|2026–27]]
+|J1 League
+|0||0||0||0||0||0||colspan="2"|—||15{{efn|Appearances in [[J1 100 Year Vision League]]}}||1||15||1
+|-
+!colspan="2"|Total
+!30||0||3||0||2||0||colspan="2"|—||15||1||50||1
+|-
+!colspan=3|Career total
+!150||3||11||0||4||0||4||0||15||1||184||4
+|}
+;Notes
+{{notelist}}
+
+==Honours==
+'''Kashima Antlers'''
+*[[J1 League]]: [[2025 J1 League|2025]]<ref>{{cite web |url= https://www.jleague.jp/standings/2025/|title= 明治安田J1リーグの順位表|access-date= 6 December 2025|website= J. League|language=ja}}</ref>
+
+'''South Korea U23'''
+*[[AFC U-23 Championship]]: [[2020 AFC U-23 Championship|2020]]
+*[[Football at the Asian Games|Asian Games]]: [[Football at the 2022 Asian Games – Men|2022]]
+
+'''Individual'''
+*[[J1 100 Year Vision League]] Regional Round East Best Eleven: [[J1 100 Year Vision League|2026]]<ref name=":0">{{cite web|url=https://www.instagram.com/p/DZFBF8sGCAO/?igsh=MWV1eWpxMzNyOTljaw==| title=Instagram }}</ref>
+
+==Notes==
+{{notelist-lg}}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Instagram|kim4taehyeon}}
+
+{{Kashima Antlers squad}}
+{{South Korea squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Kim, Tae-hyeon}}
+[[Category:2000 births]]
+[[Category:Living people]]
+[[Category:South Korean men's footballers]]
+[[Category:South Korea men's youth international footballers]]
+[[Category:Men's association football defenders]]
+[[Category:K League 2 players]]
+[[Category:Ulsan HD FC players]]
+[[Category:Daejeon Hana Citizen players]]
+[[Category:Seoul E-Land FC players]]
+[[Category:Vegalta Sendai players]]
+[[Category:Sagan Tosu players]]
+[[Category:Kashima Antlers players]]
+[[Category:J1 League players]]
+[[Category:J2 League players]]
+[[Category:2026 FIFA World Cup players]]
+[[Category:South Korean expatriate men's footballers]]
+[[Category:Expatriate men's footballers in Japan]]
+[[Category:South Korean expatriate sportspeople in Japan]]
+[[Category:Footballers at the 2022 Asian Games]]
+[[Category:Asian Games gold medalists for South Korea]]
+[[Category:Asian Games footballers for South Korea]]
+[[Category:Medalists at the 2022 Asian Games]]
+[[Category:21st-century South Korean sportsmen]]
+[[Category:Sportspeople from Gimpo]]
+[[Category:Asian Games gold medalists in football]]
+[[Category:South Korea men's international footballers]]
+
+{{SouthKorea-footy-defender-stub}}

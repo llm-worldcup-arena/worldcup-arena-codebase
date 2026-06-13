@@ -1,0 +1,16 @@
+{
+ "team": "URU",
+ "source": "Barca Blaugranes",
+ "url": "https://www.barcablaugranes.com/barcelona-internationals/122929/thanks-for-injuring-players-ronald-araujos-brother-takes-aim-at-marcelo-bielsa-ahead-of-world-cup-2026",
+ "title": "‘Thanks for injuring players’ - Araujo’s brother takes aim at Bielsa ahead of World Cup 2026",
+ "news_date": "2026-06-09",
+ "published": "2026-06-09T07:24:22+00:00",
+ "tier": "3",
+ "lang": "en",
+ "asof": "2026-06-13",
+ "fetched": "2026-06-13_0748",
+ "method": "jsonld:articleBody",
+ "status": "ok",
+ "original_text": "Ronald Araujo’s brother has taken aim at Uruguay boss Marcelo Bielsa ahead of the start of World Cup 2026 after the Barcelona star picked up an injury just days before the competition starts.\nThe defender has reportedly taken a quick trip back to Barcelona for treatment on a muscle injury and is now a doubt for Uruguay’s World Cup opener.\nUruguay posted a statement confirming Araujo’s injury on social media. Mikael Araujo reposted the story on Instagram and added the comment: “Thanks for injuring players just days before the World Cup!”\n[Media: https://twitter.com/TyCSports/status/2064144527288656236]\nUruguay kick off their tournament against Saudi Arabia on Monday but may be without Araujo for that match due to the injury.\nThe team then go on to play Cape Verde on June 21st and Spain on June 27th, but the hope is that the Barcelona defender will be fit to play in both of those group matches for Bielsa’s men.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

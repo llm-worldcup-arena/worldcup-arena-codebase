@@ -109,7 +109,7 @@ def parse_bracket(wt):
 
 
 def main(ts=None):
-    raw_dir = f"{BASE}/raw/bg/{ts or run_ts()}"             # 赛程子页原文存这（raw 全量）
+    raw_dir = f"{BASE}/data_raw/{ts or run_ts()}"             # 赛程子页原文存这（raw 全量）
     matches = []
     for g in GROUPS:
         boxes = extract_box_blocks(fetch_group(g, raw_dir))

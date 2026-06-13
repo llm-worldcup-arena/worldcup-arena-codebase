@@ -1,0 +1,85 @@
+[
+ {
+  "player_id": "849582",
+  "profile_url": "https://www.transfermarkt.com/agustin-giay/profil/spieler/849582",
+  "full_name": "Agustín Giay",
+  "display_name": "Agustín Giay",
+  "short_name": "A. Giay",
+  "nickname": "",
+  "date_of_birth": "2004-01-16",
+  "age": 22,
+  "place_of_birth": "San Carlos Centro",
+  "country_of_birth": "Argentina",
+  "nationality": [
+   "Argentina"
+  ],
+  "gender": "male",
+  "position": "Right-Back",
+  "position_category": "Defender",
+  "foot": "right",
+  "height_cm": 180,
+  "current_club": "Sociedade Esportiva Palmeiras",
+  "current_club_id": "1023",
+  "current_competition": "Campeonato Brasileiro Série A",
+  "current_competition_code": "BRA1",
+  "shirt_number": 4,
+  "is_captain": false,
+  "contract_until": "2030-12-31",
+  "last_contract_renewal": "2025-09-29",
+  "market_value_eur": 10000000,
+  "market_value_currency": "EUR",
+  "market_value_determined": "2026-05-26",
+  "previous_market_value_eur": 10000000,
+  "highest_market_value_eur": 11000000,
+  "highest_market_value_determined": "2025-12-10",
+  "market_value_history": [
+   "2021 | CA San Lorenzo de Almagro | EUR 50.00K",
+   "2021 | CA San Lorenzo de Almagro | EUR 4.00M",
+   "2021 | CA San Lorenzo de Almagro | EUR 4.00M",
+   "2022 | CA San Lorenzo de Almagro | EUR 4.50M",
+   "2022 | CA San Lorenzo de Almagro | EUR 8.00M",
+   "2022 | CA San Lorenzo de Almagro | EUR 8.00M",
+   "2023 | CA San Lorenzo de Almagro | EUR 8.00M",
+   "2023 | Sociedade Esportiva Palmeiras | EUR 7.50M",
+   "2024 | Sociedade Esportiva Palmeiras | EUR 7.00M",
+   "2024 | Sociedade Esportiva Palmeiras | EUR 8.00M",
+   "2024 | Sociedade Esportiva Palmeiras | EUR 11.00M",
+   "2024 | Sociedade Esportiva Palmeiras | EUR 11.00M",
+   "2025 | Sociedade Esportiva Palmeiras | EUR 10.00M",
+   "2025 | Sociedade Esportiva Palmeiras | EUR 10.00M"
+  ],
+  "agent": "",
+  "agency": "ADMIRA PARTNERS UK LTD",
+  "agency_id": "14477",
+  "youth_clubs": [
+   "Club Atlético Argentino de San Carlos"
+  ],
+  "career_history": [
+   "CA San Lorenzo de Almagro U20 -> CA San Lorenzo de Almagro II | 2021-01-01 | - | 20/21",
+   "CA San Lorenzo de Almagro II -> CA San Lorenzo de Almagro | 2022-07-01 | - | 22/23",
+   "CA San Lorenzo de Almagro -> Sociedade Esportiva Palmeiras | 2024-07-10 | €7.00M | 24/25"
+  ],
+  "total_transfer_fees_eur": 7000000,
+  "international_team": "",
+  "international_caps": 0,
+  "international_goals": 0,
+  "national_team_history": [
+   "Argentina | 2 apps | 0 goals | RECENT_NATIONAL_PLAYER",
+   "Argentina U20 | 14 apps | 1 goals | FORMER_NATIONAL_PLAYER",
+   "Argentina U16 | 1 apps | 0 goals | FORMER_NATIONAL_PLAYER"
+  ],
+  "injuries": [],
+  "suspensions": [
+   "2026-05-25 to 2026-06-01 | Yellow card suspension | 1 game",
+   "2025-11-26 to 2025-12-06 | Red card suspension | 1 game",
+   "2023-11-13 to 2023-11-28 | Red card suspension | 1 game",
+   "2023-05-08 to 2023-06-03 | Called up to national team | 4 games",
+   "2023-03-06 to 2023-03-12 | Red card suspension | 1 game",
+   "2022-10-13 to 2022-10-19 | Indirect card suspension | 1 game",
+   "2022-07-27 to 2022-08-10 | Called up to national team | 2 games",
+   "2022-05-27 to 2022-06-14 | Called up to national team | 2 games"
+  ],
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/big/849582-1746578372.jpg",
+  "scraped_at": "2026-06-08T18:06:44.232Z"
+ }
+]

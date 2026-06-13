@@ -1,0 +1,16 @@
+{
+ "team": "EGY",
+ "source": "ESPN",
+ "url": "https://www.espn.com/soccer/story/_/id/48965996/neymar-miss-brazil-final-pre-world-cup-friendly-vs-egypt",
+ "title": "Neymar to miss Brazil's final pre-World Cup friendly vs. Egypt - ESPN",
+ "news_date": "2026-06-10",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-10",
+ "fetched": "2026-06-13_0748",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Neymar to miss Brazil's final pre-World Cup friendly vs. Egypt\nplay\nLaurens: Neymar getting injured before the World Cup doesn't bode well (1:05)\nESPN News Services\nJun 4, 2026, 10:40 AM ET\nNeymar will not travel with the rest of the Brazil squad for their final pre-World Cup friendly against Egypt on Saturday.\nThe Santos forward, 34, has struggled with injuries this season and the Brazilian federation confirmed he would not be part of the squad heading to Cleveland, and would instead remain at the team's training base in New Jersey to continue treatment on a calf problem.\nNeymar's inclusion in Brazil's World Cup squad by coach Carlo Ancelotti was one of the major talking points when it was announced last month, with Chelsea forward João Pedro among those missing out.\nBrazil start their bid for World Cup glory against Morocco in New Jersey on June 13 with further group games against Haiti and Scotland on June 19 and June 24.\n- Brazil's Ancelotti: No regrets taking injured Neymar to World Cup\nInformation from PA contributed to this report.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

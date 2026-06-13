@@ -1,0 +1,31 @@
+{
+ "team": "MAR",
+ "coach": {
+  "name_zh": "",
+  "name_en": "Mohamed Ouahbi",
+  "nationality": "Belgium",
+  "career_since": "1997",
+  "person_id": "per_mohamed_ouahbi"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 比利时籍教练Mohamed Ouahbi自1997年开启执教生涯，2026年世界杯前接替Walid Regragui执掌摩洛哥国家队。\n- 2025年率摩洛哥U-20梯队夺得世界杯冠军（决赛击败阿根廷），成为队史首位拥有世界杯冠军头衔的成年队主帅。\n- 2026年世界杯面临防线重组：主力中卫Nayef Aguerd伤退、Romain Saiss退役，仅10次国家队出场经验的Issa Diop与Chadi Riad将临危受命搭档中卫。\n- 临战补招昂热边锋Amine Sbai与沙特联后卫Marwane Saadane入替，但两人预计不会在对阵巴西的揭幕战中首发。\n- 战术风格以稳健控制为主，计划利用Achraf Hakimi的速度冲击巴西左路防线弱点。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.95,
+  "issues": []
+ },
+ "brief_fetched": "2026-06-13_1750",
+ "brief_info_chars": 6000,
+ "coach_xverify": {
+  "canonical": "Mohamed Ouahbi",
+  "confidence": "medium",
+  "discrepancy": "CAF (Confederation of African Football) reported Walid Regragui as head coach for the March 2026 World Cup qualifiers, while Sports Mole, Flashscore, Morocco World News, and the reference wiki seed all name Mohamed Ouahbi for the June 2026 World Cup finals. This suggests a coaching change occurred between the qualifiers and the tournament. The ESPN snippet mentioning 'Carlo A' appears to be erroneous or incomplete.",
+  "sources_agree": 4,
+  "n_sources": 8
+ }
+}

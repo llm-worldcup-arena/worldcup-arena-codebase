@@ -1,0 +1,87 @@
+{{short description|Uzbekistani footballer (born 2007)}}
+{{Use dmy dates|date=November 2021}}
+{{Infobox football biography
+| name = Bekhruz Karimov
+| full_name = Behruzjon Karimov
+| image = Behruz Karimov.jpg
+| caption = Karimov in 2026
+| birth_date = {{birth date and age|df=yes|2007|8|7}}
+| birth_place = [[Tashkent]], Uzbekistan
+| height = 1.80m
+| currentclub = [[FC Surkhon|Surkhon]] 
+| clubnumber = 2
+| position = [[Right-back]]
+| youthyears1 = 
+| youthclubs1 = RKOR Tashkent
+| years1 = 2023–2025
+| clubs1 = [[FC Olympic Tashkent|Olympic Tashkent]]  
+| caps1 = 26
+| goals1 = 0
+| years2 = 2025–
+| clubs2 = [[FC Surkhon|Surkhon]] 
+| caps2 = 22
+| goals2 = 3
+| nationalyears1 = 2023
+| nationalteam1 = [[Uzbekistan national under-17 football team|Uzbekistan U16]]
+| nationalcaps1 = 4
+| nationalgoals1 = 0
+| nationalyears2 = 2023–2024
+| nationalteam2 = [[Uzbekistan national under-17 football team|Uzbekistan U17]]
+| nationalcaps2 = 15
+| nationalgoals2 = 0
+| nationalyears3 = 2025
+| nationalteam3 = [[Uzbekistan national under-19 football team|Uzbekistan U18]]
+| nationalcaps3 = 6
+| nationalgoals3 = 1
+| nationalyears4 = 2024
+| nationalteam4 = [[Uzbekistan national under-20 football team|Uzbekistan U20]]
+| nationalcaps4 = 5
+| nationalgoals4 = 0
+| nationalyears5 = 2025
+| nationalteam5 = [[Uzbekistan national under-21 football team|Uzbekistan U17]]
+| nationalcaps5 = 2
+| nationalgoals5 = 0
+| nationalyears6 = 2025–2026
+| nationalteam6 = [[Uzbekistan national under-23 football team|Uzbekistan U23]]
+| nationalcaps6 = 7
+| nationalgoals6 = 1
+| nationalyears7 = 2026–
+| nationalteam7 = [[Uzbekistan national football team|Uzbekistan]]
+| nationalcaps7 = 2
+| nationalgoals7 = 0
+| club-update = 20:03, 24 May 2026 (UTC)
+| nationalteam-update = 20:03, 24 May 2026 (UTC)
+}}
+
+'''Bekhruzdjon Karimov''' ({{lang-x2|uz|Behruzjon Karimov|Беҳрузжон Каримов}}; born 7 August 2007) is an Uzbekistani professional [[association football|footballer]] who plays as a [[right-back]] for [[Uzbekistan Super League]] club [[FC Surkhon|Surkhon]], and the [[Uzbekistan national football team|Uzbekistan national team]].
+
+==Club career==
+Karimov began his career in the [[Uzbekistan Super League]] with [[FC Olympic Tashkent|Olympic Tashkent]], before moving to [[FC Surkhon|Surkhon]] in 2025 where he had his breakout season.<ref>{{Cite web|url=https://stadion.uz/uz/news/detail/540596|title=Behruz Karimov: "Maqsadim — yetarlicha tajriba to‘plab, Yevropa klublari va milliy terma jamoamizning eng muhim o‘yinchilaridan biri bo‘lish"|website=stadion.uz}}</ref> In May 2026, he fractured his leg requiring surgery.<ref>{{Cite web|url=https://championat.asia/news/behruz-karimov-ibrohimhalil-yoldoshev-va-lazizbek-mirzaevni-davolayotgan-shifokor-bilan-suhbat|title=Behruz Karimov, Ibrohimhalil Yo'ldoshev va Lazizbek Mirzaevni davolayotgan shifokor bilan suhbat|website=championat.asia}}</ref>
+
+==International career==
+Karimov was part of the [[Uzbekistan national under-17 football team|Uzbekistan U17]]s for the [[2023 AFC U-17 Asian Cup]].<ref>{{cite web |title=Oʻzbekiston U-17 terma jamoasining Osiyo Kubogida ishtirok etadigan tarkibi maʼlum. |url=https://www.facebook.com/UzbekistanFA/photos/a.1256360527816960/6069835586469406/ |access-date=17 June 2023 |website=Facebook |publisher=Uzbekistan Football Association |date=4 June 2023 |language=Uzbek}}</ref> He also made the [[Uzbekistan national under-23 football team|Uzbekistan U23]]s for the [[2024 AFC U-23 Asian Cup]] and [[2026 AFC U-23 Asian Cup]].<ref>{{cite web|url=https://www.uzdaily.uz/en/khaydarov-announces-uzbekistan-u23-squad-for-afc-u23-asian-cup/|title=Khaydarov announces Uzbekistan U23 squad for AFC U23 Asian Cup|date=1 January 2026|publisher=UzDaily}}</ref> In March 2026, he received his first call-ups to the [[Uzbekistan national football team|Uzbekistan national team]] for a set of [[2026 FIFA Series (men's matches)|2026 FIFA Series matches]].<ref>{{Cite web|url=https://uz.kursiv.media/uz/2026-03-24/behruz-karimov-hojiakbar-alijonov-bilan-raqobat-fifa-series-turniri-va-terma-jamoaga-chaqiruv-olgani-haqida/|title=Behruz Karimov: Hojiakbar Alijonov bilan raqobatga tayyorman|first=Sardor|last=Saidov|date=24 March 2026|website=Kursiv Media Uzbekistan - Kursiv Media Uzbekistan – O'zbekiston iqtisodiyoti va siyosati, biznes va moliya yangiliklari}}</ref> He made the cut for the preliminary national team for the [[2026 FIFA World Cup]].<ref>{{cite web |url=https://www.instagram.com/uzbekistanfa/reel/DYuz4KLthdD/ |title=Milliy Jamoa bosh murabbiyi Fabio Kannavaro Jahon chempionatida ishtirok etuvchi 30 nafardan iborat futbolchilarning roʻyxatini e’lon qildi. |trans-title=National Team head coach Fabio Cannavaro has announced a list of 30 players who will participate in the World Cup. |publisher=[[Uzbekistan Football Association]] |via=[[Instagram]] |date=May 24, 2026 |access-date=May 24, 2026 |language=uz}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Soccerway|new_id=karimov-bekhruz/tYdoTuF8}}
+* {{NFT|103943}}
+* [https://pfl.uz/en/player/20 PFL Profile]
+
+{{FC Surkhon squad}}
+{{Uzbekistan squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Karimov, Bekhruz}}
+[[Category:2007 births]]
+[[Category:Living people]]
+[[Category:Footballers from Tashkent]]
+[[Category:Uzbekistani men's footballers]]
+[[Category:Uzbekistan men's international footballers]]
+[[Category:Uzbekistan men's youth international footballers]]
+[[Category:Men's association football full-backs]]
+[[Category:FC Olympic Tashkent players]]
+[[Category:FC Surkhon players]]
+[[Category:Uzbekistan Super League players]]
+[[Category:21st-century Uzbekistani sportsmen]]
+[[Category:2026 FIFA World Cup players]]

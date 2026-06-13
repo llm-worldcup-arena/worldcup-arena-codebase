@@ -1,0 +1,150 @@
+{{Short description|Ivorian footballer (born 2001)}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+| name = Parfait Guiagon
+| image = פארפה גויאגון - Parfait Guiagon.jpg
+| fullname = 
+| birth_date = {{Birth date and age|2001|02|22|df=y}}
+| birth_place = [[Ivory Coast]]
+| height = 1.69 m
+| position = [[Midfielder]]
+| currentclub = [[R. Charleroi S.C.|Charleroi]]
+| clubnumber = 10
+| youthyears1 = 
+| youthclubs1 = [[Africa Sports d'Abidjan|Africa Sports]]
+| youthyears2 = 2019–2020
+| youthclubs2 = [[Maccabi Tel Aviv F.C.|Maccabi Tel Aviv]]
+| years1 = 2020
+| clubs1 = [[Africa Sports d'Abidjan|Africa Sports]]
+| caps1 = 
+| goals1 = 
+| years2 = 2020
+| clubs2 = → [[Maccabi Tel Aviv F.C.|Maccabi Tel Aviv]] (loan)
+| caps2 = 3
+| goals2 = 0
+| years3 = 2020–2023
+| clubs3 = [[Maccabi Tel Aviv F.C.|Maccabi Tel Aviv]]
+| caps3 = 35
+| goals3 = 4
+| years4 = 2020–2021
+| clubs4 = → [[Beitar Tel Aviv Bat Yam F.C.|Beitar Tel Aviv Bat Yam]] (loan)
+| caps4 = 26
+| goals4 = 4
+| years5 = 2021–2022
+| clubs5 = → [[Maccabi Netanya F.C.|Maccabi Netanya]] (loan)
+| caps5 = 28
+| goals5 = 5
+| years6 = 2023–
+| clubs6 = [[R. Charleroi S.C.|Charleroi]]
+| caps6 = 98
+| goals6 = 22
+| nationalyears1 = 2025–
+| nationalteam1 = [[Ivory Coast national football team|Ivory Coast]]
+| nationalcaps1 = 4
+| nationalgoals1 = 0
+| club-update = 1 June 2026
+| nationalteam-update = 6 January 2026
+}}
+'''Parfait Guiagon''' (born 22 February 2001) is an Ivorian professional [[association football|footballer]] who plays as a [[midfielder]] for [[R. Charleroi S.C.|Charleroi]] and the [[Ivory Coast national football team|Ivory Coast national team]]. He was included in [[The Guardian]]'s "Next Generation 2018".<ref>{{cite web|url=https://www.theguardian.com/football/ng-interactive/2018/oct/11/next-generation-2018-60-of-the-best-young-talents-in-world-football|title=Next Generation 2018: 60 of the best young talents in world football|date=11 October 2018|access-date=21 July 2020|work=The Guardian}}</ref>
+
+==Career statistics==
+
+===Club===
+{{updated|1 June 2023.}}<ref>{{Soccerway|parfait-guiagon/659072|accessdate=21 July 2020}}</ref>
+
+{| class="wikitable" style="text-align: center"
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|[[Israel State Cup|State Cup]]
+!colspan="2"|[[Toto Cup]]
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+|-
+|rowspan="3"|[[Maccabi Tel Aviv F.C.|Maccabi Tel Aviv]]
+|[[2019–20 Israeli Premier League|2019–20]]
+|rowspan="2"|[[Israeli Premier League]]
+|3||0||0||0||0||0||colspan="2" |–||0||0||3||0
+|-
+|[[2022–23 Israeli Premier League|2022–23]]
+|32||4||2||0||2||1||colspan="2" |–||0||0||36||5
+|-
+! colspan="2" |'''Total'''
+!35!!4!!2!!0!!2!!1!!0!!0!!0!!0!!39!!5
+|-
+|[[Beitar Tel Aviv Bat Yam F.C.|Beitar Tel Aviv Bat Yam]] (loan)
+|[[2020–21 Liga Leumit|2020–21]]
+|[[Liga Leumit]]
+|26||4||4||2||0||0||colspan="2" |–||0||0||30||6
+|-
+|[[Maccabi Netanya F.C.|Maccabi Netanya]] (loan)
+|[[2021–22 Israeli Premier League|2021–22]]
+|[[Israeli Premier League]]
+|28||5||1||0||0||0||colspan="2" |–||0||0||29||5
+|-
+|[[R. Charleroi S.C.|Charleroi]]
+|[[2023–24 Belgian Pro League|2023–24]]
+|[[Belgian Pro League]]
+|0||0||0||0||0||0||colspan="2" |–||0||0||0||0
+|-
+! colspan="3" |'''Career total'''
+!89!!13!!7!!2!!2!!1!!0!!0!!0!!0!!98!!16
+|}
+;Notes
+{{notelist}}
+
+==References==
+{{reflist}}
+
+{{R. Charleroi S.C. squad}}
+{{Navboxes
+| title = Ivory Coast squads
+| bg        = #F77F00
+| fg        = white
+| bordercolor = #009E60
+| list =
+{{Ivory Coast men's football squad 2020 Summer Olympics}}
+{{Ivory Coast squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Guiagon, Parfait}}
+[[Category:2001 births]]
+[[Category:Living people]]
+[[Category:Ivorian men's footballers]]
+[[Category:Africa Sports d'Abidjan players]]
+[[Category:Maccabi Tel Aviv F.C. players]]
+[[Category:Beitar Tel Aviv Holon F.C. players]]
+[[Category:Maccabi Netanya F.C. players]]
+[[Category:Royal Charleroi SC players]]
+[[Category:Israeli Premier League players]]
+[[Category:Liga Leumit players]]
+[[Category:Belgian Pro League players]]
+[[Category:Ivory Coast men's international footballers]]
+[[Category:Ivorian expatriate men's footballers]]
+[[Category:Expatriate men's footballers in Israel]]
+[[Category:Expatriate men's footballers in Belgium]]
+[[Category:Ivorian expatriate sportspeople in Israel]]
+[[Category:Ivorian expatriate sportspeople in Belgium]]
+[[Category:Footballers at the 2020 Summer Olympics]]
+[[Category:Men's association football midfielders]]
+[[Category:Olympic footballers for Ivory Coast]]
+[[Category:21st-century Ivorian sportsmen]]
+[[Category:2026 FIFA World Cup players]]
+
+{{IvoryCoast-footy-bio-stub}}

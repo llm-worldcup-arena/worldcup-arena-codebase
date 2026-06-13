@@ -1,0 +1,397 @@
+{
+ "match_id": 4697699,
+ "date": "2026-06-12",
+ "comp": "世界杯",
+ "ha_home": "中",
+ "home": "Canada",
+ "away": "Bosnia & Herzegovina",
+ "score": "1-1",
+ "venue": "BMO Field (Toronto)",
+ "attendance": 43002,
+ "goals": [
+  {
+   "min": 21,
+   "side": "away",
+   "player": "Jovo Lukic",
+   "sub": null
+  },
+  {
+   "min": 78,
+   "side": "home",
+   "player": "Cyle Larin",
+   "sub": null
+  }
+ ],
+ "cards": [
+  {
+   "min": 11,
+   "side": "home",
+   "player": "Alistair Johnston",
+   "type": "黄牌"
+  },
+  {
+   "min": 45,
+   "side": "away",
+   "player": "Ermedin Demirovic",
+   "type": "黄牌"
+  },
+  {
+   "min": 45,
+   "side": "away",
+   "player": "Jovo Lukic",
+   "type": "黄牌"
+  },
+  {
+   "min": 53,
+   "side": "home",
+   "player": "Luc De Fougerolles",
+   "type": "黄牌"
+  },
+  {
+   "min": 90,
+   "side": "away",
+   "player": "Nikola Katic",
+   "type": "黄牌"
+  }
+ ],
+ "stats": {
+  "射门": [
+   "13",
+   "8"
+  ],
+  "射正": [
+   "4",
+   "3"
+  ],
+  "禁区内射门": [
+   "5",
+   "4"
+  ],
+  "扑救": [
+   "4",
+   "1"
+  ],
+  "角球": [
+   "9",
+   "4"
+  ],
+  "越位": [
+   "1",
+   "0"
+  ],
+  "控球%": [
+   "61%",
+   "39%"
+  ],
+  "传中": [
+   "143",
+   "83"
+  ],
+  "传球": [
+   "310",
+   "170"
+  ],
+  "xG预期进球": [
+   "1.31",
+   "0.72"
+  ],
+  "xGOT/大机会": [
+   "0.74",
+   "1"
+  ]
+ },
+ "lineups": {
+  "home": [
+   {
+    "no": 16,
+    "name": "Maxime Crépeau"
+   },
+   {
+    "no": 22,
+    "name": "Richie Laryea"
+   },
+   {
+    "no": 13,
+    "name": "Derek Cornelius"
+   },
+   {
+    "no": 4,
+    "name": "Luc De Fougerolles"
+   },
+   {
+    "no": 2,
+    "name": "Alistair Johnston"
+   },
+   {
+    "no": 11,
+    "name": "Liam Millar"
+   },
+   {
+    "no": 7,
+    "name": "Stephen Eustáquio"
+   },
+   {
+    "no": 8,
+    "name": "Ismaël Koné"
+   },
+   {
+    "no": 17,
+    "name": "Tajon Buchanan"
+   },
+   {
+    "no": 12,
+    "name": "Tani Oluwaseyi"
+   },
+   {
+    "no": 10,
+    "name": "Jonathan David"
+   },
+   {
+    "no": 20,
+    "name": "Ali Ahmed"
+   },
+   {
+    "no": 24,
+    "name": "Promise David"
+   },
+   {
+    "no": 9,
+    "name": "Cyle Larin"
+   },
+   {
+    "no": 21,
+    "name": "Jonathan Osorio"
+   },
+   {
+    "no": 14,
+    "name": "Jacob Shaffelburg"
+   },
+   {
+    "no": 15,
+    "name": "Moise Bombito"
+   },
+   {
+    "no": 6,
+    "name": "Mathieu Choiniere"
+   },
+   {
+    "no": 19,
+    "name": "Alphonso Davies"
+   },
+   {
+    "no": 18,
+    "name": "Owen Goodman"
+   },
+   {
+    "no": 3,
+    "name": "Alfie Jones"
+   },
+   {
+    "no": 26,
+    "name": "Jayden Nelson"
+   },
+   {
+    "no": 25,
+    "name": "Nathan-Dylan Saliba"
+   },
+   {
+    "no": 23,
+    "name": "Niko Sigur"
+   },
+   {
+    "no": 1,
+    "name": "Dayne St Clair"
+   },
+   {
+    "no": 5,
+    "name": "Joel Waterman"
+   }
+  ],
+  "away": [
+   {
+    "no": 1,
+    "name": "Nikola Vasilj"
+   },
+   {
+    "no": 5,
+    "name": "Sead Kolasinac"
+   },
+   {
+    "no": 4,
+    "name": "Tarik Muharemovic"
+   },
+   {
+    "no": 18,
+    "name": "Nikola Katic"
+   },
+   {
+    "no": 7,
+    "name": "Amar Dedić"
+   },
+   {
+    "no": 15,
+    "name": "Amar Memić"
+   },
+   {
+    "no": 13,
+    "name": "Ivan Bašić"
+   },
+   {
+    "no": 6,
+    "name": "Benjamin Tahirovic"
+   },
+   {
+    "no": 20,
+    "name": "Esmir Bajraktarevic"
+   },
+   {
+    "no": 25,
+    "name": "Jovo Lukic"
+   },
+   {
+    "no": 10,
+    "name": "Ermedin Demirovic"
+   },
+   {
+    "no": 19,
+    "name": "Kerim Alajbegovic"
+   },
+   {
+    "no": 9,
+    "name": "Samed Bazdar"
+   },
+   {
+    "no": 17,
+    "name": "Dzenis Burnic"
+   },
+   {
+    "no": 8,
+    "name": "Armin Gigovic"
+   },
+   {
+    "no": 14,
+    "name": "Ivan Šunjić"
+   },
+   {
+    "no": 24,
+    "name": "Nidal Celik"
+   },
+   {
+    "no": 11,
+    "name": "Edin Džeko"
+   },
+   {
+    "no": 16,
+    "name": "Amir Hadziahmetovic"
+   },
+   {
+    "no": 3,
+    "name": "Dennis Hadzikadunic"
+   },
+   {
+    "no": 12,
+    "name": "Mladen Jurkas"
+   },
+   {
+    "no": 26,
+    "name": "Ermin Mahmic"
+   },
+   {
+    "no": 2,
+    "name": "Nihad Mujakić"
+   },
+   {
+    "no": 21,
+    "name": "Stjepan Radeljic"
+   },
+   {
+    "no": 23,
+    "name": "Haris Tabakovic"
+   },
+   {
+    "no": 22,
+    "name": "Martin Zlomislić"
+   }
+  ]
+ },
+ "missing": [],
+ "events": [
+  {
+   "min": 11,
+   "side": "home",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Alistair Johnston"
+  },
+  {
+   "min": 21,
+   "side": "away",
+   "type": "进球",
+   "sub": null,
+   "player": "Jovo Lukic"
+  },
+  {
+   "min": 45,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Ermedin Demirovic"
+  },
+  {
+   "min": 45,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Jovo Lukic"
+  },
+  {
+   "min": 53,
+   "side": "home",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Luc De Fougerolles"
+  },
+  {
+   "min": 78,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Cyle Larin"
+  },
+  {
+   "min": 90,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Nikola Katic"
+  }
+ ],
+ "injuries": [
+  {
+   "side": "away",
+   "player": "Sead Kolasinac",
+   "note": "下半场受伤被迫离场(Burnic替),伤情程度待跟踪",
+   "sources": [
+    "Sky Sports",
+    "101greatgoals"
+   ]
+  }
+ ],
+ "suspensions": [],
+ "ratings": {},
+ "quotes": [
+  {
+   "who": "Jesse Marsch(加拿大主帅)",
+   "text": "We felt like we had them… the subs came on and made a big difference. We could see that they were fading.(对上半场表现失望)",
+   "src": "Sky Sports"
+  },
+  {
+   "who": "Sergej Barbarez(波黑主帅,赛前)",
+   "text": "When you give your heart, and you put your heart into it, it's always going to be fierce.",
+   "src": "Sky Sports"
+  }
+ ],
+ "narrative": "多伦多BMO球场43002人(CN塔下,McDavid/Ryan Reynolds观战)。波黑21'由替补伤缺者出场的Jovo Lukic接Kolasinac角球后蹭头球破门;加拿大下半场全面压制——Laryea单刀被Kolasinac挡中横梁,第78分钟替补Larin登场仅121秒接Promise David直传(Koné带球推进发起)推射扳平。加拿大拿到队史世界杯首个积分(也是首次主场作战);两队各积1分。",
+ "prediction_note": "对下场:CAN士气提升但主场未胜,Larin竞争首发;BIH防线韧性强但Kolasinac伤情存疑(下轮出战待跟踪)。B组形势:CAN/BIH各1分。",
+ "_note": "macheta/Sofascore 权威硬数据；injuries/suspensions/ratings/quotes/narrative/prediction_note 待 agent WebSearch 补。"
+}

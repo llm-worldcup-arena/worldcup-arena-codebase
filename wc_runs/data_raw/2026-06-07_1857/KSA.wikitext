@@ -1,0 +1,35 @@
+===Current squad===
+The following players were called up for the [[2026 FIFA World Cup]].<ref>{{cite web |url=https://saff.com.sa/en/news.php?id=4222 |title=Head Coach Giorgos Donis Announces The NT Squad for 2026 World Cup Training Camp |publisher=[[Saudi Arabian Football Federation]] |date=May 23, 2026 |access-date=May 23, 2026}}</ref>
+<br>''Caps and goals correct as of 5 June 2026, after the match against [[Puerto Rico national football team|Puerto Rico]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Nawaf Al-Aqidi]]|age={{birth date and age|2000|5|10|df=y}}|caps=22|goals=0|club=[[Al-Nassr FC|Al-Nassr]]|clubnat=KSA}}
+{{nat fs g player|no=21|pos=GK|name=[[Mohammed Al-Owais]]|age={{birth date and age|1991|10|10|df=y}}|caps=63|goals=0|club=[[Al-Ula FC|Al-Ula]]|clubnat=KSA}}
+{{nat fs g player|no=22|pos=GK|name=[[Ahmed Al-Kassar]]|age={{birth date and age|1991|5|8|df=y}}|caps=9|goals=0|club=[[Al Qadsiah FC|Al-Qadsiah]]|clubnat=KSA}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Ali Majrashi]]|age={{birth date and age|1999|10|2|df=y}}|caps=21|goals=0|club=[[Al-Ahli Saudi FC|Al-Ahli]]|clubnat=KSA}}
+{{nat fs g player|no=3|pos=DF|name=[[Ali Lajami]]|age={{birth date and age|1996|4|24|df=y}}|caps=21|goals=1|club=[[Al Hilal SFC|Al-Hilal]]|clubnat=KSA}}
+{{nat fs g player|no=4|pos=DF|name=[[Abdulelah Al-Amri]]|age={{birth date and age|df=y|1997|1|15}}|caps=42|goals=1|club=[[Al-Nassr FC|Al-Nassr]]|clubnat=KSA}}
+{{nat fs g player|no=5|pos=DF|name=[[Hassan Al-Tambakti]]|age={{birth date and age|1999|2|9|df=y}}|caps=51|goals=1|club=[[Al Hilal SFC|Al-Hilal]]|clubnat=KSA}}
+{{nat fs g player|no=12|pos=DF|name=[[Saud Abdulhamid]]|age={{birth date and age|df=y|1999|7|18}}|caps=54|goals=1|club=[[RC Lens|Lens]]|clubnat=FRA}}
+{{nat fs g player|no=13|pos=DF|name=[[Nawaf Boushal]]|age={{birth date and age|1999|9|16|df=y}}|caps=24|goals=0|club=[[Al-Nassr FC|Al-Nassr]]|clubnat=KSA}}
+{{nat fs g player|no=14|pos=DF|name=[[Hassan Kadesh]]|age={{birth date and age|df=y|1992|9|27}}|caps=20|goals=2|club=[[Al-Ittihad Club (Jeddah)|Al-Ittihad]]|clubnat=KSA}}
+{{nat fs g player|no=24|pos=DF|name=[[Moteb Al-Harbi]]|age={{birth date and age|2000|2|20|df=y}}|caps=12|goals=0|club=[[Al Hilal SFC|Al-Hilal]]|clubnat=KSA}}
+{{nat fs g player|no=25|pos=DF|name=[[Jehad Thakri]]|age={{birth date and age|df=y|2001|7|21}}|caps=7|goals=0|club=[[Al Qadsiah FC|Al-Qadsiah]]|clubnat=KSA}}
+{{nat fs g player|no=26|pos=DF|name=[[Mohammed Abu Al-Shamat]]|age={{birth date and age|2002|8|11|df=y}}|caps=6|goals=0|club=[[Al Qadsiah FC|Al-Qadsiah]]|clubnat=KSA}}
+{{nat fs break}}
+{{nat fs g player|no=6|pos=MF|name=[[Nasser Al-Dawsari]]|age={{birth date and age|df=y|1998|12|19}}||caps=43|goals=0|club=[[Al Hilal SFC|Al-Hilal]]|clubnat=KSA}}
+{{nat fs g player|no=7|pos=MF|name=[[Musab Al-Juwayr]]|age={{birth date and age|df=y|2003|6|20}}|caps=34|goals=6|club=[[Al Qadsiah FC|Al-Qadsiah]]|clubnat=KSA}}
+{{nat fs g player|no=8|pos=MF|name=[[Ayman Yahya]]|age={{birth date and age|2001|5|14|df=y}}|caps=26|goals=0|club=[[Al-Nassr FC|Al-Nassr]]|clubnat=KSA}}
+{{nat fs g player|no=10|pos=MF|name=[[Salem Al-Dawsari]]|other=[[Captain (association football)|captain]]|age={{birth date and age|1991|8|19|df=y}}|caps=109|goals=27|club=[[Al Hilal SFC|Al-Hilal]]|clubnat=KSA}}
+{{nat fs g player|no=15|pos=MF|name=[[Abdullah Al-Khaibari]]|age={{birth date and age|df=y|1996|8|16}}|caps=39|goals=0|club=[[Al-Nassr FC|Al-Nassr]]|clubnat=KSA}}
+{{nat fs g player|no=16|pos=MF|name=[[Ziyad Al-Johani]]|age={{birth date and age|2001|11|11|df=y}}|caps=12|goals=0|club=[[Al-Ahli Saudi FC|Al-Ahli]]|clubnat=KSA}}
+{{nat fs g player|no=18|pos=MF|name=[[Alaa Al-Hejji]]|age={{birth date and age|1995|12|3|df=y}}|caps=2|goals=0|club=[[Neom SC|Neom]]|clubnat=KSA}}
+{{nat fs g player|no=20|pos=MF|name=[[Sultan Mandash]]|age={{birth date and age|1994|10|17|df=y}}|caps=6|goals=2|club=[[Al Hilal SFC|Al-Hilal]]|clubnat=KSA}}
+{{nat fs g player|no=23|pos=MF|name=[[Mohamed Kanno]]|other=[[Captain (association football)|vice-captain]]|age={{birth date and age|1994|9|22|df=y}}|caps=76|goals=8|club=[[Al Hilal SFC|Al-Hilal]]|clubnat=KSA}}
+{{nat fs break}}
+{{nat fs g player|no=9|pos=FW|name=[[Firas Al-Buraikan]]|age={{birth date and age|2000|5|14|df=y}}|caps=69|goals=15|club=[[Al-Ahli Saudi FC|Al-Ahli]]|clubnat=KSA}}
+{{nat fs g player|no=11|pos=FW|name=[[Saleh Al-Shehri]]|age={{birth date and age|1993|11|1|df=y}}|caps=55|goals=18|club=[[Al-Ittihad Club (Jeddah)|Al-Ittihad]]|clubnat=KSA}}
+{{nat fs g player|no=17|pos=FW|name=[[Khalid Al-Ghannam]]|age={{birth date and age|2000|11|8|df=y}}|caps=6|goals=0|club=[[Al-Ettifaq Club|Al-Ettifaq]]|clubnat=KSA}}
+{{nat fs g player|no=19|pos=FW|name=[[Abdullah Al-Hamdan]]|age={{birth date and age|1999|9|13|df=y}}|caps=49|goals=12|club=[[Al-Nassr FC|Al-Nassr]]|clubnat=KSA}}
+{{nat fs end}}

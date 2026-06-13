@@ -1,0 +1,31 @@
+{
+ "team": "SWE",
+ "coach": {
+  "name_zh": "格雷厄姆·波特",
+  "name_en": "Graham Potter",
+  "nationality": "England",
+  "career_since": "2008",
+  "person_id": "per_graham_potter"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 格雷厄姆·波特，英格兰人，2008年开启执教生涯，现任瑞典国家队主帅，通过附加赛将世预赛垫底的球队拖入世界杯正赛。\n- 战术上推行现代控球体系，主打3-4-2-1或不对称4-3-3阵型，强调空间利用、人数过载及中后卫持球推进。\n- 彻底改造瑞典队传统低位防守，建立以伊萨克与吉奥克雷斯为核心、搭配逆足边锋的主动进攻框架，目前26人名单全员健康。\n- 近5场战绩2胜1平2负，世预赛连胜波兰（3-2）与乌克兰（3-1），但友谊赛表现起伏，2-2平希腊、1-3负挪威。\n- 世界杯首战将在蒙特雷对阵突尼斯，需解决高位逼抢下的攻守平衡问题，避免被对手抓转换。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.95,
+  "issues": []
+ },
+ "brief_fetched": "2026-06-13_1750",
+ "brief_info_chars": 4136,
+ "coach_xverify": {
+  "canonical": "Graham Potter",
+  "confidence": "medium",
+  "discrepancy": "所有提及教练的来源一致指向Graham Potter，但文本包含未来时间戳（2025年比赛、2026年世界杯），表明这些可能是模拟或前瞻性情境，而非当前实际执教状态。",
+  "sources_agree": 6,
+  "n_sources": 8
+ }
+}

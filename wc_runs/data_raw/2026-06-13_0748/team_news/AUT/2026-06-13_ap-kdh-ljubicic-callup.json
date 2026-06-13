@@ -1,0 +1,16 @@
+{
+ "team": "AUT",
+ "source": "AP via kdhnews",
+ "url": "https://kdhnews.com/sports/soccer/world-cup-comeback-after-3-years-away-for-austrian-midfielder/article_7b46c139-fd4c-509c-92be-ff6e2c0d25e9.html",
+ "title": null,
+ "news_date": "2026-06-13",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "asof": "2026-06-13",
+ "fetched": "2026-06-13_0748",
+ "method": "fail",
+ "status": "blocked",
+ "original_text": "",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

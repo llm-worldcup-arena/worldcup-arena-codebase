@@ -1,0 +1,411 @@
+[
+ {
+  "player_id": "995642",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/995642",
+  "name": "AliAhmed",
+  "shirt_number": 21,
+  "club": "Joined:",
+  "club_id": "1123",
+  "market_value": "€5.00m",
+  "market_value_numeric": 5000000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Outfitter:",
+  "nationality": "England",
+  "citizenships": [
+   "England",
+   "Canada",
+   "Canada",
+   "Canada",
+   "Canada",
+   "Canada",
+   "Ethiopia"
+  ],
+  "market_value_history": [
+   {
+    "date": "Aug 18, 2022",
+    "value": "€175k",
+    "value_numeric": 175000,
+    "club": "Whitecaps FC 2",
+    "age": "21"
+   },
+   {
+    "date": "Nov 8, 2022",
+    "value": "€250k",
+    "value_numeric": 250000,
+    "club": "Whitecaps FC 2",
+    "age": "22"
+   },
+   {
+    "date": "Aug 22, 2023",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "Vancouver Whitecaps FC",
+    "age": "22"
+   },
+   {
+    "date": "Dec 18, 2023",
+    "value": "€2.00m",
+    "value_numeric": 2000000,
+    "club": "Vancouver Whitecaps FC",
+    "age": "23"
+   },
+   {
+    "date": "Jun 13, 2024",
+    "value": "€2.00m",
+    "value_numeric": 2000000,
+    "club": "Vancouver Whitecaps FC",
+    "age": "23"
+   },
+   {
+    "date": "Sep 26, 2024",
+    "value": "€2.50m",
+    "value_numeric": 2500000,
+    "club": "Vancouver Whitecaps FC",
+    "age": "23"
+   },
+   {
+    "date": "Dec 12, 2024",
+    "value": "€3.00m",
+    "value_numeric": 3000000,
+    "club": "Vancouver Whitecaps FC",
+    "age": "24"
+   },
+   {
+    "date": "Jun 5, 2025",
+    "value": "€3.00m",
+    "value_numeric": 3000000,
+    "club": "Vancouver Whitecaps FC",
+    "age": "24"
+   },
+   {
+    "date": "Sep 12, 2025",
+    "value": "€3.50m",
+    "value_numeric": 3500000,
+    "club": "Vancouver Whitecaps FC",
+    "age": "24"
+   },
+   {
+    "date": "Dec 11, 2025",
+    "value": "€4.00m",
+    "value_numeric": 4000000,
+    "club": "Vancouver Whitecaps FC",
+    "age": "25"
+   },
+   {
+    "date": "May 28, 2026",
+    "value": "€5.00m",
+    "value_numeric": 5000000,
+    "club": "Norwich City",
+    "age": "25"
+   }
+  ],
+  "peak_market_value": 5000000,
+  "transfers": [],
+  "_our_pid": "per_ali_ahmed"
+ },
+ {
+  "player_id": "589006",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/589006",
+  "name": "MathieuChoinière",
+  "shirt_number": 66,
+  "club": "Joined:",
+  "club_id": "51828",
+  "market_value": "€800k",
+  "market_value_numeric": 800000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Social-Media:",
+  "nationality": "United States",
+  "citizenships": [
+   "United States",
+   "Canada",
+   "Canada",
+   "Canada",
+   "Canada",
+   "Canada"
+  ],
+  "market_value_history": [
+   {
+    "date": "Aug 15, 2018",
+    "value": "€175k",
+    "value_numeric": 175000,
+    "club": "Montreal Impact",
+    "age": "19"
+   },
+   {
+    "date": "Dec 15, 2018",
+    "value": "€200k",
+    "value_numeric": 200000,
+    "club": "Montreal Impact",
+    "age": "19"
+   },
+   {
+    "date": "May 27, 2019",
+    "value": "€350k",
+    "value_numeric": 350000,
+    "club": "Montreal Impact",
+    "age": "20"
+   },
+   {
+    "date": "Nov 30, 2019",
+    "value": "€450k",
+    "value_numeric": 450000,
+    "club": "Montreal Impact",
+    "age": "20"
+   },
+   {
+    "date": "Apr 8, 2020",
+    "value": "€400k",
+    "value_numeric": 400000,
+    "club": "Montreal Impact",
+    "age": "21"
+   },
+   {
+    "date": "Aug 26, 2020",
+    "value": "€350k",
+    "value_numeric": 350000,
+    "club": "CF Montréal",
+    "age": "21"
+   },
+   {
+    "date": "Dec 18, 2020",
+    "value": "€300k",
+    "value_numeric": 300000,
+    "club": "CF Montréal",
+    "age": "21"
+   },
+   {
+    "date": "Jul 9, 2021",
+    "value": "€300k",
+    "value_numeric": 300000,
+    "club": "CF Montréal",
+    "age": "22"
+   },
+   {
+    "date": "Nov 9, 2021",
+    "value": "€500k",
+    "value_numeric": 500000,
+    "club": "CF Montréal",
+    "age": "22"
+   },
+   {
+    "date": "Aug 18, 2022",
+    "value": "€1.00m",
+    "value_numeric": 1000000,
+    "club": "CF Montréal",
+    "age": "23"
+   },
+   {
+    "date": "Nov 8, 2022",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "CF Montréal",
+    "age": "23"
+   },
+   {
+    "date": "Aug 22, 2023",
+    "value": "€2.00m",
+    "value_numeric": 2000000,
+    "club": "CF Montréal",
+    "age": "24"
+   },
+   {
+    "date": "Dec 18, 2023",
+    "value": "€2.50m",
+    "value_numeric": 2500000,
+    "club": "CF Montréal",
+    "age": "24"
+   },
+   {
+    "date": "Jun 13, 2024",
+    "value": "€3.50m",
+    "value_numeric": 3500000,
+    "club": "CF Montréal",
+    "age": "25"
+   },
+   {
+    "date": "Dec 23, 2024",
+    "value": "€2.00m",
+    "value_numeric": 2000000,
+    "club": "Grasshopper Club Zurich",
+    "age": "25"
+   },
+   {
+    "date": "Mar 20, 2025",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "Grasshopper Club Zurich",
+    "age": "26"
+   },
+   {
+    "date": "Jun 10, 2025",
+    "value": "€800k",
+    "value_numeric": 800000,
+    "club": "Grasshopper Club Zurich",
+    "age": "26"
+   },
+   {
+    "date": "Dec 11, 2025",
+    "value": "€800k",
+    "value_numeric": 800000,
+    "club": "Los Angeles FC",
+    "age": "26"
+   },
+   {
+    "date": "Jun 2, 2026",
+    "value": "€800k",
+    "value_numeric": 800000,
+    "club": "Los Angeles FC",
+    "age": "27"
+   }
+  ],
+  "peak_market_value": 3500000,
+  "transfers": [],
+  "_our_pid": "per_mathieu_choiniere"
+ },
+ {
+  "player_id": "972465",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/972465",
+  "name": "TaniOluwaseyi",
+  "shirt_number": 21,
+  "club": "Joined:",
+  "club_id": "1050",
+  "market_value": "€7.00m",
+  "market_value_numeric": 7000000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Social-Media:",
+  "nationality": "Spain",
+  "citizenships": [
+   "Spain",
+   "Nigeria",
+   "Canada",
+   "Canada",
+   "Nigeria",
+   "Canada",
+   "Nigeria"
+  ],
+  "market_value_history": [
+   {
+    "date": "Apr 1, 2022",
+    "value": "€50k",
+    "value_numeric": 50000,
+    "club": "Minnesota United FC",
+    "age": "21"
+   },
+   {
+    "date": "Aug 18, 2022",
+    "value": "€50k",
+    "value_numeric": 50000,
+    "club": "Minnesota United FC",
+    "age": "22"
+   },
+   {
+    "date": "Nov 8, 2022",
+    "value": "€50k",
+    "value_numeric": 50000,
+    "club": "Minnesota United FC",
+    "age": "22"
+   },
+   {
+    "date": "Mar 31, 2023",
+    "value": "€100k",
+    "value_numeric": 100000,
+    "club": "Minnesota United FC",
+    "age": "22"
+   },
+   {
+    "date": "May 19, 2023",
+    "value": "€175k",
+    "value_numeric": 175000,
+    "club": "San Antonio FC",
+    "age": "23"
+   },
+   {
+    "date": "Nov 29, 2023",
+    "value": "€350k",
+    "value_numeric": 350000,
+    "club": "San Antonio FC",
+    "age": "23"
+   },
+   {
+    "date": "Jun 13, 2024",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "Minnesota United FC",
+    "age": "24"
+   },
+   {
+    "date": "Sep 26, 2024",
+    "value": "€3.00m",
+    "value_numeric": 3000000,
+    "club": "Minnesota United FC",
+    "age": "24"
+   },
+   {
+    "date": "Dec 12, 2024",
+    "value": "€3.00m",
+    "value_numeric": 3000000,
+    "club": "Minnesota United FC",
+    "age": "24"
+   },
+   {
+    "date": "Apr 17, 2025",
+    "value": "€4.50m",
+    "value_numeric": 4500000,
+    "club": "Minnesota United FC",
+    "age": "24"
+   },
+   {
+    "date": "Jun 5, 2025",
+    "value": "€5.00m",
+    "value_numeric": 5000000,
+    "club": "Minnesota United FC",
+    "age": "25"
+   },
+   {
+    "date": "Oct 2, 2025",
+    "value": "€8.00m",
+    "value_numeric": 8000000,
+    "club": "Villarreal CF",
+    "age": "25"
+   },
+   {
+    "date": "Dec 12, 2025",
+    "value": "€8.00m",
+    "value_numeric": 8000000,
+    "club": "Villarreal CF",
+    "age": "25"
+   },
+   {
+    "date": "Jun 5, 2026",
+    "value": "€7.00m",
+    "value_numeric": 7000000,
+    "club": "Villarreal CF",
+    "age": "26"
+   }
+  ],
+  "peak_market_value": 8000000,
+  "transfers": [],
+  "_our_pid": "per_tani_oluwaseyi"
+ }
+]

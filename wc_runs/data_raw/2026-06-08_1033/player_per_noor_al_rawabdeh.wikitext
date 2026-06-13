@@ -1,0 +1,118 @@
+{{short description|Jordanian footballer}}
+{{Use dmy dates|date=March 2021}}
+{{Infobox football biography
+| name = Noor Al-Rawabdeh
+| fullname = Noor Al-Deen Mahmoud Ali Al-Rawabdeh<ref name="FIFA Arab 2021">{{cite web |url=https://fdp.fifa.org/assetspublic/ce14/pdf/SquadLists-English.pdf |title=FIFA Arab Cup Qatar 2021: List of players: Jordan |publisher=[[FIFA]] |page=5 |date=4 December 2021 |access-date=14 December 2022}}</ref>
+| image = Noor Al-Rawabdeh.png
+| caption = Al-Rawabdeh with [[Jordan national football team|Jordan]] at the [[2023 AFC Asian Cup]].
+| birth_date = {{Birth date and age|1997|2|24|df=y}}<ref name="FIFA Arab 2021"/>
+| birth_place = [[Amman]], Jordan
+| height = 1.79 m
+| position = [[Midfielder]]
+| currentclub = [[Selangor F.C.|Selangor]]
+| clubnumber = 8
+| years1 = 2017–2021
+| clubs1 = [[Al-Jazeera Club (Jordan)|Al-Jazeera]]
+| caps1 = 1
+| goals1 = 1
+| years2 = 2021
+| clubs2 = [[Al-Muharraq SC|Al-Muharraq]]
+| caps2 = 0
+| goals2 = 0
+| years3 = 2022
+| clubs3 = [[Al-Faisaly SC|Al-Faisaly]]
+| caps3 = 2
+| goals3 = 2
+| years4 = 2023–
+| clubs4 = [[Selangor F.C.|Selangor]]
+| caps4 = 43
+| goals4 = 8
+| nationalyears1 = 2018–2020
+| nationalteam1 = [[Jordan national under-23 football team|Jordan U23]]
+| nationalcaps1 = 6
+| nationalgoals1 = 0
+| nationalyears2 = 2019–
+| nationalteam2 = [[Jordan national football team|Jordan]]
+| nationalcaps2 = 49
+| nationalgoals2 = 3
+| pcupdate = 17 January 2026
+| ntupdate = 10 September 2024
+| medaltemplates = {{MedalCountry|{{fb|JOR}}}}
+{{MedalSport|Men's [[association football|football]]}}
+{{MedalCompetition|[[AFC Asian Cup]]}}
+{{Medal|Runner-up|[[2023 AFC Asian Cup|2023 Qatar]]|[[2023 AFC Asian Cup squads#Jordan|Team]]}}
+}}
+
+'''Noor Al-Deen Mahmoud Ali Al-Rawabdeh''' ({{langx|ar|نُور الدِّيْن مَحمُود عَلِيّ الرَّوَّابدَة}}; born 24 February 1997) is a Jordanian professional [[association football|footballer]] who plays as a [[midfielder]] for [[Malaysia Super League]] club [[Selangor F.C.|Selangor]] and the [[Jordan national football team|Jordan national team]].
+
+==International career==
+Al-Rawabdeh debuted for the [[Jordan national football team|Jordan national team]] in a 1–1 [[2019 WAFF Championship]] tie with [[Kuwait national football team|Kuwait]] on 8 August 2019.<ref name="Global Sports Archive 2019">{{cite web | title=Match Report of Kuwait vs Jordan - 2019-08-07 - AsiaCell WAFF Championship | website=Global Sports Archive | date=8 Aug 2019 | url=https://globalsportsarchive.com/match/soccer/2019-08-08/kuwait-vs-jordan/1733296/ | access-date=25 Mar 2021}}</ref>
+
+===International goals===
+{| class="wikitable" style="font-size:95%;"
+! No !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| 1. || 14 June 2022 || [[Jaber Al-Ahmad International Stadium]], [[Kuwait City]], Kuwait || {{fb|KUW}} || align=center | '''3'''–0 || align=center | 3–0 || [[2023 AFC Asian Cup qualification – third round|2023 AFC Asian Cup qualification]]
+|-
+| 2. || 11 June 2024 || [[KSU Stadium (Riyadh)|KSU Stadium]], [[Riyadh]], Saudi Arabia || {{fb|KSA}} || align=center|'''2'''–1 || align=center| 2–1 || [[2026 FIFA World Cup qualification – AFC second round|2026 FIFA World Cup qualification]]
+|-
+| 3. || 10 September 2024 || [[Kuala Lumpur Stadium]], [[Kuala Lumpur]], Malaysia || {{fb|PLE}} || align=center|'''3'''–1 || align=center| 3–1 || [[2026 FIFA World Cup qualification – AFC third round|2026 FIFA World Cup qualification]]
+|}
+
+==Honours==
+
+=== Club ===
+'''Al-Muharraq'''
+* [[AFC Cup]]: [[2021 AFC Cup|2021]]
+* [[Bahraini FA Cup]]: 2021
+
+'''Al-Jazeera'''
+* [[Jordan FA Cup]]: [[2017–18 Jordan FA Cup|2017–18]]
+'''Selangor'''
+
+* [[MFL Challenge Cup]]: [[2024–25 MFL Challenge Cup|2024–25]]
+
+=== International ===
+'''Jordan'''
+* [[AFC Asian Cup]] runner-up: [[2023 AFC Asian Cup|2023]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Soccerway|noor-al-deen-mahmoud-ali-al-rawabdeh/504652}}
+* {{NFT|75125<!-- /Noor_Al_Deen_Al_Rawabdeh -->}}
+* https://www.utusan.com.my/terkini/2023/03/selangor-pesta-gol-ratah-kuching-city/
+
+{{Selangor F.C. squad}}
+{{Navboxes
+|title=Jordan squads
+|bg=white
+|fg=#CE1126
+|bordercolor=#CE1126
+|list1=
+{{Jordan squad 2023 AFC Asian Cup}}
+{{Jordan squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Rawabdeh, Noor Al-}}
+[[Category:1997 births]]
+[[Category:Living people]]
+[[Category:Footballers from Amman]]
+[[Category:Jordanian men's footballers]]
+[[Category:Jordan men's international footballers]]
+[[Category:Jordan men's youth international footballers]]
+[[Category:Men's association football midfielders]]
+[[Category:Al-Muharraq SC players]]
+[[Category:Al-Jazeera SC (Amman) players]]
+[[Category:Selangor F.C. players]]
+[[Category:Jordanian Pro League players]]
+[[Category:Bahraini Premier League players]]
+[[Category:Jordanian expatriate men's footballers]]
+[[Category:Jordanian expatriate sportspeople in Bahrain]]
+[[Category:Jordanian expatriate sportspeople in Malaysia]]
+[[Category:Expatriate men's footballers in Bahrain]]
+[[Category:Expatriate men's footballers in Malaysia]]
+[[Category:2023 AFC Asian Cup players]]
+[[Category:21st-century Jordanian sportsmen]]
+[[Category:2026 FIFA World Cup players]]

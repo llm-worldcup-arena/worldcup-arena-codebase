@@ -1,0 +1,98 @@
+{{short description|Panamanian football player (born 1998)}}
+{{family name hatnote|Gutiérrez|Cornejo|lang=Spanish}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+| name        = Jorge Gutiérrez
+| full_name   = Jorge Abdiel Gutiérrez Cornejo
+| birth_date  = {{birth date and age|1998|9|1|df=yes}}
+| birth_place = [[Panama City]], Panama
+| height      = 1.71 m
+| currentclub = [[Deportivo La Guaira F.C.|Deportivo La Guaira]]
+| clubnumber  = 20
+| position    = [[Left-back]]
+| years1 = 2015–2022 | clubs1 = [[Tauro F.C.|Tauro]]                             | caps1 = 141 | goals1 = 3
+| years2 = 2020–2021 | clubs2 = →[[UD Melilla|Melilla]] (loan)                   | caps2 = 23  | goals2 = 1
+| years3 = 2022–     | clubs3 = [[Deportivo La Guaira F.C.|Deportivo La Guaira]] | caps3 = 93  | goals3 = 5
+| nationalyears1 = 2017    | nationalteam1  = [[Panama national under-20 football team|Panama U20]] | nationalcaps1  = 1 | nationalgoals1 = 0
+| nationalyears2 = 2019    | nationalteam2  = [[Panama national football team|Panama U22]]          | nationalcaps2  = 3 | nationalgoals2 = 0
+| nationalyears3 = 2022–   | nationalteam3  = [[Panama national football team|Panama]]              | nationalcaps3  = 16 | nationalgoals3 = 0
+| pcupdate  = 23:17, 9 November 2025 (UTC)
+| ntupdate  = 23:22, 18 November 2025 (UTC)
+}}
+
+'''Jorge Abdiel Gutiérrez Cornejo''' (born 1 September 1998) is a Panamanian football player who plays as [[left-back]] for [[Deportivo La Guaira F.C.|Deportivo La Guaira]], and the [[Panama national football team|Panama national team]].
+
+==Career==
+Gutiérrez began his senior career with the Panamanian club [[Tauro F.C.|Tauro]].<ref>{{Cite web|url=https://bitacoradeportiva.com/2019/08/jorge-gutierrez-creo-que-vamos-a-tomar-el-camino-por-donde-deberiamos-ir/|title=Jorge Gutiérrez: "Creo que vamos a tomar el camino por donde deberíamos ir."|date=August 22, 2019}}</ref> For the 2020–21 season, he joined the Spanish club [[UD Melilla|Melilla]] on loan in the [[Primera División RFEF]].<ref>{{Cite web|url=https://www.rpctv.com/futbol-nacional/jorge-gutierrez-habla-su-experiencia-espana-n5317943|title=Jorge Gutiérrez habla sobre su experiencia en España|website=www.rpctv.com}}</ref> On 28 December 2022, he transferred to the [[Venezuelan Primera División]] side [[Deportivo La Guaira F.C.|Deportivo La Guaira]].<ref>{{Cite web|url=https://www.rpctv.com/futbol-internacional/futbol/jorge-gutierrez-es-presentado-como-nuevo-jugador-del-deportivo-la-guaira-n5823796|title=Jorge Gutiérrez es presentado como nuevo jugador del Deportivo La Guaira|website=www.rpctv.com}}</ref>
+
+==International career==
+Gutiérrez made his debut for the [[Panama national football team|Panama national team]] in a 0-0 friendly tie with [[Peru national football team|Peru]] on 16 January 2022. After 3 years away, Gutierrez would return to the national team in 2025, playing huge roles in the [[2024-25 CONCACAF Nations League|CONCACAF nations league]], [[2026 FIFA World Cup qualification (CONCACAF)|World Cup qualifiers]] and [[2025 CONCACAF Gold Cup|gold cup]]<ref>{{Cite web|url=https://www.national-football-teams.com/matches/report/33069/Peru_Panama.html|title=Peru vs. Panama|first=Benjamin|last=Strack-Zimmermann|website=www.national-football-teams.com}}</ref>
+
+==Career statistics==
+===International===
+{{updated|match played 18 November 2025}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="2"|[[Panama national football team|Panama]]
+|2022||3||0
+|-
+|2025||13||0
+|-
+!colspan="2"|Total!!16!!0
+|}
+
+==Honours==
+'''Tauro F.C.'''
+*[[Liga Panameña de Fútbol]]: [[Liga Panameña de Fútbol|2016-17 Clausura]], [[Liga Panameña de Fútbol|2018-19 Clausura]], [[Liga Panameña de Fútbol|2019 Apertura]], [[Liga Panameña de Fútbol|2021 Clausura]]
+
+'''Deportivo La Guaira'''
+*[[Copa Venezuela]]: [[2024 Copa Venezuela|2024]]
+'''Panama'''
+
+* [[CONCACAF Nations League]] runner-up: [[2024–25 CONCACAF Nations League|2024–25]]<ref>{{Cite web |date=23 March 2025 |title=Mexico beat Panama with stoppage-time penalty for CONCACAF Nations League title |url=https://www.reuters.com/sports/soccer/mexico-beat-panama-with-stoppage-time-penalty-concacaf-nations-league-title-2025-03-24/#:~:text=March%2023%20(Reuters)%20%2D%20Raul,Inglewood%2C%20California%2C%20on%20Sunday. |access-date=26 March 2025 |website=[[Reuters]]}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Soccerway|jorge-gutierrez/402421}}
+* {{NFT|85278}}
+
+{{Navboxes
+| title = Panama squads
+| bg          = #DA121A
+| fg          = white
+| bordercolor = #072357
+| list =
+{{Panama squad 2025 CONCACAF Gold Cup}}
+{{Panama squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Gutierrez, Jorge}}
+[[Category:1998 births]]
+[[Category:Living people]]
+[[Category:Footballers from Panama City]]
+[[Category:Panamanian men's footballers]]
+[[Category:21st-century Panamanian sportsmen]]
+[[Category:Panama men's international footballers]]
+[[Category:Panama men's youth international footballers]]
+[[Category:2025 CONCACAF Gold Cup players]]
+[[Category:Men's association football full-backs]]
+[[Category:Tauro F.C. players]]
+[[Category:UD Melilla footballers]]
+[[Category:Deportivo La Guaira F.C. players]]
+[[Category:Liga Panameña de Fútbol players]]
+[[Category:Primera Federación players]]
+[[Category:Venezuelan Primera División players]]
+[[Category:Panamanian expatriate men's footballers]]
+[[Category:Panamanian expatriates in Spain]]
+[[Category:Expatriate men's footballers in Spain]]
+[[Category:Panamanian expatriates in Venezuela]]
+[[Category:Expatriate men's footballers in Venezuela]]
+[[Category:2026 FIFA World Cup players]]
+
+{{Panama-footy-bio-stub}}

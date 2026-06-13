@@ -1,0 +1,142 @@
+{{short description|Ghanaian footballer (born 2003)}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+| name = Prince Kwabena Adu
+| image = 
+| fullname = 
+| birth_date = {{Birth date and age|2003|09|23|df=y}}
+| birth_place = [[Sampa, Ghana|Sampa]], [[Bono Region]], Ghana
+| height = 1.79 m
+| position = [[Midfielder]]
+| currentclub = [[FC Viktoria Plzeň|Viktoria Plzeň]]
+| clubnumber = 80
+| youthyears1 = {{0|0000}}–2019
+| youthclubs1 = [[Bechem United F.C.|Bechem United]]
+| years1 = 2019–2022
+| clubs1 = [[Bechem United F.C.|Bechem United]]
+| caps1 = 31
+| goals1 = 10
+| years2 = 2023
+| clubs2 = [[FC Isloch Minsk Raion|Isloch Minsk Raion]]
+| caps2 = 14
+| goals2 = 6
+| years3 = 2023–2024
+| clubs3 = [[FC Kryvbas Kryvyi Rih (2020)|Kryvbas Kryvyi Rih]]
+| caps3 = 15
+| goals3 = 3
+| years4 = 2024–
+| clubs4 = [[FC Viktoria Plzeň|Viktoria Plzeň]]
+| caps4 = 49
+| goals4 = 12
+| nationalyears1 = 2025–
+| nationalteam1 = [[Ghana national football team|Ghana]]
+| nationalcaps1 = 2
+| nationalgoals1 = 0
+| club-update = 26 May 2026
+| ntupdate = 15:44, 14 November 2025 (UTC)
+}}
+'''Prince Kwabena Adu''' (born 23 September 2003) is a Ghanaian [[association football|footballer]] who plays for [[FC Viktoria Plzeň|Viktoria Plzeň]] and the [[Ghana national football team|Ghana national team]]. He was included in [[The Guardian]]'s "Next Generation 2020".<ref>{{cite web|url=https://www.theguardian.com/football/ng-interactive/2020/oct/08/next-generation-2020-60-of-the-best-young-talents-in-world-football |title=Next Generation 2020: 60 of the best young talents in world football |date=8 October 2020 |accessdate=9 October 2020 |work=The Guardian}}</ref>
+
+==Career==
+On 1 September 2023, Kwabena Adu joined [[Ukrainian Premier League]] club [[FC Kryvbas Kryvyi Rih (2020)|Kryvbas Kryvyi Rih]] on a free transfer and signed a four-year contract.<ref>{{cite web |title=Ukrainian club Kryvbas Kryvyi Rih announce signing of Ghanaian duo Konadu Yiadom and Prince Kwabena Adu |url=https://ghanasoccernet.com/ukrainian-club-kryvbas-kryvyi-rih-announce-signing-of-ghanaian-duo-konadu-yiadom-and-prince-kwabena-adu |website=Ghana Soccer Net |publisher=Ghana Soccer Net |access-date=30 January 2025 |ref=4}}</ref>
+
+On 28 August 2024, Kwabena Adu signed a three-year contract with [[Czech First League]] club [[FC Viktoria Plzeň|Viktoria Plzeň]].<ref>{{cite press release|url=https://www.fcviktoria.cz/clanek.asp?id=Kralovna-ma-sveho-prince-Do-Viktorie-prichazi-Prince-Adu-z-Kryvbasu-16847 |title=Královna má svého prince! Do Viktorie přichází Prince Adu z Kryvbasu |date=28 August 2024 |accessdate=28 August 2024 |work=[[FC Viktoria Plzeň]]|language=cs}}</ref>
+
+==International career==
+Adu was called up to the [[Ghana national football team|Ghana national team]] for a set of friendly matches in November 2025.<ref>{{cite web|first=Owuraku|last=Ampofo|title=Otto Addo names 22-man Ghana squad for friendlies against Japan and South Korea|url=https://www.flashscore.com/news/soccer-kirin-cup-japan-otto-addo-names-22-man-ghana-squad-for-friendlies-against-japan-and-south-korea/8dKZmxwh/|website=FlashScore.com|date=11 November 2025|access-date=12 November 2025}}</ref>
+
+==Career statistics==
+
+===Club===
+{{updated|9 February 2025.}}<ref>{{GSA player|prince-adu-kwabena/313201}}</ref>
+
+{| class="wikitable" style="text-align: center"
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|Cup
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+|-
+|rowspan="3" |[[Bechem United F.C.|Bechem United]]
+|[[2019 Ghana Football Association Normalization Committee Special Competition|2019]]
+|rowspan="3" |[[Ghana Premier League]]
+|11||1||0||0|| colspan="2" |–||0||0||11||1
+|-
+|[[2019–20 Ghana Premier League|2019–20]]
+|13||8||0||0|| colspan="2" |–||0||0||13||8
+|-
+|[[2020–21 Ghana Premier League|2020–21]]
+|7||1||0||0|| colspan="2" |–||0||0||7||1
+|-
+|rowspan="1" |[[FC Isloch Minsk Raion|Isloch Minsk Raion]]
+|[[2023 Belarusian Premier League|2023]]
+|rowspan="1" |[[Belarusian Premier League]]
+|14||6||2||2|| colspan="2" |–||0||0||16||8
+|-
+|rowspan="2" |[[FC Kryvbas Kryvyi Rih|Kryvbas Kryvyi Rih]]
+|[[2023–24 Ukrainian Premier League|2023–24]]
+|rowspan="2" |[[Ukrainian Premier League]]
+|12||2||0||0|| colspan="2" |–||0||0||12||2
+|-
+|[[2024–25 FC Kryvbas Kryvyi Rih season|2024–25]]
+|3||1||0||0|||3||1||0||0||6||2
+|-
+|[[FC Viktoria Plzeň|Viktoria Plzeň]]
+|[[2024–25 FC Viktoria Plzeň season|2024–25]]
+|[[Czech First League]]
+|18||5||1||0||11||3||0||0||30||8
+|-
+! colspan="3" |Career total
+!78!!24!!3!!2!!14!!4!!0!!0!!95!!30
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Soccerway|prince-kwabena-adu/690223}}
+
+{{FC Viktoria Plzeň squad}}
+{{Ghana squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Adu, Prince Kwabena}}
+[[Category:2003 births]]
+[[Category:Living people]]
+[[Category:People from Sunyani District]]
+[[Category:Footballers from Bono Region]]
+[[Category:Ghanaian men's footballers]]
+[[Category:Ghana men's international footballers]]
+[[Category:Ghana men's youth international footballers]]
+[[Category:Men's association football forwards]]
+[[Category:Bechem United F.C. players]]
+[[Category:FC Isloch Minsk Raion players]]
+[[Category:FC Kryvbas Kryvyi Rih players]]
+[[Category:FC Viktoria Plzeň players]]
+[[Category:Ghana Premier League players]]
+[[Category:Belarusian Premier League players]]
+[[Category:Ukrainian Premier League players]]
+[[Category:Czech First League players]]
+[[Category:Ghanaian expatriate men's footballers]]
+[[Category:Expatriate men's footballers in Belarus]]
+[[Category:Ghanaian expatriate sportspeople in Belarus]]
+[[Category:Expatriate men's footballers in Ukraine]]
+[[Category:Ghanaian expatriate sportspeople in Ukraine]]
+[[Category:Ghanaian expatriate sportspeople in the Czech Republic]]
+[[Category:Expatriate men's footballers in the Czech Republic]]
+[[Category:21st-century Ghanaian sportsmen]]
+[[Category:2026 FIFA World Cup players]]

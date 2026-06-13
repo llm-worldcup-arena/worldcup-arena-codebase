@@ -1,0 +1,154 @@
+{{short description|Cape Verdean international footballer}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+| name = Kelvin Pires
+| image = 
+| full_name = Kelvin Spencer Pires
+| height = 1.93m
+| birth_date = {{Birth date and age|2000|6|5|df=y}}
+| birth_place = [[Mindelo]], Cape Verde
+| currentclub = [[Seinäjoen Jalkapallokerho|SJK]]
+| clubnumber = 4
+| position = [[Defender (association football)|Centre-back]]
+| youthyears1 = | youthclubs1 = [[Batuque FC|Batuque]]
+| years1 = 2019–2020 | clubs1 = [[Batuque FC|Batuque]]                     | caps1 =    | goals1 =  
+| years2 = 2020–2024 | clubs2 = [[AS Trenčín]]                             | caps2 = 52 | goals2 = 4
+| years3 = 2024      | clubs3 = → [[Seinäjoen Jalkapallokerho|SJK]] (loan) | caps3 = 26 | goals3 = 1
+| years4 = 2025–     | clubs4 = [[Seinäjoen Jalkapallokerho|SJK]]          | caps4 = 19 | goals4 = 0
+| nationalyears1 = 2021– | nationalteam1 = [[Cape Verde national football team|Cape Verde]] | nationalcaps1 = 4 | nationalgoals1 = 1
+| club-update = 19 November 2025
+| nationalteam-update = 30 March 2026
+}}
+
+'''Kelvin Spencer Pires''' ({{IPA|pt|ˈkɛl.vin ˈspɛ̃.sɛɾ ˈpi.ɾɨʃ|lang}}; born 5 June 2000) is a Cape Verdean professional [[Association football|footballer]] who plays as a [[Defender (association football)|centre back]] for [[Veikkausliiga]] club [[Seinäjoen Jalkapallokerho|SJK]] and the [[Cape Verde national football team|Cape Verde national team]].
+
+==Club career==
+Pires made his [[Slovak Super Liga|Fortuna Liga]] debut for [[AS Trenčín]] against [[FC Spartak Trnava]] on 6 March 2021.<ref>[https://int.soccerway.com/matches/2021/03/06/slovakia/super-liga/fk-as-trencin/fc-spartak-trnava/3311923/ TRENČÍN VS. SPARTAK TRNAVA 2 - 0] 06.03.2021, soccerway.com</ref>
+
+On 6 February 2024, Pires was loaned out to Finnish [[Veikkausliiga]] club [[Seinäjoen Jalkapallokerho|SJK Seinäjoki]] for the [[2024 Veikkausliiga|2024]] season.<ref>[https://sjk.fi/uutiset/tervetuloa-kelvin-pires/ Tervetuloa Kelvin Pires!], sjk.fi, 6 February 2024</ref>
+
+On 14 November 2024, Pires signed a permanent contract with SJK, on a two-year deal with a two-year option, for an undisclosed fee.<ref>[https://sjk.fi/uutiset/sjk-hankki-kelvin-piresin-pysyvasti-riveihinsa/ SJK hankki Kelvin Piresin pysyvästi riveihinsä], sjk.fi, 14 November 2024</ref>
+
+==International career==
+Pires made his debut with the [[Cape Verde national football team|Cape Verde national team]] in a [[2022 FIFA World Cup qualification]] [[Estádio Municipal Adérito Sena|home]] fixture with [[Nigeria national football team|Nigeria]] on 4 September 2021. He was featured in the starting-XI and completed the entirety of the match. Cape Verde lost 1–2.<ref>{{Cite web|title=Cape Verde Islands vs. Nigeria - 7 September 2021 - Soccerway|url=https://int.soccerway.com/matches/2021/09/07/africa/wc-qualifying-africa/cape-verde-islands/nigeria/3500850/|access-date=2021-09-07|website=int.soccerway.com}}</ref>
+
+== Career statistics ==
+===Club===
+{{updated|2 November 2024.}}
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup{{efn|Includes [[Slovak Cup]] and [[Suomen Cup]]}}
+!colspan="2"|League cup{{efn|Includes [[Finnish League Cup]]}}
+!colspan="2"|Continental
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="5"|[[AS Trenčín]]
+|[[2020–21 Slovak First Football League|2020–21]]
+|[[Slovak Super Liga]]
+|2||0||0||0||colspan="2"|–||colspan="2"|–||2||0
+|-
+|[[2021–22 Slovak First Football League|2021–22]]
+|Slovak Super Liga
+|23||0||3||0||colspan="2"|–||colspan="2"|–||26||0
+|-
+|[[2022–23 Slovak First Football League|2022–23]]
+|Slovak Super Liga
+|27||4||6||2||colspan="2"|–||colspan="2"|–||33||6
+|-
+|[[2023–24 Slovak First Football League|2023–24]]
+|Slovak Super Liga
+|0||0||3||0||colspan="2"|–||colspan="2"|–||3||0
+|-
+!colspan="2"|Total
+!52!!4!!12!!2!!–!!–!!–!!–!!64!!6
+|-
+|[[Seinäjoen Jalkapallokerho|SJK]] (loan)
+|[[2024 Veikkausliiga|2024]]
+|[[Veikkausliiga]]
+|26||1||4||2||2||0||colspan="2"|–||32||3
+|-
+|[[SJK Seinäjoki|SJK]]
+|[[2025 SJK season|2025]]
+|Veikkausliiga
+|0||0||0||0||2||0||0||0||2||0
+|-
+!colspan="3"|Career total
+!78!!5!!16!!4!!4!!0!!0!!0!!98!!9
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 30 March 2026}}
+{| class=wikitable style=text-align:center
+|-
+! colspan=4|[[Cape Verde national football team|Cape Verde]]
+|-
+!Year!!Apps!!Goals
+|-
+|2021||1||0
+|-
+|2022||1||0
+|-
+|2025||1||0
+|-
+|2026||1||1
+|-
+!colspan=1|Total||4||1
+|}
+
+:''Scores and results list Cape Verde's goal tally first, score column indicates score after each Pires goal.''
+
+{| class="wikitable sortable plainrowheaders"
+|+ List of international goals scored by Kelvin Pires
+|-
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Cap
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+|-
+|-
+|style="text-align:center"|1
+|30 March 2026||[[Eden Park]], [[Auckland]], New Zealand||style="text-align:center"|4
+|{{fb|FIN}}||style="text-align:center"|1–1||style="text-align:center"|1–1 {{pso|4–2}}||[[2026 FIFA Series (men's matches)|2026 FIFA Series]]
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://www.astrencin.sk/hrac.asp?id=Kelvin-Pires-1372&sezona=2022&kategorie=MUZ AS Trenčín official club profile] {{in lang|sk}}
+* [https://sportnet.sme.sk/futbalnet/clen/1434610/ Futbalnet profile] {{in lang|sk}}
+* {{Soccerway|kelvin-pires/661402}}
+* {{Fortunaliga.sk|1889-kelvin-spencer-pires}}
+
+{{SJK squad}}
+{{Cape Verde squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Pires, Kelvin}}
+[[Category:2000 births]]
+[[Category:Living people]]
+[[Category:Cape Verdean men's footballers]]
+[[Category:Cape Verdean expatriate men's footballers]]
+[[Category:Cape Verde men's international footballers]]
+[[Category:Men's association football defenders]]
+[[Category:Batuque FC players]]
+[[Category:AS Trenčín players]]
+[[Category:Seinäjoen Jalkapallokerho players]]
+[[Category:Slovak First Football League players]]
+[[Category:Cape Verdean expatriate sportspeople in Slovakia]]
+[[Category:Expatriate men's footballers in Slovakia]]
+[[Category:Cape Verdean expatriate sportspeople in Finland]]
+[[Category:Expatriate men's footballers in Finland]]
+[[Category:Veikkausliiga players]]
+[[Category:Sportspeople from Mindelo]]
+[[Category:2026 FIFA World Cup players]]

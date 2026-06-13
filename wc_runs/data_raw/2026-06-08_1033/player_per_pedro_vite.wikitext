@@ -1,0 +1,129 @@
+{{short description|Ecuadorian footballer (born 2002)}}
+{{family name hatnote|Vite|Uca|lang=Spanish}}
+{{Infobox football biography
+|name           = Pedro Vite
+|image          = Inter Miami CF 3-1 UNAM (6 August 2025) 04 (cropped).jpg
+|caption = Vite with [[Pumas UNAM|UNAM]] in 2025
+|fullname       = Pedro Jeampierre Vite Uca
+|birth_date     = {{birth date and age|2002|3|9|df=y}}
+|birth_place    = [[Babahoyo]], Ecuador
+|height         = 1.68 m
+|currentclub    = [[Pumas UNAM|UNAM]]
+|clubnumber     = 45
+|position       = [[Midfielder (association football)|Attacking midfielder]]
+|youthyears1    = 2014–2019
+|youthclubs1    = [[C.S.D. Independiente del Valle|Independiente del Valle]]
+|years1         = 2019–2021
+|clubs1         = [[C.D. Independiente Juniors|Independiente Juniors]]
+|caps1          = 14
+|goals1         = 3
+|years2         = 2021
+|clubs2         = [[C.S.D. Independiente del Valle|Independiente del Valle]]
+|caps2          = 14
+|goals2         = 2
+|years3         = 2021–2025
+|clubs3         = [[Vancouver Whitecaps FC]]
+|caps3          = 105
+|goals3         = 11
+|years4         = 2022
+|clubs4         = → [[Whitecaps FC 2]] (loan)
+|caps4          = 2
+|goals4         = 1
+|years5         = 2025–
+|clubs5         = [[Pumas UNAM|UNAM]]
+|caps5          = 36
+|goals5         = 2
+|nationalyears1 = 2019
+|nationalteam1  = [[Ecuador national under-17 football team|Ecuador U17]]
+|nationalcaps1  = 12
+|nationalgoals1 = 3
+|nationalyears2 = 2024
+|nationalteam2  = [[Ecuador national under-23 football team|Ecuador U23]]
+|nationalcaps2  = 5
+|nationalgoals2 = 0
+|nationalyears3 = 2023–
+|nationalteam3  = [[Ecuador national football team|Ecuador]]
+|nationalcaps3  = 15
+|nationalgoals3 = 1
+|pcupdate = 21 March 2026
+|ntupdate = 31 March 2026
+}}
+
+'''Pedro Jeampierre Vite Uca''' (born 9 March 2002) is an Ecuadorian professional [[Association football|footballer]] who plays as an [[Midfielder (association football)|attacking midfielder]] for [[Liga MX]] club [[Pumas UNAM|UNAM]] and the [[Ecuador national football team|Ecuador national team]].
+
+==Career==
+Vite came up through the youth system at [[C.S.D. Independiente del Valle|Independiente del Valle]], going on to help the team win the [[U-20 Copa Libertadores]] in 2020.<ref name="auto">{{Cite web|url=https://www.whitecapsfc.com/news/whitecaps-fc-acquire-19-year-old-ecuadorian-attacking-midfielder-pedro-vite|title=Whitecaps FC acquire 19-year-old Ecuadorian attacking midfielder Pedro Vite &#124; Vancouver Whitecaps|website=whitecapsfc}}</ref> He made his professional debut for Independiente's reserve team, [[C.D. Independiente Juniors|Independiente Juniors]], in 2019 in the [[Ecuadorian Serie B]].<ref>{{Cite web|url=https://www.benditofutbol.com/nacional/independiente-valle-despidio-pedro-vite.html|title=Independiente del Valle se despidió de Pedro Vite y William Pacho|website=Bendito Futbol|access-date=2021-08-30|archive-date=2023-04-19|archive-url=https://web.archive.org/web/20230419121117/https://www.benditofutbol.com/nacional/independiente-valle-despidio-pedro-vite.html|url-status=dead}}</ref> In 2021, Vite played his first season in the [[Ecuadorian Serie A]], scoring two goals and tallying four assists in 14 appearances. He also played one match in the [[Supercopa Ecuador]], and made ten appearances in the [[Copa Libertadores]], scoring one goal and registering two assists across the tournament.<ref name="auto"/>
+
+On 5 August 2021, Vite signed with [[Major League Soccer]] side [[Vancouver Whitecaps FC]].<ref name="auto"/>
+
+==Career statistics==
+===International===
+{{updated|match played 31 March 2026|<ref>{{NFT player|91414}}</ref>}}
+
+{| class="wikitable" style="text-align:center"
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="4"|[[Ecuador national football team|Ecuador]]
+|2023||1||1
+|-
+|2024||3||0
+|-
+|2025||9||0
+|-
+|2026||2||0
+|-
+!colspan=2|Total!!15!!1
+|}
+
+''Scores and results list Ecuador's goal tally first.''
+
+{| class="wikitable sortable"
+|+ List of international goals scored by Pedro Vite
+|-
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+|-
+| align="center"|1 || 20 June 2023 || [[Subaru Park]], [[Chester, Pennsylvania|Chester]], United States || {{fb|CRC}} || align="center"|3–1 || align="center"|3–1 || [[Exhibition game#Association football|Friendly]] 
+|}
+
+==Honours==
+'''Vancouver Whitecaps FC'''
+*[[Canadian Championship]]: [[2022 Canadian Championship|2022]],<ref>{{cite news |url=https://canadasoccer.com/news/vancouver-whitecaps-fc-win-the-2022-canadian-championship-final/|title=Vancouver Whitecaps FC win the 2022 Canadian Championship Final|date=27 July 2022 |access-date=29 July 2022 |publisher=Canada Soccer}}</ref> [[2023 Canadian Championship|2023]],<ref>{{cite news |url=https://canadasoccer.com/news/vancouver-whitecaps-fc-win-the-2023-canadian-championship/|title=Vancouver Whitecaps FC win the 2023 Canadian Championship|date=8 June 2023 |access-date=8 June 2023 |publisher=Canada Soccer}}</ref> [[2024 Canadian Championship|2024]]<ref>{{cite news |url=https://canadasoccer.com/news/vancouver-whitecaps-fc-capture-2024-voyageurs-cup/|title=Vancouver Whitecaps FC capture 2024 Voyageurs Cup|date=25 September 2024 |access-date=14 January 2025 |publisher=Canada Soccer}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Soccerway|pedro-jeampierre-vite-uca/600476}}
+
+{{Pumas UNAM squad}}
+{{Ecuador squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Vite, Pedro}}
+[[Category:2002 births]]
+[[Category:Living people]]
+[[Category:Men's association football midfielders]]
+[[Category:Ecuadorian men's footballers]]
+[[Category:21st-century Ecuadorian sportsmen]]
+[[Category:Ecuadorian expatriate men's footballers]]
+[[Category:Expatriate men's soccer players in Canada]]
+[[Category:Expatriate men's footballers in Mexico]]
+[[Category:Ecuadorian Serie A players]]
+[[Category:Ecuadorian Serie B players]]
+[[Category:Liga MX players]]
+[[Category:Independiente del Valle footballers]]
+[[Category:Vancouver Whitecaps FC players]]
+[[Category:Pumas UNAM footballers]]
+[[Category:People from Babahoyo]]
+[[Category:Footballers from Los Ríos Province]]
+[[Category:Major League Soccer players]]
+[[Category:MLS Next Pro players]]
+[[Category:2026 FIFA World Cup players]]
+
+
+{{Ecuador-footy-forward-stub}}

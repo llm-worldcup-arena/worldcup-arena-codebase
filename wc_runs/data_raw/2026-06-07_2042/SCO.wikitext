@@ -1,0 +1,77 @@
+{{Short description|Men's association football team}}
+{{about|the Scotland men's national football team|the women's team|Scotland women's national football team}}
+{{Use dmy dates|date=January 2021}}
+{{Use British English|date=December 2013}}
+{{Infobox national football team
+| Name               = Scotland 
+| Badge              = Scotland national football team logo 2014.svg
+| Badge_size         = 200px
+| Nickname           = [[Tartan Army|The Tartan Army]] (supporters)
+| FIFA Trigramme     = SCO
+| Association        = [[Scottish Football Association]] (SFA)
+| Confederation      = [[UEFA]] (Europe)
+| website            = [https://www.scottishfa.co.uk/ scottishfa.co.uk]
+| Coach              = [[Steve Clarke]]
+| Captain            = [[Andy Robertson]]
+| Most caps          = [[Kenny Dalglish]] (102)
+| Top scorer         = [[Kenny Dalglish]]<br/>[[Denis Law]] (30)
+| Home Stadium       = [[Hampden Park]]
+| FIFA Rank          = {{FIFA World Rankings|SCO}}
+| FIFA max           = 13<ref name="peak ranking">{{cite web |title=Scots close in on England ranking |url=https://news.bbc.co.uk/sport2/hi/football/internationals/7059726.stm |publisher=BBC Sport |date=24 October 2007 |access-date=14 October 2015 |archive-date=1 June 2013 |archive-url=https://web.archive.org/web/20130601132548/http://news.bbc.co.uk/sport1/hi/football/internationals/7059726.stm |url-status=live }}</ref>
+| FIFA max date      = October 2007
+| FIFA min           = 88<ref name = 88rank>{{cite web |title=Wales fall in Fifa world rankings |url=https://news.bbc.co.uk/sport2/hi/football/internationals/4377609.stm |publisher=BBC Sport |date=24 March 2005 |access-date=13 May 2007 |archive-date=27 June 2018 |archive-url=https://web.archive.org/web/20180627034847/http://news.bbc.co.uk/sport1/hi/football/internationals/4377609.stm |url-status=live }}</ref>
+| FIFA min date      = March 2005
+| Elo Rank           = {{World Football Elo Ratings|Scotland}}
+| Elo max            = 1<ref name="World Football Elo Ratings"/>
+| Elo max date       = 1876–92, 1904
+| Elo min            = 64<ref name="World Football Elo Ratings"/>
+| Elo min date       = May 2005
+| pattern_la1        = _sco26h
+| pattern_b1         = _sco26hA
+| pattern_ra1        = _sco26h
+| pattern_sh1        = _sco26h
+| pattern_so1        = _sco26hl 
+| leftarm1           = 000040
+| body1              = 000040
+| rightarm1          = 000040
+| shorts1            = 000040
+| socks1             = 000040
+| pattern_la2        = _sco26a
+| pattern_b2         = _sco26aA
+| pattern_ra2        = _sco26a
+| pattern_sh2        = _sco26a2
+| pattern_so2        = _adidaswhitel
+| leftarm2           = fa4d4f
+| body2              = fa4d4f
+| rightarm2          = fa4d4f
+| shorts2            = 4C2882
+| socks2             = 4C2882
+| pattern_la3        = 
+| pattern_b3         = 
+| pattern_ra3        = 
+| pattern_sh3        = 
+| pattern_so3        = 
+| leftarm3           =
+| body3              = 
+| rightarm3          = 
+| shorts3            = 
+| socks3             = 
+| First game         = {{fb|SCO}} [[1872 Scotland v England football match|0–0]] {{fb-rt|ENG}}<br />([[Partick]], Scotland; 30 November 1872)<br />{{small|(The first ever international football match)}}
+| Largest win        = {{fb|SCO}} 11–0 {{Fb-rt|IRE|1783}}<br />([[Glasgow]], Scotland; 23 February 1901)
+| Largest loss       = {{Fb|URU}} 7–0 {{fb-rt|SCO}}<br />([[Basel]], Switzerland; 19 June 1954)
+| World cup apps     = 9
+| World cup first    = 1954
+| World cup best     = Group stage ([[1954 FIFA World Cup|1954]], [[1958 FIFA World Cup|1958]], [[1974 FIFA World Cup|1974]], [[1978 FIFA World Cup|1978]], [[1982 FIFA World Cup|1982]], [[1986 FIFA World Cup|1986]], [[1990 FIFA World Cup|1990]], [[1998 FIFA World Cup|1998]])
+
+| Regional name      = [[UEFA European Championship|European Championship]]
+| Regional cup apps  = 4
+| Regional cup first = [[UEFA Euro 1992|1992]]
+| Regional cup best  = Group stage ([[UEFA Euro 1992|1992]], [[UEFA Euro 1996|1996]], [[UEFA Euro 2020|2020]], [[UEFA Euro 2024|2024]])
+}}
+The '''Scotland national football team'''<ref group="note">{{langx|gd|Sgioba Ball-coise Nàiseanta na h-Alba}}<br />{{langx|sco|Scotland naitional fitbaw team}}</ref> represents [[Scotland]] in men's international [[Association football|football]] and is controlled by the [[Scottish Football Association]]. They compete in three major professional tournaments: the [[FIFA World Cup]], [[UEFA Nations League]], and the [[UEFA European Championship]]. Scotland, as a [[Countries of the United Kingdom|country of the United Kingdom]], are not a member of the [[International Olympic Committee]] (as Scottish athletes compete for [[Great Britain at the Olympics|Great Britain]]), and therefore the national team does not compete in the [[Olympic Games]]. The majority of [[Scotland national football team home stadium|Scotland's home matches]] are played at the national stadium, [[Hampden Park]].
+
+Scotland are the joint oldest national football team in the world, alongside [[England national football team|England]], whom they played in the world's [[1872 Scotland v England football match|first international football match]] in 1872. Scotland has a long-standing [[England–Scotland football rivalry|rivalry with England]],<ref name="them">{{cite web|url=https://news.bbc.co.uk/2/hi/special_report/1999/11/99/battle_of_britain/473756.stm|title=A history of fierce football rivalry|date=13 October 1999|access-date=25 October 2007|publisher=BBC|archive-date=15 September 2007|archive-url=https://web.archive.org/web/20070915135505/http://news.bbc.co.uk/1/hi/special_report/1999/11/99/battle_of_britain/473756.stm|url-status=live}}</ref> whom they played annually from 1872 until 1989. The teams have met only nine times since then, most recently in a [[Exhibition game|friendly]] in September 2023.
+
+Scotland have qualified for the FIFA World Cup on nine occasions, and the UEFA European Championship four times, but they have never progressed beyond the first group stage of a finals tournament.<ref>{{Cite web|date=2021-06-22|title=Modric magic ensures Croatia prolong Scotland's tournament woes|url=https://www.espn.com/soccer/uefa-european-championship/story/4417211/modric-magic-ensures-croatia-prolong-scotlands-major-tournament-woes-as-tartan-armys-euro-2020-hopes-end|access-date=2021-06-23|website=ESPN.com|language=en|archive-date=7 May 2022|archive-url=https://web.archive.org/web/20220507010906/https://www.espn.com/soccer/uefa-european-championship/story/4417211/modric-magic-ensures-croatia-prolong-scotlands-major-tournament-woes-as-tartan-armys-euro-2020-hopes-end|url-status=live}}</ref> The team have achieved some noteworthy results, such as beating the [[1966 FIFA World Cup]] winners England 3–2 at [[Wembley Stadium (1923)|Wembley Stadium]] in 1967. [[Archie Gemmill]] scored what has been described as one of the greatest World Cup goals ever in a 3–2 win during the [[1978 FIFA World Cup|1978 World Cup]] against the [[Netherlands national football team|Netherlands]], who reached the final of the tournament.<ref name="MacLeod" /> In their [[UEFA Euro 2008 qualifying Group B|qualifying group]] for [[UEFA Euro 2008]], Scotland defeated [[2006 FIFA World Cup|2006 World Cup]] runners-up [[France national football team|France]] 1–0 in both fixtures.
+
+Scotland supporters are collectively known as the [[Tartan Army]]. The Scottish Football Association operates a [[Scottish FA International Roll of Honour|roll of honour]] for every player who has made more than 50 [[cap (sport)|appearances]] for Scotland.<ref name="roll of honour" /> [[Kenny Dalglish]] holds the record for Scotland appearances, having played 102 times between 1971 and 1986.<ref name="roll of honour" /> Dalglish scored 30 goals for Scotland and shares the record for most goals scored with [[Denis Law]].

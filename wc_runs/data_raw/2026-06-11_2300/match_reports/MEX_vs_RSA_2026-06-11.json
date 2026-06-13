@@ -1,0 +1,55 @@
+{
+ "date": "2026-06-11",
+ "comp": "世界杯·A组·第1轮",
+ "home": "MEX",
+ "away": "RSA",
+ "score": "2-0",
+ "ht": "1-0",
+ "ha_home": "主",
+ "goals": [
+  {
+   "min": 9,
+   "team": "MEX",
+   "player": "Julián Quiñones",
+   "type": "运动战"
+  },
+  {
+   "min": "下半场",
+   "team": "MEX",
+   "player": "Raúl Jiménez",
+   "type": "运动战"
+  }
+ ],
+ "cards": [
+  {
+   "min": 49,
+   "team": "RSA",
+   "player": "Sphephelo Sithole",
+   "type": "红·DOGSO"
+  },
+  {
+   "min": 84,
+   "team": "RSA",
+   "player": "Themba Zwane",
+   "type": "红·暴力行为"
+  },
+  {
+   "min": "90+2",
+   "team": "MEX",
+   "player": "César Montes",
+   "type": "红·DOGSO"
+  }
+ ],
+ "injuries": [],
+ "suspensions": [],
+ "narrative": "2026世界杯揭幕战,墨西哥在墨西哥城阿兹特克主场2-0南非(半场1-0)。Quiñones第9分钟首开纪录(本届赛事首球),Jiménez下半场锁定胜局(35岁打入个人世界杯首球)。全场3张红牌创世界杯揭幕战纪录:南非Sithole(49')、Zwane(84')先后被罚下,墨西哥Montes(90+2')补时染红,两队均非满员收场。",
+ "prediction_note": "对后续预测含义:墨西哥中卫César Montes下场停赛(后防深度受影响);南非Sithole、Zwane双双停赛且0分开局,次战形势严峻。",
+ "_sources": [
+  "ESPN",
+  "Washington Post",
+  "FOX Sports",
+  "CBS Sports",
+  "CNN",
+  "Al Jazeera"
+ ]
+}

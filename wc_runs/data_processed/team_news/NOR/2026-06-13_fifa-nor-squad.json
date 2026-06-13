@@ -1,0 +1,16 @@
+{
+ "team": "NOR",
+ "source": "FIFA.com",
+ "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/norway-squad-announcement-stale-solbakken",
+ "title": "Norway squad announcement | FIFA World Cup 2026",
+ "news_date": "2026-06-13",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "asof": "2026-06-13",
+ "fetched": "2026-06-13_0748",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Norway coach Stale Solbakken has chosen his 26-man squad ahead of the tournament in Canada, Mexico and USA.\nNorway have announced their 26-man squad for the FIFA World Cup 2026™.\nStale Solbakken's squad are returning to the global finals for the first time since France 1998 and boast a bevy of big European stars that will take on France, Iraq and Senegal in Group I.\nTo no one's surprise, Manchester City superstar Erling Haaland and Arsenal midfield wizard Martin Odegaard head up the list, while joining the hulking Haaland up front will be Atletico Madrid marksman Alexander Sorloth. Standout winger Antonio Nusa and assist machine Julian Ryerson also add punch to an attack that will give the back lines of Les Bleus, Lions of Mesopotamia and Lions of Teranga plenty to think about.\nAmong the players narrowly missing out are 21-year-old Bologna defender Eivind Helland, one of the more promising centre-backs in Norwegian football, and midfielder Aron Donnum of Toulouse, who played a role in Norway's successful UEFA qualifying campaign.\nExplore hospitality packages for Norway's FIFA World Cup 2026™ matchesExplore hospitality packages for Norway's FIFA World Cup 2026™ matches\nNorway's World Cup squadNorway's World Cup squad\nGoalkeepersGoalkeepers\nOrjan Haskjold Nyland Egil Selvik Sander Tangvik\nDefendersDefenders\nKristoffer Vassbakk Ajer Fredrik Bjorkan Henrik Falchener Sondre Langas Torbjorn Heggem Marcus Holmgren Pedersen Julian Ryerson David Moller Wolfe Leo Ostigard\nMidfieldersMidfielders\nThelonious Aasgaard Fredrik Aursnes Patrick Berg Sander Berge Oscar Bobb Jens Petter Hauge Antonio Nusa Andreas Schjelderup Morten Thorsby Kristian Thorstvedt Martin Odegaard\nForwardsForwards\nErling Haaland Jorgen Strand Larsen Alexander Sorloth\nAll squads are provisional until the final list of 26 players is announced by FIFA, following their submission by participating teams, on 2 June.\nNorway's World Cup 26 fixtures Norway's World Cup 26 fixtures\n16 June: Iraq v Norway - Boston Stadium\n22 June: Norway v Senegal - New York New Jersey Stadium\n26 June: Norway v France - Boston Stadium\nRead more on Norway at the World CupRead more on Norway at the World Cup",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

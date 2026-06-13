@@ -1,0 +1,239 @@
+{{Short description|Panamanian footballer (born 1998)}}
+{{family name hatnote|Blackman|Camarena|lang=Spanish}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+|name        = César Blackman
+|image       = Partido Galicia - Panamá en Balaídos 153.jpg
+|caption     = Blackman in 2024
+|fullname    = César Rodolfo Blackman Camarena
+|height      = 1.74 m
+|birth_date  = {{Birth date and age|1998|4|2|df=y}}
+|birth_place = [[Panama City]], Panama
+|currentclub = [[ŠK Slovan Bratislava|Slovan Bratislava]]
+|clubnumber  = 28
+|position    = [[Defender (association football)|Right-back]]
+|youthyears1 =
+|youthclubs1 = 
+|years1      = 2015–2017
+|clubs1      = [[Chorrillo F.C.|Chorrillo]]
+|caps1       = 43
+|goals1      = 1
+|years2      = 2017–2023
+|clubs2      = [[FC DAC 1904 Dunajská Streda|DAC Dunajská Streda]]
+|caps2       = 108
+|goals2      = 3
+|years3      = 2023–
+|clubs3      = [[ŠK Slovan Bratislava|Slovan Bratislava]]
+|caps3       = 80
+|goals3      = 5
+|nationalyears1 =
+|nationalteam1  = Panama U17
+|nationalcaps1  =
+|nationalgoals1 = 
+|nationalyears2 = 2017
+|nationalteam2  = Panama U20
+|nationalcaps2  = 6
+|nationalgoals2 = 0
+|nationalyears3 = 2019–
+|nationalteam3  = [[Panama national football team|Panama]]
+|nationalcaps3  = 35
+|nationalgoals3 = 3
+|pcupdate       = 16 May 2026
+|ntupdate       = 21:30, 18 November 2025 (UTC)
+|medaltemplates = {{Medal|Sport|Men's [[association football|football]]}}
+{{Medal|Country|{{fb|PAN}}}}
+{{MedalCompetition|[[CONCACAF Gold Cup]]}}
+{{Medal|RU|[[2023 CONCACAF Gold Cup|2023 United States–Canada]]|[[2023 CONCACAF Gold Cup squads#Panama|Team]]}}
+{{MedalCompetition|[[CONCACAF Nations League]]}}
+{{Medal|RU|[[2025 CONCACAF Nations League Finals|2025 United States]]|[[2025 CONCACAF Nations League Finals squads#Panama|Team]]}}
+}}
+
+'''César Rodolfo Blackman Camarena''' (born 2 April 1998) is a Panamanian professional [[association football|footballer]] who plays as a [[Defender (association football)|right-back]] for [[Slovak First Football League]] club [[ŠK Slovan Bratislava|Slovan Bratislava]] and the [[Panama national football team|Panama national team]].
+
+==Club career==
+Blackman made his [[Slovak Super Liga|Fortuna Liga]] debut for [[FC DAC 1904 Dunajská Streda|Dunajská Streda]] against [[MFK Ružomberok|Ružomberok]] on 10 March 2018.<ref>[https://uk.soccerway.com/matches/2018/03/10/slovakia/super-liga/dac-1904-dunajska-streda/mfk-ruomberok/2749856/ DAC VS. RUŽOMBEROK 3 - 0] 10.03.2018, soccerway.com</ref>
+
+==International career==
+He made his debut for the [[Panama national football team]] on 23 March 2019 in a friendly against [[Brazil national football team|Brazil]], as an 85th-minute substitute for [[Michael Amir Murillo]].<ref>{{cite web|publisher=[[ESPN]]|url=http://www.espn.com/soccer/commentary?gameId=537099|title=Brazil v Panama game report|date=23 March 2019}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 16 May 2026}}
+
+{|class="wikitable" style="text-align: center;"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|National cup
+!colspan=2|Continental
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan=4|[[Club Deportivo Universitario|Chorillo]]
+|[[2015–16 Liga Panameña de Fútbol season|2015–16]]
+|[[Liga Panameña de Fútbol|LPF]]
+|8||0||0||0||colspan="2"|–||colspan="2"|–||8||0
+|-
+|[[2016–17 Liga Panameña de Fútbol season|2016–17]]
+|LPF
+|30||1||0||0||colspan="2"|–||colspan="2"|–||30||1
+|-
+|[[2017–18 Liga Panameña de Fútbol season|2017–18]]
+|LPF
+|5||0||0||0||colspan="2"|–||colspan="2"|–||5||0
+|-
+!colspan=2|Total
+!43!!1!!0!!0!!colspan="2"|–!!colspan="2"|–!!43!!1
+|-
+|rowspan=7|[[FC DAC 1904 Dunajská Streda|DAC Dunajská Streda]]
+|[[2017–18 Slovak First Football League|2017–18]]
+|[[Slovak First Football League]]
+|4||0||2||0||colspan="2"|–||colspan="2"|–||6||0
+|-
+|[[2018–19 Slovak First Football League|2018–19]]
+|Slovak First Football League
+|6||0||0||0||colspan="2"|–||colspan="2"|–||6||0
+|-
+|[[2019–20 Slovak First Football League|2019–20]]
+|Slovak First Football League
+|26||1||6||0||4{{efn|name=UEL|Appearances in [[UEFA Europa League]]}}||0||colspan="2"|–||36||1
+|-
+|[[2020–21 Slovak First Football League|2020–21]]
+|Slovak First Football League
+|27||0||1||0||3{{efn|name=UEL}}||0||colspan="2"|–||31||0
+|-
+|[[2021–22 Slovak First Football League|2021–22]]
+|Slovak First Football League
+|18||0||2||1||0||0||colspan="2"|–||20||1
+|-
+|[[2022–23 Slovak First Football League|2022–23]]
+|Slovak First Football League
+|27||2||3||0||6{{efn|Appearances in [[UEFA Conference League]]}}||0||colspan="2"|–||36||2
+|-
+!colspan=2|Total
+!108!!3!!14!!1!!13!!0!!colspan="2"|–!!135!!4
+|-
+|rowspan=4|[[ŠK Slovan Bratislava|Slovan Bratislava]]
+|[[2023–24 ŠK Slovan Bratislava season|2023–24]]
+|Slovak First Football League
+|26||2||1||0||10{{efn|One appearance in [[UEFA Champions League]], two appearances in UEFA Europa League, seven appearances in [[UEFA Conference League]]}}||0||0||0||37||2
+|-
+|[[2024–25 ŠK Slovan Bratislava season|2024–25]]
+|Slovak First Football League
+|27||1||6||0||15{{efn|name=UCL|Appearances in UEFA Champions League}}||0||0||0||48||1
+|-
+|[[2025–26 ŠK Slovan Bratislava season|2025–26]]
+|Slovak First Football League
+|27||2||1||0||12{{efn|Four appearances in UEFA Champions League, two appearances in UEFA Europa League, six appearances and one goal in UEFA Conference League}}||1||colspan="2"|—||40||3
+|-
+!colspan=2|Total
+!80!!5!!8!!0!!37!!1!!0!!0!!125!!6
+|-
+!colspan=3|Career total
+!205!!8!!22!!1!!50!!1!!0!!0!!266!!10
+|}
+
+{{notelist}}
+
+===International===
+{{updated|match played 18 November 2025}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="6"|[[Panama national football team|Panama]]
+|2019||3||0
+|-
+|2021||3||0
+|-
+|2022||3||0
+|-
+|2023||10||0
+|-
+|2024||9||2
+|-
+|2025||7||1
+|-
+!colspan="2"|Total!!35!!3
+|}
+
+:''Scores and results list Panama’s goal tally first, score column indicates score after each Blackman goal''.<ref name="NFT">{{NFT|74014|accessdate=18 November 2025}}</ref>
+
+{| class="wikitable sortable"
+|+ List of international goals scored by César Blackman
+|-
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+|-
+|align="center"|1||27 June 2024||[[Mercedes-Benz Stadium]], [[Atlanta]], United States||{{fb|USA}}||align="center"|1–1||align="center"|2–1||[[2024 Copa América]]
+|-
+|align="center"|2||18 November 2024||rowspan=2|[[Estadio Rommel Fernández]], [[Panama City]], Panama||{{fb|CRC}}||align="center"|1–0||align="center"|2–2||[[2024–25 CONCACAF Nations League]]
+|-
+|align="center"|3||18 November 2025||{{fb|SLV}}||align="center"|1–0||align="center"|3–0|| [[2026 FIFA World Cup qualification – CONCACAF third round|2026 FIFA World Cup qualification]]
+|}
+
+==Honours==
+'''Panama'''
+
+* [[CONCACAF Gold Cup]] runner-up: [[2023 CONCACAF Gold Cup|2023]]<ref>{{Cite web |title=Mexico 1-0 Panama (Jul 16, 2023) Final Score |url=https://www.espn.com/soccer/match/_/gameId/678990/panama-mexico |access-date=2025-03-27 |website=ESPN |language=en}}</ref>
+* [[CONCACAF Nations League]] runner-up: [[2024–25 CONCACAF Nations League|2024–25]]<ref>{{Cite web |date=23 March 2025 |title=Mexico beat Panama with stoppage-time penalty for CONCACAF Nations League title |url=https://www.reuters.com/sports/soccer/mexico-beat-panama-with-stoppage-time-penalty-concacaf-nations-league-title-2025-03-24/#:~:text=March%2023%20(Reuters)%20%2D%20Raul,Inglewood%2C%20California%2C%20on%20Sunday. |access-date=26 March 2025 |website=[[Reuters]]}}</ref>
+
+'''Individual'''
+*[[Slovak Super Liga]] Goal of the Month:[[2019-20 Slovak First Football League#Monthly awards|June/July 2020]]<ref>{{Cite web|url=https://www.fortunaliga.sk:443/gol-mesiaca?id=20|title=Gól mesiaca|website=Fortuna liga}}</ref>
+*[[Slovak Super Liga]] Team of the Season: [[2020-21 Slovak First Football League#Team of the Season|2020-21]]<ref name="fortunaliga.sk">{{Cite web|url=https://sportky.zoznam.sk/c/264789/zsolt-kalmar-najlepsim-hracom-jedenastku-sezony-ovladol-bratislavsky-slovan|title=Zsolt Kalmar najlepsim hracom...|website=Fortuna liga|date=23 May 2021}}</ref>
+*[[Slovak Super Liga]] U-21 Team of the Season: [[2019-20 Slovak First Football League#U-21 Team of the Season|2019-20]],<ref name="fortunaliga.sk"/> [[2020-21 Slovak First Football League#U-21 Team of the Season|2020-21]]<ref name="fortunaliga.sk"/>
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://fcdac.sk/sk/hrac/3319/cesar-blackman-camarena- FC DAC 1904 Dunajská Streda official club profile]
+*[http://futbalnet.sk/member/1397403/#player Futbalnet profile]
+*{{Soccerway|cesar-blackman-/428934}}
+*{{NFT player|74014}}
+
+{{ŠK Slovan Bratislava squad}} 
+{{Navboxes
+|title=Panama squads
+| bg          = #DA121A
+| fg          = white
+| bordercolor = #072357
+|list1=
+{{Panama squad 2023 CONCACAF Gold Cup}}
+{{Panama squad 2024 Copa América}}
+{{Panama squad 2025 CONCACAF Gold Cup}}
+{{Panama squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Blackman, Cesar}}
+[[Category:1998 births]]
+[[Category:Living people]]
+[[Category:Footballers from Panama City]]
+[[Category:Men's association football defenders]]
+[[Category:Panamanian men's footballers]]
+[[Category:21st-century Panamanian sportsmen]]
+[[Category:Panamanian expatriate men's footballers]]
+[[Category:Panama men's youth international footballers]]
+[[Category:Panama men's international footballers]]
+[[Category:2023 CONCACAF Gold Cup players]]
+[[Category:2024 Copa América players]]
+[[Category:2025 CONCACAF Gold Cup players]]
+[[Category:Club Deportivo Universitario players]]
+[[Category:FC DAC 1904 Dunajská Streda players]]
+[[Category:ŠK Slovan Bratislava players]]
+[[Category:Slovak First Football League players]]
+[[Category:Expatriate men's footballers in Slovakia]]
+[[Category:Panamanian expatriate sportspeople in Slovakia]]
+[[Category:2026 FIFA World Cup players]]
+
+{{Panama-footy-bio-stub}}

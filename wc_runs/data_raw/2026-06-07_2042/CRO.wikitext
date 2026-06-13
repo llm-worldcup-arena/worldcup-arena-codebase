@@ -1,0 +1,75 @@
+{{Short description|Men's association football team}}
+{{About|the men's team|the women's team|Croatia women's national football team}}
+{{Good article}}
+{{Use dmy dates|date = November 2022}}
+{{Infobox national football team
+| Name               = Croatia
+| Nickname           = {{lang|hr|Vatreni}} (Blazers)<br />{{lang|hr|Kockasti}} (Checkered Ones)
+| Badge              = Flag of Croatia.svg<!--Don't place the current logo of the Croatian Football Federation here, as it's non-free under Wikipedia policy. Under the current policy, it can only be used on the page of the federation itself.-->
+| Badge_size         = 200px
+| Association        = [[Croatian Football Federation|Hrvatski nogometni savez]] (HNS)
+| Confederation      = [[UEFA]] (Europe)
+| FIFA Trigramme     = CRO
+| FIFA Rank          = {{FIFA World Rankings|CRO}}
+| FIFA max           = 3
+| FIFA max date      = July 1998
+| FIFA min           = 125
+| FIFA min date      = March 1994
+| Elo Rank           = {{World Football Elo Ratings|Croatia}}
+| Elo max            = 5
+| Elo max date       = July 1998, July 2018
+| Elo min            = 26
+| Elo min date       = October 2002
+| Coach              = [[Zlatko Dalić]]
+| Captain            = [[Luka Modrić]]
+| Most caps          = Luka Modrić (197)
+| Top scorer         = [[Davor Šuker]] ([[List of international goals scored by Davor Šuker|45]])
+| pattern_la1=_cro26h
+| pattern_b1=_cro26h
+| pattern_ra1=_cro26h
+| pattern_sh1=_cro26h
+| pattern_so1=
+| leftarm1=FFFFFF
+| body1=FFFFFF
+| rightarm1=FFFFFF
+| shorts1=FFFFFF
+| socks1=FFFFFF
+| pattern_la2=_cro26a
+| pattern_b2=_cro26a
+| pattern_ra2=_cro26a
+| pattern_sh2=_cro26a
+| pattern_so2=
+| leftarm2=000081
+| body2=000081
+| rightarm2=000081
+| shorts2=000081
+| socks2=0033F5
+| First game         = {{fb|Banovina of Croatia}} 4–0 {{fb-rt|SWI}}<br />([[Zagreb]], Yugoslavia<!-- DO NOT LINK, see [[MOS:GEOLINK]] for further guidance -->; 2 April 1940)
+| Largest win        = {{fb|CRO}} 10–0 {{fb-rt|SMR}}<br />([[Rijeka]], Croatia<!-- DO NOT LINK, see [[MOS:GEOLINK]] for further guidance -->; 4 June 2016)
+| Largest loss       = {{fb|SPA}} 6–0 {{fb-rt|CRO}}<br />([[Elche]], Spain<!-- DO NOT LINK, see [[MOS:GEOLINK]] for further guidance -->; 11 September 2018)
+| World cup apps     = 7
+| World cup first    = 1998
+| World cup best     = Runners-up ([[2018 FIFA World Cup|2018]])
+| Regional name      = [[UEFA European Championship|European Championship]]
+| Regional cup apps  = 7
+| Regional cup first = [[UEFA Euro 1996|1996]]
+| Regional cup best  = Quarter-finals ([[UEFA Euro 1996|1996]], [[UEFA Euro 2008|2008]])
+| 2ndRegional name   = [[UEFA Nations League|Nations League Finals]]
+| 2ndRegional cup apps = 1
+| 2ndRegional cup first = [[2023 UEFA Nations League Finals|2023]]
+| 2ndRegional cup best = Runners-up ([[2023 UEFA Nations League Finals|2023]])
+| website            = {{Official URL}}
+| medaltemplates     = {{MedalSport|Men's [[Association football|football]]}}
+{{MedalCompetition|[[FIFA World Cup]]}}
+{{MedalSilver|[[2018 FIFA World Cup|2018 Russia]]|[[2018 FIFA World Cup squads#Croatia|Team]]}}
+{{MedalBronze|[[2022 FIFA World Cup|2022 Qatar]]|[[2022 FIFA World Cup squads#Croatia|Team]]}}
+{{MedalBronze|[[1998 FIFA World Cup|1998 France]]|[[1998 FIFA World Cup squads#Croatia|Team]]}}
+{{MedalCompetition|[[UEFA Nations League]]}}
+{{MedalSilver|[[2023 UEFA Nations League Finals|2023 Netherlands]]|[[2023 UEFA Nations League Finals squads#Croatia|Team]]}}
+}}
+
+The '''Croatia national football team''' ({{langx|hr|Hrvatska nogometna reprezentacija}}) represents [[Croatia]] in men's international [[Association football|football]] matches. It is governed by the [[Croatian Football Federation]] (HNS), the governing body for [[football in Croatia]]. It is a member of [[UEFA]] in Europe and [[FIFA]] in global competition. The team's colours reference two national symbols: the [[Croatian checkerboard]] and the [[Flag of Croatia|country's tricolour]]. They are colloquially known as the {{lang|hr|Vatreni}} (Blazers) and the {{lang|hr|Kockasti}} (Checkered Ones). 
+
+Since 2000, the {{lang|hr|Vatreni}} have qualified for every major tournament except [[UEFA Euro 2000]] and the [[2010 FIFA World Cup]]. At the [[FIFA World Cup|World Cup]], Croatia has finished second once ([[2018 FIFA World Cup|2018]]) and third on two occasions ([[1998 FIFA World Cup|1998]], [[2022 FIFA World Cup|2022]]), securing three World Cup medals. [[Davor Šuker]] won the [[FIFA World Cup awards|Golden Shoe]] and the [[FIFA World Cup awards|Silver Ball]] in 1998, while [[Luka Modrić]] won the [[FIFA World Cup awards|Golden Ball]] in 2018 and the [[FIFA World Cup awards#Golden Ball|Bronze Ball]] in 2022. The team has reached the quarter-finals of the [[UEFA European Championship]] twice ([[UEFA Euro 1996|1996]], [[UEFA Euro 2008|2008]]). They finished second in the [[UEFA Nations League]] in [[2022–23 UEFA Nations League|2023]]. As of March 2026, Croatia maintains an [[World Football Elo Ratings|Elo Rating]] of 1,944 with an all-time high of 2,012 recorded in 2023. 
+
+Upon its admission into FIFA in 1994 ranked 125th, they ascended to third place with their debut [[Croatia at the 1998 FIFA World Cup|1998 World Cup campaign]]. This marked the [[Croatia national football team#FIFA ranking history|fastest, most volatile ascension]] in FIFA ranking history, making them the youngest team to ever reach a Top 10 place in the [[FIFA Men's World Ranking|World Ranking]]. Croatia is the second-smallest country by population (after [[Uruguay national football team|Uruguay]]) and land mass (after the [[Netherlands national football team|Netherlands]]) to reach a [[List of FIFA World Cup finals|World Cup final]]. At the World Cup, Croatia [[FIFA World Cup records and statistics|hold records]] for most [[Penalty shoot-out (association football)|penalty shoot-out]] played (4) and won (4) and most [[Penalty kick (association football)|penalties]] saved in a shoot-out (3), among other [[Croatia national football team records and statistics|team records]]. They were named [[FIFA Men's World Ranking#Best Mover of the Year|FIFA Best Mover of the Year]] in 1994 and 1998, thus becoming the first national team to win the award twice.

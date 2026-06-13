@@ -1,0 +1,14 @@
+[
+ {"name": "cbsnews", "source": "CBS News", "url": "https://www.cbsnews.com/news/u-s-cruises-past-paraguay-in-world-cup-opener/", "tier": "2", "lang": "en"},
+ {"name": "npr", "source": "NPR", "url": "https://www.npr.org/2026/06/12/nx-s1-5850736/2026-world-cup-usmnt-paraguay", "tier": "2", "lang": "en"},
+ {"name": "espn_story", "source": "ESPN", "url": "https://www.espn.com/soccer/story/_/id/49045878/usa-paraguay-2026-world-cup-balogun-pulisic-reyna", "tier": "2", "lang": "en"},
+ {"name": "dknetwork_recap", "source": "DraftKings Network", "url": "https://dknetwork.draftkings.com/2026/06/12/usa-defeats-paraguay-4-1-2026-world-cup-game-recap-balogun-pulisic/", "tier": "3", "lang": "en"},
+ {"name": "eltiempo_cronica", "source": "El Tiempo(crónica)", "url": "https://www.eltiempo.com/deportes/futbol-internacional/estados-unidos-se-las-trae-en-su-mundial-le-paso-por-encima-a-paraguay-y-protagonizo-la-primera-goleada-del-torneo-3564087", "tier": "3", "lang": "es"},
+ {"name": "losandes", "source": "Los Andes", "url": "https://www.losandes.com.ar/deportes/estados-unidos-borro-la-cancha-paraguay-y-le-gano-4-1-el-debut-del-mundial-2026-n5994576", "tier": "3", "lang": "es"},
+ {"name": "independent_es", "source": "Independent Español(EFE)", "url": "https://www.independentespanol.com/deportes/eeuu-debuta-en-su-mundial-con-goleada-de-41-ante-un-paraguay-erratico-y-petrificado-b2995054.html", "tier": "2", "lang": "es"},
+ {"name": "depor", "source": "Depor", "url": "https://depor.com/futbol-internacional/mundial/gol-de-reyna-paraguay-vs-estados-unidos-ver-anotacion-4-1-mundial-2026-video-noticia/", "tier": "3", "lang": "es"},
+ {"name": "netease_balogun", "source": "网易(163·雷纳)", "url": "https://www.163.com/dy/article/KVA484TP05299JMD.html", "tier": "3", "lang": "zh"},
+ {"name": "netease_opener", "source": "网易(163·开门红)", "url": "https://www.163.com/dy/article/KVA4RQFI05299JMD.html", "tier": "3", "lang": "zh"},
+ {"name": "netease_route", "source": "网易(163·大胜)", "url": "https://www.163.com/dy/article/KVA4RRAD05299JMD.html", "tier": "3", "lang": "zh"},
+ {"name": "sinchew", "source": "星洲日报", "url": "https://www.sinchew.com.my/news/20260613/sports/7582986", "tier": "3", "lang": "zh"}
+]

@@ -1,0 +1,91 @@
+[
+ {
+  "player_id": "707447",
+  "profile_url": "https://www.transfermarkt.com/emiliano-martinez/profil/spieler/707447",
+  "full_name": "Emiliano Martínez Toranza",
+  "display_name": "Emiliano Martínez",
+  "short_name": "E. Martínez",
+  "nickname": "",
+  "date_of_birth": "1999-08-17",
+  "age": 26,
+  "place_of_birth": "Punta del Este",
+  "country_of_birth": "Uruguay",
+  "nationality": [
+   "Uruguay",
+   "Italy"
+  ],
+  "gender": "male",
+  "position": "Defensive Midfield",
+  "position_category": "Midfielder",
+  "foot": "right",
+  "height_cm": 184,
+  "current_club": "Sociedade Esportiva Palmeiras",
+  "current_club_id": "1023",
+  "current_competition": "Campeonato Brasileiro Série A",
+  "current_competition_code": "BRA1",
+  "shirt_number": 32,
+  "is_captain": false,
+  "contract_until": "2029-12-31",
+  "last_contract_renewal": "",
+  "market_value_eur": 6500000,
+  "market_value_currency": "EUR",
+  "market_value_determined": "2026-05-26",
+  "previous_market_value_eur": 8000000,
+  "highest_market_value_eur": 9000000,
+  "highest_market_value_determined": "2025-12-10",
+  "market_value_history": [
+   "2018 | Club Nacional | EUR 75.00K",
+   "2020 | Club Nacional | EUR 300.00K",
+   "2020 | Club Nacional | EUR 550.00K",
+   "2020 | Red Bull Bragantino | EUR 2.50M",
+   "2020 | Red Bull Bragantino | EUR 2.50M",
+   "2021 | Red Bull Bragantino | EUR 2.50M",
+   "2021 | Red Bull Bragantino | EUR 2.50M",
+   "2022 | FC Midtjylland | EUR 3.50M",
+   "2022 | FC Midtjylland | EUR 4.00M",
+   "2023 | FC Midtjylland | EUR 4.00M",
+   "2023 | FC Midtjylland | EUR 4.00M",
+   "2024 | FC Midtjylland | EUR 4.50M",
+   "2024 | Sociedade Esportiva Palmeiras | EUR 7.00M",
+   "2024 | Sociedade Esportiva Palmeiras | EUR 9.00M",
+   "2024 | Sociedade Esportiva Palmeiras | EUR 9.00M",
+   "2025 | Sociedade Esportiva Palmeiras | EUR 8.00M",
+   "2025 | Sociedade Esportiva Palmeiras | EUR 6.50M"
+  ],
+  "agent": "",
+  "agency": "Talents Sports",
+  "agency_id": "9464",
+  "youth_clubs": [
+   "Charruitas",
+   "Club Nacional (2012-2018)"
+  ],
+  "career_history": [
+   "Club Nacional B -> Club Nacional | 2019-01-01 | - | 18/19",
+   "Club Nacional -> Red Bull Bragantino | 2021-08-30 | €3.40M | 21/22",
+   "Red Bull Bragantino -> FC Midtjylland | 2022-08-31 | undisclosed | 22/23",
+   "FC Midtjylland -> Red Bull Bragantino | 2022-12-31 | undisclosed | 22/23",
+   "Red Bull Bragantino -> FC Midtjylland | 2023-01-01 | €5.00M | 22/23",
+   "FC Midtjylland -> Sociedade Esportiva Palmeiras | 2025-01-24 | €7.15M | 24/25"
+  ],
+  "total_transfer_fees_eur": 15550000,
+  "international_team": "Uruguay",
+  "international_caps": 10,
+  "international_goals": 0,
+  "national_team_history": [
+   "Uruguay | 10 apps | 0 goals | CURRENT_NATIONAL_PLAYER"
+  ],
+  "injuries": [
+   "2021-08-30 to 2021-11-30 | No eligibility | 3 games"
+  ],
+  "suspensions": [
+   "2026-05-30 to  | Called up to national team | 1 game",
+   "2025-11-11 to 2025-11-20 | Called up to national team | 1 game",
+   "2025-10-06 to 2025-10-14 | Yellow card suspension | 1 game",
+   "2024-11-07 to 2024-11-12 | Yellow card suspension | 1 game",
+   "2023-02-17 to 2023-02-24 | Yellow card suspension | 1 game",
+   "2021-02-15 to 2021-02-19 | Yellow card suspension | 1 game"
+  ],
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/big/707447-1720681061.jpg",
+  "scraped_at": "2026-06-08T18:03:53.105Z"
+ }
+]

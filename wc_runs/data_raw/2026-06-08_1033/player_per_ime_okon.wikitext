@@ -1,0 +1,65 @@
+{{Short description|South African soccer player (born 2004)}}
+{{Use dmy dates|date=July 2025}}
+{{Infobox football biography
+|name           = Ime Okon
+|image          = 
+|full_name      = Ime Daniel Okon<ref>{{cite web |title=Squad List FIFA World Cup 2026 |url=https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf |website=[[FIFA]] |access-date=3 June 2026}}</ref>
+|birth_date     = {{birth date and age|2004|2|20|df=y}}
+|birth_place    = South Africa
+|height         = 1.87 m
+|position       = [[Defender (association football)|Defender]]
+|currentclub    = [[Hannover 96]]
+|clubnumber     = 20
+|years1         = 2023–2025
+|clubs1         = [[SuperSport United F.C.|SuperSport United]]
+|caps1          = 43
+|goals1         = 1
+|years2         = 2025–
+|clubs2         = [[Hannover 96]]
+|caps2          = 25
+|goals2         = 2
+|nationalyears1 = 2025–
+|nationalteam1  = [[South Africa national soccer team|South Africa]]
+|nationalcaps1  = 5
+|nationalgoals1 = 1
+|club-update    = 18 May 2026
+|ntupdate       = 15 June 2025
+}}
+'''Ime Daniel Okon''' (born 20 February 2004) is a South African professional [[soccer]] player who plays as a [[defender (association football)|defender]] for [[Hannover 96]] and the [[South Africa national soccer team|South Africa national team]].
+
+==Early life==
+Okon was born in 2004 in South Africa. He attended Florida Park High School in South Africa.<ref>{{Cite web|url=https://capetown.today/the-emergence-of-ime-okon-a-rising-star-in-south-african-football/|title=The Emergence of Ime Okon: A Rising Star in South African Football|date=16 March 2024 |publisher=capetown.today}}</ref>
+
+==Club career==
+Okon started his career with South African side [[SuperSport United F.C.|SuperSport United]].<ref>{{Cite web|url=https://soccernews24.co.za/2023/09/22/ime-okon-key-to-supersport-united-defensive-prowess/|title=Ime Okon key to Supersport United's defensive prowess|publisher=soccernews24.co.za}}</ref> He joined German club [[Hannover 96]] ahead of the [[2025–26 Hannover 96 season|2025–26 season]] on a four-year contract.<ref>{{cite web |url=https://www.kicker.de/hannover-holt-spannenden-okon-aus-suedafrika-1128978/artikel |title=Hannover holt "spannenden" Okon aus Südafrika |website=[[Kicker (magazine)|Kicker]] |date=1 July 2025 |access-date=1 July 2025 |language=de}}</ref>
+
+==International career==
+Okon made his debut for the [[South Africa national soccer team|South Africa national team]] on 4 June 2025 in the opening match of the [[2025 COSAFA Cup]] against [[Mozambique national football team|Mozambique]].<ref>{{cite web |url=https://globalsportsarchive.com/match/soccer/2025-06-04/south-africa-vs-mozambique/3719201/ |title=Match Report of South Africa vs Mozambique |website=globalsportsarchive.com |publisher=Global Sports Archive |date=4 June 2025 |access-date=23 August 2025}}</ref> He scored his first goal three days later in the second tournament match against [[Zimbabwe national football team|Zimbabwe]].<ref>{{cite web |url=https://globalsportsarchive.com/match/soccer/2025-06-07/south-africa-vs-zimbabwe/3719207/ |title=Match Report of South Africa vs Zimbabwe |website=globalsportsarchive.com |publisher=Global Sports Archive |date=7 June 2025 |access-date=23 August 2025}}</ref>
+
+==Personal life==
+Okon is a native of [[Florida, Gauteng|Florida]], South Africa. He was born to a Nigerian father and South African mother.<ref>{{Cite web|url=https://www.snl24.com/kickoff/sanews/bafana/ime-okon-from-high-school-to-bafana-call-up-20230823|title=Ime Okon - from high school to Bafana call-up|date=23 August 2023 |publisher=snl24.com}}</ref> He is the brother of South African [[Sprint (running)|sprinter]] [[Udeme Okon]].<ref>{{Cite web |last=Luthuli |first=Lusanda |date=2 September 2024 |title=Ime Okon Hails Brother Udeme's Stunning Gold At World Champs |url=https://www.snl24.com/soccerladuma/fan-park/ime-okon-expresses-pride-in-athlete-brother-udeme-for-u20-world-championships-gold-medal-20240902 |access-date=18 November 2024 |website=SNL}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Soccerway|892324}}
+
+{{Hannover 96 squad}}
+{{South Africa squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Okon, Ime}}
+[[Category:2004 births]]
+[[Category:Living people]]
+[[Category:South African people of Nigerian descent]]
+[[Category:21st-century South African sportsmen]]
+[[Category:South African men's soccer players]]
+[[Category:South Africa men's international soccer players]]
+[[Category:Men's association football defenders]]
+[[Category:South African Premier Division players]]
+[[Category:SuperSport United F.C. players]]
+[[Category:Hannover 96 players]]
+[[Category:South African expatriate men's soccer players]]
+[[Category:South African expatriate sportspeople in Germany]]
+[[Category:Expatriate men's footballers in Germany]]
+[[Category:2026 FIFA World Cup players]]

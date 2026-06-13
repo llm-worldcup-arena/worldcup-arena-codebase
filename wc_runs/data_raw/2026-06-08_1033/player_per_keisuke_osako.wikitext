@@ -1,0 +1,188 @@
+{{short description|Japanese footballer}}
+{{Western name order|Ōsako Keisuke}}
+{{Infobox football biography
+| name = Keisuke Ōsako
+| image = File:Sanfrecce Hiroshima -1 Keisuke OSAKO.jpg
+| caption = Keisuke Ōsako playing for [[Sanfrecce Hiroshima]] in 2024.
+| fullname = Keisuke Ōsako
+| birth_date = {{birth date and age|1999|07|28|df=y}}
+| birth_place = [[Izumi, Kagoshima|Izumi]], [[Kagoshima Prefecture]], Japan
+| height = 1.88 m
+| currentclub = [[Sanfrecce Hiroshima]]
+| clubnumber = 1
+| position = [[Goalkeeper (association football)|Goalkeeper]]
+| youthyears1 = 
+| youthclubs1 = Euchi SSS
+| youthyears2 = {{0|0000}}–2014
+| youthclubs2 = Felicidod FC
+| youthyears3 = 2015–2017
+| youthclubs3 = [[Sanfrecce Hiroshima]]
+| years1 = 2018– | clubs1 = [[Sanfrecce Hiroshima]] | caps1 = 224 | goals1 = 0
+| nationalyears1 = 2015–2017
+| nationalteam1 = [[Japan national under-18 football team|Japan U18]]
+| nationalcaps1 = 4
+| nationalgoals1 = 0
+| nationalyears2 = 2017–2019
+| nationalteam2 = [[Japan national under-20 football team|Japan U20]]
+| nationalcaps2 = 5
+| nationalgoals2 = 0
+| nationalyears3 = 2019–2021
+| nationalteam3 = [[Japan national under-23 football team|Japan U23]]
+| nationalcaps3 = 7
+| nationalgoals3 = 0
+| nationalyears4 = 2019–
+| nationalteam4 = [[Japan national football team|Japan]]
+| nationalcaps4 = 11
+| nationalgoals4 = 0
+| medaltemplates=
+{{Medal|Team|[[Sanfrecce Hiroshima]]}}
+{{Medal|RU|[[J1 League]]|[[2018 J1 League|2018]]}}
+{{MedalSport|Men's [[Association football|football]]}}
+{{Medal|Country|{{Fb|JPN}}}}
+{{Medal|Competition|[[EAFF E-1 Football Championship|EAFF Championship]]}}
+{{Medal|W|[[2022 EAFF E-1 Football Championship|2022 Japan]]|[[2022 EAFF E-1 Football Championship Final squads#Japan|Team]]}}
+{{Medal|Competition|[[AFC U-19 Championship]]}}
+{{Medal|B|[[2018 AFC U-19 Championship|2018 Indonesia]]|}}
+| club-update = 11:10, 15 May 2026 (UTC)
+| nationalteam-update = 9 September 2025
+}}
+
+{{nihongo|'''Keisuke Ōsako'''|大迫 敬介|Ōsako Keisuke|born 28 July 1999}} is a Japanese [[association football|footballer]] who currently plays as a [[Goalkeeper (association football)|goalkeeper]] for {{Japanese football updater|SanfrecH}} club [[Sanfrecce Hiroshima]] and the [[Japan national football team|Japan national team]].
+
+==International career==
+On May 24, 2019, Ōsako was called up by [[Japan national football team|Japan]]'s head coach [[Hajime Moriyasu]] to feature in the [[2019 Copa América|Copa América]] played in Brazil.<ref>{{cite web|url=http://www.jfa.jp/eng/news/00021323/|title=SAMURAI BLUE (Japan National Team) Squad, Schedule - CONMEBOL Copa America Brazil 2019 (6/14–7/7)|publisher=JFA|date=24 May 2019}}</ref> He debuted on June 17, 2019, in the opening Copa game against Chile, as a starter.<ref>{{cite web|publisher=[[CONMEBOL]]|url=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.copaamerica.462516&lang=es_LA|title=Japan v Chile game report|date=17 June 2019}}</ref>
+
+On 15 May 2026, Ōsako was named in Japan's squad for the [[2026 FIFA World Cup]].<ref>{{cite web |title=SAMURAI BLUE（日本代表）メンバー・スケジュール キリンチャレンジカップ2026 ひとつになるから強くなる。 5.31 アイスランド代表戦（5.31 東京／国立競技場）FIFAワールドカップ2026（6.11-7.19 カナダ・メキシコ・アメリカ） |url=https://www.jfa.jp/samuraiblue/news/00036338/ |website=www.jfa.jp |access-date=15 May 2026 |language=ja}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|15 May 2026}}.<ref>Nippon Sports Kikaku Publishing inc./日本スポーツ企画出版社, [https://www.amazon.co.jp/J1-J3%E9%81%B8%E6%89%8B%E5%90%8D%E9%91%91%E3%83%8F%E3%83%B3%E3%83%87%E3%82%A3%E7%89%88-2019-NSK-MOOK/dp/4905411629 "J1&J2&J3選手名鑑ハンディ版 2019 (NSK MOOK)"], 9 February 2019, Japan, {{ISBN|978-4905411628}} (p. 21 out of 289)</ref><ref>{{Soccerway|keisuke-osako/475655}}</ref><ref>{{J.League player|19248}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup{{efn|Includes [[Emperor Cup]]}}
+!colspan="2"|League cup{{efn|Includes [[J.League Cup]]}}
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="9"|[[Sanfrecce Hiroshima]]
+|[[2019 J1 League|2019]]
+|[[J1 League]]
+|29||0||1||0||0||0||4{{efn|name=AFCCLE|Appearances in [[AFC Champions League Elite]]}}||0||0||0||34||0
+|-
+|[[2020 J1 League|2020]]
+|J1 League
+|15||0||0||0||1||0||0||0||0||0||16||0
+|-
+|[[2021 J1 League|2021]]
+|J1 League
+|27||0||0||0||0||0||0||0||0||0||27||0
+|-
+|[[2022 J1 League|2022]]
+|J1 League
+|28||0||5||0||8||0||0||0||0||0||41||0
+|-
+|[[2023 J1 League|2023]]
+|J1 League
+|34||0||2||0||3||0||0||0||0||0||39||0
+|-
+|[[2024 J1 League|2024]]
+|J1 League
+|38||0||2||0||2||0||7{{efn|name=ACLT|Appearances in [[AFC Champions League Two]]}}||0||0||0||49||0
+|-
+|[[2025 J1 League|2025]]
+|J1 League
+|38||0||3||0||1||0||9{{efn|name=AFCCLE}}||0||1{{efn|name=JSC|Appearance in [[Japanese Super Cup]]}}||0||52||0
+|-
+|[[J1 100 Year Vision League|2026]]
+|J1 (100)
+|15||0||0||0||0||0||0||0||0||0||15||0
+|-
+!colspan="2"|Total
+!224!!0!!13!!0!!15!!0!!20!!0!!1!!0!!273!!0
+|-
+!colspan="3"|Career total
+!224!!0!!13!!0!!15!!0!!20!!0!!1!!0!!273!!0
+|}
+{{notelist}}
+
+===International===
+<!-- NOTE: when updating stats, update the infobox too! -->
+{{updated|match played 9 September 2025.}}<ref>{{NFT player|pid=74624}}</ref>
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="6"|[[Japan national football team|Japan]]
+|-
+|2019||2||0
+|-
+|2022||1||0
+|-
+|2023||4||0
+|-
+|2024||1||0
+|-
+|2025||3||0
+|-
+!colspan="2"|Total||11||0
+|}
+
+==Honours==
+===Club===
+'''Sanfrecce Hiroshima'''
+* [[J.League Cup]]: [[2022 J.League Cup|2022]],<ref>{{cite web |url= https://www.jleague.jp/match/leaguecup/2022/102202/live/|title= 【公式】C大阪vs広島の試合結果・データ(JリーグYBCルヴァンカップ：2022年10月22日)|access-date= October 24, 2022|work= J.League}}</ref> [[2025 J.League Cup|2025]]<ref>{{cite web |url= https://www.jleague.jp/match/leaguecup/2025/110106/live/|title= 柏vs広島の試合結果・データ(JリーグYBCルヴァンカップ:2025年11月1日)|access-date= 2 November 2025|date= 1 November 2025|website= J. League|language=ja}}</ref>
+* [[Japanese Super Cup]]: [[2025 Japanese Super Cup|2025]]
+
+=== International ===
+* [[EAFF E-1 Football Championship]]: [[2022 EAFF E-1 Football Championship|2022]], [[2025 EAFF E-1 Football Championship|2025]]
+
+===Individual===
+* [[J.League Best XI]]: [[2024 J1 League|2024]]<ref>{{cite web |url= https://web.gekisaka.jp/news/jleague/detail/?420514-420514-fl|title= 2024年のJリーグベストイレブンが決定!! 連覇神戸から最多3人、広島・G大阪・鹿島は2人ずつ|access-date= 10 December 2024|website= Gekisaka|language=ja}}</ref>
+* [[EAFF E-1 Football Championship]] Best Goalkeeper:  [[2025 EAFF E-1 Football Championship|2025]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{J.League player}}
+
+{{Sanfrecce Hiroshima squad}}
+{{Navboxes
+|title= Japan squads
+|bg= #0000C8
+|fg= white
+|bordercolor= red
+|list1=
+{{Japan squad 2019 Copa América}}
+{{Japan men's football squad 2020 Summer Olympics}}
+{{Japan squad 2026 FIFA World Cup}}
+}}
+{{2024 J.League Team of the Year}}
+
+{{DEFAULTSORT:Ōsako, Keisuke}}
+[[Category:1999 births]]
+[[Category:Living people]]
+[[Category:Japanese men's footballers]]
+[[Category:Men's association football goalkeepers]]
+[[Category:J1 League players]]
+[[Category:Sanfrecce Hiroshima players]]
+[[Category:Japan men's youth international footballers]]
+[[Category:21st-century Japanese sportsmen]]
+[[Category:Japan men's under-20 international footballers]]
+[[Category:Japan men's international footballers]]
+[[Category:2019 Copa América players]]
+[[Category:Football people from Kagoshima Prefecture]]
+[[Category:Footballers at the 2020 Summer Olympics]]
+[[Category:Olympic footballers for Japan]]
+[[Category:2026 FIFA World Cup players]]
+
+{{Japan-footy-goalkeeper-stub}}

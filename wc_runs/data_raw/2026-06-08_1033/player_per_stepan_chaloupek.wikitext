@@ -1,0 +1,153 @@
+{{Short description|Czech footballer (born 2003)}}
+{{use dmy dates|date=February 2025}}
+{{Infobox football biography
+| name           = Štěpán Chaloupek
+| image          = 
+| birth_date     = {{birth date and age|2003|3|8|df=y}}
+| birth_place    = [[Meziboří]], Czech Republic
+| height         = 1.90 m
+| position       = [[Centre-back]], [[defensive midfielder]]
+| currentclub    = [[SK Slavia Prague]]
+| clubnumber     = 2
+| youthyears1 = 2009–2015 | youthclubs1 = SFK Meziboří
+| youthyears2 = 2015–2021 | youthclubs2 = [[FK Teplice|Teplice]]
+| years1 = 2022–2024 | clubs1 = [[FK Teplice|Teplice]]             | caps1 = 59 | goals1 = 3
+| years2 = 2024–     | clubs2 = [[SK Slavia Prague|Slavia Prague]] | caps2 = 44 | goals2 = 8
+| years3 = 2024–2025 | clubs3 = [[SK Slavia Prague B|Slavia Prague B]] | caps3 = 6 | goals3 = 0
+| nationalyears1 = 2023–2025
+| nationalteam1  = [[Czech Republic national under-21 football team|Czech Republic U21]]
+| nationalcaps1  = 13
+| nationalgoals1 = 0
+| nationalyears2 = 2025–
+| nationalteam2  = [[Czech Republic national football team|Czech Republic]]
+| nationalcaps2  = 5
+| nationalgoals2 = 0
+| pcupdate       = 24 May 2026
+| ntupdate       = 5 June 2026
+}}
+'''Štěpán Chaloupek''' (born 8 March 2003) is a Czech professional [[Association football|footballer]] who plays as a [[defender (association football)|defender]] for [[SK Slavia Prague|Slavia Prague]] and the [[Czech Republic national football team|Czech Republic national team]].
+
+==Life==
+Chaloupek was born in [[Meziboří]].<ref name=denik>{{cite web |last=Novotný|first=Vladimír|title=Teplický milionový obchod jde už do finále. Chaloupek se stane posilou Slavie|url=https://teplicky.denik.cz/fotbal-prvni-liga/teplicky-milionovy-obchod-jde-uz-do-finale-chaloupek-se-stane-posilou-slavie-202.html|work=Deník.cz|language=cs|date=2023-11-29|access-date=2025-02-21}}</ref>
+
+==Club career==
+Chaloupek started with football in his hometown Meziboří.<ref name=slavia>{{cite web |title=Štěpán Chaloupek přestupuje do Slavie|url=https://www.slavia.cz/article/21345-Stepan-Chaloupek-prestupuje-do-Slavie|publisher=SK Slavia Prague|language=cs|date=2024-01-05|access-date=2025-02-21}}</ref> He was then raised in [[FK Teplice|Teplice]], where he was captain of the under-19 team.<ref name=denik/>
+
+He made his debut in senior football in the [[2021–22 Czech Cup|2021–22 season of the Czech Cup]] in August 2021. In the [[Czech First League]], he debuted for Teplice in November 2021, in their 4–2 away loss against [[AC Sparta Prague|Sparta Prague]]. In the [[2022–23 Czech First League|2022–23]] season, he became a stable member of the starting line-up.<ref name=slavia/>
+
+In January 2024, it was announced that Chaloupek signed a four-year contract with [[SK Slavia Prague|Slavia Prague]], effective from 30 June 2024.<ref name=slavia/> After the [[2023–24 Czech First League|2023–24]] season, Chaloupek won the award for Teplice's best player of the season.<ref>{{cite web |title=Sklářem roku se stal Štěpán Chaloupek|url=https://fkteplice.cz/article/11336-Sklarem-roku-se-stal-Stepan-Chaloupek-|publisher=FK Teplice|language=cs|date=2024-05-28|access-date=2025-02-21}}</ref>
+
+==International career==
+Chaloupek played for the [[Czech Republic national under-21 football team|Czech Republic U21 team]]. In the [[2025 UEFA European Under-21 Championship qualification]], he played almost all of the matches in the starting line-up, helping the team to qualify for [[2025 UEFA European Under-21 Championship|2025 UEFA Euro U21]].<ref>{{cite web |title=Štěpán Chaloupek|url=https://www.fotbal.cz/repre/hrac/hraci/16334359|publisher=[[Football Association of the Czech Republic]]|language=cs|access-date=2025-02-21}}</ref>
+
+In November 2025, Chaloupek debuted for the senior [[Czech Republic national football team|Czech Republic national team]] in a match against [[Gibraltar national football team|Gibraltar]].<ref>{{cite web |title=Známkování: Příjemný konec bídné kvalifikace. Jedničkáři ze Slavie, zarazil nulový Schick|url=https://www.sport.cz/clanek/fotbal-ms-znamkovani-prijemny-konec-bidne-kvalifikace-jednickari-ze-slavie-zarazil-nulovy-schick-5285240|work=Sport.cz|language=cs|date=2025-11-17|access-date=2026-01-22}}</ref>
+
+==Style of play==
+Among his strengths are one-on-one duels, head play and constructive passing.<ref name=slavia/>
+
+==Career statistics==
+===Club===
+{{updated|match played 24 May 2026}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|[[Czech Cup]]
+!colspan="2"|[[UEFA#Club|Europe]]
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="4"|[[FK Teplice|Teplice]]
+|[[2021–22 FK Teplice season|2021–22]]
+|[[Czech First League]]
+|8||0||1||0||colspan="2"|—||0||0||9||0
+|-
+|[[2022–23 Czech First League|2022–23]]
+|Czech First League
+|20||0||0||0||colspan="2"|—||colspan="2"|—||20||0
+|-
+|[[2023–24 FK Teplice season|2023–24]]
+|Czech First League
+|31||3||2||0||colspan="2"|—||colspan="2"|—||33||3
+|-
+!colspan="2"|Total
+!59!!3!!3!!0!!colspan="2"|—!!0!!0!!62!!3
+|-
+|rowspan="3"|[[SK Slavia Prague|Slavia Prague]]
+|[[2024–25 SK Slavia Prague season|2024–25]]
+|Czech First League
+|17||0||2||0||3{{efn|name=UEL|Appearances in [[UEFA Europa League]]}}||0||colspan="2"|—||22||0
+|-
+|[[2025–26 SK Slavia Prague season|2025–26]]
+|Czech First League
+|26||8||2||0||8{{efn|name=UCL|Appearances in [[UEFA Champions League]]}}||1|| colspan="2"|—||36||9
+|-
+!colspan="2"|Total
+!44!!8!!4!!0!!11!!1!!colspan="2"|—!!59!!9
+|-
+|rowspan="3"|[[SK Slavia Prague B|Slavia Prague B]]
+|[[2024–25 Czech National Football League|2024–25]]
+|[[Czech National Football League]]
+|5||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||5||0
+|-
+|[[2025–26 Czech National Football League|2025–26]]
+|Czech National Football League
+|1||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||1||0
+|-
+!colspan="2"|Total
+!6!!0!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!6!!0
+|-
+!colspan="3"|Career total
+!108!!11!!7!!0!!11!!1!!0!!0!!127!!12
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 4 June 2026}}<ref name="NFT">{{NFT player|id=101731|access-date=15 May 2026}}</ref>
+
+{|class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="2"|[[Czech Republic national football team|Czech Republic]]
+|2025||1||0
+|-
+|2026||4||0
+|-
+!colspan="2"|Total!!5!!0
+|}
+
+==Honours==
+'''Slavia Prague'''
+* [[Czech First League]]: [[2024–25 Czech First League|2024–25]],<ref>{{cite web |title=Slavia Crowned Champions of the 2024/25 Chance Liga |url=https://en.slavia.cz/zapas.asp?id=Slavia-Crowned-Champions-of-the-2024-25-Chance-Liga-6266 |publisher=[[SK Slavia Prague|Slavia Prague]] |access-date=15 May 2026 |date=22 May 2025}}</ref> [[2025–26 Czech First League|2025–26]]<ref>{{cite web |title=Slavia rozdrtila v prázdném Edenu Jablonec a slaví mistrovský titul, Hradec také bral tři body |url=https://www.efotbal.cz/article/fotbal-chance-liga-slavia-rozdrtila-v-prazdnem-edenu-jablonec-a-slavi-mistrovsky-titul-hradec-take-bral-tri-body-176a8463-6c6e-485b-aa6e-2ae1b7aca21e |website=efotbal.cz |access-date=14 May 2026 |language=cs|date=13 May 2026}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Czech First League player|4189}}
+*{{FACR player|new_id=16334359}}
+
+{{SK Slavia Prague squad}}
+{{Czech Republic squad 2026 FIFA World Cup}}
+{{authority control}}
+
+{{DEFAULTSORT:Chaloupek, Stepan}}
+[[Category:2003 births]]
+[[Category:Living people]]
+[[Category:People from Most District]]
+[[Category:Czech men's footballers]]
+[[Category:Czech Republic men's under-21 international footballers]]
+[[Category:Czech Republic men's international footballers]]
+[[Category:Men's association football defenders]]
+[[Category:FK Teplice players]]
+[[Category:SK Slavia Prague players]]
+[[Category:Czech First League players]]
+[[Category:Czech National Football League players]]
+[[Category:21st-century Czech sportsmen]]
+[[Category:2026 FIFA World Cup players]]

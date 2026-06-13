@@ -1,0 +1,16 @@
+{
+ "team": "CZE",
+ "source": "Olympics.com",
+ "url": "https://www.olympics.com/en/news/fifa-world-cup-2026-czechia-players-squad-list-key-stats-schedule",
+ "title": "Czechia at FIFA World Cup 2026: All players, full squad list, key stats and schedule",
+ "news_date": "2026-06-10",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-10",
+ "fetched": "2026-06-13_0638",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Czechia at FIFA World Cup 2026: All players, full squad list, key stats and schedule\nQuick facts\nCaptain: Ladislav Krejčí\nManager: Miroslav Koubek\nWorld Cup appearances (including 2026): 10\nBest World Cup result: Runners-up (1934, 1962)\nGoalkeepers: Lukas Hornicek (Braga), Matej Kovar (PSV Eindhoven), Jindrich Stanek (Slavia Prague)\nDefenders: Vladimir Coufal (Hoffenheim), David Doudera (Slavia Prague), Tomas Holes (Slavia Prague), Robin Hranac (Hoffenheim), Stepan Chaloupek (Slavia Prague), David Jurasek (Slavia Prague), Ladislav Krejci (Wolverhampton), Jaroslav Zeleny (Sparta Prague), David Zima (Slavia Prague)\nMidfielders: Lukas Cerv (Viktoria Plzen), Vladimir Darida (Hradec Kralove), Lukas Provod (Slavia Prague), Michal Sadilek (Slavia Prague), Hugo Sochurek (Sparta Prague), Alexandr Sojka (Viktoria Plzen), Tomas Soucek (West Ham), Pavel Sulc (Olympique Lyonnais), Denis Visinsky (Viktoria Plzen)\nForwards: Adam Hlozek (Hoffenheim), Tomas Chory (Slavia Prague), Mojmir Chytil (Slavia Prague), Jan Kuchta (Sparta Prague), Patrik Schick (Bayer Leverkusen)",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

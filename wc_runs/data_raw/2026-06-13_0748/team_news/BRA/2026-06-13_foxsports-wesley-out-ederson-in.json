@@ -1,0 +1,16 @@
+{
+ "team": "BRA",
+ "source": "FOX Sports",
+ "url": "https://www.foxsports.com/stories/soccer/brazil-right-back-wesley-is-out-of-the-world-cup-with-a-thigh-injury-and-ederson-is-replacing-him",
+ "title": "Brazil Right Back Wesley To Miss World Cup To Injury, Éderson Named Replacement | FOX Sports",
+ "news_date": "2026-06-13",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-13",
+ "fetched": "2026-06-13_0748",
+ "method": "jsonld:articleBody",
+ "status": "ok",
+ "original_text": "Brazil has made an injury replacement to its World Cup roster less than a week before its first match against Morocco, with right back Wesley out and midfielder Ederson in. The Brazilian soccer confederation said Sunday that Wesley injured a muscle in his left thigh. He left early in the team's friendly game against Egypt on Saturday night in Cleveland, and imaging found it significant enough to knock Wesley out of the World Cup. \"Wesley is an athlete loved by the group and will always be considered part of this team that seeks the six-time world championship,\" the Brazilian confederation said. Éderson, 26, is now set to join the team in the U.S. as part of the 26-player roster. Brazil opens World Cup Group C Drawn into Group C play on Saturday in the Meadowlands in East Rutherford, New Jersey. Brazil will face Morocco on June 13, Haiti on June 20, and Scotland on June 24. Another injury situation is still ongoing with 34-year-old forward Neymar, who did not travel to Cleveland with the rest of the group. Neymar is currently sidelined because of a calf injury. The Associated Press contributed to this report.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

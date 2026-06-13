@@ -1,0 +1,229 @@
+{{short description|Tunisian footballer (born 1997)}}
+{{Use dmy dates|date=March 2022}}
+{{Infobox football biography
+| name = Hazem Mastouri
+| fullname = 
+| image = Hazem Mastouri 2026.jpg
+| caption = Mastouri with Dynamo Makhachkala in 2026
+| birth_date = {{birth date and age|1997|06|18|df=y}}
+| birth_place = [[Tunis]], Tunisia
+| height = 1.91 m
+| currentclub = [[FC Dynamo Makhachkala|Dynamo Makhachkala]]
+| clubnumber = 7
+| position = [[Striker (association football)|Striker]]
+| youthyears1 = 
+| youthclubs1 = [[Degache|AS Degache]]
+| years1 = 2016–2020
+| clubs1 = [[Degache|AS Degache]]
+| caps1 = 
+| goals1 = 
+| years2 = 2020–2021
+| clubs2 = [[Tozeur|LPS Tozeur]]
+| caps2 = 
+| goals2 = 
+| years3 = 2021–2023
+| clubs3 = [[ES Métlaoui]]
+| caps3 = 32
+| goals3 = 10
+| years4 = 2023–2024
+| clubs4 = [[Al-Najaf FC]]
+| caps4 = 
+| goals4 = 
+| years5 = 2024–2025
+| clubs5 = [[US Monastir (football)|US Monastir]]
+| caps5 = 28
+| goals5 = 16
+| years6 = 2025–
+| clubs6 = [[FC Dynamo Makhachkala|Dynamo Makhachkala]]
+| caps6 = 21 <!-- Only national league games are included in the infobox, not cup etc. -->
+| goals6 = 2
+| nationalyears1 = 2024–
+| nationalteam1 = [[Tunisia national football team|Tunisia]]
+| nationalcaps1 = 12
+| nationalgoals1 = 4
+| club-update = 17 May 2026
+| nationalteam-update = 21:30, 18 November 2025 (UTC)
+}}
+'''Hazem Mastouri''' ({{langx|ar|حازم المستوري}}; born 18 June 1997) is a Tunisian professional [[association football|footballer]] who plays as a [[Striker (association football)|striker]] for Russian club [[FC Dynamo Makhachkala|Dynamo Makhachkala]] and the [[Tunisia national football team|Tunisia national team]].
+
+==Club career==
+Mastouri began playing football in the amateur [[Tunisian Ligue 3]] with [[Degache|AS Degache]] in 2016. In 2020, he had a short stint with [[Tozeur|LPS Tozeur]]. This led to a move to the [[Tunisian Ligue Professionnelle 1]] side [[ES Métlaoui]] in 2021 where he stayed 2 and a half season.<ref>{{Cite web|url=https://al-ain.com/article/tunisia-national-team-hazem-mastouri|title=مِن عالم الهواة إلى منتخب تونس.. مَن هو حازم مستوري؟|date=8 November 2024|website=العين الإخبارية}}</ref> On 26 September 2023, he moved to the [[Iraq Stars League]] team [[Al-Najaf FC]] where he scored 10 goals.<ref>{{Cite web|url=https://www.babnet.net/cadredetail-273901.asp|title=نادي النجف العراقي يتعاقد مع اللاعب التونسي حازم المستوري|website=Babnet}}</ref> On 15 August 2024, he transferred to [[US Monastir (football)|US Monastir]] on a 2-year contract.<ref>{{Cite web|url=https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A7%D9%84%D9%86%D8%AC%D9%81-%D9%8A%D8%AF%D8%B9%D9%85-%D8%B5%D9%81%D9%88%D9%81%D9%87-%D8%A8%D8%B5%D9%81%D9%82%D8%A9-%D8%AA%D9%88%D9%86%D8%B3%D9%8A%D8%A9/1272171|title=النجف يدعم صفوفه بصفقة تونسية &#124; كووورة|website=www.kooora.com}}</ref>
+
+On 17 August 2025, Mastouri signed with [[Russian Premier League]] club [[FC Dynamo Makhachkala|Dynamo Makhachkala]].<ref>{{cite web|publisher=FC Dynamo Makhachkala|url=https://dinamo-mx.ru/blog/2025/08/17/napadayushhij-hazem-masturi-pereshel-v-dinamo/|title=Нападающий Хазем Мастури перешел в "Динамо"|date=17 August 2025|access-date=18 August 2025|language=ru}}</ref>
+
+==International career==
+He debuted with the [[Tunisia national football team|Tunisia national team]] in a 3–2 [[2025 Africa Cup of Nations qualification]] win over [[Madagascar national football team|Madagascar]] on 14 November 2024, helping his team qualify for the final competition with the win.<ref name="p032">{{cite web | title=Tunisia qualify for the 2025 AFCON in dramatic fashion | website=SuperSport | date=2024-11-14 | url=https://supersport.com/football/africa-cup-qual/news/75be85b8-e8e5-4404-8def-c40943a87378/tunisia-qualify-for-the-2025-afcon-in-dramatic-fashion | access-date=2025-06-03}}</ref>
+
+== Career statistics ==
+
+=== Club ===
+{{updated|20 May 2026}}
+{|class="wikitable" style="text-align: center;"
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|Cup
+!colspan=2|Continental
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="4"|[[ES Métlaoui]]
+|[[2021–22 Tunisian Ligue Professionnelle 1|2021–22]]
+|[[Tunisian Ligue Professionnelle 1]]
+|15||6||colspan=2|–||colspan=2|–||colspan=2|–||15||6
+|-
+|[[2022–23 Tunisian Ligue Professionnelle 1|2022–23]]
+|Tunisian Ligue Professionnelle 1
+|13||2||3||2||colspan=2|–||colspan=2|–||16||4
+|-
+|[[2023–24 Tunisian Ligue Professionnelle 1|2023–24]]
+|Tunisian Ligue Professionnelle 1
+|4||2||0||0||colspan=2|–||colspan=2|–||4||2
+|-
+!colspan=2|Total
+!32!!10!!3!!2!!0!!0!!0!!0!!35!!12
+|-
+|rowspan="3"|[[US Monastir (football)|US Monastir]]
+|[[2024–25 Tunisian Ligue Professionnelle 1|2024–25]]
+|Tunisian Ligue Professionnelle 1
+|27||16||3||2||2{{efn|Appearances in [[CAF Champions League]]}}||0||colspan=2|–||32||18
+|-
+|[[2025–26 Tunisian Ligue Professionnelle 1|2025–26]]
+|Tunisian Ligue Professionnelle 1
+|1||0||colspan=2|–||colspan=2|–||colspan=2|–||1||0
+|-
+!colspan=2|Total
+!28!!16!!3!!2!!2!!0!!0!!0!!33!!18
+|-
+|[[FC Dynamo Makhachkala|Dynamo Makhachkala]]
+|[[2025–26 Russian Premier League|2025–26]]
+|[[Russian Premier League]]
+|21||2||7||2||colspan=2|–||1{{efn|Appearances in relegation play-offs}}||0||29||4
+|-
+!colspan=3|Career total
+!81!!28!!13!!6!!2!!0!!1!!0!!97!!34
+|}
+{{notelist}}
+
+=== International ===
+{{updated|match played 18 November 2025}}<ref name="NFT">{{NFT player|96436|Hazem Mastouri|access-date=26 June 2021}}</ref>
+{| class="wikitable" style="text-align:center"
+|+Appearances and goals by national team and year
+!National team
+!Year
+!Apps
+!Goals
+|-
+| rowspan="2" |[[Tunisia national football team|Tunisia]]
+|2024
+|2
+|0
+|-
+|2025
+|10
+|4
+|-
+| colspan="2" |'''Total'''
+|'''12'''
+|'''4'''
+|}
+
+: ''As of match played 18 November 2025. Tunisia's score listed first, score column indicates score after each Mastouri goal.''<ref name="NFT" />
+
+{| class="wikitable plainrowheaders sortable"
+|+List of international goals scored by Hazem Mastouri
+! scope="col" |No.
+! scope="col" |Date
+! scope="col" |Venue
+! scope="col" |Cap
+! scope="col" |Opponent
+! scope="col" |Score
+! scope="col" |Result
+! scope="col" |Competition
+! scope="col" class="unsortable" |{{abbr|Ref.|Reference}}
+|-
+| align="center" |1
+|19 March 2025
+|[[Antoinette Tubman Stadium]], [[Monrovia]], Liberia
+| align="center" |3
+|{{Fb|LBR}}
+|{{center|1–0}}
+|{{center|1–0}}
+|[[2026 FIFA World Cup qualification – CAF Group H|2026 FIFA World Cup qualification]]
+|
+|-
+| align="center" |2
+|2 June 2025
+|[[Hammadi Agrebi Stadium]], [[Radès]], Tunisia
+| align="center" |5
+|{{fb|BFA}}
+|{{center|2–0}}
+|{{center|2–0}}
+|[[Friendly (association football)|Friendly]]
+|
+|-
+| align="center" |3
+|4 September 2025
+|Hammadi Agrebi Stadium, Radès, Tunisia
+| align="center" |7
+|{{fb|LBR}}
+|{{center|1–0}}
+|{{center|3–0}}
+|2026 FIFA World Cup qualification
+|
+|-
+| align="center" |4
+|18 November 2025
+|[[Stade Pierre-Mauroy]], [[Lille]], France
+| align="center" |8
+|{{fb|BRA}}
+|{{center|1–0}}
+|{{center|1–1}}
+|[[Friendly (association football)|Friendly]]
+|
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Soccerway|hazem-mastouri/801154}}
+*{{NFT|96436}}
+
+{{FC Dynamo Makhachkala squad}}
+{{Navboxes
+| title=  Tunisia squads
+| bg = #E70013
+| fg = white
+| bordercolor = white
+| list1 =
+{{Tunisia squad 2025 Africa Cup of Nations}}
+{{Tunisia squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Mastouri, Hazem}}
+[[Category:1997 births]]
+[[Category:Living people]]
+[[Category:Footballers from Tunis]]
+[[Category:Tunisian men's footballers]]
+[[Category:Tunisia men's international footballers]]
+[[Category:21st-century Tunisian sportsmen]]
+[[Category:Men's association football forwards]]
+[[Category:LPS Tozeur players]]
+[[Category:ES Métlaoui players]]
+[[Category:Al-Najaf SC players]]
+[[Category:US Monastir (football) players]]
+[[Category:FC Dynamo Makhachkala players]]
+[[Category:Tunisian Ligue Professionnelle 1 players]]
+[[Category:Iraq Stars League players]]
+[[Category:Russian Premier League players]]
+[[Category:Tunisian expatriate men's footballers]]
+[[Category:Expatriate men's footballers in Iraq]]
+[[Category:Tunisian expatriate sportspeople in Iraq]]
+[[Category:Expatriate men's footballers in Russia]]
+[[Category:Tunisian expatriate sportspeople in Russia]]
+[[Category:2025 Africa Cup of Nations players]]
+[[Category:2026 FIFA World Cup players]]

@@ -1,0 +1,88 @@
+[
+ {
+  "player_id": "948294",
+  "profile_url": "https://www.transfermarkt.com/nico-paz/profil/spieler/948294",
+  "full_name": "Nicolás Paz Martínez",
+  "display_name": "Nico Paz",
+  "short_name": "Nico Paz",
+  "nickname": "",
+  "date_of_birth": "2004-09-08",
+  "age": 21,
+  "place_of_birth": "Santa Cruz de Tenerife",
+  "country_of_birth": "Spain",
+  "nationality": [
+   "Argentina",
+   "Spain"
+  ],
+  "gender": "male",
+  "position": "Attacking Midfield",
+  "position_category": "Midfielder",
+  "foot": "left",
+  "height_cm": 185,
+  "current_club": "Como 1907",
+  "current_club_id": "1047",
+  "current_competition": "Serie A",
+  "current_competition_code": "IT1",
+  "shirt_number": 10,
+  "is_captain": false,
+  "contract_until": "2028-06-30",
+  "last_contract_renewal": "",
+  "market_value_eur": 80000000,
+  "market_value_currency": "EUR",
+  "market_value_determined": "2026-05-29",
+  "previous_market_value_eur": 65000000,
+  "highest_market_value_eur": 80000000,
+  "highest_market_value_determined": "2026-05-29",
+  "market_value_history": [
+   "0 | Real Madrid U19 | EUR 2,00M",
+   "0 | Real Madrid U19 | EUR 2,00M",
+   "2023 | Real Madrid Castilla | EUR 5,00M",
+   "2023 | Real Madrid Castilla | EUR 10,00M",
+   "2023 | Real Madrid Castilla | EUR 10,00M",
+   "2024 | Como 1907 | EUR 15,00M",
+   "2024 | Como 1907 | EUR 20,00M",
+   "2024 | Como 1907 | EUR 35,00M",
+   "2024 | Como 1907 | EUR 35,00M",
+   "2025 | Como 1907 | EUR 55,00M",
+   "2025 | Como 1907 | EUR 65,00M",
+   "2025 | Como 1907 | EUR 80,00M"
+  ],
+  "agent": "",
+  "agency": "DC GLOBAL SL",
+  "agency_id": "11284",
+  "youth_clubs": [
+   "San Juan (2011-14)\r\nTenerife (2014-16)"
+  ],
+  "career_history": [
+   "CD Tenerife Youth -> Real Madrid CF Youth | 2016-07-01 | ? | 16/17",
+   "Real Madrid CF Youth -> Real Madrid U17 | 2020-07-01 | - | 20/21",
+   "Real Madrid U17 -> Real Madrid U18 | 2021-07-01 | - | 21/22",
+   "Real Madrid U18 -> Real Madrid U19 | 2022-07-01 | - | 22/23",
+   "Real Madrid U19 -> Real Madrid Castilla | 2023-07-01 | - | 23/24",
+   "Real Madrid Castilla -> Como 1907 | 2024-08-25 | €6.00M | 24/25"
+  ],
+  "total_transfer_fees_eur": 6000000,
+  "international_team": "Argentina",
+  "international_caps": 8,
+  "international_goals": 1,
+  "national_team_history": [
+   "Argentina | 8 apps | 1 goals | CURRENT_NATIONAL_PLAYER",
+   "Argentina U20 | 8 apps | 1 goals | FORMER_NATIONAL_PLAYER",
+   "Argentina U23 | 4 apps | 0 goals | FORMER_NATIONAL_PLAYER"
+  ],
+  "injuries": [
+   "2023-12-15 to 2024-01-15 | In training camp with first team | 2 games",
+   "2023-12-08 to 2023-12-11 | In training camp with first team | 1 game",
+   "2023-11-23 to 2023-11-27 | In training camp with first team | 1 game",
+   "2023-11-03 to 2023-11-06 | In training camp with first team | 1 game"
+  ],
+  "suspensions": [
+   "2026-02-19 to 2026-02-22 | Yellow card suspension | 1 game",
+   "2025-03-18 to 2025-03-30 | Yellow card suspension | 1 game",
+   "2024-03-18 to 2024-03-27 | Called up to national team | 1 game",
+   "2023-11-13 to 2023-11-22 | Called up to national team | 1 game"
+  ],
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/big/948294-1699472504.jpg",
+  "scraped_at": "2026-06-08T18:08:12.782Z"
+ }
+]

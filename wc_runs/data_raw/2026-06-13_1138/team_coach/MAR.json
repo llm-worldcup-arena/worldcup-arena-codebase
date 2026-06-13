@@ -1,0 +1,24 @@
+{
+ "team": "MAR",
+ "coach": {
+  "name_zh": "",
+  "name_en": "Mohamed Ouahbi",
+  "nationality": "Belgium",
+  "career_since": "1997",
+  "person_id": "per_mohamed_ouahbi"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 比利时籍教练Mohamed Ouahbi于2026年世界杯前接替辞职的Walid Regragui，出任摩洛哥国家队主帅\n- 自1997年开启执教生涯，2025年率摩洛哥U-20击败阿根廷夺得世青赛冠军\n- 接手后遭遇防线危机：主力中卫Nayef Aguerd伤缺、Romain Saiss退役，被迫启用总出场仅10次的Diop/Riad组合\n- 战术上延续摩洛哥务实控球传统，计划利用Achraf Hakimi速度冲击巴西边路防守软肋\n- 紧急补招昂热边锋Amine Sbai与沙特后卫Marwane Saadane入队，但两人预计对巴西均不会首发\n- 带队征战2026世界杯首战即遇巴西，球队虽被视为C组黑马但饱受伤病困扰",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 1.0,
+  "issues": []
+ },
+ "brief_fetched": "2026-06-13_1138",
+ "brief_info_chars": 6000
+}

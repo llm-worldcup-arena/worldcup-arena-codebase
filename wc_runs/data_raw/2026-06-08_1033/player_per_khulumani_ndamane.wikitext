@@ -1,0 +1,82 @@
+{{Short description|South African soccer player (born 2004)}}
+{{Infobox football biography
+| name = Khulumani Ndamane
+| birth_date = {{birth date and age|df=yes|2004|02|05}}
+| birth_place = [[Ladysmith, KwaZulu-Natal|Sahlumbe]], South Africa
+| height = 1.83m
+| position = [[Centre-back]]
+| currentclub = [[Mamelodi Sundowns]]
+| clubnumber = 3
+| youthclubs1 = [[Kaizer Chiefs Development]]
+| youthyears1 = 2023
+| clubs1 = [[TS Galaxy F.C.]]
+| years1 = 2024–2025
+| caps1 = 37
+| goals1 = 0
+| clubs2 = [[Mamelodi Sundowns F.C.|Mamelodi Sundowns]]
+| years2 = 2026–
+| caps2 = 0
+| goals2 = 0
+| nationalyears1 = 2025–
+| nationalteam1 = [[South Africa national soccer team|South Africa]]
+| nationalcaps1 = 4
+| nationalgoals1 = 0
+| club-update = 7 December 2025
+| nationalteam-update = 15 November 2025
+}}
+'''Khulumani Ndamane''' (born 5 February 2004) is a South African soccer player who plays as a [[central defender]] for [[South African Premiership]] side [[Mamelodi Sundowns F.C.|Mamelodi Sundowns]] and the [[South Africa national soccer team|South Africa national team]].
+
+== Club career ==
+
+=== Kaizer Chiefs Academy===
+
+Ndamane joined the [[Kaizer Chiefs Development|Kaizer Chiefs Academy]] in 2023 and played in the [[PSL Reserve League]].<ref>{{Cite web |date=2025-11-14 |title=Bafana Bafana defender Khulumani Ndamane opens up on what stifled his progress at Kaizer Chiefs and 'helped me grow' at TS Galaxy {{!}} Goal.com South Africa |url=https://www.goal.com/en-za/lists/bafana-bafana-defender-khulumani-ndamane-opens-up-on-what-stifled-his-progress-at-kaizer-chiefs-and-helped-me-grow-at-ts-galaxy/bltb28c3016fe79e438 |access-date=2025-12-09 |website=www.goal.com |language=en-ZA}}</ref><ref>{{Cite web |last=Times |first=iDiski |date=2025-11-13 |title=Ndamane Opens Up On Chiefs Exit |url=https://www.idiskitimes.co.za/betway-premiership/ndamane-opens-up-on-chiefs-exit/ |access-date=2025-12-09 |website=iDiski Times |language=en-US}}</ref>
+
+=== TS Galaxy ===
+
+In June 2024, he signed with [[South African Premiership]] side [[TS Galaxy F.C.|TS Galaxy]].<ref>{{Cite web |last=Rabothe |first=Tshepo |date=2025-03-29 |title=TS Galaxy rising star Ndamane opens up on Chiefs stint |url=https://farpost.co.za/2025/03/29/ts-galaxy-rising-star-ndamane-opens-up-on-chiefs-stint/ |access-date=2025-12-09 |website=Farpost |language=en-US}}</ref><ref>{{Cite web |last=Kramer |first=Trevor |date=2025-11-14 |title=Vodacom Soccer {{!}} News {{!}} Beyond Naturena: Khulumani Ndamane explains his journey of growth at TS Galaxy |url=https://vodacomsoccer.com/news/beyond-naturena-khulumani-ndamane-explains-his-journey-of-growth-at-ts-galaxy-1 |access-date=2025-12-09 |website=Vodacom Soccer |language=en}}</ref> Ndamane has made 27 appearances for the club in the 2024–25 season.
+
+=== Mamelodi Sundowns ===
+He joined [[Mamelodi Sundowns F.C.|Mamelodi Sundowns]] during the January 2026 transfer window.<ref>{{Cite web |date=2026-01-12 |title=Mamelodi Sundowns unveil Khulumani Ndamane |url=https://www.panafricafootball.com/post/sundowns-unveil-khulumani-ndamane/ |access-date=2026-01-12 |website=www.panafricafootball.com |language=en-ZA}}</ref>
+
+== International career ==
+In June 2025, Ndamane received his first senior international call-up for two friendly games against [[Tanzania national football team|Tanzania]] and [[Mozambique national football team|Mozambique]], making his debut in a 0–0 draw against Tanzania.<ref name=":0">{{Cite web |last=Mamabolo |first=Matshelane |date= |title=From the Hills of Sahlumbe to the bright lights of Bafana Bafana: The Khulumani Ndamane story |url=https://sundaytribune.co.za/sport/soccer/bafana/2025-11-09-from-the-hills-of-sahlumbe-to-the-bright-lights-of-bafana-bafana-the-khulumani-ndamane-story/ |access-date=2025-12-09 |website=Sunday Tribune |language=en}}</ref><ref>{{Cite web |last=Munyai |first=Ofhani |date=2025-06-09 |title=Khulumani Ndamane makes honest admission about Bafana debut |url=https://farpost.co.za/2025/06/09/khulumani-ndamane-makes-honest-admission-about-bafana-debut/ |access-date=2025-12-09 |website=Farpost |language=en-US}}</ref> He was called up again for the World Cup qualifiers against [[Lesotho national football team|Lesotho]] and [[Nigeria national football team|Nigeria]] in September 2025.
+
+On 1 December 2025, Ndamane was called up to the South Africa squad for the [[2025 Africa Cup of Nations]].<ref>{{cite web|url=https://www.cafonline.com/afcon2025/news/totalenergies-afcon-morocco-2025-fever-rises-as-broos-become-first-coach-to-unveil-final-squad/|title=TotalEnergies AFCON Morocco 2025 fever rises as Broos become first coach to unveil final squad|publisher=[[Confederation of African Football]]|date=1 December 2025|access-date=12 December 2025}}</ref>
+
+== Personal life ==
+Ndamane grew up in Sahlumbe, KwaZulu-Natal. He is a supporter of [[Kaizer Chiefs F.C.|Kaizer Chiefs]].<ref name=":0" />
+
+==Honours==
+
+'''Mamelodi Sundowns'''
+* [[CAF Champions League]]: [[2025–26 CAF Champions League|2025–26]]
+
+== References ==
+{{Reflist}}
+
+{{Mamelodi Sundowns F.C. squad}}
+{{Navboxes
+| title = South Africa squads
+| bg        = #FFB81C
+| fg        = #007749
+| bordercolor = #007749
+| list =
+{{South Africa squad 2025 Africa Cup of Nations}}
+{{South Africa squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Ndamane, Khulumani}}
+[[Category:Living people]]
+[[Category:2004 births]]
+[[Category:Soccer players from KwaZulu-Natal]]
+[[Category:21st-century South African sportsmen]]
+[[Category:South African men's soccer players]]
+[[Category:Men's association football central defenders]]
+[[Category:South African Premier Division players]]
+[[Category:TS Galaxy F.C. players]]
+[[Category:South Africa men's international soccer players]]
+[[Category:2025 Africa Cup of Nations players]]
+[[Category:Mamelodi Sundowns F.C. players]]
+[[Category:CAF Champions League–winning players]]
+[[Category:2026 FIFA World Cup players]]

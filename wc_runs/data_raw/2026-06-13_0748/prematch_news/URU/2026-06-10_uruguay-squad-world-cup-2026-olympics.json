@@ -1,0 +1,16 @@
+{
+ "team": "URU",
+ "source": "Olympics.com",
+ "url": "https://www.olympics.com/en/news/fifa-world-cup-2026-uruguay-players-squad-key-stats-schedule",
+ "title": "FIFA World Cup 2026: These teams have qualified for the tournament - full list",
+ "news_date": "2026-06-10",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-10",
+ "fetched": "2026-06-13_0748",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Uruguay at FIFA World Cup 2026: All players, full squad list, key stats and schedule\nQuick facts\nCaptain: José María Giménez\nManager: Marcelo Bielsa\nWorld Cup appearances (including 2026): 15\nBest World Cup result: Winners (1930, 1950)\nGoalkeepers: Sergio Rochet (Internacional), Fernando Muslera (Estudiantes), Santiago Mele (Monterrey)\nDefenders: Guillermo Varela (Flamengo), Ronald Araujo (Barcelona), José María Giménez (Atlético de Madrid), Santiago Bueno (Wolves), Sebastián Cáceres (CF América), Mathías Olivera (Napoli), Joaquín Piquerez (Palmeiras), Matías Viña (River Plate)\nMidfielders: Manuel Ugarte (Manchester United), Emiliano Martínez (Palmeiras), Rodrigo Bentancur (Tottenham Hotspur), Federico Valverde (Real Madrid), Agustín Canobbio (Fluminense), Juan Manuel Sanabria (Real Salt Lake City), Giorgan de Arrascaeta (Flamengo), Nicolás de la Cruz (Flamengo), Rodrigo Zalazar (Braga), Facundo Pellistri (Panathinaikos), Maximiliano Araújo (Sporting), Brian Rodríguez (CF América)\nForwards: Rodrigo Aguirre (Tigres), Federico Viñas (Real Oviedo), Darwin Núñez (Al-Hilal)",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

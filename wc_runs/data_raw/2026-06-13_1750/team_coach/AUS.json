@@ -1,0 +1,31 @@
+{
+ "team": "AUS",
+ "coach": {
+  "name_zh": "托尼·波波维奇",
+  "name_en": "Tony Popovic",
+  "nationality": "Australia",
+  "career_since": "2009",
+  "person_id": "per_tony_popovic"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 托尼·波波维奇（Tony Popovic）自2009年开启执教生涯，2024年末中途接手澳大利亚国家队，成为首位以球员和教练身份均参加世界杯的澳大利亚人。\n- 其战术体系以3-4-2-1阵型为根基，强调高度组织纪律性、刚性防守结构与强悍身体素质，依赖翼卫拉开宽度并由中场争夺第二落点。\n- 带队在扩军后的亚足联第三轮预选赛中主场2-1终结对日本十年不胜，凭借阿齐兹·贝希奇终场绝杀直接锁定世界杯门票。\n- 本届世界杯征召26人名单，17人首次参赛，同时纳入两名零出场前锋（克里斯蒂安·沃尔帕托、泰特·延吉），由四朝元老马修·瑞恩与马修·莱基坐镇更衣室。\n- 温哥华首战面对土耳其，其挑战在于维持90分钟防守专注度的同时，为经验匮乏的攻击线创造足够支持。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.95,
+  "issues": []
+ },
+ "brief_fetched": "2026-06-13_1750",
+ "brief_info_chars": 4267,
+ "coach_xverify": {
+  "canonical": "Tony Popovic",
+  "confidence": "high",
+  "discrepancy": "",
+  "sources_agree": 5,
+  "n_sources": 8
+ }
+}

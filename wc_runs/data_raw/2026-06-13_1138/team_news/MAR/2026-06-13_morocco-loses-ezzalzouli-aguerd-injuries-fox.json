@@ -1,0 +1,16 @@
+{
+ "team": "MAR",
+ "source": "FOX Sports",
+ "url": "https://www.foxsports.com/articles/soccer/morocco-loses-star-winger-ezzalzouli-and-aguerd-to-injuries-for-world-cup",
+ "title": "Morocco loses star winger Ezzalzouli and Aguerd to injuries for World Cup | FOX Sports",
+ "news_date": "2026-06-13",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-13",
+ "fetched": "2026-06-13_1138",
+ "method": "jsonld:articleBody",
+ "status": "ok",
+ "original_text": "BASKING RIDGE, N.J. (AP) — Morocco replaced two injured players in its World Cup squad ahead of an opening game against Brazil, including star winger Abde Ezzalzouli. FIFA confirmed late Wednesday that former Barcelona player Ezzalzouli and Marseille defender Nayef Aguerd were withdrawn from the Morocco squad for the tournament. Ezzalzouli helped Real Betis qualify for next season's Champions League and was a potential breakout star at the World Cup. Aguerd was a cornerstone of Morocco’s historic semifinals team at the 2022 World Cup in Qatar. They were replaced by Amine Sbai of French club Angers and Marwane Saadane, who plays in Saudi Arabia for Al Fateh. Morocco opens against Brazil on Saturday at MetLife Stadium near New York, then plays Scotland on June 19 near Boston and finishes Group C against Haiti on June 24 in Atlanta. Ezzalzouli injured his right knee in a warmup game against Norway last weekend, though initial tests suggested he could be retained in coach Mohamed Ouahbi's squad to play in the knockout rounds. ___ AP World Cup: https://apnews.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

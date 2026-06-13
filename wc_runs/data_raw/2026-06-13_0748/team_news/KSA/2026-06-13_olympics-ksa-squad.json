@@ -1,0 +1,16 @@
+{
+ "team": "KSA",
+ "source": "Olympics.com",
+ "url": "https://www.olympics.com/en/news/fifa-world-cup-2026-saudi-arabia-all-players-full-squad-list-key-stats-schedule",
+ "title": "Saudi Arabia at FIFA World Cup 2026: All players, full squad list, key stats and schedule",
+ "news_date": "2026-06-13",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-13",
+ "fetched": "2026-06-13_0748",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Saudi Arabia at FIFA World Cup 2026: All players, full squad list, key stats and schedule\nQuick facts\nCaptain: Salem Al Dawsari\nManager: Georgios Donis\nWorld Cup appearances (including 2026): 7\nBest World Cup result: Round of 16 (1994)\nGoalkeepers: Nawaf Al Aqidi (Al-Nassr), Mohamed Al Owais (Al-Ula), ​Ahmed Alkassar (Al-Qadsiah)\nDefenders: Saud Abdulhamid (Lens), Jehad Thakri (Al-Qadsiah), Abdulelah Al Amri (Al-Nassr), ​Hassan Tambakti (Al-Hilal), ⁠Ali Lajami (Al-Hilal), Hassan Kadesh (Al-Ittihad), Moteb Al Harbi (Al-Hilal), Nawaf Boushal (Al-Nassr), Ali Majrashi (Al-Ahli), Mohammed Abu Alshamat (Al-Qadsiah)\nMidfielders: Ziyad Al Johani (Al-Ahli), Nasser Al Dawsari (Al-Hilal), Mohamed Kanno (Al-Hilal), Abdullah Al Khaibari (Al-Nassr), Alaa ⁠Al ​Hejji (Neom), Musab Al Juwayr (Al-Qadsiah), Sultan Mandash (Al-Hilal), Ayman ​Yahya (Al-Nassr), Khalid Al Ghannam (Al-Ettifaq)\nForwards: Salem Al Dawsari (Al-Hilal), Abdullah Al Hamdan (Al-Nassr), Feras Al Brikan (Al-Ahli), Saleh Al Shehri (Al-Ittihad)",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

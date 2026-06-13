@@ -1,0 +1,24 @@
+{
+ "team": "COD",
+ "coach": {
+  "name_zh": "",
+  "name_en": "Sébastien Desabre",
+  "nationality": "France",
+  "career_since": "2006",
+  "person_id": "per_sebastien_desabre"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 49岁法国籍教练Sébastien Desabre于2006年开启执教生涯，球员时代无任何职业经历。\n- 2022年接手刚果民主共和国国家队，率队晋级2026世界杯（队史1974年后首次）并打入2023非洲杯四强。\n- 战术上灵活切换4-1-4-1与4-3-3阵型，强调防守组织性与中场高强度跑动，依赖英超经验防线。\n- 麾下拥有万-比萨卡、维萨等英超名将，围绕姆布库边路爆点与穆图萨米中场绞杀构建进攻体系。\n- 曾执教非洲豪门维达德AC与突尼斯希望，2017-2019年执教乌干达国家队，深耕非洲足坛近二十年。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.95,
+  "issues": []
+ },
+ "brief_fetched": "2026-06-13_1138",
+ "brief_info_chars": 6000
+}

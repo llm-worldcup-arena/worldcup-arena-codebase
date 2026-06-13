@@ -1,0 +1,31 @@
+{
+ "team": "ESP",
+ "coach": {
+  "name_zh": "路易斯·德拉富恩特",
+  "name_en": "Luis de la Fuente",
+  "nationality": "Spain",
+  "career_since": "",
+  "person_id": "per_luis_de_la_fuente"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 西班牙教练路易斯·德拉富恩特现任西班牙国家队主教练，正率队备战2026年北美世界杯，大本营设在田纳西州查塔努加。\n- 德拉富恩特将腿筋受伤的亚马尔、尼科·威廉姆斯和维克托·穆尼奥斯排除在对秘鲁的末场热身赛（墨西哥普埃布拉）名单外，三人留在基地恢复。\n- 针对亚马尔4月22日的腿筋伤势，德拉富恩特采取谨慎管理策略，表示球员有望赶上6月15日世界杯首战但上场时间可能受限。\n- 西班牙小组赛赛程为：6月15日亚特兰大对阵佛得角、21日同地对阵沙特、26日瓜达拉哈拉对阵乌拉圭。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.95,
+  "issues": []
+ },
+ "brief_fetched": "2026-06-13_1750",
+ "brief_info_chars": 6000,
+ "coach_xverify": {
+  "canonical": "Luis de la Fuente",
+  "confidence": "high",
+  "discrepancy": "",
+  "sources_agree": 4,
+  "n_sources": 7
+ }
+}

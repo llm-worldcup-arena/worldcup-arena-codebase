@@ -1,0 +1,94 @@
+{{Short description|Iraqi football player}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+| name = Ahmed Maknzi
+| image = 
+| image_size = 
+| caption = 
+| fullname = Ahmed Hassan Maknzi Salman Al-Lami Al-Reeshawee
+| birth_date = {{Birth date and age|2001|09|24|df=y}}
+| birth_place = [[Baghdad]], [[Iraq]]
+| height = 1.82 m
+| position = [[Left-back]]
+| currentclub = [[Al-Karma SC|Al-Karma]]
+| clubnumber = 3
+| youthyears1 = {{0|0000}}–2019
+| youthclubs1 = [[Al-Zawraa SC|Al-Zawraa]]
+| years1 = 2019–2023
+| clubs1 = [[Al-Zawraa SC|Al-Zawraa]]
+| caps1 = 
+| goals1 = 
+| years2 = 2023–2024
+| clubs2 = [[Erbil SC|Erbil]]
+| caps2 = 28
+| goals2 = 1
+| years3 = 2024–2025
+| clubs3 = [[Al-Najaf SC|Al-Najaf]]
+| caps3 = 35
+| goals3 = 3
+| years4 = 2025–
+| clubs4 = [[Al-Karma SC|Al-Karma]]
+| caps4 = 22
+| goals4 = 5
+| nationalyears1 = 2019
+| nationalteam1 = [[Iraq national under-20 football team|Iraq U-18]]
+| nationalcaps1 = 7
+| nationalgoals1 = 0
+| nationalyears2 = 2021–2024
+| nationalteam2 = [[Iraq national under-23 football team|Iraq U23]]
+| nationalcaps2 = 24
+| nationalgoals2 = 0
+| nationalyears3 = 2024–
+| nationalteam3 = [[Iraq national football team|Iraq]]
+| nationalcaps3 = 6
+| nationalgoals3 = 0
+| club-update = 31 July 2024
+| nationalteam-update = 29 May 2026
+| medaltemplates = {{MedalSport|Men's [[Association football|football]]}}
+{{MedalCountry|{{fb|IRQ}}}}
+{{Medal|Competition|[[AFC U-23 Asian Cup]]}}
+{{Medal|B|[[2024 AFC U-23 Asian Cup|2024 Qatar]]|[[2024 AFC U-23 Asian Cup squads#Uzbekistan|Team]]}}
+}}
+
+'''Ahmed Hassan Maknzi''' ({{langx|ar|أحمد حسن مكنزي}}; born 24 September 2001) is an Iraqi professional [[football player]] who plays as a [[Defender (association football)|left-back]] for [[Iraq Stars League]] club [[Al-Karma SC|Al-Karma]] and the [[Iraq national football team|Iraq national team]].<ref name="Automatically Generated1">{{Kooora|136806}}</ref><ref>{{Cite web |title=كووورة: الموقع العربي الرياضي الأول |url=https://www.kooora.com/?player=102810 |access-date=2024-07-28 |website=www.kooora.com}}</ref><ref>{{Cite web |title=Football player Ahmed Hasan |url=https://www.365scores.com/ar/football/player/ahmed-hasan-82668 |access-date=2024-07-28 |website=www.365scores.com}}</ref>
+
+==International career==
+In June 2023, Maknzi was called up to the [[Iraq national under-23 football team|Iraq U-23]] national team for the [[2023 WAFF U-23 Championship]], which was being hosted in Iraq and which Iraq would win.<ref>{{cite news|url=https://ultrairaq.ultrasawt.com/%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%85%D8%A8%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D8%AA%D8%B6%D9%85-6-%D9%85%D8%AD%D8%AA%D8%B1%D9%81%D9%8A%D9%86/%D8%A7%D9%84%D8%AA%D8%B1%D8%A7-%D8%B9%D8%B1%D8%A7%D9%82/%D9%85%D9%86%D9%88%D8%B9%D8%A7%D8%AA|title=قائمة المنتخب الأولمبي العراقي تضم 6 محترفين|date=5 June 2023|publisher=UltraIraq|language=Arabic|accessdate=2 August 2024}}</ref>
+
+On 19 May 2026, Maknzi was named in Iraq's 34-man preliminary squad for the [[2026 FIFA World Cup]].<ref>{{cite web |url=https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/iraq-preliminary-squad-announcement-graham-arnold |title=Hassan returns as Arnold names preliminary Iraq squad |publisher=[[FIFA]] |date=May 20, 2026 |access-date=May 22, 2026 |archive-date=May 28, 2026 |archive-url=https://web.archive.org/web/20260528152235/https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/iraq-preliminary-squad-announcement-graham-arnold |url-status=live }}</ref> He was subsequently included in the final 26-man squad on 6 June, replacing the injured [[Ahmed Yahya]].<ref>{{cite web |url=https://www.reuters.com/sports/soccer/makenzie-replaces-injured-yahya-iraqs-world-cup-squad-2026-06-06/ |title=Makenzie replaces injured Yahya in Iraq's World Cup squad |publisher=Reuters |date=6 June 2026 }}</ref>
+
+==Honours==
+'''Al-Zawraa'''
+* [[Iraqi Super Cup]]: [[2021 Iraqi Super Cup|2021]]
+'''Iraq U-23'''
+* [[WAFF U-23 Championship]]: [[2023 WAFF U-23 Championship|2023]]
+
+== References ==
+<references/>
+
+{{Navboxes
+|title=Iraq squads
+|bg=#017B3D
+|fg=white
+|bordercolor=black
+|list1=
+{{Iraq men's football squad 2024 Summer Olympics}}
+{{Iraq squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Maknzi, Ahmed}}
+[[Category:2001 births]]
+[[Category:Living people]]
+[[Category:Iraqi men's footballers]]
+[[Category:Al-Zawraa SC players]]
+[[Category:Erbil SC players]]
+[[Category:Al-Najaf SC players]]
+[[Category:Al-Karma SC players]]
+[[Category:Sportspeople from Baghdad]]
+[[Category:Men's association football defenders]]
+[[Category:Iraq men's under-20 international footballers]]
+[[Category:Footballers at the 2024 Summer Olympics]]
+[[Category:Olympic footballers for Iraq]]
+[[Category:2026 FIFA World Cup players]]
+
+{{Iraq-footy-bio-stub}}

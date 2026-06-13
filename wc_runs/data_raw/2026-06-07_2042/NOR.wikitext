@@ -1,0 +1,77 @@
+{{Short description|Men's association football team}}
+{{About|the men's team|the women's team|Norway women's national football team}}
+{{Use dmy dates|date=December 2024}}
+{{Infobox national football team
+| Name               = Norway
+| Nickname           = ''Røde, Hvite, Blå'' (Red, White and Blue)<br>''Landslaget'' (National Team)<br>''Drillos''{{efn|Team's nickname that was popular in the 1990s and early 2000s, in association with former player and manager Egil Olsen who was himself nicknamed ''Drillo'', when the national team recorded some of its major achievements. ''Drillos'' could be rendered as "Drillo's Men" in English. The nickname has since become rarely used.}}
+| Badge              = Norway national football team logo.svg
+| Badge_size         = 150px
+| Association        = {{nowrap|{{lang|no|[[Norwegian Football Federation|Norges Fotballforbund]]}} (NFF)}}
+| Confederation      = [[UEFA]] (Europe)
+| website            = [https://www.fotball.no/ fotball.no]
+| Coach              = [[Ståle Solbakken]]
+| Captain            = [[Martin Ødegaard]]
+| Most caps          = {{nowrap|[[John Arne Riise]] (110)}}
+| Top scorer         = [[Erling Haaland]] ([[List of international goals scored by Erling Haaland|55]])
+| Home Stadium       = [[Ullevaal Stadion]]
+| FIFA Rank          = {{FIFA World Rankings|NOR}}
+| FIFA Trigramme     = NOR
+| FIFA max           = 2
+| FIFA max date      = October 1993, {{nowrap|July–August 1995}}
+| FIFA min           = 88
+| FIFA min date      = July 2017
+| Elo Rank           = {{World Football Elo Ratings|Norway}}
+| Elo max            = 6
+| Elo max date       = June 2000
+| Elo min            = 91
+| Elo min date       = May–June 1976
+| pattern_la1        = _nor26h
+| pattern_b1         = _nor26h
+| pattern_ra1        = _nor26h
+| pattern_sh1        = _nor26h
+| pattern_so1        = 
+| leftarm1           = BA0003
+| body1              = BA0003
+| rightarm1          = BA0003
+| shorts1            = BA0003
+| socks1             = 202747
+| pattern_la2        = _nor26a
+| pattern_b2         = _nor26a
+| pattern_ra2        = _nor26a
+| pattern_sh2        = _nor26a
+| pattern_so2        = 
+| leftarm2           = FFFFFF
+| body2              = FFFFFF
+| rightarm2          = FFFFFF
+| shorts2            = FFFFFF
+| socks2             = 000000
+| pattern_la3        = _nor26t
+| pattern_b3         = _nor26t
+| pattern_ra3        = _nor26t
+| pattern_sh3        = _nor26h
+| pattern_so3        = 
+| leftarm3           = FFFFFF
+| body3              = FFFFFF
+| rightarm3          = FFFFFF
+| shorts3            = FFFFFF
+| socks3             = FFFFFF
+| First game         = {{fb|SWE}} 11–3 {{fb-rt|NOR}} <br /> ([[Gothenburg]], [[Sweden]]; 12 July 1908)
+| Largest win        = {{fb|NOR}} 12–0 {{fb-rt|FIN}} <br /> ([[Bergen]], [[Norway]]; 28 June 1946)<ref>{{cite web|url=http://www.rsssf.no/1946/National.html|title=Norwegian national team 1946|website=www.rsssf.no|access-date=20 March 2013|archive-date=27 June 2013|archive-url=https://web.archive.org/web/20130627181122/http://www.rsssf.no/1946/National.html|url-status=live}}</ref>
+| Largest loss       = {{fb|DEN}} 12–0 {{fb-rt|NOR}} <br /> ([[Copenhagen]], [[Denmark]]; 7 October 1917)
+| World cup apps     = 4
+| World cup first    = 1938
+| World cup best     = Round of 16 ([[1938 FIFA World Cup|1938]], [[1998 FIFA World Cup|1998]])
+| Regional name      = [[UEFA European Championship|European Championship]]
+| Regional cup apps  = 1
+| Regional cup first = [[UEFA Euro 2000|2000]]
+| Regional cup best  = Group stage ([[UEFA Euro 2000|2000]])
+| medaltemplates     = {{MedalSport|Men's [[Association football|football]]}}
+{{Medal|Competition|[[Football at the Summer Olympics|Olympic Games]]}}
+{{Medal|Bronze|[[1936 Summer Olympics|1936 Berlin]]|[[Football at the 1936 Summer Olympics|Team]]}}
+}}
+
+The '''Norway national football team''' ({{langx|no|Norges herrelandslag i fotball}}, or informally ''Landslaget'') represents [[Norway]] in men's international [[Association football|football]], and is controlled by the [[Norwegian Football Federation]], the governing body for [[football in Norway]]. Norway's home ground is [[Ullevaal Stadion]] in [[Oslo]], and their head coach is [[Ståle Solbakken]]. Norway has participated in the [[FIFA World Cup]] four times ([[1938 FIFA World Cup|1938]], [[1994 FIFA World Cup|1994]], [[1998 FIFA World Cup|1998]] and [[2026 FIFA World Cup|2026]]), and once in the [[UEFA European Championship]] ([[UEFA Euro 2000|2000]]).
+
+Norway is one of only three national teams with a winning record against [[Brazil national football team|Brazil]], and the only team to never have lost against them, with two wins and two draws in four matches, including a [[1998 FIFA World Cup Group A|1998 World Cup group stage match]].<ref>{{cite web|url=https://www.11v11.com/teams/norway/tab/opposingTeams/opposition/Brazil/|title=Norway national football team: record v Brazil|website=11v11.com|publisher=11v11|access-date=11 December 2018|archive-date=14 December 2018|archive-url=https://web.archive.org/web/20181214071008/https://www.11v11.com/teams/norway/tab/opposingTeams/opposition/Brazil/|url-status=live}}</ref>
+
+After Euro 2000, Norway missed the next twelve major tournaments, until they qualified for the [[2026 FIFA World Cup]].<ref>{{Cite web |date=2023-11-19 |title=Erling Haaland to miss out on Euro 2024! How Norway have messed up qualifying for another major tournament |url=https://www.goal.com/en-gh/lists/erling-haaland-miss-euro-2024-norway-messed-qualifying/blt01be77dfd103af43 |access-date=2024-02-05 |website=www.goal.com |language=en-GH}}</ref><ref>{{Cite web |date=2023-12-02 |title=Why Erling Haaland isn't at the Euros: How Man City star, Martin Odegaard missed out with Norway |url=https://www.sportingnews.com/us/soccer/news/erling-haaland-euros-man-city-martin-odegaard-norway/a4251d495a6588308a015cb5 |access-date=2024-02-05 |website=www.sportingnews.com |language=en-us}}</ref><ref>{{Cite web |date=2023-02-13 |title=Can Haaland and Odegaard take Norway back to international prominence? |url=https://www.france24.com/en/live-news/20230213-can-haaland-and-odegaard-take-norway-back-to-international-prominence |access-date=2024-02-05 |website=France 24 |language=en}}</ref>

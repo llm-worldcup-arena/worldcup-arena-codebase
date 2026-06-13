@@ -1,0 +1,24 @@
+{
+ "team": "RSA",
+ "coach": {
+  "name_zh": "雨果·布罗斯",
+  "name_en": "Hugo Broos",
+  "nationality": "Belgium",
+  "career_since": "1988",
+  "person_id": "per_hugo_broos"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 比利时籍主教练雨果·布罗斯自1988年起执教，现任南非国家队主帅，正率队征战2026年世界杯。\n- 世界杯首战0-2负于墨西哥，南非单场领两张直红（西索勒破坏单刀、兹瓦内暴力行为），创世界杯揭幕战红牌纪录（共3张）。\n- 西索勒与兹瓦内自动停赛错过6月18日对捷克的生死战，布罗斯面临严重用人危机，兹瓦内还可能遭追加处罚。\n- 根据国际足联纪律准则，南非可能为4张牌支付最高97.5万兰特罚款（红牌2万美元/张，黄牌1万美元/张）。\n- 尽管惨败且纪律崩盘，布罗斯仍公开赞扬球队斗志，但承认出线形势已极为严峻。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.8,
+  "issues": []
+ },
+ "brief_fetched": "2026-06-13_1138",
+ "brief_info_chars": 6000
+}

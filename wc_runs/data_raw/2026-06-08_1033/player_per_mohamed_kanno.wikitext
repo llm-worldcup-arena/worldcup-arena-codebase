@@ -1,0 +1,244 @@
+{{short description|Saudi Arabian footballer (born 1994)}}
+{{Use dmy dates|date=November 2022}}
+{{BLP sources|date=July 2017}}
+{{Infobox football biography
+| name = Mohamed Kanno
+| image = Group photographs of Al Hilal, Al Hilal SFC vs Chelsea F.C., 9 February 2022 (cropped).jpg
+| image_size = 
+| caption = Kanno with [[Al Hilal SFC|Al Hilal]] at the [[2021 FIFA Club World Cup]]
+| full_name = Mohamed Ibrahim Abdullah Kanno<ref name="SW"/>
+| birth_date = {{birth date and age|df=yes|1994|9|22}}<ref name="FCWC 2019">{{cite web |url=https://tournament.fifadata.com/documents/FCWC/2019/pdf/FCWC_2019_SQUADLISTS.PDF |title=FIFA Club World Cup Qatar 2019: List of Players: Al Hilal SFC |publisher=FIFA |page=1 |date=5 December 2019 |archive-url=https://web.archive.org/web/20191205105526/https://tournament.fifadata.com/documents/FCWC/2019/pdf/FCWC_2019_SQUADLISTS.PDF |archive-date=5 December 2019 |url-status=dead}}</ref>
+| birth_place = [[Khobar]], Saudi Arabia
+| height = 1.92
+m<ref name="FIFA 2022">{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=FIFA World Cup Qatar 2022: List of players: Saudi Arabia |publisher=[[FIFA]] |page=24 |date=15 November 2022 |access-date=15 November 2022 |archive-date=30 November 2022 |archive-url=https://web.archive.org/web/20221130184801/https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |url-status=live }}</ref>
+| currentclub = [[Al Hilal SFC|Al Hilal]]
+| clubnumber = 28
+| position = [[Midfielder]]
+| years1 = 2013–2017
+| clubs1 = [[Ettifaq FC|Al-Ettifaq]]
+| caps1 = 67
+| goals1 = 14
+| years2 = 2017–
+| clubs2 = [[Al Hilal SFC|Al Hilal]]
+| caps2 = 212
+| goals2 = 22
+| nationalyears1 = 2016–2017
+| nationalteam1 = [[Saudi Arabia national under-23 football team|Saudi Arabia U23]]
+| nationalcaps1 = 5
+| nationalgoals1 = 1
+| nationalyears3 = 2017–
+| nationalteam3 = [[Saudi Arabia national football team|Saudi Arabia]]
+| nationalcaps3 = 76
+| nationalgoals3 = 8
+| pcupdate = 21 May 2026 (UTC)
+| ntupdate = 07:56, 6 June 2026 (UTC)
+}}
+'''Mohamed Ibrahim Abdullah Kanno''' ({{langx|ar|محمد إبراهيم عبد الله كنو}}; born 22 September 1994) is a Saudi Arabian professional [[Association football|footballer]] who plays as a [[midfielder]] for [[Saudi Pro League]] club [[Al Hilal SFC|Al Hilal]] and the [[Saudi Arabia national football team|Saudi Arabia national team]].
+
+==Club career==
+===Ettifaq===
+Kanno was playing at [[Al-Ettifaq Club|Ettifaq]] in 2013–2017, who were relegated in 2014. In 2016, Kanno helped his team get back into the league. He left in 2017 to join [[Al Hilal SFC|Al-Hilal]].
+
+===Al-Hilal===
+On 3 July 2017, Kanno moved to [[Al-Hilal FC|Al-Hilal]] on a five-year contract.<ref>{{Cite web|url=http://m.kooora.com/?n=601228|title=كووورة: الموقع العربي الرياضي الأول|date=9 July 2019|access-date=4 July 2017|archive-date=12 June 2018|archive-url=https://web.archive.org/web/20180612143003/http://m.kooora.com/?n=601228|url-status=live}}</ref>
+
+==International career==
+In May 2018, he was named in Saudi Arabia's preliminary [[Saudi Arabia national football team|squad]] for the [[2018 FIFA World Cup]] in Russia.<ref>{{Cite web|url=https://www.bbc.co.uk/sport/football/440833652018|title=World Cup 2018: All the confirmed squads for this summer's finals in Russia}}{{dead link|date=September 2025|bot=medic}}{{cbignore|bot=medic}}</ref>
+
+At the [[2022 FIFA World Cup]], he started all three group stage matches for Saudi Arabia.<ref>{{Cite web|url=https://www.besoccer.com/match/seleccion-argentina/seleccion-arabia-saudi/2022445096/lineups|title=BeSoccer: Argentina vs Saudi Arabia lineups|access-date=6 January 2023|archive-date=6 January 2023|archive-url=https://web.archive.org/web/20230106225626/https://www.besoccer.com/match/seleccion-argentina/seleccion-arabia-saudi/2022445096/lineups|url-status=live}}</ref><ref>{{Cite web|url=https://www.besoccer.com/match/seleccion-polonia/seleccion-arabia-saudi/2022445098/lineups|title=BeSoccer: Poland vs Saudi Arabia lineups|access-date=6 January 2023|archive-date=6 January 2023|archive-url=https://web.archive.org/web/20230106225636/https://www.besoccer.com/match/seleccion-polonia/seleccion-arabia-saudi/2022445098/lineups|url-status=live}}</ref><ref>{{Cite web|url=https://www.besoccer.com/match/seleccion-arabia-saudi/seleccion-mexico/2022445100|title=BeSoccer: Saudi Arabia vs Mexico lineups|access-date=6 January 2023|archive-date=6 January 2023|archive-url=https://web.archive.org/web/20230106225626/https://www.besoccer.com/match/seleccion-arabia-saudi/seleccion-mexico/2022445100|url-status=live}}</ref> Despite defeating eventual champion [[Argentina national football team|Argentina]] in their first match, Saudi Arabia finished fourth in their group and did not advance to the knockout stage.
+
+==Career statistics==
+{{Update section|date=February 2026}}
+
+===Club===
+{{updated|27 May 2026}}<ref name="SW">{{Soccerway |id=316240 |accessdate=15 March 2018}}</ref>
+
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|[[King's Cup (Saudi Arabia)|King's Cup]]
+!colspan="2"|[[Saudi Crown Prince Cup|Crown Prince Cup]]{{efn|Discontinued in September 2017}}
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="5"|[[Ettifaq FC|Al-Ettifaq]]
+|[[2013–14 Saudi Pro League|2013–14]]
+|[[Saudi Pro League]]
+|16||3||5||2||2||1||colspan="2"|—||colspan="2"|—||23||6
+|-
+|[[2014–15 Saudi First Division|2014–15]]
+|rowspan="2"|[[Saudi First Division]]
+|6||2||0||0||2||1||colspan="2"|—||colspan="2"|—||8||3
+|-
+|[[2015–16 Saudi Pro League|2015–16]]
+||26||6||0||0||2||0||colspan="2"|—||colspan="2"|—||28||6
+|-
+|[[2016–17 Ettifaq FC season|2016–17]]
+|Saudi Pro League
+|19||3||2||1||1||0||colspan="2"|—||colspan="2"|—||22||4
+|-
+!colspan="2"|Total
+!67!!14!!7!!3!!7!!2!!0!!0!!0!!0!!81!!19
+|-
+| rowspan="10" |[[Al Hilal SFC|Al-Hilal]]
+|[[2017–18 Saudi Pro League|2017–18]]
+| rowspan="9" |Saudi Pro League
+|15||0||2||0||colspan="2"|—||9||0||colspan="2"|—||26||0
+|-
+|[[2018–19 Al-Hilal FC season|2018–19]]
+|29||5||5||0||colspan="2"|—||5||0||10{{efn|Eight appearances in [[Arab Club Champions Cup]], one appearance in [[Saudi Super Cup]], one appearance in [[Saudi-Egyptian Super Cup]]}}||0||49||5
+|-
+|[[2019–20 Al-Hilal FC season|2019–20]]
+||20||1||4||0||colspan="2"|—||12||0||2{{efn|Appearances in [[FIFA Club World Cup]]}}||0||38||1
+|-
+|[[2020–21 Al Hilal SFC season|2020–21]]
+|22||3||1||0||colspan="2"|—||6||0||1{{efn|Appearance in Saudi Super Cup}}||0||30||3
+|-
+|[[2021–22 Al Hilal SFC season|2021–22]]
+|16||1||1||0||colspan="2"|—||9||1||4{{efn|Three appearances and one goal in FIFA Club World Cup, one appearance in Saudi Super Cup}}||1||30||3
+|-
+|[[2022–23 Al Hilal SFC season|2022–23]]
+|19||1||4||1||colspan="2"|—||5||0||3{{efn|One appearance in Saudi Super Cup, two appearances and one goal in FIFA Club World Cup}}||1||31||3
+|-
+|[[2023–24 Al Hilal SFC season|2023–24]]
+|30||4||5||0||colspan="2"|—||11||0||8{{efn|Six appearances and one goal in Arab Club Champions Cup, one appearance in Saudi Super Cup}}||1||54||5
+|-
+|[[2024–25 Al Hilal SFC season|2024–25]]
+|29||2||2||0||colspan="2"|—||10||1||6{{efn|One appearance in Saudi Super Cup, five appearances in FIFA Club World Cup}}||0||47||3
+|-
+|[[2025–26 Al Hilal SFC season|2025–26]]
+|32
+|5
+|5
+|0
+| colspan="2" |–—
+|7
+|0
+| colspan="2" |—
+|44
+|5
+|-
+! colspan="2" |Total
+!212!!22!!29!!1!!0!!0!!74!!2!!34!!3!!349!!28
+|-
+! colspan="3" |Career total
+!279!!36!!36!!4!!7!!2!!74!!2!!34!!3!!430!!47
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 6 June 2026}}<ref name="NFT"/>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+| rowspan="10" |[[Saudi Arabia national football team|Saudi Arabia]]
+|2017||2||0
+|-
+|2018||7||1
+|-
+|2019||6||0
+|-
+|2020||2||0
+|-
+|2021||8||0
+|-
+|2022||16||0
+|-
+|2023||6||1
+|-
+|2024||15||3
+|-
+|2025||10||3
+|-
+|2026||4
+|0
+|-
+!colspan="2"|Total||76||8
+|}
+
+:''Scores and results list Saudi Arabia's goal tally first.''<ref name="NFT">{{cite web|url=https://www.national-football-teams.com/player/69856/Mohamed_Kanno.html|title=Kanno, Mohamed|website=National Football Teams|access-date=15 May 2018}}</ref>
+
+{| class="wikitable"
+|+ List of international goals scored by Mohamed Kanno
+! No. !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| 1. || 15 May 2018 || [[Estadio de La Cartuja|La Cartuja]], [[Seville]], Spain || {{fb|GRE}} || align=center | '''2'''–0 || align=center | 2–0 || rowspan=2| [[Friendly (association football)|Friendly]]
+|-
+| 2. || 13 October 2023 || [[Estádio Municipal de Portimão]], [[Portimão]], Portugal || {{fb|NGA}} || align=center | '''2'''–2 || align=center | 2–2 
+|-
+| 3. || 21 January 2024 || [[Ahmad bin Ali Stadium]], [[Al Rayyan (city)|Al Rayyan]], Qatar || {{fb|KGZ}} || align=center | '''1'''–0 || align=center | 2–0 || [[2023 AFC Asian Cup Group F|2023 AFC Asian Cup]]
+|-
+| 4. || 25 December 2024 || rowspan=2|[[Sulaibikhat Stadium]], [[Sulaibikhat]], Kuwait || {{fb|YEM}} ||align=center rowspan=2 |'''1'''–2 || align=center | 3–2 || rowspan=2|[[26th Arabian Gulf Cup]]
+|-
+| 5. || 31 December 2024 || {{fb|OMA}} || align=center | 1–2
+|-
+| 6. || rowspan=2| 5 December 2025 || rowspan=2|[[Al Bayt Stadium]], [[Al Khor (city)|Al Khor]], Qatar || rowspan=2| {{fb|COM}} || align=center|'''1'''–0 || rowspan=2 align=center|3–1 || rowspan=2| [[2025 FIFA Arab Cup Group B|2025 FIFA Arab Cup]]
+|-
+| 7. || align=center |'''2'''–0
+|-
+| 8. || 11 December 2025 || [[Lusail Stadium]], [[Lusail]], Qatar || {{fb|PLE}} || align=center | '''2'''–1 || align=center | 2–1 {{aet}} || [[2025 FIFA Arab Cup knockout stage|2025 FIFA Arab Cup]]
+|}
+
+==Honours==
+'''Al-Ettifaq'''
+*[[Saudi First Division]]: [[2015–16 Saudi First Division|2015–16]]
+
+'''Al-Hilal'''
+*[[Saudi Professional League|Pro League]]: [[2017–18 Saudi Professional League|2017–18]], [[2019–20 Saudi Professional League|2019–20]], [[2020–21 Saudi Professional League|2020–21]], [[2021–22 Saudi Professional League|2021–22]], [[2023–24 Saudi Pro League|2023–24]]
+*[[Kings Cup (Saudi Arabia)|King Cup]]: [[2019–20 King Cup|2019–20]], [[2022–23 King Cup|2022–23]], [[2023–24 King Cup|2023–24]], [[2025–26 King's Cup (Saudi Arabia)|2025-26]]
+*[[Saudi Super Cup]]: [[2018 Saudi Super Cup|2018]], [[2021 Saudi Super Cup|2021]], [[2023 Saudi Super Cup|2023]],<ref>{{cite news |date=11 April 2024 |title=Al Hilal thrash Al Ittihad to win Saudi Super Cup |url=https://www.espn.com/soccer/story/_/id/39924782/al-hilal-thrash-al-ittihad-win-saudi-super-cup |access-date=11 April 2024 |publisher=ESPN |archive-date=26 April 2024 |archive-url=https://web.archive.org/web/20240426083344/https://www.espn.com/soccer/story/_/id/39924782/al-hilal-thrash-al-ittihad-win-saudi-super-cup |url-status=live }}</ref> [[2024 Saudi Super Cup|2024]]<ref>{{cite news |date=17 August 2024 |title=Cristiano Ronaldo, Al Nassr routed by Al Hilal in Saudi Super Cup final |url=https://www.espn.com/soccer/story/_/id/40895601/cristiano-ronaldo-al-nassr-al-hilal-saudi-super-cup-final |access-date=17 August 2024 |publisher=ESPN |archive-date=23 August 2024 |archive-url=https://web.archive.org/web/20240823065345/https://www.espn.com/soccer/story/_/id/40895601/cristiano-ronaldo-al-nassr-al-hilal-saudi-super-cup-final |url-status=live }}</ref>
+*[[AFC Champions League Elite]]: [[2019 AFC Champions League|2019]],<ref>{{cite news|url=https://www.the-afc.com/competitions/afc-champions-league/latest/news/final-2nd-leg-al-dawsari-gomis-strikes-seal-al-hilal-title|title=Final – 2nd Leg: Al Dawsari, Gomis strikes seal Al Hilal title|publisher=AFC|date=24 November 2019|accessdate=24 November 2019|archive-date=13 January 2020|archive-url=https://web.archive.org/web/20200113073417/https://www.the-afc.com/competitions/afc-champions-league/latest/news/final-2nd-leg-al-dawsari-gomis-strikes-seal-al-hilal-title|url-status=live}}</ref> [[2021 AFC Champions League|2021]]
+
+'''Individual'''
+* [[Saudi Pro League#SPL Awards|Saudi Pro League Saudi Player of the Season]]: [[2018–19 Saudi Pro League#Annual awards|2018–19]]<ref>{{cite web |title=لاعب فريق #الهلال محمد كنو يحصل على جائزة #أفضل_لاعب_سعودي |url=https://twitter.com/SPL/status/1129853456871772160}}</ref>
+* [[IFFHS]] Asian Men's Team of the Year: 2025<ref>{{cite web |url=https://iffhs.com/posts/4885 |title=IFFHS TEAMS OF THE YEAR 2025 |publisher=IFFHS |date=2026-01-26 |access-date=2026-01-26}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{soccerway|mohammed-kanoo/316240}}
+
+{{Al-Hilal FC squad}}
+{{Navboxes
+|title=Saudi Arabia squads
+|bg=#006C35
+|fg=#FFFFFF
+|bordercolor=#005429
+|list1=
+{{Saudi Arabia squad 2018 FIFA World Cup}}
+{{Saudi Arabia squad 2022 FIFA World Cup}}
+{{Saudi Arabia squad 2023 AFC Asian Cup}}
+{{Saudi Arabia squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Kanno, Mohamed}}
+[[Category:1994 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Khobar]]
+[[Category:Saudi Arabian men's footballers]]
+[[Category:21st-century Saudi Arabian sportsmen]]
+[[Category:Al-Ettifaq Club players]]
+[[Category:Al Hilal SFC players]]
+[[Category:Men's association football midfielders]]
+[[Category:Saudi First Division League players]]
+[[Category:Saudi Pro League players]]
+[[Category:2018 FIFA World Cup players]]
+[[Category:Saudi Arabia men's youth international footballers]]
+[[Category:Saudi Arabia men's international footballers]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:2023 AFC Asian Cup players]]
+[[Category:AFC Champions League Elite–winning players]]
+[[Category:Long stubs with short prose]]
+[[Category:Saudi Arabian people of African descent]]
+[[Category:2026 FIFA World Cup players]]
+
+
+{{SaudiArabia-footy-midfielder-stub}}

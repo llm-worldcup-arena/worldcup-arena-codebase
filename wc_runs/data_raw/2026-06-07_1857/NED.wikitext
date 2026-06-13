@@ -1,0 +1,37 @@
+===Current squad===
+The following 26 players were included in the squad for the [[2026 FIFA World Cup]], and for the [[Exhibition game#International football|friendly matches]] against [[Algeria national football team|Algeria]] and [[Uzbekistan national football team|Uzbekistan]] on 3 and 8 June 2026; respectively.
+<br>''Caps and goals are correct as of 3 June 2026, after the match against [[Algeria national football team|Algeria]].''<ref>{{cite web|url=https://www.onsoranje.nl/nieuws/nederlands-elftal-mannen/82598/definitieve-selectie-oranje-m-voor-fifa-world-cup-2026|title=Definitieve selectie Oranje (m) voor FIFA World Cup 2026|website=onsoranje.nl|access-date=27 May 2026|archive-date=27 May 2026|archive-url=https://web.archive.org/web/20260527152448/https://www.onsoranje.nl/nieuws/nederlands-elftal-mannen/82598/definitieve-selectie-oranje-m-voor-fifa-world-cup-2026|url-status=live|language=nl}}</ref>
+<!--DO NOT RE-SORT BY SQUAD NUMBER, that is meaningless and ever changing-->
+<!--ORGANISED BY POSITION, THEN MOST CAPS-->
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Bart Verbruggen]]|sortname=Verbruggen, Bart|age={{birth date and age|2002|8|18|df=y}}|caps=28|goals=0|club=[[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]|clubnat=ENG}}
+{{nat fs g player|no=13|pos=GK|name=[[Robin Roefs]]|sortname=Roefs, Robin|age={{birth date and age|2003|1|17|df=y}}|caps=1|goals=0|club=[[Sunderland A.F.C.|Sunderland]]|clubnat=ENG}}
+{{nat fs g player|no=23|pos=GK|name=[[Mark Flekken]]|sortname=Flekken, Mark|age={{birth date and age|1993|6|13|df=y}}|caps=11|goals=0|club=[[Bayer 04 Leverkusen|Bayer Leverkusen]]|clubnat=GER}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Jurriën Timber]]|sortname=Timber, Jurrien|age={{birth date and age|2001|6|17|df=y}}|caps=24|goals=0|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs g player|no=4|pos=DF|name=[[Virgil van Dijk]]|sortname=van Dijk, Virgil|other=[[Captain (association football)|captain]]|age={{birth date and age|1991|7|8|df=y}}|caps=91|goals=12|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs g player|no=5|pos=DF|name=[[Nathan Aké]]|sortname=Aké, Nathan|age={{birth date and age|1995|2|18|df=y}}|caps=59|goals=5|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs g player|no=6|pos=DF|name=[[Jan Paul van Hecke]]|sortname=van Hecke, Jan Paul|age={{birth date and age|2000|6|8|df=y}}|caps=11|goals=0|club=[[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]|clubnat=ENG}}
+{{nat fs g player|no=12|pos=DF|name=[[Mats Wieffer]]|sortname=Wieffer, Mats|age={{birth date and age|1999|11|16|df=y}}|caps=15|goals=1|club=[[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]|clubnat=ENG}}
+{{nat fs g player|no=15|pos=DF|name=[[Micky van de Ven]]|sortname=Van de Ven, Micky|age={{birth date and age|2001|4|19|df=y}}|caps=20|goals=1|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG}}
+{{nat fs g player|no=22|pos=DF|name=[[Denzel Dumfries]]|sortname=Dumfries, Denzel|age={{birth date and age|1996|4|18|df=y}}|caps=71|goals=11|club=[[Inter Milan|Internazionale]]|clubnat=ITA}}
+{{nat fs g player|no=25|pos=DF|name=[[Jorrel Hato]]|sortname=Hato, Jorrel|age={{birth date and age|2006|3|7|df=y}}|caps=8|goals=0|club=[[Chelsea FC|Chelsea]]|clubnat=ENG}}
+{{nat fs break}}
+{{nat fs g player|no=3|pos=MF|name=[[Marten de Roon]]|sortname=de Roon, Marten|age={{birth date and age|1991|3|29|df=y}}|caps=43|goals=1|club=[[Atalanta BC|Atalanta]]|clubnat=ITA}}
+{{nat fs g player|no=7|pos=MF|name=[[Justin Kluivert]]|sortname=Kluivert, Justin|age={{birth date and age|1999|5|5|df=y}}|caps=12|goals=0|club=[[AFC Bournemouth|Bournemouth]]|clubnat=ENG}}
+{{nat fs g player|no=8|pos=MF|name=[[Ryan Gravenberch]]|sortname=Gravenberch, Ryan|age={{birth date and age|2002|5|16|df=y}}|caps=26|goals=1|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs g player|no=14|pos=MF|name=[[Tijjani Reijnders]]|sortname=Reijnders, Tijjani|age={{birth date and age|1998|7|29|df=y}}|caps=31|goals=7|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs g player|no=16|pos=MF|name=[[Guus Til]]|sortname=Til, Guus|age={{birth date and age|1997|12|22|df=y}}|caps=6|goals=1|club=[[PSV Eindhoven]]|clubnat=NED}}
+{{nat fs g player|no=20|pos=MF|name=[[Teun Koopmeiners]]|sortname=Koopmeiners, Teun|age={{birth date and age|1998|2|28|df=y}}|caps=28|goals=3|club=[[Juventus FC|Juventus]]|clubnat=ITA}}
+{{nat fs g player|no=21|pos=MF|name=[[Frenkie de Jong]]|sortname=de Jong, Frenkie|age={{birth date and age|1997|5|12|df=y}}|caps=65|goals=2|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs g player|no=26|pos=MF|name=[[Quinten Timber]]|sortname=Timber, Quinten|age={{birth date and age|2001|6|17|df=y}}|caps=11|goals=1|club=[[Olympique de Marseille|Marseille]]|clubnat=FRA}}
+{{nat fs break}}
+{{nat fs g player|no=9|pos=FW|name=[[Wout Weghorst]]|sortname=Weghorst, Wout|age={{birth date and age|1992|8|7|df=y}}|caps=52|goals=14|club=[[AFC Ajax|Ajax]]|clubnat=NED}}
+{{nat fs g player|no=10|pos=FW|name=[[Memphis Depay]]|sortname=Depay, Memphis|age={{birth date and age|1994|2|13|df=y}}|caps=109|goals=[[List of international goals scored by Memphis Depay|55]]|club=[[Sport Club Corinthians Paulista|Corinthians]]|clubnat=BRA}}
+{{nat fs g player|no=11|pos=FW|name=[[Cody Gakpo]]|sortname=Gakpo, Cody|age={{birth date and age|1999|5|7|df=y}}|caps=49|goals=19|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs g player|no=17|pos=FW|name=[[Noa Lang]]|sortname=Lang, Noa|age={{birth date and age|1999|6|17|df=y}}|caps=15|goals=3|club=[[Galatasaray S.K. (football)|Galatasaray]]|clubnat=TUR}}
+{{nat fs g player|no=18|pos=FW|name=[[Donyell Malen]]|sortname=Malen, Donyell|age={{birth date and age|1999|1|19|df=y}}|caps=52|goals=13|club=[[AS Roma|Roma]]|clubnat=ITA}}
+{{nat fs g player|no=19|pos=FW|name=[[Brian Brobbey]]|sortname=Brobbey, Brian|age={{birth date and age|2002|2|1|df=y}}|caps=11|goals=1|club=[[Sunderland AFC|Sunderland]]|clubnat=ENG}}
+{{nat fs g player|no=24|pos=FW|name=[[Crysencio Summerville]]|sortname=Summerville, Crysencio|age={{birth date and age|2001|10|30|df=y}}|caps=1|goals=0|club=[[West Ham United F.C.|West Ham United]]|clubnat=ENG}}
+{{nat fs end}}

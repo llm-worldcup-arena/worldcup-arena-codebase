@@ -1,0 +1,83 @@
+{{Short description|Men's association football team}}
+{{Distinguish|Congo national football team}}
+{{About|the men's team|the women's team|DR Congo women's national football team}}
+{{Use dmy dates|date=March 2019}}
+{{Infobox national football team
+| Name               = DR Congo
+| Badge              = Congolese Association Football Federation logo.png
+| Badge_size         = 
+| FIFA Trigramme     = COD
+| Nickname           = {{lang|fr|Léopards}} (Leopards)<br>{{lang|fr|Guerriers de l'Équateur}} (Warriors of the [[Equator]])<br>{{lang|fr|La Céleste}} (The Skyblue)
+| Association        = [[Congolese Association Football Federation|Fédération Congolaise de Football-Association]] (FECOFA)
+| Sub-confederation  = [[Central African Football Federations' Union|UNIFFAC]] (Central Africa)
+| Confederation      = [[Confederation of African Football|CAF]] (Africa)
+| Coach              = [[Sébastien Desabre]]
+| Captain            = [[Chancel Mbemba]]
+| Most caps          = Chancel Mbemba (108)
+| Top scorer         = [[Dieumerci Mbokani]] (22)
+| Home Stadium       = [[Stade des Martyrs]]
+| FIFA Rank          = {{FIFA World Rankings|COD}}
+| FIFA max           = 28
+| FIFA max date      = July–August 2017
+| FIFA min           = 133
+| FIFA min date      = October 2011
+| Elo Rank           = {{World Football Elo Ratings|Democratic Republic of Congo}}
+| Elo max            = 20
+| Elo max date       = March 1974
+| Elo min            = 111
+| Elo min date       = September 2010
+| First game         = {{nowrap|{{flagdeco|Belgian Congo}} '''Belgian Congo''' 3–2 {{fb-rt|Northern Rhodesia}} <br> ([[Belgian Congo]]; Date Unknown 1948)}}
+| Largest win        = {{fb|COD|1966|name=Congo-Kinshasa}} 10–1 {{fb-rt|ZAM|1964}} <br> ([[Kinshasa]], Congo DR; 22 November 1969)
+| Largest loss       = {{fb|YUG}} 9–0 {{fb-rt|Zaire}} <br> ([[Gelsenkirchen]], [[West Germany]]; 18 June 1974)
+| World cup apps     = 2
+| World cup first    = 1974
+| World cup best     = Group stage ([[1974 FIFA World Cup|1974]])
+| Regional name      = [[Africa Cup of Nations]]
+| Regional cup apps  = 21
+| Regional cup first = [[1965 African Cup of Nations|1965]]
+| Regional cup best  = '''Champions''' ([[1968 African Cup of Nations|1968]], [[1974 African Cup of Nations|1974]])
+| 2ndRegional name      = [[African Nations Championship]]
+| 2ndRegional cup apps  = 5
+| 2ndRegional cup first = [[2009 African Nations Championship|2009]]
+| 2ndRegional cup best  = '''Champions''', ([[2009 African Nations Championship|2009]], [[2016 African Nations Championship|2016]])
+| pattern_la1       = _cod2526h
+| pattern_b1        = _cod2526h
+| pattern_ra1       = _cod2526h
+| pattern_sh1       = _cod2526h
+| pattern_so1       = 
+| leftarm1          = 00b7ef
+| body1             = 00b7ef
+| rightarm1         = 00b7ef
+| shorts1           = 00b7ef
+| socks1            = 00b7ef
+| pattern_la2       = _cod24a
+| pattern_b2        = _cod24a
+| pattern_ra2       = _cod24a
+| pattern_sh2       = _cod24a
+| pattern_so2       = 
+| leftarm2          = FFFFFF
+| body2             = FFFFFF
+| rightarm2         = FFFFFF
+| shorts2           = FFFFFF
+| socks2            = FFFFFF
+| pattern_la3       = _cod2526t
+| pattern_b3        = _cod2526t
+| pattern_ra3       = _cod2526t
+| pattern_sh3       = _cod2526t
+| pattern_so3       = 
+| leftarm3          = FF0000
+| body3             = FF0000
+| rightarm3         = FF0000
+| shorts3           = FF0000
+| socks3            = FF0000
+| 4thRegional cup apps  = 1
+| 4thRegional name      = [[COSAFA Cup]]
+| 4thRegional cup first = [[2016 COSAFA Cup|2016]]
+| 4thRegional cup best  = Fourth place ([[2016 COSAFA Cup|2016]])
+}}
+
+The '''DR Congo national football team''' ([[French language|French]]: ''Équipe nationale de football de la République démocratique du Congo''), recognised by [[FIFA]] as '''Congo DR''' and by [[Confederation of African Football|CAF]] as '''DR Congo''', represents the [[Democratic Republic of the Congo]] in men's international [[association football|football]] and it is controlled by the [[Congolese Association Football Federation]]. They are nicknamed ''Les Léopards'', meaning '''The Leopards'''.<ref>{{cite news |url=http://news.bbc.co.uk/sport3/worldcup2002/hi/history/newsid_1993000/1993333.stm |title=BBC SPORT &#124; WORLD CUP &#124; History &#124; 1974: Zaire's show of shame |work=BBC News |date=22 May 2002 |access-date=15 November 2013 |archive-date=20 September 2017 |archive-url=https://web.archive.org/web/20170920160541/http://news.bbc.co.uk/sport3/worldcup2002/hi/history/newsid_1993000/1993333.stm |url-status=live }}</ref> The team is a member of [[FIFA]] and the [[Confederation of African Football]] (CAF).  
+
+DR Congo have been ranked as high as 28th in the [[FIFA Rankings]]; as Zaire, they were the first [[Sub-Saharan Africa|Sub-Saharan African]] team to qualify for the [[FIFA World Cup]], and twice won the [[Africa Cup of Nations]]. They are also one of the most successful teams in the [[African Nations Championship]] with two titles, second only to [[Morocco national football team|Morocco]] with three. They are currently ranked 46th in the [[FIFA Men's World Ranking|FIFA Rankings]].<ref>{{cite web |title=FIFA |url=https://fifa.com/ |url-status=live |archive-url=https://web.archive.org/web/20210908231837/https://www.fifa.com/ |archive-date=8 September 2021 |access-date=18 January 2024 |website=FIFA.com}}</ref>
+
+DR Congo have previously competed variously as '''Belgian Congo''', '''Congo-Kinshasa''' and '''Zaïre'''.  Their appearance at the [[1974 FIFA World Cup]] captained by Jean Claude Sambey

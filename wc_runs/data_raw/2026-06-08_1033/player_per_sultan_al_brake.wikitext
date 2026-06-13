@@ -1,0 +1,111 @@
+{{short description|Qatari footballer (born 1996)}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+| name = Sultan Al-Brake
+| image = Sultan Al Brake in 2018.jpg
+| caption = Al-Brake in 2018 
+| fullname = Sultan Hussain Al-Brake
+| birth_date = {{birth date and age|1996|4|7|df=yes}}
+| birth_place = [[Doha]], Qatar
+| height = {{height|m=1.75|precision=}}
+| currentclub = [[Al-Duhail SC|Al-Duhail]]
+| clubnumber = 18
+| position = [[Left-back]] 
+| youthyears1 = 
+| youthclubs1 = [[Aspire Academy]]
+| years1 = 2015–2018
+| clubs1 = [[Al-Wakra Sports Club|Al-Wakra]]
+| caps1 = 14
+| goals1 = 0
+| years2 = 2015–2016
+| clubs2 = → [[Cultural y Deportiva Leonesa|Leonesa]] (loan)
+| caps2 = 16
+| goals2 = 0
+| years3 = 2017–2018
+| clubs3 = → [[Al-Duhail SC|Al-Duhail]] (loan)
+| caps3 = 4
+| goals3 = 0
+| years4 = 2018–
+| clubs4 = [[Al-Duhail SC|Al-Duhail]]
+| caps4 = 118
+| goals4 = 4 
+| nationalyears1 = 2014–2015
+| nationalteam1 = [[Qatar national under-20 football team|Qatar U20]]
+| nationalcaps1 = 5
+| nationalgoals1 = 0 
+| nationalyears2 = 2015–2018
+| nationalteam2 = [[Qatar national under-23 football team|Qatar U23]]
+| nationalcaps2 = 13 
+| nationalgoals2 = 0
+| nationalyears3 = 2018–
+| nationalteam3 = [[Qatar national football team|Qatar]]
+| nationalcaps3 = 8
+| nationalgoals3 = 0
+| club-update = 17 January 2026
+| nationalteam-update = 16 November 2024
+| medaltemplates = {{MedalCountry|{{fb|QAT}}}}
+{{MedalSport|Men's [[Association football|Football]]}}
+{{MedalCompetition|[[AFC Asian Cup]]}}
+{{Medal|Winner|[[2023 AFC Asian Cup|2023 Qatar]]|}}
+}}
+
+'''Sultan Hussain Al-Brake''' ({{Langx|ar|سلطان البريكي}}; born 7 April 1996) is a Qatari professional [[Association football|footballer]] who plays as a [[left-back]] for Qatari club [[Al-Duhail SC|Al-Duhail]] and the [[Qatar national football team|Qatar national team]].<ref>{{Cite web|url=http://www.mundial11.com/register|title=مونديال 11 - Mundial 11 - إحصائيات - نتائج - أرقام - أخبار - هيد تو هيد|website=www.mundial11.com}}</ref>
+
+Al-Brake was part of the Qatar squad that won the [[2023 AFC Asian Cup]].<ref>{{cite web|title=Our final list for Asia 🏆|url=https://twitter.com/QFA_EN/status/1742493635214454878|publisher=Qatar Football Association|website=Twitter|date=3 January 2024|access-date=3 January 2024}}</ref>
+
+==Club career==
+Al-Brake began his professional career with [[Al-Wakrah SC|Al-Wakrah]] in 2015. He was loaned out to Spanish club [[Cultural y Deportiva Leonesa|Cultural Leonesa]] in November 2015 and to Al-Duhail in 2017.<ref>{{cite web|last1=León |first1=Diario de |url=http://www.diariodeleon.es/noticias/deportes/cataries-vuelven-contar_1025972.html|title=Los cataríes vuelven a contar|work=Diario de León |language=Spanish|date=24 November 2015|accessdate=29 August 2017}}</ref> In 2018 he joined Al-Duhail.<ref>{{cite web | url=https://www.worldfootball.net/person/pe401971/sultan-al-brake/ | title=Sultan Al Brake | date= | access-date=2023-08-14}}</ref>
+
+==International career==
+At the [[2023 AFC Asian Cup]], Al-Brake was a member of Qatar's squad which won the tournament on home soil. He made two appearances at the tournament, starting their third group match against [[China national football team|China]] and coming off the bench in extra time of Qatar's quarter-final against [[Uzbekistan national football team|Uzbekistan]], where he scored a penalty in the shootout.<ref>{{Cite web |title=Qatar 1-0 China (Jan 22, 2024) Final Score |url=https://www.espn.com/soccer/match/_/gameId/668943/china-qatar |access-date=2025-12-03 |website=ESPN |language=en}}</ref><ref>{{Cite web |title=Qatar 3-2 Uzbekistan (15 Nov, 2024) Final Score - ESPN (AU) |url=https://www.espn.com.au/football/match/_/gameId/710473/uzbekistan-qatar |access-date=2025-12-03 |website=ESPN |language=en}}</ref>
+
+At the [[2025 FIFA Arab Cup]], Al-Brake started in Qatar's opening match against [[Palestine national football team|Palestine]], where he scored an own-goal in the 95th minute to lose 1–0.<ref>{{Cite web |date=2025-12-01 |title=Arab Cup opens in Doha as Palestine claim win against hosts |url=http://www.euronews.com/2025/12/01/arab-cup-kicks-off-in-doha-after-dazzling-opening-ceremony-as-palestine-beat-hosts-qatar |access-date=2025-12-03 |website=euronews |language=en}}</ref>
+
+==Honours==
+;Al-Duhail
+*[[Qatar Stars League]]: [[2017-18 Qatar Stars League|2017-18]], [[2019-20 Qatar Stars League|2019-20]], [[2022-23 Qatar Stars League|2022-23]]
+*[[Emir of Qatar Cup]]: [[2018 Emir of Qatar Cup|2018]], [[2019 Emir of Qatar Cup|2019]], [[2022 Emir of Qatar Cup|2022]]
+*[[Qatar Cup]]: [[2018 Qatar Cup|2018]], [[2023 Qatar Cup|2023]]
+*[[Qatari Stars Cup]]: [[2022-23 Qatari Stars Cup|2022-23]]
+
+;Qatar
+*[[AFC Asian Cup]]: [[2023 AFC Asian Cup|2023]]
+
+==External links==
+* {{soccerway|sultan-al-brake/343757}}
+
+==References==
+{{reflist}}
+
+{{Al-Duhail SC squad}}
+{{Navboxes
+|title=Qatar squads
+|bg=#660033
+|fg=white
+|bordercolor=white
+|list1=
+{{Qatar squad 2023 AFC Asian Cup}}
+{{Qatar squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Brake, Sultan}}
+[[Category:Qatari men's footballers]]
+[[Category:21st-century Qatari sportsmen]]
+[[Category:Qatari expatriate men's footballers]]
+[[Category:1996 births]]
+[[Category:Living people]]
+[[Category:Al-Wakrah SC players]]
+[[Category:Al Duhail SC players]]
+[[Category:Cultural y Deportiva Leonesa players]]
+[[Category:Aspire Academy (Qatar) players]]
+[[Category:Qatar Stars League players]]
+[[Category:Men's association football defenders]]
+[[Category:Expatriate men's footballers in Spain]]
+[[Category:Qatari expatriate sportspeople in Spain]]
+[[Category:Qatar men's youth international footballers]]
+[[Category:2023 AFC Asian Cup players]]
+[[Category:AFC Asian Cup–winning players]]
+[[Category:2026 FIFA World Cup players]]
+
+
+{{Qatar-footy-defender-stub}}

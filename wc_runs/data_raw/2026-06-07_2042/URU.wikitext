@@ -1,0 +1,118 @@
+{{Short description|Men's association football team}}
+{{About|the men's team|the women's team|Uruguay women's national football team}}
+{{Use dmy dates|date=April 2026}}
+{{Infobox national football team
+| Name                     = Uruguay
+| Nickname                 = ''La Celeste'' (The Sky Blue) <br> ''Los Charrúas'' (The [[Charrúa]]s)
+| Badge                    = Uruguay national football team seal.svg
+| Badge_size               = 115px
+| Association              = [[Uruguayan Football Association|Asociación Uruguaya de Fútbol]] (AUF)
+| Confederation            = [[CONMEBOL]] (South America)
+| Coach                    = [[Marcelo Bielsa]]
+| Captain                  = [[José María Giménez]]
+| Most caps                = [[Diego Godín]] (161)
+| Top scorer               = [[Luis Suárez]] ([[List of international goals scored by Luis Suárez|69]])
+| Home Stadium             = [[Estadio Centenario]]
+| FIFA Trigramme           = URU
+| FIFA Rank                = {{FIFA World Rankings|URU}}
+| FIFA max                 = 2
+| FIFA max date            = June 2012
+| FIFA min                 = 76
+| FIFA min date            = December 1998
+| Elo Rank                 = {{World Football Elo Ratings|Uruguay}}
+| Elo max                  = 1
+| Elo max date             = Various dates 1920–29
+| Elo min                  = 48
+| Elo min date             = 5 September 1979
+| pattern_la1              = _uru26h
+| pattern_b1               = _uru26h
+| pattern_ra1              = _uru26h
+| pattern_sh1              = _uru26a
+| pattern_so1              = _uru26hl
+| leftarm1                 = 80BBFF
+| body1                    = 80BBFF
+| rightarm1                = 80BBFF
+| shorts1                  = 0A0216
+| socks1                   = 0A0216
+| pattern_la2              = _uru26a
+| pattern_b2               = _uru26a
+| pattern_ra2              = _uru26a
+| pattern_sh2              = _uru26a
+| pattern_so2              = _uru26al
+| leftarm2                 = 0A0216
+| body2                    = 0A0216
+| rightarm2                = 0A0216
+| shorts2                  = 0A0216
+| socks2                   = 0A0216
+| First game               = {{fb|URU}} [[1902 Uruguay v Argentina football match|0–6]] {{fb-rt|ARG}}<br>([[Montevideo]], Uruguay; 20 July 1902){{refn|Although the first match recorded by both Argentina and Uruguay was played on 16 May 1901, this is not considered an official game due to the match not being organized by Uruguay's Football Association but by [[Albion F.C.|Albion FC]] on its home field in [[Paso del Molino]].<ref name="deportesenuruguay.eluruguayo.com">{{Cite web |url=http://www.deportesenuruguay.eluruguayo.com/Futbol-Uruguayo01.htm |title="Historia del Fútbol Uruguayo" at Deportes en Uruguay |access-date=1 June 2018 |archive-date=4 October 2021 |archive-url=https://web.archive.org/web/20211004173847/http://www.deportesenuruguay.eluruguayo.com/Futbol-Uruguayo01.htm |url-status=live }}</ref><ref name=elgrafico>[https://www.elgrafico.com.ar/articulo/0/4330/historias-curiosidades-y-estadisticas-de-la-seleccion-tras-sus-primeros-900-partidos Historias, curiosidades y estadísticas de la Selección, tras sus "primeros" 900 partidos] {{Webarchive|url=https://web.archive.org/web/20210416091601/https://www.elgrafico.com.ar/articulo/0/4330/historias-curiosidades-y-estadisticas-de-la-seleccion-tras-sus-primeros-900-partidos |date=16 April 2021 }}, ''El Gráfico'', 4 July 2012</ref><ref name=arghist>[https://www.rsssf.org/tablesa/arg-intres.html Argentina national team archive] {{Webarchive|url=https://web.archive.org/web/20120820042538/http://rsssf.com/tablesa/arg-intres.html |date=20 August 2012 }} on the RSSSF</ref><ref name=uruhist>[https://www.rsssf.org/tablesu/uru-intres.html Uruguay - international results] {{Webarchive|url=https://web.archive.org/web/20040430153811/http://www.rsssf.com/tablesu/uru-intres.html |date=30 April 2004 }} on the RSSSF</ref>|group=note|name=firstoffic}}
+| Largest win              = {{fb|URU}} 9–0 {{fb-rt|BOL}}<br>([[Lima]], Peru; 6 November 1927)
+| Largest loss             = {{fb|URU}} 0–6 {{fb-rt|ARG}}<br>([[Montevideo]], Uruguay; 20 July 1902)
+| World cup apps           = 15
+| World cup first          = 1930
+| World cup best           = '''Champions''' ([[1930 FIFA World Cup|1930]], [[1950 FIFA World Cup|1950]])
+| Regional name            = [[1980 Mundialito|World Champions’ Gold Cup]]
+| Regional cup apps        = 1
+| Regional cup first       = [[1980 Mundialito|1980]]
+| Regional cup best        = '''Champions''' ([[1980 Mundialito|1980]])
+| 2ndRegional name            = [[Copa América|CONMEBOL Copa América]]
+| 2ndRegional cup apps        = 46
+| 2ndRegional cup first       = [[1916 South American Championship|1916]]
+| 2ndRegional cup best        = '''Champions''' ([[1916 South American Championship|1916]], [[1917 South American Championship|1917]], [[1920 South American Championship|1920]], [[1923 South American Championship|1923]], [[1924 South American Championship|1924]], [[1926 South American Championship|1926]], [[1935 South American Championship|1935]], [[1942 South American Championship|1942]], [[1956 South American Championship|1956]], [[1959 South American Championship (Ecuador)|1959]], [[1967 South American Championship|1967]], [[1983 Copa América|1983]], [[1987 Copa América|1987]], [[1995 Copa América|1995]], [[2011 Copa América|2011]])
+| Confederations cup apps  = 2
+| Confederations cup first = [[1997 FIFA Confederations Cup|1997]]
+| Confederations cup best  = Fourth place ([[1997 FIFA Confederations Cup|1997]], [[2013 FIFA Confederations Cup|2013]])
+| 3rdRegional name         = [[CONMEBOL–UEFA Cup of Champions]]
+| 3rdRegional cup apps     = 1
+| 3rdRegional cup first    = [[1985 Artemio Franchi Cup|1985]]
+| 3rdRegional cup best     = Runners-up ([[1985 Artemio Franchi Cup|1985]])
+| medaltemplates           =
+{{MedalCompetition|[[FIFA World Cup]]}}
+{{MedalGold|[[1930 FIFA World Cup|1930 Uruguay]]|[[1930 FIFA World Cup squads|Team]]}}
+{{MedalGold|[[1950 FIFA World Cup|1950 Brazil]]|[[1950 FIFA World Cup squads|Team]]}}
+{{MedalCompetition|[[Football at the Summer Olympics|Olympic Games]]{{refn| Only the 1924 and 1928 editions are senior world titles equivalent to a World Cup.<ref>{{Cite web |title=Official FIFA World Cup Origin document |url=http://www.fifa.com/mm/document/fifafacts/mcwc/ip-201_02e_fwc-origin_8816.pdf |website=fifa.com (archive) |archive-url=https://web.archive.org/web/20140405000621/http://www.fifa.com/mm/document/fifafacts/mcwc/ip-201_02e_fwc-origin_8816.pdf |archive-date=5 April 2014 |language=en}}</ref> After the World Cup was established, football at the Olympics returned to amateur players only <ref>{{Cite web |title=Football at the 1936 Berlin Summer Games |url=https://www.sports-reference.com/olympics/summer/1936/FTB/ |website=sports-reference.com (archive) |archive-url=https://web.archive.org/web/20200417041849/https://www.sports-reference.com/olympics/summer/1936/FTB/ |archive-date=17 April 2020 |language=en}}</ref><ref>{{Cite web |title=FIFA describes each Olympic Football tournament|url=https://www.fifa.com/tournaments/archive/mensolympic/athens2004/news/newsid=92851/index.html |website=fifa.com (archive) |archive-url= https://web.archive.org/web/20140715174431/http://www.fifa.com/tournaments/archive/mensolympic/athens2004/news/newsid=92851/index.html|archive-date=15 July 2014 |language=en}}</ref>, like it was prior to 1924. Since the 1992 edition, the tournament was restricted to squads with no more than 3 players over the age of 23, and these matches are not regarded as part of the senior national team's record, nor are senior national team caps awarded, it’s part of the [[Uruguay national under-23 football team|Uruguay U23]].|group=note}}}}
+{{MedalGold|[[Football at the 1924 Summer Olympics|1924 Paris]]|[[Football at the 1924 Summer Olympics|Team]]}}
+{{MedalGold|[[Football at the 1928 Summer Olympics|1928 Amsterdam]]|[[Football at the 1928 Summer Olympics|Team]]}}
+{{MedalCompetition|[[1980 Mundialito|World Champions' Gold Cup]]}}
+{{MedalGold|[[1980 World Champions' Gold Cup|1980 Uruguay]]|[[1980 World Champions' Gold Cup squads|Team]]}}
+{{MedalCompetition|[[Copa América|CONMEBOL Copa América]]}}
+{{MedalGold|[[1916 South American Championship|1916 Argentina]]|[[1916 South American Championship squads|Team]]}}
+{{MedalGold|[[1917 South American Championship|1917 Uruguay]]|[[1917 South American Championship squads|Team]]}}
+{{MedalGold|[[1920 South American Championship|1920 Chile]]|[[1920 South American Championship squads|Team]]}}
+{{MedalGold|[[1923 South American Championship|1923 Uruguay]]|[[1923 South American Championship squads|Team]]}}
+{{MedalGold|[[1924 South American Championship|1924 Uruguay]]|[[1924 South American Championship squads|Team]]}}
+{{MedalGold|[[1926 South American Championship|1926 Chile]]|[[1926 South American Championship squads|Team]]}}
+{{MedalGold|[[1935 South American Championship|1935 Peru]]|[[1935 South American Championship squads|Team]]}}
+{{MedalGold|[[1942 South American Championship|1942 Uruguay]]|[[1942 South American Championship squads|Team]]}}
+{{MedalGold|[[1956 South American Championship|1956 Uruguay]]|[[1956 South American Championship squads|Team]]}}
+{{MedalGold|[[1959 South American Championship (Ecuador)|1959 Ecuador]]|[[1959 South American Championship (Ecuador) squads#Uruguay|Team]]}}
+{{MedalGold|[[1967 South American Championship|1967 Uruguay]]|[[1967 South American Championship squads|Team]]}}
+{{MedalGold|[[1983 Copa América|1983 South America]]|[[1983 Copa América squads|Team]]}}
+{{MedalGold|[[1987 Copa América|1987 Argentina]]|[[1987 Copa América squads|Team]]}}
+{{MedalGold|[[1995 Copa América|1995 Uruguay]]|[[1995 Copa América squads|Team]]}}
+{{MedalGold|[[2011 Copa América|2011 Argentina]]|[[2011 Copa América squads|Team]]}}
+{{MedalSilver|[[1919 South American Championship|1919 Brazil]]|[[1919 South American Championship squads|Team]]}}
+{{MedalSilver|[[1927 South American Championship|1927 Peru]]|[[1927 South American Championship squads|Team]]}}
+{{MedalSilver|[[1939 South American Championship|1939 Peru]]|[[1939 South American Championship squads|Team]]}}
+{{MedalSilver|[[1941 South American Championship|1941 Chile]]|[[1941 South American Championship squads|Team]]}}
+{{MedalSilver|[[1989 Copa América|1989 Brazil]]|[[1989 Copa América squads|Team]]}}
+{{MedalSilver|[[1999 Copa América|1999 Paraguay]]|[[1999 Copa América squads|Team]]}}
+{{MedalBronze|[[1921 South American Championship|1921 Argentina]]|[[1921 South American Championship squads|Team]]}}
+{{MedalBronze|[[1922 South American Championship|1922 Brazil]]|[[1922 South American Championship squads|Team]]}}
+{{MedalBronze|[[1929 South American Championship|1929 Argentina]]|[[1929 South American Championship squads|Team]]}}
+{{MedalBronze|[[1937 South American Championship|1937 Argentina]]|[[1937 South American Championship squads|Team]]}}
+{{MedalBronze|[[1947 South American Championship|1947 Colombia]]|[[1947 South American Championship squads|Team]]}}
+{{MedalBronze|[[1953 South American Championship|1953 Peru]]|[[1953 South American Championship squads|Team]]}}
+{{MedalBronze|[[1957 South American Championship|1957 Peru]]|[[1957 South American Championship squads|Team]]}}
+{{MedalBronze|[[2004 Copa América|2004 Peru]]|[[2004 Copa América squads|Team]]}}
+{{MedalBronze|[[2024 Copa América|2024 United States]]|[[2024 Copa América squads#Uruguay|Team]]}}
+{{MedalCompetition|[[Finalissima|CONMEBOL–UEFA Cup of Champions]]}}
+{{MedalSilver|[[1985 Artemio Franchi Cup|1985 Paris]]|[[1985 Artemio Franchi Cup|Team]]}}
+| website = {{URL|https://www.auf.org.uy/mayores/|auf.org.uy/mayores}}
+}}
+
+The '''Uruguay national football team''' ({{langx|es|Selección de fútbol de Uruguay}}), nicknamed '''''La Celeste''''' ("The Sky Blue") and '''''Los Charrúas''''' ("The [[Charrúa]]s"), have represented [[Uruguay]] in international men's [[Association football|football]] since their first international match in 1902 and is administered by the [[Uruguayan Football Association|Asociación Uruguaya de Fútbol]] ({{langx|en|Uruguayan Football Association}}), the governing body of [[football in Uruguay]], which is a founding member of [[CONMEBOL]] since 1916 and a member of [[FIFA]] since 1923. It was also a member of [[Panamerican Championship#Panamerican Football Confederation|PFC]], which was the attempt at a unified confederation of the Americas from 1946 to 1961.
+Uruguay's home stadium is the [[Estadio Centenario]], and they have been coached by [[Marcelo Bielsa]] since 2023.
+
+Considered one of the most successful national teams in international competitions and by FIFA as "football's first global powerhouse,"<ref>{{Cite web |title=How Uruguay became football's first global powerhouse |url=https://www.fifa.com/en/tournaments/olympicgames/paris2024/articles/uruguay-1924-1928-1930-world-cup |archive-url=https://web.archive.org/web/20240709175515/https://www.fifa.com/en/tournaments/olympicgames/paris2024/articles/uruguay-1924-1928-1930-world-cup |archive-date=9 July 2024 |access-date=8 January 2025 |website=fifa.com |language=en |url-status=live }}</ref> Uruguay has won four world FIFA–organized championships, two [[football at the Summer Olympics|Olympic]] titles and two [[FIFA World Cup]]s.<ref>{{Cite web |title=Official FIFA World Cup Origin document |url=http://www.fifa.com/mm/document/fifafacts/mcwc/ip-201_02e_fwc-origin_8816.pdf |website=fifa.com (archive) |archive-url=https://web.archive.org/web/20140405000621/http://www.fifa.com/mm/document/fifafacts/mcwc/ip-201_02e_fwc-origin_8816.pdf |archive-date=5 April 2014 |language=en}}</ref><ref name=":0">{{Cite web |last=Mehrish |first=Akshat |date=12 February 2023 |title=The stars that adorn La Celeste: Why Uruguay display four flourishes on their crest |url=https://www.fifa.com/fifaplus/en/articles/the-stars-that-adorn-la-celeste-why-uruguay-display-four-flourishes-on-their |access-date= |website=FIFA.com}}</ref> Their first two senior world titles came at the Olympic tournaments of [[Football at the 1924 Summer Olympics|Paris 1924]] and [[Football at the 1928 Summer Olympics|Amsterdam 1928]],<ref name=espn24>[https://www.espn.com.ar/olimpicos/nota/_/id/13927952/polemica-olimpica-mundial-por-que-uruguay-tiene-cuatro-estrellas-camiseta Polémica olímpica y mundial: ¿por qué Uruguay tiene cuatro estrellas en su camiseta?] on ESPN.com.ar, 19 Jul 2024</ref> two events that were directly organized by FIFA as open tournaments that included professionals.<ref name=":1">{{Cite web |title=Uruguay's 4 Stars |url=https://www.uruguayfootballhistory.com/uruguay-s-4-stars |access-date=2024-04-23 |website=UruguayFootyHistory |language=en}}</ref> In the former, Uruguay beat [[Switzerland national football team|Switzerland]] 3–0 in the final, whereas in the latter, Uruguay defeated Argentina 2–1.<ref>[https://www.elgrafico.com.ar/articulo/las-fotos-de-el-grafico/11629/1928-plata-en-futbol Plata en el fútbol] on ''El Gráfico''</ref> They then secured a third consecutive title at the inaugural [[FIFA World Cup]] in [[1930 FIFA World Cup|Montevideo]], where they beat Argentina 4–2 in the decisive match.<ref>[https://www.elgrafico.com.ar/articulo/%C2%A1habla-memoria!/31808/la-primera-final-de-la-copa-del-mundo La primera final de la Copa del Mundo], ''El Gráfico'', 30 Jul 2022</ref> Uruguay's fourth title came in [[1950 FIFA World Cup|1950]] after beating hosts [[Brazil national football team|Brazil]] in the [[Uruguay v Brazil (1950 FIFA World Cup)|final match]] 2–1, a match that still holds the record for the highest official attendance for a football match ever (173,850 people at the gate). On account of these achievements, the Uruguayan national team displays [[Four stars above Uruguay's football crest|four five-pointed stars approved by FIFA on its football crest]]. Uruguay were unbeaten in world championship matches from the 1924 Olympics until their semi-final loss in the [[1954 FIFA World Cup|1954 World Cup]] marking a 30-year unbeaten streak and winning four consecutive world titles in tournaments they participated in, having chosen to opt out of the [[1934 FIFA World Cup|1934]] and [[1938 FIFA World Cup|1938 World Cups]]. In regional competitions, Uruguay has won the [[Copa América]] 15 times, having also won the inaugural edition in [[1916 South American Championship|1916]], second only to [[Argentina national football team|Argentina]] for the most titles in the tournament's history, with their most recent title in [[2011 Copa América|2011]]. As of 2025, based on international senior official titles, Uruguay have won the second most major trophies, behind Argentina.<ref>{{Cite web |last=Ritchie |first=Calum |date=2024-06-01 |title=The 10 most successful nations in football history ranked by major trophies won |url=https://www.givemesport.com/most-successful-nations-in-football-history-by-major-trophies-won/ |access-date=2025-04-03 |website=GiveMeSport |language=en}}</ref>
+
+Uruguay has consistently performed well in global football rankings throughout their history, achieving their highest [[FIFA Men's World Ranking|FIFA World Ranking]] of 2nd place in June 2012.<ref>{{Cite web |title=Uruguay national football team: FIFA ranking |url=https://www.11v11.com/teams/uruguay/option/ranking/ |access-date=2025-03-16 |website=11v11}}</ref> In the [[World Football Elo Ratings]], they have also reached the top spot on multiple occasions.<ref>{{Cite web |title=Elo ratings table |url=https://www.international-football.net/elo-ratings-table?year=2025&month=03&day=16 |access-date=2025-03-16 |website=International Football}}</ref> Uruguay has also developed many rivalries through the years, with the most notable ones being with neighboring countries [[Argentina national football team|Argentina]], known as the ''[[Argentina–Uruguay football rivalry|Clásico del Río de la Plata]]'' based on their [[Río de la Plata|geographical location]] and [[Argentina–Uruguay relations|cultural similarities]], and [[Brazil national football team|Brazil]], known as the [[Brazil–Uruguay football rivalry|''Clásico del Río Negro'']] in reference to the 1950 FIFA World Cup final known to football fans as the [[Uruguay v Brazil (1950 FIFA World Cup)|''Maracanazo'']].<ref>{{cite web |title=FIFA U-20 World Cup 2015 – News – Brazil & Uruguay, a rivalry with history – FIFA.com |url=https://www.fifa.com/u20worldcup/news/brazil-uruguay-a-rivalry-with-history-2640361 |url-status=dead |archive-url=https://web.archive.org/web/20200928123052/https://www.fifa.com/u20worldcup/news/brazil-uruguay-a-rivalry-with-history-2640361 |archive-date=28 September 2020 |access-date=6 June 2019 |website=FIFA}}</ref> Additionally, FIFA officially recognizes Uruguay as ''Champions of World Champions'', following their victory in the [[1980 World Champions' Gold Cup]] (also known as the 1980 Mundialito). This unique designation makes Uruguay the only national team in football history to be formally acknowledged by FIFA with that title.<ref>{{Cite web |title=FIFA President Joao Havelange on the 1980-81 World Champions Gold Cup {{!}} 4 Stars - Media Archive |url=https://www.uruguayfootballhistory.com/historic-media-archive?pgid=l79en39v-d2e3aa60-9fae-4e54-9c97-1fbcb41ea5bb |access-date=2025-09-10 |website=UruguayFootyHistory |language=en}}</ref>

@@ -1,0 +1,14 @@
+{
+ "team": "ESP",
+ "coach": {
+  "name_zh": "路易斯·德拉富恩特",
+  "name_en": "Luis de la Fuente",
+  "nationality": "Spain",
+  "career_since": "",
+  "person_id": "per_luis_de_la_fuente"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。"
+}

@@ -1,0 +1,468 @@
+[
+ {
+  "player_id": "433177",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/433177",
+  "name": "BukayoSaka",
+  "shirt_number": 7,
+  "club": "Joined:",
+  "club_id": "11",
+  "market_value": "€110.00m",
+  "market_value_numeric": 110000000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Outfitter:",
+  "nationality": "England",
+  "citizenships": [
+   "England",
+   "England",
+   "England",
+   "England",
+   "England",
+   "England",
+   "Nigeria"
+  ],
+  "market_value_history": [
+   {
+    "date": "Sep 23, 2019",
+    "value": "€7.00m",
+    "value_numeric": 7000000,
+    "club": "Arsenal FC",
+    "age": "18"
+   },
+   {
+    "date": "Dec 10, 2019",
+    "value": "€13.00m",
+    "value_numeric": 13000000,
+    "club": "Arsenal FC",
+    "age": "18"
+   },
+   {
+    "date": "Mar 9, 2020",
+    "value": "€22.00m",
+    "value_numeric": 22000000,
+    "club": "Arsenal FC",
+    "age": "18"
+   },
+   {
+    "date": "Apr 8, 2020",
+    "value": "€20.00m",
+    "value_numeric": 20000000,
+    "club": "Arsenal FC",
+    "age": "18"
+   },
+   {
+    "date": "Jul 30, 2020",
+    "value": "€35.00m",
+    "value_numeric": 35000000,
+    "club": "Arsenal FC",
+    "age": "18"
+   },
+   {
+    "date": "Oct 13, 2020",
+    "value": "€40.00m",
+    "value_numeric": 40000000,
+    "club": "Arsenal FC",
+    "age": "19"
+   },
+   {
+    "date": "Mar 18, 2021",
+    "value": "€60.00m",
+    "value_numeric": 60000000,
+    "club": "Arsenal FC",
+    "age": "19"
+   },
+   {
+    "date": "May 28, 2021",
+    "value": "€65.00m",
+    "value_numeric": 65000000,
+    "club": "Arsenal FC",
+    "age": "19"
+   },
+   {
+    "date": "Dec 23, 2021",
+    "value": "€65.00m",
+    "value_numeric": 65000000,
+    "club": "Arsenal FC",
+    "age": "20"
+   },
+   {
+    "date": "Jun 15, 2022",
+    "value": "€65.00m",
+    "value_numeric": 65000000,
+    "club": "Arsenal FC",
+    "age": "20"
+   },
+   {
+    "date": "Sep 15, 2022",
+    "value": "€70.00m",
+    "value_numeric": 70000000,
+    "club": "Arsenal FC",
+    "age": "21"
+   },
+   {
+    "date": "Nov 3, 2022",
+    "value": "€90.00m",
+    "value_numeric": 90000000,
+    "club": "Arsenal FC",
+    "age": "21"
+   },
+   {
+    "date": "Dec 23, 2022",
+    "value": "€100.00m",
+    "value_numeric": 100000000,
+    "club": "Arsenal FC",
+    "age": "21"
+   },
+   {
+    "date": "Mar 16, 2023",
+    "value": "€110.00m",
+    "value_numeric": 110000000,
+    "club": "Arsenal FC",
+    "age": "21"
+   },
+   {
+    "date": "Jun 20, 2023",
+    "value": "€120.00m",
+    "value_numeric": 120000000,
+    "club": "Arsenal FC",
+    "age": "21"
+   },
+   {
+    "date": "Dec 19, 2023",
+    "value": "€120.00m",
+    "value_numeric": 120000000,
+    "club": "Arsenal FC",
+    "age": "22"
+   },
+   {
+    "date": "Mar 14, 2024",
+    "value": "€130.00m",
+    "value_numeric": 130000000,
+    "club": "Arsenal FC",
+    "age": "22"
+   },
+   {
+    "date": "May 27, 2024",
+    "value": "€140.00m",
+    "value_numeric": 140000000,
+    "club": "Arsenal FC",
+    "age": "22"
+   },
+   {
+    "date": "Dec 16, 2024",
+    "value": "€150.00m",
+    "value_numeric": 150000000,
+    "club": "Arsenal FC",
+    "age": "23"
+   },
+   {
+    "date": "May 30, 2025",
+    "value": "€150.00m",
+    "value_numeric": 150000000,
+    "club": "Arsenal FC",
+    "age": "23"
+   },
+   {
+    "date": "Oct 17, 2025",
+    "value": "€140.00m",
+    "value_numeric": 140000000,
+    "club": "Arsenal FC",
+    "age": "24"
+   },
+   {
+    "date": "Dec 9, 2025",
+    "value": "€130.00m",
+    "value_numeric": 130000000,
+    "club": "Arsenal FC",
+    "age": "24"
+   },
+   {
+    "date": "Mar 9, 2026",
+    "value": "€120.00m",
+    "value_numeric": 120000000,
+    "club": "Arsenal FC",
+    "age": "24"
+   },
+   {
+    "date": "Jun 3, 2026",
+    "value": "€110.00m",
+    "value_numeric": 110000000,
+    "club": "Arsenal FC",
+    "age": "24"
+   }
+  ],
+  "peak_market_value": 150000000,
+  "transfers": [],
+  "_our_pid": "per_bukayo_saka"
+ },
+ {
+  "player_id": "413403",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/413403",
+  "name": "EzriKonsa",
+  "shirt_number": 4,
+  "club": "Joined:",
+  "club_id": "405",
+  "market_value": "€40.00m",
+  "market_value_numeric": 40000000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Social-Media:",
+  "nationality": "England",
+  "citizenships": [
+   "England",
+   "England",
+   "England",
+   "England",
+   "England",
+   "England",
+   "DR Congo"
+  ],
+  "market_value_history": [
+   {
+    "date": "Oct 11, 2016",
+    "value": "€100k",
+    "value_numeric": 100000,
+    "club": "Charlton Athletic",
+    "age": "18"
+   },
+   {
+    "date": "Apr 21, 2017",
+    "value": "€500k",
+    "value_numeric": 500000,
+    "club": "Charlton Athletic",
+    "age": "19"
+   },
+   {
+    "date": "Sep 24, 2018",
+    "value": "€3.00m",
+    "value_numeric": 3000000,
+    "club": "Brentford FC",
+    "age": "20"
+   },
+   {
+    "date": "Feb 27, 2019",
+    "value": "€3.50m",
+    "value_numeric": 3500000,
+    "club": "Brentford FC",
+    "age": "21"
+   },
+   {
+    "date": "Jun 28, 2019",
+    "value": "€3.50m",
+    "value_numeric": 3500000,
+    "club": "Brentford FC",
+    "age": "21"
+   },
+   {
+    "date": "Sep 12, 2019",
+    "value": "€8.00m",
+    "value_numeric": 8000000,
+    "club": "Aston Villa",
+    "age": "21"
+   },
+   {
+    "date": "Dec 10, 2019",
+    "value": "€8.00m",
+    "value_numeric": 8000000,
+    "club": "Aston Villa",
+    "age": "22"
+   },
+   {
+    "date": "Apr 8, 2020",
+    "value": "€6.50m",
+    "value_numeric": 6500000,
+    "club": "Aston Villa",
+    "age": "22"
+   },
+   {
+    "date": "Jul 30, 2020",
+    "value": "€9.00m",
+    "value_numeric": 9000000,
+    "club": "Aston Villa",
+    "age": "22"
+   },
+   {
+    "date": "Oct 13, 2020",
+    "value": "€12.00m",
+    "value_numeric": 12000000,
+    "club": "Aston Villa",
+    "age": "22"
+   },
+   {
+    "date": "Mar 18, 2021",
+    "value": "€18.00m",
+    "value_numeric": 18000000,
+    "club": "Aston Villa",
+    "age": "23"
+   },
+   {
+    "date": "Jun 8, 2021",
+    "value": "€25.00m",
+    "value_numeric": 25000000,
+    "club": "Aston Villa",
+    "age": "23"
+   },
+   {
+    "date": "Dec 23, 2021",
+    "value": "€25.00m",
+    "value_numeric": 25000000,
+    "club": "Aston Villa",
+    "age": "24"
+   },
+   {
+    "date": "Jun 15, 2022",
+    "value": "€22.00m",
+    "value_numeric": 22000000,
+    "club": "Aston Villa",
+    "age": "24"
+   },
+   {
+    "date": "Nov 3, 2022",
+    "value": "€22.00m",
+    "value_numeric": 22000000,
+    "club": "Aston Villa",
+    "age": "25"
+   },
+   {
+    "date": "Jun 20, 2023",
+    "value": "€25.00m",
+    "value_numeric": 25000000,
+    "club": "Aston Villa",
+    "age": "25"
+   },
+   {
+    "date": "Dec 19, 2023",
+    "value": "€35.00m",
+    "value_numeric": 35000000,
+    "club": "Aston Villa",
+    "age": "26"
+   },
+   {
+    "date": "May 27, 2024",
+    "value": "€35.00m",
+    "value_numeric": 35000000,
+    "club": "Aston Villa",
+    "age": "26"
+   },
+   {
+    "date": "Dec 16, 2024",
+    "value": "€35.00m",
+    "value_numeric": 35000000,
+    "club": "Aston Villa",
+    "age": "27"
+   },
+   {
+    "date": "May 30, 2025",
+    "value": "€35.00m",
+    "value_numeric": 35000000,
+    "club": "Aston Villa",
+    "age": "27"
+   },
+   {
+    "date": "Dec 9, 2025",
+    "value": "€35.00m",
+    "value_numeric": 35000000,
+    "club": "Aston Villa",
+    "age": "28"
+   },
+   {
+    "date": "Mar 9, 2026",
+    "value": "€40.00m",
+    "value_numeric": 40000000,
+    "club": "Aston Villa",
+    "age": "28"
+   },
+   {
+    "date": "Jun 3, 2026",
+    "value": "€40.00m",
+    "value_numeric": 40000000,
+    "club": "Aston Villa",
+    "age": "28"
+   }
+  ],
+  "peak_market_value": 40000000,
+  "transfers": [],
+  "_our_pid": "per_ezri_konsa"
+ },
+ {
+  "player_id": "1108466",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/1108466",
+  "name": "RioNgumoha",
+  "shirt_number": 73,
+  "club": "Joined:",
+  "club_id": "31",
+  "market_value": "€30.00m",
+  "market_value_numeric": 30000000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Current club:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Outfitter:",
+  "nationality": "England",
+  "citizenships": [
+   "England",
+   "England",
+   "England",
+   "England",
+   "England",
+   "England",
+   "Nigeria"
+  ],
+  "market_value_history": [
+   {
+    "date": "Aug 26, 2025",
+    "value": "€10.00m",
+    "value_numeric": 10000000,
+    "club": "Liverpool FC",
+    "age": "16"
+   },
+   {
+    "date": "Oct 17, 2025",
+    "value": "€15.00m",
+    "value_numeric": 15000000,
+    "club": "Liverpool FC",
+    "age": "17"
+   },
+   {
+    "date": "Dec 9, 2025",
+    "value": "€15.00m",
+    "value_numeric": 15000000,
+    "club": "Liverpool FC",
+    "age": "17"
+   },
+   {
+    "date": "Mar 9, 2026",
+    "value": "€20.00m",
+    "value_numeric": 20000000,
+    "club": "Liverpool FC",
+    "age": "17"
+   },
+   {
+    "date": "Jun 3, 2026",
+    "value": "€30.00m",
+    "value_numeric": 30000000,
+    "club": "Liverpool FC",
+    "age": "17"
+   }
+  ],
+  "peak_market_value": 30000000,
+  "transfers": [],
+  "_our_pid": "per_rio_ngumoha"
+ }
+]

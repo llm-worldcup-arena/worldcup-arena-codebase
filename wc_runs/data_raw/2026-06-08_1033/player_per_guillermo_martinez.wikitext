@@ -1,0 +1,142 @@
+{{short description|Mexican footballer (born 1995)}}
+{{family name hatnote|Martínez|Ayala|lang=Spanish}}
+{{Use dmy dates|date=May 2026}}
+{{Infobox football biography
+| name                = Guillermo Martínez
+| image               = Inter Miami CF 3-1 UNAM (6 August 2025) 30 (cropped).jpg
+| caption = Martínez with [[Pumas UNAM|UNAM]] in 2025
+| fullname            = Guillermo Martínez Ayala
+| birth_date          = {{birth date and age|df=yes|1995|3|15}}
+| birth_place         = [[Celaya]], Mexico
+| height              = 1.91 m
+| position            = [[Forward (association football)|Forward]]
+| currentclub         = [[Pumas UNAM|UNAM]]
+| clubnumber          = 9
+| youthyears1         = 2011–2016 {{0|0000}} | youthclubs1 = [[C.F. Pachuca|Pachuca]]
+| years1              = 2013–2019 | caps1 = 8  | goals1 = 0  | clubs1 = [[C.F. Pachuca|Pachuca]]
+| years2              = 2016      | caps2 = 15 | goals2 = 3  | clubs2 = → [[Lobos BUAP|BUAP]] (loan)
+| years3              = 2016      | caps3 = 17 | goals3 = 8    | clubs3 = → [[Coras de Nayarit F.C.|Coras]] (loan)
+| years4              = 2017      | caps4 = 3    | goals4 = 0  | clubs4 = → [[C.D. Guadalajara|Guadalajara]] (loan)
+| years5              = 2017–2019 | caps5 = 60   | goals5 = 29 | clubs5 = → [[Mineros de Zacatecas|Zacatecas]] (loan)
+| years6              = 2019–2020 | caps6 = 19   | goals6 = 5  | clubs6 = [[Cafetaleros de Chiapas|Cafetaleros]]
+| years7              = 2020      | caps7 =  16  | goals7 = 7  | clubs7 = [[Celaya F.C.|Celaya]]
+| years8              = 2021–2023
+| caps8 = 91 | goals8 = 23 | clubs8 = [[Club Puebla|Puebla]]
+| years9              = 2024–
+| caps9 = 84 | goals9 = 28 | clubs9 = [[Pumas UNAM|UNAM]]
+| nationalyears1 = 2015
+| nationalteam1 = [[Mexico national under-20 football team|Mexico U20]]
+| nationalcaps1 = 10
+| nationalgoals1 = 4
+| nationalyears2 = 2023–
+| nationalteam2 = [[Mexico national football team|Mexico]]
+| nationalcaps2 = 12
+| nationalgoals2 = 3
+| club-update = 17 March 2025
+| nationalteam-update = 4 June 2026
+}}
+
+'''Guillermo Martínez Ayala''' (born 15 March 1995), commonly known as "'''Memote'''",<ref>{{MedioTiempo|guillermo-martinez-ayala}}</ref> is a Mexican professional [[Association football|footballer]] who plays as a [[Forward (association football)|forward]] for [[Liga MX]] club [[Pumas UNAM|UNAM]] and the [[Mexico national football team|Mexico national team]].<ref>[http://chivaspasion.com/43608/zendejas-contreras-y-martinez-a-prestamo-zacatepec-mineros-mercado-junio-2017 Zendejas, Martínez y Contreras al Ascenso]‚ chivaspasion.com, 8 June 2017</ref>
+
+==International career==
+Martínez made his debut for the [[Mexico national football team|senior national team]] on 16 December 2023, in a friendly match against [[Colombia national football team|Colombia]] and scored a goal in a 2–3 defeat.<ref>{{cite web|publisher=ESPN|url=https://www.espn.com/soccer/match/_/gameId/688316/colombia-mexico|title=Mexico v Colombia game report|date=16 December 2023}}</ref>
+
+==Career statistics==
+===International===
+{{updated|match played 4 June 2026}}<ref name="NFT">{{NFT player|93222}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="3"|[[Mexico national football team|Mexico]]
+|2023||1||1
+|-
+|2024||7||1
+|-
+|2026||4||1
+|-
+!colspan="2"|Total!!12!!3
+|}
+
+====International goals====
+:''Scores and results list Mexico's goal tally first.''
+{|class="wikitable plainrowheaders sortable"
+|-
+!No.!!Date!!Venue!!Opponent!!Score!!Result!!Competition
+|-
+| 1. || 16 December 2023 || [[Los Angeles Memorial Coliseum]], [[Los Angeles]], United States || {{fb|COL}} || align=center | '''2'''–0 || align=center | 2–3||rowspan=3| [[Exhibition game#Association football|Friendly]]
+|-
+| 2. || 8 June 2024 || [[Kyle Field]], [[College Station, Texas|College Station]], United States || {{fb|BRA}} || align=center | '''2'''–2 || align=center | 2–3
+|-
+| 3. || 22 May 2026 || [[Estadio Cuauhtémoc]], [[Puebla]], Mexico || {{fb|GHA}} || align=center | '''2'''–0|| align=center | 2–0
+|}
+
+==Honours==
+'''Guadalajara'''
+*[[Liga MX]]: [[2016–17 Liga MX season#Torneo Clausura|Clausura 2017]]<ref>{{cite web|url=http://www.chivasdecorazon.com.mx/noticias/28710|title=Regresó el Gigante|publisher=chivasdecorazon.com.mx|date=28 May 2017|access-date=28 May 2017}}{{dead link|date=October 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+*[[Copa MX]]: [[Clausura 2017 Copa MX|Clausura 2017]]<ref>{{cite web|url=http://www.chivasdecorazon.com.mx/noticias/28506/Hace-historia-en-la-Copa-|title=Hace historia en la Copa|publisher=chivasdecorazon.com.mx|date=19 April 2017|access-date=19 April 2017}}</ref>
+
+'''Mexico U20'''
+*[[CONCACAF U-20 Championship]]: [[2015 CONCACAF U-20 Championship|2015]]
+'''Mexico'''
+
+* [[CONCACAF Nations League]]: [[2024–25 CONCACAF Nations League|2024–25]]<ref>{{Cite news |last= |first= |date=2025-03-24 |title=Mexico win first Nations League final thanks to Raúl Jiménez double |url=https://www.theguardian.com/football/2025/mar/24/mexico-concacaf-nations-league-panama-raul-jimenez#:~:text=Ra%C3%BAl%20Jim%C3%A9nez%20scored%20his%20second,tournament%20for%20the%20first%20time. |access-date=2025-03-24 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref>
+
+'''Individual'''
+*[[Ascenso MX]] Golden Boot: [[2017–18 Ascenso MX season|Clausura 2018]]
+*[[Liga de Expansión MX|Liga de Expansión MX Golden Boot]]: [[2020–21 Liga de Expansión MX season|Guardianes 2020]] (Shared)
+*[[Liga MX]] All-Star: [[2024 MLS All-Star Game|2024]]<ref>https://www.mlssoccer.com/news/liga-mx-roster-for-2024-mls-all-star-game</ref>
+*[[Liga MX]] Goalscorer of the Season: [[2023–24 Liga MX season|2023–24]]<ref>{{cite web | url=https://espndeportes.espn.com/futbol/mexico/nota/_/id/13853311/liga-mx-quienes-fueron-los-ganadores-del-balon-de-oro | title=Liga MX: ¿Quiénes fueron los ganadores del Balón de Oro? | date=July 2024 }}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Liga MX player|86533/guillermo-martinez-ayala|Guillermo Martínez Ayala}}
+* {{webarchive |url=https://web.archive.org/web/20160329075515/http://www.ascensomx.net/cancha/jugador/86533/guillermo-martinez-ayala |title=Guillermo Martínez Ayala at Ascenso MX |date=dmy}} {{in lang|es}}
+* {{ESPN FC|193566/guillermo-martinez|Guillermo Martínez}}
+* {{Soccerway|guillermo-martinez-ayala/285430|Guillermo Martínez}}
+
+{{Pumas UNAM squad}}
+{{Navboxes
+|title=Mexico squads
+|bg = #016549
+|fg = White
+|bordercolor =#CE1126
+|list1=
+{{Mexico squad 2024 Copa América}}
+{{Mexico squad 2026 FIFA World Cup}}
+}}
+{{Navboxes
+| title = Awards
+| bg = gold
+| fg = navy
+| list =
+{{Ascenso MX top scorers}}
+{{Liga de Expansión MX top scorers}}
+}}
+
+{{DEFAULTSORT:Martinez, Guillermo}}
+[[Category:1995 births]]
+[[Category:Living people]]
+[[Category:Mexican men's footballers]]
+[[Category:Men's association football forwards]]
+[[Category:C.F. Pachuca players]]
+[[Category:Lobos BUAP footballers]]
+[[Category:C.D. Guadalajara footballers]]
+[[Category:Mineros de Zacatecas (football) players]]
+[[Category:Cafetaleros de Chiapas footballers]]
+[[Category:Liga MX players]]
+[[Category:Ascenso MX players]]
+[[Category:Liga Premier de México players]]
+[[Category:Footballers from Celaya]]
+[[Category:Mexico men's under-20 international footballers]]
+[[Category:Mexico men's international footballers]]
+[[Category:2024 Copa América players]]
+[[Category:2026 FIFA World Cup players]]
+[[Category:21st-century Mexican sportsmen]]
+[[Category:Pumas UNAM footballers]]
+
+{{Mexico-footy-forward-1990s-stub}}

@@ -1,0 +1,16 @@
+{
+ "team": "AUT",
+ "source": "FOX Sports",
+ "url": "https://www.foxsports.com/stories/soccer/2026-fifa-world-cup-austria",
+ "title": "After 3 Years Away, A Surprise FIFA World Cup Comeback For Austrian Midfielder | FOX Sports",
+ "news_date": "2026-06-13",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-13",
+ "fetched": "2026-06-13_0748",
+ "method": "jsonld:articleBody",
+ "status": "ok",
+ "original_text": "The last time Dejan Ljubicic played for Austria was nearly three years ago. Now a teammate's injury has given him a surprise comeback at the World Cup. Austria coach Ralf Rangnick called up Ljubicic late Wednesday to replace key midfielder Christoph Baumgartner, who injured his right thigh while warming up for a pre-World Cup friendly against Tunisia last week and needed surgery. Ljubicic is set to join Austria at the team camp in Santa Barbara on Thursday, ahead of the team's first game on Tuesday against Jordan. Austria also plays Argentina and Algeria in Group J. He's more of a defensive midfield option than Baumgartner, who scored 17 goals in all competitions for Leipzig in Germany last season and has remained in camp to support the team. Ljubicic also plays in Germany on the Schalke team which secured promotion from the second division last month. Ljubicic has nine games for Austria but none at a major tournament. His last appearance was in a friendly against Moldova in September 2023 and he wasn't in the squad for any World Cup qualifiers. Reporting by The Associated Press.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

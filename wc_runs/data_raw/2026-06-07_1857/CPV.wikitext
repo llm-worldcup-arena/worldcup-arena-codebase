@@ -1,0 +1,35 @@
+===Current squad===
+The following 26 players were called up to the [[2026 FIFA World Cup]], and for the pre-tournament friendly match against [[Serbia national football team|Serbia]] on 31 May 2026.<ref>{{cite web |url=https://fcf.cv/convocados-para-o-mundial-2026/ |title=Convocados para o Mundial 2026 |trans-title=Squad for the 2026 World Cup |publisher=[[Cape Verdean Football Federation]] |date=May 18, 2026 |access-date=May 18, 2026 |language=pt}}</ref>
+<br>''Caps and goals correct as of 31 May 2026, after the match against [[Serbia national football team|Serbia]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Vozinha]]|other=[[Captain (association football)|vice-captain]]|age={{bda|1986|6|3|df=y}}|caps=86|goals=0|club=[[G.D. Chaves|Chaves]]|clubnat=POR}}
+{{nat fs g player|no=12|pos=GK|name=[[Márcio Rosa]]|age={{bda|1997|2|23|df=y}}|caps=10|goals=0|club=[[PFC Montana|Montana]]|clubnat=BUL}}
+{{nat fs g player|no=23|pos=GK|name=[[CJ dos Santos]]|age={{bda|2000|8|24|df=y}}|caps=1|goals=0|club=[[San Diego FC|San Diego]]|clubnat=USA}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Stopira]]|age={{bda|1988|5|20|df=y}}|caps=61|goals=4|club=[[S.C.U. Torreense|Torreense]]|clubnat=POR}}
+{{nat fs g player|no=3|pos=DF|name=[[Diney (footballer, born 1995)|Diney]]|age={{bda|1995|1|17|df=y}}|caps=30|goals=2|club=[[Al Bataeh Club|Al Bataeh]]|clubnat=UAE}}
+{{nat fs g player|no=4|pos=DF|name=[[Roberto Lopes (footballer, born 1992)|Pico]]|age={{bda|1992|6|17|df=y}}|caps=45|goals=0|club=[[Shamrock Rovers F.C.|Shamrock Rovers]]|clubnat=IRL}}
+{{nat fs g player|no=5|pos=DF|name=[[Logan Costa]]|age={{bda|2001|4|1|df=y}}|caps=27|goals=0|club=[[Villarreal CF|Villarreal]]|clubnat=ESP}}
+{{nat fs g player|no=8|pos=DF|name=[[João Paulo Fernandes (footballer)|João Paulo]]|age={{bda|1998|5|26|df=y}}|caps=41|goals=1|club=[[FCSB]]|clubnat=ROM}}
+{{nat fs g player|no=13|pos=DF|name=[[Sidny Lopes Cabral]]|age={{bda|2003|9|18|df=y}}|caps=9|goals=3|club=[[Trabzonspor]]|clubnat=TUR}}
+{{nat fs g player|no=22|pos=DF|name=[[Steven Moreira]]|age={{bda|1994|8|13|df=y}}|caps=19|goals=0|club=[[Columbus Crew]]|clubnat=USA}}
+{{nat fs g player|no=24|pos=DF|name=[[Wagner Pina]]|age={{bda|2002|11|3|df=y}}|caps=13|goals=0|club=[[Trabzonspor]]|clubnat=TUR}}
+{{nat fs g player|no=25|pos=DF|name=[[Kelvin Pires]]|age={{bda|2000|6|5|df=y}}|caps=5|goals=1|club=[[Seinäjoen Jalkapallokerho|SJK]]|clubnat=FIN}}
+{{nat fs break}}
+{{nat fs g player|no=6|pos=MF|name=[[Kevin Pina (footballer)|Kevin Pina]]|age={{bda|1997|1|27|df=y}}|caps=31|goals=3|club=[[FC Krasnodar|Krasnodar]]|clubnat=RUS}}
+{{nat fs g player|no=10|pos=MF|name=[[Jamiro Monteiro]]|age={{bda|1993|11|23|df=y}}|caps=54|goals=5|club=[[PEC Zwolle]]|clubnat=NED}}
+{{nat fs g player|no=14|pos=MF|name=[[Deroy Duarte]]|age={{bda|1999|7|4|df=y}}|caps=30|goals=0|club=[[PFC Ludogorets Razgrad|Ludogorets Razgrad]]|clubnat=BUL}}
+{{nat fs g player|no=15|pos=MF|name=[[Laros Duarte]]|age={{bda|1997|2|28|df=y}}|caps=13|goals=1|club=[[Puskás Akadémia FC|Puskás Akadémia]]|clubnat=HUN}}
+{{nat fs g player|no=16|pos=MF|name=[[Yannick Semedo]]|age={{bda|1995|12|29|df=y}}|caps=10|goals=1|club=[[S.C. Farense|Farense]]|clubnat=POR}}
+{{nat fs g player|no=18|pos=MF|name=[[Telmo Arcanjo]]|age={{bda|2001|6|21|df=y}}|caps=15|goals=1|club=[[Vitória S.C.|Vitória de Guimarães]]|clubnat=POR}}
+{{nat fs break}}
+{{nat fs g player|no=7|pos=FW|name=[[Jovane Cabral]]|age={{bda|1998|6|14|df=y}}|caps=26|goals=2|club=[[C.F. Estrela da Amadora|Estrela Amadora]]|clubnat=POR}}
+{{nat fs g player|no=9|pos=FW|name=[[Gilson Tavares|Benchimol]]|age={{bda|2001|12|29|df=y}}|caps=22|goals=6|club=[[FC Akron Tolyatti|Akron Tolyatti]]|clubnat=RUS}}
+{{nat fs g player|no=11|pos=FW|name=[[Garry Rodrigues]]|other=[[Captain (association football)|third captain]]|age={{bda|1990|11|27|df=y}}|caps=59|goals=9|club=[[Apollon Limassol FC|Apollon Limassol]]|clubnat=CYP}}
+{{nat fs g player|no=17|pos=FW|name=[[Willy Semedo]]|age={{bda|1994|4|27|df=y}}|caps=37|goals=2|club=[[AC Omonia|Omonia]]|clubnat=CYP}}
+{{nat fs g player|no=19|pos=FW|name=[[Dailon Livramento]]|age={{bda|2001|5|4|df=y}}|caps=21|goals=7|club=[[Casa Pia A.C.|Casa Pia]]|clubnat=POR}}
+{{nat fs g player|no=20|pos=FW|name=[[Ryan Mendes]]|other=[[Captain (association football)|captain]]|age={{bda|1990|1|8|df=y}}|caps=97|goals=22|club=[[Iğdır FK|Iğdır]]|clubnat=TUR}}
+{{nat fs g player|no=21|pos=FW|name=[[Nuno da Costa]]|age={{bda|1991|2|10|df=y}}|caps=8|goals=1|club=[[İstanbul Başakşehir F.K.|İstanbul Başakşehir]]|clubnat=TUR}}
+{{nat fs g player|no=26|pos=FW|name=[[Hélio Varela]]|age={{bda|2002|5|3|df=y}}|caps=20|goals=0|club=[[Maccabi Tel Aviv F.C.|Maccabi Tel Aviv]]|clubnat=ISR}}
+{{nat fs end}}

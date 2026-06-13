@@ -1,0 +1,41 @@
+=== Current squad ===
+The following 26 players were called up to the [[2026 FIFA World Cup]], and for the pre-tournament friendly matches against [[Honduras national football team|Honduras]] and [[Iceland national football team|Iceland]] on 6 and 9 June 2026, respectively.<ref>{{cite web |url=https://x.com/Argentina/status/2060120562366648376 |title=#SelecciónMayor Nuestros 26 guerreros que defenderán el título mundial. ¡Vamos Argentina! 🩵🤍🩵 |publisher=[[Argentine Football Association]] |via=[[X (Twitter)|X]] |date=May 28, 2026 |access-date=May 28, 2026}}</ref> [[Leonardo Balerdi]] withdrew due to a calf injury on 6 June.<ref>{{cite web |url=https://www.reuters.com/sports/soccer/argentinas-balerdi-out-world-cup-with-injury-2026-06-06/ |title=Argentina's Balerdi out of World Cup with calf injury |publisher=Reuters |date=6 June 2026 }}</ref> Players with squad numbers from 27 onwards have also been picked for the pre-tournament friendly matches and were originally named in the preliminary squad.
+<br>''Caps and goals are correct as of 6 June 2026, after the match against [[Honduras national football team|Honduras]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Juan Musso]]|age={{bda|df=y|1994|5|6}}|caps=4|goals=0|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=12|pos=GK|name=[[Gerónimo Rulli]]|age={{bda|df=y|1992|5|20}}|caps=7|goals=0|club=[[Olympique de Marseille|Marseille]]|clubnat=FRA}}
+{{nat fs g player|no=23|pos=GK|name=[[Emiliano Martínez]]|age={{bda|df=y|1992|9|2}}|caps=59|goals=0|club=[[Aston Villa F.C.|Aston Villa]]|clubnat=ENG}}
+{{nat fs g player|no=27|pos=GK|name=[[Santiago Beltrán]]|age={{bda|df=y|2004|10|4}}|caps=1|goals=0|club=[[Club Atlético River Plate|River Plate]]|clubnat=ARG}} <!--[[2026 FIFA World Cup]] <sup>PRE</sup>-->
+{{nat fs break}}
+{{nat fs g player|no=3|pos=DF|name=[[Nicolás Tagliafico]]|age={{bda|df=y|1992|8|31}}|caps=76|goals=1|club=[[Olympique Lyonnais|Lyon]]|clubnat=FRA}}
+{{nat fs g player|no=4|pos=DF|name=[[Gonzalo Montiel]]|age={{bda|df=y|1997|1|1}}|caps=38|goals=2|club=[[Club Atlético River Plate|River Plate]]|clubnat=ARG}}
+{{nat fs g player|no=6|pos=DF|name=[[Lisandro Martínez]]|age={{bda|df=y|1998|1|18}}|caps=27|goals=1|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs g player|no=13|pos=DF|name=[[Cristian Romero]]|age={{bda|df=y|1998|4|27}}|caps=50|goals=3|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG}}
+{{nat fs g player|no=19|pos=DF|name=[[Nicolás Otamendi]]|age={{bda|df=y|1988|2|12}}|caps=131|goals=8|club=[[S.L. Benfica|Benfica]]|clubnat=POR}}
+{{nat fs g player|no=25|pos=DF|name=[[Facundo Medina]]|age={{bda|df=y|1999|5|28}}|caps=8|goals=0|club=[[Olympique de Marseille|Marseille]]|clubnat=FRA}}
+{{nat fs g player|no=26|pos=DF|name=[[Nahuel Molina]]|age={{bda|df=y|1998|4|6}}|caps=58|goals=1|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=28|pos=DF|name=[[Agustín Giay]]|age={{bda|df=y|2004|1|16}}|caps=2|goals=0|club=[[SE Palmeiras|Palmeiras]]|clubnat=BRA}} <!--[[2026 FIFA World Cup]] <sup>PRE</sup>-->
+{{nat fs g player|no=29|pos=DF|name=[[Nicolás Capaldo]]|age={{bda|df=y|1998|9|14}}|caps=1|goals=0|club=[[Hamburger SV]]|clubnat=GER}} <!--[[2026 FIFA World Cup]] <sup>PRE</sup>-->
+{{nat fs g player|no=30|pos=DF|name=[[Ignacio Ovando]]|age={{bda|df=y|2007|6|29}}|caps=0|goals=0|club=[[Rosario Central]]|clubnat=ARG}}
+{{nat fs g player|no=31|pos=DF|name=[[Simón Escobar]]|age={{bda|df=y|2009|7|17}}|caps=0|goals=0|club=[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]|clubnat=ARG}}
+{{nat fs break}}
+{{nat fs g player|no=5|pos=MF|name=[[Leandro Paredes]]|age={{bda|df=y|1994|6|29}}|caps=77|goals=5|club=[[Boca Juniors]]|clubnat=ARG}}
+{{nat fs g player|no=7|pos=MF|name=[[Rodrigo De Paul]]|age={{bda|df=y|1994|5|24}}|caps=86|goals=2|club=[[Inter Miami CF|Inter Miami]]|clubnat=USA}}
+{{nat fs g player|no=8|pos=DF|name=[[Valentín Barco]]|age={{bda|df=y|2004|7|23}}|caps=3|goals=1|club=[[RC Strasbourg Alsace|Strasbourg]]|clubnat=FRA}}
+{{nat fs g player|no=11|pos=MF|name=[[Giovani Lo Celso]]|age={{bda|df=y|1996|4|9}}|caps=66|goals=4|club=[[Real Betis|Betis]]|clubnat=ESP}}
+{{nat fs g player|no=14|pos=MF|name=[[Exequiel Palacios]]|age={{bda|df=y|1998|10|5}}|caps=39|goals=0|club=[[Bayer 04 Leverkusen|Bayer Leverkusen]]|clubnat=GER}}
+{{nat fs g player|no=16|pos=MF|name=[[Thiago Almada]]|age={{bda|df=y|2001|4|26}}|caps=15|goals=4|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=18|pos=MF|name=[[Nico Paz]]|age={{bda|df=y|2004|9|8}}|caps=8|goals=1|club=[[Como 1907|Como]]|clubnat=ITA}}
+{{nat fs g player|no=20|pos=MF|name=[[Alexis Mac Allister]]|age={{bda|df=y|1998|12|24}}|caps=45|goals=6|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs g player|no=24|pos=MF|name=[[Enzo Fernández]]|age={{bda|df=y|2001|1|17}}|caps=41|goals=6|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs break}}
+{{nat fs g player|no=9|pos=FW|name=[[Julián Alvarez]]|age={{bda|df=y|2000|1|31}}|caps=51|goals=14|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=10|pos=FW|name=[[Lionel Messi]]|other=[[Captain (association football)|Captain]]|age={{bda|df=y|1987|6|24}}|caps=198|goals=[[List of international goals scored by Lionel Messi|116]]|club= [[Inter Miami CF|Inter Miami]]|clubnat=USA}}
+{{nat fs g player|no=15|pos=FW|name=[[Nicolás González (footballer, born 1998)|Nicolás González]]|age={{bda|df=y|1998|4|6}}|caps=50|goals=6|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=17|pos=FW|name=[[Giuliano Simeone]]|age={{bda|df=y|2002|12|18}}|caps=12|goals=2|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=21|pos=FW|name=[[José Manuel López (footballer)|José Manuel López]]|age={{bda|df=y|2000|12|6}}|caps=3|goals=0|club=[[SE Palmeiras|Palmeiras]]|clubnat=BRA}}
+{{nat fs g player|no=22|pos=FW|name=[[Lautaro Martínez]]|age={{bda|df=y|1997|8|22}}|caps=76|goals=37|club=[[Inter Milan|Internazionale]]|clubnat=ITA}}
+{{nat fs g player|no=32|pos=FW|name=[[Tomás Aranda]]|age={{bda|df=y|2007|5|9}}|caps=1|goals=0|club=[[Boca Juniors]]|clubnat=ARG}} <!--[[2026 FIFA World Cup]] <sup>PRE</sup>-->
+{{nat fs g player|no=34|pos=FW|name=[[Joaquín Freitas]]|age={{bda|df=y|2006|12|2}}|caps=1|goals=0|club=[[Club Atlético River Plate|River Plate]]|clubnat=ARG}}
+{{nat fs end}}

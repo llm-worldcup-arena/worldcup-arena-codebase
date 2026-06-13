@@ -1,0 +1,116 @@
+{{Short description|Panamanian footballer (born 1997)}}
+{{family name hatnote|Ramos|Díaz|lang=Spanish}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+| name        = Jiovany Ramos
+| full_name   = Jiovany Javier Ramos Díaz
+| birth_date  = {{birth date and age|1997|1|26|df=yes}}
+| birth_place = [[Panama City]], Panama
+| height      = 1.80 m
+| position    = [[Centre-back]]<ref>{{WorldFootball.net|jiovany-ramos}}</ref>
+| currentclub = [[Academia Puerto Cabello|Puerto Cabello]] (on loan from [[C.A. Independiente de La Chorrera|CAI]])
+| clubnumber  = 26
+| years1 = 2016–2020 | clubs1 = [[San Francisco F.C.|San Francisco]]                     | caps1 = 96 | goals1 = 2
+| years2 = 2020–     | clubs2 = [[C.A. Independiente de La Chorrera|CAI]]                | caps2 = 11 | goals2 = 1
+| years3 = 2021      | clubs3 = → [[Atlético Venezuela C.F.|Atlético Venezuela]] (loan)  | caps3 = 31 | goals3 = 1
+| years4 = 2022      | clubs4 = → [[Deportivo La Guaira F.C.|Deportivo La Guaira]] (loan)| caps4 = 30 | goals4 = 1
+| years5 = 2023      | clubs5 = → [[Deportivo Táchira F.C.|Deportivo Táchira]] (loan)    | caps5 = 32 | goals5 = 2
+| years6 = 2024      | clubs6 = → [[Club Alianza Lima|Alianza Lima]] (loan)              | caps6 = 18 | goals6 = 1
+| years7 = 2025–     | clubs7 = → [[Academia Puerto Cabello|Puerto Cabello]] (loan)      | caps7 = 11 | goals7 = 0
+| nationalyears1 = 2017
+| nationalteam1  = [[Panama national under-20 football team|Panama U20]]
+| nationalcaps1  = 4
+| nationalgoals1 = 0
+| nationalyears2 = 2020–
+| nationalteam2  = [[Panama national football team|Panama]]
+| nationalcaps2  = 23
+| nationalgoals2 = 2
+| club-update    = 21:28, 5 October 2025 (UTC)
+| nationalteam-update = 22:45, 6 June 2026 (UTC)
+}}
+
+'''Jiovany Javier Ramos Díaz''' (born 26 January 1997) is a Panamanian [[association football|footballer]] who plays as a [[centre-back]] for [[Venezuelan Primera División]] side [[Academia Puerto Cabello|Puerto Cabello]], on loan from [[C.A. Independiente de La Chorrera|CAI]], and the [[Panama national football team|Panama national team]].
+
+==International career==
+Ramos made his debut for the [[Panama national football team|Panama national team]] in a 0–0 friendly tie with [[Nicaragua national football team|Nicaragua]] on 26 February 2020.<ref>{{Cite web|url=https://int.soccerway.com/matches/2020/02/26/world/non-fifa-friendlies/nicaragua/panama/3211005/|title=Nicaragua vs. Panama – 26 February 2020|website=Soccerway}}</ref>
+
+==Career statistics==
+{{updated|match played 10 October 2025}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="6"|[[Panama national football team|Panama]]
+|2020||4||0
+|-
+|2021||1||0
+|-
+|2022||5||0
+|-
+|2023||3||0
+|-
+|2024||3||0
+|-
+|2025||1||0
+|-
+!colspan="2"|Total!!17!!0
+|}
+
+:''Scores and results list Templatonia's goal tally first, score column indicates score after each Ramos goal.''
+
+{| class="wikitable sortable"
+|+ List of international goals scored by Jiovany Ramos
+|-
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+|-
+| style="text-align:center"|1 || 31 March 2026|| [[Cape Town Stadium]], [[Cape Town]], South Africa || {{fb|RSA}} || style="text-align:center"|2–1 || style="text-align:center"| 2–1 || [[Friendly (association football)|Friendly]]
+|-
+| style="text-align:center"|2 || 6 June 2026|| [[Energizer Park]], [[St. Louis]], United States || {{fb|BIH}} || style="text-align:center"|1–1 || style="text-align:center"| 1–1 || [[Friendly (association football)|Friendly]]
+|}
+
+== Honours ==
+'''Panama'''
+* [[CONCACAF Nations League]] runner-up: [[2024–25 CONCACAF Nations League|2024–25]]<ref>{{Cite web |date=23 March 2025 |title=Mexico beat Panama with stoppage-time penalty for CONCACAF Nations League title |url=https://www.reuters.com/sports/soccer/mexico-beat-panama-with-stoppage-time-penalty-concacaf-nations-league-title-2025-03-24/#:~:text=March%2023%20(Reuters)%20%2D%20Raul,Inglewood%2C%20California%2C%20on%20Sunday. |access-date=26 March 2025 |website=[[Reuters]]}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Soccerway|jiovany-ramos/427117}}
+* {{NFT player|77054/Jiovany_Ramos}}
+
+{{Club Alianza Lima squad}}
+{{Panama squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Ramos, Jiovany}}
+[[Category:1997 births]]
+[[Category:Living people]]
+[[Category:21st-century Panamanian sportsmen]]
+[[Category:Panamanian men's footballers]]
+[[Category:Footballers from Panama City]]
+[[Category:Men's association football central defenders]]
+[[Category:Panama men's international footballers]]
+[[Category:Panama men's youth international footballers]]
+[[Category:Venezuelan Primera División players]]
+[[Category:Peruvian Primera División players]]
+[[Category:San Francisco F.C. players]]
+[[Category:C.A. Independiente de La Chorrera players]]
+[[Category:Atlético Venezuela C.F. players]]
+[[Category:Deportivo La Guaira F.C. players]]
+[[Category:Deportivo Táchira F.C. players]]
+[[Category:Club Alianza Lima footballers]]
+[[Category:Liga Panameña de Fútbol players]]
+[[Category:Panamanian expatriate men's footballers]]
+[[Category:Panamanian expatriate sportspeople in Venezuela]]
+[[Category:Expatriate men's footballers in Venezuela]]
+[[Category:Panamanian expatriate sportspeople in Peru]]
+[[Category:Expatriate men's footballers in Peru]]
+[[Category:2026 FIFA World Cup players]]

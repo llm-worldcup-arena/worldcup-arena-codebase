@@ -1,0 +1,91 @@
+[
+ {
+  "player_id": "849410",
+  "profile_url": "https://www.transfermarkt.com/valentin-barco/profil/spieler/849410",
+  "full_name": "Valentín Barco",
+  "display_name": "Valentín Barco",
+  "short_name": "V. Barco",
+  "nickname": "",
+  "date_of_birth": "2004-07-23",
+  "age": 21,
+  "place_of_birth": "25 de Mayo",
+  "country_of_birth": "Argentina",
+  "nationality": [
+   "Argentina"
+  ],
+  "gender": "male",
+  "position": "Central Midfield",
+  "position_category": "Midfielder",
+  "foot": "left",
+  "height_cm": 172,
+  "current_club": "RC Strasbourg Alsace",
+  "current_club_id": "667",
+  "current_competition": "Ligue 1",
+  "current_competition_code": "FR1",
+  "shirt_number": 32,
+  "is_captain": false,
+  "contract_until": "2029-06-30",
+  "last_contract_renewal": "",
+  "market_value_eur": 40000000,
+  "market_value_currency": "EUR",
+  "market_value_determined": "2026-06-01",
+  "previous_market_value_eur": 35000000,
+  "highest_market_value_eur": 40000000,
+  "highest_market_value_determined": "2026-06-01",
+  "market_value_history": [
+   "2020 | CA Boca Juniors II | EUR 50.00K",
+   "2020 | CA Boca Juniors II | EUR 1.20M",
+   "2021 | CA Boca Juniors II | EUR 1.50M",
+   "2022 | CA Boca Juniors | EUR 3.50M",
+   "2022 | CA Boca Juniors | EUR 10.00M",
+   "2022 | CA Boca Juniors | EUR 13.00M",
+   "2023 | Brighton & Hove Albion | EUR 13.00M",
+   "2024 | Sevilla FC | EUR 10.00M",
+   "2024 | Sevilla FC | EUR 6.00M",
+   "2024 | RC Strasbourg Alsace | EUR 8.00M",
+   "2024 | RC Strasbourg Alsace | EUR 12.00M",
+   "2025 | RC Strasbourg Alsace | EUR 15.00M",
+   "2025 | RC Strasbourg Alsace | EUR 25.00M",
+   "2025 | RC Strasbourg Alsace | EUR 35.00M",
+   "2025 | RC Strasbourg Alsace | EUR 40.00M"
+  ],
+  "agent": "",
+  "agency": "Gestifute",
+  "agency_id": "413",
+  "youth_clubs": [
+   "Club Atlético Sportivo (2009-2013)",
+   "CA Boca Juniors (2013-2021)"
+  ],
+  "career_history": [
+   "CA Boca Juniors Juveniles -> CA Boca Juniors U20 | 2020-01-01 | - | 19/20",
+   "CA Boca Juniors U20 -> CA Boca Juniors II | 2021-01-01 | - | 20/21",
+   "CA Boca Juniors II -> CA Boca Juniors | 2023-07-01 | - | 23/24",
+   "CA Boca Juniors -> Brighton & Hove Albion | 2024-01-20 | €9.15M | 23/24",
+   "Brighton & Hove Albion -> Sevilla FC | 2024-08-23 | undisclosed | 24/25",
+   "Sevilla FC -> Brighton & Hove Albion | 2025-02-01 | undisclosed | 24/25",
+   "Brighton & Hove Albion -> RC Strasbourg Alsace | 2025-02-02 | undisclosed | 24/25",
+   "RC Strasbourg Alsace -> Brighton & Hove Albion | 2025-06-30 | undisclosed | 24/25",
+   "Brighton & Hove Albion -> RC Strasbourg Alsace | 2025-07-02 | €10.00M | 25/26"
+  ],
+  "total_transfer_fees_eur": 19150000,
+  "international_team": "Argentina",
+  "international_caps": 3,
+  "international_goals": 1,
+  "national_team_history": [
+   "Argentina | 3 apps | 1 goals | CURRENT_NATIONAL_PLAYER",
+   "Argentina U20 | 9 apps | 1 goals | FORMER_NATIONAL_PLAYER",
+   "Argentina U23 | 7 apps | 1 goals | FORMER_NATIONAL_PLAYER",
+   "Argentina U15 | 6 apps | 3 goals | FORMER_NATIONAL_PLAYER"
+  ],
+  "injuries": [],
+  "suspensions": [
+   "2026-01-26 to 2026-02-02 | Yellow card suspension | 1 game",
+   "2025-11-23 to 2025-12-01 | Red card suspension | 1 game",
+   "2024-02-07 to 2024-02-09 | Red card suspension | 0 games",
+   "2024-01-01 to 2024-02-13 | Called up to national team | 6 games",
+   "2023-05-08 to 2023-06-03 | Called up to national team | 5 games"
+  ],
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/big/849410-1750770955.png",
+  "scraped_at": "2026-06-08T18:07:36.456Z"
+ }
+]

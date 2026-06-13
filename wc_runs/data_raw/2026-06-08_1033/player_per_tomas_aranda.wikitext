@@ -1,0 +1,60 @@
+{{short description|Argentine footballer (born 2007)}}
+{{Use dmy dates|date=April 2026}}
+{{Infobox football biography
+| name = Tomás Aranda
+| image =
+| image_size = 225px
+| alt = 
+| caption = 
+| fullname = Tomás Leandro Aranda
+| birth_date = {{Birth date and age|2007|5|9|df=y}}
+| birth_place = [[Ciudadela, Buenos Aires|Ciudadela]], Argentina
+| height = 1.72m
+| position = [[midfielder (association football)|midfielder]]
+| currentclub = [[Boca Juniors]] 
+| clubnumber = 36
+| youthyears1 = | youthclubs1 = [[Club Atlético Ituzaingó|Ituzaingó]]
+| youthyears2 = 2008–2026| youthclubs2 = [[Boca Juniors]]
+| years1 = 2026–| clubs1 = [[Boca Juniors]]| caps1 = 14| goals1 = 1
+| nationalyears1 = 2026–
+| nationalteam1 = [[Argentina national under-20 football team|Argentina U20]]
+| nationalcaps1 = 1
+| nationalgoals1 = 0
+| nationalyears2 = 2026–
+| nationalteam2 =  [[Argentina national football team|Argentina]]
+| nationalcaps2 = 1
+| nationalgoals2 = 0
+| club-update = 9 May 2026
+| nationalteam-update = 7 June 2026
+}}
+'''Tomás Leandro Aranda''' (born 9 May 2007) is an Argentine professional [[Association football|footballer]] who plays as a [[midfielder (association football)|midfielder]] for [[Argentine Primera División]] club [[Boca Juniors]] and the [[Argentina national football team|Argentina national team]].
+
+== Club career ==
+
+Born in [[Ciudadela, Buenos Aires|Ciudadela]] just outside of [[Buenos Aires]], Aranda grew up in [[Villa Udaondo]], where he played for [[Club Atlético Ituzaingó]], before joining [[Boca Juniors]] in 2018.<ref name="udr">{{Cite web |date=2026-02-01 |title=Tomás Aranda, el pibe de Ciudadela que debutó y cambió las cosas en Boca |url=https://www.udr.com.ar/tomas-aranda-el-pibe-de-ciudadela-que-debuto-y-cambio-las-cosas-en-boca/ |access-date=2026-04-08 |website=UDR |language=es}}</ref>
+
+In September 2024, as he had already started playing with the reserve, he signed his first professional contract with Boca Juniors.<ref>{{Cite web |date=2026-03-04 |title=La historia de Tomás Aranda, "el mejor jugador de las inferiores" que la rompió ante Lanús |url=https://www.tycsports.com/boca-juniors/tomas-aranda-mejor-jugador-inferiores-boca-titular-platense-id712845.html |access-date=2026-04-08 |website=TyC Sports |language=es-AR}}</ref> The following year he led the reserve to a win in the [[Torneo de Reserva (Argentina)|Torneo de Reserva]] and the Trofeo de Campeones.<ref>{{Cite web |date=2025-12-11 |title=Boca venció a Vélez y se consagró campeón del Trofeo de Campeones de Reserva: reviví lo mejor |url=https://www.tycsports.com/boca-juniors/boca-vs-velez-por-el-trofeo-de-campeones-de-reserva-hora-formaciones-y-tv-en-vivo-id703458.html |access-date=2026-04-08 |website=TyC Sports |language=es-AR}}</ref>
+
+Aranda made his professional debut with Boca Juniors in a 2–1 [[2026 AFA Liga Profesional de Fútbol|Primera División]] loss to [[Estudiantes de La Plata]] on 28 January 2026.<ref name=udr/><ref>{{Cite web |date=2026-01-28 |title=Boca Juniors perdió 2-1 contra Estudiantes en La Plata por la segunda fecha del Torneo Apertura |url=https://www.infobae.com/deportes/2026/01/28/boca-juniors-tendra-una-prueba-de-riesgo-en-la-plata-ante-estudiantes-hora-tv-y-formaciones/ |access-date=2026-04-08 |website=infobae |language=es-AR}}</ref>
+
+== International career ==
+Aranda is a youth international for Argentina, having first been called to the [[Argentina national under-20 football team|under-20 team]] in March 2026.<ref>{{Cite web |date=2026-03-22 |title=Tomás Aranda a la Selección Argentina: del ascenso meteórico en Boca al llamado a la Sub 20 |url=https://www.ole.com.ar/boca-juniors/tomas-aranda-seleccion-argentina-ascenso-meteorico-boca-llamado-sub-20_0_TT4KacXYUo.html |access-date=2026-04-08 |website=Olé |language=es-AR}}</ref> He made his debut on 27 March, starting in a friendly against the [[United States men's national under-20 soccer team|United States]].<ref>{{Cite web |date=2026-03-27 |title=Argentina Sub 20 cayó 0-3 con Estados Unidos en el predio de Ezeiza ante los ojos de Scaloni, Messi y más jugadores de la Selección |url=https://www.clarin.com/deportes/amistoso-sub-20-argentina-enfrenta-estados-unidos-predio-ezeiza-tomas-aranda-ian-subiabre-titulares_0_NBE4iZqOGP.html |access-date=2026-04-08 |website=Clarín |language=es}}</ref>
+
+== References ==
+{{reflist}}
+
+==External links==
+*{{Soccerway|}}
+
+{{Boca Juniors squad}}
+
+{{DEFAULTSORT:Aranda, Tomás}}
+[[Category:2007 births]]
+[[Category:Living people]]
+[[Category:Argentine men's footballers]]
+[[Category:Argentina men's under-20 international footballers]]
+[[Category:Men's association football midfielders]]
+[[Category:Argentina men's international footballers]]
+[[Category:Boca Juniors footballers]]
+[[Category:Argentine Primera División players]]
+[[Category:Footballers from Buenos Aires Province]]

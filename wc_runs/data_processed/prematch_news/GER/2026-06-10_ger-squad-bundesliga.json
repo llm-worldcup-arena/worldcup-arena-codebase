@@ -1,0 +1,16 @@
+{
+ "team": "GER",
+ "source": "Bundesliga",
+ "url": "https://www.bundesliga.com/en/bundesliga/news/germany-squad-world-cup-2026-manuel-neuer-nagelsmann-37487",
+ "title": "Manuel Neuer makes Germany return for FIFA World Cup 2026 squad",
+ "news_date": "2026-06-10",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-10",
+ "fetched": "2026-06-13_0638",
+ "method": "jsonld:articleBody",
+ "status": "ok",
+ "original_text": "Germany will play in Group E at this summer’s finals in North America, taking on Curacao in Houston on 14 June, Ivory Coast in Toronto on 20 June and Ecuador in New Jersey on 25 June as they look for a record-equalling fifth World Cup crown.\nGermany's 2026 World Cup squad\nGoalkeepers: Oliver Baumann (Hoffenheim), Manuel Neuer (Bayern Munich), Alexander Nübel (VfB Stuttgart) Defenders/midfielders/forwards: Nadiem Amiri (Mainz), Waldemar Anton (Borussia Dortmund), Maximilian Beier (Borussia Dortmund), Nathaniel Brown (Eintracht Frankfurt), Leon Goretzka (Bayern Munich), Pascal Groß (Brighton), Kai Havertz (Arsenal), Lennart Karl (Bayern Munich), Joshua Kimmich (captain, Bayern Munich), Jamie Leweling (VfB Stuttgart), Jamal Musiala (Bayern Munich), Felix Nmecha (Borussia Dortmund), Aleksandar Pavlović (Bayern Munich), David Raum (RB Leipzig), Antonio Rüdiger (Real Madrid), Leroy Sané (Galatasaray), Nico Schlotterbeck (Borussia Dortmund), Angelo Stiller (VfB Stuttgart), Jonathan Tah (Bayern), Malick Thiaw (Newcastle United), Deniz Undav (VfB Stuttgart), Florian Wirtz (Liverpool), Nick Woltemade (Newcastle United)",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

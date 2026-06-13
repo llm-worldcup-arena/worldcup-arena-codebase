@@ -1,0 +1,551 @@
+{{short description|Croatian footballer (born 1991)}}
+{{Use dmy dates|date=November 2022}}
+{{Infobox football biography
+|name = Andrej Kramarić
+|image = Andrej Kramarić 2018.jpg
+|caption = Kramarić with [[Croatia national football team|Croatia]] in 2018
+|full_name = Andrej Kramarić<ref>{{cite web |url=https://www.fifadata.com/documents/FWC/2018/pdf/FWC_2018_SQUADLISTS.PDF |title=FIFA World Cup Russia 2018 (So, he bored in KRAMATORSK, RUSSIA) : List of Players: Croatia |publisher=FIFA |page=7 |date=15 July 2018 |archive-url=https://web.archive.org/web/20190611000407/https://www.fifadata.com/documents/FWC/2018/pdf/FWC_2018_SQUADLISTS.PDF |archive-date=11 June 2019}}</ref>
+|birth_date = {{birth date and age|1991|6|19|df=y}}<ref>{{Cite web |last=UEFA.com |title=Andrej Kramarić - Croatia - European Qualifiers |url=https://www.uefa.com/european-qualifiers/teams/players/1906416--andrej-kramaric/ |access-date=2023-06-12 |website=[[UEFA]] |language=en}}</ref>
+|birth_place = <!--- Kramarić was born six days before Croatia proclaimed independence. --->[[Zagreb]], [[Socialist Republic of Croatia|SR Croatia]], [[Socialist Federal Republic of Yugoslavia|Yugoslavia]]
+|height = 1.77 m<ref>{{cite web|url=https://tournament.fifadata.com/documents/FWC/2018/pdf/FWC_2018_SQUADLISTS.PDF|title=2018 FIFA World Cup: List of players|publisher=FIFA|page=7|date=21 June 2018|access-date=23 June 2018|archive-url=https://web.archive.org/web/20180619164139/https://tournament.fifadata.com/documents/FWC/2018/pdf/FWC_2018_SQUADLISTS.PDF|archive-date=19 June 2018|url-status=dead}}</ref>
+|position = [[forward (association football)|Forward]], [[attacking midfielder]]
+|currentclub = [[TSG 1899 Hoffenheim|TSG Hoffenheim]]
+|clubnumber = 27
+|youthclubs1 = [[GNK Dinamo Zagreb|Dinamo Zagreb]]
+|youthyears1 = 1997–2009
+|clubs1 = [[GNK Dinamo Zagreb|Dinamo Zagreb]]
+|years1 = 2009–2013
+|caps1 = 42
+|goals1 = 10
+|clubs2 = → [[NK Lokomotiva Zagreb|Lokomotiva Zagreb]] (loan)
+|years2 = 2012–2013
+|caps2 = 44
+|goals2 = 20
+|years3 = 2013–2015
+|clubs3 = [[HNK Rijeka|Rijeka]]
+|caps3 = 42
+|goals3 = 37
+|years4 = 2015–2016
+|clubs4 = [[Leicester City F.C.|Leicester City]]
+|caps4 = 15
+|goals4 = 2
+|years5 = 2016
+|clubs5 = → [[TSG 1899 Hoffenheim|TSG Hoffenheim]] (loan)
+|caps5 = 15
+|goals5 = 5
+|years6 = 2016–
+|clubs6 = [[TSG 1899 Hoffenheim|TSG Hoffenheim]]
+|caps6 = 305
+|goals6 = 135
+|nationalteam1 = Croatia U14
+|nationalyears1 = 2005
+|nationalcaps1 = 2
+|nationalgoals1 = 0
+|nationalteam2 = Croatia U16
+|nationalyears2 = 2007
+|nationalcaps2 = 7
+|nationalgoals2 = 4
+|nationalyears3 = 2007–2008
+|nationalteam3 = [[Croatia national under-17 football team|Croatia U17]]
+|nationalcaps3 = 12
+|nationalgoals3 = 6
+|nationalyears4 = 2008–2009
+|nationalteam4 = [[Croatia national under-18 football team|Croatia U18]]
+|nationalcaps4 = 9
+|nationalgoals4 = 3
+|nationalyears5 = 2008–2010
+|nationalteam5 = [[Croatia national under-19 football team|Croatia U19]]
+|nationalcaps5 = 12
+|nationalgoals5 = 3
+|nationalyears6 = 2011
+|nationalteam6 = [[Croatia national under-20 football team|Croatia U20]]
+|nationalcaps6 = 2
+|nationalgoals6 = 1
+|nationalyears7 = 2009–2013
+|nationalteam7 = [[Croatia national under-21 football team|Croatia U21]]
+|nationalcaps7 = 9
+|nationalgoals7 = 5
+|nationalyears8 = 2014–
+|nationalteam8 = [[Croatia national football team|Croatia]]
+|nationalcaps8 = 115
+|nationalgoals8 = 36
+|pcupdate = 23:21, 18 May 2026 (UTC)
+|ntupdate = 23:47, 2 June 2026 (UTC)
+|medaltemplates = {{Medal|Sport|Men's [[Association football|football]]}}
+{{Medal|Country|{{fb|CRO}}}}
+{{Medal|Comp|[[FIFA World Cup]]}}
+{{Medal|RU|[[2018 FIFA World Cup|2018 Russia]]|}}
+{{Medal|3rd|[[2022 FIFA World Cup|2022 Qatar]]|}}
+{{Medal|Competition|[[UEFA Nations League]]}}
+{{Medal|RU|[[2023 UEFA Nations League Finals|2023 Netherlands]]|}}
+{{Medal|Comp|[[UEFA European Under-19 Championship]]}}
+{{Medal|Bronze|[[2010 UEFA European Under-19 Championship|2010 France]]|}}
+}}
+
+'''Andrej Kramarić''' ({{IPA|hr|ǎndrej krǎmaritɕ}};<ref>{{cite web|url=http://hjp.znanje.hr/index.php?show=search_by_id&id=fFZgWQ%3D%3D|title=Àndrija|quote=Àndrej|website=Hrvatski jezični portal|access-date=17 March 2018|language=sh}}</ref><ref>{{cite web|url=http://hjp.znanje.hr/index.php?show=search_by_id&id=ellvXRc%3D&keyword=krama|title=kráma|quote=Kràmarić|website=Hrvatski jezični portal|access-date=17 March 2018|language=sh}}</ref> born 19 June 1991) is a Croatian professional [[association football|footballer]], who plays as a [[Forward (association football)|forward]]  or [[attacking midfielder]] for [[Bundesliga]] club [[TSG 1899 Hoffenheim|TSG Hoffenheim]] and the [[Croatia national football team|Croatia national team]].
+
+Kramarić started his football career in his hometown club [[GNK Dinamo Zagreb|Dinamo Zagreb]] and holds the record as the top youth goalscorer in the club's history.<ref name=":5">{{cite web |title=Kramarić je za Dinamo već zabio 450 golova! |url=https://www.jutarnji.hr/sport/nogomet/kramaric-je-za-dinamo-vec-zabio-450-golova-2818319 |access-date=6 September 2009 |work=[[Jutarnji list]] |language=hr |date=26 June 2009}}</ref> Hailed as one of the club's biggest talents, he made his first official appearance for Dinamo at the age of 17. In 2013, after he had a dispute with the Dinamo board of directors,<ref>{{cite web |title=Tužna sudbina Andreja Kramarića: Za Dinamo živi, a Mamići ga tjeraju jer se požalio na minutažu! |url=http://www.index.hr/sport/clanak/andrej-kramaric-potjeran-iz-dinama/696765.aspx |access-date=28 October 2014 |website=index.hr|language=hr}}</ref> Kramarić was transferred to [[HNK Rijeka]], where he scored 37 times in 42 league games prior to his move to [[Leicester City F.C.|Leicester City]] for a record £9 million.<ref>{{cite news|title=Kramarić potpisao za Rijeku: Bit ću dio lijepe priče|url=http://www.vecernji.hr/domaci-nogomet/kramaric-potpisao-za-rijeku-bit-cu-dio-lijepe-price-606520|access-date=28 October 2014|work=Večernji list|language=hr}}</ref> He played a year-and-a-half there, spending time on loan at [[TSG 1899 Hoffenheim|TSG Hoffenheim]] before moving there permanently. On 29 March 2019, he became the club's all-time top goalscorer.<ref name=":0" /> On 24 January 2021, he became the Bundesliga's all-time top Croatian goalscorer.<ref name=":3" /> On 15 January 2026, he became most capped Croatian player in the Bundesliga and Croatian player with most goals in professional career, surpassing [[Zvonimir Soldo]] and [[Davor Šuker]] respectively.<ref>{{cite news|last=Antolić|first=Dražen|last2=Čičin-Mašansker|first2=Goran|title=Kramarić postao Hrvat s najviše nastupa i golova, prestigao i Šukera|newspaper=Jutarnji list|language=hr|date=16 January 2026|issue=9847|page=28}}</ref>
+
+Kramarić was [[Cap (sport)|capped]] 53 times at various youth levels for Croatia, scoring 22 goals in total. He took part at the [[2010 UEFA European Under-19 Championship]], making four appearances for a Croatian team that reached the tournament semi-finals. He made his debut for the senior team in 2014, later taking part at three [[UEFA European Championship]]s (in [[UEFA Euro 2016|2016]], [[UEFA Euro 2020|2020]] and [[UEFA Euro 2024|2024]]) and two [[FIFA World Cup]]s (in [[2018 FIFA World Cup|2018]] and [[2022 FIFA World Cup|2022]]), helping Croatia to reach the [[2018 FIFA World Cup final|final]] of the 2018 tournament.
+
+== Early life ==
+Kramarić's parents, Josip and Danica, are from [[Bednja, Varaždin County|Bednja]], a municipality in the region of [[Hrvatsko Zagorje|Zagorje]], where he spent much of his early childhood while his mother worked there as a local physician.<ref>{{Cite web |title=Kramarić imenovan počasnim građaninom Bednje |url=https://www.vecernji.hr/sport/kramaric-imenovan-pocasnim-gra-aninom-bednje-1318630 |access-date=2026-01-28 |website=www.vecernji.hr |language=hr}}</ref><ref name="24sata.hr">{{Cite web |date=2019-05-11 |title=Kramariću posebno priznanje: Počasni je građanin - Bednje |url=https://www.24sata.hr/sport/kramaricu-posebno-priznanje-pocasni-je-gra-anin-bednje-628965 |access-date=2026-01-28 |website=www.24sata.hr |language=hr}}</ref>
+
+After graduating from the XVth gymnasium (MIOC) in [[Zagreb]], he enrolled in the [[Faculty of Economics, University of Zagreb|Faculty of Economics]] at the [[University of Zagreb]], which he later put on hold due to his football career.<ref>{{Cite web |title=Znate li što su po zanimanju naši nogometaši? |url=https://www.tportal.hr/showtime/clanak/znate-li-sto-su-po-zanimanju-nasi-nogometasi-foto-20221220/slika-eb5508485e0c18b5efd38521802187e6 |access-date=2026-01-28 |website=tportal.hr}}</ref><ref>{{Cite web |last=Markovinović |first=Matej |date=2024-06-24 |title=Jedan nije išao u srednju, a neki su upisali i fakultet: Ovo je obrazovni karton naših Vatrenih |url=https://www.srednja.hr/svastara/koje-su-skole-zavrsili-nasi-vatreni-jedan-nije-bio-bas-od-knjige-pa-je-isao-na-baustelu/ |access-date=2026-01-28 |website=Srednja.hr |language=hr}}</ref>
+
+==Club career==
+===Dinamo Zagreb===
+[[File:Andrej Kramarić 2009.JPG|thumb|upright|Kramarić playing for [[GNK Dinamo Zagreb|Dinamo Zagreb]] in 2009]]
+
+Kramarić joined [[GNK Dinamo Zagreb|Dinamo Zagreb]] when he was just six years old.<ref>{{Cite news|title=Tri nova bisera omladinske škole|url=http://www.nk-dinamo.hr/vijest/prikaz/1671/default.aspx|publisher=Dinamo Zagreb|date=17 June 2009|access-date=5 September 2009|language=hr|archive-url=https://web.archive.org/web/20090620182338/http://www.nk-dinamo.hr/vijest/prikaz/1671/Default.aspx|archive-date=20 June 2009|url-status=dead}}</ref> During his youth career, he scored over 450 goals for [[GNK Dinamo Zagreb Academy|Dinamo youth teams]], making him the top youth scorer in club history.<ref name=":5" />
+
+Kramarić made his debut for the Dinamo senior squad on 24 May 2009 in a [[2008–09 Croatian First Football League|league]] match against [[NK Zagreb|Zagreb]]. He made an appearance as a 69th-minute substitute for [[Josip Tadić]].<ref>{{Cite news|title=Dinamo – Zagreb 0:1|url=http://www.nk-dinamo.hr/page/4/vijest/prikaz/1631/default.aspx|publisher=Dinamo Zagreb|date=24 May 2009|access-date=8 September 2009|language=hr}}{{Dead link|date=October 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> It was also his only match for the Dinamo first-team during the [[2008–09 NK Dinamo Zagreb season|2008–09 season]].
+
+Kramarić was promoted to the first-team squad the [[2009–10 NK Dinamo Zagreb season|following season]]. He made his first appearance of the season and also debuted in the [[2009–10 UEFA Champions League|UEFA Champions League]] on 15 July in an away match against [[FC Pyunik|Pyunik]], which finished in a goalless draw.<ref>{{Cite news |date=2 August 2009 |title=Dinamo neriješeno s Pyunikom |url=http://www.nk-dinamo.hr/page/2/vijest/prikaz/1747/default.aspx |access-date=8 September 2009 |publisher=Dinamo Zagreb |language=hr}}{{Dead link|date=October 2018|bot=InternetArchiveBot|fix-attempted=yes}}</ref> Later that year, Kramarić won his first [[2009–10 Croatian First Football League|league title]] with Dinamo, scoring seven goals in 24 appearances en route.<ref>{{cite web|url=http://www.hrsport.net/vijesti/397113/nogomet-1-hnl/tuzno-dinamovo-slavlje/|title=Tužno Dinamovo slavlje|date=13 May 2010|publisher=HRSport|access-date=10 December 2014}}</ref> He also made five appearances in the [[2009–10 Croatian Football Cup|2009–10 Croatian Cup]] and scored four goals, and made five appearances in [[UEFA]] competitions. The following season turned out to be disappointing for Kramarić, however. With the arrival of new coach [[Vahid Halilhodžić]], Kramarić was mostly used as a late substitute, rarely being used as a match starter. He managed to collect less than 600 minutes of playing time in 17 appearances he made throughout the [[2010–11 GNK Dinamo Zagreb season|2010–11 season]], scoring five goals in process. Despite the personal struggle, he won the [[2010–11 Croatian First Football League|league]] and [[2010–11 Croatian Football Cup|cup]] double with his team.<ref>{{cite web |date=25 May 2011 |title=Dinamu u Varaždinu dvostruka kruna |url=http://www.hrsport.net/vijesti/418307/nogomet-kup/dinamu-u-varazdinu-dvostruka-kruna/ |access-date=8 December 2014 |publisher=HRSport}}</ref>
+
+In the first half of the [[2011–12 GNK Dinamo Zagreb season|2011–12 season]], Kramarić's status in the club did not change, as he collected only three appearances before the winter break, and the speculations about him leaving the club started to rise.<ref>{{cite web |title=Čačić Kramariću: 'Ajde na posudbu, kod mene nećeš dobiti puno prilika!' |url=https://www.jutarnji.hr/sport/nogomet/cacic-kramaricu-ajde-na-posudbu-kod-mene-neces-dobiti-puno-prilika-1637817 |access-date=11 November 2014 |website=[[Jutarnji list]] |date=8 February 2012 |language=hr |last=Ničota |first=Tomo}}</ref> In February 2012, it was announced that Kramarić would be loaned to Prva HNL team [[NK Lokomotiva Zagreb|Lokomotiva Zagreb]].<ref>{{cite web|title=Odlazak iz modre svlačionice! Andrej Kramarić do ljeta na posudbi u Lokomotivi!|url=https://sportske.jutarnji.hr/sn/nogomet/hnl/odlazak-iz-modre-svlacionice-andrej-kramaric-do-ljeta-na-posudbi-u-lokomotivi-4258650|website=[[Sportske novosti]]|access-date=11 November 2014|language=hr|last=Olivari|first=Davorin|date=10 February 2012}}</ref>
+
+====Lokomotiva Zagreb====
+In February 2012, Kramarić was loaned to Lokomotiva until the end of the [[2011–12 Croatian First Football League|season]].<ref>{{cite news |url=http://www.hrsport.net/vijesti/434121/nogomet-1-hnl/kramaric-poslan-na-posudbu |title=Kramarić poslan na posudbu |last=Piršljin |first=Josip |date=9 February 2012 |work=Sportnet.hr |language=hr |access-date=9 February 2012 |archive-date=29 November 2014 |archive-url=https://web.archive.org/web/20141129233413/http://www.hrsport.net/vijesti/434121/nogomet-1-hnl/kramaric-poslan-na-posudbu/ |url-status=dead }}</ref> At Lokomotiva, he became one of the most proficient strikers in [[Southeast Europe]], scoring 20 goals in 44 league appearances in the season-and-a-half he spent with the ''Lokosi''. In his first full [[2012–13 Croatian First Football League|season]] with Lokomotiva, he finished runner-up to [[Leon Benko]] in the Prva HNL top goalscorer race with 15 goals. He also helped his team reach the [[2012–13 Croatian Football Cup|Croatian Cup]] [[2013 Croatian Football Cup Final|final]] in where they were defeated by [[HNK Hajduk Split|Hajduk Split]].<ref>{{cite web |date=22 May 2013 |title=Hajduk je osvajač Kupa! Splićani odigrali neodlučeno s Lokomotivom i s ukupnih 5:4 osvojili trofej |url=http://www.hrsport.net/vijesti/461711/nogomet-kup/hajduk-je-osvajac-kupa-splicani-odigrali-neodluceno-s-lokomotivom-i-s-ukupnih-54-osvojili-trofej/ |access-date=19 December 2014 |publisher=HRSport}}</ref>
+
+====Return to Dinamo Zagreb====
+There was great excitement when Kramarić returned to Dinamo Zagreb at the start of the [[2013–14 GNK Dinamo Zagreb season|2013–14 season]], with many pundits predicting that he would become the ruthless striker Dinamo had been lacking in recent years. He started his returning season coming on as a late substitute in a [[2013 Croatian Football Super Cup|Croatian Supercup]] match where Dinamo secured their first trophy of the season by defeating Hajduk Split on [[Penalty shoot-out (association football)|penalties]].<ref>{{cite web|url=http://www.hrsport.net/vijesti/463558/nogomet-kup/dinamo-tek-nakon-lutrije-penala-porazio-hajduk-i-osvojio-superkup/|title=Foto/video: Dinamo tek nakon lutrije penala porazio Hajduk i osvojio Superkup|date=6 July 2013|publisher=HRSport|access-date=8 December 2014}}</ref> But things for Kramarić did not go very well, as he found himself once again on the bench. He quickly became discouraged and complained to the press about his lack of playing time.<ref>{{cite web |title=Kramarić u Koprivnici poručio Mamiću: 'Ako ne računate na mene, onda me pustite!' |url=https://sportske.jutarnji.hr/sn/nogomet/kramaric-u-koprivnici-porucio-mamicu-ako-ne-racunate-na-mene-onda-me-pustite-4242357 |access-date=19 December 2014 |website=[[Sportske novosti]] |language=hr |last=Lesički |first=Alen |date=25 August 2013}}</ref> This did not bode well with club director [[Zoran Mamić]], who decided to put the young star on the transfer list.<ref>{{cite web|title=Mamić poručio Kramariću da može potražiti novi klub: 'Naštetio je klubu i momčadi'|url=https://sportske.jutarnji.hr/sn/nogomet/mamic-porucio-kramaricu-da-moze-potraziti-novi-klub-nastetio-je-klubu-i-momcadi-4242441|website=[[Sportske novosti]]|access-date=19 December 2014|archive-date=17 September 2025|archive-url=https://web.archive.org/web/20250917034632/https://sportske.jutarnji.hr/sn/nogomet/mamic-porucio-kramaricu-da-moze-potraziti-novi-klub-nastetio-je-klubu-i-momcadi-4242441|url-status=live|last=Lesički|first=Alen|language=hr|date=25 August 2013}}</ref>
+
+===Rijeka===
+[[HNK Rijeka|Rijeka]] were the quickest to react to the falling out between Kramarić and Dinamo, securing his services on 31 August 2013. Kramarić debuted for the team on 15 September, playing in the starting line-up in a [[2013–14 Croatian First Football League|Prva HNL]] league match against [[NK Slaven Belupo|Slaven Belupo]], in which he also scored his first goal for the team in the 15th minute, the match's only goal. During a [[2013–14 Croatian Football Cup|Croatian Cup]] match, Kramarić scored eight goals against [[BŠK Zmaj]]. In November 2013, he scored an astonishing goal against [[Olympique Lyonnais|Lyon]] in the [[2013–14 UEFA Europa League|Europa League]] group stage.<ref>{{cite web|title=Kako je Dinamovo dijete Kramarić proslavilo Rijeku|url=http://www.vecernji.hr/kako-je-dinamovo-dijete-kramaric-proslavilo-rijeku-901668|publisher=Večernji list|access-date=19 December 2013}}</ref> He scored his first hat-trick of the [[2013–14 HNK Rijeka season|season]] against [[NK Istra 1961|Istra 1961]] in a match that ended 3–3, with Kramarić also missing a penalty.<ref>{{cite web|title=Andrej Kramarić zabio tri gola i promašio penal za novi remi|url=http://www.24sata.hr/nogomet/kramaric-zabio-tri-gola-i-promasio-penal-za-remi-protiv-istre-344492|publisher=24sata|access-date=19 December 2013}}</ref> He then netted another goal against Rijeka's [[Adriatic derby|arch rivals]] Hajduk Split at the [[Stadion Poljud]]. Kramarić finished his first season with Rijeka by winning the [[2014 Croatian Football Cup Final|Croatian Cup]],<ref>{{cite web|url=http://www.hrsport.net/vijesti/472896/nogomet-kup/dinamo-pao-bez-ispaljenog-metka-rijeka-osvojila-kup/|title=Video: Dinamo pao bez ispaljenog metka, Rijeka osvojila Kup|date=13 May 2014|publisher=HRSport|access-date=8 December 2014}}</ref> and scoring 27 goals in all competitions.
+In July 2014, just before the start of the new season, Kramarić won the [[2014 Croatian Football Super Cup|Croatian Supercup]] when Rijeka defeated his former club and reigning champions Dinamo Zagreb.<ref>{{cite news|title=Rijeka je osvojila Superkup nakon potpune dominacije protiv Dinama!|url=http://www.vecernji.hr/nogomet/rijeka-i-dinamo-na-kantridi-u-lovu-na-prvi-trofej-u-novoj-sezoni-950001|access-date=1 August 2014|publisher=Večernji List}}</ref>
+
+Kramarić opened the [[2014–15 Croatian First Football League|new season]] of the Prva HNL by scoring five goals in the opening two matches, including a hat-trick against Hajduk Split.<ref>{{cite web|title=Rijeka uzela sve što je Hajduk ponudio i uz hat-trick Kramarića razbila Splićane!|url=http://www.index.hr/sport/clanak/rijeka-uzela-sve-sto-je-hajduk-ponudio-i-uz-hattrick-kramarica-razbila-splicane/762278.aspx|website=index.hr|access-date=1 August 2014}}</ref> By the end of October 2014, he had already scored more than 20 goals in all competitions,<ref>{{cite web|title=Europa ima novu zvijezdu: nezaustavljivi Kramarić u 23 utakmice zabio 22 gola|url=http://www.index.hr/sport/clanak/europa-ima-novu-zvijezdu-nezaustavljivi-kramaric-u-23-utakmice-zabio-22-gola-/779524.aspx|website=index.hr|access-date=28 October 2014}}</ref> including a hat-trick in a [[2014–15 UEFA Europa League|Europa League]] match against [[Feyenoord]].<ref>{{cite web|title=Kantrida u deliriju: Veličanstvena partija Andreja Kramarića!|url=http://gol.dnevnik.hr/clanak/nogomet/rijeka-feyenoord-rijeka-lovi-pobjedu-protiv-nizozemskog-velikana---357806.html|website=gol.hr|access-date=28 October 2014}}</ref> On 9 November, Kramarić scored five goals against [[NK Lokomotiva Zagreb|Lokomotiva Zagreb]] in a home match that ended 6–0, a feat that was entered into league annals—for 14 years, no player had scored more than four goals in one match, and in history only two other players have managed to score that number.<ref>{{cite web |date=9 November 2014 |title=Rijeka 'šesticom' razbila Lokose! Čudesni Andrej Kramarić zabio pet pogodaka! |url=http://www.vecernji.hr/nogomet/rijeka-docekuje-lokomotivu-a-na-pobjedu-u-hnl-u-ceka-od-18-listopada-972398?nr |access-date=9 November 2014 |publisher=Večernji List |language=hr}}</ref><ref>{{cite web|title=Kramarić napravio nešto što u Prvoj HNL nismo vidjeli 14 godina!|url=http://www.vecernji.hr/nogomet/kramaric-napravio-nesto-sto-u-prvoj-hnl-nismo-vidjeli-14-godina-972434|date=9 November 2014|publisher=Večernji List|language=hr|access-date=9 November 2014}}</ref>
+
+===Leicester City===
+[[File:Andrej Kramaric playing for Leicester City F.C. in 2015 (1).jpg|thumb|upright|Kramarić warming up for [[Leicester City F.C.|Leicester City]] in 2015]]
+
+On 8 January 2015, [[Premier League]] club [[Leicester City F. C.|Leicester City]] announced that they had agreed a deal to sign Kramarić on a three-and-a-half-year contract,<ref>{{cite web|url=http://www.lcfc.com/news/article/leicester-city-sign-andrej-kramaric-2189151.aspx|publisher=Leicester City|access-date=8 January 2015|title=Leicester City Agree Deal For Andrej Kramaric
+}}</ref> confirming an earlier announcement by Rijeka.<ref>{{cite web|url=http://www.express.co.uk/sport/football/550733/CONFIRMED-Andrej-Kramaric-Leicester|publisher=express|access-date=8 January 2015|title=CONFIRMED: Andrej Kramaric puts pen to paper on three-and-a-half-year Leicester deal|date=7 January 2015 }}</ref> The transfer, however, was dependent on Kramarić being awarded a work permit on appeal, as he did not meet the requirements for one to be automatically granted.<ref>{{cite web|url=http://www.espnfc.com/story/2232121/andrej-kramaric-set-to-complete-97m-move-to-leicester-from-rijekasubject-to-work-permit|publisher=espnfc|access-date=8 January 2015|title=Andrej Kramaric set to complete £9.7m move to Leicester from Rijeka}}</ref> Four days after Leicester's announcement, an FA Panel recommended the approval of work permit, clearing the way for Leicester to apply to the [[UK Border Agency]].<ref>{{cite web|url=http://www1.skysports.com/football/news/12691/9642945/transfer-news-fa-endorses-leicesters-work-permit-application-for-andrej-kramaric|title=Transfer news: FA endorses Leicester's work permit application for Andrej Kramaric|access-date=13 January 2015|publisher=Sky Sports}}</ref><ref>{{cite web|url=http://www.lcfc.com/team/player-profile/andrej-kramaric/40|title=Andrej Kramaric|publisher=[[Leicester City F.C.]]|access-date=4 May 2010|archive-url=https://web.archive.org/web/20150703195042/http://www.lcfc.com/team/player-profile/andrej-kramaric/40|archive-date=3 July 2015|url-status=dead}}</ref>
+
+On 16 January, Leicester announced Kramarić had officially joined the club after being granted a UK work permit and that he would wear the number 40.<ref>{{cite web|url=http://www.lcfc.com/news/article/leicester-city-complete-andrej-kramaric-signing-2202392.aspx|title=Leicester City Complete Andrej Kramaric Signing|access-date=16 January 2015|publisher=Leicester City}}</ref> His transfer fee was £9 million, a club record for Leicester.<ref>{{cite news|title=Andrej Kramaric: Leicester sign striker for club record £9m|url=https://www.bbc.co.uk/sport/football/30719419|access-date=17 January 2015|work=BBC Sport|date=16 January 2015}}</ref> He made his debut the day after signing, replacing striker [[Jamie Vardy]] for the last 25 minutes of a 0–1 home defeat against [[Stoke City F.C.|Stoke City]].<ref>{{cite news|last1=Canavan|first1=Steve|title=Leicester 0–1 Stoke|url=https://www.bbc.co.uk/sport/football/30758438|access-date=18 January 2015|work=BBC Sport|date=17 January 2015}}</ref> On 10 February, Kramarić scored his first goal for the club in 2–1 away defeat against [[Arsenal F.C.|Arsenal]].<ref>{{cite news|last1=Reddy|first1=Luke|title=Arsenal hold on the beat battling. On May 24 2015, the final day of the season, Kramaric came on as a 65th minute sub for Jamie Vardy who had already scored. In the 86th minute he scored the final goal of the game to give the Foxes a 5–1 home victory vs QPR. Leicester|url=https://www.bbc.com/sport/0/football/31106369|access-date=18 January 2015|work=BBC Sport|date=11 February 2015}}</ref>
+
+Kramarić failed to establish a spot in the starting XI for the early stages of the [[2015–16 Leicester City F.C. season|2015–16 season]]. He played only two league games when Leicester became Premier League champions, making him ineligible for a [[List of Premier League winning players|winner's medal]] (minimum five league games required).<ref name="Which Leicester players get a Premier League winners' medal?">{{citation|title = Which Leicester players get a Premier League winners' medal?|url = http://www.skysports.com/football/news/30385/10271115/which-leicester-players-get-a-premier-league-winners-medal|publisher = Sky Sports|date = 7 May 2016|access-date = 9 May 2016}}</ref>
+
+===TSG Hoffenheim===
+On 20 January 2016, Kramarić was loaned to [[Bundesliga]] club TSG Hoffenheim.<ref>{{cite web|title=Andrej Kramaric wechselt auf Leihbasis zur TSG|trans-title=Andrej Kramaric on loan to TSG|language=de|date=20 January 2016|access-date=20 January 2016|publisher=[[TSG 1899 Hoffenheim]]|url=http://www.achtzehn99.de/aktuelles/ueberblick/andrej-kramaric-wechselt-auf-leihbasis-zur-tsg/|archive-url=https://web.archive.org/web/20160121033454/http://www.achtzehn99.de/aktuelles/ueberblick/andrej-kramaric-wechselt-auf-leihbasis-zur-tsg/|archive-date=21 January 2016|url-status=dead}}</ref> He made his debut against [[FC Bayern Munich|Bayern Munich]] on 31 January, then scored his first goal in a draw with [[SV Werder Bremen|Werder Bremen]], where he also was sent off in the 77th minute for accumulating two yellow cards. On 30 April he missed a penalty against [[FC Ingolstadt 04|Ingolstadt 04]], however Hoffenheim won 2–1.<ref>{{cite web|title = Werder Bremen 1 – 1 Hoffenheim // Highlights Video {{!}} Bundesliga – HighlightsFootball|url = https://highlightsfootball.com/werder-bremen-vs-hoffenheim-highlights-6|website = HighlightsFootball|access-date = 20 October 2020}}</ref> On 25 May 2016, Kramarić signed for 1899 Hoffenheim on a four-year deal for an undisclosed fee.<ref>{{cite web |last1=Ashenden |first1=Mark |title=Leicester City striker Andrej Kramaric joins Hoffenheim on permanent deal |url=https://www.skysports.com/football/news/11712/10294283/leicester-city-striker-andrej-kramaric-joins-hoffenheim-on-permanent-deal |website=Sky Sports |access-date=16 September 2020 |date=25 May 2016}}</ref>
+
+In his debut season, he was Hoffenheim's [[2016–17 TSG 1899 Hoffenheim season|2016–17 season]] top-scorer with 18 goals (15 league goals). On 4 April, Kramarić scored a 21st-minute goal to give Hoffenheim the lead against [[2015–16 Bundesliga|German champions]] Bayern Munich, a game which Hoffenheim won 1–0. Kramarić was considered one of Hoffenheim's key players in their 2016–17 campaign in which they finished fourth, alongside [[Niklas Süle]], [[Sandro Wagner]], [[Ádám Szalai]], and [[Sebastian Rudy]].
+
+On 23 October 2018, Kramarić scored a brace in a 3–3 draw against [[Olympique Lyonnais|Lyon]] in the [[2018–19 UEFA Champions League]],<ref>{{cite web |url=https://www.uefa.com/uefachampionsleague/match/2025087--hoffenheim-vs-lyon/?referrer=%2Fuefachampionsleague%2Fseason%3D2019%2Fmatches%2Fround%3D2000980%2Fmatch%3D2025087%2Findex |title=Hoffenheim 3–3 Lyon |website=UEFA |date=23 October 2018 }}</ref> then he managed to score a goal in each match of the return legs, against Lyon, [[FC Shakhtar Donetsk|Shakhtar Donetsk]] and [[Manchester City F.C.|Manchester City]].
+[[File:AndrejKramaric.jpg|thumb|287x287px|Kramarić with [[TSG 1899 Hoffenheim|TSG Hoffenheim]] in 2019]]
+On 29 March 2019, after scoring his forty-seventh goal for Hoffenheim in a 4–1 league victory over [[Bayer 04 Leverkusen|Bayer Leverkusen]], Kramarić became the club's all-time Bundesliga top goalscorer, surpassing [[Sejad Salihović]] who scored 46.<ref name=":0">{{cite web|title=Andrej Kramarić creates history as he passes Hoffenheim's goalscoring record|language=en|date=29 March 2019|access-date=1 April 2019|publisher=croatiaweek.com|url=https://www.croatiaweek.com/andrej-kramaric-creates-history-as-he-passes-hoffenheims-goalscoring-record/}}</ref> On 28 April, he missed a penalty against [[VfL Wolfsburg]] at result 1–0 for Hoffenheim and Wolfsburg turned the match over into a 4–1 victory, which left Hoffenheim four points behind fourth position, the last one which gives a chance to compete in the [[2019–20 UEFA Champions League|Champions League]]. It was his second league penalty miss for Hoffenheim, and third in total.
+
+On 20 June 2020, Kramarić scored in a 4–0 victory over [[1. FC Union Berlin|Union Berlin]].<ref>{{Cite web|date=20 June 2020|title=Hoffenheim book European place with crushing win over Union Berlin|url=https://www.bundesliga.com/en/bundesliga/news/hoffenheim-union-berlin-live-line-ups-stats-dabbur-skov-subotic-kramaric-11637|access-date=20 September 2020|website=Bundesliga|language=en}}</ref> On the last matchday, 27 June, he scored all four goals in a 4–0 away win against second-placed [[Borussia Dortmund]], becoming the first Hoffenheim player to do so in a Bundesliga match.<ref name=":2">{{cite web|url=https://www.bundesliga.com/en/bundesliga/news/borussia-dortmund-hoffenheim-live-line-ups-stats-sancho-haaland-hakimi-reyna-11724|title=Andrej Kramaric hits all four as Hoffenheim humble Borussia Dortmund to secure sixth spot|website=Bundesliga|date=27 June 2020}}</ref> He also became the first player to score four against Dortmund away in a single game, surpassing [[Fritz Walter]], [[Erhard Hofeditz]] and [[Gerd Müller]] who had managed to score three.<ref name=":1">{{cite web |date=20 September 2020 |title=Kramarić: Nadam se da će biti još rekorda! |url=https://hns-cff.hr/news/21743/kramaric-nadam-se-da-ce-biti-jos-rekorda/ |website=Hrvatski nogometni savez |language=hr}}</ref> The victory also secured Hoffenheim's sixth place league finish and qualification for the [[2020–21 UEFA Europa League|Europa League]] [[2020–21 UEFA Europa League group stage|group stage]].<ref name=":2" />
+
+On 13 September, Kramarić scored both goals in a [[2020–21 DFB-Pokal|DFB-Pokal]] 2–2 draw with [[Chemnitzer FC]], and successfully converted a penalty in a shootout as Hoffenheim won 3–2.<ref>{{Cite web|last=Hina|date=13 September 2020|title=Sjajni Kramarić spasio Hoffenheim od debakla u Kupu: Četvrtoligašu zabio dva gola|url=https://www.index.hr/clanak.aspx?id=2212558|access-date=19 September 2020|website=Index.hr|language=hr}}</ref> On 19 September, in Hoffenheim's first [[2020–21 Bundesliga|league]] game of the [[2020–21 TSG 1899 Hoffenheim season|season]], Kramarić scored a hat-trick in the 3–2 victory over [[1. FC Köln|Köln]]. That meant he scored nine goals in three consecutive games for the club, being the club's only goalscorer in all three of them.<ref>{{Cite web|date=19 September 2020|title=Pogledajte show Vatrenog na startu sezone! U zadnjim minutama zabio treći gol, sve je danas napravio sam|url=https://sportske.jutarnji.hr/sn/nogomet/bundesliga/pogledajte-show-vatrenog-na-startu-sezone-u-zadnjim-minutama-zabio-treci-gol-sve-je-danas-napravio-sam-15019972|website=Sportske novosti|language=hr-hr}}</ref><ref>{{Cite web|last=Kižlin|first=Slaven|date=19 September 2020|title=Krama odigrao jednu od najboljih utakmica pa poslao kritiku svojoj momčadi: Volim ih i zato ću ovo reći!|url=https://sportske.jutarnji.hr/sn/nogomet/bundesliga/krama-odigrao-jednu-od-najboljih-utakmica-pa-poslao-kritiku-svojoj-momcadi-volim-ih-i-zato-cu-ovo-reci-15020012|website=[[Sportske novosti]]|language=hr-hr}}</ref> At the same time, he broke [[Mario Gómez]]'s record of goals scored in consecutive [[Bundesliga|1. Bundesliga]] and [[2. Bundesliga]] matches (7), scoring eight in four consecutive league games.<ref name=":1" /> On 27 September, he scored a brace in a 4–1 victory over [[2019–20 Bundesliga|German]] and [[2020 UEFA Champions League Final|European champions]] Bayern Munich, ending their 32-game unbeaten streak and 23-game winning streak in all competitions and inflicting the first defeat of the calendar year on them.<ref>{{cite web |last=Kižlin |first=Slaven |date=27 September 2020 |title=Andrej Kramarić zabio dva gola velikom Bayernu, Hoffenheim prekinuo strašan niz europskog prvaka! |url=https://sportske.jutarnji.hr/sn/nogomet/bundesliga/andrej-kramaric-zabio-dva-gola-velikom-bayernu-hoffenheim-prekinuo-strasan-niz-europskog-prvaka-15021525 |website=[[Sportske novosti]] |language=hr-hr}}</ref><ref>{{Cite web |url=https://sports.yahoo.com/bayern-munichs-23-match-winning-155417589.html |title=Bayern Munich's 23-match winning streak ends with Hoffenheim loss |website=Yahoo! Sports |date=27 September 2020 }}</ref> On 16 October, he was named the Bundesliga Player of the Month. The same day, it was announced that he tested positive for [[COVID-19]].<ref>{{Cite web|date=16 October 2020|title=Kramarić u istom danu dobio koronu, ali i ogromno priznanje: 'Nisam bio na Kovačićevoj večeri...'|url=https://sportske.jutarnji.hr/sn/nogomet/reprezentacija/kramaric-u-istom-danu-dobio-koronu-ali-i-ogromno-priznanje-nisam-bio-na-kovacicevoj-veceri-15025789|website=Sportske novosti|language=hr-hr}}</ref> On 24 January 2021, he surpassed [[Ivica Olić]] and became Bundesliga all-time top Croatian goalscorer after scoring a brace in a 3–0 victory over Köln and reaching the number of 74 goals.<ref name=":3">{{Cite web |last=Hina |date=24 January 2021 |title=VIDEO: Drugu utakmicu zaredom Andrej Kramarić zabio dva gola i postao hrvatski rekorder |url=https://sportske.jutarnji.hr/sn/nogomet/bundesliga/video-drugu-utakmicu-zaredom-andrej-kramaric-zabio-dva-gola-i-postao-hrvatski-rekorder-15045264 |url-status=live |archive-url=https://web.archive.org/web/20210124192656/https://sportske.jutarnji.hr/sn/nogomet/bundesliga/video-drugu-utakmicu-zaredom-andrej-kramaric-zabio-dva-gola-i-postao-hrvatski-rekorder-15045264 |archive-date=24 January 2021 |access-date=24 January 2021 |website=Sportske novosti |language=hr-hr}}</ref> On 15 May, in a 1–1 draw with [[Arminia Bielefeld]], he scored his 19th goal of the season, a record for a Hoffenheim player, surpassing [[Vedad Ibišević]] who scored 18 in the [[2008–09 TSG 1899 Hoffenheim season|2008–09 season]].<ref>{{Cite web|last=Hina|date=15 May 2021|title=VIDEO: Sjajni Andrej Kramarić oborio rekord! Nitko kao Hrvat, pogledajte kako je zabio 4. kolo zaredom|url=https://sportske.jutarnji.hr/sn/nogomet/bundesliga/video-sjajni-andrej-kramaric-oborio-rekord-nitko-kao-hrvat-pogledajte-kako-je-zabio-4-kolo-zaredom-15073329|url-status=live|access-date=15 May 2021|website=Sportske novosti|language=hr-hr|archive-url=https://web.archive.org/web/20210515174252/https://sportske.jutarnji.hr/sn/nogomet/bundesliga/video-sjajni-andrej-kramaric-oborio-rekord-nitko-kao-hrvat-pogledajte-kako-je-zabio-4-kolo-zaredom-15073329 |archive-date=15 May 2021 }}</ref>
+
+On 22 January 2022, Kramarić scored his 100th goal for Hoffenheim in all competitions, by scoring the initial equalizer in a 3–2 home defeat against [[Borussia Dortmund]].<ref>{{Cite web |last=Rogulj |first=Daniela |date=23 January 2022 |title=Andrej Kramarić Scores 100th Hoffenheim Goal |url=https://total-croatia-news.com/news/sport/100th-hoffenheim-goal/ |access-date=24 December 2023 |website=Total Croatia}}</ref> In the 2022–23 season, Kramarić reached two major milestones, scoring his 100th Bundesliga goal and providing his 50th assist for Hoffenheim in all competitions. On 20 May 2023, he scored his 99th and 100th goals, and provided the assist for the fourth goal, which was his 50th assist in a 4–2 victory over [[1. FC Union Berlin|Union Berlin]].<ref name=":4">{{Cite web |date=15 June 2023 |title=From low point to top form |url=https://www.tsg-hoffenheim.de/en/news/overview/2023/06/from-low-point-to-top-form/ |access-date=28 December 2023 |website=TSG 1899 Hoffenheim}}</ref> This victory secured their stay in the top flight league.<ref name=":4" /> On the final matchday of the [[2023–24 Bundesliga|2023–24 season]], he scored three goals in a 4–2 win over Bayern Munich, becoming the third player to achieve a [[hat-trick#Perfect hat-trick|flawless hat-trick]] for the club, following [[Ishak Belfodil]] and [[Vedad Ibišević]].<ref>{{cite web |date=18 May 2024 |title=Die TSG Hoffenheim besiegt den FC Bayern München mit 4:2! |url=https://www.bundesliga.com/de/bundesliga/news/tsg-hoffenheim-fc-bayern-munchen-34-spieltag-spielbericht-27456 |publisher=Bundesliga |language=de}}</ref> On 13 December 2025, he featured in his 300th Bundesliga match with Hoffenheim in a 4–1 victory over [[Hamburger SV|Hamburg]], becoming the fourth foreign player to achieve this feat with a single club after [[Dedé (footballer, born 1978)|Dedé]], [[Steve Cherundolo]] and [[Zvonimir Soldo]].<ref>{{cite web |url=https://onefootball.com/en/news/andrej-kramaric-reflects-on-300th-bundesliga-appearance-and-status-as-the-tsg-goat-42092924 |title=Andrej Kramaric reflects on 300th Bundesliga appearance and status as the 'TSG GOAT' |publisher=OneFootball |date=13 December 2025 }}</ref><ref>{{cite web |url=https://www.tsg-hoffenheim.de/en/news/overview/2025/12/41-gegen-den-hsv-vierter-heimsieg-in-serie |title=4-1 against HSV: the fourth consecutive home win |publisher=TSG 1899 Hoffenheim |date=13 December 2025 }}</ref>
+
+==International career==
+===Youth===
+Kramarić was capped a total of 53 times for various Croatian youth teams and scored 22 goals in return. His first national team appearance came against [[Bavaria]] national team on 31 March 2005. He was then playing for the under-14 team and was capped a total of two times. Kramarić then started competing at the under-16 and [[Croatia national under-17 football team|under-17]] levels. He made a total of seven appearances in friendly matches for the under-16 team and scored four goals. For the under-17 team, he was capped 12 times and scored six goals. He also participated in all of under–17 team's qualifiers for the [[2008 UEFA European Under-17 Football Championship|2008 European U–17 Championship]]. At the under-18 level, Kramarić was capped nine times and scored three goals.<ref name=hns/>
+
+In 2008, he started playing for the [[Croatia national under-19 football team|under-19 team]], with whom he reached he semi-finals of the [[2010 UEFA European Under-19 Football Championship]]. He debuted and scored his first goal at under-21 level on 5 September 2009 in a [[2011 UEFA European Under-21 Football Championship qualification Group 7#Matches|European Championship]] qualifier against [[Norway national under-21 football team|Norway]], aged just 18 years and 81 days.<ref name=hns>{{Cite web|url=http://hns-cff.hr/players/14791/andrej-kramaric/utakmice/|title=Statistike – Nastupi: Andrej Kramarić|publisher=Croatian Football Federation|access-date=12 August 2010}}</ref><ref>{{cite news |date=7 September 2009 |title=Kramarić: Golom se zahvaljujem i izborniku Ladiću |url=http://www.nk-dinamo.hr/vijest/prikaz/1861/Default.aspx |url-status=dead |archive-url=https://web.archive.org/web/20090909091732/http://www.nk-dinamo.hr/vijest/prikaz/1861/default.aspx |archive-date=9 September 2009 |access-date=7 September 2009 |publisher=Dinamo Zagreb}}</ref>
+[[File:Andrej Kramaric 2.jpg|thumb|Kramarić playing for Croatia in 2018]]
+
+===Senior===
+On 20 August 2014, Kramarić received his first call-up for the Croatian senior squad under coach [[Niko Kovač]] for the friendly match against [[Cyprus national football team|Cyprus]] and [[UEFA Euro 2016 qualifying]] match against [[Maltese national football team|Malta]]. He made his debut for [[Croatia national football team|Croatia]] on 4 September 2014 in a friendly match against [[Cyprus national football team|Cyprus]] and provided an assist for [[Mario Mandžukić]] in 18th minute,<ref>{{cite web|title=Kramarić je igrao kao "Novi Eduardo", a Halilović pokazao da je klasa i egoist|url=http://www.index.hr/sport/clanak/kramaric-je-igrao-kao-novi-eduardo-a-halilovic-pokazao-da-je-klasa-i-egoist/769516.aspx|website=index.hr|access-date=5 September 2014|language=hr}}</ref> receiving positive reviews from both critics and national team coach for his debut performance.<ref>{{Cite news |title=Niko Kovač: Kramarić me podsjetio na Šukera |url=http://www.vecernji.hr/nogomet/niko-kovac-kramaric-me-podsjetio-na-sukera-959257 |access-date=10 September 2014 |publisher=Večernji list |language=hr}}</ref><ref>{{cite web|title=Andrej Kramarić oduševio u debiju: "Ovo je tek početak!"|url=http://www.index.hr/sport/clanak/kramaric-odusevio-u-debiju-ovo-je-tek-pocetak/769642.aspx|website=index.hr|date=5 September 2014|language=hr}}</ref> Kramarić scored his first goal for Croatia in his competitive debut in the qualifying match against Malta.<ref>{{Cite web|title=Birthday boy Modrić scores as Croatia sink 10-man Malta|url=https://www.sbs.com.au/news/article/birthday-boy-modric-scores-as-croatia-sink-10-man-malta/nfewpqh62|website=[[SBS World News]]|date=10 September 2014|access-date=11 April 2025|via=[[Reuters]]}}</ref> He scored his second goal against [[Azerbaijan national football team|Azerbaijan]] on 13 October 2014.<ref>{{cite web|first=Elvir|last=Islamović|title=Croatia beat Azerbaijan for third straight win|url=https://www.uefa.com/european-qualifiers/news/0253-0d7f8ee4deee-db45e9fbd6f8-1000--croatia-beat-azerbaijan-for-third-straight-win/|publisher=[[UEFA]]|date=13 October 2014|access-date=27 November 2014}}</ref>
+
+On 9 October 2017, Kramarić scored two goals in a crucial [[2018 FIFA World Cup qualification – UEFA Group I|2018 FIFA World Cup qualifier]] against [[Ukraine national football team|Ukraine]], securing Croatia's qualification to [[2018 FIFA World Cup qualification – UEFA second round|playoffs]].<ref>{{cite web|url=https://www.uefa.com/european-qualifiers/match/2017855--ukraine-vs-croatia/|title=Ukraine 0–2 Croatia|publisher=UEFA|date=10 October 2017|access-date=12 October 2017}}</ref> On 4 June 2018, he was included in Croatia's final [[2018 FIFA World Cup squads#Croatia|World Cup squad]].<ref>{{cite web |url=http://hns-cff.hr/news/18140/izbornik-dalic-potvrdio-konacan-popis-putnika-za-sp/ |title=Izbornik Dalić potvrdio konačan popis putnika za SP|publisher=[[Croatian Football Federation]]|date=4 June 2018|access-date=5 June 2018|language=hr}}</ref> On 7 July, in the [[2018 FIFA World Cup]] [[2018 FIFA World Cup knockout stage#Russia vs Croatia|quarter-final]] match against hosts [[Russia national football team|Russia]], he scored Croatia's equaliser in the first half of regulation time. A 1–1 draw after 90 minutes saw the match go into extra-time, and following a 2–2 draw after 120 minutes of play, Croatia once again progressed to the next round in the ensuing shoot-out, winning 4–3 on penalties.<ref>{{Cite news|first=Patrick|last=Jennings|title=Croatia knock out Russia on penalties|url=https://www.bbc.com/sport/football/44665444|website=[[BBC Sport]]|publisher=[[BBC]]|date=7 July 2018}}</ref> He would later come on as a substitute in the [[2018 FIFA World Cup final|final]], where Croatia was defeated by [[France national football team|France]] 4–2.<ref>{{Cite web|title=France 4-2 Croatia {{!}} Final Score |url=https://www.espn.com/soccer/match/_/gameId/498139|website=[[ESPN]]|date=15 July 2018|access-date=2 January 2024}}</ref>
+
+In the [[2022 FIFA World Cup]], Kramarić scored twice in a 4–1 victory against [[Canada men's national soccer team|Canada]] in the group stage,<ref>{{Cite news|title=World Cup 2022 {{!}} Croatia 4-1 Canada: Andrej Kramarić double sees Canadians crash out of tournament|url=https://www.skysports.com/football/news/12098/12755151/world-cup-2022-croatia-4-1-canada-andrej-kramaric-double-sees-canadians-crash-out-of-world-cup|website=[[Sky Sports]]|date=28 November 2022|access-date=3 June 2024}}</ref> as Croatia reached the semifinals and finished third.<ref>{{Cite news|title=World Cup 2022: Croatia comes in third, Morocco leaves Qatar standing tall|url=https://www.lemonde.fr/en/football/article/2022/12/18/world-cup-2022-croatia-in-third-place-revels-morocco-leaves-qatar-standing-tall_6008160_130.html|website=[[Le Monde]]|date=18 December 2022|access-date=2 January 2024}}</ref> He would later be part of the Croatia squad that finished runners up in the [[2022–23 UEFA Nations League]].<ref>{{Cite web|title=Croatia {{!}} Squad {{!}} UEFA Nations League|url=https://www.uefa.com/uefanationsleague/teams/56370--croatia/squad/|website=[[UEFA]]|access-date=2 January 2024}}</ref> In the [[UEFA Euro 2024]], he netted a goal in a 2–2 draw against [[Albania national football team|Albania]], becoming the third player to score in the tournament on his birthday following [[Jean-François Domergue]] in 1984 and [[Wesley Sneijder]] in 2008.<ref>{{cite web |url=https://onefootball.com/en/news/croatias-andrej-kramaric-joins-exclusive-euros-club-with-albania-goal-39648345 |title=Croatia's Andrej Kramarić joins exclusive Euros club with Albania goal|website=OneFootball|publisher=|date=19 June 2024 }}</ref>
+
+On 15 October 2024, he featured in his 100th international match for his nation in a 3–3 away draw with [[Poland national football team|Poland]] during the [[2024–25 UEFA Nations League|UEFA Nations League]].<ref>{{cite web |url=https://hns.family/en/news/28499/andrej-kramaric-obiljezio-100-nastup-za-vatrene/ |title=Andrej Kramarić obilježio 100. nastup za Vatrene |publisher=Croatian Football Federation |language=hr |date=15 October 2024 }}</ref>
+
+==Style of play==
+Kramarić has been described as versatile striker who is mobile enough to run behind defences and rather than waiting for crosses or ball to come to him, tends to run towards the ball, engulfing his opposition with an air of unpredictability about his play. Although naturally a lone [[Forward (association football)#Striker|striker]], his versatility makes him able to play well as a [[Forward (association football)#Winger|winger]] or second striker.<ref>{{cite web|url=http://www.sportskeeda.com/football/andrej-kramaric-croatian-starlet-gone-unnoticed-in-january-transfer-window|title=Andrej Kramaric: Croatian starlet gone unnoticed in January transfer window|publisher=Sportskeeda|access-date=8 February 2013}}</ref> His former national team coach Niko Kovač compared him with legendary Croatian striker [[Davor Šuker]].<ref>{{cite web|url=http://www.24sata.hr/nogomet/kovac-kramaric-me-podsjeca-na-mog-sefa-davora-sukera-382866|title=Kovač: Kramarić me podsjeća na mog šefa, Davora Šukera...|publisher=24sata|access-date=5 September 2014}}</ref> In May 2021, his former Hoffenheim coach [[Julian Nagelsmann]] named him the best player he had ever worked with.<ref>{{Cite web|last=Posavec|first=Hrvoje|date=26 May 2021|title=Nagelsmann: 'Kramarić je najbolji igrač s kojim sam radio, odličan primjer pravog razvoja'|url=https://telesport.telegram.hr/na-prvu/nagelsmann-kramaric-je-najbolji-igrac-s-kojim-sam-radio-odlican-primjer-pravog-razvoja/|url-status=live|access-date=26 May 2021|website=Telesport|language=hr|archive-url=https://web.archive.org/web/20210526162332/https://telesport.telegram.hr/na-prvu/nagelsmann-kramaric-je-najbolji-igrac-s-kojim-sam-radio-odlican-primjer-pravog-razvoja/ |archive-date=26 May 2021 }}</ref>
+
+==Personal life==
+He has been reported gifting sports equipment to the elementary school in [[Bednja, Varaždin County|Bednja]], and held a flag displaying its name at the 2018 World Cup, during post-match celebrations.<ref>{{Cite web |date=2018-07-12 |title=FOTO: Jeste li znali? Varaždin ima Zlatka Dalića, a Bednja - Andreja Kramarića! |url=https://evarazdin.hr/nasim-krajem/foto-jeste-li-znali-varazdin-ima-zlatka-dalica-a-bednja-andreja-kramarica-371396/ |access-date=2025-06-09 |website=evarazdin.hr |language=hr}}</ref><ref name="24sata.hr"/>
+
+On 31 March 2021, Kramarić married Mia Ćurković in a private ceremony at the [[Old City Hall (Zagreb)|Old City Hall]] in [[Gornji Grad–Medveščak|Zagreb Upper Town]].<ref>{{Cite web|date=31 March 2021|title=Pogledajte fotografije s vjenčanja: Nakon četiri godine veze Andrej Kramarić oženio se s Mijom Ćurković|url=https://sportske.jutarnji.hr/sn/nogomet/nogomet-mix/pogledajte-fotografije-s-vjencanja-nakon-cetiri-godine-veze-andrej-kramaric-ozenio-se-s-mijom-curkovic-15062354|url-status=live|access-date=31 March 2021|website=Sportske novosti|language=hr-hr|archive-url=https://web.archive.org/web/20210331183840/https://sportske.jutarnji.hr/sn/nogomet/nogomet-mix/pogledajte-fotografije-s-vjencanja-nakon-cetiri-godine-veze-andrej-kramaric-ozenio-se-s-mijom-curkovic-15062354 |archive-date=31 March 2021 }}</ref> In late August 2021, they became the parents of a son they named Viktor.<ref>{{Cite web|last=M. S.|date=24 December 2021|title=Kramarić se javio s odmora i prvi put pokazao sinčića Viktora, a poglede je ukrala i njegova prezgodna supruga!|url=https://dnevnik.hr/showbuzz/celebrity/andrej-kramaric-objavio-fotografiju-iz-dubaija-sa-suprugom-mijom-i-sinom-viktorom---689644.html|url-status=live|access-date=24 December 2021|website=Dnevnik.hr|language=hr|archive-url=https://web.archive.org/web/20211224091422/https://dnevnik.hr/showbuzz/celebrity/andrej-kramaric-objavio-fotografiju-iz-dubaija-sa-suprugom-mijom-i-sinom-viktorom---689644.html |archive-date=24 December 2021 }}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 16 May 2026}}<ref>{{cite web|url=https://int.soccerway.com/players/andrej-kramari/83992/ |title=A. Kramarić |website=Soccerway |access-date=17 September 2023}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup{{efn|Includes [[Croatian Football Cup|Croatian Cup]], [[FA Cup]] and [[DFB-Pokal]]}}
+!colspan="2"|League cup{{efn|Includes [[EFL Cup]]}}
+!colspan="2"|Europe
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="6"|[[GNK Dinamo Zagreb|Dinamo Zagreb]]
+|[[2008–09 NK Dinamo Zagreb season|2008–09]]
+|[[Croatian First Football League|Prva HNL]]
+|1||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||1||0
+|-
+|[[2009–10 NK Dinamo Zagreb season|2009–10]]
+|Prva HNL
+|24||7||5||4||colspan="2"|—||5<ref group="lower-alpha" >Two appearances in [[UEFA Champions League]], three appearances in [[UEFA Europa League]]</ref>||0||colspan="2"|—||34||11
+|-
+|[[2010–11 GNK Dinamo Zagreb season|2010–11]]
+|Prva HNL
+|12||1||3||4||colspan="2"|—||2<ref group="lower-alpha" name="UEL">Appearance(s) in UEFA Europa League</ref>||0||colspan="2"|—||17||5
+|-
+|[[2011–12 GNK Dinamo Zagreb season|2011–12]]
+|Prva HNL
+|1||0||2||1||colspan="2"|—||colspan="2"|—||colspan="2"|—||3||1
+|-
+|[[2013–14 GNK Dinamo Zagreb season|2013–14]]
+|Prva HNL
+|4||2||colspan="2"|—||colspan="2"|—||3<ref group="lower-alpha" name="UCL">Appearance(s) in UEFA Champions League</ref>||1||1<ref group="lower-alpha" name="CSC">Appearance in [[Croatian Football Super Cup|Croatian Super Cup]]</ref>||0||8||3
+|-
+!colspan="2"|Total
+!42!!10!!10!!9!!colspan="2"|—!!10!!1!!1!!0!!63!!20
+|-
+|rowspan="3"|[[NK Lokomotiva Zagreb|Lokomotiva Zagreb]] (loan)
+|[[2011–12 Croatian First Football League|2011–12]]
+|Prva HNL
+|13||5||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||13||5
+|-
+|[[2012–13 Croatian First Football League|2012–13]]
+|Prva HNL
+|31||15||6||4||colspan="2"|—||colspan="2"|—||colspan="2"|—||37||19
+|-
+!colspan="2"|Total
+!44!!20!!6!!4!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!50!!24
+|-
+|rowspan="3"|[[HNK Rijeka|Rijeka]]
+|[[2013–14 HNK Rijeka season|2013–14]]
+|Prva HNL
+|24||16||6||10||colspan="2"|—||4<ref group="lower-alpha" name="UEL"/>||1||colspan="2"|—||34||27
+|-
+|[[2014–15 HNK Rijeka season|2014–15]]
+|Prva HNL
+|18||21||colspan="2"|—||colspan="2"|—||12<ref group="lower-alpha" name="UEL"/>||7||1<ref group="lower-alpha" name="CSC"/>||0||31||28
+|-
+!colspan="2"|Total
+!42!!37!!6!!10!!colspan="2"|—!!16!!8!!1!!0!!65!!55
+|-
+|rowspan="3"|[[Leicester City F.C.|Leicester City]]
+|[[2014–15 Leicester City F.C. season|2014–15]]
+|[[Premier League]]
+|13||2||2||1||colspan="2"|—||colspan="2"|—||colspan="2"|—||15||3
+|-
+|[[2015–16 Leicester City F.C. season|2015–16]]
+|Premier League
+|2||0||colspan="2"|—||3||1||colspan="2"|—||colspan="2"|—||5||1
+|-
+!colspan="2"|Total
+!15!!2!!2!!1!!3!!1!!colspan="2"|—!!colspan="2"|—!!20!!4
+|-
+|[[TSG 1899 Hoffenheim|TSG Hoffenheim]] (loan)
+|[[2015–16 TSG 1899 Hoffenheim season|2015–16]]
+|[[Bundesliga]]
+|15||5||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||15||5
+|-
+|rowspan="11"|TSG Hoffenheim
+|[[2016–17 TSG 1899 Hoffenheim season|2016–17]]
+|Bundesliga
+|34||15||2||3||colspan="2"|—||colspan="2"|—||colspan="2"|—||36||18
+|-
+|[[2017–18 TSG 1899 Hoffenheim season|2017–18]]
+|Bundesliga
+|34||13||2||0||colspan="2"|—||6<ref group="lower-alpha" >Two appearances in UEFA Champions League, four appearances in UEFA Europa League</ref>||0||colspan="2"|—||42||13
+|-
+|[[2018–19 TSG 1899 Hoffenheim season|2018–19]]
+|Bundesliga
+|30||17||1||0||colspan="2"|—||6<ref group="lower-alpha" name="UCL"/>||5||colspan="2"|—||37||22
+|-
+|[[2019–20 TSG 1899 Hoffenheim season|2019–20]]
+|Bundesliga
+|19||12||1||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||20||12
+|-
+|[[2020–21 TSG 1899 Hoffenheim season|2020–21]]
+|Bundesliga
+|28||20||2||3||colspan="2"|—||4<ref group="lower-alpha" name="UEL"/>||2||colspan="2"|—||34||25
+|-
+|[[2021–22 TSG 1899 Hoffenheim season|2021–22]]
+|Bundesliga
+|32||6||3||2||colspan="2"|—||colspan="2"|—||colspan="2"|—||35||8
+|-
+|[[2022–23 TSG 1899 Hoffenheim season|2022–23]]
+|Bundesliga
+|32||12||2||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||34||12
+|-
+|[[2023–24 TSG 1899 Hoffenheim season|2023–24]]
+|Bundesliga
+|30||15||1||2||colspan="2"|—||colspan="2"|—||colspan="2"|—||31||17
+|-
+|[[2024–25 TSG 1899 Hoffenheim season|2024–25]]
+|Bundesliga
+|32||11||3||0||colspan="2"|—||6<ref group="lower-alpha" name="UEL"/>||0||colspan="2"|—||41||11
+|-
+|[[2025–26 TSG 1899 Hoffenheim season|2025–26]]
+|Bundesliga
+|34||14||2||1||colspan="2"|—||colspan="2"|—||colspan="2"|—||36||15
+|-
+!colspan="2"|Hoffenheim total
+!320!!140!!19!!11!!colspan="2"|—!!22!!7!!colspan="2"|—!!361!!158
+|-
+!colspan="3"|Career total
+!463!!209!!43!!35!!3!!1!!48!!16!!2!!0!!559!!261
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 2 June 2026}}<ref name=hns/>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="13"|[[Croatia national football team|Croatia]]
+|2014||4||2
+|-
+|2015||5||1
+|-
+|2016||10||2
+|-
+|2017||8||3
+|-
+|2018||15||4
+|-
+|2019||4||1
+|-
+|2020||4||1
+|-
+|2021||15||2
+|-
+|2022||16||6
+|-
+|2023||8||5
+|-
+|2024||13||3
+|-
+|2025||10||6
+|-
+|2026||3||0
+|-
+!colspan="2"|Total!!115!!36
+|}
+
+:''Croatia's score listed first, score column indicates score after each Kramarić goal.''<ref name=hns/>
+
+{| class="wikitable sortable"
+|+ List of international goals scored by Andrej Kramarić
+!scope=col|No.
+!scope=col data-sort-type=date|Date
+!scope=col|Venue
+!scope=col|Cap
+!scope=col|Opponent
+!scope=col|Score
+!scope=col|Result
+!scope=col|Competition
+|-
+!scope=row|1
+|9 September 2014||[[Stadion Maksimir]], [[Zagreb]], Croatia||align=center|2||{{fb|MLT}}||{{center|'''2'''–0}}||{{center|2–0}}||rowspan=2|[[UEFA Euro 2016 qualifying Group H|UEFA Euro 2016 qualifying]]
+|-
+!scope=row|2
+|13 October 2014||[[Gradski Vrt Stadium]], [[Osijek]], Croatia||align=center|3||{{fb|AZE}}||{{center|'''1'''–0}}||{{center|6–0}}
+|-
+!scope=row|3
+|7 June 2015||[[Stadion Varteks]], [[Varaždin]], Croatia||align=center|6||{{fb|GIB}}||{{center|'''4'''–0}}||{{center|4–0}}||rowspan=3|[[Exhibition game#Association football|Friendly]]
+|-
+!scope=row|4
+|27 May 2016||[[Gradski stadion (Koprivnica)|Stadion Koprivnica]], [[Koprivnica]], Croatia||align=center|10||{{fb|MDA}}||{{center|'''1'''–0}}||{{center|1–0}}
+|-
+!scope=row|5
+|15 November 2016||[[Windsor Park]], [[Belfast]], Northern Ireland||align=center|18||{{fb|NIR}}||{{center|'''3'''–0}}||{{center|3–0}}
+|-
+!scope=row|6
+|rowspan=2 |9 October 2017||rowspan=2 | [[Olimpiyskyi National Sports Complex|Olympic Stadium]], [[Kyiv]], Ukraine||rowspan=2 align=center|25||rowspan=2 | {{fb|UKR}}||{{center|'''1'''–0}}||rowspan=2 style="text-align:center;" | 2–0||rowspan=3| [[2018 FIFA World Cup qualification – UEFA Group I|2018 FIFA World Cup qualification]]
+|-
+!scope=row|7
+|{{center|'''2'''–0}}
+|-
+!scope=row|8
+|9 November 2017||Stadion Maksimir, Zagreb, Croatia||align=center|26||{{fb|GRE}}||{{center|'''4'''–1}}||{{center|4–1}}
+|-
+!scope=row|9
+|8 June 2018|| Gradski Vrt Stadium, Osijek, Croatia||align=center|31||{{fb|SEN}}||{{center|'''2'''–1}}||{{center|2–1}}||Friendly
+|-
+!scope=row|10
+|7 July 2018|| [[Fisht Olympic Stadium]], [[Sochi]], Russia||align=center|36||{{fb|RUS}}||{{center|'''1'''–1}}||{{center|2–2 {{aet}}}}||[[2018 FIFA World Cup knockout stage#Quarter-finals|2018 FIFA World Cup]]
+|-
+!scope=row|11
+|15 November 2018||Stadion Maksimir, Zagreb, Croatia||align=center|41||{{fb|ESP}}||{{center|'''1'''–0}}||{{center|3–2}}||rowspan=2|[[2018–19 UEFA Nations League A#Group 4|2018–19 UEFA Nations League A]]
+|-
+!scope=row|12
+|18 November 2018||[[Wembley Stadium]], [[London]], England||align=center|42||{{fb|ENG}}||{{center|'''1'''–0}}||{{center|1–2}}
+|-
+!scope=row|13
+|21 March 2019||rowspan=2| Stadion Maksimir, Zagreb, Croatia||align=center|43||{{fb|AZE}}||{{center|'''2'''–1}}||{{center|2–1}}||[[UEFA Euro 2020 qualifying Group E|UEFA Euro 2020 qualifying]]
+|-
+!scope=row|14
+|11 October 2020||align=center|49||{{fb|SWE}}||{{center|'''2'''–1}}||{{center|2–1}}||[[2020–21 UEFA Nations League A#Group 3|2020–21 UEFA Nations League A]]
+|-
+!scope=row|15
+|11 October 2021||Gradski Vrt Stadium, Osijek, Croatia||align=center|63||{{fb|SVK}}||{{center|'''1'''–1}}||{{center|2–2}}||rowspan="2"|[[2022 FIFA World Cup qualification – UEFA Group H|2022 FIFA World Cup qualification]]
+|-
+!scope=row|16
+|11 November 2021||[[National Stadium, Ta' Qali|National Stadium]], [[Ta' Qali]], Malta||align=center|64||{{fb|MLT}}||{{center|'''6'''–1}}||{{center|7–1}}
+|-
+!scope=row|17
+|26 March 2022|| rowspan="2"|[[Education City Stadium]], [[Al Rayyan (city)|Al Rayyan]], Qatar||align=center|66||{{fb|SVN}}||{{center|'''1'''–0}}||{{center|1–1}}||rowspan="2"|Friendly
+|-
+!scope=row|18
+|29 March 2022|| align=center|67||{{fb|BUL}}||{{center|'''2'''–1}}||{{center|2–1}}
+|-
+!scope=row|19
+|6 June 2022||[[Stadion Poljud]], [[Split, Croatia|Split]], Croatia||align=center|69||{{fb|FRA}}||{{center|'''1'''–1}}||{{center|1–1}}||[[2022–23 UEFA Nations League A#Group 1|2022–23 UEFA Nations League A]]
+|-
+!scope=row|20
+|16 November 2022||[[Prince Faisal bin Fahd Stadium]], [[Riyadh]], Saudi Arabia||align=center|74||{{fb|KSA}}||{{center|'''1'''–0}}||{{center|1–0}}||Friendly
+|-
+!scope=row|21
+|rowspan=2|27 November 2022||rowspan=2|[[Khalifa International Stadium]], Al Rayyan, Qatar||rowspan=2 align=center|76||rowspan=2|{{fb|CAN}}||{{center|'''1'''–1}}||rowspan=2|{{center|4–1}}||rowspan=2|[[2022 FIFA World Cup Group F|2022 FIFA World Cup]]
+|-
+!scope=row|22
+|{{center|'''3'''–1}}
+|-
+!scope=row|23
+|25 March 2023||Stadion Poljud, Split, Croatia||align=center|82||{{fb|WAL}}||{{center|'''1'''–0}}||{{center|1–1}}||[[UEFA Euro 2024 qualifying Group D|UEFA Euro 2024 qualifying]]
+|-
+!scope=row|24
+|14 June 2023||[[De Kuip]], [[Rotterdam]], Netherlands ||align=center|84||{{fb|NED}}||{{center|'''1'''–1}}||{{center|4–2 {{aet}}}}||[[2023 UEFA Nations League Finals]]
+|-
+!scope=row|25
+|8 September 2023||[[Stadion Rujevica]], [[Rijeka]], Croatia ||align=center|86||{{fb|LVA}}||{{center|'''4'''–0}}||{{center|5–0}}||rowspan="3"|UEFA Euro 2024 qualifying
+|-
+!scope=row|26
+|11 September 2023||[[Vazgen Sargsyan Republican Stadium]], [[Yerevan]], Armenia ||align=center|87||{{fb|ARM}}||{{center|'''1'''–0}}||{{center|1–0}}
+|-
+!scope=row|27
+|17 November 2023||[[Skonto Stadium|Skonto]], [[Riga]], Latvia||align=center|88||{{fb|LVA}}||{{center|'''2'''–0}}|| {{center|2–0}}
+|-
+!scope=row|28
+|26 March 2024|| [[Misr Stadium]], [[New Administrative Capital|New Capital]], Egypt||align="center" |91||{{fb|EGY}}||{{center|'''3'''–1}}||{{center|4–2}}||[[2024 FIFA Series]]
+|-
+!scope=row|29
+|19 June 2024|| [[Volksparkstadion]], [[Hamburg]], Germany||align=center|95||{{fb|ALB}}||{{center|'''1'''–1}}||{{center|2–2}}||[[UEFA Euro 2024 Group B|UEFA Euro 2024]]
+|-
+!scope=row|30
+|12 October 2024|| [[Stadion Maksimir]], Zagreb, Croatia||align=center|99||{{fb|SCO}}||{{center|'''2'''–1}}||{{center|2–1}}||[[2024–25 UEFA Nations League A]]
+|-
+!scope=row|31
+|rowspan=2|6 June 2025||rowspan=2|[[Estádio Algarve]], [[Faro, Portugal|Faro]]/[[Loulé]], Portugal||rowspan=2 align=center|105||rowspan=2|{{fb|GIB}}||{{center|'''6'''–0}}||rowspan=2 align=center|7–0|| rowspan="6" |[[2026 FIFA World Cup qualification – UEFA Group L|2026 FIFA World Cup qualification]]
+|-
+!scope=row|32
+|{{center|'''7'''–0}}
+|-
+!scope=row|33
+|rowspan=2|9 June 2025||rowspan=2|[[Opus Arena]], Osijek, Croatia||rowspan=2 align=center|106||rowspan=2|{{fb|CZE}}||{{center|'''1'''–0}}||rowspan=2 align=center|5–1
+|-
+!scope=row|34
+|{{center|'''5'''–1}}
+|-
+!scope=row|35
+|5 September 2025|| [[Tórsvøllur]], [[Tórshavn]], Faroe Islands||align=center|107||{{fb|FRO}}||{{center|'''1'''–0}}||{{center|1–0}}
+|-
+!36
+|8 September 2025
+|Stadion Maksimir, Zagreb, Croatia
+| align="center" |108
+|{{Fb|Montenegro}}
+|{{center|'''2'''–0}}
+|{{center|4–0}}
+|}
+
+==Honours==
+'''Dinamo Zagreb'''<ref name="Soccerway">{{cite web | url = https://int.soccerway.com/players/andrej-kramari/83992/ | title = A. Kramarić | publisher = Soccerway | access-date = 6 January 2015}}</ref>
+*[[Croatian First Football League|Prva HNL]]: [[2009–10 Prva HNL|2009–10]], [[2010–11 Prva HNL|2010–11]]
+*[[Croatian Football Cup|Croatian Cup]]: [[2010–11 Croatian Cup|2010–11]]
+*[[Croatian Football Super Cup|Croatian Super Cup]]: [[2013 Croatian Football Super Cup|2013]]
+
+'''Rijeka'''<ref name="Soccerway" />
+*Croatian Cup: [[2013–14 Croatian Football Cup|2013–14]]
+*Croatian Super Cup: [[2014 Croatian Football Super Cup|2014]]
+
+'''Croatia'''
+*[[FIFA World Cup]] runner-up: [[2018 FIFA World Cup|2018]];<ref>{{cite web|url=https://www.bbc.com/sport/football/44754965|title=France 4–2 Croatia|publisher=BBC |date=15 July 2018|access-date=15 July 2018|last=McNulty|first=Phil}}</ref> third place: [[2022 FIFA World Cup|2022]]<ref>{{Cite web |last=Smyth |first=Rob |date=17 December 2022 |title=Croatia 2-1 Morocco: World Cup 2022 third-place playoff – as it happened |url=https://www.theguardian.com/football/live/2022/dec/17/croatia-morocco-world-cup-2022-third-place-playoff-live-score-updates |access-date=17 December 2022 |website=the Guardian}}</ref>
+* [[UEFA Nations League]] runner-up: [[2022–23 UEFA Nations League|2022–23]]
+
+'''Individual'''
+*[[Prva HNL Player of the Year (Tportal)|Prva HNL Player of the Year]]: 2014<ref>{{cite news|url= http://www.tportal.hr/sport/prvaliga/362735/Kramaric-nogometas-godine-MAXtv-Prve-lige.html|title=Kramarić nogometaš godine MAXtv Prve lige!|date=16 December 2014|publisher=Tportal|access-date=6 January 2015}}</ref>
+*[[Football Oscar]] Team of the Year: 2013, 2014
+*[[Ivica Kurtini|Ivica Jobo Kurtini Award]]: 2014<ref>{{cite web|url=http://hns-cff.hr/news/7406/andrej-kramaric-najbolji-po-izboru-kapetana/|title= NAPADAČ RIJEKE DOBIO I PLES DELFINA ANDREJ KRAMARIĆ NAJBOLJI PO IZBORU KAPETANA|date=13 December 2012|publisher=[[Croatian Football Federation|HNS]]|language=hr}}</ref>
+*[[Croatian First Football League|Prva HNL]] Top goalscorer: [[2014–15 Prva HNL|2014–15]]
+*[[Croatian Football Cup|Croatian Cup]] Top goalscorer: [[2013–14 Croatian Football Cup|2013–14]]
+*[[TSG 1899 Hoffenheim|Hoffenheim]] Player of the Season: [[2016–17 TSG 1899 Hoffenheim season|2016–17]]
+*[[Honorary citizenship|Honorary citizen]] of [[Bednja, Varaždin County|Bednja]] (2019)<ref>{{Cite web |title=Kramarić imenovan počasnim građaninom Bednje |url=https://www.vecernji.hr/sport/kramaric-imenovan-pocasnim-gra-aninom-bednje-1318630 |access-date=2026-05-23 |website=www.vecernji.hr |language=hr}}</ref><ref>{{Cite web |title=Općina Bednja - Održana je svečana sjednica Općinskog vijeća Bednje: Andrej Kramarić proglašen počasnim građaninom Bednje |url=https://bednja.hr/clanak/odrzana-je-svecana-sjednica-opcinskog-vijeca-bednje-andrej-kramaric-proglasen-pocasnim-gradaninom-bednje-372 |access-date=2026-05-23 |website=bednja.hr}}</ref>
+*[[Bundesliga]] Player of the Month: [[2020–21 Bundesliga#Monthly awards|September 2020]]<ref>{{cite news|url=https://www.croatiaweek.com/croatia-striker-andrej-kramaric-named-bundesliga-player-of-the-month/|title=Croatia striker Andrej Kramarić named Bundesliga Player of the Month|date=17 October 2020|access-date=19 October 2020|publisher=Croatia Week}}</ref>
+
+'''Orders'''
+*[[File:Order of Prince Branimir.jpg|40px]] [[Order of Duke Branimir]]: 2018<ref>{{cite web|url=http://predsjednica.hr/objava/1/1/2707|title=News: President Decorates Croatian National Football Team Players and Coaching Staff|date=13 November 2018|publisher=Office of the President of the Republic of Croatia|access-date=11 January 2019|quote=the Order of Prince Branimir with Ribbon was awarded to Mr. Andrej Kramarić...|archive-url=https://web.archive.org/web/20190409171628/http://predsjednica.hr/objava/1/1/2707|archive-date=9 April 2019|url-status=dead}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+* {{sports links}}
+
+{{TSG 1899 Hoffenheim squad}}
+{{Navboxes
+| title = Croatia squads
+| bg = white
+| fg = #171796
+| bordercolor = red
+| list1 = 
+{{Croatia squad UEFA Euro 2016}}
+{{Croatia squad 2018 FIFA World Cup}}
+{{Croatia squad UEFA Euro 2020}}
+{{Croatia squad 2022 FIFA World Cup}}
+{{Croatia squad UEFA Euro 2024}}
+{{Croatia squad 2026 FIFA World Cup}}
+}}
+{{Navboxes
+| title = Awards
+| bg = gold
+| list1 = 
+{{2017–18 kicker Bundesliga Team of the Season}}
+{{Croatian First Football League top scorers}}
+{{Tportal Prva HNL Player of the Year}}
+}}
+{{Authority control}}
+
+{{DEFAULTSORT:Kramaric, Andrej}}
+[[Category:1991 births]]
+[[Category:Living people]]
+[[Category:Footballers from Zagreb]]
+[[Category:Men's association football forwards]]
+[[Category:Croatian men's footballers]]
+[[Category:21st-century Croatian sportsmen]]
+[[Category:Croatia men's youth international footballers]]
+[[Category:Croatia men's under-21 international footballers]]
+[[Category:Croatia men's international footballers]]
+[[Category:UEFA Euro 2016 players]]
+[[Category:2018 FIFA World Cup players]]
+[[Category:UEFA Euro 2020 players]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:UEFA Euro 2024 players]]
+[[Category:2026 FIFA World Cup players]]
+[[Category:FIFA Men's Century Club]]
+[[Category:GNK Dinamo Zagreb players]]
+[[Category:NK Lokomotiva Zagreb players]]
+[[Category:HNK Rijeka players]]
+[[Category:Leicester City F.C. players]]
+[[Category:TSG 1899 Hoffenheim players]]
+[[Category:Croatian Football League players]]
+[[Category:Premier League players]]
+[[Category:Bundesliga players]]
+[[Category:Croatian expatriate men's footballers]]
+[[Category:Expatriate men's footballers in England]]
+[[Category:Croatian expatriate sportspeople in England]]
+[[Category:Expatriate men's footballers in Germany]]
+[[Category:Croatian expatriate sportspeople in Germany]]

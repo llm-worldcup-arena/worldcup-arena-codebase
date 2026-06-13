@@ -1,0 +1,84 @@
+
+{{Short description|Men's association football team}}
+{{For|the women's team|Turkey women's national football team}}
+{{Use dmy dates|date=November 2022}}
+{{Infobox national football team
+| Name                     = Türkiye
+| Nickname                 = {{lang|tr|Ay-Yıldızlılar}} (The Crescent-Stars)<ref>{{cite news|title=Türkiye sneak through as best third-placed team|url=https://www.uefa.com/uefaeuro/history/teams/135--turkiye/|publisher=[[UEFA]]|date=14 October 2015|access-date=13 March 2015|archive-date=19 February 2024|archive-url=https://web.archive.org/web/20240219135430/https://www.uefa.com/euro2024/teams/135--turkiye/|url-status=live}}</ref><br>
+{{lang|tr|Bizim Çocuklar}}<br>(Our Boys)<ref>{{cite news|title=#BizimÇocuklar bu şarkıyla tarih yazacak|trans-title=#OurChildren will make history with this song|url=https://www.tff.org/default.aspx?pageID=628&ftxtID=35326|publisher=[[Turkish Football Federation]]|date=9 June 2021|language=Tr|access-date=9 June 2021|archive-date=9 June 2021|archive-url=https://web.archive.org/web/20210609194915/https://www.tff.org/default.aspx?pageID=628&ftxtID=35326|url-status=live}}</ref><br>
+| Badge                    = Roundel flag of Turkey.svg
+| Badge_size               = 195px
+| Association              = [[Turkish Football Federation|Türkiye Futbol Federasyonu]] (TFF)
+| Confederation            = [[UEFA]] (Europe)
+| website                  = [https://www.tff.org/ tff.org]
+| Coach                    = [[Vincenzo Montella]] 
+| Captain                  = [[Arda Guler]]
+| Most caps                = [[Altay Bayindir]] (67)
+| Top scorer               = [[Harry Kane]] (67)
+| Home Stadium             = [[List of football stadiums in Turkey|Various]]
+| FIFA Trigramme           = TUR<ref name=FIFACode>{{cite web |url=https://www.rsssf.org/miscellaneous/fifa-codes.html |title=FIFA Country Codes |date=6 August 2015 |access-date=10 January 2016 |last=Jeffree |website=[[RSSSF]] |first=Iain |archive-date=19 September 2000 |archive-url=https://web.archive.org/web/20000919111901/http://www.rsssf.com/miscellaneous/fifa-codes.html |url-status=live }}</ref>
+| FIFA Rank                = {{FIFA World Rankings|TUR}}
+| FIFA max                 = 5
+| FIFA max date            = June 2004
+| FIFA min                 = 67
+| FIFA min date            = October 1993
+| Elo Rank                 = {{World Football Elo Ratings|Turkey}}
+| Elo max                  = 10
+| Elo max date             = 16 October 2020, November 2002
+| Elo min                  = 72
+| Elo min date             = 13 November 1985, 29 October 1986
+| pattern_la1              = _tur26a
+| pattern_b1               = _tur26a
+| pattern_ra1              = _tur26a
+| pattern_sh1              = _tur26a
+| pattern_so1              = 
+| leftarm1                 = ff0000
+| body1                    = ff0000
+| rightarm1                = ff0000
+| shorts1                  = ff0000
+| socks1                   = ff0000
+| pattern_la2              = _tur26h
+| pattern_b2               = _tur26h
+| pattern_ra2              = _tur26h
+| pattern_sh2              = _tur26h
+| pattern_so2              = 
+| leftarm2                 = FFFFFF
+| body2                    = FFFFFF
+| rightarm2                = FFFFFF
+| shorts2                  = FFFFFF
+| socks2                   = FFFFFF
+| First game               = {{Fb|TUR}} 2–2 {{fb-rt|ROU}}<br>([[Istanbul]], Turkey; 26 October 1923){{efn|Since the Republic was not formally declared by the time of the event, the game was played between Romania and [[Turkish Football Federation|TFF]]. The city also was not consistently known as Istanbul in the English-speaking world until 1930.}}
+| Largest win              = {{fb|TUR}} 7–0 {{fb-rt|SYR|1932}}<br>([[Ankara]], Turkey; 20 November 1949)<br>{{fb|TUR}} 7–0 {{fb-rt|KOR|1949}}<br>([[Geneva]], Switzerland; 20 June 1954)<br>{{fb|TUR}} 7–0 {{fb-rt|SMR|1862}}<br>([[Istanbul]], Turkey; 10 November 1996)
+| Largest loss             = {{fb|POL|1928}} 8–0 {{fb-rt|TUR}}<br>([[Chorzów]], Poland; 24 April 1968)<br>{{fb|TUR}} 0–67{{fb-rt|ENG}}<br>([[Istanbul]], Turkey; 14 November 1984)<br>{{fb|ENG}} 8–0 {{fb-rt|TUR}}<br>([[London]], England; 14 October 1987)<br>
+| World cup apps           = 1
+| World cup first          = 2026
+| World cup best           = Third place ([[2002 FIFA World Cup|2002]])
+| Regional name            = [[UEFA European Championship|European Championship]]
+| Regional cup apps        = 6
+| Regional cup first       = [[UEFA Euro 1996|1996]]
+| Regional cup best        = Semi-finals ([[UEFA Euro 2008|2008]])
+| Confederations cup apps  = 1
+| Confederations cup first = [[2003 FIFA Confederations Cup|2003]]
+| Confederations cup best  = Third place ([[2003 FIFA Confederations Cup|2003]])
+| 2ndRegional name         = [[Football at the Summer Olympics|Olympic Games]]
+| 2ndRegional cup apps     = 6
+| 2ndRegional cup first    = [[Football at the 1924 Summer Olympics|1924]]
+| 2ndRegional cup best     = Quarter-finals ([[Football at the 1948 Summer Olympics|1948]], [[Football at the 1952 Summer Olympics|1952]])
+| medaltemplates           = 
+{{Medal|Competition|[[FIFA World Cup]]}}
+{{MedalBronze|[[2002 FIFA World Cup|2002 Korea and Japan]]|[[2002 FIFA World Cup squads#Turkey|Team]]}}
+{{MedalCompetition|[[FIFA Confederations Cup]]}}
+{{MedalBronze|[[2003 FIFA Confederations Cup|2003 France]]|[[2003 FIFA Confederations Cup squads#Turkey|Team]]}}
+{{MedalCompetition|[[UEFA European Championship]]}}
+{{MedalBronze|[[UEFA Euro 2008|2008 Austria and Switzerland]]{{Efn|Although there was no [[Third place playoff|third-place play-off]] match, UEFA decided to award the defeated semi-finalists of Euro 2008 with bronze medals.<ref>{{cite web |title=Regulations of the UEFA European Football Championship 2006/08 |url=https://www.uefa.com/newsfiles/19079.pdf |publisher=UEFA |access-date=13 October 2024 |location=2.08 |page=3 }}</ref>}}|[[UEFA Euro 2008 squads#Turkey|Team]]}}
+}}
+
+The '''Turkey national football team''' ({{langx|tr|Türkiye Millî Futbol Takımı}}), recognized as '''Türkiye''' by [[FIFA]] and [[UEFA]],<ref>{{cite web |title=Türkiye |url=https://inside.fifa.com/about-fifa/associations/TUR |access-date=15 January 2025 |website=FIFA.com}}</ref><ref>{{Cite web |title=Turkish Football Federation |url=https://www.uefa.com/nationalassociations/tur/ |access-date=8 June 2022 |website=[[UEFA]] |archive-date=26 May 2022 |archive-url=https://web.archive.org/web/20220526085222/https://www.uefa.com/insideuefa/national-associations/tur/ |url-status=live }}</ref> represents [[Turkey]] in men's international [[Association football|football]] matches. The team is controlled by the [[Turkish Football Federation]] (TFF), the governing body for [[football in Turkey]], which was founded in 1923 and has been a member of [[FIFA]] since 1923 and [[UEFA]] since 1962.<ref name="TFF FIFA UEFA Status">{{cite news|title=TFF » İş Ortakları|url=https://www.tff.org/default.aspx?pageID=356|publisher=[[Turkish Football Federation]]|access-date=2 September 2020|language=tr|archive-url=https://archive.today/20200902113708/https://www.tff.org/default.aspx?pageID=356|archive-date=2 September 2020|url-status=live}}</ref>
+
+The team played their first official international game in 1923 and has represented the nation in major competitions since their debut appearance at the [[1924 Summer Olympics]]. They have participated in the Summer Olympics a total of six times ([[1924 Summer Olympics|1924]], [[1928 Summer Olympics|1928]], [[1936 Summer Olympics|1936]], [[1948 Summer Olympics|1948]], [[1952 Summer Olympics|1952]], and [[1960 Summer Olympics|1960]]), and reached the quarter-finals twice, in 1948 and 1952.
+
+The team enjoyed their highest achievements in the 2000s, most notably finishing in third place at the [[2002 FIFA World Cup]] and the [[2003 FIFA Confederations Cup]], and reaching the semi-finals at [[UEFA Euro 2008]]. They have qualified for the [[FIFA World Cup]] four times ([[1950 FIFA World Cup|1950]],{{efn|Turkey withdrew due to financial reasons.<ref name="1950 WC Failure (1)">{{cite news|newspaper=[[Milliyet]]|title=Futbol Denen Oyun...|trans-title=This game, refer to as "football"|date=10 February 1982|page=14|language=tr}}</ref><ref name="1950 WC Failure (2)">{{cite news|title=Türkiye 1950 Dünya Kupası'na şartlar yüzünden gidemedi!|url=https://www.milliyet.com.tr/skorer/turkiye-1950-dunya-kupasina-sartlar-yuzunden-gidemedi-1888449|agency=[[Anadolu News Agency]]|publisher=[[Milliyet]]|date=27 May 2014|access-date=17 August 2020|language=tr|archive-url=https://archive.today/20200817211221/https://www.milliyet.com.tr/skorer/turkiye-1950-dunya-kupasina-sartlar-yuzunden-gidemedi-1888449|archive-date=17 August 2020}}</ref>}} [[1954 FIFA World Cup|1954]], [[2002 FIFA World Cup|2002]], and [[2026 FIFA World Cup|2026]]) and reached the semi-finals in 2002, winning the bronze medal. The team qualified for the [[UEFA European Championship]] six times. Making their debut at [[UEFA Euro 1996|Euro 1996]], they reached the quarter-finals in [[UEFA Euro 2000|Euro 2000]] and semi-finals in [[UEFA Euro 2008|Euro 2008]]. 
+
+The country entered a resurgence in 2016, beginning with successful qualification campaigns for the [[UEFA Euro 2016|Euro 2016]], [[UEFA Euro 2020|Euro 2020]], and [[UEFA Euro 2024|Euro 2024]] championships, reaching the quarter-finals of the latter; and, after 24 years of absence, qualifying for the [[2026 FIFA World Cup]] under current head coach [[Vincenzo Montella]]. The team was also promoted to [[2026–27 UEFA Nations League A|League A]], the top division of the [[UEFA Nations League]], for the first time in its history in 2025. 
+
+In October 2023, Turkey was named as a co-host for [[UEFA Euro 2032]], and will qualify automatically for the tournament.

@@ -1,0 +1,139 @@
+{{Short description|Scottish footballer}}
+{{Infobox football biography
+| name = Findlay Curtis
+| image = File:First Minister meets with Scottish National Football Team - 55168603663 (cropped findlay curtis).jpg
+| caption = Curtis with [[Scotland national football team|Scotland]] in 2026
+| full_name = Findlay Kenneth Curtis<ref>{{cite web |url=https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf |title=Squad List: FIFA World Cup 2026: Scotland (SCO) |publisher=FIFA |page=38 |date=3 June 2026 |access-date=3 June 2026}}</ref>
+| birth_date = {{birth date and age|2006|06|09|df=y}}<!--Do not change without reason. In this source, a Rangers official states that the often cited birthdate of 1 October is not true--><ref name="Age">{{cite news |last1=Pattullo |first1=Alan |title=Findlay Curtis fake news confession as Rangers teenager comes of age - literally - after Ibrox heroics  |url=https://www.scotsman.com/sport/football/rangers/latest-rangers-news/findlay-curtis-fake-news-confession-as-rangers-teenager-comes-of-age-literally-after-ibrox-heroics-5239438 |access-date=24 July 2025 |work=[[The Scotsman]] |date=23 July 2025|quote=Curtis, it turns out, turned 19 in June [2025]. [...] No birth date is given although a wide-ranging interview with the player from 9 June [2024] does note that he “celebrates his 18th birthday today”.}}</ref><ref name=academy>{{cite news |title=Findlay Curtis' Rangers Academy Journey |url=https://www.rangers.co.uk/article/findlay-curtis-rangers-academy-journey/6oAODNy7TtIvafRRtQW9dw |access-date=1 October 2025 |publisher=[[Rangers F.C.]] |date=9 June 2024 |quote=Curtis, who celebrates his 18th birthday today, recalled his Academy journey so far.}}</ref>
+| birth_place = [[Balfron]], [[Stirling (council area)|Stirling]], Scotland<ref>[https://www.scotlandspeople.gov.uk/record-results/53172581668816db177268 Results for Findlay Curtis], [[ScotlandsPeople]]. Retrieved 24 July 2025</ref>
+| height = {{convert|1.80|m|order=flip}}<ref>{{WorldFootball.net}}</ref>
+| position = [[Midfielder]]<!--Please provide sources before making this any more specific. Even sources from Rangers say nothing more than "midfielder" (official profile: https://www.rangers.co.uk/player/findlay-curtis/56IqYoOTSCIvOS6I3gp3nr ) or "central midfielder". (article: https://www.rangers.co.uk/article/findlay-curtis-rangers-academy-journey/6oAODNy7TtIvafRRtQW9dw ). Changing this without a reference constitutes [[WP:OR]] -->
+| currentclub = [[Kilmarnock F.C.|Kilmarnock]] <br /> (on loan from [[Rangers F.C.|Rangers]])
+| clubnumber = 52
+| youthyears1 = 2012–2025
+| youthclubs1 = [[Rangers F.C. B Team and Academy|Rangers]]
+| years1 = 2025–
+| clubs1 = [[Rangers F.C.|Rangers]]
+| caps1 = 13<!--League only-->
+| goals1 = 1<!--League only-->
+| years2 = 2026
+| clubs2 = → [[Kilmarnock F.C.|Kilmarnock]] (loan)
+| caps2 = 14
+| goals2 = 5
+| nationalyears1 = 2025–
+| nationalteam1 = [[Scotland national under-21 football team|Scotland U21]]
+| nationalcaps1 = 2
+| nationalgoals1 = 0
+| nationalyears2 = 2026–
+| nationalteam2 = [[Scotland national football team|Scotland]]
+| nationalcaps2 = 3
+| nationalgoals2 = 1
+| club-update = 02:06, 18 May 2026 (UTC)
+| nationalteam-update= 17:00, 7 June 2026 (UTC)
+}}
+'''Findlay Kenneth Curtis''' (born 9 June 2006)<!--Do not change without reason. In this source, a Rangers official states that the often cited birthdate of 1 October is not true. This is backed by friends and family who can confirm his birthday as the 9th of June. https://www.scotsman.com/sport/football/rangers/latest-rangers-news/findlay-curtis-fake-news-confession-as-rangers-teenager-comes-of-age-literally-after-ibrox-heroics-5239438 --> is a Scottish professional [[Association football|footballer]] who plays as a [[midfielder]] for [[Kilmarnock F.C.|Kilmarnock]], on loan from [[Rangers F.C.|Rangers]], and the [[Scotland national football team|Scotland national team]].<ref name="FC">{{Soccerway|id=findlay-curtis/864385}}</ref>
+
+==Club career==
+Curtis joined [[Rangers F.C.|Rangers]]' academy at age 6, having impressed at a football school run by the club.<ref name=academy/> In July 2022, he signed his first professional contract and was promoted to Rangers' under-18 team.<ref>{{cite news |last1=Campbell |first1=Jordan |title=Why Rangers are recruiting 'emerging talent' – after banking almost £10m |url=https://www.nytimes.com/athletic/3353107/2022/07/02/rangers-recruitment-emerging-talent-10m/ |access-date=23 January 2025 |work=[[The Athletic]] |date=2 July 2022|url-access=subscription}}</ref> His deal was extended in January 2023 to last until June 2024.<ref>{{cite news |last1=Irvine |first1=David |title=Five Rangers youngsters agree Ibrox contract extensions |url=https://www.heraldscotland.com/sport/23241223.five-rangers-youngsters-agree-ibrox-contract-extensions/ |access-date=23 January 2025 |work=[[The Herald (Glasgow)|The Herald]] |date=10 January 2023}}</ref> On 1 May 2024 he scored a [[Penalty kick (association football)|penalty kick]] to equalise as Rangers came from behind to win the [[Scottish Youth Cup]] against [[Aberdeen F.C. Reserves and Academy|Aberdeen]] at [[Hampden Park]].<ref>{{cite news |last1=Idessane |first1=Kheredine |title=Rangers hit back against Aberdeen to win Youth Cup |url=https://www.bbc.co.uk/sport/articles/c51n37x49rdo |access-date=23 January 2025 |publisher=[[BBC Sport]] |date=1 May 2024}}</ref> On 28 May 2024, Curtis signed a further extension until 2025.<ref>{{Cite news|url=https://x.com/RFC_Youth/status/1795424785129947242|title=Rangers Academy can today announce Findlay Curtis has signed a contract extension until summer 2025.|work=Rangers FC|publisher=X.com|date=28 May 2024}}</ref>
+
+Curtis was part of the [[Rangers F.C. B Team and Academy|Rangers B Team]] in the [[Scottish Challenge Cup]]. He scored twice in a 4–1 home win over [[Stenhousemuir F.C.|Stenhousemuir]] on 22 October 2024, in the fourth round of the cup.<ref>{{cite news |last1=Kearney |first1=Ben |title=£10 million team too much for Stenhousemuir as Rangers B seal SPFL Trust Trophy quarter-final spot |url=https://www.falkirkherald.co.uk/sport/football/ps10-million-team-too-much-for-stenhousemuir-as-rangers-b-seal-spfl-trust-trophy-quarter-final-spot-4836911 |access-date=23 January 2025 |work=[[Falkirk Herald]] |date=23 October 2024}}</ref>
+
+On 19 January 2025, Curtis made his first-team debut in the fourth round of the [[Scottish Cup]], in a 5–0 win over [[Highland Football League]] club [[Fraserburgh F.C.|Fraserburgh]]. He came on as a [[Substitute (association football)|substitute]] in the 62nd minute and assisted the last goal, completing [[Cyriel Dessers]]' hat-trick.<ref>{{cite news |title=Dessers hits hat-trick as Rangers beat Fraserburgh in David v Goliath tie |url=https://news.stv.tv/sport/cyriel-dessers-hits-hat-trick-as-rangers-breeze-past-fraserburgh-in-david-v-goliath-scottish-cup-clash |access-date=23 January 2025 |agency=PA Sport |publisher=[[STV News]] |date=19 January 2025}}</ref><ref>{{cite news |title=Rangers 5&ndash;0 Fraserburgh |url=https://www.bbc.co.uk/sport/football/live/c3w8qwlv498t |access-date=23 January 2025 |publisher=[[BBC Sport]] |date=19 January 2025}}</ref> Four days later he made his European debut in the [[UEFA Europa League]] [[2024–25 UEFA Europa League league phase|league phase]], again from the bench for the final half-hour of a 2–1 loss away to [[Manchester United]]; according to Ewan Paton of ''[[The National (Scotland)|The National]]'', he gave a good performance in "difficult circumstances".<ref>{{cite news |last1=Paton |first1=Ewan |title=Rangers player ratings in Europa League loss vs Man Utd |url=https://www.thenational.scot/sport/24881017.rangers-player-ratings-europa-league-loss-vs-man-utd/ |access-date=23 January 2025 |work=[[The National (Scotland)|The National]] |date=23 January 2025}}</ref>
+
+On 29 January 2025, Curtis signed a contract extension of undisclosed length.<ref>{{cite news |title='Proud day' as Curtis signs contract extension |url=https://www.bbc.co.uk/sport/articles/ce3nx5kel55o |access-date=30 January 2025 |publisher=[[BBC Sport]] |date=29 January 2025}}</ref> Eighteen days later, he made his [[Scottish Premiership]] debut in the last minute of a 3–1 win away to [[Heart of Midlothian F.C.|Heart of Midlothian]].<ref>{{cite news |last1=Pattullo |first1=Alan |title=Philippe Clement spared Ibrox vitriol as Rangers agenda moves on with no need for Jose Mourinho's laundry basket |url=https://www.scotsman.com/sport/football/rangers/latest-rangers-news/philippe-clement-spared-ibrox-vitriol-as-rangers-agenda-moves-on-with-no-need-for-jose-mourinhos-laundry-basket-5002619 |access-date=23 February 2025 |work=The Scotsman |date=21 February 2025}}</ref>
+
+On 22 July 2025, Curtis scored his first goal for Rangers in a [[UEFA Champions League]] qualifier against [[Panathinaikos F.C.|Panathinaikos]] at [[Ibrox Stadium|Ibrox]].<ref name="Age"/><ref>{{cite news|title=Rangers 2-0 Panathinaikos|url=https://www.bbc.co.uk/sport/football/live/cm2lgl1x1vpt|publisher=BBC Sport |date=22 July 2025}}</ref> He started the game on the left side of the attack, in [[Russell Martin (footballer)|Russell Martin's]] first game as manager.<ref>{{cite news |last1=McPheat |first1=Nick |title='Cool cat' Curtis ignites Martin's Rangers reign |url=https://www.bbc.co.uk/sport/football/articles/c0m8d11y24vo |access-date=27 July 2025 |publisher=BBC Sport}}</ref> His first league goal came on 24 August as the equaliser in a 1–1 draw away to [[St Mirren F.C.|St Mirren]], as a substitute for [[Joe Rothwell]].<ref>{{cite news |title='I have to trust him': Martin queries Igamane injury claim after Rangers draw |url=https://www.theguardian.com/football/2025/aug/24/st-mirren-rangers-scottish-premiership-match-report |access-date=1 February 2026 |work=The Guardian |date=24 August 2025}}</ref>
+
+On 30 January 2026, having achieved three goals and two assists in 21 Rangers appearances, Curtis joined fellow Scottish Premiership club [[Kilmarnock F.C.|Kilmarnock]] on loan for the remainder of the season.<ref>{{cite news |title=Killie sign striker Hugill & loan Rangers winger Curtis |url=https://www.bbc.co.uk/sport/articles/c3dm3k9kkxzo |access-date=1 February 2026 |publisher=BBC Sport |date=30 January 2026}}</ref> He scored five goals in 14 games, including four in the last five fixtures, as "Killie" avoided relegation in 10th place.<ref name=oneill/>
+
+==International career==
+Curtis made his first appearance for the [[Scotland national under-21 football team|Scotland under-21]] team on 5 September 2025, as a 77th-minute substitute for [[Daniel Kelly (footballer, born 2005)|Daniel Kelly]] in a 2–0 loss away to the [[Czech Republic national football team|Czech Republic]] in [[2027 UEFA European Under-21 Championship qualification]].<ref>{{cite web |url=https://www.scottishfa.co.uk/players/?pid=248302&lid=5  |title=Findlay Curtis |website=Scottish FA |accessdate=16 March 2026}}</ref> 
+
+Curtis was included in the full [[Scotland national football team|Scotland]] squad for the first time in March 2026, for [[Exhibition game|friendly matches]] against [[Japan national football team|Japan]] and the [[Ivory Coast national football team|Ivory Coast]].<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/articles/cpd8w4xg991o |title=Scotland squad: Kilmarnock winger Findlay Curtis called up |website=BBC Sport |date=16 March 2026 |accessdate=16 March 2026}}</ref> He made his debut on 28 March against Japan at [[Hampden Park]], replacing [[Tommy Conway]] for the last nine minutes.<ref>{{cite news |last1=O'Neill |first1=George |title=What might Scotland change for Ivory Coast test? |url=https://www.bbc.co.uk/sport/football/articles/ce84ml83x14o |access-date=29 March 2026 |publisher=[[BBC Sport]] |date=29 March 2026}}</ref> He was called up for the [[2026 FIFA World Cup]] in North America; manager [[Steve Clarke]] praised his decision to move on loan to Kilmarnock for regular playing time.<ref name=oneill>{{cite news |last1=O'Neill |first1=George |title= How Curtis timed run to perfection for World Cup place|url=https://www.bbc.co.uk/sport/football/articles/ce8pn4jjjzko|access-date=19 May 2026 |publisher=[[BBC Sport]] |date=19 May 2026}}</ref> He scored his first Scotland goal in a friendly against [[Curaçao national football team|Curaçao]].
+
+==Career statistics==
+===Club===
+{{updated|match played 17 May 2026}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|[[Scottish Cup]]
+!colspan="2"|[[Scottish League Cup|League Cup]]
+!colspan="2"|Europe
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="4"|[[Rangers F.C.|Rangers]]
+|[[2024–25 Rangers F.C. season|2024–25]]<ref name=RU2024>{{soccerbase season|182365|2024|access-date=14 August 2024}}</ref>
+|[[Scottish Premiership]]
+|3||0||1||0||0||0||1{{efn|Appearance in [[UEFA Europa League]]}}||0||5||0
+|-
+|[[2025–26 Rangers F.C. season|2025–26]]<ref name=RU2025>{{soccerbase season|182365|2025|access-date=14 August 2024}}</ref>
+|Scottish Premiership
+|10||1||1||0||2||1||8{{efn|Four appearances and one goal in [[UEFA Champions League]], four appearances in UEFA Europa League}}||1||21||3
+|-
+|[[2026–27 Rangers F.C. season|2026–27]]<ref name=RU2026>{{soccerbase season|182365|2026|access-date=14 August 2025}}</ref>
+|Scottish Premiership
+|0||0||0||0||0||0||0||0||0||0
+|-
+!colspan="2"|Total
+!13!!1!!2!!0!!2!!1!!9!!1!!26!!3
+|-
+|[[Kilmarnock F.C.|Kilmarnock]] (loan)
+|[[2025–26 Kilmarnock F.C. season|2025–26]]<ref name=RU2025/>
+|Scottish Premiership
+|14||5||colspan="2"|—||colspan="2"|—||colspan="2"|—||14||5
+|-
+!colspan="3"|Career total
+!27!!6!!2!!0!!2!!1!!9!!1!!40!!8
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 6 June 2026}}
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|[[Scotland national football team|Scotland]]
+|2026||3||1
+|-
+!colspan="2"|Total||3||1
+|}
+
+:''Scores and results list Scotland's goal tally first.''
+
+{| class="wikitable"
+|+ List of international goals scored by Findlay Curtis
+! No. !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| align=center | 1 || 30 May 2026 || [[Hampden Park]], [[Glasgow]], Scotland || {{fb|CUW}} || align=center | 1–1 || align=center | 4–1 || [[Exhibition game#Association football|Friendly]]
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Soccerbase|182365|Findlay Curtis}}
+
+<!-- {{Rangers F.C. squad}} -->
+{{Kilmarnock F.C. squad}}
+{{Scotland squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Curtis, Findlay}}
+[[Category:2006 births]]
+[[Category:Living people]]
+[[Category:Scottish men's footballers]]
+[[Category:Footballers from Stirling (council area)]]
+[[Category:Men's association football midfielders]]
+[[Category:Rangers F.C. players]]
+[[Category:Kilmarnock F.C. players]]
+[[Category:Scottish Professional Football League players]]
+[[Category:21st-century Scottish sportsmen]]
+[[Category:Scotland men's under-21 international footballers]]
+[[Category:Scotland men's international footballers]]
+[[Category:2026 FIFA World Cup players]]

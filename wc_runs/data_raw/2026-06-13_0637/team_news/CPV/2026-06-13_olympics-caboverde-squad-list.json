@@ -1,0 +1,16 @@
+{
+ "team": "CPV",
+ "source": "Olympics.com",
+ "url": "https://www.olympics.com/en/news/fifa-world-cup-2026-cabo-verde-all-players-full-squad-list-key-stats-schedule",
+ "title": "Cabo Verde at FIFA World Cup 2026: All players, full squad list, key stats and schedule",
+ "news_date": "2026-06-13",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-13",
+ "fetched": "2026-06-13_0637",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Cabo Verde at FIFA World Cup 2026: All players, full squad list, key stats and schedule\nQuick facts\nCaptain: Ryan Mendes\nManager: Pedro “Bubista” Brito\nWorld Cup appearances (including 2026): 1\nBest World Cup result: N/A\nGoalkeepers: Josimar Dias \"Vozinha\" (Chaves), Márcio da Rosa (Montana), Carlos Santos (San Diego)\nDefenders: Steven Moreira (Columbus Crew), Wagner Pina (Trabzonspor), João Paulo Fernandes (FCSB), Sidny Lopes Cabral (Benfica), Logan Costa (Villarreal), Roberto Lopes \"Pico\" (Shamrock Rovers), Kelvin Pires (SJK), Ianique Tavares \"Stopira\" (Torreense), Edilson Borges \"Diney\" (Al Bataeh)\nMidfielders: Jamiro Monteiro (PEC Zwolle), Telmo Arcanjo (Vitória de Guimarães), Yannick Semedo (Farense), Laros Duarte (Puskás Akadémia), Deroy Duarte (Ludogorets Razgrad), Kevin Pina (Krasnodar)\nForwards: Ryan Mendes (Iğdır), Willy Semedo (Omonia), Garry Rodrigues (Apollon Limassol), Jovane Cabral (Estrela Amadora), Nuno Da Costa (İstanbul Başakşehir), Dailon Livramento (Casa Pia), Gilson Benchimol (Akron Tolyatti), Hélio Varela (Maccabi Tel Aviv)",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

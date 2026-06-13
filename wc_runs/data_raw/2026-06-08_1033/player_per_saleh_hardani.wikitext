@@ -1,0 +1,193 @@
+{{short description|Iranian association football player}}
+{{Infobox football biography
+| name = Saleh Hardani
+| image = Esteghlal Celebrate IPL Title Win at Azadi Stadium - 020.jpg
+| caption = Hardani with [[Esteghlal F.C.|Esteghlal]] in 2022
+| fullname = Saleh Hardani
+| birth_date = {{birth date and age|1998|12|26|df=yes}}
+| birth_place = [[Bahmai County|Bahmai]], Iran
+| height = 1.76 m<ref>{{cite web |url=https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf |title=FIFA World Cup 2026: Squad List |publisher=[[FIFA]] |date=2 June 2026 |access-date=2 June 2026}}</ref>
+| currentclub = [[Esteghlal F.C.|Esteghlal]]
+| clubnumber = 2
+| position = [[Right-back]]/[[Right winger (association football)|Right winger]]
+| youthclubs1 = [[Foolad F.C.|Foolad]]
+| youthyears1 = 2016–2019
+| years1 = 2019–2022
+| clubs1 = [[Foolad F.C.|Foolad]]
+| caps1 = 55
+| goals1 = 1
+| years2 = 2022–
+| clubs2 = [[Esteghlal F.C.|Esteghlal]]
+| caps2 = 92
+| goals2 = 3
+| years3 = 2024–2025
+| clubs3 = [[Sepahan S.C.|Sepahan]]
+| caps3 = 12
+| goals3 = 0
+| nationalyears1 = 2021–
+| nationalteam1 = [[Iran national football team|Iran]]
+| nationalcaps1 = 18
+| nationalgoals1 = 1
+| pcupdate = 27 February 2026
+| ntupdate = 4 June 2026
+}}
+
+'''Saleh Hardani''' ({{langx|fa|صالح حردانی}}; born 26 December 1998), also known as '''Saadat Hardani''', is an Iranian [[Association football|footballer]] who plays as a [[right-back]] for the [[Persian Gulf Pro League]] club [[Esteghlal F.C.|Esteghlal]] and the [[Iran national football team|Iran national team]].<ref>{{Soccerway|saleh-hardani/627913}}</ref> He is younger brother of [[Saber Hardani]].<ref>{{Cite web |url=https://www.varzesh3.com/news/1621832 |title=حردانی: برادرم به تیم اول فولاد آمد و پاس گل داد}}</ref>
+
+==Club career==
+
+=== Foolad ===
+He made his debut for [[Foolad F.C.|Foolad]] in first fixtures of [[2019–20 Iran Pro League]] against [[Sanat Naft Abadan F.C.|Sanat Naft Abadan]].<ref>{{Cite web |url=https://www.varzesh3.com/news/1631893 |title=فولاد 0 - صنعت نفت 1؛ انتقام اسکوچیچ از فولادِ نکونام}}</ref>
+
+=== Esteghlal ===
+He joined [[Esteghlal F.C.|Esteghlal]] for [[2021–22 Persian Gulf Pro League|2019–20 Iran Pro League]] and scored an important goal against his previous club, [[Foolad F.C.|Foolad]], which made [[Esteghlal F.C.|Esteghlal]] the champion of the season.
+
+==Personal life==
+On 4 February 2026, Hardani responded to the [[2025–2026 Iranian protests]] and the government's crackdown of the protests on his [[Instagram]], saying: "He who is not sad in this time is either not a human being, or not in this world."<ref>https://www.iranintl.com/202602041011</ref>
+
+==Career statistics==
+===Club===
+{{Updated|27 February 2026}}
+{|class="wikitable"style="text-align:center;"
+|-
+! rowspan=2 |club
+! rowspan=2 |Season
+! colspan=3 |League
+!colspan="2"|[[Hazfi Cup]]
+!colspan="2"|[[AFC Champions League|ACL]] 
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+! League 
+! Apps !! Goals
+! Apps !! Goals
+! Apps !! Goals
+! Apps !! Goals
+! Apps !! Goals
+|-
+|rowspan="4"|[[Foolad F.C.|Foolad]]
+|[[2019–20 Persian Gulf Pro League|2019–20]]
+|rowspan="3"|[[Persian Gulf Pro League]]
+|15||0||1||0||0||0||0||0||16||0
+|-
+|[[2020–21 Persian Gulf Pro League|2020–21]]
+|26||1||4||1||3||1||0||0||33||3
+|-
+|[[2021–22 Persian Gulf Pro League|2021–22]]
+|14||0||0||0||0||0||0||0||14||0
+|-
+!colspan="2"|Total
+!55!!1!!5!!1!!3!!1!!0!!0!!63!!3
+|-
+|rowspan="6"|[[Esteghlal F.C.|Esteghlal]]
+|[[2021–22 Esteghlal F.C. season|2021–22]]
+|rowspan="5"|Persian Gulf Pro League
+|14||1||1||0||0||0||0||0||15||1
+|-
+|[[2022–23 Esteghlal F.C. season|2022–23]]
+|22||1||5||0||0||0||1||0||28||1
+|-
+|[[2023–24 Esteghlal F.C. season|2023–24]]
+|26||1||1||0||0||0||0||0||27||1
+|-
+|[[2024–25 Esteghlal F.C. season|2024–25]]
+|12||0||3||0||4||0||0||0||19||0
+|-
+|[[2025–26 Esteghlal F.C. season|2025–26]]
+|18||0||1||0||6||0||0||0||25||0
+|-
+!colspan="2"|Total 
+!92!!3!!11!!0!!10!!0!!1!!0!!114!!3
+|-
+|rowspan="2"|[[Sepahan S.C.|Sepahan]]
+|[[2024–25 Sepahan S.C. season|2024–25]]
+|Persian Gulf Pro League
+|12||0||1||0||5||0||1||0||19||0
+|-
+!colspan="2"|Total
+!12!!0!!1!!0!!5!!0!!1!!0!!19!!0
+|-
+!colspan="3"|Career Total
+!159!!4!!17!!1!!18!!1!!2!!0!!196!!6
+|-
+|}
+
+===International===
+{{Updated|match played 4 June 2026}}<ref>{{NFT player|83642|access-date=}}</ref>
+
+{|class="wikitable"style="text-align:center"
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="6"|[[Iran national football team|Iran]]
+|2021||1||0
+|-
+|2022||1||0
+|-
+|2023||1||0
+|-
+|2024||7||1
+|-
+|2025||6||0
+|-
+|2026||2||0
+|-
+!colspan="2"|Total!!18!!1
+|}
+
+{| class="wikitable sortable"
+|+ List of international goals scored by Saleh hardani
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+|-
+|align="center"|1
+|19 November 2024||[[Dolen Omurzakov Stadium]], [[Bishkek]], Kyrgyzstan||{{fb|KGZ}}||align="center"|2–0||align="center"|3–2||[[2026 FIFA World Cup qualification – AFC third round#Group A|2026 FIFA World Cup qualification]]
+|}
+
+==Honours==
+
+;Foolad
+
+* [[Iranian Hazfi Cup|Hazfi Cup]]: [[2020–21 Hazfi Cup|2020–21]]
+
+;Sepahan
+
+*[[Iranian Super Cup]]: [[2024 Iranian Super Cup|2024]]
+
+;Esteghlal
+
+* [[Persian Gulf Pro League]]: [[2021–22 Iran Pro League|2021–22]]
+* [[Iranian Hazfi Cup|Hazfi Cup]]: [[2024–25 Hazfi Cup|2024–25]]
+* [[Iranian Super Cup]]: [[2022 Iranian Super Cup|2022]]
+
+== References ==
+{{reflist|2}}
+
+== External links ==
+* {{Sports links}}
+* [https://www.persianleague.com/component/joomsport/player/60-persian-gulf-pro-league-ipl-2021-2022/4678-saleh-hardani?Itemid=1 Saleh Hardani] at Persianleague.com
+
+{{Esteghlal F.C. squad}}
+{{Iran squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Hardani, Saleh}}
+[[Category:1998 births]]
+[[Category:People from Kohgiluyeh and Boyer-Ahmad province]]
+[[Category:Living people]]
+[[Category:21st-century Iranian sportsmen]]
+[[Category:Men's association football midfielders]]
+[[Category:Iranian men's footballers]]
+[[Category:Iran men's international footballers]]
+[[Category:Foolad F.C. players]]
+[[Category:Esteghlal F.C. players]]
+[[Category:Sepahan S.C. footballers]]
+[[Category:Persian Gulf Pro League players]]
+[[Category:2026 FIFA World Cup players]]
+
+
+{{Iran-footy-midfielder-stub}}

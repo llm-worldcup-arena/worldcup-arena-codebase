@@ -1,0 +1,102 @@
+{{Short description|Men's association football team}}
+{{About|the men's team|the women's team|Senegal women's national football team}}
+{{Use dmy dates|date=November 2022}}
+{{Infobox national football team
+| Name               = Senegal
+| Badge              = Senegalese Football Federation logo.svg
+| Badge_size         = 205px
+| Nickname           = Lions de la Téranga<br>(Lions of Teranga)
+| Association        = [[Senegalese Football Federation|Fédération Sénégalaise de Football]] (FSF)
+| Sub-confederation  = [[West African Football Union|WAFU]] (West Africa)
+| Confederation      = [[Confederation of African Football|CAF]] (Africa)
+| Coach              = [[Pape Thiaw]] 
+| Captain            = [[Kalidou Koulibaly]]
+| Most caps          = [[Idrissa Gueye]] (131)
+| Top scorer         = [[Sadio Mané]] ([[List of international goals scored by Sadio Mané|55]])
+| Home Stadium       = [[Diamniadio Olympic Stadium]]
+| FIFA Trigramme     = SEN
+| FIFA Rank          = {{nowrap|{{FIFA World Rankings|SEN}}}}
+| FIFA max           = 12
+| FIFA max date      = January 2026
+| FIFA min           = 99
+| FIFA min date      = June 2013
+| Elo Rank           = {{World Football Elo Ratings|Senegal}}
+| Elo max            = 21
+| Elo max date       = June 2002
+| Elo min            = 105
+| Elo min date       = October 1994
+| pattern_la1        = _sen26h
+| pattern_b1         = _sen26h
+| pattern_ra1        = _sen26h
+| pattern_sh1        = _sen26h
+| pattern_so1        = 
+| pattern_la2        = _sen26a
+| pattern_b2         = _sen26a
+| pattern_ra2        = _sen26a
+| pattern_sh2        = _sen26A
+| pattern_so2        = _sen26al
+| leftarm1           = FFFFFF
+| body1              = FFFFFF
+| rightarm1          = FFFFFF
+| shorts1            = FFFFFF
+| socks1             = FFFFFF
+| leftarm2           = 00924f
+| body2              = 00924f
+| rightarm2          = 00924f
+| shorts2            = 00924f
+| socks2             = 036950
+| First game         = ''Pre-independence:''<br />{{nowrap|{{fb|GAM|colonial|name=British Gambia}} 1–2 '''French Senegal''' [[File:Flag of Senegal (1958–1959).svg|border|23px]]}}<br>([[The Gambia]]; 1959)<br />''Post-independence:''<br />{{fb|DAH|name=Dahomey}} 3–2 {{fb-rt|SEN|name=Senegal}}<br>(31 December 1961)
+| Largest win        = {{fb|SEN}} 10–1 {{fb-rt|MTN|1959}}<br>([[Dakar]], Senegal; 28 September 1972)
+| Largest loss       = {{fb|CZE|colonial|name=Czechoslovakia}} 11–0 {{fb-rt|SEN}}<br>([[Prague, Czechoslovakia]]; 2 November 1966)<br/>
+| World cup apps     = 4
+| World cup first    = 2002
+| World cup best     = Quarter-finals ([[2002 FIFA World Cup|2002]])
+| Regional name      = [[Africa Cup of Nations]]
+| Regional cup apps  = 18
+| Regional cup first = [[1965 African Cup of Nations|1965]]
+| Regional cup best  = '''Champions''' ([[2021 Africa Cup of Nations|2021]])
+| 2ndRegional name         = [[African Nations Championship]]
+| 2ndRegional cup apps     = 4
+| 2ndRegional cup first    = [[2009 African Nations Championship|2009]]
+| 2ndRegional cup best     =  ''' Champions  ''' ([[2022 African Nations Championship|2022]])
+| 3rdRegional name         = [[Amílcar Cabral Cup]]
+| 3rdRegional cup best     = '''Champions''' ([[1979 Amílcar Cabral Cup|1979]], [[1980 Amílcar Cabral Cup|1980]], [[1983 Amílcar Cabral Cup|1983]], [[1984 Amílcar Cabral Cup|1984]], [[1985 Amílcar Cabral Cup|1985]], [[1986 Amílcar Cabral Cup|1986]], [[1991 Amílcar Cabral Cup|1991]], [[2001 Amílcar Cabral Cup|2001]])
+| 3rdRegional cup apps     = 19
+| 3rdRegional cup first    = [[1979 Amílcar Cabral Cup|1979]]
+|medaltemplates={{MedalCompetition|[[Africa Cup of Nations]]}}
+{{MedalGold|[[2021 Africa Cup of Nations|2021 Cameroon]]|Team}}
+{{MedalSilver|[[2025 Africa Cup of Nations|2025 Morocco]]|Team}}
+{{MedalSilver|[[2019 Africa Cup of Nations|2019 Egypt]]|Team}}
+{{MedalSilver|[[2002 Africa Cup of Nations|2002 Mali]]|Team}}
+{{MedalCompetition|[[African Nations Championship]]}}
+{{MedalGold|[[2022 African Nations Championship|2022 Algeria]]|Team}}
+{{MedalBronze|[[2024 African Nations Championship|2024 Kenya, Tanzania and Uganda]]|Team}}
+{{MedalCompetition|[[Amílcar Cabral Cup]]}}
+{{MedalGold|[[1979 Amílcar Cabral Cup|1979 Guinea-Bissau]]|Team}}
+{{MedalGold|[[1980 Amílcar Cabral Cup|1980 Gambia]]|Team}}
+{{MedalGold|[[1983 Amílcar Cabral Cup|1983 Mauritania]]|Team}}
+{{MedalGold|[[1984 Amílcar Cabral Cup|1984 Sierra Leone]]|Team}}
+{{MedalGold|[[1985 Amílcar Cabral Cup|1985 Gambia]]|Team}}
+{{MedalGold|[[1986 Amílcar Cabral Cup|1986 Senegal]]|Team}}
+{{MedalGold|[[1991 Amílcar Cabral Cup|1991 Senegal]]|Team}}
+{{MedalSilver|[[1982 Amílcar Cabral Cup|1982 Cape Verde]]|Team}}
+{{MedalSilver|[[1993 Amílcar Cabral Cup|1993 Sierra Leone]]|Team}}
+{{MedalSilver|[[1997 Amílcar Cabral Cup|1997 Gambia]]|Team}}
+{{MedalSilver|[[2000 Amílcar Cabral Cup|2000 Cape Verde]]|Team}}
+{{MedalBronze|[[1981 Amílcar Cabral Cup|1981 Mali]]|Team}}
+{{MedalBronze|[[1987 Amílcar Cabral Cup|1987 Guinea]]|Team}}
+{{MedalBronze|[[1988 Amílcar Cabral Cup|1988 Guinea-Bissau]]|Team}}
+{{MedalCompetition|[[WAFU Nations Cup]]}}
+{{MedalGold|[[2019 WAFU Cup of Nations|2019 Senegal]]|Team}}
+{{MedalSilver|[[2010 WAFU Nations Cup|2010 Nigeria]]|Team}}
+{{MedalSilver|[[2013 WAFU Nations Cup|2013 Ghana]]|Team}}
+{{MedalCompetition|[[COSAFA Cup]]}}
+{{MedalSilver|[[2021 COSAFA Cup|2021 South Africa]]|Team}}
+{{MedalBronze|[[2022 COSAFA Cup|2022 South Africa]]|Team}}
+}} 
+
+The '''Senegal national football team''' ([[French language|French]]: ''Équipe de football du Senegal''), nicknamed '''''Les Lions de la Teranga''''' (French: ''The Lions of Teranga''), represents [[Senegal]] in men's international [[association football]] and is operated by the [[Senegalese Football Federation]].
+
+One of Africa's most famous national football teams, Senegal reached the [[2002 FIFA World Cup knockout stage|quarter-finals]] of the [[2002 FIFA World Cup]], the second team from Africa to do so (after [[Cameroon national football team|Cameroon]] in [[1990 FIFA World Cup|1990]]). They managed to upset defending world champions [[France national football team|France]], finish second in their group, and beat [[Sweden men's national football team|Sweden]] in extra time in the round of 16, before losing to [[Turkey national football team|Turkey]] in the [[2002 FIFA World Cup knockout stage|quarter-finals]].
+
+Senegal has won one [[Africa Cup of Nations]] title, in [[2021 Africa Cup of Nations|2021]]. Their first appearance in the competition was in [[1965 African Cup of Nations|1965]], when they lost 1–0 to [[Ivory Coast national football team|Ivory Coast]] for fourth place. They hosted the [[1992 African Cup of Nations]], where they made it to the quarter-finals, and finished as runners-up in [[2002 African Cup of Nations|2002]], [[2019 Africa Cup of Nations|2019]], and [[2025 Africa Cup of Nations|2025]].

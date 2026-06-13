@@ -1,0 +1,210 @@
+{{Short description|Cape Verdea footballer (born 1995)}}
+{{Use dmy dates|date=September 2025}}
+{{Infobox football biography
+| name = Diney
+| image = 
+| full_name = Edilson Alberto Monteiro Sanches Borges
+| birth_date = {{birth date and age|1995|1|17|df=y}}
+| birth_place = [[Tarrafal, Cape Verde]]
+| height = 1.85 m<ref>{{cite web |title=Diney |publisher=UAE Pro League |url=https://www.uaeproleague.ae/en/player/edilson-alberto-monteiro-sanches-borges/adnoc-pro-league-2 |access-date=25 August 2023 }}</ref>
+| position = [[Centre-back]]
+| currentclub = [[Al Bataeh Club|Al Bataeh]]
+| clubnumber = 23
+| youthyears1 = 2008–2010
+| youthclubs1 = [[A.C. Arrentela|Arrentela]]{{citation needed|date=September 2025}}
+| youthyears2 = 2010–2014
+| youthclubs2 = [[Vitória F.C.|Vitória Setúbal]]
+| years1 = 2015–2018
+| clubs1 = [[C.S. Marítimo|Marítimo B]]
+| caps1 = 75
+| goals1 = 5
+| years2 = 2015–2018
+| clubs2 = [[C.S. Marítimo|Marítimo]]
+| caps2 = 22
+| goals2 = 0
+| years3 = 2018–2019
+| clubs3 = [[G.D. Estoril Praia|Estoril]]
+| caps3 = 15
+| goals3 = 1
+| years4 = 2019–2023
+| clubs4 = [[ASFAR (football club)|FAR Rabat]]
+| caps4 = 79+
+| goals4 = 12+
+| years5 = 2023–
+| clubs5 = [[Al Bataeh Club|Al Bataeh]]
+| caps5 = 62
+| goals5 = 4
+| nationalyears1 = 2017–
+| nationalteam1 = [[Cape Verde national football team|Cape Verde]]
+| nationalcaps1 = 24
+| nationalgoals1 = 2
+| club-update = 06:06, 19 March 2026 (UTC)
+| nationalteam-update = 22:00, 4 September 2025 (UTC)
+}}
+
+'''Edilson Alberto Monteiro Sanches Borges''' ({{IPA|pt|e.ˈdil.sɔn al.ˈbɛɾ.tu mõ.ˈtej.ɾu ˈsɐ̃.ʃɨʒ ˈbɔɾ.ʒɨʃ|lang}}; born 17 January 1995), known as '''Diney''' ({{IPA|kea|di.ˈnej|lang}}), is a Cape Verdean professional [[association football|footballer]] who plays as a [[centre-back]] for [[UAE Pro League]] club [[Al Bataeh Club|Al Bataeh]] and the [[Cape Verde national football team|Cape Verde national team]].
+
+==Club career==
+Diney started his youth career with [[Vitória F.C.]] in 2010,<ref>{{Cite web |url=http://www.oceanpress.info/cms/Pt/desporto/3781-madeira-diney-assina-por-cinco-anos-com-o-maritimo |title=Ocean Press - Madeira - Diney assina por cinco anos com o Marítimo |access-date=11 December 2015 |archive-url=https://web.archive.org/web/20170806183930/http://www.oceanpress.info/cms/Pt/desporto/3781-madeira-diney-assina-por-cinco-anos-com-o-maritimo |archive-date=6 August 2017 |url-status=dead }}</ref> before joining [[C.S. Marítimo B|Marítimo B]]. On 30 November 2014, Diney made his professional debut with Marítimo B in a [[2014–15 Segunda Liga]] match against [[C.D. Santa Clara|Santa Clara]].{{citation needed|date=September 2025}} After good performances, Diney was promoted to Marítimo's first team squad, making his league debut against [[C.F. União]].<ref>{{cite web|url=http://www.maisfutebol.iol.pt/uniao-madeira/maritimo/jogo/13503389|title=Jogo União Madeira - Marítimo - Liga NOS - Maisfutebol.iol.pt|website=Maisfutebol}}</ref>
+
+On 13 June 2018, he joined [[G.D. Estoril Praia|Estoril]].<ref>{{cite news | date=13 June 2018 | title=Diney regressa ao Continente para brilhar no Estoril Praia| url=http://estorilpraia.pt/diney-regressa-ao-continente-para-brilhar-no-estoril-praia/| publisher=estorilpraia.pt| access-date=16 June 2018 }}</ref>
+
+On 4 July 2023, Emirati club [[Al Bataeh Club]] announced the signing of Diney.<ref>{{cite news | date=4 July 2023 | title=رسميا/ البطائح الإماراتي يعلن تعاقده مع بورغيس قادما من الجيش الملكي | url=https://www.elbotola.com/article/2023-07-04-17-35-856.html | publisher=elbotola.com | access-date=4 July 2023 }}</ref>
+
+==International career==
+Diney made his debut for the [[Cape Verde national football team|Cape Verde national team]] in a 4–0 [[2018 FIFA World Cup qualification]] loss to [[Burkina Faso national football team|Burkina Faso]] on 14 November 2017.<ref>{{cite web|url=https://www.fifa.com/worldcup/matches/round=276412/match=300367127/index.html#lineups|archive-url=https://web.archive.org/web/20160819093835/http://www.fifa.com/worldcup/matches/round=276412/match=300367127/index.html#lineups|url-status=dead|archive-date=19 August 2016|title=2018 FIFA World Cup Russia - Matches - Burkina Faso-Cape Verde Islands |website=FIFA.com}}</ref>
+
+==Career statistics==
+
+===Club===
+{{Updated|27 May 2024}}<ref name="Soccerway">{{Soccerway|396635}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup
+!colspan="2"|League cup
+!colspan="2"|Continental
+!colspan="2"|Total
+|-
+!Division
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+|-
+|rowspan="5"|[[C.S. Marítimo|Marítimo B]]
+|[[2014–15 Segunda Liga|2014–15]]
+|[[Liga Portugal 2]]
+|27||1||colspan="2"|—||colspan="2"|—||colspan="2"|—||27||1
+|-
+|[[2015–16 Campeonato de Portugal|2015–16]]
+|rowspan="3"|[[Campeonato de Portugal (league)|Campeonato de Portugal]]
+|18||1||colspan="2"|—||colspan="2"|—||colspan="2"|—||18||1
+|-
+|[[2016–17 Campeonato de Portugal|2016–17]]
+|29||3||colspan="2"|—||colspan="2"|—||colspan="2"|—||29||3
+|-
+|[[2017–18 Campeonato de Portugal|2017–18]]
+|1||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||1||0
+|-
+!colspan="2"|Total
+!75!!5!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!75!!5
+|-
+|rowspan="4"|[[C.S. Marítimo|Marítimo]]
+|[[2015–16 Primeira Liga|2015–16]]
+|rowspan="3"|[[Primeira Liga]]
+|1||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||1||0
+|-
+|[[2016–17 Primeira Liga|2016–17]]
+|0||0||0||0||0||0||colspan="2"|—||0||0
+|-
+|[[2017–18 Primeira Liga|2017–18]]
+|19||0||0||0||2||0||0||0||21||0
+|-
+!colspan="2"|Total
+!20!!0!!0!!0!!2!!0!!0!!0!!22!!0
+|-
+|[[G.D. Estoril Praia|Estoril]]
+|[[2018–19 LigaPro|2018–19]]
+|Liga Portugal 2
+|15||1||colspan="2"|—||1||0||colspan="2"|—||16||1
+|-
+|rowspan="5"|[[AS FAR (football club)|FAR Rabat]]
+|[[2019–20 Botola|2019–20]]
+|rowspan="4"|[[Botola Pro]]
+|22||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||22||0
+|-
+|[[2020–21 Botola|2020–21]]
+|27||1||colspan="2"|—||colspan="2"|—||colspan="2"|—||27||1
+|-
+|[[2021–22 Botola|2021–22]]
+|24||3||colspan="2"|—||colspan="2"|—||4{{efn|name="CCC"|Appearance(s) in [[CAF Confederation Cup]]}}||0||28||3
+|-
+|[[2022–23 Botola|2022–23]]
+|26||9||colspan="2"|—||colspan="2"|—||13{{efn|name="CCC"}}||5||39||14
+|-
+!colspan="2"|Total
+!99!!13!!colspan="2"|—!!colspan="2"|—!!17!!5!!116!!18
+|-
+|[[Al Bataeh Club|Al Bataeh]]
+|[[2023–24 UAE Pro League|2023–24]]
+|[[UAE Pro League]]
+|17||0||colspan="2"|—||0||0||colspan="2"|—||17||0
+|-
+!colspan="3"|Career total
+!226!!19!!0!!0!!3!!0!!17!!5!!246!!24
+|}
+{{notelist}}
+
+===International===
+:''Scores and results list Cape Verde's goal tally first.''<ref name="CapeVerdevsLibya2024Match">{{cite web|url=https://africanfootball.com/news/817526/Early-Borges-goal-downs-Libya|title=Early Borges goal downs Libya|website=africanfootball.com|date=11 June 2024|access-date=17 January 2025}}</ref>
+{| class="wikitable" border="1"
+|-
+! No. !! Date !! Venue !! Opponent !! Score !! Result !! Competition 
+|-
+| 1. || 11 June 2024 || [[Estádio Nacional de Cabo Verde]], [[Praia]], Cape Verde || {{fb|LBA}} || align=center | '''1'''–0 || align=center | 1–0 || [[2026 FIFA World Cup qualification – CAF Group D|2026 FIFA World Cup qualification]]
+|-
+| 2. || 4 September 2025 || Côte d'Or National Sports Complex, [[Saint Pierre, Mauritius|Saint Pierre]], Mauritius || {{fb|MRI}} || align=center | '''2'''–0 || align=center | 2–0 || 2026 FIFA World Cup qualification
+|}
+
+==Honours==
+'''Individual'''
+*[[Botola]] Best Foreign Player: [[2022–23 Botola#Annual awards|2022–23]]
+*Botola Team of the Season: [[2022–23 Botola#Annual awards|2022–23]]<ref>{{Cite web |title=Instagram |url=https://www.instagram.com/p/Ct98e7DI1KE/?igshid=NzZhOTFlYzFmZQ== |access-date=26 September 2023 |website=www.instagram.com}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{ForaDeJogo}}
+*[http://www.ligaportugal.pt/oou/clube/20142015/segundaliga/423/jogador/69145 Stats and profile at LPFP] {{in lang|pt}}
+*{{Soccerway|edilson-alberto-monteiro-sanches-borges/380767}}
+
+{{Al Bataeh Club squad}}
+{{Navboxes
+| title = Cape Verde squads
+| bg        = #003893
+| fg        = white
+| bordercolor = #CF2027
+| list =
+{{Cape Verde squad 2021 Africa Cup of Nations}}
+{{Cape Verde squad 2023 Africa Cup of Nations}}
+{{Cape Verde squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Diney}}
+[[Category:1995 births]]
+[[Category:Living people]]
+[[Category:People from Tarrafal]]
+[[Category:Cape Verdean men's footballers]]
+[[Category:21st-century Cape Verdean sportsmen]]
+[[Category:Men's association football defenders]]
+[[Category:Cape Verde men's international footballers]]
+[[Category:2021 Africa Cup of Nations players]]
+[[Category:2023 Africa Cup of Nations players]]
+[[Category:Primeira Liga players]]
+[[Category:Liga Portugal 2 players]]
+[[Category:Botola players]]
+[[Category:UAE Pro League players]]
+[[Category:C.S. Marítimo players]]
+[[Category:G.D. Estoril Praia players]]
+[[Category:AS FAR players]]
+[[Category:Al Bataeh Club players]]
+[[Category:Cape Verdean expatriate men's footballers]]
+[[Category:Cape Verdean expatriate sportspeople in Portugal]]
+[[Category:Expatriate men's footballers in Portugal]]
+[[Category:Cape Verdean expatriate sportspeople in Morocco]]
+[[Category:Expatriate men's footballers in Morocco]]
+[[Category:Cape Verdean expatriate sportspeople in the United Arab Emirates]]
+[[Category:Expatriate men's footballers in the United Arab Emirates]]
+[[Category:2026 FIFA World Cup players]]

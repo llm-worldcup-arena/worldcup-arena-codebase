@@ -1,0 +1,16 @@
+{
+ "team": "PAR",
+ "source": "FIFA",
+ "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/paraguay-squad-announcement-gustavo-alfaro",
+ "title": "Paraguay squad announcement | FIFA World Cup 2026",
+ "news_date": "2026-06-10",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "asof": "2026-06-10",
+ "fetched": "2026-06-13_0638",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Paraguay head coach Gustavo Alfaro has chosen his 26-man squad ahead of the tournament in Canada, Mexico and USA.\nParaguay have announced their 26-man squad for the FIFA World Cup 2026™. Head coach Gustavo Alfaro revealed the side that will take on Australia, Türkiye and co-hosts USA in Group D in what will be La Albirroja's first appearance at the global finals since South Africa 2010.\nRichly talented 22-year-old attacker Julio Enciso is one of the headline names of the Argentinian tactician's roster, joining the likes of Atlanta United star Miguel Almiron and forward Antonio Sanabria.\nAlfaro's defence is sure to be in good hands with a pair of centre-backs who ply their trade at the top of Brazilian football in Gustavo Gomez of Palmeiras and Fabian Balbuena of Gremio.\nExplore hospitality packages for Paraguay's FIFA World Cup 2026™ matchesExplore hospitality packages for Paraguay's FIFA World Cup 2026™ matches\nParaguay's World Cup squadParaguay's World Cup squad\nGoalkeepersGoalkeepers\nOrlando Gill Roberto Fernandez Gaston Olveira\nDefendersDefenders\nJuan Caceres Gustavo Velazquez Gustavo Gomez Junior Alonso Jose Canale Omar Alderete Alexandro Maidana Fabian Balbuena\nMidfieldersMidfielders\nDiego Gomez Mauricio Magalhaes Damian Bobadilla Braian Ojeda Andres Cubas Matias Galarza Alejandro Gamarra\nForwardsForwards\nGustavo Caballero Ramon Sosa Alex Arce Isidro Pitta Gabriel Avalos Miguel Almiron Julio Enciso Antonio Sanabria\nAll squads are provisional until the final list of 26 players is announced by FIFA, following their submission by participating teams, on 2 June.\nParaguay's World Cup fixturesParaguay's World Cup fixtures\n12 June: USA v Paraguay - Los Angeles Stadium\n19 June: Türkiye v Paraguay - San Francisco Bay Area Stadium\n25 June: Paraguay v Australia - San Francisco Bay Area Stadium\nRead more on Paraguay at the World CupRead more on Paraguay at the World Cup",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

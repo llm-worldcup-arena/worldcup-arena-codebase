@@ -1,0 +1,222 @@
+{{short description|Ecuadorian footballer (born 1999)}}
+{{family name hatnote|Alcívar|Macías|lang=Spanish}}
+{{Use dmy dates|date=November 2022}}
+{{Infobox football biography
+|name = Jordy Alcívar
+|image = SESIÓN NO. 603 DEL PLENO DE LA ASAMBLEA NACIONAL. QUITO, 25 DE JUNIO 2019. (48129379208) (cropped).jpg
+|caption = Jordy Alcívar (2019)
+|full_name = Jordy José Alcívar Macías<ref>{{cite web |url=https://www.fifadata.com/document/FWYC/2019/pdf/FWYC_2019_SquadLists.pdf |title=FIFA U-20 World Cup Poland 2019: List of Players: Ecuador |publisher=FIFA |page=3 |date=13 June 2019 |archive-url=https://web.archive.org/web/20200206013743/https://www.fifadata.com/document/FWYC/2019/pdf/FWYC_2019_SquadLists.pdf |archive-date=6 February 2020}}</ref>
+|birth_date = {{Birth date and age|1999|8|5|df=y}}
+|birth_place = [[Manta, Ecuador|Manta]], Ecuador
+|height = 1.72 m
+|currentclub = [[C.S.D. Independiente del Valle|Independiente del Valle]]
+|clubnumber = 6
+|position = [[Midfielder]], [[Defender (football)|Defender]]
+|youthyears1 = 2013–2018
+|youthclubs1 = [[L.D.U. Quito]]
+|years1 = 2018–2021
+|clubs1 = [[L.D.U. Quito]]
+|caps1 = 64
+|goals1 = 3
+|years2 = 2022
+|clubs2 = [[Charlotte FC]]
+|caps2 = 20
+|goals2 = 1 
+|years3 = 2022–
+|clubs3 = [[C.S.D. Independiente del Valle|Independiente del Valle]]
+|caps3 = 69
+|goals3 = 5
+|years4 = 2024
+|clubs4 = → [[Club León|León]] (loan)
+|caps4 = 10
+|goals4 = 0
+|nationalyears1 = 2019
+|nationalteam1 = [[Ecuador national football team|Ecuador U20]]
+|nationalcaps1 = 13
+|nationalgoals1 = 0
+|nationalyears2 = 2019–2020
+|nationalteam2 = [[Ecuador national football team|Ecuador U23]]
+|nationalcaps2 = 7
+|nationalgoals2 = 0
+|nationalyears3 = 2021–
+|nationalteam3 = [[Ecuador national football team|Ecuador]]
+|nationalcaps3 = 10
+|nationalgoals3 = 1
+|pcupdate = 22 May 2026
+|ntupdate = 30 May 2026
+|medaltemplates = 
+{{Medal|Sport|Men's [[Association football|football]]}}
+{{Medal|Country|{{fb|ECU}}}}
+{{Medal|Comp|[[FIFA U-20 World Cup]]}}
+{{Medal|3rd|[[2019 FIFA U-20 World Cup|2019 Poland]]|}}
+}}
+
+'''Jordy José Alcívar Macías''' (born 5 August 1999) is an Ecuadorean professional [[association football|footballer]] who plays as a [[midfielder]] or [[defender (football)|defender]] for [[C.S.D. Independiente del Valle|Independiente del Valle]] and the [[Ecuador national football team|Ecuador national team]].
+
+==Club career==
+Alcívar started his career with LDU Quito, where he was nicknamed "La Bochorna 44" after his video game username.<ref name="bendito">[https://www.benditofutbol.com/liga-de-quito/jordy-alcivar-mundialista-vive-complejo.html Jordy Alcívar, el mundialista que vive en el complejo de Liga de Quito] {{Webarchive|url=https://web.archive.org/web/20210724001459/https://www.benditofutbol.com/liga-de-quito/jordy-alcivar-mundialista-vive-complejo.html |date=24 July 2021 }} benditofutbol.com</ref>
+
+On 18 October 2021, it was announced that he would join newly-formed [[Major League Soccer]] side [[Charlotte FC]] in January 2022 on a four-year deal.<ref>{{cite web|url=https://www.mlssoccer.com/news/charlotte-fc-sign-ecuador-youth-international-jordy-alcivar|title=Charlotte FC sign Ecuador youth international Jordy Alcivar|publisher=[[Major League Soccer]]|date=18 October 2021|accessdate=18 November 2021}}</ref>
+
+He scored his first goal for Charlotte FC on 10 April 2022 against [[Atlanta United FC]].<ref>{{Cite web|url=https://www.charlottefootballclub.com/news/jordy-alcivar-i-m-only-going-to-get-better-with-every-match|title=Jordy Alcívar: "I'm only going to get better with every match" &#124; Charlotte FC|first=|last=|website=Charlotte Football Club}}</ref>
+
+On 24 November 2022, Alcívar was transferred to [[Ecuadorian Serie A]] side [[C.S.D. Independiente del Valle|Independiente del Valle]].<ref>{{cite web |website=mlssoccer.com |publisher=Major League Soccer L.L.C. (MLS) |url=https://www.mlssoccer.com/news/charlotte-fc-transfer-jordy-alcivar-to-independiente-del-valle-of-ecuador |title=Charlotte FC transfer Jordy Alcívar to Ecuador's Independiente del Valle
+|date=24 Nov 2022 |access-date=10 Sep 2024}}</ref>
+
+==International career==
+In 2019, he won the U-20 South American Championship,<ref>[https://www.eldiario.ec/noticias-manabi-ecuador/503916-jordy-el-seleccionado-sub-20-que-se-ha-convertido-orgullo-del-barrio-abdon-calderon-de-manta/ Jordy, el seleccionado sub 20 que se ha convertido orgullo del barrio Abdón Calderón de Manta] eldiario.ec</ref> and helped Ecuador come third at the U-20 World Cup in Poland.<ref name="bendito"/>
+
+==Career statistics==
+===Club===
+{{Updated|22 May 2026}}<ref name="Soccerway">{{Soccerway|541513}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|Cup
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+|-
+|rowspan="5"|[[L.D.U. Quito]]
+|[[2018 Ecuadorian Serie A|2018]]
+|rowspan="4"|[[LigaPro Serie A]]
+|2||0||colspan="2"|—||0||0||colspan="2"|—||2||0
+|-
+|[[2019 Ecuadorian Serie A|2019]]
+|7||0||colspan="2"|—||2{{efn|name="COL"|Appearance(s) in [[Copa Libertadores]]}}||0||colspan="2"|—||9||0
+|-
+|[[2020 Ecuadorian Serie A|2020]]
+|27||2||colspan="2"|—||4{{efn|name="COL"}}||0||colspan="2"|—||31||2
+|-
+|[[2021 Ecuadorian Serie A|2021]]
+|28||1||colspan="2"|—||10{{efn|Six appearances in Copa Libertadores, Four appearances in [[Copa Sudamericana]]}}||2{{efn|Two goals in Copa Sudamericana}}||2{{efn|name="SE"|Appearance(s) in [[Supercopa Ecuador]]}}||0||40||3
+|-
+!colspan="2"|Total
+!64!!3!!colspan="2"|—!!16!!2!!2!!0!!82!!5
+|-
+|[[Charlotte FC]]
+|[[2022 Major League Soccer season|2022]]
+|[[Major League Soccer|MLS]]
+|20||1||2||0||colspan="2"|—||colspan="2"|—||22||1
+|-
+|rowspan="5"|[[Independiente del Valle]]
+|[[2023 Ecuadorian Serie A|2023]]
+|rowspan="4"|LigaPro Serie A
+|25||3||colspan="2"|—||10{{efn|Eight appearances in Copa Libertadores, Two appearances in [[Recopa Sudamericana|CONMEBOL Recopa]]}}||0||2{{efn|One appearance in Supercopa Ecuador, One appearance in [[UEFA–CONMEBOL Club Challenge]]}}||0||37||3
+|-
+|[[2024 Ecuadorian Serie A|2024]]
+|6||0||colspan="2"|—||2{{efn|name="COL"}}||0||colspan="2"|—||8||0
+|-
+|[[2025 Ecuadorian Serie A|2025]]
+|31||2||1||0||14{{efn|Eight appearances in [[Copa Sudamericana]], six appearances and one goal in Copa Libertadores}}||1||colspan="2"|—||44||3
+|-
+|[[2026 LigaPro Serie A|2026]]
+|7||0||colspan="2"|—||6{{efn|name="COL"}}||1||1{{efn|name="SE"}}||0||14||1
+|-
+!colspan="2"|Total
+!69!!5!!1!!0!!30!!2!!3!!0!!103!!7
+|-
+|[[Club León|León]] (loan)
+|[[2024–25 Club León season|2024–25]]
+|[[Liga MX]]
+|10||0||colspan="2"|—||colspan="2"|—||2{{efn|Appearances in [[Leagues Cup]]}}||0||12||0
+|-
+!colspan="3"|Career total
+!163!!9!!3!!0!!46!!4!!7!!0!!219!!13
+|}
+{{notelist}}
+
+===International===
+{{updated|30 May 2026|<ref>{{NFT}}</ref>}}
+
+{| class="wikitable" style="text-align:center"
+|-
+!colspan=3|[[Ecuador national football team|Ecuador]]
+|-
+!Year!!Apps!!Goals
+|-
+|2021||1||0
+|-
+|2023||1||0
+|-
+|2025||5||1
+|-
+|2026||3||0
+|-
+!Total!!10!!1
+|}
+
+:''Scores and results list Venezuela's goal tally first''
+
+{| class="wikitable sortable"
+|+ International goals
+|-
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+|-
+| style="text-align:center"|1 ||14 October 2025|| [[Estadio Akron]], [[Zapopan]], Mexico|| {{fb|MEX}} ||style="text-align:center"| 1–1 || style="text-align:center"| 1–1 || [[Friendly (association football)|Friendly]]
+|}
+
+==Honours==
+'''LDU Quito'''
+* [[Ecuadorian Serie A]]: [[2018 Ecuadorian Serie A|2018]]
+* [[Copa Ecuador]]: [[2019 Copa Ecuador|2019]]
+* [[Supercopa Ecuador]]: [[2020 Supercopa Ecuador|2020]], [[2021 Supercopa Ecuador|2021]]
+
+'''Independiente del Valle'''
+* [[Supercopa Ecuador]]: [[2023 Supercopa Ecuador|2023]]
+* [[Ecuadorian Serie A]]: [[2025 LigaPro Serie A|2025]]
+
+'''Ecuador U20'''
+* [[FIFA U-20 World Cup]] third place: [[2019 FIFA U-20 World Cup|2019]]
+
+==References==
+{{reflist}}
+
+==External links==
+*{{soccerway|jordy-alcivar/541513}}
+
+{{Independiente del Valle squad}}
+{{Ecuador squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Alcivar, Jordy}}
+[[Category:1999 births]]
+[[Category:Living people]]
+[[Category:Ecuador men's international footballers]]
+[[Category:Ecuador men's youth international footballers]]
+[[Category:Ecuadorian men's footballers]]
+[[Category:21st-century Ecuadorian sportsmen]]
+[[Category:Men's association football midfielders]]
+[[Category:Charlotte FC players]]
+[[Category:Independiente del Valle footballers]]
+[[Category:Designated Players (MLS)]]
+[[Category:L.D.U. Quito footballers]]
+[[Category:People from Manta, Ecuador]]
+[[Category:Footballers from Manabí Province]]
+[[Category:Major League Soccer players]]
+[[Category:Ecuador men's under-20 international footballers]]
+[[Category:2026 FIFA World Cup players]]
+
+
+{{Ecuador-footy-midfielder-stub}}

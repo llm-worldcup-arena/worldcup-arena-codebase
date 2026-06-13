@@ -1,0 +1,127 @@
+{{Short description|Czech footballer (born 2008)}}
+{{Infobox football biography
+|name = Hugo Sochůrek 
+|birth_date = {{birth date and age|2008|6|7|df=y}}
+|birth_place = [[Tábor]], Czech Republic
+|height = 1.84 m
+|position = [[Midfielder]]
+|currentclub = [[AC Sparta Prague|Sparta Prague]]
+|clubnumber = 38
+|youthyears1 = {{0|0000}}–2020
+|youthclubs1 = [[FC Silon Táborsko|Táborsko]]
+|youthyears2 = 2020–
+|youthclubs2 = [[AC Sparta Prague|Sparta Prague]]
+|years1 = 2025–
+|clubs1 = [[AC Sparta Prague|Sparta Prague]]
+|caps1  = 8
+|goals1 = 0
+|years2 = 2025–
+|clubs2 = [[AC Sparta Prague B|Sparta Prague B]]
+|caps2  = 5
+|goals2 = 0
+|nationalyears1 = 2023–2024
+|nationalteam1  = [[Czech Republic national under-16 football team|Czech Republic U16]]
+|nationalcaps1  = 12
+|nationalgoals1 = 1
+|nationalyears2 = 2024–2025
+|nationalteam2  = [[Czech Republic national under-17 football team|Czech Republic U17]]
+|nationalcaps2  = 13
+|nationalgoals2 = 2
+|nationalyears3 = 2025–
+|nationalteam3  = [[Czech Republic national under-18 football team|Czech Republic U18]]
+|nationalcaps3  = 8
+|nationalgoals3 = 0
+|nationalyears4 = 2026–
+|nationalteam4  = [[Czech Republic national under-19 football team|Czech Republic U19]]
+|nationalcaps4  = 3
+|nationalgoals4 = 0
+|nationalyears5 = 2026–
+|nationalteam5  = [[Czech Republic national football team|Czech Republic]]
+|nationalcaps5  = 1
+|nationalgoals5 = 0
+|pcupdate = 24 May 2026
+|ntupdate = 31 May 2026
+}}
+
+'''Hugo Sochůrek''' (born 7 June 2008) is a Czech professional [[association football|footballer]] who plays as a [[midfielder]] for [[AC Sparta Prague|Sparta Prague]] and the [[Czech Republic national football team|Czech Republic national team]].
+
+==Early life==
+Sochůrek was born on 7 June 2008. Born in [[Tábor]], Czech Republic, he is a native of the city.<ref>{{Cite web|last1=Šťastný|last2=Fejgl|first1=Pavel|first2=Jiří|url=https://isport.blesk.cz/clanek/fotbal-chance-liga/474214/sochurek-je-objev-sezony-rika-expert-pomohly-dve-veci-hodnota-narostla-o-miliony.html|title=Sochůrek je objev sezony, říká expert. Pomohly dvě věci, hodnota narostla o miliony|trans-title=Sochůrek is the discovery of the season, says the expert. Two things helped, the value increased by millions|language=cs|work=[[Blesk]]|date=12 April 2026|access-date=17 May 2026|publisher=[[Czech News Center]]}}</ref>
+
+==Club career==
+As a youth player, Sochůrek joined the [[youth academy]] of [[FC Silon Táborsko|Táborsko]]. Following his stint there, he joined the youth academy of [[AC Sparta Prague|Sparta Prague]] in 2020 and was promoted to the club's senior team in 2026.<ref name="net">{{WorldFootball.net|hugo-sochurek}}</ref>
+
+==International career==
+Sochůrek is a Czech Republic youth international. During the spring of 2026, he played for the [[Czech Republic national under-19 football team]] for [[2026 UEFA European Under-19 Championship qualification]].<ref name="net"/>
+
+==Style of play==
+Sochůrek plays as a [[midfielder]]. Czech news website ''[[Aktuálně.cz]]'' wrote in 2026 that "Sochůrek's playing profile is unusual in the Chance Liga, and certainly not among Czech players. In a time when mileage, duels and set pieces are the main focus, players like Sochůrek are all the more valuable".<ref>{{Cite web|last=Formáček|first=Alexander|url=https://sport.aktualne.cz/fotbal/ve-sparte-roste-zbozi-pro-bundesligu-drsek-popsal-v-cem-vynika-oproti-ostatnim/r~aaa295a9fa4d127decfc8d85286fe8de/?lp=1|title=Ve Spartě roste zboží pro Bundesligu. Drsek popsal, v čem vyniká oproti ostatním|trans-title=Sparta is growing goods for the Bundesliga. Drsek described what makes it stand out from the rest|language=cs|work=[[Aktuálně.cz]]|date=25 April 2026|access-date=17 May 2026|publisher=[[Economia]]}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 24 May 2026}}
+
+{| class="wikitable" style="text-align: center"
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|Cup
+!colspan="2"|Europe
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="1"|[[AC Sparta Prague|Sparta Prague]]
+|[[2025–26 Czech First League|2025–26]]
+|[[Czech First League]]
+|8||0||1||0||1{{efn|Appearance in [[UEFA Conference League]]}}||0||colspan="2"|—||10||0
+|-
+|[[AC Sparta Prague B|Sparta Prague B]]
+|[[2025–26 Czech National Football League|2025–26]]
+|[[Czech National Football League]]
+|5||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||5||0
+|-
+!colspan="3"|Career total
+!13!!0!!1!!0!!1!!0!!0!!0!!15!!0
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 31 May 2026}}
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="1"|[[Czech Republic national football team|Czech Republic]]
+|2026||1||0
+|-
+!colspan="2"|Total!!1!!0
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{WorldFootball.net|hugo-sochurek}}
+*{{Chanceliga.cz|5064-hugo-sochurek}}
+*{{FAČR player|new_id=16335387}}
+
+{{AC Sparta Prague squad}}
+{{Czech Republic squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Sochurek, Hugo}}
+[[Category:2008 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Tábor]]
+[[Category:Czech men's footballers]]
+[[Category:Men's association football midfielders]]
+[[Category:Czech Republic men's international footballers]]
+[[Category:Czech Republic men's youth international footballers]]
+[[Category:AC Sparta Prague players]]
+[[Category:Czech First League players]]
+[[Category:Czech National Football League players]]
+[[Category:2026 FIFA World Cup players]]

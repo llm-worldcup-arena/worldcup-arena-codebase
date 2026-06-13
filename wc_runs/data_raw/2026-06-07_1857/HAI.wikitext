@@ -1,0 +1,35 @@
+===Current squad===
+The following 26 players were called up to the [[2026 FIFA World Cup]], and for the pre-tournament friendly matches against [[New Zealand men's national football team|New Zealand]] and [[Peru national football team|Peru]] on 2 and 5 June 2026, respectively.<ref>{{cite web |url=https://rezoboul.com/sports/haiti-sapprete-a-decouvrir-ses-26-soldats/ |title=Haïti s’apprête à découvrir ses 26 soldats ! |trans-title=Haiti is about to unveil its 26 soldiers! |website=Rezoboul |date=May 12, 2026 |access-date=May 13, 2026 |language=fr}}</ref>
+<br>''Caps and goals are correct as of 5 June 2026, after the match against [[Peru national football team|Peru]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Johny Placide]]|other=[[Captain (association football)|captain]]|age={{bda|1988|1|29|df=y}}|caps=81|goals=0|club=[[SC Bastia|Bastia]]|clubnat=FRA}}
+{{nat fs g player|no=12|pos=GK|name=[[Alexandre Pierre]]|age={{bda|2001|2|25|df=y}}|caps=15|goals=0|club=[[FC Sochaux-Montbéliard|Sochaux]]|clubnat=FRA}}
+{{nat fs g player|no=23|pos=GK|name=[[Josué Duverger]]|age={{bda|2000|4|27|df=y}}|caps=6|goals=0|club=[[FC Cosmos Koblenz|Cosmos Koblenz]]|clubnat=GER}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Carlens Arcus]]|age={{bda|1996|6|28|df=y}}|caps=53|goals=1|club=[[Angers SCO|Angers]]|clubnat=FRA}}
+{{nat fs g player|no=3|pos=DF|name=[[Keeto Thermoncy]]|age={{bda|2006|3|29}}|caps=1|goals=0|club=[[BSC Young Boys|Young Boys]]|clubnat=SUI}}
+{{nat fs g player|no=4|pos=DF|name=[[Ricardo Adé]]|age={{bda|1990|5|21|df=y}}|caps=59|goals=2|club=[[L.D.U. Quito|LDU Quito]]|clubnat=ECU}}
+{{nat fs g player|no=5|pos=DF|name=[[Hannes Delcroix]]|age={{bda|1999|2|28|df=y}}|caps=7|goals=0|club=[[FC Lugano|Lugano]]|clubnat=SUI}}
+{{nat fs g player|no=8|pos=DF|name=[[Martin Expérience]]|age={{bda|1999|3|9|df=y}}|caps=21|goals=0|club=[[AS Nancy Lorraine|Nancy]]|clubnat=FRA}}
+{{nat fs g player|no=13|pos=DF|name=[[Duke Lacroix]]|age={{bda|1993|10|14|df=y}}|caps=16|goals=3|club=[[Colorado Springs Switchbacks FC|Colorado Springs Switchbacks]]|clubnat=USA}}
+{{nat fs g player|no=22|pos=DF|name=[[Jean-Kévin Duverne]]|age={{bda|1997|7|12|df=y}}|caps=17|goals=1|club=[[K.A.A. Gent|Gent]]|clubnat=BEL}}
+{{nat fs g player|no=24|pos=DF|name=[[Wilguens Paugain]]|age={{bda|2001|8|24|df=y}}|caps=8|goals=0|club=[[S.V. Zulte Waregem|Zulte Waregem]]|clubnat=BEL}}
+{{nat fs break}}
+{{nat fs g player|no=6|pos=MF|name=[[Carl Sainté]]|age={{bda|2002|8|9|df=y}}|caps=26|goals=0|club=[[El Paso Locomotive FC|El Paso Locomotive]]|clubnat=USA}}
+{{nat fs g player|no=10|pos=MF|name=[[Jean‐Ricner Bellegarde]]|age={{bda|1998|6|27|df=y}}|caps=10|goals=0|club=[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]|clubnat=ENG}}
+{{nat fs g player|no=14|pos=MF|name=[[Leverton Pierre]]|age={{bda|1998|3|9|df=y}}|caps=33|goals=0|club=[[F.C. Vizela|Vizela]]|clubnat=POR}}
+{{nat fs g player|no=17|pos=MF|name=[[Danley Jean Jacques]]|age={{bda|2000|5|20|df=y}}|caps=30|goals=6|club=[[Philadelphia Union]]|clubnat=USA}}
+{{nat fs g player|no=25|pos=MF|name=[[Dominique Simon]]|age={{bda|2000|7|29|df=y}}|caps=2|goals=0|club=[[1. FC Tatran Prešov|Tatran Prešov]]|clubnat=SVK}}
+{{nat fs g player|no=26|pos=MF|name=[[Woodensky Pierre]]|age={{bda|2004|12|30|df=y}}|caps=1|goals=0|club=[[Violette AC|Violette]]|clubnat=HAI}}
+{{nat fs break}}
+{{nat fs g player|no=7|pos=FW|name=[[Derrick Etienne Jr.]]|age={{bda|1996|11|25|df=y}}|caps=48|goals=8|club=[[Toronto FC]]|clubnat=CAN}}
+{{nat fs g player|no=9|pos=FW|name=[[Duckens Nazon]]|age={{bda|1994|4|7|df=y}}|caps=78|goals=44|club=[[Esteghlal F.C.|Esteghlal]]|clubnat=IRN}}
+{{nat fs g player|no=11|pos=FW|name=[[Louicius Deedson]]|age={{bda|2001|2|11|df=y}}|caps=32|goals=10|club=[[FC Dallas]]|clubnat=USA}}
+{{nat fs g player|no=15|pos=FW|name=[[Ruben Providence]]|age={{bda|2001|7|7|df=y}}|caps=15|goals=3|club=[[Almere City FC|Almere City]]|clubnat=NED}}
+{{nat fs g player|no=16|pos=FW|name=[[Lenny Joseph]]|age={{bda|2000|10|12|df=y}}|caps=2|goals=1|club=[[Ferencvárosi TC|Ferencváros]]|clubnat=HUN}}
+{{nat fs g player|no=18|pos=FW|name=[[Wilson Isidor]]|age={{bda|2000|8|27|df=y}}|caps=4|goals=2|club=[[Sunderland A.F.C.|Sunderland]]|clubnat=ENG}}
+{{nat fs g player|no=19|pos=FW|name=[[Yassin Fortuné]]|age={{bda|1999|1|30|df=y}}|caps=4|goals=0|club=[[F.C. Vizela|Vizela]]|clubnat=POR}}
+{{nat fs g player|no=20|pos=FW|name=[[Frantzdy Pierrot]]|age={{bda|1995|3|29|df=y}}|caps=51|goals=34|club=[[Çaykur Rizespor]]|clubnat=TUR}}
+{{nat fs g player|no=21|pos=FW|name=[[Josué Casimir]]|age={{bda|2001|9|24|df=y}}|caps=7|goals=0|club=[[AJ Auxerre|Auxerre]]|clubnat=FRA}}
+{{nat fs end}}

@@ -1,0 +1,605 @@
+[
+ {
+  "player_id": "125714",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/125714",
+  "name": "MarkFlekken",
+  "shirt_number": 1,
+  "club": "Joined:",
+  "club_id": "15",
+  "market_value": "€6.00m",
+  "market_value_numeric": 6000000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Outfitter:",
+  "nationality": "Germany",
+  "citizenships": [
+   "Germany",
+   "Netherlands",
+   "Netherlands",
+   "Netherlands",
+   "Netherlands",
+   "Netherlands"
+  ],
+  "market_value_history": [
+   {
+    "date": "Oct 18, 2011",
+    "value": "€50k",
+    "value_numeric": 50000,
+    "club": "Alemannia Aachen U19",
+    "age": "18"
+   },
+   {
+    "date": "Jan 16, 2012",
+    "value": "€50k",
+    "value_numeric": 50000,
+    "club": "Alemannia Aachen U19",
+    "age": "18"
+   },
+   {
+    "date": "Jan 29, 2013",
+    "value": "€100k",
+    "value_numeric": 100000,
+    "club": "Alemannia Aachen",
+    "age": "19"
+   },
+   {
+    "date": "Mar 11, 2013",
+    "value": "€200k",
+    "value_numeric": 200000,
+    "club": "Alemannia Aachen",
+    "age": "19"
+   },
+   {
+    "date": "Jun 28, 2013",
+    "value": "€250k",
+    "value_numeric": 250000,
+    "club": "Alemannia Aachen",
+    "age": "20"
+   },
+   {
+    "date": "Jan 20, 2014",
+    "value": "€250k",
+    "value_numeric": 250000,
+    "club": "SpVgg Greuther Fürth",
+    "age": "20"
+   },
+   {
+    "date": "Jun 30, 2014",
+    "value": "€250k",
+    "value_numeric": 250000,
+    "club": "SpVgg Greuther Fürth",
+    "age": "21"
+   },
+   {
+    "date": "Jan 13, 2015",
+    "value": "€200k",
+    "value_numeric": 200000,
+    "club": "SpVgg Greuther Fürth",
+    "age": "21"
+   },
+   {
+    "date": "Jul 1, 2015",
+    "value": "€200k",
+    "value_numeric": 200000,
+    "club": "SpVgg Greuther Fürth",
+    "age": "22"
+   },
+   {
+    "date": "Feb 11, 2016",
+    "value": "€200k",
+    "value_numeric": 200000,
+    "club": "SpVgg Greuther Fürth",
+    "age": "22"
+   },
+   {
+    "date": "Jul 14, 2016",
+    "value": "€200k",
+    "value_numeric": 200000,
+    "club": "MSV Duisburg",
+    "age": "23"
+   },
+   {
+    "date": "Oct 8, 2016",
+    "value": "€250k",
+    "value_numeric": 250000,
+    "club": "MSV Duisburg",
+    "age": "23"
+   },
+   {
+    "date": "Feb 10, 2017",
+    "value": "€350k",
+    "value_numeric": 350000,
+    "club": "MSV Duisburg",
+    "age": "23"
+   },
+   {
+    "date": "Jun 14, 2017",
+    "value": "€450k",
+    "value_numeric": 450000,
+    "club": "MSV Duisburg",
+    "age": "24"
+   },
+   {
+    "date": "Oct 17, 2017",
+    "value": "€600k",
+    "value_numeric": 600000,
+    "club": "MSV Duisburg",
+    "age": "24"
+   },
+   {
+    "date": "Jan 22, 2018",
+    "value": "€750k",
+    "value_numeric": 750000,
+    "club": "MSV Duisburg",
+    "age": "24"
+   },
+   {
+    "date": "Jun 19, 2018",
+    "value": "€900k",
+    "value_numeric": 900000,
+    "club": "MSV Duisburg",
+    "age": "25"
+   },
+   {
+    "date": "Dec 18, 2018",
+    "value": "€750k",
+    "value_numeric": 750000,
+    "club": "SC Freiburg",
+    "age": "25"
+   },
+   {
+    "date": "Jun 5, 2019",
+    "value": "€600k",
+    "value_numeric": 600000,
+    "club": "SC Freiburg",
+    "age": "25"
+   },
+   {
+    "date": "Dec 17, 2019",
+    "value": "€1.20m",
+    "value_numeric": 1200000,
+    "club": "SC Freiburg",
+    "age": "26"
+   },
+   {
+    "date": "Apr 8, 2020",
+    "value": "€950k",
+    "value_numeric": 950000,
+    "club": "SC Freiburg",
+    "age": "26"
+   },
+   {
+    "date": "Sep 16, 2020",
+    "value": "€2.00m",
+    "value_numeric": 2000000,
+    "club": "SC Freiburg",
+    "age": "27"
+   },
+   {
+    "date": "Feb 10, 2021",
+    "value": "€2.00m",
+    "value_numeric": 2000000,
+    "club": "SC Freiburg",
+    "age": "27"
+   },
+   {
+    "date": "Jun 9, 2021",
+    "value": "€2.50m",
+    "value_numeric": 2500000,
+    "club": "SC Freiburg",
+    "age": "27"
+   },
+   {
+    "date": "Oct 7, 2021",
+    "value": "€4.00m",
+    "value_numeric": 4000000,
+    "club": "SC Freiburg",
+    "age": "28"
+   },
+   {
+    "date": "Dec 22, 2021",
+    "value": "€5.50m",
+    "value_numeric": 5500000,
+    "club": "SC Freiburg",
+    "age": "28"
+   },
+   {
+    "date": "Jun 9, 2022",
+    "value": "€7.00m",
+    "value_numeric": 7000000,
+    "club": "SC Freiburg",
+    "age": "28"
+   },
+   {
+    "date": "Nov 9, 2022",
+    "value": "€7.00m",
+    "value_numeric": 7000000,
+    "club": "SC Freiburg",
+    "age": "29"
+   },
+   {
+    "date": "Jun 22, 2023",
+    "value": "€10.00m",
+    "value_numeric": 10000000,
+    "club": "SC Freiburg",
+    "age": "30"
+   },
+   {
+    "date": "Oct 9, 2023",
+    "value": "€12.00m",
+    "value_numeric": 12000000,
+    "club": "Brentford FC",
+    "age": "30"
+   },
+   {
+    "date": "Dec 19, 2023",
+    "value": "€12.00m",
+    "value_numeric": 12000000,
+    "club": "Brentford FC",
+    "age": "30"
+   },
+   {
+    "date": "May 27, 2024",
+    "value": "€12.00m",
+    "value_numeric": 12000000,
+    "club": "Brentford FC",
+    "age": "30"
+   },
+   {
+    "date": "Dec 16, 2024",
+    "value": "€10.00m",
+    "value_numeric": 10000000,
+    "club": "Brentford FC",
+    "age": "31"
+   },
+   {
+    "date": "May 30, 2025",
+    "value": "€10.00m",
+    "value_numeric": 10000000,
+    "club": "Brentford FC",
+    "age": "31"
+   },
+   {
+    "date": "Dec 19, 2025",
+    "value": "€8.00m",
+    "value_numeric": 8000000,
+    "club": "Bayer 04 Leverkusen",
+    "age": "32"
+   },
+   {
+    "date": "May 27, 2026",
+    "value": "€6.00m",
+    "value_numeric": 6000000,
+    "club": "Bayer 04 Leverkusen",
+    "age": "32"
+   }
+  ],
+  "peak_market_value": 12000000,
+  "transfers": [],
+  "_our_pid": "per_mark_flekken"
+ },
+ {
+  "player_id": "415381",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/415381",
+  "name": "MatsWieffer",
+  "shirt_number": 27,
+  "club": "Joined:",
+  "club_id": "1237",
+  "market_value": "€25.00m",
+  "market_value_numeric": 25000000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Outfitter:",
+  "nationality": "England",
+  "citizenships": [
+   "England",
+   "Netherlands",
+   "Netherlands",
+   "Netherlands",
+   "Netherlands",
+   "Netherlands"
+  ],
+  "market_value_history": [
+   {
+    "date": "Jan 21, 2019",
+    "value": "€25k",
+    "value_numeric": 25000,
+    "club": "FC Twente Enschede U21",
+    "age": "19"
+   },
+   {
+    "date": "Jul 3, 2019",
+    "value": "€25k",
+    "value_numeric": 25000,
+    "club": "FC Twente Enschede U21",
+    "age": "19"
+   },
+   {
+    "date": "Aug 12, 2020",
+    "value": "€25k",
+    "value_numeric": 25000,
+    "club": "SBV Excelsior",
+    "age": "20"
+   },
+   {
+    "date": "Oct 24, 2020",
+    "value": "€75k",
+    "value_numeric": 75000,
+    "club": "SBV Excelsior",
+    "age": "20"
+   },
+   {
+    "date": "Dec 31, 2020",
+    "value": "€225k",
+    "value_numeric": 225000,
+    "club": "SBV Excelsior",
+    "age": "21"
+   },
+   {
+    "date": "Oct 12, 2021",
+    "value": "€275k",
+    "value_numeric": 275000,
+    "club": "Excelsior Rotterdam",
+    "age": "21"
+   },
+   {
+    "date": "Jan 12, 2022",
+    "value": "€300k",
+    "value_numeric": 300000,
+    "club": "Excelsior Rotterdam",
+    "age": "22"
+   },
+   {
+    "date": "Jun 23, 2022",
+    "value": "€400k",
+    "value_numeric": 400000,
+    "club": "Excelsior Rotterdam",
+    "age": "22"
+   },
+   {
+    "date": "Sep 14, 2022",
+    "value": "€800k",
+    "value_numeric": 800000,
+    "club": "Feyenoord Rotterdam",
+    "age": "22"
+   },
+   {
+    "date": "Nov 11, 2022",
+    "value": "€1.00m",
+    "value_numeric": 1000000,
+    "club": "Feyenoord Rotterdam",
+    "age": "22"
+   },
+   {
+    "date": "Mar 17, 2023",
+    "value": "€7.00m",
+    "value_numeric": 7000000,
+    "club": "Feyenoord Rotterdam",
+    "age": "23"
+   },
+   {
+    "date": "Jun 23, 2023",
+    "value": "€15.00m",
+    "value_numeric": 15000000,
+    "club": "Feyenoord Rotterdam",
+    "age": "23"
+   },
+   {
+    "date": "Dec 15, 2023",
+    "value": "€18.00m",
+    "value_numeric": 18000000,
+    "club": "Feyenoord Rotterdam",
+    "age": "24"
+   },
+   {
+    "date": "Mar 18, 2024",
+    "value": "€27.00m",
+    "value_numeric": 27000000,
+    "club": "Feyenoord Rotterdam",
+    "age": "24"
+   },
+   {
+    "date": "May 31, 2024",
+    "value": "€30.00m",
+    "value_numeric": 30000000,
+    "club": "Feyenoord Rotterdam",
+    "age": "24"
+   },
+   {
+    "date": "Dec 16, 2024",
+    "value": "€30.00m",
+    "value_numeric": 30000000,
+    "club": "Brighton & Hove Albion",
+    "age": "25"
+   },
+   {
+    "date": "Mar 18, 2025",
+    "value": "€27.00m",
+    "value_numeric": 27000000,
+    "club": "Brighton & Hove Albion",
+    "age": "25"
+   },
+   {
+    "date": "May 30, 2025",
+    "value": "€25.00m",
+    "value_numeric": 25000000,
+    "club": "Brighton & Hove Albion",
+    "age": "25"
+   },
+   {
+    "date": "Dec 9, 2025",
+    "value": "€25.00m",
+    "value_numeric": 25000000,
+    "club": "Brighton & Hove Albion",
+    "age": "26"
+   },
+   {
+    "date": "Jun 3, 2026",
+    "value": "€25.00m",
+    "value_numeric": 25000000,
+    "club": "Brighton & Hove Albion",
+    "age": "26"
+   }
+  ],
+  "peak_market_value": 30000000,
+  "transfers": [],
+  "_our_pid": "per_mats_wieffer"
+ },
+ {
+  "player_id": "646991",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/646991",
+  "name": "RobinRoefs",
+  "shirt_number": 22,
+  "club": "Joined:",
+  "club_id": "289",
+  "market_value": "€28.00m",
+  "market_value_numeric": 28000000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Jun 30, 2030",
+  "nationality": "England",
+  "citizenships": [
+   "England",
+   "Netherlands",
+   "Netherlands",
+   "Netherlands",
+   "Netherlands",
+   "Netherlands"
+  ],
+  "market_value_history": [
+   {
+    "date": "Oct 4, 2021",
+    "value": "€75k",
+    "value_numeric": 75000,
+    "club": "NEC Nijmegen",
+    "age": "18"
+   },
+   {
+    "date": "Jan 5, 2022",
+    "value": "€75k",
+    "value_numeric": 75000,
+    "club": "NEC Nijmegen",
+    "age": "18"
+   },
+   {
+    "date": "Jun 8, 2022",
+    "value": "€75k",
+    "value_numeric": 75000,
+    "club": "NEC Nijmegen",
+    "age": "19"
+   },
+   {
+    "date": "Nov 11, 2022",
+    "value": "€75k",
+    "value_numeric": 75000,
+    "club": "NEC Nijmegen",
+    "age": "19"
+   },
+   {
+    "date": "Jun 23, 2023",
+    "value": "€75k",
+    "value_numeric": 75000,
+    "club": "NEC Nijmegen",
+    "age": "20"
+   },
+   {
+    "date": "Oct 17, 2023",
+    "value": "€400k",
+    "value_numeric": 400000,
+    "club": "NEC Nijmegen",
+    "age": "20"
+   },
+   {
+    "date": "Dec 15, 2023",
+    "value": "€400k",
+    "value_numeric": 400000,
+    "club": "NEC Nijmegen",
+    "age": "20"
+   },
+   {
+    "date": "May 31, 2024",
+    "value": "€600k",
+    "value_numeric": 600000,
+    "club": "NEC Nijmegen",
+    "age": "21"
+   },
+   {
+    "date": "Oct 14, 2024",
+    "value": "€1.00m",
+    "value_numeric": 1000000,
+    "club": "NEC Nijmegen",
+    "age": "21"
+   },
+   {
+    "date": "Dec 17, 2024",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "NEC Nijmegen",
+    "age": "21"
+   },
+   {
+    "date": "Mar 28, 2025",
+    "value": "€2.50m",
+    "value_numeric": 2500000,
+    "club": "NEC Nijmegen",
+    "age": "22"
+   },
+   {
+    "date": "May 28, 2025",
+    "value": "€4.00m",
+    "value_numeric": 4000000,
+    "club": "NEC Nijmegen",
+    "age": "22"
+   },
+   {
+    "date": "Oct 17, 2025",
+    "value": "€12.00m",
+    "value_numeric": 12000000,
+    "club": "Sunderland AFC",
+    "age": "22"
+   },
+   {
+    "date": "Dec 9, 2025",
+    "value": "€18.00m",
+    "value_numeric": 18000000,
+    "club": "Sunderland AFC",
+    "age": "22"
+   },
+   {
+    "date": "Mar 9, 2026",
+    "value": "€25.00m",
+    "value_numeric": 25000000,
+    "club": "Sunderland AFC",
+    "age": "23"
+   },
+   {
+    "date": "Jun 3, 2026",
+    "value": "€28.00m",
+    "value_numeric": 28000000,
+    "club": "Sunderland AFC",
+    "age": "23"
+   }
+  ],
+  "peak_market_value": 28000000,
+  "transfers": [],
+  "_our_pid": "per_robin_roefs"
+ }
+]

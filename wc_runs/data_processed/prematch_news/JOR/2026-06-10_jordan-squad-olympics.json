@@ -1,0 +1,16 @@
+{
+ "team": "JOR",
+ "source": "Olympics.com",
+ "url": "https://www.olympics.com/en/news/fifa-world-cup-2026-jordan-all-players-full-squad-list-key-stats-schedule",
+ "title": "FIFA World Cup 2026: Jordan dream big on debut",
+ "news_date": "2026-06-10",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-10",
+ "fetched": "2026-06-13_0748",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Goalkeepers: Yazid Abulaila (Al-Hussein), Abdallah Al Fakhouri (Al-Wehdat), Nour Bani Attiah (Al-Faisaly)\nDefenders: Mohammad Abualnadi (Selangor), Husam Abu Dahab (Al-Samiya), Mohammad Abu Hashish (Al-Karma), Yazan Al Arab (Seoul), Abdallah Nasib (Al-Zawraa), Saleem Obaid (Al-Hussein), Ehsan Haddad, Saed Al-Rosan, Anas Banawi (Al-Faisaly), Mohannad Abu Taha (Al-Quwa Al-Jawiya)\nMidfielders: Mohammad Al Dawoud (Al-Wehdat), Nizar Al Rashdan (Qatar SC), Noor Al Rawabdeh (Selangor), Rajaei Ayed (Al-Hussein), Amer Jamous (Al-Zawraa), Ibrahim Sadeh (Al-Karma), Mahmoud Al-Mardi (Al-Hussein).\nForwards: Mousa Al Tamari (Rennes), Odeh Al-Fakhouri (Pyramids), Mohammad Abu Zrayq (Raja Casablanca), Ali Azaizeh (Al-Shabab), Ali Olwan (Al-Sailiya), Ibrahim Sabra (Lokomotiva Zagreb)",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

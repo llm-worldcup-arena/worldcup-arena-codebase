@@ -1,0 +1,17 @@
+{
+ "match": {
+  "slug": "2026-06-14_GER_vs_CUW",
+  "date": "2026-06-14",
+  "home": "GER",
+  "away": "CUW",
+  "round": "group",
+  "group": "E"
+ },
+ "referee": {
+  "name": "Jalal Jiyed(摩洛哥)",
+  "source": "WebSearch多源(MoroccoWorldNews/africasoccer/Elbotola)",
+  "fetched": "2026-06-13_1601"
+ },
+ "brief": "- **信息局限性**：Jalal Jiyed为摩洛哥国际级裁判，但公开渠道关于其具体执法风格（牌量尺度、VAR使用偏好）与详细大赛履历的信息极为有限，无法提供确切分析\n- **潜在影响**：基于现有信息不足，难以预判其在高强度对抗下的判罚倾向及对本场可能产生的影响",
+ "_note": "裁判=比赛层人员数据,与教练同规格(结构化+可读brief);brief 由 referee_enrich.py py-Kimi 生成。"
+}

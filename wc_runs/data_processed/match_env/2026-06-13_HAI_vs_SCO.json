@@ -1,0 +1,43 @@
+{
+ "match": {
+  "slug": "2026-06-13_HAI_vs_SCO",
+  "date": "2026-06-13",
+  "home": "HAI",
+  "away": "SCO",
+  "round": "group",
+  "group": "C"
+ },
+ "kickoff": {
+  "美东": "2026-06-13T21:00:00-04:00",
+  "北京": "06-14 09:00"
+ },
+ "venue": {
+  "name": "Gillette Stadium",
+  "city": "Foxborough, Massachusetts",
+  "altitude_m": 89,
+  "roof": "open",
+  "surface": "grass"
+ },
+ "weather": {
+  "开球时段": {
+   "温度C": 24.3,
+   "体感C": 23.4,
+   "降水概率%": 0,
+   "降水mm": 0.0,
+   "风速kmh": 4.3,
+   "湿度%": 38,
+   "天况": "晴"
+  },
+  "source": "open-meteo(免费预报API)",
+  "fetched": "2026-06-13_0748",
+  "_note": "临近开球建议 --refresh 刷新"
+ },
+ "referee": {
+  "name": "Mustapha Ghorbal(阿尔及利亚)",
+  "var": "Jose Enrique Naranjo(西班牙)",
+  "source": "WebSearch多源(Scotsman/ESPN/cryptobriefing)",
+  "fetched": "2026-06-13_0748",
+  "brief": "- 大赛履历：2021非洲国家杯主裁，2022世界杯裁判团队成员，多次执法非洲冠军联赛\n- 执法背景：非洲足联精英裁判，熟悉高强度对抗赛事环境\n- 潜在影响：世界杯正赛主哨经验较少，本场判罚尺度建立与VAR配合需实战验证"
+ },
+ "_note": "环境=比赛+时间+地点 确定;天气为开球时段;顶棚 retractable/fixed-canopy 时天气影响有限。"
+}

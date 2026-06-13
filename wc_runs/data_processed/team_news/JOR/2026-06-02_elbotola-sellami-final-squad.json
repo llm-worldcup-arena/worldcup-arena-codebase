@@ -1,0 +1,16 @@
+{
+ "team": "JOR",
+ "source": "Elbotola",
+ "url": "https://m.elbotola.com/en/article/2026-06-02-09-43-150.html",
+ "title": "Jamal Sellami Names Jordan's Final Squad for 2026 World Cup, Including \"Sharara\"",
+ "news_date": "2026-06-02",
+ "published": "2026-06-02T09:49:00.000Z",
+ "tier": "3",
+ "lang": "en",
+ "asof": "2026-06-13",
+ "fetched": "2026-06-13_0637",
+ "method": "jsonld:articleBody",
+ "status": "ok",
+ "original_text": "The Jordan Football Association has unveiled the final squad for the \"Al-Nashama\" national team, set to participate in the 2026 FIFA World Cup finals. This marks Jordan's historic first appearance in the global showpiece, under the guidance of Moroccan coach Jamal Sellami.The squad features several of Jordan's most prominent football stars, including Mousa Al-Tamari and Ali Olwan. Also making the cut is Raja Casablanca player Mohammed Abu Zureiq, known as \"Sharara,\" who has secured his place among the Jordanian national team's selections for the World Cup.As anticipated, the squad notably omits Yazan Al-Naimat, who sustained an anterior cruciate ligament injury last December while competing in the Arab Cup and subsequently underwent surgery.The 26-player Jordanian national team squad includes: Yazid Abu Layla, Abdullah Al-Fakhouri, Nour Bani Atiyah, Abdullah Naseeb, Saad Al-Rousan, Yazan Al-Arab, Saleem Obaid, Mohammed Abu Al-Nadi, Hussam Abu Dahab, Ihsan Haddad, Anas Badawi, Muhannad Abu Taha, Mohammed Abu Hasheesh, Noor Al-Rawabdeh, Nizar Al-Rashdan, Ibrahim Saadeh, Rajaei Ayed, Amer Jamous, Mohammed Al-Daoud, Mahmoud Mardi, Oudah Al-Fakhouri, Mousa Al-Tamari, Mohammed Abu Zureiq, Ali Azayzeh, Ibrahim Sabra, and Ali Olwan.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

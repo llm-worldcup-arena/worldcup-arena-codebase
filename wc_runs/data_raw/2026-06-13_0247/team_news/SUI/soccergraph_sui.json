@@ -1,0 +1,15 @@
+{
+ "team": "SUI",
+ "source": "Soccergraph",
+ "url": "https://www.soccergraph.com/2026/05/switzerland-squad-list-fifa-world-cup-full-players.html",
+ "title": "Switzerland names 2026 World Cup squad, Xhaka, Amdouni IN, Full Players List - Soccergraph",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "asof": "2026-06-13",
+ "fetched": "2026-06-13_0247",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "Group B Squads : Canada , Bosnia Herzegovina , Qatar , Switzerland .\n\nGroup C Squads : Brazil , Morocco , Haiti, Scotland .\n\nGroup D Squads : USMNT, Paraguay , Australia , Turkey .\n\nGroup E Squads : Germany , Curaçao , Ivory Coast , Ecuador .\n\nGroup F Squads : Netherlands , Japan , Sweden , Tunisia .\n\nGroup H Squads : Spain . Cape Verde , Saudi Arabia Uruguay .\n\nGroup I Squads : France , Senegal , Iraq , Norway .\n\nGroup J Squads : Argentina . Algeria . Austria . Jordan .\n\nGroup K Squads : Portugal . DR Congo . Uzbekistan . Colombia .\n\nGroup L Squads : England . Croatia . Ghana Panama.\n\nGroup H Squad :: Spain Squad . :: Cape Verde Squad . :: Saudi Arabia Squad :: Uruguay Squad .\n\nGroup I Squad :: France Squad . :: Senegal Squad . :: Iraq Squad :: Norway Squad .\n\nGroup J Squad :: Argentina Squad . :: Algeria Squad . :: Austria Squad . :: Jordan Squad .\n\nGroup K Squad :: Portugal Squad . :: DR Congo Squad . :: Uzbekistan Squad . :: Colombia Squad .\n\nGroup L Squad :: England Squad . :: Croatia Squad .",
+ "_note": "team_data 赛前伤停/新闻 raw 全量留底;摘要(digest)另写进 summary ⑦/块B,可凭此回溯全文。"
+}

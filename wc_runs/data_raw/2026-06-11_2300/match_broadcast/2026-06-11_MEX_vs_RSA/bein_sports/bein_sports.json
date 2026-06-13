@@ -1,0 +1,22 @@
+{
+ "source": "beIN SPORTS（权威·广播）",
+ "url": "https://www.beinsports.com/en-mena/football/fifa-world-cup-2026/articles-video/mexico-beat-south-africa-2-0-in-world-cup-opening-game-2026-06-11",
+ "title": "Mexico beat South Africa 2-0 in World Cup opening game",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-11",
+  "home": "MEX",
+  "away": "RSA",
+  "home_en": "Mexico",
+  "away_en": "South Africa",
+  "comp": "小组赛·A组",
+  "match_id": "M1",
+  "slug": "2026-06-11_MEX_vs_RSA"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Mexico ignited their World Cup party with a dominant 2-0 victory over nine-man South Africa on Thursday as the biggest ever edition of the global footballing showpiece kicked off at the iconic Estadio Azteca.\n\nJulian Quinones scored the opening goal of the tournament and veteran striker Raul Jimenez added a second as the co-hosts' bid for qualification from Group A got off to smooth start.\n\nSouth Africa meanwhile never looked like spoiling the opening day fiesta, and finished with only nine men after Sphephelo Sithole and Themba Zwane were sent off.\n\nThe Mexican-colored red, green and white smoke from pre-game fireworks had barely dissipated before Quinones fired the hosts into the lead on nine minutes, drilling a low shot through the legs of South Africa’s goalkeeper and captain Ronwen Williams.\n\nA deafening roar cascaded down from the stands of the Azteca, the footballing cathedral that became the only stadium to host games at three different World Cups.\n\nSouth Africa coach Hugo Broos had warned his players to be ready for the intimidating atmosphere created by a capacity 80,824 crowd at the imposing concrete arena.\n\nBut South Africa’s players looked to have a bad case of stage fright as Mexico's fans greeted each completed pass with a raucous chorus of \"Ole!\" in the opening minutes.\n\nSithole seemed particularly affected, being caught in possession trying to play out of the back for Quinones' opening goal.\n\nSithole's miserable afternoon ended with a 49th minute dismissal after bundling over Mexico’s Brian Gutierrez when clean through on goal.\n\nMexico rammed home their advantage in the 67th minute, with a fine counter attack culminating in Roberto Alvarado crossing for Wolverhampton Wanderers forward Jimenez to nod home at the far post.\n\nIt got worse for South Africa in the 84th minute when Zwane was dismissed after a VAR review for flinging an arm into the face of Alvarado.\n\nThere was still time for late drama when Mexican defender Cesar Montes was shown a red card for a clumsy challenge on Khulisa Mudau on the edge of the penalty area.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

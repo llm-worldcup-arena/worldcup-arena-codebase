@@ -1,0 +1,22 @@
+{
+ "source": "RPP（秘鲁）",
+ "url": "https://rpp.pe/futbol/mundial-2026/corea-del-sur-vs-republica-checa-en-vivo-dsports-que-canal-transmite-fecha-1-mundial-2026-pronostico-partidos-de-hoy-seo-noticia-1692441",
+ "title": "Corea del Sur hizo su trabajo: venció 2-1 a República Checa por la fecha 1 del Mundial 2026",
+ "published": "2026-06-11T23:15:37-05:00",
+ "tier": "3",
+ "lang": "es",
+ "match": {
+  "date": "2026-06-11",
+  "home": "KOR",
+  "away": "CZE",
+  "home_en": "Korea Republic",
+  "away_en": "Czech Republic",
+  "comp": "小组赛·A组",
+  "match_id": "M2",
+  "slug": "2026-06-11_KOR_vs_CZE"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Corea del sur se recuperó de un gol en contra para derrotar 2-1 a la República Checa y sumar sus primeros tres puntos en el grupo A del Mundial 2026.En la primera mitad, los dos equipos se neutralizaron, con lucha en la mitad de la cancha y escasas llegadas al área.Corea estuvo más cerca del gol con un buen remate de Kang In Lee, detenido por el arquero Matej Kovar; y una jugada de peligro de Heung Min Son, quien llegó desacomodado a un balón frente a la portería y lo echó por un lado.En la segunda mitad, Corea estuvo cerca de abrir el marcador con llegadas de Kang In lee y Jae Sung Lee, detenidos por un par de buenas apariciones de Kovar.Corea se afianzó y sacó ventajas. En el minuto 55, volvió a estar cerca del gol con un remate de Min Son, a pase de Jae Sung.Cuando mejor jugaban los coreanos, los checos tomaron ventaja. En un tiro de esquina, Krejci sacó provecho de la mala marca y de cabeza puso el 1-0.Los checos se replegaron y recibieron castigo con un elegante gol de Inbeom en el 67, quien hizo un regate fuera del área y de derecha puso el balón en un ángulo, el 1-1.Los dos equipos se volcaron por el gol de la victoria; los coreanos fueron dominantes de nueva cuenta y lo confirmaron en el 80 con un balón de Inbeom a Hyeong Gyu, quien metió el balón en la red para firmar la victoria.Tras los partidos de hoy México y Corea lideran el grupo A con un triunfo en una salida, en tanto que checos y sudafricanos suman un revés.En la segunda jornada, el próximo jueves 18, Corea enfrentará a México en Guadalajara y la República Checa a Sudáfrica, en Atlanta.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

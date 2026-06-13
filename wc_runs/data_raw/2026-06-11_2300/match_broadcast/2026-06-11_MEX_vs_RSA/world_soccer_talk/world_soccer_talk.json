@@ -1,0 +1,22 @@
+{
+ "source": "World Soccer Talk",
+ "url": "https://worldsoccertalk.com/world-cup/mexico-vs-south-africa-live-updates-minute-by-minute-coverage-of-the-2026-world-cup-opener/",
+ "title": "Julian Quiñones and Raul Jimenez power Mexico to a 2-0 victory over South Africa in three red-card 2026 World Cup opener",
+ "published": "2026-06-11T12:59:22-04:00",
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-11",
+  "home": "MEX",
+  "away": "RSA",
+  "home_en": "Mexico",
+  "away_en": "South Africa",
+  "comp": "小组赛·A组",
+  "match_id": "M1",
+  "slug": "2026-06-11_MEX_vs_RSA"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Mexico reached to defeat South Africa in the opening match of the 2026 World Cup. As the hosts of the tournament, Javier Aguirre’s team dominated the game with a brilliant midfield and a huge offense led by Julian Quiñones and Raul Jimenez. While Hugo Broos’ side tried to impose a competitive side, the individual mistakes proved costly, causing them two red cards and two goals\n\nSouth Africa tried to impose a dominant possession-based game. However, they made constant mistakes while playing out from the back. As a result, they gifted clear chances to their opponent, who punished them constantly. Although they did not manage to create many clear goalscoring opportunities, their full-backs were able to find space in the opposition defense. Nevertheless, the red cards shown to Themba Zwane and Yaya Sithole changed everything.\n\nTaking advantage of South Africa’s tendency to make defensive mistakes, Mexico pressed very high up the pitch. For this, Álvaro Fidalgo was key, as he recovered possession and distributed the ball efficiently. Alongside him, Julián Quiñones shone in every way, dribbling, making passes, and scoring goals. As a result, he became Mexico’s best player, joined by Raúl Jiménez, who understood the collective play perfectly.\n\nThree red cards stole the show in Mexico vs. South Africa\n\nDue to the large spaces South Africa left behind their defense, Mexico took advantage by playing through balls and beating the defenders. After a pass in behind, Raúl Jiménez was left in a 1v1 situation to score. However, Yaya Sithole pushed him, causing him to fall on the edge of the box. Following this, the referee showed a straight red card in the 49th minute.\n\n\n\nLooking to reduce the deficit on the scoreboard, South Africa tried to shine on the counterattack. After reaching the edge of the box, Themba Zwane struck a Mexican defender off the ball. After reviewing the incident on VAR, the referee decided to send him off, leaving the team with only nine players on the field. With this, they matched Cameroon, who experienced the same situation in 1990.\n\n\n\nDespite already leading the match, Mexico suffered a red card in the closing minutes through César Montes. During an efficient South African counterattack, the Mexican defender committed a hard foul on the edge of the box to prevent the attacker from going through 1v1 against the goalkeeper. Because of this, the referee sent him off directly in the 90+2nd minute.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

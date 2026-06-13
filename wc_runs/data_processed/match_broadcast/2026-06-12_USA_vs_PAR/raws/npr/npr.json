@@ -1,0 +1,24 @@
+{
+ "source": "NPR",
+ "url": "https://www.npr.org/2026/06/12/nx-s1-5850736/2026-world-cup-usmnt-paraguay",
+ "title": "The U.S. dazzles in its World Cup opener, dominating Paraguay 4-1",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-12",
+  "home": "USA",
+  "away": "PAR",
+  "home_en": "United States",
+  "away_en": "Paraguay",
+  "home_zh": "美国",
+  "away_zh": "巴拉圭",
+  "comp": "小组赛·D组",
+  "match_id": "M4",
+  "slug": "2026-06-12_USA_vs_PAR"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Christian Pulisic #10 and Weston McKennie #8 of the United States celebrate their side's first goal, an own goal by Damian Bobadilla of Paraguay (not pictured), to go up 1-0 in the 7th minute during the FIFA World Cup 2026 Group D match between USA and Paraguay at Los Angeles Stadium on Friday.\n\nDean Mouhtaropoulos/Getty Images\n\nhide caption\n\nINGLEWOOD, Calif. — In the first FIFA World Cup match to be held on U.S. soil in more than three decades, the U.S. men's national soccer team delivered a commanding 4-1 win in their opener against Paraguay.\n\nFour goals — two from striker Folarin Balogun plus an own goal by Paraguayan defender Damian Bobadilla and a late strike by American Gio Reyna — electrified the packed and partisan crowd at Los Angeles Stadium. The final tally was a record for the U.S. men, who had never scored more than three goals in a single World Cup game.\n\nA confident and unrelenting attack from the U.S. had Paraguay on its heels much of the first half. The Americans' pressure in Paraguay's zone paid off quickly, when a pass from midfielder Weston McKennie deflected off Bobadilla for an own goal in the seventh minute.\n\nThen, the U.S. striker Balogun took over. First, in the 31st minute, a cross from forward Christian Pulisic found the foot of Balogun, then the back of the net. Then, in the stoppage time of the first half, the Monaco striker shed two defenders to find a window, then placed a perfect strike to the upper corner of the goal, where Orlando Gill, the beleaguered Paraguayan goalkeeper, had no chance to save it.\n\nThe Americans were more subdued in a quieter second half. Pulisic was pulled at halftime for midfielder Sebastian Berhalter, who became just the second son in a father-son pair to represent the U.S. in a World Cup game (his father, the former USMNT head coach Gregg Berhalter, who played in the 2002 tournament).\n\nAfter the match, Pulisic told reporters that his calf got a \"bit of a kick in the first half.\" He said he's \"hoping it's nothing. I'm taking a little bit of precaution today, but I'm hoping I'll be fine in the next few days.\" Coach Mauricio Pochettino said he believes Pulisic will be available for the next U.S. match.\n\nParaguay midfielder Mauricio scored his team's lone goal in the 73rd minute. Late in second-half stoppage time, midfielder Reyna (a late sub) knocked in a goal to extend the U.S. lead 4-1.\n\nBalogun's World Cup brace is the first by a U.S. player since the inaugural tournament in 1930.\n\nHe is one of 13 players representing the U.S. at the World Cup for the first time. Born in New York City to Nigerian parents and raised in London, Balogun was eligible for all three national teams but chose to join the U.S. in 2023.\n\nBalogun's family was watching from the stands, and he called the win a statement. \"A real dream. It was a dreamy night.\"\n\nFolarin Balogun (r) celebrates scoring the U.S.'s third goal during the team's World Cup 2026 match against Paraguay.\n\nRichard Heathcote/Getty Images\n\nhide caption\n\nFriday's game was evidence of just how far the U.S. attack has come since the 2022 World Cup in Qatar, when the U.S. managed only three goals across all four games it played in.\n\nNext up for the U.S. is Australia on Friday, June 19 in Seattle, and then the Americans will wrap up the group stage with a June 25 game against Turkey back in Los Angeles.\n\nThe expansion of the tournament to 48 teams means it will be easier than ever to emerge from the group stage. With Friday's win, plus either a second win against Australia or Turkey or a draw against both teams, would likely be enough for the U.S. to advance to the knockout round — though the U.S. could earn a more advantageous path if it finishes the group stage in first place.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

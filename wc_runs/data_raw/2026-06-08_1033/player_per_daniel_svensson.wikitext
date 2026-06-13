@@ -1,0 +1,189 @@
+{{short description|Swedish footballer (born 2002)}}
+{{Use dmy dates|date=August 2024}}
+{{Infobox football biography
+|name = Daniel Svensson
+|image = Daniel Svensson Nordsjaelland (Testspiel 2023-07-08) 48 (cropped) (2).jpg
+|upright = 0.8
+|caption = Svensson playing for [[FC Nordsjælland|Nordsjælland]] in 2023
+|full_name = Daniel Jonathan Svensson<ref>{{cite web |url=https://fdp.fifa.org/assetspublic/ce233/pdf/SquadLists-English.pdf |title=Squad List: FIFA Club World Cup 2025: Borussia Dortmund (GER) |publisher=FIFA |page=6 |date=15 June 2025 |access-date=15 June 2025}}</ref>
+|birth_date = {{birth date and age|2002|2|12|df=y}}
+|birth_place = [[Stockholm]], Sweden
+|height = 1.83 m
+|position = [[Central midfielder]], [[left-back]]
+|currentclub = [[Borussia Dortmund]]
+|clubnumber = 24
+|youthyears1 = 2006–2009
+|youthclubs1 = Irsta IF
+|youthyears2 = 2010–2013
+|youthclubs2 = [[Skiljebo SK]]
+|youthyears3 = 2014–2019
+|youthclubs3 = [[IF Brommapojkarna|Brommapojkarna]]
+|youthyears4 = 2020
+|youthclubs4 = [[FC Nordsjælland|Nordsjælland]]
+|years1 = 2020
+|clubs1 = [[IF Brommapojkarna|Brommapojkarna]]
+|caps1 = 6
+|goals1 = 1
+|years2 = 2020–2025
+|clubs2 = [[FC Nordsjælland|Nordsjælland]]
+|caps2 = 127
+|goals2 = 5
+|years3 = 2025
+|clubs3 = → [[Borussia Dortmund]] (loan)
+|caps3 = 12
+|goals3 = 1
+|years4 = 2025–
+|clubs4 = [[Borussia Dortmund]]
+|caps4 = 33
+|goals4 = 2
+|nationalyears1 = 2018
+|nationalteam1 = [[Sweden men's national under-17 football team|Sweden U17]]
+|nationalcaps1 = 3
+|nationalgoals1 = 0
+|nationalyears2 = 2019–2020
+|nationalteam2 = [[Sweden men's national under-19 football team|Sweden U19]]
+|nationalcaps2 = 4
+|nationalgoals2 = 1
+|nationalyears3 = 2021–2024
+|nationalteam3 = [[Sweden national under-21 football team|Sweden U21]]
+|nationalcaps3 = 20
+|nationalgoals3 = 2
+|nationalyears4 = 2024–
+|nationalteam4 = [[Sweden men's national football team|Sweden]]
+|nationalcaps4 = 13
+|nationalgoals4 = 0
+|pcupdate = 18 May 2026
+|ntupdate = 17:03, 5 June 2026 (UTC)
+}}
+
+'''Daniel Jonathan Svensson''' (born 12 February 2002) is a Swedish professional [[Association football|footballer]] who plays as a [[central midfielder]] or [[left-back]] for [[Bundesliga]] club [[Borussia Dortmund]] and the [[Sweden men's national football team|Sweden national team]].
+
+==Club career==
+On 3 February 2025, Svensson joined [[Borussia Dortmund]] in Germany on loan from [[FC Nordsjælland|Nordsjælland]] with an option to buy.<ref>{{Cite web |title=BVB sign Daniel Svensson on loan |publisher=Borussia Dortmund|url=https://www.bvb.de/de/en/news/news-overview/news.html/2025/2/3/BVB-sign-Daniel-Svensson-on-loan.html |access-date=2025-02-03 |website=www.bvb.de}}</ref> On 20 April, he scored his first goal for Dortmund in a 3–2 victory over [[Borussia Mönchengladbach]].<ref>{{cite web |url=https://www.bvb.de/de/de/aktuelles/news/news.html/2025/4/20/32-nach-01-BVB-bejubelt-drei-Big-Points.html |title=3:2 nach 0:1 – BVB bejubelt drei Big-Points |publisher=Borussia Dortmund |language=de |date=20 April 2025 }}</ref>
+
+After a successful loan spell, he joined on a permanent contract on 14 May 2025.<ref>{{Cite web |title=BVB announce permanent signing of Daniel Svensson|publisher=Borussia Dortmund|url=https://www.bvb.de/de/en/news/news-overview/news.html/2025/5/14/BVB-announce-permanent-signing-of-Daniel-Svensson.html |access-date=2025-06-26 |website=www.bvb.de}}</ref> Later that year, on 1 October, he netted his first [[UEFA Champions League]] goal in a 4–1 win over [[Athletic Bilbao]].<ref>{{cite web |last=Emons |first=Michael |url=https://www.bbc.com/sport/football/live/c784vgq71eet |title=Borussia Dortmund 4–1 Athletic Club |publisher=BBC Sport |date=1 October 2025 }}</ref>
+
+== International career ==
+Svensson made his full international debut for the [[Sweden men's national football team|Sweden national team]] on 14 October 2024, replacing [[Yasin Ayari]] in the 89th minute of a [[UEFA Nations League]] game against [[Estonia national football team|Estonia]] which Sweden won 3–0.<ref>{{Cite web |title=Estonia vs. Sweden |url=https://www.svenskfotboll.se/matchfakta/estland-sverige-landskamper-herr-senior/5791238/ |website=SvFF}}</ref>
+
+On 12 May 2026, Svensson was named in the Sweden squad for the [[2026 FIFA World Cup]].<ref>{{Cite web |date=2026-05-12 |title=Mystiskt inlägg efter petningen |url=https://www.expressen.se/sport/fotboll/landslaget/har-ar-sveriges-trupp-till-fotbolls-vm-2026/ |access-date=2026-05-15 |website=www.expressen.se |language=sv}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 16 May 2026}}<ref>{{soccerway|645300|name=Daniel Svensson}}</ref>
+
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup{{efn|Includes [[Svenska Cupen|Swedish Cup]], [[Danish Cup]], [[DFB-Pokal]]}}
+!colspan="2"|Europe
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|[[IF Brommapojkarna]]
+|[[2020 Ettan|2020]]
+|[[Ettan Fotboll|Ettan]]
+|6||1||3||0||colspan="2"|—||colspan="2"|—||9||1
+|-
+|rowspan="6"|[[FC Nordsjælland|Nordsjælland]]
+|[[2020–21 FC Nordsjælland season|2020–21]]
+|[[Danish Superliga]]
+|22||0||0||0||colspan="2"|—||colspan="2"|—||22||0
+|-
+|[[2021–22 Danish Superliga|2021–22]]
+|Danish Superliga
+|27||1||2||0||colspan="2"|—||colspan="2"|—||29||1
+|-
+|[[2022–23 Danish Superliga|2022–23]]
+|Danish Superliga
+|29||2||6||1||colspan="2"|—||colspan="2"|—||35||3
+|-
+|[[2023–24 FC Nordsjælland season|2023–24]]
+|Danish Superliga
+|31||2||5||1||10{{efn|Appearances in [[UEFA Europa Conference League]]}}||1||colspan="2"|—||46||4
+|-
+|[[2024–25 FC Nordsjælland season|2024–25]]
+|Danish Superliga
+|17||2||2||0||colspan="2"|—||colspan="2"|—||19||2
+|-
+!colspan="2"|Total
+!126!!7!!15!!2!!10!!1!!0!!0!!151!!10
+|-
+|[[Borussia Dortmund]] (loan)
+|[[2024–25 Borussia Dortmund season|2024–25]]
+|[[Bundesliga]]
+|12||1||colspan="2"|—||4{{efn|name=UCL|Appearances in [[UEFA Champions League]]}}||0||5{{efn|Appearances in [[FIFA Club World Cup]]}}||1||21||2
+|-
+|rowspan="2"|Borussia Dortmund
+|[[2025–26 Borussia Dortmund season|2025–26]]
+|Bundesliga
+|33||2||3||0||9{{efn|name=UCL}}||2||colspan="2"|—||45||4
+|-
+!colspan="2"|Dortmund total
+!45!!3!!3!!0!!13!!2!!5!!1!!66!!6
+|-
+!colspan="3"|Career total
+!176!!11!!21!!2!!23!!3!!5!!1!!285!!17
+|}
+{{notelist}}
+
+=== International ===
+{{updated|match played 4 June 2026}}
+
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="3"|[[Sweden men's national football team|Sweden]]
+|2024||1||0
+|-
+|2025||8||0
+|-
+|2026||4||0
+|-
+!colspan="2"|Total!!13!!0
+|}
+
+== Honours ==
+'''Individual'''
+*Bundesliga Rookie of the Month: [[2024–25 Bundesliga#Monthly awards|April 2025]]<ref>{{cite web|url=https://www.bundesliga.com/de/bundesliga/news/rookie-des-monats-april-rotm-gewinner-daniel-svensson-bvb-borussia-dortmund-32111|title=Daniel Svensson von Borussia Dortmund ist der Rookie des Monats April|language=german|website=bundesliga.de|date=9 May 2025|access-date=24 May 2025}}</ref>
+*[[Fotbollsgalan|Swedish Defender of the Year]]: 2025<ref>{{cite web|url=https://svff.svenskfotboll.se/om-svff/historik/fotbollsgalan/ovriga-utmarkelser/|title=Övriga utmärkelser|access-date=18 December 2025|publisher=Swedish Football Association|language=sv}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*{{SvFF player|id=a9d9f90a-c52b-47f3-8ed8-5a0d5def6d75}}
+
+{{Borussia Dortmund squad}}
+{{Sweden squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Svensson, Daniel}}
+[[Category:2002 births]]
+[[Category:Living people]]
+[[Category:Footballers from Stockholm]]
+[[Category:Swedish men's footballers]]
+[[Category:Men's association football defenders]]
+[[Category:Ettan Fotboll players]]
+[[Category:Danish Superliga players]]
+[[Category:Bundesliga players]]
+[[Category:IF Brommapojkarna players]]
+[[Category:FC Nordsjælland players]]
+[[Category:Borussia Dortmund players]]
+[[Category:Sweden men's youth international footballers]]
+[[Category:Sweden men's under-21 international footballers]]
+[[Category:Sweden men's international footballers]]
+[[Category:Swedish expatriate men's footballers]]
+[[Category:Swedish expatriate sportspeople in Denmark]]
+[[Category:Expatriate men's footballers in Denmark]]
+[[Category:Swedish expatriate sportspeople in Germany]]
+[[Category:Expatriate men's footballers in Germany]]
+[[Category:21st-century Swedish sportsmen]]
+[[Category:2026 FIFA World Cup players]]
+
+{{Sweden-footy-defender-2000s-stub}}

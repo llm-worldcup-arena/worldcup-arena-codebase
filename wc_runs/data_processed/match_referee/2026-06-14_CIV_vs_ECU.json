@@ -1,0 +1,17 @@
+{
+ "match": {
+  "slug": "2026-06-14_CIV_vs_ECU",
+  "date": "2026-06-14",
+  "home": "CIV",
+  "away": "ECU",
+  "round": "group",
+  "group": "E"
+ },
+ "referee": {
+  "name": "Francois Letexier(法国)",
+  "source": "WebSearch多源(ESPN/Dailysports;替补受伤的Oliver)",
+  "fetched": "2026-06-13_1601"
+ },
+ "brief": "- **执法风格**：尺度均衡，不倾向大量出牌，但对战术犯规识别敏锐；作为新生代裁判，VAR使用果断，沟通风格直接。\n\n- **大赛履历**：尚未执法过FIFA世界杯正赛。曾主哨2019年U-20世界杯、2021年欧国联决赛圈，以及欧冠、欧联等欧足联赛事；2024年巴黎奥运会足球比赛裁判组成员。\n\n- **本场潜在影响**：对南美与非洲球队间的高强度对抗执法经验相对有限，若比赛节奏过快或身体对抗激烈，其判罚尺度的一致性将面临考验。",
+ "_note": "裁判=比赛层人员数据,与教练同规格(结构化+可读brief);brief 由 referee_enrich.py py-Kimi 生成。"
+}

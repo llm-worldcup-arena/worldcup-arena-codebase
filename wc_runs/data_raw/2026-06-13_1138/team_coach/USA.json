@@ -1,0 +1,24 @@
+{
+ "team": "USA",
+ "coach": {
+  "name_zh": "毛里西奥·波切蒂诺",
+  "name_en": "Mauricio Pochettino",
+  "nationality": "Argentina",
+  "career_since": "2009",
+  "person_id": "per_mauricio_pochettino"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 毛里西奥·波切蒂诺（Mauricio Pochettino），阿根廷籍教练，自2009年开启执教生涯。\n- 2026年世界杯执教美国男足，首战巴拉圭前仅获三天完整备战期。\n- 世界杯热身赛1胜1负：3-2击败塞内加尔，1-2负于德国。\n- 麾下三名主力存体能/伤病隐患：克里斯·理查兹（脚踝伤缺三周后周一归队）、泰勒·亚当斯（赛季末负荷管理缺席训练）、安东尼·罗宾逊（对德国进球后离场但无碍）。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 1.0,
+  "issues": []
+ },
+ "brief_fetched": "2026-06-13_1138",
+ "brief_info_chars": 6000
+}

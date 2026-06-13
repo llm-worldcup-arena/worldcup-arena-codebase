@@ -1,0 +1,149 @@
+{{Short description|Argentine footballer (born 2004)}}
+{{Infobox football biography
+| name = Santiago Beltrán
+| birth_date = {{birth date and age|2004|10|4|df=y}}
+| birth_place = [[Buenos Aires]], Argentina
+| height = {{height|m=1.90}}
+| position = [[Goalkeeper]]
+| currentclub = [[Club Atlético River Plate|River Plate]]
+| clubnumber = 41
+| youthyears1 = 2022–2023
+| youthclubs1 = [[Club Atlético River Plate|River Plate U20]]
+| youthyears2 = 2023–2025
+| youthclubs2 = [[Club Atlético River Plate|River Plate II]]
+| clubs1 = [[Club Atlético River Plate|River Plate]]
+| years1 = 2024–
+| caps1 = 20
+| goals1 = 0
+| nationalyears1 = 2026–
+| nationalteam1 = [[Argentina national football team|Argentina]]
+| nationalcaps1 = 1
+| nationalgoals1 = 0
+| club-update = 24 May 2026
+| nationalteam-update = 6 June 2026
+}}
+
+'''Santiago Beltrán''' (born 4 October 2004) is an Argentine professional [[association football]] player who plays as a [[Goalkeeper (association football)|goalkeeper]] for [[Argentine Primera División]] club [[Club Atlético River Plate|River Plate]] and the [[Argentina national football team|Argentina national team]].
+
+== Club career ==
+=== Early career ===
+Beltrán arrived at River Plate at 17 years old with no prior experience at for any club affiliated with the [[Argentine Football Association|AFA]]. He played firstly in his college as [[Forward (association football)|forward]] and then amateur football for Club de Campo Pueyrredón in [[Pilar Partido]] as goalkeeper.
+
+=== River Plate ===
+At the beginning of 2023 he signed his first professional contract with River Plate for three years and later extended it until December 2027, with a release clause of 25 million dollars.<ref>{{Cite web |title=Quién es Santiago Beltrán, el joven arquero que será titular en River |url=https://www.espn.com.ar/futbol/argentina/nota/_/id/16152532/quien-es-santiago-beltran-arquero-river}}</ref>
+
+He began training with the senior team during the [[2024 Club Atlético River Plate season|2024 season]]. That same year, he was named on the substitutes’ bench in a match against [[Deportivo Riestra]]. However, in September of that year, he suffered a knee injury that kept him out of competitive activity for approximately eight months. Beltrán also played a few minutes in a friendly match against [[Millonarios F.C.|Millonarios]] under the technical direction of [[Martín Demichelis]].<ref>{{Cite web |date=2024-09-15 |title=Santiago Beltrán sufrió una rotura de ligamento |url=https://riverelmasgrande.com/contenido/24817/arquero-santiago-beltran-river-plate-sufrio-lesion-rotura-ligamento-quien-es |access-date=2026-03-16 |website=River, el más grande |language=es}}</ref><ref>{{cite web|access-date=2026-03-16 |date=12 June 2024 |first=Franco |last=Ferrero |title=Con Lanzini a la cabeza: la joya que ilusiona a todos en River, reemplazará a Armani |url=https://elcrackdeportivo.com.ar/river/Con-Lanzini-a-la-cabeza-la-joya-que-ilusiona-a-todos-en-River-reemplazara-a-Armani-20240612-0028.html |website=El Crack Deportivo}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+
+In 2025, he was again called up to the first team for three matches. These included two for the [[Copa Libertadores]]: one against [[Club Libertad|Libertad]] in the Round of 16 and another against [[SE Palmeiras|Palmeiras]] in the quarterfinals. Later, he was called up to the [[Argentina national football team|Argentina national team]] to serve as a sparring partner in training sessions.<ref>{{Cite web |title=Dos regresos esperados y la sorpresa de un juvenill |url=https://www.tiemposur.com.ar/deporte/dos-regresos-esperados-y-la-sorpresa-de-un-juvenill |access-date=2026-03-16 |website=www.tiemposur.com.ar |language=en}}</ref><ref>{{Cite web |date=2026-03-16 |title=Santiago Beltrán, tercer arquero de River, fue convocado como sparring de la Selección Argentina |url=https://onefootball.com/id/berita/santiago-beltran-tercer-arquero-de-river-fue-convocado-como-sparring-de-la-seleccion-argentina-41773720 |access-date=2026-03-16 |website=OneFootball |language=id}}</ref>
+
+He began 2026 as the third-choice goalkeeper for the professional squad and featured in the [[:es:Serie_Río_de_la_Plata_2026|2026 Río de la Plata Series]] friendlies due to injuries to [[Franco Armani]] and [[Ezequiel Centurión]]. He made his official debut as the starting goalkeeper on January 24 against [[Barracas Central]].<ref>{{Cite web |title=Barracas Central vs. River, por el Torneo Apertura |url=https://www.tycsports.com/river-plate/argentina-torneo-apertura-2026-barracas-central-vs-river-plate-fecha-1-id709153.html}}</ref>
+
+== International career ==
+Beltrán was called up by [[Lionel Scaloni]] in October 2025 to be a sparring for the [[Argentina national football team|Argentina national team]] during the friendlies against [[Venezuela national football team|Venezuela]] and [[Puerto Rico national football team|Puerto Rico]].<ref>https://www.infobae.com/deportes/2026/01/11/jugaba-torneos-amateurs-y-scaloni-lo-cito-como-sparring-la-historia-de-santiago-beltran-el-arquero-que-reemplazara-a-armani-en-river/</ref> Then, Beltrán was formally included in the preliminary squad list for the [[2026 FIFA World Cup]] and called up for the friendlies against [[Honduras national football team|Honduras]] and [[Iceland national football team|Iceland]]. 
+
+Beltrán made his debut for Argentina on 6 June 2026 during the 2–0 victory against Honduras, replacing [[Juan Musso]] at the 81st minute.<ref>{{Cite web |date=6 June 2026 |title=Argentina 2–0 Honduras |url=https://www.bbc.co.uk/sport/football/live/cqxp5800z29t#Line-ups |access-date=7 June 2026 |website=BBC Sport}}</ref>
+
+== Career statistics ==
+
+=== Club ===
+{{updated|match played 24 May 2026}}
+{| class="wikitable" style="text-align:center;"
+|+Appearances and goals by club, season and competition
+! rowspan="2" |Club
+! rowspan="2" |Season
+! colspan="3" |League
+! colspan="2" |[[Copa Argentina]]
+! colspan="2" |Continental
+! colspan="2" |Total
+|-
+!Division
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+|-
+| rowspan="3" |[[Club Atlético River Plate|River Plate]]
+|[[2024 AFA Liga Profesional de Fútbol|2024]]
+|[[Argentine Primera División|Primera División]]
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|-
+|[[2025 AFA Liga Profesional de Fútbol|2025]]
+|Primera División
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|-
+|[[2026 AFA Liga Profesional de Fútbol|2026]]
+|Primera División
+|20
+|0
+|1
+|0
+|5{{Efn|Appearances in [[Copa Sudamericana]]}}
+|0
+|26
+|0
+|-
+! colspan="3" |Career total
+!20
+!0
+!1
+!0
+!5
+!0
+!26
+!0
+|}
+<references group="lower-alpha" responsive="1"></references>
+
+=== International ===
+{{updated|match played 6 June 2026}}
+{| class="wikitable" style="text-align: center;"
+|+Appearances and goals by national team and year
+!National team
+!Year
+!Apps
+!Goals
+|-
+|[[Argentina national football team|Argentina]]
+|2026
+|1
+|0
+|-
+! colspan="2" |Total
+!1
+!0
+|}
+
+== External links ==
+* {{WorldFootball.net|santiago-beltran}}
+
+== References ==
+{{reflist}}
+
+{{Club Atlético River Plate squad}}
+
+{{DEFAULTSORT:Beltran, Santiago}}
+[[Category:Footballers from Buenos Aires]]
+[[Category:Club Atlético River Plate footballers]]
+[[Category:2004 births]]
+[[Category:Argentine men's footballers]]
+[[Category:Argentina men's international footballers]]
+[[Category:Argentine Primera División players]]
+[[Category:Living people]]

@@ -1,0 +1,204 @@
+{{short description|Colombian footballer (born 1997)}}
+{{Use dmy dates|date=September 2024}}
+{{family name hatnote|Ditta|Pérez|lang=Spanish}}
+{{Infobox football biography
+| name = Willer Ditta
+| image = Willer Ditta en Newell's Old Boys.jpg
+| caption = Ditta in 2022
+| fullname = Willer Emilio Ditta Pérez
+| birth_date = {{Birth date and age|1998|01|23|df=y}}<ref>{{cite web |url=https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf |title=FIFA World Cup 2026: Squad List |publisher=[[FIFA]] |date=June 2, 2026 |access-date=June 2, 2026}}</ref>
+| birth_place = [[La Jagua de Ibirico, Cesar|Ibirico]], Colombia
+| height = 1.84 m
+| position = [[Centre-back]]
+| currentclub = [[Cruz Azul]]
+| clubnumber = 4
+| youthyears1 = 
+| youthclubs1 = 
+| years1 = 2017–2018
+| clubs1 = [[Barranquilla F.C.|Barranquilla]]
+| caps1 = 43
+| goals1 = 1
+| years2 = 2018–2023
+| clubs2 = [[Atlético Junior]]
+| caps2 = 86
+| goals2 = 1
+| years3 = 2022
+| clubs3 = → [[Newell's Old Boys]] (loan)
+| caps3 = 36
+| goals3 = 3
+| years4 = 2022–2023
+| clubs4 = [[Newell's Old Boys]]
+| caps4 = 17
+| goals4 = 0
+| years5 = 2023–
+| clubs5 = [[Cruz Azul]]
+| caps5 = 107
+| goals5 = 2
+| nationalyears1 = 2019–2020
+| nationalteam1 = [[Colombia national under-23 football team|Colombia U23]]
+| nationalcaps1 = 6
+| nationalgoals1 = 0
+| nationalyears2 = 2023–
+| nationalteam2 = [[Colombia national football team|Colombia]]
+| nationalcaps2 = 3
+| nationalgoals2 = 0
+| club-update = 15:12, 12 April 2026 (UTC)
+| nationalteam-update = 23:12, 11 October 2025 (UTC)
+}}
+'''Willer Emilio Ditta Pérez''' (born 23 January 1998) is a Colombian professional [[association football|footballer]] who plays as a [[centre-back]] for [[Liga MX]] club [[Cruz Azul]] and the [[Colombia national football team|Colombia national team]].
+
+==Career==
+Ditta began his football career at [[Barranquilla F.C.|Barranquilla]], where he emerged as a promising talent from the youth academy. He made his professional debut in 2018 before transferring to [[Atlético Junior]], where he achieved significant success by winning two [[Categoría Primera A|Primera A]] titles.
+
+In January 2022, Ditta joined [[Newell's Old Boys]] on loan. Later that year, in November, Newell's exercised their purchase option to acquire him permanently, and he subsequently signed a three-year contract with the club.
+
+On 6 July 2023, he joined [[Cruz Azul]]. In June 2025, he helped the club secure their seventh [[2025 CONCACAF Champions Cup|CONCACAF Champions Cup]] title with a dominant victory over the [[Vancouver Whitecaps FC]].
+
+==Career statistics==
+===Club===
+{{updated|match played 11 April 2026}}<ref>{{Soccerway|willer-emilio-ditta-perez/474263|access-date=11 January 2020}}</ref>
+
+{| class="wikitable" style="text-align: center"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+|-
+|rowspan="3"|[[Barranquilla F.C.|Barranquilla]]
+|[[2017 Categoría Primera B season|2017]]
+|rowspan="2"|[[Categoría Primera B]]
+|28||0||5<ref group="lower-alpha" name="CC">Appearances in the [[Copa Colombia]]</ref>||0|| colspan="2" |—|| colspan="2" |—||33||0
+|-
+|[[2018 Categoría Primera B season|2018]]
+|15||1||4<ref group="lower-alpha" name="CC"/>||0|| colspan="2" |—|| colspan="2" |—||19||1
+|-
+! colspan="2" |Total
+!43!!1!!9!!0!! colspan="2" |—!! colspan="2" |—!!52!!1
+|-
+| rowspan="5" |[[Atlético Junior]]
+|[[2018 Categoría Primera A season|2018]]
+| rowspan="4" |[[Categoría Primera A]]
+|9||0||3<ref group="lower-alpha" name="CC"/>||0||4<ref group="lower-alpha" name="CS">Appearances in the [[Copa Sudamericana]]</ref>||0|| colspan="2" |—||16||0
+|-
+|[[2019 Categoría Primera A season|2019]]
+|35||0||1<ref group="lower-alpha" name="CC"/>||0||5<ref group="lower-alpha" name="CL">Appearances in the [[Copa Libertadores]]</ref>||0|| colspan="2" |—||41||0
+|-
+|[[2020 Categoría Primera A season|2020]]
+|11||0||3<ref name="CC" group="lower-alpha" /><ref group="lower-alpha">Appearances in the [[Superliga Colombiana]]</ref>||0||2<ref name="CS" group="lower-alpha" /><ref name="CL" group="lower-alpha" />||0|| colspan="2" |—||16||0
+|-
+|[[2021 Categoría Primera A season|2021]]
+|31||1||1<ref name="CC" group="lower-alpha" />||0||10<ref name="CS" group="lower-alpha" /><ref name="CL" group="lower-alpha" />||1|| colspan="2" |—||42||2
+|-
+! colspan="2" |Total
+!86!!1!!8!!0!!21!!1!! colspan="2" |—!!115!!2
+|-
+| rowspan="1" |[[Newell's Old Boys]] (loan)
+|[[2022 Argentine Primera División|2022]]
+| rowspan="2" |[[Argentine Primera División|Primera División]]
+|36||3||3<ref group="lower-alpha" name=":0">Appearances in the [[Copa Argentina]].</ref>||0|| colspan="2" |—|| colspan="2" |—||39||3
+|-
+| rowspan="2" |Newell's Old Boys
+|[[2023 Argentine Primera División|2023]]
+|17||0||1<ref name=":0" group="lower-alpha" />||0||4<ref name="CS" group="lower-alpha" />||0|| colspan="2" |—||22||0
+|-
+! colspan="2" |Total
+!53!!3!!4!!0!!4!!0!! colspan="2" |—!!61!!3
+|-
+| rowspan="4" |[[Cruz Azul]]
+|[[2023–24 Cruz Azul season|2023–24]]
+| rowspan="3" |[[Liga MX]]
+|33||2|| colspan="2" |—|| colspan="2" |—||2{{efn|Appearances in [[Leagues Cup]]|name=LC}}||0||35||2
+|-
+|[[2024–25 Cruz Azul season|2024–25]]
+|40||0|| colspan="2" |—||8{{efn|Appearances in [[CONCACAF Champions Cup]]|name=CCC}}||0||4{{efn|Appearances in [[Leagues Cup]]|name=LC}}||1||52||1
+|-
+|[[2025–26 Cruz Azul season|2025–26]]
+|34 || 0 || colspan="2"|— || 4{{efn|Appearances in [[CONCACAF Champions Cup]]|name=CCC}} || 0 || 4{{efn|Three appearances and one goal in Leagues Cup, one appearance in [[FIFA Intercontinental Cup]]}}|| 1 || 42 || 1
+|-
+! colspan="2" |Total
+!107!!2!! colspan="2" |—!!12!!0!!10!!2!!129!!4
+|-
+! colspan="3" |Career total
+!289!!7!!21!!0!!37!!1!!10!!2!!357!!10
+|}
+{{Reflist|group=lower-alpha}}
+
+===International===
+{{updated|match played 11 October 2025}}
+
+{| class="wikitable" style="text-align: center"
+|+ Appearances and goals by national team and year
+!National team||Year||Apps||Goals
+|-
+|rowspan="3"|[[Colombia national football team|Colombia]]
+|2023||1||0
+|-
+|2024||1||0
+|-
+|2025||1||0
+|-
+!colspan="2"|Total!!3!!0
+|}
+
+==Honours==
+'''Atlético Junior'''
+*[[Categoría Primera A]]: [[2018 Categoría Primera A season#Torneo Finalización|2018–II]], [[2019 Categoría Primera A season#Torneo Apertura|2019–I]]
+*[[Superliga Colombiana]]: [[2019 Superliga Colombiana|2019]], [[2020 Superliga Colombiana|2020]]
+
+'''Cruz Azul'''
+*[[Liga MX]]: [[2025–26 Liga MX season#Torneo Clausura|Clausura 2026]]
+*[[CONCACAF Champions Cup]]: [[2025 CONCACAF Champions Cup|2025]]
+
+'''Individual'''
+*[[Liga MX]] Best XI: [[2025–26 Liga MX season#Torneo Apertura|Apertura 2025]]<ref>https://www.foxsports.com.mx/2025/12/24/liga-mx-anuncia-el-xi-ideal-del-apertura-2025-nadie-del-america-y-tigres-domina/</ref>
+*[[Liga MX]] Player of the Month: February 2026<ref>https://x.com/LigaBBVAMX/status/2030060143736443053</ref>
+
+==References==
+{{reflist}}
+
+{{Cruz Azul squad}}
+{{Colombia squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Ditta, Willer}}
+[[Category:1998 births]]
+[[Category:Living people]]
+[[Category:21st-century Colombian sportsmen]]
+[[Category:Footballers from Cesar Department]]
+[[Category:Colombian men's footballers]]
+[[Category:Men's association football defenders]]
+[[Category:Barranquilla F.C. footballers]]
+[[Category:Atlético Junior footballers]]
+[[Category:Newell's Old Boys footballers]]
+[[Category:Cruz Azul footballers]]
+[[Category:Categoría Primera B players]]
+[[Category:Categoría Primera A players]]
+[[Category:Argentine Primera División players]]
+[[Category:Liga MX players]]
+[[Category:Colombia men's youth international footballers]]
+[[Category:Colombia men's international footballers]]
+[[Category:Colombian expatriate men's footballers]]
+[[Category:Colombian expatriate sportspeople in Argentina]]
+[[Category:Colombian expatriate sportspeople in Mexico]]
+[[Category:Expatriate men's footballers in Argentina]]
+[[Category:Expatriate men's footballers in Mexico]]
+[[Category:CONCACAF Champions Cup–winning players]]
+[[Category:2026 FIFA World Cup players]]
+
+
+{{Colombia-footy-defender-stub}}

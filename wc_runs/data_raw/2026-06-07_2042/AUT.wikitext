@@ -1,0 +1,90 @@
+{{Short description|Men's national association football team representing Austria}}
+{{About|the men's team|the women's team|Austria women's national football team}}
+{{Use dmy dates|date=March 2026}}
+{{Infobox national football team
+| Name               = Austria
+| Badge              = Austria national football team crest.svg
+| Badge_size         = 160px
+| Nickname           = ''Das Team'' (The Team)<br>''Burschen'' (The Boys)<br>''Unsere Burschen'' (Our Boys)
+| Association        = {{lang|de|[[Austrian Football Association|Österreichischer Fußball-Bund]]}} (ÖFB)
+| Confederation      = [[UEFA]] (Europe)
+| website            = [https://www.oefb.at/ oefb.at]
+| Coach              = [[Ralf Rangnick]]
+| Captain            = [[David Alaba]]
+| Most caps          = [[Marko Arnautović]] (133)
+| Top scorer         = Marko Arnautović ([[List of international goals scored by Marko Arnautović|47]])
+| Home Stadium       = [[List of football stadiums in Austria|Various]]
+| FIFA Trigramme     = AUT
+| FIFA Rank          = {{FIFA World Rankings|AUT}}
+| FIFA max           = 10
+| FIFA max date      = March–June 2016
+| FIFA min           = 105
+| FIFA min date      = July 2008
+| Elo Rank           = {{World Football Elo Ratings|Austria}}
+| Elo max            = 1
+| Elo max date       = May 1934
+| Elo min            = 75
+| Elo min date       = 2 September 2011
+| pattern_la1        = _aut26h
+| pattern_b1         = _aut26h
+| pattern_ra1        = _aut26h
+| pattern_sh1        = _aut26h
+| pattern_so1        = 
+| leftarm1           = 000000
+| body1              = FF0000
+| rightarm1          = 000000
+| shorts1            = 000000
+| socks1             = FF0000
+| pattern_la2        = _aut26a
+| pattern_b2         = _aut26a
+| pattern_ra2        = _aut26a
+| pattern_sh2        = _aut26a
+| pattern_so2        = _aut26al
+| leftarm2           = FFFFFF
+| body2              = FFFFFF
+| rightarm2          = FFFFFF
+| shorts2            = 003A41
+| socks2             = FFFFFF
+| pattern_la3        = _aut50ypuma_s
+| pattern_b3         = _aut50ypuma
+| pattern_ra3        = _aut50ypuma_s
+| pattern_sh3        = _milan2425h2
+| pattern_so3        = _aut50ypumal
+| leftarm3           = 000000
+| body3              = 000000
+| rightarm3          = 000000
+| shorts3            = 000000
+| socks3             = 000000
+| First game         = {{fb|AUT|empire}} [[1902 Austria v Hungary football match|5–0]] {{fb-rt|HUN|1896}}<br>(Vienna, [[Cisleithania|Austria]]; 12 October 1902)
+| Largest win        = {{fb|AUT}} 10–0 {{fb-rt|SMR}}<br>([[Vienna]], Austria; 9 October 2025)
+| Largest loss       = {{fb|AUT|empire}} 1–11 {{fb-rt|ENG}}<br>(Vienna, [[Cisleithania|Austria]]; 8 June 1908)
+| World cup apps     = 8
+| World cup first    = 1934
+| World cup best     = Third place ([[1954 FIFA World Cup|1954]])
+| Regional name      = [[UEFA European Championship|European Championship]]
+| Regional cup apps  = 4
+| Regional cup first = [[UEFA Euro 2008|2008]]
+| Regional cup best  = Round of 16 ([[UEFA Euro 2020|2020]], [[UEFA Euro 2024|2024]])
+| 3rdRegional name         = [[Football at the Summer Olympics|Olympic Games]]
+| 3rdRegional cup apps     = 4
+| 3rdRegional cup first    = [[Football at the 1912 Summer Olympics|1912]]
+| 3rdRegional cup best     = [[File:Silver medal.svg|16px]] Silver medal ([[Football at the 1936 Summer Olympics|1936]])
+| medaltemplates     =  
+{{Medal|Competition|[[FIFA World Cup]]}}
+{{MedalBronze|[[1954 FIFA World Cup|1954 Switzerland]]|[[1954 FIFA World Cup squads#Austria|Team]]}}
+{{Medal|Competition|[[Football at the Summer Olympics|Olympic Games]]}}{{efn|After 1988, the tournament was restricted to squads with no more than three players over the age of 23, and these matches are not regarded as part of the national team's records, nor are caps awarded.}}
+{{Medal|Silver|[[1936 Summer Olympics|1936 Berlin]]|[[Football at the 1936 Summer Olympics|Team]]}}
+{{Medal|Competition|[[Central European International Cup]]}}
+{{MedalGold|[[1931–32 Central European International Cup|1931–32]]|[[1931–32 Central European International Cup|Team]]}}
+{{MedalSilver|[[1927–30 Central European International Cup|1927–30]]|[[1927–30 Central European International Cup|Team]]}}
+{{MedalSilver|[[1933–35 Central European International Cup|1933–35]]|[[1933–35 Central European International Cup|Team]]}}
+{{MedalBronze|[[1948–53 Central European International Cup|1948–53]]|[[1948–53 Central European International Cup|Team]]}}
+{{MedalBronze|[[1955–60 Central European International Cup|1955–60]]|[[1955–60 Central European International Cup|Team]]}}}}
+
+The '''Austria national football team''' ({{langx|de|Österreichische Fußballnationalmannschaft}}) represents [[Austria]] in men's international [[Association football|football]] competitions, and is controlled by the [[Austrian Football Association]]. 
+
+The Austrian Football Association (ÖFB) was founded on 18 March 1904, in the [[Austro-Hungarian]] Empire. During the 1930s, under coach [[Hugo Meisl]], Austria's national team, known as the "Wunderteam" (literally "Miracle Team"), became a dominant force in European football. Notable achievements included a fourth-place finish in the [[1934 FIFA World Cup]] and silver medal at the [[1936 Summer Olympics|1936 Olympic Games]]. The [[Anschluss]] in 1938, which annexed Austria into [[Nazi Germany]], led to the dissolution of the ÖFB and the obligatory integration of Austrian players into the [[Germany national football team|German national team]] for the [[1938 World Cup]].
+
+After World War II, Austria reestablished its national team and achieved significant success in the [[1954 FIFA World Cup|1954 World Cup]], finishing third. The team continued to be competitive throughout the 1950s and 1960s, including a notable victory over [[England national football team|England]] at [[Wembley Stadium]] in 1965. However, the following decades saw fluctuating fortunes, with the team failing to qualify for [[FIFA World Cup]] in the 1960s and narrowly missing out on the [[1974 World Cup]] in a playoff against Sweden. The 1970s and 1980s marked a revival, with Austria reaching the second round in the 1978 and 1982 World Cup, highlighted by a famous victory over [[Germany national football team|West Germany]] in 1978.
+
+The 1990s and 2000s brought challenges and disappointments, such as a defeat to the Faroe Islands in [[UEFA Euro 1992 qualifying]], and a group-stage exit in the [[1998 World Cup]], their seventh and until then, last World Cup appearance. Austria automatically qualified for [[UEFA Euro 2008]] as co-hosts with [[Switzerland national football team|Switzerland]], the first time they played in the [[UEFA European Championship]], but was eliminated in the group stage. The country entered a resurgence in 2016, beginning with a successful qualification campaigns for the [[UEFA Euro 2016]], [[Euro 2020]], [[Euro 2024]]; and after 28 years of absence in the tournament, the [[2026 FIFA World Cup]], with current head coach [[Ralf Rangnick]].

@@ -1,0 +1,35 @@
+===Current squad===
+The following 26 players were called up to the [[2026 FIFA World Cup]], and for the pre-tournament friendly matches against [[Iraq national football team|Iraq]] and [[Peru national football team|Peru]] on 4 and 8 June 2026, respectively.<ref>{{cite web |url=https://rfef.es/es/noticias/los-26-que-buscaran-volver-reinar-en-el-mundial |title=Los 26 que buscarán volver a reinar en el Mundial |trans-title=The 26 who will seek to reign again in the World Cup |publisher=[[Royal Spanish Football Federation]] |date=May 25, 2026 |access-date=May 25, 2026 |language=es}}</ref>
+<br>''Caps and goals updated as of 4 June 2026, after the match against [[Iraq national football team|Iraq]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[David Raya]]|age={{birth date and age|df=y|1995|9|15}}|caps=12|goals=0|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs g player|no=13|pos=GK|name=[[Joan Garcia]]|age={{birth date and age|df=y|2001|5|4}}|caps=2|goals=0|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs g player|no=23|pos=GK|name=[[Unai Simón]]|age={{birth date and age|df=y|1997|6|11}}|caps=57|goals=0|club=[[Athletic Bilbao]]|clubnat=ESP}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Marc Pubill]]|age={{birth date and age|df=y|2003|6|20}}|caps=1|goals=0|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=3|pos=DF|name=[[Álex Grimaldo]]|age={{birth date and age|df=y|1995|9|20}}|caps=13|goals=0|club=[[Bayer 04 Leverkusen|Bayer Leverkusen]]|clubnat=GER}}
+{{nat fs g player|no=4|pos=DF|name=[[Eric García (footballer, born 2001)|Eric García]]|age={{birth date and age|df=y|2001|1|9}}|caps=20|goals=0|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs g player|no=5|pos=DF|name=[[Marcos Llorente]]|age={{birth date and age|df=y|1995|1|30}}|caps=23|goals=0|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=12|pos=DF|name=[[Pedro Porro]]|age={{birth date and age|df=y|1999|9|13}}|caps=17|goals=0|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG}}
+{{nat fs g player|no=14|pos=DF|name=[[Aymeric Laporte]]|age={{birth date and age|df=yes|1994|5|27}}|caps=45|goals=2|club=[[Athletic Bilbao]]|clubnat=ESP}}
+{{nat fs g player|no=22|pos=DF|name=[[Pau Cubarsí]]|age={{birth date and age|df=y|2007|1|22}}|caps=11|goals=0|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs g player|no=24|pos=DF|name=[[Marc Cucurella]]|age={{birth date and age|df=y|1998|7|22}}|caps=23|goals=1|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs break}}
+{{nat fs g player|no=6|pos=MF|name=[[Mikel Merino]]|age={{birth date and age|df=y|1996|6|22}}|caps=42|goals=10|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs g player|no=8|pos=MF|name=[[Fabián Ruiz]]|age={{birth date and age|df=y|1996|4|3}}|caps=41|goals=6|club=[[Paris Saint-Germain FC|Paris Saint-Germain]]|clubnat=FRA}}
+{{nat fs g player|no=9|pos=MF|name=[[Gavi (footballer)|Gavi]]|age={{birth date and age|df=y|2004|8|5}}|caps=29|goals=5|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs g player|no=15|pos=MF|name=[[Álex Baena]]|age={{birth date and age|df=y|2001|7|20}}|caps=16|goals=2|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=16|pos=MF|name=[[Rodri (footballer, born 1996)|Rodri]]|other=[[captain (association football)|captain]]|age={{birth date and age|df=y|1996|6|22}}|caps=61|goals=4|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs g player|no=18|pos=MF|name=[[Martín Zubimendi]]|age={{birth date and age|df=y|1999|2|2}}|caps=25|goals=3|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs g player|no=20|pos=MF|name=[[Pedri]]|age={{birth date and age|df=y|2002|11|25}}|caps=40|goals=5|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs break}}
+{{nat fs g player|no=7|pos=FW|name=[[Ferran Torres]]|age={{birth date and age|df=y|2000|2|29}}|caps=56|goals=24|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs g player|no=10|pos=FW|name=[[Dani Olmo]]|age={{birth date and age|df=y|1998|5|7}}|caps=49|goals=12|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs g player|no=11|pos=FW|name=[[Yéremy Pino]]|age={{birth date and age|df=y|2002|10|20}}|caps=22|goals=4|club=[[Crystal Palace F.C.|Crystal Palace]]|clubnat=ENG}}
+{{nat fs g player|no=17|pos=FW|name=[[Nico Williams]]|age={{birth date and age|df=y|2002|7|12}}|caps=30|goals=6|club=[[Athletic Bilbao]]|clubnat=ESP}}
+{{nat fs g player|no=19|pos=FW|name=[[Lamine Yamal]]|age={{birth date and age|df=y|2007|7|13}}|caps=25|goals=6|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs g player|no=21|pos=FW|name=[[Mikel Oyarzabal]]|age={{birth date and age|df=y|1997|4|21}}|caps=52|goals=24|club=[[Real Sociedad]]|clubnat=ESP}}
+{{nat fs g player|no=25|pos=FW|name=[[Víctor Muñoz (footballer, born 2003)|Víctor Muñoz]]|age={{birth date and age|df=y|2003|7|13}}|caps=2|goals=1|club=[[CA Osasuna|Osasuna]]|clubnat=ESP}}
+{{nat fs g player|no=26|pos=FW|name=[[Borja Iglesias]]|age={{birth date and age|df=y|1993|1|17}}|caps=7|goals=0|club=[[RC Celta de Vigo|Celta Vigo]]|clubnat=ESP}}
+{{nat fs end}}

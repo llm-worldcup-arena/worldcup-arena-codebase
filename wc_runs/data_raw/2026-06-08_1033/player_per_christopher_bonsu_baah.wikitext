@@ -1,0 +1,116 @@
+{{short description|Ghanaian footballer (born 2004)}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+|name                = Christopher Bonsu Baah
+|image               =
+|fullname            = 
+|birth_date          = {{birth date and age|2004|12|14|df=y}}
+|birth_place         = [[Ghana]]
+|height              = 1.72 m
+|currentclub         = [[Al Qadsiah FC|Al-Qadsiah]]
+|clubnumber          = 22
+|position            = [[Forward (association football)|Right-winger]], [[Midfielder|attacking midfielder]]
+|youthyears1         = 
+|youthclubs1         = Accra Shooting Stars
+|years1              = 2023      |clubs1 = [[Sarpsborg 08 FF|Sarpsborg 08]] |caps1 = 12 |goals1 = 1
+|years2              = 2023–2025 |clubs2 = [[K.R.C. Genk|Genk]]             |caps2 = 72 |goals2 = 4
+|years3              = 2025–     |clubs3 = [[Al Qadsiah FC|Al-Qadsiah]]     |caps3 = 27  |goals3 = 3
+|nationalyears1      = 2025–
+|nationalteam1       = [[Ghana national football team|Ghana]]
+|nationalcaps1       = 2
+|nationalgoals1      = 0
+|club-update         = 14 April 2026
+|nationalteam-update = 16:46, 2 June 2025 (UTC)
+}}
+'''Christopher Bonsu Baah''' (born 14 December 2004) is a Ghanaian professional [[Association football|footballer]] who plays as a [[Forward (association football)|forward]] for [[Saudi Pro League]] side [[Al Qadsiah FC|Al-Qadsiah]] and the [[Ghana national football team|Ghana national team]].
+
+==Club career==
+===Sarpsborg===
+Bonsu Baah joined Norwegian [[Eliteserien]] side [[Sarpsborg 08 FF|Sarpsborg 08]] from Ghanaian second division side Accra Shooting Stars in March 2023.<ref name=sb>{{cite web|url=https://www.sarpsborg08.no/nyheter/christopher-bonsu-baah-klar-for-sarpsborg-08|title=Christopher Bonsu Baah klar for Sarpsborg 08|trans-title=Christopher Bonsu Baah ready for Sarpsborg 08|date=13 March 2023|accessdate=30 June 2023|website=sarpsborg08.no|language=Norwegian}}</ref><ref>{{cite web|url=https://sportsworldghana.com/ghanaian-teenager-christopher-bonsu-joins-sarpsborg/|title=Ghanaian teenager Christopher Bonsu joins Sarpsborg|first=Edmund|last=Okai Gyimah|date=15 April 2023|accessdate=30 June 2023|website=sportsworldghana.com}}</ref> The Norwegian side stated in their announcement that Bonsu Baah had previously trialed with [[Borussia Dortmund]], [[FC Midtjylland|Midtjylland]], [[FC Barcelona|Barcelona]] and [[Manchester United F.C.|Manchester United]].<ref name=sb/>
+
+Bonsu Baah scored his first goal for Sarpsborg in a 3–1 win against [[Aalesunds FK|Aalesund]], and his impressive performances for the club earned him a place on the 2023 [[Golden Boy (award)|Golden Boy]] longlist.<ref>{{cite web|url=https://www.kickgh.com/more/ghanaians-abroad/23612-ghanaian-teenager-christopher-bonsu-baah-nets-debut-goal-in-sarpsborg-08-win-over-aalesunds-fk|title=Ghanaian teenager Christopher Bonsu Baah nets debut goal in Sarpsborg 08 win over Aalesunds FK|date=29 May 2023|accessdate=30 June 2023|website=kickgh.com}}</ref><ref>{{cite web|url=https://ghanasoccernet.com/ghanaian-duo-ernest-nuamah-and-baah-bonsu-nominated-for-golden-boy-award|title=Ghanaian duo Ernest Nuamah and Baah Bonsu nominated for Golden Boy award|date=20 June 2023|accessdate=30 June 2023|website=ghanasoccernet.com}}</ref>
+
+===Genk===
+On 6 July 2023, only four months after joining Sarpsborg, Bonsu Baah signed for [[Belgian Pro League]] side [[K.R.C. Genk|Genk]] on a five-year deal.<ref name=krcg>{{cite web|url=https://www.krcgenk.be/nl/nieuws/5164/18-jarig-talent-christopher-bonsu-baah-tekent-voor-5-jaar-bij-krc-genk|title=18-jarig talent Christopher Bonsu Baah tekent voor 5 jaar bij KRC Genk|trans-title=18-year-old talent Christopher Bonsu Baah signs for 5 years with KRC Genk|date=6 July 2023|accessdate=6 July 2023|website=krcgenk.be|language=Dutch}}</ref>
+
+===Al-Qadsiah===
+On 7 July 2025, Bonsu Baah joined Saudi Arabian side [[Al Qadsiah FC|Al-Qadsiah]] on a four-year deal.<ref>{{cite web |title=بونسو باه يعزز القادسية |url=http://arriyadiyah.com/869591}}</ref>
+
+==Style of play==
+A left-footed right-winger, also capable of playing as an [[attacking midfielder]], Bonsu Baah led the Norwegian Eliteserien with 57 successful dribbles and 10 chances created, during his time with Sarpsborg.<ref name=krcg/>
+
+==International career==
+Bonsu Baah was called up to the [[Ghana national football team|Ghana national team]] for the [[2025 Unity Cup]].<ref>{{Cite web|url=https://www.ghanafa.org/otto-addo-names-squad-for-unity-cup-2025|title=Otto Addo names squad for Unity Cup 2025|first=Ghana Football|last=Association|website=www.ghanafa.org}}</ref>
+In March 2025, Bonsu Baah received his first senior call-up to the Ghana national team for the 2026 FIFA World Cup qualification matches against Chad and Madagascar.
+
+In June 2026, he was named in Ghana’s final squad for the 2026 FIFA World Cup after an impressive season with Al-Qadsiah. <ref>{{cite web |title=Christopher Bonsu Baah buzzing after earning Ghana World Cup call-up |url=https://footy-africa.com/christopher-bonsu-baah-buzzing-after-earning-ghana-world-cup-call-up/ |website=Footy-Africa |date=2026-06-02 |access-date=2026-06-02}}</ref>
+
+==Career statistics==
+{{updated|match played 3 May 2025}}<ref>{{Soccerway|christopher-bansu-baah/898053}}</ref><ref>{{NFF|4000513}}</ref>
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|National cup{{efn|Includes [[Norwegian Football Cup]], [[Belgian Cup]]}}
+!colspan=2|Continental
+!colspan=2|Total 
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|[[Sarpsborg 08 FF|Sarpsborg 08]]
+|[[2023 Sarpsborg 08 FF season|2023]]
+|[[Eliteserien]]
+|12||1||3||0||colspan="2"|–||15||1
+|-
+|rowspan="3"|[[KRC Genk|Genk]]
+|[[2023–24 K.R.C. Genk season|2023–24]]
+|[[Belgian Pro League]]
+|34||1||2||1||11{{efn|One appearance in [[UEFA Champions League]], two appearances in [[UEFA Europa League]], eight appearances in [[UEFA Conference League]]}}||0||47||2
+|-
+|[[2024–25 KRC Genk season|2024–25]]
+|Belgian Pro League
+|35||3||4||0||colspan="2"|–||39||3
+|-
+!colspan="2"|Total
+!69||4||6||1||11||0||85||5
+|-
+!colspan="3"|Career total
+!81||5||9||1||11||0||101||6
+|}
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{WorldFootball.net|christopher-bonsu-baah}}
+
+{{Al-Qadisiyah FC squad}}
+{{Ghana squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Bonsu Baah, Christopher}}
+[[Category:2004 births]]
+[[Category:Living people]]
+[[Category:Ghanaian men's footballers]]
+[[Category:Ghana men's international footballers]]
+[[Category:Men's association football wingers]]
+[[Category:Men's association football midfielders]]
+[[Category:Eliteserien players]]
+[[Category:Belgian Pro League players]]
+[[Category:Saudi Pro League players]]
+[[Category:Sarpsborg 08 FF players]]
+[[Category:KRC Genk players]]
+[[Category:Al Qadsiah FC players]]
+[[Category:Ghanaian expatriate men's footballers]]
+[[Category:Ghanaian expatriate sportspeople in Norway]]
+[[Category:Expatriate men's footballers in Norway]]
+[[Category:Ghanaian expatriate sportspeople in Belgium]]
+[[Category:Expatriate men's footballers in Belgium]]
+[[Category:Ghanaian expatriate sportspeople in Saudi Arabia]]
+[[Category:Expatriate men's footballers in Saudi Arabia]]
+[[Category:Place of birth missing (living people)]]
+[[Category:21st-century Ghanaian sportsmen]]
+[[Category:2026 FIFA World Cup players]]

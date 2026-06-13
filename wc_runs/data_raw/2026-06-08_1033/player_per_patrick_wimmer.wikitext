@@ -1,0 +1,203 @@
+{{short description|Austrian footballer (born 2001)}}
+{{Use dmy dates|date=January 2021}}
+{{Infobox football biography
+|name = Patrick Wimmer
+|full_name = 
+|image = U19 Austria vs. Ireland(19. November 2019 ) 42.jpg
+|caption = Wimmer playing for [[Austria national under-19 football team|Austria U19]] in 2019
+|birth_date = {{birth date and age|df=yes|2001|5|30}}
+|birth_place = [[Tulln]], Austria
+|height = 1.82 m<ref>{{cite web |url=https://www.vfl-wolfsburg.de/en/teams/first-team/players-and-staff/spieler-profil/patrick-wimmer-1 |title=Patrick Wimmer |publisher=Vfl Wolfsburg |access-date=1 September 2022}}</ref>
+|position = [[Midfielder#Winger|Right winger]]
+|currentclub = [[VfL Wolfsburg|Wolfsburg]]
+|clubnumber = 39
+|years1 = 2017–2019
+|clubs1 = SV Gaflenz
+|caps1 = 43
+|goals1 = 9
+|years2 = 2019
+|clubs2 = [[FK Austria Wien|Austria Wien II]]
+|caps2 = 15
+|goals2 = 2
+|years3 = 2019–2021
+|clubs3 = [[FK Austria Wien|Austria Wien]]
+|caps3 = 47
+|goals3 = 5
+|years4 = 2021–2022
+|clubs4 = [[Arminia Bielefeld]]
+|caps4 = 31
+|goals4 = 3
+|years5 = 2022–
+|clubs5 = [[VfL Wolfsburg]]
+|caps5 = 94
+|goals5 = 13
+|nationalyears1 = 2019–2020
+|nationalteam1 = [[Austria national under-19 football team|Austria U19]]
+|nationalcaps1 = 9
+|nationalgoals1 = 3
+|nationalyears2 = 2020–
+|nationalteam2 = [[Austria national under-21 football team|Austria U21]]
+|nationalcaps2 = 5
+|nationalgoals2 = 2
+|nationalyears3 = 2022–
+|nationalteam3 = [[Austria national football team|Austria]]
+|nationalcaps3 = 30
+|nationalgoals3 = 1
+|pcupdate = 20:23, 9 May 2026 (UTC)
+|ntupdate = 23:14, 31 March 2026 (UTC)
+}}
+
+'''Patrick Wimmer''' (born 30 May 2001) is an Austrian professional [[association football|footballer]] who plays as a [[Midfielder#Winger|right winger]] for [[Bundesliga]] club [[VfL Wolfsburg]] and the [[Austria national football team|Austria national team]].<ref>{{Worldfootball.net|patrick-wimmer|new_id=pe602069}}</ref>
+
+==Club career==
+On 13 April 2022, Wimmer signed a five-year contract with [[VfL Wolfsburg]], beginning with the 2022–23 season.<ref>{{cite web|publisher=VfL Wolfsburg|url=https://www.vfl-wolfsburg.de/newsdetails/news-detail/detail/news/wimmer-wird-ein-wolf|title=Wimmer wird ein Wolf|date=13 April 2022|access-date=22 July 2022|language=de}}</ref>
+
+==International career==
+Wimmer was called up to the [[Austria national football team|senior Austria squad]] for the [[2022–23 UEFA Nations League A|UEFA Nations League]] matches against  [[Croatia national football team|Croatia]], [[Denmark national football team|Denmark]], [[France national football team|France]] and [[Denmark national football team|Denmark]] on 3, 6, 10 and 13 June 2022.<ref>{{cite news 
+|url=https://www.bbc.com/sport/football/61766082
+|title=Austria 1–1 France
+|publisher=BBC Sport 
+|date=10 June 2022 |access-date=13 June 2022}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 9 May 2026}}<ref name = "SW">{{soccerway|patrick--wimmer/616536|access-date=20 July 2019}}</ref>
+
+{| class="wikitable" style="text-align: center"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup
+!colspan="2"|Europe
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps||Goals||Apps||Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|[[FK Austria Wien|Austria Wien II]]
+|[[2019–20 Austrian Football Second League|2019–20]]
+|[[2. Liga (Austria)|Austrian 2. Liga]]
+|15||2||0||0||colspan="2"|—||colspan="2"|—||15||2
+|-
+|rowspan="3"|[[FK Austria Wien|Austria Wien]]
+|[[2019–20 Austrian Football Bundesliga|2019–20]]
+|[[Austrian Football Bundesliga|Austrian Bundesliga]]
+|16||0||0||0||3||2||colspan="2"|—||19||2
+|-
+|[[2020–21 FK Austria Wien season|2020–21]]
+|Austrian Bundesliga
+|31||5||4||0||3||1||colspan="2"|—||38||6
+|-
+!colspan="2"|Total
+!47!!5!!4!!0!!6!!3!!colspan="2"|—!!57!!8
+|-
+|[[Arminia Bielefeld]]
+|[[2021–22 Arminia Bielefeld season|2021–22]]
+|[[Bundesliga]]
+|31||3||1||0||colspan="2"|—||colspan="2"|—||32||3
+|-
+|rowspan="5"|[[VfL Wolfsburg]]
+|[[2022–23 VfL Wolfsburg season|2022–23]]
+|Bundesliga
+|26||4||3||0||colspan="2"|—||colspan="2"|—||29||4
+|-
+|[[2023–24 VfL Wolfsburg season|2023–24]]
+|Bundesliga
+|14||2||1||0||colspan="2"|—||colspan="2"|—||15||2
+|-
+|[[2024–25 VfL Wolfsburg season|2024–25]]
+|Bundesliga
+|29||3||4||1||colspan="2"|—||colspan="2"|—||33||4
+|-
+|[[2025–26 VfL Wolfsburg season|2025–26]]
+|Bundesliga
+|25||4||2||0||colspan="2"|—||0||0||27||4
+|-
+!colspan="2"|Total
+!94!!13!!10!!1!!colspan="2"|—!!0!!0!!104!!14
+|-
+!colspan="3"|Career total
+!187!!23!!15!!1!!6!!3!!0!!0!!208!!27
+|}
+
+===International===
+{{updated|match played 31 March 2026}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="5"|[[Austria national football team|Austria]]
+|2022||1||0
+|-
+|2023||7||0
+|-
+|2024||13||1
+|-
+|2025||7||0
+|-
+|2026||2||0
+|-
+!colspan="2"|Total||30||1
+|}
+
+:''Scores and results list Austria's goal tally first, score column indicates score after each Wimmer goal.''
+
+{| class="wikitable"
+|+ List of international goals scored by Patrick Wimmer
+! No. !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| 1. || 4 June 2024 || [[Ernst-Happel-Stadion]], [[Vienna]], Austria || {{fb|SRB}} || align=center|'''1'''–0 || align=center| 2–1 || [[Exhibition game#Association football|Friendly]]
+|}
+
+==Honours==
+'''Individual'''
+*[[Bundesliga]] Rookie of the Month: [[2021-22 Bundesliga#Monthly Awards|January 2022]]<ref>{{cite web|title=Bundesliga Rookie Award|url=https://www.rookie-award.com/?lang=en|url-status=live|access-date=18 November 2021|publisher=Bundesliga|archive-url=https://web.archive.org/web/20201023011407/https://rookie-award.com/ |archive-date=23 October 2020 }}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category}}
+* {{Sports links}}
+* {{webarchive |url=https://web.archive.org/web/20230228101549/https://www.vfl-wolfsburg.de/en/teams/first-team/players-and-staff/spieler-profil/patrick-wimmer |title=Patrick Wimmer at VfL Wolfsburg |date=dmy}}
+* {{ÖFB player|626395}}
+* {{ÖFB player|1283647}} (national team)
+* {{Instagram}}
+
+{{VfL Wolfsburg squad}}
+{{Navboxes
+| title = Austria squads
+| bg = #ED2939
+| fg = white
+| bordercolor = #860909
+| list1 =
+{{Austria squad UEFA Euro 2024}}
+{{Austria squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Wimmer, Patrick}}
+[[Category:Living people]]
+[[Category:2001 births]]
+[[Category:Sportspeople from Tulln an der Donau]]
+[[Category:Austrian men's footballers]]
+[[Category:Men's association football midfielders]]
+[[Category:Austria men's international footballers]]
+[[Category:Austria men's under-21 international footballers]]
+[[Category:Austria men's youth international footballers]]
+[[Category:Austrian Football Bundesliga players]]
+[[Category:2. Liga (Austria) players]]
+[[Category:Bundesliga players]]
+[[Category:FK Austria Wien players]]
+[[Category:Arminia Bielefeld players]]
+[[Category:VfL Wolfsburg players]]
+[[Category:Austrian expatriate men's footballers]]
+[[Category:Austrian expatriate sportspeople in Germany]]
+[[Category:Expatriate men's footballers in Germany]]
+[[Category:UEFA Euro 2024 players]]
+[[Category:21st-century Austrian sportsmen]]
+[[Category:2026 FIFA World Cup players]]
+
+
+{{Austria-footy-midfielder-stub}}

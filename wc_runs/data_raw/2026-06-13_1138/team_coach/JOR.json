@@ -1,0 +1,27 @@
+{
+ "team": "JOR",
+ "coach": {
+  "name_zh": "",
+  "name_en": "Jamal Sellami",
+  "nationality": "Morocco",
+  "career_since": "2011",
+  "person_id": "per_jamal_sellami"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 摩洛哥教练Jamal Sellami球员时代参加过1998年世界杯，2011年起执教，2024年6月接手约旦国家队。\n- 他率领约旦历史性首次晋级2026世界杯决赛圈，延续前任同胞侯赛因·阿穆塔的工作，打造阿拉伯足坛新兴力量。\n- 他鼓励弟子复制摩洛哥2022年壮举，梦想复刻1982阿尔及利亚胜德国、1990喀麦隆击败阿根廷等历史性冷门。\n- 其进攻体系依赖穆萨·塔马里和阿利·奥尔万（预选赛9球），同时创造性弥补去年12月十字韧带重伤的\"不可替代\"前锋亚赞·奈马特。\n- 前锋易卜拉欣·萨布拉训练踝韧带断裂退赛后，他紧急征召20岁后卫穆罕默德·塔哈，展现决赛前的灵活调整能力。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.82,
+  "issues": [
+   "梦想复刻历史冷门与预测关联弱",
+   "打造新兴力量表述空泛"
+  ]
+ },
+ "brief_fetched": "2026-06-13_1138",
+ "brief_info_chars": 2698
+}

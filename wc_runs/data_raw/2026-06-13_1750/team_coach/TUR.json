@@ -1,0 +1,35 @@
+{
+ "team": "TUR",
+ "coach": {
+  "name_zh": "文森佐·蒙特拉",
+  "name_en": "Vincenzo Montella",
+  "nationality": "Italy",
+  "career_since": "2009",
+  "person_id": "per_vincenzo_montella"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "意大利教练文森佐·蒙特拉现任土耳其国家队主帅，率队征战2026年世界杯——球队时隔24年重返该赛事，为史上第三次入围。\n\n热身赛测试后倾向采用4-2-3-1阵型。\n\n队长恰尔汗奥卢小腿伤愈回归，蒙特拉将其定义为\"最重要球员\"。\n\n中场以恰尔汗奥卢与奥昆·科克屈为核心，同时给予居莱尔等年轻攻击手战术自由度。\n\n土耳其2002年世界杯曾夺季军，此次回归承载历史期待。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": true,
+  "need_fix": true,
+  "keep_ratio": 0.7,
+  "issues": [
+   "2002年历史成绩抒情注水",
+   "执教生涯起点信息冗余",
+   "历史期待等套话冗余"
+  ]
+ },
+ "brief_fetched": "2026-06-13_1750",
+ "brief_info_chars": 6000,
+ "coach_xverify": {
+  "canonical": "Vincenzo Montella",
+  "confidence": "high",
+  "discrepancy": "",
+  "sources_agree": 5,
+  "n_sources": 8
+ }
+}

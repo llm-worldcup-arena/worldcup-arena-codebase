@@ -1,0 +1,24 @@
+{
+ "team": "EGY",
+ "coach": {
+  "name_zh": "霍萨姆·哈桑",
+  "name_en": "Hossam Hassan",
+  "nationality": "Egypt",
+  "career_since": "2008",
+  "person_id": "per_hossam_hassan"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 霍萨姆·哈桑（Hossam Hassan），埃及籍，59岁，2008年起执教，球员时代以69球保持埃及国家队历史进球纪录。\n- 现任埃及国家队主帅，率队征战队史第四届世界杯（自2018年后首次），球队大本营设于美国斯波坎，5月20日公布26人最终名单。\n- 萨拉赫担任队长并领衔锋线，与曼城前锋马尔穆什、阿尔阿赫利边锋特雷泽盖、尼斯中卫阿卜杜勒莫内姆构成核心，但萨拉赫腿筋撕裂需休战四周，已结束本赛季俱乐部比赛。\n- 名单意外排除南特前锋穆斯塔法·穆罕默德、扎马莱克球员谢哈塔与曼西，同时征召巴萨B队19岁前锋哈姆扎·阿卜杜勒卡里姆等五名新人。\n- 埃及队将于5月28日、6月4日分别热身对阵俄罗斯、巴西，世界杯小组赛6月15日首战比利时，21日对阵新西兰，26日对阵伊朗。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.95,
+  "issues": []
+ },
+ "brief_fetched": "2026-06-13_1138",
+ "brief_info_chars": 4001
+}

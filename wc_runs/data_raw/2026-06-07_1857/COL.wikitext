@@ -1,0 +1,35 @@
+===Current squad===
+The following 26 players were called up to the [[2026 FIFA World Cup]], and for the pre-tournament friendly matches against [[Costa Rica national football team|Costa Rica]] and [[Jordan national football team|Jordan]] on 29 May and 7 June 2026, respectively.
+<br />''Caps and goals updated as of 1 June 2026, after the match against [[Costa Rica national football team|Costa Rica]].''
+<!-- Organised by number (when available) position, by caps and lastly by most recent call-up. If you remove a player please move him to the recent call ups. -->
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[David Ospina]]|age={{bda|1988|8|31|df=y}}|caps=130|goals=0|club=[[Atlético Nacional]]|clubnat=COL}}
+{{nat fs g player|no=12|pos=GK|name=[[Camilo Vargas]]|age={{bda|1989|3|9|df=y}}|caps=41|goals=0|club=[[Atlas F.C.|Atlas]]|clubnat=MEX}}
+{{nat fs g player|no=24|pos=GK|name=[[Álvaro Montero (Colombian footballer)|Álvaro Montero]]|age={{bda|1995|3|29|df=y}}|caps=11|goals=0|club=[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]|clubnat=ARG}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Daniel Muñoz (footballer)|Daniel Muñoz]]|age={{bda|1996|5|26|df=y}}|caps=45|goals=3|club=[[Crystal Palace F.C.|Crystal Palace]]|clubnat=ENG}}
+{{nat fs g player|no=3|pos=DF|name=[[Jhon Lucumí]]|age={{bda|1998|6|26|df=y}}|caps=36|goals=1|club=[[Bologna FC 1909|Bologna]]|clubnat=ITA}}
+{{nat fs g player|no=4|pos=DF|name=[[Santiago Arias]]|age={{bda|1992|1|13|df=y}}|caps=67|goals=0|club=[[Independiente de Avellaneda|Independiente]]|clubnat=ARG}}
+{{nat fs g player|no=13|pos=DF|name=[[Yerry Mina]]|age={{bda|1994|9|23|df=y}}|caps=53|goals=8|club=[[Cagliari Calcio|Cagliari]]|clubnat=ITA}}
+{{nat fs g player|no=17|pos=DF|name=[[Johan Mojica]]|age={{bda|1992|8|21|df=y}}|caps=44|goals=1|club=[[RCD Mallorca|Mallorca]]|clubnat=ESP}}
+{{nat fs g player|no=18|pos=DF|name=[[Willer Ditta]]|age={{bda|1997|1|23|df=y}}|caps=4|goals=0|club=[[Cruz Azul]]|clubnat=MEX}}
+{{nat fs g player|no=22|pos=DF|name=[[Deiver Machado]]|age={{bda|1993|9|2|df=y}}|caps=15|goals=0|club=[[FC Nantes|Nantes]]|clubnat=FRA}}
+{{nat fs g player|no=23|pos=DF|name=[[Davinson Sánchez]]|age={{bda|1996|6|12|df=y}}|caps=78|goals=4|club=[[Galatasaray S.K. (football)|Galatasaray]]|clubnat=TUR}}
+{{nat fs break}}
+{{nat fs g player|no=5|pos=MF|name=[[Kevin Castaño]]|age={{bda|2000|9|29|df=y}}|caps=25|goals=0|club=[[Club Atlético River Plate|River Plate]]|clubnat=ARG}}
+{{nat fs g player|no=6|pos=MF|name=[[Richard Ríos]]|age={{bda|2000|6|2|df=y}}|caps=31|goals=2|club=[[S.L. Benfica|Benfica]]|clubnat=POR}}
+{{nat fs g player|no=8|pos=MF|name=[[Jorge Carrascal]]|age={{bda|1998|5|25|df=y}}|caps=23|goals=2|club=[[CR Flamengo|Flamengo]]|clubnat=BRA}}
+{{nat fs g player|no=10|pos=MF|name=[[James Rodríguez]]|other=[[Captain (association football)|captain]]|age={{bda|1991|7|12|df=y}}|caps=125|goals=31|club=[[Minnesota United FC|Minnesota United]]|clubnat=USA}}
+{{nat fs g player|no=11|pos=MF|name=[[Jhon Arias (footballer)|Jhon Arias]]|age={{bda|1997|9|21|df=y}}|caps=37|goals=4|club=[[SE Palmeiras|Palmeiras]]|clubnat=BRA}}
+{{nat fs g player|no=14|pos=MF|name=[[Gustavo Puerta]]|age={{bda|2003|7|26|df=y}}|caps=5|goals=1|club=[[Racing de Santander|Racing Santander]]|clubnat=ESP}}
+{{nat fs g player|no=15|pos=MF|name=[[Juan Portilla]]|age={{bda|1998|9|12|df=y}}|caps=9|goals=0|club=[[Club Athletico Paranaense|Athletico Paranaense]]|clubnat=BRA}}
+{{nat fs g player|no=16|pos=MF|name=[[Jefferson Lerma]]|age={{bda|1994|10|25|df=y}}|caps=64|goals=5|club=[[Crystal Palace F.C.|Crystal Palace]]|clubnat=ENG}}
+{{nat fs g player|no=20|pos=MF|name=[[Juan Fernando Quintero]]|age={{bda|1993|1|18|df=y}}|caps=48|goals=6|club=[[Club Atlético River Plate|River Plate]]|clubnat=ARG}}
+{{nat fs g player|no=21|pos=MF|name=[[Jaminton Campaz]]|age={{bda|2000|5|24|df=y}}|caps=9|goals=1|club=[[Rosario Central]]|clubnat=ARG}}
+{{nat fs break}}
+{{nat fs g player|no=7|pos=FW|name=[[Luis Díaz (footballer, born 1997)|Luis Díaz]]|age={{bda|1997|1|13|df=y}}|caps=73|goals=22|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs g player|no=9|pos=FW|name=[[Jhon Córdoba]]|age={{bda|1993|5|11|df=y}}|caps=21|goals=6|club=[[FC Krasnodar|Krasnodar]]|clubnat=RUS}}
+{{nat fs g player|no=19|pos=FW|name=[[Cucho Hernández]]|age={{bda|1999|4|20|df=y}}|caps=8|goals=2|club=[[Real Betis|Betis]]|clubnat=ESP}}
+{{nat fs g player|no=25|pos=FW|name=[[Luis Suárez (footballer, born 1997)|Luis Suárez]]|age={{bda|1997|12|2|df=y}}|caps=11|goals=5|club=[[Sporting CP]]|clubnat=POR}}
+{{nat fs g player|no=26|pos=FW|name=[[Andrés Gómez (footballer)|Andrés Gómez]]|age={{bda|2002|9|12|df=y}}|caps=7|goals=2|club=[[CR Vasco da Gama|Vasco da Gama]]|clubnat=BRA}}
+{{nat fs end}}

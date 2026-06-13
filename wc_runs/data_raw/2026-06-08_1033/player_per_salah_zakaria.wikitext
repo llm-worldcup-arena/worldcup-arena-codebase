@@ -1,0 +1,108 @@
+{{short description|Qatari footballer (born 1999)}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+| name = Salah Zakaria
+| image = 
+| caption = 
+| fullname = Salah Zakaria Hassan
+| birth_date = {{birth date and age|1999|04|24|df=y}}
+| birth_place = 
+| height = 1.85 m
+| currentclub = [[Al Duhail SC|Al-Duhail]]
+| clubnumber = 1
+| position = [[Goalkeeper (association football)|Goalkeeper]]
+| youthyears1 = {{0|0000}}–2019
+| youthclubs1 = [[Al-Wakrah SC|Al-Wakrah]]
+| youthyears2 = 2019
+| youthclubs2 = → [[K.A.S. Eupen|Eupen]] (loan)
+| years1 = 2019–2021
+| clubs1 = [[Al-Wakrah SC|Al-Wakrah]]
+| caps1 = 0
+| goals1 = 0
+| years2 = 2019–2020
+| clubs2 = → [[Al-Gharafa SC|Al-Gharafa]] (loan)
+| caps2 = 7
+| goals2 = 0
+| years3 = 2021–
+| clubs3 = [[Al-Duhail SC|Al-Duhail]]
+| caps3 = 78
+| goals3 = 0
+| nationalyears1 = 2018
+| nationalteam1 = [[Qatar national under-19 football team|Qatar U19]]
+| nationalcaps1 = 4
+| nationalgoals1 = 0
+| nationalyears2 = 2021–2022
+| nationalteam2 = [[Qatar national under-23 football team|Qatar U23]]
+| nationalcaps2 = 12
+| nationalgoals2 = 0
+| nationalyears3 = 2022–
+| nationalteam3 = [[Qatar national football team|Qatar]]
+| nationalcaps3 = 4
+| nationalgoals3 = 0
+| club-update = 17 January 2026
+| nationalteam-update = 7 January 2024 (UTC)
+| medaltemplates = {{MedalCountry|{{fb|QAT}}}}
+{{MedalSport|Men's [[Association football|Football]]}}
+{{MedalCompetition|[[AFC Asian Cup]]}}
+{{Medal|Winner|[[2023 AFC Asian Cup|2023]]|}}
+}}
+
+'''Salah Zakaria Hassan''' (born 24 April 1999) is a Qatari professional [[association football|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for [[Al-Duhail SC|Al-Duhail]] and the [[Qatar national football team|Qatar national team]].
+
+==Club career==
+Zakaria began his professional career with [[Al-Gharafa SC|Al-Gharafa]] in 2019. In January 2021 he joined [[Al-Duhail SC|Al-Duhail]].<ref>{{cite web | url=https://www.besoccer.com/player/transfers/salah-zakaria-hassan-846025 | title=Salah Zakaria transfers | date= | accessdate=2023-08-17}}</ref>
+
+==International career==
+In August 2022, Zakaria made his first appearance for the Qatar national team against [[Jamaica]]. The match ended 1-1.<ref>{{cite web | url=https://int.soccerway.com/matches/2022/08/26/world/friendlies/qatar/jamaica/3932876/ | title=Qatar vs. Jamaica 1-1 | date=2022-08-26 | accessdate=2022-10-14}}</ref>
+
+==Honours==
+;[[Al-Duhail SC]]
+*[[Qatari Stars Cup]]: [[2022-23 Qatari Stars Cup|2022-23]]
+*[[Emir of Qatar Cup]]: [[2022 Emir of Qatar Cup|2022]]
+*[[Qatar Cup]]: [[2023 Qatar Cup|2023]]
+
+;[[Qatar national football team|Qatar]]
+*[[AFC Asian Cup]]: [[2023 AFC Asian Cup|2023]]
+
+==References==
+{{reflist}}
+
+==External links==
+*{{soccerway|576213}}
+
+{{Al-Duhail SC squad}}
+{{Navboxes
+| title = Qatar squads
+| bg          = #8A1538
+| fg          = white
+| bordercolor = #660033
+| list1 =
+{{Qatar squad 2023 CONCACAF Gold Cup}}
+{{Qatar squad 2023 AFC Asian Cup}}
+{{Qatar squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Zakaria, Salah}}
+[[Category:1999 births]]
+[[Category:Living people]]
+[[Category:Qatari men's footballers]]
+[[Category:21st-century Qatari sportsmen]]
+[[Category:Qatar men's youth international footballers]]
+[[Category:Qatari expatriate men's footballers]]
+[[Category:Al-Wakrah SC players]]
+[[Category:KAS Eupen players]]
+[[Category:Al-Gharafa SC players]]
+[[Category:Al Duhail SC players]]
+[[Category:Qatar Stars League players]]
+[[Category:Men's association football goalkeepers]]
+[[Category:Qatari expatriate sportspeople in Belgium]]
+[[Category:Expatriate men's footballers in Belgium]]
+[[Category:Qatar men's under-20 international footballers]]
+[[Category:Qatar men's international footballers]]
+[[Category:2023 CONCACAF Gold Cup players]]
+[[Category:2023 AFC Asian Cup players]]
+[[Category:AFC Asian Cup–winning players]]
+[[Category:2026 FIFA World Cup players]]
+
+
+{{Qatar-footy-goalkeeper-stub}}

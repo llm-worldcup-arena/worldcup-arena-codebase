@@ -1,0 +1,387 @@
+{{short description|Spanish footballer (born 2000)}}
+{{distinguish|Fernando Torres}}
+{{family name hatnote|Torres|Garcia|lang=Spanish}}
+{{Use British English|date=January 2023}}{{Use dmy dates|date=January 2023}}
+{{Infobox football biography
+| name = Ferran Torres
+| image = Ferran Torres 2019.png
+| caption = Torres with [[Valencia CF|Valencia]] in 2019
+| full_name = Ferran Torres García<ref>{{cite news |url=https://www.premierleague.com/news/1869523 |title=2020/21 Premier League squads confirmed |publisher=Premier League |date=20 October 2020 |access-date=25 October 2020}}</ref>
+| birth_date = {{birth date and age|2000|2|29|df=y}}<ref>{{cite web |url=https://www.espn.co.uk/football/player/_/id/265869/ferran-torres |title=Ferrán Torres: Overview |publisher=ESPN |access-date=20 February 2021}}</ref>
+| birth_place = [[Foios]], Spain
+| height = 1.82 m<ref>{{cite web |url=https://www.fcbarcelona.com/en/football/first-team/players/43098/ferran-torres |title=Ferran Torres |publisher=FC Barcelona |access-date=19 September 2025}}</ref>
+| position = [[Forward (association football)|Forward]], [[winger (association football)|winger]]
+| currentclub = [[FC Barcelona|Barcelona]]
+| clubnumber = 7
+| youthyears1 = 2006–2017
+| youthclubs1 = [[Valencia CF (youth)|Valencia]]
+| years1 = 2016–2017
+| clubs1 = [[Valencia CF Mestalla|Valencia Mestalla]]
+| caps1 = 12
+| goals1 = 1
+| years2 = 2017–2020
+| clubs2 = [[Valencia CF|Valencia]]
+| caps2 = 71
+| goals2 = 6
+| years3 = 2020–2022
+| clubs3 = [[Manchester City F.C.|Manchester City]]
+| caps3 = 28
+| goals3 = 9
+| years4 = 2022–
+| clubs4 = [[FC Barcelona|Barcelona]]
+| caps4 = 140
+| goals4 = 41
+| nationalyears1 = 2016–2017
+| nationalteam1 = [[Spain national under-17 football team|Spain U17]]
+| nationalcaps1 = 24
+| nationalgoals1 = 2
+| nationalyears2 = 2018–2019
+| nationalteam2 = [[Spain national under-19 football team|Spain U19]]
+| nationalcaps2 = 17
+| nationalgoals2 = 10
+| nationalyears3 = 2019–2021
+| nationalteam3 = [[Spain national under-21 football team|Spain U21]]
+| nationalcaps3 = 6
+| nationalgoals3 = 0
+| nationalyears4 = 2020–
+| nationalteam4 = [[Spain national football team|Spain]]
+| nationalcaps4 = 56
+| nationalgoals4 = 24
+| medaltemplates = {{Medal|Sport|Men's [[Association football|football]]}}
+{{Medal|Country|{{fb|ESP}}}}
+{{MedalComp|[[UEFA European Championship]]}}
+{{Medal|W|[[UEFA Euro 2024|2024 Germany]]}}
+{{Medal|Bronze|[[UEFA Euro 2020|2020 Europe]]|}}
+{{Medal|Comp|[[UEFA Nations League]]}}
+{{Medal|RU|[[2021 UEFA Nations League Finals|2021 Italy]]|}}
+{{Medal|Comp|[[UEFA European Under-19 Championship]]}}
+{{Medal|Winner|[[2019 UEFA European Under-19 Championship|2019 Armenia]]}}
+{{Medal|Comp|[[UEFA European Under-17 Championship]]}}
+{{Medal|Winner|[[2017 UEFA European Under-17 Championship|2017 Croatia]]}}
+{{MedalComp|[[FIFA U-17 World Cup]]}}
+{{Medal|RU|[[2017 FIFA U-17 World Cup|2017 India]]}}
+| club-update = 21:14, 23 May 2026 (UTC)
+| nationalteam-update = 23:48, 31 March 2026 (UTC)
+}}
+'''Ferran Torres García''' ({{IPA|es|ˈferan ˈtores}}; born 29 February 2000) is a Spanish professional [[Association football|footballer]] who plays as a [[Forward (association football)|forward]] or [[winger (association football)|winger]] for [[La Liga]] club [[FC Barcelona|Barcelona]] and the [[Spain national football team|Spain national team]].
+
+Torres began his career at [[Valencia CF|Valencia]], where he made his senior debut in 2017. He moved to [[Manchester City F.C.|Manchester City]] in 2020 and won the [[Premier League]] and the [[EFL Cup]] in the [[2020–21 Manchester City F.C. season|2020–21 season]]. He departed for Barcelona in January 2022. Despite initially struggling in his first seasons at the club, in [[2024–25 FC Barcelona season|2024–25]], he helped Barcelona win a [[domestic treble]] of the [[La Liga]] title, the [[Copa del Rey]], and the [[Supercopa de España]]. The following season marked Torres best-scoring season with his 21 goals being crucial to Barcelona winning another La Liga title.
+
+He has represented Spain internationally at various youth levels, and made his debut for the senior team in 2020. He was named in Spain's squad for [[UEFA Euro 2020]]. He would then go on to represent the nation at the [[2022 FIFA World Cup]] and [[UEFA Euro 2024|Euro 2024]], winning the latter tournament.
+
+==Club career==
+===Valencia===
+[[File:Ferran Torres García.png|thumb|upright|Torres with [[Valencia CF|Valencia]] in 2020]]
+
+Born in [[Foios]], Valencian Community,<ref>{{Cite web |date=6 February 2025|title=Ferran Torres |url=https://www.worldfootball.net/person/pe475490/ferran-torres/ |access-date=6 April 2025 |website=worldfootball.net |language=en}}</ref> Torres joined [[Valencia CF]]'s youth setup in 2006, aged six.<ref>{{Cite web |title=Ferran Torres: Man City see first bid rejected for Valencia star |url=http://tntsports.co.uk/football/transfers/2019-2020/ferran-torres-man-city-see-first-bid-rejected-for-valencia-star-clubs-to-meet-again-on-friday_sto7814910/story.shtml?welcome=eurosport |access-date=6 April 2025 |website=www.tntsports.co.uk}}</ref><ref>{{Cite news |last=Folgado |first=Salva |date=27 October 2017 |title=Ferran Torres, la joya sub-17 que se asoma a Primera |trans-title=Ferran Torres, the under-17 pearl who looms into ''Primera'' |url=https://elpais.com/deportes/2017/10/27/actualidad/1509126422_599227.html |access-date=6 April 2025 |work=El País |language=es |issn=1134-6582}}</ref> On 15 October 2016, while still a junior, he made his senior debut with [[Valencia CF Mestalla|the reserve team]] by coming on as a [[Substitute (association football)|substitute]] for [[Grego (footballer)|Grego]] in a 2–0 [[Segunda División B]] home loss against [[RCD Mallorca B|Mallorca B]].<ref>{{Cite web |last=Nebot |first=Jaime |date=15 October 2016 |title=El balón parado condena al Valencia Mestalla |trans-title=Set pieces condemn Valencia Mestalla |url=https://golsmedia.com/futbol/segunda-rfef/grupo-3/2016/10/15/balon-parado-condena-valencia-mestalla/ |access-date=6 April 2025 |website=Golsmedia |language=es}}</ref>
+
+Torres was promoted to the B-side ahead of the [[2017–18 Segunda División|2017–18 campaign]], and scored his first senior goal on 26 August 2017 by netting his team's second in a 4–1 home win over [[CF Peralada-Girona B|Peralada-Girona B]].<ref>{{Cite web |last=PARDO @PARDOD_ |first=PAU |date=26 August 2017 |title=El Mestalla golea y Ferran enamora |trans-title=Mestalla thrash and Ferran flatters |url=https://www.superdeporte.es/valencia-cf/2017/08/27/mestalla-golea-ferran-enamora-53395400.html |access-date=6 April 2025 |website=Superdeporte |language=es}}</ref> On 5 October, after being strongly linked to [[FC Barcelona|Barcelona]] and [[Real Madrid CF|Real Madrid]],<ref>{{Cite web |last=Sport |date=4 October 2017 |title=Barcelona and Madrid battling it out for Valencia starlet Ferran Torre |url=https://www.sport.es/en/news/barca/barcelona-and-madrid-battling-it-out-for-valencia-starlet-ferran-torres-6330957 |access-date=6 April 2025 |website=sport |language=en}}</ref> he renewed his contract, which increased his release clause to €25&nbsp;million. He was also promoted to the first team on 1 January 2018.<ref>{{Cite web |last=Burgos |first=Julián |date=5 October 2017 |title=Ferrán Torres: ficha del primer equipo y sube su cláusula a 25M |trans-title=Ferrán Torres: first team place and release clause upgrade to 25M |url=https://as.com/futbol/2017/10/05/primera/1507203884_552691.html |access-date=6 April 2025 |website=Diario AS |language=es}}</ref>
+
+Torres made his first team debut on 30 November 2017, replacing fellow youth graduate [[Nacho Gil]] in a 4–1 home routing of [[Real Zaragoza]], for [[2017–18 Copa del Rey|the season]]'s [[Copa del Rey]].<ref>{{Cite web |date=30 November 2017 |title=Valencia vs Zaragoza: No hay trámites para Marcelino |url=https://www.marca.com/eventos/marcador/futbol/2017_18/copa/dieciseisavos/vuelta/val_zar/ |access-date=6 April 2025 |website=MARCA.com |language=es}}</ref> He made his [[La Liga]] debut on 16 December, playing the last nine minutes in a 1–2 loss at [[SD Eibar|Eibar]], becoming the first player born in the 2000s to play in the league.<ref>{{Cite web |date=16 December 2017 |title=Eibar vs Valencia: El vuelo de 'Air Jordan' acaba con el Valencia |trans-title=The fly of 'Air Jordan' tears up Valencia |url=https://www.marca.com/eventos/marcador/futbol/2017_18/la-liga/jornada_16/eib_val/ |access-date=6 April 2025 |website=MARCA.com |language=es}}</ref><ref>{{Cite web |date=18 December 2017 |title=Valencia: Ferran Torres, el primer jugador del siglo XXI en LaLiga |trans-title=Ferran Torres, the first 21st-century player in La Liga |url=https://www.marca.com/futbol/valencia/2017/12/18/5a36bc52e2704e717d8b45e9.html |access-date=6 April 2025 |website=Marca.com |language=es}}</ref> Torres made his European and [[UEFA Champions League|Champions League]] debut on 23 October 2018, starting in a 1–1 draw against [[BSC Young Boys|Young Boys]].<ref>{{Cite web |last=Valencia |first=Redacción |date=23 October 2018|title=Ferran Torres cumple un sueño de Champions |trans-title=Ferran Torres fulfills a Champions dream |url=https://www.eldesmarque.com/futbol/valencia-cf/20181023/ferran-torres-debuta-por-todo-lo-alto_170154579.html |access-date=6 April 2024 |website=ElDesmarque |language=es}}</ref> He scored his first La Liga goal on 19 January 2019, ten minutes after coming on as a substitute in a 2–1 victory against [[RC Celta de Vigo|Celta Vigo]].<ref>{{cite web |url=http://en.valenciacf.com/ver/85524/celta-de-vigo---valencia-cf.html |title=Match Report: Fight-back win in Vigo (1–2) |publisher=Valencia CF |language=es |date=19 January 2019|access-date=19 January 2019}}</ref> He remained on the bench as Valencia defeated Barcelona 2–1 in the [[2019 Copa del Rey Final]] at the [[Estadio Benito Villamarín]] in Seville, on 25 May.<ref>{{Cite news |last=Chowdhury |first=Saj |date=24 May 2019 |title=Copa del Rey final: Valencia end Barcelona's double dream |url=https://www.bbc.com/sport/football/48367455 |access-date=6 April 2025 |work=BBC Sport |language=en-GB}}</ref>
+
+On 5 November 2019, Torres scored his first Champions League goal, netting his team's last goal in a 4–1 home win against [[Lille OSC|Lille]],<ref>{{Cite news |title=Valencia Roar Back in Second Half to Thrash Lille |url=https://www.nytimes.com/reuters/2019/11/05/sports/soccer/05reuters-soccer-champions-val-lil-report.html |archive-url=https://web.archive.org/web/20191106164832/https://www.nytimes.com/reuters/2019/11/05/sports/soccer/05reuters-soccer-champions-val-lil-report.html |archive-date=6 November 2019 |access-date=6 April 2025 |language=en |url-status=live }}</ref> becoming Valencia's youngest goalscorer in the competition.<ref>{{Cite web |date=5 November 2019 |title=Ferran tumba otro récord en el Valencia |trans-title=Ferran tombs another record in Valencia |url=https://www.marca.com/futbol/valencia/2019/11/06/5dc1f3e8ca474155448b45a0.html |access-date=6 April 2025 |website=Marca.com |language=es}}</ref> On 23 November, Torres marked his 50th appearance in La Liga for Valencia with a 2–1 away defeat against [[Real Betis]], becoming the youngest ''Los Ches'' player to play 50 league games at the age of 19 years and 254 days, breaking a 38-year-old record of [[Miguel Tendillo]] (19 years old and 351 days).<ref>{{Cite web |last=efe |date=23 November 2019 |title=Betis-Valencia CF {{!}} Ferran Torres bate un record en el Valencia CF |trans-title=Ferran Torres breaks a record in Valencia CF |url=https://www.lasprovincias.es/valenciacf/ferran-torres-bate-20191123194539-nt.html |access-date=6 April 2025 |website=Las Provincias |language=es}}</ref>
+
+===Manchester City===
+On 4 August 2020, English club [[Manchester City F.C.|Manchester City]] confirmed the signing of Torres on a five-year contract, until 2025,<ref>{{Cite web |last=Pollard |first=Rob |title=City complete deal for Ferran Torres |url=https://www.mancity.com/news/mens/ferran-torres-signs-63732157 |access-date=6 April 2025 |website=Manchester City FC |language=en}}</ref><ref>{{Cite web |date=4 August 2020 |title=Man City sign Valencia winger Torres in £21m deal {{!}} Goal.com |url=https://www.goal.com/en/news/man-city-sign-valencia-winger-torres-21m-deal/1gs1ovb28p7ba1reusm4y3jdec |access-date=6 April 2025 |website=www.goal.com |language=en}}</ref> for a reported transfer fee of €23&nbsp;million (£20.8&nbsp;million).<ref>{{Cite news |date=4 August 2020 |title=Ferran Torres: Man City sign Valencia winger |url=https://www.bbc.com/sport/football/53658337 |access-date=6 April 2025 |work=BBC Sport |language=en-GB}}</ref> The club later revealed that Torres had inherited the shirt number 21 previously worn by club legend [[David Silva]], a fellow Spanish player who also arrived from Valencia.<ref>{{Cite news |last=Jackson |first=Jamie |date=4 August 2020 |title=Ferran Torres completes move to Manchester City from Valencia |url=https://www.theguardian.com/football/2020/aug/04/ferran-torres-meets-manchester-city-director-to-seal-move-from-valencia |access-date=6 April 2025 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref><ref>{{Cite web |date=2020-08-04 |title=Man City sign Torres from Valencia in €23m deal |url=https://www.espn.com/soccer/story/_/id/37585645/man-city-sign-ferran-torres-valencia-23m-deal |access-date=6 April 2025 |website=ESPN.com |language=en}}</ref> Torres made his debut in City's first game of the season, coming on as a substitute in a 3–1 away win against [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] in the Premier League.<ref>{{Cite news |last=Brennan |first=Stuart |date=21 September 2020 |title=Man City player ratings vs Wolves |url=https://www.manchestereveningnews.co.uk/sport/football/football-news/man-city-wolves-player-ratings-18973408|access-date=21 September 2020 |newspaper=Manchester Evening News}}</ref> On 30 September, Torres scored his first goal for the club, in a 3–0 away win over [[Burnley F.C.|Burnley]] in the [[EFL Cup]].<ref>{{Cite news |last=Johnston |first=Neil |date=2020-09-29 |title=Burnley 0-3 Manchester City: Raheem Sterling scores twice in Carabao Cup |url=https://www.bbc.co.uk/sport/football/54298224 |access-date=6 April 2025 |work=BBC Sport |language=en-GB}}</ref>
+
+On 21 October 2020, he made his Champions League debut with Manchester City, scoring a goal in a 3–1 win against [[FC Porto|Porto]].<ref>{{Cite web |date=21 October 2020 |title=Man. City-Porto |url=https://pt.uefa.com/uefachampionsleague/match/2029279--man-city-vs-porto/|access-date=22 October 2020 |publisher=UEFA}}</ref> Just a week later, Torres started and scored again in the Champions League in a 0–3 victory over [[Olympique de Marseille|Marseille]], becoming the youngest Spanish player ever to score in three consecutive appearances in the competition, at 20 years and 241 days old.<ref>{{Cite news |last=Rose |first=Gary |date=26 October 2020 |title=Marseille 0-3 Manchester City: Visitors ease to victory |url=https://www.bbc.co.uk/sport/football/54699507 |access-date=6 April 2025 |work=BBC Sport |language=en-GB}}</ref> On 28 November, Torres scored his first league goal for City in a 5–0 home win over Burnley.<ref>{{cite news |last=Stone |first=Simon |url=https://www.bbc.com/sport/football/55025784 |title=Manchester City 5–0 Burnley |website=BBC Sport |date=28 November 2020 |access-date=28 November 2020}}</ref> On 14 May, Torres scored his first [[Hat-trick (association football)|hat-trick]] for City in a 4–3 away league win over [[Newcastle United F.C.|Newcastle United]].<ref>{{Cite news |last=Sutcliffe |first=Steve |date=13 May 2021 |title=Newcastle United 3-4 Manchester City: Ferran Torres scores hat-trick as visitors win classic |url=https://www.bbc.com/sport/football/57018435 |access-date=6 April 2025 |work=BBC Sport |language=en-GB}}</ref>
+
+Having fallen out of favour during the [[2021–22 Manchester City F.C. season|2021–22 season]], mainly due to injury, Torres agreed a transfer to Barcelona for €55&nbsp;million (plus conditional add-ons worth €10&nbsp;million) in December 2021, to be completed the following month dependent on ''Barça'' selling players from their squad. He had scored 16 goals in 43 appearances.<ref>{{Cite news |last=Guillem Balague & Simon Stone |date=22 December 2021 |title=Ferran Torres: Man City agree to sell forward to Barcelona |url=https://www.bbc.co.uk/sport/football/59760266 |access-date=6 April 2025 |work=BBC Sport |language=en-GB}}</ref>
+
+===Barcelona===
+On 28 December 2021, both Barcelona and Manchester City confirmed that Torres had completed a permanent move to Barcelona, signing a five-year contract until June 2027, with a [[buyout clause]] of €1bn.<ref>{{Cite web |title=FC Barcelona signs Ferran Torres |url=https://www.fcbarcelona.com/en/football/first-team/news/2426442/fc-barcelona-signs-ferran-torres |access-date=6 April 2025 |website=www.fcbarcelona.com |language=en}}</ref><ref>{{Cite web |last=Pollard |first=Rob |title=Ferran Torres joins Barcelona |url=https://www.mancity.com/news/mens/ferran-torres-joins-barcelona-from-manchester-city-63776293 |access-date=6 April 2025 |website=Manchester City FC |language=en}}</ref> On 20 January 2022, Torres scored his first goal for Barcelona in a 3–2 loss against [[Athletic Bilbao]] at the end of extra time in the Copa del Rey [[2021–22 Copa del Rey#Round of 16|round of 16]].<ref>{{Cite web |title=Ferran Torres opens FC Barcelona account |url=https://www.fcbarcelona.com/en/football/first-team/news/2456384/ferran-torres-opens-fc-barcelona-account |access-date=6 April 2025 |website=www.fcbarcelona.com |language=en}}</ref> On 20 March 2022, he scored a goal and assisted [[Pierre-Emerick Aubameyang]] in his first [[El Clásico]], helping Barcelona to a 4–0 away victory against the league leaders.<ref>{{Cite news |last=Bysouth |first=Alex |title=La Liga LIVE: Real Madrid v Barcelona in El Clasico - score, updates & result |url=https://www.bbc.com/sport/live/football/60564705 |access-date=6 April 2025 |work=BBC Sport |language=en-GB}}</ref> During his first six months at the club, Torres made 25 appearances in all competitions, scoring seven goals.<ref name="Soccerway">{{cite web |url=https://int.soccerway.com/players/ferran-torres-garcia/420666/ |title=Ferran Torres: Summary |website=Soccerway |publisher=Perform Group |access-date=20 August 2023}}</ref> Torres struggled with his form at the start of the [[2022–23 FC Barcelona season|2022–23 season]], and was often benched in favour of [[Ousmane Dembélé]] and new signings [[Raphinha]] and [[Robert Lewandowski]].<ref>{{Cite web |last=Sanderson |first=Tom |title=Leading Premier League Club Makes Transfer Offer To Sign Ferran Torres From FC Barcelona - Reports |url=https://www.forbes.com/sites/tomsanderson/2023/02/08/leading-premier-league-club-makes-transfer-offer-to-sign-ferran-torres-from-fc-barcelona/?sh=3f1c32c3161e |access-date=6 April 2025|website=Forbes |language=en}}</ref> On 19 February 2023, he put on a man-of-the-match performance in a 2–0 league win over [[Cádiz CF|Cádiz]].<ref>{{cite news |last1=Fleming |first1=Rob |date=20 February 2023 |title=Ferran Torres shines as Barcelona's forward line regains form in win over Cadiz |url=https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_a63fe9f9-1cae-4208-afa8-b6d70a51d78c |archive-url=https://web.archive.org/web/20230226201122/https://uk.sports.yahoo.com/news/ferran-torres-shines-barcelonas-forward-101900948.html |archive-date=26 February 2023 |access-date=26 February 2023 |work=Yahoo! Sport}}</ref><ref>{{Cite news |last=Herrero |first=Laia Cervelló |date=20 February 2023 |title=Barcelona's night of rejuvenation and regret as Xavi finds different answers on the wing |url=https://www.nytimes.com/athletic/4231283/2023/02/20/barcelona-cadiz-torres-fati/ |access-date=6 April 2025 |work=The New York Times |language=en-US |issn=0362-4331}}</ref> The following day, Torres revealed in an interview that he had "fallen into a bottomless well", and had worked with a psychologist during his form slump.<ref>{{cite news |last1=Martínez |first1=Alfredo |title=Ferran recurre a la ayuda de un psicólogo para salir del bache |url=https://www.sport.es/es/noticias/barca/ferran-recurre-ayuda-psicologo-salir-81373680 |access-date=26 February 2023 |work=sport |date=19 January 2023 |archive-url=https://web.archive.org/web/20230119080454/https://www.sport.es/es/noticias/barca/ferran-recurre-ayuda-psicologo-salir-81373680 |archive-date=19 January 2023 |language=es}}</ref><ref>{{Cite web |date=21 February 2023 |title=Barca's Torres saw psychologist after falling into "bottomless well" |url=https://www.rfi.fr/en/sports/20230221-barca-s-torres-saw-psychologist-after-falling-into-bottomless-well |access-date=6 April 2025 |website=RFI |language=en}}</ref>
+
+On 21 January 2024, Torres scored his first hat-trick for Barcelona and provided an assist for [[João Félix]] on his 100th appearance for the club in a 4–2 away win against [[Real Betis]].<ref>{{Cite web |title=Ferran Torres dazzles in 100th appearance |url=https://www.fcbarcelona.com/en/football/first-team/news/3863675/ferran-torres-dazzles-in-100th-appearance |access-date=6 April 2025 |website=www.fcbarcelona.com |language=en}}</ref> Later that year, on 11 December, in a thrilling [[2024–25 UEFA Champions League|Champions League]] match against [[Borussia Dortmund]], Torres delivered a stunning performance by scoring a decisive brace, securing a 3–2 away victory for Barcelona.<ref>{{Cite web |title=Borussia Dortmund 2-3 FC Barcelona: Spektakulär! |url=https://www.fcbarcelona.com/en/football/first-team/news/4184003/borussia-dortmund-2-3-fc-barcelona-spektakular |access-date=6 April 2025|website=www.fcbarcelona.com |language=en}}</ref> On 6 February 2025, he scored a hat-trick in the first half of a 5–0 away win over his former club Valencia in the [[2024–25 Copa del Rey|Copa del Rey]] quarter-finals.<ref>{{Cite web |date=6 February 2025 |title=Valencia CF 0-5 FC Barcelona: Doble repaso y a semis de Copa |url=https://onefootball.com/en/news/valencia-cf-0-5-fc-barcelona-doble-repaso-y-a-semis-de-copa-40673894 |access-date=6 April 2025 |website=OneFootball |language=en}}</ref> Two months later, on 2 April, he scored the only goal in a 1–0 away win over [[Atlético Madrid]], clinching a 5–4 aggregate victory and a spot in the [[2025 Copa del Rey final|Copa del Rey final]].<ref>{{cite web |last=Lowe |first=Sid |url=https://www.theguardian.com/football/2025/apr/02/atletico-madrid-barcelona-copa-del-rey-semi-final-second-leg-match-report |title=Torres sends Barcelona past Atlético and into clásico Copa del Rey final |work=The Guardian |date=2 April 2025 }}</ref> On 26 April 2025, he once again showed up to score a late equaliser against arch-rivals [[Real Madrid CF|Real Madrid]] in the [[2025 Copa del Rey final|Copa del Rey final]], forcing the game into extra time, where Barcelona secured the win thanks to [[Jules Koundé]]'s winner. He was named MVP of the final and was the competition's top goal scorer.<ref>{{cite web | url=https://www.nytimes.com/athletic/live-blogs/barcelona-vs-real-madrid-live-updates-el-clasico-score-result/pKojA7RCWrjq/ | title=Barcelona vs Real Madrid live updates: Barca win el Clasico 3-2 to claim Copa del Rey title | website=[[The New York Times]] | date=26 April 2025 }}</ref>
+
+On 11 May 2025, Torres secured a vital hat-trick of assists for Barcelona in a 4&ndash;3 win against Real Madrid.<ref>{{Cite web |date=13 May 2025 |title=Ferran Torres: Hattrick of assists in the Clásico to continue his dream season with Barça |url=https://www.fcbarcelonanoticias.com/en/fc-barcelona/ferran-torres-hattrick-of-assists-in-the-clasico-fcbn_312598_102.html |access-date=16 May 2025 |website=FCBN |language=en}}</ref> Four days later, the club said he had undergone surgery for [[appendicitis]].<ref>{{Cite news |date=15 May 2025 |title=Barcelona's Torres undergoes appendicitis surgery |url=https://www.reuters.com/sports/soccer/barcelonas-torres-undergoes-appendicitis-surgery-2025-05-15/ |access-date=15 May 2025 |work=Reuters |language=en}}</ref> Later that year, on 6 December, he netted a first-half hat-trick in a 5–3 victory away to Real Betis, bringing his tally to 11 goals in 15 matches in the [[2025–26 La Liga|2025–26 season]] which marked his best scoring run ever in La Liga.<ref>{{cite web |url=https://www.beinsports.com/en-us/soccer/la-liga/articles/real-betis-3-5-barcelona-torres-superb-hat-trick-leads-the-way-in-goal-laden-victory-2025-12-06 |title=Real Betis 3-5 Barcelona: Torres' superb hat-trick leads the way in goal-laden victory |publisher=beIN SPORTS |date=6 December 2025 }}</ref>
+
+==International career==
+===Youth===
+Torres was a member of the [[Spain national under-17 football team|Spain squad]] that won the [[2017 UEFA European Under-17 Championship]] final over [[England national under-17 football team|England]], and was also a member of the squad that reached the final of the [[2017 FIFA U-17 World Cup]] later that same year, losing out to the same opponent.<ref name="hopes">{{cite news|title=Ferrán Torres on interest from big clubs and hopes of lifting the World Cup|url=https://en.as.com/en/2017/10/27/football/1509106581_605676.html|newspaper=[[Diario AS]]|date=27 October 2017|access-date=6 March 2020 |archive-date=29 June 2021 |archive-url=https://web.archive.org/web/20210629140603/https://en.as.com/en/2017/10/27/football/1509106581_605676.html |url-status=dead }}</ref><ref>{{Cite news |last=Unwin |first=Will |date=28 October 2017 |title=England 5-2 Spain: Under-17 World Cup final — as it happened! |url=https://www.theguardian.com/football/live/2017/oct/28/england-v-spain-under-17-world-cup-final-live?page=with:block-59f46a04833bbe06d816640f |access-date=6 April 2025 |work=the Guardian |language=en-GB |issn=0261-3077}}</ref> He was named in [[Spain national under-19 football team|Spain]]'s squad for the [[2019 UEFA European Under-19 Championship]] in [[Armenia]], scoring the winning penalty in the semi-final victory over [[France national under-19 football team|France]] and both goals of the 2–0 final victory against reigning champions [[Portugal national under-19 football team|Portugal]] at the [[Vazgen Sargsyan Republican Stadium]] in [[Yerevan]].<ref>{{Cite web |date=28 July 2019 |title=Ferran Torres: Valencia's new golden boy |url=https://www.marca.com/en/football/spanish-football/2019/07/28/5d3d78c122601d26238b456d.html |access-date=6 April 2025 |website=MARCA in English |language=en}}</ref> He made his debut for the [[Spain national under-21 football team|Spain U21]] side on 6 September 2019, in a 1–0 away win over [[Kazakhstan national under-21 football team|Kazakhstan]] in a [[2021 UEFA European Under-21 Championship qualification Group 6|European Championship qualifier]].<ref>{{cite news|first=Tom|last=Sanderson|title=FC Barcelona Plan Swoop For Highly Rated Valencia Midfielder Ferran Torres|url=https://www.forbes.com/sites/tomsanderson/2020/03/03/fc-barcelona-plan-swoop-for-highly-rated-valencia-midfielder-torres/|website=[[Forbes]]|date=3 March 2020|access-date=6 March 2020}}</ref><ref>{{cite web|title=Ferran Torres marks Spain Under-21s debut with a win|url=https://www.valenciacf.com/en/article/en-ferran-torres-marks-spain-under-21s-debut-with-a-win-2019-09-06|publisher=Valencia CF|date=6 September 2019|access-date=6 March 2020}}</ref>
+
+===Senior===
+====Early senior career====
+Just 16 days after signing for Manchester City, Torres was called up to the senior [[Spain national football team|Spain national team]] for the first time.<ref>{{Cite web|date=20 August 2020|title=OFICIAL {{!}} Lista de convocados de la Selección española para los partidos de la UEFA Nations League ante Alemania y Ucrania|url=https://www.sefutbol.com/oficial-lista-convocados-seleccion-espanola-partidos-uefa-nations-league-alemania-y-ucrania|access-date=20 August 2020|website=Royal Spanish Football Federation|language=es|archive-date=30 August 2020|archive-url=https://web.archive.org/web/20200830080056/https://www.sefutbol.com/oficial-lista-convocados-seleccion-espanola-partidos-uefa-nations-league-alemania-y-ucrania|url-status=dead}}</ref> He debuted against [[Germany national football team|Germany]] in the [[2020–21 UEFA Nations League A|UEFA Nations League]] on 3 September 2020, playing the full 90 minutes in a 1–1 away draw and setting up a pre-assist for Spain's last minute equaliser.<ref>{{Cite web |last=EFE |date=29 June 2021 |title=Ferrán Torres, el mejor goleador de la era Luis Enrique |url=https://www.laopinioncoruna.es/eurocopa/seleccion-espanola/2021/06/29/ferran-torres-mejor-goleador-luis-54462658.html |access-date=6 April 2025 |website=La Opinión de A Coruña |language=es}}</ref> Three days later, Torres scored his first senior international goal in a 4–0 win over [[Ukraine national football team|Ukraine]].<ref>{{Cite news |date=6 September 2020 |title=Nations League: Ansu Fati, 17, scores for Spain v Ukraine |url=https://www.bbc.com/sport/football/54051071 |access-date=6 April 2025 |work=BBC Sport |language=en-GB}}</ref><ref>{{Cite web |last=Edwards |first=John |title=Torres nets first Spain goal as Garcia makes debut |url=https://www.mancity.com/news/mens/international-round-up-6-september-63735014 |access-date=12 December 2024 |website=Manchester City FC |language=en}}</ref> On 17 November 2020, he scored his first international hat-trick in a 6–0 victory over Germany.<ref>{{Cite news |date=17 November 2020 |title=Spain 6-0 Germany: Ferran Torres hat-trick helps hosts reach Nations League finals |url=https://www.bbc.com/sport/football/54979319 |access-date=6 April 2025 |work=BBC Sport |language=en-GB}}</ref><ref>{{cite web|first=Nicholas|last=Mendola|title=UEFA Nations League: Spain obliterates Germany behind Ferran Torres |url=https://soccer.nbcsports.com/2020/11/17/uefa-nations-league-spain-obliterates-germany-to-reach-semis/|website=NBC Sports |access-date=17 November 2020 |date=17 November 2020}}</ref>
+
+====UEFA Euro 2020====
+On 24 May 2021, Torres was included in Spain's [[UEFA Euro 2020 squads#Spain|24-man squad]] for [[UEFA Euro 2020]].<ref>{{cite news|first=Jamie|last=Braidwood|title=Euro 2020 news Live: Sergio Ramos left out of Spain squad plus latest before England announcement|url=https://www.independent.co.uk/sport/football/euro-2020-news-live-england-squad-b1852654.html|newspaper=[[The Independent]]|date=24 May 2021}}</ref><ref>{{Cite news |date=24 May 2021 |title=Euro 2020: Sergio Ramos left out of Spain squad |url=https://www.bbc.com/sport/football/57228226 |access-date=6 April 2025 |work=BBC Sport |language=en-GB}}</ref> He scored the third goal of the Euro 2020 final 16 in the 76th minute of the game against [[Croatia national football team|Croatia]], resulting in a 5–3 victory on 28 June.<ref>{{Cite news |date=27 June 2021 |title=Croatia 3-5 Spain: Spain win after extra time in eight-goal thriller |url=https://www.bbc.co.uk/sport/football/51198542 |access-date=6 April 2025|work=BBC Sport |language=en-GB}}</ref>
+
+On 6 October, Torres scored both goals in Spain's 2–1 away victory over reigning European Champions [[Italy national football team|Italy]] in the semi-finals of the [[2020–21 UEFA Nations League]].<ref>{{cite web |url=https://www.uefa.com/uefanationsleague/news/026e-136a8a6c12d1-760400cb5c10-1000--italy-1-2-spain-ferran-torres-double-ends-azzurri-run/ |title=Italy 1–2 Spain: Ferran Torres double ends Azzurri run|publisher=UEFA|date=6 October 2021|access-date=10 October 2021}}</ref> In the [[2021 UEFA Nations League Final|final]] four days later, Spain suffered a 2–1 defeat against [[France national football team|France]].<ref>{{cite web |url=https://www.espn.co.uk/football/report?gameId=589985 |title=Spain vs. France {{!}} Football Match Report|publisher=[[ESPN]]|date=10 October 2021 |access-date=10 October 2021}}</ref> With two goals, he was the joint–top scorer of the Nations League Finals, along with France's [[Karim Benzema]] and [[Kylian Mbappé]], with the latter winning the Top Scorer Trophy due to having also provided two assists.<ref>{{cite news|title=UEFA Nations League finals top scorer: Kylian Mbappé|url=https://www.uefa.com/uefanationsleague/news/026e-137297f2e715-0d7aed764ef3-1000/|website=UEFA|date=10 October 2021|access-date=10 October 2021}}</ref>
+
+====2022 FIFA World Cup and UEFA Euro 2024====
+On 11 November 2022, Torres was selected in the Spanish squad for the [[2022 FIFA World Cup]] in Qatar and scored his first ever World Cup brace against Costa Rica in a 7-0 victory.<ref>{{Cite web|url=https://rfef.es/en/news/list-called-players-fifa-world-cup-qatar-2022 |title=List of called-up players for the FIFA World Cup Qatar 2022 |publisher=Royal Spanish Football Federation |date=11 November 2022|access-date=11 November 2022}}</ref><ref>{{Cite web |title=World Cup 2022 - Spain 7-0 Costa Rica: Ferran Torres scores twice as Luis Enrique's side make rampant start |url=https://www.skysports.com/football/news/12098/12753911/world-cup-2022-spain-7-0-costa-rica-ferran-torres-scores-twice-as-luis-enriques-side-make-rampant-start |access-date=12 December 2024 |website=Sky Sports |language=en}}</ref> In May 2024, he was named in the 26-man squad for the [[UEFA Euro 2024]].<ref>{{cite news|title=Official {{!}} Final Spain squad for the Euro 2024 finals |url=https://rfef.es/en/noticias/final-spain-squad-for-the-euro-2024-finals |publisher=Royal Spanish Football Federation |access-date=7 June 2024 }}</ref> With Spain's victory against [[England national football team|England]] in the [[UEFA Euro 2024 final|final]], Torres joined 12 other players in having won both youth and senior Euro titles, alongside his teammates [[Mikel Merino]], [[Álvaro Morata]], [[Nacho (footballer, born 1990)|Nacho]] and [[Rodri (footballer, born 1996)|Rodri]].<ref>{{Cite web|title=Junior-senior EURO double roll of honour: Rodri, Morata, Merino, Nacho, Ferran Torres join Chiellini, Iniesta, Henry |url=https://www.uefa.com/under19/news/026b-12bc7e4aa14d-013db974f3a0-1000--junior-senior-euro-double-roll-of-honour-rodri-morata-merin/ |date=14 July 2024 |access-date=15 July 2024|website=UEFA}}</ref>
+
+==Style of play==
+Regarded as a talented and highly promising young attacking winger in the media, Torres has been described as a traditional wide midfielder, due to his work-rate and penchant for running to the touchline, although he is also capable of cutting inside towards the centre of the pitch; due to his role, nationality, and playing style, Simone Lorini has likened him to [[Joaquín (footballer, born 1981)|Joaquín]]. Torres is known in particular for his pace, creativity, technique, and his close control at speed, which enables him to take on opponents and overload the flanks, while his height, athleticism, and heading ability also make him a strong aerial presence. Although he primarily plays on the right, he is capable of playing anywhere across the attacking line. In 2018, Spanish football journalist [[Guillem Balagué]] noted that Torres "is a [[Dribbling (association football)|dribbler]], fast on the wing, can play on either wing, and he has got ability and intelligence. He can also play inside if needed, so he is a modern winger." The Valencia academy director of recruitment, José Giménez, instead stated: "He's powerful, quick, steady with the ball at his feet and strong in the air. He's unpredictable. When he's running with the ball at his feet he can go on inside or outside his man because he is two-footed. He can [[Cross (football)|cross]], finish and shoot the football". He has been often used as a [[Substitute (association football)|super substitute]] since joining Barcelona.<ref>{{cite news |url=https://www.gazzetta.it/Calcio/Serie-A/Juventus/06-03-2020/fast-food-cani-pipistrelli-chi-ferran-torres-stellina-che-incanta-juve-3601497850921.shtml |title=Fast food, cani e pipistrelli: chi è Ferran Torres, la stellina che piace alla Juve |trans-title=Fast food, dogs and bats: who is Ferran Torres, the little star that Juve likes |newspaper=La Gazzetta dello Sport |language=it |last1=Seu |first1=Adriano |date=6 March 2020 |access-date=6 March 2020}}</ref><ref>{{cite web |url=https://www.goal.com/story/nxgn2019it/index.html |title=NxGn 2019 |website=Goal |publisher=Perform Group |language=it |access-date=6 March 2020}}</ref><ref>{{cite web |url=https://www.tuttomercatoweb.com/il-talento-del-giorno/un-talento-al-giorno-ferran-torres-l-ennesima-ala-di-origine-iberica-1101147 |title=Un talento al giorno, Ferran Torres: l'ennesima ala di origine iberica |trans-title=A talent a day, Ferran Torres: the umpteenth winger of Iberian heritage |website=TUTTOmercatoWEB.com |language=it |last1=Lorini |first1=Simone |date=18 April 2018 |access-date=6 March 2020}}</ref><ref>{{cite web |url=https://www.liverpoolfc.com/news/media-watch/296323-klopp-eyeing-valencia-ace |title=Klopp eyeing Valencia ace |publisher=Liverpool F.C. |date=3 April 2018 |access-date=6 March 2020}}</ref><ref>{{cite web |url=https://www.uefa.com/uefaeuropaleague/news/0251-0e99a363fe06-91ebeb478dad-1000--scout-report-valencia-winger-ferran-torres/ |title=Scout report: Valencia winger Ferrán Torres |publisher=UEFA |date=1 May 2019 |access-date=6 March 2020}}</ref>
+
+==Personal life==
+Between 2021 and 2023, Torres was in a relationship with Sira Martínez, daughter of football manager and former player [[Luis Enrique]].<ref>{{cite web |url=https://www.si.com/fannation/soccer/futbol/news/ferran-torres-dedicates-spain-goal-to-girlfriend-sira-martinez/ |title=Torres scores twice in front of girlfriend Sira Martinez |date=23 November 2022|access-date=5 December 2022}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 23 May 2026}}
+
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup{{efn|Includes [[Copa del Rey]], [[FA Cup]]}}
+!colspan="2"|League cup{{efn|Includes [[EFL Cup]]}}
+!colspan="2"|Europe
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="3"|[[Valencia CF Mestalla|Valencia Mestalla]]
+|[[2016–17 Segunda División B|2016–17]]<ref>{{cite web |url=https://www.bdfutbol.com/en/p/j23403.html?temp=2016-17 |title=Ferran Torres: Matches: 2016–17 |website=BDFutbol |access-date=20 February 2021}}</ref>
+|[[Segunda División B]]
+|2||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||2||0
+|-
+|[[2017–18 Segunda División B|2017–18]]<ref name="bd1718"/>
+|Segunda División B
+|10||1||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||10||1
+|-
+!colspan="2"|Total
+!12||1||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||12||1
+|-
+|rowspan="4"|[[Valencia CF|Valencia]]
+|[[2017–18 Valencia CF season|2017–18]]<ref name="bd1718">{{cite web |url=https://www.bdfutbol.com/en/p/j23403.html?temp=2017-18 |title=Ferran Torres: Matches: 2017–18 |website=BDFutbol |access-date=20 February 2021}}</ref>
+|[[La Liga]]
+|13||0||3||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||16||0
+|-
+|[[2018–19 Valencia CF season|2018–19]]<ref>{{cite web |url=https://www.bdfutbol.com/en/p/j23403.html?temp=2018-19 |title=Ferran Torres: Matches: 2018–19 |website=BDFutbol |access-date=20 February 2021}}</ref>
+|La Liga
+|24||2||6||1||colspan=2"|—||7{{efn|Three appearances in [[UEFA Champions League]], four appearances in [[UEFA Europa League]]}}||0||colspan="2"|—||37||3
+|-
+|[[2019–20 Valencia CF season|2019–20]]<ref>{{cite web |url=https://www.bdfutbol.com/en/p/j23403.html?temp=2019-20 |title=Ferran Torres: Matches: 2019–20 |website=BDFutbol |access-date=20 February 2021}}</ref>
+|La Liga
+|34||4||3||0||colspan="2"|—||6{{efn|name=UCL|Appearance(s) in UEFA Champions League}}||2||1{{efn|name=SDE|Appearance(s) in [[Supercopa de España]]}}||0|||44||6
+|-
+!colspan="2"|Total
+!71||6||12||1||colspan="2"|—||13||2||1||0||97||9
+|-
+|rowspan="3"|[[Manchester City F.C.|Manchester City]]
+|[[2020–21 Manchester City F.C. season|2020–21]]<ref>{{soccerbase season|109315|2020|access-date=1 October 2021}}</ref>
+|[[Premier League]]
+|24||7||3||1||3||1||6{{efn|name=UCL}}||4||colspan="2"|—||36||13
+|-
+|[[2021–22 Manchester City F.C. season|2021–22]]<ref name=sb2122>{{soccerbase season|109315|2021|access-date=20 February 2022}}</ref>
+|Premier League
+|4||2||colspan="2"|—||1||1||1{{efn|name=UCL}}||0||1{{efn|Appearance in [[FA Community Shield]]}}||0||7||3
+|-
+!colspan="2"|Total
+!28||9||3||1||4||2||7||4||1||0||43||16
+|-
+|rowspan="6"|[[FC Barcelona|Barcelona]]
+|[[2021–22 FC Barcelona season|2021–22]]<ref name=sb2122/>
+|La Liga
+|18||4||1||1||colspan="2"|—||6{{efn|Appearances in UEFA Europa League}}||2||1{{efn|name=SDE}}||0||26||7
+|-
+|[[2022–23 FC Barcelona season|2022–23]]<ref>{{soccerbase season|109315|2022|access-date=20 February 2024}}</ref>
+|La Liga
+|33||4||4||0||colspan="2"|—||7{{efn|Five appearances and three goals in UEFA Champions League, two appearances in UEFA Europa League}}||3||1{{efn|name=SDE}}||0||45||7
+|-
+|[[2023–24 FC Barcelona season|2023–24]]<ref>{{soccerbase season|109315|2023|access-date=20 February 2024}}</ref>
+|La Liga
+|29||7||3||1||colspan="2"|—||8{{efn|name=UCL}}||3||2{{efn|name=SDE}}||0||42||11
+|-
+|[[2024–25 FC Barcelona season|2024–25]]<ref>{{soccerbase season|109315|2024|access-date=20 February 2024}}</ref>
+|La Liga
+|27||10||5||6||colspan="2"|—||11{{efn|name=UCL}}||3||2{{efn|name=SDE}}||0||45||19
+|-
+|[[2025–26 FC Barcelona season|2025–26]]<ref>{{soccerbase season|109315|2025|access-date=16 August 2025}}</ref>
+|La Liga
+|33||16||4||1||colspan="2"|—||10{{efn|name=UCL}}||3||2{{efn|name=SDE}}||1||49||21
+|-
+!colspan="2"|Total
+!140||41||17||9||colspan="2"|—||42||14||8||1||207||65
+|-
+!colspan="3"|Career total
+!251||57||32||11||4||2||62||20||10||1||359||91
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 4 June 2026}}<ref name="NFT">{{NFT player |id=79218 |name=Ferran Torres |access-date=9 January 2023}}</ref>
+
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="7"|[[Spain national football team|Spain]]
+|2020||7||4
+|-
+|2021||15||8
+|-
+|2022||13||3
+|-
+|2023||5||3
+|-
+|2024||8||3
+|-
+|2025||5||2
+|-
+|2026||3||1
+|-
+!colspan="2"|Total||56||24
+|}
+
+{{updated|match played 4 June 2026}}
+:''Spain score listed first, score column indicates score after each Torres goal.''<ref name="NFT"/>
+
+{| class="wikitable sortable"
+|+ List of international goals scored by Ferran Torres
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Cap
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+!scope="col" class="unsortable"|{{abbr|Ref.|Reference}}
+|-
+|style="text-align: center;"|1||6 September 2020||[[Alfredo Di Stéfano Stadium|Alfredo Di Stéfano]], Madrid, Spain||style="text-align: center;"|2||{{fb|UKR}}||style="text-align: center;"|4–0||style="text-align: center;"|4–0||[[2020–21 UEFA Nations League A]]||style="text-align: center;"|<ref>{{cite web |url=https://uk.soccerway.com/matches/2020/09/06/europe/uefa-nations-league/spain/ukraine/3243401/ |title=Spain vs. Ukraine 4–0: Summary |website=Soccerway |publisher=Perform Group |access-date=9 January 2023}}</ref>
+|-
+|style="text-align: center;"|2||rowspan="3"|17 November 2020||rowspan="3"|[[Estadio de La Cartuja|La Cartuja]], Seville, Spain||rowspan="3" style="text-align: center;"|7|| rowspan="3"|{{fb|GER}}||style="text-align: center;"|2–0||rowspan="3" style="text-align: center;"|6–0||rowspan="3"|[[2020–21 UEFA Nations League A]]||rowspan="3" align="center"|<ref>{{cite web |url=https://uk.soccerway.com/matches/2020/11/17/europe/uefa-nations-league/spain/germany/3243409/ |title=Spain vs. Germany 6–0: Summary |website=Soccerway |publisher=Perform Group |access-date=9 January 2023}}</ref>
+|-
+|style="text-align: center;"|3||style="text-align: center;"|4–0
+|-
+|style="text-align: center;"|4||style="text-align: center;"|5–0
+|-
+|style="text-align: center;"|5||28 March 2021||[[Boris Paichadze Dinamo Arena]], Tbilisi, Georgia||style="text-align: center;"|9||{{fb|GEO}}||style="text-align: center;"|1–1||style="text-align: center;"|2–1||[[2022 FIFA World Cup qualification]]||style="text-align: center;"|<ref>{{cite web |url=https://uk.soccerway.com/matches/2021/03/28/europe/wc-qualifying-europe/georgia/spain/3430038/ |title=Georgia vs. Spain 1–2: Summary |website=Soccerway |publisher=Perform Group |access-date=9 January 2023}}</ref>
+|-
+|style="text-align: center;"|6||31 March 2021||[[Estadio de La Cartuja|La Cartuja]], Seville, Spain||style="text-align: center;"|10||{{fb|KOS}}||style="text-align: center;"|2–0||style="text-align: center;"|3–1||[[2022 FIFA World Cup qualification]]||style="text-align: center;"|<ref>{{cite web |url=https://uk.soccerway.com/matches/2021/03/31/europe/wc-qualifying-europe/spain/kosovo/3430041/ |title=Spain vs. Kosovo 3–1: Summary |website=Soccerway |publisher=Perform Group |access-date=9 January 2023}}</ref>
+|-
+|style="text-align: center;"|7||23 June 2021||[[Estadio de La Cartuja|La Cartuja]], Seville, Spain||style="text-align: center;"|14||{{fb|SVK}}||style="text-align: center;"|4–0||style="text-align: center;"|5–0||[[UEFA Euro 2020]]||style="text-align: center;"|<ref>{{cite web |url=https://uk.soccerway.com/matches/2021/06/23/europe/european-championships/slovakia/spain/3188306/ |title=Slovakia vs. Spain 0–5: Summary |website=Soccerway |publisher=Perform Group |access-date=9 January 2023}}</ref>
+|-
+|style="text-align: center;"|8||28 June 2021||[[Parken Stadium]], Copenhagen, Denmark||style="text-align: center;"|15||{{fb|CRO}}||style="text-align: center;"|3–1||style="text-align: center;"|5–3 {{aet}}||[[UEFA Euro 2020]]||style="text-align: center;"|<ref>{{cite web |url=https://uk.soccerway.com/matches/2021/06/28/europe/european-championships/croatia/spain/3188321/ |title=Croatia vs. Spain 3–5: Summary |website=Soccerway |publisher=Perform Group |access-date=9 January 2023}}</ref>
+|-
+|style="text-align: center;"|9||5 September 2021||[[Estadio Nuevo Vivero|Nuevo Vivero]], Badajoz, Spain||style="text-align: center;"|19||{{fb|GEO}}||style="text-align: center;"|3–0||style="text-align: center;"|4–0||[[2022 FIFA World Cup qualification]]||style="text-align: center;"|<ref>{{cite web |url=https://uk.soccerway.com/matches/2021/09/05/europe/wc-qualifying-europe/spain/georgia/3430045/ |title=Spain vs. Georgia 4–0: Summary |website=Soccerway |publisher=Perform Group |access-date=9 January 2023}}</ref>
+|-
+|style="text-align: center;"|10||8 September 2021||[[Fadil Vokrri Stadium]], Pristina, Kosovo||style="text-align: center;"|20||{{fb|KOS}}||style="text-align: center;"|2–0||style="text-align: center;"|2–0||[[2022 FIFA World Cup qualification]]||style="text-align: center;"|<ref>{{cite web |url=https://uk.soccerway.com/matches/2021/09/08/europe/wc-qualifying-europe/kosovo/spain/3430047/ |title=Kosovo vs. Spain 0–2: Summary |website=Soccerway |publisher=Perform Group |access-date=9 January 2023}}</ref>
+|-
+|style="text-align: center;"|11||rowspan="2"|6 October 2021||rowspan="2"|[[San Siro]], Milan, Italy||rowspan="2" style="text-align: center;"|21||rowspan="2"|{{fb|ITA}}||style="text-align: center;"|1–0||rowspan="2" style="text-align: center;"|2–1||rowspan="2"|[[2021 UEFA Nations League Finals]]||rowspan="2" style="text-align: center;"|<ref>{{cite web |url=https://uk.soccerway.com/matches/2021/10/06/europe/uefa-nations-league/italy/spain/3427649/ |title=Italy vs. Spain 1–2: Summary |website=Soccerway |publisher=Perform Group |access-date=9 January 2023}}</ref>
+|-
+|style="text-align: center;"|12||style="text-align: center;"|2–0
+|-
+|style="text-align: center;"|13||26 March 2022||[[RCDE Stadium]], Cornellà de Llobregat, Spain||style="text-align: center;"|23||{{fb|ALB}}||style="text-align: center;"|1–0||style="text-align: center;"|2–1||[[Friendly (association football)|Friendly]]||style="text-align: center;"|<ref>{{cite web |url=https://uk.soccerway.com/matches/2022/03/26/world/friendlies/spain/albania/3719615/ |title=Spain vs. Albania 2–1: Summary |website=Soccerway |publisher=Perform Group |access-date=9 January 2023}}</ref>
+|-
+|style="text-align: center;"|14||rowspan="2"|23 November 2022||rowspan="2"|[[Al Thumama Stadium]], Doha, Qatar||rowspan="2" style="text-align: center;"|32||rowspan="2"|{{fb|CRC}}||style="text-align: center;"|3–0||rowspan="2" style="text-align: center;"|7–0||rowspan="2"|[[2022 FIFA World Cup]]||rowspan="2" style="text-align: center;"|<ref>{{cite web |url=https://uk.soccerway.com/matches/2022/11/23/world/world-cup/spain/costa-rica/3749525/ |title=Spain vs. Costa Rica 7–0: Summary |website=Soccerway |publisher=Perform Group |access-date=9 January 2023}}</ref>
+|-
+|style="text-align: center;"|15||style="text-align: center;"|4–0
+|-
+|style="text-align: center;"|16||rowspan="2"|12 September 2023||rowspan="2"|[[Nuevo Estadio de Los Cármenes|Nuevo Los Cármenes]], Granada, Spain||rowspan="2" style="text-align: center;"|36||rowspan="2"|{{fb|CYP}}||style="text-align: center;"|4–0||rowspan="2" style="text-align: center;"|6–0||rowspan="2"|[[UEFA Euro 2024 qualifying Group A|UEFA Euro 2024 qualifying]]||rowspan="2" style="text-align: center;"|<ref>{{cite web |url=https://uk.soccerway.com/matches/2023/09/12/europe/european-championship-qualification/spain/cyprus/3972568/ |title=Spain vs. Cyprus 6–0: Summary |website=Soccerway |publisher=Perform Group |access-date=12 September 2023}}</ref>
+|-
+|style="text-align: center;"|17||style="text-align: center;"|6–0
+|-
+|style="text-align: center;"|18||19 November 2023||[[Estadio José Zorrilla|José Zorrilla]], Valladolid, Spain||align=center |40||{{fb|GEO}}||align=center|2–1||align=center|3–1||[[UEFA Euro 2024 qualifying Group A|UEFA Euro 2024 qualifying]]||style="text-align: center;"|<ref>{{cite web |url=https://uk.soccerway.com/matches/2023/11/19/europe/european-championship-qualification/spain/georgia/3972575/ |title=Spain vs. Georgia 3–1: Summary |website=Soccerway |publisher=Perform Group |access-date=19 November 2023}}</ref>
+|-
+|style="text-align: center;"|19||5 June 2024||[[Estadio Nuevo Vivero|Nuevo Vivero]], Badajoz, Spain||style="text-align: center;"|41||{{fb|AND}}||style="text-align: center;"|5–0||style="text-align: center;"|5–0||[[Friendly (association football)|Friendly]]||style="text-align: center;"|<ref>{{cite web |url=https://uk.soccerway.com/matches/2024/06/05/world/friendlies/spain/andorra/4332245/ |title=Spain vs. Andorra 5–0: Summary |website=Soccerway |publisher=Perform Group |access-date=5 June 2024}}</ref>
+|-
+|style="text-align: center;"|20||24 June 2024||[[Merkur Spiel-Arena]], Düsseldorf, Germany||style="text-align: center;"|44||{{fb|ALB}}||style="text-align: center;"|1–0||style="text-align: center;"|1–0||[[UEFA Euro 2024]]||style="text-align: center;"|<ref>{{cite web |url=https://uk.soccerway.com/matches/2024/06/24/europe/european-championships/albania/spain/4268070/ |title=Albania vs. Spain 0–1: Summary |website=Soccerway |publisher=Perform Group |access-date=24 June 2024}}</ref>
+|-
+|style="text-align: center;"|21||8 September 2024||[[Stade de Genève]], Geneva, Switzerland||style="text-align: center;"|48||{{fb|SUI}}||style="text-align: center;"|4–1||style="text-align: center;"|4–1||[[2024–25 UEFA Nations League A]]||style="text-align: center;"|<ref>{{cite web |url=https://uk.soccerway.com/matches/2024/09/08/europe/uefa-nations-league/switzerland/spain/4319364/|title=Switzerland vs. Spain 1–4: Summary |website=Soccerway |publisher=Perform Group |access-date=8 September 2024}}</ref>
+|-
+|style="text-align: center;"|22||7 September 2025||[[Konya Metropolitan Municipality Stadium]], Konya, Turkey||style="text-align: center;"|50||{{fb|TUR}}||style="text-align: center;"|4–0||style="text-align: center;"|6–0||[[2026 FIFA World Cup qualification]]||style="text-align: center;"|<ref>{{cite web |url=https://int.soccerway.com/matches/2025/09/07/europe/wc-qualifying-europe/t-rkiye/spain/4571544/ |title=Türkiye vs. Spain 0–6: Summary |website=Soccerway |publisher=Perform Group |access-date=7 September 2025}}</ref>
+|-
+|style="text-align: center;"|23||15 November 2025||[[Boris Paichadze Dinamo Arena]], Tbilisi, Georgia||style="text-align: center;"|52||{{fb|GEO}}||style="text-align: center;"|3–0||style="text-align: center;"|4–0||[[2026 FIFA World Cup qualification]]||style="text-align: center;"|<ref>{{cite web |url=https://www.soccerway.com/match/georgia-YVovjspA/spain-bLyo6mco/?mid=hQHtm5Ub |title=Georgia vs. Spain 0–4: Summary |website=Soccerway |publisher=Perform Group |access-date=15 November 2025}}</ref>
+|-
+|style="text-align: center;"|24||4 June 2026||[[Estadio Riazor]], A Coruña, Spain||style="text-align: center;"|56||{{fb|IRQ}}||style="text-align: center;"|1–0||style="text-align: center;"|1–1||[[Friendly (association football)|Friendly]]||style="text-align: center;"|
+|}
+
+==Honours==
+[[File:2025 04 26 Final de la Copa del Rey (Ferrán Torres).jpg|thumb|upright|Torres celebration after winning the [[2025 Copa del Rey final]] with [[FC Barcelona|Barcelona]]]]
+
+'''Valencia'''
+*[[Copa del Rey]]: [[2018–19 Copa del Rey|2018–19]]<ref>{{cite web |url=http://actas.rfef.es/actas/RFEF_CmpActa1?cod_primaria=1000144&CodActa=57457 |title=Acta del Partido celebrado el 25 de mayo de 2019, en Sevilla |trans-title=Minutes of the Match held on 25 May 2019, in Seville |publisher=Royal Spanish Football Federation |access-date=20 February 2021 |language=es |archive-date=15 June 2020 |archive-url=https://web.archive.org/web/20200615013206/http://actas.rfef.es/actas/RFEF_CmpActa1?cod_primaria=1000144&CodActa=57457 |url-status=dead }}</ref>
+
+'''Manchester City'''
+*[[Premier League]]: [[2020–21 Premier League|2020–21]]<ref name="PremProfile">{{cite web |url=https://www.premierleague.com/players/43098/Ferran-Torres/overview |title=Ferran Torres: Overview |publisher=Premier League |access-date=28 May 2021}}</ref>
+*[[EFL Cup]]: [[2020–21 EFL Cup|2020–21]]<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/56790307 |title=Manchester City 1–0 Tottenham Hotspur |first=Phil |last=McNulty |website=BBC Sport |date=25 April 2021 |access-date=9 January 2022}}</ref>
+*[[UEFA Champions League]] runner-up: [[2020–21 UEFA Champions League|2020–21]]<ref>{{cite web |url=https://www.uefa.com/uefachampionsleague/match/2029498--man-city-vs-chelsea/ |title=Man. City 0–1 Chelsea: Updates |publisher=UEFA |access-date=31 May 2021}}</ref>
+
+'''Barcelona'''
+*[[La Liga]]: [[2022–23 La Liga|2022–23]],<ref>{{cite news |url=https://www.fcbarcelona.com/en/football/first-team/news/3344756/fc-barcelona-liga-champions-202223 |title=FC Barcelona, Liga champions 2022/23! |website=FC Barcelona |date=14 May 2023}}</ref> [[2024–25 La Liga|2024–25]],<ref>{{Cite web |date=15 May 2025 |title=Barcelona Win La Liga, Complete 2024-25 Domestic Treble |url=https://www.si.com/soccer/barcelona-win-la-liga-complete-2024-25-domestic-treble |access-date=16 May 2025 |website=SI |language=en-US}}</ref> [[2025–26 La Liga|2025–26]]<ref>{{Cite web |date=10 May 2026 |title=Barcelona Clinch 29th La Liga Title in Dominant El Clasico |url=https://www.si.com/soccer/barcelona-clinch-29th-la-liga-title-el-clasico |access-date=10 May 2026|website=SI |language=en-US}}</ref>
+*[[Copa del Rey]]: [[2024–25 Copa del Rey|2024–25]]<ref>{{Cite web |date=26 April 2025 |title=FC Barcelona crowned Cup Kings in classic encounter |url=https://rfef.es/en/noticias/match-report-fc-barcelona-crowned-cup-kings-in-classic-encounter |access-date=26 April 2025 |website= |publisher=[[Real Federación Española de Fútbol]] |language=en}}</ref>
+*[[Supercopa de España]]: [[2023 Supercopa de España|2023]],<ref>{{Cite web |last=Baynes |first=Ciaran |date=15 January 2023 |title=Real Madrid 1-3 Barcelona: Gavi stars as Barca dominate to win Spanish Super Cup |url=https://www.eurosport.com/football/spanish-supercopa/2022-2023/spanish-super-cup-final-live-real-madrid-v-barcelona_sto9316880/story.shtml |access-date=16 January 2023 |website=Euro Sport}}</ref> [[2025 Supercopa de España|2025]],<ref>{{Cite web |date=13 January 2025 |title=FC Barcelona win the Super Cup in a final for the history books (2-5) |url=https://rfef.es/en/noticias/match-report-fc-barcelona-win-the-super-cup-in-a-final-for-the-history-books-2-5 |access-date=13 January 2025 |website= |publisher=[[Real Federación Española de Fútbol]] |language=en}}</ref> [[2026 Supercopa de España|2026]]<ref>{{cite web |first= |last= |title=Barcelona vs Real Madrid Highlights, El Clasico Supercopa Final: Barcelona Beat Real Madrid 3-2 In Thriller, Clinch 1st Trophy Of Season| url=https://sports.ndtv.com/football/barcelona-vs-real-madrid-live-updates-supercopa-de-espana-final-live-score-super-cup-live-streaming-mbappe-vinicius-raphinha-lamine-yamal-10688288| access-date=12 January 2026|website=NDTV}}</ref>
+
+'''Spain U17'''
+*[[UEFA European Under-17 Championship]]: [[2017 UEFA European Under-17 Championship|2017]]<ref name="hopes"/>
+*[[FIFA U-17 World Cup]] runner-up: [[2017 FIFA U-17 World Cup|2017]]<ref>{{Cite web |url=https://www.goal.com/en-us/news/u-17-world-cup-2017-group-d-squad-of-brazil-spain-dpr-korea/r6p9f9862wgx16c03sqtscnb3 |title=U-17 World Cup 2017 Group D: Squads of Brazil, Spain, DPR Korea and Niger &#124; Goal.com |website=Goal.com |publisher=Perform Group}}</ref>
+
+'''Spain U19'''
+*[[UEFA European Under-19 Championship]]: [[2019 UEFA European Under-19 Championship|2019]]<ref name="golden boy">{{cite news |date=28 July 2019 |title=Ferran Torres: Valencia's new golden boy |url=https://www.marca.com/en/football/spanish-football/2019/07/28/5d3d78c122601d26238b456d.html |access-date=31 July 2019 |newspaper=[[Marca (newspaper)|Marca]] |location=Madrid}}</ref>
+
+'''Spain'''
+*[[UEFA European Championship]]: [[UEFA Euro 2024|2024]]<ref>{{Cite web |last=UEFA.com |title=Spain 2-1 England |url=https://www.uefa.com/uefaeuro/match/2036211--spain-vs-england/ |access-date=14 July 2024 |website=[[UEFA]] |language=en}}</ref>
+*[[UEFA Nations League]] runner-up: [[2020–21 UEFA Nations League|2020–21]]<ref>{{cite web |date=10 October 2021 |title=France beat Spain to win Nations League |url=https://www.uefa.com/uefanationsleague/match/2030761--spain-vs-france/|access-date=10 October 2021 |publisher=UEFA}}</ref>
+
+'''Individual'''
+*UEFA European Under-19 Championship Team of the Tournament: [[2019 UEFA European Under-19 Championship#Team of the Tournament|2019]]<ref>{{cite web |url=https://www.uefa.com/under19/news/0257-0dee7760e7c2-87b8e8ee3fc9-1000--2019-u19-euro-team-of-the-tournament/ |title=2019 U19 EURO team of the tournament |publisher=UEFA |date=30 July 2019}}</ref>
+*[[Manchester City F.C.|Manchester City]] Goal of the Season: [[2020–21 Manchester City F.C. season|2020–21]]<ref>{{cite web |url=https://www.mancity.com/citytv/mens/ferran-torres-goal-of-the-season-63757450 |title=Torres wins Nissan Goal of the Season with spectacular Newcastle strike |publisher=Manchester City F.C. |date=24 May 2021 |access-date=27 May 2021}}</ref>
+*[[UEFA Nations League]] top scorer: [[2020–21 UEFA Nations League|2020–21]]<ref>{{cite web |title=UEFA Nations League Top Scorers |url=https://www.bbc.co.uk/sport/football/nations-league/top-scorers|access-date=11 October 2021 |website=BBC Sport}}</ref>
+*[[UEFA Nations League Finals]] Silver Boot: [[2021 UEFA Nations League Finals#Awards|2021]]<ref name="2021 Nations League Top Scorer">{{cite news |date=10 October 2021 |title=UEFA Nations League finals top scorer: Kylian Mbappé |publisher=UEFA |url=https://www.uefa.com/uefanationsleague/news/026e-137297f2e715-0d7aed764ef3-1000/|access-date=10 October 2021}}</ref>
+*[[La Liga Goal of the Month#La Liga Play of the Month|La Liga Play of the Month]]: [[2023–24 La Liga#Monthly awards|January 2024]] (with [[João Félix]])<ref>{{cite news|url=https://www.laliga.com/en-GB/news/ferran-torres-and-joao-felix-win-the-laliga-ea-sports-best-play-for-january|title= NFerran Torres and João Felix win the LALIGA EA SPORTS Best Play for January|publisher=La Liga|date=1 February 2024|access-date=1 February 2024}}</ref>
+*[[Copa del Rey]] top scorer: [[2024–25 Copa del Rey|2024–25]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*{{Official website}}
+*[https://www.fcbarcelona.com/en/football/first-team/players/43098/ferran-torres Profile] at the FC Barcelona website
+*{{UEFA player}}
+*{{Soccerway|new_id=torres-ferran/AVAVLaLt}}
+
+{{FC Barcelona squad}}
+{{Navboxes
+| title = Spain squads
+| bg = #C60B1E
+| fg = #FBEA0E
+| bordercolor = #000033
+| list1 = 
+{{Spain squad UEFA Euro 2020}}
+{{Spain squad 2022 FIFA World Cup}}
+{{Spain squad UEFA Euro 2024}}
+{{Spain squad 2026 FIFA World Cup}}
+}}
+{{Navboxes
+| title = Awards
+| bg = gold
+| fg = navy
+| list1 =
+{{Copa del Rey top scorers}}
+{{UEFA Nations League top scorers}}
+}}
+
+{{DEFAULTSORT:Torres, Ferran}}
+[[Category:2000 births]]
+[[Category:Living people]]
+[[Category:People from Horta Nord]]
+[[Category:Footballers from the Province of Valencia]]
+[[Category:Spanish men's footballers]]
+[[Category:Men's association football wingers]]
+[[Category:Valencia CF Mestalla footballers]]
+[[Category:Valencia CF players]]
+[[Category:Manchester City F.C. players]]
+[[Category:FC Barcelona players]]
+[[Category:Segunda División B players]]
+[[Category:La Liga players]]
+[[Category:Premier League players]]
+[[Category:Spain men's youth international footballers]]
+[[Category:Spain men's under-21 international footballers]]
+[[Category:Spain men's international footballers]]
+[[Category:UEFA Euro 2020 players]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:UEFA Euro 2024 players]]
+[[Category:2026 FIFA World Cup players]]
+[[Category:Spanish expatriate men's footballers]]
+[[Category:Expatriate men's footballers in England]]
+[[Category:Spanish expatriate sportspeople in England]]
+[[Category:UEFA European Championship–winning players]]
+[[Category:21st-century Spanish sportsmen]]
+[[Category:Footballers from Valencia]]

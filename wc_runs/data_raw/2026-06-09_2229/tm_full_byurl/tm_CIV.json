@@ -1,0 +1,1021 @@
+[
+ {
+  "player_id": "827734",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/827734",
+  "name": "Ange-YoanBonny",
+  "shirt_number": 14,
+  "club": "Joined:",
+  "club_id": "46",
+  "market_value": "€35.00m",
+  "market_value_numeric": 35000000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Social-Media:",
+  "nationality": "Italy",
+  "citizenships": [
+   "Italy",
+   "France",
+   "Cote d'Ivoire",
+   "Cote d'Ivoire",
+   "France",
+   "Cote d'Ivoire",
+   "France"
+  ],
+  "market_value_history": [
+   {
+    "date": "Dec 29, 2021",
+    "value": "€150k",
+    "value_numeric": 150000,
+    "club": "Parma Calcio 1913",
+    "age": "18"
+   },
+   {
+    "date": "Mar 15, 2022",
+    "value": "€400k",
+    "value_numeric": 400000,
+    "club": "Parma Calcio 1913",
+    "age": "18"
+   },
+   {
+    "date": "Jun 6, 2022",
+    "value": "€400k",
+    "value_numeric": 400000,
+    "club": "Parma Calcio 1913",
+    "age": "18"
+   },
+   {
+    "date": "Dec 22, 2022",
+    "value": "€750k",
+    "value_numeric": 750000,
+    "club": "Parma Calcio 1913",
+    "age": "19"
+   },
+   {
+    "date": "Jun 12, 2023",
+    "value": "€900k",
+    "value_numeric": 900000,
+    "club": "Parma Calcio 1913",
+    "age": "19"
+   },
+   {
+    "date": "Oct 11, 2023",
+    "value": "€3.50m",
+    "value_numeric": 3500000,
+    "club": "Parma Calcio 1913",
+    "age": "19"
+   },
+   {
+    "date": "Dec 27, 2023",
+    "value": "€6.00m",
+    "value_numeric": 6000000,
+    "club": "Parma Calcio 1913",
+    "age": "20"
+   },
+   {
+    "date": "Jun 3, 2024",
+    "value": "€8.00m",
+    "value_numeric": 8000000,
+    "club": "Parma Calcio 1913",
+    "age": "20"
+   },
+   {
+    "date": "Oct 18, 2024",
+    "value": "€15.00m",
+    "value_numeric": 15000000,
+    "club": "Parma Calcio 1913",
+    "age": "20"
+   },
+   {
+    "date": "Dec 18, 2024",
+    "value": "€20.00m",
+    "value_numeric": 20000000,
+    "club": "Parma Calcio 1913",
+    "age": "21"
+   },
+   {
+    "date": "Jun 17, 2025",
+    "value": "€20.00m",
+    "value_numeric": 20000000,
+    "club": "Parma Calcio 1913",
+    "age": "21"
+   },
+   {
+    "date": "Oct 7, 2025",
+    "value": "€23.00m",
+    "value_numeric": 23000000,
+    "club": "Inter Milan",
+    "age": "21"
+   },
+   {
+    "date": "Dec 23, 2025",
+    "value": "€35.00m",
+    "value_numeric": 35000000,
+    "club": "Inter Milan",
+    "age": "22"
+   },
+   {
+    "date": "May 29, 2026",
+    "value": "€35.00m",
+    "value_numeric": 35000000,
+    "club": "Inter Milan",
+    "age": "22"
+   }
+  ],
+  "peak_market_value": 35000000,
+  "transfers": [],
+  "_our_pid": "per_ange_yoan_bonny"
+ },
+ {
+  "player_id": "683895",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/683895",
+  "name": "EmmanuelAgbadou",
+  "shirt_number": 12,
+  "club": "Joined:",
+  "club_id": "114",
+  "market_value": "€16.00m",
+  "market_value_numeric": 16000000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Social-Media:",
+  "nationality": "Türkiye",
+  "citizenships": [
+   "Türkiye",
+   "Cote d'Ivoire",
+   "Cote d'Ivoire",
+   "Cote d'Ivoire",
+   "Cote d'Ivoire",
+   "Cote d'Ivoire"
+  ],
+  "market_value_history": [
+   {
+    "date": "Jan 7, 2020",
+    "value": "€400k",
+    "value_numeric": 400000,
+    "club": "US Monastir",
+    "age": "22"
+   },
+   {
+    "date": "Apr 8, 2020",
+    "value": "€325k",
+    "value_numeric": 325000,
+    "club": "US Monastir",
+    "age": "22"
+   },
+   {
+    "date": "Oct 16, 2020",
+    "value": "€350k",
+    "value_numeric": 350000,
+    "club": "KAS Eupen",
+    "age": "23"
+   },
+   {
+    "date": "Jan 4, 2021",
+    "value": "€650k",
+    "value_numeric": 650000,
+    "club": "KAS Eupen",
+    "age": "23"
+   },
+   {
+    "date": "Mar 17, 2021",
+    "value": "€800k",
+    "value_numeric": 800000,
+    "club": "KAS Eupen",
+    "age": "23"
+   },
+   {
+    "date": "Jun 7, 2021",
+    "value": "€1.20m",
+    "value_numeric": 1200000,
+    "club": "KAS Eupen",
+    "age": "23"
+   },
+   {
+    "date": "Oct 6, 2021",
+    "value": "€2.20m",
+    "value_numeric": 2200000,
+    "club": "KAS Eupen",
+    "age": "24"
+   },
+   {
+    "date": "Jan 6, 2022",
+    "value": "€3.00m",
+    "value_numeric": 3000000,
+    "club": "KAS Eupen",
+    "age": "24"
+   },
+   {
+    "date": "Apr 12, 2022",
+    "value": "€2.50m",
+    "value_numeric": 2500000,
+    "club": "KAS Eupen",
+    "age": "24"
+   },
+   {
+    "date": "Nov 2, 2022",
+    "value": "€3.00m",
+    "value_numeric": 3000000,
+    "club": "Stade Reims",
+    "age": "25"
+   },
+   {
+    "date": "Mar 27, 2023",
+    "value": "€6.00m",
+    "value_numeric": 6000000,
+    "club": "Stade Reims",
+    "age": "25"
+   },
+   {
+    "date": "Jun 27, 2023",
+    "value": "€7.50m",
+    "value_numeric": 7500000,
+    "club": "Stade Reims",
+    "age": "26"
+   },
+   {
+    "date": "Dec 18, 2023",
+    "value": "€8.00m",
+    "value_numeric": 8000000,
+    "club": "Stade Reims",
+    "age": "26"
+   },
+   {
+    "date": "Mar 19, 2024",
+    "value": "€9.00m",
+    "value_numeric": 9000000,
+    "club": "Stade Reims",
+    "age": "26"
+   },
+   {
+    "date": "Jun 3, 2024",
+    "value": "€9.00m",
+    "value_numeric": 9000000,
+    "club": "Stade Reims",
+    "age": "26"
+   },
+   {
+    "date": "Dec 10, 2024",
+    "value": "€10.00m",
+    "value_numeric": 10000000,
+    "club": "Stade Reims",
+    "age": "27"
+   },
+   {
+    "date": "Mar 18, 2025",
+    "value": "€17.00m",
+    "value_numeric": 17000000,
+    "club": "Wolverhampton Wanderers",
+    "age": "27"
+   },
+   {
+    "date": "May 30, 2025",
+    "value": "€20.00m",
+    "value_numeric": 20000000,
+    "club": "Wolverhampton Wanderers",
+    "age": "27"
+   },
+   {
+    "date": "Dec 9, 2025",
+    "value": "€18.00m",
+    "value_numeric": 18000000,
+    "club": "Wolverhampton Wanderers",
+    "age": "28"
+   },
+   {
+    "date": "May 21, 2026",
+    "value": "€16.00m",
+    "value_numeric": 16000000,
+    "club": "Besiktas JK",
+    "age": "28"
+   }
+  ],
+  "peak_market_value": 20000000,
+  "transfers": [],
+  "_our_pid": "per_emmanuel_agbadou"
+ },
+ {
+  "player_id": "422850",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/422850",
+  "name": "GhislainKonan",
+  "shirt_number": 3,
+  "club": "Joined:",
+  "club_id": "2424",
+  "market_value": "€3.00m",
+  "market_value_numeric": 3000000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Jun 30, 2026",
+  "nationality": "Portugal",
+  "citizenships": [
+   "Portugal",
+   "Cote d'Ivoire",
+   "Cote d'Ivoire",
+   "Cote d'Ivoire",
+   "Cote d'Ivoire",
+   "Cote d'Ivoire"
+  ],
+  "market_value_history": [
+   {
+    "date": "Mar 14, 2016",
+    "value": "€25k",
+    "value_numeric": 25000,
+    "club": "Vitória Guimarães SC B",
+    "age": "20"
+   },
+   {
+    "date": "Sep 30, 2016",
+    "value": "€100k",
+    "value_numeric": 100000,
+    "club": "Vitória Guimarães SC B",
+    "age": "20"
+   },
+   {
+    "date": "Feb 22, 2017",
+    "value": "€500k",
+    "value_numeric": 500000,
+    "club": "Vitória Guimarães SC",
+    "age": "21"
+   },
+   {
+    "date": "Jun 26, 2017",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "Vitória Guimarães SC",
+    "age": "21"
+   },
+   {
+    "date": "Feb 7, 2018",
+    "value": "€1.25m",
+    "value_numeric": 1250000,
+    "club": "Vitória Guimarães SC",
+    "age": "22"
+   },
+   {
+    "date": "Jun 13, 2018",
+    "value": "€2.00m",
+    "value_numeric": 2000000,
+    "club": "Vitória Guimarães SC",
+    "age": "22"
+   },
+   {
+    "date": "Sep 6, 2018",
+    "value": "€4.00m",
+    "value_numeric": 4000000,
+    "club": "Stade Reims",
+    "age": "22"
+   },
+   {
+    "date": "Dec 17, 2018",
+    "value": "€5.00m",
+    "value_numeric": 5000000,
+    "club": "Stade Reims",
+    "age": "22"
+   },
+   {
+    "date": "Jun 3, 2019",
+    "value": "€5.00m",
+    "value_numeric": 5000000,
+    "club": "Stade Reims",
+    "age": "23"
+   },
+   {
+    "date": "Sep 27, 2019",
+    "value": "€4.00m",
+    "value_numeric": 4000000,
+    "club": "Stade Reims",
+    "age": "23"
+   },
+   {
+    "date": "Dec 19, 2019",
+    "value": "€7.00m",
+    "value_numeric": 7000000,
+    "club": "Stade Reims",
+    "age": "23"
+   },
+   {
+    "date": "Apr 8, 2020",
+    "value": "€5.50m",
+    "value_numeric": 5500000,
+    "club": "Stade Reims",
+    "age": "24"
+   },
+   {
+    "date": "Oct 15, 2020",
+    "value": "€6.00m",
+    "value_numeric": 6000000,
+    "club": "Stade Reims",
+    "age": "24"
+   },
+   {
+    "date": "Jun 4, 2021",
+    "value": "€6.00m",
+    "value_numeric": 6000000,
+    "club": "Stade Reims",
+    "age": "25"
+   },
+   {
+    "date": "Dec 16, 2021",
+    "value": "€6.00m",
+    "value_numeric": 6000000,
+    "club": "Stade Reims",
+    "age": "25"
+   },
+   {
+    "date": "May 30, 2022",
+    "value": "€7.00m",
+    "value_numeric": 7000000,
+    "club": "Stade Reims",
+    "age": "26"
+   },
+   {
+    "date": "Dec 2, 2022",
+    "value": "€8.00m",
+    "value_numeric": 8000000,
+    "club": "Al-Nassr FC",
+    "age": "26"
+   },
+   {
+    "date": "Jun 12, 2023",
+    "value": "€8.00m",
+    "value_numeric": 8000000,
+    "club": "Al-Nassr FC",
+    "age": "27"
+   },
+   {
+    "date": "Oct 24, 2023",
+    "value": "€6.50m",
+    "value_numeric": 6500000,
+    "club": "Al-Fayha FC",
+    "age": "27"
+   },
+   {
+    "date": "Dec 15, 2023",
+    "value": "€6.50m",
+    "value_numeric": 6500000,
+    "club": "Al-Fayha FC",
+    "age": "27"
+   },
+   {
+    "date": "Jun 4, 2024",
+    "value": "€6.00m",
+    "value_numeric": 6000000,
+    "club": "Al-Fayha FC",
+    "age": "28"
+   },
+   {
+    "date": "Oct 16, 2024",
+    "value": "€5.00m",
+    "value_numeric": 5000000,
+    "club": "Without Club",
+    "age": "28"
+   },
+   {
+    "date": "Mar 27, 2025",
+    "value": "€2.00m",
+    "value_numeric": 2000000,
+    "club": "Burgos CF",
+    "age": "29"
+   },
+   {
+    "date": "Jun 24, 2025",
+    "value": "€1.00m",
+    "value_numeric": 1000000,
+    "club": "Burgos CF",
+    "age": "29"
+   },
+   {
+    "date": "Sep 30, 2025",
+    "value": "€2.00m",
+    "value_numeric": 2000000,
+    "club": "Gil Vicente FC",
+    "age": "29"
+   },
+   {
+    "date": "Dec 18, 2025",
+    "value": "€3.00m",
+    "value_numeric": 3000000,
+    "club": "Gil Vicente FC",
+    "age": "29"
+   },
+   {
+    "date": "May 28, 2026",
+    "value": "€3.00m",
+    "value_numeric": 3000000,
+    "club": "Gil Vicente FC",
+    "age": "30"
+   }
+  ],
+  "peak_market_value": 8000000,
+  "transfers": [],
+  "_our_pid": "per_ghislain_konan"
+ },
+ {
+  "player_id": "911985",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/911985",
+  "name": "MohamedKoné",
+  "shirt_number": 30,
+  "club": "Joined:",
+  "club_id": "172",
+  "market_value": "€2.00m",
+  "market_value_numeric": 2000000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Current club:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "club option 1 year",
+  "nationality": "Belgium",
+  "citizenships": [
+   "Belgium",
+   "Cote d'Ivoire",
+   "Cote d'Ivoire",
+   "Cote d'Ivoire",
+   "Cote d'Ivoire",
+   "Cote d'Ivoire",
+   "France"
+  ],
+  "market_value_history": [
+   {
+    "date": "Aug 6, 2021",
+    "value": "€50k",
+    "value_numeric": 50000,
+    "club": "AC Le Havre B",
+    "age": "19"
+   },
+   {
+    "date": "Dec 27, 2021",
+    "value": "€50k",
+    "value_numeric": 50000,
+    "club": "AC Le Havre B",
+    "age": "19"
+   },
+   {
+    "date": "Jun 2, 2022",
+    "value": "€50k",
+    "value_numeric": 50000,
+    "club": "AC Le Havre B",
+    "age": "20"
+   },
+   {
+    "date": "Oct 28, 2022",
+    "value": "€50k",
+    "value_numeric": 50000,
+    "club": "Le Havre AC",
+    "age": "20"
+   },
+   {
+    "date": "Jun 16, 2023",
+    "value": "€50k",
+    "value_numeric": 50000,
+    "club": "Le Havre AC",
+    "age": "21"
+   },
+   {
+    "date": "Dec 18, 2023",
+    "value": "€50k",
+    "value_numeric": 50000,
+    "club": "Le Havre AC",
+    "age": "21"
+   },
+   {
+    "date": "Mar 26, 2024",
+    "value": "€150k",
+    "value_numeric": 150000,
+    "club": "USL Dunkerque",
+    "age": "22"
+   },
+   {
+    "date": "Jun 11, 2024",
+    "value": "€500k",
+    "value_numeric": 500000,
+    "club": "USL Dunkerque",
+    "age": "22"
+   },
+   {
+    "date": "Oct 2, 2024",
+    "value": "€1.70m",
+    "value_numeric": 1700000,
+    "club": "Royal Charleroi SC",
+    "age": "22"
+   },
+   {
+    "date": "Dec 11, 2024",
+    "value": "€1.70m",
+    "value_numeric": 1700000,
+    "club": "Royal Charleroi SC",
+    "age": "22"
+   },
+   {
+    "date": "Jun 12, 2025",
+    "value": "€1.20m",
+    "value_numeric": 1200000,
+    "club": "Royal Charleroi SC",
+    "age": "23"
+   },
+   {
+    "date": "Oct 1, 2025",
+    "value": "€900k",
+    "value_numeric": 900000,
+    "club": "Royal Charleroi SC",
+    "age": "23"
+   },
+   {
+    "date": "Dec 10, 2025",
+    "value": "€800k",
+    "value_numeric": 800000,
+    "club": "Royal Charleroi SC",
+    "age": "23"
+   },
+   {
+    "date": "Jun 4, 2026",
+    "value": "€2.00m",
+    "value_numeric": 2000000,
+    "club": "Royal Charleroi SC",
+    "age": "24"
+   }
+  ],
+  "peak_market_value": 2000000,
+  "transfers": [],
+  "_our_pid": "per_mohamed_kone"
+ },
+ {
+  "player_id": "644771",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/644771",
+  "name": "OdilonKossounou",
+  "shirt_number": 3,
+  "club": "Joined:",
+  "club_id": "800",
+  "market_value": "€15.00m",
+  "market_value_numeric": 15000000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Social-Media:",
+  "nationality": "Italy",
+  "citizenships": [
+   "Italy",
+   "Cote d'Ivoire",
+   "Cote d'Ivoire",
+   "Cote d'Ivoire",
+   "Cote d'Ivoire",
+   "Cote d'Ivoire"
+  ],
+  "market_value_history": [
+   {
+    "date": "Jun 28, 2019",
+    "value": "€2.80m",
+    "value_numeric": 2800000,
+    "club": "Hammarby IF",
+    "age": "18"
+   },
+   {
+    "date": "Dec 13, 2019",
+    "value": "€3.00m",
+    "value_numeric": 3000000,
+    "club": "Club Brugge KV",
+    "age": "18"
+   },
+   {
+    "date": "Mar 30, 2020",
+    "value": "€4.50m",
+    "value_numeric": 4500000,
+    "club": "Club Brugge KV",
+    "age": "19"
+   },
+   {
+    "date": "Apr 8, 2020",
+    "value": "€4.00m",
+    "value_numeric": 4000000,
+    "club": "Club Brugge KV",
+    "age": "19"
+   },
+   {
+    "date": "Oct 16, 2020",
+    "value": "€6.00m",
+    "value_numeric": 6000000,
+    "club": "Club Brugge KV",
+    "age": "19"
+   },
+   {
+    "date": "Jan 4, 2021",
+    "value": "€8.00m",
+    "value_numeric": 8000000,
+    "club": "Club Brugge KV",
+    "age": "20"
+   },
+   {
+    "date": "Mar 17, 2021",
+    "value": "€12.00m",
+    "value_numeric": 12000000,
+    "club": "Club Brugge KV",
+    "age": "20"
+   },
+   {
+    "date": "Jun 7, 2021",
+    "value": "€13.00m",
+    "value_numeric": 13000000,
+    "club": "Club Brugge KV",
+    "age": "20"
+   },
+   {
+    "date": "Oct 7, 2021",
+    "value": "€23.00m",
+    "value_numeric": 23000000,
+    "club": "Bayer 04 Leverkusen",
+    "age": "20"
+   },
+   {
+    "date": "Dec 22, 2021",
+    "value": "€23.00m",
+    "value_numeric": 23000000,
+    "club": "Bayer 04 Leverkusen",
+    "age": "20"
+   },
+   {
+    "date": "Mar 24, 2022",
+    "value": "€20.00m",
+    "value_numeric": 20000000,
+    "club": "Bayer 04 Leverkusen",
+    "age": "21"
+   },
+   {
+    "date": "Jun 9, 2022",
+    "value": "€20.00m",
+    "value_numeric": 20000000,
+    "club": "Bayer 04 Leverkusen",
+    "age": "21"
+   },
+   {
+    "date": "Nov 9, 2022",
+    "value": "€20.00m",
+    "value_numeric": 20000000,
+    "club": "Bayer 04 Leverkusen",
+    "age": "21"
+   },
+   {
+    "date": "Jun 22, 2023",
+    "value": "€18.00m",
+    "value_numeric": 18000000,
+    "club": "Bayer 04 Leverkusen",
+    "age": "22"
+   },
+   {
+    "date": "Oct 18, 2023",
+    "value": "€28.00m",
+    "value_numeric": 28000000,
+    "club": "Bayer 04 Leverkusen",
+    "age": "22"
+   },
+   {
+    "date": "Dec 14, 2023",
+    "value": "€35.00m",
+    "value_numeric": 35000000,
+    "club": "Bayer 04 Leverkusen",
+    "age": "22"
+   },
+   {
+    "date": "May 29, 2024",
+    "value": "€35.00m",
+    "value_numeric": 35000000,
+    "club": "Bayer 04 Leverkusen",
+    "age": "23"
+   },
+   {
+    "date": "Oct 18, 2024",
+    "value": "€30.00m",
+    "value_numeric": 30000000,
+    "club": "Atalanta BC",
+    "age": "23"
+   },
+   {
+    "date": "Dec 18, 2024",
+    "value": "€30.00m",
+    "value_numeric": 30000000,
+    "club": "Atalanta BC",
+    "age": "23"
+   },
+   {
+    "date": "Mar 25, 2025",
+    "value": "€25.00m",
+    "value_numeric": 25000000,
+    "club": "Atalanta BC",
+    "age": "24"
+   },
+   {
+    "date": "Jun 17, 2025",
+    "value": "€25.00m",
+    "value_numeric": 25000000,
+    "club": "Atalanta BC",
+    "age": "24"
+   },
+   {
+    "date": "Dec 23, 2025",
+    "value": "€22.00m",
+    "value_numeric": 22000000,
+    "club": "Atalanta BC",
+    "age": "24"
+   },
+   {
+    "date": "Mar 24, 2026",
+    "value": "€18.00m",
+    "value_numeric": 18000000,
+    "club": "Atalanta BC",
+    "age": "25"
+   },
+   {
+    "date": "May 29, 2026",
+    "value": "€15.00m",
+    "value_numeric": 15000000,
+    "club": "Atalanta BC",
+    "age": "25"
+   }
+  ],
+  "peak_market_value": 35000000,
+  "transfers": [],
+  "_our_pid": "per_odilon_kossounou"
+ },
+ {
+  "player_id": "658536",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/658536",
+  "name": "SimonAdingra",
+  "shirt_number": 24,
+  "club": "Joined:",
+  "club_id": "162",
+  "market_value": "€22.00m",
+  "market_value_numeric": 22000000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Social-Media:",
+  "nationality": "France",
+  "citizenships": [
+   "France",
+   "Cote d'Ivoire",
+   "Cote d'Ivoire",
+   "Cote d'Ivoire",
+   "Cote d'Ivoire",
+   "Cote d'Ivoire"
+  ],
+  "market_value_history": [
+   {
+    "date": "Nov 11, 2019",
+    "value": "€25k",
+    "value_numeric": 25000,
+    "club": "Unknown",
+    "age": "17"
+   },
+   {
+    "date": "Dec 23, 2020",
+    "value": "-",
+    "value_numeric": null,
+    "club": "FC Nordsjaelland U19",
+    "age": "18"
+   },
+   {
+    "date": "Jun 4, 2021",
+    "value": "€1.00m",
+    "value_numeric": 1000000,
+    "club": "FC Nordsjaelland",
+    "age": "19"
+   },
+   {
+    "date": "Dec 28, 2021",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "FC Nordsjaelland",
+    "age": "19"
+   },
+   {
+    "date": "Jun 20, 2022",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "FC Nordsjaelland",
+    "age": "20"
+   },
+   {
+    "date": "Sep 7, 2022",
+    "value": "€4.00m",
+    "value_numeric": 4000000,
+    "club": "Union Saint-Gilloise",
+    "age": "20"
+   },
+   {
+    "date": "Nov 4, 2022",
+    "value": "€6.00m",
+    "value_numeric": 6000000,
+    "club": "Union Saint-Gilloise",
+    "age": "20"
+   },
+   {
+    "date": "Jun 9, 2023",
+    "value": "€10.00m",
+    "value_numeric": 10000000,
+    "club": "Union Saint-Gilloise",
+    "age": "21"
+   },
+   {
+    "date": "Oct 9, 2023",
+    "value": "€15.00m",
+    "value_numeric": 15000000,
+    "club": "Brighton & Hove Albion",
+    "age": "21"
+   },
+   {
+    "date": "Dec 19, 2023",
+    "value": "€25.00m",
+    "value_numeric": 25000000,
+    "club": "Brighton & Hove Albion",
+    "age": "21"
+   },
+   {
+    "date": "Mar 14, 2024",
+    "value": "€30.00m",
+    "value_numeric": 30000000,
+    "club": "Brighton & Hove Albion",
+    "age": "22"
+   },
+   {
+    "date": "May 27, 2024",
+    "value": "€30.00m",
+    "value_numeric": 30000000,
+    "club": "Brighton & Hove Albion",
+    "age": "22"
+   },
+   {
+    "date": "Dec 16, 2024",
+    "value": "€30.00m",
+    "value_numeric": 30000000,
+    "club": "Brighton & Hove Albion",
+    "age": "22"
+   },
+   {
+    "date": "May 30, 2025",
+    "value": "€28.00m",
+    "value_numeric": 28000000,
+    "club": "Brighton & Hove Albion",
+    "age": "23"
+   },
+   {
+    "date": "Oct 17, 2025",
+    "value": "€25.00m",
+    "value_numeric": 25000000,
+    "club": "Sunderland AFC",
+    "age": "23"
+   },
+   {
+    "date": "Dec 9, 2025",
+    "value": "€22.00m",
+    "value_numeric": 22000000,
+    "club": "Sunderland AFC",
+    "age": "23"
+   },
+   {
+    "date": "Mar 27, 2026",
+    "value": "€25.00m",
+    "value_numeric": 25000000,
+    "club": "AS Monaco",
+    "age": "24"
+   },
+   {
+    "date": "Jun 1, 2026",
+    "value": "€22.00m",
+    "value_numeric": 22000000,
+    "club": "AS Monaco",
+    "age": "24"
+   }
+  ],
+  "peak_market_value": 30000000,
+  "transfers": [],
+  "_our_pid": "per_simon_adingra"
+ }
+]

@@ -1,0 +1,128 @@
+{{short description|Jordanian footballer}}
+{{Use dmy dates|date=September 2024}}
+{{more footnotes|date=July 2017}}
+{{Infobox football biography
+| name = Mohammad Al-Dawoud
+| image = 
+| fullname = Mohammad Rateb Al-Dawoud
+| birth_date = {{birth date and age|df=y|1992|4|12}}<ref>{{cite web |url=https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf |title=FIFA World Cup 2026: Squad List |publisher=[[FIFA]] |date=June 2, 2026 |access-date=June 2, 2026}}</ref>
+| birth_place = [[Ar-Ramtha]], Jordan
+| height = 1.77 m
+| currentclub = [[Al-Wehdat SC|Al-Wehdat]]
+| clubnumber = 76
+| position = [[Midfielder]]
+| youthyears1 = 2006–2011
+| youthclubs1 = [[Al-Ramtha SC|Al-Ramtha]]
+| years1 = 2011–2018
+| clubs1 = [[Al-Ramtha SC|Al-Ramtha]]
+| caps1 = 
+| goals1 =    
+| years2 = 2014–2017
+| clubs2 = → [[Hidd SCC|Hidd]] (loan)
+| caps2 = 
+| goals2 = 
+| years3 = 2018–2020
+| clubs3 = [[Hidd SCC|Hidd]]
+| caps3 = 
+| goals3 = 
+| years4 = 2020–2023
+| clubs4 = [[Al-Salt SC|Al-Salt]]
+| caps4 = 
+| goals4 = 
+| years5 = 2023–2025
+| clubs5 = [[Al-Hussein SC (Irbid)|Al-Hussein]]
+| caps5 = 
+| goals5 = 
+| years6 = 2025
+| clubs6 = [[Al-Faisaly SC|Al-Faisaly]]
+| caps6 = 5
+| goals6 = 0
+| years7 = 2026–
+| clubs7 = [[Al-Wehdat SC|Al-Wehdat]]
+| caps7 = 1
+| goals7 = 0
+| nationalyears1 = 2012–2014
+| nationalteam1 = [[Jordan national under-23 football team|Jordan U-22]]
+| nationalcaps1 = 
+| nationalgoals1 = 
+| nationalyears2 = 2011–
+| nationalteam2 = [[Jordan national football team|Jordan]]
+| nationalcaps2 = 10
+| nationalgoals2 = 0
+| pcupdate = 29 January 2026
+| ntupdate = 5 June 2025
+}}
+
+'''Mohammad Rateb Al-Dawoud''' ({{langx|ar|مُحَمَّد رَاتِب الدَّاوُود}}; born 12 April 1992) is a Jordanian professional [[Association football|footballer]] who plays as a [[midfielder]] for [[Jordanian Pro League]] club [[Al-Wehdat SC|Al-Wehdat]] and the [[Jordan national football team|Jordan national team]].
+
+==International career==
+Al-Dawoud's first match with the Jordan national senior team was against Libya in Doha on 17 December 2011 in the 2011 Pan Arab Games, which resulted in a 0-0 draw.
+
+==Personal life==
+Al-Dawoud is the son of Rateb Al-Dawoud, who also played for [[Al-Ramtha SC|Al-Ramtha]] and the Jordan national team.
+
+==Career statistics==
+===International===
+{| class="wikitable"
+! # !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| 1 || May 19, 2013 || [[Cairo]] || {{fb|Egypt}} U-19 || 4-0 || Win || Friendly 
+|}
+
+===International goals===
+:''Scores and results list Jordan's goal tally first.''
+{| class="wikitable"
+! No. !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| 1. 
+| 31 March 2026 
+| [[Mardan Sports Complex]], [[Antalya]], Türkiye 
+| {{fb|NGA}} 
+| align=center | '''2'''–2 
+| align=center | 2–2 
+| [[Exhibition game#Association football|Friendly]]
+|}
+
+==References==
+{{Reflist}}
+
+== External links ==
+* {{Soccerway|mohammad-al-dahoud/222607}}
+* {{NFT player|48392}}
+* {{Goalzz|71104}}
+
+{{Navboxes
+|title=Jordan squads
+|bg=white
+|fg=#CE1126
+|bordercolor=#CE1126
+|list1=
+{{Jordan squad 2015 AFC Asian Cup}}
+{{Jordan squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Dawoud, Mohammad}}
+[[Category:1992 births]]
+[[Category:Living people]]
+[[Category:People from Irbid]]
+[[Category:Jordanian men's footballers]]
+[[Category:Jordan men's international footballers]]
+[[Category:Jordan men's youth international footballers]]
+[[Category:Men's association football midfielders]]
+[[Category:Al-Ramtha SC players]]
+[[Category:2015 AFC Asian Cup players]]
+[[Category:Expatriate men's footballers in Bahrain]]
+[[Category:Jordanian expatriate sportspeople in Bahrain]]
+[[Category:Jordanian expatriate men's footballers]]
+[[Category:Al-Salt SC players]]
+[[Category:Jordanian Pro League players]]
+[[Category:Bahraini Premier League players]]
+[[Category:Hidd SCC players]]
+[[Category:Al-Hussein SC (Irbid) players]]
+[[Category:Al-Faisaly SC players]]
+[[Category:Al-Wehdat SC players]]
+[[Category:21st-century Jordanian sportsmen]]
+[[Category:2026 FIFA World Cup players]]
+
+
+{{Jordan-footy-bio-stub}}

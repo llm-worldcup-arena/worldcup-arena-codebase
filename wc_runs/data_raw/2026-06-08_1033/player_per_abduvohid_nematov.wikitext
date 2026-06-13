@@ -1,0 +1,114 @@
+{{short description|Uzbek footballer (born 2001)}}
+{{Infobox football biography
+| name = Abduvohid Nematov
+| fullname = Abduvohid Furqat o'g'li Nematov
+| image = Abduvohid Nematov (cropped).jpg
+| birth_date = {{Birth date and age|2001|3|20}}<ref>[https://globalsportsarchive.com/people/soccer/abduvakhid-nematov/138718/ Player Profil globalsportsarchive.com]</ref>
+| birth_place = [[Jizzakh]], [[Uzbekistan]]
+| height = 1.83m
+| currentclub = [[FC Nasaf|Nasaf]]
+| clubnumber = 35
+| position = [[Goalkeeper (association football)|Goalkeeper]]
+| youthyears1 = 
+| youthclubs1 = [[FC Nasaf|Nasaf]]
+| years1 = 2017–
+| clubs1 = [[FC Nasaf|Nasaf]]
+| caps1 = 118
+| goals1 = 2
+| nationalyears1 = 2017
+| nationalteam1 = [[Uzbekistan national under-17 football team|Uzbekistan U17]]
+| nationalcaps1 = 3
+| nationalgoals1 = 0
+| nationalyears2 = 2019
+| nationalteam2 = [[Uzbekistan national under-19 football team|Uzbekistan U19]]
+| nationalcaps2 = 3
+| nationalgoals2 = 0
+| nationalyears3 = 2019–
+| nationalteam3 = [[Uzbekistan national under-23 football team|Uzbekistan U23]]
+| nationalcaps3 = 23
+| nationalgoals3 = 0
+| nationalyears4 = 2020–
+| nationalteam4 = [[Uzbekistan national football team|Uzbekistan]]
+| nationalcaps4 = 7
+| nationalgoals4 = 0
+| pcupdate = 10 August 2025
+| ntupdate = 20 June 2023 (UTC)
+| medaltemplates = {{MedalCountry | {{UZB}} }}
+{{MedalSport  | Men's [[Association football|football]]}}
+{{Medal|Competition|[[CAFA Nations Cup]]}}
+{{Medal|RU|[[2023 CAFA Nations Cup|2023 Kyrgyzstan–Uzbekistan]]|[[2023 CAFA Nations Cup squads#Uzbekistan|Team]]}}
+{{MedalCompetition|[[AFC U-23 Asian Cup]]}}
+{{MedalRU|[[2022 AFC U-23 Asian Cup|2022 Uzbekistan]]|[[2022 AFC U-23 Asian Cup squads#Uzbekistan|Team]]}}
+{{Medal|RU|[[2024 AFC U-23 Asian Cup|2024 Qatar]]|[[2024 AFC U-23 Asian Cup squads#Uzbekistan|Team]]}}
+}}
+
+'''Abduvohid Nematov''' (born 20 March 2001) is an Uzbek professional [[association football|footballer]] who plays as a goalkeeper for [[FC Nasaf|Nasaf]] and the [[Uzbekistan national football team|Uzbekistan national team]].
+
+==Career==
+===International===
+Nematov made his debut for the [[Uzbekistan national football team|Uzbekistan]] main team on 3 September 2020 in a [[Friendly (sport)|Friendly]] match against [[Tajikistan national football team|Tajikistan]].<ref>[https://www.national-football-teams.com/matches/report/27778/Uzbekistan_Tajikistan.html Uzbekistan 2–1 Tajikistan]</ref>
+
+{| class="wikitable" style="text-align:center"
+|-
+!colspan=3|[[Uzbekistan national football team|Uzbekistan national team]]
+|-
+!Year!!Apps!!Goals
+|-
+|2020||4||0
+|-
+|2021||2||0
+|-
+|2022||0||0
+|-
+|2023||1||0
+|-
+!Total||7||0
+|}
+''Statistics accurate as of match played 14 June 2023.''
+
+==Honours==
+;Nasaf
+*[[Uzbekistan Cup]]: [[2021 Uzbekistan Cup|2021]], [[2022 Uzbekistan Cup|2022]], [[2023 Uzbekistan Cup|2023]]
+*[[Uzbekistan Super Cup]]: [[Uzbekistan Super Cup|2023]], [[Uzbekistan Super Cup|2024]]
+* [[Uzbekistan Super League]]:  [[2024 Uzbekistan Super League|2024]]
+;Individual 
+* [[AFC U-23 Asian Cup]] Best Goalkeeper: [[2024 AFC U-23 Asian Cup|2024]]
+* [[Uzbek League|Uzbekistan Super League Team of the Season]]: [[2024 Uzbekistan Super League|2024]]<ref>{{cite web|url=https://www.instagram.com/p/DCeKN34scPy/?igsh=dWpoMGJrcnlhcnJ2| title=Instagram }}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Soccerway|new_id=nematov-abduvakhid/ETlxhPFb|name=Abduvakhid Nematov|id=abduvohid-nematov/516783|archive=20240216020934}}
+* {{NFT|79183|Abduvahid Nematov}}
+* {{Olympics.com|abduvohid-nematov|Abduvohid Nematov}}
+
+{{FC Nasaf squad}}
+{{Navboxes
+| title = Uzbekistan squads
+| bg          = #0099B5
+| fg          = white 
+| bordercolor = #CE1126
+| list =
+{{Uzbekistan squad 2023 AFC Asian Cup}}
+{{Uzbekistan men's football squad 2024 Summer Olympics}}
+{{Uzbekistan squad 2026 FIFA World Cup}}
+}}
+{{AFC U-23 Asian Cup awards}}
+
+{{DEFAULTSORT:Nematov, Abduvohid}}
+[[Category:2001 births]]
+[[Category:Living people]]
+[[Category:People from Jizzakh]]
+[[Category:Sportspeople from Jizzakh Region]]
+[[Category:Uzbekistani men's footballers]]
+[[Category:21st-century Uzbekistani sportsmen]]
+[[Category:Men's association football goalkeepers]]
+[[Category:FC Nasaf players]]
+[[Category:Uzbekistan Super League players]]
+[[Category:Uzbekistan men's international footballers]]
+[[Category:Uzbekistan men's under-23 international footballers]]
+[[Category:Olympic footballers for Uzbekistan]]
+[[Category:2023 AFC Asian Cup players]]
+[[Category:Footballers at the 2024 Summer Olympics]]
+[[Category:2026 FIFA World Cup players]]

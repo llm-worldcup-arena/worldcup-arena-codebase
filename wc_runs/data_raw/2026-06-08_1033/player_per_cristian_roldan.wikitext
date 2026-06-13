@@ -1,0 +1,275 @@
+{{short description|American soccer player (born 1995)}}
+{{Use mdy dates|date=November 2022}}
+{{Use American English|date=August 2022}}
+{{Infobox football biography
+| name = Cristian Roldan
+| image = Cristian Roldan USMNT v Belgium Mar 28 2026-50 (cropped).jpg
+| caption = Roldan with the [[United States men's national soccer team|United States]] in 2026
+| full_name = Cristian Roldan<ref>{{cite web |url=http://cloudfront.bernews.com/wp-content/uploads/2019/05/2019_Concacaf_Gold_Cup_Preliminary_Lists_May_20.pdf |title=40-Player National Team Roster: 2019 Concacaf Gold Cup: United States |publisher=CONCACAF |page=16 |access-date=May 21, 2019 |via=Bernews}}</ref>
+| birth_date = {{birth date and age|1995|6|3|mf=y}}
+| birth_place = [[Artesia, California]], U.S.
+| height = {{convert|1.72|m|order=flip}}<ref name="FIFA 2022">{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=FIFA World Cup Qatar 2022: List of players: United States |publisher=[[FIFA]] |page=31 |date=November 15, 2022 |access-date=November 24, 2022}}</ref>
+| position = [[Midfielder]]
+| currentclub = [[Seattle Sounders FC]]
+| clubnumber = 7
+| collegeyears1 = 2013–2014
+| college1 = [[Washington Huskies men's soccer|Washington Huskies]]
+| collegecaps1 = 41
+| collegegoals1 = 10
+| years1 = 2013–2014
+| clubs1 = [[Washington Crossfire]]
+| caps1 = 13
+| goals1 = 6
+| years2 = 2015
+| clubs2 = [[Seattle Sounders FC 2]]
+| caps2 = 1
+| goals2 = 1
+| years3 = 2015–
+| clubs3 = [[Seattle Sounders FC]]
+| caps3 = 319
+| goals3 = 40
+| nationalyears1 = 2015
+| nationalteam1 = [[United States men's national under-20 soccer team|United States U20]]
+| nationalcaps1 = 2
+| nationalgoals1 = 0
+| nationalyears2 = 2017–
+| nationalteam2 = [[United States men's national soccer team|United States]]
+| nationalcaps2 = 47
+| nationalgoals2 = 0
+| medaltemplates = {{Medal|Sport|Men's [[Association football|Soccer]]}}
+{{Medal|Country|{{fb|USA}}}}
+{{MedalComp|[[CONCACAF Gold Cup]]}}
+{{Medal|W|[[2017 CONCACAF Gold Cup|2017 United States]]|}}
+{{Medal|W|[[2021 CONCACAF Gold Cup|2021 United States]]|}}
+{{Medal|RU|[[2019 CONCACAF Gold Cup|2019 United States]]|}}
+| club-update = May 24, 2026
+| nationalteam-update = June 6, 2026
+}}
+
+'''Cristian Roldan''' (born June 3, 1995) is an American professional [[association football|soccer]] player who plays as a [[midfielder]] for [[Major League Soccer]] club [[Seattle Sounders FC]], which he captains, and the [[United States men's national soccer team|United States national team]].
+
+Roldan was the 2013 [[Gatorade Player of the Year awards#Soccer|Gatorade National Player of the Year]] while playing for [[El Rancho High School]] in [[Pico Rivera, California]], and played collegiate soccer for the [[Washington Huskies men's soccer|Washington Huskies]]. He was picked by the Sounders in the [[2015 MLS SuperDraft]] and developed into a regular starting player for the club, with over 300 total appearances {{as of|2024|lc=y}}.
+
+==Club career==
+===College and amateur===
+
+Roldan was named the 2013 [[Gatorade Player of the Year awards#Soccer|Gatorade National Player of the Year]] in soccer while attending [[El Rancho High School]] in [[Pico Rivera, California]].<ref>{{cite news|title=Cristian Roldan named Gatorade National Boys Soccer Player of the Year |url=http://usatodayhss.com/2013/cristian-roldan-named-gatorade-national-boys-soccer-player-of-the-year |website=USA Today High School Sports |date=May 20, 2013 |access-date=May 20, 2013}}</ref> He declined invitations from the [[LA Galaxy]] and [[Chivas USA]] to join their academy teams and led the El Rancho Dons to an undefeated season with 26 wins.<ref name="Times-Path">{{cite news |last=Baker |first=Geoff |date=April 23, 2017 |title=How the Sounders' Cristian Roldan struck his own path in Pico Rivera |url=https://www.seattletimes.com/sports/sounders/how-the-sounders-cristian-roldan-struck-his-own-path-in-pico-rivera/ |work=[[The Seattle Times]] |accessdate=November 20, 2022}}</ref> In his junior year, he had 21 goals and 21 assists for El Rancho and also played for youth club Union Independiente.<ref name="SI-Draft">{{cite magazine |last=Bird |first=Liviu |date=January 15, 2015 |title=Cristian Roldan's up-and-down draft day ends in ideal Seattle destination |url=https://www.si.com/soccer/2015/01/15/cristian-roldan-seattle-sounders-mls-superdraft |magazine=[[Sports Illustrated]] |accessdate=November 21, 2022}}</ref> During the 2012–13 season, he scored 54 goals and 30 assists and led El Rancho to a regional high school championship.<ref name="Times-Path"/><ref name="LATimes-Dream">{{cite news |last=Jiménez |first=Soudi |date=November 18, 2022 |title=Central American immigrants' World Cup dream comes true with Cristian Roldán of Team USA |url=https://www.latimes.com/california/story/2022-11-18/immigrant-world-cup-dreams-come-true-cristian-roldan-parents |work=[[Los Angeles Times]] |accessdate=November 20, 2022}}</ref>
+
+Roldan was scouted by the [[University of Washington]] at a tournament in [[San Diego, California|San Diego]] and spent his college career with the [[Washington Huskies]].<ref name="LATimes-Dream"/> In his two seasons of college soccer, Roldan made a total of 41 appearances and tallied 10 goals and seven assists as he helped lead the team to a Pac-12 title in 2013.<ref name="LATimes-Dream"/><ref>{{cite news |last=Camargo |first=Alberto |date=November 9, 2022 |title=The college careers of 8 USMNT World Cup players |url=https://www.ncaa.com/news/soccer-men/article/2022-11-09/college-careers-8-usmnt-world-cup-players |work=NCAA.com |accessdate=November 20, 2022}}</ref> Roldan was named the 2013 Pac-12 Freshman of the Year, beating future Sounders teammate [[Jordan Morris]] from the [[Stanford Cardinal]].<ref name="Times-WorldCup">{{cite news |last=Evans |first=Jayda |date=November 19, 2022 |title=How Sounders standouts Cristian Roldan and Jordan Morris realized their World Cup dream |url=https://www.seattletimes.com/sports/sounders/how-sounders-standouts-cristian-roldan-and-jordan-morris-realized-their-world-cup-dream/ |work=The Seattle Times |accessdate=November 20, 2022}}</ref>
+
+During the college offseason, Roldan played in the [[Premier Development League]] for the [[Washington Crossfire]].<ref>{{cite web|title=2013 Washington Crossfire stats|url=http://www.uslpdl.com/teams/2013/13598705.html#STATS|website=USLPDL.com|publisher=Premier Development League|access-date=April 8, 2015|archive-url=https://web.archive.org/web/20150402130851/http://uslpdl.com/teams/2013/13598705.html#STATS|archive-date=April 2, 2015|url-status=dead}}</ref><ref>{{cite web|title=2014 Washington Crossfire stats|url=http://www.uslpdl.com/teams/2014/13598705.html#STATS|website=USLPDL.com|publisher=Premier Development League|access-date=April 8, 2015|archive-url=https://web.archive.org/web/20151208055718/http://www.uslpdl.com/teams/2014/13598705.html#STATS|archive-date=December 8, 2015|url-status=dead}}</ref> He joined the team in 2013 as part of preparations to join the Huskies.<ref>{{cite news |last=Eskilson |first=J.R. |date=July 19, 2013 |title=Roldan's mystery makes him exciting |url=https://www.topdrawersoccer.com/college-soccer-articles/roldans-mystery-makes-him-exciting_aid29034 |work=[[TopDrawerSoccer.com]] |accessdate=November 20, 2022}}</ref> Roldan also played for the [[Portland Timbers U23s]] in the 2014 [[MLS Homegrown Game]].<ref>{{cite magazine |last=Bird |first=Liviu |date=August 5, 2014 |title=Game of the future: Three thoughts on inaugural MLS Homegrown Game |url=https://www.si.com/soccer/2014/08/05/three-thoughts-inaugural-mls-homegrown-game |magazine=Sports Illustrated |accessdate=November 20, 2022}}</ref>
+
+===Professional===
+
+On January 8, 2015, it was announced that Roldan had left college early to sign a [[Generation Adidas]] contract with [[Major League Soccer]].<ref>{{cite web|title=Major League Soccer announces 2015 Generation adidas class|url=http://www.mlssoccer.com/news/article/2015/01/08/major-league-soccer-announces-2015-generation-adidas-class|website=MLSsoccer.com|publisher=Major League Soccer|access-date=April 8, 2015|date=January 8, 2015|archive-date=January 22, 2015|archive-url=https://web.archive.org/web/20150122235423/http://www.mlssoccer.com/news/article/2015/01/08/major-league-soccer-announces-2015-generation-adidas-class|url-status=dead}}</ref> He was expected to be selected early in the [[2015 MLS SuperDraft]], but was chosen late in the first round with the 16th overall pick by [[Seattle Sounders FC]].<ref name="SI-Draft"/><ref>{{cite web|title=Sounders FC Selects Cristian Roldan in First Round of 2015 MLS SuperDraft|url=http://www.soundersfc.com/post/2015/01/15/sounders-fc-selects-cristian-roldan-first-round-2015-mls-superdraft|website=SoundersFC.com|publisher=Seattle Sounders FC|access-date=March 8, 2015|date=January 15, 2015}}</ref> The Sounders traded with [[Real Salt Lake]] for the draft pick and had scouted Roldan during his offseason training sessions with the team.<ref name="SI-Draft"/> After making two substitute appearances the first two weeks of the season against the [[New England Revolution]] and the [[San Jose Earthquakes]], Roldan made a substitute appearance for [[United Soccer League|USL]] affiliate club [[Seattle Sounders FC 2]] on March 21 and scored an 89th-minute goal in a 4–2 victory over defending USL champion [[Sacramento Republic FC]].<ref>{{cite web|title=Match Recap: Sounders FC 2 earns 4–2 win over Sacramento in inaugural match|url=http://www.soundersfc.com/post/2015/03/21/match-recap-sounders-fc-2-earns-4-2-win-over-sacramento-inaugural-match|website=SoundersFC.com|publisher=Seattle Sounders FC|access-date=April 8, 2015|date=March 21, 2015}}</ref> Due to injuries and international call-ups, he made his first MLS start the following week in a goalless draw away to [[FC Dallas]].<ref>{{cite web|title=Sounders FC and FC Dallas play to a scoreless stalemate|url=http://www.soundersfc.com/post/2015/03/28/sounders-fc-and-fc-dallas-play-scoreless-stalemate|website=SoundersFC.com|publisher=Seattle Sounders FC|access-date=April 8, 2015|date=March 28, 2015}}</ref>
+[[File:Cristian Roldan.jpg|left|thumb|Roldan with Seattle in 2017]]
+Roldan developed into a deep-lying midfielder and earned a regular place in the starting lineup under head coach [[Sigi Schmid]] following his performances as an "impact substitute".<ref name="Times-Rising2015">{{cite news |last=Pentz |first=Matt |date=June 5, 2015 |title=First-round pick Cristian Roldan a rising star on Sounders squad |url=https://www.seattletimes.com/sports/sounders/first-round-pick-cristian-roldan-a-rising-star-on-sounders-squad/ |work=The Seattle Times |accessdate=November 21, 2022}}</ref> He was compared to captain and defensive midfielder [[Osvaldo Alonso]], who Roldan regarded as a mentor and ultimately replaced.<ref>{{cite news |last=Evans |first=Jayda |date=May 3, 2019 |title=For Sounders' Cristian Roldan, relief and excitement ahead of match vs. friend, mentor Osvaldo Alonso |url=https://www.seattletimes.com/sports/sounders/for-sounders-cristian-roldan-relief-and-excitement-ahead-of-match-vs-friend-mentor-osvaldo-alonso/ |work=The Seattle Times |accessdate=November 21, 2022}}</ref> Roldan scored his first career Major League Soccer goal on July 13, 2016, during a 5–0 win over FC Dallas.<ref>{{cite web|url=http://www.seattletimes.com/sports/sounders/sounders-enjoy-an-easy-5-0-victory-over-dallas-until-losing-clint-dempsey-to-a-red-card/|title=Sounders enjoy an easy 5-0 victory over Dallas, until losing Clint Dempsey to a red card|author=Matt Pentz|date=July 13, 2016|work=The Seattle Times|access-date=December 28, 2016}}</ref> He formed a partnership and personal friendship with fellow rookie Jordan Morris—previously a collegiate rival—that was dubbed "Jorstian Mordan".<ref name="Times-WorldCup"/><ref>{{cite news |last=Castillo |first=Arielle |date=July 7, 2017 |title=Morris, Roldan providing mutual support at US national team summer camp |url=https://www.mlssoccer.com/news/morris-roldan-providing-mutual-support-us-national-team-summer-camp |work=MLSsoccer.com |accessdate=November 20, 2022}}</ref>
+
+In December 2018, Roldan agreed to a five-year, $4-million dollar contract extension with the Sounders.<ref name="TNT20190531">{{cite news |work=[[Tacoma News Tribune]] |issn=1073-5860 |title=Seattle Sounders are betting the future belongs to Cristian Roldan |url=https://amp.thenewstribune.com/sports/soccer/mls/sounders-fc/article231007038.html |date=May 31, 2019 |first=Andrew |last=Hammond |access-date=December 20, 2025}}</ref>
+
+On November 10, 2019, Roldan featured for Seattle in a 3–1 home win over [[Toronto FC]] in [[MLS Cup 2019]]; he was involved in the build-up to his team's opening goal, after colliding with [[Jonathan Osorio]], who lost the ball, while Seattle went on to score with [[Kelvin Leerdam]].<ref>{{cite news |url=https://www.thestar.com/sports/tfc/2019/11/10/toronto-fc-cries-foul-after-mls-cup-letdown.html |title=Toronto FC cries foul after MLS Cup letdown |work=The Toronto Star |last1=Armstrong |first1=Laura |date=November 10, 2019 |access-date=November 11, 2019}}</ref> He also played all eight matches in Seattle's run to the [[2022 CONCACAF Champions League]] title, providing one goal and five assists, and was named to the Team of the Tournament.<ref name="Times-WCRoster"/><ref name="CCL-BestXI"/> Roldan underwent groin surgery in August 2022 to treat a [[sports hernia]], his first major injury during his professional career.<ref>{{cite news |last=Evans |first=Jayda |date=August 23, 2022 |title=Sounders star Cristian Roldan expected to miss 4-6 weeks after groin surgery |url=https://www.seattletimes.com/sports/sounders/sounders-star-cristian-roldan-expected-to-miss-4-6-weeks-after-groin-surgery/ |work=The Seattle Times |accessdate=November 20, 2022}}</ref> He returned to the team for their final three matches of the regular season as the Sounders failed to qualify for the playoffs.<ref>{{cite news |last=Evans |first=Jayda |date=October 1, 2022 |title=Sounders might not be in playoffs race, but Cristian Roldan still has something to play for |url=https://www.seattletimes.com/sports/sounders/sounders-may-not-be-playing-for-playoffs-but-cristian-roldan-still-has-something-to-play-for/ |work=The Seattle Times |accessdate=November 20, 2022}}</ref>
+
+He signed a five-year contract extension with the Sounders in January 2023 alongside Morris.<ref name="Times-Contract">{{cite news |last=Evans |first=Jayda |date=January 19, 2023 |title=After signing long-term deals with Sounders, Morris and Roldan are 'hungry' to keep winning |url=https://www.seattletimes.com/sports/sounders/after-signing-long-term-deals-with-sounders-morris-and-roldan-are-hungry-to-keep-winning/ |work=The Seattle Times |accessdate=September 17, 2023}}</ref> Roldan suffered a [[concussion]] during a regular season match against [[St. Louis City SC]] in April and missed several matches while undergoing treatment; he resumed training in late May.<ref>{{cite news |last=Evans |first=Jayda |date=May 24, 2023 |title=Injured Sounders stars Raul Ruidiaz, Cristian Roldan nearing returns |url=https://www.seattletimes.com/sports/sounders/injured-sounders-stars-raul-ruidiaz-cristian-roldan-nearing-returns/ |work=The Seattle Times |accessdate=September 17, 2023}}</ref> Roldan had a second concussion during a [[2023 Leagues Cup|Leagues Cup]] match in July and underwent more treatment, including sleep monitoring, at a facility in Detroit.<ref>{{cite news |last=Evans |first=Jayda |date=September 1, 2023 |title=What to watch for as Sounders host Timbers in Cascadia rivalry match |url=https://www.seattletimes.com/sports/sounders/what-to-watch-for-as-sounders-host-timbers-in-cascadia-rivalry-match/ |work=The Seattle Times |accessdate=September 17, 2023}}</ref> He returned to play against [[FC Dallas]] on September 16.<ref>{{cite news |last=Evans |first=Jayda |date=September 16, 2023 |title=Teenager Reed Baker-Whiting plays key role as Sounders tie FC Dallas |url=https://www.seattletimes.com/sports/sounders/teenager-reed-baker-whiting-plays-key-role-as-sounders-tie-fc-dallas/ |work=The Seattle Times |accessdate=September 17, 2023}}</ref>
+
+==International career==
+[[File:Cristian Roldan playing for the United States on June 6, 2019.jpg|thumb|upright|Roldan with the United States in 2019]]
+Roldan represented the United States at [[United States men's national under-20 soccer team|under-20]] level. He was also eligible to represent either [[Guatemala national football team|Guatemala]] or [[El Salvador national football team|El Salvador]] through his parents,<ref>{{cite web|author1=Alicia Rodriguez|title=Could Seattle Sounders' Cristian Roldan play for Guatemala or El Salvador?|url=http://www.mlssoccer.com/post/2016/03/30/could-seattle-sounders-cristian-roldan-play-guatemala-or-el-salvador|website=MLSsoccer.com|access-date=November 28, 2016|date=March 30, 2016}}</ref> and mentioned in an interview that he had been offered senior callups from both nations.<ref>{{cite web|author1=Oficina de Comunicación MLS|title=Cristian Roldán: "Quiero jugar para una selección; tengo tres opciones, Guatemala, El Salvador y EEUU"|url=http://www.univision.com/deportes/futbol/mls/cristian-roldan-quiero-jugar-para-una-seleccion-tengo-tres-opciones-guatemala-el-salvador-y-eeuu|website=Univision.com|access-date=July 12, 2017|date=July 14, 2016}}</ref> On July 12, 2017, he was cap-tied to the [[United States men's national soccer team|United States national team]] by starting their [[2017 CONCACAF Gold Cup]] group stage match against [[Martinique national football team|Martinique]].<ref>{{cite web|author1=U.S. Soccer|title=Lineup Notes: MNT vs. Martinique – 2017 CONCACAF Gold Cup |url=http://www.ussoccer.com/stories/2017/07/12/23/48/20170712-news-mnt-v-martinique-starting-xi-lineup-notes-2017-concacaf-gold-cup-group-b-july-12|website=USSoccer.com|access-date=July 12, 2017|date=July 12, 2017}}</ref>
+
+Roldan and Sounders teammate Jordan Morris were called up to the final roster for the [[2022 FIFA World Cup]].<ref name="Times-WorldCup"/> Roldan had played limited minutes during the preceding World Cup qualifying campaign, but was chosen by [[Gregg Berhalter]] for his leadership in training and ability to play in several roles.<ref name="Times-WCRoster">{{cite news |last=Evans |first=Jayda |date=November 9, 2022 |title=Sounders FC stars Cristian Roldan and Jordan Morris earn spots on U.S. men's World Cup roster |url=https://www.seattletimes.com/sports/sounders/sounders-stars-cristian-roldan-and-jordan-morris-earn-spot-on-us-mens-world-cup-roster/ |work=The Seattle Times |accessdate=November 20, 2022}}</ref><ref>{{cite news |last=Tenorio |first=Paul |date=November 17, 2022 |title=At the World Cup, 'glue guys' can have a big impact without playing a minute |url=https://www.nytimes.com/athletic/3902596/2022/11/16/world-cup-glue-guys/ |work=[[The Athletic]] |url-access=subscription |access-date=November 20, 2022}}</ref>
+
+==Personal life==
+
+Roldan was featured in an [[Adidas]] commercial as a nine-year-old, selected for his soccer ball juggling skills from 110 kids who tried out for the commercial.<ref>{{cite news|title=Cristian Roldan: From commercial star to Sounders rookie |url=http://komonews.com/sports/sounders/cristian-roldan-from-commercial-star-to-sounders-rookie |website=komonews.com |access-date=April 1, 2015}}</ref> Roldan is of Salvadoran and Guatemalan descent, and has an older brother named Cesar Jr., who works as a trainer for the [[LA Galaxy]], and a younger brother [[Alex Roldán|Alex]] who has also played for the Sounders since 2019.<ref>{{cite news |last=Baker |first=Geoff |date=January 19, 2018 |title=Sounders select Alex Roldan, younger brother of Cristian Roldan, in first round of MLS SuperDraft |url=https://www.seattletimes.com/sports/sounders/sounders-select-alex-roldan-younger-brother-of-cristian-roldan-in-first-round-of-mls-superdraft |work=The Seattle Times |access-date=January 20, 2018}}</ref><ref>{{cite news |last=Baker |first=Geoff |date=August 1, 2017 |title=Sounders' Cristian Roldan remembers the sacrifices his parents made in Pico Rivera |url=https://www.seattletimes.com/sports/sounders/sounders-cristian-roldan-remembers-the-sacrifices-his-parents-made-in-pico-rivera |work=The Seattle Times |access-date=January 20, 2018}}</ref>
+
+He married physician assistant Ciana Baron on December 31, 2022.<ref name="Times-Contract"/><ref>{{cite web |title=Profile: Cristian Roldan |url=https://www.ussoccer.com/players/r/cristian-roldan |publisher=U.S. Soccer |accessdate=September 17, 2023}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played May 24, 2026}}<ref>{{Soccerway|cristian-roldan/398684}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season, and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|Playoffs{{efn|Includes [[MLS Cup playoffs]]}}
+!colspan="2"|National cup{{efn|Includes [[U.S. Open Cup]]}}
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|[[Seattle Sounders FC 2]]
+|[[2015 Seattle Sounders FC 2 season|2015]]
+|[[USL Championship|USL]]
+|1||1||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||1||1
+|-
+|rowspan="13"|[[Seattle Sounders FC]]
+|[[2015 Seattle Sounders FC season|2015]]
+|[[Major League Soccer|MLS]]
+|22||0||3||0||1||0||6{{efn|Appearances in [[CONCACAF Champions Cup|CONCACAF Champions League/Cup]]|name=CCL}}||0||colspan="2"|—||32||0
+|-
+|[[2016 Seattle Sounders FC season|2016]]
+|MLS
+|33||4||6||0||3||1||colspan="2"|—||colspan="2"|—||42||5
+|-
+|[[2017 Seattle Sounders FC season|2017]]
+|MLS
+|33||6||5||0||0||0||colspan="2"|—||colspan="2"|—||38||6
+|-
+|[[2018 Seattle Sounders FC season|2018]]
+|MLS
+|34||4||1||0||0||0||4{{efn|name=CCL}}||0||colspan="2"|—||39||4
+|-
+|[[2019 Seattle Sounders FC season|2019]]
+|MLS
+|29||6||4||0||0||0||colspan="2"|—||colspan="2"|—||33||6
+|-
+|[[2020 Seattle Sounders FC season|2020]]
+|MLS
+|22{{efn|Includes three appearances in [[MLS is Back Tournament]] group stage}}||2||4||0||colspan="2"|—||2{{efn|name=CCL}}||1||1{{efn|Appearance in MLS is Back Tournament knockout stage}}||0||29||3
+|-
+|[[2021 Seattle Sounders FC season|2021]]
+|MLS
+|28||6||1||0||colspan="2"|—||colspan="2"|—||3{{efn|name=LC|Appearances in [[Leagues Cup]]}}||1||32||7
+|-
+|[[2022 Seattle Sounders FC season|2022]]
+|MLS
+|26||4||colspan="2"|—||0||0||8{{efn|name=CCL}}||1||colspan="2"|—||34||5
+|-
+|[[2023 Seattle Sounders FC season|2023]]
+|MLS
+|16||3||4||0||0||0||colspan="2"|—||2{{efn|One appearance in [[FIFA Club World Cup]], one appearance in Leagues Cup}}||0||22||3
+|-
+|[[2024 Seattle Sounders FC season|2024]]
+|MLS
+|33||1||4||1||3||0||colspan="2"|—||5{{efn|name=LC}}||0||45||2
+|-
+|[[2025 Seattle Sounders FC season|2025]]
+|MLS
+|31||1||3||0||colspan="2"|—||3{{efn|name=CCL}}||0||9{{efn|Three appearances and one goal in FIFA Club World Cup, six appearances in Leagues Cup}}||1||46||2
+|-
+|[[2026 Seattle Sounders FC season|2026]]
+|MLS
+|12||3||0||0||colspan="2"|—||4{{efn|name=CCL}}||0||0||0||16||3
+|-
+!colspan="2"|Total
+!319!!40!!35!!1!!8!!1!!26!!2!!20!!1!!408!!45
+|-
+!colspan="3"|Career total
+!320!!41!!35!!1!!8!!1!!26!!2!!20!!1!!409!!46
+|}
+{{notelist}}
+
+===International===
+{{updated|match played June 6, 2026}}<ref>{{NFT|68549}}</ref>
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="10"|[[United States men's national soccer team|United States]]
+|2017||1||0
+|-
+|2018||4||0
+|-
+|2019||14||0
+|-
+|2020||0||0
+|-
+|2021||11||0
+|-
+|2022||2||0
+|-
+|2023||5||0
+|-
+|2024||0||0
+|-
+|2025||6||0
+|-
+|[[2026 in American soccer#Men's|2026]]|| 4 || 0
+|-
+!colspan="2"|Total!! 47 !!0
+|}
+
+==Honors==
+'''Seattle Sounders FC'''
+*[[MLS Cup]]: [[MLS Cup 2016|2016]], [[MLS Cup 2019|2019]]
+*[[CONCACAF Champions League]]: [[2022 CONCACAF Champions League Final|2022]]
+*[[Leagues Cup]]: [[2025 Leagues Cup final|2025]]
+
+'''United States'''
+*[[CONCACAF Gold Cup]]: [[2017 CONCACAF Gold Cup|2017]],<ref>{{cite web|url=https://www.usatoday.com/story/sports/2017/07/27/usmnt-defeats-jamaica-win-concacaf-gold-cup/515273001/|title= U.S. men's national team defeats Jamaica to win CONCACAF Gold Cup|date=July 26, 2017|work=USA Today|accessdate=July 5, 2023}}</ref> [[2021 CONCACAF Gold Cup|2021]]<ref>{{cite web |url=https://www.espn.com/soccer/report/_/gameId/602722 |title=United States beats Mexico in Gold Cup final on late Miles Robinson header |work=[[ESPN]] |date=August 1, 2021 |access-date=April 25, 2023}}</ref>
+
+'''Individual'''
+*[[MLS All-Star Game|MLS All-Star]]: [[2021 MLS All-Star Game|2021]]
+*[[CONCACAF Champions League]] Best XI: [[2022 CONCACAF Champions League#Awards|2022]]<ref name="CCL-BestXI">{{cite news|date=May 6, 2022|title=Lodeiro, Dinenno headline 2022 SCCL Best XI|url=https://www.concacaf.com/en/champions-league/news/lodeiro-dinenno-headline-2022-sccl-best-xi/|access-date=May 6, 2022|publisher=CONCACAF}}</ref>
+*[[MLS Best XI]]: 2025<ref>{{Cite web |date=November 5, 2025 |title=2025 MLS Best XI |url=https://www.mlssoccer.com/news/2025-mls-best-xi |access-date=November 5, 2025 |website=[[Major League Soccer]]}}</ref>
+
+==See also==
+* [[List of Seattle Sounders FC players]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{MLS player|cristian-roldan}}
+*[https://www.soundersfc.com/players/70/cristian-roldan Sounders FC player profile]
+*[https://gohuskies.com/roster.aspx?rp_id=1180 Washington Huskies biography]
+*[https://www.youtube.com/watch?v=4tyoaxiNHg8 Adidas commercial featuring 10-year-old Roldan]
+
+{{Seattle Sounders FC squad}}
+{{Navboxes
+| title       = United States squads
+| bg          = white
+| fg          = #002868
+| bordercolor = #BF0A30
+| list1 =
+{{United States squad 2017 CONCACAF Gold Cup}}
+{{United States squad 2019 CONCACAF Gold Cup}}
+{{United States squad 2021 CONCACAF Gold Cup}}
+{{United States squad 2022 FIFA World Cup}}
+{{United States squad 2023 CONCACAF Gold Cup}}
+{{United States squad 2026 FIFA World Cup}}
+}}
+{{Navboxes
+| title = Awards
+| bg = gold
+| fg = navy
+| list1 =
+{{Gatorade National Soccer Player of the Year}}
+{{SoundersFirstPick}}
+{{2015 MLS SuperDraft}}
+{{2025 MLS Best XI}}
+}}
+
+{{DEFAULTSORT:Roldan, Cristian}}
+[[Category:1995 births]]
+[[Category:Living people]]
+[[Category:People from Pico Rivera, California]]
+[[Category:Soccer players from Los Angeles County, California]]
+[[Category:American people of Guatemalan descent]]
+[[Category:Sportspeople of Guatemalan descent]]
+[[Category:American men's soccer players]]
+[[Category:American people of Salvadoran descent]]
+[[Category:Sportspeople of Salvadoran descent]]
+[[Category:Men's association football midfielders]]
+[[Category:Washington Huskies men's soccer players]]
+[[Category:USL League Two players]]
+[[Category:Crossfire Redmond players]]
+[[Category:Major League Soccer players]]
+[[Category:Seattle Sounders FC draft picks]]
+[[Category:Seattle Sounders FC players]]
+[[Category:USL Championship players]]
+[[Category:Tacoma Defiance players]]
+[[Category:United States men's under-20 international soccer players]]
+[[Category:United States men's international soccer players]]
+[[Category:CONCACAF Gold Cup–winning players]]
+[[Category:2017 CONCACAF Gold Cup players]]
+[[Category:2019 CONCACAF Gold Cup players]]
+[[Category:2021 CONCACAF Gold Cup players]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:2023 CONCACAF Gold Cup players]]
+[[Category:2026 FIFA World Cup players]]
+[[Category:CONCACAF Champions Cup–winning players]]
+[[Category:21st-century American sportsmen]]

@@ -1,0 +1,36 @@
+===Current squad===
+The following 27 players were called up to the [[2026 FIFA World Cup]] and for the pre-tournament friendly matches against [[Chile national football team|Chile]] and [[Nigeria national football team|Nigeria]] on 6 and 10 June 2026, respectively.<ref>{{cite news |title=Convocatória para México e EUA|url=https://www.fpf.pt/pt/News/Todas-as-not%C3%ADcias/Not%C3%ADcia/news/55573|access-date=20 March 2026|publisher=Federação Portuguesa de Futebol|date=20 March 2026 |language=Portuguese}}</ref><ref>{{cite news |title=PAULINHO CONVOCADO|url=https://www.fpf.pt/pt/News/Todas-as-not%C3%ADcias/Not%C3%ADcia/news/55645|access-date=22 March 2026|publisher=Federação Portuguesa de Futebol|date=22 March 2026 |language=Portuguese}}</ref> [[Ricardo Velho]] is called up as a reserve player for the pre-tournament friendly matches.
+<br>''Caps and goals correct as of 6 June 2026, after the match against [[Chile national football team|Chile]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Diogo Costa]]|age={{bda|df=y|1999|9|19}}|caps=42|goals=0|club=[[FC Porto|Porto]]|clubnat=POR}}
+{{nat fs g player|no=12|pos=GK|name=[[José Sá]]|age={{bda|df=y|1993|1|17}}|caps=5|goals=0|club=[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]|clubnat=ENG}}
+{{nat fs g player|no=22|pos=GK|name=[[Rui Silva (footballer, born 1994)|Rui Silva]]|age={{bda|df=y|1994|2|7}}|caps=3|goals=0|club=[[Sporting CP]]|clubnat=POR}}
+{{nat fs g player|no=27|pos=GK|name=[[Ricardo Velho]]|age={{bda|df=y|1998|8|20}}|caps=1|goals=0|club=[[Gençlerbirliği S.K.|Gençlerbirliği]]|clubnat=TUR}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Nélson Semedo]]|age={{bda|df=y|1993|11|16}}|caps=49|goals=0|club=[[Fenerbahçe S.K. (football)|Fenerbahçe]]|clubnat=TUR}}
+{{nat fs g player|no=3|pos=DF|name=[[Rúben Dias]]|age={{bda|df=y|1997|5|14}}|caps=75|goals=3|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs g player|no=4|pos=DF|name=[[Tomás Araújo]]|age={{bda|df=y|2002|5|16}}|caps=4|goals=0|club=[[S.L. Benfica|Benfica]]|clubnat=POR}}
+{{nat fs g player|no=5|pos=DF|name=[[Diogo Dalot]]|age={{bda|df=y|1999|3|18}}|caps=34|goals=3|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs g player|no=13|pos=DF|name=[[Renato Veiga]]|age={{bda|df=y|2003|7|29}}|caps=12|goals=1|club=[[Villarreal CF|Villarreal]]|clubnat=ESP}}
+{{nat fs g player|no=14|pos=DF|name=[[Gonçalo Inácio]]|age={{bda|df=y|2001|8|25}}|caps=21|goals=2|club=[[Sporting CP]]|clubnat=POR}}
+{{nat fs g player|no=20|pos=DF|name=[[João Cancelo]]|age={{bda|df=y|1994|5|27}}|caps=67|goals=12|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs g player|no=25|pos=DF|name=[[Nuno Mendes (footballer, born 2002)|Nuno Mendes]]|age={{bda|df=y|2002|6|19}}|caps=43|goals=1|club=[[Paris Saint-Germain FC|Paris Saint-Germain]]|clubnat=FRA}}
+{{nat fs break}}
+{{nat fs g player|no=6|pos=MF|name=[[Matheus Nunes]]|age={{bda|df=y|1998|8|27}}|caps=19|goals=2|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs g player|no=8|pos=MF|name=[[Bruno Fernandes]]|age={{bda|df=y|1994|9|8}}|caps=88|goals=29|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs g player|no=10|pos=MF|name=[[Bernardo Silva]]|age={{bda|df=y|1994|8|10}}|caps=108|goals=14|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs g player|no=15|pos=MF|name=[[João Neves]]|age={{bda|2004|9|27|df=y}}|caps=21|goals=3|club=[[Paris Saint-Germain FC|Paris Saint-Germain]]|clubnat=FRA}}
+{{nat fs g player|no=21|pos=MF|name=[[Rúben Neves]]|age={{bda|df=y|1997|3|13}}|caps=66|goals=1|club=[[Al Hilal SFC|Al-Hilal]]|clubnat=KSA}}
+{{nat fs g player|no=23|pos=MF|name=[[Vitinha (footballer, born February 2000)|Vitinha]]|age={{bda|df=y|2000|2|13}}|caps=37|goals=0|club=[[Paris Saint-Germain FC|Paris Saint-Germain]]|clubnat=FRA}}
+{{nat fs g player|no=24|pos=MF|name=[[Samú Costa]]|age={{bda|df=y|2000|11|27}}|caps=5|goals=0|club=[[RCD Mallorca|Mallorca]]|clubnat=ESP}}
+{{nat fs break}}
+{{nat fs g player|no=7|pos=FW|name=[[Cristiano Ronaldo]]|age={{bda|df=y|1985|2|5}}|caps=227|goals=[[List of international goals scored by Cristiano Ronaldo|143]]|club=[[Al Nassr FC|Al-Nassr]]|clubnat=KSA|other=[[Captain (association football)|captain]]}}
+{{nat fs g player|no=9|pos=FW|name=[[Gonçalo Ramos]]|age={{bda|df=y|2001|6|20}}|caps=24|goals=10|club=[[Paris Saint-Germain FC|Paris Saint-Germain]]|clubnat=FRA}}
+{{nat fs g player|no=11|pos=FW|name=[[João Félix]]|age={{bda|df=y|1999|11|10}}|caps=53|goals=12|club=[[Al Nassr FC|Al-Nassr]]|clubnat=KSA}}
+{{nat fs g player|no=16|pos=FW|name=[[Francisco Trincão]]|age={{bda|df=y|1999|12|29}}|caps=17|goals=3|club=[[Sporting CP]]|clubnat=POR}}
+{{nat fs g player|no=17|pos=FW|name=[[Rafael Leão]]|age={{bda|df=y|1999|6|10}}|caps=44|goals=5|club=[[AC Milan|Milan]]|clubnat=ITA}}
+{{nat fs g player|no=18|pos=FW|name=[[Pedro Neto]]|age={{bda|df=y|2000|3|9}}|caps=24|goals=2|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs g player|no=19|pos=FW|name=[[Gonçalo Guedes]]|age={{bda|df=y|1996|11|29}}|caps=34|goals=8|club=[[Real Sociedad]]|clubnat=ESP}}
+{{nat fs g player|no=26|pos=FW|name=[[Francisco Conceição]]|age={{bda|df=y|2002|12|14}}|caps=16|goals=3|club=[[Juventus FC|Juventus]]|clubnat=ITA}}
+{{nat fs end}}

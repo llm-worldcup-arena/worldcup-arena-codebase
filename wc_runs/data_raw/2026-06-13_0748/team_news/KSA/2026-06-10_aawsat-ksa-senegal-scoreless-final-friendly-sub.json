@@ -1,0 +1,16 @@
+{
+ "team": "KSA",
+ "source": "Arab News",
+ "url": "https://www.arabnews.com/node/2646598/sport",
+ "title": "Saudi Arabia, Senegal play out scoreless draw in final World Cup friendly",
+ "news_date": "2026-06-10",
+ "published": "2026-06-10T19:26:25+03:00",
+ "tier": "3",
+ "lang": "en",
+ "asof": "2026-06-13",
+ "fetched": "2026-06-13_0748",
+ "method": "jsonld:articleBody",
+ "status": "ok",
+ "original_text": "SAN ANTONIO, Texas: SAN ANTONIO, Texas: Saudi ‌Arabia were held to a goalless draw against 10-man Senegal on Wednesday in the two ​teams’ final friendly before the start of the World Cup. \r\nGiorgos Donis, Saudi Arabia’s Greek coach, fielded a strong starting lineup in the first half before making 10 changes after the break. \r\nSenegal finished the match with 10 players after ‌forward Nicolas ‌Jackson was sent off ​in ‌the 84th ​minute for a second yellow card. \r\nSaudi Arabia produced an impressive performance in the opening stage, threatening goalkeeper Edouard Mendy’s goal on several occasions, most notably in the 10th minute when Musab Al-Juwayr went close following a clever pass from ‌captain Salem Al -Dawsari. \r\nSaudi goalkeeper Mohammed Al-​Owais comfortably saved ‌a header from Lamine Camara in the ‌14th minute. \r\nMohammed Abu Al-Shamat missed a chance to put Saudi Arabia ahead in the 30th minute when he headed over the ‌bar from close range. Senegal pressed hard in the closing stages of the first half but failed to seriously trouble Al-Owais. \r\nSubstitute Ayman Yahya unleashed a powerful long-range effort just after the hour mark that narrowly missed the right post. \r\nSaudi Arabia begin their World Cup Group H campaign against Uruguay on June 16 before facing Spain and Cape Verde. \r\nSenegal, meanwhile, open their Group I ​campaign against ​France before taking on Norway and Iraq.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

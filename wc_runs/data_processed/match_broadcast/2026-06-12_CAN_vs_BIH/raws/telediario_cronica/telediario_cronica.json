@@ -1,0 +1,24 @@
+{
+ "source": "Telediario MX(crónica)",
+ "url": "https://www.telediario.mx/deportes/futbol-internacional/canada-vs-bosnia-herzegovina-mundial-2026-cronica-quien-gano",
+ "title": "Canadá vs Bosnia Herzegovina Mundial 2026 | Crónica y quién ganó| Telediario México",
+ "published": null,
+ "tier": "3",
+ "lang": "es",
+ "match": {
+  "date": "2026-06-12",
+  "home": "CAN",
+  "away": "BIH",
+  "home_en": "Canada",
+  "away_en": "Bosnia and Herzegovina",
+  "home_zh": "加拿大",
+  "away_zh": "波黑",
+  "comp": "小组赛·B组",
+  "match_id": "M3",
+  "slug": "2026-06-12_CAN_vs_BIH"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "El debut de Canadá, coanfitrión del Mundial 2026, arrancó con la máxima intensidad que el libreto de Jesse Marsch suele prometer. Sin embargo, la pizarra se le desmoronó temprano al estratega norteamericano.\nCon la baja clave de su capitán Alphonso Davies en el once titular debido a una lesión, el conjunto canadiense careció de profundidad asfixiante por las bandas y lo pagó caro en las transiciones defensivas.\n¿Cómo se desarrolló el partido de la Selección de Canadá vs Bosnia?\nBosnia y Herzegovina, fiel a la veteranía de la escuela europea, aguantó los primeros arrancones locales y apostó por su recurso más letal: el balón parado.\nAl minuto 20, un córner perfecto ejecutado por Ivan Bašić encontró la complicidad de la zaga local; tras un desvío en el primer poste, el atacante Jovo Lukić definió de cabeza para decretar el 0-1 parcial y silenciar el Toronto Stadium.\nLukic, de 1,90 de estatura y 27 años, delantero del U Cluj rumano, aprovechó un balón que peinó su compañero Sead Kolasinac y anotó al ganarles en el salto a los defensores canadienses.\nTras recibir el gol de Jovo Lukić, la pausa de hidratación sirvió para que Canadá intentara reordenar sus líneas.\nLos canadienses se volcaron hacia el frente registrando un alto porcentaje de posesión, pero sus aproximaciones se tornaron estériles al toparse constantemente con el bloque bajo planteado por el estratega bosnio Sergej Barbarez.\nLa jugada clave para el empate estuvo en los botines de la estrella del Lille, Jonathan David.\nAl minuto 30, el ariete se encontró con un rebote de oro dentro del área chica, pero su remate rasante salió tibio a las manos del guardameta Nikola Vasilj.\nPosteriormente, un mano a mano desperdiciado por el mismo David y un tiro elevado de Tani Oluwaseyi sellaron la frustración de la fanaticada canadiense antes del pitazo del réferi Facundo Tello.\nEl gol canadiense fue obra de Cyle Larin a los 33 minutos del segundo tiempo. El delantero de 31 años, que juega en el Southampton inglés, recibió el balón dentro del área y sacó un remate potente a media altura que se le coló al portero bosnio por el palo derecho.\nLa Selección de Canadá no pudo celebrar un triunfo en su debut como coanfitriona del Mundial 2026 y pese a las ganas y a su juego voluntarioso solo empató 1-1 contra Bosnia y Herzegovina este jueves en el partido de apertura del Grupo B disputado en el estadio de Toronto.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

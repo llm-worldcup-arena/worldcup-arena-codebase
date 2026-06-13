@@ -1,0 +1,35 @@
+===Current squad===
+The following 26 players were called up to squad for the [[2026 FIFA World Cup]].<ref>{{cite instagram |user=fepafut |postid=DYzpoyaEUX8 |title=LOS 26🇵🇦❤️ |date=26 May 2026| access-date=26 May 2026 |language=es}}</ref>
+<br>''Caps and goals correct as of 6 June 2026, after the match against [[Bosnia and Herzegovina national football team|Bosnia and Herzegovina]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Luis Mejía]]|age={{birth date and age|df=yes|1991|3|16}}|caps=56|goals=0|club=[[Club Nacional de Football|Nacional]]|clubnat=URU}}
+{{nat fs g player|no=12|pos=GK|name=[[César Samudio]]|age={{birth date and age|df=yes|1994|3|26}}|caps=5|goals=0|club=[[C.D. Marathón|Marathón]]|clubnat=HON}}
+{{nat fs g player|no=22|pos=GK|name=[[Orlando Mosquera]]|age={{birth date and age|df=yes|1994|12|25}}|caps=48|goals=0|club=[[Al-Fayha FC|Al-Fayha]]|clubnat=KSA}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[César Blackman]]|age={{birth date and age|df=yes|1998|4|2}}|caps=40|goals=3|club=[[ŠK Slovan Bratislava|Slovan Bratislava]]|clubnat=SVK}}
+{{nat fs g player|no=3|pos=DF|name=[[José Córdoba]]|age={{birth date and age|df=yes|2001|6|3}}|caps=32|goals=1|club=[[Norwich City F.C.|Norwich City]]|clubnat=ENG}}
+{{nat fs g player|no=4|pos=DF|name=[[Fidel Escobar]]|age={{birth date and age|df=yes|1995|1|9}}|caps=99|goals=4|club=[[Deportivo Saprissa|Saprissa]]|clubnat=CRC}}
+{{nat fs g player|no=5|pos=DF|name=[[Edgardo Fariña]]|age={{birth date and age|df=yes|2001|9|21}}|caps=18|goals=0|club=[[FC Pari Nizhny Novgorod|Pari Nizhny Novgorod]]|clubnat=RUS}}
+{{nat fs g player|no=13|pos=DF|name=[[Jiovany Ramos]]|age={{birth date and age|df=yes|1997|1|26}}|caps=23|goals=2|club=[[Academia Puerto Cabello|Puerto Cabello]]|clubnat=VEN}}
+{{nat fs g player|no=15|pos=DF|name=[[Eric Davis (Panamanian footballer)|Eric Davis]]|age={{birth date and age|df=yes|1991|3|31}}|caps=107|goals=9|club=[[C.D. Plaza Amador|Plaza Amador]]|clubnat=PAN}}
+{{nat fs g player|no=16|pos=DF|name=[[Andrés Andrade (footballer, born 1998)|Andrés Andrade]]|age={{birth date and age|df=yes|1998|10|16}}|caps=50|goals=1|club=[[LASK]]|clubnat=AUT}}
+{{nat fs g player|no=23|pos=DF|name=[[Michael Amir Murillo|Amir Murillo]]|age={{birth date and age|df=yes|1996|2|11}}|caps=94|goals=9|club=[[Beşiktaş J.K.|Beşiktaş]]|clubnat=TUR}}
+{{nat fs g player|no=25|pos=DF|name=[[Roderick Miller (footballer)|Roderick Miller]]|age={{birth date and age|df=yes|1992|4|3}}|caps=50|goals=2|club=[[Turan Tovuz]]|clubnat=AZE}}
+{{nat fs g player|no=26|pos=DF|name=[[Jorge Gutiérrez (footballer)|Jorge Gutiérrez]]|age={{birth date and age|df=yes|1998|9|1}}|caps=18|goals=0|club=[[Deportivo La Guaira F.C.|Deportivo La Guaira]]|clubnat=VEN}}
+{{nat fs break}}
+{{nat fs g player|no=6|pos=MF|name=[[Cristian Martínez (Panamanian footballer)|Cristian Martínez]]|age={{birth date and age|df=yes|1997|2|6}}|caps=66|goals=2|club=[[Hapoel Ironi Kiryat Shmona F.C.|Ironi Kiryat Shmona]]|clubnat=ISR}}
+{{nat fs g player|no=7|pos=MF|name=[[José Luis Rodríguez (footballer, born 1998)|José Luis Rodríguez]]|age={{birth date and age|df=yes|1998|6|19}}|caps=70|goals=8|club=[[FC Juárez|Juárez]]|clubnat=MEX}}
+{{nat fs g player|no=8|pos=MF|name=[[Adalberto Carrasquilla]]|age={{birth date and age|df=yes|1998|11|28}}|caps=73|goals=3|club=[[Pumas UNAM|UNAM]]|clubnat=MEX}}
+{{nat fs g player|no=10|pos=MF|name=[[Ismael Díaz (footballer, born 1997)|Ismael Díaz]]|age={{birth date and age|df=yes|1997|5|12}}|caps=57|goals=17|club=[[Club León|León]]|clubnat=MEX}}
+{{nat fs g player|no=11|pos=MF|name=[[Yoel Bárcenas]]|age={{birth date and age|df=yes|1993|10|23}}|caps=104|goals=10|club=[[Free agent|''Unattached'']]|clubnat=}}
+{{nat fs g player|no=14|pos=MF|name=[[Carlos Harvey]]|age={{birth date and age|df=yes|2000|2|3}}|caps=28|goals=3|club=[[Minnesota United FC|Minnesota United]]|clubnat=USA}}
+{{nat fs g player|no=19|pos=MF|name=[[Alberto Quintero (footballer)|Alberto Quintero]]|age={{birth date and age|df=yes|1987|12|18}}|caps=141|goals=7|club=[[C.D. Plaza Amador|Plaza Amador]]|clubnat=PAN}}
+{{nat fs g player|no=20|pos=MF|name=[[Aníbal Godoy]]|other=[[Captain (association football)|captain]]|age={{birth date and age|df=yes|1990|2|10}}|caps=159|goals=4|club=[[San Diego FC|San Diego]]|clubnat=USA}}
+{{nat fs g player|no=21|pos=MF|name=[[César Yanis]]|age={{birth date and age|df=yes|1996|1|28}}|caps=56|goals=5|club=[[Cobresal]]|clubnat=CHI}}
+{{nat fs break}}
+{{nat fs g player|no=9|pos=FW|name=[[Tomás Rodríguez (Panamanian footballer)|Tomás Rodríguez]]|age={{birth date and age|df=yes|1999|3|9}}|caps=13|goals=4|club=[[Deportivo Saprissa|Saprissa]]|clubnat=CRC}}
+{{nat fs g player|no=17|pos=FW|name=[[José Fajardo (footballer)|José Fajardo]]|age={{birth date and age|df=yes|1993|8|18}}|caps=68|goals=17|club=[[C.D. Universidad Católica del Ecuador|Universidad Católica]]|clubnat=ECU}}
+{{nat fs g player|no=18|pos=FW|name=[[Cecilio Waterman]]|age={{birth date and age|df=yes|1991|4|13}}|caps=55|goals=15|club=[[C.D. Universidad de Concepción|Universidad de Concepción]]|clubnat=CHI}}
+{{nat fs g player|no=24|pos=FW|name=[[Azarias Londoño]]|age={{birth date and age|df=yes|2001|6|21}}|caps=11|goals=0|club=[[C.D. Universidad Católica del Ecuador|Universidad Católica]]|clubnat=ECU}}
+{{nat fs end}}

@@ -1,0 +1,17 @@
+{
+ "match": {
+  "slug": "2026-06-11_KOR_vs_CZE",
+  "date": "2026-06-11",
+  "home": "KOR",
+  "away": "CZE",
+  "round": "group",
+  "group": "A"
+ },
+ "referee": {
+  "name": "Amin Mohamed(埃及)",
+  "source": "WebSearch多源(Athlon/Bolavip;全埃及裁判组)",
+  "fetched": "2026-06-13_0748"
+ },
+ "brief": "- **信息核实**：名为\"Amin Mohamed\"的埃及主裁在我知识库中无确切记录，无法确认其具体身份与执法数据。\n\n- **埃及裁判特征**：埃及现役FIFA国际级裁判主要包括Gehad Grisha（执法2018世界杯、多届非洲杯）与Ibrahim Nour El Din（2022世界杯第四官员），风格偏向严格，大赛出牌率较高。\n\n- **核实建议**：建议通过FIFA官方渠道核实该裁判完整信息，以确保获取准确执罚资料。",
+ "_note": "裁判=比赛层人员数据,与教练同规格;从 match_env 迁出独立成仓库(2026-06-13)。"
+}

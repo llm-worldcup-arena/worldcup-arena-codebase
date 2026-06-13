@@ -1,0 +1,131 @@
+{{Short description|Cape Verdeanfootballer (born 2000)}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+| name           = Hélio Varela
+| image          =
+| fullname       = Hélio Sandro Oliveira Alves Varela
+| birth_date     = {{birth date and age|2002|5|3|df=yes}}
+| birth_place    = [[Almada]], Portugal
+| height         = 1.76 m
+| position       = [[Winger (association football)|Winger]]
+| currentclub    = [[Maccabi Tel Aviv F.C.|Maccabi Tel Aviv]]
+| clubnumber     = 29
+| youthyears1    = 2010–2012 | youthclubs1 = Monte Caparica
+| youthyears2    = 2012–2014 | youthclubs2 = Charneca Caparica
+| youthyears3    = 2014–2018 | youthclubs3 = [[Vitória F.C.|Vitória Setúbal]]
+| youthyears4    = 2018–2020 | youthclubs4 = [[C.D. Cova da Piedade|Cova da Piedade]]
+| years1         = 2020–2021 | clubs1 = [[Amora F.C.|Amora]]                       | caps1 = 8  | goals1 = 0
+| years2         = 2021–2022 | clubs2 = [[S.U. Sintrense|Sintrense]]               | caps2 = 26 | goals2 = 5
+| years3         = 2022–2024 | clubs3 = [[Portimonense S.C.|Portimonense]]         | caps3 = 34 | goals3 = 6
+| years4         = 2024–2025 | clubs4 = [[K.A.A. Gent|Gent]]                       | caps4 = 13 | goals4 = 0
+| years5         = 2025–     | clubs5 = [[Maccabi Tel Aviv F.C.|Maccabi Tel Aviv]] | caps5 = 23 | goals5 = 3
+| nationalyears1 = 2023–
+| nationalteam1  = [[Cape Verde national football team|Cape Verde]]
+| nationalcaps1  = 11
+| nationalgoals1 = 0
+| pcupdate       = 21:28, 9 August 2025 (UTC)
+| ntupdate       = 18:11, 18 October 2024 (UTC)
+}}
+
+'''Hélio Sandro Oliveira Alves Varela''' ({{IPA|pt|ˈɛ.li.u ˈsɐ̃.dɾu o.li.ˈvej.ɾɐ ˈal.vɨʒ vɐ.ˈɾɛ.lɐ|lang}}; born 3 May 2002) is a Cape Verdean professional [[Association football|footballer]] who plays as a [[Winger (association football)|winger]] for [[Israeli Premier League]] club [[Maccabi Tel Aviv F.C.|Maccabi Tel Aviv]]. Born in Portugal, Varela plays for the [[Cape Verde national football team|Cape Verde national team]].
+
+==Club career==
+Varela is a youth product of Monte Caparica, Charneca Caparica, [[Vitória F.C.|Vitória Setúbal]] and [[C.D. Cova da Piedade|Cova da Piedade]]. He began his senior career with [[Amora F.C.|Amora]] in 2020, before joining [[S.U. Sintrense|Sintrense]] for the 2021–22 [[Liga 3 (Portugal)|Liga 3]] season.<ref>{{Cite web|url=https://www.ojogo.pt/futebol/liga-3/noticias/liga-3-esta-mais-perto-da-ii-liga-do-que-do-campeonato-de-portugal-14024179.html|title="Liga 3 está mais perto da II Liga do que do Campeonato de Portugal"|date=August 11, 2021|website=www.ojogo.pt}}</ref> He moved to the reserves of [[Portimonense S.C.|Portimonense]] in the summer of 2022. He made his professional debut with them in a 0–0 (5–4) [[Taça da Liga]] penalty shootout loss to [[Leixões S.C.|Leixões]] on 30 July 2023.<ref>{{Cite web|url=https://desporto.sapo.pt/futebol/jogo/leixoes-sc-vs-portimonense-767913|title=Leixões SC vs Portimonense|website=SAPO Desporto}}</ref> He scored his first league goal in a 1–1 [[Primeira Liga]] tie with [[F.C. Arouca|Arouca]] on 26 August 2023.<ref>{{Cite web|url=https://www.noticiasaominuto.com/desporto/2387616/nasce-de-um-lancamento-lateral-helio-varela-adianta-assim-o-portimonense|title=Nasce de um lançamento lateral. Hélio Varela adianta assim o Portimonense|date=August 26, 2023|website=Notícias ao Minuto}}</ref>
+
+On 16 August 2024, Varela joined [[K.A.A. Gent|Gent]].<ref>{{Cite web|url= https://www.kaagent.be/nl/nieuws/16-08-2024/helio-varela-versterkt-aanval-van-kaa-gent|title=Helio Varela versterkt aanval van KAA Gent|date=August 16, 2024|publisher= K.A.A. Gent|language=nl}}</ref> On 30 October, Varela made his debut with Gent in the [[Croky Cup]] against [[Union Rochefortoise]], he immediately scored 2 goals.
+
+==International career==
+Born in Portugal, Varela is of Cape Verdean descent. He was called up to the [[Cape Verde national football team|Cape Verde national team]] for a set of friendlies in October 2023.<ref>{{Cite web|url=https://www.abola.pt/futebol/noticias/portimonense-helio-varela-em-estreia-na-selecao-de-cabo-verde-2023100516265875466|title=Portimonense: Hélio Varela em estreia na seleção de Cabo Verde &#124; Abola.pt|date=October 5, 2023|website=Abola.pt}}</ref> He debuted with Cape Verde as a substitute in a 5–1 friendly loss to [[Algeria national football team|Algeria]] on 12 October 2023.<ref>{{Cite web|url=https://www.abola.pt/futebol/noticias/portimonense-primeira-internacionalizacao-para-helio-varela-2023101221281387569|title=Portimonense: primeira internacionalização para Hélio Varela &#124; Abola.pt|date=October 12, 2023|website=Abola.pt}}</ref>
+
+==Career statistics==
+{{updated|match played 9 August 2025}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup
+!colspan="2"|League cup
+!colspan="2"|Europe
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|[[Amora F.C.|Amora]]
+|[[2020–21 Campeonato de Portugal|2020–21]]
+|[[Campeonato de Portugal (league)|Campeonato de Portugal]]
+|8||0||1||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||9||0
+|-
+|[[S.U. Sintrense|Sintrense]]
+|[[2021–22 Campeonato de Portugal|2021–22]]
+|Campeonato de Portugal
+|26||5||1||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||27||5
+|-
+|rowspan="3"|[[Portimonense S.C.|Portimonense]]
+|[[2023–24 Portimonense S.C. season|2023–24]]
+|[[Primeira Liga]]
+|33||6||1||0||1||0||colspan="2"|—||2{{efn|Appearances in relegation play-offs}}||0||37||6
+|-
+|[[2023–24 Portimonense S.C. season|2023–24]]
+|[[Liga Portugal 2]]
+|1||0||0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||1||0
+|-
+!colspan="2"|Total
+!34!!6!!1!!0!!1!!0!!colspan="2"|—!!2!!0!!38!!6
+|-
+|rowspan="3"|[[K.A.A. Gent|Gent]]
+|[[2024–25 K.A.A. Gent season|2024–25]]
+|[[Belgian Pro League]]
+|10||0||1||2||colspan="2"|—||4{{efn|Appearances in [[UEFA Conference League]]}}||0||colspan="2"|—||15||2
+|-
+|[[2025–26 Belgian Pro League|2025–26]]
+|Belgian Pro League
+|3||0||0||0||colspan="2"|—||0||0||colspan="2"|—||3||0
+|-
+!colspan="2"|Total
+!13!!0!!1!!2!!colspan="2"|—!!4!!0!!colspan="2"|—!!18!!2
+|-
+!colspan="3"|Career total
+!81!!10!!4!!2!!1!!0!!4!!0!!2!!0!!90!!12
+|}
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Soccerway|helio-sandro-oliveira-alves-varela/681011}}
+* {{BDFutbol|58810}}
+* {{NFT|92496}}
+
+{{Maccabi Tel Aviv F.C. squad}}
+{{Cape Verde squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Varela, Helio}}
+[[Category:2002 births]]
+[[Category:Living people]]
+[[Category:Footballers from Almada]]
+[[Category:Cape Verdean men's footballers]]
+[[Category:21st-century Cape Verdean sportsmen]]
+[[Category:Men's association football wingers]]
+[[Category:Cape Verde men's international footballers]]
+[[Category:Portuguese men's footballers]]
+[[Category:Portuguese people of Cape Verdean descent]]
+[[Category:Sportspeople of Cape Verdean descent]]
+[[Category:Amora F.C. players]]
+[[Category:S.U. Sintrense players]]
+[[Category:Portimonense S.C. players]]
+[[Category:KAA Gent players]]
+[[Category:Maccabi Tel Aviv F.C. players]]
+[[Category:Primeira Liga players]]
+[[Category:Liga 3 (Portugal) players]]
+[[Category:Cape Verdean expatriate men's footballers]]
+[[Category:Expatriate men's footballers in Belgium]]
+[[Category:Cape Verdean expatriate sportspeople in Belgium]]
+[[Category:Expatriate men's footballers in Israel]]
+[[Category:Cape Verdean expatriate sportspeople in Israel]]
+[[Category:21st-century Portuguese sportsmen]]
+[[Category:2026 FIFA World Cup players]]

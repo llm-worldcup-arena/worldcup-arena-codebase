@@ -1,0 +1,150 @@
+{{short description|Swedish footballer (born 2002)}}
+{{Use dmy dates|date=August 2024}}
+{{Infobox football biography
+| name        = Elliot Stroud
+| fullname    = Elliot Karl Stroud
+| image       = 
+| birth_date  = {{birth date and age|2002|6|22|df=y}}
+| birth_place = 
+| height      = 1.80 m<ref name=FT>{{Cite web|url=https://fotbolltransfers.com/spelare/elliot-stroud/9806|title=Elliot Stroud|website=Fotbolltransfers|language=sv|access-date=9 October 2023}}</ref>
+| currentclub = [[Mjällby AIF]]
+| clubnumber  = 17
+| position    = [[Left-Back (association football)|Left-Back, Wing Back]]
+| youthyears1 = 
+| youthclubs1 = [[IK Oddevold]]
+| years1 = 2019–2022
+| clubs1 = [[IK Oddevold]]
+| caps1 = 72
+| goals1 = 16
+| years2 = 2023–
+| clubs2 = [[Mjällby AIF]]
+| caps2 = 84
+| goals2 = 19
+| nationalyears1 = 2026–
+| nationalteam1 = [[Sweden men's national football team|Sweden]]
+| nationalcaps1 = 1
+| nationalgoals1 = 0
+| pcupdate = 11 May 2026
+| ntupdate = 19:52, 4 June 2026 (UTC)
+}}
+
+'''Elliot Karl Stroud''' (born 22 June 2002) is a Swedish professional [[Association football|footballer]] who plays as a midfielder for [[Allsvenskan]] club [[Mjällby AIF]]<ref name="SW">{{soccerway|elliot-stroud/615454|access-date=9 October 2023}}</ref> and the [[Sweden men's national football team|Sweden national team]].
+
+==Club career==
+Stroud started his youth career in [[IK Oddevold]], joining the senior team in 2019. The club then suffered relegation to [[Division 2 (Swedish football)|Division 2]], the fourth tier of Swedish football, but bounced back to compete in the [[2022 Ettan]].<ref name=FT/><ref name=SW/> ''[[Expressen]]'' named Stroud as Oddevold's talent to watch out for in 2022.<ref>{{cite news|url=https://www.expressen.se/sport/fotboll/ettan/en-kopia-av-james-milner-i-liverpool/|author=Lund, Oskar|title="En kopia av James Milner i Liverpool"|date=1 April 2022|work=Expressen|language=sv|access-date=9 October 2023}}</ref> ''[[Aftonbladet]]'' included him on their top 30 list in the division, regardless of age.<ref>{{cite news|url=https://www.aftonbladet.se/sportbladet/fotboll/a/4oo6AG/30-basta-spelarna-i-ettan-fotbollen-2022-han-ar-bast|title=Rankar: 30 bästa spelarna i division 1-fotbollen 2022|date=29 October 2022 |language=sv|access-date=11 October 2023}}</ref>
+
+Following a good season, Stroud had several offers from clubs higher in the division system.<ref>{{cite news|url=https://www.bohuslaningen.se/sport/fotboll/oddevolds-elliot-stroud-om-framtiden-ett-viktigt-beslut-som-far-ta-tid.b2e64cec-ec5d-47e3-ae25-07f4fb4007e5|title=Oddevolds Elliot Stroud om framtiden: "Ett viktigt beslut som får ta tid"|work=Bohusläningen|date=|language=sv|access-date=9 October 2023}}</ref> He chose [[Mjällby AIF]] and signed a contract until 2025.<ref>{{cite news|url=https://www.fotbollskanalen.se/allsvenskan/klart-stroud-till-mjallby/|title=Klart: Stroud till Mjällby|date=8 December 2022|author=Billengren, Ludwig|publisher=Fotbollskanalen|language=sv|access-date=9 October 2023}}</ref> He made his [[Allsvenskan]] debut in April 2023 against [[Degerfors IF|Degerfors]].<ref name=SW/>
+
+==International career==
+In March 2026, Stroud received his first call-up to the [[Sweden men's national football team|Sweden national team]] for the [[2026 FIFA World Cup qualification – UEFA second round|2026 FIFA World Cup qualification second round]] games against [[Ukraine national football team|Ukraine]] and [[Poland national football team|Poland]].<ref>{{cite web|url=https://www.svenskfotboll.se/nyheter/landslag/2026/03/herrtrupp-playoff/|title=God mix i Graham Potters marstrupp|trans-title=Good mix in Graham Potter's march squad|language=Swedish|publisher=[[Swedish Football Association]]|date=18 March 2025|access-date=18 March 2025}}</ref> On 12 May 2026, he was named in the Sweden squad for the [[2026 FIFA World Cup]].<ref>{{Cite web |date=2026-05-12 |title=Mystiskt inlägg efter petningen |url=https://www.expressen.se/sport/fotboll/landslaget/har-ar-sveriges-trupp-till-fotbolls-vm-2026/ |access-date=2026-05-15 |website=www.expressen.se |language=sv}}</ref> Stroud made his full international debut for Sweden on 4 June 2026 in a [[Friendly game|friendly]] 2–2 draw with [[Greece national football team|Greece]], replacing [[Gabriel Gudmundsson]] in the 66th minute.<ref>{{Cite web |title=Sweden vs. Greece |url=https://www.svenskfotboll.se/matchfakta/sverige-grekland-landskamper-herr-senior/6822861/ |website=SvFF}}</ref>
+
+==Personal life==
+Stroud's brother Adam is also a professional footballer who plays for [[IF Brommapojkarna|Brommapojkarna]].<ref>{{cite web|url=https://www.sverigesradio.se/artikel/tva-broder-stroud-i-allsvenskan-kommer-ta-hjalp-av-brorsan|title=Två bröder Stroud i allsvenskan: ”Kommer ta hjälp av brorsan”|website=sverigesradio.se|date=21 June 2025|accessdate=25 March 2026|language=Swedish}}</ref> The pair have an English father.<ref>{{cite web|url=https://fotbolldirekt.se/silly-season/avslojar-nya-intresset-for-stroud-och-guldbiljetten-till-england/|title=AVSLÖJAR: Nya intresset för Stroud – och ”guldbiljetten” till England|website=fotbolldirekt.se|date=4 November 2025|accessdate=25 March 2026|language=Swedish}}</ref>
+
+== Career statistics ==
+{{updated|match played 18 April 2026}}<ref>{{Soccerway|new_id=stroud-elliot/4rVMk5Sb|accessdate=17 November 2025}}</ref><ref>{{Cite web |title=Elliot Stroud - Player statistics - Swedish football |url=https://www.svenskfotboll.se/spelarfakta/elliot-stroud/61378432-a5be-4640-b950-b76e6350b184/ |access-date=2025-11-17 |website=www.svenskfotboll.se |language=sv}}</ref>
+
+=== Club ===
+{| class="wikitable" style="text-align: center"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup{{efn|Includes [[Svenska Cupen]]}}
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="5"|[[IK Oddevold]]
+|[[2019 Division 1 (Swedish football)|2019]]
+|[[Ettan Fotboll|Division 1]]
+|9||0||colspan="2"|—||9||0
+|-
+|[[2020 Swedish football division 2|2020]]
+|[[Swedish football division 2|Division 2]]
+|11||3||colspan="2"|—||11||3
+|-
+|2021
+|Division 2
+|24||7||2||1||26||8
+|-
+|2022
+|Division 1
+|28||6||colspan="2"|—||28||6
+|-
+!colspan="2"|Total
+!72!!16!!2!!1!!74!!17
+|-
+|rowspan="5"|[[Mjällby AIF]]
+|[[2023 Allsvenskan|2023]]
+|[[Allsvenskan]]
+|20||0||4||0||24||0
+|-
+|[[2024 Allsvenskan|2024]]
+|Allsvenskan
+|29||7||4||1||33||8
+|-
+|[[2025 Allsvenskan|2025]]
+|Allsvenskan
+|28||10||5||2||33||12
+|-
+|[[2026 Allsvenskan|2026]]
+|Allsvenskan
+|3||0||5||3||8||3
+|-
+!colspan="2"|Total
+!80!!17!!18!!6!!98!!23
+|-
+!colspan="3"|Career total
+!152!!33!!20!!7!!172!!40
+|}
+{{notelist}}
+
+=== International ===
+{| class="wikitable" style="text-align:center"
+|+Appearances and goals by national team and year
+!National team
+!Year
+!Apps
+!Goals
+|-
+|[[Sweden men's national football team|Sweden]]
+|2026
+|1
+|0
+|-
+! colspan="2" |Total
+!1
+!0
+|}
+
+== Honours ==
+'''Mjällby IF'''
+
+* [[Allsvenskan]]: [[2025 Allsvenskan|2025]]<ref>{{Cite web |date=2025-10-20 |title=Mjällby vinner Allsvenskan 2025 |url=https://www.svenskfotboll.se/nyheter/serier/2025/10/mjallby-vinner-allsvenskan/ |access-date=2025-11-14 |website=www.svenskfotboll.se |language=sv}}</ref>
+* [[Svenska Cupen]]: [[2025–26 Svenska Cupen|2025–26]]<ref>{{Cite web |date=2026-05-14 |title=Mjällby 20:e vinnaren av Svenska Cupen |url=https://www.svenskfotboll.se/nyheter/cuper/2026/05/svc-herr-maif-hif/ |access-date=2026-05-20 |website=www.svenskfotboll.se |language=sv}}</ref>
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{Soccerway|new_id=stroud-elliot/4rVMk5Sb|id=elliot-stroud/615454|archive=20241113144416}}
+
+{{Mjällby AIF squad}}
+{{Sweden squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Stroud, Elliot}}
+[[Category:2002 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Uddevalla Municipality]]
+[[Category:Swedish men's footballers]]
+[[Category:Sweden men's international footballers]]
+[[Category:Men's association football midfielders]]
+[[Category:IK Oddevold players]]
+[[Category:Mjällby AIF players]]
+[[Category:Ettan Fotboll players]]
+[[Category:Allsvenskan players]]
+[[Category:21st-century Swedish sportsmen]]
+[[Category:Swedish people of English descent]]
+[[Category:Sportspeople of English descent]]
+[[Category:2026 FIFA World Cup players]]

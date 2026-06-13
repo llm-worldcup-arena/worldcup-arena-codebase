@@ -1,0 +1,62 @@
+[
+ {
+  "player_id": "1138089",
+  "profile_url": "https://www.transfermarkt.com/santiago-beltran/profil/spieler/1138089",
+  "full_name": "Santiago Beltrán",
+  "display_name": "Santiago Beltrán",
+  "short_name": "S. Beltrán",
+  "nickname": "",
+  "date_of_birth": "2004-10-04",
+  "age": 21,
+  "place_of_birth": "Palermo",
+  "country_of_birth": "Argentina",
+  "nationality": [
+   "Argentina"
+  ],
+  "gender": "male",
+  "position": "Goalkeeper",
+  "position_category": "Goalkeeper",
+  "foot": "left",
+  "height_cm": 191,
+  "current_club": "CA River Plate",
+  "current_club_id": "209",
+  "current_competition": "Torneo Clausura",
+  "current_competition_code": "ARGC",
+  "shirt_number": 41,
+  "is_captain": false,
+  "contract_until": "2027-12-31",
+  "last_contract_renewal": "",
+  "market_value_eur": 9000000,
+  "market_value_currency": "EUR",
+  "market_value_determined": "2026-05-22",
+  "previous_market_value_eur": 1500000,
+  "highest_market_value_eur": 9000000,
+  "highest_market_value_determined": "2026-05-22",
+  "market_value_history": [
+   "0 | CA River Plate | EUR 1.50M",
+   "0 | CA River Plate | EUR 9.00M"
+  ],
+  "agent": "",
+  "agency": "Universal Twenty Two",
+  "agency_id": "2722",
+  "youth_clubs": [],
+  "career_history": [
+   "CA River Plate U20 -> CA River Plate II | 2023-01-01 | - | 22/23",
+   "CA River Plate II -> CA River Plate | 2025-01-01 | - | 24/25"
+  ],
+  "total_transfer_fees_eur": 0,
+  "international_team": "",
+  "international_caps": 0,
+  "international_goals": 0,
+  "national_team_history": [
+   "Argentina | 1 apps | 0 goals | RECENT_NATIONAL_PLAYER"
+  ],
+  "injuries": [],
+  "suspensions": [
+   "2026-05-09 to 2026-05-22 | Red card suspension | 1 game",
+   "2025-10-06 to 2025-10-16 | Called up to national team | 2 games"
+  ],
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/big/1138089-1762437740.png",
+  "scraped_at": "2026-06-08T18:05:38.223Z"
+ }
+]

@@ -1,0 +1,27 @@
+{
+ "team": "FRA",
+ "coach": {
+  "name_zh": "迪迪埃·德尚",
+  "name_en": "Didier Deschamps",
+  "nationality": "France",
+  "career_since": "2001",
+  "person_id": "per_didier_deschamps"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 迪迪埃·德尚（Didier Deschamps），法国籍，2001年开启执教生涯，现任法国国家队主教练，正带队备战2026年世界杯。\n- 球员健康管理上，公开缓解外界对萨利巴背伤的担忧，确认其可出战并强调医疗团队全程监控，该球员已带伤踢满欧冠决赛120分钟。\n- 战术安排方面，计划让欧冠决赛后获得额外休整的登贝莱在6月8日对阵北爱尔兰的热身赛中首发出场，以恢复比赛节奏。\n- 球队内部面临形象权争议，姆巴佩与切尔基等球星不满法国足协与博彩公司合作使用其肖像，德尚需在场外因素中维持球队专注度。\n- 大赛压力层面，2002年世界杯首战负于塞内加尔的阴影仍在，2026年小组赛再战该队，德尚力求避免历史重演。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.75,
+  "issues": [
+   "部分背景信息冗余",
+   "热身赛信息预测价值有限"
+  ]
+ },
+ "brief_fetched": "2026-06-13_1138",
+ "brief_info_chars": 6000
+}

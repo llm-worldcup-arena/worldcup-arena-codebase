@@ -1,0 +1,77 @@
+{{short description|Algerian footballer (born 2003)}}
+{{Use dmy dates|date=June 2026}}
+{{Infobox football biography
+| name = Yacine Titraoui
+| fullname = Yacine Mohamed El Ghazali Titraoui
+| birth_date = {{Birth date and age|2003|8|26|df=y}}<ref name="FIFA Arab 2021">{{cite web |url=https://fdp.fifa.org/assetspublic/ce14/pdf/SquadLists-English.pdf |title=FIFA Arab Cup Qatar 2021: List of players: Algeria |publisher=[[FIFA]] |page=1 |date=4 December 2021 |access-date=12 December 2022}}</ref>
+| birth_place = [[M'Sila, Algeria]]
+| death_date = 
+| death_place = 
+| height = 1.71 m<ref name="FIFA Arab 2021"/>
+| position = [[midfielder (association football)|Midfielder]]
+| currentclub = [[Royal Charleroi S.C.|Charleroi]]
+| clubnumber = 22
+| youthyears1 = 
+| youthclubs1 = [[Paradou AC]]
+| years1 = 2021–2024 | clubs1 = [[Paradou AC]]                     | caps1 = 85 | goals1 = 13
+| years2 = 2024–     | clubs2 = [[Royal Charleroi S.C.|Charleroi]] | caps2 = 66 | goals2 =  7
+| nationalyears1 = 2020
+| nationalteam1 = [[Algeria national under-20 football team|Algeria U20]]
+| nationalcaps1 = 7
+| nationalgoals1 = 0
+| nationalyears2 = 2021–
+| nationalteam2 = [[Algeria national football team|Algeria]]
+| nationalcaps2 = 3
+| nationalgoals2 = 0
+| club-update = 1 June 2026
+| nationalteam-update = 10:15, 26 February 2026 (UTC)
+| medaltemplates = {{MedalSport|Men's [[association football|football]]}}
+{{MedalCountry|{{fb|ALG}}}}
+{{MedalCompetition|[[FIFA Arab Cup]]}}
+{{Medal|W|[[2021 FIFA Arab Cup|2021 Qatar]]|}}
+}}
+'''Yacine Mohamed El Ghazali Titraoui''' ({{langx|ar|ياسين محمد الغزالي تيطراوي}}; born 26 August 2003) is an Algerian professional [[association football|footballer]] who plays as a [[midfielder]] for Belgian club [[Royal Charleroi S.C.|Charleroi]] and the [[Algeria national football team|Algeria national team]].<ref name=":0">{{Soccerway|id=yacine-titraoui/760532|accessdate=8 December 2021}}</ref>
+
+== Club career ==
+Titraoui made his professional debut for [[Paradou AC]] on 9 August 2021, replacing [[Djaber Kaassis|Kaassis]] in a 2–1 [[Algerian Ligue Professionnelle 1|Ligue Professionnelle 1]] away loss against [[USM Alger]].<ref name=":0" />
+
+On 12 July 2024, Titraoui signed with [[Royal Charleroi S.C.|Charleroi]] in Belgium for three seasons, with an optional fourth.<ref>{{cite web|publisher=Charleroi|url=https://www.sporting-charleroi.be/news/yacine-titraoui-est-zebre/|title=Yacine Titraoui est Zèbre !|trans-title=Yacine Titraoui is a Zebra!|date=12 July 2024|access-date=2 August 2024|language=fr}}</ref>
+
+== International career ==
+Already an [[Algeria national under-20 football team|under-20 international]] with Algeria, Titraoui was selected to the [[Algeria national football team|senior squad]] by [[Madjid Bougherra]] in November 2021, to take part in the [[FIFA Arab Cup]].<ref>{{Cite web|last=Tigrine|first=Merzak|date=26 November 2021|title=Coupe arabe des Nations FIFA Algérie/ Madjid Bougherra appelle Yacine Titraoui en renfort|url=https://africafootunited.com/coupe-arabe-des-nations-fifa-algerie-madjid-bougherra-appelle-yacine-titraoui-en-renfort/|access-date=8 December 2021|website=Africa Foot United|language=fr-FR}}{{Dead link|date=December 2025 |bot=InternetArchiveBot }}</ref><ref>{{Cite news|last=Pelard|first=Renaud|date=26 November 2021|title=Coupe Arabe. L'Algérie dévoile ses 23 joueurs sélectionnés|url=https://www.ouest-france.fr/sport/football/equipe-algerie/coupe-arabe-l-algerie-devoile-ses-23-joueurs-selectionnes-e8b4419c-4eca-11ec-a154-8043ea2ede2d|access-date=8 December 2021|website=[[Ouest-France]]}}</ref>
+
+==Honours==
+'''Algeria'''
+*[[FIFA Arab Cup]]: [[2021 FIFA Arab Cup|2021]]<ref>{{Cite web|title=Algeria beat Tunisia to win FIFA Arab Cup 2021|url=https://www.aljazeera.com/sports/2021/12/18/algeria-beat-tunisia-to-win-fifa-arab-cup-2021|access-date=18 December 2021|website=www.aljazeera.com|language=en}}</ref>
+
+== References ==
+{{reflist}}
+
+==External links==
+*{{Soccerway|yacine-titraoui/760532}}
+*{{NFT_player|84800}}
+
+{{R. Charleroi S.C. squad}}
+{{Algeria squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Titraoui, Yacine}}
+[[Category:2003 births]]
+[[Category:Living people]]
+[[Category:Algerian men's footballers]]
+[[Category:Algeria men's youth international footballers]]
+[[Category:Algeria men's under-23 international footballers]]
+[[Category:Men's association football midfielders]]
+[[Category:Paradou AC players]]
+[[Category:Royal Charleroi SC players]]
+[[Category:Algerian Ligue Professionnelle 1 players]]
+[[Category:Belgian Pro League players]]
+[[Category:People from M'Sila]]
+[[Category:Algerian expatriate men's footballers]]
+[[Category:Expatriate men's footballers in Belgium]]
+[[Category:Algerian expatriate sportspeople in Belgium]]
+[[Category:21st-century Algerian sportsmen]]
+[[Category:Algeria men's international footballers]]
+[[Category:2026 FIFA World Cup players]]
+
+
+{{Algeria-footy-midfielder-stub}}

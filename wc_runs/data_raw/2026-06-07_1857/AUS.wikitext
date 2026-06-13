@@ -1,0 +1,35 @@
+=== Current squad ===
+The following players were called up for the [[2026 FIFA World Cup]].<ref>{{cite news |url=https://socceroos.com.au/news/commbank-socceroos-squad-named-fifa-world-cup-2026tm |title=CommBank Socceroos squad named for FIFA World Cup 2026|date=31 May 2026 |publisher=Socceroos.com}}</ref><ref>{{Cite web |date=2026-06-01 |title=SOCCEROOS SQUAD NUMBERS REVEALED: FIFA World Cup 2026™ {{!}} Socceroos |url=https://socceroos.com.au/news/socceroos-squad-numbers-revealed-fifa-world-cup-2026tm |access-date=2026-06-01 |website=socceroos.com.au |language=en}}</ref>
+<br>''Caps and goals correct as of 7 June 2026, after the match against [[Switzerland national football team|Switzerland]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name={{sortname|Mathew|Ryan}}|other=[[Captain (association football)|captain]]|age={{bda|1992|4|8|df=y}}|caps=104|goals=0|club=[[Levante UD|Levante]]|clubnat=ESP}}
+{{nat fs g player|no=12|pos=GK|name={{sortname|Paul|Izzo}}|age={{bda|1995|1|6|df=y}}|caps=4|goals=0|club=[[Randers FC|Randers]]|clubnat=DEN}}
+{{nat fs g player|no=18|pos=GK|name={{sortname|Patrick|Beach}}|age={{bda|2003|8|6|df=y}}|caps=2|goals=0|club=[[Melbourne City FC|Melbourne City]]|clubnat=AUS}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name={{sortname|Miloš|Degenek}}|age={{bda|1994|4|28|df=y}}|caps=57|goals=1|club=[[APOEL FC|APOEL]]|clubnat=CYP}}
+{{nat fs g player|no=3|pos=DF|name={{sortname|Alessandro|Circati}}|age={{bda|2003|10|10|df=y}}|caps=13|goals=1|club=[[Parma Calcio 1913|Parma]]|clubnat=ITA}}
+{{nat fs g player|no=4|pos=DF|name={{sortname|Jacob|Italiano}}|age={{bda|2001|7|30|df=y}}|caps=5|goals=0|club=[[Grazer AK]]|clubnat=AUT}}
+{{nat fs g player|no=5|pos=DF|name={{sortname|Jordan|Bos}}|age={{bda|2002|10|29|df=y}}|caps=27|goals=4|club=[[Feyenoord]]|clubnat=NED}}
+{{nat fs g player|no=6|pos=DF|name={{sortname|Jason|Geria}}|age={{bda|1993|5|10|df=y}}|caps=14|goals=0|club=[[Albirex Niigata]]|clubnat=JPN}}
+{{nat fs g player|no=15|pos=DF|name={{sortname|Kai|Trewin}}|age={{bda|2001|5|18|df=y}}|caps=6|goals=0|club=[[New York City FC|New York City]]|clubnat=USA}}
+{{nat fs g player|no=16|pos=DF|name={{sortname|Aziz|Behich}}|age={{bda|1990|12|16|df=y}}|caps=84|goals=3|club=[[Melbourne City FC|Melbourne City]]|clubnat=AUS}}
+{{nat fs g player|no=19|pos=DF|name={{sortname|Harry|Souttar}}|age={{bda|1998|10|22|df=y}}|caps=38|goals=11|club=[[Leicester City FC|Leicester City]]|clubnat=ENG}}
+{{nat fs g player|no=21|pos=DF|name={{sortname|Cameron|Burgess}}|age={{bda|1995|10|21|df=y}}|caps=27|goals=0|club=[[Swansea City A.F.C.|Swansea City]]|clubnat=WAL}}
+{{nat fs g player|no=25|pos=DF|name={{sortname|Lucas|Herrington}}|age={{bda|2007|7|5|df=y}}|caps=4|goals=0|club=[[Colorado Rapids]]|clubnat=USA}}
+{{nat fs break}}
+{{nat fs g player|no=8|pos=MF|name={{sortname|Connor|Metcalfe}}|age={{bda|1999|11|5|df=y}}|caps=36|goals=1|club=[[FC St. Pauli]]|clubnat=GER}}
+{{nat fs g player|no=10|pos=MF|name={{sortname|Ajdin|Hrustić}}|age={{bda|1996|7|5|df=y}}|caps=37|goals=4|club=[[Heracles Almelo]]|clubnat=NED}}
+{{nat fs g player|no=13|pos=MF|name={{sortname|Aiden|O'Neill}}|age={{bda|1998|7|4|df=y}}|caps=31|goals=0|club=[[New York City FC|New York City]]|clubnat=USA}}
+{{nat fs g player|no=14|pos=MF|name={{sortname|Cammy|Devlin}}|age={{bda|1998|6|7|df=y}}|caps=5|goals=0|club=[[Heart of Midlothian F.C.|Heart of Midlothian]]|clubnat=SCO}}
+{{nat fs g player|no=22|pos=MF|name={{sortname|Jackson|Irvine}}|age={{bda|1993|3|7|df=y}}|caps=82|goals=14|club=[[FC St. Pauli]]|clubnat=GER}}
+{{nat fs g player|no=24|pos=MF|name={{sortname|Paul|Okon-Engstler}}|age={{bda|2005|1|24|df=y}}|caps=6|goals=0|club=[[Sydney FC]]|clubnat=AUS}}
+{{nat fs break}}
+{{nat fs g player|no=7|pos=FW|name={{sortname|Mathew|Leckie}}|age={{bda|1991|2|4|df=y}}|caps=80|goals=14|club=[[Melbourne City FC|Melbourne City]]|clubnat=AUS}}
+{{nat fs g player|no=9|pos=FW|name={{sortname|Mohamed|Touré|dab=soccer, born 2004}}|age={{bda|2004|3|26|df=y}}|caps=10|goals=2|club=[[Norwich City F.C.|Norwich City]]|clubnat=ENG}}
+{{nat fs g player|no=11|pos=FW|name={{sortname|Awer|Mabil}}|age={{bda|1995|9|15|df=y}}|caps=38|goals=10|club=[[CD Castellón|Castellón]]|clubnat=ESP}}
+{{nat fs g player|no=17|pos=FW|name={{sortname|Nestory|Irankunda}}|age={{bda|2006|2|9|df=y}}|caps=15|goals=5|club=[[Watford F.C.|Watford]]|clubnat=ENG}}
+{{nat fs g player|no=20|pos=FW|name={{sortname|Cristian|Volpato}}|age={{bda|2003|11|15|df=y}}|caps=1|goals=0|club=[[Unione Sportiva Sassuolo Calcio|Sassuolo]]|clubnat=ITA}}
+{{nat fs g player|no=23|pos=FW|name={{sortname|Nishan|Velupillay}}|age={{bda|2001|5|7|df=y}}|caps=7|goals=3|club=[[Melbourne Victory FC|Melbourne Victory]]|clubnat=AUS}}
+{{nat fs g player|no=26|pos=FW|name={{sortname|Tete|Yengi}}|age={{bda|2000|11|22|df=y}}|caps=1|goals=1|club=[[Machida Zelvia]]|clubnat=JPN}}
+{{nat fs end}}

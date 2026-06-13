@@ -1,0 +1,35 @@
+===Current squad===
+The following 26 players were named in the squad for the [[2026 FIFA World Cup]].<ref>{{cite tweet |author=Qatar Football Association |author-link=Qatar Football Association |user=QFA_EN |number=2061519863403741405 |date=June 1, 2026 |title=The official squad for the FIFA World Cup 2026™ has been announced. |access-date=June 2, 2026}}</ref>
+<br>''Caps and goals correct as of 6 June 2026, after the match against [[El Salvador national football team|El Salvador]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Mahmud Abunada]]|age={{bda|2000|2|5|df=y}}|caps=5|goals=0|club=[[Al-Rayyan SC|Al-Rayyan]]|clubnat=QAT}}
+{{nat fs g player|no=21|pos=GK|name=[[Salah Zakaria]]|age={{bda|1999|4|24|df=y}}|caps=8|goals=0|club=[[Al Duhail SC|Al-Duhail]]|clubnat=QAT}}
+{{nat fs g player|no=22|pos=GK|name=[[Meshaal Barsham]]|age={{bda|1998|2|14|df=y}}|caps=52|goals=0|club=[[Al Sadd SC|Al-Sadd]]|clubnat=QAT}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Pedro Miguel (footballer)|Pedro Miguel]]|age={{bda|1990|8|6|df=y}}|caps=99|goals=3|club=[[Al Sadd SC|Al-Sadd]]|clubnat=QAT}}
+{{nat fs g player|no=3|pos=DF|name=[[Lucas Mendes (footballer, born 1990)|Lucas Mendes]]|age={{bda|1990|7|3|df=y}}|caps=25|goals=1|club=[[Al-Wakrah SC|Al-Wakrah]]|clubnat=QAT}}
+{{nat fs g player|no=4|pos=DF|name=[[Issa Laye]]|age={{bda|1997|12|22|df=y}}|caps=4|goals=0|club=[[Al-Arabi SC (Qatar)|Al-Arabi]]|clubnat=QAT}}
+{{nat fs g player|no=13|pos=DF|name=[[Ayoub Al-Oui]]|age={{bda|2005|3|11|df=y}}|caps=6|goals=0|club=[[Al-Gharafa SC|Al-Gharafa]]|clubnat=QAT}}
+{{nat fs g player|no=14|pos=DF|name=[[Homam Ahmed]]|age={{bda|1999|8|25|df=y}}|caps=68|goals=3|club=[[Cultural y Deportiva Leonesa|Cultural Leonesa]]|clubnat=ESP}}
+{{nat fs g player|no=16|pos=DF|name=[[Boualem Khoukhi]]|age={{bda|1990|7|9|df=y}}|caps=116|goals=20|club=[[Al Sadd SC|Al-Sadd]]|clubnat=QAT}}
+{{nat fs g player|no=18|pos=DF|name=[[Sultan Al-Brake]]|age={{bda|1996|4|7|df=y}}|caps=17|goals=0|club=[[Al Duhail SC|Al-Duhail]]|clubnat=QAT}}
+{{nat fs g player|no=25|pos=DF|name=[[Al-Hashmi Al-Hussain]]|age={{bda|2003|8|15|df=y}}|caps=8|goals=0|club=[[Al-Arabi SC (Qatar)|Al-Arabi]]|clubnat=QAT}}
+{{nat fs break}}
+{{nat fs g player|no=5|pos=MF|name=[[Jassem Gaber]]|age={{bda|2002|2|20|df=y}}|caps=32|goals=1|club=[[Al-Rayyan SC|Al-Rayyan]]|clubnat=QAT}}
+{{nat fs g player|no=6|pos=MF|name=[[Abdulaziz Hatem]]|age={{bda|1990|10|28|df=y}}|caps=117|goals=11|club=[[Al-Rayyan SC|Al-Rayyan]]|clubnat=QAT}}
+{{nat fs g player|no=12|pos=MF|name=[[Karim Boudiaf]]|age={{bda|1990|9|16|df=y}}|caps=118|goals=5|club=[[Al Duhail SC|Al-Duhail]]|clubnat=QAT}}
+{{nat fs g player|no=20|pos=MF|name=[[Ahmed Fathy (Qatari footballer)|Ahmed Fathy]]|age={{bda|1993|1|25|df=y}}|caps=48|goals=0|club=[[Al-Arabi SC (Qatar)|Al-Arabi]]|clubnat=QAT}}
+{{nat fs g player|no=23|pos=MF|name=[[Assim Madibo]]|age={{bda|1996|10|22|df=y}}|caps=51|goals=0|club=[[Al-Wakrah SC|Al-Wakrah]]|clubnat=QAT}}
+{{nat fs g player|no=26|pos=MF|name=[[Mohamed Manai]]|age={{bda|2002|10|25|df=y}}|caps=10|goals=0|club=[[Al-Shamal SC|Al-Shamal]]|clubnat=QAT}}
+{{nat fs break}}
+{{nat fs g player|no=7|pos=FW|name=[[Ahmed Alaaeldin]]|age={{bda|1993|1|31|df=y}}|caps=68|goals=9|club=[[Al-Rayyan SC|Al-Rayyan]]|clubnat=QAT}}
+{{nat fs g player|no=8|pos=FW|name=[[Edmilson Junior]]|age={{bda|1994|8|19|df=y}}|caps=16|goals=0|club=[[Al Duhail SC|Al-Duhail]]|clubnat=QAT}}
+{{nat fs g player|no=9|pos=FW|name=[[Mohammed Muntari]]|age={{bda|1993|12|20|df=y}}|caps=67|goals=16|club=[[Al-Gharafa SC|Al-Gharafa]]|clubnat=QAT}}
+{{nat fs g player|no=10|pos=FW|name=[[Hassan Al-Haydos]]|other=[[Captain (association football)|captain]]|age={{bda|1990|12|11|df=y}}|caps=186|goals=41|club=[[Al Sadd SC|Al-Sadd]]|clubnat=QAT}}
+{{nat fs g player|no=11|pos=FW|name=[[Akram Afif]]|age={{bda|1996|11|18|df=y}}|caps=125|goals=39|club=[[Al Sadd SC|Al-Sadd]]|clubnat=QAT}}
+{{nat fs g player|no=15|pos=FW|name=[[Yusuf Abdurisag]]|age={{bda|1999|8|6|df=y}}|caps=39|goals=3|club=[[Al-Wakrah SC|Al-Wakrah]]|clubnat=QAT}}
+{{nat fs g player|no=17|pos=FW|name=[[Ahmed Al-Ganehi]]|age={{bda|2000|9|22|df=y}}|caps=13|goals=1|club=[[Al-Gharafa SC|Al-Gharafa]]|clubnat=QAT}}
+{{nat fs g player|no=19|pos=FW|name=[[Almoez Ali]]|age={{bda|1996|8|19|df=y}}|caps=115|goals=[[List of international goals scored by Almoez Ali|55]]|club=[[Al Duhail SC|Al-Duhail]]|clubnat=QAT}}
+{{nat fs g player|no=24|pos=FW|name=[[Tahsin Jamshid]]|age={{bda|2006|6|16|df=y}}|caps=3|goals=0|club=[[Al Duhail SC|Al-Duhail]]|clubnat=QAT}}
+{{nat fs end}}

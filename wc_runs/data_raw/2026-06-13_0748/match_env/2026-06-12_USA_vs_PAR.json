@@ -1,0 +1,42 @@
+{
+ "match": {
+  "slug": "2026-06-12_USA_vs_PAR",
+  "date": "2026-06-12",
+  "home": "USA",
+  "away": "PAR",
+  "round": "group",
+  "group": "D"
+ },
+ "kickoff": {
+  "美东": "2026-06-12T21:00:00-04:00",
+  "北京": "06-13 09:00"
+ },
+ "venue": {
+  "name": "SoFi Stadium",
+  "city": "Inglewood, California",
+  "altitude_m": 30,
+  "roof": "fixed-canopy",
+  "surface": "grass"
+ },
+ "weather": {
+  "开球时段": {
+   "温度C": 20.6,
+   "体感C": 20.7,
+   "降水概率%": 0,
+   "降水mm": 0.0,
+   "风速kmh": 18.7,
+   "湿度%": 83,
+   "天况": "晴"
+  },
+  "source": "open-meteo(免费预报API)",
+  "fetched": "2026-06-13_0748",
+  "_note": "临近开球建议 --refresh 刷新"
+ },
+ "referee": {
+  "name": "Danny Makkelie(荷兰)",
+  "var": "Carlos del Cerro Grande(西班牙)",
+  "source": "WebSearch多源(Yahoo/WorldSoccerTalk/VAVEL)",
+  "fetched": "2026-06-13_0748"
+ },
+ "_note": "环境=比赛+时间+地点 确定;天气为开球时段;顶棚 retractable/fixed-canopy 时天气影响有限。"
+}

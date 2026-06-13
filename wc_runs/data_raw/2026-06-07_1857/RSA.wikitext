@@ -1,0 +1,35 @@
+===Current squad===
+The following players were included in the squad for the [[2026 FIFA World Cup]], and for the [[Exhibition game#International football|friendly match]] against [[Nicaragua national football team|Nicaragua]] on 31 May 2026.<ref>{{cite web |url=https://www.instagram.com/safa_dot_net/p/DY2g0HKDuPq/ |title=The final Bafana Bafana 2026 FIFA World Cup squad is LOCKED IN! From the safe hands in goal to the clinical forwards, these are the players who will represent South Africa on the global stage. |publisher=[[South African Football Association]] |via=[[Instagram]] |date=May 27, 2026 |access-date=May 27, 2026}}</ref>
+<br>''Caps and goals correct as of 31 March 2026, after the match against [[Panama national football team|Panama]]''.
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Ronwen Williams]]|other=[[Captain (association football)|captain]]|age={{birth date and age|1992|1|21|df=y}}|caps=62|goals=0|club=[[Mamelodi Sundowns F.C.|Mamelodi Sundowns]]|clubnat=RSA}}
+{{nat fs g player|no=16|pos=GK|name=[[Sipho Chaine]]|age={{birth date and age|1996|12|14|df=y}}|caps=3|goals=0|club=[[Orlando Pirates F.C.|Orlando Pirates]]|clubnat=RSA}}
+{{nat fs g player|no=22|pos=GK|name=[[Ricardo Goss]]|age={{birth date and age|1994|4|2|df=y}}|caps=4|goals=0|club=[[Siwelele F.C.|Siwelele]]|clubnat=RSA}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Thabang Matuludi]]|age={{birth date and age|1999|1|14|df=y}}|caps=2|goals=0|club=[[Polokwane City F.C.|Polokwane City]]|clubnat=RSA}}
+{{nat fs g player|no=3|pos=DF|name=[[Khulumani Ndamane]]|age={{birth date and age|2004|2|5|df=y}}|caps=5|goals=0|club=[[Mamelodi Sundowns F.C.|Mamelodi Sundowns]]|clubnat=RSA}}
+{{nat fs g player|no=6|pos=DF|name=[[Aubrey Modiba]]|other=[[Captain (association football)|fifth captain]]|age={{birth date and age|1995|7|22|df=y}}|caps=44|goals=3|club=[[Mamelodi Sundowns F.C.|Mamelodi Sundowns]]|clubnat=RSA}}
+{{nat fs g player|no=14|pos=DF|name=[[Mbekezeli Mbokazi]]|age={{birth date and age|2005|9|19|df=y}}|caps=10|goals=1|club=[[Chicago Fire FC|Chicago Fire]]|clubnat=USA}}
+{{nat fs g player|no=18|pos=DF|name=[[Samukele Kabini]]|age={{birth date and age|2004|3|15|df=y}}|caps=5|goals=0|club=[[Molde FK|Molde]]|clubnat=NOR}}
+{{nat fs g player|no=19|pos=DF|name=[[Nkosinathi Sibisi]]|age={{birth date and age|1995|9|22|df=y}}|caps=19|goals=0|club=[[Orlando Pirates F.C.|Orlando Pirates]]|clubnat=RSA}}
+{{nat fs g player|no=20|pos=DF|name=[[Khuliso Mudau]]|age={{birth date and age|1995|4|26|df=y}}|caps=32|goals=1|club=[[Mamelodi Sundowns F.C.|Mamelodi Sundowns]]|clubnat=RSA}}
+{{nat fs g player|no=21|pos=DF|name=[[Ime Okon]]|age={{birth date and age|2004|2|20|df=y}}|caps=7|goals=1|club=[[Hannover 96]]|clubnat=GER}}
+{{nat fs g player|no=24|pos=DF|name=[[Olwethu Makhanya]]|age={{birth date and age|2004|4|30|df=y}}|caps=0|goals=0|club=[[Philadelphia Union]]|clubnat=USA}}
+{{nat fs g player|no=25|pos=DF|name=[[Kamogelo Sebelebele]]|age={{birth date and age|2002|7|21|df=y}}|caps=2|goals=0|club=[[Orlando Pirates F.C.|Orlando Pirates]]|clubnat=RSA}}
+{{nat fs g player|no=26|pos=DF|name=[[Bradley Cross (soccer)|Bradley Cross]]|age={{birth date and age|2001|1|30|df=y}}|caps=0|goals=0|club=[[Kaizer Chiefs F.C.|Kaizer Chiefs]]|clubnat=RSA}}
+{{nat fs break}}
+{{nat fs g player|no=4|pos=MF|name=[[Teboho Mokoena (soccer, born 1997)|Teboho Mokoena]]|other=[[Captain (association football)|fourth captain]]|age={{birth date and age|1997|1|24|df=y}}|caps=51|goals=9|club=[[Mamelodi Sundowns F.C.|Mamelodi Sundowns]]|clubnat=RSA}}
+{{nat fs g player|no=5|pos=MF|name=[[Thalente Mbatha]]|age={{birth date and age|2000|3|6|df=y}}|caps=14|goals=3|club=[[Orlando Pirates F.C.|Orlando Pirates]]|clubnat=RSA}}
+{{nat fs g player|no=13|pos=MF|name=[[Sphephelo Sithole|Yaya Sithole]]|age={{birth date and age|1999|3|3|df=y}}|caps=27|goals=1|club=[[C.D. Tondela|Tondela]]|clubnat=POR}}
+{{nat fs g player|no=23|pos=MF|name=[[Jayden Adams]]|age={{birth date and age|2001|5|5|df=y}}|caps=4|goals=0|club=[[Mamelodi Sundowns F.C.|Mamelodi Sundowns]]|clubnat=RSA}}
+{{nat fs break}}
+{{nat fs g player|no=7|pos=FW|name=[[Oswin Appollis]]|age={{birth date and age|2001|8|25|df=y}}|caps=25|goals=8|club=[[Orlando Pirates F.C.|Orlando Pirates]]|clubnat=RSA}}
+{{nat fs g player|no=8|pos=FW|name=[[Tshepang Moremi]]|age={{birth date and age|2000|10|2|df=y}}|caps=9|goals=1|club=[[Orlando Pirates F.C.|Orlando Pirates]]|clubnat=RSA}}
+{{nat fs g player|no=9|pos=FW|name=[[Lyle Foster]]|age={{birth date and age|2000|5|9|df=y}}|caps=26|goals=10|club=[[Burnley F.C.|Burnley]]|clubnat=ENG}}
+{{nat fs g player|no=10|pos=FW|name=[[Relebohile Mofokeng]]|age={{birth date and age|2004|10|23|df=y}}|caps=12|goals=0|club=[[Orlando Pirates F.C.|Orlando Pirates]]|clubnat=RSA}}
+{{nat fs g player|no=11|pos=FW|name=[[Themba Zwane]]|other=[[Captain (association football)|vice-captain]]|age={{birth date and age|1989|8|3|df=y}}|caps=53|goals=12|club=[[Mamelodi Sundowns F.C.|Mamelodi Sundowns]]|clubnat=RSA}}
+{{nat fs g player|no=12|pos=FW|name=[[Thapelo Maseko]]|age={{birth date and age|2003|11|11|df=y}}|caps=9|goals=1|club=[[AEL Limassol]]|clubnat=CYP}}
+{{nat fs g player|no=15|pos=FW|name=[[Iqraam Rayners]]|age={{birth date and age|1995|12|19|df=y}}|caps=13|goals=4|club=[[Mamelodi Sundowns F.C.|Mamelodi Sundowns]]|clubnat=RSA}}
+{{nat fs g player|no=17|pos=FW|name=[[Evidence Makgopa]]|age={{birth date and age|2000|6|5|df=y}}|caps=26|goals=6|club=[[Orlando Pirates F.C.|Orlando Pirates]]|clubnat=RSA}}
+{{nat fs end}}

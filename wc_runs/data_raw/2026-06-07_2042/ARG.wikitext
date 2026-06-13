@@ -1,0 +1,137 @@
+{{Short description|Men's association football team}}
+{{Use British English|date=March 2026}}
+{{Use dmy dates|date=March 2026}}
+{{About|the men's team|the women's team|Argentina women's national football team}}
+{{Infobox national football team
+| Name                     = Argentina
+| Badge                    = Argentina national football team logo.svg
+| Badge_size               = 165
+| FIFA Trigramme           = ARG
+| Nickname                 = ''La Selección''<br />(The Selection)<br />''La Albiceleste''&hairsp;<ref name=albic>[https://cnnespanol.cnn.com/2022/11/16/argentina-albiceleste-colores-orix ¿Por qué llaman a Argentina la Albiceleste? ¿Qué significan sus colores?] on CNN Español, 16 November 2022</ref> <br />(The White and Sky Blue)<ref>{{cite news |last1=Grove |first1=Daryl |title=An explanation: 2010 World Cup team nicknames |url=https://sports.yahoo.com/blogs/soccer-daryl-grove/explanation-2010-world-cup-team-nicknames--soccer.html |access-date=1 March 2022 |work=Dirty Tackle |date=19 June 2010 |archive-date=1 March 2022 |archive-url=https://web.archive.org/web/20220301185032/https://sports.yahoo.com/blogs/soccer-daryl-grove/explanation-2010-world-cup-team-nicknames--soccer.html |url-status=live}}</ref>
+| Association              = [[Argentine Football Association|Asociación del Fútbol Argentino]] (AFA)
+| Confederation            = [[CONMEBOL]] (South America)
+| Coach                    = [[Lionel Scaloni]]
+| Captain                  = [[Lionel Messi]]
+| Most caps                = Lionel Messi <!-- DO NOT LINK, already linked above --> (198)
+| Top scorer               = Lionel Messi<!-- DO NOT LINK, already linked above --> ([[List of international goals scored by Lionel Messi|116]])
+| Home Stadium             = [[#Home stadium|''Various'']]
+| FIFA Rank                = {{FIFA World Rankings|ARG}}
+| FIFA max                 = 1&hairsp;{{efn|{{Plainlist|
+*March 2007
+*October 2007 – June 2008
+*July 2015 – October 2015
+*April 2016 – March 2017
+*April 2023 – July 2025
+}}}}
+| FIFA min                 = 24
+| FIFA min date            = August 1996
+| Elo Rank                 = {{World Football Elo Ratings|Argentina}}
+| Elo max                  = 1
+| Elo max date             = [[World Football Elo Ratings|29 times between 1902 and 2016]]
+| Elo min                  = 260
+| Elo min date             = June 1990
+<!-- First Kit -->
+| pattern_la1              = _arg26h
+| pattern_b1               = _arg26h
+| pattern_ra1              = _arg26h
+| pattern_sh1              = _arg26h
+| pattern_so1              = _arg26hl
+| leftarm1                 = FFFFFF
+| body1                    = FFFFFF
+| rightarm1                = FFFFFF
+| shorts1                  = FFFFFF
+| socks1                   = FFFFFF
+<!-- Second Kit -->
+| pattern_la2              = _arg26A
+| pattern_b2               = _arg26A
+| pattern_ra2              = _arg26a
+| pattern_sh2              = _arg26a
+| pattern_so2              = _arg26a
+| leftarm2                 = 
+| body2                    = 
+| rightarm2                = 
+| shorts2                  = ffffff
+| socks2                   = ffffff
+| First game               = {{fb|URU}} [[1902 Uruguay v Argentina football match|0–6]] {{fb-rt|ARG|1861}}<br />([[Montevideo]], Uruguay<!-- DO NOT LINK, see [[Wikipedia:Manual of Style/Linking#Geographic places]] for further guidance -->; 20 July 1902){{efn|group=upper-alpha|Attributed to multiple references:<ref name="First match">{{cite web |url=https://www.rsssf.org/tablesa/argurures.html |title=Argentina-Uruguay Matches 1902–2009 |publisher=Rec.Sport.Soccer Statistics Foundation |first=Héctor Darío |last=Pelayes |date=24 September 2010 |access-date=7 November 2010 |archive-date=5 January 2019 |archive-url=https://web.archive.org/web/20190105020111/http://www.rsssf.com/tablesa/argurures.html |url-status=live}}</ref><ref name=iffhs /><ref name=nostalgia /><ref name=barnade />}}
+| Largest win              = {{fb|ARG|1861}} 12–0 {{fb-rt|ECU|1900}}<br /> (Montevideo<!-- DO NOT LINK, already linked above -->, Uruguay<!-- DO NOT LINK, see [[Wikipedia:Manual of Style/Linking#Geographic places]] for further guidance -->; 22 January 1942)
+| Largest loss             = {{fb|TCH}} [[Disaster of Sweden|6–1]] {{fb-rt|ARG|1861}}<br />([[Helsingborg]], Sweden<!-- DO NOT LINK, see [[Wikipedia:Manual of Style/Linking#Geographic places]] for further guidance -->; 15 June 1958) <br />{{fb-rt|COL}} [[Argentina v Colombia (1994 FIFA World Cup qualification)|5–0]] {{fb|ARG|1861}}<br />([[Buenos Aires]], Argentina<!-- DO NOT LINK, see [[Wikipedia:Manual of Style/Linking#Geographic places]] for further guidance -->; 5 September 1993) <br />{{fb|BOL}} 6–1 {{fb-rt|ARG|1861}}<br />([[La Paz]], Bolivia<!-- DO NOT LINK, see [[Wikipedia:Manual of Style/Linking#Geographic places]] for further guidance -->; 1 April 2009)<ref>{{Cite web |title=Historial entre Argentina y Bolivia |url=https://www.afa.com.ar/es/posts/historial-entre-argentina-y-bolivia-|access-date=2 February 2022 |website=Sitio Oficial de la Asociación del Fútbol Argentino |language=es-AR|archive-date=2 February 2022|archive-url=https://web.archive.org/web/20220202114526/https://www.afa.com.ar/es/posts/historial-entre-argentina-y-bolivia-|url-status=live}}</ref><br />{{fb|SPA}} 6–1 {{fb-rt|ARG}}<br />([[Madrid]], Spain<!-- DO NOT LINK, see [[Wikipedia:Manual of Style/Linking#Geographic places]] for further guidance -->; 27 March 2018)<ref>{{Cite web |title=Spain 6–1 Argentina: Isco scores hat-trick as hosts dismantle Argentina |url=https://www.skysports.com/football/news/12010/11306601/spain-6-1-argentina-isco-scores-hat-trick-as-hosts-dismantle-argentina|access-date=2 February 2022 |website=Sky Sports |language=en|archive-date=2 February 2022|archive-url=https://web.archive.org/web/20220202114511/https://www.skysports.com/football/news/12010/11306601/spain-6-1-argentina-isco-scores-hat-trick-as-hosts-dismantle-argentina|url-status=live}}</ref>
+| World cup apps           = 19
+| World cup first          = 1930&hairsp;
+| World cup best           = '''Champions''' ([[1978 FIFA World Cup|1978]], [[1986 FIFA World Cup|1986]], [[2022 FIFA World Cup|2022]])
+| Confederations cup apps  = 3
+| Confederations cup first = [[1992 King Fahd Cup|1992]]&hairsp;
+| Confederations cup best  = '''Champions''' ([[1992 King Fahd Cup|1992]])
+| Regional name            = [[Copa América]]
+| Regional cup apps        = 44
+| Regional cup first       = [[1916 South American Championship|1916]]&hairsp;
+| Regional cup best        = '''Champions''' ([[1921 South American Championship|1921]], [[1925 South American Championship|1925]], [[1927 South American Championship|1927]], [[1929 South American Championship|1929]], [[1937 South American Championship|1937]], [[1941 South American Championship|1941]], [[1945 South American Championship|1945]], [[1946 South American Championship|1946]], [[1947 South American Championship|1947]], [[1955 South American Championship|1955]], [[1957 South American Championship|1957]], [[1959 South American Championship (Argentina)|1959]], [[1991 Copa América|1991]], [[1993 Copa América|1993]], [[2021 Copa América|2021]], [[2024 Copa América|2024]])
+| 2ndRegional name         = [[Panamerican Championship]]
+| 2ndRegional cup apps     = 2
+| 2ndRegional cup first    = [[1956 Panamerican Championship|1956]]&hairsp;
+| 2ndRegional cup best     = '''Champions''' ([[1960 Panamerican Championship|1960]])
+| 3rdRegional name         = [[Finalissima|CONMEBOL–UEFA Cup of Champions]]
+| 3rdRegional cup apps     = 3
+| 3rdRegional cup first    = [[1993 Artemio Franchi Cup|1993]]&hairsp;
+| 3rdRegional cup best     = '''Champions''' ([[1993 Artemio Franchi Cup|1993]], [[2022 Finalissima|2022]])
+| medaltemplates           =
+{{MedalCompetition|[[FIFA World Cup]]}}
+{{MedalGold|[[1978 FIFA World Cup|1978 Argentina]]|[[1978 FIFA World Cup squads|Team]]}}
+{{MedalGold|[[1986 FIFA World Cup|1986 Mexico]]|[[1986 FIFA World Cup squads|Team]]}}
+{{MedalGold|[[2022 FIFA World Cup|2022 Qatar]]|[[2022 FIFA World Cup squads|Team]]}}
+{{MedalSilver|[[1930 FIFA World Cup|1930 Uruguay]]|[[1930 FIFA World Cup squads|Team]]}}
+{{MedalSilver|[[1990 FIFA World Cup|1990 Italy]]|[[1990 FIFA World Cup squads|Team]]}}
+{{MedalSilver|[[2014 FIFA World Cup|2014 Brazil]]|[[2014 FIFA World Cup squads|Team]]}}
+{{MedalCompetition|[[Football at the Summer Olympics|Olympic Games]]{{refn|Argentina's Olympic Silver has equal value to a World Cup runner-up finish. Only the 1924 and 1928 editions are senior world titles equivalent to a World Cup.<ref name="auto1">{{Cite web |title=Official FIFA World Cup Origin document |url=http://www.fifa.com/mm/document/fifafacts/mcwc/ip-201_02e_fwc-origin_8816.pdf |website=fifa.com (archive) |archive-url=https://web.archive.org/web/20140405000621/http://www.fifa.com/mm/document/fifafacts/mcwc/ip-201_02e_fwc-origin_8816.pdf |archive-date=5 April 2014 |language=en}}</ref> After the World Cup was established, football at the Olympics became amateur players only<ref>{{Cite web |title=Football at the 1936 Berlin Summer Games |url=https://www.sports-reference.com/olympics/summer/1936/FTB/ |website=sports-reference.com (archive) |archive-url=https://web.archive.org/web/20200417041849/https://www.sports-reference.com/olympics/summer/1936/FTB/ |archive-date=17 April 2020 |language=en}}</ref><ref>{{Cite web |title=FIFA describes each Olympic Football tournament|url=https://www.fifa.com/tournaments/archive/mensolympic/athens2004/news/newsid=92851/index.html |website=fifa.com (archive) |archive-url= https://web.archive.org/web/20140715174431/http://www.fifa.com/tournaments/archive/mensolympic/athens2004/news/newsid=92851/index.html|archive-date=15 July 2014 |language=en}}</ref>, like it was prior to 1924. Since the 1992 edition, the tournament was restricted to squads with no more than 3 players over the age of 23, and these matches are not regarded as part of the senior national team's record, nor are senior national team caps awarded, it’s part of the [[Argentina national under-23 football team|Argentina U23]].|group=note}}}}
+{{MedalSilver|[[Football at the 1928 Summer Olympics|1928 Amsterdam]]|[[Football at the 1928 Summer Olympics|Team]]}}
+{{MedalCompetition|[[FIFA Confederations Cup]]}}
+{{MedalGold|[[1992 King Fahd Cup|1992 Saudi Arabia]]|[[1992 King Fahd Cup#Squads|Team]]}}
+{{MedalSilver|[[1995 King Fahd Cup|1995 Saudi Arabia]]|[[1995 King Fahd Cup#Squads|Team]]}}
+{{MedalSilver|[[2005 FIFA Confederations Cup|2005 Germany]]|[[2005 FIFA Confederations Cup#Squads|Team]]}}
+{{MedalCompetition|[[Copa América]]}}
+{{MedalGold|[[1921 South American Championship|1921 Argentina]]|[[1921 South American Championship squads|Team]]}}
+{{MedalGold|[[1925 South American Championship|1925 Argentina]]|[[1925 South American Championship squads|Team]]}}
+{{MedalGold|[[1927 South American Championship|1927 Peru]]|[[1927 South American Championship squads|Team]]}}
+{{MedalGold|[[1929 South American Championship|1929 Argentina]]|[[1929 South American Championship squads|Team]]}}
+{{MedalGold|[[1937 South American Championship|1937 Argentina]]|[[1937 South American Championship squads|Team]]}}
+{{MedalGold|[[1941 South American Championship|1941 Chile]]|[[1941 South American Championship squads|Team]]}}
+{{MedalGold|[[1945 South American Championship|1945 Chile]]|[[1945 South American Championship squads|Team]]}}
+{{MedalGold|[[1946 South American Championship|1946 Argentina]]|[[1946 South American Championship squads|Team]]}}
+{{MedalGold|[[1947 South American Championship|1947 Ecuador]]|[[1947 South American Championship squads|Team]]}}
+{{MedalGold|[[1955 South American Championship|1955 Chile]]|[[1955 South American Championship squads|Team]]}}
+{{MedalGold|[[1957 South American Championship|1957 Peru]]|[[1957 South American Championship squads|Team]]}}
+{{MedalGold|[[1959 South American Championship (Argentina)|1959 Argentina]]|[[1959 South American Championship (Argentina) squads|Team]]}}
+{{MedalGold|[[1991 Copa América|1991 Chile]]|[[1991 Copa América squads|Team]]}}
+{{MedalGold|[[1993 Copa América|1993 Ecuador]]|[[1993 Copa América squads|Team]]}}
+{{MedalGold|[[2021 Copa América|2021 Brazil]]|[[2021 Copa América squads|Team]]}}
+{{MedalGold|[[2024 Copa América|2024 United States]]|[[2024 Copa América squads|Team]]}}
+{{MedalSilver|[[1916 South American Championship|1916 Argentina]]|[[1916 South American Championship squads|Team]]}}
+{{MedalSilver|[[1917 South American Championship|1917 Uruguay]]|[[1917 South American Championship squads|Team]]}}
+{{MedalSilver|[[1920 South American Championship|1920 Chile]]|[[1920 South American Championship squads|Team]]}}
+{{MedalSilver|[[1923 South American Championship|1923 Uruguay]]|[[1923 South American Championship squads|Team]]}}
+{{MedalSilver|[[1924 South American Championship|1924 Uruguay]]|[[1924 South American Championship squads|Team]]}}
+{{MedalSilver|[[1926 South American Championship|1926 Chile]]|[[1926 South American Championship squads|Team]]}}
+{{MedalSilver|[[1935 South American Championship|1935 Peru]]|[[1935 South American Championship squads|Team]]}}
+{{MedalSilver|[[1942 South American Championship|1942 Uruguay]]|[[1942 South American Championship squads|Team]]}}
+{{MedalSilver|[[1959 South American Championship (Ecuador)|1959 Ecuador]]|[[1959 South American Championship (Ecuador) squads|Team]]}}
+{{MedalSilver|[[1967 South American Championship|1967 Uruguay]]|[[1967 South American Championship squads|Team]]}}
+{{MedalSilver|[[2004 Copa América|2004 Peru]]|[[2004 Copa América squads|Team]]}}
+{{MedalSilver|[[2007 Copa América|2007 Venezuela]]|[[2007 Copa América squads|Team]]}}
+{{MedalSilver|[[2015 Copa América|2015 Chile]]|[[2015 Copa América squads|Team]]}}
+{{MedalSilver|[[2016 Copa América|2016 United States]]|[[2016 Copa América squads|Team]]}}
+{{MedalBronze|[[1919 South American Championship|1919 Brazil]]|[[1919 South American Championship squads|Team]]}}
+{{MedalBronze|[[1956 South American Championship|1956 Uruguay]]|[[1956 South American Championship squads|Team]]}}
+{{MedalBronze|[[1963 South American Championship|1963 Bolivia]]|[[1963 South American Championship squads|Team]]}}
+{{MedalBronze|[[1989 Copa América|1989 Brazil]]|[[1989 Copa América squads|Team]]}}
+{{MedalBronze|[[2019 Copa América|2019 Brazil]]|[[2019 Copa América squads|Team]]}}
+{{MedalCompetition|[[Panamerican Championship]]}}
+{{MedalGold|[[1960 Panamerican Championship|1960 Costa Rica]]|Team}}
+{{MedalSilver|[[1956 Panamerican Championship|1956 Mexico]]|Team}}
+{{MedalCompetition|[[Finalissima|CONMEBOL–UEFA Cup of Champions]]}}
+{{MedalGold|[[1993 Artemio Franchi Cup|1993 Argentina]]|Team}}
+{{MedalGold|[[2022 Finalissima|2022 England]]|Team}}
+| website   = {{url|https://www.afa.com.ar/es/seleccion-mayor| afa.com.ar/seleccion-mayor}}
+}}
+
+The '''Argentina national football team''',{{efn|group=upper-alpha|{{langx|es|Selección de fútbol de Argentina}}}} nicknamed '''''la Albiceleste''''',&hairsp;{{efn|group=upper-alpha|English: ''The White and Sky Blue''}} represents [[Argentina]] in men's international [[Association football|football]] and is administered by the [[Argentine Football Association]], the governing body of [[football in Argentina]]. It has been a member of [[FIFA]] since 1912 and was a founding member of [[CONMEBOL]] in 1916. It was also a member of [[Panamerican Championship#Panamerican Football Confederation|PFC]], the unified confederation of the Americas, from 1946 to 1961. Argentina is the current FIFA World Cup champion, having won the most recent World Cup in [[2022 FIFA World Cup|2022]]. The team previously won the World Cup in [[1978 FIFA World Cup final|1978]] and [[1986 FIFA World Cup final|1986]], and has appeared in the World Cup [[List of FIFA World Cup finals|final]] a total of six times.  
+
+Argentina has won the [[Copa América]] a record 16 times, most recently in [[2024 Copa América|2024]]. With victories in [[1945 South American Championship|1945]], [[1946 South American Championship|1946]] and [[1947 South American Championship|1947]], it is the only nation to win the tournament three consecutive times. Argentina won the [[Panamerican Championship]] in [[1960 Panamerican Championship|1960]], the [[1992 King Fahd Cup|inaugural FIFA Confederations Cup]] in 1992, and the [[CONMEBOL–UEFA Cup of Champions]] in [[1993 Artemio Franchi Cup|1993]] and [[2022 Finalissima|2022]]. Argentina holds the record for most official international titles, with 23.{{efn|group=upper-alpha|Attributed to multiple references:<ref>{{Cite web |date=14 July 2024 |title=Tras la conquista de Argentina en la Copa América, así quedó la tabla histórica de títulos de las selecciones del mundo |url=https://www.infobae.com/deportes/2024/07/14/asi-esta-la-tabla-historica-de-las-selecciones-con-mas-titulos-en-el-mundo-en-la-previa-a-las-finales-de-la-copa-america-y-la-eurocopa/ |access-date=12 August 2024 |website=infobae |language=es-ES}}</ref><ref>{{Cite web |last=Ritchie |first=Calum |date=1 June 2024 |title=The 10 most successful nations in football history ranked by major trophies won |url=https://www.givemesport.com/most-successful-nations-in-football-history-by-major-trophies-won/ |access-date=12 August 2024 |website=GiveMeSport |language=en}}</ref><ref>{{Cite web |title=Top five nations with most major international football trophies |url=https://khelnow.com/football/2023-08-world-football-most-international-football-trophies |access-date=12 August 2024 |website=Khel Now |language=en-us}}</ref>}} Argentina players have won the [[FIFA World Cup awards#Golden Ball|FIFA World Cup Golden Ball]] three times: [[Diego Maradona]] in 1986, and [[Lionel Messi]] in [[2014 FIFA World Cup|2014]] and 2022. Messi has the most appearances for the team (198) and has scored the most goals (116). {{As of|2026|5|5}}, Argentina ranks 3rd in the [[FIFA Men's World Ranking]]. Argentina is known for having rivalries with [[Brazil national football team|Brazil]], [[England national football team|England]], [[France national football team|France]],<ref>{{cite web|title=Argentina-Francia, una historia de rivalidades y partidos para siempre|url=https://www.fifa.com/es/tournaments/olympicgames/paris2024/mens/articles/historial-argentina-francia-partidos-mundiales-torneos-resultados|date=30 July 2024|access-date=4 August 2024}}</ref> [[Germany national football team|Germany]], the [[Netherlands national football team|Netherlands]] and [[Uruguay national football team|Uruguay]].

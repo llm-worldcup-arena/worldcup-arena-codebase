@@ -1,0 +1,33 @@
+{
+ "team": "CPV",
+ "coach": {
+  "name_zh": "布比斯塔",
+  "name_en": "Bubista",
+  "nationality": "Portuguese Cape Verde",
+  "career_since": "2012",
+  "person_id": "per_bubista"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 基本信息：布比斯塔（Bubista），佛得角裔葡萄牙籍教练，自2012年开启执教生涯，现任佛得角国家队主帅，率队历史性首次晋级世界杯决赛圈。\n\n- 预选赛战绩：2026世界杯非洲区预选赛带队10场7胜1负，以小组头名身份出线，力压埃及（萨拉赫领衔）和喀麦隆，提前锁定北美世界杯入场券。\n\n- 战术理念：注重经验与潜力平衡，敢于征召状态出色的国内联赛新星（洛根·科斯塔仅13分钟西甲出场即获征召），同时倚仗预选赛决定性前锋戴隆·利夫拉门托等核心球员。\n\n- 核心阵容：征召队史射手王瑞恩·门德斯（22球）、经验丰富的门将沃津哈、后卫罗伯托·\"皮科\"·洛佩斯，构建以老带新的25人世界杯名单。\n\n- 世界杯征程：2026年6月首战西班牙（堪萨斯城），次战乌拉圭（圣克拉拉），末轮对阵沙特（堪萨斯城），首次亮相世界杯即遇死亡之组。\n\n- 当前看点：首次带队征战大赛，500万人口小国创造历史，洛根·科斯塔的入选体现教练用人魄力，小组能否爆冷成为最大悬念。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.92,
+  "issues": [
+   "无明显问题，信息高度浓缩"
+  ]
+ },
+ "brief_fetched": "2026-06-13_1750",
+ "brief_info_chars": 6000,
+ "coach_xverify": {
+  "canonical": "Pedro Leitão Brito (Bubista)",
+  "confidence": "high",
+  "discrepancy": "Name presentation varies: Olympics.com lists 'Pedro \"Bubista\" Brito' while Heavy.com provides the fuller 'Pedro Leitão Brito'. All sources agree 'Bubista' is the coach; the variation is only in completeness of formal name.",
+  "sources_agree": 8,
+  "n_sources": 8
+ }
+}

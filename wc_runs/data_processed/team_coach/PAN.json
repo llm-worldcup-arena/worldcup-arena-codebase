@@ -1,0 +1,31 @@
+{
+ "team": "PAN",
+ "coach": {
+  "name_zh": "托马斯·克里斯蒂安森",
+  "name_en": "Thomas Christiansen",
+  "nationality": "Denmark",
+  "career_since": "",
+  "person_id": "per_thomas_christiansen"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 丹麦教练托马斯·克里斯蒂安森（Thomas Christiansen）自2020年7月起执掌巴拿马国家队，其童年时期曾短暂旅居该国。\n- 他成功率领巴拿马晋级2026年世界杯，这是巴拿马队史第二次跻身世界杯决赛圈。\n- 战术上强调防守纪律与结构，预选赛末轮六场比赛仅失两球，依靠紧凑低位防守体系限制对手进攻。\n- 中场核心阿达尔贝托·卡拉斯奎拉（Adalberto Carrasquilla）是战术关键，但目前仍在执行差异化康复计划，尚未回归全队合练，其恢复进度将直接影响球队表现。\n- 已敲定26人世界杯名单，近期热身赛战绩2胜2平1负，包括1-1战平波黑、4-2击败多米尼加，以及2-6负于巴西。\n- 2026年世界杯L组赛程：6月17日对阵加纳（多伦多）、23日对阵克罗地亚（多伦多）、27日对阵英格兰（纽约）。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.95,
+  "issues": []
+ },
+ "brief_fetched": "2026-06-13_1750",
+ "brief_info_chars": 4896,
+ "coach_xverify": {
+  "canonical": "Thomas Christiansen",
+  "confidence": "high",
+  "discrepancy": "Goal.com source incorrectly discusses Ghana national team (Jordan Ayew, Thomas Partey) rather than Panama, providing no relevant information about Panama's coach. All other explicit sources consistently identify Thomas Christiansen as Panama's head coach.",
+  "sources_agree": 4,
+  "n_sources": 8
+ }
+}

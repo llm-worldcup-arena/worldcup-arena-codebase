@@ -1,0 +1,316 @@
+{{Short description|Tunisian footballer (born 1993)}}
+{{Use dmy dates|date=February 2021}}
+{{Infobox football biography
+| name = Ali Abdi
+| image = Abdi asse ogcn 2425.png
+| caption = Abdi with [[OGC Nice|Nice]] in 2025
+| fullname = Ali El Abdi<ref name="FIFA 2022">{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=FIFA World Cup Qatar 2022: List of players: Tunisia |publisher=[[FIFA]] |page=29 |date=15 November 2022 |access-date=11 December 2022}}</ref>
+| birth_date = {{birth date and age|1993|12|20|df=yes}}
+| birth_place = [[Sfax]], Tunisia<ref>{{Cite web|url=http://web.archive.org/web/20190818195019/https://parisfc.fr/equipe-pro/ali-abdi-signe-au-paris-fc/|title=Ali Abdi signe au Paris FC|first=Valentin|last=Paris|date=13 August 2019|website=Paris FC}}</ref>
+| height = 1.77 m<ref name="FIFA 2022"/>
+| position = [[Left-back]]
+| currentclub = [[OGC Nice|Nice]]
+| clubnumber = 2
+| youthclubs1 = [[Sfax RS]]
+| years1 = 2011–2012
+| clubs1 = [[JS Kairouan]]
+| caps1 = 15
+| goals1 = 2
+| years2 = 2012–2016
+| clubs2 = [[Espérance Sportive de Tunis|Espérance de Tunis]]
+| caps2 = 12
+| goals2 = 0
+| years3 = 2014
+| clubs3 = → [[Stade Tunisien]] (loan)
+| caps3 = 17
+| goals3 = 4
+| years4 = 2016–2019
+| clubs4 = [[Club Africain]]
+| caps4 = 56
+| goals4 = 7
+| years5 = 2019–2021
+| clubs5 = [[Paris FC]]
+| caps5 = 47
+| goals5 = 9
+| years6 = 2020
+| clubs6 = [[Paris FC|Paris FC B]]
+| caps6 = 1
+| goals6 = 0
+| years7 = 2021–2024
+| clubs7 = [[Stade Malherbe Caen|Caen]]
+| caps7 = 98
+| goals7 = 14
+| years8 = 2021
+| clubs8 = [[Stade Malherbe Caen|Caen B]]
+| caps8 = 1
+| goals8 = 0
+| years9 = 2024–
+| clubs9 = [[OGC Nice|Nice]]
+| caps9 = 47
+| goals9 = 8
+| nationalyears1 = 2015
+| nationalteam1 = [[Tunisia national under-23 football team|Tunisia U23]]
+| nationalcaps1 = 4
+| nationalgoals1 = 0
+| nationalyears2 = 2021–
+| nationalteam2 = [[Tunisia national football team|Tunisia]]
+| nationalcaps2 = 45
+| nationalgoals2 = 7
+| pcupdate = 17 May 2026
+| ntupdate = 31 March 2026
+}}
+
+'''Ali El Abdi''' ({{langx|ar|عَلِيّ الْعَابِدِيّ}}; born 20 December 1993), known as '''Ali Abdi''', is a Tunisian professional [[association football|footballer]] who plays as a [[left-back]] for {{French football updater|Nice}} club [[OGC Nice|Nice]] and the [[Tunisia national football team|Tunisia national team]].
+
+==Club career==
+Abdi made his professional debut with [[JS Kairouan]] in a 0–0 [[Tunisian Ligue Professionnelle 1]] tie with [[EGS Gafsa]] on 25 December 2011.<ref>{{Cite web|url=https://int.soccerway.com/matches/2011/12/25/tunisia/ligue-1/js-kairouanaise/el-gawafel-sportives-de-gafsa/1219492/|title=Kairouan vs. EGS Gafsa - 25 December 2011 - Soccerway|website=Soccerway}}</ref> On 24 June 2019, Abdi moved to [[Paris FC]] in the French [[Ligue 2]].<ref>{{Cite web|url=https://www.lequipe.fr/Football/Actualites/Transferts-ali-abdi-club-africain-au-paris-fc/1033461|title=Transferts : Ali Abdi (Club Africain) au Paris FC - Foot - Transferts|website=L'Équipe}}</ref>
+
+On 21 July 2021, he signed a two-year contract with [[Stade Malherbe Caen|Caen]].<ref>{{cite web|publisher=[[Stade Malherbe Caen|Caen]]|url=https://www.smcaen.fr/2021-2022/actualites/groupe-pro/ali-abdi-nouveau-joueur-du-stade-malherbe-caen|title=ALI ABDI NOUVEAU JOUEUR DU STADE MALHERBE CAEN|date=21 July 2021|language=fr}}</ref>
+
+On 2 September 2024, Abdi signed for [[Ligue 1]] club [[OGC Nice|Nice]] for a fee of €500,000.<ref>{{Cite web |date=2024-09-02 |title=Caen : Ali Abdi s'engage à Nice (off) |url=https://www.foot-national.com/ligue-2/caen-ali-abdi-s-engage-a-nice-off-886214 |access-date=2024-09-03 |website=Foot National |language=fr}}</ref> This transfer was completed outside the regular transfer window dates thanks to a "joker" transfer exemption granted by the [[Ligue de Football Professionnel]].<ref>{{Cite web |date=2024-09-03 |title=Official {{!}} Ali Abdi completes OGC Nice following Jordan Lotomba exit |url=https://sports.yahoo.com/official-ali-abdi-completes-ogc-070400322.html#:~:text=Tunisia%20international%20Ali%20Abdi%20(30,on%20a%20%E2%80%9Cjoker%E2%80%9D%20transfer. |access-date=2024-09-03 |website=Yahoo Sports |language=en-US}}</ref>
+
+==International career==
+Abdi made his debut for the [[Tunisia national football team|Tunisia national team]] on 25 March 2021 in an [[2021 Africa Cup of Nations qualification Group J|AFCON 2021 qualifier]] against [[Libya national football team|Libya]].<ref>{{cite web|publisher=[[Eurosport]]|url=https://www.eurosport.com/football/africa-cup-of-nations-qualification/2021/live-libya-tunisia_mtc1162691/live.shtml|title=Libya v Tunisia game report|date=25 March 2021}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 26 May 2026}}
+
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by club, season and competition
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|National cup{{efn|Includes [[Tunisian Cup]], [[Coupe de France]]}}
+!colspan=2|League cup{{efn|Includes [[Coupe de la Ligue]]}}
+!colspan=2|Continental
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|[[JS Kairouan]]
+|[[2011–12 Tunisian Ligue Professionnelle 1|2011–12]]
+|[[Tunisian Ligue Professionnelle 1]]
+|15||2||0||0||colspan=2|—||colspan=2|—||colspan=2|—||15||2
+|-
+|rowspan=5|[[Espérance Sportive de Tunis|Espérance de Tunis]]
+|[[2012–13 Tunisian Ligue Professionnelle 1|2012–13]]
+|Tunisian Ligue Professionnelle 1
+|1||0||colspan=2|—||colspan=2|—||0||0||colspan=2|—||1||0
+|-
+|[[2013–14 Espérance Sportive de Tunis season|2013–14]]
+|Tunisian Ligue Professionnelle 1
+|0||0||0||0||colspan=2|—||2{{efn|name=CCL|Appearances in [[CAF Champions League]]}}||0||colspan=2|—||2||0
+|-
+|[[2014–15 Espérance Sportive de Tunis season|2014–15]]
+|Tunisian Ligue Professionnelle 1
+|11||0||0||0||colspan=2|—||0||0||colspan=2|—||11||0
+|-
+|[[2015–16 Espérance Sportive de Tunis season|2015–16]]
+|Tunisian Ligue Professionnelle 1
+|0||0||0||0||colspan=2|—||0||0||colspan=2|—||0||0
+|-
+!colspan=2|Total
+!12!!0!!0!!0!!colspan=2|—!!2!!0!!colspan=2|—!!14!!0
+|-
+|[[Stade Tunisien]] (loan)
+|[[2013–14 Tunisian Ligue Professionnelle 1|2013–14]]
+|Tunisian Ligue Professionnelle 1
+|17||4||2||0||colspan=2|—||colspan=2|—||colspan=2|—||19||4
+|-
+|rowspan=4|[[Club Africain]]
+|[[2016–17 Tunisian Ligue Professionnelle 1|2016–17]]
+|Tunisian Ligue Professionnelle 1
+|12||2||2||0||colspan=2|—||11{{efn|name=CCC|Appearances in [[CAF Confederation Cup]]}}||2||colspan=2|—||25||4
+|-
+|[[2017–18 Tunisian Ligue Professionnelle 1|2017–18]]
+|Tunisian Ligue Professionnelle 1
+|22||2||5||1||colspan=2|—||2{{efn|name=CCC}}||0||colspan=2|—||29||3
+|-
+|[[2018–19 Tunisian Ligue Professionnelle 1|2018–19]]
+|Tunisian Ligue Professionnelle 1
+|22||3||2||0||colspan=2|—||7{{efn|name=CCL}}||0||colspan=2|—||31||3
+|-
+!colspan=2|Total
+!56!!7!!9!!1!!colspan=2|—!!20!!2!!colspan=2|—!!85!!10
+|-
+|rowspan=3|[[Paris FC]]
+|[[2019–20 Ligue 2|2019–20]]
+|[[Ligue 2]]
+|14||0||1||0||2||0||colspan=2|—||colspan=2|—||17||0
+|-
+|[[2020–21 Paris FC season|2020–21]]
+|Ligue 2
+|33||9||1||0||colspan=2|—||colspan=2|—||colspan=2|—||34||9
+|-
+!colspan=2|Total
+!47!!9!!2!!0!!2!!0!!colspan=2|—!!colspan=2|—!!51!!9
+|-
+|[[Paris FC|Paris FC B]]
+|[[2019–20 Championnat National 3|2019–20]]
+|[[Championnat National 3]]
+|1||0||colspan=2|—||colspan=2|—||colspan=2|—||colspan=2|—||1||0
+|-
+|rowspan=5|[[Stade Malherbe Caen|Caen]]
+|[[2021–22 Stade Malherbe Caen season|2021–22]]
+|Ligue 2
+|31||2||0||0||colspan=2|—||colspan=2|—||colspan=2|—||31||2
+|-
+|[[2022–23 Stade Malherbe Caen season|2022–23]]
+|Ligue 2
+|32||3||1||0||colspan=2|—||colspan=2|—||colspan=2|—||33||3
+|-
+|[[2023–24 Stade Malherbe Caen season|2023–24]]
+|Ligue 2
+|33||9||0||0||colspan=2|—||colspan=2|—||colspan=2|—||33||9
+|-
+|[[2024–25 Stade Malherbe Caen season|2024–25]]
+|Ligue 2
+|2||0||colspan=2|—||colspan=2|—||colspan=2|—||colspan=2|—||2||0
+|-
+!colspan=2|Total
+!98!!14!!1!!0!!colspan=2|—!!colspan=2|—!!colspan=2|—!!99!!14
+|-
+|[[Stade Malherbe Caen|Caen B]]
+|[[2021–22 Championnat National 2|2021–22]]
+|[[Championnat National 1|Championnat National 2]]
+|1||0||colspan=2|—||colspan=2|—||colspan=2|—||colspan=2|—||1||0
+|-
+|rowspan=3|[[OGC Nice|Nice]]
+|[[2024–25 OGC Nice season|2024–25]]
+|[[Ligue 1]]
+|25||5||2||0||colspan=2|—||4{{efn|name=UEL|Appearances in [[UEFA Europa League]]}}||0||colspan=2|—||31||5
+|-
+|[[2025–26 Ligue 2|2025–26]]
+|Ligue 1
+|22||3||2||0||colspan=2|—||7{{efn|name=UEL}}||0||1{{efn|Appearance in [[Ligue 1 relegation/promotion play-offs]]}}||0||32||3
+|-
+!colspan=2|Total
+!47!!8!!4!!0!!colspan=2|—!!11!!0!!1!!0!!63!!8
+|-
+!colspan=3|Career total
+!294!!43!!18!!1!!2!!0!!33!!2!!1!!0!!348!!47
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 31 March 2026}}<ref name=NFT>{{NFT player}}</ref>
+
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan=6|[[Tunisia national football team|Tunisia]]
+|2021||4||0
+|-
+|2022||9||2
+|-
+|2023||8||0
+|-
+|2024||11||2
+|-
+|2025||11||3
+|-
+|2026||2||0
+|-
+!colspan=2|Total!!45!!7
+|}
+
+:''Scores and results list Tunisia's goal tally first, score column indicates score after each Abdi goal.''<ref name=NFT/>
+
+{| class="wikitable sortable"
+|+ List of international goals scored by Ali Abdi
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+|-
+| align="center" | 1 || 10 June 2022 || [[Noevir Stadium Kobe]], [[Kobe]], Japan || {{fb|CHI}} || align="center" | 1–0 || align="center" | 2–0 || [[2022 Kirin Cup Soccer|2022 Kirin Cup]]
+|-
+| align="center" | 2 || 16 November 2022 || [[Ahmad bin Ali Stadium]], [[Al Rayyan (city)|Al Rayyan]], Qatar || {{fb|IRN}} || align="center" | 2–0 || align="center" | 2–0 || [[Friendly (association football)|Friendly]]
+|-
+| align="center" | 3 || 7 September 2024 || [[Ben M'Hamed El Abdi Stadium]], [[El Jadida]], Morocco || {{fb|GAM}} || align="center" | 1–0 || align="center" | 2–1 || rowspan=2| [[2025 Africa Cup of Nations qualification Group A|2025 Africa Cup of Nations qualification]]
+|-
+| align="center" | 4 || 14 November 2024 || [[Loftus Versfeld Stadium]], [[Pretoria]], South Africa || {{fb|MAD}} || align="center" | 3–2 || align="center" | 3–2
+|-
+| align="center" | 5 || 13 October 2025 || [[Hammadi Agrebi Stadium]], [[Radès]], Tunisia || {{fb|NAM}} || align="center" | 1–0 || align="center" | 3–0 || [[2026 FIFA World Cup qualification – CAF Group H|2026 FIFA World Cup qualification]]
+|-
+| align="center" | 6 || 14 November 2025 || Hammadi Agrebi Stadium, Radès, Tunisia || {{fb|JOR}} || align="center" | 1–1 || align="center" | 3–2 || Friendly
+|-
+| align="center" | 7 || 27 December 2025|| [[Fez Stadium]], [[Fez, Morocco|Fez]], Morocco || {{fb|NGA}} || align=center | 2–3 || align=center | 2–3 || [[2025 Africa Cup of Nations Group C|2025 Africa Cup of Nations]]
+|}
+
+==Honours==
+'''Club Africain'''
+*[[Tunisian Cup]]: [[2016–17 Tunisian Cup|2016–17]], [[2017–18 Tunisian Cup|2017–18]]
+
+'''Tunisia'''
+*[[Kirin Cup Soccer|Kirin Cup]]: [[2022 Kirin Cup Soccer|2022]]
+
+'''Individual'''
+*[[Trophées UNFP du football|UNFP Ligue 2 Team of the Year]]: [[2021–22 Ligue 2|2021–22]],<ref name="Ligue2TOTS">{{cite tweet |user=UNFP |author=UNFP |author-link=National Union of Professional Footballers |number=1525923730563678211 |date=15 May 2022 |title=Un onze-type qui a vu la vie en rose cette saison, ne cuvée 2021–2022 qui a fière allure, n'est-ce pas}}</ref> [[2023–24 Ligue 2|2023–24]]<ref>{{Cite web |last=Ouest-France |date=2024-05-13 |title=Trophées UNFP. L'équipe type de la saison de L2 : Auxerre en force, Angers et Caen bien représentés |url=https://www.ouest-france.fr/sport/football/ligue-2/trophees-unfp-lequipe-type-de-la-saison-de-l2-auxerre-en-force-angers-et-caen-bien-representes-6f838a62-1141-11ef-993c-f37c0160a6dd |access-date=2024-05-15 |website=Ouest-France.fr |language=fr}}</ref>
+* [[Tunisian Footballer of the Year]]: 2024, 2025
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Soccerway|ali-abdi/223160}}
+*[https://parisfc.fr/project/axel-bamba/ Paris FC Profile]
+
+{{OGC Nice squad}}
+{{Navboxes
+| title = Tunisia squads
+| bg = #E70013
+| fg = white
+| bordercolor = white
+| list1 =
+{{Tunisia squad 2021 Africa Cup of Nations}}
+{{Tunisia squad 2022 FIFA World Cup}}
+{{Tunisia squad 2023 Africa Cup of Nations}}
+{{Tunisia squad 2025 Africa Cup of Nations}}
+{{Tunisia squad 2026 FIFA World Cup}}
+}}
+{{Navboxes
+| bg = gold
+| fg = nav
+| title = Awards
+| list1 =
+{{Tunisian Footballer of the Year}}
+{{2021–22 Ligue 2 UNFP Team of the Year}}
+{{2023–24 Ligue 2 UNFP Team of the Year}}
+}}
+
+{{DEFAULTSORT:Abdi, Ali}}
+[[Category:1993 births]]
+[[Category:Living people]]
+[[Category:Footballers from Sfax]]
+[[Category:Tunisian men's footballers]]
+[[Category:21st-century Tunisian sportsmen]]
+[[Category:Men's association football full-backs]]
+[[Category:Tunisia men's international footballers]]
+[[Category:Tunisia men's under-23 international footballers]]
+[[Category:2021 Africa Cup of Nations players]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:2023 Africa Cup of Nations players]]
+[[Category:2025 Africa Cup of Nations players]]
+[[Category:Tunisian Ligue Professionnelle 1 players]]
+[[Category:Ligue 2 players]]
+[[Category:Ligue 1 players]]
+[[Category:Championnat National 2 players]]
+[[Category:Championnat National 3 players]]
+[[Category:JS Kairouan players]]
+[[Category:Espérance Sportive de Tunis players]]
+[[Category:Stade Tunisien players]]
+[[Category:Club Africain players]]
+[[Category:Paris FC players]]
+[[Category:Stade Malherbe Caen players]]
+[[Category:OGC Nice players]]
+[[Category:Tunisian expatriate men's footballers]]
+[[Category:Tunisian expatriate sportspeople in France]]
+[[Category:Expatriate men's footballers in France]]
+[[Category:2026 FIFA World Cup players]]

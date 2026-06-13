@@ -1,0 +1,24 @@
+{
+ "team": "KOR",
+ "coach": {
+  "name_zh": "洪明甫",
+  "name_en": "Hong Myung-bo",
+  "nationality": "South Korea",
+  "career_since": "2005",
+  "person_id": "per_hong_myung_bo"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 洪明甫（Hong Myung-bo）自2005年开启执教生涯，韩国籍前国脚队长，2014年巴西世界杯首次以主教练身份带队遭遇小组赛出局，2026年北美世界杯是其第二次执掌国家队教鞭。\n\n- 中卫赵佑民（Jo Yu-min，30岁）在10月31日对阵特立尼达和多巴哥的友谊赛中右脚足底筋膜断裂，需休养八周，已确认无缘2026世界杯，成为韩国队首位正式名单中的重伤离队球员。\n\n- 赵佑民的替代者为2001年出生的新秀中卫赵伟济（Jo Wi-je，25岁，全北现代），原仅为赴美集训的训练伙伴，现直接补入提交国际足联的26人最终名单。\n\n- 中场球员裴俊镐（Bae Jun-ho）在同场友谊赛中左脚踝受伤，已连续三天未参与团队合练，出战首场小组赛对阵捷克的可能性极低，但韩国足协表示其伤势不重仍在持续观察。\n\n- 根据国际足联规定，世界杯球队仅可在首场比赛前24小时内因严重伤病更换球员，若超时则必须以剩余阵容完成全部赛事，目前韩国队仅剩裴俊镐一名伤员，教练组全力投入球员状态管理以避免进一步减员。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.95,
+  "issues": []
+ },
+ "brief_fetched": "2026-06-13_1138",
+ "brief_info_chars": 6000
+}

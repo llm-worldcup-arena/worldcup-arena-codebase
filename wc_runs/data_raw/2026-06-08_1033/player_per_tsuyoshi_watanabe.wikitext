@@ -1,0 +1,199 @@
+{{short description|Japanese footballer}}
+{{Use dmy dates|date=January 2025}}
+{{Infobox football biography
+|name = Tsuyoshi Watanabe
+|image = 
+|image_size = 
+|caption = 
+|fullname = Tsuyoshi Watanabe
+|birth_date = {{Birth date and age|1997|2|5|df=yes}}
+|birth_place = [[Saitama Prefecture|Saitama]], Japan
+|height = {{Height|m=1.86}}
+|position = [[Centre-back]]
+|currentclub = [[Feyenoord]]
+|clubnumber = 4
+|youthyears1 = {{0|0000}}–2008
+|youthclubs1 = Obukuro FC
+|youthyears2 = 2009–2011
+|youthclubs2 = [[FC Tokyo]]
+|youthyears3 = 2012–2014
+|youthclubs3 = Yamanashi Gakuin Univ. High School
+|collegeyears1 = 2015–2018
+|college1 = [[Chuo University]]
+|years1 = 2018–2019
+|clubs1 = [[FC Tokyo U-23]]
+|caps1 = 6
+|goals1 = 0
+|years2 = 2019–2021
+|clubs2 = [[FC Tokyo]]
+|caps2 = 75
+|goals2 = 5
+|years3 = 2022–2023
+|clubs3 = [[K.V. Kortrijk|Kortrijk]]
+|caps3 = 41
+|goals3 = 1
+|years4 = 2023–2025
+|clubs4 = [[KAA Gent|Gent]]
+|caps4 = 70
+|goals4 = 4
+|years5 = 2025–
+|clubs5 = [[Feyenoord]]
+|caps5 = 30
+|goals5 = 2
+|nationalyears1 = 2019–2021
+|nationalteam1 = [[Japan national under-23 football team|Japan U23]]
+|nationalcaps1 = 4
+|nationalgoals1 = 0
+|nationalyears2 = 2019–
+|nationalteam2 = [[Japan national football team|Japan]]
+|nationalcaps2 = 11
+|nationalgoals2 = 0
+|pcupdate = 18:40, 10 May 2026 (UTC)
+|ntupdate = 23:25, 31 May 2026 (UTC)
+}}
+
+{{Nihongo|'''Tsuyoshi Watanabe'''|渡辺 剛|Watanabe Tsuyoshi|born 5 February 1997}} is a Japanese [[Association football|football]] player who plays as a [[Defender (association football)|defender]] for [[Eredivisie]] club [[Feyenoord]]<ref>{{J.League player}}</ref> and the [[Japan national football team|Japan national team]].
+
+==Club career==
+Watanabe joined [[J1 League]] club [[FC Tokyo]] in 2018.{{citation needed|date=January 2025}} On 4 January 2021, he started for FC Tokyo in the [[2020 J.League Cup final|final]] of the J.League Cup against [[Kashiwa Reysol]]. FC Tokyo won 2–1 to claim the third [[J.League Cup]] in club history.<ref>{{cite web |title=Japan – List of League Cup Winners |url=https://www.rsssf.org/tablesj/japleagcuphist.html |website=[[RSSSF]] |access-date=17 May 2022}}</ref><ref>{{cite web |title=【公式】柏vsFC東京の試合結果・データ（ＪリーグYBCルヴァンカップ：2021年1月4日）：Ｊリーグ.jp |url=https://www.jleague.jp/match/leaguecup/2021/010401/live/#recap |website=Ｊリーグ.jp（日本プロサッカーリーグ） |access-date=24 August 2022 |language=ja}}</ref>
+
+On 28 December 2021, Watanabe signed a three and a half year contract with [[K.V. Kortrijk|Kortrijk]] in Belgium.<ref>{{cite press release|publisher=[[K.V. Kortrijk|Kortrijk]]|url=https://www.kvk.be/nieuws/eerste-japanner-bij-kv-kortrijk/|title=EERSTE JAPANNER BIJ KV KORTRIJK|date=28 December 2021|access-date=9 February 2022|language=nl}}</ref> On 1 July 2023, Watanabe moved to fellow [[Belgian Pro League|Pro League]] club [[KAA Gent]] on a permanent deal for a fee of €3,500,000.<ref>{{Cite web|url=https://www.kaagent.be/nl/nieuws/09-06-2023/kaa-gent-verwelkomt-tsuyoshi-watanabe|title=KAA Gent verwelkomt Tsuyoshi Watanabe &#124; KAA Gent Website|website=KAA Gent}}</ref>
+
+On 23 July 2025, Watanabe joined [[Eredivisie|Dutch]] side [[Feyenoord]] on a four year contract.<ref>{{cite web |url=https://www.vi.nl/nieuws/officieel-feyenoord-lost-met-watanabe-eerste-defensieve-probleem-op |title=Officieel: Feyenoord lost met Watanabe eerste defensieve probleem op |trans-title=Official: Feyenoord fixes first defensive issues with Watanabe |language=Dutch |date=23 July 2025 |access-date=23 July 2025}}</ref> On 12 August, he scored his first two goals for the club in a 5–2 defeat to [[Fenerbahçe S.K. (football)|Fenerbahçe]] in the [[2025–26 UEFA Champions League qualifying|third qualifying round]] of the UEFA Champions League.<ref>{{cite web|url=https://www.uefa.com/uefachampionsleague/match/2045722--fenerbahce-vs-feyenoord/|title=Fenerbahçe SK 5-2 Feyenoord|website=UEFA|date=12 August 2025|access-date=11 November 2025}}</ref>
+
+==International career==
+On 1 January 2024, Watanabe  was selected by manager [[Hajime Moriyasu]] as a member of the Japan squad at the [[2023 AFC Asian Cup]].<ref>{{cite news |url=https://jfa.jp/eng/news/00033539/ |title=SAMURAI BLUE (Japan National Team) squad - AFC Asian Cup Qatar 2023 |date=1 January 2024 |publisher=Japan Football Association |access-date=1 January 2024}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 10 May 2026}}<ref name="Tsuyoshi Watanabe Soccerway Player Statistics">{{Soccerway|tsuyoshi-watanabe/557795}}</ref>
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup{{efn|Includes [[Emperor's Cup]], [[Belgian Cup]], [[KNVB Cup]]}}
+!colspan="2"|League cup{{efn|Includes [[J.League Cup]]}}
+!colspan="2"|Continental
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="4"|[[FC Tokyo]]
+|[[2019 FC Tokyo season|2019]]
+|[[J1 League]]
+|20||2||2||0||9||1||colspan=2|—||31||2
+|-
+|[[2020 FC Tokyo season|2020]]
+|J1 League
+|28||2||0||0||3||0||7{{efn|name=ACL|Appearances in [[AFC Champions League]]}}||0||38||2
+|-
+|[[2021 J1 League|2021]]
+|J1 League
+|27||1||0||0||7||1||colspan=2|—||34||2
+|-
+!colspan=2|Total
+!75||5||1||0||19||2||7||0||103||7
+|-
+|rowspan="3"|[[K.V. Kortrijk|Kortrijk]]
+|[[2021–22 Belgian First Division A|2021–22]]
+|[[Belgian Pro League]]
+|7||0||2||0||colspan=2|—||colspan=2|—||9||0
+|-
+|[[2022–23 Belgian Pro League|2022–23]]
+|Belgian Pro League
+|34||1||0||0||colspan=2|—||colspan=2|—||34||1
+|-
+!colspan=2|Total
+!41||1||2||0||colspan=2|—||colspan=2|—||43||1
+|-
+|rowspan="3"|[[KAA Gent|Gent]]
+|[[2023–24 KAA Gent season|2023–24]]
+|Belgian Pro League
+|36||2||2||0||colspan=2|—||14{{efn|name=UECL|Appearances in [[UEFA Europa Conference League]]}}||1||52||3
+|-
+|[[2024–25 KAA Gent season|2024–25]]
+|Belgian Pro League
+|34||2||1||0||colspan=2|—||13{{efn|name=UECL}}||1||48||3
+|-
+!colspan=2|Total
+!70!!4!!3!!0!!colspan=2|—!!27!!2!!100!!6
+|-
+|[[Feyenoord]]
+|[[2025–26 Feyenoord season|2025–26]]
+|[[Eredivisie]]
+|30||2||1||0||colspan="2"|—||8{{efn|Two appearances and two goals in [[UEFA Champions League]], six appearances and one goal in [[UEFA Europa League]]}}||3||39||5
+|-
+!colspan=3|Career total
+!216||12||8||0||19||2||42||5||285||18
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 31 May 2026}}<ref>{{NFT player}}</ref>
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="5"|[[Japan national football team|Japan]]
+|2019||1||0
+|-
+|2023||1||0
+|-
+|2024||1||0
+|-
+|2025||5||0
+|-
+|2026||3||0
+|-
+!colspan="2"|Total||11||0
+|}
+
+==Honours==
+'''FC Tokyo'''
+*[[J.League Cup]]: [[2020 J.League Cup|2020]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{J.League player}}
+
+{{Feyenoord squad}}
+{{Navboxes
+|title=Japan squads
+|bg=mediumblue
+|fg=white
+|bordercolor=red
+|list1=
+{{Japan squad 2023 AFC Asian Cup}}
+{{Japan squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Watanabe, Tsuyoshi}}
+[[Category:1997 births]]
+[[Category:Football people from Saitama Prefecture]]
+[[Category:Living people]]
+[[Category:Japanese men's footballers]]
+[[Category:Japan men's international footballers]]
+[[Category:Men's association football defenders]]
+[[Category:Chuo University alumni]]
+[[Category:FC Tokyo players]]
+[[Category:FC Tokyo U-23 players]]
+[[Category:KV Kortrijk players]]
+[[Category:KAA Gent players]]
+[[Category:Feyenoord players]]
+[[Category:J1 League players]]
+[[Category:J3 League players]]
+[[Category:Belgian Pro League players]]
+[[Category:Eredivisie players]]
+[[Category:Japanese expatriate men's footballers]]
+[[Category:Expatriate men's footballers in Belgium]]
+[[Category:Japanese expatriate sportspeople in Belgium]]
+[[Category:Expatriate men's footballers in the Netherlands]]
+[[Category:Japanese expatriate sportspeople in the Netherlands]]
+[[Category:2023 AFC Asian Cup players]]
+[[Category:21st-century Japanese sportsmen]]
+[[Category:2026 FIFA World Cup players]]
+
+{{Japan-footy-defender-1990s-stub}}

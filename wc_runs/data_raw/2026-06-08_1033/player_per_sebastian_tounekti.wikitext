@@ -1,0 +1,260 @@
+{{short description|Tunisian footballer (born 2002)}}
+{{Use dmy dates|date=March 2022}}
+{{Infobox football biography
+| name = Sebastian Tounekti
+| fullname = 
+| image = 
+| birth_date = {{birth date and age|2002|7|13|df=y}}
+| birth_place = [[Tromsø (city)|Tromsø]], Norway
+| height = 1.83 m
+| currentclub = [[Celtic F.C.|Celtic]]
+| clubnumber = 23
+| position = [[Winger (association football)|Winger]]
+| youthyears1 = –2018
+| youthclubs1 = [[Tromsdalen UIL|Tromsdalen]]
+| years1 = 2018–2019
+| clubs1 = [[Tromsdalen UIL|Tromsdalen]]
+| caps1 = 12
+| goals1 = 0
+| years2 = 2020–2022
+| clubs2 = [[FK Bodø/Glimt|Bodø/Glimt]]
+| caps2 = 14
+| goals2 = 1
+| years3 = 2021–2022
+| clubs3 = → [[FC Groningen|Groningen]] (loan)
+| caps3 = 0
+| goals3 = 0
+| years4 = 2022–2025
+| clubs4 = [[FK Haugesund|Haugesund]]
+| caps4 = 41
+| goals4 = 4
+| years5 = 2023
+| clubs5 = → [[Ranheim Fotball|Ranheim]] (loan)
+| caps5 = 5
+| goals5 = 1
+| years6 = 2025
+| clubs6 = [[Hammarby Fotboll|Hammarby IF]]
+| caps6 = 21
+| goals6 = 3
+| years7 = 2025–
+| clubs7 = [[Celtic FC|Celtic]]
+| caps7 = 27
+| goals7 = 2
+| nationalyears1 = 2017
+| nationalteam1 = [[Norway national under-15 football team|Norway U15]]
+| nationalcaps1 = 4
+| nationalgoals1 = 1
+| nationalyears2 = 2019
+| nationalteam2 = [[Norway national under-17 football team|Norway U17]]
+| nationalcaps2 = 5
+| nationalgoals2 = 0
+| nationalyears3 = 2020
+| nationalteam3 = [[Norway national under-19 football team|Norway U19]]
+| nationalcaps3 = 3
+| nationalgoals3 = 1
+| nationalyears4 = 2021–
+| nationalteam4 = [[Tunisia national football team|Tunisia]]
+| nationalcaps4 = 11
+| nationalgoals4 = 1
+| club-update = 19:55, 16 May 2026 (UTC)
+| nationalteam-update = 1 June 2026 
+}}
+'''Sebastian Tounekti''' (born 13 July 2002) is a professional [[association football|footballer]] who plays as a [[winger (association football)|winger]] for [[Scottish Premiership]] club [[Celtic F.C.|Celtic]]. Born in Norway, he plays for the [[Tunisia national football team|Tunisia national team]].
+
+==Club career==
+
+=== Tromsdalen ===
+Tounekti was born in [[Tromsø (city)|Tromsø]].<ref>{{cite web |url=http://www.altomfotball.no/element.do?cmd=player&personId=347029&tournamentId=1&seasonId=342&teamId=307&useFullUrl=false |archive-url=https://web.archive.org/web/20200617043212/http://www.altomfotball.no/element.do?cmd=player&personId=347029&tournamentId=1&seasonId=342&teamId=307&useFullUrl=false |url-status=dead |archive-date=17 June 2020 |title=Sebastian Tounekti |work=altomfotball.no |publisher=TV2 |accessdate=17 June 2020}}</ref> He made his senior debut for [[Tromsdalen UIL|Tromsdalen]] on 30 September 2018 against [[Ullensaker/Kisa IL|Ullensaker/Kisa]]; Tromsdalen won 3–0.<ref name="nff">{{NFF|2748925}}</ref>
+
+=== Bodø/Glimt===
+He made his senior debut for [[FK Bodø/Glimt|Bodø/Glimt]] on 16 June 2020 against [[Viking FK|Viking]]; Bodø/Glimt won 4–2. He scored his first and only goal in October 2020 against Molde.<ref name=nff/> Tounekti and [[George Lewis (footballer, born 2000)|George Lewis]] were both players at Tromsdalen who were discovered by clubs other than Tromsdalen's larger neighbour [[Tromsø IL]], the failure to pick them up being lamented by Tromsø fans. Tounekti was part of the Bodø/Glimt squad that won the Eliteserien title in 2020. He also appeared as a substitute in both legs of the UEFA Champions League qualifying round against Legia Warsaw.<ref>{{cite news|url=https://www.aftenposten.no/sport/fotball/i/dOXyl1/de-seks-stoerste-talentene-som-glapp-for-til|title=De seks største talentene som glapp for TIL|date=3 June 2020|work=Aftenposten|language=no|access-date=30 October 2021}}</ref>
+
+=== Groningen ===
+In the end of the transfer window, the 19-year-old joined Dutch Eredivisie club FC Groningen on loan from Bodø/Glimt for the remainder of the 2021–22 season.<ref>https://www.nrk.no/tromsogfinnmark/tounekti-leies-ut-til-fc-groningen-1.15630647</ref>
+
+=== Haugesund ===
+On 30 August 2022, Tounekti signed a four-year contract with the Eliteserien club. He had his breakthrough during the 2024 season.<ref>https://www.glimt.no/nyheter/sebastian-tounekti-selges-til-haugesund</ref>
+
+=== Hammarby ===
+Tounekti moved to Sweden on 9 February 2025, joining [[Allsvenskan]] side [[Hammarby Fotboll]] on a five-year contract.<ref>{{Cite web |title=Hammarby värvar Sebastian Tounekti |url=https://www.hammarbyfotboll.se/nyheter/hammarby-vaervar-sebastian-tounekti |access-date=2025-09-02 |website=Hammarby Fotboll}}</ref>
+
+=== Celtic ===
+Tounetki joined [[Scottish Premiership]] side [[Celtic F.C.|Celtic]] on 1 September 2025 on a five-year contract.<ref>{{Cite web |last= |first= |date=2025-09-01 |title=Welcome to Celtic, Sebastian Tounekti |url=https://www.celticfc.com/news/2025/september/01/welcome-to-celtic--/ |access-date=2025-09-02 |website=Celtic FC |language=en}}</ref> He made his debut against [[Kilmarnock F.C.|Kilmarnock]] at [[Rugby Park]] on 14 September 2025. He scored his first goal on the 21 September 2025 in a [[Scottish League Cup]] [[2025-26 Scottish League Cup#Quarter-finals|Quarter final]] 4-0 win against [[Partick Thistle F.C.|Partick Thistle]] at [[Firhill Stadium]].<ref>{{Cite web |last= Dowden |first= Martin |date=2025-09-21 |title=Partick Thistle 4-0 Celtic: Brendan Rodgers' side cruise into last four for Rangers showdown|url=https://www.bbc.co.uk/sport/football/live/c5yg8ygm4p7t |access-date=2026-06-03 |website=[[BBC Sport]] |language=en}}</ref>
+
+==International career==
+Tounekti was born in Norway to a Tunisian father and Norwegian mother.<ref>{{Cite web|url=https://www.nettavisen.no/12-95-3424102755|title=Tounekti velger Tunisia – tatt ut på A-landslaget|date=16 March 2021|website=Nettavisen}}</ref> He was a youth international for Norway up until [[Norway national under-19 football team|U19]] level.<ref name=nff/> He was called up to represent the senior [[Tunisia national football team|Tunisia national team]] on 19 March 2021.<ref>{{Cite web|url=https://www.kawarji.com/actu-64765-en-la-liste-de-mondher-kebaier-pour-affronter-la-libye-et-la-guinee-equatoriale.html|title=EN : La liste de Mondher Kebaier pour affronter la Libye et la Guinée Equatoriale|website=www.kawarji.com}}</ref> He debuted with Tunisia in a 3–0 [[2022 FIFA World Cup qualification]] win over [[Mauritania national football team|Mauritania]] on 7 October 2021.<ref name="Global Sports Archive 2021">{{cite web | title=Match Report of Tunisia vs Mauritania - 2021-10-07 - WC Qualification | website=Global Sports Archive | date=7 October 2021 | url=https://globalsportsarchive.com/match/soccer/2021-10-07/tunisia-vs-mauritania/2358534/ | access-date=7 October 2021}}</ref>
+
+Tounekti did not receive another call up for four years, returning for an international friendly against [[Morocco national football team|Morocco]] in June 2025. He also played in a World Cup playoff against Equatorial Guinea in September 2025.<ref>{{Cite news|url=https://www.scotsman.com/sport/football/celtic/latest-celtic-news/celtic-star-lands-world-cup-spot-in-dramatic-fashion-as-hamza-igamanes-dream-spell-after-rangers-goes-on-5308367|title=Celtic star lands World Cup spot in dramatic fashion as Igamane's dream spell after Rangers goes on|last=Atkinson|first=Mark|date=8 September 2025|website=The Scotsman}}</ref>
+
+==Personal life==
+Tounekti is the cousin of the Norwegian footballer [[Bryan Fiabema]].<ref>{{Cite web|url=https://www.aftenposten.no/sport/fotball/i/lEAyGL/sebastian-18-scoret-faa-timer-etter-at-soeskenbarnet-herjet-for-chelsea-jeg-maatte-score-siden-han-leverte-saa-bra|title=Sebastian (18) scoret få timer etter at søskenbarnet herjet for Chelsea: – Jeg måtte score siden han leverte så bra|date=18 October 2020|website=www.aftenposten.no}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 23 May 2026}}<ref name="nff"/><ref>{{soccerway|sebastian-tounekti/544895|access-date=31 March 2025}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="3"|[[Tromsdalen UIL|Tromsdalen]] 
+|[[2018 Norwegian First Division|2018]]
+|rowspan="2"|[[Norwegian First Division]]
+|1||0||0||0||colspan="2"|–||colspan="2"|–||1||0
+|-
+|[[2019 Norwegian First Division|2019]]
+|11||0||1||0||colspan="2"|–||colspan="2"|–||12||0
+|-
+!colspan="2"|Total
+!12!!0!!1!!0!!colspan="2"|–||colspan="2"|–!!13!!0
+|-
+|rowspan="3"|[[FK Bodø/Glimt|Bodø/Glimt]]
+|[[2020 FK Bodø/Glimt season|2020]]
+|rowspan="2"|[[Eliteserien]]
+|9||1||colspan="2"|–||1||1||colspan="2"|–||10||2
+|-
+|[[2021 FK Bodø/Glimt season|2021]]
+|5||0||2||0||4||0||colspan="2"|–||11||0 
+|-
+!colspan="2"|Total
+!14!!1!!2!!0!!5!!1!!colspan="2"|–!!21!!2
+|-
+|[[FC Groningen|Groningen]] (loan)
+|[[2021–22 FC Groningen season|2021–22]] 
+|[[Eredivisie]]
+|0||0||0||0||colspan="2"|–||colspan="2"|–||0||0
+|-
+|rowspan="4"|[[FK Haugesund|Haugesund]]
+|[[2022 Eliteserien|2022]]
+|rowspan="3"|Eliteserien
+|5||0||0||0||colspan="2"|–||colspan="2"|–||5||0 
+|-
+|[[2023 Eliteserien|2023]]
+|7||0||3||0||colspan="2"|–||colspan="2"|–||10||0 
+|-
+|[[2024 Eliteserien|2024]]
+|29||4||1||0||colspan="2"|–||2||0||32||4
+|-
+!colspan="2"|Total
+!41!!4!!4!!0!!colspan="2"|–!!2!!0!!47!!4
+|-
+|[[Ranheim Fotball|Ranheim]] (loan)
+|[[2023 Norwegian First Division|2023]] 
+|Norwegian First Division
+|5||1||0||0||colspan="2"|–||colspan="2"|–||5||1
+|-
+|[[Hammarby Fotboll|Hammarby IF]]
+|[[2025 Hammarby Fotboll season|2025]] 
+|[[Allsvenskan]]
+|21||3||2||1||4||0||colspan="2"|–||27||4
+|-
+|[[Celtic F.C.|Celtic]]
+|[[2025–26 Celtic F.C. season|2025–26]]
+|[[Scottish Premiership]]
+|27||2||5||2||10||0||3||1||45||5
+|-
+!colspan="3"|Career total
+!120!!11!!14!!3!!19!!1!!5!!1!!158!!16
+|}
+
+===International===
+{{updated|match played 1 June 2026}}<ref name="NFT">{{NFT player|84195|access-date=31 March 2026}}</ref>
+
+{|class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team, and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="3"|[[Tunisia national football team|Tunisia]]
+|2021||1||0
+|-
+|2025||7||0
+|-
+|2026||3||1
+|-
+!colspan="2"|Total!!11!!1
+|}
+
+''Scores and results list Tunisia's goal tally first.''<ref name="NFT"/>
+{| class="wikitable sortable"
+|+ List of international goals scored by Sebastian Tounekti
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+|-
+| align="center"|1 || 28 March 2026 || [[BMO Field]], [[Toronto]], Canada || {{fb|HAI}} || align="center"|'''1'''–0 || align="center"|1–0 || [[Exhibition game#Association football|Friendly]]
+|}
+
+==Honours==
+'''Bodø/Glimt'''
+*[[Eliteserien]]: [[2020 Eliteserien|2020]], [[2021 Eliteserien|2021]]
+
+'''Celtic'''
+*[[Scottish Premiership]]: [[2025–26 Scottish Premiership|2025–26]]<ref>{{Cite web|url=https://www.theguardian.com/football/2026/may/16/celtic-stun-hearts-at-the-last-in-dramatic-final-day-shootout-to-retain-scottish-title|title=Celtic stun Hearts at the last in dramatic final-day shootout to retain Scottish title|first=Guardian|last=sport|work=The Guardian |date=16 May 2026}}</ref>
+*[[Scottish Cup]]: [[2025–26 Scottish Cup|2025–26]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{soccerbase|129857}}
+
+{{Celtic F.C. squad}}
+{{Navboxes
+| title=  Tunisia squads
+| bg = #E70013
+| fg = white
+| bordercolor = white
+| list1 =
+{{Tunisia squad 2025 Africa Cup of Nations}}
+{{Tunisia squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Tounekti, Sebastian}}
+[[Category:2002 births]]
+[[Category:Living people]]
+[[Category:Tunisian people of Norwegian descent]]
+[[Category:Norwegian people of Tunisian descent]]
+[[Category:Footballers from Tromsø]]
+[[Category:Tunisian men's footballers]]
+[[Category:Norwegian men's footballers]]
+[[Category:Men's association football midfielders]]
+[[Category:Tromsdalen UIL players]]
+[[Category:FK Bodø/Glimt players]]
+[[Category:FC Groningen players]]
+[[Category:FK Haugesund players]]
+[[Category:Ranheim Fotball players]]
+[[Category:Hammarby Fotboll players]]
+[[Category:Celtic F.C. players]]
+[[Category:Norwegian First Division players]]
+[[Category:Eliteserien players]]
+[[Category:Allsvenskan players]]
+[[Category:Scottish Professional Football League players]]
+[[Category:Norway men's youth international footballers]]
+[[Category:Tunisia men's international footballers]]
+[[Category:2025 Africa Cup of Nations players]]
+[[Category:Norwegian expatriate men's footballers]]
+[[Category:Norwegian expatriate sportspeople in the Netherlands]]
+[[Category:Norwegian expatriate sportspeople in Sweden]]
+[[Category:Norwegian expatriate sportspeople in Scotland]]
+[[Category:Tunisian expatriate men's footballers]]
+[[Category:Tunisian expatriate sportspeople in the Netherlands]]
+[[Category:Tunisian expatriate sportspeople in Sweden]]
+[[Category:Tunisian expatriate sportspeople in Scotland]]
+[[Category:Expatriate men's footballers in the Netherlands]]
+[[Category:Expatriate men's footballers in Sweden]]
+[[Category:Expatriate men's footballers in Scotland]]
+[[Category:21st-century Norwegian sportsmen]]
+[[Category:21st-century Tunisian sportsmen]]
+[[Category:2026 FIFA World Cup players]]

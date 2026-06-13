@@ -1,0 +1,250 @@
+{{short description|Paraguayan footballer (born 1996)}}
+{{Use dmy dates|date=April 2020}}
+{{Infobox football biography
+| name = Andrés Cubas
+| image = InddelVal-Boca_(3).jpg
+| caption = Cubas with [[Boca Juniors]] in 2016
+| fullname = Adrián Andrés Cubas
+| birth_date = {{birth date and age|1996|5|11|df=yes}}<ref>{{cite web |url=https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf |title=FIFA World Cup 2026: Squad List |publisher=[[FIFA]] |date=June 2, 2026 |access-date=June 2, 2026}}</ref>
+| birth_place = [[Aristóbulo del Valle (Misiones)|Aristóbulo del Valle]], Argentina
+| height = 1.69 m
+| position = [[Midfielder]]
+| currentclub = [[Vancouver Whitecaps FC]]
+| clubnumber = 20
+| youthyears1 = 
+| youthclubs1 = [[Boca Juniors]]
+| years1 = 2014–2018
+| clubs1 = [[Boca Juniors]]
+| caps1 = 28
+| goals1 = 0
+| years2 = 2017
+| clubs2 = → [[Delfino Pescara 1936|Pescara]] (loan)
+| caps2 = 1
+| goals2 = 0
+| years3 = 2017–2018
+| clubs3 = → [[Defensa y Justicia]] (loan)
+| caps3 = 21
+| goals3 = 0
+| years4 = 2018–2020
+| clubs4 = [[Talleres de Córdoba|Talleres]]
+| caps4 = 38
+| goals4 = 1
+| years5 = 2020–2022
+| clubs5 = [[Nîmes Olympique|Nîmes]]
+| caps5 = 48
+| goals5 = 2
+| years6 = 2022–
+| clubs6 = [[Vancouver Whitecaps FC]]
+| caps6 = 99
+| goals6 = 1
+| nationalyears1 = 2015
+| nationalteam1 = [[Argentina national under-20 football team|Argentina U20]]
+| nationalcaps1 = 3
+| nationalgoals1 = 0
+| nationalyears2 = 2019–
+| nationalteam2 = [[Paraguay national football team|Paraguay]]
+| nationalcaps2 = 32
+| nationalgoals2 = 0
+| club-update = 23:25, 5 October 2025 (UTC)
+| nationalteam-update = 10 October 2025
+}}
+
+'''Adrián Andrés Cubas''' (born 11 May 1996) is a professional [[association football|footballer]] who plays as [[midfielder]] for [[Major League Soccer]] club [[Vancouver Whitecaps FC]]. Born in Argentina, he plays for the [[Paraguay national football team|Paraguay national team]].
+
+==Club career==
+Cubas joined French club [[Nîmes Olympique|Nîmes]] from Argentine side [[Talleres de Córdoba|Talleres]] in 2020.<ref name="delprat">{{cite news |last1=Delprat |first1=Colin |title=Nîmes Olympique. Vers un départ d'Andrés Cubas en ligue américaine |trans-title=Nîmes Olympique. Andrés Cubas set to leave for the American league |url=https://www.lagazettedenimes.fr/sport/2022-04-13-nimes-olympique-vers-un-depart-d-andres-cubas-en-ligue-americaine/ |access-date=23 November 2025 |work=La Gazette de Nîmes |date=13 April 2022 |language=French}}</ref> The transfer fee paid to Talleres was reported as around €3 million.<ref name="delprat"/><ref>{{cite news |title=Andrés Cubas quitte le Nîmes Olympique pour les Whitecaps de Vancouver |trans-title=Andrés Cubas leaves Nîmes Olympique for the Vancouver Whitecaps |url=https://www.sofoot.com/breves/andres-cubas-quitte-le-nimes-olympique-pour-les-whitecaps-de-vancouver |access-date=23 November 2025 |work={{ill|So Foot|fr}} |date=29 April 2022 |language=French}}</ref>
+
+On 28 April 2022, he signed a contract with [[Major League Soccer]] side [[Vancouver Whitecaps FC]] until June 2026.<ref>{{cite press release|publisher=Vancouver Whitecaps|url=https://www.whitecapsfc.com/news/vwfc-acquire-cubas|title=Whitecaps FC acquire Paraguayan international midfielder Andrés Cubas from Nîmes Olympique|date=28 April 2022|access-date=29 April 2022}}</ref> He was purchased for a reported fee of $3 million from Nîmes.<ref>{{cite news |title=Le Nîmes Olympique serait endetté à hauteur de 30 millions d'euros |trans-title=Nîmes Olympique is reportedly €30 million in debt |url=https://www.sofoot.com/breves/le-nimes-olympique-serait-endette-a-hauteur-de-30-millions-deuros-france |access-date=23 November 2025 |work=So Foot |date=28 April 2022 |language=French}}</ref>
+
+On February 24, 2026, he signed a contract extension with the Whitecaps through the 2027/28 season.<ref>https://www.whitecapsfc.com/news/vwfc-cubas-contract-extension</ref>
+
+== Personal life ==
+Cubas's father is from Paraguay.<ref>[http://www.minutouno.com/notas/346313-ramon-diaz-quiere-nacionalizar-paraguayo-una-las-joyitas-boca Ramón Díaz quiere nacionalizar paraguayo a una de las joyitas de Boca] {{in lang|es}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 5 October 2025}}<ref name="ACSW">{{Soccerway|adrian-andres-cubas/334594|access-date=30 July 2017}}</ref>
+
+{|class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup
+!colspan="2"|League cup
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="6"|[[Boca Juniors]]
+|[[2013–14 Club Atlético Boca Juniors season|2013–14]]
+|rowspan="5"|[[Argentine Primera División]]
+|3||0||0||0||0||0||0||0||0||0||3||0
+|-
+|[[2014 Club Atlético Boca Juniors season|2014]]
+|7||0||0||0||0||0||2<ref group=lower-alpha name="CopaSA">Appearances in the [[Copa Sudamericana]]</ref>||0||0||0||9||0
+|-
+|[[2015 Club Atlético Boca Juniors season|2015]]
+|9||0||3||1||0||0||2<ref group=lower-alpha name="CopaLib">Appearances in the [[Copa Libertadores]]</ref>||0||0||0||14||1
+|-
+|[[2016 Club Atlético Boca Juniors season|2016]]
+|6||0||2||0||0||0||6<ref group=lower-alpha name="CopaLib"/>||0||1<ref group=lower-alpha name="SCA">Appearance in the [[Supercopa Argentina]]</ref>||0||15||0
+|-
+|[[2016–17 Club Atlético Boca Juniors season|2016–17]]
+|3||0||0||0||0||0||0||0||0||0||3||0
+|-
+!colspan="2"|Total
+!28!!0!!5!!1!!0!!0!!10!!0!!1!!0!!44!!1
+|-
+|[[Delfino Pescara 1936|Pescara]] (loan)
+|[[2016–17 Delfino Pescara 1936 season|2016–17]]
+|[[Serie A]]
+|1||0||0||0||colspan="2"|–||colspan="2"|–||colspan="2"|–||1||0
+|-
+|[[Defensa y Justicia]] (loan)
+|[[2017–18 Defensa y Justicia season|2017–18]]
+|Argentine Primera División
+|21||0||3||0||0||0||2<ref group=lower-alpha name="CopaSA"/>||0||0||0||26||0
+|-
+|rowspan="3"|[[Talleres de Córdoba|Talleres]]
+|[[2018–19 Talleres de Córdoba season|2018–19]]
+|rowspan="2"|Argentine Primera División
+|18||1||3||0||3||0||4<ref group=lower-alpha name="CopaLib"/>||0||0||0||28||1
+|-
+|[[2019–20 Talleres de Córdoba season|2019–20]]
+|20||0||3||0||1||0||0||0||1<ref group=lower-alpha name="SCA"/>||0||25||0
+|-
+!colspan="2"|Total
+!38!!1!!6!!0!!4!!0!!4!!0!!1!!0!!53!!1
+|-
+|rowspan="3"|[[Nîmes Olympique]]
+|[[2020–21 Nîmes Olympique season|2020–21]]
+|[[Ligue 1]]
+|27||1||0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||27||1
+|-
+|[[2021–22 Ligue 2|2021–22]]
+|[[Ligue 2]]
+|21||1||2||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||23||1
+|-
+!colspan="2"|Total
+!48!!2!!2!!0!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!50!!2
+|-
+|rowspan="5"|[[Vancouver Whitecaps FC]]
+|[[2022 Vancouver Whitecaps FC season|2022]]
+|rowspan="4"|[[Major League Soccer|MLS]]
+|18||1||0||0||colspan="2"|—||colspan="2"|—||2<ref group=lower-alpha name="CC">Appearances in [[Canadian Championship]]</ref>||0||20||1
+|-
+|[[2023 Vancouver Whitecaps FC season|2023]]
+|28||0||0||0||colspan="2"|—||2<ref group=lower-alpha name="CCC">Appearances in [[CONCACAF Champions Cup]]</ref>||0||5<ref group=lower-alpha>Three appearances in [[Leagues Cup]], two appearances in [[Canadian Championship]]</ref>||0||35||0
+|-
+|[[2024 Vancouver Whitecaps FC season|2024]]
+|28||0||4||0||colspan="2"|—||1<ref group=lower-alpha name="CCC"/>||0||3<ref group=lower-alpha>Appearances in [[MLS Cup Playoffs]] and Canadian Championship</ref>||0||36||0
+|-
+|[[2025 Vancouver Whitecaps FC season|2025]]
+|25||0||0||0||colspan="2"|—||8<ref group=lower-alpha name="CCC"/>||0||2<ref group=lower-alpha>Appearances in Canadian Championship</ref>||0||35||0
+|-
+!colspan="2"|Total
+!99!!1!!4!!0!!colspan="2"|—!!11!!0!!12!!0!!126!!1
+|-
+!colspan="3"|Career total
+!235!!4!!20!!1!!4!!0!!27!!0!!11!!0!!297!!4
+|}
+
+{{reflist|group=lower-alpha}}
+
+===International===
+{{updated|10 October 2025}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="7"|[[Paraguay national football team|Paraguay]]
+|2019||1||0
+|-
+|2020||2||0
+|-
+|2021||4||0
+|-
+|2022||6||0
+|-
+|2023||5||0
+|-
+|2024||7||0
+|-
+|2025||7||0
+|-
+!colspan="2"|Total||32||0
+|}
+
+==Honours==
+'''Boca Juniors'''
+*[[Argentine Primera División]]: [[2015 Argentine Primera División|2015]]
+*[[Copa Argentina]]: [[2014–15 Copa Argentina|2014–15]]
+
+'''Vancouver Whitecaps'''
+*[[Canadian Championship]]: [[2022 Canadian Championship|2022]],<ref>{{cite news |url=https://canadasoccer.com/news/vancouver-whitecaps-fc-win-the-2022-canadian-championship-final/|title=Vancouver Whitecaps FC win the 2022 Canadian Championship Final|date=27 July 2022 |access-date=29 July 2022 |publisher=Canada Soccer}}</ref> [[2023 Canadian Championship|2023]],<ref>{{cite news |url=https://canadasoccer.com/news/vancouver-whitecaps-fc-win-the-2023-canadian-championship/|title=Vancouver Whitecaps FC win the 2023 Canadian Championship|date=8 June 2023 |access-date=8 June 2023 |publisher=Canada Soccer}}</ref> [[2024 Canadian Championship|2024]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category|Andrés Cubas}}
+*{{Soccerway|adrian-andres-cubas/334594}}
+
+{{Vancouver Whitecaps FC squad}}
+{{Navboxes
+| title = Paraguay squads
+| bg = #dd0000
+| fg = White
+| list1 = 
+{{Paraguay squad 2021 Copa América}}
+{{Paraguay squad 2024 Copa América}}
+{{Paraguay squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Cubas, Andres}}
+[[Category:1996 births]]
+[[Category:Footballers from Misiones Province]]
+[[Category:Argentine people of Paraguayan descent]]
+[[Category:Sportspeople of Paraguayan descent]]
+[[Category:Living people]]
+[[Category:Argentine men's footballers]]
+[[Category:Argentina men's under-20 international footballers]]
+[[Category:Paraguayan men's footballers]]
+[[Category:Paraguay men's international footballers]]
+[[Category:Men's association football midfielders]]
+[[Category:Argentine Primera División players]]
+[[Category:Serie A players]]
+[[Category:Ligue 1 players]]
+[[Category:Ligue 2 players]]
+[[Category:Boca Juniors footballers]]
+[[Category:Delfino Pescara 1936 players]]
+[[Category:Defensa y Justicia footballers]]
+[[Category:Talleres de Córdoba footballers]]
+[[Category:Nîmes Olympique players]]
+[[Category:Vancouver Whitecaps FC players]]
+[[Category:2021 Copa América players]]
+[[Category:2024 Copa América players]]
+[[Category:Argentine expatriate men's footballers]]
+[[Category:Paraguayan expatriate men's footballers]]
+[[Category:Argentine expatriate sportspeople in Italy]]
+[[Category:Paraguayan expatriate sportspeople in Italy]]
+[[Category:Expatriate men's footballers in Italy]]
+[[Category:Argentine expatriate sportspeople in France]]
+[[Category:Paraguayan expatriate sportspeople in France]]
+[[Category:Expatriate men's footballers in France]]
+[[Category:Argentine expatriate sportspeople in Canada]]
+[[Category:Paraguayan expatriate sportspeople in Canada]]
+[[Category:Expatriate men's soccer players in Canada]]
+[[Category:Major League Soccer players]]
+[[Category:Designated Players (MLS)]]
+[[Category:21st-century Argentine sportsmen]]
+[[Category:21st-century Paraguayan sportsmen]]
+[[Category:2026 FIFA World Cup players]]
+
+
+{{Argentina-footy-midfielder-1990s-stub}}
+{{Paraguay-footy-midfielder-stub}}

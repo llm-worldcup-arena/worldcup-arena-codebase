@@ -1,0 +1,180 @@
+{{short description|Czech footballer (born 2000)}}
+{{Use dmy dates|date=May 2025}}
+{{Infobox football biography
+| name        = Robin Hranáč
+| image       =
+| height      = 1.90 m
+| birth_date  = {{Birth date and age|2000|1|29|df=y}}
+| birth_place = [[Plzeň]], Czech Republic
+| currentclub = [[TSG 1899 Hoffenheim|TSG Hoffenheim]]
+| clubnumber  = 2
+| position    = [[Defender (association football)|Defender]]
+| youthyears1 = {{0|0000}}–2018
+| youthclubs1 = [[FC Viktoria Plzeň|Viktoria Plzeň]]
+| years1      = 2018–2024
+| clubs1      = [[FC Viktoria Plzeň|Viktoria Plzeň]]
+| caps1       = 33
+| goals1      = 3
+| years2 = 2018–2021 | clubs2 = → [[FC Viktoria Plzeň|Viktoria Plzeň B]]                    | caps2 = 16.| goals2 = 2 
+| years3 = 2021      | clubs3 = → [[MFK Tatran Liptovský Mikuláš|Liptovský Mikuláš]] (loan) | caps3 = 18 | goals3 = 1
+| years4 = 2022–2023 | clubs4 = → [[FK Pardubice|Pardubice]] (loan)                         | caps4 = 41 | goals4 = 2
+| years5 = 2024–     | clubs5 = [[TSG 1899 Hoffenheim|TSG Hoffenheim]]                      | caps5 = 33 | goals5 = 1
+| nationalyears1 = 2021–2023
+| nationalteam1  = [[Czech Republic national under-21 football team|Czech Republic U21]]
+| nationalcaps1  = 12
+| nationalgoals1 = 0
+| nationalyears2 = 2024–
+| nationalteam2  = [[Czech Republic national football team|Czech Republic]]
+| nationalcaps2  = 13
+| nationalgoals2 = 1
+| pcupdate   = 18 May 2026
+| ntupdate   = 31 May 2026
+}}
+
+'''Robin Hranáč''' ({{IPA|cs|ˈɦranaːt͡ʃ}}, born 29 January 2000) is a Czech professional [[Association football|footballer]] who plays as a [[Defender (association football)|defender]] for [[Bundesliga]] club [[TSG 1899 Hoffenheim|TSG Hoffenheim]] and the [[Czech Republic national football team|Czech Republic national team]].
+
+==Club career==
+Hranáč started his professional career at [[FC Viktoria Plzeň|Viktoria Plzeň]], making his [[Czech First League]] debut against [[FK Teplice|Teplice]] in April 2021. In the summer of that year, Hranáč joined [[Slovak Super Liga|Fortuna Liga]] side [[MFK Tatran Liptovský Mikuláš|Tatran Liptovský Mikuláš]] on loan, playing the full length of the club's first 13 games before receiving a red card against [[FC Spartak Trnava|Spartak Trnava]].<ref name="u21callup">{{Cite web|url=https://plzensky.denik.cz/fotbal-prvni-liga/hranac-se-pod-tatrami-rozehral-a-ted-muze-v-anglii-poprve-nastoupit-za-repre-202.html|title=Hranáč se pod Tatrami rozehrál. A teď může v Anglii poprvé nastoupit za repre|language=cs|work=[[Deník]]|first=Zdeněk|last=Soukup|date=11 November 2021|access-date=6 May 2025}}</ref>
+
+He played 39 matches for [[FK Pardubice|Pardubice]] across a year and a half of loans from early 2022 until the end of the 2023–24 season. After returning to his parent club, Viktoria Plzeň, Hranáč broke into the first team and featured regularly during the Czech First League as well as the [[2023–24 UEFA Europa Conference League]], in which his side reached the quarter-finals.<ref name="objev-sezony">{{Cite web|title=Plzeň řeší nabídky na Hranáče. Objev sezony má blízko do Hoffenheimu|url=https://www.idnes.cz/fotbal/prvni-liga/robin-hranac-viktoria-plzen-hoffenheim-prestup.A240823_155803_fotbal_min|first=Miloslav|last=Novák|website=idnes.cz|date=23 August 2024|access-date=6 May 2025|language=cs}}</ref>
+
+On 25 August 2024, Hranáč signed a multi-year contract with [[Bundesliga]] club [[TSG 1899 Hoffenheim|TSG Hoffenheim]], for a fee reported to be up to 11 million Euros. It was announced concurrently that he would wear the number 2 shirt for the club.<ref name="signed-hoffenheim">{{Cite web|title=Čtvrtý Čech v Hoffenheimu. Hranáč dostal v Německu dlouhodobý kontrakt|url=https://www.idnes.cz/fotbal/zahranici/robin-hranac-viktoria-plzen-hoffenheim.A240825_101329_fot_zahranici_jic|first=Jiří|last=Čihák|website=idnes.cz|date=25 August 2024|access-date=6 May 2025|language=cs}}</ref>
+
+==International career==
+Hranáč received his first call-up to the [[Czech Republic national under-21 football team]] in 2021 ahead of matches against [[England national under-21 football team|England]] and [[Slovenia national under-21 football team|Slovenia]].<ref name="u21callup"/> He represented the Czech Republic at the [[2023 UEFA European Under-21 Championship]],<ref>{{Cite web|title=Israel U21 v Czech Republic U21 game report|url=https://www.uefa.com/under21/match/2036142/|website=UEFA|date=28 June 2023}}</ref>
+
+His first call-up for the senior [[Czech Republic national football team|Czech Republic national team]] came in spring 2024.<ref name="signed-hoffenheim"/> He made his debut in a [[Exhibition match#Association football|friendly match]] against Armenia on 26 March 2024.<ref>{{Cite news|first=Filip|last=Ardon|title=Češi otáčeli vývoj i na Letné. Výhru nad Arménií zařídil střídající Chorý|url=https://www.denik.cz/fotbal/cesko-armenie-fotbal-priprava-hasek.html|website=[[Deník]]|publisher=Vltava Labe Media|date=26 March 2024|language=cs|quote=Debutu se pak dočkali brankář Matěj Kovář a obránci Adam Gabriel, Robin Hranáč a Tomáš Vlček.|trans-quote=Goalkeeper Matěj Kovář and defenders Adam Gabriel, Robin Hranáč and Tomáš Vlček debut.}}</ref> Hranáč played all three of his nation's matches at [[UEFA Euro 2024]].<ref name="objev-sezony"/>
+
+==Career statistics==
+===Club===
+{{updated|match played 18 May 2026}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup
+!colspan="2"|Europe
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="3"|[[FC Viktoria Plzeň|Viktoria Plzeň]]
+|[[2020–21 FC Viktoria Plzeň season|2020–21]]
+|rowspan="2"|[[Czech First League]]
+|1||0||1||0||colspan="2"|—||colspan="2"|—||2||0
+|-
+|[[2023–24 FC Viktoria Plzeň season|2023–24]]
+|32||3||5||0||15{{efn|Appearances in [[UEFA Europa Conference League]]}}||0||colspan="2"|—||52||3
+|-
+!colspan="2"|Total
+!33!!3!!6!!0!!15!!0!!colspan="2"|—!!54!!3
+|-
+|[[MFK Tatran Liptovský Mikuláš|Tatran Liptovský Mikuláš]] (loan)
+|[[2021–22 Slovak First Football League|2021–22]]
+|[[Slovak First League|Fortuna Liga]]
+|18||1||1||0||colspan="2"|—||colspan="2"|—||19||1
+|-
+|rowspan="3"|[[FK Pardubice|Pardubice]] (loan)
+|[[2021–22 Czech First League|2021–22]]
+|rowspan="2"|Czech First League
+|10||1||colspan="2"|—||colspan="2"|—||colspan="2"|—||10||1
+|-
+|[[2022–23 Czech First League|2022–23]]
+|31||1||1||0||colspan="2"|—||colspan="2"|—||35||3
+|-
+!colspan="2"|Total
+!41!!2!!1!!0!!colspan="2"|—||colspan="2"|—!!42!!2
+|-
+|rowspan="3"|[[TSG 1899 Hoffenheim|TSG Hoffenheim]]
+|[[2024–25 TSG 1899 Hoffenheim season|2024–25]]
+|rowspan="2"|[[Bundesliga]]
+|4||0||0||0||1{{efn|Appearance in [[UEFA Europa League]]}}||0||colspan="2"|—||5||0
+|-
+|[[2025–26 TSG 1899 Hoffenheim season|2025–26]]
+|33||1||2||0||colspan="2"|—||colspan="2"|—||35||1
+|-
+!colspan="2"|Total
+!37!!1!!2!!0!!1!!0!!colspan="2"|—!!40!!1
+|-
+!colspan="3"|Career total
+!129!!7!!10!!0!!16!!0!!0!!0!!155!!7
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 31 May 2026}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="3"|[[Czech Republic national football team|Czech Republic]]
+|2024||7||0
+|-
+|2025||3||1
+|-
+|2026||3||0
+|-
+!colspan="2"|Total!!13!!1
+|}
+
+''Scores and results list the Czech Republic's goal tally first.''
+{| class="wikitable"
+|+ List of international goals scored by Robin Hranáč
+! No. !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| 1. || 17 November 2025 || [[Andrův stadion]], [[Olomouc]], Czech Republic || {{fb|GIB}} || align=center|'''6'''–0 || align=center| 6–0 || [[2026 FIFA World Cup qualification – UEFA Group L|2026 FIFA World Cup qualification]]
+|}
+
+==Honours==
+===Individual===
+*[[Czech First League]] Defender of the Season: [[2023–24 Czech First League|2023–24]]
+*[[UEFA Europa Conference League]] Team of the Season: [[2023–24 UEFA Europa Conference League#Team of the Season|2023–24]]<ref>{{Cite web |date=2024-06-01 |title=2023/24 Europa Conference League Team of the Season {{!}} UEFA Europa Conference League |url=https://www.uefa.com/uefaconferenceleague/news/028e-1b06e9b72b53-4ef8f0fc6b7b-1000--2023-24-europa-conference-league-team-of-the-season/ |access-date=2024-06-01 |website=[[UEFA]]}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Chanceliga.cz|4080-robin-hranac}}
+*{{FACR player|new_id=16332848}}
+*{{Soccerway|robin-hrana/572044}}
+
+{{TSG 1899 Hoffenheim squad}}
+{{Navboxes
+| title = Czech Republic squads
+| bg = #D7141A
+| fg = white
+| bordercolor = #11457E
+| list1 =
+{{Czech Republic squad UEFA Euro 2024}}
+{{Czech Republic squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Hranac, Robin}}
+[[Category:2000 births]]
+[[Category:Living people]]
+[[Category:Footballers from Plzeň]]
+[[Category:Czech men's footballers]]
+[[Category:Czech Republic men's under-21 international footballers]]
+[[Category:Czech Republic men's international footballers]]
+[[Category:UEFA Euro 2024 players]]
+[[Category:2026 FIFA World Cup players]]
+[[Category:Men's association football defenders]]
+[[Category:FC Viktoria Plzeň players]]
+[[Category:MFK Tatran Liptovský Mikuláš players]]
+[[Category:FK Pardubice players]]
+[[Category:TSG 1899 Hoffenheim players]]
+[[Category:Bohemian Football League players]]
+[[Category:Czech First League players]]
+[[Category:Slovak First Football League players]]
+[[Category:Czech National Football League players]]
+[[Category:Bundesliga players]]
+[[Category:Czech expatriate men's footballers]]
+[[Category:Expatriate men's footballers in Slovakia]]
+[[Category:Czech expatriate sportspeople in Slovakia]]
+[[Category:Expatriate men's footballers in Germany]]
+[[Category:Czech expatriate sportspeople in Germany]]
+[[Category:21st-century Czech sportsmen]]

@@ -1,0 +1,204 @@
+{{short description|none}}
+{{Infobox international football competition
+| tourney_name   = 2026 FIFA World Cup qualification (CAF)
+| dates          = {{nowrap|15 November 2023 – 16 November 2025}}
+| num_teams      = 53
+| confederations = 1
+| matches        = {{#expr: <!--Group A--> 30 + <!--Group B--> 30 + <!--Group C--> 30 + <!--Group D--> 30 + <!--Group E--> 17 + <!--Group F--> 30 + <!--Group G--> 30 + <!--Group H--> 29 + <!--Group I--> 30 + <!--Second round--> 3}}
+| goals          = {{#expr: <!--Group A--> 77 + <!--Group B--> 57 + <!--Group C--> 60 + <!--Group D--> 67 + <!--Group E--> 44 + <!--Group F--> 107 + <!--Group G--> 78 + <!--Group H--> 65 + <!--Group I--> 85 + <!--Second round--> 8}}
+| attendance     = {{#expr: <!--Group A--> 50 + 6000 + 405 + 8916 + 35 + 385 + 250 + 65000 + 100 + 6443 + 244 + 300 + 6443 + 100 + 37000 + 1200 + 406 + 41000 + <!--Group B--> 3700 + 10000 + 70000 + <!--Group C--> 7500 + 2876 + 1000 + 3600 + 9000 + 2000 + 5000 + 25000 + 786 + 43000 + 457 + 10000 + 3417 + 3500 + <!--Group D--> 200 + 25000 + 250 + 13450 + 3700 + 30000 + 4000 + 40000 + 708 + 28000 + 25000 + 4000 + 20000 + <!--Group E--> 178 + 200 + 60000 + 30000 + 20000 + 63000 + 49800 + 49800 + <!--Group F--> 23204 + 404 + 17522 + 700 + 6000 + 1500 + 19471 + 16000 + 300 + 29714 + <!--Group G--> 40784 + 250 + 200 + 32000 + 41000 + 45000 + 550 + 45000 + 100 + 3278 + 213 + 54500 + 20000 + 500 + 500 + <!--Group H--> 10000 + 3044 + 23000 + 25000 + 14000 + 17706 + 13025 + 30000 + 27000 + 5000 + <!--Group I--> 45000 + 3000 + 30000 + 11628 + 1300 + 50200 + 39000 + 400 + 300 + 1600 + 450 + 300 + 1200 + 200 + 567 + 38000 + 3000 + <!--Second round--> 2500 + 10000}}
+| top_scorer     = {{fbicon|ALG}} [[Mohamed Amoura]] (10 goals)
+| prevseason     = [[2022 FIFA World Cup qualification (CAF)|2022]]
+| nextseason     = ''[[2030 FIFA World Cup qualification (CAF)|2030]]''
+|image=}}
+{{Qualification for championships (CAF)|expanded=FIFA}}
+
+The '''2026 FIFA World Cup qualification (CAF)''' was the African section of the [[2026 FIFA World Cup qualification|qualification tournament]] for the [[2026 FIFA World Cup]], to be held in the United States, Canada and Mexico. A total of nine slots in the final tournament and one inter-confederation play-off slot were reserved for [[Confederation of African Football]] (CAF) teams.<ref>{{cite web|url=https://www.fifa.com/worldcup/news/y=2015/m=5/news=current-allocation-of-fifa-world-cuptm-confederation-slots-maintained-2610611.html|title=Current allocation of FIFA World Cup confederation slots maintained|publisher=FIFA|date=30 May 2015|url-status=dead|archiveurl=https://web.archive.org/web/20150530211217/http://www.fifa.com/worldcup/news/y=2015/m=5/news=current-allocation-of-fifa-world-cuptm-confederation-slots-maintained-2610611.html|archivedate=30 May 2015|df=dmy-all}}</ref>
+
+==Format==
+Due to nine CAF teams now directly qualifying instead of five, the CAF Executive Committee announced a new qualification format on 19 May 2023. Teams were drawn into nine groups of six teams. The winner of each group directly qualified to the World Cup, while the four best group runners-up participated in play-offs to determine which team would advance to the [[2026 FIFA World Cup qualification (inter-confederation play-offs)|inter-confederation play-offs]].<ref name="ExCon">{{cite news |date=19 May 2023 |title=CAF Executive Committee approves FIFA World Cup 2026 Qualifiers calendar and announces TotalEnergies Africa Cup of Nations Côte d'Ivoire 2023 Final Draw date |url=https://www.cafonline.com/press-release/news/caf-executive-committee-approves-fifa-world-cup-2026-qualifiers-calendar-and-ann |access-date=19 May 2023 |website=cafonline |publisher=[[Confederation of African Football|CAF]]}}</ref><ref name="format">{{cite web |date=19 May 2023 |title=CAF reveals new format for 2026 FIFA World Cup qualifiers |url=https://www.cafonline.com/news/caf-reveals-new-format-for-2026-fifa-world-cup-qualifiers |access-date=19 May 2023 |website=cafonline |publisher=[[Confederation of African Football|CAF]]}}</ref>
+
+* '''First round (group stage)''': Nine groups of six teams played in a home-and-away [[Round-robin tournament|round-robin]] tournament. Group winners qualified for the [[2026 FIFA World Cup]].
+* '''Second round (play-off)''': The four best group runners-up were seeded into play-offs to determine the CAF representative at the [[2026 FIFA World Cup qualification (inter-confederation play-offs)|inter-confederation play-offs]].
+
+==Schedule==
+
+{| class="wikitable"
+|+ [[2026 FIFA World Cup qualification]]
+! Round !! Matchday !! Dates
+|-
+| rowspan="10" | [[#First round|First round]] || Matchday 1 || 15–18 November 2023
+|-
+| Matchday 2 || 19–21 November 2023
+|-
+| Matchday 3 || 5–8 June 2024
+|-
+| Matchday 4 || 9–11 June 2024
+|-
+| Matchday 5 || 19–22 March 2025
+|-
+| Matchday 6 || 23–25 March 2025
+|-
+| Matchday 7 || 3–6 September 2025
+|-
+| Matchday 8 || 7–9 September 2025
+|-
+| Matchday 9 || 8–10 October 2025
+|-
+| Matchday 10 || 12–14 October 2025
+|-
+| rowspan="2" | [[#Second round|Second round]] || Semi-finals || 13 November 2025
+|-
+| Final || 16 November 2025
+|}
+
+== First round ==
+Teams were drawn into nine groups of six teams to play home-and-away [[Round-robin tournament|round robin matches]] from November 2023 to October 2025. The winners of each group qualified directly to the [[2026 FIFA World Cup]], and the four best group runners-up advanced to a play-off to determine which team would advance to the [[2026 FIFA World Cup qualification#Inter-confederation play-offs|inter-confederation play-offs]].
+
+=== Draw ===
+The draw was held on 13 July 2023 at 15:00 [[Time in Ivory Coast|GMT]] ([[UTC±00:00|UTC±0]]) in [[Abidjan]], Ivory Coast.<ref>{{cite web |url=https://panafricafootball.com/learn-all-about-2026-fifa-world-cup-qualifying-in-the-caf-region-and-the-seeds/ |title=Learn all about 2026 FIFA World Cup qualifying in the CAF region and the seeds |first=Andrew |last=Olsson |website=Pan-Africa Football |date=4 July 2023 |access-date=6 July 2023 |archive-date=1 October 2023 |archive-url=https://web.archive.org/web/20231001141031/https://panafricafootball.com/learn-all-about-2026-fifa-world-cup-qualifying-in-the-caf-region-and-the-seeds/ |url-status=dead }}</ref><ref name="draw">{{cite web |date=11 July 2023 |title=FIFA World Cup 2026 African Qualifiers Official Draw on 13 July |url=https://www.cafonline.com/press-release/news/fifa-world-cup-2026tm-african-qualifiers-official-draw-on-13-july |access-date=11 July 2023 |website=cafonline |publisher=[[Confederation of African Football|CAF]]}}</ref> All 54 FIFA-affiliated football associations from CAF entered qualification. However, Eritrea withdrew after the draw.<ref name="ERI withdrawal" /><ref>{{cite web |url=https://www.cafonline.com/news/statement-on-fifa-world-cup-2026-preliminary-competition/ |title=Statement on FIFA World Cup 2026 preliminary competition |publisher=CAF | accessdate=11 November 2023 |date=10 November 2023}}</ref>
+
+The draw pots were announced on 30 June (numbers in parentheses indicate [[FIFA Men's World Ranking]] at the time of the draw):<ref>{{Cite news |url=https://dailypost.ng/2023/06/30/fifa-puts-super-eagles-in-pot-1-as-race-to-2026-world-cup-begins/ |location=Lagos, Nigeria|title=FIFA puts Super Eagles in Pot 1 as race to 2026 World Cup begins |newspaper=[[Daily Post (Nigeria)|Daily Post]]|first=Ifreke |last=Inyang |date=30 June 2023 |access-date=30 June 2023}}</ref><ref>{{cite web |url=https://www.cafonline.com/news-center/news/fifa-world-cup-2026-african-preliminary-qualifiers-draw-officially-conducted |title=FIFA World Cup 2026: African preliminary qualifiers draw officially conducted |publisher=CAF |date=13 July 2023 |access-date=13 July 2023}}</ref>
+
+{| class="wikitable "
+|+ CAF qualification first round draw pots{{efn|group=draw|Teams in '''bold''' qualified directly for the World Cup. Teams in ''italics'' advanced to the second round.}}
+! width=30%|Pot 1
+! width=30%|Pot 2
+! width=30%|Pot 3
+|-
+|{{unbulleted list|'''{{fb|MAR}}''' (13)|'''{{fb|SEN}}''' (18)|'''{{fb|TUN}}''' (31)|'''{{fb|ALG}}''' (33)|'''{{fb|EGY}}''' (34)|''{{fb|NGA}}'' (39)|''{{fb|CMR}}'' (43)|{{fb|MLI}} (50)|'''{{fb|CIV}}''' (51)}}
+|{{unbulleted list|{{fb|BFA}} (55)|'''{{fb|GHA}}''' (59)|'''{{fb|RSA}}''' (62)|'''{{fb|CPV}}''' (66)|''{{fb|COD}}'' (69)|{{fb|GUI}} (80)|{{fb|ZAM}} (84)|''{{fb|GAB}}'' (85)|{{fb|EQG}} (91)}}
+|{{unbulleted list|{{fb|UGA}} (92)|{{fb|BEN}} (93)|{{fb|MTN}} (99)|{{fb|KEN}} (105)|{{fb|CGO}} (106)|{{fb|MAD}} (107)|{{fb|GNB}} (111)|{{fb|NAM}} (112)|{{fb|ANG}} (114)}}
+|-
+! Pot 4
+! Pot 5
+! Pot 6
+|-
+|{{unbulleted list|{{fb|MOZ}} (117)|{{fb|GAM}} (119)|{{fb|SLE}} (120)|{{fb|TOG}} (122)|{{fb|TAN}} (123)|{{fb|ZIM}} (124)|{{fb|CTA}} (125)|{{fb|MWI}} (126)|{{fb|LBY}} (127)}}
+|{{unbulleted list|{{fb|NIG}} (128)|{{fb|COM}} (130)|{{fb|SDN}} (131)|{{fb|RWA}} (139)|{{fb|BDI}} (140)|{{fb|ETH}} (143)|{{fb|SWZ}} (146)|{{fb|BOT}} (147)|{{fb|LBR}} (148)}}
+|{{unbulleted list|{{fb|LES}} (152)|{{fb|SSD}} (168)|{{fb|MRI}} (180)|{{fb|CHA}} (181)|{{fb|STP}} (187)|{{fb|DJI}} (193)|{{fb|SEY}} (196)|{{fb|ERI}} (198) '''(W)'''|{{fb|SOM}} (199)}}
+|}
+{{notelist|group=draw}}
+
+=== Groups ===
+
+==== Group A ====
+{{Main|2026 FIFA World Cup qualification – CAF Group A}}
+{{2026 FIFA World Cup qualification - CAF group tables|Group A|show_matches=y}}
+
+==== Group B ====
+{{Main|2026 FIFA World Cup qualification – CAF Group B}}
+{{2026 FIFA World Cup qualification - CAF group tables|Group B|show_matches=y}}
+
+==== Group C ====
+{{Main|2026 FIFA World Cup qualification – CAF Group C}}
+{{2026 FIFA World Cup qualification - CAF group tables|Group C|show_matches=y}}
+
+==== Group D ====
+{{Main|2026 FIFA World Cup qualification – CAF Group D}}
+{{2026 FIFA World Cup qualification - CAF group tables|Group D|show_matches=y}}
+
+==== Group E ====
+{{Main|2026 FIFA World Cup qualification – CAF Group E}}
+{{2026 FIFA World Cup qualification - CAF group tables|Group E|show_matches=y}}
+
+==== Group F ====
+{{Main|2026 FIFA World Cup qualification – CAF Group F}}
+{{2026 FIFA World Cup qualification - CAF group tables|Group F|show_matches=y}}
+
+==== Group G ====
+{{Main|2026 FIFA World Cup qualification – CAF Group G}}
+{{2026 FIFA World Cup qualification - CAF group tables|Group G|show_matches=y}}
+
+==== Group H ====
+{{Main|2026 FIFA World Cup qualification – CAF Group H}}
+{{2026 FIFA World Cup qualification - CAF group tables|Group H|show_matches=y}}
+
+==== Group I ====
+{{Main|2026 FIFA World Cup qualification – CAF Group I}}
+{{2026 FIFA World Cup qualification - CAF group tables|Group I|show_matches=y}}
+
+=== Ranking of runners-up ===
+On 14 March 2025, CAF notified its member associations that matches against sixth-place teams would be excluded when ranking the runners-up, due to Group E having five teams following the withdrawal of [[Eritrea national football team|Eritrea]].<ref>{{cite web |url=https://x.com/windowintlpod/status/1976346552588435512 |title=The International Window on X |date=9 October 2025 |access-date=9 October 2025}}</ref> This information was not announced publicly by either CAF or FIFA.
+
+{{2026 FIFA World Cup qualification - CAF group tables|Runners-up}}
+
+==Second round==
+{{main|2026 FIFA World Cup qualification – CAF second round}}
+
+The four best group runners-up ([[Cameroon national football team|Cameroon]], [[DR Congo national football team|DR Congo]], [[Gabon national football team|Gabon]], and [[Nigeria national football team|Nigeria]]) advanced to play-offs to determine the sole CAF representative at the [[2026 FIFA World Cup qualification#Inter-confederation play-offs|inter-confederation play-offs]]. The matchups for the semi-final were based on the 17 October 2025 [[FIFA Men's World Ranking|FIFA rankings]], with the highest-ranked side taking on the lowest and the second-highest taking on the third-highest.<ref>{{cite web|url=https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/spain-top-argentina-second-world-ranking|title=Spain stay top as Argentina move back to second|work=FIFA|access-date=17 October 2025}}</ref><ref>{{cite web |last1=Gleeson |first1=Mark |title=Morocco to host African World Cup playoffs |url=https://www.reuters.com/sports/soccer/morocco-host-african-world-cup-playoffs-2025-10-12/ |website=Reuters |date=12 October 2025 |access-date=12 October 2025}}</ref><ref>{{cite web |last1=Elikplim |first1=Bokor |title=CAF confirms Morocco as host for 2026 World Cup African play-off tournament - AfricaSoccer.com |url=https://africasoccer.com/caf-confirms-morocco-as-host-for-2026-world-cup-african-play-off-tournament/ |access-date=12 October 2025 |date=12 October 2025}}</ref> A total of three matches were played, all hosted in Morocco.<ref>{{cite web |last1=Kabbour |first1=Abderrahim |title=Morocco to Host African Playoff Matches for World Cup Qualifiers |url=https://www.moroccoworldnews.com/2025/10/263215/morocco-to-host-african-playoff-matches-for-world-cup-qualifiers/ |website=Morocco World News |access-date=12 October 2025 |date=12 October 2025}}</ref>
+
+{{#section:2026 FIFA World Cup qualification – CAF second round|Summary}}
+
+==Inter-confederation play-offs==
+{{Main|2026 FIFA World Cup qualification (inter-confederation play-offs)}}
+
+The winner of the second round, [[DR Congo national football team|DR Congo]], joined [[Bolivia national football team|Bolivia]] (from [[CONMEBOL]]), [[Iraq national football team|Iraq]] (from [[Asian Football Confederation|AFC]]), [[Jamaica national football team|Jamaica]] and [[Suriname national football team|Suriname]] (both from [[CONCACAF]]), and [[New Caledonia national football team|New Caledonia]] (from [[Oceania Football Confederation|OFC]]) in the inter-confederation play-offs.
+
+The teams were ranked according to the November 2025 [[FIFA Men's World Ranking]], with the four lowest-ranked teams playing in two {{nowrap|single-elimination}} matches. The winners met the two highest-ranked teams in another set of {{nowrap|single-elimination}} matches, with the winners of these matches qualifying for the [[2026 FIFA World Cup]].<ref>{{cite web|url=https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/play-off-tournament-draw-results|title=Path to 2026 laid out for Play-Off Tournament hopefuls|date=20 November 2025|access-date=20 November 2025|publisher=FIFA}}</ref>
+
+{{#lst:2026 FIFA World Cup qualification (inter-confederation play-offs)|Pathway 1}}
+
+==Qualified teams==
+[[File:2026 World Cup CAF qualification.svg|thumb|right|upright=1.5|{{legend|0000ff|Qualified for the World Cup}}{{legend|#2fc0ff|Can qualify}}{{legend|#ffcc00|Failed to qualify}}{{legend|#000000|Withdrew}}{{legend|#CCCCCC|Not a CAF member}}]] 
+The following teams from CAF qualified for the final tournament.
+
+{| class="wikitable sortable"
+|-
+! Team
+! Qualified as
+! Qualified on
+! data-sort-type="number"|Previous [[National team appearances in the FIFA World Cup|appearances]] in [[FIFA World Cup]]{{efn|''Italic'' indicates hosts for that year.}}
+|-
+| {{fb|MAR}} || {{sort|E1|[[2026 FIFA World Cup qualification – CAF Group E|Group E]] winners}} || {{dts|2025|9|5|format=dmy}} || 6 ([[1970 FIFA World Cup|1970]], [[1986 FIFA World Cup|1986]], [[1994 FIFA World Cup|1994]], [[1998 FIFA World Cup|1998]], [[2018 FIFA World Cup|2018]], [[2022 FIFA World Cup|2022]])
+|-
+| {{fb|TUN}} || {{sort|H1|[[2026 FIFA World Cup qualification – CAF Group H|Group H]] winners}} || {{dts|2025|9|8|format=dmy}} || 6 ([[1978 FIFA World Cup|1978]], [[1998 FIFA World Cup|1998]], [[2002 FIFA World Cup|2002]], [[2006 FIFA World Cup|2006]], [[2018 FIFA World Cup|2018]], [[2022 FIFA World Cup|2022]])
+|-
+| {{fb|EGY}} || {{sort|A1|[[2026 FIFA World Cup qualification – CAF Group A|Group A]] winners}} || {{dts|2025|10|8|format=dmy}}||3 ([[1934 FIFA World Cup|1934]], [[1990 FIFA World Cup|1990]], [[2018 FIFA World Cup|2018]])
+|-
+| {{fb|ALG}} || {{sort|G1|[[2026 FIFA World Cup qualification – CAF Group G|Group G]] winners}} || {{dts|2025|10|9|format=dmy}}|| 4 ([[1982 FIFA World Cup|1982]], [[1986 FIFA World Cup|1986]], [[2010 FIFA World Cup|2010]], [[2014 FIFA World Cup|2014]])
+|-
+| {{fb|GHA}} || {{sort|I1|[[2026 FIFA World Cup qualification – CAF Group I|Group I]] winners}} || {{dts|2025|10|12|format=dmy}}|| 4 ([[2006 FIFA World Cup|2006]], [[2010 FIFA World Cup|2010]], [[2014 FIFA World Cup|2014]], [[2022 FIFA World Cup|2022]])
+|-
+| {{fb|CPV}} || {{sort|D1|[[2026 FIFA World Cup qualification – CAF Group D|Group D]] winners}} || {{dts|2025|10|13|format=dmy}}|| Debut
+|-
+| {{fb|RSA}} || {{sort|C1|[[2026 FIFA World Cup qualification – CAF Group C|Group C]] winners}} || {{dts|2025|10|14|format=dmy}}|| 3 ([[1998 FIFA World Cup|1998]], [[2002 FIFA World Cup|2002]], ''[[2010 FIFA World Cup|2010]])''
+|-
+| {{fb|SEN}} || {{sort|B1|[[2026 FIFA World Cup qualification – CAF Group B|Group B]] winners}} || {{dts|2025|10|14|format=dmy}}|| 3 ([[2002 FIFA World Cup|2002]], [[2018 FIFA World Cup|2018]], [[2022 FIFA World Cup|2022]]) 
+|-
+| {{fb|CIV}} || {{sort|F1|[[2026 FIFA World Cup qualification – CAF Group F|Group F]] winners}} || {{dts|2025|10|14|format=dmy}}|| 3 ([[2006 FIFA World Cup|2006]], [[2010 FIFA World Cup|2010]], [[2014 FIFA World Cup|2014]])
+|-
+| {{fb|COD}} || {{sort|J1|[[2026 FIFA World Cup qualification (inter-confederation play-offs)|Inter-confederation play-offs Pathway 1]] winners}} || {{dts|2026|3|31|format=dmy}}|| 1 ([[1974 FIFA World Cup|1974]])
+|}
+'''Notes'''
+{{notelist}}
+
+==Top goalscorers==
+{{#invoke:Goalscorers|main|2026 FIFA World Cup qualification (CAF)|minimum=5}}<!--CAREFULLY update goalscorers at Module:Goalscorers/data/2026 FIFA World Cup qualification (CAF)-->
+
+Below are full goalscorer lists for each group and the second round:
+{{flatlist|
+*[[2026 FIFA World Cup qualification – CAF Group A#Goalscorers|Group A]]
+*[[2026 FIFA World Cup qualification – CAF Group B#Goalscorers|Group B]]
+*[[2026 FIFA World Cup qualification – CAF Group C#Goalscorers|Group C]]
+*[[2026 FIFA World Cup qualification – CAF Group D#Goalscorers|Group D]]
+*[[2026 FIFA World Cup qualification – CAF Group E#Goalscorers|Group E]]
+*[[2026 FIFA World Cup qualification – CAF Group F#Goalscorers|Group F]]
+*[[2026 FIFA World Cup qualification – CAF Group G#Goalscorers|Group G]]
+*[[2026 FIFA World Cup qualification – CAF Group H#Goalscorers|Group H]]
+*[[2026 FIFA World Cup qualification – CAF Group I#Goalscorers|Group I]]
+*[[2026 FIFA World Cup qualification – CAF second round#Goalscorers|Second round]]
+}}
+
+==References==
+{{reflist}}
+
+{{2026 FIFA World Cup qualification}}
+
+{{DEFAULTSORT:FIFA World Cup qualification (CAF)}}
+[[Category:2026 FIFA World Cup qualification (CAF)| ]]
+[[Category:2026 FIFA World Cup qualification|CAF]]
+[[Category:FIFA World Cup qualification (CAF)|2026]]
+[[Category:2023 in African men's international football]]
+[[Category:2024 in African men's international football]]
+[[Category:2025 in African men's international football]]

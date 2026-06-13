@@ -1,0 +1,34 @@
+{
+ "team": "FRA",
+ "coach": {
+  "name_zh": "迪迪埃·德尚",
+  "name_en": "Didier Deschamps",
+  "nationality": "France",
+  "career_since": "2001",
+  "person_id": "per_didier_deschamps"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 迪迪埃·德尚（Didier Deschamps）法国籍，2001年开启执教生涯，现任法国国家队主教练，正带队备战2026年世界杯。\n- 大赛履历：已率队确定6月16日世界杯首战塞内加尔的首发框架，并提及2002年世界杯失利记忆以警示球队。\n- 执教风格：注重球员身体状态精细化管理，对威廉·萨利巴的背伤采取\"监控+感觉管理\"策略，同时给予奥斯曼·登贝莱等欧冠决赛球员额外恢复时间。\n- 战术理念：在热身赛中主动调整攻击线，计划让登贝莱在对北爱尔兰的比赛中首发出战，以测试世界杯战术方案。\n- 近期争议：球队内部存在球员形象权纠纷，姆巴佩与切尔基等球星不满法国足协将球员形象用于博彩公司广告。\n- 团队磨合：在萨利巴伤疑与登贝莱轮休的情况下，仍确保26名球员全部可供调遣，维持阵容完整性应对世界杯征程。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.85,
+  "issues": [
+   "2002年世界杯失利记忆与预测关联弱",
+   "球员形象权纠纷预测价值较低"
+  ]
+ },
+ "brief_fetched": "2026-06-13_1750",
+ "brief_info_chars": 6000,
+ "coach_xverify": {
+  "canonical": "Didier Deschamps",
+  "confidence": "high",
+  "discrepancy": "ESPN来源不相关（谈论美国队而非法国队），无实质分歧。所有相关来源均一致指出Didier Deschamps为现任主教练。",
+  "sources_agree": 6,
+  "n_sources": 8
+ }
+}

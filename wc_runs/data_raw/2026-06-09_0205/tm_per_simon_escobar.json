@@ -1,0 +1,59 @@
+[
+ {
+  "player_id": "1310741",
+  "profile_url": "https://www.transfermarkt.com/simon-escobar/profil/spieler/1310741",
+  "full_name": "Simón Valentín Escobar",
+  "display_name": "Simón Escobar",
+  "short_name": "S. Escobar",
+  "nickname": "",
+  "date_of_birth": "2009-07-17",
+  "age": 16,
+  "place_of_birth": "Mariano Acosta",
+  "country_of_birth": "Argentina",
+  "nationality": [
+   "Argentina"
+  ],
+  "gender": "male",
+  "position": "Left-Back",
+  "position_category": "Defender",
+  "foot": "left",
+  "height_cm": 185,
+  "current_club": "CA Vélez Sarsfield II",
+  "current_club_id": "14842",
+  "current_competition": "Copa LPF Proyección Apertura",
+  "current_competition_code": "CLPI",
+  "shirt_number": null,
+  "is_captain": false,
+  "contract_until": "2027-12-31",
+  "last_contract_renewal": "2025-10-27",
+  "market_value_eur": null,
+  "market_value_currency": "",
+  "market_value_determined": "",
+  "previous_market_value_eur": null,
+  "highest_market_value_eur": null,
+  "highest_market_value_determined": "",
+  "market_value_history": [],
+  "agent": "",
+  "agency": "Hernan Berman",
+  "agency_id": "6670",
+  "youth_clubs": [],
+  "career_history": [
+   "CA Vélez Sarsfield Juveniles -> CA Vélez Sarsfield U20 | 2025-01-01 | - | 24/25",
+   "CA Vélez Sarsfield U20 -> CA Vélez Sarsfield II | 2026-01-01 | - | 25/26"
+  ],
+  "total_transfer_fees_eur": 0,
+  "international_team": "Argentina U17",
+  "international_caps": 10,
+  "international_goals": 0,
+  "national_team_history": [
+   "Argentina | 0 apps | 0 goals | RECENT_NATIONAL_PLAYER",
+   "Argentina U20 | 0 apps | 0 goals | FORMER_NATIONAL_PLAYER",
+   "Argentina U17 | 10 apps | 0 goals | CURRENT_NATIONAL_PLAYER",
+   "Argentina U16 | 1 apps | 1 goals | FORMER_NATIONAL_PLAYER"
+  ],
+  "injuries": [],
+  "suspensions": [],
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/big/1310741-1762504896.jpg",
+  "scraped_at": "2026-06-08T18:07:11.219Z"
+ }
+]

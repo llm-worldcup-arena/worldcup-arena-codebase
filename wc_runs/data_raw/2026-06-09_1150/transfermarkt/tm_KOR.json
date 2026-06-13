@@ -1,0 +1,23 @@
+[
+ {
+  "url": "https://www.transfermarkt.com/jens-castrop/profil/spieler/613192",
+  "playerId": "613192",
+  "name": "Jens Castrop",
+  "fullName": "옌스 카스트로프",
+  "dateOfBirth": "29/07/2003",
+  "age": 22,
+  "nationality": "Korea, South, Germany",
+  "height": "1,78 m",
+  "position": "Midfield - Central Midfield",
+  "preferredFoot": "right",
+  "currentClub": "Borussia Mönchengladbach",
+  "clubJoinDate": "01/07/2025",
+  "contractExpiry": "30/06/2029",
+  "marketValue": "€10.00m Last update: 27/05/2026",
+  "marketValueNumeric": 10000000,
+  "shirtNumber": 17,
+  "imageUrl": "https://img.a.transfermarkt.technology/portrait/header/613192-1760966991.jpg?lm=1",
+  "scrapedAt": "2026-06-09T03:53:23.618Z",
+  "transferHistory": []
+ }
+]

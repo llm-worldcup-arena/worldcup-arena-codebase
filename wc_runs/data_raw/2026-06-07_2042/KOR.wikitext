@@ -1,0 +1,100 @@
+{{short description|Men's association football team}}
+{{About|the men's team|the women's team|South Korea women's national football team}}
+{{Use dmy dates|date=October 2024}}
+{{Infobox national football team
+| Name                     = Korea Republic
+| Badge                    = Flag of South Korea.svg
+| Badge_size               = 160px 
+| Nickname                 = [[Taegeuk]] Warriors<br />Tigers of Asia
+| Association              = [[Korea Football Association]] (KFA)
+| Confederation            = [[Asian Football Confederation|AFC]] (Asia)
+| Sub-confederation        = [[East Asian Football Federation|EAFF]] (East Asia)
+| FIFA Trigramme           = KOR
+| FIFA Rank                = {{FIFA World Rankings|KOR}}
+| FIFA max                 = 17
+| FIFA max date            = December 1998
+| FIFA min                 = 69
+| FIFA min date            = November 2014 – January 2015
+| website                  = {{official URL}}
+| Coach                    = [[Hong Myung-bo]]
+| Captain                  = [[Son Heung-min]]
+| Most caps                = Son Heung-min (144)
+| Top scorer               = [[Cha Bum-kun]] (58)
+| pattern_la1      = _kor26h
+| pattern_b1       = _kor26h
+| pattern_ra1      = _kor26h
+| pattern_sh1      = _kor26h
+| pattern_so1      = _kor26hl
+| leftarm1         = FF354F
+| body1            = FF354F
+| rightarm1        = FF354F
+| shorts1          = FF354F
+| socks1           = D20010
+| pattern_la2      = _kor26a
+| pattern_b2       = _kor26a
+| pattern_ra2      = _kor26a
+| pattern_sh2      =_kor26a
+| pattern_so2      =_kor26al
+| leftarm2         = 000000
+| body2            = 000000
+| rightarm2        = 000000
+| shorts2          = 000000
+| socks2           = 000000
+| First game               = {{fb|KOR|1948}} 5–3 {{fb-rt|MEX|1934}}<br>([[London]], England; 2 August 1948)
+| Largest win              = {{nowrap|{{fb|KOR|1997}} 16–0 {{fb-rt|NEP}}<br>([[Incheon]], South Korea; 29 September 2003)}}
+| Largest loss             = {{fb|KOR|1948}} 0–12 {{fb-rt|SWE}}<br>(London, England; 5 August 1948)
+| World cup apps           = 11
+| World cup first          = 1954
+| World cup best           = Fourth place ([[2002 FIFA World Cup|2002]])
+| Regional name            = [[AFC Asian Cup|Asian Cup]]
+| Regional cup apps        = 15
+| Regional cup first       = [[1956 AFC Asian Cup|1956]]
+| Regional cup best        = Champions ([[1956 AFC Asian Cup|1956]], [[1960 AFC Asian Cup|1960]])
+| 2ndRegional name         = [[EAFF E-1 Football Championship|EAFF Championship]]
+| 2ndRegional cup apps     = 10
+| 2ndRegional cup first    = [[2003 East Asian Football Championship|2003]]
+| 2ndRegional cup best     = Champions ([[2003 East Asian Football Championship|2003]], [[2008 East Asian Football Championship|2008]], [[2015 EAFF East Asian Cup|2015]], [[2017 EAFF E-1 Football Championship|2017]], [[2019 EAFF E-1 Football Championship|2019]])
+| Confederations cup apps  = 1
+| Confederations cup first = [[2001 FIFA Confederations Cup|2001]]
+| Confederations cup best  = Group stage ([[2001 FIFA Confederations Cup|2001]])
+| medaltemplates           = 
+{{MedalSport|Men's [[Association football|football]]}}
+{{MedalCompetition | [[AFC Asian Cup]]}}
+{{MedalGold | [[1956 AFC Asian Cup|1956 Hong Kong]]|}}
+{{MedalGold | [[1960 AFC Asian Cup|1960 South Korea]]|}}
+{{MedalSilver | [[1972 AFC Asian Cup|1972 Thailand]]|}}
+{{MedalSilver | [[1980 AFC Asian Cup|1980 Kuwait]]|}}
+{{MedalSilver | [[1988 AFC Asian Cup|1988 Qatar]]|}}
+{{MedalSilver | [[2015 AFC Asian Cup|2015 Australia]]|}}
+{{MedalBronze | [[1964 AFC Asian Cup|1964 Israel]]|}}
+{{MedalBronze | [[2000 AFC Asian Cup|2000 Lebanon]]|}}
+{{MedalBronze | [[2007 AFC Asian Cup|2007 Indonesia, Malaysia,<br>Thailand and Vietnam]]|}}
+{{MedalBronze | [[2011 AFC Asian Cup|2011 Qatar]]|}}
+{{MedalCompetition | [[Asian Games]]}}
+{{MedalGold | [[Football at the 1970 Asian Games|1970 Bangkok]]|}}
+{{MedalGold | [[Football at the 1978 Asian Games|1978 Bangkok]]|}}
+{{MedalGold | [[Football at the 1986 Asian Games|1986 Seoul]]|}}
+{{MedalSilver | [[Football at the 1954 Asian Games|1954 Manila]]|}}
+{{MedalSilver | [[Football at the 1958 Asian Games|1958 Tokyo]]|}}
+{{MedalSilver | [[Football at the 1962 Asian Games|1962 Jakarta]]|}}
+{{MedalBronze | [[Football at the 1990 Asian Games – Men's tournament|1990 Beijing]]|}}
+{{MedalCompetition|[[EAFF E-1 Football Championship|EAFF Championship]]}}
+{{MedalGold | [[2003 East Asian Football Championship|2003 Japan]]|}}
+{{MedalGold | [[2008 East Asian Football Championship|2008 China]]|}}
+{{MedalGold | [[2015 EAFF East Asian Cup|2015 China]]|}}
+{{MedalGold | [[2017 EAFF E-1 Football Championship|2017 Japan]]|}}
+{{MedalGold | [[2019 EAFF E-1 Football Championship|2019 South Korea]]|}}
+{{MedalSilver | [[2010 East Asian Football Championship|2010 Japan]]|}}
+{{MedalSilver | [[2022 EAFF E-1 Football Championship|2022 Japan]]|}}
+{{MedalSilver | [[2025 EAFF E-1 Football Championship|2025 South Korea]]|}}
+{{MedalBronze | [[2013 EAFF East Asian Cup|2013 South Korea]]|}}
+}}
+{{Infobox Korean name/auto
+| hangul = ^대한민국 축구 국가대표팀
+| hanja  = 大韓民國 蹴球 國家代表팀
+}}
+The '''South Korea national football team''' ({{Langx|ko|대한민국 축구 국가대표팀}}; recognized as '''Korea Republic''' by [[FIFA]]<ref>{{cite web|title=Korea Republic|url=https://www.fifa.com/fifa-world-ranking/KOR|access-date=1 February 2022|website=FIFA.com|archive-date=1 February 2022|archive-url=https://web.archive.org/web/20220201031310/https://www.fifa.com/fifa-world-ranking/KOR|url-status=live}}</ref>) represents [[South Korea]] in men's international [[Association football|football]] and is governed by the [[Korea Football Association]], a member of FIFA and the [[Asian Football Confederation]] (AFC).
+
+South Korea has emerged as a major football power in Asia since the 1980s, having participated in ten consecutive and eleven overall [[FIFA World Cup]] tournaments, the most for any Asian country. Despite initially going through five World Cup tournaments without winning a match, South Korea became the first (and so far only) Asian team to reach the semi-finals when they co-hosted the [[2002 FIFA World Cup|2002 tournament]] with Japan. South Korea also has won two [[AFC Asian Cup]] titles, and finished as runners-up on four occasions. Furthermore, the team won three gold medals and three silver medals at the senior [[Football at the Asian Games|Asian Games]].<ref>{{cite web |url=https://www.rte.ie/sport/world-cup-2018/2018/0606/968706-world-cup-2018-why-you-should-follow-south-korea/ |title=World Cup 2018: Why you should follow South Korea |first=Rob |last=Wright |date=June 6, 2018 |publisher=RTÉ |access-date=June 11, 2018 |archive-date=June 12, 2018 |archive-url=https://web.archive.org/web/20180612140625/https://www.rte.ie/sport/world-cup-2018/2018/0606/968706-world-cup-2018-why-you-should-follow-south-korea/ |url-status=live }}</ref>
+
+The team is commonly nicknamed the "Reds" by both fans and the media due to the color of their primary kit. The national team's supporting group is officially referred to as the [[Red Devils (supporters club)|Red Devils]].<ref>{{Cite web |url=https://terms.naver.com/entry.nhn?docId=1820710&cid=46634&categoryId=46634 |script-title=ko:붉은악마 |trans-title=Red Devils |language=ko |website=[[Naver]] |publisher=[[Encyclopedia of Korean Culture]] |access-date=October 6, 2019 |archive-date=July 12, 2020 |archive-url=https://web.archive.org/web/20200712021716/https://terms.naver.com/entry.nhn?docId=1820710&cid=46634&categoryId=46634 |url-status=live }}</ref>

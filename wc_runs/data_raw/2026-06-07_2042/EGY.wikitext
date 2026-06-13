@@ -1,0 +1,94 @@
+{{Short description|Men's association football team}}
+{{About|the men's team|the women's team|Egypt women's national football team}}
+{{Use dmy dates|date=June 2023|cs1-dates=yy}}
+{{Infobox national football team
+| Name                     = Egypt
+| Nickname                 = The [[Pharaoh|Pharaohs]]<ref>{{cite web |title=The day it all started for Ad-Diba and the Pharaohs |url=https://www.fifa.com/news/the-day-it-all-started-for-ad-diba-and-the-pharaohs-2867512 |access-date=2022-02-16 |work=FIFA |language=en}}</ref>
+| Badge                    = Egyptian Football Association logo.svg
+| Badge_size               = 195px
+| Association              = [[Egyptian Football Association]] (EFA)
+| Confederation            = [[Confederation of African Football|CAF]] (Africa)
+| Sub-confederation        = [[Union of North African Football Federations|UNAF]] (North Africa)
+| Coach                    = [[Hossam Hassan]]
+| Captain                  = [[Mohamed Salah]]
+| Most caps                = [[Ahmed Hassan (footballer, born 1975)|Ahmed Hassan]] (184)
+| Top scorer               = Hossam Hassan ([[List of international goals scored by Hossam Hassan|69]])
+| Home Stadium             = [[New Administrative Capital Stadium|Misr Stadium]]
+| FIFA Trigramme           = EGY
+| FIFA Rank                = {{FIFA World Rankings|EGY}}
+| FIFA max                 = 9
+| FIFA max date            = July – September 2010, December 2010
+| FIFA min                 = 75
+| FIFA min date            = March 2013
+| First game               = {{fb|ITA|1861}} 2–1 {{fb-rt|EGY|1882}}<br />([[Ghent]], Belgium; 28 August 1920)
+| Largest win              = {{fb|UAR}} 15–0 {{fb-rt|LAO|1952}}<br />([[Jakarta]], Indonesia; 15 November 1963)
+| Largest loss             = {{fb|ITA|1861}} 11–3 {{fb-rt|EGY|1922}}<br />([[Amsterdam]], Netherlands; 9 June 1928)
+| World cup apps           = 4
+| World cup first          = 1934
+| World cup best           = Round of 16 ([[1934 FIFA World Cup|1934]])
+| Regional name            = [[Africa Cup of Nations]]
+| Regional cup apps        = 27
+| Regional cup first       = [[1957 African Cup of Nations|1957]]
+| Regional cup best        = '''Champions''' ([[1957 African Cup of Nations|1957]], [[1959 African Cup of Nations|1959]], [[1986 African Cup of Nations|1986]], [[1998 African Cup of Nations|1998]], [[2006 Africa Cup of Nations|2006]], [[2008 Africa Cup of Nations|2008]], [[2010 Africa Cup of Nations|2010]])
+| Confederations cup apps  = 2
+| Confederations cup first = [[1999 FIFA Confederations Cup|1999]]
+| Confederations cup best  = Group stage ([[1999 FIFA Confederations Cup|1999]], [[2009 FIFA Confederations Cup|2009]])
+| medaltemplates           = {{MedalSport|Men's [[Association football|football]]}}
+{{MedalCompetition|[[Africa Cup of Nations]]}}
+{{MedalGold|[[1957 African Cup of Nations|1957 Sudan]]|[[1957 African Cup of Nations squads#Egypt|Team]]}}
+{{MedalGold|[[1959 African Cup of Nations|1959 United Arab Republic]]|[[1959 African Cup of Nations squads#Egypt|Team]]}}
+{{MedalGold|[[1986 African Cup of Nations|1986 Egypt]]|[[1986 African Cup of Nations squads#Egypt|Team]]}}
+{{MedalGold|[[1998 African Cup of Nations|1998 Burkina Faso]]|[[1998 African Cup of Nations squads#Egypt|Team]]}}
+{{MedalGold|[[2006 Africa Cup of Nations|2006 Egypt]]|[[2006 Africa Cup of Nations squads#Egypt|Team]]}}
+{{MedalGold|[[2008 Africa Cup of Nations|2008 Ghana]]|[[2008 Africa Cup of Nations squads#Egypt|Team]]}}
+{{MedalGold|[[2010 Africa Cup of Nations|2010 Angola]]|[[2010 Africa Cup of Nations squads#Egypt|Team]]}}
+{{MedalSilver|[[1962 African Cup of Nations|1962 Ethiopia]]|[[1962 African Cup of Nations squads#Egypt|Team]]}}
+{{MedalSilver|[[2017 Africa Cup of Nations|2017 Gabon]]|[[2017 Africa Cup of Nations squads#Egypt|Team]]}}
+{{MedalSilver|[[2021 Africa Cup of Nations|2021 Cameroon]]|[[2021 Africa Cup of Nations squads#Egypt|Team]]}}
+{{MedalBronze|[[1963 African Cup of Nations|1963 Ghana]]|[[1963 African Cup of Nations squads#Egypt|Team]]}}
+{{MedalBronze|[[1970 African Cup of Nations|1970 Sudan]]|[[1970 African Cup of Nations squads#Egypt|Team]]}}
+{{MedalBronze|[[1974 African Cup of Nations|1974 Egypt]]|[[1974 African Cup of Nations squads#Egypt|Team]]}}
+{{MedalCompetition|[[FIFA Arab Cup|Arab Cup]]}}
+{{MedalGold|[[1992 Arab Cup|1992 Syria]]|[[1992 Arab Cup squads#Egypt|Team]]}}
+{{MedalBronze|[[1988 Arab Cup|1988 Jordan]]|[[1988 Arab Cup squads#Egypt|Team]]}}
+{{MedalCompetition|[[Afro-Asian Cup of Nations]]}}
+{{MedalSilver|[[1987 Afro-Asian Cup of Nations|1987 Qatar]]|Team}}
+{{MedalSilver|[[2007 Afro-Asian Cup of Nations|2007 Japan]]|Team}}
+{{MedalCompetition|[[Football at the African Games|African Games]]}}
+{{MedalGold|[[1987 All-Africa Games|1987 Nairobi]]|[[Football at the 1987 All-Africa Games|Team]]}}
+{{MedalBronze|[[1973 All-Africa Games|1973 Lagos]]|[[Football at the 1973 All-Africa Games|Team]]}}
+{{MedalCompetition|[[Football at the Mediterranean Games|Mediterranean Games]]}}
+{{MedalGold|[[1955 Mediterranean Games|1955 Barcelona]]|[[Football at the 1955 Mediterranean Games|Team]]}}
+{{MedalSilver|[[1951 Mediterranean Games|1951 Alexandria]]|[[Football at the 1951 Mediterranean Games|Team]]}}
+{{MedalBronze|[[1983 Mediterranean Games|1983 Casablanca]]|[[Football at the 1983 Mediterranean Games|Team]]}}
+{{MedalCompetition|[[Arab Games]]}}
+{{MedalGold|[[1953 Arab Games|1953 Alexandria]]|[[Football at the 1953 Arab Games|Team]]}}
+{{MedalGold|[[1965 Arab Games|1965 Cairo]]|[[Football at the 1965 Arab Games|Team]]}}
+{{MedalGold|[[1992 Arab Games|1992 Damascus]]|[[1992 Arab Cup|Team]]}}
+{{MedalGold|[[2007 Arab Games|2007 Cairo]]|[[Football at the 2007 Arab Games|Team]]}}
+{{MedalSilver|[[1961 Arab Games|1961 Casablanca]]|[[Football at the 1961 Arab Games|Team]]}}
+| Website                  = 
+| pattern_la1              = _egy26h
+| pattern_b1               = _egy26h
+| pattern_ra1              = _egy26h
+| pattern_sh1              = _gha26h
+| leftarm1                 = FF0000
+| body1                    = FF0000
+| rightarm1                = FF0000
+| shorts1                  = FFFFFF
+| socks1                   = 000000
+| pattern_la2              = _mrc26a
+| pattern_b2               = _egy26a
+| pattern_ra2              = _mrc26a
+| pattern_sh2              = _nze26a
+| leftarm2                 = FFFFFF
+| body2                    = FFFFFF
+| rightarm2                = FFFFFF
+| shorts2                  = 000000
+| socks2                   = FFFFFF
+}}
+The '''Egypt national football team''' ({{langx|arz|منتخب مصر لكرة القدم}}), nicknamed '''The Pharaohs''' ({{langx|arz|الفراعنة}}), represents [[Egypt]] in men's [[FIFA|international]] [[Association football|football]], and is governed by the [[Egyptian Football Association]] (EFA), the governing body of [[football in Egypt]].
+
+Egypt is Africa's oldest national football team and has won the [[Africa Cup of Nations]] a [[Africa Cup of Nations records and statistics|record seven times]]. The team has made three appearances in the [[FIFA World Cup]] and was the first-ever African and Middle Eastern team to make such an appearance.
+
+Internationally, [[Egypt national under-20 football team|Egypt]] earned the honour of becoming a [[2001 FIFA World Youth Championship#Final ranking|bronze medalist]] at the [[2001 FIFA World Youth Championship|2001]] [[FIFA U-20 World Cup]] in [[2001 FIFA World Youth Championship|Argentina]].<ref>{{citation|url=https://english.ahram.org.eg/NewsContent/6/52/17515/Sports/National-Teams/Egypt-U-return-to-South-America,-a-decade-after--g.aspx|title=Egypt U-20 return to South America, a decade after 2001 glory}}</ref>

@@ -1,0 +1,35 @@
+===Current squad===
+The following 26 players were named in the squad for the [[2026 FIFA World Cup]], and for the pre-tournament friendly matches against [[Panama national football team|Panama]] and [[Egypt national football team|Egypt]] on 31 May and 6 June 2026, respectively.<ref>{{cite web |url=https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/05/18/neymar-vai-para-a-quarta-copa-e-iguala-recorde-entre-brasileiros-veja-a-lista.ghtml/ |title=Neymar vai para a quarta Copa e iguala recorde entre brasileiros; veja a lista |trans-title=Neymar will go to his fourth World Cup and equals the record among Brazilians; see the list |publisher=[[Globo (media company)|Globo]] |date=May 18, 2026 |access-date=May 18, 2026 |language=pt}}</ref>
+<br>''Caps and goals are correct as of 6 June 2026, after the match against [[Egypt national football team|Egypt]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Alisson Becker|Alisson]]|age={{bda|df=y|1992|10|2}}|caps=78|goals=0|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs g player|no=12|pos=GK|name=[[Weverton (footballer, born 1987)|Weverton]]|age={{bda|df=y|1987|12|13}}|caps=11|goals=0|club=[[Grêmio FBPA|Grêmio]]|clubnat=BRA}}
+{{nat fs g player|no=23|pos=GK|name=[[Ederson (footballer, born 1993)|Ederson]]|age={{bda|df=y|1993|8|17}}|caps=32|goals=0|club=[[Fenerbahçe S.K. (football)|Fenerbahçe]]|clubnat=TUR}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Wesley França|Wesley]]|age={{bda|df=y|2003|9|6}}|caps=8|goals=0|club=[[AS Roma|Roma]]|clubnat=ITA}}
+{{nat fs g player|no=3|pos=DF|name=[[Gabriel Magalhães]]|age={{bda|df=yes|1997|12|19}}|caps=17|goals=1|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs g player|no=4|pos=DF|name=[[Marquinhos]]|other=[[Captain (association football)|captain]]|age={{bda|df=y|1994|5|14}}|caps=105|goals=7|club=[[Paris Saint-Germain FC|Paris Saint-Germain]]|clubnat=FRA}}
+{{nat fs g player|no=6|pos=DF|name=[[Alex Sandro]]|age={{bda|df=y|1991|1|26}}|caps=45|goals=2|club=[[CR Flamengo|Flamengo]]|clubnat=BRA}}
+{{nat fs g player|no=13|pos=DF|name=[[Danilo (footballer, born July 1991)|Danilo]]|age={{bda|df=y|1991|7|15}}|caps=70|goals=1|club=[[CR Flamengo|Flamengo]]|clubnat=BRA}}
+{{nat fs g player|no=14|pos=DF|name=[[Gleison Bremer|Bremer]]|age={{bda|df=y|1997|3|18}}|caps=8|goals=1|club=[[Juventus FC|Juventus]]|clubnat=ITA}}
+{{nat fs g player|no=15|pos=DF|name=[[Léo Pereira (footballer, born 1996)|Léo Pereira]]|age={{bda|df=y|1996|1|31}}|caps=4|goals=0|club=[[CR Flamengo|Flamengo]]|clubnat=BRA}}
+{{nat fs g player|no=16|pos=DF|name=[[Douglas Santos (footballer, born 1994)|Douglas Santos]]|age={{bda|df=y|1994|3|22}}|caps=7|goals=0|club=[[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]|clubnat=RUS}}
+{{nat fs g player|no=24|pos=DF|name=[[Roger Ibañez]]|age={{bda|df=y|1998|11|23}}|caps=7|goals=0|club=[[Al-Ahli Saudi FC|Al-Ahli]]|clubnat=KSA}}
+{{nat fs break}}
+{{nat fs g player|no=5|pos=MF|name=[[Casemiro]]|other=[[Captain (association football)|vice-captain]]|age={{bda|df=y|1992|2|23}}|caps=86|goals=9|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs g player|no=8|pos=MF|name=[[Bruno Guimarães]]|age={{bda|df=y|1997|11|16}}|caps=43|goals=3|club=[[Newcastle United F.C.|Newcastle United]]|clubnat=ENG}}
+{{nat fs g player|no=17|pos=MF|name=[[Fabinho (footballer, born 1993)|Fabinho]]|age={{bda|df=y|1993|10|23}}|caps=33|goals=0|club=[[Al-Ittihad Club (Jeddah)|Al-Ittihad]]|clubnat=KSA}}
+{{nat fs g player|no=18|pos=MF|name=[[Danilo (footballer, born 2001)|Danilo Santos]]|age={{bda|df=y|2001|4|29}}|caps=4|goals=2|club=[[Botafogo FR|Botafogo]]|clubnat=BRA}}
+{{nat fs g player|no=20|pos=MF|name=[[Lucas Paquetá]]|age={{bda|df=y|1997|8|27}}|caps=63|goals=13|club=[[CR Flamengo|Flamengo]]|clubnat=BRA}}
+{{nat fs break}}
+{{nat fs g player|no=7|pos=FW|name=[[Vinícius Júnior]]|age={{bda|df=y|2000|7|12}}|caps=49|goals=9|club=[[Real Madrid CF|Real Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=9|pos=FW|name=[[Matheus Cunha]]|age={{bda|df=y|1999|5|27}}|caps=23|goals=1|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs g player|no=10|pos=FW|name=[[Neymar]]|age={{bda|df=y|1992|2|5}}|caps=128|goals=[[List of international goals scored by Neymar|79]]|club=[[Santos FC|Santos]]|clubnat=BRA}}
+{{nat fs g player|no=11|pos=FW|name=[[Raphinha]]|age={{bda|df=y|1996|12|14}}|caps=39|goals=11|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs g player|no=19|pos=FW|name=[[Endrick (footballer, born 2006)|Endrick]]|age={{bda|df=y|2006|7|21}}|caps=17|goals=4|club=[[Olympique Lyonnais|Lyon]]|clubnat=FRA}}
+{{nat fs g player|no=21|pos=FW|name=[[Luiz Henrique (footballer, born 2001)|Luiz Henrique]]|age={{bda|df=y|2001|1|2}}|caps=15|goals=2|club=[[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]|clubnat=RUS}}
+{{nat fs g player|no=22|pos=FW|name=[[Gabriel Martinelli]]|age={{bda|df=y|2001|6|18}}|caps=23|goals=4|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs g player|no=25|pos=FW|name=[[Igor Thiago]]|age={{bda|df=y|2001|6|26}}|caps=4|goals=2|club=[[Brentford F.C.|Brentford]]|clubnat=ENG}}
+{{nat fs g player|no=26|pos=FW|name=[[Rayan (footballer, born 2006)|Rayan]]|age={{bda|df=y|2006|8|3}}|caps=2|goals=1|club=[[AFC Bournemouth|Bournemouth]]|clubnat=ENG}}
+{{nat fs end}}

@@ -1,0 +1,88 @@
+{{Short description|Men's association football team}}
+{{About|the men's team|the women's team|Netherlands women's national football team}}
+{{Use dmy dates|date=November 2022}}
+{{Infobox national football team
+| Name                  = Netherlands
+| Nickname              = ''Oranje''<br />''Clockwork Orange''<br />''The Flying Dutchmen''<ref>{{cite web|url=http://www.rnw.nl/english/article/holland%E2%80%99s-media-friendly-football-pros|title=Holland's media-friendly football pros|publisher=[[Radio Netherlands Worldwide]]|date=17 December 2011|access-date=25 July 2013|url-status=dead|archive-url=https://web.archive.org/web/20131012031717/http://www.rnw.nl/english/article/holland%E2%80%99s-media-friendly-football-pros|archive-date=12 October 2013}}</ref>
+| Badge                 = Netherlands national football team logo.svg
+| Badge_size            = 175px
+| Association           = [[Royal Dutch Football Association|Koninklijke Nederlandse Voetbalbond]] (KNVB)
+| Confederation         = [[UEFA]] (Europe)
+| Coach                 = [[Ronald Koeman]]
+| Captain               = [[Virgil van Dijk]]
+| Most caps             = [[Wesley Sneijder]] (134)
+| Top scorer            = [[Memphis Depay]] ([[List of international goals scored by Memphis Depay|55]])
+| Home Stadium          = [[List of football stadiums in the Netherlands|Various]]
+| FIFA Trigramme        = NED
+| FIFA Rank             = {{FIFA World Rankings|NED}}
+| FIFA max              = 1<ref>{{Cite web|url=https://www.fifa.com/fifa-world-ranking/ranking-table/men/rank/id9731/|archive-url=https://web.archive.org/web/20191006015149/https://www.fifa.com/fifa-world-ranking/ranking-table/men/rank/id9731/|url-status=dead|archive-date=6 October 2019|title=The FIFA/Coca-Cola World Ranking - Ranking Table |website=FIFA.com}}</ref>
+| FIFA max date         = August 2011
+| FIFA min              = 36<ref>{{Cite web|url=https://www.fifa.com/fifa-world-ranking/ranking-table/men/rank/id11909/|archive-url=https://web.archive.org/web/20191006021138/https://www.fifa.com/fifa-world-ranking/ranking-table/men/rank/id11909/|url-status=dead|archive-date=6 October 2019|title=The FIFA/Coca-Cola World Ranking - Ranking Table |website=FIFA.com}}</ref>
+| FIFA min date         = August 2017
+| Elo Rank              = {{World Football Elo Ratings|Netherlands}}
+| Elo max               = [[World Football Elo Ratings#List of number one teams|1]]
+| Elo max date          = 1978, 1988–1990, 1992, 2002, 2003, 2005, 2008, 2010, 2014
+| Elo min               = 49
+| Elo min date          = October 1954
+| pattern_la1           = _ned26h
+| pattern_b1            = _ned26h
+| pattern_ra1           = _ned26h
+| pattern_sh1           = _ned26h
+| pattern_so1           = 
+| leftarm1              = FF6600
+| body1                 = FF6600
+| rightarm1             = FF6600
+| shorts1               = 000000
+| socks1                = FF6600
+| pattern_la2           = _ned26a
+| pattern_b2            = _ned26a
+| pattern_ra2           = _ned26a
+| pattern_sh2           = _ned26a
+| pattern_so2           = 
+| leftarm2              = FFFFFF
+| body2                 = FFFFFF
+| rightarm2             = FFFFFF
+| shorts2               = FF6600
+| socks2                = FFFFFF
+| First game            = {{fb|BEL}} [[Belgium vs Netherlands Cups|1–4]] {{fb-rt|NED}}<br />([[Antwerp]], [[Belgium]]; 30 April 1905)
+| Largest win           = {{fb|NED}} 11–0 {{fb-rt|SMR}}<br />([[Eindhoven]], [[Netherlands]]; 2 September 2011)
+| Largest loss          = {{nowrap|{{Fbam|ENG|full=y}} 12–2 {{fb-rt|NED}}}}<br />([[Darlington]], [[England]]; 21 December 1907){{efn-ua|Note that this match is not considered to be a full international by the English [[The Football Association|Football Association]], and does not appear in the records of the [[England national football team|England team]], because professional football had already been introduced in England at that time. In the Netherlands, however, professional football was not introduced until 1954. Before then, players who left the Netherlands to turn pro in another country were banned from the national team.<!--<ref>{{cite web |url=http://www.voetbalstats.nl/listjaarnedxi.php?jaar=1907 |title=Interlands Nederlands Eiftal en 1907 |access-date=20 December 2014 | publisher=www.voetbalstats.nl }}</ref>-->}}
+| World cup apps        = 12
+| World cup first       = 1934
+| World cup best        = Runners-up ([[1974 FIFA World Cup|1974]], [[1978 FIFA World Cup|1978]], [[2010 FIFA World Cup|2010]])
+| Regional name         = [[UEFA European Championship|European Championship]]
+| Regional cup apps     = 11
+| Regional cup first    = [[UEFA Euro 1976|1976]]
+| Regional cup best     = '''Champions''' ([[UEFA Euro 1988|1988]])
+| 2ndRegional name      = [[UEFA Nations League|Nations League Finals]]
+| 2ndRegional cup apps  = 2
+| 2ndRegional cup first = [[2019 UEFA Nations League Finals|2019]]
+| 2ndRegional cup best  = Runners-up ([[2019 UEFA Nations League Finals|2019]])
+| 3rdRegional name         = [[Football at the Summer Olympics|Olympic Games]]
+| 3rdRegional cup apps     = 7
+| 3rdRegional cup first    = [[Football at the 1908 Summer Olympics|1908]]
+| 3rdRegional cup best     = [[File:Bronze medal.svg|16px]][[File:Bronze medal.svg|16px]][[File:Bronze medal.svg|16px]] Bronze medal ([[Football at the 1908 Summer Olympics|1908]], [[Football at the 1912 Summer Olympics|1912]], [[Football at the 1920 Summer Olympics|1920]])
+| website               = {{URL|https://www.onsoranje.nl/|onsoranje.nl}} {{in lang|nl}}
+| medaltemplates        = 
+{{MedalSport|Men's [[Association football|football]]}}
+{{MedalCompetition|[[FIFA World Cup]]}}
+{{MedalSilver|[[1974 FIFA World Cup|1974 West Germany]]|[[1974 FIFA World Cup squads#Netherlands|Team]]}}
+{{MedalSilver|[[1978 FIFA World Cup|1978 Argentina]]|[[1978 FIFA World Cup squads#Netherlands|Team]]}}
+{{MedalSilver|[[2010 FIFA World Cup|2010 South Africa]]|[[2010 FIFA World Cup squads#Netherlands|Team]]}}
+{{MedalBronze|[[2014 FIFA World Cup|2014 Brazil]]|[[2014 FIFA World Cup squads#Netherlands|Team]]}}
+{{MedalCompetition|[[UEFA European Championship]]}}
+{{MedalGold|[[UEFA Euro 1988|1988 West Germany]]|[[UEFA Euro 1988 squads#Netherlands|Team]]}}
+{{MedalBronze|[[UEFA Euro 1976|1976 Yugoslavia]]|[[UEFA Euro 1976 squads#Netherlands|Team]]}}
+{{MedalCompetition|[[UEFA Nations League]]}}
+{{MedalSilver|[[2019 UEFA Nations League Finals|2019 Portugal]]|[[2019 UEFA Nations League Finals squads#Netherlands|Team]]}}
+{{MedalCompetition|[[Football at the Summer Olympics|Olympic Games]]}}
+{{MedalBronze|[[1908 Summer Olympics|1908 London]]|[[Football at the 1908 Summer Olympics|Team]]}}
+{{MedalBronze|[[1912 Summer Olympics|1912 Stockholm]]|[[Football at the 1912 Summer Olympics|Team]]}}
+{{MedalBronze|[[1920 Summer Olympics|1920 Antwerp]]|[[Football at the 1920 Summer Olympics|Team]]}}
+}}
+
+The '''Netherlands national football team''' ({{langx|nl|Nederlands voetbalelftal}} or simply ''Het Nederlands elftal'') has represented the [[Netherlands]] in international men's [[Association football|football]] matches since 1905. The men's national team is controlled by the [[Royal Dutch Football Association]] (KNVB), the governing body for [[football in the Netherlands]], which is a part of [[UEFA]], under the jurisdiction of [[FIFA]]. Most of the Netherlands home matches are played at the [[Johan Cruyff Arena]], [[De Kuip]], [[Philips Stadion]] and [[De Grolsch Veste]].
+
+The team is colloquially referred to as ''Het Nederlands Elftal'' (The Dutch Eleven) or ''Oranje'', after the [[House of Orange-Nassau]] and their distinctive orange jerseys. Their fan club is known as ''Het Oranje Legioen'' (The Orange Legion).<ref name=HetLegioen>{{cite web|url=https://www.knvb.com/dutch-football/international-football|website=KNVB|access-date=14 March 2022|title=International football &#124; KNVB|archive-date=5 April 2022|archive-url=https://web.archive.org/web/20220405090958/https://www.knvb.com/dutch-football/international-football|url-status=live}}</ref>
+
+The Netherlands has competed in eleven [[FIFA World Cup]]s, appearing in the final three times (in [[1974 FIFA World Cup|1974]], [[1978 FIFA World Cup|1978]] and [[2010 FIFA World Cup|2010]]), finishing as runners-up on all three occasions. They have also appeared in eleven [[UEFA European Championship]]s, winning the [[UEFA Euro 1988|1988]] tournament in West Germany. Additionally, the team has won bronze medals at three [[Football at the Summer Olympics|Olympic football tournaments]], in [[Football at the 1908 Summer Olympics|1908]], [[Football at the 1912 Summer Olympics|1912]] and [[Football at the 1920 Summer Olympics|1920]]. The Netherlands has long-standing football rivalries with neighbours [[Low Countries derby|Belgium]] and [[Germany–Netherlands football rivalry|Germany]] as well as the South American country of [[Argentina–Netherlands football rivalry|Argentina]].

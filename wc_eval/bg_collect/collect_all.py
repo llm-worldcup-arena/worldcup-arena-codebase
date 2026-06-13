@@ -8,7 +8,7 @@
   [3] Elo（eloratings.net/World.tsv）→ team_rank
   [4] 中文名（enwiki → Wikidata zh-cn 大陆简体）→ persons
 
-raw : wc_runs/raw/bg/<采集时分>/        ← 一个目录 = 一次收集（类型靠文件名区分，不另套子文件夹）
+raw : wc_runs/data_raw/<采集时分>/        ← 一个目录 = 一次收集（类型靠文件名区分，不另套子文件夹）
         <TEAM>.wikitext                  48 队整页全文（球员+教练+世界杯史都在里面）
         fifa_rankings.txt                FIFA 排名模板展开留底
         World.tsv                        Elo 原文
@@ -98,10 +98,10 @@ def main():
     codes = [c for c in codes if c in WIKI_PAGE]
 
     ts = run_ts()
-    raw_dir = f"{BASE}/raw/bg/{ts}"
+    raw_dir = f"{BASE}/data_raw/{ts}"
     os.makedirs(raw_dir, exist_ok=True)
     print(f"=== 一次收集  ts={ts}  asof={args.asof}  {len(codes)} 队 ===")
-    print(f"raw 一个目录: raw/bg/{ts}/\n")
+    print(f"raw 一个目录: data_raw/{ts}/\n")
 
     teams = load_json(TEAMS_PATH, [])
     teams_by_id = {t.get("team_id"): t for t in teams}
@@ -173,7 +173,7 @@ def main():
     print(f"[5/5] 赛程（2026 世界杯子页 → matches/venues/groups/bracket）")
     collect_fixtures.main(ts=ts)
 
-    print(f"\n=== 完成 ===  一份原文在 raw/bg/{ts}/ ，data 快照 asof={args.asof}")
+    print(f"\n=== 完成 ===  一份原文在 data_raw/{ts}/ ，data 快照 asof={args.asof}")
 
 
 if __name__ == "__main__":

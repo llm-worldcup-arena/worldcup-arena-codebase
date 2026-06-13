@@ -1,0 +1,35 @@
+===Current squad===
+The following 26 players were selected for the [[2026 FIFA World Cup]].<ref>{{cite web|title=Paraguay Announces Squad for 2026 FIFA World Cup|url=https://heavy.com/sports/soccer/world-cup/paraguay-announces-squad-fifa-world-cup/|website=Heavy.com|date=June 1, 2026|access-date=June 1, 2026}}</ref>
+<br>''Caps and goals current as of 5 June 2026, after the match against [[Nicaragua national football team|Nicaragua]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Gatito Fernández]]|age={{birth date and age|df=y|1988|3|29}}|caps=31|goals=0|club=[[Club Cerro Porteño|Cerro Porteño]]|clubnat=PAR}}
+{{nat fs g player|no=12|pos=GK|name=[[Orlando Gill]]|age={{birth date and age|df=y|2000|6|11}}|caps=6|goals=0|club=[[San Lorenzo de Almagro|San Lorenzo]]|clubnat=ARG}}
+{{nat fs g player|no=22|pos=GK|name=[[Gastón Olveira]]|age={{birth date and age|df=y|1993|4|21}}|caps=1|goals=0|club=[[Club Olimpia|Olimpia]]|clubnat=PAR}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Gustavo Velázquez]]|age={{birth date and age|df=y|1991|4|17}}|caps=13|goals=1|club=[[Cerro Porteño]]|clubnat=PAR}}
+{{nat fs g player|no=3|pos=DF|name=[[Omar Alderete]]|age={{birth date and age|df=y|1996|12|26}}|caps=36|goals=3|club=[[Sunderland A.F.C.|Sunderland]]|clubnat=ENG}}
+{{nat fs g player|no=4|pos=DF|name=[[Juan José Cáceres]]|age={{birth date and age|df=y|2000|6|1}}|caps=17|goals=0|club=[[FC Dynamo Moscow|Dynamo Moscow]]|clubnat=RUS}}
+{{nat fs g player|no=5|pos=DF|name=[[Fabián Balbuena]]|age={{birth date and age|df=y|1991|8|23}}|caps=48|goals=2|club=[[Grêmio FBPA|Grêmio]]|clubnat=BRA}}
+{{nat fs g player|no=6|pos=DF|name=[[Júnior Alonso]]|age={{birth date and age|df=y|1993|2|9}}|caps=71|goals=3|club=[[Clube Atlético Mineiro|Atlético Mineiro]]|clubnat=BRA}}
+{{nat fs g player|no=13|pos=DF|name=[[José Canale]]|age={{birth date and age|df=y|1996|7|20}}|caps=2|goals=0|club=[[Club Atlético Lanús|Lanús]]|clubnat=ARG}}
+{{nat fs g player|no=15|pos=DF|name=[[Gustavo Gómez]]|age={{birth date and age|df=y|1993|5|6}}|caps=89|goals=4|club=[[SE Palmeiras|Palmeiras]]|clubnat=BRA}}
+{{nat fs g player|no=26|pos=DF|name=[[Alexandro Maidana]]|age={{birth date and age|df=y|2005|7|26}}|caps=2|goals=1|club=[[Talleres de Córdoba|Talleres]]|clubnat=ARG}}
+{{nat fs break}}
+{{nat fs g player|no=7|pos=MF|name=[[Ramón Sosa]]|age={{birth date and age|df=y|1999|8|31}}|caps=29|goals=1|club=[[SE Palmeiras|Palmeiras]]|clubnat=BRA}}
+{{nat fs g player|no=8|pos=MF|name=[[Diego Gómez (Paraguayan footballer)|Diego Gómez]]|age={{birth date and age|df=y|2003|3|27}}|caps=24|goals=3|club=[[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]|clubnat=ENG}}
+{{nat fs g player|no=10|pos=MF|name=[[Miguel Almirón]]|age={{birth date and age|df=y|1994|2|10}}|caps=76|goals=10|club=[[Atlanta United FC|Atlanta United]]|clubnat=USA}}
+{{nat fs g player|no=11|pos=MF|name=[[Maurício (footballer, born 2001)|Maurício]]|age={{birth date and age|df=y|2001|6|22}}|caps=3|goals=0|club=[[SE Palmeiras|Palmeiras]]|clubnat=BRA}}
+{{nat fs g player|no=14|pos=MF|name=[[Andrés Cubas]]|age={{birth date and age|df=y|1996|5|22}}|caps=33|goals=0|club=[[Vancouver Whitecaps FC|Vancouver Whitecaps]]|clubnat=CAN}}
+{{nat fs g player|no=16|pos=MF|name=[[Damián Bobadilla]]|age={{birth date and age|df=y|2001|7|11}}|caps=19|goals=1|club=[[São Paulo FC|São Paulo]]|clubnat=BRA}}
+{{nat fs g player|no=17|pos=MF|name=[[Kaku (footballer)|Kaku]]|age={{birth date and age|df=y|1995|1|11}}|caps=33|goals=6|club=[[Al Ain FC|Al Ain]]|clubnat=UAE}}
+{{nat fs g player|no=20|pos=MF|name=[[Braian Ojeda]]|age={{birth date and age|df=y|2000|7|27}}|caps=17|goals=0|club=[[Orlando City SC|Orlando City]]|clubnat=USA}}
+{{nat fs g player|no=23|pos=MF|name=[[Matías Galarza (Paraguayan footballer)|Matías Galarza]]|age={{birth date and age|df=y|2002|2|11}}|caps=15|goals=3|club=[[Atlanta United FC|Atlanta United]]|clubnat=USA}}
+{{nat fs g player|no=24|pos=MF|name=[[Gustavo Caballero]]|age={{birth date and age|df=y|2001|9|21}}|caps=2|goals=1|club=[[Portsmouth F.C.|Portsmouth]]|clubnat=ENG}}
+{{nat fs break}}
+{{nat fs g player|no=9|pos=FW|name=[[Antonio Sanabria]]|age={{birth date and age|df=y|1996|3|4}}|caps=48|goals=7|club=[[U.S. Cremonese|Cremonese]]|clubnat=ITA}}
+{{nat fs g player|no=18|pos=FW|name=[[Álex Arce]]|age={{birth date and age|df=y|1995|6|16}}|caps=15|goals=1|club=[[Independiente Rivadavia]]|clubnat=ARG}}
+{{nat fs g player|no=19|pos=FW|name=[[Julio Enciso (footballer, born 2004)|Julio Enciso]]|age={{birth date and age|df=y|2004|1|23}}|caps=32|goals=4|club=[[RC Strasbourg Alsace|Strasbourg]]|clubnat=FRA}}
+{{nat fs g player|no=21|pos=FW|name=[[Gabriel Ávalos]]|age={{birth date and age|df=y|1991|7|9}}|caps=23|goals=2|club=[[Club Atlético Independiente|Independiente]]|clubnat=ARG}}
+{{nat fs g player|no=25|pos=FW|name=[[Isidro Pitta]]|age={{birth date and age|df=y|1999|8|14}}|caps=5|goals=0|club=[[Red Bull Bragantino]]|clubnat=BRA}}
+{{nat fs end}}

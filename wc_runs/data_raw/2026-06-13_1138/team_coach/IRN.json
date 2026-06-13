@@ -1,0 +1,24 @@
+{
+ "team": "IRN",
+ "coach": {
+  "name_zh": "阿米尔·加勒诺",
+  "name_en": "Amir Ghalenoei",
+  "nationality": "Imperial State of Iran",
+  "career_since": "1999",
+  "person_id": "per_amir_ghalenoei"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 阿米尔·加勒诺伊自1999年开启执教生涯，现任伊朗国家队主教练，率队以预选赛10战7胜小组头名晋级2026年世界杯，这将是伊朗连续第四次参赛。\n- 伊朗队史6次世界杯均未突破小组赛，本届与新西兰、比利时、埃及同处G组，所有比赛均在美国本土进行。\n- 加勒诺伊公布的26人名单倚重塔雷米、贾汉巴赫什等海外老将，但因\"叛国\"争议弃用91场57球的头号射手阿兹蒙，留下巨大进攻缺口。\n- 战术层面可能部署埃扎托拉希与古多斯双后腰，贾汉巴赫什、加耶迪、莫赫比支援单前锋塔雷米，并带上青年才俊拉扎吉尼亚作为奇兵。\n- 受中东战争影响，球队自2月起无正式比赛，目前在土耳其安塔利亚集训，并将世界杯基地迁至墨西哥蒂华纳以规避赴美签证与安全风险。\n- 伊朗若在小组次席出线可能遭遇美国，重演2022年世界杯1-0负于对手的剧情。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.95,
+  "issues": []
+ },
+ "brief_fetched": "2026-06-13_1138",
+ "brief_info_chars": 6000
+}

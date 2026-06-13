@@ -1,0 +1,28 @@
+{
+ "team": "ECU",
+ "coach": {
+  "name_zh": "塞巴斯蒂安·貝卡切斯",
+  "name_en": "Sebastián Beccacece",
+  "nationality": "Argentina",
+  "career_since": "2003",
+  "person_id": "per_sebastian_beccacece"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "厄瓜多尔主帅塞巴斯蒂安·贝卡切斯打造防守严密、高度组织化体系，可灵活变阵3-4-3，围绕凯塞多、因卡皮耶构建。队长恩纳·瓦伦西亚缺席热身赛确保世界杯满血复出，中场阿兰·弗兰科被改造为右翼卫。球队近两届世界杯均小组出局，6月14日首战对阵科特迪瓦。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": true,
+  "need_fix": true,
+  "keep_ratio": 0.75,
+  "issues": [
+   "教练早期经历与下一场关联弱",
+   "历史战绩赘述，预测价值低",
+   "缺少对科特迪瓦首战具体分析"
+  ]
+ },
+ "brief_fetched": "2026-06-13_1138",
+ "brief_info_chars": 6000
+}

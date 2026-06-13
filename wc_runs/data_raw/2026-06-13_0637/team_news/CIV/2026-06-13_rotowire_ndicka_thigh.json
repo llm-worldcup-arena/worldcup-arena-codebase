@@ -1,0 +1,16 @@
+{
+ "team": "CIV",
+ "source": "RotoWire",
+ "url": "https://www.rotowire.com/soccer/headlines/evan-ndicka-injury-suffers-serious-thigh-issue-516818",
+ "title": "Evan N'Dicka Soccer Stats & News | RotoWire",
+ "news_date": "2026-06-13",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "asof": "2026-06-13",
+ "fetched": "2026-06-13_0637",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Ndicka has been left behind in Rome to receive treatment from his AS Roma club doctors after suffering a thigh tear in the final round of Serie A, with the Ivory Coast technical staff confirming he will not join the squad before their departure for Philadelphia, according to Abdoul Kapo of IvoireZine. \"Evan has not yet joined us because he is injured. We preferred to leave him to be treated properly in Rome in an environment he knows well. He is being taken care of by his club's doctors.\"\nANALYSIS\nNdicka is considered doubtful for the first two group stage matches at minimum, with some sources suggesting he could miss the entire first round, and a final decision will only be made at the last possible moment ahead of Ivory Coast's opener against Ecuador. The center-back has been one of the pillars of the African champion's defensive unit, scoring five goals, contributing 69 interceptions, 176 clearances and 35 tackles across 41 appearances in all competitions this season, making his absence an enormous blow for a side that will need their best defensive options available if they are to make a deep run at the tournament. Emmanuel Agbadou is set to receive a larger role for the Elephants until the Roman returns.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

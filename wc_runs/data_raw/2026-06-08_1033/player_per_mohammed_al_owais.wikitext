@@ -1,0 +1,226 @@
+{{short description|Saudi Arabian footballer (born 1991)}}
+{{Use dmy dates|date=November 2022}}
+{{Infobox football biography
+| name = Mohammed Al-Owais
+| image = Mohammed Al-Owais 2018.jpg
+| caption = 
+| fullname = Mohammed Khalil Ibrahim Al-Owais<ref name="SW"/>
+| birth_date = {{birth date and age|df=yes|1991|10|10}}
+| birth_place = [[Hofuf|Al-Hasa]], Saudi Arabia
+| height = 1.87 m<ref>{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=FIFA World Cup Qatar 2022: List of Players: Saudi Arabia |publisher=[[FIFA]] |page=24 |date=15 November 2022 |access-date=10 December 2022}}</ref>
+| position = [[Goalkeeper (association football)|Goalkeeper]]
+| currentclub = [[Al-Ula FC|Al-Ula]]
+| clubnumber = 33
+| youthyears1 = 2008-2012
+| youthclubs1 = [[Al-Shabab FC (Riyadh)|Al-Shabab]]
+| years1 = 2012–2017
+| clubs1 = [[Al-Shabab FC (Riyadh)|Al-Shabab]]
+| caps1 = 31
+| goals1 = 0
+| years2 = 2017–2022
+| clubs2 = [[Al-Ahli SC (Jeddah)|Al-Ahli]]
+| caps2 = 92
+| goals2 = 0
+| years3 = 2022–2025
+| clubs3 = [[Al Hilal SFC|Al-Hilal]]
+| caps3 = 9
+| goals3 = 0
+| years4 = 2025–
+| clubs4 = [[Al-Ula FC|Al-Ula]]
+| caps4 = 9
+| goals4 = 0
+| nationalyears1 = 2012–2014
+| nationalteam1 = [[Saudi Arabia national under-23 football team|Saudi Arabia U23]]
+| nationalcaps1 = 
+| nationalgoals1 = 
+| nationalyears2 = 2015–
+| nationalteam2 = [[Saudi Arabia national football team|Saudi Arabia]]
+| nationalcaps2 = 63
+| nationalgoals2 = 0
+| club-update = 20:18, 17 April 2025 (UTC)
+| nationalteam-update = 09:13, 31 May 2026 (UTC)
+}}
+'''Mohammed Khalil Ibrahim Al-Owais''' ({{langx|ar|مُحَمَّد خَلِيل إِبْرَاهِيم الْعُوَيْس}}; born 10 October 1991) is a Saudi Arabian professional [[Association football|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for the [[Al-Ula FC|Al-Ula]] and the [[Saudi Arabia national football team|Saudi Arabia national team]].<ref>{{Cite web|url=http://www.kooora.com/?player=90298|title = كووورة: الموقع العربي الرياضي الأول|language=ar}}</ref> He is known for his quick reflexes and vigilance in goal.<ref>{{Cite web|url= https://en.prothomalo.com/sports/football/31k3kat3z8 |title = Mohammed Al-Owais: The Saudi David that slayed the Argentine Goliath|language=en}}</ref>
+
+==Club career==
+On 26 July 2017, Al-Owais joined [[Al-Ahli Saudi FC|Al-Ahli]] on a free transfer.<ref>{{cite web|title=محمد_العويس ملكي حتى 2022م |url=https://twitter.com/ALAHLI_FC/status/824222527379664896 |date=26 July 2017}}</ref> On 30 January 2022, Al-Owais joined [[Al Hilal SFC|Al-Hilal]].<ref>{{cite web |title=اتفاق نهائي.. الهلال يشتري المدة المتبقية من عقد محمد العويس |url=https://akhbaar24.argaam.com/article/detail/586224|language=ar}}</ref> On 28 May 2025, Al-Owais joined First Division League side [[Al-Ula FC|Al-Ula]].<ref>{{Cite web|url=https://sabq.org/sports/44v1xfuxp9|title=قادم من الهلال.. "العويس" بعد توقيعه لـ"العلا": "سأخوض تجربة جديدة بطموحات عالية"|first=أحمد|last=سرور|date=27 May 2025|website=صحيفة سبق الالكترونية}}</ref>
+
+==International career==
+
+===2015-2016: FIFA World Cup 2018 qualifiers===
+Al-Owais was called up to the senior Saudi Arabia squad for a [[2018 FIFA World Cup]] qualifier against [[Timor-Leste national football team|Timor-Leste]] in September 2015.<ref>{{cite web |url=https://www.fifa.com/worldcup/matches/round=275171/match=300317402/index.html|archive-url=https://web.archive.org/web/20150525030104/http://www.fifa.com/worldcup/matches/round=275171/match=300317402/index.html|url-status=dead|archive-date=25 May 2015|title=Saudi Arabia Timor Leste|publisher=fifa.com |date=3 September 2015 |access-date=14 July 2016}}</ref> He made his debut against [[Japan national football team|Japan]] in [[2018 FIFA World Cup Qualification]] on 15 November 2016.
+
+===2018: FIFA World Cup 2018 performance===
+In May 2018, he was named in Saudi Arabia's preliminary [[Saudi Arabia national football team|squad]] for the [[2018 World Cup]] in Russia. He originally served as the second choice goalkeeper behind regular [[Abdullah Al-Mayouf]]. However, Al-Mayouf performed horribly in the opener against [[Russia national football team|Russia]] as Saudi Arabia suffered a humiliating 5–0 defeat. This led to Al-Owais being promoted as the first-choice keeper instead. Al-Owais played in Saudi Arabia's 1–0 loss to [[Uruguay national football team|Uruguay]], where he made some good saves even though that was not enough to save Saudi Arabia from elimination. This was Al-Owais' only game in Russia.<ref>{{Cite web|url=https://www.bbc.co.uk/sport/football/440833652018|title=World Cup 2018: All the confirmed squads for this summer's finals in Russia}}{{dead link|date=September 2025|bot=medic}}{{cbignore|bot=medic}}</ref>
+
+===2019: AFC Asian Cup 2019 performance===
+Al-Owais was included in [[Saudi Arabia national football team|Saudi Arabia]]'s squad for the [[2019 AFC Asian Cup]] in the United Arab Emirates.<ref name="AFC">{{cite web |url=http://www.the-afc.com/afc/documents/PdfFiles/afc-asian-cup-uae-2019-complete-squad-lists |title=AFC Asian Cup UAE 2019 Complete Squad Lists |website=The-AFC.com |publisher=[[Asian Football Confederation]] |format=PDF |date=27 December 2018 |access-date=28 December 2018 |url-status=live |archive-url=https://web.archive.org/web/20181228174458/http://www.the-afc.com/afc/documents/PdfFiles/afc-asian-cup-uae-2019-complete-squad-lists |archive-date=28 December 2018}}</ref> However, he produced a rather mediocre performance, only keeping a clean sheet twice, against weaker [[North Korea national football team|North Korea]] and [[Lebanon national football team|Lebanon]], as Saudi Arabia won both games. Against [[Qatar national football team|Qatar]] and [[Japan national football team|Japan]] though, he conceding three goals, especially against the latter as his side lost an important game in the round of sixteen and thus Saudi Arabia crashed out.
+
+===2022: Impressive performance at the 2022 FIFA World Cup ===
+On 22 November 2022, during a [[2022 FIFA World Cup]] match against [[Argentina national football team|Argentina]], Al-Owais was named [[player of the match]] for his goalkeeping performance, which contributed to a historic 2–1 upset victory for Saudi Arabia.<ref>{{Cite web |last=Adler |first=Nils |title=Saudi Arabia stun Argentina with inspired second-half performance |url=https://www.aljazeera.com/news/2022/11/22/saudi-arabia-beat-argentina-with-inspired-second-half-performance |access-date=2022-11-22 |website=www.aljazeera.com |language=en}}</ref> Along with his teammates, Al-Owais was reportedly gifted a [[Rolls-Royce]] as a result of the team’s significant victory. However, he then conceded twice to [[Poland national football team|Poland]], becoming the victim of [[Robert Lewandowski]]'s first World Cup goal, as Saudi Arabia succumbed to the Poles and thus lost the advantage gained from the shock win against Argentina.
+
+Later, Al-Owais also gained prominence for his acrobatic saves against [[Mexico national football team|Mexico]], which contributed to the elimination of Mexico from the group stage for the first time since [[1978 FIFA World Cup|1978]]. However, Saudi Arabia still suffered a 2–1 defeat to the Mexicans in the end and as for the result, despite heroic efforts by Al-Owais, his team failed to progress from the group stage once again as Saudi Arabia stood bottom.<ref>{{Cite web |last=Agencies |first=The New Arab Staff & |date=2022-12-01 |title=Saudi Arabia coach: Al-Owais stopped bigger loss to Mexico |url=https://www.newarab.com/news/saudi-arabia-coach-al-owais-stopped-bigger-loss-mexico |access-date=2022-12-15 |website=www.newarab.com/ |language=en}}</ref>
+
+==Personal life==
+Al-Owais is a [[Muslim]].
+On the 21st of March, He had a boy named Ahmed.<ref>{{Cite tweet | user=mohadalowais | number=1903156378467770407 | title=Praise be to God for the perfection of His blessings and the completion of His favor... | language=ar }}</ref>
+
+==Career statistics==
+===Club===
+''As of 31 May 2025.''<ref name="SW">{{Soccerway |id=279673 |access-date=15 March 2018}}</ref>
+
+{| class=wikitable style="text-align: center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=2|League
+!colspan=2|[[Kings Cup (Saudi Arabia)|King Cup]]
+!colspan=2|[[Saudi Crown Prince Cup|Crown Prince Cup]] {{efn|Discontinued in 19 September 2017}}
+!colspan=2|Continental
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Apps||Goals||Apps||Goals||Apps||Goals||Apps||Goals||Apps||Goals||Apps||Goals
+|-
+|rowspan=5|[[Al-Shabab FC (Riyadh)|Al-Shabab]]
+|[[2013–14 Saudi Professional League|2013–14]]
+|0||0||0||0||0||0||1||0||colspan=2|—||1||0
+|-
+|[[2014–15 Saudi Professional League|2014–15]]
+|8||0||3||0||2||0||4||0||colspan=2|—||17||0
+|-
+|[[2015–16 Saudi Professional League|2015–16]]
+|22||0||0||0||4||0||colspan=2|—||colspan=2|—||26||0
+|-
+|[[2016–17 Saudi Professional League|2016–17]]
+|1||0||0||0||2||0||colspan=2|—||colspan=2|—||3||0
+|-
+!Total
+!31!!0!!3!!0!!8!!0!!5!!0!!0!!0!!47!!0
+|-
+|rowspan=6|[[Al-Ahli Saudi FC|Al-Ahli]]
+|[[2017–18 Al-Ahli Saudi FC season|2017–18]]
+|24||0||1||0||colspan=2|—||4||0||colspan=2|—||29||0
+|-
+|[[2018–19 Al-Ahli Saudi FC season|2018–19]]
+|26||0||0||0||colspan=2|—||8||0||7{{efn|name=AC|Appearances in [[Arab Club Champions Cup]]}}||0||41||0
+|-
+|[[2019–20 Al-Ahli Saudi FC season|2019–20]]
+|13||0||1||0||colspan=2|—||5||0||colspan=2|—||19||0
+|-
+|[[2020–21 Al-Ahli Saudi FC season|2020–21]]
+|20||0||1||0||colspan=2|—||6||0||colspan=2|—||27||0
+|-
+|[[2021–22 Al-Ahli Saudi FC season|2021–22]]
+|9||0||0||0||colspan=2|—||colspan=2|—||colspan=2|—||9||0
+|-
+!Total
+!92!!0!!3!!0!!0!!0!!23!!0!!7!!0!!125!!0
+|-
+|rowspan=5|[[Al Hilal SFC|Al Hilal]]
+|[[2021–22 Al Hilal SFC season|2021–22]]
+|1||0||0||0||colspan=2|—||1||0||1{{efn|name=CWC|Appearances in [[FIFA Club World Cup]]}}||0||3||0
+|-
+|[[2022–23 Al Hilal SFC season|2022–23]]
+|5||0||0||0||colspan=2|—||0||0||0||0||5||0
+|-
+|[[2023–24 Al Hilal SFC season|2023–24]]
+|2||0||0||0||colspan=2|—||7||0||1{{efn|name=AC}}||0||10||0
+|-
+|[[2024–25 Al Hilal SFC season|2024–25]]
+|1||0||1||0||colspan=2|—||1||0||0||0||3||0
+|-
+!Total
+!9!!0!!1!!0!!0!!0!!9!!0!!2!!0!!21!!0
+|-
+!colspan=2|Career total
+!132!!0!!7!!0!!8!!0!!37!!0!!9!!0!!193!!0
+|}
+
+{{notelist}}
+
+===International===
+:''Statistics accurate as of match played 31 May 2026.''<ref>{{NFT player|id=54383}}</ref>
+
+{| class="wikitable" style="text-align:center"
+! colspan=3|[[Saudi Arabia national football team|Saudi Arabia]]
+|-
+!Year!!Apps!!Goals
+|-
+|2015||2||0
+|-
+|2016||1||0
+|-
+|2017||2||0
+|-
+|2018||9||0
+|-
+|2019||7||0
+|-
+|2021||9||0
+|-
+|2022||15||0
+|-
+|2023||7||0
+|-
+|2024||9||0
+|-
+|2026||2||0
+|-
+!Total||63||0
+|}
+
+==Honours==
+'''Al-Shabab'''
+* [[Kings Cup (Saudi Arabia)|King Cup]]: [[2014 King Cup of Champions|2014]]
+* [[Saudi Super Cup]]: [[2014 Saudi Super Cup|2014]]
+
+'''Al-Hilal'''
+* [[Saudi Professional League]]: [[2021–22 Saudi Professional League|2021–22]], [[2023–24 Saudi Pro League|2023–24]]
+* [[King Cup]]: [[2022–23 King Cup|2022–23]], [[2023–24 King Cup|2023–24]]
+* [[Saudi Super Cup]]: [[2023 Saudi Super Cup|2023]],<ref>{{cite news |date=11 April 2024 |title=Al Hilal thrash Al Ittihad to win Saudi Super Cup |url=https://www.espn.com/soccer/story/_/id/39924782/al-hilal-thrash-al-ittihad-win-saudi-super-cup |access-date=11 April 2024 |publisher=ESPN}}</ref> [[2024 Saudi Super Cup|2024]]<ref>{{cite news |date=17 August 2024 |title=Cristiano Ronaldo, Al Nassr routed by Al Hilal in Saudi Super Cup final |url=https://www.espn.com/soccer/story/_/id/40895601/cristiano-ronaldo-al-nassr-al-hilal-saudi-super-cup-final |access-date=17 August 2024 |publisher=ESPN}}</ref>
+
+'''Individual'''
+* Saudi Professional League Goalkeeper of the Season: [[2017–18 Saudi Pro League|2017–18]]<ref>{{cite web|url=https://twitter.com/saudiFF/status/988483086148128773|title=بحضور رئيس الاتحاد السعودي ونجوم المنتخب السابقين|publisher=saff|access-date=23 April 2018}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{soccerway|mohammed-al-owais/279673}}
+
+{{Al-Ula FC squad}}
+{{Navboxes
+|title=Saudi Arabia squads
+|bg=#006C35
+|fg=#FFFFFF
+|bordercolor=#005429
+|list1=
+{{Saudi Arabia squad 2018 FIFA World Cup}}
+{{Saudi Arabia squad 2019 AFC Asian Cup}}
+{{Saudi Arabia squad 2022 FIFA World Cup}}
+{{Saudi Arabia squad 2026 FIFA World Cup}}
+}}
+{{Authority control}}
+
+{{DEFAULTSORT:Owais, Mohammed}}
+[[Category:Living people]]
+[[Category:1991 births]]
+[[Category:Men's association football goalkeepers]]
+[[Category:Saudi Arabian men's footballers]]
+[[Category:21st-century Saudi Arabian sportsmen]]
+[[Category:Al Shabab Club players]]
+[[Category:Al-Ahli Saudi FC players]]
+[[Category:Al Hilal SFC players]]
+[[Category:Al-Ula FC players]]
+[[Category:Saudi Pro League players]]
+[[Category:Saudi First Division League players]]
+[[Category:Footballers from Al-Hasa]]
+[[Category:2018 FIFA World Cup players]]
+[[Category:2019 AFC Asian Cup players]]
+[[Category:Saudi Arabia men's youth international footballers]]
+[[Category:Saudi Arabia men's international footballers]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:AFC Champions League Elite–winning players]]
+[[Category:2026 FIFA World Cup players]]

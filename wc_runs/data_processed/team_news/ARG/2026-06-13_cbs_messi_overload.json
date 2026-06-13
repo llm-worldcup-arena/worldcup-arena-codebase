@@ -1,0 +1,16 @@
+{
+ "team": "ARG",
+ "source": "CBS Sports",
+ "url": "https://www.cbssports.com/soccer/news/lionel-messi-injury-argentina-world-cup-2026-inter-miami/",
+ "title": "Lionel Messi injury: Argentina star suffers 'muscular overload' - CBS Sports",
+ "news_date": "2026-06-13",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-13",
+ "fetched": "2026-06-13_0637",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Lionel Messi injury: Argentina star suffers 'muscular overload'\nLionel Messi injury: Argentina superstar suffers 'muscular overload' to hamstring as 2026 FIFA World Cup looms\nHe exited Inter Miami’s high-scoring thriller with the Philadelphia Union with an injury, sparking concern ahead of the upcoming World Cup in June\nBy\nMay 26, 2026 at 8:48 am ET • 1 min read\nGetty Images\nAs Major League Soccer begins to take a break for the World Cup, there's a spot of concern for Inter Miami, and by extension, the Argentina national team, as Lionel Messi left the Herons' 6-4 victory against the Philadelphia Union in the 73rd minute on Sunday. He appeared to grab at his hamstring before interim manager Guillermo Hoyos withdrew the Argentine number 10 for Mateo Silvetti. When Messi was taken out, he went straight down the tunnel to be examined.\nIn an update from the club, it has been classed as an overload associated with muscle fatigue via a statement.\n\"After undergoing further medical tests this Monday, the initial diagnosis indicates an overload associated with muscle fatigue in his left hamstring. The timeline for his return to physical activity will depend on his clinical and functional progress.\"\nMessi has missed time due to muscular overloads in the past, but as long as they have been managed, they haven't ended up being critical issues for the Argentine, which is the hope here.\nAlready registering two assists during a match that saw a league-record eight goals scored in a half, the 38-year-old continues to show what he can bring to a game ahead of an attempt to win back-to-back World Cups with his nation. Argentina won't play their first game of the World Cup until June 16 against Algeria, so there is time to recover if Messi is hurt, without him needing to miss group stage games. Their other group stage games see La Albiceleste face Austria on June 22 before closing out the group stage facing Jordan on June 27.\nBefore the group stage kicks off, Argentina will also face Honduras on June 6 and Iceland on June 9, as Lionel Scaloni will have tune-up friendlies to get ready for the World Cup, where he'll be able to determine where Messi's fitness is ahead of time. With MLS going on a break for the tournament, Messi will enter the World Cup having scored 12 goals and assisted eight more in only 13 appearances.\nMessi missing time for Argentina wouldn't be anything new, despite it not happening all that much. He has been rested at times by Scaloni and came out of the 2024 Copa America final with an injury. Argentina went on to beat Colombia 1-0 thanks to an extra time goal from Lautaro Martinez, with Messi winning that competition for the second time.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

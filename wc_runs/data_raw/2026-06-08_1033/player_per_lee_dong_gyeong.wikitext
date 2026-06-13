@@ -1,0 +1,271 @@
+{{short description|South Korean footballer}}
+{{family name hatnote|Lee||lang=Korean}}
+{{Use dmy dates|date=February 2022}}
+{{Infobox football biography
+| name = Lee Dong-gyeong
+| image = 250303 FC 서울 vs 김천 (이동경).jpg
+| caption = Lee in 2025
+| birth_date = {{birth date and age|1997|09|20|df=yes}}
+| birth_place = [[Daegu]], South Korea
+| height = 1.76 m<ref>{{cite web |url=https://schalke04.de/en/teams/profis/person/lee-dong-gyeong/ |title=Lee Dong-gyeong |publisher=FC Schalke 04 |access-date=31 August 2022 |archive-url=https://web.archive.org/web/20220831143957/https://schalke04.de/en/teams/profis/person/lee-dong-gyeong/ |archive-date=31 August 2022}}</ref>
+| position = [[Attacking midfielder]]
+| currentclub = [[Ulsan HD FC|Ulsan HD]]
+| clubnumber = 10
+| youthyears1 = 2010–2015
+| youthclubs1 = [[Ulsan HD FC|Ulsan Hyundai]]{{refn|group=note|Played for {{ill|Hyundai Middle School|ko|현대중학교 축구부}} from 2010 to 2012, and {{ill|Ulsan Hyundai High School|lt=Hyundai High School|ko|현대고등학교 축구부}} from 2013 to 2015.}}
+| collegeyears1 = 2016–2018
+| college1 = [[Hongik University]]
+| years1 = 2018–
+| clubs1 = [[Ulsan HD FC|Ulsan HD]]
+| caps1 = 105
+| goals1 = 25
+| years2 = 2018
+| clubs2 = → [[FC Anyang]] (loan)
+| caps2 = 10
+| goals2 = 0
+| years3 = 2022
+| clubs3 = → [[FC Schalke 04|Schalke 04]] (loan)
+| caps3 = 1
+| goals3 = 0
+| years4 = 2022–2023
+| clubs4 = → [[FC Hansa Rostock|Hansa Rostock]] (loan)
+| caps4 = 12
+| goals4 = 0
+| years5 = 2024–2025
+| clubs5 = → [[Gimcheon Sangmu FC|Gimcheon Sangmu]] ([[Conscription in South Korea|draft]])
+| caps5 = 52
+| goals5 = 18
+| nationalyears1 = 2018–2021
+| nationalteam1 = [[South Korea national under-23 football team|South Korea U23]]
+| nationalcaps1 = 18
+| nationalgoals1 = 12
+| nationalyears2 = 2019–
+| nationalteam2 = [[South Korea national football team|South Korea]]
+| nationalcaps2 = 18
+| nationalgoals2 = 4
+| club-update = 17 May 2026
+| nationalteam-update = 3 June 2026
+| medaltemplates = {{MedalCountry | {{KOR}} }}
+{{MedalSport | Men's [[Association football|football]] }}
+{{MedalCompetition | [[AFC U-23 Championship]] }}
+{{MedalW | [[2020 AFC U-23 Championship|2020 Thailand]] |}}
+{{MedalCompetition | [[EAFF E-1 Football Championship|EAFF Championship]] }}
+{{MedalRU | [[2025 EAFF E-1 Football Championship|2025 South Korea]] |}}
+}}
+{{Infobox Korean name/auto|hangul=%이동경|hanja=李東炅}}
+
+'''Lee Dong-gyeong''' ({{Ko-hhrm|이동경}}; born 20 September 1997) is a South Korean professional [[association football|footballer]] who plays as an [[attacking midfielder]] for [[Ulsan HD FC|Ulsan HD]] and the [[South Korea national football team|South Korea national team]].<ref>{{cite web |title=S. Korea football coach Bento sees versatility as strength for nat'l team |url=https://en.yna.co.kr/view/AEN20190826004800315 |publisher=[[Yonhap News Agency]] |date=26 August 2019 |access-date=26 August 2019 |archive-date=26 August 2019 |archive-url=https://web.archive.org/web/20190826114034/https://en.yna.co.kr/view/AEN20190826004800315 |url-status=live }}</ref>
+
+==Club career==
+===Ulsan HD===
+Prior to the 2018 season, Lee dropped out of [[Hongik University]] and joined [[K League 1]] club Ulsan Hyundai (renamed [[Ulsan HD FC|Ulsan HD]] in 2024). On 29 July 2018, he made his professional debut in a 1–1 draw with [[Jeju SK FC|Jeju United]].<ref>{{cite web |url=https://www.soccerway.com/match/jeju-sk-vFZJewv4/ulsan-hyundai-EVEwgyOM/summary/lineups/?mid=lQdbMc6j |title=
+JEJ 1-1 ULS {{!}} Jeju SK v Ulsan HD live scores & match info |publisher=Soccerway |date=2018-07-29 |access-date=2025-12-21}}</ref> After making his first appearance at Ulsan, he was loaned to [[K League 2]] club [[FC Anyang]] for the second half of the season.<ref>{{cite news |url=https://www.kleague.com/news_view.do?seq=3087&orderBy=seq&viewOption=album&page=1 |script-title=ko:[안양] FC안양, 울산에서 MF 이동경 임대 영입 |language=ko |publisher=K League |date=2018-07-31 |access-date=2025-12-21}}</ref>
+
+During the [[2019 K League 1|2019 season]], he found his spot at Ulsan, playing 25 K League 1 matches.<ref name="kleague"/> On 18 May 2019, Lee scored his first professional goal in a 3–1 win over [[Suwon Samsung Bluewings]].<ref>{{cite news |url=https://www.yna.co.kr/view/AKR20190518047500007 |script-title=ko:'이동경·김수안 골맛' 울산, 수원 꺾고 선두 질주 |language=ko |publisher=Yonhap News Agency |date=2019-05-18 |access-date=2025-12-21}}</ref>
+
+Before the start of the 2020 season, he considered moving to [[Major League Soccer]] club [[Vancouver Whitecaps FC]],<ref>{{cite news |url=https://www.mlssoccer.com/news/report-vancouver-whitecaps-chasing-south-korea-international-lee-dong-gyeong |title=Report: Vancouver Whitecaps chasing South Korea international Lee Dong-gyeong |publisher=Major League Soccer |date=2020-02-18 |access-date=2025-12-21}}</ref> but decided to stay at Ulsan to prepare for the [[Football at the 2020 Summer Olympics – Men's tournament|2020 Summer Olympics]] held in [[Japan]].<ref>{{cite news |url=https://sports.khan.co.kr/article/202003130930023 |script-title=ko:이동경이 밴쿠버 대신 잔류한 이유 "울산이 더 유럽에 가깝더라" |language=ko |publisher=Kyunghyang |date=2020-03-13 |access-date=2025-12-21}}</ref> However, manager [[Kim Do-hoon]] did not use him as a main player, and so he tried to negotiate with [[Primeira Liga]] club [[Boavista F.C.|Boavista]] in September.<ref>{{cite news |url=https://www.ojogo.pt/futebol/artigo/ulsan-hyundai-confirma-negociacoes-com-o-boavista-por-medio-sul-coreano/12768052 |title=Ulsan Hyundai confirma negociações com o Boavista por médio sul-coreano |language=pt |publisher=O Jogo |date=2020-09-28 |access-date=2025-12-21}}</ref> He already said goodbye to his teammates,<ref>{{cite news |url=https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/goal-live-%EB%AA%85%EB%8B%A8%EC%A0%9C%EC%99%B8-%EB%90%98%EC%97%88%EB%8D%98-%EC%9D%B4%EB%8F%99%EA%B2%BD-%EA%B9%80%EB%8F%84%ED%9B%88-%EC%9C%A0%EB%9F%BD-%EA%B0%84%EB%8B%A4-%EB%A7%88%EC%A7%80%EB%A7%89-%EC%A0%88%EC%B0%A8-%ED%95%84%EC%9A%94/tqcjtl9k2ikn1ozgrz4xgs2f6 |script-title=ko:[GOAL LIVE] 명단제외 되었던 이동경... 김도훈 "유럽 간다. 마지막 절차 필요" |language=ko |publisher=Goal |date=2020-10-02 |access-date=2025-12-21}}</ref> but the transfer was not realised due to a conflict about his agent's commission.<ref>{{cite news |url=https://m.sports.naver.com/kfootball/article/109/0004284362 |script-title=ko:이동경, 포르투갈 보아비스타 진출 무산... 울산 복귀 [단독] |language=ko |publisher=Osen |website=Naver |date=2020-10-05 |access-date=2025-12-21}}</ref><ref>{{cite news |url=https://sports.donga.com/sports/article/all/20201012/103374217/1 |script-title=ko:자존심 지킨 형님, '벤투호'가 더 강했다…'김학범호' 월반 이동경의 비수 |language=ko |publisher=Sports Donga |date=2020-10-13 |access-date=2025-12-21}}</ref> He was able to regain his spot after manager Kim left the club the next year.<ref name="kleague"/>
+
+====Loan to Schalke 04====
+On 31 January 2022, Lee joined [[2. Bundesliga]] club [[FC Schalke 04|Schalke 04]] on loan until the end of the season, with an option to buy.<ref>{{cite press release |publisher=[[FC Schalke 04]] |url=https://schalke04.de/en/team/dong-gyeong-lee-join-fc-schalke-04-loan/ |title=Dong-gyeong Lee to join FC Schalke 04 on loan |date=31 January 2022 |access-date=7 February 2022 |archive-date=31 January 2022 |archive-url=https://web.archive.org/web/20220131231932/https://schalke04.de/en/team/dong-gyeong-lee-join-fc-schalke-04-loan/ |url-status=live}}</ref> On 13 February, he made his Schalke debut as a 60th-minute substitute in a 2–1 defeat to [[Fortuna Düsseldorf]].<ref>{{cite web |url=https://www.espn.co.uk/football/commentary/_/gameId/608960 |title=F Düsseldorf 2-1 Schalke (13 Feb, 2022) Final Score |publisher=ESPN |access-date=2025-12-21}}</ref> After his first match, he injured his [[metatarsal bones]], not being able to play any more matches for the club.<ref name="bild">{{cite news |url=https://www.bild.de/sport/fussball/hansa-rostock/hansa-rostocks-koreaner-darum-kommt-lee-nicht-in-fahrt-82668114.bild.html |title=Darum kommt Lee nicht in Fahrt |language=de |publisher=Bild |date=2023-01-24 |access-date=2025-12-21}}</ref> Schalke extended the loan deal until the end of 2022 in the summer,<ref>{{cite press release |publisher=[[FC Schalke 04]] |url=https://schalke04.de/en/team/fc-schalke-04-renew-dong-gyeong-lee-loan/ |title=FC Schalke 04 renew Dong-gyeong Lee loan |date=10 June 2022 |access-date=13 June 2022 |archive-date=10 June 2022 |archive-url=https://web.archive.org/web/20220610115414/https://schalke04.de/en/team/fc-schalke-04-renew-dong-gyeong-lee-loan/ |url-status=live}}</ref> but excluded him from their matches at the beginning of the next season despite his recovery.
+
+====Loan to Hansa Rostock====
+On 1 September, Lee was loaned to 2. Bundesliga club [[FC Hansa Rostock|Hansa Rostock]] after terminating the contract with Schalke early.<ref>{{cite news |url=https://schalke04.de/en/team/dong-gyeong-lee-leaves-fc-schalke-04/ |title=Dong-gyeong Lee leaves FC Schalke 04 |publisher=FC Schalke 04 |date=1 September 2022 |access-date=5 September 2022 |archive-date=1 September 2022 |archive-url=https://web.archive.org/web/20220901165715/https://schalke04.de/en/team/dong-gyeong-lee-leaves-fc-schalke-04/ |url-status=live}}</ref> During the [[2022–23 2. Bundesliga|2022–23 season]], he usually played as a substitute for Rostock, making 12 appearances including two starts at the 2. Bundesliga.<ref name="wf"/> In the middle of the season, manager [[Patrick Glöckner]] pointed out Lee's physical weakness, and demanded to increase workrate and intensity of tussles from him.<ref name="bild"/>
+
+====Enlistment in Gimcheon Sangmu====
+In June 2024, Lee enlisted in [[Gimcheon Sangmu FC|Gimcheon Sangmu]], the military football club of the K League 1, after [[military recruit training]] for four weeks. He had seven goals and five assists in eight league matches during March and April before enlistment, but lost momentum due to the four-week training. Despite this, he reached double-digit goals in a season for the first time.<ref name="kleague"/>
+
+In the [[2025 K League 1|2025 season]], Lee had 13 goals and 11 assists in 34 matches,<ref name="kleague"/> while leading Gimcheon to finish third at the K League 1. He received the [[K League Most Valuable Player Award]] at the end of the season.<ref name="mvp"/>
+
+==Career statistics==
+===Club===
+{{updated| 17 May 2026 |<ref name="kleague">{{K League player}}</ref><ref name="wf">{{worldfootball.net|dong-gyeong-lee|new_id=pe532002}}</ref><ref name="soccerway">{{soccerway| 539794 |archive=20230723173431}}</ref>}}
+
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|Cup
+!colspan="2"|Continental
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="9"|[[Ulsan HD FC|Ulsan HD]]
+|[[2018 K League 1|2018]]||[[K League 1]]
+|1||0||0||0||0||0||1||0
+|-
+|[[2019 K League 1|2019]]||K League 1
+|25||3||0||0||3{{efn|name=ACLE|Appearances in [[AFC Champions League Elite]]}}||1||28||4
+|-
+|[[2020 K League 1|2020]]||K League 1
+|18||2||5||1||1{{efn|name=ACLE}}||0||24||3
+|-
+|[[2021 K League 1|2021]]||K League 1
+|28||6||2||0||3{{efn|name=ACLE}}||1||33||7
+|-
+|[[2023 K League 1|2023]]||K League 1
+|9||2||0||0||4{{efn|name=ACLE}}||0||13||2
+|-
+|[[2024 K League 1|2024]]||K League 1
+|8||7||0||0||6{{efn|name=ACLE}}||1||14||8
+|-
+|[[2025 K League 1|2025]]||K League 1
+|2||0||0||0||2{{efn|name=ACLE}}||0||4||0
+|-
+|[[2026 K League 1|2026]]||K League 1
+|14||5||0||0||2{{efn|name=ACLE}}||0||16||5
+|-
+!colspan="2"|Total
+!105||25||7||1||21||3||133||29
+|-
+|[[FC Anyang]] (loan)
+|[[2018 K League 2|2018]]||[[K League 2]]
+|10||0||0||0||colspan=2|—||10||0
+|-
+|[[FC Schalke 04|Schalke 04]] (loan)
+|[[2021–22 FC Schalke 04 season|2021–22]]||[[2. Bundesliga]]
+|1||0||colspan=2|—||colspan=2|—||1||0
+|-
+|[[FC Hansa Rostock|Hansa Rostock]] (loan)
+|[[2022–23 FC Hansa Rostock season|2022–23]]||2. Bundesliga
+|12||0||0||0||colspan=2|—||12||0
+|-
+|rowspan="3"|[[Gimcheon Sangmu FC|Gimcheon Sangmu]] ([[Conscription in South Korea|draft]])
+|[[2024 K League 1|2024]]||K League 1
+|18||5||1||0||colspan=2|—||19||5
+|-
+||[[2025 K League 1|2025]]||K League 1
+|34||13||0||0||colspan=2|—||34||13
+|-
+!colspan="2"|Total
+!52||18||1||0||colspan=2|—||53||18
+|-
+!colspan="3"|Total
+!180!!43!!8!!1!!21!!3!!209!!47
+|}
+{{notelist}}
+
+===International===
+{{updated|match played on 3 June 2026}}<ref name="NFT">{{cite web |url=https://www.national-football-teams.com/player/75310/Dong_Gyeong_Lee.html |title=Dong-Gyeong Lee |publisher=National Football Teams |access-date=31 January 2022 |archive-date=31 January 2022 |archive-url=https://web.archive.org/web/20220131095358/https://www.national-football-teams.com/player/75310/Dong_Gyeong_Lee.html |url-status=live}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+| rowspan="7" |[[South Korea national football team|South Korea]]
+|2019||2||0
+|-
+|2021||4||1
+|-
+|2022||1||0
+|-
+|2023||1||0
+|-
+|2024||1||0
+|-
+|2025||7||2
+|-
+|2026||2||1
+|-
+! colspan="2" |Total!!18!!4
+|}
+
+:''Scores and results list South Korea's goal tally first, score column indicates score after each Lee goal.''
+
+{| class="wikitable sortable"
+|+ List of international goals scored by Lee Dong-gyeong
+|-
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+|-
+| align="center"|1 || 9 June 2021 ||[[Goyang Stadium]], [[Goyang]], South Korea || {{fb|SRI}} || align="center"|2–0 || align="center"|5–0 || [[2022 FIFA World Cup qualification – AFC second round|2022 FIFA World Cup qualification]]
+|-
+| align="center"|2 || 7 July 2025 ||[[Yongin Mireu Stadium]], [[Yongin]], South Korea || {{fb|CHN}} || align="center"|1–0 || align="center"|3–0 || [[2025 EAFF E-1 Football Championship|2025 EAFF Championship]]
+|-
+| align="center"|3 || 6 September 2025 ||[[Sports Illustrated Stadium]], [[Harrison, New Jersey|Harrison]], United States || {{fb|USA}} || align="center"|2–0 || align="center"|2–0 || [[Exhibition game|Friendly]]
+|-
+| align="center"|4 || 3 June 2026 ||[[South Field (Provo)|South Field]], [[Provo, Utah|Provo]], United States || {{fb|SLV}} || align="center"|1–0 || align="center"|1–0 || Friendly
+|}
+
+==Honours==
+'''Ulsan Hyundai'''
+*[[K League 1]]: [[2023 K League 1|2023]]
+*[[AFC Champions League]]: [[2020 AFC Champions League|2020]]<ref name="soccerway"/>
+
+'''Schalke 04'''
+*[[2. Bundesliga]]: [[2021–22 2. Bundesliga|2021–22]]<ref name="soccerway"/>
+
+'''South Korea U23'''
+*[[AFC U-23 Championship]]: [[2020 AFC U-23 Championship|2020]]<ref name="soccerway"/>
+
+'''South Korea'''
+*[[EAFF E-1 Football Championship|EAFF Championship]] runner-up: [[2025 EAFF E-1 Football Championship|2025]]
+
+'''Individual'''
+*[[K League]] Goal of the Month: July 2020<ref>{{cite news |url=https://www.chosun.com/site/data/html_dir/2020/08/31/2020083102334.html |script-title=ko:이동경, 7월 게토레이 'G MOMENT AWARD' 수상 |publisher=Osen |website=The Chosun Ilbo |date=2020-08-31 |access-date=2025-12-22}}</ref>
+*[[K League]] Player of the Month: October 2021, March 2024, April 2024<ref>{{cite news |url=https://www.football-asian.com/news/articleView.html?idxno=576 |script-title=ko:이동경(울산), EA 후원 ’이달의 선수상‘ 수상.. 울산 올 시즌 첫 수상 |language=ko |publisher=Football Asian |date=2021-11-08 |access-date=2025-12-22}}</ref><ref>{{cite news |url=https://www.yna.co.kr/view/AKR20240516042200007 |script-title=ko:'이병' 이동경 2회 연속 K리그 이달의선수 수상…역대 두번째 |language=ko |publisher=Yonhap News Agency |date=2024-05-16 |access-date=2025-12-22}}</ref>
+*[[K League All-Star Game|K League All-Star]]: 2024, 2025<ref>{{cite news |url=https://www.kleague.com/news_view.do?seq=90697&orderBy=seq&viewOption=album&page=6 |script-title=ko:팀 K리그 22명 선수단 확정.. 린가드, 기성용 부상으로 정호연, 오베르단 대체 선발 |language=ko |publisher=K League |date=2024-07-23 |access-date=2024-07-31}}</ref><ref>{{cite web |url=https://int.soccerway.com/matches/2025/07/30/world/hybrid-friendlies/k-league-xi/newcastle/I1915494/lineups/ |title=K-League XI v Newcastle lineups & squad list |publisher=Soccerway |date=2025-07-30 |access-date=2025-07-31}}</ref>
+*[[K League Best XI|K League 1 Best XI]]: [[2024 K League 1|2024]], [[2025 K League 1|2025]]<ref>{{cite web |url=https://m.sports.naver.com/kfootball/article/468/0001112101 |script-title=ko:조현우가 울먹였다! 16년만 골키퍼 MVP…감독상·영플은 ‘강원 동화 주역’ 윤정환·양민혁 품으로 [K리그 대상 종합] |language=ko |website=Naver |publisher=Sports Seoul |date=2024-11-29 |access-date=2024-11-29}}</ref><ref name="mvp"/>
+*[[K League Most Valuable Player Award|K League 1 Most Valuable Player]]: [[2025 K League 1|2025]]<ref name="mvp">{{cite web |url=https://m.sports.naver.com/kfootball/article/450/0000147282 |script-title=ko:[K리그 시상식] 울산 이동경, K리그 최고의 별로 우뚝…감독상은 전북 포옛 (종합) |language=ko |website=Naver |publisher=STN Sports |date=2025-12-01 |access-date=2025-12-01}}</ref>
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://www.kfa.or.kr/archive/player_record.php?search_val=%EC%9D%B4%EB%8F%99%EA%B2%BD Lee Dong-gyeong] at [[Korea Football Association|KFA]] {{in lang|ko}}
+* {{soccerway| 539794 |archive=20230723173431}}
+
+{{Ulsan HD FC squad}}
+{{Navboxes
+|title= South Korea squads
+|bg= #C21E2B
+|fg= white
+|bordercolor= #0047A0
+|list1=
+{{South Korea men's football squad 2020 Summer Olympics}}
+{{South Korea squad 2026 FIFA World Cup}}
+}}
+{{Navboxes
+| title = Awards
+| bg = gold
+| fg = navy
+| list1 =
+{{2024 K League 1 Best XI}}
+{{2025 K League 1 Best XI}}
+{{K League 1 Most Valuable Player}}
+}}
+
+{{DEFAULTSORT:Lee, Dong-gyeong}}
+[[Category:1997 births]]
+[[Category:Living people]]
+[[Category:Footballers from Daegu]]
+[[Category:South Korean men's footballers]]
+[[Category:Men's association football midfielders]]
+[[Category:South Korea men's international footballers]]
+[[Category:South Korea men's under-23 international footballers]]
+[[Category:Ulsan HD FC players]]
+[[Category:FC Anyang players]]
+[[Category:FC Schalke 04 players]]
+[[Category:FC Hansa Rostock players]]
+[[Category:Gimcheon Sangmu FC players]]
+[[Category:K League 1 players]]
+[[Category:K League 2 players]]
+[[Category:2. Bundesliga players]]
+[[Category:Footballers at the 2020 Summer Olympics]]
+[[Category:Olympic footballers for South Korea]]
+[[Category:South Korean expatriate men's footballers]]
+[[Category:Expatriate men's footballers in Germany]]
+[[Category:South Korean expatriate sportspeople in Germany]]
+[[Category:21st-century South Korean sportsmen]]
+[[Category:2026 FIFA World Cup players]]

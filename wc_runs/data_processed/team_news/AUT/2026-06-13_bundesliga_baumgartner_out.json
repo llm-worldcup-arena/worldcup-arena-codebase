@@ -1,0 +1,16 @@
+{
+ "team": "AUT",
+ "source": "Bundesliga.com",
+ "url": "https://www.bundesliga.com/en/bundesliga/news/rb-leipzig-christoph-baumgartner-ruled-out-of-world-cup-austria-37670",
+ "title": "RB Leipzig’s Christoph Baumgartner ruled out of World Cup",
+ "news_date": "2026-06-13",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "asof": "2026-06-13",
+ "fetched": "2026-06-13_0637",
+ "method": "jsonld:articleBody",
+ "status": "ok",
+ "original_text": "Baumgartner’s diagnosis was confirmed following an MRI scan on Tuesday morning.\n“This is of course very bitter news for Christoph and for us as a team,” explained Austria head coach Ralf Rangnick. “He’s an important player and a key figure within our squad. Now we’re giving him our full support in his recovery.”\n\nBaumgartner finished 2025/26 as Leipzig’s top scorer, returning 13 goals and providing eight assists in 33 Bundesliga outings to help Ole Werner’s charges secure a place in next season’s UEFA Champions League.\nAustria’s World Cup campaign gets under way against Jordan on 17 June, before games against holders Argentina (22 June) and Algeria (28 June).",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

@@ -1,0 +1,16 @@
+{
+ "team": "GHA",
+ "source": "France24/AFP",
+ "url": "https://www.france24.com/en/live-news/20260612-ghana-world-cup-player-partey-facing-rape-trial-in-uk-denied-canada-visa-fifa",
+ "title": "Partey refused entry to Canada for Ghana's World Cup opener",
+ "news_date": "2026-06-13",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "asof": "2026-06-13",
+ "fetched": "2026-06-13_0637",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "The Villarreal midfielder, who previously played for Arsenal, has pleaded not guilty to seven charges of rape and one count of sexual assault relating to allegations by four different women between 2020 and 2022.\nA trial has been set for next year, allowing the 32-year-old to represent Ghana at the World Cup, but he will not be involved in Wednesday's match in Toronto.\n\"FIFA can confirm that player Thomas Partey will be unable to travel from Ghana's team base camp in Boston, USA, to Canada for their first match against Panama on Wednesday, 17 June, as his visa application has been refused by the Canadian government,\" world football's governing body said.\nFIFA said it was \"not involved in the immigration processes of host countries, including the adjudication of visas\".\n\"As with previous FIFA events, the host government ultimately determines who receives a visa and is admitted into the country,\" it added.\nCanadian immigration chiefs said it was not possible to provide details on individual cases, adding that the safety of citizens was its priority.\n\"That is why IRCC (Immigration, Refugees and Citizenship, Canada) applies its rules consistently and without exception, regardless of nationality, profile, or role in the tournament,\" said a statement from the IRCC.\n\"IRCC officers are trained decision-makers who assess an individual's eligibility and admissibility in accordance with Canadian immigration laws.\n\"If they believe that an individual could pose a security risk, they may decide to deny them entry.\"\nIt is understood that Partey will be eligible to play in Ghana's subsequent Group L games against England and Croatia, which will both take place in the United States.\nPartey joined Arsenal from Atletico Madrid in 2020 for £45 million ($60 million).\nHe left the London club in June 2025 after making 167 appearances and has won more than 50 caps for Ghana.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

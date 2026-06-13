@@ -1,0 +1,255 @@
+{{short description|Czech footballer}}
+{{Use dmy dates|date=September 2025}}
+{{Infobox football biography
+|name                = Mojmír Chytil
+|image               = 
+|birth_date          = {{Birth date and age|1999|4|29|df=y}}
+|birth_place         = [[Skalka (Prostějov District)|Skalka]], Czech Republic
+|height              = 1.87 m<ref name=wf>{{WorldFootball.net|mojmir-chytil}}</ref>
+|position            = [[Forward (association football)|Forward]]
+|currentclub         = [[SK Slavia Prague|Slavia Prague]]
+|clubnumber          = 13
+|youthyears1         = 2006–2010
+|youthclubs1         = [[1. SK Prostějov]]
+|youthyears2         = 2010–2018
+|youthclubs2         = [[SK Sigma Olomouc|Sigma Olomouc]]
+|years1              = 2018–2023
+|clubs1              = [[SK Sigma Olomouc|Sigma Olomouc]]
+|caps1               = 100
+|goals1              = 20
+|years2              = 2019–2021
+|clubs2              = [[SK Sigma Olomouc|Sigma Olomouc B]]
+|caps2               = 18
+|goals2              = 9
+|years3              = 2021
+|clubs3              = → [[FK Pardubice|Pardubice]] (loan)
+|caps3               = 16
+|goals3              = 5
+|years4              = 2023–
+|clubs4              = [[SK Slavia Prague|Slavia Prague]]
+|caps4               = 91
+|goals4              = 38
+|nationalyears1      = 2015
+|nationalteam1       = [[Czech Republic national under-17 football team|Czech Republic U17]]
+|nationalcaps1       = 2
+|nationalgoals1      = 1
+|nationalyears2      = 2019
+|nationalteam2       = [[Czech Republic national under-20 football team|Czech Republic U20]]
+|nationalcaps2       = 2
+|nationalgoals2      = 0
+|nationalyears3      = 2022–
+|nationalteam3       = [[Czech Republic national football team|Czech Republic]]
+|nationalcaps3       = 22
+|nationalgoals3      = 6
+|pcupdate            = 24 May 2026
+|ntupdate            = 31 May 2026
+}}
+
+'''Mojmír Chytil''' (born 29 April 1999) is a Czech professional [[association football|footballer]] who plays as a [[forward (association football)|forward]] for [[SK Slavia Prague|Slavia Prague]] and the [[Czech Republic national football team|Czech Republic national team]].
+
+==Early life==
+Chytil was born in [[Skalka (Prostějov District)|Skalka]] in the [[Olomouc Region]].<ref>{{Cite web|first=Michal|last=Kvasnica|title=Chytil zaujal reprezentaci i ligu: rozlučka s Olomoucí, smlouva tlačí|trans-title=Chytil impressed the national team and the league: farewell to Olomouc, contract pressing|url=https://isport.blesk.cz/clanek/fotbal-reprezentace/423079/chytil-zaujal-reprezentaci-i-ligu-rozlucka-s-olomouci-smlouva-tlaci.html|website=[[Blesk]]|date=16 November 2022|language=cs}}</ref>
+
+==Club career==
+===Sigma Olomouc===
+Chytil made his professional debut for [[Sigma Olomouc]] in 2018.<ref>{{Cite news|first=Jan|last=Dočkal|title=Chytil je po návratu olomoucký hrot číslo jedna: Pardubice mi hodně pomohly|url=https://www.idnes.cz/fotbal/prvni-liga/olomouc-fotbal-chytil.A220218_152220_fotbal_ald|website=[[Mladá fronta Dnes]]|publisher=[[Mafra (company)|Mafra]]|date=19 February 2022|access-date=17 November 2022|language=cs}}</ref> He was sent on loan to [[FK Pardubice|Pardubice]] during the [[2021–22 Czech First League]], scoring five goals.<ref>{{Cite news|first=Marek|last=Votke|title=Chytil po loučení s Pardubicemi: Nechám si zarámovat dres|url=https://www.idnes.cz/fotbal/prvni-liga/chytil-po-louceni-s-pardubicemi-necham-si-zaramovat-dres.A211220_642501_fotbal_rou|website=Mladá fronta Dnes|publisher=Mafra|date=20 December 2021|access-date=17 November 2022|language=cs}}</ref> This loan caused then-coach of Sigma Olomouc Jiří Krejčí to regret Chytil's departure.<ref>{{Cite news|first=Marek|last=Votke|title=Nechceme žádnou loterii. Sportovní ředitel Pardubic odkrývá přestupové plány|url=https://www.idnes.cz/fotbal/prvni-liga/fk-pardubice-prestupove-obdobi-posily.A221109_691561_fotbal_mama|website=Mladá fronta Dnes|publisher=Mafra|date=9 November 2022|access-date=17 November 2022|language=cs}}</ref> In the [[2022–23 Czech First League]] season, Chytil helped Sigma Olomouc to finish sixth place.<ref>{{Cite news|first=Jan|last=Dočkal|title=Chytilovo půlroční odcházení do Slavie. Vyplatilo se Sigmě?|url=https://www.idnes.cz/fotbal/prvni-liga/mojmir-chytil-odchazeni-sigma-olomouc.A230525_727408_fotbal_ten|website=Mladá fronta Dnes|publisher=Mafra|date=25 May 2023|access-date=23 July 2023|language=cs}}</ref>
+
+===Slavia Prague===
+Chytil signed for [[SK Slavia Prague|Slavia Prague]] at the end of May 2023,<ref>{{Cite news|first=Miloslav|last=Novák|title=Chytil je už slávistou. Chtěl jsem ho pro hru ve vápně a zády k bráně, říká kouč|url=https://www.idnes.cz/fotbal/prvni-liga/mojmir-chytil-slavia-sigma-olomouc-prestup-smlouva-na-ctyri-roky.A230529_131238_fotbal_min|website=Mladá fronta Dnes|publisher=Mafra|date=29 May 2023|access-date=23 July 2023|language=cs}}</ref> signing a contract until June 2027.<ref>{{Cite news|first=David|last=Jahoda|title=Oficiálně potvrzeno. Útočník Mojmír Chytil v Sigmě končí, nově bude oblékat dres pražské Slavie|url=https://olomouc.rozhlas.cz/oficialne-potvrzeno-utocnik-mojmir-chytil-v-sigme-konci-nove-bude-oblekat-dres-9002436|website=ČRo Olomouc|publisher=[[Czech Radio]]|location=Olomouc|date=29 May 2023|access-date=23 July 2023|language=cs}}</ref> He scored on his debut for the club, a 2–0 win against [[FC Hradec Králové|Hradec Králové]], in the first game of the [[2023–24 Czech First League]].<ref>{{Cite news|first=Lukáš|last=Michalík|title=Vyšlo to skvěle.' Chytila po debutu dresu Slavie těšil gól, ale i kamarádi z vesnice. Spokojený byl i kouč|url=https://www.irozhlas.cz/sport/fotbal/mojmir-chytil-premiera-v-dresu-slavie-gol-hradci_2307230745_mim|website=Český rozhlas|publisher=[[Czech Radio]]|date=23 July 2023|access-date=10 May 2025|language=cs}}</ref> A week later, Chytil set up Slavia's second goal, and scored their third, in a 3–1 win against [[SK Dynamo České Budějovice|České Budějovice]].<ref>{{Cite news|first=Pavel|last=Kortus|title=Loni bychom podobný zápas nevyhráli, odhadl Trpišovský. Ocenil Chytila|url=https://www.idnes.cz/fotbal/prvni-liga/trpisovsky-slavia-budejovice-fotbal-prvni-liga-chytil-provod.A230730_171116_budejovice-sport_pkr|website=[[Mladá fronta Dnes]]|publisher=[[Mafra (company)|Mafra]]|date=30 July 2023|access-date=10 May 2025|language=cs}}</ref> Following his strong start to the season, Chytil was named the league's Player of the Month for July 2023, voted for by fans.<ref>{{cite web |title=Chytil byl podle fanoušků nejlepším hráčem uplynulého měsíce, trenérům vládl Frťala |url=https://sport.ceskatelevize.cz/clanek/fotbal/1-liga/chytil-byl-podle-fanousku-nejlepsim-hracem-uplynuleho-mesice-trenerum-vladl-frtala/64ccd946b923c8c51f6b4323 |website=[[Czech Television]] |access-date=10 May 2025 |language=cs |date=4 August 2023}}</ref>
+
+==International career==
+Having represented the Czech Republic at under-17 and under-20 level,<ref name=wf/> Chytil received his first call-up to the [[Czech Republic national football team|Czech Republic senior squad]] in November 2022.<ref>{{Cite web|title=Mojmír Chytil: Z nominace jsem nadšený|trans-title=Mojmír Chytil: I am excited about the call-up|url=https://repre.fotbal.cz/mojmir-chytil-z-nominace-jsem-nadseny/a17357|website=[[Football Association of the Czech Republic]]|date=14 November 2022|access-date=16 November 2022|language=cs}}</ref> He debuted with a [[hat-trick]] in a [[UEFA Euro 2024 qualifying]] against the [[Faroe Islands national football team|Faroe Islands]], ending in a 5–1 victory for the Czechs.<ref>{{Cite news|first=Michal|last=Muzikant|title=Chytil jako Bican: Byl jsem dojatý. Na zápisné si po hattricku asi půjčím|url=https://www.denik.cz/fotbal/chytil-jako-bican-byl-jsem-dojaty-na-zapisne-si-po-hattricku-asi-pujcim-20221116.html|website=[[Deník]]|publisher=Vltave Labe Media|date=16 November 2022|access-date=17 November 2022|language=cs}}</ref>
+
+On 20 June 2023, Chytil scored in a 4–1 friendly victory over [[Montenegro national football team|Montenegro]].<ref>{{Cite news|title=Čeští fotbalisté zvítězili v přípravném utkání v Černé Hoře|url=https://www.ceskenoviny.cz/zpravy/2380211|website=České Noviny|date=20 June 2023|language=cs}}</ref> Later that September, he assisted the decisive goal in a 1-1 friendly draw against [[Hungary national football team|Hungary]].<ref>{{Cite news|title=After a Draw with Czech Republic, National Team Remains Undefeated|url=https://hungarytoday.hu/after-a-draw-with-the-czech-republic-the-national-team-remains-unbeaten/|website=Hungary Today|date=11 September 2023|access-date=23 July 2024}}</ref>
+
+On 29 May 2024, Chytil was included in the final 26-man Czech squad of the [[UEFA Euro 2024]] which would occur in June.<ref>{{Cite news|first1=Ryan|last1=Dabbs|first2=Tom|last2=Hancock|first3=Karel|last3=Herring|title=Czech Republic Euro 2024 squad: Ivan Hašek's full team|url=https://www.fourfourtwo.com/features/czech-republic-euro-2024-squad-team-players-line-up-germany|website=[[FourFourTwo]]|date=26 June 2024|access-date=23 July 2024}}</ref> Prior to the tournament, he played preparatory friendly matches against [[Malta national football team|Malta]] and [[North Macedonia national football team|North Macedonia]], scoring another [[Brace (sports)|brace]] in a thrashing 7–1 victory against the former opponent.<ref>{{Cite news|title=Czechs thump Malta 7–1 in Euro 2024 warm-up|url=https://sportstar.thehindu.com/football/international-football/czech-republic-czech-vs-malta-euro-2024-warm-up-match-result-goals-news-updates/article68264635.ece|website=sportstar.thehindu.com|date=8 June 2024}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 24 May 2026}}<ref>{{Soccerway|mojmir-chytil/427851}}</ref>
+
+{| class="wikitable" style="text-align: center"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|[[Czech Cup]]
+!colspan="2"|Europe
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="6"|[[SK Sigma Olomouc|Sigma Olomouc]]
+|[[2018–19 Czech First League|2018–19]]
+|[[Czech First League]]
+|4||0||0||0||colspan="2"|—||4||0
+|-
+|[[2019–20 Czech First League|2019–20]]
+|Czech First League
+|18||1||3||1||colspan="2"|—||21||2
+|-
+|[[2020–21 Czech First League|2020–21]]
+|Czech First League
+|31||4||3||0||colspan="2"|—||34||4
+|-
+|[[2021–22 Czech First League|2021–22]]
+|Czech First League
+|13||3||1||0||colspan="2"|—||14||3
+|-
+|[[2022–23 Czech First League|2022–23]]
+|Czech First League
+|34||12||3||3||colspan="2"|—||37||15
+|-
+!colspan="2"|Total
+!100!!20!!10!!4!!colspan="2"|—!!110!!24
+|-
+|rowspan="4"|[[SK Sigma Olomouc|Sigma Olomouc B]]
+|[[2019–20 Moravian-Silesian Football League|2019–20]]
+|[[Moravian-Silesian Football League]]
+|14||8||colspan="2"|—||colspan="2"|—||14||8
+|-
+|[[2020–21 Moravian-Silesian Football League|2020–21]]
+|Moravian-Silesian Football League
+|3||0||colspan="2"|—||colspan="2"|—||3||0
+|-
+|[[2021–22 Moravian-Silesian Football League|2021–22]]
+|Moravian-Silesian Football League
+|1||1||colspan="2"|—||colspan="2"|—||1||1
+|-
+!colspan="2"|Total
+!18!!9!!colspan="2"|—!!colspan="2"|—!!18!!9
+|-
+|[[FK Pardubice|Pardubice]] (loan)
+|[[2021–22 Czech First League|2021–22]]
+|Czech First League
+|16||5||2||0||colspan="2"|—||18||5
+|-
+|rowspan="4"|[[SK Slavia Prague|Slavia Prague]]
+|[[2023–24 SK Slavia Prague season|2023–24]]
+|Czech First League
+|34||16||3||1||10{{efn|Appearances in [[UEFA Europa League]]}}||4||47||21
+|-
+|[[2024–25 SK Slavia Prague season|2024–25]]
+|Czech First League
+|29||9||2||2||11{{efn|Three appearances in [[UEFA Champions League]], eight appearances and one goal in UEFA Europa League}}||1||42||12
+|-
+|[[2025–26 SK Slavia Prague season|2025–26]]
+|Czech First League
+|28||13||2||1||6{{efn|name=UCL|Appearances in UEFA Champions League}}||0||36||14
+|-
+!colspan="2"|Total
+!91!!38!!7!!4!!27!!5!!125!!47
+|-
+!colspan="3"|Career total
+!225!!72!!19!!8!!27!!5!!271!!85
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 31 May 2026}}<ref name="EUFoot">{{cite web|url=https://eu-football.info/_player.php?id=32133|title=Mojmír Chytil|website=EU-Football.info|access-date=7 June 2024}}</ref>
+<!-- NOTE: when updating stats, update the infobox too! -->
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="5"|[[Czech Republic national football team|Czech Republic]]
+|2022||2||3
+|-
+|2023||9||1
+|-
+|2024||7||2
+|-
+|2025||1||0
+|-
+|2026||3||0
+|-
+!colspan="2"|Total!!22!!6
+|}
+
+:''Scores and results list the Czech Republic's goal tally first, score column indicates score after each Chytil goal.''<ref name="EUFoot"/>
+
+{| class="wikitable sortable"
+|+ List of international goals scored by Mojmír Chytil
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+|-
+|align="center"|1
+|rowspan="3"|16 November 2022
+|rowspan="3"|[[Andrův stadion]], [[Olomouc]], Czech Republic
+|rowspan="3"|{{fb|FRO}}
+|align="center"|1–0
+|rowspan="3" align="center"|5–0
+|rowspan="3"|[[Exhibition game#Association football|Friendly]]
+|-
+|align="center"|2
+|align="center"|2–0
+|-
+|align="center"|3
+|align="center"|3–0
+|-
+|align="center"|4
+|20 June 2023 
+|[[Podgorica City Stadium|City Stadium]], [[Podgorica]], Montenegro
+|{{fb|MNE}}
+|align=center|1–0
+|align=center|4–1
+|Friendly
+|-
+|align="center"|5
+|rowspan="2"|7 June 2024
+|rowspan="2"|[[Untersberg-Arena]], [[Grödig]], Austria
+|rowspan="2"|{{fb|MLT}}
+|align="center"|2–0
+|rowspan="2" align="center"|7–1
+|rowspan="2"|Friendly
+|-
+|align="center"|6
+|align="center"|4–0
+|}
+
+==Honours==
+'''Slavia Prague'''
+* [[Czech First League]]: [[2024–25 Czech First League|2024–25]],<ref>{{cite web |title=Slavia Crowned Champions of the 2024/25 Chance Liga |url=https://en.slavia.cz/zapas.asp?id=Slavia-Crowned-Champions-of-the-2024-25-Chance-Liga-6266 |publisher=[[SK Slavia Prague|Slavia Prague]] |access-date=15 May 2026 |language=en |date=22 May 2025}}</ref> [[2025–26 Czech First League|2025–26]]<ref>{{cite web |title=Slavia rozdrtila v prázdném Edenu Jablonec a slaví mistrovský titul, Hradec také bral tři body |url=https://www.efotbal.cz/article/fotbal-chance-liga-slavia-rozdrtila-v-prazdnem-edenu-jablonec-a-slavi-mistrovsky-titul-hradec-take-bral-tri-body-176a8463-6c6e-485b-aa6e-2ae1b7aca21e |website=efotbal.cz |access-date=14 May 2026 |language=Czech |date=13 May 2026}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Sports links}}
+*{{Chanceliga.cz|3695-mojmir-chytil}}
+*{{FACR player|new_id=4216}}
+
+{{SK Slavia Prague squad}}
+{{Navboxes
+| title = Czech Republic squads
+| bg = #D7141A
+| fg = white
+| bordercolor = #11457E
+| list1 =
+{{Czech Republic squad UEFA Euro 2024}}
+{{Czech Republic squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Chytil, Mojmír}}
+[[Category:1999 births]]
+[[Category:Living people]]
+[[Category:People from Prostějov District]]
+[[Category:Czech men's footballers]]
+[[Category:Men's association football forwards]]
+[[Category:Czech Republic men's youth international footballers]]
+[[Category:Czech Republic men's international footballers]]
+[[Category:UEFA Euro 2024 players]]
+[[Category:2026 FIFA World Cup players]]
+[[Category:Moravian-Silesian Football League players]]
+[[Category:Czech First League players]]
+[[Category:1. SK Prostějov players]]
+[[Category:SK Sigma Olomouc players]]
+[[Category:FK Pardubice players]]
+[[Category:SK Slavia Prague players]]
+[[Category:21st-century Czech sportsmen]]

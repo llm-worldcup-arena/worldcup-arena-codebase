@@ -1,0 +1,423 @@
+{{short description|Portuguese footballer (born 1996)}}
+{{Portuguese name|Ganchinho|Guedes}}
+{{Use British English|date=June 2025}}
+{{Use dmy dates|date=June 2025}}
+{{Infobox football biography
+|name = Gonçalo Guedes
+|image = Gonçalo Guedes USMNT v Portugal Mar 31 2026-64 (cropped).jpg
+|upright = 
+|caption = Guedes with [[Portugal national football team|Portugal]] in 2026
+|full_name = Gonçalo Manuel Ganchinho Guedes<ref>{{cite web |url=https://tournament.fifadata.com/documents/FWC/2018/pdf/FWC_2018_SQUADLISTS.PDF |title=2018 FIFA World Cup Russia: List of players: Portugal |date=19 June 2018 |publisher=[[FIFA]] |page=23 |access-date=19 June 2018 |archive-url=https://web.archive.org/web/20180619164139/https://tournament.fifadata.com/documents/FWC/2018/pdf/FWC_2018_SQUADLISTS.PDF |archive-date=19 June 2018 |url-status=dead }}</ref>
+|birth_date = {{Birth date and age|1996|11|29|df=y}}<ref name="PremProfile">{{cite web |url=https://www.premierleague.com/players/11130/Gonçalo-Guedes/overview |title=Gonçalo Guedes: Overview |publisher=Premier League |access-date=14 July 2023 }}</ref>
+|birth_place = [[Benavente, Portugal|Benavente]], Portugal
+|height = 1.79 m<ref name="PremProfile"/>
+|position = [[Winger (association football)|Winger]], [[forward (association football)|forward]]
+|currentclub = [[Real Sociedad]]
+|clubnumber = 11
+|youthyears1 = 2005–2014
+|youthclubs1 = [[S.L. Benfica (youth)|Benfica]]
+|years1 = 2014–2016
+|clubs1 = [[S.L. Benfica B|Benfica B]]
+|caps1 = 38
+|goals1 = 11
+|years2 = 2014–2017
+|clubs2 = [[S.L. Benfica|Benfica]]
+|caps2 = 39
+|goals2 = 5
+|years3 = 2017–2018
+|clubs3 = [[Paris Saint-Germain FC|Paris Saint-Germain]]
+|caps3 = 8
+|goals3 = 0
+|years4 = 2017–2018
+|clubs4 = → [[Valencia CF|Valencia]] (loan)<!-- DO NOT REMOVE LOAN PERIOD-->
+|caps4 = 33
+|goals4 = 5
+|years5 = 2018–2022
+|clubs5 = [[Valencia CF|Valencia]]
+|caps5 = 113
+|goals5 = 23
+|years6 = 2022–2025
+|clubs6 = [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|caps6 = 42
+|goals6 = 3
+|years7 = 2023–2024
+|clubs7 = → [[S.L. Benfica|Benfica]] (loan)
+|caps7 = 21
+|goals7 = 1
+|years8 = 2024
+|clubs8 = → [[Villarreal CF|Villarreal]] (loan)
+|caps8 = 17
+|goals8 = 3
+|years9 = 2025–
+|clubs9 = [[Real Sociedad]]
+|caps9 = 32
+|goals9 = 8
+|nationalyears1 = 2011
+|nationalteam1 = [[Portugal national football team|Portugal U15]]
+|nationalcaps1 = 1
+|nationalgoals1 = 0
+|nationalyears2 = 2011–2012
+|nationalteam2 = [[Portugal national under-16 football team|Portugal U16]]
+|nationalcaps2 = 14
+|nationalgoals2 = 1
+|nationalyears3 = 2012–2013
+|nationalteam3 = [[Portugal national under-17 football team|Portugal U17]]
+|nationalcaps3 = 15
+|nationalgoals3 = 2
+|nationalyears4 = 2013–2014
+|nationalteam4 = [[Portugal national under-18 football team|Portugal U18]]
+|nationalcaps4 = 5
+|nationalgoals4 = 3
+|nationalyears5 = 2014
+|nationalteam5 = [[Portugal national under-19 football team|Portugal U19]]
+|nationalcaps5 = 3
+|nationalgoals5 = 2
+|nationalyears6 = 2015
+|nationalteam6 = [[Portugal national under-20 football team|Portugal U20]]
+|nationalcaps6 = 6
+|nationalgoals6 = 0
+|nationalyears7 = 2015–2017
+|nationalteam7 = [[Portugal national under-21 football team|Portugal U21]]
+|nationalcaps7 = 12
+|nationalgoals7 = 5
+|nationalyears8 = 2016
+|nationalteam8 = [[Portugal Olympic football team|Portugal U23]]
+|nationalcaps8 = 1
+|nationalgoals8 = 0
+|nationalyears9 = 2015–
+|nationalteam9 = [[Portugal national football team|Portugal]]
+|nationalcaps9 = 34
+|nationalgoals9 = 8
+|pcupdate = 23:41, 17 May 2026 (UTC)
+|ntupdate = 22:40, 6 June 2026 (UTC)
+|medaltemplates = {{Medal|Country|{{fb|POR}}}}
+{{Medal|Competition|[[UEFA Nations League]]}} 
+{{Medal|Winner|[[2019 UEFA Nations League Finals|2019 Portugal]]|}}
+}}
+
+'''Gonçalo Manuel Ganchinho Guedes''' ({{IPA|pt-PT|ɡõˈsalu ˈɣɛðɨʃ|lang}};{{efn-ua|In isolation, ''Guedes'' is pronounced {{IPA|pt|ˈɡɛðɨʃ|}}.}} born 29 November 1996) is a Portuguese professional [[association football|footballer]] who plays as a [[winger (association football)|winger]] or [[forward (association football)|forward]] for [[La Liga]] club [[Real Sociedad]] and the [[Portugal national football team|Portugal national team]].
+
+Guedes began his career at [[S.L. Benfica|Benfica]], making his professional debut for the [[S.L. Benfica B|reserves]] in April 2014 and the first team six months later. After 11 goals in 63 matches across all competitions, winning five major trophies, he transferred to [[Paris Saint-Germain FC|Paris Saint-Germain]] for a €30&nbsp;million transfer fee in January 2017. He played only 13 matches for PSG before being loaned to [[Valencia CF|Valencia]] in September 2017, joining them on a permanent basis for a €40&nbsp;million transfer fee a year later. He played 178 games and scored 36 goals for the Spanish club, winning the [[Copa del Rey]] in [[2019 Copa del Rey Final|2019]], and signed for Wolverhampton Wanderers for £27.5&nbsp;million in 2022.
+
+Guedes earned 57 caps for Portugal at youth level, from under-15 to [[Portugal national under-23 football team|under-23]]. He made his senior international debut in November 2015, at age 18, and played at the [[2018 FIFA World Cup]]. He scored the winning goal for Portugal in the [[2019 UEFA Nations League final]].
+
+==Club career==
+===Benfica===
+Born in [[Benavente, Portugal|Benavente]], Guedes joined [[S.L. Benfica]]'s youth system in 2005, where he progressed to the [[S.L. Benfica Juniors|juniors team]]. On his debut at age eight, he scored all of the goals in a 5–0 win against a team of boys three years older.<ref name=hunter/> He was part of Benfica's squad in the inaugural [[UEFA Youth League]] in [[2013–14 UEFA Youth League|2013–14]], contributing to their victories over [[Paris Saint-Germain F.C.|Paris Saint-Germain]], [[R.S.C. Anderlecht|Anderlecht]], [[Manchester City F.C.|Manchester City]] and [[Real Madrid CF|Real Madrid]] en route to the final.<ref name=hunter/>
+
+On 19 April 2014, he made his professional debut with [[S.L. Benfica B|Benfica B]] in a [[2013–14 Segunda Liga]] match against [[FC Porto B|Porto B]], playing 21 minutes of an eventual 4–1 away loss before being replaced by [[Rudinilson Silva]].{{citation needed|date=July 2025}}
+
+On 18 October 2014, Guedes debuted for Benfica's first team at [[S.C. Covilhã|Sporting da Covilhã]] in the [[2014–15 Taça de Portugal#Third round|third round]] of [[Taça de Portugal]].<ref>[https://www.fpf.pt/Not%C3%ADcias/Not%C3%ADcia/Id/7162/Cat/727/highlight/1/caller/56/Taca-de-Portugal-Benfica-sofre-mas-segue-em-frente Taça de Portugal: Benfica sofre mas segue em frente]</ref> On 4 January 2015, he debuted in the [[Primeira Liga]] at [[F.C. Penafiel|Penafiel]] as an added-time substitute for [[Lima (footballer, born 1983)|Lima]] in a 3–0 victory.<ref>{{cite web|url=http://www.ligaportugal.pt/oou/jogo/20142015/primeiraliga/15/6|title=Penafiel – Benfica (Jornada 15 Primeira Liga 2014–2015) – Liga Portugal|language=pt|date=4 January 2015|publisher=[[LPFP]]|access-date=4 January 2015|archive-date=3 March 2016|archive-url=https://web.archive.org/web/20160303195303/http://www.ligaportugal.pt/oou/jogo/20142015/primeiraliga/15/6|url-status=dead}}</ref> On 4 July, he won the [[2014–15 Segunda Liga]]'s [[LPFP Awards#Segunda Liga Awards|Breakthrough Player of the Year]] award.<ref name="awards 2015">{{cite web|url=http://www.ligaportugal.pt/noticias/premios-oficiais-liga-portugal-2015/|title=Prémios Oficiais Liga Portugal 2015|language=pt|trans-title=Official Awards Liga Portugal 2015|date=4 July 2015|publisher=LPFP|access-date=4 July 2015|url-status=dead|archive-url=https://web.archive.org/web/20150704230034/http://www.ligaportugal.pt/noticias/premios-oficiais-liga-portugal-2015/|archive-date=4 July 2015 }}</ref>
+
+On 26 September 2015, Guedes scored his first goal with Benfica in a 3–0 victory against [[F.C. Paços de Ferreira|Paços de Ferreira]] in the [[2015–16 Primeira Liga|league]].<ref>{{Cite web|url=http://www.ligaportugal.pt/oou/jogo/20152016/liganos/6/2|title=Liga NOS – Jornada 6 – SL Benfica vs FC P.Ferreira|access-date=1 October 2015|archive-date=27 September 2015|archive-url=https://web.archive.org/web/20150927045159/http://www.ligaportugal.pt/oou/jogo/20152016/liganos/6/2|url-status=dead}}</ref> On 30 September, he scored his first goal in the [[UEFA Champions League]] in a victory at [[Atlético Madrid]] (2–1),<ref>{{cite web|url=https://www.uefa.com/uefachampionsleague/news/0226-0e91f980d915-6410786351a5-1000--how-benfica-beat-atletico-madrid/|title=How Benfica beat Atlético Madrid|last=Walker|first=Joseph|date=30 September 2015|publisher=[[UEFA]]|access-date=1 October 2015}}</ref> and became the youngest Portuguese player to have scored a goal in the group stage.<ref name=hunter/> He was praised by opposing manager [[Diego Simeone]] after the match.<ref name=hunter/>
+
+While mainly used as a right-winger at Benfica, he played some matches as a [[false 9]] center-forward due to injury to striker [[Jonas Gonçalves Oliveira|Jonas]].<ref name=hunter/>
+
+===Paris Saint-Germain===
+On 25 January 2017, Guedes joined [[Paris Saint-Germain F.C.|Paris Saint-Germain]] for a €30&nbsp;million transfer fee,<ref>{{cite web|url=http://web3.cmvm.pt/sdi/emitentes/docs/FR62859.pdf|title=Comunicado|date=25 January 2017|website=CMVM|publisher=[[S.L. Benfica]]|language=pt|trans-title=Announcement|access-date=25 January 2017|archive-date=11 October 2017|archive-url=https://web.archive.org/web/20171011092935/http://web3.cmvm.pt/sdi/emitentes/docs/FR62859.pdf|url-status=dead}}</ref> signing a contract lasting until 2021. Upon signing, he said that he wanted to emulate compatriot and former PSG player [[Pauleta]].<ref>{{cite news|title=Paris Saint-Germain complete signing of Benfica's Goncalo Guedes|url=http://www.espnfc.com/story/3046114/paris-saint-germain-complete-signing-of-benficas-goncalo-guedes|access-date=9 March 2017|publisher=[[ESPN FC]]|date=25 January 2017}}</ref> PSG won a bidding war with [[Manchester United F.C.|Manchester United]] for his signature.<ref name=keen>{{cite news|title=Goncalo Guedes: Five things about 'new Ronaldo'; PSG and United keen|url=http://www.espnfc.com/team/portugal/482/blog/post/3044747/goncalo-guedes-five-things-about-new-ronaldo-psg-and-man-united-keen|access-date=9 March 2017|publisher=ESPN FC|date=23 January 2017}}</ref>
+
+Guedes made his debut for the [[Ligue 1]] title holders four days later, replacing fellow newcomer [[Julian Draxler]] for the final three minutes of a 1–1 home draw with [[AS Monaco FC|Monaco]].<ref>{{cite news|title=PSG estreia Gonçalo Guedes, Bernardo Silva salva Mónaco|trans-title=PSG give debut to Gonçalo Guedes, Bernardo Silva saves Monaco|url=http://www.maisfutebol.iol.pt/franca/paris-saint-germain/psg-estreia-goncalo-guedes-bernardo-silva-salva-monaco|access-date=9 March 2017|publisher=Mais Futebol|date=29 January 2017|language=pt}}</ref>
+
+===Valencia===
+[[File:Real Valladolid-Valencia CF, 2019-05-18 (38) - Gonçalo Guedes.jpg|thumb|left|160px|Guedes playing for [[Valencia CF|Valencia]] in May 2019]]
+On 1 September 2017, Guedes was loaned to Spanish club [[Valencia CF|Valencia]] on a season-long deal.<ref>{{cite news|title=Official Statement – Gonçalo Guedes|url=http://en.valenciacf.com/ver/72852/comunicado-oficial--gon%C3alo-guedes.html|access-date=1 September 2017|publisher=Valencia CF|date=1 September 2017|archive-date=10 January 2020|archive-url=https://web.archive.org/web/20200110160650/http://en.valenciacf.com/ver/72852/comunicado-oficial--gon%C3alo-guedes.html|url-status=dead}}</ref> The transfer was facilitated by the contacts between his agent [[Jorge Mendes]] and the owners of Valencia.<ref name="hunter" />
+
+Guedes made his [[La Liga]] debut eight days later, replacing [[Andreas Pereira]] for the final half-hour of a goalless home draw against Atlético Madrid.<ref>{{cite news|last1=Hernández|first1=José|title=Guedes y Paulista debutaron con nota|trans-title=Guedes and Paulista make distinguished debuts|url=http://www.deportevalenciano.com/2017/09/10/guedes-paulista-debutaron-nota|access-date=3 November 2017|publisher=Deporte Valenciano|date=10 September 2017|language=es}}</ref> On 15 October, Guedes scored the first goal of his loan in a 6–3 win at [[Real Betis]], as his unbeaten team rose to second above Real Madrid.<ref>{{cite news|title=Real Betis 3–6 Valencia|url=https://www.bbc.co.uk/sport/football/41631357|access-date=3 November 2017|work=BBC Sport|date=15 October 2017}}</ref> Six days later, he scored twice and assisted [[Santi Mina]] in a 4–0 win over [[Sevilla FC|Sevilla]], the ''Che'' team's fifth consecutive victory.<ref>{{cite news|title=Guedes hace brillar al Valencia|trans-title=Guedes makes Valencia shine|url=http://cadenaser.com/ser/2017/10/21/deportes/1508600125_468275.html|access-date=3 November 2017|publisher=Cadena SER|date=21 October 2017|language=es}}</ref> He received plaudits from the international sporting press for his early-season form.<ref>{{cite news|last1=Álvarez|first1=Fernando|title=Guedes revolutionises Valencia|url=http://www.marca.com/en/football/spanish-football/2017/10/17/59e5df3d46163f487a8b466e.html|access-date=3 November 2017|work=Marca|location=Spain|date=17 October 2017}}</ref><ref name="hunter">{{cite news|last1=Hunter|first1=Graham|title=Goncalo Guedes is playing at Valencia like the Ballon d'Or is in his future|url=http://www.espn.co.uk/football/spanish-primera-division/15/blog/post/3241179/goncalo-guedes-is-playing-at-valencia-like-the-ballon-dor-is-in-his-future|access-date=3 November 2017|publisher=ESPN|date=24 October 2017}}</ref>
+
+On 30 August 2018, Guedes signed permanently to Valencia on a deal running until 2024, for an initial [[List of Valencia CF records and statistics|club-record]] €40&nbsp;million fee potentially including a further €17&nbsp;million; the release clause was €300&nbsp;million.<ref>{{cite news |last1=Álvarez |first1=Fernando |title=Guedes firma con el Valencia hasta 2024 con una cláusula récord de 300 millones|trans-title=Guedes signs with Valencia until 2024 with a record clause of 300 million |url=https://www.marca.com/futbol/valencia/2018/08/30/5b8839f422601dae4e8b45d8.html |access-date=26 August 2022 |work=Marca|location=Spain |date=30 August 2018 |language=Spanish}}</ref> From December until February 2019, he was sidelined with a [[pubalgia]].<ref>{{cite news |last1=Álvarez |first1=Fernando |title=Guedes vuelve a una convocatoria con el Valencia tras dos meses de lesión|trans-title=Guedes returns to a Valencia matchday squad after two months injured |url=https://www.marca.com/futbol/valencia/2019/02/09/5c5f123422601d895b8b4602.html |access-date=26 August 2022 |work=Marca|location=Spain |date=9 February 2019 |language=Spanish}}</ref> He played in the [[2019 Copa del Rey Final]] on 25 May, with Valencia defeating [[FC Barcelona|Barcelona]] 2–1 to win the club's first honour in 11 years.<ref>{{cite news|last=Lowe|first=Sid|title=Valencia shock Barcelona in Copa del Rey final despite Messi's best efforts|url=https://www.theguardian.com/football/2019/may/25/barcelona-valencia-copa-del-rey-final-match-report|work=The Guardian|date=25 May 2019|access-date=10 June 2019}}</ref>
+
+From October 2019 until the following February, Guedes was out with a right ankle injury.<ref>{{cite news |last1=Sanchis |first1=Nacho |title=Gonçalo Guedes vuelve a una convocatoria 122 días después|trans-title=Gonçalo Guedes returns to a matchday squad after 122 days |url=https://as.com/futbol/2020/02/03/primera/1580753061_475985.html |access-date=26 August 2022 |work=Diario AS |date=4 February 2020 |language=Spanish}}</ref> On 30 December, he was sent off for swearing at the referee in a 2–1 loss at [[Granada CF|Granada]].<ref>{{cite news |last1=Martínez |first1=Jorge |title=La rajada de Guedes contra el árbitro que le costó la expulsión en el Granada-Valencia|trans-title=Guedes' criticism of the referee which cost him a sending-off in the Granada-Valencia game |url=https://www.elespanol.com/deportes/futbol/20201230/rajada-guedes-arbitro-costo-expulsion-granada-valencia/547446536_0.html |access-date=26 August 2022 |work=El Español |date=30 December 2020 |language=Spanish}}</ref> He had the most prolific season of his career in [[2021–22 La Liga|2021–22]], finishing as his team's joint top scorer alongside [[Carlos Soler (footballer)|Carlos Soler]] with 11, while also playing the most games with 36 and most minutes with over 2,500;<ref>{{cite news |title=Bordalás utilizó 34 jugadores con Guedes y Soler como goleadores|trans-title=Bordalás used 34 players with Guedes and Soler as the top scorers|url=https://www.mundodeportivo.com/futbol/valencia/20220522/1001809813/bordalas-utilizo-34-jugadores-guedes-soler-goleadores.html |access-date=26 August 2022 |work=Mundo Deportivo |date=22 May 2022 |language=Spanish}}</ref> this included two goals in a 4–3 win at [[Levante UD|Levante]] in the [[Valencia derby]] on 20 December.<ref>{{cite news |last1=Burgos |first1=Julián |title=Guedes reina en un derbi loco|trans-title=Guedes reigns in a crazy derby |url=https://as.com/futbol/2021/12/20/primera/1640039174_500793.html |access-date=26 August 2022 |work=Diario AS |date=20 December 2021 |language=Spanish}}</ref> In March 2022, his long-range strike against [[Athletic Bilbao]] was the decisive goal that sent his team to another Copa final.<ref>{{cite web |title=Guedes screamer sends Valencia past Athletic Club into Copa del Rey final|url=https://www.espn.com/soccer/report%3fgameId=631532 |date=2 March 2022|access-date=12 March 2022}}</ref>
+
+===Wolverhampton Wanderers===
+[[File:Gonçalo Guedes makes his Wolves debut (cropped).jpg|thumb|right|150px|Guedes making his [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] debut on 13 August 2022]]
+On 8 August 2022, [[Premier League]] side [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] signed Guedes on a five-year deal for £27.5&nbsp;million.<ref>{{cite news |title=Goncalo Guedes: Wolves complete £27.5m signing of Portugal forward from Valencia |url=https://www.bbc.co.uk/sport/football/62464408 |access-date=25 August 2022 |work=BBC Sport |date=8 August 2022}}</ref> He made his debut five days later as a 58th-minute substitute for [[Hwang Hee-chan]] in a goalless draw with [[Fulham F.C.|Fulham]],<ref>{{cite news|last=McKenna|first=Lorraine|title=Wolverhampton Wanderers 0–0 Fulham|url=https://www.bbc.co.uk/sport/football/62445692|work=[[BBC Sport]]|date=13 August 2022|access-date=14 August 2022}}</ref> and on 20 August made his first start in a 1–0 away defeat at [[Tottenham Hotspur F.C.|Tottenham Hotspur]].<ref>{{cite news|title=Tottenham Hotspur 1–0 Wolverhampton Wanderers|url=https://www.bbc.co.uk/sport/football/62529371|work=[[BBC Sport]]|last=Sutcliffe|first=Steve|date=20 August 2022|access-date=20 August 2022}}</ref>
+
+==== Return to Benfica on loan ====
+On 20 January 2023, Guedes returned to his old club Benfica on a loan for the remainder of the [[2022–23 Primeira Liga|2022–23]] season.<ref>{{Cite web |title=Gonçalo Guedes joins Benfica! |url=https://www.slbenfica.pt/en-us/agora/noticias/2023/01/20/futebol-benfica-goncalo-guedes-reforca-o-benfica |access-date=2023-01-20 |website=slbenfica.pt |language=en}}</ref> The following day, in a match away at [[C.D. Santa Clara|Santa Clara]], he came on as a substitute in the 64th minute and scored, sealing a 3–0 win.<ref>{{Cite web |date=21 January 2023 |title=Regresso de sonho: Gonçalo Guedes entrou e 15 minutos depois fez o golo |trans-title=Dream return: Gonçalo Guedes came on and scored 15 minutes later |url=https://www.record.pt/multimedia/videos/detalhe/regresso-de-sonho-guedes-entrou-e-15-minutos-depois-fez-o-golo |access-date=2023-08-29 |publisher=[[Record (Portuguese newspaper)|Record]] |language=pt-PT}}</ref>
+
+On 25 February, in a match away at [[F.C. Vizela|Vizela]], Guedes got injured and had to undergo knee surgery, sidelining him for almost two months.<ref>{{Cite web |date=10 March 2023 |title=374 minutos depois, a pior notícia: Gonçalo Guedes vai ser operado ao joelho esquerdo |trans-title=374 minutes later, the worst news: Gonçalo Guedes will undergo left knee surgery |url=https://observador.pt/2023/03/10/goncalo-guedes-vai-ser-operado-ao-joelho/ |access-date=2023-08-29 |website=Observador |language=pt-PT}}</ref> However, on 21 May 2023, in a clash against [[Lisbon derby|rivals]] [[Sporting CP]], Guedes injured the same knee, requiring him to undergo surgery once again.<ref>{{Cite web |date=24 May 2023 |title=Gonçalo Guedes volta a parar e vai ser operado ao joelho esquerdo |trans-title=Gonçalo Guedes sidelined again and will undergo left knee surgery |url=https://www.ojogo.pt/futebol/1a-liga/benfica/noticias/goncalo-guedes-volta-a-parar-e-vai-ser-operado-ao-joelho-esquerdo-16411673.html |access-date=2023-08-29 |publisher=[[O Jogo]] |language=pt-PT}}</ref> That season, Benfica were crowned Primeira Liga champions, and Guedes received a medal.<ref>{{Cite web |date=27 May 2023 |title=BENFICA CAMPEÃO: há 32 jogadores com as faixas ao peito (e alguns bem improváveis) |trans-title=Benfica's champion: there are 32 players with bands on their chest (some very unlikely) |url=https://maisfutebol.iol.pt/benfica/benfica-campeao/benfica-campeao-ha-32-jogadores-com-as-faixas-ao-peito-e-alguns-bem-improvaveis |access-date=2023-08-29 |website=Maisfutebol |language=pt-PT}}</ref>
+
+On 29 August 2023, Benfica announced that Guedes' loan had been extended until the end of the [[2023–24 S.L. Benfica season|2023–24 season]].<ref>{{Cite web |date=29 August 2023 |title=Gonçalo Guedes é reforço para 2023/24 |trans-title=Gonçalo Guedes is reinforcement until 2023/24 |url=https://www.slbenfica.pt/pt-pt/agora/noticias/2023/08/29/futebol-benfica-goncalo-guedes-reforco-emprestimo |access-date=2023-08-29 |website=SL Benfica |language=pt-PT}}</ref> On 19 January 2024, Benfica and Wolverhampton Wanderers reached an agreement for the termination of Guedes' loan spell.<ref>{{Cite web |date=19 January 2024 |title=Obrigado, Gonçalo Guedes! |trans-title=Thank you, Gonçalo Guedes! |url=https://www.slbenfica.pt/pt-pt/agora/noticias/2024/01/19/futebol-benfica-goncalo-guedes-fim-do-emprestimo |access-date=20 January 2024 |publisher=S.L. Benfica |language=pt}}</ref>
+
+==== Loan to Villarreal ====
+On 19 January 2024, hours after Guedes left Benfica, Wolverhampton Wanderers sent him on another loan, this time to La Liga club [[Villarreal CF|Villarreal]], until the end of the [[2023–24 Villarreal CF season|2023–24 season]].<ref>{{Cite web |date=19 January 2024 |title=Guedes is a Yellow! |url=https://villarrealcf.es/en/guedes-is-a-yellow/ |access-date=2024-01-20 |publisher=Villarreal CF |language=en-GB}}</ref> On 20 January 2024, Guedes made his La Liga debut for the team against [[RCD Mallorca|Mallorca]].<ref>{{Cite web |date=20 January 2024 |title=A cruel point against RCD Mallorca (1–1) – Web Oficial del Villarreal CF |url=https://villarrealcf.es/en/a-cruel-point-against-rcd-mallorca-1-1/ |access-date= |website=Villarreal CF |language=en-GB}}</ref> On 27 January, Guedes scored his first La Liga goal for Villarreal against Barcelona at [[Estadi Olímpic Lluís Companys]], winning the game 5–3.<ref>{{Cite news |date=27 January 2024 |title=Barcelona lose eight-goal thriller to Villarreal |url=https://www.bbc.com/sport/football/68120233 |access-date=2024-01-28 |work=BBC Sport |language=en-GB}}</ref><ref>{{Cite web |date=27 January 2024 |title=Barcelona stunned as Villarreal edge eight-goal thriller |url=https://www.marca.com/en/football/spanish-football/2024/01/27/65b558b4ca47410f7a8b457f.html |access-date=2024-01-28 |website=Marca|location=Spain |language=en}}</ref>
+
+== International career ==
+[[File:Gonçalo Guedes (cropped).jpg|thumb|left|150px|Guedes with [[Portugal national football team|Portugal]] at the [[2018 FIFA World Cup]]]]
+Guedes was first called-up by [[Portugal national football team|Portugal]] first-team manager [[Fernando Santos (footballer, born 1954)|Fernando Santos]] on 6 November 2015 ahead of international friendlies against [[Russia national football team|Russia]] and [[Luxembourg national football team|Luxembourg]].<ref>{{cite news|title=Portugal gives Ronaldo a rest, calls up newcomers for games|url=https://www.usatoday.com/story/sports/soccer/2015/11/06/portugal-gives-ronaldo-a-rest-calls-up-newcomers-for-games/75283750/|access-date=7 November 2015|agency=Associated Press|work=[[USA Today]]|date=6 November 2015}}</ref> He made his debut eight days later against the former, starting in a 1–0 loss in [[Krasnodar]],<ref>{{cite news|title=Russia 1 Portugal 0: Shirokov proves captain fantastic in Krasnodar|url=http://www.fourfourtwo.com/news/russia-1-portugal-0-shirokov-proves-captain-fantastic-krasnodar|access-date=9 March 2017|work=[[FourFourTwo]]|date=14 November 2015}}</ref> which made him the first 18-year-old to represent the nation since [[Cristiano Ronaldo]].<ref name=keen/>
+
+On 10 November 2017, Guedes scored his first senior international goal in a 3–0 friendly win over [[Saudi Arabia national football team|Saudi Arabia]] in [[Viseu]], also assisting [[Manuel Fernandes (footballer, born 1986)|Manuel Fernandes]] earlier in the match.<ref>{{cite news|title=Guedes stars for Portugal in Ronaldo's absence|url=http://www.beinsports.com/au/friendlies/news/guedes-stars-for-portugal-in-ronaldos-absence/705224|access-date=11 November 2017|publisher=beIN Sports|date=10 November 2017}}</ref>
+
+Guedes was named in Portugal's 23-man squad for the [[2018 FIFA World Cup]] in Russia. In the final warm-up match before the tournament, he scored twice in a 3–0 win over [[Algeria national football team|Algeria]] at the [[Estádio da Luz]].<ref>{{cite news|title=Portugal 3–0 Algeria|url=https://www.bbc.co.uk/sport/football/44373997|access-date=8 June 2018|work=BBC Sport|date=7 June 2018}}</ref>
+
+At the [[2019 UEFA Nations League Finals]], hosted on home soil, Guedes was a substitute for [[João Félix]] in the semi-final victory over [[Switzerland national football team|Switzerland]] but started the final at the [[Estádio do Dragão]] against the [[Netherlands national football team|Netherlands]], during which he scored the match's only goal.<ref>{{cite news |last1=Law |first1=Matt |title=Result: Goncalo Guedes scores winner as Portugal land UEFA Nations League title |url=https://www.sportsmole.co.uk/football/portugal/uefa-nations-league/result/result-guedes-scores-winner-as-portugal-land-nations-league-title_361579.html |access-date=9 June 2019 |publisher=Sports Mole |date=9 June 2019}}</ref>
+
+In October 2022, he was named in Portugal's preliminary 55-man [[Portugal national football team|squad]] for the [[2022 FIFA World Cup]] in Qatar.<ref>{{cite web|url=https://www.record.pt/futebol/selecoes/detalhe/cmtv-revela-lista-de-pre-convocados-para-o-mundial2022-conheca-todos-os-nomes?ref=HP_DestaquesPrincipais|title=The list of pre-selected squad for the 2022 World Cup: know all the names|publisher=[[Record (Portuguese newspaper)|Record]]|access-date=31 October 2022|date=23 October 2022}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 17 May 2026}}<ref>{{ForaDeJogo|access-date=17 January 2017}}</ref><ref name="soccerway">{{Soccerway|access-date=22 December 2024}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup{{efn|Includes [[Taça de Portugal]], [[Coupe de France]], [[Copa del Rey]], [[FA Cup]]}}
+!colspan="2"|League cup{{efn|Includes [[Taça da Liga]], [[EFL Cup]]}}
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="4"|[[S.L. Benfica B|Benfica B]]
+|[[2013–14 Segunda Liga|2013–14]]
+|[[Segunda Liga]]
+|1||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||1||0
+|-
+|[[2014–15 Segunda Liga|2014–15]]
+|Segunda Liga
+|32||8||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||32||8
+|-
+|[[2015–16 LigaPro|2015–16]]
+|[[LigaPro]]
+|5||3||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||5||3
+|-
+!colspan="2"|Total
+!38!!11!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!38!!11
+|-
+|rowspan="4"|[[S.L. Benfica|Benfica]]
+|[[2014–15 S.L. Benfica season|2014–15]]
+|[[Primeira Liga]]
+|5||0||1||0||3||0||0||0||colspan="2"|—||9||0
+|-
+|[[2015–16 S.L. Benfica season|2015–16]]
+|Primeira Liga
+|18||3||1||0||4||0||7{{efn|Appearances in [[UEFA Champions League]]|name=UCL}}||1||1{{efn|Appearance in [[Supertaça Cândido de Oliveira]]}}||0||31||4
+|-
+|[[2016–17 S.L. Benfica season|2016–17]]
+|Primeira Liga
+|16||2||4||1||2||2||6{{efn|name=UCL}}||2||0||0||28||7
+|-
+!colspan="2"|Total
+!39!!5!!6!!1!!9!!2!!13!!3!!1!!0!!68!!11
+|-
+|rowspan="3"|[[Paris Saint-Germain FC|Paris Saint-Germain]]
+|[[2016–17 Paris Saint-Germain FC season|2016–17]]
+|[[Ligue 1]]
+|7||0||4||0||0||0||colspan="2"|—||colspan="2"|—||11||0
+|-
+|[[2017–18 Paris Saint-Germain FC season|2017–18]]
+|Ligue 1
+|1||0||0||0||0||0||0||0||1{{efn|Appearance in [[Trophée des Champions]]}}||0||2||0
+|-
+!colspan="2"|Total
+!8!!0!!4!!0!!0!!0!!0!!0!!1!!0!!13!!0
+|-
+|[[Valencia CF|Valencia]] (loan)
+|[[2017–18 Valencia CF season|2017–18]]
+|[[La Liga]]
+|33||5||5||1||colspan="2"|—||colspan="2"|—||colspan="2"|—||38||6
+|-
+|rowspan="5"|Valencia
+|[[2018–19 Valencia CF season|2018–19]]
+|La Liga
+|25||5||2||0||colspan="2"|—||12{{efn|Four appearances in UEFA Champions League, eight appearances and three goals in [[UEFA Europa League]]}}||3||colspan="2"|—||39||8
+|-
+|[[2019–20 Valencia CF season|2019–20]]
+|La Liga
+|21||2||1||0||colspan="2"|—||3{{efn|name=UCL}}||0||0||0||25||2
+|-
+|[[2020–21 Valencia CF season|2020–21]]
+|La Liga
+|31||5||3||2||colspan="2"|—||colspan="2"|—||colspan="2"|—||34||7
+|-
+|[[2021–22 Valencia CF season|2021–22]]
+|La Liga
+|36||11||6||2||colspan="2"|—||colspan="2"|—||colspan="2"|—||42||13
+|-
+!colspan="2"|Valencia total
+!146!!28!!17!!5!!colspan="2"|—!!15!!3!!0!!0!!178!!36
+|-
+|rowspan="3"|[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|[[2022–23 Wolverhampton Wanderers F.C. season|2022–23]]
+|[[Premier League]]
+|13||1||1||1||4||0||colspan="2"|—||colspan="2"|—||18||2
+|-
+|[[2024–25 Wolverhampton Wanderers F.C. season|2024–25]]
+|Premier League
+|29||2||2||0||2||3||colspan="2"|—||colspan="2"|—||33||5
+|-
+!colspan="2"|Total
+!42!!3!!3!!1!!6!!3!!colspan="2"|—!!colspan="2"|—!!51!!7
+|-
+|rowspan="3"|[[S.L. Benfica|Benfica]] (loan)
+|[[2022–23 S.L. Benfica season|2022–23]]
+|Primeira Liga
+|12||1||1||1||colspan="2"|—||2{{efn|name=UCL}}||0||colspan="2"|—||15||2
+|-
+|[[2023–24 S.L. Benfica season|2023–24]]
+|Primeira Liga
+|9||0||1||0||2||0||2{{efn|name=UCL}}||0||0||0||14||0
+|-
+!colspan="2"|Total
+!21!!1!!2!!1!!2!!0!!4!!0!!0!!0!!29!!2
+|-
+|[[Villarreal CF|Villarreal]] (loan)
+|[[2023–24 Villarreal CF season|2023–24]]
+|La Liga
+|17||3||colspan="2"|—||colspan="2"|—||2{{efn|Appearances in UEFA Europa League}}||0||colspan="2"|—||19||3
+|-
+|[[Real Sociedad]]
+|[[2025–26 Real Sociedad season|2025–26]]
+|La Liga
+|32||8||7||1||colspan="2"|—||colspan="2"|—||colspan="2"|—||39||9
+|-
+!colspan="3"|Career total
+!242!!59!!39!!9!!17!!5!!34!!6!!2!!0!!435!!79
+|}
+{{notelist}}
+
+===International===
+[[File:Gonçalo Guedes 2018.jpg|thumb|upright|Guedes at the [[2018 FIFA World Cup]]]]
+{{updated|match played 6 June 2026}}<ref name="NFT">{{NFT player|id=61343|access-date=26 June 2021}}</ref>
+{|class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="8"|[[Portugal national football team|Portugal]]
+|2015||2||0
+|-
+|2017||3||1
+|-
+|2018||9||2
+|-
+|2019||7||3
+|-
+|2020||1||0
+|-
+|2021||7||0
+|-
+|2022||3||1
+|-
+|2026||2||1
+|-
+!colspan="2"|Total!!34!!8
+|}
+
+:''Scores and results list Portugal's goal tally first, score column indicates score after each Guedes goal.''<ref name="NFT"/>
+
+{| class="wikitable sortable"
+|+ List of international goals scored by Gonçalo Guedes
+|-
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Cap
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+|-
+| align="center"|1 || 10 November 2017 || [[Estádio do Fontelo]], [[Viseu]], Portugal || align="center"|4 || {{fb|KSA}} || align="center"|2–0 || align="center"|3–0 || [[Friendly (association football)|Friendly]]
+|-
+| align="center"|2 ||rowspan="2"| 7 June 2018 ||rowspan="2"| [[Estadio da Luz]], [[Lisbon]], Portugal || align="center" rowspan="2"|10 || rowspan="2"| {{fb|ALG}} || align="center"|1–0 ||align=center rowspan="2"|3–0 || rowspan="2"|Friendly
+|-
+| align="center"|3 || align="center"|3–0
+|-
+| align="center"|4 || 9 June 2019 || [[Estádio do Dragão]], [[Porto]], Portugal || align="center"|17 || {{fb|NED}} || align="center"|1–0 || align="center"|1–0 ||[[2019 UEFA Nations League Final]]
+|-
+| align="center"|5 || 7 September 2019 || [[Red Star Stadium]], [[Belgrade]], Serbia || align="center"|18 || {{fb|SRB}} || align="center"|2–0 || align="center"|4–2 || [[UEFA Euro 2020 qualifying Group B|UEFA Euro 2020 qualification]]
+|-
+| align="center"|6 || 11 October 2019 || [[Estádio José Alvalade]], Lisbon, Portugal || align="center"|20 || {{fb|LUX}} || align="center"|3–0 || align="center"|3–0 || UEFA Euro 2020 qualification
+|-
+| align="center"|7 || 9 June 2022 || Estádio José Alvalade, Lisbon, Portugal || align="center"|31 || {{fb|CZE}} || align="center"|2–0 || align="center"|2–0 || [[2022–23 UEFA Nations League A]]
+|-
+| align="center"|8 || 6 June 2026 || [[Estádio Nacional]], [[Oeiras, Portugal|Oeiras]], Portugal || align="center"|34 || {{fb|CHI}} || align="center"|1–0 || align="center"|2–1 || Friendly
+|}
+
+==Honours==
+'''Benfica'''<ref name="soccerway"/>
+*[[Primeira Liga]]: [[2014–15 Primeira Liga|2014–15]], [[2015–16 Primeira Liga|2015–16]], [[2016–17 Primeira Liga|2016–17]], [[2022–23 Primeira Liga|2022–23]]
+*[[Taça de Portugal]]: [[2016–17 Taça de Portugal|2016–17]]
+*[[Taça da Liga]]: [[2014–15 Taça da Liga|2014–15]], [[2015–16 Taça da Liga|2015–16]]
+*[[Supertaça Cândido de Oliveira]]: [[2016 Supertaça Cândido de Oliveira|2016]]
+'''Paris Saint-Germain'''<ref name="soccerway"/>
+*[[Ligue 1]]: [[2017–18 Ligue 1|2017–18]]
+*[[Coupe de France]]: [[2016–17 Coupe de France|2016–17]]
+*[[Trophée des Champions]]: [[2017 Trophée des Champions|2017]]
+'''Valencia'''<ref name="soccerway"/>
+*[[Copa del Rey]]: [[2018–19 Copa del Rey|2018–19]]
+'''Real Sociedad'''<ref name="soccerway"/>
+*Copa del Rey: [[2025–26 Copa del Rey|2025–26]]
+
+'''Portugal'''<ref name="soccerway"/>
+*[[UEFA Nations League]]: [[2018–19 UEFA Nations League|2018–19]]
+
+'''Individual'''
+*[[LPFP Awards#Segunda Liga Awards|Segunda Liga Breakthrough Player of the Year]]: [[2014–15 Segunda Liga|2014–15]]<ref name="awards 2015"/>
+*[[SJPF Segunda Liga Player of the Month]]: October 2014,<ref>{{cite web|url=http://www.ligaportugal.pt/noticias/goncalo-guedes-do-benfica-eleito-melhor-jogador-do-mes-de-outubro/|title=Gonçalo Guedes do Benfica eleito Melhor Jogador do mês de Outubro|language=pt|trans-title=Benfica's Gonçalo Guedes voted Best Player of October|date=19 November 2014|website=ligaportugal.pt |publisher=LPFP|access-date=21 November 2014|url-status=dead|archive-url=https://web.archive.org/web/20151006224317/http://www.ligaportugal.pt/noticias/goncalo-guedes-do-benfica-eleito-melhor-jogador-do-mes-de-outubro/|archive-date=6 October 2015}}</ref> December 2014<ref>{{cite web|url=http://www.ligaportugal.pt/noticias/goncalo-guedes-eleito-melhor-jogador-da-segunda-liga-%28dezembro%29/|title=Gonçalo Guedes eleito melhor jogador da Segunda Liga (dezembro)|language=pt|trans-title=Gonçalo Guedes elected best player of Segunda Liga (December)|date=26 January 2015|website=ligaportugal.pt|publisher=LPFP|access-date=28 January 2015|archive-date=17 November 2015|archive-url=https://web.archive.org/web/20151117053456/http://www.ligaportugal.pt/noticias/goncalo-guedes-eleito-melhor-jogador-da-segunda-liga-(dezembro)/|url-status=dead}}</ref>
+
+==Notes==
+{{notelist-ua}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category}}
+* [https://www.wolves.co.uk/teams/mens-first-team/goncalo-guedes/ Profile] {{Webarchive|url=https://web.archive.org/web/20220922041013/https://www.wolves.co.uk/teams/mens-first-team/goncalo-guedes/ |date=22 September 2022 }} at the Wolverhampton Wanderers F.C. website
+* {{FPF national player}}
+* {{Premier League player}}
+* {{LFP Ligue 1|goncalo-guedes}}
+* {{UEFA player}}
+
+{{Real Sociedad squad}}
+{{Navboxes
+| title = Portugal squads
+| bg = #B50000
+| fg = gold
+| bordercolor = #006600
+| list1 =
+{{Portugal squad 2018 FIFA World Cup}}
+{{Portugal squad UEFA Euro 2020}}
+{{Portugal squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Guedes, Goncalo}}
+[[Category:1996 births]]
+[[Category:Living people]]
+[[Category:People from Benavente, Portugal]]
+[[Category:21st-century Portuguese sportsmen]]
+[[Category:Portuguese men's footballers]]
+[[Category:Footballers from Santarém District]]
+[[Category:Men's association football wingers]]
+[[Category:Men's association football forwards]]
+[[Category:Portugal men's international footballers]]
+[[Category:Portugal men's under-21 international footballers]]
+[[Category:Portugal men's youth international footballers]]
+[[Category:UEFA Nations League–winning players]]
+[[Category:2018 FIFA World Cup players]]
+[[Category:UEFA Euro 2020 players]]
+[[Category:Primeira Liga players]]
+[[Category:Liga Portugal 2 players]]
+[[Category:Ligue 1 players]]
+[[Category:La Liga players]]
+[[Category:Premier League players]]
+[[Category:S.L. Benfica B players]]
+[[Category:S.L. Benfica footballers]]
+[[Category:Paris Saint-Germain FC players]]
+[[Category:Valencia CF players]]
+[[Category:Villarreal CF players]]
+[[Category:Wolverhampton Wanderers F.C. players]]
+[[Category:Real Sociedad footballers]]
+[[Category:Portuguese expatriate men's footballers]]
+[[Category:Portuguese expatriate sportspeople in France]]
+[[Category:Portuguese expatriate sportspeople in Spain]]
+[[Category:Portuguese expatriate sportspeople in England]]
+[[Category:Expatriate men's footballers in France]]
+[[Category:Expatriate men's footballers in Spain]]
+[[Category:Expatriate men's footballers in England]]
+[[Category:2026 FIFA World Cup players]]

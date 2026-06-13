@@ -1,0 +1,35 @@
+===Current squad===
+The following 26 players were called up to the [[2026 FIFA World Cup]].<ref>{{cite web |url=https://www.instagram.com/p/DZBsBHEMqH-/?hl=en |title=Nosotros vamos en serio. Porque estos 26 van con la misma hambre de 18 millones de ecuatorianos. Con el mismo sacrificio de los que salieron desde abajo y llegaron lejos. Esta es nuestra lista, y vamos a demostrar al mundo que esto es Ecuador. |trans-title=We're going for real. Because these 26 go with the same hunger of 18 million Ecuadorians. With the same sacrifice of those who came from the bottom and reached far.This is our list, and we will show the world that this is Ecuador. |publisher=[[Ecuadorian Football Federation]] |date=May 31, 2026 |access-date=May 31, 2026 |language=es}}</ref>
+<br>''Caps and goals current as of 30 May 2026, after the match against [[Saudi Arabia national football team|Saudi Arabia]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Hernán Galíndez]]|age={{birth date and age|df=yes|1987|3|30}}|caps=34|goals=0|club=[[Club Atlético Huracán|Huracán]]|clubnat=ARG}}
+{{nat fs g player|no=12|pos=GK|name=[[Moisés Ramírez]]|age={{birth date and age|df=yes|2000|9|9}}|caps=7|goals=0|club=[[A.E. Kifisia F.C.|Kifisia]]|clubnat=GRE}}
+{{nat fs g player|no=22|pos=GK|name=[[Gonzalo Valle]]|age={{birth date and age|df=yes|1996|2|28}}|caps=3|goals=0|club=[[L.D.U. Quito|LDU Quito]]|clubnat=ECU}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Félix Torres (footballer, born 1997)|Félix Torres]]|age={{birth date and age|df=yes|1997|1|11}}|caps=48|goals=5|club=[[SC Internacional|Internacional]]|clubnat=BRA}}
+{{nat fs g player|no=3|pos=DF|name=[[Piero Hincapié]]|age={{birth date and age|df=yes|2002|1|9}}|caps=51|goals=3|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs g player|no=4|pos=DF|name=[[Joel Ordóñez]]|age={{birth date and age|df=yes|2004|4|21}}|caps=16|goals=0|club=[[Club Brugge]]|clubnat=BEL}}
+{{nat fs g player|no=6|pos=DF|name=[[Willian Pacho]]|age={{birth date and age|df=yes|2001|10|16}}|caps=34|goals=2|club=[[Paris Saint-Germain FC|Paris Saint-Germain]]|clubnat=FRA}}
+{{nat fs g player|no=7|pos=DF|name=[[Pervis Estupiñán]]|age={{birth date and age|df=yes|1998|1|21}}|caps=53|goals=4|club=[[AC Milan|Milan]]|clubnat=ITA}}
+{{nat fs g player|no=17|pos=DF|name=[[Ángelo Preciado]]|age={{birth date and age|df=yes|1998|2|18}}|caps=54|goals=0|club=[[Clube Atlético Mineiro|Atlético Mineiro]]|clubnat=BRA}}
+{{nat fs g player|no=25|pos=DF|name=[[Jackson Porozo]]|age={{birth date and age|df=yes|2000|8|4}}|caps=9|goals=1|club=[[Club Tijuana|Tijuana]]|clubnat=MEX}}
+{{nat fs break}}
+{{nat fs g player|no=5|pos=MF|name=[[Jordy Alcívar]]|age={{birth date and age|df=yes|1999|8|5}}|caps=10|goals=1|club=[[Independiente del Valle]]|clubnat=ECU}}
+{{nat fs g player|no=8|pos=MF|name=[[Anthony Valencia]]|age={{birth date and age|df=yes|2003|7|21}}|caps=2|goals=1|club=[[Royal Antwerp F.C.|Antwerp]]|clubnat=BEL}}
+{{nat fs g player|no=9|pos=MF|name=[[John Yeboah]]|age={{birth date and age|df=yes|2000|6|23}}|caps=22|goals=3|club=[[Venezia FC|Venezia]]|clubnat=ITA}}
+{{nat fs g player|no=10|pos=MF|name=[[Kendry Páez]]|age={{birth date and age|df=yes|2007|5|4}}|caps=25|goals=2|club=[[Club Atlético River Plate|River Plate]]|clubnat=ARG}}
+{{nat fs g player|no=14|pos=MF|name=[[Alan Minda]]|age={{birth date and age|df=yes|2003|5|14}}|caps=19|goals=2|club=[[Clube Atlético Mineiro|Atlético Mineiro]]|clubnat=BRA}}
+{{nat fs g player|no=15|pos=MF|name=[[Pedro Vite]]|age={{birth date and age|df=yes|2002|3|9}}|caps=16|goals=1|club=[[Pumas UNAM|UNAM]]|clubnat=MEX}}
+{{nat fs g player|no=18|pos=MF|name=[[Denil Castillo]]|age={{birth date and age|df=yes|2004|3|24}}|caps=5|goals=0|club=[[FC Midtjylland|Midtjylland]]|clubnat=DEN}}
+{{nat fs g player|no=19|pos=MF|name=[[Gonzalo Plata]]|age={{birth date and age|df=yes|2000|11|1}}|caps=49|goals=8|club=[[CR Flamengo|Flamengo]]|clubnat=BRA}}
+{{nat fs g player|no=21|pos=MF|name=[[Alan Franco (footballer, born 1998)|Alan Franco]]|age={{birth date and age|df=yes|1998|8|21}}|caps=57|goals=1|club=[[Clube Atlético Mineiro|Atlético Mineiro]]|clubnat=BRA}}
+{{nat fs g player|no=23|pos=MF|name=[[Moisés Caicedo]]|age={{birth date and age|df=yes|2001|11|2}}|caps=60|goals=3|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs g player|no=26|pos=MF|name=[[Yaimar Medina]]|age={{birth date and age|df=yes|2004|11|5}}|caps=5|goals=0|club=[[K.R.C. Genk|Genk]]|clubnat=BEL}}
+{{nat fs break}}
+{{nat fs g player|no=11|pos=FW|name=[[Kevin Rodríguez (footballer, born 2000)|Kevin Rodríguez]]|age={{birth date and age|df=yes|2000|3|4}}|caps=31|goals=2|club=[[Royale Union Saint-Gilloise|Union Saint-Gilloise]]|clubnat=BEL}}
+{{nat fs g player|no=13|pos=FW|name=[[Enner Valencia]]|other=[[Captain (association football)|captain]]|age={{birth date and age|df=yes|1989|11|4}}|caps=105|goals=49|club=[[C.F. Pachuca|Pachuca]]|clubnat=MEX}}
+{{nat fs g player|no=16|pos=FW|name=[[Jordy Caicedo]]|age={{birth date and age|df=yes|1997|11|18}}|caps=19|goals=3|club=[[Club Atlético Huracán|Huracán]]|clubnat=ARG}}
+{{nat fs g player|no=20|pos=FW|name=[[Nilson Angulo]]|age={{birth date and age|df=yes|2003|6|19}}|caps=13|goals=1|club=[[Sunderland A.F.C.|Sunderland]]|clubnat=ENG}}
+{{nat fs g player|no=24|pos=FW|name=[[Jeremy Arévalo]]|age={{birth date and age|df=yes|2005|3|19}}|caps=3|goals=0|club=[[VfB Stuttgart]]|clubnat=GER}}
+{{nat fs end}}

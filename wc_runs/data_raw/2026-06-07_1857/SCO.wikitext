@@ -1,0 +1,35 @@
+===Current squad===
+The following players were called up for the [[2026 FIFA World Cup]], and for the pre-tournament friendly matches against [[Curaçao national football team|Curaçao]] and [[Bolivia national football team|Bolivia]] on 30 May and 6 June 2026, respectively.<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/articles/c4g94rpvx73o |title=World Cup: Scotland select Ross Stewart & Findlay Curtis in 26-man squad |website=BBC Sport |date=19 May 2026 |accessdate=19 May 2026}}</ref> Following the Curaçao match, [[Billy Gilmour]] withdrew from the squad through injury and was replaced a day later by [[Tyler Fletcher]].<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/articles/cn9pwg12z0lo |title=Billy Gilmour: Scotland midfielder ruled out of World Cup with knee injury |website=BBC Sport |date=30 May 2026 |accessdate=30 May 2026}}</ref><ref>{{cite web |url=https://www.bbc.com/sport/football/articles/cn8pmj99jk7o|title=Fletcher chosen to replace Gilmour in Scotland squad|publisher=[[BBC Sport]]|date=May 31, 2026|access-date=May 31, 2026}}</ref>
+<br>''Caps and goals updated as of 6 June 2026, after the match against [[Bolivia national football team|Bolivia]]. Clubs correct as of 2 February 2026.''
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Angus Gunn]]|sortname=Gunn, Angus|age={{birth date and age|1996|1|22|df=y}}|caps=22|goals=0|club=[[Nottingham Forest F.C.|Nottingham Forest]]|clubnat=ENG}}
+{{nat fs g player|no=12|pos=GK|name=[[Liam Kelly (footballer, born 1996)|Liam Kelly]]|sortname=Kelly, Liam|age={{birth date and age|1996|1|23|df=y}}|caps=3|goals=0|club=[[Rangers F.C.|Rangers]]|clubnat=SCO}}
+{{nat fs g player|no=21|pos=GK|name=[[Craig Gordon]]|sortname=Gordon, Craig|age={{birth date and age|1982|12|31|df=y}}|caps=84|goals=0|club=[[Heart of Midlothian F.C.|Heart of Midlothian]]|clubnat=SCO}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Aaron Hickey]]|sortname=Hickey, Aaron|age={{birth date and age|2002|6|10|df=y}}|caps=21|goals=0|club=[[Brentford F.C.|Brentford]]|clubnat=ENG}}
+{{nat fs g player|no=3|pos=DF|name=[[Andy Robertson]]|sortname=Robertson, Andy|other=[[List of Scotland national football team captains|captain]]|age={{birth date and age|1994|3|11|df=y}}|caps=94|goals=4|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs g player|no=5|pos=DF|name=[[Grant Hanley]]|sortname=Hanley, Grant|age={{birth date and age|1991|11|20|df=y}}|caps=68|goals=2|club=[[Hibernian F.C.|Hibernian]]|clubnat=SCO}}
+{{nat fs g player|no=6|pos=DF|name=[[Kieran Tierney]]|sortname=Tierney, Kieran|age={{birth date and age|1997|6|5|df=y}}|caps=56|goals=2|club=[[Celtic F.C.|Celtic]]|clubnat=SCO}}
+{{nat fs g player|no=13|pos=DF|name=[[Jack Hendry (footballer, born 1995)|Jack Hendry]]|sortname=Hendry, Jack|age={{birth date and age|1995|5|7|df=y}}|caps=38|goals=3|club=[[Al-Ettifaq FC|Al-Ettifaq]]|clubnat=KSA}}
+{{nat fs g player|no=15|pos=DF|name=[[John Souttar]]|sortname=Souttar, John|age={{birth date and age|1996|9|25|df=y}}|caps=24|goals=2|club=[[Rangers F.C.|Rangers]]|clubnat=SCO}}
+{{nat fs g player|no=16|pos=DF|name=[[Dominic Hyam]]|sortname=Hyam, Dominic|age={{birth date and age|1995|12|20|df=y}}|caps=4|goals=0|club=[[Wrexham A.F.C.|Wrexham]]|clubnat=WAL}}
+{{nat fs g player|no=22|pos=DF|name=[[Nathan Patterson (footballer)|Nathan Patterson]]|sortname=Patterson, Nathan|age={{birth date and age|2001|10|16|df=y}}|caps=26|goals=1|club=[[Everton F.C.|Everton]]|clubnat=ENG}}
+{{nat fs g player|no=24|pos=DF|name=[[Anthony Ralston]]|sortname=Ralston, Anthony|age={{birth date and age|1998|11|16|df=y}}|caps=27|goals=1|club=[[Celtic F.C.|Celtic]]|clubnat=SCO}}
+{{nat fs g player|no=26|pos=DF|name=[[Scott McKenna]]|sortname=Mckenna, Scott|age={{birth date and age|1996|11|12|df=y}}|caps=50|goals=1|club=[[GNK Dinamo Zagreb|Dinamo Zagreb]]|clubnat=CRO}}
+{{nat fs break}}
+{{nat fs g player|no=4|pos=MF|name=[[Scott McTominay]]|sortname=Mctominay, Scott|age={{birth date and age|1996|12|8|df=y}}|caps=70|goals=15|club=[[SSC Napoli|Napoli]]|clubnat=ITA}}
+{{nat fs g player|no=7|pos=MF|name=[[John McGinn]]|sortname=Mcginn, John|age={{birth date and age|1994|10|18|df=y}}|caps=86|goals=20|club=[[Aston Villa F.C.|Aston Villa]]|clubnat=ENG}}
+{{nat fs g player|no=8|pos=MF|name=[[Tyler Fletcher]]|sortname=Fletcher, Tyler|age={{birth date and age|2007|3|19|df=y}}|caps=2|goals=0|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs g player|no=11|pos=MF|name=[[Ryan Christie]]|sortname=Christie, Ryan|age={{birth date and age|1995|2|22|df=y}}|caps=68|goals=10|club=[[AFC Bournemouth|Bournemouth]]|clubnat=ENG}}
+{{nat fs g player|no=17|pos=MF|name=[[Ben Gannon-Doak]]|sortname=Gannon-Doak, Ben|age={{birth date and age|2005|11|11|df=y}}|caps=14|goals=1|club=[[AFC Bournemouth|Bournemouth]]|clubnat=ENG}}
+{{nat fs g player|no=19|pos=MF|name=[[Lewis Ferguson]]|sortname=Ferguson, Lewis|age={{birth date and age|1999|8|24|df=y}}|caps=24|goals=1|club=[[Bologna FC 1909|Bologna]]|clubnat=ITA}}
+{{nat fs g player|no=23|pos=MF|name=[[Kenny McLean]]|sortname=Mclean, Kenny|age={{birth date and age|1992|1|8|df=y}}|caps=58|goals=3|club=[[Norwich City F.C.|Norwich City]]|clubnat=ENG}}
+{{nat fs g player|no=25|pos=MF|name=[[Findlay Curtis]]|sortname=Curtis, Findlay|age={{birth date and age|2006|6|9|df=y}}|caps=3|goals=1|club=[[Kilmarnock F.C.|Kilmarnock]]|clubnat=SCO}}
+{{nat fs break}}
+{{nat fs g player|no=9|pos=FW|name=[[Lyndon Dykes]]|sortname=Dykes, Lyndon|age={{birth date and age|1995|10|7|df=y}}|caps=51|goals=10|club=[[Charlton Athletic F.C.|Charlton Athletic]]|clubnat=ENG}}
+{{nat fs g player|no=10|pos=FW|name=[[Ché Adams]]|sortname=Adams, Ché|age={{birth date and age|1996|7|13|df=y}}|caps=47|goals=13|club=[[Torino FC|Torino]]|clubnat=ITA}}
+{{nat fs g player|no=14|pos=FW|name=[[Ross Stewart (footballer, born 1996)|Ross Stewart]]|sortname=Stewart, Ross|age={{birth date and age|1996|7|11|df=y}}|caps=3|goals=0|club=[[Southampton F.C.|Southampton]]|clubnat=ENG}}
+{{nat fs g player|no=18|pos=FW|name=[[George Hirst (footballer)|George Hirst]]|sortname=Hirst, George|age={{birth date and age|1999|2|15|df=y}}|caps=10|goals=1|club=[[Ipswich Town F.C.|Ipswich Town]]|clubnat=ENG}}
+{{nat fs g player|no=20|pos=FW|name=[[Lawrence Shankland]]|sortname=Shankland, Lawrence|age={{birth date and age|1995|8|10|df=y}}|caps=20|goals=7|club=[[Heart of Midlothian F.C.|Heart of Midlothian]]|clubnat=SCO}}
+{{nat fs end}}

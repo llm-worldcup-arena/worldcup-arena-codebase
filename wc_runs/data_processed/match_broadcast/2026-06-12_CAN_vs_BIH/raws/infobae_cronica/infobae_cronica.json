@@ -1,0 +1,24 @@
+{
+ "source": "Infobae(crónica AP/EFE)",
+ "url": "https://www.infobae.com/america/agencias/2026/06/12/cronica-del-canada-bosnia-y-herzegovina-1-1/",
+ "title": "Crónica del Canadá - Bosnia y Herzegovina: 1-1",
+ "published": "2026-06-12T21:30:19.983Z",
+ "tier": "2",
+ "lang": "es",
+ "match": {
+  "date": "2026-06-12",
+  "home": "CAN",
+  "away": "BIH",
+  "home_en": "Canada",
+  "away_en": "Bosnia and Herzegovina",
+  "home_zh": "加拿大",
+  "away_zh": "波黑",
+  "comp": "小组赛·B组",
+  "match_id": "M3",
+  "slug": "2026-06-12_CAN_vs_BIH"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "La selección masculina de fútbol de Bosnia y Herzegovina ha empatado (1-1) este viernes contra la de Canadá en la primera jornada del Grupo B en la Copa Mundial de la FIFA 2026, con gol inicial de Jovo Lukic para el equipo balcánico e igualado por un tanto de Cyle Larin durante la segunda mitad de un partido repleto de altibajos. Este Mundial, que organizan de manera conjunta Estados Unidos, México y Canadá, vivió en el BMO Field de Toronto otra ceremonia inaugural tras la de un día antes en suelo mexicano. Entraban en escena los 'canucks', coanfitriones que buscan un hueco en las eliminatorias directas si superan este grupo traicionero donde también están Suiza y Catar. Eso sí, Bosnia empezó este encuentro mejor y Jovo Lukic protagonizó en el 5' un cabezazo que se fue muy desviado del palo izquierdo. Replicó Jonathan David para los canadienses en el 17', con un zurdazo franco en el interior del área rival tras un rebote y habiéndose quedado la pelota suelto, pero su disparo raso y flojo acabó ente los guantes del portero. A modo de respuesta, Bosnia lució su estrategia a balón parado e hizo el 0-1; sacó Ivan Basic en la banda derecha a pie cambiado, peinó Sead Kolasinac en el primer poste y Jovo Lukic aprovechó el desajuste de los marcajes para cabecear al fondo de la red. Y luego Jonathan David, dos veces, y Tanitoluwa Oluwaseyi, otra, fallaron acercamientos de Canadá. Aun así, el conjunto entrenado por Jesse Marsch no hizo sustituciones al descanso, si bien mejoró de forma paulatina porque Bosnia empezó a acularse. De hecho, en el minuto 53 gozaron los locales de una ocasión enorme tras un disparo raso de Richie Laryea desde el costado izquierdo del área y en la que Kolasinac evitó el gol desviando al travesaño. Había favorecido esa salvada que el guardameta Nikola Vasilj hubiera tocado ligeramente el balón con un pie justo antes. La contestación de los balcánicos fue un remate de cabeza de Tarik Muharemovic, que salió alto y precedió a los primeros movimientos de cada banquillo. Oluwaseyi se erigió en referente ofensivo de una Canadá que crecía sin ver premio. Incluso debajo del larguero despejó Bosnia otra clara oportunidad de los 'canucks', que encontraron el arma que le faltaba en cuanto Larin saltó al campo en el minuto 76. El actual delantero del Southampton y ex del Real Valladolid y RCD Mallorca, mandó el balón a la cazuela en su primera intervención, además haciendo un gesto de bastante calidad. Desde la banda izquierda arrancó su carrera Ismaël Koné, quien pasó la bola a Promise David y, en el balcón del área, éste prolongó con un toque de primeras para filtrar a Larin; dentro del área bosnia, y pese a estar agarrado por un zaguero, el exblanquivioleta y exbermellón se giró mientras controlaba para enganchar una volea que entró ajustada al palo. En la recta final del partido, Canadá buscó una mayor recompensa a su estilo y los pupilos de Sergej Barbarez se resguardaron, pero Larin no obstante les dio un susto en el tiempo de descuento con un derechazo a ras de suelo que taponó la zaga rival para evitar la remontada. Este 1-1 dejó a ambos combinados con un solo punto en su grupo, con todo abierto. FICHA TÉCNICA. --RESULTADO: CANADÁ, 1 - BOSNIA Y HERZEGOVINA, 1 (0-1, al descanso). --ALINEACIONES: CANADÁ: Crépeau; Johnston, De Fougerolles, Cornelius, Laryea; Buchanan (Ahmed, min.61), Koné, Eustáquio (Osorio, min.90+1), Millar (Shaffelburg, min.61); Oluwaseyi (Larin, min.76) y Jonathan David (Promise David, min.61). BOSNIA Y HERZEGOVINA: Vasilj; Dedic, Katic, Muharemovic, Kolasinac (Burnic, min.84); Bajraktarevic (Sunjic, min.74), Basic (Gigovic, min.62), Tahirovic, Memic (Alajbegovic, min.74); Lukic (Bazdar, min.62) y Demirovic. --GOLES: 0-1, min.21: Lukic. 1-1, min.78: Larin. --ÁRBITRO: Facundo Tello (ARG). Amonestó con tarjeta amarilla a Johnston (min.11) y De Fougerolles (min.53) por parte de Canadá, y a Demirovic (min.45), Lukic (min.45+1) y Katic (min.90+3) en Bosnia y Herzegovina. --ESTADIO: BMO Field.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

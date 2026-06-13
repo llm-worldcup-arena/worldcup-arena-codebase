@@ -1,0 +1,16 @@
+{
+ "team": "CAN",
+ "source": "CTV News",
+ "url": "https://www.ctvnews.ca/toronto/article/canada-unveils-fifa-world-cup-roster-heres-the-full-list/",
+ "title": "FIFA World Cup in Canada: full list of 26-player roster",
+ "news_date": "2026-06-09",
+ "published": "2026-06-09T18:11:58.454Z",
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-09",
+ "fetched": "2026-06-13_0748",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Alphonso Davies will lead Canada in the 2026 FIFA World Cup as the men’s roster was revealed Friday night.\nCanada will kick off the tournament against Bosnia and Herzegovina in Toronto on June 12.\nHead coach Jesse Marsch said earlier this week that Davies, who is recovering from a hamstring injury, will likely miss the opening match.\nHere’s who will don the red and white:\nForwards\nPromise David, Brampton, Ont.\nTami Oluwaseyi, Mississauga, Ont.\nCyle Larin, Brampton, Ont.\nJonathan David, Ottawa, Ont.\nDefenders\nJoel Waterman, Aldergrove, B.C.\nMoïse Bombito, Montreal, Que.\nAlfie Jones, Hillcrest, Alta.\nDerek Cornelius, Ajax, Ont.\nRichie Laryea, Toronto, Ont.\nAlphonso Davies, Edmonton, Alta.\nAlistair Johnston, Aurora, Ont.\nNiko Sigur, Burnaby, B.C.\nLuc de Fougerolles, Montreal, Que.\nMidfielders\nLiam Millar, Brampton, Ont.\nIsmaël Koné, Montreal, Que.\nStephen Eustáquio, Leamington, Ont.\nJacob Shaffelburg, Port Williams, N.S.\nJonathan Osorio, Brampton, Ont.\nTajon Buchanan, Brampton, Ont.\nAli Ahmed, Toronto, Ont.\nJayden Nelson, Brampton, Ont.\nNathan Saliba, Longueuil, Que.\nMathieu Choinière, St-Alexandre, Que.\nKeepers\nMaxime Crépeau, Candiac, Que.\nDayne St. Clair, Pickering, Ont.\nOwen Goodman, Allison, Ont.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

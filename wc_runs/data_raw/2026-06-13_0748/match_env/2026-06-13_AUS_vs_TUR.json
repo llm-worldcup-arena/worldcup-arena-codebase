@@ -1,0 +1,42 @@
+{
+ "match": {
+  "slug": "2026-06-13_AUS_vs_TUR",
+  "date": "2026-06-13",
+  "home": "AUS",
+  "away": "TUR",
+  "round": "group",
+  "group": "D"
+ },
+ "kickoff": {
+  "美东": "2026-06-14T00:00:00-04:00",
+  "北京": "06-14 12:00"
+ },
+ "venue": {
+  "name": "BC Place",
+  "city": "Vancouver",
+  "altitude_m": 9,
+  "roof": "retractable",
+  "surface": "grass"
+ },
+ "weather": {
+  "开球时段": {
+   "温度C": 19.9,
+   "体感C": 19.5,
+   "降水概率%": 1,
+   "降水mm": 0.0,
+   "风速kmh": 5.5,
+   "湿度%": 57,
+   "天况": "晴"
+  },
+  "source": "open-meteo(免费预报API)",
+  "fetched": "2026-06-13_0748",
+  "_note": "临近开球建议 --refresh 刷新"
+ },
+ "referee": {
+  "name": "Jesus Valenzuela(委内瑞拉)",
+  "var": "Michael Orue",
+  "source": "WebSearch多源(Dailysports/footem)",
+  "fetched": "2026-06-13_0748"
+ },
+ "_note": "环境=比赛+时间+地点 确定;天气为开球时段;顶棚 retractable/fixed-canopy 时天气影响有限。"
+}

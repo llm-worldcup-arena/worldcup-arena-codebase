@@ -1,0 +1,74 @@
+{{Short description|Tunisian footballer (born 2004)}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+| name = Adem Arous
+| image = 
+| fullname = 
+| birth_date = {{birth date and age|2004|7|17|df=y}}
+| birth_place = [[Medina]], Saudi Arabia<ref>{{Cite web|url=https://www.tff.org/Default.aspx?pageId=526&kisiId=2824703|title=ADAM AROUS - Player Details TFF|website=www.tff.org}}</ref>
+| height = 1.88m
+| position = [[Centre-back]]
+| currentclub = [[Kasımpaşa S.K.|Kasımpaşa]]
+| clubnumber = 4
+| years1 = 2022–2025
+| clubs1 = [[Stade Tunisien]]
+| caps1 = 34
+| goals1 = 1
+| years2 = 2025–
+| clubs2 = [[Kasımpaşa S.K.|Kasımpaşa]]
+| caps2 = 7
+| goals2 = 1
+| nationalyears1 = 2026–
+| nationalteam1 = [[Tunisia national football team|Tunisia]]
+| nationalcaps1 = 1
+| nationalgoals1 = 0
+| pcupdate = 23:55, 21 December 2025 (UTC)
+| ntupdate = 23:55, 28 March 2026 (UTC)
+}}
+'''Adem Arous''' ({{langx|ar|آدم عروس}}; born 17 July 2004) is a Tunisian professional [[Association football|footballer]] who plays as a [[centre-back]] for [[Süper Lig]] club [[Kasımpaşa S.K.|Kasımpaşa]] and the [[Tunisia national football team|Tunisia national team]].
+
+==Club career==
+Arous began his senior career with [[Stade Tunisien]] in 2022, and was promoted to their senior team in 2024. On 24 January 2025, he extended his contract with Stade Tunisian until 2029.<ref>{{Cite web|url=https://diwanfm.net/news/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/%D8%A7%D9%84%D9%85%D9%84%D8%B9%D8%A8-%D8%A7%D9%84%D8%AA%D9%88%D9%86%D8%B3%D9%8A-%D9%8A%D8%AC%D8%AF%D8%AF-%D8%B9%D9%82%D8%AF-%D9%85%D8%AF%D8%A7%D9%81%D8%B9%D9%87-%D8%A2%D8%AF%D9%85-%D8%B9%D8%B1%D9%88%D8%B3%C2%A0|title=Radio Tunisie &#124;  Sfax - Radio Diwan FM - الملعب التونسي يجدد عقد مدافعه آدم عروس}}</ref> On 2 September 2025, he transferred to the Turkish [[Süper Lig]] club [[Kasımpaşa S.K.|Kasımpaşa]].<ref>{{Cite web|url=https://africafoot.com/kasimpasa-soffre-la-pepite-defensive-tunisienne-adem-arous/|title=Kasımpaşa s'offre la pépite défensive tunisienne Adem Arous|first=L'équipe|last=Africafoot|date=2 September 2025}}</ref>
+
+==International career==
+Arous was called up to the [[Tunisia national football team|Tunisia national team]] for the [[2025 Africa Cup of Nations]].<ref>{{cite news |title=List of our national team for the African Cup of Nations – from 21 December 2025 to 18 January 2026 |url=https://www.facebook.com/photo/?fbid=122162936504793506&set=pcb.122162936534793506&locale=en_GB |access-date=11 December 2025 |work=Équipe Nationale Tunisienne |publisher=Facebook |date=11 December 2025}}</ref>
+
+==Honours==
+;Stade Tunisien
+*[[Tunisian Cup]]: [[2023–24 Tunisian Cup|2023–24]]
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Soccerway|new_id=arous-adem/KnxGVZkT}}
+*{{NFT|103996}}
+
+{{Kasımpaşa S.K. squad}}
+{{Navboxes
+| title=  Tunisia squads
+| bg = #E70013
+| fg = white
+| bordercolor = white
+| list1 =
+{{Tunisia squad 2025 Africa Cup of Nations}}
+{{Tunisia squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Arous, Adem}}
+[[Category:2004 births]]
+[[Category:Living people]]
+[[Category:Footballers from Medina]]
+[[Category:Tunisian men's footballers]]
+[[Category:Men's association football central defenders]]
+[[Category:Stade Tunisien players]]
+[[Category:Kasımpaşa S.K. footballers]]
+[[Category:Tunisian Ligue Professionnelle 1 players]]
+[[Category:Süper Lig players]]
+[[Category:Tunisia men's international footballers]]
+[[Category:2025 Africa Cup of Nations players]]
+[[Category:21st-century Tunisian sportsmen]]
+[[Category:Tunisian expatriate men's footballers]]
+[[Category:Tunisian expatriate sportspeople in Turkey]]
+[[Category:Expatriate men's footballers in Turkey]]
+[[Category:2026 FIFA World Cup players]]

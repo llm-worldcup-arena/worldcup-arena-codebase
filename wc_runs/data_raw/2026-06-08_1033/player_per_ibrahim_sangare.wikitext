@@ -1,0 +1,323 @@
+{{short description|Ivorian footballer}}
+{{for|the French footballer who plays as a forward|Ibrahim Sangaré (French footballer)}}
+{{Use dmy dates|date=June 2025}}
+{{Use British English|date=June 2025}}
+{{Infobox football biography
+|name = Ibrahim Sangaré
+|image = Ibrahim Sangaré (2018-05-09).jpg
+|image_size = 
+|caption = Sangaré in 2018
+|birth_date = {{birth date and age|df=y|1997|12|2}}
+|birth_place = [[Koumassi]], Ivory Coast<ref name="nft"/>
+|height = 1.91 m
+|position = [[Midfielder (association football)#Defensive midfielder|Defensive midfielder]]
+|currentclub = [[Nottingham Forest F.C.|Nottingham Forest]]
+|clubnumber = 6
+|youthclubs1 = Tout Puissant Koumassi
+|youthyears1 = 2011
+|youthclubs2 = [[AS Denguélé]]
+|youthyears2 = 2012–2016
+|years1 = 2016–2017
+|clubs1 = [[Toulouse FC|Toulouse B]]
+|caps1 = 16
+|goals1 = 0
+|years2 = 2016–2020
+|clubs2 = [[Toulouse FC|Toulouse]]
+|caps2 = 80
+|goals2 = 2
+|years3 = 2020–2023
+|clubs3 = [[PSV Eindhoven|PSV]]
+|caps3 = 89
+|goals3 = 9
+|years4 = 2023–
+|clubs4 = [[Nottingham Forest F.C.|Nottingham Forest]]
+|caps4 = 58
+|goals4 = 2
+|nationalyears1 = 2015
+|nationalteam1 = [[Ivory Coast national under-20 football team|Ivory Coast U20]]
+|nationalcaps1 = 3
+|nationalgoals1 = 0
+|nationalyears2 = 2015–2021
+|nationalteam2 = [[Ivory Coast national under-23 football team|Ivory Coast U23]]
+|nationalcaps2 = 2
+|nationalgoals2 = 0
+|nationalyears3 = 2015–
+|nationalteam3 = [[Ivory Coast national football team|Ivory Coast]]
+|nationalcaps3 = 57
+|nationalgoals3 = 12
+|pcupdate = 23:18, 24 May 2026 (UTC)
+|ntupdate = 23:57, 28 March 2026 (UTC)
+|medaltemplates = {{MedalCountry|{{fb|CIV}}}}
+{{MedalSport|Men's [[association football|football]]}}
+{{Medal|Competition|[[Africa Cup of Nations]]}}
+{{Medal|W|[[2023 Africa Cup of Nations|2023 Ivory Coast]]|}}
+}}
+
+'''Ibrahim Sangaré''' (born 2 December 1997) is an Ivorian professional [[Association football|footballer]] who plays as a [[Midfielder (association football)#Defensive midfielder|defensive midfielder]] for {{English football updater|NottingF}} club [[Nottingham Forest F.C.|Nottingham Forest]] and the [[Ivory Coast national football team|Ivory Coast national team]].<ref>{{cite web|url=http://www.tfc.info/ibrahim-sangare|title=Ibrahim Sangaré – Le site officiel du Toulouse Football Club|access-date=12 November 2016|archive-date=26 September 2018|archive-url=https://web.archive.org/web/20180926085707/http://www.tfc.info/ibrahim-sangare|url-status=dead}}</ref>
+
+==Club career==
+
+=== Early career ===
+Sangaré started his youth career with Ivorian clubs Tout Puissant Koumassi and [[AS Denguélé]].
+
+=== Toulouse ===
+Sangaré made his debut for [[Ligue 1]] club [[Toulouse FC|Toulouse]] in a 0–0 draw against [[Angers SCO|Angers]] on 22 October 2016.<ref>{{cite web|url=http://www.lfp.fr/joueur/sangare-ibrahim-1|title=Ibrahim Sangare}}</ref>
+
+===PSV===
+On 28 September 2020, following Toulouse's [[Promotion and relegation|relegation]] to [[Ligue 2]], Sangaré joined [[Eredivisie]] club [[PSV Eindhoven]] on a five-year deal.<ref>{{cite web|url=https://www.psv.nl/english-psv/news/article/sangare-strengthens-psvs-midfield.htm|title=Sangaré strengthens PSV's midfield|publisher=PSV Eindhoven|date=28 September 2020|access-date=28 September 2020|archive-date=3 October 2020|archive-url=https://web.archive.org/web/20201003053008/https://www.psv.nl/english-psv/news/article/sangare-strengthens-psvs-midfield.htm|url-status=dead}}</ref> On 18 October, he made his debut for the club as a starter in a 3–0 win over [[PEC Zwolle]].<ref>{{Cite web |title=PSV Eindhoven 3–0 PEC Zwolle (Oct 18, 2020) Final Score |url=https://www.espn.com/soccer/match/_/gameId/574734/psv-eindhoven-pec-zwolle |access-date=2024-02-14 |publisher=ESPN |language=en}}</ref> On 31 January 2021, Sangaré scored his first goal for PSV in a 3–1 loss to [[Feyenoord]].<ref>{{Cite web |title=Feyenoord Rotterdam 3–1 PSV Eindhoven (Jan 31, 2021) Final Score |url=https://www.espn.com/soccer/match/_/gameId/574452 |access-date=2024-02-14 |publisher=ESPN |language=en}}</ref>
+
+On 3 December 2021, Sangaré was named the Eredivisie player of the month for [[2021–22 Eredivisie|November 2021]].<ref name=EPOM>{{Cite web|url=https://eredivisie.eu/news/ajax-provides-most-players-to-team-of-the-month-for-the-fourth-time/|title=Ajax provides most players to team of the month for the fourth time|date=3 December 2021|website=eredivisie.eu}}</ref> He was also included in the team of the month for October 2021<ref name=":0">{{Cite web|date=5 November 2021|title=Ajax provides most players for the team of the month for the third time|url=https://eredivisie.eu/news/ajax-provides-most-players-for-the-team-of-the-month-for-the-third-time/|url-status=live|website=eredivisie.eu|archive-url=https://web.archive.org/web/20211105135041/https://eredivisie.eu/news/ajax-provides-most-players-for-the-team-of-the-month-for-the-third-time/ |archive-date=5 November 2021 }}</ref> and December 2021 respectively.<ref>{{Cite web|url=https://eredivisie.eu/news/ajax-still-provides-most-players-for-the-team-of-the-month/|title=Ajax still provides most players for team of the month|date=14 January 2022|website=eredivisie.eu}}</ref>
+
+On 17 April 2022, Sangaré started in PSV's triumph over [[AFC Ajax–PSV Eindhoven rivalry|rivals]] [[AFC Ajax|Ajax]] in the [[2022 KNVB Cup Final|KNVB Cup Final]].<ref>{{cite web | url=https://nos.nl/artikel/2425523-psv-verrast-ajax-met-twee-goals-vlak-na-rust-en-wint-knvb-beker | title=PSV verrast Ajax met twee goals vlak na rust en wint KNVB-beker|website=NOS|language=Dutch|date=17 April 2022 }}</ref>
+
+On 7 August 2022, amid interest from several top European clubs, PSV announced that Sangaré had extended his contract with the club until 2027.<ref>{{Cite web |date=8 August 2022 |title=Sangaré extends contract with PSV until 2027 |url=https://www.psv.nl/english-psv/news/article/sangare-extends-contract-with-psv-until-2027.htm |access-date=2022-08-08 |website=psv.nl |language=en-US |archive-date=8 August 2022 |archive-url=https://web.archive.org/web/20220808145329/https://www.psv.nl/english-psv/news/article/sangare-extends-contract-with-psv-until-2027.htm |url-status=dead }}</ref> On 16 August 2022, Sangaré scored in a 2–2 draw away to [[Rangers F.C.|Rangers]] in the first leg of their [[2022–23 UEFA Champions League qualifying phase and play-off round#Play-off round|UEFA Champions League]] play-off round match.<ref name=":1">{{cite web|url=https://www.bbc.com/sport/football/62548886|title=Rangers 2–2 PSV|publisher=BBC|date=16 August 2022|access-date=18 August 2022}}</ref> On 2 March 2023, Sangaré scored in the quarter-finals of the [[KNVB Cup]] in a 3–1 win over [[ADO Den Haag]].<ref>{{Cite web |title=PSV Eindhoven 3–1 ADO Den Haag (Mar 2, 2023) Final Score |url=https://www.espn.com/soccer/match/_/gameId/665803 |access-date=2024-01-17 |publisher=ESPN |language=en}}</ref> His shot registered in at 170&nbsp;km/h, making it one of the most powerful shots in recorded football history.<ref>{{Cite web |date=17 January 2024 |title=What is the hardest shot in football history? Ibrahim Sangaré scores 170km/h screamer |url=https://onefootball.com/en/news/what-is-the-hardest-shot-in-football-history-ibrahim-sangare-scores-170kmh-screamer-36902233 |access-date=2024-01-17 |website=OneFootball |language=en}}</ref><ref>{{Cite web |last=Hoskin |first=Rob |date=3 March 2023 |title=PSV's Ibrahim Sangaré scores incredible 170km/h screamer – the sixth hardest shot in history |url=https://www.givemesport.com/what-is-the-hardest-shot-in-football-history-ibrahimsangar-scores-170kmh-screamer/ |access-date=2024-01-17 |website=GiveMeSport |language=en}}</ref> On 30 April, he started in the [[2023 KNVB Cup final|KNVB Cup final]] against [[AFC Ajax|Ajax]], where after drawing 1–1 in regular and extra time, PSV won their 10th title after going 3–2 on [[Penalty shoot-out (association football)|penalties]].<ref>{{Cite web |title=PSV Eindhoven 1–1 Ajax Amsterdam (Apr 30, 2023) Final Score |url=https://www.espn.com/soccer/match/_/gameId/668068 |access-date=2024-01-17 |publisher=ESPN |language=en}}</ref> On 22 August, Sangaré scored in a 2–2 draw away to [[Rangers F.C.|Rangers]] in the first leg of their [[2023–24 UEFA Champions League qualifying phase and play-off round#Play-off round|UEFA Champions League]] play-off round match.<ref>{{cite web|url=https://www.bbc.com/sport/football/66573610|title=Rangers 2–2 PSV|publisher=BBC|date=22 August 2023|access-date=25 August 2023}}</ref>
+
+===Nottingham Forest===
+On 1 September 2023, Sangaré joined [[Premier League]] club [[Nottingham Forest F.C.|Nottingham Forest]] on a five-year contract,<ref>{{cite web |url=https://www.nottinghamforest.co.uk/news/2023/september/01/forest-complete-signing-of-ibrahim-sangar-/ |title=Forest complete signing of Ibrahim Sangaré |publisher=Nottingham Forest F.C. |date=1 September 2023 }}</ref> for £30&nbsp;million.<ref name=":2">{{cite web |url=https://www.nytimes.com/athletic/4827082/2023/09/01/nottingham-forest-sangare-transfer/ |title=Nottingham Forest sign Ibrahim Sangare from PSV |publisher=The Athletic |date=1 September 2023 }}</ref> On 18 September, he made his debut for the club in a 1–1 home draw against [[Burnley F.C.|Burnley]] at the [[City Ground]].<ref name=":3">{{Cite web |title=Nottingham Forest 1–1 Burnley (Sep 18, 2023) Final Score |url=https://www.espn.com/soccer/match/_/gameId/671076 |access-date=2024-01-03 |publisher=ESPN |language=en}}</ref>
+
+==International career==
+Sangaré represented [[Ivory Coast national under-20 football team|Ivory Coast U20]] at the [[2015 Toulon Tournament]], and the [[Ivory Coast national under-23 football team|Ivory Coast U23s]] in 2 friendlies.<ref>{{cite web|url=http://www.tfc.info/ibrahim-sangare-nouvelle-recrue-estivale-du-tfc|title=Ibrahim Sangaré, nouvelle recrue estivale du TFC|access-date=12 November 2016|archive-date=8 July 2016|archive-url=https://web.archive.org/web/20160708045500/http://www.tfc.info/ibrahim-sangare-nouvelle-recrue-estivale-du-tfc|url-status=dead}}</ref>
+
+[[File:Joueur guinéen et ivoirien 05.jpg|thumb|right|Sangaré (left) with Ivory Coast in 2024]]
+
+On 28 December 2023, he was included in the Ivory Coast's squad for the [[2023 Africa Cup of Nations]] held in his home country.<ref>{{cite web | url=https://www.afrik-foot.com/cote-divoire-liste-can-2023-gasset-zaha-haller-pepe| title= Côte d'Ivoire : la liste pour la CAN sans Zaha, avec 2 blessés et 3 surprises !|date=28 December 2023}}</ref><ref>{{cite web |date=5 January 2024 |title=Côte D'Ivoire |url=https://www.cafonline.com/media/ow2obxrw/c%C3%B4te-divoire.pdf |publisher=Confederation of African Football}}</ref> On 11 February 2024, he came on as a late substitute in the [[2023 Africa Cup of Nations final|final]] of the tournament against [[Nigeria national football team|Nigeria]], which ended in a 2–1 victory for Ivory Coast.<ref name="2023caff">{{cite web|title=Nigeria 1–2 Ivory Coast: Sebastian Haller Grabs Winner as Hosts Win Africa Cup of Nations After Wild Tournament|url=https://www.eurosport.com/football/africa-cup-of-nations/2024/nigeria-v-ivory-coast-afcon-final-live_sto10013363/story.shtml|publisher=[[Eurosport]]|date=11 February 2024|access-date=11 February 2024}}</ref>
+
+Sangaré was included in the list of Ivorian players selected by coach [[Emerse Faé]] to participate in the [[2025 Africa Cup of Nations]].<ref>{{cite web|date=9 December 2025 |language=fr |title=Nicolas Pépé et Simon Adingra absents, Wilfried Zaha de retour : la liste de la Côte d'Ivoire pour la CAN |url=https://www.lequipe.fr/Football/Actualites/Nicolas-pepe-et-simon-adingra-absents-wilfried-zaha-de-retour-la-liste-de-la-cote-d-ivoire-pour-la-can/1615689 |website=www.lequipe.fr}}<!-- auto-translated from French by Module:CS1 translator --></ref><ref>{{cite web|date=9 December 2025 |language=fr |title=CAN 2025: la liste de la Côte d'Ivoire, tenante du titre, avec le retour de Wilfried Zaha |url=https://www.rfi.fr/fr/afrique-foot/20251209-can-2025-la-liste-de-la-c%C3%B4te-d-ivoire-tenante-du-titre-avec-le-retour-de-wilfried-zaha |website=www.rfi.fr}}<!-- auto-translated from French by Module:CS1 translator --></ref>
+
+On May 15, 2026, Sangaré was integrated by Ivory Coast coach [[Emerse Faé]] in his list of 26 players in order to participate in the [[2026 World Cup]].<ref>{{cite web|access-date=2 June 2026 |date=15 May 2026 |language=fr |title=La liste de la Côte d'Ivoire pour la Coupe du Monde 2026 |url=https://www.fifa.com/fr/articles/liste-cote-d-ivoire-coupe-du-monde-2026 |website=[[FIFA]]}}<!-- auto-translated from French by Module:CS1 translator --></ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 24 May 2026}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup{{efn|Includes [[Coupe de France]], [[KNVB Cup]], [[FA Cup]]}}
+!colspan="2"|League cup{{efn|Includes [[Coupe de la Ligue]], [[EFL Cup]]}}
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="3"|[[Toulouse FC|Toulouse II]]
+|[[2016–17 Championnat de France Amateur 2|2016–17]]<ref name="sw">{{cite web|title=I. Sangaré |url=https://int.soccerway.com/players/ibrahima-sangare/405071/|website=Soccerway|access-date=18 August 2022}}</ref>
+|[[Championnat de France Amateur 2|CFA 2]]
+|12||0||colspan="2"|–||colspan="2"|–||colspan="2"|–||colspan="2"|–||12||0
+|-
+|[[2017–18 Championnat National 3|2017–18]]<ref name="sw"/>
+|[[Championnat National 3]]
+|4||0||colspan="2"|–||colspan="2"|–||colspan="2"|–||colspan="2"|–||4||0
+|-
+!colspan="2"|Total
+!16!!0!!0!!0!!0!!0!!0!!0!!0!!0!!16!!0
+|-
+|rowspan="6"|[[Toulouse FC|Toulouse]]
+|[[2016–17 Toulouse FC season|2016–17]]<ref name="sw"/>
+|[[Ligue 1]]
+|5||0||0||0||1||0||colspan="2"|–||colspan="2"|–||6||0
+|-
+|[[2017–18 Toulouse FC season|2017–18]]<ref name="sw"/>
+|Ligue 1
+|20||1||1||0||1||0||colspan="2"|–||2{{efn|Appearances in [[Ligue 1 relegation/promotion play-offs|Ligue 1 relegation play-offs]]}}||0||24||1
+|-
+|[[2018–19 Toulouse FC season|2018–19]]<ref name="sw"/>
+|Ligue 1
+|28||1||0||0||0||0||colspan="2"|–||colspan="2"|–||28||1
+|-
+|[[2019–20 Toulouse FC season|2019–20]]<ref name="sw"/>
+|Ligue 1
+|25||0||0||0||1||0||colspan="2"|–||colspan="2"|–||26||0
+|-
+|[[2020–21 Toulouse FC season|2020–21]]<ref name="sw"/>
+|[[Ligue 2]]
+|2||0||colspan="2"|—||colspan="2"|—||colspan="2"|–||colspan="2"|–||2||0
+|-
+!colspan="2"|Total
+!80!!2!!1!!0!!3!!0!!0!!0!!2!!0!!86!!2
+|-
+|rowspan="5"|[[PSV Eindhoven]]
+|[[2020–21 PSV Eindhoven season|2020–21]]<ref name="wf">{{cite web |title=Ibrahim Sangaré » Club matches |url=https://www.worldfootball.net/person/pe460136/ibrahim-sangare/club-matches/ |website=WorldFootball.net |access-date=13 September 2022}}</ref>
+|[[Eredivisie]]
+|29||1||3||0||colspan="2"|–||7{{efn|name=UEL|Appearances in [[UEFA Europa League]]}}||0||colspan="2"|–||39||1
+|-
+|[[2021–22 PSV Eindhoven season|2021–22]]<ref name="wf"/>
+|Eredivisie
+|29||3||4||0||colspan="2"|–||15{{efn|Six appearances in [[UEFA Champions League]], four appearances and one goal in UEFA Europa League, five appearances in [[UEFA Europa Conference League]]}}||1||1{{efn|name=JCS|Appearance in [[Johan Cruyff Shield]]}}||0||49||4
+|-
+|[[2022–23 PSV Eindhoven season|2022–23]]<ref name="wf"/>
+|Eredivisie
+|29||5||5||1||colspan="2"|–||10{{efn|Four appearances and one goal in UEFA Champions League, six appearances and one goal in UEFA Europa League}}||2||1{{efn|name=JCS}}||0||45||8
+|-
+|[[2023–24 PSV Eindhoven season|2023–24]]<ref name="wf"/>
+|Eredivisie
+|2||0||colspan="2"|—||colspan="2"|–||4{{efn|name=UCL|Appearance in UEFA Champions League}}||2||1{{efn|name=JCS}}||0||7||2
+|-
+!colspan="2"|Total
+!89!!9!!12!!1!!0!!0!!36!!5!!3!!0!!140!!15
+|-
+|rowspan="4"|[[Nottingham Forest F.C.|Nottingham Forest]]
+|[[2023–24 Nottingham Forest F.C. season|2023–24]]<ref>{{Soccerbase season|92918|2023|access-date=12 August 2023}}</ref>
+|[[Premier League]]
+|17||0||0||0||colspan="2"|—||colspan="2"|–||colspan="2"|–||17||0
+|-
+|[[2024–25 Nottingham Forest F.C. season|2024–25]]<ref>{{Soccerbase season|92918|2024|access-date=27 May 2025}}</ref>
+|Premier League
+|13||0||3||0||1||0||colspan="2"|–||colspan="2"|–||17||0
+|-
+|[[2025–26 Nottingham Forest F.C. season|2025–26]]<ref>{{Soccerbase season|92918|2025|access-date=17 August 2025}}</ref>
+|Premier League
+|28||2||0||0||1||0||14{{efn|name=UEL}}||0||colspan="2"|–||43||2
+|-
+!colspan="2"|Total
+!58!!2!!3!!0!!2!!0!!14!!0!!0!!0!!77!!2
+|-
+!colspan="3"|Career total
+!243!!13!!16!!1!!5!!0!!50!!5!!5!!0!!319!!19
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 28 March 2026}}<ref name="nft">{{NFT|61073}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="9"|[[Ivory Coast national football team|Ivory Coast]]
+|2015||2||1
+|-
+|2019||5||0
+|-
+|2020||1||0
+|-
+|2021||9||2
+|-
+|2022||11||5
+|-
+|2023||8||3
+|-
+|2024||7||0
+|-
+|2025||11||1
+|-
+|2026||3||0
+|-
+!colspan="2"|Total!!57!!12
+|}
+
+''Scores and results list Ivory Coast's goal tally first.''<ref name="nft"/>
+
+{| class="wikitable sortable"
+|+ List of international goals scored by Ibrahim Sangaré
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+|-
+| align="center"|1 || 18 October 2015 || [[Baba Yara Stadium]], [[Kumasi]], Ghana || {{fb|GHA}} || align="center"|1–0 || align="center"|1–2 || [[2016 African Nations Championship qualification]]
+|-
+| align="center"|2 || 5 June 2021 || [[Stade National de la Côte d'Ivoire|Stade National]], [[Abidjan]], Ivory Coast || {{fb|BFA}} || align="center"|1–1 || align="center"|2–1 || [[Friendly (association football)|Friendly]]
+|-
+| align="center"|3 || 8 October 2021 || [[Orlando Stadium]], [[Johannesburg]], South Africa || {{fb|MWI}} || align="center"|2–0 || align="center"|3–0 || [[2022 FIFA World Cup qualification – CAF second round|2022 FIFA World Cup qualification]]
+|- 
+| align="center"|4 || 20 January 2022 || [[Japoma Stadium]], [[Douala]], Cameroon || {{fb|ALG}} || align="center"|2–0 || align="center"|3–1 || [[2021 Africa Cup of Nations Group E|2021 Africa Cup of Nations]]
+|-
+| align="center"|5 || 3 June 2022 || [[Stade de Yamoussoukro]], [[Yamoussoukro]], Ivory Coast || {{fb|ZAM}} || align="center"|3–0 || align="center"|3–1 || [[2023 Africa Cup of Nations qualification Group H|2023 Africa Cup of Nations qualification]]
+|-
+| align="center"|6 || 27 September 2022 || [[Stade de la Licorne]], [[Amiens]], France || {{fb|GUI}} || align="center"|1–0 || align="center"|3–1 || Friendly
+|-
+| align="center"|7 || 16 November 2022 || [[Stade de Marrakech]], [[Marrakesh]], Morocco || {{fb|BDI}} || align="center"|3–0 || align="center"|4–0 || Friendly
+|-
+| align="center"|8 || 19 November 2022 || Stade de Marrakech, Marrakesh, Morocco || {{fb|BFA}} || align="center"|1–1 || align="center"|1–2 || Friendly
+|-
+| align="center"|9 || 28 March 2023 || Stade Omnisports de Malouzini, [[Moroni, Comoros|Moroni]], Comoros || {{fb|COM}} || align="center"|1–0 || align="center"|2–0 || 2023 Africa Cup of Nations qualification
+|-
+| align="center"|10 || 9 September 2023 || [[Laurent Pokou Stadium]], [[San-Pédro, Ivory Coast|San Pédro]], Ivory Coast || {{fb|LES}} || align="center"|1–0 || align="center"|1–0 || 2023 Africa Cup of Nations qualification
+|-
+|align="center"|11|| 17 November 2023 ||[[Alassane Ouattara Stadium]], [[Abidjan]], Ivory Coast || {{fb|SEY}} ||align="center"|2–0 ||align="center"|9–0 || [[2026 FIFA World Cup qualification – CAF Group F|2026 FIFA World Cup qualification]]
+|-
+|align="center"|12|| 10 October 2025 ||[[Côte d'Or National Sports Complex]], [[Saint Pierre, Mauritius|Saint Pierre]], Mauritius || {{fb|SEY}} ||align="center"|1–0 ||align="center"|7–0 || 2026 FIFA World Cup qualification
+|}
+
+==Honours==
+'''PSV'''
+*[[KNVB Cup]]: [[2021–22 KNVB Cup|2021–22]],<ref>{{cite web |date=17 April 2022 |title=PSV verrast Ajax met twee goals vlak na rust en wint KNVB-beker |url=https://nos.nl/artikel/2425523-psv-verrast-ajax-met-twee-goals-vlak-na-rust-en-wint-knvb-beker |access-date=30 December 2022 |website=NOS |language=nl}}</ref> [[2022–23 KNVB Cup|2022–23]]<ref name="NOS">{{cite web |date=30 April 2023 |title=PSV wint na strafschoppen van Ajax in bekerfinale vol irritaties en opstootjes |trans-title=PSV beats Ajax after penalty kicks in cup final full off irritations and fights |url=https://nos.nl/artikel/2473413-psv-wint-na-strafschoppen-van-ajax-in-bekerfinale-vol-irritaties-en-opstootjes |access-date=10 May 2023 |website=NOS |language=nl}}</ref>
+*[[Johan Cruyff Shield]]: [[2021 Johan Cruyff Shield|2021]],<ref>{{cite news 
+|url=https://int.soccerway.com/matches/2021/08/07/netherlands/super-cup/afc-ajax/psv-nv/3513238/
+|title=Super Cup 
+|website=Soccerway
+|access-date=10 August 2021}}</ref> [[2022 Johan Cruyff Shield|2022]],<ref name="JCSwin">{{cite web |date=30 July 2022 |title=Ajax – PSV |url=https://www.psv.nl/english-psv/matches/match/ajax-psv-30-07-2022.htm |publisher=PSV Eindhoven |access-date=30 July 2022 |archive-date=23 September 2022 |archive-url=https://web.archive.org/web/20220923024833/https://www.psv.nl/english-psv/matches/match/ajax-psv-30-07-2022.htm |url-status=dead }}</ref> [[2023 Johan Cruyff Shield|2023]]<ref>{{cite web |date=4 August 2023 |title=Lang beslist duel met Feyenoord en bezorgt PSV veertiende Johan Cruijff Schaal |trans-title=Long decided duel with Feyenoord and gives PSV fourteenth Johan Cruijff Shield |url=https://nos.nl/artikel/2485454-lang-beslist-duel-met-feyenoord-en-bezorgt-psv-veertiende-johan-cruijff-schaal |access-date=8 August 2023 |website=NOS |language=nl}}</ref>
+
+'''Ivory Coast U23'''
+*[[Africa U-23 Cup of Nations]] runner-up: [[2019 Africa U-23 Cup of Nations|2019]]<ref>{{cite web|url=http://www.fifciv.com/?q=can-u23-egypte-2019-voici-les-el%C3%A9phants-s%C3%A9lectionn%C3%A9s|title=CAN U23 "Egypte 2019" : Voici les Eléphants sélectionnés|publisher=FIF CIV|access-date=3 January 2020|archive-date=22 October 2020|archive-url=https://web.archive.org/web/20201022073744/http://www.fifciv.com/?q=can-u23-egypte-2019-voici-les-el%C3%A9phants-s%C3%A9lectionn%C3%A9s|url-status=dead}}</ref>
+
+'''Ivory Coast'''
+*[[Africa Cup of Nations]]: [[2023 Africa Cup of Nations|2023]]<ref>{{cite web |last=Stevens |first=Rob |date=11 February 2024 |title=Nigeria 1–2 Ivory Coast |url=https://www.bbc.com/sport/football/68196261 |access-date=14 February 2024 |work=BBC Sport}}</ref>
+
+'''Individual'''
+*[[Eredivisie Player of the Month]]: [[2021–22 Eredivisie#Monthly awards|November 2021]]<ref name=EPOM />
+*[[Eredivisie]] Team of the Month: [[2021–22 Eredivisie#Monthly awards|November 2021]],<ref name=EPOM /> December 2021<ref>{{cite news|url=https://eredivisie.eu/news/ajax-still-provides-most-players-for-the-team-of-the-month/|title=Ajax still provides most players for team of the month|date=14 January 2022|publisher=Eredivisie}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category}}
+* [https://www.nottinghamforest.co.uk/players/ibrahimsangar%C3%A9 Profile] at the Nottingham Forest F.C. website
+* {{Soccerway|ibrahima-sangare/405071}}
+* {{NFT player|61073}}
+* {{Lequipe|59809}}
+* {{WorldFootball.net|ibrahim-sangare_3}}
+* {{UEFA player}}
+
+{{Nottingham Forest F.C. squad}}
+{{Navboxes
+| title = Ivory Coast squads
+| bg = #F77F00
+| fg = white
+| bordercolor = #009E60
+| list1 = 
+{{Ivory Coast squad 2019 Africa Cup of Nations}}
+{{Ivory Coast squad 2021 Africa Cup of Nations}}
+{{Ivory Coast squad 2023 Africa Cup of Nations}}
+{{Ivory Coast squad 2025 Africa Cup of Nations}}
+{{Ivory Coast squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Sangaré, Ibrahim}}
+[[Category:1997 births]]
+[[Category:Living people]]
+[[Category:Men's association football midfielders]]
+[[Category:Ivorian men's footballers]]
+[[Category:Ivory Coast men's international footballers]]
+[[Category:Ivory Coast men's under-20 international footballers]]
+[[Category:Toulouse FC players]]
+[[Category:PSV Eindhoven players]]
+[[Category:Nottingham Forest F.C. players]]
+[[Category:Ligue 1 players]]
+[[Category:Ligue 2 players]]
+[[Category:Championnat National 3 players]]
+[[Category:Eredivisie players]]
+[[Category:Premier League players]]
+[[Category:2019 Africa Cup of Nations players]]
+[[Category:2021 Africa Cup of Nations players]]
+[[Category:2023 Africa Cup of Nations players]]
+[[Category:2025 Africa Cup of Nations players]]
+[[Category:2026 FIFA World Cup players]]
+[[Category:Africa Cup of Nations–winning players]]
+[[Category:Ivorian expatriate men's footballers]]
+[[Category:Ivorian people of Nigerian descent]]
+[[Category:Ivorian expatriate sportspeople in France]]
+[[Category:Ivorian expatriate sportspeople in the Netherlands]]
+[[Category:Expatriate men's footballers in France]]
+[[Category:Expatriate men's footballers in the Netherlands]]
+[[Category:Ivorian expatriate sportspeople in England]]
+[[Category:Expatriate men's footballers in England]]
+[[Category:21st-century Ivorian sportsmen]]

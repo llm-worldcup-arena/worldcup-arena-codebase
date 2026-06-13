@@ -1,0 +1,16 @@
+{
+ "team": "GHA",
+ "source": "Olympics.com",
+ "url": "https://www.olympics.com/en/news/fifa-world-cup-2026-ghana-all-players-full-squad-list-key-stats-schedule",
+ "title": "Ghana at FIFA World Cup 2026: All players, full squad list, key stats and schedule",
+ "news_date": "2026-06-10",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-10",
+ "fetched": "2026-06-13_0638",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Ghana at FIFA World Cup 2026: All players, full squad list, key stats and schedule\nQuick facts\nCaptain: Jordan Ayew\nManager: Carlos Queiroz\nWorld Cup appearances (including 2026): 5\nBest World Cup result: Quarter-finals (2010)\nGoalkeepers: Benjamin Asare (Accra Hearts of Oak), Lawrence Ati-Zigi (St. Gallen), Joseph Anang (St. Patrick’s Athletic)\nDefenders: Baba Abdul Rahman (PAOK), Derrick Luckassen (Pafos), Gideon Mensah (Auxerre), Marvin Senaya (Auxerre), Alidu Seidu (Rennes), Abdul Mumin (Rayo Vallecano), Jerome Opoku (Istanbul Basaksehir), Jonas Adjetey (VfL Wolfsburg), Kojo Oppong Peprah (OGC Nice)\nMidfielders: Thomas Partey (Villarreal), Kamaldeen Sulemana (Atalanta BC), Kwasi Sibo (Real Oviedo), Augustine Boakye (Saint-Etienne), Caleb Yirenkyi (FC Nordsjaelland), Abdul Fatawu Issahaku (Leicester City), Elisha Owusu (Auxerre)\nForwards: Christopher Bonsu Baah (Al Qadsiah), Ernest Nuamah (Lyon), Antoine Semenyo (Manchester City), Brandon Thomas-Asante (Coventry City), Prince Kwabena Adu (Viktoria Plzen), Iñaki Williams (Athletic Club), Jordan Ayew (Leicester City)",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

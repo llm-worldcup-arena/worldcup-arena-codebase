@@ -1,0 +1,16 @@
+{
+ "team": "PAR",
+ "source": "FútbolFantasy",
+ "url": "https://www.futbolfantasy.com/world-cup/noticias/145207-paraguay-rebaja-la-alarma-con-julio-enciso",
+ "title": "Paraguay rebaja la alarma con Julio Enciso - FútbolFantasy",
+ "news_date": "2026-06-13",
+ "published": null,
+ "tier": "3",
+ "lang": "es",
+ "asof": "2026-06-13",
+ "fetched": "2026-06-13_0637",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Paraguay respira con algo más de calma por Julio Enciso, aunque mantiene la prudencia. El delantero tuvo que abandonar el amistoso ante Nicaragua a los 25 minutos, atendido por los médicos, entre lágrimas y sustituido por Mauricio Prado. La primera imagen fue inquietante y en la prensa paraguaya llegaron a circular versiones que apuntaban a una posible rotura fibrilar en el muslo derecho, un escenario que habría comprometido seriamente su estreno mundialista.\nEl parte oficial de la Albirroja, sin embargo, rebajó la alarma: los estudios confirmaron una contusión muscular en el muslo derecho, producto de un golpe. Enciso queda bajo seguimiento permanente del cuerpo médico y su vuelta dependerá de la respuesta al tratamiento. La imagen de ABC mostrándolo caminando al subir al avión ofrece una señal menos grave, pero no equivale al alta. Paraguay decidirá según su evolución en los próximos entrenamientos.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

@@ -1,0 +1,16 @@
+{
+ "team": "CRO",
+ "source": "FOX Sports",
+ "url": "https://www.foxsports.com/stories/soccer/josko-gvardiol-returns-man-city-training-world-cup-croatia",
+ "title": "Croatia's Josko Gvardiol Back in Time for World Cup, 4 Months After Broken Leg | FOX Sports",
+ "news_date": "2026-06-13",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-13",
+ "fetched": "2026-06-13_0637",
+ "method": "jsonld:articleBody",
+ "status": "ok",
+ "original_text": "Manchester City star Josko Gvardiol is back in training after four months out with a broken leg, with Pep Guardiola saying Friday he hopes the defender is ready to \"make a good World Cup\" with Croatia. Gvardiol underwent surgery after sustaining a fracture to his right leg in the 1-1 draw with Chelsea in the Premier League on Jan. 4. It left in doubt Gvardiol's availability for the World Cup starting June 11, but Guardiola said the versatile defender is \"feeling good\" after being seen taking part in a practice session on Thursday. \"Last season he was the important player for us when we had many injuries — he played all the games and, in the end, the body says enough is enough,\" Guardiola said. \"Happy he is back. Hopefully he can help us in the last part of the season and make a good World Cup with Croatia and next season we can have him again at his best.\" City plays Brentford in the Premier League on Saturday and Guardiola said there was a chance Rodri might be back after a hamstring injury caused the Spain midfielder to miss the last three games, including the costly 3-3 draw at Everton on Monday. That left second-place City five points behind Arsenal, with a game in hand. Arsenal has three matches remaining and has regained pole position in the title race. City also plays Chelsea in the FA Cup final on May 16. Reporting by The Associated Press.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

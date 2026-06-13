@@ -1,0 +1,344 @@
+{
+ "match_id": 4697696,
+ "date": "2026-06-11",
+ "comp": "小组赛·A组",
+ "ha_home": "中",
+ "home": "South Korea",
+ "away": "Czechia",
+ "score": "2-1",
+ "venue": "Estadio AKRON (Guadalajara)",
+ "attendance": 44985,
+ "goals": [
+  {
+   "min": 59,
+   "side": "away",
+   "player": "Ladislav Krejčí",
+   "sub": null
+  },
+  {
+   "min": 67,
+   "side": "home",
+   "player": "In-beom Hwang",
+   "sub": null
+  },
+  {
+   "min": 80,
+   "side": "home",
+   "player": "Oh Hyeon-Gyu",
+   "sub": null
+  }
+ ],
+ "cards": [
+  {
+   "min": 90,
+   "side": "home",
+   "player": "Gi-hyuk Lee",
+   "type": "黄牌"
+  }
+ ],
+ "stats": {
+  "射门": [
+   "15",
+   "7"
+  ],
+  "射正": [
+   "6",
+   "4"
+  ],
+  "禁区内射门": [
+   "5",
+   "3"
+  ],
+  "扑救": [
+   "4",
+   "0"
+  ],
+  "角球": [
+   "4",
+   "5"
+  ],
+  "越位": [
+   "2",
+   "2"
+  ],
+  "控球%": [
+   "62%",
+   "38%"
+  ],
+  "传中": [
+   "98",
+   "90"
+  ],
+  "传球": [
+   "468",
+   "229"
+  ],
+  "xG预期进球": [
+   "1.62",
+   "0.44"
+  ],
+  "xGOT/大机会": [
+   "2.05",
+   "1.64"
+  ]
+ },
+ "lineups": {
+  "home": [
+   {
+    "no": 1,
+    "name": "Seung-Gyu Kim"
+   },
+   {
+    "no": 3,
+    "name": "Gi-hyuk Lee"
+   },
+   {
+    "no": 4,
+    "name": "Kim Min-Jae"
+   },
+   {
+    "no": 2,
+    "name": "Han-beom Lee"
+   },
+   {
+    "no": 13,
+    "name": "Tae-seok Lee"
+   },
+   {
+    "no": 8,
+    "name": "Seung-Ho Paik"
+   },
+   {
+    "no": 6,
+    "name": "In-beom Hwang"
+   },
+   {
+    "no": 22,
+    "name": "Young-woo Seol"
+   },
+   {
+    "no": 10,
+    "name": "Lee Jae-Sung"
+   },
+   {
+    "no": 19,
+    "name": "Lee Kang-in"
+   },
+   {
+    "no": 7,
+    "name": "Heung-Min Son"
+   },
+   {
+    "no": 25,
+    "name": "Ji-sung Eom"
+   },
+   {
+    "no": 11,
+    "name": "Hwang Hee-Chan"
+   },
+   {
+    "no": 24,
+    "name": "Jin-gyu Kim"
+   },
+   {
+    "no": 18,
+    "name": "Oh Hyeon-Gyu"
+   },
+   {
+    "no": 16,
+    "name": "Jin-seob Park"
+   },
+   {
+    "no": 17,
+    "name": "Joon-ho Bae"
+   },
+   {
+    "no": 5,
+    "name": "Kim Tae-Hyeon"
+   },
+   {
+    "no": 23,
+    "name": "Jens Castrop"
+   },
+   {
+    "no": 14,
+    "name": "Wi-je Cho"
+   },
+   {
+    "no": 9,
+    "name": "Cho Gue-Sung"
+   },
+   {
+    "no": 21,
+    "name": "Hyeon-woo Jo"
+   },
+   {
+    "no": 15,
+    "name": "Moon-hwan Kim"
+   },
+   {
+    "no": 26,
+    "name": "Dong-Gyeong Lee"
+   },
+   {
+    "no": 12,
+    "name": "Bum-keun Song"
+   },
+   {
+    "no": 20,
+    "name": "Hyun-jun Yang"
+   }
+  ],
+  "away": [
+   {
+    "no": 1,
+    "name": "Matej Kovar"
+   },
+   {
+    "no": 7,
+    "name": "Ladislav Krejčí"
+   },
+   {
+    "no": 4,
+    "name": "Robin Hranáč"
+   },
+   {
+    "no": 6,
+    "name": "Štěpán Chaloupek"
+   },
+   {
+    "no": 20,
+    "name": "Jaroslav Zeleny"
+   },
+   {
+    "no": 24,
+    "name": "Alexandr Sojka"
+   },
+   {
+    "no": 22,
+    "name": "Tomas Soucek"
+   },
+   {
+    "no": 5,
+    "name": "Vladimir Coufal"
+   },
+   {
+    "no": 15,
+    "name": "Pavel Šulc"
+   },
+   {
+    "no": 17,
+    "name": "Lukas Provod"
+   },
+   {
+    "no": 10,
+    "name": "Patrik Schick"
+   },
+   {
+    "no": 19,
+    "name": "Tomas Chorý"
+   },
+   {
+    "no": 13,
+    "name": "Mojmir Chytil"
+   },
+   {
+    "no": 9,
+    "name": "Adam Hložek"
+   },
+   {
+    "no": 18,
+    "name": "Michal Sadilek"
+   },
+   {
+    "no": 8,
+    "name": "Vladimir Darida"
+   },
+   {
+    "no": 21,
+    "name": "David Doudera"
+   },
+   {
+    "no": 3,
+    "name": "Tomas Holeš"
+   },
+   {
+    "no": 23,
+    "name": "Lukas Hornicek"
+   },
+   {
+    "no": 14,
+    "name": "David Jurasek"
+   },
+   {
+    "no": 11,
+    "name": "Jan Kuchta"
+   },
+   {
+    "no": 25,
+    "name": "Hugo Sochůrek"
+   },
+   {
+    "no": 16,
+    "name": "Jindřich Staněk"
+   },
+   {
+    "no": 26,
+    "name": "Denis Visinsky"
+   },
+   {
+    "no": 2,
+    "name": "David Zima"
+   },
+   {
+    "no": 12,
+    "name": "Lukáš Cerv"
+   }
+  ]
+ },
+ "missing": [],
+ "events": [
+  {
+   "min": 59,
+   "side": "away",
+   "type": "进球",
+   "sub": null,
+   "player": "Ladislav Krejčí"
+  },
+  {
+   "min": 67,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "In-beom Hwang"
+  },
+  {
+   "min": 78,
+   "side": "away",
+   "type": "T4",
+   "sub": "乌龙",
+   "player": "Goal Disallowed"
+  },
+  {
+   "min": 80,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Oh Hyeon-Gyu"
+  },
+  {
+   "min": 90,
+   "side": "home",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Gi-hyuk Lee"
+  }
+ ],
+ "injuries": [],
+ "suspensions": [],
+ "ratings": {},
+ "quotes": [],
+ "narrative": "",
+ "prediction_note": "",
+ "_note": "macheta/Sofascore 权威硬数据；injuries/suspensions/ratings/quotes/narrative/prediction_note 待 agent WebSearch 补。"
+}

@@ -1,0 +1,2026 @@
+{{Short description|none}}
+{{Use dmy dates|date=August 2022}}
+{{Infobox international football competition
+| tourney_name   = 2026 FIFA World Cup qualification (CONMEBOL)
+| dates          = {{nowrap|7 September 2023 – 9 September 2025}}
+| num_teams      = 10
+| confederations = 1
+| matches        = 90
+| goals          = 183
+| attendance     = {{#expr: <!--Matchday 1--> 16211 + 43084 + 82500 + 49713 + 48183 + <!--Matchday 2--> 38000 + 35613 + 48523 + 22153 + 36328 + <!--Matchday 3--> 43915 + 34200 + 80000 + 36847 + 39018 + <!--Matchday 4--> 50932 + 30681 + 38702 + 52477 + 37675 + <!--Matchday 5--> 28000 + 51083 + 44604 + 49000 + 30076 +<!--Matchday 6--> 25298 + 46100 + 36873 + 68138 + 27323 + <!--Matchday 7--> 20500 + 52160 + 47741 + 36914 + 40000 + <!--Matchday 8--> 45000 + 40000 + 35000 + 50000 + 31962 + <!--Matchday 9--> 17191 + 31000 + 50000 + 43059 + 43000 + <!--Matchday 10--> 45000 + 28531 + 27112 + 60000 + 60139 + <!--Matchday 11--> 40223 + 32200 + 30758 + 33400 + 47122 + <!--Matchday 12--> 18655 + 37316 + 52000 + 31906 + 41511 + <!--Matchday 13--> 31139 + 70027 + 33683 + 41575 + 55000 + <!--Matchday 14--> 10723 + 42262 + 33683 + 85015 + 38996 + <!--Matchday 15--> 30005 + 45000 + 59283 + 43933 + 46741 + <!--Matchday 16--> 11467 + 29672 + 77791 + 43316 + 33749 + <!--Matchday 17--> 76490 + 57326 + <!--Matchday 18--> 0}}
+| top_scorer     = {{fbicon|ARG}} [[Lionel Messi]] (8 goals)
+| prevseason     = [[2022 FIFA World Cup qualification (CONMEBOL)|2022]]
+| nextseason     = ''2030''
+| updated        = 
+}}
+{{Qualification for championships (CONMEBOL)}}
+
+The South American section of the '''[[2026 FIFA World Cup qualification]]''' acted as qualifiers for the [[2026 FIFA World Cup]] to be held in Canada, Mexico, and the United States for national teams who are members of [[CONMEBOL]]. A total of 6 direct slots in the final tournament and 1 inter-confederation play-off slot were available for CONMEBOL teams.<ref>{{cite web|url=https://www.fifa.com/about-fifa/organisation/media-releases/bureau-of-the-council-recommends-slot-allocation-for-the-2026-fifa-wor-2878254|title=Bureau of the Council recommends slot allocation for the 2026 FIFA World Cup|publisher=FIFA|date=30 March 2017}}</ref><ref>{{cite web|url=https://www.fifa.com/about-fifa/organisation/fifa-council/media-releases/fifa-council-prepares-congress-takes-key-decisions-for-the-future-of-t-2883353|title=FIFA Council prepares Congress, takes key decisions for the future of the FIFA World Cup|publisher=FIFA|date=9 May 2017}}</ref>
+
+CONMEBOL was the first confederation to begin its qualification process for the 2026 FIFA World Cup, with [[#PAR v PER|Paraguay–Peru]] being the first match of the global qualification process.<ref>{{cite web|url=https://www.fifa.com/fifaplus/en/articles/road-to-world-cup-26-qualifiers-usa-canada-mexico|title=Road to the FIFA World Cup 26 set to begin|publisher=FIFA|date=28 August 2023}}</ref><ref>{{cite web|url=https://www.fifa.com/tournaments/mens/worldcup/canadamexicousa2026/news/journey-to-historic-fifa-world-cup-2026-tm-kicks-off-in-south-america|title=CONMEBOL kick off journey of "great joy and happiness" to historic FIFA World Cup 2026™, says FIFA President|publisher=FIFA|date=7 September 2023}}</ref>
+
+==Format==
+On 22 August 2022, CONMEBOL sent a request to FIFA asking to keep the current qualification format that had been used since the 1998 World Cup qualification in South America.<ref>{{cite web|title=Conselho da Conmebol solicita à Fifa que mantenha formato atual das Eliminatórias para 2026|url=https://ge.globo.com/futebol/copa-do-mundo/eliminatorias-america-do-sul/noticia/2022/08/22/conselho-da-conmebol-solicita-a-fifa-que-mantenha-formato-atual-das-eliminatorias-para-2026.ghtml|language=pt|date=22 August 2022|publisher=globo.com|website=ge|access-date=23 August 2022|archive-date=23 August 2022|archive-url=https://web.archive.org/web/20220823100439/https://ge.globo.com/futebol/copa-do-mundo/eliminatorias-america-do-sul/noticia/2022/08/22/conselho-da-conmebol-solicita-a-fifa-que-mantenha-formato-atual-das-eliminatorias-para-2026.ghtml|url-status=live}}</ref><ref>{{cite web|title=CONMEBOL's petition for the 2026 World Cup that could change FIFA's entire plans|url=https://bolavip.com/en/soccer/conmebol-petition-for-the-2026-world-cup-that-could-change-fifa-entire-plans-20220822-0039.html|date=22 August 2022|website=Bolavip|access-date=23 August 2022|archive-date=3 September 2022|archive-url=https://web.archive.org/web/20220903205932/https://bolavip.com/en/soccer/conmebol-petition-for-the-2026-world-cup-that-could-change-fifa-entire-plans-20220822-0039.html|url-status=live}}</ref><ref>{{cite web|title=Países sudamericanos pedirán a la FIFA mantener el formato de las Eliminatorias|url=https://www.conmebol.com/noticias/paises-sudamericanos-pediran-a-la-fifa-mantener-el-formato-de-las-eliminatorias/|language=es|date=22 August 2022|publisher=[[CONMEBOL]]|access-date=23 August 2022|archive-date=3 September 2022|archive-url=https://web.archive.org/web/20220903055033/https://www.conmebol.com/noticias/paises-sudamericanos-pediran-a-la-fifa-mantener-el-formato-de-las-eliminatorias/|url-status=live}}</ref> This was confirmed, with the first games of the qualifiers tentatively to be played in March or June 2023.<ref>{{cite web|url=https://bolavip.com/pe/seleccionperuana/Seleccion-Peruana-se-confirmo-fecha-y-formato-Eliminatorias-Sudamericanas-2026-mundial--20221001-0010.html|title=Conmebol confirmó fecha para el inicio de las Eliminatorias 2026|language=es|date=4 October 2022|website=Bolavip|access-date=12 December 2022|archive-date=16 October 2022|archive-url=https://web.archive.org/web/20221016102441/https://bolavip.com/pe/seleccionperuana/Seleccion-Peruana-se-confirmo-fecha-y-formato-Eliminatorias-Sudamericanas-2026-mundial--20221001-0010.html|url-status=live}}</ref><ref>{{cite web|url=https://www.ecuavisa.com/deportes/futbol-internacional/eliminatorias-conmebol-iniciarian-en-junio-del-2023-primera-fecha-fifa-seria-en-marzo-EX3909503|title=Eliminatorias Conmebol iniciarían en junio del 2023; primera fecha FIFA sería en marzo|publisher=[[Ecuavisa]]|last=Verdezoto|first=Kevin|date=8 December 2022|access-date=22 March 2023|language=es}}</ref><ref>{{cite web|url=https://www.futbolred.com/selecciones-nacionales/eliminatorias-conmebol-2026-comenzarian-en-junio-2023-fechas-fifa-de-marzo-serian-para-amistosos-173305|title=Eliminatorias 2026: ¿cuándo arranca la clasificatoria sudamericana?|publisher=Futbolred|date=28 December 2022|access-date=22 March 2023|language=es}}</ref>
+
+On 27 February 2023, CONMEBOL president [[Alejandro Domínguez (football executive)|Alejandro Domínguez]] announced that the qualifiers would start in September 2023,<ref>{{cite web|url=https://www.ole.com.ar/ecuador/internacional/inicio-eliminatorias-sudamericanas-alejandro-domingez-conmebol_0_7jduA0XaIm.html|title=Eliminatorias Sudamericanas iniciarán entre septiembre y octubre|publisher=[[Olé (sports newspaper)|Olé]]|date=27 February 2023|access-date=22 March 2023|language=es}}</ref><ref>{{cite web|url=https://www.directvsports.com/futbol/Alejandro-Dominguez-confirmo-que-las-Eliminatorias-comenzaran-en-septiembre-20230227-0046.html|title=Alejandro Domínguez confirmó que las Eliminatorias comenzarán en septiembre|publisher=Directv Sports|date=27 February 2023|access-date=22 March 2023|language=es}}</ref> which was ratified by the CONMEBOL Council in the run-up to the 73rd [[FIFA Congress]] held on 16 March in [[Kigali]], [[Rwanda]].<ref>{{cite web|url=https://www.dobleamarilla.com.ar/america/el-consejo-de-conmebol-aprobo-por-unanimidad-el-inicio-de-las-eliminatorias-en-septiembre_a6411aeca0874bfa4779c8ce6|title=El Consejo de Conmebol aprobó por unanimidad el inicio de las Eliminatorias en septiembre|publisher=Doble Amarilla|date=15 March 2023|access-date=22 March 2023|language=es}}</ref><ref>{{cite web|url=https://www.americatv.com.pe/deportes/futbol-mundial/conmebol-definio-calendario-eliminatorias-rumbo-al-mundial-2026-n434827|title=Conmebol definió el calendario para las Eliminatorias rumbo al Mundial 2026|publisher=[[América Televisión]]|date=15 March 2023|access-date=22 March 2023|language=es}}</ref>
+
+The qualification structure remained the same as in previous editions (despite the increase of slots available to CONMEBOL teams), wherein each team played each other team twice in a home-and-away [[Round-robin tournament|round-robin]] format.<ref name="match schedule">{{cite web|url=https://www.conmebol.com/noticias/el-calendario-de-partidos-para-las-eliminatorias-sudamericanas/|title=El calendario de partidos para las Eliminatorias Sudamericanas|publisher=[[CONMEBOL]]|date=22 March 2023|access-date=22 March 2023|language=es}}</ref>
+
+Prior to the commencement of the qualification competition, [[Ecuador national football team|Ecuador]] were deducted 3 points for the use of a document containing false information for [[Byron Castillo]] in the [[2022 FIFA World Cup qualification (CONMEBOL)|previous]] World Cup qualification cycle.<ref name="ecuador_deduction1">{{cite web |url=https://www.tas-cas.org/fileadmin/user_upload/CAS_Media_Release_9175_9176_Decision.pdf |title=The CAS confirms the eligibility of the player Byron Castillo (Ecuador) but imposes sanctions against the Ecuadorian Football Federation for a violation of the FIFA regulations |work=Court of Arbitration for Sport |date=8 November 2022 |access-date=12 December 2022 |archive-date=3 December 2022 |archive-url=https://web.archive.org/web/20221203052908/https://www.tas-cas.org/fileadmin/user_upload/CAS_Media_Release_9175_9176_Decision.pdf |url-status=live }}</ref>
+
+==Schedule==
+The qualifying matches were held on a total of 18 matchdays on dates that fall within the [[FIFA International Match Calendar]].<ref>{{cite web|url=https://digitalhub.fifa.com/m/3123d37097318f7f/original/Men-s-International-Match-Calendar-2023-2030_EN.pdf|title=Men's International Match Calendar 2023-2030|publisher=FIFA|access-date=14 September 2023|date=4 April 2023}}</ref> The match schedule was same that was used in the [[2022 FIFA World Cup qualification (CONMEBOL)|previous edition]] of the competition. Six matchdays were played in each of 2023, 2024, and 2025.<ref name="match schedule"/>
+
+{|
+|valign=top|
+{|class="wikitable"
+|+2023
+!Matchday
+!Date
+!{{abbr|Ref.|Reference}}
+|-
+|Matchday 1
+|7–8 September 2023
+|rowspan=2|<ref>{{cite web|url=https://www.conmebol.com/noticias/fixture-para-las-eliminatorias-sudamericanas/|title=Regresan las Eliminatorias Sudamericanas|publisher=CONMEBOL|date=2 August 2023|language=es}}</ref><ref>{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2023/08/Eliminatorias-FWC2026-Calendario-de-Partidos_Jornadas-1-y-2-1.pdf|title=Eliminatorias FWC2026 Calendario de Partidos Jornadas 1 y 2|publisher=CONMEBOL|date=2 August 2023|access-date=14 September 2023|language=es}}</ref>
+|-
+|Matchday 2
+|12 September 2023
+|-
+|Matchday 3
+|12 October 2023
+|rowspan=2|<ref>{{cite web|url=https://www.conmebol.com/noticias/el-calendario-para-las-fechas-3-y-4-de-las-eliminatorias-sudamericanas/|title=Fechas 3 y 4 de las Eliminatorias Sudamericanas|publisher=CONMEBOL|date=23 August 2023|language=es}}</ref><ref name="October_PDF">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2023/08/Eliminatorias-FWC2026-Calendario-de-Partidos_Jornadas-3-y-4.pdf|title=Eliminatorias FWC2026 Calendario de Partidos Jornadas 3 y 4|publisher=CONMEBOL|date=23 August 2023|access-date=14 September 2023|language=es}}</ref>
+|-
+|Matchday 4
+|17 October 2023
+|-
+|Matchday 5
+|16 November 2023
+|rowspan=2|<ref>{{cite web|url=https://www.conmebol.com/noticias/el-fixture-para-las-fechas-5-y-6/|title=El Fixture para las Fechas 5 y 6|publisher=CONMEBOL|date=9 October 2023|language=es}}</ref><ref>{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2023/10/Eliminatorias-FWC2026-Calendario-de-Partidos_Jornadas-5-y-6_v3.pdf|title=Eliminatorias FWC2026 Calendario de Partidos Jornadas 5 y 6|publisher=CONMEBOL|date=9 October 2023|access-date=10 October 2023|language=es}}</ref>
+|-
+|Matchday 6
+|21 November 2023
+|}
+|valign=top|
+{|class="wikitable"
+|+2024
+!Matchday
+!Date
+!{{abbr|Ref.|Reference}}
+|-
+|Matchday 7
+|5–6 September 2024
+|rowspan=2|<ref>{{cite web|url=https://www.conmebol.com/noticias/fixture-de-las-fechas-7-y-8-de-las-eliminatorias-sudamericanas/|title=Fixture de las Fechas 7 y 8 de las Eliminatorias Sudamericanas|publisher=CONMEBOL|date=2 August 2024|language=es|archive-url=https://web.archive.org/web/20240802184425/https://www.conmebol.com/noticias/fixture-de-las-fechas-7-y-8-de-las-eliminatorias-sudamericanas/|archive-date=2 August 2024|url-status=dead}}</ref><ref name="7-8 pdf">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2024/08/Eliminatorias-FWC2026-Calendario-de-Partidos_Jornadas-7-y-8.pdf|title=Eliminatorias FWC2026 Calendario de Partidos Jornadas 7 y 8|publisher=CONMEBOL|date=1 August 2024|access-date=2 August 2024|language=es}}</ref><br/><ref>{{cite web|url=https://www.conmebol.com/noticias/fixture-de-las-fechas-7-8-de-las-eliminatorias-sudamericanas/|title=Fixture de las Fechas 7 y 8 de las Eliminatorias Sudamericanas|publisher=CONMEBOL|date=5 August 2024|language=es}}</ref><ref name="7-8 v2 pdf">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2024/08/Eliminatorias-FWC2026-Calendario-de-Partidos_Jornadas-7-y-8_v2-1.pdf|title=Eliminatorias FWC2026 Calendario de Partidos Jornadas 7 y 8 (versión 03-ago-2024)|publisher=CONMEBOL|date=2 August 2024|access-date=5 August 2024|language=es}}</ref><ref name="7-8 v4 pdf">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2024/08/Eliminatorias-FWC2026-Calendario-de-Partidos_Jornadas-7-y-8_v4.pdf|title=Eliminatorias FWC2026 Calendario de Partidos Jornadas 7 y 8 (versión 16-ago-2024)|publisher=CONMEBOL|date=18 August 2024|access-date=20 August 2024|language=es}}</ref>
+|-
+|Matchday 8
+|10 September 2024
+|-
+|Matchday 9
+|10–11 October 2024
+|rowspan=2|<ref>{{cite web|url=https://www.conmebol.com/noticias/fixture-de-las-fechas-9-y-10-de-las-eliminatorias-sudamericanas/|title=Fixture de las Fechas 9 y 10|publisher=CONMEBOL|date=19 September 2024|language=es}}</ref><ref>{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2024/09/Eliminatorias-FWC2026-Calendario-de-Partidos_Jornadas-9-y-10.pdf|title=Eliminatorias FWC2026 Calendario de Partidos Jornadas 9 y 10|publisher=CONMEBOL|date=22 August 2024|access-date=19 September 2024|language=es}}</ref>
+|-
+|Matchday 10
+|15 October 2024
+|-
+|Matchday 11
+|14–15 November 2024
+|rowspan=2|<ref>{{cite web|url=https://www.conmebol.com/noticias/fixture-de-las-fechas-11-y-12/|title=Fixture de las Fechas 11 y 12|publisher=CONMEBOL|date=15 October 2024|language=es}}</ref><ref name="11-12 pdf">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2024/10/Eliminatorias-FWC2026-Calendario-de-Partidos_Jornadas-11-y-12.pdf|title=Eliminatorias FWC2026 Calendario de Partidos Jornadas 11 y 12|publisher=CONMEBOL|date=11 October 2024|access-date=14 October 2024|language=es}}</ref><ref name="11-12 pdf2">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2024/11/Eliminatorias-FWC2026-Calendario-de-Partidos_Jornadas-11-y-12_v3.pdf|title=Eliminatorias FWC2026 Calendario de Partidos Jornadas 11 y 12 (Versión 08-nov-2024)|publisher=CONMEBOL|date=8 November 2024|access-date=11 November 2024|language=es}}</ref>
+|-
+|Matchday 12
+|19 November 2024
+|}
+|valign=top|
+{|class="wikitable"
+|+2025
+!Matchday
+!Date
+!{{abbr|Ref.|Reference}}
+|-
+|Matchday 13
+|20–21 March 2025
+|rowspan=2|<ref>{{cite web|url=https://www.conmebol.com/noticias/fixture-de-las-fechas-13-y-4-de-las-eliminatorias-sudamericanas/|title=Fixture de las Fechas 13 y 14 de las Eliminatorias Sudamericanas|publisher=CONMEBOL|date=31 January 2025|language=es}}</ref><ref>{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2025/01/Eliminatorias-FWC2026-Calendario-de-Partidos_Jornadas-13-y-14_v2.pdf|title=ELIMINATORIAS SUDAMERICANAS PARA LA COPA MUNDIAL DE LA FIFA 2026™ {{!}} CALENDARIO DE PARTIDOS {{!}} Departamento de Competiciones y Operaciones {{!}} Versión de 31-ene-2025|publisher=CONMEBOL|date=31 January 2025|access-date=31 January 2025|language=es}}</ref>
+|-
+|Matchday 14
+|25 March 2025
+|-
+|Matchday 15
+|5–6 June 2025
+|rowspan=2|<ref>{{cite web|url=https://www.conmebol.com/noticias/fixture-de-las-fechas-15-y-16-de-las-eliminatorias-sudamericanas/|title=Fixture de las Fechas 15 y 16 de las Eliminatorias Sudamericanas|publisher=CONMEBOL|date=2 May 2025|language=es}}</ref><ref>{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2025/05/Eliminatorias-FWC2026-%E2%80%93-Calendario-de-Partidos_Jornadas-15-y-16_v1.pdf|title=ELIMINATORIAS SUDAMERICANAS PARA LA COPA MUNDIAL DE LA FIFA 2026™ {{!}} CALENDARIO DE PARTIDOS {{!}} Departamento de Competiciones y Operaciones {{!}} Versión 01-may-2025|publisher=CONMEBOL|date=1 May 2025|access-date=2 May 2025|language=es}}</ref>
+|-
+|Matchday 16
+|10 June 2025
+|-
+|Matchday 17
+|4 September 2025
+|rowspan=2|<ref>{{cite web|url=https://www.conmebol.com/noticias/fixture-de-las-fechas-17-y-18-de-las-eliminatorias-sudamericanas/|title=Fixture de las Fechas 17 y 18 de las Eliminatorias Sudamericanas|publisher=CONMEBOL|date=8 July 2025|access-date=8 July 2025|language=es}}</ref><ref>{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2025/07/Eliminatorias-FWC2026-%E2%80%93-Calendario-de-Partidos_Jornadas-17-y-18_v1.pdf|title=ELIMINATORIAS SUDAMERICANAS PARA LA COPA MUNDIAL DE LA FIFA 2026™ {{!}} CALENDARIO DE PARTIDOS {{!}} Departamento de Competiciones y Operaciones {{!}} Versión 05-jul-2025|publisher=CONMEBOL|date=5 July 2025|access-date=8 July 2025|language=es}}</ref>
+|-
+|Matchday 18
+|9 September 2025
+|}
+|}
+
+==Entrants==
+All 10 national teams from CONMEBOL entered qualification.
+
+{| class="wikitable sortable" style="text-align: left;"
+|-
+! Team
+! [[FIFA Men's World Ranking|FIFA ranking]]<br /> as of July 2023<ref>{{cite web |url=https://www.fifa.com/fifa-world-ranking/men?dateId=id14079 |title=FIFA Men's Ranking |publisher=FIFA.com |date=20 July 2023}}</ref>
+|-<!-- DO NOT CHANGE THE VALUES IN THIS TABLE -->
+| {{fb|ARG}} || 1
+|-
+| {{fb|BRA}} || 3
+|-
+| {{fb|URU}} || 16
+|-
+| {{fb|COL}} || 17
+|-
+| {{fb|PER}} || 21
+|-
+| {{fb|CHI}} || 32
+|-
+| {{fb|ECU}} || 40
+|-
+| {{fb|PAR}} || 49
+|-
+| {{fb|VEN}} || 57
+|-
+| {{fb|BOL}} || 83
+|}
+
+==Standings==
+{{2026 FIFA World Cup qualification – CONMEBOL table|show_matches=yes}}
+
+==Matches==
+===Matchday 1===
+{{Football box
+|id         = PAR v PER
+|date       = {{Start date|2023|9|7|df=y}}
+|time       = {{UTZ|18:30|-4}}
+|team1      = {{fb-rt|PAR}}
+|score      = 0–0
+|team2      = {{fb|PER}}
+|goals1     = 
+|goals2     = 
+|stadium    = [[Estadio Antonio Aranda]], [[Ciudad del Este]]
+|attendance = 16,211
+|referee    = [[Andrés Matonte]] ([[Uruguayan Football Association|Uruguay]])
+|report     = [https://www.fifa.com/fifaplus/en/match-centre/match/520/288315/288316/400017275 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido/?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=e3c8ouyzniiwlx6cik3nb9qms Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = COL v VEN
+|date       = {{Start date|2023|9|7|df=y}}
+|time       = {{UTZ|18:00|-5}}
+|team1      = {{fb-rt|COL}}
+|score      = 1–0
+|team2      = {{fb|VEN}}
+|goals1     = [[Rafael Santos Borré|Borré]] {{goal|46}}
+|goals2     = 
+|stadium    = [[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]] 
+|attendance = 43,084
+|referee    = [[Anderson Daronco]] ([[Brazilian Football Confederation|Brazil]])
+|report     = [https://www.fifa.com/fifaplus/en/match-centre/match/520/288315/288316/400017276 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=e4tdterfjewigkanc2m7m50yc Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = ARG v ECU
+|date       = {{Start date|2023|9|7|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = {{fb-rt|ARG}}
+|score      = 1–0
+|team2      = {{fb|ECU}}
+|goals1     = [[Lionel Messi|Messi]] {{goal|78}}
+|goals2     = 
+|stadium    = [[Estadio Monumental (Buenos Aires)|Estadio Monumental]], [[Buenos Aires]]
+|attendance = 82,500
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = [https://www.fifa.com/fifaplus/en/match-centre/match/520/288315/288316/400017277 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=e4e7ky1993ejey0ngfuqpvzf8 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = URU v CHI
+|date       = {{Start date|2023|9|8|df=y}}
+|time       = {{UTZ|20:00|-3}}
+|team1      = {{fb-rt|URU}}
+|score      = 3–1
+|team2      = {{fb|CHI}}
+|goals1     = 
+*[[Nicolás de la Cruz|De la Cruz]] {{goal|38||71}}
+*[[Federico Valverde|Valverde]] {{goal|45+2}}
+|goals2     = [[Arturo Vidal|Vidal]] {{goal|74}}
+|stadium    = [[Estadio Centenario]], [[Montevideo]] 
+|attendance = 49,713
+|referee    = [[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report     = [https://www.fifa.com/fifaplus/en/match-centre/match/520/288315/288316/400017278 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido/?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=e3ysrrbo81nqg39ws1shzgob8 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = BRA v BOL
+|date       = {{Start date|2023|9|8|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = {{fb-rt|BRA}}
+|score      = 5–1
+|team2      = {{fb|BOL}}
+|goals1     = 
+*[[Rodrygo]] {{goal|24||53}}
+*[[Raphinha]] {{goal|47}}
+*[[Neymar]] {{goal|61||90+3}}
+|goals2     = [[Víctor Ábrego|Ábrego]] {{goal|78}}
+|stadium    = [[Mangueirão]], [[Belém]]
+|attendance = 48,183
+|referee    = Juan Gabriel Benítez ([[Paraguayan Football Association|Paraguay]])
+|report     = [https://www.fifa.com/fifaplus/en/match-centre/match/520/288315/288316/400017279 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=e5ctb5maaukdlfa3lx2abxtec Report (CONMEBOL)]
+}}
+
+===Matchday 2===
+{{Football box
+|id         = BOL v ARG
+|date       = {{Start date|2023|9|12|df=y}}
+|time       = {{UTZ|16:00|-4}}
+|team1      = {{fb-rt|BOL}}
+|score      = 0–3
+|team2      = {{fb|ARG}}
+|goals1     = 
+|goals2     = 
+*[[Enzo Fernández|Fernández]] {{goal|31}}
+*[[Nicolás Tagliafico|Tagliafico]] {{goal|42}}
+*[[Nicolás González (footballer, born 1998)|González]] {{goal|83}}
+|stadium    = [[Estadio Hernando Siles]], [[La Paz]]
+|attendance = 38,000
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = [https://www.fifa.com/fifaplus/en/match-centre/match/520/288315/288316/400017280 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=e5t53m1ysklviziz9tvakoq38 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = ECU v URU
+|date       = {{Start date|2023|9|12|df=y}}
+|time       = {{UTZ|16:00|-5}}
+|team1      = {{fb-rt|ECU}}
+|score      = 2–1
+|team2      = {{fb|URU}}
+|goals1     = [[Félix Torres (footballer, born 1997)|Torres]] {{goal|45+5||61}}
+|goals2     = [[Agustín Canobbio|Canobbio]] {{goal|38}}
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]
+|attendance = 35,613
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = [https://www.fifa.com/fifaplus/en/match-centre/match/520/288315/288316/400017281 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=e63gaepjkc4290zjncn3442l0 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = VEN v PAR
+|date       = {{Start date|2023|9|12|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = {{fb-rt|VEN}}
+|score      = 1–0
+|team2      = {{fb|PAR}}
+|goals1     = [[Salomón Rondón|Rondón]] {{goal|90+3|pen.}}
+|goals2     = 
+|stadium    = [[Estadio Monumental de Maturín|Estadio Monumental]], [[Maturín]]
+|attendance = 48,523
+|referee    = Andrés Rojas ([[Colombian Football Federation|Colombia]])
+|report     = [https://www.fifa.com/fifaplus/en/match-centre/match/520/288315/288316/400017284 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=e6d3h1gxwz3on6lb7zspttixg Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = CHI v COL
+|date       = {{Start date|2023|9|12|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = {{fb-rt|CHI}}
+|score      = 0–0
+|team2      = {{fb|COL}}
+|goals1     = 
+|goals2     = 
+|stadium    = [[Estadio Monumental David Arellano]], [[Santiago]]
+|attendance = 22,153
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = [https://www.fifa.com/fifaplus/en/match-centre/match/520/288315/288316/400017282 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=e6y13xek8y0cegsbtk8tjxct0 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = PER v BRA
+|date       = {{Start date|2023|9|12|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = {{fb-rt|PER}}
+|score      = 0–1
+|team2      = {{fb|BRA}}
+|goals1     = 
+|goals2     = [[Marquinhos]] {{goal|90}}
+|stadium    = [[National Stadium of Peru|Estadio Nacional]], [[Lima]]
+|attendance = 36,328
+|referee    = [[Fernando Rapallini]] ([[Argentine Football Association|Argentina]])
+|report     = [https://www.fifa.com/fifaplus/en/match-centre/match/520/288315/288316/400017283 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=e6nq52vls55oi1sssyofjo6j8 Report (CONMEBOL)]
+}}
+
+===Matchday 3===
+{{Football box
+|id         = COL v URU
+|date       = {{Start date|2023|10|12|df=y}}
+|time       = {{UTZ|15:30|-5}}
+|team1      = {{fb-rt|COL}}
+|score      = 2–2
+|team2      = {{fb|URU}}
+|goals1     = 
+*[[James Rodríguez|Rodríguez]] {{goal|35}}
+*[[Mateus Uribe|Uribe]] {{goal|52}}
+|goals2     = 
+*[[Mathías Olivera|M. Olivera]] {{goal|47}}
+*[[Darwin Núñez|Núñez]] {{goal|90+1|pen.}}
+|stadium    = [[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]] 
+|attendance = 43,915
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = [https://www.fifa.com/fifaplus/en/match-centre/match/520/288315/288316/400017342 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=e7rs7aza40jkajh26a8fvq80k Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = BOL v ECU
+|date       = {{Start date|2023|10|12|df=y}}
+|time       = {{UTZ|19:00|-4}}{{refn|group=note|The Bolivia v Ecuador match, originally scheduled at 16:00 local time,<ref name="October_PDF"/> was rescheduled to 19:00 local time by decision of the [[Bolivian Football Federation]].<ref name="October changes">{{cite web|url=https://www.conmebol.com/noticias/actualizado-el-calendario-de-las-fechas-3-y-4/|title=Actualizado el calendario de las Fechas 3 y 4|publisher=CONMEBOL|date=21 September 2023|language=es}}</ref><ref name="October changes PDF">{{cite web|url=https://cdn.conmebol.com/wp-content/uploads/2023/09/Eliminatorias-FWC2026-_Jornadas-3-y-4.pdf|title=Eliminatorias FWC2026 Jornadas 3 y 4.pdf|publisher=CONMEBOL|date=21 September 2023|language=es}}</ref>}}
+|team1      = {{fb-rt|BOL}}
+|score      = 1–2
+|team2      = {{fb|ECU}}
+|goals1     = [[Rodrigo Ramallo|Ramallo]] {{goal|83}}
+|goals2     = 
+*[[Kendry Páez|Páez]] {{goal|45}}
+*[[Kevin Rodríguez (footballer, born 2000)|Rodríguez]] {{goal|90+6}}
+|stadium    = [[Estadio Hernando Siles]], [[La Paz]]
+|attendance = 34,200
+|referee    = Cristian Garay ([[Football Federation of Chile|Chile]])
+|report     = [https://www.fifa.com/fifaplus/en/match-centre/match/520/288315/288316/400017345 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=e77k59e312uvopj4f1acv57v8 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = ARG v PAR
+|date       = {{Start date|2023|10|12|df=y}}
+|time       = {{UTZ|20:00|-3}}
+|team1      = {{fb-rt|ARG}}
+|score      = 1–0
+|team2      = {{fb|PAR}}
+|goals1     = [[Nicolás Otamendi|Otamendi]] {{goal|3}}
+|goals2     = 
+|stadium    = [[Estadio Monumental (Buenos Aires)|Estadio Monumental]], [[Buenos Aires]]
+|attendance = 80,000
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = [https://www.fifa.com/fifaplus/en/match-centre/match/520/288315/288316/400017343 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=e7h69ebggr7qm87z8g2lkgbh0 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = CHI v PER
+|date       = {{Start date|2023|10|12|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = {{fb-rt|CHI}}
+|score      = 2–0
+|team2      = {{fb|PER}}
+|goals1     = 
+*[[Diego Valdés (Chilean footballer)|Valdés]] {{goal|74}}
+*[[Marcelino Núñez|Núñez]] {{goal|90+1}}
+|goals2     = 
+|stadium    = [[Estadio Monumental David Arellano]], [[Santiago]]
+|attendance = 36,847
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = [https://www.fifa.com/fifaplus/en/match-centre/match/520/288315/288316/400017347 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=e8438mgbr8cnzqgxqgd8nd5w4 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = BRA v VEN
+|date       = {{Start date|2023|10|12|df=y}}
+|time       = {{UTZ|20:30|-4}}
+|team1      = {{fb-rt|BRA}}
+|score      = 1–1
+|team2      = {{fb|VEN}}
+|goals1     = [[Gabriel Magalhães|Gabriel]] {{goal|50}}
+|goals2     = [[Eduard Bello|Bello]] {{goal|85}}
+|stadium    = [[Arena Pantanal]], [[Cuiabá]]
+|attendance = 39,018
+|referee    = [[Kevin Ortega (football referee)|Kevin Ortega]] ([[Peruvian Football Federation|Peru]])
+|report     = [https://www.fifa.com/fifaplus/en/match-centre/match/520/288315/288316/400017350 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=e8dn3f3krgtq8esg2eocbtqfo Report (CONMEBOL)]
+}}
+
+===Matchday 4===
+{{Football box
+|id         = VEN v CHI
+|date       = {{Start date|2023|10|17|df=y}}
+|time       = {{UTZ|17:00|-4}}
+|team1      = {{fb-rt|VEN}}
+|score      = 3–0
+|team2      = {{fb|CHI}}
+|goals1     = 
+*[[Yeferson Soteldo|Soteldo]] {{goal|45+1}}
+*[[Salomón Rondón|Rondón]] {{goal|72}}
+*[[Darwin Machís|Machís]] {{goal|79}}
+|goals2     = 
+|stadium    = [[Estadio Monumental de Maturín|Estadio Monumental]], [[Maturín]]
+|attendance = 50,932
+|referee    = Flavio de Souza ([[Brazilian Football Confederation|Brazil]])
+|report     = [https://www.fifa.com/fifaplus/en/match-centre/match/520/288315/288316/400017349 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=e8xiqmcevzfblybdqsuuunm6s Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = PAR v BOL
+|date       = {{Start date|2023|10|17|df=y}}
+|time       = {{UTZ|19:30|-3}}
+|team1      = {{fb-rt|PAR}}
+|score      = 1–0
+|team2      = {{fb|BOL}}
+|goals1     = [[Antonio Sanabria|Sanabria]] {{goal|69}}
+|goals2     = 
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]{{refn|group=note|The Paraguay v Bolivia match, originally scheduled at [[Estadio Antonio Aranda]], [[Ciudad del Este]],<ref name="October_PDF"/> was rescheduled at Estadio Defensores del Chaco, Asunción by decision of the [[Paraguayan Football Association]].<ref name="October changes"/><ref name="October changes PDF"/>}}
+|attendance = 30,681
+|referee    = Gustavo Tejera ([[Uruguayan Football Association|Uruguay]])
+|report     = [https://www.fifa.com/fifaplus/en/match-centre/match/520/288315/288316/400017341 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=e977khqdlrmkc5pddnzp3qlg4 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = ECU v COL
+|date       = {{Start date|2023|10|17|df=y}}
+|time       = {{UTZ|18:30|-5}}
+|team1      = {{fb-rt|ECU}}
+|score      = 0–0
+|team2      = {{fb|COL}}
+|goals1     = 
+|goals2     = 
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]
+|attendance = 38,702
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report     = [https://www.fifa.com/fifaplus/en/match-centre/match/520/288315/288316/400017346 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=e8nzcx20vu2hj02mve3gnk6qc Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = URU v BRA
+|date       = {{Start date|2023|10|17|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = {{fb-rt|URU}}
+|score      = 2–0
+|team2      = {{fb|BRA}}
+|goals1     = 
+*[[Darwin Núñez|Núñez]] {{goal|42}}
+*[[Nicolás de la Cruz|De la Cruz]] {{goal|77}}
+|goals2     = 
+|stadium    = [[Estadio Centenario]], [[Montevideo]] 
+|attendance = 52,477
+|referee    = Alexis Herrera ([[Venezuelan Football Federation|Venezuela]])
+|report     = [https://www.fifa.com/fifaplus/en/match-centre/match/520/288315/288316/400017344 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=e9hjgb0pkqhnz1jxxb98jhedw Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = PER v ARG
+|date       = {{Start date|2023|10|17|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = {{fb-rt|PER}}
+|score      = 0–2
+|team2      = {{fb|ARG}}
+|goals1     = 
+|goals2     = [[Lionel Messi|Messi]] {{goal|32||42}}
+|stadium    = [[National Stadium of Peru|Estadio Nacional]], [[Lima]]
+|attendance = 37,675
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = [https://www.fifa.com/fifaplus/en/match-centre/match/520/288315/288316/400017348 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=e9rrxpdj36ive33ypzdvg8u1g Report (CONMEBOL)]
+}}
+
+===Matchday 5===
+{{Football box
+|id         = BOL v PER
+|date       = {{Start date|2023|11|16|df=y}}
+|time       = {{UTZ|16:00|-4}}
+|team1      = {{fb-rt|BOL}}
+|score      = 2–0
+|team2      = {{fb|PER}}
+|goals1     = 
+*[[Henry Vaca|H. Vaca]] {{goal|20}}
+*[[Ramiro Vaca|R. Vaca]] {{goal|87}}
+|goals2     = 
+|stadium    = [[Estadio Hernando Siles]], [[La Paz]]
+|attendance = 28,000
+|referee    = Guillermo Guerrero ([[Ecuadorian Football Federation|Ecuador]])
+|report     = [https://www.fifa.com/fifaplus/en/match-centre/match/520/288315/288316/400017641 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=ea24wo6ifsyex3ua0k8nwg178 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = VEN v ECU
+|date       = {{Start date|2023|11|16|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = {{fb-rt|VEN}}
+|score      = 0–0
+|team2      = {{fb|ECU}}
+|goals1     = 
+|goals2     = 
+|stadium    = [[Estadio Monumental de Maturín|Estadio Monumental]], [[Maturín]]
+|attendance = 51,083
+|referee    = Juan Gabriel Benítez ([[Paraguayan Football Association|Paraguay]])
+|report     = [https://www.fifa.com/fifaplus/en/match-centre/match/520/288315/288316/400017645 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=eacowb4vj4uie5wn8zeiwss9g Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = COL v BRA
+|date       = {{Start date|2023|11|16|df=y}}
+|time       = {{UTZ|19:00|-5}}
+|team1      = {{fb-rt|COL}}
+|score      = 2–1
+|team2      = {{fb|BRA}}
+|goals1     = [[Luis Díaz (footballer, born 1997)|Díaz]] {{goal|75||79}}
+|goals2     = [[Gabriel Martinelli|Martinelli]] {{goal|4}}
+|stadium    = [[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance = 44,604
+|referee    = [[Andrés Matonte]] ([[Uruguayan Football Association|Uruguay]])
+|report     = [https://www.fifa.com/fifaplus/en/match-centre/match/520/288315/288316/400017639 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=eam6euqhhzcqwkldifb0fmc5w Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = ARG v URU
+|date       = {{Start date|2023|11|16|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = {{fb-rt|ARG}}
+|score      = 0–2
+|team2      = {{fb|URU}}
+|goals1     = 
+|goals2     = 
+*[[Ronald Araújo|R. Araújo]] {{goal|41}}
+*[[Darwin Núñez|Núñez]] {{goal|87}}
+|stadium    = [[La Bombonera]], [[Buenos Aires]]
+|attendance = 49,000
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = [https://www.fifa.com/fifaplus/en/match-centre/match/520/288315/288316/400017647 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=eawkf0naf2ctl3xa2cahq9p90 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = CHI v PAR
+|date       = {{Start date|2023|11|16|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = {{fb-rt|CHI}}
+|score      = 0–0
+|team2      = {{fb|PAR}}
+|goals1     = 
+|goals2     = 
+|stadium    = [[Estadio Monumental David Arellano]], [[Santiago]]
+|attendance = 30,076
+|referee    = [[Fernando Rapallini]] ([[Argentine Football Association|Argentina]])
+|report     = [https://www.fifa.com/fifaplus/en/match-centre/match/520/288315/288316/400017643 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=eb6stxdypt4bp6kqs93vc445w Report (CONMEBOL)]
+}}
+
+===Matchday 6===
+{{Football box
+|id         = PAR v COL
+|date       = {{Start date|2023|11|21|df=y}}
+|time       = {{UTZ|20:00|-3}}
+|team1      = {{fb-rt|PAR}}
+|score      = 0–1
+|team2      = {{fb|COL}}
+|goals1     = 
+|goals2     = [[Rafael Santos Borré|Borré]] {{goal|11|pen.}}
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]
+|attendance = 25,298
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = [https://www.fifa.com/fifaplus/en/match-centre/match/520/288315/288316/400017646 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido/?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=ebzn0p964qptgavd39m7u5c0k Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = URU v BOL
+|date       = {{Start date|2023|11|21|df=y}}
+|time       = {{UTZ|20:30|-3}}
+|team1      = {{fb-rt|URU}}
+|score      = 3–0
+|team2      = {{fb|BOL}}
+|goals1     = 
+*[[Darwin Núñez|Núñez]] {{goal|15||71}}
+*[[Gabriel Villamíl|Villamíl]] {{goal|39|o.g.}}
+|goals2     = 
+|stadium    = [[Estadio Centenario]], [[Montevideo]]
+|attendance = 46,100
+|referee    = [[Kevin Ortega (football referee)|Kevin Ortega]] ([[Peruvian Football Federation|Peru]])
+|report     = [https://www.fifa.com/fifaplus/en/match-centre/match/520/288315/288316/400017640 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido/?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=ecbo7chpj31mvyut6u9rekis4 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = ECU v CHI
+|date       = {{Start date|2023|11|21|df=y}}
+|time       = {{UTZ|18:30|-5}}
+|team1      = {{fb-rt|ECU}}
+|score      = 1–0
+|team2      = {{fb|CHI}}
+|goals1     = [[Ángel Mena|Mena]] {{goal|21}}
+|goals2     = 
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]
+|attendance = 36,873
+|referee    = [[Anderson Daronco]] ([[Brazilian Football Confederation|Brazil]])
+|report     = [https://www.fifa.com/fifaplus/en/match-centre/match/520/288315/288316/400017642 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido/?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=ebqo3uwdk7jvmuhhjrooiruok Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = BRA v ARG
+|date       = {{Start date|2023|11|21|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = {{fb-rt|BRA}}
+|score      = 0–1
+|team2      = {{fb|ARG}}
+|goals1     = 
+|goals2     = [[Nicolás Otamendi|Otamendi]] {{goal|63}}
+|stadium    = [[Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance = 68,138
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = [https://www.fifa.com/fifaplus/en/match-centre/match/520/288315/288316/400017648 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido/?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=ebgced9zku43212xy7t338zro Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = PER v VEN
+|date       = {{Start date|2023|11|21|df=y}}
+|time       = {{UTZ|21:00|-5}}
+|team1      = {{fb-rt|PER}}
+|score      = 1–1
+|team2      = {{fb|VEN}}
+|goals1     = [[Yoshimar Yotún|Yotún]] {{goal|17}}
+|goals2     = [[Jefferson Savarino|Savarino]] {{goal|54}}
+|stadium    = [[National Stadium of Peru|Estadio Nacional]], [[Lima]]
+|attendance = 27,323
+|referee    = [[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report     = [https://www.fifa.com/fifaplus/en/match-centre/match/520/288315/288316/400017644 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido/?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=ecm0o4ogyrej223r77m2zd53o Report (CONMEBOL)]
+}}
+
+===Matchday 7===
+{{Football box
+|id         = BOL v VEN
+|date       = {{Start date|2024|9|5|df=y}}
+|time       = {{UTZ|16:00|-4}}
+|team1      = {{fb-rt|BOL}}
+|score      = 4–0
+|team2      = {{fb|VEN}}
+|goals1     = *[[Ramiro Vaca|R. Vaca]] {{goal|13}}
+*[[Carmelo Algarañaz|Algarañaz]] {{goal|45+5|pen.}}
+*[[Miguel Terceros|Terceros]] {{goal|46}}
+*[[Enzo Monteiro|Monteiro]] {{goal|89}}
+|goals2     = 
+|stadium    = [[Estadio Municipal de El Alto]], [[El Alto]]
+|attendance = 20,500
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400018618 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=ecwgr0r2ilbd0ovzcki1lyu50 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = ARG v CHI
+|date       = {{Start date|2024|9|5|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = {{fb-rt|ARG}}
+|score      = 3–0
+|team2      = {{fb|CHI}}
+|goals1     = 
+*[[Alexis Mac Allister|Mac Allister]] {{goal|48}}
+*[[Julián Alvarez|Alvarez]] {{goal|84}}
+*[[Paulo Dybala|Dybala]] {{goal|90+1}}
+|goals2     = 
+|stadium    = [[Estadio Monumental (Buenos Aires)|Estadio Monumental]], [[Buenos Aires]]
+|attendance = 52,160
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400018611 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=edh7hkic4hkm1mo4hs6ext1jo Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = URU v PAR
+|date       = {{Start date|2024|9|6|df=y}}
+|time       = {{UTZ|20:30|-3}}
+|team1      = {{fb-rt|URU}}
+|score      = 0–0
+|team2      = {{fb|PAR}}
+|goals1     = 
+|goals2     = 
+|stadium    = [[Estadio Centenario]], [[Montevideo]]
+|attendance = 47,741
+|referee    = [[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400018612 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=ed6v35geubtjbczb5ms6ss6xg Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = BRA v ECU
+|date       = {{Start date|2024|9|6|df=y}}
+|time       = {{UTZ|22:00|-3}}{{refn|group=note|The Brazil v Ecuador match, originally scheduled at 21:45 local time,<ref name="7-8 pdf"/> was rescheduled to 22:00 local time.<ref>{{cite web|url=https://www.conmebol.com/noticias/cambio-de-horario-en-partido-de-eliminatorias-sudamericanas/|title=Cambio de horario en partido de Eliminatorias Sudamericanas|publisher=CONMEBOL|date=20 August 2024|language=es}}</ref><ref name="7-8 v4 pdf"/>}}
+|team1      = {{fb-rt|BRA}}
+|score      = 1–0
+|team2      = {{fb|ECU}}
+|goals1     = [[Rodrygo]] {{goal|30}}
+|goals2     = 
+|stadium    = [[Estádio Couto Pereira]], [[Curitiba]]
+|attendance = 36,914
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400018617 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=ee15uk4w9rfyvhr8g5aliwhec Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = PER v COL
+|date       = {{Start date|2024|9|6|df=y}}
+|time       = {{UTZ|20:30|-5}}
+|team1      = {{fb-rt|PER}}
+|score      = 1–1
+|team2      = {{fb|COL}}
+|goals1     = [[Alexander Callens|Callens]] {{goal|68}}
+|goals2     = [[Luis Díaz (footballer, born 1997)|Díaz]] {{goal|82}}
+|stadium    = [[National Stadium of Peru|Estadio Nacional]], [[Lima]]{{refn|group=note|The Peru v Colombia match, originally scheduled to be played at [[Estadio Monumental "U"|Estadio Monumental]], Lima,<ref name="7-8 pdf"/> was relocated to Estadio Nacional, Lima due to the possibility that the pitch at the Estadio Monumental would not be fit for the date of the match.<ref>{{cite web|url=https://www.espn.com.pe/futbol/mundial/nota/_/id/14067765/cambio-de-sede-para-el-encuentro-entre-peru-y-colombia-por-eliminatorias|title=Se confirmó cambio de sede para el encuentro entre Perú y Colombia por Eliminatorias|trans-title=Change of venue confirmed for the Peru-Colombia World Cup qualification game|publisher=[[ESPN (Latin America)|ESPN]]|date=21 August 2024|language=es}}</ref><ref>{{cite web|url=https://www.conmebol.com/noticias/cambio-de-estadio-en-un-partido-de-eliminatorias-sudamericanas/|title=Cambio de estadio en un partido de Eliminatorias Sudamericanas|publisher=CONMEBOL|date=24 August 2024|language=es}}</ref>}}
+|attendance = 40,000
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400018616 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=edques0h0tr7s9a2cjxpkr7dg Report (CONMEBOL)]
+}}
+
+===Matchday 8===
+{{Football box
+|id         = COL v ARG
+|date       = {{Start date|2024|9|10|df=y}}
+|time       = {{UTZ|15:30|-5}}
+|team1      = {{fb-rt|COL}}
+|score      = 2–1
+|team2      = {{fb|ARG}}
+|goals1     = 
+*[[Yerson Mosquera|Mosquera]] {{goal|25}}
+*[[James Rodríguez|Rodríguez]] {{goal|60|pen.}}
+|goals2     = [[Nicolás González (footballer, born 1998)|González]] {{goal|48}}
+|stadium    = [[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]] 
+|attendance = 45,000
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400018610 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido/?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=eeuio1iqmew9a07112tvpnpjo Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = CHI v BOL
+|date       = {{Start date|2024|9|10|df=y}}
+|time       = {{UTZ|18:00|-3}}{{refn|group=note|The Chile v Bolivia match, originally scheduled at 21:00 local time,<ref name="7-8 pdf"/> was rescheduled to 18:00 local time.<ref>{{cite web|url=https://www.conmebol.com/noticias/cambio-de-horario-en-un-partido-de-eliminatorias-sudamericanas/|title=Cambio de horario en un partido de Eliminatorias Sudamericanas|publisher=CONMEBOL|date=5 August 2024|language=es}}</ref><ref name="7-8 v2 pdf"/>}}
+|team1      = {{fb-rt|CHI}}
+|score      = 1–2
+|team2      = {{fb|BOL}}
+|goals1     = [[Eduardo Vargas|Vargas]] {{goal|39}}
+|goals2     = 
+*[[Carmelo Algarañaz|Algarañaz]] {{goal|13}}
+*[[Miguel Terceros|Terceros]] {{goal|45+1}}
+|stadium    = [[Estadio Nacional Julio Martínez Prádanos]], [[Santiago]]
+|attendance = 40,000
+|referee    = Juan Gabriel Benítez ([[Paraguayan Football Association|Paraguay]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400018619 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido/?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=eff80ew56tyo288dxzykjjuvo Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = ECU v PER
+|date       = {{Start date|2024|9|10|df=y}}
+|time       = {{UTZ|16:00|-5}}
+|team1      = {{fb-rt|ECU}}
+|score      = 1–0
+|team2      = {{fb|PER}}
+|goals1     = [[Enner Valencia|Valencia]] {{goal|54}}
+|goals2     = 
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]
+|attendance = 35,000
+|referee    = Andrés Rojas ([[Colombian Football Federation|Colombia]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400018613 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido/?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=eeapq38ml6ox9t2evnnzu4mqc Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = VEN v URU
+|date       = {{Start date|2024|9|10|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = {{fb-rt|VEN}}
+|score      = 0–0
+|team2      = {{fb|URU}}
+|goals1     = 
+|goals2     = 
+|stadium    = [[Estadio Monumental de Maturín|Estadio Monumental]], [[Maturín]]
+|attendance = 50,000
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400018614 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido/?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=eek7gdabwe55zas0nyflu5n2s Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = PAR v BRA
+|date       = {{Start date|2024|9|10|df=y}}
+|time       = {{UTZ|20:30|-4}}{{refn|group=note|The Paraguay v Brazil match, originally scheduled at 20:00 local time,<ref name="7-8 pdf"/> was rescheduled to 20:30 local time.<ref>{{cite web|url=https://www.conmebol.com/noticias/modificacion-de-horario-en-un-partido-de-las-eliminatorias-sudamericanas/|title=Modificación de horario en un partido de Eliminatorias Sudamericanas|publisher=CONMEBOL|date=7 August 2024|language=es}}</ref><ref name="7-8 v2 pdf"/>}}
+|team1      = {{fb-rt|PAR}}
+|score      = 1–0
+|team2      = {{fb|BRA}}
+|goals1     = [[Diego Gómez (Paraguayan footballer)|Gómez]] {{goal|20}}
+|goals2     = 
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]
+|attendance = 31,962
+|referee    = [[Andrés Matonte]] ([[Uruguayan Football Association|Uruguay]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400018615 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido/?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=ef4tijfmhp4neun12onwpv28k Report (CONMEBOL)]
+}}
+
+===Matchday 9===
+{{Football box
+|id         = BOL v COL
+|date       = {{Start date|2024|10|10|df=y}}
+|time       = {{UTZ|16:00|-4}}
+|team1      = {{fb-rt|BOL}}
+|score      = 1–0
+|team2      = {{fb|COL}}
+|goals1     = [[Miguel Terceros|Terceros]] {{goal|58}}
+|goals2     = 
+|stadium    = [[Estadio Municipal de El Alto]], [[El Alto]]
+|attendance = 17,191
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400018921 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=efoua1eeckpw3j6yuqynvdxjo Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = ECU v PAR
+|date       = {{Start date|2024|10|10|df=y}}
+|time       = {{UTZ|16:00|-5}}
+|team1      = {{fb-rt|ECU}}
+|score      = 0–0
+|team2      = {{fb|PAR}}
+|goals1     = 
+|goals2     = 
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]
+|attendance = 31,000
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400018917 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=efz8a4r0y4hgkk1hgn61tdq1g Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = VEN v ARG
+|date       = {{Start date|2024|10|10|df=y}}
+|time       = {{UTZ|17:00|-4}}
+|team1      = {{fb-rt|VEN}}
+|score      = 1–1
+|team2      = {{fb|ARG}}
+|goals1     = [[Salomón Rondón|Rondón]] {{goal|65}}
+|goals2     = [[Nicolás Otamendi|Otamendi]] {{goal|13}}
+|stadium    = [[Estadio Monumental de Maturín|Estadio Monumental]], [[Maturín]]
+|attendance = 50,000
+|referee    = Gustavo Tejera ([[Uruguayan Football Association|Uruguay]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400018919 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=eg8s122e0p6nydkty90f47l04 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = CHI v BRA
+|date       = {{Start date|2024|10|10|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = {{fb-rt|CHI}}
+|score      = 1–2
+|team2      = {{fb|BRA}}
+|goals1     = [[Eduardo Vargas|Vargas]] {{goal|2}}
+|goals2     = 
+*[[Igor Jesus (footballer, born 2001)|Igor Jesus]] {{goal|45+1}}
+*[[Luiz Henrique (footballer, born 2001)|Luiz Henrique]] {{goal|89}}
+|stadium    = [[Estadio Nacional Julio Martínez Prádanos]], [[Santiago]]
+|attendance = 43,059
+|referee    = [[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400018922 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=egkvvxztyxe8sy4a0tmlunmz8 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = PER v URU
+|date       = {{Start date|2024|10|11|df=y}}
+|time       = {{UTZ|20:30|-5}}
+|team1      = {{fb-rt|PER}}
+|score      = 1–0
+|team2      = {{fb|URU}}
+|goals1     = [[Miguel Araujo|Araujo]] {{goal|88}}
+|goals2     = 
+|stadium    = [[National Stadium of Peru|Estadio Nacional]], [[Lima]]
+|attendance = 43,000
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400018918 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=egug3inyjhzijj7ptc53orbbo Report (CONMEBOL)]
+}}
+
+===Matchday 10===
+{{Football box
+|id         = COL v CHI
+|date       = {{Start date|2024|10|15|df=y}}
+|time       = {{UTZ|15:30|-5}}
+|team1      = {{fb-rt|COL}}
+|score      = 4–0
+|team2      = {{fb|CHI}}
+|goals1     = 
+*[[Davinson Sánchez|Sánchez]] {{goal|34}}
+*[[Luis Díaz (footballer, born 1997)|Díaz]] {{goal|52}}
+*[[Jhon Durán|Durán]] {{goal|84}}
+*[[Luis Sinisterra|Sinisterra]] {{goal|90+3}}
+|goals2     = 
+|stadium    = [[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance = 45,000
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400018914 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=ehoruolpjtn8j1b4z8zbe2fpw Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = PAR v VEN
+|date       = {{Start date|2024|10|15|df=y}}
+|time       = {{UTZ|20:00|-3}}
+|team1      = {{fb-rt|PAR}}
+|score      = 2–1
+|team2      = {{fb|VEN}}
+|goals1     = [[Antonio Sanabria|Sanabria]] {{goal|59||74}}
+|goals2     = [[Jon Aramburu|Aramburu]] {{goal|25}}
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]
+|attendance = 28,531
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400018920 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=ehegkhh2gc06tlqvkcvqjbk7o Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = URU v ECU
+|date       = {{Start date|2024|10|15|df=y}}
+|time       = {{UTZ|20:30|-3}}
+|team1      = {{fb-rt|URU}}
+|score      = 0–0
+|team2      = {{fb|ECU}}
+|goals1     = 
+|goals2     = 
+|stadium    = [[Estadio Centenario]], [[Montevideo]]
+|attendance = 27,112
+|referee    = Cristian Garay ([[Football Federation of Chile|Chile]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400018916 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=eh4qsvdh8gsnkwq161j29lmhg Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = ARG v BOL
+|date       = {{Start date|2024|10|15|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = {{fb-rt|ARG}}
+|score      = 6–0
+|team2      = {{fb|BOL}}
+|goals1     = 
+*[[Lionel Messi|Messi]] {{goal|19||84||86}}
+*[[Lautaro Martínez|La. Martínez]] {{goal|43}}
+*[[Julián Alvarez|Alvarez]] {{goal|45+3}}
+*[[Thiago Almada|Almada]] {{goal|69}}
+|goals2     = 
+|stadium    = [[Estadio Monumental (Buenos Aires)|Estadio Monumental]], [[Buenos Aires]]
+|attendance = 60,000
+|referee    = [[Kevin Ortega (football referee)|Kevin Ortega]] ([[Peruvian Football Federation|Peru]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400018915 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=ehy9lqdzbzhmhx93u479p6t5g Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = BRA v PER
+|date       = {{Start date|2024|10|15|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = {{fb-rt|BRA}}
+|score      = 4–0
+|team2      = {{fb|PER}}
+|goals1     = 
+*[[Raphinha]] {{goal|38|pen.|54|pen.}}
+*[[Andreas Pereira|Pereira]] {{goal|71}}
+*[[Luiz Henrique (footballer, born 2001)|Luiz Henrique]] {{goal|74}}
+|goals2     = 
+|stadium    = [[Estádio Nacional Mané Garrincha]], [[Brasília]]
+|attendance = 60,139
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400018923 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=ei8n8cr0qql1xs460qlct5o2c Report (CONMEBOL)]
+}}
+
+===Matchday 11===
+{{Football box
+|id         = VEN v BRA
+|date       = {{Start date|2024|11|14|df=y}}
+|time       = {{UTZ|17:00|-4}}
+|team1      = {{fb-rt|VEN}}
+|score      = 1–1
+|team2      = {{fb|BRA}}
+|goals1     = [[Telasco Segovia|Segovia]] {{goal|46}}
+|goals2     = [[Raphinha]] {{goal|43}}
+|stadium    = [[Estadio Monumental de Maturín|Estadio Monumental]], [[Maturín]]
+|attendance = 40,223
+|referee    = Andrés Rojas ([[Colombian Football Federation|Colombia]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400019108 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=ej4dnq5h0kdffrisvgnqalmac Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = PAR v ARG
+|date       = {{Start date|2024|11|14|df=y}}
+|time       = {{UTZ|20:30|-3}}
+|team1      = {{fb-rt|PAR}}
+|score      = 2–1
+|team2      = {{fb|ARG}}
+|goals1     = 
+*[[Antonio Sanabria|Sanabria]] {{goal|19}}
+*[[Omar Alderete|Alderete]] {{goal|47}}
+|goals2     = [[Lautaro Martínez|La. Martínez]] {{goal|11}}
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]
+|attendance = 32,200
+|referee    = [[Anderson Daronco]] ([[Brazilian Football Confederation|Brazil]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400019113 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=eij7mm357c4stgz34g6ou4fmc Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = ECU v BOL
+|date       = {{Start date|2024|11|14|df=y}}
+|time       = {{UTZ|19:00|-5}}
+|team1      = {{fb-rt|ECU}}
+|score      = 4–0
+|team2      = {{fb|BOL}}
+|goals1     = 
+*[[Enner Valencia|Valencia]] {{goal|26|pen.}}
+*[[Gonzalo Plata|Plata]] {{goal|28||49}}
+*[[Alan Minda|Minda]] {{goal|61}}
+|goals2     = 
+|stadium    = [[Estadio Monumental Isidro Romero Carbo]], [[Guayaquil]]
+|attendance = 30,758
+|referee    = Maximiliano Ramírez ([[Argentine Football Association|Argentina]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400019116 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=ejf0dwsrjoq0laat4r2x47d3o Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = URU v COL
+|date       = {{Start date|2024|11|15|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = {{fb-rt|URU}}
+|score      = 3–2
+|team2      = {{fb|COL}}
+|goals1     = 
+*[[Davinson Sánchez|Sánchez]] {{goal|57|o.g.}}
+*[[Rodrigo Aguirre|Aguirre]] {{goal|60}}
+*[[Manuel Ugarte (footballer)|Ugarte]] {{goal|90+13}}
+|goals2     = 
+*[[Juan Fernando Quintero|Quintero]] {{goal|31}}
+*[[Andrés Gómez (footballer)|A. Gómez]] {{goal|90+6}}
+|stadium    = [[Estadio Centenario]], [[Montevideo]]
+|attendance = 33,400
+|referee    = [[Kevin Ortega (football referee)|Kevin Ortega]] ([[Peruvian Football Federation|Peru]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400019111 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=eitourmxn0aev4yvq1tbwltsk Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = PER v CHI
+|date       = {{Start date|2024|11|15|df=y}}
+|time       = {{UTZ|20:30|-5}}
+|team1      = {{fb-rt|PER}}
+|score      = 0–0
+|team2      = {{fb|CHI}}
+|goals1     = 
+|goals2     = 
+|stadium    = [[Estadio Monumental "U"|Estadio Monumental]], [[Lima]]{{refn|group=note|The Peru v Chile match, originally scheduled to be played at [[National Stadium of Peru|Estadio Nacional]], Lima,<ref name="7-8 pdf"/> was relocated to Estadio Monumental, Lima due to security reasons concerning the [[APEC Peru 2024]] meeting.<ref>{{cite web|url=https://www.conmebol.com/noticias/cambio-de-estadio-para-peru-vs-chile/|title=Cambio de estadio para Perú vs. Chile|publisher=CONMEBOL|date=8 November 2024|language=es}}</ref><ref>{{cite web|url=https://efe.com/deportes/2024-11-08/mundial-2026-eliminatorias-el-partido-peru-chile-cambia-de-escenario-por-decision-gubernamental/|title=MUNDIAL 2026 ELIMINATORIAS {{!}} El partido Perú-Chile cambia de escenario por decisión gubernamental|trans-title=WORLD CUP 2026 QUALIFICATION {{!}} Peru-Chile match changes venue due to government decision|publisher=[[EFE]]|location=Lima|date=8 November 2024|language=es}}</ref>}}
+|attendance = 47,122
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400019112 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=ejorhu2lw9643gw0pahtwolck Report (CONMEBOL)]
+}}
+
+===Matchday 12===
+{{Football box
+|id         = BOL v PAR
+|date       = {{Start date|2024|11|19|df=y}}
+|time       = {{UTZ|16:00|-4}}
+|team1      = {{fb-rt|BOL}}
+|score      = 2–2
+|team2      = {{fb|PAR}}
+|goals1     = 
+*[[Ervin Vaca|E. Vaca]] {{goal|15}}
+*[[Miguel Terceros|Terceros]] {{goal|80|pen.}}
+|goals2     = 
+*[[Miguel Almirón|Almirón]] {{goal|71}}
+*[[Julio Enciso (footballer, born 2004)|Enciso]] {{goal|90+1}}
+|stadium    = [[Estadio Municipal de El Alto]], [[El Alto]]
+|attendance = 18,655
+|referee    = [[Andrés Matonte]] ([[Uruguayan Football Association|Uruguay]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400019114 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=ejygg2posfsr54fvsnk1zzac4 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = COL v ECU
+|date       = {{Start date|2024|11|19|df=y}}
+|time       = {{UTZ|18:00|-5}}
+|team1      = {{fb-rt|COL}}
+|score      = 0–1
+|team2      = {{fb|ECU}}
+|goals1     = 
+|goals2     = 
+*[[Enner Valencia|Valencia]] {{goal|7}}
+|stadium    = [[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance = 37,316
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400019109 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=ek94e1b1iy2nr5ht8aajollw4 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = ARG v PER
+|date       = {{Start date|2024|11|19|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = {{fb-rt|ARG}}
+|score      = 1–0
+|team2      = {{fb|PER}}
+|goals1     = 
+*[[Lautaro Martínez|La. Martínez]] {{goal|55}}
+|goals2     = 
+|stadium    = [[La Bombonera]], [[Buenos Aires]]{{refn|group=note|The Argentina v Peru match, originally scheduled to be played at [[Estadio Monumental (Buenos Aires)|Estadio Monumental]], Buenos Aires,<ref name="11-12 pdf"/> was relocated to La Bombonera, Buenos Aires due to the Estadio Monumental, which had previously been chosen to host the [[2024 Copa Libertadores final]], had to be reserved by CONMEBOL for preparations 15 days before the match.<ref>{{cite web|url=https://tntsports.com.ar/seleccion/cambio-de-sede-argentina-vs-peru-eliminatorias--20241103-0009.html|title=Cambio de sede para Argentina vs. Perú por Eliminatorias|trans-title=Change of venue for Argentina vs. Peru for Eliminatorias|publisher=[[TNT Sports (Argentine TV channel)|TNT Sports]]|date=3 November 2024|language=es}}</ref><ref>{{cite web|url=https://www.conmebol.com/noticias/cambio-de-estadio-en-un-partido-de-eliminatorias-sudamericanas-2/|title=Cambio de estadio en un partido de Eliminatorias Sudamericanas|publisher=CONMEBOL|date=4 November 2024|language=es}}</ref>}}
+|attendance = 52,000
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400019110 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=ekisihzaa347f6u5zwn4lrhg4 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = CHI v VEN
+|date       = {{Start date|2024|11|19|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = {{fb-rt|CHI}}
+|score      = 4–2
+|team2      = {{fb|VEN}}
+|goals1     = 
+*[[Eduardo Vargas|Vargas]] {{goal|20}}
+*[[Tomás Rincón|Rincón]] {{goal|29|o.g.}}
+*[[Lucas Cepeda|Cepeda]] {{goal|38||47}}
+|goals2     = 
+*[[Jefferson Savarino|Savarino]] {{goal|13}}
+*[[Rubén Ramírez (footballer, born 1995)|R. Ramírez]] {{goal|22}}
+|stadium    = [[Estadio Nacional Julio Martínez Prádanos]], [[Santiago]]
+|attendance = 31,906
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400019115 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=ektaistk0h0zkah0cl3m1di50 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = BRA v URU
+|date       = {{Start date|2024|11|19|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = {{fb-rt|BRA}}
+|score      = 1–1
+|team2      = {{fb|URU}}
+|goals1     = [[Gerson (footballer, born 1997)|Gerson]] {{goal|62}}
+|goals2     = [[Federico Valverde|Valverde]] {{goal|55}}
+|stadium    = [[Arena Fonte Nova]], [[Salvador, Bahia|Salvador]]
+|attendance = 41,511
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400019117 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=el4mtcqrnqcuh6a6hdtj84xec Report (CONMEBOL)]
+}}
+
+===Matchday 13===
+{{Football box
+|id         = PAR v CHI
+|date       = {{Start date|2025|3|20|df=y}}
+|time       = {{UTZ|20:00|-3}}
+|team1      = {{fb-rt|PAR}}
+|score      = 1–0
+|team2      = {{fb|CHI}}
+|goals1     = [[Omar Alderete|Alderete]] {{goal|60}}
+|goals2     = 
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]
+|attendance = 31,193
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400019531 Report (FIFA)]<br />[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=elozcfshpars59bgb7pexavbo Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = BRA v COL
+|date       = {{Start date|2025|3|20|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = {{fb-rt|BRA}}
+|score      = 2–1
+|team2      = {{fb|COL}}
+|goals1     = 
+*[[Raphinha]] {{goal|6|pen.}}
+*[[Vinícius Júnior|Vinícius]] {{goal|90+9}}
+|goals2     = [[Luis Díaz (footballer, born 1997)|Díaz]] {{goal|41}}
+|stadium    = [[Estádio Nacional Mané Garrincha]], [[Brasília]]
+|attendance = 70,027
+|referee    = Alexis Herrera ([[Venezuelan Football Federation|Venezuela]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400019527 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=elyoqq0udfs6rtbm6asz2b0no Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = PER v BOL
+|date       = {{Start date|2025|3|20|df=y}}
+|time       = {{UTZ|20:30|-5}}
+|team1      = {{fb-rt|PER}}
+|score      = 3–1
+|team2      = {{fb|BOL}}
+|goals1     = 
+*[[Andy Polo|Polo]] {{goal|37}}
+*[[Paolo Guerrero|Guerrero]] {{goal|45}}
+*[[Edison Flores|Flores]] {{goal|82}}
+|goals2     = [[Miguel Terceros|Terceros]] {{goal|58|pen.}}
+|stadium    = [[National Stadium of Peru|Estadio Nacional]], [[Lima]]
+|attendance = 33,683<ref>{{cite web|url=https://www.flashscore.com/match/football/zHD55CnK/#/match-summary/match-summary |title=Peru - Bolivia 3:1 }}</ref>
+|referee    = Yael Falcón Pérez ([[Argentine Football Association|Argentina]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400019532 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido/?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=em95pppcj3nyxi3c6rwacfjtg Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = ECU v VEN
+|date       = {{Start date|2025|3|21|df=y}}
+|time       = {{UTZ|16:00|-5}}
+|team1      = {{fb-rt|ECU}}
+|score      = 2–1
+|team2      = {{fb|VEN}}
+|goals1     = [[Enner Valencia|Valencia]] {{goal|39||46}}
+|goals2     = [[Jhonder Cádiz|Cádiz]] {{goal|90+1}}
+|stadium    = [[Estadio Rodrigo Paz Delgado]], [[Quito]]
+|attendance = 41,575<ref>{{cite web|url=https://www.flashscore.com/match/football/lOgtaAPm/#/match-summary/match-summary |title=Ecuador - Venezuela 2:1 }}</ref>
+|referee    = [[Ramon Abatti]] ([[Brazilian Football Confederation|Brazil]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400019530 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=elf7ibfbc8yprmtwbcuvnna50 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = URU v ARG
+|date       = {{Start date|2025|3|21|df=y}}
+|time       = {{UTZ|20:30|-3}}
+|team1      = {{fb-rt|URU}}
+|score      = 0–1
+|team2      = {{fb|ARG}}
+|goals1     =  
+|goals2     = [[Thiago Almada|Almada]] {{goal|68}}
+|stadium    = [[Estadio Centenario]], [[Montevideo]] 
+|attendance = 55,000
+|referee    = Juan Gabriel Benítez ([[Paraguayan Football Association|Paraguay]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400019533 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=emjo2werb4jpvs86x1qayo178 Report (CONMEBOL)]
+}}
+
+===Matchday 14===
+{{Football box
+|id         = BOL v URU
+|date       = {{Start date|2025|3|25|df=y}}
+|time       = {{UTZ|16:00|-4}}
+|team1      = {{fb-rt|BOL}}
+|score      = 0–0
+|team2      = {{fb|URU}}
+|goals1     =
+|goals2     =
+|stadium    = [[Estadio Municipal de El Alto]], [[El Alto]]
+|attendance = 10,723
+|referee    = Augusto Aragón ([[Ecuadorian Football Federation|Ecuador]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400019526 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido/?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=emu9rfy4rp3m2tvxrd57zqadw Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = COL v PAR
+|date       = {{Start date|2025|3|25|df=y}}
+|time       = {{UTZ|19:00|-5}}
+|team1      = {{fb-rt|COL}}
+|score      = 2–2
+|team2      = {{fb|PAR}}
+|goals1     =  
+*[[Luis Díaz (footballer, born 1997)|Díaz]] {{goal|1}}
+*[[Jhon Durán|Durán]] {{goal|13}}
+|goals2     = 
+*[[Júnior Alonso|Alonso]] {{goal|45+4}}
+*[[Julio Enciso (footballer, born 2004)|Enciso]] {{goal|62}}
+|stadium    = [[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance = 42,262
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400019529 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido/?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=enfddc2hnz9ar64y8gmrd8bo4 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = VEN v PER
+|date       = {{Start date|2025|3|25|df=y}}
+|time       = {{UTZ|20:00|-4}}
+|team1      = {{fb-rt|VEN}}
+|score      = 1–0
+|team2      = {{fb|PER}}
+|goals1     = [[Salomón Rondón|Rondón]] {{goal|41|pen.}}
+|goals2     = 
+|stadium    = [[Estadio Monumental de Maturín|Estadio Monumental]], [[Maturín]]
+|attendance = 33,683
+|referee    = Cristian Garay ([[Football Federation of Chile|Chile]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400019534 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido/?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=en4vbkixu6eftf27ui40y5444l Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = ARG v BRA
+|date       = {{Start date|2025|3|25|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = {{fb-rt|ARG}}
+|score      = 4–1
+|team2      = {{fb|BRA}}
+|goals1     =
+*[[Julián Alvarez|Alvarez]] {{goal|4}}
+*[[Enzo Fernández|Fernández]] {{goal|12}}
+*[[Alexis Mac Allister|Mac Allister]] {{goal|37}}
+*[[Giuliano Simeone|Simeone]] {{goal|71}}
+|goals2     = [[Matheus Cunha|Cunha]] {{goal|26}}
+|stadium    = [[Estadio Monumental (Buenos Aires)|Estadio Monumental]], [[Buenos Aires]]
+|attendance = 85,015
+|referee    = Andrés Rojas ([[Colombian Football Federation|Colombia]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400019525 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido/?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=enpugxyq4ew8ylreiids7v2ms Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = CHI v ECU
+|date       = {{Start date|2025|3|25|df=y}}
+|time       = {{UTZ|21:00|-3}} 
+|team1      = {{fb-rt|CHI}}
+|score      = 0–0
+|team2      = {{fb|ECU}}
+|goals1     =  
+|goals2     = 
+|stadium    = [[Estadio Nacional Julio Martínez Prádanos]], [[Santiago]]
+|attendance = 38,996
+|referee    = Gustavo Tejera ([[Uruguayan Football Association|Uruguay]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400019528 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido/?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=eo0esy09wsoxpqs9v175u1fdg Report (CONMEBOL)]
+}}
+
+===Matchday 15===
+{{Football box
+|id         = PAR v URU
+|date       = {{Start date|2025|6|5|df=y}}
+|time       = {{UTZ|20:00|-3}}
+|team1      = {{fb-rt|PAR}}
+|score      = 2–0
+|team2      = {{fb|URU}}
+|goals1     = 
+*[[Matías Galarza (Paraguayan footballer)|Galarza]] {{goal|13}}
+*[[Julio Enciso (footballer, born 2004)|Enciso]] {{goal|81|pen.}}
+|goals2     = 
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]
+|attendance = 30,005
+|referee    = [[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400020082 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=eojbvxoskfr8jgn1dpw1occgk Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = ECU v BRA
+|date       = {{Start date|2025|6|5|df=y}}
+|time       = {{UTZ|18:00|-5}}
+|team1      = {{fb-rt|ECU}}
+|score      = 0–0
+|team2      = {{fb|BRA}}
+|goals1     = 
+|goals2     = 
+|stadium    = [[Estadio Monumental Isidro Romero Carbo]], [[Guayaquil]]
+|attendance = 59,283
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400020085 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=eo9f8i6sz2yo3iqtsjhnl5n9w Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = CHI v ARG
+|date       = {{Start date|2025|6|5|df=y}}
+|time       = {{UTZ|21:00|-4}}
+|team1      = {{fb-rt|CHI}}
+|score      = 0–1
+|team2      = {{fb|ARG}}
+|goals1     = 
+|goals2     = [[Julián Alvarez|Alvarez]] {{goal|16}}
+|stadium    = [[Estadio Nacional Julio Martínez Prádanos]], [[Santiago]]
+|attendance = 45,000
+|referee    = [[Jesús Valenzuela]] ([[Venezuelan Football Federation|Venezuela]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400020084 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=eotxs1hi3hrkxfnn1oa7313bo Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = COL v PER
+|date       = {{Start date|2025|6|6|df=y}}
+|time       = {{UTZ|15:30|-5}}
+|team1      = {{fb-rt|COL}}
+|score      = 0–0
+|team2      = {{fb|PER}}
+|goals1     = 
+|goals2     = 
+|stadium    = [[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance = 43,933
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400020077 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=ep3mns32q1x3mv81qlwhbau50 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = VEN v BOL
+|date       = {{Start date|2025|6|6|df=y}}
+|time       = {{UTZ|18:00|-4}}
+|team1      = {{fb-rt|VEN}}
+|score      = 2–0
+|team2      = {{fb|BOL}}
+|goals1     = 
+*[[Héctor Cuéllar|Cuéllar]] {{goal|5|o.g.}}
+*[[Salomón Rondón|Rondón]] {{goal|30}}
+|goals2     = 
+|stadium    = [[Estadio Monumental de Maturín|Estadio Monumental]], [[Maturín]]
+|attendance = 46,741
+|referee    = Yael Falcón Pérez ([[Argentine Football Association|Argentina]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400020081 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=epg1di0mbengcwty5yqx7v1uc Report (CONMEBOL)]
+}}
+
+===Matchday 16===
+{{Football box
+|id         = BOL v CHI
+|date       = {{Start date|2025|6|10|df=y}}
+|time       = {{UTZ|16:00|-4}}
+|team1      = {{fb-rt|BOL}}
+|score      = 2–0
+|team2      = {{fb|CHI}}
+|goals1     = 
+*[[Miguel Terceros|Terceros]] {{goal|5}}
+*[[Enzo Monteiro|Monteiro]] {{goal|90}}
+|goals2     = 
+|stadium    = [[Estadio Municipal de El Alto]], [[El Alto]]
+|attendance = 11,467
+|referee    = [[Esteban Ostojich]] ([[Uruguayan Football Association|Uruguay]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400020083 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=epqh85xkt3kg6hr1c5dg6q904 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = URU v VEN
+|date       = {{Start date|2025|6|10|df=y}}
+|time       = {{UTZ|20:00|-3}}
+|team1      = {{fb-rt|URU}}
+|score      = 2–0
+|team2      = {{fb|VEN}}
+|goals1     = 
+*[[Rodrigo Aguirre|Aguirre]] {{goal|43}}
+*[[Giorgian de Arrascaeta|De Arrascaeta]] {{goal|47}}
+|goals2     = 
+|stadium    = [[Estadio Centenario]], [[Montevideo]]
+|attendance = 29,672
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400020079 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=eq03x2aj9ubajaxjy1yj96exg Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = ARG v COL
+|date       = {{Start date|2025|6|10|df=y}}
+|time       = {{UTZ|21:00|-3}}
+|team1      = {{fb-rt|ARG}}
+|score      = 1–1
+|team2      = {{fb|COL}}
+|goals1     = [[Thiago  Almada|Almada]] {{goal|81}}
+|goals2     = [[Luis Díaz (footballer, born 1997)|Díaz]] {{goal|24}}
+|stadium    = [[Estadio Monumental (Buenos Aires)|Estadio Monumental]], [[Buenos Aires]]
+|attendance = 77,791
+|referee    = Juan Gabriel Benítez ([[Paraguayan Football Association|Paraguay]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400020078 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=eqamepnynn9s31vgq6re6i1hw Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = BRA v PAR
+|date       = {{Start date|2025|6|10|df=y}}
+|time       = {{UTZ|21:45|-3}}
+|team1      = {{fb-rt|BRA}}
+|score      = 1–0
+|team2      = {{fb|PAR}}
+|goals1     = [[Vinícius Júnior|Vinícius]] {{goal|44}}
+|goals2     = 
+|stadium    = [[Arena Corinthians]], [[São Paulo]]
+|attendance = 43,316
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400020086 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=eql7rrwnwdrp3b2llu7m7vdp0 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = PER v ECU
+|date       = {{Start date|2025|6|10|df=y}}
+|time       = {{UTZ|20:30|-5}}
+|team1      = {{fb-rt|PER}}
+|score      = 0–0
+|team2      = {{fb|ECU}}
+|goals1     = 
+|goals2     = 
+|stadium    = [[National Stadium of Peru|Estadio Nacional]], [[Lima]]
+|attendance = 33,749
+|referee    = Andrés Rojas ([[Colombian Football Federation|Colombia]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400020080 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=eqvrav4ug20s08riajt5fvpjo Report (CONMEBOL)]
+}}
+
+===Matchday 17===
+{{Football box
+|id         = URU v PER
+|date       = {{Start date|2025|9|4|df=y}}
+|time       = {{UTZ|20:30|-3}}
+|team1      = {{fb-rt|URU}}
+|score      = 3–0
+|team2      = {{fb|PER}}
+|goals1     = 
+*[[Rodrigo Aguirre|Aguirre]] {{goal|14}}
+*[[Giorgian de Arrascaeta|De Arrascaeta]] {{goal|58}}
+*[[Federico Viñas|Viñas]] {{goal|80}}
+|goals2     = 
+|stadium    = [[Estadio Centenario]], [[Montevideo]]
+|attendance = 
+|referee    = [[Facundo Tello]] ([[Argentine Football Association|Argentina]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400020567 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido/?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=erfx9wbjm3uohxbko9qdpw3dg Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = COL v BOL
+|date       = {{Start date|2025|9|4|df=y}}
+|time       = {{UTZ|18:30|-5}}
+|team1      = {{fb-rt|COL}}
+|score      = 3–0
+|team2      = {{fb|BOL}}
+|goals1     =
+*[[James Rodríguez|J. Rodríguez]] {{goal|31}}
+*[[Jhon Córdoba|Córdoba]] {{goal|74}}
+*[[Juan Fernando Quintero|Quintero]] {{goal|83}}
+|goals2     = 
+|stadium    = [[Estadio Metropolitano Roberto Meléndez]], [[Barranquilla]]
+|attendance = 
+|referee    = [[Darío Herrera (referee)|Darío Herrera]] ([[Argentine Football Association|Argentina]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400020565 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido/?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=er5d7m7bm30g9maz5dke578yc Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = PAR v ECU
+|date       = {{Start date|2025|9|4|df=y}}
+|time       = {{UTZ|20:30|-3}}
+|team1      = {{fb-rt|PAR}}
+|score      = 0–0
+|team2      = {{fb|ECU}}
+|goals1     = 
+|goals2     = 
+|stadium    = [[Estadio Defensores del Chaco]], [[Asunción]]
+|attendance = 
+|referee    = [[Raphael Claus]] ([[Brazilian Football Confederation|Brazil]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400020570 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido/?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=es07sz56s457davlazkca5c0k Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = ARG v VEN
+|date       = {{Start date|2025|9|4|df=y}}
+|time       = {{UTZ|20:30|-3}}
+|team1      = {{fb-rt|ARG}}
+|score      = 3–0
+|team2      = {{fb|VEN}}
+|goals1     =
+*[[Lionel Messi|Messi]] {{goal|39||80}}
+*[[Lautaro Martínez|La. Martínez]] {{goal|76}}
+|goals2     = 
+|stadium    = [[Estadio Monumental (Buenos Aires)|Estadio Monumental]], [[Buenos Aires]]
+|attendance = 76,490
+|referee    = [[Piero Maza]] ([[Football Federation of Chile|Chile]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400020566 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido/?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=esa2ehacuhfpdo936guaqqvx0 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = BRA v CHI
+|date       = {{Start date|2025|9|4|df=y}}
+|time       = {{UTZ|21:30|-3}}
+|team1      = {{fb-rt|BRA}}
+|score      = 3–0
+|team2      = {{fb|CHI}}
+|goals1     = 
+*[[Estêvão Willian|Estêvão]] {{goal|38}}
+*[[Lucas Paquetá|Paquetá]] {{goal|72}}
+*[[Bruno Guimarães]] {{goal|76}}
+|goals2     = 
+|stadium    = [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]]
+|attendance = 57,326
+|referee    = Alexis Herrera ([[Venezuelan Football Federation|Venezuela]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400020571 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido/?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=erqhg4btvbp9sllpzj570v7ys Report (CONMEBOL)]
+}}
+
+===Matchday 18===
+{{Football box
+|id         = ECU v ARG
+|date       = {{Start date|2025|9|9|df=y}}
+|time       = {{UTZ|18:00|-5}}
+|team1      = {{fb-rt|ECU}}
+|score      = 1–0
+|team2      = {{fb|ARG}}
+|goals1     = [[Enner Valencia|Valencia]] {{goal|45+13|pen.}}
+|goals2     = 
+|stadium    = [[Estadio Monumental Isidro Romero Carbo]], [[Guayaquil]]
+|attendance = 
+|referee    = [[Wilmar Roldán]] ([[Colombian Football Federation|Colombia]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400020574 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=et60pskpqa8cl3cf58bcc87x0 Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = PER v PAR
+|date       = {{Start date|2025|9|9|df=y}}
+|time       = {{UTZ|18:30|-5}}
+|team1      = {{fb-rt|PER}}
+|score      = 0–1
+|team2      = {{fb|PAR}}
+|goals1     = 
+|goals2     = [[Matías Galarza (Paraguayan footballer)|Galarza]] {{goal|78}}
+|stadium    = [[National Stadium of Peru|Estadio Nacional]], [[Lima]]
+|attendance = 
+|referee    = Maximiliano Ramírez ([[Argentine Football Association|Argentina]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400020568 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=etpnrr9vag4g0xejx7jeq4xsk Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = VEN v COL
+|date       = {{Start date|2025|9|9|df=y}}
+|time       = {{UTZ|19:30|-4}}
+|team1      = {{fb-rt|VEN}}
+|score      = 3–6
+|team2      = {{fb|COL}}
+|goals1     = 
+*[[Telasco Segovia|Segovia]] {{goal|3}}
+*[[Josef Martínez|J. Martínez]] {{goal|12}}
+*[[Salomón Rondón|Rondón]] {{goal|76}}
+|goals2     = 
+*[[Yerry Mina|Mina]] {{goal|10}}
+*[[Luis Suárez (footballer, born 1997)|Suárez]] {{goal|42||50||59||67}}
+*[[Jhon Córdoba|Córdoba]] {{goal|78}}
+|stadium    = [[Estadio Monumental de Maturín|Estadio Monumental]], [[Maturín]]
+|attendance = 
+|referee    = [[Wilton Sampaio]] ([[Brazilian Football Confederation|Brazil]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400020569 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=esvdm3vfdk72t9vpnhr5abpxw Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = BOL v BRA
+|date       = {{Start date|2025|9|9|df=y}}
+|time       = {{UTZ|19:30|-4}}
+|team1      = {{fb-rt|BOL}}
+|score      = 1–0
+|team2      = {{fb|BRA}}
+|goals1     = [[Miguel Terceros|Terceros]] {{goal|45+4|pen.}}
+|goals2     = 
+|stadium    = [[Estadio Municipal de El Alto]], [[El Alto]]
+|attendance = 
+|referee    = Cristian Garay ([[Chilean Football Federation|Chile]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400020572 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=esklnlewygsuiupf2mzrwx8no Report (CONMEBOL)]
+}}
+----
+{{Football box
+|id         = CHI v URU
+|date       = {{Start date|2025|9|9|df=y}}
+|time       = {{UTZ|20:30|-3}}
+|team1      = {{fb-rt|CHI}}
+|score      = 0–0
+|team2      = {{fb|URU}}
+|goals1     = 
+|goals2     = 
+|stadium    = [[Estadio Nacional Julio Martínez Prádanos]], [[Santiago]]
+|attendance = 
+|referee    = [[Anderson Daronco]] ([[Brazilian Football Confederation|Brazil]])
+|report     = [https://www.fifa.com/en/match-centre/match/520/288315/288316/400020573 Report (FIFA)]<br/>[https://www.conmebol.com/analisis-del-partido?competition=2db0aw1duj2my9l5iey5gm6nq&season=8r3378w0vwgdwl8hypx4tt0r8&match=etft3excxnzf6n90ep42hegwk Report (CONMEBOL)]
+}}
+
+==Inter-confederation play-offs==
+{{Main|2026 FIFA World Cup qualification (inter-confederation play-offs)}}
+
+The seventh-place team, [[Bolivia national football team|Bolivia]], joined [[DR Congo national football team|DR Congo]] (from [[Confederation of African Football|CAF]]), [[Iraq national football team|Iraq]] (from [[Asian Football Confederation|AFC]]), [[Jamaica national football team|Jamaica]] and [[Suriname national football team|Suriname]] (both from [[CONCACAF]]), and [[New Caledonia national football team|New Caledonia]] (from [[Oceania Football Confederation|OFC]]) in the inter-confederation play-offs.
+
+The teams were ranked according to the November 2025 [[FIFA Men's World Ranking]], with the four lowest-ranked teams playing in two {{nowrap|single-elimination}} matches. The winners met the two highest-ranked teams in another set of {{nowrap|single-elimination}} matches, with the winners of these matches qualifying for the [[2026 FIFA World Cup]].<ref>{{cite web|url=https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/play-off-tournament-draw-results|title=Path to 2026 laid out for Play-Off Tournament hopefuls|date=20 November 2025|access-date=20 November 2025|publisher=FIFA}}</ref>
+
+{{#lst:2026 FIFA World Cup qualification (inter-confederation play-offs)|Pathway 2}}
+
+==Qualified teams==
+[[File:2026 World Cup CONMEBOL Qualification map.png|thumb|right|{{legend|#0000FF|Qualified for the World Cup}}{{legend|#ffcc00|Failed to qualify}}{{legend|#CCCCCC|Not a CONMEBOL member}}|396x396px]]
+The following teams from CONMEBOL qualified for the final tournament.
+{| class="wikitable sortable"
+|-
+! Team
+! Qualified as
+! Qualified on
+! data-sort-type="number"|Previous [[National team appearances in the FIFA World Cup|appearances]] in [[FIFA World Cup]]{{efn-ua|'''Bold''' indicates champions for that year. ''Italic'' indicates hosts for that year.}}
+|-
+| {{fb|ARG}} || {{sort|1|Winners}} || {{dts|25 March 2025}} || 18 ([[1930 FIFA World Cup|1930]], [[1934 FIFA World Cup|1934]], [[1958 FIFA World Cup|1958]], [[1962 FIFA World Cup|1962]], [[1966 FIFA World Cup|1966]], [[1974 FIFA World Cup|1974]], '''''[[1978 FIFA World Cup|1978]]''''', [[1982 FIFA World Cup|1982]], '''[[1986 FIFA World Cup|1986]]''', [[1990 FIFA World Cup|1990]], [[1994 FIFA World Cup|1994]], [[1998 FIFA World Cup|1998]], [[2002 FIFA World Cup|2002]], [[2006 FIFA World Cup|2006]], [[2010 FIFA World Cup|2010]], [[2014 FIFA World Cup|2014]], [[2018 FIFA World Cup|2018]], '''[[2022 FIFA World Cup|2022]]''')
+|-
+| {{fb|ECU}} || {{sort|1|Runners-up}} || {{dts|10 June 2025}} || 4 ([[2002 FIFA World Cup|2002]], [[2006 FIFA World Cup|2006]], [[2014 FIFA World Cup|2014]], [[2022 FIFA World Cup|2022]])
+|-
+| {{fb|COL}} || {{sort|1|Third place}} ||rowspan=2| {{dts|4 September 2025}} || 6 ([[1962 FIFA World Cup|1962]], [[1990 FIFA World Cup|1990]], [[1994 FIFA World Cup|1994]], [[1998 FIFA World Cup|1998]], [[2014 FIFA World Cup|2014]], [[2018 FIFA World Cup|2018]])
+|-
+| {{fb|URU}} || {{sort|1|Fourth place}}|| 14 ('''''[[1930 FIFA World Cup|1930]]''''', '''[[1950 FIFA World Cup|1950]]''', [[1954 FIFA World Cup|1954]], [[1962 FIFA World Cup|1962]], [[1966 FIFA World Cup|1966]], [[1970 FIFA World Cup|1970]], [[1974 FIFA World Cup|1974]], [[1986 FIFA World Cup|1986]], [[1990 FIFA World Cup|1990]], [[2002 FIFA World Cup|2002]], [[2010 FIFA World Cup|2010]], [[2014 FIFA World Cup|2014]], [[2018 FIFA World Cup|2018]], [[2022 FIFA World Cup|2022]])
+|-
+| {{fb|BRA}} || {{sort|1|Fifth place}} || {{dts|10 June 2025}} || 22 ([[1930 FIFA World Cup|1930]], [[1934 FIFA World Cup|1934]], [[1938 FIFA World Cup|1938]], ''[[1950 FIFA World Cup|1950]]'', [[1954 FIFA World Cup|1954]], '''[[1958 FIFA World Cup|1958]]''', '''[[1962 FIFA World Cup|1962]]''', [[1966 FIFA World Cup|1966]], '''[[1970 FIFA World Cup|1970]]''', [[1974 FIFA World Cup|1974]], [[1978 FIFA World Cup|1978]], [[1982 FIFA World Cup|1982]], [[1986 FIFA World Cup|1986]], [[1990 FIFA World Cup|1990]], '''[[1994 FIFA World Cup|1994]]''', [[1998 FIFA World Cup|1998]], '''[[2002 FIFA World Cup|2002]]''', [[2006 FIFA World Cup|2006]], [[2010 FIFA World Cup|2010]], ''[[2014 FIFA World Cup|2014]]'', [[2018 FIFA World Cup|2018]], [[2022 FIFA World Cup|2022]])
+|-
+| {{fb|PAR}} || {{sort|1|Sixth place}} || {{dts|4 September 2025}} || 8 ([[1930 FIFA World Cup|1930]], [[1950 FIFA World Cup|1950]], [[1958 FIFA World Cup|1958]], [[1986 FIFA World Cup|1986]], [[1998 FIFA World Cup|1998]], [[2002 FIFA World Cup|2002]], [[2006 FIFA World Cup|2006]], [[2010 FIFA World Cup|2010]])
+|-
+|}
+{{notelist-ua}}
+{{Clear}}
+
+==Goalscorers==
+{{Goalscorers
+|goals=183 |matches=90
+
+|8 goals=
+*{{fbicon|ARG}} [[Lionel Messi]]
+
+|7 goals=
+*{{fbicon|BOL}} [[Miguel Terceros]]
+*{{fbicon|COL}} [[Luis Díaz (footballer, born 1997)|Luis Díaz]]
+
+|6 goals=
+*{{fbicon|ECU}} [[Enner Valencia]]
+*{{fbicon|VEN}} [[Salomón Rondón]]
+
+|5 goals=
+*{{fbicon|BRA}} [[Raphinha]]
+*{{fbicon|URU}} [[Darwin Núñez]]
+
+|4 goals=
+*{{fbicon|ARG}} [[Julián Alvarez]]
+*{{fbicon|ARG}} [[Lautaro Martínez]]
+*{{fbicon|COL}} [[Luis Suárez (footballer, born 1997)|Luis Suárez]]
+*{{fbicon|PAR}} [[Antonio Sanabria]]
+
+|3 goals=
+*{{fbicon|ARG}} [[Thiago Almada]]
+*{{fbicon|ARG}} [[Nicolás Otamendi]]
+*{{fbicon|BRA}} [[Rodrygo]]
+*{{fbicon|CHI}} [[Eduardo Vargas]]
+*{{fbicon|COL}} [[James Rodríguez]]
+*{{fbicon|PAR}} [[Julio Enciso (footballer, born 2004)|Julio Enciso]]
+*{{fbicon|URU}} [[Rodrigo Aguirre]]
+*{{fbicon|URU}} [[Nicolás de la Cruz]]
+
+|2 goals=
+*{{fbicon|ARG}} [[Enzo Fernández]]
+*{{fbicon|ARG}} [[Nicolás González (footballer, born 1998)|Nicolás González]]
+*{{fbicon|ARG}} [[Alexis Mac Allister]]
+*{{fbicon|BOL}} [[Carmelo Algarañaz]]
+*{{fbicon|BOL}} [[Enzo Monteiro]]
+*{{fbicon|BOL}} [[Ramiro Vaca]]
+*{{fbicon|BRA}} [[Luiz Henrique (footballer, born 2001)|Luiz Henrique]]
+*{{fbicon|BRA}} [[Neymar]]
+*{{fbicon|BRA}} [[Vinícius Júnior]]
+*{{fbicon|CHI}} [[Lucas Cepeda]]
+*{{fbicon|COL}} [[Jhon Córdoba]]
+*{{fbicon|COL}} [[Jhon Durán]]
+*{{fbicon|COL}} [[Juan Fernando Quintero]]
+*{{fbicon|COL}} [[Rafael Santos Borré]]
+*{{fbicon|ECU}} [[Gonzalo Plata]]
+*{{fbicon|ECU}} [[Félix Torres (footballer, born 1997)|Félix Torres]]
+*{{fbicon|PAR}} [[Omar Alderete]]
+*{{fbicon|PAR}} [[Matías Galarza (Paraguayan footballer)|Matías Galarza]]
+*{{fbicon|URU}} [[Giorgian de Arrascaeta]]
+*{{fbicon|URU}} [[Federico Valverde]]
+*{{fbicon|VEN}} [[Jefferson Savarino]]
+*{{fbicon|VEN}} [[Telasco Segovia]]
+
+|1 goal=
+*{{fbicon|ARG}} [[Paulo Dybala]]
+*{{fbicon|ARG}} [[Giuliano Simeone]]
+*{{fbicon|ARG}} [[Nicolás Tagliafico]]
+*{{fbicon|BOL}} [[Víctor Ábrego]]
+*{{fbicon|BOL}} [[Rodrigo Ramallo]]
+*{{fbicon|BOL}} [[Ervin Vaca]]
+*{{fbicon|BOL}} [[Henry Vaca]]
+*{{fbicon|BRA}} [[Matheus Cunha]]
+*{{fbicon|BRA}} [[Estêvão Willian|Estêvão]]
+*{{fbicon|BRA}} [[Gerson (footballer, born 1997)|Gerson]]
+*{{fbicon|BRA}} [[Bruno Guimarães]]
+*{{fbicon|BRA}} [[Igor Jesus (footballer, born 2001)|Igor Jesus]]
+*{{fbicon|BRA}} [[Gabriel Magalhães]]
+*{{fbicon|BRA}} [[Marquinhos]]
+*{{fbicon|BRA}} [[Gabriel Martinelli]]
+*{{fbicon|BRA}} [[Lucas Paquetá]]
+*{{fbicon|BRA}} [[Andreas Pereira]]
+*{{fbicon|CHI}} [[Marcelino Núñez]]
+*{{fbicon|CHI}} [[Diego Valdés (Chilean footballer)|Diego Valdés]]
+*{{fbicon|CHI}} [[Arturo Vidal]]
+*{{fbicon|COL}} [[Andrés Gómez (footballer)|Andrés Gómez]]
+*{{fbicon|COL}} [[Yerry Mina]]
+*{{fbicon|COL}} [[Yerson Mosquera]]
+*{{fbicon|COL}} [[Davinson Sánchez]]
+*{{fbicon|COL}} [[Luis Sinisterra]]
+*{{fbicon|COL}} [[Mateus Uribe]]
+*{{fbicon|ECU}} [[Ángel Mena]]
+*{{fbicon|ECU}} [[Alan Minda]]
+*{{fbicon|ECU}} [[Kendry Páez]]
+*{{fbicon|ECU}} [[Kevin Rodríguez (footballer, born 2000)|Kevin Rodríguez]]
+*{{fbicon|PAR}} [[Miguel Almirón]]
+*{{fbicon|PAR}} [[Júnior Alonso]]
+*{{fbicon|PAR}} [[Diego Gómez (Paraguayan footballer)|Diego Gómez]]
+*{{fbicon|PER}} [[Miguel Araujo]]
+*{{fbicon|PER}} [[Alexander Callens]]
+*{{fbicon|PER}} [[Edison Flores]]
+*{{fbicon|PER}} [[Paolo Guerrero]]
+*{{fbicon|PER}} [[Andy Polo]]
+*{{fbicon|PER}} [[Yoshimar Yotún]]
+*{{fbicon|URU}} [[Ronald Araújo]]
+*{{fbicon|URU}} [[Agustín Canobbio]]
+*{{fbicon|URU}} [[Mathías Olivera]]
+*{{fbicon|URU}} [[Manuel Ugarte (footballer)|Manuel Ugarte]]
+*{{fbicon|URU}} [[Federico Viñas]]
+*{{fbicon|VEN}} [[Jon Aramburu]]
+*{{fbicon|VEN}} [[Eduard Bello]]
+*{{fbicon|VEN}} [[Jhonder Cádiz]]
+*{{fbicon|VEN}} [[Darwin Machís]]
+*{{fbicon|VEN}} [[Salomón Rondón]]
+*{{fbicon|VEN}} [[Josef Martínez]]
+*{{fbicon|VEN}} [[Yeferson Soteldo]]
+
+|1 own goal=
+*{{fbicon|BOL}} [[Gabriel Villamíl]] (against Uruguay)
+*{{fbicon|BOL}} [[Héctor Cuéllar]] (against Venezuela)
+*{{fbicon|COL}} [[Davinson Sánchez]] (against Uruguay)
+*{{fbicon|VEN}} [[Tomás Rincón]] (against Chile)
+
+}}
+
+==Discipline==
+A player was automatically suspended for the next match for the following infractions:<ref name="regulations">{{cite web| url=https://digitalhub.fifa.com/m/18d857c3ec3e64f8/original/FIFA-World-Cup-2026-Preliminary-Competition_EN.pdf |title=Regulations: FIFA World Cup 2026 Preliminary Competition |publisher=[[FIFA]] |date=June 2023 |access-date=15 November 2023}}</ref>
+* Receiving a red card (red card suspensions may be extended for serious infractions)
+* Receiving two yellow cards in two different matches (yellow card suspensions are carried forward to further qualification rounds, but not the finals or any other future international matches)
+The following suspensions were served during qualification:
+{{sticky header}}
+{| class="wikitable mw-collapsible mw-collapsed sticky-header" style="font-size:90%"
+|-
+! Team !! Player !! Infraction(s) !! Suspended for match(es)
+|-
+| rowspan=8 | {{fb|ARG}} || rowspan=2 | [[Enzo Fernández]] || {{yel}} vs Paraguay (12 October 2023)<br/>{{yel}} vs Brazil (25 March 2025) || vs Chile (5 June 2025)
+|-
+| {{sent off|0}} vs Colombia (10 June 2025) || vs Venezuela (4 September 2025)<br/>vs Ecuador (9 September 2025)
+|-
+| [[Nicolás González (footballer, born 1998)|Nicolás González]] || {{sent off|0}} vs Uruguay (21 March 2025) || vs Brazil (25 March 2025)<br/>vs Chile (5 June 2025)
+|-
+| [[Emiliano Martínez]] || Post-match misconduct vs Chile (5 September 2024)<br/>Post-match misconduct vs Colombia (10 September 2024) || vs Venezuela (10 October 2024)<br/>vs Bolivia (15 October 2024)
+|-
+| [[Nicolás Otamendi]] || {{yel}} vs Paraguay (14 November 2024)<br/>{{yel}} vs Brazil (25 March 2025) || vs Chile (5 June 2025)
+|-
+| [[Leandro Paredes]] || {{yel}} vs Ecuador (7 September 2023)<br/>{{yel}} vs Brazil (25 March 2025) || vs Chile (5 June 2025)
+|-
+| [[Cristian Romero (Argentine footballer)|Cristian Romero]] || {{yel}} vs Uruguay (16 November 2023)<br/>{{yel}} vs Colombia (10 October 2024) || vs Venezuela (10 October 2024)
+|-
+| [[Nicolás Tagliafico]] || {{yel}} vs Brazil (25 March 2025)<br/>{{yel}} vs Chile (5 June 2025) || vs Colombia (10 June 2025)
+|-
+| rowspan=10 | {{fb|BOL}} || [[Carmelo Algarañaz]] || {{yel}} vs Argentina (12 September 2023)<br/>{{yel}} vs Argentina (15 October 2024) || vs Ecuador (14 November 2024)
+|-
+| [[Lucas Chávez (Bolivian footballer)|Lucas Chávez]] || {{yel}} vs Ecuador (14 November 2024)<br/>{{sent off|0}} vs Chile (10 June 2025) || vs Colombia (4 September 2025)<br/>vs Brazil (9 September 2025)
+|-
+| rowspan=2 | [[Héctor Cuéllar]] || {{yel}} vs Ecuador (12 October 2023)<br/>{{yel}} vs Venezuela (5 September 2024) || vs Chile (10 September 2024)
+|-
+| {{sent off|0}} vs Colombia (10 October 2024) || vs Argentina (15 October 2024)
+|-
+| [[Roberto Fernández (Bolivian footballer)|Roberto Fernández]] || {{sent off|0}} vs Argentina (12 September 2023) || vs Ecuador (12 October 2023)<br/>vs Paraguay (17 October 2023)
+|-
+| [[Luis Haquín]] || {{yel}} vs Paraguay (17 October 2023)<br/>{{yel}} vs Venezuela (6 June 2025) || vs Chile (10 June 2025)
+|-
+| [[José Sagredo]] || {{sent off|0}} vs Ecuador (14 November 2024) || vs Paraguay (19 November 2024)
+|-
+| [[Adalid Terrazas]] || {{sent off|0}} vs Paraguay (19 November 2024) || vs Peru (20 March 2025)
+|-
+| [[Ramiro Vaca]] || {{yel}} vs Uruguay (21 November 2023)<br/>{{yel}} vs Venezuela (5 September 2024) || vs Chile (10 September 2024)
+|-
+| [[Gabriel Villamil]] || {{yel}} vs Argentina (12 September 2023)<br/>{{yel}} vs Paraguay (17 October 2023) || vs Peru (16 November 2023)
+|-
+| rowspan=10 | {{fb|BRA}} || [[André (footballer, born 2001)|André]] || {{yel}} vs Venezuela (12 October 2023)<br/>{{yel}} vs Argentina (25 March 2025) || vs Ecuador (5 June 2025)
+|-
+| [[Bruno Guimarães]] || {{yel}} vs Peru (12 September 2023)<br/>{{yel}} vs Colombia (20 March 2025) || vs Argentina (25 March 2025)
+|-
+| [[Gabriel Jesus]] || {{yel}} vs Uruguay (17 October 2023)<br/>{{yel}} vs Argentina (21 November 2023) || vs Ecuador (6 September 2024)
+|-
+| [[Gabriel Magalhães]] || {{yel}} vs Uruguay (19 November 2024)<br/>{{yel}} vs Colombia (20 March 2025) || vs Argentina (25 March 2025)
+|-
+| [[Joelinton]] || {{sent off|0}} vs Argentina (21 November 2023) || vs Ecuador (6 September 2024)<br/>vs Paraguay (10 September 2024)
+|-
+| [[Lucas Paquetá]] || {{yel}} vs Paraguay (10 September 2024)<br/>{{yel}} vs Chile (10 October 2024) || vs Peru (15 October 2024)
+|-
+| rowspan=2 | [[Raphinha]] || {{yel}} vs Peru (12 September 2023)<br/>{{yel}} vs Argentina (21 November 2023) || vs Ecuador (6 September 2024)
+|-
+| {{yel}} vs Uruguay (19 November 2024)<br/>{{yel}} vs Argentina (25 March 2025) || vs Ecuador (5 June 2025)
+|-
+| [[Vanderson (footballer, born 2001)|Vanderson]] || {{yel}} vs Peru (15 October 2024)<br/>{{yel}} vs Venezuela (14 November 2024) || vs Uruguay (19 November 2024)
+|-
+| [[Vinícius Júnior]] || {{yel}} vs Paraguay (10 September 2024)<br/>{{yel}} vs Paraguay (10 June 2025) || vs Chile (4 September 2025)
+|-
+| rowspan=13 | {{fb|CHI}} || [[Matías Catalán]] || {{yel}} vs Colombia (12 September 2023)<br/>{{yel}} vs Bolivia (10 September 2024) || vs Brazil (10 October 2024)
+|-
+| [[Víctor Dávila]] || {{yel}} vs Argentina (5 September 2024)<br/>{{yel}} vs Bolivia (10 June 2025) || vs Brazil (4 September 2025)
+|-
+| [[Paulo Díaz]] || {{yel}} vs Argentina (5 September 2024)<br/>{{yel}} vs Bolivia (10 September 2024) || vs Brazil (10 October 2024)
+|-
+| [[Felipe Loyola]] || {{yel}} vs Brazil (10 October 2024)<br/>{{yel}} vs Peru (15 November 2024) || vs Venezuela (19 November 2024)
+|-
+| [[Guillermo Maripán]] || {{yel}} vs Paraguay (16 November 2023)<br/>{{yel}} vs Argentina (5 June 2025) || vs Bolivia (10 June 2025)
+|-
+| [[Gary Medel]] || {{yel}} vs Uruguay (8 September 2023)<br/>{{yel}} vs Paraguay (16 November 2023) || vs Ecuador (21 November 2023)
+|-
+| [[Felipe Mendez]] || {{sent off|0}} vs Paraguay (16 November 2023) || vs Ecuador (21 November 2023)<br/>vs Argentina (5 September 2024)
+|-
+| [[Marcelino Núñez]] || {{yel}} vs Uruguay (8 September 2023)<br/>{{sent off|2}} vs Venezuela (17 October 2023) || vs Paraguay (16 November 2023)
+|-
+| rowspan=2 | [[Erick Pulgar]] || {{yel}} vs Uruguay (8 September 2023)<br/>{{yel}} vs Peru (12 October 2023) || vs Venezuela (17 October 2023)
+|-
+| {{yel}} vs Ecuador (21 November 2023)<br/>{{yel}} vs Bolivia (10 September 2024) || vs Brazil (10 October 2024)
+|-
+| [[Francisco Sierralta]] || {{sentoff|0}} vs Bolivia (10 June 2025 || vs Brazil (4 September 2025)<br/>vs Uruguay (9 September 2025)
+|-
+| [[Gabriel Suazo]] || {{yel}} vs Venezuela (17 October 2023)<br/>{{yel}} vs Bolivia (10 September 2024) || vs Brazil (10 October 2024)
+|-
+| [[Arturo Vidal]] || {{yel}} vs Venezuela (19 November 2024)<br/>{{yel}} vs Argentina (5 June 2025) || vs Bolivia (10 June 2025)
+|-
+| rowspan=10 | {{fb|COL}} || [[Jhon Arias (footballer)|Jhon Arias]] || {{yel}} vs Chile (12 September 2023)<br/>{{yel}} vs Ecuador (17 October 2023) || vs Brazil (16 November 2023)
+|-
+| [[Kevin Castaño]] || {{yel}} vs Bolivia (10 October 2024)<br/>{{yel}} vs Argentina (10 June 2025) || vs Bolivia (4 September 2025)
+|-
+| [[Jhon Córdoba]] || {{yel}} vs Paraguay (21 November 2023)<br/>{{yel}} vs Chile (15 October 2024) || vs Uruguay (15 November 2024)
+|-
+| [[Luis Díaz (footballer, born 1997)|Luis Díaz]] || {{yel}} vs Chile (12 September 2023)<br/>{{yel}} vs Paraguay (25 March 2025) || vs Peru (6 June 2025)
+|-
+| rowspan=2 | [[Jhon Durán]] || {{yel}} vs Chile (12 September 2023)<br/>{{yel}} vs Argentina (10 September 2024) || vs Bolivia (10 October 2024)
+|-
+| {{yel}} vs Uruguay (15 November 2024)<br/>{{yel}} vs Ecuador (19 November 2024) || vs Brazil (20 March 2025)
+|-
+| [[Yerry Mina]] || {{yel}} vs Paraguay (21 November 2023)<br/>{{yel}} vs Peru (6 September 2024) || vs Argentina (10 September 2024)
+|-
+| [[Daniel Muñoz (footballer)|Daniel Muñoz]] || {{yel}} vs Paraguay (21 November 2023)<br/>{{yel}} vs Argentina (10 June 2025) || vs Bolivia (4 September 2025)
+|-
+| [[Davinson Sánchez]] || {{yel}} vs Ecuador (17 October 2023)<br/>{{yel}} vs Brazil (16 November 2023) || vs Paraguay (21 November 2023)
+|-
+| [[Camilo Vargas]] || {{sent off|2}} vs Uruguay (12 October 2023) || vs Ecuador (17 October 2023)
+|-
+| rowspan=7 | {{fb|ECU}} || [[Moisés Caicedo]] || {{yel}} vs Paraguay (10 October 2024)<br/>{{yel}} vs Uruguay (15 October 2024) || vs Bolivia (14 November 2024)
+|-
+| [[José Cifuentes]] || {{yel}} vs Argentina (7 September 2023)<br/>{{yel}} vs Venezuela (16 November 2023) || vs Chile (21 November 2023)
+|-
+| [[Alan Franco (footballer, born 1998)|Alan Franco]] || {{yel}} vs Venezuela (16 November 2023)<br/>{{sent off|2}} vs Peru (10 June 2025) || vs Paraguay (4 September 2025)
+|-
+| [[Carlos Gruezo (footballer, born 1995)|Carlos Gruezo]] || {{yel}} vs Colombia (17 October 2023)<br/>{{yel}} vs Colombia (19 November 2024) || vs Venezuela (21 March 2025)
+|-
+| rowspan=2 | [[Piero Hincapié]] || {{yel}} vs Colombia (17 October 2023)<br/>{{yel}} vs Venezuela (16 November 2023) || vs Chile (21 November 2023)
+|-
+| {{sent off|0}} vs Colombia (19 November 2024) || vs Venezuela (21 March 2025)
+|-
+| [[Ángelo Preciado]] || {{yel}} vs Uruguay (12 September 2023)<br/>{{yel}} vs Chile (21 November 2023) || vs Brazil (6 September 2024)
+|-
+| rowspan=11 | {{fb|PAR}} || [[Omar Alderete]] || {{yel}} vs Venezuela (15 October 2024)<br/>{{yel}} vs Argentina (14 November 2024) || vs Bolivia (19 November 2024)
+|-
+| [[Júnior Alonso]] || {{yel}} vs Argentina (12 October 2023)<br/>{{yel}} vs Brazil (10 September 2024) || vs Ecuador (10 October 2024)
+|-
+| [[Adam Bareiro]] || {{yel}} vs Argentina (12 October 2023)<br/>{{yel}} vs Bolivia (17 October 2023) || vs Chile (16 November 2023)
+|-
+| [[Hernesto Caballero]] || {{yel}} vs Chile (16 November 2023)<br/>{{yel}} vs Colombia (21 November 2023) || vs Uruguay (6 September 2024)
+|-
+| [[Juan José Cáceres|Juan Cáceres]] || {{yel}} vs Colombia (21 November 2023)<br/>{{yel}} vs Venezuela (15 October 2024) || vs Argentina (14 November 2024)
+|-
+| [[Andrés Cubas]] || {{yel}} vs Uruguay (6 September 2024)<br/>{{yel}} vs Argentina (14 November 2024) || vs Bolivia (19 November 2024)
+|-
+| [[Matías Galarza (Paraguayan footballer)|Matías Galarza]] || {{yel}} vs Colombia (25 March 2025)<br/>{{yel}} vs Uruguay (5 June 2025) || vs Brazil (10 June 2025)
+|-
+| rowspan=2 | [[Diego Gómez (Paraguayan footballer)|Diego Gómez]] || {{yel}} vs Chile (16 November 2023)<br/>{{yel}} vs Brazil (10 September 2024) || vs Ecuador (10 October 2024)
+|-
+| {{sent off|0}} vs Bolivia (19 November 2024) || vs Chile (20 March 2025)
+|-
+| [[Gustavo Gómez]] || {{yel}} vs Venezuela (12 September 2023)<br/>{{yel}} vs Uruguay (6 September 2024) || vs Brazil (10 September 2024)
+|-
+| [[Robert Rojas]] || {{sent off|0}} vs Chile (16 November 2023) || vs Colombia (21 November 2023)<br/>vs Uruguay (6 September 2024)
+|-
+| rowspan=14 | {{fb|PER}} || rowspan=2 | [[Luis Advíncula]] || {{sent off|2}} vs Paraguay (7 September 2023) || vs Brazil (12 September 2023)
+|-
+| {{yel}} vs Argentina (17 October 2023)<br/>{{yel}} vs Bolivia (16 November 2023) || vs Venezuela (21 November 2023)
+|-
+| [[Miguel Araujo]] || {{yel}} vs Paraguay (7 September 2023)<br/>{{yel}} vs Argentina (19 November 2024) || vs Bolivia (20 March 2025)
+|-
+| rowspan=2 | [[Wilder Cartagena]] || {{yel}} vs Brazil (12 September 2023)<br/>{{yel}} vs Ecuador (10 September 2024) || vs Uruguay (11 October 2024)
+|-
+| {{yel}} vs Brazil (15 October 2024)<br/>{{yel}} vs Chile (15 November 2024) || vs Argentina (19 November 2024)
+|-
+| [[Pedro Gallese]] || {{yel}} vs Bolivia (16 November 2023)<br/>{{yel}} vs Brazil (15 October 2024) || vs Chile (15 November 2024)
+|-
+| [[Bryan Reyna]] || {{yel}} vs Bolivia (16 November 2023)<br/>{{yel}} vs Brazil (15 October 2024) || vs Chile (15 November 2024)
+|-
+| [[Renato Tapia]] || {{yel}} vs Brazil (12 September 2023)<br/>{{yel}} vs Ecuador (10 June 2025) || vs Uruguay (4 September 2025)
+|-
+| [[Yoshimar Yotún]] || {{yel}} vs Argentina (17 October 2023)<br/>{{yel}} vs Venezuela (21 November 2023) || vs Colombia (6 September 2024)
+|-
+| rowspan=3 | [[Marcos López]] || {{yel}} vs Brazil (12 September 2023)<br/>{{yel}} vs Chile (12 October 2023) || vs Argentina (17 October 2023)
+|-
+| {{yel}} vs Venezuela (21 November 2023)<br/>{{yel}} vs Ecuador (10 September 2024) || vs Uruguay (11 October 2024)
+|-
+| Damaging VAR equipment vs Brazil (15 October 2024) || vs Chile (15 November 2024)
+|-
+| rowspan=2 | [[Carlos Zambrano (footballer)|Carlos Zambrano]] || Offensive behavior vs Brazil (15 October 2024) || vs Chile (15 November 2024)
+|-
+| {{yel}} vs Brazil (15 October 2024)<br/>{{yel}} vs Argentina (19 November 2024) || vs Bolivia (20 March 2025)
+|-
+| rowspan=10 | {{fb|URU}} || [[Ronald Araújo]] || {{yel}} vs Brazil (17 October 2023)<br/>{{yel}} vs Venezuela (10 June 2025) || vs Peru (4 September 2025)
+|-
+| [[Rodrigo Bentancur]] || {{yel}} vs Colombia (15 November 2024)<br/>{{yel}} vs Bolivia (25 March 2025) || vs Paraguay (5 June 2025)
+|-
+| rowspan=3 | [[Nahitan Nández]] || {{yel}} vs Brazil (17 October 2023)<br/>{{yel}} vs Paraguay (6 September 2024) || vs Venezuela (10 September 2024)
+|-
+| {{yel}} vs Peru (11 October 2024)<br/>{{yel}} vs Colombia (15 November 2024) || vs Brazil (19 November 2024)
+|-
+| {{yel}} vs Argentina (21 March 2025)<br/>{{yel}} vs Venezuela (10 June 2025) || vs Peru (4 September 2025)
+|-
+| [[Mathías Olivera]] || {{yel}} vs Ecuador (12 September 2023)<br/>{{yel}} vs Argentina (16 November 2023) || vs Bolivia (21 November 2023)
+|-
+| rowspan=2 | [[Manuel Ugarte (footballer)|Manuel Ugarte]] || {{yel}} vs Chile (8 September 2023)<br/>{{yel}} vs Argentina (16 November 2023) || vs Bolivia (21 November 2023)
+|-
+| {{yel}} vs Venezuela (10 September 2024)<br/>{{yel}} vs Brazil (19 November 2024) || vs Argentina (21 March 2025)
+|-
+| [[Federico Valverde]] || {{yel}} vs Chile (8 September 2023)<br/>{{yel}} vs Paraguay (6 September 2024) || vs Venezuela (10 September 2024)
+|-
+| [[Matías Viña]] || {{yel}} vs Chile (8 September 2023)<br/>{{yel}} vs Ecuador (12 September 2023) || vs Colombia (12 October 2023)
+|-
+| rowspan=12 | {{fb|VEN}} || [[Wilker Ángel]] || {{yel}} vs Ecuador (16 November 2023)<br/>{{yel}} vs Chile (19 November 2024) || vs Ecuador (21 March 2025)
+|-
+| [[Jon Aramburu]] || {{yel}} vs Paraguay (15 October 2024)<br/>{{yel}} vs Chile (19 November 2024) || vs Ecuador (21 March 2025)
+|-
+| rowspan=2 | [[Cristian Cásseres Jr.|Cristian Cásseres]] || {{yel}} vs Bolivia (5 September 2024)<br/>{{yel}} vs Uruguay (10 September 2024) || vs Argentina (10 October 2024)
+|-
+| {{yel}} vs Paraguay (15 October 2024)<br/>{{yel}} vs Brazil (14 November 2024) || vs Chile (19 November 2024)
+|-
+| [[Alexander González (footballer, born 1992)|Alexander González]] || {{yel}} vs Colombia (7 September 2023)<br/>{{sent off|0}} vs Brazil (14 November 2024) || vs Chile (19 November 2024)
+|-
+| [[Yangel Herrera]] || {{yel}} vs Brazil (12 October 2023)<br/>{{yel}} vs Peru (25 March 2025) || vs Bolivia (6 June 2025)
+|-
+| rowspan=3 | [[José Andrés Martínez|José Martínez]] || {{yel}} vs Paraguay (12 September 2023)<br/>{{yel}} vs Ecuador (16 November 2023) || vs Peru (21 November 2023)
+|-
+| {{yel}} vs Uruguay (10 September 2024)<br/>{{yel}} vs Argentina (10 October 2024) || vs Paraguay (15 October 2024)
+|-
+| {{yel}} vs Chile (19 November 2024)<br/>{{yel}} vs Uruguay (10 June 2025) || vs Argentina (4 September 2025)
+|-
+| [[Miguel Navarro (footballer)|Miguel Navarro]] || {{yel}} vs Paraguay (12 September 2023)<br/>{{yel}} vs Uruguay (10 September 2024) || vs Argentina (10 October 2024)
+|-
+| [[Telasco Segovia]] || {{yel}} vs Brazil (14 November 2024)<br/>{{yel}} vs Uruguay (10 June 2025) || vs Argentina (4 September 2025)
+|-
+| [[Yeferson Soteldo]] || {{yel}} vs Bolivia (5 September 2024)<br/>{{yel}} vs Paraguay (15 October 2024) || vs Brazil (14 November 2024)
+|}
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist}}
+
+{{2026 FIFA World Cup qualification}}
+{{CONMEBOL World Cup}}
+
+[[Category:2026 FIFA World Cup qualification|Conmebol]]
+[[Category:2023 in South American men's international football]]
+[[Category:2024 in South American men's international football]]
+[[Category:2025 in South American international football]]
+[[Category:FIFA World Cup qualification (CONMEBOL)]]
+[[Category:Argentina at the 2026 FIFA World Cup|Q]]
+[[Category:Brazil at the 2026 FIFA World Cup|Q]]
+[[Category:Colombia at the 2026 FIFA World Cup|Q]]
+[[Category:Ecuador at the 2026 FIFA World Cup|Q]]
+[[Category:Paraguay at the 2026 FIFA World Cup|Q]]
+[[Category:Uruguay at the 2026 FIFA World Cup|Q]]

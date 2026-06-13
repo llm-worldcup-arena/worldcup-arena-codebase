@@ -1,0 +1,35 @@
+{
+ "team": "PAR",
+ "coach": {
+  "name_zh": "古斯塔沃·阿尔法罗",
+  "name_en": "Gustavo Alfaro",
+  "nationality": "Argentina",
+  "career_since": "1992",
+  "person_id": "per_gustavo_alfaro"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "阿根廷教头古斯塔沃·阿尔法罗2023年起执掌巴拉圭国家队，率队在缺席三届世界杯后重返2026世界杯决赛圈。战术以4-2-3-1或4-4-2为主，强调双防线紧凑、压缩空间，通过快速转换找阿尔米隆发动反击，预选赛18场仅失14球。带队近8场不败，期间击败巴西、阿根廷、乌拉圭，终结巴拉圭连续16年无缘世界杯的尴尬纪录。进攻体系极度依赖阿尔米隆的推进与压迫，恩西索的长射为变数。世界杯前热身赛恩西索大腿受伤，一度濒临退赛，采取谨慎策略未立即换人，联合巴拉圭足协调来专业超声医师每日监测，最终球员一周内奇迹康复并参与合练。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": true,
+  "need_fix": true,
+  "keep_ratio": 0.7,
+  "issues": [
+   "抒情套话：英雄人物/DNA口号",
+   "废话：带着历史与爱意出征",
+   "无关预测：阿根廷同胞对决看点"
+  ]
+ },
+ "brief_fetched": "2026-06-13_1750",
+ "brief_info_chars": 6000,
+ "coach_xverify": {
+  "canonical": "Gustavo Alfaro",
+  "confidence": "high",
+  "discrepancy": "RotoWire 同时提及 'Manager Mauricio Pochettino's side' 与 'Paraguay, under coach Gustavo Alfaro'，但前者指东道主美国队（与巴拉圭同组），并非巴拉圭主帅。所有来源一致确认 Alfaro 为巴拉圭现任主教练。",
+  "sources_agree": 7,
+  "n_sources": 7
+ }
+}

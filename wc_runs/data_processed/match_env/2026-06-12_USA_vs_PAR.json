@@ -1,0 +1,43 @@
+{
+ "match": {
+  "slug": "2026-06-12_USA_vs_PAR",
+  "date": "2026-06-12",
+  "home": "USA",
+  "away": "PAR",
+  "round": "group",
+  "group": "D"
+ },
+ "kickoff": {
+  "美东": "2026-06-12T21:00:00-04:00",
+  "北京": "06-13 09:00"
+ },
+ "venue": {
+  "name": "SoFi Stadium",
+  "city": "Inglewood, California",
+  "altitude_m": 30,
+  "roof": "fixed-canopy",
+  "surface": "grass"
+ },
+ "weather": {
+  "开球时段": {
+   "温度C": 20.6,
+   "体感C": 20.7,
+   "降水概率%": 0,
+   "降水mm": 0.0,
+   "风速kmh": 18.7,
+   "湿度%": 83,
+   "天况": "晴"
+  },
+  "source": "open-meteo(免费预报API)",
+  "fetched": "2026-06-13_0748",
+  "_note": "临近开球建议 --refresh 刷新"
+ },
+ "referee": {
+  "name": "Danny Makkelie(荷兰)",
+  "var": "Carlos del Cerro Grande(西班牙)",
+  "source": "WebSearch多源(Yahoo/WorldSoccerTalk/VAVEL)",
+  "fetched": "2026-06-13_0748",
+  "brief": "- **执法风格**：尺度严格，对战术犯规和恶意动作出牌果断，黄牌倾向中等偏高；VAR使用上属于\"必要才介入\"类型，不会频繁回看打断比赛节奏。\n- **大赛履历**：2022卡塔尔世界杯、2020欧洲杯主裁；执法过2019欧联杯决赛（切尔西vs阿森纳）、2021欧国联决赛等重大赛事。\n- **本场潜在影响**：对抗激烈时倾向于早期出牌确立权威，能有效控制场面；对禁区内争议判罚较为谨慎，关键点球/红牌大概率会启动VAR复核。"
+ },
+ "_note": "环境=比赛+时间+地点 确定;天气为开球时段;顶棚 retractable/fixed-canopy 时天气影响有限。"
+}

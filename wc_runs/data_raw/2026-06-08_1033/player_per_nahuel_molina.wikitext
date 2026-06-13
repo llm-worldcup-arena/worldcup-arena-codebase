@@ -1,0 +1,248 @@
+{{short description|Argentine footballer (born 1998)}}
+{{Use dmy dates|date=November 2022}}
+{{family name hatnote|Molina|Lucero|lang=Spanish}}
+{{Infobox football biography
+| name = Nahuel Molina
+| image = Universidad Católica - Rosario Central 20190313 04.jpg
+| upright = 1.1
+| caption = Molina with [[Rosario Central]] in 2019
+| full_name = Nahuel Molina Lucero<ref name="FIFA 2022">{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=FIFA World Cup Qatar 2022 – Squad list: Argentina (ARG) |publisher=[[FIFA]] |page=1 |date=15 November 2022 |access-date=15 November 2022}}</ref>
+| birth_date = {{Birth date and age|1998|4|6|df=y}}<ref name="Atleti profile">{{cite web |url=https://en.atleticodemadrid.com/jugadores/nahuel-molina-2022-2023-2 |title=Nahuel Molina |publisher=Atlético Madrid |access-date=14 September 2022}}</ref>
+| birth_place = [[Embalse, Argentina|Embalse]], [[Córdoba Province, Argentina|Córdoba]], Argentina
+| height = 1.75 m<ref name="Atleti profile"/>
+| position = [[Right-back]] 
+| currentclub = [[Atlético Madrid]]
+| clubnumber = 16
+| youthyears1 = 
+| youthclubs1 = [[Boca Juniors]]
+| years1 = 2016–2020
+| clubs1 = [[Boca Juniors]]
+| caps1 = 8
+| goals1 = 0
+| years2 = 2018
+| clubs2 = → [[Defensa y Justicia]] (loan)
+| caps2 = 17
+| goals2 = 1
+| years3 = 2019
+| clubs3 = → [[Rosario Central]] (loan)
+| caps3 = 22
+| goals3 = 1
+| years4 = 2020–2022
+| clubs4 = [[Udinese Calcio|Udinese]]
+| caps4 = 64
+| goals4 = 9
+| years5 = 2022–
+| clubs5 = [[Atlético Madrid]]
+| caps5 = 119
+| goals5 = 8
+| nationalyears1 = 2017
+| nationalteam1 = [[Argentina national under-20 football team|Argentina U20]]
+| nationalcaps1 = 6
+| nationalgoals1 = 0
+| nationalyears2 = 2021–
+| nationalteam2 = [[Argentina national football team|Argentina]]
+| nationalcaps2 = 58
+| nationalgoals2 = 1
+| medaltemplates = {{MedalSport|Men's [[Association football|football]]}}
+{{Medal|Country|{{fb|ARG}}}}
+{{MedalCompetition|[[FIFA World Cup]]}}
+{{Medal|Winner|[[2022 FIFA World Cup|2022 Qatar]]|}}
+{{MedalComp|[[Copa América]]}}
+{{Medal|W|[[2021 Copa América|2021 Brazil]]|}}
+{{Medal|W|[[2024 Copa América|2024 United States]]|}}
+{{MedalComp|[[CONMEBOL–UEFA Cup of Champions]]}}
+{{Medal|W|[[2022 Finalissima|2022 England]]|}}
+| club-update = 9 May 2026
+| nationalteam-update = 31 March 2026
+}}
+'''Nahuel Molina Lucero''' (born 6 April 1998) is an Argentine professional [[association football|footballer]] who plays as a [[right-back]] for {{Spanish football updater|Atlético Madrid}} club [[Atlético Madrid]] and the [[Argentina national football team|Argentina national team]].
+
+==Club career==
+Molina trained in the Barça Juniors Luján sports project, a [[FC Barcelona]] project in [[Argentina]],<ref>{{cite web |title=FC Barcelona Juniors Luján |url=https://arxiu.fcbarcelona.cat/web/english/futbol/futbol_base/especials/fcb_argentina/continguts/Projecte.html|website=FC Barcelona archive|access-date=5 December 2023}}</ref> which even led him to travel to [[Barcelona]] to train with the lower sections of FC Barcelona. In 2012, the Juniors Luján project was integrated into the youth ranks of [[CA Boca Juniors]], and Molina continued his training in this club.<ref>{{Cite news|title=Los inicios culés de Nahuel Molina detallados por su descubridor|url=https://www.sport.es/es/noticias/barca/inicios-cules-nahuel-molina-detallados-95370344|website=Sport España|date=3 December 2023|access-date=5 December 2023|language=es}}</ref>
+
+On 18 February 2016, he made his first team debut for Boca Juniors in a league game against [[San Martín de San Juan]], playing the full game.<ref name="soccerway2">{{cite web|url=https://int.soccerway.com/matches/2016/02/18/argentina/primera-division/ca-san-martin-de-san-juan/boca-juniors/2182932/|title=San Martín San Juan vs. Boca Junior|website=Soccerway|date=18 February 2016|access-date=20 February 2016}}</ref><ref>https://historiadeboca.com.ar/jugadores/nahuel-molina-lucero/1203/1905/2018/1.html Historia de Boca.com.ar Nahuel Molina Lucero</ref> In January 2018, Molina was loaned out to [[Defensa y Justicia]] for the rest of the year.<ref>{{Cite news|title=Molina deja Boca por Defensa y Justicia|url=https://es.besoccer.com/noticia/molina-deja-boca-por-defensa-y-justicia-359225|website=BeSoccer|date=11 January 2018|access-date=1 June 2024|language=es}}</ref>
+
+On 15 September 2020, Molina joined [[Udinese Calcio]] on a free transfer until 2025.<ref>{{Cite news|title=Official: Molina joins Udinese|url=https://www.football-italia.net/158582/official-molina-joins-udinese|website=Football Italia |date=15 September 2020 }}</ref> On 28 July 2022, he joined [[Atlético Madrid]] on a five-year contract,<ref>{{Cite web |title=Welcome, Nahuel Molina! |url=https://en.atleticodemadrid.com/noticias/molina-is-now-a-red-white-player |website=Atlético Madrid|date=28 July 2022}}</ref> for a reported fee of €10 million and €5 million in variables.<ref>{{Cite web|first=Pablo|last=Egea|title=Nahuel Molina es nuevo jugador del Atlético |trans-title=Nahuel Molina is a new Atletico player |url=https://www.marca.com/futbol/atletico/2022/07/28/62d1960b268e3efd1d8b45c3.html |website=[[Marca (newspaper)|Marca]]|date=28 July 2022 |language=es}}</ref>
+
+==International career==
+[[File:Nahuel Molina WC2022.jpg|left|thumb|237x237px|Molina playing for [[Argentina national football team|Argentina]] at the [[2022 FIFA World Cup]]]]
+On 3 June 2021, Molina debuted for the [[Argentina national football team|Argentina national team]] in a [[2022 FIFA World Cup qualification (CONMEBOL)|World Cup qualifier]] against [[Chile national football team|Chile]], coming as a substitute to [[Juan Foyth]] in the 81st minute.<ref>{{Cite news|title=La historia de Nahuel Molina Lucero: de quedar libre en Boca a la Selección Argentina|url=https://www.tycsports.com/seleccion-argentina/seleccion-argentina-copa-america-molina-lucero-libre-boca-sorpresa--id350612.html|website=[[TyC Sports]]|date=14 October 2021|language=es}}</ref>
+
+In the [[2022 FIFA World Cup]] quarter-final match against the [[Netherlands national football team|Netherlands]] on 9 December 2022, Molina scored his first goal for Argentina, starting in six matches for Argentina as first choice right back scoring one goal and providing one assist throughout the tournament en route to become champions.<ref>{{cite web|first=Phil|last=McNulty|title=World Cup 2022: Argentina beat the Netherlands in penalty shootout to reach semi-finals|url=https://www.bbc.com/sport/football/63830319|website=[[BBC Sport]]|publisher=[[BBC]]|date=9 December 2022|access-date=10 December 2022}}</ref>
+
+In June 2024, Molina was included in Lionel Scaloni's final 26-man Argentina squad for the [[2024 Copa América]].<ref>{{Cite news |date=15 June 2024 |title=Lionel Scaloni dio a conocer la lista de la Selección argentina para la Copa América 2024 |url=https://tn.com.ar/deportes/futbol/2024/06/15/lionel-scaloni-dio-a-conocer-la-lista-de-la-seleccion-argentina-para-la-copa-america-2024/?gad_source=1&gclid=CjwKCAjwqf20BhBwEiwAt7dtdeK13_I24H4iqEBua7UtmDLn6_x-FfDm-gzEseLS8vJCnOlmjC3PlBoCHEwQAvD_BwE |access-date=23 July 2024 |work=Todo Noticias}}</ref>
+{{clear}}
+
+==Career statistics==
+===Club===
+{{updated|match played 9 May 2026}}<ref>{{cite web|url=https://int.soccerway.com/players/nahuel-molina-lucero/432521/|title=N. Molina|website=Soccerway}}</ref>
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup{{efn|Includes [[Copa Argentina]], [[Coppa Italia]], [[Copa del Rey]]}}
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|[[Boca Juniors]] 
+|[[2016–17 Club Atlético Boca Juniors season|2016–17]]
+|[[Argentine Primera División]]
+|8||0||colspan="2"|—||1{{efn|name=COL|Appearance(s) in [[Copa Libertadores]]}}||0||colspan="2"|—||9||0
+|-
+|rowspan="3"|[[Defensa y Justicia]] (loan) 
+|[[2017–18 Argentine Primera División|2017–18]]
+|Argentine Primera División
+|14||1||2||0||7{{efn|Appearances in [[Copa Sudamericana]]}}||0||colspan="2"|—||23||1
+|-
+|[[2018–19 Argentine Primera División|2018–19]]
+|Argentine Primera División
+|3||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||3||0
+|-
+!colspan="2"|Total
+!17!!1!!2!!0!!7!!0!!0!!0!!26!!1
+|-
+|rowspan="3"|[[Rosario Central]] (loan) 
+|[[2018–19 Argentine Primera División|2018–19]]
+|Argentine Primera División
+|6||0||1||0||6{{efn|name=COL}}||0||colspan="2"|—||13||0
+|-
+|[[2019–20 Rosario Central season|2019–20]]
+|Argentine Primera División
+|16||1||2||0||colspan="2"|—||colspan="2"|—||18||1
+|-
+!colspan="2"|Total
+!22!!1!!3!!0!!6!!0!!0!!0!!31!!1
+|-
+|rowspan="3"|[[Udinese Calcio|Udinese]]
+|[[2020–21 Udinese Calcio season|2020–21]]
+|[[Serie A]]
+|29||2||2||0||colspan="2"|—||colspan="2"|—||31||2
+|-
+|[[2021–22 Udinese Calcio season|2021–22]]
+|Serie A
+|35||7||2||1||colspan="2"|—||colspan="2"|—||37||8
+|-
+!colspan="2"|Total
+!64!!9!!4!!1!!0!!0!!0!!0!!68!!10
+|-
+|rowspan="5"|[[Atlético Madrid]]
+|[[2022–23 Atlético Madrid season|2022–23]]
+|[[La Liga]]
+|33||4||4||0||6{{efn|name=UCL|Appearances in [[UEFA Champions League]]}}||0||colspan="2"|—||43||4
+|-
+|[[2023–24 Atlético Madrid season|2023–24]]
+|La Liga
+|30||2||5||0||10{{efn|name=UCL}}||0||1{{efn|name=SDE|Appearance in [[Supercopa de España]]}}||0||46||2
+|-
+|[[2024–25 Atlético Madrid season|2024–25]]
+|La Liga
+|30||0||6||0||8{{efn|name=UCL}}||1||2{{efn|Appearances in [[FIFA Club World Cup]]}}||0||46||1
+|-
+|[[2025–26 Atlético Madrid season|2025–26]]
+|La Liga
+|26||2||6||0||13{{efn|name=UCL}}||0||1{{efn|name=SDE}}||0||46||2
+|-
+!colspan="2"|Total
+!119!!8!!21!!0!!37!!1!!4!!0!!181!!9
+|-
+!colspan="3"|Career total
+!230!!19!!30!!1!!51!!1!!4!!0!!315!!21
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 31 March 2026}}<ref>{{NFT player|82719|access-date=25 March 2022}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="6"|[[Argentina national football team|Argentina]]
+|2021||13||0
+|-
+|2022||14||1
+|-
+|2023||8||0
+|-
+|2024||13||0
+|-
+|2025||8||0
+|-
+|2026||2||0
+|-
+!colspan="2"|Total!!58!!1
+|}
+
+{{updated|match played 31 March 2026.}} ''Scores and results list Argentina's goal tally first, score column indicates score after each Molina goal.''
+
+{| class="wikitable sortable"
+|+ List of international goals scored by Nahuel Molina
+! No. !! Date !! Venue !! Cap !! Opponent !! Score !! Result !! Competition
+|-
+! 1
+| 9 December 2022 || [[Lusail Iconic Stadium]], [[Lusail]], Qatar || align=center | 25 || {{fb|NED}} || align=center | 1–0 || align="center" | [[Battle of Lusail|2–2]] {{aet}} {{pso|4–3}} || [[2022 FIFA World Cup knockout stage|2022 FIFA World Cup]]
+|}
+
+==Honours==
+
+'''Atlético Madrid'''
+* [[Copa del Rey]] runner-up: [[2025–26 Copa del Rey|2025–26]]<ref>{{Cite web |title=Atletico Madrid 2-2 Real Sociedad (3-4 on pens): Sociedad triumph to win fourth Copa del Rey title|url=https://www.bbc.co.uk/sport/football/live/cy0130ned7yt|access-date=2026-04-19|website=BBC Sport|language=en-GB}}</ref>
+
+'''Argentina'''
+* [[FIFA World Cup]]: [[2022 FIFA World Cup|2022]]<ref>{{Cite web |last=Murray |first=Scott |date=18 December 2022 |title=Argentina beat France on penalties after thrilling World Cup final – live reaction |url=https://www.theguardian.com/football/live/2022/dec/18/argentina-france-world-cup-2022-final-live |access-date=18 December 2022 |work=The Guardian}}</ref>
+* [[Copa América]]: [[2021 Copa América|2021]],<ref>{{cite news |url=https://www.theguardian.com/football/live/2021/jul/10/argentina-v-brazil-copa-america-final-live |title=Argentina 1-0 Brazil: Copa América final – live! |work=The Guardian |last1=Graham |first1=Bryan Armen |date=11 July 2021 |access-date=11 July 2021 }}</ref> [[2024 Copa América|2024]]<ref>{{cite news|url=https://copaamerica.com/en/news/argentina-champion-colombia-copa-america-lautaro-martinez|title=Argentina defeats Colombia to Become The Champion of CONMEBOL Copa América 2024™|website=Copa América|date=15 July 2024|access-date=15 July 2024}}</ref>
+* [[CONMEBOL–UEFA Cup of Champions]]: [[2022 Finalissima|2022]]<ref>{{cite news|url=https://www.bbc.com/sport/football/61653337|title=Italy 0–3 Argentina: Messi and Di Maria shine in impressive Finalissima win|publisher=BBC Sport|date=1 June 2022|access-date=2 June 2022}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+* [https://en.atleticodemadrid.com/jugadores/nahuel-molina-2024-2025-2 Profile] at the Atlético Madrid website
+* {{UEFA player}}
+
+{{Atlético Madrid squad}}
+{{Navboxes
+| title = Argentina squads
+| bg = white
+| fg = #0074E7
+| bordercolor = black
+| list1 = 
+{{Argentina squad 2021 Copa América}}
+{{Argentina squad 2022 FIFA World Cup}}
+{{Argentina squad 2024 Copa América}}
+{{Argentina squad 2026 FIFA World Cup}}
+}}
+{{Portal bar|Association football|Argentina}}
+{{Authority control}}
+
+{{DEFAULTSORT:Molina, Nahuel}}
+[[Category:1998 births]]
+[[Category:Living people]]
+[[Category:Argentine men's footballers]]
+[[Category:Men's association football full-backs]]
+[[Category:Boca Juniors footballers]]
+[[Category:Defensa y Justicia footballers]]
+[[Category:Rosario Central footballers]]
+[[Category:Udinese Calcio players]]
+[[Category:Atlético Madrid footballers]]
+[[Category:Argentine Primera División players]]
+[[Category:Serie A players]]
+[[Category:La Liga players]]
+[[Category:Argentina men's international footballers]]
+[[Category:2021 Copa América players]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:2024 Copa América players]]
+[[Category:2026 FIFA World Cup players]]
+[[Category:FIFA World Cup–winning players]]
+[[Category:Copa América–winning players]]
+[[Category:Argentine expatriate men's footballers]]
+[[Category:Expatriate men's footballers in Italy]]
+[[Category:Expatriate men's footballers in Spain]]
+[[Category:Argentine expatriate sportspeople in Italy]]
+[[Category:Argentine expatriate sportspeople in Spain]]
+[[Category:21st-century Argentine sportsmen]]

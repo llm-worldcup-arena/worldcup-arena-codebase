@@ -1,0 +1,259 @@
+{{short description|Ecuadorian footballer}}
+{{family name hatnote|Franco|Palma|lang=Spanish}}
+{{Use dmy dates|date=March 2024}}
+{{Infobox football biography
+|name = Alan Franco
+|image = 
+|caption = 
+|full_name = Alan Steven Franco Palma<ref name="FIFA 2022">{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=FIFA World Cup Qatar 2022 – Squad list: Ecuador (ECU) |publisher=[[FIFA]] |page=10 |date=15 November 2022 |access-date=15 November 2022}}</ref>
+|birth_date = {{birth date and age|df=yes|1998|08|21}}<ref name="FIFA 2022"/>
+|birth_place = [[Jujan]], Ecuador
+|height = 1.75 m<ref name="FIFA 2022"/>
+|position = [[Midfielder]]
+|currentclub = [[Clube Atlético Mineiro|Atlético Mineiro]]
+|clubnumber = 21
+|youthyears1 = {{0|0000}}–2011
+|youthclubs1 = Venecia
+|youthyears2 = 2011–2014
+|youthclubs2 = [[C.S. Norte América|Norte América]]
+|youthyears3 = 2014–2017
+|youthclubs3 = [[C.S.D. Independiente del Valle|Independiente del Valle]]
+|years1 = 2016–2020
+|clubs1 = [[C.S.D. Independiente del Valle|Independiente del Valle]]
+|caps1 = 62
+|goals1 = 3
+|years2 = 2020–
+|clubs2 = [[Clube Atlético Mineiro|Atlético Mineiro]]
+|caps2 = 147
+|goals2 = 4
+|years3 = 2022
+|clubs3 = → [[Charlotte FC]] (loan)
+|caps3 = 10
+|goals3 = 0
+|years4 = 2022–2023
+|clubs4 = → [[Talleres de Córdoba|Talleres]] (loan)
+|caps4 = 34
+|goals4 = 0
+|nationalyears1 = 2015
+|nationalteam1 = [[Ecuador national under-17 football team|Ecuador U17]]
+|nationalcaps1 = 5
+|nationalgoals1 = 0
+|nationalyears2 = 2020
+|nationalteam2 = [[Ecuador national under-23 football team|Ecuador U23]]
+|nationalcaps2 = 4
+|nationalgoals2 = 0
+|nationalyears3 = 2018–
+|nationalteam3 = [[Ecuador national football team|Ecuador]]
+|nationalcaps3 = 57
+|nationalgoals3 = 1
+|pcupdate = 20 March 2026
+|ntupdate = 22:30, 31 March 2026 (UTC)
+}}
+
+'''Alan Steven Franco Palma''' (born 21 August 1998) is an Ecuadorian professional [[association football|footballer]] who plays as a [[midfielder]] for [[Campeonato Brasileiro Série A]] club [[Clube Atlético Mineiro|Atlético Mineiro]] and the [[Ecuador national football team|Ecuador national team]].<ref>{{cite web|url=https://us.soccerway.com/players/alan-steven-franco-palma/398919/|title=Ecuador - A. Franco - Profile with news, career statistics and history - Soccerway|website=us.soccerway.com}}</ref>
+
+==Club career==
+===Independiente del Valle===
+Franco came through the youth setup at [[Independiente del Valle]] and made his professional debut as an 18-year-old in 2016. He was a first team regular by 2018 and was one of the standout performers of Independiente del Valle’s winning campaign in the [[2019 Copa Sudamericana]], in which he and defender [[Luis Segovia]] were the only players to start every game.
+
+===Atlético Mineiro===
+On 4 June 2020, Franco moved to Brazilian club [[Clube Atlético Mineiro|Atlético Mineiro]].<ref>{{Cite web |url=https://www.goal.com/br/amp/not%25C3%25ADcias/quem-e-alan-franco-nova-contratacao-do-atletico-mineiro-para/9qstko2f1h4azcd91zp43cu5 |title=Quem é Alan Franco, nova contratação do Atlético Mineiro para 2020? &#124; Goal.com |access-date=16 June 2020 |archive-date=26 June 2020 |archive-url=https://web.archive.org/web/20200626192219/https://www.goal.com/br/amp/not%C3%ADcias/quem-e-alan-franco-nova-contratacao-do-atletico-mineiro-para/9qstko2f1h4azcd91zp43cu5 |url-status=dead }}</ref>
+
+====Loans to Charlotte FC and Talleres====
+On 21 December 2021, Atlético Mineiro agreed to send Franco to [[Major League Soccer]] expansion club [[Charlotte FC]] on a one-year loan deal with an option to buy.<ref name=CFC>{{cite web| url = https://www.charlottefootballclub.com/news/charlotte-fc-signs-midfielder-alan-franco-on-loan-from-atletico-mineiro| title = Charlotte FC Signs Midfielder Alan Franco On Loan From Atlético Mineiro {{!}} Charlotte FC}}</ref> On 27 June 2022, Franco's loan with Charlotte transferred to Argentinian side [[Talleres de Córdoba]].<ref>{{Cite web|url=https://www.mlssoccer.com/news/sources-alan-franco-to-depart-charlotte-fc-join-talleres-in-argentina|title=Official: Charlotte FC loan Alan Franco to Talleres in Argentina &#124; MLSSoccer.com|website=mlssoccer}}</ref>
+
+==International career==
+In August 2018, Franco was called up to the [[Ecuador national football team|Ecuador national team]] for the first time by manager [[Hernán Darío Gómez]].<ref>{{cite web|url=http://m.ecuagol.com/index.php?n=129514|title=Ecuagol|website=m.ecuagol.com}}</ref> He made his debut on 12 September 2018, in a friendly against [[Guatemala national football team|Guatemala]].<ref>{{cite web| url = https://uk.soccerway.com/matches/2018/09/12/world/friendlies/ecuador/guatemala/2905361/| title = Ecuador vs. Guatemala - 12 September 2018 - Soccerway}}</ref>
+
+Franco was selected in the 28 player Ecuador squad for the [[2021 Copa América]].<ref>{{cite tweet|author=[[Ecuadorian Football Federation]]|user=LaTri|number=1402825519754797058|title=¡Y los convocados son! Estos son los elegidos por el DT #GustavoAlfaro para encarar un desafío continental: la @CopaAmerica.|date=9 June 2021|access-date=9 June 2021|language=es}}</ref>
+
+Franco was named in the Ecuadorian squad for the [[2022 FIFA World Cup]].<ref>{{cite tweet |author=Ecuador national football team |author-link=Ecuador national football team |user=LaTri |number=1592288685797494784 |date=14 November 2022 |title=Aquí están los 26 jugadores elegidos por el DT Gustavo Alfaro para jugar la Copa Mundial FIFA, estamos listos para hacer historia |trans-title=Here are the 26 players chosen by head coach Gustavo Alfaro to play the FIFA World Cup, we are ready to make history. |language=es |access-date=14 November 2022}}</ref>
+
+Franco was called up to the final 26-man Ecuador squad for the [[2024 Copa América]].<ref>{{cite web|url=https://www.eluniverso.com/deportes/futbol/ecuador-presenta-lista-oficial-para-la-copa-america-gonzalo-plata-y-robert-arboleda-quedaron-relegados-nota/|title=Ecuador presenta lista oficial para la Copa América: Gonzalo Plata y Robert Arboleda quedaron relegados|trans-title=Ecuador presents official roster for Copa America: Gonzalo Plata and Robert Arboleda left off the list|publisher=[[El Universo]]|date=29 May 2024|language=es}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|20 March 2026}}<ref name="SW">{{Soccerway|alan-steven-franco-palma/398919|Alan Franco|accessdate=6 March 2020}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|Cup
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan=6|[[C.S.D. Independiente del Valle|Independiente del Valle]]
+|[[2016 Campeonato Ecuatoriano de Fútbol Serie A|2016]]
+|rowspan=5|[[Ecuadorian Serie A|Serie A]]
+|2||0||colspan="2"|—||0||0||colspan="2"|—||2||0
+|-
+|[[2017 Campeonato Ecuatoriano de Fútbol Serie A|2017]]
+|1||0||colspan="2"|—||0||0||colspan="2"|—||1||0
+|-
+|[[2018 Campeonato Ecuatoriano de Fútbol Serie A|2018]]
+|33||3||colspan="2"|—||0||0||colspan="2"|—||33||3
+|-
+|[[2019 Ecuadorian Serie A|2019]]
+|26||0||0||0||11{{efn|name=CS|Appearance(s) in [[Copa Sudamericana]]}}||2||colspan="2"|—||37||2
+|-
+|[[2020 Ecuadorian Serie A|2020]]
+|0||0||colspan="2"|—||0||0||2{{efn|name=RS|Appearance(s) in [[Recopa Sudamericana]]}}||0||2||0
+|-
+!colspan=2|Total
+!62!!3!!0!!0!!11!!2!!2!!0!!75!!5
+|-
+|rowspan=7|[[Clube Atlético Mineiro|Atlético Mineiro]]
+|[[2020 Campeonato Brasileiro Série A|2020]]
+|rowspan=6|Série A
+|28||3||colspan="2"|—||colspan="2"|—||5{{efn|name=CM|Appearance(s) in [[Campeonato Mineiro]]}}||0||33||3
+|-
+|[[2021 Clube Atlético Mineiro season|2021]]
+|5||0||1||0||4{{efn|name=CL|Appearance(s) in [[Copa Libertadores]]}}||0||5{{efn|name=CM}}||0||15||0
+|-
+|[[2023 Clube Atlético Mineiro season|2023]]
+|18||0||colspan="2"|—||0||0||colspan="2"|—||18||0
+|-
+|[[2024 Clube Atlético Mineiro season|2024]]
+|22||0||10||0||12{{efn|name=CL}}||0||7{{efn|name=CM}}||0||51||0
+|-
+|[[2025 Clube Atlético Mineiro season|2025]]
+|30||1||7||0||10{{efn|name=CS}}||0||9{{efn|name=CM}}||0||586||1
+|-
+|[[2026 Clube Atlético Mineiro season|2026]]
+|8||0||0||0||0||0||10{{efn|name=CM}}||0||18||0
+|-
+!colspan=2|Total
+!111!!4!!18!!0!!26!!0!!36!!0!!191!!4
+|-
+|[[Charlotte FC]] (loan)
+|[[2022 Charlotte FC season|2022]]
+|rowspan=1|[[Major League Soccer|MLS]]
+|10||0||1||0||colspan="2"|—||colspan="2"|—||11||0
+|-
+|rowspan=3|[[Talleres de Córdoba|Talleres]] (loan)
+|[[2022 Argentine Primera División|2022]]
+|rowspan=2|[[Argentine Primera División]]
+|15||0||3||0||4{{efn|name=CL}}||1||colspan="2"|—||22||1
+|-
+|[[2023 Argentine Primera División|2023]]
+|19||0||1||0||colspan="2"|—||colspan="2"|—||20||0
+|-
+!colspan=2|Total
+!34!!0!!4!!0!!4!!1!!0!!0!!42!!1
+|-
+!colspan="3"|'''Career total'''
+!217!!7!!23!!0!!41!!3!!38!!0!!319!!10
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 31 March 2026|<ref>{{NFT}}</ref>}}
+
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="10"|[[Ecuador national football team|Ecuador]]
+|-
+|2018||3||0
+|-
+|2019||2||1
+|-
+|2020||3||0
+|-
+|2021||10||0
+|-
+|2022||9||0
+|-
+|2023||5||0
+|-
+|2024||14||0
+|-
+|2025||9||0
+|-
+|2026||2||0
+|-
+!colspan="2"|Total!!57!!1
+|}
+
+{| class="wikitable sortable"
+|+ List of international goals scored by Alan Franco
+|-
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+|-
+| align="center"|1 || 14 November 2019 || [[Estadio Reales Tamarindos]], [[Portoviejo]], Ecuador || {{fb|TRI}} || align="center"|1–0 || align="center"|3–0 || [[Exhibition game|Friendly]]
+|}
+
+==Honours==
+'''Independiente del Valle'''
+*[[Copa Sudamericana]]: [[2019 Copa Sudamericana|2019]]
+
+'''Atlético Mineiro'''
+*[[Campeonato Brasileiro Série A]]: [[2021 Campeonato Brasileiro Série A|2021]]
+*[[Copa do Brasil]]: [[2021 Copa do Brasil|2021]]
+*[[Campeonato Mineiro]]: [[2020 Campeonato Mineiro|2020]], [[2021 Campeonato Mineiro|2021]], [[2024 Campeonato Mineiro|2024]], [[2025 Campeonato Mineiro|2025]]
+
+'''Individual'''
+*[[Campeonato Mineiro]] Team of the Year: [[2025 Campeonato Mineiro|2025]]
+
+==References==
+{{Reflist|2}}
+
+{{Clube Atlético Mineiro squad}}
+{{Navboxes
+| bg = #FFDD00
+| fg = #034EA2
+| bordercolor = #ED1C24
+| title = Ecuador squads
+| list1 =
+{{Ecuador squad 2021 Copa América}}
+{{Ecuador squad 2022 FIFA World Cup}}
+{{Ecuador squad 2024 Copa América}}
+{{Ecuador squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Franco, Alan}}
+[[Category:Living people]]
+[[Category:1998 births]]
+[[Category:Sportspeople from Guayas Province]]
+[[Category:Ecuadorian men's footballers]]
+[[Category:21st-century Ecuadorian sportsmen]]
+[[Category:Men's association football midfielders]]
+[[Category:Ecuador men's international footballers]]
+[[Category:Independiente del Valle footballers]]
+[[Category:Clube Atlético Mineiro players]]
+[[Category:Charlotte FC players]]
+[[Category:Talleres de Córdoba footballers]]
+[[Category:Ecuadorian Serie A players]]
+[[Category:Campeonato Brasileiro Série A players]]
+[[Category:Major League Soccer players]]
+[[Category:Argentine Primera División players]]
+[[Category:2021 Copa América players]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:2024 Copa América players]]
+[[Category:Ecuadorian expatriate men's footballers]]
+[[Category:Ecuadorian expatriate sportspeople in Brazil]]
+[[Category:Ecuadorian expatriate sportspeople in the United States]]
+[[Category:Ecuadorian expatriate sportspeople in Argentina]]
+[[Category:Expatriate men's footballers in Brazil]]
+[[Category:Expatriate men's soccer players in the United States]]
+[[Category:Expatriate men's footballers in Argentina]]
+[[Category:Copa Sudamericana–winning players]]
+[[Category:Long stubs with short prose]]
+[[Category:2026 FIFA World Cup players]]
+
+
+{{Ecuador-footy-midfielder-stub}}

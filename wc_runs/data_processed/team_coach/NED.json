@@ -1,0 +1,34 @@
+{
+ "team": "NED",
+ "coach": {
+  "name_zh": "罗纳德·科曼",
+  "name_en": "Ronald Koeman",
+  "nationality": "Netherlands",
+  "career_since": "2000",
+  "person_id": "per_ronald_koeman"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 罗纳德·科曼（Ronald Koeman），荷兰籍教练，2000年开启执教生涯，现任荷兰国家队主教练。\n- 其战术体系高度依赖门将脚下技术，主力门将维尔布鲁根的出球能力已成为荷兰队后场组织核心。\n- 球队框架相对稳固，利物浦双星加克波与队长范迪克是铁定首发，但世界杯首战前仍有两处用人待定。\n- 维尔布鲁根6月9日热身赛髋部受伤，科曼采取每日评估机制，若赛前无法完全恢复将启用弗莱肯。\n- 科曼明确表示：门将首发抉择取决于能否通过体检并展现完整移动能力，任何疑虑都将直接换人。\n- 荷兰队身处世界杯F组，首战6月14日对阵亚洲头号球队日本，门将伤情成为最大不确定因素。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.92,
+  "issues": [
+   "执教生涯起始年份与预测无关",
+   "利物浦双星表述略带媒体色彩"
+  ]
+ },
+ "brief_fetched": "2026-06-13_1750",
+ "brief_info_chars": 1923,
+ "coach_xverify": {
+  "canonical": "Ronald Koeman",
+  "confidence": "high",
+  "discrepancy": "",
+  "sources_agree": 6,
+  "n_sources": 8
+ }
+}

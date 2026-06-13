@@ -1,0 +1,180 @@
+{{short description|Moroccan footballer}}
+{{Use dmy dates|date=May 2026}}
+{{Infobox football biography
+| name = Jamal Sellami
+| image = WAC vs. FUS (22.08.12) - 1.jpg
+| caption = Sellami in 2012
+| full_name = 
+| birth_date = {{birth date and age|df=yes|1970|10|6}}
+| birth_place = [[Casablanca]], Morocco
+| height = 1.83 m
+| position = [[Midfielder]]
+| currentclub = [[Jordan national football team|Jordan]] (manager)
+| youthyears1 = 
+| youthclubs1 = 
+| years1 = 1992–1995
+| clubs1 = [[Olympique Casablanca]]
+| caps1 = 
+| goals1 = 
+| years2 = 1995–1998
+| clubs2 = [[Raja Casablanca]]
+| caps2 = 82
+| goals2 = 9
+| years3 = 1998–2001
+| clubs3 = [[Beşiktaş J.K.|Beşiktaş]]
+| caps3 = 54
+| goals3 = 1
+| years4 = 2001–2002
+| clubs4 = [[Raja Casablanca]]
+| caps4 = 
+| goals4 = 
+| years5 = 2002–2004
+| clubs5 = [[Maghreb Fez|MAS Fez]]
+| caps5 = 
+| goals5 = 
+| nationalyears1 = 1994–2001
+| nationalteam1 = [[Morocco national football team|Morocco]]<ref>[https://www.rsssf.org/miscellaneous/maro-recintlp.html Morocco – Record International Players]</ref>
+| nationalcaps1 = 38
+| nationalgoals1 = 2
+| manageryears1 = 2011–2014
+| managerclubs1 = [[FUS Rabat]]
+| manageryears2 = 2016–2018
+| managerclubs2 = [[Morocco A' national football team|Morocco A']]
+| manageryears3 = 2019–2021<ref>{{Cite web|url=https://en.as.com/en/2021/04/08/soccer/1617914630_199536.html|title = Raja boss Jamal Sellami resigns ahead of Pyramids clash|date = 9 April 2021}}</ref>
+| managerclubs3 = [[Raja Casablanca]]
+| manageryears4 = 2021–2024
+| managerclubs4 = [[FUS Rabat]]
+| manageryears5 = 2024–
+| managerclubs5 = [[Jordan national football team|Jordan]]
+}}
+
+'''Jamal Sellami''' ({{langx|ar|جَمَال السَّلَامِيّ}}; born 6 October 1970) is a Moroccan- Jordanian professional [[Association football|football manager]] and former [[Football player|player]] who currently coaches the [[Jordan national football team]].
+
+==Playing career==
+A [[midfielder]], Sellami played for several clubs, including [[Olympique Casablanca]], [[Raja Casablanca]], [[Maghreb Fez]] and [[Beşiktaş J.K.|Beşiktaş]] in Turkey.
+
+He played for the [[Morocco national football team|Morocco national team]] and was a participant at the [[1998 FIFA World Cup]].<ref>[https://web.archive.org/web/20090126082232/http://www.fifa.com/worldfootball/statisticsandrecords/players/player=156752/index.html Jamal Sellami Statistics] [[FIFA]]. Retrieved 22 January 2010.</ref>
+
+==Coaching career==
+Sellami was the coach of the Moroccan club [[FUS Rabat]].
+
+In June 2024, the [[Jordan Football Association]] announced that Sellami became the manager of the [[Jordan national football team|Jordan national team]], after [[Hussein Ammouta]], by signing a three-year contract.<ref>{{Cite web |url=https://www.skynewsarabia.com/sport/1723987-تعيين-المغربي-جمال-السلامي-مدربا-لمنتخب-الأردن |title=تعيين المغربي جمال السلامي مدربا لمنتخب الأردن خلفا لـ عموتة |date=22 June 2024 |access-date=23 June 2024 |website=Sky News Arabia |language=ar }}</ref><ref>{{cite web |url=https://www.jfa.jo/news.php?id=29884&title=جمال-سلامي-مديراً-فنياً-لمنتخب-النشامى-لـ-3-سنوات |title=جمال سلامي مديراً فنياً لمنتخب النشامى لـ 3 سنوات |publisher=Jordan Football Association |language=ar |date=26 June 2024 }}</ref> He led Jordan to finish as runners-up in Group B of the [[2026 FIFA World Cup qualification – AFC third round|World Cup qualification third round]], securing their first-ever participation in the [[2026 FIFA World Cup]].<ref>{{cite web |url=https://www.moroccoworldnews.com/2025/06/208348/moroccan-coach-jamal-sellami-leads-jordan-to-historic-world-cup-qualification/ |title=Moroccan Coach Jamal Sellami Leads Jordan to Historic World Cup Qualification |publisher=Morocco World News |date=5 June 2025 }}</ref>
+
+==Personal life==
+After the [[2025 FIFA Arab Cup final]] loss to his native [[Morocco national football team|Morocco]], Sellami announced that he was granted [[Jordanian passport|Jordan]]ian citizenship by a royal decision from [[King Abdullah II]]. The decision was made in recognition of his significant contributions to Jordanian football, which include leading the national team to its [[2026 FIFA World Cup|first-ever World Cup]] qualification.<ref>{{cite web |last1=Daoudi |first1=Asmae |title=Jordan Grants Citizenship to Moroccan Coach Jamal Sellami |url=https://www.moroccoworldnews.com/2025/12/272443/jordan-grants-citizenship-to-moroccan-coach-jamal-sellami/ |website=moroccoworldnews.com |publisher=Morocco World News |access-date=28 December 2025 |language=English |date=18 December 2025}}</ref>
+
+==Career statistics==
+{| class="wikitable" style="font-size:95%;"
+! # !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| 1. || 17 January 1996 || [[Jules-Ladoumègue (Vitrolles) Stadium|Stade Jules Ladoumègue]], [[Vitrolles, Bouches-du-Rhône|Vitrolles]], France || {{fb|ARM}} || 6–0 || Win|| [[Friendly match|Friendly]]
+|-
+| 2. || 7 February 1996 || [[Prince Moulay Abdellah Stadium|Prince Moulay Stadium]], [[Rabat]], Morocco || {{fb|LUX}} || 2–0 || Win || [[Friendly match|Friendly]]
+|-
+| colspan="15"|<small>''Correct as of 7 October 2015''<ref>[https://www.rsssf.org/intldetails/1996ic1.html 1996 MATCHES INTERCONTINENTAL (January – March)]</ref></small>
+|-
+|}
+
+==Managerial statistics==
+{{Updated|match played 31 May 2026}}
+
+{| class=wikitable style=text-align:center
+|+ Managerial record by team and tenure
+|-
+!rowspan=2|Team
+!rowspan=2|From
+!rowspan=2|To
+!colspan=5|Record
+!rowspan=2|{{abbr|Ref.|Reference}}
+|-
+!{{abbr|P|Matches played}}!!{{abbr|W|Matches won}}!!{{abbr|D|Matches drawn}}!!{{abbr|L|Matches lost}}!!{{abbr|Win %|Win percentage}}
+|-
+|align=left|[[Jordan national football team|Jordan]]
+|align=left|27 August 2024
+|align=left|Present
+{{WDL|30|11|11|8|decimals=1}}
+|<ref>{{Cite web|url=https://www.worldfootball.net/teams/te13978/jordan/|title=Jordan national team|website=worldfootball.net|publisher=World Football}}</ref>
+|-
+!colspan=3|Total
+{{WDLtot|30|11|11|8|decimals=1}}
+!—
+|}
+
+== Honours ==
+===Player===
+'''Olympique Casablanca'''
+*[[Botola Pro]]: [[1993–94 Botola|1993–94]]
+*[[Moroccan Cup|Moroccan Throne Cup]]: [[1991–92 Moroccan Throne Cup|1991–92]]
+*[[Arab Cup Winners' Cup]]: [[1991 Arab Cup Winners' Cup|1991]], [[1992 Arab Cup Winners' Cup|1992]], [[1993 Arab Cup Winners' Cup|1993]]
+
+'''Raja CA'''
+*[[Botola Pro]]: [[1995–96 Botola|1995–96]], [[1996–97 Botola|1996–97]], [[1997–98 Botola|1997–98]]
+*[[Moroccan Cup|Moroccan Throne Cup]]: [[1995–96 Moroccan Throne Cup|1995–96]]
+*[[CAF Champions League]]: [[1997 CAF Champions League|1997]]
+*[[CAF Super Cup]] runner-up: 1998
+
+===Manager===
+'''Raja CA'''
+*[[Botola Pro]]: [[2019–20 Botola|2019–20]]
+
+'''Morocco A''''
+*[[African Nations Championship]]: [[2018 African Nations Championship|2018]]<ref>{{Cite web |title=2018, 2020, 2025 – Recalling Morocco’s hat-trick of glory in the history of CHAN |url=https://www.cafonline.com/caf-african-nations-championship/news/2018-2020-2025-recalling-morocco-s-hat-trick-of-glory-in-the-history-of-chan/ |access-date=7 December 2025 |website=2018, 2020, 2025 – Recalling Morocco’s hat-trick of glory in the history of CHAN |language=en-GB}}</ref>
+
+'''Jordan'''
+*[[FIFA Arab Cup]] runner-up: [[2025 FIFA Arab Cup|2025]]
+
+'''Individual''' 
+*[[Botola Pro]] Manager of the Season: [[2019–20 Botola|2019–20]], [[2022-23 Botola|2022–23]]
+
+==References==
+{{reflist}}
+
+==External links==
+*{{NFT player|15123}}
+
+{{Current managers of AFC national teams}}
+{{Navboxes
+| title = International tournaments
+| list =
+{{Morocco Squad 1998 World Cup}}
+{{Morocco Squad 2000 Africa Cup of Nations}}
+{{Jordan squad 2026 FIFA World Cup}}
+}}
+{{Navboxes
+| title = Managerial positions
+| list1 = 
+{{Raja Casablanca managers}}
+{{Jordan national football team managers}}
+}}
+
+{{portal bar|Association football|Morocco}}
+{{Authority control}}
+
+{{DEFAULTSORT:Sellami, Jamal}}
+[[Category:1970 births]]
+[[Category:Living people]]
+[[Category:Moroccan men's footballers]]
+[[Category:Moroccan expatriate men's footballers]]
+[[Category:Morocco men's international footballers]]
+[[Category:Footballers from Casablanca]]
+[[Category:1998 FIFA World Cup players]]
+[[Category:Beşiktaş J.K. footballers]]
+[[Category:Raja CA players]]
+[[Category:2000 African Cup of Nations players]]
+[[Category:Süper Lig players]]
+[[Category:Expatriate men's footballers in Turkey]]
+[[Category:Moroccan expatriate sportspeople in Turkey]]
+[[Category:Moroccan football managers]]
+[[Category:Men's association football defenders]]
+[[Category:Raja CA managers]]
+[[Category:Botola managers]]
+[[Category:Jordan national football team managers]]
+[[Category:Moroccan expatriate sportspeople in Jordan]]
+[[Category:Expatriate football managers in Jordan]]
+[[Category:CAF Champions League–winning players]]
+[[Category:Moroccan expatriate football managers]]
+[[Category:Naturalized citizens of Jordan]]
+[[Category:2026 FIFA World Cup managers]]
+
+
+{{Morocco-footy-defender-stub}}

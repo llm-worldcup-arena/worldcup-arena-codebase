@@ -1,0 +1,155 @@
+[
+ {
+  "player_id": "876631",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/876631",
+  "name": "HabibDiarra",
+  "shirt_number": 19,
+  "club": "Joined:",
+  "club_id": "289",
+  "market_value": "€35.00m",
+  "market_value_numeric": 35000000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Current club:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Outfitter:",
+  "nationality": "England",
+  "citizenships": [
+   "England",
+   "Senegal",
+   "Senegal",
+   "Senegal",
+   "Senegal",
+   "Senegal",
+   "France"
+  ],
+  "market_value_history": [
+   {
+    "date": "Oct 8, 2021",
+    "value": "€300k",
+    "value_numeric": 300000,
+    "club": "Racing Strasbourg U19",
+    "age": "17"
+   },
+   {
+    "date": "Dec 16, 2021",
+    "value": "€300k",
+    "value_numeric": 300000,
+    "club": "Racing Strasbourg U19",
+    "age": "17"
+   },
+   {
+    "date": "Mar 30, 2022",
+    "value": "€300k",
+    "value_numeric": 300000,
+    "club": "Racing Strasbourg U19",
+    "age": "18"
+   },
+   {
+    "date": "May 30, 2022",
+    "value": "€600k",
+    "value_numeric": 600000,
+    "club": "Racing Strasbourg U19",
+    "age": "18"
+   },
+   {
+    "date": "Sep 19, 2022",
+    "value": "€3.00m",
+    "value_numeric": 3000000,
+    "club": "RC Strasbourg Alsace",
+    "age": "18"
+   },
+   {
+    "date": "Nov 2, 2022",
+    "value": "€3.00m",
+    "value_numeric": 3000000,
+    "club": "RC Strasbourg Alsace",
+    "age": "18"
+   },
+   {
+    "date": "Mar 27, 2023",
+    "value": "€4.00m",
+    "value_numeric": 4000000,
+    "club": "RC Strasbourg Alsace",
+    "age": "19"
+   },
+   {
+    "date": "Jun 27, 2023",
+    "value": "€10.00m",
+    "value_numeric": 10000000,
+    "club": "RC Strasbourg Alsace",
+    "age": "19"
+   },
+   {
+    "date": "Oct 16, 2023",
+    "value": "€18.00m",
+    "value_numeric": 18000000,
+    "club": "RC Strasbourg Alsace",
+    "age": "19"
+   },
+   {
+    "date": "Dec 18, 2023",
+    "value": "€18.00m",
+    "value_numeric": 18000000,
+    "club": "RC Strasbourg Alsace",
+    "age": "19"
+   },
+   {
+    "date": "Jun 3, 2024",
+    "value": "€18.00m",
+    "value_numeric": 18000000,
+    "club": "RC Strasbourg Alsace",
+    "age": "20"
+   },
+   {
+    "date": "Oct 7, 2024",
+    "value": "€20.00m",
+    "value_numeric": 20000000,
+    "club": "RC Strasbourg Alsace",
+    "age": "20"
+   },
+   {
+    "date": "Dec 10, 2024",
+    "value": "€20.00m",
+    "value_numeric": 20000000,
+    "club": "RC Strasbourg Alsace",
+    "age": "20"
+   },
+   {
+    "date": "Jun 3, 2025",
+    "value": "€20.00m",
+    "value_numeric": 20000000,
+    "club": "RC Strasbourg Alsace",
+    "age": "21"
+   },
+   {
+    "date": "Oct 17, 2025",
+    "value": "€32.00m",
+    "value_numeric": 32000000,
+    "club": "Sunderland AFC",
+    "age": "21"
+   },
+   {
+    "date": "Dec 9, 2025",
+    "value": "€32.00m",
+    "value_numeric": 32000000,
+    "club": "Sunderland AFC",
+    "age": "21"
+   },
+   {
+    "date": "Jun 3, 2026",
+    "value": "€35.00m",
+    "value_numeric": 35000000,
+    "club": "Sunderland AFC",
+    "age": "22"
+   }
+  ],
+  "peak_market_value": 35000000,
+  "transfers": [],
+  "_our_pid": "per_habib_diarra"
+ }
+]

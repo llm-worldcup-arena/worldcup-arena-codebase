@@ -1,0 +1,89 @@
+{{More citations needed|date=May 2026}}
+{{Short description|Men's association football team}}
+{{About|the men's team|the women's team|Morocco women's national football team}}
+{{Use dmy dates|date=June 2025}}
+{{Infobox national football team
+| Name                  = Morocco
+| Badge                 = Royal Moroccan Football Federation logo.svg
+| Badge_size            = 190px
+| Nickname              = '''أُسُودُ الأَطلَس'''<br />(The [[Barbary lion|Atlas Lions]])
+| Association           = [[Royal Moroccan Football Federation]] (FRMF)
+| Confederation         = [[Confederation of African Football|CAF]] (Africa)
+| Sub-confederation     = [[Union of North African Football Federations|UNAF]] (North Africa)
+| Coach                 = [[Mohamed Ouahbi]]
+| Captain               = [[Achraf Hakimi]]
+| Most caps             = [[Noureddine Naybet]] (115)
+| Top scorer            = [[Ahmed Faras]] ([[List of international goals scored by Ahmed Faras|36]])<ref name="rsssf.com">{{Cite web|url=https://www.rsssf.org/miscellaneous/maro-recintlp.html|title=Morocco – Record International Players|website=[[RSSSF]]|access-date=3 February 2023|archive-date=4 February 2023|archive-url=https://web.archive.org/web/20230204153950/https://rsssf.org/miscellaneous/maro-recintlp.html|url-status=live}}</ref>
+| Home Stadium          = [[Prince Moulay Abdellah Stadium]]
+| FIFA Trigramme        = MAR
+| FIFA Rank             = {{FIFA World Rankings|MAR}}
+| FIFA max              = 7
+| FIFA max date         = June 2026
+| FIFA min              = 95
+| FIFA min date         = September 2010
+| pattern_la1           = _mrc26h
+| pattern_b1            = _mrc26h
+| pattern_ra1           = _mrc26h
+| pattern_sh1           = _mrc26h
+| pattern_so1           = _mrc26hl
+| leftarm1              = FF0000
+| body1                 = FF0000
+| rightarm1             = FF0000
+| shorts1               = FFFFFF
+| socks1                = FF0000
+| pattern_la2           = _mrc26a
+| pattern_b2            = _mrc26a
+| pattern_ra2           = _mrc26a
+| pattern_sh2           = _mrc26a
+| pattern_so2           = _mrc26al
+| leftarm2              = FFFFFF
+| body2                 = FFFFFF
+| rightarm2             = FFFFFF
+| shorts2               = FFFFFF 
+| socks2                = FFFFFF
+| First game            = {{fb|MAR}} 3–3 {{fb-rt|IRQ|1924}}<br />([[Beirut]], Lebanon; 19 October 1957)
+| Largest win           = {{fb|MAR|1961}} 13–1 {{fb-rt|KSA|1938}}<br />([[Casablanca]], Morocco; 6 September 1961)
+| Largest loss          = {{fb|HUN|1957}} 6–0 {{fb-rt|MAR}}<br />([[Tokyo]], Japan; 11 October 1964)
+| World cup apps        = 7
+| World cup first       = 1970&hairsp;
+| World cup best        = Fourth place ([[2022 FIFA World Cup|2022]])
+| Regional name         = [[Africa Cup of Nations]]
+| Regional cup apps     = 20
+| Regional cup first    = [[1972 African Cup of Nations|1972]]&hairsp;
+| Regional cup best     = '''Champions''' ([[1976 African Cup of Nations|1976]], [[2025 African Cup of Nations|2025]])
+| 2ndRegional name      = [[FIFA Arab Cup|Arab Cup]]
+| 2ndRegional cup apps  = 5
+| 2ndRegional cup first = [[1998 Arab Cup|1998]]&hairsp;
+| 2ndRegional cup best  = '''Champions''' ([[2012 Arab Cup|2012]], [[2025 Arab Cup|2025]])
+| 3rdRegional name      = [[African Nations Championship]]
+| 3rdRegional cup apps  = 5
+| 3rdRegional cup first = [[2014 African Nations Championship|2014]]&hairsp;
+| 3rdRegional cup best  = '''Champions''' ([[2018 African Nations Championship|2018]], [[2020 African Nations Championship|2020]], [[2024 African Nations Championship|2024]])
+| medaltemplates        = 
+{{MedalCompetition|[[Africa Cup of Nations]]}}
+{{MedalGold|[[1976 Africa Cup of Nations|1976 Ethiopia]]|}}
+{{MedalGold|[[2025 African Cup of Nations|2025 Morocco]]|}}
+{{MedalSilver|[[2004 African Cup of Nations|2004 Tunisia]]|}}
+{{MedalBronze|[[1980 African Cup of Nations|1980 Nigeria]]|}}
+{{MedalCompetition|[[Arab Cup]]}}
+{{MedalGold|[[2012 Arab Cup|2012 Saudi Arabia]]|}}
+{{MedalGold|[[2025 FIFA Arab Cup|2025 Qatar]]|}}
+{{MedalCompetition|[[African Nations Championship]]}}
+{{MedalGold|[[2018 African Nations Championship|2018 Morocco]]|}}
+{{MedalGold|[[2020 African Nations Championship|2020 Cameroon]]|}}
+{{MedalGold|[[2024 African Nations Championship|2024 Kenya, Tanzania and Uganda]]|}}
+{{MedalCompetition|[[Football at the Mediterranean Games|Mediterranean Games]]}}
+{{MedalGold|[[Football at the 1983 Mediterranean Games|1983 Morocco]]|}}
+{{MedalBronze|[[Football at the 1991 Mediterranean Games|1991 Greece]]|}}
+{{MedalCompetition|[[Football at the Arab Games|Arab Games]]}}
+{{MedalGold|[[Football at the 1961 Arab Games|1961 Casablanca]]|}}
+{{MedalGold|[[Football at the 1976 Arab Games|1976 Damascus]]|}}
+{{MedalSilver|[[Football at the 1985 Arab Games|1985 Rabat]]|}}
+}}
+The '''Morocco national football team''' ({{langx|ar|منتخب المغرب لكرة القدم}}; {{Langx|zgh|ⵜⴰⵔⴰⴱⴱⵓⵜ ⵜⴰⵏⴰⵎⵓⵔⵜ ⵜⴰⵎⵖⵔⵉⴱⵉⵜ ⵏ ⵜⵛⴰⵎⵎⴰ ⵏ ⵓⴹⴰⵕ}}) represents [[Morocco]] in men's international [[Association football|football]]. It is controlled by the [[Royal Moroccan Football Federation]] (FRMF), the governing body for [[football in Morocco]]. It has been affiliated with [[FIFA]] since 1960, with the [[Confederation of African Football]] since 1959, and with the [[UNAF|Union of North African Football]] since 2005. The team, which is known as the ''Atlas Lions'', plays home matches at the [[Prince Moulay Abdellah Stadium]] in [[Rabat]], and trains at the Mohammed VI Football Complex in [[Salé]].
+
+Morocco is regarded as one of Africa’s most successful national football teams. They have won five continental titles, including the [[1976 African Cup of Nations|1976]] and [[2025 African Cup of Nations|2025]] editions of the [[Africa Cup of Nations|African Cup of Nations]]. They won the [[African Nations Championship]] in [[2018 African Nations Championship|2018]], [[2020 African Nations Championship|2020]] and [[2024 African Nations Championship|2024]]. Morocco has qualified for the [[FIFA World Cup]] on seven occasions. In [[1986 FIFA World Cup|1986]], they made history as the first African team to win a World Cup group and advance to the [[1986 FIFA World Cup knockout stage|knockout stage]]. At the [[2022 FIFA World Cup|2022 World Cup]], Morocco became the first African and first Arab team to reach a World Cup semi-final. They were also the third World Cup semi-finalist from outside [[UEFA|Europe]] or [[CONMEBOL|South America]]. In 2025, Morocco set a [[List of world association football records|world record]] for the longest winning streak in international football, achieving 19 consecutive victories across all competitions.
+
+Morocco was ranked 10th in the [[FIFA World Rankings]] in April 1998. They were Africa’s highest-ranked national team for three consecutive years, from 1997 to 1999, and have occupied that position again since December 2022. {{As of|2026|06|04}}, Morocco is ranked 7th in the world, the highest ranking by an African team since [[Nigeria national football team|Nigeria]] in 1994.
+
+Morocco is set to become the second African nation, the second [[MENA]] nation, and the first North African nation to host the FIFA World Cup, after being chosen as a co-host for the [[2030 FIFA World Cup|2030 edition]] alongside Portugal and Spain.

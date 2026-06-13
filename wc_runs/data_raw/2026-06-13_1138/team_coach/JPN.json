@@ -1,0 +1,24 @@
+{
+ "team": "JPN",
+ "coach": {
+  "name_zh": "森保一",
+  "name_en": "Hajime Moriyasu",
+  "nationality": "Japan",
+  "career_since": "2012",
+  "person_id": "per_hajime_moriyasu"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 森保一自2012年开启执教生涯，2026年是他作为日本国家队主帅征战的第二届世界杯，球队世界排名第18位。\n- 日本队以六连胜的友谊赛战绩抵达世界杯，且是除东道主外首支晋级2026世界杯决赛圈的球队，历史最佳战绩为四次十六强。\n- 森保一惯用单前锋体系，首选上田绮世（预选赛8球2助攻），久保建英与伊东纯也担任影锋，三人预选赛合计制造33球。\n- 队长远藤航因2月手术后的左脚伤势在5月31日热身赛复发，森保一赛前三天将其移出名单，远藤随后宣布从国家队退役，板仓滉接任队长。\n- 远藤航的替代者为门兴前锋町野修斗而非对位中场，球队中场防守硬度受损，同时三笘薫与南野拓实也因伤缺阵。\n- 森保一拥有充足的人员储备，久保建英、前田大然与伊东纯也竞争边路位置，球队被视为本届48队世界杯的潜在黑马。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.95,
+  "issues": []
+ },
+ "brief_fetched": "2026-06-13_1138",
+ "brief_info_chars": 6000
+}

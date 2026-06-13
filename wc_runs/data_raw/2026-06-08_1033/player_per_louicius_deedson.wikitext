@@ -1,0 +1,199 @@
+{{short description|Haitian footballer (born 2001)}}
+{{Use dmy dates|date=May 2026}}
+{{Infobox football biography
+| name = Louicius Deedson
+| image = 
+| fullname = Don Deedson Louicius<ref>{{cite web|title=2025 CONCACAF Gold Cup-Final Rosters |publisher=CONCACAF |url=https://mcusercontent.com/78d3589fb61466b549ff752e5/files/8470e630-9037-4f99-8f01-17300c6cdaa5/25_GC_Final_Rosters.pdf |website=CONCACAF.com|access-date=26 June 2025}}</ref>
+| birth_date = {{Birth date and age|2001|02|11|df=y}}
+| birth_place = [[Tabarre]], Haiti
+| height = 1.78 m
+| position = [[Right winger]]<ref>{{WorldFootball.net|louicius-don-deedson}}</ref>
+| currentclub = [[FC Dallas]]
+| clubnumber = 7
+| youthyears1 = 
+| youthclubs1 = [[FC Shana|Shana]]
+| youthyears2 = 
+| youthclubs2 = AS Truitier
+| youthyears3 = 
+| youthclubs3 = Ranch de la Croix-des-Bouquets
+| youthyears4 = 2016–2019
+| youthclubs4 = Kalonji Soccer Academy
+| youthyears5 = 2018
+| youthclubs5 = [[Atlanta United FC|Atlanta United]]
+| years1 = 2019–2023 | clubs1 = [[Hobro IK|Hobro]]
+| caps1 = 79
+| goals1 = 19
+| years2 = 2023–2025     | clubs2 = [[Odense Boldklub|OB]] | caps2 = 56 | goals2 = 15
+| years3 = 2025–
+| clubs3 = [[FC Dallas]]
+| caps3 = 9
+| goals3 = 1
+| nationalyears1 = 2021–
+| nationalteam1 = [[Haiti national football team|Haiti]]
+| nationalcaps1 = 31
+| nationalgoals1 = 10
+| pcupdate = 25 April 2026
+| ntupdate = 2 June 2026
+}}
+
+'''Don Deedson Louicius''' (born 11 February 2001), commonly known as '''Louicius Deedson''', is a Haitian professional [[association football|footballer]] who plays as a [[right winger]] for [[Major League Soccer|MLS]] club [[FC Dallas]] and the [[Haiti national football team|Haiti national team]].
+
+==International career==
+He made his debut for [[Haiti national football team]] on 25 March 2021 in a [[2022 FIFA World Cup qualification – CONCACAF first round|World Cup qualifier]] against Belize.<ref>{{cite web|publisher=[[FIFA]]|url=https://www.fifa.com/worldcup/preliminaries/nccamerica/matches/match/400136266/#match-lineups|archive-url=https://web.archive.org/web/20210108103525/https://www.fifa.com/worldcup/preliminaries/nccamerica/matches/match/400136266/#match-lineups|url-status=dead|archive-date=8 January 2021|title=Haiti v Belize game report|date=25 March 2021}}</ref> He scored his first two goals for Haiti against Jamaica in a CONCACAF Nations League match against Jamaica.<ref name=":0" />
+
+==Career statistics==
+===Club===
+{{updated|match played 25 April 2026}}<ref>{{Soccerway|id=623501|name=L. DEEDSON|access-date=17 July 2024}}</ref>
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National Cup
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="5"|[[Hobro IK|Hobro]]
+|[[2019–20 Danish Superliga|2019–20]]
+|[[Danish Superliga]]
+|7||1||colspan="2"|—||7||1
+|-
+|[[2020–21 Danish 1st Division|2020–21]]
+|rowspan="3"|[[Danish 1st Division|1. Division]]
+|18||2||colspan="2"|—||18||2
+|-
+|[[2021–22 Danish 1st Division|2021–22]]
+|28||6||1||0||29||6
+|-
+|[[2022–23 Danish 1st Division|2022–23]]
+|26||10||2||1||28||11
+|-
+!colspan="2"|Total
+!79!!19!!3!!1!!82!!20
+|-
+|rowspan="3"|[[Odense Boldklub|OB]]
+|[[2023–24 Danish Superliga|2023–24]]
+|Danish Superliga
+|27||8||1||0||28||8
+|-
+|[[2024–25 Danish 1st Division|2025–26]]
+|Danish Superliga
+|29||7||0||0||29||7
+|-
+!colspan="2"|Total
+!56!!15!!1!!0!!57!!15
+|-
+|rowspan="3"|[[FC Dallas]]
+|[[2025 FC Dallas season|2025]]
+|[[Major League Soccer|MLS]]
+|2||0||0||0||2||0
+|-
+|[[2026 FC Dallas season|2026]]
+|MLS
+|7||1||0||0||7||1
+|-
+!colspan="2"|Total
+!9!!1!!0!!0!!9!!1
+|-
+!colspan="3"|Career Total
+!144!!35!!4!!1!!148!!36
+|}
+
+===International===
+{{updated|match played 2 June 2026}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year<ref>{{NFT player|81980|Louicius Don Deedson|access-date =17 July 2024}}</ref>
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="5"|[[Haiti national football team|Haiti]]
+|2021||4||0
+|-
+|2023||3||2
+|-
+|2024||9||4
+|-
+|2025||12||4
+|-
+|2026||3||0
+|-
+!colspan="2"|Total!!31!!10
+|}
+
+:''Scores and results list Haiti's goal tally first, score column indicates score after each Deedson goal.''
+{| class="wikitable sortable"
+|+ List of international goals scored by Louicius Don Deedson
+|-
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+!scope="col" class="unsortable"|{{Abbr|Ref.|Reference}}
+|-
+|style="text-align:center"|1||rowspan="2"| 12 September 2023||rowspan="2"|[[Independence Park (Jamaica)|Independence Park]], [[Kingston, Jamaica|Kingston]], Jamaica||rowspan="2"|{{fb|JAM}}||style="text-align:center"|1–0||rowspan="2" style="text-align:center"|2–2||rowspan="2"|[[2023–24 CONCACAF Nations League A]]||rowspan="2"|<ref name=":0">{{cite web|title=Jamaica vs. Haiti|url=https://www.national-football-teams.com/matches/report/37427/Jamaica_Haiti.html|website=National Football Teams|access-date=17 July 2024}}</ref>
+|-
+|style="text-align:center"|2||style="text-align:center"|2–0
+|-
+|style="text-align:center"|3||29 June 2024||[[Wildey Turf]], [[Wildey, Barbados|Wildey]], Barbados||{{fb|BRB}}||style="text-align:center"|1–0||style="text-align:center"|3–1||[[2026 FIFA World Cup qualification – CONCACAF second round|2026 FIFA World Cup qualification]]||<ref>{{cite web|title=Barbados vs. Haiti|url=https://www.national-football-teams.com/matches/report/39115/Barbados_Haiti.html|website=National Football Teams|access-date=17 July 2024}}</ref>
+|-
+|style="text-align:center"|4||6 September 2024||[[Mayagüez Athletics Stadium]], [[Mayagüez, Puerto Rico|Mayagüez]], Puerto Rico||{{fb|PUR}}||style="text-align:center"|3–1||style="text-align:center"|4–1||rowspan="3"|[[2024–25 CONCACAF Nations League B]]||<ref>{{Cite web |date=12 March 2021 |title=Game Details |url=https://www.concacaf.com/en/nations-league/game-details?matchid=740607 |access-date=24 February 2025 |publisher=CONCACAF}}</ref>
+|-
+|style="text-align:center"|5||14 October 2024||[[Trinidad Stadium]], [[Oranjestad]], Aruba||{{fb|ARU}}||style="text-align:center"|3–2||style="text-align:center"|5–3
+|-
+|style="text-align:center"|6||18 November 2024||Mayagüez Athletics Stadium, Mayagüez, Puerto Rico||{{fb|PUR}}||style="text-align:center"|2–0||style="text-align:center"|3–0
+|-
+|style="text-align:center"|7||10 June 2025||Trinidad Stadium, Oranjestad, Aruba||{{fb|CUW}}||style="text-align:center"|1–3||style="text-align:center"|1–5||2026 FIFA World Cup qualification
+|-
+|style="text-align:center"|8||22 June 2025||[[AT&T Stadium]], [[Arlington, Texas|Arlington]], United States||{{fb|USA}}||style="text-align:center"|1–1||style="text-align:center"|1–2||[[2025 CONCACAF Gold Cup]]
+|-
+|style="text-align:center"|9||9 October 2025 ||[[Nicaragua National Football Stadium]], [[Managua]], Nicaragua ||rowspan=2| {{fb|NCA}} || style="text-align:center"|3–0 ||style="text-align:center"|3–0 ||rowspan=2| [[2026 FIFA World Cup qualification – CONCACAF third round|2026 FIFA World Cup qualification]]
+|-
+|style="text-align:center"|10||18 November 2025||[[Ergilio Hato Stadium]], [[Willemstad]], Curaçao ||style="text-align:center"|1–0 ||style="text-align:center"|2–0
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{NFT player|81980}}
+
+{{FC Dallas squad}}
+{{Navboxes
+| title = Haiti squads
+| bg        = #00209F
+| fg        = white
+| bordercolor = #D21034
+| list1 = 
+{{Haiti squad 2021 CONCACAF Gold Cup}}
+{{Haiti squad 2025 CONCACAF Gold Cup}}
+{{Haiti squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Deedson, Louicius Don}}
+[[Category:2001 births]]
+[[Category:Living people]]
+[[Category:People from Ouest (department)]]
+[[Category:Men's association football wingers]]
+[[Category:Haitian men's footballers]]
+[[Category:Haitian expatriate men's footballers]]
+[[Category:Haiti men's international footballers]]
+[[Category:2021 CONCACAF Gold Cup players]]
+[[Category:2025 CONCACAF Gold Cup players]]
+[[Category:Atlanta United FC players]]
+[[Category:Hobro IK players]]
+[[Category:Odense Boldklub players]]
+[[Category:FC Dallas players]]
+[[Category:Danish Superliga players]]
+[[Category:Danish 1st Division players]]
+[[Category:Expatriate men's footballers in Denmark]]
+[[Category:Haitian expatriate sportspeople in Denmark]]
+[[Category:21st-century Haitian sportsmen]]
+[[Category:2026 FIFA World Cup players]]
+
+{{Haiti-footy-bio-stub}}

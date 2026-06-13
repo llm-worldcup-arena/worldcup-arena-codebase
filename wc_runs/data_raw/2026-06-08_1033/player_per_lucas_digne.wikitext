@@ -1,0 +1,392 @@
+{{short description|French footballer (born 1993)}}
+{{Use British English|date=June 2025}}
+{{Use dmy dates|date=June 2025}}
+{{Infobox football biography
+| name = Lucas Digne
+| image = Lucas Digne Everton (cropped).jpg
+| caption = Digne playing for [[Everton F.C.|Everton]] in 2019
+| full_name = Lucas Digne<ref>{{cite web |url=http://actas.rfef.es/actas/RFEF_CmpActa1?cod_primaria=1000144&CodActa=43261 |title=Acta del Partido celebrado el 26 de agosto de 2017, en Vitoria-Gasteiz |trans-title=Minutes of the Match held on 26 August 2017, in Vitoria-Gasteiz |publisher=Royal Spanish Football Federation |access-date=13 June 2019 |language=es |archive-date=3 March 2023 |archive-url=https://web.archive.org/web/20230303151413/http://actas.rfef.es/actas/RFEF_CmpActa1?cod_primaria=1000144&CodActa=43261 |url-status=dead }}</ref>
+| birth_date = {{birth date and age|1993|7|20|df=y}}<ref name=PremProfile>{{cite web |url=https://www.premierleague.com/players/5758/Lucas-Digne/overview |title=Lucas Digne: Overview |publisher=Premier League |access-date=13 June 2019}}</ref>
+| birth_place = [[Meaux]], France
+| height = 1.78 m<ref name=PremProfile/>
+| position = [[Left-back]]
+| currentclub = [[Aston Villa]]
+| clubnumber = 12
+| youthyears1 = 1999–2002
+| youthclubs1 = Mareuil-sur-Ourcq
+| youthyears2 = 2002–2005
+| youthclubs2 = Crépy-en-Valois
+| youthyears3 = 2005–2010
+| youthclubs3 = [[Lille OSC|Lille]]
+| years1 = 2010–2011
+| clubs1 = [[Lille OSC|Lille B]]
+| caps1 = 35
+| goals1 = 1
+| years2 = 2011–2013
+| clubs2 = [[Lille OSC|Lille]]
+| caps2 = 49
+| goals2 = 2
+| years3 = 2013–2016
+| clubs3 = [[Paris Saint-Germain F.C.|Paris Saint-Germain]]
+| caps3 = 30
+| goals3 = 0
+| years4 = 2015–2016
+| clubs4 = → [[AS Roma|Roma]] (loan)
+| caps4 = 33
+| goals4 = 3
+| years5 = 2016–2018
+| clubs5 = [[FC Barcelona|Barcelona]]
+| caps5 = 29
+| goals5 = 0
+| years6 = 2018–2022
+| clubs6 = [[Everton F.C.|Everton]]
+| caps6 = 113
+| goals6 = 4
+| years7 = 2022–
+| clubs7 = [[Aston Villa F.C.|Aston Villa]]
+| caps7 = 140
+| goals7 = 2
+| nationalyears1 = 2008–2009
+| nationalteam1 = [[France national under-16 football team|France U16]]
+| nationalcaps1 = 15
+| nationalgoals1 = 0
+| nationalyears2 = 2009–2010
+| nationalteam2 = [[France national under-17 football team|France U17]]
+| nationalcaps2 = 15
+| nationalgoals2 = 0
+| nationalyears3 = 2010–2011
+| nationalteam3 = [[France national under-18 football team|France U18]]
+| nationalcaps3 = 11
+| nationalgoals3 = 0
+| nationalyears4 = 2011–2012
+| nationalteam4 = [[France national under-19 football team|France U19]]
+| nationalcaps4 = 12
+| nationalgoals4 = 1
+| nationalyears5 = 2013
+| nationalteam5 = [[France national under-20 football team|France U20]]
+| nationalcaps5 = 12
+| nationalgoals5 = 2
+| nationalyears6 = 2013
+| nationalteam6 = [[France national under-21 football team|France U21]]
+| nationalcaps6 = 7
+| nationalgoals6 = 0
+| nationalyears7 = 2014–
+| nationalteam7 = [[France national football team|France]]
+| nationalcaps7 = 57
+| nationalgoals7 = 0
+| medaltemplates = {{Medal|Sport|Men's [[Association football|football]]}}
+{{Medal|Country|{{fb|FRA}}}}
+{{Medal|Competition|[[UEFA Nations League]]}}
+{{Medal|Winner|[[2021 UEFA Nations League Finals|2021 Italy]]|}}
+{{Medal|3rd|[[2025 UEFA Nations League Finals|2025 Germany]]|}}
+{{Medal|Comp|[[UEFA European Championship]]}}
+{{Medal|RU|[[UEFA Euro 2016|2016 France]]|}}
+{{MedalCompetition|[[FIFA U-20 World Cup]]}}
+{{Medal|Winner|[[2013 FIFA U-20 World Cup|2013 Turkey]]|}}
+| club-update = 22:25, 15 May 2026 (UTC)
+| nationalteam-update = 4 June 2026
+}}
+'''Lucas Digne''' (born 20 July 1993) is a French professional [[Association football|footballer]] who plays as a [[left back|left-back]] for {{English football updater|Everton}} club [[Aston Villa F.C.|Aston Villa]] and the [[France national football team|France national team]].
+
+Digne began his professional career at [[Lille OSC|Lille]] before joining fellow French side [[Paris Saint-Germain F.C.|Paris Saint-Germain]] in 2013. After spending a season on loan at [[AS Roma|Roma]], he moved to [[FC Barcelona|Barcelona]] in July 2016. Despite not playing regularly at either club, he won twelve honours at Paris and Barcelona combined. He joined [[Everton F.C.|Everton]] in August 2018, making 113 appearances before transferring to Aston Villa in January 2022.
+
+Digne won the [[2013 FIFA U-20 World Cup|2013 World Cup]] with the [[France national under-20 football team|France under-20 team]], and made his senior international debut in March 2014. He represented France at the [[2014 FIFA World Cup]], [[UEFA Euro 2016]] (where his nation reached the [[UEFA Euro 2016 final|final]]), and [[UEFA Euro 2020|Euro 2020]].
+
+== Club career ==
+=== Lille ===
+[[File:Lucas Digne (LOSC).JPG|thumb|left|upright|Digne playing for [[Lille OSC|Lille]] in 2012]]
+
+Born in [[Meaux]], Seine-et-Marne, Digne finished his development at [[Lille OSC|Lille]], signing his first professional contract on 27 July 2010 for three years.<ref>{{cite news |url=http://www.losc.fr/filInfo.php?id=2835 |title=Digne et le LOSC liés jusqu'en 2013 |date=27 July 2010 |work=[[Lille OSC]] |access-date=2 August 2010 |language=fr}}{{dead link|date=May 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> Ahead of the [[2011–12 Ligue 1|2011–12 season]], Digne was promoted to the senior team permanently and assigned the number 3 shirt. He made his professional debut on 26 October 2011 in a 6–1 victory over [[CS Sedan Ardennes|Sedan]] in the last 16 of the [[Coupe de la Ligue]].<ref>{{cite news |url=http://www.lfp.fr/coupeLigue/feuille_match/75645 |title=Lille v. Sedan Match Report |date=6 October 2011 |work=[[Ligue de Football Professionnel]] |access-date=26 October 2011 |language=fr}}</ref>
+
+In January 2012, Digne extended his contract until 2016.<ref>{{cite news |title=Lucas Digne prolonge à Lille |trans-title=Lucas Digne prolongs at Lille |url=http://sport24.lefigaro.fr/football/ligue-1/Homes-Clubs/lille/fil-info/lucas-digne-prolonge-a-lille-527131 |access-date=31 July 2018 |work=Le Figaro |date=10 January 2012 |language=fr}}</ref> On 28 January, he made his [[Ligue 1]] debut at the [[Stadium Nord Lille Metropole]], playing the final two minutes of a 3–0 win over [[AS Saint-Étienne|Saint-Étienne]].<ref>{{cite news |title=Les Dogues passent au vert ! |trans-title=The ''Dogues'' go at the green! |url=https://www.losc.fr/actualites-foot-lille/losc-asse-3-0-les-dogues-passent-au-vert |access-date=31 July 2018 |publisher=Lille OSC |date=28 January 2012 |language=es}}</ref> He totalled 16 league appearances as the defending champions came third.<ref>{{cite web|url=http://skladyfutbol.pl/infopage.php?id=6941|publisher = Skladyfutbol.pl|title=OSC Lille 2011–12|date=30 December 2022|access-date=30 December 2022}}</ref>
+
+Digne was a regular in the 2012–13 season. On 23 February 2013, having given Lille the lead in a 3–1 win at [[AC Ajaccio|Ajaccio]] when his cross was deflected in by [[Yoann Poulard]], he was sent off after an hour for a foul on [[Matthieu Chalmé]].<ref>{{cite news |title=Ten-man Lille ease to victory |url=http://www.skysports.com/football/ac-ajaccio-vs-lille/259888 |access-date=1 August 2018 |publisher=Sky Sports |date=23 February 2013}}</ref> He scored his first goal on 7 April, a penalty in a 5–0 home win over [[FC Lorient|Lorient]],<ref>{{cite news |title=Kalou at the double for Lille |url=http://www.skysports.com/football/lille-vs-lorient/284955 |access-date=1 August 2018 |publisher=Sky Sports |date=7 April 2013}}</ref> and two weeks later he added another to equalise in a 2–1 comeback victory at [[SC Bastia|Bastia]].<ref>{{cite news |title=Lille fight back at Bastia |url=http://www.skysports.com/football/bastia-vs-lille/260036 |access-date=1 August 2018 |publisher=Sky Sports |date=21 April 2013}}</ref>
+
+=== Paris Saint-Germain ===
+On 17 July 2013, Digne signed a five-year deal with [[Paris Saint-Germain F.C.|Paris Saint-Germain]],<ref>{{cite news |url=http://www.psg.fr/en/News/003001/Article/62873/Lucas-Digne-signs-five-year-deal-with-Paris-Saint-Germain |title=LUCAS DIGNE SIGNS FIVE-YEAR DEAL WITH PARIS SAINT-GERMAIN |date=17 July 2013 |access-date=17 July 2013 |publisher=Paris Saint-Germain F.C. |archive-date=1 August 2018 |archive-url=https://web.archive.org/web/20180801035929/https://www.psg.fr/en/News/003001/Article/62873/Lucas-Digne-signs-five-year-deal-with-Paris-Saint-Germain |url-status=dead }}</ref> on a fee believed to be around €15&nbsp;million.<ref>{{cite news |url=http://www.goal.com/en-us/news/69/transfer-zone/2013/07/17/4124637/paris-saint-germain-seals-digne-deal |title=Paris Saint-Germain seals Digne deal |date=17 July 2013 |access-date=17 July 2013 |work=Goal (website)}}</ref> On 3 August, he was an unused substitute as they won the [[2013 Trophée des Champions]] with a 2–1 victory over [[FC Girondins de Bordeaux|Bordeaux]] in Gabon.<ref>{{cite news |title=Paris Saint-Germain 2–1 Girondins de Bordeaux |url=https://www.lfp.fr/tropheeChampions/feuille_match/78274 |access-date=31 July 2018 |publisher=LFP |date=3 August 2013}}</ref> He did not make his debut until 13 September in a 2–0 win at the same opponents, as manager [[Laurent Blanc]] rotated his squad ahead of the [[UEFA Champions League]].<ref>{{cite news |title=Digne to get his chance in Bordeaux? |url=https://www.ligue1.com/ligue1/article/digne-to-get-his-chance-in-bordeaux.htm |access-date=31 July 2018 |publisher=Ligue 1 |date=10 September 2013}}</ref><ref>{{cite news |title=Digne et Ongenda titulaires avec le PSG à Bordeaux |trans-title=Digne and Ongenda starters for PSG at Bordeaux |url=http://www.leparisien.fr/flash-actualite-sports/ligue-1-digne-et-ongenda-titulaires-avec-le-psg-a-bordeaux-13-09-2013-3134467.php |access-date=31 July 2018 |work=Le Parisien |date=13 September 2013 |language=fr |archive-date=31 July 2018 |archive-url=https://web.archive.org/web/20180731213332/http://www.leparisien.fr/flash-actualite-sports/ligue-1-digne-et-ongenda-titulaires-avec-le-psg-a-bordeaux-13-09-2013-3134467.php |url-status=dead }}</ref> PSG ended the season with both the league and league cup titles, though Digne was back-up to Brazilian veteran [[Maxwell (footballer, born 1981)|Maxwell]].<ref name=four/>
+
+Digne played the full 90 minutes in the [[2014 Trophée des Champions]], which PSG won 2–0 against [[EA Guingamp|Guingamp]] in Beijing.<ref>{{cite news |last1=Maltret |first1=Laurent |title=Paris brille à Pékin |url=https://www.lequipe.fr/Football/match/316940 |archive-url=https://web.archive.org/web/20140730044234/http://www.lequipe.fr/Football/match/316940 |url-status=dead |archive-date=30 July 2014 |access-date=31 July 2018 |work=L'Équipe |date=2 August 2014 |language=fr}}</ref> The Parisians won all four domestic honours in 2014–15, with Digne an unused substitute in their Coupe de France and Coupe de la Ligue final victories.
+
+==== Roma (loan) ====
+On 26 August 2015, Italian [[Serie A]] club [[A.S. Roma|Roma]] signed Digne from PSG on a season-long loan deal for €2.5&nbsp;million, with the option to make the move permanent at the end of the [[2015–16 A.S. Roma season|season]].<ref>{{cite news |url=https://www.asroma.com/en/news/2015/08/roma-complete-signing-of-lucas-digne |title=Roma complete signing of Lucas Digne |date=26 August 2015 |publisher=[[A.S. Roma]] |access-date=26 August 2015}}</ref> He made his debut five days later, playing the entire match in a 2–1 victory against title holders [[Juventus FC|Juventus]] at the [[Stadio Olimpico]]. He blew a sarcastic kiss at opponent [[Roberto Pereyra]] and advised him to check the scoreboard, a gesture likened to one by Roma captain [[Francesco Totti]] to [[Igor Tudor]] of the same rival in a 4–0 win in February 2004.<ref>{{cite news |title=Roma, Digne come Totti: sfottò alla Juve per il risultato |trans-title=Roma, Digne like Totti: teased Juventus for the result |url=https://sport.sky.it/calcio/2015/08/31/digne-come-totti-sfotto-risultato-roma-juve.html |access-date=2 August 2018 |publisher=Sky Sports |date=31 August 2015 |language=it |archive-date=3 August 2018 |archive-url=https://web.archive.org/web/20180803014048/https://sport.sky.it/calcio/2015/08/31/digne-come-totti-sfotto-risultato-roma-juve.html |url-status=dead }}</ref>
+
+Digne scored his first goal for the ''Giallorossi'' on 26 September with a close-range header in a 5–1 home win over [[Carpi F.C. 1909|Carpi]], having earlier assisted [[Kostas Manolas]] in opening his account for the club.<ref>{{cite news |title=Roma 5 Carpi 1: Garcia's five-star men leave new boys winless |url=http://www.beinsports.com/en/football/news/roma-5-carpi-1-garcias-five-star-men-leave-1/103943 |access-date=2 August 2018 |publisher=beIN Sports |date=26 September 2015}}</ref> Against the same opponents on 12 February, he returned from injury to score from 30 metres in a 3–1 win,<ref>{{cite news |title=Le superbe but de Lucas Digne (AS Roma) face à Carpi|trans-title=Lucas Digne's (AS Roma) superb goal against Carpi |url=https://www.lequipe.fr/Football/Actualites/Le-superbe-but-de-lucas-digne-as-roma-face-a-carpi/634098 |access-date=2 August 2018 |work=L'Équipe |date=12 February 2016 |language=fr}}</ref> and on 17 April he opened a 3–3 draw at [[Atalanta B.C.|Atalanta]].<ref>{{cite news |title=10 facts and figures on Atalanta 3–3 Roma |url=http://www.asroma.com/en/news/2016/4/10-facts-and-figures-on-atalanta-3-3-roma |access-date=2 August 2018 |publisher=AS Roma |date=19 April 2016}}</ref> The team from Italy's [[Rome|capital]] came third in Serie A, and Digne declared that he wanted the move to be made permanent.<ref>{{cite news |last1=Rodden |first1=Mark |title=Paris Saint-Germain defender Lucas Digne wants permanent Roma move |url=http://www.espn.co.uk/football/soccer-transfers/story/2874642/paris-saint-germain-defender-lucas-digne-wants-permanent-roma-move |access-date=2 August 2018 |publisher=ESPN FC |date=17 May 2016}}</ref>
+
+=== Barcelona ===
+[[File:Save the Dream at the Match of Champions (31760339442) (cropped).jpg|thumb|right|Digne lining up for [[FC Barcelona|Barcelona]] in 2016|145x145px]]
+
+Digne joined Spanish [[La Liga]] side [[FC Barcelona|Barcelona]] in time for the [[2016-17 Barcelona|2016–17 season]] on 13 July 2016, on a five-year deal. The fee was €16.5&nbsp;million (£13.8&nbsp;million), with the possibility to increase to €20.5&nbsp;million (£17.1&nbsp;million), according to individual and team results.<ref>{{cite news |url=https://www.fcbarcelona.com/football/first-team/news/2016-2017/lucas-digne-becomes-fc-barcelona-s-latest-signing |title=Lucas Digne becomes FC Barcelona's latest signing |publisher=FC Barcelona |date=13 July 2016 |access-date=13 July 2016}}</ref> On 14 August 2016, Digne made his first appearance for Barcelona in a 0–2 victory against [[Sevilla FC|Sevilla]] in the [[2016 Supercopa de España]] first leg, as a 27th-minute substitute for compatriot [[Jérémy Mathieu]].<ref>{{Cite web |url=http://www.barcablaugranes.com/2016/8/15/12479424/barcelonas-lucas-digne-impresses-on-debut-vs-sevilla |title=Barcelona's Lucas Digne Impresses on Debut vs. Sevilla |last=Mazariegos |first=Luis |date=15 August 2016 |website=Barca Blaugranes|access-date=2016-08-16}}</ref>
+
+He played 26 total games in his first season at the [[Camp Nou]], scoring once in a 7–0 (8–1 aggregate) win over [[Segunda División B]] club [[Hércules CF|Hércules]] in the last 32 of the [[Copa del Rey]] on 21 December 2016.<ref>{{cite news |title=Barcelona 7–0 Hércules |url=https://www.bbc.co.uk/sport/football/38339837 |access-date=29 July 2018 |work=BBC Sport |date=21 December 2016}}</ref> Barcelona won that cup, with Digne unused in the [[2017 Copa del Rey Final|final]] on 27 May 2017, a 3–1 win over [[Deportivo Alavés|Alavés]].<ref>{{cite news |title=Barcelona 3–1 Alaves |url=https://www.bbc.co.uk/sport/football/39909498 |access-date=1 August 2018 |work=BBC Sport |date=27 May 2017}}</ref>
+
+Digne played 20 times in [[2017–18 FC Barcelona season|2017–18]] as Barcelona won the league and cup [[Double (association football)|double]] under new manager [[Ernesto Valverde]]. On 18 October 2017, he scored from [[Lionel Messi]]'s assist in a 3–1 home win over [[Olympiacos F.C.|Olympiacos]] in the Champions League group stage.<ref>{{cite news |last1=Unwin |first1=Will |title=Barcelona 3–1 Olympiakos: Lionel Messi scores 100th European goal as Gerard Pique sees red |url=http://www.skysports.com/football/barcelona-vs-olympiakos/384284 |access-date=29 July 2018 |publisher=Sky Sports |date=19 October 2017}}</ref>
+
+=== Everton ===
+Digne joined English club [[Everton F.C.|Everton]] on 1 August 2018, for a five-year deal on an initial fee of £18&nbsp;million.<ref>{{cite news |title=Lucas Digne: Everton sign full-back from Barcelona for £18m |url=https://www.bbc.co.uk/sport/football/45024174 |access-date=1 August 2018 |work=BBC Sport |date=1 August 2018}}</ref> He made his debut ten days later, replacing double goalscorer and fellow debutant [[Richarlison]] for the last four minutes of a 2–2 draw at [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]].<ref>{{cite news |last1=Hafez |first1=Shamoon |title=Wolverhampton Wanderers 2–2 Everton |url=https://www.bbc.co.uk/sport/football/45067374 |access-date=11 August 2018 |work=BBC Sport |date=11 August 2018}}</ref> On his first start on 29 August in a 3–1 [[EFL Cup]] win against [[Rotherham United F.C.|Rotherham United]], he assisted a goal from [[Dominic Calvert-Lewin]].<ref>{{cite news |title=Lucas Digne shines on full debut for Everton |url=https://www.bbc.co.uk/sport/football/45266834 |access-date=29 August 2018 |work=BBC Sport |date=29 August 2018}}</ref> Digne made his first [[Premier League]] start for Everton four days later in a home game against [[Huddersfield Town A.F.C.|Huddersfield Town]], and assisted Calvert-Lewin's headed equaliser in a 1–1 draw.<ref>{{cite news |title=Everton maintain their unbeaten start |url=https://www.bbc.co.uk/sport/football/45305226 |access-date=1 September 2018 |work=BBC Sport |date=1 September 2018}}</ref>
+
+By the start of October, Digne had become Everton's first-choice [[left back]], ahead of veteran [[Leighton Baines]].<ref>{{cite news |last1=Jones |first1=Adam |title=How Lucas Digne has firmly cemented his place in Everton's first team ahead of Leighton Baines |url=https://www.liverpoolecho.co.uk/sport/football/football-news/how-lucas-digne-firmly-cemented-15241440 |access-date=24 January 2019 |work=Liverpool Echo |date=5 October 2018}}</ref> He scored his first goal for the club on 10 December, in the sixth minute of stoppage time at the end of a match against [[Watford F.C.|Watford]], curling in a free kick for a 2–2 draw.<ref>{{cite news |title=Lucas Digne first Everton goal |url=https://www.bbc.co.uk/sport/football/46422266 |access-date=10 December 2018 |work=BBC Sport |date=10 December 2018}}</ref> Sixteen days later he scored twice in a 5–1 win at [[Burnley F.C.|Burnley]], with a free kick and a 30-yard shot.<ref>{{cite news |title=Lucas Digne at the double |url=https://www.bbc.co.uk/sport/football/46615195 |access-date=26 December 2018 |work=BBC Sport |date=26 December 2018}}</ref> On 29 January 2019 he was sent off in a 1–0 win at Huddersfield for denying [[Adama Diakhaby]] a goalscoring opportunity with a foul.<ref>{{cite news |last1=Begley |first1=Emlyn |title=Huddersfield Town 0&ndash;1 Everton |url=https://www.bbc.co.uk/sport/football/46955252 |access-date=29 January 2019 |work=BBC Sport |date=29 January 2019}}</ref> Digne's first season at Everton concluded with individual honours as he was named the Club's Player of the Season, as voted for by supporters, and Players' Player of the Season alongside midfielder [[Idrissa Gueye]], the first time the award had been shared.<ref>{{Cite web|url=http://www.evertonfc.com/news/2019/05/14/dixies|title=Digne Honoured After Scooping Dixies Double|publisher=Everton F.C.|access-date=2019-05-15}}</ref>
+
+On 25 October 2020, Digne was sent off in a 2–0 loss at [[Southampton F.C.|Southampton]] for a foul on [[Kyle Walker-Peters]]. Referee [[Kevin Friend]] recorded it as "serious foul play" which is punished with a three-game suspension, but the ban was reduced to one match on appeal.<ref>{{cite news |title=Everton's Lucas Digne has red card suspension reduced to one match |url=https://www.theguardian.com/football/2020/oct/27/evertons-lucas-digne-has-red-card-suspension-reduced-to-one-match |access-date=29 June 2021 |work=The Guardian |date=27 October 2020}}</ref>
+
+In January 2022, Digne told Everton manager [[Rafael Benítez]] that he no longer wanted to play for the club and wished to leave. He had argued with the manager over tactics.<ref>{{cite news |title=Lucas Digne: Everton defender wants to leave, says boss Rafael Benitez |url=https://www.bbc.co.uk/sport/football/59908275 |access-date=4 September 2022 |work=BBC Sport |date=7 January 2022}}</ref>
+
+=== Aston Villa ===
+On 13 January 2022, [[Aston Villa F.C.|Aston Villa]] announced the signing of 28-year-old Digne from Everton for a fee of £25&nbsp;million, with a contract until 2026.<ref>{{cite web|title=Villa announce Lucas Digne signing|url=https://www.avfc.co.uk/news/2022/january/13/villa-announce-lucas-digne-signing/|access-date=13 January 2022 |publisher=Aston Villa F.C. |date=13 January 2022}}</ref><ref>{{Cite news|title=Digne joins Aston Villa from Everton|work=BBC Sport|url=https://www.bbc.com/sport/football/59977639|access-date=2022-01-13}}</ref> He made his debut two days later, in a 2–2 home draw with [[Manchester United F.C.|Manchester United]].<ref>{{cite news |last1=Ramsdale |first1=Ben |title=Aston Villa player ratings vs Manchester United: Coutinho shines on Villa debut |url=https://www.birminghamworld.uk/sport/football/aston-villa/aston-villa-player-ratings-vs-manchester-united-coutinho-shines-on-villa-debut-3528964 |access-date=4 September 2022 |publisher=Birmingham World |date=15 January 2022}}</ref> On 23 August, Digne scored his first goal for the team in a 4–1 victory at [[Bolton Wanderers F.C.|Bolton Wanderers]] in the second round of the [[EFL Cup]].<ref>{{cite news |last1=Poole |first1=Harry |title=Bolton Wanderers 1&ndash;4 Aston Villa |url=https://www.bbc.co.uk/sport/football/62558092 |access-date=4 September 2022 |work=BBC Sport |date=23 August 2022}}</ref>
+
+On 21 September 2022, Digne suffered a [[stress fracture]] to his ankle while on international duty with France,<ref>{{Cite web |last=Pawley |first=Luke |date=21 September 2022 |title=Aston Villa dealt huge injury blow as Lucas Digne suffers 'possible fracture' |url=https://www.birminghammail.co.uk/sport/football/football-news/luckless-aston-villa-dealt-another-25069448 |access-date=2022-10-30 |website=BirminghamLive}}</ref> returning on 29 October as a second-half substitute in a 4–0 defeat to [[Newcastle United F.C.|Newcastle United]].<ref>{{Cite news |last=Gault |first=Matt |date=29 October 2022 |title=Wilson scores twice as Newcastle thrash Villa |work=BBC Sport |url=https://www.bbc.com/sport/football/63354917 |access-date=2022-10-30}}</ref> On 6 November, Digne scored his first league goal for Aston Villa in a 3–1 home victory over Manchester United, in [[Unai Emery]]'s first game as manager.<ref>{{cite news |last1=Rose |first1=Gary |title=Aston Villa 3&ndash;1 Manchester United |url=https://www.bbc.co.uk/sport/football/63443729 |access-date=15 October 2023 |work=BBC Sport |date=6 November 2022}}</ref>
+
+Digne assisted three goals on 23 August 2023 in a 5–0 win at [[Hibernian F.C.|Hibernian]] in a [[UEFA Europa Conference League]] qualifier. This came amidst doubts over his future due to Emery's preference for the more attacking [[Àlex Moreno]] as left back.<ref>{{cite news |last1=Tanswell |first1=Jacob |title=Lucas Digne's hat-trick of assists at Hibs was a timely reminder of his capabilities |url=https://www.nytimes.com/athletic/4796122/2023/08/24/lucas-digne-villa-future/ |access-date=15 October 2023 |work=The Athletic |date=24 August 2023}}</ref> A month later he scored in the group stage of the competition, albeit in a 3–2 loss at [[Legia Warsaw]].<ref>{{cite news |last1=Vurley |first1=Callum |title=Aston Villa's return to Europe saw them dealt crushing defeat in five-goal thriller including Lucas Digne screamer |url=https://talksport.com/football/1573990/aston-villa-legia-warsaw-europa-conference-league/ |access-date=15 October 2023 |publisher=Talksport |date=21 September 2023}}</ref>
+
+On 2 March 2024, Digne scored his second league goal for Aston Villa, a late winner scored in a 3–2 victory against [[Luton Town F.C.|Luton Town]].<ref>{{Cite web |last=Begley |first=Emlyn |date=2 March 2024 |title=Luton Town 2–3 Aston Villa |url=https://www.bbc.com/sport/football/68389648 |website=BBC Sport}}</ref>
+
+On 7 August 2025, Digne signed a contract extension with Aston Villa, lasting until 2028.<ref>{{Cite web |date=7 August 2025 |title=Lucas Digne signs new contract |url=https://www.avfc.co.uk/news/2025/august/07/digne-signs-new-contract/ |access-date=7 August 2025 |website=Aston Villa Football Club}}</ref> It was reported that Digne had agreed to take a lower wage in order to avoid being sold by Aston Villa to aid with [[UEFA Financial Fair Play Regulations]].<ref>{{Cite news |last=Tanswell |first=Jacob |date=2025-08-06 |title=Aston Villa's Lucas Digne verbally agrees new contract |url=https://www.nytimes.com/athletic/6537973/2025/08/06/aston-villa-news-digne-contract/ |access-date=2025-08-07 |work=The New York Times |language=en-US |issn=0362-4331}}</ref>
+
+== International career ==
+[[File:Lucas Digne (cropped).jpg|thumb|upright|Digne with the [[France national under-19 football team|France U19s]] in 2012]]
+
+Digne was a [[France national youth football team|French youth international]] and represented his nation at the [[France national under-16 football team|U16]], [[France national under-17 football team|U17]], and [[France national under-18 football team|U18]] levels. At the [[2013 FIFA U-20 World Cup]] in Turkey, he played every match as [[France national under-20 football team|France]] won the title.<ref name=four>{{cite news |last1=Sehdev |first1=Aman |title=Meet the French left-back set to make Patrice Evra sweat for his World Cup place |url=https://www.fourfourtwo.com/features/meet-french-left-back-set-make-patrice-evra-sweat-his-world-cup-place |access-date=31 July 2018 |work=FourFourTwo |date=28 May 2014}}</ref>
+
+The 20-year-old was first called up for the [[France national football team|senior side]] in February 2014, ahead of a friendly match against the [[Netherlands national football team|Netherlands]] on 5 March.<ref>{{cite news |last1=Absalon |first1=Julien |title=Équipe de France : Digne et Griezmann retenus pour affronter les Pays-Bas |trans-title=France team: Digne and Griezmann retained to face the Netherlands |url=https://www.rtl.fr/sport/equipe-de-france-griezmann-et-digne-retenus-pour-affronter-les-pays-bas-7770054824 |access-date=31 July 2018 |publisher=RTL |date=27 February 2014 |language=fr}}</ref> He debuted in that match, as a half-time substitute for [[Patrice Evra]] in a 2–0 win at the [[Stade de France]].<ref>{{cite news |title=International friendly: France ease to a 2–0 win over Holland in Paris |url=http://www.skysports.com/football/france-vs-netherlands/305330 |access-date=31 July 2018 |publisher=Sky Sports |date=6 March 2014}}</ref>
+
+In June, manager [[Didier Deschamps]] named Digne as one of 23 members of the French squad for the [[2014 FIFA World Cup]] in Brazil, wearing the number 17 shirt.<ref>{{cite news |title=France squad for 2014 World Cup: the 23 chosen by Didier Deschamps |url=https://www.theguardian.com/football/2014/jun/05/france-squad-2014-world-cup |access-date=31 July 2018 |work=The Guardian |date=5 June 2014}}</ref> His one appearance for the eventual quarter-finalists was the third group game against [[Ecuador national football team|Ecuador]], in which he suffered a foul that earned the Ecuadorian captain [[Antonio Valencia]] a straight red card.<ref>{{cite news |last1=Cruise |first1=Ian |title=Ecuador 0–0 France: Antonio Valencia sees red as South Americans bow out |url=https://talksport.com/football/167607/ecuador-0-0-france-antonio-valencia-sees-red-south-americans-bow-out-14062598379/ |access-date=31 July 2018 |publisher=Talksport |date=25 June 2014}}</ref>
+
+Digne was chosen for the French squad that came runners-up on home soil at [[UEFA Euro 2016]], but did not play.<ref>{{cite news |title=Euro 2016: Leicester's N'Golo Kante in France squad |url=https://www.bbc.co.uk/sport/football/36282689 |access-date=31 July 2018 |work=BBC Sport |date=12 May 2016}}</ref> He was put on standby for the squad at the [[2018 FIFA World Cup]] in Russia.<ref>{{cite news |last1=Benson |first1=Michael |title=World Cup 2018: Chelsea, Manchester United and Manchester City stars included in France's squad for finals |url=https://talksport.com/football/world-cup-2018-chelsea-manchester-united-and-manchester-city-stars-included-frances-squad |access-date=24 May 2018 |publisher=Talksport |date=17 May 2018 |archive-date=12 June 2018 |archive-url=https://web.archive.org/web/20180612163722/https://talksport.com/football/376338/world-cup-2018-chelsea-manchester-united-and-manchester-city-stars-included-frances-squad/ |url-status=dead }}</ref>
+
+At [[UEFA Euro 2020]], Digne came on at half time in the 2–2 group draw with [[Portugal national football team|Portugal]] due to [[Lucas Hernandez]]'s injury. Minutes later, he too withdrew due to a thigh muscle injury.<ref>{{cite news |last1=Jones |first1=Adam |title=France confirm 'very complicated' injury to Everton defender Lucas Digne |url=https://www.liverpoolecho.co.uk/sport/football/football-news/lucas-digne-france-injury-news-20889530 |access-date=29 June 2021 |work=Liverpool Echo |date=24 June 2021}}</ref> The injuries at left back forced Deschamps to use an untested [[Formation (association football)#3–5–2|3–5–2 formation]] in the last 16 against [[Switzerland national football team|Switzerland]], which France lost.<ref>{{cite news |title=Tactical confusion and Mbappe missing in action – what went wrong for France? |url=https://www.bt.com/sport/news/2021/june/tactical-confusion-and-mbappe-missing-in-action-what-went-wrong-for-france |access-date=29 June 2021 |publisher=BT Sport |date=29 June 2021}}</ref>
+
+Deschamps did not pick Digne for the [[2022 FIFA World Cup]], despite picking nine defenders for his squad. He said that he wanted to choose versatile defenders who could play central and wide positions.<ref>{{cite news |last1=Bayliss |first1=Jake |title=France boss Didier Deschamps names two reasons for Lucas Digne World Cup omission |url=https://www.birminghammail.co.uk/sport/football/football-news/digne-world-cup-deschamps-villa-25480478 |access-date=15 October 2023 |work=Birmingham Mail |date=10 November 2022}}</ref>
+
+On 14 May 2026, Digne was named in the French squad for the [[2026 FIFA World Cup]].<ref>{{Cite web |date=14 May 2026 |title=Mbappe and Dembele lead France World Cup squad |url=https://www.bbc.com/sport/football/articles/c9d307x3q54o |url-status=dead |archive-url=https://web.archive.org/web/20260522002512/https://www.bbc.com/sport/football/articles/c9d307x3q54o |archive-date=22 May 2026 |access-date=21 May 2026 |website=BBC Sport}}</ref>
+
+== Personal life ==
+On 27 December  2014, Digne married his girlfriend Tiziri, whom he met while both were in school.<ref>{{Cite web|last=Guell|first=Nicolas|date=28 December 2014|title=Lucas Digne (PSG) s'est marié : Le footballeur a épousé sa belle Tiziri|url=https://www.purepeople.com/article/lucas-digne-psg-s-est-marie-le-footballeur-a-epouse-sa-belle-tiziri_a152696/1|website=Purepeople}}</ref> The couple have a son and a daughter.<ref>{{Cite web|last=Marèbe|first=Wendy|date=4 May 2019|title=Lucas Digne papa : Sa femme Tiziri raconte son accouchement difficile|url=https://www.purepeople.com/article/lucas-digne-papa-sa-femme-tiziri-raconte-son-accouchement-difficile_a334688/1|website=purepeople}}</ref>
+
+Digne was in [[Barcelona]] when it was [[2017 Barcelona attacks|hit by a terror attack]] on 17 August 2017, and gave first aid to the victims.<ref>{{cite news |title=Barcelona's Lucas Digne aided wounded after deadly attack – sources |url=http://www.espn.co.uk/football/barcelona/story/3185507/barcelonas-lucas-digne-aided-wounded-after-deadly-attack-sources |access-date=29 July 2018 |publisher=ESPN FC |date=21 August 2017}}</ref><ref>{{cite news |title=Digne gave first aid to Barcelona attack victims |url=http://www.marca.com/en/football/barcelona/2017/08/21/599b14c746163fb0098b461b.html |access-date=29 July 2018 |work=Marca|location=Spain |date=21 August 2017}}</ref><ref>{{cite news |last1=Bartlett |first1=Evan |title=Barcelona defender Lucas Digne 'helped terror attack victims with water bottles and homemade tourniquets' |url=https://www.independent.co.uk/sport/football/european/barcelona-defender-lucas-dignes-terror-attack-victims-water-bottles-homemade-tourniquets-football-a7906571.html |access-date=29 July 2018 |work=The Independent |date=22 August 2017}}</ref>
+
+== Career statistics ==
+=== Club ===
+{{updated|match played 20 May 2026}}<ref name="Soccerway">{{cite web |url=https://int.soccerway.com/players/lucas-digne/138198/ |title=L. Digne: Summary |website=Soccerway |publisher=Perform Group |access-date=17 October 2020}}</ref>
+
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup{{efn|Includes [[Coupe de France]], [[Coppa Italia]], [[Copa del Rey]], [[FA Cup]]}}
+!colspan="2"|League cup{{efn|Includes [[Coupe de la Ligue]], [[EFL Cup]]}}
+!colspan="2"|Europe
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="3"|[[Lille OSC|Lille]]
+|[[2011–12 Lille OSC season|2011–12]]
+|[[Ligue 1]]
+|16||0||1||0||1||0||colspan="2"|—||colspan="2"|—||18||0
+|-
+|[[2012–13 Lille OSC season|2012–13]]
+|Ligue 1
+|33||2||2||0||2||0||7<ref group="lower-alpha" name="UCL">Appearances in [[UEFA Champions League]]</ref>||1||colspan="2"|—||44||3
+|-
+!colspan="2"|Total
+!49!!2!!3!!0!!3!!0!!7!!1!!colspan="2"|—!!62!!3
+|-
+|rowspan="3"|[[Paris Saint-Germain F.C.|Paris Saint-Germain]]
+|[[2013–14 Paris Saint-Germain F.C. season|2013–14]]
+|Ligue 1
+|15||0||1||0||2||0||2<ref group="lower-alpha" name="UCL"/>||0||colspan="2"|—||20||0
+|-
+|[[2014–15 Paris Saint-Germain F.C. season|2014–15]]
+|Ligue 1
+|15||0||5||0||2||0||1<ref group="lower-alpha" name="UCL"/>||0||1{{efn|Appearance in [[Trophée des Champions]]}}||0||24||0
+|-
+!colspan="2"|Total
+!30!!0!!6!!0!!4!!0!!3!!0!!1!!0!!44!!0
+|-
+|[[AS Roma|Roma]] (loan)
+|[[2015–16 AS Roma season|2015–16]]
+|[[Serie A]]
+|33||3||1||0||colspan="2"|—||8<ref group="lower-alpha" name="UCL"/>||0||0||0||42||3
+|-
+|rowspan="3"|[[FC Barcelona|Barcelona]]
+|[[2016–17 FC Barcelona season|2016–17]]
+|[[La Liga]]
+|17||0||3||1||colspan="2"|—||4<ref group="lower-alpha" name="UCL"/>||0||2{{efn|name=SDE|Appearances in [[Supercopa de España]]}}||0||26||1
+|-
+|[[2017–18 FC Barcelona season|2017–18]]
+|La Liga
+|12||0||4||0||colspan="2"|—||3<ref group="lower-alpha" name="UCL"/>||1||1{{efn|name=SDE}}||0||20||1
+|-
+!colspan="2"|Total
+!29!!0!!7!!1!!colspan="2"|—!!7!!1!!3!!0!!46!!2
+|-
+|rowspan="5"|[[Everton F.C.|Everton]]
+|[[2018–19 Everton F.C. season|2018–19]]
+|[[Premier League]]
+|35||4||1||0||1||0||colspan="2"|—||colspan="2"|—||37||4
+|-
+|[[2019–20 Everton F.C. season|2019–20]]
+|Premier League
+|35||0||1||0||3||1||colspan="2"|—||colspan="2"|—||39||1
+|-
+|[[2020–21 Everton F.C. season|2020–21]]
+|Premier League
+|30||0||3||0||3||0||colspan="2"|—||colspan="2"|—||36||0
+|-
+|[[2021–22 Everton F.C. season|2021–22]]
+|Premier League
+|13||0||0||0||2||1||colspan="2"|—||colspan="2"|—||15||1
+|-
+!colspan="2"|Total
+!113!!4!!5!!0!!9!!2!!colspan="2"|—!!colspan="2"|—!!127!!6
+|-
+|rowspan="6"|[[Aston Villa F.C.|Aston Villa]]
+|[[2021–22 Aston Villa F.C. season|2021–22]]
+|Premier League
+|16||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||16||0
+|-
+|[[2022–23 Aston Villa F.C. season|2022–23]]
+|Premier League
+|28||1||1||0||2||1||colspan="2"|—||colspan="2"|—||31||2
+|-
+|[[2023–24 Aston Villa F.C. season|2023–24]]
+|Premier League
+|33||1||0||0||1||0||12{{efn|name=UECL|Appearances in [[UEFA Europa Conference League]]}}||1||colspan="2"|—||46||2
+|-
+|[[2024–25 Aston Villa F.C. season|2024–25]]
+|Premier League
+|32||0||4||0||0||0||9<ref group="lower-alpha" name="UCL"/>||0||colspan="2"|—||45||0
+|-
+|[[2025–26 Aston Villa F.C. season|2025–26]]
+|Premier League
+|31||0||2||0||0||0||11{{efn|name=UEL|Appearances in [[UEFA Europa League]]}}||0||colspan="2"|—||44||0
+|-
+!colspan="2"|Total
+!140!!2!!7!!0!!3!!1!!32!!1!!colspan="2"|—!!182!!4
+|-
+!colspan="3"|Career total
+!394!!11!!29!!1!!19!!3!!57!!3!!4!!0!!502!!18
+|}
+{{notelist}}
+
+=== International ===
+{{updated|match played 4 June 2026}}<ref>{{NFT player|id=54749|name=Digne, Lucas |access-date=26 December 2018}}</ref>
+
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+| rowspan="13" |[[France national football team|France]]
+|2014||8||0
+|-
+|2015||2||0
+|-
+|2016||5||0
+|-
+|2017||5||0
+|-
+|2018||3||0
+|-
+|2019||7||0
+|-
+|2020||5||0
+|-
+|2021||8||0
+|-
+|2022||3||0
+|-
+|2023||0||0
+|-
+|2024||4||0
+|-
+|2025||5||0
+|-
+|2026||2||0
+|-
+! colspan="2" |Total!!57!!0
+|}
+
+==Honours==
+'''Paris Saint-Germain'''
+*[[Ligue 1]]: [[2013–14 Ligue 1|2013–14]], [[2014–15 Ligue 1|2014–15]]<ref name="Soccerway"/>
+*[[Coupe de France]]: [[2014–15 Coupe de France|2014–15]]<ref name="Soccerway"/>
+*[[Coupe de la Ligue]]: [[2013–14 Coupe de la Ligue|2013–14]], [[2014–15 Coupe de la Ligue|2014–15]]<ref name="Soccerway"/>
+*[[Trophée des Champions]]: [[2013 Trophée des Champions|2013]], [[2014 Trophée des Champions|2014]], [[2015 Trophée des Champions|2015]]<ref name="Soccerway"/>
+
+'''Barcelona'''
+*[[La Liga]]: [[2017–18 La Liga|2017–18]]<ref name="Soccerway"/>
+*[[Copa del Rey]]: [[2016–17 Copa del Rey|2016–17]], [[2017–18 Copa del Rey|2017–18]]<ref name="Soccerway"/>
+*[[Supercopa de España]]: [[2016 Supercopa de España|2016]]<ref name="Soccerway"/>
+
+'''Aston Villa'''
+*[[UEFA Europa League]]: [[2025–26 UEFA Europa League|2025–26]]<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/live/c893dkqjv00t#Report|title=Europa League final: Aston Villa end 44-year wait for European trophy|website=BBC Sport|date=20 May 2026|access-date=20 May 2026}}</ref>
+
+'''France U20'''
+*[[FIFA U-20 World Cup]]: [[2013 FIFA U-20 World Cup|2013]]{{citation needed|date=August 2019}}
+
+'''France'''
+* [[UEFA Nations League]]: [[2020–21 UEFA Nations League|2020–21]];<ref>{{cite web |url=https://www.uefa.com/uefanationsleague/match/2030761--spain-vs-france/ |title=France beat Spain to win Nations League |date=10 October 2021|access-date=10 October 2021 |publisher=UEFA}}</ref> third place [[2024–25 UEFA Nations League|2024–25]]
+*[[UEFA European Championship]] runner-up: [[UEFA Euro 2016|2016]]
+'''Individual'''
+*Everton Players' Player of the Season: [[2018–19 Everton F.C. season|2018–19]] (shared with [[Idrissa Gueye]])<ref>{{cite web|url=https://royalbluemersey.sbnation.com/2019/5/14/18623345/everton-player-of-the-season-the-dixies-lucas-digne-idrissa-gueye-richarlison-david-unsworth|title=Lucas Digne named Everton Player of the Season, shares Players' Player award with Idrissa Gueye|publisher=SB Nation|date=14 May 2019|access-date=8 August 2019}}</ref>
+
+== References ==
+{{reflist}}
+
+== External links ==
+{{Commons category}}
+*[https://www.avfc.co.uk/players/lucasdigne1/ Lucas Digne] at [[Aston Villa F.C.]]
+*{{Premier League player}}
+*{{FFF player}}
+*{{UEFA player}}
+*{{FIFA player}}
+
+{{Aston Villa F.C. squad}}
+{{Navboxes
+| title = France squads
+| bg = #002395
+| fg = white
+| bordercolor = #ED2939
+| list1 = 
+{{France squad 2014 FIFA World Cup}}
+{{France squad UEFA Euro 2016}}
+{{France squad UEFA Euro 2020}}
+{{France squad 2026 FIFA World Cup}}
+}}
+{{Everton F.C. Player of the Year}}
+
+{{DEFAULTSORT:Digne, Lucas}}
+[[Category:1993 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Meaux]]
+[[Category:Footballers from Seine-et-Marne]]
+[[Category:French men's footballers]]
+[[Category:Men's association football full-backs]]
+[[Category:Lille OSC players]]
+[[Category:Paris Saint-Germain FC players]]
+[[Category:AS Roma players]]
+[[Category:FC Barcelona players]]
+[[Category:Everton F.C. players]]
+[[Category:Aston Villa F.C. players]]
+[[Category:Ligue 1 players]]
+[[Category:Serie A players]]
+[[Category:La Liga players]]
+[[Category:Premier League players]]
+[[Category:France men's youth international footballers]]
+[[Category:France men's under-21 international footballers]]
+[[Category:France men's international footballers]]
+[[Category:2014 FIFA World Cup players]]
+[[Category:UEFA Euro 2016 players]]
+[[Category:UEFA Euro 2020 players]]
+[[Category:2026 FIFA World Cup players]]
+[[Category:UEFA Nations League–winning players]]
+[[Category:French expatriate men's footballers]]
+[[Category:Expatriate men's footballers in Italy]]
+[[Category:Expatriate men's footballers in Spain]]
+[[Category:Expatriate men's footballers in England]]
+[[Category:French expatriate sportspeople in Italy]]
+[[Category:French expatriate sportspeople in Spain]]
+[[Category:French expatriate sportspeople in England]]
+[[Category:21st-century French sportsmen]]
+[[Category:UEFA Europa League–winning players]]

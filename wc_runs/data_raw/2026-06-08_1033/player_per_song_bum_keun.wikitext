@@ -1,0 +1,224 @@
+{{Short description|South Korean footballer (born 1997)}}
+{{family name hatnote|Song||lang=Korean}}
+{{Use dmy dates|date=November 2022}}
+{{Infobox football biography
+| name        = Song Bum-keun
+| fullname    = Song Bum-keun<ref name="FIFA 2022">{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=FIFA World Cup Qatar 2022 – Squad list: Korea Republic (KOR) |publisher=[[FIFA]] |page=17 |date=15 November 2022 |access-date=15 November 2022}}</ref>
+| image       = 240611 대한민국 vs 중국 (송범근).jpg
+| caption     = Song in 2024
+| birth_date  = {{birth date and age|df=yes|1997|10|15}}
+| birth_place = [[Seongnam]], South Korea
+| height      = 1.94m<ref>{{Cite web |title=Song Bum Keun |publisher=Jeonbuk Hyundai Motors |accessdate=30 January 2019 |url= http://www.hyundai-motorsfc.com/eng/player/player_view.asp?puid=259 |language=ko}}</ref>
+| position    = [[Goalkeeper (association football)|Goalkeeper]]
+| currentclub = [[Jeonbuk Hyundai Motors]]
+| clubnumber  = 31
+| youthyears1 = 2013–2015
+| youthclubs1 = {{ill|Yongun High School|ko|용운고등학교 축구부}} ([[Sangju Sangmu|Youth]])
+| collegeyears1 = 2016–2017
+| college1 = {{ill|Korea University|ko|고려대학교 축구부}}
+| years1      = 2018–2022
+| clubs1      = [[Jeonbuk Hyundai Motors]]
+| caps1       = 167
+| goals1      = 0
+| years2      = 2023–2024
+| clubs2      = [[Shonan Bellmare]]
+| caps2       = 44
+| goals2      = 0
+| years3      = 2025–
+| clubs3      = [[Jeonbuk Hyundai Motors]]
+| caps3       = 53
+| goals3      = 0
+| nationalyears1 = 2015–2017
+| nationalteam1 = [[South Korea national under-20 football team|South Korea U20]]
+| nationalcaps1 = 31
+| nationalgoals1 = 0
+| nationalyears2 = 2017–2021
+| nationalteam2 = [[South Korea national under-23 football team|South Korea U23]]
+| nationalcaps2 = 23{{efn-lg|Includes one appearance against [[South Korea national under-23 football team results#Non-international matches|another KFA team]].}}
+| nationalgoals2 = 0
+| nationalyears3 = 2017<ref>{{cite web |url=https://www.kfa.or.kr/national/?act=m_uni&position=&s_idx=1453&search_val=2020&cursor=#cursor_location |script-title=ko:2017년 8월 1일 2017 하계유니버시아드 남자 |language=ko |publisher=KFA |access-date=2 October 2020}}</ref>
+| nationalteam3 = South Korea Universiade
+| nationalcaps3 = 6
+| nationalgoals3 = 0
+| nationalyears4 = 2022–
+| nationalteam4 = [[South Korea national football team|South Korea]]
+| nationalcaps4 = 3
+| nationalgoals4 = 0
+| medaltemplates =  {{MedalSport|Men's [[Association football|football]]}}
+{{Medal|Country|{{Fb|KOR}}}}
+{{MedalCompetition|[[Asian Games]]}}
+{{MedalGold|[[2018 Asian Games|2018 Jakarta-Palembang]]|[[Football at the 2018 Asian Games – Men's tournament|Team]]}}
+{{Medal|Competition|[[EAFF E-1 Football Championship|EAFF Championship]]}}
+{{Medal|RU|[[2022 EAFF E-1 Football Championship|2022 Japan]]|[[2022 EAFF E-1 Football Championship Final squads#South Korea|Team]]}}
+{{MedalCompetition|[[AFC U-23 Championship]]}}
+{{Medal|G|[[2020 AFC U-23 Championship|2020 Thailand]]|}}
+| pcupdate = 17 May 2026
+| ntupdate = 3 June 2026
+}}
+{{Infobox Korean name/auto|
+| hangul         = %송범근
+| hanja          = 宋範根
+}}
+
+'''Song Bum-keun''' ({{langx|ko|송범근}}; born 15 October 1997) is a South Korean professional footballer who plays as a [[Goalkeeper (association football)|goalkeeper]] for [[K League 1]] club [[Jeonbuk Hyundai Motors]] and the [[South Korea national football team|South Korea national team]].
+
+==Club career==
+
+===Jeonbuk Hyundai Motors===
+On 20 February 2018, Song made his professional debut in [[2018 AFC Champions League group stage|2018 AFC Champions League]] against [[Kitchee SC]].<ref>{{Cite web |date=2022-12-20 |title=Song Bum-keun joins J1 League club Shonan Bellmare |url=https://koreajoongangdaily.joins.com/2022/12/20/sports/football/Korea-K-League-Song-Bumkeun/20221220154543242.html |access-date=2023-08-30 |website=[[Korea JoongAng Daily]] |language=en}}</ref>
+
+===Shonan Bellmare===
+On 18 December 2022, Song officially joined Japanese side [[Shonan Bellmare]] on a permanent transfer.<ref>{{cite web |date=18 December 2022 |title=全北現代 ソン ボムグン選手 完全移籍加入のお知らせ |url=https://www.bellmare.co.jp/300416 |access-date=18 December 2022 |website=Shonan Bellamare |language=ja}}</ref>
+
+=== Return to Jeonbuk Hyundai Motors ===
+On 2 January 2025, Song returned to Jeonbuk, joining the club as a free agent.<ref>{{Cite web |date=2025-01-02 |title=Goalkeeper Song Bum-keun returns to Jeonbuk Hyundai Motors |url=https://koreajoongangdaily.joins.com/news/2025-01-02/sports/football/Goalkeeper-Song-Bumkeun-returns-to-Jeonbuk-Hyundai-Motors/2213786 |access-date=2026-03-03 |website=Korea JoongAng Daily |language=en}}</ref>
+
+==International career==
+Song has represented South Korea at all groups from under-18 to senior level. He was the team's first choice goalkeeper for the [[2017 FIFA U-20 World Cup]] and the [[2020 AFC U-23 Championship]], winning the latter and being named Best Goalkeeper.<ref>{{cite web|url=https://www.the-afc.com/en/national/afc_u23_asian_cup/news/korea_republics_song_named_best_goalkeeper_thailands_wonggorn_wins_top_scorer_award.html|title=Korea Republic's Song named Best Goalkeeper, Thailand's Wonggorn wins Top Scorer Award|date=27 January 2020|access-date=16 May 2026|website=AFC}}</ref> In 2021, he represented South Korea at the [[Football at the 2020 Summer Olympics|Tokyo Olympic Games]].<ref>{{Cite web|url=https://koreajoongangdaily.joins.com/2021/07/31/sports/olympics/Team-Korea-Mexico-Tokyo-Olympics/20210731225300467.html|title=Korea crashes out of Olympic football contest with 6-3 loss to Mexico|date=31 July 2021|access-date=16 May 2026|website=Korea JoongAng Daily}}</ref> 
+
+On 24 July 2022, Song made his debut for the senior [[Korea Republic national football team]], keeping a clean sheet in a 3–0 win over [[Hong Kong national football team|Hong Kong]] in the [[2022 EAFF E-1 Football Championship]].<ref>{{cite web|url=https://news.sbs.co.kr/news/endPage.do?news_id=N1007011621|title=전북 골키퍼 송범근, J리그 쇼난 벨마레로 이적|date=18 December 2022|access-date=16 May 2026|language=Korean|website=SBS}}</ref> Later that year, he was a member of the Korean squad at the [[2022 FIFA World Cup]], serving as back-up to [[Kim Seung-gyu]] and [[Jo Hyeon-woo]].<ref>{{cite web|url=https://www.nytimes.com/athletic/3739142/2022/11/08/south-korea-2022-world-cup-squad-news/|title=South Korea World Cup squad list for round of 16 fixture against Brazil|date=9 November 2022|access-date=16 May 2026|website=The Athletic}}</ref>
+
+On 16 May 2026, Song was named in South Korea's squad for the [[2026 FIFA World Cup]].<ref>{{cite web|url=https://www.bbc.com/sport/football/articles/cwy29rxjg47o|title=South Korea captain Son picked for fourth World Cup|date=16 May 2026|access-date=16 May 2026|website=BBC Sport}}</ref>
+
+==Career statistics==
+{{updated|17 May 2026}}.<ref>{{Soccerway|bum-keun-song/465554}}</ref>
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|Cup
+!colspan="2"|League Cup
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="6"|[[Jeonbuk Hyundai Motors]]
+|[[2018 K League 1|2018]]
+|rowspan=5|[[K League 1]]
+|30||0||0||0||colspan=2|—||8{{efn|name=ACL|Appearances in [[AFC Champions League]]}}||0||colspan=2|—||38||0
+|-
+|[[2019 K League 1|2019]]
+|38||0||0||0||colspan=2|—||8{{efn|name=ACL}}||0||colspan=2|—||46||0
+|-
+|[[2020 K League 1|2020]]
+|27||0||5||0||colspan=2|—||5{{efn|name=ACL}}||0||colspan=2|—||37||0
+|-
+|[[2021 K League 1|2021]]
+|37||0||0||0||colspan=2|—||2{{efn|name=ACL}}||0||colspan=2|—||39||0
+|-
+|[[2022 K League 1|2022]]
+|35||0||4||0||colspan=2|—||2{{efn|name=ACL}}||0||colspan=2|—||41||0
+|-
+!colspan="2"|Total
+!167!!0!!9!!0!!colspan=2|—!!25!!0!!colspan=2|—!!201!!0
+|-
+|rowspan=3|[[Shonan Bellmare]]
+|[[2023 J1 League|2023]]
+|rowspan=2|[[J1 League]]
+|24||0||1||0||2||0||colspan=2|—||colspan=2|—||27||0
+|-
+|[[2024 J1 League|2024]]
+|20||0||1||0||1||0||colspan=2|—||colspan=2|—||22||0
+|-
+!colspan="2"|Total
+!44!!0!!2!!0!!3!!0!!colspan=2|—!!colspan=2|—!!49!!0
+|-
+|rowspan=3|[[Jeonbuk Hyundai Motors]]
+|[[2025 K League 1|2025]]
+|rowspan=2|[[K League 1]]
+|38||0||1||0||colspan=2|—||2{{efn|name=ACLT|Appearances in [[AFC Champions League Two]]}}||0||colspan=2|—||41||0
+|-
+|[[2026 K League 1|2026]]
+|15||0||0||0||colspan=2|—||0||0||1{{efn|name=KLSC|Appearance in [[K League Super Cup]]}}||0||16||0
+|-
+!colspan="2"|Total
+!53!!0!!1!!0!!colspan=2|—!!2!!0!!1!!0!!57!!0
+|-
+!colspan="3"|Career total
+!264!!0!!12!!0!!3!!0!!27!!0!!1!!0!!307!!0
+|}
+;Notes
+{{notelist}}
+
+==Private life==
+In April 2024, it was announced by [[Antenna (record label)|Antenna Entertainment]] that Song is in a romantic relationship with one of their artists, singer [[Mijoo|Lee Mijoo]].<ref>{{Cite web |title=이미주♥송범근, 3살 연상연하 커플 탄생‥"호감 갖고 만나는 중" |trans-title=Lee Mi-joo ♥ Song Bum-Keun, a couple 3 years younger than 3 years older... "Meeting with interest" |url=https://m.entertain.naver.com/now/article/112/0003692506 |access-date=2024-04-18 |website=m.entertain.naver.com}}</ref><ref>{{Cite web |date=2024-04-18 |title=[단독] 이미주, 축구선수 송범근과 열애 중…가수♥스포츠 스타 커플 탄생 |trans-title=[Exclusive] Lee Mi-joo is in a relationship with soccer player Song Bum-Keun... Singer♥Sports star couple born |url=http://enter.etoday.co.kr/news/view/257851 |access-date=2024-04-18 |website=비즈엔터 |language=ko}}</ref> In February 2025, It was reported that the two had broken up.<ref>{{Cite web |last=기자 |first=박서연 |title=&quot;나 괜찮다&quot; 이미주, 송범근과 결별 인정&hellip;주우재 &quot;옆에 있다 없으면 허전&quot; 위로 [놀뭐](종합) |trans-title="I'm okay," Lee Mi-joo admits to breaking up with Song Beom-geun... Joo Woo-jae comforts her, saying, "I feel empty without you." [Nolmoo] (Comprehensive) |url=https://mydaily.co.kr/page/view/2025020119080774218 |access-date=2025-11-25 |website=마이데일리 |language=ko}}</ref>
+
+==Honours==
+
+'''Jeonbuk Hyundai Motors'''
+*[[K League 1]]: [[2018 K League 1|2018]], [[2019 K League 1|2019]], [[2020 K League 1|2020]], [[2021 K League 1|2021]], [[2025 K League 1|2025]]
+*[[Korean FA Cup]]: [[2020 Korean FA Cup|2020]], [[2022 Korean FA Cup|2022]], [[2025 Korea Cup|2025]]
+*[[K League Super Cup]]: 2026
+
+'''South Korea U23'''
+*[[Football at the Asian Games|Asian Games]]: [[Football at the 2018 Asian Games – Men's tournament|2018]]
+*[[AFC U-23 Championship]]: [[2020 AFC U-23 Championship|2020]]
+
+'''Individual'''
+* [[AFC U-23 Championship]] Best Goalkeeper: [[2020 AFC U-23 Championship|2020]]
+* [[K League Best XI|K League 1 Best XI]]: [[2025 K League 1|2025]]
+
+==Notes==
+{{notelist-lg}}
+
+==References==
+{{reflist}}
+
+== External links ==
+* {{K League player|20180025}}
+* {{NFT player|88196}}
+
+{{Jeonbuk Hyundai Motors squad}}
+{{Navboxes
+|title= South Korea squads
+|bg= #C21E2B
+|fg= white
+|bordercolor= #0047A0
+|list1=
+{{South Korea men's football squad 2020 Summer Olympics}}
+{{South Korea squad 2022 FIFA World Cup}}
+{{South Korea squad 2023 AFC Asian Cup}}
+{{South Korea squad 2026 FIFA World Cup}}
+}}
+{{Navboxes
+| title = Awards
+| bg = gold
+| fg = navy
+| list1 =
+{{AFC U-23 Asian Cup awards}}
+{{2025 K League 1 Best XI}}
+}}
+
+{{DEFAULTSORT:Song, Bum-keun}}
+[[Category:1997 births]]
+[[Category:Living people]]
+[[Category:Place of birth missing (living people)]]
+[[Category:South Korean men's footballers]]
+[[Category:Men's association football goalkeepers]]
+[[Category:Footballers from Seongnam]]
+[[Category:Korea University alumni]]
+[[Category:Jeonbuk Hyundai Motors players]]
+[[Category:K League 1 players]]
+[[Category:Shonan Bellmare players]]
+[[Category:J1 League players]]
+[[Category:South Korea men's under-20 international footballers]]
+[[Category:South Korea men's under-23 international footballers]]
+[[Category:South Korea men's international footballers]]
+[[Category:Footballers at the 2018 Asian Games]]
+[[Category:Asian Games gold medalists for South Korea]]
+[[Category:Asian Games footballers for South Korea]]
+[[Category:Medalists at the 2018 Asian Games]]
+[[Category:Footballers at the 2020 Summer Olympics]]
+[[Category:Olympic footballers for South Korea]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:2023 AFC Asian Cup players]]
+[[Category:Yeosan Song clan|Bum-keun]]
+[[Category:21st-century South Korean sportsmen]]
+[[Category:Asian Games gold medalists in football]]
+[[Category:2026 FIFA World Cup players]]
+
+{{SouthKorea-footy-goalkeeper-stub}}

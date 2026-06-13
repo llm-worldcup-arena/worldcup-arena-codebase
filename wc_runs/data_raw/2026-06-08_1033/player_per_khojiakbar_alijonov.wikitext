@@ -1,0 +1,190 @@
+{{Short description|Uzbek footballer (born 1997)}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+| name = Khojiakbar Alijonov
+| fullname = Hojiakbar Ulugʻbek oʻgʻli Alijonov
+| image = FC Pakhtakor in March 2019 (cropped).jpg
+| caption = FC Pakhtakor in March 2019
+| birth_date = {{Birth date and age|1997|4|19|df=yes}}
+| birth_place = [[Tashkent]], Uzbekistan
+| height = 1.80m
+| currentclub = [[Pakhtakor FC|Pakhtakor]]
+| clubnumber = 7
+| position = [[Defender (association football)#Full-back|Right-back]]
+| youthyears1 = 2015–2016
+| youthclubs1 = [[FC Pakhtakor-2|Pakhtakor-2]]
+| years1 = 2016-
+| clubs1 = [[Pakhtakor Tashkent FK|Pakhtakor]]
+| caps1 = 166
+| goals1 = 8
+| nationalyears1 = 2016
+| nationalteam1 = [[Uzbekistan national under-19 football team|Uzbekistan U19]]
+| nationalcaps1 = 3
+| nationalgoals1 = 0
+| nationalyears2 = 2018
+| nationalteam2 = [[Uzbekistan national under-23 football team|Uzbekistan U23]]
+| nationalcaps2 = 10
+| nationalgoals2 = 1
+| nationalyears3 = 2019–
+| nationalteam3 = [[Uzbekistan national football team|Uzbekistan]]
+| nationalcaps3 = 40
+| nationalgoals3 = 2
+| pcupdate = 13 February 2026
+| ntupdate = 20 March 2025
+| medaltemplates = {{MedalCountry | {{UZB}} }}
+{{MedalSport  | Men's [[Association football|football]]}}
+{{MedalCompetition|[[AFC U-23 Championship]]}}
+{{MedalGold|[[2018 AFC U-23 Championship|2018 China]]|[[2018 AFC U-23 Championship squads#Uzbekistan|Team]]}}
+{{MedalCompetition|[[CAFA Nations Cup]]}}
+{{Medal|RU|[[2023 CAFA Nations Cup|2023 Kyrgyzstan–Uzbekistan]]|[[2023 CAFA Nations Cup squads#Uzbekistan|Team]]}}
+{{MedalGold|[[2025 CAFA Nations Cup|2025 Tajikistan & Uzbekistan]]|[[2025 CAFA Nations Cup squads#Uzbekistan|Team]]}}
+}}
+
+'''Hojiakbar Ulugʻbek oʻgʻli Alijonov''' (born 19 April 1997), known as ''Khojiakbar Alijonov'', is an Uzbek professional [[Association football|footballer]] who plays as a [[Defender (association football)#Full-back|right-back]] for [[Pakhtakor FC|Pakhtakor]] in the [[Uzbekistan Super League]] and the [[Uzbekistan national football team|Uzbekistan national team]].
+
+==Club career==
+On 11 February 2026, [[Pakhtakor FC|Pakhtakor]] announced that they had extended their contract with Alijonov until the end of the 2027 season.<ref name="Khojiakbar Alijonov 2027">{{cite web |title=Ҳожиакбар Алижонов билан шартнома узайтирилди |url=https://t.me/Pakhtakor_FC/53494/ |website=telegram.me/s/Pakhtakor_FC |publisher=Pakhtakor FC Telegram |access-date=13 February 2026 |language=Uzbek |date=11 February 2026}}</ref>
+
+==International career==
+Alijonov made his debut for the [[Uzbekistan national football team|Uzbekistan national team]] in a 4–0 friendly win over [[North Korea national football team|North Korea]] on 7 June 2019.<ref>{{cite web|url=http://www.national-football-teams.com/matches/report/23201/Uzbekistan_North_Korea.html|title=Uzbekistan vs. North Korea (4:0)|first=Benjamin|last=Strack-Zimmermann|website=www.national-football-teams.com}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 29 November 2025}}<ref>{{Soccerway|khodjiakbar-alidjanov/407287}}</ref>
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup{{efn|Includes [[Belarusian Cup]], [[Coupe de France]], [[FA Cup]]}}
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="10"|[[Pakhtakor Tashkent FK|Pakhtakor]]
+|[[2016 Uzbek League|2016]]
+|rowspan="2"|[[Uzbek League]]
+|0||0||0||0||0||0||colspan="2"|—||0||0
+|-
+|[[2017 Uzbek League|2017]]
+|12||0||0||0||colspan="2"|—||colspan="2"|—||12||0
+|-
+|[[2018 Uzbekistan Super League|2018]]
+|rowspan="8"|[[Uzbekistan Super League]]
+|4||0||1||0||0||0||colspan="2"|—||5||1
+|-
+|[[2019 Uzbekistan Super League|2019]]
+|21||1||3||0||8||1||3||1||35||3
+|-
+|[[2020 Pakhtakor Tashkent FK season|2020]]
+|23||0||4||0||8||0||colspan="2"|—||35||0
+|-
+|[[2021 Pakhtakor Tashkent FK season|2021]]
+|20||0||3||0||5||0||1||0||29||01
+|-
+|[[2022 Pakhtakor Tashkent FK season|2022]]
+|22||3||2||0||6||1||1||0||31||4
+|-
+|[[2023 Pakhtakor Tashkent FK season|2023]]
+|24||2||2||0||3||0||1||0||30||2
+|-
+|[[2024 Pakhtakor FC season|2024]]
+|14||0||2||0||5||0||colspan="2"|—||21||0
+|-
+|[[2025 Pakhtakor FC season|2025]]
+|26||2||5||0||3||0||colspan="2"|—||34||2
+|-
+!colspan="3"|Cateer total
+!166||8||22||0||41||2||6||1||235||11
+|}
+
+===International===
+{{updated|match played 25 November 2024}}<ref name="NFT Stats">{{NFT player|id=74512|name=Xojiakbar Alijonov|accessdate=11 June 2023}}</ref>
+{| class="wikitable" style="text-align:center"
+|-
+!colspan=3|[[Uzbekistan national football team|Uzbekistan national team]]
+|-
+!Year!!Apps!!Goals
+|-
+|2019||6||0
+|-
+|2020||2||0
+|-
+|2021||6||0
+|-
+|2022||7||0
+|-
+|2023||11||1
+|-
+|2024||2||0
+|-
+!Total||34||1
+|}
+''Statistics accurate as of match played 5 September 2024.''
+
+===International goals===
+:''Scores and results list Uzbekistan's goal tally first.''<ref name="NFT Stats"/>
+{| class="wikitable"; text-align: lef;"
+! No. !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| 1. || 11 June 2023 || rowspan=2|[[Milliy Stadium]], [[Tashkent]], Uzbekistan || {{fb|OMA}} || align=center | '''3'''–0 || align=center | 3–0 || [[2023 CAFA Nations Cup]]
+|-
+| 2. || 20 March 2025 || {{fb|KGZ}}|| align=center | '''1'''–0 || align=center| 1–0 || [[2026 FIFA World Cup qualification – AFC third round|2026 FIFA World Cup qualification]]
+|-
+| 3. || 8 September 2025 || [[Olympic City Stadium]], Tashkent, Uzbekistan || {{fb|IRN}} || align=center | '''1'''–0 || align=center| 1–0 || [[2025 CAFA Nations Cup]]
+|}
+
+==Honours==
+;Pakhtakor
+*[[Uzbekistan Super League]] winners: [[2019 Uzbekistan Super League|2019]], [[2020 Uzbekistan Super League|2020]], [[2021 Uzbekistan Super League|2021]], [[2022 Uzbekistan Super League|2022]], [[2023 Uzbekistan Super League|2023]] runner-up: [[2018 Uzbekistan Super League|2018]]
+*[[Uzbekistan Cup]] winners: [[2019 Uzbekistan Cup|2019]], [[2020 Uzbekistan Cup|2020]], [[2025 Uzbekistan Cup|2025]]<ref>{{cite web |title=Paxtakor – 14 karra O‘zbekiston kubogi sohibi! |url=https://pfl.uz/news/paxtakor-14-karra-ozbekiston-kubogi-sohibi |website=pfl.uz |publisher=Uzbekistan Professional Football League |access-date=30 October 2025 |language=Uzbek |date=29 October 2025}}</ref> 
+*[[Uzbekistan Super Cup]] winners: [[Uzbekistan Super Cup|2021]], [[2022 Uzbekistan Super Cup|2022]] runner-up: [[Uzbekistan Super Cup|2023]], [[Uzbekistan Super Cup|2024]]
+*[[Uzbekistan League Cup]] winners: [[Uzbekistan League Cup|2020]]
+
+===International===
+;Uzbekistan U-23
+* [[AFC U-23 Championship]] (champion): [[2018 AFC U-23 Championship|2018]]
+;Uzbekistan 
+* [[CAFA Nations Cup]] (champion): [[2025 CAFA Nations Cup|2025]]
+
+'''Individual'''
+*[[CAFA Nations Cup]] Best Player: [[2025 CAFA Nations Cup|2025]]
+*[[Uzbekistan Cup]] Player of the Match : [[2025 Uzbekistan Cup|2025]]
+
+== Notes ==
+{{Notelist}}
+
+== References ==
+{{Reflist}}
+
+==External links==
+* {{Soccerway|khodjiakbar-alidjanov/407287|Hojiakbar Alijonov}}
+* {{NFT|74512|Xojiakbar Alijonov}}
+
+{{Pakhtakor Tashkent FK squad}}
+{{Navboxes
+| title = Uzbekistan squads
+| bg = #0099B5
+| fg = white 
+| bordercolor = #CE1126
+| list =
+{{Uzbekistan squad 2023 AFC Asian Cup}}
+{{Uzbekistan squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Alijonov, Khojiakbar}}
+[[Category:1997 births]]
+[[Category:Living people]]
+[[Category:Footballers from Tashkent]]
+[[Category:Uzbekistani men's footballers]]
+[[Category:21st-century Uzbekistani sportsmen]]
+[[Category:Uzbekistan men's international footballers]]
+[[Category:Uzbekistan men's youth international footballers]]
+[[Category:Men's association football full-backs]]
+[[Category:Uzbekistan Super League players]]
+[[Category:Pakhtakor Tashkent FK players]]
+[[Category:Asian Games footballers for Uzbekistan]]
+[[Category:2023 AFC Asian Cup players]]
+[[Category:2026 FIFA World Cup players]]

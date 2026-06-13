@@ -1,0 +1,16 @@
+{
+ "team": "PAN",
+ "source": "Olympics.com",
+ "url": "https://www.olympics.com/en/news/fifa-world-cup-2026-panama-all-players-full-squad-list-key-stats-and-schedule",
+ "title": "Panama at FIFA World Cup 2026: All players, full squad list, key stats and schedule",
+ "news_date": "2026-06-10",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-10",
+ "fetched": "2026-06-13_0638",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Panama at FIFA World Cup 2026: All players, full squad list, key stats and schedule\nQuick facts\nCaptain: Aníbal Godoy\nManager: Thomas Christiansen\nWorld Cup appearances (including 2026): 2\nBest World Cup result: Group stage (2018)\nGoalkeepers: Orlando Mosquera (Al-Fayha FC), Luis Mejía (Club Nacional), César Samudio (CD Marathon)\nDefenders: César Blackman (Slovan Bratislava), Jorge Gutiérrez (Deportivo La Guaira), Amir Murillo (Besiktas), Fidel Escobar (Deportivo Saprissa), Andrés Andrade (LASK), Edgardo Fariña (FC Pari Nizhniy Novgorod), José Córdoba (Norwich City), Eric Davis (CD Plaza Amador), Jiovani Ramos (Academia Puerto Cabello), Roderick Miller (Turan Tovuz)\nMidfielders: Aníbal Godoy (San Diego FC), Adalberto Carrasquilla (UNAM Pumas), Carlos Harvey (Minnesota United FC), Cristian Martínez (Ironi Kiryat Shmona), José Luis Rodríguez (FC Juarez), Cesar Yanis (CD Cobresal), Yoel Bárcenas (Mazatlan FC), Alberto Quintero (CD Plaza Amador), Azarías Londoño (CD Universidad Catolica)\nForwards: Ismael Díaz (Club Leon FC), Cecilio Waterman (Universidad de Concepcion), José Fajardo (CD Universidad Catolica), Tomás Rodríguez (Deportivo Saprissa)",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

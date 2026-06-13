@@ -1,0 +1,173 @@
+{{short description|Saudi Arabian footballer (born 1996)}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+| name = Ali Lajami
+| image = AFC Elite League Western, Azadi Stadium, Persepolis 0-0 Al Nassr, 17 February 2025, Ali Lajami.jpg
+|caption = Lajami in 2025
+| full_name = Ali Mohammed Lajami
+| birth_date = {{birth date and age|1996|4|24|df=yes}}
+| birth_place = [[Qatif]], [[Saudi Arabia]]
+| height = {{height|meters=1.78}}
+| currentclub = [[Al Hilal FC|Al-Hilal]]
+| position = [[Defender (association football)|Defender]]
+| clubnumber = 78
+| youthyears1 = ???–2014
+| youthclubs1 = [[Al-Muheet SC|Al-Muheet]]
+| youthyears2 = 2014–2015
+| youthclubs2 = [[Khaleej FC|Al-Khaleej]]
+| years1 = 2015–2018
+| clubs1 = [[Khaleej FC|Al-Khaleej]]
+| caps1 = 51
+| goals1 = 3
+| years2 = 2018–2020
+| clubs2 = [[Al-Fateh SC|Al-Fateh]]
+| caps2 = 37
+| goals2 = 1
+| years3 = 2020–2025
+| clubs3 = [[Al Nassr FC|Al-Nassr]]
+| caps3 = 95
+| goals3 = 2
+| years4 = 2025–
+| clubs4 = [[Al Hilal FC|Al-Hilal]]
+| caps4 = 24
+| goals4 = 0
+| nationalyears1 = 2016–2018
+| nationalteam1 = [[Saudi Arabia national under-23 football team|Saudi Arabia U23]]
+| nationalcaps1 = 
+| nationalgoals1 = 
+| nationalyears2 = 2019–
+| nationalteam2 = [[Saudi Arabia national football team|Saudi Arabia]]
+| nationalcaps2 = 21
+| nationalgoals2 = 1
+| pcupdate = 21 May 2026
+| ntupdate = 6 June 2026
+}}
+'''Ali Mohammed Lajami''' ({{langx|ar|علي محمد لاجامي}}; born 24 April 1996) is a Saudi Arabian professional [[Association football|footballer]] who plays as a [[Defender (association football)|defender]] for [[Saudi Pro League]] club [[Al Hilal FC|Al-Hilal]]<ref>{{cite web |title=Ali Lajami |url=https://www.sportskeeda.com/football/news-cristiano-ronaldo-s-al-nassr-dealt-blow-saudi-player-squad-joins-rivals-al-hilal |access-date=27 May 2025 |archive-date=22 January 2022 |archive-url=https://web.archive.org/web/20220122025314/https://www.goalzz.com/main.aspx?player=109146 |url-status=live }}</ref> and the [[Saudi Arabia national football team|Saudi Arabia national team]]. {{as of|August 2024|post=,}} his twin brother [[Qassem Lajami]] also plays as a defender for Saudi Pro league side [[Al Qadsiah FC|Al-Qadsiah]].<ref>{{cite news|url=https://www.arabnews.com/node/2361876/amp|title=How Saudi football twins became overnight social media stars|publisher=Arab News|date=26 August 2023|archive-date=9 March 2024|access-date=9 March 2024|archive-url=https://web.archive.org/web/20240309070828/https://www.arabnews.com/node/2361876/amp|url-status=live}}</ref>
+
+==Career==
+Lajami began his career at the youth teams of [[Al-Muheet SC|Al-Muheet]]. On 29 July 2014, Lajami and his twin brother, [[Qassem Lajami|Qassem]], both joined [[Al-Khaleej FC|Al-Khaleej]].<ref>{{cite web |title=الخليج يدعم فريقه بتوأم المحيط |url=https://makkahnewspaper.com/article/50339/%D8%B9%D9%84%D9%8A-%D8%A2%D9%84-%D9%85%D8%AD%D8%B3%D9%86---%D8%B3%D9%8A%D9%87%D8%A7%D8%AA}}</ref> He made his debut on the last matchday of the 2014–15 season as a substitute in a 4–4 draw against [[Al-Taawoun FC|Al-Taawoun]]. On 24 July 2018, Lajami joined [[Al-Fateh SC|Al-Fateh]] on a four-year deal.<ref>{{cite web |title=نادي الفتح يتعاقد مع علي لاجامي و سلطان الدعيع |url=https://www.akhbaar24.com/article/detail/405009}}</ref> On 9 September 2020, Lajami joined [[Al-Nassr FC|Al-Nassr]] on a five-year deal.<ref>{{cite web |title=رسمياً.. "النصر" يتعاقد مع مدافع "الفتح" علي لاجامي لخمسة أعوام |url=https://sabq.org/38tb7v}}</ref> On 27 May 2025, Lajami joined derby rivals [[Al Hilal SFC|Al-Hilal]] on a free transfer.<ref>{{cite web |title=في صفقة انتقال حُر.. نادي الهلال يعلن التعاقد مع مدافع النصر "علي لاجامي" |url=https://sabq.org/sports/cmcf30fldt}}</ref>
+
+==Career statistics==
+===Club===
+{{Update section|date=February 2026}}
+{{updated|match played 31 May 2024}}<ref>{{cite web |title=ALI ALAWJAMI |url=https://us.soccerway.com/players/ali-alawjami/404978/}}</ref>
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|[[Kings Cup (Saudi Arabia)|King Cup]]
+!colspan="2"|Asia
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="5"|[[Khaleej FC|Al-Khaleej]]
+|[[2014–15 Saudi Professional League|2014–15]]
+|rowspan="3"|[[Saudi Professional League|SPL]]
+|1||0||0||0||colspan="2"|—||0||0||1||0
+|-
+|[[2015–16 Saudi Professional League|2015–16]]
+|17||2||0||0||colspan="2"|—||2{{efn|name=CPC|Appearances in [[Saudi Crown Prince Cup|Crown Prince Cup]]}}||0||19||2
+|-
+|[[2016–17 Saudi Professional League|2016–17]]
+|18||1||1||1||colspan="2"|—||1{{efn|name=CPC}}||0||20||2
+|-
+|[[2017–18 Prince Mohammad bin Salman League|2017–18]]
+|[[Prince Mohammad bin Salman League|MS League]]
+|15||0||1||0||colspan="2"|—||colspan="2"|—||16||0
+|-
+!colspan="2"|Total
+!51||3||2||1||0||0||3||0||56||4
+|-
+|rowspan="3"|[[Al-Fateh SC|Al-Fateh]]
+|[[2018–19 Saudi Professional League|2018–19]]
+|rowspan="2"|[[Saudi Professional League|SPL]]
+|15||1||1||0||colspan="2"|—||colspan="2"|—||16||1
+|-
+|[[2019–20 Saudi Professional League|2019–20]]
+|22||0||2||0||colspan="2"|—||colspan="2"|—||24||0
+|-
+!colspan="2"|Total
+!37||1||3||0||0||0||0||0||40||1
+|-
+|rowspan=5 |[[Al-Nassr FC|Al-Nassr]]
+|[[2020–21 Al-Nassr FC season|2020–21]]
+|rowspan=4|[[Saudi Professional League|SPL]]
+||11||1||2||0||5||0||1{{efn|name=SC|Appearance(s) in the [[Saudi Super Cup]]}}||0||19||1
+|-
+|[[2021–22 Al-Nassr FC season|2021–22]]
+|20||1||0||0||1||0||colspan="2"|—||21||1
+|-
+|[[2022–23 Al-Nassr FC season|2022–23]]
+|22||0||3||0||colspan="2"|—||1{{efn|name=SC}}||0||26||0
+|-
+|[[2023–24 Al Nassr FC season|2023–24]]
+|18||0||3||0||5||0||6{{efn|Five appearances in the [[Arab Club Champions Cup]], and one appearance in the [[Saudi Super Cup]]}}||0||32||0
+|-
+!colspan="2"|Total
+!71||2||8||0||11||0||8||0||98||2
+|-
+!colspan="3"|Career total
+!159||6||13||1||11||0||11||0||194||7
+|}
+
+{{notelist}}
+
+===International===
+:''Scores and results list Saudi Arabia's goal tally first.''
+{| class="wikitable" style="font-size:95%;"
+! No. !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| 1. || 11 June 2024 || [[KSU Stadium (Riyadh)|KSU Stadium]], [[Riyadh]], Saudi Arabia || {{fb|JOR}} || align=center|'''1'''–0 || align=center| 1–2 || [[2026 FIFA World Cup qualification - AFC second round|2026 FIFA World Cup qualification]]
+|}
+
+==Honours==
+'''Al-Nassr'''
+*[[Saudi Super Cup]]: [[2020 Saudi Super Cup|2020]]; runner-up: [[2024 Saudi Super Cup|2024]],<ref>{{Cite web |url=https://int.soccerway.com/matches/2024/08/17/saudi-arabia/super-cup/al-nasr-riyadh/al-hilal-riyadh/4399313/ |title=Al Nassr vs. Al Hilal - 17 August 2024 - Soccerway |access-date=7 May 2025 |archive-date=7 May 2025 |archive-url=https://web.archive.org/web/20250507051845/https://int.soccerway.com/matches/2024/08/17/saudi-arabia/super-cup/al-nasr-riyadh/al-hilal-riyadh/4399313/ |url-status=live }}</ref>
+*[[Arab Club Champions Cup]]: [[2023 Arab Club Champions Cup|2023]]
+*[[King's Cup (Saudi Arabia)|King's Cup]] runner-up: [[2023–24 King's Cup|2023–24]]<ref>{{cite web |title=نيابة عن خادم الحرمين الشريفين .. سمو ولي العهد يتوج فريق الهلال بكأس خادم الحرمين الشريفين للموسم الرياضي 2023 – 2024 |url=https://www.saff.com.sa/news.php?id=3077 |access-date=7 May 2025 |archive-date=2 December 2024 |archive-url=https://web.archive.org/web/20241202144842/https://www.saff.com.sa/news.php?id=3077 |url-status=live }}</ref>
+
+==References==
+{{Reflist}}
+
+== External links ==
+* {{soccerway|ali-lajami/404978}}
+
+{{Al-Hilal FC squad}}
+{{Navboxes
+| title = Saudi Arabia squads
+| bg          = #006C35
+| fg          = white
+| bordercolor = #005429
+| list =
+{{Saudi Arabia squad 2023 AFC Asian Cup}}
+{{Saudi Arabia squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Lajami, Ali}}
+[[Category:1996 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Qatif]]
+[[Category:Al-Muheet SC players]]
+[[Category:Al-Khaleej FC players]]
+[[Category:Al Fateh SC players]]
+[[Category:Al-Nassr FC players]]
+[[Category:Al Hilal SFC players]]
+[[Category:Saudi Arabian men's footballers]]
+[[Category:21st-century Saudi Arabian sportsmen]]
+[[Category:Saudi Arabia men's youth international footballers]]
+[[Category:Saudi Arabia men's international footballers]]
+[[Category:Saudi First Division League players]]
+[[Category:Saudi Pro League players]]
+[[Category:Men's association football defenders]]
+[[Category:Saudi Arabian Shia Muslims]]
+[[Category:Identical twin males]]
+[[Category:2023 AFC Asian Cup players]]
+[[Category:2026 FIFA World Cup players]]
+
+
+{{SaudiArabia-footy-defender-stub}}

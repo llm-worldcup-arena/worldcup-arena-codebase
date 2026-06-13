@@ -1,0 +1,73 @@
+{{Short description|South African professional football player}}
+{{Infobox football biography
+| name = Samukele Kabini
+| image = 
+| fullname = Samukele Alucious Kabini
+| birth_date = {{Birth date and age|2004|03|15|df=y}}
+| birth_place = [[South Africa]]
+| height = 1.81 m
+| position = [[Defender (association football)|Defender]]
+| currentclub = [[Molde FK|Molde]]
+| clubnumber = 26
+| youthyears1 = –2023
+| youthclubs1 = [[Orlando Pirates F.C.|Orlando Pirates]]
+| years1 = 2023-2025
+| clubs1 = [[TS Galaxy F.C.|TS Galaxy]]
+| caps1 = 31
+| goals1 = 3
+| years2 = 2025–
+| clubs2 = [[Molde FK|Molde]]
+| caps2 = 23
+| goals2 = 1
+| club-update = 1 December 2025
+| nationalyears1 = 2025–
+| nationalteam1 = [[South Africa national football team|South Africa]]
+| nationalcaps1 = 4
+| nationalgoals1 = 0
+| nationalteam-update = 5 January 2026
+}}
+'''Samukele Alucious Kabini''' (born 15 March 2004) is a South African professional [[association football|footballer]] who plays as a [[Defender (association football)|defender]] for [[Eliteserien]] club [[Molde FK]]<ref>{{Cite web |date=2025-03-20 |title=Done Deal: Molde FK confirm the signing of defender Samukele Kabini from TS Galaxy {{!}} Goal.com South Africa |url=https://www.goal.com/en-za/lists/done-deal-molde-fk-confirm-the-signing-of-defender-samukele-kabini-from-ts-galaxy/bltb9dffa991c0467f1 |access-date=2025-03-30 |website=www.goal.com |language=en-ZA}}</ref> and the [[South Africa national soccer team|South Africa national team]].
+
+== Youth career ==
+Kabini came through the [[Orlando Pirates]] Youth system. He was a vital part of their [[PSL Reserve League]] squad and was ready to be promoted before he was poached by [[TS Galaxy FC]] in 2023.<ref>{{Cite web |last=Mailwane |first=Tshepang |title=How Pirates Lost Kabini & Gained Mbokazi |url=https://www.snl24.com/soccerladuma/local/premiership/orlando-pirates/joseph-makhanya-explains-how-orlando-pirates-lost-samukelo-kabini-gained-mbekezeli-mbokazi-20250320 |access-date=2025-03-30 |website=Soccer Laduma |language=en-US}}</ref>
+
+== Club career ==
+===TS Galaxy===
+Kabini joined [[TS Galaxy F.C.]] in 2023 and made 13 league appearances in his debut season in the [[Premier Soccer League|South African Top Flight League]]. He played a further 19 league games before his [[South African rand|R]]15 million move to the Norwegian side, [[Molde FK]] in March 2025.
+
+===Molde===
+On 20 March 2025, Norwegian [[Eliteserien]] club [[Molde FK|Molde]] announced the signing of Kabini from [[TS Galaxy F.C.|TS Galaxy]] on a contract until 2028.<ref>{{cite web |title=Samukele Kabini klar for Molde! |url=https://www.moldefk.no/nyheter/samukele-kabini-klar-for-molde |website=moldefk.no |publisher=Molde FK |access-date=20 March 2025 |language=Norwegian |date=20 March 2025}}</ref>
+
+==International career==
+On 1 December 2025, Kabini was called up to the South Africa squad for the [[2025 Africa Cup of Nations]].<ref>{{cite web|url=https://www.cafonline.com/afcon2025/news/totalenergies-afcon-morocco-2025-fever-rises-as-broos-become-first-coach-to-unveil-final-squad/|title=TotalEnergies AFCON Morocco 2025 fever rises as Broos become first coach to unveil final squad|publisher=[[Confederation of African Football]]|date=1 December 2025|access-date=12 December 2025}}</ref>
+
+== References ==
+{{reflist}}
+
+{{Molde FK squad}}
+{{Navboxes
+| title = South Africa squads
+| bg        = #FFB81C
+| fg        = #007749
+| bordercolor = #007749
+| list =
+{{South Africa squad 2025 Africa Cup of Nations}}
+{{South Africa squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Kabini, Samukele}}
+[[Category:2004 births]]
+[[Category:Living people]]
+[[Category:Place of birth missing (living people)]]
+[[Category:South African men's soccer players]]
+[[Category:Men's association football defenders]]
+[[Category:TS Galaxy F.C. players]]
+[[Category:Molde FK players]]
+[[Category:South African Premier Division players]]
+[[Category:Eliteserien players]]
+[[Category:South Africa men's international soccer players]]
+[[Category:2025 Africa Cup of Nations players]]
+[[Category:South African expatriate men's soccer players]]
+[[Category:South African expatriate sportspeople in Norway]]
+[[Category:Expatriate men's footballers in Norway]]
+[[Category:2026 FIFA World Cup players]]

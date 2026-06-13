@@ -9,14 +9,14 @@ description: 世界杯2026 bg背景数据采集规范——命名规则、数据
 
 数据根：`worldcup_2026/wc_runs/`
 
-## 1. 数据分层（整摊 background 在 `bg/` 下，按"会不会变"三分）
+## 1. 数据分层（整摊 background 在 `data_reference/` 下(原名 `bg`,2026-06-13 更名)，按"会不会变"三分）
 
 | 层 | 装什么 | 路径 |
 |---|---|---|
-| **实体** | persons/teams/matches/venues —— 静态档案 + `history[]`（事件） | `bg/`（根） |
-| **纯关系** | groups（分组）/ bracket（晋级图）—— 写一次、无 history | `bg/static/` |
-| **慢变快照** | squad / team_rank —— 会变数值，按 asof 拍快照、只增不改 | `bg/snapshots/asof=<日>/` |
-| **raw** | 未加工**整页全文原文**留底 | `raw/bg/<日期_时分>/`（一次采集一目录） |
+| **实体** | persons/teams/matches/venues —— 静态档案 + `history[]`（事件） | `data_reference/`（根） |
+| **纯关系** | groups（分组）/ bracket（晋级图）—— 写一次、无 history | `data_reference/static/` |
+| **慢变快照** | squad / team_rank —— 会变数值，按 asof 拍快照、只增不改 | `data_reference/snapshots/asof=<日>/` |
+| **raw** | 未加工**整页全文原文**留底 | `data_raw/<日期_时分>/`（一次采集一目录） |
 
 - **核心区分**：离散**事件**（伤病/换帅/转会/退赛）→ 进实体的 `history[]`；持续变的**数值**（Elo/身价/名单）→ `snapshots/asof` 快照。
 - **`as_of`**：会变但本轮只灌一次的值（俱乐部/身价/caps）→ 并进实体、标 `as_of` 口径日期。
@@ -27,7 +27,7 @@ description: 世界杯2026 bg背景数据采集规范——命名规则、数据
 
 | 对象 | 规则 | 例 |
 |---|---|---|
-| **raw 采集目录** | `raw/bg/<日期_时分>/<采集种类>/` —— **带分钟**；一次采集一目录，**按采集种类分子文件夹** + 每次留 `_source.md` 来源说明 | `…_1059/transfermarkt/`（旧维基目录混装为历史例外） |
+| **raw 采集目录** | `data_raw/<日期_时分>/<采集种类>/` —— **带分钟**；一次采集一目录，**按采集种类分子文件夹** + 每次留 `_source.md` 来源说明 | `…_1059/transfermarkt/`（旧维基目录混装为历史例外） |
 | **data 快照目录** | `data/bg/asof=<日期>/` —— 按日（快照=截至某日，**不带分钟**） | `data/bg/asof=2026-06-07/` |
 | 球队 | FIFA 三字码 | `ESP` `FRA` `ARG` |
 | 球员/教练 id | `per_<英文名小写、去重音、空格转_>` | `per_lamine_yamal` |
@@ -62,7 +62,7 @@ description: 世界杯2026 bg背景数据采集规范——命名规则、数据
 ## 4b. Apify 第三方采集（身价等 —— raw 全量 + 分子文件夹 + 来源说明）
 
 维基没有的字段（身价/惯用脚/合同/双国籍/转会史）经 **Apify**（知名网页抓取平台）现成 Actor 补。**两步铁律**：
-1. **raw 全量留底 + 分子文件夹**：Actor 返回的【完整 JSON】一字不改存 `raw/bg/<ts>/<采集种类>/`（**按采集种类分子文件夹**，如 `transfermarkt/tm_<队>.json`），并写 `_source.md` 记来源/方式/字段（**每次采集都留说明**）；空结果也留。
+1. **raw 全量留底 + 分子文件夹**：Actor 返回的【完整 JSON】一字不改存 `data_raw/<ts>/<采集种类>/`（**按采集种类分子文件夹**，如 `transfermarkt/tm_<队>.json`），并写 `_source.md` 记来源/方式/字段（**每次采集都留说明**）；空结果也留。
 2. **再从 raw 提取**进 data —— **提取从宽**（多留 `tm_*` 字段免遗漏），想补别的（转会史/经纪人…全在 raw）回 raw 再挖，不重采。
 
 - **Actor**：`automation-lab/transfermarkt-scraper` —— `searchQueries` **数组批量、一次运行采全队**，**$0.005/运行 + ~$0.003/人 → 48 队约 $2.6**（远比单查的 `jungle_synthesizer`($0.1/人, 字段含 injuries 但贵) 划算）。

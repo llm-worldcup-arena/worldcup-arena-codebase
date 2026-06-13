@@ -1,0 +1,347 @@
+{{short description|American soccer player}}
+{{Use American English|date=September 2021}}
+{{Use mdy dates|date=September 2021}}
+{{Infobox football biography
+|name = Ricardo Pepi
+|image = Ricardo Pepi USMNT v Belgium Mar 28 2026-47.jpg
+|caption = Pepi with the [[United States men's national soccer team|United States]] in 2026
+|fullname = Ricardo Daniel Pepi<ref>{{cite web |url=https://www.fifadata.com/documents/FU17WC/2019/pdf/FU17WC_2019_Squadlists.pdf |title=FIFA U-17 World Cup Brazil 2019: List of Players: USA |publisher=FIFA |page=24 |date=October 31, 2019 |archive-url=https://web.archive.org/web/20191227222540/https://www.fifadata.com/documents/FU17WC/2019/pdf/FU17WC_2019_Squadlists.pdf |archive-date=December 27, 2019}}</ref>
+|birth_date = {{birth date and age|2003|1|9}}
+|birth_place = [[El Paso, Texas]], United States
+|height = {{convert|1.85|m|order=flip}}
+|position = [[Forward (association football)#Striker|Striker]]
+|currentclub = [[PSV Eindhoven|PSV]]
+|clubnumber = 9
+|youthyears1 = 2016–2019
+|youthclubs1 = [[FC Dallas]]
+|years1 = 2019–2021
+|clubs1 = [[FC Dallas]]
+|caps1 = 55
+|goals1 = 15
+|years2 = 2019–2020
+|clubs2 = [[North Texas SC]] ({{Tooltip|res.|Reserve team}})
+|caps2 = 13
+|goals2 = 9
+|years3 = 2022–2023
+|clubs3 = [[FC Augsburg]]
+|caps3 = 15
+|goals3 = 0
+|years4 = 2022–2023
+|clubs4 = → [[FC Groningen]] (loan)
+|caps4 = 29
+|goals4 = 12
+|years5 = 2023–2024
+|clubs5 = [[Jong PSV]]
+|caps5 = 2
+|goals5 = 1
+|years6 = 2023–
+|clubs6 = [[PSV Eindhoven|PSV]]
+|caps6 = 71
+|goals6 = 34
+|nationalyears1 = 2018–2019
+|nationalteam1 = [[United States men's national under-17 soccer team|United States U17]]
+|nationalcaps1 = 17
+|nationalgoals1 = 6
+|nationalyears2 = 2021–
+|nationalteam2 = [[United States men's national soccer team|United States]]
+|nationalcaps2 = 37
+|nationalgoals2 = 13
+|pcupdate = 16:30, May 17, 2026
+|ntupdate = June 6, 2026
+|medaltemplates = {{MedalCountry|{{fb|USA}}}}
+{{MedalSport|Men's [[association football|football]]}}
+{{Medal|Competition|[[CONCACAF Nations League]]}}
+{{Medal|W|[[2023 CONCACAF Nations League Finals|2023 United States]]|}}
+{{Medal|W|[[2024 CONCACAF Nations League Finals|2024 United States]]|}}
+}}
+'''Ricardo Daniel Pepi''' (born January 9, 2003) is an American professional [[Association football|soccer]] player who plays as a [[Forward (association football)#Striker|striker]] for {{Dutch football updater|PSVEindho}} club [[PSV Eindhoven|PSV]] and the [[United States men's national soccer team|United States national team]].
+
+Pepi had his breakthrough with [[Major League Soccer]] club [[FC Dallas]] and was named the [[MLS Young Player of the Year Award|MLS Young Player of the Year]] in [[2021 Major League Soccer season|2021]]. In 2022 he joined [[Bundesliga]] club [[FC Augsburg]] and was later loaned to Eredivisie club [[FC Groningen]]. In 2023 he signed with [[PSV Eindhoven]] for €9 million ($9.8m) and won the [[2023–24 Eredivisie]].<ref name=":1">{{Cite web |date=2023-07-07 |title=PSV announce signing USMNT striker Pepi |url=https://www.espn.com/soccer/story/_/id/37972983/psv-confirm-signing-usmnt-striker-ricardo-pepi-augsburg |access-date=2023-09-13 |website=ESPN.com |language=en}}</ref>
+
+He represented the United States at the youth U17 level. He made his senior debut in 2021 and won the [[CONCACAF Nations League]] in [[2023 CONCACAF Nations League Finals|2023]] and [[2024 CONCACAF Nations League Finals|2024]].<ref name=":0" /> He won the [[U.S. Soccer Young Male Player of the Year]] award in 2021.
+
+==Early life==
+Pepi was born in [[El Paso, Texas]], and raised in nearby [[San Elizario, Texas|San Elizario]].<ref>{{cite news |last1=Bloomquist |first1=Bret |title=FC Dallas signs 16-year-old El Pasoan Ricardo Pepi |url=https://www.elpasotimes.com/story/sports/soccer/2019/06/21/fc-dallas-el-paso-16-year-old-ricardo-pepi/1529936001/ |access-date=September 8, 2021 |work=El Paso Times |date=June 21, 2019}}</ref> He is of [[Mexicans|Mexican]] descent, and he regularly travels to [[Ciudad Juárez]] to visit family.<ref>{{cite news |last1=Becherano |first1=Lizzy |title=Ricardo Pepi pledges international allegiance to USMNT over Mexico |url=https://www.90min.com/posts/ricardo-pepi-international-allegiance-usmnt-mexico |access-date=September 9, 2021 |work=90min |date=August 27, 2021}}</ref> Pepi began playing recreational soccer when he was only four years old in local El Paso leagues.<ref name="dmn1">{{cite news |last1=Arnold |first1=John |title=How Ricardo Pepi went from FC Dallas teenage sensation to MLS All-Star |url=https://www.dallasnews.com/sports/fc-dallas/2021/08/25/how-ricardo-pepi-went-from-fc-dallas-teenage-sensation-to-mls-all-star/ |access-date=September 8, 2021 |work=The Dallas Morning News |date=August 25, 2021}}</ref> He soon began playing competitive organized soccer for a club coached by his father, Daniel Pepi.<ref name="dmn1"/> The club would soon become affiliated with [[Major League Soccer]] club [[FC Dallas]], who scouted Pepi following the Copa Chivas tournament in 2016, offering the then 13-year old the opportunity to join the FC Dallas youth academy.<ref name="dmn1"/>
+
+In his first season, Pepi was put into the under-13 side and scored 18 goals in just 15 games, leading him to rise up the ranks within the club.<ref name="dn1">{{cite news |title=FC Dallas signs Ricardo Pepi to USL team |url=https://www.dallasnews.com/sports/fc-dallas/2018/12/07/fc-dallas-signs-ricardo-pepi-to-usl-team/ |access-date=September 9, 2021 |work=Dallas Morning News |date=December 6, 2018}}</ref> He was soon promoted to the under-17 side as a 15-year old, scoring 19 goals in eight matches.<ref name="dn1"/>
+
+==Club career==
+
+===North Texas SC===
+On December 8, 2018, Pepi became the first signing for [[North Texas SC]], the new affiliate club for [[FC Dallas]] in [[USL League One]].<ref>{{cite news |last1=Carrick |first1=Buzz |title=FC Dallas signs Ricardo Pepi to USL team |url=https://www.dallasnews.com/sports/fc-dallas/2018/12/07/fc-dallas-signs-ricardo-pepi-to-usl-team/ |access-date=September 8, 2021 |work=Dallas Morning News |date=December 6, 2018}}</ref> On March 30, 2019, he made his professional debut in North Texas SC's first ever match, scoring a hat-trick in a 3–2 victory over the [[Chattanooga Red Wolves SC|Chattanooga Red Wolves]].<ref>{{cite web |title=North Texas SC 3-2 Chattanooga Red Wolves |url=https://us.soccerway.com/matches/2019/03/31/united-states/usl-league-one/north-texas/chattanooga-red-wolves/2945938/ |website=Soccerway}}</ref> Following the match, North Texas SC head coach [[Eric Quill]] stated: "I'd like to say that it shocks me, but it doesn't shock me. He's been in unbelievable form in the preseason. Every game, he's growing. He's got such a hunger to score goals, that is rare. He can finish in any way."<ref>{{cite news |last1=Kafai |first1=Arman |title=North Texas SC wins first match in history, defeat Chattanooga Red Wolves 3-2 |url=https://www.dallasnews.com/sports/fc-dallas/2019/03/31/north-texas-sc-wins-first-match-in-history-defeat-chatanooga-red-wolves-3-2/ |access-date=September 8, 2021 |work=Dallas Morning News |date=March 30, 2019}}</ref>
+
+In the following match against [[Forward Madison FC|Forward Madison]], Pepi scored for the second match in a row deep into second half stoppage time to give North Texas SC the 1–0 home victory.<ref>{{cite web |title=North Texas SC 1–0 Forward Madison |url=https://us.soccerway.com/matches/2019/04/14/united-states/usl-league-one/north-texas/forward-madison/2946789/ |website=Soccerway}}</ref> He was then called into the international [[United States men's national under-17 soccer team|under-17]] squad. When he returned, Pepi scored again in his third game of the season against [[Lansing Ignite FC|Lansing Ignite]] in a 2–2 draw.<ref>{{cite web |title=Lansing Ignite 2–2 North Texas SC |url=https://us.soccerway.com/matches/2019/05/19/united-states/usl-league-one/lansing-ignite/north-texas/2946811/ |website=Soccerway}}</ref>
+
+On October 12, 2019, Pepi returned to North Texas SC for the semifinals of the [[2019 USL League One season#Semifinals|USL League One playoffs]]. He scored a brace for North Texas SC against [[Forward Madison FC|Forward Madison]] in a 2–0 home victory, advancing the side to the final.<ref>{{cite news |last1=Carrick |first1=Buzz |title=North Texas Soccer Club advances to the USL League One Final with 2-0 win over Forward Madison |url=https://www.dallasnews.com/sports/fc-dallas/2019/10/13/north-texas-soccer-club-advances-to-the-usl-league-one-final-with-2-0-win-over-forward-madison/ |access-date=September 9, 2021 |work=Dallas Morning News |date=October 13, 2019}}</ref> After the match, Pepi was called into the under-17 side, thus not being available for selection against [[Greenville Triumph SC|Greenville Triumph]] in the final on October 19.<ref name="final1">{{cite news |last1=Lenard |first1=John |title=North Texas Soccer Club triumphs over Greenville, wins inaugural USL-1 Final |url=https://www.dallasnews.com/sports/fc-dallas/2019/10/20/north-texas-soccer-club-triumphs-over-greenville-wins-inaugural-usl-1-final/ |access-date=September 9, 2021 |work=Dallas Morning News |date=October 19, 2019}}</ref> Despite his absence, North Texas SC proceeded to win the match 1–0 through [[Arturo Rodríguez (footballer, born 1998)|Arturo Rodríguez]], thus winning their first championship and giving Pepi his first trophy.<ref name="final1"/> Pepi was named as a finalist for the USL Young Player of the Year on October 17, but lost out to Arturo Rodríguez.<ref>{{cite news |last1=Carrick |first1=Buzz |title=Arturo Rodriguez named USL League One Young Player of the Year |url=https://www.dallasnews.com/sports/fc-dallas/2019/10/31/arturo-rodriguez-named-usl-league-one-young-player-of-the-year/ |access-date=September 9, 2021 |work=Dallas Morning News |date=October 31, 2019}}</ref>
+
+===FC Dallas===
+On June 11, 2019, Pepi was loaned to [[North Texas SC]] parent club [[FC Dallas]] on a short-term loan ahead of their [[U.S. Open Cup]] match against [[OKC Energy FC|OKC Energy]].<ref>{{cite news |title=FC Dallas Acquires Forward Ricardo Pepi On Loan from North Texas SC |url=https://www.fcdallas.com/news/fc-dallas-acquires-forward-ricardo-pepi-loan-north-texas-sc |access-date=September 8, 2021 |work=FC Dallas |date=June 11, 2019}}</ref> The next day, Pepi made his competitive debut for FC Dallas against OKC Energy, starting in the 4–0 victory at [[Toyota Stadium (Texas)|Toyota Stadium]].<ref>{{cite web |title=FC Dallas 4–0 OKC Energy |url=https://us.soccerway.com/matches/2019/06/13/united-states/us-open-cup/football-club-dallas/okc-energy/3025076/ |website=Soccerway}}</ref> He appeared again for FC Dallas in the next round on June 19, starting in the 2–1 defeat.<ref>{{cite news |last1=Carrick |first1=Buzz |title=The Breakdown: US Open Cup - New Mexico United at FC Dallas |url=https://www.dallasnews.com/sports/fc-dallas/2019/06/21/the-breakdown-us-open-cup-new-mexico-united-at-fc-dallas/ |access-date=September 8, 2021 |work=Dallas Morning News |date=June 20, 2019}}</ref>
+
+On June 21, 2019, Pepi was signed by [[FC Dallas]] to a [[Homegrown Player Rule (Major League Soccer)|homegrown player]] deal, becoming the club's fourth youngest academy signing at 16 years and 163 days old.<ref>{{cite news |last1=Butler |first1=Dylan |title=FC Dallas sign 16-year-old forward Ricardo Pepi to Homegrown contract |url=https://www.mlssoccer.com/news/fc-dallas-sign-16-year-old-forward-ricardo-pepi-homegrown-contract |access-date=September 8, 2021 |work=Major League Soccer |date=June 21, 2019}}</ref> The next day, on June 22, Pepi made his [[Major League Soccer]] debut, coming on as an 84th-minute substitute in a 3–0 home victory over [[Toronto FC]].<ref>{{cite web |title=FC Dallas 3–0 Toronto FC |url=https://us.soccerway.com/matches/2019/06/23/united-states/mls/football-club-dallas/toronto-fc/2959996/ |website=Soccerway}}</ref> He finished his first season with FC Dallas with nine appearances and 0 goals.<ref>{{cite news |last1=Bogert |first1=Tom |title=Cerrillo, Pepi lead five FC Dallas academy products to train with Bayern Munich |url=https://www.mlssoccer.com/news/cerrillo-pepi-lead-five-fc-dallas-academy-products-train-bayern-munich |access-date=September 8, 2021 |work=Major League Soccer |date=November 4, 2019}}</ref>
+
+On March 7, 2020, Pepi scored his first professional goal for FC Dallas, a 96th-minute equalizer in a 2–2 draw against the [[CF Montréal|Montreal Impact]].<ref>{{cite web |title=FC Dallas 2–2 Montreal Impact |url=https://us.soccerway.com/matches/2020/03/07/united-states/mls/football-club-dallas/montreal-impacts/3195765/ |website=Soccerway}}</ref> He scored his second goal of the season on September 9 in a 3–2 defeat away against [[Minnesota United FC|Minnesota United]].<ref>{{cite web |title=Minnesota United 3–2 FC Dallas |url=https://us.soccerway.com/matches/2020/09/10/united-states/mls/nsc-minnesota-stars/football-club-dallas/3333330/ |website=Soccerway}}</ref> On November 22, Pepi scored an equalizer for FC Dallas after trailing 1–0 in second-half stoppage time in the first round of the [[2020 MLS Cup Playoffs]] against the [[Portland Timbers]]. The match would eventually be decided in a penalty shootout, with Pepi converting his penalty in the lead up to FC Dallas advancing 8–7.<ref>{{cite web |title=Portland Timbers 1–1 FC Dallas |url=https://us.soccerway.com/matches/2020/11/23/united-states/mls/portland-timbers-mls/football-club-dallas/3420827/ |website=Soccerway}}</ref>
+
+====2021 season====
+[[File:Ricardo Pepi Football Americana 2021 01.png|thumb|left|200px|Pepi in 2021.]]
+
+On April 17, Pepi made his first appearance of the [[2021 FC Dallas season|2021 season]] against the [[Colorado Rapids]], coming on as an 81st-minute substitute in the 0–0 draw.<ref>{{cite web |title=FC Dallas 0–0 Colorado Rapids |url=https://us.soccerway.com/matches/2021/04/18/united-states/mls/football-club-dallas/colorado-rapids/3471811/ |website=Soccerway}}</ref> In the next match on April 24, Pepi scored his first goal of the season, a consolation for FC Dallas in a 3–1 away defeat against the [[San Jose Earthquakes]].<ref>{{cite web |title=San Jose Earthquakes 3–1 FC Dallas |url=https://us.soccerway.com/matches/2021/04/24/united-states/mls/san-jose-earthquakes/football-club-dallas/3471819/ |website=Soccerway}}</ref> From that match on, Pepi would continue to feature as a regular starter for [[Luchi Gonzalez]] and on June 19, Pepi scored his second goal of the season against [[Minnesota United FC|Minnesota United]]. His goal was an equalizer in a 1–1 draw.<ref>{{cite web |title=FC Dallas 1–1 Minnesota United |url=https://us.soccerway.com/matches/2021/06/20/united-states/mls/football-club-dallas/nsc-minnesota-stars/3481277/ |website=Soccerway}}</ref> He then scored both goals for FC Dallas in a 2–1 victory against the [[New England Revolution]] on June 27.<ref>{{cite web |title=FC Dallas 2–1 New England Revolution |url=https://us.soccerway.com/matches/2021/06/28/united-states/mls/football-club-dallas/new-england-revolution/3481309/ |website=Soccerway}}</ref>
+
+On July 24, Pepi scored his first professional hat-trick in a 4–0 home victory against the [[LA Galaxy]]. The three goals in a single match made him the youngest player in [[Major League Soccer]] history to score a hat-trick.<ref>{{cite news |last1=Panizo |first1=Franco |title=FC Dallas relishes Ricardo Pepi's historic hat-trick: "He is the kid of the present" |url=https://sbisoccer.com/2021/07/fc-dallas-relishes-ricardo-pepis-historic-hat-trick-he-is-the-kid-of-the-present |access-date=September 9, 2021 |work=SBI Soccer |date=July 25, 2021}}</ref> A week later, on August 4, it was announced that Pepi was selected by [[Bob Bradley]] to participate in the [[2021 MLS All-Star Game]] against the [[Liga MX|Liga MX All-Stars]].<ref>{{cite news |last1=Morgan |first1=Andy |title=El Paso native Ricardo Pepi selected for 2021 MLS All-Star Game |url=https://www.ktsm.com/sports/local-sports/el-paso-native-ricardo-pepi-selected-for-2021-mls-all-star-game/ |access-date=September 9, 2021 |work=KTSM.com |date=August 4, 2021}}</ref> During the match on August 25, Pepi came on as a halftime substitute as the match ended 1–1 in regulation time, going into a penalty shootout.<ref>{{Cite web |last=mlssoccer |title=FC Dallas hail heroics of Ricardo Pepi after penalty kick triumph over Portland Timbers {{!}} MLSSoccer.com |url=https://www.mlssoccer.com/news/fc-dallas-hail-heroics-ricardo-pepi-after-penalty-kick-triumph-over-portland-tim |access-date=2023-09-21 |website=mlssoccer |language=en}}</ref> During the shootout, Pepi scored the winning goal for the Major League Soccer All-Stars to give the league a 3–2 victory.<ref>{{cite news |last1=Reineking |first1=Jim |title=MLS All-Star team prevails over Liga MX All-Stars in penalty shootout as Ricardo Pepi makes winning kick |url=https://www.usatoday.com/story/sports/soccer/2021/08/25/mls-liga-mx-all-star-game-ricardo-pepi-decisive-kick/5597369001/ |access-date=September 9, 2021 |work=USA Today |date=August 26, 2021}}</ref>
+
+In his next match, on August 29 against [[Austin FC]], Pepi scored two goals for FC Dallas in a 5–3 away victory.<ref>{{cite web |title=Austin FC 3–5 FC Dallas |url=https://us.soccerway.com/matches/2021/08/30/united-states/mls/austin/football-club-dallas/3481466/ |website=Soccerway}}</ref> He scored 13 goals in 31 appearances during the 2021 regular season and was named [[MLS Young Player of the Year Award|MLS Young Player of the Year]].<ref>{{cite news |date=December 18, 2021 |title=FC Dallas' Ricardo Pepi named 2021 US Soccer Young Male Player of the Year |url=https://www.mlssoccer.com/news/fc-dallas-forward-ricardo-pepi-named-2021-us-soccer-young-player-of-the-year |work=MLSsoccer.com |accessdate=November 27, 2024}}</ref>
+
+=== FC Augsburg ===
+On January 3, 2022, it was announced that Pepi had signed with [[FC Augsburg]] of the [[Bundesliga]]. The transfer fee was reported to be $20 million plus add-ons.<ref>{{Cite web|url=https://www.mlssoccer.com/news/sources-fc-dallas-transferring-ricardo-pepi-to-augsburg-for-club-record-fee|title=FC Dallas transfer Ricardo Pepi to Bundesliga's Augsburg in club-record move &#124; MLSSoccer.com|website=mlssoccer}}</ref> The move made him the [[List of most expensive American soccer transfers|most expensive American MLS player]] to sign for a European club, the most expensive transfer by Augsburg, and the second most expensive player to transfer from MLS to a European league.<ref>{{cite web |last1=Gonzalez |first1=Rogers |title=USMNT and FC Dallas striker Ricardo Pepi completes move to relegation-threatened Augsburg in Bundesliga |url=https://www.cbssports.com/soccer/news/usmnt-and-fc-dallas-striker-ricardo-pepi-completes-move-to-relegation-threatened-augsburg-in-bundesliga/ |website=[[CBS Sports]] |publisher=[[CBS]] |access-date=January 3, 2022 |date=January 3, 2022}}</ref> He made his league debut for Augsburg on January 8, coming on in the 60th minute in a 3–1 defeat to Hoffenheim.<ref>{{cite web |last1=Sciaretta |first1=Brian |title=Pepi makes Augsburg debut while Adams. Richards, McKennie impresses |url=http://www.americansoccernow.com/articles/pepi-makes-augsburg-debut-while-adams-richards-mckennie-impresses |website=American Soccer Now |access-date=14 January 2022 |date=10 August 2022}}</ref>
+
+==== Loan to FC Groningen ====
+[[File:GAE - FC Groningen - 52877441697 (Ricardo Pepi).jpg|thumb|left|200px|Pepi with [[FC Groningen|Groningen]] in 2023.]]
+
+On September 1, 2022, it was announced that Pepi would go on a year-long loan to [[Eredivisie]] outfit [[FC Groningen]] for the duration of the [[2022–23 FC Groningen season|2022–23 season]].<ref>{{cite web |title=Pepi: 'Ik ben hongerig naar doelpunten' |url=https://www.fcgroningen.nl/nieuws/pepi-ik-ben-hongerig-naar-doelpunten/2 |website=fcgroningen.nl |access-date=September 1, 2022 |language=Dutch |date=September 1, 2022}}</ref> In his competitive debut for the club against [[SC Cambuur|Cambuur]] he tallied an assist on the game's only goal.<ref>{{cite web|title=USMNT's Ricardo Pepi sets up winner in Groningen win over Cambuur|url=https://www.espn.com/soccer/fc-groningen/story/4744154/usmnts-ricardo-pepi-sets-up-winner-in-groningen-win-over-cambuur|website=espn.com|access-date=October 5, 2022|date=September 11, 2022}}</ref> Pepi's hot start continued in the following match in which he broke an 11-month goal drought in a 2–1 defeat to [[Sparta Rotterdam]]. His most recent goal had come on October 7, 2021, in a 2–0 victory over [[Jamaica national football team|Jamaica]] for the [[United States national men's soccer team|United States]] in World Cup qualifying, marking him just 20 days shy of a year without scoring a competitive goal.<ref>{{cite web|title=USMNT striker Ricardo Pepi ends 30-game, 345-day drought with goal for Groningen|url=https://www.espn.com/soccer/united-states-usa/story/4748883/usmnt-striker-ricardo-pepi-ends-30-game345-day-drought-with-goal-for-groningen|website=espn.com|access-date=October 5, 2022|date=September 17, 2022}}</ref>
+
+Following the September international break, Pepi notched his second goal in as many league games, scoring Groningen's only goal as they suffered a 4–1 defeat to [[AZ Alkmaar]].<ref>{{cite web|title=USMNT striker Ricardo Pepi scores in 2nd straight match for Groningen|url=https://www.espn.com/soccer/united-states-usa/story/4758936/usmnt-striker-ricardo-pepi-scores-in-2nd-straight-match-for-groningen|website=espn.com|access-date=October 5, 2022|date=October 1, 2022}}</ref> The following week he scored a brace in a 3–2 defeat to [[RKC Waalwijk]], in the process becoming the first [[Eredivisie]] player in the 21st century to score or assist on five goals in his first four league games.<ref>{{cite web|title=USMNT striker Ricardo Pepi scores 2 goals for Groningen to continue hot streak|url=https://www.espn.com/soccer/united-states-usa/story/4763818/usmnt-striker-ricardo-pepi-scores-2-goals-for-groningen-to-continue-hot-streak|website=espn.com|access-date=October 16, 2022|date=October 7, 2022|quote=He is also the first player this century to be directly involved in five goals in his first four Eredivisie matches, according to Opta, having also registered one assist.}}</ref> In a 3–0 victory over [[Excelsior Rotterdam|Excelsior]] on February 25, Pepi scored his tenth goal of his loan spell in just his 20th competitive game for Groningen.<ref>{{cite web|title=USMNT's Ricardo Pepi nets 10th goal of the season as striker continues to find confidence at Groningen|url=https://www.goal.com/en-us/news/usmnt-pepi-groningen-double-digit/blt925b52c6eccf30ae|work=Goal|first=Ryan|last=Tolmich|access-date=February 25, 2023|date=February 25, 2023}}</ref>
+
+Despite playing for a relegation-threatened side, Pepi earned a spot on the official Eredivisie Team of the Month for February 2023 as the only outfield player not from league powerhouses [[AFC Ajax|Ajax]], [[PSV Eindhoven|PSV]], and [[Feyenoord]].<ref>{{cite web|title=Pepi makes Eredivisie team of the month for still-struggling Groningen|url=https://prosoccerwire.usatoday.com/2023/03/03/pepi-eredivisie-team-of-the-month-groningen-usmnt/|work=Pro Soccer Wire|first=Jason|last=Anderson|access-date=March 12, 2023|date=March 3, 2023}}</ref>
+
+===PSV Eindhoven===
+On July 7, 2023, Pepi signed a five-year contract with PSV Eindhoven after the Dutch club agreed to pay $9.8 million to Augsburg for Pepi's transfer.<ref name=":1" /> On November 29, 2023, he scored his first [[UEFA Champions League]] goal, a 3–2 game winner in stoppage time against [[Sevilla FC|Sevilla]], which qualified his club to the [[2023–24 UEFA Champions League knockout phase|knockout phase]].<ref>{{Cite news |last=Media |first=P. A. |date=2023-11-29 |title=Champions League: Pepi winner caps PSV's wild comeback at Sevilla |language=en-GB |work=The Guardian |url=https://www.theguardian.com/football/2023/nov/29/champions-league-sevilla-psv-bayern-benfica-inter |access-date=2023-11-29 |issn=0261-3077}}</ref>
+
+==International career==
+Born in the United States, Pepi was eligible to play for both the [[United States men's national soccer team|United States]] and [[Mexico national football team|Mexico]] through his parents.<ref>{{cite news |last1=Boehm |first1=Charles |title=Ricardo Pepi on US-Mexico international choice: "I'm just stuck in the middle" |url=https://www.mlssoccer.com/news/ricardo-pepi-on-us-mexico-international-choice-i-m-just-stuck-in-the-middle |access-date=September 9, 2021 |work=Major League Soccer |date=August 24, 2021}}</ref> He had also previously attended training camps for both the [[United States men's national under-17 soccer team|United States under-17]] and [[Mexico national under-17 football team|Mexico under-17]] sides.<ref>{{cite news |last1=Bloomquist |first1=Bret |title=Ricardo Pepi of El Paso appears poised to break into Major League Soccer for FC Dallas |url=https://www.elpasotimes.com/story/sports/soccer/2019/04/16/ricardo-pepi-el-paso-appears-poised-break-into-mls-fc-dallas/3440748002/ |work=El Paso Times |date=April 16, 2019}}</ref> On April 22, 2019, Pepi was included in the United States under-17 squad by [[Raphaël Wicky]] for the [[2019 CONCACAF U-17 Championship|CONCACAF U-17 Championship]].<ref>{{cite news |last1=Carrick |first1=Buzz |title=Ricardo Pepi named to US U17s for Concacaf U17 Championship |url=https://www.dallasnews.com/sports/fc-dallas/2019/04/22/ricardo-pepi-named-to-us-u17s-for-concacaf-u17-championship/ |access-date=September 9, 2021 |work=Dallas Morning News |date=April 22, 2019}}</ref> On May 12, Pepi scored his first international goal against [[Panama national under-17 football team|Panama]], followed by a brace against [[Canada men's national under-17 soccer team|Canada]] to help the United States advance to the final.<ref>{{cite web |title=United States U17 3–0 Panama U17 |url=https://us.soccerway.com/matches/2019/05/12/nc-america/concacaf-u17/united-states-under-17/panama-u17/2987415/ |website=Soccerway}}</ref><ref>{{cite web |title=United States U17 4–0 Canada U17 |url=https://us.soccerway.com/matches/2019/05/14/nc-america/concacaf-u17/united-states-under-17/canada-u17/2987418/ |website=Soccerway}}</ref> In October 2019, Pepi was included again in the under-17 squad, this time for the [[2019 FIFA U-17 World Cup|FIFA U-17 World Cup]].<ref>{{cite news |last1=Henry Jr. |first1=Larry |title=Reyna, Busio headline USMNT Under-17 World Cup roster |url=https://sbisoccer.com/2019/10/reyna-busio-headline-usmnt-u-17-world-cup-roster |access-date=September 9, 2021 |work=SBI Soccer |date=October 10, 2019}}</ref>
+
+On August 26, 2021, manager [[Gregg Berhalter]] selected Pepi in the United States squad for [[2022 FIFA World Cup qualification – CONCACAF third round|2022 FIFA World Cup qualification]].<ref>{{cite news |title=FC Dallas striker Ricardo Pepi earns USMNT call up for FIFA World Cup Qualifiers |url=https://www.dallasnews.com/sports/fc-dallas/2021/08/26/fc-dallas-striker-ricardo-pepi-earns-usmnt-call-up-for-fifa-world-cup-qualifiers/ |access-date=September 9, 2021 |work=Dallas Morning News |date=August 26, 2021}}</ref> On September 8, 2021, Pepi made his debut for the United States and scored the winning goal in a 4–1 away victory against [[Honduras national football team|Honduras]]. His goal was the second of the match, giving the United States a 2–1 lead.<ref>{{cite magazine |title=Ricardo Pepi Sparks USMNT's World Cup Qualifying Comeback Win vs. Honduras |url=https://www.si.com/soccer/2021/09/09/usmnt-honduras-world-cup-qualifying-video-updates-highlights-pulisic |access-date=September 9, 2021 |magazine=Sports Illustrated |date=September 9, 2021}}</ref> He scored twice in his second match, a 2–0 qualifying win against [[Jamaica national football team|Jamaica]] played in [[Austin, Texas]].<ref>{{cite news |date=October 7, 2021 |title=USMNT's Ricardo Pepi scores 2 goals in World Cup qualifier win over Jamaica |url=https://www.nytimes.com/athletic/4198219/2021/10/08/usmnts-ricardo-pepi-scores-2-goals-in-world-cup-qualifier-win-over-jamaica/ |work=[[The Athletic]] |access-date=October 7, 2021}}</ref>
+
+Despite the early success, Pepi was ultimately not called up to the team's 26-man 2022 World Cup roster.<ref>{{cite web |last1=Bernstein |first1=Dan |title=Explained: Why Ricardo Pepi was snubbed from USMNT's World Cup squad |url=https://www.goal.com/en-us/news/explained-why-ricardo-pepi-was-snubbed-from-usmnt-world-cup-squad/blt551ce77bae519661 |website=[[Goal (website)|Goal]] |access-date=December 6, 2022 |date=November 9, 2022}}</ref><ref>{{cite web |last1=Booth |first1=Chuck |title=FIFA World Cup 2022: USMNT Striker Ricardo Pepi responds after Gregg Berhalter snubs him for USA squad |url=https://www.cbssports.com/soccer/news/fifa-world-cup-2022-usmnt-striker-ricardo-pepi-responds-after-gregg-berhalter-snubs-him-for-usa-squad/ |website=[[CBS Sports]] |access-date=December 6, 2022 |date=November 14, 2022}}</ref><ref>{{cite web |last1=Quillen |first1=Ian Nicholas |title=USMNT Snubs Ricardo Pepi, Zack Steffen Show Leaving MLS For Europe Can Backfire |url=https://www.forbes.com/sites/ianquillen/2022/11/09/usmnt-snubs-ricardo-pepi-zack-steffen-show-leaving-mls-for-europe-can-backfire/?sh=33a4c6dc42bf |website=[[Forbes]] |access-date=December 6, 2022 |date=November 9, 2022}}</ref> In his first international match following the World Cup, Pepi scored his fourth and fifth international goals as part of a brace in a 7–1 [[2022–23 CONCACAF Nations League A|Nations League]] victory over [[Grenada national football team|Grenada]].<ref>{{cite web|last=Tolmich|first=Ryan|title=Ricardo Pepi and Christian Pulisic steal the show! Winners and Losers after the USMNT fire SEVEN past Grenada|url=https://www.goal.com/en-in/lists/pepi-pulisic-usmnt-grenada-winners-losers/blt97730a9f3dc7e55a#cs5a22b59c07b33964|website=[[Goal (website)|Goal]]|access-date=March 25, 2023|date=March 24, 2023}}</ref> Four days later, he scored the game-winning goal against [[El Salvador national football team|El Salvador]] to send the United States into the 2023 Nations League semifinals.<ref>{{cite web |last1=Butler |first1=Dylan |title=Ricardo Pepi powers USMNT past El Salvador, into Nations League semifinals |url=https://www.mlssoccer.com/news/ricardo-pepi-powers-usmnt-past-el-salvador-into-nations-league-semifinals |website=MLSSoccer.com |access-date=March 27, 2023 |date=March 27, 2023}}</ref> In the Nations League semifinal against [[Mexico national football team|Mexico]], Pepi scored off the bench securing the 3–0 U.S. win.
+
+On October 2, 2024, Pepi was included in [[Mauricio Pochettino]]'s first roster as the head coach of the USMNT for friendlies against [[Panama national football team|Panama]] and [[Mexico national football team|Mexico]].<ref>{{Cite web |title=New USMNT Head Coach Mauricio Pochettino Names 25-Player Roster for First Training Camp And Matches Against Panama and Mexico |url=https://www.ussoccer.com/stories/2024/10/mauricio-pochettino-names-us-mens-national-team-roster-for-october-matches-panama-mexico |access-date=2024-11-14 |website=www.ussoccer.com |language=en}}</ref> In the October 12 match against Panama, Pepi scored off the bench to ensure a 2–0 U.S. win.<ref>{{Cite web |title=USMNT Earns 2-0 Shutout Win Against Panama in Head Coach Mauricio Pochettino's Debut |url=https://www.ussoccer.com/stories/2024/10/usa-vs-panama-score-result-goals-stats-match-recap |access-date=2024-11-14 |website=www.ussoccer.com |language=en}}</ref> On October 13, Pepi returned to [[PSV Eindhoven|PSV]] due to a minor injury, and was not present for the second match of the international window.<ref>{{Cite web |title=Five Players Depart USMNT Camp As Team Heads To Guadalajara For Rare Friendly In Mexico |url=https://www.ussoccer.com/stories/2024/10/five-players-depart-usmnt-camp |access-date=2024-11-14 |website=www.ussoccer.com |language=en}}</ref>
+
+==Career statistics==
+
+===Club===
+{{updated|match played May 17, 2026}}<ref name="soccerway">{{soccerway|ricardo-pepi/523964}}</ref><ref>{{cite web |title=Ricardo Pepi Stats |url=https://www.mlssoccer.com/players/ricardo-pepi/stats/ |website=Major League Soccer}}</ref>
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by club, season and competition
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|National cup{{efn|Includes [[U.S. Open Cup]], [[DFB-Pokal]], [[KNVB Cup]]}}
+!colspan=2|Continental
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan=3|[[North Texas SC]]
+|[[2019 North Texas SC season|2019]]
+|[[USL League One]]
+|12||9||colspan=2|—||colspan=2|—||1{{efn|Appearance in [[USL League One]] Playoffs}}||2||13||11
+|-
+|[[2020 North Texas SC season|2020]]
+|USL League One
+|1||0||colspan=2|—||colspan=2|—||colspan=2|—||1||0
+|-
+!colspan=2|Total
+!13||9||colspan=2|—||colspan=2|—!!1||2||14||11
+|-
+|[[FC Dallas]] (loan)
+|[[2019 FC Dallas season|2019]]
+|[[Major League Soccer|MLS]]
+|colspan=2|—||2||0||colspan=2|—||colspan=2|—||2||0
+|-
+|rowspan=4|FC Dallas
+|[[2019 FC Dallas season|2019]]
+|MLS
+|7||0||colspan=2|—||colspan=2|—||colspan=2|—||7||0
+|-
+|[[2020 FC Dallas season|2020]]
+|MLS
+|17||2||colspan=2|—||colspan=2|—||2{{efn|name=Play|Appearances in [[MLS Cup Playoffs]]}}||1||19||3
+|-
+|[[2021 FC Dallas season|2021]]
+|MLS
+|31||13||colspan=2|—||colspan=2|—||colspan=2|—||31||13
+|-
+!colspan=2|Total
+!55||15||colspan=2|—||colspan=2|—!!2||1||57||16
+|-
+|rowspan=3|[[FC Augsburg]]
+|[[2021–22 FC Augsburg season|2021–22]]
+|[[Bundesliga]]
+|11||0||colspan=2|—||colspan=2|—||colspan=2|—||11||0
+|-
+|[[2022–23 FC Augsburg season|2022–23]]
+|Bundesliga
+|4||0||1||0||colspan=2|—||colspan=2|—||5||0
+|-
+!colspan=2|Total
+!15||0||1||0||colspan=2|—||colspan=2|—!!16||0
+|-
+|[[FC Groningen|Groningen]] (loan)
+|[[2022–23 FC Groningen season|2022–23]]
+|[[Eredivisie]]
+|29||12||2||1||colspan=2|—||colspan=2|—||31||13
+|-
+|rowspan=4|[[PSV Eindhoven|PSV]]
+|[[2023–24 PSV Eindhoven season|2023–24]]
+|Eredivisie
+|27||7||2||0||10{{efn|name=UCL|Appearances in [[UEFA Champions League]]}}||2||1{{efn|name=JCS|Appearance in [[Johan Cruyff Shield]]}}||0||40||9
+|-
+|[[2024–25 PSV Eindhoven season|2024–25]]
+|Eredivisie
+|18||11||2||4||7{{efn|name=UCL}}||2||1{{efn|name=JCS}}||0||28||17
+|-
+|[[2025–26 PSV Eindhoven season|2025–26]]
+|Eredivisie
+|26||16||2||0||5{{efn|name=UCL}}||3||1{{efn|name=JCS}}||0||34||19
+|-
+!colspan=2|Total
+!71||34||6||4||22||7||3||0||102||45
+|-
+|rowspan=3|[[Jong PSV]]
+|[[2023–24 Jong PSV season|2023–24]]
+|[[Eerste Divisie]]
+|1||0||colspan=2|—||colspan=2|—||colspan=2|—||1||0
+|-
+|[[2024–25 Eerste Divisie|2024–25]]
+|Eerste Divisie
+|1||1||colspan=2|—||colspan=2|—||colspan=2|—||1||1
+|-
+!colspan=2|Total
+!2||1||colspan=2|—||colspan=2|—||colspan=2|—||2||1
+|-
+!colspan=3|Career total
+!185||71||11||5||22||7||6||3||224||86
+|}
+{{notelist}}
+
+=== International ===
+{{updated|match played June 6, 2026}}<ref name="soccerway"/>
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="6"|[[United States men's national soccer team|United States]]
+|2021||7||3
+|-
+|2022||5||0
+|-
+|2023||10||7
+|-
+|2024||11||3
+|- 
+|2025||1||0
+|-
+|[[2026 in American soccer#Men's|2026]]|| 3 || 0
+|-
+!colspan="2"|Total!! 37 !! 13
+|}
+
+:''United States score listed first, score column indicates score after each Pepi goal.''<ref name="soccerway"/>
+
+{| class=wikitable
+|+ List of international goals scored by Ricardo Pepi
+!scope=col|No.
+!scope=col|Date
+!scope=col|Venue
+!scope=col|Cap
+!scope=col|Opponent
+!scope=col|Score
+!scope=col|Result
+!scope=col|Competition
+|-
+|align=center|1||September 8, 2021||[[Estadio Olímpico Metropolitano]], [[San Pedro Sula]], Honduras||align=center|1||{{fb|Honduras}}||align=center|2–1||align=center|4–1||[[2022 FIFA World Cup qualification – CONCACAF third round|2022 FIFA World Cup qualification]]
+|-
+|align=center|2|| rowspan=2|October 7, 2021|| rowspan=2|[[Q2 Stadium]], [[Austin, Texas|Austin]], United States|| rowspan=2 align=center|2 || rowspan=2|{{fb|JAM}} ||align=center|1–0|| rowspan=2 align=center|2–0 || rowspan=2|2022 FIFA World Cup qualification
+|-
+|align=center|3
+|align=center|2–0
+|-
+|align=center|4||rowspan=2|March 24, 2023||rowspan=2|[[Kirani James Athletic Stadium]], [[St. George's, Grenada|St. George's]], Grenada || rowspan=2 align=center|13 || rowspan=2|{{fb|GRN}}||align=center|1–0 ||rowspan=2 align=center|7–1||rowspan=2|[[2022–23 CONCACAF Nations League A]]
+|-
+|align=center|5
+|align=center|6–1
+|-
+|align=center|6||March 27, 2023||[[Exploria Stadium]], [[Orlando, Florida|Orlando]], United States ||align=center|14||{{fb|SLV}}||align=center|1–0||align=center|1–0 || 2022–23 CONCACAF Nations League A
+|-
+|align=center|7||June 15, 2023||[[Allegiant Stadium]], [[Paradise, Nevada|Paradise]], United States ||align=center|15||{{fb|MEX}}||align=center|3–0||align=center|3–0||[[2023 CONCACAF Nations League Finals]]
+|-
+|align=center|8||September 9, 2023||[[CityPark]], [[St. Louis]], United States ||align=center|17||{{fb|UZB}}||align=center|2–0||align=center|3–0||[[Friendly (association football)|Friendly]]
+|-
+|align=center|9||September 12, 2023||[[Allianz Field]], [[Saint Paul, Minnesota|Saint Paul]], United States ||align=center|18||{{fb|OMA}}||align=center|3–0||align=center|4–0||Friendly
+|-
+|align=center|10||November 16, 2023|| Q2 Stadium, Austin, United States ||align=center|21||{{fb|TRI}}||align=center|1–0||align=center|3–0 || [[2023–24 CONCACAF Nations League A]]
+|-
+|align=center|11||October 12, 2024|| Q2 Stadium, Austin, United States ||align=center|31||{{fb|PAN}}||align=center|2–0||align=center|2–0 ||Friendly
+|-
+|align=center|12||November 14, 2024|| [[Independence Park (Jamaica)|Independence Park]], [[Kingston, Jamaica|Kingston]], Jamaica ||align=center|32||{{fb|JAM}}||align=center|1–0||align=center|1–0 || [[2024–25 CONCACAF Nations League A]]
+|-
+|align=center|13||November 18, 2024|| CityPark, St. Louis, United States ||align=center|33||{{fb|JAM}}|| align="center" |3–0||align=center|4–2|| 2024–25 CONCACAF Nations League A
+|}
+
+== Honors ==
+'''North Texas SC'''
+*[[USL League One]] Regular Season: [[2019 North Texas SC season|2019]]
+*[[USL League One]] Championship: [[2019 USL Championship season|2019]]
+
+'''PSV'''
+*[[Eredivisie]]: [[2023–24 Eredivisie|2023–24]], [[2024–25 Eredivisie|2024–25]], [[2025–26 Eredivisie|2025–26]]<ref>{{cite news |title=From championship jitters to record breakers: PSV's road to the title |url=https://www.flashscore.com/news/soccer-eredivisie-from-championship-jitters-to-record-breakers-psv-s-road-to-the-title/6iQALGwo/ |date=5 April 2026 |access-date=5 April 2026 |website=Flashscore}}</ref>
+*[[Johan Cruyff Shield]]: [[2023 Johan Cruyff Shield|2023]],<ref>{{cite web |date=4 August 2023 |title=Lang beslist duel met Feyenoord en bezorgt PSV veertiende Johan Cruijff Schaal |trans-title=Long decided duel with Feyenoord and gives PSV fourteenth Johan Cruijff Shield |url=https://nos.nl/artikel/2485454-lang-beslist-duel-met-feyenoord-en-bezorgt-psv-veertiende-johan-cruijff-schaal |access-date=8 August 2023 |website=nos.nl |language=nl}}</ref> [[2025 Johan Cruyff Shield|2025]]<ref>{{cite news |title=PSV win 15th Johan Cruyff Shield after late comeback against Go Ahead Eagles |url=https://www.flashscore.com/news/soccer-johan-cruyff-shield-psv-win-15th-johan-cruyff-shield-after-late-comeback-against-go-ahead-eagles/SUb4Giig/ |date=3 August 2025 |access-date=3 August 2025 |website=Flashscore}}</ref>
+
+'''United States'''
+*[[CONCACAF Nations League]]: [[2022–23 CONCACAF Nations League|2022–23]],<ref name=":0">{{Cite web |date=18 June 2023 |title=U.S. beats Canada to win Nations League as Balogun opens account |url=https://www.espn.com/soccer/report/_/gameId/667792 |access-date=19 June 2023 |website=ESPN}}</ref> [[2023–24 CONCACAF Nations League|2023–24]]<ref>{{cite news|url=https://www.concacaf.com/nations-league/news/adams-reyna-on-target-as-united-states-complete-three-peat/|title=Adams Reyna on target as United States complete three peat|work=CONCACAF|date=25 March 2024|access-date=25 March 2024}}</ref>
+
+'''Individual'''
+*[[MLS All-Star Game|MLS All-Star]]: [[2021 MLS All-Star Game|2021]]
+*[[MLS Young Player of the Year Award|MLS Young Player of the Year]]: [[2021 Major League Soccer season|2021]]
+*[[Eredivisie]] Team of the Month: [[2024–25 Eredivisie#Monthly awards|November 2024]]<ref>{{cite news|title=PSV and N.E.C. main suppliers to the Eredivisie Team of the Month for November|url=https://eredivisie.eu/news/psv-and-n-e-c-main-contributors-to-the-eredivisie-team-of-the-month-for-november/|website=Eredivisie|date=6 December 2024|access-date=6 December 2024}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{sports links}}
+* [https://www.fcdallas.com/players/ricardo-pepi/ Profile] at [[FC Dallas]]
+* {{Soccerway|new_id=pepi-ricardo/GE8fEuGS}}
+
+{{PSV Eindhoven squad}}
+{{Navboxes
+| title = United States squads
+| bg = white
+| fg = #002868
+| bordercolor = #BF0A30
+| list1 =
+{{United States squad 2024 Copa América}}
+{{United States squad 2026 FIFA World Cup}}
+}}
+{{Major League Soccer Young Player of the Year Award}}
+
+{{DEFAULTSORT:Pepi, Ricardo}}
+[[Category:2003 births]]
+[[Category:Living people]]
+[[Category:American people of Mexican descent]]
+[[Category:Sportspeople of Mexican descent]]
+[[Category:Soccer players from El Paso, Texas]]
+[[Category:American men's soccer players]]
+[[Category:Men's association football defenders]]
+[[Category:North Texas SC players]]
+[[Category:FC Augsburg players]]
+[[Category:FC Groningen players]]
+[[Category:FC Dallas players]]
+[[Category:PSV Eindhoven players]]
+[[Category:Bundesliga players]]
+[[Category:Eredivisie players]]
+[[Category:Eerste Divisie players]]
+[[Category:USL League One players]]
+[[Category:Major League Soccer players]]
+[[Category:Expatriate men's footballers in the Netherlands]]
+[[Category:American expatriate men's soccer players]]
+[[Category:American expatriate sportspeople in Germany]]
+[[Category:Expatriate men's footballers in Germany]]
+[[Category:American expatriate sportspeople in the Netherlands]]
+[[Category:Homegrown Players (MLS)]]
+[[Category:United States men's youth international soccer players]]
+[[Category:United States men's international soccer players]]
+[[Category:2024 Copa América players]]
+[[Category:21st-century American sportsmen]]
+[[Category:2026 FIFA World Cup players]]

@@ -1,0 +1,24 @@
+{
+ "team": "PAR",
+ "coach": {
+  "name_zh": "古斯塔沃·阿尔法罗",
+  "name_en": "Gustavo Alfaro",
+  "nationality": "Argentina",
+  "career_since": "1992",
+  "person_id": "per_gustavo_alfaro"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 古斯塔沃·阿尔法罗，阿根廷籍教练，自1992年开启执教生涯，现任巴拉圭国家队主帅，率队晋级2026年世界杯，终结球队16年无缘世界杯的纪录。\n- 战术上以4-2-3-1或4-4-2阵型为主，强调双四后卫链、防线间不留空间，通过中场安德拉·库巴斯与博瓦迪利亚组合封锁中路，依靠米格尔·阿尔米隆发动快速反击。\n- 世预赛期间带队8场不败，击败巴西、阿根廷与乌拉圭，18场南美区预选赛仅失14球，打造以防守稳固为基础的防反体系。\n- 世界杯前核心球员胡里奥·恩西索遭遇大腿伤情，阿尔法罗拒绝仓促决定，与巴拉圭足协协调引入专业超声医师每日监测，最终球员压哨康复并可能首发出战。\n- 作为五位出征世界杯的圣菲籍教练之一，阿尔法罗在巴拉圭被视为\"准民族英雄\"，赛前致信球迷强调\"永不放弃是球队DNA\"。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.95,
+  "issues": []
+ },
+ "brief_fetched": "2026-06-13_1138",
+ "brief_info_chars": 6000
+}

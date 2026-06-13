@@ -1,0 +1,168 @@
+{{short description|Swiss footballer}}
+{{Use dmy dates|date=January 2023}}
+{{Infobox football biography
+|name = Luca Jaquez
+|image = 
+|caption = 
+|fullname = Luca Antony Jaquez
+|birth_date = {{birth date and age|2003|6|2|df=yes}}
+|birth_place = [[Lucerne]], Switzerland
+|height = 1.87m
+|position = [[Centre-back]]
+|currentclub = [[VfB Stuttgart]]
+|clubnumber = 14
+|youthyears1 =
+|youthclubs1 = SC Obergeissenstein
+|youthyears2 = 2013–2022
+|youthclubs2 = [[FC Luzern|Luzern]]
+|years1 = 2021–2023
+|clubs1 = [[FC Luzern|Luzern U21]]
+|caps1 = 31
+|goals1 = 2
+|years2 = 2022–2025
+|clubs2 = [[FC Luzern|Luzern]]
+|caps2 = 60
+|goals2 = 3
+|years3 = 2025–
+|clubs3 = [[VfB Stuttgart]]
+|caps3 = 19
+|goals3 = 0
+|nationalyears1 = 2017
+|nationalteam1 = [[Switzerland national under-16 football team|Switzerland U15]]
+|nationalcaps1 = 2
+|nationalgoals1 = 0
+|nationalyears2 = 2021 
+|nationalteam2 = [[Switzerland national under-19 football team|Switzerland U19]]
+|nationalcaps2 = 2
+|nationalgoals2 = 0
+|nationalyears3 = 2022–2023 
+|nationalteam3 = [[Switzerland national under-20 football team|Switzerland U20]]
+|nationalcaps3 = 3
+|nationalgoals3 = 0
+|nationalyears4 = 2024–
+|nationalteam4 = [[Switzerland national under-21 football team|Switzerland U21]]
+|nationalcaps4 = 3
+|nationalgoals4 = 0
+|nationalyears5 = 2025–
+|nationalteam5 = [[Switzerland national football team|Switzerland]]
+|nationalcaps5 = 2
+|nationalgoals5 = 0
+|pcupdate = 16 May 2026
+|ntupdate = 31 March 2026
+}}
+
+'''Luca Antony Jaquez''' (born 2 June 2003) is a Swiss professional footballer who plays as a [[centre-back]] for German {{German football updater|Stuttgart}} club [[VfB Stuttgart]] and the [[Switzerland national football team|Switzerland national team]].
+
+==Club career==
+Jaquez is a youth product of SC Obergeissenstein, before moving to the youth academy of [[FC Luzern|Luzern]] in 2013. He signed his first professional contract with Luzern on 27 January 2022 until 2025.<ref>{{Cite web|url=https://regiofussball.ch/2022/01/27/ardon-jashari-und-luca-jaquez-erhalten-erste-profivertraege/|title=Ardon Jashari und Luca Jaquez erhalten erste Profiverträge|date=27 January 2022}}</ref> He made his professional debut with Luzern in a 3–0 Swiss Super League loss to [[FC Basel|Basel]] on 30 January 2022.<ref>{{Cite web|url=https://www.luzernerzeitung.ch/sport/fcluzern/fussball-toptalent-luca-jaquez-sitzt-oft-auf-der-ersatzbank-warum-spielt-der-fcl-akanji-so-wenig-ld.2517348|title=Toptalent Luca Jaquez sitzt oft auf der Ersatzbank: Warum spielt der FCL-Akanji so wenig?|first=Daniel|last=Wyrsch|date=20 September 2023|website=[[Luzerner Zeitung]]}}</ref> On 24 November 2022, he extended his contract with Luzern until 2026.<ref name="auto">{{Cite web|url=https://regiofussball.ch/2022/11/25/luca-jaquez-verlaengert-beim-fc-luzern/|title=Luca Jaquez verlängert beim FC Luzern|date=25 November 2022}}</ref>
+
+On 3 February 2025, Jaquez moved to German club [[VfB Stuttgart]] on a four-and-a-half-year contract.<ref>{{cite web|publisher=VfB Stuttgart|url=https://www.vfb.de/en/vfb/latest/news/professionals/2425/vfb-verpflichtet-luca-jaquez/|title=VfB sign Luca Jaquez|date=3 February 2025|access-date=3 February 2025}}</ref>
+
+==International career==
+Jaquez was born in Switzerland to a Dominican father and Swiss mother.<ref>{{Cite web|url=https://www.luzernerzeitung.ch/sport/fcluzern/fussball-luca-jaquez-gerade-nur-fcl-bankdruecker-doch-frick-vergleicht-ihn-mit-akanji-ld.2411326|title=Luca Jaquez gerade FCL-Bankdrücker – doch Frick vergleicht ihn mit Akanji|first=Daniel|last=Wyrsch|date=7 February 2023|website=[[Luzerner Zeitung]]}}</ref> He is a youth international for Switzerland, having played for the [[Switzerland national under-20 football team|Switzerland U20]]s in 2022.<ref name="auto"/> He was called up to the senior [[Switzerland national football team|Switzerland national team]] for a set of [[2026 FIFA World Cup qualification – UEFA Group B]] matches in October 2025.<ref>{{cite news |title=Männer-Nationalteam mit vielen Routiniers und zwei Neulingen |url=https://www.football.ch/sfv/nationalteams/a-team/news/maenner-nationalteam-mit-vielen-routiniers-und-zwei-neulingen.aspx |access-date=8 October 2025 |publisher=Schweizerischer Fussballverband |date=2 October 2025 |language=German}}</ref>
+
+==Career statistics==
+===Club===
+{{Updated|match played 23 May 2026}}
+
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup
+!colspan="2"|Europe
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="5"|[[FC Luzern|Luzern]]
+|[[2021–22 Swiss Super League|2021–22]]
+|[[Swiss Super League]]
+|1||0||0||0||colspan="2"|—||0||0||1||0
+|-
+|[[2022–23 Swiss Super League|2022–23]]
+|Swiss Super League
+|10||0||1||0||colspan="2"|—||colspan="2"|—||11||0
+|-
+|[[2023–24 Swiss Super League|2023–24]]
+|Swiss Super League
+|30||0||1||0||colspan="2"|—||colspan="2"|—||31||0
+|-
+|[[2024–25 Swiss Super League|2024–25]]
+|Swiss Super League
+|19||3||0||0||colspan="2"|—||colspan="2"|—||19||3
+|-
+!colspan="2"|Total
+!60!!3!!2!!0!!colspan="2"|—!!colspan="2"|—!!62!!3
+|-
+|rowspan="3"|[[VfB Stuttgart]]
+|[[2024–25 VfB Stuttgart season|2024–25]]
+|[[Bundesliga]]
+|5||0||1||0||colspan="2"|—||colspan="2"|—||6||0
+|-
+|[[2025–26 VfB Stuttgart season|2025–26]]
+|Bundesliga
+|14||0||3||1||8{{efn|Appearances in [[UEFA Europa League]]}}||0||1{{efn|Appearance in [[Franz Beckenbauer Supercup]]}}||0||26||1
+|-
+!colspan="2"|Total
+!19!!0!!4!!1!!8!!0!!1!!0!!32!!1
+|-
+!colspan="3"|Career total
+!79!!3!!6!!1!!8!!0!!1!!0!!94!!4
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 31 March 2026}}
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="2"|[[Switzerland national football team|Switzerland]]
+|2025||1||0
+|-
+|2026||1||0
+|-
+!colspan="2"|Total!!2!!0
+|}
+
+==Honours==
+'''VfB Stuttgart'''
+* [[DFB-Pokal]]: [[2024–25 DFB-Pokal|2024–25]]<ref>{{cite news |url=https://www.bbc.com/sport/football/live/c4g2rn799vet#Line-ups |title=Arminia Bielefeld 2–4 Stuttgart: Line-ups |website=BBC Sport |date=24 May 2025 |access-date=24 May 2025}}</ref>
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Soccerway|luca-antony-jaquez/809656}}
+*[https://www.sfl-org.ch/superleague/klubs/fc-luzern/player/luca-jaquez/season/202223/ SFL Profile]
+
+{{VfB Stuttgart squad}}
+{{Switzerland squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Jaquez, Luca}}
+[[Category:2003 births]]
+[[Category:Footballers from Lucerne]]
+[[Category:Living people]]
+[[Category:21st-century Swiss sportsmen]]
+[[Category:Men's association football defenders]]
+[[Category:Swiss men's footballers]]
+[[Category:Switzerland men's international footballers]]
+[[Category:Switzerland men's youth international footballers]]
+[[Category:Switzerland men's under-21 international footballers]]
+[[Category:Swiss people of Dominican Republic descent]]
+[[Category:Sportspeople of Dominican Republic descent]]
+[[Category:FC Luzern players]]
+[[Category:VfB Stuttgart players]]
+[[Category:Swiss Super League players]]
+[[Category:Swiss 1. Liga (football) players]]
+[[Category:Swiss expatriate men's footballers]]
+[[Category:Expatriate men's footballers in Germany]]
+[[Category:Swiss expatriate sportspeople in Germany]]
+[[Category:2026 FIFA World Cup players]]

@@ -1,0 +1,75 @@
+{{short description|Tunisian footballer}}
+{{Use dmy dates|date=March 2026}}
+{{Infobox football biography
+| name = Hadj Mahmoud
+| image = 
+| full_name = Mohamed Belhadj Mahmoud
+| birth_date = {{birth date and age|df=yes|2000|4|24}}
+| birth_place = [[Sousse]], [[Tunisia]]
+| height = 1.79 m
+| position = [[Defensive midfielder]]
+| currentclub = [[FC Lugano|Lugano]]
+| clubnumber = 29
+| youthyears1 = 2008–2021
+| youthclubs1 = [[Étoile Sportive du Sahel|Étoile du Sahel]]
+| years1 = 2019–2021
+| clubs1 = [[Étoile Sportive du Sahel|Étoile du Sahel]]
+| caps1 = 35
+| goals1 = 18
+| years2 = 2021–
+| clubs2 = [[FC Lugano|Lugano]]
+| caps2 = 111
+| goals2 = 14
+| nationalyears1 = 2025–
+| nationalteam1 = [[Tunisia national football team|Tunisia]]
+| nationalcaps1 = 7
+| nationalgoals1 = 0
+| club-update = 26 May 2026
+| nationalteam-update = 4 September 2025
+}}
+'''Mohamed Belhadj Mahmoud''' ({{langx|ar|مُحَمَّد بَلْحَاجّ مَحْمُود}}; born 24 April 2000) is a Tunisian professional [[association football|footballer]] who plays as a [[defensive midfielder]] for [[Swiss Super League]] club [[FC Lugano|Lugano]] and the [[Tunisia national football team|Tunisia national team]].
+
+==Career==
+Mahmoud joined the youth academy of [[Étoile Sportive du Sahel|Étoile du Sahel]] at the age of 7.<ref>{{Cite web|url=https://www.mfmsport.ma/%d8%a7%d9%84%d8%b5%d8%a7%d8%b9%d8%af-%d8%a7%d9%84%d8%ad%d8%a7%d8%ac-%d9%85%d8%ad%d9%85%d9%88%d8%af-%d9%8a%d9%88%d8%af%d8%b9-%d8%ac%d9%85%d8%a7%d9%87%d9%8a%d8%b1-%d8%a7%d9%84%d9%86%d8%ac%d9%85-%d8%a7/|title=الصاعد الحاج محمود يودع جماهير النجم الساحلي برسالة مؤثرة - MFM Sport|website=www.mfmsport.ma}}</ref> He made his professional debut with the clb in a 0–0 [[Tunisian Ligue Professionnelle 1]] tie with [[ES Métlaoui|Métlaoui]] on 8 May 2019.<ref>{{Cite web|url=https://int.soccerway.com/matches/2019/05/08/tunisia/ligue-1/etoile-sportive-de-metlaoui/etoile-sportive-du-sahel/2973702/|title=Métlaoui vs. Etoile du Sahel - 8 May 2019|website=Soccerway}}</ref> On 27 August 2021, he transferred to the Swiss club [[FC Lugano]] signing a four-year contract.<ref>{{Cite web|url=https://sport.ch/fc-lugano/828290/junger-tunesier-verstaerkt-die-bianconeri|title=Live Sport und News|website=sport.ch}}</ref>
+
+==Honours==
+'''Lugano'''
+*[[Swiss Cup]]: [[2021–22 Swiss Cup|2021–22]]<ref>{{Cite web|url=https://www.rsi.ch/sport/calcio/Tripudio-bianconero-la-Coppa-%C3%A8-del-Lugano-15328390.html|title=Tripudio bianconero, la Coppa è del Lugano!|first=RSI Radiotelevisione|last=svizzera|website=rsi}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Soccerway|mohamed-belhaj-mahmoud/611559}}
+* [https://www.sfl.ch/superleague/klubs/fc-lugano/player/mohamed-belhadj-mahmoud/season/202122 SFL Profile]
+
+{{FC Lugano squad}}
+{{Navboxes
+| title = Tunisia squads
+| bg = #E70013
+| fg = white
+| bordercolor = gainsboro
+| list1 =
+{{Tunisia squad 2023 Africa Cup of Nations}}
+{{Tunisia squad 2025 Africa Cup of Nations}}
+{{Tunisia squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Mahmoud, Hadj}}
+[[Category:2000 births]]
+[[Category:Living people]]
+[[Category:Tunisian men's footballers]]
+[[Category:Men's association football midfielders]]
+[[Category:Tunisia men's international footballers]]
+[[Category:2023 Africa Cup of Nations players]]
+[[Category:2025 Africa Cup of Nations players]]
+[[Category:Tunisian Ligue Professionnelle 1 players]]
+[[Category:Swiss Super League players]]
+[[Category:Étoile Sportive du Sahel players]]
+[[Category:FC Lugano players]]
+[[Category:Tunisian expatriate men's footballers]]
+[[Category:Tunisian expatriate sportspeople in Switzerland]]
+[[Category:Expatriate men's footballers in Switzerland]]
+[[Category:2026 FIFA World Cup players]]
+
+{{Tunisia-footy-midfielder-stub}}

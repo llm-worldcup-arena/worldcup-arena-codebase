@@ -1,0 +1,547 @@
+[
+ {
+  "player_id": "848856",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/848856",
+  "name": "JunnosukeSuzuki",
+  "shirt_number": 20,
+  "club": "Joined:",
+  "club_id": "190",
+  "market_value": "€3.50m",
+  "market_value_numeric": 3500000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Jun 30, 2030",
+  "nationality": "Denmark",
+  "citizenships": [
+   "Denmark",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan"
+  ],
+  "market_value_history": [
+   {
+    "date": "Jun 28, 2022",
+    "value": "€50k",
+    "value_numeric": 50000,
+    "club": "Shonan Bellmare",
+    "age": "18"
+   },
+   {
+    "date": "Jan 6, 2023",
+    "value": "€50k",
+    "value_numeric": 50000,
+    "club": "Shonan Bellmare",
+    "age": "19"
+   },
+   {
+    "date": "Jun 28, 2023",
+    "value": "€50k",
+    "value_numeric": 50000,
+    "club": "Shonan Bellmare",
+    "age": "19"
+   },
+   {
+    "date": "Feb 22, 2024",
+    "value": "€150k",
+    "value_numeric": 150000,
+    "club": "Shonan Bellmare",
+    "age": "20"
+   },
+   {
+    "date": "Jun 12, 2024",
+    "value": "€250k",
+    "value_numeric": 250000,
+    "club": "Shonan Bellmare",
+    "age": "20"
+   },
+   {
+    "date": "Dec 10, 2024",
+    "value": "€350k",
+    "value_numeric": 350000,
+    "club": "Shonan Bellmare",
+    "age": "21"
+   },
+   {
+    "date": "May 29, 2025",
+    "value": "€650k",
+    "value_numeric": 650000,
+    "club": "Shonan Bellmare",
+    "age": "21"
+   },
+   {
+    "date": "Dec 15, 2025",
+    "value": "€2.00m",
+    "value_numeric": 2000000,
+    "club": "FC Copenhagen",
+    "age": "22"
+   },
+   {
+    "date": "May 25, 2026",
+    "value": "€3.50m",
+    "value_numeric": 3500000,
+    "club": "FC Copenhagen",
+    "age": "22"
+   }
+  ],
+  "peak_market_value": 3500000,
+  "transfers": [],
+  "_our_pid": "per_junnosuke_suzuki"
+ },
+ {
+  "player_id": "643574",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/643574",
+  "name": "KaishuSano",
+  "shirt_number": 6,
+  "club": "Joined:",
+  "club_id": "39",
+  "market_value": "€40.00m",
+  "market_value_numeric": 40000000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Jun 30, 2028",
+  "nationality": "Germany",
+  "citizenships": [
+   "Germany",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan"
+  ],
+  "market_value_history": [
+   {
+    "date": "Jun 27, 2019",
+    "value": "€25k",
+    "value_numeric": 25000,
+    "club": "Machida Zelvia",
+    "age": "18"
+   },
+   {
+    "date": "Dec 28, 2019",
+    "value": "€250k",
+    "value_numeric": 250000,
+    "club": "Machida Zelvia",
+    "age": "18"
+   },
+   {
+    "date": "Jan 27, 2021",
+    "value": "€500k",
+    "value_numeric": 500000,
+    "club": "Machida Zelvia",
+    "age": "20"
+   },
+   {
+    "date": "Jun 28, 2021",
+    "value": "€500k",
+    "value_numeric": 500000,
+    "club": "Machida Zelvia",
+    "age": "20"
+   },
+   {
+    "date": "Jan 13, 2022",
+    "value": "€650k",
+    "value_numeric": 650000,
+    "club": "Machida Zelvia",
+    "age": "21"
+   },
+   {
+    "date": "Jun 28, 2022",
+    "value": "€700k",
+    "value_numeric": 700000,
+    "club": "Machida Zelvia",
+    "age": "21"
+   },
+   {
+    "date": "Jan 6, 2023",
+    "value": "€750k",
+    "value_numeric": 750000,
+    "club": "Machida Zelvia",
+    "age": "22"
+   },
+   {
+    "date": "Jun 28, 2023",
+    "value": "€800k",
+    "value_numeric": 800000,
+    "club": "Kashima Antlers",
+    "age": "22"
+   },
+   {
+    "date": "Jan 9, 2024",
+    "value": "€1.00m",
+    "value_numeric": 1000000,
+    "club": "Kashima Antlers",
+    "age": "23"
+   },
+   {
+    "date": "Jun 12, 2024",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "Kashima Antlers",
+    "age": "23"
+   },
+   {
+    "date": "Oct 9, 2024",
+    "value": "€2.50m",
+    "value_numeric": 2500000,
+    "club": "1.FSV Mainz 05",
+    "age": "23"
+   },
+   {
+    "date": "Dec 20, 2024",
+    "value": "€7.00m",
+    "value_numeric": 7000000,
+    "club": "1.FSV Mainz 05",
+    "age": "23"
+   },
+   {
+    "date": "Mar 27, 2025",
+    "value": "€17.00m",
+    "value_numeric": 17000000,
+    "club": "1.FSV Mainz 05",
+    "age": "24"
+   },
+   {
+    "date": "Jun 5, 2025",
+    "value": "€20.00m",
+    "value_numeric": 20000000,
+    "club": "1.FSV Mainz 05",
+    "age": "24"
+   },
+   {
+    "date": "Oct 14, 2025",
+    "value": "€25.00m",
+    "value_numeric": 25000000,
+    "club": "1.FSV Mainz 05",
+    "age": "24"
+   },
+   {
+    "date": "Dec 19, 2025",
+    "value": "€25.00m",
+    "value_numeric": 25000000,
+    "club": "1.FSV Mainz 05",
+    "age": "24"
+   },
+   {
+    "date": "May 27, 2026",
+    "value": "€40.00m",
+    "value_numeric": 40000000,
+    "club": "1.FSV Mainz 05",
+    "age": "25"
+   }
+  ],
+  "peak_market_value": 40000000,
+  "transfers": [],
+  "_our_pid": "per_kaishu_sano"
+ },
+ {
+  "player_id": "351567",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/351567",
+  "name": "KokiOgawa",
+  "shirt_number": 18,
+  "club": "Joined:",
+  "club_id": "467",
+  "market_value": "€2.00m",
+  "market_value_numeric": 2000000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Social-Media:",
+  "nationality": "Netherlands",
+  "citizenships": [
+   "Netherlands",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan"
+  ],
+  "market_value_history": [
+   {
+    "date": "Feb 25, 2016",
+    "value": "€50k",
+    "value_numeric": 50000,
+    "club": "Júbilo Iwata",
+    "age": "18"
+   },
+   {
+    "date": "Mar 25, 2017",
+    "value": "€50k",
+    "value_numeric": 50000,
+    "club": "Júbilo Iwata",
+    "age": "19"
+   },
+   {
+    "date": "Jan 5, 2018",
+    "value": "€125k",
+    "value_numeric": 125000,
+    "club": "Júbilo Iwata",
+    "age": "20"
+   },
+   {
+    "date": "Jan 5, 2019",
+    "value": "€375k",
+    "value_numeric": 375000,
+    "club": "Júbilo Iwata",
+    "age": "21"
+   },
+   {
+    "date": "Jun 27, 2019",
+    "value": "€350k",
+    "value_numeric": 350000,
+    "club": "Júbilo Iwata",
+    "age": "21"
+   },
+   {
+    "date": "Dec 28, 2019",
+    "value": "€800k",
+    "value_numeric": 800000,
+    "club": "Mito HollyHock",
+    "age": "22"
+   },
+   {
+    "date": "Apr 8, 2020",
+    "value": "€650k",
+    "value_numeric": 650000,
+    "club": "Júbilo Iwata",
+    "age": "22"
+   },
+   {
+    "date": "Jan 27, 2021",
+    "value": "€800k",
+    "value_numeric": 800000,
+    "club": "Júbilo Iwata",
+    "age": "23"
+   },
+   {
+    "date": "Jun 28, 2021",
+    "value": "€700k",
+    "value_numeric": 700000,
+    "club": "Júbilo Iwata",
+    "age": "23"
+   },
+   {
+    "date": "Jan 13, 2022",
+    "value": "€550k",
+    "value_numeric": 550000,
+    "club": "Yokohama FC",
+    "age": "24"
+   },
+   {
+    "date": "Jun 28, 2022",
+    "value": "€800k",
+    "value_numeric": 800000,
+    "club": "Yokohama FC",
+    "age": "24"
+   },
+   {
+    "date": "Jan 6, 2023",
+    "value": "€1.20m",
+    "value_numeric": 1200000,
+    "club": "Yokohama FC",
+    "age": "25"
+   },
+   {
+    "date": "Jun 28, 2023",
+    "value": "€1.20m",
+    "value_numeric": 1200000,
+    "club": "Yokohama FC",
+    "age": "25"
+   },
+   {
+    "date": "Dec 15, 2023",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "NEC Nijmegen",
+    "age": "26"
+   },
+   {
+    "date": "Mar 18, 2024",
+    "value": "€2.30m",
+    "value_numeric": 2300000,
+    "club": "NEC Nijmegen",
+    "age": "26"
+   },
+   {
+    "date": "May 31, 2024",
+    "value": "€3.00m",
+    "value_numeric": 3000000,
+    "club": "NEC Nijmegen",
+    "age": "26"
+   },
+   {
+    "date": "Dec 17, 2024",
+    "value": "€3.00m",
+    "value_numeric": 3000000,
+    "club": "NEC Nijmegen",
+    "age": "27"
+   },
+   {
+    "date": "May 28, 2025",
+    "value": "€2.50m",
+    "value_numeric": 2500000,
+    "club": "NEC Nijmegen",
+    "age": "27"
+   },
+   {
+    "date": "Dec 2, 2025",
+    "value": "€2.50m",
+    "value_numeric": 2500000,
+    "club": "NEC Nijmegen",
+    "age": "28"
+   },
+   {
+    "date": "May 28, 2026",
+    "value": "€2.00m",
+    "value_numeric": 2000000,
+    "club": "NEC Nijmegen",
+    "age": "28"
+   }
+  ],
+  "peak_market_value": 3000000,
+  "transfers": [],
+  "_our_pid": "per_koki_ogawa"
+ },
+ {
+  "player_id": "668606",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/668606",
+  "name": "YuitoSuzuki",
+  "shirt_number": 14,
+  "club": "Joined:",
+  "club_id": "60",
+  "market_value": "€24.00m",
+  "market_value_numeric": 24000000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Social-Media:",
+  "nationality": "Germany",
+  "citizenships": [
+   "Germany",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan",
+   "Japan"
+  ],
+  "market_value_history": [
+   {
+    "date": "Jan 29, 2021",
+    "value": "€300k",
+    "value_numeric": 300000,
+    "club": "Shimizu S-Pulse",
+    "age": "19"
+   },
+   {
+    "date": "Jun 29, 2021",
+    "value": "€350k",
+    "value_numeric": 350000,
+    "club": "Shimizu S-Pulse",
+    "age": "19"
+   },
+   {
+    "date": "Jan 14, 2022",
+    "value": "€500k",
+    "value_numeric": 500000,
+    "club": "Shimizu S-Pulse",
+    "age": "20"
+   },
+   {
+    "date": "Jun 28, 2022",
+    "value": "€700k",
+    "value_numeric": 700000,
+    "club": "Shimizu S-Pulse",
+    "age": "20"
+   },
+   {
+    "date": "Jan 6, 2023",
+    "value": "€700k",
+    "value_numeric": 700000,
+    "club": "Shimizu S-Pulse",
+    "age": "21"
+   },
+   {
+    "date": "Jun 27, 2023",
+    "value": "€600k",
+    "value_numeric": 600000,
+    "club": "RC Strasbourg Alsace",
+    "age": "21"
+   },
+   {
+    "date": "Dec 21, 2023",
+    "value": "€900k",
+    "value_numeric": 900000,
+    "club": "Bröndby IF",
+    "age": "22"
+   },
+   {
+    "date": "Jun 10, 2024",
+    "value": "€6.00m",
+    "value_numeric": 6000000,
+    "club": "Bröndby IF",
+    "age": "22"
+   },
+   {
+    "date": "Dec 9, 2024",
+    "value": "€7.00m",
+    "value_numeric": 7000000,
+    "club": "Bröndby IF",
+    "age": "23"
+   },
+   {
+    "date": "Jun 16, 2025",
+    "value": "€10.00m",
+    "value_numeric": 10000000,
+    "club": "Bröndby IF",
+    "age": "23"
+   },
+   {
+    "date": "Dec 19, 2025",
+    "value": "€15.00m",
+    "value_numeric": 15000000,
+    "club": "SC Freiburg",
+    "age": "24"
+   },
+   {
+    "date": "Mar 20, 2026",
+    "value": "€18.00m",
+    "value_numeric": 18000000,
+    "club": "SC Freiburg",
+    "age": "24"
+   },
+   {
+    "date": "May 27, 2026",
+    "value": "€24.00m",
+    "value_numeric": 24000000,
+    "club": "SC Freiburg",
+    "age": "24"
+   }
+  ],
+  "peak_market_value": 24000000,
+  "transfers": [],
+  "_our_pid": "per_yuito_suzuki"
+ }
+]

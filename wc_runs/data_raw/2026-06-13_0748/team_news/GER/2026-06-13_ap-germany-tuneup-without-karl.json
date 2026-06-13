@@ -1,0 +1,16 @@
+{
+ "team": "GER",
+ "source": "AP via Daily Gazette",
+ "url": "https://www.dailygazette.com/leader_herald/ap/sports/germany-wins-final-world-cup-tuneup-without-injured-midfielder-lennart-karl/article_e3ca06de-aad8-5e03-841a-6ab7932fdf2a.html",
+ "title": null,
+ "news_date": "2026-06-13",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "asof": "2026-06-13",
+ "fetched": "2026-06-13_0748",
+ "method": "fail",
+ "status": "blocked",
+ "original_text": "",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

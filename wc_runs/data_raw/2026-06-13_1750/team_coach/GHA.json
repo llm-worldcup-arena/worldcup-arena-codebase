@@ -1,0 +1,31 @@
+{
+ "team": "GHA",
+ "coach": {
+  "name_zh": "卡洛斯·奎罗斯",
+  "name_en": "Carlos Queiroz",
+  "nationality": "Portuguese Mozambique",
+  "career_since": "1989",
+  "person_id": "per_carlos_queiroz"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 卡洛斯·奎罗斯（Carlos Queiroz），葡萄牙籍莫桑比克裔教练，1989年开启执教生涯，现任加纳国家队主帅备战2026世界杯。\n- 2026世界杯L组开赛前，奎罗斯遭遇毁灭性伤病潮：摩纳哥中卫穆罕默德·萨利苏十字韧带断裂彻底报销，热刺核心穆罕默德·库杜斯因股四头肌手术康复受挫最终落选26人大名单。\n- 老将亚历山大·吉库末轮俱乐部比赛重伤离队后，奎罗斯被迫紧急征召荷兰归化后卫德里克·卢卡森，与31岁左后卫巴巴·阿卜杜勒·拉赫曼组建缺乏合练的临时防线。\n- 失去库杜斯的推进能力后，球队从激进转换打法退化为低位防守体系，依赖定位球得分，中场组织压力全部转移至带伤作战的托马斯·帕尔特伊。\n- 战术重构使前锋安托万·塞梅尼奥和乔丹·阿尤陷入孤立，被迫追逐长传解围球，单场仅能获得一次罕见得分机会。\n- 伤病潮彻底摧毁了加纳原定的小组赛L组出线计划，球队从多维进攻威胁降格为防守求生型实验单位。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.95,
+  "issues": []
+ },
+ "brief_fetched": "2026-06-13_1750",
+ "brief_info_chars": 6000,
+ "coach_xverify": {
+  "canonical": "Carlos Queiroz",
+  "confidence": "high",
+  "discrepancy": "",
+  "sources_agree": 5,
+  "n_sources": 6
+ }
+}

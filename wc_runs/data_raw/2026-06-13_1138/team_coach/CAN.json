@@ -1,0 +1,24 @@
+{
+ "team": "CAN",
+ "coach": {
+  "name_zh": "杰西·马希",
+  "name_en": "Jesse Marsch",
+  "nationality": "U.S.",
+  "career_since": "2011",
+  "person_id": "per_jesse_marsch"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 杰西·马希（Jesse Marsch），美国籍，自2011年开启执教生涯，现任加拿大国家队主教练，正率队征战2026年美加墨世界杯。\n- 队长阿方索·戴维斯因腿筋二级撕裂缺席6月12日对阵波黑的揭幕战，MRI显示恢复良好但尚未达到比赛强度。\n- 后卫穆瓦塞·邦比托正从10月胫骨骨折中恢复，马希对其采取逐日观察策略，保留至最后一刻的参赛可能。\n- 马希已与拜仁慕尼黑医疗团队制定联合康复计划，目标让戴维斯在6月18日对卡塔尔或6月25日对瑞士的小组赛前复出。\n- 斯蒂芬·尤斯塔基奥将在揭幕战担任队长，加拿大坐镇多伦多主场寻求队史世界杯首胜。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.95,
+  "issues": []
+ },
+ "brief_fetched": "2026-06-13_1138",
+ "brief_info_chars": 6000
+}

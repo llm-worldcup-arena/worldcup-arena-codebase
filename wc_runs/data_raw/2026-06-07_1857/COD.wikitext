@@ -1,0 +1,35 @@
+===Current squad===
+The following 26 players were called up to the [[2026 FIFA World Cup]], and for the pre-tournament friendly matches against [[Denmark national football team|Denmark]] and [[Chile national football team|Chile]] on 3 and 9 June 2026, respectively.<ref>{{cite web |url=https://www.instagram.com/reel/DYe3Wf7ouca/ |title=Liste officielle |trans-title=Official squad |publisher=[[Congolese Association Football Federation]] |via=[[Instagram]] |date=May 18, 2026 |access-date=May 18, 2026 |language=fr}}</ref> [[Rocky Bushiri]] withdrew injured and was replaced by [[Aaron Tshibola]] on May 20.<ref>{{cite web |url=https://www.instagram.com/fecofadrc/p/DYkCB16osKl/ |title=Communiqué officiel |trans-title=Official communication |publisher=[[Congolese Association Football Federation]] |via=[[Instagram]] |date=May 20, 2026 |access-date=May 20, 2026 |language=fr}}</ref>
+<br>''Caps and goals as of 3 June 2026, after the match against [[Denmark national football team|Denmark]].''<!-- ATTENTION: Substitutes for the friendly match vs. Bermuda are unknown. Below table to be update accordingly once known-->
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Lionel Mpasi]]|age={{birth date and age|1994|8|1|df=y}}|caps=28|goals=0|club=[[Le Havre AC|Le Havre]]|clubnat=FRA}}
+{{nat fs g player|no=16|pos=GK|name=[[Timothy Fayulu]]|age={{birth date and age|1999|7|24|df=y}}|caps=3|goals=0|club=[[FC Noah|Noah]]|clubnat=ARM}}
+{{nat fs g player|no=21|pos=GK|name=[[Matthieu Epolo]]|age={{birth date and age|2005|1|15|df=y}}|caps=1|goals=0|club=[[Standard Liège]]|clubnat=BEL}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Aaron Wan-Bissaka]]|age={{birth date and age|1997|11|26|df=y}}|caps=11|goals=0|club=[[West Ham United F.C.|West Ham United]]|clubnat=ENG}}
+{{nat fs g player|no=3|pos=DF|name=[[Steve Kapuadi]]|age={{birth date and age|1998|4|30|df=y}}|caps=4|goals=0|club=[[Widzew Łódź]]|clubnat=POL}}
+{{nat fs g player|no=4|pos=DF|name=[[Axel Tuanzebe]]|age={{birth date and age|1997|11|14|df=y}}|caps=13|goals=1|club=[[Burnley F.C.|Burnley]]|clubnat=ENG}}
+{{nat fs g player|no=5|pos=DF|name=[[Dylan Batubinsika]]|age={{birth date and age|1996|2|15|df=y}}|caps=14|goals=1|club=[[Athlitiki Enosi Larissa F.C.|AEL]]|clubnat=GRE}}
+{{nat fs g player|no=12|pos=DF|name=[[Joris Kayembe]]|age={{birth date and age|1994|8|8|df=y}}|caps=25|goals=0|club=[[K.R.C. Genk|Genk]]|clubnat=BEL}}
+{{nat fs g player|no=22|pos=DF|name=[[Chancel Mbemba]]|other=[[Captain (association football)|captain]]|age={{birth date and age|1994|8|8|df=y}}|caps=108|goals=7|club=[[Lille OSC|Lille]]|clubnat=FRA}}
+{{nat fs g player|no=24|pos=DF|name=[[Gédéon Kalulu]]|age={{birth date and age|1997|8|29|df=y}}|caps=28|goals=0|club=[[Aris Limassol FC|Aris Limassol]]|clubnat=CYP}}
+{{nat fs g player|no=26|pos=DF|name=[[Arthur Masuaku]]|age={{birth date and age|1993|11|7|df=y}}|caps=45|goals=4|club=[[RC Lens|Lens]]|clubnat=FRA}}
+{{nat fs break}}
+{{nat fs g player|no=6|pos=MF|name=[[Ngal'ayel Mukau]]|age={{birth date and age|2004|11|3|df=y}}|caps=13|goals=0|club=[[LOSC Lille|Lille]]|clubnat=FRA}}
+{{nat fs g player|no=7|pos=MF|name=[[Nathanaël Mbuku]]|age={{birth date and age|2002|3|16|df=y}}|caps=18|goals=2|club=[[Montpellier HSC|Montpellier]]|clubnat=FRA}}
+{{nat fs g player|no=8|pos=MF|name=[[Samuel Moutoussamy]]|age={{birth date and age|1996|8|12|df=y}}|caps=57|goals=0|club=[[Atromitos F.C.|Atromitos]]|clubnat=GRE}}
+{{nat fs g player|no=9|pos=MF|name=[[Brian Cipenga]]|age={{birth date and age|1998|3|11|df=y}}|caps=7|goals=0|club=[[CD Castellón|Castellón]]|clubnat=ESP}}
+{{nat fs g player|no=10|pos=MF|name=[[Théo Bongonda]]|age={{birth date and age|1995|11|20|df=y}}|caps=37|goals=7|club=[[FC Spartak Moscow|Spartak Moscow]]|clubnat=RUS}}
+{{nat fs g player|no=11|pos=MF|name=[[Gaël Kakuta]]|age={{birth date and age|1991|6|21|df=y}}|caps=30|goals=5|club=[[Athlitiki Enosi Larissa F.C.|AEL]]|clubnat=GRE}}
+{{nat fs g player|no=14|pos=MF|name=[[Noah Sadiki]]|age={{birth date and age|2004|12|17|df=y}}|caps=19|goals=0|club=[[Sunderland A.F.C.|Sunderland]]|clubnat=ENG}}
+{{nat fs g player|no=15|pos=MF|name=[[Aaron Tshibola]]|age={{birth date and age|1995|1|2|df=y}}|caps=16|goals=1|club=[[Kilmarnock F.C.|Kilmarnock]]|clubnat=SCO}}
+{{nat fs g player|no=18|pos=MF|name=[[Charles Pickel]]|age={{birth date and age|1997|5|15|df=y}}|caps=34|goals=1|club=[[RCD Espanyol|Espanyol]]|clubnat=ESP}}
+{{nat fs g player|no=25|pos=MF|name=[[Edo Kayembe]]|age={{birth date and age|1998|6|3|df=y}}|caps=42|goals=2|club=[[Watford F.C.|Watford]]|clubnat=ENG}}
+{{nat fs break}}
+{{nat fs g player|no=13|pos=FW|name=[[Meschak Elia]]|other=[[Captain (association football)|third captain]]|age={{birth date and age|1997|8|6|df=y}}|caps=68|goals=12|club=[[Alanyaspor]]|clubnat=TUR}}
+{{nat fs g player|no=17|pos=FW|name=[[Cédric Bakambu]]|other=[[Captain (association football)|vice-captain]]|age={{birth date and age|1991|4|11|df=y}}|caps=69|goals=21|club=[[Real Betis|Betis]]|clubnat=ESP}}
+{{nat fs g player|no=19|pos=FW|name=[[Fiston Mayele]]|age={{birth date and age|1994|6|24|df=y}}|caps=37|goals=6|club=[[Pyramids FC|Pyramids]]|clubnat=EGY}}
+{{nat fs g player|no=20|pos=FW|name=[[Yoane Wissa]]|age={{birth date and age|1996|9|3|df=y}}|caps=37|goals=9|club=[[Newcastle United F.C.|Newcastle United]]|clubnat=ENG}}
+{{nat fs g player|no=23|pos=FW|name=[[Simon Banza]]|age={{birth date and age|1996|8|13|df=y}}|caps=15|goals=2|club=[[Al Jazira Club|Al Jazira]]|clubnat=UAE}}
+{{nat fs end}}

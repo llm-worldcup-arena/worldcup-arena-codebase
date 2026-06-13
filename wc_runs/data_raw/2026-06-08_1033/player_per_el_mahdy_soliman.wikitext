@@ -1,0 +1,85 @@
+{{short description|Egyptian footballer (born 1987)}}
+{{Infobox football biography
+| name = El Mahdy Soliman
+| image = 
+| full_name = El Mahdy Mohamed Soliman Ibrahim<ref name="FIFA">{{cite web |url=https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf |title=FIFA World Cup 2026™ – Squad List: Egypt (EGY) |publisher=FIFA |page=17 |date=2 June 2026 |access-date=2 June 2026}}</ref>
+| birth_date = {{Birth date and age|1987|6|8|df=yes}}<ref name="FIFA"/>
+| birth_place = [[Cairo]], Egypt
+| height = 1.89 m<ref name="FIFA"/>
+| currentclub = [[Zamalek SC]]
+| clubnumber = 37
+| position = [[Goalkeeper (association football)|Goalkeeper]]
+| youthyears1 = 
+| youthclubs1 = [[ENPPI Club|ENPPI]]
+| years1 = 2007–2018
+| clubs1 = [[ENPPI Club|ENPPI]]
+| caps1 = 22
+| goals1 = 0
+| years2 = 2011
+| clubs2 = → [[Al Mokawloon Al Arab SC|Al Mokawloon Al Arab]] (loan)
+| caps2 = 3
+| goals2 = 0
+| years3 = 2011–2012
+| clubs3 = → [[Petrojet FC|Petrojet]] (loan)
+| caps3 = 10
+| goals3 = 0
+| years4 = 2012–2013
+| clubs4 = [[Petrojet FC|Petrojet]]
+| caps4 = 15
+| goals4 = 0
+| years5 = 2013–2014
+| clubs5 = [[Ghazl El Mahalla SC|Ghazl El Mahalla]]
+| caps5 = 18
+| goals5 = 0
+| years6 = 2014–2018
+| clubs6 = [[Smouha Sporting Club|Smouha]]
+| caps6 = 67
+| goals6 = 0
+| years7 = 2018–2022
+| clubs7 = [[Pyramids FC|Pyramids]]
+| caps7 = 48
+| goals7 = 0
+| years8 = 2022–2025
+| clubs8 = [[Al Ittihad Alexandria Club]]
+| caps8 = 41
+| goals8 = 0
+| nationalyears1 = 
+| nationalteam1 = 
+| nationalcaps1 = 
+| nationalgoals1 = 
+| pcupdate = 5 March 2024
+| ntupdate = 
+| years9 = 2025–
+| clubs9 = [[Zamalek SC]]
+}}
+
+'''El Mahdy Mohamed Soliman Ibrahim''' ({{langx|ar|المهدي محمد سليمان إبراهيم}}; born 8 June 1987) is an Egyptian professional [[Association football|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for the [[Egyptian Premier League]] side [[Zamalek SC]] and the [[Egypt national football team|Egypt national team]].<ref>{{Cite web |last=El-Ramady |first=Ahmed |date=2022-07-31 |title=Ittihad of Alexandria confirm signing of El-Mahdy Soliman from Pyramids |url=https://www.kingfut.com/2022/07/31/ittihad-of-alexandria-el-mahdy-soliman/ |access-date=2023-04-28 |website=KingFut |language=en-GB}}</ref>
+
+==Honours==
+'''Zamalek'''
+*[[Egyptian Premier League]]: [[2025–26 Egyptian Premier League|2025–26]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://www.efa.com.eg/ar/%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AE%D8%A8%D8%A7%D8%AA/%D8%A7%D9%84%D9%84%D8%A7%D8%B9%D8%A8%D9%8A%D9%86/%D8%A7%D9%84%D9%85%D9%87%D8%AF%D9%8A-%D8%B3%D9%84%D9%8A%D9%85%D8%A7%D9%86/ Profile] at the Egyptian Football Association website {{in lang|ar}}
+* {{UEFA player}}
+
+{{Pyramids FC squad}}
+{{Egypt squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Soliman, El Mahdy}}
+[[Category:1986 births]]
+[[Category:Living people]]
+[[Category:Egyptian men's footballers]]
+[[Category:Men's association football goalkeepers]]
+[[Category:2026 FIFA World Cup players]]
+[[Category:Al Mokawloon Al Arab SC players]]
+[[Category:Petrojet SC players]]
+[[Category:Ghazl El Mahalla SC players]]
+[[Category:Smouha SC players]]
+[[Category:Pyramids FC players]]
+[[Category:Egyptian Premier League players]]
+[[Category:ENPPI SC players]]
+[[Category:21st-century Egyptian sportsmen]]

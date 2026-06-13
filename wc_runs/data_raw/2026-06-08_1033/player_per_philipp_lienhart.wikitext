@@ -1,0 +1,287 @@
+{{short description|Austrian footballer (born 1996)}}
+{{Use dmy dates|date=August 2021}}
+{{Infobox football biography
+|name = Philipp Lienhart
+|image = Austria national under-21 football team - Teamcamp June 2017 (057).jpg
+|image_size = 
+|caption = Lienhart with Austria U21 in 2017
+|birth_date = {{Birth date and age|1996|7|11|df=y}}<ref name="DFL"/>
+|birth_place = [[Lilienfeld]], Austria
+|height = 1.89 m<ref name="DFL">{{cite web |url=https://www.bundesliga.com/en/bundesliga/player/philipp-lienhart |title=Philipp Lienhart {{!}} Sport-Club Freiburg {{!}} Player Profile {{!}} Bundesliga |website=bundesliga.com |publisher=[[Deutsche Fußball Liga|DFL]] |accessdate=10 November 2025 |archive-url=https://web.archive.org/web/20250825131751/https://www.bundesliga.com/en/bundesliga/player/philipp-lienhart |archive-date=25 August 2025 |url-status=live }}</ref>
+|position = [[Centre-back]]
+|currentclub = [[SC Freiburg]]
+|clubnumber = 3
+|youthyears1 = 2008–2015
+|youthclubs1 = [[SK Rapid Wien|Rapid Wien]]
+|youthyears2 = 2014–2015
+|youthclubs2 = → [[Real Madrid C.F.|Real Madrid]] (loan)
+|years1 = 2013–2014
+|clubs1 = [[SK Rapid Wien II|Rapid Wien II]]
+|caps1 = 28
+|goals1 = 1
+|years2 = 2014–2015
+|clubs2 = → [[Real Madrid C]] (loan)
+|caps2 = 3
+|goals2 = 0
+|years3 = 2015–2017
+|clubs3 = [[Real Madrid Castilla|Real Madrid B]]
+|caps3 = 53
+|goals3 = 1
+|years4 = 2015–2018
+|clubs4 = [[Real Madrid CF|Real Madrid]]
+|caps4 = 0
+|goals4 = 0
+|years5 = 2017–2018
+|clubs5 = → [[SC Freiburg]] (loan)
+|caps5 = 11
+|goals5 = 0
+|years6 = 2018–
+|clubs6 = [[SC Freiburg]]
+|caps6 = 198
+|goals6 = 13
+|nationalyears1 = 2014
+|nationalteam1 = [[Austria national under-18 football team|Austria U18]]
+|nationalcaps1 = 3
+|nationalgoals1 = 0
+|nationalyears2 = 2014–2015
+|nationalteam2 = [[Austria national under-19 football team|Austria U19]]
+|nationalcaps2 = 10
+|nationalgoals2 = 0
+|nationalyears3 = 2015
+|nationalteam3 = [[Austria national under-20 football team|Austria U20]]
+|nationalcaps3 = 4
+|nationalgoals3 = 0
+|nationalyears4 = 2015–2019
+|nationalteam4 = [[Austria national under-21 football team|Austria U21]]
+|nationalcaps4 = 30
+|nationalgoals4 = 2
+|nationalyears5 = 2017–
+|nationalteam5 = [[Austria national football team|Austria]]
+|nationalcaps5 = 41
+|nationalgoals5 = 3
+|pcupdate = 17:28, 16 May 2026 (UTC)
+|ntupdate = 22:14, 1 June 2026 (UTC)
+}}
+
+'''Philipp Lienhart''' (born 11 July 1996) is an Austrian professional [[Association football|footballer]] who plays as a [[centre back|centre-back]] for {{German football updater|SCFreibu}} club [[SC Freiburg]]  and the [[Austria national football team|Austria national team]].
+
+==Club career==
+
+===Rapid Wien===
+Born in [[Lilienfeld]], [[Lower Austria]], Lienhart joined [[SK Rapid Wien]]'s youth setup in 2008, aged 12. He made his senior debut for their [[reserve team]] on 16 April 2013, coming on as a late [[Substitute (association football)|substitute]] in a 3–3 away draw against [[FC Admira Wacker Mödling Amateure]] for the [[Regionalliga (Austria)|Regionalliga]] championship.
+
+===Real Madrid===
+In August 2014, after being regularly used, Lienhart was loaned to [[Real Madrid C.F.|Real Madrid]].<ref>{{cite news|url=http://www.defensacentral.com/la_fabrica/110651-castilla-refuerza-cesion-philip-lienhart/|title=El Castilla se refuerza con la cesión de Lienhart|trans-title=Castilla bolsters with the loan of Lienhart|publisher=Defensa Central|language=es|date=31 August 2014|accessdate=3 December 2015}}</ref> He competed with [[Real Madrid Juvenil|their youth team]] in [[2014–15 UEFA Youth League|the season]]'s [[UEFA Youth League]], playing seven matches and scoring in a 3–2 loss away to Liverpool in the group stage on 22 October, and also appeared with [[Real Madrid C|the C-side]] in [[Tercera División]].
+
+At the end of his first season, Lienhart was signed permanently for €800,000,<ref name=diarioas>{{cite news|last1=De la Rosa|first1=Álvario|title=Lienhart: un central de 800.000€|trans-title=Lienhart: an €800,000 defender|url=http://futbol.as.com/futbol/2015/10/16/primera/1445018976_872727.html|accessdate=17 October 2015|publisher=[[Diario AS]]|date=17 October 2015|language=Spanish}}</ref> and was subsequently promoted to [[Real Madrid Castilla|the reserves]] by manager [[Zinedine Zidane]].<ref>{{cite news|url=http://www.marca.com/2015/07/05/futbol/equipos/real_madrid/1436084389.html|title=El nuevo ejército de Zizou|trans-title=''Zizou's'' new army|publisher=[[Marca (newspaper)|Marca]]|language=es|date=5 July 2015|accessdate=3 December 2015}}</ref> He made his debut for the B-team on 30 August 2015, playing the full 90 minutes of a 2–1 win at [[CF Rayo Majadahonda]].<ref>{{cite news|url=http://www.realmadrid.com/noticias/2015/08/1-2-el-castilla-remonta-con-un-doblete-de-mariano|title=1–2: El Castilla remonta con un doblete de Mariano|trans-title=1–2: Castilla comebacks with a Mariano's double|publisher=Real Madrid's official website|date=30 August 2015|accessdate=3 December 2015}}</ref>
+
+On 3 October 2015, Lienhart scored his first Castilla goal, equalising for a 1–1 draw at [[Sestao River Club]] by heading in [[Martin Ødegaard]]'s [[corner kick]].<ref>{{cite news|title=1-1: Castilla get a point in Sestao|url=http://www.realmadrid.com/en/news/2015/10/1-1-castilla-get-a-point-in-sestao|accessdate=17 October 2015|publisher=Real Madrid's official website|date=3 October 2015}}</ref> Two weeks later, amid an injury crisis, he was included in the main squad for the first time by manager [[Rafael Benítez]], for a [[La Liga]] match against [[Levante UD]];<ref>{{cite news|title=Ramos and Arbeloa late losses for Levante game|url=http://www.marca.com/en/2015/10/16/en/football/real_madrid/1445018857.html|accessdate=17 October 2015|publisher=Marca|date=16 October 2015}}</ref> he was unused in the 3–0 win at the [[Santiago Bernabéu Stadium]]. He made his first team debut on 2 December 2015, replacing [[James Rodríguez]] in a 3–1 [[Copa del Rey]] away win against [[Cádiz CF]].<ref>{{cite news|url=http://www.marca.com/eventos/marcador/futbol/2015_16/copa/dieciseisavos/ida/cad_rma/|title=Victoria indebida|trans-title=Unduly win|publisher=Marca|language=es|date=2 December 2015|accessdate=3 December 2015}}</ref>
+
+===SC Freiburg===
+On 5 July 2017, Lienhart was loaned to [[SC Freiburg]] for one year.<ref>{{cite news|url=https://www.scfreiburg.com/news/philipp-lienhart-kommt-aus-madrid|title=Philipp Lienhart kommt aus Madrid|publisher=scfreiburg.com|language=de|date=5 July 2017|accessdate=5 July 2017|archive-date=13 October 2017|archive-url=https://web.archive.org/web/20171013065025/https://www.scfreiburg.com/news/philipp-lienhart-kommt-aus-madrid|url-status=dead}}</ref> In June 2018, the club announced they had signed him permanently from Real Madrid. The transfer fee was estimated at €2 million plus bonuses.<ref>{{cite news |title=Lienhart-Transfer: Hartenbachs Dank an Real |url=https://www.kicker.de/lienhart-transfer_hartenbachs-dank-an-real-725152/artikel |access-date=5 June 2018 |work=kicker Online |date=5 June 2018 |language=German}}</ref>
+
+==International career==
+Lienhart represented [[Austria national football team|Austria]] at the [[Austria national under-18 football team|under-18]], [[Austria national under-19 football team|under-19]], [[Austria national under-20 football team|under-20]] and [[Austria national under-21 football team|under-21 levels]].
+
+Lienhart got his first call up to the senior [[Austria national football team|Austria]] side after [[Sebastian Prödl]] withdrew through injury for [[2018 FIFA World Cup]] qualifiers against [[Wales national football team|Wales]] and [[Georgia national football team|Georgia]] in September 2017.<ref>{{cite news|title=Lienhart und Sax ersetzen Prödl und Sabitzer |url=http://www.nachrichten.at/sport/fussball/fussball-oesterreich/Lienhart-und-Sax-ersetzen-Proedl-und-Sabitzer;art127116,2667952 |accessdate=4 September 2017 |publisher=nachrichten.at|date=4 September 2017}}</ref> He made his debut playing the full 90 minutes of the final match of the qualifying campaign, a 1–0 win against [[Moldova national football team|Moldova]] in October.<ref>{{cite news|title=Philipp Lienhart: Debüt im Kinder-Riegel|url=https://www.kicker.de/philipp-lienhart_debuet-im-kinder-riegel-708047/artikel|access-date=10 October 2017|work=kicker Online|date=10 October 2017|language=German}}</ref>
+
+His first goal for [[Austria national football team|Austria]] came during a [[UEFA Euro 2024 qualifying|UEFA Euro 2024 qualifying match]] against [[Estonia national football team|Estonia]] on 16 November 2023.<ref>{{cite web|url=https://www.uefa.com/european-qualifiers/match/2036484--estonia-vs-austria/|title=Estonia vs Austria|work=[[UEFA]]}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 20 May 2026}}<ref>{{cite web|title=P. Lienhart|url=https://int.soccerway.com/players/philipp-lienhart/288859/|website=Soccerway|access-date=11 December 2025}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup{{efn|Includes [[Austrian Cup]],  [[Copa del Rey]], [[DFB-Pokal]]}}
+!colspan="2"|[[UEFA#Club|Europe]]
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="4"|[[SK Rapid Wien|Rapid Wien II]]
+|[[2012–13 Austrian Regional Leagues|2012–13]]
+|[[Austrian Regionalliga East]]
+|2||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||2||0
+|-
+|[[2013–14 Austrian Regional Leagues|2013–14]]
+|Austrian Regionalliga East
+|22||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||22||0
+|-
+|[[2014–15 Austrian Regional Leagues|2014–15]]
+|Austrian Regionalliga East
+|4||1||colspan="2"|—||colspan="2"|—||colspan="2"|—||4||1
+|-
+!colspan="2"|Total
+!28!!1!!0!!0!!0!!0!!0!!0!!28!!1
+|-
+|[[Real Madrid C]] (loan)
+|[[2014–15 Tercera División|2014–15]]
+|[[Tercera División]]
+|3||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||3||0
+|-
+|[[Real Madrid CF|Real Madrid]]
+|[[2015–16 Real Madrid CF season|2015–16]]
+|[[La Liga]]
+|0||0||1||0||0||0||0||0||1||0
+|-
+|rowspan="3"|[[Real Madrid Castilla|Real Madrid B]]
+|[[2015–16 Segunda División B|2015–16]]
+|[[Segunda División B]]
+|27||1||colspan="2"|—||colspan="2"|—||3{{efn|Appearances in [[Segunda División B play-offs|Segunda División B promotion play-offs]]}}||0||30||1
+|-
+|[[2016–17 Segunda División B|2016–17]]
+|Segunda División B
+|26||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||26||0
+|-
+!colspan="2"|Total
+!53!!1!!0!!0!!0!!0!!3!!0!!56!!1
+|-
+|[[SC Freiburg]] (loan)
+|[[2017–18 SC Freiburg season|2017–18]]
+|[[Bundesliga]]
+|11||0||1||0||2{{efn|name=UEL|Appearances in [[UEFA Europa League]]}}||0||colspan="2"|—||14||0
+|-
+|rowspan="9"|SC Freiburg
+|[[2018–19 SC Freiburg season|2018–19]]
+|Bundesliga
+|14||0||2||0||colspan="2"|—||colspan="2"|—||16||0
+|-
+|[[2019–20 SC Freiburg season|2019–20]]
+|Bundesliga
+|22||0||2||0||colspan="2"|—||colspan="2"|—||24||0
+|-
+|[[2020–21 SC Freiburg season|2020–21]]
+|Bundesliga
+|34||4||2||0||colspan="2"|—||colspan="2"|—||36||4
+|-
+|[[2021–22 SC Freiburg season|2021–22]]
+|Bundesliga
+|32||5||6||0||colspan="2"|—||colspan="2"|—||38||5
+|-
+|[[2022–23 SC Freiburg season|2022–23]]
+|Bundesliga
+|29||1||4||1||6{{efn|name=UEL}}||0||colspan="2"|—||39||2
+|-
+|[[2023–24 SC Freiburg season|2023–24]]
+|Bundesliga
+|15||1||2||0||5{{efn|name=UEL}}||0||colspan="2"|—||22||1
+|-
+|[[2024–25 SC Freiburg season|2024–25]]
+|Bundesliga
+|32||1||3||0||colspan="2"|—||colspan="2"|—||35||1
+|-
+|[[2025–26 SC Freiburg season|2025–26]]
+|Bundesliga
+|20||1||3||0||11{{efn|name=UEL}}||1|| colspan="2" |—||34||2
+|-
+!colspan="2"|Total
+!198!!13!!24!!1!!22!!1!!0!!0!!244!!15
+|-
+!colspan="3"|Career total
+!293!!15!!26!!1!!24!!1!!3!!0!!346!!17
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 1 June 2026}}<ref name="NFT">{{NFT player}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="9"|[[Austria national football team|Austria]]
+|2017||1||0
+|-
+|2019||0||0
+|-
+|2020||1||0
+|-
+|2021||7||0
+|-
+|2022||2||0
+|-
+|2023||8||1
+|-
+|2024||10||2
+|-
+|2025||9||0
+|-
+|2026||3||0
+|-
+!colspan="2"|Total||41||3
+|}
+
+:''Scores and results list Austria's goal tally first.''<ref name="NFT"/>
+{| class="wikitable" style="font-size:100%;"
+|+ List of international goals scored by Philipp Lienhart
+! No. !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| 1. || 16 November 2023 || [[Lilleküla Stadium]], [[Tallinn]], Estonia || {{fb|EST}} || align=center | 2–0 || align=center | 2–0 || [[UEFA Euro 2024 qualifying Group F|UEFA Euro 2024 qualifying]]
+|-
+| 2. || 10 October 2024 || [[Raiffeisen Arena (Linz)|Raiffeisen Arena]], [[Linz]], Austria || {{fb|KAZ}} || align=center | 2–0 || align=center | 4–0 || [[2024–25 UEFA Nations League B]]
+|-
+| 3. || 13 October 2024 || Raiffeisen Arena, Linz, Austria || {{fb|NOR}} || align=center | 3–1 || align=center | 5–1 || 2024–25 UEFA Nations League B
+|}
+
+==Honours==
+'''SC Freiburg'''
+* [[UEFA Europa League]] runner-up: [[2025–26 UEFA Europa League|2025–26]]<ref>{{Cite web |title=SC Freiburg 0 - 3 Aston Villa (May 20, 2026) ESPN |url=https://www.espn.com/soccer/report/_/gameId/401862911 |access-date=2026-05-20 |website=www.espn.com}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category}}
+* {{UEFA player}}
+* {{NFT player}}
+* {{Soccerway}}
+* {{BDFutbol}}
+* {{ÖFB player|599864}}
+* {{ÖFB player|1029656}} (national team)
+* {{Instagram}}
+
+{{SC Freiburg squad}}
+{{Navboxes
+| title = Austria squads
+| bg          = #ED2939
+| fg          = white
+| bordercolor = #860909
+| list1 =
+{{Austria squad UEFA Euro 2020}}
+{{Austria squad UEFA Euro 2024}}
+{{Austria squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Lienhart, Philipp}}
+[[Category:1996 births]]
+[[Category:Living people]]
+[[Category:People from Lilienfeld]]
+[[Category:Austrian men's footballers]]
+[[Category:Men's association football central defenders]]
+[[Category:Austrian Regionalliga players]]
+[[Category:Segunda División B players]]
+[[Category:Tercera División players]]
+[[Category:Bundesliga players]]
+[[Category:SK Rapid Wien players]]
+[[Category:Real Madrid C footballers]]
+[[Category:Real Madrid Castilla footballers]]
+[[Category:Real Madrid CF players]]
+[[Category:SC Freiburg players]]
+[[Category:Austria men's youth international footballers]]
+[[Category:Austria men's under-21 international footballers]]
+[[Category:Austria men's international footballers]]
+[[Category:UEFA Euro 2020 players]]
+[[Category:Austrian expatriate men's footballers]]
+[[Category:Austrian expatriate sportspeople in Germany]]
+[[Category:Austrian expatriate sportspeople in Spain]]
+[[Category:Expatriate men's footballers in Germany]]
+[[Category:Expatriate men's footballers in Spain]]
+[[Category:Footballers from Lower Austria]]
+[[Category:UEFA Euro 2024 players]]
+[[Category:21st-century Austrian sportsmen]]
+[[Category:2026 FIFA World Cup players]]

@@ -1,0 +1,89 @@
+{{Short description|Algerian footballer (born 2000)}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+| name = Nadhir Benbouali
+| image = Ahmed Nadhir Benbouali 2025.jpg
+| caption = Benbouali playing for [[Győri ETO FC|Győr]] in 2025
+| fullname = Ahmed Nadhir Benbouali
+| birth_date = {{birth date and age|2000|4|17|df=y}}
+| birth_place = [[Chlef]], Algeria
+| height = 1.90 m
+| position = [[Forward (association football)|Forward]]
+| currentclub = [[Győri ETO FC|Győr]]
+| clubnumber = 7
+| youthyears1 = 
+| youthclubs1 = [[ASO Chlef]]
+| youthyears2 = 2017–2020
+| youthclubs2 = [[Paradou AC]]
+| years1 = 2020–2022
+| clubs1 = [[Paradou AC]]
+| caps1 = 63
+| goals1 = 23
+| years2 = 2022–2025
+| clubs2 = [[R. Charleroi S.C.|Charleroi]]
+| caps2 = 23
+| goals2 = 2
+| years3 = 2023–2024
+| clubs3 = → [[R. Charleroi S.C.|Zébra Élites]]
+| caps3 = 8
+| goals3 = 7
+| years4 = 2024–2025
+| clubs4 = → [[Győri ETO FC|Győr]] (loan)
+| caps4 = 24
+| goals4 = 7
+| years5 = 2025–
+| clubs5 = [[Győri ETO FC|Győr]]
+| caps5 = 32
+| goals5 = 15
+| nationalyears1 = 2023–
+| nationalteam1 = [[Algeria national football team|Algeria]]
+| nationalcaps1 = 3
+| nationalgoals1 = 1
+| club-update = 17 May 2026
+| nationalteam-update = 12 November 2022
+}}
+'''Ahmed Nadhir Benbouali''' ({{langx|ar|أحمد نذير بن بوعلي}}; born 17 April 2000) is an Algerian professional [[association football|footballer]] who plays as a [[forward (association football)|forward]] for [[Nemzeti Bajnokság I]] club [[Győri ETO FC|Győr]] and the [[Algeria national football team|Algeria national team]].
+
+==Club career==
+On 23 July 2022, Benbouali joined Belgian club [[R. Charleroi S.C.|Charleroi]], signing a three-year contract with the club until 2025.<ref>{{cite web|url=https://www.dzfoot.com/verts-deurope/mercato-benbouali-signe-a-charleroi-jusquen-juin-2025-officiel-228719.html|title=Mercato : Benbouali signe à Charleroi jusqu'en juin 2025 (Officiel)|publisher=DZfoot|author=Juba Touabi|language=French|date=23 July 2022|accessdate=23 July 2022}}</ref>
+
+On 3 September 2024, Benbouali was loaned by Hungarian club [[Győri ETO FC|Győr]].<ref>{{cite web|publisher=Győr|url=https://www.eto.hu/hu/article/nadhir-benbouali-erkezett-kolcsonbe|title=Nadhir Benbouali érkezett kölcsönbe|trans-title=Nadhir Benbouali has arrived on loan|date=3 September 2024|access-date=4 September 2024|language=hu}}</ref> On 22 September 2024, he scored twice in a 2–1 victory over [[Paksi FC]].<ref>{{Cite web |date=2024-09-22 |title=Megszerezte első győzelmét a bajnokságban a Győr! |url=https://m.nemzetisport.hu/labdarugo-nb-i/2024/09/megszerezte-elso-gyozelmet-a-bajnoksagban-a-gyor |access-date=2024-09-22 |website=Nemzeti Sport |language=hu}}</ref> On 16 May 2026, he netted the only goal in a 1–0 away win for Győr over [[Kisvárda FC|Kisvárda]], securing his club's [[2025–26 Nemzeti Bajnokság I|5th league title]] on the final matchday.<ref>{{cite web |url=https://www.nemzetisport.hu/labdarugo-nb-i/2026/05/az-eto-megtette-amit-kellett-nyert-kisvardan-es-otodszor-bajnok-az-nb-i-ben |title=Az ETO megtette, amit kellett: nyert Kisvárdán, és ötödször bajnok az NB I-ben! |publisher=Nemzeti Sport |language=hu |date=16 May 2026 }}</ref>
+
+==Honours==
+'''Győr'''
+* [[Nemzeti Bajnokság I]]: [[2025–26 Nemzeti Bajnokság I|2025–26]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+* {{Soccerway|ahmed-nadir-benbouali/683076}}
+* {{MLSZ player|1431397}}
+
+{{Győri ETO FC squad}}
+{{Algeria squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Benbouali, Ahmed Nadhir}}
+[[Category:2000 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Chlef]]
+[[Category:21st-century Algerian sportsmen]]
+[[Category:Algerian men's footballers]]
+[[Category:Algeria men's international footballers]]
+[[Category:Algeria men's A' international footballers]]
+[[Category:Men's association football forwards]]
+[[Category:Algerian Ligue Professionnelle 1 players]]
+[[Category:Belgian Pro League players]]
+[[Category:Belgian Division 1 players]]
+[[Category:ASO Chlef players]]
+[[Category:Paradou AC players]]
+[[Category:Royal Charleroi SC players]]
+[[Category:Győri ETO FC players]]
+[[Category:Nemzeti Bajnokság I players]]
+[[Category:Algerian expatriate men's footballers]]
+[[Category:Algerian expatriate sportspeople in Belgium]]
+[[Category:Expatriate men's footballers in Belgium]]
+[[Category:Algerian expatriate sportspeople in Hungary]]
+[[Category:Expatriate men's footballers in Hungary]]
+[[Category:2026 FIFA World Cup players]]

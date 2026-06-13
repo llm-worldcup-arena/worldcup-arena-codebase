@@ -1,0 +1,201 @@
+{{short description|Cape Verdean footballer (born 2001)}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+| name = Gilson Benchimol
+| image = Benchimol 2024.jpg
+| caption = Benchimol with [[FC Akron Tolyatti|Akron Tolyatti]] in 2024
+| full_name = Gilson Benchimol Tavares
+| birth_date = {{birth date and age|2001|12|29|df=yes}}
+| birth_place = [[Praia]], Cape Verde
+| height = 1.87 m
+| position = [[Striker (association football)|Striker]]
+| currentclub = [[FC Akron Tolyatti|Akron Tolyatti]]
+| clubnumber = 11
+| youthyears1 = 2009–2012
+| youthclubs1 = Damaiense
+| youthyears2 = 2012–2014
+| youthclubs2 = CR Foot
+| youthyears3 = 2014–2015
+| youthclubs3 = Linda-a-Velha
+| youthyears4 = 2015–2016
+| youthclubs4 = [[Real S.C.|Real SC]]
+| youthyears5 = 2016–2020
+| youthclubs5 = Damaiense
+| youthyears6 = 2020–2021
+| youthclubs6 = [[G.D. Estoril Praia|Estoril]]
+| years1 = 2021–2024
+| clubs1 = [[G.D. Estoril Praia|Estoril]]
+| caps1 = 12
+| goals1 = 0
+| years2 = 2023–2024
+| clubs2 = → [[S.L. Benfica B|Benfica B]] (loan)
+| caps2 = 31
+| goals2 = 8
+| years3 = 2024–
+| clubs3 = [[FC Akron Tolyatti|Akron Tolyatti]]
+| caps3 = 39
+| goals3 = 8
+| nationalyears1 = 2020–
+| nationalteam1 = [[Cape Verde national football team|Cape Verde]]
+| nationalcaps1 = 21
+| nationalgoals1 = 5
+| club-update = 17 May 2026
+| nationalteam-update = 19 November 2024
+}}
+'''Gilson Benchimol Tavares''' ({{IPA|pt|ˈʒil.sɔn bẽ.ʃi.ˈmɔl ta.ˈva.ɾɨʃ|lang}}; born 29 December 2001), is a Cape Verdean professional [[Association football|footballer]] who plays as a [[Striker (association football)|striker]] for Russian club [[FC Akron Tolyatti|Akron Tolyatti]] and the [[Cape Verde national football team|Cape Verde national team]].
+
+==Club career==
+On 22 July 2024, Benchimol signed a long-term contract with [[Russian Premier League]] club [[FC Akron Tolyatti|Akron Tolyatti]].<ref>{{cite web|publisher=FC Akron Tolyatti|url=https://fcakron.ru/blog/2024/07/22/akron-podpisal-forvarda-sbornoj-kabo-verde/|title="Акрон" подписал форварда сборной Кабо-Верде|trans-title=Akron signed a forward of Cape Verde national team|date=22 July 2024|access-date=23 July 2024|language=ru}}</ref>
+
+==International career==
+Benchimol debuted for the [[Cape Verde national football team|Cape Verde national team]] in a 2–1 friendly loss to [[Guinea national football team|Guinea]] on 10 October 2020.<ref>{{Cite web|url=https://inforpress.cv/futebol-jovem-internacional-cabo-verdiano-gilson-tavares-continua-em-destaque-no-estoril-praia-em-portugal/|title=Futebol: Jovem internacional cabo-verdiano Gilson Tavares continua em destaque no Estoril-Praia em Portugal|date=December 19, 2020|access-date=March 13, 2021|archive-date=May 5, 2022|archive-url=https://web.archive.org/web/20220505014522/https://inforpress.cv/futebol-jovem-internacional-cabo-verdiano-gilson-tavares-continua-em-destaque-no-estoril-praia-em-portugal/|url-status=dead}}</ref> He scored a hat-trick in a game against the [[Liechtenstein national football team]] on 25 March 2022.<ref>{{Cite web |last=Reardon |first=Kevin |date=2022-03-27 |title=Nations Week at Pinatar Arena starts with Cape Verde Victory |url=https://theleader.info/2022/03/27/nations-week-at-pinatar-arena-starts-with-cape-verde-victory/ |access-date=2022-03-31 |website=The Leader Newspaper |language=en-US}}</ref>
+He was named in the roster for the [[2021 Africa Cup of Nations]] when the team reached the round of 16.<ref>{{cite web|url=https://www.espn.com/soccer/cape-verde-islands/story/4555552/cape-verde-include-veteran-quartet-for-afcon|title=Cape Verde include veteran quartet for AFCON|publisher=[[ESPN]]|date=23 December 2021}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 23 May 2026}}
+
+{|class="wikitable" style="text-align: center;"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|Cup
+!colspan="2"|League Cup
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="3"|[[G.D. Estoril Praia|Estoril]]
+|[[2021–22 G.D. Estoril Praia season|2021–22]]
+|[[Primeira Liga]]
+|1||0||0||0||1||0||colspan=2|—||2||0
+|-
+|[[2022–23 G.D. Estoril Praia season|2022–23]]
+|Primeira Liga
+|11||0||2||0||3||0||colspan=2|—||15||0
+|-
+!colspan="2"|Total
+!12!!0!!2!!0!!4!!0!!0!!0!!17!!0
+|-
+|rowspan="3"|[[S.L. Benfica B|Benfica B]] (loan)
+|[[2022–23 Liga Portugal 2|2022–23]]
+|[[Liga Portugal 2]]
+|16||3||colspan=2|—||colspan=2|—||colspan=2|—||16||3
+|-
+|[[2023–24 Liga Portugal 2|2023–24]]
+|Liga Portugal 2
+|15||5||colspan=2|—||colspan=2|—||colspan=2|—||15||5
+|-
+!colspan="2"|Total
+!31!!8!!0!!0!!0!!0!!0!!0!!31!!8
+|-
+|rowspan="3"|[[FC Akron Tolyatti|Akron Togliatti]]
+|[[2024–25 FC Akron Tolyatti season|2024–25]]
+|[[Russian Premier League]]
+|19||2||6||0||colspan=2|—||colspan=2|—||25||2
+|-
+|[[2025–26 Russian Premier League|2025–26]]
+|Russian Premier League
+|20||6||4||4||colspan=2|—||2{{efn|Appearance in relegation play-offs}}||2||26||12
+|-
+!colspan="2"|Total
+!39!!8!!10!!4!!0!!0!!2!!2!!51!!14
+|-
+!colspan="3"|Career total
+!82!!16!!12!!4!!4!!0!!2!!2!!100!!22
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 31 May 2026}}
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="6"|[[Cape Verde national football team|Cape Verde]]
+|2020||1||0
+|-
+|2021||4||0
+|-
+|2022||2||3
+|-
+|2023||3||1
+|-
+|2024||6||1
+|-
+|2026||1||1
+|-
+!colspan="2"|Total!!17!!6
+|}
+
+==International goals==
+{| class="wikitable"
+|-
+! No. !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| 1. || rowspan=3| 25 March 2022 || rowspan=3| [[Pinatar Arena]], [[San Pedro del Pinatar]], Spain || rowspan="3" | {{fb|LIE}} || align=center|'''1'''–0 || rowspan=3 align=center| 6–0 || rowspan=3| [[Friendly (association football)|Friendly]]
+|-
+| 2. || align=center|'''3'''–0
+|-
+| 3. || align=center|'''4'''–0
+|-
+|4.
+|10 September 2023
+|[[Stade de Kégué]], [[Lomé]], Togo
+|{{fb|TOG}}
+|align=center|'''2'''–0
+|align=center| 3–2
+|[[2023 Africa Cup of Nations qualification Group B|2023 Africa Cup of Nations qualification]]
+|-
+| 5. || 22 January 2024 || [[Felix Houphouet Boigny Stadium]], [[Abidjan]], Ivory Coast||{{fb|EGY}}||align=center|'''1'''–0||align=center|2–2||[[2023 Africa Cup of Nations Group B|2023 Africa Cup of Nations]]
+|-
+| 6. || 31 May 2026 || [[Estádio do Restelo]], [[Lisbon]], Portugal||{{fb|SRB}}||align=center|'''3'''–0||align=center|3–0||Friendly
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.foradejogo.net/player.php?player=200112290013 Fora de Jogo Profile]
+
+{{FC Akron Tolyatti squad}}
+{{Navboxes
+| title = Cape Verde squads
+| bg        = #003893
+| fg        = white
+| bordercolor = #CF2027
+| list =
+{{Cape Verde squad 2021 Africa Cup of Nations}}
+{{Cape Verde squad 2023 Africa Cup of Nations}}
+{{Cape Verde squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Benchimol, Gilson}}
+[[Category:2001 births]]
+[[Category:Living people]]
+[[Category:Cape Verdean men's footballers]]
+[[Category:21st-century Cape Verdean sportsmen]]
+[[Category:Cape Verde men's international footballers]]
+[[Category:Men's association football forwards]]
+[[Category:G.D. Estoril Praia players]]
+[[Category:S.L. Benfica B players]]
+[[Category:FC Akron Tolyatti players]]
+[[Category:Primeira Liga players]]
+[[Category:Liga Portugal 2 players]]
+[[Category:Russian Premier League players]]
+[[Category:Cape Verdean expatriate men's footballers]]
+[[Category:Expatriate men's footballers in Portugal]]
+[[Category:Cape Verdean expatriate sportspeople in Portugal]]
+[[Category:Expatriate men's footballers in Russia]]
+[[Category:Cape Verdean expatriate sportspeople in Russia]]
+[[Category:Cape Verdean people of Jewish descent]]
+[[Category:2021 Africa Cup of Nations players]]
+[[Category:2023 Africa Cup of Nations players]]
+[[Category:2026 FIFA World Cup players]]
+
+{{CapeVerde-footy-bio-stub}}

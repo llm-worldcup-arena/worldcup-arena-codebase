@@ -1,0 +1,183 @@
+{{short description|Paraguayan footballer (born 1993)}}
+{{Use dmy dates|date=September 2024}}
+{{family name hatnote|Olveira|Echeverría|lang=Spanish}}
+{{Infobox football biography
+|name = Gastón Olveira
+|image = 
+|fullname = Gastón Hernán Olveira Echeverría
+|birth_date = {{birth date and age|df=y|1993|4|21}}
+|birth_place = [[Montevideo]], Uruguay
+|height = {{height|m=1.91}}
+|currentclub = [[Club Olimpia|Olimpia]]
+|clubnumber = 1
+|position = [[Goalkeeper (association football)|Goalkeeper]]
+|youthyears1 = 
+|youthclubs1 = [[Club Atlético River Plate (Montevideo)|River Plate Montevideo]]
+|years1 = 2014–2021
+|clubs1 = [[Club Atlético River Plate (Montevideo)|River Plate Montevideo]]
+|caps1 = 95
+|goals1 = 0
+|years2 = 2021
+|clubs2 = → [[Club Olimpia|Olimpia]] (loan)
+|caps2 = 5
+|goals2 = 0
+|years3 = 2022–
+|clubs3 = [[Club Olimpia|Olimpia]]
+|caps3 = 124
+|goals3 = 0
+|nationalyears1 = 2026–
+|nationalteam1 = [[Paraguay national football team|Paraguay]]
+|nationalcaps1 = 1
+|nationalgoals1 = 0
+|pcupdate = 21 March 2026
+|ntupdate = 27 March 2026
+|medaltemplates = {{MedalCountry|{{URU}}}}
+{{MedalSport | Men's [[Football (soccer)|Football]]}}
+{{MedalCompetition|[[Pan American Games]]}}
+{{Medal|Gold|[[2015 Pan American Games|2015 Toronto]]|[[Football at the 2015 Pan American Games – Men's tournament|Team]]}}
+}}
+
+'''Gastón Hernán Olveira Echeverría''' (born 21 April 1993) is a professional [[Association football|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for [[Paraguayan Primera División]] club [[Club Olimpia]]. Born in Uruguay, he plays for the [[Paraguay national football team|Paraguay national team]].
+
+==Club career==
+Olveira began his career in 2013 with [[Club Atlético River Plate (Montevideo)|River Plate Montevideo]]. He made his league debut for the club on 19 April 2014 in a 2–1 away defeat to [[Sud América]].<ref>{{cite web|url=https://int.soccerway.com/matches/2014/04/19/uruguay/primera-division/institucion-atletica-sud-america/ca-river-plate/1652966/|title=Sud America vs. River Plate – 19 April 2014 – Soccerway|website=int.soccerway.com|access-date=23 February 2019}}</ref>
+
+On 17 January 2021, [[Club Olimpia]] announced the signing of Olveira on a season long loan deal.<ref>{{cite web|url=https://versus.lanacion.com.py/versus/2021/01/17/olimpia-presenta-a-su-nuevo-arquero-el-uruguayo-gaston-olveira/|title=Olimpia presenta a su nuevo arquero, el uruguayo Gastón Olveira|access-date=10 February 2021}}</ref> At the end of the year, River Plate bought Olveira from River Plate and signed him on a permanently 4-year deal.<ref>[https://versus.lanacion.com.py/versus/2021/12/31/river-plate-de-uruguay-oficializa-la-continuidad-de-gaston-olveira-en-olimpia/ River Plate of Uruguay formalizes the continuity of Gastón Olveira in Olimpia], versus.lanacion.com.py, 31 December 2021</ref>
+
+==International career==
+Olveira was part of Uruguay squad which won gold medal at the [[Football at the 2015 Pan American Games – Men's tournament|2015 Pan American Games]].<ref>{{cite web|title=Panamericanos: definidos los 18|url=https://www.futbol.com.uy/Deportes/Panamericanos-definidos-los-18-uc275949|access-date=12 October 2019}}</ref> On 11 October 2019, he received his first call-up to the [[Uruguay national football team|Uruguay national team]] as a replacement for [[Fernando Muslera]].<ref>{{cite web|title=Gastón Olveira convocado|url=https://www.auf.org.uy/gaston-olveira-convocado/|access-date=12 October 2019}}</ref> On 21 October 2022, he was named in Uruguay's 55-man preliminary squad for the [[2022 FIFA World Cup]].<ref>{{cite web|title=Selección: Diego Alonso entregó la lista de 55 reservados para el Mundial de Catar|url=https://www.futbol.com.uy/Deportes/Seleccion-Diego-Alonso-entrego-la-lista-de-55-reservados-para-el-Mundial-de-Catar-uc835965|date=21 October 2022|access-date=21 October 2022|language=es}}</ref>
+
+He was naturalized as Paraguayan in 2026, and was called up to the [[Paraguay national football team|Paraguay national team]] in March 2026.<ref>{{Cite web|url=https://www.elobservador.com.uy/futbol-internacional/tras-nacionalizarse-el-uruguayo-gaston-olveira-tendra-su-debut-el-arco-la-seleccion-paraguay-esta-fecha-fifa-n6038804|title=Tras nacionalizarse, el uruguayo Gastón Olveira tendrá su debut en el arco de la selección de Paraguay en esta Fecha FIFA|website=El Observador}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|21 March 2026}}<ref name="soccerway">{{Soccerway|303659}}</ref>
+{| class="wikitable" Style="text-align: center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|Cup
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="9"|[[Club Atlético River Plate (Montevideo)|River Plate Montevideo]]
+|[[2013–14 Uruguayan Primera División season|2013–14]]
+|rowspan="8"|[[Liga AUF Uruguaya]]
+|1||0|| colspan="2" |—||0||0|| colspan="2" |—||1||0
+|-
+|[[2014–15 Uruguayan Primera División season|2014–15]]
+|15||0|| colspan="2" |—||0||0|| colspan="2" |—||15||0
+|-
+|[[2015–16 Uruguayan Primera División season|2015–16]]
+|12||0|| colspan="2" |—||0||0|| colspan="2" |—||12||0
+|-
+|[[2016 Uruguayan Primera División|2016]]
+|7||0|| colspan="2" |—|| colspan="2" |—|| colspan="2" |—||7||0
+|-
+|[[2017 Uruguayan Primera División season|2017]]
+|4||0|| colspan="2" |—|| colspan="2" |—|| colspan="2" |—||4||0
+|-
+|[[2018 Uruguayan Primera División season|2018]]
+|0||0|| colspan="2" |—|| colspan="2" |—|| colspan="2" |—||0||0
+|-
+|[[2019 Uruguayan Primera División season|2019]]
+|35||0|| colspan="2" |—||4<ref group=lower-alpha name="csu">Appearances in [[Copa Sudamericana]].</ref>||0||1<ref group=lower-alpha name="tif">Appearance in Torneo Intermedio final.</ref>||0||40||0
+|-
+|[[2020 Uruguayan Primera División season|2020]]
+|21||0|| colspan="2" |—||6<ref group="lower-alpha" name="csu"/>||0||colspan="2"|—||27||0
+|-
+!colspan="2"|Total
+!95!!0!!colspan="2"|—!!10!!0!!1!!0!!106!!0
+|-
+|[[Club Olimpia|Olimpia]] (loan)
+|[[2021 Paraguayan Primera División season|2021]]
+|rowspan="6"|[[APF División de Honor]]
+|5||0|| colspan="2" |—||2<ref group=lower-alpha name="cli">Appearances in [[Copa Libertadores]].</ref>||0||0||0||7||0
+|-
+|rowspan="6"|[[Club Olimpia|Olimpia]]
+|[[2022 Paraguayan Primera División season|2022]]
+|33||0|| colspan="2" |—||11<ref group=lower-alpha name="other2022">Nine appearances in Copa Libertadores, and two appearances in Copa Sudamericana.</ref>||0|| colspan="2" |—||44||0
+|-
+|[[2023 Paraguayan Primera División season|2023]]
+|19||0|| colspan="2" |—||5<ref group="lower-alpha" name="cli"/>||0||1<ref group=lower-alpha name="suc">Appearance in [[Supercopa Paraguay]].</ref>||0||25||0
+|-
+|[[2024 Copa de Primera|2024]]
+|42||0||3||0||1<ref group="lower-alpha" name="csu"/>||0|| colspan="2" |—||46||0
+|-
+|[[2025 Copa de Primera|2025]]
+|17||0||0||0||3<ref group="lower-alpha" name="cli"/>||0|| colspan="2" |—||20||0
+|-
+|[[2026 Copa de Primera|2026]]
+|12||0||0||0||1<ref group="lower-alpha" name="csu"/>||0|| colspan="2" |—||13||0
+|-
+!colspan="2"|Total
+!128!!0!!3!!0!!23!!0!!1!!0!!155!!0
+|-
+!colspan="3"|Career total
+!223!!0!!3!!0!!33!!0!!2!!0!!261!!0
+|}
+{{reflist|group=lower-alpha}}
+
+===International===
+{{updated|match played 27 March 2026}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="1"|[[Paraguay national football team|Paraguay]]
+|2026||1||0
+|-
+!colspan="2"|Total!!1!!0
+|}
+
+==Honours==
+'''Olimpia'''
+*[[Copa Paraguay]]: [[2021 Copa Paraguay|2021]]
+*[[Supercopa Paraguay]]: [[2021 Supercopa Paraguay|2021]]
+*[[Paraguayan Primera División]]: [[2022 APF División de Honor|2022 Clausura]], [[2024 Copa de Primera|2024 Clausura]]
+
+'''Uruguay U22'''
+* [[Football at the Pan American Games|Pan American Games]]: [[Football at the 2015 Pan American Games – Men's tournament|2015]]
+
+'''Individual'''
+* [[Uruguayan Primera División]] Team of the Year: [[2019 Uruguayan Primera División season|2019]]<ref>{{cite web|title=Equipo Ideal del Campeonato Uruguayo 2019|url=https://www.auf.org.uy/equipo-ideal-del-campeonato-uruguayo-2019/|date=27 December 2019|access-date=23 December 2022}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{WorldFootball.net|gaston-olveira}}
+
+{{Olimpia Asunción squad}}
+{{Paraguay squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Olveira, Gaston}}
+[[Category:1993 births]]
+[[Category:Living people]]
+[[Category:Footballers from Montevideo]]
+[[Category:Paraguayan men's footballers]]
+[[Category:Paraguay men's international footballers]]
+[[Category:Uruguayan men's footballers]]
+[[Category:Uruguayan emigrants to Paraguay]]
+[[Category:Paraguayan people of Uruguayan descent]]
+[[Category:Uruguayan expatriate men's footballers]]
+[[Category:Men's association football goalkeepers]]
+[[Category:Pan American Games gold medalists for Uruguay]]
+[[Category:Pan American Games footballers for Uruguay]]
+[[Category:Footballers at the 2015 Pan American Games]]
+[[Category:Pan American Games gold medalists in football]]
+[[Category:Medalists at the 2015 Pan American Games]]
+[[Category:Club Atlético River Plate (Montevideo) players]]
+[[Category:Club Olimpia footballers]]
+[[Category:Uruguayan Primera División players]]
+[[Category:Paraguayan Primera División players]]
+[[Category:Uruguayan expatriate sportspeople in Paraguay]]
+[[Category:Expatriate men's footballers in Paraguay]]
+[[Category:2026 FIFA World Cup players]]

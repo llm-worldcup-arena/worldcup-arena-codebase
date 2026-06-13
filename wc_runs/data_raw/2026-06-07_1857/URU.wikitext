@@ -1,0 +1,35 @@
+===Current squad===
+The following 26 players were called up to the [[2026 FIFA World Cup]].<ref>{{cite web|title=Mundial 2026: Uruguay dio a conocer la lista de 26 convocados por Marcelo Bielsa|url=https://www.montevideo.com.uy/Deportes/Mundial-2026-Uruguay-dio-a-conocer-la-lista-de-26-convocados-por-Marcelo-Bielsa-uc963756|language=es|date=31 May 2026|access-date=31 May 2026}}</ref>
+<br>''Caps and goals correct as of 31 March 2026, after the match against [[Algeria national football team|Algeria]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Sergio Rochet]]|age={{Birth date and age|df=yes|1993|3|23}}|caps=35|goals=0|club=[[Sport Club Internacional|Internacional]]|clubnat=BRA}}
+{{nat fs g player|no=12|pos=GK|name=[[Santiago Mele]]|age={{Birth date and age|df=yes|1997|9|6}}|caps=8|goals=0|club=[[C.F. Monterrey|Monterrey]]|clubnat=MEX}}
+{{nat fs g player|no=23|pos=GK|name=[[Fernando Muslera]]|age={{Birth date and age|df=yes|1986|6|16}}|caps=134|goals=0|club=[[Estudiantes de La Plata|Estudiantes]]|clubnat=ARG}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[José María Giménez]]|other=[[Captain (association football)|captain]]|age={{Birth date and age|df=yes|1995|1|20}}|caps=99|goals=8|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=3|pos=DF|name=[[Sebastián Cáceres]]|age={{Birth date and age|df=yes|1999|8|18}}|caps=24|goals=0|club=[[Club América|América]]|clubnat=MEX}}
+{{nat fs g player|no=4|pos=DF|name=[[Ronald Araújo]]|age={{Birth date and age|df=yes|1999|3|7}}|caps=27|goals=1|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs g player|no=13|pos=DF|name=[[Guillermo Varela]]|age={{Birth date and age|df=yes|1993|3|24}}|caps=28|goals=0|club=[[CR Flamengo|Flamengo]]|clubnat=BRA}}
+{{nat fs g player|no=16|pos=DF|name=[[Mathías Olivera]]|age={{Birth date and age|df=yes|1997|10|31}}|caps=35|goals=2|club=[[SSC Napoli|Napoli]]|clubnat=ITA}}
+{{nat fs g player|no=17|pos=DF|name=[[Matías Viña]]|age={{Birth date and age|df=yes|1997|11|9}}|caps=43|goals=1|club=[[CA River Plate|River Plate]]|clubnat=ARG}}
+{{nat fs g player|no=22|pos=DF|name=[[Joaquín Piquerez]]|age={{Birth date and age|df=yes|1998|8|24}}|caps=19|goals=0|club=[[SE Palmeiras|Palmeiras]]|clubnat=BRA}}
+{{nat fs g player|no=24|pos=DF|name=[[Santiago Bueno]]|age={{Birth date and age|df=yes|1998|11|9}}|caps=8|goals=0|club=[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]|clubnat=ENG}}
+{{nat fs break}}
+{{nat fs g player|no=5|pos=MF|name=[[Manuel Ugarte (footballer)|Manuel Ugarte]]|age={{Birth date and age|df=yes|2001|4|11}}|caps=36|goals=1|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs g player|no=6|pos=MF|name=[[Rodrigo Bentancur]]|age={{Birth date and age|df=yes|1997|6|25}}|caps=74|goals=3|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG}}
+{{nat fs g player|no=7|pos=MF|name=[[Nicolás de la Cruz]]|age={{Birth date and age|df=yes|1997|6|1}}|caps=34|goals=5|club=[[CR Flamengo|Flamengo]]|clubnat=BRA}}
+{{nat fs g player|no=8|pos=MF|name=[[Federico Valverde]]|other=[[Captain (association football)|vice-captain]]|age={{Birth date and age|df=yes|1998|7|22}}|caps=73|goals=9|club=[[Real Madrid CF|Real Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=10|pos=MF|name=[[Giorgian de Arrascaeta]]|age={{Birth date and age|df=yes|1994|6|1}}|caps=60|goals=13|club=[[CR Flamengo|Flamengo]]|clubnat=BRA}}
+{{nat fs g player|no=11|pos=MF|name=[[Facundo Pellistri]]|age={{Birth date and age|df=yes|2001|12|20}}|caps=39|goals=2|club=[[Panathinaikos F.C.|Panathinaikos]]|clubnat=GRE}}
+{{nat fs g player|no=14|pos=MF|name=[[Agustín Canobbio]]|age={{Birth date and age|df=yes|1998|10|1}}|caps=15|goals=1|club=[[Fluminense FC|Fluminense]]|clubnat=BRA}}
+{{nat fs g player|no=15|pos=MF|name=[[Emiliano Martínez (footballer, born 1999)|Emiliano Martínez]]|age={{Birth date and age|df=yes|1999|8|17}}|caps=10|goals=0|club=[[SE Palmeiras|Palmeiras]]|clubnat=BRA}}
+{{nat fs g player|no=18|pos=MF|name=[[Brian Rodríguez]]|age={{Birth date and age|df=yes|2000|5|20}}|caps=32|goals=4|club=[[Club América|América]]|clubnat=MEX}}
+{{nat fs g player|no=20|pos=MF|name=[[Maximiliano Araújo]]|age={{Birth date and age|df=yes|2000|2|15}}|caps=28|goals=3|club=[[Sporting CP]]|clubnat=POR}}
+{{nat fs g player|no=25|pos=MF|name=[[Juan Manuel Sanabria]]|age={{Birth date and age|df=yes|2000|3|29}}|caps=5|goals=1|club=[[Real Salt Lake]]|clubnat=USA}}
+{{nat fs g player|no=26|pos=MF|name=[[Rodrigo Zalazar]]|age={{Birth date and age|df=yes|1999|8|12}}|caps=8|goals=2|club=[[S.C. Braga|Braga]]|clubnat=POR}}
+{{nat fs break}}
+{{nat fs g player|no=9|pos=FW|name=[[Darwin Núñez]]|age={{Birth date and age|df=yes|1999|6|24}}|caps=38|goals=13|club=[[Al Hilal SFC|Al-Hilal]]|clubnat=KSA}}
+{{nat fs g player|no=19|pos=FW|name=[[Rodrigo Aguirre]]|age={{Birth date and age|df=yes|1994|10|1}}|caps=10|goals=3|club=[[Tigres UANL|UANL]]|clubnat=MEX}}
+{{nat fs g player|no=21|pos=FW|name=[[Federico Viñas]]|age={{Birth date and age|df=yes|1998|6|30}}|caps=11|goals=2|club=[[Real Oviedo|Oviedo]]|clubnat=ESP}}
+{{nat fs end}}

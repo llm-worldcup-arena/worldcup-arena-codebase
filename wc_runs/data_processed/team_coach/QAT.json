@@ -1,0 +1,35 @@
+{
+ "team": "QAT",
+ "coach": {
+  "name_zh": "胡伦·洛佩特吉",
+  "name_en": "Julen Lopetegui",
+  "nationality": "Spain",
+  "career_since": "",
+  "person_id": "per_julen_lopetegui"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 西班牙籍教练胡伦·洛佩特吉（Julen Lopetegui）于2025年西汉姆联下课后接手卡塔尔国家队，2026年世界杯是其首次以主帅身份征战决赛圈。\n- 他曾在2018年世界杯开赛前担任西班牙主帅，但因提前签约皇家马德里被足协火线解雇，未能带队参加俄罗斯世界杯。\n- 卡塔尔在2026年世界杯前的最后一场热身赛中1-1战平萨尔瓦多，备战状态并不理想。\n- 这是卡塔尔第二次参加世界杯（2022年以东道主身份自动晋级），球队核心为攻击手阿克拉姆·阿菲夫，其自2020年起效力于卡塔尔联赛。\n- 卡塔尔将于6月13日首战对阵瑞士，后者由33岁队长格拉尼特·扎卡领衔，已连续六次晋级世界杯并在2022年闯入十六强。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.8,
+  "issues": [
+   "教练2018年被解雇史关联弱",
+   "2022年东道主身份细节冗余",
+   "球员联赛信息价值一般"
+  ]
+ },
+ "brief_fetched": "2026-06-13_1750",
+ "brief_info_chars": 6000,
+ "coach_xverify": {
+  "canonical": "Julen Lopetegui",
+  "confidence": "high",
+  "discrepancy": "CBS Sports mentions Murat Yakin, but explicitly as Switzerland's manager (since 2021), not Qatar's. No source disputes Lopetegui coaching Qatar.",
+  "sources_agree": 3,
+  "n_sources": 8
+ }
+}

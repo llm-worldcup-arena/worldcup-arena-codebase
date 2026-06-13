@@ -1,0 +1,31 @@
+{
+ "team": "NZL",
+ "coach": {
+  "name_zh": "",
+  "name_en": "Darren Bazeley",
+  "nationality": "England",
+  "career_since": "2011",
+  "person_id": "per_darren_bazeley"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- Darren Bazeley，英格兰籍教练，2023年起任新西兰国家队主帅，球员生涯效力沃特福德、狼队、沃尔索尔，并在新西兰俱乐部挂靴。\n\n- 2009年加入新西兰足协，在多年龄段梯队执教，2011年开启执教生涯后逐步晋升，接替前沃尔索尔队友丹尼·海伊执掌国家队。\n\n- 推行现代传控体系，采用不对称4-3-3或动态3-4-3阵型，强调后场组织、边后卫内收、中场推进制造人数优势，边锋拉开宽度创造传球通道。\n\n- 率新西兰在大洋洲预选赛中以绝对优势不败战绩晋级，打造融合欧洲潜力新星与本土骨干的26人年轻阵容，实现国家队从直接打法向控球风格的转型。\n\n- 即将带队征战6月11日至7月19日北美洲赛事，首战对阵伊朗，战术重点为破坏对手身体对抗型中场封锁、保持防守转换结构平衡，利用锋线空中优势打击禁区漏洞。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.92,
+  "issues": []
+ },
+ "brief_fetched": "2026-06-13_1750",
+ "brief_info_chars": 3722,
+ "coach_xverify": {
+  "canonical": "Darren Bazeley",
+  "confidence": "high",
+  "discrepancy": "",
+  "sources_agree": 4,
+  "n_sources": 8
+ }
+}

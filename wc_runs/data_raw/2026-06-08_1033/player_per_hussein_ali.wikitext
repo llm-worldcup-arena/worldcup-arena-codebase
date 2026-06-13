@@ -1,0 +1,220 @@
+{{short description|Iraqi footballer (born 2002)}}
+{{other people|Hussein Ali}}
+{{Use dmy dates|date=February 2024}}
+{{Infobox football biography
+| name = Hussein Ali
+| image = GAE - SC Heerenveen -Hussein Ali.jpg
+| upright = 0.9
+| caption = Ali with [[SC Heerenveen|Heerenveen]] in 2023
+| full_name = Hussein Haydar Hussein Ali<ref name="90m">{{cite web |title=Hussein Ali |url=http://www.90minut.pl/kariera.php?id=51634 |website=90minut.pl |access-date=30 May 2026 |language=pl}}</ref>
+| birth_date = {{Birth date and age|2002|3|1|df=y}}
+| birth_place = [[Malmö]], Sweden
+| height = 1.82 m
+| position = [[Right-back]]
+| currentclub = [[Pogoń Szczecin]]
+| clubnumber = 15
+| youthyears1 = {{0|0000}}–2019
+| youthclubs1 = [[Malmö FF]]
+| years1 = 2019–2022
+| clubs1 = [[Örebro SK]]
+| caps1 = 58
+| goals1 = 0 
+| years2 = 2022–2025
+| clubs2 = [[SC Heerenveen|Heerenveen]]
+| caps2 = 26
+| goals2 = 0
+| years3 = 2025–
+| clubs3 = [[Pogoń Szczecin]]
+| caps3 = 16
+| goals3 = 2
+| nationalyears1 = 2018–2019
+| nationalteam1 = [[Sweden men's national under-17 football team|Sweden U17]]
+| nationalcaps1 = 15
+| nationalgoals1 = 0
+| nationalyears2 = 2019–2020
+| nationalteam2 = [[Sweden men's national under-19 football team|Sweden U19]]
+| nationalcaps2 = 3
+| nationalgoals2 = 0
+| nationalyears3 = 2021–2022
+| nationalteam3 = [[Sweden national under-21 football team|Sweden U21]]
+| nationalcaps3 = 5
+| nationalgoals3 = 0
+| nationalyears4 = 2023–
+| nationalteam4 = [[Iraq national football team|Iraq]]
+| nationalcaps4 = 26
+| nationalgoals4 = 1
+| pcupdate = 09:35, 30 May 2026 (UTC)
+| nationalteam-update = 21:38, 4 June 2026 (UTC)
+}}
+
+'''Hussein Haydar Hussein Ali''' ({{langx|ar|حُسَيْن عَلِيّ}}; born 1 March 2002) is a professional [[association football|footballer]] who plays as a [[right-back]] for [[Ekstraklasa]] club [[Pogoń Szczecin]].<ref name="SW">{{Soccerway|hussein-ali/573309}}</ref> Born in Sweden, he plays for the [[Iraq national football team|Iraq national team]].
+
+==Club career==
+Born in [[Malmö]], [[Sweden]], Hussein Ali was trained by his hometown club, the [[Malmö FF]], but did not play any matches for the first team. In August 2019, at the age of 17, he joined [[Örebro SK]],<ref>{{cite web|date=13 August 2019 |language=sv |title=Officiellt: ÖSK värvar försvarare från MFF |url=https://www.fotbollskanalen.se/allsvenskan/officiellt-osk-varvar-forsvarare-fran-mff/ |website=www.fotbollskanalen.se}}<!-- auto-translated from French by Module:CS1 translator --></ref> and made this choice because of the strong competition in Malmö and considering that he would have more chances in Örebro.<ref>{{cite web|date=16 November 2020 |language=sv |title=Ali har slagit igenom i Örebro |url=https://www.allsvenskan.se/nyheter/nyheter-fran-allsvenskan.se/ali-har-slagit-igenom-i-orebro |website=www.allsvenskan.se}}<!-- auto-translated from French by Module:CS1 translator --></ref> He made his first professional appearance for Örebro in a [[Allsvenskan]] match against [[IFK Norrköping]] on 21 September 2019.
+
+On 19 July 2022, Ali joined [[Eredivisie]] side [[SC Heerenveen|Heerenveen]] on a three-year contract.<ref>{{cite web|publisher=Heerenveen|url=https://www.sc-heerenveen.nl/nieuws/2022/sc-heerenveen-legt-hussein-ali-vast-tot-2025|title=SC HEERENVEEN LEGT HUSSEIN ALI VAST TOT 2025|date=19 July 2022|access-date=20 July 2022|language=nl}}</ref>
+
+On 18 September 2025, Ali signed a three-year deal with [[Ekstraklasa]] club [[Pogoń Szczecin]].<ref>{{cite web |title=Hussein Ali nowym piłkarzem Pogoni Szczecin. Reprezentant Iraku podpisał kontrakt |url=https://szczecin.tvp.pl/89001091/hussein-ali-w-pogoni-szczecin-reprezentant-iraku-podpisal-trzyletni-kontrakt |website=szczecin.tvp.pl |access-date=18 September 2025 |language=pl |date=18 September 2025 |trans-title=Hussein Ali is a new Pogoń Szczecin player. The Iraqi international has signed a contract}}</ref>
+
+==International career==
+Ali represented Sweden at youth international level.<ref name=":0">{{Cite web |last=van der Meeren |first=Peter |date=26 August 2023 |title=Hussein Ali, de Zweed van Heerenveen die voor Irak gaat spelen, wil voorbeeld zijn. 'Volg je hart en denk groot' |url=https://lc.nl/sport/Durf-te-dromen-28608042.html |access-date=28 August 2023 |website=[[Leeuwarder Courant]] |language=nl-NL}}</ref>
+
+In August 2023, he officially switched allegiances to Iraq, and received his first call-up to the [[Iraq national football team|senior national team]] for the [[2023 King's Cup]].<ref name=":0" />
+
+He was one of twenty-six Iraqi players selected by [[Jesús Casas]] to compete in the [[2023 AFC Asian Cup]].<ref>{{cite web|date=10 January 2024 |language=en |title=Iraq Is One Of The Strong Teams In Group D Of The 2023 Asian Cup Which Is The First Opponent Of The Indonesian National Team |url=https://voi.id/en/sports/346553 |website=voi.id}}<!-- auto-translated from French by Module:CS1 translator --></ref>
+
+== Personal life ==
+Born in [[Sweden]], Ali is of [[Iraq]]i Arab descent.<ref name=":0" /><ref>{{Cite web |title=Hussein Ali |url=https://www.sport.de/fussball/pe567049/hussein-ali/ |website=sport.de}}</ref>
+
+== Career statistics ==
+=== Club ===
+{{updated|match played 23 May 2026}}
+
+{| class="wikitable" style="text-align: center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup{{efn|Includes [[Svenska Cupen]], [[KNVB Cup]]<!--, [[Polish Cup]]-->}}
+!colspan="2"|Europe
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="5"|[[Örebro SK]]
+|[[2019 Allsvenskan|2019]]
+|[[Allsvenskan]]
+|3||0||0||0||colspan="2"|—||colspan="2"|—||3||0
+|-
+|[[2020 Allsvenskan|2020]]
+|Allsvenskan
+|22||0||4||0||colspan="2"|—||colspan="2"|—||26||0
+|-
+|[[2021 Allsvenskan|2021]]
+|Allsvenskan
+|27||0||1||0||colspan="2"|—||colspan="2"|—||28||0
+|-
+|[[2022 Superettan|2022]]
+|[[Superettan]]
+|6||0||0||0||colspan="2"|—||colspan="2"|—||6||0
+|-
+!colspan="2"|Total
+!58!!0!!5!!0!!0!!0!!colspan="2"|—!!63!!0
+|-
+|rowspan="4"|[[SC Heerenveen]]
+|[[2022–23 SC Heerenveen season|2022–23]]
+|[[Eredivisie]]
+|5||0||1||0||colspan="2"|—||1{{efn|name=PO|Appearance in Eredivisie [[UEFA Conference League|Conference League]] play-offs}}||0||7||0
+|-
+|[[2023–24 SC Heerenveen season|2023–24]]
+|Eredivisie
+|15||0||1||0||colspan="2"|—||colspan="2"|—||16||0
+|-
+|[[2024–25 SC Heerenveen season|2024–25]]
+|Eredivisie
+|6||0||1||0||colspan="2"|—||1{{efn|name=PO}}||0||8||0
+|-
+!colspan="2"|Total
+!26!!0!!3!!0!!colspan="2"|—!!2!!0!!31!!0
+|-
+|[[Pogoń Szczecin]]
+|[[2025–26 Ekstraklasa|2025–26]]
+|[[Ekstraklasa]]
+|16||2||0||0||colspan="2"|—||colspan="2"|—||16||2
+|-
+!colspan="3"|Career total
+!100!!2!!8!!0!!0!!0!!2!!0!!110!!2
+|}
+{{Notelist}}
+
+===International===
+{{updated|match played 4 June 2026}}<ref name="NFT">{{NFT player|id=91997|access-date=16 September 2025}}</ref>
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="4"|[[Iraq national football team|Iraq]]
+|2023||4||0
+|-
+|2024||14||1
+|-
+|2025||6||0
+|-
+|2026||2||0
+|-
+!colspan="2"|Total!!26!!1
+|}
+
+:''Scores and results list Iraq's goal tally first, score column indicates score after each Ali goal.''
+
+{| class="wikitable sortable"
+|+ List of international goals scored by Hussein Ali
+|-
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+|-
+| style="text-align:center"|1 || 11 June 2024 || [[Basra International Stadium]], [[Basra]], Iraq || {{fb|VIE}} || style="text-align:center"|1–0 || style="text-align:center"|3–1 || [[2026 FIFA World Cup qualification (AFC)|2026 FIFA World Cup qualification]]
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{sports links}}
+
+{{Pogoń Szczecin squad}}
+{{Navboxes
+| title = Iraq squads
+| bg          = #017B3D
+| fg          = white
+| bordercolor = black
+| list =
+{{Iraq squad 2023 AFC Asian Cup}}
+{{Iraq men's football squad 2024 Summer Olympics}}
+{{Iraq squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Ali, Hussein}}
+[[Category:2002 births]]
+[[Category:Living people]]
+[[Category:Swedish people of Iraqi descent]]
+[[Category:Iraqi people of Swedish descent]]
+[[Category:Iraqi men's footballers]]
+[[Category:21st-century Iraqi sportsmen]]
+[[Category:Swedish men's footballers]]
+[[Category:Footballers from Malmö]]
+[[Category:Men's association football full-backs]]
+[[Category:Iraq men's international footballers]]
+[[Category:Sweden men's youth international footballers]]
+[[Category:Sweden men's under-21 international footballers]]
+[[Category:2023 AFC Asian Cup players]]
+[[Category:Footballers at the 2024 Summer Olympics]]
+[[Category:Olympic footballers for Iraq]]
+[[Category:Allsvenskan players]]
+[[Category:Superettan players]]
+[[Category:Eredivisie players]]
+[[Category:Ekstraklasa players]]
+[[Category:Örebro SK players]]
+[[Category:SC Heerenveen players]]
+[[Category:Pogoń Szczecin players]]
+[[Category:Iraqi expatriate men's footballers]]
+[[Category:Swedish expatriate men's footballers]]
+[[Category:Swedish expatriate sportspeople in the Netherlands]]
+[[Category:Expatriate men's footballers in the Netherlands]]
+[[Category:Swedish expatriate sportspeople in Poland]]
+[[Category:Expatriate men's footballers in Poland]]
+[[Category:21st-century Swedish sportsmen]]
+[[Category:2026 FIFA World Cup players]]
+
+
+{{Iraq-footy-bio-stub}}
+{{sweden-footy-defender-2000s-stub}}

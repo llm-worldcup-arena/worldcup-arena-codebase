@@ -1,0 +1,14 @@
+{
+ "team": "UZB",
+ "coach": {
+  "name_zh": "法比奥·卡纳瓦罗",
+  "name_en": "Fabio Cannavaro",
+  "nationality": "Italy",
+  "career_since": "2014",
+  "person_id": "per_fabio_cannavaro"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。"
+}

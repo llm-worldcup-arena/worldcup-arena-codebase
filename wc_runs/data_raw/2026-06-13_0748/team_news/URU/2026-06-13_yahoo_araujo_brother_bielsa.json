@@ -1,0 +1,16 @@
+{
+ "team": "URU",
+ "source": "Yahoo Sports",
+ "url": "https://sports.yahoo.com/articles/thanks-injuring-players-araujo-brother-072422383.html",
+ "title": "World Cup 2026: Julián Quiñones, Raúl Jiménez lead Mexico to dominant 2-0 win over South Africa",
+ "news_date": "2026-06-13",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-13",
+ "fetched": "2026-06-13_0748",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "World Cup 2026: Julián Quiñones, Raúl Jiménez lead Mexico to dominant 2-0 win over South Africa\nMexico opened the 2026 World Cup with a comfortable 2-0 win over South Africa in front of a sold-out crowd at Estadio Azteca in Mexico City.\nFollowing an Opening Ceremony that featured musical performances by Shakira, Burna Boy, EJAE and Andrea Bocelli, as well as an introduction of all 48 nations taking part in the tournament, the co-hosts didn't wait long to keep the fans entertained.\nAdvertisement\nRaúl Jiménez nearly put Mexico up a goal four minutes into the match, but his chance was denied by South Africa goalkeeper Ronwen Williams, who had a busy afternoon. El Tri would make good minutes later when a forced turnover led to Julián Quiñones picking up the loose ball just outside the Bafana box and firing a shot between Williams' legs.\nThe pressure continued for the remainder of the first half as Mexico tried to double its lead to no avail.\nSouth Africa was under attack for most of the match and could not muster any dangerous chances on Mexico goalkeeper Raúl Rangel. Their day would get tougher in the 49th minute when Yaya Sithole was given a red card for being the last defender and fouling Brian Gutiérrez just outside of the penalty box.\nSithole was also the player who turned the ball over which led to Quiñones' opening goal.\nAdvertisement\nBacked onto its heels, South Africa attempted to fend off Mexico's attack in hopes of countering for an equalizer attempt. But the match was put out of reach when Jiménez slipped past the defense undetected and headed home a Roberto Alvarado cross.\nSouth Africa went down to nine men in the 83rd minute when Themba Zwane was sent off for violent conduct after catching Alvarado in the face. Zwane and Sithole are now suspended for two matches, which could spell the end of their World Cup experience.\nIt's the first time a World Cup opening match has seen two players sent off from the same side since André Kana-Biyik and Benjamin Massing were given red cards versus Argentina in 1990.\nAdvertisement\nJune 11 - July 19 | Canada, Mexico, United States\nA third red card was handed out to Mexico's César Montes two minutes into stoppage time for taking down Khuliso Mudau. The entire 2022 World Cup saw four red cards issued throughout the entire tournament.\nThe two sides will next play on June 18 when Mexico faces South Korea in Guadalajara and South Africa takes on Czechia in Atlanta.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

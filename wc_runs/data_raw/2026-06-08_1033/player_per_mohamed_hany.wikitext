@@ -1,0 +1,175 @@
+{{Short description|Egyptian footballer (born 1996)}}
+{{BLP sources|date=March 2019}}
+{{Use dmy dates|date=July 2018}}
+{{Infobox football biography
+| name = Mohamed Hany
+| image_size = 250px
+| image = Mohamed Hany in 2021 FIFA Club World Cup.jpg
+| caption = Hany with [[Al Ahly SC|Al Ahly]] at the [[2021 FIFA Club World Cup]]
+| full_name = Mohamed Hany Gamal El-Demerdash<ref name="FIFA">{{cite web |url=https://fdp.fifa.org/assetspublic/ce71/pdf/SquadLists-English.pdf |title=FIFA Club World Cup Morocco 2022™: List of Players: Al Ahly SC |publisher=FIFA |page=1 |date=7 February 2023 |access-date=18 February 2023 |archive-url=https://web.archive.org/web/20230212205323/https://fdp.fifa.org/assetspublic/ce71/pdf/SquadLists-English.pdf |archive-date=12 February 2023 |url-status=live }}</ref>
+| birth_date = {{birth date and age|1996|2|2|df=y}}<ref name="FIFA"/>
+| birth_place = [[Cairo]], Egypt
+| height = 1.75 m<ref name="FIFA"/>
+| position = [[Right-back]]
+| currentclub = [[Al Ahly SC|Al Ahly]]
+| clubnumber = 30
+| youthyears1 = 2005–2014
+| youthclubs1 = [[Al Ahly SC|Al Ahly]]
+| years1 = 2014–
+| clubs1 = [[Al Ahly SC|Al Ahly]]
+| caps1 = 224
+| goals1 = 5
+| nationalyears1 = 2015
+| nationalteam1 = [[Egypt national under-23 football team|Egypt U23]]
+| nationalcaps1 = 2
+| nationalgoals1 = 0
+| nationalyears2 = 2016–
+| nationalteam2 = [[Egypt national football team|Egypt]]
+| nationalcaps2 = 42
+| nationalgoals2 = 0
+| club-update = 22 December 2025
+| nationalteam-update = 7 June 2026
+}}
+'''Mohamed Hany Gamal El-Demerdash''' ({{langx|ar|محمد هاني جمال الدمرداش}}; born 2 February 1996) is an Egyptian professional [[Association football|footballer]] who plays as a [[right-back]] for [[Egyptian Premier League]] club [[Al Ahly SC|Al Ahly]] and the [[Egypt national football team|Egypt national team]].<ref>{{cite news |url=https://us.soccerway.com/players/mohamed-hany-eldemerdash/396721/ |title=Mohamed Hany - Player profile |work=Soccerway |accessdate=21 March 2019}}</ref>
+
+==International career==
+
+On 2 December 2025, Hany was called up to the Egypt squad for the [[2025 Africa Cup of Nations]].<ref>{{cite web|url=https://www.cafonline.com/afcon2025/news/egypt-name-final-28-man-squad-for-totalenergies-caf-afcon-2025-salah-leads-pharaohs-charge/|title=Egypt name final 28-man squad for TotalEnergies CAF AFCON 2025, Salah leads Pharaohs' charge|publisher=[[Confederation of African Football]]|date=2 December 2025|access-date=12 December 2025}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 29 March 2024}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup{{Efn|Includes [[Egypt Cup]], [[Egyptian League Cup]]}}
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="10"|[[Al Ahly]]
+|[[2014-15 Egyptian Premier League|2014-15]]
+|[[Egyptian Premier League]]
+|13||0||3||0||2{{efn|Appearance(s) in [[CAF Champions League]]|name=CCL}}||0||colspan="2"|—||18||0
+|-
+|[[2015-16 Egyptian Premier League|2015-16]]
+|Egyptian Premier League
+|15||0||2||0||5{{Efn|name=CCL}}||0||colspan="2"|—||22||0
+|-
+|[[2016-17 Egyptian Premier League|2016-17]]
+|Egyptian Premier League
+|17||0||1||0||6{{Efn|name=CCL}}||0||1{{efn|Appearance(s) in [[Egyptian Super Cup]]|name=ESC}}||0||25||0
+|-
+|[[2017-18 Egyptian Premier League|2017-18]] 
+|Egyptian Premier League
+|19||1||2||0||7{{Efn|name=CCL}}||0||colspan="2"|—||28||1
+|-
+|[[2018-19 Egyptian Premier League|2018-19]] 
+|Egyptian Premier League
+|20||1||1||0||9{{Efn|name=CCL}}||0||1{{Efn|name=ESC}}||0||31||1
+|-
+|[[2019-20 Egyptian Premier League|2019-20]]
+|Egyptian Premier League
+|29||1||3||0||8{{Efn|name=CCL}}|||0||1{{efn|name=ESC}}||0||41||1
+|-
+|[[2020-21 Egyptian Premier League|2020-21]]
+|Egyptian Premier League
+|22||0||3||0||7{{efn|name=CCL}}||0||5{{Efn|One appearance in Egyptian Super Cup, one appearance in [[CAF Super Cup]] & three appearances in [[FIFA Club World Cup]]}}||0||37||0
+|-
+|[[2021-22 Egyptian Premier League|2021-22]]
+|Egyptian Premier League
+|22||0||6||0||10{{efn|name=CCL}}||0||3{{Efn|Appearance(s) in FIFA Club World Cup}}||1||41||1
+|-
+|[[2022-23 Egyptian Premier League|2022-23]]
+|Egyptian Premier League
+|21||0||5||0||13{{Efn|name=CCL}}||0||5{{Efn|One appearance in Egyptian Super Cup & four appearances in FIFA Club World Cup}}||0||44||0
+|-
+|[[2023-24 Egyptian Premier League|2023-24]] 
+|Egyptian Premier League
+|11||1||colspan="2"|—||8{{efn|name=CCL}}||0||9{{efn|One appearance in CAF Super Cup, two appearance in Egyptian Super Cup, three appearances in FIFA Club World Cup & three appearances in [[African Football League]]}}||0||28||1
+|-
+!colspan="3"|Career Total
+!189!!4!!26!!0!!75!!0!!25!!1!!315!!5
+|}
+{{notelist}}
+
+===International===
+:''Statistics accurate as of match played 26 March 2024.''
+
+{| class="wikitable" style="text-align:center"
+! colspan=3 | [[Egypt national football team|Egypt]]
+|-
+!Year!!Apps!!Goals
+|-
+|2016||2||0
+|-
+|2017||0||0
+|-
+|2018||0||0
+|-
+|2019||3||0
+|-
+|2020||1||0
+|-
+|2021||1||0
+|-
+|2022||0||0
+|-
+|2023||7||0
+|-
+|2024||5||0
+|-
+!Total||19||0
+|}
+
+==Honours==
+===Al Ahly===
+
+* [[Egyptian Premier League]]: [[2015–16 Egyptian Premier League|2015–16]], [[2016–17 Egyptian Premier League|2016–17]], [[2017–18 Egyptian Premier League|2017–18]], [[2018–19 Egyptian Premier League|2018–19]], [[Egyptian Premier League|2019–20]], [[2022–23 Egyptian Premier League|2022–23]], [[2023–24 Egyptian Premier League|2023–24]], [[2024–25 Egyptian Premier League|2024–25]]
+* [[Egypt Cup]]: [[2016–17 Egypt Cup|2016–17]], [[2019–20 Egypt Cup|2019–20]], [[2021–22 Egypt Cup|2021–22]], [[2022–23 Egypt Cup|2022–23]]
+* [[Egyptian Super Cup]]: [[2017–18 Egyptian Super Cup|2017–18]], [[2018–19 Egyptian Super Cup|2018–19]], [[2021–22 Egyptian Super Cup|2021–22]], [[2022–23 Egyptian Super Cup|2022–23]], [[2023–24 Egyptian Super Cup|2023–24]], [[2024–25 Egyptian Super Cup|2024–25]], [[2025–26 Egyptian Super Cup|2025–26]]
+* [[CAF Champions League]]: [[2019–20 CAF Champions League|2019–20]], [[2020–21 CAF Champions League|2020–21]], [[2022–23 CAF Champions League|2022–23]], [[2023–24 CAF Champions League|2023–24]]
+* [[CAF Super Cup]]: [[2021 CAF Super Cup (May)|2021 (May)]], [[2021 CAF Super Cup (December)|2021 (December)]]
+* [[FIFA African–Asian–Pacific Cup]]: [[2024 FIFA Intercontinental Cup#Second round|2024]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{UEFA player}}
+
+{{Al Ahly SC squad}}
+{{Navboxes
+| title = Egypt squads
+| bg = #CE1126
+| fg = white
+| bordercolor = black
+| list1 =
+{{Egypt squad 2023 Africa Cup of Nations}}
+{{Egypt squad 2025 Africa Cup of Nations}}
+{{Egypt squad 2026 FIFA World Cup}}
+}}
+{{2022–23 Egyptian Premier League Team of the Season}}
+{{Authority control}}
+
+{{DEFAULTSORT:Hany, Mohamed}}
+[[Category:1996 births]]
+[[Category:Living people]]
+[[Category:Footballers from Cairo]]
+[[Category:Egyptian men's footballers]]
+[[Category:Egypt men's youth international footballers]]
+[[Category:Egypt men's international footballers]]
+[[Category:Men's association football full-backs]]
+[[Category:Egyptian Premier League players]]
+[[Category:Al Ahly SC players]]
+[[Category:2023 Africa Cup of Nations players]]
+[[Category:2025 Africa Cup of Nations players]]
+[[Category:2026 FIFA World Cup players]]
+[[Category:CAF Champions League–winning players]]
+[[Category:21st-century Egyptian sportsmen]]

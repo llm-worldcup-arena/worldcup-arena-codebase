@@ -1,0 +1,104 @@
+{{short description|Saudi Arabian footballer}}
+{{Use dmy dates|date=September 2024}}
+{{Notability|1=Biographies|date=June 2022}}
+{{Infobox football biography
+| name        = Jehad Thakri
+| image       =  
+| fullname    = Jehad Abdullatif Ahmed Thakri<ref name="fbref">{{cite web |title=Jehad Thakri |url=https://fbref.com/en/players/cf4eaaa7/Jehad-Abdullatif}}</ref>
+| birth_date  = {{birth date and age|2001|07|21|df=yes}}
+| birth_place = [[Khobar]], [[Saudi Arabia]]
+| height      = {{height|m=1.83|precision=}}
+| position    = [[Defender (association football)|Defender]]
+| currentclub = [[Al-Qadsiah FC|Al-Qadsiah]]
+| clubnumber  = 4
+| youthyears1 = –2021
+| youthclubs1 = [[Al-Qadsiah FC|Al-Qadsiah]]
+| youthyears2 = 
+| youthclubs2 = 
+| years1 = 2021–
+| clubs1 = [[Al-Qadsiah FC|Al-Qadsiah]]
+| caps1  = 86
+| goals1 = 2
+| years2 = 
+| clubs2 = 
+| caps2  = 
+| goals2 = 
+| years3 = 
+| clubs3 = 
+| caps3  = 
+| goals3 = 
+| nationalyears1 = 2021–2023
+| nationalteam1  = [[Saudi Arabia national under-23 football team|Saudi Arabia U23]]
+| nationalcaps1  = 
+| nationalgoals1 = 
+| nationalyears2 = 2025–
+| nationalteam2  = [[Saudi Arabia national football team|Saudi Arabia]]
+| nationalcaps2  = 7
+| nationalgoals2 = 0
+| pcupdate       = 26 May 2025
+| ntupdate       = 6 June 2026
+}}
+
+'''Jehad Abdullatif Ahmed Thakri''' ({{langx|ar|جهاد ذكري}}; born 21 July 2001) is a [[Saudi Arabia]]n [[football (soccer)|footballer]] who plays as a [[Defender (association football)|defender]] for [[Al-Qadsiah FC|Al-Qadsiah]] and the [[Saudi Arabia national football team|Saudi Arabia national team]].<ref>{{cite web |title=جهاد عبداللطيف ذكري - Jahad Thakri |url=https://www.kooora.com/?player=145316}}</ref><ref name="soccerway">{{cite web |title=JEHAD ABDULLATIF |url=https://int.soccerway.com/players/jehad-abdullatif-ahm/691364/}}</ref>
+
+==Career==
+Thakri started his career at the youth teams of [[Al-Qadsiah FC|Al-Qadsiah]]. On 5 November 2020, Thakri signed his first professional contract with Al-Qadsiah.<ref>{{cite web |title="القادسية" يوقع 10 عقود احترافية مع "شبابه" |date=5 November 2020 |url=https://akhbaar24.argaam.com/article/detail/518288}}</ref> He made his first-team debut on 23 February 2021 in the league match against [[Al-Batin FC|Al-Batin]].<ref>{{cite web |title=AL BATIN VS. AL-QADSIAH 2 – 2 |url=https://int.soccerway.com/matches/2021/02/23/saudi-arabia/pro-league/al-baten/al-quadisiya-khobar/3443270/}}</ref>
+
+==Career statistics==
+===Club===
+
+{| class="wikitable" style="text-align: center;"
+|-
+! rowspan=2| Club 
+! rowspan=2| Season 
+! colspan=3| League 
+! colspan=2| National Cup 
+! colspan=2| Continental 
+! colspan=2| Total 
+|-
+! League 
+! Apps !! Goals !! Apps !! Goals !! Apps !! Goals !! Apps !! Goals 
+|-
+|rowspan="2"|[[Al Qadsiah FC|Al Qadsiah]]
+|[[2020-21 Saudi Pro League|2020-21]]
+|[[Saudi Pro League]]
+|1||0||0||0||colspan=2|—||1||0
+|-
+|[[2023-24 Saudi First Division League|2023-24]]
+|[[Saudi First Division League]]
+|23||0||0||0||colspan=2|—||23||0
+|-
+! colspan=3| Total 
+!24!!0!!0!!0!!0!!0!!24!!0
+|}
+
+==Honours==
+'''Al-Qadsiah'''
+* [[Saudi First Division League|First Division League]]: [[2023–24 Saudi First Division League|2023–24]]<ref>{{cite web |title=يلو.. القادسية يضرب بالأربعة ويتوّج بطلا |url=https://arriyadiyah.com/839984}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Soccerway|691364}}
+* {{Goalzz|145316}}
+
+{{Al-Qadisiyah FC squad}}
+{{Saudi Arabia squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Thakri, Jehad}}
+[[Category:Living people]]
+[[Category:2001 births]]
+[[Category:Sportspeople from Khobar]]
+[[Category:Saudi Arabian men's footballers]]
+[[Category:Men's association football defenders]]
+[[Category:Al Qadsiah FC players]]
+[[Category:Saudi Pro League players]]
+[[Category:Saudi First Division League players]]
+[[Category:Saudi Arabia men's youth international footballers]]
+[[Category:Saudi Arabia men's international footballers]]
+[[Category:21st-century Saudi Arabian sportsmen]]
+[[Category:2026 FIFA World Cup players]]
+
+
+{{SaudiArabia-footy-defender-stub}}

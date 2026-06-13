@@ -1,0 +1,24 @@
+{
+ "team": "BEL",
+ "coach": {
+  "name_zh": "鲁迪·加西亚",
+  "name_en": "Rudi Garcia",
+  "nationality": "France",
+  "career_since": "1994",
+  "person_id": "per_rudi_garcia"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 鲁迪·加西亚（Rudi Garcia），法国籍教练，自1994年开启执教生涯，现任比利时国家队主帅，将率队征战2026年世界杯。\n- 他是比利时历史上第四位非比利时籍世界杯教头，26人名单包含德布劳内、多库、特罗萨德等英超主力。\n- 选人策略冒险征召多名伤号：赛季仅踢5场意甲的卢卡库、伤缺数月的库尔图瓦及训练中受伤的泽诺·德巴斯特均入围。\n- 阵容取舍引发关注：放弃17岁新星内森·德卡特和尤文替补奥彭达，但补入刚完成国籍转换的费南德斯-帕尔多作为锋线备选。\n- 门将配置最终确定为三人，此前关于带四名门将的猜测不实，库尔托伊斯及时康复成为关键。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.95,
+  "issues": []
+ },
+ "brief_fetched": "2026-06-13_1138",
+ "brief_info_chars": 5915
+}

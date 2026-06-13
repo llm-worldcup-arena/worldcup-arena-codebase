@@ -1,0 +1,210 @@
+{{short description|Panamanian footballer (born 1993)}}
+{{family name hatnote|Fajardo|Nelson|lang=Spanish}}
+{{Use dmy dates|date=May 2018}}
+{{Infobox football biography
+| name = José Fajardo
+| fullname = José Fajardo Nelson
+| image = 
+| height = 1.80m
+| birth_date = {{Birth date and age|df=yes|1993|8|18}}
+| birth_place = [[Colón, Panama|Colón]], Panama
+| position = [[Forward (association football)|Forward]]
+| currentclub = [[C.D. Universidad Católica del Ecuador|Universidad Católica]]
+| clubnumber = 7
+| years1 = 2017–2021
+| clubs1 = [[C.A. Independiente de La Chorrera|CAI]]
+| caps1 = 58
+| goals1 = 26
+| years2 = 2018–2019
+| clubs2 = → [[Al-Kawkab FC|Al-Kawkab]] (loan)
+| caps2 = 
+| goals2 = 
+| years3 = 2020
+| clubs3 = → [[La Equidad]] (loan)
+| caps3 = 
+| goals3 = 
+| years4 = 2021
+| clubs4 = [[Club 9 de Octubre|9 de Octubre]]
+| caps4 = 27
+| goals4 = 12
+| years5 = 2022–2023
+| clubs5 = [[Cusco FC]]
+| caps5 = 37
+| goals5 = 20
+| years6 = 2023
+| clubs6 = [[D.C. United]]
+| caps6 = 7
+| goals6 = 0
+| years7 = 2024–
+| clubs7 = [[C.A. Independiente de La Chorrera|CAI]]
+| caps7 = 0
+| goals7 = 0
+| years8 = 2024–
+| clubs8 = → [[C.D. Universidad Católica del Ecuador|Universidad Católica]] (loan)
+| caps8 = 52
+| goals8 = 22
+| nationalyears1 = 2017–
+| nationalteam1 = [[Panama national football team|Panama]]
+| nationalcaps1 = 63
+| nationalgoals1 = 17
+| medaltemplates = {{Medal|Sport|Men's [[association football|football]]}}
+{{Medal|Country|{{fb|PAN}}}}
+{{MedalCompetition|[[CONCACAF Gold Cup]]}}
+{{Medal|RU|[[2023 CONCACAF Gold Cup|2023 United States–Canada]]|[[2023 CONCACAF Gold Cup squads#Panama|Team]]}}
+{{MedalCompetition|[[CONCACAF Nations League]]}}
+{{Medal|RU|[[2025 CONCACAF Nations League Finals|2025 United States]]|[[2025 CONCACAF Nations League Finals squads#Panama|Team]]}}
+| pcupdate = 8 November 2025
+| ntupdate = 18 November 2025
+}}
+'''José Fajardo Nelson''' (born 18 August 1993) is a Panamanian [[Association football|footballer]] who plays as a [[Forward (association football)|forward]] for [[C.D. Universidad Católica del Ecuador|Universidad Catolica del Ecuador]] on loan from [[C.A. Independiente de La Chorrera|CAI]] and the [[Panama national football team|Panama national team]].<ref name="soccerway">{{cite web |url=https://int.soccerway.com/players/jose-fajardo-nelson/491588/ |title=Panama – J. Fajardo – Profile with news, career statistics and history |website=Soccerway |publisher=[[Perform Group]] |access-date=15 May 2018}}</ref>
+
+==Club career==
+Fajardo began his career with promoted side [[Independiente F.C.|Independiente]] in the [[Liga Panameña de Fútbol]] during the 2017–18 season. Fajardo finished as top scorer of the [[2017–18 Liga Panameña de Fútbol season|2018 Clausura]], leading Independiente to their first ever national league title.<ref name="soccerway"/>
+
+==International career==
+Fajardo made his international debut for [[Panama national football team|Panama]] on 25 October 2017 in a 5–0 [[Exhibition game|friendly]] away win against [[Grenada national football team|Grenada]]. On 14 May 2018, Fajardo was included in Panama's preliminary squad for the [[2018 FIFA World Cup]],<ref>{{cite news |url=https://es.fifa.com/worldcup/news/panama-anuncia-su-lista-provisional-rusia-2018 |title=Panamá anuncia su lista provisional |trans-title=Panama announces its provisional list |website=FIFA.com |publisher=Fédération Internationale de Football Association |date=14 May 2018 |access-date=15 May 2018 |language=Spanish}}</ref> but was not able to make the final 23.<ref>{{Cite web|url=http://www.espn.co.uk/football/panama/story/3513736/panamas-final-world-cup-squad-includes-six-mls-players|title = Panama's final squad includes 6 MLS players|date = 30 May 2018}}</ref> On 27 June 2024, Fajardo scored against the [[USMNT|United States]] in the [[2024 Copa America]] to win the game in the 83rd minute.
+
+==Career statistics==
+===International===
+{{updated|match played 18 November 2025}}<ref name="NFT">{{NFT player}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="9"|[[Panama national football team|Panama]]
+|2017||1||0
+|-
+|2018||1||0
+|-
+|2019||7||0
+|-
+|2020||4||2
+|-
+|2021||10||1
+|-
+|2022||7||1
+|-
+|2023||13||6
+|-
+|2024||13||5
+|-
+|2025||7||2
+|-
+!colspan="2"|Total||63||17
+|}
+
+:''Scores and results list Panama's goal tally first, score column indicates score after each Fajardo goal.''
+
+{| class="wikitable sortable"
+|+ List of international goals scored by José Fajardo<ref name="NFT"/>
+|-
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+|-
+| style="text-align:center"|1 || rowspan="2"| 16 November 2020 || rowspan="2"| [[Stadion Wiener Neustadt]], [[Wiener Neustadt]], Austria || rowspan="2"| {{fb|USA}} || style="text-align:center"|1–0 || rowspan="2" style="text-align:center"|2–6 || rowspan="2"| [[Friendly (association football)|Friendly]]
+|-
+| style="text-align:center"|2 || style="text-align:center"|2–3
+|-
+| style="text-align:center"|3 || 28 March 2021 || [[Félix Sánchez Olympic Stadium]], [[Santo Domingo]], Dominican Republic || {{fb|DMA}} || style="text-align:center"|2–1 || align=center | 2–1 || [[2022 FIFA World Cup qualification – CONCACAF first round|2022 FIFA World Cup qualification]]
+|-
+| style="text-align:center"|4 || 15 November 2022 || [[Al Hamriya Sports Club Stadium]], [[Al Hamriyah]], United Arab Emirates || {{fb|VEN}} || style="text-align:center"|1–0 || style="text-align:center"|2–2|| Friendly
+|-
+| style="text-align:center"|5 || 28 March 2023 || [[Estadio Nacional de Costa Rica (2011)|Estadio Nacional]], [[San José, Costa Rica|San José]], Costa Rica || {{fb|CRC}} || style="text-align:center"|1–0 || style="text-align:center"|1–0|| [[2022–23 CONCACAF Nations League A]]
+|-
+| style="text-align:center"|6 || 26 June 2023 || [[DRV PNK Stadium]], [[Fort Lauderdale, Florida|Fort Lauderdale]], United States || {{fb|CRC}} || style="text-align:center"|1–0 || style="text-align:center"|2–1 || [[2023 CONCACAF Gold Cup Group C|2023 CONCACAF Gold Cup]]
+|-
+| style="text-align:center"|7 || 30 June 2023 || [[Red Bull Arena (New Jersey)|Red Bull Arena]], [[Harrison, New Jersey|Harrison]], United States || {{fb|MTQ}} || style="text-align:center"|1–0 || style="text-align:center"|2–1 || 2023 CONCACAF Gold Cup
+|-
+| style="text-align:center"|8 || 7 September 2023 || [[Estadio Universitario (Panama)|Estadio Universitario]], [[Penonomé, Coclé|Penonomé]], Panama || {{fb|MTQ}} || style="text-align:center"|1–0|| style="text-align:center"|3–0|| [[2023–24 CONCACAF Nations League A]]
+|-
+| style="text-align:center"|9 || 16 November 2023 || [[Estadio Ricardo Saprissa Aymá]], San José, Costa Rica || {{fb|CRC}} || style="text-align:center"|2–0|| style="text-align:center"|3–0 || 2023–24 CONCACAF Nations League A
+|-
+| style="text-align:center"|10 || 20 November 2023 || [[Estadio Rommel Fernández]], Panama City, Panama || {{fb|CRC}} || style="text-align:center"|1–0|| style="text-align:center"|3–1 || 2023–24 CONCACAF Nations League A
+|-
+| style="text-align:center"|11 || 9 June 2024 || [[Nicaragua National Football Stadium|Estadio Nacional]], [[Managua]], Nicaragua || {{fb|MSR}} || style="text-align:center"|2–1 || style="text-align:center"|3–1|| [[2026 FIFA World Cup qualification – CONCACAF second round|2026 FIFA World Cup qualification]]
+|-
+| style="text-align:center"|12 || 27 June 2024 || [[Mercedes-Benz Stadium]], [[Atlanta]], United States || {{fb|USA}} || style="text-align:center"|2–1 || style="text-align:center"|2–1|| [[2024 Copa América Group C|2024 Copa América]]
+|-
+| style="text-align:center"|13 || 1 July 2024 || [[Inter&Co Stadium]], [[Orlando, Florida|Orlando]], United States || {{fb|BOL}} || style="text-align:center"|1–0 || style="text-align:center"|3–1 || 2024 Copa América
+|-
+| style="text-align:center"|14 || 15 October 2024 || [[BMO Field]], Toronto, Canada || {{fb|CAN}} || style="text-align:center"|1–1|| style="text-align:center"|1–2 || Friendly
+|-
+| style="text-align:center"|15 || 14 November 2024 || Estadio Nacional, San José, Costa Rica || {{fb|CRC}} || style="text-align:center"|1–0 || style="text-align:center"|1–0|| [[2024–25 CONCACAF Nations League A]]
+|-
+| style="text-align:center"|16 || 10 October 2025 || [[Cuscatlán Stadium]], [[San Salvador]], El Salvador || {{fb|ESA}} || align=center | 1–0 || align=center | 1–0 || rowspan="2" | [[2026 FIFA World Cup qualification – CONCACAF third round|2026 FIFA World Cup qualification]]
+|-
+| style="text-align:center"|17 || 13 November 2025 || [[Cementos Progreso Stadium]], [[Guatemala City]], Guatemala || {{fb|GUA}} || align=center | 3–2 || align=center | 3–2
+|}
+
+==Honours==
+'''Independiente'''
+
+* [[Liga Panameña de Fútbol]]: [[2017–18 Liga Panameña de Fútbol season|2018 Clausura]]<ref>{{cite news |url=https://ve.besoccer.com/noticia/cai-derrota-a-tauro-y-se-corona-campeon-del-clausura-431434 |title=CAI derrota a Tauro y se corona campeón del Clausura |trans-title=CAI defeats Tauro and is crowned Clausura champion |publisher=Besoccer.com |date=19 May 2018 |access-date=20 May 2018 |language=Spanish}}</ref>
+
+'''Cusco'''
+*[[Peruvian Segunda División]]: [[2022 Liga 2 (Peru)|2022]]
+
+'''Universidad Católica'''
+
+* '''[[Copa Ecuador]]''':  [[2025 Copa Ecuador|2025]]
+
+'''Panama'''
+
+* [[CONCACAF Gold Cup]] runner-up: [[2023 CONCACAF Gold Cup|2023]]<ref>{{Cite web |title=Mexico 1-0 Panama (Jul 16, 2023) Final Score |url=https://www.espn.com/soccer/match/_/gameId/678990/panama-mexico |access-date=2025-03-27 |website=ESPN |language=en}}</ref>
+* [[CONCACAF Nations League]] runner-up: [[2024–25 CONCACAF Nations League|2024–25]]<ref>{{Cite web |date=23 March 2025 |title=Mexico beat Panama with stoppage-time penalty for CONCACAF Nations League title |url=https://www.reuters.com/sports/soccer/mexico-beat-panama-with-stoppage-time-penalty-concacaf-nations-league-title-2025-03-24/#:~:text=March%2023%20(Reuters)%20%2D%20Raul,Inglewood%2C%20California%2C%20on%20Sunday. |access-date=26 March 2025 |website=[[Reuters]]}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{NFT player}}
+* {{Soccerway}}
+
+{{D.C. United squad}}
+{{Navboxes
+| title = Panama squads
+| bg          = #DA121A
+| fg          = white
+| bordercolor = #072357
+| list =
+{{Panama squad 2019 CONCACAF Gold Cup}}
+{{Panama squad 2021 CONCACAF Gold Cup}}
+{{Panama squad 2023 CONCACAF Gold Cup}}
+{{Panama squad 2024 Copa América}}
+{{Panama squad 2025 CONCACAF Gold Cup}}
+{{Panama squad 2026 FIFA World Cup}}
+}}
+{{Peruvian Segunda División top scorers}}
+
+{{DEFAULTSORT:Fajardo, Jose}}
+[[Category:1993 births]]
+[[Category:Living people]]
+[[Category:Footballers from Colón, Panama]]
+[[Category:Panamanian men's footballers]]
+[[Category:21st-century Panamanian sportsmen]]
+[[Category:Panama men's international footballers]]
+[[Category:Panamanian expatriate men's footballers]]
+[[Category:Men's association football forwards]]
+[[Category:Al-Kawkab FC players]]
+[[Category:C.A. Independiente de La Chorrera players]]
+[[Category:D.C. United players]]
+[[Category:Liga Panameña de Fútbol players]]
+[[Category:Saudi First Division League players]]
+[[Category:Expatriate men's footballers in Saudi Arabia]]
+[[Category:Expatriate men's footballers in Ecuador]]
+[[Category:Panamanian expatriate sportspeople in Saudi Arabia]]
+[[Category:2019 CONCACAF Gold Cup players]]
+[[Category:2021 CONCACAF Gold Cup players]]
+[[Category:2023 CONCACAF Gold Cup players]]
+[[Category:2024 Copa América players]]
+[[Category:2025 CONCACAF Gold Cup players]]
+[[Category:Long stubs with short prose]]
+[[Category:2026 FIFA World Cup players]]
+
+{{Panama-footy-bio-stub}}

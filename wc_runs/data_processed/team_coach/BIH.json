@@ -1,0 +1,31 @@
+{
+ "team": "BIH",
+ "coach": {
+  "name_zh": "谢尔盖·巴巴雷茨",
+  "name_en": "Sergej Barbarez",
+  "nationality": "SFR Yugoslavia",
+  "career_since": "2024",
+  "person_id": "per_sergej_barbarez"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 谢尔盖·巴巴雷茨自2024年4月起执教波黑国家队，现年54岁的莫斯塔尔本地人首次担任主流教练职务。\n- 球员时代在德国征战多年，曾随汉堡夺得德国联赛杯和国际托托杯，退役后进入该俱乐部顾问委员会。\n- 2026年3月率队在附加赛点球大战击败意大利，终结15年前竞聘国家队主帅失败的遗憾，第二次带队晋级世界杯。\n- 队长哲科在附加赛末段肩部受伤缺席点球大战，40岁老将73球148场的国家队纪录面临世界杯前康复时间不足的危机。\n- 球队FIFA排名跌至第65位，被分入2026世界杯B组对阵加拿大、瑞士与卡塔尔，目标突破2014年小组赛出局的队史最佳战绩。\n- 大名单融合经验与潜力，除哲科外，18岁萨尔茨堡边锋阿拉伊贝戈维奇与美籍前锋巴伊拉塔雷维奇构成进攻新选择。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.9,
+  "issues": []
+ },
+ "brief_fetched": "2026-06-13_1750",
+ "brief_info_chars": 6000,
+ "coach_xverify": {
+  "canonical": "Sergej Barbarez",
+  "confidence": "high",
+  "discrepancy": "",
+  "sources_agree": 6,
+  "n_sources": 8
+ }
+}

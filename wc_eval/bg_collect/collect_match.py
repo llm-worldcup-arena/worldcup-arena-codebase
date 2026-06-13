@@ -20,7 +20,7 @@ import json, urllib.request, os, argparse
 
 TOKEN = os.environ.get("APIFY_TOKEN", "")
 ACT = "macheta~football-super-fast-data"
-BASE = "/home/ubuntu/worldcup_2026/wc_runs"
+BASE = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))) + "/wc_runs"   # 可移植
 
 # 365scores Statistics Type → 含义（推断；raw 全量可回溯）
 STAT = {10: "控球%", 3: "射门", 4: "射正", 5: "禁区内射门", 6: "扑救", 8: "角球",
@@ -53,7 +53,7 @@ def collect(match_id, ts=None, iso=None, comp=None, ha_home=None):
 
     # ── raw_game_data 全量留底（权威 raw，两步铁律第一步）──
     if ts:
-        rawd = f"{BASE}/raw/bg/{ts}/match_reports"; os.makedirs(rawd, exist_ok=True)
+        rawd = f"{BASE}/data_raw/{ts}/match_reports"; os.makedirs(rawd, exist_ok=True)
         json.dump(rgd, open(f"{rawd}/{match_id}_raw.json", "w", encoding="utf-8"), ensure_ascii=False)
         if not os.path.exists(f"{rawd}/_source.md"):
             open(f"{rawd}/_source.md", "w", encoding="utf-8").write(

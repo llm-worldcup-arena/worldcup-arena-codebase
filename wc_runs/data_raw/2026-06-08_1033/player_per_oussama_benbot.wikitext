@@ -1,0 +1,139 @@
+{{short description|Algerian footballer (born 1994)}}
+{{Use dmy dates|date=April 2025}}
+{{Infobox football biography
+| name           = Oussama Benbot
+| full_name      = 
+| birth_date     = {{birth date and age|df=yes|1994|10|11}}
+| birth_place    = [[Aïn M'lila]], Algeria
+| height         = 1.88 m
+| position       = [[Goalkeeper (association football)|Goalkeeper]]
+| currentclub    = [[USM Alger]]
+| clubnumber     = 25
+| youthyears1    = –2014
+| youthclubs1    = [[AS Aïn M'lila]]
+| years1 = 2014–2016 |clubs1 = [[US Chaouia]]    |caps1  =  32 |goals1 =  0
+| years2 = 2016      |clubs2 = [[USM Bel Abbès]] |caps2  =   1 |goals2 =  0
+| years3 = 2017      |clubs3 = [[DRB Tadjenanet]]|caps3  =   1 |goals3 =  0
+| years4 = 2017–2018 |clubs4 = [[AS Aïn M'lila]] |caps4  =  16 |goals4 =  0
+| years5 = 2018–2021 |clubs5 = [[JS Kabylie]]    |caps5  =  54 |goals5 =  0
+| years6 = 2021–     |clubs6 = [[USM Alger]]     |caps6  =  57 |goals6 =  0
+| nationalyears1 = 2023–
+| nationalteam1  = [[Algeria national football team|Algeria]]
+| nationalcaps1  = 2
+| nationalgoals1 = 0
+| club-update = 30 May 2024
+| ntupdate = 12 January 2026 (UTC)
+}}
+
+'''Oussama Benbot''' ({{langx|ar|أُسَامَة بن بُوط}}; born 11 October 1994) is an Algerian professional [[association football|footballer]]<ref>{{cite web |url=https://www.matchendirect.fr/joueur/oussama-benbot.html|title=Oussama Benbot}}</ref> who plays as a [[goalkeeper (association football)|goalkeeper]] for [[USM Alger]] in the [[Algerian Ligue Professionnelle 1]] and the [[Algeria national football team|Algeria national team]].<ref>{{cite web|url=http://www.elmoudjahid.dz/fr/sports/usma-oussama-benbot-signe-pour-deux-ans-13279|title=USMA : Oussama Benbot signe pour deux ans|access-date=20 August 2021|archive-date=20 August 2021|archive-url=https://web.archive.org/web/20210820155002/http://www.elmoudjahid.dz/fr/sports/usma-oussama-benbot-signe-pour-deux-ans-13279|url-status=dead}}</ref>
+
+==Club career==
+In 2018, Benbot signed a contract with [[JS Kabylie]].<ref>{{cite web |url=http://www.dzfoot.com/2018/06/10/jsk-oussama-benbot-deuxieme-gardien-129137.php|title=JSK : Oussama Benbot deuxième gardien |website=dzfoot.com |date=10 June 2018 |access-date=10 June 2018}}</ref> 
+On 14 August 2021, he joined [[USM Alger]].<ref>{{cite web |url=https://africasport.dz/2021/08/14/jsk-benbot-signe-a-lusma/|title=JSK/Benbot Signe À L’USMA |website=africasport.dz |date=14 August 2021 |access-date=14 August 2021}}</ref> On 16 August 2023, he extended his contract until 2026.<ref>{{cite web |url=https://www.lescore.dz/2023/08/usm-alger-belaid-benbot-et-alilet-prolonges/ |title=USM Alger: dix cadres prolongés d'un seul coup |website=lescore.dz |date=16 August 2023 |access-date=16 August 2023}}</ref><ref>{{cite web |url=https://rivalite.dz/football-usma-dix-joueurs-prolonges-dun-coup/ |title=Football: USMA: Dix joueurs prolongés d'un coup |website=rivalite.dz |date=17 August 2023 |access-date=17 August 2023}}</ref><ref>{{cite web |url=https://mediafootdz.dz/usm-alger-huit-joueurs-rempilent-jusquen-2026/ |title=USM Alger : Huit joueurs rempilent jusqu'en 2026 |website=mediafootdz.dz |date=17 August 2023 |access-date=17 August 2023}}</ref>
+
+==International career==
+On 30 May 2023, the [[Algerian Football Federation|FAF]] publish the list of [[Djamel Belmadi]] for the two matches of the month of June, Where is called Oussama Benbot for the first time.<ref>{{cite web |url=https://www.dzfoot.com/equipes-nationales/en-la-liste-de-belmadi-contre-louganda-et-la-tunisie-242811.html |title=EN : La liste de Belmadi contre l'Ouganda et la Tunisie |website=dzfoot.com |date=30 May 2023 |access-date=21 June 2023}}</ref><ref>{{cite web |url=https://lagazettedufennec.com/belaid-si-pas-maintenant-cest-quand/ |title=Zineddine Belaïd, si pas maintenant c’est quand ? |website=Lagazette du fennec |date=7 October 2023 |access-date=31 December 2023}}</ref> On 29 December 2023, Benbot was named by [[Djamel Belmadi]] to Algeria's 26-man squad for the [[2023 Africa Cup of Nations]].<ref>{{cite web |url=https://www.dzfoot.com/equipes-nationales/officiel-la-liste-des-verts-pour-la-can-est-parue-252031.html |title=Officiel : La liste des Verts pour la CAN est parue ! |website=DZfoot |date=29 December 2023 |access-date=30 December 2023}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|30 April 2026}}<ref name = "SW">{{soccerway|oussama-benbot/455173}}</ref>
+
+{| class="wikitable" style="text-align: center;"
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|Cup
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan=4|[[JS Kabylie]]
+|[[2018–19 JS Kabylie season|2018–19]]
+| rowspan=3|Ligue 1
+|2||0||colspan=2|—||colspan=2|—||colspan=2|—||2||0
+|-
+|[[2019–20 JS Kabylie season|2019–20]]
+|18||0||1||0||9<ref group="lower-alpha" name="CCL">All appearance(s) in [[CAF Champions League|Champions League]]</ref>||0||colspan=2|—||28||0
+|-
+|[[2020–21 JS Kabylie season|2020–21]]
+|23||0||colspan=2|—||13<ref group="lower-alpha" name="CCC">All appearance(s) in [[CAF Confederation Cup]]</ref>||0||4<ref group="lower-alpha" name="ALC">All appearance(s) in [[2020–21 Algerian League Cup|League Cup]]</ref>||0||40||0
+|-
+!colspan="2"|Total
+!43!!0!!1!!0!!22!!0!!4!!0!!70!!0
+|-
+|rowspan=6|[[USM Alger]]
+|[[2021–22 USM Alger season|2021–22]]
+| rowspan=5|Ligue 1
+|19||0||colspan=2|—||colspan=2|—||colspan=2|—||19||0
+|-
+|[[2022–23 USM Alger season|2022–23]]
+|24||0||colspan=2|—||16<ref group="lower-alpha" name="CCC"/>||0||colspan=2|—||40||0
+|-
+|[[2023–24 USM Alger season|2023–24]]
+|14||0||2||0||11<ref group="lower-alpha">1 appearance in [[2023 CAF Super Cup|CAF Super Cup]], 10 appearances in [[2023–24 CAF Confederation Cup|CAF Confederation Cup]]</ref>||0||colspan=2|—||27||0
+|-
+|[[2024–25 USM Alger season|2024–25]]
+|25||0||5||0||9<ref group="lower-alpha" name="CCC"/>||0||colspan=2|—||39||0
+|-
+|[[2025–26 USM Alger season|2025–26]]
+|14||0||4||0||11<ref group="lower-alpha" name="CCC"/>||0||1<ref group="lower-alpha" name="SCA">All appearances in [[Algerian Super Cup]]</ref>||0||30||0
+|-
+!colspan="2"|Total
+!96!!0!!11!!0!!47!!0!!1!!0!!155!!0
+|-
+!colspan="3"|Career total
+!0!!0!!0!!0!!0!!0!!0!!0!!0!!0
+|}
+{{Reflist|group=lower-alpha}}
+
+==Honours==
+'''JS Kabylie'''
+* [[Algerian League Cup]]: [[2020–21 Algerian League Cup|2020–21]]<ref>{{cite web |url=https://www.dzfoot.com/football-en-algerie/coupe-de-la-ligue-la-jsk-vainqueur-sur-magra-208983.html |title=Coupe de la Ligue : La JSK vainqueur de Magra |website=dzfoot.com |date=10 August 2021 |accessdate=11 August 2021}}</ref>
+
+'''USM Alger'''
+* [[Algerian Cup]]: [[2024–25 Algerian Cup|2024–25]],<ref name="coupe-d-algerie/usma-2-crb-0-une-usma-9-etoiles">{{cite web |url=https://www.competition.dz/actualites/coupe-d-algerie/usma-2-crb-0-une-usma-9-etoiles.html |title=USMA 2 – CRB 0 : une USMA 9 étoiles |website=Competition |date=6 July 2025 |access-date=6 July 2025}}</ref> [[2025–26 Algerian Cup|2025–26]]<ref>{{cite web |url=https://www.competition.dz/actualites/coupe-d-algerie/coupe-dalgerie-finale-lusma-fait-tomber-le-crb-et-decroche-la-decima.html |title=Coupe d’Algérie (Finale) : l’USMA fait tomber le CRB et décroche la Décima |website=competition.dz |date=30 April 2026 |access-date=30 April 2026}}</ref>
+* [[CAF Confederation Cup]]: [[2022–23 CAF Confederation Cup|2022–23]],<ref>{{cite web |url=https://www.barrons.com/news/usm-alger-lift-caf-cup-despite-home-loss-to-young-africans-2cdf88d4 |title=USM Alger Lift CAF Cup Despite Home Loss To Young Africans |website=barrons.com |date=3 June 2023 |access-date=4 June 2023}}</ref>[[2025–26 CAF Confederation Cup|2025–26]]<ref>{{cite web |url=https://www.competition.dz/actualites/coupe-de-la-caf/zamalek-1-usma-0-victoire-de-lusma-aux-tab-7-8-lusma-sur-le-toit-de-lafrique.html |title=Zamalek 1 – USMA 0 (victoire de l’USMA aux tab 7- 8): l’USMA sur le toit de l’Afrique |website=competition.dz |date=16 May 2026 |access-date=16 May 2026}}</ref>
+* [[CAF Super Cup]]: [[2023 CAF Super Cup|2023]]<ref>{{cite web |url=https://mediafootdz.dz/lusma-remporte-la-supercoupe-de-la-caf-face-au-ahly/ |title=L’USMA remporte la Supercoupe de la CAF face au Ahly |website=mediafootdz.dz |date=15 September 2023 |access-date=15 September 2023}}</ref>
+
+== References ==
+{{reflist}}
+
+==External links==
+* {{soccerway|oussama-benbot/455173}}
+
+{{USM Alger squad}}
+{{Navboxes
+| title = Algeria squads
+| bg = white
+| fg = #006633
+| bordercolor = #006633
+| list1 = 
+{{Algeria squad 2023 Africa Cup of Nations}}
+{{Algeria squad 2025 Africa Cup of Nations}}
+{{Algeria squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Benbot, Oussama}}
+[[Category:1994 births]]
+[[Category:Living people]]
+[[Category:21st-century Algerian sportsmen]]
+[[Category:People from Aïn M'lila]]
+[[Category:Algerian men's footballers]]
+[[Category:Algeria men's international footballers]]
+[[Category:Men's association football goalkeepers]]
+[[Category:US Chaouia players]]
+[[Category:USM Bel Abbès players]]
+[[Category:DRB Tadjenanet players]]
+[[Category:AS Aïn M'lila players]]
+[[Category:JS Kabylie players]]
+[[Category:USM Alger players]]
+[[Category:Algerian Ligue Professionnelle 1 players]]
+[[Category:2023 Africa Cup of Nations players]]
+[[Category:2025 Africa Cup of Nations players]]
+[[Category:2026 FIFA World Cup players]]
+
+
+{{algeria-footy-goalkeeper-stub}}

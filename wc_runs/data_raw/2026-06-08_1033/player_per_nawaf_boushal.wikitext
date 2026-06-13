@@ -1,0 +1,156 @@
+{{short description|Saudi Arabian footballer}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+| name = Nawaf Boushal
+| image = Esteghlal_0_-_0_Al_Nassr,_round_of_16_of_the_AFC_Elite_League,_Azadi_Stadium,_3_March_2025,_Nawaf_Boushal.jpg
+| caption = Boushal with [[Al Nassr FC|Al-Nassr]] in 2025
+| fullname = Nawaf Mashari Abdulrahman Boushal
+| birth_date = {{birth date and age|1999|9|16|df=y}}<ref name="FIFA Arab 2021">{{cite web |url=https://fdp.fifa.org/assetspublic/ce14/pdf/SquadLists-English.pdf |title=FIFA Arab Cup Qatar 2021: List of players: Saudi Arabia |publisher=[[FIFA]] |page=12 |date=4 December 2021 |access-date=14 December 2022}}</ref>
+| birth_place = [[Hofuf|Al-Hasa]], Saudi Arabia
+| height = 1.73 m<ref name="FIFA Arab 2021"/>
+| currentclub = [[Al Nassr FC|Al-Nassr]]
+| clubnumber = 12
+| position = [[Right-back]]
+| youthyears1 = –2019
+| youthclubs1 = [[Al-Fateh SC|Al-Fateh]]
+| years1 = 2019–2023
+| clubs1 = [[Al-Fateh SC|Al-Fateh]]
+| caps1 = 84
+| goals1 = 3
+| years2 = 2023–
+| clubs2 = [[Al Nassr FC|Al-Nassr]]
+| caps2 = 86
+| goals2 = 2
+| nationalyears1 = 2020–2022
+| nationalteam1 = [[Saudi Arabia national under-23 football team|Saudi Arabia U23]]
+| nationalcaps1 = 
+| nationalgoals1 = 
+| nationalyears2 = 2021–
+| nationalteam2 = [[Saudi Arabia national football team|Saudi Arabia]]
+| nationalcaps2 = 24
+| nationalgoals2 = 0
+| club-update = 21 May 2026 
+| nationalteam-update = 31 May 2026
+}}
+
+'''Nawaf Mashari Abdulrahman Boushal''' (born 16 September 1999) is a Saudi Arabian professional [[association football|footballer]] who plays as a [[right-back]] for [[Saudi Pro League]] club [[Al Nassr FC|Al-Nassr]] and the [[Saudi Arabia national football team|Saudi Arabia national team]].<ref>{{Cite web|url=https://www.kooora.com/?player=130297|title=اللاعب: نواف بوشل|website=Kooora|language=ar}}</ref>
+
+==Career==
+[[File:Nawaf Boushal - Persepolis vs Al Nassr, February 2025.jpg|thumb|Boushal with Al-Nassr in 2025]]
+Boushal started his career at hometown club [[Al-Fateh SC|Al-Fateh]]. On 31 August 2019, he signed his first professional contract with the club.<ref>{{cite web |title=الفتح يوقّع عقدًا احترافيًا مع نواف البوشل لمدة 3 سنوات |url=https://slaati.com/2019/08/31/p1474932.html}}</ref> He made his debut on 22 November 2019 in the league match against [[Abha Club|Abha]].<ref>{{cite web |title=ABHA VS. AL FATEH 3 - 1 |url=https://int.soccerway.com/matches/2019/11/22/saudi-arabia/pro-league/abha/al-fath-alahsa/3102206/}}</ref> On 2 March 2022, Boushal renewed his contract with Al-Fateh.<ref>{{cite web |title=الفتح يمدد عقد "بوشل" لعامين إضافيين .. دون الكشف عن التفاصيل |url=https://sabq.org/sports/%D8%A7%D9%84%D9%81%D8%AA%D8%AD-%D9%8A%D9%85%D8%AF%D8%AF-%D8%B9%D9%82%D8%AF-%D8%A8%D9%88%D8%B4%D9%84-%D9%84%D8%B9%D8%A7%D9%85%D9%8A%D9%86-%D8%A5%D8%B6%D8%A7%D9%81%D9%8A%D9%8A%D9%86-%D8%AF%D9%88%D9%86-%D8%A7%D9%84%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84}}</ref> On 20 January 2023, Boushal joined [[Al-Nassr FC|Al-Nassr]] on a four-and-a-half-year deal.<ref>{{cite web |title=النصر يدعم صفوفه بنجم الفتح نواف بوشل |url=https://www.dawriplus.com/news/66292-%D8%A7%D9%84%D9%86%D8%B5%D8%B1-%D9%8A%D8%AF%D8%B9%D9%85-%D8%B5%D9%81%D9%88%D9%81%D9%87-%D8%A8%D9%86%D8%AC%D9%85-%D8%A7%D9%84%D9%81%D8%AA%D8%AD-%D9%86%D9%88%D8%A7%D9%81-%D8%A8%D9%88%D8%B4%D9%84.html}}</ref>
+
+==Career statistics==
+
+===Club===
+
+{{updated|31 May 2024.}}<ref>{{Soccerway|nawaf-boushal/625880|accessdate=14 December 2019}}</ref>
+
+{| class="wikitable" style="text-align: center"
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|Cup
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+|-
+|rowspan=6 |[[Al-Fateh SC|Al-Fateh]]
+|[[2018–19 Al-Fateh SC season|2018–19]]
+|[[Saudi Professional League|Pro League]]
+|0||0||0||0||colspan="2"|—||colspan="2"|—||0||0
+|-
+|[[2019–20 Al-Fateh SC season|2019–20]]
+|Pro League
+|17||0||3||0||colspan="2"|—||colspan="2"|—||20||0
+|-
+|[[2020–21 Al-Fateh SC season|2020–21]]
+|Pro League
+|29||2||3||0||colspan="2"|—||colspan="2"|—||32||2
+|-
+|[[2021–22 Al-Fateh SC season|2021–22]]
+|Pro League
+|27||1||0||0||colspan="2"|—||colspan="2"|—||27||1
+|-
+|[[2022–23 Al-Fateh SC season|2022–23]]
+|Pro League
+|11||0||1||0||colspan="2"|—||colspan="2"|—||12||0
+|-
+!colspan="2"|Total
+!84||3||7||0||0||0||0||0||91||3
+|-
+|rowspan=3 |[[Al-Nassr FC|Al-Nassr]]
+|[[2022–23 Al-Nassr FC season|2022–23]]
+|Pro League
+|10||0||1||0||colspan="2"|—||1{{efn|name=SC|Appearance(s) in [[Saudi Super Cup]]}}||0||12||0
+|-
+|[[2023–24 Al Nassr FC season|2023–24]]
+|Pro League
+|14||0||3||0||4||0||1{{efn|name=AC|Appearance(s) in [[Arab Club Champions Cup]]}}||0||22||0
+|-
+!colspan="2"|Total
+!24||0||4||0||4||0||2||0||34||0
+|-
+! colspan=3 | Career totals
+!108!!3!!11!!0!!4!!0!!2!!0!!125!!3
+|}
+;Notes
+{{Reflist|group=lower-alpha}}
+
+==Honours==
+'''Al-Nassr'''
+*[[Saudi Pro League]]: [[2025–26 Saudi Pro League|2025–26]]
+*[[Arab Club Champions Cup]]: [[2023 Arab Club Champions Cup|2023]]
+*[[King's Cup (Saudi Arabia)|King's Cup]] runners-up: [[2023–24 King's Cup (Saudi Arabia)|2023–24]]<ref>{{cite web |title=نيابة عن خادم الحرمين الشريفين .. سمو ولي العهد يتوج فريق الهلال بكأس خادم الحرمين الشريفين للموسم الرياضي 2023 – 2024 |url=https://www.saff.com.sa/news.php?id=3077}}</ref>
+*[[Saudi Super Cup]] runners-up: [[2024 Saudi Super Cup|2024]]<ref>{{cite web | title=Al Nassr vs al Hilal live scores & match info &#124; Soccerway | url=https://int.soccerway.com/matches/2024/08/17/saudi-arabia/super-cup/al-nasr-riyadh/al-hilal-riyadh/4399313/ }}</ref>
+
+'''Individual'''
+* [[Saudi Pro League|Saudi Pro League Young Player of the Month]]: [[2021–22 Saudi Professional League#Monthly awards|September 2021]]<ref>{{cite web |title=رزيتش مدرب ضمك وحارسه، وكورنادو وبوشل يحصدون جوائز شهر سبتمبر. |url=https://spl.sa/ar/news/3914}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{commons category-inline}}
+* {{soccerway|nawaf-boushal/625880}}
+
+{{Al-Nassr squad}}
+{{Navboxes
+| title = Saudi Arabia squads
+| bg          = #006C35
+| fg          = white
+| bordercolor = #005429
+| list =
+{{Saudi Arabia squad 2025 CONCACAF Gold Cup}}
+{{Saudi Arabia squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Boushal, Nawaf}}
+[[Category:1999 births]]
+[[Category:Living people]]
+[[Category:Footballers from Al-Hasa]]
+[[Category:Saudi Arabian men's footballers]]
+[[Category:Men's association football full-backs]]
+[[Category:Al Fateh SC players]]
+[[Category:Al-Nassr FC players]]
+[[Category:Saudi Pro League players]]
+[[Category:Saudi Arabia men's youth international footballers]]
+[[Category:Saudi Arabia men's international footballers]]
+[[Category:2025 CONCACAF Gold Cup players]]
+[[Category:21st-century Saudi Arabian sportsmen]]
+[[Category:2026 FIFA World Cup players]]
+
+
+{{SaudiArabia-footy-defender-stub}}

@@ -1,0 +1,121 @@
+{{short description|Jordanian footballer}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+| name = Rajaei Ayed
+| image = Sepahan and Al-Hussein Jordan football teams meet 2 (2025) esfahanzibaonline.ir (cropped2).jpg
+| caption = Ayed with [[Al-Hussein SC (Irbid)|Al-Hussein]] in 2025
+| fullname = Rajaei Ayed Fadel Hasan<ref name="FIFA Arab 2021">{{cite web |url=https://fdp.fifa.org/assetspublic/ce14/pdf/SquadLists-English.pdf |title=FIFA Arab Cup Qatar 2021: List of players: Jordan |publisher=[[FIFA]] |page=5 |date=4 December 2021 |access-date=14 December 2022}}</ref>
+| birth_date = {{birth date and age|1993|7|25|df=y}}<ref name="FIFA Arab 2021"/>
+| birth_place = [[Amman]], [[Jordan]]
+| height = 1.75 m<ref name="FIFA Arab 2021"/>
+| currentclub = [[Al-Hussein SC (Irbid)|Al-Hussein]]
+| clubnumber = 8
+| position = [[Midfielder (football)|Midfielder]]
+| youthyears1 = 2008–2012
+| youthclubs1 = [[Al-Wehdat SC|Al-Wehdat]]
+| years1 = 2012–2021
+| clubs1 = [[Al-Wehdat SC|Al-Wehdat]]
+| caps1 = 230
+| goals1 = 5
+| years2 = 2022
+| clubs2 = [[Ratchaburi Mitr Phol F.C.|Ratchaburi Mitr Phol]]
+| caps2 = 16
+| goals2 = 0
+| years3 = 2022–2023
+| clubs3 = [[Mesaimeer SC|Mesaimeer]]
+| caps3 = 5
+| goals3 = 0
+| years4 = 2023–
+| clubs4 = [[Al-Hussein SC (Irbid)|Al-Hussein]]
+| caps4 = 39
+| goals4 = 0
+| nationalyears1 = 2011–2012
+| nationalteam1 = [[Jordan national under-20 football team|Jordan U19]]
+| nationalcaps1 = 
+| nationalgoals1 = 0
+| nationalyears2 = 2013–2016
+| nationalteam2 = [[Jordan national under-23 football team|Jordan U23]]
+| nationalcaps2 = 14
+| nationalgoals2 = 1
+| nationalyears3 = 2014–
+| nationalteam3 = [[Jordan national football team|Jordan]]
+| nationalcaps3 = 63
+| nationalgoals3 = 0
+| pcupdate = 16 April 2022
+| ntupdate = 15 December 2025
+| medaltemplates = {{MedalCountry|{{fb|JOR}}}}
+{{MedalSport|Men's [[association football|football]]}}
+{{MedalCompetition|[[FIFA Arab Cup]]}}
+{{Medal|RU|[[2025 FIFA Arab Cup|2025 Qatar]]|[[2025 FIFA Arab Cup squads#Jordan|Team]]}}
+}}
+
+'''Rajaei Ayed Fadel Hasan''' ({{langx|ar|رَجَائِيّ عَايِد فَاضِل حَسَن}}) is a [[Jordan]]ian professional [[Association football|footballer]] who plays as a midfielder for [[Jordanian Pro League]] club [[Al-Hussein SC (Irbid)|Al-Hussein]] and the [[Jordan national football team|Jordan national team]].<ref>{{cite web |title=رياضة/عايد-يعدل-عن-قرار-الاحتراف-الخارجي |url=https://alrai.com/article/10848272/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/%D8%B9%D8%A7%D9%8A%D8%AF-%D9%8A%D8%B9%D8%AF%D9%84-%D8%B9%D9%86-%D9%82%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%81-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A |website=alrai.com |publisher=Al-Rai |language=Arabic |date=28 August 2024}}</ref>
+
+==International career ==
+{{updated|23 March 2017}}<ref>{{cite web|url=http://www.national-football-teams.com/player/54405/Rajaei_Ayed_Hasan.html|title=Ayed Statistics}}</ref>
+{| class="wikitable" style="text-align:center"
+! colspan=3 | Jordan national team
+|-
+!Year!!Apps!!Goals
+|-
+|2014||12||0
+|-
+|2015||7||0
+|-
+|2016||5||0
+|-
+|2017||5||0
+|-
+|2018||2||0
+|-
+!Total!!31!!0
+|}
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [http://www.kooora.com/default.aspx?player=97339 Rajaei Ayed] at kooora.com
+* [http://www.soccerpunter.com/players/326943-Rajaei-Ayed-Fadel-Hasan Rajaei Ayed] at soccerpunter.com
+* {{Soccerway|rajaei-ayed-fadel-hasan/326943}}
+* [http://www.goal.com/en/people/jordan/103660/rajaei-ayed-fadel/national Rajaei Ayed] at [[Goal (website)|goal.com]]
+
+{{Navboxes
+|title=Jordan squads
+|bg=white
+|fg=#CE1126
+|bordercolor=#CE1126
+|list1=
+{{Jordan squad 2015 AFC Asian Cup}}
+{{Jordan squad 2023 AFC Asian Cup}}
+{{Jordan squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Ayed, Rajaei}}
+[[Category:1993 births]]
+[[Category:Living people]]
+[[Category:Jordanian men's footballers]]
+[[Category:Jordan men's international footballers]]
+[[Category:Jordan men's youth international footballers]]
+[[Category:Jordanian Pro League players]]
+[[Category:Al-Wehdat SC players]]
+[[Category:Al-Hussein SC (Irbid) players]]
+[[Category:Thai League 1 players|Rajaei Ayed]]
+[[Category:Ratchaburi F.C. players|Rajaei Ayed]]
+[[Category:Saudi Second Division players]]
+[[Category:Mesaimeer SC players]]
+[[Category:Jordanian expatriate men's footballers]]
+[[Category:Jordanian expatriate sportspeople in Thailand]]
+[[Category:Jordanian expatriate sportspeople in Qatar]]
+[[Category:Expatriate men's footballers in Thailand]]
+[[Category:Expatriate men's footballers in Qatar]]
+[[Category:2015 AFC Asian Cup players]]
+[[Category:2023 AFC Asian Cup players]]
+[[Category:Footballers from Amman]]
+[[Category:Jordanian people of Palestinian descent]]
+[[Category:Men's association football midfielders]]
+[[Category:21st-century Jordanian sportsmen]]
+[[Category:2026 FIFA World Cup players]]
+
+
+{{Jordan-footy-bio-stub}}

@@ -1,0 +1,28 @@
+{
+ "team": "COL",
+ "coach": {
+  "name_zh": "羅倫素",
+  "name_en": "Néstor Lorenzo",
+  "nationality": "Argentina",
+  "career_since": "2000",
+  "person_id": "per_nestor_lorenzo"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 阿根廷籍主帅羅倫素(Néstor Lorenzo)2000年开启执教生涯，现任哥伦比亚国家队主教练，率队以28球、南美区第三的成绩强势晋级世界杯。\n- 战术上采用4-3-1-2或4-2-3-1动态体系，强调短传三角配合、中场高位逼抢与纵向快速转换，赋予进攻球员极大位置自由度。\n- 预选赛期间主场击败巴西与阿根廷，尽管客场高原负于玻利维亚，但最终提前一轮3-0大胜玻利维亚锁定出线资格。\n- 已在墨西哥城完成备战，敲定26人名单，保留预选赛核心框架，首战将在阿兹特克球场对阵乌兹别克斯坦。\n- 摒弃过往僵化体系，通过出色的团队管理营造集体氛围，使哥伦比亚成为兼具创造力与凝聚力的南美劲旅。\n- 球队目前无伤病停赛报告，战术体系运转成熟，进攻端依赖世界级创造力球员一对一突破，避免陷入慢速控球。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.87,
+  "issues": [
+   "第三句预选赛战绩细节冗余",
+   "第五句团队氛围描述偏虚",
+   "信息密度较高可再精简"
+  ]
+ },
+ "brief_fetched": "2026-06-13_1138",
+ "brief_info_chars": 4315
+}

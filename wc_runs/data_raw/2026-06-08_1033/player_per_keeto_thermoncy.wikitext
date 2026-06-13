@@ -1,0 +1,114 @@
+{{Short description|Haitian footballer (born 1998)}}
+{{Use dmy dates|date=January 2021}}
+{{Infobox football biography
+| name = Keeto Thermoncy
+| full_name = 
+| image = 
+| caption = 
+| height = 1.85m
+| birth_date = {{Birth date and age|df=yes|2006|3|29}}
+| birth_place = [[Fribourg]], Switzerland
+| position = [[Centre-back]]
+| currentclub = [[BSC Young Boys|Young Boys]]
+| clubnumber = 5
+| youthyears1 = 
+| youthclubs1 = [[FC Fribourg|Fribourg]]
+| youthyears2 = 2018–2020
+| youthclubs2 = Team AFF-FFV
+| youthyears3 = 2020–2023
+| youthclubs3 = [[BSC Young Boys|Young Boys]]
+| years1 = 2023–
+| clubs1 = [[BSC Young Boys|Young Boys U21]]
+| caps1 = 29
+| goals1 = 2
+| nationalyears1 = 2025–
+| nationalteam1 = [[Haiti national football team|Haiti]]
+| nationalcaps1 = 1
+| nationalgoals1 = 0
+| pcupdate = 23:14, 25 October 2025 (UTC)
+| ntupdate = 23:14, 9 October 2025 (UTC)
+}}
+'''Keeto Thermoncy''' (born 29 March 2006) is a professional [[Association football|footballer]] who plays as a [[centre-back]] for the U21 team of [[BSC Young Boys|Young Boys]] in the [[Promotion League]]. Born in Switzerland, he plays for the [[Haiti national football team|Haiti national team]].
+
+==Club career==
+Thermoncy is a youth product of [[FC Fribourg|Fribourg]], Team AFF-FFV and [[BSC Young Boys|Young Boys]].<ref name="auto">{{Cite web|url=https://www.laliberte.ch/articles/sports/football/ce-jeune-fribourgeois-a-ete-selectionne-en-equipe-nationale-d-haiti-1200499|title=Bientôt en Coupe du monde? Ce jeune footballeur fribourgeois a été sélectionné en équipe nationale d'Haïti|first=Pierre|last=Salinas|date=17 September 2025|website=La Liberté}}</ref> He was promoted to their U21 team in the [[Promotion League]] in 2023.<ref name="auto1">{{Cite web|url=https://sportpassioninfo.com/keeto-thermoncy-je-suis-pret-a-tout-donner-pour-haiti-avec-le-coeur/|title=Keeto Thermoncy : « Je suis prêt à tout donner pour Haïti, avec le cœur » - Sport Passion Info|date=8 July 2025}}</ref> He was registered for Young Boys' senior squad for the [[2025–26 UEFA Europa League]] campaign.<ref>{{Cite web|url=https://sportpassioninfo.com/keeto-thermoncy-de-la-suisse-a-haiti-il-multiplie-les-convocations/|title=Keeto Thermoncy : De la Suisse à Haïti, il multiplie les convocations - Sport Passion Info|date=4 September 2025}}</ref>
+
+==International career==
+Born in Switzerland, Thermoncy was born to a Haitian father and Swiss mother and holds dual Swiss and Haitian citizenship.<ref>{{Cite web|url=https://sportpassioninfo.com/keeto-thermoncy-fait-un-grand-pas-vers-sa-nationalite-sportive/|title=Keeto Thermoncy fait un grand pas vers sa nationalité sportive - Sport Passion Info|date=6 July 2025}}</ref> He was first called up to the Swiss U14s, but the camp was cancelled due to the [[COVID-19 pandemic]].<ref name="auto1"/> He was called up to a training camp for the [[Haiti national under-17 football team|Haiti U17]]s in November 2022.<ref>{{Cite web|url=https://www.haitilibre.com/en/news-38195-haiti-world-u-17-peru-2023-start-of-the-selection-first-gathering-list-of-players.html|title=Haiti - World U-17 Peru 2023 : Start of the selection, first gathering (List of players) - HaitiLibre.com : Haiti news 7/7|website=HaitiLibre.com}}</ref> In June 2024, he was called up to the preliminary [[Haiti national under-20 football team|Haiti U20]]s for qualifiers for the [[2025 FIFA U-20 World Cup]].<ref>{{Cite web|url=https://www.haitilibre.com/en/news-42592-haiti-u-20-world-cup-qualifiers-chile-2025-grenadiers-pre-list-+-calendar.html|title=Haiti - U-20 World Cup Qualifiers Chile 2025 : Grenadiers pre-list (+ calendar) - HaitiLibre.com : Haiti news 7/7|website=HaitiLibre.com}}</ref>
+
+He was called up to the [[Haiti national football team|Haiti senior national team]] for a set of [[2026 FIFA World Cup qualification]] matches in October 2025.<ref>{{Cite web|url=https://frapp.ch/fr/articles/stories/le-fribourgeois-keeto-thermoncy-dans-lequipe-dhaiti|title=Un Fribourgeois en sélection haïtienne pour la première fois|website=Frapp}}</ref> He won his first cap with Haiti on 9 October, featuring in a 3–0 win over [[Nicaragua national football team|Nicaragua]].<ref>https://www.haitilibre.com/en/news-45954-haiti-flash-2026-world-cup-qualifiers-haiti-beats-nicaragua-[3-0]-videos.html</ref>
+
+==Personal life==
+Keeto's younger brother, Wasson Thermoncy, is also a footballer and Haiti youth international.<ref name="auto"/>
+
+==Career statistics==
+===Club===
+{{Updated|match played 25 October 2025}}
+
+{| class="wikitable" style="text-align: center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|Cup
+!colspan="2"|Europe
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goalss!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="3"|[[BSC Young Boys|Young Boys U21]]
+|[[2023–24 Promotion League|2023–24]]
+|[[Swiss Promotion League]]
+|2||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||2||0
+|-
+|[[2024–25 Promotion League|2024–25]]
+|Swiss Promotion League
+|16||2||colspan="2"|—||colspan="2"|—||colspan="2"|—||16||2
+|-
+|[[2025–26 Promotion League|2025–26]]
+|Swiss Promotion League
+|11||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||11||0
+|-
+!colspan="3"|Career total
+!29!!0!!0!!0!!0!!0!!0!!0!!29!!0
+|}
+
+===International===
+{{updated|match played 9 October 2025}}
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|[[Haiti national football team|Haiti]]
+|2025||1||0
+|-
+!colspan="2"|Total!!1!!0
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Soccerway|new_id=thermoncy-keeto/Y50N9gVC}}
+
+{{BSC Young Boys squad}}
+{{Haiti squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Thermoncy, Keeto}}
+[[Category:2006 births]]
+[[Category:Living people]]
+[[Category:Footballers from Fribourg]]
+[[Category:Haitian men's footballers]]
+[[Category:Haiti men's international footballers]]
+[[Category:Swiss men's footballers]]
+[[Category:Haitian people of Swiss descent]]
+[[Category:Swiss people of Haitian descent]]
+[[Category:Men's association football central defenders]]
+[[Category:BSC Young Boys players]]
+[[Category:21st-century Haitian sportsmen]]
+[[Category:21st-century Swiss sportsmen]]
+[[Category:2026 FIFA World Cup players]]

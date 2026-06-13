@@ -1,0 +1,38 @@
+===Current squad===
+The following 26 players were named for the [[2026 FIFA World Cup]] as well as [[Exhibition game|friendly]] matches against [[Senegal national football team|Senegal]] and [[Germany national football team|Germany]] on May 31 and June 6, 2026 respectively.<ref>{{cite web|url=https://www.ussoccer.com/stories/2026/05/usmnt/us-mens-national-team-head-coach-mauricio-pochettino-names-26-player-roster-for-fifa-world-cup-2026|title=USMNT head coach Mauricio Pochettino names 26 player roster for FIFA World Cup 2026|date=May 26, 2026|access-date=May 26, 2026}}</ref>
+<!-- PLEASE UPDATE CURRENT SQUAD AND RECENT CALL-UPS TOGETHER TO AVOID DUPLICATES. PLEASE DO NOT JUST UPDATE YOUR FAVORITE PLAYER. PLEASE ALWAYS CITE YOUR UPDATES. -->
+<!-- SORT BY positions, squad numbers (if available), caps, goals, last name, first name -->
+<!-- NO LIVE UPDATES, WAIT UNTIL MATCHES FINISH -->
+<br>''[[Cap (sport)|Caps]] and [[Goal (sports)|goals]] are updated as of June 6, 2026 after the match against [[Germany national football team|Germany]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name={{sortname|Matt|Turner|dab=soccer}}|age={{birth date and age|1994|6|24}}|caps=54|goals=0|club=[[New England Revolution]]|clubnat=USA}}
+{{nat fs g player|no=24|pos=GK|name={{sortname|Matt|Freese}}|age={{birth date and age|1998|9|2}}|caps=15|goals=0|club=[[New York City FC|New York City]]|clubnat=USA}}
+{{nat fs g player|no=25|pos=GK|name={{sortname|Chris|Brady|dab=soccer}}|age={{birth date and age|2004|3|3}}|caps=1|goals=0|club=[[Chicago Fire FC|Chicago Fire]]|clubnat=USA}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name={{sortname|Sergiño|Dest}}|age={{birth date and age|2000|11|3}}|caps=39|goals=3|club=[[PSV Eindhoven|PSV]]|clubnat=NED}}
+{{nat fs g player|no=3|pos=DF|name={{sortname|Chris|Richards|dab=soccer}}|age={{birth date and age|2000|3|28}}|caps=36|goals=3|club=[[Crystal Palace F.C.|Crystal Palace]]|clubnat=ENG}}
+{{nat fs g player|no=5|pos=DF|name={{sortname|Antonee|Robinson}}|age={{birth date and age|1997|8|8}}|caps=54|goals=5|club=[[Fulham F.C.|Fulham]]|clubnat=ENG}}
+{{nat fs g player|no=6|pos=DF|name={{sortname|Auston|Trusty}}|age={{birth date and age|1998|8|12}}|caps=8|goals=0|club=[[Celtic F.C.|Celtic]]|clubnat=SCO}}
+{{nat fs g player|no=12|pos=DF|name={{sortname|Miles|Robinson|dab=soccer}}|age={{birth date and age|1997|3|14}}|caps=40|goals=3|club=[[FC Cincinnati]]|clubnat=USA}}
+{{nat fs g player|no=13|pos=DF|name={{sortname|Tim|Ream}}|age={{birth date and age|1987|10|5}}|other=[[Captain (association football)|captain]]|caps=82|goals=1|club=[[Charlotte FC]]|clubnat=USA}}
+{{nat fs g player|no=16|pos=DF|name={{sortname|Alex|Freeman}}|age={{birth date and age|2004|8|9}}|caps=17|goals=2|club=[[Villarreal CF|Villarreal]]|clubnat=ESP}}
+{{nat fs g player|no=18|pos=DF|name={{sortname|Max|Arfsten}}|age={{birth date and age|2001|4|19}}|caps=20|goals=1|club=[[Columbus Crew]]|clubnat=USA}}
+{{nat fs g player|no=22|pos=DF|name={{sortname|Mark|McKenzie|dab=soccer, born 1999}}|age={{birth date and age|1999|2|25}}|caps=29|goals=0|club=[[Toulouse FC|Toulouse]]|clubnat=FRA}}
+{{nat fs g player|no=23|pos=DF|name={{sortname|Joe|Scally}}|age={{birth date and age|2002|12|31}}|caps=26|goals=0|club=[[Borussia Mönchengladbach]]|clubnat=GER}}
+{{nat fs break}}
+{{nat fs g player|no=4|pos=MF|name={{sortname|Tyler|Adams}}|age={{birth date and age|1999|2|14}}|caps=54|goals=2|club=[[AFC Bournemouth|Bournemouth]]|clubnat=ENG}}
+{{nat fs g player|no=7|pos=MF|name={{sortname|Giovanni|Reyna}}|age={{birth date and age|2002|11|13}}|caps=38|goals=9|club=[[Borussia Mönchengladbach]]|clubnat=GER}}
+{{nat fs g player|no=8|pos=MF|name={{sortname|Weston|McKennie}}|age={{birth date and age|1998|8|28}}|caps=66|goals=12|club=[[Juventus FC|Juventus]]|clubnat=ITA}}
+{{nat fs g player|no=14|pos=MF|name={{sortname|Sebastian|Berhalter}}|age={{birth date and age|2001|5|10}}|caps=13|goals=1|club=[[Vancouver Whitecaps FC|Vancouver Whitecaps]]|clubnat=CAN}}
+{{nat fs g player|no=15|pos=MF|name={{sortname|Cristian|Roldan}}|age={{birth date and age|1995|6|3}}|caps=47|goals=0|club=[[Seattle Sounders FC|Seattle Sounders]]|clubnat=USA}}
+{{nat fs g player|no=17|pos=MF|name={{sortname|Malik|Tillman}}|age={{birth date and age|2002|5|28}}|caps=30|goals=3|club=[[Bayer 04 Leverkusen|Bayer Leverkusen]]|clubnat=GER}}
+{{nat fs break}}
+{{nat fs g player|no=9|pos=FW|name={{sortname|Ricardo|Pepi}}|age={{birth date and age|2003|1|9}}|caps=37|goals=13|club=[[PSV Eindhoven|PSV]]|clubnat=NED}}
+{{nat fs g player|no=10|pos=FW|name={{sortname|Christian|Pulisic}}|age={{birth date and age|1998|9|18}}|caps=86|goals=33|club=[[AC Milan|Milan]]|clubnat=ITA}}
+{{nat fs g player|no=11|pos=FW|name={{sortname|Brenden|Aaronson}}|age={{birth date and age|2000|10|22}}|caps=58|goals=9|club=[[Leeds United F.C.|Leeds United]]|clubnat=ENG}}
+{{nat fs g player|no=19|pos=FW|name={{sortname|Haji|Wright}}|age={{birth date and age|1998|3|27}}|caps=20|goals=7|club=[[Coventry City F.C.|Coventry City]]|clubnat=ENG}}
+{{nat fs g player|no=20|pos=FW|name={{sortname|Folarin|Balogun}}|age={{birth date and age|2001|7|3}}|caps=27|goals=9|club=[[AS Monaco FC|Monaco]]{{efn|name=mon|[[AS Monaco FC|Monaco]] is a Monégasque club playing in the [[French football league system]].}}|clubnat=FRA}}
+{{nat fs g player|no=21|pos=FW|name={{sortname|Timothy|Weah}}|age={{birth date and age|2000|2|22}}|caps=51|goals=7|club=[[Olympique de Marseille|Marseille]]|clubnat=FRA}}
+{{nat fs g player|no=26|pos=FW|name={{sortname|Alejandro|Zendejas}}|age={{birth date and age|1998|2|7}}|caps=14|goals=2|club=[[Club América|América]]|clubnat=MEX}}
+{{nat fs end}}

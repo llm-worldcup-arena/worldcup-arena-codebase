@@ -1,0 +1,42 @@
+{
+ "match": {
+  "slug": "2026-06-11_KOR_vs_CZE",
+  "date": "2026-06-11",
+  "home": "KOR",
+  "away": "CZE",
+  "round": "group",
+  "group": "A"
+ },
+ "kickoff": {
+  "美东": "2026-06-11T22:00:00-04:00",
+  "北京": "06-12 10:00"
+ },
+ "venue": {
+  "name": "Estadio Akron",
+  "city": "Zapopan",
+  "altitude_m": 1566,
+  "roof": "open",
+  "surface": "grass"
+ },
+ "weather": {
+  "开球时段": {
+   "温度C": 21.0,
+   "体感C": 21.7,
+   "降水概率%": 39,
+   "降水mm": 0.0,
+   "风速kmh": 11.6,
+   "湿度%": 77,
+   "天况": "基本晴"
+  },
+  "source": "open-meteo(免费预报API)",
+  "fetched": "2026-06-13_0748",
+  "_note": "临近开球建议 --refresh 刷新"
+ },
+ "referee": {
+  "name": "Amin Mohamed(埃及)",
+  "source": "WebSearch多源(Athlon/Bolavip;全埃及裁判组)",
+  "fetched": "2026-06-13_0748",
+  "brief": "- **信息核实**：名为\"Amin Mohamed\"的埃及主裁在我知识库中无确切记录，无法确认其具体身份与执法数据。\n\n- **埃及裁判特征**：埃及现役FIFA国际级裁判主要包括Gehad Grisha（执法2018世界杯、多届非洲杯）与Ibrahim Nour El Din（2022世界杯第四官员），风格偏向严格，大赛出牌率较高。\n\n- **核实建议**：建议通过FIFA官方渠道核实该裁判完整信息，以确保获取准确执罚资料。"
+ },
+ "_note": "环境=比赛+时间+地点 确定;天气为开球时段;顶棚 retractable/fixed-canopy 时天气影响有限。"
+}

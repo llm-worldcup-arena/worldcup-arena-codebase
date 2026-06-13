@@ -1,0 +1,92 @@
+[
+ {
+  "player_id": "649672",
+  "profile_url": "https://www.transfermarkt.com/nicolas-capaldo/profil/spieler/649672",
+  "full_name": "Nicolás Capaldo Taboas",
+  "display_name": "Nicolás Capaldo",
+  "short_name": "N. Capaldo",
+  "nickname": "",
+  "date_of_birth": "1998-09-14",
+  "age": 27,
+  "place_of_birth": "Santa Rosa",
+  "country_of_birth": "Argentina",
+  "nationality": [
+   "Argentina",
+   "Italy"
+  ],
+  "gender": "male",
+  "position": "Centre-Back",
+  "position_category": "Defender",
+  "foot": "right",
+  "height_cm": 177,
+  "current_club": "Hamburger SV",
+  "current_club_id": "41",
+  "current_competition": "Bundesliga",
+  "current_competition_code": "L1",
+  "shirt_number": 24,
+  "is_captain": false,
+  "contract_until": "2028-06-30",
+  "last_contract_renewal": "",
+  "market_value_eur": 8000000,
+  "market_value_currency": "EUR",
+  "market_value_determined": "2026-05-27",
+  "previous_market_value_eur": 5000000,
+  "highest_market_value_eur": 8000000,
+  "highest_market_value_determined": "2026-05-27",
+  "market_value_history": [
+   "2019 | CA Boca Juniors | EUR 500,00K",
+   "2019 | CA Boca Juniors | EUR 2,50M",
+   "2019 | CA Boca Juniors | EUR 2,30M",
+   "2020 | CA Boca Juniors | EUR 5,00M",
+   "2021 | Red Bull Salzburg | EUR 6,50M",
+   "2021 | Red Bull Salzburg | EUR 6,50M",
+   "2022 | Red Bull Salzburg | EUR 8,00M",
+   "2022 | Red Bull Salzburg | EUR 8,00M",
+   "2022 | Red Bull Salzburg | EUR 8,00M",
+   "2023 | Red Bull Salzburg | EUR 8,00M",
+   "2023 | Red Bull Salzburg | EUR 5,00M",
+   "2024 | Red Bull Salzburg | EUR 5,00M",
+   "2024 | Red Bull Salzburg | EUR 5,00M",
+   "2025 | Hamburger SV | EUR 4,00M",
+   "2025 | Hamburger SV | EUR 4,00M",
+   "2025 | Hamburger SV | EUR 5,00M",
+   "2025 | Hamburger SV | EUR 8,00M"
+  ],
+  "agent": "",
+  "agency": "Interplayers",
+  "agency_id": "5789",
+  "youth_clubs": [
+   "Deportivo Mac Allister (2004-2014)"
+  ],
+  "career_history": [
+   "Club Deportivo Mac Allister U19 -> CA Boca Juniors U20 | 2015-01-01 | ? | 14/15",
+   "CA Boca Juniors U20 -> CA Boca Juniors II | 2016-07-22 | - | 16/17",
+   "CA Boca Juniors II -> CA Boca Juniors | 2019-07-01 | - | 19/20",
+   "CA Boca Juniors -> Red Bull Salzburg | 2021-07-01 | €4.50M | 21/22",
+   "Red Bull Salzburg -> Hamburger SV | 2025-07-10 | €2.10M | 25/26"
+  ],
+  "total_transfer_fees_eur": 6600000,
+  "international_team": "",
+  "international_caps": 0,
+  "international_goals": 0,
+  "national_team_history": [
+   "Argentina | 1 apps | 0 goals | RECENT_NATIONAL_PLAYER",
+   "Argentina U23 | 9 apps | 2 goals | FORMER_NATIONAL_PLAYER"
+  ],
+  "injuries": [
+   "2025-06-11 to 2025-06-30 | No eligibility | 0 games"
+  ],
+  "suspensions": [
+   "2026-02-02 to 2026-02-09 | Yellow card suspension | 1 game",
+   "2025-03-31 to 2025-04-07 | Yellow card suspension | 1 game",
+   "2023-05-08 to 2023-05-15 | Indirect card suspension | 1 game",
+   "2021-11-07 to 2021-11-22 | Yellow card suspension | 1 game",
+   "2021-10-21 to 2021-11-03 | Yellow card suspension | 1 game",
+   "2020-01-03 to 2020-02-12 | Called up to national team | 2 games",
+   "2019-12-09 to 2020-01-28 | Indirect card suspension | 1 game",
+   "2019-10-03 to 2019-10-24 | Red card suspension | 1 game"
+  ],
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/big/649672-1758188433.jpg",
+  "scraped_at": "2026-06-08T18:06:51.579Z"
+ }
+]

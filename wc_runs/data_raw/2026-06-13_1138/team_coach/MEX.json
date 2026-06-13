@@ -1,0 +1,28 @@
+{
+ "team": "MEX",
+ "coach": {
+  "name_zh": "哈维尔·阿吉雷",
+  "name_en": "Javier Aguirre",
+  "nationality": "Mexico",
+  "career_since": "1995",
+  "person_id": "per_javier_aguirre"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "墨西哥国家队主帅哈维尔·阿吉雷正率队备战2026本土世界杯，6月11日揭幕战对阵南非。面临严重伤病危机：中场核心埃德松·阿尔瓦雷斯脚踝疼痛单独训练；中卫塞萨尔·蒙特斯肌肉疲劳无法合练；中场路易斯·查韦斯2025年韧带重伤后仍未恢复最佳状态；前锋亚历克西斯·维加膝盖不适。阿吉雷明确表示球员必须100%恢复才能入选，若上述四人无法及时康复将被迫调整首发阵容和战术。克鲁斯阿苏尔后卫赫苏斯·奥罗斯科·奇克特已基本确认无缘世界杯。墨西哥国内对开门红寄予厚望。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": true,
+  "need_fix": true,
+  "keep_ratio": 0.65,
+  "issues": [
+   "自1995年执教史冗余",
+   "365计划细节琐碎",
+   "球场历史背景无关"
+  ]
+ },
+ "brief_fetched": "2026-06-13_1138",
+ "brief_info_chars": 6000
+}

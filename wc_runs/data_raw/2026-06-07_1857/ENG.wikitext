@@ -1,0 +1,41 @@
+===Current squad===
+The following 31 players were named in the squad for the friendly matches against [[New Zealand men's national football team|New Zealand]] and [[Costa Rica men's national football team|Costa Rica]] on 6 and 10 June 2026.<ref>{{cite web |title=Scott poised to make England debut in World Cup friendlies |url=https://www.bbc.co.uk/sport/football/articles/cy72rnnelpzo |publisher=BBC Sport |access-date=3 June 2026}}</ref> Players with squad numbers have also been picked for the [[2026 FIFA World Cup]].<ref>{{cite web | url=https://www.englandfootball.com/articles/2026/May/22/england-mens-world-cup-2026-squad-named-by-thomas-tuchel-20262205 | title=Three Lions come together for World Cup | publisher=England Football | date=22 May 2026 | accessdate=22 May 2026}}</ref> 
+<br>''Caps and goals are correct as of 6 June 2026, after the match against [[New Zealand men's national football team|New Zealand]].''<ref>{{Cite web|url=https://eu-football.info/_players.php?id=60&data=9|title=Most England Caps - EU-Football.info|website=eu-football.info|access-date=9 June 2022|archive-date=16 August 2022|archive-url=https://web.archive.org/web/20220816210906/https://eu-football.info/_players.php?id=60&data=9|url-status=live}}</ref> 
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Jordan Pickford]]|age={{Birth date and age|1994|3|7|df=y}}|caps=83|goals=0|club=[[Everton F.C.|Everton]]|clubnat=ENG}}
+{{nat fs g player|no=13|pos=GK|name=[[Dean Henderson]]|age={{Birth date and age|1997|3|12|df=y}}|caps=4|goals=0|club=[[Crystal Palace F.C.|Crystal Palace]]|clubnat=ENG}}
+{{nat fs g player|no=23|pos=GK|name=[[James Trafford]]|age={{Birth date and age|2002|10|10|df=y}}|caps=2|goals=0|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs g player|no=|pos=GK|name=[[Jason Steele (footballer)|Jason Steele]]|age={{Birth date and age|1990|8|18|df=y}}|caps=0|goals=0|club=[[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]|clubnat=ENG}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Ezri Konsa]]|age={{Birth date and age|1997|10|23|df=y}}|caps=19|goals=1|club=[[Aston Villa F.C.|Aston Villa]]|clubnat=ENG}}
+{{nat fs g player|no=3|pos=DF|name=[[Nico O'Reilly]]|age={{Birth date and age|2005|3|21|df=y}}|caps=4|goals=0|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs g player|no=5|pos=DF|name=[[John Stones]]|age={{Birth date and age|1994|5|28|df=y}}|caps=88|goals=3|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs g player|no=6|pos=DF|name=[[Marc Guéhi]]|age={{Birth date and age|2000|7|13|df=y}}|caps=28|goals=1|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs g player|no=12|pos=DF|name=[[Tino Livramento]]|age={{Birth date and age|2002|11|12|df=y}}|caps=6|goals=0|club=[[Newcastle United F.C.|Newcastle United]]|clubnat=ENG}}
+{{nat fs g player|no=15|pos=DF|name=[[Dan Burn]]|age={{Birth date and age|1992|5|9|df=y}}|caps=7|goals=0|club=[[Newcastle United F.C.|Newcastle United]]|clubnat=ENG}}
+{{nat fs g player|no=24|pos=DF|name=[[Reece James]]|age={{Birth date and age|1999|12|8|df=y}}|caps=23|goals=1|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs g player|no=25|pos=DF|name=[[Djed Spence]]|age={{Birth date and age|2000|8|9|df=y}}|caps=5|goals=0|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG}}
+{{nat fs g player|no=26|pos=DF|name=[[Jarell Quansah]]|age={{Birth date and age|2003|1|29|df=y}}|caps=2|goals=0|club=[[Bayer 04 Leverkusen|Bayer Leverkusen]]|clubnat=GER}}
+{{nat fs break}}
+{{nat fs g player|no=4|pos=MF|name=[[Declan Rice]]|age={{Birth date and age|1999|1|14|df=y}}|caps=72|goals=6|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs g player|no=8|pos=MF|name=[[Elliot Anderson (footballer)|Elliot Anderson]]|age={{Birth date and age|2002|11|6|df=y}}|caps=8|goals=0|club=[[Nottingham Forest F.C.|Nottingham Forest]]|clubnat=ENG}}
+{{nat fs g player|no=10|pos=MF|name=[[Jude Bellingham]]|age={{Birth date and age|2003|6|29|df=y}}|caps=47|goals=6|club=[[Real Madrid CF|Real Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=14|pos=MF|name=[[Jordan Henderson]]|age={{Birth date and age|1990|6|17|df=y}}|caps=90|goals=3|club=[[Brentford F.C.|Brentford]]|clubnat=ENG}}
+{{nat fs g player|no=16|pos=MF|name=[[Kobbie Mainoo]]|age={{Birth date and age|2005|4|19|df=y}}|caps=13|goals=0|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs g player|no=17|pos=MF|name=[[Morgan Rogers]]|age={{Birth date and age|2002|7|26|df=y}}|caps=14|goals=1|club=[[Aston Villa F.C.|Aston Villa]]|clubnat=ENG}}
+{{nat fs g player|no=21|pos=MF|name=[[Eberechi Eze]]|age={{Birth date and age|1998|6|29|df=y}}|caps=16|goals=3|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs g player|no=|pos=MF|name=[[Josh King (footballer, born 2007)|Josh King]]|age={{Birth date and age|2007|1|03|df=y}}|caps=0|goals=0|club=[[Fulham FC|Fulham]]|clubnat=ENG}}
+{{nat fs g player|no=|pos=MF|name=[[Ethan Nwaneri]]|age={{Birth date and age|2007|3|21|df=y}}|caps=0|goals=0|club=[[Olympique de Marseille|Marseille]]|clubnat=FRA}}
+{{nat fs g player|no=|pos=MF|name=[[Alex Scott (footballer, born 2003)|Alex Scott]]|age={{Birth date and age|2003|8|21|df=y}}|caps=0|goals=0|club=[[AFC Bournemouth|Bournemouth]]|clubnat=ENG}}
+{{nat fs break}}
+{{nat fs g player|no=7|pos=FW|name=[[Bukayo Saka]]|age={{Birth date and age|2001|9|5|df=y}}|caps=48|goals=14|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs g player|no=9|pos=FW|name=[[Harry Kane]]|other=[[Captain (association football)|captain]]|age={{Birth date and age|1993|7|28|df=y}}|caps=113|goals=[[List of international goals scored by Harry Kane|79]]|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs g player|no=11|pos=FW|name=[[Marcus Rashford]]|age={{Birth date and age|1997|10|31|df=y}}|caps=71|goals=18|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs g player|no=18|pos=FW|name=[[Anthony Gordon (footballer)|Anthony Gordon]]|age={{Birth date and age|2001|2|24|df=y}}|caps=18|goals=2|club=[[Newcastle United F.C.|Newcastle United]]{{efn|Gordon is set to join [[FC Barcelona|Barcelona]] on 1 July 2026.<ref>{{cite web |title=Anthony Gordon becomes an FC Barcelona player |url=https://www.fcbarcelona.com/en/news/4511134/anthony-gordon-becomes-an-fc-barcelona-player |publisher=[[FC Barcelona]] |access-date=29 May 2026 |date=29 May 2026}}</ref>}}|clubnat=ENG}}
+{{nat fs g player|no=19|pos=FW|name=[[Ollie Watkins]]|age={{Birth date and age|1995|12|30|df=y}}|caps=21|goals=6|club=[[Aston Villa F.C.|Aston Villa]]|clubnat=ENG}}
+{{nat fs g player|no=20|pos=FW|name=[[Noni Madueke]]|age={{Birth date and age|2002|3|10|df=y}}|caps=10|goals=1|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs g player|no=22|pos=FW|name=[[Ivan Toney]]|age={{Birth date and age|1996|3|16|df=y}}|caps=8|goals=1|club=[[Al-Ahli Saudi FC|Al-Ahli]]|clubnat=KSA}}
+{{nat fs g player|no=|pos=FW|name=[[Rio Ngumoha]]|age={{Birth date and age|2008|8|29|df=y}}|caps=1|goals=0|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs end|background#0B0B3F}}
+{{Notelist}}

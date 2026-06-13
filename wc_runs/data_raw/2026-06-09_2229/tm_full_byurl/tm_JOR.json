@@ -1,0 +1,1020 @@
+[
+ {
+  "player_id": "709974",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/709974",
+  "name": "IbrahimSaadeh",
+  "shirt_number": 15,
+  "club": "Joined:",
+  "club_id": "103329",
+  "market_value": "€500k",
+  "market_value_numeric": 500000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Social-Media:",
+  "nationality": "Iraq",
+  "citizenships": [
+   "Iraq",
+   "Jordan",
+   "Jordan",
+   "Jordan",
+   "Jordan",
+   "Jordan"
+  ],
+  "market_value_history": [
+   {
+    "date": "Mar 24, 2021",
+    "value": "€100k",
+    "value_numeric": 100000,
+    "club": "Al-Jazeera Club (Jordan)",
+    "age": "20"
+   },
+   {
+    "date": "Jul 9, 2021",
+    "value": "€200k",
+    "value_numeric": 200000,
+    "club": "Al-Jazeera Club (Jordan)",
+    "age": "21"
+   },
+   {
+    "date": "Dec 30, 2021",
+    "value": "€275k",
+    "value_numeric": 275000,
+    "club": "Al-Jazeera Club (Jordan)",
+    "age": "21"
+   },
+   {
+    "date": "Jun 24, 2022",
+    "value": "€275k",
+    "value_numeric": 275000,
+    "club": "Al-Hussein SC (Irbid)",
+    "age": "22"
+   },
+   {
+    "date": "Jan 9, 2024",
+    "value": "€275k",
+    "value_numeric": 275000,
+    "club": "Al-Khor SC",
+    "age": "23"
+   },
+   {
+    "date": "Jun 18, 2024",
+    "value": "€350k",
+    "value_numeric": 350000,
+    "club": "Al-Khor SC",
+    "age": "24"
+   },
+   {
+    "date": "Jun 19, 2025",
+    "value": "€350k",
+    "value_numeric": 350000,
+    "club": "Al-Muharraq SC",
+    "age": "25"
+   },
+   {
+    "date": "Dec 29, 2025",
+    "value": "€400k",
+    "value_numeric": 400000,
+    "club": "Al-Karma",
+    "age": "25"
+   },
+   {
+    "date": "Jun 3, 2026",
+    "value": "€500k",
+    "value_numeric": 500000,
+    "club": "Al-Karma",
+    "age": "26"
+   }
+  ],
+  "peak_market_value": 500000,
+  "transfers": [],
+  "_our_pid": "per_ibrahim_sa_deh"
+ },
+ {
+  "player_id": "310943",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/310943",
+  "name": "EhsanHaddad",
+  "shirt_number": 23,
+  "club": "Joined:",
+  "club_id": "15795",
+  "market_value": "€300k",
+  "market_value_numeric": 300000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Social-Media:",
+  "nationality": "Jordan",
+  "citizenships": [
+   "Jordan",
+   "Jordan",
+   "Jordan",
+   "Jordan",
+   "Jordan",
+   "Jordan"
+  ],
+  "market_value_history": [
+   {
+    "date": "Mar 24, 2021",
+    "value": "€200k",
+    "value_numeric": 200000,
+    "club": "Al-Quwa Al-Jawiya",
+    "age": "27"
+   },
+   {
+    "date": "May 10, 2021",
+    "value": "€200k",
+    "value_numeric": 200000,
+    "club": "Al-Quwa Al-Jawiya",
+    "age": "27"
+   },
+   {
+    "date": "Jul 9, 2021",
+    "value": "€400k",
+    "value_numeric": 400000,
+    "club": "Al-Quwa Al-Jawiya",
+    "age": "27"
+   },
+   {
+    "date": "Dec 30, 2021",
+    "value": "€400k",
+    "value_numeric": 400000,
+    "club": "Al-Quwa Al-Jawiya",
+    "age": "27"
+   },
+   {
+    "date": "Sep 16, 2023",
+    "value": "€400k",
+    "value_numeric": 400000,
+    "club": "Al-Faisaly SC",
+    "age": "29"
+   },
+   {
+    "date": "Jan 9, 2024",
+    "value": "€350k",
+    "value_numeric": 350000,
+    "club": "Al-Faisaly SC",
+    "age": "29"
+   },
+   {
+    "date": "Feb 21, 2024",
+    "value": "€400k",
+    "value_numeric": 400000,
+    "club": "Al-Faisaly SC",
+    "age": "30"
+   },
+   {
+    "date": "Jun 18, 2024",
+    "value": "€400k",
+    "value_numeric": 400000,
+    "club": "Al-Faisaly SC",
+    "age": "30"
+   },
+   {
+    "date": "May 30, 2025",
+    "value": "€400k",
+    "value_numeric": 400000,
+    "club": "Al-Hussein SC (Irbid)",
+    "age": "31"
+   },
+   {
+    "date": "Dec 2, 2025",
+    "value": "€350k",
+    "value_numeric": 350000,
+    "club": "Al-Hussein SC (Irbid)",
+    "age": "31"
+   },
+   {
+    "date": "Jun 3, 2026",
+    "value": "€300k",
+    "value_numeric": 300000,
+    "club": "Al-Hussein SC (Irbid)",
+    "age": "32"
+   }
+  ],
+  "peak_market_value": 400000,
+  "transfers": [],
+  "_our_pid": "per_ihsan_haddad"
+ },
+ {
+  "player_id": "895249",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/895249",
+  "name": "MohammadAbu Hasheesh",
+  "shirt_number": 2,
+  "club": "Joined:",
+  "club_id": "103329",
+  "market_value": "€400k",
+  "market_value_numeric": 400000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Social-Media:",
+  "nationality": "Iraq",
+  "citizenships": [
+   "Iraq",
+   "Jordan",
+   "Jordan",
+   "Jordan",
+   "Iraq"
+  ],
+  "market_value_history": [
+   {
+    "date": "Dec 30, 2021",
+    "value": "€375k",
+    "value_numeric": 375000,
+    "club": "Al-Salt SC",
+    "age": "26"
+   },
+   {
+    "date": "Jul 27, 2023",
+    "value": "€375k",
+    "value_numeric": 375000,
+    "club": "Al-Ahed",
+    "age": "28"
+   },
+   {
+    "date": "Dec 12, 2023",
+    "value": "€350k",
+    "value_numeric": 350000,
+    "club": "Al-Ahed",
+    "age": "28"
+   },
+   {
+    "date": "Feb 21, 2024",
+    "value": "€400k",
+    "value_numeric": 400000,
+    "club": "Naft Al-Wassat SC",
+    "age": "28"
+   },
+   {
+    "date": "Jun 18, 2024",
+    "value": "€250k",
+    "value_numeric": 250000,
+    "club": "Naft Al-Wassat SC",
+    "age": "29"
+   },
+   {
+    "date": "Nov 15, 2024",
+    "value": "€300k",
+    "value_numeric": 300000,
+    "club": "Zakho SC",
+    "age": "29"
+   },
+   {
+    "date": "Jul 18, 2025",
+    "value": "€400k",
+    "value_numeric": 400000,
+    "club": "Zakho SC",
+    "age": "30"
+   },
+   {
+    "date": "Dec 29, 2025",
+    "value": "€450k",
+    "value_numeric": 450000,
+    "club": "Al-Karma",
+    "age": "30"
+   },
+   {
+    "date": "Jun 3, 2026",
+    "value": "€400k",
+    "value_numeric": 400000,
+    "club": "Al-Karma",
+    "age": "31"
+   }
+  ],
+  "peak_market_value": 450000,
+  "transfers": [],
+  "_our_pid": "per_mohammad_abu_hashish"
+ },
+ {
+  "player_id": "677986",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/677986",
+  "name": "Shararh",
+  "shirt_number": 27,
+  "club": "Joined:",
+  "club_id": "2068",
+  "market_value": "€700k",
+  "market_value_numeric": 700000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Current club:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Jun 30, 2028",
+  "nationality": "Morocco",
+  "citizenships": [
+   "Morocco",
+   "Jordan",
+   "Jordan",
+   "Jordan",
+   "Jordan",
+   "Jordan"
+  ],
+  "market_value_history": [
+   {
+    "date": "Apr 4, 2020",
+    "value": "€100k",
+    "value_numeric": 100000,
+    "club": "Al-Sailiya SC",
+    "age": "22"
+   },
+   {
+    "date": "Mar 24, 2021",
+    "value": "€150k",
+    "value_numeric": 150000,
+    "club": "Al-Ramtha SC",
+    "age": "23"
+   },
+   {
+    "date": "Dec 30, 2021",
+    "value": "€450k",
+    "value_numeric": 450000,
+    "club": "Al-Ramtha SC",
+    "age": "24"
+   },
+   {
+    "date": "Dec 29, 2022",
+    "value": "€550k",
+    "value_numeric": 550000,
+    "club": "Esperance Tunis",
+    "age": "24"
+   },
+   {
+    "date": "Jun 30, 2023",
+    "value": "€450k",
+    "value_numeric": 450000,
+    "club": "Esperance Tunis",
+    "age": "25"
+   },
+   {
+    "date": "Dec 11, 2023",
+    "value": "€400k",
+    "value_numeric": 400000,
+    "club": "Without Club",
+    "age": "25"
+   },
+   {
+    "date": "Jan 9, 2024",
+    "value": "€400k",
+    "value_numeric": 400000,
+    "club": "Without Club",
+    "age": "26"
+   },
+   {
+    "date": "Nov 15, 2024",
+    "value": "€400k",
+    "value_numeric": 400000,
+    "club": "Al-Shorta SC",
+    "age": "26"
+   },
+   {
+    "date": "May 30, 2025",
+    "value": "€375k",
+    "value_numeric": 375000,
+    "club": "Al-Hussein SC (Irbid)",
+    "age": "27"
+   },
+   {
+    "date": "Dec 2, 2025",
+    "value": "€375k",
+    "value_numeric": 375000,
+    "club": "Al-Ramtha SC",
+    "age": "27"
+   },
+   {
+    "date": "Jun 5, 2026",
+    "value": "€700k",
+    "value_numeric": 700000,
+    "club": "Raja Club Athletic",
+    "age": "28"
+   }
+  ],
+  "peak_market_value": 700000,
+  "transfers": [],
+  "_our_pid": "per_mohammad_abu_zrayq"
+ },
+ {
+  "player_id": "551505",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/551505",
+  "name": "MousaTamari",
+  "shirt_number": 11,
+  "club": "Joined:",
+  "club_id": "273",
+  "market_value": "€10.00m",
+  "market_value_numeric": 10000000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Social-Media:",
+  "nationality": "France",
+  "citizenships": [
+   "France",
+   "Jordan",
+   "Jordan",
+   "Jordan",
+   "Jordan",
+   "Jordan"
+  ],
+  "market_value_history": [
+   {
+    "date": "Dec 31, 2018",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "APOEL Nicosia",
+    "age": "21"
+   },
+   {
+    "date": "Jun 25, 2019",
+    "value": "€2.00m",
+    "value_numeric": 2000000,
+    "club": "APOEL Nicosia",
+    "age": "22"
+   },
+   {
+    "date": "Jan 6, 2020",
+    "value": "€2.00m",
+    "value_numeric": 2000000,
+    "club": "APOEL Nicosia",
+    "age": "22"
+   },
+   {
+    "date": "Apr 8, 2020",
+    "value": "€1.60m",
+    "value_numeric": 1600000,
+    "club": "APOEL Nicosia",
+    "age": "22"
+   },
+   {
+    "date": "Oct 16, 2020",
+    "value": "€1.80m",
+    "value_numeric": 1800000,
+    "club": "Oud-Heverlee Leuven",
+    "age": "23"
+   },
+   {
+    "date": "Jun 7, 2021",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "Oud-Heverlee Leuven",
+    "age": "23"
+   },
+   {
+    "date": "Oct 6, 2021",
+    "value": "€1.30m",
+    "value_numeric": 1300000,
+    "club": "Oud-Heverlee Leuven",
+    "age": "24"
+   },
+   {
+    "date": "Jan 6, 2022",
+    "value": "€1.20m",
+    "value_numeric": 1200000,
+    "club": "Oud-Heverlee Leuven",
+    "age": "24"
+   },
+   {
+    "date": "Apr 12, 2022",
+    "value": "€1.20m",
+    "value_numeric": 1200000,
+    "club": "Oud-Heverlee Leuven",
+    "age": "24"
+   },
+   {
+    "date": "Nov 4, 2022",
+    "value": "€1.80m",
+    "value_numeric": 1800000,
+    "club": "Oud-Heverlee Leuven",
+    "age": "25"
+   },
+   {
+    "date": "Jun 9, 2023",
+    "value": "€2.50m",
+    "value_numeric": 2500000,
+    "club": "Oud-Heverlee Leuven",
+    "age": "25"
+   },
+   {
+    "date": "Oct 16, 2023",
+    "value": "€5.00m",
+    "value_numeric": 5000000,
+    "club": "Montpellier HSC",
+    "age": "26"
+   },
+   {
+    "date": "Dec 18, 2023",
+    "value": "€6.00m",
+    "value_numeric": 6000000,
+    "club": "Montpellier HSC",
+    "age": "26"
+   },
+   {
+    "date": "Feb 21, 2024",
+    "value": "€7.00m",
+    "value_numeric": 7000000,
+    "club": "Montpellier HSC",
+    "age": "26"
+   },
+   {
+    "date": "Jun 3, 2024",
+    "value": "€8.00m",
+    "value_numeric": 8000000,
+    "club": "Montpellier HSC",
+    "age": "26"
+   },
+   {
+    "date": "Dec 10, 2024",
+    "value": "€6.00m",
+    "value_numeric": 6000000,
+    "club": "Montpellier HSC",
+    "age": "27"
+   },
+   {
+    "date": "Jun 3, 2025",
+    "value": "€6.00m",
+    "value_numeric": 6000000,
+    "club": "Stade Rennais FC",
+    "age": "27"
+   },
+   {
+    "date": "Dec 15, 2025",
+    "value": "€6.00m",
+    "value_numeric": 6000000,
+    "club": "Stade Rennais FC",
+    "age": "28"
+   },
+   {
+    "date": "Mar 27, 2026",
+    "value": "€8.00m",
+    "value_numeric": 8000000,
+    "club": "Stade Rennais FC",
+    "age": "28"
+   },
+   {
+    "date": "Jun 1, 2026",
+    "value": "€10.00m",
+    "value_numeric": 10000000,
+    "club": "Stade Rennais FC",
+    "age": "28"
+   }
+  ],
+  "peak_market_value": 10000000,
+  "transfers": [],
+  "_our_pid": "per_musa_al_taamari"
+ },
+ {
+  "player_id": "261837",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/261837",
+  "name": "NoorBane Ataya",
+  "shirt_number": 1,
+  "club": "Joined:",
+  "club_id": "13592",
+  "market_value": "€250k",
+  "market_value_numeric": 250000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Social-Media:",
+  "nationality": "Jordan",
+  "citizenships": [
+   "Jordan",
+   "Jordan",
+   "Jordan",
+   "Jordan",
+   "Jordan",
+   "Jordan"
+  ],
+  "market_value_history": [
+   {
+    "date": "Mar 24, 2021",
+    "value": "€50k",
+    "value_numeric": 50000,
+    "club": "Al-Faisaly SC",
+    "age": "28"
+   },
+   {
+    "date": "Sep 16, 2023",
+    "value": "€75k",
+    "value_numeric": 75000,
+    "club": "Al-Faisaly SC",
+    "age": "30"
+   },
+   {
+    "date": "Sep 9, 2024",
+    "value": "€200k",
+    "value_numeric": 200000,
+    "club": "Al-Faisaly SC",
+    "age": "31"
+   },
+   {
+    "date": "May 30, 2025",
+    "value": "€200k",
+    "value_numeric": 200000,
+    "club": "Al-Faisaly SC",
+    "age": "32"
+   },
+   {
+    "date": "Dec 2, 2025",
+    "value": "€250k",
+    "value_numeric": 250000,
+    "club": "Al-Faisaly SC",
+    "age": "32"
+   },
+   {
+    "date": "Jun 3, 2026",
+    "value": "€250k",
+    "value_numeric": 250000,
+    "club": "Al-Faisaly SC",
+    "age": "33"
+   }
+  ],
+  "peak_market_value": 250000,
+  "transfers": [],
+  "_our_pid": "per_nour_bani_attiah"
+ },
+ {
+  "player_id": "1252820",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/1252820",
+  "name": "OdehFakhoury",
+  "shirt_number": 25,
+  "club": "Joined:",
+  "club_id": "44664",
+  "market_value": "€350k",
+  "market_value_numeric": 350000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Jun 30, 2029",
+  "nationality": "Egypt",
+  "citizenships": [
+   "Egypt",
+   "Jordan",
+   "Jordan",
+   "Jordan"
+  ],
+  "market_value_history": [
+   {
+    "date": "Dec 2, 2025",
+    "value": "€200k",
+    "value_numeric": 200000,
+    "club": "Al-Hussein SC (Irbid)",
+    "age": "20"
+   },
+   {
+    "date": "Mar 12, 2026",
+    "value": "€250k",
+    "value_numeric": 250000,
+    "club": "Pyramids FC",
+    "age": "20"
+   },
+   {
+    "date": "May 20, 2026",
+    "value": "€350k",
+    "value_numeric": 350000,
+    "club": "Pyramids FC",
+    "age": "20"
+   }
+  ],
+  "peak_market_value": 350000,
+  "transfers": [],
+  "_our_pid": "per_odeh_al_fakhouri"
+ },
+ {
+  "player_id": "561481",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/561481",
+  "name": "SaedAl-Rousan",
+  "shirt_number": 15,
+  "club": "Joined:",
+  "club_id": "15795",
+  "market_value": "€450k",
+  "market_value_numeric": 450000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Social-Media:",
+  "nationality": "Jordan",
+  "citizenships": [
+   "Jordan",
+   "Jordan",
+   "Jordan",
+   "Jordan",
+   "Jordan",
+   "Jordan"
+  ],
+  "market_value_history": [
+   {
+    "date": "Mar 24, 2021",
+    "value": "€75k",
+    "value_numeric": 75000,
+    "club": "Al-Hussein SC (Irbid)",
+    "age": "24"
+   },
+   {
+    "date": "Oct 4, 2022",
+    "value": "-",
+    "value_numeric": null,
+    "club": "Al-Hussein SC (Irbid)",
+    "age": "25"
+   },
+   {
+    "date": "Jun 18, 2024",
+    "value": "€150k",
+    "value_numeric": 150000,
+    "club": "Al-Hussein SC (Irbid)",
+    "age": "27"
+   },
+   {
+    "date": "May 30, 2025",
+    "value": "€300k",
+    "value_numeric": 300000,
+    "club": "Al-Hussein SC (Irbid)",
+    "age": "28"
+   },
+   {
+    "date": "Dec 2, 2025",
+    "value": "€400k",
+    "value_numeric": 400000,
+    "club": "Al-Hussein SC (Irbid)",
+    "age": "28"
+   },
+   {
+    "date": "Jun 3, 2026",
+    "value": "€450k",
+    "value_numeric": 450000,
+    "club": "Al-Hussein SC (Irbid)",
+    "age": "29"
+   }
+  ],
+  "peak_market_value": 450000,
+  "transfers": [],
+  "_our_pid": "per_saed_al_rosan"
+ },
+ {
+  "player_id": "261485",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/261485",
+  "name": "SalimRashid",
+  "shirt_number": 12,
+  "club": "Joined:",
+  "club_id": "38040",
+  "market_value": "€275k",
+  "market_value_numeric": 275000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Current club:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "-",
+  "nationality": "United Arab Emirates",
+  "citizenships": [
+   "United Arab Emirates",
+   "United Arab Emirates",
+   "United Arab Emirates",
+   "United Arab Emirates"
+  ],
+  "market_value_history": [
+   {
+    "date": "Dec 12, 2017",
+    "value": "€350k",
+    "value_numeric": 350000,
+    "club": "Al-Jazira Club",
+    "age": "23"
+   },
+   {
+    "date": "Apr 25, 2019",
+    "value": "€450k",
+    "value_numeric": 450000,
+    "club": "Al-Jazira Club",
+    "age": "25"
+   },
+   {
+    "date": "Nov 14, 2019",
+    "value": "€475k",
+    "value_numeric": 475000,
+    "club": "Al-Jazira Club",
+    "age": "25"
+   },
+   {
+    "date": "Apr 8, 2020",
+    "value": "€375k",
+    "value_numeric": 375000,
+    "club": "Al-Jazira Club",
+    "age": "26"
+   },
+   {
+    "date": "Dec 4, 2020",
+    "value": "€650k",
+    "value_numeric": 650000,
+    "club": "Al-Jazira Club",
+    "age": "26"
+   },
+   {
+    "date": "May 27, 2021",
+    "value": "€800k",
+    "value_numeric": 800000,
+    "club": "Al-Jazira Club",
+    "age": "27"
+   },
+   {
+    "date": "Nov 25, 2021",
+    "value": "€600k",
+    "value_numeric": 600000,
+    "club": "Al-Jazira Club",
+    "age": "27"
+   },
+   {
+    "date": "May 18, 2022",
+    "value": "€700k",
+    "value_numeric": 700000,
+    "club": "Al-Jazira Club",
+    "age": "28"
+   },
+   {
+    "date": "Dec 15, 2022",
+    "value": "€600k",
+    "value_numeric": 600000,
+    "club": "Al-Jazira Club",
+    "age": "28"
+   },
+   {
+    "date": "May 31, 2023",
+    "value": "€400k",
+    "value_numeric": 400000,
+    "club": "Al-Jazira Club",
+    "age": "29"
+   },
+   {
+    "date": "Oct 12, 2023",
+    "value": "€400k",
+    "value_numeric": 400000,
+    "club": "Kalba FC",
+    "age": "29"
+   },
+   {
+    "date": "Mar 8, 2024",
+    "value": "€400k",
+    "value_numeric": 400000,
+    "club": "Kalba FC",
+    "age": "30"
+   },
+   {
+    "date": "Jun 3, 2024",
+    "value": "€375k",
+    "value_numeric": 375000,
+    "club": "Kalba FC",
+    "age": "30"
+   },
+   {
+    "date": "May 29, 2025",
+    "value": "€350k",
+    "value_numeric": 350000,
+    "club": "Kalba FC",
+    "age": "31"
+   },
+   {
+    "date": "Nov 28, 2025",
+    "value": "€325k",
+    "value_numeric": 325000,
+    "club": "Kalba FC",
+    "age": "31"
+   },
+   {
+    "date": "May 26, 2026",
+    "value": "€275k",
+    "value_numeric": 275000,
+    "club": "Kalba FC",
+    "age": "32"
+   }
+  ],
+  "peak_market_value": 800000,
+  "transfers": [],
+  "_our_pid": "per_salim_obaid"
+ },
+ {
+  "player_id": "261850",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/261850",
+  "name": "YazeedAbulaila",
+  "shirt_number": 1,
+  "club": "Joined:",
+  "club_id": "15795",
+  "market_value": "€300k",
+  "market_value_numeric": 300000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Current club:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Social-Media:",
+  "nationality": "Jordan",
+  "citizenships": [
+   "Jordan",
+   "Jordan",
+   "Jordan",
+   "Jordan",
+   "Jordan",
+   "Jordan"
+  ],
+  "market_value_history": [
+   {
+    "date": "Dec 30, 2021",
+    "value": "€375k",
+    "value_numeric": 375000,
+    "club": "Al-Faisaly SC",
+    "age": "28"
+   },
+   {
+    "date": "Oct 26, 2023",
+    "value": "€350k",
+    "value_numeric": 350000,
+    "club": "Al-Jabalain FC",
+    "age": "30"
+   },
+   {
+    "date": "Jan 9, 2024",
+    "value": "€350k",
+    "value_numeric": 350000,
+    "club": "Al-Jabalain FC",
+    "age": "31"
+   },
+   {
+    "date": "Feb 21, 2024",
+    "value": "€400k",
+    "value_numeric": 400000,
+    "club": "Al-Jabalain FC",
+    "age": "31"
+   },
+   {
+    "date": "Jun 4, 2024",
+    "value": "€325k",
+    "value_numeric": 325000,
+    "club": "Al-Jabalain FC",
+    "age": "31"
+   },
+   {
+    "date": "May 30, 2025",
+    "value": "€325k",
+    "value_numeric": 325000,
+    "club": "Al-Hussein SC (Irbid)",
+    "age": "32"
+   },
+   {
+    "date": "Dec 2, 2025",
+    "value": "€300k",
+    "value_numeric": 300000,
+    "club": "Al-Hussein SC (Irbid)",
+    "age": "32"
+   },
+   {
+    "date": "Jun 3, 2026",
+    "value": "€300k",
+    "value_numeric": 300000,
+    "club": "Al-Hussein SC (Irbid)",
+    "age": "33"
+   }
+  ],
+  "peak_market_value": 400000,
+  "transfers": [],
+  "_our_pid": "per_yazeed_abulaila"
+ }
+]

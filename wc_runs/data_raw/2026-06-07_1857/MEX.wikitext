@@ -1,0 +1,35 @@
+===Current squad===
+The following 26 players were named in the squad for the [[2026 FIFA World Cup]].<ref>{{cite web|title=Al Llamado Convocatoria de la SNM para la Copa Mundial de la FIFA 2026|url=https://miseleccion.mx/noticia/6463-Al-Llamado-%7C-Convocatoria-de-la-SNM-para-la-Copa-Mundial-de-la-FIFA-2026|website=MiSeleccion.mx|date=31 May 2026|access-date=31 May 2026|language=es}}</ref>
+<br>''Caps and goals correct as of 4 June 2026, after the match against [[Serbia national football team|Serbia]].''
+<!--Sorted by position, number (if available), caps, goals and last name.-->
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Raúl Rangel (footballer)|Raúl Rangel]]|age={{bda|2000|2|25|df=y}}|caps=14|goals=0|club=[[C.D. Guadalajara|Guadalajara]]|clubnat=MEX}}
+{{nat fs g player|no=12|pos=GK|name=[[Carlos Acevedo]]|age={{bda|1996|4|19|df=y}}|caps=7|goals=0|club=[[Santos Laguna]]|clubnat=MEX}}
+{{nat fs g player|no=13|pos=GK|name=[[Guillermo Ochoa]]|age={{bda|1985|7|13|df=y}}|caps=152|goals=0|club=[[AEL Limassol]]|clubnat=CYP}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Jorge Sánchez (footballer, born 1997)|Jorge Sánchez]]|age={{bda|1997|12|10|df=y}}|caps=59|goals=3|club=[[PAOK FC|PAOK]]|clubnat=GRE}}
+{{nat fs g player|no=3|pos=DF|name=[[César Montes]]|other=[[Captain (association football)|vice-captain]]|age={{bda|1997|2|24|df=y}}|caps=67|goals=4|club=[[FC Lokomotiv Moscow|Lokomotiv Moscow]]|clubnat=RUS}}
+{{nat fs g player|no=4|pos=DF|name=[[Edson Álvarez]]|other=[[Captain (association football)|captain]]|age={{bda|1997|10|24|df=y}}|caps=98|goals=7|club=[[Fenerbahçe S.K. (football)|Fenerbahçe]]|clubnat=TUR}}
+{{nat fs g player|no=5|pos=DF|name=[[Johan Vásquez (footballer, born 1998)|Johan Vásquez]]|other=[[Captain (association football)|third captain]]|age={{bda|1998|10|22|df=y}}|caps=46|goals=3|club=[[Genoa CFC|Genoa]]|clubnat=ITA}}
+{{nat fs g player|no=15|pos=DF|name=[[Israel Reyes]]|age={{bda|2000|5|23|df=y}}|caps=34|goals=2|club=[[Club América|América]]|clubnat=MEX}}
+{{nat fs g player|no=20|pos=DF|name=[[Mateo Chávez]]|age={{bda|2004|5|11|df=y}}|caps=10|goals=0|club=[[AZ Alkmaar|AZ]]|clubnat=NED}}
+{{nat fs g player|no=23|pos=DF|name=[[Jesús Gallardo]]|age={{bda|1994|8|15|df=y}}|caps=121|goals=3|club=[[Toluca FC|Toluca]]|clubnat=MEX}}
+{{nat fs break}}
+{{nat fs g player|no=6|pos=MF|name=[[Érik Lira]]|age={{bda|2000|5|8|df=y}}|caps=25|goals=0|club=[[Cruz Azul]]|clubnat=MEX}}
+{{nat fs g player|no=7|pos=MF|name=[[Luis Romo]]|age={{bda|1995|6|5|df=y}}|caps=63|goals=4|club=[[C.D. Guadalajara|Guadalajara]]|clubnat=MEX}}
+{{nat fs g player|no=8|pos=MF|name=[[Álvaro Fidalgo]]|age={{bda|1997|4|9|df=y}}|caps=4|goals=0|club=[[Real Betis|Betis]]|clubnat=ESP}}
+{{nat fs g player|no=17|pos=MF|name=[[Orbelín Pineda]]|age={{bda|1996|3|24|df=y}}|caps=92|goals=12|club=[[AEK Athens F.C.|AEK Athens]]|clubnat=GRE}}
+{{nat fs g player|no=18|pos=MF|name=[[Obed Vargas]]|age={{bda|2005|8|5|df=y}}|caps=6|goals=0|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=19|pos=MF|name=[[Gilberto Mora (footballer, born 2008)|Gilberto Mora]]|age={{bda|2008|10|14|df=y}}|caps=8|goals=0|club=[[Club Tijuana|Tijuana]]|clubnat=MEX}}
+{{nat fs g player|no=24|pos=MF|name=[[Luis Chávez (footballer)|Luis Chávez]]|age={{bda|1996|1|15|df=y}}|caps=45|goals=5|club=[[FC Dynamo Moscow|Dynamo Moscow]]|clubnat=RUS}}
+{{nat fs g player|no=25|pos=MF|name=[[Roberto Alvarado]]|age={{bda|1998|9|7|df=y}}|caps=67|goals=5|club=[[C.D. Guadalajara|Guadalajara]]|clubnat=MEX}}
+{{nat fs g player|no=26|pos=MF|name=[[Brian Gutiérrez]]|age={{bda|2003|6|17|df=y}}|caps=7|goals=2|club=[[C.D. Guadalajara|Guadalajara]]|clubnat=MEX}}
+{{nat fs break}}
+{{nat fs g player|no=9|pos=FW|name=[[Raúl Jiménez]]|age={{bda|1991|5|5|df=y}}|caps=124|goals=45|club=[[Fulham F.C.|Fulham]]|clubnat=ENG}}
+{{nat fs g player|no=10|pos=FW|name=[[Alexis Vega (Mexican footballer)|Alexis Vega]]|age={{bda|1997|11|25|df=y}}|caps=52|goals=7|club=[[Toluca FC|Toluca]]|clubnat=MEX}}
+{{nat fs g player|no=11|pos=FW|name=[[Santiago Giménez]]|age={{bda|2001|4|18|df=y}}|caps=47|goals=6|club=[[AC Milan|Milan]]|clubnat=ITA}}
+{{nat fs g player|no=14|pos=FW|name=[[Armando González (footballer, born 2003)|Armando González]]|age={{bda|2003|4|20|df=y}}|caps=7|goals=1|club=[[C.D. Guadalajara|Guadalajara]]|clubnat=MEX}}
+{{nat fs g player|no=16|pos=FW|name=[[Julián Quiñones]]|age={{bda|1997|3|24|df=y}}|caps=22|goals=2|club=[[Al Qadsiah FC|Al-Qadsiah]]|clubnat=KSA}}
+{{nat fs g player|no=21|pos=FW|name=[[César Huerta]]|age={{bda|2000|12|3|df=y}}|caps=26|goals=3|club=[[RSC Anderlecht|Anderlecht]]|clubnat=BEL}}
+{{nat fs g player|no=22|pos=FW|name=[[Guillermo Martínez (footballer)|Guillermo Martínez]]|age={{bda|1995|3|15|df=y}}|caps=12|goals=3|club=[[Pumas UNAM|UNAM]]|clubnat=MEX}}
+{{nat fs end}}

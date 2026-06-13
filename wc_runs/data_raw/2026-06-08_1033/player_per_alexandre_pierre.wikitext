@@ -1,0 +1,123 @@
+{{Short description|Footballer (born 2001)}}
+{{Use British English|date=June 2022}}
+{{Use dmy dates|date=May 2026}}
+{{Infobox football biography
+|name = Alexandre Pierre
+|image = 
+|fullname = 
+|birth_date = {{birth date and age|2001|2|26|df=y}}
+|birth_place = [[Aubervilliers]], France
+|height = 1.90m
+|position = [[Goalkeeper (association football)|Goalkeeper]]
+|currentclub = [[FC Sochaux-Montbéliard|Sochaux]]
+|clubnumber = 30
+|youthyears1 = 
+|youthclubs1 = [[Stade Lavallois|Laval]]
+|years1 = 2018–2019
+|clubs1 = [[Stade Lavallois|Laval II]]
+|caps1 = 2
+|goals1 = 0
+|years2 = 2019–2020
+|clubs2 = [[Angers SCO|Angers II]]
+|caps2 = 0
+|goals2 = 0
+|years3 = 2020–2024
+|clubs3 = [[RC Strasbourg Alsace|Strasbourg II]]
+|caps3 = 31
+|goals3 = 0
+|years4 = 2021–2022
+|clubs4 = → [[FC Annecy|Annecy]] (loan)
+|caps4 = 0
+|goals4 = 0
+|years5 = 2023–2024
+|clubs5 = [[RC Strasbourg Alsace|Strasbourg]]
+|caps5 = 0
+|goals5 = 0
+|years6 = 2024–
+|clubs6 = [[FC Sochaux-Montbéliard|Sochaux]]
+|caps6 = 16
+|goals6 = 0
+|years7 = 2024–
+|clubs7 = [[FC Sochaux-Montbéliard|Sochaux B]]
+|caps7 = 25
+|goals7 = 0
+|nationalyears1 = 2022–
+|nationalteam1 = [[Haiti national football team|Haiti]]
+|nationalcaps1 = 15
+|nationalgoals1 = 0
+|pcupdate = 16 May 2026
+|ntupdate = 21:15, 2 June 2026 (UTC)
+}}
+
+'''Alexandre Pierre''' (born 25 February 2001) is a professional [[Association football|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for {{French football updater|Sochaux}} club [[FC Sochaux-Montbéliard|Sochaux]]. Born in France, he plays for the [[Haiti national football team|Haiti national team]].
+
+==Club career==
+Pierre began his senior career with the reserves of [[Stade Lavallois|Laval]] in 2018. From 2019 to 2020, he was the backup goalkeeper at the reserves of [[Angers SCO|Angers]].<ref>{{Cite web|url=https://www.haititempo.com/foot-france-alexandre-pierre-signe-son-premier-contrat-professionnel/|title=Foot - France : Alexandre Pierre signe son premier contrat professionnel !|first=Pierre Caleb|last=Jephté|date=2 June 2021}}</ref> In May 2020, he signed a 3-year contract with [[RC Strasbourg Alsace|Strasbourg]], originally going to their reserves as well.<ref>{{Cite web|url=https://www.foot-national.com/ligue-1/annecy--avec-l-arrivee-d-alexandre-pierre--les-anneciens-affirment-leurs-ambitions-723255|title=Annecy : avec l'arrivée d'Alexandre Pierre, les Annéciens affirment leurs ambitions|date=2 December 2021|website=Foot National}}</ref> He joined [[FC Annecy|Annecy]] on loan in the [[Championnat National]] for the second half of the 2021–22 season on 2 December 2021.<ref name="LAlsace 2021">{{cite web | title=Football/Ligue 1. Racing: le jeune gardien Alexandre Pierre prêté à Annecy | website=L'Alsace | date=2 December 2021 | url=https://www.lalsace.fr/sport/2021/12/02/racing-le-jeune-gardien-alexandre-pierre-prete-a-annecy | language=fr | access-date=6 June 2022}}</ref>
+
+==International career==
+Born in France, Pierre holds French and Haïtian nationalities.<ref>{{Cite web|url=https://www.haititempo.com/foot-selection-alexandre-junior-pierre-le-bon-coup-de-jean-jacques-pierre/|title=Foot - Sélection : Alexandre Junior Pierre, le bon coup de Jean-Jacques Pierre|first=Pierre Caleb|last=Jephté|date=21 May 2022}}</ref> He debuted in a 0–0 [[CONCACAF Nations League]] tie with [[Bermuda national football team|Bermuda]] on 4 June 2022.<ref>{{Cite web|url=https://lenouvelliste.com/article/236217/football-triste-et-decevant-match-nul-0-0-entre-bermudes-et-haiti|title=Football : triste et décevant match nul (0-0) entre Bermudes et Haïti|website=Le Nouvelliste}}</ref>
+
+==Career statistics==
+===International===
+{{updated|match played 2 June 2026.}}<ref>{{NFT player|pid=87755}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|-
+! National team!!Year!!Apps!!Goals
+|-
+|rowspan=5|[[Haiti national football team|Haiti]]
+|2022||2||0
+|-
+|2023||6||0
+|-
+|2024||3||0
+|-
+|2025||1||0
+|-
+|2026||3||0
+|-
+! colspan=2|Total!!15!!0
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Soccerway|new_id=pierre-alexandre/0OG09j8j|id=alexandre-pierre/545731|archive=20250426213949}}
+* {{BDFutbol|28957}}
+* {{LFP Ligue 1|alexandre-pierre}}
+
+{{FC Sochaux-Montbéliard squad}}
+{{Navboxes
+| title = Haiti squads
+| bg        = #00209F
+| fg        = white
+| bordercolor = #D21034
+| list1 = 
+{{Haiti squad 2023 CONCACAF Gold Cup}}
+{{Haiti squad 2025 CONCACAF Gold Cup}}
+{{Haiti squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Pierre, Alexandre}}
+[[Category:2001 births]]
+[[Category:Living people]]
+[[Category:Footballers from Aubervilliers]]
+[[Category:Haitian men's footballers]]
+[[Category:Haiti men's international footballers]]
+[[Category:French men's footballers]]
+[[Category:Men's association football goalkeepers]]
+[[Category:Stade Lavallois players]]
+[[Category:Angers SCO players]]
+[[Category:RC Strasbourg Alsace players]]
+[[Category:FC Annecy players]]
+[[Category:FC Sochaux-Montbéliard players]]
+[[Category:Championnat National 3 players]]
+[[Category:Black French sportspeople]]
+[[Category:2023 CONCACAF Gold Cup players]]
+[[Category:2025 CONCACAF Gold Cup players]]
+[[Category:21st-century French sportsmen]]
+[[Category:21st-century Haitian sportsmen]]
+[[Category:2026 FIFA World Cup players]]
+
+{{Haiti-footy-bio-stub}}

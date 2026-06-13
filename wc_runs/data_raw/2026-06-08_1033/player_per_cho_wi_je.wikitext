@@ -1,0 +1,118 @@
+{{Short description|South Korean footballer (born 2001)}}
+{{family name hatnote|Cho||lang=Korean}}
+{{Use dmy dates|date=May 2026}}
+{{Infobox football biography
+| name                = Cho Wi-je
+| image               = 
+| caption             = 
+| birth_date          = {{birth date and age|2001|08|25|df=y}}
+| birth_place         = [[Busan]], South Korea
+| height              = 1.89 m
+| currentclub         = [[Jeonbuk Hyundai Motors]]
+| clubnumber          = 4
+| position            = [[Defender (association football)#Centre-back|Centre-back]]
+| youthyears1         = 2012–2019
+| youthclubs1         = [[Busan IPark]]
+| youthyears2         = 2020–2021
+| youthclubs2         = [[Yong In University]]
+| years1 = 2022–2025
+| clubs1 = [[Busan IPark]] 
+| caps1 = 104
+| goals1 = 3
+| years2 = 2026–
+| clubs2 = [[Jeonbuk Hyundai Motors]]
+| caps2 = 12
+| goals2 = 2
+| nationalyears1 = 2022–2023
+| nationalteam1  = [[South Korea national under-23 football team|South Korea U23]]
+| nationalcaps1  = 6
+| nationalgoals1 = 0
+| nationalyears2 = 2026–
+| nationalteam2  = [[South Korea national football team|South Korea]]
+| nationalcaps2  = 1
+| nationalgoals2 = 0
+| club-update         = 13 May 2026
+| nationalteam-update = 3 June 2026
+}}
+'''Cho Wi-je''' ({{Korean|조위제}}; born 25 August 2001) is a South Korean professional [[Association football|footballer]] who plays as a [[Defender (association football)#Centre-back|centre-back]] for [[Jeonbuk Hyundai Motors]] and the [[South Korea national football team|South Korea national team]].<ref>{{cite web|url=https://www.kleague.com/record/playerDetail.do?playerId=20220174 |title=Profile |accessdate=31 May 2026 |publisher=kleague.com |language=Korean}}</ref>
+
+==Club career==
+In 2021, Cho Wi-je signed a professional contract with Busan IPark.<ref>{{Cite web |title= 프로축구 부산, 유스팀 출신 조위제 우선 지명 영입|trans-title= Professional football team Busan gives first priority to signing Cho Wi-je, who came from the youth team. |url=https://www.yna.co.kr/view/AKR20211222046100007 |website=Yonhap |date=2021-12-22 |access-date=2021-12-22 |language=ko |last=연합뉴스}}</ref>
+
+Four years later, he received a call from Jeonbuk and joined Jeonbuk in January 2026.<ref>{{Cite web |title= 전북현대모터스FC, ‘철벽’ 센터백 조위제 합류… 수비 라인 세대교체 |trans-title= Jeonbuk Hyundai Motors FC, 'Impenetrable' center back Jo Wi-je joins… Defensive line undergoes generational change |url=https://hyundai-motorsfc.com/media/news/100663 |website=hyundai-motorsfc.com |date=2026-01-07 |access-date=2026-01-07 |language=ko |last=전북현대모터스}}</ref>
+
+==International career==
+Cho Wi-je was called up to the [[South Korea national football team|South Korea]] squad for the [[2026 FIFA World Cup]] on 31 May 2026 as a replacement for the injured [[Cho Yu-min]].<ref>{{cite web |url=https://www.reuters.com/sports/soccer/south-korea-defender-cho-ruled-out-world-cup-2026-06-01/ |title=South Korea defender Cho ruled out of World Cup |work=[[Reuters]] |date=May 31, 2026 |access-date=June 1, 2026}}</ref>
+
+==Career statistics==
+
+===Club===
+{{Updated|match played 13 May 2026}}<ref>{{cite web|url=https://www.soccerway.com/player/cho-wi-je/2V17iLDN/ |title=Cho Wi-je |accessdate=31 May 2026 |publisher=soccerway.com}}</ref>
+
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|Cup
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="5"|[[Busan IPark]]
+|[[2022 K League 2|2022]]
+|rowspan="4"|[[K League 2]]
+|25||0||2||0||colspan="2"|—||colspan="2"|—||27||0
+|-
+|[[2023 K League 2|2023]]
+|32||1||1||0||colspan="2"|—||1{{efn|name=KLPO|Appearances in [[K League]] promotion play-offs}}||0||34||1
+|-
+|[[2024 K League 2|2024]]
+|11||1||0||0||colspan="2"|—||1{{efn|name=KLPO}}||0||12||1
+|-
+|[[2025 K League 2|2025]]
+|36||1||1||0||colspan="2"|—||colspan="2"|—||37||1
+|-
+!colspan="2"|Total
+!104||3||4||0||0||0||2||0||110||3
+|-
+|[[Jeonbuk Hyundai Motors]]
+|[[2026 K League 1|2026]]
+|[[K League 1]]
+|12||2||0||0||0||0||0||0||12||2
+|-
+! colspan=3 | Career total
+!116!!5!!4!!0!!0!!0!!2!!0!!122!!5
+|}<!--
+;Notes-->
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{K League player|20220174}}
+
+{{Jeonbuk Hyundai Motors squad}}
+{{South Korea squad 2026 FIFA World Cup}}
+{{authority control}}
+
+{{DEFAULTSORT:Cho, Wi-je}}
+[[Category:2001 births]]
+[[Category:Living people]]
+[[Category:Footballers from Busan]]
+[[Category:South Korean men's footballers]]
+[[Category:Men's association football midfielders]]
+[[Category:Yong In University alumni]]
+[[Category:Busan IPark players]]
+[[Category:Jeonbuk Hyundai Motors players]]
+[[Category:K League 2 players]]
+[[Category:K League 1 players]]
+[[Category:South Korea men's youth international footballers]]
+[[Category:2026 FIFA World Cup players]]
+[[Category:21st-century South Korean sportsmen]]
+
+{{SouthKorea-footy-bio-stub}}

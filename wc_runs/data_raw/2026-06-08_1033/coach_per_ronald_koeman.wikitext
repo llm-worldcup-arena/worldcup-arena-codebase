@@ -1,0 +1,649 @@
+{{short description|Dutch football manager (born 1963)}}
+{{for|his son, a current footballer|Ronald Koeman Jr.}}
+{{Use dmy dates|date=May 2026}}
+{{Infobox football biography
+| name = Ronald Koeman
+| image = Ronald Koeman (2014) (cropped).jpg
+| caption = Koeman in 2014
+| full_name = Ronald Koeman<ref>{{cite web |url=https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf |title=Squad List: FIFA World Cup 2026: Netherlands (NED) |publisher=FIFA |page=30 |date=3 June 2026 |access-date=3 June 2026}}</ref>
+| birth_date = {{birth date and age|1963|3|21|df=y}}<ref name=BDFutbol>{{cite web |url=http://www.bdfutbol.com/en/l/l2398.html |title=Koeman: Ronald Koeman: Manager |publisher=BDFutbol |access-date=21 December 2017 |archive-url=https://web.archive.org/web/20171221224945/http://www.bdfutbol.com/en/l/l2398.html |archive-date=21 December 2017 |url-status=live }}</ref>
+| birth_place = [[Zaandam]], Netherlands<ref name=BDFutbol/>
+| height = 1.81 m<ref name=BDFutbol/>
+| position = [[Defender (association football)|Defender]], [[midfielder]]
+| currentclub = [[Netherlands national football team|Netherlands]] (manager)
+| youthyears1 = 
+| youthclubs1 = VV Helpman
+| youthyears2 = 
+| youthclubs2 = GRC Groningen
+| years1 = 1980–1983
+| clubs1 = [[FC Groningen|Groningen]]
+| caps1 = 90
+| goals1 = 32
+| years2 = 1983–1986
+| clubs2 = [[AFC Ajax|Ajax]]
+| caps2 = 94
+| goals2 = 23
+| years3 = 1986–1989
+| clubs3 = [[PSV Eindhoven|PSV]]
+| caps3 = 98
+| goals3 = 51
+| years4 = 1989–1995
+| clubs4 = [[FC Barcelona|Barcelona]]
+| caps4 = 192
+| goals4 = 67
+| years5 = 1995–1997
+| clubs5 = [[Feyenoord]]
+| caps5 = 61
+| goals5 = 19
+| totalcaps = 535
+| totalgoals = 192
+| nationalyears1 = 1983–1994
+| nationalteam1 = [[Netherlands national football team|Netherlands]]
+| nationalcaps1 = 78
+| nationalgoals1 = 14
+| manageryears1 = 2000–2001
+| managerclubs1 = [[SBV Vitesse|Vitesse]]
+| manageryears4 = 2001–2005
+| managerclubs4 = [[AFC Ajax|Ajax]]
+| manageryears5 = 2005–2006
+| managerclubs5 = [[S.L. Benfica|Benfica]]
+| manageryears6 = 2006–2007
+| managerclubs6 = [[PSV Eindhoven|PSV]]
+| manageryears7 = 2007–2008
+| managerclubs7 = [[Valencia CF|Valencia]]
+| manageryears8 = 2009
+| managerclubs8 = [[AZ Alkmaar|AZ]]
+| manageryears9 = 2011–2014
+| managerclubs9 = [[Feyenoord]]
+| manageryears10 = 2014–2016
+| managerclubs10 = [[Southampton F.C.|Southampton]]
+| manageryears11 = 2016–2017
+| managerclubs11 = [[Everton F.C.|Everton]]
+| manageryears12 = 2018–2020
+| managerclubs12 = [[Netherlands national football team|Netherlands]]
+| manageryears13 = 2020–2021
+| managerclubs13 = [[FC Barcelona|Barcelona]]
+| manageryears14 = 2023–
+| managerclubs14 = [[Netherlands national football team|Netherlands]]
+| medaltemplates = {{MedalCountry|{{fb|Netherlands}}}} (as player)
+{{MedalCompetition|[[UEFA European Championship]]}}
+{{Medal|W|[[UEFA Euro 1988|1988]]|[[UEFA Euro 1988 squads#Netherlands|Team]]}}
+{{Medal|Bronze|[[UEFA Euro 1992|1992]]|[[UEFA Euro 1992 squads#Netherlands|Team]]}}
+{{MedalCountry|{{fb|NED}}}} (as manager)
+{{Medal|Comp|[[UEFA European Championship]]}}
+{{Medal|Bronze|[[UEFA Euro 2024|2024]]|[[UEFA Euro 2024 squads#Netherlands|Team]]}}
+{{Medal|Comp|[[UEFA Nations League]]}}
+{{Medal|RU|[[2019 UEFA Nations League Finals|2019]]|[[2019 UEFA Nations League Finals squads#Netherlands|Team]]}}
+}}
+'''Ronald Koeman''' ({{IPA|nl|ˈroːnɑlt ˈkumɑn|-|Nl-Ronald Koeman.ogg}}; born 21 March 1963) is a Dutch professional [[Manager (association football)|football manager]] and former [[Football player|player]] who is the manager of the [[Netherlands national football team|Netherlands national team]]. Koeman scored over 250 goals whilst playing in defence for the majority of his career. Koeman was capable of playing both as a [[defender (association football)|defender]] and as a [[midfielder]]; he frequently played as a [[sweeper (association football)|sweeper]], although he was equally known for his [[List of world association football records|goalscoring]], long-range shooting, and accuracy from free kicks and penalties. Because of his goalscoring, he is considered one of the best attacking center backs of all time.<ref>{{Cite web |date=18 January 2017 |title=Ask ESPN FC - Goalscoring Defenders - ESPN FC |url=http://www.espnfc.us/story/1563004/ask-espn-fc-goalscoring-defenders |access-date=15 April 2023 |archive-url=https://web.archive.org/web/20170118032637/http://www.espnfc.us/story/1563004/ask-espn-fc-goalscoring-defenders |archive-date=18 January 2017 }}</ref><ref>{{Cite web |last=Stevenson |first=William 
+ |date=17 August 2024 |title=12 Most 'Complete' Players in Football History [Ranked] |url=https://www.givemesport.com/most-complete-players-football-history-ranked/ |access-date=4 February 2025 |website=GiveMeSport |language=en}}</ref>
+
+Born in [[Zaandam]], Koeman began his career at [[FC Groningen|Groningen]] before transferring to the Netherlands' most successful club [[AFC Ajax|Ajax]] in 1983, where they won the national [[List of Dutch football champions|Eredivisie title]] in [[1984–85 Eredivisie|1984–85]]. He then joined Ajax's [[AFC Ajax–PSV Eindhoven rivalry|rivals]] [[PSV Eindhoven|PSV]] in 1986, winning three consecutive Eredivisie titles ([[1986–87 Eredivisie|1986–87]], [[1987–88 Eredivisie|1987–88]] and [[1988–89 Eredivisie|1988–89]]) and the [[European Cup]] in [[1987–88 European Cup|1988]]. Ronald Koeman is one of five European players to ever win a [[Treble (association football)|treble]] with their club and a cup with their national team in the same year. The other four players are his teammates [[Hans van Breukelen]], [[Berry van Aerle]], [[Gerald Vanenburg]] and [[Wim Kieft]]. In 1989, Koeman moved to [[FC Barcelona|Barcelona]] and became part of [[Johan Cruyff]]'s "Dream Team", helping the club win [[La Liga]] four consecutive seasons (1991 to 1994), and the [[1991–92 European Cup]], where he scored the winning goal of [[1992 European Cup Final|the final]] against [[U.C. Sampdoria|Sampdoria]].
+
+At international level, Koeman was one of the stars of the [[Netherlands national football team|Netherlands national team]], alongside [[Marco van Basten]], [[Ruud Gullit]], [[Frank Rijkaard]] and [[Dennis Bergkamp]]. During his career with the Netherlands, Koeman won [[UEFA Euro 1988]] and played at [[UEFA Euro 1992]], as well as the [[1990 FIFA World Cup|1990]] and [[1994 FIFA World Cup|1994]] [[FIFA World Cup]]s, [[Captain (association football)|captaining]] the team at the latter.
+
+In his managerial career, Koeman has won three Eredivisie titles: twice with Ajax ([[2001–02 Eredivisie|2001–02]] and [[2003–04 Eredivisie|2003–04]]) and once with PSV ([[2006–07 Eredivisie|2006–07]]). He is the only individual to have both played for and managed the "[[Big Three (Netherlands)|Big Three]]" of Dutch football: Ajax, PSV and [[Feyenoord]].<ref>{{cite news|url=http://www.espnfc.com.au/manager/255/ronald-koeman|title=Ronald Koeman|access-date=23 January 2016|work=ESPN|archive-url=https://web.archive.org/web/20160129001920/http://www.espnfc.com.au/manager/255/ronald-koeman|archive-date=29 January 2016|url-status=live}}</ref> Abroad, he had spells in Portugal with [[S.L. Benfica|Benfica]] and Spain with [[Valencia CF|Valencia]], coaching ''Los Ché'' to victory in the [[2007–08 Copa del Rey]], and managed [[Premier League]] clubs [[Southampton F.C.|Southampton]] and [[Everton F.C.|Everton]] in the 2010s. He was the manager of the Netherlands national team between 2018 and 2020, finishing runners-up in the 2019 [[UEFA Nations League]]. In August 2020, he was appointed manager of Barcelona, with whom he won the [[2020–21 Copa del Rey]], but was sacked in October 2021, following a poor start to the [[2021–22 FC Barcelona season|new season]]. In 2023, he was reappointed as the manager of the Netherlands national team.
+
+==Club career==
+===Netherlands===
+Koeman started his professional career at [[FC Groningen|Groningen]], making his debut at the age of 17 years and 183 days in a 2–0 win over [[N.E.C. (football club)|NEC]] in the [[Eredivisie]]. This made him the third-youngest player in the club's history, after [[Piet Wildschut]] and Bert de Voogt.<ref>{{cite news|url=http://www.fcgroningen.nl/home/nieuws/nieuwsbericht/artikel/zivkovic-jongste-debutant-in-clubgeschiedenis/?no_cache=1/|title=Zivkovic jongste debutant in clubgeschiedenis|date=3 December 2012|work=FC Groningen|url-status=dead|archive-url=https://web.archive.org/web/20160129003559/http://www.fcgroningen.nl/home/nieuws/nieuwsbericht/artikel/zivkovic-jongste-debutant-in-clubgeschiedenis/?no_cache=1%2F|archive-date=29 January 2016}}</ref> Thirty-three goals from ninety appearances in his three seasons at the club saw the young defender called up by the [[Netherlands national football team|Netherlands national team]] and earn a transfer to [[List of Dutch football champions|Eredivisie champions]] [[AFC Ajax|Ajax]]. After failing to defend their title in Koeman's first season at the club, the [[Amsterdam]] team regained the championship in [[1984–85 Eredivisie|1984–85]]. The following season saw [[Johan Cruyff]] take over as Ajax head coach and, despite scoring 120 goals in 34 Eredivisie matches and winning the [[1985–86 KNVB Cup|KNVB Cup]], ''de Godenzonen'' could only finish second in the league behind [[AFC Ajax–PSV Eindhoven rivalry|rivals]] [[PSV Eindhoven|PSV]].
+
+[[File:PSV Eindhoven, 1987–88 European Cup Semi-final, Santiago Bernabéu, Madrid.jpg|thumb|right|Koeman (right) celebrating the equalizer with [[Eric Gerets]] and [[Edward Linskens]] in the [[1987–88 European Cup]] semi-final at the [[Santiago Bernabéu Stadium|Santiago Bernabéu]] in Madrid]]
+
+In the summer of 1986, Koeman controversially transferred to PSV to play for [[Hans Kraay Sr.|Hans Kraay]]'s champions. Towards the end of the [[1986–87 Eredivisie|1986–87 season]], Kraay resigned and was replaced by [[Guus Hiddink]], under the management of whom PSV overtook league leaders Ajax in the final weeks of the season to defend their league title. Koeman enjoyed further success with Hiddink and PSV in the following seasons, as the team also won the [[1987–88 Eredivisie|1987–88]] and [[1988–89 Eredivisie]] titles and the club's first, and to date only, [[1988 European Cup Final|European Cup]] against [[S.L. Benfica|Benfica]] in [[Stuttgart]] on 25 May 1988. PSV had also won the KNVB Cup in both [[1987–88 KNVB Cup|1988]] and [[1988–89 KNVB Cup|1989]], making their successes in the two years [[Treble (association football)|trebles]] and [[Double (association football)|doubles]] respectively. In his three seasons at PSV, Koeman scored 51 goals in 98 league appearances, averaging more than one goal every two matches. During 1987–88 season, he recorded the highest scoring season of his club career, with 21 goals scored in the league.<ref>{{cite news |date=28 July 2011 |title=Een zeldzaam stukje clubliefde van 'clubhoer' Koeman |url=http://www.ad.nl/ad/nl/5619/Feyenoord/article/detail/2821544/2011/07/28/Een-zeldzaam-stukje-clubliefde-van-clubhoer-Koeman.dhtml |url-status=live |archive-url=https://web.archive.org/web/20160202032121/http://www.ad.nl/ad/nl/5619/Feyenoord/article/detail/2821544/2011/07/28/Een-zeldzaam-stukje-clubliefde-van-clubhoer-Koeman.dhtml |archive-date=2 February 2016 |access-date=23 January 2016 |work=Algemeen Dagblad}}</ref>
+
+===Barcelona===
+In 1989, Koeman re-joined his former Ajax coach Johan Cruyff at [[FC Barcelona|Barcelona]], where he became a member of the famous "[[FC Barcelona#Dream Team|Dream Team]]". During his first season at the club, Barcelona won the [[1989–90 Copa del Rey|Copa del Rey]], beating [[Real Madrid C.F.|Real Madrid]] 2–0 in [[1990 Copa del Rey Final|the final]].<ref>{{cite news|url=http://www.football-oranje.com/hall-of-fame-ronald-koeman/|title=Hall of Fame: Ronald Koeman|date=17 September 2013|work=Football Oranje|access-date=23 January 2016|archive-url=https://web.archive.org/web/20160128042257/http://www.football-oranje.com/hall-of-fame-ronald-koeman/|archive-date=28 January 2016|url-status=live}}</ref> Along with players such as [[Hristo Stoichkov]], [[Romário]], [[Pep Guardiola]] and [[Michael Laudrup]], Koeman helped the club win [[List of Spanish football champions|La Liga]] four consecutive seasons years (1991 to 1994). He scored the only goal of the [[1992 European Cup Final]] with a free-kick from the edge of the [[penalty area|18-yard box]] against [[U.C. Sampdoria|Sampdoria]] at [[Wembley Stadium (1923)|Wembley]] to make Barça European champions for the first time in their history.<ref>{{cite web|url=http://www.fourfourtwo.com/features/bosh-10-best-goals-defenders|title=Bosh! The 10 best goals from defenders|work=FourFourTwo|author1=Greg Evans|date=20 October 2016|access-date=16 January 2017|archive-url=https://web.archive.org/web/20170118050435/http://www.fourfourtwo.com/features/bosh-10-best-goals-defenders|archive-date=18 January 2017|url-status=live}}</ref> With this, he became the first player to score in two consecutive finals of different European competitions, having scored Barcelona's consolation goal in a 1–2 defeat against [[Manchester United F.C.|Manchester United]] in the [[1991 European Cup Winners' Cup Final]].
+
+Koeman was known for his powerful right-footed free kicks and deadball ability where he scored many vital goals for the team.<ref>{{Cite news |date=27 March 2006 |title=Benfica-coach Koeman hoopt op stunt tegen Barcelona |url=http://www.nu.nl/sport/701183/benfica-coach-koeman-hoopt-op-stunt-tegen-barcelona.html |url-status=live |archive-url=https://web.archive.org/web/20110629192302/http://www.nu.nl/sport/701183/benfica-coach-koeman-hoopt-op-stunt-tegen-barcelona.html |archive-date=29 June 2011 |access-date=16 August 2010 |work=[[NU.nl]] |language=nl}}</ref> One of his best strikes in La Liga came in the memorable 5–0 win over Real Madrid in 1994, with his [[curl (football)|bending]] free kick making the scoreline 2–0.<ref>{{Cite web |date=10 January 2012 |title=Strikers' trademark goals: the Thierry Henry control-and-place, the Romario toe-poke and more |url=https://www.telegraph.co.uk/sport/football/9004492/Strikers-trademark-goals-the-Thierry-Henry-control-and-place-the-Romario-toe-poke-and-more.html |archive-url=https://web.archive.org/web/20181007040341/https://www.telegraph.co.uk/sport/football/9004492/Strikers-trademark-goals-the-Thierry-Henry-control-and-place-the-Romario-toe-poke-and-more.html |archive-date=7 October 2018 |access-date=5 December 2013 |website=The Telegraph}}</ref> Koeman was joint-top scorer with eight goals in the [[1993–94 UEFA Champions League]], in which Barcelona were beaten 0–4 in the [[1994 UEFA Champions League Final|final]] by [[A.C. Milan]] at the [[Olympic Stadium (Athens)|Olympic Stadium]] in [[Athens]].
+
+His nicknames while playing for Barcelona were "[[Tintin (character)|Tintin]]", due to his physical similarity with [[Hergé]]'s fictional character, and [[Snowflake (gorilla)|"Floquet de Neu"]], after the famous albino gorilla in the Barcelona Zoo.<ref>[http://www.worldsoccer.com/blogs/ronald-koeman-master-of-all-he-surveys "Ronald Koeman: master of all he surveys"] {{Webarchive|url=https://web.archive.org/web/20140927073005/http://www.worldsoccer.com/blogs/ronald-koeman-master-of-all-he-surveys |date=27 September 2014 }}. ''[[World Soccer (magazine)|World Soccer]]''. 28 July 2012. Retrieved 15 April 2013.</ref>
+
+===Return to the Netherlands and retirement===
+After six years and over 200 appearances at Barcelona, Koeman left Spain to return to the Netherlands in 1995. In joining [[Feyenoord]], he became one of the few players to represent all of Dutch football's "[[Big Three (Netherlands)|Big Three]]". Koeman spent two seasons in Rotterdam, captaining Feyenoord to third- and second-place finishes in the Eredivisie respectively.
+
+Koeman ended his career with 192 league goals from 533 matches (ahead of [[Daniel Passarella]], who netted 182 goals in 556 matches) during his career, more than any other defender in the history of football.<ref name="iffhd"/>
+
+==International career==
+{{More citations needed|section|date=July 2024}}
+[[File:Ronald Koeman 1983.jpg|thumb|upright|Koeman with the Dutch national team in 1983]]
+In April 1983, both Koeman and his brother [[Erwin Koeman|Erwin]] debuted for the Netherlands national team in a 3–0 friendly loss to [[Sweden men's national football team|Sweden]] in [[Utrecht]].<ref name="ad.nl">{{Cite news |last=Dijkstra |first=Weitse |date=6 February 2018 |title=De rijke historie tussen Koeman en Oranje |url=https://www.ad.nl/nederlands-voetbal/de-rijke-historie-tussen-koeman-en-oranje~a867dd22/ |access-date=22 July 2024 |website=[[Algemeen Dagblad]] |language=nl}}</ref> Ronald's first international goal came in September of the same year, in a 3–0 victory of [[Iceland national football team|Iceland]] at [[Groningen]]'s [[Oosterpark Stadion]].<ref name="ad.nl"/>
+
+With the Netherlands unable to qualify for [[UEFA Euro 1984]] and the [[1986 FIFA World Cup]], Koeman's tournament debut came at [[UEFA Euro 1988|Euro 1988]] in West Germany, where [[Rinus Michels]]' team defeated the hosts at the semi-final stage, with Koeman scoring a crucial penalty to equalize and make it 1–1. After this match, Koeman provocatively pretended to wipe his backside with the shirt of [[Olaf Thon]] in front of the home supporters.<ref>[http://vorige.nrc.nl/sport/article1892032.ece/Zo_vierde_Koeman_de_zege_op_Duitsland/ "Zo vierde Koeman de zege op Duitsland"] {{Webarchive|url=https://web.archive.org/web/20160917154659/http://vorige.nrc.nl/sport/article1892032.ece/Zo_vierde_Koeman_de_zege_op_Duitsland/ |date=17 September 2016 }}. ''[[NRC Handelsblad]]'' (in Dutch). 8 May 2008. Retrieved 15 April 2013.</ref>
+
+In [[UEFA Euro 1988 Final|the final]], the Netherlands defeated the [[Soviet Union national football team|Soviet Union]] 2–0 at [[Munich]]'s [[Olympiastadion (Munich)|Olympiastadion]] to win the nation's only major international trophy. This completed Koeman's extraordinary 1988 after winning the treble with PSV.{{efn|{{nowrap|'''[[1987–88 PSV Eindhoven season]]'''}}<br>
+* &nbsp;'''European Treble'''
+** &nbsp;[[1987–88 Eredivisie|Eredivisie champions]]
+** &nbsp;[[1987–88 KNVB Cup|KNVB Cup winners]]
+** &nbsp;[[1987–88 European Cup|European Cup winners]]}}<ref>{{cite news|url=https://www.psv.nl/psv/nieuws/artikel/psv-honour-golden-1988-squad.htm|title=PSV honour ´golden´ 1988 squad|date=14 April 2011|work=Philips Sport Vereniging|access-date=23 January 2016|archive-url=https://web.archive.org/web/20160129123144/https://www.psv.nl/psv/nieuws/artikel/psv-honour-golden-1988-squad.htm|archive-date=29 January 2016|url-status=live}}</ref> Both Koeman and his central defensive partner Frank Rijkaard were named in [[UEFA]]'s [[UEFA European Championship Teams of the Tournament|Team of the Tournament]].
+
+Koeman went on to represent his nation at the [[1990 FIFA World Cup|1990]] and [[1994 FIFA World Cup|1994]] [[FIFA World Cup|World Cups]], as well as [[UEFA Euro 1992|Euro 1992]], and picked up a total of 78 caps for the Netherlands, scoring 14 goals.
+
+==Managerial career==
+===Early years===
+Having retired as a player after his stint with Feyenoord, Koeman became a member of the Netherlands international coaching staff of [[Guus Hiddink]] during the [[1998 FIFA World Cup|1998 World Cup]] along with [[Johan Neeskens]] and Frank Rijkaard. After the tournament, he was appointed the assistant coach of Barcelona, and in 2000, he was handed his first managerial job as the head coach of [[SBV Vitesse|Vitesse]], where he led the team to a [[UEFA Europa League|UEFA Cup]] spot in his only season.<ref>{{cite news |title=Ronald Koeman: Chelsea influence makes Vitesse difficult to manage |url=https://www.skysports.com/football/news/11661/9929056/ronald-koeman-chelsea-influence-makes-vitesse-difficult-to-manage |access-date=4 November 2021 |publisher=Sky Sports |date=30 July 2015}}</ref>
+
+===Ajax===
+Koeman was appointed the manager of Ajax in 2001. He won a domestic double in [[2001–02 Eredivisie|2001–02]]. Despite regaining the title in [[2003–04 Eredivisie|2003–04]], Ajax had fallen eight points behind rivals PSV in the Eredivisie. This situation, coupled with Ajax being knocked out of the [[2004–05 UEFA Cup|UEFA Cup]] by [[AJ Auxerre|Auxerre]], 3–2 on aggregate, led Koeman to resign the following day on 25 February 2005.<ref>{{Cite news|url = https://www.theguardian.com/football/2005/feb/25/newsstory.ajax|title = Koeman quits Ajax|work = [[The Guardian]]|date = 25 February 2005|access-date = 22 December 2008|archive-url = https://web.archive.org/web/20140917185742/http://www.theguardian.com/football/2005/feb/25/newsstory.ajax|archive-date = 17 September 2014|url-status = live}}</ref> During Koeman's spell at Ajax, a young [[Zlatan Ibrahimovic]] started his rise to international fame, and [[Wesley Sneijder]] and [[Rafael van der Vaart]] made their debut.
+
+===Benfica===
+In June 2005, Koeman took up the vacant position at Portuguese champions Benfica, following the departure of [[Giovanni Trapattoni]].<ref>{{cite news |title=Benfica name Koeman |url=https://www.eurosport.com/football/european-leagues/2004-2005/benfica-name-koeman_sto728170/story.shtml |access-date=4 November 2021 |publisher=Eurosport |date=6 June 2005}}</ref> On 13 August, he won the [[2005 Supertaça Cândido de Oliveira|2005]] [[Supertaça Cândido de Oliveira]] against [[Vitória F.C.|Vitória de Setúbal]] with a single goal by [[Nuno Gomes]].<ref>{{cite news |title=BENFICA - V. SETÚBAL, 1-0 (Nuno Gomes 52) |url=https://www.record.pt/futebol/futebol-nacional/liga-bwin/benfica/detalhe/benfica---v-setubal-1-0-nuno-gomes-52 |access-date=4 November 2021 |work=Record |date=13 August 2005 |language=Portuguese |archive-date=4 November 2021 |archive-url=https://web.archive.org/web/20211104124626/https://www.record.pt/futebol/futebol-nacional/liga-bwin/benfica/detalhe/benfica---v-setubal-1-0-nuno-gomes-52 |url-status=dead }}</ref> The team finished the [[Primeira Liga]] in third place (behind rivals [[FC Porto|Porto]] and [[Sporting CP]]) and was knocked out of the [[Taça de Portugal]] in the quarter-finals by [[Vitória S.C.|Vitória de Guimarães]]. This, along with an offer from PSV, sufficed for the manager to leave one year before the end of his contract. Under Koeman, Benfica did reach the quarter-finals of the [[2005–06 UEFA Champions League]]; eliminating [[Manchester United]] in the final game of the group stage and [[Liverpool F.C.|Liverpool]] in the first knockout stage,<ref>{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/europe/4494936.stm|title=Benfica 2-1 Man Utd|publisher=BBC|date=7 December 2005|access-date=5 November 2019|archive-url=https://web.archive.org/web/20180624205534/http://news.bbc.co.uk/sport1/hi/football/europe/4494936.stm|archive-date=24 June 2018|url-status=live}}</ref><ref>{{cite news
+|url=https://news.bbc.co.uk/sport2/hi/football/europe/4778418.stm|title=Liverpool 0-2 Benfica (agg 0-3)|publisher=BBC|date=8 March 2006|access-date=5 November 2019|archive-url=https://web.archive.org/web/20060425180758/http://news.bbc.co.uk/sport1/hi/football/europe/4778418.stm|archive-date=25 April 2006|url-status=live}}</ref> before losing to Barcelona on an aggregate score of 0–2, who ended up winning the trophy.
+
+===PSV===
+In the [[2006–07 Eredivisie|2006–07]] season, Koeman served as head coach of PSV, as successor to Guus Hiddink. PSV dominated the first season half, keeping competitors [[AZ Alkmaar|AZ]] and Ajax at a reasonable distance, and PSV seemed almost destined to become champions again. PSV, however, suffered in the second half of the season, also because of injuries of players [[Jefferson Farfán]], [[Alex (footballer, born June 1982)|Alex]] and [[Ibrahim Afellay]], obtaining only 19 out 39 possible points.<ref>[http://www.volkskrant.nl/sport/article418345.ece/PSV_roept_rampspoed_over_zich_af "PSV roept rampspoed over zich af"] {{Webarchive|url=https://web.archive.org/web/20070428061224/http://www.volkskrant.nl/sport/article418345.ece/PSV_roept_rampspoed_over_zich_af |date=28 April 2007 }}. ''[[de Volkskrant]]'' (in Dutch). 23 April 2007. Retrieved 15 April 2013.</ref> Alkmaar and Ajax regained their momentum, making for a close finish, with all three teams tied at 72 points before the last competition day. Alkmaar played struggling [[Excelsior Rotterdam|Excelsior]] in their final match, but did not manage to win. Ajax played at [[Willem II (football club)|Willem II]], but did not score enough goals; it was PSV eventually who triumphed, winning at home 5–1 against Vitesse, and thereby becoming Eredivisie champions, one goal ahead of Ajax.
+
+For the second consecutive season, he guided a team to the quarter-finals of the [[2006–07 UEFA Champions League|Champions League]], this time defeating another English club in the shape of [[Arsenal F.C.|Arsenal]] in the first knockout stage by an aggregate score of 2–1,<ref>{{cite news
+|url=https://news.bbc.co.uk/sport2/hi/football/europe/6414959.stm
+|title=Arsenal 1-1 PSV (agg 1-2)
+|publisher=BBC
+|date=7 March 2007
+|access-date=5 November 2019
+|archive-url=https://web.archive.org/web/20070915192154/http://news.bbc.co.uk/sport1/hi/football/europe/6414959.stm
+|archive-date=15 September 2007
+|url-status=live
+}}</ref> before losing 4–0 on aggregate to eventual runners-up [[Liverpool F.C.|Liverpool]] in the quarter-finals.<ref>{{cite news
+|url=https://news.bbc.co.uk/sport2/hi/football/europe/6534993.stm
+|title=Liverpool 1-0 PSV (agg 4-0)
+|publisher=BBC
+|date=11 April 2007
+|access-date=5 November 2019
+|archive-url=https://web.archive.org/web/20070714153701/http://news.bbc.co.uk/sport1/hi/football/europe/6534993.stm
+|archive-date=14 July 2007
+|url-status=live
+}}</ref>
+
+===Valencia===
+On 31 October 2007, Koeman agreed to be the new coach of [[Valencia CF|Valencia]] after the sacking of [[Quique Sánchez Flores]], starting on 5 November 2007.<ref>{{Cite news|url = https://www.theguardian.com/football/2007/oct/31/europeanfootball.psveindhoven|title = Koeman agrees to join Valencia|work = The Guardian|date = 31 October 2007|access-date = 22 December 2008|archive-url = https://web.archive.org/web/20141005220257/http://www.theguardian.com/football/2007/oct/31/europeanfootball.psveindhoven|archive-date = 5 October 2014|url-status = live}}</ref> With Valencia, he won the [[2007–08 Copa del Rey]], a tournament he previously won as a player with Barcelona.<ref>{{cite news|url=https://www.theguardian.com/football/2008/apr/21/europeanfootball.sport|title=King's Cup half empty for Koeman|date=22 April 2008|work=The Guardian|access-date=13 December 2016|archive-url=https://web.archive.org/web/20140213064519/http://www.theguardian.com/football/2008/apr/21/europeanfootball.sport|archive-date=13 February 2014|url-status=live}}</ref> This was Valencia's first Copa del Rey since 1999.<ref name="guardian_sacking">{{Cite news|url = https://www.theguardian.com/football/2008/apr/21/europeanfootball.sport|title = King's Cup half empty for Koeman|work = The Guardian|date = 21 April 2008|access-date = 22 December 2008|first = Sid|last = Lowe|archive-url = https://web.archive.org/web/20140213064519/http://www.theguardian.com/football/2008/apr/21/europeanfootball.sport|archive-date = 13 February 2014|url-status = live}}</ref> The remainder of his tenure at Valencia would prove disappointing: the team would slump to 15th in the league, only two points above the relegation zone, as well as finishing bottom of their [[2007–08 UEFA Champions League group stage#Group B|Champions League group]]. A 1–5 defeat by [[Athletic Bilbao]] would prove the final straw for Koeman's time with Valencia. He was sacked the following day, on 21 April 2008.<ref name="guardian_sacking"/>
+
+===AZ Alkmaar===
+Koeman was appointed manager of [[AZ Alkmaar|AZ]] on 18 May 2009,<ref>{{Cite web|url=http://en.archive.uefa.com/footballeurope/news/kind=2/newsid=830593.html|archive-url=https://archive.today/20130615215019/http://en.archive.uefa.com/footballeurope/news/kind=2/newsid=830593.html|url-status=dead|archive-date=15 June 2013|title=Koeman succeeds Van Gaal at AZ|date=17 May 2009|work=[[UEFA|UEFA.com]]|access-date=15 April 2013}}</ref> after [[Louis van Gaal]], who won the [[2008–09 Eredivisie]] with Alkmaar, joined [[FC Bayern Munich|Bayern Munich]]. On 5 December 2009, Alkmaar announced that Koeman no longer was in charge of the club, after losing 7 of the first 16 games in the Dutch competition.<ref>{{cite news|url=https://www.espn.com/espn/wire?section=soccer&id=4717336|title=Dutch champions AZ Alkmaar sack coach Koeman|work=[[ESPN FC|ESPN Soccernet]]|date=5 December 2009|access-date=15 April 2013|archive-url=https://web.archive.org/web/20130730114405/http://sports.espn.go.com/espn/wire?section=soccer&id=4717336|archive-date=30 July 2013|url-status=live}}</ref>
+
+===Feyenoord===
+[[File:Ronald-Koeman-DSC 0039.jpg|thumb|right|Koeman with [[Feyenoord]] in 2012]]
+
+On 21 July 2011, Koeman was appointed manager of Feyenoord, signing a one-year contract with the Dutch club as replacement for outgoing trainer [[Mario Been]].<ref>{{cite web|url=https://www.theguardian.com/football/2011/jul/21/feyenoord-ronald-koeman-head-coach|title=Feyenoord appoint Ronald Koeman as new head coach|date=21 July 2011|work=The Guardian|access-date=21 July 2011|archive-url=https://web.archive.org/web/20160313090459/http://www.theguardian.com/football/2011/jul/21/feyenoord-ronald-koeman-head-coach|archive-date=13 March 2016|url-status=live}}</ref> Through this appointment, Koeman notably became the first individual ever to serve as both player and head coach at all teams of the so-called "traditional big three" of Dutch football – Ajax, PSV and Feyenoord.<ref>{{cite news |url=http://www.vi.nl/Nieuws-item/203846/Unieke-werkreeks-Koeman-bij-traditionele-topdrie.htm |work=[[Voetbal International]] |access-date=21 July 2011 |date=20 July 2011 |title=Unieke werkreeks Koeman bij traditionele top-drie |trans-title=Unique working stint for Koeman at traditional top-three |archive-url=https://web.archive.org/web/20110722012323/http://www.vi.nl/Nieuws-item/203846/Unieke-werkreeks-Koeman-bij-traditionele-topdrie.htm |archive-date=22 July 2011 |url-status=live }}</ref> Moreover, he has completed this in the same order as player and as manager. At the beginning of 2012, it was announced that his contract was extended. In February 2014, Koeman announced that he would leave his position at Feyenoord at the end of the [[2013–14 Eredivisie|2013–14 season]] to pursue other ambitions.<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/25999426 |work=[[BBC]] |access-date=31 May 2014 |date=1 February 2014 |title=Coach Ronald Koeman to leave Dutch giants Feyenoord |archive-url=https://web.archive.org/web/20140316104703/http://www.bbc.co.uk/sport/0/football/25999426 |archive-date=16 March 2014 |url-status=live }}</ref>
+
+===Southampton===
+[[File:Ronald Koeman 20140923.jpg|thumb|left|Koeman as manager of [[Southampton F.C.|Southampton]] in September 2014]]
+
+In June 2014, Koeman was announced as the replacement for [[Southampton F.C.|Southampton]] manager [[Mauricio Pochettino]], signing a three-year deal with the club. His brother Erwin was appointed assistant manager.<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/27859958 |title=Ronald Koeman: Southampton name Dutchman as new manager |date=16 June 2014 |publisher=BBC Sport |access-date=16 June 2014 |archive-url=https://web.archive.org/web/20140616142003/http://www.bbc.co.uk/sport/0/football/27859958 |archive-date=16 June 2014 |url-status=live }}</ref>
+
+On his first interview as manager of Southampton, Koeman stressed the importance of the youth academy to the club, saying "It's a little bit like [in] Holland - they give opportunities to young players, and that's important for Southampton FC".<ref>{{Cite web |last=Williams |first=Sam |date=17 June 2014 |title=Koeman hails Southampton's Dutch-style model |url=https://www.sportingnews.com/au/other-sports/news/koeman-hails-southamptons-dutch-style-model/qumv760mrrzb1d72wk7ymhpkq |url-status=live |archive-url=https://web.archive.org/web/20190716060057/https://www.sportingnews.com/au/other-sports/news/koeman-hails-southamptons-dutch-style-model/qumv760mrrzb1d72wk7ymhpkq |archive-date=16 July 2019 |access-date=29 April 2026 |website=Sporting News Australia |language=en-au}}</ref>
+
+In his first six [[Premier League]] games in charge of the club, Koeman managed four wins, a draw and a defeat, propelling Southampton to second place in the league standings and resulting in Koeman being named [[Premier League Manager of the Month]] for September.<ref name = BBC29659059>{{cite web|title=Southampton's Ronald Koeman is named manager of the month|url=https://www.bbc.co.uk/sport/football/29659059|publisher=BBC Sport|access-date=17 October 2014|date=17 October 2014|archive-url=https://web.archive.org/web/20141017194111/http://www.bbc.co.uk/sport/0/football/29659059|archive-date=17 October 2014|url-status=live}}</ref><ref>{{cite web |url=https://www.usatoday.com/story/sports/soccer/2014/09/27/southampton-stays-2nd-in-epl-with-win-over-qpr/16332763/ |title=Southampton stays 2nd in EPL with win over QPR |work=USA Today |date=27 September 2014 |access-date=29 September 2014 |archive-url=https://web.archive.org/web/20170817205935/https://www.usatoday.com/story/sports/soccer/2014/09/27/southampton-stays-2nd-in-epl-with-win-over-qpr/16332763/ |archive-date=17 August 2017 |url-status=live }}</ref> In January 2015, Southampton won all three of their matches, including a first win at [[Manchester United F.C.|Manchester United]] since 1988, and Koeman was again named Manager of the Month.<ref>{{cite web|title=Koeman scoops Manager of the Month award|url=https://southamptonfc.com/news/2015-02-13/koeman-scoops-manager-of-the-month-award|access-date=22 October 2017|publisher=Southampton F.C.|date=13 February 2015|archive-url=https://web.archive.org/web/20171023012200/https://southamptonfc.com/news/2015-02-13/koeman-scoops-manager-of-the-month-award|archive-date=23 October 2017|url-status=live}}</ref> He led Southampton to a seventh-place finish at the end of the season.<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/32799483 |title=Premier League 2014–15: End of season review |last=McNulty |first=Phil |author-link=Phil McNulty |publisher=BBC Sport |date=25 May 2015 |access-date=14 June 2016 |archive-url=https://web.archive.org/web/20151122014235/http://www.bbc.co.uk/sport/0/football/32799483 |archive-date=22 November 2015 |url-status=live }}</ref>
+
+Koeman won his third Premier League Manager of the Month for January 2016,<ref>{{cite news |url=http://www.skysports.com/football/news/11095/10155628/ronald-keoman-named-manager-of-the-month-sergio-aguero-is-player-of-the-month-for-january-2016 |title=Ronald Koeman and Sergio Aguero named Premier League Manager and Player of the Month |last=Thomas |first=Lyall |publisher=Sky Sports News |date=5 February 2016 |access-date=14 June 2016 |archive-url=https://web.archive.org/web/20160517073438/http://www.skysports.com/football/news/11095/10155628/ronald-keoman-named-manager-of-the-month-sergio-aguero-is-player-of-the-month-for-january-2016 |archive-date=17 May 2016 |url-status=live }}</ref> on the way to Southampton's highest ever Premier League finish, sixth place, highest ever Premier League points total, 63, and qualification for the group stage of the [[UEFA Europa League]].<ref>{{cite web |url=http://www.saintsfc.co.uk/news/article/20160515-saints-are-back-in-europe-3113487.aspx |title=Saints are back in Europe! |publisher=Southampton F.C. |date=15 May 2016 |access-date=14 June 2016 |archive-url=https://web.archive.org/web/20160610102400/http://www.saintsfc.co.uk/news/article/20160515-saints-are-back-in-europe-3113487.aspx |archive-date=10 June 2016 |url-status=live }}</ref>
+
+===Everton===
+[[File:Manchester United v Everton, 17 September 2017 (35).jpg|thumb|right|Koeman managing [[Everton F.C.|Everton]] in 2017]]
+
+On 14 June 2016, Koeman was confirmed as manager of [[Everton F.C.|Everton]], signing a three-year contract.<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/36495918 |title=Ronald Koeman: Everton appoint ex-Southampton boss as manager |publisher=BBC Sport |date=14 June 2016 |access-date=14 June 2016 |archive-url=https://web.archive.org/web/20160614100724/http://www.bbc.co.uk/sport/football/36495918 |archive-date=14 June 2016 |url-status=live }}</ref> His brother was again hired as his assistant.<ref>{{cite news|last1=Beesley|first1=Chris|title=Everton's Koeman brothers have taken varied paths to glory|url=http://www.liverpoolecho.co.uk/sport/football/football-news/evertons-koeman-brothers-taken-varied-11491977|access-date=22 October 2017|work=Liverpool Echo|date=19 June 2016|archive-url=https://web.archive.org/web/20171023011311/http://www.liverpoolecho.co.uk/sport/football/football-news/evertons-koeman-brothers-taken-varied-11491977|archive-date=23 October 2017|url-status=live}}</ref> In his first season, Koeman led Everton to qualification for the [[Europa League]].<ref>{{cite news |url=http://www.liverpoolecho.co.uk/sport/football/football-news/everton-qualification-next-seasons-europa-12964489 |title=Everton qualification for next season's Europa League confirmed |work=Liverpool Echo |date=29 April 2017 |access-date=29 April 2017 |archive-url=https://web.archive.org/web/20170503072716/http://www.liverpoolecho.co.uk/sport/football/football-news/everton-qualification-next-seasons-europa-12964489 |archive-date=3 May 2017 |url-status=live }}</ref>
+
+Prior to the 2017–18 season, Koeman was given the largest budget in Everton's history to spend on new players.<ref>{{cite news|last1=Burt|first1=Jason|title=Everton sack Ronald Koeman after defeat to Arsenal, with Sean Dyche identified as main target|url=https://www.telegraph.co.uk/football/2017/10/23/everton-sack-ronald-koeman-defeat-arsenal-leaves-toffees-premier/|access-date=24 October 2017|work=The Daily Telegraph|date=23 October 2017|quote=...a summer of spending the biggest transfer budget in Everton's history, has quickly evaporated during this disastrous campaign.|archive-url=https://web.archive.org/web/20171023163355/http://www.telegraph.co.uk/football/2017/10/23/everton-sack-ronald-koeman-defeat-arsenal-leaves-toffees-premier/|archive-date=23 October 2017|url-status=live}}</ref> An estimated £150 million was spent on new players, but Koeman admitted that he had not bought a centre forward to replace [[Romelu Lukaku]], the previous season's squad top scorer who had been sold to Manchester United.<ref>{{cite news|last1=Gorst|first1=Paul|title=The damning goalscoring statistics that led to Ronald Koeman's Everton sacking|url=http://www.liverpoolecho.co.uk/sport/football/damning-goalscoring-statistics-led-ronald-13801826|access-date=24 October 2017|work=Liverpool Echo|date=23 October 2017|quote=However, his true undoing was the club's failure to fill the Romelu Lukaku-shaped hole left by the Belgium international's summer departure to Manchester United. Speaking on the lack of a Lukaku successor back in September, Koeman wasn't shy in admitting Everton had ended the transfer window without completing their business – despite the historic outlay.|archive-url=https://web.archive.org/web/20171024205854/http://www.liverpoolecho.co.uk/sport/football/damning-goalscoring-statistics-led-ronald-13801826|archive-date=24 October 2017|url-status=live}}</ref> Koeman was sacked by the club on 23 October 2017, after his side fell into the relegation zone, following a 2–5 home defeat against [[Arsenal F.C.|Arsenal]] the previous day.<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/41683786|title=Ronald Koeman: Everton sack manager after Arsenal defeat|date=23 October 2017|access-date=23 October 2017|publisher=BBC Sport|archive-url=https://web.archive.org/web/20171023134055/http://www.bbc.co.uk/sport/football/41683786|archive-date=23 October 2017|url-status=live}}</ref><ref>{{cite news|last1=Hunter|first1=Andy|title=Ronald Koeman sacked by Everton after disastrous start to season|url=https://www.theguardian.com/football/2017/oct/23/ronald-koeman-sacked-everton-manager|access-date=23 October 2017|work=The Guardian|date=23 October 2017|archive-url=https://web.archive.org/web/20171023125841/https://www.theguardian.com/football/2017/oct/23/ronald-koeman-sacked-everton-manager|archive-date=23 October 2017|url-status=live}}</ref> Koeman later stated his belief that the failure to sign [[Olivier Giroud]] in the summer transfer window contributed to his sacking.<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/41758874|title=Ronald Koeman Ex-Everton manager says Olivier Giroud transfer failure costly|date=26 October 2017|access-date=26 October 2017|publisher=BBC Sport|archive-url=https://web.archive.org/web/20171027141723/http://www.bbc.co.uk/sport/football/41758874|archive-date=27 October 2017|url-status=live}}</ref>
+
+===Netherlands===
+On 6 February 2018, Koeman was appointed manager of the Netherlands national team on a four-and-a-half-year contract up to and including the [[2022 FIFA World Cup]]. He replaced [[Dick Advocaat]] who resigned after failing to guide the Netherlands to the [[2018 FIFA World Cup]].<ref>{{cite news|title=Ronald Koeman: Netherlands appoint ex-Everton and Southampton manager|url=https://www.bbc.co.uk/sport/football/42965154|access-date=6 February 2018|publisher=BBC Sport|date=6 February 2018|archive-url=https://web.archive.org/web/20180207130608/http://www.bbc.co.uk/sport/football/42965154|archive-date=7 February 2018|url-status=live}}</ref>
+
+On 9 June 2019, the Netherlands finished runners-up in the [[2018–19 UEFA Nations League]] after a 0–1 defeat against [[Portugal national football team|Portugal]] in the [[2019 UEFA Nations League Final|final]].<ref>{{Cite web|last=UEFA.com|date=9 June 2019|title=Portugal 1-0 Netherlands: Nations League final at a glance|url=https://www.uefa.com/uefanationsleague/news/0253-0d81efc406c5-d6dc8282a389-1000--portugal-1-0-netherlands-nations-league-final-at-a-glance/|access-date=18 August 2020|website=[[UEFA]]}}</ref>
+
+On 19 August 2020, Koeman left the national team to become manager of [[FC Barcelona|Barcelona]]. Under his management, Netherlands qualified for a final tournament, [[UEFA Euro 2020]], for the first time since the [[2014 FIFA World Cup]] after missing out on the [[UEFA Euro 2016]] and the 2018 FIFA World Cup.<ref>{{Cite web |title=Ronald Koeman vertrekt bij Oranje |url=https://www.knvb.nl/nieuws/oranje/nederlands-elftal/61161/ronald-koeman |access-date=19 August 2020 |website=www.knvb.nl}}</ref>
+
+===Barcelona===
+On 19 August 2020, Koeman was announced as the new manager of Barcelona, on a two-year contract until 30 June 2022.<ref>{{cite web|title=Ronald Koeman is the new FC Barcelona coach|url=https://www.fcbarcelona.com/en/football/first-team/news/1755317/ronald-koeman-is-the-new-fc-barcelona-coach|access-date=19 August 2020|website=fcbarcelona.com}}</ref> He took over after [[Quique Setién]] had been dismissed from the post<ref>{{cite web |title=Quique Setién no longer first team coach |url=https://www.fcbarcelona.com/en/news/1754842/quique-setien-no-longer-first-team-coach |website=www.fcbarcelona.com |publisher=[[FC Barcelona]] |access-date=19 August 2020 |date=17 August 2020}}</ref> following a disastrous [[FC Barcelona 2–8 FC Bayern Munich|8–2]] defeat to [[FC Bayern Munich|Bayern Munich]] in the [[2019–20 UEFA Champions League knockout phase#Quarter-finals|quarter final]] of the [[2019–20 UEFA Champions League]].<ref>{{Cite news|date=15 August 2020|title=Bayern Munich 8-2 Barcelona: Brilliant Bayern smash Barca to reach Champions League semis|work=BBC Sport|url=https://www.bbc.co.uk/sport/football/53745581|access-date=21 August 2020}}</ref> In his first competitive game in charge, Barcelona beat [[Villarreal CF|Villarreal]] 4–0 at the [[Camp Nou]] in [[2020–21 La Liga|La Liga]].<ref>{{Cite web|date=27 September 2020|title=Fati 9/10, Messi 7/10 as Barca pour on the style in Koeman's debut|url=https://www.espn.in/football/barcelona/story/4191475/fati-9-10messi-7-10-as-barca-pour-on-the-style-in-koemans-debut|access-date=28 September 2020|website=ESPN}}</ref> On 17 October, Koeman suffered his first loss as Barcelona manager after a 1–0 away defeat against [[Getafe CF|Getafe]].<ref>{{Cite web|title=📝 Ronald Koeman suffers first defeat as Barcelona boss|url=https://onefootball.com/en/news/ronald-koeman-suffers-first-defeat-as-barcelona-boss-31437447|access-date=18 October 2020|website=OneFootball|date=17 October 2020 }}</ref> On 24 October, he lost the first ''[[Clásico]]'' of the season to arch rivals [[Real Madrid CF|Real Madrid]] by a 3–1 scoreline. That defeat was followed by a 1–1 draw against [[Deportivo Alavés|Alavés]], which resulted in Barcelona equalling their worst tally after the first six games in La Liga (eight points, as few as in the 2002–03 season).<ref>{{Cite web|title=📝 Barcelona's worst start since 2002/03|url=https://twitter.com/OptaJose/status/1322667540779290624/photo/1}}</ref> In the following weeks, several disappointing occurred and with yet another loss against Atletico Madrid, Barcelona ended up with their worst league start since 1992, having won only 11 points in the first 8 La Liga matches.<ref>{{Cite web|title=📝 Barcelona's worst start since 1991/1992|url=https://twitter.com/BarcaUniversal/status/1330875966416154626}}</ref>
+
+On 17 January 2021, Koeman managed Barcelona for the first time in a cup final, with his side losing 3–2 to [[Athletic Bilbao]] after [[Overtime (sports)#Association football|extra time]] in [[2021 Supercopa de España Final|the final]] of the [[2020–21 Supercopa de España]] at the [[Estadio de La Cartuja]] in [[Seville]].<ref>{{Cite web|url=https://www.goal.com/en-in/match/barcelona-v-athletic-club/7kcwv5na85d7aw1c0g9kknml0|title=Barcelona 2–3 Athletic Bilbao (aet): Messi sent off as Williams stuns Barca in Supercopa final|date=18 January 2021|work=Goal|last=Lewis|first=Daniel|accessdate=22 February 2021}}</ref> On 7 February, Koeman led Barcelona to their sixth consecutive away win in La Liga after winning 3–2 against [[Real Betis]], equalling [[Luis Enrique]]'s feat achieved in the [[2015–16 La Liga|2015–16 season]].<ref>{{Cite web|url=https://www.fcbarcelona.com/en/football/first-team/news/2020455/sixth-consecutive-win-in-the-league |title=Sixth consecutive win in the league |date=8 February 2021 |work=FC Barcelona |accessdate=22 February 2021}}</ref> On 11 March, Barcelona were knocked out of the [[2020–21 UEFA Champions League|Champions League]] in the [[2020–21 UEFA Champions League knockout phase|round of 16]] against [[Paris Saint-Germain F.C.|PSG]] after failing to turn around a 1–4 loss at home, losing 2–5 on aggregate.<ref>{{Cite web|title=PSG 1-1 Barcelona (agg: 5-2): Lionel Messi scores and misses penalty as Barca bow out of Champions League|url=https://www.skysports.com/football/news/11095/12242119/psg-1-1-barcelona-agg-5-2-lionel-messi-scores-and-misses-penalty-as-barca-bow-out-of-champions-league|access-date=5 June 2021|website=Sky Sports}}</ref> On 10 April, Barcelona's 19-game unbeaten run in La Liga came to an end after falling to Real Madrid 2–1 away from home in the second ''Clásico'' of the season. On 17 April, Koeman led ''Barça'' to a 4–0 win over [[Athletic Bilbao]] in the [[2021 Copa del Rey Final]], gaining revenge for the Supercopa defeat at the same venue three months earlier.<ref name="cup21">{{cite web |url=https://www.theguardian.com/football/2021/apr/17/messi-stars-as-barcelona-thrash-athletic-bilbao-to-lift-copa-del-rey |title=Messi stars as Barcelona thrash Athletic Bilbao to lift Copa del Rey|first=Sid|last=Lowe|work=The Guardian|date=17 April 2021|access-date=19 April 2021}}</ref> On 29 April, Barcelona were presented with a golden opportunity to go top of La Liga but failed to capitalize after losing out to [[Granada CF|Granada]] away 2–1 despite taking the lead.<ref>{{Cite web|last=Gonçalves|first=Renato|date=29 April 2021|title=Barcelona 1-2 Granada: Recap|url=https://www.barcablaugranes.com/2021/4/29/22409851/barcelona-granada-la-liga-team-news-final-score-match-report-recap-reactions|access-date=5 June 2021|website=Barca Blaugranes}}</ref> Barcelona's title charge ended with a disappointment after winning only two of their last five matches and eventually finished third in the league table. Following the end of the season, club president [[Joan Laporta]] admitted that Koeman was not his first choice and was looking for a manager,<ref>{{Cite web|date=28 May 2021|title=Joan Laporta admits Ronald Koeman not first choice, looking for new manager and optimistic on Lionel Messi|url=https://www.eurosport.com/football/liga/2020-2021/joan-laporta-admits-ronald-koeman-not-first-choice-looking-for-new-manager-and-optimistic-on-lionel-_sto8340641/story.shtml|access-date=28 October 2021|website=Eurosport}}</ref> however on 3 June, he confirmed that Koeman would be staying in charge for another season.<ref>{{Cite web|date=3 June 2021|title=Barcelona, Laporta decide to keep Koeman|url=https://www.espn.in/football/barcelona-espbarcelona/story/4399479/barcelona-decide-to-keep-ronald-koeman-as-head-coach-after-missing-out-on-la-liga-title|access-date=5 June 2021|website=ESPN}}</ref>
+
+Barcelona began the [[2021–22 FC Barcelona season|2021–22 season]] with a 4–2 home victory over Real Sociedad in La Liga. However, in their next ten matches, they had a disappointing run of games with 4 wins, 3 draws and 3 defeats including consecutive 3–0 losses against Bayern Munich and Benfica in the Champions League group stage and a 2–0 away defeat against title contenders Atletico Madrid in La Liga.<ref>{{Cite web|title=Ronald Koeman sacked by Barcelona|url=https://www.skysports.com/football/news/11833/12413637/koeman-sacked-by-barcelona|access-date=28 October 2021|website=Sky Sports}}</ref> On 24 October, following ''Barça's'' 2–1 defeat against Real Madrid at home, Koeman became the first manager since [[Patrick O'Connell (footballer)|Patrick O’Connell]] in 1936 to lose three consecutive ''Clásicos.''<ref>{{Cite web |title=Koeman fue atacado por hinchas tras el clásico: Barcelona se pronunció |url=https://www.futbolred.com/liga-de-espana/ronald-koeman-atacado-por-aficionados-del-barcelona-tras-perder-clasico-vs-real-madrid-146839 |access-date=28 October 2021 |website=futbolred.com |language=spanish}}</ref> On 28 October, the club announced that Koeman had been relieved of his duties as manager following the team's 1–0 away defeat against [[Rayo Vallecano]], with Barcelona sitting at a dissatisfying ninth place on the table.<ref>{{Cite web|title=Ronald Koeman relieved of his duties as first team coach|url=https://www.fcbarcelona.com/en/football/first-team/news/2311932/ronald-koeman-relieved-of-his-duties-as-first-team-coach|access-date=28 October 2021|website=www.fcbarcelona.com}}</ref><ref>{{cite web|url= https://www.bbc.com/sport/football/58633405|title=Ronald Koeman: Barcelona sack head coach after Rayo Vallecano loss|date=27 October 2021|work=BBC Sport|accessdate= 28 October 2021}}</ref> A week later, [[Xavi (footballer, born 1980)|Xavi]] was announced as his replacement.<ref>{{Cite web|title=Xavi Hernández is the new FC Barcelona coach|url=https://www.fcbarcelona.com/en/football/first-team/news/2328587/xavi-hernandez-is-the-new-fc-barcelona-coach|access-date=7 November 2021|website=www.fcbarcelona.com}}</ref>
+
+===Return to the Netherlands===
+On 6 April 2022, Koeman was announced as returning to role of manager of the Netherlands national team, and would commence in the role on 1 January 2023 after the [[2022 FIFA World Cup]] in Qatar, following the third retirement of [[Louis van Gaal]].<ref>{{cite web |url=https://www.onsoranje.nl/nieuws/nederlands-elftal/80112/ronald-koeman-vanaf-2023-bondscoach-nederlands-elftal |title=Ronald Koeman vanaf 2023 bondscoach Nederlands elftal |trans-title=Ronald Koeman from 2023 national coach of the Dutch national team |publisher=Royal Dutch Football Association |date=6 April 2022 |access-date=12 December 2022 |language=nl}}</ref> On 23 January 2023, he was introduced as Dutch national team coach, with an intention to go back to a 4-3-3 formation.<ref>{{cite web |url=https://nltimes.nl/2023/01/23/ronald-koeman-go-back-system-four-defenders |title=Ronald Koeman is to go back to a system with four defenders |website=NL Times |date=23 January 2023 }}</ref> On 24 March, he managed his first match during the [[UEFA Euro 2024 qualifying]] which ended in a 4–0 defeat against [[France national football team|France]] with his team trailing by three goals after 21 minutes, an underperformance occurred more than a century after the Dutch loss to [[Sweden men's national football team|Sweden]] 4–1 on 24 August 1919, with three goals being scored within the first 20 minutes.<ref>{{cite web |url=https://nltimes.nl/2023/03/24/netherlands-hammered-4-0-france-euro-2024-qualifier |title=The Netherlands hammered 4-0 by France in Euro 2024 qualifier |publisher=NL Times |date=24 March 2023 }}</ref>
+
+In [[UEFA Euro 2024]], the Netherlands were drawn with France, [[Poland national football team|Poland]] and [[Austria national football team|Austria]] in the Group D.<ref>{{Cite web |last=UEFA.com |title=UEFA EURO 2024 final tournament draw |url=https://www.uefa.com/euro2024/draws/ |access-date=11 July 2024 |website=[[UEFA]] |language=en}}</ref> The Dutch defeated Poland 2–1 in the first matchday,<ref>{{Cite web |title=Poland 1-2 Netherlands: Wout Weghorst scores winner for Dutch in Euro 2024 Group D |url=https://www.bbc.com/sport/football/live/cx001k2k8e2t |access-date=11 July 2024 |website=BBC Sport |language=en-GB}}</ref> and against France they had to settle for a 0–0 draw.<ref>{{Cite web |title=Netherlands vs France LIVE: Watch Euro 2024 football stream, score, line-up & updates |url=https://www.bbc.com/sport/football/live/c3ggedl093xt |access-date=11 July 2024 |website=BBC Sport |language=en-GB}}</ref> In their final group match, the Netherlands lost to Austria, conceding three goals and scoring two.<ref>{{Cite news |last=Ames |first=Nick |date=25 June 2024 |title=Austria top group with Netherlands in third after Sabitzer strike settles thriller |url=https://www.theguardian.com/football/article/2024/jun/25/netherlands-austria-euro-2024-match-report |access-date=11 July 2024 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref> The Netherlands finished Group D among the four best third placed teams, thus ensuring qualification to the Round of 16, where they played against [[Romania national football team|Romania]] and won 3–0.<ref>{{Cite web |date=2 July 2024 |title=Much-improved Netherlands beats Romania 3-0 to reach first Euros quarterfinal in 16 years |url=https://apnews.com/article/romania-netherlands-euro-26d6013e46710d6767b4b77dcc3c83e3 |access-date=11 July 2024 |website=AP News |language=en}}</ref> In the Quarter finals, the Dutch defeated [[Turkey national football team|Turkey]] 2–1,<ref>{{Cite news |last=Ames |first=Nick |date=6 July 2024 |title=Netherlands fight back to see off Turkey and set up semi-final against England |url=https://www.theguardian.com/football/article/2024/jul/06/netherlands-turkey-euro-2024-match-report |access-date=11 July 2024 |work=The Observer |language=en-GB |issn=0029-7712}}</ref> but were eliminated by [[England national football team|England]] in the Semi finals, losing 2–1.<ref>{{Cite web |title=England 2-1 Netherlands: Ollie Watkins scores late as England reach Euro 2024 final against Spain |url=https://www.bbc.com/sport/football/live/cjern44reddt |access-date=11 July 2024 |website=BBC Sport |language=en-GB}}</ref> This was the first time since the 2014 World Cup that the Netherlands made the semi-finals of a major international tournament.
+
+==Style of play==
+A composed player on the ball, Koeman was capable of being deployed both as a defender and as a midfielder, and he frequently played as a sweeper, due to his vision and his ability on the ball.<ref name="A case for Koeman">{{cite web|url=http://www.totalbarca.com/2013/opinion-pieces/filling-the-boots-a-case-for-koeman/|title=Filling the Boots: A case for Koeman|website=totalbarca.com|date=20 July 2013|access-date=7 April 2015|url-status=dead|archive-url=https://web.archive.org/web/20150412233749/http://www.totalbarca.com/2013/opinion-pieces/filling-the-boots-a-case-for-koeman/|archive-date=12 April 2015}}</ref> Regarded as one of the best and most prolific attacking [[centre back|central defenders]] of all time, due to his eye for goal,<ref name="Scoring defenders">{{cite web|url=http://www.espnfc.us/story/1563004/ask-espn-fc-goalscoring-defenders|title=Scoring defenders, season-long leaders|publisher=ESPN FC|author1=Richard Jolly|date=26 September 2013|access-date=16 January 2017|archive-url=https://web.archive.org/web/20170118032637/http://www.espnfc.us/story/1563004/ask-espn-fc-goalscoring-defenders|archive-date=18 January 2017|url-status=live}}</ref> Koeman was renowned for his [[long ball|long-range passing]], as well as his [[shooting (association football)|shooting]] accuracy and power from distance, especially on [[direct free kick|free kick]]s; he is the top scoring defender in world football,<ref name="iffhd">[http://www.iffhs.de/?b4a390f03be4ac07cda14b45fdcdc3bfcdc0aec70aef05 "The World's most successful Top Division Goal Scorers of all time among defensive players"] {{Webarchive|url=https://web.archive.org/web/20170802164320/http://iffhs.de/?b4a390f03be4ac07cda14b45fdcdc3bfcdc0aec70aef05 |date=2 August 2017 }} by the [[IFFHS]].</ref><ref name="FCB Profile"/> and Barcelona's top scoring defender.<ref name="Liga penalty record"/> A versatile set piece specialist, Koeman was nicknamed the ''King of free kicks'', and was capable of striking the ball with power from long range free kicks, or [[Curl (football)|curling]] shots on goal from close range;<ref name="Lionel Messi equals Ronald Koeman's Barcelona free-kick record"/><ref name="free-kick specialists">{{cite news |url=https://www.theguardian.com/sport/blog/2009/aug/28/joy-of-six-free-kick-specialists |title=The Joy of Six: free-kick specialists |work=The Guardian |last1=Smyth |first1=Rob |date=28 August 2009 |access-date=8 April 2020 |archive-url=https://web.archive.org/web/20191020152431/https://www.theguardian.com/sport/blog/2009/aug/28/joy-of-six-free-kick-specialists |archive-date=20 October 2019 |url-status=live }}</ref><ref name="FCB Profile"/> he was also an accurate [[Penalty kick (association football)|penalty kick]] taker.<ref name="FCB Profile">{{cite web|url=http://www.fcbarcelona.com/club/history/detail/card/ronald-koeman|title=Ronald Koeman|website=barcelona.com|access-date=7 April 2015|archive-url=https://web.archive.org/web/20150705151502/http://www.fcbarcelona.com/club/history/detail/card/ronald-koeman|archive-date=5 July 2015|url-status=live}}</ref> Regarding his unique run-up and approach to taking free kicks and penalties, Rob Smyth of ''[[The Guardian]]'' commented in 2009: "We tend to associate Koeman with that particular type of free-kick, where he would lace the ball in a manner that was paradoxically sledgehammer rather than silk, yet if anything he was more adept at the seductive, shorter-range curler. As with his penalties, when he would charge towards the ball like a man with murder in mind only to tap it gently into the net, part of the skill was in the deception. With Koeman, there was more than one way to skin a defensive wall; as all Englishmen know well, he could flippin' flip one as well."<ref name="free-kick specialists"/>
+
+==Style of management==
+Koeman most commonly organises his teams to have a defensive approach led by their method of attack, whether that be a 4–3–3, a 4–2–3–1 or an alternative, and to defend with minimal space between the lines. Describing his coaching style when appointed as manager of Barcelona, he said: "I’m a coach who likes his teams to be disciplined and well-organised team. I like to dominate games. The Dutch like attacking football. I like to be direct and have good communication with my players. We hold short meetings but that make the message clear."<ref name=coach>{{cite news|url=https://www.fcbarcelona.com/en/news/1763250/koeman-seeking-style-success-and-smiles |title=Koeman seeking style, success and smiles }}</ref>
+
+==Records==
+Koeman is the top scoring defender in world football,<ref name="iffhd"/> scoring 90 goals in all competitions for Barcelona.<ref name="Liga penalty record"/> An accurate free kick and penalty kick taker, Koeman was nicknamed the ''King of free kicks'' throughout his playing career, and is Barcelona's second-highest goalscorer from free kicks, after previous club captain [[Lionel Messi]], with 26 goals from set pieces in all competitions;<ref name="Lionel Messi equals Ronald Koeman's Barcelona free-kick record">{{cite web|url=http://www.espnfc.us/barcelona/story/3036856/lionel-messi-equals-ronald-koemans-barcelona-free-kick-record|title=Lionel Messi equals Ronald Koeman's Barcelona free-kick record|publisher=ESPN FC|date=12 January 2017|access-date=16 January 2017|archive-url=https://web.archive.org/web/20170114061158/http://www.espnfc.us/barcelona/story/3036856/lionel-messi-equals-ronald-koemans-barcelona-free-kick-record|archive-date=14 January 2017|url-status=live}}</ref><ref name="Messi breaks yet another club record">{{cite web|url=https://www.independent.co.uk/sport/football/european/barcelona-3-0-athletic-leo-messi-breaks-another-record-la-liga-a7563146.html|title=Barcelona thrash Athletic Club as Lionel Messi breaks yet another club record|work=The Independent|date=4 February 2017|access-date=5 February 2017|archive-url=https://web.archive.org/web/20170205183618/http://www.independent.co.uk/sport/football/european/barcelona-3-0-athletic-leo-messi-breaks-another-record-la-liga-a7563146.html|archive-date=5 February 2017|url-status=live}}</ref> he is also Barcelona's second-highest scorer from penalties in La Liga, behind Messi once again, with 46 goals from spot kicks, and the highest scoring defender in La Liga from penalties.<ref name="Liga penalty record">{{cite web|url=https://www.uefa.com/uefachampionsleague/news/0235-0e96096b8f4f-d200b6ae1790-1000--cristiano-ronaldo-equals-liga-penalty-record/|title=Cristiano Ronaldo equals Liga penalty record|publisher=UEFA|date=15 January 2017|access-date=16 January 2017|archive-url=https://web.archive.org/web/20181204114446/https://www.uefa.com/uefachampionsleague/news/newsid=2434750.html?rss=2434750+Cristiano+Ronaldo+equals+Liga+penalty+record|archive-date=4 December 2018|url-status=live}}</ref><ref>{{cite web |title=Spain » Primera División » All-time best penalty takers » rank 1 – 50 |website=worldfootball.net |url=http://www.worldfootball.net/alltime_goalgetter/esp-primera-division/elfmeter/1/ |access-date=27 January 2018 |archive-url=https://web.archive.org/web/20180125045047/http://www.worldfootball.net/alltime_goalgetter/esp-primera-division/elfmeter/1/ |archive-date=25 January 2018 |url-status=dead }}</ref> With 67 goals, he is the second most prolific defender in La Liga history, behind [[Sergio Ramos]].<ref>{{cite web|url=http://en.as.com/en/2016/12/03/football/1480791028_521372.html|title=Sergio Ramos 4th highest scoring defender in La Liga history|publisher=AS.com|date=5 December 2016|access-date=16 January 2017|archive-url=https://web.archive.org/web/20170118205809/http://en.as.com/en/2016/12/03/football/1480791028_521372.html|archive-date=18 January 2017|url-status=live}}</ref> He currently holds the record for 25 consecutive successful penalty conversions in La Liga.<ref>{{Cite news|url = http://www.goal.com/en-india/news/1717/editorial/2012/03/10/2957611/110-facts-about-real-madrid-on-their-110th-anniversary|title = 110 facts about Real Madrid on their 110th anniversary|work = Goal.com|date = 10 March 2012|access-date = 10 March 2012|archive-url = https://web.archive.org/web/20120311165658/http://www.goal.com/en-india/news/1717/editorial/2012/03/10/2957611/110-facts-about-real-madrid-on-their-110th-anniversary|archive-date = 11 March 2012|url-status = live}}</ref>
+
+==Personal life==
+Ronald is the son of former Dutch international [[Martin Koeman]] and the younger brother of his former international teammate [[Erwin Koeman]]. He is married to Bartina Koeman.<ref name="wife">{{cite news|last1=Kirkbride|first1=Phil|title=Everton boss Koeman reveals wife's cancer battle made him become anti-smoking campaigner|url=http://www.liverpoolecho.co.uk/sport/football/football-news/everton-boss-koeman-reveals-wifes-12150715|access-date=22 October 2017|work=Liverpool Echo|date=9 November 2016|archive-url=https://web.archive.org/web/20171023012510/http://www.liverpoolecho.co.uk/sport/football/football-news/everton-boss-koeman-reveals-wifes-12150715|archive-date=23 October 2017|url-status=live}}</ref> Their son, [[Ronald Koeman Jr.]], is a professional goalkeeper for [[SC Telstar|Telstar]] in the [[Eredivisie]].<ref>{{cite news|last1=Kirkbride|first1=Phil|title=Everton boss Ronald Koeman jets off to Holland to watch son play|url=http://www.liverpoolecho.co.uk/sport/football/football-news/everton-boss-ronald-koeman-jets-11924680|access-date=22 October 2017|work=Liverpool Echo|date=22 September 2016|archive-url=https://web.archive.org/web/20171023012425/http://www.liverpoolecho.co.uk/sport/football/football-news/everton-boss-ronald-koeman-jets-11924680|archive-date=23 October 2017|url-status=live}}</ref> When Erwin was appointed as the head coach of [[Oman national football team|Oman]] in 2019, they became the first set of brothers to take charge of two different national teams at the same time<ref>{{cite web |last1=Keleman |first1=Luci |title=In Ronald's shadow: The story of Erwin, the other Koeman |url=https://thesefootballtimes.co/2018/01/15/in-ronalds-shadow-the-story-of-erwin-the-other-koeman/ |work=These Football Times |access-date=8 July 2019 |date=15 January 2018 |archive-url=https://web.archive.org/web/20190704044519/https://thesefootballtimes.co/2018/01/15/in-ronalds-shadow-the-story-of-erwin-the-other-koeman/ |archive-date=4 July 2019 |url-status=live }}</ref> Koeman is an ambassador for the anti-smoking campaign Kick it with Help. He said that the cancer diagnoses of his wife and his friend [[Johan Cruyff]] motivated him to join the campaign.<ref name="wife" /> During the transfer as a manager to Barcelona in 2020, Koeman was filmed for a 3-part docuseries entitled, ''Força Koeman''. The series can be seen on Dutch streaming service "videoland" from 17 February 2021.<ref>{{Cite web |date=31 January 2021 |title=Ronald Koeman te zien in driedelige documentaire bij Videoland |trans-title=Ronald Koeman to be featured in a three-part documentary on Videoland. |url=https://www.nu.nl/media/6113600/ronald-koeman-te-zien-in-driedelige-documentaire-bij-videoland.html |access-date=1 February 2021 |website=NU |language=nl}}</ref> Koeman stated that he has been visiting the Portuguese region of [[Algarve]] since 1988 after the victory of [[PSV Eindhoven|PSV]] in the [[1988 European Cup Final]] against Portuguese football club [[SL Benfica|Benfica]]. He bought a [[plot of land]] with {{convert|1000|m2|ft2|abbr=on}} there in 2004 and built a 2,000,000 euro house for himself in [[Vale do Lobo]] between 2005 and 2006.<ref>{{cite web |date=9 June 2005 |title=Koeman é fanático pelo sol do Algarve |trans-title=Koeman is a fanatic about the Algarve sun. |url=https://www.cmjornal.pt/desporto/detalhe/koeman-e-fanatico-pelo-sol-do-algarve |access-date=1 November 2021 |work=[[Correio da Manhã (Portugal)|Correio da Manhã]] |language=pt}}</ref>
+
+==Career statistics==
+===Club===
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by club, season and competition{{citation needed|date=November 2024}}<ref>[http://www.elfvoetbal.nl/speler/09064_ronald-koeman Ronald Koeman Eredivisie stats] {{Webarchive|url=https://web.archive.org/web/20130502142844/http://www.elfvoetbal.nl/speler/09064_ronald-koeman |date=2 May 2013 }}. ''ELF Voetbal''. Retrieved 15 April 2013.</ref><ref>{{cite web|url=http://www.lfp.es/Estadisticas/Plantillas.aspx|title=Spanish La Liga & Segunda stats|publisher=[[Liga de Fútbol Profesional|LFP]]|access-date=15 April 2013|url-status=dead|archive-url=https://web.archive.org/web/20130425045707/http://www.lfp.es/Estadisticas/Plantillas.aspx|archive-date=25 April 2013}}</ref><ref>{{Cite web|url=https://www.rsssf.org/players/rkoeman-in-ec.html|title=Ronald Koeman – Matches in European Cups|access-date=15 April 2013|archive-url=https://web.archive.org/web/20130314030222/http://rsssf.com/players/rkoeman-in-ec.html|archive-date=14 March 2013|website=[[RSSSF]]|url-status=live}}</ref><ref>{{Cite book | last = Nederlof | first = Bert | date = 2013 | title = Ronald Koeman | publisher = Voetbal International / de Buitenspelers | location = Gouda | chapter = Statistieken | language = nl}}</ref>
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup{{efn|Includes [[KNVB Cup]], [[Copa del Rey]]}}
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="4"|[[FC Groningen|Groningen]]
+|[[1980–81 Eredivisie|1980–81]]
+|[[Eredivisie]]
+|24||4||3||2||colspan="2"|—||colspan="2"|—||27||6
+|-
+|[[1981–82 Eredivisie|1981–82]]
+|Eredivisie
+|33||14||1||0||colspan="2"|—||colspan="2"|—||34||14
+|-
+|[[1982–83 Eredivisie|1982–83]]
+|Eredivisie
+|33||14||4||0||colspan="2"|—||colspan="2"|—||37||14
+|-
+!colspan="2"|Total
+!90||32||8||2||colspan="2"|—||colspan="2"|—||98||34
+|-
+|rowspan="4"|[[AFC Ajax|Ajax]]
+|[[1983–84 Eredivisie|1983–84]]
+|Eredivisie
+|32||7||4||2||2{{efn|name=EC}}||0||colspan="2"|—||38||9
+|-
+|[[1984–85 Eredivisie|1984–85]]
+|Eredivisie
+|30||9||2||1||4{{efn|name=UC}}||3||colspan="2"|—||36||13
+|-
+|[[1985–86 Eredivisie|1985–86]]
+|Eredivisie
+|32||7||6||1||2{{efn|name=EC}}||0||colspan="2"|—||40||8
+|-
+!colspan="2"|Total
+!94||23||12||4||8||3||colspan="2"|—||114||30
+|-
+|rowspan="4"|[[PSV Eindhoven|PSV]]
+|[[1986–87 Eredivisie|1986–87]]
+|Eredivisie
+|34||16||3||3||2{{efn|name=EC}}||0||colspan="2"|—||39||19
+|-
+|[[1987–88 PSV Eindhoven season|1987–88]]
+|Eredivisie
+|32||21||6||4||8{{efn|name=EC|Appearances in [[European Cup]]}}||1||colspan="2"|—||46||26
+|-
+|[[1988–89 Eredivisie|1988–89]]
+|Eredivisie
+|32||14||6||1||4{{efn|name=EC}}||2||3{{efn|Two appearances in [[European Super Cup]], one appearance and one goal in [[Intercontinental Cup (1960–2004)|Intercontinental Cup]]}}||1||45||18
+|-
+!colspan="2"|Total
+!98||51||15||8||14||3||3||1||130||63
+|-
+|rowspan="7"|[[FC Barcelona|Barcelona]]
+|[[1989–90 FC Barcelona season|1989–90]]
+|[[La Liga]]
+|36||14||7||4||4{{efn|name=CWC|Appearance in [[European Cup Winners' Cup]]}}||1||1{{efn|Appearance in European Super Cup}}||0||48||19
+|-
+|[[1990–91 FC Barcelona season|1990–91]]
+|La Liga
+|21||6||4||2||7{{efn|name=CWC}}||4||0||0||32||12
+|-
+|[[1991–92 FC Barcelona season|1991–92]]
+|La Liga
+|35||16||2||0||11{{efn|name=EC}}||1||1{{efn|name=SDE|Appearance in [[Supercopa de España]]}}||0||49||17
+|-
+|[[1992–93 FC Barcelona season|1992–93]]
+|La Liga
+|33||11||3||0||3{{efn|name=UCL|Appearances in [[UEFA Champions League]]}}||0||4{{efn|One appearance in Supercopa de España, two appearances in European Super Cup, one appearance in Intercontinental Cup}}||0||43||11
+|-
+|[[1993–94 FC Barcelona season|1993–94]]
+|La Liga
+|35||11||2||0||12{{efn|name=UCL}}||8||1{{efn|name=SDE}}||0||50||19
+|-
+|[[1994–95 FC Barcelona season|1994–95]]
+|La Liga
+|32||9||1||0||8{{efn|name=UCL}}||1||1{{efn|name=SDE}}||0||42||10
+|-
+!colspan="2"|Total
+!192||67||19||6||45||15||8||0||264||88
+|-
+|rowspan="3"|[[Feyenoord]]
+|[[1995–96 Eredivisie|1995–96]]
+|Eredivisie
+|31||10||3||1||7{{efn|name=CWC}}||3||1{{efn|Appearance in [[Dutch Supercup]]}}||0||42||14
+|-
+|[[1996–97 Eredivisie|1996–97]]
+|Eredivisie
+|30||9||2||0||5{{efn|name=UC|Appearances in [[UEFA Cup]]}}||0||colspan="2"|—||37||9
+|-
+!colspan="2"|Total
+!61||19||5||1||12||3||1||0||79||23
+|-
+!colspan=3|Career total
+!535||192||59||21||79||24||12||1||685||238
+|}
+{{notelist}}
+
+===International===
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by national team and year<ref>{{Cite web|url =https://www.rsssf.org/miscellaneous/rkoeman-intl.html|title =Ronald Koeman – International Appearances|access-date =15 April 2013|archive-url =https://web.archive.org/web/20121101070114/http://rsssf.com/miscellaneous/rkoeman-intl.html|archive-date =1 November 2012|website =[[RSSSF]]|url-status =live}}</ref>
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="12"|[[Netherlands national football team|Netherlands]]
+|1983||6||1
+|-
+|1984||1||0
+|-
+|1985||1||0
+|-
+|1986||6||0
+|-
+|1987||7||2
+|-
+|1988||10||1
+|-
+|1989||8||3
+|-
+|1990||9||3
+|-
+|1991||4||0
+|-
+|1992||12||0
+|-
+|1993||5||2
+|-
+|1994||9||2
+|-
+!colspan="2"|Total||78||14
+|}
+
+:''Scores and results list Netherlands's goal tally first, score column indicates score after each Koeman goal''.<ref name="eu-fc">[http://eu-football.info/_player.php?id=10827 Ronald Koeman] {{Webarchive|url=https://web.archive.org/web/20130129144254/http://eu-football.info/_player.php?id=10827 |date=29 January 2013 }}. EU-Football.info. Retrieved 15 April 2013.</ref>
+
+{| class="wikitable sortable"
+|+ List of international goals scored by Ronald Koeman
+|-
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+|-
+| align="center"|1 || 7 September 1983 || [[Oosterpark Stadion]], [[Groningen]], Netherlands || {{fb|ISL}} || align="center"|1–0 || align="center"|3–0 || [[UEFA Euro 1984 qualifying Group 7|UEFA Euro 1984 qualifier]]
+|-
+| align="center"|2 || 9 December 1987 || [[De Meer Stadion|Stadion De Meer]], [[Amsterdam]], Netherlands || {{fb|CYP}} || align="center"|3–0 || align="center"|4–0 || [[UEFA Euro 1988 qualifying Group 5|UEFA Euro 1988 qualifier]]
+|-
+| align="center"|3 || 16 December 1987 || [[Diagoras Stadium]], [[Rhodes]], Greece || {{fb|GRE}} || align="center"|1–0 || align="center"|3–0 || UEFA Euro 1988 qualifier
+|-
+| align="center"|4 || 21 June 1988 || [[Volksparkstadion]], [[Hamburg]], [[West Germany]] || {{fb|FRG}} || align="center"|1–1 || align="center"|2–1 || [[UEFA Euro 1988]]
+|-
+| align="center"|5 || 22 March 1989 || [[Philips Stadion]], [[Eindhoven]], Netherlands || {{fb|URS}} || align="center"|2–0 || align="center"|2–0 || [[Exhibition game|Friendly]]
+|-
+| align="center"|6 || 6 September 1989 || [[Olympic Stadium (Amsterdam)|Olympisch Stadion]], Amsterdam, Netherlands || {{fb|DEN}} || align="center"|1–0 || align="center"|2–2 || Friendly
+|-
+| align="center"|7 || 15 November 1989 || [[De Kuip]], [[Rotterdam]], Netherlands || {{fb|FIN}} || align="center"|3–0 || align="center"|3–0 || [[1990 FIFA World Cup qualification – UEFA Group 4|1990 FIFA World Cup qualifier]]
+|-
+| align="center"|8 || 28 March 1990 || [[Olimpiyskiy National Sports Complex|Republican Stadium]], [[Kyiv]], Ukraine || {{fb|URS}} || align="center"|1–1 || align="center"|1–2 || Friendly
+|-
+| align="center"|9 || 30 May 1990 || [[Praterstadion]], [[Vienna]], Austria || {{fb|AUT}} || align="center"|1–3 || align="center"|2–3 || Friendly
+|-
+| align="center"|10 || 24 June 1990 || [[San Siro]], [[Milan]], Italy || {{fb|FRG}} || align="center"|1–2 || align="center"|1–2 || [[1990 FIFA World Cup knockout stage|1990 FIFA World Cup]]
+|-
+| align="center"|11 || 22 September 1993 || [[Stadio Renato Dall'Ara]], [[Bologna]], Italy || {{fb|SMR}} || align="center"|7–0 || align="center"|7–0 || [[1994 FIFA World Cup qualification (UEFA – Group 2)|1994 FIFA World Cup qualifier]]
+|-
+| align="center"|12 || 13 October 1993 || De Kuip, Rotterdam, Netherlands || {{fb|ENG}} || align="center"|1–0 || align="center"|2–0 || 1994 FIFA World Cup qualifier
+|-
+| align="center"|13 || 19 January 1994 || [[Stade El Menzah]], [[Tunis]], Tunisia || {{fb|TUN}} || align="center"|2–2 || align="center"|2–2 || Friendly
+|-
+| align="center"|14 || 1 June 1994 || Philips Stadion, Eindhoven, Netherlands || {{fb|HUN}} || align="center"|3–1 || align="center"|7–1 || Friendly
+|}
+
+==Managerial statistics==
+{{updated|match played 3 June 2026}}{{citation needed|date=November 2024}}<ref>[https://www.rsssf.org/players/rkoeman-coach-ec.html "Ronald Koeman – Coach in European Cups"] {{Webarchive|url=https://web.archive.org/web/20130314073449/http://rsssf.com/players/rkoeman-coach-ec.html |date=14 March 2013 }}. RSSSF. Retrieved 15 April 2013.</ref>
+
+{| class="wikitable" style="text-align: center"
+|+ Managerial record by team and tenure	
+|-
+!rowspan="2"|Team
+!rowspan="2"|From
+!rowspan="2"|To
+!colspan="8"|Record
+|-
+!{{Tooltip|G|Games managed}}
+!{{Tooltip|W|Games won}}
+!{{Tooltip|D|Games drawn}}
+!{{Tooltip|L|Games lost}}
+!{{Tooltip|GF|Goals for}}
+!{{Tooltip|GA|Goals against}}
+!{{Tooltip|GD|Goal difference}}
+!{{Tooltip|Win %|Winning percentage}}	
+|-
+|[[SBV Vitesse|Vitesse]]
+|1 January 2000
+|2 December 2001
+{{WDL|79|40|23|16|for=132|against=77|diff=yes}}
+|-
+|[[AFC Ajax|Ajax]]
+|3 December 2001
+|25 February 2005
+{{WDL|151|94|30|27|for=322|against=147|diff=yes}}
+|-
+|[[S.L. Benfica|Benfica]]
+|8 June 2005
+|8 May 2006
+{{WDL|49|27|11|11|for=64|against=38|diff=yes}}
+|-
+|[[PSV Eindhoven|PSV]]
+|1 July 2006
+|31 October 2007
+{{WDL|63|38|11|14|for=118|against=54|diff=yes}}
+|-
+|[[Valencia CF|Valencia]]
+|5 November 2007
+|21 April 2008
+{{WDL|34|11|9|14|for=38|against=47|diff=yes}}
+|-
+|[[AZ Alkmaar|AZ]]
+|18 May 2009
+|5 December 2009
+{{WDL|24|11|4|9|for=44|against=30|diff=yes}}
+|-
+|[[Feyenoord]]
+|21 July 2011
+|31 May 2014
+{{WDL|118|67|23|28|for=237|against=137|diff=yes}}
+|-
+|[[Southampton F.C.|Southampton]]
+|16 June 2014
+|14 June 2016
+{{WDL|91|44|17|30|for=140|against=93|diff=yes}}
+|-
+|[[Everton F.C.|Everton]]
+|14 June 2016
+|23 October 2017
+{{WDL|58|24|14|20|for=85|against=74|diff=yes}}
+|-
+|[[Netherlands national football team|Netherlands]]
+|6 February 2018
+|18 August 2020
+{{WDL|20|11|5|4|for=43|against=18|diff=yes}}
+|-
+|[[FC Barcelona|Barcelona]]
+| 19 August 2020
+| 27 October 2021
+{{WDL|67|39|12|16|for=138|against=75|diff=yes}}
+|-
+|[[Netherlands national football team|Netherlands]]
+| 1 January 2023
+| ''Present''
+{{WDL|40|22|9|9|for=95|against=42|diff=yes}}
+|-
+!colspan="3"|Total
+{{WDLtot|794|428|168|198|for=1457|against=832|diff=yes}}
+|}
+
+==Honours==
+===Player===
+'''Ajax'''
+*[[Eredivisie]]: [[1984–85 Eredivisie|1984–85]]<ref name="Saints profile">{{cite web |url=http://www.saintsfc.co.uk/news/article/16062014-in-profile-ronald-koeman-the-player-1645523.aspx |title=Ronald Koeman – the player |work=Southampton |date=16 June 2014 |access-date=29 September 2014 |archive-url=https://web.archive.org/web/20141006072107/http://www.saintsfc.co.uk/news/article/16062014-in-profile-ronald-koeman-the-player-1645523.aspx |archive-date=6 October 2014 |url-status=live }}</ref>
+*[[KNVB Cup]]: [[1985–86 KNVB Cup|1985–86]]<ref name="Saints profile" />
+
+'''PSV'''
+*Eredivisie: [[1986–87 Eredivisie|1986–87]], [[1987–88 Eredivisie|1987–88]], [[1988–89 Eredivisie|1988–89]]<ref name="Saints profile" />
+*KNVB Cup: [[1987–88 KNVB Cup|1987–88]], [[1988–89 KNVB Cup|1988–89]]<ref name="Saints profile" />
+*[[European Cup]]: [[1987–88 European Cup|1987–88]]<ref name="Saints profile" />
+
+'''Barcelona'''
+*[[La Liga]]: [[1990–91 La Liga|1990–91]], [[1991–92 La Liga|1991–92]], [[1992–93 La Liga|1992–93]], [[1993–94 La Liga|1993–94]]<ref name="Saints profile" />
+*[[Copa del Rey]]: [[1989–90 Copa del Rey|1989–90]]<ref name="Saints profile" />
+*[[Supercopa de España]]: [[1991 Supercopa de España|1991]], [[1992 Supercopa de España|1992]], [[1994 Supercopa de España|1994]]<ref name="Saints profile" />
+*[[UEFA Champions League|European Cup/UEFA Champions League]]: [[1991–92 European Cup|1991–92]]; runner-up: [[1993–94 UEFA Champions League|1993–94]]<ref name="Saints profile" />
+*[[European Super Cup]]: [[1992 European Super Cup|1992]]<ref name="Saints profile" />
+
+'''Netherlands'''
+*[[UEFA European Championship]]: [[UEFA Euro 1988|1988]]
+
+'''Individual'''
+*[[Dutch Footballer of the Year]]: 1987, 1988
+*[[UEFA European Championship Team of the Tournament]]: [[UEFA Euro 1988#Awards|1988]]<ref>{{cite web |url=http://www.uefa.com/uefaeuro/season=1988/index.html |title=1988 UEFA European Championship |work=UEFA |access-date=29 September 2014 |archive-url=https://web.archive.org/web/20141007033208/http://www.uefa.com/uefaeuro/season=1988/index.html |archive-date=7 October 2014 |url-status=dead }}</ref>
+*[[Onze d'Or|Onze Mondial]]: 1988, 1992, 1993, 1994<ref>{{Cite web|title="Onze Mondial" Awards|url=https://www.rsssf.org/miscellaneous/onze-awards.html|access-date=17 December 2021|website=[[RSSSF]]|archive-date=4 July 2019|archive-url=https://web.archive.org/web/20190704020132/http://www.rsssf.com/miscellaneous/onze-awards.html|url-status=live}}</ref>
+*[[List of European Cup and UEFA Champions League top scorers|UEFA Champions League top scorer]]: [[1993–94 UEFA Champions League#Top goalscorers|1993–94]]
+*[[UEFA Golden Jubilee Poll]]: No. 26
+
+===Manager===
+'''Ajax'''
+*Eredivisie: [[2001–02 Eredivisie|2001–02]], [[2003–04 Eredivisie|2003–04]]
+*KNVB Cup: [[2001–02 KNVB Cup|2001–02]]
+*[[Johan Cruyff Shield]]: [[2002 Johan Cruyff Shield|2002]]
+
+'''Benfica'''
+*[[Supertaça Cândido de Oliveira]]: [[2005 Supertaça Cândido de Oliveira|2005]]
+
+'''PSV'''
+*Eredivisie: [[2006–07 Eredivisie|2006–07]]
+
+'''Valencia'''
+*Copa del Rey: [[2007–08 Copa del Rey|2007–08]]
+
+'''AZ'''
+*[[Johan Cruyff Shield]]: [[2009 Johan Cruyff Shield|2009]]
+
+'''Netherlands'''
+*[[UEFA Nations League]] runner-up: [[2018–19 UEFA Nations League|2018–19]]<ref>{{Cite web |url=https://www.standardmedia.co.ke/sports/article/2001329222/portugal-defeat-netherlands-to-win-first-nations-league |title=Portugal defeat Netherlands to win first Nations League |access-date=9 June 2019 |archive-url=https://web.archive.org/web/20190610125444/https://www.standardmedia.co.ke/sports/article/2001329222/portugal-defeat-netherlands-to-win-first-nations-league |archive-date=10 June 2019 |url-status=live }}</ref>
+
+'''Barcelona'''
+*Copa del Rey: [[2020–21 Copa del Rey|2020–21]]<ref name="cup21"/>
+
+'''Individual'''
+*[[Rinus Michels Award]]: [[2011–12 Eredivisie|2012]]
+*[[Premier League Manager of the Month]]: [[2014–15 Premier League#Monthly awards|September 2014]], January 2015, [[2015–16 Premier League#Monthly awards|January 2016]]<ref>{{cite web |url=https://www.premierleague.com/managers/10505/Ronald-Koeman/overview |title=Manager profile: Ronald Koeman |publisher=Premier League |access-date=19 September 2018 |archive-url=https://web.archive.org/web/20180925194726/https://www.premierleague.com/managers/10505/Ronald-Koeman/overview |archive-date=25 September 2018 |url-status=live }}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category}}
+* [https://www.onsoranje.nl/teams/185184/speler/8842/staflid Ronald Koeman] at the Royal Dutch Football Association website {{in lang|nl}}
+* {{FIFA player|174671}}
+* {{wvo|1028}}
+* {{ForaDeJogo manager|2}}
+* {{Soccerway coach|ronald-koeman/104589}}
+* {{NFT coach|14122/Ronald_Koeman}}
+
+{{Current managers of UEFA national teams}}
+{{Navboxes
+| title = Netherlands squads
+| bg = #F1771D
+| fg = white
+| bordercolor = blue
+| list1 = 
+{{Netherlands squad UEFA Euro 1988}}
+{{Netherlands squad 1990 FIFA World Cup}}
+{{Netherlands squad UEFA Euro 1992}}
+{{Netherlands squad 1994 FIFA World Cup}}
+{{Netherlands squad UEFA Euro 2024}}
+{{Netherlands squad 2026 FIFA World Cup}}
+}}
+{{Navboxes
+| title = Awards
+| bg = gold
+| fg = navy
+| list1 = 
+{{UEFA Euro 1988 Team of the Tournament}}
+{{1989 World Soccer World XI}}
+{{1992 World Soccer World XI}}
+{{UEFA Champions League top scorers}}
+{{Dutch Footballer of the Year}}
+{{Eredivisie Coach of the Year}}
+{{Eredivisie winning managers}}
+{{Copa del Rey winning managers}}
+}}
+{{Navboxes
+| title = Managerial positions
+| list1 = 
+{{Vitesse Arnhem managers}}
+{{AFC Ajax managers}}
+{{S.L. Benfica managers}}
+{{PSV Eindhoven managers}}
+{{Valencia CF managers}}
+{{AZ managers}}
+{{Feyenoord managers}}
+{{Southampton F.C. managers}}
+{{Everton F.C. managers}}
+{{Netherlands national football team managers}}
+{{FC Barcelona managers}}
+}}
+{{Portal bar|Association football|Netherlands}}
+{{Authority control}}
+
+{{DEFAULTSORT:Koeman, Ronald}}
+[[Category:1963 births]]
+[[Category:Living people]]
+[[Category:Footballers from Zaanstad]]
+[[Category:Dutch men's footballers]]
+[[Category:Men's association football sweepers]]
+[[Category:FC Groningen players]]
+[[Category:AFC Ajax players]]
+[[Category:PSV Eindhoven players]]
+[[Category:FC Barcelona players]]
+[[Category:Feyenoord players]]
+[[Category:Eredivisie players]]
+[[Category:La Liga players]]
+[[Category:Netherlands men's international footballers]]
+[[Category:UEFA Euro 1988 players]]
+[[Category:1990 FIFA World Cup players]]
+[[Category:UEFA Euro 1992 players]]
+[[Category:1994 FIFA World Cup players]]
+[[Category:UEFA European Championship–winning players]]
+[[Category:UEFA Champions League–winning players]]
+[[Category:UEFA Champions League top scorers]]
+[[Category:Dutch expatriate men's footballers]]
+[[Category:Dutch expatriate sportspeople in Spain]]
+[[Category:Expatriate men's footballers in Spain]]
+[[Category:Dutch football managers]]
+[[Category:SBV Vitesse managers]]
+[[Category:AFC Ajax managers]]
+[[Category:S.L. Benfica managers]]
+[[Category:PSV Eindhoven managers]]
+[[Category:Valencia CF managers]]
+[[Category:AZ Alkmaar managers]]
+[[Category:Feyenoord managers]]
+[[Category:Southampton F.C. managers]]
+[[Category:Everton F.C. managers]]
+[[Category:Netherlands national football team managers]]
+[[Category:FC Barcelona managers]]
+[[Category:Eredivisie managers]]
+[[Category:Primeira Liga managers]]
+[[Category:La Liga managers]]
+[[Category:Premier League managers]]
+[[Category:Rinus Michels Award winners]]
+[[Category:Dutch expatriate football managers]]
+[[Category:Dutch expatriate sportspeople in Portugal]]
+[[Category:Dutch expatriate sportspeople in England]]
+[[Category:Expatriate football managers in Portugal]]
+[[Category:Expatriate football managers in Spain]]
+[[Category:Expatriate football managers in England]]
+[[Category:UEFA Euro 2024 managers]]
+[[Category:Dutch football commentators]]
+[[Category:Koeman family]]
+[[Category:20th-century Dutch sportsmen]]
+[[Category:2026 FIFA World Cup managers]]

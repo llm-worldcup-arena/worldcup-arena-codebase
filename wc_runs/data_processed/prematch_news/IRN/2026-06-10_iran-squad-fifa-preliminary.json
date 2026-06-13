@@ -1,0 +1,16 @@
+{
+ "team": "IRN",
+ "source": "FIFA",
+ "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/ir-iran-squad-named",
+ "title": "Iran name final squad | FIFA World Cup 2026",
+ "news_date": "2026-06-10",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "asof": "2026-06-10",
+ "fetched": "2026-06-13_0748",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Head coach Amir Ghalenoei has selected his 26-player IR Iran squad for the FIFA World Cup, with forward Sardar Azmoun a notable omission.\nJust under a fortnight out from their FIFA World Cup 2026™ opener with New Zealand, head coach Amir Ghalenoei has named his 26-player IR Iran squad as the nation prepares to head to a fourth consecutive finals.\nThe squad has been based in Türkiye, where they defeated Gambia 3-1 in a pre-tournament international on 29 May, and where they will face Mali on 4 June as they continue their preparation.\nIR Iran's Extended World Cup squadIR Iran's Extended World Cup squad\nGoalkeepers\nAlireza Beiranvand Hossein Hosseini Payam Niazmand\nDefenders\nDaniyal Eiri Ehsan Hajsafi Saleh Hardani Hossein Kanaani Shoja Khalilzadeh Milad Mohammadi Ali Nemati Ramin Rezaeian\nMidfielders\nRouzbeh Cheshmi Saeid Ezatolahi Mehdi Ghayedi Saman Ghoddos Mohammad Ghorbani Alireza Jahanbakhsh Mohammad Mohebi Amir Mohammad Razzaghinia Mehdi Torabi Aria Yousefi\nForwards\nAli Alipour Dennis Dargahi Amirhossein Hosseinzadeh Shahriyar Moghanlou Mehdi Taremi\nAll squads are provisional until the final list of 26 players is announced by FIFA, following their submission by participating teams, on 2 June.\nTaremi in, Azmoun outTaremi in, Azmoun out\nGhalenoei’s squad is heavy on experience, with star forward Mehdi Taremi one of almost a dozen players to have accrued half a century of caps or more.\nThere was, though, no place for the nation’s third-highest scorer Sardar Azmoun, Belgian-based winger Allahyar Sayyadmanesh or young midfielder Mohammad Javad Hosseinnejad.\nIR Iran’s World Cup 2026 fixtures and groupIR Iran’s World Cup 2026 fixtures and group\n15 June: IR Iran v New Zealand - Los Angeles Stadium\n21 June: Belgium v IR Iran - Los Angeles Stadium\n26 June: Egypt v IR Iran - Seattle Stadium",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

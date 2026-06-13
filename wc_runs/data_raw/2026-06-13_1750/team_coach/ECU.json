@@ -1,0 +1,31 @@
+{
+ "team": "ECU",
+ "coach": {
+  "name_zh": "塞巴斯蒂安·貝卡切斯",
+  "name_en": "Sebastián Beccacece",
+  "nationality": "Argentina",
+  "career_since": "2003",
+  "person_id": "per_sebastian_beccacece"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 阿根廷人塞巴斯蒂安·貝卡切斯2003年开启执教生涯，2016年前长期担任桑保利助教，从未效力职业联赛。\n- 2016年独立执教首站为智利大学，现任厄瓜多尔主帅，经两年预选赛周期将球队打造成南美防守最稳固、结构最严整的队伍之一，志在改写厄瓜多尔世界杯从未突破16强的历史。\n- 主打4-4-2或4-2-3-1阵型，以防守为根基，通过耐心组织与抓对手失误取胜，凯塞多担任防线身前屏障是关键。\n- 围绕年轻中卫因卡皮耶-帕乔搭档构建防守脊梁，边后卫埃斯图皮尼安推进兼顾防守，全队高度组织化。\n- 2026世界杯6月14日首战科特迪瓦，正谨慎管理队长瓦伦西亚康复，拒绝友谊赛冒险以确保队史射手王满血出战。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.95,
+  "issues": []
+ },
+ "brief_fetched": "2026-06-13_1750",
+ "brief_info_chars": 2831,
+ "coach_xverify": {
+  "canonical": "Sebastián Beccacece",
+  "confidence": "high",
+  "discrepancy": "RotoWire提及Julian Nagelsmann，但上下文明确为德国国家队（Die Mannschaft），与厄瓜多尔无关；其余针对厄瓜多尔的权威来源（FIFA.com、Olympics.com）均一致确认Beccacece为2026世界杯周期主教练。",
+  "sources_agree": 3,
+  "n_sources": 7
+ }
+}

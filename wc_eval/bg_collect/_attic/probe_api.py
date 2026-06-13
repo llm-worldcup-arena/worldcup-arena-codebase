@@ -8,7 +8,7 @@ import os, json, sys, urllib.request, urllib.parse
 
 API_KEY = os.environ.get("API_FOOTBALL_KEY", "").strip()
 HOST = "https://v3.football.api-sports.io"
-RAW_DIR = "/home/ubuntu/worldcup_2026/wc_runs/raw/bg/2026-06-07_api"
+RAW_DIR = "/home/ubuntu/worldcup_2026/wc_runs/data_raw/2026-06-07_api"
 
 
 def call(path, params=None):

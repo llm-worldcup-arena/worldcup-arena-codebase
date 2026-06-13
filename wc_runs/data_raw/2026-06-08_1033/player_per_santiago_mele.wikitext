@@ -1,0 +1,272 @@
+{{short description|Uruguayan footballer (born 1997)}}
+{{Use dmy dates|date=September 2024}}
+{{family name hatnote|Mele|Castañero|lang=Spanish}} 
+{{Infobox football biography
+| name = Santiago Mele
+| fullname = Santiago Andrés Mele Castañero<ref name="FCWC25">{{Cite web |title=FIFA Club World Cup 25™ − Squad List: CF Monterrey (MEX)|url=https://fdp.fifa.org/assetspublic/ce233/pdf/SquadLists-English.pdf |access-date=14 June 2025 |website=FIFA}}</ref>
+| image = Santiago Mele.png
+| caption = Mele in 2024
+| birth_date = {{birth date and age|1997|09|06|df=yes}}<ref name="FCWC25"/>
+| birth_place = [[Montevideo]], Uruguay
+| height = {{height|m=1.85}}<ref name="FCWC25"/>
+| currentclub = [[C.F. Monterrey|Monterrey]]
+| clubnumber = 25
+| position = [[Goalkeeper (association football)|Goalkeeper]]
+| youthyears1 = 
+| youthclubs1 = [[Centro Atlético Fénix|Fénix]]
+| years1 = 2016–2017
+| clubs1 = [[Centro Atlético Fénix|Fénix]]
+| caps1 = 6
+| goals1 = 0
+| years2 = 2017–2020
+| clubs2 = [[Osmanlıspor]]
+| caps2 = 13
+| goals2 = 0
+| years3 = 2017
+| clubs3 = → [[MKE Ankaragücü|Ankaragücü]] (loan)
+| caps3 = 0
+| goals3 = 0
+| years4 = 2018
+| clubs4 = → [[Lleida Esportiu]] (loan)
+| caps4 = 0
+| goals4 = 0
+| years5 = 2020–2024
+| clubs5 = [[Club Plaza Colonia de Deportes|Plaza Colonia]]
+| caps5 = 40
+| goals5 = 0
+| years6 = 2022–2023
+| clubs6 = → [[Unión de Santa Fe|Unión Santa Fe]] (loan)
+| caps6 = 48
+| goals6 = 0
+| years7 = 2023
+| clubs7 = → [[Atlético Junior]] (loan)
+| caps7 = 20
+| goals7 = 0
+| years8 = 2024–2025
+| clubs8 = [[Atlético Junior]]
+| caps8 = 53
+| goals8 = 0
+| years9 = 2025–
+| clubs9 = [[C.F. Monterrey|Monterrey]]
+| caps9 = 12
+| goals9 = 0
+| nationalyears1 = 2015
+| nationalteam1 = [[Uruguay national under-18 football team|Uruguay U18]]
+| nationalcaps1 = 3
+| nationalgoals1 = 0
+| nationalyears2 = 2015–2017
+| nationalteam2 = [[Uruguay national under-20 football team|Uruguay U20]]
+| nationalcaps2 = 28
+| nationalgoals2 = 0
+| nationalyears3 = 2019
+| nationalteam3 = Uruguay U22
+| nationalcaps3 = 4
+| nationalgoals3 = 0
+| nationalyears4 = 2023–
+| nationalteam4 = [[Uruguay national football team|Uruguay]]
+| nationalcaps4 = 8
+| nationalgoals4 = 0
+| medaltemplates = {{MedalSport|Men's [[Association football|football]]}}
+{{MedalCountry|{{fb|URU}}}}
+{{MedalCompetition|[[Copa América]]}}
+{{Medal|3rd|[[2024 Copa América|2024 United States]]|}}
+{{MedalCompetition|[[South American Youth Football Championship|South American U-20 Championship]]}}
+{{Medal|Winner|[[2017 South American U-20 Championship|2017 Ecuador]]|}}
+| pcupdate = 15 May 2025
+| ntupdate = 16 November 2025
+}}
+
+'''Santiago Andrés Mele Castañero''' (born 6 September 1997) is a Uruguayan professional [[association football|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for [[Liga MX]] club [[C.F. Monterrey|Monterrey]] and the [[Uruguay national football team|Uruguay national team]].<ref name="soccerway">{{Soccerway|336006}}</ref><ref name="auf">{{cite web|title=1 - Santiago Mele - AUF|url=https://www.auf.org.uy/1-santiago-mele-2017/|accessdate=5 August 2019}}</ref>
+
+==Club career==
+A youth academy graduate of [[Centro Atlético Fénix|Fénix]], Mele made his professional debut on 30 August 2016 in a 1–0 loss against [[C.A. Cerro|Cerro]].<ref name="prodebut">{{cite web|title=Fénix vs. Cerro - 30 August 2016|url=https://int.soccerway.com/matches/2016/08/30/uruguay/primera-division/centro-atletico-fenix/club-atletico-cerro/2346665/|accessdate=14 June 2020}}</ref>
+
+On 4 September 2017, Turkish top division club [[Osmanlıspor]] announced the signing of Mele on a five-year deal.<ref name="osm1">{{cite web|title=Uruguaylı kaleci Santiago Mele Osmanlıspor'da|url=https://www.cnnturk.com/spor/futbol/uruguayli-kaleci-santiago-mele-osmanlisporda|accessdate=14 June 2020}}</ref> He was immediately loaned out to second division club [[MKE Ankaragücü|Ankaragücü]] for [[2017–18 TFF First League|2017–18]] season.<ref name="osm2">{{cite web|title=Osmanlıspor, Uruguaylı kaleci Mele'yi aldı, Ankaragücü'ne kiraladı|url=https://www.goal.com/tr/amp/haber/osmanlispor-uruguayli-kaleci-meleyi-aldi-ankaraguecuene/9vtd2w8hyasa1l1ta7aubti3d|accessdate=14 June 2020}}</ref> However, with [[Korcan Çelikay]] and [[Altay Bayındır]] ahead of him in pecking order, he didn't receive any playing minutes.<ref>[https://www.elobservador.com.uy/nota/santiago-mele-atajando-en-la-locura-turca-2018923195613 Santiago Mele, atajando en la locura turca] elobservador.com.uy</ref>
+
+Mele's loan was cut short in following January and he subsequently got loaned out to Spanish third division side [[Lleida Esportiu]].<ref name="lles">{{cite web|title=El golero Santiago Mele dejó Turquía y arregló en el Lleida Esportiu de España|url=https://www.futbol.com.uy/Deportes/El-golero-Santiago-Mele-dejo-Turquia-y-arreglo-en-el-Lleida-Esportiu-de-Espana-uc673303?plantilla=1735|accessdate=14 June 2020}}</ref> With [[Diego Rivas Rego]] as first-choice goalkeeper, Mele failed to find playing minutes again.
+
+Two years after joining the club, Mele made his debut for Osmanlıspor on 17 August 2019 in a 2–1 win against [[Boluspor]].<ref name="osmdebut">{{cite web|title=Osmanlıspor vs. Boluspor - 17 August 2019|url=https://int.soccerway.com/matches/2019/08/17/turkey/1-lig/bb-ankaraspor/boluspor/3083171/|accessdate=14 June 2020}}</ref>
+
+==International career==
+Mele is a former Uruguay youth international. He was part of [[Uruguay national under-20 football team|Uruguay under-20 team]] which won the [[2017 South American U-20 Championship]] and finished fourth at the [[2017 FIFA U-20 World Cup]].<ref name=auf/> He was also part of the Uruguay under-22 team which finished fourth at the [[Football at the 2019 Pan American Games – Men's tournament|2019 Pan American Games]].<ref>{{cite web|title=Convocados para los Panamericanos de Lima 2019|url=https://www.auf.org.uy/convocados-para-los-panamericanos-de-lima-2019/|access-date=14 June 2020}}</ref>
+
+On 21 October 2022, Mele was named in Uruguay's 55-man preliminary squad for the [[2022 FIFA World Cup]].<ref>{{cite web|title=Selección: Diego Alonso entregó la lista de 55 reservados para el Mundial de Catar|url=https://www.futbol.com.uy/Deportes/Seleccion-Diego-Alonso-entrego-la-lista-de-55-reservados-para-el-Mundial-de-Catar-uc835965|date=21 October 2022|access-date=21 October 2022|language=es}}</ref> He made his senior team debut on 28 March 2023 in a 2–1 win against [[South Korea national football team|South Korea]].<ref>{{cite web|title=Así fue el debut de Santiago Mele en el arco de la Selección Uruguaya|url=https://www.espn.com.co/futbol/mundial/nota/_/id/11819376/seleccion-uruguaya-debut-santiago-mele-arquero|date=28 March 2023|access-date=9 June 2024}}</ref>
+
+In June 2024, Mele was named in Uruguay's 26-man squad for the [[2024 Copa América]].<ref>{{cite web|title=Uruguay presentó los 26 convocados para la Copa América, con Luis Suárez en la lista|url=https://www.montevideo.com.uy/Deportes/Uruguay-presento-los-26-convocados-para-la-Copa-America-con-Luis-Suarez-en-la-lista-uc890665|date=8 June 2024|access-date=9 June 2024}}</ref> On 31 May 2026, he was named in Uruguay's 26-man squad for the [[2026 FIFA World Cup]].<ref>{{cite web|title=Mundial 2026: Uruguay dio a conocer la lista de 26 convocados por Marcelo Bielsa|url=https://www.montevideo.com.uy/Deportes/Mundial-2026-Uruguay-dio-a-conocer-la-lista-de-26-convocados-por-Marcelo-Bielsa-uc963756|language=es|date=31 May 2026|access-date=31 May 2026}}</ref>
+
+==Career statistics==
+=== Club ===
+{{updated|match played 8 December 2024}}<ref name=soccerway/>
+
+{| class="wikitable" style="text-align: center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club!!rowspan="2"|Season!!colspan="3"|League!!colspan="2"|Cup!!colspan="2"|Continental!!colspan="2"|Other!!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="6"|[[Centro Atlético Fénix|Fénix]]
+|[[2013–14 Uruguayan Primera División season|2013–14]]
+|[[Uruguayan Primera División]]
+|0||0|| colspan="2" |—||colspan="2"|—||colspan="2"|—||0||0
+|-
+|[[2014–15 Uruguayan Primera División season|2014–15]]
+|Uruguayan Primera División
+|0||0|| colspan="2" |—||colspan="2"|—||colspan="2"|—||0||0
+|-
+|[[2015–16 Uruguayan Primera División season|2015–16]]
+|Uruguayan Primera División
+|0||0|| colspan="2" |—||colspan="2"|—||colspan="2"|—||0||0
+|-
+|[[2016 Uruguayan Primera División|2016]]
+|Uruguayan Primera División
+|6||0|| colspan="2" |—||colspan="2"|—||colspan="2"|—||6||0
+|-
+|[[2017 Uruguayan Primera División season|2017]]
+|Uruguayan Primera División
+|0||0|| colspan="2" |—||colspan="2"|—||colspan="2"|—||0||0
+|-
+!colspan="2"|Total
+!6!!0!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!6!!0
+|-
+|rowspan="3"|[[Osmanlıspor]]
+|[[2018–19 TFF First League|2018–19]]
+|[[TFF First League]]
+|0||0||0||0||colspan="2"|—||0||0||0||0
+|-
+|[[2019–20 TFF First League|2019–20]]
+|TFF First League
+|13||0||0||0||colspan="2"|—||colspan="2"|—||13||0
+|-
+!colspan="2"|Total
+!13!!0!!0!!0!!colspan="2"|—!!0!!0!!13!!0
+|-
+|[[MKE Ankaragücü|Ankaragücü]] (loan)
+|[[2017–18 TFF First League|2017–18]]
+|[[TFF First League]]
+|0||0||0||0||colspan="2"|—||colspan="2"|—||0||0
+|-
+|[[Lleida Esportiu]] (loan)
+|[[2017–18 Segunda División B|2017–18]]
+|[[Segunda División B]]
+|0||0||0||0||colspan="2"|—||colspan="2"|—||0||0
+|-
+|rowspan="3"|[[Club Plaza Colonia de Deportes|Plaza Colonia]]
+|[[2020 Uruguayan Primera División season|2020]]
+|Uruguayan Primera División
+|20||0||colspan="2"|—||2||0||colspan="2"|—||22||0
+|-
+|[[2021 Uruguayan Primera División season|2021]]
+|Uruguayan Primera División
+|20||0||colspan="2"|—||colspan="2"|—||1||0||21||0
+|-
+!colspan="2"|Total
+!40!!0!!colspan="2"|—!!2!!0!!1!!0!!43!!0
+|-
+|rowspan="3"|[[Unión de Santa Fe|Unión]] (loan)
+|[[2022 Argentine Primera División|2022]]
+|[[Argentine Primera División]]
+|22||0||2||0||7||0||10||0||41||0
+|-
+|[[2023 Argentine Primera División|2023]]
+|Argentine Primera División
+|16||0||1||0||colspan="2"|—||colspan="2"|—||17||0
+|-
+!colspan="2"|Total
+!38!!0!!3!!0!!7!!0!!10!!0!!58!!0
+|-
+|[[Atlético Junior]] (loan)
+|[[2023 Categoría Primera A season|2023]]
+|[[Categoría Primera A]]
+|20||0||2||0||colspan="2"|—||colspan="2"|—||22||0
+|-
+|Atlético Junior
+|[[2024 Categoría Primera A season|2024]]
+|Categoría Primera A
+|37||0||1||0||8||0||2||0||48||0
+|-
+!colspan="3"|Career total
+!154!!0!!6!!0!!17!!0!!13!!0!!190!!0
+|}
+
+===International===
+{{updated|match played 15 November 2025}}<ref name=soccerway/>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="4"|[[Uruguay national football team|Uruguay]]
+|2023||3||0
+|-
+|2024||1||0
+|-
+|2025||4||0
+|-
+|2026||0||0
+|-
+!colspan="2"|Total!!8!!0
+|}
+
+==Honours==
+'''Atlético Junior'''
+* [[Categoría Primera A]]: [[2023 Categoría Primera A season|2023-II]]
+
+'''Uruguay U20'''
+* [[South American Youth Football Championship]]: [[2017 South American U-20 Championship|2017]]
+
+'''Uruguay'''
+*[[Copa América]] third place: [[2024 Copa América|2024]]<ref>{{cite web|title=Uruguay beats Canada on penalties to finish CONMEBOL Copa América™ in 3rd Place|url=https://copaamerica.com/en/news/highlights-uruguay-canada-third-place-penalties-copa-america-2024|date=14 July 2024|access-date=14 July 2024}}</ref>
+
+'''Individual'''
+* [[Uruguayan Primera División]] Team of the Year: [[2021 Uruguayan Primera División season|2021]]<ref>{{cite web|title=Se definieron los Premios AUF anuales 2021|url=https://www.auf.org.uy/se-definieron-los-premios-auf-anuales-2021/|date=28 December 2021|access-date=23 December 2022}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://www.auf.org.uy/santiago-mele/ Profile] at the Uruguayan Football Association website {{in lang|es}}
+
+{{C.F. Monterrey squad}}
+{{Navboxes colour
+|title=Uruguay squads
+|bg        = #87cefa
+|fg        = black
+|bordercolor= gold
+|list1=
+{{Uruguay squad 2024 Copa América}}
+{{Uruguay squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Mele, Santiago}}
+[[Category:1997 births]]
+[[Category:Living people]]
+[[Category:Footballers from Montevideo]]
+[[Category:Men's association football goalkeepers]]
+[[Category:Uruguayan men's footballers]]
+[[Category:Uruguay men's youth international footballers]]
+[[Category:Uruguay men's under-20 international footballers]]
+[[Category:Uruguay men's international footballers]]
+[[Category:Uruguayan Primera División players]]
+[[Category:Centro Atlético Fénix players]]
+[[Category:Ankaraspor footballers]]
+[[Category:MKE Ankaragücü footballers]]
+[[Category:Lleida CF players]]
+[[Category:Plaza Colonia players]]
+[[Category:Unión de Santa Fe footballers]]
+[[Category:Atlético Junior footballers]]
+[[Category:Categoría Primera A players]]
+[[Category:Uruguayan expatriate men's footballers]]
+[[Category:Uruguayan expatriate sportspeople in Turkey]]
+[[Category:Uruguayan expatriate sportspeople in Spain]]
+[[Category:Uruguayan expatriate sportspeople in Argentina]]
+[[Category:Expatriate men's footballers in Turkey]]
+[[Category:Expatriate men's footballers in Spain]]
+[[Category:Expatriate men's footballers in Argentina]]
+[[Category:Sportspeople of Italian descent]]
+[[Category:Uruguayan people of Italian descent]]
+[[Category:Uruguayan expatriate sportspeople in Colombia]]
+[[Category:2024 Copa América players]]
+[[Category:2026 FIFA World Cup players]]
+[[Category:C.F. Monterrey players]]

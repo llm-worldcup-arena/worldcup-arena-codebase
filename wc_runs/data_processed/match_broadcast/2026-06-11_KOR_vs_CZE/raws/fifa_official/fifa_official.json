@@ -1,0 +1,22 @@
+{
+ "source": "FIFA 官方（最权威·赛报）",
+ "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/korea-republic-czechia-highlights-match-report",
+ "title": "Korea Republic 2-1 Czechia | Match report and highlights",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-11",
+  "home": "KOR",
+  "away": "CZE",
+  "home_en": "Korea Republic",
+  "away_en": "Czech Republic",
+  "comp": "小组赛·A组",
+  "match_id": "M2",
+  "slug": "2026-06-11_KOR_vs_CZE"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Goals from Hwang Inbeom and Oh Hyeongyu sealed a comeback win for Korea Republic in their Group A opener against Czechia\nKorea Republic goals: Hwang Inbeom (67), Oh Hyeongyu (80) Czechia goal: Krejci (59)\nHwang Inbeom scored one and created the other as Korea Republic came from a goal down to defeat Czechia and start their FIFA World Cup 2026™ campaign with victory at Guadalajara Stadium.\nKorea had the better of the first half and frequently threatened, but were unable to find a way past Czechia goalkeeper Matej Kovar in the first 45 minutes.\nKovar saved a fierce left-footed strike from Lee Kangin in the 14th minute, before Son Heungmin sent a couple of decent opportunities off target and then couldn’t quite connect with another chance in first-half stoppage time.\nSon was denied again 11 minutes into the second period, once more finding Kovar in his way.\nCzechia then took the lead against the run of play in the 59th minute, captain Ladislav Krejci soaring through the air to meet a long throw from the right by Vladimir Coufal and thundering a header past a helpless Kim Seunggyu in the Korean goal.\nHwang restored parity with a delicious effort eight minutes later though, cutting inside before dinking home after a sublime ball into his path from Lee Kangin, and Oh Hyeongyu then completed the turnaround when he tucked in Hwang’s low ball in from the right in the 80th minute.\nCzechia threw everything they had at finding an equaliser of their own, but the closest they came was when Adam Hlozek forced Kim into a phenomenal stop in the 82nd minute, leaving Korea to celebrate a third consecutive World Cup win over European opposition, following victories over Portugal in 2022 (2-1) and Germany in 2018 (2-0).\nStatStat\nLadislav Krejci's header for Czechia was the country's first World Cup goal in almost 20 years to the day. Their previous effort came when Tomas Rosicky stabbed home the third in a 3-0 group stage win against USA on 12 June 2006.\nWhat they saidWhat they said\n“It was our first game and a very difficult one. The win itself makes me happy, but what’s even more positive is that our boys won by not giving up. I knew that we were more than capable of winning, so at 1-1 I told the boys to keep playing the way we’ve been playing. Now, Mexico is another important match. We will spend the next week to prepare properly.” Hong Myungbo, Korea Republic coach\n“I cannot explain my emotions in words. My body temperature today had gone up to 38 degrees, because I wasn’t feeling well. I wondered if I could even play. It was possible thanks to our staff and the medical team.” Oh Hyeongyu, Korea Republic forward\n“We're still getting used to the tactical approach. It's also our first World Cup in a long time, so it's only natural that nerves play a part. But the key for us is to stay compact defensively. We have to make it as difficult as possible for opponents to get to our goal.” Ladislav Krejci, Czechia captain\nMichelob Ultra Superior Player of the MatchMichelob Ultra Superior Player of the Match\nHwang Inbeom (Korea Republic)",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

@@ -1,0 +1,166 @@
+{{Short description|Haitian footballer (born 1990)}}
+{{BLP sources|date=July 2017}}
+{{Use dmy dates|date=May 2026}}
+{{Infobox football biography
+|name = Ricardo Adé
+|image = 
+|caption = 
+|fullname = Ricardo Adé Kat
+|birth_date = {{birth date and age|1990|5|21|df=y}}
+|birth_place = [[Saint-Marc]], [[Haiti]]
+|height = 1.90 m<ref name="gráfico" />
+|position = [[defender (football)|Defender]]
+|currentclub = [[L.D.U. Quito]]
+|clubnumber = 4
+|years1 = 2011–2013
+|clubs1 = [[Baltimore SC]]
+|caps1 = 56
+|goals1 = 0
+|years2 = 2014
+|clubs2 = [[Miami United]]
+|caps2 = 
+|goals2 = 
+|years3 = 2015–2016
+|clubs3 = [[Don Bosco FC|Don Bosco]]
+|caps3 = 16
+|goals3 = 0
+|years4 = 2017–2018
+|clubs4 = [[Santiago Morning]]
+|caps4 = 51
+|goals4 = 2
+|years5 = 2019–2020
+|clubs5 = [[Deportes Magallanes|Magallanes]]
+|caps5 = 45
+|goals5 = 1
+|years6 = 2021
+|clubs6 = [[Mushuc Runa S.C.|Mushuc Runa]]
+|caps6 = 24
+|goals6 = 0
+|years7 = 2022
+|clubs7 = [[S.D. Aucas|Aucas]]
+|caps7 = 27
+|goals7 = 0
+|years8 = 2023–
+|clubs8 = [[L.D.U. Quito]]
+|caps8 = 95
+|goals8 = 3
+|nationalyears1 = 2013–
+|nationalteam1 = [[Haiti national football team|Haiti]]
+|nationalcaps1 = 58
+|nationalgoals1 = 2
+|pcupdate = 23 April 2026
+|ntupdate = 2 June 2026
+}}
+
+'''Ricardo Adé Kat''' (born 21 May 1990) is a [[Haiti]]an professional [[association football|footballer]] who plays as a [[defender (football)|defender]] for Ecuadorian club [[L.D.U. Quito]] and the [[Haiti national football team|Haiti national team]].
+
+==Career==
+Adé intended to play in [[Thailand]] but he was victim of a fraud when the agent abandoned him while in Thailand.<ref name="primicias">{{cite web |last1=Cordoba |first1=Martha |title=Ricardo Adé, de dormir en las calles de Tailandia a ser figura en Liga |url=https://www.primicias.ec/noticias/jugada/eldeportequequeremos/ricardo-ade-haiti-liga-quito/ |website=Primicias |access-date=1 June 2023}}</ref> Since he couldn't play in Thailand, Adé moved to the [[United States]] and started playing for [[Miami United]].<ref>{{Cite web |last=Cordova |first=Martha |date=14 May 2023 |title=Ricardo Adé, de dormir en las calles de Tailandia a ser figura en Liga |url=https://www.primicias.ec/noticias/jugada/eldeportequequeremos/ricardo-ade-haiti-liga-quito/ |url-status=bot: unknown |archive-url=https://web.archive.org/web/20230601213924/https://www.primicias.ec/noticias/jugada/eldeportequequeremos/ricardo-ade-haiti-liga-quito/ |access-date=15 November 2023 |website=Primicias |archive-date=1 June 2023 }}</ref><ref name="NFT">{{NFT player|id=65026|accessdate=}}</ref>
+
+In 2017, Adé went to [[Santiago Morning]]. In his first season, he played 23 matches and scored 1 goal.<ref name="gráfico">{{cite news|last1=Ríos|first1=Javier|title=Ricardo Adé, el héroe de los haitianos que sueña con triunfar en el fútbol chileno|trans-title=Ricardo Adé, the haitian hero who dreams on succeeding in Chilean football.|url=https://www.publimetro.cl/cl/grafico-chile/2017/11/08/ricardo-ade-el-primer-jugador-haitiano-en-chile.html|accessdate=11 February 2018|agency=Publimetro Chile|publisher=El Gráfico Chile|date=8 November 2017|language=Spanish}}</ref> An agent sent the videos of Adé playing for Miami United to the president of [[Primera B de Chile]] club [[Deportes Magallanes|Magallanes]] and the club hired Adé.<ref name=primicias/> After 4 years in Chile, Adé had the opportunity to play at [[Ecuadorian Serie A|First Division level in Ecuador]], when he signed with [[Mushuc Runa S.C.]] in 2021.<ref name=primicias/> A year later, Adé was crowned as champions of [[2022 Ecuadorian Serie A]] with [[S.D. Aucas]].<ref name=primicias/> In 2023, Adé became a top player in Ecuador playing for [[L.D.U. Quito]].<ref name=primicias/>
+
+Adé made his international debut for [[Haiti national football team|Haiti]] in 2016.<ref name = "NFT"/> He became captain in 2021.<ref name=primicias/>
+
+==Career statistics==
+===International===
+{{updated|match played 2 June 2026}}
+
+{| class="wikitable" style="text-align:center"
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="9"|[[Haiti national football team|Haiti]]
+|2016||4||0
+|-
+|2018||5||0
+|-
+|2019||7||0
+|-
+|2021||9||2
+|-
+|2022||3||0
+|-
+|2023||10||0
+|-
+|2024||7||0
+|-
+|2025||13||0
+|-
+|2026||3||0
+|-
+!colspan="2"|Total!!58!!2
+|}
+
+{| class="wikitable sortable"
+|+ List of international goals scored by Ricardo Ade
+|-
+! No. !! Date !! Venue !! Opponent !! Score !! Result !! Competition 
+|-
+| 1 || 25 March 2021 || [[Stade Sylvio Cator]], [[Port-au-Prince]], Haiti || {{fb|BLZ}} || 1–0 || 2–0 || [[2022 FIFA World Cup qualification – CONCACAF first round|2022 FIFA World Cup qualification]]
+|-
+| 2 || 18 July 2021 || [[Toyota Stadium (Texas)|Toyota Stadium]], [[Frisco, Texas|Frisco]], United States || {{fb|MTQ|football-old}} || 2–1 || 2–1 || [[2021 CONCACAF Gold Cup]]
+|}
+
+==Honours==
+;Don Bosco FC
+* [[Ligue Haïtienne]] (1): 2015
+;Aucas
+* [[Ecuadorian Serie A]] (1): [[2022 Ecuadorian Serie A|2022]]
+;Liga de Quito
+* [[Ecuadorian Serie A]] (2): [[2023 Ecuadorian Serie A|2023]], [[2024 Ecuadorian Serie A|2024]]
+* [[Copa Sudamericana]] (1): [[2023 Copa Sudamericana|2023]]
+
+==References==
+{{reflist|30em}}
+
+==External links==
+* {{Soccerway|olde-ricardo/239351}}
+
+{{LDU Quito squad}}
+{{Navboxes
+| title = Haiti squads
+| bg          = #00209F
+| fg          = white
+| bordercolor = #D21034
+| list =
+{{Haiti squad 2013 CONCACAF Gold Cup}}
+{{Haiti squad 2019 CONCACAF Gold Cup}}
+{{Haiti squad 2021 CONCACAF Gold Cup}}
+{{Haiti squad 2023 CONCACAF Gold Cup}}
+{{Haiti squad 2025 CONCACAF Gold Cup}}
+{{Haiti squad 2026 FIFA World Cup}}
+}}
+{{2023 Copa Sudamericana Team of the Tournament}}
+
+{{DEFAULTSORT:Ade, Ricardo}}
+[[Category:1990 births]]
+[[Category:Living people]]
+[[Category:People from Saint-Marc]]
+[[Category:Haitian men's footballers]]
+[[Category:Men's association football defenders]]
+[[Category:Baltimore SC players]]
+[[Category:Don Bosco FC players]]
+[[Category:Santiago Morning footballers]]
+[[Category:L.D.U. Quito footballers]]
+[[Category:Copa Sudamericana–winning players]]
+[[Category:Ligue Haïtienne players]]
+[[Category:Primera B de Chile players]]
+[[Category:Haiti men's international footballers]]
+[[Category:Haitian expatriate men's footballers]]
+[[Category:Expatriate men's footballers in Chile]]
+[[Category:Expatriate men's soccer players in the United States]]
+[[Category:Expatriate men's footballers in Ecuador]]
+[[Category:Haitian expatriate sportspeople in Chile]]
+[[Category:Haitian expatriate sportspeople in the United States]]
+[[Category:Haitian expatriate sportspeople in Ecuador]]
+[[Category:2013 CONCACAF Gold Cup players]]
+[[Category:2019 CONCACAF Gold Cup players]]
+[[Category:2021 CONCACAF Gold Cup players]]
+[[Category:2023 CONCACAF Gold Cup players]]
+[[Category:2025 CONCACAF Gold Cup players]]
+[[Category:21st-century Haitian sportsmen]]
+[[Category:Ecuadorian Serie A players]]
+[[Category:2026 FIFA World Cup players]]
+
+
+{{Haiti-footy-bio-stub}}

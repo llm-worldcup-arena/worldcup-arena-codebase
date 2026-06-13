@@ -1,0 +1,22 @@
+{
+ "source": "Al Jazeera 半岛（权威·国际）",
+ "url": "https://www.aljazeera.com/sports/2026/6/12/south-korea-vs-czechia-world-cup-2026-oh-hyeon-gyu-hwang-in-beom",
+ "title": "South Korea stage late comeback to beat Czechia on World Cup opening day",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-11",
+  "home": "KOR",
+  "away": "CZE",
+  "home_en": "Korea Republic",
+  "away_en": "Czech Republic",
+  "comp": "小组赛·A组",
+  "match_id": "M2",
+  "slug": "2026-06-11_KOR_vs_CZE"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Second-half goals by Oh Hyeon-gyu and Hwang In-beom steered South Korea to a come-from-behind win over Czechia in a Group A encounter.\n\nHwang In-beom scored a goal and set up another as South Korea rallied to defeat Czechia 2-1 in the second match of the FIFA World Cup 2026 on Thursday night in Zapopan, Mexico.\n\nAfter a lacklustre first half in which both teams were jeered as they left the field, Czechia took the lead in the 59th minute on a header by captain Ladislav Krejci after a long throw-in into the penalty area.\n\nSouth Korea equalised in the 67th minute, when Hwang scored after faking a shot with a nifty move to clear two Czech players. He then made the cross from the right flank for Oh Hyeon-gyu’s decisive strike in the 80th minute in a match played in front of hundreds of empty seats at Guadalajara Stadium.\n\nLed by star forward Son Heung-min, South Korea controlled possession and outshot the Czechs, who were making their first World Cup appearance since 2006.\n\nThe South Koreans, ranked 25th by FIFA, had most of the significant scoring chances against the 38th-ranked Czechs but failed to capitalise early.\n\nThe announced attendance was 44,985 at the 45,664-capacity Guadalajara Stadium. Sections in the middle of the stands had many unoccupied seats, and other empty seats were scattered across the stadium.\n\nEarlier on Thursday, Mexico ignited their World Cup party with a dominant 2-0 victory over nine-man South Africa, as the biggest edition of the global footballing showpiece kicked off at the iconic Estadio Azteca.\n\nWith three points each, Mexico sit on top of Group A, with South Korea second on goal difference. Czechia are third, and South Africa sit at the bottom. In the next round of Group A matches on June 18, Mexico face South Korea in Zapopan, while Czechia play South Africa in Atlanta.\n\nThe top two teams from each of the 12 groups, along with the eight best third-placed teams, proceed to the knockouts, which begin with the round of 32.\n\nYou can follow the action on Al Jazeera’s dedicated FIFA World Cup 2026 page, with all the latest news, match build-up and live text commentary, and",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

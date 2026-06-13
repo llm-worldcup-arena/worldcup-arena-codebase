@@ -1,0 +1,24 @@
+{
+ "team": "TUR",
+ "coach": {
+  "name_zh": "文森佐·蒙特拉",
+  "name_en": "Vincenzo Montella",
+  "nationality": "Italy",
+  "career_since": "2009",
+  "person_id": "per_vincenzo_montella"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 文森佐·蒙特拉，意大利籍教练，2009年开启执教生涯，现任土耳其国家队主帅。\n- 战术体系以恰尔汗奥卢为绝对核心，中场结构完全建立在其控球、调度和精准分球能力之上。\n- 以21岁的居莱尔为进攻支点，打造近年来土耳其最具天赋的年轻一代，被视为队史最富潜力的黄金期。\n- 正带队备战世界杯，6月14日首战澳大利亚，同组对手包括巴拉圭与美国，目标实现赛事突破。\n- 需从35人大名单裁减至26人，同时谨慎管理恰尔汗奥卢与居莱尔的伤病恢复以确保满员出战。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.95,
+  "issues": []
+ },
+ "brief_fetched": "2026-06-13_1138",
+ "brief_info_chars": 2733
+}

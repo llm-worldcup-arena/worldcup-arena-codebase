@@ -1,0 +1,66 @@
+{{short description|Saudi Arabian footballer}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+| name = Alaa Al Hejji
+| image = 
+| fullname = Alaa Haji Al Hejji
+| birth_date = {{birth date and age|1995|12|3|df=yes}}
+| birth_place = [[Saudi Arabia]]
+| height = 1.78 m<ref>{{cite web |url=https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf |title=FIFA World Cup 2026: Squad List |publisher=[[FIFA]] |date=2 June 2026 |access-date=2 June 2026}}</ref>
+| position = [[Midfielder]]
+| currentclub = [[Neom SC|Neom]]
+| clubnumber =  18
+| youthyears1 = 
+| youthclubs1 = [[Khaleej FC|Al-Khaleej]]
+| years1 = 2015–2020
+| clubs1 = [[Khaleej FC|Al-Khaleej]]
+| caps1 = 82
+| goals1 = 9
+| years2 = 2020–2025
+| clubs2 = [[Al-Wehda Club (Mecca)|Al-Wehda]]
+| caps2 = 137
+| goals2 = 6
+| years3 = 2025–
+| clubs3 = [[Neom SC|Neom]]
+| caps3 = 14
+| goals3 = 3
+| nationalyears1 = 2026–
+| nationalteam1  = [[Saudi Arabia national football team|Saudi Arabia]]
+| nationalcaps1  = 2
+| nationalgoals1 = 0
+| pcupdate = 21 May 2026
+| ntupdate = 6 June 2026
+}}
+'''Alaa Al Hejji''' ({{langx|ar|علاء آل حجي}}; born 3 December 1995) is a Saudi Arabian professional [[association football|footballer]] who plays for [[Neom SC|Neom]] in the [[Saudi Professional League]] and the [[Saudi Arabia national football team|Saudi Arabia national team]].<ref>{{cite web |title=ALAA AL HEJJI|url=https://int.soccerway.com/players/alaa-hejji/419504/}}</ref><ref>{{cite web |title=اللاعب: علاء حجي آل حجي|url=https://www.kooora.com/?player=122681}}</ref>
+
+==Career==
+On 7 March 2020, Al Hejji joined [[Al-Wehda Club (Mecca)|Al-Wehda]] on a pre-contract agreement.<ref>{{cite web |title=الوحدة يتعاقد مع حارس الأهلي ومحور وسط الخليج |url=https://ajel.sa/V2JMYc/}}</ref> He officially joined the club following the conclusion of the 2019–20 season.
+
+On 17 July 2025, Al Hejji joined newly-promoted Saudi Pro League club [[Neom SC|Neom]].<ref>{{cite web |title=رسمياً… علاء آل حجي إلى نيوم |url=https://aawsat.com/%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9-%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9/5165879-%D8%B1%D8%B3%D9%85%D9%8A%D8%A7%D9%8B%E2%80%A6-%D8%B9%D9%84%D8%A7%D8%A1-%D8%A2%D9%84-%D8%AD%D8%AC%D9%8A-%D8%A5%D9%84%D9%89-%D9%86%D9%8A%D9%88%D9%85}}</ref>
+
+==References==
+{{reflist}}
+
+== External links ==
+* {{soccerway|alaa-al-hejji/419504}}
+
+{{Neom SC squad}}
+{{Saudi Arabia squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Hejji, Alaa}}
+[[Category:1995 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Qatif]]
+[[Category:Saudi Arabian men's footballers]]
+[[Category:Saudi First Division League players]]
+[[Category:Saudi Pro League players]]
+[[Category:Al-Khaleej FC players]]
+[[Category:Al Wehda FC players]]
+[[Category:Neom SC players]]
+[[Category:Men's association football midfielders]]
+[[Category:Saudi Arabian Shia Muslims]]
+[[Category:21st-century Saudi Arabian sportsmen]]
+[[Category:2026 FIFA World Cup players]]
+
+
+{{SaudiArabia-footy-midfielder-stub}}

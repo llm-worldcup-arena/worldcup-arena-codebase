@@ -1,0 +1,133 @@
+{{short description|Egyptian footballer (born 2000)}}
+{{Infobox football biography
+| name = Mostafa Shobeir
+| image = 
+| image_size = 
+| caption = 
+| full_name = Mostafa Ahmed Abdelaziz Mohamed Shobeir<ref name="FIFA">{{cite web |url=https://fdp.fifa.org/assetspublic/ce119/pdf/SquadLists-English.pdf |title=FIFA Club World Cup Saudi Arabia 2023™: List of Players: Al Ahly SC |publisher=FIFA |page=1 |date=6 December 2023 |access-date=6 December 2023 |archive-url=https://web.archive.org/web/20231206205418/https://fdp.fifa.org/assetspublic/ce119/pdf/SquadLists-English.pdf |archive-date=6 December 2023 |url-status=live}}</ref>
+| birth_date = {{Birth date and age|2000|5|15|df=y}}<ref name="FIFA"/>
+| birth_place = [[Giza]], Egypt
+| height = 1.85 m<ref name="FIFA"/>
+| position = [[Goalkeeper (association football)|Goalkeeper]]
+| currentclub = [[Al Ahly SC]]
+| clubnumber = 31
+| youthyears1 = {{0|0000}}–2020
+| youthclubs1 = [[Al Ahly SC|Al Ahly]]
+| years1 = 2019–
+| clubs1 = [[Al Ahly SC|Al Ahly]]
+| caps1 = 23
+| goals1 = 0
+| nationalteam1 = [[Egypt national under-17 football team|Egypt U17]]
+| nationalcaps1 = 1
+| nationalgoals1 = 0
+| nationalyears2 = 2018{{0|00000}}
+| nationalteam2 = [[Egypt national under-20 football team|Egypt U20]]
+| nationalcaps2 = 1
+| nationalgoals2 = 0
+| nationalyears3 = 2019–2021
+| nationalteam3 = [[Egypt national under-23 football team|Egypt U23]]
+| nationalcaps3 = 2
+| nationalgoals3 = 0
+| nationalyears4 = 2024–{{0|0000}}
+| nationalteam4 = [[Egypt national football team|Egypt]]
+| nationalcaps4 = 1
+| nationalgoals4 = 0
+| club-update = 18 August 2024 (UTC)
+| nationalteam-update = 19 November 2024
+}}
+'''Mostafa Ahmed Abdelaziz Mohamed Shobeir''' ({{langx|ar|مصطفي أحمد عبد العزيز محمد شوبير}}; born 15 May 2000) is an Egyptian professional [[Association football|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for Egyptian club [[Al Ahly SC]] and the [[Egypt national football team|Egypt national team]].
+
+== International career ==
+
+On 2 December 2025, Shobeir was called up to the Egypt squad for the [[2025 Africa Cup of Nations]].<ref>{{cite web|url=https://www.cafonline.com/afcon2025/news/egypt-name-final-28-man-squad-for-totalenergies-caf-afcon-2025-salah-leads-pharaohs-charge/|title=Egypt name final 28-man squad for TotalEnergies CAF AFCON 2025, Salah leads Pharaohs' charge|publisher=[[Confederation of African Football]]|date=2 December 2025|access-date=12 December 2025}}</ref>
+
+== Personal life ==
+Shobeir is the son of former Egyptian national team goalkeeper [[Ahmed Shobair]].
+
+== Career statistics ==
+
+=== Club ===
+{{updated|25 December 2021.}}<ref>{{Soccerway|mostafa-ahmed-shobeir/608344}}</ref>
+
+{| class="wikitable" style="text-align: center"
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|Cup
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+|-
+|rowspan="3"|[[Al Ahly SC|Al Ahly]]
+|[[2019–20 Egyptian Premier League|2019–20]]
+|rowspan="3"|[[Egyptian Premier League]]
+|0||0||1||0||0||0||0||0||0||0
+|-
+|[[2020–21 Egyptian Premier League|2020–21]]
+|1||0||0||0||0||0||0||0||1||0
+|-
+|[[2021–22 Egyptian Premier League|2021–22]]
+|5||0||1||0||0||0||0||0||6||0
+|-
+! colspan=3 | Career total
+!6!!0!!2!!0!!0!!0!!0!!0!!8!!0
+|}
+;Notes
+{{notelist}}
+
+== Honours ==
+;Al Ahly
+* [[Egyptian Premier League]]: [[2019–20 Egyptian Premier League|2019–20]], [[2022–23 Egyptian Premier League|2022–23]], [[2023–24 Egyptian Premier League|2023–24]]
+* [[Egypt Cup]]: [[2019–20 Egypt Cup|2019–20]], [[2021–22 Egypt Cup|2021–22]], [[2022–23 Egypt Cup|2022–23]]
+* [[Egyptian Super Cup]]: [[2023–24 Egyptian Super Cup|2023]], [[2024 Egyptian Super Cup|2024]]
+* [[CAF Champions League]]: [[2020–21 CAF Champions League|2020–21]], [[2022–23 CAF Champions League|2022–23]], [[2023-24 CAF Champions League|2023-24]]
+* [[FIFA African–Asian–Pacific Cup]]: [[2024 FIFA Intercontinental Cup|2024]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [https://www.efa.com.eg/ar/%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AE%D8%A8%D8%A7%D8%AA/%D8%A7%D9%84%D9%84%D8%A7%D8%B9%D8%A8%D9%8A%D9%86/%D9%85%D8%B5%D8%B7%D9%81%D9%89-%D8%B4%D9%88%D8%A8%D9%8A%D8%B1/ Profile] at the Egyptian Football Association website {{in lang|ar}}
+* {{UEFA player}}
+
+{{Al Ahly SC squad}}
+{{Navboxes
+|title= Egypt squads
+|bg=#DD0000
+|fg=white
+|bordercolor=black
+|list1=
+{{Egypt squad 2025 Africa Cup of Nations}}
+{{Egypt squad 2026 FIFA World Cup}}
+}}
+{{2023–24 Egyptian Premier League Team of the Season}}
+{{Portal bar|Association football|Egypt}}
+{{Authority control}}
+
+{{DEFAULTSORT:Shobeir, Mostafa}}
+[[Category:2000 births]]
+[[Category:Living people]]
+[[Category:Footballers from Giza]]
+[[Category:Egyptian men's footballers]]
+[[Category:Egypt men's youth international footballers]]
+[[Category:Egypt men's international footballers]]
+[[Category:Men's association football goalkeepers]]
+[[Category:Egyptian Premier League players]]
+[[Category:Al Ahly SC players]]
+[[Category:CAF Champions League–winning players]]
+[[Category:21st-century Egyptian sportsmen]]
+[[Category:2025 Africa Cup of Nations players]]
+[[Category:2026 FIFA World Cup players]]

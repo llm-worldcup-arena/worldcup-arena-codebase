@@ -1,0 +1,252 @@
+{{short description|Colombian footballer (born 1993)}}
+{{family name hatnote|Machado|Mena|lang=Spanish}}
+{{Use dmy dates|date=February 2021}}
+{{Infobox football biography
+|name = Deiver Machado
+|image = Lens - Reims (12-05-2023) 33.jpg
+|upright = 
+|caption = Machado warming up for [[RC Lens|Lens]] in 2023
+|full_name = Deiver Andrés Machado Mena
+|birth_date = {{birth date and age|1993|09|02|df=y}}
+|birth_place = [[Tadó]], Colombia
+|height = 1.80 m<ref>{{cite web|url=https://www.rclens.fr/fr/pros-deiver-machado?saison=6773 |title=Deiver Machado |date=27 July 2021 |publisher=RC Lens |access-date=19 September 2022}}</ref>
+|position = [[Left-back]], [[left wing-back]]
+|currentclub = [[FC Nantes|Nantes]]
+|clubnumber = 27
+|youthyears1 = 
+|youthclubs1 = 
+|years1 = 2013–2014
+|clubs1 = [[Atlético Nacional]]
+|caps1 = 2
+|goals1 = 0
+|years2 = 2014
+|clubs2 = → [[Alianza Petrolera]] (loan)
+|caps2 = 24
+|goals2 = 0
+|years3 = 2015–2017
+|clubs3 = [[Millonarios F.C.|Millonarios]]
+|caps3 = 67
+|goals3 = 4
+|years4 = 2017–2018
+|clubs4 = [[K.A.A. Gent|Gent]]
+|caps4 = 15
+|goals4 = 0
+|years5 = 2018–2020
+|clubs5 = [[Atlético Nacional]]
+|caps5 = 27
+|goals5 = 0
+|years6 = 2020–2021
+|clubs6 = [[Toulouse FC|Toulouse]]
+|caps6 = 32
+|goals6 = 1
+|years7 = 2021–2025
+|clubs7 = [[RC Lens|Lens]]
+|caps7 = 117
+|goals7 = 9
+|years8 = 2025–
+|clubs8 = [[FC Nantes|Nantes]]
+|caps8 = 14
+|goals8 = 0
+|nationalyears1 = 2016
+|nationalteam1 = [[Colombia Olympic football team|Colombia Olympic]]
+|nationalcaps1 = 6
+|nationalgoals1 = 0
+|nationalyears2 = 2018–
+|nationalteam2 = [[Colombia national football team|Colombia]]
+|nationalcaps2 = 14
+|nationalgoals2 = 0
+|pcupdate = 2 May 2026
+|ntupdate = 29 March 2026
+|medaltemplates = {{MedalSport|Men's [[Association football|football]]}}
+{{MedalCountry|{{fb|COL}}}}
+{{Medal|Competition|[[Copa América]]}}
+{{Medal|RU|[[2024 Copa América|2024 United States]]|}}
+}}
+
+'''Deiver Andrés Machado Mena''' (born 2 September 1993) is a Colombian professional [[association football|footballer]] who plays as a [[left-back]] or [[left wing-back]] for [[Ligue 1]] club [[FC Nantes|Nantes]] and the [[Colombia national football team|Colombia national team]].
+
+== Club career ==
+In 2020, Deiver Machado joined [[Ligue 2]] club [[Toulouse FC|Toulouse]] as a free agent.
+
+On 2 July 2021, he joined [[Ligue 1]] club [[RC Lens|Lens]] for three years.<ref>{{Cite web |title=Transferts : Deiver Machado (Toulouse) signe à RC Lens |url=https://www.lequipe.fr/Football/Actualites/Transferts-deiver-machado-toulouse-signe-a-rc-lens/1268776 |access-date=2023-01-31 |website=L'Équipe |language=fr}}</ref> On 31 January, he extended his contract with Lens until 2026.<ref>{{Cite web |date=2023-01-31 |title=Mercato : Deiver Machado prolonge dans la durée à Lens |url=https://www.lefigaro.fr/sports/football/transferts/mercato-deiver-machado-prolonge-dans-la-duree-a-lens-20230131 |access-date=2023-01-31 |website=LEFIGARO |language=fr}}</ref>
+
+On 8 December 2025, Machado joined Ligue 1 club [[FC Nantes|Nantes]] on a transfer, signing a three-year contract.<ref>{{Cite web |date=2025-12-08 |title=Deiver Machado rejoint le FC Nantes ! |url=https://www.fcnantes.com/articles/article2809.php?num=48247 |publisher=FC Nantes |language=fr}}</ref>
+
+==International career==
+Machado was named in the [[Colombia national football team|Colombia national team]]'s provisional squad for [[Copa América Centenario]] but was cut from the final squad.<ref>{{cite web |url=http://www.goal.com/en-us/news/587/copa-america/2016/05/04/23144402/falcao-left-out-of-colombias-copa-america-squad|title=Falcao left out of Colombia's Copa America squad|publisher=goal.com |date=4 May 2016 |accessdate=11 July 2016}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 2 May 2026}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|[[Atlético Nacional]]
+|[[2013 Categoría Primera A season|2013]]
+|[[Categoría Primera A]]
+|2||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||2||0
+|-
+|[[Alianza Petrolera F.C.|Alianza Petrolera]] (loan)
+|[[2014 Categoría Primera A season|2014]]
+|Categoría Primera A
+|24||0||4||0||colspan="2"|—||colspan="2"|—||28||0
+|-
+|rowspan="4"|[[Millonarios F.C.|Millonarios]]
+|[[2015 Categoría Primera A season|2015]]
+|Categoría Primera A
+|32||0||2||0||colspan="2"|—||colspan="2"|—||34||0
+|-
+|[[2016 Categoría Primera A season|2016]]
+|Categoría Primera A
+|29||2||2||0||colspan="2"|—||colspan="2"|—||31||2
+|-
+|[[2017 Categoría Primera A season|2017]]
+|Categoría Primera A
+|24||2||0||0||2{{efn|name=LIB|Appearances in [[Copa Libertadores]]}}||0||colspan="2"|—||26||2
+|-
+!colspan="2"|Total
+!85!!4!!4!!0!!2!!0!!colspan="2"|—!!91!!4
+|-
+|[[K.A.A. Gent|Gent]]
+|[[2017–18 K.A.A. Gent season|2017]]
+|[[Belgian Pro League|Belgian First Division A]]
+|12||0||3||0||0||0||colspan="2"|—||15||0
+|-
+|rowspan="3"|Atlético Nacional
+|[[2018 Categoría Primera A season|2018]]
+|Categoría Primera A
+|14||0||4||0||2{{efn|name=CoS|Appearances in [[Copa Sudamericana]]}}||0||colspan="2"|—||20|||0
+|-
+|[[2019 Categoría Primera A season|2019]]
+|Categoría Primera A
+|19||0||0||0||6{{efn|Four appearances in [[Copa Libertadores]], two appearances in [[Copa Sudamericana]]}}||0||colspan="2"|—||25|||0
+|-
+!colspan="2"|Total
+!32!!0!!4!!0!!8!!0!!colspan="2"|—!!45!!0
+|-
+|[[Toulouse FC|Toulouse]]
+|[[2020–21 Toulouse FC season|2020–21]]
+|[[Ligue 2]]
+|32||1||0||0||colspan="2"|—||3{{efn|Appearances in [[Ligue 1 relegation/promotion play-offs]]}}||1||35||2
+|-
+|rowspan="6"|[[RC Lens|Lens]]
+|[[2021–22 RC Lens season|2021–22]]
+|[[Ligue 1]]
+|22||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||22||0
+|-
+|[[2022–23 RC Lens season|2022–23]]
+|Ligue 1
+|33||4||3||0||colspan="2"|—||colspan="2"|—||36||4
+|-
+|[[2023–24 RC Lens season|2023–24]]
+|Ligue 1
+|18||4||0||0||4{{efn|name=UCL|Appearances in [[UEFA Champions League]]}}||0||colspan="2"|—||22||4
+|-
+|[[2024–25 RC Lens season|2024–25]]
+|Ligue 1
+|27||1||1||0||2{{efn|name=UEL|Appearances in [[UEFA Europa League]]}}||0||colspan=2|—||30||1
+|-
+|[[2025–26 RC Lens season|2025–26]]
+|[[Ligue 1]]
+|5||0||0||0||colspan="2"|—||colspan="2"|—||5||0
+|-
+!colspan="2"|Total
+!105!!9!!4!!0!!6!!0!!0!!0!!115!!5
+|-
+|[[FC Nantes|Nantes]]
+|[[2025–26 FC Nantes season|2025–26]]
+|[[Ligue 1]]
+|14||0||2||0||colspan="2"|—||colspan="2"|—||16||0
+|-
+!colspan="3"|Career total
+!307!!14!!21!!0!!16!!0!!3!!1!!347!!15
+|}
+
+{{notelist}}
+
+===International===
+{{updated|match played 29 March 2026}}<ref>{{NFT player}}</ref>
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="6"|[[Colombia national football team|Colombia]]
+|2018||2||0
+|-
+|2019||1||0
+|-
+|2023||6||0
+|-
+|2024||2||0
+|-
+|2025||1||0
+|-
+|2026||2||0
+|-
+!colspan=2|Total||14||0
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{WorldFootball.net|deiver-machado}}
+* {{Soccerway|deiver-andres-machado/320617}}
+* {{LFP Ligue 1|deiver-machado-mena}}
+
+{{FC Nantes squad}}
+{{Navboxes
+| title = Colombia squads
+| bg = #FCD116
+| fg = #003893
+| bordercolor = #CE1126
+| list1 = 
+{{Colombia men's football squad 2016 Summer Olympics}}
+{{Colombia squad 2024 Copa América}}
+{{Colombia squad 2026 FIFA World Cup}}
+}}
+{{2020–21 Ligue 2 UNFP Team of the Year}}
+
+{{DEFAULTSORT:Machado, Deiver}}
+[[Category:Living people]]
+[[Category:1993 births]]
+[[Category:21st-century Colombian sportsmen]]
+[[Category:Colombian men's footballers]]
+[[Category:Footballers from Chocó Department]]
+[[Category:Men's association football full-backs]]
+[[Category:Colombia men's international footballers]]
+[[Category:Footballers at the 2016 Summer Olympics]]
+[[Category:2024 Copa América players]]
+[[Category:Olympic footballers for Colombia]]
+[[Category:Categoría Primera A players]]
+[[Category:Belgian Pro League players]]
+[[Category:Ligue 1 players]]
+[[Category:Ligue 2 players]]
+[[Category:Atlético Nacional footballers]]
+[[Category:Alianza Petrolera F.C. players]]
+[[Category:Millonarios F.C. players]]
+[[Category:KAA Gent players]]
+[[Category:Toulouse FC players]]
+[[Category:RC Lens players]]
+[[Category:FC Nantes players]]
+[[Category:Colombian expatriate men's footballers]]
+[[Category:Colombian expatriate sportspeople in Belgium]]
+[[Category:Expatriate men's footballers in Belgium]]
+[[Category:Colombian expatriate sportspeople in France]]
+[[Category:Expatriate men's footballers in France]]
+[[Category:2026 FIFA World Cup players]]
+
+
+{{Colombia-footy-defender-stub}}

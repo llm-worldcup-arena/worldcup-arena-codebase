@@ -1,0 +1,61 @@
+{{short description|Tunisian footballer (born 2001)}}
+{{Use dmy dates|date=June 2025}}
+{{Infobox football biography
+|name = Raed Chikhaoui
+|image =
+|caption = 
+|fullname = 
+|birth_date = {{Birth date and age|2004|6|9|df=y}}
+|birth_place = [[Sakiet Ezzit]], Tunisia<ref name="assarih1">{{Cite web|url=https://assarih.com/%D8%B1%D8%A7%D8%A6%D8%AF-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%D8%A7%D9%88%D9%8A-%D8%A8%D8%B1%D8%AC-%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%A9-%D8%AF%D9%81%D8%A7%D8%B9-%D8%A3%D9%85%D9%84-%D8%AD/|title=رائد الشيخاوي ‘برج المراقبة’ دفاع أمل حمام سوسة مُتابع من الإفريقي…|date=24 December 2023|publisher=Assarih|language=ar}}</ref>
+|height = 1.91 m 
+|position = [[Center-back]]
+|currentclub = [[US Monastir (football)|US Monastir]]
+|clubnumber = 25
+|youthyears1 = 
+|youthclubs1 = [[ES Hammam Sousse|Hammam Sousse]]
+|years1 = 2022–2024
+|clubs1 = [[ES Hammam Sousse|Hammam Sousse]]
+|caps1 = 9
+|goals1 = 0
+|years2 = 2024–
+|clubs2 = [[US Monastir (football)|US Monastir]]
+|caps2 = 44
+|goals2 = 4 
+|nationalyears1 =
+|nationalteam1 =
+|nationalcaps1 =
+|nationalgoals1 =
+|medaltemplates =
+|pcupdate = 15 May 2026 (UTC)
+|ntupdate = 15 May 2026 (UTC)
+}}
+
+'''Raed Chikhaoui''' ({{langx|ar|رائد الشيخاوي}}; born 9 June 2004) is a Tunisian professional [[Association football|footballer]] who plays as a [[center-back]] for [[Tunisian Ligue Professionnelle 1|Tunisian Ligue 1]] club [[US Monastir (football)|US Monastir]] and the [[Tunisia national football team|Tunisia national team]].
+
+==Club career==
+Chikhaoui began his career with [[ES Hammam Sousse|Hammam Sousse]] in the [[Tunisian Ligue Professionnelle 1|Tunisian Ligue 1]]. In February 2024, he signed for [[US Monastir (football)|US Monastir]].<ref name="koora1">{{cite web|url=https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D9%85%D9%86%D8%B3%D8%AA%D9%8A%D8%B1%D9%8A-%D9%8A%D8%B6%D9%85-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%D8%A7%D9%88%D9%8A/1304048|title=أعلن الاتحاد المنستيري، اليوم الخميس، تعاقده مع المدافع رائد الشيخاوي|publisher=Koora|date=1 February 2024|language=ar}}</ref>
+
+==International career==
+In March 2026, Chikhaoui received his first call-up to the [[Tunisia national football team|Tunisia national team]].<ref>{{cite web|url=https://maghreb-foot.com/%D8%AA%D8%B1%D8%A7%D9%82%D8%A8-%D8%B9%D8%AF%D8%A9-%D8%A3%D9%86%D8%AF%D9%8A%D8%A9-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D9%84%D8%A7%D8%B9%D8%A8-%D8%B1%D8%A7%D8%A6%D8%AF-%D8%A7%D9%84/|title=تراقب عدة أندية أوروبية اللاعب رائد الشيخاوي|publisher=Maghreb Foot|date=19 March 2026|language=ar}}</ref> Two months later, he was named in the team's final squad for the [[2026 FIFA World Cup]].<ref>{{Cite web|url=https://www.bbc.com/sport/football/articles/cy42jjj4gg4o|title=Tunisia boss Sabri Lamouchi leaves Ferjani Sassi out of World Cup squad|date=15 May 2026|website=BBC Sport}}</ref>
+
+==Playing style==
+Chikhaoui was given the nickname "The Watchtower" due to his height and his versatility, being able to play in the defense, the midfield and the attack.<ref name="assarih1"/><ref name="koora1"/>
+
+== References ==
+{{reflist}}
+
+==External links==
+*{{Soccerway|new_id=chikhaoui-raed/I3aEQRZC}} 
+
+{{Tunisia squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Chikhaoui, Raed}}
+[[Category:2004 births]]
+[[Category:Living people]]
+[[Category:Tunisian men's footballers]]
+[[Category:Tunisia men's international footballers]]
+[[Category:Men's association football defenders]]
+[[Category:ES Hammam Sousse players]]
+[[Category:US Monastir (football) players]]
+[[Category:Tunisian Ligue Professionnelle 1 players]]
+[[Category:2026 FIFA World Cup players]]

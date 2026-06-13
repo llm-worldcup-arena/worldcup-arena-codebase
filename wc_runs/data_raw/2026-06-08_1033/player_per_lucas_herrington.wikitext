@@ -1,0 +1,118 @@
+{{short description|Australian soccer player (born 2007)}}
+{{EngvarB|date=March 2022}}
+{{Use dmy dates|date=November 2021}}
+{{Infobox football biography
+| name = Lucas Herrington
+| image = Lucas Herrington NYCFC v Colorado Mar 14 2026-29 (cropped).jpg
+| caption = Herrington with the [[Colorado Rapids]] in 2026
+| full_name = 
+| birth_date = {{birth date and age|df=yes|2007|9|5}}
+| birth_place = [[Brisbane]], [[Queensland]], Australia
+| height = 1.92m<ref>{{Cite web|url=https://fbref.com/en/players/6f808c85/Lucas-Herrington|title=Lucas Herrington Stats, Goals, Records, Assists, Cups and more|website=FBref.com}}</ref>
+| position = [[Central defender]]
+| currentclub = [[Colorado Rapids]]
+| clubnumber = 22
+| youthyears1 = 
+| youthclubs1 = [[Taringa Rovers SFC|Taringa Rovers]]
+| youthyears2 = 
+| youthclubs2 = [[Toowong FC|Toowong]]
+| youthyears3 = 
+| youthclubs3 = [[Brisbane City FC|Brisbane City]]
+| youthyears4 = 2019–2024
+| youthclubs4 = [[Brisbane Roar FC|Brisbane Roar]]
+| years1 = 2023
+| clubs1 = [[Brisbane Roar FC Youth|Brisbane Roar NPL]]
+| caps1 = 4
+| goals1 = 0
+| years2 = 2024–2026
+| clubs2 = [[Brisbane Roar FC|Brisbane Roar]]
+| caps2 = 28
+| goals2 = 2
+| years3 = 2026–
+| clubs3 = [[Colorado Rapids]]
+| caps3 = 15
+| goals3 = 1
+| nationalyears1 = 2024–
+| nationalteam1 = [[Australia men's national under-20 soccer team|Australia U20]]
+| nationalcaps1 = 15
+| nationalgoals1 = 0
+| nationalyears2 = 2026–
+| nationalteam2 = [[Australia men's national soccer team|Australia]]
+| nationalcaps2 = 4
+| nationalgoals2 = 0
+| club-update = 5 April 2026
+| nationalteam-update = 7 June 2026
+}}
+'''Lucas Herrington''' (born 5 September 2007) is an Australian professional [[association football|soccer]] player who plays as a [[central defender]] for [[Major League Soccer]] club [[Colorado Rapids]] and the [[Australia men's national soccer team|Australia national team]].
+
+==Club career==
+
+=== Brisbane Roar ===
+Herrington is a product of the youth systems of [[Taringa Rovers SFC|Taringa Rovers]], [[Toowong FC]] and [[Brisbane City FC]], before joining the academy of [[Brisbane Roar FC|Brisbane Roar]] in 2019, where he completed his development.<ref>{{cite web |url=https://brisbaneroar.com.au/player/lucas-herrington/ |title=Lucas Herrington |website=Brisbane Roar FC}}</ref> In 2023, he featured for the club’s reserve side, [[Brisbane Roar FC Youth|Brisbane Roar Youth]].
+
+On 9 September 2024, he signed a three-year scholarship contract with the Roar.<ref>{{cite web |url=https://aleagues.com.au/news/brisbane-roar-sign-lucas-herrington-scholarship-contract-three-year-deal-latest-aleague-men-transfer-news/ |title=Roar hand 3-year scholarship contract to 'exciting talent' |date=9 September 2024 |website=A-Leagues}}</ref> He made his senior and professional debut as a starter in a 2–2 [[A-League Men]] draw against [[Western Sydney Wanderers FC|Western Sydney Wanderers]] on 14 December 2024.<ref>{{cite web |url=https://aleagues.com.au/news/lucas-herrington-transfer-interest-brisbane-roar-ruben-zadkovich-youth-policy/ |title=Teen tipped for 'very, very big' transfer |date=19 February 2025 |website=A-Leagues}}</ref> On 28 January 2025, Herrington scored his first goal for Brisbane in a 4–3 win over [[Sydney FC]].<ref>{{Cite web |last=Dodd |first=James |date=2025-01-18 |title=Drought broken! Brisbane Roar STUN Sydney FC to earn first win of the season |url=https://aleagues.com.au/news/aleague-men-sydney-fc-brisbane-roar-goals-highlights-match-report/ |access-date=2026-03-01 |website=A-Leagues |language=en-AU}}</ref> He made 17 appearances during his first professional season.
+
+Herrington made his first appearance of the [[2025–26 Brisbane Roar FC season|2025–26 season]] as a substitute following a red card to [[Dimitri Valkanis]], helping see out a 1–0 win against [[Macarthur FC|Macarthur]].<ref>{{Cite web |last= |date=2025-10-17 |title=Roar fight tooth and nail to secure opening round win |url=https://brisbaneroar.com.au/news/roar-fight-tooth-and-nail-to-secure-opening-round-win/ |access-date=2026-03-01 |website=Brisbane Roar |language=en-AU}}</ref> He went on to make a further 10 appearances, scoring once in a 3–0 win over [[Newcastle Jets FC|Newcastle Jets]] and keeping six clean sheets.
+
+He played his final match for Brisbane Roar on 3 January 2026, starting in a 3–0 defeat to [[Wellington Phoenix FC|Wellington Phoenix]].<ref>{{cite web |title=Wellington stun Brisbane Roar at Redcliffe |url=https://aleagues.com.au/news/wellington-stun-brisbane-roar-redcliffe/ |website=A-Leagues |date=3 January 2026 |access-date=3 January 2026}}</ref> Herrington made 29 appearances for the roar across all competitions, departing for a club record fee.<ref>{{Cite web |last= |date=2025-08-13 |title=Brisbane Roar Academy product Lucas Herrington to transfer to Colorado Rapids for club record fee |url=https://brisbaneroar.com.au/news/brisbane-roar-academy-product-lucas-herrington-to-transfer-to-colorado-rapids-for-club-record-fee/ |access-date=2026-03-01 |website=Brisbane Roar |language=en-AU}}</ref>
+
+=== Colorado Rapids ===
+On 13 August 2025, Herrington agreed to join [[Major League Soccer]] side [[Colorado Rapids]] ahead of the 2026 season, with the transfer set to be completed in January 2026. He signed a contract running until 2029, with a club option for an additional year.<ref>{{Cite web |last= |first= |title=Colorado Rapids sign Australia youth international defender Lucas Herrington |url=https://www.coloradorapids.com/news/colorado-rapids-sign-australia-youth-international-defender-lucas-herrington |access-date=2026-03-01 |website=Colorado Rapids |language=en}}</ref>
+
+On 22 February 2026, Herrington made his Major League Soccer debut for the Rapids in the opening round of the season, playing the full 90 minutes in a 2–0 loss to [[Seattle Sounders FC|Seattle Sounders]].<ref>{{Cite web |last=Rapids |first=Colorado |title=Recap {{!}} Rapids fall 2-0 on the road against Seattle Sounders |url=https://www.coloradorapids.com/news/recap-rapids-fall-to-seattle-in-2-0-loss-in-washington |access-date=2026-03-01 |website=Colorado Rapids |language=en}}</ref> A week later, on 28 February, he started in a 2–0 win over the [[Portland Timbers]], keeping his first clean sheet and scoring his first goal for the club.<ref>{{Cite web |last= |first= |title=Recap {{!}} Ojediran, Herrington score as Rapids blank Portland 2-0 in Home Opener |url=https://www.coloradorapids.com/news/recap-ojediran-herrington-score-as-rapids-blank-portland-2-0-in-home-opener |access-date=2026-03-01 |website=Colorado Rapids |language=en}}</ref>
+
+==International career==
+Herrington was part of the [[Australia men's national under-19 soccer team|Australia U19]]s who came third at the [[2024 ASEAN U-19 Boys Championship]].<ref>{{cite web|url=https://www.socceroos.com.au/news/subway-young-socceroos-squad-named-asean-u-19-boys-championship|title=Subway Young Socceroos squad named for ASEAN U-19 Boys’ Championship|publisher=[[Football Australia]]|website=[[Australia men's national soccer team|Socceroos]]|date=8 July 2024}}</ref> The following year, he was part of the [[Australia men's national under-20 soccer team|Australia U20]]s who won the [[2025 AFC U-20 Asian Cup]].<ref name="auto">{{Cite web|url=https://www.socceroos.com.au/news/subway-young-socceroos-clinch-first-ever-afc-u20-asian-cup-title-historic-shootout-victory|title=Subway Young Socceroos clinch first-ever AFC U20 Asian Cup title in historic shootout victory &#124; Socceroos|date=1 March 2025|website=www.socceroos.com.au}}</ref>
+
+He was called up in May 2025 for the [[Australia men's national under-20 soccer team#Current under-18 squad|Australia men's national under-18 soccer team]], to take part in the 2025 UEFA Friendship Cup commencing in early June.<ref>{{cite web|url=https://www.socceroos.com.au/news/australia-u18-squad-selected-uefa-friendship-cup-2025|title=Australia U18 Squad selected for UEFA Friendship Cup 2025|publisher=[[Football Australia]]|website=[[Australia men's national soccer team|Socceroos]]|date=20 May 2025}}</ref>
+
+Herrington earned his maiden call-up to the [[Australia men's national soccer team|Australia]] national team for the [[FIFA Series]], where the Socceroos were scheduled to face [[Cameroon national football team|Cameroon]] and [[Curaçao national football team|Curaçao]].<ref>{{Cite web |date=2026-03-19 |title=CommBank Socceroos name three uncapped players for March FIFA Series 2026™ {{!}} Socceroos |url=https://socceroos.com.au/news/commbank-socceroos-name-three-uncapped-players-march-fifa-series-2026tm |access-date=2026-03-19 |website=socceroos.com.au |language=en}}</ref>
+
+==Career statistics==
+
+===International===
+{{updated|match played 7 June 2026}}<ref name="NFT">{{NFT player|92112}}</ref>
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="1"|[[Australia men's national soccer team|Australia]]
+|2026||4||0
+|-
+!colspan="2"|Total!!4!!0
+|}
+
+
+==Personal life==
+Herrington was born in [[Brisbane]], [[Queensland]] and attended the [[Anglican Church Grammar School]]. He is of [[Finnish Australians|Finnish]], [[German Australians|German]] and [[Zimbabwean Australians|Zimbabwean]] descent.<ref>{{cite web|title=Danish delight: Aussie export making in-roads at AGF|url=https://www.ftbl.com.au/news/danish-delight-aussie-export-making-in-roads-at-agf-591991|publisher=ftbl.com.au|date=13 March 2023}}</ref> His older brother, [[Diesel Herrington]], is also a professional footballer.<ref>{{Cite web|url=https://roundballaustralia.com.au/three-reasons-to-be-cheerful-about-brisbane-roar-in-2025/|title=Three reasons to be cheerful about Brisbane Roar in 2025|first=Kevan|last=Sangster|date=6 January 2025}}</ref>
+
+==Honours==
+;Australia U20
+*[[AFC U-20 Asian Cup]]: [[2025 AFC U-20 Asian Cup|2025]]<ref name="auto"/>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Soccerway|lucas-herrington/873345}}
+
+{{Colorado Rapids squad}}
+{{Australia squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Herrington, Lucas}}
+[[Category:2007 births]]
+[[Category:Living people]]
+[[Category:Soccer players from Brisbane]]
+[[Category:Australian men's soccer players]]
+[[Category:Australia men's under-20 international soccer players]]
+[[Category:Australia men's youth international soccer players]]
+[[Category:Australian people of Zimbabwean descent]]
+[[Category:Australian people of German descent]]
+[[Category:Australian people of Finnish descent]]
+[[Category:Men's association football defenders]]
+[[Category:Brisbane Roar FC players]]
+[[Category:Colorado Rapids players]]
+[[Category:A-League Men players]]
+[[Category:21st-century Australian sportsmen]]
+[[Category:Australia men's international soccer players]]
+[[Category:2026 FIFA World Cup players]]

@@ -1,0 +1,16 @@
+{
+ "team": "ECU",
+ "source": "Olympics.com",
+ "url": "https://www.olympics.com/en/news/fifa-world-cup-2026-ecuador-players-squad-list-key-stats-schedule",
+ "title": "Ecuador at FIFA World Cup 2026: All players, full squad list, key stats and schedule",
+ "news_date": "2026-06-10",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-10",
+ "fetched": "2026-06-13_0638",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Ecuador at FIFA World Cup 2026: All players, full squad list, key stats and schedule\nQuick facts\nCaptain: Enner Valencia\nManager: Sebastian Beccacece\nWorld Cup appearances (including 2026): 5\nBest World Cup result: Round of 16 (2006)\nGoalkeepers: Hernán Galíndez (Huracán), Moisés Ramírez (AE Kifisias), Gonzalo Valle (LDU Quito)\nDefenders: Willian Pacho (PSG), Piero Hincapié (Arsenal), Joel Ordóñez (Club Brugge), Félix Torres (Internacional), Pervis Estupiñán (AC Milan), Ángelo Preciado — (Atlético Mineiro), Jackson Porozo (Club Tijuana)\nMidfielders: Moisés Caicedo (Chelsea), Jordy Alcívar (Independiente), Denil Castillo (Midtjylland), Alan Franco (Atlético Mineiro), Pedro Vite (Pumas UNAM), Kendry Páez (River Plate), Yaimar Medina (KRC Genk)\nForwards: Kevin Rodríguez (Union Saint-Gilloise), Anthony Valencia (Royal Antwerp), Enner Valencia (Pachuca), Jordy Caicedo (Huracán), Jeremy Arévalo (Stuttgart), Gonzalo Plata (Flamengo), Alan Minda (Atlético Mineiro), John Yeboah (Venezia), Nilson Angulo (Sunderland)",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

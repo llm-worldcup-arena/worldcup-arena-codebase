@@ -1,0 +1,24 @@
+{
+ "team": "CZE",
+ "coach": {
+  "name_zh": "",
+  "name_en": "Miroslav Koubek",
+  "nationality": "Czechoslovakia",
+  "career_since": "1983",
+  "person_id": "per_miroslav_koubek"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 米罗斯拉夫·库贝克（Miroslav Koubek）是捷克籍主教练（原捷克斯洛伐克国籍），执教生涯始于1983年，现任捷克国家队主帅。\n- 率队在2026世界杯欧预赛附加赛连续通过点球大战淘汰爱尔兰与丹麦，终结捷克队20年无缘世界杯的历史。\n- 采用3-4-2-1阵型，依托身体对抗出色的防线，以勒沃库森前锋帕特里克·希克为进攻支点构建战术体系。\n- 带队在欧预赛阶段以160次抢断、88次拦截、238次空中对抗均位列欧洲第一，打造定位球与高空球双重威胁。\n- 2026世界杯首战1-2遭韩国逆转，队长克雷吉契破门但球队第80分钟被绝杀。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 1.0,
+  "issues": []
+ },
+ "brief_fetched": "2026-06-13_1138",
+ "brief_info_chars": 6000
+}

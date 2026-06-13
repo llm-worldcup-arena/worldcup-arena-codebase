@@ -1,0 +1,22 @@
+{
+ "source": "Crónica（阿根廷）",
+ "url": "https://www.cronica.com.ar/depo/mundial2026/mexico-le-gano-a-sudafrica-en-un-partido-con-tres-expulsados-y-arranco-el-mundial-2026-con-el-pie-derecho/",
+ "title": "México le ganó a Sudáfrica en un partido con tres expulsados y arrancó el Mundial 2026 con el pie derecho",
+ "published": null,
+ "tier": "3",
+ "lang": "es",
+ "match": {
+  "date": "2026-06-11",
+  "home": "MEX",
+  "away": "RSA",
+  "home_en": "Mexico",
+  "away_en": "South Africa",
+  "comp": "小组赛·A组",
+  "match_id": "M1",
+  "slug": "2026-06-11_MEX_vs_RSA"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Por la fecha 1 del Grupo A, México derrotó 2-0 a Sudáfrica y superó con éxito su debut en el Mundial 2026 .\n\nSalvo por el episodio del final, el estreno del Tri en la Copa del Mundo fue inmejorable, porque no sufrió, porque cumplió con la tarea y porque sumó sus primeros tres puntos.\n\nEnfrente se encontró un rival muy débil, sin ideas y sin el talento suficiente como para presentar una oposición clara.\n\nDesde el primer minuto los dirigidos por Javier Aguirre , sin demostrar ningún tipo de pánico escénico, salieron a ahogar a los Bafana . De esa manera, rápidamente tuvo la primera chance clara y, antes de los diez minutos, se puso en ventaja con el gol de Julián Quiñones .\n\nA partir de allí, el elenco azteca tuvo el dominio del juego en la posesión y hasta mereció estirar la diferencia durante una parte inicial que no tuvo más novedades.\n\nYa en el complemento, la tónica se mantuvo, sacando momentos en los que el ritmo bajó y el trámite se estancó de alguna manera. Apenas si el combinado africano se animó a ensayar un par de remates de media distancia que no complicaron al arquero del anfitrión, Raúl Rangel , quien hoy fue un espectador en el terreno de juego.\n\nCuando el equipo del Vasco aceleró, Yaya Sithole vio la roja por una falta en la que quedó como el último hombre y, minutos más tarde, Raúl Jiménez armó y finalizó la acción del 2-0.\n\nPese a que pudo haber alguna otra emoción, el tramo final del cotejo se tiñó de rojo con las expulsiones de Themba Zwane por un golpe y, posteriormente, de César Montes tras una fuerte falta.\n\nMéxico ganó porque quiso, porque se animó y porque, con el resultado opuesto y el rendimiento en el verde césped, hubiera sido un papelón perder puntos contra esta Sudáfrica tan vulnerable.\n\nAhora, a la espera de lo que pase con Corea del Sur y República Checa , el Tri descansará hasta su siguiente compromiso contra el conjunto asiático, en tanto que los comandados por Hugo Broos chocarán contra los europeos.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

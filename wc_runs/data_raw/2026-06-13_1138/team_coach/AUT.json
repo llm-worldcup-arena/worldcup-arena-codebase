@@ -1,0 +1,28 @@
+{
+ "team": "AUT",
+ "coach": {
+  "name_zh": "拉尔夫·朗尼克",
+  "name_en": "Ralf Rangnick",
+  "nationality": "West Germany",
+  "career_since": "1983",
+  "person_id": "per_ralf_rangnick"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "拉尔夫·朗尼克，奥地利国家队主帅，征战2026年世界杯北美赛区。战术以高强度压迫、高位逼抢与快速转换为核心。球队以欧洲区预选赛H组头名（19分）晋级。目前在加州基地完成26人名单集结：后防领袖阿拉巴与中场核心莱默尔、萨比策健康待命；进攻组织者鲍姆加特纳因伤退出且未补招。年轻攻击手万纳与楚克维梅卡提供阵容深度。战术体系成熟，队内氛围统一。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": true,
+  "need_fix": true,
+  "keep_ratio": 0.75,
+  "issues": [
+   "西德籍表述过时",
+   "历史战绩细节冗余",
+   "部分表述主观抽象"
+  ]
+ },
+ "brief_fetched": "2026-06-13_1138",
+ "brief_info_chars": 3746
+}

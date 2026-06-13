@@ -1,0 +1,199 @@
+{{short description|Norwegian footballer (born 1997)}}
+{{BLP sources|date=January 2025}}
+{{Use dmy dates|date=August 2024}}
+{{Infobox football biography
+| image = Norway Italy - June 2025 A 07 (cropped).jpg
+| caption = Selvik with [[Norway national football team|Norway]] in 2025
+| name = Egil Selvik
+| fullname = 
+| birth_date = {{birth date and age|1997|7|30|df=yes}}
+| birth_place = [[Sandnes]], Norway
+| height = 1.87 m
+| position = [[Goalkeeper (association football)|Goalkeeper]]
+| currentclub = [[Watford F.C.|Watford]]
+| clubnumber = 1
+| youthyears1 = {{0|0000}}–2013
+| youthclubs1 = Ganddal IL
+| youthyears2 = 2014–2016
+| youthclubs2 = [[Sandnes Ulf]]
+| years1 = 2017–2018
+| caps1 = 3
+| goals1 = 0
+| clubs1 = [[Sandnes Ulf]]
+| years2 = 2018
+| caps2 = 29
+| goals2 = 0
+| clubs2 = → [[Nest-Sotra Fotball|Nest-Sotra]] (loan)
+| years3 = 2019–2020
+| caps3 = 1
+| goals3 = 0
+| clubs3 = [[Odds BK|Odd]]
+| years4 = 2021–2024
+| caps4 = 117
+| goals4 = 0
+| clubs4 = [[FK Haugesund|Haugesund]]
+| years5 = 2025
+| caps5 = 0
+| goals5 = 0
+| clubs5 = [[Udinese Calcio|Udinese]]
+| years6 = 2025–
+| caps6 = 56
+| goals6 = 0
+| clubs6 = [[Watford F.C.|Watford]]
+| nationalyears1 = 2016
+| nationalteam1 = [[Norway national under-19 football team|Norway U19]]
+| nationalcaps1 = 1
+| nationalgoals1 = 0
+| nationalyears2 = 2023–
+| nationalteam2 = [[Norway national football team|Norway]]
+| nationalcaps2 = 7
+| nationalgoals2 = 0
+| club-update = 8 June 2026
+| nationalteam-update = 8 June 2026
+}}
+'''Egil Selvik''' (born 30 July 1997) is a Norwegian professional [[association football|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for [[EFL Championship]] club [[Watford F.C.|Watford]] and the [[Norway national football team|Norway national team]].<ref>{{Soccerway|egil-selvik/408410}}</ref>
+
+==Club career==
+On 25 November 2024, Selvik was sent off for receiving both red and yellow cards in a 5–1 league victory against [[FK Haugesund]].<ref>{{Cite web|first1=Elise|last1=Pedersen|first2=Øystein|last2=Ellingsen|first3=Johan|last3=Mihle Laugaland|title=Viking beklager: "Dette ble feil og dumt"|url=https://www.nrk.no/rogaland/fkhs-egil-selvik-fikk-rodt-kort-etter-at-han-_klappet_-viking-spiller-i-ansiktet-_-viking-beklager-1.17141675|publisher=[[NRK]]|date=25 November 2024|access-date=10 January 2025|language=no}}</ref> In his last match for [[FK Haugesund]] on 8 December, he kept a clean sheet to seal Haugesund to a 2–0 league victory against [[FK Moss]].<ref>{{Cite news|first=Stine|last=Grøtting|title=Landslagskeeper Egil Selvik bekrefter at han er ferdig i Haugesund|url=https://www.dagbladet.no/studio/sportstudio/307?post=174553|newspaper=[[Dagbladet]]|publisher=[[Aller Media]]|date=8 December 2024|access-date=10 January 2025|language=no}}</ref>
+
+On 10 January 2025, Selvik moved abroad to Italy, signing a contract with [[Udinese Calcio|Udinese]].<ref>{{Cite press release|title=Egil Selvik è bianconero|url=https://www.udinese.it/news/squadra/egil-selvik-e-bianconero|website=Udinese|date=10 January 2025|language=it}}</ref> However, Selvik was only at Udinese for a matter of weeks before moving on to [[EFL Championship]] club [[Watford F.C.|Watford]] for an undisclosed fee on 31 January.<ref>{{Cite web |date=2025-01-31 |title=Egil Selvik: Watford sign Udinese goalkeeper for undisclosed fee |url=https://www.bbc.co.uk/sport/football/articles/c805xx7jrrlo |access-date=2025-01-31 |website=BBC Sport |language=en-GB}}</ref><ref>{{Cite web |date=2025-01-31 |title=Official: Selvik Signs |url=https://www.watfordfc.com/news/2025/january/31/official-selvik-signs/ |access-date=2025-12-12 |website=Watford FC}}</ref>
+
+==International career==
+Selvik debuted for the [[Norway national football team|Norwegian senior squad]] on 7 September 2023 in a friendly match against [[Jordan national football team|Jordan]].<ref>{{Cite web|first1=Henrik|last1=Hovi|first2=Eirik|last2=Nesset Hjelvik|title=Egil (27) skal redde Norge: "Haaland tjener sikkert ti ganger mer på en uke"|url=https://www.tv2.no/sport/egil-27-skal-redde-norge-haaland-tjener-sikkert-ti-ganger-mer-pa-en-uke/17157597/|publisher=[[TV 2 (Norwegian TV channel)|TV 2]]|date=12 November 2024|access-date=10 January 2025|language=no}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|31 March 2026}}<ref>{{NFF|3913160}}</ref>
+{| class="wikitable" style="text-align: center"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|[[Sandnes Ulf]]
+|[[2017 Norwegian First Division|2017]]
+|[[Norwegian First Division|1. divisjon]]
+|3||0||0||0||colspan="2"|–||3||0
+|-
+|[[Nest-Sotra]] (loan)
+|[[2018 Norwegian First Division|2018]]
+|1. divisjon
+|29||0||2||0||1{{efn|name=Eliteserien|Appearance(s) in [[Eliteserien play-offs]]}}||0||32||0
+|-
+|rowspan="3"|[[Odds BK|Odd]]
+|[[2019 Odds BK season|2019]]
+|[[Eliteserien]]
+|0||0||1||0||colspan="2"|—||1||0
+|-
+|[[2020 Odds BK season|2020]]
+|Eliteserien
+|1||0||colspan="2"|—||colspan="2"|—||1||0
+|-
+!colspan="2"|Total
+!1!!0!!1!!0!!colspan="2"|—!!2!!0
+|-
+|rowspan="5"|[[FK Haugesund|Haugesund]]
+|[[2021 FK Haugesund season|2021]]
+|Eliteserien
+|29||0||0||0||colspan="2"|—||29||0
+|-
+|[[2022 FK Haugesund season|2022]]
+|Eliteserien
+|30||0||0||0||colspan="2"|—||30||0
+|-
+|[[2023 FK Haugesund season|2023]]
+|Eliteserien
+|29||0||1||0||colspan="2"|—||30||0
+|-
+|[[2024 FK Haugesund season|2024]]
+|Eliteserien
+|29||0||0||0||2{{efn|name=Eliteserien}}||0||31||0
+|-
+!colspan="2"|Total
+!117!!0!!1!!0!!2!!0!!120!!0
+|-
+|rowspan="3"|[[Watford F.C.|Watford]]
+|[[2024–25 Watford F.C. season|2024–25]]
+|[[EFL Championship|Championship]]
+|16||0||0||0||0||0||16||0
+|-
+|[[2025–26 Watford F.C. season|2025–26]]
+|Championship
+|33||0||1||0||0||0||34||0
+|-
+!colspan="2"|Total
+!49!!0!!1!!0!!0!!0!!50!!0
+|-
+!colspan="3"|Career total
+!199!!0!!5!!0!!3!!0!!207!!0
+|}
+{{notelist}}
+
+=== International ===
+{{updated|8 June 2026}}<ref>{{Cite web |title=Egil Selvik |url=https://www.national-football-teams.com/player/91994/Egil_Selvik.html |website=National Football Teams}}</ref>
+{| class="wikitable" style="text-align: center;"
+|+Appearances and goals by national team and year
+!National team
+!Year
+!Apps
+!Goals
+|-
+| rowspan="4" |[[Norway national football team|Norway]]
+|2023
+|2
+|0
+|-
+|2024
+|1
+|0
+|-
+|2025
+|2
+|0
+|-
+|2026
+|2
+|0
+|-
+! colspan="2" |Total
+!7
+!0
+|}
+
+==References==
+{{reflist}}
+{{commons category}}
+
+{{Watford F.C. squad}}
+{{Norway squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Selvik, Egil}}
+[[Category:1997 births]]
+[[Category:Living people]]
+[[Category:Footballers from Sandnes]]
+[[Category:Norwegian men's footballers]]
+[[Category:Men's association football goalkeepers]]
+[[Category:Norway men's youth international footballers]]
+[[Category:Norway men's international footballers]]
+[[Category:Sandnes Ulf players]]
+[[Category:Nest-Sotra Fotball players]]
+[[Category:Odds BK players]]
+[[Category:FK Haugesund players]]
+[[Category:Udinese Calcio players]]
+[[Category:Norwegian First Division players]]
+[[Category:Eliteserien players]]
+[[Category:Norwegian expatriate men's footballers]]
+[[Category:Expatriate men's footballers in Italy]]
+[[Category:Norwegian expatriate sportspeople in Italy]]
+[[Category:Watford F.C. players]]
+[[Category:Expatriate men's footballers in England]]
+[[Category:Norwegian expatriate sportspeople in England]]
+[[Category:21st-century Norwegian sportsmen]]
+[[Category:2026 FIFA World Cup players]]
+
+{{Norway-footy-goalkeeper-stub}}

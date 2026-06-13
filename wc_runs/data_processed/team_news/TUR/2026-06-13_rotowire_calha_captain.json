@@ -1,0 +1,16 @@
+{
+ "team": "TUR",
+ "source": "RotoWire",
+ "url": "https://www.rotowire.com/soccer/headlines/hakan-calhanoglu-injury-will-captain-turkiye-518404",
+ "title": "Hakan Calhanoglu Injury: Will captain Turkiye | RotoWire",
+ "news_date": "2026-06-13",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "asof": "2026-06-13",
+ "fetched": "2026-06-13_0247",
+ "method": "jsonld:articleBody",
+ "status": "ok",
+ "original_text": "Calhanoglu ended the Serie A season with nine goals and four assists across 22 appearances in the Italian top flight for Inter Milan, continuing to establish himself as one of the most complete deep-lying playmakers in European football with his ability to score, create and dictate the tempo of matches. Calhanoglu is being monitored carefully ahead of the tournament but his importance to Turkiye's system makes him effectively irreplaceable, with coach Montella's entire midfield structure built around his ability to control possession and distribute with precision. Calhanoglu heads into the World Cup as the most important player in the squad with Ardu Guler and the creative and spiritual heartbeat of a Turkiye side with genuine ambitions of making a deep run in the competition.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

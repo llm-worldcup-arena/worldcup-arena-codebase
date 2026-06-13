@@ -1,0 +1,24 @@
+{
+ "source": "FIFA官方",
+ "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/canada-bosnia-and-herzegovina-highlights-match-report",
+ "title": "Canada 1-1 Bosnia and Herzegovina | Match report and highlights",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-12",
+  "home": "CAN",
+  "away": "BIH",
+  "home_en": "Canada",
+  "away_en": "Bosnia and Herzegovina",
+  "home_zh": "加拿大",
+  "away_zh": "波黑",
+  "comp": "小组赛·B组",
+  "match_id": "M3",
+  "slug": "2026-06-12_CAN_vs_BIH"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Co-hosts Canada fought back to earn their first World Cup point thanks to Cyle Larin's second-half equaliser at Toronto Stadium.\nCanada goal: Larin (78) Bosnia and Herzegovina goal: Lukic (21)\nSubstitute Cyle Larin ensured that co-hosts Canada would make a positive start to their tournament after securing a first-ever point on the global stage for Les Rouges against a resolute Bosnia and Herzegovina.\nThe Opening Match of Canada's FIFA World Cup 2026™ had been heralded by pre-match cameos from Michael Buble and Alanis Morisette, yet it was the star quality of the Canadian substitutes that had the Toronto Stadium in raptures by the end of this very watchable Group B contest.\nCoach Sergej Barbarez had promised a motivational speech before the game and his Bosnian players responded well. Amar Memic sent an early chance over, and with the Dragons establishing superiority at set pieces, Sead Kolasinac’s flick from a corner enabled Jovo Lukic to head home.\nUndeterred, Canada played with energy and endeavour. Yet when the ball ricocheted favourably for Jonathan David, the striker's low shot made for a comfortable Nikola Vasilj save. Tani Oluwaseyi had an even more inviting opportunity but blazed over despite time and space in the box.\nOluwaseyi lit up the start of the second half with a Cruyff turn and nearly scored with a header blocked by Nikola Katic. The Canucks were in full flow when Stephen Eustaguio, deputising as captain for the unused Alphonso Davies, played in Richie Laryea but somehow Kolasinac cleared the goal-bound shot off the line. At the other end, Maxime Crepeau saved at the feet of Ermedin Demirovic.\nJesse Marsch's team were staying positive, boosted by a number of substitutions. It was the 76th-minute introduction of Larin that brought the equaliser and, ultimately, Canada's first-ever World Cup point. The striker had only been on the pitch two minutes when he turned sharply to fire in from Promise David's assist. And he nearly won it in added time but was denied by Tarik Muharemovic.\nKey statKey stat\nCanada have ended a six-match losing streak in World Cup final tournaments with this result.\nWhat they saidWhat they said\n\"It was special for me. I was ready to come and help the team. I thought the goals would come. I score when Canada needs me, and always have done. I want to play every game. I’ve been working hard every game with my club to play every game, but sometimes you don’t have control [over that]. We just have to stay concentrated. We’ll be playing at home and just have to push the limit.\"\nCyle Larin, Canada forward\n\"We felt like we had them. We were starting to push the game, the subs came on to change the game. I told them, 'We’ve got them, now it’s time to push your foot on the jugular.' I’m disappointed with the first half. We didn’t play aggressive. We talked about it afterwards and the second half, the moment we stepped on the pitch, was different… but we have to make sure we learn from today. We’ll keep pushing.\"\nJesse Marsch, Canada coach\n\"I will need to ramp up the atmosphere in my team now because they were a bit down. We didn't have that much balance, but overall I think that this was the most realistic outcome. We had a chance to make it 2-0, but we were also very close to conceding twice, so this is a fair result. Overall we were a bit too passive. The idea was to try to surprise the opponent, but we didn't execute well on that part.\"\nSergej Barbarez, Bosnia and Herzegovina coach\nSuperior Player of the MatchSuperior Player of the Match\nIsmael Kone (Canada)",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

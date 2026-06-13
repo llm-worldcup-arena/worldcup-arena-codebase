@@ -1,0 +1,121 @@
+{{Short description|none}}
+{{Use mdy dates|date=June 2025}}
+{{Use American English|date=June 2025}}
+{{Infobox national football team
+| Name                     = United States
+| Badge                    = United States Soccer Federation logo.svg
+| Badge_size               = 155px
+| FIFA Trigramme           = USA<ref>{{cite web |title=World Ranking – USA |url=https://inside.fifa.com/fifa-world-ranking/USA?gender=men |website=InsideFIFA |access-date=18 March 2025}}</ref>
+| Nickname                 = USMNT<br>[[Flag of the United States|The Stars and Stripes]]<ref>{{cite news |url = https://www.theguardian.com/football/2010/jun/26/usa-ghana-world-cup-2010 |location = London, England |newspaper = [[The Guardian]] |first = Paul |last = Wilson |title = USA 1–2 Ghana |date = June 26, 2010 |access-date = December 13, 2016 |archive-date = December 25, 2018 |archive-url = https://web.archive.org/web/20181225135552/https://www.theguardian.com/football/2010/jun/26/usa-ghana-world-cup-2010 |url-status = live }}</ref><br> The Yanks<ref>[http://www.ussoccer.com/media-library/videos/us-men/2009/the-yanks-are-coming-commercial.aspx The Yanks Are Coming USA-HON Commercial]. U.S. Soccer. Retrieved on August 12, 2013. {{webarchive |url=https://web.archive.org/web/20130522002015/http://www.ussoccer.com/media-library/videos/us-men/2009/the-yanks-are-coming-commercial.aspx |date=May 22, 2013 }}</ref>
+| Association              = [[United States Soccer Federation]] (USSF)
+| Confederation            = [[CONCACAF]] (North America)
+| Sub-confederation        = [[North American Football Union|NAFU]] (North America)
+| website                  = {{URL|https://www.ussoccer.com/teams/usmnt/|USMNT}}
+| Coach                    = [[Mauricio Pochettino]]
+| Captain                  = [[Tim Ream]]
+| Most caps                = [[Cobi Jones]] (164)
+| Top scorer               = [[Clint Dempsey]] ([[List of international goals scored by Clint Dempsey|57]])<br/>[[Landon Donovan]] ([[List of international goals scored by Landon Donovan|57]])
+| Home Stadium             = [[#Home stadium|Various]]
+| FIFA Rank                = {{nowrap|{{FIFA World Rankings|USA|mdy=y}}}}
+| FIFA max                 = 4
+| FIFA max date            = April 2006<ref>{{cite web |url = http://www.ussoccer.com/stories/2014/03/17/12/20/u-s-men-move-to-best-ever-fourth-place-in-fifa-world-rankings |title = U.S. Men Move To Best-Ever Fourth Place In FIFA World Rankings |date = April 19, 2006 |publisher = [[U.S. Soccer Federation]] |access-date = October 12, 2017 |archive-date = October 12, 2017 |archive-url = https://web.archive.org/web/20171012101043/http://www.ussoccer.com/stories/2014/03/17/12/20/u-s-men-move-to-best-ever-fourth-place-in-fifa-world-rankings |url-status = live }}</ref>
+| FIFA min                 = 36
+| FIFA min date            = July 2012<ref>{{cite news |url = http://www.latimes.com/sports/soccer/la-sp-fifa-rankings-07062017-story.html |title = U.S. drops 12 spots to No. 35 in FIFA rankings |first = Kevin |last = Baxter |date = July 6, 2017 |newspaper = Los Angeles Times |access-date = October 12, 2017 |archive-date = October 12, 2017 |archive-url = https://web.archive.org/web/20171012050439/http://www.latimes.com/sports/soccer/la-sp-fifa-rankings-07062017-story.html |url-status = live }}</ref>
+| Elo Rank                 = {{nowrap|{{World Football Elo Ratings|United States|mdy=y}}}}
+| Elo max                  = 9
+| Elo max date             = 2009
+| Elo min                  = 85
+| Elo min date             = October 1968
+| American                 = true
+| pattern_la1              = _usa26h
+| pattern_b1               = _usa26h
+| pattern_ra1              = _usa26h
+| pattern_sh1              = _usa26h
+| pattern_so1              = 
+| leftarm1                 = FFFFFF
+| body1                    = FFFFFF
+| rightarm1                = FFFFFF
+| shorts1                  = 212d45
+| socks1                   = FFFFFF
+| pattern_la2              = _usa26a
+| pattern_b2               = _usa26a
+| pattern_ra2              = _usa26a
+| pattern_sh2              = _usa26a
+| pattern_so2              =
+| leftarm2                 = 090b02
+| body2                    = 090b02
+| rightarm2                = 090b02
+| shorts2                  = 090b02
+| socks2                   = 090b02
+| First game               = {{#invoke:flag|fb|SWE|1912}} 2–3 {{#invoke:flag|fb-rt|USA|1912}}<br>([[Stockholm]], Sweden; August 20, 1916)<ref name="RSSSF"/>
+| Largest win              = {{#invoke:flag|fb|USA}} 8–0 {{#invoke:flag|fb-rt|Barbados}}<br>([[Carson, California|Carson]],  United States; June 15, 2008)
+| Largest loss             = {{#invoke:flag|fb|NOR}} 11–0 {{#invoke:flag|fb-rt|USA|1912}}<br>([[Oslo]], Norway; August 6, 1948)<ref name="Hall of Fame">{{cite book |last = Blevins |first = Dave |title = The sports hall of fame encyclopedia : baseball, basketball, football, hockey soccer |year = 2012 |publisher = [[Scarecrow Press]] |location = [[Lanham, MD]] |isbn = 978-0-8108-6130-5 |page = 745 |url = https://books.google.com/books?id=a7CnkH2HIsQC&q=US+loss+to+norway+Aug+6+1948&pg=PA745 |access-date = January 4, 2015 |archive-date = March 25, 2023 |archive-url = https://web.archive.org/web/20230325083844/https://books.google.com/books?id=a7CnkH2HIsQC&q=US+loss+to+norway+Aug+6+1948&pg=PA745 |url-status = live }}</ref>
+| World cup apps           = 12<!--as of 2026-->
+| World cup first          = 1930
+| World cup best           = Third place ([[1930 FIFA World Cup|1930]])
+| Regional name            = [[Football at the Summer Olympics|Olympic Games]]
+| Regional cup apps        = 10
+| Regional cup first       = [[Football at the 1904 Summer Olympics|1904]]
+| Regional cup best        = {{Olympic Silver medal}} Silver ([[Football at the 1904 Summer Olympics|1904]]){{NoteTag|Medal recognized by [[International Olympic Committee|IOC]], but not by [[FIFA]].}}
+| 2ndRegional name         = [[CONCACAF Championship]] / [[CONCACAF Gold Cup|Gold Cup]]
+| 2ndRegional cup apps     = 20<!--as of 2025-->
+| 2ndRegional cup first    = [[1985 CONCACAF Championship|1985]]
+| 2ndRegional cup best     = '''Champions''' ([[1991 CONCACAF Gold Cup|1991]], [[2002 CONCACAF Gold Cup|2002]], [[2005 CONCACAF Gold Cup|2005]], [[2007 CONCACAF Gold Cup|2007]], [[2013 CONCACAF Gold Cup|2013]], [[2017 CONCACAF Gold Cup|2017]], [[2021 CONCACAF Gold Cup|2021]])
+| 3rdRegional name         = [[CONCACAF Nations League]]
+| 3rdRegional cup apps     = 4<!--as of 2025-->
+| 3rdRegional cup first    = [[2019–20 CONCACAF Nations League|2019–20]]
+| 3rdRegional cup best     = '''Champions''' ([[2021 CONCACAF Nations League Finals|2021]], [[2023 CONCACAF Nations League Finals|2023]], [[2024 CONCACAF Nations League Finals|2024]])
+| 4thRegional name         = [[Copa América]]
+| 4thRegional cup apps     = 5<!--as of 2024-->
+| 4thRegional cup first    = [[1993 Copa América|1993]]
+| 4thRegional cup best     = Fourth place ([[1995 Copa América|1995]], [[Copa América Centenario|2016]])
+| Confederations cup apps  = 4
+| Confederations cup first = [[1992 FIFA Confederations Cup|1992]]
+| Confederations cup best  = Runners-up ([[2009 FIFA Confederations Cup|2009]])
+| medaltemplates           =
+{{MedalCompetition|[[FIFA World Cup]]}}
+{{MedalBronze|[[1930 FIFA World Cup|1930 Uruguay]]|[[1930 FIFA World Cup squads#United States|Team]]}}
+{{MedalCompetition|[[FIFA Confederations Cup]]}}
+{{MedalSilver|[[2009 FIFA Confederations Cup|2009 South Africa]]|[[2009 FIFA Confederations Cup squads#United States|Team]]}}
+{{MedalBronze|[[1992 King Fahd Cup|1992 Saudi Arabia]]|[[1992 King Fahd Cup squads#United States|Team]]}}
+{{MedalBronze|[[1999 FIFA Confederations Cup|1999 Mexico]]|[[1999 FIFA Confederations Cup squads#United States|Team]]}}
+{{MedalCompetition|[[Football at the Summer Olympics|Olympic Games]]}}{{NoteTag|These medals are recognized by [[International Olympic Committee|IOC]], but not by [[FIFA]].}}
+{{MedalSilver|[[1904 Summer Olympics|1904 St. Louis]]|[[Football at the 1904 Summer Olympics|Team]]}}
+{{MedalBronze|[[1904 Summer Olympics|1904 St. Louis]]|[[Football at the 1904 Summer Olympics|Team]]}}
+{{MedalCompetition|[[CONCACAF Championship]] / [[CONCACAF Gold Cup|Gold Cup]]}}
+{{MedalGold|[[1991 CONCACAF Gold Cup|1991 United States]]|[[1991 CONCACAF Gold Cup squads#United States|Team]]}}
+{{MedalGold|[[2002 CONCACAF Gold Cup|2002 United States]]|[[2002 CONCACAF Gold Cup squads#United States|Team]]}}
+{{MedalGold|[[2005 CONCACAF Gold Cup|2005 United States]]|[[2005 CONCACAF Gold Cup squads#United States|Team]]}}
+{{MedalGold|[[2007 CONCACAF Gold Cup|2007 United States]]|[[2007 CONCACAF Gold Cup squads#United States|Team]]}}
+{{MedalGold|[[2013 CONCACAF Gold Cup|2013 United States]]|[[2013 CONCACAF Gold Cup squads#United States|Team]]}}
+{{MedalGold|[[2017 CONCACAF Gold Cup|2017 United States]]|[[2017 CONCACAF Gold Cup squads#United States|Team]]}}
+{{MedalGold|[[2021 CONCACAF Gold Cup|2021 United States]]|[[2021 CONCACAF Gold Cup squads#United States|Team]]}}
+{{MedalSilver|[[1989 CONCACAF Championship|1989 North America]]|Team}}
+{{MedalSilver|[[1993 CONCACAF Gold Cup|1993 United States and Mexico]]|[[1993 CONCACAF Gold Cup squads#United States|Team]]}}
+{{MedalSilver|[[1998 CONCACAF Gold Cup|1998 United States]]|[[1998 CONCACAF Gold Cup squads#United States|Team]]}}
+{{MedalSilver|[[2009 CONCACAF Gold Cup|2009 United States]]|[[2009 CONCACAF Gold Cup squads#United States|Team]]}}
+{{MedalSilver|[[2011 CONCACAF Gold Cup|2011 United States]]|[[2011 CONCACAF Gold Cup squads#United States|Team]]}}
+{{MedalSilver|[[2019 CONCACAF Gold Cup|2019 United States, Costa Rica and Jamaica]]|[[2019 CONCACAF Gold Cup squads#United States|Team]]}}
+{{MedalSilver|[[2025 CONCACAF Gold Cup|2025 United States and Canada]]|[[2025 CONCACAF Gold Cup squads#United States|Team]]}}
+{{MedalBronze|[[1996 CONCACAF Gold Cup|1996 United States]]|[[1996 CONCACAF Gold Cup squads#United States|Team]]}}
+{{MedalBronze|[[2003 CONCACAF Gold Cup|2003 United States and Mexico]]|[[2003 CONCACAF Gold Cup squads#United States|Team]]}}
+{{MedalCompetition|[[CONCACAF Nations League]]}}
+{{MedalGold|[[2021 CONCACAF Nations League Finals|2021 United States]]|[[2021 CONCACAF Nations League Finals squads#United States|Team]]}}
+{{MedalGold|[[2023 CONCACAF Nations League Finals|2023 United States]]|[[2023 CONCACAF Nations League Finals squads#United States|Team]]}}
+{{MedalGold|[[2024 CONCACAF Nations League Finals|2024 United States]]|[[2024 CONCACAF Nations League Finals squads#United States|Team]]}}
+{{MedalCompetition|[[CONCACAF Cup]]}}
+{{MedalSilver|[[CONCACAF Cup|2015 United States]]|[[CONCACAF Cup#United States squad|Team]]}}
+{{MedalCompetition|[[North American Football Confederation#NAFC Championship|NAFC Championship]]}}
+{{MedalSilver|[[1949 NAFC Championship|1949 Mexico]]|Team}}
+{{MedalBronze|[[1947 NAFC Championship|1947 Cuba]]|Team}}
+{{MedalCompetition|[[North American Nations Cup]]}}
+{{MedalSilver|[[1991 North American Nations Cup|1991 United States]]|[[1991 North American Nations Cup squads#United States|Team]]}}
+}}
+
+The '''United States men's national soccer team''' ('''USMNT''') represents the [[United States]] in men's international [[Association football|soccer]], which is governed by the [[United States Soccer Federation]]. The team has been an affiliate member of [[FIFA]] since 1914 and a founding affiliate member of [[CONCACAF]] since 1961. Regionally, it is an affiliate member of [[North American Football Union|NAFU]] in the North American Zone. From 1946 to 1961, it was a member of [[North American Football Confederation|NAFC]], the former governing soccer body in North America and a predecessor confederation of CONCACAF, and also a member of [[Panamerican Championship#Panamerican Football Confederation|PFC]], the former unified confederation of the Americas.
+
+The United States has qualified for the [[FIFA World Cup]] twelve times, it is one of four CONCACAF teams to have advanced to the knockout stage, finishing in third place in [[1930 FIFA World Cup|1930]], reaching the quarter-finals in [[2002 FIFA World Cup|2002]] and also reaching the round of 16 in four editions. Their third place in Uruguay 1930 is the best result by a CONCACAF team in the competition and is the only non-European or South American team to achieve a World Cup podium finish. They returned in [[1934 FIFA World Cup|1934]] and [[1950 FIFA World Cup|1950]], defeating [[England national football team|England]] [[United States v England (1950 FIFA World Cup)|1–0]] in the latter, but did not qualify again until [[1990 FIFA World Cup|1990]]. As host in [[1994 FIFA World Cup|1994]], the U.S. received an automatic berth and lost to [[Brazil national football team|Brazil]] in the round of 16. They qualified for the next five World Cups, a feat shared with only seven other nations.<ref>{{cite web|url=https://www.amazon.com/dp/B072PQWFRD/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1|title=What's Wrong with US?: A Coach's Blunt Take on the State of American Soccer After a Lifetime on the Touchline|first1=Bruce|last1=Arena|first2=Steve|last2=Kettmann|date=June 12, 2018|publisher=Harper|via=Amazon|access-date=June 28, 2018|archive-date=March 25, 2023|archive-url=https://web.archive.org/web/20230325083842/https://www.amazon.com/dp/B072PQWFRD/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1|url-status=live}}</ref> In [[2026 FIFA World Cup|2026]], the United States will host the World Cup for the second time. It has qualified for the [[FIFA Confederations Cup]] four times, finishing as runners-up in [[2009 Confederations Cup|2009]], defeating top ranked European champions [[Spain national football team|Spain]] 2–0 in the semifinal and losing to [[Brazil national football team|Brazil]] in the [[2009 FIFA Confederations Cup final|final]], and also finishing in third place twice.
+
+The United States has participated twenty times in CONCACAF's premier continental competition, it is the second most successful team in its confederation, winning 10 CONCACAF continental titles (seven [[CONCACAF Gold Cup]] titles and three [[CONCACAF Nations League]] titles). It has participated five times in the [[Copa América]], finishing fourth place twice ([[1995 Copa América|1995]] and [[Copa América Centenario|2016]]).
+
+Regionally, the team finished as runners-up in the [[North American Football Confederation#NAFC Championship|NAFC Championship]] in [[1949 NAFC Championship|1949]], and also finished as runners-up in the [[North American Nations Cup]] as hosts in [[1991 North American Nations Cup|1991]].

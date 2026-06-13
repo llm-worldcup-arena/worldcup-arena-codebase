@@ -1,0 +1,16 @@
+{
+ "team": "PAR",
+ "source": "RotoWire",
+ "url": "https://www.rotowire.com/soccer/headlines/julio-enciso-injury-new-mri-confirms-minor-issue-518870",
+ "title": "Julio Enciso Injury: New MRI confirms minor issue | RotoWire",
+ "news_date": "2026-06-13",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "asof": "2026-06-13",
+ "fetched": "2026-06-13_0637",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "Enciso (thigh) underwent another MRI scan, which revealed he's still dealing with a muscle contusion but has avoided a tear, although he's likely to sit out the World Cup opener against United States, Miguel Caceres of ABC Deportes reports.\n\nEnciso will continue to recover from his muscle injury, with Paraguay's coaching staff trying to be careful so that the key player avoids a relapse. Having taken part in ball drills already, he could aim to return after his likely exclusion from the first group-stage game. Until then, there could be a rare opportunity for either Mauricio or Ramon Sosa to produce on the left flank.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

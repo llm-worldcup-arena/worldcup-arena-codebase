@@ -1,0 +1,69 @@
+{{short description|Jordanian footballer|bot=PearBOT 5}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+| name = Nour Bani Attiah
+| image = 
+| fullname = Noureddin Ziad Bani Attiah
+| birth_date = {{Birth date and age|1993|1|25|df=y}}
+| birth_place = [[Amman]], [[Jordan]]
+| height = 1.79 m<ref>{{cite web |url=https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf |title=FIFA World Cup 2026: Squad List |publisher=[[FIFA]] |date=2 June 2026 |access-date=2 June 2026}}</ref>
+| currentclub = [[Al-Faisaly SC (Amman)|Al-Faisaly]]
+| clubnumber = 1
+| position = [[Goalkeeper (association football)|Goalkeeper]]
+| youthyears1 = 
+| youthclubs1 = [[Al-Faisaly SC (Amman)|Al-Faisaly]]
+| years1 = 2012–2018
+| clubs1 = [[Al-Faisaly SC (Amman)|Al-Faisaly]]
+| years2 = 2017–2018
+| clubs2 = → [[Shabab Al-Aqaba Club|Shabab Al-Aqaba]] (loan)<ref>{{cite web|url=http://www.kooora.com/?n=595736&o=n3102502|title=العقبة يضم الحارس نور بني عطية}}</ref>
+| years3 = 2018–2021
+| clubs3 = [[Al-Jazeera Club (Jordan)|Al-Jazeera]]
+| years4 = 2021–
+| clubs4 = [[Al-Faisaly SC (Amman)|Al-Faisaly]]
+| nationalyears1 = 2011–2012
+| nationalteam1 = [[Jordan national under-20 football team|Jordan U19]]
+| nationalcaps1 = 
+| nationalgoals1 = 
+| nationalyears2 = 2013–2016
+| nationalteam2 = [[Jordan national under-23 football team|Jordan U23]]
+| nationalcaps2 = 
+| nationalgoals2 = 
+| nationalyears3 = 2024–
+| nationalteam3 = [[Jordan national football team|Jordan]]
+| nationalcaps3 = 4
+| nationalgoals3 = 0
+| pcupdate = 
+| ntupdate = 9 December 2025
+| medaltemplates = {{MedalCountry|{{fb|JOR}}}}
+{{MedalSport|Men's [[association football|football]]}}
+{{MedalCompetition|[[FIFA Arab Cup]]}}
+{{Medal|RU|[[2025 FIFA Arab Cup|2025 Qatar]]|[[2025 FIFA Arab Cup squads#Jordan|Team]]}}
+}}
+
+'''Noureddin Ziad Bani Attiah''' ({{langx|ar|نُور الدِّين زِيَاد بَنِي عَطِيَّة}}; born 25 January 1993) is a [[Jordan]]ian [[football (soccer)|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for [[Al-Faisaly SC (Amman)|Al-Faisaly]] and the [[Jordan national football team|Jordan national team]].
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Goalzz|102502}}
+* [http://jo.gitsport.net/?page_id=2462 Nour Bani Attiah] at jo.gitsport.net
+
+{{Jordan squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Bani Attiah, Nour}}
+[[Category:1993 births]]
+[[Category:Living people]]
+[[Category:Jordanian men's footballers]]
+[[Category:Jordan men's youth international footballers]]
+[[Category:Men's association football goalkeepers]]
+[[Category:Jordanian Pro League players]]
+[[Category:Al-Faisaly SC players]]
+[[Category:Al-Jazeera SC (Amman) players]]
+[[Category:Shabab Al-Aqaba SC players]]
+[[Category:Footballers from Amman]]
+[[Category:21st-century Jordanian sportsmen]]
+[[Category:2026 FIFA World Cup players]]
+
+
+{{Jordan-footy-bio-stub}}

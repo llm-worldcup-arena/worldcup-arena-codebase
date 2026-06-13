@@ -1,0 +1,36 @@
+===Current squad===
+The following 27 players were called up to the [[2026 FIFA World Cup]] and for the pre-tournament friendly matches against [[Netherlands national football team|Netherlands]] and [[Bolivia national football team|Bolivia]] on 3 and 10 June 2026, respectively.<ref>{{cite web |url=https://www.faf.dz/equipe-nationale-la-liste-de-petkovic-pour-la-coupe-du-monde-2026/ |title=Équipe nationale : la liste de Petkovic pour la Coupe du monde 2026 |trans-title=National team: Petković's squad for the 2026 World Cup |publisher=[[Algerian Football Federation]] |date=May 31, 2026 |access-date=May 31, 2026 |language=fr}}</ref><ref>{{cite web |url=https://www.reuters.com/sports/soccer/bentaleb-back-algeria-world-cup-squad-named-2026-05-31/ |title=Bentaleb back for Algeria as World Cup squad named |work=[[Reuters]] |date=May 31, 2026 |access-date=May 31, 2026}}</ref> [[Abdelatif Ramdane]] was called up as a reserve player for the pre-tournament friendly matches.
+<br>''Caps and goals correct as of 3 June 2026, after the match against [[Netherlands national football team|Netherlands]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Melvin Mastil]]|age={{bda|2000|2|19|df=y}}|caps=1|goals=0|club=[[FC Stade Nyonnais|Stade Nyonnais]]|clubnat=SUI}}
+{{nat fs g player|no=16|pos=GK|name=[[Oussama Benbot]]|age={{bda|1994|10|11|df=y}}|caps=2|goals=0|club=[[USM Alger]]|clubnat=ALG}}
+{{nat fs g player|no=23|pos=GK|name=[[Luca Zidane]]|age={{bda|1998|5|13|df=y}}|caps=7|goals=0|club=[[Granada CF|Granada]]|clubnat=ESP}}
+{{nat fs g player|no=|pos=GK|name=[[Abdelatif Ramdane]]|age={{bda|2001|1|12|df=y}}|caps=0|goals=0|club=[[MC Alger]]|clubnat=ALG}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Aïssa Mandi]]|other=[[Captain (association football)|vice-captain]]|age={{bda|1991|10|22|df=y}}|caps=117|goals=7|club=[[Lille OSC|Lille]]|clubnat=FRA}}
+{{nat fs g player|no=3|pos=DF|name=[[Achref Abada]]|age={{bda|1999|6|15|df=y}}|caps=7|goals=1|club=[[USM Alger]]|clubnat=ALG}}
+{{nat fs g player|no=4|pos=DF|name=[[Mohamed Amine Tougai]]|age={{bda|2000|1|22|df=y}}|caps=29|goals=2|club=[[Espérance Sportive de Tunis|Espérance de Tunis]]|clubnat=TUN}}
+{{nat fs g player|no=5|pos=DF|name=[[Zineddine Belaïd]]|age={{bda|1999|3|20|df=y}}|caps=10|goals=1|club=[[JS Kabylie]]|clubnat=ALG}}
+{{nat fs g player|no=13|pos=DF|name=[[Jaouen Hadjam]]|age={{bda|2003|3|26|df=y}}|caps=17|goals=3|club=[[BSC Young Boys|Young Boys]]|clubnat=SUI}}
+{{nat fs g player|no=15|pos=DF|name=[[Rayan Aït-Nouri]]|age={{bda|2001|6|6|df=y}}|caps=28|goals=0|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs g player|no=17|pos=DF|name=[[Rafik Belghali]]|age={{bda|2002|6|7|df=y}}|caps=12|goals=1|club=[[Hellas Verona FC|Hellas Verona]]|clubnat=ITA}}
+{{nat fs g player|no=21|pos=DF|name=[[Ramy Bensebaini]]|other=[[Captain (association football)|third captain]]|age={{bda|1995|4|16|df=y}}|caps=81|goals=7|club=[[Borussia Dortmund]]|clubnat=GER}}
+{{nat fs g player|no=26|pos=DF|name=[[Samir Chergui]]|age={{bda|1999|2|6|df=y}}|caps=4|goals=0|club=[[Paris FC|Paris]]|clubnat=FRA}}
+{{nat fs break}}
+{{nat fs g player|no=6|pos=MF|name=[[Ramiz Zerrouki]]|age={{bda|1998|5|26|df=y}}|caps=52|goals=3|club=[[FC Twente|Twente]]|clubnat=NED}}
+{{nat fs g player|no=8|pos=MF|name=[[Houssem Aouar]]|age={{bda|1998|6|30|df=y}}|caps=20|goals=6|club=[[Al-Ittihad Club (Jeddah)|Al-Ittihad]]|clubnat=KSA}}
+{{nat fs g player|no=10|pos=MF|name=[[Farès Chaïbi]]|age={{bda|2002|11|28|df=y}}|caps=29|goals=3|club=[[Eintracht Frankfurt]]|clubnat=GER}}
+{{nat fs g player|no=14|pos=MF|name=[[Hicham Boudaoui]]|age={{bda|1999|9|23|df=y}}|caps=32|goals=0|club=[[OGC Nice|Nice]]|clubnat=FRA}}
+{{nat fs g player|no=19|pos=MF|name=[[Nabil Bentaleb]]|age={{bda|1994|11|24|df=y}}|caps=59|goals=6|club=[[Lille OSC|Lille]]|clubnat=FRA}}
+{{nat fs g player|no=22|pos=MF|name=[[Ibrahim Maza]]|age={{bda|2005|11|24|df=y}}|caps=16|goals=2|club=[[Bayer 04 Leverkusen|Bayer Leverkusen]]|clubnat=GER}}
+{{nat fs g player|no=24|pos=MF|name=[[Yacine Titraoui]]|age={{bda|2003|7|26|df=y}}|caps=5|goals=0|club=[[Royal Charleroi S.C.|Charleroi]]|clubnat=BEL}}
+{{nat fs break}}
+{{nat fs g player|no=7|pos=FW|name=[[Riyad Mahrez]]|other=[[Captain (association football)|captain]]|age={{bda|1991|2|21|df=y}}|caps=114|goals=38|club=[[Al-Ahli Saudi FC|Al-Ahli]]|clubnat=KSA}}
+{{nat fs g player|no=9|pos=FW|name=[[Amine Gouiri]]|age={{bda|2000|2|16|df=y}}|caps=22|goals=8|club=[[Olympique de Marseille|Marseille]]|clubnat=FRA}}
+{{nat fs g player|no=11|pos=FW|name=[[Anis Hadj Moussa]]|age={{bda|2002|2|11|df=y}}|caps=14|goals=1|club=[[Feyenoord]]|clubnat=NED}}
+{{nat fs g player|no=12|pos=FW|name=[[Nadhir Benbouali]]|age={{bda|2000|4|17|df=y}}|caps=3|goals=1|club=[[Győri ETO FC|Győr]]|clubnat=HUN}}
+{{nat fs g player|no=18|pos=FW|name=[[Mohamed Amoura]]|age={{bda|2000|5|9|df=y}}|caps=45|goals=19|club=[[VfL Wolfsburg]]|clubnat=GER}}
+{{nat fs g player|no=20|pos=FW|name=[[Adil Boulbina]]|age={{bda|2003|5|2|df=y}}|caps=11|goals=6|club=[[Al-Duhail SC|Al-Duhail]]|clubnat=QAT}}
+{{nat fs g player|no=25|pos=FW|name=[[Farès Ghedjemis]]|age={{bda|2002|9|6|df=y}}|caps=1|goals=1|club=[[Frosinone Calcio|Frosinone]]|clubnat=ITA}}
+{{nat fs end}}

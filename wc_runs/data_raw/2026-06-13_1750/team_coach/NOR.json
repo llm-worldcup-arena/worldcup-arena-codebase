@@ -1,0 +1,31 @@
+{
+ "team": "NOR",
+ "coach": {
+  "name_zh": "斯塔尔·索尔巴肯",
+  "name_en": "Ståle Solbakken",
+  "nationality": "",
+  "career_since": "",
+  "person_id": "per_stale_solbakken"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 斯塔尔·索尔巴肯自2020年执教挪威国家队，率队以预选赛8战全胜战绩晋级2026年世界杯，终结球队自1998年后长达28年的决赛圈荒期。\n- 其战术体系以高位逼抢和控球为基础，围绕哈兰德与厄德高构建，兼具闪电反击能力，预选赛期间哈兰德个人攻入16球。\n- 2026年世界杯是挪威队史第4次参赛，此前最佳战绩为1938年和1998年的16强，本届与法国、伊拉克、塞内加尔同处I组。\n- 索尔巴肯征召的26人名单全员健康，由曼城前锋哈兰德和阿森纳队长厄德高领衔，阵容被外界称为\"黄金一代\"。\n- 球队配置均衡，多特边卫赖尔森、马竞前锋索洛特与本菲卡双星谢尔德鲁普、奥斯内斯等欧洲联赛主力悉数入选。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.95,
+  "issues": []
+ },
+ "brief_fetched": "2026-06-13_1750",
+ "brief_info_chars": 6000,
+ "coach_xverify": {
+  "canonical": "Ståle Solbakken",
+  "confidence": "high",
+  "discrepancy": "Goal.com 和 RotoWire 分别提及伊拉克教练 Graham Arnold 和法国教练 Didier Deschamps，但这两条信息明显指向其他国家球队（伊拉克、法国），与挪威主教练话题无关，属于内容混杂而非真实分歧。其余5个来源一致确认 Ståle Solbakken 为挪威现任主教练。",
+  "sources_agree": 5,
+  "n_sources": 8
+ }
+}

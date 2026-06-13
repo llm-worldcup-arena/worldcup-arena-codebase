@@ -1,0 +1,22 @@
+{
+ "source": "NBC News（权威·美主流）",
+ "url": "https://www.nbcnews.com/sports/soccer/live-blog/fifa-world-cup-2026-opening-ceremonies-june-11-live-updates-rcna349400",
+ "title": "FIFA World Cup 2026 results: South Korea defeats Czechia after Mexico is victorious against South Africa",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-11",
+  "home": "MEX",
+  "away": "RSA",
+  "home_en": "Mexico",
+  "away_en": "South Africa",
+  "comp": "小组赛·A组",
+  "match_id": "M1",
+  "slug": "2026-06-11_MEX_vs_RSA"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "The first day of the 2026 World Cup began Thursday in Mexico with red cards and ended with the Red Devils.\n\nMexico scored the first goal and victory of the tournament when it beat South Africa 2-0 on home soil in front of a packed stadium in Mexico City. The match was marred by three red-card dismissals — the most in a match in World Cup history — that left South Africa down to just nine players. South Africa’s Sphephelo Sithole and Themba Zwane and Mexico’s César Montes all will miss their team’s next game.\n\nThe win was cheered by packed watch parties of Mexican fans from Atlanta to Los Angeles.\n\n“It’s a huge responsibility, because 11 Mexicans are representing a country of 180 million people,” Mexico’s Érik ira said. “We did the best we could, and from the moment the referee started the match, we went out there to win.”\n\nHours later in Guadalajara, South Korea’s Red Devils dominated the possession but still had to rally from a goal down to beat Czechia 2-1, thanks to a masterly goal and assist by Hwang In-beom.\n\nHwang’s shot fake and cool finish to tie the game got those inside the stadium — predominantly Korean fans — out of their seats. But there were noticeable rows that were empty, after much discussion in the build-up to the tournament about ticket pricing.\n\nThose matches were just the first two of the 104 in total that will play out over the next five weeks before a champion is crowned on July 19. Beginning Friday, action in the 48-team tournament, the largest field in its history, will shift to the other co-hosting nations, the U.S. and Canada.\n\nIn Inglewood, California, the U.S. men will open Friday against Paraguay in a game that comes 20 months since coach Mauricio Pochettino was appointed to lead them into their first World Cup on home soil since 1994.\n\n“Something is growing now in the group, and what we can tell so far until today that all the conditions are very positive and we are so happy,” Pochettino said.\n\nThe U.S. is trying to advance past the round of 16 for the first time since 2002. Since 2010, it has lost just one of its last nine group-stage games, a run that includes three wins and five draws. On Friday, it faces a Paraguay team that, to qualify for its first World Cup since 2010, beat both soccer superpowers Argentina and Brazil during tournament qualifying in 2024.\n\nPochettino did not announce his starters, but he said he had settled on a lineup. All 26 players on the U.S. roster are available to be selected, he said — which meant Chris Richards, a vital defender who had sustained an ankle njury in April, could bolster the U.S. backline.\n\n“Chris is available to be selected, and then we will decide if you start from the beginning of the game or on the bench,” Pochettino said.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

@@ -1,0 +1,256 @@
+{{Short description|Footballer (born 1989)}}
+{{protection padlock|small=yes}}
+{{Use dmy dates|date=June 2025}}
+{{Infobox football biography
+| name = Munir
+| image = Munir Mohand Mohamedi (cropped2).jpg
+| caption = Munir in 2018
+| fullname = Munir El Kajoui<!--Moroccan nationality--><ref>{{cite web|url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf|title=FIFA World Cup Qatar 2022™ – Squad List: Morocco (MAR)|publisher=FIFA|page=19|date=18 December 2022|access-date=11 September 2025|url-status=live|archive-url=https://web.archive.org/web/20221218195301/https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf|archive-date=18 December 2022}}</ref><ref>{{cite web|url=https://fdp.fifa.org/assetspublic/ce158/pdf/SquadLists-English.pdf|title=Men's Olympic Football Tournament Paris 2024 – Squad List: Morocco (MAR)|publisher=FIFA|page=10|date=27 July 2024|access-date=11 September 2025}}</ref>
+| birth_name = Munir Mohand Mohamedi<!--Spanish nationality-->{{family name footnote|reftype=efn-lr|Mohand|Mohamedi|lang=Spanish}}<ref>{{cite web|url=https://rfef.es/sites/default/files/sanciones/resolucion_segunda_div._jornada_16.pdf|title=Expediente nº 180 – 2016/2017|trans-title=File nº 180 – 2016/2017|publisher=[[Royal Spanish Football Federation]]|language=es|date=30 November 2016|access-date=11 September 2025}}</ref><ref>{{cite web|url=https://rfef.es/sites/default/files/pdf/resolucion_malaga_cf-real_oviedo.pdf|title=Resolución de competición|trans-title=Competition resolution|publisher=Royal Spanish Football Federation|language=es|date=29 October 2019|access-date=11 September 2025}}</ref>
+| birth_date = {{Birth date and age|1989|5|10|df=y}}<ref name=Bio>{{cite news|url=https://resultados.as.com/resultados/ficha/deportista/munir/25121/|title=Munir|newspaper=[[Diario AS]]|language=es|access-date=23 November 2022}}</ref>
+| birth_place = [[Melilla]], Spain
+| height = 1.90 m<ref>{{WorldFootball.net|munir_2|Munir}}</ref><ref name=Bio/>
+| position = [[Goalkeeper (association football)|Goalkeeper]]
+| currentclub = [[RS Berkane]]
+| clubnumber = 1
+| youthyears1 = 2004–2008 | youthclubs1 = [[CG Goyu-Ryu|Goyu-Ryu]]
+| youthyears2 = 2008 | youthclubs2 = [[AD Ceuta|Ceuta]]
+| years1 = 2008–2009 | clubs1 = [[AD Ceuta B|Ceuta B]] | caps1 = | goals1 = 
+| years2 = 2009 | clubs2 = [[UD Almería B|Almería B]] | caps2 = 4 | goals2 = 0
+| years3 = 2009–2010 | clubs3 = [[UD Melilla B|Melilla B]] | caps3 = | goals3 = 
+| years4 = 2010–2014 | clubs4 = [[UD Melilla|Melilla]]| caps4 = 74 | goals4 = 0
+| years5 = 2014–2018 | clubs5 = [[CD Numancia|Numancia]] | caps5 = 74 | goals5 = 0
+| years6 = 2018–2020 | clubs6 = [[Málaga CF|Málaga]] | caps6 = 76 | goals6 = 0
+| years7 = 2020–2022 | clubs7 = [[Hatayspor]] | caps7 = 71 | goals7 = 0
+| years8 = 2022–2024 | clubs8 = [[Al Wehda FC|Al Wehda]] | caps8 = 49 | goals8 = 0
+| years9 = 2024– | clubs9 = [[RS Berkane]] | caps9 = 32 | goals9 = 0
+| totalcaps = | totalgoals = 
+| nationalyears1 = 2015– | nationalteam1 = [[Morocco national football team|Morocco]] | nationalcaps1 = 50 | nationalgoals1 = 0
+| nationalyears2 = 2024 | nationalteam2 = [[Morocco national under-23 football team|Morocco Olympic]] | nationalcaps2 = 6 | nationalgoals2 = 0
+| club-update = 21:41, 26 May 2026 (UTC)
+| nationalteam-update = 11:36, 6 October 2025 (UTC)
+| medaltemplates = {{Medal|Sport|Men's [[Association football|football]]}}
+{{Medal|Country|{{fb|MAR}}}}
+{{MedalCompetition|[[Africa Cup of Nations]]}}
+{{Medal|W|[[2025 Africa Cup of Nations|2025 Morocco]]|}}
+{{MedalCompetition|[[Football at the Summer Olympics|Olympic Games]]}}
+{{MedalBronze|[[2024 Summer Olympics|2024 Paris]]|[[Football at the 2024 Summer Olympics – Men's tournament|Team]]}}
+}}
+'''Munir El Kajoui''' ({{langx|ar|منير الكجوي}};<ref>{{cite web|url=https://www.fifa.com/ar/articles/munir-el-kajoui-on-regragui-world-cup-qatar-2022-ar|title=منير الكجوي: المدرب منحنا ثقة كبيرة|trans-title=Monir El Kajoui: The coach gave us great confidence|publisher=FIFA|language=ar|date=2022|access-date=11 September 2025}}</ref> born 10 May 1989), known as '''Munir''', is a professional [[Association football|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for [[Botola Pro]] club [[RS Berkane]], whom he [[Captain (association football)|captains]], and the [[Morocco national football team|Morocco national team]].
+
+In his career, he played for [[AD Ceuta B|Ceuta B]], [[UD Almería B|Almería B]], [[UD Melilla|Melilla]], [[CD Numancia|Numancia]], [[Málaga CF|Málaga]], [[Hatayspor]], [[Al Wehda FC|Al Wehda]] and [[RS Berkane]]. With the last of those clubs, he won the [[2024–25 Botola Pro]] and the [[2024–25 CAF Confederation Cup]].
+
+Born in Spain, Munir represented [[Morocco national football team|Morocco]] at international level, making his debut in 2015 and being part of the squads at three [[FIFA World Cup|World Cups]] and five [[Africa Cup of Nations]], winning the [[2025 Africa Cup of Nations|2025 edition of the latter tournament]]. He also won a bronze medal at the [[Football at the Summer Olympics|Olympic Games]] in [[Football at the 2024 Summer Olympics – Men's tournament|2024]].
+
+==Club career==
+Born in [[Melilla]], Munir played youth football with [[CG Goyu-Ryu]] and [[AD Ceuta]],<ref>{{cite web|url=http://www.ceutadeportiva.com/2022/12/el-ex-del-ceuta-munir-se-enfrenta-a-espana-con-marruecos-vamos-a-luchar-con-nuestra-armas/|title=El ex del Ceuta Munir se enfrenta a España con Marruecos: "Vamos a luchar con nuestra armas"|trans-title=Former Ceuta man Munir takes on Spain with Morocco: "We will fight with our weapons"|publisher=Ceuta Deportiva|language=es|date=5 December 2022|access-date=13 February 2023}}</ref> and made his debut as a senior with the [[AD Ceuta B|latter's reserves]] in the regional leagues.<ref>{{cite web|url=http://www.adceuta.org/munir-rescinde-su-contrato-con-el-ceuta/|title=Munir rescinde su contrato con el Ceuta|trans-title=Munir terminates his contract with Ceuta|publisher=AD Ceuta|language=es|date=28 January 2009|access-date=15 November 2015|archive-url=https://web.archive.org/web/20110102213827/http://www.adceuta.org/munir-rescinde-su-contrato-con-el-ceuta/|archive-date=2 January 2011}}</ref> On 29 January 2009 he moved to another [[reserve team]], [[UD Almería B]] from [[Tercera División]],<ref>{{cite web|url=http://www.esfutbol.net/espana-3division/almeriab-se-incorpora-munir-ceuta-39333|title=Almería "B": se incorpora Munir (Ceuta)|trans-title=Almería "B": Munir (Ceuta) added|publisher=esFutbol|language=es|date=29 January 2009|access-date=16 November 2015}}</ref> but appeared sparingly and was subsequently released.<ref>{{cite web|url=http://www.joinfutbol.com/es/el_almeria_b_con_galca_al_frente_comienza_la_pretemporada__20823.php|title=El Almería B, con Constantin Galca al frente, comienza la pretemporada|trans-title=Almería B, with Constantin Galca at the helm, start the pre-season|publisher=Join Futbol|language=es|date=16 July 2009|access-date=13 September 2014|url-status=dead|archive-url=https://web.archive.org/web/20140913213751/http://www.joinfutbol.com/es/el_almeria_b_con_galca_al_frente_comienza_la_pretemporada__20823.php|archive-date=13 September 2014}}</ref>
+
+Munir joined [[UD Melilla]] in summer 2009, initially being assigned to [[UD Melilla B|the reserves]] and being definitely promoted to the main squad in the [[Segunda División B]] the following year. He acted mainly as a backup to [[Pedro Dorronsoro]] in his first two seasons at the club, becoming a starter afterwards.<ref>{{cite web|url=https://www.eldesmarque.com/malaga/malaga-cf/malaga-noticias/160635-munir-retoma-el-hilo-conector-entre-melilla-y-malaga|title=Munir retoma el hilo conector entre Melilla y Málaga|trans-title=Munir the new connecting thread between Melilla and Málaga|publisher=El Desmarque|first=Enrique|last=Salvatierra|language=es|date=19 July 2018|access-date=23 November 2022}}</ref>
+
+On 17 June 2014, Munir signed a two-year contract with [[Segunda División]] side [[CD Numancia]].<ref>{{cite web|url=http://www.cdnumancia.com/-/munir-portero-del-melilla-primer-fichaje-numantino-para-la-temporada-2014-15|title=Munir, portero del Melilla, primer fichaje numantino para la temporada 2014–15|trans-title=Munir, Melilla's goalkeeper, first ''numantino'' signing for the 2014–15 season|publisher=CD Numancia|language=es|date=17 June 2014|access-date=13 September 2014|url-status=dead|archive-url=https://web.archive.org/web/20140703033246/http://www.cdnumancia.com/-/munir-portero-del-melilla-primer-fichaje-numantino-para-la-temporada-2014-15|archive-date=3 July 2014}}</ref> On 10 September he made his professional debut, starting in a 1–1 away draw against [[CD Leganés]] in the [[2014–15 Copa del Rey|second round]] of the [[Copa del Rey]] and also saving two [[Penalty kick (association football)|penalties]] during [[Penalty shoot-out (association football)|the shootout]].<ref>{{cite news|url=http://www.marca.com/2014/09/11/futbol/copa_rey/1410387300.html|title=Munir frena el sueño copero del Leganés|trans-title=Munir halts Leganés' cup dream|newspaper=[[Marca (newspaper)|Marca]]|language=es|date=11 September 2014|access-date=13 September 2014}}</ref>
+
+Munir made his debut in the second tier on 19 October 2014, playing the full 90 minutes in a 2–0 loss at [[UD Las Palmas]].<ref>{{cite news|url=https://www.marca.com/2014/10/19/futbol/2adivision/1413748030.html|title=Las Palmas vuelve a ganar al Numancia jugando media hora con uno menos|trans-title=Las Palmas beat Numancia again playing half an hour with one less|newspaper=Marca|language=es|date=19 October 2014|access-date=3 February 2021}}</ref> He was first choice for the remainder of [[2014–15 Segunda División|the campaign]], overtaking [[Biel Ribas]].<ref>{{cite web|url=http://www.vavel.com/es/futbol/liga-adelante/numancia/428914-munir-le-quita-a-biel-ribas-la-titularidad-en-la-porteria-del-numancia.html|title=Munir le quita a Biel Ribas la titularidad en la portería del Numancia|trans-title=Munir takes starting spot in Numancia's goal from Biel Ribas|publisher=[[Vavel]]|language=es|date=23 December 2014|access-date=16 November 2015}}</ref>
+
+Munir left the [[Soria]] team at the end of [[2017–18 Segunda División|2017–18]], after losing his starting spot to [[Aitor Fernández (footballer, born 1991)|Aitor Fernández]].<ref>{{cite news|url=http://www.heraldodiariodesoria.es/noticias/deportes/aitor-portero-suma-puntos_111674.html|title=Aitor, un portero que suma puntos|trans-title=Aitor, a goalkeeper who keeps adding points|newspaper=Heraldo de Soria|first=Luis|last=Hernández Casado|language=es|date=12 June 2018|access-date=17 August 2018}}</ref> On 19 July 2018, he joined [[Málaga CF]] also in the second division.<ref>{{cite web|url=https://www.malagacf.com/noticia/una-porteria-mas-internacional-con-munir|title=Una portería más internacional con Munir|trans-title=A more international goal with Munir|publisher=Málaga CF|language=es|date=19 July 2018|access-date=19 July 2018}}</ref>
+
+From [[2020–21 Süper Lig|2020]] to [[2021–22 Süper Lig|2022]], Munir competed in the Turkish [[Süper Lig]] with [[Hatayspor]].<ref>{{cite web|url=https://es.besoccer.com/noticia/de-malaga-a-turquia-munir-ya-es-del-hatayspor-882729|title=De Málaga a Turquía: Munir ya es del Hatayspor|trans-title=From Málaga to Turkey: Munir already belongs to Hatayspor|publisher=Be Soccer|language=es|date=5 September 2020|access-date=14 July 2022}}</ref> On 10 June 2022, he agreed to a two-year deal at Saudi Arabian club [[Al Wehda FC]].<ref>{{cite web|url=https://sabq.org/sports/%D8%A7%D9%84%D9%88%D8%AD%D8%AF%D8%A9-%D9%8A%D8%AA%D8%B9%D8%A7%D9%82%D8%AF-%D9%85%D8%B9-%D8%AD%D8%A7%D8%B1%D8%B3-%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D9%85%D9%86%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D8%AD%D9%85%D8%AF%D9%8A|title=الوحدة" يتعاقد مع حارس منتخب المغرب منير المحمدي|trans-title=Al-Wehda sign Moroccan goalkeeper Munir Mohamedi|publisher=Sabq|language=ar|date=10 June 2022|access-date=19 June 2022}}</ref>
+
+On 2 July 2024, [[RS Berkane]] announced the signing of Munir on a two-year contract.<ref>{{cite web|url=https://www.hespress.com/%D8%A7%D9%84%D9%85%D8%AD%D9%85%D8%AF%D9%8A-%D9%8A%D8%AD%D8%B1%D8%B3-%D8%B4%D8%A8%D8%A7%D9%83-%D9%86%D9%87%D8%B6%D8%A9-%D8%A8%D8%B1%D9%83%D8%A7%D9%86-1393241.html|title=المحمدي يحرس شباك نهضة بركان|trans-title=Mohamedi to defend Nahdat Berkane's goal|publisher=[[Hespress]]|first=Mohamed|last=Fankar|language=ar|date=2 July 2024|access-date=2 July 2024}}</ref> In his [[2024–25 Botola Pro|debut season]], he played a massive role in securing their first-ever [[Botola Pro]] title,<ref>{{cite web|url=https://www.cafonline.com/caf-champions-league/news/rs-berkane-clinch-historic-first-moroccan-league-title/#:~:text=Their%20consistency%20throughout%20the%20season,in%20Moroccan%20football%20this%20season.&text=The%20achievement%20means%20Berkane%20will,CAF%20Champions%20League%20next%20season.|title=RS Berkane clinch historic first Moroccan league title|publisher=[[Confederation of African Football]]|date=16 March 2025|access-date=8 May 2025}}</ref><ref>{{cite web|url=https://melillahoy.es/dos-melillenses-munir-y-moha-campeones-de-la-primera-division-de-futbol-de-marruecos-con-berkane/|title=Dos melillenses, Munir y Moha, campeones de la Primera División de Fútbol de Marruecos con Berkane|trans-title=Two Melilla natives, Munir and Moha, champions of the Moroccan Football First Division with Berkane|publisher=Melilla Hoy|language=es|date=17 March 2025|access-date=8 May 2025}}</ref> also being essential as the club [[2024–25 CAF Confederation Cup|claimed]] its third [[CAF Confederation Cup]], defeating Tanzania's [[Simba S.C.]] 3–1 on aggregate to achieve a historic [[Double (association football)|double]];<ref name=CAF>{{cite web|url=https://www.cafonline.com/caf-confederation-cup/news/rs-berkane-clinch-third-totalenergies-caf-confederation-cup-title/|title=RS Berkane clinch third TotalEnergies CAF Confederation Cup title|publisher=Confederation of African Football|date=25 May 2025|access-date=2 June 2025}}</ref> he was nominated for the [[African Goalkeeper of the Year|African Goalkeeper of the Year Award]] in 2024 and 2025.<ref>{{cite web|url=https://en.africatopsports.com/2024/10/25/caf-awards-2024-goalkeeper-of-the-year-category/|title=CAF Awards 2024: Goalkeeper of the year Category|publisher=Africa Top Sports|first=Nathaniel|last=Clottey|date=25 October 2024|access-date=12 October 2025}}</ref><ref>{{cite web|url=https://www.cafonline.com/news/nominees-in-the-men-s-categories-for-caf-awards-2025-announced/|title=Nominees in the Men’s categories for CAF Awards 2025 announced|publisher=Confederation of African Football|date=20 October 2025|access-date=22 October 2025}}</ref>
+
+Munir became team [[Captain (association football)|captain]] in August 2025, following the departure of longtime incumbent [[Issoufou Dayo]].<ref>{{cite news|url=https://lematin.ma/sports/issoufou-dayo-fait-ses-adieux-a-la-rs-berkane/293725|title=Issoufou Dayo fait ses adieux à la RS Berkane après plus de 10 ans de loyaux services|trans-title=Issoufou Dayo bids farewell to RS Berkane after more than 10 years of loyal services|newspaper=[[Le Matin (Morocco)|Le Matin]]|first=Youssef|last=Chaat|language=fr|date=28 July 2025|access-date=6 October 2025}}</ref><ref>{{cite web|url=https://sport.le360.ma/football/rs-berkane-munir-mohamedi-de-retour-a-lentrainement-avec-les-oranges_Y42RTJBB2RCHZCGWAW6OXBSQAM/|title=RS Berkane: Munir Mohamedi de retour à l'entraînement avec les Oranges|trans-title=RS Berkane: Munir Mohamedi returns to training with Oranges"|publisher=Le 360|first=Oumeïma|last=Er-rafay|language=fr|date=26 September 2025|access-date=6 October 2025}}</ref>
+
+==International career==
+Having [[Riffians|Moroccan-Riffian]] heritage, Munir switched his allegiance to its [[Morocco national football team|national team]] in 2014. On 9 March 2015, he was called up by manager [[Ezzaki Badou]] for a [[Exhibition game|friendly]] against [[Uruguay national football team|Uruguay]] to be held late in the month,<ref>{{cite news|url=http://www.diariodesoria.es/noticias/deportes/munir-convocado-marruecos_33271.html|title=Munir, convocado con Marruecos|trans-title=Munir, called up with Morocco|newspaper=Diario de Soria|language=es|date=9 March 2015|access-date=3 July 2015}}</ref> and made his debut by starting in the 1–0 loss.<ref>{{cite web|url=http://www.espnfc.com/international-friendly/match/413742/morocco-uruguay/report|title=Edinson Cavani scores penalty to give Uruguay win in Morocco|publisher=[[ESPN FC]]|date=28 March 2015|access-date=3 July 2015}}</ref>
+
+On 29 December 2016, Munir was included in [[Hervé Renard]]'s 23-man squad for the [[2017 Africa Cup of Nations]],<ref>{{cite web|url=http://africanfootball.com/news/674483/Morocco-Name-Afcon-2017-Squad|title=Morocco name AFCON 2017 squad|publisher=African Football|date=29 December 2016|access-date=1 August 2017}}</ref> and started the whole tournament ahead of [[Yassine Bounou]]. He was also selected to the [[2018 FIFA World Cup]] in [[Russia]],<ref>{{cite web|url=https://www.bbc.com/sport/football/44160388|title=World Cup 2018: Sofiane Boufal left out of Morocco squad|publisher=[[BBC Sport]]|date=17 May 2018|access-date=22 May 2018}}</ref> making his first appearance in the [[FIFA World Cup|World Cup]] on 15 June in the 1–0 group stage defeat to [[Iran national football team|Iran]].<ref>{{cite news|url=https://www.nytimes.com/2018/06/15/sports/world-cup/morocco-iran-live-score.html|title=Morocco own goal gives Iran a World Cup victory|newspaper=[[The New York Times]]|first=Victor|last=Mather|date=15 June 2018|access-date=15 June 2018}}</ref>
+
+Munir was also selected for the [[2019 Africa Cup of Nations|2019]]<ref>{{cite web|url=https://www.bbc.com/sport/football/48366746|title=Africa Cup of Nations squads|publisher=BBC Sport|date=22 May 2019|access-date=23 November 2022}}</ref> and [[2021 Africa Cup of Nations]]<ref>{{cite web|url=https://www.bbc.com/sport/africa/59808945|title=Afcon 2021: Morocco add three to squad for Cameroon|publisher=BBC Sport|date=28 December 2021|access-date=23 November 2022}}</ref> and the [[2022 FIFA World Cup|2022 World Cup]].<ref>{{cite web|url=https://www.goal.com/en-bh/lists/morocco-2022-world-cup-squad-hakimi-ziyech-mazraoui-qatar/blta36257fc4feeb66a|title=Morocco World Cup 2022 squad: Who's in and who's out?|publisher=[[Goal (website)|Goal]]|first=Soham|last=Mukherjee|date=10 November 2022|access-date=10 November 2022}}</ref><ref>{{cite web|url=https://en.hespress.com/52697-moroccan-coach-unveils-list-of-26-atlas-lions-in-2022-world-cup.html|title=Moroccan coach unveils list of 26 Atlas Lions in 2022 World Cup|publisher=Hespress|date=10 November 2022|access-date=10 November 2022}}</ref> After starter Bounou fell ill shortly before the start of the group-stage fixture against [[Belgium national football team|Belgium]] in the latter tournament, he replaced him and eventually contributed to a 2–0 win in [[Doha]];<ref>{{cite web|url=https://talksport.com/football/1258750/yassine-bounou-morocco-goalkeeper-swapped-belgium-world-cup/|title=LATE CHANGE {{!}} Where is Yassine Bounou? Morocco fans confused over late goalkeeper switch as Sevilla man on pitch for national anthem before Munir Mohamedi starts World Cup clash against Belgium|publisher=[[Talksport]]|first=Josh|last=Fordham|date=27 November 2022|access-date=27 November 2022}}</ref> he and his teammates made history and became the first African nation ever to reach the semi-finals of the competition.<ref>{{cite web|url=https://www.rtbf.be/article/walid-regragui-avant-daffronter-la-france-nous-avons-faim-nous-voulons-que-lafrique-soit-au-sommet-du-monde-11122333|title=Walid Regragui avant d'affronter la France: "Nous avons faim, nous voulons que l'Afrique soit au sommet du monde"|trans-title=Walid Regragui before facing France: "We are hungry, we want Africa to be on top of the world"|publisher=[[RTBF]]|first=Jâd|last=El Nakadi|language=fr|date=13 December 2022|access-date=13 December 2022}}</ref>
+
+Munir was amongst the 27 players picked by coach [[Walid Regragui]] for the [[2023 Africa Cup of Nations]].<ref>{{cite web|url=https://en.hespress.com/77181-regragui-unveils-27-player-list-for-moroccos-participation-in-can-2023.html|title=Regragui unveils 27 player list for Morocco's participation in CAN 2023|publisher=Hespress|date=28 December 2023|access-date=29 December 2023}}</ref><ref>{{cite web|url=https://www.cafonline.com/caf-africa-cup-of-nations/news/regragui-names-27-provisional-players-for-afcon/|title=Regragui names 27 provisional players for AFCON|publisher=Confederation of African Football|date=28 December 2023|access-date=29 December 2023}}</ref> He also made the squad for the [[Football at the 2024 Summer Olympics|2024 Summer Olympics]] in [[Paris]] as an [[List of overage players in Olympic football|overage player]],<ref>{{cite web|url=https://www.afrik-foot.com/maroc-liste-jo-2024-joueurs|title=Maroc: liste et joueurs pour les JO 2024|trans-title=Morocco: squad and players for the 2024 OG|publisher=Afrik Foot|first=Anthony|last=Olivier|language=fr|date=19 July 2024|access-date=25 July 2024}}</ref> playing all the minutes and winning the [[bronze medal]].<ref name=OG>{{cite web|url=https://www.rfi.fr/fr/sports/20240808-jo-2024-le-maroc-du-jeu-des-buts-et-une-belle-m%C3%A9daille-de-bronze-au-foot|title=JO 2024: le Maroc, du jeu, des buts et une belle médaille de bronze au foot|trans-title=2024 OG: Morocco, plays, goals and a nice bronze medal in footy|publisher=[[Radio France Internationale]]|first=Ndiasse|last=Sambe|language=fr|date=8 August 2024|access-date=8 August 2024}}</ref>
+
+In October 2025, Munir's Morocco broke the [[List of world association football records|world record for the longest winning streak in international football]], surpassing [[Spain national football team|Spain]]'s previous mark of 15 consecutive victories; with a 1–0 win over [[Congo national football team|Congo]] in [[Rabat]], they extended their unbeaten run to 16 in all competitions, including World Cup qualifiers and friendlies.<ref>{{cite web|url=https://www.reuters.com/sports/soccer/morocco-beat-congo-surpass-spains-wins-record-2025-10-14/|title=Morocco beat Congo to surpass Spain's wins record|publisher=[[Reuters]]|first=Mark|last=Gleeson|date=14 October 2025|access-date=15 October 2025}}</ref> In December, he was selected for the [[2025 Africa Cup of Nations]] to be held on home soil.<ref>{{cite web|url=https://www.ouest-france.fr/sport/football/coupe-d-afrique-des-nations/can-2025-la-liste-du-maroc-pour-la-coupe-dafrique-des-nations-achraf-hakimi-present-malgre-sa-blessure-85b708b2-d699-11f0-8fa7-06f366a2f70b|title=CAN 2025. La liste du Maroc pour la Coupe d'Afrique des nations: Achraf Hakimi présent malgré sa blessure|trans-title=CAN 2025. The Morocco squad for the Africa Cup of nations: Achraf Hakimi present in spite of his injury|publisher=[[Ouest-France]]|language=fr|date=11 December 2025|access-date=23 December 2025}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 25 May 2025}}<ref>{{Soccerway|new_id=munir/zN1bmt8R|name=Munir}}</ref>
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|National cup<ref group="lower-alpha">Includes [[Turkish Cup]], [[King's Cup (Saudi Arabia)|King's Cup]], [[Moroccan Throne Cup|Throne Cup]]</ref>
+!colspan=2|Continental
+!colspan=2|Other 
+!colspan=2|Total 
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="3"|[[Hatayspor]]
+|[[2020–21 Hatayspor season|2020–21]]
+|[[Süper Lig]]
+|37||0||0||0||colspan="2"|–||colspan="2"|–||37||0
+|-
+|[[2021–22 Hatayspor season|2021–22]]
+|Süper Lig
+|34||0||1||0||colspan="2"|–||colspan="2"|–||35||0
+|-
+!colspan="2"|Total
+!71!!0!!1!!0!!colspan="2"|–!!colspan="2"|–!!72!!0
+|-
+|rowspan="3"|[[Al Wehda FC|Al Wehda]]
+|[[2022–23 Saudi Pro League|2022–23]]
+|[[Saudi Pro League]]
+|22||0||3||0||colspan="2"|–||colspan="2"|–||25||0
+|-
+|[[2023–24 Saudi Pro League|2023–24]]
+|Saudi Pro League
+|27||0||2||0||colspan="2"|–||1<ref group="lower-alpha">Appearance in [[Saudi Super Cup]]</ref>||0||30||0
+|-
+!colspan="2"|Total
+!49!!0!!5!!0!!colspan="2"|–!!1!!0!!55!!0
+|-
+|[[RS Berkane]]
+|[[2024–25 Botola|2024–25]]
+|[[Botola]]
+|27||0||2||0||13<ref group="lower-alpha">Appearances in [[CAF Confederation Cup]]</ref>||0||colspan="2"|–||42||0
+|-
+!colspan="3"|Career total
+!147!!0!!8!!0!!13!!0!!1!!0!!169!!0
+|}
+{{reflist|group="lower-alpha"}}
+
+===International===
+{{updated|9 June 2025}}<ref>{{NFT|58788|Munir}}</ref>
+{| class="wikitable" style="text-align:center"
+!colspan="3"|[[Morocco national football team|Morocco]]
+|-
+!Year!!Apps!!Goals
+|-
+|2015||6||0
+|-
+|2016||6||0
+|-
+|2017||12||0
+|-
+|2018||9||0
+|-
+|2019||5||0
+|-
+|2020||1||0
+|-
+|2021||2||0
+|-
+|2022||3||0
+|-
+|2023||2||0
+|-
+|2024||3||0
+|-
+|2025||1||0
+|-
+!Total||50||0
+|}
+
+==Honours==
+'''Al Wehda''' 
+*[[King's Cup (Saudi Arabia)|King's Cup]] runner-up: [[2022–23 King's Cup (Saudi Arabia)|2022–23]]<ref>{{cite news|url=https://www.arabnews.com/node/2302456/amp|title=Al-Mayouf's heroics gives Al-Hilal the King's Cup|newspaper=[[Arab News]]|first=John|last=Duerden|date=13 May 2023|access-date=13 March 2024}}</ref>
+
+'''RS Berkane'''
+*[[Botola Pro]]: [[2024–25 Botola Pro|2024–25]]<ref>{{cite news|url=https://lematin.ma/sports/botola-la-rs-berkane-sacree-championne-du-maroc/268495|title=Botola: la RS Berkane sacrée championne du Maroc|trans-title=Botola: RS Berkane crowned Moroccan champions|newspaper=Le Matin|language=fr|date=16 March 2025|access-date=16 March 2025}}</ref>
+*[[CAF Confederation Cup]]: [[2024–25 CAF Confederation Cup|2024–25]]<ref name=CAF/>
+*[[Moroccan Throne Cup]] runner-up: [[2024–25 Moroccan Throne Cup|2024–25]]<ref>{{cite web|url=https://fr.hespress.com/431107-safi-remporte-la-coupe-du-trone-face-a-berkane.html|title=Safi remporte la Coupe du trône face à Berkane|trans-title=Safi take the throne Cup against Berkane|publisher=Hespress|language=fr|date=29 June 2025|access-date=29 June 2025}}</ref>
+*[[CAF Super Cup]] runner-up: [[2025 CAF Super Cup|2025]]<ref>{{cite news|url=https://www.moroccoworldnews.com/2025/10/264140/pyramids-edge-rs-berkane-to-lift-maiden-caf-super-cup/|title=Pyramids edge RS Berkane to lift maiden CAF Super Cup|newspaper=[[Morocco World News]]|first=Farah|last=Ben Gamra|date=18 October 2025|access-date=20 October 2025}}</ref>
+
+'''Morocco Olympic'''
+*[[Football at the Summer Olympics|Olympic Bronze Medal]]: [[Football at the 2024 Summer Olympics – Men's tournament|2024]]<ref name=OG/>
+
+'''Morocco'''
+*[[Africa Cup of Nations]]: [[2025 Africa Cup of Nations|2025]]<ref>{{cite web|url=https://www.bbc.com/sport/football/articles/c70ljednyl6o|title='Shameful' and 'terrible look' – the chaos that marred Senegal's triumph|publisher=BBC Sport|first=Keifer|last=MacDonald|date=18 January 2026|access-date=18 January 2026}}</ref><ref>{{cite news|url=https://www.marca.com/futbol/copa-africa/2026/03/17/bombazo-caf-declara-marruecos-campeon-copa-africa.html|title=¡Bombazo! La CAF declara a Marruecos campeón de la Copa África|trans-title=Shocker! CAF declares Morocco Africa Cup champions|newspaper=Marca|first=Marcos|last=Del Baño|language=es|date=17 March 2026|access-date=17 March 2026}}</ref>
+
+'''Individual'''
+*[[Ricardo Zamora Trophy]]: [[2019–20 Segunda División]]<ref>{{cite news|url=https://www.laopiniondemalaga.es/malagacf/2020/07/21/munir-lleva-zamora-segunda-27489381.html|title=Munir se lleva el Zamora de Segunda|trans-title=Munir takes Zamora in ''Segunda''|newspaper=La Opinión de Málaga|first=Manuel|last=García|language=es|date=21 July 2020|access-date=10 December 2022}}</ref>
+*[[Segunda División]] Player of the Month: September 2018<ref>{{cite web|url=https://www.laliga.com/en-GB/news/munir-named-laliga-123-player-of-the-month-for-september|title=Munir named LaLiga 1{{!}}2{{!}}3 Player of the Month for September|publisher=[[La Liga]]|date=24 October 2018|access-date=15 October 2025}}</ref>
+*Botola Pro Best Goalkeeper: 2024–25<ref>{{cite web|url=https://fr.hespress.com/416122-rsb-munir-mohamedi-meilleur-gardien-de-la-botola-pro-d1.html|title=RSB: Munir Mohamedi meilleur gardien de la Botola Pro D1|trans-title=RSB: Munir Mohamedi best Botola Pro D1 goalkeeper|publisher=Hespress|first=Zoubida|last=Senoussi|language=fr|date=19 March 2025|access-date=3 June 2025}}</ref>
+*Botola Pro Team of the Season: 2024–25<ref>{{cite web|url=https://www.365scores.com/ar/news/magazine/%d8%a7%d9%84%d8%aa%d8%b4%d9%83%d9%8a%d9%84-%d8%a7%d9%84%d8%a3%d9%81%d8%b6%d9%84-%d9%81%d9%8a-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8%d9%8a-%d8%a8%d9%85%d9%88%d8%b3/|title=التشكيل الأفضل في الدوري المغربي بموسم 2024/2025|trans-title=Best Moroccan League XI for the 2024/2025 season|publisher=365 Scores|first=Ahmed|last=Tadhoumant|language=ar|date=20 May 2025|access-date=13 October 2025}}</ref>
+*CAF Confederation Cup Group Stage Best XI: 2024–25<ref>{{cite web|url=https://www.panafricafootball.com/post/caf-confederation-cup-best-xi-of-the-group-stage-revealed/|title=CAF Confederation Cup: Best XI of the group stage revealed|publisher=Pan-Africa Football|first=Hossam|last=Ahmed|date=20 February 2025|access-date=13 October 2025}}</ref>
+*[[:fr:Union marocaine des footballeurs professionnels|UMFP]] Best Moroccan Goalkeeper: 2024–25<ref>{{cite web|url=https://umfp.divisionafrica.org/fr/communique-de-presse-3871|title=Communiqué de presse|trans-title=Press release|publisher=Moroccan Union of Professional Footballers|language=fr|date=18 June 2025|access-date=15 October 2025}}</ref>
+
+'''Orders'''
+*[[Order of the Throne]]: 2022<ref>{{cite web|url=https://en.hespress.com/55519-king-receives-members-of-national-soccer-team-decorates-them-with-royal-wissams.html|title=King receives members of national soccer team, decorates them with Royal wissams|publisher=Hespress|date=20 December 2022|access-date=4 May 2023}}</ref>
+
+==Notes==
+{{notelist-lr}}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{BDFutbol|name=Munir}}
+*{{Olympics.com|munir-el-kajoui|Munir}}
+*{{CNOM profile|el-kajoui-munir|Munir}}
+
+{{Navboxes
+| title = Morocco squads
+| bg        = #C1272D
+| fg        = white
+| bordercolor = #006233
+| list1 =
+{{Morocco squad 2017 Africa Cup of Nations}}
+{{Morocco squad 2018 FIFA World Cup}}
+{{Morocco squad 2019 Africa Cup of Nations}}
+{{Morocco squad 2021 Africa Cup of Nations}}
+{{Morocco squad 2022 FIFA World Cup}}
+{{Morocco squad 2023 Africa Cup of Nations}}
+{{Morocco men's football squad 2024 Summer Olympics}}
+{{Morocco squad 2025 Africa Cup of Nations}}
+{{Morocco squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Mohamedi, Munir}}
+[[Category:1989 births]]
+[[Category:Living people]]
+[[Category:Spanish people of Moroccan descent]]
+[[Category:Sportspeople of Moroccan descent]]
+[[Category:21st-century Spanish sportsmen]]
+[[Category:21st-century Moroccan sportsmen]]
+[[Category:Spanish men's footballers]]
+[[Category:Moroccan men's footballers]]
+[[Category:Footballers from Melilla]]
+[[Category:Men's association football goalkeepers]]
+[[Category:Segunda División players]]
+[[Category:Segunda División B players]]
+[[Category:Tercera División players]]
+[[Category:Divisiones Regionales de Fútbol players]]
+[[Category:UD Almería B players]]
+[[Category:UD Melilla footballers]]
+[[Category:CD Numancia players]]
+[[Category:Málaga CF players]]
+[[Category:Süper Lig players]]
+[[Category:Hatayspor footballers]]
+[[Category:Saudi Pro League players]]
+[[Category:Al Wehda FC players]]
+[[Category:Botola players]]
+[[Category:RS Berkane players]]
+[[Category:Morocco men's international footballers]]
+[[Category:2017 Africa Cup of Nations players]]
+[[Category:2018 FIFA World Cup players]]
+[[Category:2019 Africa Cup of Nations players]]
+[[Category:2021 Africa Cup of Nations players]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:2023 Africa Cup of Nations players]]
+[[Category:2025 Africa Cup of Nations players]]
+[[Category:2026 FIFA World Cup players]]
+[[Category:Africa Cup of Nations–winning players]]
+[[Category:Olympic footballers for Morocco]]
+[[Category:Footballers at the 2024 Summer Olympics]]
+[[Category:Olympic medalists in football]]
+[[Category:Olympic bronze medalists for Morocco]]
+[[Category:Medalists at the 2024 Summer Olympics]]
+[[Category:Spanish expatriate men's footballers]]
+[[Category:Moroccan expatriate men's footballers]]
+[[Category:Expatriate men's footballers in Turkey]]
+[[Category:Expatriate men's footballers in Saudi Arabia]]
+[[Category:Spanish expatriate sportspeople in Turkey]]
+[[Category:Moroccan expatriate sportspeople in Turkey]]
+[[Category:Moroccan expatriate sportspeople in Saudi Arabia]]

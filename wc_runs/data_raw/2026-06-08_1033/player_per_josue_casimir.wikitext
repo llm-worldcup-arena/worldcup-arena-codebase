@@ -1,0 +1,170 @@
+{{Short description|Guadeloupean footballer (born 2001)}}
+{{Use dmy dates|date=September 2023}}
+{{Infobox football biography
+|name = Josué Casimir
+|image = 
+|caption = 
+|full_name = Josué Casimir
+|birth_date = {{birth date and age|df=yes|2001|9|24}}
+|birth_place = [[Baie-Mahault]], [[Guadeloupe]], France
+|height = 1.78 m
+|position = [[Right-back]], [[right wing-back]]
+|currentclub = [[AJ Auxerre|Auxerre]]
+|clubnumber = 7
+|years1 = 2018–2022
+|clubs1 = [[Le Havre AC|Le Havre II]]
+|caps1 = 52
+|goals1 = 7
+|years2 = 2020–2025
+|clubs2 = [[Le Havre AC|Le Havre]]
+|caps2 = 98
+|goals2 = 6
+|years3 = 2025–
+|clubs3 = [[AJ Auxerre|Auxerre]]
+|caps3 = 31
+|goals3 = 1
+|nationalyears1 = 2020
+|nationalteam1 = [[Guadeloupe national football team|Guadeloupe U20]] 
+|nationalcaps1 = 3
+|nationalgoals1 = 3
+|nationalyears2 = 2025–
+|nationalteam2 = [[Haiti national football team|Haiti]] 
+|nationalcaps2 = 7
+|nationalgoals2 = 0
+|pcupdate = 20 May 2026
+|ntupdate = 2 June 2026
+}}
+
+'''Josué Casimir''' (born 24 September 2001) is a professional [[association football|footballer]] who plays as a [[right-back]], [[right wing-back]] or [[striker (association football)|striker]] for French {{French football updater|Auxerre}} club [[AJ Auxerre|Auxerre]]. Born in Guadeloupe, he represents the [[Haiti national football team|Haiti national team]].
+
+==Club career==
+Casimir made his professional debut with Le Havre in a 1–0 [[Ligue 2]] win over [[USL Dunkerque]] on 24 October 2020.<ref>{{Cite web|url=https://uk.soccerway.com/matches/2020/10/24/france/ligue-2/usl-dunkerque/le-havre-athletic-club-football-associat/3287888/|title=Dunkerque vs. Le Havre - 24 October 2020|website=Soccerway}}</ref>
+
+On 6 June 2025, Casimir signed a three-season contract with [[AJ Auxerre|Auxerre]].<ref>{{cite web|publisher=AJ Auxerre|url=https://www.aja.fr/josue-casimir-premiere-recrue-de-laja/|title=Josué Casimir première recrue de l'AJA|trans-title=Josué Casimir, AJA's first recruit|date=6 June 2025|access-date=30 July 2025|language=fr}}</ref>
+
+==International career==
+Casimir was born in the French overseas territory Guadeloupe to Haitian parents.<ref>{{Cite web|url=https://www.haititempo.com/foot-un-jeune-attaquant-dorigine-haitienne-suivit-par-le-milan-ac/|title=Foot: Un jeune attaquant d'origine haïtienne suivit par le Milan AC ! - Haiti-Tempo|date=7 May 2021}}</ref> He holds French and Haitian descent.<ref>{{Cite web |last=JEROME |first=Joly |date=9 June 2020 |title=Foot-Interview: Josué CASIMIR privilége l'équipe de France en premier lieu. |url=http://total-sport.fr/index.php/2020/06/08/foot-interview-josue-casimir-privilege-lequipe-de-france-en-premier-lieu/}}</ref> He played for the [[Guadeloupe national football team|Guadeloupe U20]]s at the [[2020 CONCACAF U-20 Championship qualifying]] matches, with three goals in three games.<ref>{{Cite web|url=https://www.concacaf.com/en/under-20s-men/article/guadeloupe-and-curacao-stay-unbeaten-in-cu20-qualifying|title=Guadeloupe and Curacao stay unbeaten in CU20 Qualifying|website=www.concacaf.com}}</ref> He was called up to the [[Haiti national football team|Haiti national team]] for a set of [[2026 FIFA World Cup qualification]] matches in October 2025.<ref>{{Cite web|url=https://www.haitisportuniversel.com/2025/10/02/eliminatoires-mondial-2026-josue-casimir-un-renfort-de-choix-pour-les-grenadiers/|title=Éliminatoires Mondial 2026 : Josué Casimir, un renfort de choix pour les Grenadiers !|first=Jean Fritzner|last=Bysson|date=2 October 2025}}</ref>
+
+==Personal life==
+Casimir is the younger brother of the Guadeloupean international footballer Stevenson Casimir.<ref>{{Cite web|date=15 February 2020|title=Des instants " magiques " pour les frères Casimir|url=https://liguefoot-guadeloupe.fff.fr/simple/des-instants-magiques-pour-les-freres-casimir/|access-date=16 May 2021|website=[[Guadeloupean League of Football|Ligue guadeloupéenne de football]]|language=fr}}</ref>
+
+==Career statistics==
+===Club===
+{{Updated|match played 17 May 2026}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|[[Coupe de France]]
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="6"|[[Le Havre AC|Le Havre II]]
+|[[2017–18 Championnat National 2|2017–18]]
+|[[Championnat National 2|CFA 2]]
+|5||0||colspan="2"|—||5||0
+|-
+|[[2018–19 Championnat National 2|2018–19]]
+|CFA 2
+|15||0||colspan="2"|—||15||0
+|-
+|[[2019–20 Championnat National 3|2019–20]]
+|[[Championnat National 3|National 3]]
+|11||1||colspan="2"|—||11||1
+|-
+|[[2020–21 Championnat National 3|2020–21]]
+|National 3
+|4||2||colspan="2"|—||4||2
+|-
+|[[2021–22 Championnat National 3|2021–22]]
+|National 3
+|17||4||colspan="2"|—||17||4
+|-
+!colspan="2"|Total
+!52!!7!!colspan="2"|—!!52!!7
+|-
+|rowspan="6"|[[Le Havre AC|Le Havre]]
+|[[2020–21 Le Havre AC season|2020–21]]
+|[[Ligue 2]]
+|5||0||1||0||6||0
+|-
+|[[2021–22 Le Havre AC season|2021–22]]
+|Ligue 2
+|2||0||1||0||3||0
+|-
+|[[2022–23 Le Havre AC season|2022–23]]
+|Ligue 2
+|34||2||1||0||35||2
+|-
+|[[2023–24 Le Havre AC season|2023–24]]
+|[[Ligue 1]]
+|30||0||3||0||33||0
+|-
+|[[2024–25 Le Havre AC season|2024–25]]
+|Ligue 1
+|25||4||0||0||25||4
+|-
+!colspan="2"|Total
+!96!!6!!6!!0!!102!!6
+|-
+|[[AJ Auxerre|Auxerre]]
+|[[2025–26 Ligue 1|2025–26]]
+|Ligue 1
+|31||1||0||0||31||1
+|-
+!colspan="3"|Career total
+!180!!14!!6!!0!!186!!14
+|}
+
+===International===
+{{updated|match played 2 June 2026}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="2"|[[Haiti national football team|Haiti]]
+|2025||5||0
+|-
+|2026||2||0
+|-
+!colspan="2"|Total!!7!!0
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Soccerway|josue-casimir/540503}}
+
+{{AJ Auxerre squad}}
+{{Haiti squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Casimir, Josue}}
+[[Category:2001 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Pointe-à-Pitre]]
+[[Category:Haitian men's footballers]]
+[[Category:Haiti men's international footballers]]
+[[Category:Guadeloupean men's footballers]]
+[[Category:Guadeloupe men's youth international footballers]]
+[[Category:French men's footballers]]
+[[Category:Guadeloupean people of Haitian descent]]
+[[Category:French sportspeople of Haitian descent]]
+[[Category:Men's association football forwards]]
+[[Category:Ligue 1 players]]
+[[Category:Ligue 2 players]]
+[[Category:Championnat National 2 players]]
+[[Category:Championnat National 3 players]]
+[[Category:Le Havre AC players]]
+[[Category:AJ Auxerre players]]
+[[Category:21st-century Haitian sportsmen]]
+[[Category:21st-century French sportsmen]]
+[[Category:2026 FIFA World Cup players]]
+
+{{Haiti-footy-bio-stub}}

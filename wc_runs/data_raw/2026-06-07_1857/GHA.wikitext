@@ -1,0 +1,35 @@
+===Current squad===
+The following players were called up for the [[2026 FIFA World Cup]] and the friendly match against [[Wales national football team|Wales]] on 2 June 2026.<ref>{{cite web|url=https://www.ghanafa.org/black-stars-coach-carlos-queiroz-names-28-man-squad-for-world-cup-preparations-and-wales-friendly|title=Black Stars coach Carlos Queiroz names 28-man squad for World Cup preparations and Wales friendly|publisher=[[Ghana Football Association]]|date=25 May 2026|access-date=25 May 2026}}</ref>
+<br>''Caps and goals correct as of 2 June 2026, after the match against [[Wales national football team|Wales]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Lawrence Ati-Zigi]]|age={{birth date and age|1996|11|29|df=y}}|caps=29|goals=0|club=[[FC St. Gallen|St. Gallen]]|clubnat=SUI}}
+{{nat fs g player|no=12|pos=GK|name=[[Joseph Anang]]|age={{birth date and age|2000|6|8|df=y}}|caps=1|goals=0|club=[[St Patrick's Athletic F.C.|St Patrick's Athletic]]|clubnat=IRL}}
+{{nat fs g player|no=16|pos=GK|name=[[Benjamin Asare]]|age={{birth date and age|1992|7|13|df=y}}|caps=11|goals=0|club=[[Accra Hearts of Oak S.C.|Hearts of Oak]]|clubnat=GHA}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Alidu Seidu]]|age={{birth date and age|2000|6|4|df=y}}|caps=24|goals=1|club=[[Stade Rennais FC|Rennes]]|clubnat=FRA}}
+{{nat fs g player|no=4|pos=DF|name=[[Jonas Adjetey]]|age={{birth date and age|2003|12|13|df=y}}|caps=10|goals=0|club=[[VfL Wolfsburg]]|clubnat=GER}}
+{{nat fs g player|no=6|pos=DF|name=[[Abdul Mumin]]|age={{birth date and age|1998|6|6|df=y}}|caps=5|goals=0|club=[[Rayo Vallecano]]|clubnat=ESP}}
+{{nat fs g player|no=14|pos=DF|name=[[Gideon Mensah (footballer, born 1998)|Gideon Mensah]]|age={{birth date and age|1998|7|18|df=y}}|caps=40|goals=0|club=[[AJ Auxerre|Auxerre]]|clubnat=FRA}}
+{{nat fs g player|no=17|pos=DF|name=[[Abdul Rahman Baba]]|age={{birth date and age|1994|7|2|df=y}}|caps=51|goals=1|club=[[PAOK FC|PAOK]]|clubnat=GRE}}
+{{nat fs g player|no=18|pos=DF|name=[[Jerome Opoku]]|age={{birth date and age|1998|10|14|df=y}}|caps=11|goals=1|club=[[İstanbul Başakşehir F.K.|İstanbul Başakşehir]]|clubnat=TUR}}
+{{nat fs g player|no=21|pos=DF|name=[[Kojo Peprah Oppong]]|age={{birth date and age|2004|6|4|df=y}}|caps=4|goals=0|club=[[OGC Nice|Nice]]|clubnat=FRA}}
+{{nat fs g player|no=23|pos=DF|name=[[Derrick Luckassen]]|age={{birth date and age|1995|7|3|df=y}}|caps=1|goals=0|club=[[Pafos FC|Pafos]]|clubnat=CYP}}
+{{nat fs g player|no=26|pos=DF|name=[[Marvin Senaya]]|age={{birth date and age|2001|1|28|df=y}}|caps=2|goals=0|club=[[AJ Auxerre|Auxerre]]|clubnat=FRA}}
+{{nat fs break}}
+{{nat fs g player|no=3|pos=MF|name=[[Caleb Yirenkyi]]|age={{birth date and age|2006|1|15|df=y}}|caps=11|goals=1|club=[[FC Nordsjælland|Nordsjælland]]|clubnat=DEN}}
+{{nat fs g player|no=5|pos=MF|name=[[Thomas Partey]]|other=[[Captain (association football)|vice-captain]]|age={{birth date and age|1993|6|13|df=y}}|caps=57|goals=15|club=[[Villarreal CF|Villarreal]]|clubnat=ESP}}
+{{nat fs g player|no=7|pos=MF|name=[[Abdul Fatawu]]|age={{birth date and age|2004|3|8|df=y}}|caps=28|goals=3|club=[[Leicester City F.C.|Leicester City]]|clubnat=ENG}}
+{{nat fs g player|no=8|pos=MF|name=[[Kwasi Sibo]]|age={{birth date and age|1998|6|24|df=y}}|caps=8|goals=0|club=[[Real Oviedo|Oviedo]]|clubnat=ESP}}
+{{nat fs g player|no=11|pos=MF|name=[[Antoine Semenyo]]|age={{birth date and age|2000|1|7|df=y}}|caps=34|goals=3|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs g player|no=15|pos=MF|name=[[Elisha Owusu]]|age={{birth date and age|1997|11|7|df=y}}|caps=20|goals=0|club=[[AJ Auxerre|Auxerre]]|clubnat=FRA}}
+{{nat fs g player|no=20|pos=MF|name=[[Augustine Boakye]]|age={{birth date and age|2000|11|3|df=y}}|caps=0|goals=0|club=[[AS Saint-Étienne|Saint-Étienne]]|clubnat=FRA}}
+{{nat fs g player|no=22|pos=MF|name=[[Kamaldeen Sulemana]]|age={{birth date and age|2002|2|15|df=y}}|caps=28|goals=1|club=[[Atalanta BC|Atalanta]]|clubnat=ITA}}
+{{nat fs break}}
+{{nat fs g player|no=9|pos=FW|name=[[Jordan Ayew]]|other=[[Captain (association football)|captain]]|age={{birth date and age|1991|9|11|df=y}}|caps=120|goals=34|club=[[Leicester City F.C.|Leicester City]]|clubnat=ENG}}
+{{nat fs g player|no=10|pos=FW|name=[[Brandon Thomas-Asante]]|age={{birth date and age|1998|12|28|df=y}}|caps=8|goals=1|club=[[Coventry City F.C.|Coventry City]]|clubnat=ENG}}
+{{nat fs g player|no=13|pos=FW|name=[[Christopher Bonsu Baah]]|age={{birth date and age|2004|12|14|df=y}}|caps=9|goals=0|club=[[Al Qadsiah FC|Al-Qadsiah]]|clubnat=KSA}}
+{{nat fs g player|no=19|pos=FW|name=[[Iñaki Williams]]|age={{birth date and age|1994|6|15|df=y}}|caps=26|goals=2|club=[[Athletic Bilbao]]|clubnat=ESP}}
+{{nat fs g player|no=24|pos=FW|name=[[Ernest Nuamah]]|age={{birth date and age|2003|11|1|df=y}}|caps=18|goals=4|club=[[Olympique Lyonnais|Lyon]]|clubnat=FRA}}
+{{nat fs g player|no=25|pos=FW|name=[[Prince Kwabena Adu]]|age={{birth date and age|2003|9|23|df=y}}|caps=5|goals=0|club=[[FC Viktoria Plzeň|Viktoria Plzeň]]|clubnat=CZE}}
+{{nat fs end}}

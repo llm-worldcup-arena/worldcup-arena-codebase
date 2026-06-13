@@ -1,0 +1,288 @@
+{{short description|Dutch footballer (born 1999)}}
+{{Use British English|date=June 2025}}
+{{Use dmy dates|date=June 2025}}
+{{Infobox football biography
+| name = Justin Kluivert
+| image = Justin Kluivert 2023.jpg
+| caption = Kluivert in 2023
+| full_name = Justin Dean Kluivert<ref name="FWC26">{{cite web |url=https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf |title=FIFA World Cup 2026™ – Squad List: Netherlands (NED) |publisher=[[FIFA]] |date=2 June 2026 |access-date=2 June 2026}}</ref>
+| birth_date = {{birth date and age|1999|5|5|df=y}}<ref name="FWC26"/>
+| birth_place = [[Amsterdam]], Netherlands
+| height = 1.73 m<ref name="FWC26"/>
+| position = [[Attacking midfielder]], [[Winger (association football)|winger]]
+| currentclub = [[AFC Bournemouth|Bournemouth]]
+| clubnumber = 19
+| youthyears1 = 2005–2006
+| youthclubs1 = SV Diemen
+| youthyears2 = 2007–2016
+| youthclubs2 = [[Jong Ajax|Ajax]]
+| years1 = 2016–2017
+| clubs1 = [[Jong Ajax]]
+| caps1 = 8
+| goals1 = 2
+| years2 = 2016–2018
+| clubs2 = [[AFC Ajax|Ajax]]
+| caps2 = 44
+| goals2 = 12
+| years3 = 2018–2023
+| clubs3 = [[AS Roma|Roma]]
+| caps3 = 53
+| goals3 = 5
+| years4 = 2020–2021
+| clubs4 = → [[RB Leipzig]] (loan)
+| caps4 = 19
+| goals4 = 3
+| years5 = 2021–2022
+| clubs5 = → [[OGC Nice|Nice]] (loan)
+| caps5 = 27
+| goals5 = 4
+| years6 = 2022–2023
+| clubs6 = → [[Valencia CF|Valencia]] (loan)
+| caps6 = 26
+| goals6 = 6
+| years7 = 2023–
+| clubs7 = [[AFC Bournemouth|Bournemouth]]
+| caps7 = 86
+| goals7 = 21
+| nationalyears1 = 2015–2016
+| nationalteam1 = [[Netherlands national under-17 football team|Netherlands U17]]
+| nationalcaps1 = 10
+| nationalgoals1 = 0
+| nationalyears2 = 2017
+| nationalteam2 = [[Netherlands national under-19 football team|Netherlands U19]]
+| nationalcaps2 = 3
+| nationalgoals2 = 0
+| nationalyears3 = 2017–2021
+| nationalteam3 = [[Netherlands national under-21 football team|Netherlands U21]]
+| nationalcaps3 = 20
+| nationalgoals3 = 5
+| nationalyears5 = 2018–
+| nationalteam5 = [[Netherlands national football team|Netherlands]]
+| nationalcaps5 = 12
+| nationalgoals5 = 0
+| club-update = 23:08, 24 May 2026 (UTC)
+| nationalteam-update = 23:21, 3 June 2026 (UTC)
+}}
+'''Justin Dean Kluivert''' (born 5 May 1999) is a Dutch professional [[Association football|footballer]] who plays as an [[attacking midfielder]] or [[Winger (association football)|winger]] for {{English football updater|AFCBourn}} club [[AFC Bournemouth|Bournemouth]] and the [[Netherlands national football team|Netherlands national team]].
+
+The son of former Dutch international football player [[Patrick Kluivert]] and grandson of former Surinamese football player [[Kenneth Kluivert]], Justin Kluivert began his career at [[AFC Ajax|Ajax]], coming through the youth system. After playing for two seasons with the Dutch side, in 2018 he moved to Italian side [[AS Roma|Roma]] for €18.75&nbsp;million. He has also represented the Netherlands internationally, first at youth level from 2013 before making his senior debut in 2018.
+
+==Club career==
+=== Ajax ===
+Born in [[Amsterdam]], Kluivert came through the [[AFC Ajax|Ajax]] youth program,<ref>{{cite news|title=Justin Kluivert (16) tekent contract bij Ajax|url=http://nos.nl/artikel/2102149-justin-kluivert-16-tekent-contract-bij-ajax.html|access-date=17 September 2016|work=nos.nl|date=29 April 2016|language=nl}}</ref> and had his first professional contract with [[AFC Ajax|Ajax]].<ref>{{cite web|title=Ajax signs contract with Justin Kluivert|url=http://english.ajax.nl/article/-ajax-signs-contract-with-justin-kluivert-.htm|work=ajax.nl|access-date=1 July 2016|archive-date=2 July 2018|archive-url=https://web.archive.org/web/20180702150737/http://english.ajax.nl/article/-ajax-signs-contract-with-justin-kluivert-.htm|url-status=dead}}</ref> He made his [[Eerste Divisie]] debut with [[Jong Ajax]] on 16 September 2016 in a game against [[MVV Maastricht|MVV]], replacing [[Vince Gino Dekker]] in the 67th minute, in a 1–0 away loss.<ref name="soccerway2">{{cite web|url=https://int.soccerway.com/matches/2016/09/16/netherlands/eerste-divisie/stichting-mvv/jong-ajax/2240625/|title=MVV Maastricht vs. Jong Ajax – 16 September 2016 |publisher=Soccerway|access-date=17 September 2016}}</ref> He also played in the [[2016–17 UEFA Youth League]], in which he scored in a 2–0 group stage win at [[PAOK Academy|PAOK]] on 2 November.<ref>{{cite news |title=Ajax A1 boekt overtuigende Youth League-zege bij PAOK |url=https://www.fcupdate.nl/voetbalnieuws/306727/ajax-a1-boekt-overtuigende-youth-league-zege-bij-paok/ |access-date=8 January 2019 |publisher=FC Update |date=2 November 2016}}</ref>
+
+Kluivert made his first team debut in the [[Eredivisie]] on 15 January 2017 in a 1–3 away win against [[PEC Zwolle]], when he replaced [[Amin Younes]] in the 39th minute.<ref>[https://int.soccerway.com/matches/2017/01/15/netherlands/eredivisie/bvo-fc-zwolle/afc-ajax/2240436/?ICID=HP_MS_06_02 PEC Zwolle vs. Ajax – 15 January 2017], Soccerway. Retrieved 16 January 2017</ref> He scored his first Eredivisie goal on 19 March in an away match against [[SBV Excelsior|Excelsior]], exactly ten years and one day after his father's last career goal. The match ended in a 1–1 draw.<ref>[http://www.ad.nl/dossier-titelrace/kluivert-jr-maakt-eerste-goal-tien-jaar-en-een-dag-na-vaders-laatste~a66501e0/ Kluivert jr maakt eerste goal tien jaar en één dag na vaders laatste – 19 March 2017 – AD.nl], ''Algemeen Dagblad''. Retrieved 21 February 2017</ref> He made six appearances in the [[2016–17 UEFA Europa League]], and was an unused substitute in the [[2017 UEFA Europa League Final|final]], a 2–0 loss to [[Manchester United F.C.|Manchester United]] in Stockholm.<ref>{{cite news |last1=McNulty |first1=Phil |title=Ajax 0&ndash;2 Manchester United |url=https://www.bbc.co.uk/sport/football/40004559 |access-date=8 January 2019 |work=BBC Sport |date=24 May 2017}}</ref>
+
+On 26 November 2017, Kluivert opened his account for the season with a hat-trick in a 5–1 home win over [[Roda JC]].<ref>{{cite news|title=Justin Kluivert scores hat trick as Ajax thrash Roda JC|url=http://www.espn.co.uk/football/ajax-amsterdam/story/3285085/justin-kluivert-scores-hat-trick-as-ajax-thrash-roda-jc|access-date=26 November 2017|publisher=ESPN FC|date=26 November 2017}}</ref>
+
+=== Roma ===
+[[File:Justin Kluivert 2018.jpg|upright=0.7|left|thumb|277x277px|Kluivert playing for [[AS Roma|Roma]] in 2018]]
+On 12 June 2018, Kluivert moved to Italian club [[A.S. Roma|Roma]], following a telephone call made by Roma legend [[Francesco Totti]] to his father, for €18.75&nbsp;million.<ref>{{Cite web|url=https://www.pagineromaniste.com/il-retroscena-e-totti-convinse-kluivert-sr/|title=Il retroscena, e Totti convinse Kluivert sr|date=12 June 2018|website=Pagine Romaniste}}</ref><ref>{{Cite news|url=http://www.marca.com/en/football/international-football/2018/06/12/5b1fe495468aebca3c8b4665.html|title=Serie A – Calcio: Roma sign Ajax winger Justin Kluivert |work=MARCA in English|access-date=12 June 2018}}</ref> He became the fifth Dutch player ever to represent the Italian side.<ref name=":0">{{Cite web|url=https://www.asroma.com/en/team/players-and-staff/justin-kluivert#tab_player-stats=distribution&tab_player=profile|title=Justin Kluivert|website=asroma.com|language=en|access-date=3 February 2020|archive-date=21 January 2021|archive-url=https://web.archive.org/web/20210121053755/https://www.asroma.com/en/team/players-and-staff/justin-kluivert#tab_player-stats=distribution&tab_player=profile|url-status=dead}}</ref> Kluivert chose the number 34 shirt  at Roma as a support for his good friend and former teammate [[Abdelhak Nouri]], who wore it at Ajax; Nouri suffered a career-ending [[Heart arrhythmia|cardiac arrhythmia]] attack in 2017.<ref>{{Cite news|url=https://www.goal.com/en/news/kluivert-honours-nouri-with-roma-shirt-number-choice/6n9q8iqs8b8r18bjpaznalkz9|title=Kluivert honours Nouri with Roma shirt number choice|work=Goal (website)}}</ref><ref>{{cite web|url=https://www.bbc.co.uk/bbcthree/article/abbf8564-5453-4f69-9a08-5d85630a5268|title=The touching reason players are wearing the number 34|date=8 January 2019|access-date=9 January 2019|author=Ciaran Varley|publisher=BBC}}</ref>
+
+Kluivert became the youngest Roma player to score in the [[UEFA Champions League]] after scoring the fourth goal in a 5–0 home victory against [[FC Viktoria Plzeň|Viktoria Plzeň]] on 3 October 2018.<ref>{{Cite news|url=https://www.asroma.com/en/news/2018/10/kluivert-aiming-for-more-after-becoming-roma-s-youngest-ucl-goalscorer|title=KLUIVERT AIMING FOR MORE AFTER BECOMING ROMA'S YOUNGEST UCL GOALSCORER|work=asroma.com|archive-date=7 June 2022|access-date=10 December 2018|archive-url=https://web.archive.org/web/20220607010548/https://www.asroma.com/en/news/2018/10/kluivert-aiming-for-more-after-becoming-roma-s-youngest-ucl-goalscorer|url-status=dead}}</ref> It was his first goal for the ''Giallorossi'', and he dedicated it to Nouri.<ref>{{Cite news|url=https://www.eurosport.com/football/justin-kluivert-dedicates-first-roma-goal-to-former-team-mate-abdelhak-nouri_sto6956944/story.shtml|title=Football news – Justin Kluivert dedicates first Roma goal to former team-mate Abdelhak Nouri|work=Eurosport}}</ref> On 16 December, he scored for the first time in the [[Serie A]] in a 3–2 home win over [[Genoa C.F.C.|Genoa]].<ref>{{cite news |title=Soccer-Relief for Di Francesco as Roma fight back to beat Genoa |url=https://uk.reuters.com/article/soccer-italy-rom-gen-report/soccer-relief-for-di-francesco-as-roma-fight-back-to-beat-genoa-idUKL8N1YL0SO |archive-url=https://web.archive.org/web/20181228035543/https://uk.reuters.com/article/soccer-italy-rom-gen-report/soccer-relief-for-di-francesco-as-roma-fight-back-to-beat-genoa-idUKL8N1YL0SO |url-status=dead |archive-date=28 December 2018 |access-date=27 December 2018 |publisher=Reuters |date=16 December 2018}}</ref>
+
+For the [[2019–20 A.S. Roma season|2019–20 season]], Kluivert changed his shirt number to 99, representing the year he was born.<ref>{{cite news |last1=Uccelieri |first1=Daniel |title=Roma, Kluivert cambia numero di maglia: indosserà il 99|trans-title=Roma, Kluivert changes shirt number: he will wear the 99 |url=https://www.tuttomercatoweb.com/altre-notizie/roma-kluivert-cambia-numero-di-maglia-indossera-il-99-1283177 |access-date=5 September 2019 |publisher=Tutto Mercato |date=23 August 2019 |language=it}}</ref>
+
+==== Loan to RB Leipzig ====
+On 5 October 2020, Kluivert joined [[Bundesliga]] club [[RB Leipzig]] on a [[2020–21 RB Leipzig season|season]]-long loan.<ref>{{cite news |title= Justin Kluivert joins RB Leipzig on loan |url=https://www.dierotenbullen.com/en/news/articles/2020-21-season/RBL-loan-Kluivert.html |access-date=5 October 2020 |publisher=RB Leipzig |date=5 October 2020}}</ref> On 5 December, he scored his first [[Bundesliga]] goal in a 3–3 away draw against [[FC Bayern Munich|Bayern Munich]].<ref>{{Cite web|url=https://www.dfb.de/datencenter/bundesliga/2020-21/10-spieltag/bayern-muenchen-rb-leipzig-2315218|title=Bayern München – RB Leipzig, 3:3, Bundesliga 2020/21 10. Spieltag|website=DFB Datencenter}}</ref> On 8 December, he scored a goal in a 3–2 win over [[Manchester United F.C.|Manchester United]] in the [[2020–21 UEFA Champions League]].<ref>{{Cite web|url=http://www.theguardian.com/football/2020/dec/08/rb-leipzig-manchester-united-champions-league-match-report|title=Manchester United out of Champions League after leaving it too late at Leipzig|date=8 December 2020|website=The Guardian}}</ref>
+[[File:RC Lens - OGC Nice (10-04-2022) 13.jpg|thumb|230x230px|Kluivert with [[OGC Nice|Nice]] in 2022]]
+
+====Loan to Nice====
+On 20 July 2021, Kluivert joined French [[Ligue 1]] club [[OGC Nice|Nice]] on season-long loan with an option to buy.<ref>{{cite web |title=Welcome Justin! |url=https://www.ogcnice.com/en/news/43211/welcome-justin |website=OGC Nice |language=en |date=20 July 2021 |access-date=21 July 2021 |archive-date=21 July 2021 |archive-url=https://web.archive.org/web/20210721125955/https://www.ogcnice.com/en/news/43211/welcome-justin |url-status=dead }}</ref>
+
+====Loan to Valencia====
+On 1 September 2022, Kluivert signed for Spanish club [[Valencia CF|Valencia]] on loan for the 2022–23 season.<ref>{{cite web |title=Comunicado Official {{!}} Justin Kluivert |url=https://www.valenciacf.com/es/article/es-comunicado-oficial-justin-kluivert-2022-09-01 |website=Valencia CF |language=es |date=1 September 2022 }}</ref> A few days earlier, he was denied a work permit in England which cancelled his transfer to [[Fulham F.C.|Fulham]].<ref>{{cite web |title=Fulham's Justin Kluivert deal stalls over work permit issues; Bamba Dieng talks opened |url=https://www.90min.com/posts/fulham-justin-kluivert-stalls-work-permit-issues-bamba-dieng-talks |website=90min.com |date=31 August 2022 }}</ref>
+
+===Bournemouth===
+On 23 June 2023, [[Premier League]] club [[AFC Bournemouth|Bournemouth]] announced the signing of Kluivert for an undisclosed fee,<ref>{{cite web |date=23 June 2023 |title=KLUIVERT BECOMES FIRST SUMMER SIGNING |url=https://www.afcb.co.uk/news/first-team/kluivert-becomes-first-summer-signing/ |access-date=23 June 2023 |website=afcb.co.uk}}</ref> reported to be around €11&nbsp;million + €1.5&nbsp;million in add-ons.<ref>{{Cite web |date=23 June 2023 |title=Official: Justin Kluivert completes permanent transfer to Bournemouth |url=https://romapress.net/official-justin-kluivert-completes-permanent-transfer-to-bournemouth/ |access-date=27 November 2023 |website=RomaPress |language=en-US}}</ref> On 12 August, he made his debut for the club, as a substitute, in a 1–1 league draw at home to [[West Ham United F.C.|West Ham United]].<ref>{{cite news |title=Bournemouth 1–1 West Ham: Dominic Solanke rescues point for Cherries after Jarrod Bowen's stunning opener |url= https://www.skysports.com/football/news/11685/12937477/bournemouth-1-1-west-ham-dominic-solanke-rescues-point-for-cherries-after-jarrod-bowens-stunning-opener |date=12 August 2023}}</ref>
+
+On 1 November 2023, Kluivert scored his first goal for Bournemouth in a 2–1 loss to [[Liverpool F.C.|Liverpool]] in the fourth round of the [[2023–24 EFL Cup|EFL Cup]].<ref>{{Cite web|url=https://www.theguardian.com/football/2023/nov/01/bournemouth-liverpool-carabao-cup-fourth-round-match-report|title=Darwin Núñez staves off Bournemouth fightback as Liverpool ride out storm|date=1 November 2023|website=The Guardian}}</ref> On 25 November, he scored his first Premier League goal, in a 3–1 victory away at [[Sheffield United F.C.|Sheffield United]].<ref>{{Cite web |date=25 November 2023 |title=Bournemouth secure first Premier League away win in style |url=https://www.premierleague.com/news/3793831 |access-date=27 November 2023 |website= |publisher=Premier League |language=en}}</ref> By doing so, Kluivert became just the third player, after [[Florin Răducioiu]] and [[Stevan Jovetić]], to score in every [[Big Five (association football)|Big Five league]],<ref>{{Cite web |date=25 November 2023 |title=Justin Kluivert becomes just the second player this century to score in each of the big five European leagues after netting for Bournemouth |url=https://www.goal.com/en/lists/justin-kluivert-big-five-european-league-bournemouth/bltf273117213205d1d |access-date=27 November 2023 |website=Goal (website) |language=en}}</ref> and the first to score in every Big Five league as well as the Eredivisie.<ref>{{Cite web |date=2 May 2025 |title=Foot : "Je dois figurer dans le livre des records", Justin Kluivert, premier joueur à avoir marqué dans les six grands championnats |url=https://www.lefigaro.fr/sports/football/foot-je-dois-figurer-dans-le-livre-des-records-justin-kluivert-premier-joueur-a-avoir-marque-dans-les-six-grands-championnats-20250502 |access-date=2025-05-04 |website=Le Figaro |language=fr}}</ref>
+
+On 30 November 2024, Kluivert became the first player to score a hat-trick of penalties in a Premier League match, as Bournemouth defeated [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] 4–2.<ref>{{cite news|title=Wolves 2–4 Bournemouth: Justin Kluivert becomes first player to score hat-trick of penalties in Premier League match |url=https://www.skysports.com/football/news/13262404/wolves-2-4-bournemouth-justin-kluivert-becomes-first-player-to-score-hat-trick-of-penalties-in-premier-league-match |access-date=1 December 2024 |work=Sky Sports |date=30 November 2024}}</ref><ref name=easy>{{cite news |last1=Emons |first1=Michael |title='Easy as that': Kluivert's 'beautiful' history-making penalty hat-trick |url=https://www.bbc.co.uk/sport/football/articles/c62j2lq72qqo |access-date=1 December 2024 |work=BBC Sport |date=30 November 2024}}</ref> It was the first time in 67 years that the feat had been achieved in the English top division since [[Ken Barnes (English footballer)|Ken Barnes]] for [[Manchester City F.C.|Manchester City]] in 1957, and the fourth time ever.<ref>{{cite magazine|magazine=[[World Soccer (magazine)|World Soccer]]|date=January 2025|page=19|title=The month in numbers}}</ref><ref name=easy/> On 18 January 2025, Kluivert scored another hat-trick, this time in open-play, as Bournemouth defeated [[Newcastle United F.C.|Newcastle United]] 4–1, ending the latter's nine-game winning streak and stopping them from breaking their club record for the most consecutive wins.<ref>{{Cite news |last=Taylor |first=Louise |date=18 January 2025 |title=Kluivert hits hat-trick as Bournemouth bring end to Newcastle winning streak |url=https://www.theguardian.com/football/2025/jan/18/newcastle-bournemouth-premier-league-match-report |access-date=18 January 2025 |work=[[The Guardian]]}}</ref> His outstanding performance earned him the EA SPORTS Player of the Month award, making him the second Bournemouth player after [[Dominic Solanke]] to claim the award, after scoring five goals and providing two assists in the month.<ref name="auto1">{{Cite web |title=Kluivert named EA SPORTS Player of the Month as Bournemouth win awards TREBLE |url=https://www.premierleague.com/en/news/4243105 |date=2025-02-07 |access-date=2025-02-10 |publisher=Premier League |language=en}}</ref> Kluivert finished the 2024–25 season with a personal-best return of 13 goals in all competitions and was named Bournemouth's Junior Player of the Season.<ref>{{cite web |url=https://www.afcb.co.uk/news/2025/may/25/men-s-first-team-2024-25-award-winners-crowned/ |title=Men's first team 2024/25 award winners crowned |publisher=AFC Bournemouth |date=25 May 2025 }}</ref> In January 2026, Bournemouth announced that Kluivert would undergo knee surgery after sustaining an injury against [[Arsenal F.C.|Arsenal]].<ref>{{cite web |url=https://www.afcb.co.uk/news/2026/january/06/kluivert-to-undergo-knee-surgery/ |title=Kluivert to undergo knee surgery |publisher=AFC Bournemouth |date=6 January 2026 }}</ref> He returned to action later that season in the last home match against Manchester City.<ref>{{cite web |url=https://www.espn.com/soccer/match/_/gameId/740958/manchester-city-afc-bournemouth |title=AFC Bournemouth 1–1 Manchester City |publisher=ESPN |date=19 May 2026 }}</ref>
+
+==International career==
+At the [[2016 UEFA European Under-17 Championship|2016 Under 17 Euros]] in [[Azerbaijan]], Kluivert played throughout the tournament in which [[Netherlands national under-17 football team|the Netherlands]] reached the semi-finals.<ref name=U17>{{cite web|url=http://www.football-oranje.com/netherlands-u17s-knocked-european-championships/|title=Netherlands U17's defeated in Euro semi-final|website=Football Oranje.com |date=18 May 2016 }}</ref><ref>{{cite web|url=https://www.uefa.com/under17/news/0252-0cda5f07bc4a-be8e9ee5f13b-1000--chong-to-the-fore-as-netherlands-edge-sweden/|title=Chong to the fore as Netherlands edge Sweden|publisher=UEFA}}</ref><ref>{{cite web|url=https://www.uefa.com/under17/news/0252-0cda5d97ac72-dceeda03e7e8-1000--ajax-s-kluivert-jr-relishing-career-challenge/|title=Ajax's Kluivert Jr relishing career challenge|publisher=UEFA}}</ref><ref>{{cite web|url=https://www.parool.nl/sport/justin-kluivert-leuk-om-met-mijn-vader-vergeleken-te-worden~a4298807/|title=Justin Kluivert: Leuk om met mijn vader vergeleken te worden|language=nl|website=Het Parool}}</ref>
+
+Kluivert earned his first call-up to [[Netherlands national football team|the senior team]] in March 2018 for the friendlies against [[England national football team|England]] and [[Portugal national football team|Portugal]].<ref>{{cite news|last1=Labellarte|first1=Giuseppe|title=Ronald Koeman urges Justin Kluivert to remain in Dutch Eredivisie|url=https://www.sportsmole.co.uk/football/ajax/news/koeman-urges-kluivert-to-reject-pl-for-now_321585.html|access-date=26 March 2018|publisher=Sports Mole|date=22 March 2018}}</ref> He made his debut on 26 March in a 3–0 win over the reigning European champions Portugal at the [[Stade de Genève]], replacing [[Memphis Depay]] for the final 12 minutes of the match.<ref>{{cite news|title=Cristiano Ronaldo and Portugal suffer heavy defeat by Netherlands|url=https://www.theguardian.com/football/2018/mar/26/portugal-holland-friendly-match-report|access-date=26 March 2018|work=The Guardian|agency=Reuters|date=26 March 2018}}</ref>
+
+==Personal life==
+Justin Kluivert is the son of former Dutch international football player [[Patrick Kluivert]].<ref>{{cite news|title=Kluivert Jr. geniet van debuut: 'Echt een topgevoel'|url=http://www.vi.nl/nieuws/kluivert-jr.-geniet-van-debuut-echt-een-topgevoel.htm|access-date=17 September 2016|work=VI|date=16 September 2016|language=nl}}</ref> He is a grandson of former [[Suriname]]se football player [[Kenneth Kluivert]].<ref name=Feature>{{cite web|url=https://www.theguardian.com/football/2017/may/20/ajax-justin-kluivert-best-famous-patrick-kluivert-europa-league-manchester-united|title=Ajax's Justin Kluivert wants to be the best and not just famous for his dad|website=The Guardian|date=20 May 2017 |last1=Vlietstra |first1=Bart }}</ref> He is also of [[Curaçao]]an descent through his paternal grandmother.<ref>{{cite news |last1=Smith |first1=Chad |title=THE RISE OF FOOTBALL IN CURAÇAO AND THE INFLUENCE OF PATRICK KLUIVERT |url=https://thesefootballtimes.co/2017/08/19/the-rise-of-football-in-curacao-and-the-influence-of-patrick-kluivert/ |access-date=8 January 2019 |work=These Football Times |date=19 August 2017}}</ref> Kluivert has three brothers, including footballer [[Ruben Kluivert]]<ref name=":0" /> who is currently playing for [[Olympique Lyonnais|Lyon]]. The other two brothers, [[Shane Kluivert|Shane]] and Quincy, are plying their trade with [[FC Barcelona|Barcelona]] U18 and [[AVV Zeeburgia|Zeeburgia]] respectively.<ref>{{Cite web |last=Hendrix |first=Hale |date=20 July 2024 |title=Who is Justin Kluivert? The Legacy of Patrick Kluivert's Son |url=https://footballbiography.com/justin-kluivert-fathers-legendary-footsteps/ |access-date=10 January 2025 |website=Football Biography |language=en-US}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 24 May 2026}}<ref name="soccerway">{{cite web|url=https://int.soccerway.com/players/justin-kluivert/426578/|title=J. Kluivert|website=Soccerway|access-date=19 October 2024}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup{{efn|Includes [[KNVB Cup]], [[Coppa Italia]], [[DFB-Pokal]], [[Coupe de France]], [[Copa del Rey]], [[FA Cup]]}}
+!colspan="2"|League cup{{efn|Includes [[EFL Cup]]}}
+!colspan="2"|Europe
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|[[Jong Ajax]]
+|[[2016–17 Eerste Divisie|2016–17]]
+|[[Eerste Divisie]]
+|8||2||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||8||2
+|-
+|rowspan="3"|[[AFC Ajax|Ajax]]
+|[[2016–17 AFC Ajax season|2016–17]]
+|[[Eredivisie]]
+|14||2||0||0||colspan="2"|—||6{{efn|name=UEL|Appearances in [[UEFA Europa League]]}}||0||colspan="2"|—||20||2
+|-
+|[[2017–18 AFC Ajax season|2017–18]]
+|Eredivisie
+|30||10||2||1||colspan="2"|—||4{{efn|Two appearances in [[UEFA Champions League]], two appearances in UEFA Europa League}}||0||colspan="2"|—||36||11
+|-
+!colspan="2"|Total
+!44!!12!!2!!1!!colspan="2"|—!!10!!0!!colspan="2"|—!!56!!13
+|-
+|rowspan="4"|[[AS Roma|Roma]]
+|[[2018–19 AS Roma season|2018–19]]
+|[[Serie A]]
+|29||1||1||0||colspan="2"|—||5{{efn|name=UCL|Appearances in UEFA Champions League}}||1||colspan="2"|—||35||2
+|-
+|[[2019–20 AS Roma season|2019–20]]
+|Serie A
+|22||4||2||0||colspan="2"|—||7<ref group=lower-alpha name="UEL"/>||3||colspan="2"|—||31||7
+|-
+|[[2020–21 AS Roma season|2020–21]]
+|Serie A
+|2||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||2||0
+|-
+!colspan="2"|Total
+!53!!5!!3!!0!!colspan="2"|—!!12!!4!!colspan="2"|—!!68!!9
+|-
+|[[RB Leipzig]] (loan)
+|[[2020–21 RB Leipzig season|2020–21]]
+|[[Bundesliga]]
+|19||3||1||0||colspan="2"|—||7{{efn|name=UCL}}||1||colspan="2"|—||27||4
+|-
+|[[OGC Nice|Nice]] (loan)
+|[[2021–22 OGC Nice season|2021–22]]
+|[[Ligue 1]]
+|27||4||4||2||colspan="2"|—||colspan="2"|—||colspan="2"|—||31||6
+|-
+|[[Valencia CF|Valencia]] (loan)
+|[[2022–23 Valencia CF season|2022–23]]
+|[[La Liga]]
+|26||6||2||2||colspan="2"|—||colspan="2"|—||1{{efn|Appearance in [[Supercopa de España]]}}||0||29||8
+|-
+|rowspan="4"|[[AFC Bournemouth|Bournemouth]]
+|[[2023–24 AFC Bournemouth season|2023–24]]
+|[[Premier League]]
+|32||7||2||1||2||1||colspan="2"|—||colspan="2"|—||36||9
+|-
+|[[2024–25 AFC Bournemouth season|2024–25]]
+|Premier League
+|34||12||4||1||1||0||colspan="2"|—||colspan="2"|—||39||13
+|-
+|[[2025–26 AFC Bournemouth season|2025–26]]
+|Premier League
+|20||2||0||0||1||0||colspan="2"|—||colspan="2"|—||21||2
+|-
+!colspan="2"|Total
+!86!!21!!6!!2!!4!!1!!colspan="2"|—!!colspan="2"|—!!96!!24
+|-
+!colspan="3"|Career total
+!263!!53!!18!!7!!4!!1!!29!!5!!1!!0!!315!!66
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 3 June 2026}}<ref>{{cite web |url=https://eu-football.info/_player.php?id=30240 |title=Justin Kluivert |website=EU-Football.info |access-date=20 March 2025}}</ref>
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="4"|[[Netherlands national football team|Netherlands]]
+|2018||2||0
+|-
+|2024||1||0
+|-
+|2025||8||0
+|-
+|2026||1||0
+|-
+!colspan="2"|Total!!12!!0
+|}
+
+==Honours==
+'''Ajax'''
+*[[UEFA Europa League]] runner-up: [[2016–17 UEFA Europa League|2016–17]]<ref>{{cite web|url=http://www.uefa.com/uefaeuropaleague/season=2017/overview/index.html|archive-url=https://web.archive.org/web/20170702090446/http://www.uefa.com/uefaeuropaleague/season=2017/overview/index.html|url-status=dead|archive-date=2 July 2017|title=2016/17: United win it for Manchester|publisher=UEFA|date=30 May 2017}}</ref>
+
+'''Nice'''
+*[[Coupe de France]] runner-up: [[2021–22 Coupe de France|2021–22]]<ref>{{cite web|url=https://www.bbc.com/sport/football/61366648|title=Nice 0–1 Nantes: Ludovic Blas penalty wins French Cup for Nantes|work=BBC Sport|date=7 May 2022|access-date=7 May 2022}}</ref>
+
+'''Individual'''
+*[[List of AFC Ajax records and statistics#AFC Ajax prize winners|AFC Ajax Talent of the Future (Sjaak Swart Award)]]: 2016–17<ref>{{cite web|url=https://www.parool.nl/nieuws/justin-kluivert-ajax-talent-van-het-jaar~ba1c6610/|title=Justin Kluivert Ajax-talent van het jaar|language=nl|work=Het Parool}}</ref>
+*[[Premier League Player of the Month]]: [[2024–25 Premier League#Monthly awards|January 2025]]<ref name="auto1"/>
+
+==References==
+{{reflist}}
+
+== External links ==
+{{Commons category}}
+* [https://www.afcb.co.uk/teams/First%20Team/justin-kluivert Justin Kluivert] at [[AFC Bournemouth]]
+* [https://www.onsoranje.nl/teams/185184/speler/290 Justin Kluivert] at the [[Royal Dutch Football Association]] {{in lang|nl}}
+* {{Premier League player}}
+* {{UEFA player}}
+* {{LFP Ligue 1|justin-kluivert}}
+
+{{AFC Bournemouth squad}}
+{{Netherlands squad 2026 FIFA World Cup}}
+{{Navboxes
+| title = Awards
+| bg = gold
+| fg = navy
+| list1 =
+{{AFC Ajax Talent of the Future}}
+{{AFC Bournemouth Player of the Year}}
+}}
+{{Authority control}}
+
+{{DEFAULTSORT:Kluivert, Justin}}
+[[Category:1999 births]]
+[[Category:Living people]]
+[[Category:Footballers from Amsterdam]]
+[[Category:Dutch men's footballers]]
+[[Category:Men's association football wingers]]
+[[Category:Jong Ajax players]]
+[[Category:AFC Ajax players]]
+[[Category:AS Roma players]]
+[[Category:RB Leipzig players]]
+[[Category:OGC Nice players]]
+[[Category:Valencia CF players]]
+[[Category:AFC Bournemouth players]]
+[[Category:Eerste Divisie players]]
+[[Category:Eredivisie players]]
+[[Category:Serie A players]]
+[[Category:Bundesliga players]]
+[[Category:Ligue 1 players]]
+[[Category:La Liga players]]
+[[Category:Premier League players]]
+[[Category:Netherlands men's youth international footballers]]
+[[Category:Netherlands men's under-21 international footballers]]
+[[Category:Netherlands men's international footballers]]
+[[Category:2026 FIFA World Cup players]]
+[[Category:Dutch expatriate men's footballers]]
+[[Category:Dutch expatriate sportspeople in Germany]]
+[[Category:Dutch expatriate sportspeople in Italy]]
+[[Category:Dutch expatriate sportspeople in France]]
+[[Category:Dutch expatriate sportspeople in Spain]]
+[[Category:Dutch expatriate sportspeople in England]]
+[[Category:Expatriate men's footballers in Germany]]
+[[Category:Expatriate men's footballers in Italy]]
+[[Category:Expatriate men's footballers in France]]
+[[Category:Expatriate men's footballers in Spain]]
+[[Category:Expatriate men's footballers in England]]
+[[Category:Dutch people of Curaçaoan descent]]
+[[Category:Dutch people of Surinamese descent]]
+[[Category:Sportspeople of Surinamese descent]]
+[[Category:Kluivert family|Justin]]
+[[Category:21st-century Dutch sportsmen]]

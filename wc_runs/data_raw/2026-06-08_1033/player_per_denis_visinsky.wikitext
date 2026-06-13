@@ -1,0 +1,173 @@
+{{short description|Czech footballer}}
+{{Infobox football biography
+| name = Denis Višinský
+| image = 
+| birth_date = {{birth date and age|df=y|2003|3|21}}
+| birth_place = [[Hořín]], Czech Republic
+| height = 1.77 m
+| position = [[Winger (association football)|Winger]]
+| currentclub = [[FC Viktoria Plzeň|Viktoria Plzeň]]
+| clubnumber = 9
+| youthyears1 = 2009–2010
+| youthclubs1 = FC Mělník
+| youthyears2 = 2010–2021
+| youthclubs2 = [[SK Slavia Prague|Slavia Prague]]
+| years1 = 2021–2022
+| clubs1 = [[SK Slavia Prague|Slavia Prague]]
+| caps1 = 2
+| goals1 = 0
+| years2 = 2021–2022
+| clubs2 = → [[FC Sellier & Bellot Vlašim|Vlašim]] (loan)
+| caps2 = 15
+| goals2 = 3
+| years3 = 2022–2025
+| clubs3 = [[FC Slovan Liberec|Slovan Liberec]]
+| caps3 = 76
+| goals3 = 10
+| years4 = 2025–
+| clubs4 = [[FC Viktoria Plzeň|Viktoria Plzeň]]
+| caps4 = 27
+| goals4 = 8
+| nationalyears1 = 2018–2019
+| nationalteam1 = [[Czech Republic national under-16 football team|Czech Republic U16]]
+| nationalcaps1 = 8
+| nationalgoals1 = 2
+| nationalyears2 = 2019–2020
+| nationalteam2 = [[Czech Republic national under-17 football team|Czech Republic U17]]
+| nationalcaps2 = 6
+| nationalgoals2 = 2
+| nationalyears3 = 2021–2022
+| nationalteam3 = [[Czech Republic national under-19 football team|Czech Republic U19]]
+| nationalcaps3 = 12
+| nationalgoals3 = 1
+| nationalyears4 = 2022
+| nationalteam4 = [[Czech Republic national under-20 football team|Czech Republic U20]]
+| nationalcaps4 = 3
+| nationalgoals4 = 1
+| nationalyears5 = 2023–2026
+| nationalteam5 = [[Czech Republic national under-21 football team|Czech Republic U21]]
+| nationalcaps5 = 8
+| nationalgoals5 = 0
+| nationalyears6 = 2026–
+| nationalteam6 = [[Czech Republic national football team|Czech Republic]]
+| nationalcaps6 = 2
+| nationalgoals6 = 1
+| pcupdate = 17 May 2026
+| ntupdate = 31 May 2026
+}}
+'''Denis Višinský''' (born 21 March 2003) is a Czech professional [[Association football|footballer]] who plays as a [[Winger (association football)|winger]] for [[FC Viktoria Plzeň|Viktoria Plzeň]] and the [[Czech Republic national football team|Czech Republic national team]].<ref name="soccerway">{{Soccerway|632402}}</ref>
+
+==Life==
+Višinský was born in [[Hořín]], where he also started to play football at the age of three. His family then moved to [[Mělník]].<ref name=sks>{{cite web |title=Podepsat smlouvu se Slavií je velká čest, říká Denis Višinský|url=https://www.slavia.cz/article/17417-Podepsat-smlouvu-se-Slavii-je-velka-cest-rika-Denis-Visinsky|publisher=SK Slavia Prague|language=cs|date=23 March 2020|access-date=2 June 2026}}</ref>
+
+==Career==
+Višinský is a youth product of Slavia Prague, having joined their youth academy at the age of six. He signed his first professional contract with them in February 2021.<ref name=sks/> Višinský made his professional debut with Slavia Prague in a 3–0 [[Czech First League]] win over [[FK Mladá Boleslav]] on 14 March 2021.<ref>{{Cite web|url=https://ca.soccerway.com/matches/2021/03/14/czech-republic/czech-liga/fk-mlada-boleslav/sk-slavia-praha/3331165/|title=Mladá Boleslav vs. Slavia Praha - 14 March 2021|website=Soccerway}}</ref>
+
+On 26 May 2025, Višinský signed a three-year contract with [[FC Viktoria Plzeň|Viktoria Plzeň]] as a free agent.<ref>{{Cite web|last=Sequens|first=Zdeněk|url=https://plzensky.denik.cz/fotbal-prvni-liga/plzen-viktoria-prestup-denis-visinsky-fotbal-chance-liga.html|title=Potvrzeno. Záložník Denis Višinský přestupuje do plzeňské Viktorie|work=[[Deník|Deník.cz]]|publisher=[[Vltava Labe Media]]|language=cs|date=26 May 2025|access-date=26 May 2025}}</ref>
+
+==Career statistics==
+===Club===
+{{Updated|match played 17 May 2026}}
+
+{| class="wikitable" style="text-align: center"
+|+Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|Cup
+!colspan="2"|Europe
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|[[SK Slavia Prague|Slavia Prague]]
+|[[2020–21 SK Slavia Prague season|2020–21]]
+|[[Czech First League]]
+|2||0||1||2||1{{efn|name=UEL|Appearances in [[UEFA Europa League]]}}||0||colspan="2"|—||4||2
+|-
+|[[FC Sellier & Bellot Vlašim|Vlašim]] (loan)
+|[[2021–22 Czech National Football League|2021–22]]
+|[[Czech National Football League]]
+|15||3||3||2||colspan="2"|—||colspan="2"|—||18||5
+|-
+|rowspan="5"|[[FC Slovan Liberec|Slovan Liberec]]
+|[[2021–22 FC Slovan Liberec season|2021–22]]
+|Czech First League
+|9||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||9||0
+|-
+|[[2022–23 FC Slovan Liberec season|2022–23]]
+|Czech First League
+|15||1||3||2||colspan="2"|—||colspan="2"|—||18||3
+|-
+|[[2023–24 FC Slovan Liberec season|2023–24]]
+|Czech First League
+|21||0||3||0||colspan="2"|—||colspan="2"|—||24||0
+|-
+|[[2024–25 FC Slovan Liberec season|2024–25]]
+|Czech First League
+|31||9||2||1||colspan="2"|—||colspan="2"|—||33||10
+|-
+!colspan="2"|Total
+!76!!10!!8!!3!!colspan="2"|—!!colspan="2"|—!!84!!13
+|-
+|[[FC Viktoria Plzeň|Viktoria Plzeň]]
+|[[2025–26 FC Viktoria Plzeň season|2025–26]]
+|Czech First League
+|27||8||2||0||12{{efn|Two appearances in [[UEFA Champions League]], ten appearances and one goal in UEFA Europa League}}||1||colspan="2"|—||41||9
+|-
+!colspan="3"|Career total
+!120!!21!!14!!7!!13!!1!!0!!0!!147!!29
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 4 June 2026}}
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="1"|[[Czech Republic national football team|Czech Republic]]
+|2026||2||1
+|-
+!colspan="2"|Total!!2!!1
+|}
+
+{| class="wikitable sortable"
+|+ List of international goals scored by Denis Višinský
+! No. !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+|align=center| 1 || 4 June 2026 || [[Sports Illustrated Stadium]], [[Harrison, New Jersey|Harrison]], United States || {{fb|GUA}} || align=center| 3–1 ||align=center| 3–1 || [[Exhibition game|Friendly]]
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Soccerway|denis-viinsky/632402}}
+*{{FAČR player|new_id=16333494}}
+*{{Czech First League player}}
+
+{{FC Viktoria Plzeň squad}}
+{{Czech Republic squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Visinsky, Denis}}
+[[Category:2003 births]]
+[[Category:Living people]]
+[[Category:People from Mělník District]]
+[[Category:Czech men's footballers]]
+[[Category:Czech Republic men's youth international footballers]]
+[[Category:SK Slavia Prague players]]
+[[Category:Czech First League players]]
+[[Category:Men's association football wingers]]
+[[Category:Footballers from the Central Bohemian Region]]
+[[Category:FC Slovan Liberec players]]
+[[Category:FC Sellier & Bellot Vlašim players]]
+[[Category:Czech Republic men's under-21 international footballers]]
+[[Category:21st-century Czech sportsmen]]
+[[Category:FC Viktoria Plzeň players]]
+[[Category:Czech National Football League players]]
+[[Category:2026 FIFA World Cup players]]

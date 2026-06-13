@@ -1,0 +1,343 @@
+[
+ {
+  "player_id": "1151929",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/1151929",
+  "name": "GessimeYassine",
+  "shirt_number": 80,
+  "club": "Joined:",
+  "club_id": "667",
+  "market_value": "€12.00m",
+  "market_value_numeric": 12000000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Social-Media:",
+  "nationality": "France",
+  "citizenships": [
+   "France",
+   "France",
+   "Morocco",
+   "Morocco",
+   "France",
+   "Morocco",
+   "France"
+  ],
+  "market_value_history": [
+   {
+    "date": "Mar 26, 2024",
+    "value": "€800k",
+    "value_numeric": 800000,
+    "club": "USL Dunkerque",
+    "age": "18"
+   },
+   {
+    "date": "Jun 11, 2024",
+    "value": "€1.00m",
+    "value_numeric": 1000000,
+    "club": "USL Dunkerque",
+    "age": "18"
+   },
+   {
+    "date": "Dec 4, 2024",
+    "value": "€1.00m",
+    "value_numeric": 1000000,
+    "club": "USL Dunkerque",
+    "age": "19"
+   },
+   {
+    "date": "Mar 12, 2025",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "USL Dunkerque",
+    "age": "19"
+   },
+   {
+    "date": "Jun 2, 2025",
+    "value": "€2.00m",
+    "value_numeric": 2000000,
+    "club": "USL Dunkerque",
+    "age": "19"
+   },
+   {
+    "date": "Oct 13, 2025",
+    "value": "€4.00m",
+    "value_numeric": 4000000,
+    "club": "USL Dunkerque",
+    "age": "19"
+   },
+   {
+    "date": "Dec 11, 2025",
+    "value": "€6.00m",
+    "value_numeric": 6000000,
+    "club": "USL Dunkerque",
+    "age": "20"
+   },
+   {
+    "date": "Mar 27, 2026",
+    "value": "€10.00m",
+    "value_numeric": 10000000,
+    "club": "RC Strasbourg Alsace",
+    "age": "20"
+   },
+   {
+    "date": "Jun 1, 2026",
+    "value": "€12.00m",
+    "value_numeric": 12000000,
+    "club": "RC Strasbourg Alsace",
+    "age": "20"
+   }
+  ],
+  "peak_market_value": 12000000,
+  "transfers": [],
+  "_our_pid": "per_gessime_yassine"
+ },
+ {
+  "player_id": "97925",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/97925",
+  "name": "MunirEl Kajoui",
+  "shirt_number": 1,
+  "club": "Joined:",
+  "club_id": "37176",
+  "market_value": "€600k",
+  "market_value_numeric": 600000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Outfitter:",
+  "nationality": "Morocco",
+  "citizenships": [
+   "Morocco",
+   "Spain",
+   "Morocco",
+   "Morocco",
+   "Spain",
+   "Morocco",
+   "Spain"
+  ],
+  "market_value_history": [
+   {
+    "date": "Aug 12, 2014",
+    "value": "€300k",
+    "value_numeric": 300000,
+    "club": "CD Numancia",
+    "age": "25"
+   },
+   {
+    "date": "Jan 8, 2015",
+    "value": "€400k",
+    "value_numeric": 400000,
+    "club": "CD Numancia",
+    "age": "25"
+   },
+   {
+    "date": "Jul 1, 2015",
+    "value": "€400k",
+    "value_numeric": 400000,
+    "club": "CD Numancia",
+    "age": "26"
+   },
+   {
+    "date": "Nov 20, 2015",
+    "value": "€500k",
+    "value_numeric": 500000,
+    "club": "CD Numancia",
+    "age": "26"
+   },
+   {
+    "date": "Feb 22, 2016",
+    "value": "€700k",
+    "value_numeric": 700000,
+    "club": "CD Numancia",
+    "age": "26"
+   },
+   {
+    "date": "Jul 15, 2016",
+    "value": "€700k",
+    "value_numeric": 700000,
+    "club": "CD Numancia",
+    "age": "27"
+   },
+   {
+    "date": "Jan 24, 2017",
+    "value": "€700k",
+    "value_numeric": 700000,
+    "club": "CD Numancia",
+    "age": "27"
+   },
+   {
+    "date": "Jun 29, 2017",
+    "value": "€600k",
+    "value_numeric": 600000,
+    "club": "CD Numancia",
+    "age": "28"
+   },
+   {
+    "date": "Jan 1, 2018",
+    "value": "€400k",
+    "value_numeric": 400000,
+    "club": "CD Numancia",
+    "age": "28"
+   },
+   {
+    "date": "May 30, 2018",
+    "value": "€400k",
+    "value_numeric": 400000,
+    "club": "CD Numancia",
+    "age": "29"
+   },
+   {
+    "date": "Sep 17, 2018",
+    "value": "€600k",
+    "value_numeric": 600000,
+    "club": "Málaga CF",
+    "age": "29"
+   },
+   {
+    "date": "Feb 19, 2019",
+    "value": "€800k",
+    "value_numeric": 800000,
+    "club": "Málaga CF",
+    "age": "29"
+   },
+   {
+    "date": "Jun 29, 2019",
+    "value": "€1.00m",
+    "value_numeric": 1000000,
+    "club": "Málaga CF",
+    "age": "30"
+   },
+   {
+    "date": "Dec 20, 2019",
+    "value": "€800k",
+    "value_numeric": 800000,
+    "club": "Málaga CF",
+    "age": "30"
+   },
+   {
+    "date": "Apr 8, 2020",
+    "value": "€650k",
+    "value_numeric": 650000,
+    "club": "Málaga CF",
+    "age": "30"
+   },
+   {
+    "date": "Dec 23, 2020",
+    "value": "€750k",
+    "value_numeric": 750000,
+    "club": "Hatayspor",
+    "age": "31"
+   },
+   {
+    "date": "Mar 16, 2021",
+    "value": "€900k",
+    "value_numeric": 900000,
+    "club": "Hatayspor",
+    "age": "31"
+   },
+   {
+    "date": "May 21, 2021",
+    "value": "€1.20m",
+    "value_numeric": 1200000,
+    "club": "Hatayspor",
+    "age": "32"
+   },
+   {
+    "date": "Oct 12, 2021",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "Hatayspor",
+    "age": "32"
+   },
+   {
+    "date": "Jan 4, 2022",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "Hatayspor",
+    "age": "32"
+   },
+   {
+    "date": "Mar 31, 2022",
+    "value": "€1.60m",
+    "value_numeric": 1600000,
+    "club": "Hatayspor",
+    "age": "32"
+   },
+   {
+    "date": "Jun 1, 2022",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "Hatayspor",
+    "age": "33"
+   },
+   {
+    "date": "Nov 14, 2022",
+    "value": "€1.20m",
+    "value_numeric": 1200000,
+    "club": "Al-Wehda FC",
+    "age": "33"
+   },
+   {
+    "date": "Jun 12, 2023",
+    "value": "€1.00m",
+    "value_numeric": 1000000,
+    "club": "Al-Wehda FC",
+    "age": "34"
+   },
+   {
+    "date": "Dec 15, 2023",
+    "value": "€900k",
+    "value_numeric": 900000,
+    "club": "Al-Wehda FC",
+    "age": "34"
+   },
+   {
+    "date": "Jun 4, 2024",
+    "value": "€850k",
+    "value_numeric": 850000,
+    "club": "Al-Wehda FC",
+    "age": "35"
+   },
+   {
+    "date": "Jan 8, 2025",
+    "value": "€800k",
+    "value_numeric": 800000,
+    "club": "Renaissance de Berkane",
+    "age": "35"
+   },
+   {
+    "date": "May 28, 2025",
+    "value": "€750k",
+    "value_numeric": 750000,
+    "club": "Renaissance de Berkane",
+    "age": "36"
+   },
+   {
+    "date": "Nov 28, 2025",
+    "value": "€700k",
+    "value_numeric": 700000,
+    "club": "Renaissance de Berkane",
+    "age": "36"
+   },
+   {
+    "date": "Jun 5, 2026",
+    "value": "€600k",
+    "value_numeric": 600000,
+    "club": "Renaissance de Berkane",
+    "age": "37"
+   }
+  ],
+  "peak_market_value": 1600000,
+  "transfers": [],
+  "_our_pid": "per_munir_mohamedi"
+ }
+]

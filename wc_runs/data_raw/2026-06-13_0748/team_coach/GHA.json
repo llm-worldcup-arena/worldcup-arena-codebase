@@ -1,0 +1,14 @@
+{
+ "team": "GHA",
+ "coach": {
+  "name_zh": "卡洛斯·奎罗斯",
+  "name_en": "Carlos Queiroz",
+  "nationality": "Portuguese Mozambique",
+  "career_since": "1989",
+  "person_id": "per_carlos_queiroz"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。"
+}

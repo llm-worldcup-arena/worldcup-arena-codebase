@@ -1,0 +1,180 @@
+{{short description|Qatari footballer (born 1996)}}
+{{Use dmy dates|date=November 2022}}
+{{Infobox football biography
+| name = Assim Madibo
+| image = Qatar - Japan, AFC Asian Cup 2019 58 - Assim Madibo.jpg
+| caption = Madibo with [[Qatar national football team|Qatar]] at the [[2019 AFC Asian Cup]]
+| fullname = Assim Omer Al Haj Madibo<ref name=GSA>{{GSA player|assim-madibo/47157|access-date=14 November 2021}}</ref>
+| birth_date = {{birth date and age|1996|10|22|df=yes}}
+| birth_place = [[Khartoum]], Sudan<ref name=WORLDFOOTBALL>{{cite web |url=https://www.worldfootball.net/person/pe347495/assim-madibo/ |title=Assim Madibo Profile |publisher=HEIM:SPIEL Medien |access-date=28 May 2026}}</ref>
+| height = 1.68 m<ref name="FIFA 2022">{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=FIFA World Cup Qatar 2022™: List of Players: Qatar |publisher=FIFA |page=23 |date=15 November 2022 |access-date=22 November 2022 |archive-url=https://web.archive.org/web/20221218195301/https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |archive-date=18 December 2022 |url-status=live}}</ref>
+| currentclub = [[Al-Wakrah SC|Al-Wakrah]]<br>(on loan from [[Al-Duhail SC|Al-Duhail]])
+| clubnumber = 18
+| position = [[Midfielder]]
+| youthyears1 = 2014
+| youthclubs1 = [[Aspire Academy]]
+| years1 = 2015–2016
+| clubs1 = [[LASK Linz]]
+| caps1 = 1
+| goals1 = 0
+| years2 = 2015–2016
+| clubs2 = [[FC Pasching]]/[[LASK Linz|LASK Linz II]]
+| caps2 = 4
+| goals2 = 0
+| years3 = 2016
+| clubs3 = [[Cultural y Deportiva Leonesa|Cultural Leonesa]]
+| caps3 = 1
+| goals3 = 0
+| years4 = 2016– 
+| clubs4 = [[Al-Duhail SC|Al-Duhail]]
+| caps4 = 80
+| goals4 = 0
+| years5 = 2017
+| clubs5 = → [[K.A.S. Eupen|Eupen]] (loan)
+| caps5 = 0
+| goals5 = 0
+| years6 = 2018
+| clubs6 = → [[Al-Gharafa SC|Al-Gharafa]] (loan)
+| caps6 = 7
+| goals6 = 0
+| years7 = 2024–2025
+| clubs7 = → [[Al-Gharafa SC|Al-Gharafa]] (loan)
+| caps7 = 15
+| goals7 = 0
+| years8 = 2025–
+| clubs8 = → [[Al-Wakrah SC|Al-Wakrah]] (loan)
+| caps8 = 9
+| goals8 = 0
+| nationalyears1 = 2014
+| nationalteam1 = [[Qatar national under-20 football team|Qatar U19]]
+| nationalcaps1 = 5
+| nationalgoals1 = 0
+| nationalyears2 = 2014
+| nationalteam2 = [[Qatar national under-20 football team|Qatar U21]]
+| nationalcaps2 = 4
+| nationalgoals2 = 0
+| nationalyears3 = 2015
+| nationalteam3 = [[Qatar national under-20 football team|Qatar U20]]
+| nationalcaps3 = 2
+| nationalgoals3 = 0
+| nationalyears4 = 2016
+| nationalteam4 = [[Qatar national under-23 football team|Qatar U23]]
+| nationalcaps4 = 11
+| nationalgoals4 = 0
+| nationalyears5 = 2017–2023
+| nationalteam5 = [[Qatar national football team|Qatar]]
+| nationalcaps5 = 49
+| nationalgoals5 = 0
+| pcupdate = 17 March 2026
+| ntupdate = 10 December 2023
+| medaltemplates = {{MedalCountry|{{fb|QAT}}}}
+{{MedalSport|Men's [[Association football|Football]]}}
+{{MedalCompetition|[[AFC Asian Cup]]}}
+{{Medal|Winner|[[2019 AFC Asian Cup|2019 UAE]]|[[Qatar national football team|Team]]}}
+{{MedalCompetition|[[AFC U-19 Championship]]}}
+{{Medal|Winner|[[2014 AFC U-19 Championship|2014 Myanmar]]|[[Qatar national under-19 football team|U-19]]}}
+{{MedalComp|[[FIFA Arab Cup]]}}
+{{Medal|3rd|[[2021 FIFA Arab Cup|2021]]|}}
+}}
+'''Assim Omer Al Haj Madibo''' ({{langx|ar|عاصم ماديبو}}; born 22 October 1996) is a footballer who plays for [[Al-Wakrah SC|Al-Wakrah]], on loan from [[Al-Duhail SC|Al-Duhail]]. He represents the [[Qatar national football team|Qatar national team]].
+
+==Club career==
+Madibo joined the [[Aspire Academy]] in Qatar in July 2014.<ref name=WORLDFOOTBALL/>
+
+In January 2015, Madibo joined the senior team of Austrian club [[LASK Linz]]. He made his professional league debut against [[Austria Lustenau]] on 13 August 2015. In January 2016, he left the club to join [[Cultural y Deportiva Leonesa|Cultural Leonesa]].<ref>{{cite web |url=https://int.soccerway.com/players/assim-madibo/343749/ |title=Assim Madibo |website=Soccerway }}</ref>
+
+It was announced that in July 2017 that Madibo was loaned to [[Belgian First Division A]] side [[K.A.S. Eupen|Eupen]] from Lekhwiya for the duration of one season.<ref>{{cite web|url=http://www.sudinfo.be/1886057/article/2017-07-14/deux-nouveaux-joueurs-qataris-pour-eupen|title=Deux nouveaux joueurs qataris pour Eupen (Two new Qatari players for Eupen)|website=sudinfo.be|language=French|date=14 July 2017|accessdate=16 July 2017}}</ref>
+
+==International career==
+Madibo has represented Qatar at various age groups. He was a member of the [[Qatar national under-20 football team|Qatar national under-19 football team]] for the [[2014 AFC U-19 Championship]], which won the championship. He played in the [[2015 FIFA U-20 World Cup]] for the [[Qatar national under-20 football team]].
+<!--==Career statistics==
+===International===
+{{updated|matches played 8 January 2018.}}<ref>{{NFT player|id=68680|accessdate=}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|-
+!National team!!Year!!Appearances!!Goals
+|-
+|[[Qatar national football team|Qatar]]||2017||5||0
+|-
+! colspan=2|Total!!5!!0
+|}-->
+
+==Honours==
+[[File:Qatar U23 team lined up at the training pitch (Assim Madibo).jpg|thumb|Madibo in January 2018]]
+'''Al-Duhail'''
+*[[Qatar Stars League]]: [[2016–17 Qatar Stars League|2016–17]], [[2019–20 Qatar Stars League|2019–20]]
+*[[Emir of Qatar Cup]]: [[2019 Emir of Qatar Cup|2019]]
+*[[Qatari Sheikh Jassim Cup]]: 2016
+
+'''Qatar U19'''
+* [[AFC U-19 Championship]]: [[2014 AFC U-19 Championship|2014]]
+
+'''Qatar'''
+*[[AFC Asian Cup]]: [[2019 AFC Asian Cup|2019]]
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Soccerway|343749}}
+* {{NFT player|68680}}
+* {{BeSoccer|a-madibo-277057}}
+
+{{Al-Wakrah SC squad}}
+{{Navboxes
+| title = Qatar squads
+| bg        = #8A1538
+| fg        = white
+| bordercolor = #660033
+| list =
+{{Qatar squad 2019 AFC Asian Cup}}
+{{Qatar squad 2019 Copa América}}
+{{Qatar squad 2021 CONCACAF Gold Cup}}
+{{Qatar squad 2022 FIFA World Cup}}
+{{Qatar squad 2023 CONCACAF Gold Cup}}
+{{Qatar squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Madibo, Assim}}
+[[Category:1996 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Doha]]
+[[Category:Qatari men's footballers]]
+[[Category:21st-century Qatari sportsmen]]
+[[Category:Qatari expatriate men's footballers]]
+[[Category:2. Liga (Austria) players]]
+[[Category:LASK players]]
+[[Category:Cultural y Deportiva Leonesa players]]
+[[Category:KAS Eupen players]]
+[[Category:Al Duhail SC players]]
+[[Category:Al-Gharafa SC players]]
+[[Category:Al-Wakrah SC players]]
+[[Category:Men's association football midfielders]]
+[[Category:Qatari people of Sudanese descent]]
+[[Category:Aspire Academy (Qatar) players]]
+[[Category:Austrian Regionalliga players]]
+[[Category:Austrian 2. Landesliga players]]
+[[Category:Segunda División B players]]
+[[Category:Qatar Stars League players]]
+[[Category:AFC Asian Cup–winning players]]
+[[Category:2019 AFC Asian Cup players]]
+[[Category:2019 Copa América players]]
+[[Category:2021 CONCACAF Gold Cup players]]
+[[Category:Expatriate men's footballers in France]]
+[[Category:Expatriate men's footballers in Belgium]]
+[[Category:Expatriate men's footballers in Austria]]
+[[Category:Expatriate men's footballers in Spain]]
+[[Category:Qatari expatriate sportspeople in France]]
+[[Category:Qatari expatriate sportspeople in Belgium]]
+[[Category:Qatari expatriate sportspeople in Austria]]
+[[Category:Qatari expatriate sportspeople in Spain]]
+[[Category:Qatar men's international footballers]]
+[[Category:Qatar men's youth international footballers]]
+[[Category:Qatar men's under-20 international footballers]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:2023 CONCACAF Gold Cup players]]
+[[Category:2026 FIFA World Cup players]]
+
+
+{{Qatar-footy-midfielder-stub}}

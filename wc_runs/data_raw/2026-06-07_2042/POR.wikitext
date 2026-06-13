@@ -1,0 +1,85 @@
+{{Short description|Men's association football team}}
+{{About|the men's team|the women's team|Portugal women's national football team}}
+{{Pp-semi-indef|small=yes}}
+{{Use British English|date=September 2025}}
+{{Use dmy dates|date=September 2025}}
+{{Infobox national football team
+| Name                     = Portugal
+| Badge                    = Flag of Portugal (official).svg <!-- Do not insert the logo of the Portuguese Football Federation. Under Wikipedia policy, the logo of the Portuguese Football Federation is non-free, and also under Wikipedia policy, this is a child entity. -->
+| Badge_size               = 200px
+| Nickname                 = ''Seleção das Quinas'' (Team of the [[Quincunx|Quincunxes]]) <br />''Lusos'' (Lusitanians) 
+| Association              = [[Portuguese Football Federation|Federação Portuguesa de Futebol]] (FPF)
+| Home Stadium             = [[List of football stadiums in Portugal|Various]]
+| Confederation            = [[UEFA]] (Europe)
+| Coach                    = [[Roberto Martínez]]
+| Captain                  = [[Cristiano Ronaldo]]
+| Most caps                = Cristiano Ronaldo (227)
+| Top scorer               = Cristiano Ronaldo ([[List of international goals scored by Cristiano Ronaldo|143]])
+| FIFA Trigramme           = POR
+| FIFA Rank                = {{FIFA World Rankings|POR}}
+| FIFA max                 = 3
+| FIFA max date            = May–June 2010, October 2012, April–June 2014, September 2017–April 2018
+| FIFA min                 = 43
+| FIFA min date            = August 1998
+| Elo Rank                 = {{World Football Elo Ratings|Portugal}}
+| Elo max                  = 2
+| Elo max date             = June 2006
+| Elo min                  = 42
+| Elo min date             = November 1962
+| pattern_la1              = _por26h
+| pattern_b1               = _por26h
+| pattern_ra1              = _por26h
+| pattern_sh1              = _por26h
+| pattern_so1              = _por26h2l
+| leftarm1                 = a73737
+| body1                    = a73737
+| rightarm1                = a73737
+| shorts1                  = a73737
+| socks1                   = 2d7f7b
+| pattern_la2              = _por26a
+| pattern_b2               = _por26a
+| pattern_ra2              = _por26a
+| pattern_sh2              = _por26a
+| pattern_so2              = _por26al
+| leftarm2                 = ffffff
+| body2                    = ffffff
+| rightarm2                = ffffff
+| shorts2                  = ffffff
+| socks2                   = ffffff
+| First game               = {{fb|ESP|1785}} [[Portugal–Spain football rivalry|3–1]] {{fb-rt|POR}}<br />([[Madrid]], Spain; 18 December 1921)
+| Largest win              = {{fb|POR}} 9–0 {{fb-rt|LUX}}<br />([[Almancil]], Portugal; 11 September 2023)
+| Largest loss             = {{fb|POR}} 0–10 {{fb-rt|ENG}}<br />([[Lisbon]], Portugal; 25 May 1947)
+| World cup apps           = 9
+| World cup first          = 1966
+| World cup best           = Third place ([[1966 FIFA World Cup|1966]])
+| Confederations cup apps  = 1
+| Confederations cup first = [[2017 FIFA Confederations Cup|2017]]
+| Confederations cup best  = Third place ([[2017 FIFA Confederations Cup|2017]])
+| Regional name            = [[UEFA European Championship|European Championship]]
+| Regional cup apps        = 9
+| Regional cup first       = [[UEFA Euro 1984|1984]]
+| Regional cup best        = '''Champions''' ([[UEFA Euro 2016|2016]])
+| 2ndRegional name         = [[UEFA Nations League|Nations League Finals]]
+| 2ndRegional cup apps     = 2
+| 2ndRegional cup first    = [[2019 UEFA Nations League Finals|2019]]
+| 2ndRegional cup best     = '''Champions''' ([[2019 UEFA Nations League Finals|2019]], [[2025 UEFA Nations League Finals|2025]]) 
+| website                  = [https://www.fpf.pt/ fpf.pt]
+| medaltemplates           = 
+{{MedalSport|Men's [[Association football|football]]}}
+{{MedalCompetition|[[FIFA World Cup]]}}
+{{MedalBronze|[[1966 FIFA World Cup|1966 England]]|[[1966 FIFA World Cup squads#Portugal|Team]]}}
+{{MedalCompetition|[[FIFA Confederations Cup]]}}
+{{MedalBronze|[[2017 FIFA Confederations Cup|2017 Russia]]|[[2017 FIFA Confederations Cup squads#Portugal|Team]]}}
+{{MedalCompetition|[[UEFA European Championship]]}}
+{{MedalGold|[[UEFA Euro 2016|2016 France]]|[[UEFA Euro 2016 squads#Portugal|Team]]}}
+{{MedalSilver|[[UEFA Euro 2004|2004 Portugal]]|[[UEFA Euro 2004 squads#Portugal|Team]]}}
+{{MedalCompetition|[[UEFA Nations League]]}}
+{{MedalGold|[[2019 UEFA Nations League Finals|2019 Portugal]]|[[2019 UEFA Nations League Finals squads#Portugal|Team]]}}
+{{MedalGold|[[2025 UEFA Nations League Finals|2025 Germany]]|[[2025 UEFA Nations League Finals squads#Portugal|Team]]}}
+}}
+
+The '''Portugal national football team''' ({{langx|pt|Seleção Portuguesa de Futebol}}) <!-- Please add the Portuguese pronunciation. It must be standard European Portuguese, the Portuguese from Portugal. --> has represented [[Portugal]] in men's international [[Association football|football]] competition since 1921. The national team is controlled by the [[Portuguese Football Federation]] (FPF), the governing body for [[football in Portugal]]. Portugal's home stadium is the [[Estádio Nacional]] in [[Oeiras, Portugal|Oeiras]], located next to its primary [[Training ground (association football)|training ground]] and the FPF headquarters (''[[Cidade do Futebol]]''), but the team usually plays its home matches in more [[List of football stadiums in Portugal|modern stadiums]] throughout the country, such as the [[Estádio da Luz]], [[Estádio José Alvalade]] and the [[Estádio do Dragão]]. The head coach is [[Roberto Martínez]],<ref>{{Cite news |last=Demony |first=Catarina |date=15 December 2022|title=Portugal coach Santos leaves job after World Cup exit |work=Reuters |url=https://www.reuters.com/lifestyle/sports/portugal-coach-fernando-santos-set-leave-job-after-world-cup-defeat-source-2022-12-15/ |access-date=15 December 2022 |archive-date=15 December 2022 |archive-url=https://web.archive.org/web/20221215192057/https://www.reuters.com/lifestyle/sports/portugal-coach-fernando-santos-set-leave-job-after-world-cup-defeat-source-2022-12-15/ |url-status=live }}</ref> and the captain is [[Cristiano Ronaldo]], who holds the team records for most caps and most goals.
+
+Portugal's first participation in a major tournament finals was at the [[1966 FIFA World Cup]], which saw a team featuring [[Ballon d'Or]] winner [[Eusébio]] finish in third place. Since 2000s, Portugal started an uninterrupted streak of qualification for every European Championship and World Cup finals, including a runners-up finish at [[UEFA Euro 2004|Euro 2004]] on home soil. They experienced much of their success in the late 2010s to mid 2020s, during the captaincy of Ballon d'Or winner Cristiano Ronaldo, where they won their first-ever major trophy [[UEFA Euro 2016|Euro 2016]] and the [[UEFA Nations League]] in [[2019 UEFA Nations League|2019]], hosting the [[2019 UEFA Nations League Finals|first finals]], and a record second time in [[2025 UEFA Nations League final|2025]].
+
+Portugal is colloquially referred to as the ''Seleção das [[Coat of arms of Portugal|Quinas]]'' (a synecdoche based on the flag of the country) and has several notable rivalries with other national teams. These include [[Brazil national football team|Brazil]], due to their shared history and close cultural ties;<ref>{{Cite web|url=https://www.telegraph.co.uk/sport/football/world-cup/news/7851928/Portugal-0-Brazil-0-match-report.html |archive-url=https://ghostarchive.org/archive/20220111/https://www.telegraph.co.uk/sport/football/world-cup/news/7851928/Portugal-0-Brazil-0-match-report.html |archive-date=11 January 2022 |url-access=subscription |url-status=live|title=Portugal 0 Brazil 0: match report|first=Jeremy|last=Wilson|date=25 June 2010|via=www.telegraph.co.uk}}{{cbignore}}</ref> [[Spain national football team|Spain]], due to their historical rivalry as Iberian neighbours;<ref name="Fanatics">{{Cite book|first=João Nuno |last=Coelho|title= Fanatics! Power, Identity and Fandom in Football|place=Londres|publisher=Routledge|year=1998|pages=158–172|chapter=“’On the Border’: Some Notes on Football and National Identity in Portugal|isbn=978-1-134-67729-0|chapter-url=https://books.google.com/books?id=0-WFAgAAQBAJ&q=On+the+Border%27%3A+Some+Notes+on+Football+and+National+Identity+in+Portugal%22&pg=PA170|access-date=26 May 2014}}</ref> and [[France national football team|France]], due to several high-stake meetings between both teams at the Euro and World Cup.<ref name="rivalidade">{{cite web |date=5 July 2024 |title=From Xavier to Batta: how controversy shaped Portugal v France rivalry |url=https://www.theguardian.com/football/article/2024/jul/05/how-controversy-shaped-portugal-v-france-rivalry-euro-2024 |access-date=30 September 2024 |work=[[The Guardian]] |language=en}}</ref>

@@ -1,0 +1,17 @@
+{
+ "match": {
+  "slug": "2026-06-14_GER_vs_CUW",
+  "date": "2026-06-14",
+  "home": "GER",
+  "away": "CUW",
+  "round": "group",
+  "group": "E"
+ },
+ "referee": {
+  "name": "Jalal Jiyed(摩洛哥)",
+  "source": "WebSearch多源(MoroccoWorldNews/africasoccer/Elbotola)",
+  "fetched": "2026-06-13_1601"
+ },
+ "brief": "",
+ "_note": "裁判=比赛层人员数据,与教练同规格(结构化+可读brief);brief 由 referee_enrich.py py-Kimi 生成。"
+}

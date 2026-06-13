@@ -1,0 +1,16 @@
+{
+ "team": "COD",
+ "source": "Soccergraph",
+ "url": "https://www.soccergraph.com/2026/05/dr-congo-fifa-world-cup-2026-squad-full-roster-all-player-list.html",
+ "title": "DR Congo FIFA World Cup 2026 squad: Full Roster, All 26 Player List - Soccergraph",
+ "news_date": "2026-06-10",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "asof": "2026-06-10",
+ "fetched": "2026-06-13_0638",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "Group B Squads : Canada , Bosnia Herzegovina , Qatar , Switzerland .\n\nGroup C Squads : Brazil , Morocco , Haiti, Scotland .\n\nGroup D Squads : USMNT, Paraguay , Australia , Turkey .\n\nGroup E Squads : Germany , Curaçao , Ivory Coast , Ecuador .\n\nGroup F Squads : Netherlands , Japan , Sweden , Tunisia .\n\nGroup H Squads : Spain . Cape Verde , Saudi Arabia Uruguay .\n\nGroup I Squads : France , Senegal , Iraq , Norway .\n\nGroup J Squads : Argentina . Algeria . Austria . Jordan .\n\nGroup K Squads : Portugal . DR Congo . Uzbekistan . Colombia .\n\nGroup L Squads : England . Croatia . Ghana Panama.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

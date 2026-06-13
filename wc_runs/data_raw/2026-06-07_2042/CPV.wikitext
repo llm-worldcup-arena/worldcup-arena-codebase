@@ -1,0 +1,72 @@
+{{Short description|Men's association football team}}
+{{About|the men's team|the women's team|Cape Verde women's national football team}}
+{{Use dmy dates|date=September 2022}}
+{{Infobox national football team
+| Name               = Cape Verde
+| Badge              = Cape Verdean Football Federation logo.svg
+| Badge_size         = 150px
+| Nickname           = ''Tubarões Azuis''<br />(Blue Sharks)<ref>{{cite news |title=Conheça as alcunhas das 16 seleções finalistas |trans-title=Meet the nicknames of the 16 finalists |language=pt |url=http://www.abola.pt/nnh/ver.aspx?id=376576 |work=[[A Bola]] |access-date=15 January 2013 |date=2 February 2013 |url-status=dead |archive-url=https://web.archive.org/web/20130116144106/http://www.abola.pt/nnh/ver.aspx?id=376576 |archive-date=16 January 2013 |df=dmy }}</ref><br />''Crioulos'' (Creoles)
+| Association        = [[Cape Verdean Football Federation|Federação Caboverdiana de Futebol]] (FCF)
+| Confederation      = [[Confederation of African Football|CAF]] (Africa)
+| Sub-confederation  = [[West African Football Union|WAFU]] (West Africa)
+| Coach              = [[Bubista]]
+| Captain            = [[Ryan Mendes]]
+| Most caps          = [[Ryan Mendes]] (97)
+| Top scorer         = Ryan Mendes (22)<ref>{{cite web |url=https://www.rsssf.org/miscellaneous/century.html |title=Players with 100+ Caps and 30+ International Goals |author1=Mamrud, Roberto |author2=Stokkermans, Karel |website=[[RSSSF]] |access-date=17 February 2011 |archive-date=25 March 2023 |archive-url=https://web.archive.org/web/20230325005412/https://www.rsssf.org/miscellaneous/century.html |url-status=live }}</ref>
+| Home Stadium       = [[Estádio Nacional de Cabo Verde]]
+| FIFA Trigramme     = CPV
+| FIFA Rank          = {{FIFA World Rankings|CPV}}
+| FIFA max           = 27
+| FIFA max date      = February 2014
+| FIFA min           = 182
+| FIFA min date      = April 2000
+| Elo Rank           = {{World Football Elo Ratings|Cape Verde}}
+| Elo max            = 69
+| Elo max date       = 31 March 2015
+| Elo min            = 146
+| Elo min date       = August 1998
+| pattern_la1        = _cpv26h
+| pattern_b1         = _cpv26h
+| pattern_ra1        = _cpv26h
+| pattern_sh1        = _cpv26h
+| pattern_so1        = _cpv26hl
+| leftarm1           = 1A3CB0
+| body1              = 1A3CB0
+| rightarm1          = 1A3CB0
+| shorts1            = 1A3CB0
+| socks1             = 1A3CB0
+| pattern_la2        = _cpv26a
+| pattern_b2         = _cpv26a
+| pattern_ra2        = _cpv26a
+| pattern_sh2        = _cpv26a
+| pattern_so2        = _cpv26al
+| leftarm2           = FFFFFF
+| body2              = FFFFFF
+| rightarm2          = FFFFFF
+| shorts2            = FFFFFF
+| socks2             = FFFFFF
+| pattern_la3        = _cpv26t
+| pattern_b3         = _cpv26t
+| pattern_ra3        = _cpv26t
+| pattern_sh3        = _cpv26t
+| pattern_so3        = _cpv26tl
+| leftarm3           = FF0000
+| body3              = FF0000
+| rightarm3          = FF0000
+| shorts3            = FF0000
+| socks3             = FF0000
+| First game         = {{fb|CPV|1975}} 0–1 {{fb-rt|GUI}}<br />([[Guinea-Bissau]]; 19 April 1978)
+| Largest win        = {{nowrap begin}} {{fb|CPV}} 7–1 {{fb-rt|STP}}<br />([[Praia]], Cape Verde; 13 June 2015)<br>{{fb|LIE}} 0–6 {{fb-rt|CPV}}<br>([[San Pedro del Pinatar]], [[Spain]]; 25 March 2022){{nowrap end}}
+| Largest loss       = {{nowrap begin}} {{fb|SEN}} 5–1 {{fb-rt|CPV|1975}}<br />([[Mali]]; 12 February 1981)<br />{{fb|CPV}} 0–4 {{fb-rt|GHA}}<br />(Praia, Cape Verde; 8 October 2005)<br />{{fb|GUI}} 4–0 {{fb-rt|CPV}}<br />([[Conakry]], [[Guinea]]; 9 September 2007)<br />{{fb|BFA}} 4–0 {{fb-rt|CPV}}<br />(Ouagadougou, Burkina Faso; 14 November 2017)<br />{{fb|ALG}} 
+5–1 {{fb-rt|CPV}}<br />([[Constantine, Algeria|Constantine]], [[Algeria]]; 12 October 2023) {{nowrap end}}
+| Regional name      = [[Africa Cup of Nations]]
+| Regional cup apps  = 4
+| Regional cup first = [[2013 Africa Cup of Nations|2013]]
+| Regional cup best  = Quarter-finals ([[2013 Africa Cup of Nations|2013]], [[2023 Africa Cup of Nations|2023]])
+|World cup first=2026|World cup apps=1|World cup best=TBD ([[2026 FIFA World Cup|2026]])}}
+
+The '''Cape Verde national football team''' ([[Portuguese language|Portuguese]]: {{Lang|pt|Seleção nacional de futebol de Cabo Verde}}; recognized as '''Cabo Verde''' by [[FIFA]]<ref>{{Cite web |title=Cabo Verde |url=https://www.fifa.com/fifa-world-ranking/CPV |access-date=4 August 2023 |website=[[FIFA]]}}</ref>) represents [[Cape Verde]] in men's international [[Association football|football]], and is controlled by the [[Cape Verdean Football Federation]]. The team is nicknamed ''Tubarões Azuis'' (Blue Sharks in Portuguese). The national team played its first match on 19 April 1978 against [[Guinea national football team|Guinea]], a match they lost 1–0. Following the federation's affiliation with the [[Confederation of African Football]] and FIFA in 1982, the national team entered [[Africa Cup of Nations]] qualification for the first time in 1992 and made its first [[FIFA World Cup qualification]] appearance in 2003. The team is coached by [[Bubista|Pedro Leitão Brito]].
+
+Also known as "Creoles" ([[Portuguese language|Portuguese]]: {{Lang|pt|"Crioulos"}}), Cape Verde plays the majority of its home matches at the [[Estádio Nacional de Cabo Verde]]. They qualified for the [[Africa Cup of Nations]] for the first time [[2013 Africa Cup of Nations|2013]]. Since then, they also appeared in the [[2015 Africa Cup of Nations|2015]], [[2021 Africa Cup of Nations|2021]] and [[2023 Africa Cup of Nations|2023]] tournaments, reaching the quarter-finals in 2013 and 2023.
+
+Cape Verde qualified to the [[FIFA World Cup]] for the first time in [[2026 FIFA World Cup|2026]]. By doing so, they became the smallest country by land area and the second least populated (after [[Iceland national football team|Iceland]]) to qualify for the World Cup, with a land area of {{convert|4033|km2|sqmi}} and a population of just under 525,000 until [[Curaçao national football team|Curaçao]] broke their land area and population records five weeks later when they qualified for the same tournament.<ref>{{cite web |author1=Stevens, Rob |title=Cape Verde become second-smallest nation to reach World Cup |url=https://www.bbc.com/sport/football/articles/c04q0gd0yedo |url-status= |archive-url= |archive-date= |access-date=13 October 2025 |website=[[BBC]] |date=13 October 2025 }}</ref><ref name=bbc>{{cite web|url= https://www.bbc.com/sport/football/articles/c5yldj6nz46o|title='Biggest thing since independence' - Cape Verde celebrates World Cup spot|date=14 October 2025|work=BBC Sport|accessdate=15 October 2025}}</ref>

@@ -1,0 +1,33 @@
+{
+ "team": "SUI",
+ "coach": {
+  "name_zh": "穆拉特·雅金",
+  "name_en": "Murat Yakin",
+  "nationality": "Switzerland",
+  "career_since": "2006",
+  "person_id": "per_murat_yakin"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 穆拉特·雅金自2006年开启执教生涯，现任瑞士国家队主帅，正率队征战2026年世界杯。\n- 雅金坚持新老结合建队思路，既倚重扎卡、罗德里格斯等五届世界杯老将，也征召曼赞比等新人，并破格选用久疏国脚的法斯纳赫特与伊滕。\n- 队长格拉尼特·扎卡以144次出场纪录连续第四次出征世界杯，成为队史第一人。\n- 瑞士队史13次入围世界杯，1934、1938、1954年三度闯入八强，但近三届均止步16强，自1954年后未能再进四分之一决赛。\n- 预选赛瑞士4胜2平头名出线，14-2的得失球比展现统治力，恩博洛打入4球成为队内射手王。\n- 2026年世界杯瑞士与卡塔尔、波黑、加拿大同处B组，小组赛将横跨旧金山、洛杉矶、温哥华三城进行。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.85,
+  "issues": [
+   "远古历史数据对预测价值低"
+  ]
+ },
+ "brief_fetched": "2026-06-13_1750",
+ "brief_info_chars": 6000,
+ "coach_xverify": {
+  "canonical": "Murat Yakin",
+  "confidence": "high",
+  "discrepancy": "",
+  "sources_agree": 5,
+  "n_sources": 8
+ }
+}

@@ -1,0 +1,224 @@
+{{short description|South Korean footballer}}
+{{family name hatnote|[[Kim (Korean surname)|Kim]]||lang=Korean}}
+{{other people||Kim Jin-kyu (disambiguation){{!}}Kim Jin-kyu}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+| name          = Kim Jin-gyu
+| fullname      = Kim Jin-gyu
+| image         = 191208 부산아이파크 승강PO, 김진규 3.jpg
+| caption       = Kim in December 2019
+| birth_date    = {{birth date and age|1997|2|24|df=y}}
+| birth_place   = [[Pohang]], South Korea
+| height        = {{height|m=1.77}}
+| currentclub   = [[Jeonbuk Hyundai Motors]]
+| clubnumber    = 97
+| position      = [[Midfielder]]
+| youthyears1   = 2012–2015
+| youthclubs1   = [[Busan IPark]]
+| years1        = 2015–2022  
+| clubs1 = [[Busan IPark]] 
+| caps1 = 128
+| goals1 = 17
+| years2 = 2022–       
+| clubs2 = [[Jeonbuk Hyundai Motors]] 
+| caps2 = 90
+| goals2 = 12
+| years3 = 2023–2024       
+| clubs3 = → [[Gimcheon Sangmu FC|Gimcheon Sangmu]] ([[Conscription in South Korea|draft]])
+| caps3 = 47
+| goals3 = 6
+| nationalyears1 = 2015
+| nationalteam1  = [[South Korea national under-20 football team|South Korea U20]]
+| nationalcaps1  = 3 
+| nationalgoals1 = 0
+| nationalyears2 = 2019–2021
+| nationalteam2  = [[South Korea national under-23 football team|South Korea U23]]
+| nationalcaps2  = 13
+| nationalgoals2 = 1
+| nationalyears3 = 2022–
+| nationalteam3  = [[South Korea national football team|South Korea]]
+| nationalcaps3  = 22
+| nationalgoals3  = 3
+| medaltemplates = 
+{{MedalSport| Men's [[Association football|football]]}}
+{{MedalCountry|{{Fb|KOR}}}}
+{{Medal|Competition|[[EAFF E-1 Football Championship|EAFF Championship]]}}
+{{Medal|RU|[[2022 EAFF E-1 Football Championship|2022 Japan]]|[[2022 EAFF E-1 Football Championship Final squads#South Korea|Team]]}}
+{{MedalCompetition|[[AFC U-23 Championship]]}}
+{{Medal|G|[[2020 AFC U-23 Championship|2020 Thailand]]|}}
+| pcupdate      = 17 May 2026
+| ntupdate      = 3 June 2026
+}}
+{{Infobox Korean name/auto|hangul=%김진규|hanja=金鎮圭}}
+
+'''Kim Jin-gyu''' ({{Korean|hangul=김진규}}; born 24 February 1997) is a South Korean [[Association football|footballer]] who plays as a [[midfielder]] for [[Jeonbuk Hyundai Motors]] and the [[South Korea national football team|South Korea national team]].
+
+==Career==
+Kim signed a professional contract with [[Busan IPark]] in January 2015. Kim made his debut for the club on 4 July 2015 in a 1–0 defeat to [[Seongnam FC]]. He scored his professional debut goal on 27 July against [[Daejeon Hana Citizen|Daejeon Citizens]] to become the youngest goal scorer in the [[K League 1]].<ref>{{cite news |url=http://www.sportsseoul.com/news/read/267940 |script-title=ko:'K리그 최연소 골' 부산 김진규 "JS컵 큰 교훈됐다" |publisher=Sports Seoul |date=2015-07-28 |language=ko |access-date=2016-01-01 |archive-url=https://web.archive.org/web/20160304105751/http://www.sportsseoul.com/news/read/267940 |archive-date=2016-03-04 |url-status=dead }}</ref>
+
+Under [[Choi Yun-kyum]] in 2018, Kim featured regularly on the left side of a front three. However, Choi's replacement [[Cho Deok-je]] preferred to use Kim in central midfield. Under Cho, Kim was a regular for the side that went on to gain promotion to the K League 1.
+
+In January 2020, Kim played for the [[South Korea national under-23 football team|South Korea U-23 team]] at the [[2020 AFC U-23 Championship|AFC U23 Championship]]. The team won the tournament to qualify for the [[2020 Summer Olympics]].
+
+In July 2021, Kim was named in the final squad for the [[2020 Summer Olympics]]. He made three appearances in South Korea's run to the quarter-finals.
+
+On 17 March 2022, [[Jeonbuk Hyundai Motors]] announced the official signing of Kim. He made his debut game for [[Jeonbuk Hyundai Motors]] on 19 March 2022 in a draw against [[Gimcheon Sangmu]].
+
+==Career statistics==
+===Club===
+''As of 17 May 2026''<ref>{{Soccerway|jin-gyu-kim/401988|accessdate=23 July 2025}}</ref>
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+! Division  
+! Apps !! Goals
+! Apps !! Goals
+! Apps !! Goals
+! Apps !! Goals
+! Apps !! Goals
+|-
+|rowspan="9"|[[Busan IPark]]
+|[[2015 K League Classic|2015]]|||[[K League 1]]||14||1||0||0||colspan=2|—||1{{efn|name=prom|Appearances in K League promotion-relegation playoffs}}||0||15||1
+|-
+|[[2016 K League Challenge|2016]]||rowspan="4"|[[K League 2]]
+||6||0||1||0||colspan=2|—||colspan=2|—||7||0
+|-
+|[[2017 K League Challenge|2017]]
+||10||0||2||1||colspan=2|—||colspan=2|—||12||1
+|-
+|[[2018 K League Challenge|2018]]
+||31||7||3||1||colspan=2|—||3{{efn|name=prom}}||1||37||9
+|-
+|[[2019 K League 2|2019]]
+||31||4||1||0||colspan=2|—||3{{efn|name=prom}}||0||35||4
+|-
+|[[2020 K League 1|2020]]||K League 1
+||8||1||1||1||colspan=2|—||colspan=2|—||9||2
+|-
+|[[2021 K League 2|2021]]||rowspan="2"|K League 2
+||27||4||0||0||colspan=2|—||colspan=2|—||27||4
+|-
+|[[2022 K League 2|2022]]
+||1||0||1||0||colspan=2|—||colspan=2|—||2||0
+|-
+! colspan="2" |Total
+!128!!17!!9!!3!!colspan="2"|—!!7!!1!!144!!21
+|-
+|rowspan="5"|[[Jeonbuk Hyundai Motors]]
+|[[2022 K League 1|2022]]||rowspan="4"|K League 1
+||26||2||5||1||9{{efn|name=ACLE|Appearances in [[AFC Champions League Elite]]}}||1||colspan=2|—||40||4
+|-
+|[[2024 K League 1|2024]]
+||14||4||0||0||colspan=2|—||2{{efn|name=prom}}||0||16||4
+|-
+|[[2025 K League 1|2025]]
+||35||5||5||0||4{{efn|name=ACLT|Appearances in [[AFC Champions League Two]]}}||0||colspan=2|—||44||5
+|-
+|[[2026 K League 1|2026]]
+||15||1||0||0||0||0||1{{efn|name=KLSC|Appearance in [[K League Super Cup]]}}||0||16||1
+|-
+! colspan="2" |Total
+!90!!12!!10!!1!!13!!1!!3!!0!!116!!14
+|-
+|rowspan="3"|[[Gimcheon Sangmu FC|Gimcheon Sangmu]] ([[Conscription in South Korea|draft]])
+|[[2023 K League 2|2023]]|||K League 2
+||32||6||0||0||colspan=2|—||colspan=2|—||32||6
+|-
+|[[2024 K League 1|2024]]||K League 1
+||15||0||0||0||colspan=2|—||colspan=2|—||15||0
+|-
+! colspan="2" |Total
+!47!!6!!0!!0!!colspan="2"|—!!colspan="2"|—!!47!!6
+|-
+! colspan=3 | Career total
+!265||35||19||4||13||1||10||1||307||41
+|}
+{{notelist}}
+
+===International===
+:''Scores and results list South Korea's goal tally first, score column indicates score after each Kim goal''.<ref name="NFT">{{cite web |url=https://www.kfa.or.kr/archive/player_record.php?search_val=%EA%B9%80%EC%A7%84%EA%B7%9C|title=Kim, Jin-gyu |language=ko |access-date=15 January 2022}}</ref>
+
+{| class="wikitable sortable"
+|+ List of international goals scored by Kim Jin-kyu
+|-
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+|-
+| align="center"|1 || 15 January 2022 || [[Mardan Sports Complex]], [[Antalya]], Turkey || {{fb|ISL}} || align="center"|4–1 || align="center"|5–1 || [[Exhibition game#Association football|Friendly]]
+|-
+| align="center"|2 || 21 January 2022 || Mardan Sports Complex, Antalya, Turkey || {{fb|MDA}} || align="center"|1–0 || align="center"|4–0 || Friendly
+|-
+| align="center"|3 || 5 June 2025 || [[Basra International Stadium]], [[Basra]], Iraq || {{fb|IRQ}} || align="center"|1–0 || align="center"|2–0 || [[2026 FIFA World Cup qualification – AFC third round|2026 FIFA World Cup qualification]] 
+|}
+
+==Honours==
+'''Jeonbuk Hyundai Motors'''
+* [[K League 1]]: [[2025 K League 1|2025]]
+* [[Korean FA Cup]]: [[2022 Korean FA Cup|2022]], [[2025 Korea Cup|2025]]
+* [[K League Super Cup]]: 2026
+
+'''Gimcheon Sangmu'''
+* [[K League 2]]: [[2023 K League 2|2023]]
+
+'''South Korea U23'''
+* [[AFC U-23 Championship]]: [[2020 AFC U-23 Championship|2020]]
+
+'''Individual'''
+* [[K League Best XI|K League 2 Best XI]]: [[2023 K League 2|2023]]
+* [[K League Best XI|K League 1 Best XI]]: [[2025 K League 1|2025]]
+
+==References==
+{{reflist}}
+
+== External links ==
+*{{K League player}}
+
+{{Jeonbuk Hyundai Motors squad}}
+{{Navboxes
+|title= South Korea squads
+|bg= #C21E2B
+|fg= white
+|bordercolor= #0047A0
+|list1=
+{{South Korea men's football squad 2020 Summer Olympics}}
+{{South Korea squad 2026 FIFA World Cup}}
+}}
+{{Navboxes
+| title = Awards
+| bg = gold
+| fg = navy
+| list1 =
+{{2023 K League 2 Best XI}}
+{{2025 K League 1 Best XI}}
+}}
+
+{{DEFAULTSORT:Kim, Jin-kyu}}
+[[Category:1997 births]]
+[[Category:Living people]]
+[[Category:Footballers from Pohang]]
+[[Category:Men's association football midfielders]]
+[[Category:South Korean men's footballers]]
+[[Category:Busan IPark players]]
+[[Category:Jeonbuk Hyundai Motors players]]
+[[Category:Gimcheon Sangmu FC players]]
+[[Category:K League 1 players]]
+[[Category:K League 2 players]]
+[[Category:Footballers at the 2020 Summer Olympics]]
+[[Category:Olympic footballers for South Korea]]
+[[Category:21st-century South Korean sportsmen]]
+[[Category:2026 FIFA World Cup players]]
+
+{{SouthKorea-footy-midfielder-stub}}

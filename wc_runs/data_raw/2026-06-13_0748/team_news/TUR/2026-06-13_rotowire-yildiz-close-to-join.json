@@ -1,0 +1,16 @@
+{
+ "team": "TUR",
+ "source": "RotoWire",
+ "url": "https://www.rotowire.com/soccer/headlines/kenan-yildiz-injury-close-to-join-team-518745",
+ "title": "Kenan Yildiz Injury: Close to join team | RotoWire",
+ "news_date": "2026-06-13",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "asof": "2026-06-13",
+ "fetched": "2026-06-13_0748",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "Yildiz (calf) is close to join team training, according to coach Vincenzo Montella and is expected to be one of Turkey's most important attacking weapons throughout the World Cup, according to NTV Spor. \"Kenan will also start to join us.\"\n\nYildiz ended the club season with 11 goals, nine assists, 122 shots and 94 chances created across 46 Juventus appearances, and will head into the tournament as one of the most exciting young attackers in the competition alongside compatriot Arda Guler. Turkey's opener against Australia on June 14 should give him a prime opportunity to make an immediate impact, and he should be fit for the match.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

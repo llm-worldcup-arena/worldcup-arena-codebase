@@ -1,0 +1,61 @@
+{{short description|Saudi Arabian footballer}}
+{{Infobox football biography
+| name        = Mohammed Abu Al-Shamat
+| image       =  
+| fullname    = Mohammed Waheeb Saeed Abu Al-Shamat
+| birth_date  = {{birth date and age|2002|08|11|df=yes}}
+| birth_place = [[Jeddah]], [[Saudi Arabia]]
+| height      = {{height|m=1.70|precision=}}
+| position    = [[Defender (association football)#Full-back|Right-back]]
+| currentclub = [[Al-Qadsiah FC|Al-Qadsiah]]
+| clubnumber  = 2
+| youthyears1 = 2010–2017
+| youthclubs1 = [[Al-Ahli Saudi FC|Al-Ahli]]
+| youthyears2 = 2017–2022
+| youthclubs2 = [[Al-Qadsiah FC|Al-Qadsiah]]
+| years1 = 2022–
+| clubs1 = [[Al-Qadsiah FC|Al-Qadsiah]]
+| caps1  = 103
+| goals1 = 4
+| nationalyears1 = 2023–2024
+| nationalteam1  = [[Saudi Arabia national under-23 football team|Saudi Arabia U23]]
+| nationalcaps1  = 12
+| nationalgoals1 = 1
+| nationalyears2 = 2023–
+| nationalteam2  = [[Saudi Arabia national football team|Saudi Arabia]]
+| nationalcaps2  = 6
+| nationalgoals2 = 0
+| pcupdate       = 21 May 2026
+| ntupdate       = 6 June 2026 (UTC)
+}}
+'''Mohammed Waheeb Abu Al-Shamat''' ({{langx|ar|محمد وهيب أبو الشامات}}; born 11 August 2002) is a [[Saudi Arabia]]n [[association football|footballer]] who plays as a [[Defender (association football)#Full-back|right-back]] for [[Al-Qadsiah FC|Al-Qadsiah]] and the [[Saudi Arabia national football team|Saudi Arabia national team]].<ref>{{cite web |title=Mohammed Waheeb|url=https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%84%D8%A7%D8%B9%D8%A8/%D9%85%D8%AD%D9%85%D8%AF-%D9%88%D9%87%D9%8A%D8%A8-%D8%A7%D9%94%D8%A8%D9%88-%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D8%A7%D8%AA/ykqvPc8RRh4nOzf7AjW_J}}</ref><ref>{{cite web |title=محمد أبوالشامات|url=https://www.ksa-team.com/players.php?id=1300}}</ref><ref>{{cite web |title=محمد أبوالشامات
+|url=https://www.365scores.com/ar/football/player/w.-saleh-94676}}</ref><ref>{{cite web|title=Mohammed Abu Al Shamat|url=https://www.spl.com.sa/en/players/84134/mohammed-abu-al-shamat}}</ref>
+
+==Club career==
+Abu Al-Shamat started his career at the age of 8 in youth teams of [[Al-Ahli Saudi FC|Al-Ahli]]. He moved to [[Al-Qadsiah FC|Al-Qadsiah]] in 2017. On 5 November 2020, he signed his first professional contract with Al-Qadsiah.<ref>{{cite web |title="القادسية" يوقع 10 عقود احترافية مع "شبابه" |date=5 November 2020 |url=https://akhbaar24.argaam.com/article/detail/518288}}</ref> On 13 August 2024, Abu Al-Shamat renewed his contract with Al-Qadsiah.<ref>{{cite web |title=القادسية يجدد عقد أبوالشامات حتى 2029|url=https://www.al-jazirah.com/2024/20240813/sp8.htm#google_vignette}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Scorebar}}
+
+{{Al-Qadisiyah FC squad}}
+{{Saudi Arabia squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Abu Al-Shamat, Mohammed}}
+[[Category:Living people]]
+[[Category:2002 births]]
+[[Category:Footballers from Jeddah]]
+[[Category:Men's association football full-backs]]
+[[Category:Saudi Arabian men's footballers]]
+[[Category:21st-century Saudi Arabian sportsmen]]
+[[Category:Al-Ahli Saudi FC players]]
+[[Category:Al Qadsiah FC players]]
+[[Category:Saudi First Division League players]]
+[[Category:Saudi Pro League players]]
+[[Category:Saudi Arabia men's international footballers]]
+[[Category:2026 FIFA World Cup players]]
+
+
+{{SaudiArabia-footy-defender-stub}}

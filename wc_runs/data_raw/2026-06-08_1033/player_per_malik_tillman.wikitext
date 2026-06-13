@@ -1,0 +1,317 @@
+{{Short description|American soccer player (born 2002)}}
+{{Use American English|date=June 2020}}
+{{Use mdy dates|date=July 2025}}
+{{Infobox football biography
+| name = Malik Tillman
+| image = Malik Tillman USMNT v Belgium Mar 28 2026-70 (cropped).jpg
+| caption = Tillman with the [[United States men's national soccer team|United States]] in 2026
+| full_name = Malik Leon Tillman<ref>{{cite web |url=https://www.bfv.de/spieler/malik-leon-tillman/00QBTG9JN4000000VV0AG819VSKRC3V1 |title=Malik Leon Tillman |work=[[Bavarian Football Association]] |access-date=January 7, 2022 |language=de}}</ref>
+| birth_date = {{birth date and age|2002|5|28}}
+| birth_place = [[Nuremberg]], Germany
+| height = {{convert|1.87|m|order=flip}}<ref>{{cite web |url=https://www.bayer04.de/en-us/player/werkself/bayer-04-leverkusen/malik-tillman |title=Malik Tillman |publisher=Bayer 04 Leverkusen |access-date=May 28, 2026 }}</ref>
+| position = [[Attacking midfielder]]
+| currentclub = [[Bayer 04 Leverkusen|Bayer Leverkusen]]
+| clubnumber = 10
+| youthyears1 = {{0|0000}}–2015
+| youthclubs1 = [[SpVgg Greuther Fürth|Greuther Fürth]]
+| youthyears2 = 2015–2020
+| youthclubs2 = [[FC Bayern Munich Junior Team|Bayern Munich]]
+| years1 = 2020–2022
+| clubs1 = [[FC Bayern Munich II|Bayern Munich II]]
+| caps1 = 25
+| goals1 = 9
+| years2 = 2021–2024
+| clubs2 = [[FC Bayern Munich|Bayern Munich]]
+| caps2 = 4
+| goals2 = 0
+| years3 = 2022–2023
+| clubs3 = → [[Rangers F.C.|Rangers]] (loan)
+| caps3 = 28
+| goals3 = 10
+| years4 = 2023
+| clubs4 = → [[Jong PSV]] (loan)
+| caps4 = 1
+| goals4 = 0
+| years5 = 2023–2024
+| clubs5 = → [[PSV Eindhoven|PSV]] (loan)
+| caps5 = 28
+| goals5 = 9
+| years6 = 2024–2025
+| clubs6 = [[PSV Eindhoven|PSV]]
+| caps6 = 26
+| goals6 = 12
+| years7 = 2025–
+| clubs7 = [[Bayer 04 Leverkusen|Bayer Leverkusen]]
+| caps7 = 29
+| goals7 = 6
+| nationalyears1 = 2016
+| nationalteam1 = [[United States boys' national under-15 soccer team|United States U15]]
+| nationalcaps1 = 2
+| nationalgoals1 = 0
+| nationalyears2 = 2017
+| nationalteam2 = [[Germany national under-15 football team|Germany U15]]
+| nationalcaps2 = 1
+| nationalgoals2 = 0
+| nationalyears3 = 2018
+| nationalteam3 = [[Germany national under-16 football team|Germany U16]]
+| nationalcaps3 = 3
+| nationalgoals3 = 0
+| nationalyears4 = 2018–2019
+| nationalteam4 = [[Germany national under-17 football team|Germany U17]]
+| nationalcaps4 = 11
+| nationalgoals4 = 2
+| nationalyears5 = 2021
+| nationalteam5 = [[Germany national under-20 football team|Germany U20]]
+| nationalcaps5 = 2
+| nationalgoals5 = 1
+| nationalyears6 = 2021–2022
+| nationalteam6 = [[Germany national under-21 football team|Germany U21]]
+| nationalcaps6 = 4
+| nationalgoals6 = 3
+| nationalyears7 = 2022–
+| nationalteam7 = [[United States men's national soccer team|United States]]
+| nationalcaps7 = 30
+| nationalgoals7 = 3
+| club-update = 17:28, May 18, 2026 (UTC)
+| nationalteam-update = June 6, 2026
+| medaltemplates = {{MedalCountry|{{fb|USA}}}}
+{{MedalSport|Men's [[association football|soccer]]}}
+{{MedalCompetition|[[CONCACAF Gold Cup]]}}
+{{Medal|RU|[[2025 CONCACAF Gold Cup|2025 Canada–United States]]|}}
+{{Medal|Competition|[[CONCACAF Nations League]]}}
+{{Medal|W|[[2024 CONCACAF Nations League Finals|2024]]|}}
+}}
+
+'''Malik Leon Tillman''' (born May 28, 2002) is a professional [[Association football|soccer]] player who plays as an [[attacking midfielder]] for {{German football updater|BaLeverk}} club [[Bayer 04 Leverkusen|Bayer Leverkusen]]. Born in Germany, he represents the [[United States men's national soccer team|United States national team]].
+
+Tillman is a graduate of [[FC Bayern Munich|Bayern Munich]]'s youth system, which he joined in 2015 from [[SpVgg Greuther Fürth|Greuther Fürth]]. He made his debut for Bayern's first-team in August 2021, having previously featured for [[FC Bayern Munich II|Bayern Munich II]]. In July 2022, he signed for [[Scottish Premiership]] club [[Rangers F.C.|Rangers]] on loan, where he won the [[PFA Scotland Young Player of the Year]] award for the [[2022–23 in Scottish football|2022–23]] season. In August 2023, he went on loan to [[Eredivisie]] club [[PSV Eindhoven]] and won the league in [[2023–24 Eredivisie|2023–24]], with the club permanently signing him in May 2024, winning the league again in [[2024–25 Eredivisie|2024–25]]. In July 2025, Tillman signed a five-year contract to Bundesliga club Bayer Leverkusen for $41 million.
+
+Tillman represented both his country of birth, Germany, and the United States at youth international level. He made his senior international debut for the United States in June 2022.
+
+== Club career ==
+=== Bayern Munich ===
+Born in [[Nuremberg]], Tillman was part of the youth squad at [[SpVgg Greuther Fürth|Greuther Fürth]] before joining [[FC Bayern Munich|Bayern Munich]] along with his brother [[Timothy Tillman]] in 2015.<ref name="Tillman">{{cite news |title=Justin Butler, Chris Richards, and the nascent US stars earning their stripes at Bayern Munich |url=https://www.bundesliga.com/en/bundesliga/news/bayern-munich-s-young-americans-butler-richards-booth-tillman-usa-usmnt-3711 |accessdate=June 10, 2020 |work=Bundesliga}}</ref> He was quickly promoted to the under-19 squad after putting in good performances for the under-17s.<ref name="Tillman"/>
+
+Tillman made his professional debut on June 9, 2020, when he came on as a substitute for [[FC Bayern Munich II|Bayern Munich II]], the club's reserve side, against [[FSV Zwickau|Zwickau]]. He started and played 57 minutes as Bayern Munich II won 2–0.<ref>{{cite web |title=Bayern Munich 2-0 Zwickau |url=https://us.soccerway.com/matches/2020/06/09/germany/3-liga/fc-bayern-munchen-ii/fsv-zwickau/3053438/ |website=Soccerway}}</ref>
+
+He was promoted to Bayern Munich's senior team during the first round of the [[2021–22 DFB-Pokal]] against [[Bremer SV]] on August 25, 2021. He came on as a substitute at the start of the second half and scored a goal in the 12–0 victory.<ref>{{cite news|url=https://7news.com.au/sport/soccer/bayern-munich-win-12-0-in-german-cup-rout-c-3782743 |title=Bayern Munich win 12-0 in German Cup rout |website=7news.com.au |date=August 25, 2021 |access-date=December 17, 2022}}</ref>
+
+He made his [[2021–22 UEFA Champions League|Champions League]] debut on December 8, 2021, coming on as a substitute late in the second half against [[FC Barcelona|Barcelona]].<ref>{{cite web |url=https://fcbayern.com/en/matches/profis/champions-league/2021-2022/fc-bayern-muenchen-fc-barcelona-08-12-2021/report |title=Blistering Reds down Barca |publisher=FC Bayern Munich |date=December 8, 2021 }}</ref>
+
+==== Loan to Rangers ====
+[[File:Malik Tillman 2022.jpg|thumb|left|200px|Tillman with [[Rangers F.C.|Rangers]] in 2022.]]
+
+On July 15, 2022, Tillman joined Scottish club [[Rangers F.C.|Rangers]] on a season long loan, with the club having an exclusive option to buy.<ref>{{Cite web |title=Rangers Sign Malik Tillman From Bayern Munich |url=https://www.rangers.co.uk/Article/rangers-sign-malik-tillman-from-bayern-munich/RzOQJYPLQs6hEaZSKnfa9 |access-date=July 15, 2022 |website=rangers.co.uk}}</ref> He made his debut for the club against [[Scottish Premiership]] side [[Livingston F.C.|Livingston]], as a second-half substitute, during a 2–1 win on July 30.<ref>{{ cite news | url=https://www.bbc.co.uk/sport/football/62275140 | title=Livingston 1-2 Rangers | work=BBC Sport | date=July 30, 2022 }}</ref> He scored his first goal for Rangers in a [[2022–23 UEFA Champions League|Champions League]] qualifier against Belgian side [[Royale Union Saint-Gilloise|Union Saint-Gilloise]] on August 9,<ref>{{ cite news | url=https://www.bbc.co.uk/sport/football/62460304  | title=Rangers 3-0 Union Saint-Gilloise| work=BBC Sport | date=August 10, 2022 }}</ref> and followed this by netting the opening goal in a 4–0 league victory at home over [[St Johnstone F.C.|St Johnstone]] three days later.<ref>{{ cite news | url=https://www.bbc.co.uk/sport/football/62445663  | title=Rangers 4-0 St Johnstone| work=BBC Sport | date=August 13, 2022 }}</ref>
+
+=== PSV ===
+On August 10, 2023, Tillman extended his contract with Bayern Munich until 2026.<ref>{{cite web |url=https://fcbayern.com/de/news/2023/08/spielpraxis-in-eindhoven-fc-bayern-verlaengert-vertrag-mit-malik-tillman |title=FC Bayern verlängert Vertrag mit Malik Tillman |publisher=FC Bayern Munich |language=de |date=August 10, 2023 }}</ref> On the same day, he joined [[Eredivisie]] club [[PSV Eindhoven|PSV]] on loan with an option to buy.<ref>{{cite web |url=https://www.psv.nl/nieuwspagina/artikel/transfer-psv-versterkt-middenveld-met-malik-tillman-.htm |title=Transfer {{!}} PSV versterkt middenveld met Malik Tillman |publisher=PSV |language=nl |date=August 10, 2023 }}</ref> On September 2, he scored his first goal on his Eredivisie debut in a 4–0 away win over [[RKC Waalwijk|Waalwijk]].<ref>{{cite web |url=https://www.goal.com/en/lists/usmnt-ricardo-pepi-malik-tillman-sergino-dest-psv/bltcd37bde723c45b12 |title=Malik Tillman scores off bench for PSV as USMNT stars Sergino Dest and Ricardo Pepi feature in lopsided win over RKC Waalwijk |publisher=Goal.com |date=September 2, 2023 }}</ref> On October 3, he provided his first Champions League assist in a 2–2 draw with [[Sevilla FC|Sevilla]].<ref>{{cite web |url=https://sbisoccer.com/2023/10/malik-tillman-makes-impact-in-psvs-ucl-draw-with-sevilla |title=Malik Tillman makes impact in PSV's UCL draw with Sevilla |publisher=SBI Soccer |date=October 3, 2023 }}</ref>
+
+On May 10, 2024, PSV opted to activate the buy option, securing Tillman's transfer permanently by finalizing a contract extending until 2028.<ref>{{cite web |url=https://www.psv.nl/media/artikel/transfer-malik-tillman-tekent-tot-medio-2028-bij-psv |title=Transfer {{!}} Malik Tillman tekent tot medio 2028 bij PSV |publisher=PSV |language=nl |date=May 10, 2024 }}</ref> The transfer fee was reportedly €12 million, with a buyback clause to Bayern of approximately €35 million.<ref>{{cite web |url=https://tribuna.com/de/news/fcbayern-2024-05-11-so-viel-geld-musste-fc-bayern-zahlen-um-malik-tillman-zuruckzuholen-topquelle/ |title=So viel Geld müsste FC Bayern zahlen, um Malik Tillman zurückzuholen - Top-Quelle|trans-title=That's how much money FC Bayern would have to pay to bring Malik Tillman back - top source |publisher=Tribuna.com |language=de |date=May 11, 2024 }}</ref>
+
+=== Bayer Leverkusen ===
+[[File:Malik-Tillman-2025.jpg|thumb|right|200px|Tillman with [[Bayer 04 Leverkusen|Bayer Leverkusen]] in 2025.]]
+
+On July 12, 2025, Tillman joined [[Bundesliga]] side [[Bayer 04 Leverkusen|Bayer Leverkusen]] on a five-year deal after the club made a bid reported to be €35 million, representing a club record fee for Leverkusen alongside [[Jarell Quansah]]'s move to the German club, as well as the second-highest [[List of most expensive American soccer transfers|American soccer transfer]] of all-time.<ref>{{cite web |url=https://www.bayer04.de/en-us/news/bayer04/usa-international-malik-tillman-joins-bayer-04-from-psv |title=USA international Malik Tillman joins Bayer 04 from PSV |publisher=Bayer 04 Leverkusen |date=July 12, 2025 }}</ref><ref>{{cite web |url=https://www.nytimes.com/athletic/6445200/2025/07/12/malik-tillman-transfer-leverkusen/ |title=Bayer Leverkusen complete deal to sign USMNT's Malik Tillman from PSV Eindhoven |publisher=The Athletic |date=July 12, 2025 }}</ref> On August 30, Tillman scored on his debut with the club, a 3–3 league draw to [[SV Werder Bremen|Werder Bremen]].<ref>{{Cite news |last=Stafford-Bloor |first=Sebastian |date=2025-08-30 |title=USMNT's Malik Tillman scores in a Leverkusen debut marred by blown lead |url=https://www.nytimes.com/athletic/6586186/2025/08/30/malik-tillman-goal-bayer-leverkusen-debut-usmnt/ |access-date=2025-08-31 |work=The New York Times |language=en-US |issn=0362-4331}}</ref>
+
+== International career ==
+[[File:Malik Tillman, 2025 CONCACAF Gold Cup, 01.jpg|thumb|left|200px|Tillman playing for the United States at the [[2025 CONCACAF Gold Cup]].]]
+
+Tillman was initially eligible to represent both [[Germany national football team|Germany]], his birth nation, and the [[United States men's national soccer team|United States]], through his father.<ref name="Tillman"/> He played youth international soccer for the United States at [[United States boys' national under-15 soccer team|under-15]] level<ref>{{cite news|url=https://sbisoccer.com/2022/05/bayern-munich-prospect-malik-tillman-to-play-for-the-usmnt |title=Bayern Munich prospect Malik Tillman to play for the USMNT |website=sbisoccer.com |date=May 19, 2022 |access-date=December 17, 2022}}</ref> and Germany at [[Germany national under-15 football team|under-15]], [[Germany national under-16 football team|under-16]], [[Germany national under-17 football team|under-17]], [[Germany national under-20 football team|under-20]] and [[Germany national under-21 football team|under-21]] levels.<ref>{{cite web|url=https://www.dfb.de/datencenter/personen/malik-tillman/spieler |title=Malik Tillman Spielerprofil |website=dfb.de |access-date=December 17, 2022}}</ref>
+
+In May 2022, Tillman applied for a one-time switch to play for the [[United States men's national soccer team|United States]] national team.<ref>{{cite web | url=https://www.bundesliga.com/en/bundesliga/news/bayern-munich-youngster-malik-tillman-to-play-for-the-usa-20018 | title=Bayern Munich youngster Malik Tillman to play for the USA }}</ref> On May 31, the switch was approved by [[FIFA]].<ref>{{cite web | url=https://www.espn.com/soccer/united-states-usa/story/4678369/bayern-munichs-malik-tillman-cleared-to-represent-usmnt-after-fifa-approves-switch-from-germany | title=Bayern's Tillman cleared to represent USMNT | date=May 31, 2022 }}</ref> The next day, he made his senior debut for the United States in a 3–0 win in a friendly match against [[Morocco national football team|Morocco]].<ref>{{cite web |url=https://www.bundesliga.com/en/bundesliga/news/joe-scally-and-malik-tillman-make-usmnt-debuts-in-morocco-friendly-20166 |title=Joe Scally and Malik Tillman make USMNT debuts in Morocco friendly |website=Bundesliga |date=June 1, 2022 }}</ref>
+
+Tillman scored his first two goals for the United States on June 15, 2025 during the [[2025 CONCACAF Gold Cup]] against [[Trinidad and Tobago national football team|Trinidad and Tobago]], and one week later he scored against [[Haiti national football team|Haiti]].<ref>{{Cite web |date=2021-03-08 |title=Gold Cup Schedule & Results |url=https://www.concacaf.com/en/gold-cup/matches/ |access-date=2025-09-14 |website=Gold Cup |language=en}}</ref>
+
+== Personal life ==
+Tillman is a dual national of the United States and Germany due to his father being American and his mother German. He has an older brother, [[Timothy Tillman|Timothy]], who currently plays professionally with [[Major League Soccer]] club [[Los Angeles FC]]. Both brothers played for the [[SpVgg Greuther Fürth|Greuther Fürth]] and [[FC Bayern Munich Junior Team|Bayern Munich]] academies.<ref name="Tillman"/>
+
+== Career statistics ==
+=== Club ===
+{{updated|match played May 16, 2026}}<ref name="soccerway">{{soccerway|malik-tillman/561787|access-date=May 21, 2024}}</ref>
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup{{efn|Includes [[DFB-Pokal]], [[Scottish Cup]] and [[KNVB Cup]]}}
+!colspan="2"|League cup{{efn|Includes [[Scottish League Cup]]}}
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="4"|[[FC Bayern Munich II|Bayern Munich II]]
+|[[2019–20 3. Liga|2019–20]]
+|[[3. Liga]]
+|8||5||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||8||5
+|-
+|[[2020–21 3. Liga|2020–21]]
+|3. Liga
+|2||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||2||0
+|-
+|[[2021–22 Regionalliga#Regionalliga Bayern|2021–22]]
+|[[Regionalliga Bayern]]
+|15||4||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||15||4
+|-
+!colspan="2"|Total
+!25!!9!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!25!!9
+|-
+|[[FC Bayern Munich|Bayern Munich]]
+|[[2021–22 FC Bayern Munich season|2021–22]]
+|[[Bundesliga]]
+|4||0||1||1||colspan="2"|—||2{{efn|Appearances in [[UEFA Champions League]]|name=UCL}}||0||0||0||7||1
+|-
+|[[Rangers F.C.|Rangers]] (loan)
+|[[2022–23 Rangers F.C. season|2022–23]]
+|[[Scottish Premiership]]
+|28||10||3||1||3||0||9{{efn|name=UCL}}||1||colspan="2"|—||43||12
+|-
+|[[Jong PSV]] (loan)
+|[[2023–24 Eerste Divisie|2023–24]]
+|[[Eerste Divisie]]
+|1||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||1||0
+|-
+|[[PSV Eindhoven|PSV]] (loan)
+|[[2023–24 PSV Eindhoven season|2023–24]]
+|[[Eredivisie]]
+|28||9||2||0||colspan="2"|—||9{{efn|name=UCL}}||0||colspan="2"|—||39||9
+|-
+|PSV
+|[[2024–25 PSV Eindhoven season|2024–25]]
+|Eredivisie
+|26||12||1||1||colspan="2"|—||6{{efn|name=UCL}}||3||1{{efn|name=JCS|Appearance in [[Johan Cruyff Shield]]}}||0||34||16
+|-
+|[[Bayer 04 Leverkusen|Bayer Leverkusen]]
+|[[2025–26 Bayer 04 Leverkusen season|2025–26]]
+|Bundesliga
+|29||6||2||0||colspan="2"|—||10{{efn|name=UCL}}||2||colspan="2"|—||41||8
+|-
+!colspan="3"|Career total
+!141!!46!!9!!3!!3!!0!!36!!6!!1!!0!!189!!55
+|}
+{{notelist}}
+
+=== International ===
+{{updated|match played June 6, 2026}}<ref>{{cite web |url=https://www.worldfootball.net/person/pe497478/malik-tillman/international-matches/ |title=Malik Tillman » Internationals |website=WorldFootball.net |access-date=April 27, 2024}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="5"|[[United States men's national soccer team|United States]]
+|2022||4||0
+|-
+|2023||4||0
+|-
+|2024||9||0
+|-
+|[[2025 in American soccer|2025]]|| 9 || 3
+|-
+|[[2026 in American soccer#Men's|2026]]|| 4 || 0
+|-
+!colspan="2"|Total!! 30 !! 3
+|}
+
+{{hatnote|Scores and results list the United States' goal tally first.}}
+
+{| class="wikitable"
+|+ List of international goals scored by Malik Tillman
+!No.!!Date!!Venue!!Opponent!!Score!!Result!!Competition
+|-
+| align="center"|1 || rowspan="2"|June 15, 2025 || rowspan="2"|[[PayPal Park]], [[San Jose, California|San Jose]], United States|| rowspan="2"|{{fb|TTO}}|| align="center"|1–0 || rowspan="2" align="center"|5–0 || rowspan="2"|[[2025 CONCACAF Gold Cup Group D|2025 CONCACAF Gold Cup]]
+|-
+| align="center"|2 || align="center"|2–0
+|-
+| align="center"|3 ||June 22, 2025 || rowspan="1"|[[AT&T Stadium]], [[Arlington, Texas|Arlington]], United States||{{fb|HAI}}|| align="center"|1–0 || align="center"|2–1 || 2025 CONCACAF Gold Cup
+|}
+
+== Honors ==
+'''Bayern Munich'''
+*[[Bundesliga]]: [[2021–22 Bundesliga|2021–22]]<ref>{{cite web |date=April 23, 2022 |title=Gnabry eröffnet sehenswert: FC Bayern zum zehnten Mal in Folge Meister |url=https://www.kicker.de/bayern-gegen-dortmund-2022-bundesliga-4721765/analyse |access-date=April 19, 2023 |website=[[Kicker (magazine)|Kicker]] |language=de}}</ref>
+*[[DFL-Supercup]]: [[2020 DFL-Supercup|2020]]<ref>{{cite web |title=Supercup 2020, Finale: Bayern München 3:2 Borussia Dortmund: Analyse |trans-title=Supercup 2020, Final: Bayern Munich 3:2 Borussia Dortmund: Analysis |url=https://www.kicker.de/bayern-gegen-dortmund-2020-dfl-supercup-4654909/analyse |access-date=April 19, 2023 |website=kicker |publisher=Olympia-Verlag |language=de}}</ref>
+*[[UEFA Super Cup]]: [[2020 UEFA Super Cup|2020]]<ref>{{cite web | url = https://www.kicker.de/bayern-gegen-fc-sevilla-2020-uefa-supercup-4651922/analyse | title = Joker Javi Martinez köpft Bayern zum Supercup | language = de | website = [[Kicker (magazine)|Kicker]] | date = September 24, 2020 | access-date = September 24, 2020}}</ref>
+
+'''Rangers'''
+*[[Scottish League Cup]] runner-up: [[2022–23 Scottish League Cup|2022–23]]<ref>{{Cite news |last=Moffat |first=Colin |date=February 26, 2023 |title=Kyogo strikes twice as Celtic beat Rangers in final |language= |work=BBC Sport |url=https://www.bbc.com/sport/football/64688959 |access-date=February 26, 2023}}</ref>
+
+'''PSV'''
+*[[Eredivisie]]: [[2023–24 Eredivisie|2023–24]], [[2024–25 Eredivisie|2024–25]]<ref>{{cite news |title=PSV crowned Eredivisie champions for 26th time after historic Ajax collapse |url=https://www.flashscore.com/news/soccer-eredivisie-psv-crowned-eredivisie-champions-for-26th-time-after-historic-ajax-collapse/McatY0uC/ |date=May 18, 2025 |access-date=May 18, 2025 |website=Flashscore}}</ref>
+
+'''United States'''
+*[[CONCACAF Nations League]]: [[2023–24 CONCACAF Nations League|2023–24]]<ref>{{cite news|url=https://www.concacaf.com/nations-league/news/adams-reyna-on-target-as-united-states-complete-three-peat/|title=Adams Reyna on target as United States complete three peat|work=CONCACAF|date=March 25, 2024|access-date=March 25, 2024}}</ref>
+
+'''Individual'''
+*[[Eredivisie]] Team of the Month: [[2024–25 Eredivisie#Monthly awards|September 2024]],<ref>{{cite news|title=Ajax main supplier of Eredivisie Team of the Month for September|url=https://eredivisie.eu/news/ajax-main-supplier-of-eredivisie-team-of-the-month-for-september/|website=Eredivisie|date=4 October 2024|access-date=4 October 2024}}</ref> [[2024–25 Eredivisie#Monthly awards|May 2025]],<ref>{{cite news|title=Eredivisie Team of the Month: AZ leads the way|url=https://eredivisie.eu/news/eredivisie-team-of-the-month-az-leads-the-way/|website=Eredivisie|date=23 May 2025|access-date=24 May 2025}}</ref>  
+*[[PFA Scotland Team of the Year|PFA Scotland Team of the Year (Premiership)]]: [[PFA Scotland Team of the Year#Premiership 9|2022–23]]<ref>{{cite web |url=https://sbisoccer.com/2023/05/carter-vickers-tillman-voted-to-pfa-scottish-premiership-team-of-year|title=Carter-Vickers, Tillman voted to PFA Scottish Premiership Team of Year |website=SBI Soccer |date=May 9, 2023 |accessdate=May 9, 2023 |first=Larry |last=Henry Jr}}</ref>
+*[[PFA Scotland Young Player of the Year]]: [[2022–23 in Scottish football|2022–23]]<ref name=":0">{{cite web |url=https://sbisoccer.com/2023/05/malik-tillman-named-pfa-scottish-premiership-young-player-of-the-year|title=Malik Tillman named PFA Scottish Premiership Young Player of the Year |website=SBI Soccer |date=May 14, 2023 |accessdate=May 20, 2023 |first=Larry |last=Henry Jr}}</ref>
+*[[Eredivisie]] Team of the Season: [[2024–25 Eredivisie|2024–25]]<ref>{{cite web |date=April 25, 2025 |title=Eredivisie Team of the Season (TOTS) |url=https://www.ea.com/games/ea-sports-fc/fc-25/tots/eredivisie |access-date=July 4, 2025 |website=Electronic Arts Inc.}}</ref>
+*[[CONCACAF Gold Cup]] Best XI: [[2025 CONCACAF Gold Cup#Awards|2025]]<ref>{{cite news|url=https://www.concacaf.com/en/gold-cup/news/diaz-jimenez-richards-headline-gold-cup-best-xi/|title=Díaz, Jiménez, Richards headline Gold Cup Best XI|publisher=CONCACAF|date=July 9, 2025|access-date=July 9, 2025}}</ref>
+
+== References ==
+{{reflist}}
+
+== External links ==
+{{Commons category}}
+* [https://www.bayer04.de/en-us/player/werkself/bayer-04-leverkusen/malik-tillman Profile] at the Bayer 04 Leverkusen website
+* {{MLS player|malik-tillman}}
+* {{U.S. Soccer player|t/malik-tillman}}
+* {{UEFA player}}
+
+{{Bayer 04 Leverkusen squad}}
+{{Navboxes
+| title = United States squads
+| bg = white
+| fg = #002868
+| bordercolor = #BF0A30
+| list1 =
+{{United States squad 2024 Copa América}}
+{{United States squad 2025 CONCACAF Gold Cup}}
+{{United States squad 2026 FIFA World Cup}}
+}}
+{{Navboxes
+| title = Awards
+| bg = gold
+| fg = navy
+| list =
+{{2022–23 PFA Scotland Scottish Premiership Team of the Year}}
+{{PFA Scotland Young Player of the Year}}
+}}
+
+{{DEFAULTSORT:Tillman, Malik}}
+[[Category:2002 births]]
+[[Category:Living people]]
+[[Category:Footballers from Nuremberg]]
+[[Category:American men's soccer players]]
+[[Category:American expatriate sportspeople in Scotland]]
+[[Category:United States men's international soccer players]]
+[[Category:2024 Copa América players]]
+[[Category:United States men's youth international soccer players]]
+[[Category:German men's footballers]]
+[[Category:Germany men's youth international footballers]]
+[[Category:Germany men's under-21 international footballers]]
+[[Category:Men's association football midfielders]]
+[[Category:American people of German descent]]
+[[Category:German people of African-American descent]]
+[[Category:FC Bayern Munich footballers]]
+[[Category:FC Bayern Munich II players]]
+[[Category:Bayer 04 Leverkusen players]]
+[[Category:Regionalliga players]]
+[[Category:3. Liga players]]
+[[Category:Bundesliga players]]
+[[Category:Scottish Professional Football League players]]
+[[Category:Rangers F.C. players]]
+[[Category:American expatriate men's soccer players]]
+[[Category:Expatriate men's footballers in Scotland]]
+[[Category:Eredivisie players]]
+[[Category:PSV Eindhoven players]]
+[[Category:Expatriate men's footballers in the Netherlands]]
+[[Category:21st-century American sportsmen]]
+[[Category:American expatriate sportspeople in the Netherlands]]
+[[Category:German expatriate men's footballers]]
+[[Category:German expatriate sportspeople in the Netherlands]]
+[[Category:German expatriate sportspeople in Scotland]]
+[[Category:21st-century German sportsmen]]
+[[Category:2025 CONCACAF Gold Cup players]]
+[[Category:2026 FIFA World Cup players]]

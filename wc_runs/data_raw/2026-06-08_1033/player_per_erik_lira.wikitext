@@ -1,0 +1,215 @@
+{{short description|Mexican footballer (born 2000)}}
+{{family name hatnote|Lira|Méndez|lang=Spanish}}
+{{Use dmy dates|date=March 2026}}
+{{Infobox football biography
+| name = Érik Lira
+| fullname = Érik Antonio Lira Méndez
+| image = Erik Lira 2.png
+| caption = Lira with [[Mexico national football team|Mexico]] in 2026
+| birth_date = {{Birth date and age|df=yes|2000|05|08}}
+| birth_place = [[Mexico City]], Mexico
+| height = 1.75 m
+| position = [[Midfielder#Defensive midfielder|Defensive midfielder]]
+| currentclub = [[Cruz Azul]]
+| clubnumber = 6
+| youthyears1 = 2013–2018
+| youthclubs1 = [[Pumas UNAM (youth)|UNAM]]
+| youthyears2 = 2018–2020
+| youthclubs2 = [[Club Necaxa|Necaxa]]
+| years1 = 2019
+| clubs1 = [[Club Necaxa|Necaxa]]
+| caps1 = 0
+| goals1 = 0
+| years2 = 2020–2021
+| clubs2 = [[Pumas UNAM|UNAM]]
+| caps2 = 57
+| goals2 = 0
+| years3 = 2022–
+| clubs3 = [[Cruz Azul]]
+| caps3 = 164
+| goals3 = 1
+| nationalyears1 = 2021–2023
+| nationalteam1 = [[Mexico national under-23 football team|Mexico U23]]
+| nationalcaps1 = 9
+| nationalgoals1 = 0
+| nationalyears2 = 2021–
+| nationalteam2 = [[Mexico national football team|Mexico]]
+| nationalcaps2 = 22
+| nationalgoals2 = 0
+| club-update = 15:15, 12 April 2026 (UTC)
+| nationalteam-update = 22:26, 5 April 2026 (UTC)
+| medaltemplates = {{Medal|Sport|Men's [[association football|football]]}}
+{{Medal|Country|{{fb|MEX}}}}
+{{MedalCompetition|[[CONCACAF Gold Cup]]}}
+{{Medal|W|[[2025 CONCACAF Gold Cup|2025 United States–Canada]]|[[2025 CONCACAF Gold Cup squads#Mexico|Team]]}}
+{{MedalCompetition|[[CONCACAF Nations League]]}}
+{{Medal|W|[[2025 CONCACAF Nations League Finals|2025 United States]]|}}
+{{MedalCompetition|[[Pan American Games]]}}
+{{MedalBronze| [[2023 Pan American Games|2023 Santiago]] |[[Football at the 2023 Pan American Games – Men's team squads#Mexico|Team]]}}
+}}
+
+'''Érik Antonio Lira Méndez''' (born 8 May 2000) is a Mexican professional [[Association football|footballer]] who plays as a [[Midfielder#Defensive midfielder|defensive midfielder]] for [[Liga MX]] club [[Cruz Azul]], which he [[Captain (association football)|captains]], and the [[Mexico national football team|Mexico national team]].
+
+== Club career ==
+Lira began his career in 2013 when he joined the youth academy of [[Pumas UNAM]]. Five years later, he moved to [[Club Necaxa|Necaxa]], making his professional debut on 1 August 2018, in a [[Copa MX]] match against [[Club Jaiba Brava|Tampico Madero]]. He eventually returned to Pumas UNAM, where he marked his Liga MX debut on 3 August 2020, contributing to a victory over [[Atlas F.C.|Atlas]].<ref>{{Cite web |title=Erik Lira |url=https://cfcruzazul.com/jugadores/erik-lira/ |access-date=2026-03-27 |website=Club de Futbol Cruz Azul S. A. de C. V. |language=en}}</ref>
+
+In January 2022, Lira signed with [[Cruz Azul]] on a contract extending through December 2025. He debuted for the club on 9 January against [[Club Tijuana|Tijuana]], and just months later, on 26 June, celebrated his first professional title as Cruz Azul captured the [[2022 Supercopa de la Liga MX|Supercopa de la Liga MX]] by defeating Atlas on penalties.
+
+On 1 June 2025, he lifted his second trophy—the [[CONCACAF Champions Cup|CONCACAF Champions Cup]]—after Cruz Azul triumphed over the [[Vancouver Whitecaps FC]] in the [[2025 CONCACAF Champions Cup final|final]].<ref>{{Cite web |last=Rosas |first=Javier |date=2025-06-02 |title=Cruz Azul aplasta al Vancouver y se corona en la Champions Cup |url=https://www.espn.com.mx/futbol/norte-centro-america/nota/_/id/15262540/champions-cup-2025-cruz-azul-vs-vancouver-final-resultado-goles |access-date=2026-03-27 |website=ESPN.com.mx |language=es}}</ref>
+
+==International career==
+On 27 October 2021, Lira made his senior [[Mexico national football team|national team]] debut under [[Gerardo Martino]] in a friendly match against [[Ecuador national football team|Ecuador]].<ref>{{cite web|url= https://espndeportes.espn.com/futbol/selecciones/nota/_/id/9431071/mexico-vs-ecuador-debutantes-alineacion-santiago-gimenez|title= México inicia con cuatro debutantes ante Ecuador, entre ellos Santi Giménez|website=espndeportes.espn.com|date=October 27, 2021}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 11 April 2026}}<ref name="soccerway">{{Soccerway|erik-antonio-lira-mendez/551091}}</ref>
+
+{| class="wikitable" style="text-align: center"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+|-
+|[[Club Necaxa|Necaxa]]
+|[[2018–19 Liga MX season|2018–19]]
+|[[Liga MX]]
+|colspan="2"|—||3||0||colspan="2"|—||colspan="2"|—||3||0
+|-
+|rowspan="3"|[[Club Universidad Nacional|UNAM]]
+|[[2020–21 Club Universidad Nacional season|2020–21]]
+|rowspan="2"|Liga MX
+|36||0||colspan=2|—||colspan="2"|—||2{{efn|name=LC|Appearances in [[Leagues Cup]]}}||0||38||0
+|-
+|[[2021–22 Liga MX season|2021–22]]
+|21||0||colspan=2|—||colspan="2"|—||colspan="2"|—||21||0
+|-
+!colspan="2"|Total
+!57!!0!!colspan="2"|—!!colspan="2"|—!!2!!0!!59!!0
+|-
+|rowspan="6"|[[Cruz Azul]]
+|[[2021–22 Cruz Azul season|2021–22]]
+|rowspan="5"|Liga MX
+|20||0||colspan=2|—||5{{efn|name=CCC|Appearances in [[CONCACAF Champions Cup]]}}||0||colspan="2"|—||25||0
+|-
+|[[2022–23 Cruz Azul season|2022–23]]
+|36||0||colspan=2|—||colspan="2"|—||1{{efn|name=SMX|Appearance in [[Supercopa de la Liga MX]]}}||0||37||0
+|-
+|[[2023–24 Cruz Azul season|2023–24]]
+|35||0||colspan=2|—||colspan="2"|—||1{{efn|name=LC}}||0||36||0
+|-
+|[[2024–25 Cruz Azul season|2024–25]]
+|39 || 1 || colspan="2"|— || 7{{efn|name=CCC}} || 0 || 4{{efn|name=LC}} || 0 || 50 || 1
+|-
+|[[2025–26 Cruz Azul season|2025–26]]
+|34 || 0 || colspan="2"|— || 5{{efn|name=CCC}} || 1 || 4{{efn|Three appearances in [[Leagues Cup]], one appearance in [[FIFA Intercontinental Cup]]}}|| 0 || 43 || 1
+|-
+!colspan="2"|Total
+!164!!1!!colspan="2"|—!!17!!1!!10!!0!!191!!2
+|-
+! colspan="3" |Career total
+!221!!1!!3!!0!!17!!1!!12!!0!!253!!2
+|}
+
+{{notelist}}
+
+===International===
+{{updated|match played 31 March 2026|<ref name="NFT">{{NFT player|id=84498|access-date=}}</ref>}}
+
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by national team and year
+! National team !! Year !! Apps !! Goals
+|-
+|rowspan="6" valign="center"|[[Mexico national football team|Mexico]]
+| 2021 || 2 || 0
+|-
+| 2022 || 1 || 0
+|-
+| 2023 || 1 || 0
+|-
+| 2024 || 1 || 0
+|-
+| 2025 || 12 || 0
+|-
+| 2026 || 5 || 0
+|-
+! colspan="2" | Total !! 22 !! 0
+|}
+
+==Honours==
+'''Cruz Azul'''
+*[[Liga MX]]: [[2025–26 Liga MX season#Torneo Clausura|Clausura 2026]]
+*[[Campeón de Campeones#Supercopa de la Liga MX|Supercopa de la Liga MX]]: [[2022 Supercopa de la Liga MX|2022]]
+*[[CONCACAF Champions Cup]]: [[2025 CONCACAF Champions Cup|2025]]
+
+'''Mexico U23'''
+*[[Football at the Pan American Games|Pan American Bronze Medal]]: [[Football at the 2023 Pan American Games – Men's tournament|2023]]
+
+'''Mexico'''
+*[[CONCACAF Gold Cup]]: [[2025 CONCACAF Gold Cup|2025]]<ref>{{Cite web |title=United States 1-2 Mexico: Mauricio Pochettino's side beaten in Gold Cup final |url=https://www.bbc.com/sport/football/live/cy4nj815ep1t |access-date=2025-07-07 |website=BBC Sport |language=en-GB}}</ref>
+*[[CONCACAF Nations League]]: [[2024–25 CONCACAF Nations League|2024–25]]<ref>{{Cite news |last= |first= |date=2025-03-24 |title=Mexico win first Nations League final thanks to Raúl Jiménez double |url=https://www.theguardian.com/football/2025/mar/24/mexico-concacaf-nations-league-panama-raul-jimenez#:~:text=Ra%C3%BAl%20Jim%C3%A9nez%20scored%20his%20second,tournament%20for%20the%20first%20time. |access-date=2025-03-24 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref>
+
+'''Individual'''
+*[[Liga MX]] Best XI: [[2021–22 Liga MX season#Torneo Apertura|Apertura 2021]]
+*[[Liga MX]] All-Star: [[2021 MLS All-Star Game|2021]], [[2022 MLS All-Star Game|2022]],<ref>{{cite web|title=LIGA MX announces roster for 2022 MLS All-Star Game at Allianz Field|url=https://www.mlssoccer.com/news/liga-mx-announces-roster-for-2022-mls-all-star-game-at-allianz-field|website=Major League Soccer|access-date=10 August 2022|date=19 July 2022}}</ref> [[2025 MLS All-Star Game|2025]]<ref>https://www.mlssoccer.com/allstar/2025/news/2025-liga-mx-all-star-team-roster</ref>
+
+==See also==
+{{Portal|Association football|Mexico|Biography}}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Soccerway|erik-antonio-lira-mendez/551091}}
+* {{ESPN FC|276942/erik-lira}}
+* {{Liga MX player|98552/erik-antonio-lira-mendez|Érik Antonio Lira Méndez}}
+
+{{Cruz Azul squad}}
+{{2021–22 Liga MX Best XI}}
+{{Navboxes
+|title=Mexico squads
+|bg = #016549
+|fg = White
+|bordercolor =#CE1126
+|list1=
+{{Mexico squad 2025 CONCACAF Gold Cup}}
+{{Mexico squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Lira, Érik}}
+[[Category:Living people]]
+[[Category:2000 births]]
+[[Category:Mexican men's footballers]]
+[[Category:Mexico men's international footballers]]
+[[Category:Men's association football midfielders]]
+[[Category:Footballers at the 2023 Pan American Games]]
+[[Category:Medalists at the 2023 Pan American Games]]
+[[Category:Pan American Games bronze medalists in football]]
+[[Category:Pan American Games bronze medalists for Mexico]]
+[[Category:Pan American Games footballers for Mexico]]
+[[Category:Club Necaxa footballers]]
+[[Category:Pumas UNAM footballers]]
+[[Category:Cruz Azul footballers]]
+[[Category:Liga MX players]]
+[[Category:21st-century Mexican sportsmen]]
+[[Category:CONCACAF Champions Cup–winning players]]
+[[Category:2025 CONCACAF Gold Cup players]]
+[[Category:2026 FIFA World Cup players]]
+[[Category:CONCACAF Gold Cup–winning players]]
+{{Mexico-footy-bio-stub}}
+{{Mexico-footy-midfielder-2000s-stub}}

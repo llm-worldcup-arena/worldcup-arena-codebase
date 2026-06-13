@@ -1,0 +1,244 @@
+{{Use American English|date=June 2025}}
+{{Short description|Association football tournament}}
+{{Use dmy dates|date=January 2024}}
+{{Infobox international football competition
+| year           = 2026
+| tourney_name   = FIFA World Cup qualification (CONCACAF)
+| image          = Concacaf_qualifiers_logo_primary_pos.webp 
+| caption        =
+| dates          = {{nowrap|22 March 2024 – 18 November 2025}}
+| num_teams      = 32
+| confederations = 1
+| matches        = {{#expr: <!--First round--> 4 +<!--Second round--> 59 +<!--Third round--> 36}}
+| goals          = {{#expr: <!--First round--> 4 +<!--Second round--> 216 +<!--Third round--> 89}}
+| attendance     = {{#expr: <!--First round--> 1780 + <!--Second round--> 285997 + <!--Third round--> 506236}}
+| top_scorer     = {{fbicon|GTM}} [[Óscar Santis]]<br>{{fbicon|HAI}} [[Duckens Nazon]]<br>(6 goals each)
+| prevseason     = [[2022 FIFA World Cup qualification (CONCACAF)|2022]]
+| nextseason     = ''2030''
+|image_size=250px}}
+{{Qualification for men's championships (CONCACAF)|expanded=FIFA}}
+
+The North, Central American and Caribbean section of the [[2026 FIFA World Cup qualification]] acted as the qualifiers for the [[2026 FIFA World Cup]], to be held in Canada, Mexico, and the United States, for national teams which are members of the Confederation of North, Central American and Caribbean Association Football ([[CONCACAF]]). Three direct slots and two inter-confederation play-off slots in the final tournament were available for CONCACAF teams.
+
+==Format==
+On 9 May 2017, the [[FIFA Council]] approved the slot allocation for the [[2026 FIFA World Cup]], which included six direct spots and two [[2026 FIFA World Cup qualification (inter-confederation play-offs)|inter-confederation play-off]] spots for the CONCACAF region. However, in a change of format from previous World Cups, there would be no dedicated host country slot, with the slots of automatically qualifying host countries now taken from the quota of its confederation. If the tournament were to be co-hosted, the FIFA Council would decide which host countries would qualify automatically.<ref>{{cite web |url=https://www.fifa.com/about-fifa/organisation/fifa-council/media-releases/fifa-council-prepares-congress-takes-key-decisions-for-the-future-of-t-2883353 |title=FIFA Council prepares Congress, takes key decisions for the future of the FIFA World Cup |publisher=[[FIFA]] |date=9 May 2017 |access-date=28 February 2023}}</ref> On 13 June 2018, three members of CONCACAF—[[Canadian Soccer Association|Canada]], [[Mexican Football Federation|Mexico]] and the [[United States Soccer Federation|United States]]—were selected as hosts for the 2026 World Cup by the [[68th FIFA Congress]].<ref>{{Cite web |last=Graham |first=Bryan Armen |date=13 June 2018 |title=North America to host 2026 World Cup after winning vote over Morocco – as it happened |url=https://www.theguardian.com/football/live/2018/jun/13/world-cup-2026-vote-fifa-nations-choose-between-north-america-and-morocco-live |website=The Guardian}}</ref>
+
+On 14 February 2023, the FIFA Council awarded automatic berths for all three host countries, leaving three direct slots and two [[2026 FIFA World Cup qualification (inter-confederation play-offs)|inter-confederation play-off]] slots to be decided through CONCACAF qualification.<ref name="automatic berths">{{cite news |url=https://www.fifa.com/about-fifa/organisation/fifa-council/media-releases/fifa-council-highlights-record-breaking-revenue-in-football |title=FIFA Council highlights record breaking revenue in football |publisher=[[FIFA]] |date=14 February 2023 |access-date=14 February 2023}}</ref> On 28 February, CONCACAF announced the qualifying format for 2026 World Cup qualification.<ref name="CONCACAF format">{{cite web |url=https://www.concacaf.com/news/concacaf-announces-formats-for-men-s-national-team-competitions-for-the-2023-2026-cycle/ |title=CONCACAF announces formats for men's national team competitions for the 2023–2026 cycle |publisher=[[CONCACAF]] |date=28 February 2023 |access-date=28 February 2023}}</ref>
+
+*'''First round''': Four CONCACAF teams, ranked 29 to 32 based on the [[FIFA Men's World Ranking|FIFA rankings]] of December 2023, were divided into two matchups, played on a [[Two-legged tie|two-legged]] home-and-away basis. The two winners advanced to the second round.
+*'''Second round''': Thirty teams, the two winners from the first round and CONCACAF teams ranked 1 to 28 based on the FIFA rankings of December 2023, were drawn into six groups of five teams. They played single [[round-robin tournament|round-robin]] matches (two home and two away), with group winners and runners-up advancing to the third round.
+*'''Third round''': The twelve teams advancing from the second round were drawn into three groups of four teams. They played double round-robin home-and-away matches, with the three group winners qualifying for the World Cup. The two best-ranked runners-up advanced to the [[2026 FIFA World Cup qualification (inter-confederation play-offs)|inter-confederation play-offs]].
+
+==Entrants==
+As [[Canada men's national soccer team|Canada]], [[Mexico national football team|Mexico]], and the [[United States men's national soccer team|United States]] were awarded automatic berths as co-hosts, they did not enter qualifying. All the remaining 32 [[FIFA]]-affiliated national teams from CONCACAF entered qualification. Based on the [[FIFA Men's World Ranking|FIFA rankings]] of December 2023, the top 28 teams received a bye to the second round, while the lowest four teams entered the first round.<ref>{{cite web |url=https://digitalhub.fifa.com/m/7bb71d129c0845f0/original/Draw-Procedures-for-the-Concacaf-Preliminary-Draw-for-the-FIFA-World-Cup-26_EN.pdf |title=Draw Procedures for the CONCACAF Preliminary Draw for the FIFA World Cup 26 |publisher=[[FIFA]] |date=23 January 2024 |access-date=29 January 2024}}</ref>
+
+<!--DO NOT CHANGE THIS TABLE TO TWO COLUMNS AND DO NOT CHANGE THE RANKINGS-->
+{| class="wikitable"
+|+From the December 2023 [[FIFA World Rankings]]<ref>{{cite web|url=https://www.fifa.com/fifa-world-ranking/men?dateId=id14233|title=FIFA Men's Ranking – December 2023|publisher=FIFA|date=21 December 2023}}</ref>
+|-
+! style="width:32%" | Second round pot 1
+! style="width:32%" | Second round pot 2
+! style="width:32%" | Second round pot 3
+|- style="vertical-align:top"
+|{{ordered list
+ |{{fb|PAN}} (41)
+ |{{fb|CRC}} (52)
+ |{{fb|JAM}} (55)
+ |{{fb|HON|2022}} (76)
+ |{{fb|SLV}} (78)
+ |{{fb|HAI}} (89)
+}}
+|{{ordered list|start=7
+ |{{fb|CUW}} (90)
+ |{{fb|TRI}} (96)
+ |{{fb|GUA}} (108)
+ |{{fb|NCA}} (134)
+ |{{fb|ATG}} (142)
+ |{{fb|SUR}} (143)
+}}
+|{{ordered list|start=13
+ |{{fb|SKN}} (147)
+ |{{fb|DOM}} (151)
+ |{{fb|GUY}} (157)
+ |{{fb|PUR}} (160)
+ |{{fb|LCA}} (167)
+ |{{fb|CUB}} (169)
+}}
+|-
+! Second round pot 4
+! Second round pot 5
+! Competed in first round
+|- style="vertical-align:top"
+|{{ordered list|start=19
+ |{{fb|BER}} (171)
+ |{{fb|VIN}} (173)
+ |{{fb|GRN}} (174)
+ |{{fb|MSR}} (176)
+ |{{fb|BRB}} (178)
+ |{{fb|DMA}} (180)
+}}
+|{{ordered list|start=25
+ |{{fb|BLZ}} (182)
+ |{{fb|ARU}} (193)
+ |{{fb|CAY}} (197)
+ |{{fb|BAH}} (202)
+}}
+|{{ordered list|start=29
+ |''{{fb|TCA}}'' (206)
+ |{{fb|VGB}} (207)
+ |''{{fb|VIR}}'' (208)
+ |{{fb|AIA}} (209)
+}}
+|}
+
+{{small|Note: Teams in ''italics'' competed only in the [[2026 FIFA World Cup qualification – CONCACAF first round|first round]].}}
+{{notelist}}
+
+==Schedule==
+The CONCACAF schedule for qualification was as follows:<ref name="CONCACAF format"/>
+
+{| class="wikitable"
+! Round
+! Matchday
+! Dates<ref>{{cite web |url=https://digitalhub.fifa.com/m/3123d37097318f7f/original/Men-s-International-Match-Calendar-2023-2030_EN.pdf |title=Men's International Match Calendar 2023–2030 |publisher=[[FIFA]] |date=6 April 2023 |access-date=9 April 2023}}</ref>
+|-
+| rowspan="2" | [[#First round|First round]]
+| First leg
+| 22 March 2024
+|-
+| Second leg
+| 26 March 2024
+|-
+| rowspan="2" | [[#Second round|Second round]]
+| Window 1
+| 5–11 June 2024
+|-
+| Window 2
+| 4–10 June 2025
+|-
+| rowspan="6" | [[#Third round|Third round]]
+| Matchday 1
+| 4–5 September 2025
+|-
+| Matchday 2
+| 8–9 September 2025
+|-
+| Matchday 3
+| 9–10 October 2025
+|-
+| Matchday 4
+| 13–14 October 2025
+|-
+| Matchday 5
+| 13 November 2025
+|-
+| Matchday 6
+| 18 November 2025
+|}
+
+==First round==
+{{main|2026 FIFA World Cup qualification – CONCACAF first round}}
+
+The bottom four CONCACAF teams, ranked 29 to 32 based on the [[FIFA Men's World Ranking|FIFA rankings]] of December 2023, were divided into two matchups to be played on a [[Two-legged tie|two-legged]] home-and-away basis. The pairings were predetermined, with the 29th ranked team facing the 32nd ranked team, and the 30th ranked team facing the 31st ranked team. The two winners advanced to the second round.<ref name="CONCACAF format"/>
+{{:2026 FIFA World Cup qualification – CONCACAF first round}}
+
+==Second round==
+{{main|2026 FIFA World Cup qualification – CONCACAF second round}}
+
+The draw took place on 25 January 2024 in [[Zürich]], Switzerland.<ref>{{cite web|url=https://www.concacaf.com/world-cup-qualifying-men/article/draw-reveals-groups-for-second-round-of-concacaf-world-cup-qualifiers/|title=Draw reveals groups for second round of Concacaf World Cup Qualifiers|publisher=[[CONCACAF]]|date=25 January 2024|access-date=26 January 2024}}</ref>
+
+The top twenty-eight CONCACAF teams in the [[FIFA Men's World Ranking|FIFA rankings]] of December 2023 entered in the second round, joined by the two winners of the first round. Teams were drawn into six groups of five teams and played single [[round-robin tournament|round-robin]] matches (two home and two away). The six group winners and six group runners-up advanced to the third round.<ref name="CONCACAF format"/>
+
+===Group A===
+{{:2026 FIFA World Cup qualification – CONCACAF second round|transcludesection=Group A|show_matches=y}}
+
+===Group B===
+{{:2026 FIFA World Cup qualification – CONCACAF second round|transcludesection=Group B|show_matches=y}}
+
+===Group C===
+{{:2026 FIFA World Cup qualification – CONCACAF second round|transcludesection=Group C|show_matches=y}}
+
+===Group D===
+{{:2026 FIFA World Cup qualification – CONCACAF second round|transcludesection=Group D|show_matches=y}}
+
+===Group E===
+{{:2026 FIFA World Cup qualification – CONCACAF second round|transcludesection=Group E|show_matches=y}}
+
+===Group F===
+{{:2026 FIFA World Cup qualification – CONCACAF second round|transcludesection=Group F|show_matches=y}}
+
+==Third round==
+{{main|2026 FIFA World Cup qualification – CONCACAF third round}}
+
+In the third round, the twelve teams advancing from the second round were drawn into three groups of four teams to play round-robin home-and-away matches. The three group winners qualified for the World Cup, and the two best-ranked runners-up advanced to the [[2026 FIFA World Cup qualification (inter-confederation play-offs)|inter-confederation play-offs]].<ref name="CONCACAF format"/> The draw for the third round was held on 12 June 2025, 19:00 EDT.<ref>{{cite web |title=Concacaf confirms schedule for region's men's FIFA World Cup Qualifying matches taking place in June |url=https://www.concacaf.com/en/world-cup-qualifying-men/news/concacaf-confirms-schedule-for-region-s-men-s-fifa-world-cup-qualifying-matches-taking-place-in-june/ |website=concacaf.com |date=May 2025 |access-date=1 May 2025}}</ref>
+
+===Group A===
+{{:2026 FIFA World Cup qualification – CONCACAF third round|transcludesection=Group A|show_matches=y}}
+
+===Group B===
+{{:2026 FIFA World Cup qualification – CONCACAF third round|transcludesection=Group B|show_matches=y}}
+
+===Group C===
+{{:2026 FIFA World Cup qualification – CONCACAF third round|transcludesection=Group C|show_matches=y}}
+
+===Ranking of second-placed teams===
+{{:2026 FIFA World Cup qualification – CONCACAF third round|transcludesection=2nd place}}
+
+==Inter-confederation play-offs==
+{{Main|2026 FIFA World Cup qualification (inter-confederation play-offs)}}
+
+The two best runners-up from the third round, [[Jamaica national football team|Jamaica]] and [[Suriname national football team|Suriname]], joined [[Bolivia national football team|Bolivia]] (from [[CONMEBOL]]), [[DR Congo national football team|DR Congo]] (from [[Confederation of African Football|CAF]]), [[Iraq national football team|Iraq]] (from [[Asian Football Confederation|AFC]]), and [[New Caledonia national football team|New Caledonia]] (from [[Oceania Football Confederation|OFC]]) in the inter-confederation play-offs.
+
+The teams were ranked according to the November 2025 [[FIFA Men's World Ranking]], with the four lowest-ranked teams playing in two {{nowrap|single-elimination}} matches. The winners met the two highest-ranked teams in another set of {{nowrap|single-elimination}} matches, with the winners of these matches qualifying for the [[2026 FIFA World Cup]].<ref>{{cite web|url=https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/play-off-tournament-draw-results|title=Path to 2026 laid out for Play-Off Tournament hopefuls|date=20 November 2025|access-date=20 November 2025|publisher=FIFA}}</ref>
+
+{{#lst:2026 FIFA World Cup qualification (inter-confederation play-offs)|Pathway}}
+
+==Qualified teams==
+[[File:2026 World Cup CONCACAF qualification.png|thumb|right|upright=1.3|{{legend|#0000FF|Qualified for the World Cup}}{{legend|#ffcc00|Failed to qualify}}{{legend|#CCCCCC|Not a CONCACAF member or not a FIFA member}}]] 
+The following teams from CONCACAF qualified for the final tournament.
+
+{| class="wikitable sortable"
+|-
+! Team
+! Qualified as
+! Qualified on
+! data-sort-type="number"|Previous [[National team appearances in the FIFA World Cup|appearances]] in [[FIFA World Cup]]{{efn|''Italic'' indicates hosts for that year.}}
+|-
+| {{fb|CAN}} || {{sort|1|Co-hosts}} || {{dts|14 February 2023}}{{efn|name=Hosts|Although the [[United 2026 FIFA World Cup bid|United bid]] was selected on 13 June 2018, the automatic berths allocated to the hosts were not confirmed until a decision by the [[FIFA Council]] on 14 February 2023.<ref name="automatic berths"/>}} || 2 ([[1986 FIFA World Cup|1986]], [[2022 FIFA World Cup|2022]])
+|-
+| {{fb|MEX}} || {{sort|2|Co-hosts}} || {{dts|14 February 2023}}{{efn|name=Hosts}} || 17 ([[1930 FIFA World Cup|1930]], [[1950 FIFA World Cup|1950]], [[1954 FIFA World Cup|1954]], [[1958 FIFA World Cup|1958]], [[1962 FIFA World Cup|1962]], [[1966 FIFA World Cup|1966]], ''[[1970 FIFA World Cup|1970]]'', [[1978 FIFA World Cup|1978]], ''[[1986 FIFA World Cup|1986]]'', [[1994 FIFA World Cup|1994]], [[1998 FIFA World Cup|1998]], [[2002 FIFA World Cup|2002]], [[2006 FIFA World Cup|2006]], [[2010 FIFA World Cup|2010]], [[2014 FIFA World Cup|2014]], [[2018 FIFA World Cup|2018]], [[2022 FIFA World Cup|2022]])
+|-
+| {{fb|USA}} || {{sort|3|Co-hosts}} || {{dts|14 February 2023}}{{efn|name=Hosts}} || 11 ([[1930 FIFA World Cup|1930]], [[1934 FIFA World Cup|1934]], [[1950 FIFA World Cup|1950]], [[1990 FIFA World Cup|1990]], ''[[1994 FIFA World Cup|1994]]'', [[1998 FIFA World Cup|1998]], [[2002 FIFA World Cup|2002]], [[2006 FIFA World Cup|2006]], [[2010 FIFA World Cup|2010]], [[2014 FIFA World Cup|2014]], [[2022 FIFA World Cup|2022]])
+|-
+| {{fb|PAN}} || {{sort|4|[[2026 FIFA World Cup qualification – CONCACAF third round#Group A|Third round Group A]] winners}} || {{dts|18 November 2025}} || 1 ([[2018 FIFA World Cup|2018]])
+|-
+| {{fb|CUR}} || {{sort|5|[[2026 FIFA World Cup qualification – CONCACAF third round#Group B|Third round Group B]] winners}} || {{dts|18 November 2025}} || Debut
+|-
+| {{fb|HAI}} || {{sort|6|[[2026 FIFA World Cup qualification – CONCACAF third round#Group C|Third round Group C]] winners}} || {{dts|18 November 2025}} || 1 ([[1974 FIFA World Cup|1974]])
+|}
+'''Notes'''
+{{notelist}}
+
+==Top goalscorers==
+{{#invoke:Goalscorers|main|2026 FIFA World Cup qualification (CONCACAF)|minimum=3}}<!--CAREFULLY update goalscorers at Module:Goalscorers/data/2026 FIFA World Cup qualification (CONCACAF)-->
+
+Below are full goalscorer lists for each round:
+{{flatlist|*[[2026 FIFA World Cup qualification – CONCACAF first round#Goalscorers|First round]]
+*[[2026 FIFA World Cup qualification – CONCACAF second round#Goalscorers|Second round]]
+*[[2026 FIFA World Cup qualification – CONCACAF third round#Goalscorers|Third round]]}}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026|Official FIFA World Cup website}}
+
+{{2026 FIFA World Cup qualification}}
+
+{{DEFAULTSORT:Fifa World Cup qualification 2026}}
+[[Category:2026 FIFA World Cup qualification (CONCACAF)| ]]
+[[Category:2026 FIFA World Cup qualification|Concacaf]]
+[[Category:FIFA World Cup qualification (CONCACAF)|2026]]
+[[Category:2023–24 in CONCACAF football]]
+[[Category:2024–25 in CONCACAF football]]
+[[Category:2025–26 in CONCACAF football]]

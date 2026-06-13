@@ -1,0 +1,16 @@
+{
+ "team": "NOR",
+ "source": "Olympics.com",
+ "url": "https://www.olympics.com/en/news/fifa-world-cup-2026-norway-all-players-full-squad-list-key-stats-and-schedule",
+ "title": "Norway at FIFA World Cup 2026: Erling Haaland leads golden generation after 28-year absence - all players, full squad list, key stats and schedule",
+ "news_date": "2026-06-13",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-13",
+ "fetched": "2026-06-13_0748",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Norway at FIFA World Cup 2026: Erling Haaland leads golden generation after 28-year absence\nQuick facts\nCaptain: Martin Ødegaard\nManager: Ståle Solbakken\nWorld Cup appearances (including 2026): 4\nBest World Cup result: Round of 16 (1938, 1998)\nFIFA World Cup 2026 – Norway’s full squad\nGoalkeepers: Ørjan Nyland (Sevilla), Egil Selvik (Watford), Sander Tangvik (HSV)\nDefenders: Julian Ryerson (Borussia Dortmund), Kristoffer Ajer (Brentford), Leo Skiri Østigård (Genoa), David Møller Wolfe (Wolverhampton Wanderers), Marcus Holmgren Pedersen (Torino), Torbjørn Heggem (Bologna), Fredrik Bjørkan (Bodø/Glimt), Henrik Falchener (Viking), Sondre Langås (Derby County)\nMidfielders: Martin Ødegaard (Arsenal), Sander Berge (Fulham), Patrick Berg (Bodø/Glimt), Kristian Thorstvedt (Sassuolo), Morten Thorsby (Cremonese), Thelo Aasgaard (Rangers), Andreas Schjelderup (Benfica), Jens Petter Hauge (Bodø/Glimt), Fredrik Aursnes (Benfica)\nForwards: Erling Haaland (Manchester City), Alexander Sørloth (Atlético Madrid), Jørgen Strand Larsen (Crystal Palace), Oscar Bobb (Fulham), Antonio Nusa (RB Leipzig)",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

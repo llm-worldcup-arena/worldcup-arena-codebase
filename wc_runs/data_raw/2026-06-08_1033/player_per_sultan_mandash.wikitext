@@ -1,0 +1,121 @@
+{{short description|Saudi Arabian footballer}}
+{{Infobox football biography
+| name= Sultan Mandash
+| fullname = Sultan Ahmed Mohammed Mandash
+| image =   
+| image_size =  
+| birth_date = {{Birth date and age|1994|10|17}}
+| birth_place = [[Jeddah]], [[Saudi Arabia]]
+| death_date = 
+| height = 1.72 m<ref>{{cite web |url=https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf |title=FIFA World Cup 2026: Squad List |publisher=[[FIFA]] |date=2 June 2026 |access-date=2 June 2026}}</ref>
+| currentclub = [[Al Hilal SFC|Al Hilal]]
+| clubnumber =  23
+| position = [[Midfielder#Winger|Winger]]
+| youthyears1 =
+| youthclubs1 = [[Al-Ittihad (Jeddah)|Al-Ittihad]]
+| years1 =  2014–2017
+| clubs1 =  [[Al-Ittihad (Jeddah)|Al-Ittihad]]
+| caps1  =  9
+| goals1 =  0
+| years2 =  2015–2016
+| clubs2 =  → [[Najran SC|Najran]] (loan)
+| caps2  =  18
+| goals2 =  0
+| years3 =  2017–2019
+| clubs3 =  [[Al-Faisaly FC|Al-Faisaly]]
+| caps3  =  33
+| goals3 =  3
+| years4 =  2019–2021
+| clubs4 =  [[Al-Ahli Saudi FC|Al-Ahli]]
+| caps4  =  20
+| goals4 =  2
+| years5 = 2020
+| clubs5 = → [[Al-Taawoun FC|Al-Taawoun]] (loan)
+| caps5  = 10
+| goals5 = 0
+| years6 = 2021–2024
+| clubs6 = [[Al-Fayha FC|Al-Fayha]]
+| caps6  = 88
+| goals6 = 8
+| years7 = 2024–2026
+| clubs7 = [[Al-Taawoun FC|Al-Taawoun]]
+| caps7  = 42
+| goals7 = 5
+| years8 = 2026–
+| clubs8 = [[Al Hilal SFC|Al Hilal]]
+| caps8  = 15
+| goals8 = 4
+| nationalyears1 = 2015–2016
+| nationalteam1  = [[Saudi Arabia national under-23 football team|Saudi Arabia U23]]
+| nationalcaps1  = 
+| nationalgoals1 = 
+| nationalyears2 = 2019–
+| nationalteam2  = [[Saudi Arabia national football team|Saudi Arabia]]
+| nationalcaps2  = 6
+| nationalgoals2 = 2
+| pcupdate       = 21 May 2026
+| ntupdate       = 6 June 2026
+}}
+
+'''Sultan Mandash''' ({{langx|ar|سلطان مندش}}; born October 17, 1994), is a Saudi Arabian [[association football|football]]er who plays as a [[Winger (association football)|winger]] for [[Al Hilal SFC|Al Hilal]] and the [[Saudi Arabia national football team|Saudi Arabia national team]].<ref>{{cite web |title=سلطان مندش - Sultan Madash |url=https://extragoal.net/player/s-mandash}}</ref>
+
+==Club career==
+On 1 June 2024, Mandash joined [[Al-Taawoun FC|Al-Taawoun]] on a two-year deal.<ref>{{cite web |title=رسمياً.. التعاون يضم سلطان مندش |url=https://www.alyaum.com/article/6533172}}</ref>
+
+On 11 January 2026, Mandash joined [[Al Hilal SFC|Al Hilal]] on a two-and-a-half year deal.<ref>{{cite web |title="سلطان مندش" هلاليًا لعامين ونصف |url=https://alhilal.com/ar/news/sltan-mndsh-hlalyana-laamyn-wnsf}}</ref>
+
+==International==
+''Scores and results list Saudi Arabia's goal tally first, score column indicates score after each Mandash goal.''
+
+{| class="wikitable sortable plainrowheaders"
+|+ List of international goals scored by Sultan Mandash
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+|-
+|style="text-align:center"|1
+|31 May 2026 || [[Sports Illustrated Stadium]], [[Harrison, New Jersey|Harrison]], [[United States]] || {{fb|ECU}} ||style="text-align:center"| 1–2 || style="text-align:center"| 1–2 || rowspan=2| [[Friendly (association football)|Friendly]]
+|-
+|style="text-align:center"|2
+|5 June 2026 || [[Q2 Stadium]], [[Austin, Texas|Austin]], United States || {{fb|PUR}} ||style="text-align:center"| 1–0 || style="text-align:center"| 3–0
+|}
+
+==Honours==
+'''Al-Ittihad'''
+*[[Saudi Crown Prince Cup|Crown Prince Cup]]: [[2016–17 Saudi Crown Prince Cup|2016–17]]
+
+'''Al-Fayha'''
+*[[Kings Cup (Saudi Arabia)|King Cup]]: [[2021–22 King Cup|2021–22]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+* {{soccerway|sultan-mandash/358703}}
+
+{{Al-Hilal FC squad}}
+{{Saudi Arabia squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Mandash, Sultan}}
+[[Category:1994 births]]
+[[Category:Living people]]
+[[Category:Footballers from Jeddah]]
+[[Category:Saudi Arabian men's footballers]]
+[[Category:Al-Ittihad Club (Jeddah) players]]
+[[Category:Najran S.FC players]]
+[[Category:Al Faisaly FC players]]
+[[Category:Al-Ahli Saudi FC players]]
+[[Category:Al-Fayha Club players]]
+[[Category:Al Taawoun FC players]]
+[[Category:Al Hilal SFC players]]
+[[Category:Saudi Pro League players]]
+[[Category:Men's association football wingers]]
+[[Category:21st-century Saudi Arabian sportsmen]]
+[[Category:2026 FIFA World Cup players]]
+
+
+{{SaudiArabia-footy-midfielder-stub}}

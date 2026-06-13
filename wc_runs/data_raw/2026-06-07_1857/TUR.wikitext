@@ -1,0 +1,35 @@
+===Current squad===
+The following 26 players were called up for the [[2026 FIFA World Cup]].<ref>{{cite web|title=A Millî Takımımızın 2026 FIFA Dünya Kupası Nihai Kadrosu Açıklandı|trans-title=Our Senior National Team's Final Squad for the 2026 FIFA World Cup Has Been Announced|url=https://www.tff.org/default.aspx?pageID=202&ftxtID=5072250587|publisher=[[Turkish Football Federation]] |date=2 June 2026|access-date=2 June 2026|language=tr}}</ref>
+<br>''Caps and goals are correct {{as of|2026|6|6|lc=y}}, after the match against [[Venezuela national football team|Venezuela]].<ref>{{cite web|url=https://www.tff.org/Default.aspx?pageID=440&macID=281470|title=Macaristan – Türkiye|trans-title=Hungary – Turkey|language=tr|publisher=[[Turkish Football Federation]]|access-date=23 March 2025}}</ref>''
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Mert Günok]]|age={{birth date and age|1989|3|1|df=y}}|caps=37|goals=0|club=[[Fenerbahçe S.K. (football)|Fenerbahçe]]|clubnat=TUR}}
+{{nat fs g player|no=12|pos=GK|name=[[Altay Bayındır]]|age={{birth date and age|1998|4|14|df=y}}|caps=12|goals=0|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs g player|no=23|pos=GK|name=[[Uğurcan Çakır]]|age={{birth date and age|1996|4|5|df=y}}|caps=39|goals=0|club=[[Galatasaray S.K. (football)|Galatasaray]]|clubnat=TUR}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Zeki Çelik]]|other=[[Captain (association football)|fifth captain]]|age={{birth date and age|1997|2|17|df=y}}|caps=61|goals=3|club=[[AS Roma|Roma]]|clubnat=ITA}}
+{{nat fs g player|no=3|pos=DF|name=[[Merih Demiral]]|other=[[Captain (association football)|third captain]]|age={{birth date and age|1998|3|5|df=y}}|caps=62|goals=6|club=[[Al-Ahli Saudi FC|Al-Ahli]]|clubnat=KSA}}
+{{nat fs g player|no=4|pos=DF|name=[[Çağlar Söyüncü]]|other=[[Captain (association football)|fourth captain]]|age={{birth date and age|1996|5|23|df=y}}|caps=60|goals=2|club=[[Fenerbahçe S.K. (football)|Fenerbahçe]]|clubnat=TUR}}
+{{nat fs g player|no=13|pos=DF|name=[[Eren Elmalı]]|age={{birth date and age|2000|7|7|df=y}}|caps=23|goals=0|club=[[Galatasaray S.K. (football)|Galatasaray]]|clubnat=TUR}}
+{{nat fs g player|no=14|pos=DF|name=[[Abdülkerim Bardakcı]]|age={{birth date and age|1994|9|7|df=y}}|caps=27|goals=2|club=[[Galatasaray S.K. (football)|Galatasaray]]|clubnat=TUR}}
+{{nat fs g player|no=15|pos=DF|name=[[Ozan Kabak]]|age={{birth date and age|2000|3|25|df=y}}|caps=30|goals=2|club=[[TSG 1899 Hoffenheim|TSG Hoffenheim]]|clubnat=GER}}
+{{nat fs g player|no=18|pos=DF|name=[[Mert Müldür]]|age={{birth date and age|1999|4|3|df=y}}|caps=45|goals=3|club=[[Fenerbahçe S.K. (football)|Fenerbahçe]]|clubnat=TUR}}
+{{nat fs g player|no=20|pos=DF|name=[[Ferdi Kadıoğlu]]|age={{birth date and age|1999|10|7|df=y}}|caps=30|goals=2|club=[[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]|clubnat=ENG}}
+{{nat fs g player|no=25|pos=DF|name=[[Samet Akaydin]]|age={{birth date and age|1994|5|13|df=y}}|caps=19|goals=1|club=[[Çaykur Rizespor]]|clubnat=TUR}}
+{{nat fs break}}
+{{nat fs g player|no=5|pos=MF|name=[[Salih Özcan]]|age={{birth date and age|1998|1|11|df=y}}|caps=30|goals=1|club=[[Borussia Dortmund]]|clubnat=GER}}
+{{nat fs g player|no=6|pos=MF|name=[[Orkun Kökçü]]|age={{birth date and age|2000|12|29|df=y}}|caps=50|goals=4|club=[[Beşiktaş J.K.|Beşiktaş]]|clubnat=TUR}}
+{{nat fs g player|no=10|pos=MF|name=[[Hakan Çalhanoğlu]]|other=[[Captain (association football)|captain]]|age={{birth date and age|1994|2|8|df=y}}|caps=105|goals=22|club=[[Inter Milan]]|clubnat=ITA}}
+{{nat fs g player|no=16|pos=MF|name=[[İsmail Yüksek]]|age={{birth date and age|1999|1|26|df=y}}|caps=32|goals=1|club=[[Fenerbahçe S.K. (football)|Fenerbahçe]]|clubnat=TUR}}
+{{nat fs g player|no=22|pos=MF|name=[[Kaan Ayhan]]|other=[[Captain (association football)|vice-captain]]|age={{birth date and age|1994|11|10|df=y}}|caps=73|goals=5|club=[[Galatasaray S.K. (football)|Galatasaray]]|clubnat=TUR}}
+{{nat fs break}}
+{{nat fs g player|no=7|pos=FW|name=[[Kerem Aktürkoğlu]]|age={{birth date and age|1998|10|21|df=y}}|caps=52|goals=15|club=[[Fenerbahçe S.K. (football)|Fenerbahçe]]|clubnat=TUR}}
+{{nat fs g player|no=8|pos=FW|name=[[Arda Güler]]|age={{birth date and age|2005|2|25|df=y}}|caps=29|goals=6|club=[[Real Madrid CF|Real Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=9|pos=FW|name=[[Deniz Gül]]|age={{birth date and age|2004|7|2|df=y}}|caps=8|goals=2|club=[[FC Porto|Porto]]|clubnat=POR}}
+{{nat fs g player|no=11|pos=FW|name=[[Kenan Yıldız]]|age={{birth date and age|2005|5|4|df=y}}|caps=28|goals=5|club=[[Juventus FC|Juventus]]|clubnat=ITA}}
+{{nat fs g player|no=17|pos=FW|name=[[İrfan Can Kahveci]]|age={{birth date and age|1995|7|15|df=y}}|caps=47|goals=6|club=[[Kasımpaşa S.K.|Kasımpaşa]]|clubnat=TUR}}
+{{nat fs g player|no=19|pos=FW|name=[[Yunus Akgün]]|age={{birth date and age|2000|7|7|df=y}}|caps=19|goals=4|club=[[Galatasaray S.K. (football)|Galatasaray]]|clubnat=TUR}}
+{{nat fs g player|no=21|pos=FW|name=[[Barış Alper Yılmaz]]|age={{birth date and age|2000|5|23|df=y}}|caps=35|goals=4|club=[[Galatasaray S.K. (football)|Galatasaray]]|clubnat=TUR}}
+{{nat fs g player|no=24|pos=FW|name=[[Oğuz Aydın]]|age={{birth date and age|2000|10|27|df=y}}|caps=11|goals=0|club=[[Fenerbahçe S.K. (football)|Fenerbahçe]]|clubnat=TUR}}
+{{nat fs g player|no=26|pos=FW|name=[[Can Uzun]]|age={{birth date and age|2005|11|11|df=y}}|caps=6|goals=1|club=[[Eintracht Frankfurt]]|clubnat=GER}}
+{{nat fs end}}

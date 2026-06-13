@@ -1,0 +1,35 @@
+===Current squad===
+On 15 May 2026, the following 26 players were named in the squad for the [[2026 FIFA World Cup]], and for the pre-tournament friendly match against [[France national football team|France]] on 4 June 2026.<ref>{{cite news |url=https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/c%C3%B4te-d-ivoire-at-the-2026-world-cup-squad-key-players-and-everything-you-need-to-know-2026-05-15 |title=Côte d’Ivoire at the 2026 World Cup: Squad, Key Players and Everything You Need to Know |publisher=beinsports| access-date=15 May 2026}}</ref> [[Clément Akpa]] withdrew injured, and was replaced by [[Christopher Opéri]] on May 29.<ref>{{cite web |url=https://x.com/equipenatciv/status/2060394431027544205 |title=🚨 COMMUNIQUÉ MONDIAL 2026. Clément Akpa forfait remplacé par Christopher Operi. La Fédération Ivoirienne de Football informe la presse, les partenaires et le public sportif que l’international ivoirien Clément Akpa , convoqué par le sélectionneur national Émerse FAÉ pour le Mondial 2026, est forfait pour raison de blessure. Clément Akpa est donc remplacé par Christopher Operi initialement inscrit sur la liste des réservistes. La Fédération Ivoirienne de Football adresse à Clément Akpa ses vœux de prompt rétablissement et lui renouvelle tout son soutien. |publisher=[[Ivorian Football Federation]] |via=[[X (social network)|X.com]] |date=May 15, 2026 |access-date=May 29, 2026 |url-status=live |language=fr}}</ref>
+<br>''Caps and goals updated as of 4 June 2026, after the match against [[France national football team|France]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Yahia Fofana]]|age={{bda|2000|8|21|df=y}}|caps=35|goals=0|club=[[Çaykur Rizespor]]|clubnat=TUR}}
+{{nat fs g player|no=16|pos=GK|name=[[Mohamed Koné (footballer, born 2002)|Mohamed Koné]]|age={{bda|2002|3|7|df=y}}|caps=0|goals=0|club=[[Royal Charleroi S.C.|Charleroi]]|clubnat=BEL}}
+{{nat fs g player|no=23|pos=GK|name=[[Alban Lafont]]|age={{bda|1999|1|23|df=y}}|caps=4|goals=0|club=[[Panathinaikos F.C.|Panathinaikos]]|clubnat=GRE}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Ousmane Diomande]]|age={{bda|2003|12|4|df=y}}|caps=15|goals=1|club=[[Sporting CP]]|clubnat=POR}}
+{{nat fs g player|no=3|pos=DF|name=[[Ghislain Konan]]|other=[[Captain (association football)|fourth captain]]|age={{bda|1995|12|27|df=y}}|caps=54|goals=0|club=[[Gil Vicente F.C.|Gil Vicente]]|clubnat=POR}}
+{{nat fs g player|no=5|pos=DF|name=[[Wilfried Singo]]|age={{bda|2000|12|25|df=y}}|caps=34|goals=1|club=[[Galatasaray S.K. (football)|Galatasaray]]|clubnat=TUR}}
+{{nat fs g player|no=7|pos=DF|name=[[Odilon Kossounou]]|age={{bda|2001|1|4|df=y}}|caps=35|goals=0|club=[[Atalanta BC|Atalanta]]|clubnat=ITA}}
+{{nat fs g player|no=13|pos=DF|name=[[Christopher Opéri]]|age={{bda|1997|4|29|df=y}}|caps=12|goals=0|club=[[İstanbul Başakşehir F.K.|İstanbul Başakşehir]]|clubnat=TUR}}
+{{nat fs g player|no=17|pos=DF|name=[[Guéla Doué]]|age={{bda|2002|10|17|df=y}}|caps=20|goals=3|club=[[RC Strasbourg Alsace|Strasbourg]]|clubnat=FRA}}
+{{nat fs g player|no=20|pos=DF|name=[[Emmanuel Agbadou]]|age={{bda|1997|6|7|df=y}}|caps=20|goals=2|club=[[Beşiktaş J.K.|Beşiktaş]]|clubnat=TUR}}
+{{nat fs g player|no=21|pos=DF|name=[[Evan Ndicka]]|age={{bda|1999|8|20|df=y}}|caps=28|goals=0|club=[[AS Roma|Roma]]|clubnat=ITA}}
+{{nat fs break}}
+{{nat fs g player|no=4|pos=MF|name=[[Jean Michaël Seri]]|other=[[Captain (association football)|vice-captain]]|age={{bda|1991|7|19|df=y}}|caps=65|goals=4|club=[[NK Maribor|Maribor]]|clubnat=SVN}}
+{{nat fs g player|no=6|pos=MF|name=[[Seko Fofana]]|age={{bda|1995|5|7|df=y}}|caps=32|goals=7|club=[[FC Porto|Porto]]|clubnat=POR}}
+{{nat fs g player|no=8|pos=MF|name=[[Franck Kessié]]|other=[[Captain (association football)|captain]]|age={{bda|1996|12|19|df=y}}|caps=103|goals=15|club=[[Al-Ahli Saudi FC|Al-Ahli]]|clubnat=KSA}}
+{{nat fs g player|no=18|pos=MF|name=[[Ibrahim Sangaré (Ivorian footballer)|Ibrahim Sangaré]]|other=[[Captain (association football)|third captain]]|age={{bda|1997|12|2|df=y}}|caps=58|goals=12|club=[[Nottingham Forest F.C.|Nottingham Forest]]|clubnat=ENG}}
+{{nat fs g player|no=25|pos=MF|name=[[Parfait Guiagon]]|age={{bda|2001|2|22|df=y}}|caps=5|goals=0|club=[[Royal Charleroi S.C.|Charleroi]]|clubnat=BEL}}
+{{nat fs g player|no=26|pos=MF|name=[[Christ Inao Oulaï]]|age={{bda|2006|4|6|df=y}}|caps=9|goals=0|club=[[Trabzonspor]]|clubnat=TUR}}
+{{nat fs break}}
+{{nat fs g player|no=9|pos=FW|name=[[Ange-Yoan Bonny]]|age={{bda|2003|10|25|df=y}}|caps=1|goals=0|club=[[Inter Milan|Internazionale]]|clubnat=ITA}}
+{{nat fs g player|no=10|pos=FW|name=[[Simon Adingra]]|age={{bda|2002|1|1|df=y}}|caps=29|goals=5|club=[[AS Monaco FC|Monaco]]{{efn|name=mon|[[AS Monaco FC|Monaco]] is a Monégasque club playing in the [[French football league system]].}}|clubnat=FRA}}
+{{nat fs g player|no=11|pos=FW|name=[[Yan Diomande]]|age={{bda|2006|11|14|df=y}}|caps=10|goals=3|club=[[RB Leipzig]]|clubnat=GER}}
+{{nat fs g player|no=12|pos=FW|name=[[Elye Wahi]]|age={{bda|2003|1|2|df=y}}|caps=2|goals=0|club=[[OGC Nice|Nice]]|clubnat=FRA}}
+{{nat fs g player|no=14|pos=FW|name=[[Oumar Diakité]]|age={{bda|2003|12|20|df=y}}|caps=29|goals=6|club=[[Cercle Brugge KSV|Cercle Brugge]]|clubnat=BEL}}
+{{nat fs g player|no=15|pos=FW|name=[[Amad Diallo]]|age={{bda|2002|7|11|df=y}}|caps=19|goals=6|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs g player|no=19|pos=FW|name=[[Nicolas Pépé]]|other=[[Captain (association football)|fifth captain]]|age={{bda|1995|5|29|df=y}}|caps=55|goals=12|club=[[Villarreal CF|Villarreal]]|clubnat=ESP}}
+{{nat fs g player|no=22|pos=FW|name=[[Evann Guessand]]|age={{bda|2001|7|1|df=y}}|caps=21|goals=4|club=[[Crystal Palace F.C.|Crystal Palace]]|clubnat=ENG}}
+{{nat fs g player|no=24|pos=FW|name=[[Bazoumana Touré]]|age={{bda|2006|3|2|df=y}}|caps=6|goals=2|club=[[TSG 1899 Hoffenheim|TSG Hoffenheim]]|clubnat=GER}}
+{{nat fs end}}

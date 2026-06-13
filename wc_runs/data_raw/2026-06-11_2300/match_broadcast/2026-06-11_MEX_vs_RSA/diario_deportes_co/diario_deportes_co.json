@@ -1,0 +1,22 @@
+{
+ "source": "Diario Deportes（哥伦比亚）",
+ "url": "https://diariodeportes.com.co/futbol-internacional/mundial-usa-canada-mexico-2026/partido-inaugural-mexico-2-x-surafrica-0-juego-con-3-expulsados-y-quinones-figura/",
+ "title": "Partido Inaugural, México 2 x Suráfrica 0, juego con 3 expulsados y Quiñones figura",
+ "published": "2026-06-12T00:53:00+00:00",
+ "tier": "3",
+ "lang": "es",
+ "match": {
+  "date": "2026-06-11",
+  "home": "MEX",
+  "away": "RSA",
+  "home_en": "Mexico",
+  "away_en": "South Africa",
+  "comp": "小组赛·A组",
+  "match_id": "M1",
+  "slug": "2026-06-11_MEX_vs_RSA"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "México abre el Mundial 2026 con triunfo, goles y un récord para el olvido . El Mundial de la FIFA 2026 levantó su telón en el legendario Estadio Azteca con una victoria de México por 2×0 sobre Sudáfrica, en un partido que tuvo de todo: goles, emociones, expulsiones y una marca negativa que quedará registrada en la historia de las Copas del Mundo.\n\nAnte un estadio repleto y una atmósfera de fiesta, la selección mexicana golpeó temprano gracias a Julián Quiñones. El delantero nacido en Colombia y nacionalizado mexicano aprovechó una oportunidad dentro del área para vencer al guardameta sudafricano Ronwen Williams a los 9 minutos del primer tiempo. El grito de gol estremeció las tribunas y convirtió a Quiñones en el autor del primer gol del Mundial 2026, un privilegio reservado para muy pocos futbolistas en la historia.\n\nMéxico mantuvo el control del encuentro durante gran parte de la noche, mientras Sudáfrica intentaba reaccionar sin encontrar claridad en ataque. El equipo africano se vio superado por la presión mexicana y poco a poco comenzó a perder la calma.\n\nLa tensión fue creciendo hasta desembocar en una estadística inédita para un partido inaugural de una Copa del Mundo. El árbitro brasileño Wilton Sampaio mostró tres tarjetas rojas durante el compromiso. Por México fue expulsado César Montes, mientras que por Sudáfrica vieron la roja Siphephelo Sithole y Themba Zwane.\n\nLas expulsiones transformaron el encuentro en una batalla de carácter y disciplina. Con espacios cada vez mayores en el terreno de juego, México encontró la tranquilidad definitiva a los 67 minutos. Raúl Jiménez apareció con toda su experiencia para marcar el segundo tanto de la noche y asegurar la primera victoria del torneo para el conjunto anfitrión.\n\nEl pitazo final confirmó una jornada histórica. México sumó sus primeros tres puntos en el Grupo A, Julián Quiñones escribió su nombre en los libros del fútbol al anotar el primer gol del campeonato y el duelo dejó una marca negativa difícil de olvidar: tres expulsados en el primer partido de un Mundial, una cifra sin precedentes para un encuentro inaugural.\n\nAsí comenzó la Copa Mundial de 2026: con el Azteca como escenario, México celebrando ante su gente y una noche que ya ocupa un lugar especial en la historia del fútbol mundial.\n\nFigura del partido Julián Quiñones, autor del primer gol de la Copa del Mundo y protagonista de una noche triunfal.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

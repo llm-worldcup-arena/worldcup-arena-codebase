@@ -1,0 +1,577 @@
+{{Short description|Footballer (born 1991)}}
+{{Use dmy dates|date=June 2019}}
+{{family name hatnote|Kakuta|Mambenga|lang=Congolese}}
+{{Infobox football biography
+| name = Gaël Kakuta
+| image = Entraînement du RC Lens - 15 juillet 2020 24.jpg
+| caption = Kakuta with [[RC Lens|Lens]] in 2020
+| fullname = Gaël Romeo Kakuta Mambenga<ref>{{cite web |url=http://actas.rfef.es/actas/RFEF_CmpActa1?cod_primaria=1000144&CodActa=56986 |title=Acta del Partido celebrado el 04 de mayo de 2019, en Valencia |trans-title=Minutes of the Match held on 4 May 2019, in Valencia |publisher=Royal Spanish Football Federation |language=es |archive-url=https://web.archive.org/web/20200124004200/http://actas.rfef.es/actas/RFEF_CmpActa1?cod_primaria=1000144&CodActa=56986 |archive-date=24 January 2020}}</ref>
+| birth_date = {{birth date and age|1991|6|21|df=y}}<ref name=Hugman>{{Hugman|23624|Gael Kakuta|access-date=24 January 2020}}</ref>
+| birth_place = [[Lille]], France
+| height = 1.73 m<ref>{{cite web |url=https://www.premierleague.com/players/3594/Ga%C3%ABl-Kakuta/overview |title=Gaël Kakuta: Overview |publisher=Premier League |access-date=24 January 2020 |archive-date=11 May 2021 |archive-url=https://web.archive.org/web/20210511002156/https://www.premierleague.com/players/3594/Ga%C3%ABl-Kakuta/overview |url-status=dead }}</ref>
+| position = [[Winger (association football)|Winger]]<ref name=Hugman/>
+| currentclub = [[Athlitiki Enosi Larissa F.C.|AEL]]
+| clubnumber = 5
+| youthyears1 = 1998–1999
+| youthclubs1 = US Lille-Moulins
+| youthyears2 = 1999–2007
+| youthclubs2 = [[RC Lens|Lens]]
+| youthyears3 = 2007–2009
+| youthclubs3 = [[Chelsea F.C.|Chelsea]]
+| years1 = 2009–2015
+| clubs1 = [[Chelsea F.C.|Chelsea]]
+| caps1 = 6
+| goals1 = 0
+| years2 = 2011
+| clubs2 = → [[Fulham F.C.|Fulham]] (loan)
+| caps2 = 7
+| goals2 = 1
+| years3 = 2011–2012
+| clubs3 = → [[Bolton Wanderers F.C.|Bolton Wanderers]] (loan)
+| caps3 = 4
+| goals3 = 0
+| years4 = 2012
+| clubs4 = → [[Dijon FCO|Dijon]] (loan)
+| caps4 = 14
+| goals4 = 4
+| years5 = 2012–2014
+| clubs5 = → [[SBV Vitesse|Vitesse]] (loan)
+| caps5 = 34
+| goals5 = 2
+| years6 = 2014
+| clubs6 = → [[SS Lazio|Lazio]] (loan)
+| caps6 = 1
+| goals6 = 0
+| years7 = 2014–2015
+| clubs7 = → [[Rayo Vallecano]] (loan)
+| caps7 = 35
+| goals7 = 5
+| years8 = 2015–2016
+| clubs8 = [[Sevilla FC|Sevilla]]
+| caps8 = 2
+| goals8 = 0
+| years9 = 2016–2018
+| clubs9 = [[Hebei China Fortune]]
+| caps9 = 24
+| goals9 = 2
+| years10 = 2017
+| clubs10 = → [[Deportivo de La Coruña|Deportivo La Coruña]] (loan)
+| caps10 = 10
+| goals10 = 2
+| years11 = 2017–2018
+| clubs11 = → [[Amiens SC|Amiens]] (loan)
+| caps11 = 36
+| goals11 = 6
+| years12 = 2018–2019
+| clubs12 = [[Rayo Vallecano]]
+| caps12 = 12
+| goals12 = 1
+| years13 = 2019–2021
+| clubs13 = [[Amiens SC|Amiens]]
+| caps13 = 24
+| goals13 = 2
+| years14 = 2020–2021
+| clubs14 = → [[RC Lens|Lens]] (loan)
+| caps14 = 35
+| goals14 = 11
+| years15 = 2021–2022
+| clubs15 = [[RC Lens|Lens]]
+| caps15 = 31
+| goals15 = 3
+| years16 = 2022–2024
+| clubs16 = [[Amiens SC|Amiens]]
+| caps16 = 43
+| goals16 = 10
+| years17 = 2024–2025
+| clubs17 = [[Esteghlal F.C.|Esteghlal]]
+| caps17 = 13
+| goals17 = 0
+| years18 = 2025–2026
+| clubs18 = [[Sakaryaspor]]
+| caps18 = 28
+| goals18 = 9
+| years19 = 2026–
+| clubs19 = [[Athlitiki Enosi Larissa F.C.|AEL]]
+| caps19 = 12
+| goals19 = 1
+| nationalyears1 = 2006–2007
+| nationalteam1 = [[France national under-16 football team|France U16]]
+| nationalcaps1 = 12
+| nationalgoals1 = 5
+| nationalyears2 = 2007–2008
+| nationalteam2 = [[France national under-17 football team|France U17]]
+| nationalcaps2 = 14
+| nationalgoals2 = 3
+| nationalyears3 = 2008–2009
+| nationalteam3 = [[France national under-18 football team|France U18]]
+| nationalcaps3 = 5
+| nationalgoals3 = 3
+| nationalyears4 = 2009–2010
+| nationalteam4 = [[France national under-19 football team|France U19]]
+| nationalcaps4 = 13
+| nationalgoals4 = 4
+| nationalyears5 = 2010–2011
+| nationalteam5 = [[France national under-20 football team|France U20]]
+| nationalcaps5 = 11
+| nationalgoals5 = 2
+| nationalyears6 = 2011–2013
+| nationalteam6 = [[France national under-21 football team|France U21]]
+| nationalcaps6 = 18
+| nationalgoals6 = 6
+| nationalyears7 = 2017–
+| nationalteam7 = [[DR Congo national football team|DR Congo]]
+| nationalcaps7 = 30
+| nationalgoals7 = 5
+| club-update = 3 June 2026
+| nationalteam-update = 6 January 2026
+| medaltemplates = {{Medal|Sport|Men's [[Association football|football]]}}
+{{Medal|Country|{{fb| FRA}}}}
+{{Medal|Competition|[[UEFA European Under-19 Championship]]}}
+{{Medal|W|[[2010 UEFA European Under-19 Championship|2010]]|}}
+{{Medal|Competition|[[UEFA European Under-17 Championship]]}}
+{{Medal|RU|[[2008 UEFA European Under-17 Championship|2008]]|}}
+}}
+'''Gaël Romeo Kakuta Mambenga''' (born 21 June 1991) is a professional [[Association football|footballer]] who plays as a [[Winger (association football)|winger]] for [[Super League Greece|Greek Super League]] club [[Athlitiki Enosi Larissa F.C.|AEL]].<ref>{{Cite web |title=GAËL ROMEO KAKUTA MAMBENGA - Futbolcu Bilgileri TFF |url=https://www.tff.org/Default.aspx?pageId=30&kisiID=2770770 |access-date=2026-02-07 |website=www.tff.org}}</ref> Born in France, he represents the [[DR Congo national football team|DR Congo national team]].
+
+A youth product of [[RC Lens]], Kakuta moved to [[Chelsea F.C.|Chelsea]] in 2007 [[2009 English football tapping up controversy|in a controversial transfer]]. Rarely used at Chelsea, he was loaned to six teams in five countries before leaving for [[Sevilla FC|Sevilla]] upon the expiration of his contract in 2015.
+
+He was a [[France national youth football team|French youth international]] and represented the nation at every age group from [[France national under-16 football team|under-16]] to [[France national under-21 football team|under-21]] levels,<ref>{{cite web|url=http://www.chelseafc.com/news-article/article/2178959|title=Home|website=ChelseaFC}}</ref> before switching allegiance to the DR Congo national team in 2017.<ref>{{cite web|url=http://www.rcdeportivo.es/noticia/kakuta-entra-en-los-planes-de-la-republica-democratica-del-congo-para-un-amistoso|title=Kakuta entra en los planes de la República Democrática del Congo para un amistoso - Página Oficial del R.C. Deportivo de La Coruña|website=Kakuta entra en los planes de la República Democrática del Congo para un amistoso - Página Oficial del R.C. Deportivo de La Coruña}}</ref>
+
+==Club career==
+===Early career===
+Kakuta was born in [[Lille]], Nord.<ref name=Hugman>{{Hugman|23624|Gael Kakuta|access-date=24 January 2020}}</ref> He started playing football at the age of seven, after seeing his uncle play for the reserve team of [[Lille OSC|Lille]]. He began his career with local club US Lille-Moulins. In his first match with the club, they lost 17–1, however, the defeat was not enough to put him off.<ref>{{cite news |last1=Thacker |first1=Gary |title=Gaël Kakuta: the brightest of talents whose light never shone |url=https://thesefootballtimes.co/2019/01/23/gael-kakuta-the-brightest-of-talents-whose-light-never-shone/ |access-date=15 September 2020 |work=These Football Times |date=23 January 2019}}</ref> In 1999, he joined [[RC Lens|Lens]] as a youth player, and spent five years there.<ref name=Angered>{{cite news | title=Chelsea angered by signings ban |publisher=BBC Sport | url=https://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/8236187.stm |date=4 September 2009| access-date=4 February 2010}}</ref> In 2004, Kakuta was selected to attend the Centre de Préformation de Football in nearby [[Liévin]], a training center exclusively for players brought up in the [[Nord-Pas-de-Calais]] [[Regions of France|region]]. He spent two years at the center training there during the weekdays and playing with Lens on the weekends. One of his trainers at the facility was former [[Poland national football team|Polish international]] [[Joachim Marx]].<ref name=Tribal1>{{cite web| title=Lens have no doubt Chelsea's Kakuta will be superstar| work=Tribal Football| url=http://www.tribalfootball.com/lens-have-no-doubt-chelseas-kakuta-will-be-superstar-296901| date=4 September 2009| access-date=18 October 2009| archive-url=https://web.archive.org/web/20091124094011/http://www.tribalfootball.com/lens-have-no-doubt-chelseas-kakuta-will-be-superstar-296901| archive-date=24 November 2009| url-status=dead| df=dmy-all}}</ref>
+
+===Ban and fine===
+{{see also|2009 English football tapping up controversy}}
+On 3 September 2009, it was announced by the [[FIFA]] Dispute Resolution Chamber,<ref name=DRCDec>{{cite web | title=Kakuta: DRC decision reached | work=FIFA.com|date=3 September 2009| url=https://www.fifa.com/aboutfifa/organisation/administration/news/newsid=1097777/| archive-url=https://web.archive.org/web/20140406115016/http://www.fifa.com/aboutfifa/organisation/administration/news/newsid=1097777/| url-status=dead| archive-date=6 April 2014}}</ref> that Kakuta would be banned for four months and be fined €780,000 due to a breach of contract with his old club Lens in order to sign for Chelsea in the summer of 2007. Chelsea were also banned from signing any players in the next two [[transfer window]]s due to their involvement in inducing the player to break his contract at Lens, meaning they would have been unable to buy or sell players until January 2011. Further to this they received a €130,000 fine, payable to Lens.<ref name=Angered/>
+
+The club stated that they would "mount the strongest appeal possible" and described the behavior of FIFA as "extraordinarily arbitrary decision". Chelsea believed "the sanctions are without precedent to this level and totally disproportionate to the alleged offense and the financial penalty imposed".<ref name=Chels1>{{cite web | title=STATEMENT ON FIFA SANCTIONS | publisher=Chelsea FC | date=3 September 2009 | url=http://www.chelseafc.com/news-article/article/1787070 | url-status=dead | archive-url=https://web.archive.org/web/20140103092121/http://www.chelseafc.com/news-article/article/1787070 | archive-date=3 January 2014 | df=dmy-all }}</ref> Chelsea appealed to the [[Court of Arbitration for Sport]], who subsequently lifted the sanctions on the club and the player after ruling that Kakuta did not have a valid contract with Lens, and therefore could not have breached it. Chelsea's transfer ban was suspended later in the same year, and was lifted in February 2010.<ref name=Chels2>{{cite news|url=http://www.chelseafc.com/news-article/article/1955578|title=Statement on Kakuta Decision|publisher=Chelsea FC|date=4 February 2010|access-date=2 January 2014|url-status=dead|archive-url=https://web.archive.org/web/20140103092129/http://www.chelseafc.com/news-article/article/1955578|archive-date=3 January 2014}}</ref>
+
+===Chelsea===
+[[File:Gaël Kakuta 4554.jpg|thumb|upright|Kakuta warming up for [[Chelsea F.C.|Chelsea]] in 2010]]
+
+Kakuta moved to Chelsea in 2007 and became a player for [[Chelsea F.C. Reserves and Youth Team|the youth team]]. He impressed at Chelsea after his first reserve game alongside teammate [[Michael Ballack]]. The [[Germany national football team|German international]] told journalists, "Go see the French lad, he is the star". Kakuta soon began to flourish earning the Academy Scholar of the Year award after his first season with Chelsea. He was also voted Academy Player of the Year after finishing as the top scorer in the youth side finishing his first Chelsea season with 12 goals in 24 appearances. This included a hat trick against [[Port Vale F.C.|Port Vale]] in the [[FA Youth Cup]].<ref name=Angered/>
+
+For the [[2008–09 in English football|2008–09 season]], Kakuta was given the opportunity to train with the first team, though he was still limited to playing with the club's reserve team. In February 2009, Kakuta saw his progress come to a shuddering halt when he suffered a double ankle fracture in a [[Exhibition match|friendly]] against the [[Glenn Hoddle Academy]]. Kakuta missed six months returning to the team in August for a youth game against local side [[Queens Park Rangers F.C.|Queens Park Rangers]]. On 1 September 2009, Chelsea manager [[Carlo Ancelotti]] added Kakuta to his Champions League squad. Kakuta made his much anticipated Premier League debut during a home match against [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] on 21 November 2009 as a substitute replacing [[Nicolas Anelka]] on the hour, impressing largely with his tricks, skills, pace and enthusiasm.<ref>{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/eng_prem/8365169.stm|work=BBC Sport |publisher=British Broadcasting Corporation|last=Lyon|first=Sam|title=Chelsea 4–0 Wolves|date=21 November 2009|access-date=21 November 2009}}</ref> On 2 December 2009, he came on as a half-time substitute for [[Joe Cole]] during the quarter-final match of the [[2009–10 Football League Cup|League Cup]] against [[Blackburn Rovers F.C.|Blackburn Rovers]] losing on penalties when he missed the decisive penalty in the shoot-out.
+
+On 8 December 2009, he made his [[UEFA Champions League|Champions League]] debut against [[APOEL F.C.|APOEL]]. He became the youngest Chelsea player to ever represent the club in the Champions League. He played 73 minutes before being substituted for [[Fabio Borini]]. The match ended in a 2–2 draw. Ancelotti described Kakuta as the "only positive of the night" and said he "will be the future of Chelsea".<ref>{{cite news| url=https://news.bbc.co.uk/sport2/hi/football/europe/8399422.stm |work=BBC Sport | title=Chelsea 2–2 Apoel Nicosia | date=8 December 2009 | first=Phil | last=McNulty}}</ref>
+
+On 21 December 2010, Kakuta signed a new four-and-a-half-year contract with Chelsea, committing himself to the club until 2015. Kakuta expressed his desire to leave because he says he is unwilling to sit on the bench for another year.<ref>{{cite news| url=http://www1.skysports.com/football/news/11799/7988676/Kakuta-keen-to-leave-Chelsea|title=Kakuta keen to leave Chelsea | work=Sky Sports}}</ref>
+
+====Various loans====
+On 25 January 2011, Kakuta had a medical at [[Fulham F.C.|Fulham]] with a view to joining them on loan until the end of the season. Kakuta passed his medical 26 January and joined Fulham for the rest of the 2010–11 season.<ref>{{cite web | url = http://www.fulhamfc.com/Club/News/NewsArticles/2011/January/LoanDeal.aspx | title = Kakuta Loan Deal | publisher = Fulham FC | access-date = 2 January 2014 | archive-url = https://web.archive.org/web/20110827105608/http://www.fulhamfc.com/Club/News/NewsArticles/2011/January/LoanDeal.aspx | archive-date = 27 August 2011 | url-status = dead | df = dmy-all }}</ref> He was assigned the number 24 shirt. On 5 March, Kakuta came on for [[Mousa Dembélé (footballer, born 1987)|Mousa Dembélé]] on 78 minutes in their 3–2 win over [[Blackburn Rovers]]. On 9 April, he started against [[Manchester United]] at [[Old Trafford]], playing the full 90 minutes in attack alongside [[Bobby Zamora]] in a 2–0 defeat. He scored his first goal for Fulham against [[Sunderland A.F.C.|Sunderland]] on 30 April.
+
+On 31 August 2011, Kakuta joined [[Bolton Wanderers F.C.|Bolton Wanderers]] on loan until 1 January 2012. He made his debut in the League Cup third round tie at [[Aston Villa]] on 20 September and scored in a 2–0 win,<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/14893519 |title=Aston Villa 0 – 2 Bolton |work=BBC Sport |date=20 September 2011 |access-date=20 September 2011}}</ref> but it was not until 22 October that he made his first league appearance when coming on as a second-half substitute for [[Martin Petrov]] in a 2–0 [[Reebok Stadium|home]] loss to Sunderland. Kakuta's stay was considered an unsuccessful one, where he only made six appearances in total. On 11 January 2012, Kakuta joined [[Dijon FCO|Dijon]] on loan until the end of the season.<ref>{{cite news|url=https://www.foxnews.com/sports/kakuta-secures-dijon-loan/ |title=Kakuta secures Dijon loan |work=Fox News |date=11 January 2012 |access-date=11 January 2012}}</ref> Kakuta was given the number 12 jersey. He made a goalscoring debut in the [[Coupe de France]] against [[FC Istres|Istres]].<ref>{{cite web | url=http://soccernet.espn.go.com/match/_/id/335510?cc=5901 | archive-url=https://archive.today/20120714181635/http://soccernet.espn.go.com/match/_/id/335510?cc=5901 | url-status=dead | archive-date=14 July 2012 | title=Dijon v FC Istres | work=ESPN | date=21 January 2012 | access-date=21 January 2012 }}</ref> On 28 January, Kakuta made his league debut, coming off the bench in a 3–1 loss against [[Olympique Lyonnais|Lyon]].<ref>{{cite web | url=http://soccernet.espn.go.com/match?id=320191&cc=5901 | archive-url=https://archive.today/20120716201736/http://soccernet.espn.go.com/match?id=320191&cc=5901 | url-status=dead | archive-date=16 July 2012 | title=Lyon v Dijon | work=ESPN | date=28 January 2012 | access-date=28 January 2012 }}</ref> On 11 February, Kakuta made his first league start and scored the first goal against [[Stade Brestois 29|Brest]] in a 1–1 draw.<ref>{{cite web | url=http://soccernet.espn.go.com/match?id=320171&cc=5901 | archive-url=https://archive.today/20120718122739/http://soccernet.espn.go.com/match?id=320171&cc=5901 | url-status=dead | archive-date=18 July 2012 | title=Brest v Dijon | work=ESPN | date=11 February 2012 | access-date=11 February 2012 }}</ref> On 18 February, Kakuta scored the opening goal and also assisting in another for a 3–0 win against [[OGC Nice|Nice]].<ref>{{cite web |url=http://soccernet.espn.go.com/match?id=320163&cc=5901 |archive-url=https://archive.today/20120719064148/http://soccernet.espn.go.com/match?id=320163&cc=5901 |url-status=dead |archive-date=19 July 2012 | title=Dijon v Nice | work=ESPN | date= 18 February 2012}}</ref>
+
+On transfer deadline day, 31 August 2012 Kakuta joined Dutch club [[SBV Vitesse|Vitesse]] on a season-long loan.<ref>{{cite web|url=http://www.chelseafc.com/news-article/article/2906543/title/kakuta-goes-dutch|title=Kakuta Goes Dutch|publisher=chelseafc.com|date=31 August 2012|access-date=31 August 2012|archive-url=https://web.archive.org/web/20120902175400/http://www.chelseafc.com/news-article/article/2906543/title/kakuta-goes-dutch|archive-date=2 September 2012|url-status=dead}}</ref> On 4 July 2013, it was announced that Kakuta again joined them on loan.<ref>{{cite web|url=http://www.voetbalprimeur.nl/nieuws/item/chelsea-stalt-kakuta-opnieuw-bij-vitesse|title=Chelsea stalt Kakuta opnieuw bij Vitesse|publisher=Voetbalprimeur.nl|language=nl|date=4 July 2013|access-date=4 July 2013|url-status=dead|archive-url=https://web.archive.org/web/20130707163519/http://www.voetbalprimeur.nl/nieuws/item/chelsea-stalt-kakuta-opnieuw-bij-vitesse|archive-date=7 July 2013}}</ref> On 2 January 2014 it was announced that he was recalled from his loan spell, only to be sent out once more, this time on loan to Serie A side Lazio until the end of the season.<ref>{{cite web|title=TRAORE TO JOIN VITESSE ON LOAN |url=http://www.chelseafc.com/news-article/article/3601199/title/traore-to-join-vitesse-on-loan |publisher=Chelsea FC |access-date=2 January 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140103090517/http://www.chelseafc.com/news-article/article/3601199/title/traore-to-join-vitesse-on-loan |archive-date=3 January 2014}}</ref>
+
+On 31 January 2014, Kakuta joined Italian side [[SS Lazio|Lazio]] on loan for the remainder of the [[2013–14 Serie A]] season.<ref>{{cite web |title=Gael Kakuta signs for Lazio |url=https://www.espn.co.uk/football/news/story/_/id/1700164/gael-kakuta-signs-lazio-loan-chelsea |website=espn.co.uk |access-date=15 September 2020 |date=31 January 2014}}</ref> He made his debut on 20 February, replacing [[Senad Lulić]] in the 68th minute of an eventual 1–0 home defeat to [[Ludogorets Razgrad|Ludogorets]] in the [[UEFA Europa League]].<ref>{{cite news|title=Lazio 0-1 Ludogorets|url=http://www.goal.com/en-gb/match/lazio-vs-ludogorets/1611921/lineups?ICID=MP_MS_2|access-date=14 September 2014|work=Goal.com|date=20 February 2014}}</ref> Kakuta's only other appearance for Lazio was in [[Serie A]] on 9 March, coming on in place of [[Miroslav Klose]] for the last four minutes as the side again lost at home by the same score, this time against [[Atalanta BC|Atalanta]].<ref>{{cite news|title=Lazio 0-1 Atalanta|url=http://www.goal.com/en-gb/match/lazio-vs-ludogorets/1611921/lineups?ICID=MP_MS_2|access-date=14 September 2014|work=Goal.com|date=9 March 2014}}</ref> In May, Lazio decided not to retain him.<ref>{{cite news|last1=Blanchard|first1=Marie|title=Chelsea, Kakuta non retenu par la Lazio [Chelsea, Kakuta not retained by Lazio]|url=http://www.goal.com/fr/news/31/angleterre/2014/05/01/4788086/chelsea-kakuta-non-retenu-par-la-lazio|access-date=14 September 2014|work=Goal.com|date=1 May 2014}}</ref> On 25 July 2014, Kakuta agreed to join [[La Liga]] side [[Rayo Vallecano]] on loan for the [[2014–15 La Liga|2014–15 season]].<ref>{{cite web|title=Spanish loan for Kakuta|url=http://www.chelseafc.com/news/latest-news/2014/07/spanish-loan-for-kakuta.html|publisher=Chelsea FC|access-date=31 July 2014}}</ref> He made his debut in the competition on 25 August, starting and playing the full 90 minutes in a 0–0 home draw against [[Atlético Madrid]].<ref>{{cite news|title=Rayo Vallecano 0-0 Atl Madrid|url=https://www.bbc.co.uk/sport/football/28920185|access-date=14 September 2014|work=BBC Sport|date=25 August 2014}}</ref> On 14 September, Kakuta scored his first goal for Rayo in a 3–2 home loss to [[Elche CF|Elche]].<ref>{{cite news|title=Valencia stays unbeaten with Espanyol win; Elche defeats Rayo|url=http://www.foxsports.com/soccer/story/valencia-stays-unbeaten-with-espanyol-win-elche-defeats-rayo-vallecano-091414|access-date=14 September 2014|work=[[Fox Sports]]|date=14 September 2014}}</ref>
+
+===Sevilla===
+On 19 June 2015, following his release by Chelsea, Kakuta signed a four-year deal with [[Sevilla FC|Sevilla]].<ref>{{cite web|url=http://sevillafc.es/nuevaweb/actualidad/noticias/37933|title=Kakuta, en su presentación: "Me gusta el proyecto deportivo del Sevilla y que juega bien al fútbol"|trans-title=Kakuta, in his presentation: "I like Sevilla's project and who plays good football"|publisher=Sevilla's official website|language=es|date=19 June 2015|access-date=19 June 2015|url-status=dead|archive-url=https://web.archive.org/web/20150619203819/http://sevillafc.es/nuevaweb/actualidad/noticias/37933|archive-date=19 June 2015}}</ref> It is understood that Sevilla paid compensation to Chelsea as he was under 24.<ref>{{cite news|title=Gael Kakuta: Chelsea winger joins La Liga side Sevilla|url=https://www.bbc.co.uk/sport/football/33204611|access-date=19 June 2015|work=BBC Sport|date=19 June 2015}}</ref>
+
+===Hebei China Fortune===
+On 6 February 2016, Kakuta transferred to [[Chinese Super League]] side [[Hebei China Fortune F.C.|Hebei China Fortune]].<ref>[http://sports.sohu.com/20160206/n437022974.shtml 河北官宣塞维利亚边锋加盟] at sports.sohu.com 6 February 2016. Retrieved 6 February 2016</ref>
+
+====Loan to Deportivo La Coruña====
+On 16 January 2017, Kakuta passed a medical check and signed on loan for [[La Liga]] side [[Deportivo de La Coruña|Deportivo La Coruña]] until the end of the [[2016–17 La Liga|2016–17 La Liga Season]].
+
+====Loan to Amiens====
+On 10 July 2017, [[Ligue 1]] side [[Amiens SC|Amiens]] announced that Kakuta signed a four-year deal with the club on a free transfer.<ref>[https://www.lequipe.fr/Football/Actualites/Amiens-gael-kakuta-va-signer-3-ans/817252 Amiens: Gaël Kakuta a signé 4 ans] at lequipe.fr 10 July 2017. Retrieved 10 July 2017</ref> However, Hebei China Fortune denied the transfer. On 11 August 2017, he was eventually loaned to Amiens SC for one season.<ref>[http://www.amiensfootball.com/blog/article/gael-kakuta-laquo-un-vrai-soulagement-raquo-7434 GAËL KAKUTA : « UN VRAI SOULAGEMENT »] at Amiens SC 11 August 2017. Retrieved 18 August 2017</ref>
+
+===Return to Rayo Vallecano===
+Following the end of his loan spell at Amiens, Kakuta was purchased by [[Rayo Vallecano]] on 13 July 2018, signing a four-year contract.<ref>{{cite web|url=http://www.rayovallecano.es/noticia/gael-kakuta-jugador-del-rayo-vallecano|title=Gaël Kakuta jugador del Rayo Vallecano|trans-title=Gaël Kakuta new Rayo Vallecano player|publisher=Rayo Vallecano|language=es|date=13 July 2018|access-date=13 July 2018}}</ref> However, he only scored one goal in 12 appearances during [[2018–19 La Liga|the campaign]], as his side suffered relegation.
+
+===Return to Amiens===
+On 9 August 2019, Kakuta returned to former side Amiens after the club reached an agreement with Rayo for his transfer.<ref>{{cite web|url=http://www.rayovallecano.es/noticia/acuerdo-para-el-traspaso-de-kakuta|title=Acuerdo para el traspaso de Kakuta|trans-title=Agreement for the transfer of Kakuta|publisher=Rayo Vallecano|language=es|date=9 August 2019|access-date=9 August 2019}}</ref> On 15 February 2020, Kakuta scored a stunning goal and recorded two assists in a Ligue 1 match against [[Paris Saint-Germain F.C.|Paris Saint-Germain]], which ended 4-4.<ref>{{Cite web|title=SC Amiens 4-4 Paris Saint-Germain|url=https://www.espn.com/soccer/commentary?gameId=541991|access-date=10 July 2020|website=ESPN}}</ref><ref>{{Cite web|title=PSG settle for draw after four-goal rally against Amiens|url=https://www.espn.com/soccer/report?gameId=541991|access-date=10 July 2020|website=ESPN}}</ref>
+
+=== Return to Lens ===
+On 9 July 2020, Kakuta joined his former club Lens on a one-year loan deal, with an option to make it permanent.<ref>{{Cite web|title=Gaël Kakuta de retour à Lens !|url=https://www.ligue1.fr/Articles/MERCATO/2020/07/09/kakuta-de-retour-a-lens|access-date=10 July 2020|website=Ligue 1|language=fr|archive-date=18 September 2020|archive-url=https://web.archive.org/web/20200918135616/https://www.ligue1.fr/Articles/MERCATO/2020/07/09/kakuta-de-retour-a-lens|url-status=dead}}</ref> He scored a penalty on his debut match, in a 2–1 defeat to Nice.<ref>{{Cite web|date=23 August 2020|title=Nice 2–1 RC Lens|url=https://www.footballcritic.com/ligue-1-ogc-nice-racing-club-de-lens/match-report/2061677|access-date=24 August 2020|website=footballcritic.com}}</ref> On 26 May 2021, the option-to-buy in his deal was exercised, and he moved to Lens permanently.<ref>{{Cite web|url=https://www.rclens.fr/fr/news/contrat-gael-kakuta-rclens-20210526|title=Option levée pour Gaël Kakuta|website=rclens.fr|date=26 May 2021|access-date=26 May 2021|language=fr}}</ref>
+
+=== Third spell at Amiens ===
+On 5 October 2022, Kakuta signed for Amiens for the third time. He joined the [[Ligue 2]] club on a four-year contract, and took the number 96 jersey.<ref>{{Cite web |date=6 October 2022 |title=Official {{!}} Gaël Kakuta joins Amiens for the third time |url=https://www.getfootballnewsfrance.com/2022/official-gael-kakuta-joins-amiens-for-the-third-time/ |access-date=22 November 2022 |website=Get French Football News}}</ref>
+
+==International career==
+[[File:Gaël Kakuta (2).jpg|thumb|upright|Kakuta playing for [[France national under-21 football team|France under-21s]] in 2011]]
+
+Kakuta was a [[France national youth football team|French youth international]] and has represented his country at all levels. He has scored a total of 15 goals in 45 matches from under-16 level up to the under-20 level.<ref name=Chels3>{{cite web | title=Official: Fulham Sign Chelsea Prospect Gael Kakuta On Loan | first=Carl | last=Noyce | publisher=goal.com|work=goal.com | url=http://www.goal.com/en-us/news/85/england/2011/01/26/2324408/official-fulham-sign-chelsea-prospect-gael-kakuta-on-loan |access-date=2 January 2014}}</ref> With the [[France national under-16 football team|under-16 team]], he scored on his debut in a 1–1 draw against the [[Republic of Ireland national under-16 football team|Republic of Ireland]].<ref>{{cite news|title=Un nul pour débuter (1–1)|url=http://www.fff.fr/selections/m16ans/325604.shtml|work=[[French Football Federation]]|date=26 September 2006|access-date=24 July 2010|language=fr|first=Ludovic|last=Bruneau|archive-date=30 June 2012|archive-url=https://archive.today/20120630012627/http://www.fff.fr/selections/m16ans/325604.shtml|url-status=dead}}</ref> In the Tournoi de [[Val-de-Marne]], Kakuta netted two goals in the competition against [[Italy national football team|Italy]] and [[Portugal national under-16 football team|Portugal]].<ref>{{cite news|title=La France et l'Italie dos à dos (1–1)|url=http://www.fff.fr/selections/m16ans/actualite/335217.shtml|work=[[French Football Federation]]|date=31 October 2006|access-date=2 January 2014|language=fr|first=Aurélien|last=Durand|archive-date=6 October 2012|archive-url=https://web.archive.org/web/20121006015223/http://www.fff.fr/selections/m16ans/actualite/335217.shtml|url-status=dead}}</ref><ref>{{cite news|title=Festival offensif pour conclure (5–0)|url=http://www.fff.fr/selections/m16ans/actualite/336436.shtml|work=[[French Football Federation]]|date=4 November 2006|access-date=2 January 2014|language=fr|first=Antonio|last=Mesa|archive-date=12 November 2012|archive-url=https://web.archive.org/web/20121112105524/http://www.fff.fr/selections/m16ans/actualite/336436.shtml|url-status=dead}}</ref> On 15 March 2007, he was one of five players who scored a goal in the team's 5–0 thrashing of [[Poland national under-16 football team|Poland]] in [[Saint-Aubin-lès-Elbeuf]].<ref>{{cite news|title=Belle victoire tricolore (5–0)|url=http://www.fff.fr/selections/m16ans/actualite/366143.shtml|work=[[French Football Federation]]|date=15 March 2007|access-date=2 January 2014|language=fr|first=Ludovic|last=Bruneau|archive-date=6 May 2009|archive-url=https://web.archive.org/web/20090506014101/http://www.fff.fr/selections/m16ans/actualite/366143.shtml|url-status=dead}}</ref> Kakuta finished the under-16 campaign making 12 appearances and converting five goals.
+
+With the [[France national under-17 football team|under-17 team]], Kakuta was a regular selection of coach [[Francis Smerecki]]. He made his debut with the team on 4 October 2007 in a 1–1 draw against [[Switzerland national under-17 football team|Switzerland]].<ref>{{cite news|title=Match nul pour conclure (1–1)|url=http://www.fff.fr/selections/m17ans/actualite/398790.shtml|work=[[French Football Federation]]|date=4 October 2007|access-date=2 January 2014|language=fr|first=Bastien|last=Lhéritier|archive-date=30 June 2012|archive-url=https://archive.today/20120630012637/http://www.fff.fr/selections/m17ans/actualite/398790.shtml|url-status=dead}}</ref> In qualification for the [[2008 UEFA European Under-17 Championship]], Kakuta scored a goal in the team's 6–0 thrashing of [[Albania national under-17 football team|Albania]] in the first qualifying round.<ref>{{cite news|title=France v. Albania Match Report |url=http://en.archive.uefa.com/competitions/under17/history/season=2008/round=15028/match=300569/index.html |archive-url=https://archive.today/20120630012613/http://en.archive.uefa.com/competitions/under17/history/season=2008/round=15028/match=300569/index.html |url-status=dead |archive-date=30 June 2012 |work=[[UEFA|Union of European Football Associations]] |date=25 October 2007 |access-date=27 September 2009 }}</ref><ref>{{cite news|title=Large victoire et qualification (6–0)|url=http://www.fff.fr/selections/m17ans/actualite/403519.shtml|publisher=[[French Football Federation]]|date=25 October 2007|access-date=24 July 2010|language=fr|first=Ludovic|last=Bruneau|archive-date=21 July 2012|archive-url=https://web.archive.org/web/20120721182526/http://www.fff.fr/selections/m17ans/actualite/403519.shtml|url-status=dead}}</ref> In the Elite Round, he was clinical in the team's final group stage match against [[Russia national under-17 football team|Russia]] scoring a double in a much-needed 3–1 victory. The win assured the team a place in the UEFA-sanctioned tournament.<ref>{{cite news |title=France celebrate U17 qualification |url=http://en.archive.uefa.com/competitions/under17/history/season=2008/round=15029/match=302008/index.html |archive-url=https://archive.today/20120630012613/http://en.archive.uefa.com/competitions/under17/history/season=2008/round=15029/match=302008/index.html |url-status=dead |archive-date=30 June 2012 |work=[[UEFA|Union of European Football Associations]] |date=30 March 2008 |access-date=27 September 2009 }}</ref><ref>{{cite news|title=Les Tricolores qualifiés (3–1)|url=http://www.fff.fr/selections/m17ans/actualite/432335.shtml|publisher=[[French Football Federation]]|date=30 March 2008|access-date=2 January 2014|language=fr|first=Aurélien|last=Durand|archive-date=6 October 2012|archive-url=https://web.archive.org/web/20121006015442/http://www.fff.fr/selections/m17ans/actualite/432335.shtml|url-status=dead}}</ref> In the tournament, he went scoreless, but contributed to the team's finals appearance converting the 3rd penalty for France in their 4–3 penalty shootout victory over [[Turkey national under-17 football team|Turkey]] in the semi-finals.<ref>{{cite news | url = http://en.archive.uefa.com/competitions/under17/history/season=2008/round=15031/match=302550/index.html | archive-url = https://archive.today/20120630012632/http://en.archive.uefa.com/competitions/under17/history/season=2008/round=15031/match=302550/index.html | url-status = dead | archive-date = 30 June 2012 | title = France oust hosts after shoot-out | date = 13 May 2008 | work = [[UEFA|Union of European Football Associations]] | access-date = 25 July 2010 | first = Paul | last = Saffer }}</ref> In the final, France were defeated 4–0 by Spain.<ref>{{cite news |title=Stupendous Spain win U17 crown |url=http://en.archive.uefa.com/competitions/under17/fixturesresults/round=15032/match=302551/report=rp.html |work=[[UEFA|Union of European Football Associations]] |date=16 May 2008 |access-date=25 July 2010 |first=Paul |last=Saffer |url-status=dead |archive-url=https://archive.today/20120630012630/http://en.archive.uefa.com/competitions/under17/fixturesresults/round=15032/match=302551/report=rp.html |archive-date=30 June 2012}}</ref><ref>{{cite news|title=L'Espagne réalise le doublé|url=http://www.fff.fr/selections/m17ans/actualite/441710.shtml|publisher=[[French Football Federation]]|date=16 May 2008|access-date=2 January 2014|language=fr|first=Aurélien|last=Durand|archive-date=27 January 2013|archive-url=https://web.archive.org/web/20130127182451/http://www.fff.fr/selections/m17ans/actualite/441710.shtml|url-status=dead}}</ref> With the [[France national under-18 football team|under-18 team]], Kakuta only made 5 appearances, but scored three goals, which included a brace against the [[Republic of Ireland national football team|Republic of Ireland]] in the Tournio de [[Limoges]] and the lone goal in the team's 1–0 win over [[Turkey national under-18 football team|Turkey]] in a match that was played at the [[Stade Mayol]].<ref>{{cite news|title=Second succès, face à l'Irlande (5–1)|url=http://www.fff.fr/selections/m18ans/actualite/473961.shtml|publisher=[[French Football Federation]]|date=31 October 2008|access-date=2 January 2014|language=fr|first=Antonio|last=Mesa|archive-date=13 February 2013|archive-url=https://archive.today/20130213091707/http://www.fff.fr/selections/m18ans/actualite/473961.shtml|url-status=dead}}</ref><ref>{{cite news |title=Victoire française (1–0) |url=http://www.fff.fr/selections/m18ans/actualite/481730.shtml |publisher=[[French Football Federation]] |date=4 December 2008 |access-date=2 January 2014 |language=fr |first=Ludovic |last=Bruneau |archive-date=13 February 2013 |archive-url=https://archive.today/20130213125729/http://www.fff.fr/selections/m18ans/actualite/481730.shtml |url-status=dead }}</ref>
+
+Despite the FIFA investigation into his transfer, on 2 September 2009, Kakuta was selected to the [[France national under-19 football team|under-19 squad]], for the first time, to participate in the [[Sendai#Sports|2009 edition of the Sendaï Cup]], held in Japan. In the opening match against [[Japan national football team|the hosts]], he scored two goals. At the [[2010 UEFA European Under-19 Championship]], which France hosted, Kakuta scored the opening goal in the team's opening group stage match against the [[Netherlands national under-19 football team|Netherlands]]. France won the match 4–1.<ref>{{cite news | url = https://www.uefa.com/under19/news/0257-0deaa155e09f-8166c563415b-1000--france-flurry-too-much-for-dutch/ | title = France flurry too much for Dutch | date = 18 July 2010 | work=[[UEFA|Union of European Football Associations]] | access-date = 2 January 2014|first=Andrew|last=Haslam}}</ref> Kakuta also scored against [[Croatia national under-19 football team|Croatia]] in the semi-finals. The goal drew the match at 1–1 and France went on to win 2–1.<ref>{{cite news|url=https://www.uefa.com/under19/news/0257-0deaaa3f5f09-a97da33c67ac-1000--bakambu-breaks-croatian-resistance/ |title=Bakambu breaks Croatian resistance |date=27 July 2010 |work=[[UEFA|Union of European Football Associations]] |access-date=2 January 2014|first=Andrew|last=Haslam}}</ref> In the final, France came from behind against [[Spain national under-19 football team|Spain]] to win the title 2–1 with Kakuta providing the assist for the winner scored by [[Alexandre Lacazette]].<ref>{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/8873266.stm |title=France beat Spain to win European Under-19 title |date=30 July 2010 |work=BBC Sport |access-date=31 July 2010}}</ref> On 2 August 2010, Kakuta was awarded the Golden Player award for his performances at the tournament.<ref name=KakutaGolden>{{cite news | url = http://www.uefa.com/under19/history/season=2010/goldenplayer/index.html | archive-url = https://web.archive.org/web/20100805093252/http://www.uefa.com/under19/history/season=2010/goldenplayer/index.html | url-status = dead | archive-date = 5 August 2010 | title = 2010: Gaël Kakuta | date = 2 August 2010 | work=[[UEFA|Union of European Football Associations]] | access-date = 3 August 2010}}</ref>
+
+Due to France's victory at the UEFA Under-19 championship, the nation qualified for the [[2011 FIFA U-20 World Cup]], which merited [[France national under-20 football team|under-20 team]] appearances for Kakuta. He made his debut with the team on 7 October 2010 in a [[Exhibition match|friendly match]] against [[Portugal national under-20 football team|Portugal]], which ended 3–3.<ref>{{cite news |title=France 3–3 Portugal |url=http://www.fff.fr/servfff/fiche_joueur_new/match.php?id_match=1320 |publisher=[[French Football Federation]] |date=7 October 2010 |access-date=2 January 2014 |archive-date=27 January 2013 |archive-url=https://web.archive.org/web/20130127172548/http://www.fff.fr/servfff/fiche_joueur_new/match.php?id_match=1320 |url-status=dead }}</ref> Kakuta, subsequently, appeared in three more matches with the team during the 2010–11 campaign and, on 10 June 2011, was named to the 21-man squad to participate in the U-20 World Cup. He made his debut in the competition on 30 July 2011 in the team's 4–1 defeat to the hosts [[Colombia national under-20 football team|Colombia]].<ref>{{cite web | url = https://www.fifa.com/u20worldcup/matches/round=255641/match=300145857/index.html | archive-url = https://web.archive.org/web/20110919232048/http://www.fifa.com/u20worldcup/matches/round=255641/match=300145857/index.html | url-status = dead | archive-date = 19 September 2011 | publisher=[[FIFA|Fédération Internationale de Football Association]] | title = Colombia 4–1 France |date = 30 July 2011 | access-date = 2 August 2011 }}</ref>
+
+Kakuta switched to the [[DR Congo national football team|DR Congo national team]] in 2017, and made his debut in a friendly 2–1 loss against [[Kenya national football team|Kenya]], wherein he scored the only goal for DR Congo.<ref>{{cite web|url=http://www.leopardsfoot.com/leopards-la-rdc-chute-2-1-en-amical-face-au-kenya/|title=Léopards : La RDC chute 2–1 en amical face au Kenya – Léopardsfoot|website=www.leopardsfoot.com}}</ref><ref>{{cite web|url=http://www.espn.in/soccer/lineups?gameId=476387|title=Kenya vs. Congo DR – Football Match Line-Ups – March 26, 2017 – ESPN|website=ESPN}}</ref>
+
+==Personal life==
+[[Didier Drogba]] was understood to have made Kakuta his protégé when he first came to England.<ref>{{cite web |last1=Dove |first1=Ed |title=Amiens plotting move for ex-Chelsea wonderkid Gael Kakuta |url=https://www.espn.com/soccer/soccer-transfers/story/3154101/amiens-plotting-move-for-ex-chelsea-wonderkid-gael-kakuta |website=ESPN |access-date=15 September 2020 |date=6 July 2017}}</ref>
+
+In October 2014, fraudster Medi Abalimba was jailed for four years after masquerading as Kakuta and spending thousands of pounds on stolen credit cards.<ref>{{cite news|title='Fake' Chelsea footballer jailed for posing as Gael Kakuta|url=https://www.bbc.co.uk/news/uk-england-manchester-29724950|access-date=22 October 2014|work=BBC News|date=22 October 2014}}</ref>
+
+==Career statistics==
+===Club===
+{{Updated|match played 26 January 2026}}<ref>{{Soccerway|new_id=kakuta-gael/SWsZHFh9|name=Gaël Kakuta|access-date=22 February 2026}}</ref>
+{| class=wikitable style="text-align: center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup{{efn|Includes [[FA Cup]], [[Coupe de France]], [[KNVB Cup]], [[Coppa Italia]], [[Copa del Rey]], [[Chinese FA Cup]], [[Iranian Hazfi Cup|Hazfi Cup]], [[Turkish Cup]] and [[Greek Football Cup|Greek Cup]]}}
+!colspan="2"|League cup{{efn|Includes [[EFL Cup|Football League Cup]] and [[Coupe de la Ligue]]}}
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="7"|[[Chelsea F.C.|Chelsea]]
+|[[2009–10 Chelsea F.C. season|2009–10]]<ref name="S09">{{Soccerbase season|50932|2009|access-date=22 February 2026}}</ref>
+|[[Premier League]]
+|1||0||1||0||1||0||1{{efn|name="UCL"|Appearance(s) in [[UEFA Champions League]]}}||0||0||0||4||0
+|-
+|[[2010–11 Chelsea F.C. season|2010–11]]<ref name="S10">{{Soccerbase season|50932|2010|access-date=22 February 2026}}</ref>
+|Premier League
+|5||0||1||0||1||0||5{{efn|name="UCL"}}||0||0||0||12||0
+|-
+|[[2011–12 Chelsea F.C. season|2011–12]]<ref name="S11">{{Soccerbase season|50932|2011|access-date=22 February 2026}}</ref>
+|Premier League
+|0||0||0||0||0||0||0||0||colspan="2"|—||0||0
+|-
+|[[2012–13 Chelsea F.C. season|2012–13]]<ref name="S12">{{Soccerbase season|50932|2012|access-date=22 February 2026}}</ref>
+|Premier League
+|0||0||0||0||0||0||0||0||0||0||0||0
+|-
+|[[2013–14 Chelsea F.C. season|2013–14]]<ref name="S13">{{Soccerbase season|50932|2013|access-date=22 February 2026}}</ref>
+|Premier League
+|0||0||0||0||0||0||0||0||colspan="2"|—||0||0
+|-
+|[[2014–15 Chelsea F.C. season|2014–15]]<ref name="S14">{{Soccerbase season|50932|2014|access-date=22 February 2026}}</ref>
+|Premier League
+|0||0||0||0||0||0||0||0||colspan="2"|—||0||0
+|-
+!colspan="2"|Total
+!6!!0!!2!!0!!2!!0!!6!!0!!0!!0!!16!!0
+|-
+|[[Fulham F.C.|Fulham]] (loan)
+|[[2010–11 Fulham F.C. season|2010–11]]<ref name="S10"/>
+|Premier League
+|7||1||0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||7||1
+|-
+|[[Bolton Wanderers F.C.|Bolton Wanderers]] (loan)
+|[[2011–12 Bolton Wanderers F.C. season|2011–12]]<ref name="S11"/>
+|Premier League
+|4||0||colspan="2"|—||2||1||colspan="2"|—||colspan="2"|—||6||1
+|-
+|[[Dijon FCO|Dijon]] (loan)
+|[[2011–12 Ligue 1|2011–12]]
+|[[Ligue 1]]
+|14||4||2||1||0||0||colspan="2"|—||colspan="2"|—||16||5
+|-
+|rowspan="3"|[[SBV Vitesse|Vitesse]] (loan)
+|[[2012–13 Eredivisie|2012–13]]
+|[[Eredivisie]]
+|22||1||1||0||colspan="2"|—||0||0||0||0||23||1
+|-
+|[[2013–14 SBV Vitesse season|2013–14]]
+|Eredivisie
+|12||1||1||2||colspan="2"|—||1{{efn|name="UEL"|Appearance(s) in [[UEFA Europa League]]}}||0||colspan="2"|—||14||3
+|-
+!colspan="2"|Total
+!34!!2!!2!!2!!colspan="2"|—!!1!!0!!0!!0!!37!!4
+|-
+|[[SS Lazio|Lazio]] (loan)
+|[[2013–14 SS Lazio season|2013–14]]<ref name="S13"/>
+|[[Serie A]]
+|1||0||colspan="2"|—||colspan="2"|—||1{{efn|name="UEL"}}||0||colspan="2"|—||2||0
+|-
+|[[Rayo Vallecano]] (loan)
+|[[2014–15 Rayo Vallecano season|2014–15]]<ref name="S14"/>
+|[[La Liga]]
+|35||5||0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||35||5
+|-
+|[[Sevilla FC|Sevilla]]
+|[[2015–16 Sevilla FC season|2015–16]]<ref>{{Soccerbase season|50932|2015|access-date=25 February 2026}}</ref>
+|La Liga
+|2||0||3||1||colspan="2"|—||0||0||colspan="2"|—||5||1
+|-
+|rowspan="4"|[[Hebei F.C.|Hebei China Fortune]]
+|[[2016 Chinese Super League|2016]]
+|[[Chinese Super League]]
+|24||2||0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||24||2
+|-
+|[[2017 Chinese Super League|2017]]
+|Chinese Super League
+|0||0||0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||0||0
+|-
+|[[2018 Chinese Super League|2018]]
+|Chinese Super League
+|0||0||0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||0||0
+|-
+!colspan="2"|Total
+!24!!2!!0!!0!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!24!!2
+|-
+|[[Deportivo de La Coruña|Deportivo La Coruña]] (loan)
+|[[2016–17 Deportivo de La Coruña season|2016–17]]<ref>{{Soccerbase season|50932|2016|access-date=25 February 2026}}</ref>
+|La Liga
+|10||2||0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||10||2
+|-
+|[[Amiens SC|Amiens]] (loan)
+|[[2017–18 Ligue 1|2017–18]]<ref>{{Soccerbase season|50932|2017|access-date=25 February 2026}}</ref>
+|Ligue 1
+|36||6||0||0||2||0||colspan="2"|—||colspan="2"|—||38||6
+|-
+|Rayo Vallecano
+|[[2018–19 Rayo Vallecano season|2018–19]]<ref>{{Soccerbase season|50932|2018|access-date=25 February 2026}}</ref>
+|La Liga
+|12||1||0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||12||1
+|-
+|rowspan="3"|Amiens 
+|[[2019–20 Amiens SC season|2019–20]]<ref>{{Soccerbase season|50932|2019|access-date=25 February 2026}}</ref>
+|Ligue 1
+|24||2||0||0||0||0||colspan="2"|—||colspan="2"|—||24||2
+|-
+|[[2020–21 Amiens SC season|2020–21]]
+|[[Ligue 2]]
+|0||0||0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||0||0
+|-
+!colspan="2"|Total
+!24!!2!!0!!0!!0!!0!!colspan="2"|—!!colspan="2"|—!!24!!2
+|-
+|[[RC Lens|Lens]] (loan)
+|[[2020–21 RC Lens season|2020–21]]
+|Ligue 1
+|35||11||1||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||36||11
+|-
+|rowspan="3"|Lens
+|[[2021–22 RC Lens season|2021–22]]
+|Ligue 1
+|29||3||2||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||31||3
+|-
+|[[2022–23 RC Lens season|2022–23]]
+|Ligue 1
+|2||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||2||0
+|-
+!colspan="2"|Total
+!31!!3!!2!!0!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!33!!3
+|-
+|rowspan="3"|Amiens
+|[[2022–23 Amiens SC season|2022–23]]
+|Ligue 2
+|21||4||1||2||colspan="2"|—||colspan="2"|—||colspan="2"|—||22||6
+|-
+|[[2023–24 Amiens SC season|2023–24]]
+|Ligue 2
+|22||6||0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||22||6
+|-
+!colspan="2"|Total
+!43!!10!!1!!2!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!44!!12
+|-
+|[[Esteghlal F.C.|Esteghlal]]
+|[[2024–25 Esteghlal F.C. season|2024–25]]
+|[[Persian Gulf Pro League]]
+|13||0||0||0||colspan="2"|—||4{{efn|Appearance(s) in [[AFC Champions League Elite]]}}||0||colspan="2"|—||17||0
+|-
+|rowspan="3"|[[Sakaryaspor]]
+|[[2024–25 TFF 1. Lig|2024–25]]
+|[[TFF 1. Lig]]
+|8||1||0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||8||1
+|-
+|[[2025–26 TFF 1. Lig|2025–26]]
+|TFF 1. Lig
+|20||8||0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||20||8
+|-
+!colspan="2"|Total
+!28!!9!!0!!0!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!28!!9
+|-
+|[[Athlitiki Enosi Larissa F.C.|AEL]]
+|[[2025–26 Super League Greece|2025–26]]
+|[[Super League Greece]]
+|1||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||1||0
+|-
+!colspan="3"|Career total
+!360!!58!!13!!6!!6!!0!!12!!0!!0!!0!!391!!64
+|}
+{{notelist}}
+
+===International===
+{{Updated|match played 6 January 2026}}<ref>{{NFT player|67629|access-date=25 February 2026}}</ref>
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="10"|[[DR Congo national football team|DR Congo]]
+|2017||4||1
+|-
+|2018||1||0
+|-
+|2019||2||0
+|-
+|2020||2||0
+|-
+|2021||3||1
+|-
+|2022||1||0
+|-
+|2023||6||1
+|-
+|2024||9||0
+|-
+|2025||1||2
+|-
+|2026||1||0
+|-
+!colspan="2"|Total
+!30!!5
+|}
+
+:''Scores and results list DR Congo's goal tally first, score column indicates score after each Kakuta goal.''
+{| class="wikitable sortable"
+|+ List of international goals scored by  Gaël Kakuta
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+!scope="col" class="unsortable"|{{Abbr|Ref.|Reference}}
+|-
+|style="text-align:center"|1
+|{{dts|26 March 2017}}
+|[[Machakos]], Kenya
+|{{fb|Kenya}}
+|style="text-align:center"|1–1
+|style="text-align:center"|1–2
+|[[Friendly (association football)|Friendly]]
+|<ref>{{Cite web|title=Kenya vs. DR Congo|url=https://www.national-football-teams.com/matches/report/17114/Kenya_Dr_Congo.html|website=National Football Teams|access-date=25 February 2026}}</ref>
+|-
+|style="text-align:center"|2
+|{{dts|11 November 2021}}
+|[[Benjamin Mkapa Stadium]], [[Dar es Salaam]], Tanzania
+|{{fb|Tanzania}}
+|style="text-align:center"|1–0
+|style="text-align:center"|3–0
+|[[2022 FIFA World Cup qualification (CAF)|2022 FIFA World Cup qualification]]
+|<ref>{{Cite web|title=Tanzania vs. DR Congo|url=https://www.national-football-teams.com/matches/report/32467/Tanzania_Dr_Congo.html|website=National Football Teams|access-date=25 February 2026}}</ref>
+|-
+|style="text-align:center"|3
+|{{dts|24 March 2023}}
+|[[Stade TP Mazembe]], [[Lubumbashi]], DR Congo
+|{{fb|Mauritania}}
+|style="text-align:center"|1–0
+|style="text-align:center"|3–1
+|[[2023 Africa Cup of Nations qualification]]
+|<ref>{{Cite web|title=DR Congo vs. Mauritania|url=https://www.national-football-teams.com/matches/report/36505/Dr_Congo_Mauritania.html|website=National Football Teams|access-date=25 February 2026}}</ref>
+|-
+|style="text-align:center"|4
+|rowspan="2"|{{dts|30 December 2025}}
+|rowspan="2"|[[Al Medina Stadium]], [[Rabat]], Morocco
+|rowspan="2"|{{fb|Botswana}}
+|style="text-align:center"|2–0
+|rowspan="2" style="text-align:center"|3–0
+|rowspan="2"|[[2025 Africa Cup of Nations]]
+|rowspan="2"|<ref>{{Cite web|title=Botswana vs. DR Congo|url=https://www.national-football-teams.com/matches/report/43041/Botswana_Dr_Congo.html|website=National Football Teams|access-date=25 February 2026}}</ref>
+|-
+|style="text-align:center"|5
+|style="text-align:center"|3–0
+|}
+
+==Honours==
+'''France U19'''
+* [[UEFA European Under-19 Championship]]: [[2010 UEFA European Under-19 Championship|2010]]{{citation needed|date=January 2020}}
+
+'''Individual'''
+* [[Prix Marc-Vivien Foé]]: [[2020–21 Ligue 1|2020–21]]<ref>{{cite web|url=https://www.bbc.com/sport/africa/61465028|title=Seko Fofana: Lens and Ivory Coast player wins Marc-Vivien Foe award|website=BBC|date=16 May 2022|accessdate=16 May 2022}}</ref>
+* UEFA European Under-19 Championship Golden Player: 2010<ref name=KakutaGolden/>
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category}}
+* {{FFF player}}
+* {{UEFA player}}
+* {{FIFA player}}
+
+{{Athlitiki Enosi Larissa F.C. squad}}
+{{Navboxes
+| title = DR Congo squads
+| bg = #007FFF
+| fg = #F7D618
+| bordercolor = #CE1021
+| list1 =
+{{DR Congo squad 2023 Africa Cup of Nations}}
+{{DR Congo squad 2025 Africa Cup of Nations}}
+{{DR Congo squad 2026 FIFA World Cup}}
+}}
+{{Navboxes
+| title = Awards
+| bg = gold
+| fg = navy
+| list =
+{{UEFA European Under-19 Championship awards}}
+{{Marc-Vivien Foé Award}}
+}}
+
+{{DEFAULTSORT:Kakuta, Gael}}
+[[Category:1991 births]]
+[[Category:Living people]]
+[[Category:Footballers from Lille]]
+[[Category:Democratic Republic of the Congo men's footballers]]
+[[Category:French men's footballers]]
+[[Category:Men's association football wingers]]
+[[Category:RC Lens players]]
+[[Category:Chelsea F.C. players]]
+[[Category:Fulham F.C. players]]
+[[Category:Bolton Wanderers F.C. players]]
+[[Category:Dijon FCO players]]
+[[Category:SBV Vitesse players]]
+[[Category:SS Lazio players]]
+[[Category:Rayo Vallecano players]]
+[[Category:Sevilla FC players]]
+[[Category:Hebei F.C. players]]
+[[Category:Deportivo de La Coruña players]]
+[[Category:Amiens SC players]]
+[[Category:Esteghlal F.C. players]]
+[[Category:Sakaryaspor footballers]]
+[[Category:Premier League players]]
+[[Category:Ligue 1 players]]
+[[Category:Ligue 2 players]]
+[[Category:Eredivisie players]]
+[[Category:La Liga players]]
+[[Category:Serie A players]]
+[[Category:Chinese Super League players]]
+[[Category:Persian Gulf Pro League players]]
+[[Category:TFF 1. Lig players]]
+[[Category:France men's youth international footballers]]
+[[Category:France men's under-21 international footballers]]
+[[Category:Democratic Republic of the Congo men's international footballers]]
+[[Category:2023 Africa Cup of Nations players]]
+[[Category:2025 Africa Cup of Nations players]]
+[[Category:French expatriate men's footballers]]
+[[Category:Expatriate men's footballers in England]]
+[[Category:Expatriate men's footballers in the Netherlands]]
+[[Category:Expatriate men's footballers in Italy]]
+[[Category:Expatriate men's footballers in Spain]]
+[[Category:Expatriate men's footballers in China]]
+[[Category:Expatriate men's footballers in Iran]]
+[[Category:French expatriate sportspeople in England]]
+[[Category:French expatriate sportspeople in the Netherlands]]
+[[Category:French expatriate sportspeople in Italy]]
+[[Category:French expatriate sportspeople in Spain]]
+[[Category:French expatriate sportspeople in China]]
+[[Category:French expatriate sportspeople in Iran]]
+[[Category:Democratic Republic of the Congo expatriate sportspeople in England]]
+[[Category:Democratic Republic of the Congo expatriate sportspeople in the Netherlands]]
+[[Category:Democratic Republic of the Congo expatriate sportspeople in Italy]]
+[[Category:Democratic Republic of the Congo expatriate sportspeople in Spain]]
+[[Category:Democratic Republic of the Congo expatriate sportspeople in China]]
+[[Category:Democratic Republic of the Congo expatriate sportspeople in Iran]]
+[[Category:Black French sportspeople]]
+[[Category:French sportspeople of Democratic Republic of the Congo descent]]
+[[Category:21st-century French sportsmen]]
+[[Category:Naturalized citizens of Republic of the Congo]]
+[[Category:2026 FIFA World Cup players]]

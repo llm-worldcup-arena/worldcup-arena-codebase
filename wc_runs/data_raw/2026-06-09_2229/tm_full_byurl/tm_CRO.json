@@ -1,0 +1,662 @@
+[
+ {
+  "player_id": "395928",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/395928",
+  "name": "MarcoPašalić",
+  "shirt_number": 87,
+  "club": "Joined:",
+  "club_id": "45604",
+  "market_value": "€6.50m",
+  "market_value_numeric": 6500000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Social-Media:",
+  "nationality": "United States",
+  "citizenships": [
+   "United States",
+   "Germany",
+   "Croatia",
+   "Croatia",
+   "Germany",
+   "Croatia",
+   "Germany"
+  ],
+  "market_value_history": [
+   {
+    "date": "Sep 15, 2020",
+    "value": "€75k",
+    "value_numeric": 75000,
+    "club": "VfB Stuttgart II",
+    "age": "20"
+   },
+   {
+    "date": "Feb 15, 2021",
+    "value": "€125k",
+    "value_numeric": 125000,
+    "club": "VfB Stuttgart II",
+    "age": "20"
+   },
+   {
+    "date": "Jun 30, 2021",
+    "value": "€250k",
+    "value_numeric": 250000,
+    "club": "VfB Stuttgart II",
+    "age": "20"
+   },
+   {
+    "date": "Oct 11, 2021",
+    "value": "€350k",
+    "value_numeric": 350000,
+    "club": "Borussia Dortmund II",
+    "age": "21"
+   },
+   {
+    "date": "Dec 30, 2021",
+    "value": "€350k",
+    "value_numeric": 350000,
+    "club": "Borussia Dortmund II",
+    "age": "21"
+   },
+   {
+    "date": "Jun 1, 2022",
+    "value": "€275k",
+    "value_numeric": 275000,
+    "club": "Borussia Dortmund II",
+    "age": "21"
+   },
+   {
+    "date": "Dec 8, 2022",
+    "value": "€400k",
+    "value_numeric": 400000,
+    "club": "Borussia Dortmund II",
+    "age": "22"
+   },
+   {
+    "date": "Jun 13, 2023",
+    "value": "€350k",
+    "value_numeric": 350000,
+    "club": "Borussia Dortmund II",
+    "age": "22"
+   },
+   {
+    "date": "Dec 18, 2023",
+    "value": "€3.50m",
+    "value_numeric": 3500000,
+    "club": "HNK Rijeka",
+    "age": "23"
+   },
+   {
+    "date": "Jun 4, 2024",
+    "value": "€4.00m",
+    "value_numeric": 4000000,
+    "club": "HNK Rijeka",
+    "age": "23"
+   },
+   {
+    "date": "Dec 23, 2024",
+    "value": "€4.00m",
+    "value_numeric": 4000000,
+    "club": "HNK Rijeka",
+    "age": "24"
+   },
+   {
+    "date": "Apr 17, 2025",
+    "value": "€5.00m",
+    "value_numeric": 5000000,
+    "club": "Orlando City SC",
+    "age": "24"
+   },
+   {
+    "date": "Jun 5, 2025",
+    "value": "€5.00m",
+    "value_numeric": 5000000,
+    "club": "Orlando City SC",
+    "age": "24"
+   },
+   {
+    "date": "Sep 12, 2025",
+    "value": "€6.00m",
+    "value_numeric": 6000000,
+    "club": "Orlando City SC",
+    "age": "24"
+   },
+   {
+    "date": "Dec 11, 2025",
+    "value": "€6.50m",
+    "value_numeric": 6500000,
+    "club": "Orlando City SC",
+    "age": "25"
+   },
+   {
+    "date": "Jun 2, 2026",
+    "value": "€6.50m",
+    "value_numeric": 6500000,
+    "club": "Orlando City SC",
+    "age": "25"
+   }
+  ],
+  "peak_market_value": 6500000,
+  "transfers": [],
+  "_our_pid": "per_marco_pasalic"
+ },
+ {
+  "player_id": "282144",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/282144",
+  "name": "MarinPongracic",
+  "shirt_number": 5,
+  "club": "Joined:",
+  "club_id": "430",
+  "market_value": "€6.50m",
+  "market_value_numeric": 6500000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Social-Media:",
+  "nationality": "Italy",
+  "citizenships": [
+   "Italy",
+   "Germany",
+   "Croatia",
+   "Croatia",
+   "Germany",
+   "Croatia",
+   "Germany"
+  ],
+  "market_value_history": [
+   {
+    "date": "Aug 23, 2016",
+    "value": "€25k",
+    "value_numeric": 25000,
+    "club": "FC Ingolstadt 04 U19",
+    "age": "18"
+   },
+   {
+    "date": "Jun 27, 2017",
+    "value": "€250k",
+    "value_numeric": 250000,
+    "club": "TSV 1860 Munich",
+    "age": "19"
+   },
+   {
+    "date": "Jul 2, 2017",
+    "value": "€500k",
+    "value_numeric": 500000,
+    "club": "Red Bull Salzburg",
+    "age": "19"
+   },
+   {
+    "date": "Oct 11, 2017",
+    "value": "€900k",
+    "value_numeric": 900000,
+    "club": "Red Bull Salzburg",
+    "age": "20"
+   },
+   {
+    "date": "Jan 2, 2018",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "Red Bull Salzburg",
+    "age": "20"
+   },
+   {
+    "date": "Jun 14, 2018",
+    "value": "€2.50m",
+    "value_numeric": 2500000,
+    "club": "Red Bull Salzburg",
+    "age": "20"
+   },
+   {
+    "date": "Oct 25, 2018",
+    "value": "€5.00m",
+    "value_numeric": 5000000,
+    "club": "Red Bull Salzburg",
+    "age": "21"
+   },
+   {
+    "date": "Dec 19, 2018",
+    "value": "€7.50m",
+    "value_numeric": 7500000,
+    "club": "Red Bull Salzburg",
+    "age": "21"
+   },
+   {
+    "date": "Jun 3, 2019",
+    "value": "€7.50m",
+    "value_numeric": 7500000,
+    "club": "Red Bull Salzburg",
+    "age": "21"
+   },
+   {
+    "date": "Dec 16, 2019",
+    "value": "€6.00m",
+    "value_numeric": 6000000,
+    "club": "Red Bull Salzburg",
+    "age": "22"
+   },
+   {
+    "date": "Feb 11, 2020",
+    "value": "€9.00m",
+    "value_numeric": 9000000,
+    "club": "VfL Wolfsburg",
+    "age": "22"
+   },
+   {
+    "date": "Apr 8, 2020",
+    "value": "€7.00m",
+    "value_numeric": 7000000,
+    "club": "VfL Wolfsburg",
+    "age": "22"
+   },
+   {
+    "date": "Jul 8, 2020",
+    "value": "€10.00m",
+    "value_numeric": 10000000,
+    "club": "VfL Wolfsburg",
+    "age": "22"
+   },
+   {
+    "date": "Feb 10, 2021",
+    "value": "€10.00m",
+    "value_numeric": 10000000,
+    "club": "VfL Wolfsburg",
+    "age": "23"
+   },
+   {
+    "date": "Jun 9, 2021",
+    "value": "€8.50m",
+    "value_numeric": 8500000,
+    "club": "VfL Wolfsburg",
+    "age": "23"
+   },
+   {
+    "date": "Dec 22, 2021",
+    "value": "€7.50m",
+    "value_numeric": 7500000,
+    "club": "Borussia Dortmund",
+    "age": "24"
+   },
+   {
+    "date": "Jun 9, 2022",
+    "value": "€6.00m",
+    "value_numeric": 6000000,
+    "club": "Borussia Dortmund",
+    "age": "24"
+   },
+   {
+    "date": "Nov 11, 2022",
+    "value": "€6.00m",
+    "value_numeric": 6000000,
+    "club": "US Lecce",
+    "age": "25"
+   },
+   {
+    "date": "Jun 15, 2023",
+    "value": "€4.00m",
+    "value_numeric": 4000000,
+    "club": "US Lecce",
+    "age": "25"
+   },
+   {
+    "date": "Dec 20, 2023",
+    "value": "€6.00m",
+    "value_numeric": 6000000,
+    "club": "US Lecce",
+    "age": "26"
+   },
+   {
+    "date": "Jun 5, 2024",
+    "value": "€7.00m",
+    "value_numeric": 7000000,
+    "club": "US Lecce",
+    "age": "26"
+   },
+   {
+    "date": "Oct 18, 2024",
+    "value": "€10.00m",
+    "value_numeric": 10000000,
+    "club": "ACF Fiorentina",
+    "age": "27"
+   },
+   {
+    "date": "Dec 18, 2024",
+    "value": "€10.00m",
+    "value_numeric": 10000000,
+    "club": "ACF Fiorentina",
+    "age": "27"
+   },
+   {
+    "date": "Jun 17, 2025",
+    "value": "€10.00m",
+    "value_numeric": 10000000,
+    "club": "ACF Fiorentina",
+    "age": "27"
+   },
+   {
+    "date": "Dec 23, 2025",
+    "value": "€7.50m",
+    "value_numeric": 7500000,
+    "club": "ACF Fiorentina",
+    "age": "28"
+   },
+   {
+    "date": "May 29, 2026",
+    "value": "€6.50m",
+    "value_numeric": 6500000,
+    "club": "ACF Fiorentina",
+    "age": "28"
+   }
+  ],
+  "peak_market_value": 10000000,
+  "transfers": [],
+  "_our_pid": "per_marin_pongracic"
+ },
+ {
+  "player_id": "387110",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/387110",
+  "name": "PetarMusa",
+  "shirt_number": 9,
+  "club": "Joined:",
+  "club_id": "8816",
+  "market_value": "€12.00m",
+  "market_value_numeric": 12000000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Social-Media:",
+  "nationality": "United States",
+  "citizenships": [
+   "United States",
+   "Croatia",
+   "Croatia",
+   "Croatia",
+   "Croatia",
+   "Croatia"
+  ],
+  "market_value_history": [
+   {
+    "date": "Aug 13, 2017",
+    "value": "€75k",
+    "value_numeric": 75000,
+    "club": "FK Viktoria Zizkov",
+    "age": "19"
+   },
+   {
+    "date": "Dec 15, 2017",
+    "value": "€100k",
+    "value_numeric": 100000,
+    "club": "FK Viktoria Zizkov",
+    "age": "19"
+   },
+   {
+    "date": "Dec 30, 2018",
+    "value": "€225k",
+    "value_numeric": 225000,
+    "club": "FK Viktoria Zizkov",
+    "age": "20"
+   },
+   {
+    "date": "Jun 25, 2019",
+    "value": "€225k",
+    "value_numeric": 225000,
+    "club": "FC Slovan Liberec",
+    "age": "21"
+   },
+   {
+    "date": "Dec 7, 2019",
+    "value": "€900k",
+    "value_numeric": 900000,
+    "club": "FC Slovan Liberec",
+    "age": "21"
+   },
+   {
+    "date": "Apr 8, 2020",
+    "value": "€800k",
+    "value_numeric": 800000,
+    "club": "SK Slavia Prague",
+    "age": "22"
+   },
+   {
+    "date": "Jul 10, 2020",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "SK Slavia Prague",
+    "age": "22"
+   },
+   {
+    "date": "Dec 27, 2020",
+    "value": "€1.70m",
+    "value_numeric": 1700000,
+    "club": "SK Slavia Prague",
+    "age": "22"
+   },
+   {
+    "date": "Jun 9, 2021",
+    "value": "€2.00m",
+    "value_numeric": 2000000,
+    "club": "1.FC Union Berlin",
+    "age": "23"
+   },
+   {
+    "date": "Dec 27, 2021",
+    "value": "€2.00m",
+    "value_numeric": 2000000,
+    "club": "Boavista FC",
+    "age": "23"
+   },
+   {
+    "date": "Mar 10, 2022",
+    "value": "€4.00m",
+    "value_numeric": 4000000,
+    "club": "Boavista FC",
+    "age": "24"
+   },
+   {
+    "date": "May 31, 2022",
+    "value": "€5.00m",
+    "value_numeric": 5000000,
+    "club": "Boavista FC",
+    "age": "24"
+   },
+   {
+    "date": "Nov 1, 2022",
+    "value": "€5.00m",
+    "value_numeric": 5000000,
+    "club": "SL Benfica",
+    "age": "24"
+   },
+   {
+    "date": "Jun 16, 2023",
+    "value": "€7.00m",
+    "value_numeric": 7000000,
+    "club": "SL Benfica",
+    "age": "25"
+   },
+   {
+    "date": "Sep 29, 2023",
+    "value": "€8.00m",
+    "value_numeric": 8000000,
+    "club": "SL Benfica",
+    "age": "25"
+   },
+   {
+    "date": "Dec 27, 2023",
+    "value": "€8.00m",
+    "value_numeric": 8000000,
+    "club": "SL Benfica",
+    "age": "25"
+   },
+   {
+    "date": "Jun 13, 2024",
+    "value": "€8.00m",
+    "value_numeric": 8000000,
+    "club": "FC Dallas",
+    "age": "26"
+   },
+   {
+    "date": "Dec 12, 2024",
+    "value": "€7.00m",
+    "value_numeric": 7000000,
+    "club": "FC Dallas",
+    "age": "26"
+   },
+   {
+    "date": "Jun 5, 2025",
+    "value": "€6.00m",
+    "value_numeric": 6000000,
+    "club": "FC Dallas",
+    "age": "27"
+   },
+   {
+    "date": "Dec 11, 2025",
+    "value": "€7.00m",
+    "value_numeric": 7000000,
+    "club": "FC Dallas",
+    "age": "27"
+   },
+   {
+    "date": "Apr 7, 2026",
+    "value": "€8.00m",
+    "value_numeric": 8000000,
+    "club": "FC Dallas",
+    "age": "28"
+   },
+   {
+    "date": "Jun 2, 2026",
+    "value": "€12.00m",
+    "value_numeric": 12000000,
+    "club": "FC Dallas",
+    "age": "28"
+   }
+  ],
+  "peak_market_value": 12000000,
+  "transfers": [],
+  "_our_pid": "per_petar_musa"
+ },
+ {
+  "player_id": "668207",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/668207",
+  "name": "PetarSučić",
+  "shirt_number": 8,
+  "club": "Joined:",
+  "club_id": "46",
+  "market_value": "€40.00m",
+  "market_value_numeric": 40000000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Jun 30, 2030",
+  "nationality": "Italy",
+  "citizenships": [
+   "Italy",
+   "Bosnia-Herzegovina",
+   "Croatia",
+   "Croatia",
+   "Bosnia-Herzegovina",
+   "Croatia",
+   "Bosnia-Herzegovina"
+  ],
+  "market_value_history": [
+   {
+    "date": "Jun 14, 2022",
+    "value": "€150k",
+    "value_numeric": 150000,
+    "club": "GNK Dinamo Zagreb II",
+    "age": "18"
+   },
+   {
+    "date": "Nov 28, 2022",
+    "value": "€200k",
+    "value_numeric": 200000,
+    "club": "HSK Zrinjski Mostar",
+    "age": "19"
+   },
+   {
+    "date": "Jun 2, 2023",
+    "value": "€400k",
+    "value_numeric": 400000,
+    "club": "HSK Zrinjski Mostar",
+    "age": "19"
+   },
+   {
+    "date": "Dec 18, 2023",
+    "value": "€1.00m",
+    "value_numeric": 1000000,
+    "club": "GNK Dinamo Zagreb",
+    "age": "20"
+   },
+   {
+    "date": "Jun 4, 2024",
+    "value": "€3.00m",
+    "value_numeric": 3000000,
+    "club": "GNK Dinamo Zagreb",
+    "age": "20"
+   },
+   {
+    "date": "Dec 23, 2024",
+    "value": "€12.00m",
+    "value_numeric": 12000000,
+    "club": "GNK Dinamo Zagreb",
+    "age": "21"
+   },
+   {
+    "date": "Mar 31, 2025",
+    "value": "€14.00m",
+    "value_numeric": 14000000,
+    "club": "GNK Dinamo Zagreb",
+    "age": "21"
+   },
+   {
+    "date": "Jun 9, 2025",
+    "value": "€14.00m",
+    "value_numeric": 14000000,
+    "club": "Inter Milan",
+    "age": "21"
+   },
+   {
+    "date": "Oct 7, 2025",
+    "value": "€20.00m",
+    "value_numeric": 20000000,
+    "club": "Inter Milan",
+    "age": "21"
+   },
+   {
+    "date": "Dec 23, 2025",
+    "value": "€30.00m",
+    "value_numeric": 30000000,
+    "club": "Inter Milan",
+    "age": "22"
+   },
+   {
+    "date": "May 29, 2026",
+    "value": "€40.00m",
+    "value_numeric": 40000000,
+    "club": "Inter Milan",
+    "age": "22"
+   }
+  ],
+  "peak_market_value": 40000000,
+  "transfers": [],
+  "_our_pid": "per_petar_sucic"
+ }
+]

@@ -21,17 +21,29 @@
 """
 import json, re, os, argparse
 
-BASE = "/home/ubuntu/worldcup_2026/wc_runs"
+BASE = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))) + "/wc_runs"   # 可移植
+
+
+def _to_code(name):
+    """队名→FIFA码:collect_match(macheta)给英文全名,这里统一解析,别再手工换。"""
+    if re.match(r"^[A-Z]{3}$", name or ""):
+        return name
+    norm = lambda s: re.sub(r"[^a-z]", "", (s or "").lower().replace("&", "and"))
+    for t in json.load(open(f"{BASE}/data_reference/teams.json", encoding="utf-8")):
+        if norm(t.get("name_en")) == norm(name):
+            return t["team_id"]
+    raise SystemExit(f"✗ 队名「{name}」解析不出 FIFA 码(teams.json 无匹配),手查后改 m.json")
 
 
 def integrate(match, td_dir, raw_ts, today):
+    match["home"], match["away"] = _to_code(match["home"]), _to_code(match["away"])
     # ── 防泄露：只整合「已踢完、不晚于今天」的比赛 ──
     if match.get("date", "9999") > today:
         print(f"🚫 防泄露：{match.get('date')} 晚于 {today}（未踢/待预测），拒绝整合")
         return False
 
     # ── ① raw 全量留底（按种类分子文件夹 + _source.md）──
-    rawd = f"{BASE}/raw/bg/{raw_ts}/match_reports"
+    rawd = f"{BASE}/data_raw/{raw_ts}/match_reports"
     os.makedirs(rawd, exist_ok=True)
     rid = f"{match['home']}_vs_{match['away']}_{match['date']}"
     json.dump(match, open(f"{rawd}/{rid}.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
@@ -75,17 +87,50 @@ def integrate(match, td_dir, raw_ts, today):
                 added_row = "⚠️未识别格式·未追加,请人工补"
                 print(f"  ⚠️ {team}: 近期状态段格式无法识别,赛果【未自动追加】——人工补：{row}")
 
-        # ⑦关键动态：追加本场伤停（对预测最直接）
-        notes = [f"- 🏥 {x}（{match['date']} vs {opp}）" for x in match.get("injuries", [])]
-        notes += [f"- 🟨 {x}（{match['date']} vs {opp}）" for x in match.get("suspensions", [])]
+        # ⑦关键动态：追加本场伤停（对预测最直接）。
+        # dict 条目({side,player,note,sources})只进所属边的队(防张冠李戴)并格式化成行文;字符串条目无归属信息,沿旧例进双方(自带上下文)。
+        side_key = "home" if team == match["home"] else "away"
+        def _fmt(x):
+            if isinstance(x, dict):
+                src = "·多源核实:" + "/".join(x["sources"]) if x.get("sources") else ""
+                return f"{x.get('player')}:{x.get('note', '')}".rstrip(":") + src
+            return str(x)
+        def _mine(xs):
+            return [x for x in xs if not isinstance(x, dict) or x.get("side") in (None, side_key)]
+        notes = [f"- 🏥 {_fmt(x)}（{match['date']} vs {opp}）" for x in _mine(match.get("injuries", []))]
+        notes += [f"- 🟨 {_fmt(x)}（{match['date']} vs {opp}）" for x in _mine(match.get("suspensions", []))]
+        # ── LLM 清洁+核实(与 news 三判对称:防张冠李戴/泄露/脏;失败则原样不阻断)──
+        removed = []
+        if notes:
+            try:
+                import sys as _s; _s.path.insert(0, os.path.dirname(BASE) + "/wc_eval")
+                from wc_llm import verify_increment
+                vr = verify_increment(team, f"{match['date']} vs {opp} {sc}", notes)
+                if vr.get("notes"):
+                    notes = [n if n.strip().startswith("-") else f"- {n}" for n in vr["notes"]]
+                removed = vr.get("removed", [])
+            except Exception as e:
+                print(f"  ⚠️ {team} 增量LLM审核跳过:{str(e)[:40]}")
         added_notes = 0
         if notes:
             m7 = re.search(r"(## ⑦[^\n]*\n)", t)
             if m7:
                 t = t.replace(m7.group(1), m7.group(1) + "\n".join(notes) + "\n", 1); added_notes = len(notes)
+        if removed:
+            print(f"  🧹 {team} 增量审核剔除:{removed}")
 
         open(f, "w", encoding="utf-8").write(t)
         print(f"  ✅ {team}: 近期赛果[{added_row}]、伤停动态+{added_notes}")
+        # 监督闭环:块A 改动统一登记 CHANGELOG(skill wc-incremental-update 要求,2026-06-13 起自动)
+        try:
+            from changelog_util import append_change
+            append_change(os.path.dirname(f), td_dir,
+                          block_a=[f"[近期状态] {added_row}: {row}"] +
+                                  ([f"[⑦] +{added_notes}条本场伤停"] if added_notes else []),
+                          sources=["macheta(Sofascore)", "WebSearch叙事补"],
+                          note=f"integrate_match {match['home']} {sc} {match['away']}")
+        except Exception as e:
+            print(f"  ⚠️ CHANGELOG 记录失败:{e}")
     return True
 
 

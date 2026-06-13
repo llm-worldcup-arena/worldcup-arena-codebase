@@ -1,0 +1,95 @@
+[
+ {
+  "player_id": "576028",
+  "profile_url": "https://www.transfermarkt.com/thiago-almada/profil/spieler/576028",
+  "full_name": "Thiago Ezequiel Almada",
+  "display_name": "Thiago Almada",
+  "short_name": "T. Almada",
+  "nickname": "",
+  "date_of_birth": "2001-04-26",
+  "age": 25,
+  "place_of_birth": "Ciudadela",
+  "country_of_birth": "Argentina",
+  "nationality": [
+   "Argentina",
+   "Italy"
+  ],
+  "gender": "male",
+  "position": "Left Winger",
+  "position_category": "Striker",
+  "foot": "right",
+  "height_cm": 171,
+  "current_club": "Atlético de Madrid",
+  "current_club_id": "13",
+  "current_competition": "LaLiga",
+  "current_competition_code": "ES1",
+  "shirt_number": 11,
+  "is_captain": false,
+  "contract_until": "2030-06-30",
+  "last_contract_renewal": "",
+  "market_value_eur": 15000000,
+  "market_value_currency": "EUR",
+  "market_value_determined": "2026-06-05",
+  "previous_market_value_eur": 20000000,
+  "highest_market_value_eur": 27000000,
+  "highest_market_value_determined": "2024-12-09",
+  "market_value_history": [
+   "2017 | CA Vélez Sarsfield | EUR 5,00M",
+   "2018 | CA Vélez Sarsfield | EUR 15,00M",
+   "2018 | CA Vélez Sarsfield | EUR 20,00M",
+   "2019 | CA Vélez Sarsfield | EUR 18,00M",
+   "2020 | CA Vélez Sarsfield | EUR 20,00M",
+   "2020 | CA Vélez Sarsfield | EUR 20,00M",
+   "2021 | Atlanta United FC | EUR 18,00M",
+   "2021 | Atlanta United FC | EUR 15,00M",
+   "2021 | Atlanta United FC | EUR 15,00M",
+   "2022 | Atlanta United FC | EUR 20,00M",
+   "2022 | Atlanta United FC | EUR 27,00M",
+   "2022 | Atlanta United FC | EUR 27,00M",
+   "2023 | Atlanta United FC | EUR 27,00M",
+   "2023 | Botafogo de Futebol e Regatas | EUR 27,00M",
+   "2024 | Olympique Lyon | EUR 25,00M",
+   "2024 | Olympique Lyon | EUR 25,00M",
+   "2025 | Atlético de Madrid | EUR 20,00M",
+   "2025 | Atlético de Madrid | EUR 15,00M"
+  ],
+  "agent": "",
+  "agency": "Augustin Jimenez",
+  "agency_id": "5630",
+  "youth_clubs": [
+   "Santa Clara (2005-2006)"
+  ],
+  "career_history": [
+   "CA Vélez Sarsfield U20 -> CA Vélez Sarsfield | 2018-07-01 | - | 18/19",
+   "CA Vélez Sarsfield -> Atlanta United FC | 2022-02-09 | €14.50M | 21/22",
+   "Atlanta United FC -> Botafogo de Futebol e Regatas | 2024-07-10 | €24.15M | 24/25",
+   "Botafogo de Futebol e Regatas -> Olympique Lyon | 2025-01-15 | undisclosed | 24/25",
+   "Olympique Lyon -> Botafogo de Futebol e Regatas | 2025-06-30 | undisclosed | 24/25",
+   "Botafogo de Futebol e Regatas -> Atlético de Madrid | 2025-07-17 | €21.00M | 25/26"
+  ],
+  "total_transfer_fees_eur": 59650000,
+  "international_team": "Argentina",
+  "international_caps": 15,
+  "international_goals": 4,
+  "national_team_history": [
+   "Argentina | 15 apps | 4 goals | CURRENT_NATIONAL_PLAYER",
+   "Argentina U20 | 10 apps | 1 goals | FORMER_NATIONAL_PLAYER",
+   "Argentina U23 | 19 apps | 8 goals | FORMER_NATIONAL_PLAYER",
+   "Argentina Olympic Team | 7 apps | 2 goals | FORMER_NATIONAL_PLAYER"
+  ],
+  "injuries": [
+   "2022-02-25 to 2022-03-07 | visa issues | 2 games"
+  ],
+  "suspensions": [
+   "2024-07-10 to 2024-08-05 | Olympic games | 9 games",
+   "2024-07-01 to 2024-07-09 | special leave | 2 games",
+   "2024-06-21 to 2024-06-24 | Yellow card suspension | 1 game",
+   "2023-10-23 to 2023-11-03 | Indirect card suspension | 1 game",
+   "2022-05-30 to 2022-07-02 | Red card suspension | 3 games",
+   "2021-07-01 to 2021-08-10 | Olympic games | 7 games",
+   "2019-01-15 to 2019-02-13 | Called up to national team | 3 games"
+  ],
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/big/576028-1773174386.jpg",
+  "scraped_at": "2026-06-08T18:08:02.966Z"
+ }
+]

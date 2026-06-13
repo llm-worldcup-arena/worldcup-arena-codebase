@@ -1,0 +1,306 @@
+{{short description|Uruguayan footballer (born 2001)}}
+{{EngvarB|date=June 2025}}
+{{Use dmy dates|date=June 2025}}
+{{family name hatnote|Ugarte|Ribeiro|lang=Spanish}}
+{{Infobox football biography
+| name = Manuel Ugarte
+| image = M.UGARTE.jpg
+| image_size = 250px
+| upright = 1.15
+| caption = Ugarte with [[Manchester United F.C.|Manchester United]] in 2025
+| full_name = Manuel Ugarte Ribeiro<ref>{{cite web |url=https://www.premierleague.com/news/4243590 |title=2024/25 Updated Premier League squad lists |publisher=Premier Leagues |date=7 February 2025|access-date=10 February 2025}}</ref>
+| birth_date = {{birth date and age|df=yes|2001|4|11}}<ref name="FIFA">{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=FIFA World Cup Qatar 2022™ – Squad list: Uruguay (URU)|publisher=FIFA |page=30 |date=18 December 2022 |access-date=22 October 2024 |archive-url=https://web.archive.org/web/20221218195301/https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |archive-date=18 December 2022 |url-status=live}}</ref>
+| birth_place = [[Montevideo]], Uruguay
+| height = 1.82 m<ref name="FIFA"/>
+| position = [[Defensive midfielder]], [[central midfielder]]
+| currentclub = [[Manchester United F.C.|Manchester United]]
+| clubnumber = 25
+| youthyears1 = 
+| youthclubs1 = City Park
+| youthyears2 = {{0|0000}}–2016
+| youthclubs2 = [[Centro Atlético Fénix|Fénix]]
+| years1 = 2016–2020
+| clubs1 = [[Centro Atlético Fénix|Fénix]]
+| caps1 = 53
+| goals1 = 2
+| years2 = 2021
+| clubs2 = [[F.C. Famalicão|Famalicão]]
+| caps2 = 20
+| goals2 = 1
+| years3 = 2021–2023
+| clubs3 = [[Sporting CP]]
+| caps3 = 56
+| goals3 = 0
+| years4 = 2023–2024
+| clubs4 = [[Paris Saint-Germain FC|Paris Saint-Germain]]
+| caps4 = 25
+| goals4 = 0
+| years5 = 2024–
+| clubs5 = [[Manchester United F.C.|Manchester United]]
+| caps5 = 51
+| goals5 = 1
+| nationalyears1 = 2018
+| nationalteam1 = [[Uruguay national under-20 football team|Uruguay U20]]
+| nationalcaps1 = 5
+| nationalgoals1 = 0
+| nationalyears2 = 2020
+| nationalteam2 = [[Uruguay Olympic football team|Uruguay U23]]
+| nationalcaps2 = 7
+| nationalgoals2 = 1
+| nationalyears3 = 2021–
+| nationalteam3 = [[Uruguay national football team|Uruguay]]
+| nationalcaps3 = 36
+| nationalgoals3 = 1
+| medaltemplates = {{MedalSport|Men's [[Association football|football]]}}
+{{MedalCountry|{{fb|URU}}}}
+{{MedalCompetition|[[Copa América]]}}
+{{Medal|3rd|[[2024 Copa América|2024 United States]]|}}
+| club-update = 21:16, 13 April 2026 (UTC)
+| nationalteam-update = 22:00, 31 March 2026 (UTC)
+}}
+'''Manuel Ugarte Ribeiro''' ({{IPA|es|maˈnwel uˈɣaɾte}}; born 11 April 2001) is a Uruguayan professional [[Association football|footballer]] who plays as a [[defensive midfielder]] for {{English football updater|ManchesU}} club [[Manchester United F.C.|Manchester United]] and the [[Uruguay national football team|Uruguay national team]]. Primarily a defensive midfielder, he can also be played as a [[central midfielder]].
+
+Ugarte came through [[Centro Atlético Fénix|Fénix]]'s youth academy, being promoted to the first-team in 2016. In December 2021, he joined Portuguese [[Primeira Liga]] club [[F.C. Famalicão|Famalicão]]. Following an impressive half-season, Ugarte signed for fellow Primeira Liga club [[Sporting CP]], winning the [[Taça da Liga]] in his time with the club. In July 2023, he joined [[Paris Saint-Germain FC|Paris Saint-Germain]] for a transfer worth €60&nbsp;million. In August 2024, he joined Manchester United for a fee of €50&nbsp;million.
+
+Ugarte is a former youth international for Uruguay, representing the country at [[Uruguay national under-20 football team|under-20]] and [[Uruguay Olympic football team|under-23]] levels. He made his senior international debut in 2021. He represented Uruguay at the [[2024 Copa América]] and was named in the [[Copa América awards#Team of the Tournament|Team of the Tournament]].
+
+==Club career==
+===Fénix===
+Born in [[Montevideo]], Ugarte started his football career in the youth ranks of local club City Park, before joining [[Centro Atlético Fénix|Fénix]]'s youth setup, being promoted to the first-team at the age of 15 by manager Rosario Martínez.<ref name="Earlycareer">{{Cite web|url=https://www.sporting.pt/pt/futebol/equipa-principal/plantel/manuel-ugarte-ribeiro|title=Biografia – Manuel Ugarte Ribeiro|date=9 August 2021 }}</ref> Shortly after, he was included in the 30-man to compete in the [[2016 Copa Sudamericana]].<ref>{{cite web|title=Lista de 30 y concentración|url=https://www.tenfield.com.uy/lista-de-30-y-concentracion/|website=Tenfield|date=7 August 2016|access-date=4 October 2022|language=es}}</ref> 
+
+Ugarte made his professional debut on 4 December 2016, replacing [[Agustín Canobbio]] in the 83rd minute in a 4–1 league win against [[Danubio F.C.|Danubio]].<ref name="prodebut">{{cite web|title=Fénix vs. Danubio – 4 December 2016 – Soccerway|url=https://us.soccerway.com/matches/2016/12/04/uruguay/primera-division/centro-atletico-fenix/danubio-futbol-club/2347263/|accessdate=5 January 2020}}</ref> By doing so, he became the youngest ever player in the 21st century to play professionally in [[Uruguay]] (aged 15 years and 233 days).<ref name="prodebut"/><ref>{{cite web|title=Con la frente bien alta|url=https://www.elpais.com.uy/ovacion/futbol/frente-alta.html|website=Diario EL PAIS Uruguay|date=5 December 2016|access-date=4 October 2022|language=es}}</ref> Initially Ugarte played as a [[Forward (association football)#Striker|striker]], before being converted to a [[midfielder]].<ref name="Earlycareer"/>
+
+Under [[Juan Ramón Carrasco]], Ugarte was entrusted to play more regularly, being named club captain aged 18 and scoring his first goal on 10 March 2019 in a 2–0 win against [[Racing Club de Montevideo|Racing Club]], as he went on to make 14 appearances in the [[Uruguayan Primera División]].<ref name="firstgoal">{{cite web|title=Fénix vs. Racing|url=https://us.soccerway.com/matches/2019/03/10/uruguay/primera-division/centro-atletico-fenix/racing-club-de-montevideo/2983904/|date=10 March 2019|access-date=5 January 2020}}</ref> On 29 October 2020, Ugarte assisted [[Luciano Nequecaur]] goal in the ''albivioletas'' 3–1 over [[Club Deportivo Huachipato|Huachipato]] in the first leg of the [[2020 Copa Sudamericana]].<ref>{{Cite news|title=Un partidazo: Manuel Ugarte Crack Sigue Rompiendo Fénix|trans-title=Manuel Ugarte, the crack that follows breaking in Fénix|url=https://www.elpais.com.uy/ovacion/futbol/copa-sudamericana-partidazo-manuel-ugarte-crack-sigue-rompiendo-fenix.html|website=[[El País (Uruguay)|El País Uruguay]]|date=29 October 2020|access-date=4 October 2022|language=es}}</ref> Overall, he made 57 appearances for the club and scored one goal.<ref>{{Cite web|title=New player of the champion: the Uruguayan Manuel Ugarte passes to Sporting|url=https://onefootball.com/es/noticias/nuevo-jugador-del-campeon-el-uruguayo-manuel-ugarte-pasa-al-sporting-33466834|accessdate=3 October 2022|website=[[OneFootball]]|date=29 July 2021 }}</ref>
+
+===Famalicão===
+On 29 December 2020, Ugarte signed a five-year contract with Portuguese club [[F.C. Famalicão|Famalicão]] for a fee of €3&nbsp;million for 80% of his economic rights.<ref name="fam1">{{cite web|title=Manuel Ugarte Assina por cinco épocas|date=29 December 2020|url=https://www.fcfamalicao.pt/manuel-ugarte-assina-por-cinco-epocas/|access-date=29 December 2020}}</ref><ref name="fam2">{{cite web|title=Oficial: Manuel Ugarte é o primeiro reforço de inverno do Famalicão|url=https://www.record.pt/futebol/futebol-nacional/liga-nos/famalicao/detalhe/oficial-manuel-ugarte-e-o-primeiro-reforco-de-inverno-do-famalicao|accessdate=29 December 2020|archive-date=7 March 2021|archive-url=https://web.archive.org/web/20210307205823/https://www.record.pt/futebol/futebol-nacional/liga-nos/famalicao/detalhe/oficial-manuel-ugarte-e-o-primeiro-reforco-de-inverno-do-famalicao|url-status=dead}}</ref> He made his [[Primeira Liga]] debut on 17 January 2021, playing the entire 2–0 victory at [[C.D. Santa Clara|Santa Clara]].<ref name="Earlycareer"/> On 21 February, he scored his first goal for the club in a 1–0 victory over [[Rio Ave F.C.|Rio Ave]].<ref>{{Cite news|title=Famalicão vs Rio Ave|url=https://www.dn.pt/desporto/amp/jogos-em-direto-13374183.html|website=[[Diário de Notícias]]|date=21 February 2021|language=pt|archive-date=14 August 2023|access-date=23 April 2022|archive-url=https://web.archive.org/web/20230814123308/https://www.dn.pt/desporto/amp/jogos-em-direto-13374183.html|url-status=dead}}</ref> Despite initially not being a starter, Ugarte eventually earned a place in the team under manager [[Ivo Vieira]], as his versatility enabled him to play in various positions in midfield, which was found useful by his coach, as Famalicão narrowly missed on European qualification to the [[2021–22 UEFA Europa Conference League|Europa Conference League]].<ref>{{Cite web|first=Filipe|last=Balreira|title=Ugarte como uma fénix: Do clube de bairro à afirmação no Sporting e o sonho de ser economista|url=https://www.record.pt/futebol/futebol-nacional/liga-bwin/sporting/detalhe/ugarte-como-uma-fenix-do-clube-ao-bairro-ao-estrelato-no-fm-e-a-afirmacao-nos-leoes|website=[[Record (Portuguese newspaper)|Record]]|date=4 April 2022|language=pt|access-date=23 April 2022|archive-date=27 April 2023|archive-url=https://web.archive.org/web/20230427035657/https://www.record.pt/futebol/futebol-nacional/liga-bwin/sporting/detalhe/ugarte-como-uma-fenix-do-clube-ao-bairro-ao-estrelato-no-fm-e-a-afirmacao-nos-leoes|url-status=dead}}</ref><ref>{{Cite web|title=Ugarte, a fénix uruguaia com apetite de leão|url=https://www.msn.com/pt-pt/desporto/futebol/ugarte-a-f%C3%A9nix-uruguaia-com-apetite-de-le%C3%A3o/ar-AAMMXOI|publisher=[[MSN]]|language=pt}}</ref>
+
+===Sporting CP===
+On 9 August 2021, Ugarte signed a five-year contract with [[Sporting CP]] of the same league, for a fee of €6.5&nbsp;million for half of his economic rights.<ref>{{Cite news|title=Oficial: Manuel Ugarte é Reforço do Leão|url=https://www.abola.pt/nnh/2021-08-09/sporting-oficial-manuel-ugarte-e-reforco-do-leao/900483|website=[[A Bola]]|date=9 August 2021|access-date=9 August 2021|language=pt}}</ref><ref>{{Cite news|first=Adérito|last=Esteves|title=Sporting: Ugarte já assinou e é anunciado segunda-feira|url=https://maisfutebol.iol.pt/transferencias/liga/sporting-ugarte-ja-assinou-e-e-anunciado-segunda-feira|website=Mais Futebol|date=9 August 2021|language=pt}}</ref> On 14 August, he made his debut for the club, replacing [[João Palhinha]] in the 92nd minute in a 2–1 away win against [[S.C. Braga|Braga]] in the Primeira Liga.<ref>{{Cite news|title=Ugarte: "Muito feliz pela minha estreia no Sporting"|url=https://www.record.pt/futebol/futebol-nacional/liga-bwin/sporting/detalhe/ugarte-muito-feliz-pela-minha-estreia-no-sporting|website=[[Record (Portuguese newspaper)|Record]]|date=7 August 2021|archive-date=6 October 2022|access-date=23 April 2022|archive-url=https://web.archive.org/web/20221006204316/https://www.record.pt/futebol/futebol-nacional/liga-bwin/sporting/detalhe/ugarte-muito-feliz-pela-minha-estreia-no-sporting|url-status=dead}}</ref> Ugarte scored his first goal for Sporting on 2 January 2022, opening the 2–1 home victory over his former club Famalicão.<ref>{{Cite news|title=Ugarte estreia-se a marcar com a camisola do Sporting... mas não festeja|url=https://www.ojogo.pt/futebol/1a-liga/sporting/noticias/sporting-famalicao-ugarte-abriu-assim-o-marcador-veja-o-golo-14260249.html|website=[[O Jogo]]|date=26 October 2021|language=pt|archive-date=20 December 2022|access-date=23 April 2022|archive-url=https://web.archive.org/web/20221220092803/https://www.ojogo.pt/futebol/1a-liga/sporting/noticias/sporting-famalicao-ugarte-abriu-assim-o-marcador-veja-o-golo-14260249.html|url-status=dead}}</ref> Initially signed as back-up to João Palhinha, following the latter's injury, Ugarte began having a run as starter, with manager [[Ruben Amorim]] entrusting him Palhinha's place on 3 December in the 3–1 away victory against rivals [[S.L. Benfica|Benfica]] in the [[Lisbon derby]].<ref name="dispute1">{{Cite web|title=Crescimento de Ugarte ameaça titularidade de Palhinha|url=https://www.noticiasaominuto.com/desporto/1909635/crescimento-de-ugarte-ameaa-titularidade-de-palhinha|website=Notícias a O Minuto|date=13 January 2022|language=pt}}</ref><ref name="dispute2">{{Cite news|title=Ugarte Aperta Cada Vez Mais Palhinha|url=https://www.abola.pt/nnh/2022-03-24/sporting-ugarte-aperta-cada-vez-mais-palhinha/933470|website=[[A Bola]]|date=24 March 2022|language=pt}}</ref> His impressive performances and quick adaptation to the team earned him praise from his manager, as he began to play more regularly and threaten Palhinha's starting position.<ref name="dispute1"/><ref name="dispute2"/> In the [[2022–23 UEFA Champions League]] group stage, Ugarte had the most tackles and interceptions combined at 34, including 12 tackles in a 3–0 away win against [[Eintracht Frankfurt]].<ref>{{Cite news|title=Who is Manuel Ugarte? The ball winning Sporting star linked with Tottenham|url=https://www.whoscored.com/Articles/ciAxHUtFb0e1mMDFOJ0RqA/Show/Who-is-Manuel-Ugarte-The-ball-winning-Sporting-star-linked-with-Tottenham|website=WhoScored|date=16 October 2022}}</ref>
+
+===Paris Saint-Germain===
+On 15 June 2023, in an interview with Portuguese newspaper [[Record (Portuguese newspaper)|''Record'']], Ugarte confirmed that he would be joining [[Ligue 1]] side [[Paris Saint-Germain F.C.|Paris Saint-Germain]].<ref>{{Cite news|title=Manuel Ugarte confirms move to PSG – Get French Football News|url=https://www.getfootballnewsfrance.com/2023/manuel-ugarte-confirms-move-to-psg/|website=Get Football News France|date=15 June 2023}}</ref> On 7 July 2023, PSG officially announced that he had joined the club on a five-year contract until 30 June 2028.<ref>{{Cite web|title=Manuel Ugarte au Paris Saint-Germain|url=https://www.psg.fr/equipes/equipe-premiere/content/manuel-ugarte-au-paris-saint-germain-jusquen-2028|website=PSG|date=7 July 2023|language=fr}}</ref> The transfer fee was reported to be €60&nbsp;million, with PSG triggering Ugarte's release clause.<ref>{{Cite news|title=PSG : Manuel Ugarte est Parisien ! (officiel)|url=https://www.onzemondial.com/transferts/psg-manuel-ugarte-est-parisien-officiel-836626|date=7 August 2023|website=Onze Mondial|language=fr}}</ref> He made his debut in a 0–0 draw against [[FC Lorient|Lorient]] at the [[Parc des Princes]] on 12 August.<ref>{{Cite web|title=Paris Saint-Germain V Lorient |url=https://en.psg.fr/teams/first-team/fixtures-and-results/202324/paris-saint-germain-v-lorient|website=PSG|date=12 August 2023}}</ref> 
+
+In August 2023, Ugarte was one of three nominees for the [[UNFP Player of the Month]] award.<ref>{{Cite web|title=Ugarte in contention for UNFP August Player of the Month award |url=https://onefootball.com/en/news/ugarte-in-contention-for-unfp-august-player-of-the-month-award-38213871|website=OneFootball|date=13 October 2023|access-date=25 September 2023}}</ref> In his first four Ligue 1 matches, he registered 41 ball recoveries, the most in the league. The only player bettering Ugarte's statistic after the first four Ligue 1 matches of the season since the 2006–07 season was former PSG midfielder [[Thiago Motta]] with 47 ball recoveries.<ref>{{Cite web |date=4 September 2023 |title=La stat impressionnante de Manuel Ugarte qui le rapproche d'un record d'une légende du PSG en Ligue 1 |url=https://www.90min.com/fr/posts/la-stat-impressionnante-de-manuel-ugarte-qui-le-rapproche-d-un-record-d-une-legende-du-psg-en-ligue-1 |access-date=2023-09-25 |website=90min.com |language=fr}}</ref> For his performances in August and September, Ugarte was described as a "revelation" of PSG's early season by ''[[Le Parisien]]'' and ''[[L'Équipe]].''<ref>{{Cite news|title=«Il comprend le jeu» : Manuel Ugarte décrypté avant PSG – OM |url=https://www.lequipe.fr/Football/Article/Les-caracteristiques-de-manuel-ugarte-psg-decryptees/1421548|website=L'Équipe|access-date=25 September 2023|language=fr}}</ref><ref>{{Cite news|first1=Marc|last1=Mechenoua|first2=Benjamin|last2=Quarez|title=PSG : sur les traces de Manuel Ugarte, l'enfant prodige de Montevideo |url=https://www.leparisien.fr/sports/football/psg/psg-sur-les-traces-de-manuel-ugarte-lenfant-prodige-de-montevideo-19-09-2023-BOOVYMUJ5ZCWLINT6XBEPK4NKA.php|website=[[Le Parisien]]|date=19 September 2023|access-date=25 September 2023|language=fr}}</ref> However, after the first two months of the season, Ugarte progressively lost his place as a starter. It was reported in the media that manager [[Luis Enrique]] deemed that he did not correspond to his style of play.<ref>{{Cite web |title="Ugarte doit partir en prêt pour progresser" – 100% PSG, le billet – France Bleu |url=https://www.francebleu.fr/emissions/100-psg-le-billet/ugarte-doit-partir-en-pret-pour-progresser-100-psg-le-billet-7416911 |access-date=2024-07-18 |website=ici par France Bleu et France 3 |date=28 June 2024 |language=fr}}</ref> Ugarte would make frequent appearances as a substitute for the rest of the season, amid occasional starts.<ref>{{Cite web |title=D'inamovible à joueur de rotation, que se passe-t-il pour Ugarte au PSG ? {{!}} Flashscore.fr |url=https://www.flashscore.fr/actualites/football-ligue-1-d-inamovible-a-joueur-de-rotation-que-se-passe-t-il-pour-ugarte-au-psg/hnCNtdQh/ |access-date=2024-07-18 |website=www.flashscore.fr |language=fr}}</ref> PSG went on to complete a domestic treble by winning Ligue 1, the [[Coupe de France]], and the [[Trophée des Champions]].<ref>{{Cite web |date=25 May 2024 |title=PSG outwit Lyon to claim Coupe de France and domestic treble |url=https://www.rfi.fr/en/sports/20240525-psg-outwit-lyon-to-claim-coupe-de-france-and-domestic-treble |access-date=2024-07-18 |publisher=Radio France Internationale |language=en}}</ref> 
+
+=== Manchester United ===
+Ugarte signed for [[Premier League]] side [[Manchester United F.C.|Manchester United]] on 30 August 2024, signing a five-year contract with an option for a year extension.<ref>{{Cite web |title=Transfer news: United sign Ugarte |url=https://www.manutd.com/en/news/detail/transfer-news-manuel-ugarte-signs-from-psg |access-date=2024-08-30 |publisher=Manchester United F.C. |language=en}}</ref> The transfer fee was reported to be €50&nbsp;million, potentially increasing to €60&nbsp;million with add-ons.<ref>{{Cite news |last=Jackson |first=Jamie |date=30 August 2024 |title=Manuel Ugarte joins Manchester United and promises to 'fight for trophies' |url=https://www.theguardian.com/football/article/2024/aug/30/manuel-ugarte-join-manchester-united-and-promises-to-fight-for-trophies |access-date=2024-12-30 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref> He made his debut for United on 14 September, appearing for 17 minutes in a 3–0 win over [[Southampton F.C.|Southampton]].<ref>{{Cite web |date=14 September 2024 |title=Southampton vs Manchester United 2024/25 |url=https://www.premierleague.com/match/115864 |publisher=Premier League}}</ref>
+
+On 22 February 2025, Ugarte scored his first goal for Manchester United, an equaliser after coming from 2–0 down, helping his team draw 2–2 with [[Everton F.C.|Everton]] in United's final match at [[Goodison Park]].<ref>{{Cite web |last=Douglas |first=Steve |date=22 February 2025 |title=Man United rallies to draw 2–2 at Everton in Premier League after late VAR drama |url=https://sports.yahoo.com/article/man-united-rallies-draw-2-144112950.html |website=Yahoo Sports}}</ref>
+
+On 17 April 2025, Ugarte netted the opening goal in the [[2024-25 UEFA Europa League|Europa League]] quarter-final second-leg against [[Olympique Lyon|Lyon]], with United eventually progressing after a dramatic 7–6 victory on aggregate.<ref>{{cite web | url=https://www.reuters.com/sports/soccer/maguires-121st-minute-winner-sends-man-utd-through-europa-league-semis-2025-04-17/#:~:text=MANCHESTER%2C%20England%2C%20April%2017%20(,Lyonnais%20in%20their%20quarter%2Dfinal | title=Maguire's 121st minute winner sends Man Utd through to Europa League semis | work=Reuters | date=17 April 2025 | last1=Hall | first1=Peter }}</ref>
+
+==International career==
+===Youth===
+Ugarte earned five [[Cap (sport)|caps]] for Uruguay at [[Uruguay national under-20 football team|under-20 level]].<ref>{{cite web |title=5 – Manuel Ugarte – AUF |url=https://www.auf.org.uy/5-manuel-ugarte/ |website=auf.org.uy |access-date=14 September 2024 |language=es}}</ref> On 29 December 2019, [[Uruguay Olympic football team|Uruguay under-23]] team head coach [[Gustavo Ferreyra]] named Ugarte in the 23-man final squad for the [[2020 CONMEBOL Pre-Olympic Tournament]].<ref>{{cite web|title=Gustavo Ferreyra definió el plantel para el Torneo Preolímpico 2020|url=https://www.auf.org.uy/gustavo-ferreyra-definio-el-plantel-para-el-torneo-preolimpico-2020/|access-date=29 October 2020}}</ref> He made five appearances in the competition,<ref>{{cite web |title=Manuel Ugarte – AUF |url=https://www.auf.org.uy/manuel-ugarte/ |website=auf.org.uy |access-date=14 September 2024 |language=es}}</ref> scoring in a 1–1 draw against [[Brazil national under-23 football team|Brazil]] in the final stage that helped Uruguay to finish third place.<ref>{{cite news |title=Sub-23 Brasil 1–1 Uruguay |url=https://www.auf.org.uy/preolimpico-2020-brasil-uruguay-fecha2-cuadrangular-final/ |website=auf.org.uy |date=6 February 2020 |access-date=14 September 2024 |language=es}}</ref>
+
+===Senior===
+On 5 March 2021, Ugarte was named in Uruguay senior team's 35-man preliminary squad for [[2022 FIFA World Cup qualification (CONMEBOL)|2022 FIFA World Cup qualifying matches]] against [[Argentina national football team|Argentina]] and [[Bolivia national football team|Bolivia]].<ref>{{cite web|title=35 futbolistas reservados para enfrentar a Argentina y Bolivia por Eliminatorias|url=https://www.auf.org.uy/35-futbolistas-reservados-para-enfrentar-a-argentina-y-bolivia/|website=[[Uruguayan Football Association]]|date=5 March 2021|access-date=7 March 2021|language=es}}</ref> However, [[CONMEBOL]] suspended those matches the next day amid concern over the [[COVID-19 pandemic]].<ref>{{cite web|title=CONMEBOL suspends March World Cup qualifiers after clubs' refusal to release players|url=https://www.espn.in/football/blog-fifa/story/4330687/conmebol-suspends-march-world-cup-qualifiers-after-clubs-refusal-to-release-players|publisher=[[ESPN]]|date=6 March 2021|access-date=7 March 2021}}</ref> He made his senior team debut on 5 September 2021, by coming on as a 70th-minute substitute for [[Matías Vecino]] in a 4–2 win against [[Bolivia national football team|Bolivia]].<ref>{{Cite news|title=¿Por qué se fue llorando Manuel Ugarte del partido contra Bolivia?|url=https://www.elobservador.com.uy/nota/por-que-se-fue-llorando-manuel-ugarte-del-partido-contra-bolivia--2021960818|website=[[El Observador (Uruguay)|El Observador Uruguay]]|date=6 September 2021|access-date=6 September 2021|language=es}}</ref>
+
+On 15 November 2024, Ugarte scored his first senior international goal, scoring in the 90+11th minute in 2026 World Cup qualifying against [[Colombian national football team|Colombia]], the latest scored winning goal in the CONMEBOL World Cup qualifying history.<ref>{{cite news |title=Man Utd's Ugarte scores dramatic late Uruguay winner |url=https://www.bbc.co.uk/sport/football/articles/c1jrkr4wzrno |website=BBC Sport |date=16 November 2024 |access-date=16 November 2024 |language=en}}</ref>
+
+On 31 May 2026, Ugarte was named in Uruguay's 26-man squad for the [[2026 FIFA World Cup]].<ref>{{cite web|title=Mundial 2026: Uruguay dio a conocer la lista de 26 convocados por Marcelo Bielsa|url=https://www.montevideo.com.uy/Deportes/Mundial-2026-Uruguay-dio-a-conocer-la-lista-de-26-convocados-por-Marcelo-Bielsa-uc963756|language=es|date=31 May 2026|access-date=31 May 2026}}</ref>
+
+==Style of play==
+Ugarte is a combative [[defensive midfielder]]. His strengths include his ability to win back possession with well timed tackles and defensive positioning. During the [[2023–24 Ligue 1]] season, he topped the charts for the most tackles, 98, despite playing only 25 league games out of a possible 34 league games as compared to other players.<ref>{{Cite web |title=Manuel Ugarte to Man Utd? N'Golo Kante-like ball-winner could help shore up Erik ten Hag's midfield |url=https://www.skysports.com/football/news/11096/13183322/manuel-ugarte-to-man-utd-ngolo-kante-like-ball-winner-could-help-shore-up-erik-ten-hags-midfield |access-date=2024-07-24 |website=Sky Sports |language=en}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 13 April 2026}}<ref name="worldfootball">{{cite web |title=Manuel Ugarte Club Matches |url=https://www.worldfootball.net/person/pe479932/manuel-ugarte/club-matches/ |website=worldfootball.net |access-date=13 April 2026}}</ref>
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup{{efn|Includes [[Taça de Portugal]], [[Coupe de France]], [[FA Cup]]}}
+!colspan="2"|League cup{{efn|Includes [[Taça da Liga]], [[EFL Cup]]}}
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="6"|[[Centro Atlético Fénix|Fénix]]
+|[[2016 Uruguayan Primera División season|2016]]
+|[[Uruguayan Primera División]]
+|1||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||1||0
+|-
+|[[2017 Uruguayan Primera División season|2017]]
+|Uruguayan Primera División
+|0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||0||0
+|-
+|[[2018 Uruguayan Primera División season|2018]]
+|Uruguayan Primera División
+|1||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||1||0
+|-
+|[[2019 Uruguayan Primera División season|2019]]
+|Uruguayan Primera División
+|35||1||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||35||1
+|-
+|[[2020 Uruguayan Primera División season|2020]]
+|Uruguayan Primera División
+|16||1||colspan="2"|—||colspan="2"|—||4{{efn|Appearances in [[Copa Sudamericana]]}}||0||colspan="2"|—||20||1
+|-
+!colspan="2"|Total
+!53!!2!!colspan="2"|—!!colspan="2"|—!!4!!0!!colspan="2"|—!!57!!2
+|-
+|rowspan="3"|[[F.C. Famalicão|Famalicão]]
+|[[2020–21 F.C. Famalicão season|2020–21]]
+|[[Primeira Liga]]
+|20||1||0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||20||1
+|-
+|[[2021–22 F.C. Famalicão season|2021–22]]
+|Primeira Liga
+|0||0||colspan="2"|—||1||0||colspan="2"|—||colspan="2"|—||1||0
+|-
+!colspan="2"|Total
+!20!!1!!0!!0!!1!!0!!colspan="2"|—!!colspan="2"|—!!21!!1
+|-
+|rowspan="3"|[[Sporting CP]]
+|[[2021–22 Sporting CP season|2021–22]]
+|Primeira Liga
+|25||0||5||0||4||1||4{{efn|name=UCL|Appearances in [[UEFA Champions League]]}}||0||colspan="2"|—||38||1
+|-
+|[[2022–23 Sporting CP season|2022–23]]
+|Primeira Liga
+|31||0||1||0||5||0||10{{efn|Six appearances in UEFA Champions League, four appearances in [[UEFA Europa League]]}}||0||colspan="2"|—||47||0
+|-
+!colspan="2"|Total
+!56!!0!!6!!0!!9!!1!!14!!0!!colspan="2"|—!!85!!1
+|-
+|[[Paris Saint-Germain FC|Paris Saint-Germain]]
+|[[2023–24 Paris Saint-Germain FC season|2023–24]]
+|[[Ligue 1]]
+|25||0||4||0||colspan="2"|—||8{{efn|name=UCL}}||0||0||0||37||0
+|-
+|rowspan="3"|[[Manchester United F.C.|Manchester United]]
+|[[2024–25 Manchester United F.C. season|2024–25]]
+|[[Premier League]]
+|29||1||3||0||3||0||10{{efn|name=UEL|Appearances in UEFA Europa League}}||1||colspan="2"|—||45||2
+|-
+|[[2025–26 Manchester United F.C. season|2025–26]]
+|Premier League
+|22||0||1||0||1||0||colspan="2"|—||colspan="2"|—||24||0
+|-
+!colspan="2"|Total
+!51!!1!!4!!0!!4!!0!!10!!1!!colspan="2"|—!!69!!2
+|-
+!colspan="3"|Career total
+!205!!4!!14!!0!!14!!1!!36!!1!!0!!0!!269!!6
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 31 March 2026}}<ref name="internationalstats">{{cite web |url=https://www.worldfootball.net/person/pe479932/manuel-ugarte/international-matches/ |title=Manuel Ugarte Internationals |website=worldfootball.net |access-date=13 April 2026}}</ref>
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="6"|[[Uruguay national football team|Uruguay]]
+|2021||1||0
+|-
+|2022||5||0
+|-
+|2023||7||0
+|-
+|2024||15{{efn|Includes a non-FIFA friendly played against the [[Basque Country national football team|Basque Country]] on 23 March 2024,<ref>{{cite news |title=Basque vs Uruguay – AUF |url=https://www.auf.org.uy/amistososel-vasca-vs-uruguay/ |website=auf.org.uy |date=23 March 2024 |access-date=14 September 2024 |language=es}}</ref> which is counted as an official match by the [[Uruguayan Football Association]]}}||1
+|-
+|2025||6||0
+|-
+|2026||2||0
+|-
+!colspan="2"|Total||36||1
+|}
+{{notelist}}
+
+{{updated|match played 31 March 2026}}<ref name="internationalstats"/>
+:''Scores and results list Uruguay's goal tally first, score column indicates score after each Ugarte goal.''
+
+{| class="wikitable sortable plainrowheaders"
+|+ International goals by date, venue, cap, opponent, score, result and competition
+!scope=col|No.
+!scope=col|Date
+!scope=col|Venue
+!scope=col|Cap
+!scope=col|Opponent
+!scope=col|Score
+!scope=col|Result
+!scope=col|Competition
+|-
+!scope=row| 1
+| 15 November 2024 || [[Estadio Centenario]], Montevideo, Uruguay ||align="center"| 27 || {{fb|Colombia}} ||align="center"| 3–2 ||align="center"| 3–2 || [[2026 FIFA World Cup qualification (CONMEBOL)|2026 World Cup qualification]]
+|}
+
+==Honours==
+'''Sporting CP'''
+*[[Taça da Liga]]: [[2021–22 Taça da Liga|2021–22]]<ref>{{cite web|url=https://portugoal.net/club-news/2426-sporting-defend-their-taca-da-liga-title-in-second-half-turnaround-versus-benfica|title=Sporting defend their Taça da Liga title in second-half turnaround versus Benfica|publisher=PortuGOAL|first=Patrick|last=Ribeiro|date=29 January 2022|access-date=30 January 2022}}</ref>
+
+'''Paris Saint-Germain'''
+*[[Ligue 1]]: [[2023–24 Ligue 1|2023–24]]<ref>{{Cite web |date=28 April 2024 |title=Paris Saint-Germain win their 12th Ligue 1 title! |url=https://en.psg.fr/teams/first-team/content/paris-saint-germain-win-their-12th-ligue-1-title-psg-ligue-1-club-2023-2024 |access-date=28 April 2024 |publisher=[[Paris Saint-Germain F.C.]]}}</ref>
+*[[Coupe de France]]: [[2023–24 Coupe de France|2023–24]]<ref>{{Cite web |date=25 May 2024 |title=Coupe de France Final: Dembélé powers PSG |work=Ligue1 COM |url=https://www.ligue1.com/Articles/Other-Competitions/2024/05/25/coupe-de-france-final-dembele-powers-psg |access-date=2024-05-26 |publisher=Ligue1 |language=en}}</ref>
+*[[Trophée des Champions]]: [[2023 Trophée des Champions|2023]]<ref>{{Cite web|title=Paris start 2024 with Trophée des Champions triumph! |url=https://en.psg.fr/teams/first-team/content/paris-start-2024-with-trophee-des-champions-triumph-match-report-paris-saint-germain-toulouse-fc-trophee-des-champions-2023|website=PSG|date=3 January 2024 |access-date=3 January 2024}}</ref>
+
+'''Manchester United'''
+* [[UEFA Europa League]] runner-up: [[2024–25 UEFA Europa League|2024–25]]<ref>{{Cite web |last=UEFA.com |title=Tottenham vs Man Utd {{!}} UEFA Europa League 2024/25 Final |url=https://www.uefa.com/uefaeuropaleague/match/2044465--tottenham-vs-man-utd/ |access-date=2025-05-21 |publisher=UEFA |language=en}}</ref>
+
+'''Uruguay'''
+*[[Copa América]] third place: 2024<ref>{{cite web|title=Uruguay beats Canada on penalties to finish CONMEBOL Copa América™ in 3rd Place|url=https://copaamerica.com/en/news/highlights-uruguay-canada-third-place-penalties-copa-america-2024|date=14 July 2024|access-date=14 July 2024}}</ref>
+
+'''Individual'''
+*[[Uruguayan Primera División]] Team of the Year: [[2019 Uruguayan Primera División season|2019]]<ref>{{cite web|title=Equipo Ideal del Campeonato Uruguayo 2019|url=https://www.auf.org.uy/equipo-ideal-del-campeonato-uruguayo-2019/|date=27 December 2019|access-date=23 December 2022}}</ref>
+*[[Primeira Liga]] Team of the Year: [[2022–23 Primeira Liga#Awards|2022–23]]<ref>{{Cite web|title=11 do Ano fechado com avançado do SC Braga (fotogaleria) (Liga)|url=https://www.abola.pt/nnh/2023-06-25/liga-11-do-ano-fechado-com-avancado-do-sc-braga-fotogaleria/https%3a%2f%2fwww.abola.pt%2fnnh%2f2023-06-25%2fliga-11-do-ano-fechado-com-avancado-do-sc-braga-fotogaleria%2f992657|website=A Bola|date=25 June 2023|access-date=2 August 2023|language=pt|archive-date=2 August 2023|archive-url=https://web.archive.org/web/20230802104007/https://www.abola.pt/nnh/2023-06-25/liga-11-do-ano-fechado-com-avancado-do-sc-braga-fotogaleria/https:%2F%2Fwww.abola.pt%2Fnnh%2F2023-06-25%2Fliga-11-do-ano-fechado-com-avancado-do-sc-braga-fotogaleria%2F992657|url-status=dead}}</ref>
+*[[Copa América awards#Team of the Tournament|Copa América Team of the Tournament]]: [[2024 Copa América#Awards|2024]]<ref>{{cite news |title=The CONMEBOL Copa América 2024™ Best XI |url=https://copaamerica.com/en/news/best-xi-team-tournament-copa-america-2024 |website=Copa América |access-date=31 July 2024 |date=31 July 2024}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category}}
+* [https://www.manutd.com/en/players-and-staff/detail/manuel-ugarte Profile] at the Manchester United F.C. website
+* [https://www.auf.org.uy/manuel-ugarte/ Profile] at the Uruguayan Football Association website {{in lang|es}}
+* {{UEFA player}}
+
+{{Manchester United F.C. squad}}
+{{Navboxes colour
+|title=Uruguay squads
+|bg        = #5CBFEB
+|fg        = black
+|bordercolor= gold
+|list1=
+{{Uruguay squad 2022 FIFA World Cup}}
+{{Uruguay squad 2024 Copa América}}
+{{Uruguay squad 2026 FIFA World Cup}}
+}}
+{{2024 Copa América Team of the Tournament}}
+{{Authority control}}
+
+{{DEFAULTSORT:Ugarte, Manuel}}
+[[Category:2001 births]]
+[[Category:Living people]]
+[[Category:Footballers from Montevideo]]
+[[Category:Uruguayan men's footballers]]
+[[Category:Men's association football midfielders]]
+[[Category:Club Atlético Fénix players]]
+[[Category:F.C. Famalicão players]]
+[[Category:Sporting CP footballers]]
+[[Category:Paris Saint-Germain FC players]]
+[[Category:Manchester United F.C. players]]
+[[Category:Uruguayan Primera División players]]
+[[Category:Primeira Liga players]]
+[[Category:Ligue 1 players]]
+[[Category:Premier League players]]
+[[Category:Uruguay men's youth international footballers]]
+[[Category:Uruguay men's under-20 international footballers]]
+[[Category:Uruguay men's international footballers]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:2024 Copa América players]]
+[[Category:2026 FIFA World Cup players]]
+[[Category:Uruguayan expatriate men's footballers]]
+[[Category:Uruguayan expatriate sportspeople in Portugal]]
+[[Category:Uruguayan expatriate sportspeople in France]]
+[[Category:Uruguayan expatriate sportspeople in England]]
+[[Category:Expatriate men's footballers in Portugal]]
+[[Category:Expatriate men's footballers in France]]
+[[Category:Expatriate men's footballers in England]]
+[[Category:Uruguayan people of Basque descent]]

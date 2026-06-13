@@ -39,7 +39,7 @@ def main():
     a = ap.parse_args()
     groups = load_groups()
     if not groups:
-        raise SystemExit("✗ 没读到分组(bg/static/groups.json)")
+        raise SystemExit("✗ 没读到分组(reference/static/groups.json)")
     if a.group:
         groups = {a.group: groups[a.group]}
     models = [m for m in load_models() if not a.only or m["name"].lower() == a.only.lower()]

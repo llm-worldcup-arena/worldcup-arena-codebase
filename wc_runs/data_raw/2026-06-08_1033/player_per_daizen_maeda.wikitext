@@ -1,0 +1,326 @@
+{{short description|Japanese footballer (born 1997)}}
+{{Use dmy dates|date=November 2022}}
+{{Infobox football biography
+| name = Daizen Maeda
+| image = Celtic-20240722-018 (cropped).jpg
+| image_size = 200px
+| caption = Maeda training with [[Celtic F.C.|Celtic]] in 2024
+| full_name = Daizen Maeda<ref name="FIFA 2022">{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=FIFA World Cup Qatar 2022 – Squad list: Japan (JPN) |publisher=[[FIFA]] |page=16 |date=15 November 2022 |access-date=15 November 2022}}</ref>
+| birth_date = {{Birth date and age|1997|10|20|df=y}}
+| birth_place = [[Taishi, Osaka|Taishi]], [[Osaka Prefecture|Osaka]], Japan
+| height = 1.73 m<ref>{{cite web |url=https://www.celticfc.com/players/daizen-maeda |title=Daizen Maeda |publisher=Celtic F.C. |access-date=7 September 2022}}</ref>
+| position = [[Forward (association football)|Forward]]
+| currentclub = [[Celtic F.C.|Celtic]]
+| clubnumber = 38
+| youthyears1 = 2004–2009
+| youthclubs1 = Taishi JSC
+| youthyears2 = 2010–2012
+| youthclubs2 = Kawakami FC
+| youthyears3 = 2013–2015
+| youthclubs3 = Yamanashi Gakuin University High School
+| years1 = 2016–2020
+| clubs1 = [[Matsumoto Yamaga]]
+| caps1 = 56
+| goals1 = 9
+| years2 = 2017
+| clubs2 = → [[Mito HollyHock]] (loan)
+| caps2 = 2
+| goals2 = 1
+| years3 = 2019–2020
+| clubs3 = → [[C.S. Marítimo|Marítimo]] (loan)
+| caps3 = 23
+| goals3 = 3
+| years4 = 2020
+| clubs4 = → [[Yokohama F. Marinos]] (loan)
+| caps4 = 23
+| goals4 = 3
+| years5 = 2021–2022
+| clubs5 = [[Yokohama F. Marinos]]
+| caps5 = 36
+| goals5 = 23
+| clubs6 = → [[Celtic F.C.|Celtic]] (loan)
+| years6 = 2022
+| caps6 = 16
+| goals6 = 6
+| years7 = 2022–
+| clubs7 = [[Celtic F.C.|Celtic]]
+| caps7 = 133
+| goals7 = 44
+| nationalyears1 = 2018–2021
+| nationalteam1 = [[Japan national under-23 football team|Japan U23]]
+| nationalcaps1 = 1
+| nationalgoals1 = 3
+| nationalyears2 = 2019–
+| nationalteam2 = [[Japan national football team|Japan]]
+| nationalcaps2 = 27
+| nationalgoals2 = 4
+| medaltemplates = {{Medal|Country|{{Fb|JPN}}}}
+{{Medal|Competition|[[Asian Games]]}}
+{{Medal|S|[[2018 Asian Games|2018 Jakarta-Palembang]]|[[Football at the 2018 Asian Games – Men|Team]]}}
+| club-update = 16 May 2026
+| nationalteam-update = 28 March 2026
+}}
+
+{{Nihongo|'''Daizen Maeda'''|前田 大然|Maeda Daizen|born 20 October 1997}} is a Japanese professional [[Association football|footballer]] who plays as a [[Forward (association football)|forward]] for {{Scottish football updater|Celtic}} side [[Celtic F.C.|Celtic]] and the [[Japan national football team|Japan national team]].<ref>{{Cite web|url=https://data.j-league.or.jp/SFIX04/?player_id=19175|title=J. League Data Site|website=data.j-league.or.jp}}</ref>
+
+He began his career with [[Matsumoto Yamaga FC]] before spells with [[Mito HollyHock]], [[C.S. Marítimo|Marítimo]] and [[Yokohama F. Marinos]], where he finished as the [[J1 League]] top scorer in 2021. Since joining Celtic in 2022, Maeda has won multiple domestic honours and established himself as one of the club's key attacking players. He has represented [[Japan national football team|Japan]] internationally since 2019, featuring at the [[2022 FIFA World Cup]] and the [[2023 AFC Asian Cup]].
+
+== Club career ==
+
+=== Matsumoto Yamaga ===
+In 2016, Maeda joined [[Matsumoto Yamaga FC]]. He got his J-League debut on 28 February 2016.<ref>{{Cite web|title=前田 大然：横浜Ｆ・マリノス：Ｊリーグ.jp|url=https://www.jleague.jp/player/1600186/|access-date=6 November 2021|website=Ｊリーグ.jp（日本プロサッカーリーグ）|language=ja|archive-date=6 November 2021|archive-url=https://web.archive.org/web/20211106173203/https://www.jleague.jp/player/1600186/|url-status=dead}}</ref> It was on 28 August 2016, that he scored his first goal as a professional in an [[Emperor's Cup]] game against [[Tokuyama University]].<ref>{{Cite web|title=【公式】松本vs徳山大の選手コメント（天皇杯：2016年8月28日）：Ｊリーグ.jp|url=https://www.jleague.jp/match/emperor/2016/082807/player/|access-date=6 November 2021|website=Ｊリーグ.jp（日本プロサッカーリーグ）|language=ja}}</ref>
+
+After his loan spell at [[Mito HollyHock|Mito]], he struggled for regular playing time and was loaned to the Portuguese club, [[C.S. Marítimo|Maritimo]] in 2019.<ref>{{Cite web|date=21 July 2019|title=前田大然選手CSマリティモ（ポルトガル）へ期限付き移籍のお知らせ|url=https://www.yamaga-fc.com/archives/180011|access-date=6 November 2021|website=松本山雅FC|language=ja}}</ref> He left the club in 2021 after his loan with [[Yokohama F. Marinos]] was made permanent.
+
+==== Mito HollyHock (loan) ====
+Maeda joined [[Mito HollyHock]] on a loan deal from February 2017 until January 2018.<ref>{{Cite web|date=6 January 2017|title=前田大然選手 水戸ホーリーホックへ期限付移籍のお知らせ|url=https://www.yamaga-fc.com/archives/82060|access-date=6 November 2021|website=松本山雅FC|language=ja}}</ref> He ended the season while scoring 13 goals.<ref>{{Cite web|title=Summary - J2 League - Japan - Results, fixtures, tables and news - Soccerway|url=https://ng.soccerway.com/national/japan/j2-league/2017/regular-season/r39745/|access-date=6 November 2021|website=ng.soccerway.com}}</ref>
+
+==== Maritimo (loan) ====
+On 11 August 2019, he made his debut in the opening round of [[Primeira Liga|Portuguese League]] against [[Sporting CP]] when he came on as a substitute in the 57th minute.<ref>{{Cite web|title=Marítimo vs. Sporting Lisbon - 11 August 2019 - Soccerway|url=https://ng.soccerway.com/matches/2019/08/11/portugal/portuguese-liga-/maritimo-funchal/sporting-clube-de-portugal/3064646/|access-date=6 November 2021|website=ng.soccerway.com}}</ref><ref>{{Cite web|title=ポルトガルデビュー前田大然惜しい!ダイビングヘッドがポスト直撃|url=https://web.gekisaka.jp/news/detail/?281993-281993-fl|access-date=6 November 2021|website=ゲキサカ|date=12 August 2019 |language=ja}}</ref>
+
+On 25 August 2019, Maeda scored his debut goal in a 3–2 loss to [[C.D. Tondela|CD Tondela]].<ref>{{Cite web|title=Marítimo vs. Tondela - 25 August 2019 - Soccerway|url=https://ng.soccerway.com/matches/2019/08/25/portugal/portuguese-liga-/maritimo-funchal/cd-tondela/3064664/|access-date=6 November 2021|website=ng.soccerway.com}}</ref><ref>{{Cite web|title=前田大然が今季初ゴール マリティモ本拠３失点敗戦 - ポルトガルリーグ : 日刊スポーツ|url=https://www.nikkansports.com/soccer/world/news/201908260000051.html|access-date=6 November 2021|website=nikkansports.com|language=ja}}</ref>
+
+=== Yokohama F. Marinos ===
+
+In August 2020, he was loaned to [[Yokohama F. Marinos]].<ref>{{Cite web|title=前田大然選手 期限付き移籍加入のお知らせ {{!}} ニュース|url=https://www.f-marinos.com/news/category/5/7092|access-date=6 November 2021|website=横浜F・マリノス 公式サイト|language=ja}}</ref> He scored his first goal after the transfer in the match against [[Shimizu S-Pulse]] on 19 August, and contributed to the team's first victory in three games.<ref>{{Cite web|title=横浜 3試合ぶりの白星 初先発のジュニオール・サントスが2発 大然も初得点 - スポニチ Sponichi Annex サッカー|url=https://www.sponichi.co.jp/soccer/news/2020/08/19/kiji/20200819s00002179524000c.html|access-date=6 November 2021|website=スポニチ Sponichi Annex|language=ja}}</ref><ref>{{Cite web|title=Shimizu S-Pulse vs. Yokohama F. Marinos - 19 August 2020 - Soccerway|url=https://ng.soccerway.com/matches/2020/08/19/japan/j1-league/shimizu-s-pulse/yokohama-f-marinos/3279269/|access-date=6 November 2021|website=ng.soccerway.com}}</ref>
+
+By the end of the season, the deal was made permanent.<ref>{{Cite web|author1=FromOne co., Ltd|title=横浜FM、松本からFW前田大然を完全移籍で獲得！ DF前貴之の完全移籍も発表|url=https://www.soccer-king.jp/news/japan/jl/20201225/1158334.html|access-date=6 November 2021|website=サッカーキング|date=25 December 2020 |language=ja}}</ref> On 7 March 2021, he scored a brace against [[Sanfrecce Hiroshima]]<ref>{{Cite web|last=INC|first=SANKEI DIGITAL|date=8 March 2021|title=横浜Ｍ・前田大然が２発！開幕連敗危機救った「まずはチームでしっかり結果を残す」|url=https://www.sanspo.com/article/20210308-JTCDWR3SL5JILINSSJRRQHNXQI/|access-date=6 November 2021|website=サンスポ|language=ja}}</ref><ref>{{Cite web|title=Yokohama F. Marinos vs. Sanfrecce Hiroshima - 7 March 2021 - Soccerway|url=https://ng.soccerway.com/matches/2021/03/07/japan/j1-league/yokohama-f-marinos/sanfrecce-hiroshima/3443002/|access-date=6 November 2021|website=ng.soccerway.com}}</ref> and continued his prolific run of form on 17 March, scoring four goals in one game against [[Tokushima Vortis]].<ref>{{Cite web|title=J1得点ランク首位に立った横浜FM前田大然、代表招集に意気込み「その場で活躍することが大事」|url=https://web.gekisaka.jp/news/detail/?326559-326559-fl|access-date=6 November 2021|website=ゲキサカ|date=17 March 2021 |language=ja}}</ref><ref>{{Cite web|title=Yokohama F. Marinos vs. Tokushima Vortis - 17 March 2021 - Soccerway|url=https://ng.soccerway.com/matches/2021/03/17/japan/j1-league/yokohama-f-marinos/tokushima-vortis/3449199/|access-date=6 November 2021|website=ng.soccerway.com}}</ref> On 25 September 2021, with a goal against [[Yokohama FC]], Maeda became the [[J.League Top Scorer|top scorer]] in the J1 League.<ref>{{Cite web|title=Yokohama vs. Yokohama F. Marinos - 25 September 2021 - Soccerway|url=https://ng.soccerway.com/matches/2021/09/25/japan/j1-league/yokohama-fc/yokohama-f-marinos/3449439/|access-date=6 November 2021|website=ng.soccerway.com}}</ref><ref>{{Cite web|title=【データ】横浜前田大然ゴールで得点単独首位！日本人16点以上は18年ぶり - Ｊ１ : 日刊スポーツ|url=https://www.nikkansports.com/soccer/news/202109250001206.html|access-date=6 November 2021|website=nikkansports.com|language=ja}}</ref> On 6 November against FC Tokyo, he scored his second hat-trick of the season to keep his spot in the top scorers' ranking.<ref>{{Cite web|last=McKay|first=Gabriel|date=6 November 2021|title=Celtic target Daizen Maeda bags brilliant hat-trick|url=https://www.dailyrecord.co.uk/sport/football/football-transfer-news/daizen-maeda-sends-celtic-transfer-25393240|access-date=6 November 2021|website=Daily Record|language=en}}</ref> In addition to being named in the [[J.League Best XI]] at the end of the season, Maeda was also co-[[J.League Top Scorer]] with [[Leandro Damiao]] of [[Kawasaki Frontale]], who had equalled his total of 23 goals for the campaign.<ref>{{Cite web|url=https://www.japantimes.co.jp/sports/2021/12/07/soccer/j-league/2021-jleague-awards-damiao/|title=Joint-top scorer Leandro Damiao named MVP in Frontale-centric Best XI|date=7 December 2021|access-date=3 January 2022|archive-date=24 November 2022|archive-url=https://web.archive.org/web/20221124085736/https://www.japantimes.co.jp/sports/2021/12/07/soccer/j-league/2021-jleague-awards-damiao/|url-status=dead}}</ref>
+
+===Celtic===
+[[File:2023.07.19 Yokohama F. Marinos - Celtic Glasgow (6-4) - 53063131949.jpg|thumb|right|upright|Maeda with Celtic in 2023]]
+On 31 December 2021, it was announced that Maeda had signed for [[Scottish Premiership]] club [[Celtic F.C.|Celtic]] on loan for the rest of the season, with an obligation to buy at the end of the loan.<ref>{{cite web|url=https://www.celticfc.com/news/2021/december/31/celtic-delighted-to-welcome-three-new-signings/|first=Pauk|last=Cuddihy|date=31 December 2021|work=[[Celtic F.C.]]|title=Celtic delighted to welcome three new signings}}</ref> On 17 January 2022, Maeda made his debut for Celtic and scored his first goal in the 4th minute, in a league fixture against [[Hibernian F.C.|Hibernian]] at [[Celtic Park]]. Maeda signed a four-year contract with Celtic at the end of the season, when his move was made permanent.<ref>{{Cite web |title=Celtic sign loan-star Daizen Maeda on permanent deal |url=https://news.stv.tv/sport/celtic-seal-permanent-signing-of-japan-international-forward-daizen-maeda |access-date=23 May 2022 |website=STV Sport |first=Peter |last=Cassidy|date=23 May 2022 }}</ref>
+
+On 6 September 2022, Maeda came on as a half-time substitute for [[Liel Abada]] to make his [[UEFA Champions League]] debut in a 3–0 home defeat against [[Real Madrid CF|Real Madrid]].<ref>{{Cite web |title=Celtic 0-3 Real Madrid |url=https://www.skysports.com/football/celtic-vs-real-madrid/teams/477352 |last=Conroy |first=Alison |date=7 September 2022 |website=Sky Sports |access-date=2 January 2023 |language=en}}</ref> On 2 January 2023, he scored the opening goal in a 2–2 draw at [[Rangers F.C.|Rangers]].<ref>{{cite news |title=Rangers 2-2 Celtic: Kyogo Furuhashi's late strike maintains nine-point lead over Old Firm rivals |url=https://www.skysports.com/football/news/11095/12776846/rangers-2-2-celtic-kyogo-furuhashis-late-strike-maintains-nine-point-lead-over-old-firm-rivals |last=Conroy |first=Alison |date=2 January 2023 |website=Sky Sports |access-date=2 January 2023 |language=en}}</ref> His form at this time saw [[Premier League]] side [[Southampton F.C.|Southampton]] monitor him.<ref>{{Cite web |title=Southampton monitoring Daizen Maeda while Celtic make £3m bid for South Korea striker Gue-Sung Cho |url=https://www.skysports.com/transfer/news/12691/12782334/daizen-maeda-southampton-monitoring-celtic-forward-as-nathan-jones-looks-to-bolster-attacking-options |last1=McAdam |first1=Mark |last2=Joseph |first2=Anthony |date=10 January 2023 |website=Sky Sports |access-date=10 January 2023 |language=en}}</ref>
+
+On 6 July 2023, Maeda signed a new four-year contract with Celtic, keeping him at the club until 2027.<ref>{{Cite news|url=https://www.skysports.com/football/news/11787/12916395/kyogo-furuhashi-celtic-forward-signs-new-four-year-deal-at-scottish-premiership-champions|title=Celtic winger Maeda signs new four-year deal|last=Conroy|first=Alison|date=6 July 2023|publisher=Sky Sports|access-date=6 July 2023}}</ref>
+
+Maeda had his most prolific season during 2024–25, scoring over 30 goals, with his form particularly picking up from January.<ref>{{Cite web|url=https://www.bbc.co.uk/sport/articles/ce8gyxk26xjo|title=Rodgers explains reasons behind Maeda's development|date=5 April 2025|website=BBC Sport}}</ref> He scored his first Champions League goal against [[ŠK Slovan Bratislava|Slovan Bratislava]], and scored a further three against [[Borussia Dortmund]], [[Club Brugge KV|Club Brugge]] and [[FC Bayern Munich|Bayern Munich]].<ref>{{cite news|url=https://celtsarehere.com/daizen-maeda-surpasses-celtic-legends-with-champions-league-record/|title=Daizen Maeda Surpasses Celtic Legends With Champions League Record|date=12 February 2025|work=Celts Are Here|accessdate=14 April 2025}}</ref> This put him level with [[Shinji Kagawa]] and [[Takumi Minamino]] for most goals by a Japanese player in the Champions League.<ref>{{cite news|url=https://www.glasgowtimes.co.uk/sport/24934547.maeda-reaches-elite-japanese-champions-league-landmark/|title=Maeda joins elite Japanese Champions League club with goal vs Bayern Munich|date=13 February 2025|website=Glasgow Times|accessdate=14 April 2025}}</ref> It also made him the first player to score four goals for Celtic in [[UEFA competitions|UEFA competition]] since [[Joe Craig (footballer)|Joe Craig]] in the [[1977–78 Celtic F.C. season|1977–78 season]].<ref>{{cite news|url=https://www.footballfancast.com/former-celtic-striker-gary-hooper-joins-eighth-tier-club/|title=Celtic once had the 'best striker' after Larsson, now he's in the 8th tier|last=Gray|first=Ben|date=14 February 2025|website=FootballFanCast|accessdate=14 April 2025}}</ref><ref>{{Cite web|url=https://www.bbc.co.uk/sport/articles/cj020181gvno|title=Bayern Munich v Celtic (2-1 agg): Pick of the stats|date=17 February 2025|website=BBC Sport|accessdate=14 April 2025}}</ref>
+
+Upon scoring against [[Kilmarnock F.C.|Kilmarnock]] on 12 April 2025, he became the first Celtic player to score in eight consecutive starts at Parkhead since [[Henrik Larsson]] in 2004.<ref>{{cite tweet|user=ScotlandSky|author=Sky Sports Scotland|number=1911023026180596183|title=😮‍💨 Maeda makes it TWO!<br/>He's now scored on his last eight starts at Celtic Park - the first to do so since Henrik Larsson! ⤵️|accessdate=14 April 2025}}</ref><ref>{{cite news|url=https://celtsarehere.com/daizen-maeda-equals-henrik-larsson-record/|title=Daizen Maeda Equals Henrik Larsson Record|first=Michael|last=Shearer|date=12 April 2025|work=Celts Are Here|accessdate=14 April 2025}}</ref> Celtic fans also began singing Maeda's name to the tune of "[[Tequila (The Champs song)|Tequila]]" by [[the Champs]].<ref>{{cite news|url=https://onefootball.com/en/news/daizen-maeda-thanks-celtic-support-for-wonderful-song-40813728|title=Daizen Maeda thanks Celtic support for 'wonderful' song|date=9 March 2025|website=OneFootball|accessdate=14 April 2025}}</ref>
+
+Maeda was named as one of four nominees for the 2024–25 [[PFA Scotland Players' Player of the Year]], alongside teammates [[Callum McGregor]] and [[Nicolas Kühn]], and [[Dundee F.C.|Dundee]] striker [[Simon Murray (footballer)|Simon Murray]].<ref>{{cite news|url=https://www.bbc.com/sport/football/articles/cg7245y77yxo|title=Celtic trio and Murray vie for player of the year|date=28 April 2025|publisher=BBC Sport|accessdate=1 May 2025}}</ref>
+
+In August 2025, it was reported that Maeda wanted to leave Celtic but could not as the club did not have time to buy a backup. This led to poor form in the months of September and October, with Maeda only scoring two goals.<ref>{{Cite web|url=https://www.bbc.co.uk/sport/football/articles/cwywgvvn8l3o|title=Celtic: Daizen Maeda can't wallow in 'difficult' situation - Brendan Rodgers|date=26 September 2025|website=BBC Sport}}</ref>
+
+In the closing stages of the [[2025–26 Scottish Premiership|2025–26 season]], Maeda scored in five consecutive league matches,<ref>{{cite web |last=English |first=Tom |url=https://www.bbc.com/sport/football/articles/c0m24m3nd1vo |title=Resilient Celtic time run perfectly to win race after eight-month chase |publisher=BBC Sport |date=16 May 2026 }}</ref> including a stunning overhead against Rangers<ref>https://www.independent.co.uk/sport/football/celtic-rangers-report-daizen-maeda-goal-b2973815.html</ref> and the decisive second goal in the 87th minute of a 3–1 victory over [[Heart of Midlothian F.C.|Hearts]] on 16 May 2026, the final matchday, helping secure his club's record 56th league title.<ref>{{cite web |url=https://www.reuters.com/sports/soccer/celtic-snatch-title-hearts-with-final-day-victory-2026-05-16/ |title=Celtic snatch title from Hearts with last-gasp victory on final day |publisher=Reuters |date=16 May 2026 }}</ref> He also scored the opening goal in the Scottish Cup final against Dunfermline the following week, lobbing goalkeeper [[Aston Oxborough]] from the edge of the penalty box.<ref name="26 SC">{{cite news|url=https://www.theguardian.com/football/2026/may/23/celtic-dunfermline-scottish-cup-final-match-report|title=Iheanacho ensures Celtic ease past Dunfermline to win Scottish Cup and Double|first=Ewan|last=Murray|date=23 May 2026|via=The Guardian}}</ref>
+
+==International career==
+On 24 May 2019, Maeda was called by [[Japan national football team|Japan]]'s head coach [[Hajime Moriyasu]] to feature in the [[2019 Copa América|Copa América]] played in Brazil.<ref>{{cite web|url=http://www.jfa.jp/eng/news/00021323/|title=SAMURAI BLUE (Japan National Team) Squad, Schedule - CONMEBOL Copa America Brazil 2019 (6/14–7/7)|publisher=JFA|date=24 May 2019}}</ref> He was also the first Matsumoto Yamaga player to ever feature for the senior side. He made his debut on 17 June 2019 in the game against Chile, as a starter.<ref>{{cite web|publisher=[[CONMEBOL]]|url=http://estadisticas.conmebol.com/html/v3/index.html?channel=deportes.futbol.copaamerica.462516&lang=es_LA|title=Japan v Chile game report|date=17 June 2019}}</ref>
+
+In Japan's [[2022 FIFA World Cup|2022 World Cup]] game against [[Germany national football team|Germany]], Maeda was placed as starting striker. He was substituted in the 57th minute by [[Takuma Asano]]. Japan advanced out of the group stage after beating [[Spain national football team|Spain]] 2–1. On 5 December 2022, Maeda scored a goal in the 43rd minute to put Japan in front during the round of 16 game against [[Croatia national football team|Croatia]] which eventually ended 1–1, with Japan crashing out after their defeat on penalties.<ref>{{cite news|url=https://www.scotsman.com/sport/football/celtic/celtics-daizen-maeda-hailed-by-bbc-pundits-after-world-cup-last-16-goal-for-japan-3942658|title=Celtic's Daizen Maeda hailed by BBC pundits after World Cup last-16 goal for Japan|last=Elder|first=Matthew|date=5 December 2022|work=The Scotsman|accessdate=14 April 2025}}</ref>
+
+Along with his Celtic teammate [[Reo Hatate]], Maeda was called up to the Japanese squad for the [[2023 AFC Asian Cup]] in Qatar.<ref>{{cite news|url=https://www.the-afc.com/en/national/afc_asian_cup/news/mitoma_named_in_japan_squad.html|title=Mitoma named in Japan squad|date=1 January 2024|publisher=[[Asian Football Confederation]]|accessdate=14 April 2025}}</ref>
+
+On March 28, 2026, Maeda captained Japan for the first time in a friendly match against [[Scotland national football team|Scotland]].<ref>{{Cite web |date=2026-03-30 |title=Daizen Maeda reflects on captaining Japan against Scotland |url=https://thecelticstar.com/daizen-maeda-reflects-on-captaining-japan-against-scotland/ |access-date=2026-03-31 |website=thecelticstar.com |language=en-GB}}</ref> In May, he was named in the 26-man squad for the [[2026 FIFA World Cup]].<ref>https://www.bbc.com/sport/articles/c78kn9e87dzo</ref>
+
+== Style of play ==
+Though primarily and initially used by both [[Matsumoto Yamaga F.C.|Matsumoto Yamaga]] and [[Yokohama F. Marinos]] as a [[Winger (association football)|left winger]], Maeda is able to operate in a number of positions as a [[Forward (association football)|forward]], including on the opposite flank, as an [[Midfielder (association football)|attacking midfielder]] or occasionally a [[second striker]]. Regarding his stamina and conditioning, former coach [[John Hutchinson (footballer, born 1979)|John Hutchinson]] referred to Maeda as a "machine", while [[Arthur Papas]], who also coached Maeda during his time at Yokohama, hailed his pace and sprinting.<ref>{{cite news|url=https://www.heraldscotland.com/sport/19825227.celtic-star-daizen-maeda-attribute-will-terrify-defenders-outlined-world-coaches/|title='Like nothing I've seen' - World coaches outline Celtic new boy Maeda's attribute that will terrify defenders|last=Irvine|first=David|date=5 January 2022|work=The Herald}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 23 May 2026}}<ref>Nippon Sports Kikaku Publishing inc./日本スポーツ企画出版社, [https://www.amazon.co.jp/J1-J3%E9%81%B8%E6%89%8B%E5%90%8D%E9%91%91%E3%83%8F%E3%83%B3%E3%83%87%E3%82%A3%E7%89%88-2018-NSK-MOOK/dp/4905411521 "J1&J2&J3選手名鑑ハンディ版 2018 (NSK MOOK)"], 7 February 2018, Japan, {{ISBN|978-4905411529}} (p. 183 out of 289)</ref><ref>Nippon Sports Kikaku Publishing inc./日本スポーツ企画出版社, [https://www.amazon.co.jp/2017-J1-J3%E9%81%B8%E6%89%8B%E5%90%8D%E9%91%91-NSK-MOOK/dp/4905411424/ref=pd_sim_14_1/356-9491148-0114816?_encoding=UTF8&psc=1&refRID=BA8BN4Y0F97GNWKQM78H "2017 J1&J2&J3選手名鑑 (NSK MOOK)"], 8 February 2017, Japan, {{ISBN|978-4905411420}} (p. 205 out of 289)</ref>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup{{efn|Includes [[Emperor's Cup]], [[Taça de Portugal]], [[Scottish Cup]]}}
+!colspan="2"|League cup{{efn|Includes [[J.League Cup]], [[Taça da Liga]], [[Scottish League Cup]]}}
+!colspan="2"|Continental
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="4"|[[Matsumoto Yamaga FC|Matsumoto Yamaga]]
+|[[2016 J2 League|2016]]
+|[[J2 League]]
+|9||0||1||1||0||0||colspan="2"|–||10||1
+|-
+|[[2018 J2 League|2018]]
+|J2 League
+|29||7||0||0||0||0||colspan="2"|–||29||7
+|-
+|[[2019 J1 League|2019]]
+|[[J1 League]]
+|18||2||0||0||0||0||colspan="2"|–||18||2
+|-
+!colspan="2"|Total
+!56!!9!!1!!1!!0!!0!!colspan="2"|–!!57!!10
+|-
+|[[Mito HollyHock]] (loan)
+|[[2017 J2 League|2017]]
+|J2 League
+|36||13||0||0||0||0||colspan="2"|–||36||13
+|-
+|[[C.S. Marítimo|Marítimo]] (loan)
+|{{nowrap|[[2019–20 Primeira Liga|2019–20]]}}
+|[[Primeira Liga]]
+|23||3||1||1||0||0||colspan="2"|–||24||4
+|-
+|[[Yokohama F. Marinos]] (loan)
+|[[2020 J1 League|2020]]
+|J1 League
+|23||3||0||0||2||0||5{{efn|Appearances in [[AFC Champions League]]}}||0||30||3
+|-
+|rowspan="2"|Yokohama F. Marinos
+|[[2021 J1 League|2021]]
+|J1 League
+|36||23||0||0||4||0||0||0||40||23
+|-
+!colspan="2"|Total
+!59!!26!!0!!0!!6!!0!!5!!0!!70!!26
+|-
+|[[Celtic F.C.|Celtic]] (loan)
+|[[2021–22 Celtic F.C. season|2021–22]]
+|[[Scottish Premiership]]
+|16||6||4||1||0||0||2{{efn|Appearances in [[UEFA Europa Conference League]]}}||1||22||8
+|-
+|rowspan="5"|Celtic
+|[[2022–23 Celtic F.C. season|2022–23]]
+|Scottish Premiership
+|35||8||4||1||4||2||6{{efn|name=UCL|Appearances in [[UEFA Champions League]]}}||0||49||11
+|-
+|[[2023–24 Celtic F.C. season|2023–24]]
+|Scottish Premiership
+|28||6||3||4||1||0||4{{efn|name=UCL}}||0||36||10
+|-
+|[[2024–25 Celtic F.C. season|2024–25]]
+|Scottish Premiership
+|34||16||5||7||3||6||9{{efn|name=UCL}}||4||51||33
+|-
+|[[2025–26 Celtic F.C. season|2025–26]]
+|Scottish Premiership
+|36||14||3||2||4||1||11{{efn|Two appearances in UEFA Champions League, nine appearances in [[UEFA Europa League]]}}||0||54||17
+|-
+!colspan="2"|Celtic total
+!149!!50!!19!!15!!12!!9!!32!!5!!212!!79
+|-
+!colspan="3"|Career total
+!323!!101!!21!!17!!18!!9!!37!!5!!399!!132
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 28 March 2026}}<ref>{{NFT player}}</ref>
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="8"|[[Japan national football team|Japan]]
+|2019||2||0
+|-
+|2020||0||0
+|-
+|2021||0||0
+|-
+|2022||9||2
+|-
+|2023||2||1
+|-
+|2024||9||1
+|-
+|2025||4||0
+|-
+|2026||1||0
+|-
+!colspan="2"|Total!!27!!4
+|}
+
+''Scores and results list Japan's goal tally first.''
+{| class="wikitable"
+|+ List of international goals scored by Daizen Maeda
+! No. !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| 1. || 10 June 2022 || [[Noevir Stadium Kobe]], [[Kobe, Japan|Kobe]], Japan ||{{fb|GHA}} || align=center | 4–1 || align="center" | 4–1 || [[2022 Kirin Cup Soccer|2022 Kirin Cup]]
+|-
+| 2. || 5 December 2022 || [[Al Janoub Stadium]], [[Al Wakrah]], Qatar || {{fb|CRO}} || align=center|1–0 || align=center| 1–1 {{aet}}<br>{{pso|1–3}} || [[2022 FIFA World Cup knockout stage|2022 FIFA World Cup]]
+|-
+| 3. || 20 June 2023 || [[Suita City Football Stadium]], [[Osaka, Japan|Suita]], Japan ||{{fb|PER}} || align=center | 4–0 || align="center" | 4–1 || [[Kirin Cup Soccer#2023 Kirin Challenge Cup|2023 Kirin Challenge Cup]]
+|-
+| 4. || 5 September 2024 || [[Saitama Stadium 2002]], [[Saitama (city)|Saitama]], Japan ||{{fb|CHN}} || align=center | 6–0 || align="center" | 7–0 || [[2026 FIFA World Cup qualification – AFC third round|2026 FIFA World Cup qualification]]
+|}
+
+==Honours==
+'''Matsumoto Yamaga'''
+*[[J2 League]]: [[2019 J2 League|2018]]
+
+'''Celtic'''
+*[[Scottish Premiership]] (5): [[2021–22 Scottish Premiership|2021–22]],<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/61316038|title=Dundee United 1–1 Celtic: Ange Postecoglou's side reclaim league title|work=BBC Sport|date=11 May 2022|access-date=12 May 2022}}</ref> [[2022–23 Scottish Premiership|2022–23]],<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/65439690 |title=Heart of Midlothian 0–2 Celtic: Ange Postecoglou's side seal back-to-back titles |first=Martin |last=Watt |work=BBC Sport |date=7 May 2023 |access-date=7 May 2023}}</ref> [[2023–24 Scottish Premiership|2023–24]],<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/live/cjk4dn8732jt|title=Celtic champions after thumping win at Kilmarnock|work=BBC Sport|date=15 May 2024|access-date=16 May 2024}}</ref> [[2024–25 Scottish Premiership|2024–25]],<ref>{{Cite web|url=https://www.theguardian.com/football/2025/apr/26/celtic-win-55th-scottish-league-title|title=Brendan Rodgers '200% staying' after Celtic clinch 55th Scottish league title|first=Guardian|last=sport|work=The Guardian |date=26 April 2025}}</ref> [[2025–26 Scottish Premiership|2025–26]]<ref>{{Cite web|url=https://www.theguardian.com/football/2026/may/16/celtic-stun-hearts-at-the-last-in-dramatic-final-day-shootout-to-retain-scottish-title|title=Celtic stun Hearts at the last in dramatic final-day shootout to retain Scottish title|first=Guardian|last=sport|work=The Guardian |date=16 May 2026}}</ref>
+*[[Scottish Cup]] (3): [[2022–23 Scottish Cup|2022–23]],<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/65730831 |title=Celtic 3–1 Inverness CT: Ange Postecoglou's side win Scottish Cup to claim treble |first=Thomas |last=Duncan |work=BBC Sport |date=3 June 2023 |access-date=3 June 2023}}</ref> [[2023–24 Scottish Cup|2023–24]],<ref>{{cite news |url=https://www.reuters.com/sports/soccer/celtic-leave-it-late-beat-rangers-win-scottish-cup-2024-05-25/ |title=Celtic leave it late to beat Rangers and win Scottish Cup |publisher=Reuters |date=May 25, 2024 |access-date=December 9, 2024}}</ref> [[2025–26 Scottish Cup|2025–26]]<ref name="26 SC"/>
+*[[Scottish League Cup]] (2): [[2022–23 Scottish League Cup|2022–23]],<ref>{{Cite news |last=Moffat |first=Colin |date=26 February 2023 |title=Kyogo strikes twice as Celtic beat Rangers in final |language= |work=BBC Sport |url=https://www.bbc.com/sport/football/64688959 |access-date=26 February 2023}}</ref> [[2024–25 Scottish League Cup|2024–25]]<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/live/cdd6e6yrr04t#Line-ups |title=Celtic 3–3 Rangers: Line-ups |website=BBC Sport |date=15 December 2024 |access-date=15 December 2024}}</ref>
+
+'''Individual'''
+*[[J.League Top Scorer]]: [[2021 J1 League|2021]]
+*[[J.League Best XI]]: [[2021 J1 League|2021]]
+*[[PFA Scotland Players' Player of the Year]]: [[2024–25 in Scottish football|2024–25]]
+*[[PFA Scotland Team of the Year|PFA Scotland Team of the Year (Premiership)]]: [[PFA Scotland Team of the Year#Premiership 11|2024–25]]
+*[[Celtic F.C. Player of the Year|Celtic Player of the Year]]: [[2024–25 Celtic F.C. season|2024–25]]<ref name="2024–25">{{cite news|title=A night of Celtic celebrations at club's Player of the Year event|url=https://www.celticfc.com/news/2025/may/05/a-night-of-celtic-celebrations-at-club-s-player-of-the-year-event/|publisher=Celtic F.C.|date=5 May 2025|accessdate=9 April 2026}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{CelticFC|players/daizen-maeda}}
+* {{Webarchive |url=https://web.archive.org/web/20180330143938/http://www.yamaga-fc.com/club/player/2018-daizen-maeda-5 |date=30 March 2018 |title=Daizen Maeda at Matsumoto Yamaga }}
+* {{Webarchive |url=https://web.archive.org/web/20171231172141/http://www.mito-hollyhock.net/team/topteam/2017_p_38_maeda/ |date=31 December 2017 |title=Daizen Maeda at Mito HollyHock }}
+* {{J.League player|19175}}
+* {{NFT player|74628}}
+* {{Soccerway|new_id=maeda-daizen/6kfQTp18}}
+
+{{Celtic F.C. squad}}
+{{Navboxes
+|title= Japan squads
+|bg= #0000C8
+|fg= white
+|bordercolor= red
+|list1=
+{{Japan squad 2019 Copa América}}
+{{Japan men's football squad 2020 Summer Olympics}}
+{{Japan squad 2022 FIFA World Cup}}
+{{Japan squad 2023 AFC Asian Cup}}
+{{Japan squad 2026 FIFA World Cup}}
+}}
+{{Navboxes
+| title = Awards
+| bg = gold
+| fg = navy
+| list =
+{{PFA Scotland Players' Player of the Year}}
+{{SFWA Footballer of the Year}}
+{{J1 League top scorers}}
+{{2021 J.League Team of the Year}}
+{{2024–25 PFA Scotland Scottish Premiership Team of the Year}}
+}}
+
+{{DEFAULTSORT:Maeda, Daizen}}
+[[Category:1997 births]]
+[[Category:Living people]]
+[[Category:Football people from Osaka Prefecture]]
+[[Category:Japanese men's footballers]]
+[[Category:Men's association football forwards]]
+[[Category:Japan men's international footballers]]
+[[Category:J1 League players]]
+[[Category:J2 League players]]
+[[Category:Primeira Liga players]]
+[[Category:Matsumoto Yamaga FC players]]
+[[Category:Mito HollyHock players]]
+[[Category:C.S. Marítimo players]]
+[[Category:Yokohama F. Marinos players]]
+[[Category:Celtic F.C. players]]
+[[Category:Footballers at the 2018 Asian Games]]
+[[Category:Asian Games silver medalists for Japan]]
+[[Category:Medalists at the 2018 Asian Games]]
+[[Category:2019 Copa América players]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:2023 AFC Asian Cup players]]
+[[Category:Footballers at the 2020 Summer Olympics]]
+[[Category:Olympic footballers for Japan]]
+[[Category:Japanese expatriate men's footballers]]
+[[Category:Japanese expatriate sportspeople in Portugal]]
+[[Category:Expatriate men's footballers in Portugal]]
+[[Category:Japanese expatriate sportspeople in Scotland]]
+[[Category:Expatriate men's footballers in Scotland]]
+[[Category:Asian Games silver medalists in football]]
+[[Category:21st-century Japanese sportsmen]]
+[[Category:2026 FIFA World Cup players]]

@@ -1,0 +1,24 @@
+{
+ "team": "SEN",
+ "coach": {
+  "name_zh": "",
+  "name_en": "Pape Thiaw",
+  "nationality": "Senegal",
+  "career_since": "2018",
+  "person_id": "per_pape_thiaw"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 帕普·蒂亚乌（Pape Thiaw）自2018年开启执教生涯，2024年12月接替阿利乌·西塞出任塞内加尔国家队主教练。\n- 他上任后带队在2026世界杯预选赛中保持不败，但2025非洲杯决赛因球队罢赛抗议被CAF判0-3负，冠军头衔遭剥夺。\n- 该次罢赛事件中，蒂亚乌的激进应对被认为激化局势，暴露出情绪管理短板。\n- 2026世界杯塞内加尔与法国（姆巴佩）、挪威（哈兰德）同处I组，面临顶级攻击线考验。\n- 他近期公布28人初选名单，需在赛前削减至26人，目前球队无重大伤病或停赛情况。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 1.0,
+  "issues": []
+ },
+ "brief_fetched": "2026-06-13_1138",
+ "brief_info_chars": 2710
+}

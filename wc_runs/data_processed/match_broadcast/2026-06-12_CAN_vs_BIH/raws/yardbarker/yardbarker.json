@@ -1,0 +1,24 @@
+{
+ "source": "Yardbarker",
+ "url": "https://www.yardbarker.com/cricket/articles/fifa_wc_2026_larin_rescues_canada_as_hosts_earn_first_world_cup_point_with_1_1_draw_vs_bosnia/s1_17725_43948286",
+ "title": "FIFA WC 2026: Larin Rescues Canada As Hosts Earn First World Cup Point With 1-1 Draw Vs Bosnia | Yardbarker",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-12",
+  "home": "CAN",
+  "away": "BIH",
+  "home_en": "Canada",
+  "away_en": "Bosnia and Herzegovina",
+  "home_zh": "加拿大",
+  "away_zh": "波黑",
+  "comp": "小组赛·B组",
+  "match_id": "M3",
+  "slug": "2026-06-12_CAN_vs_BIH"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "FIFA WC 2026: Larin Rescues Canada As Hosts Earn First World Cup Point With 1-1 Draw Vs Bosnia\nFIFA World Cup: Co-hosts Canada secured their first-ever FIFA World Cup point after substitute Cyle Larin struck a late equaliser to salvage a 1-1 draw against Bosnia and Herzegovina in their Group B opener at Toronto Stadium on Saturday.\nMaking a positive start to their home campaign at the FIFA World Cup 2026, Canada came from behind to end a six-match losing streak in World Cup finals and claim a historic result in front of a jubilant home crowd, reports FIFA.\nBosnia and Herzegovina began brightly and looked dangerous from set-pieces throughout the first half. After Amar Memic fired an early warning shot over the bar, the visitors took the lead when Sead Kolasinac flicked on a corner and Jovo Lukic headed home to put the Dragons ahead.\nDespite conceding, Canada continued to attack with purpose. Jonathan David came close but was denied by goalkeeper Nikola Vasilj, while Tani Oluwaseyi squandered a golden opportunity by firing over the bar from inside the area, it said.\nThe hosts raised the tempo after the break. Oluwaseyi nearly levelled with a header that was blocked by Nikola Katic, while Bosnia defender Kolasinac produced a crucial goal-line clearance to deny Richie Laryea after a well-worked move orchestrated by stand-in captain Stephen Eustaquio.\nAt the other end, Canadian goalkeeper Maxime Crepeau kept his side in the contest with an important save from Ermedin Demirovic.\nCanada’s persistence finally paid off in the closing stages after head coach Jesse Marsch turned to his bench. Introduced in the 76th minute, Larin needed just two minutes to make an impact, turning sharply inside the box before firing home from Promise David’s assist to bring the hosts level.\nLarin almost completed the comeback deep into stoppage time, but his effort was kept out by Tarik Muharemovic as both sides settled for a share of the points.\nReflecting on his decisive contribution, Larin said he was delighted to help Canada secure a positive result on home soil.\nLarin almost completed the comeback deep into stoppage time, but his effort was kept out by Tarik Muharemovic as both sides settled for a share of the points.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

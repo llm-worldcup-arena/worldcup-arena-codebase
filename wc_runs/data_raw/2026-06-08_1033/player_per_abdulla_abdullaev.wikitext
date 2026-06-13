@@ -1,0 +1,120 @@
+{{Short description|Uzbek footballer (born 1997)}}
+{{Use dmy dates|date=April 2024}}
+{{Infobox football biography
+| name = Abdulla Abdullaev
+| fullname =  Aldulla Qahramonjon oʻgʻli Abdullayev
+| image = 
+| birth_date = {{Birth date and age|1997|9|1|df=y}}<ref>[https://globalsportsarchive.com/people/soccer/abdulla-abdullayev/235523/ Player Profil globalsportsarchive.com]</ref>
+| birth_place = [[Qoʻrgʻontepa|Kurgontepa, Uzbekistan]]
+| height = 1.83m
+| currentclub = [[Dibba FC|Dibba]]
+| clubnumber =  8
+| position = [[Defender (association football)|Defender]] / [[Midfielder]]
+| youthyears1 = 
+| youthclubs1 = 
+| years1 = 2016
+| clubs1 = [[Sementchi]]
+| caps1 = 12
+| goals1 = 0
+| years2 = 2017–2021
+| clubs2 = [[Bunyodkor]]
+| caps2 = 82
+| goals2 = 2
+| years3 = 2022–2023
+| clubs3 = [[FC AGMK|AGMK]]
+| caps3 = 43
+| goals3 = 2
+| years4 = 2023–2024
+| clubs4 = [[Khor Fakkan Club|Khor Fakkan]]
+| caps4 = 21
+| goals4 = 0
+| years5 = 2024–2025
+| clubs5 = [[Pakhtakor FC|Pakhtakor]]
+| caps5 = 25
+| goals5= 1
+| years6 = 2025–
+| clubs6 = [[Dibba FC|Dibba]]
+| caps6 = 1
+| goals6 = 0
+| nationalyears1 = 2018
+| nationalteam1 = [[Uzbekistan national under-21 football team|Uzbekistan U21]]
+| nationalcaps1 = 3
+| nationalgoals1 = 0
+| nationalyears2 = 2018–2020
+| nationalteam2 = [[Uzbekistan national under-23 football team|Uzbekistan U23]]
+| nationalcaps2 = 14
+| nationalgoals2 = 1
+| nationalyears3 = 2021–
+| nationalteam3 = [[Uzbekistan national football team|Uzbekistan]]
+| nationalcaps3 = 16
+| nationalgoals3 = 0
+| medaltemplates = {{MedalCountry|{{fb|UZB}}}}
+{{Medal|Competition|[[CAFA Nations Cup]]}}
+{{Medal|RU|[[2023 CAFA Nations Cup|2023 Kyrgyzstan–Uzbekistan]]|[[2023 CAFA Nations Cup squads#Uzbekistan|Team]]}}
+| pcupdate = 16 March 2025 (UTC)
+| ntupdate = 3 February 2024 (UTC)
+}}
+
+'''Abdulla Abdullaev''' ({{lang-x2|uz|Abdulla Qahramonjon oʻgʻli Abdullayev|Абдулла Қаҳрамонжон ўғли Абдуллаев}}; born 1 September 1997) is an Uzbek professional [[association football|footballer]] who plays for [[Dibba FC|Dibba]] and the [[Uzbekistan national football team|Uzbekistan national team]].
+
+==Career==
+===International===
+Abdullaev made his debut for the [[Uzbekistan national football team|Uzbekistan]] main team on 5 September 2021 in a [[Friendly (sport)|Friendly]] match against [[Sweden men's national football team|Sweden]].<ref>[https://www.national-football-teams.com/matches/report/31773/Sweden_Uzbekistan.html Sweden 2–1 Uzbekistan]</ref> Named to the Uzbekistan national team squad for the [[2026 FIFA World Cup]].<ref>{{Cite web|url=https://t.me/uzpfl/77948|title=UzPFL|website=Telegram|access-date=2026-05-29}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|-
+!colspan=3|[[Uzbekistan national football team|Uzbekistan national team]]
+|-
+!Year!!Apps!!Goals
+|-
+|2021||3||0
+|-
+|2022||5||0
+|-
+|2023||5||0
+|-
+|2024||3||0
+|-
+!Total||16||0
+|}
+''Statistics accurate as of match played 3 February 2024.''
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Soccerway|abdulla-abdullayev/554249}}
+*{{NFT|83726}}
+
+{{Dibba FC squad}}
+{{Navboxes
+| title = Uzbekistan squads
+| bg = #0099B5
+| fg = white 
+| bordercolor = #CE1126
+| list =
+{{Uzbekistan squad 2023 AFC Asian Cup}}
+{{Uzbekistan squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Abdullaev, Abdulla}}
+[[Category:1997 births]]
+[[Category:Living people]]
+[[Category:Uzbekistani men's footballers]]
+[[Category:21st-century Uzbekistani sportsmen]]
+[[Category:Uzbekistan men's international footballers]]
+[[Category:2023 AFC Asian Cup players]]
+[[Category:FC Bunyodkor players]]
+[[Category:FC AGMK players]]
+[[Category:Khor Fakkan Club players]]
+[[Category:Pakhtakor Tashkent FK players]]
+[[Category:Dibba FC players]]
+[[Category:Uzbekistan Pro League players]]
+[[Category:Uzbekistan Super League players]]
+[[Category:UAE Pro League players]]
+[[Category:Men's association football defenders]]
+[[Category:Men's association football midfielders]]
+[[Category:Uzbekistani expatriate men's footballers]]
+[[Category:Uzbekistani expatriate sportspeople in the United Arab Emirates]]
+[[Category:Expatriate men's footballers in the United Arab Emirates]]
+[[Category:2026 FIFA World Cup players]]

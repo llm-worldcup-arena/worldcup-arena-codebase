@@ -1,0 +1,96 @@
+{{Short description|Men's association football team}}
+{{About|the men's team|the women's team|Spain women's national football team}}
+{{Use British English|date=November 2025}}
+{{Use dmy dates|date=November 2025}}
+{{Infobox national football team
+| Name                     = Spain
+| Badge                    = Spain national football team crest.svg
+| Badge_size               = 145
+| Nickname                 = ''La Roja'' (The Red One)<ref name="roja" />
+| Association              = [[Royal Spanish Football Federation|Real Federación Española de Fútbol]] (RFEF)
+| Confederation            = [[UEFA]] (Europe)
+| Coach                    = [[Luis de la Fuente (footballer, born 1961)|Luis de la Fuente]]
+| Captain                  = [[Rodri (footballer, born 1996)|Rodri]]
+| Most caps                = [[Sergio Ramos]] (180)
+| Top scorer               = [[David Villa]] ([[List of international goals scored by David Villa|59]])
+| Home Stadium             = [[#Home stadium|Various]]
+| FIFA Trigramme           = ESP
+| FIFA Rank                = {{FIFA World Rankings|ESP}}
+| FIFA max                 = 1
+| FIFA max date            = July 2008 – June 2009, October 2009 – March 2010, July 2010 – July 2011, October 2011 – July 2014, September 2025 – April 2026
+| FIFA min                 = 25
+| FIFA min date            = March 1998
+| Elo Rank                 = {{World Football Elo Ratings|France}}
+| Elo max                  = 1
+| Elo max date             = September 1920 – May 1924, September – December 1925, June 2008 – June 2009, July 2010 – June 2013
+| Elo min                  = 19
+| Elo min date             = June–October 1969, November 1991
+<!--Home Shirt-->
+| pattern_la1              = _esp26h
+| pattern_b1               = _esp26hA
+| pattern_ra1              = _esp26h
+| pattern_sh1              = _esp26h
+| pattern_so1              = _esp26hl
+| leftarm1                 = D71726
+| body1                    = D71726
+| rightarm1                = D71726 
+| shorts1                  = 000066
+| socks1                   = D71726
+| pattern_la2              = _esp26a
+| pattern_b2               = _esp26a
+| pattern_ra2              = _esp26a
+| pattern_sh2              = _esp26a
+| pattern_so2              = _esp26al
+| leftarm2                 = FFFFFF
+| body2                    = FFFFFF
+| rightarm2                = FFFFFF
+| shorts2                  = 6a2335
+| socks2                   = 6a2335
+<!--End of Shirt-->
+| First game               = {{fb|ESP|1874}} 1–0 {{fb-rt|DEN|1830}}<br>([[Forest, Belgium|Forest]], Belgium; 28 August 1920)
+| Largest win              = {{fb|ESP|1931}} 13–0 {{fb-rt|BUL}}<br>([[Madrid]], Spain; 22 August 1933)
+| Largest loss             = {{fb|ITA|1861}} 7–1 {{fb-rt|ESP|1874}}<br>([[Amsterdam]], Netherlands; 4 June 1928)<br>{{fb|ENG}} 7–1 {{fb-rt|ESP|1931}}<br>([[London]], England; 9 December 1931)
+| World cup apps           = 17
+| World cup first          = 1934
+| World cup best           = '''Champions''' ([[2010 FIFA World Cup|2010]])
+| Regional name            = [[UEFA European Championship|European Championship]]
+| Regional cup apps        = 12
+| Regional cup first       = [[1964 European Nations' Cup|1964]]
+| Regional cup best        = '''Champions''' ([[UEFA Euro 1964|1964]], [[UEFA Euro 2008|2008]], [[UEFA Euro 2012|2012]], [[UEFA Euro 2024|2024]])
+| 2ndRegional name         = [[UEFA Nations League|Nations League Finals]]
+| 2ndRegional cup apps     = 3
+| 2ndRegional cup first    = [[2021 UEFA Nations League Finals|2021]]
+| 2ndRegional cup best     = '''Champions''' ([[2023 UEFA Nations League Finals|2023]])
+| 3rdRegional name         = [[Finalissima|CONMEBOL–UEFA Cup of Champions]]
+| 3rdRegional cup apps     = 1
+| 3rdRegional cup first    = [[2026 Finalissima|2026]]
+| 3rdRegional cup best     = ''Debut'' ([[2026 Finalissima|2026]])
+| Confederations cup apps  = 2
+| Confederations cup first = [[2009 FIFA Confederations Cup|2009]]
+| Confederations cup best  = Runners-up ([[2013 FIFA Confederations Cup|2013]])
+| medaltemplates =
+{{MedalSport|Men's [[Association football|football]]}}
+{{MedalCompetition|[[FIFA World Cup]]}}
+{{MedalGold|[[2010 FIFA World Cup|2010 South Africa]]|[[2010 FIFA World Cup squads#Spain|Team]]}}
+{{MedalCompetition|[[FIFA Confederations Cup]]}}
+{{MedalSilver|[[2013 FIFA Confederations Cup|2013 Brazil]]|[[2013 FIFA Confederations Cup squads#Spain|Team]]}}
+{{MedalBronze|[[2009 FIFA Confederations Cup|2009 South Africa]]|[[2009 FIFA Confederations Cup squads#Spain|Team]]}}
+{{MedalCompetition|[[Football at the Summer Olympic Games|Olympic Games]]}}
+{{MedalSilver|[[1920 Summer Olympics|1920 Antwerp]]|[[Football at the 1920 Summer Olympics|Team]]}}
+{{MedalCompetition|[[UEFA European Championship]]}}
+{{MedalGold|[[UEFA Euro 1964|1964 Spain]]|[[UEFA Euro 1964 squads#Spain|Team]]}}
+{{MedalGold|[[UEFA Euro 2008|2008 Austria and Switzerland]]|[[UEFA Euro 2008 squads#Spain|Team]]}}
+{{MedalGold|[[UEFA Euro 2012|2012 Poland and Ukraine]]|[[UEFA Euro 2012 squads#Spain|Team]]}}
+{{MedalGold|[[UEFA Euro 2024|2024 Germany]]|[[UEFA Euro 2024 squads#Spain|Team]]}}
+{{MedalSilver|[[UEFA Euro 1984|1984 France]]|[[UEFA Euro 1984 squads#Spain|Team]]}}
+{{MedalCompetition|[[UEFA Nations League]]}}
+{{MedalGold|[[2023 UEFA Nations League Finals|2023 Netherlands]]|[[2023 UEFA Nations League Finals squads#Spain|Team]]}}
+{{MedalSilver|[[2021 UEFA Nations League Finals|2021 Italy]]|[[2021 UEFA Nations League Finals squads#Spain|Team]]}}
+{{MedalSilver|[[2025 UEFA Nations League Finals|2025 Germany]]|[[2025 UEFA Nations League Finals squads#Spain|Team]]}}
+}}
+
+The '''Spain national football team''' ({{langx|es|Selección Española de Fútbol}}) has represented [[Spain]] in men's international [[Association football|football]] competition since 1920. It is governed by the [[Royal Spanish Football Federation]], the governing body for [[football in Spain]].
+
+Spain is one of eight national teams to have been crowned [[List of FIFA World Cup finals|world champions]] and has participated in a total of 16 out of 22 [[FIFA World Cup]]s. They won the [[2010 FIFA World Cup|2010]] edition, and have qualified consistently since 1978. Spain has participated in a total of 12 out of 17 [[UEFA European Championship]]s, and are the [[UEFA#Current title holders|reigning]] European champions, having won a record fourth title in [[UEFA Euro 2024|2024]]. As a result, they are one of the most successful national teams in football history. After their victory in the [[2023 UEFA Nations League Finals|2023 UEFA Nations League]], they became the second national team, following [[France national football team|France]], to win three major titles (World Cup, European Championship and [[UEFA Nations League|Nations League]]). Spain is also one of only two nations alongside [[Germany national football team|Germany]], to have won both the men's and [[FIFA Women's World Cup|women's]] World Cups,<ref>{{Cite web |date=2023-08-21 |title=Spain joined Germany as the only two nations to win both men's and women's World Cups |url=https://english.elpais.com/sports/2023-08-21/womens-world-cup-champion-spain-poised-for-long-run-among-soccer-elite-with-talented-young-team.html |website=elpais.com |language=en |access-date=2 July 2024 |archive-date=2 July 2024 |archive-url=https://web.archive.org/web/20240702023229/https://english.elpais.com/sports/2023-08-21/womens-world-cup-champion-spain-poised-for-long-run-among-soccer-elite-with-talented-young-team.html |url-status=live }}</ref> and only the second nation to hold the first position in both men and women's rankings simultaneously from September 2025 to April 2026, after Germany.<ref>{{Cite web |last=Burhan |first=Asif |title=Spain's National Team Top FIFA World Rankings In Men's And Women's Soccer |url=https://www.forbes.com/sites/asifburhan/2025/09/18/spain-national-team-top-fifa-world-rankings-in-mens-and-womens-soccer/ |access-date=2025-09-22 |website=Forbes |language=en}}</ref>
+
+Having won one World Cup, one Nations League, and three European Championship titles since 2008, Spain is the most successful European national team of the 21st century. The team's achievements from 2008 to 2012 have led many experts and commentators to consider this era's squads one of the best ever teams in football history.<ref name="BBC 2012">{{cite news |title=Euro 2012: Are Spain the best team of all time? |work=BBC Sport |publisher=BBC |url=https://www.bbc.co.uk/sport/football/18669029 |url-status=live |access-date=14 July 2012 |archive-url=https://web.archive.org/web/20120705000000/http://www.bbc.co.uk/sport/0/football/18669029 |archive-date=5 July 2012}}</ref><ref name="BBC Sport">{{cite news |title=Klinsmann: Spain win over Italy would make them team of century |work=BBC Sport |url=https://www.bbc.co.uk/sport/football/18650428 |url-status=live |access-date=14 July 2012 |archive-url=https://web.archive.org/web/20120707013604/http://www.bbc.co.uk/sport/0/football/18650428 |archive-date=7 July 2012}}</ref><ref name="Independent">{{cite news |date=3 July 2012 |title=The greatest team of all time: Brazil 1970 v Spain 2012 |work=The Independent |url=https://www.independent.co.uk/sport/football/news-and-comment/the-greatest-team-of-all-time-brazil-1970-v-spain-2012-7905980.html |url-status=live |access-date=1 July 2013 |archive-url=https://web.archive.org/web/20130710092417/http://www.independent.co.uk/sport/football/news-and-comment/the-greatest-team-of-all-time-brazil-1970-v-spain-2012-7905980.html |archive-date=10 July 2013}}</ref><ref name="ESPNFC">{{cite web |title=Why this Spain side is all-time best |url=http://espnfc.com/en/news/1120894/carlislewhy-spain-side-best-all-time-.html |url-status=dead |archive-url=https://web.archive.org/web/20120706222439/http://espnfc.com/en/news/1120894/carlislewhy-spain-side-best-all-time-.html |archive-date=6 July 2012 |access-date=14 July 2012 |publisher=ESPN}}</ref><ref name="Telegraph 2014">{{cite web |title=Spain have reached end of an era, but their gift will not be forgotten – they forced all countries to raise their game |date=19 April 2014 |url=https://www.telegraph.co.uk/sport/football/world-cup/10910879/Spain-have-reached-end-of-an-era-but-their-gift-will-not-be-forgotten-they-forced-all-countries-to-raise-their-game.html |url-status=live |archive-url=https://web.archive.org/web/20140622021212/http://www.telegraph.co.uk/sport/football/world-cup/10910879/Spain-have-reached-end-of-an-era-but-their-gift-will-not-be-forgotten-they-forced-all-countries-to-raise-their-game.html |archive-date=22 June 2014 |access-date=29 June 2014 |publisher=Telegraph}}</ref> During this period, Spain became the first national team to win [[Double (association football)#International double|three consecutive major titles]], including two back-to-back European Championships in [[UEFA Euro 2008|2008]] and [[UEFA Euro 2012|2012]], while becoming the first European team to win a World Cup held outside of Europe.<ref>{{cite news |url=https://www.goal.com/en/news/2898/euro-2012/2012/07/02/3213917/are-spain-the-greatest-international-team-of-all-time |title=Are Spain the greatest international team of all time? |publisher=Goal |date=2 July 2012 |access-date=12 October 2020 |archive-date=22 September 2020 |archive-url=https://web.archive.org/web/20200922085102/https://www.goal.com/en/news/2898/euro-2012/2012/07/02/3213917/are-spain-the-greatest-international-team-of-all-time |url-status=live }}</ref> Also in this period from 2008 to 2013, Spain won the [[FIFA Men's World Rankings|FIFA Team of the Year]], the second-most of any nations, behind only [[Brazil national football team|Brazil]].<ref>{{cite news |url=https://www.uefa.com/uefaeuro-2020/news/0258-0e4e118d265f-270456d8b004-1000--spain-dominate-the-decade/ |title=Spain dominate the decade: national-team winners |publisher=UEFA |date=26 December 2019 |access-date=12 October 2020 |archive-date=9 August 2020 |archive-url=https://web.archive.org/web/20200809174048/https://www.uefa.com/uefaeuro-2020/news/0258-0e4e118d265f-270456d8b004-1000--spain-dominate-the-decade/ |url-status=dead }}</ref> One year before, from the start of 2007 to the [[2009 FIFA Confederations Cup]], Spain achieved 35 consecutive undefeated matches, a feat which they shared with Brazil, and a record for the sport at the time.<ref>{{Cite web |date=2009-06-20 |title=Spain's 35 match unbeaten run |url=https://www.reuters.com/article/sports/factbox-spains-35-match-unbeaten-run-idUSTRE55J1YN/ |website=reuters.com |language=en}}</ref>

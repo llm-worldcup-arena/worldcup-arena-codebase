@@ -1,0 +1,106 @@
+{{Short description|Uzbek footballer (born 2004)}}
+{{Infobox football biography
+| name = Jakhongir Urozov 
+| birth_name = Jakhongir Urozov 
+| image = Jahongir Oʻrozov.jpg
+| birth_date = {{birth date and age|2004|1|18|df=yes}}
+| birth_place = [[Jizzakh]], [[Uzbekistan]]
+| height = {{height|m=1.90}}
+| position = [[Left-back]]
+| currentclub = [[Dinamo Samarqand]]
+| clubnumber = 6
+| youthyears1 = 2020–2022
+| youthclubs1 = [[Bunyodkor]]
+| years1 = 2022–2023
+| clubs1 = [[Bunyodkor]]
+| caps1 = 17
+| goals1 = 0
+| years2 = 2023–2024
+| clubs2 = [[Eyüpspor]]
+| caps2 = 0
+| goals2 = 0
+| years3 = 2024
+| clubs3 = → [[Dinamo Samarqand]] (loan) 
+| caps3 = 13
+| goals3 = 0
+| years4 = 2025–
+| clubs4 = [[Dinamo Samarqand]]
+| caps4 = 32
+| goals4 = 0
+| nationalyears1 = 2022
+| nationalteam1 = [[Uzbekistan national under-21 football team|Uzbekistan U19]]
+| nationalcaps1 = 4
+| nationalgoals1 = 0
+| nationalyears2 = 2022–2023
+| nationalteam2 = [[Uzbekistan national under-21 football team|Uzbekistan U20]]
+| nationalcaps2 = 15
+| nationalgoals2 = 0
+| nationalyears3 = 2025–
+| nationalteam3 = [[Uzbekistan national under-23 football team|Uzbekistan U23]]
+| nationalcaps3 = 9
+| nationalgoals3 = 1
+| nationalyears4 = 2026–
+| nationalteam4 = [[Uzbekistan national football team|Uzbekistan]]
+| nationalcaps4 = 2
+| nationalgoals4 = 1
+| ntupdate = 19 March 2026
+| pcupdate = 30 March 2026
+}}
+
+'''Jahongir Oʻrozov''' ([[Cyrillic|Uzbek Cyrillic]]: Жаҳонгир Ўрозов; born 18 January 2004) is an Uzbek professional footballer who plays as a [[left-back]] for [[Dinamo Samarqand]] and the [[Uzbekistan national football team|Uzbekistan national team]].
+
+==Club career==
+Urozov began his senior career with [[Bunyodkor]] in 2022.
+
+==International career==
+Urozov made his debut for the [[Uzbekistan national football team|Uzbekistan]] main team on 27 March 2026 in a [[FIFA Series]] match against [[Gabon national football team|Gabon]].<ref>[https://www.soccerway.com/match/gabon-YJL8W78U/uzbekistan-EZYKKRMc/?mid=KbRpfX7I Uzbekistan 3–1 Gabon]</ref>
+
+===International goals===
+{| class="wikitable sortable"
+|-
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+|-
+| align="center"|1 || 27 March 2026 || [[Bunyodkor Stadium]], [[Tashkent]], Uzbekistan || {{fb|GAB}} || align="center"|1–1 || align="center"|3–1 || [[2026 FIFA Series (men's matches)|2026 FIFA Series]] 
+|}
+
+==Honours==
+'''Eyüpspor'''
+*[[TFF 1. Lig]]: [[2023–24 TFF 1. Lig|2023–24]]
+'''Uzbekistan U20'''
+*[[U20 AFC Asian Cup]], [[AFC U-20 Asian Cup|2023]]
+
+==References==
+{{reflist|2}}
+
+==External links==
+* {{Soccerway|new_id=orozov-jakhongir/pjLsft3h}}
+* {{NFT player|103942}}
+
+{{FC Dinamo Samarqand squad}}
+{{Uzbekistan squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Urozov, Jakhongir}}
+[[Category:2004 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Jizzakh Region]]
+[[Category:Uzbekistani men's footballers]]
+[[Category:Men's association football full-backs]]
+[[Category:FC Bunyodkor players]]
+[[Category:Eyüpspor footballers]]
+[[Category:FK Dinamo Samarqand players]]
+[[Category:Uzbekistan Super League players]]
+[[Category:Uzbekistan men's youth international footballers]]
+[[Category:Uzbekistan men's under-21 international footballers]]
+[[Category:Uzbekistan men's under-23 international footballers]]
+[[Category:Uzbekistan men's international footballers]]
+[[Category:Uzbekistani expatriate men's footballers]]
+[[Category:Uzbekistani expatriate sportspeople in Turkey]]
+[[Category:Expatriate men's footballers in Turkey]]
+[[Category:21st-century Uzbekistani sportsmen]]
+[[Category:2026 FIFA World Cup players]]

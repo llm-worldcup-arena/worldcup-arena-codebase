@@ -1,0 +1,120 @@
+{{short description|Turkish footballer (born 2000)}}
+{{Use dmy dates|date=August 2024}}
+{{Infobox football biography
+| name           = Eren Elmalı
+| image          = Eren Elmalı 20251019.jpg
+| image_size     = 200px
+| caption        = Elmalı in 2025
+| full_name      = Evren Eren Elmalı
+| birth_date     = {{birth date and age|2000|7|7|df=y}}
+| birth_place    = [[Istanbul]], Turkey
+| height         = 1.80 m
+| position       = [[Defender (association football)#Full-back|Left-back]]
+| currentclub    = [[Galatasaray S.K. (football)|Galatasaray]]
+| clubnumber     = 17
+| youthyears1    = 2011–2018 | youthclubs1 = [[Kartal S.K.|Kartalspor]]
+| youthyears2    = 2018–2019 | youthclubs2 = [[Kasımpaşa S.K.|Kasımpaşa]]
+| years1 = 2019–2022 | clubs1 = [[Kasımpaşa S.K.|Kasımpaşa]]                | caps1 = 36 | goals1 = 1
+| years2 = 2019–2020 | clubs2 = → [[Silivrispor]] (loan)                    | caps2 = 25 | goals2 = 0
+| years3 = 2022–2025 | clubs3 = [[Trabzonspor]]                             | caps3 = 86 | goals3 = 0
+| years4 = 2025–     | clubs4 = [[Galatasaray S.K. (football)|Galatasaray]] | caps4 = 20 | goals4 = 3          
+| nationalyears1 = 2021-2022
+| nationalteam1 = [[Turkey national youth football team|Turkey U21]]
+| nationalcaps1 = 4
+| nationalgoals1 = 0
+| nationalyears2 = 2022–
+| nationalteam2 = [[Turkey national football team|Turkey]]
+| nationalcaps2 = 23
+| nationalgoals2 = 0
+| medaltemplates = 
+| club-update    = 5 October 2025
+| ntupdate       = 22:48, 6 June 2026 (UTC)
+}}
+'''Evren Eren Elmalı''' (born 7 July 2000) is a Turkish professional [[Association football|footballer]] who plays as a [[Defender (association football)#Full-back|left-back]] for [[Süper Lig]] club [[Galatasaray S.K. (football)|Galatasaray]] and the [[Turkey national football team|Turkey national team]].
+
+==Professional career==
+
+===Kasımpaşa===
+Elmalı is a youth product of [[Kartal S.K.|Kartalspor]] and [[Kasımpaşa S.K.|Kasımpaşa]], signing his first professional contract with the latter in 2019.
+
+====Silivrispor (loan)====
+He began his senior career on loan with [[Silivrispor]] in the [[TFF First League]] for the 2019-20 season.<ref>{{Cite web|url=https://www.fanatik.com.tr/eren-elmali-kimdir-kac-yasinda-eren-elmali-nereli-ve-hangi-takimlarda-oynadi-2263582|title=Eren Elmalı kimdir, kaç yaşında? Eren Elmalı nereli ve hangi...|website=Fanatik}}</ref>
+
+====Return to Kasımpaşa====
+He returned to Kasımpaşa for the 2020-21 season. He made his professional debut with Kasımpaşa in a 2-1 [[Süper Lig]] win over [[Alanyaspor]] on 11 January 2021.<ref name="Soccerway 2021">{{cite web | title=Alanyaspor vs. Kasımpaşa - 11 January 2021 | website=Soccerway | date=11 Jan 2021 | url=https://uk.soccerway.com/matches/2021/01/11/turkey/super-lig/alanyaspor/kasimpasa-sk/3352937/ | access-date=15 Jan 2021}}</ref>
+
+===Trabzonspor===
+On 17 July 2022, Elmalı transferred to [[Trabzonspor]] on a 3-year contract.<ref>{{Cite web|url=https://www.fotomac.com.tr/trabzonspor/2022/06/17/trabzonspor-eren-elmali-dogucan-haspolat-ve-jens-stryger-larsen-transferlerinin-maliyetini-acikladi|title=Trabzonspor Eren Elmalı Doğucan Haspolat ve Jens Stryger Larsen transferlerinin maliyetini açıkladı!|website=Fotomaç}}</ref>
+
+===Galatasaray===
+On 11 February 2025, he signed a three-and-a-half-year contract with [[Galatasaray S.K. (football)|Galatasaray]].<ref>{{Cite web|url=https://www.galatasaray.org/haber/gs-sportif-a-s/eren-elmali-galatasarayda/57224|title=Eren Elmalı Galatasaray'da!|publisher=Galatasaray S.K.|date=11 February 2025|access-date=11 February 2025}}</ref>
+
+On 13 November 2025, Elmalı was banned from playing for 45 days for his involvement in the [[2025 Turkish football betting scandal]].<ref>{{cite web|publisher=Haberler|url=https://en.haberler.com/here-is-the-penalty-for-102-football-players-who-19250345/|title=Here is the penalty for 102 football players who placed bets! Two stars from Galatasaray are also on the list.|date=13 November 2025|access-date=25 November 2025}}</ref>
+
+==International career==
+Elmalı was called up to the senior [[Turkey national football team|Turkey national team]] for [[UEFA Nations League]] matches in June 2022.<ref name="tff.org">{{cite web | title=A Millî Takım'ın UEFA Uluslar Ligi maçlarının aday kadrosu açıklandı - A Milli Takım Haber Detayları TFF | website=tff.org | url=https://www.tff.org/default.aspx?pageID=202&ftxtID=37727 | language=tr | access-date=June 2, 2022}}</ref>
+
+===International===
+{{updated|match played 6 June 2026}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="5"|[[Turkey national football team|Turkey]]
+|2022||6||0
+|-
+|2023||4||0
+|-
+|2024||4||0
+|-
+|2025||6||0
+|-
+|2026||3||0
+|-
+!colspan="2"|Total!!23!!0
+|}
+
+== Betting investigation ==
+{{Main|2025 Turkish football betting scandal}}
+
+As part of an investigation conducted by the Istanbul Chief Public Prosecutor's Office, known to the public as the “Football Betting Investigations,” Elmalı's name was included after it was discovered that he had placed bets on a legal betting platform. Due to his involvement, Elmalı was removed from [[Turkey national football team|Turkey]]'s squad.<ref>{{Cite web |title=Elmali removed from Türkiye squad as 1,024 players face betting investigation |url=https://www.turkiyetoday.com/sports/elmali-removed-from-turkiye-squad-as-1024-players-face-betting-investigation-3209733 |access-date=2025-11-11 |website=[[Türkiye Today]]}}</ref>
+
+Elmalı admitted to betting on a match that did not involve his own team five years ago.<ref>{{Cite web |date=2025-11-10 |title=TFF hangi futbolcuları bahis oynamakla suçladı, şimdi ne olacak? |url=https://www.bbc.com/turkce/articles/cgjdpqeel93o |access-date=2025-11-11 |website=[[BBC News Online]] |language=tr}}</ref> On 13 November, the Turkish Professional Football Disciplinary Committee (PFDK) imposed a ban on Eren Elmalı, preventing him from playing football for 45 days.<ref>{{Cite web |title=PFDK Kararları - 13.11.2025 - PFDK Kararları TFF |url=https://www.tff.org/default.aspx?pageID=246&ftxtID=49006 |access-date=2026-05-01 |website=www.tff.org}}</ref>
+
+==Honours==
+'''Trabzonspor'''
+*[[Turkish Super Cup]]: [[2022 Turkish Super Cup|2022]]
+
+'''Galatasaray'''
+* [[Süper Lig]]: [[2024–25 Süper Lig|2024–25]],<ref>{{cite web |url=https://www.galatasaray.org/haber/futbol/turkiyenin-ilk-ve-tek-bes-yildizli-sampiyonu-galatasaray/57829 |title=TÜRKİYE'NİN İLK VE TEK BEŞ YILDIZLI ŞAMPİYONU GALATASARAY! |date=18 May 2025 |publisher=Galatasaray S.K. |access-date=18 May 2025 |language=Tr}}</ref> [[2025–26 Süper Lig|2025–26]]<ref>{{Cite web|url=https://www.galatasaray.org/haber/futbol/ust-uste-4-sene-sampiyon-galatasaray/60268|title=ÜST ÜSTE 4. SENE ŞAMPİYON GALATASARAY!|publisher=Galatasaray S.K.|date=9 May 2026|access-date=9 May 2026}}</ref>
+*[[Turkish Cup]]: [[2024–25 Turkish Cup|2024–25]]<ref>{{cite web |url=https://www.galatasaray.org/haber/futbol/turkiye-kupasi/turkiye-kupasi-19-kez-galatasarayin/57796 |title=TÜRKİYE KUPASI 19. KEZ GALATASARAY'IN! |date=14 May 2025 |publisher=Galatasaray S.K. |access-date=15 May 2025 |language=Tr}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category}}
+* {{TFF player|1445693}}
+* {{Soccerway|evren-eren-elmal/562132}}
+
+{{Galatasaray S.K. squad}}
+{{Turkey squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Elmali, Eren}}
+[[Category:2000 births]]
+[[Category:Living people]]
+[[Category:21st-century Turkish sportsmen]]
+[[Category:Footballers from Istanbul]]
+[[Category:Kasımpaşa S.K. footballers]]
+[[Category:Men's association football full-backs]]
+[[Category:People from Kartal]]
+[[Category:Süper Lig players]]
+[[Category:TFF Third League players]]
+[[Category:Trabzonspor footballers]]
+[[Category:Turkey men's international footballers]]
+[[Category:Turkish men's footballers]]
+[[Category:Galatasaray S.K. footballers]]
+[[Category:Sportspeople involved in betting scandals]]
+[[Category:2026 FIFA World Cup players]]

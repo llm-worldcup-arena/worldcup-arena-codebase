@@ -1,0 +1,31 @@
+{
+ "team": "ALG",
+ "coach": {
+  "name_zh": "弗莱基米尔·佩特科维奇",
+  "name_en": "Vladimir Petković",
+  "nationality": "SFR Yugoslavia",
+  "career_since": "1997",
+  "person_id": "per_vladimir_petkovic"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 弗莱基米尔·佩特科维奇（Vladimir Petković），出生于前南斯拉夫地区，自1997年起开启执教生涯。\n- 现任阿尔及利亚国家男子足球队主教练，将率队征战2026年美加墨世界杯。\n- 阿尔及利亚在其任内时隔十余年重返世界杯决赛圈，他已公布27人初选名单。\n- 麾下拥有马赫雷斯等经验丰富的领袖球员，以及易卜拉欣·马扎等新兴之星。\n- 目标是将\"沙漠之狐\"打造成2026世界杯上非洲最具威胁的球队之一。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 1.0,
+  "issues": []
+ },
+ "brief_fetched": "2026-06-13_1750",
+ "brief_info_chars": 461,
+ "coach_xverify": {
+  "canonical": "Vladimir Petković",
+  "confidence": "high",
+  "discrepancy": "ESPN来源未提及阿尔及利亚主教练相关信息，与事实项无关；AfricaSoccer和beIN Sports拼写为'Petkovic'（无重音符号），与维基种子'Petković'存在轻微拼写差异，但指代同一人。",
+  "sources_agree": 3,
+  "n_sources": 4
+ }
+}

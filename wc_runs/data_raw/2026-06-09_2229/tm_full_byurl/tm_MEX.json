@@ -1,0 +1,301 @@
+[
+ {
+  "player_id": "724443",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/724443",
+  "name": "BrianGutiérrez",
+  "shirt_number": 11,
+  "club": "Joined:",
+  "club_id": "6711",
+  "market_value": "€8.00m",
+  "market_value_numeric": 8000000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Outfitter:",
+  "nationality": "Mexico",
+  "citizenships": [
+   "Mexico",
+   "United States",
+   "Mexico",
+   "Mexico",
+   "United States",
+   "Mexico",
+   "United States"
+  ],
+  "market_value_history": [
+   {
+    "date": "Aug 26, 2020",
+    "value": "€50k",
+    "value_numeric": 50000,
+    "club": "Chicago Fire FC",
+    "age": "17"
+   },
+   {
+    "date": "Dec 18, 2020",
+    "value": "€100k",
+    "value_numeric": 100000,
+    "club": "Chicago Fire FC",
+    "age": "17"
+   },
+   {
+    "date": "Jul 9, 2021",
+    "value": "€250k",
+    "value_numeric": 250000,
+    "club": "Chicago Fire FC",
+    "age": "18"
+   },
+   {
+    "date": "Nov 9, 2021",
+    "value": "€400k",
+    "value_numeric": 400000,
+    "club": "Chicago Fire FC",
+    "age": "18"
+   },
+   {
+    "date": "Aug 18, 2022",
+    "value": "€600k",
+    "value_numeric": 600000,
+    "club": "Chicago Fire FC",
+    "age": "19"
+   },
+   {
+    "date": "Nov 8, 2022",
+    "value": "€2.00m",
+    "value_numeric": 2000000,
+    "club": "Chicago Fire FC",
+    "age": "19"
+   },
+   {
+    "date": "Aug 22, 2023",
+    "value": "€3.50m",
+    "value_numeric": 3500000,
+    "club": "Chicago Fire FC",
+    "age": "20"
+   },
+   {
+    "date": "Dec 18, 2023",
+    "value": "€4.00m",
+    "value_numeric": 4000000,
+    "club": "Chicago Fire FC",
+    "age": "20"
+   },
+   {
+    "date": "Jun 13, 2024",
+    "value": "€4.00m",
+    "value_numeric": 4000000,
+    "club": "Chicago Fire FC",
+    "age": "20"
+   },
+   {
+    "date": "Dec 12, 2024",
+    "value": "€4.00m",
+    "value_numeric": 4000000,
+    "club": "Chicago Fire FC",
+    "age": "21"
+   },
+   {
+    "date": "Jun 5, 2025",
+    "value": "€5.00m",
+    "value_numeric": 5000000,
+    "club": "Chicago Fire FC",
+    "age": "21"
+   },
+   {
+    "date": "Dec 11, 2025",
+    "value": "€5.00m",
+    "value_numeric": 5000000,
+    "club": "Chicago Fire FC",
+    "age": "22"
+   },
+   {
+    "date": "Mar 26, 2026",
+    "value": "€5.50m",
+    "value_numeric": 5500000,
+    "club": "Deportivo Guadalajara",
+    "age": "22"
+   },
+   {
+    "date": "May 20, 2026",
+    "value": "€8.00m",
+    "value_numeric": 8000000,
+    "club": "Deportivo Guadalajara",
+    "age": "22"
+   }
+  ],
+  "peak_market_value": 8000000,
+  "transfers": [],
+  "_our_pid": "per_brian_gutierrez"
+ },
+ {
+  "player_id": "552955",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/552955",
+  "name": "SantiagoGimenez",
+  "shirt_number": 7,
+  "club": "Joined:",
+  "club_id": "5",
+  "market_value": "€18.00m",
+  "market_value_numeric": 18000000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Outfitter:",
+  "nationality": "Italy",
+  "citizenships": [
+   "Italy",
+   "Argentina",
+   "Mexico",
+   "Mexico",
+   "Argentina",
+   "Mexico",
+   "Italy"
+  ],
+  "market_value_history": [
+   {
+    "date": "Aug 13, 2019",
+    "value": "€100k",
+    "value_numeric": 100000,
+    "club": "CD Cruz Azul U20",
+    "age": "18"
+   },
+   {
+    "date": "Jan 10, 2020",
+    "value": "€100k",
+    "value_numeric": 100000,
+    "club": "CD Cruz Azul",
+    "age": "18"
+   },
+   {
+    "date": "Jun 27, 2020",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "CD Cruz Azul",
+    "age": "19"
+   },
+   {
+    "date": "Dec 18, 2020",
+    "value": "€2.50m",
+    "value_numeric": 2500000,
+    "club": "CD Cruz Azul",
+    "age": "19"
+   },
+   {
+    "date": "Apr 21, 2021",
+    "value": "€2.50m",
+    "value_numeric": 2500000,
+    "club": "CD Cruz Azul",
+    "age": "20"
+   },
+   {
+    "date": "Oct 15, 2021",
+    "value": "€4.00m",
+    "value_numeric": 4000000,
+    "club": "CD Cruz Azul",
+    "age": "20"
+   },
+   {
+    "date": "Apr 11, 2022",
+    "value": "€4.00m",
+    "value_numeric": 4000000,
+    "club": "CD Cruz Azul",
+    "age": "20"
+   },
+   {
+    "date": "Nov 11, 2022",
+    "value": "€6.00m",
+    "value_numeric": 6000000,
+    "club": "Feyenoord Rotterdam",
+    "age": "21"
+   },
+   {
+    "date": "Mar 17, 2023",
+    "value": "€9.00m",
+    "value_numeric": 9000000,
+    "club": "Feyenoord Rotterdam",
+    "age": "21"
+   },
+   {
+    "date": "Jun 23, 2023",
+    "value": "€25.00m",
+    "value_numeric": 25000000,
+    "club": "Feyenoord Rotterdam",
+    "age": "22"
+   },
+   {
+    "date": "Oct 17, 2023",
+    "value": "€40.00m",
+    "value_numeric": 40000000,
+    "club": "Feyenoord Rotterdam",
+    "age": "22"
+   },
+   {
+    "date": "Dec 15, 2023",
+    "value": "€50.00m",
+    "value_numeric": 50000000,
+    "club": "Feyenoord Rotterdam",
+    "age": "22"
+   },
+   {
+    "date": "Mar 18, 2024",
+    "value": "€45.00m",
+    "value_numeric": 45000000,
+    "club": "Feyenoord Rotterdam",
+    "age": "22"
+   },
+   {
+    "date": "May 31, 2024",
+    "value": "€40.00m",
+    "value_numeric": 40000000,
+    "club": "Feyenoord Rotterdam",
+    "age": "23"
+   },
+   {
+    "date": "Dec 17, 2024",
+    "value": "€37.00m",
+    "value_numeric": 37000000,
+    "club": "Feyenoord Rotterdam",
+    "age": "23"
+   },
+   {
+    "date": "Jun 17, 2025",
+    "value": "€30.00m",
+    "value_numeric": 30000000,
+    "club": "AC Milan",
+    "age": "24"
+   },
+   {
+    "date": "Oct 7, 2025",
+    "value": "€25.00m",
+    "value_numeric": 25000000,
+    "club": "AC Milan",
+    "age": "24"
+   },
+   {
+    "date": "Dec 23, 2025",
+    "value": "€20.00m",
+    "value_numeric": 20000000,
+    "club": "AC Milan",
+    "age": "24"
+   },
+   {
+    "date": "May 29, 2026",
+    "value": "€18.00m",
+    "value_numeric": 18000000,
+    "club": "AC Milan",
+    "age": "25"
+   }
+  ],
+  "peak_market_value": 50000000,
+  "transfers": [],
+  "_our_pid": "per_santiago_gimenez"
+ }
+]

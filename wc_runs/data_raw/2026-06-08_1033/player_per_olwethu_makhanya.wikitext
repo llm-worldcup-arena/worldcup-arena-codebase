@@ -1,0 +1,76 @@
+{{Short description|South African soccer player (born 2004)}}
+{{Use dmy dates|date=October 2023}}
+{{Use South African English|date=October 2023}}
+{{Infobox football biography
+| name = Olwethu Makhanya
+| image = Olwethu Makhanya Philadelphia Union New York City FC Nov 23 2025-027 (cropped).jpg
+| caption = Makhanya with the [[Philadelphia Union]] in 2025
+| fullname = Olwethu Mpilwenhle Makhanya
+| birth_date = {{birth date and age|df=yes|2004|4|30}}
+| birth_place = [[Durban]], South Africa
+| height = 1.85 m<ref>{{cite web |url=https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf |title=FIFA World Cup 2026: Squad List |publisher=[[FIFA]] |date=2 June 2026 |access-date=2 June 2026}}</ref>
+| position = [[Defender (association football)|Defender]]
+| currentclub = [[Philadelphia Union]]
+| clubnumber = 29
+| years1 = 2022–2023
+| clubs1 = [[Stellenbosch F.C.|Stellenbosch]]
+| caps1 = 20
+| goals1 = 1
+| years2 = 2023–
+| clubs2 = [[Philadelphia Union]]
+| caps2 = 25
+| goals2 = 1
+| years3 = 2023–2024
+| clubs3 = → [[Philadelphia Union II]]
+| caps3 = 31
+| goals3 = 2
+| nationalyears1 = 2026–
+| nationalteam1 = [[South Africa national soccer team|South Africa]]
+| nationalcaps1 = 1
+| nationalgoals1 = 0
+}}
+'''Olwethu Mpilwenhle Makhanya''' (born 30 April 2004) is a South African professional [[Association football|soccer]] player who plays as a [[Defender (association football)|defender]] for the [[Philadelphia Union]] of [[Major League Soccer]] and the [[South Africa national soccer team|South Africa national team]].<ref>{{Cite web|url=https://www.snl24.com/soccerladuma/local/sa-players-abroad/makhanya-the-anticipation-was-killing-me-20230808|title=Makhanya: The Anticipation Was Killing Me|publisher=snl24.com}}</ref>
+
+==Career==
+
+Makhanya started his career with South African side [[Stellenbosch F.C.|Stellenbosch]], where he was regarded to have performed well for the club.<ref>{{Cite web|url=https://www.sowetanlive.co.za/sport/soccer/2023-07-18-stellies-proud-to-release-makhanya-to-us-league-club/|title=Stellies proud to release Makhanya|publisher=sowetanlive.co.za}}</ref> He was nominated for South Africa Young Footballer of the Year.<ref>{{Cite web|url=https://www.snl24.com/soccerladuma/fan-park/what-could-olwethu-makhanya-bring-to-mamelodi-sundowns-20230621|title=What could Olwethu Makhanya offer at Downs?|publisher=snl24.com}}</ref> He won the [[2022-23 Nedbank Cup]] Most Promising Player award.<ref>{{Cite web|url=https://www.snl24.com/soccerladuma/local/sa-players-abroad/olwethu-makhanya-how-i-got-signed-by-philadelphia-union-20230723|title=Makhanya: How Philadelphia Scouted Me In SA|publisher=Soccer Laduma}}</ref> In 2023, he signed for American side [[Philadelphia Union]], becoming the club's first under-22 initiative signing.<ref>{{Cite web|url=https://www.sabcsport.com/soccer/news/olwethu-makhanyas-special-mls-status-explained|title=Olwethu Makhanya's special MLS status explained|publisher=sabcsport.com}}</ref>
+
+==Style of play==
+
+Makhanya is known for his bravery.<ref>{{Cite web|url=https://www.timeslive.co.za/sport/soccer/2023-07-01-young-players-who-need-to-play-their-last-season-in-the-psl-and-move-overseas/|title=Olwethu Makhanya - Times Live article}}</ref> He can operate as a central defender in a back four or a back three.<ref>{{Cite web|url=https://www.snl24.com/kickoff/sanews/sa-players-abroad/philadelphia-union-director-opens-on-signing-explosive-makhanya-20230720|title=Philadelphia Union director opens up on signing 'explosive' Makhanya|publisher=Kick Off}}</ref>
+
+==Personal life==
+
+Makhanya has regarded England international [[John Stones]] as one of his soccer idols.<ref>{{Cite web|url=https://947.co.za/articles/2023/07/20/former-stellenbosch-fc-star-olwethu-makhanya-living-the-american-dream-in-mls|title=Olwethu Makhanya living the American dream in MLS|publisher=947.co.za}}</ref>
+
+== Honours ==
+'''Philadelphia Union'''
+
+* [[Supporters' Shield]]: [[2025 Major League Soccer season|2025]]<ref>{{Cite web |last= |date=4 October 2025 |title=Philadelphia Union win 2025 Supporters' Shield |url=https://www.mlssoccer.com/news/philadelphia-union-win-2025-supporters-shield |access-date=4 October 2025 |website=MLS Soccer |language=en}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{sports links}}
+
+{{Philadelphia Union squad}}
+{{South Africa squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Makhanya, Olwethu}}
+[[Category:Living people]]
+[[Category:2004 births]]
+[[Category:Soccer players from Durban]]
+[[Category:South African men's soccer players]]
+[[Category:Men's association football defenders]]
+[[Category:Philadelphia Union II players]]
+[[Category:Stellenbosch F.C. players]]
+[[Category:21st-century South African sportsmen]]
+[[Category:Major League Soccer players]]
+[[Category:Philadelphia Union players]]
+[[Category:MLS Next Pro players]]
+[[Category:2026 FIFA World Cup players]]
+[[Category:South African expatriate men's soccer players]]
+[[Category:South African expatriate sportspeople in the United States]]
+[[Category:Expatriate men's soccer players in the United States]]
+[[Category:South Africa men's international soccer players]]

@@ -1,0 +1,103 @@
+{{Short description|Men's association football team}}
+{{About|the men's team|the women's team|Qatar women's national football team}}
+{{Multiple issues|
+{{Promotional|date=October 2025}}
+{{More citations needed|date=October 2025}}
+}}
+{{Use dmy dates|date=January 2024}}
+{{Infobox national football team
+| Name                   = Qatar
+| Badge                  = Qatar Football Association logo.svg
+| Badge_size             = 200px 
+| Nickname               = {{lang|ar|العنابي}}<br>(The Maroon One)<ref>{{cite web | url=https://www.goal.com/en-om/news/qatar-the-maroons-world-cup-2022-critics-wrong/s13yywbt43c51bg94nelb4g57 | title='Undeserving to continent's finest' - The Maroons have helped Qatar prove critics wrong | date=7 September 2019 | access-date=20 January 2023 | archive-date=20 January 2023 | archive-url=https://web.archive.org/web/20230120145708/https://www.goal.com/en-om/news/qatar-the-maroons-world-cup-2022-critics-wrong/s13yywbt43c51bg94nelb4g57 | url-status=live }}</ref>
+| Association            = [[Qatar Football Association]] (QFA)
+| Confederation          = [[Asian Football Confederation|AFC]] (Asia)
+| Sub-confederation      = [[West Asian Football Federation|WAFF]] (West Asia)
+| website                = {{URL|https://www.qfa.qa/|qfa.qa}}
+| Coach                  = [[Julen Lopetegui]]
+| Captain                = [[Hassan Al-Haydos]]
+| Most caps              = Hassan Al-Haydos (184)<ref>{{Cite web|url=https://www.rsssf.org/miscellaneous/qat-haydos-intlg.html|title=Hassan Khalid Al-Haydos - Century of International Appearances|access-date=2 February 2023|archive-date=3 June 2023|archive-url=https://web.archive.org/web/20230603042002/https://rsssf.org/miscellaneous/qat-haydos-intlg.html|url-status=live}}</ref>
+| Top scorer             = [[Almoez Ali]] ([[List of international goals scored by Almoez Ali|60]])
+| Home Stadium           = [[List of football stadiums in Qatar|Various]]
+| FIFA Trigramme         = QAT
+| FIFA Rank              = {{FIFA World Rankings|QAT}}
+| FIFA max               = 34
+| FIFA max date          = April and July 2024
+| FIFA min               = 113
+| FIFA min date          = November 2010
+| Elo Rank               = {{World Football Elo Ratings|Qatar}}
+| Elo max                = 24
+| Elo max date           = February 2019
+| Elo min                = 135
+| Elo min date           = April 1975
+| pattern_la1            = _qat26h
+| pattern_b1             = _qat26hA
+| pattern_ra1            = _qat26h
+| pattern_sh1            = _qat26h
+| pattern_so1            = _qat26hl
+| leftarm1               = 7c202b
+| body1                  = 7c202b
+| rightarm1              = 7c202b
+| shorts1                = 7c202b
+| socks1                 = 7c202b
+| pattern_la2            = _qat26a
+| pattern_b2             = _qat26aA
+| pattern_ra2            = _qat26a
+| pattern_sh2            = _qat26a
+| pattern_so2            = _adidasonwhitel
+| leftarm2               = FFFFFF
+| body2                  = FFFFFF
+| rightarm2              = FFFFFF
+| shorts2                = FFFFFF
+| socks2                 = 7c202b
+| First game             = {{fb|BHR|1932}} 2–1 {{fb-rt|QAT|1949}}<br>([[Isa Town]], [[Bahrain]]; 27 March 1970)
+| Largest win            = {{fb|QAT}} 15–0 {{fb-rt|BHU}}<br>([[Doha]], [[Qatar]]; 3 September 2015)
+| Largest loss           = {{fb|KUW}} 9–0 {{fb-rt|QAT}}<br>([[Kuwait]]; 8 January 1973)
+| World cup apps         = 2
+| World cup first        = 2022
+| World cup best         = Group stage ([[2022 FIFA World Cup|2022]])
+| Regional name          = [[AFC Asian Cup|Asian Cup]]
+| Regional cup apps      = 12
+| Regional cup first     = [[1980 AFC Asian Cup|1980]]
+| Regional cup best      = '''Champions''' ([[2019 AFC Asian Cup|2019]], [[2023 AFC Asian Cup|2023]])
+| 2ndRegional name       = [[FIFA Arab Cup|Arab Cup / FIFA Arab Cup]]
+| 2ndRegional cup apps   = 3
+| 2ndRegional cup first  = [[1985 Arab Cup|1985]]
+| 2ndRegional cup best   = Runners-up ([[1998 Arab Cup|1998]])
+| 3rdRegional name       = [[CONCACAF Gold Cup]]
+| 3rdRegional cup apps   = 2
+| 3rdRegional cup first  = [[2021 CONCACAF Gold Cup|2021]]
+| 3rdRegional cup best   = Semi-finals ([[2021 CONCACAF Gold Cup|2021]])
+| 4thRegional name       = [[Copa América]]
+| 4thRegional cup apps   = 1
+| 4thRegional cup first  = [[2019 Copa América|2019]]
+| 4thRegional cup best   = Group stage ([[2019 Copa América|2019]])
+| medaltemplates         = 
+{{MedalSport|Men's [[Association football|football]]}}
+{{MedalCompetition|[[AFC Asian Cup]]}}
+{{MedalGold|[[2019 AFC Asian Cup|2019 UAE]]|[[2019 AFC Asian Cup squads#Qatar|Team]]}}
+{{MedalGold|[[2023 AFC Asian Cup|2023 Qatar]]|[[2023 AFC Asian Cup squads#Qatar|Team]]}}
+{{MedalCompetition|[[FIFA Arab Cup|Arab Cup / FIFA Arab Cup]]}}
+{{MedalSilver|[[1998 Arab Cup|1998 Qatar]]|[[1998 Arab Cup squads#Qatar|Team]]}}
+{{MedalBronze|[[2021 FIFA Arab Cup|2021 Qatar]]|[[2021 FIFA Arab Cup squads#Qatar|Team]]}}
+{{MedalCompetition|[[Asian Games]]}}
+{{MedalGold|[[2006 Asian Games|2006 Qatar]]|[[Football at the 2006 Asian Games – Men's team squads#Qatar|Team]]}}
+{{MedalCompetition|[[Arabian Gulf Cup]]}}
+{{MedalGold|[[11th Arabian Gulf Cup|1992 Qatar]]|Team}}
+{{MedalGold|[[17th Arabian Gulf Cup|2004 Qatar]]|Team}}
+{{MedalGold|[[22nd Arabian Gulf Cup|2014 Saudi Arabia]]|[[22nd Arabian Gulf Cup squads#Qatar|Team]]}}
+{{MedalSilver|[[7th Arabian Gulf Cup|1984 Oman]]|Team}}
+{{MedalSilver|[[10th Arabian Gulf Cup|1990 Kuwait]]|Team}}
+{{MedalSilver|[[13th Arabian Gulf Cup|1996 Oman]]|Team}}
+{{MedalSilver|[[15th Arabian Gulf Cup|2002 Saudi Arabia]]|Team}}
+{{MedalBronze|[[4th Arabian Gulf Cup|1976 Qatar]]|Team}}
+{{MedalBronze|[[16th Arabian Gulf Cup|2003/4 Kuwait]]|Team}}
+}}
+
+The '''Qatar national football team''' ({{langx|ar|منتخب قطر لكرة القدم}}), nicknamed "The Maroons", represents [[Qatar]] in international [[association football|football]], and is controlled by the Qatar Football Association, which is affiliated with the [[Asian Football Confederation]] (AFC) and comes under the global jurisdiction of world football’s governing body [[FIFA]]. They play their home games at [[Jassim bin Hamad Stadium]]. The latter is considered the home stadium.<ref>{{cite web|url=http://www.qatarvisitor.com/world-cup-2022/qatar-stadiums|title=Qatar stadia|publisher=qatarvisitor.com|access-date=26 December 2014|archive-date=27 December 2014|archive-url=https://web.archive.org/web/20141227040413/http://www.qatarvisitor.com/world-cup-2022/qatar-stadiums|url-status=live}}</ref>
+
+The team won the Arabian Gulf Cup in [[11th Arabian Gulf Cup|1992]], [[17th Arabian Gulf Cup|2004]] and [[22nd Arabian Gulf Cup|2014]]. They have appeared in ten [[AFC Asian Cup|Asian Cup]] tournaments and won it twice in [[2019 AFC Asian Cup|2019]] and [[2023 AFC Asian Cup|2023]], beating [[Japan national football team|Japan]], [[Saudi Arabia national football team|Saudi Arabia]], and [[South Korea national football team|South Korea]] in the process during 2019, conceding just one goal.
+
+Qatar hosted the [[2022 FIFA World Cup]] and therefore qualified automatically for what was their first appearance in the event. Amidst the controversy, it was the first time an [[Arab world|Arab nation]] hosted the competition.<ref>{{cite web | url=https://www.fifa.com/fifaplus/en/articles/hostcountry-en | title=Host Country | date= | access-date=2022-12-28 | archive-date=29 December 2022 | archive-url=https://web.archive.org/web/20221229075022/https://www.fifa.com/fifaplus/en/articles/hostcountry-en | url-status=live }}</ref> On 25 November 2022, Qatar were the first team to be eliminated from the World Cup; subsequently, they became the worst performing host nation in the history of the FIFA World Cup, losing every game. On 14 October 2025, Qatar qualified directly for the [[2026 FIFA World Cup]] after a 2–1 victory over the United Arab Emirates.<ref>{{Cite web |date=14 October 2025 |title=Qatar and Saudi Arabia qualify for 2026 World Cup |url=https://global.espn.com/football/story/_/id/46597037/qatar-saudi-arabia-qualify-2026-fifa-world-cup |access-date=15 October 2025 |website=ESPN.com |language=en}}</ref>
+
+Qatar has footballing rivalries with [[Bahrain national football team|Bahrain]],<ref>{{cite web | url=https://www.middleeasteye.net/news/qatar-world-cup-bahrain-lost-economic-opportunity | title=Qatar World Cup 2022: A lost economic opportunity for Bahrain? | date=2022-11-10 | access-date=2023-01-17 | archive-date=17 January 2023 | archive-url=https://web.archive.org/web/20230117162643/https://www.middleeasteye.net/news/qatar-world-cup-bahrain-lost-economic-opportunity | url-status=live }}</ref> [[United Arab Emirates national football team|United Arab Emirates]],<ref>{{cite web | url=https://www.euronews.com/culture/2022/12/07/beyond-rivalry-shared-passion-brings-football-fans-together-in-dubai | title=Beyond rivalry, shared passion brings football fans together in Dubai | date=2022-12-07 | access-date=2023-01-17 | archive-date=17 January 2023 | archive-url=https://web.archive.org/web/20230117162641/https://www.euronews.com/culture/2022/12/07/beyond-rivalry-shared-passion-brings-football-fans-together-in-dubai | url-status=live }}</ref> and [[Saudi Arabia national football team|Saudi Arabia]].<ref>{{cite web | url=https://www.aljazeera.com/sports/2019/1/17/qatar-vs-saudi-arabia-football-blockade-and-piracy-at-asian-cup | title=Qatar vs Saudi Arabia: Football, blockade and piracy at Asian Cup | date=2019-01-17 | access-date=2023-01-17 | archive-date=17 January 2023 | archive-url=https://web.archive.org/web/20230117162641/https://www.aljazeera.com/sports/2019/1/17/qatar-vs-saudi-arabia-football-blockade-and-piracy-at-asian-cup | url-status=live }}</ref>

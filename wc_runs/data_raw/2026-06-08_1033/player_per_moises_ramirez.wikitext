@@ -1,0 +1,193 @@
+{{short description|Ecuadorian footballer (born 2000)}}
+{{Use dmy dates|date=November 2022}}
+{{family name hatnote|Ramírez|Preciado|lang=Spanish}}
+{{Infobox football biography
+|name = Moisés Ramírez
+|image = 
+|caption = 
+|fullname = Wellington Moisés Ramírez Preciado<ref name="FIFA 2022">{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=FIFA World Cup Qatar 2022 – Squad list: Ecuador (ECU) |publisher=[[FIFA]] |page=10 |date=15 November 2022 |access-date=15 November 2022}}</ref>
+|birth_date = {{birth date and age|2000|9|9|df=y}}<ref name="FIFA 2022"/>
+|birth_place = [[Guayaquil]], Ecuador
+|height = 1.85 m<ref name="FIFA 2022"/>
+|currentclub = [[A.E. Kifisia F.C.|A.E. Kifisia]]
+|clubnumber = 99
+|position = [[Goalkeeper (association football)|Goalkeeper]]
+|youthyears1 = 2012–2015
+|youthclubs1 = Toreros
+|youthyears2 = 2016–2018
+|youthclubs2 = [[C.S.D. Independiente del Valle|Independiente DV]]
+|years1 = 2018–2025
+|clubs1 = [[C.S.D. Independiente del Valle|Independiente DV]]
+|caps1 = 106
+|goals1 = 0
+|years2 = 2019
+|clubs2 = → [[Real Sociedad B]] (loan)
+|caps2 = 18
+|goals2 = 0
+|years3 = 2025–
+|clubs3 = [[A.E. Kifisia F.C.|A.E. Kifisia]]
+|caps3 = 28
+|goals3 = 0
+|nationalyears1 = 2017
+|nationalteam1 = [[Ecuador national under-17 football team|Ecuador U17]]
+|nationalcaps1 = 9
+|nationalgoals1 = 0
+|nationalyears2 = 2018–2019
+|nationalteam2 = [[Ecuador national under-20 football team|Ecuador U20]]
+|nationalcaps2 = 18
+|nationalgoals2 = 0
+|nationalyears3 = 2020
+|nationalteam3 = [[Ecuador national under-23 football team|Ecuador U23]]
+|nationalcaps3 = 4
+|nationalgoals3 = 0
+|nationalyears4 = 2021–
+|nationalteam4 = [[Ecuador national football team|Ecuador]]
+|nationalcaps4 = 7
+|nationalgoals4 = 0
+|pcupdate = 21 May 2026
+|ntupdate = 30 May 2026
+|medaltemplates = 
+{{Medal|Sport|Men's [[Association football|football]]}}
+{{Medal|Country|{{fb|ECU}}}}
+{{Medal|Comp|[[FIFA U-20 World Cup]]}}
+{{Medal|3rd|[[2019 FIFA U-20 World Cup|2019 Poland]]|}}
+}}
+
+'''Wellington Moisés Ramírez Preciado''' (born 9 September 2000) is an Ecuadorian [[Association football|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for [[Super League Greece]] club [[A.E. Kifisia F.C.|A.E. Kifisia]] and the [[Ecuador national football team|Ecuador national team]].
+
+==Club career==
+Born in [[Guayaquil]], Ramírez joined [[C.S.D. Independiente del Valle]]'s youth setup in 2016, from Toreros. He made his first team debut at the age of just 17 on 10 July 2018, starting in a 1–3 away loss against [[S.D. Aucas]].
+
+On 30 January 2019, Ramírez moved abroad and joined [[Real Sociedad]] on loan until June; he was initially assigned to [[Real Sociedad B|the reserves]] in [[Segunda División B]].<ref>{{cite web|url=https://www.realsociedad.eus/es/noticias/detalle/refuerzo-para-la-porteria-del-sanse|title=Refuerzo para la portería del Sanse|trans-title=Addition to the goal of ''Sanse''|publisher=Real Sociedad|language=es|date=30 January 2019|accessdate=20 September 2020}}</ref> His loan was extended until 31 December on 28 June, with a buyout clause,<ref>{{cite web|url=https://www.realsociedad.eus/es/noticias/detalle/ampliada-su-cesion|title=Ampliada su cesión|trans-title=Loan extended|publisher=Real Sociedad|language=es|date=28 June 2019|accessdate=20 September 2020}}</ref> which was declined on 10 December.<ref>{{cite web|url=https://www.realsociedad.eus/en/news/details/real-decline-ramirez-buy-out-option|title=Real decline Ramírez buy-out option|publisher=Real Sociedad|date=10 December 2019|accessdate=20 September 2020}}</ref>
+
+Upon returning, Ramírez was assigned back at the main squad, being mainly a backup to [[Jorge Pinos]].
+
+==International career==
+He made his debut for the [[Ecuador national football team]] on 7 October 2021 in a [[2022 FIFA World Cup qualification (CONMEBOL)|World Cup qualifier]] against [[Bolivia national football team|Bolivia]].<ref>{{cite web|publisher=[[FIFA]]|url=https://www.fifa.com/tournaments/mens/worldcup/qatar2022/qualifiers/conmebol/match-center/400104609|title=Ecuador v Bolivia game report|date=7 October 2021}}</ref>
+
+Ramírez was named in the Ecuadorian squad for the [[2022 FIFA World Cup]].<ref>{{cite tweet |author=Ecuador national football team |author-link=Ecuador national football team |user=LaTri |number=1592288685797494784 |date=14 November 2022 |title=Aquí están los 26 jugadores elegidos por el DT Gustavo Alfaro para jugar la Copa Mundial FIFA, estamos listos para hacer historia |trans-title=Here are the 26 players chosen by head coach Gustavo Alfaro to play the FIFA World Cup, we are ready to make history. |language=es |access-date=14 November 2022}}</ref>
+
+Ramírez was called up to the final 26-man Ecuador squad for the [[2024 Copa América]].<ref>{{cite web|url=https://www.eluniverso.com/deportes/futbol/ecuador-presenta-lista-oficial-para-la-copa-america-gonzalo-plata-y-robert-arboleda-quedaron-relegados-nota/|title=Ecuador presenta lista oficial para la Copa América: Gonzalo Plata y Robert Arboleda quedaron relegados|trans-title=Ecuador presents official roster for Copa America: Gonzalo Plata and Robert Arboleda left off the list|publisher=[[El Universo]]|date=29 May 2024|language=es}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|21 May 2026}}.<ref>{{Soccerway|wellington-moises-ramirez-preciado/450044}}</ref>
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|Cup
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="9"|[[C.S.D. Independiente del Valle|Independiente DV]]
+|[[2016 Ecuadorian Serie A|2016]]
+|rowspan="8"|[[LigaPro Serie A]]
+|0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||0||0
+|-
+|[[2018 Ecuadorian Serie A|2018]]
+|8||0||colspan="2"|—||0||0||colspan="2"|—||8||0
+|-
+|[[2020 Ecuadorian Serie A|2020]]
+|11||0||colspan="2"|—||0||0||0||0||11||0
+|-
+|[[2021 Ecuadorian Serie A|2021]]
+|29||0||colspan="2"|—||12||0||0||0||41||0
+|-
+|[[2022 Ecuadorian Serie A|2022]]
+|28||0||9||0||13||0||colspan="2"|—||50||0
+|-
+|[[2023 Ecuadorian Serie A|2023]]
+|23||0||colspan="2"|—||6||0||3||0||32||0
+|-
+|[[2024 Ecuadorian Serie A|2024]]
+|17||0||3||0||7||0||colspan="2"|—||27||0
+|-
+|[[2025 Ecuadorian Serie A|2025]]
+|6||0||0||0||0||0||colspan="2"|—||6||0
+|-
+!colspan="2"|Total
+!122!!0!!12!!0!!38!!0!!3!!0!!175!!0
+|-
+|rowspan="3"|[[Real Sociedad B]] (loan)
+|[[2018–19 Segunda División B|2018–19]]
+|rowspan="2"|[[Segunda División B]]
+|4||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||4||0
+|-
+|[[2019–20 Segunda División B|2019–20]]
+|14||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||14||0
+|-
+!colspan="2"|Total
+!18!!0!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!18!!0
+|-
+|[[A.E. Kifisia F.C.|Kifisia]]
+|[[2025–26 Super League Greece|2025–26]]
+|[[Super League Greece]]
+|28||0||2||0||colspan="2"|—||colspan="2"|—||30||0
+|-
+!colspan="3"|Career total
+!168!!0!!14!!0!!38!!0!!3!!0!!223!!0
+|}
+
+===International===
+{{updated|30 May 2026|<ref>{{NFT}}</ref>}}
+
+{| class="wikitable" style="text-align:center"
+|-
+!colspan=3|[[Ecuador national football team|Ecuador]]
+|-
+!Year!!Apps!!Goals
+|-
+|2021||2||0
+|-
+|2023||4||0
+|-
+|2026||1||0
+|-
+!Total!!7!!0
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{BDFutbol|23660|Moisés Ramírez}}
+*{{Soccerway|wellington-moises-ramirez-preciado/450044|Moisés Ramírez}}
+
+{{navboxes
+| title = Ecuador squads
+| bg = #FFDD00
+| fg = #034EA2
+| bordercolor = #ED1C24
+|list1=
+{{Ecuador squad 2022 FIFA World Cup}}
+{{Ecuador squad 2024 Copa América}}
+{{Ecuador squad 2026 FIFA World Cup}}
+}}
+{{2022 Copa Sudamericana Team of the Tournament}}
+
+{{DEFAULTSORT:Ramirez, Moises}}
+[[Category:2000 births]]
+[[Category:Living people]]
+[[Category:Footballers from Guayaquil]]
+[[Category:Ecuadorian men's footballers]]
+[[Category:21st-century Ecuadorian sportsmen]]
+[[Category:Men's association football goalkeepers]]
+[[Category:Ecuadorian Serie A players]]
+[[Category:Independiente del Valle footballers]]
+[[Category:Copa Sudamericana–winning players]]
+[[Category:Segunda División B players]]
+[[Category:Real Sociedad B footballers]]
+[[Category:Ecuador men's youth international footballers]]
+[[Category:Ecuador men's international footballers]]
+[[Category:Ecuadorian expatriate men's footballers]]
+[[Category:Ecuadorian expatriate sportspeople in Spain]]
+[[Category:Expatriate men's footballers in Spain]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:2024 Copa América players]]
+[[Category:2026 FIFA World Cup players]]

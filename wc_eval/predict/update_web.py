@@ -72,7 +72,7 @@ def main():
         aj = re.sub(r"(REVEAL_THROUGH\s*[:=]\s*)['\"][^'\"]*['\"]", rf'\1"{a.reveal}"', aj, count=1)
         revmsg = f" · REVEAL_THROUGH→{a.reveal}"
     res = json.load(open(f"{ARC}/results.json", encoding="utf-8"))
-    order = [f"{m['team_a']}_vs_{m['team_b']}" for m in json.load(open(f"{ROOT}/wc_runs/bg/matches.json", encoding="utf-8"))]
+    order = [f"{m['team_a']}_vs_{m['team_b']}" for m in json.load(open(f"{ROOT}/wc_runs/data_reference/matches.json", encoding="utf-8"))]
     RES = {}
     for idx, mk in enumerate(order):
         rr = (res.get("matches") or {}).get(mk, {})
@@ -83,7 +83,7 @@ def main():
             RES[str(idx)] = v
     aj = re.sub(r"RESULTS:\s*\{[^}]*\}", "RESULTS: " + json.dumps(RES, ensure_ascii=False), aj, count=1)
     # 注入全局赛果（results.global + group_winners → arena.js;FIFA码转英文队名）
-    teams = {t["team_id"]: t["name_en"] for t in json.load(open(f"{ROOT}/wc_runs/bg/teams.json", encoding="utf-8"))}
+    teams = {t["team_id"]: t["name_en"] for t in json.load(open(f"{ROOT}/wc_runs/data_reference/teams.json", encoding="utf-8"))}
     en = lambda c: teams.get(c, c)
     g = res.get("global") or {}
     CONF = {"欧洲": "UEFA", "南美": "CONMEBOL", "北美": "CONCACAF", "非洲": "CAF", "亚洲": "AFC", "大洋洲": "OFC"}

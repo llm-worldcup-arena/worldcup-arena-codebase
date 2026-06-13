@@ -1,0 +1,24 @@
+{
+ "source": "TVN-2 Panamá",
+ "url": "https://www.tvn-2.com/tvmax/copa-mundial-fifa-2026/canada-vs-bosnia-y-herzegovina-mundial-2026-grupo-b-fifa-futbol-toronto_6_2245690.html",
+ "title": "Mundial 2026 Canadá vs Bosnia y Herzegovina resultado: Empate dramático con golazo de Larin sobre el final",
+ "published": "2026-06-12T12:40:02-05:00",
+ "tier": "3",
+ "lang": "es",
+ "match": {
+  "date": "2026-06-12",
+  "home": "CAN",
+  "away": "BIH",
+  "home_en": "Canada",
+  "away_en": "Bosnia and Herzegovina",
+  "home_zh": "加拿大",
+  "away_zh": "波黑",
+  "comp": "小组赛·B组",
+  "match_id": "M3",
+  "slug": "2026-06-12_CAN_vs_BIH"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Panamá/ Las selecciones de Canadá y Bosnia y Herzegovina repartieron puntos en un intenso duelo del Grupo B del Mundial 2026 disputado en Toronto.\n\nLos balcánicos abrieron el marcador y resistieron hasta que el ingreso del delantero Cyle Larin cambió la historia con un golazo dos minutos después de pisar el campo.\n\nEl partido comenzó con los locales intentando imponer su ritmo, pero fue Bosnia y Herzegovina la que golpeó primero. Al minuto 21, Jovo Lukic aprovechó un descuido defensivo canadiense para poner el 1-0 y silenciar al estadio de Toronto. El tanto bosnio llegó de manera sorpresiva en un momento en que Canadá parecía controlar el juego sin generar peligro real.\n\nEn la primera parte, los dirigidos por Jesse Marsh no encontraron las respuestas necesarias para revertir la situación y se fueron al descanso con la desventaja en el marcador.\n\nEn la segunda mitad, Canadá salió con mayor intensidad y presionó en busca del empate. Las llegadas por las bandas y las jugadas a balón parado fueron las principales armas del equipo local, pero la falta de claridad en el último tercio impedía que el peligro se convirtiera en gol. Bosnia, ordenada y compacta, resistía el asedio canadiense.\n\nLa solución llegó desde el banquillo. Jesse Marsh apostó por Cyle Larin al minuto 76 y el delantero tardó apenas dos minutos en justificar su ingreso. Con un golazo que se clavó en el fondo de las redes, Larin puso el 1-1 y desató la euforia en las gradas canadienses.\n\nCon el empate en el marcador, Canadá fue en busca de la remontada completa, pero el reloj se convirtió en su peor enemigo. El tiempo se agotó sin que ninguno de los dos equipos pudiera inclinar la balanza, y el árbitro decretó el final con un punto para cada selección.\n\nCon este resultado, ambas selecciones deberán reponerse rápidamente. Bosnia y Herzegovina tendrá su próximo compromiso el 18 de junio ante Suiza , mientras que Canadá buscará su primer triunfo en el torneo el 19 de junio frente a Catar .",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

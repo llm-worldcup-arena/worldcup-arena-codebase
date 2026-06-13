@@ -12,6 +12,15 @@ description: 世界杯预测评测——6 家 SOTA 旗舰模型读 team_data 的
 1. **开跑前必先汇报**:真正调模型跑测评(烧 DMX API)前,**必须先向用户汇报**(测什么 / 哪 6 模型 / 调用量·成本 / 防泄露确认),**等用户确认才跑**。见记忆 `feedback-eval-report-first`。
 2. **防泄露**:只喂「该预测点**之前**」的干净快照——赛前=base/最新版;逐日=当轮快照(`snapshot_round` 出的)。**绝不把待预测的赛果喂进去。**联网搜索开通后多一个口子:**带搜索的预测只能在开球前跑**——开打后模型会把赛果直接搜出来,**已开打/已结束的场次绝不带搜索补跑**(要补只能闭卷并在 meta 注明)。
 
+## 比赛抬头(严格指定是哪一场 · `common.match_header`)
+
+每条预测的 prompt 顶部 `【本场比赛】` 由 `match_header(home,away)` 从 `matches.json`+`venues.json` 生成,**严格锁定这一场**:赛事/阶段/组/**日期·开球时间(美东+北京)**/**场馆·城市·海拔(高原标注)**/主客与真假主场。
+- 开球时间:`matches.json` 的 `kickoff_ts`(ISO 美东 EDT)。空了用 `python3 predict/fill_kickoffs.py` 从网页赛程(worldcup-app.js FIX)一次性补;`match_header` 自动换算北京时间。
+- 海拔:`venues.json` 的 `altitude_m`(墨西哥城 2240 / 瓜达拉哈拉 1566 等高原已标);≥1500m 自动标"高原,影响体能/球速"。
+- 环境行:`collect_match_env.py` 采的 **天气(开球时段,open-meteo)+主裁/VAR(人名)** 自动进抬头(`data_processed/match_env/<场次>.json`;带顶棚场馆注明"天气影响有限";已踢场次也回填了历史环境)。
+- 主帅行:`data_processed/team_coach/<队>.json`(成熟仓库,换帅经 `collect_team_coach.py --set` 更新)→ `_coach_line()` 自动出"主帅:BRA 安切洛蒂 vs MAR Ouahbi"(2026-06-13 起;当日 0748 批次 4 场 prompt 尚无此行,批内一致)。
+- 让球盘 `_HANDICAP` 仍是逐场多源核对的固定线(非默认值),随抬头一并给模型。
+
 ## 评测对象(6 家带 thinking 的 SOTA · `wc_eval/predict/models.json`)
 
 Claude `claude-opus-4-6-thinking` · GPT `gpt-5.2` · Gemini `gemini-3.1-pro-preview-thinking` · Kimi `Kimi-K2-Thinking` · GLM `glm-5` · Seed `doubao-seed-2-0-pro-260215`,统一经 `wc_eval/llm_client.py`(DMXAPI)调。
@@ -58,7 +67,8 @@ Claude `claude-opus-4-6-thinking` · GPT `gpt-5.2` · Gemini `gemini-3.1-pro-pre
 
 - **开放式 System**:「资料**供参考**,可结合自己掌握的信息与判断,**不必局限于给定**」—— 测真实预测力,不是阅读理解(**不再是旧版"只依据给定、不许编"**);
 - **赛事抬头**:每个 prompt 开头点明赛事/阶段/时间/**尚未开赛**;单场还带 `common.match_header`(读 matches.json,自动出 日期/场地/**主客场**/真主场 or 中立);头名带时间+出线规则;全局带赛制(104场)+总进球定义;
-- **先分析、再输出 JSON**;选项**能列全的列全**(半全场 9 种);**让球用固定盘口**——`common.handicap_clause` 给一条真实盘口(如 MEX-RSA 主-1、KOR-CZE 主-0.5),模型只判 **主胜盘/走盘/客胜盘**,**绝不让模型自选盘口**(旧版自选盘口=错,6 模型给不同线没法对照);
+- **先分析、再输出 JSON**;分析面全方位列举且**"等各方面,不限于此"**(不限制死);选项**能列全的列全**(半全场 9 种;「正确比分」枚举 3 球内全部 16 种+「等」,允许自给更高比分);**让球用固定盘口**——`common.handicap_clause` 给一条真实盘口(如 MEX-RSA 主-1、KOR-CZE 主-0.5;`_HANDICAP` 正值=主队受让,条款自动双向),模型只判 **主胜盘/走盘/客胜盘**,**绝不让模型自选盘口**(旧版自选盘口=错,6 模型给不同线没法对照);
+- **七项一致性自检**:要求输出 JSON 前自己逐项与比分核对(prompt 附 4 个矛盾反例);**不预设"先定比分再推导"的思考顺序**(2026-06-13 删除该句——避免锚定,与原设计一致,一致性靠自检而非顺序约束);
 - **搜索注入句**:search=true 的模型,`ask_json` 会在 System 前自动加一句「你已接入实时联网搜索工具…」(闭卷模型没有,免得鼓励它假搜);
 - **prompt 留存**:跑时 `save_prompt` 自动把实际 prompt(含真实抬头+summary)存到 `predictions/<批次>/_prompts/<kind>.txt`,和结果放一块、可追溯。注意留存的是脚本原始 prompt,**不含上面那句自动注入**(句子固定,见 `common.py:ask_json`)。
 
@@ -83,4 +93,5 @@ cd worldcup_2026_web/site && git add -A && git commit -m '上线 <批次>' && gi
 - `predictions/<日期_时分>/`:各类预测 json + `_meta.md` + **`_prompts/`(留存)** + **`_unified.json`(merge_batch 合并)**;
 - **并行** `ThreadPoolExecutor`(6-8);**`ask_json` timeout:闭卷 300s / 搜索 480s**(thinking+搜索更慢,**GLM 偶 timeout 需重试**);`save_pred` **合并写**(补跑单模型不覆盖其他);
 - `ask_json` 抓**最后一个** JSON(容前面分析文字),返回 `{_json, _raw, _search}`;搜索失败**不静默退闭卷**(宁可失败补跑,保 `_search` 字段真实);开卷模型**按次计搜索费**,汇报成本时记入;
-- **已跑批次**:1437(旧 prompt)→ 1604(开放式)→ **2330(最新:开放SYS + 赛事抬头 + prompt留存,210条全成功)**;前端现挂 **2330**。
+- **已跑批次**:1437(旧 prompt)→ 1604(开放式)→ 2330(赛前全量 210 条)→ 6/12 两场 → **2026-06-13_0748(6/13 四场×6模型,prompt 含环境/裁判行+一致性自检升级版)**;预测档案 matches 已 8 场/模型;
+- **搜索+thinking 实跑提醒**:单场 6 模型一轮 7-25 分钟不等(Claude DMX 通道偶发 read timeout,用 `--only Claude` 补跑即可,save_pred 合并写);**前台跑会撞 Bash 600s 上限,用 run_in_background + `python3 -u`(无缓冲可见进度)**。

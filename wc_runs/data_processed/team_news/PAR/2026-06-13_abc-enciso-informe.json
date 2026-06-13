@@ -1,0 +1,16 @@
+{
+ "team": "PAR",
+ "source": "ABC Color",
+ "url": "https://www.abc.com.py/deportes/futbol/seleccion-paraguaya/2026/06/06/el-informe-preliminar-de-la-lesion-de-julio-enciso/",
+ "title": "El informe preliminar de la lesión de Julio Enciso - Selección Paraguaya - ABC Color",
+ "news_date": "2026-06-13",
+ "published": null,
+ "tier": "3",
+ "lang": "es",
+ "asof": "2026-06-13",
+ "fetched": "2026-06-13_0637",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "El informe preliminar de la lesión de Julio Enciso - Selección Paraguaya\n06 de junio de 2026 a la - 11:12\nLa gran estrella paraguaya abandonó el campo en camilla durante el amistoso ante Nicaragua y encendió todas las alertas a días del debut en Norteamérica 2026.\nLa fiesta de despedida de la Selección Paraguaya que esta noche emprende vuelo rumbo a la Copa del Mundo se transformó en una pesadilla. Lo que debía ser una noche de celebración y abrazos terminó con un punto de gran preocupación: la “Joya” quebrada en llanto cuando apenas transcurrían 24 minutos de juego.\nLea más: Enciso: “Mi sueño de llegar a un Mundial sigue más vivo que nunca”\nEl golpe anímico es tremendo para el plantel. El Defensores del Chaco enmudeció por completo al ver al delantero retirarse sin poder caminar, dejando una enorme incertidumbre sobre su estado físico de cara al torneo, en el que Paraguay vuelve a participar tras 16 largos años de ausencia.\nEl informe médico preliminar que preocupa a todo un país\nLas malas noticias se confirmaron horas después del partido. Según informó el periodista Jorge “Chipi” Vera a través de ABC Cardinal, los primeros estudios médicos revelaron que Julio Enciso sufrió una rotura fibrilar muscular en el muslo derecho.\nJulio Enciso (c) de Paraguay reacciona este viernes, en un partido amistoso entre Paraguay y Nicaragua previo a la Copa Mundial de Fútbol 2026 en el estadio Defensores del Chaco en Asunción (Paraguay).\nPara conocer el alcance exacto de la gravedad, el futbolista del Racing de Estrasburgo será sometido a una nueva resonancia de alta complejidad. Este estudio medirá la lesión en milímetros para determinar si existe alguna mínima chance de recuperación, aunque los plazos juegan totalmente en contra.\nLos partidos clave que se perdería\nA falta del parte médico oficial de parte de la selección, el panorama es crítico. En el mejor de los escenarios posibles —asumiendo una evolución milagrosa—, el atacante quedará completamente descartado para el arranque de la fase de grupos.\nJulio Enciso (i) de Paraguay reacciona en el piso este viernes, en un partido amistoso entre Paraguay y Nicaragua previo a la Copa Mundial de Fútbol 2026 en el estadio Defensores del Chaco en Asunción (Paraguay).\nDe esta manera, Enciso se perderá el esperado debut frente al anfitrión, Estados Unidos, programado para el viernes 12 de junio en el SoFi Stadium de Inglewood. La recuperación tampoco le daría tregua para llegar al segundo compromiso, donde Paraguay medirá fuerzas ante Turquía el sábado 20 de junio en el Levi’s Stadium de Santa Clara.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

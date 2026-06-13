@@ -1,0 +1,72 @@
+{{Short description|Men's national association football team representing Switzerland}}
+{{About|the men's team|the women's team|Switzerland women's national football team}}
+{{Use dmy dates|date=May 2026}}
+{{Infobox national football team
+| Name                  = Switzerland
+| Badge                 = Flag of Switzerland (Pantone).svg
+| Badge_size            = 165px
+| Nickname              = ''A-Team''<br>{{lang|de|Nati}} (National Team)<br>{{lang|it|Rossocrociati}} ([[Flag of Switzerland|Red Crosses]])<br>{{lang|fr|Devils rouges}} (Red Devils)
+| Association           = [[Swiss Football Association|Association Suisse de Football, Associazione Svizzera di Football, Shweizerischer Fussballverband]]<br>(ASF-SFV)
+| Confederation         = [[UEFA]] (Europe)
+| Coach                 = [[Murat Yakin]]
+| Captain               = [[Granit Xhaka]]
+| Most caps             = Granit Xhaka (145)
+| Home Stadium          = [[List of football stadiums in Switzerland|Various]]
+| Top scorer            = [[Alexander Frei]] (42)
+| FIFA Trigramme        = SUI
+| FIFA Rank             = {{FIFA World Rankings|SUI}}
+| FIFA max              = 3
+| FIFA max date         = August 1993
+| FIFA min              = 83
+| FIFA min date         = December 1998
+| Elo Rank              = {{World Football Elo Ratings|Switzerland}}
+| Elo max               = 8
+| Elo max date          = June 2018
+| Elo min               = 62
+| Elo min date          = October 1979
+| pattern_la1           = _sui26h
+| pattern_b1            = _sui26h
+| pattern_ra1           = _sui26h
+| pattern_sh1           = _sui26h
+| pattern_so1           = 
+| leftarm1              = FF0000
+| body1                 = FF0000
+| rightarm1             = FF0000
+| shorts1               = FF0000
+| socks1                = FF0000
+| pattern_la2           = _sui26a
+| pattern_b2            = _sui26a
+| pattern_ra2           = _sui26a
+| pattern_sh2           = _sui26a
+| pattern_so2           = _sui26al
+| leftarm2              = d6e6e5
+| body2                 = d6e6e5
+| rightarm2             = d6e6e5
+| shorts2               = d6e6e5
+| socks2                = d6e6e5
+| First game            = {{fb|FRA|1794}} 1–0 {{fb-rt|SUI}}<br>([[Paris]], [[French Third Republic|France]]; 12 February 1905)
+| Largest win           = {{fb|SUI}} 9–0 {{fb-rt|LTU|1918}}<br>([[Paris]], [[French Third Republic|France]]; 25 May 1924)
+| Largest loss          = {{fb|SUI}} 0–9 {{fb-rt|ENG}}<br>([[Basel]], [[Switzerland]]; 20 May 1909)<br>{{fb|HUN|1867}} 9–0 {{fb-rt|SUI}}<br>([[Budapest]], [[Kingdom of Hungary (1867–1918)|Hungary]]; 29 October 1911)
+| World cup apps        = 13
+| World cup first       = 1934
+| World cup best        = Quarter-finals ([[1934 FIFA World Cup|1934]], [[1938 FIFA World Cup|1938]], [[1954 FIFA World Cup|1954]])
+| Regional name         = [[UEFA European Championship|European Championship]]
+| Regional cup apps     = 6
+| Regional cup first    = [[UEFA Euro 1996|1996]]
+| Regional cup best     = Quarter-finals ([[UEFA Euro 2020|2020]], [[UEFA Euro 2024|2024]])
+| 2ndRegional name      = [[UEFA Nations League|Nations League Finals]]
+| 2ndRegional cup apps  = 1
+| 2ndRegional cup first = [[2019 UEFA Nations League Finals|2019]]
+| 2ndRegional cup best  = Fourth place ([[2019 UEFA Nations League Finals|2019]])
+| medaltemplates        =
+{{MedalCompetition|[[Football at the Summer Olympics|Olympic Games]]}}
+{{MedalSilver|[[1924 Summer Olympics|1924 Paris]]|[[Football at the 1924 Summer Olympics|Team]]}}
+}}
+
+The '''Switzerland national football team''' ({{langx|de|Schweizer Fussballnationalmannschaft}}, {{langx|it|Nazionale di calcio della Svizzera}}, {{langx|fr|Équipe nationale suisse de football}}, {{langx|rm|Squadra naziunala da ballape da la Svizra}}, {{langx|la|Turma Pediludica Nationalis Helvetica}}) represents [[Switzerland]] in men's international [[Association football|football]]. The national team is controlled by the [[Swiss Football Association]].
+
+Switzerland's best performances at the [[FIFA World Cup]] have been three quarter-finals appearances, in [[1934 FIFA World Cup|1934]], [[1938 FIFA World Cup|1938]] and [[1954 FIFA World Cup|1954]]. They hosted the competitions in 1954, where they played against [[Austria national football team|Austria]] in the quarter-finals match, losing [[Austria v Switzerland (1954 FIFA World Cup)|7–5]], which still stands as the highest scoring World Cup match ever.<ref>{{Cite web|url=https://www.rsssf.org/tables/54full.html|archive-url=https://web.archive.org/web/20070103001706/http://www.rsssf.com/tables/54full.html|url-status=live|archive-date=3 January 2007|title=World Cup 1954 finals|date=3 January 2007|access-date=5 July 2018}}</ref> At the [[2006 FIFA World Cup]], Switzerland set a FIFA World Cup record by being eliminated from the tournament despite not conceding a single goal, being eliminated by [[Ukraine national football team|Ukraine]] after penalties in the [[2006 FIFA World Cup#Round of 16|round of sixteen]]. They did not concede a goal until a match against [[Chile national football team|Chile]] at the [[2010 FIFA World Cup]], conceding in the [[2010 FIFA World Cup Group H#Chile vs Switzerland|75th minute]], setting a World Cup tournament record for consecutive minutes without conceding a goal.<ref>{{Cite web|url=https://www.theguardian.com/football/2010/jun/21/world-cup-2010-chile-switzerland|title=Chile 1-0 Switzerland: World Cup Group H match report|last=Taylor|first=Daniel|date=21 June 2010|website=[[The Guardian]]|language=en|access-date=5 July 2018}}</ref>
+
+Switzerland and [[Austria]] were the co-hosts of [[UEFA Euro 2008]], where the Swiss made their third appearance in the competitions, but failed for a third time to progress from the group stage.<ref name="auto">{{Cite web|url=https://www.uefa.com/uefaeuro/season=2008/standings/round=15093/group=700416/index.html|archive-url=https://web.archive.org/web/20120420044147/http://www.uefa.com/uefaeuro/season=2008/standings/round=15093/group=700416/index.html|url-status=dead|archive-date=20 April 2012|title=UEFA EURO 2008 - History - Standings|website=[[UEFA]]|access-date=5 July 2018}}</ref><ref name="Switzerland 1-2 Turkey">{{Cite news|url=https://news.bbc.co.uk/sport2/hi/football/euro_2008/7363001.stm|title=Switzerland 1-2 Turkey|date=11 June 2008|access-date=5 July 2018}}</ref> However, since then, the Swiss made it to the round of 16 during [[UEFA Euro 2016|Euro 2016]], and achieved a record-best quarter-finals showing at [[UEFA Euro 2020|Euro 2020]] after eliminating world champions [[France national football team|France]]. They then repeated this feat at [[UEFA Euro 2024|Euro 2024]], this time beating reigning champions [[Italy national football team|Italy]].<ref>{{cite web|url=https://www.uefa.com/uefaeuro/match/2017996--switzerland-vs-poland/|title=Switzerland-Poland - UEFA EURO 2016|website=[[UEFA]]|access-date=29 November 2022}}</ref><ref>{{cite web|url=https://www.uefa.com/uefaeuro/match/2024485--switzerland-vs-spain/|title=Switzerland-Spain - UEFA EURO 2020|website=[[UEFA]]|access-date=29 November 2022}}</ref>
+
+Overall, Switzerland's best ever result at an official football competition was the [[silver medal]] they earned in [[Football at the 1924 Summer Olympics|1924]], after losing to [[Uruguay national football team|Uruguay]] 3–0 in the finals of the [[1924 Summer Olympics|1924 Olympic Games]].<ref name="auto1">{{Cite web|url=https://www.fifa.com/tournaments/archive/mensolympic/paris1924/matches/round=197028/match=32314/index.html|title=Olympic Football Tournament Paris 1924 - Switzerland 0:3 (0:1) Uruguay - Overview |website=FIFA|access-date=5 July 2018}}</ref>

@@ -1,0 +1,60 @@
+[
+ {
+  "player_id": "1297993",
+  "profile_url": "https://www.transfermarkt.com/ignacio-ovando/profil/spieler/1297993",
+  "full_name": "Ignacio Ovando",
+  "display_name": "Ignacio Ovando",
+  "short_name": "I. Ovando",
+  "nickname": "",
+  "date_of_birth": "2007-06-29",
+  "age": 18,
+  "place_of_birth": "Gualeguaychú",
+  "country_of_birth": "Argentina",
+  "nationality": [
+   "Argentina"
+  ],
+  "gender": "male",
+  "position": "Centre-Back",
+  "position_category": "Defender",
+  "foot": "right",
+  "height_cm": 182,
+  "current_club": "CA Rosario Central",
+  "current_club_id": "1418",
+  "current_competition": "Torneo Clausura",
+  "current_competition_code": "ARGC",
+  "shirt_number": 46,
+  "is_captain": false,
+  "contract_until": "2027-12-31",
+  "last_contract_renewal": "",
+  "market_value_eur": 6000000,
+  "market_value_currency": "EUR",
+  "market_value_determined": "2026-05-22",
+  "previous_market_value_eur": 3500000,
+  "highest_market_value_eur": 6000000,
+  "highest_market_value_determined": "2026-05-22",
+  "market_value_history": [
+   "2024 | CA Rosario Central II | EUR 125.00K",
+   "2025 | CA Rosario Central | EUR 3.50M",
+   "2025 | CA Rosario Central | EUR 6.00M"
+  ],
+  "agent": "",
+  "agency": "Hernan Berman",
+  "agency_id": "6670",
+  "youth_clubs": [],
+  "career_history": [
+   "CA Rosario Central U17 -> CA Rosario Central II | 2025-01-01 | - | 24/25",
+   "CA Rosario Central II -> CA Rosario Central | 2026-01-01 | - | 25/26"
+  ],
+  "total_transfer_fees_eur": 0,
+  "international_team": "",
+  "international_caps": 0,
+  "international_goals": 0,
+  "national_team_history": [
+   "Argentina | 0 apps | 0 goals | RECENT_NATIONAL_PLAYER"
+  ],
+  "injuries": [],
+  "suspensions": [],
+  "photo_url": "https://img.a.transfermarkt.technology/portrait/big/1297993-1742571532.png",
+  "scraped_at": "2026-06-08T18:06:59.484Z"
+ }
+]

@@ -79,7 +79,7 @@ def main():
     ap.add_argument("--only", help="只跑指定队，逗号分隔")
     args = ap.parse_args()
     ts = run_ts()
-    raw_dir = f"{BASE}/raw/bg/{ts}"
+    raw_dir = f"{BASE}/data_raw/{ts}"
     teams = load_json(TEAMS_PATH, [])
     persons = load_json(persons_path(), [])
     by_id = {p["person_id"]: p for p in persons}
@@ -118,7 +118,7 @@ def main():
 
     dump_json(TEAMS_PATH, teams)
     dump_json(persons_path(), sorted(by_id.values(), key=lambda p: p["person_id"]))
-    print(f"\n完成 {ok} 队教练 → persons.json + teams.json（coach_id 对齐）  raw: raw/bg/{ts}/")
+    print(f"\n完成 {ok} 队教练 → persons.json + teams.json（coach_id 对齐）  raw: data_raw/{ts}/")
 
 
 if __name__ == "__main__":

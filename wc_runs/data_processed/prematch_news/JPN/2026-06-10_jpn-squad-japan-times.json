@@ -1,0 +1,16 @@
+{
+ "team": "JPN",
+ "source": "Japan Times",
+ "url": "https://www.japantimes.co.jp/sports/2026/05/15/soccer/world-cup/japan-names-world-cup-squad/",
+ "title": "Japan coach Hajime Moriyasu names squad for 2026 World Cup - The Japan Times",
+ "news_date": "2026-06-10",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-10",
+ "fetched": "2026-06-13_0638",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Japan coach Hajime Moriyasu speaks during a news conference to announce Japan's squad for the 2026 World Cup. | AFP-JIJI\nMay 15, 2026\nListen to this article\n5 min\nThere were headline omissions and selections as Hajime Moriyasu announced his Japan World Cup squad on Friday, with Kaoru Mitoma missing out, but Wataru Endo and Takehiro Tomiyasu both making the cut.\nVeteran Yuto Nagatomo was another standout inclusion in the 26-man party, with the FC Tokyo defender offered the chance to appear at an incredible fifth finals.\nMoriyasu, who steered Samurai Blue to the Round of 16 at the previous edition in Qatar in 2022, expressed disappointment at having to leave out Mitoma, but offered up his absence from last year’s friendly win over Brazil as proof that Japan can still succeed without the winger.\nIn a time of both misinformation and too much information,\nquality journalism is more crucial than ever.\nBy subscribing, you can help us get the story right.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

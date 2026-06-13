@@ -1,0 +1,16 @@
+{
+ "team": "AUS",
+ "source": "Socceroos Official",
+ "url": "https://socceroos.com.au/news/commbank-socceroos-squad-update-0",
+ "title": "CommBank Socceroos Squad Update",
+ "news_date": "2026-05-24",
+ "published": "2026-05-24T09:39:44",
+ "tier": "1",
+ "lang": "en",
+ "asof": "2026-06-10",
+ "fetched": "2026-06-13_0638",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "The CommBank Socceroos train-on squad now includes: Patrick Beach, Aziz Behich, Daniel Bennie, Raphael Borges Rodrigues, Brandon Borrello, Jordan Bos, Martin Boyle, Cameron Burgess, Anthony Caceres, Milos Degenek, Cameron Devlin, Mitch Duke, Joe Gauci, Jason Geria, Ajdin Hrustic, Nestory Irankunda, Jacob Italiano, Jackson Irvine, Paul Izzo, Mathew Leckie, Dylan Leonard, Connor Metcalfe, Aiden O’Neill, Alex Robertson, Harry Souttar, Gianni Stensness, Ante Suto, Mohamed Toure and Nishan Velupillay.\n\nThe final FIFA World Cup 2026™ squad of up to 26 players is due to be submitted to FIFA by June 1.\n\nThe CommBank Socceroos face World Cup co-hosts Mexico at The Rose Bowl in Pasadena, California, on May 30 (May 31, AEST), before taking on Switzerland at Snapdragon Stadium in San Diego on June 6 (June 7, AEST).\n\nTheir FIFA World Cup 2026 campaign kicks off against Türkiye in Vancouver on June 13 (June 14, AEST). Drawn in Group D, the Socceroos will also face tournament co-hosts the United States in Seattle on June 19 (June 20, AEST) and Paraguay at San Francisco Bay Area Stadium in Santa Clara on June 25 (June 26, AEST).",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

@@ -1,0 +1,16 @@
+{
+ "team": "UZB",
+ "source": "Olympics.com",
+ "url": "https://www.olympics.com/en/news/fifa-world-cup-2026-uzbekistan-all-players-full-squad-list-key-stats-schedule",
+ "title": "Uzbekistan at FIFA World Cup 2026: All players, full squad list, key stats and schedule",
+ "news_date": "2026-06-10",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-10",
+ "fetched": "2026-06-13_0638",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Uzbekistan at FIFA World Cup 2026: All players, full squad list, key stats and schedule\nQuick facts\nCaptain: Eldor Shomurodov\nManager: Fabio Cannavaro\nWorld Cup appearances (including 2026): 1\nBest World Cup result: N/A\nGoalkeepers: Utkir Yusupov (Navbahor), Abduvohid Nematov (Nasaf), Botirali Ergashev (Neftchi).\nDefenders: Rustam Ashurmatov (Esteghlal), Farrukh Sayfiev (Neftchi), Khojiakbar Alijonov (Pakhtakor), Sherzod Nasrullaev (Nasaf), Umar Eshmurodov (Nasaf), Abdukodir Khusanov (Manchester City), Abdulla Abdullaev (Dibba), Bekhruz Karimov (Surkhon), Jakhongir Urozov (Dinamo Samarqand), Avazbek Ulmasaliev (AGMK).\nMidfielders: Otabek Shukurov (Baniyas), Jaloliddin Masharipov (Esteghlal), Odiljon Hamrobekov (Tractor), Oston Urunov (Persepolis), Jamshid Iskanderov (Neftchi), Dostonbek Khamdamov (Pakhtakor), Abbosbek Fayzullaev (Istanbul Basaksehir), Akmal Mozgovoy (Pakhtakor), Azizjon Ganiev (Al Bataeh), Sherzod Esanov (Bukhara).\nForwards: Eldor Shomurodov (Istanbul Basaksehir/Roma), Igor Sergeev (Persepolis), Azizbek Amonov (Bukhara).",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

@@ -1,0 +1,279 @@
+{{short description|Qatari footballer}}
+{{Use dmy dates|date=January 2019}}
+{{Infobox football biography
+| name = Lucas Mendes
+| image = Valais Cup 2013 - OM-FC Porto 13-07-2013 - Lucas Mendes.jpg
+| image_size = 170px
+| caption = Mendes with [[Olympique de Marseille|Marseille]] in 2013
+| fullname = Lucas Michel Mendes
+| birth_date = {{Birth date and age|1990|7|3|df=y}}
+| birth_place = [[Curitiba]], Brazil
+| height = 1.84m<ref>{{Cite web |url=http://www.coritiba.com.br/portal/jogador/lucas-mendes/ |title=Lucas Mendes |publisher=Coritiba Foot Ball Club |access-date=17 February 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120301202437/http://www.coritiba.com.br/portal/jogador/lucas-mendes/ |archive-date=1 March 2012  }}</ref>
+| position = [[Defender (association football)#Wing-back|Left-back, centre-back]]
+| currentclub = [[Al-Wakrah SC|Al-Wakrah]]
+| clubnumber = 2
+| youthyears1 = 2006–2008
+| youthclubs1 = [[Coritiba Foot Ball Club|Coritiba]]
+| years1 = 2008–2012
+| clubs1 = [[Coritiba Foot Ball Club|Coritiba]]
+| caps1 = 139
+| goals1 = 2
+| years2 = 2012–2014
+| clubs2 = [[Olympique de Marseille|Marseille]]
+| caps2 = 48
+| goals2 = 2
+| years3 = 2014–2017
+| clubs3 = [[El Jaish SC|El Jaish]]
+| caps3 = 63
+| goals3 = 5
+| years4 = 2017–2019
+| clubs4 = [[Al-Duhail SC|Al-Duhail]]
+| caps4 = 29
+| goals4 = 0
+| years5 = 2019–2020
+| clubs5 = [[Al-Gharafa SC|Al-Gharafa]]
+| caps5 = 7
+| goals5 = 1
+| years6 = 2020–
+| clubs6 = [[Al-Wakrah SC|Al-Wakrah]]
+| caps6 = 113
+| goals6 = 3
+| nationalyears1 = 2023–
+| nationalteam1 = [[Qatar national football team|Qatar]]
+| nationalcaps1 = 22 
+| nationalgoals1 = 2
+| pcupdate = 21 November 2025
+| ntupdate = 17 November 2025
+| medaltemplates = {{MedalCountry|{{fb|QAT}}}}
+{{MedalSport|Men's [[Association football|Football]]}}
+{{MedalCompetition|[[AFC Asian Cup]]}}
+{{Medal|Winner|[[2023 AFC Asian Cup|2023 Qatar]]|}}
+}}
+'''Lucas Michel Mendes''' (born 3 July 1990) is a [[Professional sports#Association football|professional]] [[Association football|footballer]] who plays as a [[Defender (association football)|centre-back]] or left-back for Qatari club [[Al-Wakrah SC|Al-Wakrah]]. Born in Brazil, he plays for the [[Qatar national football team|Qatar national team]].
+
+==Club career==
+On 15 August 2014, after playing 2 years with [[Olympique de Marseille]], he signed for Qatari club [[El Jaish SC|El Jaish]].<ref>{{Cite web |url=http://www.eurosport.fr/football/transferts/2014-2015/mercato-officiel-lucas-mendes-marseille-s-engage-avec-el-jaish_sto4359818/story.shtml |title=Lucas Mendes (Marseille) s'engage avec El Jaish, la défense de l'OM déplumée |publisher=eurosport.fr |accessdate=15 August 2014}}</ref>
+
+==International career==
+On 9 November 2023, Mendes received his first call-up to the [[Qatar national football team|Qatar national team]] after being naturalized as a Qatari citizen, having lived in Qatar for nine years. He was part of the Qatari squad which won the [[2023 AFC Asian Cup]].
+
+He scored his first goal in the third round of the [[2026 FIFA World Cup qualification|2026 FIFA World Cup Qualification]] in the 102nd minute of the match against the national team of [[Uzbekistan]], ending Uzbekistan's unbeaten streak of 20 games.
+
+==Career statistics==
+===Club===
+{{updated|24 March 2024}}
+{| class="wikitable" style="text-align: center;"
+|-
+!rowspan="2"|Club
+!rowspan="2"|Division
+!rowspan="2"|Season
+!colspan="2"|League
+!colspan="2"|National Cup
+!colspan="2"|National League Cup
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+! Apps !! Goals !! Apps !! Goals !! Apps !! Goals !! Apps !! Goals!! Apps !! Goals!! Apps !! Goals
+|-
+| rowspan="6"|[[Coritiba Foot Ball Club|Coritiba]] 
+| rowspan="2" |[[Campeonato Brasileiro Série A|Série A]]
+|[[2008 Campeonato Brasileiro Série A|2008]]
+|1||0||0||0||colspan="2"|—||colspan="2"|—||0||0||1||0
+|-
+|[[2009 Campeonato Brasileiro Série A|2009]]
+|0||0||0||0||colspan="2"|—||colspan="2"|—||0||0||0||0
+|-
+|[[Campeonato Brasileiro Série B|Série B]]
+|[[2010 Campeonato Brasileiro Série A|2010]]
+|29||0||0||0||colspan="2"|—||colspan="2"|—||0||0||30||0
+|-
+| rowspan="2" |[[Campeonato Brasileiro Série A|Série A]]
+|[[2011 Campeonato Brasileiro Série A|2011]]
+|24||0||11||0||colspan="2"|—||colspan="2"|—||11{{efn|Appearances in [[Campeonato Paranaense]]}}||0||46||0
+|-
+|[[2012 Campeonato Brasileiro Série A|2012]]
+|13||2||9||0||colspan="2"|—||2{{efn|Appearances in [[Copa Sudamericana]]}}||0||20{{efn|Appearances in [[Campeonato Paranaense]]}}||0||44||2
+|-
+! colspan="2" |Total
+!67!!2!!20!!0!!0!!0!!2!!0!!31!!0!!120!!2
+|-
+| rowspan="4" |[[Olympique de Marseille|Marseille]] 
+| rowspan="3" |[[Ligue 1]]
+|[[2012–13 Ligue 1|2012–13]]
+|25||0||3||0||0||0||5{{efn|Appearances in [[UEFA Cup]]}}||1||0||0||33||1
+|-
+|[[2013–14 Ligue 1|2013–14]]
+|22||2||0||0||2||0||4{{efn|Appearances in [[UEFA Champions League]]}}||0||0||0||28||2
+|-
+|[[2014–15 Ligue 1|2014–15]]
+|1||0||0||0||0||0||0||0||0||0||1||0
+|-
+! colspan="2" |Total
+!48!!2!!3!!0!!2!!0!!9!!1!!0!!0!!62!!3
+|-
+| rowspan="4" |[[El Jaish SC|El Jaish]] 
+| rowspan="3" |[[Qatar Stars League|QSL]]
+|[[2014–15 Qatar Stars League|2014–15]]
+|24||1||1||1||0||0||2{{efn|Appearances in [[AFC Champions League]]}}||0||0||0||27||2
+|-
+|[[2015–16 Qatar Stars League|2015–16]]
+|19||1||1||0||0||0||8{{efn|Appearances in [[AFC Champions League]]}}||0||0||0||28||1
+|-
+|[[2016–17 Qatar Stars League|2016–17]]
+|20||3||1||0||0||0||4{{efn|Appearances in [[AFC Champions League]]}}||0||0||0||28||3
+|-
+! colspan="2" |Total
+!63!!5!!3!!1!!0!!0!!14!!0!!0!!0!!80!!6
+|-
+| rowspan="3" |[[Al-Duhail SC|Al-Duhail]] 
+| rowspan="2" |QSL
+|[[2017–18 Qatar Stars League|2017–18]]
+|17||0||4||0||3||0||7{{efn|Appearances in [[AFC Champions League]]}}||0||1{{efn|Appearances in [[Sheikh Jassim Cup]]}}||0||32||0
+|-
+|[[2018–19 Qatar Stars League|2018–19]]
+|12||0||0||0||4||0||2{{efn|Appearances in [[AFC Champions League]]}}||0||1{{efn|Appearances in [[Sheikh Jassim Cup]]}}||0||19||0
+|-
+! colspan="2" |Total
+!39!!0!!4!!0!!7!!0!!9!!0!!2!!0!!61!!0
+|-
+|[[Al-Gharafa SC|Al-Gharafa]] 
+| rowspan="6" |QSL
+|[[2018–19 Qatar Stars League|2018–19]]
+|7||1||0||0||0||0||1{{efn|Appearances in [[AFC Champions League]]}}||0||0||0||8||1
+|-
+| rowspan="6" |[[Al-Wakrah SC|Al-Wakrah]] 
+|[[2019–20 Qatar Stars League|2019–20]]
+|10||0||3||0||0||0||0||0||0||0||13||0
+|-
+|[[2020–21 Qatar Stars League|2020–21]]
+|22||0||5||0||4||0||0||0||0||0||31||0
+|-
+|[[2021–22 Qatar Stars League|2021–22]]
+|7||0||2||0||7||0||0||0||0||0||16||0
+|-
+|[[2022–23 Qatar Stars League|2022–23]]
+|22||2||1||0||1||0||0||0||0||0||24||3
+|-
+|[[2023–24 Qatar Stars League|2023–24]]
+|17||0||0||0||1||0||1{{efn|Appearances in [[AFC Champions League]]}}||0||0||0||19||0
+|-
+! colspan="2" |Total
+!88!!2!!10!!0!!13!!0!!1!!0!!0!!0!!112!!2
+|-
+! colspan="3" |Career Total
+!270!!9!!40!!1!!22!!0!!36!!1!!33!!0!!401!!11
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 6 June 2025}}
+{| class="wikitable" style="text-align: center;"
+|+Appearances and goals by national team and year
+!National team
+!Year
+!Apps
+!Goals
+|-
+|rowspan="3"|[[Qatar national football team|Qatar]]
+|2023
+|2
+|0
+|-
+|2024
+|17
+|1
+|-
+|2025
+|2
+|1
+|-
+! colspan="2" |Total
+!21
+!2
+|}
+
+{| class="wikitable" style="font-size:100%"
+|+ List of international goals scored by Lucas Mendes
+|-
+! No. !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| 1. || 14 November 2024 || [[Jassim bin Hamad Stadium]], [[Doha]], Qatar || {{fb|UZB}} || align=center | '''3'''–2 || align=center | 3–2 ||rowspan=2| [[2026 FIFA World Cup qualification – AFC third round|2026 FIFA World Cup qualification]]
+|-
+| 2. || 25 March 2025 || [[Dolen Omurzakov Stadium]], [[Bishkek]], Kyrgyzstan || {{fb|KGZ}} || align=center | '''1'''–1 || align=center | 1–3 
+|}
+
+==Honours==
+'''Coritiba'''
+*[[Campeonato Paranaense]]: 2008, 2010, [[2011 Campeonato Paranaense|2011]], [[2012 Campeonato Paranaense|2012]]
+*[[Campeonato Brasileiro Série B]]: [[2010 Campeonato Brasileiro Série B|2010]]<ref>{{cite web |access-date=2023-12-06 |date=2010-12-30 |first=Por Mariana Kneipp Rio de |last=Janeiro |title=RETROSPECTIVA 2010: Coritiba vai do inferno ao céu para voltar à Série A |url=https://globoesporte.globo.com/futebol/times/coritiba/noticia/2010/12/retrospectiva-2010-coritiba-vai-do-inferno-ao-ceu-para-voltar-serie.html |website=globoesporte.com}}<!-- auto-translated from Portuguese by Module:CS1 translator --></ref>
+
+'''Al-Duhail'''
+*[[Qatar Stars League]]: [[2017–18 Qatar Stars League|2017–18]] 
+*[[Emir of Qatar Cup]]: [[2018 Emir of Qatar Cup|2018]], [[2019 Emir of Qatar Cup|2019]]
+*[[Qatar Cup]]: [[2018 Qatar Cup|2018]]
+
+'''Qatar'''
+* [[AFC Asian Cup]]: [[2023 AFC Asian Cup|2023]]
+
+'''Individual'''
+*[[AFC Asian Cup awards#Team of the Tournament|AFC Asian Cup Team of the Tournament]]: [[2023 AFC Asian Cup|2023]]<ref>{{cite web |url=https://www.instagram.com/afcasiancup/p/C3QKV9Juw4F/ |title=Team of the Tournament |website=Instagram.com |publisher=AFC Asian Cup |date=2024-02-12 |access-date=2024-02-12}}</ref>
+*[[Qatar Stars League]] Team of the Year: [[2017–18 Qatar Stars League#Team of the Year|2017–17]], [[2023–24 Qatar Stars League#Team of the Year|2023–24]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://web.archive.org/web/20130302051019/http://www.om.net/fr/Saison/101002/Actualites/62198/Arrivee_de_Lucas_Mendes_a_l_OM transfer to Marseille] {{in lang|fr}}
+
+{{Al-Wakrah SC squad}}
+{{Navboxes
+|title=Qatar squads
+|bg=#660033
+|fg=white
+|bordercolor=white
+|list1=
+{{Qatar squad 2023 AFC Asian Cup}}
+{{Qatar squad 2026 FIFA World Cup}}
+}}
+{{Navboxes
+| title = Awards
+| bg = gold
+| fg = navy
+| list1 = 
+{{2023 AFC Asian Cup Team of the Tournament}}
+}}
+
+{{DEFAULTSORT:Mendes, Lucas}}
+[[Category:1990 births]]
+[[Category:Living people]]
+[[Category:Footballers from Curitiba]]
+[[Category:Qatari men's footballers]]
+[[Category:21st-century Qatari sportsmen]]
+[[Category:Qatar men's international footballers]]
+[[Category:Brazilian men's footballers]]
+[[Category:Brazilian emigrants to Qatar]]
+[[Category:Naturalized citizens of Qatar]]
+[[Category:Sportspeople of Brazilian descent]]
+[[Category:Naturalised association football players]]
+[[Category:Men's association football full-backs]]
+[[Category:Men's association football central defenders]]
+[[Category:Coritiba Foot Ball Club players]]
+[[Category:Olympique de Marseille players]]
+[[Category:El Jaish SC players]]
+[[Category:Al Duhail SC players]]
+[[Category:Al-Gharafa SC players]]
+[[Category:Al-Wakrah SC players]]
+[[Category:Campeonato Brasileiro Série A players]]
+[[Category:Campeonato Brasileiro Série B players]]
+[[Category:Ligue 1 players]]
+[[Category:Qatar Stars League players]]
+[[Category:Brazilian expatriate men's footballers]]
+[[Category:Brazilian expatriate sportspeople in France]]
+[[Category:Brazilian expatriate sportspeople in Qatar]]
+[[Category:Expatriate men's footballers in France]]
+[[Category:Expatriate men's footballers in Qatar]]
+[[Category:2023 AFC Asian Cup players]]
+[[Category:AFC Asian Cup–winning players]]
+[[Category:21st-century Brazilian sportsmen]]
+[[Category:2026 FIFA World Cup players]]

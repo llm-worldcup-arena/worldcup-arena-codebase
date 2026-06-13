@@ -1,0 +1,22 @@
+{
+ "source": "FOX Sports（权威·美转播）",
+ "url": "https://www.foxsports.com/stories/soccer/best-of-2026-world-cup-day-1-mexico-south-korea",
+ "title": "World Cup Roundup: Mexico Breaks One Of Its Curses, South Korea Completes Comeback | FOX Sports",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-11",
+  "home": "MEX",
+  "away": "RSA",
+  "home_en": "Mexico",
+  "away_en": "South Africa",
+  "comp": "小组赛·A组",
+  "match_id": "M1",
+  "slug": "2026-06-11_MEX_vs_RSA"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "The first day of the 2026 FIFA World Cup did not disappoint. Curses were broken in Mexico City, as were the hearts of the Bafana faithful. Here is everything you might have missed from Day 1 of the 2026 FIFA World Cup: Assist Of The Day Raúl Jiménez waited 12 years for his first World Cup goal, and his Mexico teammate Roberto Alvarado made sure he didn't have to work too hard for it. The 27-year-old Chivas winger saw Jiménez calling for the ball at the far post and delivered a perfectly-weighted cross with his favored left foot, and Jiménez just had to place the ball outside the reach of South Africa goalkeeper Ronwen Williams. Save Of The Day South Korea walked away with all three points against Czechia thanks to some late-match heroics from Kim Seung-gyu. After conceding two goals — one of which was disallowed — Seung-gyu picked himself back up and made this save from point-blank range that kept South Korea out in front through the final whistle. Goal Of The Day When Lee Kang-in played Hwang In-beom through, he had three defenders closing in on him. By the time he controlled the ball, he had the whole right side of the goal open. How? A fake shot that fooled Czechia's entire back line. That bit of skill was the difference between one and three points for South Korea on Thursday. Moment Of The Day Raúl Jiménez was overcome with emotion after giving Mexico a 2-0 lead over South Africa. Not only was it Jiménez's first-ever World Cup goal, but it was in tribute to his late father Raúl Jiménez Vega. It's a moment he and El Tri fans will surely never forget.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

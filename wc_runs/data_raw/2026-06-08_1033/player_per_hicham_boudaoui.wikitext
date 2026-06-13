@@ -1,0 +1,211 @@
+{{short description|Algerian footballer (born 1999)}}
+{{Use dmy dates|date=March 2021}}
+{{Infobox football biography
+|embed = 
+|name = Hicham Boudaoui
+|image = Boudaoui asse ogcn 2425.png
+|image_size = 250
+|alt = 
+|caption = Boudaoui with [[OGC Nice|Nice]] in 2025
+|fullname = Hicham Boudaoui<ref>{{cite web |url=https://images.cafonline.com/image/upload/caf-prd/kpakgtavgq0lbzxizu89.pdf |title=Algeria |publisher=Confederation of African Football |format=PDF |page=1 |date=15 June 2019 |access-date=16 July 2019 |archive-date=21 June 2019 |archive-url=https://web.archive.org/web/20190621010626/https://images.cafonline.com/image/upload/caf-prd/kpakgtavgq0lbzxizu89.pdf |url-status=dead }}</ref>
+|birth_date = {{birth date and age|df=yes|1999|9|23}}
+|birth_place = [[Béchar]], Algeria
+|height = 1.75 m<ref>{{cite web |url=https://www.ogcnice.com/en/fiche/2198/hicham-boudaoui.html |title=Hicham Boudaoui |publisher=OGC Nice |access-date=5 August 2022 }}</ref>
+|position = [[Midfielder]]
+|currentclub = [[OGC Nice|Nice]]
+|clubnumber = 6 
+|youthyears1 = 2012–2018
+|youthclubs1 = [[Paradou AC]]
+|years1 = 2018–2019
+|clubs1 = [[Paradou AC]]
+|caps1 = 37
+|goals1 = 1
+|years2 = 2019–
+|clubs2 = [[OGC Nice|Nice]]
+|caps2 = 173
+|goals2 = 13
+|years3 = 2019
+|clubs3 = [[OGC Nice|Nice II]]
+|caps3 = 2
+|goals3 = 0
+|nationalyears1 = 2018
+|nationalteam1 = [[Algeria national under-20 football team|Algeria U20]]
+|nationalcaps1 = 4
+|nationalgoals1 = 0
+|nationalyears2 = 2018–
+|nationalteam2 = [[Algeria national under-23 football team|Algeria U23]]
+|nationalcaps2 = 4
+|nationalgoals2 = 0
+|nationalyears3 = 2018–
+|nationalteam3 = [[Algeria national football team|Algeria]]
+|nationalcaps3 = 32
+|nationalgoals3 = 0
+|pcupdate = 23:58, 17 May 2026 (UTC)
+|ntupdate = 23:37, 31 March 2026 (UTC)
+|medaltemplates =
+{{MedalSport|Men's [[association football|football]]}}
+{{MedalCountry|{{fb|ALG}}}}
+{{MedalCompetition|[[Africa Cup of Nations]]}}
+{{Medal|W|[[2019 Africa Cup of Nations|2019 Egypt]]|}}
+}}
+
+'''Hicham Boudaoui''' ({{langx|ar|هشام بوداوي}}; born 23 September 1999) is an Algerian professional [[Association football|footballer]] who plays as a [[midfielder]] for [[Ligue 1]] club [[OGC Nice|Nice]] and the [[Algeria national football team|Algeria national team]].
+
+==Club career==
+On 6 January 2018, Boudaoui made his professional debut for Paradou AC, coming as a second-half substitute in a league match against [[USM Alger]].<ref>{{cite web|url=https://us.soccerway.com/matches/2018/01/06/algeria/ligue-1/paradou-athetic-club/union-sportive-madinet-dalger/2537073/|title=Paradou AC vs. USM Alger - 6 January 2018 - Soccerway|publisher=Soccerway|date=6 January 2018|access-date=29 November 2018}}</ref>
+
+In September 2019, he joined [[Ligue 1]] side [[OGC Nice|Nice]].<ref>{{cite web |title=Hicham Boudaoui, the latest Aiglon |url=https://www.ogcnice.com/fr/actualite/37715/hicham-boudaoui-the-latest-aiglon |website=OGC Nice |access-date=24 December 2019 |date=2 September 2019}}</ref>
+
+==International career==
+Boudaoui made his debut for the [[Algeria national football team|Algeria national team]] on 27 December 2018 in a friendly against [[Qatar national football team|Qatar]], as a starter.<ref>{{cite web|publisher=[[Eurosport]]|url=https://www.eurosport.com/football/international-friendlies/2018/live-qatar-algeria_mtc1088937/live.shtml|title=Qatar v Algeria game report|date=27 December 2018}}</ref> He was named in Algeria's national team squad for the [[2019 Africa Cup of Nations]] in Egypt.<ref>{{cite web|url=http://www.dzfoot.com/2019/05/30/can-2019-les-23-algeriens-pour-legypte-152787.php|title=CAN 2019 : Les 23 Algériens pour L'Egypte|author=Mohamed B|publisher=DZfoot|language=fr|date=30 May 2019|access-date=10 June 2019}}</ref>
+
+In December 2023, he was named in Algeria's squad for the [[2023 Africa Cup of Nations]].<ref>{{cite web|url=https://www.algerie-focus.com/can-2024-lalgerie-devoile-sa-liste-officielle-qui-sont-les-fennecs-prets-a-conquerir-lafrique/|title=CAN 2024 : L'Algérie Dévoile sa Liste Officielle – Qui Sont les Fennecs Prêts à Conquérir l’Afrique ?|language=French|date=30 December 2023|access-date=12 January 2024|publisher=Algérie-Focus}}</ref> He has also appeared for [[Algeria national under-20 football team|Algeria U20]] and [[Algeria national under-23 football team|Algeria U23]] teams.
+
+==Career statistics==
+===Club===
+{{updated|match played 26 May 2026}}
+
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup
+!colspan="2"|League cup
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="3"|[[Paradou AC]]
+|[[2017–18 Algerian Ligue Professionnelle 1|2017–18]]
+|[[Algerian Ligue Professionnelle 1|Algerian Ligue 1]]
+|7||0||0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||7||0
+|-
+|[[2018–19 Algerian Ligue Professionnelle 1|2018–19]]
+|Algerian Ligue 1
+|30||1||4||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||34||1
+|-
+!colspan="2"|Total
+!37!!1!!4!!0!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!41!!1
+|-
+|rowspan="8"|[[OGC Nice|Nice]]
+|[[2019–20 OGC Nice season|2019–20]]
+|[[Ligue 1]]
+|9||1||3||1||1||0||colspan="2"|—||colspan="2"|—||13||2
+|-
+|[[2020–21 OGC Nice season|2020–21]]
+|Ligue 1
+|25||3||0||0||colspan="2"|—||4{{efn|name=UEL|Appearances in [[UEFA Europa League]]}}||0||colspan="2"|—||29||3
+|-
+|[[2021–22 OGC Nice season|2021–22]]
+|Ligue 1
+|29||3||4||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||33||3
+|-
+|[[2022–23 OGC Nice season|2022–23]]
+|Ligue 1
+|27||1||0||0||colspan="2"|—||8{{efn|Appearances in [[UEFA Europa Conference League]]}}||0||colspan="2"|—||35||1
+|-
+|[[2023–24 OGC Nice season|2023–24]]
+|Ligue 1
+|29||2||0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||29||2
+|-
+|[[2024–25 OGC Nice season|2024–25]]
+|Ligue 1
+|29||2||2||0||colspan="2"|—||5{{efn|name=UEL}}||0||colspan="2"|—||36||2
+|-
+|[[2025–26 Ligue 1|2025–26]]
+|Ligue 1
+|25||1||2||0||colspan="2"|—||4{{efn|One appearance in [[UEFA Champions League]], three appearances in UEFA Europa League}}||0||1{{efn|Appearance in [[Ligue 1 relegation/promotion play-offs]]}}||0||32||1
+|-
+!colspan="2"|Total
+!173!!13!!11!!1!!1!!0!!21!!0!!1!!0!!207!!14
+|-
+|[[OGC Nice|Nice II]]
+|[[2019–20 Championnat National 3|2019–20]]
+|[[Championnat National 3]]
+|2||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||2||0
+|-
+!colspan="3"|Career total
+!212!!14!!15!!1!!1!!0!!21!!0!!1!!0!!250!!15
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 31 March 2026}}<ref name="nft">{{NFT|73097}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="8"|[[Algeria national football team|Algeria]]
+|2018||1||0
+|-
+|2019||5||0
+|-
+|2021||4||0
+|-
+|2022||1||0
+|-
+|2023||5||0
+|-
+|2024||3||0
+|-
+|2025||10||0
+|-
+|2026||3||0
+|-
+!colspan="2"|Total!!32!!0
+|}
+
+==Honours==
+'''Nice'''
+* [[Coupe de France]] runner-up: [[2021–22 Coupe de France|2021–22]],<ref>{{cite web |date=7 May 2022 |title=Ludovic Blas penalty wins French Cup for Nantes |url=https://www.bbc.com/sport/football/61366648 |access-date=11 September 2022 |website=BBC Sport}}</ref> [[2025–26 Coupe de France|2025–26]]<ref>{{cite web |last=Brotherton |first=Alex |date=22 May 2026 |title=Lens 3-1 Nice: Lens end Coupe de France curse to lift trophy for first time in their history |url=https://www.bbc.com/sport/football/live/c8xw1nr8kq1t |access-date=22 May 2026 |website=BBC Sport}}</ref>
+
+'''Algeria'''
+* [[Africa Cup of Nations]]: [[2019 Africa Cup of Nations|2019]]<ref>{{cite web|url=https://www.bbc.com/sport/live/football/49048899|title=Algeria hold on against Senegal to win Afcon|website=BBC Sport|date=19 July 2019}}</ref>
+
+'''Individual'''
+* [[OGC Nice|Nice]] Young Player of the Season: [[2019–20 OGC Nice season|2019–20]]<ref>{{cite web|title=Hicham Boudaoui named Crédit Agricole young of player of the season|url=https://www.ogcnice.com/en/news/39789/hicham-boudaoui-named-credit-agricole-young-of-player-of-the-season|website=OGCNice.com|publisher=OGC Nice|date=20 May 2020|access-date=24 May 2020}}{{Dead link|date=August 2024 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Soccerway|hichem-boudaoui/531058}}
+
+{{OGC Nice squad}}
+{{Navboxes
+| title = Algeria squads
+| bg = white
+| fg  = #006633
+| bordercolor = #006633
+| list1 = 
+{{Algeria squad 2019 Africa Cup of Nations}}
+{{Algeria squad 2023 Africa Cup of Nations}}
+{{Algeria squad 2025 Africa Cup of Nations}}
+{{Algeria squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Boudaoui, Hicham}}
+[[Category:1999 births]]
+[[Category:Living people]]
+[[Category:People from Béchar]]
+[[Category:Men's association football midfielders]]
+[[Category:Algeria men's under-23 international footballers]]
+[[Category:Algeria men's youth international footballers]]
+[[Category:Algeria men's international footballers]]
+[[Category:Algerian men's footballers]]
+[[Category:Algerian Ligue Professionnelle 1 players]]
+[[Category:Ligue 1 players]]
+[[Category:Championnat National 3 players]]
+[[Category:Paradou AC players]]
+[[Category:OGC Nice players]]
+[[Category:2019 Africa Cup of Nations players]]
+[[Category:2023 Africa Cup of Nations players]]
+[[Category:2025 Africa Cup of Nations players]]
+[[Category:2026 FIFA World Cup players]]
+[[Category:Expatriate men's footballers in France]]
+[[Category:Algerian expatriate sportspeople in France]]
+[[Category:21st-century Algerian sportsmen]]

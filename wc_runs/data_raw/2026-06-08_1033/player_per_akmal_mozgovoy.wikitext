@@ -1,0 +1,120 @@
+{{Short description|Uzbekistani footballer (born 1999)}}
+{{Use dmy dates|date=September 2025}}
+
+{{Family name hatnote|Vladimirovich|Mozgovoy|lang=East Slavic}}{{Infobox football biography
+| name = Akmal Mozgovoy
+| image = Akmal Mozgovoy 2.jpg
+| caption = 
+| fullname = Akmal Vladimirovich Mozgovoy
+| birth_date = {{birth date and age|1999|4|2|df=y}}
+| birth_place = [[Qarshi]], Uzbekistan
+| height = 1.80m
+| position = [[Midfielder]]
+| currentclub = [[Pakhtakor FC|Pakhtakor]]
+| clubnumber = 70
+| years1 = 2018–2025
+| clubs1 = [[FC Nasaf|Nasaf]]
+| caps1 = 163
+| goals1 = 13
+| years2 = 2025–2026
+| clubs2 = [[Baniyas Club|Baniyas]]
+| caps2 = 11
+| goals2 = 0
+| years3 = 2026–
+| clubs3 = [[Pakhtakor FC|Pakhtakor]]
+| caps3 = 0
+| goals3 = 0
+| nationalyears1 = 2018–2020
+| nationalteam1 = [[Uzbekistan national under-20 football team|Uzbekistan U20]]
+| nationalcaps1 = 3
+| nationalgoals1 = 0
+| nationalyears2 = 2021
+| nationalteam2 = [[Uzbekistan national under-23 football team|Uzbekistan U23]]
+| nationalcaps2 = 11
+| nationalgoals2 = 0
+| nationalyears3 = 2020–
+| nationalteam3 = [[Uzbekistan national football team|Uzbekistan]]
+| nationalcaps3 = 23
+| nationalgoals3 = 1
+| medaltemplates = {{MedalSport|Men's [[Association football|football]]}}
+{{MedalCountry|{{fb|UZB}}}}
+{{MedalCompetition|[[FIFA Series]]}}
+{{Medal|W|[[2026 FIFA Series (men's matches)#Uzbekistan|2026 Uzbekistan]]}}
+{{Medal|Competition|[[CAFA Nations Cup]]}}
+{{Medal|RU|[[2023 CAFA Nations Cup|2023 Kyrgyzstan–Uzbekistan]]|[[2023 CAFA Nations Cup squads#Uzbekistan|Team]]}}
+{{Medal|W|[[2025 CAFA Nations Cup|2025 Tajikistan–Uzbekistan]]|[[2025 CAFA Nations Cup squads#Uzbekistan|Team]]}}
+| club-update = 30 October 2025
+| nationalteam-update = 15:55, 30 March 2025 (UTC)
+}}
+'''Akmal Vladimirovich Mozgovoy''' ({{langx|uz|Akmal Mozgovoy}}; born 2 April 1999) is an Uzbek professional  [[association football|footballer]] who plays as a [[midfielder]] for [[Pakhtakor FC|Pakhtakor]] and the [[Uzbekistan national football team|Uzbekistan national team]].<ref>{{NFT player|79189|access-date=4 March 2021}}</ref><ref>{{soccerway|akmal-mozgovoy/534313|accessdate=4 March 2021}}</ref>
+
+==Career==
+===International===
+Mozgovoy made his debut for the [[Uzbekistan national football team|Uzbekistan]] main team on 3 September 2020 in a [[Friendly (sport)|Friendly]] match against [[Tajikistan national football team|Tajikistan]].<ref>[https://www.national-football-teams.com/matches/report/27778/Uzbekistan_Tajikistan.html Uzbekistan 2–1 Tajikistan]</ref>
+
+{| class="wikitable" style="text-align:center"
+|-
+!colspan=3|[[Uzbekistan national football team|Uzbekistan national team]]
+|-
+!Year!!Apps!!Goals
+|-
+|2020||3||0
+|-
+|2021||3||0
+|-
+|2022||2||0
+|-
+|2023||2||0
+|-
+|2024||2||0
+|-
+|2025||9||1
+|-
+|2026
+|2
+|0
+|-
+!Total||23||1
+|}
+''Statistics accurate as of match played 5 September 2025.''
+
+{| class="wikitable" style="font-size:95%;"
+! No. !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| style="text-align:center"|1 || 5 September 2025 || [[Olympic City Stadium]], Tashkent, Uzbekistan || {{fb|KGZ}} || style="text-align:center"|'''1'''–0|| style="text-align:center"|4–0|| [[2025 CAFA Nations Cup]]
+|}
+
+==Honours==
+'''Nasaf'''
+*[[Uzbekistan Super League]]: [[2024 Uzbekistan Super League|2024]]
+*[[Uzbekistan Cup]] winners: [[2021 Uzbekistan Cup|2021]], [[2022 Uzbekistan Cup|2022]], [[2023 Uzbekistan Cup|2023]]
+*[[Uzbekistan Super Cup]] winners: [[Uzbekistan Super Cup|2024]], [[Uzbekistan Super Cup|2025]], runner-up: [[2022 Uzbekistan Cup|2022]]
+*[[AFC Cup]] runner-up: [[2021 AFC Cup|2021]]
+
+'''Uzbekistan'''
+*[[FIFA Series]] Runner-Up: [[2026 FIFA Series (men's matches)#Uzbekistan|2026]]
+
+==References==
+{{reflist}}
+
+{{Baniyas SC squad}}
+{{Uzbekistan squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Mozgovoy, Akmal}}
+[[Category:1999 births]]
+[[Category:Living people]]
+[[Category:Uzbekistani men's footballers]]
+[[Category:Uzbekistani expatriate men's footballers]]
+[[Category:Uzbekistan men's international footballers]]
+[[Category:Uzbekistani people of Russian descent]]
+[[Category:Russian people of Uzbek descent]]
+[[Category:Men's association football midfielders]]
+[[Category:FC Nasaf players]]
+[[Category:Baniyas Club players]]
+[[Category:Uzbekistan Super League players]]
+[[Category:UAE Pro League players]]
+[[Category:Sportspeople from Qashqadaryo Region]]
+[[Category:Expatriate men's footballers in the United Arab Emirates]]
+[[Category:Uzbekistani expatriate sportspeople in the United Arab Emirates]]
+[[Category:Association football players not categorized by nationality]]
+[[Category:2026 FIFA World Cup players]]

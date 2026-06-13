@@ -1,0 +1,71 @@
+{{Short description|Men's association football team}}
+{{About|the men's team|the women's team|Ivory Coast women's national football team}}
+{{Use British English|date = April 2023}}
+{{Use dmy dates|date=April 2023}}
+{{Infobox national football team
+| Name                     = Ivory Coast
+| Badge                    = Cote Divoire Enblem.png
+| Badge_size               = 150px
+| Nickname                 = ''Les Éléphants'' (The Elephants)
+| Association              = [[Ivorian Football Federation|Fédération Ivorienne de Football]] (FIF)
+| Confederation            = [[Confederation of African Football|CAF]] (Africa)
+| Sub-confederation        = [[West African Football Union|WAFU]] (West Africa)
+| website                  = {{URL|https://www.fifciv.com/|fifciv.com}}
+| Coach                    = [[Emerse Faé]]
+| Captain                  = [[Franck Kessié]]
+| Most caps                = [[Didier Zokora]] (123)
+| Top scorer               = [[Didier Drogba]] ([[List of international goals scored by Didier Drogba|65]])
+| Home Stadium             = [[Alassane Ouattara Stadium]]
+| FIFA Trigramme           = CIV
+| FIFA Rank                = {{FIFA World Rankings|CIV}}
+| FIFA max                 = 12
+| FIFA max date            = February 2013, April–May 2013
+| FIFA min                 = 75
+| FIFA min date            = March–May 2004
+| Elo Rank                 = {{World Football Elo Ratings|Ivory Coast}}
+| Elo max                  = 10
+| Elo max date             = 26 January 2013
+| Elo min                  = 70
+| Elo min date             = 6 October 1996
+| pattern_la1              = _civ26h
+| pattern_b1               = _civ26h
+| pattern_ra1              = _civ26h
+| pattern_sh1              = _civ26h
+| pattern_so1              = 
+| leftarm1                 = EE6D13
+| body1                    = EE6D13
+| rightarm1                = EE6D13
+| shorts1                  = EE6D13
+| socks1                   = EE6D13
+| pattern_la2              = 
+| pattern_b2               = _civ26a
+| pattern_ra2              = 
+| pattern_sh2              = _civ26a
+| pattern_so2              =
+| leftarm2                 = FFFFFF
+| body2                    = FFFFFF
+| rightarm2                = FFFFFF
+| shorts2                  = FFFFFF
+| socks2                   = FFFFFF
+| First game               = {{fb|CIV}} 3–2 {{fb-rt|Dahomey}} <br /> (Madagascar, 13 April 1960)
+| Largest win              = {{nowrap|{{fb|CIV}} 11–0 {{fb-rt|CTA}}}} <br /> ([[Abidjan]], Ivory Coast; 27 December 1961)
+| Largest loss             = {{fb|NED}} 5–0 {{fb-rt|CIV}} <br /> ([[Rotterdam]], Netherlands; 4 June 2017)
+| World cup apps           = 4
+| World cup first          = 2006
+| World cup best           = Group stage ([[2006 FIFA World Cup|2006]], [[2010 FIFA World Cup|2010]], [[2014 FIFA World Cup|2014]])
+| Regional name            = [[Africa Cup of Nations]]
+| Regional cup apps        = 26
+| Regional cup first       = [[1965 African Cup of Nations|1965]]
+| Regional cup best        = '''Champions''' ([[1992 Africa Cup of Nations|1992]], [[2015 Africa Cup of Nations|2015]], [[2023 Africa Cup of Nations|2023]])
+| 2ndRegional name         = [[African Nations Championship]]
+| 2ndRegional cup apps     = 5
+| 2ndRegional cup first    = [[2009 African Nations Championship|2009]]
+| 2ndRegional cup best     = Third place ([[2016 African Nations Championship|2016]])
+| Confederations cup apps  = 1
+| Confederations cup first = [[1992 King Fahd Cup|1992]]
+| Confederations cup best  = Fourth place ([[1992 King Fahd Cup|1992]])
+}}
+
+The '''Ivory Coast national football team''' ([[French language|French]]: ''Équipe de football de Côte d'Ivoire'', recognized as the '''Côte d'Ivoire''' by [[FIFA]]<ref>{{Cite web|title=FIFA|url=https://www.fifa.com/fifa-world-ranking/CIV|access-date=|website=fifa.com|language=en|archive-date=6 October 2021|archive-url=https://web.archive.org/web/20211006102124/https://www.fifa.com/fifa-world-ranking/CIV|url-status=live}}</ref>) represents [[Ivory Coast]] in men's international [[Association football|football]]. Nicknamed ''the Elephants'', the team is managed by the [[Ivorian Football Federation]] (FIF). The team has won the [[Africa Cup of Nations]] three times, in [[1992 African Cup of Nations|1992]], [[2015 Africa Cup of Nations|2015]] and [[2023 Africa Cup of Nations|2023]], and has qualified for the [[FIFA World Cup]] four times, in [[2006 FIFA World Cup|2006]], [[2010 FIFA World Cup|2010]], [[2014 FIFA World Cup|2014]] and [[2026 FIFA World Cup|2026.]]
+
+Ivory Coast's home colours are all orange. Since 2020 their home games have been played at [[Alassane Ouattara Stadium]], in Abidjan. Prior to this their home ground was [[Felix Houphouet Boigny Stadium]], also in Abidjan. [[Didier Zokora]] holds the record for number of caps, with 123. The nation's leading goalscorer is [[Didier Drogba]], who scored 65 goals for ''the Elephants'' in 105 appearances.

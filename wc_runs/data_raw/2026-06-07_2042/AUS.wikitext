@@ -1,0 +1,92 @@
+{{Short description|none}}
+{{About|the men's team|the women's team|Australia women's national soccer team}}
+{{Use Australian English|date=January 2024}}
+{{Use dmy dates|date=January 2024}}
+{{Infobox national football team
+| Name               = Australia
+| Badge              = Australia national football team badge.svg
+| Badge_size         = 200px
+| Nickname           = [[Australian national sports team nicknames|Socceroos]]
+| Association        = [[Football Australia]]
+| Sub-confederation  = [[ASEAN Football Federation|AFF]] (Southeast Asia)
+| Confederation      = [[Asian Football Confederation|AFC]] (Asia; 1973–1978, 2006–present)<br />[[Oceania Football Confederation|OFC]] (Oceania; 1966–1972, 1979–2005)<ref>{{Cite web |date=2006-03-18 |title=OFC History |url=http://www.oceaniafootball.com/index.cgi?sID=23 |archive-url=https://web.archive.org/web/20060318111103/http://www.oceaniafootball.com/index.cgi?sID=23 |archive-date=18 March 2006 |access-date=2024-07-02 |website=Oceania Football Confederation}}</ref>
+| Coach              = [[Tony Popovic]]
+| Captain            = [[Mathew Ryan]]
+| Most caps          = [[Mark Schwarzer]] (109)
+| Top scorer         = [[Tim Cahill]] ([[List of international goals scored by Tim Cahill|50]])
+| Home Stadium       = [[List of soccer stadiums in Australia|Various]]
+| FIFA Trigramme     = AUS
+| FIFA Rank          = {{FIFA World Rankings|AUS}}
+| FIFA max           = 14
+| FIFA max date      = September 2009
+| FIFA min           = 102
+| FIFA min date      = November 2014
+| Elo Rank           = {{World Football Elo Ratings|Australia}}
+| Elo max            = 9
+| Elo max date       = 14 August 2001<ref>{{cite web|url=http://www.eloratings.net/Australia|title=World Football Elo Ratings|website=eloratings.net|access-date=11 February 2019|archive-date=13 February 2019|archive-url=https://web.archive.org/web/20190213085115/http://www.eloratings.net/Australia|url-status=live}}</ref>
+| Elo min            = 75
+| Elo min date       = November 1965
+| pattern_la1        = _aus26h
+| pattern_b1         = _aus26h
+| pattern_ra1        = _aus26h
+| pattern_sh1        = _aus26H
+| pattern_so1        = 
+| leftarm1           = FFFF00
+| body1              = FFFF00
+| rightarm1          = FFFF00
+| shorts1            = 07563E
+| socks1             = FFFFFF
+| pattern_la2        = _aus26a
+| pattern_b2         = _aus26a
+| pattern_ra2        = _aus26a
+| pattern_sh2        = _aus26h
+| pattern_so2        = 
+| leftarm2           = 07563E
+| body2              = 07563E
+| rightarm2          = 07563E
+| shorts2            = 07563E
+| socks2             = 07563E
+| First game         = {{fb|NZL}} [[1922 New Zealand v Australia soccer match|3–1]] {{fb-rt|AUS}}<br />([[Dunedin]], New Zealand; 17 June 1922)
+| Largest win        = {{fb|AUS}} [[Australia 31–0 American Samoa|31–0]] {{fb-rt|ASA}}<br />([[Coffs Harbour]], Australia; 11 April 2001)<br /><small>(World record for senior international matches)</small><ref>{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/world_cup_2002/1271854.stm |archive-url=https://web.archive.org/web/20171120061219/http://news.bbc.co.uk/sport1/hi/football/world_cup_2002/1271854.stm |url-status=live |archive-date=20 November 2017 |title=Aussie footballers smash world record |date=11 April 2001 |work=BBC Sport |access-date=10 June 2012 }}</ref>
+| Largest loss       = {{fb|AUS}} 0–8 {{fb-rt|RSA|1928}}<br />([[Adelaide]], Australia; 17 September 1955)
+| World cup apps           = 7
+| World cup first          = 1974
+| World cup best           = Round of 16 ([[2006 FIFA World Cup|2006]], [[2022 FIFA World Cup|2022]])
+| Regional name            = [[AFC Asian Cup|Asian Cup]]
+| Regional cup apps        = 5
+| Regional cup first       = [[2007 AFC Asian Cup|2007]]
+| Regional cup best        = '''Champions''' ([[2015 AFC Asian Cup|2015]])
+| 2ndRegional name         = [[OFC Nations Cup]]
+| 2ndRegional cup apps     = 6
+| 2ndRegional cup first    = [[1980 OFC Nations Cup|1980]]
+| 2ndRegional cup best     = '''Champions''' ([[1980 OFC Nations Cup|1980]], [[1996 OFC Nations Cup|1996]], [[2000 OFC Nations Cup|2000]], [[2004 OFC Nations Cup|2004]])
+| Confederations cup apps  = 4
+| Confederations cup first = [[1997 FIFA Confederations Cup|1997]]
+| Confederations cup best  = Runners-up ([[1997 FIFA Confederations Cup|1997]])
+| website = {{nowrap|{{URL|https://www.socceroos.com.au|socceroos.com.au}}}}
+| medaltemplates           =
+{{MedalSport|Men's [[Association football|football]]}}
+{{Medal|Competition|[[FIFA Confederations Cup]]}}
+{{Medal|Silver|[[1997 FIFA Confederations Cup|1997 Saudi Arabia]]|Team}}
+{{Medal|Bronze|[[2001 FIFA Confederations Cup|2001 Korea and Japan]]|Team}}
+{{Medal|Competition|[[AFC Asian Cup]]}}
+{{Medal|Gold|[[2015 AFC Asian Cup|2015 Australia]]|Team}}
+{{Medal|Silver|[[2011 AFC Asian Cup|2011 Qatar]]|Team}}
+{{Medal|Competition|[[OFC Nations Cup]]}}
+{{Medal|Gold|[[1980 OFC Nations Cup|1980 New Caledonia]]|Team}}
+{{Medal|Gold|[[1996 OFC Nations Cup|1996 No Host]]|Team}}
+{{Medal|Gold|[[2000 OFC Nations Cup|2000 Tahiti]]|Team}}
+{{Medal|Gold|[[2004 OFC Nations Cup|2004 Australia]]|Team}}
+{{Medal|Silver|[[1998 OFC Nations Cup|1998 Australia]]|Team}}
+{{Medal|Silver|[[2002 OFC Nations Cup|2002 New Zealand]]|Team}}
+{{Medal|Competition|[[AFC–OFC Challenge Cup]]}}
+{{Medal|Silver|[[2001 AFC–OFC Challenge Cup|2001 Japan]]|Team}}
+}}
+
+The '''Australia men's national soccer team''' represents [[Australia]] in international men's [[Association football|soccer]]. Officially nicknamed the '''Socceroos''',<ref>{{cite news|url=https://www.smh.com.au/sport/soccer/fresh-deal-socceroos-ink-record-breaking-sponsorship-deal-20220921-p5bjv1.html|title=Fresh deal: Socceroos ink record-breaking sponsorship deal|first=Vince|last=Rugari|newspaper=[[The Sydney Morning Herald]]|date=22 September 2022}}</ref> the team is controlled by the governing body for [[soccer in Australia]], [[Football Australia]], which is affiliated with the [[Asian Football Confederation]] (AFC) and the regional [[ASEAN Football Federation]] (AFF).
+
+The team played its [[1922 New Zealand v Australia soccer match|first match]] in 1922 and originally participated in the [[Oceania Football Confederation]] (OFC). In this confederation, Australia won the [[OFC Nations Cup]] four times between 1980 and 2004, and dominated many [[FIFA World Cup qualification]] campaigns during earlier rounds. The team won [[Australia 31–0 American Samoa|31–0]] against [[American Samoa national football team|American Samoa]] in a FIFA World Cup qualification match, achieving the world record for the largest victory in a senior international match. Despite this, the team only managed to qualify for the [[FIFA World Cup]] twice in 11 attempts while in this confederation, due to Oceania's single qualification berth always leading to an intercontinental playoff, and thus, not guaranteeing straight qualification. 
+
+The team moved to the AFC in 2006, winning the [[AFC Asian Cup]] once in [[2015 AFC Asian Cup|2015]] (as hosts) and finishing runners-up in [[2011 AFC Asian Cup|2011]]. By winning this competition, Australia became the only team in the world to have won two different confederation cups.<ref>{{cite news|url=https://www.theguardian.com/football/2015/jan/31/socceroos-lift-asian-cup-after-dramatic-extra-time-win-over-south-korea|title=Socceroos lift Asian Cup after dramatic extra-time win over South Korea|newspaper=[[The Guardian]]|date=31 January 2015}}</ref> Since moving confederations, the team has also qualified for the World Cup in every attempt, qualifying five additional times for an overall seven qualifications. Australia has made appearances in the World Cup knockout stages twice, having progressed to this stage in [[2006 FIFA World Cup|2006]] and [[2022 FIFA World Cup|2022]]. Despite being part of the AFF, Australia has not joined the [[ASEAN Championship]] due to mutual agreement.
+
+The team additionally represented Australia at the now-defunct [[FIFA Confederations Cup]] four times, winning a silver and bronze medal in [[1997 FIFA Confederations Cup|1997]] and [[2001 FIFA Confederations Cup|2001]] respectively. [[Mark Schwarzer]] has the most caps for Australia, with 109 to his name, while [[Tim Cahill]] has the [[List of international goals scored by Tim Cahill|most goals scored]], with 50. Australia initially developed a [[Australia–New Zealand soccer rivalry|rivalry]] with [[New Zealand men's national football team|New Zealand]] and a [[Australia–Uruguay football rivalry|rivalry]] with [[Uruguay national football team|Uruguay]], and, after joining the AFC, has developed a fierce [[Australia–Japan football rivalry|rivalry]] with [[Japan national football team|Japan]].

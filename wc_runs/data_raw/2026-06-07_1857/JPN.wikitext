@@ -1,0 +1,35 @@
+===Current squad===
+The following 26 players were called up to the [[2026 FIFA World Cup]].<ref>{{cite web |url=https://www.jfa.jp/eng/samuraiblue/news/00036338/ |title=SAMURAI BLUE (Japan National Team) squad & schedule - KIRIN CHALLENGE CUP 2026 vs Iceland (5/31@Tokyo), FIFA World Cup 2026™ (6/11-7/19@Canada, Mexico, USA) |publisher=JFA |date=15 May 2026 |access-date=25 May 2026}}</ref>
+<br />''[[Cap (sport)|Caps]] and [[Goal (sports)#Association football|goals]] as of 31 May 2026, after the match against [[Iceland national football team|Iceland]].''<ref>{{cite web |title=Selected Players / Staff |publisher=JFA |access-date=25 May 2026 |url=https://jfa.jp/eng/samuraiblue/20260331/member.html}}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Zion Suzuki]]|sortname=Suzuki, Zion|age={{birth date and age|2002|8|21|df=y}}|caps=24|goals=0|club=[[Parma Calcio 1913|Parma]]|clubnat=ITA}}
+{{nat fs g player|no=12|pos=GK|name=[[Keisuke Ōsako]]|sortname=Osako, Keisuke|age={{birth date and age|1999|7|28|df=y}}|caps=11|goals=0|club=[[Sanfrecce Hiroshima]]||clubnat=JPN}}
+{{nat fs g player|no=23|pos=GK|name=[[Tomoki Hayakawa]]|sortname=Hayakawa, Tomoki|age={{birth date and age|1999|3|3|df=y}}|caps=4|goals=0|club=[[Kashima Antlers]]||clubnat=JPN}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Yukinari Sugawara]]|sortname=Sugawara, Yukinari|age={{birth date and age|2000|6|28|df=y}}|caps=21|goals=2|club=[[SV Werder Bremen|Werder Bremen]]|clubnat=GER}}
+{{nat fs g player|no=3|pos=DF|name=[[Shōgo Taniguchi]]|sortname=Taniguchi, Shogo|age={{birth date and age|1991|7|15|df=y}}|caps=38|goals=1|club=[[Sint-Truidense V.V.|Sint-Truiden]]|clubnat=BEL}}
+{{nat fs g player|no=4|pos=DF|name=[[Kō Itakura]]|sortname=Itakura, Ko|age={{birth date and age|1997|1|27|df=y}}|caps=40|goals=2|club=[[AFC Ajax|Ajax]]|clubnat=NED}}
+{{nat fs g player|no=5|pos=DF|name=[[Yūto Nagatomo]]|sortname=Nagatomo, Yuto|age={{birth date and age|1986|9|12|df=y}}|caps=145|goals=4|club=[[FC Tokyo]]||clubnat=JPN}}
+{{nat fs g player|no=16|pos=DF|name=[[Tsuyoshi Watanabe]]|sortname=Watanabe, Tsuyoshi|age={{birth date and age|1997|2|5|df=y}}|caps=11|goals=0|club=[[Feyenoord]]|clubnat=NED}}
+{{nat fs g player|no=20|pos=DF|name=[[Ayumu Seko]]|sortname=Seko, Ayumu|age={{birth date and age|2000|6|7|df=y}}|caps=14|goals=0|club=[[Le Havre AC|Le Havre]]|clubnat=FRA}}
+{{nat fs g player|no=21|pos=DF|name=[[Hiroki Itō (footballer, born 1999)|Hiroki Itō]]|sortname=Ito, Hiroki|age={{birth date and age|1999|5|12|df=y}}||caps=24|goals=1|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs g player|no=22|pos=DF|name=[[Takehiro Tomiyasu]]|sortname=Tomiyasu, Takehiro|age={{birth date and age|1998|11|5|df=y}}|caps=43|goals=1|club=[[AFC Ajax|Ajax]]|clubnat=NED}}
+{{nat fs g player|no=25|pos=DF|name=[[Junnosuke Suzuki]]|sortname=Suzuki, Junnosuke|age={{birth date and age|2003|7|12|df=y}}|caps=6|goals=0|club=[[F.C. Copenhagen|Copenhagen]]||clubnat=DEN}}
+{{nat fs break}}
+{{nat fs g player|no=6|pos=MF|name=[[Wataru Endo]]|sortname=Endo, Wataru|other=[[Captain (association football)|captain]]|age={{birth date and age|1993|2|9|df=y}}|caps=73|goals=4|club=[[Liverpool F.C.|Liverpool]]||clubnat=ENG}}
+{{nat fs g player|no=7|pos=MF|name=[[Ao Tanaka]]|sortname=Tanaka, Ao|age={{birth date and age|1998|9|10|df=y}}|caps=38|goals=8|club=[[Leeds United F.C.|Leeds United]]|clubnat=ENG}}
+{{nat fs g player|no=8|pos=MF|name=[[Takefusa Kubo]]|sortname=Kubo, Takefusa|age={{birth date and age|2001|6|4|df=y}}|caps=49|goals=7|club=[[Real Sociedad]]|clubnat=ESP}}
+{{nat fs g player|no=10|pos=MF|name=[[Ritsu Dōan]]|sortname=Doan, Ritsu|age={{birth date and age|1998|6|16|df=y}}|caps=65|goals=11|club=[[Eintracht Frankfurt]]|clubnat=GER}}
+{{nat fs g player|no=13|pos=MF|name=[[Keito Nakamura]]|sortname=Nakamura, Keito|age={{birth date and age|2000|7|28|df=y}}|caps=25|goals=10|club=[[Stade de Reims|Reims]]|clubnat=FRA}}
+{{nat fs g player|no=14|pos=MF|name=[[Junya Itō]]|sortname=Ito, Junya|age={{birth date and age|1993|3|9|df=y}}|caps=69|goals=15|club=[[KRC Genk|Genk]]|clubnat=BEL}}
+{{nat fs g player|no=15|pos=MF|name=[[Daichi Kamada]]|sortname=Kamada, Daichi|age={{birth date and age|1996|8|5|df=y}}|caps=49|goals=12|club=[[Crystal Palace F.C.|Crystal Palace]]|clubnat=ENG}}
+{{nat fs g player|no=24|pos=MF|name=[[Kaishu Sano]]|sortname=Sano, Kaishu|age={{birth date and age|2000|12|30|df=y}}|caps=13|goals=0|club=[[1. FSV Mainz 05|Mainz 05]]|clubnat=GER}}
+{{nat fs break}}
+{{nat fs g player|no=9|pos=FW|name=[[Keisuke Gotō]]|sortname=Goto, Keisuke|age={{birth date and age|2005|6|3|df=y}}|caps=4|goals=0|club=[[Sint-Truidense V.V.|Sint-Truiden]]|clubnat=BEL}}
+{{nat fs g player|no=11|pos=FW|name=[[Daizen Maeda]]|sortname=Maeda, Daizen|age={{birth date and age|1997|10|20|df=y}}|caps=27|goals=4|club=[[Celtic F.C.|Celtic]]|clubnat=SCO}}
+{{nat fs g player|no=17|pos=FW|name=[[Yuito Suzuki]]|sortname=Suzuki, Yuito|age={{birth date and age|2001|10|25|df=y}}|caps=6|goals=0|club=[[SC Freiburg]]|clubnat=GER}}
+{{nat fs g player|no=18|pos=FW|name=[[Ayase Ueda]]|sortname=Ueda, Ayase|age={{birth date and age|1998|8|28|df=y}}|caps=39|goals=16|club=[[Feyenoord]]|clubnat=NED}}
+{{nat fs g player|no=19|pos=FW|name=[[Kōki Ogawa (footballer)|Kōki Ogawa]]|sortname=Ogawa, Koki|age={{birth date and age|1997|8|8|df=y}}|caps=15|goals=11|club=[[NEC Nijmegen|NEC]]|clubnat=NED}}
+{{nat fs g player|no=26|pos=FW|name=[[Kento Shiogai]]|sortname=Shiogai, Kento|age={{birth date and age|2005|3|26|df=y}}|caps=2|goals=0|club=[[VfL Wolfsburg]]|clubnat=GER}}
+{{nat fs end}}

@@ -1,0 +1,328 @@
+[
+ {
+  "player_id": "443710",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/443710",
+  "name": "AngeloStiller",
+  "shirt_number": 6,
+  "club": "Joined:",
+  "club_id": "79",
+  "market_value": "€45.00m",
+  "market_value_numeric": 45000000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Social-Media:",
+  "nationality": "Germany",
+  "citizenships": [
+   "Germany",
+   "Germany",
+   "Germany",
+   "Germany",
+   "Germany",
+   "Germany"
+  ],
+  "market_value_history": [
+   {
+    "date": "Jan 1, 2020",
+    "value": "€200k",
+    "value_numeric": 200000,
+    "club": "FC Bayern Munich II",
+    "age": "18"
+   },
+   {
+    "date": "Apr 3, 2020",
+    "value": "€450k",
+    "value_numeric": 450000,
+    "club": "FC Bayern Munich II",
+    "age": "18"
+   },
+   {
+    "date": "Apr 8, 2020",
+    "value": "€400k",
+    "value_numeric": 400000,
+    "club": "FC Bayern Munich II",
+    "age": "19"
+   },
+   {
+    "date": "Jul 17, 2020",
+    "value": "€1.30m",
+    "value_numeric": 1300000,
+    "club": "FC Bayern Munich II",
+    "age": "19"
+   },
+   {
+    "date": "Nov 11, 2020",
+    "value": "€2.00m",
+    "value_numeric": 2000000,
+    "club": "FC Bayern Munich II",
+    "age": "19"
+   },
+   {
+    "date": "Jan 20, 2021",
+    "value": "€2.50m",
+    "value_numeric": 2500000,
+    "club": "FC Bayern Munich II",
+    "age": "19"
+   },
+   {
+    "date": "Jun 14, 2021",
+    "value": "€2.50m",
+    "value_numeric": 2500000,
+    "club": "FC Bayern Munich II",
+    "age": "20"
+   },
+   {
+    "date": "Oct 7, 2021",
+    "value": "€3.50m",
+    "value_numeric": 3500000,
+    "club": "TSG 1899 Hoffenheim",
+    "age": "20"
+   },
+   {
+    "date": "Dec 22, 2021",
+    "value": "€4.00m",
+    "value_numeric": 4000000,
+    "club": "TSG 1899 Hoffenheim",
+    "age": "20"
+   },
+   {
+    "date": "Mar 24, 2022",
+    "value": "€6.00m",
+    "value_numeric": 6000000,
+    "club": "TSG 1899 Hoffenheim",
+    "age": "20"
+   },
+   {
+    "date": "Jun 9, 2022",
+    "value": "€7.00m",
+    "value_numeric": 7000000,
+    "club": "TSG 1899 Hoffenheim",
+    "age": "21"
+   },
+   {
+    "date": "Nov 9, 2022",
+    "value": "€6.00m",
+    "value_numeric": 6000000,
+    "club": "TSG 1899 Hoffenheim",
+    "age": "21"
+   },
+   {
+    "date": "Jun 22, 2023",
+    "value": "€5.00m",
+    "value_numeric": 5000000,
+    "club": "TSG 1899 Hoffenheim",
+    "age": "22"
+   },
+   {
+    "date": "Oct 18, 2023",
+    "value": "€7.50m",
+    "value_numeric": 7500000,
+    "club": "VfB Stuttgart",
+    "age": "22"
+   },
+   {
+    "date": "Dec 14, 2023",
+    "value": "€14.00m",
+    "value_numeric": 14000000,
+    "club": "VfB Stuttgart",
+    "age": "22"
+   },
+   {
+    "date": "Mar 27, 2024",
+    "value": "€18.00m",
+    "value_numeric": 18000000,
+    "club": "VfB Stuttgart",
+    "age": "22"
+   },
+   {
+    "date": "May 29, 2024",
+    "value": "€20.00m",
+    "value_numeric": 20000000,
+    "club": "VfB Stuttgart",
+    "age": "23"
+   },
+   {
+    "date": "Oct 9, 2024",
+    "value": "€28.00m",
+    "value_numeric": 28000000,
+    "club": "VfB Stuttgart",
+    "age": "23"
+   },
+   {
+    "date": "Dec 20, 2024",
+    "value": "€32.00m",
+    "value_numeric": 32000000,
+    "club": "VfB Stuttgart",
+    "age": "23"
+   },
+   {
+    "date": "Mar 27, 2025",
+    "value": "€38.00m",
+    "value_numeric": 38000000,
+    "club": "VfB Stuttgart",
+    "age": "23"
+   },
+   {
+    "date": "Jun 5, 2025",
+    "value": "€45.00m",
+    "value_numeric": 45000000,
+    "club": "VfB Stuttgart",
+    "age": "24"
+   },
+   {
+    "date": "Dec 19, 2025",
+    "value": "€45.00m",
+    "value_numeric": 45000000,
+    "club": "VfB Stuttgart",
+    "age": "24"
+   },
+   {
+    "date": "May 27, 2026",
+    "value": "€45.00m",
+    "value_numeric": 45000000,
+    "club": "VfB Stuttgart",
+    "age": "25"
+   }
+  ],
+  "peak_market_value": 45000000,
+  "transfers": [],
+  "_our_pid": "per_angelo_stiller"
+ },
+ {
+  "player_id": "691892",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/691892",
+  "name": "NathanielBrown",
+  "shirt_number": 21,
+  "club": "Joined:",
+  "club_id": "24",
+  "market_value": "€40.00m",
+  "market_value_numeric": 40000000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Outfitter:",
+  "nationality": "Germany",
+  "citizenships": [
+   "Germany",
+   "Germany",
+   "Germany",
+   "Germany",
+   "Germany",
+   "Germany",
+   "United States"
+  ],
+  "market_value_history": [
+   {
+    "date": "Jul 1, 2022",
+    "value": "€100k",
+    "value_numeric": 100000,
+    "club": "1.FC Nuremberg",
+    "age": "19"
+   },
+   {
+    "date": "Oct 6, 2022",
+    "value": "€150k",
+    "value_numeric": 150000,
+    "club": "1.FC Nuremberg",
+    "age": "19"
+   },
+   {
+    "date": "Nov 30, 2022",
+    "value": "€150k",
+    "value_numeric": 150000,
+    "club": "1.FC Nuremberg",
+    "age": "19"
+   },
+   {
+    "date": "Dec 30, 2022",
+    "value": "€200k",
+    "value_numeric": 200000,
+    "club": "1.FC Nuremberg",
+    "age": "19"
+   },
+   {
+    "date": "Jun 28, 2023",
+    "value": "€700k",
+    "value_numeric": 700000,
+    "club": "1.FC Nuremberg",
+    "age": "20"
+   },
+   {
+    "date": "Oct 20, 2023",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "1.FC Nuremberg",
+    "age": "20"
+   },
+   {
+    "date": "Dec 15, 2023",
+    "value": "€3.00m",
+    "value_numeric": 3000000,
+    "club": "1.FC Nuremberg",
+    "age": "20"
+   },
+   {
+    "date": "Jun 6, 2024",
+    "value": "€3.00m",
+    "value_numeric": 3000000,
+    "club": "1.FC Nuremberg",
+    "age": "20"
+   },
+   {
+    "date": "Dec 20, 2024",
+    "value": "€8.00m",
+    "value_numeric": 8000000,
+    "club": "Eintracht Frankfurt",
+    "age": "21"
+   },
+   {
+    "date": "Mar 27, 2025",
+    "value": "€15.00m",
+    "value_numeric": 15000000,
+    "club": "Eintracht Frankfurt",
+    "age": "21"
+   },
+   {
+    "date": "Jun 5, 2025",
+    "value": "€22.00m",
+    "value_numeric": 22000000,
+    "club": "Eintracht Frankfurt",
+    "age": "21"
+   },
+   {
+    "date": "Oct 14, 2025",
+    "value": "€30.00m",
+    "value_numeric": 30000000,
+    "club": "Eintracht Frankfurt",
+    "age": "22"
+   },
+   {
+    "date": "Dec 19, 2025",
+    "value": "€35.00m",
+    "value_numeric": 35000000,
+    "club": "Eintracht Frankfurt",
+    "age": "22"
+   },
+   {
+    "date": "May 27, 2026",
+    "value": "€40.00m",
+    "value_numeric": 40000000,
+    "club": "Eintracht Frankfurt",
+    "age": "22"
+   }
+  ],
+  "peak_market_value": 40000000,
+  "transfers": [],
+  "_our_pid": "per_nathaniel_brown"
+ }
+]

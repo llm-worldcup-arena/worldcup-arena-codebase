@@ -1,0 +1,251 @@
+{{short description|Moroccan footballer (born 2002)}}
+{{Use dmy dates|date=October 2024}}
+{{Infobox football biography
+|name = Anass Salah-Eddine
+|image = Anass_Salah-Eddine_against_Paraguay_(cropped).jpg
+|caption = Salah-Eddine with [[Morocco national football team|Morocco]] in 2026
+|full_name = <!--if differs from name-->
+|birth_name = <!--if differs from full_name-->
+|birth_date = {{Birth date and age|2002|1|18|df=y}}
+|birth_place = [[Amsterdam]], Netherlands
+|height = 1.80 m
+|position = [[Left-back]], [[left wing-back]]
+|currentclub = [[PSV Eindhoven|PSV]]<br>(on loan from [[AS Roma|Roma]])
+|clubnumber = 2
+|youthyears1 = 
+|youthclubs1 = [[Blauw-Wit Amsterdam]]
+|youthyears2 = 
+|youthclubs2 = RKSV Pancratius
+|youthyears3 = {{0|0000}}–2015
+|youthclubs3 = [[Amsterdamsche FC]]
+|youthyears4 = 2015–2018
+|youthclubs4 = [[AZ Alkmaar|AZ]]
+|youthyears5 = 2018–2022
+|youthclubs5 = [[AFC Ajax|Ajax]]
+|years1 = 2020–2024
+|clubs1 = [[Jong Ajax]]
+|caps1 = 35
+|goals1 = 2
+|years2 = 2022–2024
+|clubs2 = [[AFC Ajax|Ajax]]
+|caps2 = 7
+|goals2 = 0
+|years3 = 2022–2023
+|clubs3 = → [[FC Twente|Twente]] (loan)
+|caps3 = 14
+|goals3 = 0
+|years4 = 2024–2025
+|clubs4 = [[FC Twente|Twente]]
+|caps4 = 24
+|goals4 = 2
+|years5 = 2025–
+|clubs5 = [[AS Roma|Roma]]
+|caps5 = 3
+|goals5 = 0
+|years6 = 2025–
+|clubs6 = → [[PSV Eindhoven|PSV]] (loan)
+|caps6 = 17
+|goals6 = 0
+|nationalyears1 = 2017
+|nationalteam1 = [[Netherlands national under-15 football team|Netherlands U15]]
+|nationalcaps1 = 3
+|nationalgoals1 = 0
+|nationalyears2 = 2017–2018
+|nationalteam2 = [[Netherlands national under-16 football team|Netherlands U16]]
+|nationalcaps2 = 7
+|nationalgoals2 = 1
+|nationalyears3 = 2018–2019
+|nationalteam3 = [[Netherlands national under-17 football team|Netherlands U17]]
+|nationalcaps3 = 23
+|nationalgoals3 = 1
+|nationalyears4 = 2019
+|nationalteam4 = [[Netherlands national under-18 football team|Netherlands U18]]
+|nationalcaps4 = 3
+|nationalgoals4 = 0
+|nationalyears5 = 2023–2025
+|nationalteam5 = [[Netherlands national under-21 football team|Netherlands U21]]
+|nationalcaps5 = 13
+|nationalgoals5 = 0
+|nationalyears6 = 2025–
+|nationalteam6 = [[Morocco national football team|Morocco]]
+|nationalcaps6 = 8
+|nationalgoals6 = 0
+|pcupdate = 17 May 2026
+|ntupdate = 31 March 2026
+|medaltemplates = {{MedalSport|Men's [[association football|football]]}}
+{{MedalCountry|{{fb|MAR}}}}
+{{MedalCompetition|[[Africa Cup of Nations]]}}
+{{Medal|W|[[2025 Africa Cup of Nations|2025 Morocco]]|}}{{MedalCountry|{{fb|NED}}}}
+{{MedalCompetition|[[UEFA European Under-17 Championship]]}}
+{{Medal|W|[[2019 UEFA European Under-17 Championship|2019 Republic of Ireland]]|}}
+}}
+
+'''Anass Salah-Eddine'''<ref>{{cite web |url=https://www.fifadata.com/documents/FU17WC/2019/pdf/FU17WC_2019_Squadlists.pdf |title=FIFA U-17 World Cup Brazil 2019: List of Players: Netherlands |publisher=FIFA |page=16 |date=31 October 2019 |archive-url=https://web.archive.org/web/20191227222540/https://www.fifadata.com/documents/FU17WC/2019/pdf/FU17WC_2019_Squadlists.pdf |archive-date=27 December 2019}}</ref> ({{Langx|ar|أنس صلاح الدين}}; born 18 January 2002) is a professional [[association football|footballer]] who plays as a [[left-back]] or [[left wing-back]] for {{Dutch football updater|PSVEindho}} club [[PSV Eindhoven|PSV]], on loan from {{Italian football updater|Roma}} club [[AS Roma|Roma]], and the [[Morocco national football team|Morocco national team]].
+
+== Club career ==
+Salah-Eddine's youth career started with [[Jong Ajax]] in 2018. On 1 August 2022, he signed a contract extension until the end of the 2025 season. He then joined [[FC Twente|Twente]] on loan for the [[2022–23 FC Twente season|2022–23 season]].<ref>{{Cite web |title=Contractverlenging en verhuur voor Anass Salah-Eddine |url=https://www.ajax.nl/artikelen/contractverlenging-en-verhuur-anass-salah-eddine/ |access-date=1 August 2022 |website=www.ajax.nl |language=nl-NL}}</ref> On 1 February 2024, he joined Twente on a permanent deal until 2027.<ref>{{Cite web |title=Anass Salah-Eddine naar FC Twente |url=https://fctwente.nl/nieuws/anass-salah-eddine-naar-fc-twente |access-date=1 February 2024 |website=fctwente.nl |language=nl-NL}}</ref>
+
+On 3 February 2025, Salah-Eddine joined [[Serie A]] club [[AS Roma|Roma]].<ref>{{cite web |url=https://www.asroma.com/en/news/72754/anass-salah-eddine-joins-roma |title=Anass Salah-Eddine joins Roma |publisher=AS Roma |date=3 February 2025 }}</ref>
+
+On 31 August 2025, Salah-Eddine returned to the Netherlands and joined reigning champions [[PSV Eindhoven|PSV]], on an initial one-year loan with an option to buy.<ref>{{cite web|publisher=PSV Eindhoven|url=https://www.psv.nl/en/media/artikel/transfer-psv-verwelkomt-anass-salah-eddine|title=Transfer {{!}} PSV welcomes Anass Salah-Eddine|date=31 August 2025|access-date=10 September 2025}}</ref>
+
+==International career==
+Born in the Netherlands, Salah-Eddine is of [[Morocco|Moroccan]] descent. He is a youth international for the Netherlands.<ref>{{Cite web|url=https://lionsdelatlas.ma/2457470-au-moins-41-marocains-en-deuxieme-division-neerlandaise|title=Au moins 41 Marocains en deuxième division néerlandaise|date=20 August 2019}}{{Dead link|date=February 2022 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> On 21 October 2025, his request to switch international allegiance to Morocco was approved by [[FIFA]].<ref name="FIFA-CAP">{{cite news|url=https://knowledge.fifa.com/change-of-association-platform|title=FIFA Change of Association Platform|website=knowledge.fifa.com|date=21 October 2025|access-date=21 October 2025}}</ref>
+
+On 11 December 2025, Salah-Eddine was called up to the Morocco squad for the [[2025 Africa Cup of Nations]].<ref>{{cite web|url=https://www.cafonline.com/afcon2025/news/morocco-name-star-studded-afcon-squad-as-hakimi-makes-cut-but-diop-misses-out/|title=Morocco name star-studded AFCON squad as Hakimi makes cut but Diop misses out|publisher=[[Confederation of African Football]]|date=11 December 2025|access-date=12 December 2025}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 17 May 2026}}<ref>{{Soccerway|anass-salah-eddine/525927|access-date=10 April 2020}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup{{efn|Includes [[KNVB Cup]]}}
+!colspan="2"|Europe
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="5"|[[Jong Ajax]]
+|[[2019–20 Eerste Divisie|2019–20]]
+|[[Eerste Divisie]]
+|1||0||colspan="2"|—||colspan="2"|—||0||0||1||0
+|-
+|[[2020–21 Jong Ajax season|2020–21]]
+|Eerste Divisie
+|3||0||colspan="2"|—||colspan="2"|—||0||0||3||0
+|-
+|[[2021–22 Jong Ajax season|2021–22]]
+|Eerste Divisie
+|21||1||0||0||colspan="2"|—||0||0||21||1
+|-
+|[[2023–24 Jong Ajax season|2023–24]]
+|Eerste Divisie
+|9||1||colspan="2"|—||colspan="2"|—||colspan="2"|—||9||1
+|-
+!colspan="2"|Total
+!34!!2!!0!!0!!colspan="2"|—!!0!!0!!34!!2
+|-
+|rowspan="3"|[[AFC Ajax|Ajax]]
+|[[2021–22 AFC Ajax season|2020–21]]
+|[[Eredivisie]]
+|1||0||0||0||0||0||0||0||1||0
+|-
+|[[2023–24 AFC Ajax season|2023–24]]
+|Eredivisie
+|6||0||0||0||2{{efn|Appearances in [[UEFA Europa League]]}}||0||0||0||8||0
+|-
+!colspan="2"|Total
+!7!!0!!0!!0!!2!!0!!0!!0!!9!!0
+|-
+|[[FC Twente|Twente]] (loan)
+|[[2022–23 FC Twente season|2022–23]]
+|Eredivisie
+|14||0||2||0||1{{efn|Appearance in [[UEFA Conference League|UEFA Europa Conference League]]}}||0||colspan="2"|—||17||0
+|-
+|rowspan="3"|Twente
+|[[2023–24 FC Twente season|2023–24]]
+|Eredivisie
+|6||0||0||0||colspan="2"|—||colspan="2"|—||6||0
+|-
+|[[2024–25 FC Twente season|2024–25]]
+|Eredivisie
+|18||2||1||0||10{{efn|Two appearances in [[UEFA Champions League]], eight appearances in UEFA Europa League}}||0||colspan="2"|—||29||2
+|-
+!colspan="2"|Total
+!24!!2!!1!!0!!10!!0!!colspan="2"|—!!35!!2
+|-
+|[[AS Roma|Roma]]
+|[[2024–25 AS Roma season|2024–25]]
+|[[Serie A]]
+|3||0||0||0||0||0||colspan="2"|—||3||0
+|-
+|[[PSV Eindhoven|PSV]] (loan)
+|[[2025–26 PSV Eindhoven season|2025–26]]
+|Eredivisie
+|17||0||1||0||7{{efn|Appearances in UEFA Champions League}}||0||colspan="2"|—||25||0
+|-
+!colspan="3"|Career total
+!99!!4!!4!!0!!20!!0!!0!!0!!123!!4
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 31 March 2026}}<ref>{{NFT player|101672|access-date=31 March 2026}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="2"|[[Morocco national football team|Morocco]]
+|2025||4||0
+|-
+|2026||4||0
+|-
+!colspan="2"|Total!!8!!0
+|}
+
+==Honours==
+'''PSV'''
+*[[Eredivisie]]: [[2025–26 Eredivisie|2025–26]]<ref>{{cite news |title=From championship jitters to record breakers: PSV's road to the title |url=https://www.flashscore.com/news/soccer-eredivisie-from-championship-jitters-to-record-breakers-psv-s-road-to-the-title/6iQALGwo/ |date=5 April 2026 |access-date=5 April 2026 |website=Flashscore}}</ref>
+
+'''Netherlands U17'''
+*[[UEFA European Under-17 Championship]]: [[2019 UEFA European Under-17 Championship|2019]]<ref name="euro19">{{cite web |title=Netherlands retain #U17EURO title: at a glance |url=https://www.uefa.com/under17/news/0252-0cda3713f2a5-734ecd159c81-1000--netherlands-retain-u17euro-title-at-a-glance/ |website=[[UEFA]] |language=en |date=19 May 2019}}</ref>
+
+'''Morocco'''
+*[[Africa Cup of Nations]]: [[2025 Africa Cup of Nations|2025]]<ref>{{Cite news |last=Bosher |first=Luke |last2=Joseph |first2=Sam |last3=Harris |first3=Jay |date=2026-03-18 |title=Morocco crowned AFCON winners 57 days after final as Senegal's victory declared void |url=https://www.nytimes.com/athletic/7126755/2026/03/17/afcon-morocco-senegal-final-overturned/ |access-date=2026-03-18 |work=The New York Times |language=en-US |issn=0362-4331}}</ref>
+
+'''Individual'''
+*[[Eredivisie]] Team of the Month: [[2024–25 Eredivisie#Monthly awards|October 2024]]<ref>{{cite news|title=FC Twente is the main supplier for the Eredivisie Team of the Month for October|url=https://eredivisie.eu/news/fc-twente-is-the-main-supplier-for-the-eredivisie-team-of-the-month-for-october/|website=Eredivisie|date=1 November 2024|access-date=1 November 2024}}</ref>
+
+==References==
+{{reflist}}
+
+{{PSV Eindhoven squad}}
+{{Navboxes
+|title=Morocco squads
+| bg = #C1272D
+| fg = white
+| bordercolor = #006233
+| list1 =
+{{Morocco squad 2025 Africa Cup of Nations}}
+{{Morocco squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Salah-Eddine, Anass}}
+[[Category:2002 births]]
+[[Category:Living people]]
+[[Category:Footballers from Amsterdam]]
+[[Category:Moroccan men's footballers]]
+[[Category:Morocco men's international footballers]]
+[[Category:Dutch men's footballers]]
+[[Category:Dutch expatriate men's footballers]]
+[[Category:Netherlands men's youth international footballers]]
+[[Category:Netherlands men's under-21 international footballers]]
+[[Category:Dutch people of Moroccan descent]]
+[[Category:Sportspeople of Moroccan descent]]
+[[Category:Men's association football defenders]]
+[[Category:Blauw-Wit Amsterdam players]]
+[[Category:Amsterdamsche FC players]]
+[[Category:AZ Alkmaar players]]
+[[Category:AFC Ajax players]]
+[[Category:Jong Ajax players]]
+[[Category:FC Twente players]]
+[[Category:AS Roma players]]
+[[Category:PSV Eindhoven players]]
+[[Category:Eredivisie players]]
+[[Category:Eerste Divisie players]]
+[[Category:Serie A players]]
+[[Category:2025 Africa Cup of Nations players]]
+[[Category:Africa Cup of Nations–winning players]]
+[[Category:21st-century Moroccan sportsmen]]
+[[Category:21st-century Dutch sportsmen]]
+[[Category:Expatriate men's footballers in Italy]]
+[[Category:Dutch expatriate sportspeople in Italy]]
+[[Category:Moroccan expatriate men's footballers]]
+[[Category:Moroccan expatriate sportspeople in Italy]]
+[[Category:2026 FIFA World Cup players]]

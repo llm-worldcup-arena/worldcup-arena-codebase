@@ -1,0 +1,16 @@
+{
+ "team": "TUR",
+ "source": "RotoWire",
+ "url": "https://www.rotowire.com/soccer/headlines/hakan-calhanoglu-injury-back-in-full-team-training-518892",
+ "title": "Hakan Calhanoglu Injury: Back in full team training | RotoWire",
+ "news_date": "2026-06-13",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "asof": "2026-06-13",
+ "fetched": "2026-06-13_0247",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "Calhanoglu (calf) has returned to full team training Monday for the first training of Turkiye on the american soil and will be an option for the World Cup opener against Australia on June 14, according to AA Spor.\n\nCalhanoglu had been gradually reintegrated into the group after a calf issue, and his return to full collective sessions is the clearest sign yet that the Inter Milan captain will be available to lead Turkiye from the start of the tournament. Coach Vincenzo Montella will be relieved to have his most important player fully fit heading into what promises to be a highly anticipated opening fixture.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

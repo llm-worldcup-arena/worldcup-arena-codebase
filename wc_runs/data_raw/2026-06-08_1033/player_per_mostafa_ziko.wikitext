@@ -1,0 +1,96 @@
+{{short description|Egyptian footballer (born 1997)}}
+{{Use dmy dates|date=May 2026}}
+{{Infobox football biography
+| name = Mostafa Ziko
+| image = 
+| caption = 
+| full_name = Mostafa Mohamed Zaky Abdelraouf<ref name="FIFA">{{cite web |url=https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf |title=FIFA World Cup 2026™ – Squad List: Egypt (EGY) |publisher=FIFA |page=17 |date=2 June 2026 |access-date=2 June 2026}}</ref>
+| birth_date = {{birth date and age|1997|4|27|df=y}}<ref name="FIFA"/>
+| birth_place = [[Alexandria]], Egypt
+| height = 1.79 m<ref name="FIFA"/>
+| position = [[Left winger]]
+| currentclub = [[Pyramids FC]]
+| clubnumber = 30
+| years1 = 2016–2019
+| clubs1 = [[Gomhoriat Shebin SC|Gomhoriat Shebin]]
+| caps1 = 
+| goals1 = 
+| years2 = 2019–2023
+| clubs2 = [[Haras El Hodoud SC|Haras El Hodoud]]
+| caps2 = 
+| goals2 = 
+| years3 = 2023–2025
+| clubs3 = [[ZED FC]]
+| caps3 = 56
+| goals3 = 18
+| years4 = 2025–
+| clubs4 = [[Pyramids FC]]
+| caps4 = 22
+| goals4 = 6
+| nationalyears1 = 2026–
+| nationalteam1 = [[Egypt national football team|Egypt]]
+| nationalcaps1 = 2
+| nationalgoals1 = 2
+| club-update = 17:36, 1 June 2026 (UTC)
+| ntupdate = 00:09, 7 June 2026 (UTC)
+}}
+
+'''Mostafa Mohamed Zaky Abdelraouf''' ({{langx|ar|مصطفى محمد زكي عبد الرؤوف}}; born 27 April 1997), known as '''Mostafa Ziko''', is an Egyptian professional [[Association football|footballer]] who plays as a [[left winger]] for [[Egyptian Premier League]] club [[Pyramids FC|Pyramids]] and the [[Egypt national football team|Egypt national team]].
+
+==Club career==
+Ziko began his career at [[Gomhoriat Shebin SC|Gomhoriat Shebin]] before joining [[Haras El Hodoud SC|Haras El Hodoud]] in 2019, where he spent four seasons developing as a winger in the [[Egyptian Premier League]].<ref>{{Cite web|url=https://ar.wikipedia.org/wiki/%D9%85%D8%B5%D8%B7%D9%81%D9%89_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%A4%D9%88%D9%81_%D8%B2%D9%8A%D9%83%D9%88|title=مصطفى عبد الرؤوف زيكو|website=ويكيبيديا العربية|access-date=1 June 2026|language=ar}}</ref>
+
+In August 2023 he joined ZED FC, where he established himself as one of the Egyptian Premier League's most effective wingers. He was the club's top scorer in the 2024–25 season, netting six goals and providing three assists in 23 league appearances, attracting interest from several clubs including [[Zamalek SC|Zamalek]] and a Gulf-based side.<ref>{{Cite news|url=https://www.panafricafootball.com/post/zed-fc-confirm-offers-mostafa-ziko/|title=ZED FC confirm multiple offers for star winger Mostafa Ziko|work=Pan Africa Football|date=4 August 2025|access-date=31 May 2026}}</ref>
+
+In August 2025, Ziko signed for [[Pyramids FC]] on a contract until June 2029, joining a side that had recently won their first-ever [[CAF Champions League]] title.<ref>{{Cite news|url=https://english.ahram.org.eg/NewsContentP/6/550892/Sports/Pyramids-FC-land-ZED-FC-forward-Mostafa-Ziko.aspx|title=Pyramids FC land ZED FC forward Mostafa Ziko|work=Ahram Online|date=7 August 2025|access-date=1 May 2026}}</ref>
+
+==International career==
+Ziko was first called up to the [[Egypt national football team|Egypt national team]] in 2022 under coach [[Carlos Queiroz]].<ref>{{Cite web|url=https://www.filgoal.com/players/136189|title=مصطفى زيكو - لاعب نادي بيراميدز|website=FilGoal|access-date=1 June 2026|language=ar}}</ref> He was then named in Egypt's final 26-man squad for the [[2026 FIFA World Cup]] by [[Hossam Hassan]]. On 28 May, he made his debut for the national team against the [[Russia national football team|Russia national team]], and scored the only goal of the match.<ref>{{Cite news|url=https://en.africatopsports.com/egypt-name-final-26-man-squad-for-2026-fifa-world-cup/|title=Egypt Name Final 26-Man Squad for 2026 FIFA World Cup|work=Africa Top Sports|date=May 2026|access-date=1 June 2026}}</ref><ref>{{Cite news|url=https://www.olympics.com/en/news/fifa-world-cup-2026-mohamed-salah-and-egypt-chase-first-ever-quarter-final-berth-all-players-full-squad-list-key-stats-and-schedule|title=Egypt at FIFA World Cup 2026: All players, full squad list, key stats and schedule|work=Olympics.com|date=31 May 2026|access-date=1 June 2026}}</ref>
+
+==Career statistics==
+===International===
+{{updated|match played 6 June 2026}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|[[Egypt national football team|Egypt]]
+|2026||2||2
+|-
+!colspan="2"|Total!!2!!2
+|}
+
+:''Scores and results list Egypt's goal tally first, score column indicates score after each Ziko goal.''
+
+{| class="wikitable sortable"
+|+ List of international goals scored by Mostafa Ziko
+! No. !! Date !! Venue !! Cap!! Opponent !! Score !! Result !! Competition
+|-
+| align="center"|1 || 28 May 2026 || [[Cairo International Stadium]], [[Cairo]], Egypt || align="center"|1 || {{fb|RUS}} || align="center"| 1–0 || align="center"|1–0 || [[Exhibition game#International football|Friendly]]
+|-
+| align="center"|2 || 6 June 2026 || [[Huntington Bank Field]], [[Cleveland]], United States || align="center"|2 || {{fb|BRA}} || align="center"| 1–1 || align="center"|1–2 || Friendly
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Soccerway|new_id=zico-mustafa-abdel-raouf/vwddP63o}}
+
+{{Pyramids FC squad}}
+{{Egypt squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Ziko, Mostafa}}
+[[Category:1997 births]]
+[[Category:Living people]]
+[[Category:People from Alexandria]]
+[[Category:Egyptian men's footballers]]
+[[Category:Egypt men's international footballers]]
+[[Category:Association football wingers]]
+[[Category:Gomhoriat Shebin SC players]]
+[[Category:Haras El Hodoud SC players]]
+[[Category:ZED FC players]]
+[[Category:Pyramids FC players]]
+[[Category:Egyptian Premier League players]]
+[[Category:2026 FIFA World Cup players]]

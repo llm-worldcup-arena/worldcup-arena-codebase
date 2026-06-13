@@ -1,0 +1,108 @@
+{{Short description|Men's association football team}}
+{{About|the men's team|the women's team|Japan women's national football team}}
+{{Use dmy dates|date=November 2025}}
+{{Infobox national football team
+| Name                     = Japan
+| Badge                    = Japan_national_football_team_crest.svg
+| Badge_size               = 170px
+| FIFA Trigramme           = JPN
+| Nickname                 = 
+{{lang|ja|サムライ・ブルー}}<br />([[Samurai]] Blue)<ref name=":4" /><ref name=":5" /><br />''Since 19 October 2009''<ref>{{cite web |archiveurl=https://web.archive.org/web/20100518000000/http://www.jfa.or.jp/national_team/topics/2009/367.html |url=http://www.jfa.or.jp/national_team/topics/2009/367.html |title=日本代表チーム愛称は、「Samurai Blues」 |trans-title=The nickname of the Japanese national team is "Samurai Blue" |language=ja |work=[[Japan Football Association]] |date=19 October 2009 |archivedate=18 May 2010 |accessdate=15 September 2021 }} [https://megalodon.jp/2010-0518-0246-28/www.jfa.or.jp/national_team/topics/2009/367.html Alt URL] {{Webarchive|url=https://web.archive.org/web/20211021143459/https://megalodon.jp/2010-0518-0246-28/www.jfa.or.jp/national_team/topics/2009/367.html |date=21 October 2021 }}</ref>
+| Association              = [[Japan Football Association]] (JFA)
+| Confederation            = [[Asian Football Confederation|AFC]] (Asia)
+| Sub-confederation        = [[East Asian Football Federation|EAFF]] (East Asia)
+| website                  = {{URL|https://www.jfa.jp/eng/samuraiblue/|jfa.jp/samuraiblue}}
+| Coach                    = [[Hajime Moriyasu]]<ref name="JFA news 01 en">{{cite news |date=29 December 2022 |title=Samurai Blue's Head Coach Moriyasu Hajime signs contract extension to 2026 "We want to see a new view at the next World Cup" |url=https://www.jfa.jp/eng/news/00031364/ |work=Japan Football Association (JFA) |location=[[Bunkyō]], Tokyo, Japan}}</ref><ref name="JFA news 01 ja">{{cite news |date=28 December 2022 |title=12/28(水)17時30分～ Samurai Blue（日本代表）監督就任会見をJFATVにてインターネットライブ配信 |trans-title=Samurai Blue (Japan National Team) Inauguration Press Conference will be streamed live on JFATV on 28 December 2022 |url=https://jfa.jp/news/00031358/ |work=Japan Football Association (JFA) |location=[[Bunkyō]], Tokyo, Japan |language=ja}}</ref><ref name="JFA news 02 ja">{{cite news |date=28 December 2022 |title=Samurai Blue（日本代表）監督 森保一氏と契約合意 |trans-title=Contract agreement with Samurai Blue (Japan National Team) manager Hajime Moriyasu |url=https://www.jfa.jp/news/00031359/ |work=Japan Football Association (JFA) |location=[[Bunkyō]], Tokyo, Japan |language=ja}}</ref>
+| Asst Manager             = 
+| Captain                  = [[Wataru Endo]]
+| Most caps                = [[Yasuhito Endō]] (152)
+| Top scorer               = {{nowrap|[[Kunishige Kamamoto]] ([[List of international goals scored by Kunishige Kamamoto|75]])<ref>{{cite web |title=Kunishige Kamamoto - Goals in International Matches |url=https://www.rsssf.org/miscellaneous/kamamoto-intlg.html |website=RSSSF |access-date=20 July 2020 |archive-date=4 March 2016 |archive-url=https://web.archive.org/web/20160304122241/http://www.rsssf.com/miscellaneous/kamamoto-intlg.html |url-status=live }}</ref>}}
+| Home Stadium             = [[List of football stadiums in Japan|Various]]
+| FIFA Rank                = {{FIFA World Rankings|JPN}}
+| FIFA max                 = 9
+| FIFA max date            = February–March 1998
+| FIFA min                 = 66
+| FIFA min date            = December 1992
+| Elo Rank                 = {{World Football Elo Ratings|Japan}}
+| Elo max                  = 8
+| Elo max date             = August 2001, March 2002
+| Elo min                  = 123
+| Elo min date             = September 1962
+| pattern_la1              = _jap26h
+| pattern_b1               = _jap26hA
+| pattern_ra1              = _jap26h
+| pattern_sh1              = _jap26h
+| pattern_so1              = _jap26hl
+| leftarm1                 = 001040
+| body1                    = 001040
+| rightarm1                = 001040
+| shorts1                  = 001040
+| socks1                   = 001040
+| pattern_la2              = _jap26a
+| pattern_b2               = _jap26aA
+| pattern_ra2              = _jap26a
+| pattern_sh2              = _jap26a
+| pattern_so2              = _jap26al
+| leftarm2                 = FFFFFF
+| body2                    = FFFFFF
+| rightarm2                = FFFFFF
+| shorts2                  = FFFFFF
+| socks2                   = FFFFFF
+| First game               ={{Fb|JPN|1870}} 0–5 {{fb-rt|Republic of China (1912-1949)|1912}}<br />([[Tokyo]], [[Empire of Japan|Japan]]; 9 May 1917)<ref>{{Cite web|url=https://www.japanfootballdb.com/matches/19170509_%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9B%BD%E4%BB%A3%E8%A1%A8|title=Japan 0–5 Republic of China 1917|website=www.japanfootballdb.com}}</ref>
+| Largest win              = {{Fb|JPN|1870}} [[Japan 15-0 Philippines|15–0]] {{fb-rt|PHL|1936}}<br />(Tokyo; 27 September 1967)<ref>{{Cite web|url=https://www.japanfootballdb.com/matches/19670927_%E3%83%95%E3%82%A3%E3%83%AA%E3%83%94%E3%83%B3%E4%BB%A3%E8%A1%A8|title=Japan 15–0 Philippines 1967|website=www.japanfootballdb.com}}</ref>
+| Largest loss             = {{Fb|JPN|1870}} [[Japan 2-15 Philippines|2–15]] {{fb-rt|PHI |1912}}<br />(Tokyo; 10 May 1917)
+| World cup apps           = 8
+| World cup first          = 1998
+| World cup best           = Round of 16 ([[2002 FIFA World Cup|2002]], [[2010 FIFA World Cup|2010]], [[2018 FIFA World Cup|2018]], [[2022 FIFA World Cup|2022]])
+| Regional name            = [[AFC Asian Cup|Asian Cup]]
+| Regional cup apps        = 11
+| Regional cup first       = [[1988 AFC Asian Cup|1988]]
+| Regional cup best        = '''Champions''' ([[1992 AFC Asian Cup|1992]], [[2000 AFC Asian Cup|2000]], [[2004 AFC Asian Cup|2004]], [[2011 AFC Asian Cup|2011]])
+| 2ndRegional name         = [[Copa América]] (as guest)
+| 2ndRegional cup apps     = 2
+| 2ndRegional cup first    = [[Copa América 1999|1999]]
+| 2ndRegional cup best     = Group stage ([[1999 Copa América|1999]], [[2019 Copa América|2019]])
+| 3rdRegional name         = [[Afro-Asian Cup of Nations]]
+| 3rdRegional cup apps     = 2
+| 3rdRegional cup first    = [[1993 Afro-Asian Cup of Nations|1993]]
+| 3rdRegional cup best     = '''Champions''' ([[1993 Afro-Asian Cup of Nations|1993]], [[2007 Afro-Asian Cup of Nations|2007]])
+| Confederations cup apps  = 5
+| Confederations cup first = [[1995 King Fahd Cup|1995]]
+| Confederations cup best  = Runners-up ([[2001 FIFA Confederations Cup|2001]])
+| medaltemplates           =
+{{MedalSport|Men's [[Association football|football]]}}
+{{Medal|Competition|[[Football at the Summer Olympics|Olympic Games]]}}
+{{Medal|Bronze|[[1968 Summer Olympics|1968 Mexico]]|Team}}
+{{Medal|Competition|[[FIFA Confederations Cup]]}}
+{{Medal|Silver|[[2001 FIFA Confederations Cup|2001 Korea and Japan]]|Team}}
+{{Medal|Competition|[[AFC Asian Cup]]}}
+{{Medal|Gold|[[1992 AFC Asian Cup|1992 Japan]]|Team}}
+{{Medal|Gold|[[2000 AFC Asian Cup|2000 Lebanon]]|Team}}
+{{Medal|Gold|[[2004 AFC Asian Cup|2004 China]]|Team}}
+{{Medal|Gold|[[2011 AFC Asian Cup|2011 Qatar]]|Team}}
+{{Medal|Silver|[[2019 AFC Asian Cup|2019 UAE]]|Team}}
+{{Medal|Competition|[[Afro-Asian Cup of Nations]]}}
+{{MedalGold|[[1993 Afro-Asian Cup of Nations|1993 Japan]]|Team}}
+{{MedalGold|[[2007 Afro-Asian Cup of Nations|2007 Japan]]|Team}}
+{{Medal|Competition|[[AFC–OFC Challenge Cup]]}}
+{{MedalGold|[[2001 AFC–OFC Challenge Cup|2001 Japan]]|Team}}
+{{Medal|Competition|[[Asian Games]]}}
+{{Medal|Bronze|[[1951 Asian Games|1951 New Delhi]]|Team}}
+{{Medal|Bronze|[[1966 Asian Games|1966 Bangkok]]|Team}}
+{{Medal|Competition|[[EAFF E-1 Football Championship]]}}
+{{Medal|Gold|[[2013 EAFF East Asian Cup|2013 South Korea]]|Team}}
+{{Medal|Gold|[[2022 EAFF E-1 Football Championship|2022 Japan]]|Team}}
+{{Medal|Gold|[[2025 EAFF E-1 Football Championship|2025 South Korea]]|Team}}
+{{Medal|Silver|[[2003 East Asian Football Championship|2003 Japan]]|Team}}
+{{Medal|Silver|[[2005 East Asian Football Championship|2005 South Korea]]|Team}}
+{{Medal|Silver|[[2008 East Asian Football Championship|2008 China]]|Team}}
+{{Medal|Silver|[[2017 EAFF E-1 Football Championship|2017 Japan]]|Team}}
+{{Medal|Silver|[[2019 EAFF E-1 Football Championship|2019 South Korea]]|Team}}
+{{Medal|Bronze|[[2010 East Asian Football Championship|2010 Japan]]|Team}}
+}}
+
+The {{Nihongo|'''Japan national football team'''|サッカー日本代表|''Sakkā Nihon Daihyō'' or ''Sakkā Nippon Daihyō''|lead=yes}}, also known by the nickname {{Nihongo|'''Samurai Blue'''|サムライ・ブルー|''Samurai Burū''|lead=yes}},<ref name=":4" /><ref name=":5">{{cite web |title=Samuari Blue|url=https://www.jfa.jp/eng/samuraiblue/|url-status=live|archive-date=2020-11-25|archive-url=https://web.archive.org/web/20201125111856/https://www.jfa.jp/eng/samuraiblue/}}</ref> represents [[Japan]] in men's international [[Association football|football]]. It is controlled by the [[Japan Football Association]] (JFA), the governing body for [[football in Japan]].
+
+Prior to the late 1980s, Japan's national football team was largely amateur, with the sport less popular domestically than [[Baseball in Japan|baseball]] or [[sumo]].<ref>{{cite web |title=The Rise of Japanese Football: How the Nation Has Not-So-Quietly Become a Dark Horse Contender|author=Michail-Angelos Grigoropoulos|publisher=Urban Pitch|date=28 November 2022 |url=https://urbanpitch.com/the-rise-of-japanese-football-how-the-nation-has-not-so-quietly-become-a-dark-horse-contender/|archive-url=https://web.archive.org/web/20221203142718/https://urbanpitch.com/the-rise-of-japanese-football-how-the-nation-has-not-so-quietly-become-a-dark-horse-contender/|archive-date=3 December 2022|access-date=9 December 2022}}</ref><ref>{{cite web|url=https://en.prothomalo.com/sports/football/o1eiwcu44s|archive-url=https://web.archive.org/web/20221208173744/https://en.prothomalo.com/sports/football/o1eiwcu44s |title=Japan's rise and rise in football and the lessons for Bangladesh|publisher=[[Prothom Alo]] |author=Ashfaq-Ul-Alam Nilo|date=2 December 2022|archive-date=8 December 2022|access-date=9 December 2022}}</ref> Since the early 1990s, following the full professionalization of the sport, Japan has emerged as one of Asia's leading teams. The national team has qualified for every [[FIFA World Cup]] since [[1998 FIFA World Cup|1998]] (including an automatic berth as co-hosts of the [[2002 FIFA World Cup|2002 tournament]] alongside [[South Korea national football team|South Korea]]), advancing to the knockout stage in 2002, [[2010 FIFA World Cup|2010]], [[2018 FIFA World Cup|2018]], and [[2022 FIFA World Cup|2022]]. Japan has also won a record four [[AFC Asian Cup|Asian Cup]] titles, in [[1992 AFC Asian Cup|1992]], [[2000 AFC Asian Cup|2000]], [[2004 AFC Asian Cup|2004]], and [[2011 AFC Asian Cup|2011]]. In addition, the team finished as runners-up in both the [[2001 FIFA Confederations Cup]] and the [[2019 AFC Asian Cup|2019 Asian Cup]]. Japan is one of only three teams from the [[Asian Football Confederation]] (AFC) to have reached the final of a senior [[FIFA]] men's competition, alongside [[Australia men's national soccer team|Australia]] and [[Saudi Arabia national football team|Saudi Arabia]].
+
+Japan's progression in a short period has served as an inspiration and example of how to develop football.<ref>{{cite web |last1=Williams |first1=Aidan |title=How the 1992 Asian Cup awoke Japanese football, the continent's sleeping giant |url=https://thesefootballtimes.co/2019/01/04/how-the-1992-asian-cup-awoke-japanese-football-the-continents-sleeping-giant/ |website=These Football Times |access-date=20 April 2021 |date=4 January 2019 |url-status=live |archive-date=4 May 2021 |archive-url=https://web.archive.org/web/20210504023945/https://thesefootballtimes.co/2019/01/04/how-the-1992-asian-cup-awoke-japanese-football-the-continents-sleeping-giant/}}</ref><ref>{{cite web |last1=Anello |first1=Gabriele |title=The model that saved Japanese football and made it an Asian powerhouse within two decades |url=https://footballchronicle.co/2018/08/19/the-model-that-saved-japanese-football-and-made-it-an-asian-powerhouse-within-two-decades/ |website=Football Chronicle |access-date=20 April 2021 |archive-url=https://web.archive.org/web/20200605072813/https://footballchronicle.co/2018/08/19/the-model-that-saved-japanese-football-and-made-it-an-asian-powerhouse-within-two-decades/ |archive-date=5 June 2020 |date=19 August 2018 |url-status=dead}}</ref> Their main rivals are [[Japan–South Korea football rivalry|South Korea]] and [[Australia–Japan football rivalry|Australia]]; they also developed rivalries against [[Iran national football team|Iran]] and Saudi Arabia. Japan was the first team from outside the Americas to participate in the [[Copa América]], having been invited in the [[1999 Copa América|1999]], [[2011 Copa América|2011]], [[2015 Copa América|2015]], and [[2019 Copa América|2019]] editions of the tournament, although they only played in the 1999 and 2019 events.<ref name="goal.com">[http://goal.com/en/news/14/asia/2009/06/02/1301486/japan-invited-to-copa-america-2011-along-with-mexico Japan Invited To Copa America 2011 Along With Mexico] {{Webarchive|url=https://web.archive.org/web/20090605094401/http://www.goal.com/en/news/14/asia/2009/06/02/1301486/japan-invited-to-copa-america-2011-along-with-mexico |date=5 June 2009 }} Goal.com 2 June 2009</ref> {{asof|2026|January|post=,}} Japan is currently at the 18th place in the FIFA world ranking, being the highest ranked Asian side since December 2022.<ref>{{cite web |title=FIFA-Coca-Cola Men's World Ranking |url=https://inside.fifa.com/fifa-world-ranking/men?dateId=id14443 |website=FIFA |access-date=16 November 2024}}</ref>

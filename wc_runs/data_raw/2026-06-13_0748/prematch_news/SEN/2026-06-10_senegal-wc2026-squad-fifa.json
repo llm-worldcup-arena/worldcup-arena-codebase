@@ -1,0 +1,16 @@
+{
+ "team": "SEN",
+ "source": "FIFA",
+ "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/senegal-world-cup-squad-announcement-pape-thiaw",
+ "title": "Senegal announce World Cup 2026 squad",
+ "news_date": "2026-06-10",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "asof": "2026-06-10",
+ "fetched": "2026-06-13_0748",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "The nation's all-time top scorer is poised to return to the global stage after missing Qatar 2022 through injury.\nSenegal have announced a provisional 28-man squad for the FIFA World Cup 2026™ where they will face France, Iraq and Norway in Group I.\nCoach Pape Thiaw, who played for the Lions of Teranga during their historic quarter-final run at Korea/Japan 2002, has selected a host of experienced players, including Idrissa Gueye, Kalidou Koulibaly, Sadio Mane and Edouard Mendy.\nPremier League stars Habib Diarra, El Hadji Malick Diouf, Ismaila Sarr, Mamadou Sarr, Pape Matar Sarr and Iliman Ndiaye have also been included. Teenagers Ibrahim Mbaye and Bara Ndiaye, who play for Paris Saint-Germain and Bayern Munich respectively, will also travel to North America.\nSenegal provisional squad for the World Cup 2026Senegal provisional squad for the World Cup 2026\nGoalkeepersGoalkeepers\nMory Diaw Yehvann Diouf Edouard Mendy\nDefendersDefenders\nIlay Camara Krepin Diatta El Hadji Malick Diouf Ismail Jakobs Kalidou Koulibaly Moustapha Mbow Antoine Mendy Moussa Niakhate Mamadou Sarr Abdoulaye Seck\nMidfieldersMidfielders\nLamine Camara Pathe Ciss Habib Diarra Idrissa Gana Gueye Pape Gueye Pape Matar Sarr Bara Sapoko Ndiaye\nAttackersAttackers\nAssane Diao Bamba Dieng Nicolas Jackson Sadio Mane Ibrahim Mbaye Cherif Ndiaye Iliman Ndiaye Ismaila Sarr\nAll squads are provisional until the final list of 26 players is announced by FIFA, following their submission by participating teams, on 2 June.\nSenegal’s World Cup 2026 fixtures and groupSenegal’s World Cup 2026 fixtures and group\n16 June: France v Senegal - New York New Jersey Stadium\n22 June: Norway v Senegal - New York New Jersey Stadium\n26 June: Senegal v Iraq - Toronto Stadium\nExplore hospitality packages for Senegal’s FIFA World Cup 2026™ matchesExplore hospitality packages for Senegal’s FIFA World Cup 2026™ matches",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

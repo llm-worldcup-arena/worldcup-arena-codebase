@@ -1,0 +1,22 @@
+{
+ "source": "FIFA 官方（最权威·赛报）",
+ "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/mexico-south-africa-highlights-match-report",
+ "title": "Mexico 2-0 South Africa | Match report and highlights",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-11",
+  "home": "MEX",
+  "away": "RSA",
+  "home_en": "Mexico",
+  "away_en": "South Africa",
+  "comp": "小组赛·A组",
+  "match_id": "M1",
+  "slug": "2026-06-11_MEX_vs_RSA"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Mexico beat South Africa in the opening match of the FIFA World Cup 2026, Julian Quinones and Raul Jimenez getting the goals at Mexico City Stadium.\nMexico 2-0 South AfricaMexico 2-0 South Africa\nMexico goals: Quinones (9), Jimenez (67)\nJulian Quinones got the first and helped set up the second as Mexico dominated and downed South Africa in the opening match of the FIFA World Cup 2026™. Javier Aguirre’s side took less than five minutes to create the game’s first chance amid an electric atmosphere at Mexico City Stadium. Israel Reyes whipped a cross in from the right, and Raul Jimenez got power behind the bouncing ball, forcing Ronwen Williams to tip it around his post smartly. It merely maintained deadlock for a few minutes. Erik Lira burgled the adidas Trionda from Sphephelo Sithole, and Quinones struck it through Williams’ legs from just inside the box.\nBafana will have been relived to go in at half-time at a one-goal deficit, their captain having produced a superb save from a Jimenez header and the post having denied Quinones. South Africa’s task got significantly steeper shortly into the second half. Jimenez, racing through on goal, was felled on the edge of the penalty area by Sithole, who was sent off. The Mexican fans, including boxing megastar Canelo Alvarez, erupted as 17-year-old Gilberto Mora was sent on, and within 60 seconds they were celebrating a second goal. Quinones played a slick one-two with Jimenez and fed Roberto Alvarado, whose devilish delivery was nodded home at the back post by the Mexico No9. The contest concluded with another two red cards, South Africa substitute Themba Zwane and Mexico centre-back Cesar Montes seeing red. The latter failed to spoil the home supporters’ mood: El Tri were up and running.\nStatStat\nGilberto Mora, at 17 years and 240 days, became the sixth-youngest player to make a World Cup appearance. Pele (17 years and 235 days), Salomon Olembe (17 years and 185 days), Femi Opabunmi (17 years and 101 days), Samuel Eto’o (17 years and 99 days) and Norman Whiteside (17 years and 41 days) were his junior.\nWhat they saidWhat they said\n“I’m happy and excited to score my first World Cup goal, in such a spectacular stadium with amazing fans. It’s important for me to acknowledge what my team-mates did to secure the first three points. We’ve felt the support of the fans these past few days. We’re united and today it really showed.” Julian Quinones, Mexico forward\n“It was a really beautiful feeling, something beyond words, something I had always dreamed of: playing a match of this magnitude, at home, with these fans. The game plan is always to go out and press. After that, we dropped the tempo a bit, and maybe we lacked a little more patience and possession of the ball. I’m happy that Raul was able to score that goal. At half-time, he told me to send in a cross for him. I didn’t think twice, and I knew that in that area it could be dangerous. Thank God I got the assist and Raul was able to score that goal.” Roberto Alvarado, Mexico winger\n“If you make mistakes, they will punish you. They will hurt you at this level. I think the most important thing is that now we know what we’re up against, because we’re not used to this. We haven’t been part of the World Cup for a very long time. We went down, but we kept fighting. We didn’t give them anything towards the end. We had a few decent chances as well. We’ll keep fighting, we’ll keep going as a team, and we’ll be better.” Ronwen Williams, South Africa goalkeeper\nMichelob Ultra Superior Player of the MatchMichelob Ultra Superior Player of the Match\nJulian Quinones (Mexico).",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

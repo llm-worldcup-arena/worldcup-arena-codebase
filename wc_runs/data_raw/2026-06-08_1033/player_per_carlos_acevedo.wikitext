@@ -1,0 +1,170 @@
+{{short description|Mexican footballer (born 1996)}}
+{{family name hatnote|Acevedo|López Alonso|lang=Spanish}}
+{{Infobox football biography
+| name = Carlos Acevedo
+| image = Carlos Acevedo.png
+| fullname = Carlos Acevedo López
+| birth_date = {{Birth date and age|df=yes|1996|4|19}}
+| birth_place = [[Torreón]], Mexico
+| height = 1.84 m<ref>{{cite web |url=https://santoslaguna.fanalitica.com/firstteam/team |title=Carlos Acevedo |publisher=Santos Laguna |access-date=16 February 2022 |archive-date=16 February 2022 |archive-url=https://web.archive.org/web/20220216192835/https://santoslaguna.fanalitica.com/firstteam/team |url-status=dead }}</ref>
+| position = [[Goalkeeper (association football)|Goalkeeper]]
+| currentclub = [[Santos Laguna]]
+| clubnumber = 1
+| youthyears1 = 2013–2017
+| youthclubs1 = [[Santos Laguna]]
+| years1 = 2016–
+| clubs1 = [[Santos Laguna]]
+| caps1 = 195
+| goals1 = 1
+| nationalyears1 = 2021–
+| nationalteam1 = [[Mexico national football team|Mexico]]
+| nationalcaps1 = 7
+| nationalgoals1 = 0
+| medaltemplates = {{MedalSport|Men's [[association football|football]]}}
+{{MedalCountry|{{fb|MEX}}}}
+{{MedalCompetition|[[CONCACAF Nations League]]}}
+{{Medal|3rd|[[2023 CONCACAF Nations League Finals|2023 United States]]|}}
+| club-update = 8 November 2025
+| nationalteam-update = 22 May 2026
+| caption = Acevedo with [[Mexico national football team|Mexico]] in 2025
+}}
+
+'''Carlos Acevedo López''' (born 19 April 1996) is a Mexican professional [[Association football|footballer]] who plays as a [[Goalkeeper (association football)|goalkeeper]] for [[Liga MX]] club [[Santos Laguna]], whom he [[Captain (association football)|captains]], and the [[Mexico national football team|Mexico national team]].
+
+==Club career==
+Acevedo made his [[Liga MX]] debut with [[Santos Laguna]] on 20 August 2016 in a match against [[Cruz Azul]] which resulted in a 3–1 defeat.<ref>{{cite web|title=Historia de vida: Carlos Acevedo fue corrido por Santos y ahora es titular|url=https://www.tudn.com/futbol/liga-mx/historia-de-vida-carlos-acevedo-fue-corrido-por-santos-y-ahora-es-titular|work=TUDN|date=6 August 2020|language=Spanish}}</ref>
+
+Prior to the start of the [[2020–21 Liga MX season#Torneo Guardianes 2021|2021 Guardianes tournament]], club manager [[Guillermo Almada]] named him as [[Captain (association football)|captain]] following the departure of former captain [[Julio Furch]] to sibling club [[Atlas F.C.|Atlas]].<ref>{{cite web|title=Guillermo Almada reveló las razones por las que Carlos Acevedo fue el capitán de Santos contra Cruz Azul|url=https://www.infobae.com/america/deportes/2021/01/11/guillermo-almada-revelo-las-razones-por-las-que-carlos-acevedo-fue-el-capitan-de-santos-contra-cruz-azul/|work=Infobae|date=11 January 2021|language=Spanish}}</ref>
+
+On 10 September 2022, Acevedo scored a header against [[Querétaro F.C.|Querétaro]] during the 99th minute of the match, helping Santos secure a 3-3 draw.<ref>{{cite web|title=¡INCREÍBLE! Gol de Carlos Acevedo rescata a Santos de Querétaro|url= https://onefootball.com/es/noticias/increible-gol-de-carlos-acevedo-rescata-a-santos-de-queretaro-35816580|work=Infobae|date=11 September 2021|language=Spanish}}</ref>
+
+==International career==
+In December 2021, Acevedo received his first call-up to the [[Mexico national football team|senior national team]] by [[Gerardo Martino]], and made his debut on 8 December 2021, in a friendly match against [[Chile national football team|Chile]].<ref>{{cite web|url= https://www.fanbolero.com/2021/12/checa-la-convocatoria-de-mexico-para-enfrentar-a-chile/|title= ¡Checa la convocatoria de México para enfrentar a Chile!|website= fanbolero.com|date= December 6, 2021|access-date= December 7, 2021|archive-date= December 7, 2021|archive-url= https://web.archive.org/web/20211207181234/https://www.fanbolero.com/2021/12/checa-la-convocatoria-de-mexico-para-enfrentar-a-chile/|url-status= dead}}</ref>
+
+In June 2024, Acevedo was called up by [[Jaime Lozano]] to the [[Copa America 2024|2024 Copa America]] following the injury of the starting goalkeeper [[Luis Malagón]]. He was not involved in any games during the tournament.
+
+==Career statistics==
+===Club===
+{{updated|match played 8 November 2025}}<ref name="soccerway">{{soccerway|carlos-acevedo-lopez/445480}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|Cup
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="12"|[[Santos Laguna]]
+|[[2015–16 Liga MX season|2015–16]]
+|rowspan="11"|[[Liga MX]]
+|0||0||colspan=2|—||0||0||colspan=2|—||0||0
+|-
+|[[2016–17 Liga MX season|2016–17]]
+|1||0||colspan=2|—||colspan=2|—||colspan=2|—||1||0
+|-
+|[[2017–18 Liga MX season|2017–18]]
+|2||0||13||0||colspan=2|—||colspan=2|—||15||0
+|-
+|[[2018–19 Liga MX season|2018–19]]
+|6||0||3||0||colspan=2|—||colspan=2|—||9||0
+|-
+|[[2019–20 Liga MX season|2019–20]]
+|3||0||7||0||1{{efn|name=CCL|Appearances in [[CONCACAF Champions League]]}}||0||colspan=2|—||11||0
+|-
+|[[2020–21 Liga MX season|2020–21]]
+|42||0||colspan=2|—||colspan=2|—||colspan=2|—||42||0
+|-
+|[[2021–22 Liga MX season|2021–22]]
+|29||0||colspan=2|—||2{{efn|name=CCL}}||0||colspan=2|—||31||0
+|-
+|[[2022–23 Liga MX season|2022–23]]
+|37||1||colspan=2|—||colspan=2|—||colspan=2|—||37||1
+|-
+|[[2023–24 Liga MX season|2023–24]]
+|25||0||colspan=2|—||colspan=2|—||colspan=2|—||25||0
+|-
+|[[2024–25 Liga MX season|2024–25]]
+|33||0||colspan=2|—||colspan=2|—||3{{efn|name=LC|Appearances in [[Leagues Cup]]}}||0||36||0
+|-
+|[[2025–26 Liga MX season|2025–26]]
+|17||0||colspan=2|—||colspan=2|—||2{{efn|name=LC}}||0||19||0
+|-
+! colspan="2" |Total
+!195!!1!!23!!0!!3!!0!!5!!0!!226!!1
+|-
+! colspan="3" |Career total
+!195!!1!!23!!0!!3!!0!!5!!0!!226!!1
+|}
+
+{{notelist}}
+
+===International===
+{{updated|match played 19 April 2023|<ref name="NFT">{{NFT player|id=84908}}</ref>}}
+
+{| class="wikitable" style="text-align: center;"
+|-
+! National team !! Year !! Apps !! Goals
+|-
+|rowspan="5" valign="center"|[[Mexico national football team|Mexico]]
+| 2021 || 1 || 0
+|-
+| 2022 || 3 || 0
+|-
+| 2023 || 2 || 0
+|-
+| 2024 || 0 || 0
+|-
+| 2025 || 0 || 0
+|-
+! colspan="2" | Total !! 6 !! 0
+|}
+
+==Honours==
+'''Santos Laguna'''
+*[[Liga MX]]: [[2017–18 Liga MX season#Torneo Clausura|Clausura 2018]]
+
+'''Mexico'''
+*[[CONCACAF Nations League]] third place: [[2022–23 CONCACAF Nations League|2022–23]]<ref>{{Cite web |title=Mexico 1-0 Panama (Jun 18, 2023) Final Score |url=https://www.espn.com/soccer/match/_/gameId/667791/mexico-panama |access-date=2025-03-24 |website=ESPN |language=en}}</ref>
+
+'''Individual'''
+*[[Liga MX]] All-Star: [[2022 MLS All-Star Game|2022]]<ref>{{cite web|title=LIGA MX announces Carlos Acevedo as the 26th player of LIGA MX's All-Star team to face MLS All-Stars Aug 10 in Minnesota|url=https://www.mlssoccer.com/news/liga-mx-announces-carlos-acevedo-as-the-26th-player-of-liga-mx-s-all-star-team-t|website=Major League Soccer|access-date=10 August 2022|date=22 July 2022}}</ref>
+
+==See also==
+*[[List of goalscoring goalkeepers]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Liga MX player|98867/carlos-acevedo-lopez|Carlos Acevedo (Carlos Acevedo López)}}
+
+{{Santos Laguna squad}}
+{{Navboxes
+|title=Mexico squads
+|bg = #016549
+|fg = White
+|bordercolor =#CE1126
+|list1=
+{{Mexico squad 2024 Copa América}}
+{{Mexico squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Acevedo, Carlos}}
+[[Category:1996 births]]
+[[Category:Living people]]
+[[Category:Men's association football goalkeepers]]
+[[Category:Mexico men's international footballers]]
+[[Category:2024 Copa América players]]
+[[Category:2026 FIFA World Cup players]]
+[[Category:Santos Laguna footballers]]
+[[Category:Liga MX players]]
+[[Category:Liga Premier de México players]]
+[[Category:Mexican men's footballers]]
+[[Category:Footballers from Torreón]]
+[[Category:21st-century Mexican sportsmen]]

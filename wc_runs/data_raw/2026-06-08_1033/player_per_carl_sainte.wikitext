@@ -1,0 +1,200 @@
+{{short description|Haitian footballer (born 2002)}}
+{{Use dmy dates|date=May 2026}}
+{{Infobox football biography
+|name = Carl Sainté
+|image = 
+|fullname = Carl Fred Sainté
+|birth_date = {{birth date and age|2002|8|9|df=y}}
+|birth_place = [[Grand-Goâve]], Haiti<ref name="auto">{{Cite web|url=https://www.uslchampionship.com/news_article/show/1200112-new-mexico-signs-haitian-youth-international-carl-saint-|title=New Mexico Signs Haitian Youth International Carl Sainté|author=USLChampionship com Staff|date=22 December 2021|website=USL Championship}}</ref>
+|height = 1.85 m
+|position = [[Midfielder]]
+|currentclub = [[El Paso Locomotive FC]]
+|youthyears1 = 2012–2016
+|youthclubs1 = AGE-Foot
+|youthyears2 = 2016–2019
+|youthclubs2 = ASGG
+|youthyears3 = 2019–2020
+|youthclubs3 = [[Violette AC|Violette]]
+|years1 = 2020–2021
+|clubs1 = [[Violette AC|Violette]]
+|caps1 = 12
+|goals1 = 0
+|years2 = 2021–2022
+|clubs2 = [[New Mexico United]]
+|caps2 = 5
+|goals2 = 0
+|years3 = 2022
+|clubs3 = → [[North Texas SC]] (loan)
+|caps3 = 5
+|goals3 = 0
+|years4 = 2023–2024
+|clubs4 = [[North Texas SC]]
+|caps4 = 22
+|goals4 = 1
+|years5 = 2024
+|clubs5 = [[North Texas SC]]
+|caps5 = 12
+|goals5 = 1
+|years6 = 2024–2025
+|clubs6 = [[FC Dallas]]
+|caps6 = 2
+|goals6 = 0
+|years7 = 2025
+|clubs7 = → [[Phoenix Rising FC|Phoenix Rising]] (loan)
+|caps7 = 24
+|goals7 = 1
+|years8 = 2026–
+|clubs8 = [[El Paso Locomotive FC]]
+|caps8 = 5
+|goals8 = 0
+|nationalyears1 = 2019
+|nationalteam1 = [[Haiti national under-17 football team|Haiti U17]]
+|nationalcaps1 = 8
+|nationalgoals1 = 1
+|nationalyears2 = 2022–
+|nationalteam2 = [[Haiti national football team|Haiti]]
+|nationalcaps2 = 26
+|nationalgoals2 = 0
+|pcupdate = 22:57, 9 May 2026 (UTC)
+|ntupdate = 21:06, 2 June 2026 (UTC)
+}}
+
+'''Carl Fred Sainté''' (born 9 August 2002) is a Haitian professional [[Association football|footballer]] who plays as a [[midfielder]] for [[USL Championship]] club [[El Paso Locomotive FC|El Paso Locomotive]] and the [[Haiti national football team|Haiti national team]].
+
+==Club career==
+Sainté is a youth product of the Haitian clubs AGE-Foot, ASGG, and finally [[Violette AC|Violette]] who he joined in 2019.<ref>{{Cite web|url=https://palmes-magazine.com/amp/carl-fred-sainte-pour-la-sante-du-football-grand-goavien/|title=Carl Fred Sainté : Pour la santé du football grand-goâvien|first=Solages|last=Cénéjuste|date=30 June 2019}}</ref> He began his senior career with Violette and helped them win the 2020–21 [[Ligue Haïtienne]]. He transferred to the American club [[New Mexico United]] on 22 December 2021.<ref name="auto"/> He debuted with New Mexico United in a 2–0 [[USL Championship]] win over [[Las Vegas Lights FC|Las Vegas Lights]] on 14 March 2022, coming on as a late sub in the 87th minute.<ref>{{Cite web|url=https://www.espn.co.uk/football/match/_/gameId/627137|title=New Mexico United vs. Las Vegas Lights FC - Football Match Summary - March 13, 2022 - ESPN|website=ESPN.com}}</ref>
+
+[[FC Dallas]] loaned Sainté to [[Phoenix Rising FC]] until the end of the season on 3 January 2025.<ref>{{cite web|url=https://www.phxrisingfc.com/news/phoenix-rising-signs-haitian-international-carl-sainte/ |title=Phoenix Rising Signs Haitian International Carl Sainte |first=Tyler |last=Butler |publisher=Phoenix Rising Communications |date=3 January 2025 |access-date=3 January 2025}}</ref> On 20 November, after his return to FC Dallas, the team announced that they had declined his contract option.<ref>{{Cite web |date=20 November 2025 |title=FC Dallas Announces Year-End Roster Moves Ahead of 2026 |url=https://www.fcdallas.com/news/fc-dallas-announces-year-end-roster-moves-ahead-of-2026 |access-date=1 January 2026 |website=[[FC Dallas]]}}</ref>
+
+On 19 December 2025, Sainté signed with [[El Paso Locomotive FC|El Paso Locomotive]].<ref>{{Cite web |last=Morgan |first=John |date=31 December 2025 |title=El Paso Locomotive FC Sign Midfielder Carl Sainté |url=https://www.eplocomotivefc.com/news/2025/12/31/el-paso-locomotive-fc-sign-midfielder-carl-sainte/ |access-date=1 January 2026 |website=[[El Paso Locomotive FC]]}}</ref>
+
+==International career==
+Sainté represented the [[Haiti national under-17 football team|Haiti U17]]s at the [[2019 FIFA U-17 World Cup]].<ref name="auto"/> He was called up to represent the senior [[Haiti national football team|Haiti national team]] in March 2022.<ref>{{Cite web|url=https://netalkolemedia.com/en/haiti-affrontera-le-guatemala-lors-de-la-prochaine-journee-fifa/|title=Haïti affrontera le Guatémala lors de la prochaine journée FIFA - NetAlKole Media - Restez connectés aux actualités|date=11 March 2022}}</ref> He debuted with the [[Haiti national football team|Haiti national team]] in a friendly 2–1 loss to [[Guatemala national football team|Guatemala]] on 27 March 2022.<ref>{{Cite web|url=https://www.national-football-teams.com/matches/report/34187/Guatemala_Haiti.html|title=Guatemala vs. Haiti|first=Benjamin|last=Strack-Zimmermann|website=www.national-football-teams.com}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 9 May 2026}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|Cup
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|[[Violette AC|Violette]]
+|[[2020–21 Ligue Haïtienne|2020–21]]
+|[[Ligue Haïtienne]]
+|12||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||12||0
+|-
+|[[New Mexico United]]
+|[[2022 New Mexico United season|2022]]
+|USL Championship
+|5||0||1||0||colspan="2"|—||colspan="2"|—||6||0
+|-
+|[[North Texas SC]] (loan)
+|[[2022 MLS Next Pro season|2022]]
+|[[MLS Next Pro]]
+|5||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||5||0
+|-
+|North Texas SC
+|[[2023 MLS Next Pro season|2023]]
+|MLS Next Pro
+|22||1||colspan="2"|—||colspan="2"|—||colspan="2"|—||22||1
+|-
+|[[FC Dallas]]
+|[[2024 FC Dallas season|2024]]
+|[[Major League Soccer]]
+|6||0||2||0||colspan="2"|—||2{{efn|Appearances in [[Leagues Cup]]}}||0||10||0
+|-
+|North Texas SC
+|[[2024 MLS Next Pro season|2024]]
+|MLS Next Pro
+|12||1||colspan="2"|—||colspan="2"|—||colspan="2"|—||12||1
+|-
+|[[Phoenix Rising FC|Phoenix Rising]] (loan)
+|[[2025 USL Championship season|2025]]
+|USL Championship
+|24||1||2||0||colspan="2|—||2{{efn|name=USL|Appearances in [[USL Cup]]}}||0||28||1
+|-
+|[[El Paso Locomotive FC]]
+|[[2026 USL Championship season|2026]]
+|USL Championship
+|5||0||0||0||colspan="2|—||1{{efn|name=USL}}||0||6||0
+|-
+!colspan="3"|Career total
+!91!!3!!5!!0!!0!!0!!5!!0!!101!!3
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 2 June 2026}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="5"|[[Haiti national football team|Haiti]]
+|2022||5||0
+|-
+|2023||10||0
+|-
+|2024||5||0
+|-
+|2025||4||0
+|-
+|2026||2||0
+|-
+!colspan="2"|Total!!26!!0
+|}
+
+==Honours==
+'''Violette AC'''
+*[[Ligue Haïtienne]]: [[Ligue Haïtienne|2020–21]]
+
+==References==
+{{reflist}}
+
+==External links==
+* {{sports links}}
+
+{{El Paso Locomotive FC squad}}
+{{Navboxes
+| title = Haiti squads
+| bg = #00209F
+| fg = white
+| bordercolor = #D21034
+| list1 =
+{{Haiti squad 2023 CONCACAF Gold Cup}}
+{{Haiti squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Sainte, Carl}}
+[[Category:2002 births]]
+[[Category:Living people]]
+[[Category:People from Ouest (department)]]
+[[Category:Haitian men's footballers]]
+[[Category:Haiti men's international footballers]]
+[[Category:Haiti men's youth international footballers]]
+[[Category:Men's association football midfielders]]
+[[Category:New Mexico United players]]
+[[Category:Ligue Haïtienne players]]
+[[Category:USL Championship players]]
+[[Category:Haitian expatriate men's footballers]]
+[[Category:Haitian expatriate sportspeople in the United States]]
+[[Category:Expatriate men's soccer players in the United States]]
+[[Category:North Texas SC players]]
+[[Category:Phoenix Rising FC players]]
+[[Category:MLS Next Pro players]]
+[[Category:2023 CONCACAF Gold Cup players]]
+[[Category:FC Dallas players]]
+[[Category:21st-century Haitian sportsmen]]
+[[Category:Major League Soccer players]]
+[[Category:El Paso Locomotive FC players]]
+[[Category:2026 FIFA World Cup players]]

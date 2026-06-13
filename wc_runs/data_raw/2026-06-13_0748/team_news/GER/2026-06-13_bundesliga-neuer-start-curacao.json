@@ -1,0 +1,16 @@
+{
+ "team": "GER",
+ "source": "Bundesliga.com",
+ "url": "https://www.bundesliga.com/en/bundesliga/news/manuel-neuer-julian-nagelsmann-world-cup-opener-germany-curacao-oliver-baumann-37733",
+ "title": "Julian Nagelsmann claims Manuel Neuer will start for Germany against Curaçao",
+ "news_date": "2026-06-13",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "asof": "2026-06-13",
+ "fetched": "2026-06-13_0748",
+ "method": "jsonld:articleBody",
+ "status": "ok",
+ "original_text": "The 2014 World Cup winner has been nursing a calf injury since the end of the Bundesliga season, but his return to action for Die Nationalelf - after an almost two-year absence - now looks immiment.\nAs a result, Hoffenheim stopper Oliver Baumann is set to lose his status as Germany's undisputed number 1, despite playing in the side's recent friendly match against the USA in Chicago.\nBaumann, who has hardly put a foot wrong for Germany, earned praise from Nagelsmann for his professionalism in their 2-1 win against the World Cup hosts on Saturday.\n\nGermany's first game of the 2026 FIFA World Cup takes place on Sunday 14 June, against surprise qualifiers Curaçao. Neuer, who hasn't played a competitive match since Bayern's 5-1 home win against Cologne in mid-May, will be hoping for a stress-free return to action against the competition debutants. \"He [Neuer] will join team training when we arrive in Winston-Salem, that's the plan, and then he'll play against Curaçao,\" Nagelsmann told RTL. The German head coach also paid Oliver Baumann \"a huge compliment\" for his impressive recent displays.\nRegarding Neuer's recovery, he added: \"[Neuer's] doing well, he's on his way to peak fitness, he doesn't need to settle in at his age. He can handle pressure situations.\" Watch: Manuel Neuer's 2025/26 season in retrospect\n\nAfter the USA warm-up match, Baumann weighed in on Nagelsmann's decision to reinstate Neuer as Germany's first-choice goalkeeper.\n\"At first it was tough, of course. That wasn't exactly cool,\" the 36-year-old said in an interview with RTL when asked about the topic.\nBaumann also stressed that he hadn't considered for a second not travelling to the World Cup: \"It was clear to me that I would be there for the team. I want to help the team, make my contribution, and that's what it's all about.\"",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

@@ -1,0 +1,16 @@
+{
+ "team": "JPN",
+ "source": "Nippon.com/Jiji",
+ "url": "https://www.nippon.com/en/news/yjj2026061200185/",
+ "title": "Japan Captain Endo Withdraws from World Cup Squad due to Injury",
+ "news_date": "2026-06-12",
+ "published": "2026-06-12T10:17:04+0900",
+ "tier": "3",
+ "lang": "en",
+ "asof": "2026-06-13",
+ "fetched": "2026-06-13_0637",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "Nashville, Tennessee, June 11 (Jiji Press)--Wataru Endo, the captain of the Japanese men's national soccer team, has withdrawn from the country's squad for the 2026 FIFA World Cup due to injury, the Japan Football Association said Thursday.\n\nIn a social media post, Endo, 33, said he will retire from international duty.\n\nThe tournament hosted by Canada, Mexico and the United States, which kicked off on Thursday, would have been Endo's third consecutive World Cup.\n\nThe announcement came just before Japan's opening group stage match against the Netherlands on Sunday.\n\nEndo, who plays for English Premier League club Liverpool, injured his left foot in February. Although he underwent surgery with the 2026 World Cup in mind, he suffered another injury after returning to the Japan national team in a match against Iceland on May 31.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

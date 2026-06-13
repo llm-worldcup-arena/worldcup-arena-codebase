@@ -1,0 +1,107 @@
+{{Short description|none}}
+{{About|the men's team|the women's team|Saudi Arabia women's national football team}}
+{{Use dmy dates|date=January 2023}}
+{{Infobox national football team
+| Name                     = Saudi Arabia
+| Badge                    = Saudi Arabia national football team logo.svg
+| Badge_size               = 195px
+| Nickname                 = الأخضر (''al-'Akhḍar'', "The Green One")<br>الصقور العربية (''as-Suqūr Al-‘Arabiyyah'', "Arabian Falcons")<br>الصقور الخضر (''as-Suqūr al-Khoḍur'', "The Green Falcons")
+| Association              = [[Saudi Arabian Football Federation]] (SAFF)
+| Confederation            = [[Asian Football Confederation|AFC]] (Asia)
+| Sub-confederation        = [[West Asian Football Federation|WAFF]] (West Asia)
+| website                  = [https://saff.com.sa/ saff.sa]
+| Coach                    = [[Georgios Donis]]
+| Captain                  = [[Salem Al-Dawsari]]
+| Most caps                = {{nowrap|[[Mohamed Al-Deayea]] (173)}}<ref name="fifa.com">{{cite web|url=https://www.fifa.com/mm/document/fifafacts/stats-centclub/52/00/59/centuryclub290715_neutral.pdf |archive-url=https://web.archive.org/web/20150905145250/http://www.fifa.com/mm/document/fifafacts/stats-centclub/52/00/59/centuryclub290715_neutral.pdf |url-status=dead |archive-date=5 September 2015 |title=FIFA Century Club |website=Fifa.com |access-date=10 September 2016}}</ref>
+| Top scorer               = [[Majed Abdullah]] (72)<ref>{{cite web |title=Majed Abdullah |url=https://www.rsssf.org/miscellaneous/abdullah-intl.html |website=RSSSF |access-date=2 February 2023 |archive-date=22 March 2019 |archive-url=https://web.archive.org/web/20190322084123/http://www.rsssf.com/miscellaneous/abdullah-intl.html |url-status=live }}</ref>
+| Home Stadium             = [[List of football stadiums in Saudi Arabia|Various]]
+| FIFA Trigramme           = KSA
+| FIFA Rank                = {{FIFA World Rankings|KSA}}
+| FIFA max                 = 21
+| FIFA max date            = July 2004
+| FIFA min                 = 126
+| FIFA min date            = December 2012
+| Elo Rank                 = {{World Football Elo Ratings|Saudi Arabia}}
+| Elo max                  = 27
+| Elo max date             = November 1998
+| Elo min                  = 112
+| Elo min date             = 1970, 1972
+| pattern_la1              = _ksa26h
+| pattern_b1               = _ksa26hA
+| pattern_ra1              = _ksa26h
+| pattern_sh1              = _ksa26h
+| pattern_so1              = _ksa26hl
+| leftarm1                 = 43b88b
+| body1                    = 43b88b
+| rightarm1                = 43b88b
+| shorts1                  = 43b88b
+| socks1                   = 004B49
+| pattern_la2              = _ksa26a
+| pattern_b2               = _ksa26a
+| pattern_ra2              = _ksa26a
+| pattern_sh2              = _ksa26A
+| pattern_so2              = _ksa26al
+| leftarm2                 = ffffff
+| body2                    = ffffff
+| rightarm2                = ffffff
+| shorts2                  = ffffff
+| socks2                   = ffffff
+| First game               = {{#invoke:flag|fb|LIB|1943}} 1–1 {{#invoke:flag|fb-rt|KSA|1938}}<br>([[Beirut]], [[Lebanon]]; 18 January 1957)
+| Largest win              = {{#invoke:flag|fb|TLS}} 0–10 {{#invoke:flag|fb-rt|KSA}}<br>([[Dili]], [[East Timor|Timor-Leste]]; 17 November 2015)
+| Largest loss             = {{nowrap|{{#invoke:flag|fb|UAR}} 13–0 {{#invoke:flag|fb-rt|KSA|1938}}<br>([[Casablanca]], [[Morocco]]; 3 September 1961)}}
+| World cup apps           = 7
+| World cup first          = 1994
+| World cup best           = Round of 16 ([[1994 FIFA World Cup|1994]])
+| Regional name            = [[AFC Asian Cup|Asian Cup]]
+| Regional cup apps        = 12
+| Regional cup first       = [[1984 AFC Asian Cup|1984]]
+| Regional cup best        = '''Champions''' ([[1984 AFC Asian Cup|1984]], [[1988 AFC Asian Cup|1988]], [[1996 AFC Asian Cup|1996]])
+| Confederations cup apps  = 4
+| Confederations cup first = [[1992 King Fahd Cup|1992]]
+| Confederations cup best  = Runners-up ([[1992 King Fahd Cup|1992]])
+| 2ndRegional name         = [[FIFA Arab Cup|Arab Cup]]
+| 2ndRegional cup apps     = 8
+| 2ndRegional cup first    = [[1985 Arab Cup|1985]]
+| 2ndRegional cup best     = '''Champions''' ([[1998 Arab Cup|1998]], [[2002 Arab Cup|2002]])
+| 3rdRegional name         = [[Arabian Gulf Cup]]
+| 3rdRegional cup apps     = 24
+| 3rdRegional cup first    = [[1st Arabian Gulf Cup|1970]]
+| 3rdRegional cup best     = '''Champions''' ([[1994 Gulf Cup of Nations|1994]], [[2002 Gulf Cup of Nations|2002]], [[16th Arabian Gulf Cup|2003–04]])
+| 4thRegional name         = [[CONCACAF Gold Cup]]
+| 4thRegional cup apps     = 1
+| 4thRegional cup first    = [[2025 CONCACAF Gold Cup|2025]]
+| 4thRegional cup best     = Quarter-finals ([[2025 CONCACAF Gold Cup|2025]])
+| medaltemplates           = 
+{{MedalSport|Men's [[Association football|football]]}}
+{{Medal|Competition|[[FIFA Confederations Cup]]}}
+{{MedalSilver|[[1992 King Fahd Cup|Saudi Arabia 1992]]|[[1992 King Fahd Cup squads#Saudi Arabia|Squad]]}}
+{{Medal|Competition|[[Afro-Asian Cup of Nations]]}}
+{{MedalSilver|[[1985 Afro-Asian Cup of Nations|Cameroon and Saudi Arabia 1985]]|Squad}}
+{{MedalSilver|[[1997 Afro-Asian Cup of Nations|South Africa and Saudi Arabia 1997]]|Squad}}
+{{Medal|Competition|[[FIFA Arab Cup|Arab Cup]]}}
+{{MedalGold|[[1998 Arab Cup|Qatar 1998]]|[[1998 Arab Cup squads#Saudi Arabia|Squad]]}}
+{{MedalGold|[[2002 Arab Cup|Kuwait 2002]]|[[2002 Arab Cup squads#Saudi Arabia|Squad]]}}
+{{MedalSilver|[[1992 Arab Cup|Syria 1992]]|[[1992 Arab Cup squads#Saudi Arabia|Squad]]}}
+{{MedalBronze|[[1985 Arab Cup|Saudi Arabia 1985]]|[[1985 Arab Cup squads#Saudi Arabia|Squad]]}}
+{{Medal|Competition|[[AFC Asian Cup]]}}
+{{MedalGold|[[1984 AFC Asian Cup|Singapore 1984]]|[[1984 AFC Asian Cup squads#Saudi Arabia|Squad]]}}
+{{MedalGold|[[1988 AFC Asian Cup|Qatar 1988]]|[[1988 AFC Asian Cup squads#Saudi Arabia|Squad]]}}
+{{MedalGold|[[1996 AFC Asian Cup|UAE 1996]]|[[1996 AFC Asian Cup squads#Saudi Arabia|Squad]]}}
+{{MedalSilver|[[1992 AFC Asian Cup|Japan 1992]]|[[1992 AFC Asian Cup squads#Saudi Arabia|Squad]]}}
+{{MedalSilver|[[2000 AFC Asian Cup|Lebanon 2000]]|[[2000 AFC Asian Cup squads#Saudi Arabia|Squad]]}}
+{{MedalSilver|[[2007 AFC Asian Cup|Indonesia, Malaysia, Thailand and Vietnam 2007]]|[[2007 AFC Asian Cup squads#Saudi Arabia|Squad]]}}
+{{Medal|Competition|[[Asian Games]]}}
+{{MedalSilver|[[Football at the 1986 Asian Games|Seoul 1986]]|[[Football at the 1986 Asian Games – Men's team squads#Saudi Arabia|Squad]]}}
+{{MedalBronze|[[Football at the 1982 Asian Games|New Delhi 1982]]|[[Football at the 1982 Asian Games – Men's team squads#Saudi Arabia|Squad]]}}
+{{Medal|Competition|[[Arab Games]]}}
+{{MedalSilver|[[Football at the 1976 Arab Games|Damascus 1976]]|[[Football at the 1976 Arab Games – Men's team squads#Saudi Arabia|Squad]]}}
+{{MedalBronze|[[Football at the 2007 Arab Games|Cairo 2007]]|[[Football at the 2007 Arab Games – Men's team squads#Saudi Arabia|Squad]]}}
+}}
+
+The '''Saudi Arabia national football team''' ({{langx|ar|مُنْتَخَب السُّعُودِيَّة لِكُرَّةُ الْقَدَم}}) represents [[Saudi Arabia]] in men's international [[Association football|football]]. They are known as ''Al-Suqour Al-Arabiyyah'' (Arabian Falcons) and sometimes ''Al-Suqour Al-Khodhur'' (The Green Falcons), a reference to their traditional colors of green and white, and represent both [[FIFA]] and the [[Asian Football Confederation]] (AFC).
+
+Considered one of Asia's most successful national teams, Saudi Arabia have won the [[AFC Asian Cup]] three times (1984, 1988 and 1996), reached a joint record six Asian Cup finals and have qualified for the [[FIFA World Cup]] on seven occasions since debuting at the [[1994 FIFA World Cup|1994]] tournament. Saudi Arabia are the first Asian team to reach the final of a senior FIFA competition at the [[1992 King Fahd Cup]], which would eventually become the [[FIFA Confederations Cup]]. Only [[Australia men's national soccer team|Australia]] and [[Japan national football team|Japan]] managed to repeat this feat in [[1997 FIFA Confederations Cup|1997]] and [[2001 FIFA Confederations Cup|2001]] respectively, though Australia achieved it when they were a member of the [[Oceania Football Confederation|OFC]].
+
+At the 1994 FIFA World Cup, under the leadership of [[Jorge Solari]], Saudi Arabia beat both [[Belgium national football team|Belgium]] and [[Morocco national football team|Morocco]] in the group stage before falling to [[Sweden men's national football team|Sweden]] in the round of 16. Thus, they became the second Arab team in history to reach the knockout stage of a FIFA World Cup after Morocco in [[1986 FIFA World Cup|1986]] and [[2022 FIFA World Cup|2022]], and one of the few Asian national football teams (the others being Australia, Japan, [[South Korea national football team|South Korea]] and [[North Korea national football team|North Korea]]) to accomplish such a feat to date. During the [[2022 World Cup|2022 FIFA World Cup]], Saudi Arabia caused a large upset when they beat eventual champions [[Argentina national football team|Argentina]] 2–1, the first time Argentina lost to an Asian representative at the World Cup. However, Saudi Arabia then lost the following matches against [[Poland national football team|Poland]] and [[Mexico national football team|Mexico]] to finish last.
+
+In 2027, Saudi Arabia will host the [[2027 AFC Asian Cup|AFC Asian Cup]], the first time that the nation has ever hosted a major international tournament.<ref>{{Cite web |title=Saudi Arabia confirmed as hosts of the AFC Asian Cup 2027 |url=https://www.the-afc.com/en/about_afc/afc_congress/news/saudi_arabia_confirmed_as_hosts_of_the_afc_asian_cup_2027.html |access-date=2023-05-12 |website=the-AFC |language=en |archive-date=21 February 2023 |archive-url=https://web.archive.org/web/20230221161820/https://www.the-afc.com/en/about_afc/afc_congress/news/saudi_arabia_confirmed_as_hosts_of_the_afc_asian_cup_2027.html |url-status=live }}</ref> They will also host the [[2034 FIFA World Cup]].<ref name=":02">{{Cite news |last=Panja |first=Tariq |date=15 November 2023 |title=Inside Man: How FIFA Guided the World Cup to Saudi Arabia |url=https://www.nytimes.com/2023/11/15/world/middleeast/saudi-arabia-fifa-world-cup.html |url-status=live |archive-url=https://web.archive.org/web/20231117041337/https://www.nytimes.com/2023/11/15/world/middleeast/saudi-arabia-fifa-world-cup.html |archive-date=17 November 2023 |access-date=17 November 2023 |work=The New York Times |issn=0362-4331}}</ref>

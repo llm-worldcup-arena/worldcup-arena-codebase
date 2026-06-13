@@ -1,0 +1,2021 @@
+[
+ {
+  "player_id": "754037",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/754037",
+  "name": "AbbosbekFayzullaev",
+  "shirt_number": 11,
+  "club": "Joined:",
+  "club_id": "6890",
+  "market_value": "€7.00m",
+  "market_value_numeric": 7000000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Social-Media:",
+  "nationality": "Türkiye",
+  "citizenships": [
+   "Türkiye",
+   "Uzbekistan",
+   "Uzbekistan",
+   "Uzbekistan",
+   "Uzbekistan",
+   "Uzbekistan"
+  ],
+  "market_value_history": [
+   {
+    "date": "Jul 15, 2021",
+    "value": "€75k",
+    "value_numeric": 75000,
+    "club": "Pakhtakor Tashkent",
+    "age": "17"
+   },
+   {
+    "date": "Dec 10, 2021",
+    "value": "€100k",
+    "value_numeric": 100000,
+    "club": "Pakhtakor Tashkent",
+    "age": "18"
+   },
+   {
+    "date": "Jun 21, 2022",
+    "value": "€150k",
+    "value_numeric": 150000,
+    "club": "Pakhtakor Tashkent",
+    "age": "18"
+   },
+   {
+    "date": "Nov 23, 2022",
+    "value": "€300k",
+    "value_numeric": 300000,
+    "club": "Pakhtakor Tashkent",
+    "age": "19"
+   },
+   {
+    "date": "Jun 2, 2023",
+    "value": "€750k",
+    "value_numeric": 750000,
+    "club": "Pakhtakor Tashkent",
+    "age": "19"
+   },
+   {
+    "date": "Oct 5, 2023",
+    "value": "€2.00m",
+    "value_numeric": 2000000,
+    "club": "CSKA Moscow",
+    "age": "20"
+   },
+   {
+    "date": "Dec 13, 2023",
+    "value": "€4.00m",
+    "value_numeric": 4000000,
+    "club": "CSKA Moscow",
+    "age": "20"
+   },
+   {
+    "date": "Feb 21, 2024",
+    "value": "€5.00m",
+    "value_numeric": 5000000,
+    "club": "CSKA Moscow",
+    "age": "20"
+   },
+   {
+    "date": "Jun 4, 2024",
+    "value": "€6.00m",
+    "value_numeric": 6000000,
+    "club": "CSKA Moscow",
+    "age": "20"
+   },
+   {
+    "date": "Dec 12, 2024",
+    "value": "€8.00m",
+    "value_numeric": 8000000,
+    "club": "CSKA Moscow",
+    "age": "21"
+   },
+   {
+    "date": "Jun 4, 2025",
+    "value": "€8.00m",
+    "value_numeric": 8000000,
+    "club": "CSKA Moscow",
+    "age": "21"
+   },
+   {
+    "date": "Dec 17, 2025",
+    "value": "€7.00m",
+    "value_numeric": 7000000,
+    "club": "Basaksehir FK",
+    "age": "22"
+   },
+   {
+    "date": "May 21, 2026",
+    "value": "€7.00m",
+    "value_numeric": 7000000,
+    "club": "Basaksehir FK",
+    "age": "22"
+   }
+  ],
+  "peak_market_value": 8000000,
+  "transfers": [],
+  "_our_pid": "per_abbosbek_fayzullaev"
+ },
+ {
+  "player_id": "763079",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/763079",
+  "name": "AbdukodirKhusanov",
+  "shirt_number": 45,
+  "club": "Joined:",
+  "club_id": "281",
+  "market_value": "€50.00m",
+  "market_value_numeric": 50000000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Social-Media:",
+  "nationality": "England",
+  "citizenships": [
+   "England",
+   "Uzbekistan",
+   "Uzbekistan",
+   "Uzbekistan",
+   "Uzbekistan",
+   "Uzbekistan"
+  ],
+  "market_value_history": [
+   {
+    "date": "Jun 17, 2022",
+    "value": "€150k",
+    "value_numeric": 150000,
+    "club": "Energetik-BGU Minsk",
+    "age": "18"
+   },
+   {
+    "date": "Nov 30, 2022",
+    "value": "€300k",
+    "value_numeric": 300000,
+    "club": "Energetik-BGU Minsk",
+    "age": "18"
+   },
+   {
+    "date": "Jul 11, 2023",
+    "value": "€400k",
+    "value_numeric": 400000,
+    "club": "Energetik-BGU Minsk",
+    "age": "19"
+   },
+   {
+    "date": "Oct 16, 2023",
+    "value": "€800k",
+    "value_numeric": 800000,
+    "club": "RC Lens",
+    "age": "19"
+   },
+   {
+    "date": "Dec 18, 2023",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "RC Lens",
+    "age": "19"
+   },
+   {
+    "date": "Feb 21, 2024",
+    "value": "€2.00m",
+    "value_numeric": 2000000,
+    "club": "RC Lens",
+    "age": "19"
+   },
+   {
+    "date": "Jun 3, 2024",
+    "value": "€2.50m",
+    "value_numeric": 2500000,
+    "club": "RC Lens",
+    "age": "20"
+   },
+   {
+    "date": "Oct 7, 2024",
+    "value": "€5.00m",
+    "value_numeric": 5000000,
+    "club": "RC Lens",
+    "age": "20"
+   },
+   {
+    "date": "Dec 10, 2024",
+    "value": "€12.00m",
+    "value_numeric": 12000000,
+    "club": "RC Lens",
+    "age": "20"
+   },
+   {
+    "date": "Mar 18, 2025",
+    "value": "€35.00m",
+    "value_numeric": 35000000,
+    "club": "Manchester City",
+    "age": "21"
+   },
+   {
+    "date": "May 30, 2025",
+    "value": "€35.00m",
+    "value_numeric": 35000000,
+    "club": "Manchester City",
+    "age": "21"
+   },
+   {
+    "date": "Dec 9, 2025",
+    "value": "€35.00m",
+    "value_numeric": 35000000,
+    "club": "Manchester City",
+    "age": "21"
+   },
+   {
+    "date": "Jun 3, 2026",
+    "value": "€50.00m",
+    "value_numeric": 50000000,
+    "club": "Manchester City",
+    "age": "22"
+   }
+  ],
+  "peak_market_value": 50000000,
+  "transfers": [],
+  "_our_pid": "per_abdukodir_khusanov"
+ },
+ {
+  "player_id": "527866",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/527866",
+  "name": "AbduvokhidNematov",
+  "shirt_number": 1,
+  "club": "Joined:",
+  "club_id": "20591",
+  "market_value": "€1.50m",
+  "market_value_numeric": 1500000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Social-Media:",
+  "nationality": "Uzbekistan",
+  "citizenships": [
+   "Uzbekistan",
+   "Uzbekistan",
+   "Uzbekistan",
+   "Uzbekistan",
+   "Uzbekistan",
+   "Uzbekistan"
+  ],
+  "market_value_history": [
+   {
+    "date": "Aug 11, 2017",
+    "value": "€50k",
+    "value_numeric": 50000,
+    "club": "Unknown",
+    "age": "16"
+   },
+   {
+    "date": "Dec 1, 2017",
+    "value": "€50k",
+    "value_numeric": 50000,
+    "club": "Unknown",
+    "age": "16"
+   },
+   {
+    "date": "Dec 29, 2018",
+    "value": "€50k",
+    "value_numeric": 50000,
+    "club": "Nasaf Qarshi",
+    "age": "17"
+   },
+   {
+    "date": "Jun 28, 2019",
+    "value": "€175k",
+    "value_numeric": 175000,
+    "club": "Nasaf Qarshi",
+    "age": "18"
+   },
+   {
+    "date": "Dec 29, 2019",
+    "value": "€325k",
+    "value_numeric": 325000,
+    "club": "Nasaf Qarshi",
+    "age": "18"
+   },
+   {
+    "date": "Apr 8, 2020",
+    "value": "€300k",
+    "value_numeric": 300000,
+    "club": "Nasaf Qarshi",
+    "age": "19"
+   },
+   {
+    "date": "Sep 1, 2020",
+    "value": "€300k",
+    "value_numeric": 300000,
+    "club": "Nasaf Qarshi",
+    "age": "19"
+   },
+   {
+    "date": "Dec 28, 2020",
+    "value": "€600k",
+    "value_numeric": 600000,
+    "club": "Nasaf Qarshi",
+    "age": "19"
+   },
+   {
+    "date": "Jul 15, 2021",
+    "value": "€600k",
+    "value_numeric": 600000,
+    "club": "Nasaf Qarshi",
+    "age": "20"
+   },
+   {
+    "date": "Dec 10, 2021",
+    "value": "€600k",
+    "value_numeric": 600000,
+    "club": "Nasaf Qarshi",
+    "age": "20"
+   },
+   {
+    "date": "Jun 21, 2022",
+    "value": "€650k",
+    "value_numeric": 650000,
+    "club": "Nasaf Qarshi",
+    "age": "21"
+   },
+   {
+    "date": "Nov 23, 2022",
+    "value": "€650k",
+    "value_numeric": 650000,
+    "club": "Nasaf Qarshi",
+    "age": "21"
+   },
+   {
+    "date": "Jun 2, 2023",
+    "value": "€700k",
+    "value_numeric": 700000,
+    "club": "Nasaf Qarshi",
+    "age": "22"
+   },
+   {
+    "date": "Dec 4, 2023",
+    "value": "€700k",
+    "value_numeric": 700000,
+    "club": "Nasaf Qarshi",
+    "age": "22"
+   },
+   {
+    "date": "Jun 27, 2024",
+    "value": "€900k",
+    "value_numeric": 900000,
+    "club": "Nasaf Qarshi",
+    "age": "23"
+   },
+   {
+    "date": "Dec 3, 2024",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "Nasaf Qarshi",
+    "age": "23"
+   },
+   {
+    "date": "Jun 16, 2025",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "Nasaf Qarshi",
+    "age": "24"
+   },
+   {
+    "date": "Dec 4, 2025",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "Nasaf Qarshi",
+    "age": "24"
+   },
+   {
+    "date": "May 13, 2026",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "Nasaf Qarshi",
+    "age": "25"
+   }
+  ],
+  "peak_market_value": 1500000,
+  "transfers": [],
+  "_our_pid": "per_abduvohid_nematov"
+ },
+ {
+  "player_id": "517918",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/517918",
+  "name": "AzizbekAmanov",
+  "shirt_number": 8,
+  "club": "Joined:",
+  "club_id": "15300",
+  "market_value": "€500k",
+  "market_value_numeric": 500000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Dec 31, 2026",
+  "nationality": "Uzbekistan",
+  "citizenships": [
+   "Uzbekistan",
+   "Uzbekistan",
+   "Uzbekistan",
+   "Uzbekistan",
+   "Uzbekistan",
+   "Uzbekistan"
+  ],
+  "market_value_history": [
+   {
+    "date": "Jul 15, 2017",
+    "value": "€75k",
+    "value_numeric": 75000,
+    "club": "Lokomotiv Tashkent",
+    "age": "19"
+   },
+   {
+    "date": "Dec 1, 2017",
+    "value": "€175k",
+    "value_numeric": 175000,
+    "club": "Lokomotiv Tashkent",
+    "age": "20"
+   },
+   {
+    "date": "May 20, 2018",
+    "value": "€200k",
+    "value_numeric": 200000,
+    "club": "Lokomotiv Tashkent",
+    "age": "20"
+   },
+   {
+    "date": "Dec 29, 2018",
+    "value": "€200k",
+    "value_numeric": 200000,
+    "club": "Lokomotiv Tashkent",
+    "age": "21"
+   },
+   {
+    "date": "Jun 28, 2019",
+    "value": "€250k",
+    "value_numeric": 250000,
+    "club": "Lokomotiv Tashkent",
+    "age": "21"
+   },
+   {
+    "date": "Dec 29, 2019",
+    "value": "€250k",
+    "value_numeric": 250000,
+    "club": "Lokomotiv Tashkent",
+    "age": "22"
+   },
+   {
+    "date": "Sep 1, 2020",
+    "value": "€250k",
+    "value_numeric": 250000,
+    "club": "Lokomotiv Tashkent",
+    "age": "22"
+   },
+   {
+    "date": "Dec 28, 2020",
+    "value": "€350k",
+    "value_numeric": 350000,
+    "club": "Lokomotiv Tashkent",
+    "age": "23"
+   },
+   {
+    "date": "Jul 15, 2021",
+    "value": "€350k",
+    "value_numeric": 350000,
+    "club": "Lokomotiv Tashkent",
+    "age": "23"
+   },
+   {
+    "date": "Dec 10, 2021",
+    "value": "€550k",
+    "value_numeric": 550000,
+    "club": "Lokomotiv Tashkent",
+    "age": "24"
+   },
+   {
+    "date": "May 20, 2022",
+    "value": "€500k",
+    "value_numeric": 500000,
+    "club": "Esteghlal FC",
+    "age": "24"
+   },
+   {
+    "date": "Nov 9, 2022",
+    "value": "€375k",
+    "value_numeric": 375000,
+    "club": "Esteghlal FC",
+    "age": "25"
+   },
+   {
+    "date": "Jun 2, 2023",
+    "value": "€400k",
+    "value_numeric": 400000,
+    "club": "Nasaf Qarshi",
+    "age": "25"
+   },
+   {
+    "date": "Dec 4, 2023",
+    "value": "€500k",
+    "value_numeric": 500000,
+    "club": "Nasaf Qarshi",
+    "age": "26"
+   },
+   {
+    "date": "Mar 8, 2024",
+    "value": "€700k",
+    "value_numeric": 700000,
+    "club": "Khor Fakkan SSC",
+    "age": "26"
+   },
+   {
+    "date": "Jun 3, 2024",
+    "value": "€700k",
+    "value_numeric": 700000,
+    "club": "Khor Fakkan SSC",
+    "age": "26"
+   },
+   {
+    "date": "Dec 3, 2024",
+    "value": "€600k",
+    "value_numeric": 600000,
+    "club": "Neftchi Fergana",
+    "age": "27"
+   },
+   {
+    "date": "Jun 16, 2025",
+    "value": "€450k",
+    "value_numeric": 450000,
+    "club": "Bunyodkor Tashkent",
+    "age": "27"
+   },
+   {
+    "date": "Dec 4, 2025",
+    "value": "€450k",
+    "value_numeric": 450000,
+    "club": "FC Buxoro",
+    "age": "28"
+   },
+   {
+    "date": "May 13, 2026",
+    "value": "€500k",
+    "value_numeric": 500000,
+    "club": "Dinamo Samarqand",
+    "age": "28"
+   }
+  ],
+  "peak_market_value": 700000,
+  "transfers": [],
+  "_our_pid": "per_azizbek_amonov"
+ },
+ {
+  "player_id": "431911",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/431911",
+  "name": "AzizGaniev",
+  "shirt_number": 6,
+  "club": "Joined:",
+  "club_id": "78312",
+  "market_value": "€2.00m",
+  "market_value_numeric": 2000000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Social-Media:",
+  "nationality": "United Arab Emirates",
+  "citizenships": [
+   "United Arab Emirates",
+   "Uzbekistan",
+   "Uzbekistan",
+   "Uzbekistan",
+   "Uzbekistan",
+   "Uzbekistan"
+  ],
+  "market_value_history": [
+   {
+    "date": "Apr 18, 2016",
+    "value": "€100k",
+    "value_numeric": 100000,
+    "club": "Nasaf Qarshi",
+    "age": "18"
+   },
+   {
+    "date": "Nov 30, 2016",
+    "value": "€200k",
+    "value_numeric": 200000,
+    "club": "Nasaf Qarshi",
+    "age": "18"
+   },
+   {
+    "date": "Jul 15, 2017",
+    "value": "€350k",
+    "value_numeric": 350000,
+    "club": "Nasaf Qarshi",
+    "age": "19"
+   },
+   {
+    "date": "Dec 1, 2017",
+    "value": "€700k",
+    "value_numeric": 700000,
+    "club": "Nasaf Qarshi",
+    "age": "19"
+   },
+   {
+    "date": "May 20, 2018",
+    "value": "€900k",
+    "value_numeric": 900000,
+    "club": "Nasaf Qarshi",
+    "age": "20"
+   },
+   {
+    "date": "Dec 29, 2018",
+    "value": "€1.00m",
+    "value_numeric": 1000000,
+    "club": "Nasaf Qarshi",
+    "age": "20"
+   },
+   {
+    "date": "Jun 28, 2019",
+    "value": "€1.00m",
+    "value_numeric": 1000000,
+    "club": "Nasaf Qarshi",
+    "age": "21"
+   },
+   {
+    "date": "Dec 29, 2019",
+    "value": "€1.10m",
+    "value_numeric": 1100000,
+    "club": "Nasaf Qarshi",
+    "age": "21"
+   },
+   {
+    "date": "Apr 8, 2020",
+    "value": "€1.00m",
+    "value_numeric": 1000000,
+    "club": "Shabab Al-Ahli Club",
+    "age": "22"
+   },
+   {
+    "date": "Dec 4, 2020",
+    "value": "€1.80m",
+    "value_numeric": 1800000,
+    "club": "Shabab Al-Ahli Club",
+    "age": "22"
+   },
+   {
+    "date": "May 27, 2021",
+    "value": "€2.20m",
+    "value_numeric": 2200000,
+    "club": "Shabab Al-Ahli Club",
+    "age": "23"
+   },
+   {
+    "date": "Nov 25, 2021",
+    "value": "€2.00m",
+    "value_numeric": 2000000,
+    "club": "Shabab Al-Ahli Club",
+    "age": "23"
+   },
+   {
+    "date": "May 18, 2022",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "Shabab Al-Ahli Club",
+    "age": "24"
+   },
+   {
+    "date": "Dec 15, 2022",
+    "value": "€2.00m",
+    "value_numeric": 2000000,
+    "club": "Shabab Al-Ahli Club",
+    "age": "24"
+   },
+   {
+    "date": "May 31, 2023",
+    "value": "€2.50m",
+    "value_numeric": 2500000,
+    "club": "Shabab Al-Ahli Club",
+    "age": "25"
+   },
+   {
+    "date": "Oct 12, 2023",
+    "value": "€3.00m",
+    "value_numeric": 3000000,
+    "club": "Shabab Al-Ahli Club",
+    "age": "25"
+   },
+   {
+    "date": "Mar 8, 2024",
+    "value": "€3.50m",
+    "value_numeric": 3500000,
+    "club": "Shabab Al-Ahli Club",
+    "age": "26"
+   },
+   {
+    "date": "Jun 3, 2024",
+    "value": "€3.00m",
+    "value_numeric": 3000000,
+    "club": "Shabab Al-Ahli Club",
+    "age": "26"
+   },
+   {
+    "date": "Nov 18, 2024",
+    "value": "€2.80m",
+    "value_numeric": 2800000,
+    "club": "Al-Bataeh CSC",
+    "age": "26"
+   },
+   {
+    "date": "May 29, 2025",
+    "value": "€2.50m",
+    "value_numeric": 2500000,
+    "club": "Al-Bataeh CSC",
+    "age": "27"
+   },
+   {
+    "date": "Nov 28, 2025",
+    "value": "€2.20m",
+    "value_numeric": 2200000,
+    "club": "Al-Bataeh CSC",
+    "age": "27"
+   },
+   {
+    "date": "May 26, 2026",
+    "value": "€2.00m",
+    "value_numeric": 2000000,
+    "club": "Al-Bataeh CSC",
+    "age": "28"
+   }
+  ],
+  "peak_market_value": 3500000,
+  "transfers": [],
+  "_our_pid": "per_azizjon_ganiev"
+ },
+ {
+  "player_id": "1106187",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/1106187",
+  "name": "BekhruzKarimov",
+  "shirt_number": 2,
+  "club": "Joined:",
+  "club_id": "65036",
+  "market_value": "€350k",
+  "market_value_numeric": 350000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Dec 31, 2027",
+  "nationality": "Uzbekistan",
+  "citizenships": [
+   "Uzbekistan",
+   "Uzbekistan",
+   "Uzbekistan",
+   "Uzbekistan"
+  ],
+  "market_value_history": [
+   {
+    "date": "Jun 16, 2025",
+    "value": "€50k",
+    "value_numeric": 50000,
+    "club": "Surkhon Termiz",
+    "age": "17"
+   },
+   {
+    "date": "Dec 4, 2025",
+    "value": "€250k",
+    "value_numeric": 250000,
+    "club": "Surkhon Termiz",
+    "age": "18"
+   },
+   {
+    "date": "May 13, 2026",
+    "value": "€350k",
+    "value_numeric": 350000,
+    "club": "Surkhon Termiz",
+    "age": "18"
+   }
+  ],
+  "peak_market_value": 350000,
+  "transfers": [],
+  "_our_pid": "per_bekhruz_karimov"
+ },
+ {
+  "player_id": "358166",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/358166",
+  "name": "EldorShomurodov",
+  "shirt_number": 14,
+  "club": "Joined:",
+  "club_id": "6890",
+  "market_value": "€7.00m",
+  "market_value_numeric": 7000000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Outfitter:",
+  "nationality": "Türkiye",
+  "citizenships": [
+   "Türkiye",
+   "Uzbekistan",
+   "Uzbekistan",
+   "Uzbekistan",
+   "Uzbekistan",
+   "Uzbekistan"
+  ],
+  "market_value_history": [
+   {
+    "date": "Apr 15, 2016",
+    "value": "€375k",
+    "value_numeric": 375000,
+    "club": "Bunyodkor Tashkent",
+    "age": "20"
+   },
+   {
+    "date": "Jun 26, 2016",
+    "value": "€400k",
+    "value_numeric": 400000,
+    "club": "Bunyodkor Tashkent",
+    "age": "20"
+   },
+   {
+    "date": "Nov 30, 2016",
+    "value": "€600k",
+    "value_numeric": 600000,
+    "club": "Bunyodkor Tashkent",
+    "age": "21"
+   },
+   {
+    "date": "Jul 15, 2017",
+    "value": "€750k",
+    "value_numeric": 750000,
+    "club": "FC Rostov",
+    "age": "22"
+   },
+   {
+    "date": "Dec 23, 2017",
+    "value": "€600k",
+    "value_numeric": 600000,
+    "club": "FC Rostov",
+    "age": "22"
+   },
+   {
+    "date": "Jun 6, 2018",
+    "value": "€700k",
+    "value_numeric": 700000,
+    "club": "FC Rostov",
+    "age": "22"
+   },
+   {
+    "date": "Dec 20, 2018",
+    "value": "€900k",
+    "value_numeric": 900000,
+    "club": "FC Rostov",
+    "age": "23"
+   },
+   {
+    "date": "Feb 22, 2019",
+    "value": "€1.00m",
+    "value_numeric": 1000000,
+    "club": "FC Rostov",
+    "age": "23"
+   },
+   {
+    "date": "Jun 14, 2019",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "FC Rostov",
+    "age": "23"
+   },
+   {
+    "date": "Sep 10, 2019",
+    "value": "€2.50m",
+    "value_numeric": 2500000,
+    "club": "FC Rostov",
+    "age": "24"
+   },
+   {
+    "date": "Dec 23, 2019",
+    "value": "€6.50m",
+    "value_numeric": 6500000,
+    "club": "FC Rostov",
+    "age": "24"
+   },
+   {
+    "date": "Apr 8, 2020",
+    "value": "€5.20m",
+    "value_numeric": 5200000,
+    "club": "FC Rostov",
+    "age": "24"
+   },
+   {
+    "date": "Jul 29, 2020",
+    "value": "€6.50m",
+    "value_numeric": 6500000,
+    "club": "FC Rostov",
+    "age": "25"
+   },
+   {
+    "date": "Dec 29, 2020",
+    "value": "€6.50m",
+    "value_numeric": 6500000,
+    "club": "Genoa CFC",
+    "age": "25"
+   },
+   {
+    "date": "Mar 23, 2021",
+    "value": "€7.00m",
+    "value_numeric": 7000000,
+    "club": "Genoa CFC",
+    "age": "25"
+   },
+   {
+    "date": "Jun 3, 2021",
+    "value": "€7.00m",
+    "value_numeric": 7000000,
+    "club": "Genoa CFC",
+    "age": "25"
+   },
+   {
+    "date": "Oct 14, 2021",
+    "value": "€14.00m",
+    "value_numeric": 14000000,
+    "club": "AS Roma",
+    "age": "26"
+   },
+   {
+    "date": "Dec 28, 2021",
+    "value": "€12.00m",
+    "value_numeric": 12000000,
+    "club": "AS Roma",
+    "age": "26"
+   },
+   {
+    "date": "Mar 15, 2022",
+    "value": "€10.00m",
+    "value_numeric": 10000000,
+    "club": "AS Roma",
+    "age": "26"
+   },
+   {
+    "date": "Jun 7, 2022",
+    "value": "€8.00m",
+    "value_numeric": 8000000,
+    "club": "AS Roma",
+    "age": "26"
+   },
+   {
+    "date": "Nov 11, 2022",
+    "value": "€7.00m",
+    "value_numeric": 7000000,
+    "club": "AS Roma",
+    "age": "27"
+   },
+   {
+    "date": "Jun 15, 2023",
+    "value": "€6.00m",
+    "value_numeric": 6000000,
+    "club": "Spezia Calcio",
+    "age": "27"
+   },
+   {
+    "date": "Dec 20, 2023",
+    "value": "€5.00m",
+    "value_numeric": 5000000,
+    "club": "Cagliari Calcio",
+    "age": "28"
+   },
+   {
+    "date": "Jun 5, 2024",
+    "value": "€5.00m",
+    "value_numeric": 5000000,
+    "club": "Cagliari Calcio",
+    "age": "28"
+   },
+   {
+    "date": "Dec 18, 2024",
+    "value": "€4.00m",
+    "value_numeric": 4000000,
+    "club": "AS Roma",
+    "age": "29"
+   },
+   {
+    "date": "Jun 17, 2025",
+    "value": "€5.00m",
+    "value_numeric": 5000000,
+    "club": "AS Roma",
+    "age": "29"
+   },
+   {
+    "date": "Dec 17, 2025",
+    "value": "€5.00m",
+    "value_numeric": 5000000,
+    "club": "Basaksehir FK",
+    "age": "30"
+   },
+   {
+    "date": "Mar 5, 2026",
+    "value": "€7.00m",
+    "value_numeric": 7000000,
+    "club": "Basaksehir FK",
+    "age": "30"
+   },
+   {
+    "date": "May 21, 2026",
+    "value": "€7.00m",
+    "value_numeric": 7000000,
+    "club": "Basaksehir FK",
+    "age": "30"
+   }
+  ],
+  "peak_market_value": 14000000,
+  "transfers": [],
+  "_our_pid": "per_eldor_shomurodov"
+ },
+ {
+  "player_id": "185372",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/185372",
+  "name": "IgorSergeev",
+  "shirt_number": 19,
+  "club": "Joined:",
+  "club_id": "6079",
+  "market_value": "€1.20m",
+  "market_value_numeric": 1200000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Current club:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Social-Media:",
+  "nationality": "Iran",
+  "citizenships": [
+   "Iran",
+   "Uzbekistan",
+   "Uzbekistan",
+   "Uzbekistan",
+   "Uzbekistan",
+   "Uzbekistan",
+   "Russia"
+  ],
+  "market_value_history": [
+   {
+    "date": "Dec 20, 2012",
+    "value": "€200k",
+    "value_numeric": 200000,
+    "club": "Pakhtakor Tashkent",
+    "age": "19"
+   },
+   {
+    "date": "Jul 11, 2013",
+    "value": "€300k",
+    "value_numeric": 300000,
+    "club": "Pakhtakor Tashkent",
+    "age": "20"
+   },
+   {
+    "date": "Apr 15, 2016",
+    "value": "€1.80m",
+    "value_numeric": 1800000,
+    "club": "Pakhtakor Tashkent",
+    "age": "22"
+   },
+   {
+    "date": "Jul 6, 2016",
+    "value": "€2.00m",
+    "value_numeric": 2000000,
+    "club": "Beijing Guoan",
+    "age": "23"
+   },
+   {
+    "date": "Nov 20, 2016",
+    "value": "€1.60m",
+    "value_numeric": 1600000,
+    "club": "Beijing Guoan",
+    "age": "23"
+   },
+   {
+    "date": "Jul 15, 2017",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "Pakhtakor Tashkent",
+    "age": "24"
+   },
+   {
+    "date": "Dec 1, 2017",
+    "value": "€1.80m",
+    "value_numeric": 1800000,
+    "club": "Pakhtakor Tashkent",
+    "age": "24"
+   },
+   {
+    "date": "Dec 29, 2018",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "Pakhtakor Tashkent",
+    "age": "25"
+   },
+   {
+    "date": "Jun 28, 2019",
+    "value": "€1.40m",
+    "value_numeric": 1400000,
+    "club": "Pakhtakor Tashkent",
+    "age": "26"
+   },
+   {
+    "date": "Dec 29, 2019",
+    "value": "€1.60m",
+    "value_numeric": 1600000,
+    "club": "Pakhtakor Tashkent",
+    "age": "26"
+   },
+   {
+    "date": "Apr 8, 2020",
+    "value": "€1.30m",
+    "value_numeric": 1300000,
+    "club": "Pakhtakor Tashkent",
+    "age": "26"
+   },
+   {
+    "date": "Sep 1, 2020",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "Pakhtakor Tashkent",
+    "age": "27"
+   },
+   {
+    "date": "Dec 28, 2020",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "Pakhtakor Tashkent",
+    "age": "27"
+   },
+   {
+    "date": "Jun 11, 2021",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "FC Aktobe",
+    "age": "28"
+   },
+   {
+    "date": "Nov 30, 2021",
+    "value": "€1.70m",
+    "value_numeric": 1700000,
+    "club": "Tobol Kostanay",
+    "age": "28"
+   },
+   {
+    "date": "Jun 10, 2022",
+    "value": "€1.70m",
+    "value_numeric": 1700000,
+    "club": "Tobol Kostanay",
+    "age": "29"
+   },
+   {
+    "date": "Nov 25, 2022",
+    "value": "€1.40m",
+    "value_numeric": 1400000,
+    "club": "Tobol Kostanay",
+    "age": "29"
+   },
+   {
+    "date": "Jun 6, 2023",
+    "value": "€1.20m",
+    "value_numeric": 1200000,
+    "club": "Tobol Kostanay",
+    "age": "30"
+   },
+   {
+    "date": "Jan 9, 2024",
+    "value": "€1.20m",
+    "value_numeric": 1200000,
+    "club": "BG Pathum United",
+    "age": "30"
+   },
+   {
+    "date": "Aug 26, 2024",
+    "value": "€1.00m",
+    "value_numeric": 1000000,
+    "club": "BG Pathum United",
+    "age": "31"
+   },
+   {
+    "date": "Dec 9, 2024",
+    "value": "€800k",
+    "value_numeric": 800000,
+    "club": "BG Pathum United",
+    "age": "31"
+   },
+   {
+    "date": "Jun 16, 2025",
+    "value": "€1.00m",
+    "value_numeric": 1000000,
+    "club": "Pakhtakor Tashkent",
+    "age": "32"
+   },
+   {
+    "date": "Dec 4, 2025",
+    "value": "€1.20m",
+    "value_numeric": 1200000,
+    "club": "Pakhtakor Tashkent",
+    "age": "32"
+   },
+   {
+    "date": "May 21, 2026",
+    "value": "€1.20m",
+    "value_numeric": 1200000,
+    "club": "Persepolis FC",
+    "age": "33"
+   }
+  ],
+  "peak_market_value": 2000000,
+  "transfers": [],
+  "_our_pid": "per_igor_sergeev"
+ },
+ {
+  "player_id": "274536",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/274536",
+  "name": "JaloliddinMasharipov",
+  "shirt_number": 77,
+  "club": "Joined:",
+  "club_id": "1076",
+  "market_value": "€1.00m",
+  "market_value_numeric": 1000000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Social-Media:",
+  "nationality": "Iran",
+  "citizenships": [
+   "Iran",
+   "Uzbekistan",
+   "Uzbekistan",
+   "Uzbekistan",
+   "Uzbekistan",
+   "Uzbekistan"
+  ],
+  "market_value_history": [
+   {
+    "date": "Jul 11, 2013",
+    "value": "€100k",
+    "value_numeric": 100000,
+    "club": "Pakhtakor Tashkent",
+    "age": "19"
+   },
+   {
+    "date": "Apr 15, 2016",
+    "value": "€250k",
+    "value_numeric": 250000,
+    "club": "Pakhtakor Tashkent",
+    "age": "22"
+   },
+   {
+    "date": "Jun 26, 2016",
+    "value": "€300k",
+    "value_numeric": 300000,
+    "club": "Pakhtakor Tashkent",
+    "age": "22"
+   },
+   {
+    "date": "Nov 30, 2016",
+    "value": "€450k",
+    "value_numeric": 450000,
+    "club": "Pakhtakor Tashkent",
+    "age": "23"
+   },
+   {
+    "date": "Jul 15, 2017",
+    "value": "€700k",
+    "value_numeric": 700000,
+    "club": "Lokomotiv Tashkent",
+    "age": "23"
+   },
+   {
+    "date": "Dec 1, 2017",
+    "value": "€1.00m",
+    "value_numeric": 1000000,
+    "club": "Lokomotiv Tashkent",
+    "age": "24"
+   },
+   {
+    "date": "May 20, 2018",
+    "value": "€1.20m",
+    "value_numeric": 1200000,
+    "club": "Pakhtakor Tashkent",
+    "age": "24"
+   },
+   {
+    "date": "Dec 29, 2018",
+    "value": "€1.40m",
+    "value_numeric": 1400000,
+    "club": "Pakhtakor Tashkent",
+    "age": "25"
+   },
+   {
+    "date": "Jun 28, 2019",
+    "value": "€1.60m",
+    "value_numeric": 1600000,
+    "club": "Pakhtakor Tashkent",
+    "age": "25"
+   },
+   {
+    "date": "Dec 29, 2019",
+    "value": "€1.80m",
+    "value_numeric": 1800000,
+    "club": "Pakhtakor Tashkent",
+    "age": "26"
+   },
+   {
+    "date": "Apr 8, 2020",
+    "value": "€1.40m",
+    "value_numeric": 1400000,
+    "club": "Pakhtakor Tashkent",
+    "age": "26"
+   },
+   {
+    "date": "Sep 1, 2020",
+    "value": "€1.80m",
+    "value_numeric": 1800000,
+    "club": "Pakhtakor Tashkent",
+    "age": "27"
+   },
+   {
+    "date": "Dec 28, 2020",
+    "value": "€2.00m",
+    "value_numeric": 2000000,
+    "club": "Pakhtakor Tashkent",
+    "age": "27"
+   },
+   {
+    "date": "May 27, 2021",
+    "value": "€2.80m",
+    "value_numeric": 2800000,
+    "club": "Shabab Al-Ahli Club",
+    "age": "27"
+   },
+   {
+    "date": "Jan 6, 2022",
+    "value": "€3.00m",
+    "value_numeric": 3000000,
+    "club": "Al-Nassr FC",
+    "age": "28"
+   },
+   {
+    "date": "Jun 30, 2022",
+    "value": "€3.00m",
+    "value_numeric": 3000000,
+    "club": "Al-Nassr FC",
+    "age": "28"
+   },
+   {
+    "date": "Dec 2, 2022",
+    "value": "€2.50m",
+    "value_numeric": 2500000,
+    "club": "Al-Nassr FC",
+    "age": "29"
+   },
+   {
+    "date": "Jun 12, 2023",
+    "value": "€2.00m",
+    "value_numeric": 2000000,
+    "club": "Al-Nassr FC",
+    "age": "29"
+   },
+   {
+    "date": "Dec 20, 2023",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "Panserraikos",
+    "age": "30"
+   },
+   {
+    "date": "Jun 5, 2024",
+    "value": "€1.70m",
+    "value_numeric": 1700000,
+    "club": "Esteghlal FC",
+    "age": "30"
+   },
+   {
+    "date": "Dec 23, 2024",
+    "value": "€1.80m",
+    "value_numeric": 1800000,
+    "club": "Esteghlal FC",
+    "age": "31"
+   },
+   {
+    "date": "May 16, 2025",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "Esteghlal FC",
+    "age": "31"
+   },
+   {
+    "date": "Dec 8, 2025",
+    "value": "€1.20m",
+    "value_numeric": 1200000,
+    "club": "Esteghlal FC",
+    "age": "32"
+   },
+   {
+    "date": "May 21, 2026",
+    "value": "€1.00m",
+    "value_numeric": 1000000,
+    "club": "Esteghlal FC",
+    "age": "32"
+   }
+  ],
+  "peak_market_value": 3000000,
+  "transfers": [],
+  "_our_pid": "per_jaloliddin_masharipov"
+ },
+ {
+  "player_id": "492558",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/492558",
+  "name": "KhozhiakbarAlizhonov",
+  "shirt_number": 7,
+  "club": "Joined:",
+  "club_id": "3718",
+  "market_value": "€1.30m",
+  "market_value_numeric": 1300000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Current club:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Social-Media:",
+  "nationality": "Uzbekistan",
+  "citizenships": [
+   "Uzbekistan",
+   "Uzbekistan",
+   "Uzbekistan",
+   "Uzbekistan",
+   "Uzbekistan",
+   "Uzbekistan"
+  ],
+  "market_value_history": [
+   {
+    "date": "Mar 9, 2017",
+    "value": "€50k",
+    "value_numeric": 50000,
+    "club": "Pakhtakor Tashkent",
+    "age": "19"
+   },
+   {
+    "date": "Jul 15, 2017",
+    "value": "€100k",
+    "value_numeric": 100000,
+    "club": "Pakhtakor Tashkent",
+    "age": "20"
+   },
+   {
+    "date": "Dec 1, 2017",
+    "value": "€150k",
+    "value_numeric": 150000,
+    "club": "Pakhtakor Tashkent",
+    "age": "20"
+   },
+   {
+    "date": "Dec 29, 2018",
+    "value": "€200k",
+    "value_numeric": 200000,
+    "club": "Pakhtakor Tashkent",
+    "age": "21"
+   },
+   {
+    "date": "Jun 28, 2019",
+    "value": "€500k",
+    "value_numeric": 500000,
+    "club": "Pakhtakor Tashkent",
+    "age": "22"
+   },
+   {
+    "date": "Dec 29, 2019",
+    "value": "€700k",
+    "value_numeric": 700000,
+    "club": "Pakhtakor Tashkent",
+    "age": "22"
+   },
+   {
+    "date": "Apr 8, 2020",
+    "value": "€550k",
+    "value_numeric": 550000,
+    "club": "Pakhtakor Tashkent",
+    "age": "22"
+   },
+   {
+    "date": "Sep 1, 2020",
+    "value": "€700k",
+    "value_numeric": 700000,
+    "club": "Pakhtakor Tashkent",
+    "age": "23"
+   },
+   {
+    "date": "Dec 28, 2020",
+    "value": "€900k",
+    "value_numeric": 900000,
+    "club": "Pakhtakor Tashkent",
+    "age": "23"
+   },
+   {
+    "date": "Jul 15, 2021",
+    "value": "€800k",
+    "value_numeric": 800000,
+    "club": "Pakhtakor Tashkent",
+    "age": "24"
+   },
+   {
+    "date": "Dec 10, 2021",
+    "value": "€800k",
+    "value_numeric": 800000,
+    "club": "Pakhtakor Tashkent",
+    "age": "24"
+   },
+   {
+    "date": "Jun 21, 2022",
+    "value": "€800k",
+    "value_numeric": 800000,
+    "club": "Pakhtakor Tashkent",
+    "age": "25"
+   },
+   {
+    "date": "Nov 23, 2022",
+    "value": "€750k",
+    "value_numeric": 750000,
+    "club": "Pakhtakor Tashkent",
+    "age": "25"
+   },
+   {
+    "date": "Jun 2, 2023",
+    "value": "€900k",
+    "value_numeric": 900000,
+    "club": "Pakhtakor Tashkent",
+    "age": "26"
+   },
+   {
+    "date": "Dec 4, 2023",
+    "value": "€1.00m",
+    "value_numeric": 1000000,
+    "club": "Pakhtakor Tashkent",
+    "age": "26"
+   },
+   {
+    "date": "Jun 27, 2024",
+    "value": "€900k",
+    "value_numeric": 900000,
+    "club": "Pakhtakor Tashkent",
+    "age": "27"
+   },
+   {
+    "date": "Dec 3, 2024",
+    "value": "€800k",
+    "value_numeric": 800000,
+    "club": "Pakhtakor Tashkent",
+    "age": "27"
+   },
+   {
+    "date": "Jun 16, 2025",
+    "value": "€800k",
+    "value_numeric": 800000,
+    "club": "Pakhtakor Tashkent",
+    "age": "28"
+   },
+   {
+    "date": "Dec 4, 2025",
+    "value": "€1.20m",
+    "value_numeric": 1200000,
+    "club": "Pakhtakor Tashkent",
+    "age": "28"
+   },
+   {
+    "date": "May 13, 2026",
+    "value": "€1.30m",
+    "value_numeric": 1300000,
+    "club": "Pakhtakor Tashkent",
+    "age": "29"
+   }
+  ],
+  "peak_market_value": 1300000,
+  "transfers": [],
+  "_our_pid": "per_khojiakbar_alijonov"
+ },
+ {
+  "player_id": "288915",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/288915",
+  "name": "OdildzhonKhamrobekov",
+  "shirt_number": 21,
+  "club": "Joined:",
+  "club_id": "12935",
+  "market_value": "€1.00m",
+  "market_value_numeric": 1000000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Social-Media:",
+  "nationality": "Iran",
+  "citizenships": [
+   "Iran",
+   "Uzbekistan",
+   "Uzbekistan",
+   "Uzbekistan",
+   "Uzbekistan",
+   "Uzbekistan"
+  ],
+  "market_value_history": [
+   {
+    "date": "Apr 15, 2016",
+    "value": "€75k",
+    "value_numeric": 75000,
+    "club": "Nasaf Qarshi",
+    "age": "20"
+   },
+   {
+    "date": "Nov 30, 2016",
+    "value": "€100k",
+    "value_numeric": 100000,
+    "club": "Nasaf Qarshi",
+    "age": "20"
+   },
+   {
+    "date": "Jul 15, 2017",
+    "value": "€200k",
+    "value_numeric": 200000,
+    "club": "Nasaf Qarshi",
+    "age": "21"
+   },
+   {
+    "date": "Dec 1, 2017",
+    "value": "€400k",
+    "value_numeric": 400000,
+    "club": "Nasaf Qarshi",
+    "age": "21"
+   },
+   {
+    "date": "May 20, 2018",
+    "value": "€450k",
+    "value_numeric": 450000,
+    "club": "Nasaf Qarshi",
+    "age": "22"
+   },
+   {
+    "date": "Dec 29, 2018",
+    "value": "€600k",
+    "value_numeric": 600000,
+    "club": "Nasaf Qarshi",
+    "age": "22"
+   },
+   {
+    "date": "Jun 28, 2019",
+    "value": "€800k",
+    "value_numeric": 800000,
+    "club": "Pakhtakor Tashkent",
+    "age": "23"
+   },
+   {
+    "date": "Dec 29, 2019",
+    "value": "€800k",
+    "value_numeric": 800000,
+    "club": "Pakhtakor Tashkent",
+    "age": "23"
+   },
+   {
+    "date": "Apr 8, 2020",
+    "value": "€650k",
+    "value_numeric": 650000,
+    "club": "Pakhtakor Tashkent",
+    "age": "24"
+   },
+   {
+    "date": "Sep 1, 2020",
+    "value": "€750k",
+    "value_numeric": 750000,
+    "club": "Pakhtakor Tashkent",
+    "age": "24"
+   },
+   {
+    "date": "Dec 28, 2020",
+    "value": "€1.00m",
+    "value_numeric": 1000000,
+    "club": "Pakhtakor Tashkent",
+    "age": "24"
+   },
+   {
+    "date": "May 27, 2021",
+    "value": "€1.00m",
+    "value_numeric": 1000000,
+    "club": "Shabab Al-Ahli Club",
+    "age": "25"
+   },
+   {
+    "date": "Dec 10, 2021",
+    "value": "€1.00m",
+    "value_numeric": 1000000,
+    "club": "Pakhtakor Tashkent",
+    "age": "25"
+   },
+   {
+    "date": "Jun 21, 2022",
+    "value": "€1.00m",
+    "value_numeric": 1000000,
+    "club": "Pakhtakor Tashkent",
+    "age": "26"
+   },
+   {
+    "date": "Nov 23, 2022",
+    "value": "€1.00m",
+    "value_numeric": 1000000,
+    "club": "Pakhtakor Tashkent",
+    "age": "26"
+   },
+   {
+    "date": "Jun 2, 2023",
+    "value": "€1.00m",
+    "value_numeric": 1000000,
+    "club": "Pakhtakor Tashkent",
+    "age": "27"
+   },
+   {
+    "date": "Dec 4, 2023",
+    "value": "€1.20m",
+    "value_numeric": 1200000,
+    "club": "Pakhtakor Tashkent",
+    "age": "27"
+   },
+   {
+    "date": "Jun 27, 2024",
+    "value": "€1.20m",
+    "value_numeric": 1200000,
+    "club": "Navbahor Namangan",
+    "age": "28"
+   },
+   {
+    "date": "Dec 3, 2024",
+    "value": "€1.20m",
+    "value_numeric": 1200000,
+    "club": "Navbahor Namangan",
+    "age": "28"
+   },
+   {
+    "date": "Jun 16, 2025",
+    "value": "€1.20m",
+    "value_numeric": 1200000,
+    "club": "Bunyodkor Tashkent",
+    "age": "29"
+   },
+   {
+    "date": "Dec 8, 2025",
+    "value": "€1.00m",
+    "value_numeric": 1000000,
+    "club": "Tractor FC",
+    "age": "29"
+   },
+   {
+    "date": "May 21, 2026",
+    "value": "€1.00m",
+    "value_numeric": 1000000,
+    "club": "Tractor FC",
+    "age": "30"
+   }
+  ],
+  "peak_market_value": 1200000,
+  "transfers": [],
+  "_our_pid": "per_odiljon_hamrobekov"
+ },
+ {
+  "player_id": "294525",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/294525",
+  "name": "OtabekShukurov",
+  "shirt_number": 63,
+  "club": "Joined:",
+  "club_id": "4785",
+  "market_value": "€1.50m",
+  "market_value_numeric": 1500000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Social-Media:",
+  "nationality": "United Arab Emirates",
+  "citizenships": [
+   "United Arab Emirates",
+   "Uzbekistan",
+   "Uzbekistan",
+   "Uzbekistan",
+   "Uzbekistan",
+   "Uzbekistan"
+  ],
+  "market_value_history": [
+   {
+    "date": "Apr 15, 2016",
+    "value": "€275k",
+    "value_numeric": 275000,
+    "club": "Bunyodkor Tashkent",
+    "age": "19"
+   },
+   {
+    "date": "Nov 30, 2016",
+    "value": "€400k",
+    "value_numeric": 400000,
+    "club": "Bunyodkor Tashkent",
+    "age": "20"
+   },
+   {
+    "date": "Jul 15, 2017",
+    "value": "€400k",
+    "value_numeric": 400000,
+    "club": "Bunyodkor Tashkent",
+    "age": "21"
+   },
+   {
+    "date": "Dec 1, 2017",
+    "value": "€500k",
+    "value_numeric": 500000,
+    "club": "Bunyodkor Tashkent",
+    "age": "21"
+   },
+   {
+    "date": "Apr 25, 2019",
+    "value": "€1.25m",
+    "value_numeric": 1250000,
+    "club": "Sharjah FC",
+    "age": "22"
+   },
+   {
+    "date": "Nov 14, 2019",
+    "value": "€2.00m",
+    "value_numeric": 2000000,
+    "club": "Sharjah FC",
+    "age": "23"
+   },
+   {
+    "date": "Apr 8, 2020",
+    "value": "€1.60m",
+    "value_numeric": 1600000,
+    "club": "Sharjah FC",
+    "age": "23"
+   },
+   {
+    "date": "Dec 4, 2020",
+    "value": "€2.50m",
+    "value_numeric": 2500000,
+    "club": "Sharjah FC",
+    "age": "24"
+   },
+   {
+    "date": "May 27, 2021",
+    "value": "€3.00m",
+    "value_numeric": 3000000,
+    "club": "Sharjah FC",
+    "age": "24"
+   },
+   {
+    "date": "Nov 25, 2021",
+    "value": "€3.50m",
+    "value_numeric": 3500000,
+    "club": "Sharjah FC",
+    "age": "25"
+   },
+   {
+    "date": "May 18, 2022",
+    "value": "€4.00m",
+    "value_numeric": 4000000,
+    "club": "Sharjah FC",
+    "age": "25"
+   },
+   {
+    "date": "Sep 13, 2022",
+    "value": "€3.00m",
+    "value_numeric": 3000000,
+    "club": "Fatih Karagümrük",
+    "age": "26"
+   },
+   {
+    "date": "Oct 27, 2022",
+    "value": "€2.00m",
+    "value_numeric": 2000000,
+    "club": "Fatih Karagümrük",
+    "age": "26"
+   },
+   {
+    "date": "Mar 14, 2023",
+    "value": "€2.50m",
+    "value_numeric": 2500000,
+    "club": "Fatih Karagümrük",
+    "age": "26"
+   },
+   {
+    "date": "Jun 8, 2023",
+    "value": "€2.50m",
+    "value_numeric": 2500000,
+    "club": "Fatih Karagümrük",
+    "age": "26"
+   },
+   {
+    "date": "Sep 27, 2023",
+    "value": "€2.50m",
+    "value_numeric": 2500000,
+    "club": "Fatih Karagümrük",
+    "age": "27"
+   },
+   {
+    "date": "Dec 21, 2023",
+    "value": "€2.50m",
+    "value_numeric": 2500000,
+    "club": "Fatih Karagümrük",
+    "age": "27"
+   },
+   {
+    "date": "Mar 15, 2024",
+    "value": "€2.50m",
+    "value_numeric": 2500000,
+    "club": "Kayserispor",
+    "age": "27"
+   },
+   {
+    "date": "May 31, 2024",
+    "value": "€2.20m",
+    "value_numeric": 2200000,
+    "club": "Kayserispor",
+    "age": "27"
+   },
+   {
+    "date": "Dec 13, 2024",
+    "value": "€1.80m",
+    "value_numeric": 1800000,
+    "club": "Al-Fayha FC",
+    "age": "28"
+   },
+   {
+    "date": "May 27, 2025",
+    "value": "€1.80m",
+    "value_numeric": 1800000,
+    "club": "Al-Fayha FC",
+    "age": "28"
+   },
+   {
+    "date": "Nov 28, 2025",
+    "value": "€1.60m",
+    "value_numeric": 1600000,
+    "club": "FC Baniyas",
+    "age": "29"
+   },
+   {
+    "date": "May 26, 2026",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "FC Baniyas",
+    "age": "29"
+   }
+  ],
+  "peak_market_value": 4000000,
+  "transfers": [],
+  "_our_pid": "per_otabek_shukurov"
+ }
+]

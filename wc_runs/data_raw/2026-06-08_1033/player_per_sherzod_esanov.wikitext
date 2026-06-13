@@ -1,0 +1,120 @@
+{{short description|Uzbekistani footballer}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+| name = Sherzod Esanov
+| image = Sherzod Esanov.jpg
+| fullname = Sherzod Dilshodovich Esanov
+| birth_date = {{birth date and age|2003|2|1|df=yes}}
+| birth_place = [[Navoiy]], Uzbekistan
+| height = 1.90 m
+| position = [[Central midfielder]]
+| currentclub = [[FC Bukhara|Bukhara]]
+| clubnumber = 25
+| youthyears1 = {{0|0000}}–2020 | youthclubs1 = [[FC Qizilqum Zarafshon|Qizilqum Zarafshon]]
+| years1 = 2021      | clubs1 = Chigatoy                                        
+| years2 = 2022–2024 | clubs2 = [[FK Andijon|Andijon]]                            | caps2 = 32 | goals2 = 3
+| years3 = 2023      | clubs3 = → [[FK Olympic Tashkent|Olympic Tashkent]] (loan) | caps3 = 11 | goals3 = 1
+| years4 = 2024–2025 | clubs4 = [[FC Akron Tolyatti|Akron Tolyatti]]              | caps4 =  9 | goals4 = 0
+| years5 = 2025      | clubs5 = [[FC Dynamo Brest|Dynamo Brest]]                  | caps5 =  9 | goals5 = 0
+| years6 = 2026–     | clubs6 = [[FC Bukhara|Bukhara]]                            | caps6 =  4 | goals6 = 0
+| nationalyears1 = 2022      | nationalteam1 = [[Uzbekistan national under-19 football team|Uzbekistan U-19]] | nationalcaps1 =  6 | nationalgoals1 = 3
+| nationalyears2 = 2022–2023 | nationalteam2 = [[Uzbekistan national under-20 football team|Uzbekistan U-20]] | nationalcaps2 = 15 | nationalgoals2 = 2
+| nationalyears3 = 2023–2025 | nationalteam3 = [[Uzbekistan national under-23 football team|Uzbekistan U-23]] | nationalcaps3 =  9 | nationalgoals3 = 2
+| nationalyears4 = 2026–     | nationalteam4 = [[Uzbekistan national football team|Uzbekistan]] | nationalcaps4 =  1 | nationalgoals4 = 0
+| pcupdate = 19 March 2026
+| ntupdate = 17:43, 2 June 2026 (UTC)
+}}
+'''Sherzod Dilshodovich Esanov''' (born 1 February 2003) is an Uzbekistani [[association football|football]] player who plays as a [[central midfielder]] for [[FC Bukhara|Bukhara]] and the [[Uzbekistan national football team|Uzbekistan national team]].
+
+==Club career==
+On 23 July 2024, Esanov signed with the [[Russian Premier League]] newcomers [[FC Akron Tolyatti|Akron Tolyatti]].<ref>{{cite web|publisher=FC Akron Tolyatti|url=https://fcakron.ru/blog/2024/07/23/v-akron-pereshyol-igrok-superligi-uzbekistana/|title=В "Акрон" перешёл игрок Суперлиги Узбекистана|date=23 July 2024|language=ru}}</ref>
+
+He made his debut for Akron on 30 July 2024 in a [[Russian Cup (football)|Russian Cup]] game against [[FC Rubin Kazan|Rubin Kazan]].<ref>{{cite web|publisher=Russian Football Union|url=https://www.rfs.ru/cup/tournament/match/54121|title=Rubin v Akron game report|date=30 July 2024|language=ru}}</ref> He made his [[Russian Premier League]] debut for Akron on 3 August 2024 against [[FC Dynamo Moscow|Dynamo Moscow]].<ref>{{cite web|publisher=Russian Premier League|url=https://eng.premierliga.ru/match/match_15753.html|title=Akron v Dynamo game report|date=3 August 2024}}</ref> Esanov left Akron by mutual consent on 24 July 2025.<ref>{{cite web|publisher=FC Akron Tolyatti|url=https://fcakron.ru/news/2061|title=Шерзод Эсанов покидает "Акрон"|date=24 July 2025|access-date=24 July 2025|language=ru}}</ref>
+
+==Career statistics==
+{{updated|match played 18 May 2025}}
+
+{|class="wikitable" style="text-align: center;"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|Cup
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="4"|[[FK Andijon|Andijon]]
+|[[Uzbekistan Pro League|2022]]
+|[[Uzbekistan Pro League]]
+|16||2||1||0||colspan="2"|—||colspan="2"|—||17||2
+|-
+|[[2023 Uzbekistan Super League|2023]]
+|rowspan="2"|[[Uzbekistan Super League]] 
+|5||0||0||0||colspan="2"|—||colspan="2"|—||5||0
+|-
+|[[2024 Uzbekistan Super League|2024]]
+|11||1||4||1||colspan="2"|—||colspan="2"|—||15||2
+|-
+!colspan="2"|Total
+!32!!3!!5!!1!!colspan="2"|—!!colspan="2"|—!!37!!4
+|-
+|[[FK Olympic Tashkent|Olympic Tashkent]] (loan)
+|2023
+|Uzbekistan Super League
+|11||1||2||0||0||0||0||0||13||1
+|-
+|[[FC Akron Tolyatti|Akron Tolyatti]]
+|[[2024–25 FC Akron Tolyatti season|2024–25]]
+|[[Russian Premier League]]
+|9||0||7||1||colspan="2"|—||colspan="2"|—||16||1
+|-
+!colspan="3"|Career total
+!52!!4!!14!!2!!0!!0!!0!!0!!66!!6
+|}
+
+==Honours==
+'''Andijon '''
+*[[Uzbekistan Pro League]]: 2022
+'''Uzbekistan U20'''
+*[[AFC U-20 Asian Cup]]: [[2023 AFC U-20 Asian Cup|2023]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Soccerway|sherzod-esanov/829253}}
+* {{RPL player|Esanov-Sherzod}}
+
+{{FC Bukhara squad}}
+{{Uzbekistan squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Esanov, Sherzod}}
+[[Category:2003 births]]
+[[Category:People from Navoiy Region]]
+[[Category:Living people]]
+[[Category:Uzbekistani men's footballers]]
+[[Category:21st-century Uzbekistani sportsmen]]
+[[Category:Uzbekistan men's international footballers]]
+[[Category:Uzbekistan men's youth international footballers]]
+[[Category:Uzbekistan men's under-20 international footballers]]
+[[Category:Uzbekistan men's under-23 international footballers]]
+[[Category:Men's association football midfielders]]
+[[Category:FC Andijon players]]
+[[Category:FC Olympic Tashkent players]]
+[[Category:FC Akron Tolyatti players]]
+[[Category:FC Dynamo Brest players]]
+[[Category:FC Bukhara players]]
+[[Category:Uzbekistan Super League players]]
+[[Category:Uzbekistan Pro League players]]
+[[Category:Russian Premier League players]]
+[[Category:Belarusian Premier League players]]
+[[Category:Uzbekistani expatriate men's footballers]]
+[[Category:Expatriate men's footballers in Russia]]
+[[Category:Uzbekistani expatriate sportspeople in Russia]]
+[[Category:Expatriate men's footballers in Belarus]]
+[[Category:Uzbekistani expatriate sportspeople in Belarus]]
+[[Category:2026 FIFA World Cup players]]

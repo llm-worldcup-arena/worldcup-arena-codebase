@@ -1,0 +1,79 @@
+{{Short description|Men's national association football team representing Curaçao}}
+{{About|the Curaçao men's national team|the women's team|Curaçao women's national football team}}
+{{Use dmy dates|date=September 2023}}
+{{Infobox national football team
+| Name                  = Curaçao
+| Badge                 = Curacao_Football_Federation.svg
+| Badge_size            = 200px
+| Nickname              = ''The Blue Wave''
+| Association           = [[Curaçao Football Federation|Federashon Futbòl Kòrsou]] (FFK)
+| Coach                 = [[Dick Advocaat]]
+| Captain               = [[Leandro Bacuna]]
+| Most caps             = [[Leandro Bacuna]]<br>[[Eloy Room]]<br>(72)
+| Top scorer            = [[Rangelo Janga]] (21)
+| Home Stadium          = [[Ergilio Hato Stadium]]
+| Confederation         = {{nowrap|[[CONCACAF]] (North America)}}
+| Sub-confederation     = [[Caribbean Football Union|CFU]] (Caribbean)
+| FIFA Trigramme        = CUW
+| FIFA Rank             = {{FIFA World Rankings|Curaçao}}
+| FIFA max              = 68
+| FIFA max date         = July 2017
+| FIFA min              = 188
+| FIFA min date         = December 2003
+| Elo Rank              = {{World Football Elo Ratings|Curaçao}}
+| Elo max               = 43
+| Elo max date          = 5 March 1948
+| Elo min               = 188
+| Elo min date          = 25 October 2012
+| pattern_la1           = _cur26h
+| pattern_b1            = _cur26hA
+| pattern_ra1           = _cur26h
+| pattern_sh1           = _cur26h
+| pattern_so1           = _cur26hl
+| leftarm1              = 344fc0
+| body1                 = 344fc0
+| rightarm1             = 344fc0
+| shorts1               = 344fc0
+| socks1                = 344fc0
+| pattern_la2           = _cur26a
+| pattern_b2            = _cur26aA
+| pattern_ra2           = _cur26a
+| pattern_sh2           = _cur26a
+| pattern_so2           = _cur26al
+| leftarm2              = f2efd4
+| body2                 = f2efd4
+| rightarm2             = f2efd4
+| shorts2               = f2efd4
+| socks2                = f2efd4
+| pattern_la3           = 
+| pattern_b3            = 
+| pattern_ra3           = 
+| pattern_sh3           = 
+| pattern_so3           = 
+| leftarm3              = 
+| body3                 = 
+| rightarm3             = 
+| shorts3               = 
+| socks3                = 
+| First game            = {{fb|DOM}} 1–0 {{fb-rt|CUW}}<br />({{nowrap|[[San Cristóbal, Dominican Republic|San Cristóbal]], [[Dominican Republic]]; 18 August 2011)}}
+| Largest win           = {{fb|CUW}} 10–0 {{fb-rt|GRN}}<br />([[Willemstad]], [[Curaçao]]; 10 September 2018)
+| Largest loss          = {{fb|ARG}} 7–0 {{fb-rt|CUW}}<br />([[Santiago del Estero]], [[Argentina]]; 28 March 2023)
+| World cup apps        = 1
+| World cup first       = 2026
+| World cup best        = TBD
+| Regional name         = [[CONCACAF Gold Cup]]
+| Regional cup apps     = 3<!--as of 2025-->
+| Regional cup first    = [[2017 CONCACAF Gold Cup|2017]]
+| Regional cup best     = Quarter-finals ([[2019 CONCACAF Gold Cup|2019]])
+| medaltemplates        = 
+{{MedalCompetition|[[Caribbean Cup]]}}
+{{MedalGold|[[2017 Caribbean Cup|2017 Martinique]]|[[2017 Caribbean Cup squads#Curaçao|Team]]}}
+}}
+
+The '''Curaçao national football team''' ({{langx|nl|Curaçaos voetbalelftal}}; {{langx|pap|selekshon di futbòl Kòrsou}}) represents [[Curaçao]] in men's international [[association football|football]], it is controlled by the [[Curaçao Football Federation|Federashon Futbòl Kòrsou]].<ref>{{cite web| url = http://www.elsalvador.com/deportes/futbol/372358/curazao-pierde-a-su-capitan-para-el-juego-ante-la-selecta/| archive-url = https://web.archive.org/web/20170714164913/http://www.elsalvador.com/deportes/futbol/372358/curazao-pierde-a-su-capitan-para-el-juego-ante-la-selecta| archive-date = 2017-07-14| title = Curazao pierde a su capitán para el juego ante la Selecta {{!}} elsalvador.com}}</ref>
+
+Following a constitutional change that allowed its predecessor, the [[Curaçao and Dependencies|Colony of Curaçao and Dependencies]], to become a unified [[constituent state|constituent country]] consisting of several island territories as the [[Netherlands Antilles]] and its dissolution in 2010, Curaçao has played under a new constitutional status as a separate constituent country since 2011.<ref>{{cite book|url=https://books.google.com/books?id=Gg1hDgAAQBAJ&pg=PA121 |title=Football and the Boundaries of History: Critical Studies in Soccer |editor=Elsey, Brenda |editor2=Pugliese, Stanislao G. |year=2017 |page=121 |isbn=978-1-349-95006-5 |publisher= Springer |access-date=25 June 2019}}</ref>
+
+Both [[FIFA]] and [[CONCACAF]] recognize the Curaçao national team as the direct successor of the dependant [[Territory of Curaçao national football team|Territory of Curaçao]] (1921–1958) and the [[Netherlands Antilles national football team|Netherlands Antilles]] (1958–2010).<ref>[https://web.archive.org/web/20190626032129/https://www.fifa.com/associations/association/cuw/about Curaçao] at [[FIFA]] official website</ref><ref>[https://www.concacaf.com/en/member-association/curacao Curaçao] {{Webarchive|url=https://web.archive.org/web/20210309013123/https://www.concacaf.com/en/member-association/curacao |date=9 March 2021 }} at [[CONCACAF]] official website</ref><ref>[https://www.rsssf.org/tablesc/curacaochamp.html Curaçao — List of Champions]. {{Webarchive|url=https://web.archive.org/web/20230203071708/https://www.rsssf.org/tablesc/curacaochamp.html|date=3 February 2023}}. [[Rec.Sport.Soccer Statistics Foundation|RSSSF]].</ref>
+
+In November 2025, they topped their qualifying group and qualified for the [[2026 FIFA World Cup]], becoming the smallest nation by both population and area to qualify for the tournament.<ref>{{Cite web |date=19 November 2025 |title=Population of... 156,000: Caribbean minnows break wild record to secure WC spot — Wrap |url=https://www.foxsports.com.au/football/wild-scenes-as-27year-wc-drought-ends-with-stunning-goals-and-red-card-drama-wrap/news-story/a41294afec3801b915e75c9b1784a852 |access-date=19 November 2025 |work=Fox Sports Australia}}</ref> Curaçao became the first non-sovereign national team from the Americas to qualify for the FIFA World Cup, and the seventh overall, after England, Wales, Scotland and Northern Ireland (which are constituent countries of the United Kingdom and not independent countries) the Netherlands (a constituent country of the Kingdom of the Netherlands), and the [[Indonesia national football team|Dutch East Indies]], a Dutch colony that competed in the [[1938 FIFA World Cup|1938 tournament]].

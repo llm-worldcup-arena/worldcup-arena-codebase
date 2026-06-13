@@ -1,0 +1,16 @@
+{
+ "team": "UZB",
+ "source": "FIFA",
+ "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/uzbekistan-announce-training-squad",
+ "title": "Uzbekistan name 40-strong training squad | FIFA World Cup",
+ "news_date": "2026-06-10",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "asof": "2026-06-10",
+ "fetched": "2026-06-13_0638",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "White Wolves will hold a three-week training camp in Tashkent under the guidance of coach Fabio Cannavaro as they prepare for a maiden FIFA World Cup tilt.\nUzbekistan’s FIFA World Cup 2026™ preparations are set to ramp up with an extended squad to gather for a three-week training camp in Tashkent from 6-26 May.\nHead coach Fabio Cannavaro has named a 40-strong selection for the camp at the National Football Centre, with the team set to play a string of closed-door friendly matches against domestic Super League clubs.\nCaptain Eldor Shomurodov, fellow forward Abbosbek Fayzullaev, midfield controller Otabek Shukurov and star defender Abdukodir Khusanov headline the squad and will join their team-mates in the Uzbek capital when their club commitments finish.\nTwenty-one-year-old forward Nodir Abdurazzakov and fellow highly-rated midfielder Sherzod Esanov are among several uncapped players looking to push their case for inclusion in Cannavaro’s final 26-strong list which will be announced on 2 June.\nThe Italian tactician has named several players that are also currently on the injury comeback trail, including forwards Khusain Norchaev and Jaloliddin Masharipov.\nUzbekistan’s maiden World Cup outing will see the side start their Group K campaign against Colombia in Mexico City on 17 June before a trip to Houston to face Portugal six days later and a closing tussle with Congo DR in Atlanta on 27 June.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

@@ -1,0 +1,329 @@
+{
+ "match": {
+  "date": "2026-06-11",
+  "home": "MEX",
+  "away": "RSA",
+  "home_en": "Mexico",
+  "away_en": "South Africa",
+  "comp": "小组赛·A组",
+  "venue": "Estadio Azteca (Mexico City)",
+  "attendance": 80824
+ },
+ "score": "2-0",
+ "ht": "1-0",
+ "goals": [
+  {
+   "min": 9,
+   "side": "home",
+   "player": "Julian Quinones",
+   "sub": null
+  },
+  {
+   "min": 67,
+   "side": "home",
+   "player": "Raul Jimenez",
+   "sub": null
+  }
+ ],
+ "cards": [
+  {
+   "min": 17,
+   "side": "away",
+   "player": "Teboho Mokoena",
+   "type": "黄牌"
+  },
+  {
+   "min": 23,
+   "side": "home",
+   "player": "Brian Gutierrez",
+   "type": "黄牌"
+  },
+  {
+   "min": 49,
+   "side": "away",
+   "player": "Yaya Sithole",
+   "type": "红牌"
+  },
+  {
+   "min": 74,
+   "side": "away",
+   "player": "Nkosinathi Sibisi",
+   "type": "黄牌"
+  },
+  {
+   "min": 84,
+   "side": "away",
+   "player": "Themba Zwane",
+   "type": "红牌"
+  },
+  {
+   "min": 90,
+   "side": "home",
+   "player": "Cesar Montes",
+   "type": "红牌"
+  }
+ ],
+ "stats": {
+  "射门": [
+   "16",
+   "3"
+  ],
+  "射正": [
+   "4",
+   "2"
+  ],
+  "禁区内射门": [
+   "7",
+   "1"
+  ],
+  "扑救": [
+   "5",
+   "0"
+  ],
+  "角球": [
+   "3",
+   "1"
+  ],
+  "越位": [
+   "1",
+   "1"
+  ],
+  "控球%": [
+   "60%",
+   "40%"
+  ],
+  "传中": [
+   "98",
+   "69"
+  ],
+  "传球": [
+   "467",
+   "272"
+  ],
+  "xG预期进球": [
+   "1.2",
+   "0.16"
+  ],
+  "xGOT/大机会": [
+   "1.28",
+   "0.13"
+  ]
+ },
+ "lineups": {
+  "home": [
+   {
+    "no": 1,
+    "name": "Raul Rangel"
+   },
+   {
+    "no": 23,
+    "name": "Jesus Gallardo"
+   },
+   {
+    "no": 5,
+    "name": "Johan Vasquez"
+   },
+   {
+    "no": 3,
+    "name": "Cesar Montes"
+   },
+   {
+    "no": 15,
+    "name": "Israel Reyes"
+   },
+   {
+    "no": 6,
+    "name": "Erik Lira"
+   },
+   {
+    "no": 16,
+    "name": "Julian Quinones"
+   },
+   {
+    "no": 8,
+    "name": "Alvaro Fidalgo"
+   },
+   {
+    "no": 26,
+    "name": "Brian Gutierrez"
+   },
+   {
+    "no": 25,
+    "name": "Roberto Alvarado"
+   },
+   {
+    "no": 9,
+    "name": "Raul Jimenez"
+   },
+   {
+    "no": 24,
+    "name": "Luis Chavez"
+   },
+   {
+    "no": 14,
+    "name": "Armando Gonzalez"
+   },
+   {
+    "no": 19,
+    "name": "Gilberto Mora"
+   },
+   {
+    "no": 10,
+    "name": "Alexis Vega"
+   },
+   {
+    "no": 4,
+    "name": "Edson Alvarez"
+   },
+   {
+    "no": 12,
+    "name": "Carlos Acevedo"
+   },
+   {
+    "no": 20,
+    "name": "Mateo Chavez"
+   },
+   {
+    "no": 11,
+    "name": "Santiago Gimenez"
+   },
+   {
+    "no": 21,
+    "name": "Cesar Huerta"
+   },
+   {
+    "no": 22,
+    "name": "Guillermo Martinez"
+   },
+   {
+    "no": 13,
+    "name": "Guillermo Ochoa"
+   },
+   {
+    "no": 17,
+    "name": "Orbelin Pineda"
+   },
+   {
+    "no": 7,
+    "name": "Luis Romo"
+   },
+   {
+    "no": 2,
+    "name": "Jorge Sanchez"
+   },
+   {
+    "no": 18,
+    "name": "Obed Vargas"
+   }
+  ],
+  "away": [
+   {
+    "no": 1,
+    "name": "Ronwen Williams"
+   },
+   {
+    "no": 14,
+    "name": "Mbekezeli Mbokazi"
+   },
+   {
+    "no": 21,
+    "name": "Ime Okon"
+   },
+   {
+    "no": 19,
+    "name": "Nkosinathi Sibisi"
+   },
+   {
+    "no": 6,
+    "name": "Aubrey Modiba"
+   },
+   {
+    "no": 20,
+    "name": "Khuliso Mudau"
+   },
+   {
+    "no": 23,
+    "name": "Jayden Adams"
+   },
+   {
+    "no": 13,
+    "name": "Yaya Sithole"
+   },
+   {
+    "no": 4,
+    "name": "Teboho Mokoena"
+   },
+   {
+    "no": 9,
+    "name": "Lyle Foster"
+   },
+   {
+    "no": 15,
+    "name": "Iqraam Rayners"
+   },
+   {
+    "no": 7,
+    "name": "Oswin Appollis"
+   },
+   {
+    "no": 17,
+    "name": "Evidence Makgopa"
+   },
+   {
+    "no": 5,
+    "name": "Thalente Mbatha"
+   },
+   {
+    "no": 11,
+    "name": "Themba Zwane"
+   },
+   {
+    "no": 16,
+    "name": "Sipho Chaine"
+   },
+   {
+    "no": 26,
+    "name": "Bradley Cross"
+   },
+   {
+    "no": 22,
+    "name": "Ricardo Goss"
+   },
+   {
+    "no": 18,
+    "name": "Samukele Kabini"
+   },
+   {
+    "no": 24,
+    "name": "Olwethu Makhanya"
+   },
+   {
+    "no": 12,
+    "name": "Thapelo Maseko"
+   },
+   {
+    "no": 2,
+    "name": "Thabang Matuludi"
+   },
+   {
+    "no": 10,
+    "name": "Relebohile Mofokeng"
+   },
+   {
+    "no": 8,
+    "name": "Tshepang Moremi"
+   },
+   {
+    "no": 3,
+    "name": "Khulumani Ndamane"
+   },
+   {
+    "no": 25,
+    "name": "Kamogelo Sebelebele"
+   }
+  ]
+ },
+ "missing": [],
+ "source": "Apify macheta（365scores/Opta 级硬数据）",
+ "_note": "结构化硬数据（机器可读）；叙事见 ours/long.md，逐分钟见 ours/timeline.md，简版见 short.md。"
+}

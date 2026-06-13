@@ -1,0 +1,156 @@
+{{short description|Footballer (born 2005)}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+| name = Gessime Yassine
+| image = Gessime Yassine against Paraguay 2 (cropped).jpg
+| caption = Yassine with [[Morocco national football team|Morocco]] in 2026
+| full_name = Gessime Ben Youssef Mustapha Yassine<ref>{{cite web|url=https://fdp.fifa.org/assetspublic/ce243/pdf/SquadLists-English.pdf|title=FIFA U-20 World Cup Chile 2025 SQUAD LIST|publisher=[[FIFA]]|date=22 September 2025}}</ref>
+| birth_place = [[Salon-de-Provence]], France
+| birth_date = {{Birth date and age|2005|11|22|df=y}}
+| height = 1.73m
+| position = [[Midfielder]]
+| currentclub = [[RC Strasbourg Alsace|Strasbourg]]
+| clubnumber = 80
+| youthyears1 = {{0|0000}}–2023
+| youthclubs1 = [[FC Istres|Istres]]
+| youthyears2 = 2023–2024
+| youthclubs2 = [[Marignane Gignac Côte Bleue FC|Marignane GCB]]
+| years1 = 2022
+| clubs1 = [[FC Istres|Istres]]
+| caps1 = 2
+| goals1 = 0
+| years2 = 2024–2026
+| clubs2 = [[USL Dunkerque|Dunkerque]]
+| caps2 = 61
+| goals2 = 7
+| years3 = 2026–
+| clubs3 = [[RC Strasbourg Alsace|Strasbourg]]
+| caps3 = 12
+| goals3 = 0
+| nationalyears1 = 2024–
+| nationalteam1 = [[Morocco national under-20 football team|Morocco U20]]
+| nationalcaps1 = 16
+| nationalgoals1 = 4
+| nationalyears2 = 2026–
+| nationalteam2 = [[Morocco national football team|Morocco]]
+| nationalcaps2 = 3
+| nationalgoals2 = 0
+| pcupdate = 10 May 2026
+| ntupdate = 31 March 2026
+| medaltemplates = {{Medal|Sport|Men's [[Association football|football]]}}
+{{Medal|Country|{{fb|MAR}}}}
+{{MedalCompetition|[[FIFA U-20 World Cup]]}}
+{{Medal|W|[[2025 FIFA U-20 World Cup|2025 Chile]]}}
+}}
+
+'''Gessime Ben Youssef Mustapha Yassine''' (born 22 November 2005) is a professional [[association football|footballer]] who plays as a [[midfielder]] for {{French football updater|Strasbourg}} club [[RC Strasbourg Alsace|Strasbourg]]. Born in France, he represents the [[Morocco national football team|Morocco national team]].
+
+== Club career ==
+After playing for [[FC Istres|Istres]] and [[Marignane Gignac Côte Bleue FC|Marignane GCB]], Yassine signed for [[Ligue 2]] club [[USL Dunkerque|Dunkerque]] in January 2024.<ref>{{Cite web |date=6 March 2024 |title=Football - Ligue 2 : l'Avignonnais Gessime Yassine nommé pépite du mois |url=https://www.laprovence.com/article/sports/2503953275291115/football-ligue-2-lavignonnais-gessime-yassine-nomme-pepite-du-mois |access-date=8 June 2024 |website=La Provence |language=Fr}}</ref> He quickly established himself in the side's starting eleven, and was chosen as Dunkerque's player of the month in February and March. He was elected Ligue 2 young player of the month in February, and was nominated for Ligue 2 young player of the season.<ref>{{Cite web |last=Denis |first=Sebastien |date=7 June 2024 |title=Ligue 2 : l'ascension fulgurante de la pépite marocaine Gessime Yassine |url=https://www.footmercato.net/a7903479115085159513-ligue-2-lascension-fulgurante-de-la-pepite-marocaine-gessime-yassine |access-date=8 June 2024 |website={{Interlanguage link|Foot Mercato|lt=Foot Mercato|fr|Foot Mercato}} |language=Fr}}</ref>
+
+On 17 January 2026, Yassine signed a four-and-a-half-year contract with [[RC Strasbourg Alsace|Strasbourg]].<ref>{{cite web|publisher=RC Strasbourg Alsace|url=https://www.rcstrasbourgalsace.fr/gessime-yassine-au-racing/|title=Gessime Yassine au Racing|trans-title=Gessime Yassine at Racing|date=17 January 2026|access-date=19 January 2026|language=fr}}</ref>
+
+== International career ==
+In March 2024, Yassine received his first call-up to the [[Morocco national under-20 football team|Morocco U20s]] for two [[Exhibition game#Association football|friendly]] matches against [[DR Congo national under-20 football team|DR Congo]].<ref name=":0">{{Cite web |last=Alaoui |first=Yassine |date=22 March 2024 |title=Maroc U20: première sélection pour Gessime Yassine |url=https://fr.hespress.com/368960-maroc-u20-premiere-selection-pour-gessime-yassine.html |access-date=8 June 2024 |website=Hespress |language=Fr}}</ref>
+
+== Personal life ==
+Born in France, Yassine is of Moroccan descent.<ref name=":0" />
+
+== Career statistics ==
+=== Club ===
+{{updated|match played 10 May 2026}}
+
+{| class="wikitable" style="text-align: center"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup
+!colspan="2"|Europe
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|[[Istres FC|Istres]]
+|[[2021–22 Championnat National 3|2021–22]]
+|[[Championnat National 3|National 3]]
+|2||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||2||0
+|-
+|rowspan="4"|[[USL Dunkerque|Dunkerque]]
+|[[2023–24 Ligue 2|2023–24]]
+|[[Ligue 2]]
+|19||2||1||0||colspan="2"|—||colspan="2"|—||20||2
+|-
+|[[2024–25 Ligue 2|2024–25]]
+|Ligue 2
+|29||3||6||0||colspan="2"|—||2{{efn|Appearances in [[Ligue 1 relegation/promotion play-offs]]}}||0||37||3
+|-
+|[[2025–26 Ligue 2|2025–26]]
+|Ligue 2
+|13||2||2||1||colspan="2"|—||colspan="2"|—||15||3
+|-
+!colspan="2"|Total
+!61!!7!!9!!1!!colspan="2"|—!!2!!0!!72!!8
+|-
+|[[RC Strasbourg Alsace|Strasbourg]]
+|[[2025–26 RC Strasbourg Alsace season|2025–26]]
+|[[Ligue 1]]
+|12||0||3||0||4{{efn|Appearances in [[UEFA Conference League]]}}||0||colspan="2"|—||18||0
+|-
+!colspan="3"|Career total
+!75!!7!!12!!1!!4!!0!!2!!0!!93!!8
+|}
+{{notelist}}
+
+=== International ===
+{{updated|match played 31 March 2026}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="1"|[[Morocco national football team|Morocco]]
+|2026||2||0
+|-
+!colspan="2"|Total!!2!!0
+|}
+
+== Honours ==
+'''Morocco U20'''
+*[[FIFA U-20 World Cup]]: [[2025 FIFA U-20 World Cup|2025]]<ref>{{cite web |title=Zabiri fires Morocco to maiden crown|url=https://www.fifa.com/en/tournaments/mens/u20worldcup/chile-2025/articles/argentina-morocco-final-report-highlights|publisher=FIFA|date=20 Oct 2025}}</ref>
+
+== References ==
+{{reflist}}
+
+== External links ==
+* {{Soccerway|id=gessime-yassine/841855}}
+* [https://www.rcstrasbourgalsace.fr/joueurs/gessime-yassine/ Strasbourg profile]
+
+{{RC Strasbourg Alsace squad}}
+{{Morocco squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Yassine, Gessime}}
+[[Category:2005 births]]
+[[Category:Footballers from Bouches-du-Rhône]]
+[[Category:Sportspeople from Salon-de-Provence]]
+[[Category:Living people]]
+[[Category:21st-century French sportsmen]]
+[[Category:21st-century Moroccan sportsmen]]
+[[Category:French sportspeople of Moroccan descent]]
+[[Category:Men's association football midfielders]]
+[[Category:French men's footballers]]
+[[Category:Moroccan men's footballers]]
+[[Category:Morocco men's under-20 international footballers]]
+[[Category:Istres FC players]]
+[[Category:USL Dunkerque players]]
+[[Category:RC Strasbourg Alsace players]]
+[[Category:Ligue 1 players]]
+[[Category:Ligue 2 players]]
+[[Category:Championnat National 3 players]]
+[[Category:Morocco men's international footballers]]
+[[Category:2026 FIFA World Cup players]]
+
+{{Morocco-footy-midfielder-stub}}
+{{France-footy-midfielder-2000s-stub}}

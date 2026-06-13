@@ -1,0 +1,74 @@
+{{Short description|Men's association football team}}
+{{About|the men's team|the women's team|Uzbekistan women's national football team}}
+{{Use dmy dates|date=June 2026}}
+{{Infobox national football team
+| Name                  = Uzbekistan
+| Badge                 = Uzbekistan Football Association logo.png
+| Badge_size            = 190px
+| Nickname              = ''White Wolves''<br>''Turanians''
+| Association           = [[Uzbekistan Football Association]] (UFA)
+| Confederation         = [[Asian Football Confederation|AFC]] (Asia)
+| Sub-confederation     = [[Central Asian Football Association|CAFA]] (Central Asia)
+| Coach                 = [[Fabio Cannavaro]]
+| Captain               = [[Eldor Shomurodov]]
+| Most caps             = [[Server Djeparov]] (128)
+| Top scorer            = [[Eldor Shomurodov]] (44)
+| Home Stadium          = [[Milliy Stadium]]<br>[[Pakhtakor Central Stadium|Pakhtakor Stadium]]
+| FIFA Trigramme        = UZB
+| FIFA Rank             = {{FIFA World Rankings|UZB}}
+| FIFA max              = 45
+| FIFA max date         = November 2006 – January 2007
+| FIFA min              = 118
+| FIFA min date         = November 1996
+| Elo Rank              = {{World Football Elo Ratings|Uzbekistan}}
+| Elo max               = 43
+| Elo max date          = November 2016
+| Elo min               = 95
+| Elo min date          = February 2001
+| pattern_la1           = 
+| pattern_b1            = _uzb26h
+| pattern_ra1           = 
+| pattern_sh1           = _uzb26h
+| pattern_so1           = _uzb26hl
+| leftarm1              = 0000FF
+| body1                 = 
+| rightarm1             = 0000FF
+| shorts1               = 0000FF
+| socks1                = 0000FF
+| pattern_la2           = 
+| pattern_b2            = _uzb26a
+| pattern_ra2           = 
+| pattern_sh2           = _uzb26a
+| pattern_so2           = _uzb26al
+| leftarm2              = FFFFFF
+| body2                 = 
+| rightarm2             = FFFFFF
+| shorts2               = FFFFFF
+| socks2                = FFFFFF
+| First game            = {{fb|TJK|1991}} 2–2 {{fb-rt|UZB}}<br>([[Dushanbe]], Tajikistan; 17 June 1992)
+| Largest win           = {{fb|UZB}} 15–0 {{fb-rt|MGL|1992}}<br>([[Chiang Mai]], Thailand; 5 December 1998)
+| Largest loss          = {{fb|JPN}} 8–1 {{fb-rt|UZB}}<br>([[Sidon]], Lebanon; 17 October 2000)
+| World cup apps        = 1
+| World cup first       = 2026
+| World cup best        = TBD ([[2026 FIFA World Cup|2026]])
+| Regional name         = [[AFC Asian Cup|Asian Cup]]
+| Regional cup apps     = 9
+| Regional cup first    = [[1996 AFC Asian Cup|1996]]
+| Regional cup best     = Fourth place ([[2011 AFC Asian Cup|2011]])
+| 2ndRegional name      = [[CAFA Nations Cup]]
+| 2ndRegional cup apps  = 2
+| 2ndRegional cup first = [[2023 CAFA Nations Cup|2023]]
+| 2ndRegional cup best  = '''Champions''' ([[2025 CAFA Nations Cup|2025]])
+| medaltemplates =
+{{Medal|Competition|[[Football at the Asian Games|Asian Games]]}}
+{{MedalGold |[[1994 Asian Games|1994 Hiroshima]]|[[Football at the 1994 Asian Games – Men's tournament|Team]]}}
+{{Medal|Competition|[[Afro-Asian Cup of Nations]]}}
+{{MedalSilver|[[1995 Afro-Asian Cup of Nations|1995]]|Team}}
+{{Medal|Competition|[[CAFA Nations Cup]]}}
+{{MedalGold|[[2025 CAFA Nations Cup|2025]]|[[2025 CAFA Nations Cup squads#Uzbekistan|Team]]}}
+{{MedalSilver|[[2023 CAFA Nations Cup|2023]]|[[2023 CAFA Nations Cup squads#Uzbekistan|Team]]}}
+}}
+
+The '''Uzbekistan national football team''' ({{lang-x2|uz|Oʻzbekiston milliy futbol terma jamoasi|Ўзбекистон миллий футбол терма жамоаси}}) represents [[Uzbekistan]] in men's international [[Association football|football]] and is controlled by the [[Uzbekistan Football Association]], the governing body for [[football in Uzbekistan]].
+
+Uzbekistan holds the highest competitive results among teams from [[Central Asia]]. At the [[AFC Asian Cup 2011|2011 Asian Cup]], Uzbekistan reached the semi-finals of the tournament for the first time. At other competitions such as the [[Football at the Asian Games|Asian Games]], Uzbekistan won the gold medal in [[Football at the 1994 Asian Games|1994]] in [[Japan]], while finishing as the runners-up at the [[Afro-Asian Cup of Nations]] in 1995. They qualified for the [[FIFA World Cup]] for the first time in [[2026 FIFA World Cup|2026]], becoming the first [[Central Asia|Central Asian]] country and the third post-Soviet state after Russia and Ukraine to qualify for the finals.<ref>{{Cite news |last=Millar |first=Colin |date=2025-06-05 |title=Uzbekistan, Jordan qualify for World Cup for first time |url=https://www.nytimes.com/athletic/6229851/2025/06/05/uzbekistan-world-cup-qualification-2026/ |access-date=2025-06-06 |work=The New York Times |language=en-US |issn=0362-4331}}</ref><ref>{{Cite web |title=Uzbekistan Scores, Stats and Highlights - ESPN (AU) |url=https://www.espn.com.au/football/team/_/id/2570/uzbekistan |access-date=2025-10-21 |website=ESPN |language=en}}</ref>

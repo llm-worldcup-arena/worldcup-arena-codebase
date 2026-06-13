@@ -1,0 +1,236 @@
+{{short description|Haitian footballer (born 1998)}}
+{{Use dmy dates|date=May 2026}}
+{{Infobox football biography
+|name = Leverton Pierre
+|image = 
+|full_name = 
+|birth_date = {{birth date and age|df=yes|1998|3|9}}
+|birth_place = [[Tabarre]], Haiti
+|height = 1.81 m
+|position = [[Midfielder]]
+|currentclub = [[F.C. Vizela|Vizela]]
+|clubnumber = 14
+|youthyears1 = 
+|youthclubs1 = CS Saint-Louis
+|years1 = 2016–2017
+|clubs1 = [[SC Bastia|Bastia II]]
+|caps1 = 8
+|goals1 = 0
+|years2 = 2017–2019
+|clubs2 = [[AC Ajaccio|Ajaccio II]]
+|caps2 = 23
+|goals2 = 13
+|years3 = 2017–2019
+|clubs3 = [[AC Ajaccio|Ajaccio]]
+|caps3 = 1
+|goals3 = 0
+|years4 = 2019–2020
+|clubs4 = [[FC Metz|Metz]]
+|caps4 = 0
+|goals4 = 0
+|years5 = 2019–2020
+|clubs5 = → [[USL Dunkerque|Dunkerque]] (loan)
+|caps5 = 23
+|goals5 = 1
+|years6 = 2020–2023
+|clubs6 = [[USL Dunkerque|Dunkerque]]
+|caps6 = 85
+|goals6 = 2
+|years7 = 2023–2024
+|clubs7 = [[US Avranches|Avranches]]
+|caps7 = 28
+|goals7 = 4
+|years8 = 2024–2025
+|clubs8 = [[LB Châteauroux|Châteauroux]]
+|caps8 = 25
+|goals8 = 1
+|years9 = 2025–
+|clubs9 = [[F.C. Vizela|Vizela]]
+|caps9 = 9
+|goals9 = 0
+|nationalyears1 = 2016
+|nationalteam1 = [[Haiti national under-20 football team|Haiti U20]]
+|nationalcaps1 = 10
+|nationalgoals1 = 1
+|nationalyears2 = 2021–
+|nationalteam2 = [[Haiti national football team|Haiti]]
+|nationalcaps2 = 33
+|nationalgoals2 = 0
+|medaltemplates = 
+|pcupdate = 28 February 2026
+|ntupdate = 17:25, 31 March 2026 (UTC)
+}}
+
+'''Leverton Pierre''' (born 9 March 1998) is a Haitian professional [[association football|footballer]] who plays as a [[midfielder]] for [[Liga Portugal 2]] club [[F.C. Vizela|Vizela]] and the [[Haiti national football team|Haiti national team]].<ref>{{Soccerway|470890}}</ref>
+
+==Club career==
+Pierre signed his first professional contract with [[SC Bastia|Bastia]] on 29 July 2017, joining from the Haitian club CS Saint-Louis.<ref>{{cite web|url=http://haititempo.com/foot-france-transfert-leverton-pierre-18-ans-signe-un-contrat-stagiaire-pro-a-bastia/|title=Foot- France- Transfert : Leverton Pierre (18 ans) signe un contrat stagiaire-pro à Bastia - Haiti-Tempo|date=23 June 2016|publisher=}}</ref> He made his professional debut with [[AC Ajaccio|Ajaccio]] in a 2–0 loss to [[Valenciennes FC|Valenciennes]] on 16 February 2018.<ref>{{cite web|url=http://www.lfp.fr/ligue2/feuille_match/83456|title=LFP.fr - Ligue de Football Professionnel - Domino's Ligue 2 - Saison 2017/2018 - 26ème journée - Valenciennes FC / AC Ajaccio|website=www.lfp.fr}}</ref>
+
+On 1 July 2025, Pierre signed for [[Liga Portugal 2]] club [[F.C. Vizela|Vizela]] for one season.<ref>{{Cite web |last=Chery |first=Manesson |date=1 July 2025 |title=Foot - Transfert : Leverton Pierre signe au Portugal |url=https://haititempo.com/foot-transfert-leverton-pierre-signe-au-portugal/ |access-date=11 July 2025 |website=Haiti-Tempo |language=en-US}}</ref>
+
+==International career==
+Pierre was part of the [[Haiti national under-20 football team]] that won the [[2017 CONCACAF U-20 Championship qualifying]] tournament, scoring one goal in the process.<ref>{{cite web|url=http://hpnhaiti.com/nouvelles/index.php/sport/23-football/1319-haiti-u20-coree-2017-haiti-a-etrille-anguilla-au-premier-match|title=Haiti Press Network - Haïti-U20-Corée 2017 : Haïti a étrillé Anguilla|first=Esther|last=Versiere|website=hpnhaiti.com}}{{Dead link|date=August 2025 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> In May 2019, he was named to [[Haiti national football team|Haiti]]'s 40-man provisional squad for the [[2019 CONCACAF Gold Cup]].<ref>{{cite web|url=https://gallery.mailchimp.com/78d3589fb61466b549ff752e5/files/041bd60a-92da-467b-b8d6-d6a51bae68bd/2019_Concacaf_Gold_Cup_Preliminary_Lists_May_20.pdf|date=20 May 2019|title=40-Player National Team Roster}}</ref> He debuted with the senior Haiti national team in a 1–0 [[2022 FIFA World Cup qualification]] loss to [[Canada men's national soccer team|Canada]] on 12 June 2021.<ref>{{Cite web|url=https://int.soccerway.com/matches/2021/06/12/nc-america/wc-qualifying-concacaf/haiti/canada/3490513/|title=Haiti vs. Canada - 12 June 2021|website=Soccerway}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 28 February 2026}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup
+!colspan="2"|Europe
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|[[SC Bastia|Bastia II]]
+|[[2016–17 Championnat de France Amateur 2|2016–17]]
+|[[Championnat National 3|National 3]]
+|8||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||8||0
+|-
+|rowspan="3"|[[AC Ajaccio|Ajaccio II]]
+|[[2017–18 Championnat National 3|2017–18]]
+|National 3
+|19||13||colspan="2"|—||colspan="2"|—||colspan="2"|—||19||13
+|-
+|[[2018–19 Championnat National 3|2018–19]]
+|National 3
+|4||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||4||0
+|-
+!colspan="2"|Total
+!23!!13!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!23!!13
+|-
+|[[AC Ajaccio|Ajaccio]]
+|[[2017–18 Ligue 2|2017–18]]
+|[[Ligue 2]]
+|1||0||2||0||colspan="2"|—||1{{efn|Appearance in [[Ligue 1 relegation/promotion play-offs]]}}||0||4||0
+|-
+|[[FC Metz|Metz]]
+|[[2018–19 FC Metz season|2018–19]]
+|Ligue 2
+|0||0||0||0||colspan="2"|—||colspan="2"|—||0||0
+|-
+|[[USL Dunkerque|Dunkerque]] (loan)
+|[[2019–20 Championnat National|2019–20]]
+|[[Ligue 3]]
+|23||1||2||0||colspan="2"|—||colspan="2"|—||25||1
+|-
+|rowspan="4"|Dunkerque
+|[[2020–21 USL Dunkerque season|2020–21]]
+|Ligue 2
+|29||1||1||0||colspan="2"|—||colspan="2"|—||30||1
+|-
+|[[2021–22 USL Dunkerque season|2021–22]]
+|Ligue 2
+|28||1||1||0||colspan="2"|—||colspan="2"|—||29||1
+|-
+|[[2022–23 Championnat National|2022–23]]
+|Ligue 3
+|28||0||5||0||colspan="2"|—||colspan="2"|—||33||0
+|-
+!colspan="2"|Total
+!85!!2!!7!!0!!colspan="2"|—!!colspan="2"|—!!92!!2
+|-
+|[[US Avranches|Avranches]]
+|[[2023–24 Championnat National|2023–24]]
+|Ligue 3
+|28||4||0||0||colspan="2"|—||colspan="2"|—||28||4
+|-
+|[[LB Châteauroux|Châteauroux]]
+|[[2024–25 Championnat National|2024–25]]
+|Ligue 3
+|25||1||colspan="2"|—||colspan="2"|—||colspan="2"|—||25||1
+|-
+|[[F.C. Vizela|Vizela]]
+|[[2025–26 Liga Portugal 2|2025–26]]
+|[[Liga Portugal 2]]
+|9||0||1||0||colspan="2"|—||colspan="2"|—||10||0
+|-
+!colspan="3"|Career total
+!202!!21!!12!!0!!0!!0!!1!!0!!215!!21
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 31 March 2026}}
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="6"|[[Haiti national football team|Haiti]]
+|2021||7||0
+|-
+|2022||4||0
+|-
+|2023||5||0
+|-
+|2024||5||0
+|-
+|2025||10||0
+|-
+|2026||2||0
+|-
+!colspan="2"|Total!!33!!0
+|}
+
+==Honors==
+
+'''Haiti U20'''
+* [[CFU U-20 Tournament]]: 2016{{citation needed|date=April 2020}}
+* [[2017 CONCACAF U-20 Championship qualifying]]<ref>{{cite news |last1=Versiere |first1=Esther |title=Haïti-U20-Corée 2017 : Haïti a étrillé Anguilla |url=http://hpnhaiti.com/nouvelles/index.php/sport/23-football/1319-haiti-u20-coree-2017-haiti-a-etrille-anguilla-au-premier-match |accessdate=7 May 2020 |work=Haiti Press Network |date=30 June 2016 }}{{Dead link|date=August 2025 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{cite news |title=Haiti – U20 Football : The Grenadiers won the Caribbean Cup |url=https://www.haitilibre.com/en/news-19098-haiti-u20-football-the-grenadiers-won-the-caribbean-cup.html |accessdate=7 May 2020 |work=Haiti Libre |date=31 October 2016}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{LFP|pierre-leverton}}
+* {{Lequipe|66116}}
+
+{{F.C. Vizela squad}}
+{{Navboxes
+| title = Haiti squads
+| bg          = #00209F
+| fg          = white
+| bordercolor = #D21034
+| list =
+{{Haiti squad 2021 CONCACAF Gold Cup}}
+{{Haiti squad 2023 CONCACAF Gold Cup}}
+{{Haiti squad 2025 CONCACAF Gold Cup}}
+{{Haiti squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Pierre, Leverton}}
+[[Category:1998 births]]
+[[Category:Living people]]
+[[Category:People from Ouest (department)]]
+[[Category:21st-century Haitian sportsmen]]
+[[Category:Haitian men's footballers]]
+[[Category:Men's association football midfielders]]
+[[Category:Haiti men's international footballers]]
+[[Category:Haiti men's youth international footballers]]
+[[Category:Ligue 2 players]]
+[[Category:Ligue 3 players]]
+[[Category:Championnat National 3 players]]
+[[Category:Liga Portugal 2 players]]
+[[Category:AC Ajaccio players]]
+[[Category:FC Metz players]]
+[[Category:USL Dunkerque players]]
+[[Category:LB Châteauroux players]]
+[[Category:F.C. Vizela players]]
+[[Category:Haitian expatriate men's footballers]]
+[[Category:Expatriate men's footballers in France]]
+[[Category:Haitian expatriate sportspeople in France]]
+[[Category:Expatriate men's footballers in Portugal]]
+[[Category:Haitian expatriate sportspeople in Portugal]]
+[[Category:2021 CONCACAF Gold Cup players]]
+[[Category:2023 CONCACAF Gold Cup players]]
+[[Category:2025 CONCACAF Gold Cup players]]
+[[Category:2026 FIFA World Cup players]]
+
+{{Haiti-footy-bio-stub}}

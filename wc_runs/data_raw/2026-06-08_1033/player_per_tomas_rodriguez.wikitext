@@ -1,0 +1,114 @@
+{{Short description|Panamanian footballer (born 1999)}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+|name           = Tomás Rodríguez
+|image          = 
+|full_name      = Tomás Abdiel Rodríguez Mena
+|birth_date     = {{birth date and age|1999|3|9|df=y}}
+|birth_place    = [[Panama City]], Panama
+|height         = 1.83 m
+|position       = [[Forward (association football)|Forward]]
+|currentclub    = [[Monagas S.C.|Monagas]]
+|clubnumber     = 9
+|years1         = 2016–2020
+|clubs1         = [[Alianza F.C. (Panama)|Alianza]]
+|caps1          = 47
+|goals1         = 5
+|years2         = 2020–2023
+|clubs2         = [[Sporting San Miguelito]]
+|caps2          = 72
+|goals2         = 12
+|years3         = 2024–
+|clubs3         = [[Monagas S.C.|Monagas]]
+|caps3          = 48
+|goals3         = 21
+|nationalyears1 = 2022–
+|nationalteam1  = [[Panama national football team|Panama]]
+|nationalcaps1  = 11
+|nationalgoals1 = 3
+|club-update    = 23 August 2025
+|nationalteam-update = 8 September 2025
+}}
+'''Tomás Abdiel Rodríguez Mena''' (born 9 March 1999) is a Panamanian [[association football|footballer]] who plays as a [[forward (association football)|forward]] for [[Monagas S.C.|Monagas]] and [[Panama national football team|Panama national team]].
+
+==Club career==
+In 2024, Rodríguez signed for Venezuelan side [[Monagas S.C.|Monagas]]. He was regarded as one of the club's most important players.<ref>{{Cite web|url=https://jmdeportes.com/futbol/tomas-rodriguez-sigue-con-su-racha-goleadora-en-venezuela/|title=Tomás Rodríguez sigue con su racha goleadora en Venezuela|date=8 April 2024 |publisher=jmdeportes.com}}</ref>
+
+==International career==
+Rodríguez is a Panama international. He played his first FIFA matches for the [[Panama national football team|Panama national team]] during friendlies against Guatemala and Nicaragua. He scored his first goal for Panama in the [[2025 CONCACAF Gold Cup|2025 Gold Cup]] against [[Guadeloupe national football team|Guadeloupe]]. He also scored against [[Guatemala national football team|Guatemala]] and [[Jamaica national football team|Jamaica]] to make him the first ever Panamanian player to score in their first three gold cup appearances.<ref>{{Cite web|url=https://www.tvn-2.com/tvmax/somos-la-sele/tomas-rodriguez-conoce-delantero-convocado-christiansen-espana-galicia-catalunya-monagas-venezuela-nicaragua-guatemala-copa-america_1_2136625.html|title=Tomás Rodríguez: Conoce más del delantero convocado por Thomas Christiansen|date=21 May 2024 |publisher=tvn-2.com}}</ref>
+
+==Style of play==
+Rodríguez mainly operates as a striker. He is known for his ball control.<ref>{{Cite web|url=https://futbolcentroamerica.com/panama/asi-juega-tomas-rodriguez-el-nuevo-fichaje-en-ataque-de-motagua-video-20230602-FCA-12562.html|title=Así juega Tomás Rodríguez, el nuevo fichaje en ataque de Motagua|date=2 June 2023 |publisher=futbolcentroamerica.com}}</ref>
+
+==Career statistics==
+{{updated|match played 8 September 2025}}
+
+{| class=wikitable style=text-align:center
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="4"|[[Panama national football team|Panama]]
+|2022||2||0
+|-
+|2023||2||0
+|-
+|2024||1||0
+|-
+|2025||7||3
+|-
+!colspan="2"|Total!!13!!4
+|}
+
+{| class="wikitable sortable"
+|+ List of international goals scored by Tomás Rodríguez
+|-
+! No. !! Date !! Venue!! Opponent !! Score !! Result !! Competition
+|-
+| 1 || 16 June 2025 || [[Dignity Health Sports Park]], [[Carson, California|Carson]], United States || {{fb|GLP}} || align=center|5–2 || align=center|5–2 || rowspan=3 |[[2025 CONCACAF Gold Cup Group C|2025 CONCACAF Gold Cup]]
+|-
+| 2 || 20 June 2025 || rowspan=2 |[[Q2 Stadium]], [[Austin, Texas|Austin]], United States || {{fb|GUA}} || align=center|1–0 || align=center|1–0
+|-
+| 3 || 24 June 2025 || {{fb|JAM}} || align=center|4–1 || align=center|4–1
+|-
+| 4 || 3 June 2026 || [[Estadio Rommel Fernández]], [[Ciudad de Panamá]], Panamá || {{fb|DOM}} || align=center|1–0 || align=center|4–2 || [[Exhibition game#Association football|Friendly]]
+|-
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Soccerway|tomas-abdiel-rodriguez-mena/465422}}
+
+{{Navboxes
+| title = Panama squads
+| bg          = #DA121A
+| fg          = white
+| bordercolor = #072357
+| list =
+{{Panama squad 2025 CONCACAF Gold Cup}}
+{{Panama squad 2026 FIFA World Cup}}
+}}
+{{Venezuelan Primera División top scorers}}
+
+{{DEFAULTSORT:Rodriguez, Tomas}}
+[[Category:1999 births]]
+[[Category:Living people]]
+[[Category:21st-century Panamanian sportsmen]]
+[[Category:Panamanian men's footballers]]
+[[Category:Footballers from Panama City]]
+[[Category:Men's association football forwards]]
+[[Category:Alianza F.C. (Panama) players]]
+[[Category:Sporting San Miguelito players]]
+[[Category:Monagas S.C. players]]
+[[Category:Liga Panameña de Fútbol players]]
+[[Category:Venezuelan Primera División players]]
+[[Category:Panama men's international footballers]]
+[[Category:2025 CONCACAF Gold Cup players]]
+[[Category:Panamanian expatriate men's footballers]]
+[[Category:Panamanian expatriate sportspeople in Venezuela]]
+[[Category:Expatriate men's footballers in Venezuela]]
+[[Category:2026 FIFA World Cup players]]
+
+{{Panama-footy-bio-stub}}

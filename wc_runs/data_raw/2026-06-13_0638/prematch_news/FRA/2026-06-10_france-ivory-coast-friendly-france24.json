@@ -1,0 +1,16 @@
+{
+ "team": "FRA",
+ "source": "France 24",
+ "url": "https://www.france24.com/en/sport/20260605-2026-world-cup-france-begin-their-preparation-with-defeat-against-ivory-coast",
+ "title": "2026 World Cup: France begin their preparation with a defeat against Ivory Coast - France 24",
+ "news_date": "2026-06-10",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-10",
+ "fetched": "2026-06-13_0638",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "2026 World Cup: France begin their preparation with a defeat against Ivory Coast\nSport\nIt was a false start for France after losing 2-1 to Ivory Coast in their first warm-up match before the World Cup. While Rayan Cherki put on a show, France lost control in the second half, allowing the Elephants to come back and take the lead, notably thanks to an outstanding performance from Guéla Doué.\nIssued on: 05/06/2026 - 08:16Modified: 05/06/2026 - 08:16\n1 min Reading time\nTo display this content from YouTube, you must enable advertisement tracking and audience measurement.\nOne of your browser extensions seems to be blocking the video player from loading. To watch this content, you may need to disable it on this site.\nCover image: Ivory Coast's defender #17 Guela Doue celebrates scoring the equalising goal during the international friendly football match between France and Ivory Coast ahead of the 2026 FIFA World Cup tournament at the Stade de la Beaujoire in Nantes, France, June 4, 2026. © Franck Fife, AFP\n04:53\nIn England, Liverpool officially appointed Andoni Iraola as head coach. The Spaniard replaces Arne Slot, who was fired on May 30.\nIn tennis, the fairytale continues for Maja Chwalinska. The 24-year-old player advanced to the French Open final, becoming the first player from the qualifying rounds ever to reach this stage of the competition.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

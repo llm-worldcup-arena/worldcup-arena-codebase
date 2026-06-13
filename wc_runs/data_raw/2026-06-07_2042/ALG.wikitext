@@ -1,0 +1,84 @@
+{{Short description|Men's association football team}}
+{{About|the men's team|the women's team|Algeria women's national football team}}
+{{Use dmy dates|date=January 2026}}
+{{Infobox national football team
+| Name                  = Algeria
+| FIFA Trigramme        = ALG
+| Badge                 = Algerian NT (logo).png
+| Badge_size            = 200px
+| Nickname              = ''الخُضر'' (The Greens)<ref>{{Cite web|url=http://www.aps.dz/en/sports/4927-can-2015-algeria-greens-to-prepare-for-can-2015-in-equatorial-guinea|title=16 November 2014|access-date=19 October 2019|archive-date=22 October 2016|archive-url=https://web.archive.org/web/20161022034345/http://www.aps.dz/en/sports/4927-can-2015-algeria-greens-to-prepare-for-can-2015-in-equatorial-guinea|url-status=live}}</ref><br />''الأفناك'' (The [[Fennec fox|Fennecs]])<ref>{{Cite web|url=https://www.fifa.com/worldcup/news/les-fennecs-spring-surprise-1185501|archive-url=https://web.archive.org/web/20180624204817/https://www.fifa.com/worldcup/news/les-fennecs-spring-surprise-1185501|url-status=dead|archive-date=24 June 2018|title=1982 FIFA World Cup – News – Algeria turn Gijon green – FIFA.com|website=www.fifa.com|access-date=19 October 2019}}</ref><br />{{nowrap|''مُحَارِبِي الصَّحْرَاء'' (The Desert Warriors)<ref>{{Cite web|url=http://allafrica.com/stories/201406250243.html|title=23 June 2014|access-date=19 October 2019|archive-date=20 March 2016|archive-url=https://web.archive.org/web/20160320064606/http://allafrica.com/stories/201406250243.html|url-status=live}}</ref>}}
+| Association           = [[Algerian Football Federation|Fédération Algérienne de Football]] (FAF)
+| Confederation         = [[Confederation of African Football|CAF]] (Africa)
+| Sub-confederation     = [[Union of North African Football|UNAF]] (North Africa)
+| Coach                 = [[Vladimir Petković]]
+| Captain               = [[Riyad Mahrez]]
+| Most caps             = [[Aïssa Mandi]] (116)
+| Top scorer            = [[Islam Slimani]] ([[List of international goals scored by Islam Slimani|45]])
+| Home Stadium          = [[Nelson Mandela Stadium]]
+| FIFA Rank             = {{FIFA World Rankings|ALG}}
+| FIFA max              = 15
+| FIFA max date         = October 2014
+| FIFA min              = 103
+| FIFA min date         = June 2008
+| Elo Rank              = {{World Football Elo Ratings|Algeria}}
+| Elo max               = 8
+| Elo max date          = December 1981
+| Elo min               = 85
+| Elo min date          = October 2018 
+| pattern_la1           = _alg26h
+| pattern_b1            = _alg26hA
+| pattern_ra1           = _alg26h
+| pattern_sh1           = _alg26h
+| pattern_so1           = _alg26hl
+| leftarm1              = FFFFFF
+| body1                 = FFFFFF
+| rightarm1             = FFFFFF
+| shorts1               = FFFFFF
+| socks1                = F3F3F3
+ | pattern_la2                = _alg26a
+ | pattern_b2                 = _alg26aA
+ | pattern_ra2                = _alg26a
+ | pattern_sh2                = _alg26a
+ | pattern_so2                = _adidaswhitel 
+ | leftarm2                   = 1b4531
+ | body2                      = 1b4531
+ | rightarm2                  = 1b4531
+ | shorts2                    = 1b4531
+ | socks2                     = 005441
+| First game            = {{fb|ALG}} 2–1 {{fb-rt|BUL|1948}}<br />([[Algiers]], [[Algeria]]; 6 January 1963)
+| Largest win           = {{fb|ALG}} 15–1 {{fb-rt|YMD}}<br />([[Tripoli, Libya|Tripoli]], [[History of Libya under Muammar Gaddafi#Libyan Arab Republic|Libya]]; 17 August 1973)
+| Largest loss          = {{fb|HUN}} 9–2 {{fb-rt|ALG}}<br />([[Budapest]], [[Hungarian People's Republic|Hungary]]; 16 August 1967)
+| World cup apps        =  5 
+| World cup first       = 1982
+| World cup best        = Round of 16 ([[2014 FIFA World Cup|2014]])
+| Regional name         = [[Africa Cup of Nations]]
+| Regional cup apps     = 21
+| Regional cup first    = [[1968 Africa Cup of Nations|1968]]
+| Regional cup best     = '''Champions''' ([[1990 Africa Cup of Nations|1990]], [[2019 Africa Cup of Nations|2019]])
+| 2ndRegional name      = [[FIFA Arab Cup|Arab Cup / FIFA Arab Cup]]
+| 2ndRegional cup apps  = 4
+| 2ndRegional cup first = 1988
+| 2ndRegional cup best  = '''Champions''' ([[2021 FIFA Arab Cup|2021]])
+| medaltemplates        =
+{{MedalCompetition|[[Africa Cup of Nations]]}}
+{{MedalGold|[[1990 African Cup of Nations|1990 Algeria]]|Team}}
+{{MedalGold|[[2019 Africa Cup of Nations|2019 Egypt]]|Team}}
+{{MedalSilver|[[1980 African Cup of Nations|1980 Nigeria]]|Team}}
+{{MedalBronze|[[1988 African Cup of Nations|1988 Morocco]]|Team}}
+{{MedalBronze|[[1984 African Cup of Nations|1984 Ivory Coast]]|Team}}
+{{MedalCompetition|[[FIFA Arab Cup]]}}
+{{MedalGold|[[2021 FIFA Arab Cup|2021 Qatar]]|Team}}
+{{MedalCompetition|[[Afro-Asian Cup of Nations]]}}
+{{MedalGold|[[1991 Afro-Asian Cup of Nations|1991 Iran and Algeria]]|Team}}
+{{MedalCompetition|[[Football at the African Games|African Games]]}}
+{{MedalGold|[[Football at the 1978 All-Africa Games|1978 Algiers]]|Team}}
+{{MedalCompetition|[[Football at the Mediterranean Games|Mediterranean Games]]}}
+{{MedalGold|[[Football at the 1975 Mediterranean Games|1975 Algiers]]|Team}}
+{{MedalBronze|[[Football at the 1979 Mediterranean Games|1979 Split]]|Team}}
+|Website=https://www.faf.dz/}}
+
+The '''Algeria national football team''' ({{langx|ar|منتخب الْجَزَائِر لِكُرَّةُ الْقَدَم}}) represents [[Algeria]] in men's international [[Association football|football]], and is governed by the [[Algerian Football Federation]]. The team plays its home matches at [[Nelson Mandela Stadium]] in Algiers and [[Miloud Hadefi Stadium]] in Oran. Algeria joined [[FIFA]] on 1 January 1964, a year and a half [[Algerian War|after gaining independence]].
+
+The North African team has qualified for five [[FIFA World Cup]]s, in [[1982 FIFA World Cup|1982]], [[1986 FIFA World Cup|1986]], [[2010 FIFA World Cup|2010]], [[2014 FIFA World Cup|2014]], and [[2026 FIFA World Cup|2026]]. Algeria has won the [[Africa Cup of Nations]] twice, as hosts in [[1990 Africa Cup of Nations|1990]], and again in [[Egypt]] in [[2019 Africa Cup of Nations|2019]]. They were also champions of the [[1975 Mediterranean Games|men's football tournament of the 1975 Mediterranean Games]],  the [[Football at the 1978 All-Africa Games|men's football tournament of the 1978 All-Africa Games]], the [[1991 Afro-Asian Cup of Nations]], and the [[2021 FIFA Arab Cup]].
+
+Algeria has rivalries with [[Egypt national football team|Egypt]], [[Morocco national football team|Morocco]], and [[Tunisia national football team|Tunisia]], while competitive matches have been played against [[Nigeria national football team|Nigeria]], especially in the 1980s, and [[Mali national football team|Mali]] due to [[Algeria–Mali border|sharing a common border]] and a long-standing competitive rivalry, and against [[Senegal national football team|Senegal]]. For the Algerians, their biggest victory on the world stage was their 2–1 win against [[Germany national football team|West Germany]] during the [[1982 FIFA World Cup]], and in [[2014 FIFA World Cup|2014]], Algeria became the first African team to score at least four goals in a match at a World Cup, doing so against [[South Korea national football team|South Korea]].

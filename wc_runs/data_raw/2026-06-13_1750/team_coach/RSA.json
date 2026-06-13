@@ -1,0 +1,31 @@
+{
+ "team": "RSA",
+ "coach": {
+  "name_zh": "雨果·布罗斯",
+  "name_en": "Hugo Broos",
+  "nationality": "Belgium",
+  "career_since": "1988",
+  "person_id": "per_hugo_broos"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 比利时籍主帅雨果·布罗斯自1988年执教，现任南非国家队主教练，正率队征战2026年世界杯。\n- 世界杯首战0-2负于墨西哥，其战术安排被批评\"变味\"，球队小组赛出师不利。\n- 该场比赛诞生世界杯历史：首次有3张红牌的揭幕战，南非独占两红，中场西特霍尔与老将兹瓦内均被直红罚下。\n- 西特霍尔因破坏单刀犯规，兹瓦内因终场前暴力行为经VAR确认，两人将缺席6月18日对阵捷克的生死战。\n- 布罗斯面临严重用人荒：除两名主力停赛外，还有两名球员身背黄牌，球队出线前景堪忧。\n- 尽管遭遇惨败与纪律危机，布罗斯仍称赞球员斗志，坚称南非有能力在剩余比赛中竞争。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 1.0,
+  "issues": []
+ },
+ "brief_fetched": "2026-06-13_1750",
+ "brief_info_chars": 6000,
+ "coach_xverify": {
+  "canonical": "Hugo Broos",
+  "confidence": "high",
+  "discrepancy": "Flashscore提及2014年教练组（Shakes Mashaba、Owen Da Gama、Khabo Zondo、Mike Mangena）作为历史背景，并非声称其为现任教练。此信息过时且语境为历史回顾，不构成对当前主教练的实质异议。其余所有权威来源（FIFA、SAFA、ESPN等）均一致确认Hugo Broos为现任主教练并带队征战2026世界杯。",
+  "sources_agree": 7,
+  "n_sources": 8
+ }
+}

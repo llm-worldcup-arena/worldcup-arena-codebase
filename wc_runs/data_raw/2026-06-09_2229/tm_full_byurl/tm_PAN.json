@@ -1,0 +1,313 @@
+[
+ {
+  "player_id": "923177",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/923177",
+  "name": "EdgardoFariña",
+  "shirt_number": 24,
+  "club": "Joined:",
+  "club_id": "49702",
+  "market_value": "€900k",
+  "market_value_numeric": 900000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Social-Media:",
+  "nationality": "Russia",
+  "citizenships": [
+   "Russia",
+   "Panama",
+   "Panama",
+   "Panama",
+   "Panama",
+   "Panama"
+  ],
+  "market_value_history": [
+   {
+    "date": "Dec 20, 2021",
+    "value": "€50k",
+    "value_numeric": 50000,
+    "club": "CA Independiente",
+    "age": "20"
+   },
+   {
+    "date": "Jun 17, 2022",
+    "value": "€25k",
+    "value_numeric": 25000,
+    "club": "CA Independiente",
+    "age": "20"
+   },
+   {
+    "date": "Dec 20, 2022",
+    "value": "€150k",
+    "value_numeric": 150000,
+    "club": "CD Universitario",
+    "age": "21"
+   },
+   {
+    "date": "Jun 21, 2023",
+    "value": "€175k",
+    "value_numeric": 175000,
+    "club": "CD Universitario",
+    "age": "21"
+   },
+   {
+    "date": "Dec 29, 2023",
+    "value": "€150k",
+    "value_numeric": 150000,
+    "club": "CSD Municipal",
+    "age": "22"
+   },
+   {
+    "date": "Jun 17, 2024",
+    "value": "€200k",
+    "value_numeric": 200000,
+    "club": "CSD Municipal",
+    "age": "22"
+   },
+   {
+    "date": "Jul 19, 2024",
+    "value": "€800k",
+    "value_numeric": 800000,
+    "club": "CA Independiente",
+    "age": "22"
+   },
+   {
+    "date": "Dec 12, 2024",
+    "value": "€1.00m",
+    "value_numeric": 1000000,
+    "club": "FC Khimki",
+    "age": "23"
+   },
+   {
+    "date": "Jun 4, 2025",
+    "value": "€1.00m",
+    "value_numeric": 1000000,
+    "club": "FC Khimki",
+    "age": "23"
+   },
+   {
+    "date": "Dec 16, 2025",
+    "value": "€1.00m",
+    "value_numeric": 1000000,
+    "club": "FC Pari Nizhniy Novgorod",
+    "age": "24"
+   },
+   {
+    "date": "May 26, 2026",
+    "value": "€900k",
+    "value_numeric": 900000,
+    "club": "FC Pari Nizhniy Novgorod",
+    "age": "24"
+   }
+  ],
+  "peak_market_value": 1000000,
+  "transfers": [],
+  "_our_pid": "per_edgardo_farina"
+ },
+ {
+  "player_id": "425028",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/425028",
+  "name": "José LuisRodríguez",
+  "shirt_number": 11,
+  "club": "Joined:",
+  "club_id": "49283",
+  "market_value": "€2.50m",
+  "market_value_numeric": 2500000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Social-Media:",
+  "nationality": "Mexico",
+  "citizenships": [
+   "Mexico",
+   "Panama",
+   "Panama",
+   "Panama",
+   "Panama",
+   "Panama"
+  ],
+  "market_value_history": [
+   {
+    "date": "Jul 15, 2016",
+    "value": "€100k",
+    "value_numeric": 100000,
+    "club": "KAA Gent U21",
+    "age": "18"
+   },
+   {
+    "date": "Jun 7, 2018",
+    "value": "€200k",
+    "value_numeric": 200000,
+    "club": "KAA Gent U21",
+    "age": "19"
+   },
+   {
+    "date": "Jul 16, 2018",
+    "value": "€500k",
+    "value_numeric": 500000,
+    "club": "KAA Gent U21",
+    "age": "20"
+   },
+   {
+    "date": "Sep 25, 2018",
+    "value": "€500k",
+    "value_numeric": 500000,
+    "club": "NK Istra 1961",
+    "age": "20"
+   },
+   {
+    "date": "Sep 10, 2019",
+    "value": "€500k",
+    "value_numeric": 500000,
+    "club": "Deportivo Alavés B",
+    "age": "21"
+   },
+   {
+    "date": "Feb 11, 2020",
+    "value": "€500k",
+    "value_numeric": 500000,
+    "club": "Deportivo Alavés B",
+    "age": "21"
+   },
+   {
+    "date": "Apr 8, 2020",
+    "value": "€450k",
+    "value_numeric": 450000,
+    "club": "Deportivo Alavés B",
+    "age": "21"
+   },
+   {
+    "date": "Oct 8, 2020",
+    "value": "€500k",
+    "value_numeric": 500000,
+    "club": "CD Lugo",
+    "age": "22"
+   },
+   {
+    "date": "Nov 23, 2020",
+    "value": "€600k",
+    "value_numeric": 600000,
+    "club": "CD Lugo",
+    "age": "22"
+   },
+   {
+    "date": "Jan 8, 2021",
+    "value": "€600k",
+    "value_numeric": 600000,
+    "club": "CD Lugo",
+    "age": "22"
+   },
+   {
+    "date": "Jun 24, 2021",
+    "value": "€500k",
+    "value_numeric": 500000,
+    "club": "CD Lugo",
+    "age": "23"
+   },
+   {
+    "date": "Aug 11, 2021",
+    "value": "€700k",
+    "value_numeric": 700000,
+    "club": "Sporting Gijón",
+    "age": "23"
+   },
+   {
+    "date": "Dec 27, 2021",
+    "value": "€700k",
+    "value_numeric": 700000,
+    "club": "Sporting Gijón",
+    "age": "23"
+   },
+   {
+    "date": "Mar 21, 2022",
+    "value": "€800k",
+    "value_numeric": 800000,
+    "club": "Sporting Gijón",
+    "age": "23"
+   },
+   {
+    "date": "Jun 29, 2022",
+    "value": "€800k",
+    "value_numeric": 800000,
+    "club": "Sporting Gijón",
+    "age": "24"
+   },
+   {
+    "date": "Nov 1, 2022",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "FC Famalicão",
+    "age": "24"
+   },
+   {
+    "date": "Jun 16, 2023",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "FC Famalicão",
+    "age": "24"
+   },
+   {
+    "date": "Dec 27, 2023",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "FC Famalicão",
+    "age": "25"
+   },
+   {
+    "date": "Jun 6, 2024",
+    "value": "€2.00m",
+    "value_numeric": 2000000,
+    "club": "FC Famalicão",
+    "age": "25"
+   },
+   {
+    "date": "Dec 11, 2024",
+    "value": "€1.80m",
+    "value_numeric": 1800000,
+    "club": "FC Juárez",
+    "age": "26"
+   },
+   {
+    "date": "May 26, 2025",
+    "value": "€2.00m",
+    "value_numeric": 2000000,
+    "club": "FC Juárez",
+    "age": "26"
+   },
+   {
+    "date": "Dec 29, 2025",
+    "value": "€1.80m",
+    "value_numeric": 1800000,
+    "club": "FC Juárez",
+    "age": "27"
+   },
+   {
+    "date": "Mar 26, 2026",
+    "value": "€2.50m",
+    "value_numeric": 2500000,
+    "club": "FC Juárez",
+    "age": "27"
+   },
+   {
+    "date": "May 20, 2026",
+    "value": "€2.50m",
+    "value_numeric": 2500000,
+    "club": "FC Juárez",
+    "age": "27"
+   }
+  ],
+  "peak_market_value": 2500000,
+  "transfers": [],
+  "_our_pid": "per_jose_luis_rodriguez"
+ }
+]

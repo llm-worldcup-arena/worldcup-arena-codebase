@@ -18,7 +18,7 @@ from collect_squads import (fetch_full_page, fetch_save, run_ts, clean_link, str
 
 def latest_raw():
     """找最近一次含球员阵容的 raw 目录。"""
-    base = f"{BASE}/raw/bg"
+    base = f"{BASE}/data_raw"
     for d in sorted(os.listdir(base), reverse=True):
         dd = f"{base}/{d}"
         if not os.path.isdir(dd):
@@ -99,7 +99,7 @@ def main():
     ids = [pid for pid in pages if pid in by_id]
     if args.limit:
         ids = ids[:args.limit]
-    raw_dir = f"{BASE}/raw/bg/{run_ts()}"                   # 球员页原文存这（raw 全量留底）
+    raw_dir = f"{BASE}/data_raw/{run_ts()}"                   # 球员页原文存这（raw 全量留底）
     print(f"页名取自 {raw}；球员页原文 → {raw_dir}  待补 {len(ids)} 球员\n")
 
     ok = 0

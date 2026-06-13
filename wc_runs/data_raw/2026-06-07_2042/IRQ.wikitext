@@ -1,0 +1,119 @@
+{{Short description|Men's association football team}}
+{{About|the men's team|the women's team|Iraq women's national football team}}
+{{Use dmy dates|date=January 2023}}
+{{Infobox national football team
+| Name                     = Iraq
+| Badge                    = Iraq National Team Badge 2021 v1.svg
+| Badge_size               = 190px
+| Nickname                 = ''Usood al-Rafidayn''<br>(Lions of [[Mesopotamia]])
+| Association              = [[Iraq Football Association]] (IFA)
+| Confederation            = [[Asian Football Confederation|AFC]] (Asia)
+| Sub-confederation        = [[West Asian Football Federation|WAFF]] (West Asia)
+| Coach                    = [[Graham Arnold]]
+| Captain                  = [[Jalal Hassan]]
+| Most caps                = [[Younis Mahmoud]] (148)
+| Top scorer               = [[Hussein Saeed]] ([[List of international goals scored by Hussein Saeed|78]])
+| Home Stadium             = [[Basra International Stadium]]
+| FIFA Trigramme           = IRQ
+| FIFA Rank                = {{FIFA World Rankings|IRQ}}
+| FIFA max                 = 39
+| FIFA max date            = 6 October 2004
+| FIFA min                 = 139
+| FIFA min date            = 3 July 1996
+| Elo Rank                 = {{World Football Elo Ratings|Iraq}}
+| Elo max                  = 24
+| Elo max date             = 3 December 1982
+| Elo min                  = 98
+| Elo min date             = 6 October 2016
+| website                  = 
+| pattern_la1              = _iraq26h
+| pattern_b1               = _iraq26h
+| pattern_ra1              = _iraq26h
+| pattern_sh1              = _jakoteam1819wb
+| pattern_so1              = 
+| leftarm1                 = ffffff
+| body1                    = ffffff
+| rightarm1                = ffffff
+| shorts1                  = ffffff
+| socks1                   = ffffff 
+| pattern_la2              = _iraq26a
+| pattern_b2               = _iraq26a
+| pattern_ra2              = _iraq26a
+| pattern_sh2              = _iraq26a
+| pattern_so2              = 
+| leftarm2                 = 009269
+| body2                    = 009269
+| rightarm2                = 009269
+| shorts2                  = 009269
+| socks2                   = 009269
+| pattern_la3              = _iraq26t
+| pattern_b3               = _iraq26t
+| pattern_ra3              = _iraq26t
+| pattern_sh3              = _iraq26t
+| pattern_so3              = 
+| leftarm3                 = 000000
+| body3                    = 000000
+| rightarm3                = 000000
+| shorts3                  = 000000
+| socks3                   = 000000
+| First game               = {{fb|MAR}} 3–3 {{fb-rt|IRQ|1924}}<br>([[Beirut]], [[Lebanon]]; 19 October 1957)
+| Largest win              = {{fb|IRQ|1991}} 13–0 {{fb-rt|ETH|1991}}<br>([[Irbid]], [[Jordan]]; 18 August 1992)
+| Largest loss             = {{fb|TUR}} 7–1 {{fb-rt|IRQ|1959}}<br>([[Adana]], [[Turkey]]; 6 December 1959)<br>{{fb|BRA}} 6–0 {{fb-rt|IRQ}}<br>([[Malmö]], [[Sweden]]; 11 October 2012)<br>{{fb|CHI}} 6–0 {{fb-rt|IRQ}}<br>([[Copenhagen]], [[Denmark]]; 14 August 2013)
+| World cup apps           = 2
+| World cup first          = 1986
+| World cup best           = Group stage ([[1986 FIFA World Cup|1986]])
+| Confederations cup apps  = 1
+| Confederations cup first = [[2009 FIFA Confederations Cup|2009]]
+| Confederations cup best  = Group stage ([[2009 FIFA Confederations Cup|2009]])
+| Regional name            = [[AFC Asian Cup|Asian Cup]]
+| Regional cup apps        = 11
+| Regional cup first       = [[1972 AFC Asian Cup|1972]]
+| Regional cup best        = '''Champions''' ([[2007 AFC Asian Cup|2007]])
+| 2ndRegional name         = [[FIFA Arab Cup|Arab Cup]]
+| 2ndRegional cup apps     = 7
+| 2ndRegional cup first    = [[1964 Arab Cup|1964]]
+| 2ndRegional cup best     = '''Champions''' ([[1964 Arab Cup|1964]], [[1966 Arab Cup|1966]], [[1985 Arab Cup|1985]], [[1988 Arab Cup|1988]])
+| 3rdRegional name         = [[WAFF Championship]]
+| 3rdRegional cup apps     = 8
+| 3rdRegional cup first    = [[2000 WAFF Championship|2000]]
+| 3rdRegional cup best     = '''Champions''' ([[2002 WAFF Championship|2002]])
+| 4thRegional name         = [[Arabian Gulf Cup]]
+| 4thRegional cup apps     = 17
+| 4thRegional cup first    = [[4th Arabian Gulf Cup|1976]]
+| 4thRegional cup best     = '''Champions''' ([[5th Arabian Gulf Cup|1979]], [[7th Arabian Gulf Cup|1984]], [[9th Arabian Gulf Cup|1988]], [[25th Arabian Gulf Cup|2023]])
+| medaltemplates = 
+{{MedalCompetition | [[AFC Asian Cup]]}}
+{{MedalGold |[[2007 AFC Asian Cup|2007 Indonesia, Malaysia, Thailand and Vietnam]]|[[2007 AFC Asian Cup squads#Iraq|Team]]}}
+{{MedalCompetition | [[Football at the Asian Games|Asian Games]]}}
+{{MedalGold |[[Football at the 1982 Asian Games|1982 New Delhi]]|[[Football at the 1982 Asian Games – Men's team squads#Iraq|Team]]}}
+{{MedalCompetition | [[WAFF Championship]]}}
+{{MedalGold |[[2002 WAFF Championship|2002 Syria]]|[[2002 WAFF Championship squads#Iraq|Team]]}}
+{{MedalSilver |[[2007 WAFF Championship|2007 Jordan]]|[[2007 West Asian Football Federation Championship squads#Iraq|Team]]}}
+{{MedalSilver |[[2012 WAFF Championship|2012 Kuwait]]|[[2012 WAFF Championship team squads#Iraq|Team]]}}
+{{MedalSilver |[[2019 WAFF Championship|2019 Iraq]]|[[2019 WAFF Championship squads#Iraq|Team]]}}
+{{MedalBronze |[[2000 WAFF Championship|2000 Jordan]]|[[2000 WAFF Championship squads#Iraq|Team]]}}
+{{MedalCompetition | [[FIFA Arab Cup|Arab Cup]]}}
+{{MedalGold |[[1964 Arab Cup|1964 Kuwait]]|[[1964 Arab Cup squads#Iraq|Team]]}}
+{{MedalGold |[[1966 Arab Cup|1966 Iraq]]|[[1966 Arab Cup squads#Iraq|Team]]}}
+{{MedalGold |[[1985 Arab Cup|1985 Saudi Arabia]]|[[1985 Arab Cup squads#Iraq B|Team]]}}
+{{MedalGold |[[1988 Arab Cup|1988 Jordan]]|[[1988 Arab Cup squads#Iraq|Team]]}}
+{{MedalBronze |[[2012 Arab Cup|2012 Saudi Arabia]]|[[2012 Arab Cup squads#Iraq|Team]]}}
+{{MedalCompetition | [[Arabian Gulf Cup]]}}
+{{MedalGold |[[5th Arabian Gulf Cup|1979 Iraq]]|[[5th Arabian Gulf Cup squads#Iraq|Team]]}}
+{{MedalGold |[[7th Arabian Gulf Cup|1984 Oman]]|[[7th Arabian Gulf Cup squads#Iraq|Team]]}}
+{{MedalGold |[[9th Arabian Gulf Cup|1988 Saudi Arabia]]|[[9th Arabian Gulf Cup squads#Iraq|Team]]}}
+{{MedalGold |[[25th Arabian Gulf Cup|2023 Iraq]]|[[25th Arabian Gulf Cup squads#Iraq|Team]]}}
+{{MedalSilver |[[4th Arabian Gulf Cup|1976 Qatar]]|[[4th Arabian Gulf Cup squads#Iraq|Team]]}}
+{{MedalSilver |[[21st Arabian Gulf Cup|2013 Bahrain]]|[[21st Arabian Gulf Cup squads#Iraq|Team]]}}
+{{MedalCompetition | [[West Asian Games#Football|West Asian Games]]}}
+{{MedalGold|[[Football at the 2005 West Asian Games|2005 Doha]]|[[Football at the 2005 West Asian Games – Men's team squads#Iraq|Team]]}}
+{{MedalCompetition | [[Football at the Arab Games|Arab Games]]}}
+{{MedalGold|[[Football at the 1985 Arab Games|1985 Rabat]]|[[Football at the 1985 Arab Games – Men's team squads#Iraq B|Team]]}}
+{{MedalSilver|[[Football at the 1999 Arab Games|1999 Amman]]|[[Football at the 1999 Arab Games – Men's team squads#Iraq|Team]]}}
+}}
+
+The '''Iraq national football team''' ({{langx|ar|منتخب الْعِرَاق لِكُرَةُ الْقَدَم}}), nicknamed the '''Lions of Mesopotamia''' ({{langx|ar|أسود الرافدين}}),<ref name=umbrokit2021/> represents [[Iraq]] in men's international [[Association football|football]] and is controlled by the [[Iraq Football Association]] (IFA), the governing body for [[football in Iraq]]. Iraq's usual home venue is the [[Basra International Stadium]].<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/50008381|title=Iraq 2-0 Hong Kong: Iraq hosts competitive football for first time in eight years|date=10 October 2019|publisher=BBC}}</ref>
+
+Iraq made its first [[FIFA World Cup]] appearance in [[1986 FIFA World Cup|1986]], scoring a solitary goal against [[Belgium national football team|Belgium]], and qualified for the second time in [[2026 FIFA World Cup|2026]]. Iraq is one of eight current [[Asian Football Confederation|AFC]] nations to have won the [[AFC Asian Cup]], claiming the title in [[2007 AFC Asian Cup|2007]] in spite of difficult conditions and limited preparation. Iraq defeated some of the favourites in the competition including [[Australia men's national soccer team|Australia]], [[South Korea national football team|South Korea]] and [[Saudi Arabia national football team|Saudi Arabia]]. This qualified the team for the [[2009 FIFA Confederations Cup]] where they earned two points in the group stage; they later finished fourth at the [[2015 AFC Asian Cup knockout stage|2015 AFC Asian Cup]].<ref>{{cite web|url=https://www.goal.com/en/news/afc-asian-cup-2019-group-d-preview-iran-iraq/17x6fhpkw5m2819u9yj0mu6iij|title=AFC Asian Cup 2019: Group D Preview - Iran, Iraq, Vietnam and Yemen|publisher=Goal.com|date=30 December 2018|last=Peter|first=Ashish}}</ref>
+
+Iraq is the [[FIFA Arab Cup|Arab Cup]]'s most successful nation with four titles, and has also won the [[Arabian Gulf Cup]] four times and the [[WAFF Championship]] once.<ref>{{cite web|url=https://www.middleeasteye.net/news/iraq-wins-gulf-cup-returns-hosting-international-tournament|title=Iraq celebrates Gulf Cup football win as it returns to hosting international tournaments|publisher=Middle East Eye|date=20 January 2023}}</ref> Iraq is known for its passionate football fans and the national team is seen as a symbol of hope and unity for Iraqi people.<ref>{{cite web|url=https://www.sbs.com.au/news/article/a-united-iraq-to-face-down-japan-in-asian-cup/dy2rmkufc|title=A united Iraq to face down Japan in Asian Cup|publisher=SBS News|date=14 January 2015}}</ref> The team reached its highest [[FIFA World Rankings|FIFA World Ranking]] of 39th in October 2004.<ref>{{cite web|url=https://www.gulf-times.com/story/690018/arab-cup-an-opportunity-for-all-arabs-iraqi-minister-of-youth-and-sports|title=Arab Cup an opportunity for all Arabs: Iraqi Minister of Youth and Sports|work=Gulf Times |date=27 April 2021}}</ref>

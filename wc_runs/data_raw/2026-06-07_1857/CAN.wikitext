@@ -1,0 +1,35 @@
+===Current squad===<!--PLEASE ALWAYS UPDATE THE "CURRENT SQUAD" AND "RECENT CALL-UPS" SECTIONS TOGETHER!-->
+
+The following 26 players were called up to the final squad for the [[2026 FIFA World Cup]].<ref name="squad">{{cite press release |first1=John |last1=Lobban |first2=Paulo |last2=Senra |title=Canada Soccer Announces CANMNT Squad for FIFA World Cup 2026™ |publisher=[[Canadian Soccer Association]] |date=May 29, 2026 |url=https://news.canadasoccer.com/canada-soccer-announces-canmnt-squad-for-fifa-world-cup-2026 |access-date=2026-05-31 |archive-url=https://web.archive.org/web/20260530000922/https://news.canadasoccer.com/canada-soccer-announces-canmnt-squad-for-fifa-world-cup-2026 |archive-date=2026-05-30 |url-status=live}}</ref> On May 31, [[Marcelo Flores]] withdrew injured, with a replacement to be named later.<ref>{{cite news |url=https://www.foxsports.com/stories/soccer/canadas-marcelo-flores-ruled-out-world-cup-acl-injury |title=Canada’s Marcelo Flores Ruled Out Of World Cup With ACL Injury |publisher=[[Fox Sports (United States)|Fox Sports]] |date=May 31, 2026 |access-date=May 31, 2026}}</ref>
+<br>''Caps and goals as of June 5, 2026, after the match against the [[Republic of Ireland national football team|Republic of Ireland]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Dayne St. Clair]]|age={{bda|1997|5|9}}|caps=20|goals=0|club=[[Inter Miami CF|Inter Miami]]|clubnat=USA}}
+{{nat fs g player|no=16|pos=GK|name=[[Maxime Crépeau]]|age={{bda|1994|4|11}}|caps=32|goals=0|club=[[Orlando City SC|Orlando City]]|clubnat=USA}}
+{{nat fs g player|no=18|pos=GK|name=[[Owen Goodman]]|age={{bda|2003|11|27}}|caps=0|goals=0|club=[[Barnsley F.C.|Barnsley]]|clubnat=ENG}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Alistair Johnston]]|age={{bda|1998|10|8}}|caps=58|goals=1|club=[[Celtic F.C.|Celtic]]|clubnat=SCO}}
+{{nat fs g player|no=3|pos=DF|name=[[Alfie Jones]]|age={{bda|1997|10|7}}|caps=2|goals=0|club=[[Middlesbrough F.C.|Middlesbrough]]|clubnat=ENG}}
+{{nat fs g player|no=4|pos=DF|name=[[Luc de Fougerolles]]|age={{bda|2005|10|12}}|caps=13|goals=0|club=[[F.C.V. Dender E.H.|Dender EH]]|clubnat=BEL}}
+{{nat fs g player|no=5|pos=DF|name=[[Joel Waterman]]|age={{bda|1996|1|24}}|caps=17|goals=0|club=[[Chicago Fire FC|Chicago Fire]]|clubnat=USA}}
+{{nat fs g player|no=13|pos=DF|name=[[Derek Cornelius]]|age={{bda|1997|11|25}}|caps=44|goals=1|club=[[Olympique de Marseille|Marseille]]|clubnat=FRA}}
+{{nat fs g player|no=15|pos=DF|name=[[Moïse Bombito]]|age={{bda|2000|3|30}}|caps=20|goals=0|club=[[OGC Nice|Nice]]|clubnat=FRA}}
+{{nat fs g player|no=19|pos=DF|name=[[Alphonso Davies]]|other=[[Captain (association football)|captain]]|age={{bda|2000|11|2}}|caps=58|goals=15|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs g player|no=22|pos=DF|name=[[Richie Laryea]]|age={{bda|1995|1|7}}|caps=75|goals=1|club=[[Toronto FC]]|clubnat=CAN}}
+{{nat fs g player|no=23|pos=DF|name=[[Niko Sigur]]|age={{bda|2003|9|9}}|caps=19|goals=2|club=[[HNK Hajduk Split|Hajduk Split]]|clubnat=CRO}}
+{{nat fs break}}
+{{nat fs g player|no=6|pos=MF|name=[[Mathieu Choinière]]|age={{bda|1999|2|7}}|caps=23|goals=0|club=[[Los Angeles FC]]|clubnat=USA}}
+{{nat fs g player|no=7|pos=MF|name=[[Stephen Eustáquio]]|other=[[Captain (association football)#Vice-captain|vice-captain]]|age={{bda|1996|12|21}}|caps=56|goals=4|club=[[Los Angeles FC]]|clubnat=USA}}
+{{nat fs g player|no=8|pos=MF|name=[[Ismaël Koné]]|age={{bda|2002|6|16}}|caps=40|goals=4|club=[[US Sassuolo Calcio|Sassuolo]]|clubnat=ITA}}
+{{nat fs g player|no=11|pos=MF|name=[[Liam Millar]]|age={{bda|1999|9|27}}|caps=41|goals=1|club=[[Hull City A.F.C.|Hull City]]|clubnat=ENG}}
+{{nat fs g player|no=14|pos=MF|name=[[Jacob Shaffelburg]]|age={{bda|1999|11|26}}|caps=31|goals=6|club=[[Los Angeles FC]]|clubnat=USA}}
+{{nat fs g player|no=17|pos=MF|name=[[Tajon Buchanan]]|age={{bda|1999|2|8}}|caps=60|goals=8|club=[[Villarreal CF|Villarreal]]|clubnat=ESP}}
+{{nat fs g player|no=20|pos=MF|name=[[Ali Ahmed (soccer)|Ali Ahmed]]|age={{bda|2000|10|10}}|caps=24|goals=1|club=[[Norwich City F.C.|Norwich City]]|clubnat=ENG}}
+{{nat fs g player|no=21|pos=MF|name=[[Jonathan Osorio]]|age={{bda|1992|6|12}}|caps=90|goals=10|club=[[Toronto FC]]|clubnat=CAN}}
+{{nat fs g player|no=25|pos=MF|name=[[Nathan Saliba]]|age={{bda|2004|2|7}}|caps=15|goals=2|club=[[RSC Anderlecht|Anderlecht]]|clubnat=BEL}}
+{{nat fs break}}
+{{nat fs g player|no=9|pos=FW|name=[[Cyle Larin]]|age={{bda|1995|4|17}}|caps=90|goals=30|club=[[Southampton F.C.|Southampton]]|clubnat=ENG}}
+{{nat fs g player|no=10|pos=FW|name=[[Jonathan David]]|age={{bda|2000|1|14}}|caps=77|goals=39|club=[[Juventus FC|Juventus]]|clubnat=ITA}}
+{{nat fs g player|no=12|pos=FW|name=[[Tani Oluwaseyi]]|age={{bda|2000|5|15}}|caps=24|goals=2|club=[[Villarreal CF|Villarreal]]|clubnat=ESP}}
+{{nat fs g player|no=24|pos=FW|name=[[Promise David]]|age={{bda|2001|7|3}}|caps=10|goals=3|club=[[Royale Union Saint-Gilloise|Union SG]]|clubnat=BEL}}
+{{nat fs end}}

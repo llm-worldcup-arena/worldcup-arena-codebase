@@ -1,0 +1,154 @@
+{{short description|Qatari footballer (born 1999)}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+| name = Yusuf Abdurisag
+| image = يوسف_قطر_الوكرة.jpg
+| caption = Abdulrisag with [[Qatar national football team|Qatar]] at the [[2023 AFC Asian Cup]]
+| fullname = Yusuf Abdurisag Yusuf
+| birth_date = {{birth date and age|1999|08|06|df=y}}
+| birth_place = [[Mogadishu]], Somalia<ref>{{Cite web|url=https://www.national-football-teams.com/player/75241/Yusuf_Abdurisag.html|title=Yusuf Abdurisag|website=national-football-teams.com|language=en|accessdate = 1 February 2022}}</ref>
+| height = 1.77 m
+| currentclub = [[Al-Wakrah SC|Al-Wakrah]]<br/>(on loan from [[Al Sadd SC|Al Sadd]])
+| clubnumber = 13 <!--9-->
+| position = [[Winger (association football)|Winger]]
+| youthyears1 = 
+| youthclubs1 = 
+| years1 = 2018–
+| clubs1 = [[Al Sadd SC|Al Sadd]]
+| caps1 = 69
+| goals1 = 10
+| years2 = 2019–2020
+| clubs2 = → [[Al-Arabi SC (Qatar)|Al-Arabi]] (loan)
+| caps2 = 23
+| goals2 = 0
+| years3 = 2023
+| clubs3 = → [[Al-Wakrah SC|Al-Wakrah]] (loan)
+| caps3 = 13
+| goals3 = 5
+| years4 = 2025–
+| clubs4 = → [[Al-Wakrah SC|Al-Wakrah]] (loan)
+| caps4 = 9
+| goals4 = 0
+| nationalyears1 = 2019
+| nationalteam1 = [[Qatar national under-20 football team|Qatar U20]]
+| nationalcaps1 = 3
+| nationalgoals1 = 0
+| nationalyears2 = 2019–2021
+| nationalteam2 = [[Qatar national under-21 football team|Qatar U21]]
+| nationalcaps2 = 4
+| nationalgoals2 = 0
+| nationalyears3 = 2018–2022
+| nationalteam3 = [[Qatar national under-23 football team|Qatar U23]]
+| nationalcaps3 = 14
+| nationalgoals3 = 4
+| nationalyears4 = 2019–
+| nationalteam4 = [[Qatar national football team|Qatar]]
+| nationalcaps4 = 30
+| nationalgoals4 = 3
+| club-update = 17 January 2026
+| nationalteam-update = 22 January 2024
+| medaltemplates = {{MedalCountry|{{fb|QAT}}}}
+{{MedalSport|Men's [[Association football|Football]]}}
+{{MedalCompetition|[[AFC Asian Cup]]}}
+{{Medal|Winner|[[2023 AFC Asian Cup|2023 Qatar]]|}}
+}}
+
+'''Yusuf Abdurisag Yusuf''' ({{langx|so|Yusuf Abdirisaq Yusuf}}, born 6 August 1999) is a professional [[association football|footballer]] who plays as a [[Winger (association football)|winger]] for [[Qatar Stars League]] side [[Al-Wakrah SC|Al-Wakrah]], on loan from [[Al Sadd SC|Al Sadd]]. Born in Somalia, he plays for the [[Qatar national football team|Qatar national team]].
+
+==Club career==
+Abdurisag began his professional career with Al Sadd SC in 2018. In January 2019 he was loaned to [[Al-Arabi SC (Qatar)|Al-Arabi SC]] and returned in August 2020. In January 2023 he joined [[Al-Wakrah SC]].<ref name="int1">{{cite web | url=https://int.soccerway.com/players/-/551722/ | title=Yusuf Abdurisag | date= | accessdate=2023-03-16}}</ref>
+
+==International career==
+In June 2023, during an international friendly against [[New Zealand men's national football team|New Zealand]], Abdurisag was accused of racially abusing [[Michael Boxall]]. The match was subsequently abandoned when the New Zealand players refused to return after half-time in protest at referee [[Manuel Schuttengruber]]'s response to the alleged incident.<ref>{{cite news|url=https://www.startribune.com/new-zealand-qatar-michael-boxall-racially-abused-match-halted-fifa/600283754/|title=Minnesota United's Michael Boxall 'racially abused' in New Zealand vs. Qatar friendly; match halted|newspaper=Star Tribune|date=June 19, 2023|first=Jerry|last=Zgoda}}</ref><ref>{{cite news |last1=Nuno Rios |first1=Janina |title=New Zealand abandon friendly against Qatar amid racism allegations |url=https://www.reuters.com/sports/soccer/new-zealand-abandon-friendly-against-qatar-amid-racism-allegations-2023-06-19/ |access-date=19 June 2023 |work=Reuters |date=19 Jun 2023}}</ref> Abdurisag denied the accusation.<ref>{{cite news |title=Qatar, Kuwait deny racism claims in international football friendlies |url=https://www.straitstimes.com/sport/football/qatar-kuwait-deny-racism-claims-in-international-football-friendlies |access-date=1 July 2023 |work=The Straits Times |date=21 June 2023}}</ref>
+
+==Career statistics==
+===International===
+<!-- NOTE: when updating stats, update the infobox too! -->
+{{updated|matches played 22 January 2024.}}<ref name="int1" /><ref name="NFT">{{NFT player|id=75241|access-date=17 October 2019}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|-
+! National team!!Year!!Apps!!Goals
+|-
+| rowspan="6"|[[Qatar national football team|Qatar]]
+|2019||7||1
+|-
+|2020||1||0
+|-
+|2021||5||0
+|-
+|2022||1||0
+|-
+|2023||14||2
+|-
+|2024||2||0
+|-
+! colspan=2|Total!!30!!3
+|}
+
+===International goals===
+:''Scores and results list Qatar's goal tally first.''<ref name="NFT"/>
+
+{| class="wikitable"
+! No. !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| 1. || 10 October 2019 || [[Bangabandhu National Stadium]], [[Dhaka]], Bangladesh || {{fb|BAN}} || align=center | '''1'''–0 || align=center | 2–0 || [[2022 FIFA World Cup qualification – AFC second round|2022 FIFA World Cup qualification]]
+|-
+| 2. || 25 June 2023 || [[NRG Stadium]], [[Houston]], United States || {{fb|HAI}} || align=center|'''1'''–0 || align=center| 1–2 || [[2023 CONCACAF Gold Cup Group B|2023 CONCACAF Gold Cup]]
+|-
+| 3. || 21 November 2023 || [[Kalinga Stadium]], [[Bhubaneswar]], India || {{fb|IND}} || align="center"|'''3'''–0 || align="center"|3–0 || [[2026 FIFA World Cup qualification – AFC second round|2026 FIFA World Cup qualification]]
+|}
+
+==Honours==
+'''Al-Sadd'''
+*[[Qatar Stars League]]: [[2020–21 Qatar Stars League|2020–21]], [[2021–22 Qatar Stars League|2021–22]]
+*[[Qatar Cup]]: [[2021 Qatar Cup|2021]]
+*[[Emir of Qatar Cup]]: [[2020 Emir of Qatar Cup|2020]], [[2021 Emir of Qatar Cup|2021]]
+*[[Qatari Stars Cup]]: [[2019–20 Qatari Stars Cup|2019–20]]
+
+'''Qatar'''
+* [[AFC Asian Cup]]: [[2023 AFC Asian Cup|2023]]
+
+==References==
+{{reflist}}
+
+==External links==
+*{{WorldFootball.net |new_id=pe691982}}
+*{{Soccerway}}
+
+{{Al Sadd SC squad}}
+{{Navboxes
+| title = Qatar squads
+| bg        = #8A1538
+| fg        = white
+| bordercolor = #660033
+| list =
+{{Qatar squad 2021 CONCACAF Gold Cup}}
+{{Qatar squad 2023 CONCACAF Gold Cup}}
+{{Qatar squad 2023 AFC Asian Cup}}
+{{Qatar squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Abdurisag, Yusuf}}
+[[Category:1999 births]]
+[[Category:Living people]]
+[[Category:Qatari men's footballers]]
+[[Category:21st-century Qatari sportsmen]]
+[[Category:Qatar men's youth international footballers]]
+[[Category:Qatar men's international footballers]]
+[[Category:Al Sadd SC players]]
+[[Category:Al-Arabi SC (Qatar) players]]
+[[Category:Al-Wakrah SC players]]
+[[Category:Qatar Stars League players]]
+[[Category:Men's association football wingers]]
+[[Category:Qatari people of Somali descent]]
+[[Category:Naturalized citizens of Qatar]]
+[[Category:Qatar men's under-20 international footballers]]
+[[Category:2021 CONCACAF Gold Cup players]]
+[[Category:2023 CONCACAF Gold Cup players]]
+[[Category:2023 AFC Asian Cup players]]
+[[Category:AFC Asian Cup–winning players]]
+[[Category:2026 FIFA World Cup players]]
+
+
+{{Qatar-footy-bio-stub}}

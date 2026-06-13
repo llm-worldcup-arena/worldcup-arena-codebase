@@ -1,0 +1,178 @@
+{{short description|Norwegian footballer (born 2003)}}
+{{Use dmy dates|date=August 2024}}
+{{Infobox football biography
+|name        = Henrik Falchener
+|image       = Henrik Falchener 25 Viking FK UECL 20250813 (5).jpg
+|caption     = Falchener with [[Viking FK|Viking]] in 2025
+|fullname    = Henrik Sælebakke Falchener<ref name=wf>{{cite web|title=Henrik Falchener Profile|url=https://www.worldfootball.net/person/pe668043/henrik-falchener/|website=Worldfootball|access-date=22 December 2025}}</ref>
+|birth_date  = {{birth date and age|2003|5|8|df=y}}<ref name=wf/>
+|birth_place = 
+|height      = 1.94m<ref name=wf/>
+|position    = Centre-back
+|currentclub = [[Viking FK|Viking]]
+|clubnumber  = 25
+|youthyears1 = {{0|0000}}–2016
+|youthclubs1 = [[IL Flint|Flint]]
+|youthyears2 = 2017
+|youthclubs2 = [[Strømsgodset Toppfotball|Strømsgodset]]
+|youthyears3 = 2018–2021
+|youthclubs3 = [[Sandefjord Fotball|Sandefjord]]
+|years1      = 2019–2021
+|clubs1      = [[Sandefjord Fotball 2|Sandefjord 2]]
+|caps1       = 18
+|goals1      = 1
+|years2      = 2020–2021
+|clubs2      = [[Sandefjord Fotball|Sandefjord]]
+|caps2       = 2
+|goals2      = 0
+|years3      = 2022–2023
+|clubs3      = [[FK Ørn Horten|Ørn Horten]]
+|caps3       = 41
+|goals3      = 3
+|years4      = 2023
+|clubs4      = [[FK Ørn Horten 2|Ørn Horten 2]]
+|caps4       = 2
+|goals4      = 0
+|years5      = 2024
+|clubs5      = [[Egersunds IK|Egersund]]
+|caps5       = 29
+|goals5      = 1
+|years6      = 2025–
+|clubs6      = [[Viking FK|Viking]]
+|caps6       = 39
+|goals6      = 8
+|nationalyears1 = 2020
+|nationalteam1 = [[Norway national under-17 football team|Norway U17]]
+|nationalcaps1 = 4
+|nationalgoals1 = 1
+|nationalyears2 = 2021
+|nationalteam2 = [[Norway national under-18 football team|Norway U18]]
+|nationalcaps2 = 3
+|nationalgoals2 = 0
+|nationalyears3 = 2026–
+|nationalteam3 = [[Norway national football team|Norway]]
+|nationalcaps3 = 1
+|nationalgoals3 = 0
+|club-update = 07:00, 25 May 2026 (UTC)
+|ntupdate = 31 March 2026
+}}
+'''Henrik Sælebakke Falchener''' (born 8 May 2003) is a Norwegian footballer who plays as a [[defender (association football)|centre-back]] for [[Viking FK|Viking]] and the [[Norway national football team|Norway national team]].<ref name=nff>{{NFF|3039116}}</ref><ref name=gullhelt>{{cite news|url=https://www.vg.no/sport/i/d45q1O/eliteserien-henrik-falchener-kan-bli-vikings-gullhelt-vraket-fra-guttelaget|title=Vikings «usannsynlige» gullhelt: Ble vraket fra Strømsgodsets guttelag|last=Herrebrøden|first=Øyvind|date=24 November 2025|work=VG|language=no|access-date=24 November 2025}}</ref>
+
+==Club career==
+Falchener was signed by [[Viking FK|Viking]] ahead of the 2025 season, after impressing for [[Egersunds IK|Egersund]] in the 2024 [[Norwegian First Division]].<ref name=gullhelt/> After an impressive 2025 season for both Falchener and Viking, where Falchener scored six goals, most of any centre-back in the league, Viking finished top of the table for the first time in over thirty years.<ref name="NRK1">{{cite news |last1=Barka |first1=Even Hye Tytlandsvik |title=Banestorming og enorme scener da Viking vant Eliteserien |url=https://www.nrk.no/rogaland/banestorming-og-enorme-scener-da-viking-vant-eliteserien-1.17673311 |access-date=1 December 2025 |work=NRK |date=30 November 2025 |archive-url=https://web.archive.org/web/20251201151857/https://www.nrk.no/rogaland/banestorming-og-enorme-scener-da-viking-vant-eliteserien-1.17673311 |archive-date=1 December 2025 |language=nb-NO |trans-title=Pitch invasion and huge scenes as Viking win the Eliteserien}}</ref>
+
+==International career==
+On 31 March 2026, Falchener made his [[Norway national football team|Norway national team]] debut in a friendly match against [[Switzerland national football team|Switzerland]].<ref>{{cite web|url=https://www.rastavanger.no/viking-stopperen-fikk-sin-debut-med-haaland-og-co/s/5-165-238008|title=Viking-stopperen fikk sin debut med A-landslaget – fotballekspert spår VM-billett|work=RA Stavanger|last=Håland|first=Kirsten|language=no|date=31 March 2026|access-date=26 May 2026}}</ref> On 21 May 2026, he was named in Norway's [[2026 FIFA World Cup]] squad.<ref>{{cite web|url=https://www.nrk.no/fotballvm2026/fotball-vm_-dette-er-norges-tropp-i-vm-1.17892940|title=Norges VM-tropp er klar – Dønnum og Horn Myhre vraket|work=NRK|last=Lokøy|first=Christian Dehlie|language=no|date=21 May 2026|access-date=26 May 2026}}</ref>
+
+==Career statistics==
+{{updated|match played 24 May 2026}}<ref name=nff/><ref>{{cite web|title=Henrik Falchener Stats|url=https://www.soccerway.com/player/falchener-henrik/69zBkYnS/|website=Soccerway|access-date=22 December 2025}}</ref>
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National Cup
+!colspan="2"|Europe
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan=3|[[Sandefjord Fotball 2|Sandefjord 2]]
+|[[2019 Norwegian Fourth Division|2019]]
+|[[Norwegian Fourth Division|4. divisjon]]
+|9||0||colspan="2"|—||colspan="2"|—||2{{efn|name=4po|Appearances in 4. divisjon promotional play-offs}}||0||11||0
+|-
+|[[2021 Norwegian Fourth Division|2021]]
+|4. divisjon
+|9||1||colspan="2"|—||colspan="2"|—||2{{efn|name=4po}}||0||11||1
+|-
+!colspan="2"|Total
+!18!!1!!colspan="2"|—!!colspan="2"|—!!4!!0!!22!!1
+|-
+|rowspan=3|[[Sandefjord Fotball|Sandefjord]]
+|[[2020 Sandefjord Fotball season|2020]]
+|[[Eliteserien]]
+|1||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||1||0
+|-
+|[[2021 Sandefjord Fotball season|2021]]
+|Eliteserien
+|1||0||1||0||colspan="2"|—||colspan="2"|—||2||0
+|-
+!colspan="2"|Total
+!2!!0!!1!!0!!colspan="2"|—!!colspan="2"|—!!3!!0
+|-
+|rowspan=3|[[FK Ørn Horten|Ørn Horten]]
+|[[2022 Norwegian Second Division|2022]]
+|[[Norwegian Second Division|2. divisjon]]
+|17||2||1||0||colspan="2"|—||colspan="2"|—||18||2
+|-
+|[[2023 Norwegian Second Division|2023]]
+|2. divisjon
+|24||1||2||0||colspan="2"|—||colspan="2"|—||26||1
+|-
+!colspan="2"|Total
+!41!!3!!3!!0!!colspan="2"|—!!colspan="2"|—!!44!!3
+|-
+|[[FK Ørn Horten 2|Ørn Horten 2]]
+|[[2023 Norwegian Fourth Division|2023]]
+|4. divisjon
+|2||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||2||0
+|-
+|[[Egersunds IK|Egersund]]
+|[[2024 Norwegian First Division|2024]]
+|[[Norwegian First Division|1. divisjon]]
+|29||1||3||0||colspan="2"|—||colspan="2"|—||32||1
+|-
+|rowspan="3"|[[Viking FK|Viking]]
+|[[2025 Viking FK season|2025]]
+|Eliteserien
+|29||6||7||0||3{{efn|Appearances in [[UEFA Conference League]]}}||0||colspan="2"|—||39||6
+|-
+|[[2026 Viking FK season|2026]]
+|Eliteserien
+|10||2||2||0||0||0||colspan="2"|—||12||2
+|-
+!colspan=2|Total
+!39!!8!!9!!0!!3!!0!!colspan="2"|—!!51!!8
+|-
+!colspan=3|Career total
+!131!!13!!16!!0!!3!!0!!4!!0!!154!!13
+|}
+{{notelist}}
+
+==Honours==
+'''Viking'''
+* [[Eliteserien]]: [[2025 Eliteserien|2025]]<ref name=NRK1/>
+
+'''Individual'''
+*[[Eliteserien]] Player of the Month: [[2025 Eliteserien#Monthly awards|May 2025]]<ref>{{cite web|title=Viking Fotball-spilleren har tatt Eliteserien med storm etter overgangen fra Egersund|url=https://www.facebook.com/reel/1308661974594525|website=Facebook|language=no|publisher=Eliteserien|date=26 June 2025|access-date=18 August 2025}}</ref>
+
+==References==
+{{reflist}}
+
+{{Viking FK squad}}
+{{Norway squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Falchener, Henrik}}
+[[Category:2003 births]]
+[[Category:Living people]]
+[[Category:Footballers from Tønsberg]]
+[[Category:Norwegian men's footballers]]
+[[Category:Norway men's youth international footballers]]
+[[Category:Norway men's international footballers]]
+[[Category:21st-century Norwegian sportsmen]]
+[[Category:Men's association football defenders]]
+[[Category:Strømsgodset Toppfotball players]]
+[[Category:Sandefjord Fotball players]]
+[[Category:FK Ørn Horten players]]
+[[Category:Egersunds IK players]]
+[[Category:Viking FK players]]
+[[Category:Norwegian Fourth Division players]]
+[[Category:Eliteserien players]]
+[[Category:Norwegian Second Division players]]
+[[Category:Norwegian First Division players]]
+[[Category:2026 FIFA World Cup players]]
+
+{{Norway-footy-defender-stub}}

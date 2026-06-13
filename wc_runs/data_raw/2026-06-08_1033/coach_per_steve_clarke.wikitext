@@ -1,0 +1,309 @@
+{{short description|Scottish footballer and manager born 1963}}
+{{About|the Scottish association football manager and former player|other people with the same name|Stephen Clarke (disambiguation){{!}}Stephen Clark}}
+{{distinguish|Steve Clark}}
+{{Use British English|date=May 2011}}
+{{Use dmy dates|date=May 2026}}
+{{Infobox football biography
+| name = Steve Clarke
+| image = First Minister meets with Scottish National Football Team (cropped).jpg 
+| caption = Clarke with [[Scotland national football team|Scotland]] in 2026
+| fullname = Stephen Clarke<ref name="Hugman">{{Hugman|3607|accessdate=27 March 2017}}</ref>
+| birth_date = {{birth date and age|1963|8|29|df=y}}<ref name="Hugman"/>
+| birth_place = [[Saltcoats]], Ayrshire, Scotland
+| height = {{convert|1.78|m|order=flip}}<ref>{{cite web |url=https://www.worldfootball.net/person/pe64126/steve-clarke/ |title=Steve Clarke: Profile |website=worldfootball.net |publisher=HEIM:SPIEL |access-date=25 December 2019}}</ref>
+| position = [[Right-back]]<ref>{{cite web |url=https://www.chelseafc.com/en/steve-clarke |title=Steve Clarke |publisher=Chelsea F.C. |access-date=17 February 2024}}</ref>
+| currentclub = [[Scotland national football team|Scotland]] (manager)
+| youthyears1 = 
+| youthclubs1 = 
+| years1 = 
+| clubs1 = [[Beith Juniors F.C.|Beith Juniors]]
+| years2 = 1982–1987
+| caps2 = 200
+| goals2 = 7
+| clubs2 = [[St Mirren F.C.|St Mirren]]
+| years3 = 1987–1998
+| caps3 = 330
+| goals3 = 7
+| clubs3 = [[Chelsea F.C.|Chelsea]]
+| totalcaps = 530
+| totalgoals = 14
+| nationalyears1 = 1983<ref name=fan17/>
+| nationalteam1 = [[Scotland national under-19 football team|Scotland U19]]
+| nationalcaps1 = 
+| nationalgoals1 = 
+| nationalyears2 = 1983–1985<ref>{{cite web |url=http://www.fitbastats.com/scotlandu21/player.php?playerid=105 |title=[Scotland U21 player] Clarke, Steve |website=FitbaStats |access-date=11 October 2012}}</ref>
+| nationalteam2 = [[Scotland national under-21 football team|Scotland U21]]
+| nationalcaps2 = 8
+| nationalgoals2 = 0
+| nationalyears3 = 1987–1990<ref>{{cite web |url=https://www.fitbastats.com/scotlandb/player.php?playerid=62 |title=[Scotland B player] Clarke, Steve |website=FitbaStats |access-date=11 October 2020}}</ref>
+| nationalteam3 = [[Scotland national B football team|Scotland B]]
+| nationalcaps3 = 2
+| nationalgoals3 = 0
+| nationalyears4 = 1987–1994
+| nationalteam4 = [[Scotland national football team|Scotland]]
+| nationalcaps4 = 6
+| nationalgoals4 = 0
+| manageryears1 = 1999
+| managerclubs1 = [[Newcastle United F.C.|Newcastle United]] (caretaker)
+| manageryears2 = 2012–2013
+| managerclubs2 = [[West Bromwich Albion F.C.|West Bromwich Albion]]
+| manageryears3 = 2014–2015
+| managerclubs3 = [[Reading F.C.|Reading]]
+| manageryears4 = 2017–2019
+| managerclubs4 = [[Kilmarnock F.C.|Kilmarnock]]
+| manageryears5 = 2019–
+| managerclubs5 = [[Scotland national football team|Scotland]]
+}}
+
+'''Stephen Clarke''' (born 29 August 1963) is a Scottish professional [[Manager (association football)|football manager]] and former [[association football|player]] who is the manager of the [[Scotland national football team|Scotland national team]].
+
+Clarke played for [[St Mirren F.C.|St Mirren]], [[Chelsea F.C.|Chelsea]] and the [[Scotland national football team|Scotland national team]], winning three major trophies with Chelsea towards the end of his career. After retiring as a player, he moved into coaching and worked at [[Newcastle United F.C.|Newcastle United]], Chelsea, [[West Ham United F.C.|West Ham United]] and [[Liverpool F.C.|Liverpool]]. Clarke has since managed [[West Bromwich Albion F.C.|West Bromwich Albion]] and [[Reading F.C.|Reading]]. After a spell coaching at [[Aston Villa F.C.|Aston Villa]], Clarke was appointed [[Kilmarnock F.C.|Kilmarnock]] manager in October 2017 and led them to a [[UEFA competitions|European place]] with a club record points total in his only full season in charge.
+
+In May 2019, he was appointed manager of the Scotland national team.<ref name=Scotland/> During his tenure, he has led the team to qualifications for [[UEFA Euro 2020]] (their first major tournament for 23 years),<ref name=Serbia/> [[UEFA Euro 2024]] and [[2026 FIFA World Cup]], their first appearance at the World Cup finals since [[1998 FIFA World Cup|1998]].
+
+==Playing career==
+===St Mirren===
+Clarke was born in [[Saltcoats]] in [[Ayrshire]].<ref name="Hugman"/> His older brother [[Paul Clarke (Scottish footballer)|Paul]] was a footballer, who played in more than 350 games for [[Kilmarnock F.C.|Kilmarnock]].<ref>{{cite web |url=https://www.bbc.com/sport/football/41640522 |title=Kilmarnock: Steve Clarke believes his managerial record deserves more respect |publisher=BBC Sport |date=16 October 2017 |access-date=30 April 2018}}</ref> Spotted while playing for [[Beith Juniors F.C.|Beith Juniors]], Steve began his professional career with [[St Mirren F.C.|St Mirren]].<ref name = "decisions">{{cite news |url=http://www.timesonline.co.uk/tol/sport/football/premier_league/west_ham/article7061264.ece |title=Steve Clarke: 'It's time for me to be the guy who makes decisions' |newspaper=The Sunday Times |location=London |date=14 March 2010 |access-date=10 October 2010 |last=Buckland |first=Simon}}{{dead link|date=September 2024|bot=medic}}{{cbignore|bot=medic}}</ref> Clarke was initially on a part-time contract with St Mirren, while he completed an apprenticeship as an instrument engineer.<ref name = "decisions"/>
+
+===Chelsea===
+Clarke was transferred to [[Chelsea F.C.|Chelsea]] for £422,000 in January 1987.<ref name="clarke profile">{{cite news |url=http://www.chelseafc.com/page/Legends_Details/0,,10268~1966782,00.html |title=Steve Clarke |publisher=Chelsea F.C |access-date=10 October 2010 |url-status=dead |archive-url=https://web.archive.org/web/20100818034852/http://www.chelseafc.com/page/Legends_Details/0,,10268~1966782,00.html |archive-date=18 August 2010}}</ref> He stayed at Chelsea until 1998, making 421 appearances.<ref name = "clarke profile"/> He was a part of the Chelsea sides which won the [[1997 FA Cup Final]], [[1998 Football League Cup Final]] and [[1998 UEFA Cup Winners' Cup Final]]. The latter match, against [[VfB Stuttgart]] in [[Stockholm]], was Clarke's final appearance for the club.<ref name = "clarke profile"/> In 2005, he was voted into Chelsea's centenary XI, occupying the right-back position.
+
+Speaking in February 2019, Clarke said he was thankful that Chelsea had signed him as it meant that he and his family no longer had to live with [[Sectarianism in Glasgow|religious sectarianism]] in the west of Scotland.<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/47313458 |title=Steve Clarke: Kilmarnock boss upset by 'sectarian' abuse in Rangers defeat |publisher=BBC Sport |date=20 February 2019 |access-date=21 February 2019}}</ref>
+
+===Scotland===
+Clarke represented Scotland in youth internationals during the 1980s, including the [[1983 FIFA World Youth Championship]] held in Mexico. He scored the winning goal in a match against the host nation, which meant that Scotland progressed to the knockout rounds.<ref name = mexico>{{cite web |url=https://www.bbc.co.uk/sport/articles/cn09z2z0rygo |title=Scotland: Why drawing Mexico would be 'full circle' moment for Clarke |website=BBC Sport |date=5 December 2025 |accessdate=5 December 2025}}</ref>
+
+He later made six appearances for the senior [[Scotland national football team|Scotland national team]] between 1987 and 1994. His debut was a 2–0 friendly win over [[Hungary national football team|Hungary]] at [[Hampden Park]] on 9 September 1987, and his final game was a 3–1 friendly loss away to the [[Netherlands national football team|Netherlands]] in [[Utrecht]] six years later on 27 May 1994,<ref name = "SFA"/> but he was not selected in the squad for any of the major tournaments for which Scotland qualified in that era.<ref>[https://www.bbc.co.uk/sport/football/67932342 Steve Clarke: Scotland boss will have 'empathy' with players who miss out on Euros], BBC Sport, 10 January 2024</ref>
+
+==Coaching career==
+===Newcastle United===
+In 1998, Clarke joined [[Newcastle United F.C.|Newcastle United]] as assistant manager to [[Ruud Gullit]], his former manager and teammate at Chelsea. Clarke was part of the coaching team with Gullit, which helped Newcastle reach the [[1999 FA Cup Final]] on 22 May 1999, where Newcastle finished runners up to [[Manchester United]].<ref name="double_joy">{{cite news |title=Double joy for Man United |url=https://news.bbc.co.uk/2/hi/sport/football/fa_cup/350192.stm |website=BBC News |date=22 May 1999 |access-date=27 March 2014 }}</ref>
+
+Clarke was caretaker manager following Gullit's resignation on 28 August 1999,<ref name="Gullit quits Newcastle">{{cite web |url=https://news.bbc.co.uk/2/hi/sport/football/news/432333.stm |title=Gullit quits Newcastle |publisher=BBC Sport |date=28 August 1999 |access-date=27 March 2017}}</ref> taking charge of one match, a 5–1 defeat against Manchester United on 30 August 1999.<ref name = "caretaker">{{cite news |url=https://www.independent.co.uk/sport/football/premier-league/cole-strikes-at-heart-of-magpies-742534.html |archive-url=https://ghostarchive.org/archive/20220525/https://www.independent.co.uk/sport/football/premier-league/cole-strikes-at-heart-of-magpies-742534.html |archive-date=25 May 2022 |url-access=subscription |url-status=live |title=Cole strikes at heart of Magpies |newspaper=The Independent |location=London |last=Hodgson |first=Guy |date=31 August 1999 |access-date=10 October 2010}}</ref> For that match, Clarke reinstated [[Alan Shearer]] and [[Rob Lee]] to the team.<ref name = "caretaker"/> Clarke then remained at the club for a period under [[Bobby Robson]].<ref name="Steve Clarke reveals inspirational Sir Bobby Robson chat with Alan Shearer at Newcastle United">{{cite web |url=https://www.chroniclelive.co.uk/sport/football/football-news/steve-clarke-bobby-robson-shearer-23191187 |title=Steve Clarke reveals inspirational Sir Bobby Robson chat with Alan Shearer at Newcastle United |publisher=Newcastle Chronicle |date=24 February 2022 |access-date=13 February 2024}}</ref>
+
+===Chelsea===
+[[File:Steve Clarke.jpg|thumb|upright|Clarke as assistant manager of [[Chelsea F.C.|Chelsea]] in 2007]]
+After a stint in charge of the youth teams at Chelsea, Clarke was promoted to the position of assistant manager when [[José Mourinho]] was appointed manager in the summer of 2004.<ref name = "scolari">{{cite news |url=https://www.independent.co.uk/sport/football/premier-league/scolari-asked-clarke-not-to-leave-for-west-ham-928822.html |title=Scolari asked Clarke not to leave for West Ham |last=Wallace |first=Sam |newspaper=The Independent |location=London |date=13 September 2008 |access-date=10 October 2010}} {{dead link|date=August 2021|bot=medic}}{{cbignore|bot=medic}}</ref> Clarke was a part of the coaching set-up which saw Chelsea win two [[Premier League|FA Premier League]] titles, an [[FA Cup]] and two [[EFL Cup|League Cups]] over three seasons under Mourinho. During this period, Clarke completed his UEFA Pro Licence in 2006.<ref name="class2006">{{cite news|title=The Class of 2006|url= http://www.thefa.com/GetIntoFootball/FALearning/NewsAndFeatures/2006/Pro_Licence|date= 3 July 2006|publisher   = The Football Association|access-date=26 April 2012}}</ref>
+
+When Mourinho left Chelsea in September 2007, Clarke's services were retained by [[Avram Grant]], although [[Henk ten Cate]] was brought in as another assistant coach.<ref name = "ten cate"/> Both Grant and ten Cate left the club at the end of the 2007–08 season.<ref name = "ten cate">{{cite news|url=https://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/7426225.stm |title=Ten Cate sacked as Chelsea coach |publisher=BBC Sport |date=29 May 2008 |access-date=10 October 2010}}</ref><ref name = "times assured"/> [[BBC Sport]] and ''[[The Times]]'' both reported then that although Clarke remained on the Chelsea coaching staff, he would be looking to pursue opportunities to become a manager in his own right.<ref name = "ten cate"/><ref name = "times assured"/> Chelsea assured Clarke of his status, citing his loyalty, popularity amongst the club's supporters and work in the aftermath of Mourinho's departure.<ref name = "times assured">{{cite news |url=http://www.timesonline.co.uk/tol/sport/football/premier_league/chelsea/article4054092.ece |newspaper=The Times |location=London |last=Hughes |first=Matt |date=2 June 2008 |access-date=10 October 2010 |title=Steve Clarke assured of role at Chelsea}}{{dead link|date=September 2024|bot=medic}}{{cbignore|bot=medic}}</ref>
+
+===West Ham United===
+On 12 September 2008, Clarke handed in his resignation to Chelsea, hoping to move to [[West Ham United F.C.|West Ham United]] to be assistant to former Chelsea teammate [[Gianfranco Zola]].<ref name = "scolari"/><ref>{{cite news|url=https://www.independent.co.uk/sport/football/premier-league/steve-clarke-hands-in-resignation-to-chelsea-927625.html |archive-url=https://web.archive.org/web/20090215061810/http://www.independent.co.uk/sport/football/premier-league/steve-clarke-hands-in-resignation-to-chelsea-927625.html |url-status=dead |archive-date=15 February 2009 |title=Steve Clarke hands in resignation to Chelsea – Premier League, Football |newspaper=The Independent |location=London |date=12 September 2008 |access-date=10 June 2010}}</ref> Chelsea initially rejected his resignation, demanding compensation worth two years of Clarke's salary.<ref name = "scolari"/> After a deal was agreed between the clubs, Clarke became West Ham's first-team coach on 15 September.<ref>{{cite web |url=http://www.whufc.com/page/News/0,,12562~1393570,00.html |title=Clarke takes coaching role |publisher=West Ham United F.C |access-date=10 June 2010 |url-status=dead |archive-url=https://web.archive.org/web/20090215084533/http://www.whufc.com/page/News/0,,12562~1393570,00.html |archive-date=15 February 2009}}</ref>
+
+West Ham finished ninth in the Premier League in the [[2008–09 Premier League|2008–09 season]],<ref name = "zola sacked"/> earning Clarke and Zola extended contracts that made Clarke the highest paid assistant manager in the league.<ref>{{cite web |url=https://news.bbc.co.uk/sport2/hi/football/teams/w/west_ham_utd/8015250.stm |title=Zola signs new West Ham contract |publisher=BBC Sport |date=25 April 2009 |access-date=10 October 2010}}</ref> The club struggled during the next season, however, narrowly avoiding relegation.<ref name = "zola sacked">{{cite news |url=https://news.bbc.co.uk/sport1/hi/football/teams/w/west_ham_utd/8674605.stm |publisher=BBC Sport |date=11 May 2010 |access-date=10 October 2010 |title=West Ham sack manager Gianfranco Zola}}</ref> In June 2010, not long after the dismissal of Zola as manager,<ref name = "zola sacked"/> Clarke left the club by mutual consent.<ref>{{cite web |url=http://www.whufc.com/articles/20100610/clarke-parts-company_2236884_2068139 |title=Clarke parts company, News, Latest News, News, West Ham United |publisher=West Ham United F.C |access-date=10 June 2010 |url-status=dead |archive-url=https://web.archive.org/web/20100612133236/http://www.whufc.com/articles/20100610/clarke-parts-company_2236884_2068139 |archive-date=12 June 2010}}</ref>
+
+===Liverpool===
+On 10 January 2011, Clarke was appointed first-team coach at Liverpool by [[Kenny Dalglish]],<ref>{{cite web|url=http://www.liverpoolfc.tv/news/latest-news/steve-clarke-joins-liverpool|title=Steve Clarke joins Liverpool|publisher=Liverpool F.C|date=10 January 2011|access-date=10 January 2011|url-status=dead|archive-url=https://web.archive.org/web/20120914153804/http://www.liverpoolfc.com/news/latest-news/steve-clarke-joins-liverpool|archive-date=14 September 2012}}</ref> after Dalglish had replaced the dismissed [[Roy Hodgson]] two days before.<ref>{{cite web |url=https://news.bbc.co.uk/sport2/hi/football/teams/l/liverpool/9353787.stm|title=Steve Clarke appointed as Liverpool first-team coach|publisher=BBC Sport |date=10 January 2011|access-date=10 January 2011}}</ref> Clarke was credited (alongside Dalglish) for turning Liverpool's season around, having a points average of around two points per match from his arrival, coupled with an improved defensive record. On 12 May 2011, Clarke, as well as manager Dalglish, signed a three-year contract to remain in his role as first team coach.
+
+On 14 May 2012, Clarke offered his resignation to Liverpool following the sacking of manager Dalglish and Liverpool's eighth-place finish in the 2011–12 Premier League. The club declined the offer, but on 6 June 2012, following the appointment of new manager [[Brendan Rodgers]], Clarke left the club.<ref name=poolexit>{{cite web |title=Liverpool first team coach Steve Clarke leaves club|url=https://www.bbc.co.uk/sport/football/18344557|publisher=BBC Sport|date=7 June 2012 |access-date=24 August 2012}}</ref> Clarke himself said that Liverpool sacked him.<ref>{{cite news|title=Clarke – I was sacked by Reds|url=http://www1.skysports.com/news/11095/7998028/|publisher=Sky Sports|date=17 August 2012|access-date=24 August 2012}}</ref>
+
+===West Bromwich Albion===
+On 8 June 2012, Clarke was appointed manager of [[West Bromwich Albion F.C.|West Bromwich Albion]] and signed a two-year contract. The job was Clarke's first permanent management role for any club, though during his time the club referred to him as "head coach".<ref name="Steve Clarke named West Brom head coach after Liverpool exit">{{cite web |title=Steve Clarke named West Brom head coach after Liverpool exit |url=https://www.bbc.co.uk/sport/football/18366208 |publisher=BBC Sport |date=8 June 2012 |access-date=27 March 2017}}</ref>
+
+====2012–13 season====
+Albion began the Clarke era with a 3–0 home win against Liverpool on the opening day of the [[2012–13 Premier League]] season. Clarke then followed that result up with a 1–1 away draw against [[Tottenham Hotspur F.C.|Tottenham Hotspur]], and a 2–0 win at home to [[Everton F.C.|Everton]]. Clarke suffered his first competitive defeat away at Fulham, but West Brom soon jumped back with 1–0 home victory over [[Reading F.C.|Reading]]. In November, the club won four consecutive matches in a row for the first time since 1980, defeating [[Southampton F.C.|Southampton]], [[Wigan Athletic F.C.|Wigan Athletic]], Chelsea and [[Sunderland A.F.C.|Sunderland]].<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/20374862|title=Sunderland 2-4 West Brom|first=Jamie |last=Lillywhite|publisher=BBC Sport}}</ref> Clarke was named Premier League manager of the month for November 2012.<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/20680192|title=West Brom's Steve Clarke wins Manager of the Month award|publisher=BBC Sport}}</ref> Although the team would go on to lose their next three matches, Clarke's team would bounce back with a draw at home to West Ham and a 2–1 win over [[Norwich City F.C.|Norwich City]]. By Christmas 2012, West Brom were seventh in the table with 30 points, behind teams like [[Arsenal F.C.|Arsenal]] and Spurs only on goal difference. During the January transfer window, Clarke encountered some problems with want-away Nigerian Striker [[Peter Odemwingie]], who desired a move to [[Queen's Park Rangers F.C.|Queens Park Rangers]], but West Brom refused to sell.<ref>{{cite news| url=https://www.theguardian.com/football/2013/jan/28/peter-odemwingie-west-brom-qpr-bid | location=London | work=The Guardian | title=Peter Odemwingie furious as West Bromwich reject new £2m QPR bid | date=28 January 2013}}</ref> Odemwingie was ultimately never sold and was later given time off following the transfer window saga.<ref>{{cite news| url=https://www.telegraph.co.uk/sport/football/teams/west-bromwich-albion/9841681/West-Brom-striker-Peter-Odemwingie-dropped-for-Tottenham-game-following-transfer-deadline-day-farce.html | location=London | work=The Daily Telegraph | first=Paul | last=Kelso | title=West Brom striker Peter Odemwingie dropped for Tottenham game following transfer deadline day farce | date=1 February 2013}}</ref> It was during this January period that the club struggled to emulate their early season form. Following a poor run of results which saw West Brom fail to win in six consecutive games, Clarke oversaw a 2–0 victory against Liverpool at [[Anfield]], the club's first win since Boxing Day against QPR.<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/21318809|title=Liverpool 0-2 West Brom |first=Alistair |last=Magowan|publisher=BBC Sport}}</ref>
+
+West Brom won 3–0 at Southampton on 27 April, which was their 14th win of the season. This set club records for wins (14) and points (48) in a Premier League season.<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/22228828|title=Southampton 0-3 West Brom|first=Chris |last=McKenna|publisher=BBC Sport}}</ref> West Brom ended the season in style with a dramatic 5–5 draw with Manchester United, in what was [[Alex Ferguson|Sir Alex Ferguson]]'s final match as manager.<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/22499117|title=West Brom 5-5 Manchester United|first=Neil |last=Johnston|publisher=BBC Sport}}</ref> The draw saw West Brom finish eighth in the table, their best finish since 1981.
+
+====2013–14 season====
+Clarke and West Brom returned for the new season with a 1–0 home loss to Southampton at [[The Hawthorns]] following a 90th-minute [[Rickie Lambert]] penalty.<ref name="wba201314">{{cite web | url=http://www.soccerbase.com/teams/team.sd?team_id=2744&teamTabs=results | title=West Brom 2013-14 | publisher=soccerbase.com | access-date=16 December 2013}}</ref> The team initially struggled to score goals, eventually recording their first league goal the fourth game of the new season when [[Gareth McAuley]] scored an injury time header in a 1–1 result against Fulham.<ref name=wba201314/> 28 September 2013 saw them secure an historic 2–1 victory against league champions, Manchester United, their first win at [[Old Trafford]] in 35 years.<ref>{{cite news | url=https://www.bbc.com/sport/0/football/24331861 | title=Bryan Robson: West Brom deserved Manchester United win | publisher=BBC Sport | access-date=16 December 2013}}</ref> Under his managership, however, they won only one further game, a 2–0 home defeat of [[Crystal Palace F.C.|Crystal Palace]] on 2 November 2013.<ref name=wba201314/> On 9 November, West Brom were minutes away from securing a historic win at [[Stamford Bridge (stadium)|Stamford Bridge]] that would have ended José Mourinho's undefeated home record, but a controversial penalty decision ensured that the game ended 2–2.<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/24783075|title=Chelsea 2-2 West Bromwich Albion|first=Sam |last=Sheringham|publisher=BBC Sport}}</ref> A further draw and four straight defeats followed and on 14 December 2013 Clarke was placed on [[gardening leave]] until May 2014, after a 1–0 loss at [[Cardiff City F.C.|Cardiff City]]. This defeat had left the club two points above the relegation zone in 16th place. They had won nine of the previous 41 Premier League matches.<ref>{{cite news | url=https://www.telegraph.co.uk/sport/football/teams/west-bromwich-albion/10519304/West-Bromwich-Albion-starting-search-to-replace-Steve-Clarke-from-scratch.html | title=West Bromwich Albion starting search to replace Steve Clarke from scratch | work=Daily Telegraph| date=15 December 2013 | access-date=16 December 2013 | location=London | first=John | last=Percy}}</ref>
+
+===Reading===
+On 16 December 2014, Clarke was appointed manager of Reading on a two-and-a-half-year deal, succeeding [[Nigel Adkins]].<ref>{{cite news | url=https://www.bbc.co.uk/sport/football/30499446 | title=Steve Clarke: Reading appoint new boss to replace Nigel Adkins | publisher=BBC Sport | access-date=16 December 2014}}</ref> On 16 March 2015, Clarke managed Reading to a 3–0 win against [[Bradford City F.C.|Bradford City]] in the [[FA Cup]] to reach their first semi-final for 88 years.<ref>{{cite news | url=https://www.bbc.co.uk/sport/football/31791998 | title=Reading 3-0 Bradford City | publisher=BBC Sport | access-date=17 March 2015}}</ref> In November 2015, Clarke was approached by Fulham to become their manager.<ref name = "Fulham">{{cite web |url=https://www.bbc.co.uk/sport/football/34878852 |title=Steve Clarke: Reading manager to stay following Fulham talks |publisher=BBC Sport |date=20 November 2015 |access-date=20 November 2015}}</ref> Reading gave Clarke permission to speak to Fulham, but following the discussion he decided against taking the position.<ref name = "Fulham"/> Clarke was sacked by Reading on 4 December 2015 after one year in charge.<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/35005713|title=Steve Clarke: Reading manager 'relieved of duties'|publisher=BBC Sport|date=4 December 2015|access-date=4 December 2015}}</ref>
+
+===Aston Villa===
+Clarke was hired by [[Aston Villa F.C.|Aston Villa]] on 2 June 2016 to be their assistant manager, working alongside former Chelsea teammate [[Roberto Di Matteo]].<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/36435484 |title=Roberto di Matteo named Aston Villa manager - Steve Clarke as assistant |first=Pat |last=Murphy |publisher=BBC Sport |date=2 June 2016 |access-date=2 June 2016}}</ref> He was not retained following the appointment of [[Steve Bruce]] in October 2016.<ref>{{cite web|title=Aston Villa will part company with Steve Clarke|url=http://www.birminghammail.co.uk/sport/football/transfer-news/aston-villa-part-company-steve-12016053|website=[[Birmingham Mail]]|date=12 October 2016|access-date=9 November 2016}}</ref>
+
+===Kilmarnock===
+After a year out of football, Clarke was appointed manager of [[Scottish Premiership]] club [[Kilmarnock F.C.|Kilmarnock]], the club he had supported as a child,<ref name=fan17>{{cite web|url=https://www.dailyrecord.co.uk/sport/football/football-news/steve-clarke-always-been-kilmarnock-11758402|title=Steve Clarke has ALWAYS been a Kilmarnock fan and here's the proof|date=27 December 2017|work=Daily Record}}</ref> on 14 October 2017.<ref name="KilmarnockIn">{{cite news |url=https://www.bbc.co.uk/sport/football/41621094 |title=Kilmarnock: Steve Clarke is named the club's new manager |first=John |last=Barnes |publisher=BBC Sport |date=14 October 2017 |access-date=16 October 2017}}</ref> When he took over, the club sat bottom of the league table. His first game as Kilmarnock manager, which was his first involvement at a Scottish club match for 30 years, ended in a 1–1 draw at [[Rangers F.C.|Rangers]].<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/41755913 |title=Pedro Caixinha determined to continue as Rangers manager |publisher=BBC Sport |date=25 October 2017 |access-date=26 October 2017}}</ref> Three days later, Clarke's side travelled to reigning champions [[Celtic F.C.|Celtic]] and once again gained a 1–1 draw.<ref>{{Cite news|url=https://www.bbc.co.uk/sport/football/41703762|title=Celtic 1-1 Kilmarnock|date=28 October 2017|access-date=7 May 2019}}</ref> Following the league's winter break, Kilmarnock recorded a home victory over leaders Celtic, with [[Youssouf Mulumbu]] scoring the only goal to inflict what was only the second domestic defeat on the [[Glasgow]] club's manager [[Brendan Rodgers]].<ref>{{Cite news|url=https://www.bbc.co.uk/sport/football/42842297|title=Kilmarnock 1-0 Celtic|date=3 February 2018|access-date=7 May 2019}}</ref> Kilmarnock finished the season in fifth place, setting a new club record points tally of 59 in the process.<ref>{{Cite web|url=http://www.kilmarnockfc.co.uk/Article.asp?id=7231|title=Kilmarnock 1-0 Hearts: Erwin gives Killie record total|website=www.kilmarnockfc.co.uk|access-date=7 May 2019}}</ref> Clarke was named the [[SFWA Manager of the Year]] for 2017–18.<ref name=SFWA18/>
+
+Clarke continued his impressive work the next season, including another win over Celtic and two over Rangers,<ref>[https://www.fitbastats.com/kilmarnock/team_results_list.php?opposition=0&from=148&to=148&competition=0&venue=0&update=Update Kilmarnock Result History (Filter: 2018/2019)], FitbaStats</ref> culminating in a third-place finish and European qualification for Kilmarnock.<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/48328882 |title=Steve Clarke: Kilmarnock boss 'sorry for not winning trophy' |publisher=BBC Sport |date=19 May 2019 |access-date=19 May 2019}}</ref> He also won both manager of the year awards, from [[PFA Scotland Manager of the Year|PFA Scotland]]<ref name =PFAS/> and the [[SFWA Manager of the Year|SFWA]].<ref name = SFWA19/> Immediately after the league season ended, Clarke left Kilmarnock to take the national team manager position.<ref name="Scotland" />
+
+===Scotland===
+[[File:Steve Clarke 2019 (cropped).jpg|thumb|right|220px|Clarke as Scotland manager in 2019]] 
+In May 2019, Clarke was appointed manager of the [[Scotland national football team|Scotland national team]] on a contract due to run until the end of [[2022 FIFA World Cup qualification]].<ref name=Scotland>{{cite web |url=https://www.bbc.co.uk/sport/football/48303984 |title=Steve Clarke is named new Scotland manager |publisher=BBC Sport |date=20 May 2019 |access-date=20 May 2019}}</ref> On his debut on 8 June, the Scots won 2–1 at home to [[Cyprus national football team|Cyprus]] in [[UEFA Euro 2020 qualifying]].<ref>{{cite news |title=Steve Clarke: Scotland character in Cyprus win 'bodes well for future' |url=https://www.bbc.co.uk/sport/football/48568551 |access-date=30 September 2019 |publisher=BBC Sport |date=8 June 2019}}</ref> The team then suffered four consecutive defeats against [[Belgium national football team|Belgium]] and [[Russia national football team|Russia]], two of them by 4–0 margins, which ended any hope of qualifying automatically for [[Euro 2020]].<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/50009185 |title=Scotland: Russia thumping must be 'lowest of the low' - Steve Clarke |first=Alasdair |last=Lamont |website=BBC Sport |date=10 October 2019 |access-date=11 October 2019}}</ref> On 12 November 2020, Scotland defeated [[Serbia national football team|Serbia]] 4–5 on penalties after a 1–1 draw to take their place in the delayed finals via the [[UEFA Euro 2020 qualifying play-offs|UEFA Nations League]] route, their first major tournament since 1998.<ref name=Serbia>[https://www.bbc.co.uk/sport/football/54819938 Serbia 1-1 Scotland: Visitors win 5-4 on penalties to end 23-year finals wait], BBC Sport, 12 November 2020</ref> In the tournament Scotland drew with [[England national football team|England]] at Wembley,<ref>{{cite news |url=https://www.theguardian.com/football/2021/jun/18/england-scotland-euro-2020-match-report |title=England frustrated by steely Scotland in Euro 2020 stalemate at Wembley |first=David |last=Hytner |newspaper=The Guardian |date=18 June 2021}}</ref> but defeats at Hampden to [[Czech Republic national football team|Czech Republic]] and [[Croatia national football team|Croatia]] meant that Scotland finished bottom of [[UEFA Euro 2020 Group D|Group D]].<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/51198439 |title=Croatia 3–1 Scotland |first=Scott |last=Mullen |publisher=BBC Sport |date=22 June 2021 |access-date=23 June 2021}}</ref>
+
+Six consecutive wins later that year meant that Scotland finished second in [[2022 FIFA World Cup qualification – UEFA Group F|Group F]] of [[2022 FIFA World Cup qualification]].<ref name = 2022playoffs/> This progressed the team into the [[2022 FIFA World Cup qualification – UEFA second round|play-offs]], where they lost 3–1 to [[Ukraine national football team|Ukraine]] in a semi-final at Hampden.<ref name = 2022playoffs>{{cite web |url=https://www.bbc.co.uk/sport/football/59425818 |title=Scotland to face Ukraine in World Cup play-off semi-finals |publisher=BBC Sport |date=26 November 2021 |accessdate=27 November 2021}}</ref> Later that year, Scotland won promotion to [[2024–25 UEFA Nations League|League A]] by winning their League B group in the [[2022–23 UEFA Nations League B|2022–23]] competition.<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/62959155 |title=Ukraine 0-0 Scotland: Steve Clarke's side earn Nations League promotion |website=BBC Sport |date=27 September 2022 |accessdate=27 September 2022}}</ref>
+
+Ahead of [[UEFA Euro 2024 qualifying]], Clarke signed a new contract with the [[Scottish Football Association|SFA]] that is due to run until 2026.<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/65065415 |title=Steve Clarke agrees Scotland extension to remain as head coach until 2026 |website=BBC Sport |date=24 March 2023 |accessdate=26 March 2023}}</ref> Scotland won their first five matches in Euro 2024 qualifying, against [[Cyprus national football team|Cyprus]] (twice), [[Spain national football team|Spain]], [[Norway national football team|Norway]] and [[Georgia national football team|Georgia]]. They achieved qualification for the [[UEFA Euro 2024|tournament]] on 15 October 2023, with two matches to spare.<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/67092471 |title=Scotland qualify for Euro 2024 finals in Germany as Spain beat Norway |website=BBC Sport |date=15 October 2023 |accessdate=16 October 2023}}</ref> Defeats by [[Germany national football team|Germany]] and [[Hungary national football team|Hungary]], either side of a draw with [[Switzerland national football team|Switzerland]], meant that the team failed to progress through the [[UEFA Euro 2024 Group A|group stage]] of Euro 2024.
+
+Scotland were relegated back to [[2026–27 UEFA Nations League|League B]] in the [[2024–25 UEFA Nations League A|2024–25]] competition, after losing a [[2024–25 UEFA Nations League promotion/relegation play-offs|playoff]] 3–1 on aggregate against [[Greece national football team|Greece]].<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/live/c62zd1vpn3qt |title=Scotland 0&ndash;3 Greece |date=23 March 2025 |accessdate=24 March 2025 |website=BBC Sport |first=Amy |last=Canavan}}</ref>
+
+During [[2026 FIFA World Cup qualification]], he became Scotland's longest-serving manager in terms of the number of games managed.<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/articles/c3dn99r75d1o |title=Steve Clarke angered by lacklustre Scotland despite World Cup qualifying win over Belarus |website=BBC Sport |first=Scott |last=Mullen |date=12 October 2025 |accessdate=14 October 2025}}</ref> Clarke led Scotland to the [[2026 FIFA World Cup|World Cup]] for the first time since 1998 with a historic 4–2 victory against [[Denmark national football team|Denmark]] on 18 November 2025.<ref>{{cite web|url= https://www.bbc.com/sport/football/articles/cew4v8vgkyyo|title='Scotland cash in almost 30 years of glorious failure as dreams come true'|date=19 November 2025|work=BBC Sport|accessdate=19 November 2025}}</ref> Clarke signed a new four-year contract lasting until 2030 ahead of the finals.<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/articles/c4gvy1lg5glo |title=Steve Clarke signs new Scotland deal until 2030 World Cup |website=BBC Sport |first=Nick |last=McPheat |date=28 May 2026 |accessdate=28 May 2026}}</ref>
+
+==Career statistics==
+===International===
+{| class=wikitable style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="3"|[[Scotland national football team|Scotland]]<ref name = "SFA">{{SFA profile|id=1479|name=Stevie Clarke}}</ref>
+|1987||3||0
+|-
+|1988||2||0
+|-
+|1994||1||0
+|-
+!colspan=2|Total!!6!!0
+|}
+
+===Managerial record===
+{{updated|match played 6 June 2026}}
+
+{| class=wikitable style="text-align: center"
+|+ Managerial record by team and tenure
+|-
+!rowspan=2|Team
+!rowspan=2|From
+!rowspan=2|To
+!colspan=5|Record
+!rowspan=2|{{abbr|Ref|Reference}}
+|-
+!{{abbr|P|Matches played}}!!{{abbr|W|Matches won}}!!{{abbr|D|Matches drawn}}!!{{abbr|L|Matches lost}}!!{{abbr|Win %|Win percentage}}
+|-
+|align=centre|[[Newcastle United F.C.|Newcastle United]] (caretaker)
+|align=centre|28 August 1999
+|align=centre|2 September 1999
+{{WDL|1|0|0|1|decimals=2}}
+|<ref name="Gullit quits Newcastle"/><ref name="Managers: Steve Clarke">{{cite web |title=Managers: Steve Clarke |url=http://www.soccerbase.com/managers/manager.sd?manager_id=1579 |work=Soccerbase |publisher=Centurycomm |access-date=27 March 2017}}</ref>
+|-
+|align=centre|[[West Bromwich Albion F.C.|West Bromwich Albion]]
+|align=centre|8 June 2012
+|align=centre|14 December 2013
+{{WDL|60|19|15|26|decimals=2}}
+|<ref name="Steve Clarke named West Brom head coach after Liverpool exit"/><ref name="Managers: Steve Clarke"/><ref>{{cite web |title=Steve Clarke sacked as West Brom head coach |url=https://www.bbc.co.uk/sport/football/25385000 |publisher=BBC Sport |date=14 December 2013 |access-date=27 March 2017}}</ref>
+|-
+|align=centre|[[Reading F.C.|Reading]]
+|align=centre|16 December 2014
+|align=centre|4 December 2015
+{{WDL|53|19|14|20|decimals=2}}
+|<ref name="Managers: Steve Clarke"/>
+|-
+|-
+|align=centre|[[Kilmarnock F.C.|Kilmarnock]]
+|align=centre|14 October 2017
+|align=centre|20 May 2019
+{{WDL|79|40|22|17|decimals=2}}
+|<ref name=KilmarnockIn/><ref>{{cite web |title=Kilmarnock: Results/matches: 2017/18 |url=http://www.soccerbase.com/teams/team.sd?team_id=1455&teamTabs=results&season_id=150 |work=Soccerbase |publisher=Centurycomm |access-date=16 October 2017}}</ref>
+|-
+|align=centre|[[Scotland national football team|Scotland]]
+|align=centre|20 May 2019
+|align=centre|''Present''
+{{WDL|78|35|16|27|decimals=2}}
+|<ref>[https://www.soccerbase.com/managers/manager.sd?manager_id=1579 Managers: Steve Clarke], Soccerbase</ref>{{efn|Clarke's profile at the [[Scottish Football Association]] website records Scotland's penalty shootout victories over [[Israel national football team|Israel]] and  [[Serbia national football team|Serbia]]  in 2020 as wins;<ref>[https://www.scottishfa.co.uk/managers/?mid=211564 Steve Clarke Management Statistics], Scottish Football Association</ref> most statistical resources record the outcomes of such matches as a draw, albeit the winner of the shootout progresses, and they have been counted as draws in the table.}}
+|-
+!colspan=3|Total
+{{WDLtot|271|113|67|91|decimals=2}}
+!
+|}
+{{notelist}}
+
+==Honours==
+===Player===
+'''Chelsea'''
+*[[FA Cup]]: [[1996–97 FA Cup|1996–97]]<ref>{{cite news |url=https://www.independent.co.uk/sport/chelsea-cruelly-expose-boro-fault-lines-1262302.html |archive-url=https://ghostarchive.org/archive/20220525/https://www.independent.co.uk/sport/chelsea-cruelly-expose-boro-fault-lines-1262302.html |archive-date=25 May 2022 |url-access=subscription |url-status=live |title=Chelsea cruelly expose Boro fault lines |first=Glenn |last=Moore |newspaper=The Independent |location=London |date=19 May 1997 |access-date=13 October 2019}}</ref>
+*[[Football League Cup]]: [[1997–98 Football League Cup|1997–98]]<ref>{{cite news |url=https://www.independent.co.uk/sport/football-viallis-selflessness-primes-chelseas-deserved-victory-1153305.html |archive-url=https://ghostarchive.org/archive/20220525/https://www.independent.co.uk/sport/football-viallis-selflessness-primes-chelseas-deserved-victory-1153305.html |archive-date=25 May 2022 |url-access=subscription |url-status=live |title=Football: Vialli's selflessness primes Chelsea's deserved victory |first=Glenn |last=Moore |newspaper=The Independent |location=London |date=30 March 1998 |access-date=13 October 2019}}</ref>
+*[[UEFA Cup Winners' Cup]]: [[1997–98 UEFA Cup Winners' Cup|1997–98]]<ref>{{cite news |url=https://www.independent.co.uk/sport/football-zolas-instant-impact-for-chelsea-1160022.html |archive-url=https://ghostarchive.org/archive/20220525/https://www.independent.co.uk/sport/football-zolas-instant-impact-for-chelsea-1160022.html |archive-date=25 May 2022 |url-access=subscription |url-status=live |title=Football: Zola's instant impact for Chelsea |first=Phil |last=Shaw |newspaper=The Independent |location=London |date=14 May 1998 |access-date=13 October 2019}}</ref>
+
+'''Individual'''
+*[[Chelsea Player of the Year]]: 1994<ref>{{Cite web |title=Steve Clarke |url=https://www.chelseafc.com/en/steve-clarke |access-date=7 November 2022 |website=chelseafc.com}}</ref>
+*Chelsea Centenary XI: [[2004–05 Chelsea F.C. season|2004–05]]<ref>{{cite news |url=https://www.birminghammail.co.uk/sport/football/football-news/west-brom-everything-you-need-218509 |title=West Brom: Everything you need to know about Steve Clarke |newspaper=Birmingham Mail |date=10 October 2012 |access-date=9 March 2020}}</ref>
+
+===Assistant Manager===
+'''Chelsea'''
+*[[Premier League]]: [[2004–05 FA Premier League|2004–05]], [[2005–06 FA Premier League|2005–06]],
+*[[FA Cup]]: [[2006–07 FA Cup|2006–07]]
+*[[Football League Cup]]: [[2004–05 Football League Cup|2004–05]]
+
+===Manager===
+'''Scotland'''
+*[[UEFA Nations League]]
+**League B (1): [[2022–23 UEFA Nations League B|2022–23]]
+
+'''Individual'''
+*[[SFWA Manager of the Year]]: [[2017–18 in Scottish football|2017–18]],<ref name=SFWA18>{{cite web| url = https://www.footballscotland.co.uk/spfl/scottish-premiership/rangers-celtics-bosses-cant-contention-16044493| title = Why Rangers and Celtic's bosses can't be in contention for Manager of the Year - Football Scotland| date = 29 March 2019}}</ref> [[2018–19 in Scottish football|2018–19]]<ref name = SFWA19>{{Cite web|url=https://www.scottishfwa.com/manager-of-the-year|title = Manager of the Year}}</ref>
+*[[PFA Scotland Manager of the Year]]: [[2018–19 in Scottish football|2018–19]]<ref name =PFAS>{{cite web |url=https://www.bbc.co.uk/sport/football/48171966 |title=James Forrest, Steve Clarke & Ryan Kent win PFA Scotland annual awards |publisher=BBC Sport |date=5 May 2019 |access-date=6 May 2019}}</ref>
+*[[Scottish Professional Football League yearly awards|SPFL Premiership Manager of the Year]]: [[2018–19 in Scottish football|2018–19]]<ref>{{cite web | url=https://www.heraldscotland.com/sport/17648172.kilmarnock-boss-steve-clarke-named-ladbrokes-premiership-manager-of-the-year/ | title=Kilmarnock boss Steve Clarke named Ladbrokes Premiership Manager of the Year | work=[[Herald Scotland]] | date=17 May 2019 | access-date=21 May 2019}}</ref>
+*[[Premier League Manager of the Month]]: [[2012–13 Premier League#Monthly awards|November 2012]]<ref>{{cite web |url=https://www.premierleague.com/managers/4677/Steve-Clarke/overview |title=Manager profile: Steve Clarke |publisher=Premier League |access-date=19 September 2018}}</ref>
+*[[List of Scottish Professional Football League monthly award winners|Scottish Premiership Manager of the Month]]: [[2017–18 Scottish Premiership#Awards|December 2017]],<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/42692369 |title=Kilmarnock: Kris Boyd and Steve Clarke win December awards |publisher=BBC Sport |date=15 January 2018 |access-date=15 January 2018}}</ref> February 2018,<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/43338876 |title=Steve Clarke: Kilmarnock boss wins manager of the month award |publisher=BBC Sport |date=9 March 2018 |access-date=10 March 2018}}</ref> March 2018<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/43728802 |title=Steve Clarke: Kilmarnock boss collects third monthly manager award in a row |publisher=BBC Sport |date=11 April 2018 |access-date=19 April 2018}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+*{{Soccerbase player|name=Steve Clarke player career statistics}}
+*{{Soccerbase manager|1579|Steve Clarke}}
+*{{SFA player|name=Stevie Clarke player profile}}
+*[https://web.archive.org/web/20210923204339/https://www.scottishfa.co.uk/managers/?mid=211564 Steve Clarke manager profile] at the [[Scottish Football Association]] (archived)
+
+{{Current managers of UEFA national teams}}
+{{Navboxes
+| title = Scotland squads
+| bg          = #003876
+| fg          = #FFFFFF
+| bordercolor = silver
+| list1 = 
+{{Scotland squad UEFA Euro 2020}}
+{{Scotland squad UEFA Euro 2024}}
+{{Scotland squad 2026 FIFA World Cup}}
+}}
+{{Navboxes
+| title = Awards
+| bg = gold
+| fg = navy
+| list1 = 
+{{Chelsea F.C. Player of the Year}}
+{{PFA Scotland Manager of the Year}}
+{{SFWA Manager of the Year}}
+}}
+{{Navboxes
+| title = Managerial positions
+| list1 = 
+{{Newcastle United F.C. managers}}
+{{West Bromwich Albion F.C. managers}}
+{{Reading F.C. managers}}
+{{Kilmarnock F.C. managers}}
+{{Scotland national football team managers}}
+}}
+{{Authority control}}
+
+{{DEFAULTSORT:Clarke, Steve}}
+[[Category:1963 births]]
+[[Category:Living people]]
+[[Category:Sportspeople from Saltcoats]]
+[[Category:Footballers from North Ayrshire]]
+[[Category:Scottish men's footballers]]
+[[Category:Scotland men's youth international footballers]]
+[[Category:Scotland men's under-21 international footballers]]
+[[Category:Scotland men's B international footballers]]
+[[Category:Scotland men's international footballers]]
+[[Category:Men's association football full-backs]]
+[[Category:Beith Juniors F.C. players]]
+[[Category:St Mirren F.C. players]]
+[[Category:Chelsea F.C. players]]
+[[Category:Scottish Football League players]]
+[[Category:Premier League players]]
+[[Category:English Football League players]]
+[[Category:Scottish football managers]]
+[[Category:Newcastle United F.C. managers]]
+[[Category:West Bromwich Albion F.C. managers]]
+[[Category:Reading F.C. managers]]
+[[Category:Aston Villa F.C. managers]]
+[[Category:Kilmarnock F.C. managers]]
+[[Category:Premier League managers]]
+[[Category:English Football League managers]]
+[[Category:Scottish Professional Football League managers]]
+[[Category:Newcastle United F.C. non-playing staff]]
+[[Category:Chelsea F.C. non-playing staff]]
+[[Category:West Ham United F.C. non-playing staff]]
+[[Category:Liverpool F.C. non-playing staff]]
+[[Category:Aston Villa F.C. non-playing staff]]
+[[Category:Scottish Junior Football Association players]]
+[[Category:Scotland national football team managers]]
+[[Category:UEFA Euro 2020 managers]]
+[[Category:UEFA Euro 2024 managers]]
+[[Category:21st-century Scottish sportsmen]]
+[[Category:20th-century Scottish sportsmen]]
+[[Category:2026 FIFA World Cup managers]]

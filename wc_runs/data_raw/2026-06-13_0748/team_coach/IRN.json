@@ -1,0 +1,14 @@
+{
+ "team": "IRN",
+ "coach": {
+  "name_zh": "阿米尔·加勒诺",
+  "name_en": "Amir Ghalenoei",
+  "nationality": "Imperial State of Iran",
+  "career_since": "1999",
+  "person_id": "per_amir_ghalenoei"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。"
+}

@@ -1,0 +1,16 @@
+{
+ "team": "CAN",
+ "source": "CTV News",
+ "url": "https://www.ctvnews.ca/toronto/article/canada-unveils-fifa-world-cup-roster-heres-the-full-list/",
+ "title": "Canada unveils FIFA World Cup roster. Here’s the full list",
+ "news_date": "2026-06-09",
+ "published": "2026-06-09T18:11:58.454Z",
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-10",
+ "fetched": "2026-06-13_0638",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "The Shopping Trends team is independent of the journalists at CTV News. We may earn a commission when you use our links to shop. Read about us.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

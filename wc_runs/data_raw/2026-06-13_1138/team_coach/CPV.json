@@ -1,0 +1,24 @@
+{
+ "team": "CPV",
+ "coach": {
+  "name_zh": "布比斯塔",
+  "name_en": "Bubista",
+  "nationality": "Portuguese Cape Verde",
+  "career_since": "2012",
+  "person_id": "per_bubista"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 布比斯塔（Bubista）是葡萄牙裔佛得角籍教练，自2012年开启执教生涯，现任佛得角国家队主帅。\n- 他率队以非洲区D组头名身份历史性晋级2026年世界杯，10场预选赛7胜1负，曾豪取五连胜并力压喀麦隆。\n- 布比斯塔的26人世界杯名单兼顾经验与潜力，既征召了门将沃齐尼亚、边锋瑞安·门德斯等老将，也因13分钟西甲表现破格提拔了洛根·科斯塔。\n- 佛得角在2026年世界杯H组将先后对阵西班牙（6月15日，亚特兰大）、乌拉圭（6月21日，迈阿密）和沙特阿拉伯（6月26日，休斯顿）。\n- 球队核心包括队史射手王门德斯（22球）、本菲卡创造力来源西德尼·卡布拉尔以及荷甲中场悍将贾米罗·蒙泰罗。\n- 布比斯塔面临的最大挑战是首次世界杯即遭遇西班牙与乌拉圭两大强敌，小组出线形势严峻。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.95,
+  "issues": []
+ },
+ "brief_fetched": "2026-06-13_1138",
+ "brief_info_chars": 6000
+}

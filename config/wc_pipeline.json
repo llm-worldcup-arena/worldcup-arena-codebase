@@ -1,0 +1,4 @@
+{
+  "_说明": "主流程开关。match_broadcast 接入默认关闭:off=只复用已有的赛事播报(单场做过不重做);on=本轮自动为新踢的场跑 match_broadcast。",
+  "auto_run_match_broadcast": false
+}

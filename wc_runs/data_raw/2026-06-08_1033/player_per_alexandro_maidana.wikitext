@@ -1,0 +1,112 @@
+{{short description|Paraguayan footballer (born 2005)}}
+{{Use dmy dates|date=June 2025}}
+{{family name hatnote|Maidana|Mendieta|lang=Spanish}}
+{{Infobox football biography
+|name = Alexandro Maidana
+|full_name = Alexandro Maidana Mendieta
+|image = 
+|birth_date = {{birth date and age|2005|7|26|df=yes}}
+|birth_place = [[Caacupé]], Paraguay
+|height = 1.78 m
+|position = [[Left-back]]
+|currentclub = [[Rodez AF|Rodez]]
+|clubnumber = 3
+|youthyears1 = 
+|youthclubs1 = [[Club Guaraní|Guaraní]]
+|years1 = 2023–2026
+|clubs1 = [[Club Guaraní|Guaraní]]
+|caps1 = 29
+|goals1 = 3
+|years2 = 2023
+|clubs2 = →[[Atyrá F.C.|Atyrá]] (loan)
+|caps2 = 23
+|goals2 = 2
+|years3 = 2024
+|clubs3 = →[[Resistencia S.C.|Resistencia]] (loan)
+|caps3 = 24
+|goals3 = 4
+|years4 = 2026–
+|clubs4 = [[Talleres de Córdoba|Talleres]]
+|caps4 = 3
+|goals4 = 0
+|nationalyears1 = 2025
+|nationalteam1 = [[Paraguay national under-20 football team|Paraguay U20]] 
+|nationalcaps1 = 4
+|nationalgoals1 = 0
+|nationalyears2 = 2026–
+|nationalteam2 = [[Paraguay national football team|Paraguay]] 
+|nationalcaps2 = 2
+|nationalgoals2 = 1
+|medaltemplates =
+|pcupdate = 20:27, 30 March 2026 (UTC)
+|ntupdate = 22:30, 5 June 2026 (UTC)
+}}
+
+'''Alexandro Maidana Mendieta''' (born 26 July 2005) is a Paraguayan professional [[association football|football]] player who plays as a [[left-back]] for [[Argentine Primera División]] club [[Talleres de Córdoba|Talleres]], and  the [[Paraguay national football team|Paraguay national team]].
+
+==Club career==
+A youth product of [[Club Guaraní|Guaraní]], Maidana began his senior career in 2023 on loan with [[Atyrá F.C.|Atyrá]] in the [[Paraguayan División Intermedia]]. The following season, he went on loan with [[Resistencia S.C.|Resistencia]] in the same division.<ref>{{Cite web|url=https://www.lavoz.com.ar/deportes/lateral-izquierdo-paraguayo-llegaria-talleres-alexandro-maidana_0_HMBe8ww8al.html|title=El lateral izquierdo paraguayo que llegaría a Talleres: quién es Alexandro Maidana|first=Javier|last=Flores|date=27 February 2026|website=www.lavoz.com.ar}}</ref> In 2025, he returned to Guaraní and played for their senior team in the [[Paraguayan Primera División]]. On 27 February 2026, he transferred to the [[Argentine Primera División]] club [[Talleres de Córdoba|Talleres]] on a long-term contract.<ref>{{Cite web|url=https://www.abc.com.py/deportes/futbol/guarani/2026/02/27/alexandro-maidana-deja-el-legendario-para-sumarse-a-talleres-de-cordoba/|title=Alexandro Maidana deja el "Legendario" para sumarse a Talleres de Córdoba - Guaraní - ABC Color|website=www.abc.com.py}}</ref>
+
+==International career==
+Maidana was part of the  [[Paraguay national under-20 football team|Paraguay U20]]s at the [[2025 FIFA U-20 World Cup]].<ref>{{Cite web|url=https://www.abc.com.py/deportes/futbol/guarani/2025/08/07/guarani-maidana-sensible-resta-legendaria/|title=Guaraní: Maidana, sensible resta legendaria - Guaraní - ABC Color|website=www.abc.com.py}}</ref> He was called up to the senior [[Paraguay national football team|Paraguay national team]] for a set of friendlies in March 2026.<ref>{{cite news |title=Andrés Cubas, lesión y baja en Paraguay: entra Lucas Romero |url=https://www.abc.com.py/deportes/futbol/seleccion-paraguaya/2026/03/20/andres-cubas-lesion-y-baja-en-paraguay-fue-llamado/ |access-date=20 March 2026 |work=www.abc.com.py |date=20 March 2026 |language=es}}</ref> He debuted in a friendly 1–0 win over [[Greece national football team|Greece]] on 26 March 2026.<ref>{{Cite web|url=https://canalshowsport.com.ar/alexandro-maidana-debuto-con-paraguay-y-suena-con-ir-al-mundial/|title=Alexandro Maidana debutó con Paraguay y sueña con ir al Mundial marzo 2026 - Canal Showsport|date=28 March 2026}}</ref>
+
+==Career statistics==
+===International===
+{{updated|match played 5 June 2026}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="1"|[[Paraguay national football team|Paraguay]]
+|2026||2||1
+|-
+!colspan="2"|Total!!2!!1
+|}
+
+''Scores and results list Paraguay's goal tally first.''
+{| class="wikitable sortable"
+|+List of international goals scored by Alexandro Maidana
+!No.
+!Date
+!Venue
+!Cap
+!Opponent
+!Score
+!Result
+!Competition
+|-
+| align="center"|1 ||5 June 2026 || [[Estadio Defensores del Chaco]], [[Asunción]], Paraguay || align="center"|2 || {{fb|NCA}} || align="center"|4–0 || align="center"|4–0 || [[Friendly (association football)|Friendly]]
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Soccerway|new_id=maidana-alexandro/buIoLLtp}}
+* {{NFT|103868}}
+
+{{Talleres de Córdoba squad}}
+{{Paraguay squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Maidana, Alexandro}}
+[[Category:2005 births]]
+[[Category:Living people]]
+[[Category:People from Caacupé]]
+[[Category:Paraguayan men's footballers]]
+[[Category:Paraguay men's international footballers]]
+[[Category:Paraguay men's youth international footballers]]
+[[Category:Men's association football full-backs]]
+[[Category:Atyrá F.C. players]]
+[[Category:Resistencia S.C. footballers]]
+[[Category:Club Guaraní players]]
+[[Category:Talleres de Córdoba footballers]]
+[[Category:Paraguayan Primera División players]]
+[[Category:Paraguayan División Intermedia players]]
+[[Category:Argentine Primera División players]]
+[[Category:21st-century Paraguayan sportsmen]]
+[[Category:Paraguayan expatriate men's footballers]]
+[[Category:Paraguayan expatriates in Argentina]]
+[[Category:Expatriate men's footballers in Argentina]]
+[[Category:2026 FIFA World Cup players]]

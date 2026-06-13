@@ -1,0 +1,16 @@
+{
+ "team": "AUT",
+ "source": "Olympics.com",
+ "url": "https://www.olympics.com/en/news/fifa-world-cup-2026-austria-players-squad-list-key-stats-schedule",
+ "title": "Austria at FIFA World Cup 2026: All players, full squad list, key stats and schedule",
+ "news_date": "2026-06-10",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-10",
+ "fetched": "2026-06-13_0748",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Austria at FIFA World Cup 2026: All players, full squad list, key stats and schedule\nQuick facts\nCaptain: David Alaba\nManager: Ralf Rangnick\nWorld Cup appearances (including 2026): 8\nBest World Cup result: Third (1954)\nGoalkeepers: Patrick Pentz (Bröndby IF), Alexander Schlager (FC Salzburg), Florian Wiegele (Viktoria Plzeň)\nDefenders: David Affengruber (Elche), David Alaba (Real Madrid), Kevin Danso (Tottenham Hotspur), Marco Friedl (Werder Bremen), Philipp Lienhart (SC Freiburg), Phillipp Mwene (Mainz 05), Stefan Posch (Mainz 05), Alexander Prass (TSG Hoffenheim), Michael Svoboda (Venezia)\nMidfielders: Christoph Baumgartner (RB Leipzig), Carney Chukwuemeka (Borussia Dortmund), Florian Grillitsch (SC Braga), Konrad Laimer (Bayern München), Marcel Sabitzer (Borussia Dortmund), Xaver Schlager (RB Leipzig), Nicolas Seiwald (RB Leipzig), Romano Schmid (Werder Bremen), Alessandro Schöpf (Wolfsberger AC), Paul Wanner (PSV Eindhoven), Patrick Wimmer (VfL Wolfsburg)\nForwards: Marko Arnautović (Crvena Zvezda), Michael Gregoritsch (Augsburg), Sasa Kalajdzic (LASK)",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

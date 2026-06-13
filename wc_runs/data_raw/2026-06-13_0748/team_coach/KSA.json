@@ -1,0 +1,14 @@
+{
+ "team": "KSA",
+ "coach": {
+  "name_zh": "吉歐格斯·多尼斯",
+  "name_en": "Georgios Donis",
+  "nationality": "West Germany",
+  "career_since": "2002",
+  "person_id": "per_georgios_donis"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。"
+}

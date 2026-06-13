@@ -1,0 +1,140 @@
+{{Short description|Footballer (born 2006)}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+|name = Samir El Mourabet
+|full_name = 
+|image = Samir_El_Mourabet_vs_Paraguay_(cropped).jpg
+|caption = El Mourabet with [[Morocco national football team|Morocco]] in 2026
+|birth_date = {{birth date and age|2005|10|6|df=yes}}
+|birth_place = [[Strasbourg]], France
+|height = 1.86m
+|currentclub = [[RC Strasbourg Alsace|Strasbourg]]
+|clubnumber = 29
+|position = [[Midfielder]]
+|youthyears1 = 
+|youthclubs1 = [[RC Strasbourg Alsace|Strasbourg]]
+|youthyears2 = 2021–2022
+|youthclubs2 = [[AS Pierrots Vauban Strasbourg|ASPV Strasbourg]]
+|youthyears3 = 2022–2023
+|youthclubs3 = [[RC Strasbourg Alsace|Strasbourg]]
+|years1 = 2023–
+|clubs1 = [[RC Strasbourg Alsace|Strasbourg II]]
+|caps1 = 37
+|goals1 = 2
+|years2 = 2024–
+|clubs2 = [[RC Strasbourg Alsace|Strasbourg]]
+|caps2 = 33
+|goals2 = 1
+|nationalyears1 = 2023–
+|nationalteam1 = [[Morocco national under-20 football team|Morocco U20]]
+|nationalcaps1 = 9
+|nationalgoals1 = 0
+|nationalyears2 = 2026–
+|nationalteam2 = [[Morocco national football team|Morocco]]
+|nationalcaps2 = 2
+|nationalgoals2 = 0
+|pcupdate = 23:05, 17 May 2026 (UTC)
+|ntupdate = 23:20, 31 March 2026 (UTC)
+}}
+
+'''Samir El Mourabet''' ({{langx|ar|سمير المرابط}}; born 6 October 2005) is a professional [[association football|football]] player who plays as a [[midfielder]] for [[Ligue 1]] club [[RC Strasbourg Alsace|Strasbourg]]. Born in France, he represents the [[Morocco national football team|Morocco national team]].
+
+==Club career==
+El Mourabet joined the youth academy of [[RC Strasbourg Alsace|Strasbourg]] as a youth, before switching to [[futsal]] with [[Olympique Lyonnais|Lyon Futsal]], returning to Strasbourg in 2022. On 6 January 2024, he made his senior and professional debut with Strasbourg in a 4–0 [[Coupe de France]] win over [[Avoine OCC]].<ref>{{Cite web|url=https://www.lequipe.fr/Football/Actualites/Samir-el-mourabet-va-signer-pro-a-strasbourg/1467728|title=Samir El Mourabet va signer pro à Strasbourg|website=L'Équipe}}</ref> On 27 May 2024, he signed his first professional contract with Strasbourg until 2027.<ref>{{Cite web|url=https://onefootball.com/fr/news/samir-el-mourabet-signe-professionnel-39535542|title=Samir El Mourabet signe professionnel|date=20 August 2025|website=OneFootball}}</ref>
+
+==International career==
+Born in France, El Mourabet is of Moroccan descent. He played for the [[France national futsal team|France Futsal U19s]] in 2022.<ref>{{Cite web|url=https://uk.fff.fr/article/97-four-in-a-row-for-les-bleuets-.html|title=Four in a row for Les Bleuets!|website=uk.fff.fr}}</ref> He is a youth international for Morocco, having played for the [[Morocco national under-20 football team|Morocco U20]]s starting in 2023.<ref>{{Cite web|url=https://www.sport7.ma/%d9%85%d9%88%d9%87%d8%a8%d8%a9-%d9%85%d8%ba%d8%b1%d8%a8%d9%8a%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%b8%d9%87%d8%b1%d8%aa-%d9%87%d8%b0%d8%a7-%d8%a7%d9%84%d8%a3%d8%b3%d8%a8%d9%88%d8%b9-%d9%81%d9%8a/|title=موهبة مغربية جديدة ظهرت هذا الأسبوع في الدوري الفرنسي|first=زكرياء نايت|last=همو|date=18 August 2025}}</ref>
+
+==Career statistics==
+===Club===
+{{Updated|match played 17 May 2026}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup
+!colspan="2"|Europe
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="4"|[[RC Strasbourg Alsace|Strasbourg II]]
+|[[2022–23 Championnat National 3|2022–23]]
+|[[Championnat National 3|National 3]]
+|5||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||5||0
+|-
+|[[2023–24 Championnat National 3|2023–24]]
+|National 3
+|23||1||colspan="2"|—||colspan="2"|—||colspan="2"|—||23||1
+|-
+|[[2024–25 Championnat National 3|2024–25]]
+|National 3
+|9||1||colspan="2"|—||colspan="2"|—||colspan="2"|—||9||1
+|-
+!colspan="2"|Total
+!37!!2!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!37!!2
+|-
+|rowspan="4"|[[RC Strasbourg Alsace|Strasbourg]]
+|[[2023–24 RC Strasbourg Alsace season|2023–24]]
+|[[Ligue 1]]
+|0||0||1||0||colspan="2"|—||colspan="2"|—||1||0
+|-
+|[[2024–25 RC Strasbourg Alsace season|2024–25]]
+|Ligue 1
+|0||0||1||0||colspan="2"|—||colspan="2"|—||1||0
+|-
+|[[2025–26 RC Strasbourg Alsace season|2025–26]]
+|Ligue 1
+|33||1||5||0||10{{efn|Appearances in [[UEFA Conference League]]}}||1||colspan="2"|—||48||2
+|-
+!colspan="2"|Total
+!33!!1!!7!!0!!10!!1!!colspan="2"|—!!50!!2
+|-
+!colspan="3"|Career total
+!70!!3!!7!!0!!10!!1!!0!!0!!87!!4
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 31 March 2026}}
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="1"|[[Morocco national football team|Morocco]]
+|2026||2||0
+|-
+!colspan="2"|Total!!2!!0
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Soccerway|amine-chabane/969770}}
+
+{{RC Strasbourg Alsace squad}}
+{{Morocco squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:El Mourabet, Samir}}
+[[Category:2005 births]]
+[[Category:Living people]]
+[[Category:Footballers from Strasbourg]]
+[[Category:Moroccan men's footballers]]
+[[Category:Morocco men's youth international footballers]]
+[[Category:French men's footballers]]
+[[Category:French men's futsal players]]
+[[Category:French people of Moroccan descent]]
+[[Category:Men's association football midfielders]]
+[[Category:21st-century Moroccan sportsmen]]
+[[Category:21st-century French sportsmen]]
+[[Category:RC Strasbourg Alsace players]]
+[[Category:Ligue 1 players]]
+[[Category:Championnat National 3 players]]
+[[Category:Morocco men's international footballers]]
+[[Category:2026 FIFA World Cup players]]

@@ -1,0 +1,153 @@
+{{Short description|Qatari footballer (born 1990)}}
+{{Use dmy dates|date=November 2022}}
+{{Infobox football biography
+| name = Abdulaziz Hatem
+| image = Abdulaziz Hatem.jpg
+| caption = Hatem with [[Qatar national football team|Qatar]] at the [[2019 AFC Asian Cup]]
+| fullname = Abdulaziz Hatem Mohammed Abdullah
+| birth_date = {{birth date and age|1990|1|1|df=y}}<ref>{{cite web |url=https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf |title=FIFA World Cup 2026: Squad List |publisher=[[FIFA]] |date=June 2, 2026 |access-date=June 2, 2026}}</ref>
+| birth_place = [[Doha]], Qatar
+| height = 1.82 m<ref name="FIFA 2022">{{cite web |url=https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |title=FIFA World Cup Qatar 2022: List of Players: Qatar |publisher=FIFA |page=23 |date=15 November 2022 |access-date=16 November 2022 |archive-url=https://web.archive.org/web/20221218195301/https://fdp.fifa.org/assetspublic/ce44/pdf/SquadLists-English.pdf |archive-date=18 December 2022 |url-status=live}}</ref>
+| currentclub = [[Al-Rayyan SC|Al Rayyan]]
+| clubnumber = 6
+| position = [[Midfielder]]
+| years1 = 2007–2015
+| clubs1 = [[Al-Arabi SC (Qatar)|Al-Arabi]]
+| caps1 = 81
+| goals1 = 14
+| years2 = 2015–2019
+| clubs2 = [[Al-Gharafa Sports Club|Al-Gharafa]]
+| caps2 = 80
+| goals2 = 6
+| years3 = 2019–
+| clubs3 = [[Al-Rayyan SC|Al Rayyan]]
+| caps3 = 100
+| goals3 = 15
+| nationalyears1 = 2010
+| nationalteam1 = [[Qatar national under-23 football team|Qatar U23]]
+| nationalcaps1 = 4
+| nationalgoals1 = 1
+| nationalyears2 = 2009–
+| nationalteam2 = [[Qatar national football team|Qatar]]
+| nationalcaps2 = 122
+| nationalgoals2 = 12
+| club-update = 27 March 2024
+| nationalteam-update = 5 September 2024
+| medaltemplates = {{MedalCountry|{{fb|QAT}}}}
+{{MedalCompetition|[[AFC Asian Cup]]}}
+{{Medal|Winner|[[2019 AFC Asian Cup|UAE 2019]]|[[2019 AFC Asian Cup squads#Qatar|Team]]}}
+{{Medal|Winner|[[2023 AFC Asian Cup|2023 Qatar]]|[[Qatar national football team|Team]]}}
+{{MedalComp|[[FIFA Arab Cup]]}}
+{{Medal|3rd|[[2021 FIFA Arab Cup|Qatar 2021]]|[[2021 FIFA Arab Cup squads#Qatar|Team]]}}
+}}
+'''Abdulaziz Hatem Mohammed Abdullah''' ({{langx|ar|عَبْد الْعَزِيز حَاتِم مُحَمَّد عَبْد الله}}; born 1 January 1990) is a Qatari professional [[association football|footballer]] who plays as a [[midfielder (football)|midfielder]] for [[Al-Rayyan SC|Al Rayyan]] and captains the [[Qatar national football team|Qatar national team]].
+
+==Club career==
+Hatem began his professional career with [[Al-Arabi SC (Qatar)|Al-Arabi SC]] in 2007 and moved to [[Al-Gharafa SC]] in 2015. In July 2019 he joined Al-Rayyan SC.<ref>{{cite web | url=https://www.qsl.qa/en/al-rayyan-midfielder-abdulaziz-hatem-exclusive-interview-qslqa-ahead-their-qatar-clasico-against-al | title=Ahead Of Their Qatar Clasico Against Al Sadd | date= | accessdate=2022-11-30}}</ref>
+
+==International career==
+He made his debut for the [[Qatar national football team]] during the [[9th International Friendship Tournament]] held in December 2009.
+
+Hatem participated for the [[Qatar national under-23 football team|Qatar olympic team]] in the [[2012 Summer Olympics|2012 Summer Olympic qualifiers]]. He received 2 yellow cards during the group stage, rendering him ineligible to compete for one game. Qatar, however, chose to play him against [[Oman national under-23 football team|Oman]], resulting in [[FIFA]] overturning the 1–1 draw to a 3–0 loss for Qatar. This meant that Qatar, who were undefeated in the group stage, would end up third in the group while Oman and South Korea went through to the next stage.<ref>[https://archive.today/20120717094126/http://www.al3nabi.com/news-4-38933.html بسبب مشاركة عبد العزيز حاتم , الأوليمبي القطري قد يخسر من عمان اداريا] {{in lang|ar}}</ref>
+
+===International goals===
+:''Scores and results list Qatar's goal tally first.''<ref name="NFT">{{cite web|url=http://www.national-football-teams.com/player/43751/Abdulaziz_Hatem_Abdullah.html|title=Abdullah, Abdulaziz Hatem|website=National Football Teams|access-date=26 March 2018}}</ref>
+
+{| class="wikitable" style="font-size:100%;"
+! No. !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| 1. || 24 March 2018 || [[Basra Sports City]], [[Basra]], Iraq || {{fb|SYR|1980}} || align=center | '''1'''–1 || align=center | 2–2 || [[2018 International Friendship Championship]]
+|-
+| 2. || 25 January 2019 || [[Zayed Sports City Stadium]], [[Abu Dhabi]], United Arab Emirates || {{fb|KOR}} || align=center | '''1'''–0 || align=center | 1–0 || [[2019 AFC Asian Cup knockout stage|2019 AFC Asian Cup]]
+|-
+| 3. || 1 February 2019 || Zayed Sports City Stadium, Abu Dhabi, United Arab Emirates || {{fb|JPN}} || align=center | '''2'''–0 || align=center | 3–1 || [[2019 AFC Asian Cup Final]]
+|-
+| 4. || 26 November 2019 || [[Khalifa International Stadium]], [[Doha]], Qatar || {{fb|IRQ}} || align=center | '''1'''–2 || align=center | 1–2 || [[24th Arabian Gulf Cup]]
+|-
+| 5. || 4 December 2020 || [[Jassim bin Hamad Stadium]], Doha, Qatar || {{fb|BAN}} || align=center | '''1'''–0 || align=center | 5–0 || [[2022 FIFA World Cup qualification – AFC second round|2022 FIFA World Cup qualification]]
+|-
+| 6. || 3 June 2021 || Jassim bin Hamad Stadium, Doha, Qatar || {{fb|IND}} || align=center | '''1'''–0 || align=center | 1–0 ||2022 FIFA World Cup qualification
+|-
+| 7. || 17 July 2021 || [[BBVA Stadium]], [[Houston]], United States || {{fb|GRN}} || align=center | '''1'''–0 || align=center | 4–0 || [[2021 CONCACAF Gold Cup Group D|2021 CONCACAF Gold Cup]]
+|-
+| 8. || 20 July 2021 || BBVA Stadium, Houston, United States || {{fb|HON}} || align=center | '''2'''–0 || align=center | 2–0 || 2021 CONCACAF Gold Cup
+|-
+| 9. || 24 July 2021 || [[State Farm Stadium]], [[Glendale, Arizona|Glendale]], United States || {{fb|SLV}} || align=center | '''2'''–0 || align=center | 3–2 || [[2021 CONCACAF Gold Cup knockout stage|2021 CONCACAF Gold Cup]]
+|-
+| 10. || 30 November 2021 || [[Al Bayt Stadium]], [[Al Khor (city)|Al Khor]], Qatar || {{fb|BHR}} || align=center | '''1'''–0 || align=center | 1–0 || [[2021 FIFA Arab Cup]]
+|-
+| 11. || 10 December 2021 || Al Bayt Stadium, Al Khor, Qatar ||{{fb|UAE}} || align=center | '''4'''–0 || align=center | 5–0 || 2021 FIFA Arab Cup
+|}
+
+==Honours==
+'''Al-Arabi'''
+*[[Sheikh Jassim Cup]]: 2008, [[2010 Sheikh Jassim Cup|2010]], [[2011 Sheikh Jassim Cup|2011]]
+
+'''Al-Gharafa'''
+*[[Qatari Stars Cup]]: [[2017–18 Qatari Stars Cup|2017–18]], [[2018–19 Qatari Stars Cup|2018–19]]
+
+'''Qatar'''
+*[[AFC Asian Cup]] : [[2019 AFC Asian Cup|2019]], [[2023 AFC Asian Cup|2023]]
+*[[Arabian Gulf Cup]]: [[22nd Arabian Gulf Cup|2014]]
+*[[WAFF Championship]]: [[2014 WAFF Championship|2014]]
+
+'''Individual'''
+*[[AFC Asian Cup]] Team of the Tournament: [[2019 AFC Asian Cup|2019]]<ref>{{cite news |url=https://www.the-afc.com/afc/documents/PdfFiles/afc-asian-cup-uae-2019-technical-report-and-statistics |title=AFC Asian Cup UAE 2019 Technical Report and Statistics |publisher=AFC |date=29 May 2019 |access-date=1 January 2020}}</ref>
+*[[FIFA Arab Cup]] Team of the Tournament: [[2021 FIFA Arab Cup#Team of the Tournament|2021]]<ref>{{cite web |date=19 December 2021 |title=تعرف على التشكيلة المثالية لبطولة كأس العرب 2021 |url=https://www.mala3eb.com/Section_108/%D9%85%D9%84%D8%A7%D8%B9%D8%A8-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D8%B4%D9%83%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D9%85%D8%AB%D8%A7%D9%84%D9%8A%D8%A9-%D9%84%D8%A8%D8%B7%D9%88%D9%84%D8%A9-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8-2021_154477 |access-date=23 May 2023 |website=mala3eb.com |language=ar}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+*{{NFT player|43751}}
+*{{soccerway|111513}}
+*[http://www.goalzz.com/main.aspx?player=50744 Goalzz.com profile]
+
+{{Al Rayyan SC squad}}
+{{Navboxes
+|title=Qatar squads
+|bg=#660033
+|fg=white
+|bordercolor=white
+|list1=
+{{Qatar squad 2015 AFC Asian Cup}}
+{{Qatar squad 2019 AFC Asian Cup}}
+{{Qatar squad 2019 Copa América}}
+{{Qatar squad 2021 CONCACAF Gold Cup}}
+{{Qatar squad 2022 FIFA World Cup}}
+{{Qatar squad 2023 AFC Asian Cup}}
+{{Qatar squad 2026 FIFA World Cup}}
+}}
+{{2019 AFC Asian Cup Team of the Tournament}}
+{{Authority control}}
+
+{{DEFAULTSORT:Hatem, Abdulaziz}}
+[[Category:1990 births]]
+[[Category:Living people]]
+[[Category:Qatari men's footballers]]
+[[Category:21st-century Qatari sportsmen]]
+[[Category:Qatari people of Sudanese descent]]
+[[Category:Sudanese emigrants to Qatar]]
+[[Category:Naturalized citizens of Qatar]]
+[[Category:Al-Arabi SC (Qatar) players]]
+[[Category:Al-Gharafa SC players]]
+[[Category:Al-Rayyan SC players]]
+[[Category:Qatar men's international footballers]]
+[[Category:Qatar Stars League players]]
+[[Category:2015 AFC Asian Cup players]]
+[[Category:2019 AFC Asian Cup players]]
+[[Category:2019 Copa América players]]
+[[Category:2021 CONCACAF Gold Cup players]]
+[[Category:Men's association football midfielders]]
+[[Category:Footballers at the 2010 Asian Games]]
+[[Category:AFC Asian Cup–winning players]]
+[[Category:Asian Games footballers for Qatar]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:FIFA Men's Century Club]]
+[[Category:2023 AFC Asian Cup players]]
+[[Category:Footballers from Doha]]
+[[Category:2026 FIFA World Cup players]]
+
+
+{{Qatar-footy-midfielder-stub}}

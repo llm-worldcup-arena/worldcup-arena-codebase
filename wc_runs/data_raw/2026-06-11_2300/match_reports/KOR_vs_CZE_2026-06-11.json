@@ -1,0 +1,49 @@
+{
+ "date": "2026-06-11",
+ "comp": "世界杯·A组·第1轮",
+ "home": "KOR",
+ "away": "CZE",
+ "score": "2-1",
+ "ht": "0-0",
+ "ha_home": "中",
+ "goals": [
+  {
+   "min": 59,
+   "team": "CZE",
+   "player": "Ladislav Krejčí",
+   "type": "头球"
+  },
+  {
+   "min": "扳平",
+   "team": "KOR",
+   "player": "Hwang In-beom",
+   "type": "运动战"
+  },
+  {
+   "min": 80,
+   "team": "KOR",
+   "player": "Oh Hyeon-gyu",
+   "type": "运动战"
+  }
+ ],
+ "cards": [
+  {
+   "min": "终场前",
+   "team": "KOR",
+   "player": "Lee Gi-hyuk",
+   "type": "黄"
+  }
+ ],
+ "injuries": [],
+ "suspensions": [],
+ "narrative": "韩国在瓜达拉哈拉2-1逆转捷克(半场0-0)。捷克Krejčí第59分钟头球先拔头筹,韩国随后由黄仁范(Hwang In-beom)扳平并送出助攻(成为第3位在世界杯单场进球+助攻的韩国球员),替补吴贤揆(Oh Hyeon-gyu)第80分钟完成逆转绝杀。韩国上半场8次射门未果,下半场效率提升。",
+ "prediction_note": "对后续预测含义:韩国逆转能力与黄仁范状态值得关注;捷克由领先被逆转、0分开局。无红牌停赛。",
+ "_sources": [
+  "ESPN",
+  "FIFA官方",
+  "Yahoo Sports",
+  "FOX Sports",
+  "Outlook India",
+  "Flashscore"
+ ]
+}

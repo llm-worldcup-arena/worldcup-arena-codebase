@@ -1,0 +1,16 @@
+{
+ "team": "MEX",
+ "source": "FIFA.com",
+ "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/mexico-squad-announced",
+ "title": "Javier Aguirre reveals Mexico's 26-strong FIFA World Cup squad",
+ "news_date": "2026-06-10",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "asof": "2026-06-10",
+ "fetched": "2026-06-13_0638",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Javier Aguirre reveals Mexico's 26-strong FIFA World Cup squad\nGuillermo Ochoa is headed to a sixth global finals and starlet Gilberto Mora a first as Mexico's FIFA World Cup squad is announced by Javier Aguirre.\nThe 26 players set to carry the hopes of co-hosts Mexico at the FIFA World Cup 2026™ are now known. A day after El Tri defeated Australia 1-0 in a warm-up match, head coach Javier Aguirre announced his selection; a group that is headlined by two players at opposite ends of their respective careers.\nVeteran keeper Guillermo Ochoa is heading to his sixth World Cup while starlet Gilberto Mora will become the youngest Mexican ever to play in the tournament, at just 17 years of age.\nMexico's FIFA World Cup 2026 squadMexico's FIFA World Cup 2026 squad\nGoalkeepersGoalkeepers\nCarlos Acevedo Guillermo Ochoa Raul Rangel\nDefendersDefenders\nEdson Alvarez Mateo Chavez Jesus Gallardo Cesar Montes Israel Reyes Jorge Sanchez Johan Vasquez\nMidfieldersMidfielders\nLuis Chavez Alvaro Fidalgo Brian Gutierrez Erik Lira Gilberto Mora Luis Romo Orbelin Pineda Obed Vargas\nForwardsForwards\nRoberto Alvarado Santiago Gimenez Armando Gonzalez Cesar Huerta Raul Jimenez Guillermo Martinez Julian Quinones Alexis Vega\nAll squads are provisional until the final list of 26 players is announced by FIFA, following their submission by participating teams, on 2 June.\nAguirre leans on World Cup experience Aguirre leans on World Cup experience\nJavier Aguirre is heading to his third World Cup as a coach, back in charge of a Mexico side he first led at Korea/Japan 2002 and then again at South Africa 2010. This time, El Vasco's objective is to equal the team's best-ever performance on home soil (Mexico 1970 and 1986), when they reached the quarterfinals.\nThe squad is notable for the inclusion of Ochoa, who will make history by participating in his sixth World Cup. Also noteworthy is the inclusion of seven players from Chivas, a club with an all-Mexican squad.\nTwelve players that featured under Gerardo Martino at Qatar 2022 will return as Mexico look to impress at the co-hosted global finals.\nMexico’s World Cup 2026 fixtures and groupMexico’s World Cup 2026 fixtures and group\n11 June: Mexico v South Africa - Mexico City Stadium\n18 June: Mexico v Korea Republic - Guadalajara Stadium\n24 June: Czechia v Mexico - Mexico City Stadium",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

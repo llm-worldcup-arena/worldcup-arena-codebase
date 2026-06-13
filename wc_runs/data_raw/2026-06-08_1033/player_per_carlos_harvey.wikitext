@@ -1,0 +1,246 @@
+{{short description|Panamanian football player (born 2000)}}
+{{family name hatnote|Harvey|Cesneros|lang=Spanish}}
+{{BLP primary sources|date=August 2024}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+| name = Carlos Harvey
+| image = 
+| full_name = Carlos Miguel Harvey Cesneros<ref>{{Soccerway|carlos-miguel-harvey-cesneros/575350}}</ref>
+| birth_date = {{Birth date and age|2000|2|3|df=y}}<ref>{{cite web |url=https://www.fifadata.com/document/FWYC/2019/pdf/FWYC_2019_SquadLists.pdf |title=FIFA U-20 World Cup Poland 2019: List of Players: Panama |publisher=FIFA |page=14 |date=13 June 2019 |archive-url=https://web.archive.org/web/20200206013743/https://www.fifadata.com/document/FWYC/2019/pdf/FWYC_2019_SquadLists.pdf |archive-date=6 February 2020}}</ref>
+| birth_place = [[Panama City]], Panama
+| height = 1.85 m<ref>{{Cite web |title=Carlos Harvey |url=https://www.lagalaxy.com/players/carlos-harvey/ |access-date=20 August 2022 |publisher=LA Galaxy}}</ref>
+| position = [[Midfielder#Defensive midfielder|Defensive midfielder]]
+| currentclub = [[Minnesota United FC|Minnesota United]]
+| clubnumber = 67
+| years1 = 2018–2021
+| clubs1 = [[Tauro F.C.|Tauro]]
+| caps1 = 1
+| goals1 = 0
+| years2 = 2019–2020
+| clubs2 = → [[LA Galaxy II]] (loan)
+| caps2 = 19
+| goals2 = 2
+| years3 = 2020
+| clubs3 = → [[LA Galaxy]] (loan)
+| caps3 = 6
+| goals3 = 0
+| years4 = 2021–2022
+| clubs4 = [[LA Galaxy]]
+| caps4 = 4
+| goals4 = 0
+| years5 = 2021–2022
+| clubs5 = → [[LA Galaxy II]] (loan)
+| caps5 = 36
+| goals5 = 4
+| years6 = 2023
+| clubs6 = [[Phoenix Rising FC|Phoenix Rising]]
+| caps6 = 30
+| goals6 = 5
+| years7 = 2024–
+| clubs7 = [[Minnesota United FC|Minnesota United]]
+| caps7 = 43
+| goals7 = 1
+| years8 = 2024–
+| clubs8 = [[Minnesota United FC 2|Minnesota United 2]]
+| caps8 = 3
+| goals8 = 3
+| nationalyears1 = 2018–2019
+| nationalteam1 = [[Panama national under-20 football team|Panama U20]]
+| nationalcaps1 = 10
+| nationalgoals1 = 0
+| nationalyears2 = 2019–
+| nationalteam2 = [[Panama national football team|Panama]]
+| nationalcaps2 = 26
+| nationalgoals2 = 3
+| club-update = 13 September 2025
+| nationalteam-update = 31 May 2026
+}}
+
+'''Carlos Miguel Harvey Cesneros''' (born 3 February 2000) is a Panamaian professional [[Association football|footballer]] who plays as a [[Midfielder#Defensive midfielder|defensive midfielder]] for [[Major League Soccer]] club [[Minnesota United FC]] and the [[Panama national football team|Panama national team]].
+
+==Club career==
+He joined LA Galaxy II on loan from Tauro F.C. in February 2019.<ref>{{cite web |title=LA Galaxy II acquire midfielder Carlos Harvey |url=https://www.lagalaxy.com/post/2019/03/06/la-galaxy-ii-acquire-midfielder-carlos-harvey |publisher=LAGalaxy.com |accessdate=7 March 2019 |date=6 March 2019}}</ref> On 26 June 2020, Harvey moved to the [[LA Galaxy]] first team.<ref>{{Cite web|url=https://www.lagalaxy.com/news/la-galaxy-acquire-midfielder-carlos-harvey-loan-la-galaxy-ii|title=LA Galaxy acquire midfielder Carlos Harvey on loan from LA Galaxy II &#124; LA Galaxy|website=lagalaxy}}</ref> He joined LA Galaxy on a permanent basis on 17 February 2021.<ref>{{Cite web|url=https://www.mlssoccer.com/news/la-galaxy-sign-midfielder-carlos-harvey-panamas-tauro-fc|title=LA Galaxy sign midfielder Carlos Harvey from Panama's Tauro FC &#124; MLSSoccer.com|website=mlssoccer}}</ref>
+
+Harvey signed with [[Phoenix Rising FC]] on February 7, 2023.<ref>{{cite web|url=https://www.phxrisingfc.com/news/phoenix-rising-signs-midfielder-carlos-harvey/ |title=Phoenix Rising Signs Midfielder Carlos Harvey |publisher=Phoenix Rising Communications |first=Jason |last=Minnick |date=February 7, 2023 |access-date=February 7, 2023}}</ref>
+
+Harvey transferred to [[Major League Soccer]] club [[Minnesota United FC|Minnesota United]] on 24 January 2024.<ref>{{cite web |last1=Minnick |first1=J. |title=Phoenix Rising FC Rising Transfers Carlos Harvey to MLS side, Minnesota United |url=https://www.phxrisingfc.com/news/phoenix-rising-fc-rising-transfers-carlos-harvey-to-mls-side-minnesota-united/ |website=PHXRisingFC.com |publisher=[[Phoenix Rising FC|Phoenix Rising]] |access-date=24 January 2024}}</ref><ref>{{cite web |title=Minnesota United Signs Midfielder Carlos Harvey |url=https://www.mnufc.com/news/minnesota-united-signs-midfielder-carlos-harvey |website=MNUFC.com |publisher=[[Minnesota United FC|Minnesota United]] |access-date=24 January 2024}}</ref>
+
+==International career==
+Harvey participated at the [[2018 CONCACAF U-20 Championship]] in November 2018. He made his senior international debut for Panama against United States on 27 January 2019 in a friendly match at the [[State Farm Stadium]] in Glendale, Arizona.<ref>{{cite web |title=United States vs. Panama – 28 January 2019 – Soccerway |url=https://int.soccerway.com/matches/2019/01/27/world/friendlies/united-states-of-america/panama/2944650/ |website=soccerway.com |accessdate=7 March 2019 |date=27 January 2019}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 13 September 2025}}<ref>{{Soccerway|575350|access-date=12 September 2024}}</ref>
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup
+!colspan="2"|Continental
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|[[Tauro F.C.|Tauro]]
+|[[2018-19 Liga Panameña de Fútbol|2018-19]]
+|[[Liga Panameña de Fútbol]]
+|1||0||colspan="2"|—||colspan="2"|—||1||0
+|-
+|rowspan="3"|[[Ventura County FC|LA Galaxy II]] (loan)
+|[[2019 USL Championship season|2019]]
+|[[USL Championship]]
+|19||2||colspan="2"|—||colspan="2"|—||19||2
+|-
+|[[2020 USL Championship season|2020]]
+|USL Championship
+|1||0||colspan="2"|—||colspan="2"|—||1||0
+|-
+!colspan="2"|Total
+!20!!2!!colspan="2"|—!!colspan="2"|—!!20!!2
+|-
+|[[LA Galaxy]] (loan)
+|[[2020 Major League Soccer season|2020]]
+|[[Major League Soccer|MLS]]
+|6||0||colspan="2"|—||colspan="2"|—||6||0
+|-
+|rowspan="3"|LA Galaxy
+|[[2021 Major League Soccer season|2021]]
+|MLS
+|4||0||colspan="2"|—||colspan="2"|—||4||0
+|-
+|[[2022 Major League Soccer season|2022]]
+|MLS
+|0||0||1||0||colspan="2"|—||1||0
+|-
+!colspan="2"|Total
+!4!!0!!1!!0!!colspan="2"|—!!5!!0
+|-
+|rowspan="3"|LA Galaxy II
+|[[2021 USL Championship season|2021]]
+|USL Championship
+|17||3||colspan="2"|—||colspan="2"|—||17||3
+|-
+|[[2022 USL Championship season|2022]]
+|USL Championship
+|19||1||colspan="2"|—||colspan="2"|—||19||1
+|-
+!colspan="2"|Total
+!36!!4!!colspan="2"|—!!colspan="2"|—!!36!!4
+|-
+|[[Phoenix Rising FC|Phoenix Rising]]
+|[[2023 USL Championship season|2023]]
+|USL Championship
+|34||5||2||2||colspan="2"|—||36||7
+|-
+|rowspan="4"|[[Minnesota United FC|Minnesota United]]
+|[[2024 Major League Soccer season|2024]]
+|MLS
+|21||0||1||0||2{{efn|name=LC|Appearance(s) in [[Leagues Cup]]}}||0||24||0
+|-
+|[[2025 Major League Soccer season|2025]]
+|MLS
+|25||1||2||0||3{{efn|name=LC}}||1||30||1
+|-
+|[[2026 Minnesota United FC season|2026]]
+|MLS
+|0||0||0||0||0||0||0||0
+|-
+!colspan="2"|Total
+!46!!1!!3!!0!!5!!0!!54!!1
+|-
+|[[Minnesota United FC 2]]
+|[[2024 MLS Next Pro season|2024]]
+|[[MLS Next Pro]]
+|3||3||colspan="2"|—||colspan="2"|—||3||3
+|-
+!colspan="3"|Career Total
+!150!!15!!6!!2!!5!!0!!161!!17
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 31 May 2026}}<ref name="nft">{{NFT|73345|access-date=2 July 2024}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="6"|[[Panama national football team|Panama]]
+|2019||1||0
+|-
+|2021||1||0
+|-
+|2023||2||1
+|-
+|2024||7||0
+|-
+|2025||12||1
+|-
+|2026||3||1
+|-
+!colspan="2"|Total!!26!!3
+|}
+
+:''Scores and results list Panama's goal tally first, score column indicates score after each Harvey goal.''<ref name="nft"/>
+
+{| class="wikitable sortable"
+|+ List of international goals scored by Carlos Harvey
+! No. !! Date !! Venue!! Opponent !! Score !! Result !! Competition
+|-
+| align=center|1 || 13 March 2023 || [[PayPal Park]], [[San Jose, California|San Jose]], United States || {{fb|GUA}} || align=center|'''1'''–0 || align=center| 1–1 || [[Exhibition game#Association football|Friendly]]
+|-
+| align=center|2 || 8 September 2025 || [[Rommel Fernández Stadium]], [[Panama City]], Panama || {{fb|GUA}} || align=center|'''1'''–1 || align=center| 1–1 || [[2026 FIFA World Cup qualification – CONCACAF third round|2026 FIFA World Cup qualification]]
+|-
+| align=center|3|| 31 May 2026 || [[Maracanã Stadium|Estádio do Maracanã]], [[Rio de Janeiro]], Brazil || {{fb|BRA}} || align=center|'''2'''–6 || align=center|2–6 || Friendly
+|}
+
+== Honours ==
+'''Panama'''
+
+* [[CONCACAF Nations League]] runner-up: [[2024–25 CONCACAF Nations League|2024–25]]<ref>{{Cite web |date=23 March 2025 |title=Mexico beat Panama with stoppage-time penalty for CONCACAF Nations League title |url=https://www.reuters.com/sports/soccer/mexico-beat-panama-with-stoppage-time-penalty-concacaf-nations-league-title-2025-03-24/#:~:text=March%2023%20(Reuters)%20%2D%20Raul,Inglewood%2C%20California%2C%20on%20Sunday. |access-date=26 March 2025 |website=[[Reuters]]}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{sports links}}
+
+{{Minnesota United FC squad}}
+{{Navboxes
+| title = Panama squads
+| bg          = #DA121A
+| fg          = white
+| bordercolor = #072357
+| list =
+{{Panama squad 2024 Copa América}}
+{{Panama squad 2025 CONCACAF Gold Cup}}
+{{Panama squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Harvey, Carlos}}
+[[Category:2000 births]]
+[[Category:Living people]]
+[[Category:Footballers from Panama City]]
+[[Category:Men's association football defenders]]
+[[Category:Panamanian men's footballers]]
+[[Category:21st-century Panamanian sportsmen]]
+[[Category:Panama men's international footballers]]
+[[Category:2024 Copa América players]]
+[[Category:Tauro F.C. players]]
+[[Category:Ventura County FC players]]
+[[Category:LA Galaxy players]]
+[[Category:Phoenix Rising FC players]]
+[[Category:Minnesota United FC players]]
+[[Category:Expatriate men's soccer players in the United States]]
+[[Category:Liga Panameña de Fútbol players]]
+[[Category:USL Championship players]]
+[[Category:Major League Soccer players]]
+[[Category:Panama men's under-20 international footballers]]
+[[Category:Minnesota United FC 2 players]]
+[[Category:MLS Next Pro players]]
+[[Category:2025 CONCACAF Gold Cup players]]
+[[Category:2026 FIFA World Cup players]]
+
+{{panama-footy-bio-stub}}

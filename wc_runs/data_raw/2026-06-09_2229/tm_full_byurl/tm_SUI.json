@@ -1,0 +1,459 @@
+[
+ {
+  "player_id": "365108",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/365108",
+  "name": "DanNdoye",
+  "shirt_number": 14,
+  "club": "Joined:",
+  "club_id": "703",
+  "market_value": "€32.00m",
+  "market_value_numeric": 32000000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Social-Media:",
+  "nationality": "England",
+  "citizenships": [
+   "England",
+   "Switzerland",
+   "Switzerland",
+   "Switzerland",
+   "Switzerland",
+   "Switzerland",
+   "Senegal"
+  ],
+  "market_value_history": [
+   {
+    "date": "Jun 4, 2019",
+    "value": "€600k",
+    "value_numeric": 600000,
+    "club": "FC Lausanne-Sport",
+    "age": "18"
+   },
+   {
+    "date": "Oct 7, 2019",
+    "value": "€1.00m",
+    "value_numeric": 1000000,
+    "club": "FC Lausanne-Sport",
+    "age": "18"
+   },
+   {
+    "date": "Jan 6, 2020",
+    "value": "€1.00m",
+    "value_numeric": 1000000,
+    "club": "FC Lausanne-Sport",
+    "age": "19"
+   },
+   {
+    "date": "Apr 8, 2020",
+    "value": "€900k",
+    "value_numeric": 900000,
+    "club": "FC Lausanne-Sport",
+    "age": "19"
+   },
+   {
+    "date": "Jul 31, 2020",
+    "value": "€1.30m",
+    "value_numeric": 1300000,
+    "club": "FC Lausanne-Sport",
+    "age": "19"
+   },
+   {
+    "date": "Oct 15, 2020",
+    "value": "€2.00m",
+    "value_numeric": 2000000,
+    "club": "OGC Nice",
+    "age": "19"
+   },
+   {
+    "date": "Jan 7, 2021",
+    "value": "€4.00m",
+    "value_numeric": 4000000,
+    "club": "OGC Nice",
+    "age": "20"
+   },
+   {
+    "date": "May 25, 2021",
+    "value": "€4.00m",
+    "value_numeric": 4000000,
+    "club": "OGC Nice",
+    "age": "20"
+   },
+   {
+    "date": "Jan 3, 2022",
+    "value": "€4.00m",
+    "value_numeric": 4000000,
+    "club": "FC Basel 1893",
+    "age": "21"
+   },
+   {
+    "date": "Jun 8, 2022",
+    "value": "€4.00m",
+    "value_numeric": 4000000,
+    "club": "FC Basel 1893",
+    "age": "21"
+   },
+   {
+    "date": "Nov 10, 2022",
+    "value": "€3.50m",
+    "value_numeric": 3500000,
+    "club": "FC Basel 1893",
+    "age": "22"
+   },
+   {
+    "date": "Jun 7, 2023",
+    "value": "€3.50m",
+    "value_numeric": 3500000,
+    "club": "FC Basel 1893",
+    "age": "22"
+   },
+   {
+    "date": "Oct 11, 2023",
+    "value": "€8.50m",
+    "value_numeric": 8500000,
+    "club": "Bologna FC 1909",
+    "age": "22"
+   },
+   {
+    "date": "Dec 20, 2023",
+    "value": "€10.00m",
+    "value_numeric": 10000000,
+    "club": "Bologna FC 1909",
+    "age": "23"
+   },
+   {
+    "date": "Jun 5, 2024",
+    "value": "€14.00m",
+    "value_numeric": 14000000,
+    "club": "Bologna FC 1909",
+    "age": "23"
+   },
+   {
+    "date": "Jul 18, 2024",
+    "value": "€22.00m",
+    "value_numeric": 22000000,
+    "club": "Bologna FC 1909",
+    "age": "23"
+   },
+   {
+    "date": "Dec 18, 2024",
+    "value": "€25.00m",
+    "value_numeric": 25000000,
+    "club": "Bologna FC 1909",
+    "age": "24"
+   },
+   {
+    "date": "Jun 17, 2025",
+    "value": "€35.00m",
+    "value_numeric": 35000000,
+    "club": "Bologna FC 1909",
+    "age": "24"
+   },
+   {
+    "date": "Oct 17, 2025",
+    "value": "€40.00m",
+    "value_numeric": 40000000,
+    "club": "Nottingham Forest",
+    "age": "24"
+   },
+   {
+    "date": "Dec 9, 2025",
+    "value": "€40.00m",
+    "value_numeric": 40000000,
+    "club": "Nottingham Forest",
+    "age": "25"
+   },
+   {
+    "date": "Mar 9, 2026",
+    "value": "€35.00m",
+    "value_numeric": 35000000,
+    "club": "Nottingham Forest",
+    "age": "25"
+   },
+   {
+    "date": "Jun 3, 2026",
+    "value": "€32.00m",
+    "value_numeric": 32000000,
+    "club": "Nottingham Forest",
+    "age": "25"
+   }
+  ],
+  "peak_market_value": 40000000,
+  "transfers": [],
+  "_our_pid": "per_dan_ndoye"
+ },
+ {
+  "player_id": "927353",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/927353",
+  "name": "JohanManzambi",
+  "shirt_number": 44,
+  "club": "Joined:",
+  "club_id": "60",
+  "market_value": "€50.00m",
+  "market_value_numeric": 50000000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Jun 24, 2025",
+  "nationality": "Germany",
+  "citizenships": [
+   "Germany",
+   "Switzerland",
+   "Switzerland",
+   "Switzerland",
+   "Switzerland",
+   "Switzerland"
+  ],
+  "market_value_history": [
+   {
+    "date": "Aug 2, 2023",
+    "value": "€150k",
+    "value_numeric": 150000,
+    "club": "SC Freiburg II",
+    "age": "17"
+   },
+   {
+    "date": "Dec 28, 2023",
+    "value": "€150k",
+    "value_numeric": 150000,
+    "club": "SC Freiburg II",
+    "age": "18"
+   },
+   {
+    "date": "Jun 11, 2024",
+    "value": "€250k",
+    "value_numeric": 250000,
+    "club": "SC Freiburg II",
+    "age": "18"
+   },
+   {
+    "date": "Oct 9, 2024",
+    "value": "€750k",
+    "value_numeric": 750000,
+    "club": "SC Freiburg",
+    "age": "18"
+   },
+   {
+    "date": "Dec 20, 2024",
+    "value": "€750k",
+    "value_numeric": 750000,
+    "club": "SC Freiburg",
+    "age": "19"
+   },
+   {
+    "date": "Jun 5, 2025",
+    "value": "€8.00m",
+    "value_numeric": 8000000,
+    "club": "SC Freiburg",
+    "age": "19"
+   },
+   {
+    "date": "Oct 14, 2025",
+    "value": "€15.00m",
+    "value_numeric": 15000000,
+    "club": "SC Freiburg",
+    "age": "20"
+   },
+   {
+    "date": "Dec 19, 2025",
+    "value": "€30.00m",
+    "value_numeric": 30000000,
+    "club": "SC Freiburg",
+    "age": "20"
+   },
+   {
+    "date": "Mar 20, 2026",
+    "value": "€35.00m",
+    "value_numeric": 35000000,
+    "club": "SC Freiburg",
+    "age": "20"
+   },
+   {
+    "date": "May 27, 2026",
+    "value": "€50.00m",
+    "value_numeric": 50000000,
+    "club": "SC Freiburg",
+    "age": "20"
+   }
+  ],
+  "peak_market_value": 50000000,
+  "transfers": [],
+  "_our_pid": "per_johan_manzambi"
+ },
+ {
+  "player_id": "500763",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/500763",
+  "name": "MarvinKeller",
+  "shirt_number": 1,
+  "club": "Joined:",
+  "club_id": "452",
+  "market_value": "€6.00m",
+  "market_value_numeric": 6000000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Social-Media:",
+  "nationality": "Switzerland",
+  "citizenships": [
+   "Switzerland",
+   "England",
+   "Switzerland",
+   "Switzerland",
+   "England",
+   "Switzerland"
+  ],
+  "market_value_history": [
+   {
+    "date": "Jan 6, 2020",
+    "value": "€50k",
+    "value_numeric": 50000,
+    "club": "Grasshopper Club Zürich U21",
+    "age": "17"
+   },
+   {
+    "date": "Jul 31, 2020",
+    "value": "€100k",
+    "value_numeric": 100000,
+    "club": "Grasshopper Club Zurich",
+    "age": "18"
+   },
+   {
+    "date": "Jan 12, 2021",
+    "value": "€100k",
+    "value_numeric": 100000,
+    "club": "Grasshopper Club Zurich",
+    "age": "18"
+   },
+   {
+    "date": "Jun 23, 2021",
+    "value": "€100k",
+    "value_numeric": 100000,
+    "club": "Grasshopper Club Zurich",
+    "age": "18"
+   },
+   {
+    "date": "Jan 3, 2022",
+    "value": "€200k",
+    "value_numeric": 200000,
+    "club": "FC Wil 1900",
+    "age": "19"
+   },
+   {
+    "date": "Jun 8, 2022",
+    "value": "€300k",
+    "value_numeric": 300000,
+    "club": "FC Wil 1900",
+    "age": "19"
+   },
+   {
+    "date": "Dec 29, 2022",
+    "value": "€500k",
+    "value_numeric": 500000,
+    "club": "FC Wil 1900",
+    "age": "20"
+   },
+   {
+    "date": "Jun 7, 2023",
+    "value": "€800k",
+    "value_numeric": 800000,
+    "club": "BSC Young Boys",
+    "age": "20"
+   },
+   {
+    "date": "Oct 19, 2023",
+    "value": "€1.00m",
+    "value_numeric": 1000000,
+    "club": "FC Winterthur",
+    "age": "21"
+   },
+   {
+    "date": "Dec 21, 2023",
+    "value": "€1.20m",
+    "value_numeric": 1200000,
+    "club": "FC Winterthur",
+    "age": "21"
+   },
+   {
+    "date": "Mar 28, 2024",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "FC Winterthur",
+    "age": "21"
+   },
+   {
+    "date": "May 31, 2024",
+    "value": "€2.50m",
+    "value_numeric": 2500000,
+    "club": "FC Winterthur",
+    "age": "21"
+   },
+   {
+    "date": "Sep 27, 2024",
+    "value": "€3.50m",
+    "value_numeric": 3500000,
+    "club": "BSC Young Boys",
+    "age": "22"
+   },
+   {
+    "date": "Dec 23, 2024",
+    "value": "€3.50m",
+    "value_numeric": 3500000,
+    "club": "BSC Young Boys",
+    "age": "22"
+   },
+   {
+    "date": "Mar 20, 2025",
+    "value": "€5.50m",
+    "value_numeric": 5500000,
+    "club": "BSC Young Boys",
+    "age": "22"
+   },
+   {
+    "date": "Jun 10, 2025",
+    "value": "€9.00m",
+    "value_numeric": 9000000,
+    "club": "BSC Young Boys",
+    "age": "22"
+   },
+   {
+    "date": "Dec 29, 2025",
+    "value": "€8.00m",
+    "value_numeric": 8000000,
+    "club": "BSC Young Boys",
+    "age": "23"
+   },
+   {
+    "date": "Mar 17, 2026",
+    "value": "€7.00m",
+    "value_numeric": 7000000,
+    "club": "BSC Young Boys",
+    "age": "23"
+   },
+   {
+    "date": "Jun 2, 2026",
+    "value": "€6.00m",
+    "value_numeric": 6000000,
+    "club": "BSC Young Boys",
+    "age": "23"
+   }
+  ],
+  "peak_market_value": 9000000,
+  "transfers": [],
+  "_our_pid": "per_marvin_keller"
+ }
+]

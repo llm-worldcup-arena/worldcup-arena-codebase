@@ -1,0 +1,35 @@
+===Current squad===
+<!--NOTE: PLEASE LEAVE THE SQUAD DATA (ANNOUNCEMENT DATES ETC) IN PROSE/WRITTEN FORM INSTEAD OF BULLET POINTS. INSTEAD OF EDITING EACH TIME THE SQUAD IS UPDATED, SIMPLY CHANGE THE DATE AND OPPONENT NAME IN THE WRITTEN SENTENCE. IF THE EVENT CHANGES, SAY FOR A FRIENDLY GAME, THEN STATE THIS IN THE SENTENCE AS WELL BY REPLACING 'WORLD CUP QUALIFIERS/EURO QUALIFIERS OF GROUP SIX' WITH 'FRIENDLY GAME' ETC. THANKS FACA :) -->
+The following players were called-up for the [[2026 FIFA World Cup]], and for the pre-tournament friendly matches against [[Belgium national football team|Belgium]] and [[Slovenia national football team|Slovenia]] on 2 and 7 June 2026, respectively.<ref>{{cite web |url=https://hns.team/vijesti/31132/zlatko-dalic-objavio-popis-igraca-za-svjetsko-prvenstvo-u-kanadi-meksiku-i-sad-u/ |title=Zlatko Dalić objavio popis igrača za Svjetsko prvenstvo u Kanadi, Meksiku i SAD-u |trans-title=Zlatko Dalić announces list of players for the World Cup in Canada, Mexico and the USA |publisher=[[Croatian Football Federation]] |date=May 18, 2026 |access-date=May 18, 2026 |language=hr}}</ref>
+<br>''Caps and goals correct as of 2 June 2026, after the match against [[Belgium national football team|Belgium]].<ref>{{cite web|url=https://eu-football.info/_players.php?id=47&data=9|title=Most Croatia Caps|website=EU-Football.info}}</ref> ''
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Dominik Livaković]]|age={{birth date and age|df=y|1995|1|9}}|caps=74|goals=0|club=[[GNK Dinamo Zagreb|Dinamo Zagreb]]|clubnat=CRO}}
+{{nat fs g player|no=12|pos=GK|name=[[Ivor Pandur]]|age={{birth date and age|df=y|2000|3|25}}|caps=0|goals=0|club=[[Hull City A.F.C.|Hull City]]|clubnat=ENG}}
+{{nat fs g player|no=23|pos=GK|name=[[Dominik Kotarski]]|age={{birth date and age|df=y|2000|2|10}}|caps=4|goals=0|club=[[F.C. Copenhagen|Copenhagen]]|clubnat=DEN}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Josip Stanišić]]|age={{birth date and age|df=y|2000|4|2}}|caps=30|goals=0|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs g player|no=3|pos=DF|name=[[Marin Pongračić]]|age={{birth date and age|df=y|1997|9|11}}|caps=19|goals=0|club=[[ACF Fiorentina|Fiorentina]]|clubnat=ITA}}
+{{nat fs g player|no=4|pos=DF|name=[[Joško Gvardiol]]|age={{birth date and age|df=y|2002|1|23}}|caps=47|goals=4|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs g player|no=5|pos=DF|name=[[Duje Ćaleta-Car]]|age={{birth date and age|df=y|1996|9|17}}|caps=38|goals=1|club=[[Real Sociedad]]|clubnat=ESP}}
+{{nat fs g player|no=6|pos=DF|name=[[Josip Šutalo]]|age={{birth date and age|df=y|2000|2|28}}|caps=32|goals=0|club=[[AFC Ajax|Ajax]]|clubnat=NED}}
+{{nat fs g player|no=22|pos=DF|name=[[Luka Vušković]]|age={{birth date and age|df=y|2007|2|24}}|caps=5|goals=1|club=[[Hamburger SV]]|clubnat=GER}}
+{{nat fs g player|no=25|pos=DF|name=[[Martin Erlić]]|age={{birth date and age|df=y|1998|1|24}}|caps=12|goals=1|club=[[FC Midtjylland|Midtjylland]]|clubnat=DEN}}
+{{nat fs break}}
+{{nat fs g player|no=7|pos=MF|name=[[Nikola Moro]]|age={{birth date and age|df=y|1998|3|12}}|caps=10|goals=0|club=[[Bologna FC 1909|Bologna]]|clubnat=ITA}}
+{{nat fs g player|no=8|pos=MF|name=[[Mateo Kovačić]]|other=[[Captain (association football)|third captain]]|age={{birth date and age|df=y|1994|5|6}}|caps=112|goals=5|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs g player|no=10|pos=MF|name=[[Luka Modrić]]| other=[[Captain (association football)|captain]]|age={{birth date and age|df=y|1985|9|9}}|caps=197|goals=28|club=[[AC Milan|Milan]]|clubnat=ITA}}
+{{nat fs g player|no=13|pos=MF|name=[[Nikola Vlašić]]|age={{birth date and age|df=y|1997|10|4}}|caps=62|goals=10|club=[[Torino FC|Torino]]|clubnat=ITA}}
+{{nat fs g player|no=15|pos=MF|name=[[Mario Pašalić]]|other=[[Captain (association football)|fifth captain]]|age={{birth date and age|df=y|1995|2|9}}|caps=84|goals=11|club=[[Atalanta BC|Atalanta]]|clubnat=ITA}}
+{{nat fs g player|no=16|pos=MF|name=[[Martin Baturina]]|age={{birth date and age|df=y|2003|2|16}}|caps=18|goals=1|club=[[Como 1907|Como]]|clubnat=ITA}}
+{{nat fs g player|no=17|pos=MF|name=[[Petar Sučić]]|age={{birth date and age|df=y|2003|10|25}}|caps=16|goals=1|club=[[Inter Milan]]|clubnat=ITA}}
+{{nat fs g player|no=18|pos=MF|name=[[Kristijan Jakić]]|age={{birth date and age|df=y|1997|5|14}}|caps=17|goals=2|club=[[FC Augsburg]]|clubnat=GER}}
+{{nat fs g player|no=19|pos=MF|name=[[Toni Fruk]]|age={{birth date and age|df=y|2001|4|9}}|caps=7|goals=1|club=[[HNK Rijeka|Rijeka]]|clubnat=CRO}}
+{{nat fs g player|no=21|pos=MF|name=[[Luka Sučić]]|age={{birth date and age|df=y|2002|9|8}}|caps=20|goals=1|club=[[Real Sociedad]]|clubnat=ESP}}
+{{nat fs break}}
+{{nat fs g player|no=9|pos=FW|name=[[Andrej Kramarić]]|other=[[Captain (association football)|fourth captain]]|age={{birth date and age|df=y|1991|6|19}}|caps=115|goals=36|club=[[TSG 1899 Hoffenheim|TSG Hoffenheim]]|clubnat=GER}}
+{{nat fs g player|no=11|pos=FW|name=[[Ante Budimir]]|age={{birth date and age|df=y|1991|7|22}}|caps=37|goals=6|club=[[CA Osasuna|Osasuna]]|clubnat=ESP}}
+{{nat fs g player|no=14|pos=FW|name=[[Ivan Perišić]]|other=[[Captain (association football)|vice-captain]]|age={{birth date and age|df=y|1989|2|2}}|caps=153|goals=38|club=[[PSV Eindhoven]]|clubnat=NED}}
+{{nat fs g player|no=20|pos=FW|name=[[Igor Matanović]]|age={{birth date and age|df=y|2003|3|31}}|caps=8|goals=2|club=[[SC Freiburg]]|clubnat=GER}}
+{{nat fs g player|no=24|pos=FW|name=[[Marco Pašalić]]|age={{birth date and age|df=y|2000|9|14}}|caps=14|goals=1|club=[[Orlando City SC|Orlando City]]|clubnat=USA}}
+{{nat fs g player|no=26|pos=FW|name=[[Petar Musa]]|age={{birth date and age|df=y|1998|3|4}}|caps=11|goals=1|club=[[FC Dallas]]|clubnat=USA}}
+{{nat fs end}}

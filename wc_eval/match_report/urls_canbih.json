@@ -1,0 +1,16 @@
+[
+ {"name": "fifa_official", "source": "FIFA官方", "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/canada-bosnia-and-herzegovina-highlights-match-report", "tier": "1", "lang": "en"},
+ {"name": "ap_via_fortworth", "source": "美联社AP(经Fort Worth Report)", "url": "https://fortworthreport.org/2026/06/12/larin-scores-in-78th-minute-to-rally-canada-to-1-1-draw-with-bosnia-herzegovina-in-world-cup-opener/", "tier": "1", "lang": "en"},
+ {"name": "sky_sports", "source": "Sky Sports", "url": "https://www.skysports.com/football/canada-vs-bosnia-and-herzegovina/549768", "tier": "2", "lang": "en"},
+ {"name": "101greatgoals", "source": "101 Great Goals", "url": "https://www.101greatgoals.com/football/world-cup-news/world-cup-2026-canada-bosnia-herzegovina-report-result-goals/", "tier": "2", "lang": "en"},
+ {"name": "yardbarker", "source": "Yardbarker", "url": "https://www.yardbarker.com/cricket/articles/fifa_wc_2026_larin_rescues_canada_as_hosts_earn_first_world_cup_point_with_1_1_draw_vs_bosnia/s1_17725_43948286", "tier": "2", "lang": "en"},
+ {"name": "bbntimes", "source": "BBN Times", "url": "https://www.bbntimes.com/society/canada-vs-bosnia-and-herzegovina-larin-s-late-equaliser-secures-1-1-draw-in-tense-group-b-opener", "tier": "3", "lang": "en"},
+ {"name": "infobae_cronica", "source": "Infobae(crónica AP/EFE)", "url": "https://www.infobae.com/america/agencias/2026/06/12/cronica-del-canada-bosnia-y-herzegovina-1-1/", "tier": "2", "lang": "es"},
+ {"name": "telediario_cronica", "source": "Telediario MX(crónica)", "url": "https://www.telediario.mx/deportes/futbol-internacional/canada-vs-bosnia-herzegovina-mundial-2026-cronica-quien-gano", "tier": "3", "lang": "es"},
+ {"name": "tvn2", "source": "TVN-2 Panamá", "url": "https://www.tvn-2.com/tvmax/copa-mundial-fifa-2026/canada-vs-bosnia-y-herzegovina-mundial-2026-grupo-b-fifa-futbol-toronto_6_2245690.html", "tier": "3", "lang": "es"},
+ {"name": "netease_163", "source": "网易(163)", "url": "https://www.163.com/dy/article/KV9ERJRF0556DIOC.html", "tier": "3", "lang": "zh"},
+ {"name": "dongqiudi", "source": "懂球帝", "url": "https://m.dongqiudi.com/article/5927744.html", "tier": "3", "lang": "zh"},
+ {"name": "epochtimes", "source": "大纪元", "url": "https://www.epochtimes.com/gb/26/6/12/n14787475.htm", "tier": "3", "lang": "zh"},
+ {"name": "ntdtv", "source": "新唐人电视台", "url": "https://www.ntdtv.com/gb/2026/06/12/a104105534.html", "tier": "3", "lang": "zh"},
+ {"name": "sohu", "source": "搜狐", "url": "https://www.sohu.com/a/1035923534_180220", "tier": "3", "lang": "zh"}
+]

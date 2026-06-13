@@ -1,0 +1,551 @@
+[
+ {
+  "player_id": "526466",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/526466",
+  "name": "EliasSaad",
+  "shirt_number": 24,
+  "club": "Joined:",
+  "club_id": "42",
+  "market_value": "€2.00m",
+  "market_value_numeric": 2000000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Jun 30, 2029",
+  "nationality": "Germany",
+  "citizenships": [
+   "Germany",
+   "Germany",
+   "Tunisia",
+   "Tunisia",
+   "Germany",
+   "Tunisia",
+   "Germany"
+  ],
+  "market_value_history": [
+   {
+    "date": "Sep 10, 2021",
+    "value": "€50k",
+    "value_numeric": 50000,
+    "club": "Eintracht Norderstedt",
+    "age": "21"
+   },
+   {
+    "date": "Dec 28, 2021",
+    "value": "€50k",
+    "value_numeric": 50000,
+    "club": "Eintracht Norderstedt",
+    "age": "22"
+   },
+   {
+    "date": "Jun 23, 2022",
+    "value": "€75k",
+    "value_numeric": 75000,
+    "club": "Eintracht Norderstedt",
+    "age": "22"
+   },
+   {
+    "date": "Oct 6, 2022",
+    "value": "€100k",
+    "value_numeric": 100000,
+    "club": "Eintracht Norderstedt",
+    "age": "22"
+   },
+   {
+    "date": "Dec 29, 2022",
+    "value": "€250k",
+    "value_numeric": 250000,
+    "club": "Eintracht Norderstedt",
+    "age": "23"
+   },
+   {
+    "date": "Jun 28, 2023",
+    "value": "€550k",
+    "value_numeric": 550000,
+    "club": "FC St. Pauli",
+    "age": "23"
+   },
+   {
+    "date": "Oct 20, 2023",
+    "value": "€1.50m",
+    "value_numeric": 1500000,
+    "club": "FC St. Pauli",
+    "age": "23"
+   },
+   {
+    "date": "Dec 15, 2023",
+    "value": "€2.00m",
+    "value_numeric": 2000000,
+    "club": "FC St. Pauli",
+    "age": "23"
+   },
+   {
+    "date": "Mar 22, 2024",
+    "value": "€3.00m",
+    "value_numeric": 3000000,
+    "club": "FC St. Pauli",
+    "age": "24"
+   },
+   {
+    "date": "Jun 6, 2024",
+    "value": "€3.00m",
+    "value_numeric": 3000000,
+    "club": "FC St. Pauli",
+    "age": "24"
+   },
+   {
+    "date": "Oct 9, 2024",
+    "value": "€4.00m",
+    "value_numeric": 4000000,
+    "club": "FC St. Pauli",
+    "age": "24"
+   },
+   {
+    "date": "Dec 20, 2024",
+    "value": "€4.00m",
+    "value_numeric": 4000000,
+    "club": "FC St. Pauli",
+    "age": "24"
+   },
+   {
+    "date": "Jun 5, 2025",
+    "value": "€4.00m",
+    "value_numeric": 4000000,
+    "club": "FC St. Pauli",
+    "age": "25"
+   },
+   {
+    "date": "Dec 19, 2025",
+    "value": "€4.00m",
+    "value_numeric": 4000000,
+    "club": "FC Augsburg",
+    "age": "25"
+   },
+   {
+    "date": "Mar 13, 2026",
+    "value": "€2.50m",
+    "value_numeric": 2500000,
+    "club": "Hannover 96",
+    "age": "26"
+   },
+   {
+    "date": "Jun 1, 2026",
+    "value": "€2.00m",
+    "value_numeric": 2000000,
+    "club": "Hannover 96",
+    "age": "26"
+   }
+  ],
+  "peak_market_value": 4000000,
+  "transfers": [],
+  "_our_pid": "per_elias_saad"
+ },
+ {
+  "player_id": "290587",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/290587",
+  "name": "EllyesSkhiri",
+  "shirt_number": 15,
+  "club": "Joined:",
+  "club_id": "24",
+  "market_value": "€5.00m",
+  "market_value_numeric": 5000000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Social-Media:",
+  "nationality": "Germany",
+  "citizenships": [
+   "Germany",
+   "France",
+   "Tunisia",
+   "Tunisia",
+   "France",
+   "Tunisia",
+   "France"
+  ],
+  "market_value_history": [
+   {
+    "date": "Jul 7, 2015",
+    "value": "€150k",
+    "value_numeric": 150000,
+    "club": "Montpellier HSC",
+    "age": "20"
+   },
+   {
+    "date": "Feb 4, 2016",
+    "value": "€300k",
+    "value_numeric": 300000,
+    "club": "Montpellier HSC",
+    "age": "20"
+   },
+   {
+    "date": "Jul 13, 2016",
+    "value": "€800k",
+    "value_numeric": 800000,
+    "club": "Montpellier HSC",
+    "age": "21"
+   },
+   {
+    "date": "Nov 1, 2016",
+    "value": "€1.25m",
+    "value_numeric": 1250000,
+    "club": "Montpellier HSC",
+    "age": "21"
+   },
+   {
+    "date": "Jan 16, 2017",
+    "value": "€1.75m",
+    "value_numeric": 1750000,
+    "club": "Montpellier HSC",
+    "age": "21"
+   },
+   {
+    "date": "Jun 1, 2017",
+    "value": "€2.00m",
+    "value_numeric": 2000000,
+    "club": "Montpellier HSC",
+    "age": "22"
+   },
+   {
+    "date": "Oct 12, 2017",
+    "value": "€4.00m",
+    "value_numeric": 4000000,
+    "club": "Montpellier HSC",
+    "age": "22"
+   },
+   {
+    "date": "Jan 24, 2018",
+    "value": "€8.00m",
+    "value_numeric": 8000000,
+    "club": "Montpellier HSC",
+    "age": "22"
+   },
+   {
+    "date": "Jun 4, 2018",
+    "value": "€10.00m",
+    "value_numeric": 10000000,
+    "club": "Montpellier HSC",
+    "age": "23"
+   },
+   {
+    "date": "Dec 17, 2018",
+    "value": "€10.00m",
+    "value_numeric": 10000000,
+    "club": "Montpellier HSC",
+    "age": "23"
+   },
+   {
+    "date": "Jun 3, 2019",
+    "value": "€12.00m",
+    "value_numeric": 12000000,
+    "club": "Montpellier HSC",
+    "age": "24"
+   },
+   {
+    "date": "Dec 17, 2019",
+    "value": "€8.50m",
+    "value_numeric": 8500000,
+    "club": "1.FC Köln",
+    "age": "24"
+   },
+   {
+    "date": "Apr 8, 2020",
+    "value": "€6.80m",
+    "value_numeric": 6800000,
+    "club": "1.FC Köln",
+    "age": "24"
+   },
+   {
+    "date": "Feb 10, 2021",
+    "value": "€6.50m",
+    "value_numeric": 6500000,
+    "club": "1.FC Köln",
+    "age": "25"
+   },
+   {
+    "date": "Jun 9, 2021",
+    "value": "€10.00m",
+    "value_numeric": 10000000,
+    "club": "1.FC Köln",
+    "age": "26"
+   },
+   {
+    "date": "Oct 7, 2021",
+    "value": "€13.00m",
+    "value_numeric": 13000000,
+    "club": "1.FC Köln",
+    "age": "26"
+   },
+   {
+    "date": "Dec 22, 2021",
+    "value": "€13.00m",
+    "value_numeric": 13000000,
+    "club": "1.FC Köln",
+    "age": "26"
+   },
+   {
+    "date": "Jun 9, 2022",
+    "value": "€13.00m",
+    "value_numeric": 13000000,
+    "club": "1.FC Köln",
+    "age": "27"
+   },
+   {
+    "date": "Nov 9, 2022",
+    "value": "€13.00m",
+    "value_numeric": 13000000,
+    "club": "1.FC Köln",
+    "age": "27"
+   },
+   {
+    "date": "Jun 22, 2023",
+    "value": "€13.00m",
+    "value_numeric": 13000000,
+    "club": "1.FC Köln",
+    "age": "28"
+   },
+   {
+    "date": "Dec 14, 2023",
+    "value": "€13.00m",
+    "value_numeric": 13000000,
+    "club": "Eintracht Frankfurt",
+    "age": "28"
+   },
+   {
+    "date": "May 29, 2024",
+    "value": "€11.00m",
+    "value_numeric": 11000000,
+    "club": "Eintracht Frankfurt",
+    "age": "29"
+   },
+   {
+    "date": "Dec 20, 2024",
+    "value": "€9.00m",
+    "value_numeric": 9000000,
+    "club": "Eintracht Frankfurt",
+    "age": "29"
+   },
+   {
+    "date": "Jun 5, 2025",
+    "value": "€7.50m",
+    "value_numeric": 7500000,
+    "club": "Eintracht Frankfurt",
+    "age": "30"
+   },
+   {
+    "date": "Dec 19, 2025",
+    "value": "€6.00m",
+    "value_numeric": 6000000,
+    "club": "Eintracht Frankfurt",
+    "age": "30"
+   },
+   {
+    "date": "May 27, 2026",
+    "value": "€5.00m",
+    "value_numeric": 5000000,
+    "club": "Eintracht Frankfurt",
+    "age": "31"
+   }
+  ],
+  "peak_market_value": 13000000,
+  "transfers": [],
+  "_our_pid": "per_ellyes_skhiri"
+ },
+ {
+  "player_id": "607224",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/607224",
+  "name": "Hannibal",
+  "shirt_number": 28,
+  "club": "Joined:",
+  "club_id": "1132",
+  "market_value": "€15.00m",
+  "market_value_numeric": 15000000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Outfitter:",
+  "nationality": "England",
+  "citizenships": [
+   "England",
+   "France",
+   "Tunisia",
+   "Tunisia",
+   "France",
+   "Tunisia",
+   "France"
+  ],
+  "market_value_history": [
+   {
+    "date": "Jun 8, 2021",
+    "value": "€3.00m",
+    "value_numeric": 3000000,
+    "club": "Manchester United U23",
+    "age": "18"
+   },
+   {
+    "date": "Dec 23, 2021",
+    "value": "€5.00m",
+    "value_numeric": 5000000,
+    "club": "Manchester United U23",
+    "age": "18"
+   },
+   {
+    "date": "Jun 15, 2022",
+    "value": "€6.00m",
+    "value_numeric": 6000000,
+    "club": "Manchester United U23",
+    "age": "19"
+   },
+   {
+    "date": "Oct 27, 2022",
+    "value": "€6.00m",
+    "value_numeric": 6000000,
+    "club": "Birmingham City",
+    "age": "19"
+   },
+   {
+    "date": "Mar 24, 2023",
+    "value": "€8.00m",
+    "value_numeric": 8000000,
+    "club": "Birmingham City",
+    "age": "20"
+   },
+   {
+    "date": "Jun 1, 2023",
+    "value": "€8.00m",
+    "value_numeric": 8000000,
+    "club": "Manchester United",
+    "age": "20"
+   },
+   {
+    "date": "Oct 9, 2023",
+    "value": "€12.00m",
+    "value_numeric": 12000000,
+    "club": "Manchester United",
+    "age": "20"
+   },
+   {
+    "date": "Dec 19, 2023",
+    "value": "€12.00m",
+    "value_numeric": 12000000,
+    "club": "Manchester United",
+    "age": "20"
+   },
+   {
+    "date": "Jun 7, 2024",
+    "value": "€9.00m",
+    "value_numeric": 9000000,
+    "club": "Sevilla FC",
+    "age": "21"
+   },
+   {
+    "date": "Dec 30, 2024",
+    "value": "€9.00m",
+    "value_numeric": 9000000,
+    "club": "Burnley FC",
+    "age": "21"
+   },
+   {
+    "date": "May 27, 2025",
+    "value": "€12.00m",
+    "value_numeric": 12000000,
+    "club": "Burnley FC",
+    "age": "22"
+   },
+   {
+    "date": "Dec 9, 2025",
+    "value": "€14.00m",
+    "value_numeric": 14000000,
+    "club": "Burnley FC",
+    "age": "22"
+   },
+   {
+    "date": "Mar 9, 2026",
+    "value": "€16.00m",
+    "value_numeric": 16000000,
+    "club": "Burnley FC",
+    "age": "23"
+   },
+   {
+    "date": "Jun 3, 2026",
+    "value": "€15.00m",
+    "value_numeric": 15000000,
+    "club": "Burnley FC",
+    "age": "23"
+   }
+  ],
+  "peak_market_value": 16000000,
+  "transfers": [],
+  "_our_pid": "per_hannibal_mejbri"
+ },
+ {
+  "player_id": "1273985",
+  "profile_url": "https://www.transfermarkt.us/spieler/profil/spieler/1273985",
+  "name": "RayanElloumi",
+  "shirt_number": 19,
+  "club": "Joined:",
+  "club_id": "6321",
+  "market_value": "€800k",
+  "market_value_numeric": 800000,
+  "birth_date": "Height:",
+  "height": "Citizenship:",
+  "citizenship": [
+   "Position:"
+  ],
+  "position": "Foot:",
+  "foot": "Player agent:",
+  "contract_joined": "Contract expires:",
+  "contract_expires": "Social-Media:",
+  "nationality": "United States",
+  "citizenships": [
+   "United States",
+   "Canada",
+   "Tunisia",
+   "Tunisia",
+   "Canada",
+   "Tunisia",
+   "Canada"
+  ],
+  "market_value_history": [
+   {
+    "date": "Dec 11, 2025",
+    "value": "€300k",
+    "value_numeric": 300000,
+    "club": "Vancouver Whitecaps FC",
+    "age": "18"
+   },
+   {
+    "date": "Apr 7, 2026",
+    "value": "€600k",
+    "value_numeric": 600000,
+    "club": "Vancouver Whitecaps FC",
+    "age": "18"
+   },
+   {
+    "date": "Jun 2, 2026",
+    "value": "€800k",
+    "value_numeric": 800000,
+    "club": "Vancouver Whitecaps FC",
+    "age": "18"
+   }
+  ],
+  "peak_market_value": 800000,
+  "transfers": [],
+  "_our_pid": "per_rayan_elloumi"
+ }
+]

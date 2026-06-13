@@ -1,0 +1,31 @@
+{
+ "team": "IRQ",
+ "coach": {
+  "name_zh": "格雷厄姆·阿诺德",
+  "name_en": "Graham Arnold",
+  "nationality": "Australia",
+  "career_since": "1989",
+  "person_id": "per_graham_arnold"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 格雷厄姆·阿诺德（Graham Arnold），澳大利亚籍，1989年起执教，现任伊拉克国家队主帅，正率队征战40年来首届世界杯（2026）。\n\n- 作为前澳大利亚队主教练，阿诺德确立了\"极度勤奋、结构严密\"的战术风格，强调纪律性集体主义与结构化防守体系。\n\n- 26人世界杯名单经34人初选后确定：队长门将贾拉勒·哈桑伤愈回归，美职联纳什维尔FC中场艾哈迈德·卡塞姆零入选经验入围；拜仁小将优素福·纳斯拉维与边锋蒙塔德尔·马吉德落选。\n\n- 阵容融合海外战术经验与本土动力型球员，核心包括前锋艾曼·侯赛因（头号得分点）、中场指挥官阿米尔·阿尔-阿马里与边路爆点阿里·贾西姆。\n\n- 热身赛1-0胜安道尔后，十人伊拉克0-2负委内瑞拉；世界杯小组赛I组将先后对阵挪威（6月16日波士顿）、法国（6月22日费城）与塞内加尔（6月26日多伦多）。\n\n- 球队承载国内极高期望，阿诺德需在首战挪威前验证其\"紧密团结、极具韧性\"的阵容能否抵御哈兰德与厄德高领衔的顶级攻击线。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.95,
+  "issues": []
+ },
+ "brief_fetched": "2026-06-13_1750",
+ "brief_info_chars": 4941,
+ "coach_xverify": {
+  "canonical": "Graham Arnold",
+  "confidence": "high",
+  "discrepancy": "",
+  "sources_agree": 7,
+  "n_sources": 8
+ }
+}

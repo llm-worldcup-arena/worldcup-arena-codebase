@@ -1,0 +1,35 @@
+{
+ "team": "MEX",
+ "coach": {
+  "name_zh": "哈维尔·阿吉雷",
+  "name_en": "Javier Aguirre",
+  "nationality": "Mexico",
+  "career_since": "1995",
+  "person_id": "per_javier_aguirre"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "墨西哥主帅阿吉雷面临伤病危机：阿尔瓦雷斯、蒙特斯、查韦斯、维加四名主力出战成疑。配备全套医疗团队跟进6-7名手术球员康复，坚持\"必须100%状态才能入选\"原则，奇凯特已确认无缘。若伤员无法恢复，阿吉雷需紧急调整战术阵型，医疗团队全力冲刺确保主力赶上6月11日对阵南非的开幕战。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": true,
+  "need_fix": true,
+  "keep_ratio": 0.75,
+  "issues": [
+   "含教练生涯历史背景",
+   "365计划细节冗余",
+   "2026年时间存疑"
+  ]
+ },
+ "brief_fetched": "2026-06-13_1750",
+ "brief_info_chars": 6000,
+ "coach_xverify": {
+  "canonical": "Javier Aguirre",
+  "confidence": "high",
+  "discrepancy": "",
+  "sources_agree": 2,
+  "n_sources": 4
+ }
+}

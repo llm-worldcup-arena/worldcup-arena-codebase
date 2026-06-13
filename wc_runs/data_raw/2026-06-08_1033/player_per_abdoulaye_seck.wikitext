@@ -1,0 +1,291 @@
+{{Short description|Senegalese footballer (born 1992)}}
+{{Use dmy dates|date=January 2022}}
+{{Infobox football biography
+| name = Abdoulaye Seck
+| image = Abdoulaye Seck.jpg
+| fullname = 
+| birth_date = {{birth date and age|df=yes|1992|6|4}}
+| birth_place = [[M'Bour]], Senegal
+| height = 1.92 m
+| position = [[Centre-back]]
+| currentclub = [[Maccabi Haifa F.C.|Maccabi Haifa]]
+| clubnumber = 30
+| years1 = 2010
+| clubs1 = [[Stade de Mbour]]
+| caps1 = 
+| goals1 = 
+| years2 = 2010–2012
+| clubs2 = [[Mbour Petite-Côte FC|Touré Kunda]]
+| caps2 = 
+| goals2 = 
+| years3 = 2012–2013
+| clubs3 = [[Casa Sports]]
+| caps3 = 
+| goals3 = 
+| years4 = 2013–2014
+| clubs4 = [[Diambars FC|Diambars]]
+| caps4 = 
+| goals4 = 
+| years5 = 2014
+| clubs5 = → [[Hønefoss BK|Hønefoss]] (loan)
+| caps5 = 11
+| goals5 = 2
+| years6 = 2015
+| clubs6 = [[Hønefoss BK|Hønefoss]]
+| caps6 = 24
+| goals6 = 4
+| years7 = 2016–2018
+| clubs7 = [[Sandefjord Fotball|Sandefjord]]
+| caps7 = 55
+| goals7 = 3
+| years8 = 2018–2022
+| clubs8 = [[Royal Antwerp F.C.|Antwerp]]
+| caps8 = 76
+| goals8 = 6
+| years9 = 2022–
+| clubs9 = [[Maccabi Haifa F.C.|Maccabi Haifa]]
+| caps9 = 85
+| goals9 = 5
+| totalcaps = 
+| totalgoals = 
+| nationalyears1 = 2013–
+| nationalteam1 = [[Senegal national football team|Senegal]]
+| nationalcaps1 = 21
+| nationalgoals1 = 3
+| club-update = 27 June 2025
+| nationalteam-update = 30 December 2025
+| medaltemplates = {{Medal|Sport|Men's [[Association football|football]]}}
+{{Medal|Country|{{fb| SEN}}}}
+{{Medal|Competition|[[Africa Cup of Nations]]}}
+{{Medal|W|[[2021 Africa Cup of Nations|2021 Cameroon]]|}}
+{{Medal|RU|[[2025 Africa Cup of Nations|2025 Morocco]]|}}
+| image_size = 
+| caption = Seck with [[Senegal national football team|Senegal]] at the [[2023 Africa Cup of Nations]]
+}}
+'''Abdoulaye Seck''' (born 4 June 1992) is a Senegalese professional [[association football|footballer]] who plays as a [[centre-back]] for [[Israeli Premier League]] club [[Maccabi Haifa F.C.|Maccabi Haifa]] and the [[Senegal national football team|Senegal national team]].<ref name="sw">{{cite web|title=A. Seck|url=https://int.soccerway.com/players/abdoulaye-seck/352419/|website=soccerway.com|publisher=Soccerway|accessdate=17 May 2023}}</ref>
+
+Seck was part of [[2021 Africa Cup of Nations squads#Senegal|Senegal's squad]] for the [[2021 Africa Cup of Nations]]; the Lions of Teranga went on to win the tournament for the first time in their history.<ref>{{cite web|url=https://www.cafonline.com/total-africa-cup-of-nations/news/cisse-unveils-senegal-squad-hopes-for-elusive-totalenergies-afcon-title|title=Cisse unveils Senegal squad, hopes for elusive TotalEnergies AFCON title|publisher=[[Confederation of African Football]]|date=25 December 2021|access-date=28 March 2023|archive-date=9 January 2022|archive-url=https://web.archive.org/web/20220109145849/https://www.cafonline.com/total-africa-cup-of-nations/news/cisse-unveils-senegal-squad-hopes-for-elusive-totalenergies-afcon-title|url-status=live}}</ref><ref>{{cite web |title=Senegal 0-0 Egypt |url=https://www.bbc.co.uk/sport/football/60186276 |website=[[BBC Sport]] |access-date=28 March 2023 |date=7 February 2022}}</ref>
+
+He was appointed a [[National Order of the Lion|Grand Officer of the National Order of the Lion]] by [[President of Senegal]] [[Macky Sall]] following the nation's victory at the tournament.<ref name= "reuters">{{cite web |title=Cash prizes, real estate, and highest honours as Senegal celebrates Nations Cup heroes |url=https://www.reuters.com/lifestyle/sports/cash-prizes-real-estate-highest-honours-senegal-celebrates-nations-cup-heroes-2022-02-08/ |website=[[Reuters]] |access-date=28 March 2023 |date=8 February 2022}}</ref>
+
+==International career==
+Seck made his debut for [[Senegal national football team|Senegal]] as a substitute in a 2–0 [[2021 Africa Cup of Nations qualification|Africa Cup of Nations qualifier]] against [[Congo national football team|Congo]].<ref>{{cite web|url=https://www.voetbalkrant.com/nieuws/2021-03-26/abdoulaye-seck-maakt-zijn-debuut-voor-senegal-tegen-ploeggenoot|title=Abdoulaye Seck maakt zijn debuut voor Senegal tegen ploeggenoot|language=Dutch|access-date=29 December 2023|date=21 March 2021|website=Voetbalkrant}}</ref>
+
+In December 2023, he was named in Senegal's squad for the postponed [[2023 Africa Cup of Nations]] held in the [[Ivory Coast]].<ref>{{cite web|url=https://www.bbc.com/sport/africa/67840713|title=Afcon 2023: Senegal and Sadio Mane set for defence of title|date=29 December 2023|access-date=29 December 2023|work=BBC Sport Africa}}</ref>
+
+== Career statistics ==
+===Club===
+{{updated|match played 30 November 2023}}<ref name="sw"/><ref>{{cite web|title=Abdoulaye Seck|url=http://www.nifs.no/personprofil.php?person_id=122553|website=nifs.no|publisher=nifs|accessdate=25 September 2017}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!rowspan="2"|Division
+!colspan="2"|League
+!colspan="2"|Cup
+!colspan="2"|Europe
+!colspan="2"|Total
+|-
+!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="3"|[[Hønefoss BK|Hønefoss]]
+|[[2014 Norwegian First Division|2014]]
+|rowspan="2"|[[Norwegian First Division|1. divisjon]]
+|11||2||0||0||colspan="2"|-||11||2
+|-
+|[[2015 Norwegian First Division|2015]]
+|24||4||3||0||colspan="2"|-||27||4
+|-
+!colspan="2"|Total
+!35!!6!!3!!0!!0!!0!!38!!6
+|-
+|rowspan="4"|[[Sandefjord Fotball|Sandefjord]]
+|[[2016 Norwegian First Division|2016]]
+|1. divisjon
+|21||0||4||1||colspan="2"|-||25||1
+|-
+|[[2017 Sandefjord Fotball season|2017]]
+|rowspan="2"|[[Eliteserien (football)|Eliteserien]]
+|28||3||2||0||colspan="2"|-||30||3
+|-
+|[[2018 Sandefjord Fotball season|2018]]
+|6||0||0||0||colspan="2"|-||6||0
+|-
+!colspan="2"|Total
+!55!!3!!6!!1!!0!!0!!61!!4
+|-
+|rowspan="5"|[[Royal Antwerp F.C.|Royal Antwerp]]
+|[[2018–19 Belgian First Division A|2018–19]]
+|rowspan="4"|[[Belgian First Division A]]
+|2||0||1||0||colspan="2"|-||3||0
+|-
+|[[2019–20 Belgian First Division A|2019–20]]
+|13||0||2||0||3||0||18||0
+|-
+|[[2020–21 Belgian First Division A|2020–21]]
+|37||4||3||0||6||0||46||4
+|-
+|[[2021–22 Belgian First Division A|2021–22]]
+|24||2||1||0||2||0||27||2
+|-
+!colspan="2"|Total
+!76!!6!!7!!0!!11!!0!!94!!6
+|-
+|rowspan="3"|[[Maccabi Haifa F.C.|Maccabi Haifa]]
+|[[2022–23 Israeli Premier League|2022–23]]
+|rowspan="2"|[[Israeli Premier League]]
+|28||3||3||1||6||2||37||6
+|-
+|[[2023–24 Israeli Premier League|2023–24]]
+|6||1||0||0||12||1||18||2
+|-
+!colspan="2"|Total
+!34!!4!!3!!1!!18!!3!!55!!8
+|-
+!colspan="3"|Career total
+!200!!19!!19!!2!!29!!3!!245!!24
+|}
+
+===International===
+{{Updated|match played 18 January 2026}}<ref>{{NFT player|52942|access-date=22 February 2026}}</ref>
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+|-
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="6"|[[Senegal national football team|Senegal]]
+|2013||2||0
+|-
+|2021||3||0
+|-
+|2023||3||1
+|-
+|2024||8||1
+|-
+|2025||5||1
+|-
+|2026||2||0
+|-
+!colspan="2"|Total
+!23!!3
+|}
+
+:''Scores and results list Senegal's goal tally first, score column indicates score after each Seck goal.''
+{| class="wikitable sortable"
+|+ List of international goals scored by Abdoulaye Seck
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+!scope="col" class="unsortable"|{{Abbr|Ref.|Reference}}
+|-
+|style="text-align:center"|1
+|{{dts|17 June 2023}}
+|[[Stade de l'Amitié]], [[Cotonou]], Benin
+|{{fb|BEN}}
+|rowspan=4 style="text-align:center"|1–0
+|style="text-align:center"|1–1
+|[[2023 Africa Cup of Nations qualification Group L|2023 Africa Cup of Nations qualification]]
+|<ref>{{Cite web|title=Benin vs. Senegal|url=https://www.national-football-teams.com/matches/report/36943/Benin_Senegal.html|website=National Football Teams|access-date=22 February 2026}}</ref>
+|-
+|style="text-align:center"|2
+|{{dts|23 January 2024}}
+|[[Charles Konan Banny Stadium]], [[Yamoussoukro]], Ivory Coast
+|{{fb|GUI}}
+|style="text-align:center"|2–0
+|[[2023 Africa Cup of Nations Group C|2023 Africa Cup of Nations]]
+|<ref>{{Cite web|title=Guinea vs. Senegal|url=https://www.national-football-teams.com/matches/report/38159/Guinea_Senegal.html|website=National Football Teams|access-date=22 February 2026}}</ref>
+|-
+|style="text-align:center"|3
+|{{dts|30 December 2025}}
+|[[Tangier Grand Stadium]], [[Tangier]], Morocco
+|{{fb|BEN}}
+|style="text-align:center"|3–0
+|[[2025 Africa Cup of Nations Group D|2025 Africa Cup of Nations]]
+|<ref>{{Cite web|title=Benin vs. Senegal|url=https://www.national-football-teams.com/matches/report/43039/Benin_Senegal.html|website=National Football Teams|access-date=22 February 2026}}</ref>
+|-
+|style="text-align:center"|4
+|{{dts|31 March 2026}}
+|[[Diamniadio Olympic Stadium]], [[Diamniadio]], Senegal
+|{{fb|GAM}}
+|style="text-align:center"|3–1
+|[[Exhibition game#Association football|Friendly]]
+|
+|}
+
+==Honours==
+'''Royal Antwerp'''
+*[[Belgian Cup]]: [[2019–20 Belgian Cup|2019–20]]{{Citation needed|date=January 2022}}
+
+'''Maccabi Haifa'''
+* [[Israeli Premier League]]: [[2022–23 Israeli Premier League|2022–23]]
+* [[Israel Super Cup]]: [[2023 Israel Super Cup|2023]]
+
+'''Senegal'''
+*[[Africa Cup of Nations]]: [[2021 Africa Cup of Nations|2021]]<ref>{{cite news|url=https://www.si.com/soccer/liverpool/news/africa-cup-of-nations-senegal-beat-egypt-to-win-final-afcon|title=Africa Cup Of Nations: Senegal Beat Egypt To Win Final (AFCON)|publisher=Sports Illustrated|date=6 February 2022|access-date=6 February 2022}}</ref>
+
+'''Individual'''
+* Israeli Premier League Best Foreign Player: 2022–23
+
+'''Orders'''
+*[[National Order of the Lion|Grand Officer of the National Order of the Lion]]: 2022<ref name="reuters" />
+
+==References==
+{{reflist}}
+{{commons category}}
+
+{{Maccabi Haifa F.C. squad}}
+{{Navboxes
+| title = Senegal squads
+| bg = #00853F
+| fg = #FDEF42
+| bordercolor = red
+| list1 = 
+{{Senegal squad 2021 Africa Cup of Nations}}
+{{Senegal squad 2023 Africa Cup of Nations}}
+{{Senegal squad 2025 Africa Cup of Nations}}
+{{Senegal squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Seck, Abdoulaye}}
+[[Category:1992 births]]
+[[Category:Living people]]
+[[Category:Senegalese men's footballers]]
+[[Category:21st-century Senegalese sportsmen]]
+[[Category:People from M'Bour]]
+[[Category:Sportspeople from Thiès region]]
+[[Category:Stade de Mbour players]]
+[[Category:Mbour Petite-Côte FC players]]
+[[Category:Casa Sports players]]
+[[Category:Diambars FC players]]
+[[Category:Hønefoss BK players]]
+[[Category:Sandefjord Fotball players]]
+[[Category:Royal Antwerp FC players]]
+[[Category:Maccabi Haifa F.C. players]]
+[[Category:Eliteserien players]]
+[[Category:Norwegian First Division players]]
+[[Category:Belgian Pro League players]]
+[[Category:Israeli Premier League players]]
+[[Category:2021 Africa Cup of Nations players]]
+[[Category:2023 Africa Cup of Nations players]]
+[[Category:2025 Africa Cup of Nations players]]
+[[Category:Senegalese expatriate men's footballers]]
+[[Category:Expatriate men's footballers in Norway]]
+[[Category:Expatriate men's footballers in Belgium]]
+[[Category:Expatriate men's footballers in Israel]]
+[[Category:Senegalese expatriate sportspeople in Norway]]
+[[Category:Senegalese expatriate sportspeople in Belgium]]
+[[Category:Senegalese expatriate sportspeople in Israel]]
+[[Category:Men's association football defenders]]
+[[Category:Senegal men's international footballers]]
+[[Category:Africa Cup of Nations–winning players]]
+[[Category:Recipients of orders, decorations, and medals of Senegal]]
+[[Category:2026 FIFA World Cup players]]
+
+
+{{Senegal-footy-bio-stub}}

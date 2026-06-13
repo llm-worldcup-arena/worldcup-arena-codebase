@@ -1,0 +1,16 @@
+{
+ "team": "URU",
+ "source": "Dailysports",
+ "url": "https://dailysports.net/news/uruguay-midfielder-suffers-injury-and-will-miss-the-2026-world-cup/",
+ "title": "Uruguay midfielder suffers injury and will miss the 2026 World Cup | Dailysports",
+ "news_date": "2026-06-10",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "asof": "2026-06-10",
+ "fetched": "2026-06-13_0748",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Uruguay midfielder suffers injury and will miss the 2026 World Cup\nA major blow for the national team.\nUruguay are set to begin their 2026 FIFA World Cup campaign in the coming days, but the team has suffered a significant setback on the eve of the tournament with the loss of an important player.\nDetails: According to reports from Gonzalo Ronchi, midfielder Giorgian de Arrascaeta has sustained an injury that will keep him sidelined for the next several weeks, ruling him out of the 2026 World Cup.\nDe Arrascaeta is a key player for Clube de Regatas do Flamengo. This season, he has made 23 appearances, scoring nine goals and providing five assists.\nMeanwhile, William Saliba could also be sidelined for the coming weeks. The central defender is still experiencing pain, and his condition has become a source of serious concern for the French Football Federation just days before the start of the World Cup.\nReminder: The Argentine superstar will miss the national team's upcoming match due to health concerns. The fixture is a friendly against Honduras.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

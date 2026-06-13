@@ -1,0 +1,34 @@
+{
+ "team": "ARG",
+ "coach": {
+  "name_zh": "利昂内尔·斯卡洛尼",
+  "name_en": "Lionel Scaloni",
+  "nationality": "Argentina",
+  "career_since": "2018",
+  "person_id": "per_lionel_scaloni"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 利昂内尔·斯卡洛尼自2018年临时接任阿根廷国家队主帅，终结了此前主帅频繁更迭的动荡期，为球队建立起稳定身份认同与战术体系。\n\n- 他率队夺得2024年美洲杯冠军（梅西决赛中伤退），若2026年世界杯卫冕成功，将成为继1934-1938年意大利主帅波佐之后首位连夺世界杯的教练。\n\n- 斯卡洛尼以谨慎的球员负荷管理著称，曾多次安排梅西轮休，2026年世界杯前持续监控其腿筋肌肉疲劳伤势，同时意外弃用皇马18岁新星弗兰科·马斯坦托诺。\n\n- 2026年世界杯阿根廷与阿尔及利亚、奥地利、约旦同处J组，6月6日和9日将分别与洪都拉斯、冰岛进行最后热身，为卫冕做最后调试。\n\n- 热刺后卫马科斯·塞内西递补入选世界杯26人名单，替代右腿肌肉受伤的巴列尔迪，这位拥有意大利血统的后卫曾同时收到两国征召，最终选择代表阿根廷。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.88,
+  "issues": [
+   "2024美洲杯历史信息关联弱",
+   "波佐历史对比略显冗余"
+  ]
+ },
+ "brief_fetched": "2026-06-13_1750",
+ "brief_info_chars": 6000,
+ "coach_xverify": {
+  "canonical": "Lionel Scaloni",
+  "confidence": "high",
+  "discrepancy": "",
+  "sources_agree": 6,
+  "n_sources": 8
+ }
+}

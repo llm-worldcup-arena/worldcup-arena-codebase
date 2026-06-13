@@ -1,0 +1,35 @@
+===Current squad===
+The following 26 players have been called up for the [[2026 FIFA World Cup]].<ref>{{cite web|url=https://www.svenskfotboll.se/nyheter/landslag/2026/05/potters-vm-trupp-offentliggjord/|title=Potters VM-trupp offentliggjord|trans-title=Potter's World Cup squad announced|language=Swedish|publisher=[[Swedish Football Association]]|date=12 May 2026|access-date=12 May 2026}}</ref>
+<br>''Caps and goals are correct as of 4 June 2026, after the match against [[Greece national football team|Greece]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Jacob Widell Zetterström]]|age={{Birth date and age|1998|7|11|df=y}}|caps=3|goals=0|club=[[Derby County F.C.|Derby County]]|clubnat=ENG}}
+{{nat fs g player|no=12|pos=GK|name=[[Viktor Johansson]]|age={{Birth date and age|1998|9|14|df=y}}|caps=12|goals=0|club=[[Stoke City F.C.|Stoke City]]|clubnat=ENG}}
+{{nat fs g player|no=23|pos=GK|name=[[Kristoffer Nordfeldt]]|age={{Birth date and age|1989|6|23|df=y}}|caps=21|goals=0|club=[[AIK Fotboll|AIK]]|clubnat=SWE}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Gustaf Lagerbielke (footballer)|Gustaf Lagerbielke]]|age={{Birth date and age|2000|4|10|df=y}}|caps=11|goals=2|club=[[S.C. Braga|Braga]]|clubnat=POR}}
+{{nat fs g player|no=3|pos=DF|name=[[Victor Lindelöf]]|other=[[Captain (association football)|captain]]|age={{Birth date and age|1994|7|17|df=y}}|caps=76|goals=3|club=[[Aston Villa F.C.|Aston Villa]]|clubnat=ENG}}
+{{nat fs g player|no=4|pos=DF|name=[[Isak Hien]]|other=[[Captain (association football)#Vice-captain|vice-captain]]|age={{Birth date and age|1999|1|13|df=y}}|caps=29|goals=0|club=[[Atalanta BC|Atalanta]]|clubnat=ITA}}
+{{nat fs g player|no=5|pos=DF|name=[[Gabriel Gudmundsson]]|age={{Birth date and age|1999|4|29|df=y}}|caps=24|goals=0|club=[[Leeds United F.C.|Leeds United]]|clubnat=ENG}}
+{{nat fs g player|no=6|pos=DF|name=[[Herman Johansson]]|age={{Birth date and age|1997|10|16|df=y}}|caps=3|goals=0|club=[[FC Dallas]]|clubnat=USA}}
+{{nat fs g player|no=8|pos=DF|name=[[Daniel Svensson (footballer, born 2002)|Daniel Svensson]]|age={{Birth date and age|2002|2|12|df=y}}|caps=13|goals=0|club=[[Borussia Dortmund]]|clubnat=GER}}
+{{nat fs g player|no=14|pos=DF|name=[[Hjalmar Ekdal]]|age={{Birth date and age|1998|10|21|df=y}}|caps=13|goals=0|club=[[Burnley F.C.|Burnley]]|clubnat=ENG}}
+{{nat fs g player|no=15|pos=DF|name=[[Carl Starfelt]]|age={{Birth date and age|1995|6|1|df=y}}|caps=18|goals=0|club=[[RC Celta de Vigo|Celta Vigo]]|clubnat=ESP}}
+{{nat fs g player|no=20|pos=DF|name=[[Eric Smith (Swedish footballer)|Eric Smith]]|age={{Birth date and age|1997|1|8|df=y}}|caps=2|goals=0|club=[[FC St. Pauli]]|clubnat=GER}}
+{{nat fs g player|no=24|pos=DF|name=[[Elliot Stroud]]|age={{Birth date and age|2002|6|22|df=y}}|caps=1|goals=0|club=[[Mjällby AIF]]|clubnat=SWE}}
+{{nat fs break}}
+{{nat fs g player|no=7|pos=MF|name=[[Lucas Bergvall]]|age={{Birth date and age|2006|2|2|df=y}}|caps=10|goals=0|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG}}
+{{nat fs g player|no=10|pos=MF|name=[[Benjamin Nygren]]|age={{Birth date and age|2001|7|8|df=y}}|caps=11|goals=3|club=[[Celtic F.C.|Celtic]]|clubnat=SCO}}
+{{nat fs g player|no=13|pos=MF|name=[[Ken Sema]]|age={{Birth date and age|1993|9|30|df=y}}|caps=33|goals=5|club=[[Pafos FC|Pafos]]|clubnat=CYP}}
+{{nat fs g player|no=16|pos=MF|name=[[Jesper Karlström]]|age={{Birth date and age|1995|6|21|df=y}}|caps=25|goals=0|club=[[Udinese Calcio|Udinese]]|clubnat=ITA}}
+{{nat fs g player|no=18|pos=MF|name=[[Yasin Ayari]]|age={{Birth date and age|2003|10|6|df=y}}|caps=21|goals=3|club=[[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]|clubnat=ENG}}
+{{nat fs g player|no=19|pos=MF|name=[[Mattias Svanberg]]|age={{Birth date and age|1999|1|5|df=y}}|caps=41|goals=2|club=[[VfL Wolfsburg]]|clubnat=GER}}
+{{nat fs g player|no=21|pos=MF|name=[[Alexander Bernhardsson]]|age={{Birth date and age|1998|9|8|df=y}}|caps=11|goals=0|club=[[Holstein Kiel]]|clubnat=GER}}
+{{nat fs g player|no=22|pos=MF|name=[[Besfort Zeneli]]|age={{Birth date and age|2002|11|21|df=y}}|caps=8|goals=0|club=[[Royale Union Saint-Gilloise|Union Saint-Gilloise]]|clubnat=BEL}}
+{{nat fs break}}
+{{nat fs g player|no=9|pos=FW|name=[[Alexander Isak]]|age={{Birth date and age|1999|9|21|df=y}}|caps=58|goals=17|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs g player|no=11|pos=FW|name=[[Anthony Elanga]]|age={{Birth date and age|2002|4|27|df=y}}|caps=30|goals=6|club=[[Newcastle United F.C.|Newcastle United]]|clubnat=ENG}}
+{{nat fs g player|no=17|pos=FW|name=[[Viktor Gyökeres]]|age={{Birth date and age|1998|6|4|df=y}}|caps=33|goals=20|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs g player|no=25|pos=FW|name=[[Gustaf Nilsson (footballer, born 1997)|Gustaf Nilsson]]|age={{Birth date and age|1997|5|23|df=y}}|caps=10|goals=4|club=[[Club Brugge KV|Club Brugge]]|clubnat=BEL}}
+{{nat fs g player|no=26|pos=FW|name=[[Taha Ali]]|age={{Birth date and age|1998|7|1|df=y}}|caps=2|goals=0|club=[[Malmö FF]]|clubnat=SWE}}
+{{nat fs end}}

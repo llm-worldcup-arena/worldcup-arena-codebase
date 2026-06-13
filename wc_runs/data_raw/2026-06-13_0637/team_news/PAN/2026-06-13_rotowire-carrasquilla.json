@@ -1,0 +1,16 @@
+{
+ "team": "PAN",
+ "source": "RotoWire",
+ "url": "https://www.rotowire.com/soccer/headlines/adalberto-carrasquilla-injury-spotted-in-running-shoes-518733",
+ "title": "Adalberto Carrasquilla Injury: Spotted in running shoes | RotoWire",
+ "news_date": "2026-06-13",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "asof": "2026-06-13",
+ "fetched": "2026-06-13_0637",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "Carrasquilla (groin) was spotted with the Panama squad wearing running shoes as he continues his recovery from the injury he suffered in his final club match with Pumas, with the coaching staff maintaining a cautious approach ahead of the World Cup opener against Ghana on June 17, the Panama federation posted.\n\nCarrasquilla remains on a differentiated training program and has not yet rejoined the full group, with coach Thomas Christiansen confirming he is following a specific recovery plan. The Panama squad will monitor his condition closely over the coming days before making any decisions on his availability for what promises to be the most important fixture in the nation's recent football history.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

@@ -1,0 +1,16 @@
+{
+ "team": "GHA",
+ "source": "FOX Sports",
+ "url": "https://www.foxsports.com/stories/soccer/visa-denial-sidelines-thomas-partey-for-ghanas-world-cup-opener-against-panama-in-toronto",
+ "title": "Visa Denial Sidelines Thomas Partey For Ghana's World Cup Opener Against Panama | FOX Sports",
+ "news_date": "2026-06-13",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-13",
+ "fetched": "2026-06-13_0637",
+ "method": "jsonld:articleBody",
+ "status": "ok",
+ "original_text": "Ghana midfielder Thomas Partey will not play in his team's World Cup opener Wednesday after Canada denied his visa application while he awaits trial in London on multiple charges of rape. FIFA said Friday in a statement that the 32-year-old Partey won’t be able to travel from his team's base camp in Smithfield, Rhode Island, for Ghana's opening match with Panama in Toronto. \"His visa application has been refused by the Canadian government,\" the governing body of world soccer said. \"FIFA is not involved in the immigration processes of host countries, including the adjudication of visas. As with previous FIFA events, the host government ultimately determines who receives a visa and is admitted into the country.\" Immigration, Refugees and Citizenship Canada did not immediately respond to an email seeking comment. Nor did the Ghana soccer association. Partey was traveling back to Ghana's base camp in Rhode Island after his visa denial. He will be able to play June 23 when Ghana plays England in Foxborough, Massachusetts. Ghana concludes group play June 27 against Croatia in Philadelphia. Partey is scheduled to stand trial in November or later on allegations dating to his time with English club Arsenal from 2020-25. Partey, who now plays in Spain for Villarreal, has pleaded not guilty. A second World Cup player, Morocco defender Achraf Hakimi, is awaiting trial on similar charges in Paris. Ghana is making its fifth appearance in the last six World Cups. Reporting by the Associated Press.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

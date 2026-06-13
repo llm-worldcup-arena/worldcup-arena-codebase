@@ -1,0 +1,67 @@
+{{short description|Jordanian footballer}}
+{{Infobox football biography
+| name = Saleem Obaid
+| image = Sepahan and Al-Hussein Jordan football teams meet 21 (2025) esfahanzibaonline.ir (cropped2).jpg
+| caption = Obaid with [[Al-Hussein SC (Irbid)|Al-Hussein]] in 2025
+| fullname = Saleem Amer Obaid
+| birth_date = {{birth date and age|mf=y|1992|01|17}}
+| birth_place = [[Amman]], Jordan
+| height = 1.85m
+| currentclub = [[Al-Hussein SC (Irbid)|Al-Hussein]]
+| clubnumber = 21
+| position = [[Defender (association football)|Left back]]
+| youthyears1 = 
+| youthclubs1 = [[Al-Ahli SC (Amman)|Al-Ahli]]
+| years1 = 2011–2018
+| clubs1 = [[Al-Ahli SC (Amman)|Al-Ahli]]<ref>{{cite web|url=http://jo.gitsport.net/?p=15989|title=الأهلي يتجه إلى الدوحة لمواجهة الجيش السوري اسيوياً! |publisher=gitsport.net}}</ref>
+| years2 = 2018–2021
+| clubs2 = [[Al-Wehdat SC|Al-Wehdat]]
+| years3 = 2021–2022
+| clubs3 = [[Sahab SC|Sahab]]
+| years4 = 2022–2023
+| clubs4 = [[Shabab Al-Ordon SC|Shabab Al-Ordon]]
+| years5 = 2023–
+| clubs5 = [[Al-Hussein SC (Irbid)|Al-Hussein]]
+| nationalyears1 = 2019–
+| nationalteam1 = [[Jordan national football team|Jordan]]
+| nationalcaps1 = 8
+| nationalgoals1 = 0
+| pcupdate = 
+| ntupdate = 9 December 2025
+| medaltemplates = {{MedalCountry|{{fb|JOR}}}}
+{{MedalSport|Men's [[association football|football]]}}
+{{MedalCompetition|[[FIFA Arab Cup]]}}
+{{Medal|RU|[[2025 FIFA Arab Cup|2025 Qatar]]|[[2025 FIFA Arab Cup squads#Jordan|Team]]}}
+}}
+
+'''Saleem Amer Obaid''' ({{langx|ar|سَلِيم عَامِر عُبَيْد}}; born January 17, 1992) is a [[Jordan]]ian [[football (soccer)|footballer]] who plays as a [[Defender (association football)|left back]] for [[Jordanian Pro League]] side  [[Al-Hussein SC (Irbid)|Al-Hussein]] and the [[Jordan national football team|Jordan national team]].
+
+==International==
+He made his debut for the [[Jordan national football team]] on 23 March 2019 in a [[2019 International Friendship Championship]] game against Syria, as a starter.<ref>{{cite web|publisher=WorldFootball|url=https://www.worldfootball.net/match-report/ma8877971/lineup/|title=Jordan v Syria game report|date=23 March 2019}}</ref>
+
+== References ==
+{{reflist}}
+
+== External links ==
+* {{Soccerway|saleem-obaid/475016}}
+* {{Goalzz|113695}}
+* {{NFT player|74011}}
+
+{{Jordan squad 2026 FIFA World Cup}}
+
+{{DEFAULTSORT:Obaid, Salim}}
+[[Category:Men's association football midfielders]]
+[[Category:Al Ahli SC (Amman) players]]
+[[Category:Al-Wehdat SC players]]
+[[Category:Sahab SC players]]
+[[Category:Shabab Al-Ordon SC players]]
+[[Category:Al-Hussein SC (Irbid) players]]
+[[Category:Jordanian men's footballers]]
+[[Category:1992 births]]
+[[Category:Living people]]
+[[Category:Jordan men's international footballers]]
+[[Category:21st-century Jordanian sportsmen]]
+[[Category:2026 FIFA World Cup players]]
+
+
+{{Jordan-footy-bio-stub}}

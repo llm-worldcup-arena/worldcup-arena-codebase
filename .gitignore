@@ -1,13 +1,13 @@
-# ── 凭证 · 绝不提交 ──
+# ── 凭证 · 绝不提交(API key 一定不带出去)──
 config/secrets.local.json
 *.secrets.json
 .env
 .env.*
 
-# ── 不发布:基底镜像 / 旧备份 / 大采集原文(可由代码重跑生成) ──
+# ── 不发布:基底只读镜像 / 旧备份 ──
 base/
 backup/
-wc_runs/raw/
+wc_runs/backup/
 
 # ── Python ──
 __pycache__/
@@ -15,6 +15,3 @@ __pycache__/
 
 # ── 临时 ──
 *.tmp
-
-# ── 不发布:游离的 prompt 预览样例(各批次已自带 _prompts/) ──
-wc_runs/prompt_preview/

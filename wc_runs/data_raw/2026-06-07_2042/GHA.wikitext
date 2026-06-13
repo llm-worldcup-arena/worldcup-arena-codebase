@@ -1,0 +1,74 @@
+{{Short description|none}}
+{{About|the men's team|the women's team|Ghana women's national football team}}
+{{Use Ghanaian English|date=June 2026}}
+{{Use dmy dates|date=June 2026}}
+{{Infobox national football team
+| Name                  = Ghana
+| Nickname              = Black Stars
+| Badge                 = Ghana Football Association logo.svg
+| Badge_size            = 160px
+| Association           = [[Ghana Football Association]] (GFA)
+| Confederation         = [[Confederation of African Football|CAF]] (Africa)
+| Sub-confederation     = [[West African Football Union|WAFU]] (West Africa)
+| Coach                 = [[Carlos Queiroz]] 
+| Captain               = [[Jordan Ayew]]
+| Most caps             = [[André Ayew]] & [[Jordan Ayew]] (120)
+| Top scorer            = [[Asamoah Gyan]] ([[List of international goals scored by Asamoah Gyan|51]])
+| Home Stadium          = [[List of football stadiums in Ghana|Various]]
+| FIFA Trigramme        = GHA
+| FIFA Rank             = {{FIFA World Rankings|GHA}}
+| FIFA max              = 14
+| FIFA max date         = April–May 2007, February 2008
+| FIFA min              = 89
+| FIFA min date         = June 2004
+| Elo Rank              = {{World Football Elo Ratings|Ghana}}
+| Elo max               = 13
+| Elo max date          = 30 June 1966
+| Elo min               = 97
+| Elo min date          = 14 June 2004
+| pattern_la1           = _gha26h
+| pattern_b1            = _gha26h
+| pattern_ra1           = _gha26h
+| pattern_sh1           = _gha26h
+| pattern_so1           = 
+| leftarm1              = FFFFFF
+| body1                 = FFFFFF
+| rightarm1             = FFFFFF
+| shorts1               = FFFFFF
+| socks1                = FFFFFF
+| pattern_la2           = _gha26a
+| pattern_b2            = _gha26a
+| pattern_ra2           = _gha26a
+| pattern_sh2           = _gha26a
+| pattern_so2           = _gha26al
+| leftarm2              = f8cd5c
+| body2                 = f8cd5c
+| rightarm2             = f8cd5c
+| shorts2               = f8cd5c
+| socks2                = f8cd5c
+| First game            = {{nowrap|{{fb|Gold Coast}} and {{flagicon|Britain}} British Togoland 1–0 {{fb-rt|NGR|colonial}}}}<br />([[Accra]], [[Gold Coast (British colony)|British Gold Coast]]; 28 May 1950)
+| Largest win           = {{fb|Nyasaland}} 0–12 {{fb-rt|Gold Coast}}<br />([[Nyasaland]]; 15 October 1962)<ref name="Ghana International Matches">[https://www.rsssf.org/tablesg/gha-intres.html Ghana (formerly Gold Coast)&nbsp;– List of International Matches] {{Webarchive|url=https://web.archive.org/web/20221128231131/https://www.rsssf.org/tablesg/gha-intres.html |date=28 November 2022 }}. [https://www.rsssf.org/tablesg/gha-intres.html] . RSSSF</ref>
+| Largest loss          = {{fb|BUL|1968}} 10–0 {{fb-rt|GHA}}<br>([[León, Guanajuato|Leon]], [[Mexico]]; 2 October 1968)<ref>{{cite web|title=Ghana|url=https://www.eloratings.net/Ghana|publisher=Elo Ratings|access-date=28 March 2022|archive-date=19 May 2022|archive-url=https://web.archive.org/web/20220519021945/http://eloratings.net/Ghana|url-status=live}}</ref>
+| World cup apps        = 5
+| World cup first       = 2006
+| World cup best        = Quarter-finals ([[2010 FIFA World Cup|2010]])
+| Regional name         = [[Africa Cup of Nations]]
+| Regional cup apps     = 24
+| Regional cup first    = [[1963 African Cup of Nations|1963]]
+| Regional cup best     = '''Champions''' ([[1963 African Cup of Nations|1963]], [[1965 African Cup of Nations|1965]], [[1978 African Cup of Nations|1978]], [[1982 African Cup of Nations|1982]])
+| 2ndRegional name      = [[West African Nations Cup]] / [[WAFU Nations Cup]]
+| 2ndRegional cup apps  = 8
+| 2ndRegional cup first = [[1982 West African Nations Cup|1982]]
+| 2ndRegional cup best  = '''Champions''' ([[1982 West African Nations Cup|1982]], [[1983 West African Nations Cup|1983]], [[1984 West African Nations Cup|1984]], [[1986 West African Nations Cup|1986]], [[1987 West African Nations Cup|1987]], [[2013 WAFU Nations Cup|2013]], [[2017 WAFU Nations Cup|2017]])
+| 3rdRegional name      = [[COSAFA Cup]]
+| 3rdRegional cup apps  = 1
+| 3rdRegional cup first = [[2015 COSAFA Cup|2015]]
+| 3rdRegional cup best  = Quarter-finals ([[2015 COSAFA Cup|2015]])
+}}
+The '''Ghana national football team''' represents [[Ghana]] in men's international [[Association football|football]].<ref>{{Cite web|title=Black Stars|url=https://www.ghanafa.org/category/black-stars|work=Ghana Football Association|language=en|access-date=22 May 2020|archive-date=23 May 2020|archive-url=https://web.archive.org/web/20200523044246/https://www.ghanafa.org/category/black-stars|url-status=live}}</ref> The team is named the '''Black Stars''' after the [[Black Star of Africa]] in the [[flag of Ghana]].<ref>{{Cite web |title=Ghana Flag Ghana High Commission |url=https://www.ghanahighcommissionuk.com/ghanaflag.aspx |access-date=2023-07-19 |website=Brazil Consulate}}</ref> It is governed by the [[Ghana Football Association]], the governing body for [[football in Ghana]].<ref>{{cite web | title=Ghana Football Association, Biography | url=https://www.ghanaweb.com/person/Ghana-Football-Association-3586 }}</ref> Prior to 1957, it played as the [[Gold Coast (British colony)|Gold Coast]].<ref>{{cite web | title=Black Stars, Biography | url=https://www.ghanaweb.com/person/Black-Stars-3622 }}</ref>
+
+Ghana qualified for the [[FIFA World Cup]] for the first time in [[2006 FIFA World Cup|2006]].<ref>{{Cite web |date=2021-09-07 |title=How Ghana has started every World Cup qualifying campaign since Germany 2006 run |url=https://citisportsonline.com/2021/09/07/how-ghana-have-started-every-world-cup-qualifying-campaign-since-germany-2006-run/ |url-status=live |archive-url=https://web.archive.org/web/20230616201334/https://citisportsonline.com/2021/09/07/how-ghana-have-started-every-world-cup-qualifying-campaign-since-germany-2006-run/ |archive-date=16 June 2023 |access-date=2023-06-16 |website=Citi Sports Online |language=en-US}}</ref><ref>{{Cite web |date=2022-05-18 |title='I knew I would score against Czech Republic' – Asamoah Gyan on 2006 World Cup goal |url=https://citisportsonline.com/2022/05/18/i-knew-i-would-score-against-czech-republic-asamoah-gyan-on-2006-world-cup-goal/ |url-status=live |archive-url=https://web.archive.org/web/20230616201334/https://citisportsonline.com/2022/05/18/i-knew-i-would-score-against-czech-republic-asamoah-gyan-on-2006-world-cup-goal/ |archive-date=16 June 2023 |access-date=2023-06-16 |website=Citi Sports Online |language=en-US}}</ref> The team has won the [[Africa Cup of Nations]] four times ([[1963 African Cup of Nations|1963]], [[1965 African Cup of Nations|1965]], [[1978 African Cup of Nations|1978]], and [[1982 African Cup of Nations|1982]]), while finishing as runners-up five times ([[1968 African Cup of Nations|1968]], [[1970 African Cup of Nations|1970]], [[1992 African Cup of Nations|1992]], [[2010 Africa Cup of Nations|2010]], and [[2015 Africa Cup of Nations|2015]]).<ref>{{cite web | url=https://teamghanaeu.com/our-history/ | title=Our History }}</ref> They have also qualified for the [[African Nations Championship|CHAN]] four times, finishing as runners-up twice ([[2009 African Nations Championship|2009]] and [[2014 African Nations Championship|2014]]).<ref>{{cite news | date=16 January 2004 | url=https://news.bbc.co.uk/sport2/hi/football/africa/3396199.stm | title=African Football: The early years | work=BBC | access-date=16 January 2004 | archive-date=24 January 2004 | archive-url=https://web.archive.org/web/20040124113449/http://news.bbc.co.uk/sport2/hi/football/africa/3396199.stm | url-status=live }}</ref>
+
+In 2009, Ghana achieved a historic milestone by becoming the first African nation to win the FIFA U-20 World Cup, defeating Brazil in the final in Egypt.<ref>{{cite web |title=Every FIFA U-20 World Cup final – Ghana champions 2009 |url=https://www.fifa.com/en/tournaments/mens/u20worldcup/chile-2025/articles/every-u-20-world-cup-winner-argentina-brazil-france-messi-maradona |website=FIFA.com |access-date=15 January 2026}}</ref>
+
+As at November 20, 2025, Ghana ranked 72nd in the world and 17th among African football nations.<ref>{{Cite web |date=2025-11-19 |title=Ghana's Black Stars climb up in FIFA Rankings despite recent losses to Japan & South Korea - Citi Sports Online |url=https://citisportsonline.com/2025/11/ghanas-black-stars-climb-up-in-fifa-rankings-despite-recent-losses-to-japan-south-korea/ |access-date=2025-11-20 |language=en-US}}</ref>

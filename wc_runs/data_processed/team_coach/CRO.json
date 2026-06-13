@@ -1,0 +1,35 @@
+{
+ "team": "CRO",
+ "coach": {
+  "name_zh": "兹拉特科·达利奇",
+  "name_en": "Zlatko Dalić",
+  "nationality": "Yugoslavia",
+  "career_since": "2004",
+  "person_id": "per_zlatko_dalic"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "兹拉特科·达利奇，前南斯拉夫籍教练，2004年起执教。当前数据未收录其执教球队、战术风格及大赛履历等详细信息。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": true,
+  "need_fix": true,
+  "keep_ratio": 0.3,
+  "issues": [
+   "生涯起点明确为无意义套话",
+   "未提供执教球队、战术风格等关键信息",
+   "内容过于简略，缺乏预测价值"
+  ]
+ },
+ "brief_fetched": "2026-06-13_1750",
+ "brief_info_chars": 0,
+ "coach_xverify": {
+  "canonical": "Zlatko Dalic (兹拉特科·达利奇)",
+  "confidence": "high",
+  "discrepancy": "",
+  "sources_agree": 3,
+  "n_sources": 5
+ }
+}

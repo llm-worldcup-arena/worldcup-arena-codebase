@@ -1,0 +1,24 @@
+{
+ "team": "TUN",
+ "coach": {
+  "name_zh": "薩布里·拉穆奇",
+  "name_en": "Sabri Lamouchi",
+  "nationality": "France",
+  "career_since": "2012",
+  "person_id": "per_sabri_lamouchi"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 薩布里·拉穆奇，法国籍，2012年开启执教生涯，2023年1月接手突尼斯国家队，是其12年来首份国家队主帅工作。\n- 出生于法国，通过父母拥有突尼斯国籍，此前从未在突尼斯踢球或执教，此次上任被视为\"回归祖籍\"。\n- 2023年3月首次征召即弃用多名知名球员并引入新人，引发球迷广泛争议与惊讶。\n- 战术倾向防守布局，倚重门将Aymen Dahmen（37场）与防线核心Talbi，边后卫常用Valery与Abdi。\n- 近期战绩惨淡，2023年6月热身赛先后0-1负奥地利、0-5惨败比利时，状态引发担忧。\n- 前任留下的班底在2022年世界杯小组赛击败亚军法国，但同年非洲杯16强被马里点球淘汰。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.88,
+  "issues": []
+ },
+ "brief_fetched": "2026-06-13_1138",
+ "brief_info_chars": 2559
+}

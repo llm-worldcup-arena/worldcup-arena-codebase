@@ -1,0 +1,317 @@
+{{short description|Brazilian footballer (born 1997)}}
+{{Portuguese name|Guimarães|Rodriguez Moura}}
+{{Use British English|date=June 2025}}
+{{Use dmy dates|date=June 2025}}
+{{Infobox football biography
+| name = Bruno Guimarães
+| image = Bruno Guimarães.png
+| caption = Bruno Guimarães with [[Newcastle United F.C.|Newcastle United]] in 2024
+| full_name = Bruno Guimarães Rodriguez Moura<ref>{{cite web |url=https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf |title=Squad List: FIFA World Cup 2026: Brazil (BRA) |publisher=FIFA |page=7 |date=3 June 2026 |access-date=4 June 2026}}</ref>
+| birth_date = {{birth date and age|1997|11|16|df=y}}
+| birth_place = [[Rio de Janeiro]], Brazil
+| height = 1.82 m<ref>{{cite web|url=https://www.nufc.co.uk/teams/first-team/bruno-guimaraes/|title=Bruno Guimarães|publisher= Manchester City F.C|access-date=26 February 2022|archive-url=https://web.archive.org/web/20220225031059/https://www.nufc.co.uk/teams/first-team/bruno-guimaraes/|archive-date=25 February 2022}}</ref>
+| position = [[Central midfielder]]
+| currentclub = [[Newcastle United F.C.|Newcastle United]]
+| clubnumber = 39
+| youthyears1 = 
+| youthclubs1 = [[Audax Rio de Janeiro Esporte Clube|Audax Rio]]
+| youthyears2 = 2015
+| youthclubs2 = [[Grêmio Osasco Audax Esporte Clube|Audax]]
+| years1 = 2015–2018
+| clubs1 = [[Grêmio Osasco Audax Esporte Clube|Audax]]
+| caps1 = 8
+| goals1 = 0
+| years2 = 2017–2018
+| clubs2 = → [[Club Athletico Paranaense|Athletico Paranaense]] (loan)
+| caps2 = 7
+| goals2 = 0
+| years3 = 2018–2020
+| clubs3 = [[Club Athletico Paranaense|Athletico Paranaense]]
+| caps3 = 66
+| goals3 = 5
+| years4 = 2020–2022
+| clubs4 = [[Olympique Lyonnais|Lyon]]
+| caps4 = 56
+| goals4 = 3
+| years5 = 2022–
+| clubs5 = [[Newcastle United F.C.|Newcastle United]]
+| caps5 = 153
+| goals5 = 30
+| nationalyears1 = 2019–2021
+| nationalteam1 = [[Brazil national under-23 football team|Brazil U23]]
+| nationalcaps1 = 18
+| nationalgoals1 = 0
+| nationalyears2 = 2020–
+| nationalteam2 = [[Brazil national football team|Brazil]]
+| nationalcaps2 = 42
+| nationalgoals2 = 2
+| medaltemplates = {{MedalSport|Men's [[Association football|football]]}}
+{{MedalCountry|{{fbu|23|BRA}}}}
+{{MedalCompetition|[[Football at the Summer Olympics|Olympic Games]]}}
+{{MedalGold|[[2020 Summer Olympics|2020]]|[[Football at the 2020 Summer Olympics – Men's tournament|Team]]}}
+| club-update = 23:17, 24 May 2026 (UTC)
+| nationalteam-update = 31 May 2026
+}}
+'''Bruno Guimarães Rodriguez Moura''' ({{IPA|pt-BR|ˈbɾũ.nu ɡi.maˈɾɐ̃j̃s}}; born 16 November 1997), known as '''Bruno Guimarães''', is a Brazilian professional [[association football|footballer]] who plays as a [[midfielder]] for {{English football updater|NewcastU}} club [[Newcastle United F.C.|Newcastle United]], which he captains, and the [[Brazil national football team|Brazil national team]].
+
+Guimarães began his professional career with [[Club Athletico Paranaense|Athletico Paranaense]], before moving to [[Olympique Lyonnais|Lyon]] in 2020, and Newcastle United in 2022.
+
+==Club career==
+===Early career===
+Bruno Guimarães was born in the [[Imperial de São Cristóvão|São Cristóvão]] neighbourhood of [[Rio de Janeiro]]. His father was a taxi driver. His grandfather emigrated from Spain to Jarra, and through him Guimarães has Spanish citizenship.<ref>{{Cite web|url=https://www.tvazteca.com/aztecadeportes/hijo-taxista-convocado-brasil-qatar-2022-es2|title=Es hijo de un taxista y fue convocado por Brasil para Qatar 2022|date=8 November 2022|website=Azteca Deportes}}</ref> Guimarães made his debut with [[Grêmio Osasco Audax Esporte Clube|Audax]].{{Citation needed|date=January 2022}} on 9 April 2015, aged just 17, by playing the last three minutes in a 2–1 [[Campeonato Paulista]] away win against [[Clube Atlético Bragantino|Bragantino]].{{Citation needed|date=July 2022}}
+
+Guimarães was promoted to the main squad in the 2017 campaign after impressing in the year's [[Copa São Paulo de Futebol Júnior]].{{Citation needed|date=January 2022}}
+
+===Athletico Paranaense===
+On 11 May 2017, he joined [[Club Athletico Paranaense|Athletico Paranaense]] on loan until April 2018 and was initially assigned to the under-23 squad.<ref>{{cite web|url=https://globoesporte.globo.com/pr/futebol/times/atletico-pr/noticia/atletico-pr-confirma-contratacao-de-volante-bruno-guimaraes-do-audax.ghtml|title=Atlético-PR confirma contratação de volante Bruno Guimarães, do Audax|trans-title=Atlético-PR confirm signing of defensive midfielder Bruno Guimarães, from Audax|publisher=[[Globo Esporte]]|language=pt|date=11 May 2017|accessdate=6 November 2018}}</ref>
+
+Guimarães made his [[Campeonato Brasileiro Série A|Série A]] debut on 17 June 2017, coming on as a second-half [[Substitute (association football)|substitute]] for [[Deivid Willian da Silva|Deivid]] in a 1–0 away defeat of [[Atlético Clube Goianiense|Atlético Goianiense]].<ref>{{cite web|url=https://esporte.uol.com.br/futebol/campeonatos/brasileiro/serie-a/ultimas-noticias/2017/06/17/atletico-go-x-atletico-pr.htm|title=Atlético-PR faz gol no início, segura Atlético-GO e sai da zona da degola|trans-title=Atlético-PR score in the beginning, hold on against Atlético-GO and leave the relegation zone|publisher=[[Universo Online|UOL Esporte]]|language=pt|date=17 June 2017|accessdate=6 November 2018|archive-date=7 November 2018|archive-url=https://web.archive.org/web/20181107010413/https://esporte.uol.com.br/futebol/campeonatos/brasileiro/serie-a/ultimas-noticias/2017/06/17/atletico-go-x-atletico-pr.htm|url-status=dead}}</ref> The following 1 March, he was bought outright and signed a contract until 2021.<ref>{{cite web|url=https://globoesporte.globo.com/pr/futebol/times/atletico-pr/noticia/atletico-pr-chega-a-um-acordo-com-audax-sp-e-contrata-bruno-guimaraes-ate-2020.ghtml|title=Atlético-PR chega a acordo com Audax-SP e contrata Bruno Guimarães até 2021|trans-title=Atlético-PR reach agreement with Audax-SP and sign Bruno Guimarães until 2021|publisher=Globo Esporte|language=pt|date=1 March 2018|accessdate=6 November 2018}}</ref>
+
+Guimarães scored his first senior goal on 10 March 2018, netting his team's fourth in a 7–1 home routing of [[Rio Branco Sport Club|Rio Branco-PR]], for the year's [[Campeonato Paranaense]].<ref>{{cite web|url=http://www.espn.com.br/futebol/artigo/_/id/4068052/atletico-pr-faz-7-a-1-no-rio-branco-e-assume-lideranca-do-grupo-b|title=Atlético-PR faz 7 a 1 no Rio Branco e assume liderança do Grupo B|trans-title=Atlético-PR make 7–1 over Rio Branco and take the leadership og Group B|publisher=[[ESPN Brasil]]|language=pt|date=10 March 2018|accessdate=6 November 2018}}</ref> He then became an undisputed starter for the main squad under new manager [[Tiago Nunes]]. He renewed his contract until 2023 on 5 February 2019.<ref>{{cite web|url=https://globoesporte.globo.com/pr/futebol/times/athletico-pr/noticia/athletico-renova-contrato-com-o-volante-bruno-guimaraes-ate-2023.ghtml|title=Athletico renova contrato com o volante Bruno Guimarães até 2023|trans-title=Athletico renew contract with defensive midfielder Bruno Guimarães until 2023|publisher=Globo Esporte|language=pt-BR|date=5 February 2019|accessdate=19 September 2019}}</ref>
+
+===Lyon===
+On 29 January 2020, Guimarães signed with [[Ligue 1]] side [[Olympique Lyonnais|Lyon]] on a four-and-a-half-year contract. The transfer fee paid to Athletico Paranaense was reported as €20&nbsp;million, which also secured a 20% sell-on clause.<ref>{{cite web|date=30 January 2020|title=Transferts : Bruno Guimaraes officiellement à l'OL|trans-title=Transfers : Bruno Guimaraes officially at OL|url=https://www.lequipe.fr/Football/Actualites/Transferts-bruno-guimaraes-officiellement-a-l-ol/1104252|work=[[L'Équipe]]|language=fr-FR|accessdate=30 January 2020}}</ref>
+
+===Newcastle United===
+On 30 January 2022, Guimarães joined [[Premier League]] club [[Newcastle United F.C.|Newcastle United]] on a four-and-a-half-year contract for a reported fee of up to £40m. He made his debut on 8 February as a late substitute in a 3–1 win against [[Everton F.C.|Everton]].<ref name="ncldebut">{{cite news |last1=Magowan |first1=Alistair |title=Newcastle beat fellow strugglers Everton |url=https://www.bbc.co.uk/sport/football/60210236 |work=BBC Sport|access-date=9 February 2022}}</ref> He scored his first goal for Newcastle with a "powerful back-heel volley" in a 2–1 victory at [[Southampton F.C.|Southampton]] on 10 March, on his full debut game.<ref>{{cite web |last1=Howarth |first1=Matthew |title=Southampton 1–2 Newcastle United |url=https://www.bbc.co.uk/sport/football/59792555 |work=BBC Sport |access-date=11 March 2022 |date=10 March 2022}}</ref> He scored his first brace for Newcastle in a 2–1 victory against [[Leicester City F.C.|Leicester City]] on 17 April, with his second coming in the 95th minute, winning the game.<ref>{{cite web |title=Newcastle United 2–1 Leicester City |url=https://www.bbc.co.uk/sport/football/61055887 |work=BBC Sport |access-date=17 April 2022 |date=17 April 2022}}</ref> On 31 December 2022, Newcastle United held a moment of respect for the passing of the Brazilian footballer [[Pelé]].<ref name=pele2022/> In respect to Pelé, Guimarães wore the Brazilian national shirt.<ref name=pele2022>{{cite news | last = Bennett| first=Gordon | title = Bruno Guimaraes' touching tribute to Brazil legend Pele ahead of Newcastle United vs Leeds | newspaper = Chronicle| location = Newcastle | language = English | date = 31 December 2022| url = https://www.chroniclelive.co.uk/sport/football/football-news/pele-brazil-bruno-guimaraes-newcastle-25870551}}</ref>
+
+On 7 October 2023, Guimarães signed a new five-year contract with the club.<ref>{{cite web |url=https://www.nufc.co.uk/news/latest-news/bruno-guimaraes-signs-new-five-year-deal-at-st-james-park/ |title=Bruno Guimarães signs new five-year deal at St. James' Park |publisher=Newcastle United F.C. |date=7 October 2023 }}</ref>
+
+Guimarães ran 423&nbsp;km across 37 matches in the [[2023–24 Premier League]], the most from any player that season.<ref name=ran423km2024>{{cite news| url = https://www.premierleague.com/news/4025765| title = 2023/24 rankings: Who covered the most distance this season?| last = Premier League reporter| date = 24 May 2024| publisher = Premier League}}</ref> After [[Matt Ritchie]]'s transfer to [[Portsmouth F.C.|Portsmouth]], on 8 August 2024, Guimarães joined [[Dan Burn]], [[Kieran Trippier]], [[Jamaal Lascelles]] and [[Callum Wilson]] as part of Newcastle United's leadership group.<ref name=nufcLeadership2024>{{cite web| url = https://www.newcastleworld.com/sport/football/newcastle-united/i-want-bruno-guimaraes-confirms-big-newcastle-united-decision-after-exit-ps100m-release-clause-4733813| title = 'I want': Bruno Guimaraes confirms big Newcastle United decision| last = Cronin| first = Jordan| date = 8 August 2024| website = NewcastleWorld}}</ref> Guimarães was made the team captain on 19 August.<ref name=teamCaptain2024>{{cite news| last = Buck| first = Joe| title = Bruno Guimaraes' 'dream come true' as Newcastle United make major decision| newspaper = South Shields Gazette| date = 20 August 2024| url = https://www.shieldsgazette.com/sport/football/newcastle-united/bruno-guimaraes-dream-come-true-as-newcastle-united-make-major-decision-4748813| access-date = }}</ref> On 16 March 2025, Guimarães became the first Newcastle United captain to lift a domestic trophy in 70 years, or any trophy in 56 years, after leading the team to victory in the [[Carabao Cup]] final against [[Liverpool F.C.|Liverpool]]. After the match, an emotional Guimarães declared, "This is my second home. We are making history. Some day, when I leave this club, I want the fans to sing my name the way they do to [[Alan Shearer|Shearer]]."<ref name=CarabaoCupVictory>{{cite news| url = https://talksport.com/football/3024893/bruno-guimaraes-tears-newcastle-liverpool-carabao-cup/| title = Bruno Guimaraes breaks down in floods of tears immediately after historic Newcastle win| last = Wiseman| first= Ciaran| date = 16 March 2025| publisher = talkSport}}</ref>
+
+==International career==
+Guimarães was eligible to represent Spain before earning his senior cap for Brazil.<ref name="www.planetsport.com">{{cite web |title= Why are Newcastle United so desperate to sign Lyon midfielder Bruno Guimaraes?|url=https://www.planetsport.com/soccer/news/why-newcastle-desperate-to-sign-lyon-midfielder-bruno-guimaraes |publisher=Planet Sport|accessdate=30 January 2022|date=30 January 2022}}</ref>
+
+Guimarães featured for [[Brazil national under-23 football team|Brazil's under-23 team]] in the [[2020 CONMEBOL Pre-Olympic Tournament]].<ref name="cbf.com.br">{{cite web |title=Tite convoca a Seleção Brasileira para a estreia nas Eliminatórias |url=https://www.cbf.com.br/selecao-brasileira/noticias/selecao-masculina/tite-convoca-a-selecao-brasileira-para-a-estreia-nas-eliminatorias |publisher=[[Brazilian Football Confederation|CBF]] |accessdate=18 September 2020 |date=18 September 2020 |language=Portuguese}}</ref> On 17 June 2021, he was named in the squad for the [[Football at the 2020 Summer Olympics – Men's tournament|2020 Summer Olympics]].<ref>{{cite web |title=Seleção Olímpica é convocada para os Jogos Olímpicos de Tóquio 2020 |work=Confederação Brasileira de Futebol |url=https://www.cbf.com.br/selecao-brasileira/jogos/olimpicos-de-toquio-2020/selecao-olimpica-e-convocada-para-os-jogos-olimpicos-de-toquio |publisher=[[Brazilian Football Confederation|CBF]] |access-date=17 June 2021 |date=17 June 2021}}</ref>
+
+In September 2020, Guimarães was called up to the senior [[Brazil national football team|Brazil]] squad for [[2022 FIFA World Cup qualification (CONMEBOL)|2022 FIFA World Cup qualification]] matches against [[Bolivia national football team|Bolivia]] and [[Peru national football team|Peru]] on 9 and 13 October 2020, respectively.<ref name="cbf.com.br"/> He had already been named in the Brazilian team call-up in March 2020, but that summoning was postponed in response to the COVID-19 pandemic.{{Citation needed|date=January 2022}} He debuted in a 2–0 away win over [[Uruguay national football team|Uruguay]] on 17 November 2020.{{Citation needed|date=January 2022}}
+
+On 7 November 2022, Guimarães was named in the squad for the [[2022 FIFA World Cup]].<ref>{{cite web|title=Seleção Brasileira está convocada para a Copa do Mundo FIFA Qatar 2022|url=https://www.cbf.com.br/selecao-brasileira/noticias/selecao-masculina/selecao-brasileira-esta-convocada-para-a-copa-do-mundo-fifa-qatar-2022|publisher=[[Brazilian Football Confederation|CBF]]|access-date=7 November 2022|date=7 November 2022|language=pt}}</ref>
+
+== Personal life ==
+Guimarães married Ana Lidia Martins in June 2023 in a ceremony underneath [[Christ the Redeemer (statue)|Christ the Redeemer]].<ref>{{Cite web |title=analidiamartinss on Instagram |url=https://www.instagram.com/p/CtNL8nMOjTb/ |access-date=2024-05-28 |website=instagram.com}}</ref>{{Primary source inline|date=June 2025}} The couple have two children together, a son born in October 2022, and another son born in March 2024.<ref>{{Cite web |last=Hall |first=Daniel |date=10 March 2024 |title=Newcastle's Bruno Guimaraes announces arrival of baby boy born on Mother's Day |url=https://www.chroniclelive.co.uk/news/north-east-news/bruno-guimaraes-baby-pietro-birth-28790296 |access-date=2024-05-28 |website=Chronicle Live |language=en}}</ref>
+
+In addition to his native Portuguese, Guimarães also speaks French, English, and Spanish.<ref>{{Cite web |last=Easterby |first=Tom |date=2022-04-18 |title='If you don't have ambition, you have nothing' - Bruno Guimarães interview |url=https://www.newcastleunited.com/en/news/if-you-dont-have-ambition-you-have-nothing-bruno-guimaraes-interview |access-date=2025-07-05 |website=Newcastle United}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 24 May 2026}}<ref>{{Soccerway|bruno-guimaraes-rodriguez-moura/402388|access-date=19 May 2024}}</ref>
+{|class="wikitable" style="text-align: center"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|State league{{efn|Includes [[Campeonato Paulista]]}}
+!colspan="2"|National cup{{efn|Includes [[Copa do Brasil]], [[Coupe de France]], [[FA Cup]]}}
+!colspan="2"|League cup{{efn|Includes [[Coupe de la Ligue]], [[EFL Cup]]}}
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="4"|[[Grêmio Osasco Audax Esporte Clube|Audax]]
+|[[2015 in Brazilian football|2015]]
+|[[Campeonato Paulista]]
+|colspan="2"|—||1||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||1||0
+|-
+|[[2016 in Brazilian football|2016]]
+|[[Campeonato Brasileiro Série D|Série D]]
+|0||0||0||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||0||0
+|-
+|[[2017 in Brazilian football|2017]]
+|Série D
+|0||0||7||0||1||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||8||0
+|-
+!colspan="2"|Total
+!0!!0!!8!!0!!1!!0!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!9!!0
+|-
+|rowspan="4"|[[Club Athletico Paranaense|Athletico Paranaense]]
+|[[2017 in Brazilian football|2017]]
+|[[Campeonato Brasileiro Série A|Série A]]
+|4||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||1{{efn|name=COL|Appearance(s) in [[Copa Libertadores]]}}||0||colspan="2"|—||5||0
+|-
+|[[2018 in Brazilian football|2018]]
+|Série A
+|32||1||12||2||3||0||colspan="2"|—||11{{efn|Appearances in [[Copa Sudamericana]]}}||2||colspan="2"|—||58||5
+|-
+|[[2019 in Brazilian football|2019]]
+|Série A
+|25||2||0||0||8||1||colspan="2"|—||7{{efn|name=COL}}||2||3{{efn|Two appearances in [[Recopa Sudamericana]], one appearance in [[J.League Cup / Copa Sudamericana Championship]]}}||0||43||5
+|-
+!colspan="2"|Total
+!61!!3!!12!!2!!11!!1!!colspan="2"|—!!19!!4!!3!!0!!106!!10
+|-
+|rowspan="4"|[[Olympique Lyonnais|Lyon]]
+|[[2019–20 Olympique Lyonnais season|2019–20]]<ref name=sb1920>{{soccerbase season|129105|2019|access-date=16 December 2023}}</ref>
+|[[Ligue 1]]
+|3||0||colspan="2"|—||1||0||1||0||4{{efn|name=UCL|Appearances in [[UEFA Champions League]]}}||0||colspan="2"|—||9||0
+|-
+|[[2020–21 Olympique Lyonnais season|2020–21]]<ref name=sb2021>{{soccerbase season|129105|2020|access-date=16 December 2023}}</ref>
+|Ligue 1
+|33||3||colspan="2"|—||4||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||37||3
+|-
+|[[2021–22 Olympique Lyonnais season|2021–22]]<ref name=sb2122>{{soccerbase season|129105|2021|access-date=16 December 2023}}</ref>
+|Ligue 1
+|20||0||colspan="2"|—||0||0||colspan="2"|—||5{{efn|name=UEL|Appearances in [[UEFA Europa League]]}}||0||colspan="2"|—||25||0
+|-
+!colspan="2"|Total
+!56!!3!!colspan="2"|—!!5!!0!!1!!0!!9!!0!!colspan="2"|—!!71!!3
+|-
+|rowspan="6"|[[Newcastle United F.C.|Newcastle United]]
+|[[2021–22 Newcastle United F.C. season|2021–22]]<ref name=sb2122/>
+|[[Premier League]]
+|17||5||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||17||5
+|-
+|[[2022–23 Newcastle United F.C. season|2022–23]]<ref name=sb2223>{{soccerbase season|129105|2022|access-date=16 December 2023}}</ref>
+|Premier League
+|32||4||colspan="2"|—||1||1||7||0||colspan="2"|—||colspan="2"|—||40||5
+|-
+|[[2023–24 Newcastle United F.C. season|2023–24]]<ref name=sb2324>{{soccerbase season|129105|2023|access-date=4 May 2024}}</ref>
+|Premier League
+|37||7||colspan="2"|—||4||0||3||0||6{{efn|name=UCL}}||0||colspan="2"|—||50||7
+|-
+|[[2024–25 Newcastle United F.C. season|2024–25]]<ref name=sb2425>{{soccerbase season|129105|2024|access-date=17 August 2024}}</ref>
+|Premier League
+|38||5||colspan="2"|—||3||0||6||0||colspan="2"|—||colspan="2"|—||47||5
+|-
+|[[2025–26 Newcastle United F.C. season|2025–26]]<ref name=sb2526>{{soccerbase season|129105|2025|access-date=16 August 2025}}</ref>
+|Premier League
+|29||9||colspan="2"|—||1||0||4||0||7{{efn|name=UCL}}||0||colspan="2"|—||41||9
+|-
+!colspan="2"|Total
+!153!!30!!colspan="2"|—!!9!!1!!20!!0!!13!!0!!colspan="2"|—!!195!!31
+|-
+!colspan="3"|Career total
+!270!!36!!20!!2!!26!!2!!21!!0!!41!!4!!3!!0!!381!!44
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 31 May 2026}}<ref name="NFT">{{NFT player|id=80548|access-date=20 March 2025}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="7"|[[Brazil national football team|Brazil]]
+|2020||1||0
+|-
+|2021||2||0
+|-
+|2022||7||1
+|-
+|2023||8||0
+|-
+|2024||14||0
+|-
+|2025||9||1
+|-
+|2026||2||1
+|-
+!colspan="2"|Total!!43!!3
+|}
+
+:''Scores and results list Brazil's goal tally first, score column indicates score after each Bruno Guimarães goal.''
+
+{| class="wikitable sortable"
+|+ List of international goals scored by Bruno Guimarães
+! No. !! Date !! Venue !! Cap!! Opponent !! Score !! Result !! Competition
+|-
+| align="center"|1 || 29 March 2022 || [[Estadio Hernando Siles]], [[La Paz]], Bolivia || align="center"|6 || {{fb|BOL}} || align="center"| 3–0 || align="center"|4–0 || [[2022 FIFA World Cup qualification (CONMEBOL)|2022 FIFA World Cup qualification]]
+|-
+| align="center"|2 || 4 September 2025 || [[Maracanã Stadium|Maracanã]], [[Rio de Janeiro]], Brazil || align="center"|36 || {{fb|CHI}} || align="center"| 3–0 || align="center"|3–0 || [[2026 FIFA World Cup qualification (CONMEBOL)|2026 FIFA World Cup qualification]]
+|-
+| align="center"|3 || 6 June 2026 || [[Huntington Bank Field]], [[Cleveland]], United States || align="center"|43 || {{fb|EGY}} || align="center"| 1–0 || align="center"|2–1 || [[Exhibition game#International football|Friendly]]
+|}
+
+==Honours==
+'''Athletico Paranaense'''
+* [[Copa do Brasil]]: [[2019 Copa do Brasil|2019]]<ref>{{cite web |date=18 September 2019 |title=Athletico-PR bate o Inter e conquista título inédito da Copa do Brasil |url=https://www.cbf.com.br/futebol-brasileiro/competicoes/copa-brasil-masculino/2019/120 |access-date=28 December 2022 |publisher=CBF |language=Portuguese}}</ref>
+* [[Campeonato Paranaense]]: 2018<ref>{{Cite web |title=Atlético-PR x Coritiba – Campeonato Paranaense 2018 |url=http://globoesporte.globo.com/pr/futebol/campeonato-paranaense/jogo/08-04-2018/atletico-pr-coritiba |access-date=2022-12-28 |website=Globo Esporte |language=pt-br}}</ref>
+* [[Copa Sudamericana]]: [[2018 Copa Sudamericana|2018]]<ref>{{cite web |date=13 December 2018 |title=Atlético Paranaense abraza la gloria por primera vez en su historia |url=http://www.conmebol.com/es/atletico-paranaense-abraza-la-gloria-por-primera-vez-en-su-historia |access-date=28 December 2022 |publisher=CONMEBOL}}</ref>
+* [[J.League Cup / Copa Sudamericana Championship]]: [[2019 J.League Cup / Copa Sudamericana Championship|2019]]<ref>{{cite web |date=7 August 2019 |title=Paranaense golea y se consagra Campeón de la Levain Cup |url=http://www.conmebol.com/es/paranaense-golea-y-se-consagra-campeon-de-la-levain-cup |access-date=28 December 2022 |publisher=CONMEBOL |language=Spanish}}</ref>
+
+'''Lyon'''
+* [[Coupe de la Ligue]] runner-up: [[2019–20 Coupe de la Ligue|2019–20]]<ref>{{Cite web |date=31 July 2020 |title=Paris St-Germain beat Lyon in French League Cup final for another treble |url=https://www.bbc.com/sport/football/53617357 |access-date=16 June 2022 |website=[[BBC Sport]]}}</ref>
+
+'''Newcastle United'''
+* [[EFL Cup]]: [[2024–25 EFL Cup|2024–25]];<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/live/c62zl58dg8qt#Line-ups |title=Liverpool 1–2 Newcastle United: Line-ups |website=BBC Sport |date=16 March 2025 |access-date=16 March 2025}}</ref> runner-up: [[2022–23 EFL Cup|2022–23]]<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/64693810 |title=Manchester United 2–0 Newcastle United |first=Phil |last=McNulty |website=BBC Sport |date=26 February 2023 |access-date=26 February 2023}}</ref>
+
+'''Brazil U23'''
+* [[Football at the Summer Olympics|Summer Olympics]]: [[Football at the 2020 Summer Olympics – Men's tournament|2020]]<ref>{{Cite news |date=7 August 2021 |title=Brazil defend men's football gold |work=BBC Sport |url=https://www.bbc.com/sport/football/58129614 |access-date=28 December 2022}}</ref>
+
+'''Individual'''
+* [[Campeonato Brasileiro Série A Team of the Year]]: [[2019 Campeonato Brasileiro Série A|2019]]<ref>{{cite web | url= https://www.goal.com/br/not%C3%ADcias/premio-craque-do-brasileirao-2019-veja-a-selecao-e-quem-foi/xa3190kr0z0o18za8d5v2nng3 | title= Prêmio Craque do Brasileirão 2019: veja a seleção e quem foi premiado| work= Goal (website) | language=pt-BR | date= 9 December 2019 | access-date= 10 December 2019 }}</ref>
+* [[CONMEBOL Pre-Olympic Tournament]] Best Player: [[2020 CONMEBOL Pre-Olympic Tournament|2020]]<ref>{{Cite web |date=9 April 2020 |title=OFFICIAL: Bruno Guimarães has won the MVP of the 2020 Pre-Olympic tournament. |url=https://twitter.com/brasiledition/status/1226717616393334786?lang=en |access-date=2 January 2023 |website=Brasil Football on Twitter }}</ref>{{Primary source inline|date=June 2025}}
+* [[Football Writers' Association|North East FWA Player of the Year]]: 2022<ref>{{Cite web |date=5 March 2023 |title=Bruno receives North East Football Writers' Association Player of the Year award |url=https://www.nufc.co.uk/news/latest-news/bruno-receives-north-east-football-writers-association-player-of-the-year-award/ |access-date=10 March 2024 |publisher=Newcastle United F.C. }}</ref>
+*[[Newcastle United F.C.|Newcastle United]] Player of the Year: 2026<ref>{{cite web|url=https://www.newcastleunited.com/en/news/captain-bruno-guimaraes-named-newcastle-uniteds-2025-26-player-of-the-year|title=Captain Bruno Guimarães named Newcastle United's 2025/26 Player of the Year|publisher=Newcastle United F.C.|date=17 May 2026|access-date=24 May 2026}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+* [https://www.nufc.co.uk/teams/first-team/bruno-guimaraes/ Bruno Guimarães] at [[Newcastle United F.C.]]
+* {{Premier League player|new_id=208706|old_id=74761}}
+* {{LFP Ligue 1}}
+* {{Soccerway}}
+* {{Olympedia}}
+* {{Olympics.com}}
+* {{COB profile}}
+* {{Instagram}}
+
+{{Newcastle United F.C. squad}}
+{{Navboxes
+| title = Awards
+| bg = gold
+| fg = navy
+| list1 = 
+{{2019 Campeonato Brasileiro Série A Team of the Year}}
+{{Newcastle United F.C. Player of the Year}}
+}}
+{{Navboxes
+| title = Brazil squads
+| bg = #FEDF00
+| fg = #009B3A
+| bordercolor = #002776
+| list1 = 
+{{Brazil men's football squad 2020 Summer Olympics}}
+{{Brazil squad 2022 FIFA World Cup}}
+{{Brazil squad 2024 Copa América}}
+{{Brazil squad 2026 FIFA World Cup}}
+}}
+{{Authority control}}
+
+{{DEFAULTSORT:Guimaraes, Bruno}}
+[[Category:1997 births]]
+[[Category:Living people]]
+[[Category:Footballers from Rio de Janeiro (city)]]
+[[Category:Brazilian men's footballers]]
+[[Category:Men's association football midfielders]]
+[[Category:Grêmio Osasco Audax Esporte Clube players]]
+[[Category:Club Athletico Paranaense players]]
+[[Category:Copa Sudamericana–winning players]]
+[[Category:Olympique Lyonnais players]]
+[[Category:Newcastle United F.C. players]]
+[[Category:Campeonato Brasileiro Série A players]]
+[[Category:Ligue 1 players]]
+[[Category:Premier League players]]
+[[Category:Brazil men's youth international footballers]]
+[[Category:Brazil men's international footballers]]
+[[Category:2022 FIFA World Cup players]]
+[[Category:2024 Copa América players]]
+[[Category:2026 FIFA World Cup players]]
+[[Category:Olympic footballers for Brazil]]
+[[Category:Footballers at the 2020 Summer Olympics]]
+[[Category:Medalists at the 2020 Summer Olympics]]
+[[Category:Olympic gold medalists for Brazil]]
+[[Category:Olympic medalists in football]]
+[[Category:Brazilian expatriate men's footballers]]
+[[Category:Expatriate men's footballers in England]]
+[[Category:Expatriate men's footballers in France]]
+[[Category:Brazilian expatriate sportspeople in England]]
+[[Category:Brazilian expatriate sportspeople in France]]
+[[Category:21st-century Brazilian sportsmen]]
+[[Category:Brazilian people of Spanish descent]]
+[[Category:Sportspeople of Spanish descent]]

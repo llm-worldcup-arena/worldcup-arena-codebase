@@ -1,0 +1,116 @@
+{{short description|Egyptian footballer (born 2001)}}
+{{Infobox football biography
+| name = Hossam Abdelmaguid
+| image = Hossam Abdel Maguid.jpg
+| caption = Abdelmaguid lining up for [[Egypt national under-23 football team|Egypt Olympic]] at the [[Football at the 2024 Summer Olympics – Men's tournament|2024 Summer Olympics]]
+| full_name = Hossam Abdelmegeed Abdelsalam Abdelmegeed<ref name="FIFA">{{cite web |url=https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf |title=FIFA World Cup 2026™ – Squad List: Egypt (EGY) |publisher=FIFA |page=17 |date=2 June 2026 |access-date=2 June 2026}}</ref>
+| birth_date = {{Birth date and age|2001|04|30|df=y}}<ref name="FIFA"/>
+| birth_place = 
+| height = 1.93 m<ref name="FIFA"/>
+| position = [[Centre-back]]
+| currentclub = [[Zamalek SC|Zamalek]]
+| clubnumber = 5
+| youthyears1 = {{0|0000}}–2020
+| youthclubs1 = [[Zamalek SC|Zamalek]]
+| years1 = 2020–
+| clubs1 = [[Zamalek SC|Zamalek]]
+| caps1 = 145
+| goals1 = 10
+| nationalyears1 = 2022–2024
+| nationalteam1 = [[Egypt national under-23 football team|Egypt U23]]
+| nationalcaps1 = 20
+| nationalgoals1 = 2
+| nationalyears2 = 2023–
+| nationalteam2 = [[Egypt national football team|Egypt]]
+| nationalcaps2 = 3
+| nationalgoals2 = 0
+| club-update = 
+| nationalteam-update = 13 November 2025
+}}
+
+'''Hossam Abdelmageed Abdelsalam Abdelmegeed''' ({{langx|ar|حسام عبد المجيد عبد السلام عبد المجيد}}; born 30 April 2001) is an Egyptian professional [[Association football|footballer]] who plays as a [[centre-back]] for [[Egyptian Premier League]] club [[Zamalek SC|Zamalek]] and the [[Egypt national football team|Egypt national team]].<ref name="filgoal">{{cite web|url=https://www.filgoal.com/players/167538|title=FilGoal &#124; حسام عبد المجيد - لاعب نادي الزمالك|website=filgoal.com|accessdate=6 September 2020}}</ref><ref name="kooora">{{cite web|url=https://www.kooora.com/?player=154553|website=kooora.com|title=اللاعب: حسام عبد المجيد|accessdate=13 August 2024}}</ref><ref name="zamalek">{{cite web|url=https://zamalek.news/2020/09/كارتيرون-يكشف-سر-فوز-الزمالك-على-طلائع/|title=كارتيرون يكشف سر فوز الزمالك على طلائع الجيش - اخبار الزمالك|website=Zamalek News|accessdate=6 September 2020}}</ref>
+
+==International career==
+
+On 2 December 2025, Abdelmaguid was called up to the Egypt squad for the [[2025 Africa Cup of Nations]].<ref>{{cite web|url=https://www.cafonline.com/afcon2025/news/egypt-name-final-28-man-squad-for-totalenergies-caf-afcon-2025-salah-leads-pharaohs-charge/|title=Egypt name final 28-man squad for TotalEnergies CAF AFCON 2025, Salah leads Pharaohs' charge|publisher=[[Confederation of African Football]]|date=2 December 2025|access-date=12 December 2025}}</ref>
+
+==Honours==
+'''Zamalek'''
+*[[Egyptian Premier League]]: [[2020–21 Egyptian Premier League|2020–21]], [[2021–22 Egyptian Premier League|2021–22]], [[2025–26 Egyptian Premier League|2025–26]]
+*[[Egypt Cup]]: [[2020–21 Egypt Cup|2020–21]], [[2024–25 Egypt Cup|2024–25]]
+* [[CAF Confederation Cup]]: [[2023–24 CAF Confederation Cup|2023–24]]
+* [[CAF Super Cup]]: [[2024 CAF Super Cup|2024]]
+
+==Career statistics==
+===Club===
+{{updated|22 August 2020.}}<ref>{{Soccerway|new_id=hossam-abdelmaguid/h2HkF6cf|accessdate=11 December 2025}}</ref>
+
+{| class="wikitable" style="text-align: center"
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|Cup
+!colspan="2"|Continental
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+|-
+|[[Zamalek SC|Zamalek]]
+|[[2019–20 Egyptian Premier League|2019–20]]
+|[[Egyptian Premier League]]
+|1||0||0||0||0||0||0||0||1||0
+|-
+! colspan=3 | Career total
+!1!!0!!0!!0!!0!!0!!0!!0!!1!!0
+|}
+;Notes
+{{Reflist|group=lower-alpha}}
+
+==References==
+{{reflist|1}}
+
+==External links ==
+{{Commons category}}
+* [https://www.efa.com.eg/ar/%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AE%D8%A8%D8%A7%D8%AA/%D8%A7%D9%84%D9%84%D8%A7%D8%B9%D8%A8%D9%8A%D9%86/%D8%AD%D8%B3%D8%A7%D9%85-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%AF/ Profile] at the Egyptian Football Association website {{in lang|ar}}
+* {{UEFA player}}
+* {{Olympics.com}}
+* {{Olympedia}}
+
+{{Zamalek SC squad}}
+{{Navboxes
+| title = Egypt squads
+| bg = #CE1126
+| fg = white
+| bordercolor = black
+| list1 =
+{{Egypt men's football squad 2024 Summer Olympics}}
+{{Egypt squad 2025 Africa Cup of Nations}}
+{{Egypt squad 2026 FIFA World Cup}}
+}}
+{{2024–25 Egyptian Premier League Team of the Season}}
+
+{{DEFAULTSORT:Abdelmaguid, Hossam}}
+[[Category:2001 births]]
+[[Category:Living people]]
+[[Category:Egyptian men's footballers]]
+[[Category:Men's association football defenders]]
+[[Category:Zamalek SC players]]
+[[Category:Egyptian Premier League players]]
+[[Category:Footballers at the 2024 Summer Olympics]]
+[[Category:2025 Africa Cup of Nations players]]
+[[Category:2026 FIFA World Cup players]]
+[[Category:Olympic footballers for Egypt]]
+[[Category:Egypt men's under-23 international footballers]]
+[[Category:21st-century Egyptian sportsmen]]

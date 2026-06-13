@@ -1,0 +1,17 @@
+{
+ "match": {
+  "slug": "2026-06-14_SWE_vs_TUN",
+  "date": "2026-06-14",
+  "home": "SWE",
+  "away": "TUN",
+  "round": "group",
+  "group": "F"
+ },
+ "referee": {
+  "name": "Yael Falcon Perez(阿根廷)",
+  "source": "WebSearch多源(NewsTunisia/FootAfrica/SwedenHerald)",
+  "fetched": "2026-06-13_1601"
+ },
+ "brief": "",
+ "_note": "裁判=比赛层人员数据,与教练同规格(结构化+可读brief);brief 由 referee_enrich.py py-Kimi 生成。"
+}

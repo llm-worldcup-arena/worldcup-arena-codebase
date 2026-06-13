@@ -1,0 +1,36 @@
+===Current squad===
+The following 26 players were called up to the [[2026 FIFA World Cup]], and for the pre-tournament friendly matches against [[Croatia national football team|Croatia]] and [[Tunisia national football team|Tunisia]] on 2 and 6 June 2026, respectively.<ref>{{cite news |url=https://sporza.be/nl/2026/05/15/met-fernandez-pardo-maar-zonder-de-cat-en-godts-dit-is-de-selectie-van-de-rode-duivels-voor-het-wk~1778818489510/ |title=Mét Fernández-Pardo, maar zonder De Cat en Godts: dit is de selectie van de Rode Duivels voor het WK |trans-title=With Fernández-Pardo, but without De Cat and Godts: this is the Red Devils' squad for the World Cup. |publisher=sporza| access-date=15 May 2026}}</ref>
+<br>''Information correct {{as of|2026|6|6|lc=y}}, after the match against [[Tunisia national football team|Tunisia]].''<ref>{{cite web | url=https://www.uefa.com/european-qualifiers/match/2044268--belgium-vs-north-macedonia/ | title=Belgium-North Macedonia; UEFA.com |website=[[UEFA]]}}</ref><ref>{{cite web|url=https://eu-football.info/_players.php?id=21&data=9|title=Most Belgium Caps|website=EU-Football.info}}</ref>
+<!--DO NOT RE-SORT BY SQUAD NUMBER, that is meaningless and ever changing-->
+<!--ORGANISED BY POSITION, THEN MOST CAPS, GOALS, THEN SURNAME-->
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Thibaut Courtois]]|age={{birth date and age|1992|5|11|df=y}}|caps=109|goals=0|club=[[Real Madrid CF|Real Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=12|pos=GK|name=[[Senne Lammens]]|age={{birth date and age|2002|7|7|df=y}}|caps=2|goals=0|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs g player|no=13|pos=GK|name=[[Mike Penders]]|age={{birth date and age|2005|7|31|df=y}}|caps=0|goals=0|club=[[RC Strasbourg Alsace|Strasbourg]]|clubnat=FRA}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Zeno Debast]]|age={{birth date and age|2003|10|24|df=y}}|caps=26|goals=1|club=[[Sporting CP]]|clubnat=POR}}
+{{nat fs g player|no=3|pos=DF|name=[[Arthur Theate]]|age={{birth date and age|2000|5|25|df=y}}|caps=33|goals=1|club=[[Eintracht Frankfurt]]|clubnat=GER}}
+{{nat fs g player|no=4|pos=DF|name=[[Brandon Mechele]]|age={{birth date and age|1993|1|28|df=y}}|caps=9|goals=1|club=[[Club Brugge KV|Club Brugge]]|clubnat=BEL}}
+{{nat fs g player|no=5|pos=DF|name=[[Maxim De Cuyper]]|age={{birth date and age|2000|12|22|df=y}}|caps=19|goals=4|club=[[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]|clubnat=ENG}}
+{{nat fs g player|no=15|pos=DF|name=[[Thomas Meunier]]|age={{birth date and age|1991|9|12|df=y}}|caps=80|goals=10|club=[[Lille OSC|Lille]]|clubnat=FRA}}
+{{nat fs g player|no=16|pos=DF|name=[[Koni De Winter]]|age={{birth date and age|2002|6|12|df=y}}|caps=8|goals=0|club=[[AC Milan|Milan]]|clubnat=ITA}}
+{{nat fs g player|no=18|pos=DF|name=[[Joaquin Seys]]|age={{birth date and age|2005|3|28|df=y}}|caps=5|goals=0|club=[[Club Brugge KV|Club Brugge]]|clubnat=BEL}}
+{{nat fs g player|no=21|pos=DF|name=[[Timothy Castagne]]|age={{birth date and age|1995|12|5|df=y}}|caps=63|goals=2|club=[[Fulham F.C.|Fulham]]|clubnat=ENG}}
+{{nat fs g player|no=25|pos=DF|name=[[Nathan Ngoy]]|age={{birth date and age|2003|6|10|df=y}}|caps=4|goals=0|club=[[Lille OSC|Lille]]|clubnat=FRA}}
+{{nat fs break}}
+{{nat fs g player|no=6|pos=MF|name=[[Axel Witsel]]|age={{birth date and age|1989|1|12|df=y}}|caps=138|goals=12|club=[[Girona FC|Girona]]|clubnat=ESP}}
+{{nat fs g player|no=7|pos=MF|name=[[Kevin De Bruyne]]|age={{birth date and age|1991|6|28|df=y}}|caps=119|goals=37|club=[[SSC Napoli|Napoli]]|clubnat=ITA}}
+{{nat fs g player|no=8|pos=MF|name=[[Youri Tielemans]]|other=[[Captain (association football)|captain]]|age={{birth date and age|1997|5|7|df=y}}|caps=85|goals=13|club=[[Aston Villa F.C.|Aston Villa]]|clubnat=ENG}}
+{{Nat fs g player|no=19|pos=MF|name=[[Diego Moreira]]|age={{birth date and age|2004|8|6|df=y}}|caps=3|goals=0|club=[[RC Strasbourg Alsace|Strasbourg]]|clubnat=FRA}}
+{{nat fs g player|no=20|pos=MF|name=[[Hans Vanaken]]|age={{birth date and age|1992|8|24|df=y}}|caps=34|goals=7|club=[[Club Brugge KV|Club Brugge]]|clubnat=BEL}}
+{{nat fs g player|no=23|pos=MF|name=[[Nicolas Raskin]]|age={{birth date and age|2001|2|23|df=y}}|caps=13|goals=2|club=[[Rangers F.C.|Rangers]]|clubnat=SCO}}
+{{nat fs g player|no=24|pos=MF|name=[[Amadou Onana]]|age={{birth date and age|2001|8|16|df=y}}|caps=29|goals=1|club=[[Aston Villa F.C.|Aston Villa]]|clubnat=ENG}}
+{{nat fs break}}
+{{nat fs g player|no=9|pos=FW|name=[[Romelu Lukaku]]|other=[[Captain (association football)|vice-captain]]|age={{birth date and age|1993|5|13|df=y}}|caps=126|goals=[[List of international goals scored by Romelu Lukaku|90]]|club=[[SSC Napoli|Napoli]]|clubnat=ITA}}
+{{nat fs g player|no=10|pos=FW|name=[[Leandro Trossard]]|age={{birth date and age|1994|12|4|df=y}}|caps=51|goals=12|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs g player|no=11|pos=FW|name=[[Jérémy Doku]]|age={{birth date and age|2002|5|27|df=y}}|caps=43|goals=7|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs g player|no=14|pos=FW|name=[[Dodi Lukébakio]]|age={{birth date and age|1997|9|24|df=y}}|caps=30|goals=6|club=[[S.L. Benfica|Benfica]]|clubnat=POR}}
+{{nat fs g player|no=17|pos=FW|name=[[Charles De Ketelaere]]|age={{birth date and age|2001|3|10|df=y}}|caps=30|goals=6|club=[[Atalanta BC|Atalanta]]|clubnat=ITA}}
+{{nat fs g player|no=22|pos=FW|name=[[Alexis Saelemaekers]]|age={{birth date and age|1999|6|27|df=y}}|caps=24|goals=2|club=[[AC Milan|Milan]]|clubnat=ITA}}
+{{nat fs g player|no=26|pos=FW|name=[[Matias Fernandez-Pardo]]|age={{birth date and age|2005|2|3|df=y}}|caps=2|goals=0|club=[[Lille OSC|Lille]]|clubnat=FRA}}
+{{nat fs end}}

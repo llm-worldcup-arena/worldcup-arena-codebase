@@ -1,0 +1,322 @@
+{{Short description|English footballer (born 2000)}}
+{{Use British English|date=March 2022}}
+{{Use dmy dates|date=March 2022}}
+{{Infobox football biography
+| name = Marc Guéhi
+| image = Marc Guehi December 2018.jpg
+| caption = Guéhi playing for [[Chelsea F.C.|Chelsea]] in 2018
+| full_name = Addji Keaninkin Marc-Israel Guéhi
+| birth_date = {{birth date and age|2000|07|13|df=y}}
+| birth_place = [[Abidjan]], Ivory Coast
+| height = {{convert|1.82|m|order=flip}}<ref name="PremProfile">{{cite web |url=https://www.premierleague.com/players/14569/Marc-Gu%C3%A9hi/overview |title=Marc Guéhi: Overview |publisher=Premier League |accessdate=28 March 2022 |archive-date=27 March 2022 |archive-url=https://web.archive.org/web/20220327234408/https://www.premierleague.com/players/14569/Marc-Gu%C3%A9hi/overview |url-status=dead }}</ref>
+| position = [[Centre-back]]<ref>{{cite web |url=https://www.worldfootball.net/person/pe490651/marc-guehi/ |title=Marc Guehi: Profile |website=worldfootball.net |publisher=HEIM:SPIEL |access-date=28 March 2022}}</ref>
+| currentclub = [[Manchester City F.C.|Manchester City]]
+| clubnumber = 15
+| youthyears1 = 2005–2007
+| youthclubs1 = [[Cray Wanderers F.C.|Cray Wanderers]]
+| youthyears2 = 2007–2019
+| youthclubs2 = [[Chelsea F.C. Development Squad and Academy|Chelsea]]
+| years1 = 2019–2021
+| clubs1 = [[Chelsea F.C.|Chelsea]]
+| caps1 = 0
+| goals1 = 0
+| years2 = 2020–2021
+| clubs2 = → [[Swansea City A.F.C.|Swansea City]] (loan)
+| caps2 = 52
+| goals2 = 0
+| years3 = 2021–2026
+| clubs3 = [[Crystal Palace F.C.|Crystal Palace]]
+| caps3 = 152
+| goals3 = 8
+| years4 = 2026–
+| clubs4 = [[Manchester City F.C.|Manchester City]]
+| caps4 = 15
+| goals4 = 1
+| nationalyears1 = 2015–2016
+| nationalteam1 = [[England national under-16 football team|England U16]]<!-- per http://www.englandfootballonline.com/MatchRsl/MatchRslTmU16pg4.html -->
+| nationalcaps1 = 10
+| nationalgoals1 = 2
+| nationalyears2 = 2016–2017
+| nationalteam2 = [[England national under-17 football team|England U17]]<!-- per http://www.englandfootballonline.com/MatchRsl/MatchRslTmU17pg2.html and http://www.englandfootballonline.com/MatchRsl/MatchRslTmU18pg7.html - includes appearances from the 2017 FIFA U-20 World Cup and a pre-tournament friendly, which England Football Online list on their U18 page -->
+| nationalcaps2 = 20
+| nationalgoals2 = 2
+| nationalyears3 = 2017–2018
+| nationalteam3 = [[England national under-18 football team|England U18]]<!-- per http://www.englandfootballonline.com/MatchRsl/MatchRslTmU18pg7.html - excludes appearances from the 2017 FIFA U-20 World Cup and a pre-tournament friendly, which England Football Online list on their U18 page -->
+| nationalcaps3 = 3
+| nationalgoals3 = 0
+| nationalyears4 = 2018–2019
+| nationalteam4 = [[England national under-19 football team|England U19]]<!-- per http://www.englandfootballonline.com/MatchRsl/MatchRslTmU19pg2.html -->
+| nationalcaps4 = 6
+| nationalgoals4 = 2
+| nationalyears5 = 2019
+| nationalteam5 = [[England national under-20 football team|England U20]]<!-- per http://www.englandfootballonline.com/MatchRsl/MatchRslTmU21pg4.html - includes appearances from the 2019 Toulon Tournament, which England Football Online list on their U21 page -->
+| nationalcaps5 = 3
+| nationalgoals5 = 0
+| nationalyears6 = 2019–2021
+| nationalteam6 = [[England national under-21 football team|England U21]]<!-- per http://www.englandfootballonline.com/MatchRsl/MatchRslTmU21pg4.html and http://www.englandfootballonline.com/MatchRsl/MatchRslTmU21pg5.html - excludes appearances from the 2019 Toulon Tournament, which England Football Online list on their U21 page -->
+| nationalcaps6 = 16
+| nationalgoals6 = 1
+| nationalyears7 = 2022–
+| nationalteam7 = [[England national football team|England]]
+| nationalcaps7 = 27
+| nationalgoals7 = 1
+| club-update = 23:54, 19 May 2026 (UTC)
+| nationalteam-update = 23:53, 31 March 2026 (UTC)
+| medaltemplates = {{MedalSport|Men's [[Association football|football]]}}
+{{MedalCountry|{{fb|ENG}}}}
+{{MedalCompetition|[[UEFA European Championship]]}}
+{{Medal|RU|[[UEFA Euro 2024|2024 Germany]]|[[UEFA Euro 2024 squads#England|Team]]}}
+{{MedalCompetition|[[FIFA U-17 World Cup]]}}
+{{Medal|W|[[2017 FIFA U-17 World Cup|2017 India]]|[[2017 FIFA U-17 World Cup squads#England|Team]]}}
+{{MedalCompetition|[[UEFA European Under-17 Championship]]}}
+{{Medal|RU|[[2017 UEFA European Under-17 Championship|2017 Croatia]]|[[2017 UEFA European Under-17 Championship squads#England|Team]]}}
+}}
+'''Addji Keaninkin Marc-Israel Guéhi''' ({{IPAc-en|ˈ|g|eɪ|.|i}} {{respell|GAY|ee}};<ref>{{cite web |url=https://www.youtube.com/watch?v=bM9-kArPbGY&t=6m17s |title=First Interview with Marc Guéhi |publisher=Crystal Palace F.C. |date=18 July 2021 |accessdate=23 January 2022 |via=YouTube |archive-date=1 October 2023 |archive-url=https://web.archive.org/web/20231001085438/https://www.youtube.com/watch?v=bM9-kArPbGY&t=6m17s |url-status=live }}</ref> born 13 July 2000) is a professional [[association football|footballer]] who plays as a [[centre-back]] for [[Premier League]] club [[Manchester City F.C.|Manchester City]] and the [[England national football team|England national team]].
+
+Guéhi came through the youth system at [[Chelsea F.C.|Chelsea]] and made his first-team debut in 2019 before spending a season and a half on [[Loan (association football)|loan]] at [[Swansea City A.F.C.|Swansea City]]. He joined [[Crystal Palace F.C.|Crystal Palace]] in 2021 for £18 million, becoming the club's third most expensive signing. He went on to make over 180 appearances for the club; appointed [[Captain (association football)|club captain]] in 2024, he led them to win both the [[2024–25 FA Cup|FA Cup]] and [[2025 FA Community Shield|Community Shield]] in 2025.
+
+Born in the Ivory Coast, Guéhi has represented England at youth level and was a key part of the [[2017 FIFA U-17 World Cup]] winning squad. He made his debut for the senior team in 2022, and was a starting member of the squad that were runners-up at [[UEFA Euro 2024]].
+
+==Early life==
+Addji Keaninkin Marc-Israel Guéhi<ref>{{cite web |url=https://uk.soccerway.com/players/marc-guehi/420559/ |title=M. Guéhi: Summary |website=Soccerway |publisher=Perform Group |accessdate=28 March 2022 |archive-date=23 July 2019 |archive-url=https://web.archive.org/web/20190723110307/https://uk.soccerway.com/players/marc-guehi/420559/ |url-status=live }}</ref> was born on 13 July 2000<ref name="PremProfile"/> in [[Abidjan]], Ivory Coast,<ref>{{cite web |url=https://www.11v11.com/players/marc-guehi-262406/ |title=Marc Guehi |website=11v11.com |publisher=AFS Enterprises |accessdate=28 March 2022 |archive-date=12 October 2019 |archive-url=https://web.archive.org/web/20191012092330/https://www.11v11.com/players/marc-guehi-262406/ |url-status=live }}</ref> and moved with his family to [[Lewisham]], London, England, at the age of one.<ref name=":0">{{cite web |title=In the Spotlight {{!}} Marc Guehi |url=https://www.swanseacity.com/news/spotlight-marc-guehi |access-date=16 July 2021 |website=Swansea City A.F.C. |archive-date=30 January 2023 |archive-url=https://web.archive.org/web/20230130213641/https://www.swanseacity.com/news/spotlight-marc-guehi |url-status=live}}</ref> He attended [[St George's Church of England School]] in Gravesend, Kent.<ref>{{cite web |last1=Cawdell |first1=Luke |title=Gravesend schoolboy and Crystal Palace player Marc Guehi picked for Gareth Southgate's England training squad ahead of Euro 2024 |url=https://www.kentonline.co.uk/gravesend/sport/gravesend-schoolboy-guehi-picked-in-southgate-s-training-squ-307063/ |website=Kent Online |access-date=3 July 2024 |date=21 May 2024}}</ref> His father was a minister of a local church, meaning his childhood often focused on religion and education over football.<ref name=":1">{{cite news |last1=Twomey |first1=Liam |last2=James |first2=Stuart |date=20 March 2021 |title=Marc Guehi is serious about playing Premier League football |url=https://www.nytimes.com/athletic/2463674/2021/03/20/marc-guehi-is-serious-about-playing-premier-league-football/ |access-date=16 July 2021 |work=[[The Athletic]] |archive-date=12 December 2024 |archive-url=https://web.archive.org/web/20241212133211/https://www.nytimes.com/athletic/2463674/2021/03/20/marc-guehi-is-serious-about-playing-premier-league-football/ |url-status=live}}</ref> He began playing in the [[Cray Wanderers F.C.|Cray Wanderers]] youth system aged six and was coached by a scout from [[Premier League]] club [[Chelsea F.C.|Chelsea]].<ref name=":0" /> After two years with the [[Non-League football|non-League]] club, he signed for Chelsea and progressed through the academy.<ref name=":1" />
+
+==Club career==
+===Chelsea===
+Progressing through the youth ranks, Guéhi regularly featured for the under-18s during their treble-winning campaign in 2017.<ref>{{Cite news |date=30 June 2016 |title=New Academy scholars introduced |publisher=Chelsea F.C. |url=https://www.chelseafc.com/en/news/2016/06/30/new-academy-scholars-introduced |access-date=16 July 2021 |archive-date=16 July 2021 |archive-url=https://web.archive.org/web/20210716141810/https://www.chelseafc.com/en/news/2016/06/30/new-academy-scholars-introduced |url-status=live }}</ref><ref name=":2">{{Cite web |title=Marc Guehi |url=https://www.chelseafc.com/en/teams/on-loan-players/marc-guehi |access-date=16 July 2021 |publisher=Chelsea F.C. |archive-date=16 July 2021 |archive-url=https://web.archive.org/web/20210716141814/https://www.chelseafc.com/en/teams/on-loan-players/marc-guehi |url-status=live }}</ref> In September 2017, he signed his first professional contract, for three years.<ref name=":2" /><ref>{{Cite web |date=1 September 2017 |title=Premier League Clubs submit Squad Lists |url=https://premierleague-static-files.s3.amazonaws.com/premierleague/document/2017/09/03/c38cc993-7682-40ad-80fe-7792d690d2a8/Premier-League-Squad-Lists-September-2017.pdf |access-date=16 July 2021 |publisher=Premier League |archive-date=16 July 2021 |archive-url=https://web.archive.org/web/20210716141810/https://premierleague-static-files.s3.amazonaws.com/premierleague/document/2017/09/03/c38cc993-7682-40ad-80fe-7792d690d2a8/Premier-League-Squad-Lists-September-2017.pdf |url-status=live }}</ref> The following season, he helped the under-18s win a quadruple and reach the final of the [[UEFA Youth League]].<ref name=":2" />
+
+On 12 May 2019, Guéhi was named in a Premier League squad for the first time as a [[Substitute (association football)|substitute]] in a 0–0 draw away to [[Leicester City F.C.|Leicester City]].<ref>{{Cite news |last=Sutcliffe |first=Steve |date=12 May 2019 |title=Leicester City 0–0 Chelsea |website=BBC Sport |url=https://www.bbc.co.uk/sport/football/48165996|access-date=16 July 2021}}</ref> He featured as an unused substitute a further three times during the [[2019–20 Chelsea F.C. season|2019–20 season]].<ref name=":3">{{cite web |title=Marc Guéhi Match History |url=https://www.whoscored.com/players/374631/fixtures/marc-guehi |access-date=16 July 2021 |website=WhoScored.com}}</ref> On 17 September, he was an unused substitute in a 1–0 defeat to [[Valencia CF|Valencia]] in the [[UEFA Champions League]].<ref>{{cite news |last=McNulty |first=Phil |date=17 September 2019 |title=Chelsea 0–1 Valencia: Ross Barkley misses penalty after Rodrigo winner |url=https://www.bbc.co.uk/sport/football/49719162 |access-date=16 July 2021 |work=[[BBC Sport]] |language=en-GB |archive-date=16 July 2021 |archive-url=https://web.archive.org/web/20210716141812/https://www.bbc.co.uk/sport/football/49719162 |url-status=live}}</ref><ref>{{Cite news |last=Mose |first=Dickson |date=18 September 2019 |title=Who's Marc Guehi? The Chelsea youngster who was on the bench against Valencia |website=Futaa |url=https://futaa.com/article/193341/who-s-marc-guehi-the-chelsea-youngster-who-was-on-the-bench-against-valencia |access-date=16 July 2021 |archive-date=5 November 2022 |archive-url=https://web.archive.org/web/20221105225455/https://futaa.com/article/193341/who-s-marc-guehi-the-chelsea-youngster-who-was-on-the-bench-against-valencia |url-status=dead }}</ref> The following week, he made his professional debut in a 7–1 win against [[Grimsby Town F.C.|Grimsby Town]] in the [[EFL Cup]] third round.<ref>{{cite news |last=Sanders |first=Emma |date=25 September 2019 |title=Chelsea 7–1 Grimsby Town: Reece James impresses on debut |url=https://www.bbc.co.uk/sport/football/49736854 |access-date=16 July 2021 |work=[[BBC Sport]] |language=en-GB |archive-date=4 November 2022 |archive-url=https://web.archive.org/web/20221104061736/https://www.bbc.co.uk/sport/football/49736854 |url-status=live}}</ref> His second and final appearance for the club came in a 2–1 defeat to [[Manchester United F.C.|Manchester United]] in the fourth round on 30 October.<ref>{{cite news |last=Begley |first=Emlyn |date=30 October 2019 |title=Chelsea 1–2 Manchester United: Marcus Rashford puts United into EFL Cup last eight |url=https://www.bbc.com/sport/football/50148249 |access-date=16 July 2021 |work=[[BBC Sport]] |language=en-GB |archive-date=2 January 2020 |archive-url=https://web.archive.org/web/20200102124636/https://www.bbc.com/sport/football/50148249 |url-status=live}}</ref>
+
+====Loans to Swansea City====
+On 10 January 2020, Guéhi joined [[EFL Championship|Championship]] club [[Swansea City A.F.C.|Swansea City]] on [[Loan (association football)|loan]] for the remainder of the [[2019–20 Swansea City A.F.C. season|2019–20 season]].<ref>{{cite web |title=Swansea City seal loan move for Chelsea defender Marc Guehi |url=https://www.swanseacity.com/news/swansea-city-seal-loan-move-chelsea-defender-marc-guehi |access-date=10 January 2020 |website=Swansea City A.F.C. |archive-date=11 January 2020 |archive-url=https://web.archive.org/web/20200111144936/https://www.swanseacity.com/news/swansea-city-seal-loan-move-chelsea-defender-marc-guehi |url-status=live |date=10 January 2020}}</ref> The move saw him re-unite with [[Steve Cooper (football manager)|Steve Cooper]], who had previously managed him in England's [[2017 FIFA U-17 World Cup]] winning squad.<ref>{{Cite news |last=Vincent |first=Gareth |date=10 January 2020 |title=Marc Guehi: Chelsea defender joins Swansea City on loan |website=BBC Sport |url=https://www.bbc.co.uk/sport/football/51042147|access-date=16 July 2021}}</ref> After being named as an unused substitute on two occasions, Guéhi made his debut in a 2–0 defeat to [[Stoke City F.C.|Stoke City]] on 25 January.<ref>{{Cite news |last=Vincent |first=Gareth |date=12 January 2021 |title=Cardiff City 0–0 Swansea City |website=BBC Sport |url=https://www.bbc.co.uk/sport/football/50996670|access-date=16 July 2021}}</ref><ref>{{Cite news |last=Pritchard |first=Dafydd |date=18 January 2020 |title=Swansea City 2–1 Wigan Athletic |website=BBC Sport |url=https://www.bbc.co.uk/sport/football/51072965|access-date=16 July 2021}}</ref><ref>{{cite news |date=25 January 2020 |title=Stoke City 2–0 Swansea City: Clucas and McClean helps Potters ease relegation fears |url=https://www.bbc.co.uk/sport/football/51158698 |access-date=16 July 2021 |work=[[BBC Sport]] |language=en-GB}}</ref> He remained in the starting lineup for the next four games, but came under criticism after Swansea failed to win any of their last five games. Cooper backed the defender and stated "it's difficult for young players to make an instant impact".<ref>{{cite news |last=Mitchelmore |first=Ian |date=20 February 2020 |title=Cooper's talks with 'annoyed' Celina and Guehi's loan deal terms |url=https://www.walesonline.co.uk/sport/football/football-news/swansea-city-chelsea-celina-guehi-17783604 |access-date=16 July 2021 |newspaper=Wales Online |archive-date=16 July 2021 |archive-url=https://web.archive.org/web/20210716141818/https://www.walesonline.co.uk/sport/football/football-news/swansea-city-chelsea-celina-guehi-17783604 |url-status=live}}</ref>
+
+Following a [[Impact of the COVID-19 pandemic on association football|three-month pause]] due to the [[COVID-19 pandemic]], Guéhi was named on the bench twice before returning as a late substitute in a 1–1 draw against [[Millwall F.C.|Millwall]].<ref>{{cite news |last=MacInnes |first=Paul |date=28 May 2020 |title=Premier League plans restart on 17 June with Manchester City v Arsenal |url=https://www.theguardian.com/football/2020/may/28/premier-league-restart-june-details-manchester-city-arsenal-aston-villa-sheffield-united |access-date=16 July 2021 |work=[[The Guardian]] |language=en-GB |issn=0261-3077 |archive-date=5 November 2022 |archive-url=https://web.archive.org/web/20221105220931/https://www.theguardian.com/football/2020/may/28/premier-league-restart-june-details-manchester-city-arsenal-aston-villa-sheffield-united |url-status=live}}</ref><ref>{{cite news |date=20 June 2020 |title=Middlesbrough 0–3 Swansea City: Rhian Brewster brace helps Swans to victory |url=https://www.bbc.co.uk/sport/football/51779307 |access-date=16 July 2021 |work=[[BBC Sport]] |language=en-GB |archive-date=30 April 2021 |archive-url=https://web.archive.org/web/20210430022112/https://www.bbc.co.uk/sport/football/51779307 |url-status=live}}</ref><ref>{{cite news |last=Pritchard |first=Dafydd |date=27 June 2020 |title=Swansea City 0–1 Luton Town: Collins strikes to take visitors of the bottom |url=https://www.bbc.co.uk/sport/football/51828947 |access-date=16 July 2021 |work=[[BBC Sport]] |language=en-GB |archive-date=24 May 2021 |archive-url=https://web.archive.org/web/20210524151600/https://www.bbc.co.uk/sport/football/51828947 |url-status=live}}</ref><ref>{{cite news |last=Pearlman |first=Michael |date=30 June 2020 |title=Millwall 1–1 Swansea: Play-off hopes fade after draw |url=https://www.bbc.co.uk/sport/football/51884002 |access-date=16 July 2021 |work=[[BBC Sport]] |language=en-GB |archive-date=16 July 2021 |archive-url=https://web.archive.org/web/20210716141808/https://www.bbc.co.uk/sport/football/51884002 |url-status=live}}</ref> On 5 July, he made his first start in five months in a 2–1 win over [[Sheffield Wednesday F.C.|Sheffield Wednesday]].<ref>{{cite news |date=5 July 2020 |title=Swansea City 2–1 Sheffield Wednesday |url=https://www.bbc.com/sport/football/52072732 |access-date=16 July 2021 |work=[[BBC Sport]] |language=en-GB}}</ref> He started in all five of Swansea's remaining league matches and helped guide the team to sixth place and a [[2020 English Football League play-offs|play-off]] position.<ref name=":3" /> He featured in both legs of the semi-final as Swansea lost 3–2 on aggregate to [[Brentford F.C.|Brentford]].<ref>{{Cite news |last=Vincent |first=Gareth |date=26 July 2020 |title=Swansea City 1–0 Brentford: Hosts take Championship play-off advantage |url=https://www.bbc.co.uk/sport/football/53508323 |access-date=16 July 2021 |work=[[BBC Sport]] |language=en-GB |archive-date=14 August 2020 |archive-url=https://web.archive.org/web/20200814130108/https://www.bbc.co.uk/sport/football/53508323 |url-status=live }}</ref><ref>{{Cite news |last=Stevens |first=Rob |date=29 July 2020 |title=Brentford 3–1 Swansea City |website=BBC Sport |url=https://www.bbc.co.uk/sport/football/53508321 |access-date=16 July 2021 |archive-date=21 August 2020 |archive-url=https://web.archive.org/web/20200821213019/https://www.bbc.co.uk/sport/football/53508321 |url-status=live }}</ref>
+
+On 26 August 2020, Guéhi returned to Swansea on loan for the [[2020–21 Swansea City A.F.C. season|2020–21 season]].<ref>{{cite web |title=Marc Guehi seals Swansea City return |url=https://www.swanseacity.com/news/marc-guehi-seals-swansea-city-return |access-date=26 August 2020 |website=Swansea City A.F.C. |archive-date=16 November 2020 |archive-url=https://web.archive.org/web/20201116041547/https://www.swanseacity.com/news/marc-guehi-seals-swansea-city-return |url-status=live |date=26 August 2020}}</ref> He became a regular in defence with only four Swansea players appearing for more minutes throughout the campaign.<ref>{{Cite web |title=Swansea Squad |url=https://www.whoscored.com/Teams/259/Show/Wales-Swansea|access-date=16 July 2021 |website=whoscored.com}}</ref> Guéhi began the season with three consecutive clean sheets against [[Preston North End F.C.|Preston North End]], [[Birmingham City F.C.|Birmingham City]] and [[Wycombe Wanderers F.C.|Wycombe Wanderers]], and went on to keep a further 14 in the league as Swansea finished fourth.<ref>{{cite news |last=Pritchard |first=Dafydd |date=12 September 2020 |title=Preston North End 0–1 Swansea City: Morgan Gibbs-White hits league debut winner |url=https://www.bbc.co.uk/sport/football/54037690 |access-date=16 July 2021 |work=[[BBC Sport]] |language=en-GB |archive-date=9 May 2022 |archive-url=https://web.archive.org/web/20220509204733/https://www.bbc.co.uk/sport/football/54037690 |url-status=live}}</ref><ref>{{cite news |last=Pritchard |first=Dafydd |date=19 September 2020 |title=Swansea City 0–0 Birmingham City: Defences on top in tepid draw |website=[[BBC Sport]] |url=https://www.bbc.com/sport/football/54127585|access-date=16 July 2021}}</ref><ref>{{cite news |last=Vincent |first=Gareth |date=26 September 2020 |title=Wycombe Wanderers 0–2 Swansea City: Ayew and Lowe secure Swans win |url=https://www.bbc.co.uk/sport/football/54215094 |access-date=16 July 2021 |work=[[BBC Sport]] |language=en-GB |archive-date=8 October 2020 |archive-url=https://web.archive.org/web/20201008145902/https://www.bbc.co.uk/sport/football/54215094 |url-status=live}}</ref> He played every minute of their [[2021 English Football League play-offs|play-off]] campaign, beating [[Barnsley F.C.|Barnsley]] 2–1 across the semi-finals before a 2–0 final defeat to Brentford.<ref>{{cite news |last=Woodcock |first=Ian |date=17 May 2021 |title=Championship play-offs: Barnsley 0–1 Swansea City |url=https://www.bbc.co.uk/sport/football/57052708 |access-date=16 July 2021 |work=[[BBC Sport]] |language=en-GB |archive-date=18 May 2021 |archive-url=https://web.archive.org/web/20210518215836/https://www.bbc.co.uk/sport/football/57052708 |url-status=live}}</ref><ref>{{Cite news |last=Vincent |first=Gareth |date=22 May 2021 |title=Swansea City 1–1 Barnsley |website=BBC Sport |url=https://www.bbc.co.uk/sport/football/57125182 |access-date=16 July 2021 |archive-date=21 May 2021 |archive-url=https://web.archive.org/web/20210521233214/https://www.bbc.co.uk/sport/football/57125182 |url-status=live }}</ref><ref>{{Cite news |last=Vincent |first=Gareth |date=29 May 2021 |title=Brentford 2–0 Swansea City |website=BBC Sport |url=https://www.bbc.co.uk/sport/football/57215919 |access-date=16 July 2021 |archive-date=19 October 2021 |archive-url=https://web.archive.org/web/20211019222317/https://www.bbc.co.uk/sport/football/57215919 |url-status=live }}</ref>
+
+===Crystal Palace===
+
+==== 2021–2024: Early seasons ====
+On 18 July 2021, Guéhi joined [[Crystal Palace F.C.|Crystal Palace]] on a five-year contract for a reported fee of £18&nbsp;million, making him the club's third-most expensive signing of all-time, behind [[Christian Benteke]] and [[Mamadou Sakho]].<ref>{{Cite news |date=18 July 2021 |title=Crystal Palace sign Marc Guéhi on five-year deal |publisher=Crystal Palace F.C. |url=https://www.cpfc.co.uk/news/announcement/crystal-palace-sign-marc-guehi-on-five-year-deal/2021-07-18/ |access-date=20 July 2021 |archive-date=18 October 2022 |archive-url=https://web.archive.org/web/20221018085058/https://www.cpfc.co.uk/news/announcement/crystal-palace-sign-marc-guehi-on-five-year-deal/2021-07-18/ |url-status=live }}</ref><ref>{{cite news |agency=P.A. Media |date=18 July 2021 |title=Crystal Palace sign £18m Marc Guéhi from Chelsea on five-year deal |url=https://www.theguardian.com/football/2021/jul/18/crystal-palace-marc-guehi-chelsea |access-date=18 July 2021 |work=[[The Guardian]] |language=en-GB |issn=0261-3077 |archive-date=22 March 2023 |archive-url=https://web.archive.org/web/20230322204405/https://www.theguardian.com/football/2021/jul/18/crystal-palace-marc-guehi-chelsea |url-status=live}}</ref><ref>{{cite news |last=Aarons |first=Ed |date=15 July 2021 |title=Crystal Palace agree fee for defender Marc Guehi with Chelsea |url=https://www.theguardian.com/football/2021/jul/15/crystal-palace-agree-fee-defender-marc-guehi-with-chelsea |access-date=19 July 2021 |work=[[The Guardian]] |language=en-GB |issn=0261-3077}}</ref> It was also reported that Chelsea had included sell-on incentives and the right to match any offers made for Guéhi in future.<ref>{{Cite web |url=https://www.skysports.com/football/news/11095/12358727/crystal-palace-transfer-news-marc-guehi-joins-from-chelsea-on-five-year-deal |title=Crystal Palace transfer news: Marc Guehi joins from Chelsea on five-year deal |publisher=SkySports |date=18 July 2021 |accessdate=18 July 2021 |archive-date=18 July 2021 |archive-url=https://web.archive.org/web/20210718183737/https://www.skysports.com/football/news/11095/12358727/crystal-palace-transfer-news-marc-guehi-joins-from-chelsea-on-five-year-deal |url-status=live }}</ref>
+
+On 20 November 2021, Guéhi scored the first senior goal of his career in a 3–3 draw with [[Burnley F.C.|Burnley]] in the Premier League.<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/59271457|title=Burnley 3–3 Crystal Palace|website=BBC Sport|date=20 November 2021}}</ref> He scored a consolation goal in a 2–1 loss to [[Aston Villa F.C.|Aston Villa]] at [[Selhurst Park]] a week later, ensuring he had scored in back-to-back games.<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/59356975|title=Crystal Palace 1–2 Aston Villa|website=BBC Sport|date=27 November 2021}}</ref> Overall, he made 42 appearances in [[2021–22 Crystal Palace F.C. season|his first season]], forming a centre-back partnership with [[Joachim Andersen (footballer)|Joachim Andersen]] and starting in Palace's run to the [[2021–22 FA Cup|FA Cup]] semi-final, as well as scoring goals in wins against [[Hartlepool United F.C.|Hartlepool United]] and [[Everton F.C.|Everton]] along the way.<ref>{{cite web|url=https://www.cpfc.co.uk/news/first-team/joachim-andersen-and-marc-guehi-discuss-crystal-palace-defensive-partnership/|title=Andersen reveals he researched Guehi before Palace signing|date=28 April 2022|website=Crystal Palace F.C.|language=en-GB}}</ref>
+
+In the following campaign, the [[2022–23 Crystal Palace F.C. season|2022–23 season]], Guéhi started all but one of Crystal Palace's games in all competitions, as well as scoring a goal in a 5–1 routing of [[Leeds United F.C.|Leeds United]] on 9 April 2023.<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/65152636|title=Leeds United 1–5 Crystal Palace|website=BBC Sport|date=9 April 2023|access-date=17 May 2025|archive-date=13 January 2024|archive-url=https://web.archive.org/web/20240113002308/https://www.bbc.co.uk/sport/football/65152636|url-status=live}}</ref> He spent several months of the [[2023–24 Crystal Palace F.C. season|2023–24 season]] out with a knee injury, though returned for the final few matches of the season.<ref>{{cite web|url=https://www.cpfc.co.uk/news/first-team/marc-guehi-reaction-crystal-palace-manchester-united-may-2024/|title=Guéhi: I'm happy for the team, and to return|date=7 May 2024|website=Crystal Palace F.C.|language=en-GB}}</ref>
+
+==== 2024–2025: Captaincy and FA Cup win ====
+Amidst interest and numerous bids rejected from [[Newcastle United F.C.|Newcastle United]], Guéhi was named [[Captain (association football)|club captain]] ahead of the [[2024–25 Crystal Palace F.C. season|2024–25 season]], replacing [[Joel Ward (footballer)|Joel Ward]].<ref>{{cite web|url=https://www.nytimes.com/athletic/5705371/2024/08/30/guehi-crystal-palace-glasner-newcastle/|title=Marc Guehi to remain at Crystal Palace despite Newcastle interest|website=The Athletic|date=31 August 2024}}</ref> He scored a career-best three Premier League goals over the season, against Everton, [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] and [[Leicester City F.C.|Leicester City]]; he also scored three own goals, in a 3–1 win at [[Brighton & Hove Albion F.C.–Crystal Palace F.C. rivalry|rivals]] [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]], and both home and away against Newcastle,<ref>{{cite web|url=https://www.soccerbase.com/teams/team.sd?team_id=646&teamTabs=results|title=Crystal Palace’s results, 2024/25|website=Soccerbase|date=25 May 2025}}</ref> becoming the second player in Premier League history to do so home and away against an opponent in a single campaign after [[Jamie Carragher]] against [[Tottenham Hotspur F.C.|Tottenham Hotspur]] in 1998–99.<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/articles/clyq9ggzdppo|title=Newcastle United 5–0 Crystal Palace: Did you know?|website=BBC Sport|date=16 April 2025}}</ref> He was also sent off for the first time in his career on 5 April 2025, receiving a second yellow card in stoppage time in a 2–1 home win against Brighton.<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/live/c8dgj13lm5et|title=Crystal Palace 2–1 Brighton & Hove Albion|date=5 April 2025|website=BBC Sport|access-date=17 May 2025|archive-date=3 May 2025|archive-url=https://web.archive.org/web/20250503020222/https://www.bbc.co.uk/sport/football/live/c8dgj13lm5et|url-status=live}}</ref>
+
+On 17 May, Guéhi captained Crystal Palace to the club's first ever major trophy, starting in a 1–0 victory over [[Manchester City F.C.|Manchester City]] in the [[2025 FA Cup final]]; he lifted the trophy alongside previous captain Ward, having been substituted off with an injury in the second half.<ref>{{cite web|url=https://www.nytimes.com/athletic/live-blogs/crystal-palace-manchester-city-live-updates-fa-cup-final-score-result/gwL3fCyvH1fR/|website=The Athletic|title=Henderson and Eze star in heroic FA Cup final triumph|date=17 May 2025}}</ref>
+
+==== 2025–2026: Community Shield win and final season ====
+On 10 August 2025, Guéhi captained Palace in the [[2025 FA Community Shield]] against [[Liverpool F.C.|Liverpool]], later lifting his second trophy following Palace's win in the penalty shootout after a 2–2 draw.<ref>{{Cite web |title=Crystal Palace beat Liverpool on penalties to win Community Shield |url=https://www.bbc.co.uk/sport/football/live/cy7y0p1p7ezt |access-date=4 September 2025 |website=BBC Sport |language=en-GB}}</ref> Amid links with a transfer to Liverpool the next day, Palace chairman [[Steve Parish (businessman)|Steve Parish]] stated that Guéhi, with a year left on his contract and no interest in an extension, would likely be sold to avoid the club losing him for free the following summer.<ref>{{Cite web |date=11 August 2025 |title=Marc Guehi: Crystal Palace captain could be sold, says chairman Steve Parish |url=https://www.bbc.com/sport/football/articles/cd6nn7zw23po |access-date=4 September 2025 |website=BBC Sport |language=en-GB}}</ref> However, Palace manager [[Oliver Glasner]] contradicted Parish's words, stating the following week that Guéhi "[had] to stay" at the club.<ref>{{Cite news |title=Marc Guehi transfer news: Liverpool target must stay at Crystal Palace for Conference League tie, says Oliver Glasner |url=https://www.skysports.com/football/news/11706/13415735/marc-guehi-transfer-news-liverpool-target-must-stay-at-crystal-palace-for-conference-league-tie-says-oliver-glasner |archive-url=https://web.archive.org/web/20250824214201/https://www.skysports.com/football/news/11706/13415735/marc-guehi-transfer-news-liverpool-target-must-stay-at-crystal-palace-for-conference-league-tie-says-oliver-glasner |archive-date=24 August 2025 |access-date=4 September 2025 |work=Sky Sports |language=en-GB |url-status=live }}</ref>
+
+In spite of further speculation towards the end of the transfer window, Guéhi started in a 3–0 win at [[Aston Villa F.C.|Aston Villa]] on 30 August, scoring Palace's second goal, a "stunning curling effort" that went on to be nominated for [[Premier League Goal of the Month]]; his teammate [[Dean Henderson]] was later shown urging him to say goodbye to the Palace fans after the full-time whistle.<ref>{{Cite web |date=4 September 2025 |title=Guéhi's stunner nominated for Premier League Goal of the Month – News |url=https://www.cpfc.co.uk/news/announcement/marc-guehi-nominated-goal-of-the-month-premier-league/ |access-date=4 September 2025 |website=Crystal Palace F.C. |language=en-GB}}</ref><ref>{{Cite web |title=Aston Villa 0–3 Crystal Palace: Marc Guehi scores despite uncertainty on his club future |url=https://www.bbc.co.uk/sport/football/live/crlz7pe3g8et |access-date=4 September 2025 |website=BBC Sport |language=en-GB}}</ref> Following the match, Glasner reiterated that Palace could not sell Guéhi.<ref>{{Cite web |date=31 August 2025 |title=Marc Guehi transfer news: Captain must stay at Crystal Palace, says boss Oliver Glasner |url=https://www.bbc.com/sport/football/articles/c07p452x39zo |access-date=4 September 2025 |website=BBC Sport |language=en-GB}}</ref> The following day, which was [[List of English football transfers summer 2025|transfer deadline day]], Liverpool agreed a £35 million deal with Palace for Guéhi, who completed an hour-long medical and was on the verge of signing a five-year contract with the Premier League champions.<ref>{{Cite web |last=Mokbel |first=Sami |date=1 September 2025 |title=Marc Guehi transfer: Liverpool agree deal to sign England defender from Crystal Palace |url=https://www.bbc.com/sport/football/articles/ckg4rg99r7mo |access-date=4 September 2025 |website=BBC Sport |language=en-GB}}</ref> However, the transfer dramatically collapsed minutes before the deadline, with Palace, having been unable to secure an adequate replacement in time, pulling out of the deal.<ref>{{cite web |date=2 September 2025 |title=Glasner wins Guehi transfer battle at Liverpool's expense |url=https://www.bbc.com/sport/football/articles/cp3e37lxyp9o |accessdate=3 September 2025 |work=BBC Sport}}</ref> It was reported by some outlets that Glasner had threatened to resign from his position as manager had Guéhi been sold.<ref>{{Cite news |last=Aarons |first=Ed |date=1 September 2025 |title=Marc Guéhi's £35m move to Liverpool collapses after Glasner's Crystal Palace fury |url=https://www.theguardian.com/football/2025/sep/01/crystal-palace-reluctantly-agree-sell-marc-guehi-to-liverpool-35m |access-date=4 September 2025 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref> Guéhi was later nominated for [[Premier League Player of the Month]] for August 2025.<ref>{{Cite web |date=4 September 2025 |title=Guéhi nominated for Premier League Player of the Month – News |url=https://www.cpfc.co.uk/news/announcement/marc-guehi-premier-league-player-of-the-month-august-2025/ |access-date=4 September 2025 |website=Crystal Palace F.C. |language=en-GB}}</ref>
+
+On 7 December, Guéhi scored an 87th-minute winner against [[Fulham F.C.|Fulham]] to seal a 2–1 win for Palace.<ref>{{Cite web |title=Late Guehi header secures Palace win over Fulham |url=https://www.bbc.co.uk/sport/football/live/cyvgqd7jn08t |access-date=19 January 2026 |website=BBC Sport |language=en-GB}}</ref> His last goal for Palace was a 95th-minute equaliser against [[Arsenal F.C.|Arsenal]] in the [[2025–26 EFL Cup|EFL Cup]] on 23 December to seal a 1–1 draw, though Arsenal went on to triumph on penalties.<ref>{{Cite web |last=Howell |first=Alex |title=Arsenal beat Crystal Palace on penalties for place in EFL Cup semi-final against Chelsea |url=https://www.bbc.co.uk/sport/football/live/c0582m4n108t |access-date=19 January 2026 |website=BBC Sport |language=en-GB}}</ref> On 10 January 2026, he played all 90 minutes as Palace's [[2025–26 FA Cup|FA Cup]] defence came to an end in an historic [[Macclesfield 2–1 Crystal Palace (2026)|2–1 defeat]] to [[National League North|sixth division]] side [[Macclesfield F.C.|Macclesfield]], and was later seen conversing with supporters after the full-time whistle; the match ended up being his final game for Crystal Palace.<ref>{{Cite web |date=10 January 2026 |title=Marc Guehi in heated clash with Palace fans after FA Cup humiliation at Macclesfield |url=https://www.independent.co.uk/sport/football/marc-guehi-crystal-palace-fans-fa-cup-macclesfield-b2898091.html |access-date=19 January 2026 |website=The Independent |language=en}}</ref>
+
+===Manchester City===
+On 19 January 2026, [[Manchester City F.C.|Manchester City]] completed the signing of Guéhi for a reported fee of £20 million.<ref>{{Cite web |last=Irfan |first=Umir |date=19 January 2026 |title=Marc Guehi transfer news: Man City sign Crystal Palace captain for £20m |url=https://www.bbc.co.uk/sport/articles/cwy8lve847eo |access-date=19 January 2026 |website=BBC Sport |language=en-GB}}</ref> On 24 January, Guéhi made his debut for the club, starting and keeping a clean sheet in a 2–0 win over [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]].<ref>{{cite web |title=Manchester City 2-0 Wolverhampton Wanderers: Man City return to winning ways - BBC Sport |url=https://www.bbc.com/sport/football/live/c5y341g7e4gt |website=BBC Sport |access-date=24 January 2026}}</ref> On 14 February, Guéhi scored his first City goal as a substitute for [[John Stones]] in a 2–0 home win over [[EFL League Two]] side [[Salford City F.C.|Salford City]] in the [[FA Cup]] [[2025–26 FA Cup#Fourth round|fourth round]].<ref>{{cite web |title=Manchester City 2–0 Salford City: Marc Guehi scores first Man City goal in victory |url=https://www.bbc.com/sport/football/live/cg5n6yvj05rt |website=BBC Sport |access-date=14 February 2026}}</ref>
+
+==International career==
+
+=== Youth career ===
+Guéhi [[Captain (association football)|captained]] the [[England national under-17 football team|England national under-17 team]] at the [[2017 UEFA European Under-17 Championship|UEFA European Under-17 Championship]] in May 2017. He played in every match at the competition, scoring an own goal in the opening 3–1 win against [[Norway national under-17 football team|Norway]].<ref>{{Cite web |date=4 May 2017 |title=Norway 1–2 England |url=https://www.uefa.com/under17/match/2022592--norway-vs-england/|access-date=16 July 2021 |publisher=UEFA}}</ref><ref>{{Cite web |date=7 May 2017 |title=England 4–0 Ukraine |url=https://www.uefa.com/under17/match/2022600--england-vs-ukraine/|access-date=16 July 2021 |publisher=UEFA}}</ref><ref>{{Cite web |date=10 May 2017 |title=England 3–0 Netherlands |url=https://www.uefa.com/under17/match/2022607--england-vs-netherlands/ |access-date=16 July 2021 |publisher=UEFA |archive-date=16 July 2021 |archive-url=https://web.archive.org/web/20210716144818/https://www.uefa.com/under17/match/2022607--england-vs-netherlands/ |url-status=live }}</ref><ref>{{Cite web |date=13 May 2017 |title=England 1–0 Republic of Ireland |url=https://www.uefa.com/under17/match/2022688--england-vs-republic-of-ireland/ |access-date=16 July 2021 |publisher=UEFA |archive-date=16 July 2021 |archive-url=https://web.archive.org/web/20210716144815/https://www.uefa.com/under17/match/2022688--england-vs-republic-of-ireland/ |url-status=live }}</ref><ref>{{Cite web |date=16 May 2017 |title=Turkey 1–2 England |url=https://www.uefa.com/under17/match/2022689--turkey-vs-england/ |access-date=16 July 2021 |publisher=UEFA |archive-date=16 July 2021 |archive-url=https://web.archive.org/web/20210716143311/https://www.uefa.com/under17/match/2022689--turkey-vs-england/ |url-status=live }}</ref> England went on to lose on penalties to [[Spain national under-17 football team|Spain]] in the final.<ref>{{Cite web |date=19 May 2017 |title=Spain 2–2 England (Spain win on penalties 4–1) |url=https://www.uefa.com/under17/match/2022691--spain-vs-england/ |access-date=16 July 2021 |publisher=UEFA |archive-date=15 December 2019 |archive-url=https://web.archive.org/web/20191215183947/https://www.uefa.com/under17/match/2022691--spain-vs-england/lineups/?iv=true |url-status=live }}</ref><ref name="U17 UEFA">{{cite news |last=Walker |first=Andy |date=19 May 2017 |title=Young Lions beaten on penalties in UEFA Euro U17 Championship final |publisher=The Football Association |url=http://www.thefa.com/news/2017/may/19/spain-v-england-u17-report-190517 |access-date=26 September 2019 |archive-date=28 June 2017 |archive-url=https://web.archive.org/web/20170628045458/http://www.thefa.com/news/2017/may/19/spain-v-england-u17-report-190517 |url-status=live }}</ref> In October 2017, he was included in the squad for the 2017 FIFA U-17 World Cup.<ref name="U17 squad">{{cite news |last=Stone |first=Simon |date=4 October 2017 |title=England U-17 World Cup squad |website=BBC Sport |url=https://www.bbc.co.uk/sport/football/41495760 |access-date=26 September 2019 |archive-date=7 October 2017 |archive-url=https://web.archive.org/web/20171007050740/http://www.bbc.co.uk/sport/football/41495760 |url-status=live }}</ref> On 28 October, he scored the fourth goal in a 5–2 victory against Spain as England were crowned world champions.<ref>{{Cite news |date=28 October 2017 |title=England's Marc Guehi says U17 World Cup win is the 'best moment of his life' |publisher=The Football Association |url=https://www.thefa.com/news/2017/oct/28/marc-guehi-world-cup-final-reaction-281017|access-date=16 July 2021}}</ref>
+
+In October 2018, Guéhi progressed to the [[England national under-19 football team|England under-19 team]] and scored in a [[Friendly (association football)|friendly]] against [[Portugal national under-19 football team|Portugal]].<ref>{{cite web |url=http://www.thefa.com/news/2018/oct/11/england-u19s-portugal-report-111018 |title=There was an impressive win for Keith Downing's young Lions in Portugal on Thursday |date=11 October 2019 |accessdate=26 September 2019 |publisher=Football Association |archive-date=23 March 2019 |archive-url=https://web.archive.org/web/20190323195011/http://www.thefa.com/news/2018/oct/11/england-u19s-portugal-report-111018 |url-status=live }}</ref> He also scored in [[2019 UEFA European Under-19 Championship qualification#Elite round|2019 Elite Qualifiers]] against the [[Czech Republic national under-19 football team|Czech Republic]] and [[Denmark national under-19 football team|Denmark]].<ref>{{cite web |url=https://www.uefa.com/under19/match/2026292--england-vs-czechia/ |title=England U19 4–1 Czech Republic U19 |date=20 March 2019 |access-date=26 September 2019 |publisher=UEFA |archive-date=2 October 2022 |archive-url=https://web.archive.org/web/20221002003154/https://www.uefa.com/under19/match/2026292--england-vs-czechia/ |url-status=live }}</ref><ref>{{cite web |url=https://www.uefa.com/under19/match/2026320--denmark-vs-england/ |title=England U19 2–2 Denmark U19 |date=26 March 2019 |access-date=26 September 2019 |publisher=UEFA |archive-date=14 August 2020 |archive-url=https://web.archive.org/web/20200814064357/https://www.uefa.com/under19/match/2026320--denmark-vs-england/ |url-status=live }}</ref>
+
+In August 2019, Guéhi was included in an [[England national under-21 football team|England under-21 squad]] for the first time.<ref>{{cite web |title=First England Under-21 call-ups for Trevoh Chalobah and Marc Guehi |url=https://www.chelseafc.com/en/news/article/first-england-under-21-call-ups-for-trevoh-chalobah-and-marc-gue |access-date=26 September 2019 |website=Chelsea F.C. |language=en-gb |archive-date=23 February 2025 |archive-url=https://web.archive.org/web/20250223141513/https://www.chelseafc.com/en/news/article/first-england-under-21-call-ups-for-trevoh-chalobah-and-marc-gue |url-status=live |date=30 August 2019}}</ref> On 6 September 2021, [[Lee Carsley]] confirmed Guéhi as captain of the under-21s.<ref>{{cite web |url=https://www.standard.co.uk/sport/football/crystal-palace-defender-marc-guehi-to-captain-england-u21s-for-euro-2023-qualifying-lee-carsley-confirms-b953972.html |title=Crystal Palace defender Marc Guehi to captain England U21s for Euro 2023 qualifying, Lee Carsley confirms |date=6 September 2021 |accessdate=7 September 2021 |newspaper=London Evening Standard |archive-date=6 September 2021 |archive-url=https://web.archive.org/web/20210906175026/https://www.standard.co.uk/sport/football/crystal-palace-defender-marc-guehi-to-captain-england-u21s-for-euro-2023-qualifying-lee-carsley-confirms-b953972.html |url-status=live }}</ref>
+
+=== Senior career ===
+Guéhi received his first call-up to the [[England national football team|England senior team]] in March 2022 as part of [[Gareth Southgate]]'s squad for friendly matches against [[Switzerland national football team|Switzerland]] and [[Ivory Coast national football team|Ivory Coast]].<ref>{{cite news |date=17 March 2022 |title=Marc Guehi: England call up Crystal Palace defender for friendlies |url=https://www.bbc.com/sport/football/60778876 |access-date=17 March 2022 |work=[[BBC Sport]] |language=en-GB}}</ref> He made his senior debut in a 2–1 win over Switzerland at [[Wembley Stadium]] on 26 March.<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/60803641 |title=England 2 Switzerland 1 |first=Phil |last=McNulty |website=BBC Sport |date=26 March 2022 |access-date=28 March 2022 |archive-date=3 January 2023 |archive-url=https://web.archive.org/web/20230103091324/https://www.bbc.co.uk/sport/football/60803641 |url-status=live }}</ref>
+
+On 6 June 2024, Guéhi was named in England's 26-man squad for [[UEFA Euro 2024]].<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/articles/cv22menk7dno |title=Eze & Wharton named in England squad for Euro 2024 |website=BBC Sport |date=6 June 2024 |access-date=6 June 2024 |archive-date=7 June 2024 |archive-url=https://web.archive.org/web/20240607013843/https://www.bbc.co.uk/sport/football/articles/cv22menk7dno |url-status=live }}</ref> He played every minute as England topped [[UEFA Euro 2024 Group C|Group C]], partnering [[John Stones]] in central defence and keeping clean sheets against [[Serbia national football team|Serbia]] and [[Slovenia national football team|Slovenia]].<ref>{{Cite web|url=https://www.bbc.com/sport/football/live/cz992dxd4xwt#Line-ups|title=Hungary 1–3 Switzerland LIVE: UEFA Euro 2024 – score, updates & reaction|website=BBC Sport|access-date=17 June 2024|archive-date=17 June 2024|archive-url=https://web.archive.org/web/20240617013156/https://www.bbc.com/sport/football/live/cz992dxd4xwt#Line-ups|url-status=live}}</ref> He was praised by Southgate and numerous pundits for his performances at the tournament, with [[Micah Richards]] deeming him "calm and composed" and "a joy to watch", and [[Joe Hart]] describing him as "exceptional" and England's "standout performer".<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/articles/c9992yv5prlo|title=Guehi 'calm and composed' after 'passing his test'|website=BBC Sport|date=17 June 2024}}</ref><ref>{{cite web|url=https://www.cpfc.co.uk/news/club/marc-guehi-england-performance-praised-gary-lineker-gareth-southgate-rio-ferdinand-more/|title='A joy to watch' – Southgate, Lineker and Ferdinand lead plaudits to Guéhi performance|date=17 June 2024|website=Crystal Palace FC}}</ref> In the [[UEFA Euro 2024 knockout stage#Round of 16|round of 16]] match against [[Slovakia national football team|Slovakia]] on 30 June, with England 1–0 down in the fifth minute of stoppage time, Guéhi flicked on a header from [[Kyle Walker]]'s throw-in and assisted [[Jude Bellingham]]'s last-second equalising goal.<ref>{{Cite web|url=https://www.uefa.com/euro2024/news/028e-1b41ff0c9b9e-382c1ab22a1d-1000--england-2-1-slovakia-aet-bellingham-and-kane-earn-comeba/|title=England 2–1 Slovakia (AET): Bellingham and Kane earn comeback win|date=28 June 2024|access-date=1 July 2024|website=UEFA|archive-date=16 July 2024|archive-url=https://web.archive.org/web/20240716043910/https://www.uefa.com/euro2024/news/028e-1b41ff0c9b9e-382c1ab22a1d-1000--england-2-1-slovakia-aet-bellingham-and-kane-earn-comeba/|url-status=live}}</ref> Having previously received his second yellow card of the tournament for a foul on [[David Strelec]] following a misplaced pass from [[Kieran Trippier]], he was suspended for the following match, the quarter-final against [[Switzerland national football team|Switzerland]].<ref>{{Cite web|url=https://www.standard.co.uk/sport/football/england-switzerland-marc-guehi-suspension-b1167779.html|title=England vs Switzerland: Marc Guehi suspended|date=28 June 2024|access-date=1 July 2024|website=Evening Standard|archive-date=1 July 2024|archive-url=https://web.archive.org/web/20240701005624/https://www.standard.co.uk/sport/football/england-switzerland-marc-guehi-suspension-b1167779.html|url-status=live}}</ref> Returning to the starting line-up for England's 2–1 semi-final victory over [[Netherlands national football team|the Netherlands]] on 10 July, he started in [[UEFA Euro 2024 final|the final]] against [[Spain national football team|Spain]] on 14 July, with his last-minute header cleared off the line by [[Dani Olmo]] as England were defeated 2–1.<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/live/cjern44reddt|title=England 2–1 Netherlands|date=10 July 2024|website=BBC Sport|access-date=22 July 2024|archive-date=29 July 2024|archive-url=https://web.archive.org/web/20240729181656/https://www.bbc.co.uk/sport/football/live/cjern44reddt|url-status=live}}</ref><ref>{{cite web|url=https://www.bbc.co.uk/sport/football/live/cp68zzx8x4rt|title=Spain 2–1 England|date=14 July 2024|website=BBC Sport|access-date=15 July 2024|archive-date=15 July 2024|archive-url=https://web.archive.org/web/20240715010859/https://www.bbc.co.uk/sport/football/live/cp68zzx8x4rt|url-status=live}}</ref>
+
+On 9 September 2025, Guéhi scored his first England goal in a 5–0 win over [[Serbia national football team|Serbia]] in [[2026 FIFA World Cup qualification – UEFA Group K|qualifying for the 2026 World Cup]].<ref>{{cite web |last1=McNulty |first1=Phil |title=Finest England night leaves Tuchel with selection dilemmas |url=https://www.bbc.co.uk/sport/football/articles/ckg3ne08kk7o |website=[[BBC Sport]] |access-date=16 September 2025 |date=9 September 2025}}</ref>
+
+==Style of play==
+Guéhi has been described as very strong, and well positioned, although not particularly tall for a central defender. He has been credited for his coolness and maturity, and the strength of his concentration on the next game.<ref name=":4">{{cite news |last=Hytner |first=David |date=17 June 2024 |title=Marc Guéhi, England's 'big sponge', comes of age on the biggest stage |url=https://www.theguardian.com/football/article/2024/jun/17/marc-guehi-england-serbia-euro-2024 |access-date=14 July 2024 |work=[[The Guardian]] |language=en-GB |issn=0261-3077}}</ref>
+
+==Personal life==
+Guéhi has been described as being defined by his Christian faith. He is the son of a church minister, and has spoken about how "God first" was the rule in his household. Those close to him describe him as extremely humble, low maintenance.<ref name=":4" /> {{As of|August 2025}}, he still lived at home with his parents and three younger sisters.<ref>[https://youtube.com/watch?v=6ycAI34nyFY&t=375 Marc Guehi wants to play until 40... or join WWE. The Football Interview] – BBC Sport, 23 August 2025</ref>
+
+In December 2024, [[the Football Association]] indicated that they would contact Guéhi to remind him religious messaging is banned from equipment, after he played with "I love Jesus" handwritten over the rainbow-coloured captain's armband as part of [[Stonewall (charity)|Stonewall]]'s [[Rainbow Laces]] campaign to support LGBTQ+ issues.<ref>{{cite news |last1=Harris |first1=Rob |title=FA will remind Crystal Palace player Marc Guehi of rules over religious messaging after he played with 'I love Jesus' armband |url=https://news.sky.com/story/fa-will-remind-crystal-palace-player-marc-guehi-of-rules-over-religious-messaging-after-he-played-with-i-love-jesus-armband-13265907 |access-date=3 December 2024 |publisher=Sky News |archive-date=3 December 2024 |archive-url=https://web.archive.org/web/20241203114322/https://news.sky.com/story/fa-will-remind-crystal-palace-player-marc-guehi-of-rules-over-religious-messaging-after-he-played-with-i-love-jesus-armband-13265907 |url-status=live }}</ref><ref>{{cite news |last1=Smith |first1=Dom |title=Crystal Palace: FA make Marc Guehi charge decision over message on rainbow armband |url=https://www.standard.co.uk/sport/football/marc-guehi-fa-decision-rainbow-armband-message-crystal-palace-b1197797.html |access-date=3 December 2024 |publisher=The Standard |archive-date=3 December 2024 |archive-url=https://web.archive.org/web/20241203131024/https://www.standard.co.uk/sport/football/marc-guehi-fa-decision-rainbow-armband-message-crystal-palace-b1197797.html |url-status=live }}</ref> In spite of the warning, Guéhi further risked FA charges by writing "Jesus loves you" over his rainbow armband in Palace's following game.<ref>{{Cite web |date=3 December 2024 |title=Marc Guehi: Crystal Palace captain writes on rainbow captain's armband despite FA reminder |url=https://www.bbc.com/sport/football/articles/cdr0j3xyyvpo |access-date=4 September 2025 |website=BBC Sport |language=en-GB}}</ref> Guéhi's father defended him from criticism, accusing the LGBT community of "trying to impose on others what they believe in".<ref>{{Cite web |last1=Collingridge |first1=Bruno |last2=Schreiber |first2=Garrett |title=The Marc Guehi armband saga speaks volumes about the state of homophobia in football |url=https://thepalaceway.com/news/marc-guehi-rainbow-armband-saga-speaks-volumes |access-date=4 September 2025 |website=The Palace Way}}</ref>
+
+==Career statistics==
+===Club===
+{{updated|match played 19 May 2026}}
+
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by club, season and competition
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|[[FA Cup]]
+!colspan="2"|[[EFL Cup]]
+!colspan="2"|[[UEFA#Club|Europe]]
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="3"|[[Chelsea F.C. Development Squad and Academy|Chelsea U23]]
+|2018–19<ref name="sb1819">{{soccerbase season|109235|2018|name=Marc Guehi|access-date=28 March 2022}}</ref>
+|colspan="3"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||5{{efn|name=EFL|Appearances in [[EFL Trophy]]}}||0||5||0
+|-
+|2019–20<ref name="sb1920">{{soccerbase season|109235|2019|name=Marc Guehi|access-date=28 March 2022}}</ref>
+|colspan="3"|—||colspan="2"|—||colspan="2"|—||colspan="2"|—||2{{efn|name=EFL}}||0||2||0
+|-
+!colspan="2"|Total
+!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!colspan="2"|—!!7!!0!!7!!0
+|-
+|[[Chelsea F.C.|Chelsea]]
+|[[2019–20 Chelsea F.C. season|2019–20]]<ref name="sb1920"/>
+|[[Premier League]]
+|0||0||0||0||2||0||0||0||0||0||2||0
+|-
+|rowspan="3"|[[Swansea City A.F.C.|Swansea City]] (loan)
+|[[2019–20 Swansea City A.F.C. season|2019–20]]<ref name="sb1920"/>
+|[[EFL Championship|Championship]]
+|12||0||colspan="2"|—||colspan="2"|—||colspan="2"|—||2{{efn|name="CPO"|Appearances in [[EFL Championship play-offs|Championship play-offs]]}}||0||14||0
+|-
+|[[2020–21 Swansea City A.F.C. season|2020–21]]<ref name="sb2021">{{soccerbase season|109235|2020|name=Marc Guehi|access-date=28 March 2022}}</ref>
+|Championship
+|40||0||2||0||0||0||colspan="2"|—||3{{efn|name="CPO"}}||0||45||0
+|-
+!colspan="2"|Total
+!52!!0!!2!!0!!0!!0!!colspan="2"|—!!5!!0!!59!!0
+|-
+|rowspan="6"|[[Crystal Palace F.C.|Crystal Palace]]
+|[[2021–22 Crystal Palace F.C. season|2021–22]]<ref name="sb2122">{{soccerbase season|109235|2021|name=Marc Guehi|access-date=1 April 2023}}</ref>
+|Premier League
+|36||2||5||2||1||0||colspan="2"|—||colspan="2"|—||42||4
+|-
+|[[2022–23 Crystal Palace F.C. season|2022–23]]<ref name="sb2223">{{soccerbase season|109235|2022|name=Marc Guehi|access-date=17 June 2023}}</ref>
+|Premier League
+|37||1||1||0||2||0||colspan="2"|—||colspan="2"|—||40||1
+|-
+|[[2023–24 Crystal Palace F.C. season|2023–24]]<ref name="sb2324">{{soccerbase season|109235|2023|name=Marc Guehi|access-date=8 September 2024}}</ref>
+|Premier League
+|25||0||2||0||2||0||colspan="2"|—||colspan="2"|—||29||0
+|-
+|[[2024–25 Crystal Palace F.C. season|2024–25]]<ref name="sb2425">{{soccerbase season|109235|2024|name=Marc Guehi|access-date=17 May 2025}}</ref>
+|Premier League
+|34||3||6||0||4||0||colspan="2"|—||colspan="2"|—||44||3
+|-
+|[[2025–26 Crystal Palace F.C. season|2025–26]]<ref name="sb2526">{{soccerbase season|109235|2025|name=Marc Guehi|access-date=10 August 2025}}</ref>
+|Premier League
+|20||2||1||0||3||1||8{{efn|Appearances in [[UEFA Conference League]]}}||0||1{{efn|Appearance in [[FA Community Shield]]}}||0||33||3
+|-
+!colspan="2"|Total
+!152!!8!!15!!2!!12!!1!!8!!0!!1!!0!!188!!11
+|-
+|[[Manchester City F.C.|Manchester City]]
+|[[2025–26 Manchester City F.C. season|2025–26]]<ref name="sb2526"/>
+|Premier League
+|15||1||3||1||colspan="2"|—||2{{efn|Appearances in [[UEFA Champions League]]}}||0||colspan="2"|—||20||2
+|-
+!colspan="3"|Career total
+!219!!9!!20!!3!!14!!1!!10!!0!!13!!0!!276!!13
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 31 March 2026}}<ref>{{cite web |url=https://www.worldfootball.net/person/pe490651/marc-guehi/international-matches/ |title=Marc Guéhi: Internationals |website=worldfootball.net |date=4 December 2024 |publisher=HEIM:SPIEL |access-date=24 March 2025}}</ref>
+
+{| class="wikitable" style="text-align: center;"
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="5"|[[England national football team|England]]
+|2022||3||0
+|-
+|2023||6||0
+|-
+|2024||13||0
+|-
+|2025||4||1
+|-
+|2026||1||0
+|-
+!colspan="2"|Total!!27!!1
+|}
+
+''Scores and results list England's goal tally first.''
+{| class="wikitable sortable"
+|+ List of international goals scored by Marc Guéhi
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Cap
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+!scope="col" class="unsortable"|{{abbr|Ref.|Reference}}
+|-
+|style="text-align: center;"| 1 || 9 September 2025 || [[Red Star Stadium]], Belgrade, Serbia||style="text-align: center;"|25||style="text-align: center;"| {{fb|SRB}} || align=center| 4–0 || align="center" | 5–0 || [[2026 FIFA World Cup qualification]]||style="text-align: center;"|<ref>{{Cite web |date=9 September 2025 |title=Serbia vs. England – FIFA World Cup 2026 Qualifier |url=https://www.fifa.com/en/match-centre/match/520/288329/288330/400019383 |access-date=9 September 2025 |website=FIFA}}</ref>
+|}
+
+==Honours==
+'''Crystal Palace'''
+*[[FA Cup]]: [[2024–25 FA Cup|2024–25]]<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/live/cm23zrkn7ryt#Line-ups |title=Crystal Palace 1–0 Manchester City: Line-ups |website=BBC Sport |date=17 May 2025 |access-date=17 May 2025 |archive-date=17 May 2025 |archive-url=https://web.archive.org/web/20250517133245/https://www.bbc.co.uk/sport/football/live/cm23zrkn7ryt#Line-ups |url-status=live }}</ref>
+*[[FA Community Shield]]: [[2025 FA Community Shield|2025]]<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/live/cy7y0p1p7ezt#Report|title=FA Cup holders Crystal Palace beat Premier League champions Liverpool 3–2 on penalties after a 2–2 draw to win an enthralling Community Shield at Wembley.|website=BBC Sport|date=10 August 2025|access-date=10 August 2025}}</ref>
+* [[UEFA Conference League]]: [[2025–26 UEFA Conference League|2025–26]]<ref>{{Cite web |last=McKenna |first=Chris |date=27 May 2026 |title=Crystal Palace 1–0 Rayo Vallecano |url=https://www.bbc.com/sport/football/live/clypgp9wrp9t#Report |access-date=27 May 2026 |website=BBC Sport |publisher=BBC}}</ref>
+
+'''Manchester City'''
+*[[FA Cup]]: [[2025–26 FA Cup|2025–26]]<ref>{{cite news |url=https://www.bbc.com/sport/football/live/clypx2em7drt#Line-ups|title=Chelsea 0–1 Manchester City|website=BBC Sport|date=16 May 2026|access-date=16 May 2026}}</ref>
+
+'''England U17'''
+*[[FIFA U-17 World Cup]]: [[2017 FIFA U-17 World Cup|2017]]<ref name="U17 FIFA">{{cite news |last=Rostance |first=Tom |date=28 October 2017 |title=England win U17 World Cup: Young Lions fight back to beat Spain in final |website=BBC Sport |url=https://www.bbc.co.uk/sport/football/41788830 |accessdate=26 September 2019 |archive-date=15 February 2020 |archive-url=https://web.archive.org/web/20200215095240/https://www.bbc.co.uk/sport/football/41788830 |url-status=live }}</ref>
+*[[UEFA European Under-17 Championship]] runner-up: [[2017 UEFA European Under-17 Championship|2017]]<ref name = "U17 UEFA"/>
+
+'''England'''
+*[[UEFA European Championship]] runner-up: [[UEFA Euro 2024|2024]]<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/live/cp68zzx8x4rt |title=Spain 2–1 England: Heartbreak for England in Euro 2024 Final |first=Phil |last=McNulty |website=BBC Sport |date=14 July 2024 |access-date=15 July 2024 |archive-date=15 July 2024 |archive-url=https://web.archive.org/web/20240715010859/https://www.bbc.co.uk/sport/football/live/cp68zzx8x4rt |url-status=live }}</ref>
+
+'''Individual'''
+*[[UEFA European Under-17 Championship]] Team of the Tournament: [[2017 UEFA European Under-17 Championship#Team of the Tournament|2017]]<ref>{{cite web |url=https://www.uefa.com/under17/season=2017/technical-report/uefa-technical-team/index.html |archive-url=https://web.archive.org/web/20170810035642/http://www.uefa.com/under17/season=2017/technical-report/uefa-technical-team/index.html |url-status=dead |archive-date=10 August 2017 |title=Technical Report – Team of the Tournament |date=19 May 2017 |accessdate=26 September 2019 |publisher=UEFA}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*[https://www.englandfootball.com/england/mens-senior-team/squad/marc-guehi Profile] at the Football Association website
+*{{UEFA player}}
+
+{{Manchester City F.C. squad}}
+{{Navboxes
+| title = England squads
+| bg = white
+| fg = #CF081F
+| bordercolor = #0B0B3F
+| list1 =
+{{England squad UEFA Euro 2024}}
+{{England squad 2026 FIFA World Cup}}
+}}
+
+{{DEFAULTSORT:Guehi, Marc}}
+[[Category:2000 births]]
+[[Category:Living people]]
+[[Category:Footballers from Abidjan]]
+[[Category:English men's footballers]]
+[[Category:Men's association football defenders]]
+[[Category:Cray Wanderers F.C. players]]
+[[Category:Chelsea F.C. players]]
+[[Category:Swansea City A.F.C. players]]
+[[Category:Crystal Palace F.C. players]]
+[[Category:Manchester City F.C. players]]
+[[Category:English Football League players]]
+[[Category:Premier League players]]
+[[Category:England men's youth international footballers]]
+[[Category:England men's under-21 international footballers]]
+[[Category:England men's international footballers]]
+[[Category:UEFA Euro 2024 players]]
+[[Category:Black British sportsmen]]
+[[Category:21st-century Black British people]]
+[[Category:English people of Ivorian descent]]
+[[Category:Sportspeople of Ivorian descent]]
+[[Category:Ivorian emigrants to the United Kingdom]]
+[[Category:21st-century English sportsmen]]
+[[Category:English Christians]]
+[[Category:Naturalised citizens of the United Kingdom]]
+[[Category:2026 FIFA World Cup players]]

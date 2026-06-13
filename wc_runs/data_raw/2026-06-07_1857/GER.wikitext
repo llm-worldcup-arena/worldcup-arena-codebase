@@ -1,0 +1,36 @@
+=== Current squad ===
+The following players were called up for the [[2026 FIFA World Cup]] and for the pre-tournament [[Exhibition game|friendly]] matches against [[Finland national football team|Finland]] and the [[United States men's national soccer team|United States]] on 31 May and 6 June 2026, respectively.<ref>{{cite web|url=https://www.dfb.de/news/bundestrainer-nagelsmann-gibt-wm-kader-bekannt|title=Bundestrainer Nagelsmann gibt WM-Kader bekannt|publisher=[[German Football Association]]|language=de|date=21 May 2026|access-date=21 May 2026}}</ref><ref>{{cite web|url=https://www.dfb.de/news/team-ticker-zur-wm-2026-in-den-usa-kanada-und-mexiko|title=Karl fällt für WM aus – Ouédraogo nachnominiert|publisher=[[German Football Association]]|language=de|date=6 June 2026|access-date=6 June 2026}}</ref>
+
+:''Information correct as of 6 June 2026, after the match against the United States.''<ref>{{cite web|url=https://www.dfb.de/maenner/nationalmannschaften/nationalmannschaft/team|title=Team |publisher=[[German Football Association]]|language=de|access-date=6 June 2026}}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Manuel Neuer]]|sortname=Neuer, Manuel|age={{Birth date and age|1986|3|27|df=y}}|caps=124|goals=0|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs g player|no=12|pos=GK|name=[[Oliver Baumann]]|sortname=Baumann, Oliver|age={{Birth date and age|1990|6|2|df=y}}|caps=13|goals=0|club=[[TSG 1899 Hoffenheim|TSG Hoffenheim]]|clubnat=GER}}
+{{nat fs g player|no=21|pos=GK|name=[[Alexander Nübel]]|sortname=Nübel, Alexander|age={{Birth date and age|1996|9|30|df=y}}|caps=3|goals=0|club=[[VfB Stuttgart]]|clubnat=GER}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Antonio Rüdiger]]|sortname=Rudiger, Antonio|age={{birth date and age|df=y|1993|3|3}}|caps=82|goals=3|club=[[Real Madrid CF|Real Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=3|pos=DF|name=[[Waldemar Anton]]|sortname=Anton, Waldemar|age={{birth date and age|df=y|1996|7|20}}|caps=13|goals=0|club=[[Borussia Dortmund]]|clubnat=GER}}
+{{nat fs g player|no=4|pos=DF|name=[[Jonathan Tah]]|sortname=Tah, Jonathan|age={{birth date and age|df=y|1996|2|11}}|caps=47|goals=1|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs g player|no=13|pos=DF|name=[[Pascal Groß]]|sortname=Gross, Pascal|age={{birth date and age|df=y|1991|6|15}}|caps=18|goals=1|club=[[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]|clubnat=ENG}}
+{{nat fs g player|no=15|pos=DF|name=[[Nico Schlotterbeck]]|sortname=Schlotterbeck, Nico|age={{Birth date and age|1999|12|1|df=y}}|caps=27|goals=0|club=[[Borussia Dortmund]]|clubnat=GER}}
+{{nat fs g player|no=18|pos=DF|name=[[Nathaniel Brown (footballer)|Nathaniel Brown]]|sortname=Brown, Nathaniel|age={{birth date and age|df=y|2003|6|16}}|caps=5|goals=0|club=[[Eintracht Frankfurt]]|clubnat=GER}}
+{{nat fs g player|no=22|pos=DF|name=[[David Raum]]|sortname=Raum, David|age={{birth date and age|df=y|1998|4|22}}|caps=37|goals=1|club=[[RB Leipzig]]|clubnat=GER}}
+{{nat fs g player|no=24|pos=DF|name=[[Malick Thiaw]]|sortname=Thiaw, Malick|age={{birth date and age|df=y|2001|8|8}}|caps=5|goals=0|club=[[Newcastle United F.C.|Newcastle United]]|clubnat=ENG}}
+{{nat fs break}}
+{{nat fs g player|no=5|pos=MF|name=[[Aleksandar Pavlović (footballer)|Aleksandar Pavlović]]|sortname=Pavlovic, Aleksandar|age={{birth date and age|df=y|2004|5|3}}|caps=11|goals=1|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs g player|no=6|pos=MF|name=[[Joshua Kimmich]]|other=[[Captain (association football)|captain]]|sortname=Kimmich, Joshua|age={{birth date and age|df=y|1995|2|8}}|caps=110|goals=10|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs g player|no=8|pos=MF|name=[[Leon Goretzka]]|sortname=Goretzka, Leon|age={{birth date and age|df=y|1995|2|6}}|caps=70|goals=15|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs g player|no=9|pos=MF|name=[[Jamie Leweling]]|sortname=Leweling, Jamie|age={{birth date and age|df=y|2001|2|26}}|caps=5|goals=1|club=[[VfB Stuttgart]]|clubnat=GER}}
+{{nat fs g player|no=10|pos=MF|name=[[Jamal Musiala]]|sortname=Musiala, Jamal|age={{birth date and age|df=y|2003|2|26}}|caps=42|goals=9|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs g player|no=16|pos=MF|name=[[Angelo Stiller]]|sortname=Stiller, Angelo|age={{birth date and age|df=y|2001|4|4}}|caps=8|goals=0|club=[[VfB Stuttgart]]|clubnat=GER}}
+{{nat fs g player|no=17|pos=MF|name=[[Florian Wirtz]]|sortname=Wirtz, Florian|age={{Birth date and age|2003|5|3|df=y}}|caps=41|goals=11|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs g player|no=19|pos=MF|name=[[Leroy Sané]]|sortname=Sane, Leroy|age={{birth date and age|df=y|1996|1|11}}|caps=76|goals=17|club=[[Galatasaray S.K. (football)|Galatasaray]]|clubnat=TUR}}
+{{nat fs g player|no=20|pos=MF|name=[[Nadiem Amiri]]|sortname=Amiri, Nadiem|age={{birth date and age|df=y|1996|10|27}}|caps=11|goals=1|club=[[1. FSV Mainz 05|Mainz 05]]|clubnat=GER}}
+{{nat fs g player|no=23|pos=MF|name=[[Felix Nmecha]]|sortname=Nmecha, Felix|age={{Birth date and age|2000|10|10|df=y}}|caps=8|goals=1|club=[[Borussia Dortmund]]|clubnat=GER}}
+{{nat fs g player|no=25|pos=MF|name=[[Assan Ouédraogo]]|sortname=Ouedraogo, Assan|age={{birth date and age|df=y|2006|5|9}}|caps=1|goals=1|club=[[RB Leipzig]]|clubnat=GER}}
+{{nat fs break}}
+{{nat fs g player|no=7|pos=FW|name=[[Kai Havertz]]|sortname=Havertz, Kai|age={{birth date and age|df=y|1999|6|11}}|caps=58|goals=22|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs g player|no=11|pos=FW|name=[[Nick Woltemade]]|sortname=Woltemade, Nick|age={{birth date and age|df=y|2002|2|14}}|caps=11|goals=4|club=[[Newcastle United F.C.|Newcastle United]]|clubnat=ENG}}
+{{nat fs g player|no=14|pos=FW|name=[[Maximilian Beier]]|sortname=Beier, Maximilian|age={{birth date and age|df=y|2002|10|17}}|caps=9|goals=0|club=[[Borussia Dortmund]]|clubnat=GER}}
+{{nat fs g player|no=26|pos=FW|name=[[Deniz Undav]]|sortname=Undav, Deniz|age={{birth date and age|df=y|1996|7|19}}|caps=9|goals=6|club=[[VfB Stuttgart]]|clubnat=GER}}
+{{nat fs end}}

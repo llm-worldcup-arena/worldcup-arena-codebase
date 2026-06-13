@@ -1,0 +1,63 @@
+{{Short description|Men's national association football team representing Bosnia and Herzegovina}}
+{{About|the men's team|the women's team|Bosnia and Herzegovina women's national football team}}
+{{pp-semi-indef|small=yes}}
+{{Use dmy dates|date=May 2026}}
+{{Infobox national football team
+|Name               = Bosnia and Herzegovina
+|Nickname           = {{lang|bs|Zmajevi}} (The Dragons)<br />{{lang|bs|Zlatni Ljiljani}} (Golden Lilies)
+|Badge              = Flag of Bosnia and Herzegovina.svg
+|Badge_size         = 185px
+|Association        = [[Football Association of Bosnia and Herzegovina|Nogometni/Fudbalski Savez Bosne i Hercegovine]] (N/FSBiH)
+|Confederation      = [[UEFA]] (Europe)
+|website            = [https://www.nfsbih.ba/ nfsbih.ba]
+|Coach              = [[Sergej Barbarez]]
+|Captain            = [[Edin Džeko]]
+|Most caps          = Edin Džeko (148)
+|Top scorer         = Edin Džeko ([[List of international goals scored by Edin Džeko|73]])
+|Home Stadium       = [[Bilino Polje Stadium|Bilino Polje]]
+|FIFA Trigramme     = BIH
+|FIFA Rank          = {{FIFA World Rankings|BIH}}
+|FIFA max           = 13
+|FIFA max date      = August 2013
+|FIFA min           = 173
+|FIFA min date      = September 1996
+|Elo Rank           = {{World Football Elo Ratings|Bosnia and Herzegovina}}
+|Elo max            = 20
+|Elo max date       = June 2013, February 2019
+|Elo min            = 87
+|Elo min date       = October 1999
+|pattern_la1        = _bih26
+|pattern_b1         = _bih26h
+|pattern_ra1        = _bih26
+|pattern_sh1        = 
+|pattern_so1        = _bih26hl
+|leftarm1           = 001970
+|body1              = 001970
+|rightarm1          = 001970
+|shorts1            = 001970
+|socks1             = 001970
+|pattern_la2        = _bih26
+|pattern_b2         = _bih26a
+|pattern_ra2        = _bih26
+|pattern_sh2        = 
+|pattern_so2        = 
+|leftarm2           = 001970
+|body2              = FFFFFF
+|rightarm2          = 001970
+|shorts2            = FFFFFF
+|socks2             = FFFFFF
+|First game         = {{nowrap|{{fb|Albania|1992}} 2–0 {{fb-rt|BIH|1992}}}}<br />([[Tirana]], Albania; 30 November 1995)<ref name="Despite its inescapable past, Bosnia-Herzegovina writes new chapter">{{cite web|title=Despite its inescapable past, Bosnia-Herzegovina writes new chapter|work=sportsillustrated.cnn.com|author=Jonathan Wilson|date=1 May 2014|url=https://si.com/more-sports/2014/05/01/bosnia-herzegovina-world-cup-dzeko-yugoslavia|access-date=11 October 2018|archive-date=12 October 2018|archive-url=https://web.archive.org/web/20181012054009/https://www.si.com/more-sports/2014/05/01/bosnia-herzegovina-world-cup-dzeko-yugoslavia|url-status=live}}</ref>
+|Largest win        = {{nowrap|{{fb|BIH}} 7–0 {{fb-rt|EST}}<br />([[Zenica]], Bosnia and Herzegovina; 10 September 2008)}}<br />{{nowrap|{{fb|LIE}} 1–8 {{fb-rt|BIH}}}}<br />([[Vaduz]], Liechtenstein; 7 September 2012)
+|Largest loss       = {{nowrap|{{fb|GER}} 7–0 {{fb-rt|BIH}}}}<br />([[Freiburg im Breisgau]], Germany; 16 November 2024)
+|World cup apps     = 2
+|World cup first    = 2014
+|World cup best     = Group stage ([[2014 FIFA World Cup|2014]])
+}}
+
+The '''Bosnia and Herzegovina national football team''' ({{langx|bs|Fudbalska reprezentacija Bosne i Hercegovine}}; {{langx|hr|Nogometna reprezentacija Bosne i Hercegovine}}; {{langx|sr|Фудбалска репрезентација Босне и Херцеговине}}) represents [[Bosnia and Herzegovina]] in men's international [[Association football|football]] competitions, and is governed by the [[Football Association of Bosnia and Herzegovina]]. Until [[1992 Bosnian independence referendum|1992]], [[Bosnians|Bosnian]] [[footballer]]s played for [[Yugoslavia national football team|Yugoslavia]].
+
+Bosnia and Herzegovina achieved their best result when they reached the [[2014 FIFA World Cup]] as winners of their [[2014 FIFA World Cup qualification – UEFA Group G|qualifying group]].<ref>{{cite news|url=https://sportsport.ba/fudbal/san-ispunjen-bosna-i-hercegovina-na-svjetskom-prvenstvu/115839|title=San ispunjen: Bosna i Hercegovina na Svjetskom prvenstvu!|website=sportsport.ba|date=15 October 2013|access-date=2 June 2018|language=bs|archive-date=6 October 2018|archive-url=https://web.archive.org/web/20181006194935/https://sportsport.ba/fudbal/san-ispunjen-bosna-i-hercegovina-na-svjetskom-prvenstvu/115839|url-status=live}}</ref> They were eliminated after narrow [[2014 FIFA World Cup Group F|group stage]] losses to [[Argentina national football team|Argentina]] and [[Nigeria national football team|Nigeria]] and a win over [[Iran national football team|Iran]].<ref>{{cite news|url=https://sportsport.ba/fudbal/povijesni-bodovi-na-mundijalu-pobjeda-nad-iranom-za-kraj/134443|title=Povijesni bodovi na Mundijalu: Pobjeda nad Iranom za kraj|website=sportsport.ba|date=25 June 2014|access-date=12 November 2018|language=bs|archive-date=13 November 2018|archive-url=https://web.archive.org/web/20181113025836/https://sportsport.ba/fudbal/povijesni-bodovi-na-mundijalu-pobjeda-nad-iranom-za-kraj/134443|url-status=live}}</ref>
+
+The national team is yet to take part in a [[UEFA European Championship]].<ref>{{cite news|url=https://sportsport.ba/fudbal/tako-blizu-a-tako-daleko/26939|title=Tako blizu, a tako daleko|website=sportsport.ba|date=18 November 2009|access-date=12 November 2018|language=bs|archive-date=15 October 2018|archive-url=https://web.archive.org/web/20181015153119/https://sportsport.ba/fudbal/tako-blizu-a-tako-daleko/26939|url-status=live}}</ref><ref>{{cite news|url=https://sportsport.ba/fudbal/evropsko-prvenstvo-ipak-samo-pusti-san/68272|title=Evropsko prvenstvo, ipak, samo pusti san|website=sportsport.ba|date=15 November 2011|access-date=12 November 2018|language=bs|archive-date=13 November 2018|archive-url=https://web.archive.org/web/20181113025809/https://sportsport.ba/fudbal/evropsko-prvenstvo-ipak-samo-pusti-san/68272|url-status=live}}</ref><ref>{{cite news|url=https://sportsport.ba/fudbal/adieu-la-france-pali-smo-u-dublinu-bez-ispaljenog-metka/176319|title=Adieu la France: Pali smo u Dublinu bez ispaljenog metka|website=sportsport.ba|date=16 November 2015|access-date=12 November 2018|language=bs|archive-date=13 November 2018|archive-url=https://web.archive.org/web/20181113025934/https://sportsport.ba/fudbal/adieu-la-france-pali-smo-u-dublinu-bez-ispaljenog-metka/176319|url-status=live}}</ref>
+
+The team's highest [[FIFA World Rankings|FIFA World Ranking]] was 13th, achieved in August 2013.<ref>{{cite news|url=https://klix.ba/sport/nogomet/historijski-rezultat-zmajevi-13-na-fifa-inoj-rang-listi/130808031|title=Historijski rezultat: Zmajevi 13. na FIFA-inoj rang listi|website=klix.ba|date=8 August 2013|access-date=12 November 2018|language=bs|archive-date=13 November 2018|archive-url=https://web.archive.org/web/20181113030025/https://www.klix.ba/sport/nogomet/historijski-rezultat-zmajevi-13-na-fifa-inoj-rang-listi/130808031|url-status=live}}</ref>

@@ -1,0 +1,196 @@
+{{short description|South Korean footballer (born 2003)}}
+{{family name hatnote|Bae||lang=Korean}}
+{{Use British English|date=June 2025}}
+{{Use dmy dates|date=August 2025}}
+{{Infobox football biography
+|name                = Bae Jun-ho
+|image               = Bae Jun-ho 20092025 (2).jpg
+|caption             = Bae Jun-ho with [[Stoke City F.C.|Stoke City]] in 2025.
+|full_name           = 
+|birth_date          = {{Birth date and age|2003|8|21|df=y}}
+|birth_place         = [[Daegu]], South Korea<ref name=wf>{{WorldFootball.net|jun-ho-bae}}</ref>
+|height              = 1.80 m<ref name=wf/>
+|position            = [[Attacking midfielder]], [[left winger]]
+|currentclub         = [[Stoke City F.C.|Stoke City]]
+|clubnumber          = 10
+|youthyears1         = 2013–2014 |youthclubs1 = [[Daegu FC]]{{refn|group=note|Played for Daegu FC U12 in 2013, and Daegu Sinheung Elementary School in 2014, which were academies of Daegu FC.}}
+|youthyears2         = 2015      |youthclubs2 = Daegu Banyawol Elementary School
+|youthyears3         = 2016–2018 |youthclubs3 = Daeryun Middle School
+|youthyears4         = 2019–2020 |youthclubs4 = Cheonan Jeil High School
+|youthyears5         = 2021      |youthclubs5 = Pyeongtaek Jinwee
+|years1              = 2022      |clubs1 = Daejeon Hana Citizen B         |caps1 = 17  |goals1 = 5
+|years2              = 2022–2023 |clubs2 = [[Daejeon Hana Citizen]]       |caps2 = 25  |goals2 = 3
+|years3              = 2023–     |clubs3 = [[Stoke City F.C.|Stoke City]] |caps3 = 125 |goals3 = 7
+|nationalyears1      = 2022–2023
+|nationalteam1       = [[South Korea national under-20 football team|South Korea U20]]
+|nationalcaps1       = 21
+|nationalgoals1      = 5
+|nationalyears2      = 2024–
+|nationalteam2       = [[South Korea national under-23 football team|South Korea U23]]
+|nationalcaps2       = 2
+|nationalgoals2      = 0
+|nationalyears3      = 2024–
+|nationalteam3       = [[South Korea national football team|South Korea]]
+|nationalcaps3       = 13
+|nationalgoals3      = 2
+|club-update         = 13:44, 2 May 2026 (UTC)
+|ntupdate            = 30 May 2026 (UTC)
+|medaltemplates = 
+{{MedalCountry | {{KOR}} }}
+{{MedalSport  | Men's [[Association football|football]]}}
+{{MedalCompetition|[[WAFF U-23 Championship]]}}
+{{MedalW |[[2024 WAFF U-23 Championship|2024 Saudi Arabia]]|}}
+}}
+{{Infobox Korean name/auto|hangul=%배준호|hanja=裵峻浩}}
+
+'''Bae Jun-ho''' ({{korean|배준호}}; born 21 August 2003) is a South Korean professional [[association football|footballer]] who plays as an [[attacking midfielder]] or [[left winger]] for {{English football updater|StokeCty}} club [[Stoke City F.C.|Stoke City]] and the [[South Korea national football team|South Korea national team]].
+
+Bae began his professional career with [[Daejeon Hana Citizen]], helping them gain promotion to [[K League 1]] in the [[2022 K League 2|2022 season]]. After impressing in his debut season in the Korean top flight and for the [[South Korea national under-20 football team|South Korea U20]] team, he moved to European football with English [[EFL Championship|Championship]] club [[Stoke City F.C.|Stoke City]] in August 2023.
+
+==Club career==
+===Daejeon Hana Citizen===
+[[File:배준호vs FC 서울.jpg|thumb|right|200px|Bae Jun-ho with [[Daejeon Hana Citizen]] in 2023.]]
+
+Bae started his career in the academy of [[Daegu FC]]. Afterwards, he attended Daegu Banyawol Elementary School, Daeryun Middle School, Cheonan Jeil High School and Jinwee High School.<ref name=klp>{{K League player|20220097}}</ref> While playing for Pyeongtaek Jinwee, the football club of Jinwee High School, he was considered one of his country's best talents.<ref name=naver>{{cite web |url=https://n.news.naver.com/sports/kfootball/article/076/0003821879 |script-title=ko:K리그 스카우트 홀린 '대전의 슈퍼루키' 배준호를 주목하라 |trans-title=Pay attention to 'Daejeon's super rookie' Bae Jun-ho, who was possessed by K League scout |date=13 January 2022 |accessdate=2 June 2023 |website=[[Naver]] |publisher=[[Sports Chosun]] |language=Korean}}</ref> In January 2022, following interest from a number of clubs across Europe, as well as former club Daegu, he signed for [[K League 2]] side [[Daejeon Hana Citizen]].<ref name=naver/> He made eleven appearances in his first season with Daejeon as he helped his team win the promotion play-offs against [[Gimcheon Sangmu]].<ref name=fifa>{{cite web |url=https://www.fifa.com/fifaplus/ko/articles/korea-republic-u-20-midfielder-bae-jun-ho-mixed-zone-interview-ko |script-title=ko:[서보원의 온 더 볼] U-20 대표 MF 배준호, "롤모델은 대전 선배 황인범" |trans-title=[Seo Bo-won's on the ball] U-20 international MF Bae Jun-ho, "My role model is Daejeon senior Hwang In-beom" |date=15 April 2023 |accessdate=2 June 2023 |publisher=FIFA |language=Korean}}</ref> In the [[2023 K League 1|2023 season]], Bae received more playing time in [[K League 1]], as he continued his integration into the squad from the reserve team.<ref>{{cite web |url=https://www.starnewskorea.com/stview.php?no=2023042706001240978 |script-title=ko:[현장목소리] '데뷔 2년 차' 대전 배준호의 패기, "아직 다 안 보여줬어" |trans-title=[Voice from the scene] 'a sophomore' Daejeon Bae Jun-ho's spirit, "I haven't shown everything yet" |date=27 April 2023 |accessdate=2 June 2023 |publisher=Starnews Korea |language=Korean}}</ref> On 27 August 2023, Daejeon officially announced that they had reached an agreement with [[EFL Championship]] side [[Stoke City F.C.|Stoke City]] for the transfer of Bae on a permanent deal.<ref>{{Cite web |last=Joo |first=Dae-eun |date=28 August 2023 |script-title=ko:'대전의 아들'이 '남자의 팀'으로 배준호, 스토크 시티 이적을 위해 출국 "항상 꿈꿔왔던 순간..최종 목표는 빅리그 진출" |url=https://sports.news.naver.com/news?oid=139&aid=0002188484 |access-date=28 August 2023 |website=[[Naver]]|publisher=Sportalkorea  |language=ko}}</ref><ref>{{Cite web |last=Bulley |first=Jim |date=28 August 2023 |title=Bae Jun-ho flies to Britain to sign with Stoke City |url=https://koreajoongangdaily.joins.com/news/2023-08-28/sports/football/Bae-Junho-flies-to-Britain-to-sing-with-Stoke-City/1856437 |access-date=28 August 2023 |website=[[Korea JoongAng Daily]]}}</ref>
+
+===Stoke City===
+On 31 August 2023, Bae joined [[Stoke City F.C.|Stoke City]] for an undisclosed fee on a four-year contract.<ref>{{cite web |title=Bae Junho joins the Potters |url=https://www.stokecityfc.com/news/2023/august/31/bae-junho-joins-the-potters/ |website=Stoke City |date=31 August 2023 |access-date=31 August 2023}}</ref> He scored his first goal in English football on 24 February 2024 in a 2–1 defeat against [[Cardiff City F.C.|Cardiff City]] and followed this up a week later in a 2–0 victory against [[Middlesbrough F.C.|Middlesbrough]].<ref>{{cite web |title=Cardiff City 2–1 Stoke City: Cardiff hold on to end horrible home form |url=https://www.bbc.co.uk/sport/football/68324105 |website=BBC Sport |date=24 February 2024 |access-date=6 June 2024}}</ref><ref>{{cite web |title=Stoke 2–0 Middlesbrough: Potters breathe life into survival fight |url=https://www.bbc.co.uk/sport/football/68389102 |website=BBC Sport |date=2 March 2024 |access-date=6 June 2024}}</ref> In the [[2023–24 Stoke City F.C. season|2023–24 season]], Bae made 40 appearances as Stoke successfully avoided relegation, finishing in 17th position.<ref>{{cite web |last1=Smith |first1=Pete |title=Pete Smith's Stoke City end of season player ratings for 35-man squad |url=https://www.stokesentinel.co.uk/sport/football/football-news/stoke-city-season-player-ratings-9272394 |website=Stoke Sentinel |date=9 May 2024 |access-date=7 June 2024}}</ref><ref>{{cite web |title=Southampton 0–1 Stoke City |url=https://www.bbc.co.uk/sport/football/68862287 |website=BBC Sport |date=27 April 2024 |access-date=7 June 2024}}</ref> He was named the [[Stoke City F.C. Player of the Year|club's Player of the Year]] in his first season at Stoke City.<ref name="stoke"/> In the [[2024–25 Stoke City F.C. season|2024–25 season]] Bae was a regular starter under three different managers, playing 49 times as Stoke avoided relegation on the final day.<ref>{{cite web |title=Stoke City end of season player ratings from sustained excellence to won't be seen again |url=https://www.stokesentinel.co.uk/sport/football/football-news/stoke-city-season-player-ratings-10172075 |website=Stoke Sentinel |date=11 May 2025 |access-date=24 May 2025}}</ref><ref>{{cite web |title=Derby County 0–0 Stoke City: Both teams survive after goalless draw |url=https://www.skysports.com/football/derby-county-vs-stoke-city/509886 |website=Sky Sports |access-date=24 May 2025}}</ref><ref>{{cite web |title=Derby County 0–0 Stoke City |url=https://www.bbc.co.uk/sport/football/live/cddelqp53ygt |website=BBC Sport |access-date=24 May 2025}}</ref> Bae was again a regular in [[2025–26 Stoke City F.C. season|2025–26]] under [[Mark Robins]], making 45 appearances but he came in for criticism for his lack of goals and assists.<ref>{{cite web |title=Stoke City 2025/26 squad review - keep, sell, loan, return or buy |url=https://www.stokesentinel.co.uk/sport/football/football-news/stoke-city-transfer-keep-sell-10937317 |website=Stoke Sentinel |access-date=21 May 2026}}</ref><ref>{{cite web |title=What Mark Robins wants to see from Bae Junho to hit Stoke City heights |url=https://www.stokesentinel.co.uk/sport/football/football-news/stoke-city-bae-junho-watford-10866608 |website=Stoke Sentinel |access-date=23 May 2026}}</ref> 
+
+==International career==
+After representing South Korea at under-19 level in a number of friendlies, Bae was called up to the under-20 squad for the [[2023 AFC U-20 Asian Cup qualification]]. Having scored in two qualifiers against [[Mongolia national under-20 football team|Mongolia]] and [[Malaysia national under-20 football team|Malaysia]], he was called up to the [[2023 AFC U-20 Asian Cup]].<ref name=kfa>{{cite web |url=https://www.kfa.or.kr/archive/player_record.php?search_val=%EB%B0%B0%EC%A4%80%ED%98%B8 |title=Bae Jun-ho |access-date=1 June 2024 |publisher=KFA |language=Korean}}</ref> Although South Korea failed to win the tournament by being knocked out in the semi-finals by [[Uzbekistan national under-20 football team|Uzbekistan]], Bae was still praised for his performances.<ref>{{cite web |url=https://isplus.com/article/view/isp202303070151 |script-title=ko:U-20 아시안컵서 빛나는 배준호...한국 축구 미래 밝다 |trans-title=Bae Jun-ho is shining at the U-20 Asian Cup... The future of Korean football is bright |date=8 March 2023 |accessdate=2 June 2023 |publisher=[[Ilgan Sports]] |language=Korean}}</ref>
+
+Bae was called up to the under-20 squad for the [[2023 FIFA U-20 World Cup]]. He started quietly in the tournament, but South Korea finished fourth under his influence. When he scored one and provided an assist in a 3–2 victory against [[Ecuador national under-20 football team|Ecuador]],<ref>{{cite web |url=https://www.chosun.com/sports/football/2023/06/02/7WAXX7IKRREAFDJPV6REICI4EE/ |script-title=ko:특훈 통했다, 특급 룸메와 해냈다... 해결사 배준호의 부활 |trans-title=Special training succeeded, He achieved with his roommate... Solver Bae Jun-ho's revival |date=2 June 2023 |accessdate=2 June 2023 |website=[[The Chosun Ilbo]] |language=Korean}}</ref> Ecuadorian manager [[Miguel Bravo]] described him as a "Brazilian".<ref>{{cite web |url=https://www.fifa.com/fifaplus/en/member-associations/france/articles/u20-world-cup-argentina-2023-andrey-bae-cowell-daga-herdman-matturro-paez-pafundi-romero-slonina |title=Argentina 2023 graduates set for the FIFA World Cup 2026 |publisher=FIFA |date=12 June 2023 |access-date=1 June 2024}}</ref> Italian manager [[Carmine Nunziata]] defeated South Korea in the semi-finals, but he was also attracted to Bae's performance.<ref>{{cite news |url=https://www.stokesentinel.co.uk/sport/football/transfer-news/stoke-transfer-bae-jun-ho-8695038 |title=Bae Jun-ho to Stoke City transfer latest as 'negotiations confirmed' |publisher=Stoke-on-Trent Live |date=22 August 2023 |access-date=1 June 2024}}</ref>
+
+On 6 June 2024, Bae scored a goal in a [[2026 FIFA World Cup qualification – AFC second round|FIFA World Cup qualifier]] against [[Singapore national football team|Singapore]], where he made his [[South Korea national football team|senior]] international debut.<ref>{{cite web |publisher=ESPN |url=https://www.espn.co.uk/football/match/_/gameId/687411/ |title=Singapore v South Korea game report |date=6 June 2024}}</ref> In May 2026, he was selected for the South Korea squad for the [[2026 FIFA World Cup]].<ref>{{cite news |url=https://www.goal.com/en/lists/south-korea-squad-world-cup-2026/blt15c57f5be1972d9b |title=South Korea squad World Cup 2026: Which players have made it to the showpiece in USA, Mexico and Canada? |publisher=Goal |date=2026-05-16 |access-date=2026-05-26}}</ref>
+
+==Style of play==
+An [[Midfielder#Attacking midfielder|attacking midfielder]] who is comfortable using both feet, Bae has been regarded for his passing range and dribbling, as well as his balance and stamina.<ref name=naver/>
+
+==Personal life==
+Bae has cited fellow South Korean [[Hwang In-beom]], as well as [[Kevin De Bruyne]], as his biggest footballing role-models.<ref name=fifa/>
+
+==Career statistics==
+===Club===
+{{updated|matches played 2 May 2026}}<ref name="soccerway">{{Soccerway|joon-ho-bae/818965}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan=2|Club
+!rowspan=2|Season
+!colspan=3|League
+!colspan=2|National cup{{efn|Appearances in the [[FA Cup]] and [[Korean FA Cup]]}}
+!colspan=2|League cup{{efn|Appearances in the [[EFL Cup]]}}
+!colspan=2|Other
+!colspan=2|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|Daejeon Hana Citizen B
+|[[2022 K4 League|2022]]<ref name="soccerway"/>
+|[[K4 League]]
+|17||5||colspan="2"|—||colspan="2"|—||colspan="2"|—||17||5
+|-
+|rowspan="3"|[[Daejeon Hana Citizen]]
+|[[2022 K League 2|2022]]<ref name="soccerway"/>
+|[[K League 2]]
+|8||1||1||0||colspan="2"|—||2{{efn|name=PO|Appearances in [[K League 2]] promotion play-offs}}||0||11||1
+|-
+|[[2023 K League 1|2023]]<ref name="soccerway"/>
+|[[K League 1]]
+|17||2||0||0||colspan="2"|—||colspan="2"|—||17||2
+|-
+!colspan=2|Total
+!25!!3!!1!!0!!colspan="2"|—||2!!0!!28!!3
+|-
+|rowspan=4|[[Stoke City F.C.|Stoke City]]
+|[[2023–24 Stoke City F.C. season|2023–24]]<ref name=sb2324>{{Soccerbase season|id=157959|season=2023}}</ref>
+|[[EFL Championship|Championship]]
+|38||2||1||0||1||0||colspan="2"|—||40||2
+|-
+|[[2024–25 Stoke City F.C. season|2024–25]]<ref name=sb2425>{{Soccerbase season|id=157959|season=2024}}</ref>
+|Championship
+|45||3||2||0||2||0||colspan="2"|—||49||3
+|-
+|[[2025–26 Stoke City F.C. season|2025–26]]<ref name=sb2526>{{Soccerbase season|id=157959|season=2025}}</ref>
+|Championship
+|42||2||2||1||1||0||colspan="2"|—||45||3
+|-
+!colspan=2|Total
+!125!!7!!5!!1!!4!!0!!colspan="2"|—||134!!8
+|-
+!colspan=3|Career total
+!167!!15!!6!!1!!4!!0!!2!!0!!179!!16
+|}
+{{notelist}}
+
+===International===
+{{updated|match played 30 May 2026}}<ref name="NFT"/>
+
+{| class=wikitable style="text-align: center;"
+|+ Appearances and goals by national team and year
+|-
+!National team||Year||Apps||Goals
+|-
+|rowspan=4|[[South Korea national football team|South Korea]]
+|-
+|2024||6||2
+|-
+|2025||5||0
+|-
+|2026||2||0
+|-
+!colspan="2"|Career total||13||2
+|}
+
+:''Scores and results list South Korea's goal tally first.''<ref name="NFT">{{cite web |title=Bae, Jun-ho |url=https://kfa.or.kr/archive/player_record.php?search_val=%EB%B0%B0%EC%A4%80%ED%98%B8 |access-date=6 June 2024 |publisher=KFA}}</ref>
+
+{| class="wikitable sortable" 
+|+List of international goals scored by Bae Jun-ho
+|-
+! No. !! Date !! Venue !! Opponent !! Score !! Result !! Competition
+|-
+| align="center"|1 || 6 June 2024 || [[National Stadium, Singapore|National Stadium]], [[Kallang]], Singapore || {{fb|SIN}} || align="center"|6–0 || align="center"|7–0 || [[2026 FIFA World Cup qualification – AFC second round|2026 FIFA World Cup qualification]]
+|-
+| align="center"|2 || 14 November 2024 || [[Jaber Al-Ahmad International Stadium]], [[Kuwait City]], Kuwait || {{fb|KUW}} || align="center"|3–1 || align="center"|3–1 || [[2026 FIFA World Cup qualification – AFC third round|2026 FIFA World Cup qualification]]
+|}
+
+==Honours==
+'''South Korea U23'''
+*[[WAFF U-23 Championship]]: [[2024 WAFF U-23 Championship|2024]]<ref>{{cite news |url=https://www.arabnews.com/node/2483631/sport |title=South Korea win WAFF U-23 Championship, Saudis 3rd |publisher=Arab News |date=27 March 2024 |access-date=27 March 2024}}</ref>
+
+'''Individual'''
+*[[K League All-Star Game|K League All-Star]]: 2023<ref>{{cite web |url=https://uk.soccerway.com/matches/2023/07/27/world/hybrid-friendlies/club-atletico-de-madrid/k-league-xi/4087744/ |title=K-League XI vs. Atletico Madrid 3 – 2 |publisher=Soccerway |date=27 July 2023 |access-date=12 July 2024}}</ref>
+*[[Stoke City F.C. Player of the Year|Stoke City Player of the Year]]: [[2023–24 Stoke City F.C. season|2023–24]]<ref name="stoke">{{cite web|title=Bae Junho bags Player of the Season award|url=https://www.stokecityfc.com/news/2024/may/03/bae-junho-bags-player-of-the-season-award/|website=Stoke City|date=3 May 2024 |accessdate=3 May 2024}}</ref>
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist}}
+
+{{Stoke City F.C. squad}}
+{{South Korea squad 2026 FIFA World Cup}}
+{{Stoke City F.C. Player of the Year}}
+
+{{DEFAULTSORT:Bae, Jun-ho}}
+[[Category:2003 births]]
+[[Category:Living people]]
+[[Category:Footballers from Daegu]]
+[[Category:South Korean men's footballers]]
+[[Category:Men's association football midfielders]]
+[[Category:K4 League players]]
+[[Category:K League 2 players]]
+[[Category:K League 1 players]]
+[[Category:Daegu FC players]]
+[[Category:Daejeon Hana Citizen players]]
+[[Category:Stoke City F.C. players]]
+[[Category:English Football League players]]
+[[Category:South Korea men's youth international footballers]]
+[[Category:South Korea men's under-20 international footballers]]
+[[Category:South Korea men's international footballers]]
+[[Category:South Korean expatriate men's footballers]]
+[[Category:South Korean expatriate sportspeople in England]]
+[[Category:Expatriate men's footballers in England]]
+[[Category:21st-century South Korean sportsmen]]
+[[Category:2026 FIFA World Cup players]]

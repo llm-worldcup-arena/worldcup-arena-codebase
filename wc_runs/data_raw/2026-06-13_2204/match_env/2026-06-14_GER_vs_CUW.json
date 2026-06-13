@@ -1,0 +1,40 @@
+{
+ "match": {
+  "slug": "2026-06-14_GER_vs_CUW",
+  "date": "2026-06-14",
+  "home": "GER",
+  "away": "CUW",
+  "round": "group",
+  "group": "E"
+ },
+ "kickoff": {
+  "美东": "2026-06-14T13:00:00-04:00",
+  "北京": "06-15 01:00"
+ },
+ "venue": {
+  "name": "NRG Stadium",
+  "city": "Houston",
+  "altitude_m": 15,
+  "roof": "retractable",
+  "surface": "grass"
+ },
+ "weather": {
+  "开球时段": {
+   "温度C": 28.0,
+   "体感C": 33.0,
+   "降水概率%": 18,
+   "降水mm": 5.0,
+   "风速kmh": 16.9,
+   "湿度%": 86,
+   "天况": "强阵雨"
+  },
+  "source": "open-meteo(免费预报API)",
+  "fetched": "2026-06-13_2204",
+  "_note": "临近开球建议 --refresh 刷新"
+ },
+ "referee": {
+  "name": null,
+  "_note": "待 WebSearch FIFA指派公告"
+ },
+ "_note": "环境=比赛+时间+地点 确定;天气为开球时段;顶棚 retractable/fixed-canopy 时天气影响有限。"
+}

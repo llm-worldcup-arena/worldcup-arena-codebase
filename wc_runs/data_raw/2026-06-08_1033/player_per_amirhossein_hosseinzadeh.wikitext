@@ -1,0 +1,221 @@
+{{Short description|Iranian footballer (born 2000)}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox football biography
+| name = Amirhossein Hosseinzadeh
+| image = Esteghlal FC in training, 29 September 2021 - 09.jpg
+| fullname = Amirhossein Hosseinzadeh Tazehgheshlagh<ref>{{cite web |title=Squad List FIFA World Cup 2026 |url=https://fdp.fifa.org/assetspublic/ce281/pdf/SquadLists-English.pdf |website=[[FIFA]] |access-date=3 June 2026}}</ref>
+| height = 1.78 m
+| birth_date = {{birth date and age|2000|10|30|df=yes}}
+| birth_place = [[Tehran]], Iran
+| currentclub = [[Tractor S.C.|Tractor]]
+| clubnumber = 99
+| position = [[Winger (football)|Winger]]
+| youthyears1 = 2015–2018
+| youthclubs1 = [[Moghavemat Tehran F.C.|Moghavemat Tehran]]
+| youthyears2 = 2018–2019
+| youthclubs2 = [[Saipa F.C.|Saipa]]
+| years1 = 2019–2021
+| clubs1 = [[Saipa F.C.|Saipa]]
+| caps1 = 46
+| goals1 = 7
+| years2 = 2021–2022
+| clubs2 = [[Esteghlal F.C.|Esteghlal]]
+| caps2 = 30
+| goals2 = 8
+| years3 = 2022–2023
+| clubs3 = [[R. Charleroi S.C.|Charleroi]]
+| caps3 = 23
+| goals3 = 2
+| years4 = 2023–
+| clubs4 = [[Tractor S.C.|Tractor]]
+| caps4 = 71
+| goals4 = 25
+| nationalyears1 = 2017
+| nationalteam1 = [[Iran national under-17 football team|Iran U17]]
+| nationalcaps1 = 8
+| nationalgoals1 = 0
+| nationalyears2 = 2018–2020
+| nationalteam2 = [[Iran national under-23 football team|Iran U23]]
+| nationalcaps2 = 5
+| nationalgoals2 = 1
+| nationalyears3 = 2022–
+| nationalteam3 = [[Iran national football team|Iran]]
+| nationalcaps3 = 18
+| nationalgoals3 = 5
+| club-update = 30 December 2025
+| nationalteam-update = 4 June 2026
+| medaltemplates = {{MedalCountry|{{fb|IRN}}}}
+{{Medal|Competition|[[CAFA Nations Cup]]}}
+{{Medal|W|[[2023 CAFA Nations Cup|2023 Kyrgyzstan – Uzbekistan]]|[[2023 CAFA Nations Cup squads#Iran|Team]]}}
+{{Medal|RU|[[2025 CAFA Nations Cup|2025 Tajikistan–Uzbekistan]]|[[2025 CAFA Nations Cup squads#Iran|Team]]}}
+| caption = Hosseinzadeh with [[Esteghlal F.C.|Esteghlal]] in 2021
+}}
+
+'''Amirhossein Hosseinzadeh Tazehgheshlagh''' ({{langx|fa|امیرحسین حسین‌زاده}}; born 30 October 2000) is an Iranian [[Association football|footballer]] who plays as a [[Winger (football)|winger]] for [[Persian Gulf Pro League]] club [[Tractor S.C.|Tractor]] and the [[Iran national football team|Iran national team]].<ref>{{Soccerway|amirhossein-hosseinzadeh/514128}}</ref><ref>{{Cite news|title=هافبک سایپا اولین خرید استقلال+عکس|work=Vananews agency|url=https://vananews.com/fa/news/425505/%D9%87%D8%A7%D9%81%D8%A8%DA%A9-%D8%B3%D8%A7%DB%8C%D9%BE%D8%A7-%D8%A7%D9%88%D9%84%DB%8C%D9%86-%D8%AE%D8%B1%DB%8C%D8%AF-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D8%B9%DA%A9%D8%B3}}</ref>
+
+==Career statistics==
+===Club===
+{{Updated|30 December 2025}}
+{|class="wikitable"style="text-align:center;"
+|-
+! rowspan=2| Club
+! rowspan=2| Season
+! colspan=3| League
+! colspan=2| Cup
+! colspan=2| Continental
+! colspan=2| Total
+|-
+! League 
+! Apps !! Goals !! Apps !! Goals !! Apps !! Goals !! Apps !! Goals
+|-
+|rowspan="4"|[[Saipa F.C.|Saipa]]
+|[[2018–19 Persian Gulf Pro League|2018–19]]
+|rowspan="3"|[[Persian Gulf Pro League]]
+|14||4||0||0||0||0||14||4
+|-
+|[[2019–20 Persian Gulf Pro League|2019–20]]
+|21||3||1||1||0||0||22||4
+|-
+|[[2020–21 Persian Gulf Pro League|2020–21]]
+|12||0||0||0||0||0||12||0
+|-
+!colspan=2|Total
+!47!!7!!1!!1!!0!!0!!48!!8
+|-
+|rowspan="3"|[[Esteghlal F.C.|Esteghlal]]
+|[[2020–21 Esteghlal F.C. season|2020–21]]
+|rowspan="2"|[[Persian Gulf Pro League]]
+|0||0||0||0||1||0||1||0
+|-
+|[[2021–22 Esteghlal F.C. season|2021–22]]
+|30||8||2||0||0||0||32||8
+|-
+!colspan=2|Total
+!30!!8!!2!!0!!1!!0!!33!!8
+|-
+|[[Royal Charleroi S.C.|Charleroi]]
+|[[2022–23 Royal Charleroi S.C. season|2022–23]]
+|[[Belgian Pro League]]
+|23||2||0||0||0||0||23||2
+|-
+|rowspan="4"|[[Tractor S.C.|Tractor]]
+|[[2023–24 Tractor S.C. season|2023–24]]
+|rowspan="3"|[[Persian Gulf Pro League]]
+|28||3||3||0||1||0||32||3
+|-
+|[[2024–25 Persian Gulf Pro League|2024–25]]
+|28||14||1||0||8||8||37||22
+|-
+|[[2025–26 Persian Gulf Pro League|2025–26]]
+|15||8||1||0||6+1||1+1||23||10
+|-
+!colspan=2|Total 
+!71!!25!!5!!0!!15+1!!9+1!!92!!35
+|-
+!colspan=3|Career Total
+!171!!42!!8!!1!!16+1!!9+1!!196!!53
+|-
+|}
+* + other
+
+===International===
+{{Updated|match played 4 June 2026}}<ref>{{NFT player|86846|Amirhossein Hosseinzadeh|access-date=10 June 2025}}</ref>
+
+{|class="wikitable" style="text-align:center"
+|+ Appearances and goals by national team and year
+!National team!!Year!!Apps!!Goals
+|-
+|rowspan="3"|[[Iran national football team|Iran]]
+|2022||3||0
+|-
+|2024||1||0
+|-
+|2025||10||5
+|-
+|2026||4||0
+|-
+!colspan="2"|Total!!18!!5
+|}
+
+:''Scores and results list Iran's goal tally first, score column indicates score after each Hosseinzadeh goal.''
+
+{| class="wikitable sortable"
+|+ List of international goals scored by Amirhossein Hosseinzadeh
+!scope="col"|No.
+!scope="col"|Date
+!scope="col"|Venue
+!scope="col"|Cap
+!scope="col"|Opponent
+!scope="col"|Score
+!scope="col"|Result
+!scope="col"|Competition
+|-
+| align="center"|1 || 10 June 2025 || [[Azadi Stadium]], [[Tehran]], Iran || align=center|7 || {{fb|PRK}} || align="center"|3–0 || align="center"|3–0 || [[2026 FIFA World Cup qualification – AFC third round|2026 FIFA World Cup qualification]]
+|-
+| align="center"|2 || 29 August 2025 || rowspan=2| [[Hisor Central Stadium]], [[Hisor]], Tajikistan || align="center"|8 || {{fb|AFG}} || align="center"|2–1 || align="center"|3–1 || rowspan=2| [[2025 CAFA Nations Cup]]
+|-
+| align="center"|3 || 1 September 2025 || align="center"|9 || {{fb|IND}} || align="center"|1–0 || align="center"|3–0 
+|-
+| align="center"|4 || 10 October 2025 || [[Volgograd Arena]], [[Volgograd]], Russia || align="center"|11 || {{fb|RUS}} || style="text-align:center"|1–1 || style="text-align:center"|1–2 || rowspan=2| [[Friendly (association football)|Friendly]]
+|-
+| align="center"|5 || 14 October 2025 || [[Rashid Stadium]], [[Dubai]], UAE || align="center"|12 || {{fb|TAN}} || style="text-align:center"|1–0 || style="text-align:center"|2–0 
+|}
+
+==Club career==
+===Saipa===
+He made his debut for [[Saipa F.C.|Saipa]] in 17th fixtures of [[2018–19 Iran Pro League]] against [[Paykan F.C.|Paykan]] while he substituted in for [[Arash Rezavand]].<ref>{{Cite web |url=http://www.iplstats.com/website18-19/Week17/SAP_PAY_17.htm |title=Saipa TEH 3 - 1 Paykan TEH}}</ref>
+
+===Charleroi===
+On 22 August 2022, Hosseinzadeh signed a contract with [[R. Charleroi S.C.|Charleroi]] in Belgium for the term of two years, with two additional annual options.<ref>{{cite web|publisher=Charleroi|url=https://www.sporting-charleroi.be/news/amirhossein-hosseinzadeh-officiellement-zebre/|title=AMIRHOSSEIN HOSSEINZADEH OFFICIELLEMENT ZÈBRE !|date=22 August 2022|access-date=23 August 2022|language=fr}}</ref>
+
+Hosseinzadeh scored twice in the league in his first season in Belgium, and returned to Iran to play for Tractor FC in August 2023.
+
+==International career==
+He made his debut on 24 March 2022 against [[South Korea national football team|South Korea]]. In his second game for [[Iran national football team]], he played against the Lebanese team on 29 March 2022.<ref>{{Cite web |title=Amir Hossein HOSSEINZADEH |url=https://www.teammelli.com/player/amir-hossein-hosseinzadeh/ |access-date=2022-04-01 |language=en-US}}</ref>
+
+==Personal life==
+On 21 January 2026, while playing for Tractor against [[Mes Rafsanjan F.C.]], Hosseinzadeh was one of three goal scorers, along with teammates [[Danial Esmaeilifar]] and [[Domagoj Drožđek]], who refused to celebrate their goals in solidarity with the [[2025–2026 Iranian protests]].<ref>https://www.iranintl.com/202601222200</ref>
+
+==Honours==
+
+'''Esteghlal'''
+[[File:Esteghlal Celebrate IPL Title Win at Azadi Stadium - 055.jpg|thumb|Hosseinzadeh with the [[2021–22 Persian Gulf Pro League]] championship medal]]
+*[[Persian Gulf Pro League]]: [[2021–22 Persian Gulf Pro League|2021–22]]
+'''Tractor'''
+*[[Persian Gulf Pro League]]: [[2024–25 Persian Gulf Pro League|2024–25]]
+*[[Iranian Super Cup]]: [[2025 Iranian Super Cup|2025]]<ref>{{Cite news |date=2025-08-11 |title=Tractor win 2025 Iran’s Super Cup |publisher=[[Tehran Times]] |url=https://www.tehrantimes.com/news/516714 |access-date=2025-08-11}}</ref><ref>{{Cite news |date=2025-08-11 |title=استقلال 1 – 2 تراکتور: اولین جام فصل با کامبک رویایی |language=fa |trans-title=first cup of season |publisher=Varzesh 3 |url=https://www.varzesh3.com/news/2144099 |access-date=2025-08-11}}</ref>
+
+'''Individual'''
+* [[List of Iranian club football top goal scorers|Persian Gulf Pro League top scorer]]: [[2024–25 Persian Gulf Pro League|2024–25]]
+
+==References==
+<references/>
+
+== External links ==
+* {{Soccerway|amirhossein-hosseinzadeh/514128}}
+*{{Instagram|id=amirhossein_.hosseinzadeh}}
+
+{{Tractor S.C. squad}}
+{{Iran squad 2026 FIFA World Cup}}
+{{Iran Pro League Top Scorers}}
+
+{{DEFAULTSORT:Hosseinzadeh, Amirhossein}}
+[[Category:Living people]]
+[[Category:2000 births]]
+[[Category:Men's association football midfielders]]
+[[Category:Saipa F.C. players]]
+[[Category:Esteghlal F.C. players]]
+[[Category:Royal Charleroi SC players]]
+[[Category:Tractor S.C. players]]
+[[Category:Persian Gulf Pro League players]]
+[[Category:Belgian Pro League players]]
+[[Category:Iranian expatriate men's footballers]]
+[[Category:Expatriate men's footballers in Belgium]]
+[[Category:Iranian expatriate sportspeople in Belgium]]
+[[Category:Iranian men's footballers]]
+[[Category:Footballers from Tehran]]
+[[Category:21st-century Iranian sportsmen]]
+[[Category:2026 FIFA World Cup players]]
+
+
+{{Iran-footy-midfielder-stub}}

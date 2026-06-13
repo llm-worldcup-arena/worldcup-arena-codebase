@@ -1,0 +1,16 @@
+{
+ "team": "GER",
+ "source": "Yahoo Sports",
+ "url": "https://sports.yahoo.com/articles/nagelsmann-confirms-neuer-return-start-212500276.html",
+ "title": "USMNT strikes early and scores just 7 minutes into its World Cup opener vs. Paraguay",
+ "news_date": "2026-06-13",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-13",
+ "fetched": "2026-06-13_0748",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "USMNT strikes early and scores just 7 minutes into its World Cup opener vs. Paraguay\nThe World Cup is finally here.\nThe 2026 tournament kicks off Thursday with Group A getting underway. Here's what you need to know for Day 1 of the World Cup.\nPlay 2026 Soccer Pick 'Em with FOX One and make your picks for the world's biggest soccer tournament\nAdvertisement\nMexico vs. South Africa\nThursday, June 11 | 3 p.m. ET | Mexico City | TV: Fox\nOdds: Mexico (-235), South Africa (+650), Tie (+340)\nThe World Cup traditionally kicks off with a game featuring the host country. And by virtue of being in Group A, Mexico gets the honors among Canada and the United States to go first.\nMexico is the prohibitive favorite to win Group A and, as you can see, is heavily favored to win Thursday. Goalkeeper Guillermo Ochoa, 40, is making his sixth World Cup appearance. Will he get the start to commemorate another tournament? Or will Raul “Tala” Rangel get the start over him?\nRaul Jiménez leads the Mexico attack and 17-year-old Gilberto Mora is likely to start in midfield after he re-upped to stay with Liga MX’s Club Tijuana.\nAdvertisement\nSouth Africa is making its first World Cup appearance since it was the host nation in 2010. Bafana failed to get out of the group stage in that tournament and is a heavy underdog to make the expanded Round of 32 this time around too. Most of the South African squad plays domestically, but Burnley striker Lyle Foster will feature up front.\nSouth Korea vs. Czechia\nThursday, June 11 | 10 p.m. ET | Guadalajara | TV: FS1\nOdds: South Korea (+160), Czechia (+180), Tie (+180)\nThis could be a game that decides second place in the group if you assume Mexico will finish in first.\nSouth Korea is making its 10th straight World Cup appearance and made the Round of 16 in Qatar min, who currently plays for LAFC in MLS. However, Son's club form hasn't been great so far this season. Can he recapture the magic at the World Cup?\nAdvertisement\nCzechia is at the World Cup for the first time since 2006 and hasn't made the knockout rounds of the tournament since a quarterfinal appearance in 1990 as Czechoslovakia. Patrik Schik will start up front for Czechia, and Tomáš Souček is still a midfield mainstay after losing the captaincy in November amid a kerfuffle about Czechia players not applauding their fans following a 6-0 win over Gibraltar.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

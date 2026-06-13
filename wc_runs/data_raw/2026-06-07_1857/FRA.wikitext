@@ -1,0 +1,35 @@
+===Current squad===
+The following 26 players were called up to the [[2026 FIFA World Cup]], and for the pre-tournament friendly matches against [[Ivory Coast national football team|Ivory Coast]] and [[Northern Ireland national football team|Northern Ireland]] on 4 and 8 June 2026, respectively.<ref>{{cite web|title=New Zealand Squad Named for FIFA World Cup 2026|url=https://www.nzfootball.co.nz/newsarticle/165753?newsfeedId=1841052|publisher=[[New Zealand Football]]|date=14 May 2026|access-date=14 May 2026}}</ref>
+<br>''Caps and goals as of 4 June 2026, after the match against [[Ivory Coast national football team|Ivory Coast]].''
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Brice Samba]]|age={{bda|1994|4|25|df=y}}|caps=4|goals=0|club=[[Stade Rennais FC|Rennes]]|clubnat=FRA}}
+{{nat fs g player|no=16|pos=GK|name=[[Mike Maignan]]|age={{bda|1995|7|3|df=y}}|caps=39|goals=0|club=[[AC Milan|Milan]]|clubnat=ITA}}
+{{nat fs g player|no=23|pos=GK|name=[[Robin Risser]]|age={{bda|2004|12|2|df=y}}|caps=0|goals=0|club=[[RC Lens|Lens]]|clubnat=FRA}}
+{{nat fs break}}
+{{nat fs g player|no=2|pos=DF|name=[[Malo Gusto]]|age={{bda|2003|5|19|df=y}}|caps=10|goals=0|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs g player|no=3|pos=DF|name=[[Lucas Digne]]|age={{bda|1993|7|20|df=y}}|caps=57|goals=0|club=[[Aston Villa F.C.|Aston Villa]]|clubnat=ENG}}
+{{nat fs g player|no=4|pos=DF|name=[[Dayot Upamecano]]|age={{bda|1998|10|27|df=y}}|caps=37|goals=2|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs g player|no=5|pos=DF|name=[[Jules Koundé]]|age={{bda|1998|11|12|df=y}}|caps=47|goals=0|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs g player|no=15|pos=DF|name=[[Ibrahima Konaté]]|age={{bda|1999|5|25|df=y}}|caps=28|goals=0|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs g player|no=17|pos=DF|name=[[William Saliba]]|age={{bda|2001|3|24|df=y}}|caps=31|goals=0|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs g player|no=19|pos=DF|name=[[Théo Hernandez]]|age={{bda|1997|10|6|df=y}}|caps=43|goals=2|club=[[Al Hilal SFC|Al-Hilal]]|clubnat=KSA}}
+{{nat fs g player|no=21|pos=DF|name=[[Lucas Hernandez]]|age={{bda|1996|2|14|df=y}}|caps=42|goals=0|club=[[Paris Saint-Germain FC|Paris Saint-Germain]]|clubnat=FRA}}
+{{nat fs g player|no=26|pos=DF|name=[[Maxence Lacroix]]|age={{bda|2000|4|6|df=y}}|caps=3|goals=0|club=[[Crystal Palace F.C.|Crystal Palace]]|clubnat=ENG}}
+{{nat fs break}}
+{{nat fs g player|no=6|pos=MF|name=[[Manu Koné]]|age={{bda|2001|5|17|df=y}}|caps=13|goals=0|club=[[AS Roma|Roma]]|clubnat=ITA}}
+{{nat fs g player|no=8|pos=MF|name=[[Aurélien Tchouaméni]]|age={{bda|2000|1|27|df=y}}|caps=45|goals=3|club=[[Real Madrid CF|Real Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=13|pos=MF|name=[[N'Golo Kanté]]|age={{bda|1991|3|29|df=y}}|caps=68|goals=2|club=[[Fenerbahçe S.K. (football)|Fenerbahçe]]|clubnat=TUR}}
+{{nat fs g player|no=14|pos=MF|name=[[Adrien Rabiot]]|age={{bda|1995|4|3|df=y}}|caps=58|goals=7|club=[[AC Milan|Milan]]|clubnat=ITA}}
+{{nat fs g player|no=18|pos=MF|name=[[Warren Zaïre-Emery]]|age={{bda|2006|3|8|df=y}}|caps=11|goals=1|club=[[Paris Saint-Germain FC|Paris Saint-Germain]]|clubnat=FRA}}
+{{nat fs g player|no=24|pos=MF|name=[[Rayan Cherki]]|age={{bda|2003|8|17|df=y}}|caps=6|goals=2|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs g player|no=25|pos=MF|name=[[Maghnes Akliouche]]|age={{bda|2002|2|25|df=y}}|caps=8|goals=1|club=[[AS Monaco FC|Monaco]]{{efn|name=mon|[[AS Monaco FC|Monaco]] is a Monégasque club playing in the [[French football league system]].}}|clubnat=FRA}}
+{{nat fs break}}
+{{Nat fs g player|no=7|pos=FW|name=[[Ousmane Dembélé]]|age={{bda|1997|5|15|df=y}}|caps=58|goals=7|club=[[Paris Saint-Germain FC|Paris Saint-Germain]]|clubnat=FRA}}
+{{nat fs g player|no=9|pos=FW|name=[[Marcus Thuram]]|age={{bda|1997|8|6|df=y}}|caps=34|goals=3|club=[[Inter Milan]]|clubnat=ITA}}
+{{nat fs g player|no=10|pos=FW|name=[[Kylian Mbappé]]|other=[[Captain (association football)|captain]]|age={{bda|1998|12|20|df=y}}|caps=97|goals=[[List of international goals scored by Kylian Mbappé|56]]|club=[[Real Madrid CF|Real Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=11|pos=FW|name=[[Michael Olise]]|age={{bda|2001|12|12|df=y}}|caps=16|goals=4|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs g player|no=12|pos=FW|name=[[Bradley Barcola]]|age={{bda|2002|9|2|df=y}}|caps=19|goals=3|club=[[Paris Saint-Germain FC|Paris Saint-Germain]]|clubnat=FRA}}
+{{nat fs g player|no=20|pos=FW|name=[[Désiré Doué]]|age={{bda|2005|6|3|df=y}}|caps=6|goals=2|club=[[Paris Saint-Germain FC|Paris Saint-Germain]]|clubnat=FRA}}
+{{nat fs g player|no=22|pos=FW|name=[[Jean-Philippe Mateta]]|age={{bda|1997|6|28|df=y}}|caps=4|goals=2|club=[[Crystal Palace F.C.|Crystal Palace]]|clubnat=ENG}}
+{{nat fs end}}

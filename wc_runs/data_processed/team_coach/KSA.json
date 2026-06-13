@@ -1,0 +1,31 @@
+{
+ "team": "KSA",
+ "coach": {
+  "name_zh": "吉歐格斯·多尼斯",
+  "name_en": "Georgios Donis",
+  "nationality": "West Germany",
+  "career_since": "2002",
+  "person_id": "per_georgios_donis"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 吉歐格斯·多尼斯（Georgios Donis）自2002年开启执教生涯，现任沙特阿拉伯国家队主教练，率队出征2026年世界杯。\n- 教练生涯长期扎根沙特联赛，曾执掌阿尔希拉尔、阿尔费哈、阿尔韦达与阿尔卡利杰四家俱乐部。\n- 世界杯30人名单以沙特联赛为班底（28人），仅NEOM边锋阿拉·哈吉一名无国脚经历球员，由其昔日俱乐部主帅多尼斯破格征召。\n- 多尼斯在利雅得发布会上强调\"见林不见木\"的长期主义，警告球迷勿再期待卡塔尔世界杯击败阿根廷式的奇迹，转而关注北美之行的实质性进步。\n- 世界杯前最后一场热身赛，沙特在圣安东尼奥0比0战平十人塞内加尔，多尼斯半场即轮换10人，队长萨勒姆·达瓦萨里领衔试阵。\n- 沙特与乌拉圭、西班牙、佛得角同处H组，末轮将于6月26日在休斯顿NRG体育场对阵首次参赛的佛得角。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.85,
+  "issues": []
+ },
+ "brief_fetched": "2026-06-13_1750",
+ "brief_info_chars": 3827,
+ "coach_xverify": {
+  "canonical": "Georgios Donis",
+  "confidence": "high",
+  "discrepancy": "Goal.com片段中提及Marcelo Bielsa系乌拉圭国家队主帅，与沙特无关；The National在介绍世界杯H组时提及Luis de la Fuente，该信息对应西班牙队，非沙特主教练。",
+  "sources_agree": 6,
+  "n_sources": 8
+ }
+}

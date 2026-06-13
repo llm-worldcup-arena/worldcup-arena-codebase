@@ -1,0 +1,24 @@
+{
+ "team": "HAI",
+ "coach": {
+  "name_zh": "塞巴斯蒂安·米涅",
+  "name_en": "Sébastien Migné",
+  "nationality": "France",
+  "career_since": "1998",
+  "person_id": "per_sebastien_migne"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 塞巴斯蒂安·米涅（Sébastien Migné），法国籍，2024年6月起执教海地国家队，教练生涯始于1998年，球员时期（1989-2002）曾效力四家俱乐部。\n\n- 执教海地不足一年即率队晋级2026世界杯，终结52年缺席史，尽管因国内安全危机（帮派控制首都）全程在库拉索踢\"主场\"资格赛。\n\n- 战术上倾向4-4-2阵型与稳固防守，2026世界杯26人名单仅1名本土联赛球员，其余均为海外侨民，平均年龄24岁，强调阵容延续性。\n\n- 此前深耕非洲足坛，曾任喀麦隆助教征战2022卡塔尔世界杯（小组赛1-0击败巴西），并执教过肯尼亚、刚果（金）、赤道几内亚、多哥等国家队。\n\n- 2026世界杯备战于5月24日在南佛罗里达启动，安排6月2日对阵新西兰、6月中旬对阵秘鲁的热身赛，世界杯首秀定于6月13日。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.9,
+  "issues": []
+ },
+ "brief_fetched": "2026-06-13_1138",
+ "brief_info_chars": 6000
+}

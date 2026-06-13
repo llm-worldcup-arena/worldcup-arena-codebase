@@ -1,0 +1,106 @@
+{{Short description|Men's national football team}}
+{{About|the men's senior team|the women's senior team|Iran women's national football team}}
+{{Use British English|date = March 2026}}
+{{Use dmy dates|date=March 2026}}
+{{Infobox national football team
+| Name                  = Iran
+| Nickname              = {{ubl|''Team Melli''<br>(National Team)|''[[#Nicknames|other nicknames]]''}}
+| Badge                 = Football Federation Islamic Republic of Iran logo.svg
+| Badge_size            = 135px
+| Association           = [[Football Federation Islamic Republic of Iran]] (FFIRI)
+| Confederation         = [[Asian Football Confederation|AFC]] (Asia)
+| Sub-confederation     = [[Central Asian Football Association|CAFA]] (Central Asia)
+| FIFA Trigramme        = IRN
+| FIFA Rank             = {{FIFA World Rankings|IRN}}
+| FIFA max              = 15
+| FIFA max date         = August 2005<ref>{{#invoke:cite|web|url=https://www.fifa.com/fifa-world-ranking/ranking-table/men/rank=135/index.html|archive-url=https://web.archive.org/web/20150711230353/http://www.fifa.com/fifa-world-ranking/ranking-table/men/rank=135/index.html|url-status=dead|archive-date=11 July 2015|title=The FIFA/Coca-Cola World Ranking – Ranking Table |website=FIFA.com}}</ref>
+| FIFA min              = 122
+| FIFA min date         = May 1996<ref>{{#invoke:cite|web|url=https://www.fifa.com/fifa-world-ranking/ranking-table/men/rank=30/index.html|archive-url=https://web.archive.org/web/20160622181606/http://www.fifa.com/fifa-world-ranking/ranking-table/men/rank=30/index.html|url-status=dead|archive-date=22 June 2016|title=The FIFA/Coca-Cola World Ranking – Ranking Table|website=FIFA.com}}</ref>
+| Elo Rank              = {{World Football Elo Ratings|Iran}}
+| Elo max               = 16
+| Elo max date          = 11 April 2005, 24 January 2019
+| Elo min               = 77
+| Elo min date          = 11 November 1945
+| Coach                 = [[Amir Ghalenoei]]
+| Captain               = [[Ehsan Hajsafi]]
+| Most caps             = [[Javad Nekounam]] (149){{efn|name=Nekounam|group=players|Nekounam has two additional caps awarded by the Iranian FA. Those matches are not considered full internationals by FIFA, which only counts 149 appearances.<ref name="RSSSFNEKU">[https://www.rsssf.org/miscellaneous/nekounam-intl.html Javad Nekounam – Century of International Appearances]; at [[RSSSF]]</ref>}}
+| Top scorer            = [[Ali Daei]] ([[List of international goals scored by Ali Daei|108]]){{efn|name=Daei|group=players|Daei has an additional cap and goal awarded by the Iranian FA but in a match that is not considered a full international by FIFA, which only counts 108 goals and 148 appearances.<ref name="RSSSFdaei">[https://www.rsssf.org/miscellaneous/daei-intlg.html Ali Daei – Century of International Appearances]; at [[RSSSF]]</ref>}}
+| Home Stadium          = [[Azadi Stadium]]
+| pattern_la1           = _irn22h
+| pattern_b1            = _irn22h
+| pattern_ra1           = _irn22h
+| pattern_sh1           =
+| pattern_so1           =
+| leftarm1              = EC0000
+| body1                 = FFFFFF
+| rightarm1             = FFFFFF
+| shorts1               = FFFFFF
+| socks1                = FFFFFF
+| pattern_la2           = _irn22a
+| pattern_b2            = _irn22a
+| pattern_ra2           = _irn22a
+| pattern_sh2           =
+| pattern_so2           =
+| leftarm2              = EC0000
+| body2                 = EC0000
+| rightarm2             = EC0000
+| shorts2               = FF0000
+| socks2                = FF0000
+| First game            = {{fb|AFG|1930}} 0–0 {{fb-rt|IRN|1925}}<br>([[Kabul]], [[Kingdom of Afghanistan|Afghanistan]]; 25 August 1941)
+| Largest win           = {{fb|IRN}} [[2002 FIFA World Cup qualification – AFC first round#Group 2|19–0]] {{fb-rt|GUM}}<br>([[Tabriz]], [[Iran]]; 24 November 2000)<ref>{{#invoke:cite|web| url=https://www.fifa.com/mm/document/fifafacts/stats-matches/52/00/64/170429-factsheet-fifacompetitionsbiggestmarginvictories.pdf | archive-url=https://web.archive.org/web/20130521083035/http://www.fifa.com/mm/document/fifafacts/stats-matches/52/00/64/170429-factsheet-fifacompetitionsbiggestmarginvictories.pdf | url-status=dead | archive-date=21 May 2013 |title=Biggest margin victories/losses (Fifa fact-Sheet) |publisher=FIFA.com| access-date=27 November 2013}}</ref>
+| Largest loss          = {{fb|TUR}} 6–1 {{fb-rt|IRN|1925}}<br>([[Istanbul]], [[Turkey]]; 28 May 1950)<ref name="Iran: Fixtures and Results" /><br>{{fb|KOR|1949}} 5–0 {{fb-rt|IRN|1925}}<br>([[Tokyo]], Japan; 28 May 1958)<ref>{{#invoke:cite|web|url=https://www.rsssf.org/tablesa/asgames58.html|title=Asian Games 1958 (Tokyo, Japan)|publisher=rsssf|access-date=17 December 2010|archive-date=25 December 2018|archive-url=https://web.archive.org/web/20181225010545/http://www.rsssf.com/tablesa/asgames58.html|url-status=live}}</ref>
+| World cup apps        = 7
+| World cup first       = 1978
+| World cup best        = Group stage ([[1978 FIFA World Cup|1978]], [[1998 FIFA World Cup|1998]], [[2006 FIFA World Cup|2006]], [[2014 FIFA World Cup|2014]], [[2018 FIFA World Cup|2018]], [[2022 FIFA World Cup|2022]])
+| Regional name         = [[AFC Asian Cup|Asian Cup]]
+| Regional cup apps     = 16
+| Regional cup first    = [[1972 AFC Asian Cup|1968]]
+| Regional cup best     = '''Champions''' ([[1968 AFC Asian Cup|1968]], [[1972 AFC Asian Cup|1972]], [[1976 AFC Asian Cup|1976]])
+| 2ndRegional name      = [[Summer Olympics|Olympic Games]]
+| 2ndRegional cup apps  = 4
+| 2ndRegional cup first = [[Football at the 1964 Summer Olympics|1964]]
+| 2ndRegional cup best  = Quarter-finals ([[Football at the 1976 Summer Olympics|1976]])
+| 3rdRegional name      = [[Afro-Asian Cup of Nations]]
+| 3rdRegional cup apps  = 2
+| 3rdRegional cup first = [[1978 Afro-Asian Cup of Nations|1978]]
+| 3rdRegional cup best  = Runners-up ([[1991 Afro-Asian Cup of Nations|1991]])
+| 4thRegional name      = [[AFC–OFC Challenge Cup]]
+| 4thRegional cup apps  = 1
+| 4thRegional cup first = [[2003 AFC–OFC Challenge Cup|2003]]
+| 4thRegional cup best  = '''Champions''' ([[2003 AFC–OFC Challenge Cup|2003]])
+| medaltemplates =
+{{MedalSport|Men's [[Association football|football]]}}
+{{Medal|Competition|[[AFC Asian Cup]]}}
+{{MedalGold|[[1968 AFC Asian Cup|1968 Iran]]|[[1968 AFC Asian Cup squads#Iran|Team]]}}
+{{MedalGold|[[1972 AFC Asian Cup|1972 Thailand]]|[[1972 AFC Asian Cup squads#Iran|Team]]}}
+{{MedalGold|[[1976 AFC Asian Cup|1976 Iran]]|[[1976 AFC Asian Cup squads#Iran|Team]]}}
+{{MedalBronze|[[1980 AFC Asian Cup|1980 Kuwait]]|[[1980 AFC Asian Cup squads#Iran|Team]]}}
+{{MedalBronze |[[1988 AFC Asian Cup|1988 Qatar]]|[[1988 AFC Asian Cup squads#Iran|Team]]}}
+{{MedalBronze |[[1996 AFC Asian Cup|1996 UAE]]|[[1996 AFC Asian Cup squads#Iran|Team]]}}
+{{MedalBronze |[[2004 AFC Asian Cup|2004 China]]|[[2004 AFC Asian Cup squads#Iran|Team]]}}
+{{MedalBronze |[[2019 AFC Asian Cup|2019 UAE]]|[[2019 AFC Asian Cup squads#Iran|Team]]}}
+{{MedalBronze |[[2023 AFC Asian Cup|2023 Qatar]]|[[2023 AFC Asian Cup squads#Iran|Team]]}}
+{{Medal|Competition|[[Football at the Asian Games|Asian Games]]}}
+{{MedalGold |[[Football at the 1974 Asian Games|1974 Tehran]]|[[Football at the 1974 Asian Games – Men's team squads#Iran|Team]]}}
+{{MedalGold |[[Football at the 1990 Asian Games|1990 Beijing]]|[[Football at the 1990 Asian Games – Men's team squads#Iran|Team]]}}
+{{MedalGold |[[Football at the 1998 Asian Games|1998 Bangkok]]|[[Football at the 1998 Asian Games – Men's team squads#Iran|Team]]}}
+{{MedalSilver |[[Football at the 1951 Asian Games|1951 New Delhi]]|[[Football at the 1951 Asian Games – Men's team squads#Iran|Team]]}}
+{{MedalSilver |[[Football at the 1966 Asian Games|1966 Bangkok]]|[[Football at the 1966 Asian Games – Men's team squads#Iran|Team]]}}
+{{Medal|Competition|[[WAFF Championship]]}}
+{{MedalGold|[[2000 WAFF Championship|2000 Jordan]]|Team}}
+{{MedalGold|[[2004 WAFF Championship|2004 Iran]]|Team}}
+{{MedalGold|[[2007 WAFF Championship|2007 Jordan]]|Team}}
+{{MedalGold|[[2008 WAFF Championship|2008 Iran]]|Team}}
+{{MedalSilver|[[2010 WAFF Championship|2010 Jordan]]|Team}}
+{{MedalBronze|[[2002 WAFF Championship|2002 Syria]]|Team}}
+{{Medal|Competition|[[CAFA Nations Cup]]}}
+{{MedalGold|[[2023 CAFA Nations Cup|2023 Kyrgyzstan and Uzbekistan]]|[[2023 CAFA Nations Cup squads#Iran|Team]]}}
+{{MedalSilver|[[2025 CAFA Nations Cup|2025 Tajikistan and Uzbekistan]]|[[2025 CAFA Nations Cup squads#Iran|Team]]}}
+{{Medal|Competition|[[Afro-Asian Cup of Nations]]}}
+{{MedalSilver|[[1991 Afro-Asian Cup of Nations|1991 Iran and Algeria]]|Team}}
+{{Medal|Competition|[[AFC–OFC Challenge Cup]]}}
+{{MedalGold|[[2003 AFC–OFC Challenge Cup|2003 Iran]]|Team}}
+}}
+The '''Iran national football team''' ({{langx|fa|تیم ملی فوتبال مردان ایران|Team-e Melli-ye Futbâl-e Mardân-e Irân}}), recognised as '''IR Iran''' by [[FIFA]] since 2018,<ref>{{#invoke:cite|web|url=https://www.fifa.com/associations/association/irn/|archive-url=https://web.archive.org/web/20190504124701/https://www.fifa.com/associations/association/IRN/|url-status=dead|archive-date=4 May 2019|title=Member Association – IR Iran|website=FIFA|access-date=22 June 2021}}</ref> represents [[Iran]] in men's international senior [[Association football|football]] and is governed by the [[Football Federation Islamic Republic of Iran]] (FFIRI).<ref>{{Cite web |title=Football Federation Islamic Federation of Iran |url=https://the-ffiri.com/en}}</ref>
+
+At the continental level, Iran has won three [[AFC Asian Cup]] championships in [[1968 AFC Asian Cup|1968]], [[1972 AFC Asian Cup|1972]], and [[1976 AFC Asian Cup|1976]]. They have also won three [[Football at the Asian Games|Asian Games]] in [[Football at the 1974 Asian Games|1974]], [[Football at the 1990 Asian Games|1990]], and [[Football at the 1998 Asian Games|1998]]. The nation's best performance at the world level was reaching the quarter-finals at the [[Football at the 1976 Summer Olympics|1976 Summer Olympics]]. At the [[FIFA World Cup]], Iran have qualified seven times ([[1978 FIFA World Cup|1978]], [[1998 FIFA World Cup|1998]], [[2006 FIFA World Cup|2006]], [[2014 FIFA World Cup|2014]], [[2018 FIFA World Cup|2018]], [[2022 FIFA World Cup|2022]] and [[2026 FIFA World Cup|2026]]) but have never progressed beyond the group stages; they have however, won three matches: against the [[United States men's national soccer team|United States]] in 1998, [[Morocco national football team|Morocco]] in 2018, and [[Wales national football team|Wales]] in 2022. At the regional level, Iran has won four [[WAFF Championship]]s and one [[CAFA Nations Cup]]. The team also won intercontinental [[AFC–OFC Challenge Cup]] in 2003.
