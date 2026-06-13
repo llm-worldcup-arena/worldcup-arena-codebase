@@ -23,6 +23,7 @@ RUNS = f"{ROOT}/wc_runs"
 sys.path.insert(0, f"{ROOT}/wc_eval")
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from wc_llm import clean_loop, judge_news, consolidate_seven
+from consolidate_round import should_consolidate
 from changelog_util import append_change
 
 
@@ -108,9 +109,10 @@ def process_team(team, snap, ts, workers=6):
             pos = nxt if nxt >= 0 else len(summary)
             seg_old = summary[start:pos]
             seg_new = seg_old.rstrip() + "\n" + insert
-            # ── 去重合并:本轮加了行、且 ⑦ bullet 较多(>10)时,跑一次 consolidate(防同主题累积) ──
+            # ── 主题驱动去重合并(同主题≥2 或 >7条就合并,不再死等>10)——治放宽收录后同主题首发/赔率堆叠 ──
             bullets_n = seg_new.count("\n- ") + (1 if seg_new.lstrip().startswith("- ") else 0)
-            if bullets_n > 10:
+            go, _why = should_consolidate(seg_new)
+            if go:
                 try:
                     con = consolidate_seven(seg_new)
                     con_n = con.count("\n- ") + (1 if con.lstrip().startswith("- ") else 0)

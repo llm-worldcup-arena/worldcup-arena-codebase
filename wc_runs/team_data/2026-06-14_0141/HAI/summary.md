@@ -1,0 +1,158 @@
+# 海地（Haiti） — 2026 世界杯背景资料
+（信息截至 2026-06-08，供赛前预测使用，不含赛事结果；数据源自维基/采集真值，可回溯 raw）
+
+## 速览
+- 队名 海地（Haiti）｜FIFA码 HAI｜CONCACAF｜绰号 Les Grenadiers（掷弹兵）/ Le Bicolore（双色军团，源自红蓝国旗）｜成立 1925｜主场 太子港 Stade Sylvio Cator
+- FIFA 排名 **83**（2026-04-01）｜Elo **1548**（2026-06-08）
+- 世界杯参赛 **2 次**（1974、2026），1974 年小组出局；2026 是时隔 **52 年**重返，史上第二次跻身决赛圈
+- 本届 **C 组**，同组 SCO（苏格兰，FIFA 43 / Elo 1782）、BRA（巴西，FIFA 6 / Elo 1991）、MAR（摩洛哥，FIFA 8 / Elo 1827）——海地是全组排名最低者，分组难度极大
+- 经预选赛晋级：CONCACAF 区预选第三轮小组头名直接出线（因国内安全危机，**全部预选赛主场移师中立场地**库拉索/阿鲁巴）
+- 主帅 塞巴斯蒂安·米涅（Sébastien Migné，法国籍，2024 年起执教）——因海地危机，他执教至晋级**从未踏足海地本土**
+
+## ① 球队概况
+海地男足隶属 CONCACAF（中北美及加勒比海足联），加勒比地区传统劲旅之一，绰号 Les Grenadiers（掷弹兵）与 Le Bicolore（双色军团，取自红蓝两色国旗）。海地足协 1933 年加入 FIFA，1961 年加入 CONCACAF，是加勒比区历史最悠久的足球力量之一。当前 FIFA 排名第 83（2026-04-01），Elo 1548，在 48 强中处于中下游，是本届 C 组四队中排名最低的一支。
+
+海地是 2026 世界杯参赛队中境况最特殊的一支：因国内持续的安全与政治危机（2018 年至今），国家队**无法在本土进行任何主场比赛**，整个 2026 周期的"主场"预选赛全部安排在中立的库拉索（威廉斯塔德 Ergilio Hato 球场）和阿鲁巴举行；主帅米涅自上任到带队晋级，**从未踏足海地本土**——这一背景使球队的"世界杯之路不含一站回家"成为国际媒体广泛报道的话题。
+
+阵容构成上，海地是极致的"海外/侨民军团"：26 人大名单几乎清一色为**旅法、旅欧的海地裔球员**，绝大多数出生于法国（巴黎、Aubervilliers、Colombes 等）或加勒比、北美，主体效力法国、比利时、葡萄牙、英格兰、俄罗斯等联赛及北美 MLS/USL，本土海地联赛球员极少（如 Violette AC 出身者）。球队基因深植于海地侨民群体，近年正是依托旅外球员的回归与归化，重新崛起为 CONCACAF 区一股力量。
+
+## ② 历史与世界杯战绩
+
+**世界杯战绩（data/raw 真值）**
+- 参赛 **2 次**：1974、2026（2/22 届），最佳成绩均为小组赛阶段
+- 1974 年西德世界杯：小组 3 战全负（0–3），进 2 球失 14 球，排名第 15
+- 世界杯正赛历史合计 3 场 0 胜 0 平 3 负，进 2 球失 14 球，**至今未取一分**
+- 2026 预选赛战绩（CONCACAF）：10 场 6 胜 2 平 2 负，进 20 失 13
+
+**历史脉络（raw 梳理）**
+- **起步（1925–1950s）**：海地 1925 年 3 月首场国际赛 1–2 负牙买加（队史首球由 Painson 第 86 分钟攻入）；1933 年入会 FIFA 后曾报名 1934 世预赛（负古巴出局），此后长期游离于世界杯之外，1954 年世预赛遭墨西哥 0–8 重创。区域层面，1957 年首次参加 CCCF 锦标赛即夺冠。
+- **黄金时代（1970s）**：这是海地足球的巅峰期，被视为 CONCACAF 区"墨西哥之外"的最强队之一。1973 年海地夺得 **CONCACAF 锦标赛冠军**，并以此身份晋级 **1974 年西德世界杯**——队史首次跻身决赛圈。首战对意大利，球星 **Emmanuel Sanon（埃马纽埃尔·萨农）**于下半场攻入一球，一度 1–0 领先，**终结了意大利门神迪诺·佐夫连续 1142 分钟不失球的国际赛纪录**（这粒进球至今是海地足球史上最著名的瞬间）；终因实力差距 1–3 负意大利，随后 0–7 负波兰、1–4 负阿根廷，小组垫底。1970 与 1978、1982 周期海地亦数次打入世预赛最终阶段，但未能再进决赛圈。
+- **长期低谷与重建（1980s–2010s）**：此后海地足球地位明显下滑，国内政局动荡导致球员流失，部分主场一度移至美国迈阿密（依托当地海地侨民）。2010 年 1 月海地大地震中，至少 30 名与海地足球有关的人员（球员、教练、裁判及管理/医疗人员）罹难，对足球体系造成重创。2013 年海地曾 2–1 小负卫冕世界冠军西班牙、2–2 逼平意大利；2019 年金杯赛打进史上最佳的四强（1/4 决赛 3–2 逆转加拿大，半决赛 0–1 负墨西哥点球前点球）。
+- **2026：时隔 52 年重返世界杯（raw）**：海地从 CONCACAF 预选第二轮打起，因危机全程中立场作战；第二轮以小组次名晋级（仅负于头名库拉索）。第三轮与哥斯达黎加、洪都拉斯、尼加拉瓜同组，先平洪都拉斯（0–0）、平哥斯达黎加（3–3，纳左恩上演帽子戏法）、胜尼加拉瓜（3–0），中途 0–3 负洪都拉斯一度受挫；末段 1–0 胜哥斯达黎加、2–0 胜尼加拉瓜，叠加洪都拉斯被尼加拉瓜击败、与哥斯达黎加战平，海地最终以小组头名**直接晋级**——这是海地史上第二次、自 1974 年以来首次打进世界杯，终结 **52 年**的等待。
+
+**主要荣誉（data/raw 真值）**
+- CONCACAF 锦标赛：**冠军 1 次（1973）**、亚军 2 次（1971、1977）
+- CCCF 锦标赛（CONCACAF 前身区域赛）：冠军 1 次（1957）
+- CFU/加勒比杯：冠军 2 次（1979、2007）、亚军 1 次（2001）、季军 5 次（1978、1998、1999、2012、2014）
+- 友谊性质：Coupe Duvalier（1966）、海地国际邀请赛（1997）等
+
+## ③ 近 4 年表现与当前状态
+
+**整体走势**：近年海地在 CONCACAF 区稳步回升。法国籍主帅塞巴斯蒂安·米涅（曾执教刚果、肯尼亚、赤道几内亚等非洲国家队）于 2024 年接手，最大成就即带队完成 2026 世界杯预选——而且是在球队**无法回国训练比赛、自己从未踏足海地**的极端条件下完成的，这一晋级被广泛视为励志事件。
+
+**2025 赛季关键节点（raw 真值，比分为赛前史实）**：
+- **世预赛第二轮（2025-06）**：客场 5–0 大胜阿鲁巴（纳左恩、皮埃罗、Providence、Jean Jacques 等破门），但随后"主场"（中立场）1–5 负库拉索。
+- **2025 金杯赛（小组出局）**：0–1 负沙特、1–1 平特立尼达（皮埃罗进球）、1–2 负美国（Louicius 进球），小组未能出线。
+- **世预赛第三轮（2025-09 至 11，直接晋级关键阶段）**：0–0 平洪都拉斯、3–3 平哥斯达黎加（纳左恩帽子戏法）、3–0 胜尼加拉瓜、0–3 负洪都拉斯、1–0 胜哥斯达黎加（皮埃罗制胜）、2–0 胜尼加拉瓜（Louicius、Providence），以小组头名锁定世界杯门票。
+
+**赛前状态（2026 年热身，raw 真值，均为友谊赛）**：
+- 2026-03-28 主（多伦多 BMO）0–1 负突尼斯（L，丹利·让·雅克染红被罚下）
+- 2026-03-31 主（多伦多 BMO）1–1 平冰岛（D，伊西多尔第 88 分钟扳平）
+- 2026-06-02 主（迈阿密）4–0 胜新西兰（W，Providence、Lenny Joseph、皮埃罗、Lacroix 进球）
+- 2026-06-05 主（迈阿密）1–2 负秘鲁（L，伊西多尔进球，末段连丢两球）
+
+**当前状态判断**：赛前一串热身呈"逢强不易、逢弱能赢"之态——4–0 大胜新西兰展现进攻火力，但负突尼斯、秘鲁、平冰岛说明面对中上游对手仍偏吃力，且纪律性是隐忧（对突尼斯有红牌）。球队整体处在"晋级红利+大赛经验匮乏"的微妙状态：阵中多为旅欧实战球员，但绝大多数缺乏世界杯级别舞台经验。
+
+## 近期状态
+- 近 6 场：
+  - 13 November      主 vs CRC 1–0(W)
+  - 18 November      主 vs NCA 2–0(W)
+  - 28 March         主 vs TUN 0–1(L)
+  - 31 March         主 vs ISL 1–1(D)
+  - 2 June           主 vs NZL 4–0(W)
+  - 5 June           主 vs PER 1–2(L)
+
+
+## ④ 本届征程（小组赛）
+
+本届海地身处 **C 组**，这是一个对海地极为严酷的分组：巴西（BRA，FIFA 6、Elo 1991）是夺冠级别的世界顶级豪门；摩洛哥（MAR，FIFA 8、Elo 1827）是 2022 世界杯四强、当今非洲头号强队；苏格兰（SCO，FIFA 43、Elo 1782）虽排名最接近海地，但仍明显高出。海地（FIFA 83、Elo 1548）是**全组排名最低**、纸面实力最弱的一队，三个对手的 FIFA 排名均远在海地之上。三场小组赛全部安排在美国本土（福克斯堡、费城、亚特兰大），对海地而言均为中立/客场性质，但考虑到美国东岸庞大的海地裔社群，看台氛围或能提供一定声援。
+
+| 日期 | 对手 | 球场 | 城市 |
+|---|---|---|---|
+| 2026-06-13 | SCO | Gillette Stadium | Foxborough, Massachusetts |
+| 2026-06-19 | BRA | Lincoln Financial Field | Philadelphia |
+| 2026-06-24 | MAR | Mercedes-Benz Stadium | Atlanta |
+
+注：首战 6 月 13 日在福克斯堡对阵苏格兰，是海地小组出线机会理论上最大的一场（组内排名最接近的对手）；次战费城迎战巴西、末战亚特兰大对摩洛哥，对手实力依次居于海地之上。对海地而言，这是史上第二次世界杯之旅，能否拿到队史世界杯首分将是最大看点。
+
+## ⑤ 阵容全名单（26 人）
+> 号·位置·姓名·全名·年龄·身高·脚·国脚(场/球)·身价·合同·双国籍·加盟现队·俱乐部生涯(出场/进球)·出生地（采集真值；身价/身高/惯用脚来自 Transfermarkt，缺=未采）
+
+| 号 | 位置 | 姓名 | 全名 | 年龄 | 身高 | 脚 | 国脚 | 身价 | 合同 | 双国籍 | 加盟现队 | 俱乐部生涯 | 出生地 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | 门将 | 乔伊·帕拉希德 | Johny Placide | 38 | 181 | 右 | 80/0 | 150K€ | 2026-06-30 | Haiti, France | 01/07/2021 | Le Havre B(23/0)→Le Havre(97/0)→Reims(49/0)→Guingamp(0/0)→Oldham Athletic(36/0)→Tsarsko Selo(47/0)→Bastia(139/0) | Montfermeil |
+| 2 | 右后卫 | Carlens Arcus | Carlens Jean Fedlaire Ruby Arcus | 29 | 180 | 右 | 52/1 | 2M€ | 2027-06-30 | Haiti | 01/07/2024 | Racing CH(?/?)→Club Sportif Saint-Louis(?/?)→Troyes B(25/0)→Troyes(2/0)→Lille B(19/1)→Lille(0/0)→Cercle Brugge(0/0)→Auxerre(122/3)→Auxerre B(1/0)→Vitesse(60/1)→Angers(54/0) | Port-au-Prince |
+| 3 | 中后卫 | Keeto Thermoncy | Keeto Thermoncy | 20 | 185 | 右 | 1/0 | 100K€ | — | — | — | Young Boys U21(29/2) | Fribourg |
+| 4 | 后卫 | 里卡多·阿德 | Ricardo Adé Kat | 36 | 190 | 右 | 58/2 | 300K€ | 2027-12-31 | Haiti | 03/01/2023 | Baltimore SC(56/0)→Miami United(?/?)→Don Bosco(16/0)→Santiago Morning(51/2)→Magallanes(45/1)→Mushuc Runa(24/0)→Aucas(27/0)→L.D.U. Quito(95/3) | Saint-Marc |
+| 5 | 中后卫 | 漢尼斯·戴柯华 | Hannes Piterson Delcroix | 27 | 183 | 左 | 6/0 | 2M€ | 2028-06-30 | Haiti, Belgium | 15/01/2026 | Anderlecht(51/0)→Burnley(12/0)→Lugano(14/1) | Petite Rivière de l'Artibonite |
+| 6 | 中场 | Carl Sainté | Carl Fred Sainté | 23 | 182 | 右 | 26/0 | 125K€ | 2026-11-30 | Haiti | 01/01/2026 | Violette(12/0)→New Mexico United(5/0)→North Texas SC(22/1)→North Texas SC(12/1)→FC Dallas(2/0)→El Paso Locomotive FC(5/0) | Grand-Goâve |
+| 7 | 边锋 | Derrick Etienne Jr. | Derrick Burckley Etienne Jr. | 29 | 178 | 右 | 50/8 | 800K€ | 2026-12-31 | Haiti, United States | 23/04/2024 | New York Red Bulls II(14/3)→New York Red Bulls(60/6)→Columbus Crew(83/11)→Atlanta United FC(23/0)→Toronto FC(59/5) | Richmond |
+| 8 | 左后卫 | Martin Expérience | Martin Yves Experiénce | 27 | 178 | 左 | 20/0 | 350K€ | 2026-06-30 | Haiti, France | 01/07/2024 | Changé(18/0)→Avranches II(3/2)→Avranches(29/1)→Cholet(54/3)→Nancy(50/1) | Châteaubriant |
+| 9 | 中锋 | 达肯斯·纳左恩 | Duckens Moses Nazon | 32 | 181 | 右 | 82/44 | 800K€ | 2028-06-30 | Haiti, France | 08/08/2025 | Lorient II(0/0)→Olympique Saint-Quentin(13/10)→Laval(14/3)→Kerala Blasters(7/2)→Wolverhampton Wanderers(0/0)→Sint-Truiden(28/6)→Quevilly-Rouen(38/15)→CSKA Sofia(50/27)→Kayserispor(46/11)→Esteghlal(10/1) | Châtenay-Malabry |
+| 10 | 中场 | 让-里克纳·贝勒加德 | Jean‐Ricner Bellegarde | 27 | 170 | 右 | 9/0 | 16M€ | — | — | — | Lens B(38/0)→Lens(55/5)→Strasbourg(128/7)→Wolverhampton Wanderers(83/5) | Colombes |
+| 11 | Right winger | Louicius Deedson | Don Deedson Louicius | 25 | 178 | 左 | 31/10 | 1M€ | 2028-12-31 | Haiti, United States | 24/07/2025 | Hobro(79/19)→OB(56/15)→FC Dallas(9/1) | Tabarre |
+| 12 | 门将 | Alexandre Pierre | Alexandre Pierre | 25 | 190 | 右 | 15/0 | 700K€ | 2028-06-30 | Haiti, France | 01/07/2024 | Laval II(2/0)→Angers II(0/0)→Strasbourg II(31/0)→Strasbourg(0/0)→Sochaux(16/0)→Sochaux B(25/0) | Aubervilliers |
+| 13 | 边后卫 | Duke Lacroix | Markhus Lacroix | 32 | 175 | 左 | 15/2 | 125K€ | 2026-11-30 | Haiti, United States | 01/01/2023 | Ocean City Nor'easters(21/4)→Indy Eleven(34/3)→Orange County SC(5/2)→Reno 1868(59/4)→Charlotte Independence(16/0)→Sacramento Republic(60/2)→Colorado Springs Switchbacks(74/2) | New Egypt |
+| 14 | 中场 | Leverton Pierre | Leverton Pierre | 28 | 178 | 右 | 33/0 | 200K€ | — | — | — | Bastia II(8/0)→Ajaccio II(23/13)→Ajaccio(1/0)→Metz(0/0)→Dunkerque(85/2)→Avranches(28/4)→Châteauroux(25/1)→Vizela(9/0) | Tabarre |
+| 15 | 边锋 | Ruben Providence | Ruben Fritzner Providence | 24 | 178 | 右 | 14/3 | 300K€ | 2027-06-30 | Haiti, France | 29/08/2024 | Roma(0/0)→TSV Hartberg(29/2)→Almere City(47/1) | Lagny-sur-Marne |
+| 16 | 前锋 | Lenny Joseph | Lenny Joseph | 25 | 183 | 右 | 1/1 | 2M€ | — | — | — | Le Puy(1/0)→Boulogne II(12/1)→Le Puy(4/2)→Metz II(14/8)→Metz(37/3)→Grenoble(52/5)→Ferencváros(35/11) | Paris |
+| 17 | 中场 | 丹利·让·雅克 | Danley Jean Jacques | 26 | 182 | 右 | 30/6 | 3M€ | — | — | — | Don Bosco(52/7)→Metz B(15/0)→Metz(64/0)→Philadelphia Union(54/5) | Petit-Goâve |
+| 18 | 中锋 | 威尔逊·伊西多尔 | Wilson Isidor | 25 | 184 | 右 | 4/2 | 18M€ | 2028-06-30 | Haiti, France | 01/02/2025 | Rennes II(4/0)→Monaco II(21/5)→Monaco(5/0)→Lokomotiv Moscow(35/16)→Zenit Saint Petersburg(3/1)→Sunderland(50/9) | Rennes |
+| 19 | Attacking midfielder / Forward | Yassin Fortuné | Yassin Enzo Fortuné | 27 | 186 | 右 | 4/0 | 300K€ | 2027-06-30 | Haiti, France | 04/08/2025 | Sion(53/3)→Sion U21(10/1)→Quevilly-Rouen(28/5)→Vizela(23/3) | Aubervilliers |
+| 20 | 前锋 | 弗朗兹迪·皮埃罗 | Frantzdy Pierrot | 31 | 194 | 右 | 50/34 | 2M€ | — | — | — | Reading United(22/12)→Mouscron(28/6)→Guingamp(76/28)→Maccabi Haifa(66/28)→AEK Athens(37/8) | Cap-Haïtien |
+| 21 | 右后卫 | 若苏埃·卡西米尔 | Josué Casimir | 24 | 178 | 右 | 7/0 | 3M€ | 2028-06-30 | Haiti, Guadeloupe | 01/07/2025 | Le Havre II(52/7)→Le Havre(98/6)→Auxerre(31/1) | Baie-Mahault |
+| 22 | 右后卫 | Jean-Kévin Duverne | Jean-Kévin Duverne | 28 | 184 | 右 | 16/1 | 2M€ | 2026-06-30 | Haiti, France | 08/09/2025 | Lens B(38/1)→Lens(89/0)→Brest(112/2)→Nantes(28/0) | Paris |
+| 23 | 门将 | 若絮耶·迪维尔杰 | Josué Duverger | 26 | 187 | 左 | 6/0 | 50K€ | 2027-06-30 | Haiti, Canada | 23/08/2024 | Sporting CP B(0/0)→Vitória Setúbal B(20/0)→Vitória Setúbal(2/0)→União Santarém(30/0)→Cosmos Koblenz(24/0) | Montreal |
+| 24 | 右后卫 | Wilguens Paugain | Wilguens Raphael Polynice Paugain | 24 | 180 | 右 | 7/0 | 800K€ | 2028-06-30 | Haiti, France | 01/07/2025 | Nancy II(5/0)→Akritas Chlorakas(21/0)→FK Auda(21/0)→SKN St. Pölten(14/0)→Zulte Waregem(24/1) | Thomazeau |
+| 25 | 后腰 | Dominique Simon | Dominique Célidor Simon | 25 | 178 | 右 | 2/0 | 200K€ | 2026-06-30 | Haiti, France | 21/08/2025 | Aubervilliers(1/0)→Navarro(5/2)→Paide U21(8/0)→Paide(49/3)→Dinamo Tbilisi(15/2)→Pardubice(16/1) | Pontoise |
+| 26 | 后腰 | Woodensky Pierre | Olivier Woodensky Pierre | 21 | 177 | 右 | 1/0 | 100K€ | — | Haiti | 01/06/2025 | Violette AC(?/?)→Real Hope FA(?/?)→Violette AC(?/?) | Cité Soleil |
+
+
+## ⑥ 核心球员特点
+（国脚数据为采集真值，截至 2026-06-05；打法描述为 raw 背景 + 足球常识，不含具体赛事结果）
+
+- **达肯斯·纳左恩（Duckens Nazon，9 号，中锋｜82 场 44 球）**：海地队史级别的射手，国家队进球数（44 球）冠绝全队，国脚出场（82 场）亦居前列。职业生涯辗转多国（保加利亚 CSKA 索菲亚、土耳其开塞利、伊朗 Esteghlal 等），身体强壮、抢点凶狠，是海地锋线的头号支点与终结者，2025 世预赛对哥斯达黎加上演帽子戏法，是晋级路上的关键功臣。
+- **弗朗兹迪·皮埃罗（Frantzdy Pierrot，20 号，前锋｜50 场 34 球）**：另一位高产中锋（身高 194），国家队 50 场打入 34 球，效率惊人，效力希腊 AEK 雅典，此前在马卡比海法、甘冈均有出色产出。身材高大、制空与支点作用突出，2025 世预赛 1–0 制胜哥斯达黎加的进球极为关键，与纳左恩组成双高中锋火力点。
+- **让-里克纳·贝勒加德（Jean-Ricner Bellegarde，10 号，MF｜9 场）**：阵中名气与联赛层次最高的球员之一，效力英超狼队（Wolverhampton），此前在法甲斯特拉斯堡、朗斯打出身价。技术细腻、推进与组织能力强，是中场的质量担当，惟国脚出场尚少（9 场），代表海地经验仍在积累。
+- **威尔逊·伊西多尔（Wilson Isidor，18 号，中锋｜4 场 2 球）**：英冠/英超升班马桑德兰（Sunderland）前锋，曾效力莫斯科火车头、泽尼特，机动性与冲击力出色，是锋线的速度型补充；赛前热身对冰岛、秘鲁均有进球，状态在线。
+- **德里克·埃蒂安（Derrick Etienne Jr.，7 号，边锋｜50 场 8 球）**：经验丰富的边路球员，长期征战北美 MLS（多伦多 FC、哥伦布机员等），50 次国脚出场是阵中老将，速度与传中能力为边路提供支援。
+- **Louicius Deedson（Don Deedson Louicius，11 号，右边锋｜31 场 10 球）**：上升势头明显的边锋，国家队 31 场 10 球效率不俗，世预赛多次破门（对尼加拉瓜、美国等），现效力美职联达拉斯 FC，是边路的进攻活点。
+- **乔伊·帕拉希德（Johny Placide，1 号，门将｜80 场 0 球）**：38 岁的老门将，国脚出场达 80 场，长期在法国联赛（勒阿弗尔、兰斯、巴斯蒂亚等）门线把关，经验是其最大价值，预计仍是头号门将。
+- **后防与中场班底**：中卫里卡多·阿德（Ricardo Adé，4 号，36 岁，58 场，效力厄瓜多尔基多大学）经验老到；漢尼斯·戴柯华（Hannes Delcroix，5 号，比利时安德莱赫特出身、现卢加诺）具备欧洲高水平联赛背景；右后卫 Carlens Arcus（2 号，52 场，法甲昂热）是边路常规主力；丹利·让·雅克（Danley Jean Jacques，17 号，30 场 6 球，美职联费城联）兼具拦截与插上，但纪律性需注意（赛前对突尼斯染红）。
+- **新生代与轮换**：年轻中卫 Keeto Thermoncy（3 号，20 岁，瑞士年轻人 U21）、后腰 Woodensky Pierre（26 号，21 岁，本土 Violette AC）、边锋 Ruben Providence（15 号，罗马青训出身）等提供未来潜力与轮换深度；门将线另有 Alexandre Pierre、若絮耶·迪维尔杰备份。
+
+## ⑦ 关键动态
+
+- 🟢 **全员可战**，秘鲁热身赛后无新增伤情，主帅 Migné 无伤病困扰。（赛前·多源核实：RotoWire/SportsMole/ESPN/Racing Post）
+- **赛前预测首发（2026-06-13 增补）**：主流分两派——Sports Mole/Squawka/Africa Soccer 预计米涅沿用热身赛 4-4-2 框架：38 岁队长普拉西德把门，阿德＋德尔克鲁瓦组中卫，阿库斯/埃克斯佩里恩斯两翼，贝勒加德＋让·雅克坐镇中路；锋线伊西多尔基本锁定一席，其搭档纳左恩与皮埃罗存争议，右边路由迪德森与卡西米尔竞争。Racing Post 则预测变阵 4-3-2-1：普拉西德/阿库斯、阿德、德尔克鲁瓦、埃克斯佩里恩斯/贝勒加德、让-雅克、L·皮埃尔/普罗维登斯、伊西多尔/纳左恩，大名单补全 15 人。（赛前·多源核实：Sports Mole/Squawka/Africa Soccer/Racing Post）
+- **危机下的特殊备战（raw 真值）**：因国内安全与政治危机，海地整个预选周期**无法在本土比赛**，"主场"全设在库拉索、阿鲁巴等中立地；主帅米涅带队晋级时**从未踏足海地本土**——这是球队最独特、也最受外界关注的背景，长期客居作战对凝聚力与备战条件构成持续挑战。
+- **侨民军团成色**：26 人名单几乎全部为旅法/旅欧的海地裔球员，绝大多数出生于法国或加勒比、北美，依托侨民人才回归构建阵容；这既带来欧洲职业联赛的实战历练，也意味着多数球员**缺乏世界杯级别大赛经验**。
+- **52 年后重返世界杯**：海地以 CONCACAF 预选第三轮小组头名直接晋级，时隔 1974 年后再登世界杯舞台，是本届最具历史意义的回归之一，球队士气与国民关注度高涨；预选赛纳左恩与皮埃罗合进 7 球。「多源核实：SportsMole/Yahoo Sports」
+- **双高中锋火力**：纳左恩（44 球）与皮埃罗（34 球）两名高产中锋是球队最大武器，加上贝勒加德（狼队）、伊西多尔（桑德兰）等旅欧球员，进攻端具备一定冲击力，4–0 胜新西兰即是体现。「多源核实：Yahoo Sports」
+- **纪律与稳定性隐忧**：赛前对突尼斯的红牌、对秘鲁末段连丢两球，暴露球队在面对中上游对手时防守稳定性与情绪控制的短板；预选赛 0-3 负洪都拉斯亦暴露防守问题。「多源核实：Yahoo Sports」
+- 海地世界杯首战苏格兰定于波士顿吉列体育场（2026-06-13 21:00，C组第3轮），同组另含巴西与摩洛哥；博彩:苏格兰 4/7(大热)。「多源核实:Sports Mole/Yahoo Sports」
+- 苏格兰近期 4-2 胜丹麦但连负日本/科特迪瓦，吉尔莫伤缺。「多源核实:Yahoo Sports」
+
+## ⑧ 综合定位与变数
+**定位**：海地是本届世界杯的**最大热血黑马/鱼腩之一**——FIFA 第 83 是 48 强中下游、为 C 组四队最低，纸面实力与同组巴西（FIFA 6）、摩洛哥（FIFA 8）、苏格兰（FIFA 43）差距明显。球队的最大意义在于"时隔 52 年重返"的历史突破本身，以及在国内危机、无主场可用的极端条件下完成晋级的励志底色。其打法以双高中锋（纳左恩、皮埃罗）支点+边路速度（Louicius、埃蒂安、伊西多尔）和防守反击为主。
+
+**有利因素**：① 拥有纳左恩、皮埃罗两名国家队高产中锋，定位球与禁区抢点具备一定杀伤；② 贝勒加德（狼队）、伊西多尔（桑德兰）、戴柯华等核心拥有欧洲高水平联赛历练；③ 美国东岸庞大的海地裔社群可在看台提供主场般的声援；④ 晋级带来的士气与凝聚力正处高点。
+
+**不利/变数**：① 分组极其严酷，巴西、摩洛哥实力远在海地之上，出线希望理论上系于首战对苏格兰一役及"抢分"机会；② 世界杯正赛历史"1 战即出局、合计 0 分"（1974 年 3 战全负），缺乏顶级赛场拿分经验与心理积淀；③ 全队大赛经验匮乏，多名核心代表海地出场场次偏少；④ 长期无本土主场、客居备战，后勤与状态稳定性受国内危机牵制；⑤ 防守稳定性与纪律性（红牌、末段失球）是临场隐患。综合看，海地本届的现实目标是**力争拿到队史世界杯首分、打出有竞争力的表现**，小组出线难度极大；其表现高度依赖双中锋的把握机会能力与防守端能否限制对手。
+
+## 球队市值与年龄结构（汇总自球员身价，Transfermarkt，asof 2026-06）
+- 阵容总身价：**56M€**（26 名有估值球员合计）
+- 平均年龄：**27.6 岁**（最年长 38、最年轻 20）
+- 身价 Top3：威尔逊·伊西多尔（18M€）、让-里克纳·贝勒加德（16M€）、丹利·让·雅克（3M€）
+
+---
+
+## 世界杯 2026 · 专项整理
+
+### 📋 赛前 / 通用动态
+**伤停与可用性**：
+- 🟢 无伤病困扰、全员可用;赛前预测首发 4-4-2:Isidor 锁定一锋(搭档 Bazile/Pierrot 两说)、Placide 把门(RotoWire/Sports Mole/ESPN)
+**状态与细节**：
+- 队史首进世界杯的正赛级亮相战;主帅 Migné 以稳为先
+**下一场指引**：
+- 今日首战 vs 苏格兰(波士顿 Gillette):本队受让 0.5 球;以逸待劳,对手 McKenna 缺阵中卫要重组,可冲击其防线磨合期
