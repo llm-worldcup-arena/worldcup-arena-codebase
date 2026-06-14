@@ -72,7 +72,11 @@ def main():
         aj = re.sub(r"(REVEAL_THROUGH\s*[:=]\s*)['\"][^'\"]*['\"]", rf'\1"{a.reveal}"', aj, count=1)
         revmsg = f" · REVEAL_THROUGH→{a.reveal}"
     res = json.load(open(f"{ARC}/results.json", encoding="utf-8"))
-    order = [f"{m['team_a']}_vs_{m['team_b']}" for m in json.load(open(f"{ROOT}/wc_runs/data_reference/matches.json", encoding="utf-8"))]
+    # RESULTS 的索引键必须与网页 FIX(worldcup-app.js)显示顺序一致,否则注入赛果会张冠李戴。
+    # 两边统一按【开球时间 kickoff_ts】升序(FIX 也按时间序维护);match_id 仅作同刻次序兜底。
+    _ms = json.load(open(f"{ROOT}/wc_runs/data_reference/matches.json", encoding="utf-8"))
+    _ms = sorted(_ms, key=lambda m: (m.get("date") or "", m.get("kickoff_ts") or "zzzz", m.get("match_id") or ""))
+    order = [f"{m['team_a']}_vs_{m['team_b']}" for m in _ms]
     RES = {}
     for idx, mk in enumerate(order):
         rr = (res.get("matches") or {}).get(mk, {})
