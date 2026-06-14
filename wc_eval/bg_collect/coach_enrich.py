@@ -73,12 +73,37 @@ def _coach_claims(team, cj):
     return uniq[:8]
 
 
-def enrich(team, ts):
+def _coach_basis(team, cj):
+    """教练 brief 的"依据签名"(便宜、无LLM):结构化主帅名 + 所有提到主帅的新闻 URL 集合。
+    与上次相同 → 没有换帅、也没有新的教练相关新闻 → 不必重做 brief。"""
+    import re
+    c = cj.get("coach") or {}
+    name = f"{c.get('name_zh','')}/{c.get('name_en','')}"
+    last = (c.get("name_en") or "").split()[-1] if c.get("name_en") else ""
+    KW = ("coach", "manager", "head coach", "boss", "主帅", "主教练", "执教", "带队")
+    urls = set()
+    for p in glob.glob(f"{RUNS}/data_processed/team_news/{team}/*.json") + \
+             glob.glob(f"{RUNS}/data_processed/prematch_news/{team}/*.json"):
+        try:
+            r = json.load(open(p, encoding="utf-8"))
+        except Exception:
+            continue
+        t = (r.get("original_text") or "")
+        if any(k in t.lower() for k in KW) and (not last or last.lower() in t.lower() or "coach" in t.lower()):
+            urls.add(r.get("url") or p)
+    return {"coach": name, "mention_urls": sorted(urls)}
+
+
+def enrich(team, ts, refresh=False):
     p = f"{COACH}/{team}.json"
     if not os.path.exists(p):
         return {"team": team, "skip": "无结构化教练"}
     cj = json.load(open(p, encoding="utf-8"))
-    # ── 多源交叉验证主帅(LLM,单源→多源把关;抓 Potter/Tomasson 这类换帅歧义)──
+    # ── 增量判断(与新闻三判同策略):先看"有没有换帅 / 有没有新的教练相关新闻"——没变就不重做 ──
+    basis = _coach_basis(team, cj)
+    if cj.get("brief") and cj.get("brief_basis") == basis and not refresh:
+        return {"team": team, "skip": "无变化(无换帅、无新教练新闻)", "unchanged": True}
+    # ── 有变化(换帅/新新闻)或首次 → 多源交叉验证主帅 + (重)生成 brief ──
     claims = _coach_claims(team, cj)
     if len(claims) >= 2:
         try:
@@ -92,12 +117,13 @@ def enrich(team, ts):
     cj["brief_qc"] = res["qc"]
     cj["brief_fetched"] = ts
     cj["brief_info_chars"] = len(info)
+    cj["brief_basis"] = basis        # 记本次依据签名,供下轮"变没变"判断
     json.dump(cj, open(p, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     # raw 留底
     rawd = f"{RUNS}/data_raw/{ts}/team_coach"
     os.makedirs(rawd, exist_ok=True)
     json.dump(cj, open(f"{rawd}/{team}.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
-    return {"team": team, "brief_lines": res["brief"].count("\n- ") + 1, "info_chars": len(info)}
+    return {"team": team, "brief_lines": res["brief"].count("\n- ") + 1, "info_chars": len(info), "regen": True}
 
 
 def main():
@@ -105,13 +131,14 @@ def main():
     ap.add_argument("--ts", required=True)
     ap.add_argument("--teams", default="ALL")
     ap.add_argument("--workers", type=int, default=8)
+    ap.add_argument("--refresh", action="store_true", help="强制重生成(忽略'无变化'判断)")
     a = ap.parse_args()
     teams = sorted(os.path.basename(p)[:-5] for p in glob.glob(f"{COACH}/*.json")) if a.teams == "ALL" \
         else [t.strip() for t in a.teams.split(",")]
-    print(f"▶ coach_enrich:{len(teams)} 队 · py-Kimi 并行生成可读简介")
+    print(f"▶ coach_enrich:{len(teams)} 队 · 增量判断(换帅/新教练新闻才重做)· py-Kimi")
     stats = [None] * len(teams)
     with ThreadPoolExecutor(max_workers=a.workers) as ex:
-        fut = {ex.submit(enrich, t, a.ts): i for i, t in enumerate(teams)}
+        fut = {ex.submit(enrich, t, a.ts, a.refresh): i for i, t in enumerate(teams)}
         done = 0
         for f in as_completed(fut):
             try:
@@ -120,8 +147,10 @@ def main():
                 stats[fut[f]] = {"team": teams[fut[f]], "err": str(e)[:80]}
             done += 1
             print(f"  [{done}/{len(teams)}] {stats[fut[f]]}")
-    ok = sum(1 for s in stats if s and not s.get("err") and not s.get("skip"))
-    print(f"✅ 教练可读简介:{ok}/{len(teams)} 生成")
+    regen = sum(1 for s in stats if s and s.get("regen"))
+    unchanged = sum(1 for s in stats if s and s.get("unchanged"))
+    err = sum(1 for s in stats if s and s.get("err"))
+    print(f"✅ 教练增量:重做 {regen} 队(换帅/新教练新闻)· 无变化跳过 {unchanged} 队 · 失败 {err}")
 
 
 if __name__ == "__main__":
