@@ -218,6 +218,11 @@ _HANDICAP = {
     ("QAT", "SUI"): +1.0,    # 瑞士(客)让 1(ML 瑞 -425 vs 卡 +1400 悬殊,常规对应客让1;Covers/oddschecker)
     ("HAI", "SCO"): +0.5,    # 苏格兰(客)让 0.5(ML 苏 -175,与 BRA -175→-0.5 同价位;Covers)
     ("AUS", "TUR"): +0.5,    # 土耳其(客)让 0.5(ML 土 -135 小幅优势,1/4盘归整为半球;Covers)
+    # —— 6/14(多源核对 2026-06-14) ——
+    ("GER", "CUW"): -2.5,    # 德国 -2.5(库拉索最小参赛国;AH 市场 -2.5至-3.5,取-2.5评分线;LiveScore/CBS/ESPN)
+    ("CIV", "ECU"): +0.5,    # 厄瓜多尔(客)让 0.5(ML 厄 +135 微favorite vs 科特迪瓦 +270;ECU -0.5 goal line -130;CBS/oddspedia)
+    ("NED", "JPN"): -0.5,    # 荷兰 -0.5(AH 荷 -0.5 -104/-115;ESPN/Yahoo/Covers)
+    ("SWE", "TUN"): -0.5,    # 瑞典 -0.5(ML 瑞 -115;AH 瑞 -0.5 -119;ESPN/Covers/Lineups)
 }
 
 

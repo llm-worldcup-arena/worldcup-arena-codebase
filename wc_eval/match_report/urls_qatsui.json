@@ -1,0 +1,16 @@
+[
+ {"name": "skysports", "source": "Sky Sports", "url": "https://www.skysports.com/football/qatar-vs-switzerland/report/549770", "tier": "2", "lang": "en"},
+ {"name": "nbcnews", "source": "NBC News", "url": "https://www.nbcnews.com/sports/soccer/boualem-khoukhis-header-qatar-first-world-cup-point-switzerland-rcna349962", "tier": "2", "lang": "en"},
+ {"name": "france24", "source": "France 24 (AFP)", "url": "https://www.france24.com/en/sport/20260613-world-cup-2026-qatar-stuns-switzerland-with-late-equaliser", "tier": "1", "lang": "en"},
+ {"name": "aljazeera", "source": "Al Jazeera", "url": "https://www.aljazeera.com/sports/2026/6/13/qatar-net-dramatic-late-goal-to-draw-world-cup-opener-against-switzerland", "tier": "2", "lang": "en"},
+ {"name": "yahoo", "source": "Yahoo Sports", "url": "https://sports.yahoo.com/soccer/article/world-cup-2026-qatar-steals-1-1-draw-with-switzerland-on-boualem-khoukhis-late-goal-in-extra-time-211327024.html", "tier": "2", "lang": "en"},
+ {"name": "theanalyst", "source": "Opta Analyst", "url": "https://theanalyst.com/articles/qatar-vs-switzerland-stats-world-cup-2026", "tier": "2", "lang": "en"},
+ {"name": "bundesliga", "source": "Bundesliga.com", "url": "https://www.bundesliga.com/en/bundesliga/news/qatar-switzerland-world-cup-draw-boualem-khoukhi-san-francisco-37809", "tier": "2", "lang": "en"},
+ {"name": "101greatgoals", "source": "101 Great Goals", "url": "https://www.101greatgoals.com/football/world-cup-news/world-cup-2026-qatar-switzerland-report-result-goals/", "tier": "3", "lang": "en"},
+ {"name": "montevideo", "source": "Montevideo Portal", "url": "https://www.montevideo.com.uy/Deportes/Mundial-2026-Catar-le-empato-agonicamente-a-Suiza-y-logro-el-primer-punto-de-su-historia-uc965112", "tier": "3", "lang": "es"},
+ {"name": "lapatria", "source": "La Patria (AFP)", "url": "https://www.lapatria.com/deportes/khoukhi-y-lopetegui-hacen-historia-para-catar-que-empato-extremis-con-suiza-en-el-mundial", "tier": "3", "lang": "es"},
+ {"name": "futbolred", "source": "Futbolred", "url": "https://www.futbolred.com/mundial-2026/goles-resumen-y-resultado-catar-vs-suiza-por-grupo-b-del-mundial-2026-268808", "tier": "3", "lang": "es"},
+ {"name": "thepaper", "source": "澎湃新闻", "url": "https://m.thepaper.cn/detail/33376314", "tier": "3", "lang": "zh"},
+ {"name": "netease", "source": "网易(163)", "url": "https://www.163.com/dy/article/KVC1M2LS0549BAP0.html", "tier": "3", "lang": "zh"},
+ {"name": "voc_xhn", "source": "新华社(经华声在线)", "url": "https://m.voc.com.cn/xhn/news/202606/32899150.html", "tier": "3", "lang": "zh"}
+]

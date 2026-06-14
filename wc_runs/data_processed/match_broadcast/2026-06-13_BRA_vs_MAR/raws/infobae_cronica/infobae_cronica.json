@@ -1,0 +1,24 @@
+{
+ "source": "Infobae (crónica/EFE)",
+ "url": "https://www.infobae.com/america/agencias/2026/06/14/cronica-del-brasil-marruecos-1-1/",
+ "title": "Crónica del Brasil - Marruecos, 1-1",
+ "published": "2026-06-14T00:45:20.282Z",
+ "tier": "2",
+ "lang": "es",
+ "match": {
+  "date": "2026-06-13",
+  "home": "BRA",
+  "away": "MAR",
+  "home_en": "Brazil",
+  "away_en": "Morocco",
+  "home_zh": "巴西",
+  "away_zh": "摩洛哥",
+  "comp": "小组赛·C组",
+  "match_id": "M7",
+  "slug": "2026-06-13_BRA_vs_MAR"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Brasil y Marruecos empataron (1-1) este sábado en el debut para ambas selecciones en el Mundial 2026, un señalado choque entre las favoritas del Grupo C, y candidatas a volver al MetLife Stadium de Nueva Jersey para jugar la final el día 19 de julio. En el estadio que acogerá esa gran final de la Copa del Mundo que se está disputando en Estados Unidos México y Canadá, la pentacampeona y la semifinalista hace cuatro años y campeona de África aunque pendiente de los despachos se repartieron un atractivo encuentro con los golazos de Ismael Saibari y un Vinícius clave para levantar a los suyos, en la primera parte. El gran partido de la primera ronda del Mundial 2026 comenzó con Brasil sufriendo de lo lindo ante una Marruecos valiente, con confianza y fútbol como para encerrar a una Brasil con la presión de conquistar su sexta estrella 24 años después. Los 'Leones del Atlas', con cuatro defensas y seis centrocampistas en su once, hicieron correr detrás del balón a su prestigioso rival. Roger Ibañez, novedad en el lateral derecho, se vio muy superado y El Aynaoui tuvo la primera gran ocasión para los africanos a los seis minutos. Con personalidad, pese a su juventud y la nueva camada tras ser cuartos en Catar 2024, Marruecos aumentó los nervios del debut en una Brasil que salió de la cueva gracias a Vinícius. Sin embargo, metido atrás, el equipo magrebí era otro hueso. Tras 20 minutos de mal trago, el equipo de Carlo Ancelotti parecía encontrar su sitio sobre el césped de Nueva Jersey cuando un desajuste atrás y un gran pase de Brahim Díaz supuso el 1-0 de Saibari. El gol de Marruecos hizo temblar de nuevo a una Brasil que regaló balones encerrada atrás. Contra las cuerdas, la 'Canarinha' resucitó gracias a Vinícius y su misil para el 1-1. El delantero del Real Madrid, que se encargó además de arengar a la grada, recortó y mandó el balón a la red con tremenda violencia. Brasil, aún falto de más conexiones en el centro del campo, para lo que fue convocado el lesionado Neymar, ganó al menos confianza, como demostró Lucas Paquetá con un sombrero y un remate acrobático que sacó Bono, más reconocible el fútbol de la Verdeamarela. Con el segundo tiempo vino la bajada de revoluciones del equipo marroquí, mientras que a Brasil le interesaba meter rapidez al juego, con 'Vini' aprovechando las subidas de Achraf Hakimi. Los de Ancelotti, conscientes de las dificultades para encontrar huecos ante la formación atrás de su rival, buscaron la chispa en cualquier acción, como un saque de banda para el remate de Igor Thiago. El técnico italiano siguió moviendo banquillo en busca de más llegada. Luiz Henrique y Cunha redoblaron la apuesta sudamericana, lo que dio más libertad a un Raphinha algo desaparecido hasta ese momento. Mohamed Ouahbi también miró a su banquillo, aunque sobre el césped fue el joven Ayyoub Bouaddi, de 18 años, quien lideró. La presencia de Raphinha por dentro le permitió asomarse en varias ocasiones al remate como '9', llegando a una recta final en la que ni uno ni otro quiso perder el señalado debut. La tensión no bajó pero el control fue mayor, aunque Bono y Alisson Becker, con la última para El Aynaoui, tuvieron su protagonismo final. El Grupo C, con Haití y Escocia como aspirantes, quedó abierto a todo. FICHA TÉCNICA. --RESULTADO: BRASIL, 1 - MARRUECOS, 1. (1-1, al descanso). --ALINEACIONES: BRASIL: Alisson; Ibañez (Danilo, descanso), Marquinhos, Gabriel, Douglas Santos; Casemiro (Fabinho, descanso), Guimaraes (Santos, min.80); Raphinha, Paquetá (Cunha, min.61), Vinícius, Thiago (Luiz Henrique, min.62). MARRUECOS: Bono; Achraf, Riad, Diop, Mazraoui (Salah-Eddine, min.80); Bouaddi, El Aynaoui, Ounahi (El Mourabet, min.65); Brahim (Talbi, min.65), Saibari (Rahimi, min.89) y El Khannouss (Amaimouni, min.80). --GOLES: 0 - 1, min.21, Saibari. 1 - 1, min.32, Vinícius. --ÁRBITRO: Slavko Vincic (ESL). Amonestó a Casemiro (min.37) y Roger (min.43) por parte de Brasil. --ESTADIO: Estadio Nueva York Nueva Jersey.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

@@ -1,0 +1,24 @@
+{
+ "source": "FIFA (官方)",
+ "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/haiti-scotland-highlights-match-report",
+ "title": "Haiti 0-1 Scotland | Match report and highlights",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-13",
+  "home": "HAI",
+  "away": "SCO",
+  "home_en": "Haiti",
+  "away_en": "Scotland",
+  "home_zh": "海地",
+  "away_zh": "苏格兰",
+  "comp": "小组赛·C组",
+  "match_id": "M5",
+  "slug": "2026-06-13_HAI_vs_SCO"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "The Aston Villa man proved the difference as Scotland secured a first global finals win since 1990.\nScotland goal: McGinn (29)\nIn a game of few clearcut chances, its was a first-half goal from John McGinn that lifted Scotland past Haiti in the second Group C match at the FIFA World Cup 2026™.\nThe opening minutes of the match in Boston were back and forth, with both sides looking to find their footing in front of a raucous crowd. Scott McTominay headed over the bar seven minutes into the game and hit the post soon after as Steve Clarke's men began to turn the screw.\nA spirited Haiti continued to put pressure on the Scots, but in the 29th minute McGinn started the party for the Tartan Army. Forward Che Adams deftly brought down a long ball and laid it off to Ben Gannon-Doak who swung it towards the near post, and while Haiti cut that out, McGinn was waiting on the edge of the box to fire home the rebound with the aid of a deflection.\nAfter the hydration break Haiti found a bit more space creating several half-chances. Ruben Providence came closest for the Concacaf nation, cutting in from the wing and whipping a low shot which Angus Gunn couldn't hold on to leading to a frenetic penalty-box scramble.\nThe second half was equally energetic but produced few meaningful opportunities. McGinn could have added a second to his tally after finding himself in space in the Haitian penalty area, but the Aston Villa man fired wide under pressure from Ricardo Ade.\nMoments later Providence almost created a goal from nothing for Haiti. The winger sent a low cross through the penalty area but Wilson Isidor was unable to connect at the far post.\nHaiti had one more chance to level the score late in the game. Frantdzy Pierrot rose above the Scottish defenders to attack a cross whipped in from the right wing. Pierrot, who had been a handful for the Scots all game, made excellent contact but the ball went just wide of the far post.\nKey statKey stat\nThis is Scotland's first victory in a World Cup opener since their 5-2 win over New Zealand at the 1982 FIFA World Cup Spain™.\nMichelob Ultra Superior Player of the MatchMichelob Ultra Superior Player of the Match\nJohn McGinn (Scotland)",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

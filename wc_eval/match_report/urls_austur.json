@@ -1,0 +1,11 @@
+[
+ {"name": "skysports", "source": "Sky Sports", "url": "https://www.skysports.com/football/australia-vs-turkey/549773", "tier": "2", "lang": "en"},
+ {"name": "theanalyst", "source": "Opta Analyst", "url": "https://theanalyst.com/articles/australia-vs-turkiye-stats-world-cup-2026", "tier": "2", "lang": "en"},
+ {"name": "outlookindia", "source": "Outlook India", "url": "https://www.outlookindia.com/sports/football/australia-vs-turkiye-live-score-fifa-world-cup-2026-group-d-aus-vs-tur-updates-bc-place-highlights", "tier": "3", "lang": "en"},
+ {"name": "vavel", "source": "VAVEL USA", "url": "https://www.vavel.com/en-us/soccer/2026/06/14/1263370-australia-vs-turkey-live-score-2026-world-cup.html", "tier": "3", "lang": "en"},
+ {"name": "sbs", "source": "SBS News (澳)", "url": "https://www.sbs.com.au/news/live-blog/australia-vs-turkiye-world-cup-live-score-updates/e7r7yd3iz", "tier": "2", "lang": "en"},
+ {"name": "fifa", "source": "FIFA (官方)", "url": "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021463", "tier": "1", "lang": "en"},
+ {"name": "clarosports", "source": "Claro Sports", "url": "https://www.clarosports.com/futbol/mundial-2026/australia-vs-turquia-en-vivo-el-partido-de-la-jornada-1-del-grupo-d-goles-y-resultados-mundial-2026/", "tier": "3", "lang": "es"},
+ {"name": "futbolcentroamerica", "source": "Futbol Centroamérica", "url": "https://futbolcentroamerica.com/mundial/australia-vs-turquia-minuto-a-minuto-del-partido-por-el-grupo-d-en-el-mundial-2026", "tier": "3", "lang": "es"},
+ {"name": "infobae", "source": "Infobae", "url": "https://www.infobae.com/mexico/deportes/2026/06/13/australia-vs-turquia-en-vivo-en-el-mundial-2026-sigue-en-tiempo-real-el-duelo-desde-vancouver/", "tier": "2", "lang": "es"}
+]

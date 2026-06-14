@@ -1,0 +1,24 @@
+{
+ "date": "2026-06-13",
+ "comp": "世界杯·D组",
+ "ha_home": "中",
+ "home": "AUS",
+ "away": "TUR",
+ "score": "2-0",
+ "goals": [
+  {
+   "min": 27,
+   "side": "home",
+   "player": "Nestory Irankunda"
+  },
+  {
+   "min": 75,
+   "side": "home",
+   "player": "Connor Metcalfe"
+  }
+ ],
+ "injuries": [],
+ "suspensions": [],
+ "narrative": "温哥华BC Place。澳大利亚爆冷2-0土耳其:27'Irankunda破门、75'Metcalfe锁胜;22岁门将Patrick Beach神勇,土耳其控球占优、狂轰30脚射门却被纪律性防守化解。Yıldız被轮休。D组:澳大利亚3分领跑。",
+ "prediction_note": "澳大利亚爆冷取胜、门将+Irankunda亮眼、防守纪律强;土耳其雷声大雨点小、需调整终结。下轮 TUR vs ?、AUS vs ?。"
+}

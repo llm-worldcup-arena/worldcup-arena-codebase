@@ -1,0 +1,24 @@
+{
+ "source": "Outlook India",
+ "url": "https://www.outlookindia.com/sports/football/haiti-vs-scotland-fifa-world-cup-2026-group-c-hai-v-sco-boston-stadium-in-pics",
+ "title": "Haiti Vs Scotland, FIFA World Cup 2026: McGinn Breaks Grenadiers' Hearts As Scots Clinch Historic Return - In Pics | Outlook India",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-13",
+  "home": "HAI",
+  "away": "SCO",
+  "home_en": "Haiti",
+  "away_en": "Scotland",
+  "home_zh": "海地",
+  "away_zh": "苏格兰",
+  "comp": "小组赛·C组",
+  "match_id": "M5",
+  "slug": "2026-06-13_HAI_vs_SCO"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Stay updated with the latest football news , live scores, match schedules, and exclusive coverage from all the football tournaments. Get real-time updates on cricket , IPL 2026 news , tennis , badminton , and major sporting events worldwide, only on Outlook India.\n\nVideo | Liberation Or Violation? The Legal & Moral Questions Behind The US-Israel Strike On Iran",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

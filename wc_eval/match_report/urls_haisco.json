@@ -1,0 +1,12 @@
+[
+ {"name": "fifa", "source": "FIFA (官方)", "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/haiti-scotland-highlights-match-report", "tier": "1", "lang": "en"},
+ {"name": "skysports", "source": "Sky Sports", "url": "https://www.skysports.com/football/haiti-vs-scotland/report/549772", "tier": "2", "lang": "en"},
+ {"name": "espn_recap", "source": "ESPN", "url": "https://www.espn.com/soccer/story/_/id/49055260/haiti-scotland-world-cup-2026-result-score-recap-john-mcginn-ben-gannon-doak-group-c", "tier": "2", "lang": "en"},
+ {"name": "theanalyst", "source": "Opta Analyst", "url": "https://theanalyst.com/articles/haiti-vs-scotland-stats-world-cup-2026", "tier": "2", "lang": "en"},
+ {"name": "101greatgoals", "source": "101 Great Goals", "url": "https://www.101greatgoals.com/football/world-cup-news/scotland-haiti-world-cup-2026-report-result-goals-mcginn/", "tier": "3", "lang": "en"},
+ {"name": "outlookindia", "source": "Outlook India", "url": "https://www.outlookindia.com/sports/football/haiti-vs-scotland-fifa-world-cup-2026-group-c-hai-v-sco-boston-stadium-in-pics", "tier": "3", "lang": "en"},
+ {"name": "trome", "source": "Trome", "url": "https://trome.com/deportes/futbol-internacional/mundial-2026-escocia-vencio-a-haiti-1-0-con-gol-de-john-mcginn-video-resumen-noticia/", "tier": "3", "lang": "es"},
+ {"name": "rpp", "source": "RPP", "url": "https://rpp.pe/futbol/mundial-2026/escocia-vs-haiti-mcginn-anota-el-gol-en-el-mundial-2026-noticia-1692955", "tier": "3", "lang": "es"},
+ {"name": "elcomercio", "source": "El Comercio (Perú)", "url": "https://elcomercio.pe/deporte-total/futbol-mundial/goles-de-escocia-vs-haiti-por-el-mundial-2026-video-noticia/", "tier": "3", "lang": "es"},
+ {"name": "netease", "source": "网易(163)", "url": "https://www.163.com/dy/article/KVCMN5V205299JMD.html", "tier": "3", "lang": "zh"}
+]

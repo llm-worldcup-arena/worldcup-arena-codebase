@@ -1,0 +1,24 @@
+{
+ "source": "Sky Sports",
+ "url": "https://www.skysports.com/football/qatar-vs-switzerland/report/549770",
+ "title": "World Cup 2026: Qatar 1-1 Switzerland - Breel Embolo penalty cancelled out by late Boualem Khoukhi leveller",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-13",
+  "home": "QAT",
+  "away": "SUI",
+  "home_en": "Qatar",
+  "away_en": "Switzerland",
+  "home_zh": "卡塔尔",
+  "away_zh": "瑞士",
+  "comp": "小组赛·B组",
+  "match_id": "M8",
+  "slug": "2026-06-13_QAT_vs_SUI"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Qatar won their first ever point at a World Cup finals as a dramatic injury-time equaliser earned a draw against a lacklustre Switzerland in the second game of Group B on Saturday. Canada had drawn with Bosnia-Herzegovina in the group's opener on Friday night, giving favourites Switzerland the chance to take an early lead at the top of the four-team standings - an opportunity they forfeited quite spectacularly. After Breel Embolo's first-half penalty had them on course for victory, they contrived to throw away their lead with virtually the last act of the game, punished for a casual performance lacking in cutting edge. Late in stoppage time, Homam Ahmed hung up a hopeful ball to the back post, where Boualem Khoukhi arrived with perfect timing to power a superb header home and draw Qatar deservedly level.   Switzerland, tipped to be dark horses at this tournament, amassed 26 shots, with an xG value of 3.24, but had only one goal to show for their casual efforts - scored from the spot. Spurning so many openings always made them liable to giving up a chance late on, and as it turned out, Qatar only needed one to impact the scoreline. Gary Neville called Switzerland a level below 'class' on ITV coverage. It leaves every side in Group B level on one point after the first round of games, wide open for any nation to try to secure qualification to the knockout phase. The key moments from San Francisco... 3: Huge chance fell for Edmilson to give Qatar the lead, sent through 1v1 with Gregor Kobel after a Manuel Akanji mistake. 10: Dan Ndoye ballooned chance over the crossbar from a teasing Ricardo Rodriguez cut back. 14: PENALTY! Spot-kick awarded to Switzerland after Michael Aebischer, who, to the eye, looked offside in the build up, was fouled by goalkeeper Mahmud Abunada. 17: GOAL! Embolo rolled calm penalty past Abunada. 35: Ndoye squandered another opening after being teed up by Embolo. The chance count continued to mount. 43: Edmilson drew a smart stop from Kobel with low snapshot. 45: Ndoye made it a hat-trick of misses as Abunada denied him again. 67: Granit Xhaka struck wide of the mark from a presentable position just outside the box. 85: Embolo wriggled free inside the area but allowed the ball to roll away before making proper contact on the strike. 90+4: GOAL! Switzerland were made to pay for a tepid second half as Khoukhi levelled with an expert header. Why did penalty coverage frustrate pundits? Switzerland were awarded a spot-kick in the 14th minute, for a clear foul by Qatar's goalkeeper on Michel Aebischer. To the eye, the midfielder appeared offside in the build up. However, the automated technology ruled Aebischer on. FIFA chose not to show the visual graphic on-screen to clarify the call was the correct one, something Ian Wright called 'scandalous' on ITV 's live coverage. Neville said the lack of transparency was 'ridiculous'. The Sky Sports pundit added: \"It's like a dictatorship in the idea that they hold this evidence and don't show it for fans. Prove to us it's offside. Where's the transparency?\"",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

@@ -1,0 +1,16 @@
+{
+ "team": "NOR",
+ "source": "CBS Sports",
+ "url": "https://www.cbssports.com/soccer/news/erling-haaland-injury-manchester-city-star-withdraws-from-norway-squad-due-to-groin-issue",
+ "title": "Erling Haaland injury: Manchester City star withdraws from Norway squad due to groin issue - CBS Sports",
+ "news_date": "2026-06-14",
+ "published": null,
+ "tier": "T2",
+ "lang": "en",
+ "asof": "2026-06-14",
+ "fetched": "2026-06-14_1420",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Erling Haaland injury: Manchester City star withdraws from Norway squad due to groin issue\nScandinavian talisman will be out for Spain and Georgia Euro 2024 qualifiers\nBy\nMar 21, 2023 at 10:00 am ET • 1 min read\nGetty Images\nErling Haaland has withdrawn from Norway's squad for their UEFA 2024 European Championship Group A qualifiers with a groin problem.\nThe Manchester City man took a knock in the 6-0 thumping of Burnley in the FA Cup quarterfinals over the weekend.\nHaaland, 22, will miss the start of Norway's Euro qualification campaign against both Spain and Georgia this international break.\n\"Erling took it hard when he realized that he would be unable to fight for the team,\" Norway boss Stale Solbakken said. \"Fortunately, we still have plenty of self-confidence, talent and unity in this squad to win points in our next games.\"\n\"After doing tests and examinations yesterday it became clear that he will not make it for the games against Spain and Georgia,\" explained Norway's team doctor Ola Sand. \"It is better that he receives follow-up medical care from his club.\"\nHaaland has 21 goals from 23 national team appearances since his 2019 debut as a 19-year-old and after his Burnley heroics he now has 42 goals from 37 games across all competitions this season.\nFive of those goals came as part of a 7-0 thrashing of RB Leipzig in the UEFA Champions League earlier this month.\nCity are second in the Premier League table and eight points behind leaders Arsenal with a game in hand and Liverpool up next at Etihad Stadium.\nPep Guardiola's side have also been drawn against Bayern Munich in the Champions League quarterfinals with an FA Cup semifinal against Sheffield United to consider as well.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

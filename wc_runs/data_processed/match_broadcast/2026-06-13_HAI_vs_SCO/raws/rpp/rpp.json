@@ -1,0 +1,24 @@
+{
+ "source": "RPP",
+ "url": "https://rpp.pe/futbol/mundial-2026/escocia-vs-haiti-mcginn-anota-el-gol-en-el-mundial-2026-noticia-1692955",
+ "title": "McGinn marca el 1-0 parcial para Escocia ante Haití en el Mundial 2026",
+ "published": "2026-06-13T16:02:39-05:00",
+ "tier": "3",
+ "lang": "es",
+ "match": {
+  "date": "2026-06-13",
+  "home": "HAI",
+  "away": "SCO",
+  "home_en": "Haiti",
+  "away_en": "Scotland",
+  "home_zh": "海地",
+  "away_zh": "苏格兰",
+  "comp": "小组赛·C组",
+  "match_id": "M5",
+  "slug": "2026-06-13_HAI_vs_SCO"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Se rompió la igualdad en el estadio Boston tras el potente remate del volante John McGinn a los 28' del primer tiempo. Haití no logra reaccionar de los constantes ataques que el elenco europeo viene proponiendo en el partido de la fecha 1 del Mundial 2026.El volante de 31 años, que milita en el Aston Villa, encontró el balón en el área tras un ataque por banda derecha en el que Johny Placide desvió a tiempo el esférico.Sin pensarlo dos veces, McGinn 'durmió' la pelota, se perfiló para su zurda, y sacó un fuerte remate que terminó en las redes del arco haitiano.Con este gol, McGinn le da la ventaja parcial a la Escocia que dirige el DT Steve Clarke. Así, se convierte en el primer jugador de la Selección Escosesa en anotar en la Copa del Mundo 2026.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

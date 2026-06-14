@@ -1,0 +1,24 @@
+{
+ "date": "2026-06-13",
+ "comp": "世界杯·B组",
+ "ha_home": "中",
+ "home": "QAT",
+ "away": "SUI",
+ "score": "1-1",
+ "goals": [
+  {
+   "min": 17,
+   "side": "away",
+   "player": "Breel Embolo(点)"
+  },
+  {
+   "min": 90,
+   "side": "home",
+   "player": "Boualem Khoukhi"
+  }
+ ],
+ "injuries": [],
+ "suspensions": [],
+ "narrative": "圣克拉拉Levi's。瑞士17'恩博洛点球(Freuler被Abunada放倒)先进;卡塔尔补时4分钟Khoukhi头球绝平,拿到队史世界杯首个积分。瑞士控场未能扩大比分、防线收官走神。B组:瑞士/卡塔尔各1分。",
+ "prediction_note": "瑞士平局开局未达预期、需后两轮发力;卡塔尔首分提振士气。下轮 SUI vs BIH、QAT vs CAN。"
+}

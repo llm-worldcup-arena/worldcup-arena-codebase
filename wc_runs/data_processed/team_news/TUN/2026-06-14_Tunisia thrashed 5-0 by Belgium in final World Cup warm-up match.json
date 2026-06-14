@@ -1,0 +1,16 @@
+{
+ "team": "TUN",
+ "source": "Dailysports",
+ "url": "https://dailysports.net/news/tunisia-thrashed-5-0-by-belgium-in-final-world-cup-warm-up-match/",
+ "title": "Tunisia Thrashed 5-0 by Belgium in Final World Cup Warm-Up Match | Dailysports",
+ "news_date": "2026-06-14",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "asof": "2026-06-14",
+ "fetched": "2026-06-14_1420",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Tunisia Thrashed 5-0 by Belgium in Final World Cup Warm-Up Match\nTunisia Thrashed 5-0 by Belgium in Final World Cup Warm-Up Match\nTunisia endured a difficult evening as they suffered a heavy 5-0 defeat to Belgium in their final preparation match ahead of the 2026 FIFA World Cup.\nThe Red Devils were in complete control throughout the contest, with goals from Leandro Trossard, Charles De Ketelaere, Kevin De Bruyne, Dodi Lukebakio and Nicolas Raskin sealing an emphatic win.\nTunisia’s hopes of mounting a comeback suffered a major setback in the 62nd minute when Ismael Gharbi was sent off after receiving his second yellow card of the match. Belgium capitalised on the numerical advantage, adding three more goals in the final stages to put the result beyond doubt.\nThe result means Tunisia finishes their World Cup warm-up campaign with one victory, one draw, and two defeats, while also extending their losing streak to two matches heading into the tournament.\nBelgium, meanwhile, will carry significant momentum into the World Cup, where they are set to open their campaign against Egypt on June 15 in Seattle.\nTunisia will now shift focus to Group F, where they face a challenging set of fixtures against Netherlands, Japan and Sweden",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

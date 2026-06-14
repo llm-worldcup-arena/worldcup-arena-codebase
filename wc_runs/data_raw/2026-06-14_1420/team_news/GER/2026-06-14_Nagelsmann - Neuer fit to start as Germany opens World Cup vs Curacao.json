@@ -1,0 +1,16 @@
+{
+ "team": "GER",
+ "source": "AP",
+ "url": "https://lufkindailynews.com/anpa/sports/nagelsmann-goalkeeper-manuel-neuer-fit-to-start-as-germany-opens-the-world-cup-vs-cura/article_73a7a2d6-c436-5271-9f1b-804f06a397fc.html",
+ "title": null,
+ "news_date": "2026-06-14",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "asof": "2026-06-14",
+ "fetched": "2026-06-14_1420",
+ "method": "fail",
+ "status": "blocked",
+ "original_text": "",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

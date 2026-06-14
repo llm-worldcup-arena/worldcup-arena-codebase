@@ -1,0 +1,6 @@
+17' 中柱 McTominay(苏)
+28' 进球 McGinn(苏)
+30' 远射脱手 Providence(海)
+73' 单刀偏出 McGinn(苏)
+80' 换人 Curtis(苏)
+85' 头球偏出 Pierrot(海)

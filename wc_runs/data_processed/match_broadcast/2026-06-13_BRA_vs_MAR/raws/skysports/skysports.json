@@ -1,0 +1,24 @@
+{
+ "source": "Sky Sports",
+ "url": "https://www.skysports.com/football/brazil-vs-morocco/report/549771",
+ "title": "World Cup 2026: Brazil 1-1 Morocco - Vinicius Junior scores beauty but Carlo Ancelotti's side held in New York",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-13",
+  "home": "BRA",
+  "away": "MAR",
+  "home_en": "Brazil",
+  "away_en": "Morocco",
+  "home_zh": "巴西",
+  "away_zh": "摩洛哥",
+  "comp": "小组赛·C组",
+  "match_id": "M7",
+  "slug": "2026-06-13_BRA_vs_MAR"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Vinicius Junior scored a stunner as Brazil were held to a 1-1 draw with enterprising Morocco in their World Cup Group C opener. In the slightly more forgiving temperatures of New York, Morocco got off to a blistering start when Brahim Diaz picked up a loose ball in midfield to thread a perfect pass between two of the best centre-backs in world football - Gabriel and Marquinhos - towards Ismael Saibari. The midfielder collected, settled his nerve, and stood up Alisson before dinking the ball over him. It was a real show of composure and class from World Cup 2022's surprise package - still the most successful African nation in the history of the tournament. But Brazil's brilliance is rarely outshone; their squad so overcrowded with difference-makers. Vinicius Junior was the one to stand up to the pressure on this occasion, as the wondrous winger exchanged passes with Bruno Guimaraes and cut inside to shape a lovely strike into the top corner against the run of play.   Brazil, so often dubbed a team of individuals, needed one of their most talented to dig them out of a hole against a side who appeared more complete overall. Morocco were full of beans in the first period and then showed their steel by digging in the second. They have every chance of going far if such balance can be maintained. Brazil and Morocco are the only top-10 teams to meet in the first round of the expanded 48-nation tournament, and, on the evidence here, there will not be much to separate them when all is said and done. Scotland, meanwhile, then took advantage of the points dropped by edging Haiti 1-0 in the second Group C game. The key moments from New York... 21: GOAL! Brahim Diaz picked up a loose ball in midfield and found Saibiri on the move, who lobbed Alisson. 26: Achraf Hakimi hammered a low shot wide as Morocco pressurised. 32: GOAL! Vinicius Jr cut inside and bent a wonderful equaliser in the top corner against run of play. 45+2: Lucas Paqueta tested Yassine Bounou with an acrobatic low effort. 53: Thiago tried his luck from range but saw his fierce strike beaten away by Bounou. 84: Bounou got Issa Diop out of a sticky situation by racing off his line to clear away from Raphinha. 90+8: Double save needed from Alisson late on after Neil El Aynaoui's effort from range and Ayoube Amaimouni's follow-up.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

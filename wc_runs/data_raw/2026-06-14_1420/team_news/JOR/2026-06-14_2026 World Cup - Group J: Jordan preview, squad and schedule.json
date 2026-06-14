@@ -1,0 +1,16 @@
+{
+ "team": "JOR",
+ "source": "Foot Africa",
+ "url": "https://foot-africa.com/en/news/2026-world-cup-group-j-jordan-preview-squad-and-schedule-1229131/",
+ "title": "2026 World Cup - Group J: Jordan preview, squad and schedule",
+ "news_date": "2026-06-14",
+ "published": null,
+ "tier": "T3",
+ "lang": "en",
+ "asof": "2026-06-14",
+ "fetched": "2026-06-14_1420",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "Jordan will compete in the World Cup for the very first time in its history. Driven by a talented generation, headlined by Rennes winger Musa Al-Taamari, the Asian side hopes to make a strong impression in the United States, Mexico, and Canada.\n\nLong considered a developing side in the AFC region, Jordan has often come close to qualification, most notably in the 2014 qualifiers, where they reached the intercontinental playoffs before falling to Uruguay.\n\nJordan first topped their second-round qualifying group (13 pts), finishing ahead of Saudi Arabia (13 pts), Tajikistan (8 pts), and Pakistan (0 pts).\n\nIn the third round, they clinched direct qualification by finishing 2nd in Group B (16 pts), just behind South Korea (22 pts), but ahead of Iraq (15 pts), Oman (11 pts), Palestine (10 pts), and Kuwait (5 pts).\n\nSpanning Canada, Mexico and the United States, these venues will play a vital role for the participating nations as they prepare for the biggest FIFA World Cup™ ever.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

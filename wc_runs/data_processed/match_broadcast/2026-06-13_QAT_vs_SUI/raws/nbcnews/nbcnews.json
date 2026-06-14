@@ -1,0 +1,24 @@
+{
+ "source": "NBC News",
+ "url": "https://www.nbcnews.com/sports/soccer/boualem-khoukhis-header-qatar-first-world-cup-point-switzerland-rcna349962",
+ "title": "Boualem Khoukhi’s stoppage time header earns Qatar its first ever World Cup point in 1-1 draw with Switzerland",
+ "published": "2026-06-13T22:19:43.817Z",
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-13",
+  "home": "QAT",
+  "away": "SUI",
+  "home_en": "Qatar",
+  "away_en": "Switzerland",
+  "home_zh": "卡塔尔",
+  "away_zh": "瑞士",
+  "comp": "小组赛·B组",
+  "match_id": "M8",
+  "slug": "2026-06-13_QAT_vs_SUI"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "SANTA CLARA, Calif. — Boualem Khoukhi scored an equalizing goal on a header in the fourth minute of stoppage time, and Qatar spoiled a dominant day by Switzerland in a 1-1 draw Saturday in Group B of the World Cup. Several of the Qatari players fell to the ground in celebration of the late goal as others ran to each other to embrace. Breel Embolo scored for Switzerland from the penalty spot in the first half just over a week after being cleared to enter the U.S. following a visa delay, but the Swiss failed to capitalize on multiple other scoring chances. In the 13th minute, Embolo was fouled by Qatar goalkeeper Mahmoud Abunada, who received a yellow card on the play. Abunada lay face down and appeared motionless for a couple of minutes before he began to move his legs and was able to stand up again. When Embolo calmly sent his penalty into the upper left corner in the 17th minute, it sent the red-clad Swiss fans into a dancing frenzy in the stands of Levi’s Stadium. The 29-year-old forward applied for an urgent visa at the United States embassy in Bern on June 3, one day after he was denied boarding the team’s flight to travel for his third World Cup because of a 2018 criminal conviction that was only finalized in April. Switzerland dominated the possession game on an unseasonably warm June afternoon — with sprinklers running during a first-half break. There were thousands of empty seats scattered throughout Levi’s Stadium, home of the NFL’s San Francisco 49ers. Brazil and Colombia drew 70,971 two years ago in a group match at Copa America. The stadium in Santa Clara staged the Super Bowl only four months ago. Switzerland goalkeeper Gregor Kobel made a save in the second minute after Edmilson Junior got through the defense for a one-on-one. Kobel corralled the ball again in the 90th on a close-range attempt by Ahmed Alaaeldin. Switzerland is hoping to advance further than its round-of-16 showing four years ago before losing 6-1 to Portugal — when Goncalo Ramos delivered an improbable hat trick playing in place of benched star Cristiano Ronaldo. The loss prompted Switzerland midfielder Xherdan Shaqiri to apologize the fans. The Swiss used consistency and experience to go unbeaten through qualifying against Sweden, Kosovo and Slovenia. Coach Murat Yakin’s team produced four wins and two draws to secure its sixth straight World Cup appearance and hasn’t missed one since 2002, but the team has never gotten beyond the quarterfinals. Qatar, led by Spanish coach Julen Lopetegui, had to qualify through a playoff in November — beating the United Arab Emirates and Oman — after missing an opportunity from its group stage in Asian qualifying. The Gulf State country became the first host nation to lose all of its group matches four years ago. It lost to Senegal, Ecuador and the Netherlands in the 2022 tournament, scoring its lone goal in a 3-1 loss to Senegal.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

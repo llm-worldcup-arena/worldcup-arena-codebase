@@ -1,0 +1,16 @@
+{
+ "team": "KOR",
+ "source": "Olympics.com",
+ "url": "https://www.olympics.com/en/news/fifa-world-cup-2026-republic-of-korea-all-players-full-squad-list-key-stats-schedule",
+ "title": "Republic of Korea at FIFA World Cup 2026: All players, full squad list, key stats and schedule",
+ "news_date": "2026-06-14",
+ "published": null,
+ "tier": "T2",
+ "lang": "en",
+ "asof": "2026-06-14",
+ "fetched": "2026-06-14_1420",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Republic of Korea at FIFA World Cup 2026: All players, full squad list, key stats and schedule\nQuick facts\nCaptain: Son Heungmin\nManager: Hong Myung-Bo\nWorld Cup appearances (including 2026): 12\nBest World Cup result: Fourth place (2002)\nGoalkeepers: Jo Hyeonwoo (Ulsan), Kim Seunggyu (FC Tokyo), Song Bumkeun (Jeonbuk)\nDefenders: Kim Minjae (Bayern Munich), Lee Hanbeom (Midtjylland), Kim Taehyeon (Kashima Antlers), Park Jinseob (Zhejiang), Lee Kihyuk (Gangwon), Lee Taeseok (Austria Wien), Seol Youngwoo (Red Star), Jens Castrop (Borussia Mönchengladbach), Kim Moonhwan (Daejeon), Cho Wije (Jeonbuk)*\nMidfielders: Yang Hyunjun (Celtic), Paik Seungho (Birmingham City), Hwang Inbeom (Feyenoord), Kim Jinkyu (Jeonbuk), Bae Junho (Stoke City), Eom Jisung (Swansea City), Hwang Heechan (Wolverhampton Wanderers), Lee Donggyeong (Ulsan), Lee Jaesung (Mainz), Lee Kangin (Paris Saint-Germain)\nForwards: Oh Hyeongyu (Besiktas), Son Heungmin (LA FC), Cho Guesung (Midtjylland)\n*Cho Wije was called up on 2 June as an injury replacement for Cho Yumin.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

@@ -1,0 +1,16 @@
+{
+ "team": "ALG",
+ "source": "Algerian Radio",
+ "url": "https://news.radioalgerie.dz/en/node/88069",
+ "title": "World Cup 2026 (Preparations): Algeria Defeats Bolivia 4-0 in Friendly Match | Algerian Radio",
+ "news_date": "2026-06-14",
+ "published": null,
+ "tier": "T3",
+ "lang": "en",
+ "asof": "2026-06-14",
+ "fetched": "2026-06-14_1420",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "The Algerian national football team defeated Bolivia 4-0 (half-time: 1-0) in a friendly match held at the \"CPKC Stadium\" in Kansas City, as part of its preparations for the 2026 World Cup finals, scheduled from June 11 to July 19 in the United States, Canada, and Mexico.\n\nThe goals were scored by defender Aïssa Mandi (45'), Amine Gouiri with a brace (56' and 58'), and Anis Hadj Moussa (61').\n\nDefender Ramy Bensebaïni was forced to sit out the match as he has not yet fully recovered from a foot injury, though this is not expected to affect his participation in the upcoming World Cup.\n\nThe Algerian team will kick off its tournament campaign on June 17 with a high-stakes encounter against defending world champions Argentine at the \"Arrowhead Stadium\" in Kansas City, starting at 2:00 AM Algiers time. Algeria competes in Group J, which also includes Autriche (Austria) and Jordanie (Jordan).\n\nReturning to the world stage after a twelve-year absence, the national team seeks to write a new chapter in its footballing history and confirm the ambitions shown since the start of preparations, relying on a cohesive squad determined to rise to the challenge against the world’s strongest teams.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

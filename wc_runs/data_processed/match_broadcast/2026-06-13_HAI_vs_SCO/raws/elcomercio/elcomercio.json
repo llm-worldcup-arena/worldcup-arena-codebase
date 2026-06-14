@@ -1,0 +1,24 @@
+{
+ "source": "El Comercio (Perú)",
+ "url": "https://elcomercio.pe/deporte-total/futbol-mundial/goles-de-escocia-vs-haiti-por-el-mundial-2026-video-noticia/",
+ "title": "John McGinn marcó el 1-0 de Escocia vs. Haití por el Mundial 2026 | VIDEO",
+ "published": "2026-06-13T21:42:41-05:00",
+ "tier": "3",
+ "lang": "es",
+ "match": {
+  "date": "2026-06-13",
+  "home": "HAI",
+  "away": "SCO",
+  "home_en": "Haiti",
+  "away_en": "Scotland",
+  "home_zh": "海地",
+  "away_zh": "苏格兰",
+  "comp": "小组赛·C组",
+  "match_id": "M5",
+  "slug": "2026-06-13_HAI_vs_SCO"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "John McGinn hizo historia con la selección de Escocia al marcar el primer gol de su país en una Copa del Mundo desde Francia 1998. El mediocampista apareció en un momento clave para romper una larga sequía goleadora del combinado escocés en el torneo más importante del fútbol, devolviendo la ilusión a sus aficionados en este Mundial 2026. El tanto llegó tras una jugada bien elaborada en ataque, donde Escocia logró imponer su intensidad y aprovechar los espacios en la defensa rival. McGinn, con gran lectura de juego, se posicionó dentro del área y definió con precisión para desatar la euforia tanto en el campo como en las tribunas, consciente del peso histórico de su anotación. Este gol no solo significó una ventaja momentánea en el partido, sino también un hito para el fútbol escocés, que no celebraba en un Mundial desde hace casi tres décadas. La anotación de McGinn quedará registrada como un momento clave en el regreso competitivo de Escocia a la escena mundialista.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

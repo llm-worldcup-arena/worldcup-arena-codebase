@@ -1,0 +1,24 @@
+{
+ "source": "SBS News (澳)",
+ "url": "https://www.sbs.com.au/news/live-blog/australia-vs-turkiye-world-cup-live-score-updates/e7r7yd3iz",
+ "title": "Follow live: Irankunda, Metcalfe steer Australia to a historic 2-0 win against Türkiye",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-13",
+  "home": "AUS",
+  "away": "TUR",
+  "home_en": "Australia",
+  "away_en": "Türkiye",
+  "home_zh": "澳大利亚",
+  "away_zh": "土耳其",
+  "comp": "小组赛·D组",
+  "match_id": "M6",
+  "slug": "2026-06-13_AUS_vs_TUR"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "The half-time whistle is blown and Australia lead 1-0. <br><br>Here's the reaction at Melbourne's Federation Sqaure after Irankunda's 27th minute goal. <br><bsp-rte data-rte-internal-type=\"com.psddev.cms.rte.ExternalContentRichTextElement\" data-ref-id=\"1\" data-type=\"x\"></bsp-rte>And enjoy the goal from Irankunda again, who has become the Socceroos youngest ever World Cup goal scorer at just 20 years of age. <br><bsp-rte data-rte-internal-type=\"com.psddev.cms.rte.ExternalContentRichTextElement\" data-ref-id=\"2\" data-type=\"youtube\"></bsp-rte>It was a great half for Australia, with Popovic's calls to start Irankunda and Beach having paid off so far, the latter making a critical save. <br><br>Türkiye leads possession but has been unable to unpick Australia's defence.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

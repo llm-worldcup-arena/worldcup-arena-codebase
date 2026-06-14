@@ -1,0 +1,16 @@
+{
+ "team": "IRQ",
+ "source": "Olympics.com",
+ "url": "https://www.olympics.com/en/news/fifa-world-cup-2026-iraq-players-squad-list-key-stats-schedule",
+ "title": "Iraq at FIFA World Cup 2026: All players, full squad list, key stats and schedule",
+ "news_date": "2026-06-14",
+ "published": null,
+ "tier": "T2",
+ "lang": "en",
+ "asof": "2026-06-14",
+ "fetched": "2026-06-14_1420",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Iraq at FIFA World Cup 2026: All players, full squad list, key stats and schedule\nQuick facts\nCaptain: Jalal Hassan\nManager: Graham Arnold\nWorld Cup appearances (including 2026): 2\nBest World Cup result: Group stage (1986)\nGoalkeepers: Fahad Talib (Al Talaba), Jalal Hassan (Al-Zawraa), Ahmed Basil (Al-Shorta)\nDefenders: Hussein Ali (Pogoń Szczecin), Manaf Younis (Al-Shorta), Zaid Tahseen (Pakhtakor), ​Rebin Sulaka (Port), Akam Hashem (Al-Zawraa), Merchas Doski (Viktoria Plzeň), Ahmed Yahya (Al-Shorta), ​Zaid ⁠Ismail (Al-Talaba), Frans Putros (Persib Bandung), Mustafa Saadoon (Al-Shorta)\nMidfielders: Amir Al-Ammari (Cracovia), Kevin Yakob (AGF), Zidane Iqbal (Utrecht), Aimar Sher (Sarpsborg), Ibrahim Bayesh (Al-Dhafra), Ahmed Qasem (Nashville SC), Youssef Amyn (AEK Larnaca), Marko ⁠Farji (Venezia)\nForwards: Ali Jassim (Como), Ali Al-Hamadi (Ipswich Town), Ali Youssef (Apollon Limassol), ​Aymen Hussein (Al-Karma), Mohanad Ali (Dibba)",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

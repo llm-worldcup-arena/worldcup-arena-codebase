@@ -1,0 +1,16 @@
+{
+ "team": "TUR",
+ "source": "RotoWire",
+ "url": "https://www.rotowire.com/soccer/headlines/kenan-yildiz-injury-completes-full-training-session-519254",
+ "title": "Kenan Yildiz Injury: Completes full training session | RotoWire",
+ "news_date": "2026-06-14",
+ "published": null,
+ "tier": "T3",
+ "lang": "en",
+ "asof": "2026-06-14",
+ "fetched": "2026-06-14_1420",
+ "method": "jsonld:articleBody",
+ "status": "ok",
+ "original_text": "Yildiz is the biggest question mark in Turkey's starting lineup ahead of their World Cup opener against Australia. The forward had been training separately for the past few days following a calf injury with Juventus and only rejoined the group in team training today. With the game just around the corner, coach Vincenzo Montella faces a difficult call on whether to throw him straight into the starting eleven or ease him in from the bench.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

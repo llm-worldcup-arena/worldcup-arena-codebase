@@ -1,0 +1,16 @@
+{
+ "team": "BIH",
+ "source": "Olympics.com",
+ "url": "https://www.olympics.com/en/news/fifa-world-cup-2026-bosnia-herzegovina-players-squad-list-key-stats-schedule",
+ "title": "Bosnia and Herzegovina at FIFA World Cup 2026: All players, full squad list, key stats and schedule",
+ "news_date": "2026-06-14",
+ "published": null,
+ "tier": "T2",
+ "lang": "en",
+ "asof": "2026-06-14",
+ "fetched": "2026-06-14_1420",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Bosnia and Herzegovina at FIFA World Cup 2026: All players, full squad list, key stats and schedule\nQuick facts\nCaptain: Edin Džeko\nManager: Sergej Barbarez\nWorld Cup appearances (including 2026): 2\nBest World Cup result: Group stage (2014)\nFIFA World Cup 2026 – Bosnia and Herzegovina’s full squad\nGoalkeepers: Nikola Vasilj (FC St. Pauli), Martin Zlomislić (HNK Rijeka), Osman Hadžikić (Slaven Belupo)\nDefenders: Sead Kolašinac (Atalanta BC), Amar Dedić (SL Benfica), Nihad Mujakić (Gaziantep FK), Nikola Katić (Schalke 04), Tarik Muharemović (US Sassuolo), Stjepan Radeljić (HNK Rijeka), Dennis Hadžikadunić (UC Sampdoria), Nidal Čelik (Lens)\nMidfielders: Amir Hadžiahmetović (Hull City), Ivan Šunjić (Pafos FC), Ivan Bašić (FC Astana), Dženis Burnić (Karlsruher SC), Ermin Mahmić (FC Slovan Liberec), Benjamin Tahirović (Bröndby IF), Amar Memić (FC Viktoria Plzen), Armin Gigović (BSC Young Boys)\nForwards: Kerim Alajbegović (RB Salzburg), Esmir Bajraktarević (PSV Eindhoven), Ermedin Demirović (VfB Stuttgart), Jovo Lukić (FC Universitatea Cluj), Samed Baždar (Jagiellonia Bialystok), Haris Tabaković (Borussia Mönchengladbach), Edin Džeko (Schalke 04)",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

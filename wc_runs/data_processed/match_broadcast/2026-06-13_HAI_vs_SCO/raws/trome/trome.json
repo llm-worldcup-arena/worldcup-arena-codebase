@@ -1,0 +1,24 @@
+{
+ "source": "Trome",
+ "url": "https://trome.com/deportes/futbol-internacional/mundial-2026-escocia-vencio-a-haiti-1-0-con-gol-de-john-mcginn-video-resumen-noticia/",
+ "title": "Mundial 2026: Escocia venció a Haití 1-0 con GOL de John McGinn | VIDEO",
+ "published": "2026-06-14T03:14:03.242Z",
+ "tier": "3",
+ "lang": "es",
+ "match": {
+  "date": "2026-06-13",
+  "home": "HAI",
+  "away": "SCO",
+  "home_en": "Haiti",
+  "away_en": "Scotland",
+  "home_zh": "海地",
+  "away_zh": "苏格兰",
+  "comp": "小组赛·C组",
+  "match_id": "M5",
+  "slug": "2026-06-13_HAI_vs_SCO"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "La selección de Escocia tuvo un debut triunfal en el Mundial 2026, al vencer 1-0 a Haití, en un emocionante encuentro válido por la fecha 1 del Grupo C, realizado en el Estadio de Boston. El gol del cuadro escoces llegó por intermedio del mediocampista del Aston Villa de la Premier League, John McGinn a los 28’, al aprovechar un rechazo en coto en el corazón del área. El disparo del escocés terminó impactando en Bellegarde y se desvió, venciendo la resistencia del golero Placide. Fue el primer tanto de Escocia. En la segunda etapa McGinn pudo anotar el segundo a los 72′, pero su remate se fue desviado. Con el gol en contra, el conjunto caribeño buscó por todos los medios en empate; pero se encontró con una muralla en el arquero escocés Angus Gunn. De esta manera Escocia se colocó en la primera ubicación del Grupo C por encima de Brasil y Marruecos que empataron 1-1 minutos antes. MÁS INFORMACIÓN: Ilia Topuria y Justin Gaethje quedaron listos para su pelea en el UFC Casa Blanca Sporting Cristal empató 1-1 contra Comerciantes FC en el regreso al banco celeste de Roberto Mosquera ¡Vini al rescate! Brasil reaccionó con un golazo de Vinícius Jr.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

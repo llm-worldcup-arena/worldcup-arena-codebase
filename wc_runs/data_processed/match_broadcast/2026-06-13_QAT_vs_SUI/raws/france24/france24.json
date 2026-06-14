@@ -1,0 +1,24 @@
+{
+ "source": "France 24 (AFP)",
+ "url": "https://www.france24.com/en/sport/20260613-world-cup-2026-qatar-stuns-switzerland-with-late-equaliser",
+ "title": "World Cup 2026: Qatar stuns Switzerland with late equaliser - France 24",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-13",
+  "home": "QAT",
+  "away": "SUI",
+  "home_en": "Qatar",
+  "away_en": "Switzerland",
+  "home_zh": "卡塔尔",
+  "away_zh": "瑞士",
+  "comp": "小组赛·B组",
+  "match_id": "M8",
+  "slug": "2026-06-13_QAT_vs_SUI"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Qatar's Boualem Khoukhi stunned Switzerland with a late equaliser as the sides played out a 1-1 draw in their opening match at the World Cup on Saturday.\nA Breel Embolo penalty had broken the deadlock for Switzerland early in the first half in the San Francisco Bay Area, before the wasteful favourites were made to pay as Qatar earned their first ever point at a World Cup.\nQatar, appearing in just their second finals after hosting the 2022 World Cup, looked rusty after the war in the Middle East caused the cancellation of two of their warm-up friendlies, meaning their meeting with Switzerland was just their third match since December last year.\nAnd for the majority of the match they were outclassed as Switzerland racked up 26 shots, before 35-year-old Khoukhi's header four minutes into injury time sparked wild celebrations on the Qatar bench.\nFor their boss Julen Lopetegui, it was also a landmark moment as he coached his first World Cup match.\nRead moreWorld Cup co-hosts US thrash Paraguay in dominant Group D opener\nThe 59-year-old had been set to guide his native Spain at the 2018 edition in Russia, but was sacked days before the start of the tournament after it was announced he had agreed to take over Real Madrid after the World Cup.\nThe Swiss are seeking to progress to the knockout stages for the fourth consecutive World Cup but their inability to kill off a match they dominated will worry coach Murat Yakin.\nManuel Akanji offered Qatar the first big chance of the match in just the second minute as his defensive lapse sent Edmilson Junior through, but he could only shoot tamely at Gregor Kobel.\n94th minute equaliser\nThat let-off woke up the Swiss, who were awarded a penalty on 13 minutes as goalkeeper Mahmoud Abunada clattered into Remo Freuler, despite a suspicion of offside, and after a four-minute stoppage Embolo sent the goalkeeper the wrong way from the spot.\nThe rest of the opening period was one-way traffic towards the Qatar box but Edmilson nearly caught the Swiss cold just before half-time, drawing a right-footed save from Kobel at the end of a rare foray forward.\nRead moreFather of three seized by ICE at FIFA match last summer warns immigrant fans of danger\nUnder a blazing Californian sun the chances dried up in the second period with the most notable moments a Granit Xhaka drive from distance that whizzed narrowly over the bar and an Embolo poke that nestled in the side netting.\nBut ultimately Switzerland were made to pay for their profligacy as Khoukhi powered in at the back post to bullet home a 94th-minute equaliser.\nSwitzerland next play Bosnia on Thursday in Los Angeles, while Qatar meet co-hosts Canada in Vancouver on the same day.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

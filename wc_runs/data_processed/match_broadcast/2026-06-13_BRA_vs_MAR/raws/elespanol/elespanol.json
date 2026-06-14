@@ -1,0 +1,24 @@
+{
+ "source": "El Español",
+ "url": "https://www.elespanol.com/deportes/futbol/mundial/20260613/brasil-marruecos-mundial-hoy-directo-ultima-hora-partido-resultado-goles-alineaciones/1003744285126_10.html",
+ "title": "Brasil - Marruecos, Mundial 2026 | Resultado, goleadores y estadísticas del partido",
+ "published": "2026-06-13T23:08:32+02:00",
+ "tier": "2",
+ "lang": "es",
+ "match": {
+  "date": "2026-06-13",
+  "home": "BRA",
+  "away": "MAR",
+  "home_en": "Brazil",
+  "away_en": "Morocco",
+  "home_zh": "巴西",
+  "away_zh": "摩洛哥",
+  "comp": "小组赛·C组",
+  "match_id": "M7",
+  "slug": "2026-06-13_BRA_vs_MAR"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "👀 ¿Dónde se puede ver en directo el Brasil - Marruecos?El encuentro, correspondiente al Grupo C, se pudo ver en directo en España desde La 1 y en la plataforma de DAZN. ⚽ Alineaciones titulares del Brasil - MarruecosPosible once de Brasil: Allison; Roger Ibañez, Marquinhos, Gabriel, Douglas Santos; Casemiro, Bruno Guimaraes, Paquetá; Raphinha, Vinicius e Igor Thiago. Posible once de Marruecos: Bono, Achraf, Issa Diop, Chadi Riad, Mazraoui, Bouaddi, Ounahi, Saibari, El Khannouss, El Aynaoui y Brahim Díaz.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

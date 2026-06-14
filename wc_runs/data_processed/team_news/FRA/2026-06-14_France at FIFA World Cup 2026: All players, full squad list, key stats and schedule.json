@@ -1,0 +1,16 @@
+{
+ "team": "FRA",
+ "source": "Olympics.com",
+ "url": "https://www.olympics.com/en/news/fifa-world-cup-2026-france-players-full-squad-list-key-stats-schedule",
+ "title": "France at FIFA World Cup 2026: All players, full squad list, key stats and schedule",
+ "news_date": "2026-06-14",
+ "published": null,
+ "tier": "T2",
+ "lang": "en",
+ "asof": "2026-06-14",
+ "fetched": "2026-06-14_1420",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "France at FIFA World Cup 2026: All players, full squad list, key stats and schedule\nQuick facts\nCaptain: Kylian Mbappé\nManager: Didier Deschamps\nWorld Cup appearances (including 2026): 17\nBest World Cup result: Winners (1998, 2018)\nGoalkeepers: Mike Maignan (AC Milan), Brice Samba (Rennes), Robin Risser (Lens)\nDefenders: Dayot Upamecano (Bayern Munich), William Saliba (Arsenal), Lucas Digne (Aston Villa), Theo Hernandez (Al-Hilal), Lucas Hernandez (PSG), Ibrahima Konaté (Liverpool), Jules Koundé (Barcelona), Malo Gusto (Chelsea), Maxence Lacroix (Crystal Palace)\nMidfielders: N'Golo Kanté (Fenerbahce), Adrien Rabiot (AC Milan), Manu Koné (Roma), Aurélien Tchouaméni (Real Madrid), Warren Zaïre-Emery (PSG)\nForwards: Maghnes Akliouche (Monaco), Kylian Mbappé (Real Madrid), Ousmane Dembélé (PSG), Michael Olise (Bayern Munich), Désiré Doué (PSG), Bradley Barcola (PSG), Rayan Cherki (Manchester City), Marcus Thuram (Inter Milan), Jean-Philippe Mateta (Crystal Palace)",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

@@ -1,0 +1,16 @@
+{
+ "team": "TUR",
+ "source": "RotoWire",
+ "url": "https://www.rotowire.com/soccer/headlines/kenan-yildiz-injury-trains-partially-with-team-519087",
+ "title": "Kenan Yildiz Injury: Trains partially with team | RotoWire",
+ "news_date": "2026-06-14",
+ "published": null,
+ "tier": "T3",
+ "lang": "en",
+ "asof": "2026-06-14",
+ "fetched": "2026-06-14_1420",
+ "method": "jsonld:articleBody",
+ "status": "ok",
+ "original_text": "Yildiz had been training individually in recent days, making his partial reintegration into group sessions a significant development with the tournament just days away. The Juventus attacker ended the club season with 11 goals, nine assists and 94 chances created across 46 appearances, and coach Vincenzo Montella will be hopeful that Wednesday's positive session signals he will be available from the first fixture of Turkiye's World Cup against Australia on June 14.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

@@ -1,0 +1,24 @@
+{
+ "source": "CiberCuba",
+ "url": "https://www.cibercuba.com/noticias/2026-06-14-u1-e209363-s27061-nid332206-brasil-1-1-marruecos-mundial-2026",
+ "title": "Brasil 1-1 Marruecos · Mundial 2026",
+ "published": null,
+ "tier": "3",
+ "lang": "es",
+ "match": {
+  "date": "2026-06-13",
+  "home": "BRA",
+  "away": "MAR",
+  "home_en": "Brazil",
+  "away_en": "Morocco",
+  "home_zh": "巴西",
+  "away_zh": "摩洛哥",
+  "comp": "小组赛·C组",
+  "match_id": "M7",
+  "slug": "2026-06-13_BRA_vs_MAR"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Brasil y Marruecos repartieron puntos en su debut en el Grupo C del Mundial 2026 con un empate 1-1 disputado el sábado en el MetLife Stadium de East Rutherford, en Nueva Jersey, Estados Unidos.\nEl partido arrancó con Marruecos tomando la iniciativa. En el minuto 21, Ismael Saibari aprovechó un pase en profundidad de Brahim Díaz, se desmarcó del defensa brasileño y definió con calidad para poner a los Leones del Atlas en ventaja.\nSaber más\nVolver a reproducir\nSaber más\nBrasil tardó 11 minutos en responder, pero lo hizo con clase. Vinicius Junior desbordó por la banda izquierda en una acción individual, llegó al área y remató para igualar el marcador en el 32.\nFue el único tanto de la noche para la Canarinha y llegó en su mejor momento del primer tiempo.\nSaber más\nVolver a reproducir\nSaber más\nEl tramo final de la primera parte estuvo marcado por la disciplina. Casemiro vio la amarilla en el 37 e Ibáñez en el 43, lo que obligó al técnico Carlo Ancelotti a retirar a ambos al inicio del segundo tiempo para evitar riesgos.\nCon esas bajas, Brasil perdió músculo en el mediocampo y no encontró el camino al gol en la segunda mitad pese a generar ocasiones.\nLas estadísticas reflejan un duelo muy igualado: Brasil tuvo el 54 % de posesión frente al 46 % de Marruecos, y ambos equipos registraron exactamente 12 tiros.\nLa Canarinha fue más precisa con cuatro remates a puerta por dos de los africanos, y generó cinco córners por ninguno de Marruecos. En el plano disciplinario, Brasil acumuló dos tarjetas amarillas; Marruecos no recibió ninguna.\nEl debut de Ancelotti al frente de Brasil —primer entrenador extranjero en dirigir a la Canarinha en un Mundial— no pudo ser con victoria. La selección también afrontó el partido sin Neymar, baja por una lesión de grado II en el gemelo derecho.\nMarruecos, por su parte, llegó al torneo con el prestigio de su histórica semifinal en Qatar 2022, cuando se convirtió en la primera selección africana en alcanzar esa instancia.\nEl punto conseguido en Nueva Jersey confirma que los Leones del Atlas siguen siendo un rival de máximo nivel.\nCon este resultado, Brasil y Marruecos comparten el liderato del Grupo C con un punto cada uno, mientras Escocia y Haití aún no han disputado su primer partido.\nEn el formato del Mundial 2026 con 48 selecciones, los dos primeros de cada grupo avanzan, lo que significa que ambas selecciones mantienen opciones plenas de clasificación, aunque no pueden permitirse más tropiezos si quieren asegurar el pase a la siguiente ronda.\nPreguntas frecuentes sobre el empate entre Brasil y Marruecos en el Mundial 2026\nCiberCuba te lo explica:\nEl partido entre Brasil y Marruecos terminó en empate 1-1. Ismael Saibari adelantó a Marruecos en el minuto 21, mientras que Vinicius Junior igualó para Brasil en el minuto 32.\nBrasil recibió dos tarjetas amarillas, a Casemiro e Ibáñez, lo cual obligó al técnico Carlo Ancelotti a hacer cambios en el segundo tiempo para evitar riesgos. Esto afectó el rendimiento del mediocampo brasileño, que perdió músculo y no pudo encontrar el camino al gol en la segunda mitad.\nLa ausencia de Neymar, debido a una lesión de grado II en el gemelo derecho, fue significativa para Brasil, ya que no pudieron contar con su estrella en el debut. Sin embargo, el técnico Carlo Ancelotti espera que Neymar pueda participar en los siguientes partidos del grupo.\nPara Marruecos, el empate representa un buen comienzo en el Mundial 2026, consolidando su posición como un equipo competitivo tras su histórica semifinal en Qatar 2022. Este resultado confirma que siguen siendo un rival de máximo nivel.\n¿Tienes algo que reportar?\nEscribe a CiberCuba:\nEste artículo ha sido generado o editado con la ayuda de inteligencia artificial. Ha sido revisado por un editor antes de su publicación.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

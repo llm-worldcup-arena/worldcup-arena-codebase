@@ -1,0 +1,24 @@
+{
+ "source": "Al Jazeera",
+ "url": "https://www.aljazeera.com/sports/2026/6/14/vinicius-drags-brazil-level-against-dominant-morocco-at-world-cup",
+ "title": "Vinicius drags low-key Brazil level against dominant Morocco at World Cup",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-13",
+  "home": "BRA",
+  "away": "MAR",
+  "home_en": "Brazil",
+  "away_en": "Morocco",
+  "home_zh": "巴西",
+  "away_zh": "摩洛哥",
+  "comp": "小组赛·C组",
+  "match_id": "M7",
+  "slug": "2026-06-13_BRA_vs_MAR"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Vinicius Jr’s individual efforts lift Brazil’s struggle in team’s 2026 tournament opener against Africa champions Morocco.\n\nVinicius Junior scored a brilliant equaliser for Brazil in a 1-1 draw with Morocco as the five-time World Cup winners made an uncertain start to the tournament in New Jersey.\n\nIsmael Saibari ran through to give Morocco a 21st-minute lead with a clever scoop in the Group C opener on Saturday, but Vinicius produced a moment of magic to ensure Brazil came away with a point.\n\nBrazil are chasing a record sixth World Cup title, 24 years after last lifting the trophy, but this performance suggests there is a lot of work to be done by Carlo Ancelotti’s side.\n\nRonaldo, Roberto Carlos and Kaka were all members of Brazil’s 2002 World Cup-winning squad and were among those in attendance at New York New Jersey Stadium.\n\nBrazil have turned to the hugely successful Ancelotti in a bid to end the country’s title drought. He is the first foreign coach to lead Brazil at football’s biggest tournament.\n\nA fifth-placed finish in South American qualifying underlined the scale of the challenge facing Ancelotti. However, the Italian insists Brazil possess a squad capable of competing with anyone in the expanded 48-team tournament.\n\nHe was without Neymar for the start of the competition, with Brazil’s all-time record goalscorer still recovering from a calf injury, having not played for his country since 2023.\n\nMorocco coach Mohamed Ouahbi urged his players not to fear Brazil, and his message appeared to resonate as the 2022 semifinalists started brightly in one of the standout matches of the first round.\n\nAfter Neil El Aynaoui and Achraf Hakimi threatened the Brazil goal, Saibari made the breakthrough when he latched onto a fine pass from Brahim Diaz.\n\nThe PSV Eindhoven forward raced beyond Marquinhos and Gabriel Magalhaes, holding his nerve with a clinical chipped finish over the advancing Alisson Becker.\n\nBrazil drew level 11 minutes later through Vinicius, who will have a vital role to play if Brazil are to shine this summer.\n\nThe Real Madrid star received the ball from Bruno Guimaraes on the left side of the area before cutting back onto his right foot and hammering into the far corner past Yassine Bounou.\n\nIt belatedly breathed life into a lacklustre Brazil, and Lucas Paqueta saw his acrobatic effort pushed away by Bounou before half-time.\n\nBounou saved well from Igor Thiago as Brazil caught Morocco napping with a quick throw-in after the break, while Raphinha and Danilo shot right at Bounou as the Selecao pressed for a winner.\n\nMorocco nearly snatched it at the death when Alisson parried a long-range effort from El Aynaoui and had to react sharply to block the follow-up from Chemsdine Talbi.\n\nBrazil next face outsiders Haiti while Morocco take on Scotland in their second match.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

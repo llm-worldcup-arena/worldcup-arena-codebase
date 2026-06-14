@@ -1,0 +1,24 @@
+{
+ "date": "2026-06-13",
+ "comp": "世界杯·C组",
+ "ha_home": "中",
+ "home": "BRA",
+ "away": "MAR",
+ "score": "1-1",
+ "goals": [
+  {
+   "min": 21,
+   "side": "away",
+   "player": "Ismael Saibari"
+  },
+  {
+   "min": 32,
+   "side": "home",
+   "player": "Vinícius Júnior"
+  }
+ ],
+ "injuries": [],
+ "suspensions": [],
+ "narrative": "MetLife。摩洛哥21'Saibari先拔头筹;巴西32'维尼修斯接B·吉马良斯做球右脚劲射扳平(国家队第10球)。无内马尔的巴西开局磕绊但延续世界杯揭幕战21场不败(17胜)。C组:巴西/摩洛哥各1分。",
+ "prediction_note": "巴西攻坚乏力(无内马尔)、维尼修斯独点扛;摩洛哥防线顶住、状态强。下轮 BRA vs HAI、MAR vs SCO。"
+}

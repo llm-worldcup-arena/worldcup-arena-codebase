@@ -1,0 +1,16 @@
+{
+ "team": "ALG",
+ "source": "Olympics.com",
+ "url": "https://www.olympics.com/en/news/fifa-world-cup-2026-algeria-preview-full-squad-list-key-stats-schedule",
+ "title": "FIFA World Cup 2026: Will Algeria give Riyad Mahrez a last hurrah in North America? All players, full squad list, key stats and schedule",
+ "news_date": "2026-06-14",
+ "published": null,
+ "tier": "T2",
+ "lang": "en",
+ "asof": "2026-06-14",
+ "fetched": "2026-06-14_1420",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Will Algeria give Riyad Mahrez a last hurrah in North America? All players, full squad list, key stats and schedule\nQuick facts\nCaptain: Riyad Mahrez\nManager: Vladimir Petković\nWorld Cup appearances (including 2026): 5\nBest World Cup result: Round of 16 (2014)\nFIFA World Cup 2026 – Algeria’s final squad\nGoalkeepers: Luca Zidane (Granada), Oussama Benbot (Alger), Melvin Mastil (Stade Nyonnais)\nDefenders: Rafik Belghali (Hellas Verona), Samir Chergui (Paris FC), Rayan Aït-Nouri (Manchester City), Jaouen Hadjam (BSC Young Boys), Aïssa Mandi (Lille), Ramy Bensebaïni (Borussia Dortmund), Zinedine Belaïd (Kabylie), Mohamed Amine Tougaï (Espérance de Tunis), Achraf Abada (USM Alger)\nMidfielders: Nabil Bentaleb (Lille), Hicham Boudaoui (OGC Nice), Houssem Aouar (Al-Ittihad), Farès Chaïbi (Eintracht Frankfurt), Ibrahim Maza (Bayer Leverkusen), Yacine Titraoui (Royal Charleroi), Ramiz Zerrouki (Twente)\nForwards: Mohamed Amine Amoura (VfL Wolfsburg), Nadhir Benbouali (ETO), Adil Boulbina (Al-Duhail), Farès Ghedjemis (Frosinone), Amine Gouiri (Olympique Marseilla), Anis Hadj Moussa (Feyenoord), Riyad Mahrez (Al-Ahli)",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

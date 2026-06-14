@@ -1,0 +1,16 @@
+{
+ "team": "COD",
+ "source": "Olympics.com",
+ "url": "https://www.olympics.com/en/news/fifa-world-cup-2026-dr-congo-players-squad-list-key-stats-schedule",
+ "title": "DR Congo at FIFA World Cup 2026: All players, full squad list, key stats and schedule",
+ "news_date": "2026-06-14",
+ "published": null,
+ "tier": "T2",
+ "lang": "en",
+ "asof": "2026-06-14",
+ "fetched": "2026-06-14_1420",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "DR Congo at FIFA World Cup 2026: All players, full squad list, key stats and schedule\nQuick facts\nCaptain: Chancel Mbemba\nManager: Sébastien Desabre\nWorld Cup appearances (including 2026): 2\nBest World Cup result: Group stage (1974)\nGoalkeepers: Timothy Fayulu (FC Noah), Lionel Mpasi (Le Havre), Mike Epolo (Standard Liege)\nDefenders: Aaron Wan-Bissaka (West Ham United), Gédéon Kalulu (AEL Limassol), Joris Kayembe (Genk), Arthur Masuaku (Lens), Steve Kapuadi (Widzew Łódź), Rocky Bushiri (Hibernian), Axel Tuanzebe (Burnley), Chancel Mbemba (Lille), Dylan Batubinsika (Larissa)\nMidfielders: Noah Sadiki (Sunderland), Samuel Moutoussamy (Atromitos), Edo Kayembe (Watford), Nathan Mukau (Lille), Charles Pickel (Espanyol), Ngal’ayel Mukau Mbuku (Montpellier), Brian Cipenga (Castellón), Théo Bongonda (Spartak Moscow), Gaël Kakuta (Larissa)\nForwards: Meschack Elia (Alanyaspor), Fiston Mayele (Pyramids), Cédric Bakambu (Real Betis), Simon Banza (Al Jazira), Yoane Wissa (Newcastle United)",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

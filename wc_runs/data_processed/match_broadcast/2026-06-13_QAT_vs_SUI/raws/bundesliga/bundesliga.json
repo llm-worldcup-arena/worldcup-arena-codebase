@@ -1,0 +1,24 @@
+{
+ "source": "Bundesliga.com",
+ "url": "https://www.bundesliga.com/en/bundesliga/news/qatar-switzerland-world-cup-draw-boualem-khoukhi-san-francisco-37809",
+ "title": "Boualem Khoukhi",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-13",
+  "home": "QAT",
+  "away": "SUI",
+  "home_en": "Qatar",
+  "away_en": "Switzerland",
+  "home_zh": "卡塔尔",
+  "away_zh": "瑞士",
+  "comp": "小组赛·B组",
+  "match_id": "M8",
+  "slug": "2026-06-13_QAT_vs_SUI"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Qatar 1-1 Switzerland Goals: 0-1 Embolo (pen) 17’, 1-1 Khoukhi 90’+4 (assist: El Amin)\nThis is only Qatar's second-ever World Cup appearance, having exited the 2022 tournament as hosts without a single point. Switzerland, by contrast, were making their 13th appearance at a World Cup finals, and arrived in California having topped their UEFA qualifying group unbeaten, conceding just two goals in six matches.\nThe Swiss boasted a strong contingent of Bundesliga players, including Borussia Dortmund goalkeeper Gregor Kobel, Borussia Mönchengladbach defender Nico Elvedi, and captain Granit Xhaka, who won the Bundesliga with Bayer Leverkusen in 2023/24. Qatar, coached by Julen Lopetegui, lined up in a 5-3-2 formation, while Switzerland, under Murat Yakin, deployed a 3-4-3 system.\n\nSwitzerland kicked off and immediately pressed high, but it was Qatar who fashioned the first real opportunity. A mistake by Manuel Akanji inside his own half allowed Edmilson Junior to run through on goal, but Kobel rushed out well to smother the effort and spare his side's blushes.\nSwitzerland then took control, with Dan Ndoye testing Mahmoud Abunada with a powerful drive in the sixth minute, only for the Qatar goalkeeper to turn it away. Ndoye then spurned a glorious chance in the tenth minute, firing well over the crossbar after Rubén Vargas had driven to the byline and cut the ball back to an unmarked Ndoye in the penalty area.\n\nSwitzerland's pressure eventually told in the 17th minute. Remo Freuler lifted the ball over the onrushing Abunada, who clattered into the Swiss midfielder and was booked for his foul. After a VAR check confirmed no offside, the penalty was awarded. Embolo stepped up and coolly slotted the ball into the bottom-left corner, sending Abunada the wrong way to give Switzerland a deserved lead.\nQatar midfielder Jassem Gaber was also booked in the 23rd minute for a foul on Vargas. Denis Zakaria received a yellow card in the 42nd minute for a foul on Yusuf Abdurisag. Switzerland continued to press for a second goal, with Ndoye and Embolo both going close, but Abunada and the Qatar defence held firm. Kobel was called upon again in the 43rd minute to deny Edmilson Junior with a fine stop.\nSix minutes of stoppage time were added, during which Switzerland came agonisingly close to doubling their lead — Embolo laid the ball off to Vargas, whose shot was saved by Abunada's toe, and a scramble on the goal-line saw Qatar defenders clear the ball to safety.\n\nQatar made a triple substitution at the hour mark, bringing on Ahmed Fathy for Ayoub Aloui, Karim Boudiaf for Gaber, and Ahmed Alaaeldin for Abdurisag. Switzerland responded with their own changes in the 66th minute, introducing Johan Manzambi for Ndoye and Fabian Rieder for Michel Aebischer.\nThe Swiss continued to dominate possession and create chances, with Xhaka firing wide from distance in the 67th minute and Embolo going narrowly wide after a clever lay-off from Manzambi in the 76th minute. Vargas forced a save from Abunada in the 75th minute, and Manzambi tested the Qatar keeper with a powerful long-range effort in the 81st minute.\nFurther changes followed: Mohammed Manai came on for Assim Madibo for Qatar in the 79th minute, while Zeki Amdouni replaced Vargas for Switzerland. Hassan Al-Haydos came on for Edmilson Junior in the 88th minute for Qatar, and Miro Muheim and Ardon Jashari replaced Ricardo Rodríguez and Freuler, respectively, in the 89th minute.\n\nWith the game seemingly heading towards a Swiss victory, Qatar produced a stunning late equaliser deep in stoppage time. In the fourth minute of added time, Homam El-Amin beat his man down the left channel and floated a teasing cross towards the back post. Khoukhi rose highest and powered a header past Kobel to make it 1-1.\nSwitzerland had dominated the match, accumulating an xGoals value of 3.28 to Qatar's 0.76, but their wastefulness in front of goal ultimately cost them all three points. The final whistle sounded with the score level at 1-1, a historic result for Qatar.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}
