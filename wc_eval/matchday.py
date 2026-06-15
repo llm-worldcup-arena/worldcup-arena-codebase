@@ -91,9 +91,13 @@ def main():
     if a.review:
         run(["python3", "review_round.py"], PR)
 
-    # ⑦ 预测(先体检+可选终审官)
+    # ⑦ 预测(先开球时间核对 + 体检 + 可选终审官)
     if a.predict.strip() and snap:
         ms = ",".join(p.strip().replace("-", "-") for p in a.predict.split(","))
+        # ⑦.0 开球时间核对:FIX(网页显示)↔ matches.json(预测prompt)一致 + 非ET场醒目标记
+        #      (防"西部时区场把美东时间算错"再犯;硬不一致则拦,非ET场打印提示 agent 外部核对)
+        if run(["python3", "verify_kickoffs.py", "--matches", ms], PR) != 0:
+            sys.exit("✗ 开球时间核对未过(FIX↔matches 不一致/当地越界),修正后再来")
         pf = ["python3", "preflight.py", "--snapshot", snap, "--matches", ms]
         if a.audit:
             pf.append("--llm-audit")
