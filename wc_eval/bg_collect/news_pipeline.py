@@ -59,7 +59,7 @@ def _new_news(team, ts):
     return items
 
 
-def process_team(team, snap, ts, workers=6):
+def process_team(team, snap, ts, workers=8):
     """处理一队:并行 清洁+三判 每条新闻 → 追加 ⑦ → CHANGELOG。返回统计。"""
     sp = f"{RUNS}/team_data/{snap}/{team}/summary.md"
     if not os.path.exists(sp):
@@ -73,7 +73,10 @@ def process_team(team, snap, ts, workers=6):
     titles = _repo_titles(team)
 
     def one(r):
-        cl = clean_loop(r.get("original_text", ""), "新闻正文")
+        # 超长正文截断:judge_news 本就只用前 6000 字,clean_loop 对全文(如 NZL 11250 字)×3轮重写
+        # 既浪费又拖到超时(thinking 模型输出慢)。截到 7000 字,既覆盖三判所需、又不被超长文卡死。
+        body = (r.get("original_text") or "")[:7000]
+        cl = clean_loop(body, "新闻正文")
         jd = judge_news(cl["text"], r.get("source", "?"), team, titles, seg7, r.get("published") or r.get("news_date", ""))
         return {"r": r, "clean": cl, "judge": jd}
 
@@ -136,7 +139,7 @@ def main():
     ap.add_argument("--snapshot", required=True)
     ap.add_argument("--ts", required=True)
     ap.add_argument("--teams", default="ALL", help="ALL 或 逗号分隔 FIFA 码")
-    ap.add_argument("--team-workers", type=int, default=6, help="并行处理多少队")
+    ap.add_argument("--team-workers", type=int, default=10, help="并行处理多少队")
     a = ap.parse_args()
     if a.teams == "ALL":
         teams = sorted(os.path.basename(d.rstrip("/")) for d in glob.glob(f"{RUNS}/team_data/{a.snapshot}/*/")

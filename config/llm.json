@@ -6,5 +6,6 @@
   "default_model": "gpt-4o-mini",
   "_worker_note": "worker_model = 流程里所有【工具型 LLM】(三判/清洁/教练/裁判/可预测long/播报合成/终审/复盘,见 wc_llm.py)统一用的模型。可变,不写死在代码里(本仓会 release)。换模型只改这里。",
   "worker_model": "Kimi-K2-Thinking",
-  "worker_temperature": 1
+  "worker_temperature": 1,
+  "worker_concurrency": 20
 }

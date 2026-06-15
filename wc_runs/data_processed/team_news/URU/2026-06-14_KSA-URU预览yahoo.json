@@ -1,0 +1,16 @@
+{
+ "team": "URU",
+ "source": "yahoo",
+ "url": "https://sports.yahoo.com/articles/preview-saudi-arabia-vs-uruguay-220500482.html",
+ "title": "PREVIEW | Saudi Arabia vs Uruguay: team news, lineups, predictions (World Cup 15/06) - Yahoo Sports",
+ "news_date": "2026-06-14",
+ "published": null,
+ "tier": "T2",
+ "lang": "en",
+ "asof": "2026-06-14",
+ "fetched": "2026-06-14_1727",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "PREVIEW | Saudi Arabia vs Uruguay: team news, lineups, predictions (World Cup 15/06)\nPREVIEW | Saudi Arabia vs Uruguay: team news, lineups, predictions (World Cup 15/06)\nSaudi Arabia and Uruguay clash this Monday at the Hard Rock Stadium of the World Cup. Saudi Arabia mark their 7th participation in the competition, whilst Uruguay, who have already won this tournament 2 times, go into their 15th. The match will be broadcast live at 23:00 on ITV 1.\nLast time out, Saudi Arabia drew 0-0 against Senegal (National Team Friendlies 2026). In their last outing, Uruguay drew 0-0 against Algeria (National Team Friendlies 2026).\nAdvertisement\nThe last meeting between the two teams ended with Uruguay winning 1-0.\nUnavailable\nArábia Saudita\nUruguai\nLast starting XIs\nSaudi Arabia ( vs Senegal 2026-06-10): Moha Al-Owais, Saud Abdulhamid, Abdulelah Al-Amri, Hassan Tambakti, Moteb Al-Harbi, Abu Al-Shamat, Abdul Al-Khaibari, Nasser Al-Dawsari, Salem Al-Dawsari, Musab Al-Juwayr, Feras Al-Buraikan\nUruguay ( vs Algeria 2026-03-31): Sergio Rochet, Guillermo Varela, José Giménez, Ronald Araújo, Mathías Olivera, Agustín Canobbio, Fede Valverde, Maxi Araújo, Manuel Ugarte, Giorgian de Arrascaeta, Federico Viñas",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

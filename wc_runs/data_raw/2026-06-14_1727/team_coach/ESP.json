@@ -1,0 +1,49 @@
+{
+ "team": "ESP",
+ "coach": {
+  "name_zh": "路易斯·德拉富恩特",
+  "name_en": "Luis de la Fuente",
+  "nationality": "Spain",
+  "career_since": "",
+  "person_id": "per_luis_de_la_fuente"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 路易斯·德拉富恩特(Luis de la Fuente)作为西班牙籍主帅，正率队在查塔努加基地备战2026年世界杯H组赛事。\n\n- 6月15日首战佛得角前，他将腿筋受伤的亚马尔、尼科·威廉斯、穆尼奥斯排除在对秘鲁的末场热身赛名单外。\n\n- 亚马尔自4月22日受伤后持续康复，德拉富恩特谨慎预期其能赶上揭幕战，但上场时间或压缩至\"仅几分钟\"。\n\n- 西班牙小组赛将在亚特兰大和瓜达拉哈拉进行，对手依次为佛得角、沙特阿拉伯(6/21)和乌拉圭(6/26)。\n\n- 德拉富恩特允许伤员参与公开训练，亚马尔和威廉斯周六现身训练场并与球迷签名互动。\n\n- 球队已于上周五抵达美国，在查塔努加建立世界杯营地，而秘鲁热身赛则在普埃布拉的夸乌特莫克体育场进行。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.95,
+  "issues": []
+ },
+ "brief_fetched": "2026-06-14_1727",
+ "brief_info_chars": 6000,
+ "coach_xverify": {
+  "canonical": "Luis de la Fuente",
+  "confidence": "high",
+  "discrepancy": "",
+  "sources_agree": 5,
+  "n_sources": 8
+ },
+ "brief_basis": {
+  "coach": "路易斯·德拉富恩特/Luis de la Fuente",
+  "mention_urls": [
+   "https://worldsoccertalk.com/world-cup/barcelona-reportedly-sets-conditions-for-lamine-yamals-participation-with-spain-at-the-2026-world-cup/",
+   "https://www.aljazeera.com/sports/2026/6/8/yamal-williams-to-be-available-for-spains-opening-world-cup-match",
+   "https://www.espn.com/soccer/story/_/id/48572979/2026-fifa-world-cup-injuries-tracker-which-stars-miss-latest-info",
+   "https://www.espn.com/soccer/story/_/id/48870392/spain-world-cup-2026-squad-confirmed-lamine-yamal-stars-no-real-madrid-players",
+   "https://www.espn.com/soccer/story/_/id/48957472/spain-lamine-yamal-injury-2026-world-cup-cape-verde-de-la-fuente",
+   "https://www.espn.com/soccer/story/_/id/48993924/lamine-yamal-nico-williams-left-spain-last-world-cup-warmup",
+   "https://www.espn.com/soccer/story/_/id/49031484/spain-world-cup-2026-lamine-yamal-nico-williams-injury",
+   "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/spain-squad-announcement-luis-de-la-fuente",
+   "https://www.foxsports.com/stories/soccer/lamine-yamal-nico-williams-return-to-full-training-with-spain-in-major-boost-ahead-of-world-cup-opener-vs-cabo-verde",
+   "https://www.foxsports.com/stories/soccer/why-barcelona-are-worried-about-lamine-yamal-as-teenage-wonderkid-prepares-for-a-shot-at-world-cup-glory-with-spain",
+   "https://www.goal.com/en-us/lists/lamine-yamal-and-nico-williams-return-to-spain-training/blt68f949f8890b4229",
+   "https://www.rotowire.com/soccer/article/spain-vs-cape-verde-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-h-118092",
+   "https://www.sportsmole.co.uk/football/spain/world-cup-2026/news/yamal-injury-update-as-spain-sweat-on-barca-stars-fitness-before-group-opener_599004.html"
+  ]
+ }
+}

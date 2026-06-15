@@ -1,0 +1,44 @@
+{
+ "team": "CPV",
+ "coach": {
+  "name_zh": "布比斯塔",
+  "name_en": "Bubista",
+  "nationality": "Portuguese Cape Verde",
+  "career_since": "2012",
+  "person_id": "per_bubista"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 布比斯塔（Bubista）自2012年开启执教生涯，现任佛得角国家队主帅，率队历史性晋级2026年世界杯决赛圈。\n- 非洲区预选赛10战7胜1负，以D组头名身份出线，领先喀麦隆4分，期间取得五连胜并以3-0完胜斯威士兰锁定名额。\n- 其选人策略果断，洛根·科斯塔仅在西甲出场13分钟便被他征召入队，该25岁后卫被公认为国家队最佳球员。\n- 麾下拥有沃齐尼亚、罗伯托·\"皮科\"·洛佩斯、瑞安·门德斯和戴隆·利夫拉门托等经验丰富的核心班底。\n- 世界杯H组首战6月15日亚特兰大对阵西班牙，随后迎战乌拉圭与沙特阿拉伯，面临严峻挑战。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 1.0,
+  "issues": []
+ },
+ "brief_fetched": "2026-06-14_1727",
+ "brief_info_chars": 6000,
+ "coach_xverify": {
+  "canonical": "Pedro Leitão Brito (Bubista)",
+  "confidence": "high",
+  "discrepancy": "",
+  "sources_agree": 7,
+  "n_sources": 8
+ },
+ "brief_basis": {
+  "coach": "布比斯塔/Bubista",
+  "mention_urls": [
+   "https://heavy.com/sports/soccer/world-cup/cape-verde-squad-fifa-world-cup/",
+   "https://supersport.com/football/news/24e35cff-37c6-4534-ac01-dc7a1febddf5/cape-verde-gamble-on-fitness-of-defender-costa",
+   "https://www.espn.com/soccer/story/_/id/49047205/fifa-world-cup-2026-spain-vs-cape-verde-tv-channel-how-watch-kick-live-stream-referee-predicted-line-ups",
+   "https://www.fifa.com/en/tournaments/mens/worldcup/articles/cabo-verde-squad-announcement-world-cup-bubista",
+   "https://www.flashscore.com/news/soccer-world-cup-cape-verde-announce-world-cup-squad-take-gamble-on-star-defender-logan-costa/WhzAMbFi/",
+   "https://www.fourfourtwo.com/team/cape-verde-world-cup-2026-squad",
+   "https://www.olympics.com/en/news/fifa-world-cup-2026-cabo-verde-all-players-full-squad-list-key-stats-schedule",
+   "https://www.squawka.com/en/news/world-cup/cape-verde-world-cup-2026-fixtures-squad-analysis/"
+  ]
+ }
+}

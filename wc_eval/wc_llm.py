@@ -22,7 +22,7 @@
 跑:python3 wc_llm.py selftest
    python3 wc_llm.py judge-news --news /tmp/n.json --repo /tmp/titles.txt --summary /tmp/s.md
 """
-import os, sys, json, re, argparse
+import os, sys, json, re, argparse, threading
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -33,6 +33,12 @@ from llm_client import chat, load_config
 _cfg = load_config()
 WORKER_MODEL = _cfg.get("worker_model", "Kimi-K2-Thinking")
 _TEMP = _cfg.get("worker_temperature", 1)
+
+# ── 全局并发闸:DMXAPI 实测安全并发 ~20(并发24/28稳过、32起 429)。各处线程池可放心调大,
+#    实际同时打到 DMXAPI 的请求由本信号量统一封顶,绝不超限触发 429。配置 worker_concurrency 可调。
+#    注意:此闸是【每进程】的——重活脚本要【顺序】跑(matchday 已串行),并行起多个进程会叠加并发。
+WORKER_CONCURRENCY = int(_cfg.get("worker_concurrency", 20))
+_SEM = threading.BoundedSemaphore(WORKER_CONCURRENCY)
 
 
 # ════════════════════════ 底层:JSON 调用 + 并行 ════════════════════════
@@ -55,9 +61,10 @@ def kimi_json(system, user, retries=3, timeout=180, model=WORKER_MODEL):
     last = None
     for k in range(retries):
         try:
-            raw = chat([{"role": "system", "content": system},
-                        {"role": "user", "content": user}],
-                       model=model, temperature=_TEMP, timeout=timeout)
+            with _SEM:                                   # 全局并发闸,封顶 DMXAPI 同时请求数
+                raw = chat([{"role": "system", "content": system},
+                            {"role": "user", "content": user}],
+                           model=model, temperature=_TEMP, timeout=timeout)
             return json.loads(_strip_fence(raw))
         except Exception as e:
             last = e
@@ -66,11 +73,12 @@ def kimi_json(system, user, retries=3, timeout=180, model=WORKER_MODEL):
 
 def kimi_text(system, user, timeout=180, model=WORKER_MODEL):
     """调 Kimi 要纯文本(生成类)。"""
-    return chat([{"role": "system", "content": system},
-                 {"role": "user", "content": user}], model=model, temperature=_TEMP, timeout=timeout)
+    with _SEM:                                           # 全局并发闸,封顶 DMXAPI 同时请求数
+        return chat([{"role": "system", "content": system},
+                     {"role": "user", "content": user}], model=model, temperature=_TEMP, timeout=timeout)
 
 
-def pmap(fn, items, workers=8, label=""):
+def pmap(fn, items, workers=16, label=""):
     """并行 map(线程池);返回与 items 等长的结果(异常位置为 None)。LLM 调用是 IO 等待,线程并行有效。"""
     out = [None] * len(items)
     with ThreadPoolExecutor(max_workers=workers) as ex:

@@ -1,0 +1,41 @@
+{
+ "match": {
+  "slug": "2026-06-15_ESP_vs_CPV",
+  "date": "2026-06-15",
+  "home": "ESP",
+  "away": "CPV",
+  "round": "group",
+  "group": "H"
+ },
+ "kickoff": {
+  "美东": "2026-06-15T13:00:00-04:00",
+  "北京": "06-16 01:00"
+ },
+ "venue": {
+  "name": "Mercedes-Benz Stadium",
+  "city": "Atlanta",
+  "altitude_m": 320,
+  "roof": "retractable",
+  "surface": "grass"
+ },
+ "weather": {
+  "开球时段": {
+   "温度C": 27.0,
+   "体感C": 28.6,
+   "降水概率%": 1,
+   "降水mm": 0.0,
+   "风速kmh": 17.5,
+   "湿度%": 51,
+   "天况": "阴"
+  },
+  "source": "open-meteo(免费预报API)",
+  "fetched": "2026-06-15_1624",
+  "_note": "临近开球建议 --refresh 刷新"
+ },
+ "referee": {
+  "name": "Adham Makhadmeh(约旦)",
+  "source": "WebSearch(FIFA官方指派)",
+  "fetched": "2026-06-15_1624"
+ },
+ "_note": "环境=比赛+时间+地点 确定;天气为开球时段;顶棚 retractable/fixed-canopy 时天气影响有限。"
+}

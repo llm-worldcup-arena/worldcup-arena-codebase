@@ -1,0 +1,47 @@
+{
+ "team": "KSA",
+ "coach": {
+  "name_zh": "吉歐格斯·多尼斯",
+  "name_en": "Georgios Donis",
+  "nationality": "West Germany",
+  "career_since": "2002",
+  "person_id": "per_georgios_donis"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 吉歐格斯·多尼斯（Georgios Donis），西德国籍，2002年开启执教生涯。\n- 曾执教阿尔希拉尔、阿尔法特、阿尔韦赫达与阿尔哈利吉四家沙特俱乐部，对本土联赛体系具备深度认知。\n- 2026年世界杯率领沙特第七次出征，30人名单仅NEOM边锋阿拉·哈吉一名无国家队出场纪录的球员，其余28人均来自沙特联赛。\n- 奉行\"见林不见木\"理念，拒绝复刻2022年击败阿根廷式的奇迹，主张整体进步，预计末轮对阵佛得角时排出攻击性首发阵容。\n- 委任U17国家队队长阿里·亚希亚代为宣布世界杯名单，体现对青年梯队建设的长期信任。\n- 小组赛末轮定于6月26日休斯顿NRG体育场对阵世界杯新军佛得角。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.9,
+  "issues": [
+   "委任U17队长宣布名单与预测关联弱",
+   "部分背景描述略显冗余"
+  ]
+ },
+ "brief_fetched": "2026-06-14_1727",
+ "brief_info_chars": 2581,
+ "coach_xverify": {
+  "canonical": "Georgios Donis",
+  "confidence": "high",
+  "discrepancy": "",
+  "sources_agree": 6,
+  "n_sources": 8
+ },
+ "brief_basis": {
+  "coach": "吉歐格斯·多尼斯/Georgios Donis",
+  "mention_urls": [
+   "https://english.alarabiya.net/sports/2026/05/25/saudi-arabia-s-fifa-world-cup-2026-squad-who-s-in-and-who-s-out",
+   "https://www.arabnews.com/node/2646598/sport",
+   "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/georgios-donis-saudi-arabia-squad",
+   "https://www.goal.com/en-om/news/saudi-arabia-uruguay-world-cup-preview/blt74bb218ed91bb964",
+   "https://www.olympics.com/en/news/fifa-world-cup-2026-saudi-arabia-all-players-full-squad-list-key-stats-schedule",
+   "https://www.spl.com.sa/en/news/1069913/donis-announces-saudi-arabias-2026-fifa-world-cup-squad",
+   "https://www.sportsmole.co.uk/football/uruguay/world-cup-2026/predicted-lineups/salem-al-dawsari-to-lead-the-charge-how-saudi-arabia-could-line-up-vs-uruguay_599118.html",
+   "https://www.thenationalnews.com/sport/football/2026/06/03/world-cup-2026-group-h-guide-yamal-injury-worries-spain-saudi-arabia-make-big-call-on-coach/"
+  ]
+ }
+}

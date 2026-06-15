@@ -42,7 +42,7 @@ def main():
     ap.add_argument("--all", action="store_true")
     ap.add_argument("--slug")
     ap.add_argument("--refresh", action="store_true")
-    ap.add_argument("--workers", type=int, default=6)
+    ap.add_argument("--workers", type=int, default=16)
     a = ap.parse_args()
     slugs = [os.path.basename(d.rstrip("/")) for d in glob.glob(f"{MB}/*/") if os.path.isdir(d)] if a.all \
         else [a.slug] if a.slug else []

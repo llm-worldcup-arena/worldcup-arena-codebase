@@ -11,12 +11,12 @@
  "fetched": "2026-06-13_0748",
  "history": [],
  "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
- "brief": "- 英格兰人格雷厄姆·波特自2008年开启执教生涯，中途接手瑞典国家队，将托马森时期垫底的球队通过附加赛带入世界杯。\n- 波特采用流动性控球战术，常用3-4-2-1或非对称4-3-3阵型，依赖内切边锋与出球型中卫，要求从后场短传构建进攻。\n- 他彻底改造瑞典队史固有的低位防守传统，围绕伊萨克与吉奥克雷斯的世界级锋线组合打造主动进攻体系。\n- 瑞典近五场战绩为2胜1平2负，包括3-2击败波兰、3-1战胜乌克兰，但上月热身赛2-2战平希腊、1-3负于挪威。\n- 蒙特雷首战面对拉穆奇执教的突尼斯，波特需解决高位逼抢下的防守平衡问题，避免被对手快速反击惩罚。",
+ "brief": "- 英格兰教练格雷厄姆·波特自2008年开启执教生涯，2025年中途接手瑞典国家队，将托马森时期仅积1分的垫底战绩通过欧国联附加赛逆转为世界杯入场券。\n- 波特以流动性控球哲学革新瑞典战术，弃用传统低位防守，主打3-4-2-1或非对称4-3-3阵型，要求中卫持球推进、边锋内切制造人数优势。\n- 麾下坐拥伊萨克与阿森纳前锋吉奥克雷斯组成的锋线双煞，后者近13场英超攻入9球，二人健康状态成为瑞典进攻保障。\n- 瑞典近五场2胜1平2负，含6月2-2希腊、3-1挪威的友谊赛起伏，但3月世预赛关键战3-2胜波兰、3-1客胜乌克兰展现硬仗能力。\n- 蒙特雷首战对阵拉穆奇的突尼斯，波特面临高位逼抢与防守平衡的矛盾，需避免中路失误遭对手快速反击惩罚。",
  "brief_qc": {
   "dirty": false,
   "verbose": false,
   "need_fix": false,
-  "keep_ratio": 0.95,
+  "keep_ratio": 0.92,
   "issues": []
  },
  "brief_fetched": "2026-06-14_1420",
@@ -25,7 +25,29 @@
   "canonical": "Graham Potter",
   "confidence": "high",
   "discrepancy": "",
-  "sources_agree": 6,
+  "sources_agree": 7,
   "n_sources": 8
+ },
+ "brief_basis": {
+  "coach": "格雷厄姆·波特/Graham Potter",
+  "mention_urls": [
+   "https://deadspin.com/alexander-isak-viktor-gyokeres-make-swedens-world-cup-roster/",
+   "https://fieldlevelmedia.com/news/alexander-isak-viktor-gyokeres-make-swedens-world-cup-roster/",
+   "https://heavy.com/sports/soccer/world-cup/sweden-announces-squad-fifa-world-cup/",
+   "https://onefootball.com/en/news/leeds-gabriel-gudmundsson-ill-and-doubtful-for-world-cup-opener-after-missing-sweden-training-43005241",
+   "https://sports.yahoo.com/articles/sweden-vs-tunisia-picks-predictions-170244839.html",
+   "https://sports.yahoo.com/articles/sweden-vs-tunisia-prediction-world-145500749.html",
+   "https://www.espn.com/soccer/story/_/id/49038031/sweden-vs-tunisia-fifa-world-cup-2026-tv-channel-how-watch-kick-live-stream-injury-predicted-line-ups",
+   "https://www.fotmob.com/news/1xjd2xary5ves19vtxv63t31pl-isak-headlines-swedens-world-cup-squad-bardghji-kulusevski-absent",
+   "https://www.freemalaysiatoday.com/category/sports/2026/05/14/isak-and-gyokeres-make-swedens-world-cup-roster",
+   "https://www.goal.com/en-us/lists/world-cup-dejan-kulusevski-injury-tottenham-sweden-viktor-gyokeres-alexander-isak/bltd56651aa57664624",
+   "https://www.goal.com/en/lists/world-cup-dejan-kulusevski-injury-tottenham-sweden-viktor-gyokeres-alexander-isak/bltd56651aa57664624",
+   "https://www.goal.com/en/news/sweden-tunisia-world-cup-preview/blt584be5c94454e77c",
+   "https://www.sportbible.com/football/football-news/fifa-world-cup/spurs-dejan-kulusevski-sweden-world-cup-062753-20260528",
+   "https://www.sportsmole.co.uk/football/sweden/world-cup-2026/predicted-lineups/the-sickness-bug-strikes-predicted-sweden-xi-vs-tunisia_599046.html",
+   "https://www.sportsmole.co.uk/football/sweden/world-cup-2026/preview/sweden-vs-tunisia-prediction-team-news-lineups_599031.html",
+   "https://www.yardbarker.com/soccer/articles/alexander_isak_viktor_gyokeres_make_swedens_world_cup_roster/s1_17184_43838850",
+   "https://www.yorkshireeveningpost.co.uk/sport/football/leeds-united/leeds-united-gabriel-gudmundsson-illness-sweden-world-cup-8687509"
+  ]
  }
 }

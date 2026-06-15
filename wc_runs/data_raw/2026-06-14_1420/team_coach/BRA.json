@@ -11,13 +11,18 @@
  "fetched": "2026-06-13_0748",
  "history": [],
  "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
- "brief": "- 意大利教练卡洛·安切洛蒂自1995年执教，2026世界杯周期接手巴西，成为1925年以来首位外籍主帅。\n- 接替多里瓦尔·儒尼奥尔的任命颇具争议，但其俱乐部履历被公认为卓越。\n- 合同已续签至2030年，5月18日在里约公布世界杯26人名单。\n- 内马尔时隔两年半回归，但缺席5月31日对巴拿马、6月6日对埃及的赛前热身赛。\n- 内马尔在安切洛蒂麾下零出场，若最终伤退，切尔西前锋若昂·佩德罗是24小时截止期限前最可能替补。\n- 需解决全明星攻击线磨合难题，内马尔自2022世界杯后仅踢了4场国家队比赛。",
+ "brief": "- 意大利教练卡洛·安切洛蒂自1995年开启执教生涯，2026年世界杯周期出任巴西主帅，成为1925年来首位外籍教头，合同已续签至2030年。\n- 5月18日于里约公布26人世界杯名单，内马尔在缺阵两年半后回归，但将缺席5月31日对巴拿马、6月6日对埃及的赛前热身赛。\n- 内马尔自安切洛蒂上任后零出场，2022年世界杯后仅踢4场国家队比赛，若无法恢复需在世界杯开赛前24小时确定替换人选。\n- 切尔西前锋若昂·佩德罗是主要替代候选，安切洛蒂需解决全明星攻击群磨合问题，其俱乐部执教履历备受认可。",
  "brief_qc": {
   "dirty": false,
   "verbose": false,
   "need_fix": false,
-  "keep_ratio": 0.95,
-  "issues": []
+  "keep_ratio": 0.78,
+  "issues": [
+   "1995年执教史背景冗余",
+   "1925年外籍教头史背景冗余",
+   "合同至2030年信息冗余",
+   "执教履历认可表述主观"
+  ]
  },
  "brief_fetched": "2026-06-14_1420",
  "brief_info_chars": 1701,
@@ -25,7 +30,30 @@
   "canonical": "Carlo Ancelotti",
   "confidence": "high",
   "discrepancy": "",
-  "sources_agree": 4,
+  "sources_agree": 3,
   "n_sources": 8
+ },
+ "brief_basis": {
+  "coach": "卡洛·安切洛蒂/Carlo Ancelotti",
+  "mention_urls": [
+   "https://sports.yahoo.com/articles/neymar-play-world-cup-2026-092002054.html",
+   "https://sports.yahoo.com/articles/neymar-playing-vs-morocco-latest-083001270.html",
+   "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/brazil-loses-neymar-for-world-cup-opener-as-carlo-ancelotti-reveals-his-return-date-2026-06-13",
+   "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/wesley-suffers-injury-as-brazil-names-replacement-for-fifa-world-cup-squad-2026-06-07",
+   "https://www.cbssports.com/soccer/news/brazil-at-2026-world-cup-everything-to-know-vini-jr-neymar-ancelotti/",
+   "https://www.cbssports.com/soccer/news/fifa-world-cup-rosters-neymar-makes-brazils-26-man-squad-2026/",
+   "https://www.espn.com/soccer/story/_/id/48572979/2026-fifa-world-cup-injuries-tracker-which-stars-miss-latest-info",
+   "https://www.espn.com/soccer/story/_/id/48922562/brazil-carlo-ancelotti-neymar-injury-2026-world-cup",
+   "https://www.espn.com/soccer/story/_/id/49026946/fifa-world-cup-2026-brazil-vs-morocco-kickoff-how-watch-stats-team-news",
+   "https://www.foxsports.com/stories/soccer/brazil-says-neymar-sidelined-by-a-calf-injury-isnt-traveling-for-an-exhibition-game-vs-egypt",
+   "https://www.goal.com/en/lists/brazil-world-cup-injury-news-neymar-carlo-ancelotti-egypt-friendly/blt14a5b98e48cb2d26",
+   "https://www.olympics.com/en/news/fifa-world-cup-2026-brazil-players-squad-list-key-stats-schedule",
+   "https://www.rotowire.com/soccer/article/brazil-vs-morocco-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-c-117816",
+   "https://www.si.com/soccer/neymar-injury-timeline-brazil-matches-miss-2026-world-cup",
+   "https://www.skysports.com/football/news/11095/13543070/world-cup-2026-squad-lists-england-scotland-brazil-usa-spain-france-germany-netherlands-argentina-portugal-and-more",
+   "https://www.sportsmole.co.uk/football/brazil/world-cup-2026/predicted-lineups/right-back-dilemma-for-ancelotti-predicted-brazil-lineup-vs-morocco_598949.html",
+   "https://www.sportsmole.co.uk/football/brazil/world-cup/feature/brazil-2026-world-cup-preview-squad-fixtures-and-prediction_598785.html",
+   "https://www.tntsports.co.uk/betting/tips/brazil-vs-morocco-prediction-tips-and-odds-world-cup-2026/"
+  ]
  }
 }

@@ -93,7 +93,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--snapshot", required=True)
     ap.add_argument("--teams", default="ALL")
-    ap.add_argument("--workers", type=int, default=8)
+    ap.add_argument("--workers", type=int, default=16)
     a = ap.parse_args()
     teams = ([t.strip() for t in a.teams.split(",")] if a.teams != "ALL" else
              sorted(os.path.basename(d.rstrip("/")) for d in glob.glob(f"{RUNS}/team_data/{a.snapshot}/*/")

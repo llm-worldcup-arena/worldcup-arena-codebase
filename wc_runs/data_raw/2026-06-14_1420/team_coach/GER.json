@@ -11,7 +11,7 @@
  "fetched": "2026-06-13_0748",
  "history": [],
  "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
- "brief": "- 尤利安·纳格尔斯曼（Julian Nagelsmann），西德国籍，2016年开启执教生涯，现任德国国家队主教练。\n- 率队出征2026世界杯，球队此前连续两届世界杯（2018、2022）小组赛出局，本届背负巨大压力。\n- 世界杯前热身赛豪取九连胜，包括4-0胜芬兰、2-1胜美国，竞技状态正佳。\n- 拜仁18岁小将伦纳特·卡尔训练中受伤退出，预计缺阵四至六周，RB莱比锡的阿桑·韦德拉奥果紧急入替。\n- 40岁复出的诺伊尔将首发对阵库拉索，纳撒尼尔·布朗已超越大卫·劳姆成为左后卫首选。",
+ "brief": "- 尤利安·纳格尔斯曼，德国人，2016年开启执教生涯，现任德国国家队主帅，正率队征战2026年世界杯。\n- 接手连续两届世界杯小组出局的德国队后，带队取得9连胜，热身赛4-0芬兰、2-1美国，状态强势反弹。\n- 世界杯首战前折损18岁边锋卡尔（预计伤停4-6周），紧急征召RB莱比锡中场奥埃德劳戈入替。\n- 阵容抉择引关注：40岁复出的诺伊尔将首发门将，萨内有望锁定右边锋，左后卫位置竞争激烈。\n- 德国与库拉索、科特迪瓦、厄瓜多尔同处E组，6月14日首战对阵世界排名第82位的世界杯新军库拉索。",
  "brief_qc": {
   "dirty": false,
   "verbose": false,
@@ -22,10 +22,29 @@
  "brief_fetched": "2026-06-14_1420",
  "brief_info_chars": 6000,
  "coach_xverify": {
-  "canonical": "尤利安·纳格尔斯曼",
+  "canonical": "尤利安·纳格尔斯曼/Julian Nagelsmann",
   "confidence": "high",
   "discrepancy": "",
   "sources_agree": 3,
   "n_sources": 8
+ },
+ "brief_basis": {
+  "coach": "尤利安·纳格尔斯曼/Julian Nagelsmann",
+  "mention_urls": [
+   "https://bulinews.com/germany-curacao-preview-team-news-and-predicted-lineups",
+   "https://bulinews.com/nagelsmann-confirms-neuer-return-start-germany-world-cup-opener-against-curacao",
+   "https://bulinews.com/neuer-returns-team-training-germany-goalkeeper-targets-curacao-comeback",
+   "https://sports.yahoo.com/articles/germany-vs-cura-ao-prediction-145000988.html",
+   "https://www.aljazeera.com/sports/2026/5/31/germany-world-cup-2026-team-preview-players-to-watch-group-and-squad-list",
+   "https://www.bundesliga.com/en/bundesliga/news/manuel-neuer-julian-nagelsmann-world-cup-opener-germany-curacao-oliver-baumann-37733",
+   "https://www.espn.com/soccer/story/_/id/48977173/lennart-karl-injured-germany-training-miss-world-cup",
+   "https://www.espn.com/soccer/story/_/id/49055167/manuel-neuer-fit-start-germany-curacao-nagelsmann",
+   "https://www.fourfourtwo.com/team/germany-world-cup-2026-squad",
+   "https://www.goal.com/en/lists/jamal-musiala-julian-nagelsmann-bayern-munich-star-world-cup-hopes-amid-injury-struggles/blt27f762e484d44ad7",
+   "https://www.goal.com/en/lists/obvious-problem-lennart-karl-s-injury-shock-is-set-to-ignite-fierce-debate-at-fc-bayern/blt93fe2eecfc42f6c3",
+   "https://www.rotowire.com/soccer/article/germany-vs-curacao-preview-predicted-lineups-team-news-tactical-analysis-2026-world-cup-group-e-117956",
+   "https://www.sportsmole.co.uk/football/germany/world-cup-2026/predicted-lineups/neuers-return-how-germany-could-line-up-against-curacao_599049.html",
+   "https://www.sportsmole.co.uk/football/germany/world-cup-2026/preview/germany-vs-curacao-prediction-team-news-lineups_599044.html"
+  ]
  }
 }

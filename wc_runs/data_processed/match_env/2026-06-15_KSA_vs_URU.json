@@ -1,0 +1,41 @@
+{
+ "match": {
+  "slug": "2026-06-15_KSA_vs_URU",
+  "date": "2026-06-15",
+  "home": "KSA",
+  "away": "URU",
+  "round": "group",
+  "group": "H"
+ },
+ "kickoff": {
+  "美东": "2026-06-15T18:00:00-04:00",
+  "北京": "06-16 06:00"
+ },
+ "venue": {
+  "name": "Hard Rock Stadium",
+  "city": "Miami Gardens, Florida",
+  "altitude_m": 3,
+  "roof": "open",
+  "surface": "grass"
+ },
+ "weather": {
+  "开球时段": {
+   "温度C": 25.8,
+   "体感C": 29.5,
+   "降水概率%": 29,
+   "降水mm": 0.0,
+   "风速kmh": 11.8,
+   "湿度%": 84,
+   "天况": "阴"
+  },
+  "source": "open-meteo(免费预报API)",
+  "fetched": "2026-06-15_1624",
+  "_note": "临近开球建议 --refresh 刷新"
+ },
+ "referee": {
+  "name": "Maurizio Mariani(意大利)",
+  "source": "WebSearch(FIFA官方指派)",
+  "fetched": "2026-06-15_1624"
+ },
+ "_note": "环境=比赛+时间+地点 确定;天气为开球时段;顶棚 retractable/fixed-canopy 时天气影响有限。"
+}

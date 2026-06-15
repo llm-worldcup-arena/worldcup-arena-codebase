@@ -1,0 +1,46 @@
+{
+ "team": "URU",
+ "coach": {
+  "name_zh": "馬些路·比爾沙",
+  "name_en": "Marcelo Bielsa",
+  "nationality": "Argentina",
+  "career_since": "1987",
+  "person_id": "per_marcelo_bielsa"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 阿根廷教頭馬些路·比爾沙自1987年執教，現掌烏拉圭國家隊，率隊以2026世界盃南美區預選賽第四名直接晉級決賽圈。\n- 烏拉圭自3月友誼賽後再無賽事，先後1-1戰平英格蘭、0-0悶和阿爾及利亞，備戰期長達近三個月。\n- 世界盃開賽前，巴塞隆納後衛阿勞霍因肌肉傷勢返俱樂部治療，其兄在Instagram公開批評「感謝比爾沙在世界盃前讓球員受傷」，引發輿論風波。\n- 阿勞霍極可能缺席首戰沙烏地阿拉伯，醫療團隊目標是讓他趕上對維德角或西班牙的後續小組賽。\n- 除阿勞霍外，隊長吉梅內斯本季已三度肌肉傷病僅出賽25場，卡塞雷斯仍有腦震盪後遺症，後防線面臨嚴重人員短缺。\n- 烏拉圭被分入H組，同組對手包括沙烏地阿拉伯、維德角以及擁有八名巴塞隆納球員的西班牙，小組賽將於美加墨聯合舉辦的世界盃中展開。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.9,
+  "issues": [
+   "其兄Instagram批评略显八卦"
+  ]
+ },
+ "brief_fetched": "2026-06-14_1727",
+ "brief_info_chars": 4663,
+ "coach_xverify": {
+  "canonical": "Marcelo Bielsa",
+  "confidence": "high",
+  "discrepancy": "",
+  "sources_agree": 6,
+  "n_sources": 8
+ },
+ "brief_basis": {
+  "coach": "馬些路·比爾沙/Marcelo Bielsa",
+  "mention_urls": [
+   "https://sports.yahoo.com/articles/barcelona-star-ronald-araujo-suffers-081828998.html",
+   "https://www.barcablaugranes.com/barcelona-internationals/122838/barcelona-star-ronald-araujo-suffers-injury-before-world-cup-2026-as-uruguay-issue-statement",
+   "https://www.barcablaugranes.com/barcelona-internationals/122929/thanks-for-injuring-players-ronald-araujos-brother-takes-aim-at-marcelo-bielsa-ahead-of-world-cup-2026",
+   "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/marcelo-bielsa-s-official-uruguay-squad-for-the-2026-fifa-world-cup-2026-05-31",
+   "https://www.goal.com/en-us/lists/uruguay-squad-world-cup-2026/blt1c90800c54756d7d",
+   "https://www.rotowire.com/soccer/headlines/ronald-araujo-injury-targeting-spain-clash-518907",
+   "https://www.si.com/soccer/uruguay-2026-world-cup-roster-confirmed-full-list-players",
+   "https://www.upi.com/Sports_News/Soccer/2026/06/10/World-Cup-injuries-Spain-Argentina-Iceland/4671780927848/"
+  ]
+ }
+}

@@ -14,9 +14,10 @@
 - raw 写入:子项目 raws/ 同时归档一份进 data_raw/<该场收集时分>/match_broadcast/<场次>/
   (用户定:要写入,因为块A吃所有信息;archive_broadcast_raws() 自动做,幂等只增不改)。
 """
-import os, re, json, shutil
+import os, sys, re, json, shutil
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+sys.path.insert(0, f"{ROOT}/wc_eval")   # 便于缺 plong 时 import predictable_long 当场补生成
 RUNS = f"{ROOT}/wc_runs"
 TEAM_DATA = f"{RUNS}/team_data"
 HDR = "## 世界杯 2026 · 专项整理"
@@ -29,13 +30,34 @@ def _filter_maint(text):
                      if not any(k in l for k in _MAINT) and not l.strip().startswith("<!--")).strip()
 
 
+def _ensure_plong(bc_dir):
+    """返回块B 要读的 long 文件路径:优先 long_predictable.md(可预测版)。
+    **缺 plong 但有 long.md → 当场补生成一份(堵降级口),补生成失败才退回原始 long.md;两者都没有→None。**
+    (旧逻辑是缺 plong 默默用原始情感版 long——又长、还可能漏未来信息进块B;故改为当场补。)"""
+    plong_p = f"{bc_dir}/ours/long_predictable.md"
+    long_p = f"{bc_dir}/ours/long.md"
+    if os.path.exists(plong_p):
+        return plong_p
+    if not os.path.exists(long_p):
+        return None
+    tag = os.path.basename(bc_dir.rstrip("/"))
+    try:
+        from wc_llm import predictable_long
+        plong = predictable_long(open(long_p, encoding="utf-8").read())["plong"]
+        open(plong_p, "w", encoding="utf-8").write(
+            "<!-- 可预测版 long:块B 摘录时缺此版,已当场补生成(predictable_long)。-->\n\n" + plong)
+        print(f"  ⚠️ {tag} 缺 plong → 已当场补生成")
+        return plong_p
+    except Exception as e:
+        print(f"  ⚠️ {tag} 缺 plong 且补生成失败({e})→ 退回原始 long.md")
+        return long_p
+
+
 def _long_excerpt(bc_dir):
-    """long 叙事正文:**优先取 long_predictable.md(可预测版:硬信息全留、情感高度概括)**,无则退回 long.md。
+    """long 叙事正文:优先取 long_predictable.md(可预测版);缺则当场补生成(见 _ensure_plong)。
     ① 到「### 来源」前;去 ④阵容长名单;##/### 降级 ####/#####;滤维护行。"""
-    p = f"{bc_dir}/ours/long_predictable.md"
-    if not os.path.exists(p):
-        p = f"{bc_dir}/ours/long.md"
-    if not os.path.exists(p):
+    p = _ensure_plong(bc_dir)
+    if not p:
         return None
     t = open(p, encoding="utf-8").read()
     i, j = t.find("## ①"), t.find("### 来源")

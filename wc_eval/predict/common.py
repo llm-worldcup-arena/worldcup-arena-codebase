@@ -223,6 +223,11 @@ _HANDICAP = {
     ("CIV", "ECU"): +0.5,    # 厄瓜多尔(客)让 0.5(ML 厄 +135 微favorite vs 科特迪瓦 +270;ECU -0.5 goal line -130;CBS/oddspedia)
     ("NED", "JPN"): -0.5,    # 荷兰 -0.5(AH 荷 -0.5 -104/-115;ESPN/Yahoo/Covers)
     ("SWE", "TUN"): -0.5,    # 瑞典 -0.5(ML 瑞 -115;AH 瑞 -0.5 -119;ESPN/Covers/Lineups)
+    # —— 6/15(多源核对 2026-06-15) ——
+    ("KSA", "URU"): +1.0,    # 乌拉圭(客)让1(URU -220 ML / AH -1.25,取整1评分线;OddsShark/SportsLine/ESPN)
+    ("ESP", "CPV"): -2.0,    # 西班牙 -2(ESP -1250 ML 巨热 vs CPV首秀;WH -2@17/20,区间-1.5~-2.5;FOX/CBS)
+    ("IRN", "NZL"): -0.5,    # 伊朗 -0.5(IRN -118/-120 ML 小热;FanDuel/bet365/ESPN)
+    ("BEL", "EGY"): -0.5,    # 比利时 -0.5(BEL -150 ML;bet365/FOX/Ladbrokes)
 }
 
 

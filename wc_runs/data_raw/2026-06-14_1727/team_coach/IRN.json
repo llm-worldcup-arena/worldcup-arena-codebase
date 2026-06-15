@@ -1,0 +1,43 @@
+{
+ "team": "IRN",
+ "coach": {
+  "name_zh": "阿米尔·加勒诺",
+  "name_en": "Amir Ghalenoei",
+  "nationality": "Imperial State of Iran",
+  "career_since": "1999",
+  "person_id": "per_amir_ghalenoei"
+ },
+ "source": "data_reference(collect_coaches.py 维基采集,赛前)",
+ "fetched": "2026-06-13_0748",
+ "history": [],
+ "_note": "现任主帅;换帅经 --set 更新(旧任压进 history,只增不改)。下游:match_header 主帅行。",
+ "brief": "- 伊朗籍教练阿米尔·加勒诺伊自1999年开启执教生涯，2023年3月第二次入主伊朗国家队（首次为2006-2007年），目标打破队史六届世界杯均止步小组赛的魔咒。\n- 他率队在2026世界杯预选赛亚洲区第三轮A组以23分头名出线，提前四轮锁定资格，期间将主场打造成不败堡垒并展现客场高压纪律性。\n- 战术层面惯用4-2-3-1或4-3-3阵型，强调防守稳固与中路逼抢，要求夺回球权后立即纵向直传撕开防线，摒弃无效横传控制。\n- 成功完成球队代际过渡，围绕塔雷米等旅欧精英构建攻击体系，其直接沟通风格与防守优化能力获亚洲足坛广泛认可。\n- 2026年世界杯G组将迎战比利时、埃及与新西兰，首战对阵新西兰需警惕年轻对手冲击经验丰富但年龄偏大的防线。\n- 目前26人名单无伤病停赛，全队氛围高度聚焦实现首次晋级淘汰赛的历史突破。",
+ "brief_qc": {
+  "dirty": false,
+  "verbose": false,
+  "need_fix": false,
+  "keep_ratio": 0.95,
+  "issues": []
+ },
+ "brief_fetched": "2026-06-14_1727",
+ "brief_info_chars": 6000,
+ "coach_xverify": {
+  "canonical": "Amir Ghalenoei",
+  "confidence": "high",
+  "discrepancy": "",
+  "sources_agree": 7,
+  "n_sources": 8
+ },
+ "brief_basis": {
+  "coach": "阿米尔·加勒诺/Amir Ghalenoei",
+  "mention_urls": [
+   "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/ir-iran-squad-named",
+   "https://www.flashscore.com/news/soccer-world-championship-taremi-and-jahanbakhsh-lead-iran-s-world-cup-squad-with-azmoun-overlooked/pGYQ1OUq/",
+   "https://www.foxnews.com/sports/sardar-azmoun-known-iranian-messi-left-countrys-world-cup-squad-accused-treason",
+   "https://www.goal.com/en/lists/iran-squad-world-cup-2026/blt67c2d5d938254c59",
+   "https://www.goal.com/en/news/iran-new-zealand-world-cup-preview/bltf4f1b599c87b9982",
+   "https://www.persianfootball.com/news/2026/06/01/iran-2026-world-cup-squad-announced/",
+   "https://www.telecomasia.net/blog/iran-at-fifa-world-cup-2026/"
+  ]
+ }
+}

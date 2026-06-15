@@ -130,7 +130,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--ts", required=True)
     ap.add_argument("--teams", default="ALL")
-    ap.add_argument("--workers", type=int, default=8)
+    ap.add_argument("--workers", type=int, default=16)
     ap.add_argument("--refresh", action="store_true", help="强制重生成(忽略'无变化'判断)")
     a = ap.parse_args()
     teams = sorted(os.path.basename(p)[:-5] for p in glob.glob(f"{COACH}/*.json")) if a.teams == "ALL" \
