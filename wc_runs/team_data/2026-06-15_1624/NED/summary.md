@@ -71,6 +71,7 @@
 | 2026-06-14 | JPN | AT&T Stadium | Arlington, Texas |
 | 2026-06-20 | SWE | NRG Stadium | Houston |
 | 2026-06-25 | TUN | Arrowhead Stadium | Kansas City, Missouri |
+| 2026-06-14 | 主 | JPN | 2-2 | 世界杯·F组 |
 
 注：荷兰首战即对阵组内最强的日本，开局成色将很大程度决定小组走势；其后对瑞典、突尼斯两战是争取小组第一、抢占淘汰赛有利对阵的关键。
 

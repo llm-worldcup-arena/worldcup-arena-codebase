@@ -1,0 +1,376 @@
+{
+ "match_id": 4697705,
+ "date": "2026-06-14",
+ "comp": "小组赛·F组",
+ "ha_home": "中",
+ "home": "Sweden",
+ "away": "Tunisia",
+ "score": "5-1",
+ "venue": "Estadio BBVA (Guadalupe)",
+ "attendance": 50987,
+ "goals": [
+  {
+   "min": 7,
+   "side": "home",
+   "player": "Yasin Ayari",
+   "sub": null
+  },
+  {
+   "min": 30,
+   "side": "home",
+   "player": "Alexander Isak",
+   "sub": null
+  },
+  {
+   "min": 43,
+   "side": "away",
+   "player": "Omar Rekik",
+   "sub": null
+  },
+  {
+   "min": 59,
+   "side": "home",
+   "player": "Viktor Gyökeres",
+   "sub": null
+  },
+  {
+   "min": 84,
+   "side": "home",
+   "player": "Mattias Svanberg",
+   "sub": null
+  },
+  {
+   "min": 90,
+   "side": "home",
+   "player": "Yasin Ayari",
+   "sub": null
+  }
+ ],
+ "cards": [
+  {
+   "min": 54,
+   "side": "away",
+   "player": "Rani Khedira",
+   "type": "黄牌"
+  }
+ ],
+ "stats": {
+  "射门": [
+   "13",
+   "6"
+  ],
+  "射正": [
+   "7",
+   "2"
+  ],
+  "禁区内射门": [
+   "3",
+   "3"
+  ],
+  "扑救": [
+   "3",
+   "1"
+  ],
+  "角球": [
+   "4",
+   "2"
+  ],
+  "越位": [
+   "3",
+   "6"
+  ],
+  "控球%": [
+   "49%",
+   "51%"
+  ],
+  "传中": [
+   "85",
+   "90"
+  ],
+  "传球": [
+   "278",
+   "292"
+  ],
+  "xG预期进球": [
+   "0.56",
+   "0.45"
+  ],
+  "xGOT/大机会": [
+   "2.12",
+   "0.35"
+  ]
+ },
+ "lineups": {
+  "home": [
+   {
+    "no": 23,
+    "name": "Kristoffer Nordfeldt"
+   },
+   {
+    "no": 3,
+    "name": "Victor Lindelof"
+   },
+   {
+    "no": 4,
+    "name": "Isak Hien"
+   },
+   {
+    "no": 2,
+    "name": "Gustaf Lagerbielke"
+   },
+   {
+    "no": 16,
+    "name": "Jesper Karlström"
+   },
+   {
+    "no": 5,
+    "name": "Gabriel Gudmundsson"
+   },
+   {
+    "no": 21,
+    "name": "Alexander Bernhardsson"
+   },
+   {
+    "no": 18,
+    "name": "Yasin Ayari"
+   },
+   {
+    "no": 10,
+    "name": "Benjamin Nygren"
+   },
+   {
+    "no": 9,
+    "name": "Alexander Isak"
+   },
+   {
+    "no": 17,
+    "name": "Viktor Gyökeres"
+   },
+   {
+    "no": 7,
+    "name": "Lucas Bergvall"
+   },
+   {
+    "no": 11,
+    "name": "Anthony Elanga"
+   },
+   {
+    "no": 24,
+    "name": "Elliot Stroud"
+   },
+   {
+    "no": 19,
+    "name": "Mattias Svanberg"
+   },
+   {
+    "no": 8,
+    "name": "Daniel Svensson"
+   },
+   {
+    "no": 26,
+    "name": "Taha Ali"
+   },
+   {
+    "no": 14,
+    "name": "Hjalmar Ekdal"
+   },
+   {
+    "no": 12,
+    "name": "Viktor Johansson"
+   },
+   {
+    "no": 6,
+    "name": "Herman Johansson"
+   },
+   {
+    "no": 25,
+    "name": "Gustaf Nilsson"
+   },
+   {
+    "no": 13,
+    "name": "Ken Sema"
+   },
+   {
+    "no": 20,
+    "name": "Eric Smith"
+   },
+   {
+    "no": 15,
+    "name": "Carl Starfelt"
+   },
+   {
+    "no": 1,
+    "name": "Jacob Zetterström"
+   },
+   {
+    "no": 22,
+    "name": "Besfort Zeneli"
+   }
+  ],
+  "away": [
+   {
+    "no": 1,
+    "name": "Abdelmouhib Chamakh"
+   },
+   {
+    "no": 21,
+    "name": "Mohamed Amine Ben Hamida"
+   },
+   {
+    "no": 3,
+    "name": "Montassar Talbi"
+   },
+   {
+    "no": 4,
+    "name": "Omar Rekik"
+   },
+   {
+    "no": 2,
+    "name": "Ali Abdi"
+   },
+   {
+    "no": 20,
+    "name": "Yan Valery"
+   },
+   {
+    "no": 10,
+    "name": "Hannibal Mejbri"
+   },
+   {
+    "no": 17,
+    "name": "Ellyes Skhiri"
+   },
+   {
+    "no": 13,
+    "name": "Rani Khedira"
+   },
+   {
+    "no": 25,
+    "name": "Anis Ben Slimane"
+   },
+   {
+    "no": 8,
+    "name": "Elias Saad"
+   },
+   {
+    "no": 7,
+    "name": "Elias Achouri"
+   },
+   {
+    "no": 15,
+    "name": "Hadj Mahmoud"
+   },
+   {
+    "no": 19,
+    "name": "Firas Chaouat"
+   },
+   {
+    "no": 11,
+    "name": "Ismaël Gharbi"
+   },
+   {
+    "no": 26,
+    "name": "Sebastian Tounekti"
+   },
+   {
+    "no": 5,
+    "name": "Adem Arous"
+   },
+   {
+    "no": 14,
+    "name": "Khalil Ayari"
+   },
+   {
+    "no": 22,
+    "name": "Sabri Ben Hessen"
+   },
+   {
+    "no": 12,
+    "name": "Mortadha Ben Ouanes"
+   },
+   {
+    "no": 6,
+    "name": "Dylan Bronn"
+   },
+   {
+    "no": 24,
+    "name": "Raed Chikhaoui"
+   },
+   {
+    "no": 16,
+    "name": "Aymen Dahmen"
+   },
+   {
+    "no": 18,
+    "name": "Rayan Elloumi"
+   },
+   {
+    "no": 9,
+    "name": "Hazem Mastouri"
+   },
+   {
+    "no": 23,
+    "name": "Moutaz Neffati"
+   }
+  ]
+ },
+ "missing": [],
+ "events": [
+  {
+   "min": 7,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Yasin Ayari"
+  },
+  {
+   "min": 30,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Alexander Isak"
+  },
+  {
+   "min": 43,
+   "side": "away",
+   "type": "进球",
+   "sub": null,
+   "player": "Omar Rekik"
+  },
+  {
+   "min": 54,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Rani Khedira"
+  },
+  {
+   "min": 59,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Viktor Gyökeres"
+  },
+  {
+   "min": 84,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Mattias Svanberg"
+  },
+  {
+   "min": 90,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Yasin Ayari"
+  }
+ ],
+ "injuries": [],
+ "suspensions": [],
+ "ratings": {},
+ "quotes": [],
+ "narrative": "",
+ "prediction_note": "",
+ "_note": "macheta/Sofascore 权威硬数据；injuries/suspensions/ratings/quotes/narrative/prediction_note 待 agent WebSearch 补。"
+}

@@ -81,6 +81,7 @@
 | 2026-06-14 | GER | NRG Stadium | Houston |
 | 2026-06-20 | ECU | Arrowhead Stadium | Kansas City, Missouri |
 | 2026-06-25 | CIV | Lincoln Financial Field | Philadelphia |
+| 2026-06-14 | 客 | GER | 1-7 | 世界杯·E组 |
 
 注：三个对手 FIFA 排名（10 / 23 / 34）与 Elo（1932 / 1938 / 1695）全面高于库拉索（FIFA 82、Elo 1434），本届库拉索的现实目标是积累世界杯经验、力争创造冷门或拿到队史首分，而非出线。
 

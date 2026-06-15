@@ -7,6 +7,10 @@
 - [⑦] +2条(py-Kimi三判): 6/15 首战西班牙，barcablaugranes 版佛得角预测首发：沃齐尼亚
 **说明**:2026-06-15_1624轮 news_pipeline:新2/进⑦2/拒0/合并-3行
 **检索来源**:barcablaugranes, beinsports
+**块A · summary.md(原结构)**
+- [⑦] +1条(py-Kimi三判): Racing Post版预测首发：4-2-3-1阵型，沃齐尼亚/莫雷拉、科斯塔、
+**说明**:2026-06-15_1624轮 news_pipeline:新3/进⑦1/拒2/合并-2行
+**检索来源**:barcablaugranes, beinsports, racingpost
 
 ## 2026-06-14_1727
 **块A · summary.md(原结构)**

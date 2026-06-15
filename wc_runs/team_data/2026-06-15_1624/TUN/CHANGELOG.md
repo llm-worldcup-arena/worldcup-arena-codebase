@@ -3,6 +3,10 @@
 
 ## 2026-06-15_1624
 **说明**:2026-06-15_1624轮:无新增新闻,summary未动
+**块A · summary.md(原结构)**
+- [近期状态] +1表: | 2026-06-14 | 客 | SWE | 1-5 | 世界杯·F组 |
+**说明**:integrate_match SWE 5-1 TUN
+**检索来源**:macheta(Sofascore), WebSearch叙事补
 
 ## 2026-06-14_1420
 **块A · summary.md(原结构)**

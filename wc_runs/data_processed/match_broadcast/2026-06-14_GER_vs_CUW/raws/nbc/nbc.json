@@ -1,0 +1,24 @@
+{
+ "source": "NBC Sports",
+ "url": "https://www.nbcsports.com/soccer/world-cup/live/germany-vs-curacao-live-updates-score-goals-highlights-stats-2026-fifa-world-cup-june-14",
+ "title": "Germany 7-1 Curacao Nagelsmann's Die Mannschaft hang seven on CONCACAF new boys",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-14",
+  "home": "GER",
+  "away": "CUW",
+  "home_en": "Germany",
+  "away_en": "Curaçao",
+  "home_zh": "德国",
+  "away_zh": "库拉索",
+  "comp": "小组赛·E组",
+  "match_id": "M10",
+  "slug": "2026-06-14_GER_vs_CUW"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Curacao got their moment with the equalizer and it was a terrific \"why we watch\" moment for neutrals, let alone the Blue Wave. But Germany is giving a \"Why we win\" performance, as Nagelsmann's men have 71% possession and turned it into 16 shots with four on target in the first 45. Nmecha has a goal and drew the penalty as Jamal Musiala and Florian Wirtz are enjoying the occasion. https://x.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

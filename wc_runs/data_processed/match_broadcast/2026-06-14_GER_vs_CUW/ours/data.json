@@ -1,0 +1,328 @@
+{
+ "match": {
+  "date": "2026-06-14",
+  "home": "GER",
+  "away": "CUW",
+  "home_en": "Germany",
+  "away_en": "Curaçao",
+  "comp": "小组赛·E组",
+  "venue": "NRG Stadium (Houston)",
+  "attendance": 68021
+ },
+ "score": "7-1",
+ "ht": null,
+ "goals": [
+  {
+   "min": 6,
+   "side": "home",
+   "player": "Felix Nmecha",
+   "sub": null
+  },
+  {
+   "min": 21,
+   "side": "away",
+   "player": "Livano Comenencia",
+   "sub": null
+  },
+  {
+   "min": 38,
+   "side": "home",
+   "player": "Nico Schlotterbeck",
+   "sub": null
+  },
+  {
+   "min": 45,
+   "side": "home",
+   "player": "Kai Havertz",
+   "sub": "点球"
+  },
+  {
+   "min": 47,
+   "side": "home",
+   "player": "Jamal Musiala",
+   "sub": null
+  },
+  {
+   "min": 68,
+   "side": "home",
+   "player": "Nathaniel Brown",
+   "sub": null
+  },
+  {
+   "min": 78,
+   "side": "home",
+   "player": "Deniz Undav",
+   "sub": null
+  },
+  {
+   "min": 88,
+   "side": "home",
+   "player": "Kai Havertz",
+   "sub": null
+  }
+ ],
+ "cards": [],
+ "stats": {
+  "射门": [
+   "26",
+   "8"
+  ],
+  "射正": [
+   "12",
+   "2"
+  ],
+  "禁区内射门": [
+   "6",
+   "6"
+  ],
+  "扑救": [
+   "8",
+   "0"
+  ],
+  "角球": [
+   "8",
+   "1"
+  ],
+  "越位": [
+   "0",
+   "1"
+  ],
+  "控球%": [
+   "65%",
+   "35%"
+  ],
+  "传中": [
+   "125",
+   "56"
+  ],
+  "传球": [
+   "554",
+   "282"
+  ],
+  "xG预期进球": [
+   "3.48",
+   "0.28"
+  ],
+  "xGOT/大机会": [
+   "5.24",
+   "0.5"
+  ]
+ },
+ "lineups": {
+  "home": [
+   {
+    "no": 1,
+    "name": "Manuel Neuer"
+   },
+   {
+    "no": 18,
+    "name": "Nathaniel Brown"
+   },
+   {
+    "no": 15,
+    "name": "Nico Schlotterbeck"
+   },
+   {
+    "no": 4,
+    "name": "Jonathan Tah"
+   },
+   {
+    "no": 6,
+    "name": "Joshua Kimmich"
+   },
+   {
+    "no": 5,
+    "name": "Aleksandar Pavlović"
+   },
+   {
+    "no": 23,
+    "name": "Felix Nmecha"
+   },
+   {
+    "no": 17,
+    "name": "Florian Wirtz"
+   },
+   {
+    "no": 10,
+    "name": "Jamal Musiala"
+   },
+   {
+    "no": 19,
+    "name": "Leroy Sané"
+   },
+   {
+    "no": 7,
+    "name": "Kai Havertz"
+   },
+   {
+    "no": 3,
+    "name": "Waldemar Anton"
+   },
+   {
+    "no": 8,
+    "name": "Leon Goretzka"
+   },
+   {
+    "no": 22,
+    "name": "David Raum"
+   },
+   {
+    "no": 2,
+    "name": "Antonio Rüdiger"
+   },
+   {
+    "no": 26,
+    "name": "Deniz Undav"
+   },
+   {
+    "no": 20,
+    "name": "Nadiem Amiri"
+   },
+   {
+    "no": 12,
+    "name": "Oliver Baumann"
+   },
+   {
+    "no": 14,
+    "name": "Maximilian Beier"
+   },
+   {
+    "no": 13,
+    "name": "Pascal Gross"
+   },
+   {
+    "no": 9,
+    "name": "Jamie Leweling"
+   },
+   {
+    "no": 21,
+    "name": "Alexander Nübel"
+   },
+   {
+    "no": 25,
+    "name": "Assan Ouédraogo"
+   },
+   {
+    "no": 16,
+    "name": "Angelo Stiller"
+   },
+   {
+    "no": 24,
+    "name": "Malick Thiaw"
+   },
+   {
+    "no": 11,
+    "name": "Nick Woltemade"
+   }
+  ],
+  "away": [
+   {
+    "no": 1,
+    "name": "Eloy Room"
+   },
+   {
+    "no": 24,
+    "name": "Deveron Fonville"
+   },
+   {
+    "no": 18,
+    "name": "Armando Obispo"
+   },
+   {
+    "no": 23,
+    "name": "Riechedly Bazoer"
+   },
+   {
+    "no": 5,
+    "name": "Sherel Floranus"
+   },
+   {
+    "no": 7,
+    "name": "Juninho Bacuna"
+   },
+   {
+    "no": 10,
+    "name": "Leandro Bacuna"
+   },
+   {
+    "no": 8,
+    "name": "Livano Comenencia"
+   },
+   {
+    "no": 21,
+    "name": "Tahith Chong"
+   },
+   {
+    "no": 12,
+    "name": "Sontje Hansen"
+   },
+   {
+    "no": 9,
+    "name": "Jurgen Locadia"
+   },
+   {
+    "no": 11,
+    "name": "Jeremy Antonisse"
+   },
+   {
+    "no": 19,
+    "name": "Gervane Kastaneer"
+   },
+   {
+    "no": 16,
+    "name": "Jearl Margaritha"
+   },
+   {
+    "no": 25,
+    "name": "Tyrick Bodak"
+   },
+   {
+    "no": 20,
+    "name": "Joshua Brenet"
+   },
+   {
+    "no": 26,
+    "name": "Trevor Doornbusch"
+   },
+   {
+    "no": 22,
+    "name": "Kevin Felida"
+   },
+   {
+    "no": 3,
+    "name": "Juriën Gaari"
+   },
+   {
+    "no": 14,
+    "name": "Kenji Gorre"
+   },
+   {
+    "no": 17,
+    "name": "Brandley Kuwas"
+   },
+   {
+    "no": 15,
+    "name": "Ar'jany Martha"
+   },
+   {
+    "no": 13,
+    "name": "Tyrese Noslin"
+   },
+   {
+    "no": 6,
+    "name": "Godfried Roemeratoe"
+   },
+   {
+    "no": 2,
+    "name": "Shurandy Sambo"
+   },
+   {
+    "no": 4,
+    "name": "Roshon van Eijma"
+   }
+  ]
+ },
+ "missing": [],
+ "source": "Apify macheta（365scores/Opta 级硬数据）",
+ "_note": "结构化硬数据（机器可读）；叙事见 ours/long.md，逐分钟见 ours/timeline.md，简版见 short.md。"
+}

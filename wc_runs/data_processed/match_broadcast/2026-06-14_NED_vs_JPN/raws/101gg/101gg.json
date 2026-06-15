@@ -1,0 +1,24 @@
+{
+ "source": "101 Great Goals",
+ "url": "https://www.101greatgoals.com/football/world-cup-news/netherlands-japan-world-cup-2026-report-result-goals/",
+ "title": "Netherlands 2-2 Japan: World Cup 2026 report, result, goals as intriguing clash lives up to billing",
+ "published": "2026-06-14T23:00:50+01:00",
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-14",
+  "home": "NED",
+  "away": "JPN",
+  "home_en": "Netherlands",
+  "away_en": "Japan",
+  "home_zh": "荷兰",
+  "away_zh": "日本",
+  "comp": "小组赛·F组",
+  "match_id": "M11",
+  "slug": "2026-06-14_NED_vs_JPN"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Japan twice came from behind to draw 2-2 with the Netherlands in what proved to be an enthralling World Cup encounter in Group F in Dallas.\n\nAfter a rather cagey first half between arguably the greatest nation never to win football’s biggest prize and a side many fancy as dark horses this summer, Virgil van Dijk opened the scoring five minutes after the break, only for Japan to draw level through Nakamura.\n\nCrysencio Summerville restored the Dutch advantage shortly after, only for the Asian giants to again square things up in stoppage time courtesy of Daichi Kamada.\n\nThe game, which had been lauded as one the most eye-catching of the tournament so far, ultimately lived up to that billing, producing one of the most entertaining matches so far this summer.\n\nOranje were hoping to begin their tournament brightly, having fallen at the quarter-final stage against eventual winners Argentina four years ago.\n\nAnd they appeared on the front foot from the off. An incisive move inside the opening five minutes saw the ball reach the feet of the in-form Donyell Malen just inside the box. The forward took a touch to find a yard of space before lashing a fierce drive that Zion Suzuki did well to palm over.\n\nWith the Dutch largely dominating possession, Suzuki had to be on hand to deny Malen again, this time from a point-blank header from a corner.\n\nCody Gakpo then blasted over at full stretch from a few yards out before Nakamura had Japan’s clearest sight of goal of the half, but the wing-back dragged his effort wide.\n\nAfter a closely-fought first 45, it took just over five minutes in the second for the deadlock to be broken. From a cross, captain Van Dijk expertly directed his header back across goal, the ball nestling into the back of the net via the inside of the post.\n\nBut barely six minutes later, Japan were level. Following a neat move down their left side, Nakamura made no mistake with his second effort, finishing in style to cancel out the Dutch’s lead.\n\nWith the game beginning opening up, it was then the turn of the Netherlands to hit back. And they did so emphatically through Summerville, the winger curling a fine effort into the far corner to restore the Dutch lead with just over 25 minutes remaining.\n\nTakefusa Kubo then saw a strike fizz narrowly over the bar before Yukinari Sugawara shot straight into the gloves of Bart Verbruggen.\n\nJapan continued to probe for an equaliser and were rewarded for their efforts in added time when substitute Koki Ogawa’s header flicked off Kamada from a corner, leaving Verbruggen to palm the ball into the roof of the net and send the Samurai Blue into raptures.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

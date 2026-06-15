@@ -1,0 +1,24 @@
+{
+ "source": "Sky Sports",
+ "url": "https://www.skysports.com/football/sweden-vs-tunisia/report/549777",
+ "title": "World Cup 2026: Sweden 5-1 Tunisia - Viktor Gyokeres and Alexander Isak guide Graham Potter's side to victory",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-14",
+  "home": "SWE",
+  "away": "TUN",
+  "home_en": "Sweden",
+  "away_en": "Tunisia",
+  "home_zh": "瑞典",
+  "away_zh": "突尼斯",
+  "comp": "小组赛·F组",
+  "match_id": "M12",
+  "slug": "2026-06-14_SWE_vs_TUN"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Alexander Isak and Viktor Gyokeres were in fine form as Sweden cruised to a comfortable 5-1 victory against Tunisia to kickstart their World Cup campaign in Group F. Brighton's Yasin Ayari scored the pick of the goals with two stunning long-range strikes - on either side of the game in the sixth and 96th minutes - but the performances of Sweden's star forwards put the fixture firmly in their control. Shortly after Ayari's first, with his celebrations muted out of respect for the birthplace of his father and a country he could have represented, Isak doubled Sweden's lead in the 40th minute.   Gyokeres laid the ball off to the Liverpool striker near the halfway line before he drove forward, cut in on his right foot and slotted the ball into the bottom-right corner. Omar Rekin halved the deficit for Tunisia just before the break with a glancing header to spark hopes of a comeback (43) but Gyokeres' fine finish quickly restored the two-goal lead (59) after Isak turned provider on this occasion. Substitute Mattias Svanberg, 18 seconds after coming on, then swept a fourth into the back of the net for Sweden as time ticked down (84). The offside flag initially went up, but a lengthy VAR review revealed a slight touch from Isak meant the midfielder had returned to an onside position. A second stunner from Ayari, with this effort too good to mute his celebrations, then rounded off the dominant performance for Graham Potter's side. They sit at the top of Group F following the win after Japan's equaliser in the 89th-minute held Netherlands to a 2-2 draw on Sunday. The key moments from Guadalupe... 7: GOAL! Ayari stunner gives Sweden an early lead after Gyokeres' strike cleared off the line. 30: GOAL! Solo effort from Isak doubles Sweden's advantage - is he getting back to his best? 43: GOAL! Rekik meets Mejbri's cross to halve the deficit for Tunisia with glancing header. 59: GOAL! Gyokeres sweeps third in for Sweden to restore two-goal lead. 84: GOAL! Svanberg goal allowed to stand after VAR review, scoring 18 seconds after coming on. 90+6: GOAL! Ayari scores second stunner to round off dominant win. Analysis: Isak and Gyokeres can cause problems for any defence Gyokeres and Isak became just the second Swedish strike partnership to assist one another at a World Cup following their performance against Tunisia. Managing world-class talent who play in the same position is a headache that often plagues international managers. Ask any England boss across the last 30 years. But the way Isak and Gyokeres combined, throughout the whole game and not just for their goals, will be a welcome sight for Potter. They are two of the finest forwards in world football, capable of causing problems for any defence on their day, and Sweden will need them firing on all cylinders ahead of tough games against Japan and Netherlands. Isak looked sharp and confident on the ball, a welcome sight given the disjointed season he has had with injuries, while Gyokeres looked equally as threatening in the final third. If they continue playing like that, Sweden could be ones to watch this summer. Potter: We still have room to improve Sweden boss Graham Potter speaking to ITV: \"Five goals and solid, we could've scored more. All credit to the players; they were fantastic. \"The boys remained calm and maintained a goal threat. We take the victory. \"There is room to improve but we will enjoy tonight and recover to get ready again.\"",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

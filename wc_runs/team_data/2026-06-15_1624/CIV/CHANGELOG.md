@@ -3,6 +3,10 @@
 
 ## 2026-06-15_1624
 **说明**:2026-06-15_1624轮:无新增新闻,summary未动
+**块A · summary.md(原结构)**
+- [近期状态] +1表: | 2026-06-14 | 主 | ECU | 1-0 | 世界杯·E组 |
+**说明**:integrate_match CIV 1-0 ECU
+**检索来源**:macheta(Sofascore), WebSearch叙事补
 
 ## 2026-06-14_1420
 **块A · summary.md(原结构)**

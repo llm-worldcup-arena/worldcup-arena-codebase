@@ -1,0 +1,24 @@
+{
+ "source": "Athlon Ratings",
+ "url": "https://athlonsports.com/soccer/sweden-tunisia-player-ratings-man-match-world-cup-game",
+ "title": "Sweden vs. Tunisia Player Ratings: Who Was the Man of the Match In the World Cup Game? - Athlon",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-14",
+  "home": "SWE",
+  "away": "TUN",
+  "home_en": "Sweden",
+  "away_en": "Tunisia",
+  "home_zh": "瑞典",
+  "away_zh": "突尼斯",
+  "comp": "小组赛·F组",
+  "match_id": "M12",
+  "slug": "2026-06-14_SWE_vs_TUN"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Sweden vs. Tunisia Player Ratings: Who Was the Man of the Match In the World Cup Game?\nThe final game of Day 4 of the 2026 World Cup saw Sweden vs Tunisia at the Monterrey Stadium.\nSweden defeated Tunisia 5-1 with goals from Yasin Ayari, Alexander Isak, Viktor Gyokeres, and Mattias Svanberg; Omar Rekik scored the only goal for Tunisia.\nSweden took the lead in the 7th minute of the match after a poor mistake by Tunisia’s goalkeeper Abdelmouhib Chamakh. Chamakh tried to catch a loose ball in the box but instead pushed the ball towards Viktor Gyokeres, giving Sweden a chance at goal.\nAfter a missed chance from Gyokeres, the ball goes outside the box, and Yasin Ayari smashed the ball into the net to score Sweden’s first goal of the night and of the tournament.\nYasin Ayari #18 of Sweden scores his team’s first goal during the FIFA World Cup 2026 Group F match between Sweden and Tunisia at Monterrey Stadium on June 14, 2026 in Monterrey, Mexico. (Photo by Manuel Velasquez – FIFA/FIFA via Getty Images)\nPhoto by Manuel Velasquez - FIFA/FIFA via Getty Images\nAlexander Isak scored Sweden’s second goal of the night in the 30th minute with a great run from the left side and shooting at the edge of the box into the bottom corner.\nJust before halftime, Tunisia would get a goal back with a header in the box by defender Omar Rekik.\nIn the second half, Tunisia started strongly and created chances, but it was Sweden who would score again. In the 59th minute, Ellyes Skhiri loses the ball to Isak, and he passes the ball to Gyokeres, who shoots first time to score Sweden’s third goal.\nIn the 84th minute, Mattias Svanberg scored the fourth goal for Sweden 17 seconds after being substituted onto the pitch.\nThe goal was initially disallowed for offside, which he was, but VAR intervened and showed that Isak touched the ball first and reset the play, meaning that Svanberg is onside and the goal was given.\nThe final blow for Tunisia was another strike from Ayari, who scored from outside the box again, and this time he celebrated his goal.\nPlayer Ratings for Sweden and Tunisia (1-10)\nSweden\nKristoffer Nordfeldt – 6\nVictor Nilsson Lindelöf – 6\nIsak Hien – 6\nGustaf Lagerbielke – 6\nGabriel Gudmundsson – 6\nYasin Ayari – 8\nJesper Karlström – 6\nAlexander Bernhardsson – 6\nBenjamin Nygren – 7\nAlexander Isak – 10 (Man of the Match)\nViktor Gyökeres – 9\nSubs: Elliot Stroud (5), Lucas Bergvall (6), Mattias Svanberg (7), Anthony Elanga (N/A)\nTunisia\nAbdelmouhib Chamakh – 3\nAmine Ben Hamida – 5\nMontassar Talbi – 5\nOmar Rekik – 6\nAli Abdi – 6\nHannibal Mejbri – 7\nEllyes Skhiri – 5\nRani Khedira – 5\nYan Valery – 6\nElias Saad – 6\nAnis Ben Slimane – 6\nSubs: Elias Achouri (5), Hadj Mahmoud (5), Sebastian Tounekti (5), Ismael Gharbi (N/A), Firas Chaouat (N/A)\n2026 World Cup Essentials\nAll 16 stadiums hosting 2026 World Cup games\nAll 48 countries qualified for 2026 World Cup\nHas the USA ever won a World Cup?\nWhich country has won the most World Cups?\nWho has scored the most goals in the World Cup?\nWhere is the 2030 World Cup?\nFinal results from every men’s World Cup\nWorld Cup yellow card rules: When do they reset?\nNew 2026 rules explained – offside, VAR changes, more\nThis page may contain affiliate links to legal sports betting, fantasy sports, or predictive market partners. If you sign up, Athlon Sports and The Arena Group may be compensated at no cost to you. Read more about Sports Betting on Athlon Sports.\nAbout the author\nEmmanuel Mendez is a New York-based soccer journalist with over 10 years of experience covering and playing the beautiful game. He provides up-to-date information on breaking news, transfers, and match analysis across MLS, U.S. national teams, and top European leagues.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

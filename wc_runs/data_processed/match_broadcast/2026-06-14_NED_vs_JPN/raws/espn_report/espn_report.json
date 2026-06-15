@@ -1,0 +1,24 @@
+{
+ "source": "ESPN report",
+ "url": "https://www.espn.com/soccer/report/_/gameId/760425",
+ "title": "Netherlands 2-2 Japan (Jun 14, 2026) Game Analysis - ESPN",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-14",
+  "home": "NED",
+  "away": "JPN",
+  "home_en": "Netherlands",
+  "away_en": "Japan",
+  "home_zh": "荷兰",
+  "away_zh": "日本",
+  "comp": "小组赛·F组",
+  "match_id": "M11",
+  "slug": "2026-06-14_NED_vs_JPN"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Japan hit back twice to start their World Cup campaign with an entertaining 2-2 draw against the Netherlands.\nThe Dutch were denied a victory in their the World Cup Group F opener when Koki Ogawa's 88th-minute header took a deflection off Daichi Kamada before going in at the AT&T Stadium in Dallas.\nAfter a drab first half where chances were few and far between, the came to life when an unmarked Virgil van Dijk headed home in the 51st minute from Liverpool teammate Ryan Gravenberch's cross.\nDaichi Kamada celebrates after his goal saw Japan draw with Netherlands.\nMaja Hitij - FIFA/FIFA via Getty Images\nNetherlands' lead lasted just six minutes as Takefusa Kubo passed to Keito Nakamura, who drifted outside the area before rifling low into the net via a ricochet from Jan Paul van Hecke.\nRonald Koeman's side went ahead again in the 64th minute when Crysencio Summerville cut in from the right on to his weaker left foot, ignoring the overlapping Denzel Dumfries, and firing excellently beyond Japan goalkeeper Zion Suzuki and in off the post.\nCrysencio Summerville celebrates scoring the second Netherlands goal.\nEuropa Press Sports/Europa Press via Getty Images\nJapan threw caution to the wind after going behind a second time, with head coach Hajime Moriyasu introducing all five substitutes.\nAnd the move was vindicated as they started to pen back their opponents before the equaliser came in the closing moments.\nA corner from Junya Ito saw fellow substitute Ogawa rise highest in the area and his header took a final telling touch from Kamada, with Dutch goalkeeper Bart Verbruggen only able to parry into his net.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

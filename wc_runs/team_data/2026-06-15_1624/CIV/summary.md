@@ -76,6 +76,7 @@
 | 2026-06-14 | ECU | Lincoln Financial Field | Philadelphia |
 | 2026-06-20 | GER | BMO Field | Toronto |
 | 2026-06-25 | CUW | Lincoln Financial Field | Philadelphia |
+| 2026-06-14 | 主 | ECU | 1-0 | 世界杯·E组 |
 
 注：科特迪瓦三战均无主场之利，且同组有德国、厄瓜多尔两支排名居其之上的对手，出线难度不小；首战对厄瓜多尔的得失，很可能直接决定小组出线走向。
 

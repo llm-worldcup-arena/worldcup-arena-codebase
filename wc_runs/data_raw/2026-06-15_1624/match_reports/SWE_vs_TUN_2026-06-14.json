@@ -1,0 +1,106 @@
+{
+ "date": "2026-06-14",
+ "comp": "世界杯·F组",
+ "home": "SWE",
+ "away": "TUN",
+ "score": "5-1",
+ "ht": null,
+ "ha_home": "主",
+ "goals": [
+  {
+   "min": 7,
+   "side": "home",
+   "player": "Yasin Ayari",
+   "sub": null
+  },
+  {
+   "min": 30,
+   "side": "home",
+   "player": "Alexander Isak",
+   "sub": null
+  },
+  {
+   "min": 43,
+   "side": "away",
+   "player": "Omar Rekik",
+   "sub": null
+  },
+  {
+   "min": 59,
+   "side": "home",
+   "player": "Viktor Gyökeres",
+   "sub": null
+  },
+  {
+   "min": 84,
+   "side": "home",
+   "player": "Mattias Svanberg",
+   "sub": null
+  },
+  {
+   "min": 90,
+   "side": "home",
+   "player": "Yasin Ayari",
+   "sub": null
+  }
+ ],
+ "stats": {
+  "射门": [
+   "13",
+   "6"
+  ],
+  "射正": [
+   "7",
+   "2"
+  ],
+  "禁区内射门": [
+   "3",
+   "3"
+  ],
+  "扑救": [
+   "3",
+   "1"
+  ],
+  "角球": [
+   "4",
+   "2"
+  ],
+  "越位": [
+   "3",
+   "6"
+  ],
+  "控球%": [
+   "49%",
+   "51%"
+  ],
+  "传中": [
+   "85",
+   "90"
+  ],
+  "传球": [
+   "278",
+   "292"
+  ],
+  "xG预期进球": [
+   "0.56",
+   "0.45"
+  ],
+  "xGOT/大机会": [
+   "2.12",
+   "0.35"
+  ]
+ },
+ "cards": [
+  {
+   "min": 54,
+   "side": "away",
+   "player": "Rani Khedira",
+   "type": "黄牌"
+  }
+ ],
+ "injuries": [],
+ "suspensions": [],
+ "quotes": [],
+ "narrative": "- 瑞典 5-1 突尼斯，半场 2-1\n- 阿亚里 7分钟、90+6分钟双响（其父出生于突尼斯）\n- 伊萨克 30分钟进球，于厄克雷斯 59分钟进球，两人互相助攻\n- 突尼斯雷基克 43分钟头球扳回一城\n- 斯万贝里 84分钟替补登场 17-18 秒即破门（VAR 复核取消越位）\n- 赫迪拉 54分钟黄牌，再黄牌将停赛缺席对荷兰\n- 瑞典射门 13-6，射正 7-2，但控球率 49%-51% 略处下风\n- 突尼斯下半场前 15 分钟高压反扑无果，防守漏洞明显\n- 瑞典双前锋联动高效，替补即插即用状态出色\n- 突尼斯门将查马赫首球脱手失误，防线不稳",
+ "prediction_note": ""
+}

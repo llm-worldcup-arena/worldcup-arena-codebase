@@ -71,6 +71,7 @@
 | 2026-06-14 | CIV | Lincoln Financial Field | Philadelphia |
 | 2026-06-20 | CUW | Arrowhead Stadium | Kansas City, Missouri |
 | 2026-06-25 | GER | MetLife Stadium | East Rutherford, New Jersey |
+| 2026-06-14 | 客 | CIV | 0-1 | 世界杯·E组 |
 
 ## ⑤ 阵容全名单（26 人）
 > 号·位置·姓名·全名·年龄·身高·脚·国脚(场/球)·身价·合同·双国籍·加盟现队·俱乐部生涯(出场/进球)·出生地（采集真值；身价/身高/惯用脚来自 Transfermarkt，缺=未采）

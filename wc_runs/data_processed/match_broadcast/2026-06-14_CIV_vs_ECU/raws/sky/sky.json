@@ -1,0 +1,24 @@
+{
+ "source": "Sky Sports",
+ "url": "https://www.skysports.com/football/news/12098/13552703/world-cup-2026-ivory-coast-1-0-ecuador-amad-diallo-nets-90th-minute-winner-to-end-ecuadors-19-game-unbeaten-streak",
+ "title": "World Cup 2026: Ivory Coast 1-0 Ecuador - Amad Diallo nets 90th-minute winner to end Ecuador's 19-game unbeaten streak",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-14",
+  "home": "CIV",
+  "away": "ECU",
+  "home_en": "Ivory Coast",
+  "away_en": "Ecuador",
+  "home_zh": "科特迪瓦",
+  "away_zh": "厄瓜多尔",
+  "comp": "小组赛·E组",
+  "match_id": "M9",
+  "slug": "2026-06-14_CIV_vs_ECU"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Manchester United winger Amad Diallo came off the bench to net a 90th-minute goal to get Ivory Coast's World Cup off to the perfect start with a 1-0 win over Ecuador in Group E. The forward was a surprise absentee from Emerse Fae's starting line-up but channeled any frustration in the best way possible after replacing Bazoumana Toure 10 minutes into the second half, sidefooting the winner smartly beyond Hernan Galindez after a lung-busting run from Wilfried Singo down the right flank. It provided Ecuador with a painful start to their World Cup campaign and ended their 19-game unbeaten streak, which looked well intact in an opening half-hour where they twice struck the crossbar through John Yeboah and Alan Minda, defying their pre-match expectations by dominating the early exchanges with and without the ball.   They never got back to those early heights and increasingly appeared at the mercy of Ivory Coast during the brief moments the 2023 AFCON champions clicked - with Yan Diomande lively almost throughout but with his end product often lacking. Elye Wahi struck the crossbar for Fae's side in the second half before the introduction of Amad and Ange-Yoan Bonny breathed new life into them, but it would take until the final minute of normal time for it to count when the Man Utd winger sparked wild celebrations among the entire squad 12 years to the day since their last World Cup win. The key moments from Philadelphia... 11: CHANCE! Enner Valencia blazes over when well-placed before the assistant referee pulls play back after ruling the ball had earlier gone out of play. 24: OFF THE BAR! Yeboah cuts inside when Emmanuel Agbadou gets the ball stuck under his feet and curls a superb effort against the crossbar. 30: AND AGAIN! Pedro Vite threads a perfect ball through for Minda, who again hits the woodwork but should have put Ecuador ahead from a presentable position eight yards out. 52: ...ANOTHER ONE! Nicolas Pepe flashes an inviting low cross towards Wahi, who gets across the near post but lifts onto the crossbar yet again. 56: SUBS! Amad comes on for the ineffective Toure having been enthusiastically warming up at half-time. 68: SAVE! Gonzalo Plata tests Yahia Fofana with a rasping drive from the edge of the box in Ecuador's only shot on target of the second half. 90: GOAL! After a fine run down the flank from Singo, who has moments earlier been moved to right-back, his square ball is sidefooted home calmly by Amad for a last-minute winner. Analysis: Bet your house Amad starts against Germany Sky Sports' Ron Walker: It was a surprise to plenty around Philadelphia including, most likely, Amad himself that he was not named in Fae's starting line-up. He had not started any of the Ivory Coast's three friendlies since their African Cup of Nations exit in January but did net their winner against France in their one warm-up game ahead of the World Cup - so to see Diomande shifted over to the right to accommodate Toure was even more head scratching. It was clear from even his fervent half-time warm-up that the decision was going to soon be reversed and, sure enough, the Ivory Coast improved in the final third once his number came up in the 56th minute both through his own contribution but also that of Diomande when restored to his favoured left flank. It would be a shock if he does not now keep his place against Germany on Saturday evening though Fae's biggest problems in that game will likely come at the other end of the field, given how close Ecuador - who had scored just 14 goals in 18 qualifying games - came to taking the lead in the opening half-hour before the Ivory Coast came into the game. Certainly, a Germany side who put seven past Curacao in their opener will not be so generous.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

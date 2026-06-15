@@ -1,0 +1,24 @@
+{
+ "source": "MyKhel",
+ "url": "https://www.mykhel.com/football/fifa-world-cup-2026-a-game-of-two-halves-how-netherlands-vs-japan-exploded-into-life-after-half-t-440163.html",
+ "title": "FIFA World Cup 2026: A Game of Two Halves - How Netherlands vs Japan Exploded into Life after Half Time",
+ "published": "2026-06-15T04:10:53+05:30",
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-14",
+  "home": "NED",
+  "away": "JPN",
+  "home_en": "Netherlands",
+  "away_en": "Japan",
+  "home_zh": "荷兰",
+  "away_zh": "日本",
+  "comp": "小组赛·F组",
+  "match_id": "M11",
+  "slug": "2026-06-14_NED_vs_JPN"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "In the sweltering heat of AT T Stadium in Arlington, Texas, on June 14, 2026, the Netherlands and Japan delivered a classic Group F encounter that embodied the drama of the FIFA World Cup.The final score read Netherlands 2-2 Japan, but the story unfolded in starkly different halves. In the first half, the game was stagnant and not expansive, but in the second half, it just exploded. It felt like someone took the weight off those players, who came back to the pitch lighter, sharper and adventurous.A Dull First HalfThe first half was a tense, cagey affair. Ronald Koemans Oranje, boasting stars like Virgil van Dijk, Frenkie de Jong, and Cody Gakpo, controlled possession but struggled to break down Hajime Moriyasus compact 3-4-2-1 setup. Japan, well-organized and dangerous on the counter, created the clearer chances. They missed two notable opportunities before the break, leaving the scoreline goalless at halftime. The Dutch looked somewhat frustrated, while the Samurai Blue grew in confidence.A breathtaking Second HalfThe second half exploded into life. Just six minutes after the restart, captain Virgil van Dijk rose imperiously to head home from a set-piece, giving the Netherlands a 1-0 lead. Japan responded almost immediately: in the 57th minute, Keito Nakamura unleashed a stunning strike from range to level the scores at 1-1. The momentum swung wildly.Netherlands regained the advantage in the 64th minute when Crysencio Summerville produced a clinical left-footed finish to make it 2-1. With the Dutch seemingly in control, Japan refused to yield. In the 88th minute, substitute Koki Ogawa headed a corner from Junya Ito onto Daichi Kamada, whose touch sent the ball past Bart Verbruggen for a dramatic equalizer as Japan snatched a point at the death.The StatsWhen it comes to the stats, the second half action is significantly higher than the first. The combined xG for the first half was 0.49 (0.34 for Netherlands, 0.15 for Japan), it increased to 0.84 in the second half. The Blue Samurai had an xG of 0.39 in the second half, a rise of 160 per cent from the first 45 minutes. Similarly, the shot counts almost doubled as well after the break.FIFA World Cup 2026: Japan show True ColoursJapan have been tipped by many as dark horses, and they have proved that the tag is apt. The Blue Samurai sprung into life and their resilience despite going behind twice epitomizes the character the team brings. As the World Cup 2026 progresses, Japan can become a threat to many.For the Dutch, draw will feel like a defeat as they were leading for a long time. The Netherlands will be disappointed but they have a point to show for as they continue their journey in the group stages.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

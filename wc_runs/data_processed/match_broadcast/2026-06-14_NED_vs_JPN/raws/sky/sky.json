@@ -1,0 +1,24 @@
+{
+ "source": "Sky Sports",
+ "url": "https://www.skysports.com/football/news/11095/13552697/world-cup-2026-netherlands-2-2-japan-daichi-kamadas-89th-minute-equaliser-denies-the-dutch-in-dallas",
+ "title": "World Cup 2026: Netherlands 2-2 Japan - Daichi Kamada's 89th-minute equaliser denies the Dutch in Dallas",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-14",
+  "home": "NED",
+  "away": "JPN",
+  "home_en": "Netherlands",
+  "away_en": "Japan",
+  "home_zh": "荷兰",
+  "away_zh": "日本",
+  "comp": "小组赛·F组",
+  "match_id": "M11",
+  "slug": "2026-06-14_NED_vs_JPN"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Daichi Kamada diverted in an 89th-minute equaliser for Japan as they twice levelled to secure a 2-2 draw with Netherlands in their World Cup Group F opener. Crysencio Summerville had looked to have won it when curling the ball beautifully into the far corner with his left foot but there was a twist in the tale in Arlington in a contest that really came to life in the second half after an uninspired opening 45 minutes. Virgil van Dijk headed Ronald Koeman's side in front from Ryan Gravenberch's cross soon after the interval but Keito Nakamura levelled things up within seven minutes when his shot deflected off the foot of Jan Paul van Hecke and beyond Bart Verbruggen. Summerville, who only made his international debut earlier this month, was on course to be the hero but Kento Shiogai's header deflected off Kamada and Verbruggen could only parry into his own net. The Brighton goalkeeper should have done better. The same could be said of the two teams in what was an entertaining game that both will seek to learn from. Could Japan have been more positive from the outset? Should Netherlands have pressed home their advantage? Both will expect to improve.   The key moments from Dallas... 3: Donyell Malen tested Zion Suzuki early on with a fierce shot. 51: GOAL! Van Dijk expertly headed in a cross from Gravenberch. 57: GOAL! Nakamura whipped the ball into the net via Van Hecke. 64: GOAL! Summerville cut in on his left foot and curled the ball in. 73: Zion Suzuki got down well to prevent Cody Gakpo doubling the lead. 81: Nathan Ake comes on for Gravenberch in an attempt to protect the lead. 89: GOAL! Shiogai's header deflected in off team-mate Kamada. Analysis: Mentality mistakes Despite the loss of Kaoru Mitoma to injury, Japan are much-fancied at this World Cup having been in excellent form. They defeated Brazil in October and then beat England at Wembley in March. But they were a little fortunate to get the point here. It felt as if they needed to fall behind to be willing to go out and play, producing their best work only when Netherlands were leading. More belief will be required if they are to achieve what many feel they are capable of achieving at this tournament. But there are lessons for Koeman and his team too after this. Netherlands appeared in control prior to the decision to bring on a defender in Nathan Ake for a midfielder in Gravenberch in the 81st minute. It only succeeded in inviting pressure late on.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

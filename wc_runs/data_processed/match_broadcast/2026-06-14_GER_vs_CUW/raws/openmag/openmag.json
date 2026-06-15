@@ -1,0 +1,24 @@
+{
+ "source": "Open Magazine",
+ "url": "https://openthemagazine.com/sports/fifa-world-cup-2026-what-records-did-germany-achieve-while-firing-seven-past-curacao",
+ "title": "FIFA World Cup 2026: What Records Did Germany Achieve While Firing Seven Past Curacao?",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-14",
+  "home": "GER",
+  "away": "CUW",
+  "home_en": "Germany",
+  "away_en": "Curaçao",
+  "home_zh": "德国",
+  "away_zh": "库拉索",
+  "comp": "小组赛·E组",
+  "match_id": "M10",
+  "slug": "2026-06-14_GER_vs_CUW"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Germany sent a powerful message to their World Cup rivals with a commanding 7-1 victory over tournament debutants Curacao in Houston on Monday. Kai Havertz struck twice while Deniz Undav orchestrated much of the attacking brilliance as the four-time champions overwhelmed their opponents in a one-sided contest. The result not only marked the biggest win of the tournament so far but also saw Germany surpass Brazil as the highest-scoring nation in FIFA World Cup history. How did Germany establish control after Curacao's brief resistance? Germany began aggressively and found an early breakthrough in just the sixth minute. Florian Wirtz supplied Felix Nmecha on the edge of the area, and the midfielder unleashed a superb strike into the top-right corner to score the earliest goal of the tournament so far. The Germans continued to dominate possession and territory, with Jamal Musiala, Leroy Sane and Nmecha all threatening to extend the lead. However, Curacao produced a memorable moment in the 21st minute when Gervane Kastaneer Commenencia etched his name into history by scoring his nation's first-ever World Cup goal. His composed finish beyond veteran goalkeeper Manuel Neuer silenced Germany briefly and sparked celebrations on the Curacao bench, led by 78-year-old coach Dick Advocaat. For a short period, Curacao sensed an opportunity to create a classic David-versus-Goliath upset. Juninho Bacuna came close to giving the newcomers a shock lead, but Germany soon restored order. Nico Schlotterbeck put the Europeans back in front in the 38th minute after latching onto Nathaniel Brown's delivery from the right flank. Germany then earned a penalty just before halftime when Nmecha was brought down inside the box. Havertz stepped up and converted confidently to send his side into the break with a commanding 3-1 advantage. By halftime, Germany had already amassed nearly 70 per cent possession, 16 shots and 36 touches inside Curacao's penalty area. How did Havertz and Undav turn the second half into a goalfest? Germany wasted no time extending their lead after the restart. Within a minute of the second half beginning, Joshua Kimmich threaded a precise pass to Musiala, who calmly fired into the bottom corner to make it 4-1. The floodgates had opened. After a sustained spell of pressure, Nathaniel Brown got on the scoresheet in the 69th minute, volleying home after excellent work from Deniz Undav. The striker then added his own name to the scoresheet in the 78th minute, continuing his remarkable international scoring form with his seventh goal in just ten appearances for Germany. Havertz completed the rout two minutes from time. Undav again turned provider, slipping a clever pass through for the Arsenal forward, who delicately lifted the ball over the goalkeeper to seal a comprehensive 7-1 victory. What records did Germany achieve with the victory? The emphatic triumph carried historic significance beyond the scoreline. Germany's seven-goal haul took their overall FIFA World Cup tally to 239 goals, moving them ahead of Brazil's 238 and making them the highest-scoring nation in tournament history. It also marked the fourth occasion on which Germany have scored seven or more goals in a World Cup match—more than any other team. Veteran goalkeeper Manuel Neuer also made history. At 40 years and 79 days old, the former Germany captain became his country's oldest-ever World Cup appearance-maker after reversing his international retirement for the tournament. Germany's superiority was reflected in the final statistics. Julian Nagelsmann's side finished with 64.7 per cent possession and 26 shots, compared to Curacao's eight efforts and just over 35 per cent possession. With a statement victory in their opening match, Germany have immediately established themselves as one of the strongest contenders for the FIFA World Cup title.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

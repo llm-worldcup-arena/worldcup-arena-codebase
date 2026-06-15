@@ -1,0 +1,24 @@
+{
+ "source": "ESPN report",
+ "url": "https://www.espn.com/soccer/report/_/gameId/760423",
+ "title": "Ivory Coast 1-0 Ecuador (Jun 14, 2026) Game Analysis - ESPN",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-14",
+  "home": "CIV",
+  "away": "ECU",
+  "home_en": "Ivory Coast",
+  "away_en": "Ecuador",
+  "home_zh": "科特迪瓦",
+  "away_zh": "厄瓜多尔",
+  "comp": "小组赛·E组",
+  "match_id": "M9",
+  "slug": "2026-06-14_CIV_vs_ECU"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "A late goal from Amad Diallo earned the Ivory Coast a 1-0 win in and end-to-end opening World Cup clash with Ecuador in Philadelphia.\nThe South Americans struck the woodwork three times with the Ivory Coast also rattling the bar before the Manchester United forward, on as a substitute, found the bottom corner in the 90th minute.\nEcuador carved out the better chances of an entertaining first half, Enner Valencia blazing over the bar after Emmanuel Agbadou's slip gave him room in the penalty area.\nJohn Yeboah went closer, striking the bar from the edge of the area, and Alan Minda also hit the woodwork after a through ball from Pedro Vite.\nNineteen-year-old Yan Diomande was lively down Ivory Coast's right flank, but they were unable to make the most of his raids -- Nicholas Pepê dwelling too long on one opportunity and striking another shot into teammate Elye Wahi.\nValencia struck the outside of the post at the start of the second half after a neat one-two with Gonzala Plata, but Ivory Coast created the better chances after the restart.\nThe dangerous Diomande twice fired high and wide after breaking into the box and his cross was turned onto the crossbar by Wahi.\nAt the other end, Plata's shot from outside the box was saved by Yahia Fofana while Joel Ordóñez headed over from a free kick, but Amad finally broke the deadlock as he steered the ball inside the post from the edge of the box after a strong run and cross from Wilfried Singo.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

@@ -1,0 +1,24 @@
+{
+ "source": "Bleacher Report",
+ "url": "https://bleacherreport.com/liveblogs/25440282-sweden-vs-tunisia-live-world-cup-2026-updates-scores-and-highlights",
+ "title": "Sweden vs. Tunisia Live World Cup 2026 Updates, Scores and Highlights",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-14",
+  "home": "SWE",
+  "away": "TUN",
+  "home_en": "Sweden",
+  "away_en": "Tunisia",
+  "home_zh": "瑞典",
+  "away_zh": "突尼斯",
+  "comp": "小组赛·F组",
+  "match_id": "M12",
+  "slug": "2026-06-14_SWE_vs_TUN"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Kevin C. Cox/Getty Images\nHow's that for drama?\nAfter a back and forth first half that seemed destined to produce goals, there was doubt about whether we'd get one during a largely stodgy second 45 minutes in Philadelphia.\nThat is, until Manchester United's Amad Diallo bagged the heroic game-winner in the 90th minute.\nDuring the second period, the Ivory Coast took more control of the game. Emerse Fae's team flipped the possession tables on Ecuador and spent some real time high up the field in the opposing end. Diallo, who joined the fold off the bench during the second half, proved to be the decisive player. Still, it was Yan Diomande who impressed most of all.\nDiomande was the best player on the field, starting on the right wing before shifting over to the left side partway through the second half. The 19-year-old's one-v-one dribbling ability was the standout skill from the entire match, even troubling Piero Hincapié. With his astonishing dynamism, take-on ability, and vision, it's easy to see why clubs are interested in spending huge money to pry him away from RB Leipzig in the Bundesliga. Diomande's performance on Sunday was the best of any individual at the World Cup to this point.\nThat the Ivory Coast have options like Hoffenheim's Bazoumana Touré and Amad who can play opposite Diomande points to their impressive attacking depth that should bear fruit later in the tournament.\nFor Ecuador, the second half was far quieter than the first. They managed just three shots in that period, with two of them coming from outside the box. Ecuador, who didn't exactly light up the scoresheet in World Cup qualifying, are here because of their bend-but-don't-break defensive approach. They nearly pulled it off against the Ivory Coast, but came up just short.\nFor now, Ivory Coast join Germany on three points atop Group E, while Ecuador join Curacao on zero.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

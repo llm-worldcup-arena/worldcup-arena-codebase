@@ -1,0 +1,24 @@
+{
+ "source": "FIFA官方",
+ "url": "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021467",
+ "title": "Côte d'Ivoire vs Ecuador 1-0 | First Stage | FIFA World Cup 2026™ | FIFA",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-14",
+  "home": "CIV",
+  "away": "ECU",
+  "home_en": "Ivory Coast",
+  "away_en": "Ecuador",
+  "home_zh": "科特迪瓦",
+  "away_zh": "厄瓜多尔",
+  "comp": "小组赛·E组",
+  "match_id": "M9",
+  "slug": "2026-06-14_CIV_vs_ECU"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Côte d'Ivoire vs Ecuador 1-0 | First Stage | FIFA World Cup 2026™\nLive Statistics\nAttacking\nPossession\n41%\n49%\n10% in contest\nGoal\nTotal\n1\n0\nConceded\n0\n1\nInside the Penalty Area\n1\n0\nOutside the Penalty Area\n0\n0\nAssists\n1\n0\nAttempts at Goal\nTotal\n15\n12\nOn Target\n4\n1\nOff Target\n8\n10\nInside the Penalty Area\n8\n5\nOutside the Penalty Area\n7\n7\nFinal Third Entries\nLeft Channel\n11\n16\nLeft Inside Channel\n7\n4\nCentral Channel\n6\n8\nRight Inside Channel\n2\n4\nRight Channel\n25\n17\nOffers to Receive\nTotal\n333\n339\nIn Behind\n87\n77\nIn Between\n174\n149\nIn Front\n72\n113\nReceptions Between Midfield and Defensive Lines\n102\n113\nReceptions Behind the Defensive Line\n8\n7\nLine Breaks\nAttempted Line Breaks\n177\n191\nCompleted Line Breaks\n132\n124\nAttempted Defensive Line Breaks\n18\n20\nCompleted Defensive Line Breaks\n11\n8\nDiscipline\nYellow Cards\n3\n1\nRed Cards\n0\n0\nFouls Against\n10\n13\nOffsides\n0\n0\nDistribution\nPasses\n471\n513\nPasses Completed\n413\n438\nCrosses\n15\n14\nCrosses Completed\n3\n3\nSwitches of Play Completed\n1\n2\nSet Plays\nCorners\n3\n5\nFree Kicks\n13\n10\nPenalties Scored\n0\n0\nDefending\nOwn Goals\n0\n0\nForced Turnovers\n44\n49\nPressing Applied\n288\n280",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

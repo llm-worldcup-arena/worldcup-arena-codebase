@@ -1,0 +1,24 @@
+{
+ "source": "ESPN赛report",
+ "url": "https://www.espn.com/soccer/report/_/gameId/760422",
+ "title": "Germany 7-1 Curaçao (Jun 14, 2026) Game Analysis - ESPN",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-14",
+  "home": "GER",
+  "away": "CUW",
+  "home_en": "Germany",
+  "away_en": "Curaçao",
+  "home_zh": "德国",
+  "away_zh": "库拉索",
+  "comp": "小组赛·E组",
+  "match_id": "M10",
+  "slug": "2026-06-14_GER_vs_CUW"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "HOUSTON -- Kai Havertz scored two goals as Germany pulled away from World Cup first-timer Curaçao late in the opening half and piled on after that in a 7-1 win Sunday in Group E.\nLivano Comenencia tied it at 1-1 with his left-footed shot through traffic from the center of the box in the 21st minute to give Curaçao its first goal in the tournament and send fans of the tiny Caribbean nation into a frenzy.\nIt was all Germany after that, with the four-time champions regaining the lead on Nico Schlotterbeck's header off Nathaniel Brown's corner kick in the 38th minute.\n\"We really needed this convincing win,\" coach Julian Nagelsmann said. \"We needed this self confidence. It was there but it definitely grew.\"\nHe said Sunday's display was important for the country's fans.\n\"We have to show them that we can perform and we have to have the confidence,\" he said. \"I think we're in a better spot than we were entering this match.\"\nThe margin of victory comes well short of the World Cup record of nine goals, which has happened three times, with the last one coming when Hungary beat El Salvador 10-1 in 1982.\nHavertz connected on a penalty shot in first-half stoppage time to make it 3-1. Germany was awarded the penalty shot after Felix Nmecha was tripped in the box by Riechedly Bazoer.\nGermany wasted no time after halftime to extend the lead with Jamal Musiala scoring on a right-footed shot across the goalkeeper's area in the 47th minute.\nGermany cruised to an easy win over Curaçao to begin its journey at the 2026 World Cup.\nLars Baron/Getty Images\nBrown scored in the 68th minute to push the advantage to 5-1, and Deniz Undav added a goal in the 78th after assisting on Brown's goal minutes earlier.\nHavertz's second goal came in the 88th minute.\nIt was a strong start for Germany against underdog Curaçao as the team seeks redemption after failing to get out of the group stage in Russia and Qatar following its 2014 title.\n\"We are on the right path but of course there are things that we can do better and we will have stronger opponents,\" Nagelsmann said.\nNmecha one-timed it with his right foot into the near post just inside the upper box with an assist from Florian Wirtz in the sixth minute to make it 1-0.\nThe crowd of 68,021 was overwhelming rooting for Germany, but there was a spirited contingent of people cheering on Curaçao as it became the smallest country to ever appear in the tournament.\n\"Even though it wasn't me, it felt like it was me, it was all of us, the whole island, everybody,\" Curaçao's Jearl Margaritha said. \"We screamed our lungs out. So we were happy.\"\nManuel Neuer, the 40-year-old goalkeeper who came out of international retirement for the tournament, had one save in his first appearance for Germany in almost two years.\nThe match featured the largest age gap between coaches in World Cup history, with Curaçao's 78-year-old coach Dick Advocaat becoming the oldest ever in a World Cup, against 38-year-old Julian Nagelsmann, who is the youngest coach in this year's tournament.\nGermany faces Ivory Coast in its next match in Toronto on Saturday, while Curaçao meets Ecuador on Saturday in Kansas City.\nInformation from The Associated Press was used in this recap.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

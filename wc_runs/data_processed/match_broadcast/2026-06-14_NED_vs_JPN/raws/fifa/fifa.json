@@ -1,0 +1,24 @@
+{
+ "source": "FIFA官方",
+ "url": "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021470",
+ "title": "Netherlands vs Japan 2-2 | First Stage | FIFA World Cup 2026™ | FIFA",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-14",
+  "home": "NED",
+  "away": "JPN",
+  "home_en": "Netherlands",
+  "away_en": "Japan",
+  "home_zh": "荷兰",
+  "away_zh": "日本",
+  "comp": "小组赛·F组",
+  "match_id": "M11",
+  "slug": "2026-06-14_NED_vs_JPN"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Netherlands vs Japan 2-2 | First Stage | FIFA World Cup 2026™\nGroup F • Match 11\n16 : 00 • 14 Jun 2026\nNetherlands\n2 - 2\nJapan\nFull Time\nNetherlands\n2 - 2\nJapan\n14 Jun 2026\nCrysencio SUMMERVILLE\n64'\nVirgil VAN DIJK\n50'\nDaichi KAMADA\n88'\nKeito Nakamura\n57'\nFIFA World Cup 2026™\nDallas ●Dallas Stadium\nWhere to watch",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

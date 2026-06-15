@@ -1,0 +1,323 @@
+{
+ "match": {
+  "date": "2026-06-14",
+  "home": "NED",
+  "away": "JPN",
+  "home_en": "Netherlands",
+  "away_en": "Japan",
+  "comp": "小组赛·F组",
+  "venue": "AT&T Stadium (Arlington)",
+  "attendance": 69285
+ },
+ "score": "2-2",
+ "ht": null,
+ "goals": [
+  {
+   "min": 51,
+   "side": "home",
+   "player": "Virgil van Dijk",
+   "sub": null
+  },
+  {
+   "min": 57,
+   "side": "away",
+   "player": "Keito Nakamura",
+   "sub": null
+  },
+  {
+   "min": 64,
+   "side": "home",
+   "player": "Crysencio Summerville",
+   "sub": null
+  },
+  {
+   "min": 89,
+   "side": "away",
+   "player": "Daichi Kamada",
+   "sub": null
+  }
+ ],
+ "cards": [
+  {
+   "min": 61,
+   "side": "home",
+   "player": "Crysencio Summerville",
+   "type": "黄牌"
+  },
+  {
+   "min": 83,
+   "side": "home",
+   "player": "Memphis Depay",
+   "type": "黄牌"
+  },
+  {
+   "min": 90,
+   "side": "home",
+   "player": "Micky van de Ven",
+   "type": "黄牌"
+  }
+ ],
+ "stats": {
+  "射门": [
+   "10",
+   "10"
+  ],
+  "射正": [
+   "6",
+   "3"
+  ],
+  "禁区内射门": [
+   "3",
+   "6"
+  ],
+  "扑救": [
+   "1",
+   "1"
+  ],
+  "角球": [
+   "5",
+   "4"
+  ],
+  "越位": [
+   "1",
+   "0"
+  ],
+  "控球%": [
+   "60%",
+   "40%"
+  ],
+  "传中": [
+   "107",
+   "85"
+  ],
+  "传球": [
+   "463",
+   "286"
+  ],
+  "xG预期进球": [
+   "1.29",
+   "0.58"
+  ],
+  "xGOT/大机会": [
+   "2.16",
+   "1.32"
+  ]
+ },
+ "lineups": {
+  "home": [
+   {
+    "no": 1,
+    "name": "Bart Verbruggen"
+   },
+   {
+    "no": 15,
+    "name": "Micky van de Ven"
+   },
+   {
+    "no": 4,
+    "name": "Virgil van Dijk"
+   },
+   {
+    "no": 6,
+    "name": "Jan Paul van Hecke"
+   },
+   {
+    "no": 22,
+    "name": "Denzel Dumfries"
+   },
+   {
+    "no": 14,
+    "name": "Tijjani Reijnders"
+   },
+   {
+    "no": 21,
+    "name": "Frenkie de Jong"
+   },
+   {
+    "no": 8,
+    "name": "Ryan Gravenberch"
+   },
+   {
+    "no": 11,
+    "name": "Cody Gakpo"
+   },
+   {
+    "no": 18,
+    "name": "Donyell Malen"
+   },
+   {
+    "no": 24,
+    "name": "Crysencio Summerville"
+   },
+   {
+    "no": 5,
+    "name": "Nathan Aké"
+   },
+   {
+    "no": 19,
+    "name": "Brian Brobbey"
+   },
+   {
+    "no": 10,
+    "name": "Memphis Depay"
+   },
+   {
+    "no": 20,
+    "name": "Teun Koopmeiners"
+   },
+   {
+    "no": 26,
+    "name": "Quinten Timber"
+   },
+   {
+    "no": 23,
+    "name": "Mark Flekken"
+   },
+   {
+    "no": 2,
+    "name": "Lutsharel Geertruida"
+   },
+   {
+    "no": 25,
+    "name": "Jorrel Hato"
+   },
+   {
+    "no": 7,
+    "name": "Justin Kluivert"
+   },
+   {
+    "no": 17,
+    "name": "Noa Lang"
+   },
+   {
+    "no": 13,
+    "name": "Robin Roefs"
+   },
+   {
+    "no": 16,
+    "name": "Guus Til"
+   },
+   {
+    "no": 9,
+    "name": "Wout Weghorst"
+   },
+   {
+    "no": 12,
+    "name": "Mats Wieffer"
+   },
+   {
+    "no": 3,
+    "name": "Marten De Roon"
+   }
+  ],
+  "away": [
+   {
+    "no": 1,
+    "name": "Zion Suzuki"
+   },
+   {
+    "no": 21,
+    "name": "Hiroki Ito"
+   },
+   {
+    "no": 3,
+    "name": "Shogo Taniguchi"
+   },
+   {
+    "no": 16,
+    "name": "Tsuyoshi Watanabe"
+   },
+   {
+    "no": 13,
+    "name": "Keito Nakamura"
+   },
+   {
+    "no": 15,
+    "name": "Daichi Kamada"
+   },
+   {
+    "no": 24,
+    "name": "Kaishu Sano"
+   },
+   {
+    "no": 10,
+    "name": "Ritsu Doan"
+   },
+   {
+    "no": 11,
+    "name": "Daizen Maeda"
+   },
+   {
+    "no": 8,
+    "name": "Takefusa Kubo"
+   },
+   {
+    "no": 18,
+    "name": "Ayase Ueda"
+   },
+   {
+    "no": 14,
+    "name": "Junya Ito"
+   },
+   {
+    "no": 19,
+    "name": "Koki Ogawa"
+   },
+   {
+    "no": 26,
+    "name": "Kento Shiogai"
+   },
+   {
+    "no": 2,
+    "name": "Yukinari Sugawara"
+   },
+   {
+    "no": 22,
+    "name": "Takehiro Tomiyasu"
+   },
+   {
+    "no": 9,
+    "name": "Keisuke Goto"
+   },
+   {
+    "no": 23,
+    "name": "Tomoki Hayakawa"
+   },
+   {
+    "no": 4,
+    "name": "Ko Itakura"
+   },
+   {
+    "no": 6,
+    "name": "Shuto Machino"
+   },
+   {
+    "no": 5,
+    "name": "Yuto Nagatomo"
+   },
+   {
+    "no": 12,
+    "name": "Keisuke Osako"
+   },
+   {
+    "no": 20,
+    "name": "Ayumu Seko"
+   },
+   {
+    "no": 17,
+    "name": "Yuito Suzuki"
+   },
+   {
+    "no": 25,
+    "name": "Junnosuke Suzuki"
+   },
+   {
+    "no": 7,
+    "name": "Ao Tanaka"
+   }
+  ]
+ },
+ "missing": [],
+ "source": "Apify macheta（365scores/Opta 级硬数据）",
+ "_note": "结构化硬数据（机器可读）；叙事见 ours/long.md，逐分钟见 ours/timeline.md，简版见 short.md。"
+}

@@ -1,0 +1,350 @@
+{
+ "match_id": 4627871,
+ "date": "2026-06-14",
+ "comp": "小组赛·E组",
+ "ha_home": "中",
+ "home": "Ivory Coast",
+ "away": "Ecuador",
+ "score": "1-0",
+ "venue": "Lincoln Financial Field (Philadelphia)",
+ "attendance": 68274,
+ "goals": [
+  {
+   "min": 90,
+   "side": "home",
+   "player": "Amad Diallo",
+   "sub": null
+  }
+ ],
+ "cards": [
+  {
+   "min": 28,
+   "side": "home",
+   "player": "Seko Fofana",
+   "type": "黄牌"
+  },
+  {
+   "min": 38,
+   "side": "home",
+   "player": "Franck Kessié",
+   "type": "黄牌"
+  },
+  {
+   "min": 40,
+   "side": "home",
+   "player": "Guéla Doué",
+   "type": "黄牌"
+  },
+  {
+   "min": 73,
+   "side": "away",
+   "player": "Jackson Porozo",
+   "type": "黄牌"
+  }
+ ],
+ "stats": {
+  "射门": [
+   "15",
+   "12"
+  ],
+  "射正": [
+   "4",
+   "1"
+  ],
+  "禁区内射门": [
+   "8",
+   "8"
+  ],
+  "扑救": [
+   "3",
+   "3"
+  ],
+  "角球": [
+   "3",
+   "5"
+  ],
+  "越位": [
+   "0",
+   "0"
+  ],
+  "控球%": [
+   "48%",
+   "52%"
+  ],
+  "传中": [
+   "81",
+   "105"
+  ],
+  "传球": [
+   "397",
+   "419"
+  ],
+  "xG预期进球": [
+   "0.96",
+   "1.28"
+  ],
+  "xGOT/大机会": [
+   "1.22",
+   "0.03"
+  ]
+ },
+ "lineups": {
+  "home": [
+   {
+    "no": 1,
+    "name": "Yahia Fofana"
+   },
+   {
+    "no": 3,
+    "name": "Ghislain Konan"
+   },
+   {
+    "no": 20,
+    "name": "Emmanuel Agbadou"
+   },
+   {
+    "no": 5,
+    "name": "Wilfried Singo"
+   },
+   {
+    "no": 17,
+    "name": "Guéla Doué"
+   },
+   {
+    "no": 24,
+    "name": "Bazoumana Toure"
+   },
+   {
+    "no": 6,
+    "name": "Seko Fofana"
+   },
+   {
+    "no": 8,
+    "name": "Franck Kessié"
+   },
+   {
+    "no": 11,
+    "name": "Yan Diomande"
+   },
+   {
+    "no": 12,
+    "name": "Elye Wahi"
+   },
+   {
+    "no": 19,
+    "name": "Nicolas Pépé"
+   },
+   {
+    "no": 9,
+    "name": "Ange-Yoan Bonny"
+   },
+   {
+    "no": 15,
+    "name": "Amad Diallo"
+   },
+   {
+    "no": 26,
+    "name": "Christ Inao Oulaï"
+   },
+   {
+    "no": 7,
+    "name": "Odilon Kossounou"
+   },
+   {
+    "no": 18,
+    "name": "Ibrahim Sangare"
+   },
+   {
+    "no": 10,
+    "name": "Simon Adingra"
+   },
+   {
+    "no": 14,
+    "name": "Oumar Diakité"
+   },
+   {
+    "no": 2,
+    "name": "Ousmane Diomande"
+   },
+   {
+    "no": 22,
+    "name": "Evann Guessand"
+   },
+   {
+    "no": 25,
+    "name": "Parfait Guiagon"
+   },
+   {
+    "no": 16,
+    "name": "Mohamed Koné"
+   },
+   {
+    "no": 23,
+    "name": "Alban Lafont"
+   },
+   {
+    "no": 21,
+    "name": "Evan N'Dicka"
+   },
+   {
+    "no": 13,
+    "name": "Christopher Opéri"
+   },
+   {
+    "no": 4,
+    "name": "Jean Michael Seri"
+   }
+  ],
+  "away": [
+   {
+    "no": 1,
+    "name": "Hernan Galindez"
+   },
+   {
+    "no": 3,
+    "name": "Piero Hincapie"
+   },
+   {
+    "no": 6,
+    "name": "Willian Pacho"
+   },
+   {
+    "no": 4,
+    "name": "Joel Ordonez"
+   },
+   {
+    "no": 21,
+    "name": "Alan Franco"
+   },
+   {
+    "no": 14,
+    "name": "Alan Minda"
+   },
+   {
+    "no": 15,
+    "name": "Pedro Vite"
+   },
+   {
+    "no": 23,
+    "name": "Moises Caicedo"
+   },
+   {
+    "no": 9,
+    "name": "John Yeboah"
+   },
+   {
+    "no": 13,
+    "name": "Enner Valencia"
+   },
+   {
+    "no": 19,
+    "name": "Gonzalo Plata"
+   },
+   {
+    "no": 20,
+    "name": "Nilson Angulo"
+   },
+   {
+    "no": 25,
+    "name": "Jackson Porozo"
+   },
+   {
+    "no": 17,
+    "name": "Angelo Preciado"
+   },
+   {
+    "no": 11,
+    "name": "Kevin Rodriguez"
+   },
+   {
+    "no": 5,
+    "name": "Jordy Alcivar"
+   },
+   {
+    "no": 24,
+    "name": "Jeremy Arevalo"
+   },
+   {
+    "no": 16,
+    "name": "Jordy Caicedo"
+   },
+   {
+    "no": 18,
+    "name": "Denil Castillo"
+   },
+   {
+    "no": 7,
+    "name": "Pervis Estupinan"
+   },
+   {
+    "no": 26,
+    "name": "Yaimar Medina"
+   },
+   {
+    "no": 10,
+    "name": "Kendry Paez"
+   },
+   {
+    "no": 12,
+    "name": "Moises Ramirez"
+   },
+   {
+    "no": 2,
+    "name": "Felix Torres"
+   },
+   {
+    "no": 8,
+    "name": "Anthony Valencia"
+   },
+   {
+    "no": 22,
+    "name": "Gonzalo Valle"
+   }
+  ]
+ },
+ "missing": [],
+ "events": [
+  {
+   "min": 28,
+   "side": "home",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Seko Fofana"
+  },
+  {
+   "min": 38,
+   "side": "home",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Franck Kessié"
+  },
+  {
+   "min": 40,
+   "side": "home",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Guéla Doué"
+  },
+  {
+   "min": 73,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Jackson Porozo"
+  },
+  {
+   "min": 90,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Amad Diallo"
+  }
+ ],
+ "injuries": [],
+ "suspensions": [],
+ "ratings": {},
+ "quotes": [],
+ "narrative": "",
+ "prediction_note": "",
+ "_note": "macheta/Sofascore 权威硬数据；injuries/suspensions/ratings/quotes/narrative/prediction_note 待 agent WebSearch 补。"
+}

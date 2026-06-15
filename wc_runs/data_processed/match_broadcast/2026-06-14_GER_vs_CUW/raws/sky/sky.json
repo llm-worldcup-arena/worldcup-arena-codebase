@@ -1,0 +1,24 @@
+{
+ "source": "Sky Sports",
+ "url": "https://www.skysports.com/football/germany-vs-curacao/549774",
+ "title": "World Cup 2026: Germany 7-1 Curacao - Caribbean debutants given a thumping in Group E",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-14",
+  "home": "GER",
+  "away": "CUW",
+  "home_en": "Germany",
+  "away_en": "Curaçao",
+  "home_zh": "德国",
+  "away_zh": "库拉索",
+  "comp": "小组赛·E组",
+  "match_id": "M10",
+  "slug": "2026-06-14_GER_vs_CUW"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Germany made a confident start to their World Cup campaign with a 7-1 win over tournament debutants Curacao in Group E. Felix Nmecha opened the scoring just six minutes in, but Germany were stunned when Livano Comenencia levelled with Curacao's first ever World Cup goal. It was a jubilant moment for a nation with a total population of 160,000 who have become the smallest to ever reach and score at the World Cup. However, a Nico Schlotterbeck header and Havertz penalty soon restored Germany's advantage before half-time. Just over a minute into the second half, Jamal Musiala slotted the ball into the far corner from Joshua Kimmich's threaded pass before Germany struck again in the 68th minute when Florian Wirtz's pass was flicked by Denis Undav to Nathaniel Brown, who hooked a volley into the bottom corner. A comfortable display saw further goals in the second half from Undav and Havertz as Germany wrapped up three points in their first Group E game.   The key moments from Houston... 6: GOAL! Nmecha settles any early nerves against the minnows with a quality curling strike 21: GOAL! Comenencia makes history for Curacao by scoring their first ever World Cup goal 38: GOAL! Schlotterbeck heads Germany back in front 45+1: GOAL! Havertz opens his account for the World Cup from penalty spot 47: GOAL! Musiala tucks away a fantastic finish from the angle after Kimmich pass 68: GOAL! Brown appears up the pitch from left-back to volley home 78: GOAL! Undav comes off the bench to make it 6-1 87: GOAL! Havertz races away and clips home to seal the comfortable victory",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

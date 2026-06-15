@@ -1,0 +1,16 @@
+{
+ "team": "ESP",
+ "source": "russpain",
+ "url": "https://russpain.com/en/news-3/three-players-of-the-spanish-national-team-to-miss-opening-match-of-wc-2026-484904/",
+ "title": null,
+ "news_date": "2026-06-15",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-15",
+ "fetched": "2026-06-15_1624",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Three recovered players left out of the squad for the game against Cape Verde\nSpain’s head coach Luis de la Fuente has confirmed that Lamine Yamal, Nico Williams, and Victor Muñoz, who have all recently recovered from injuries, will not be included in the starting lineup for the team’s opening World Cup match against Cape Verde. All three players have completed their recovery and are fit to play, but the coaching staff has decided not to risk their health in the team’s tournament debut.\nAccording to de la Fuente, all players, including Lamine Yamal, are in excellent physical condition and fully available for the match. However, the coach emphasized that the lineup for the game was determined in advance and has not changed throughout the entire preparation period. He noted that the level of competition within the team is high, but the chosen strategy will remain unchanged.\nNone of the three recovered players will start for Spain against Cape Verde on June 15. De la Fuente did not rule out that Lamine Yamal, Nico Williams, and Victor Muñoz could come on during the game if the situation requires it. The coaching staff’s decision is aimed at minimizing risks and preserving the team’s optimal condition for the entire tournament.\nThe Spain vs. Cape Verde match has drawn increased attention not only from fans but also from broadcasters: the national TV channel’s broadcast schedule was completely altered to accommodate a live broadcast, and all evening programs were canceled, as previously reported in the article about changes in TV programming due to the football championship.\nFor reference: Lamine Yamal and Nico Williams are considered among Spain’s most promising young players, while Victor Muñoz has returned to the lineup after a long recovery. The 2026 World Cup is being held in an expanded format, and the Spanish national team is traditionally among the tournament favorites. Early squad decisions often influence the subsequent distribution of roles within the team and the group stage strategy.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}
