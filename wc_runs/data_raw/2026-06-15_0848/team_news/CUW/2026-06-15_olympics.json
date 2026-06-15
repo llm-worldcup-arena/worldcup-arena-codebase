@@ -1,0 +1,16 @@
+{
+ "team": "CUW",
+ "source": "Olympics",
+ "url": "https://www.olympics.com/en/news/fifa-world-cup-2026-curacao-players-squad-list-key-stats-schedule",
+ "title": "Curaçao at FIFA World Cup 2026: All players, full squad list, key stats and schedule",
+ "news_date": "2026-06-15",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-15",
+ "fetched": "2026-06-15_0848",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Curaçao at FIFA World Cup 2026: All players, full squad list, key stats and schedule\nQuick facts\nCaptain: Leandro Bacuna\nManager: Dick Advocaat\nWorld Cup appearances (including 2026): 1\nBest World Cup result: N/A\nFIFA World Cup 2026 – Curaçao’s full squad\nGoalkeepers: Tyrick Bodak (SC Telstar), Trevor Doornbusch (VVV-Venlo), Eloy Room (Miami FC)\nDefenders: Riechedly Bazoer (Konyaspor), Joshua Brenet (Kayserispor), Roshon Van Eijma (RKC Waalwijk), Sherel Floranus (PEC Zwolle), Deveron Fonville (NEC Nijmegen), Juriën Gaari (Abha Club), Armando Obispo (PSV Eindhoven), Shurandy Sambo (Sparta Rotterdam)\nMidfielders: Juninho Bacuna (FC Volendam), Leandro Bacuna (Iğdır), Livano Comenencia (FC Zürich), Kevin Felida (FC Den Bosch), Ar’Jany Martha (Rotherham United), Tyrese Noslin (SC Telstar), Godfried Roemeratoe (RKC Waalwijk)\nForwards: Jeremy Antonisse (AE Kifisia), Tahith Chong (Sheffield United), Kenji Gorré (Maccabi Haifa), Sontje Hansen (Middlesbrough), Gervane Kastaneer (Terengganu FC), Brandley Kuwas (FC Volendam), Jürgen Locadia (Miami FC), Jearl Margaritha (SK Beveren)",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

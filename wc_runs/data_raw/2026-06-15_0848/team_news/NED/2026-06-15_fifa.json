@@ -1,0 +1,16 @@
+{
+ "team": "NED",
+ "source": "FIFA",
+ "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/netherlands-call-up-geertruida-jurrien-timber",
+ "title": "Netherlands call up Geertruida | FIFA World Cup 2026",
+ "news_date": "2026-06-15",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "asof": "2026-06-15",
+ "fetched": "2026-06-15_0848",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Ronald Koeman has been forced into a late squad change, with Lutsharel Geertruida taking Jurrien Timber's place in the Oranje squad\nNetherlands' head coach Ronald Koeman has been forced into making a late change to his 26-player squad for the FIFA World Cup 2026™, with Lutsharel Geertruida being called up in place of the injured Jurrien Timber.\nArsenal's Timber sustained a groin injury while playing for his club in March, and although he managed an appearance off the bench in the recent UEFA Champions League final, the Royal Netherlands Football Association (KNVB) announced that, \"The 24-year-old defender has not recovered sufficiently from a groin injury to take part in the World Cup in a medically responsible manner.\"\nExplore hospitality packages for Netherlands' FIFA World Cup 2026™ matchesExplore hospitality packages for Netherlands' FIFA World Cup 2026™ matches\nSunderland defender Geertruida was involved with the squad until their recent 1-0 friendly defeat to Algeria, and will rejoin the group ahead of their opener against Japan on 14 June.\nNetherlands then square off against Sweden (20 June) and Tunisia (25 June) in Group F, as they aim to claim a maiden World Cup title.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

@@ -14,7 +14,7 @@
 跑:python3 collect_team_news.py --team CAN --asof 2026-06-12 --ts 2026-06-13_0247 --urls /tmp/can.json
    python3 collect_team_news.py --team CAN --suggest --opp BIH    # 打印标准检索词+源名单
 """
-import os, sys, json, argparse, re
+import os, sys, json, argparse, re, glob
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 RUNS = f"{ROOT}/wc_runs"
@@ -194,7 +194,12 @@ def main():
     urls = json.load(open(a.urls, encoding="utf-8"))
     print(f"▶ {a.team} 队伍新闻双写采集（asof {a.asof}）→ {len(urls)} 源 → processed/team_news/{a.team}/ + data_raw/{a.ts}/")
     ok, blocked, skipped, rawd = collect(a.team, a.asof, a.ts, urls, refresh=a.refresh, prematch=a.prematch)
-    print(f"  → 新抓 {ok} / 被挡 {blocked} / 历史已抓跳过 {skipped}")
+    # 强制边收边报数:仓库累计源 + 是否达标(MIN=3),偷工当场可见、藏不住(配 news_preflight 硬门禁)
+    kind = "prematch_news" if a.prematch else "team_news"
+    total = len([p for p in glob.glob(f"{RUNS}/data_processed/{kind}/{a.team}/*.json")
+                 if (json.load(open(p, encoding="utf-8")).get("status", "ok") == "ok")])
+    flag = "✓" if total >= 3 else f"✗仅{total}源(<3,门禁会拦)"
+    print(f"  → {a.team}: 本轮新抓 {ok} / 被挡 {blocked} / 跳过 {skipped} · 仓库累计 {total} 源 {flag}")
 
 
 if __name__ == "__main__":

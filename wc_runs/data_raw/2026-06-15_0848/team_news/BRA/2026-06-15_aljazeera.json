@@ -1,0 +1,16 @@
+{
+ "team": "BRA",
+ "source": "Al Jazeera",
+ "url": "https://www.aljazeera.com/sports/2026/6/13/brazil-vs-morocco-world-cup-team-news-neymar-start-time-and-how-to-watch",
+ "title": "The biggest game yet: Brazil face Morocco in heavyweight World Cup clash",
+ "news_date": "2026-06-15",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-15",
+ "fetched": "2026-06-15_0848",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "Brazil begin their hunt for a record-extending sixth World Cup trophy in a heavyweight Group C encounter with Morocco.\n\nThe 2026 World Cup will have 13 different kickoff times. You can use the Al Jazeera Sport widget to find out exactly when your team is playing in your local time.\n\nWho : Brazil vs Morocco\nWhat : FIFA World Cup 2026 Group C match\nWhere : MetLife Stadium, East Rutherford, New Jersey\nWhen : Saturday, 6pm local time (22:00 GMT)\nHow to follow : We’ll have all the build-up on",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

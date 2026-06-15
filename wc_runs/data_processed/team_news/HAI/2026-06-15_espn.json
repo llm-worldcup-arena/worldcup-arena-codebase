@@ -1,0 +1,16 @@
+{
+ "team": "HAI",
+ "source": "ESPN",
+ "url": "https://www.espn.com/soccer/report/_/gameId/760418",
+ "title": "Haiti 0-1 Scotland (Jun 13, 2026) Game Analysis - ESPN",
+ "news_date": "2026-06-15",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-15",
+ "fetched": "2026-06-15_0848",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "FOXBOROUGH, Mass. -- John McGinn deflected a shot off an opposing defender and past goalkeeper Johny Placide in the 28th minute, and Scotland defeated Haiti 1-0 in Group C of the World Cup on Saturday.\nThe Scots, making their first appearance in the tournament since 1998, earned their first World Cup victory since 1990, when they beat Sweden 2-1.\nGroup favorites Brazil and Morocco played to a 1-1 draw earlier in the day, putting Scotland at the top of the group standings.\n\"We obviously have a little less pressure than everyone put on us in this game,\" Scotland coach Steve Clarke said. \"They deserve to be the team that finally got in under their belt in the World Cup.\"\nHaiti, whose only other World Cup appearance was in West Germany in 1974, are still in search of their first World Cup point.\nJohn McGinn (2nd L) celebrates with Scotland teammates after against Haiti.\nFRANCK FIFE / AFP via Getty Images\n\"We're playing at an extremely high level. But you can get punished with one oversight,\" Haiti coach Sébastien Migné said.\nMcGinn's goal came off a rebound from Che Adams' miss in the box that bounced off Placide and into open space. McGinn's shot ricocheted off a defender from 13 yards out.\nScotland's Tartan Army supporters were out in mass, creating a wave of red inside a filled in Gillette Stadium, located about 30 miles outside Boston.\n\"When it went into the back of the net, you could feel the Scotland fans,\" McGinn said.\nScotland came close to a goal in the 17th minute when captain Scott McTominay got loose and fired a shot that clipped the top of the post.\nHaiti had its best opportunities in the second half. In the 74th minute, Ruben Providence sent a cross in to Wilson Isidor, but the forward came up empty on his attempt to direct the ball in.\nThen in the 84th, Frantzdy Pierrot's header went a wide of the left side.\nScotland stay in town to play Morocco at Gillette Stadium on Friday. Haiti will next face Brazil on Friday in Philadelphia.\nThe Associated Press contributed to this report.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

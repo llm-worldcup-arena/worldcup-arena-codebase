@@ -1,0 +1,16 @@
+{
+ "team": "FRA",
+ "source": "Al Jazeera",
+ "url": "https://www.aljazeera.com/sports/2026/6/2/france-world-cup-2026-preview-players-to-watch-group-matches-and-squad",
+ "title": "World Cup contenders: Can Deschamps convert France’s talent into glory?",
+ "news_date": "2026-06-15",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-15",
+ "fetched": "2026-06-15_0848",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "Departing coach Didier Deschamps looks to win second title with side led by superstar forwards Kylian Mbappe and Ousmane Dembele.\n\nThe FIFA World Cup begins on June 11. You can follow the action on Al Jazeera’s dedicated World Cup 2026 page with all the latest news, match build-up and live text commentary, and",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

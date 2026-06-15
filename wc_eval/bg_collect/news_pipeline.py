@@ -144,6 +144,9 @@ def main():
     if a.teams == "ALL":
         teams = sorted(os.path.basename(d.rstrip("/")) for d in glob.glob(f"{RUNS}/team_data/{a.snapshot}/*/")
                        if re.match(r"^[A-Z]{3}$", os.path.basename(d.rstrip("/"))))
+        # 硬约束:ALL 必须是全 48 队,缺队直接报错(防"少处理几队"无声 downscale)
+        assert len(teams) == 48, (f"❌ --teams ALL 期望 48 队,快照 {a.snapshot} 实有 {len(teams)} 队"
+                                   f"——范围不全,拒跑。先确认快照完整(snapshot_round 复制全48队)。")
     else:
         teams = [t.strip() for t in a.teams.split(",")]
     print(f"▶ news_pipeline:{len(teams)} 队 · 快照 {a.snapshot} · ts {a.ts} · py-Kimi 三判并行")

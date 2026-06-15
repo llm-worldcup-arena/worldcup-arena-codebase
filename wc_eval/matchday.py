@@ -91,11 +91,15 @@ def main():
     if a.review:
         run(["python3", "review_round.py"], PR)
 
-    # ⑦ 预测(先开球时间核对 + 体检 + 可选终审官)
+    # ⑦ 预测(先新闻收集门禁 + 开球时间核对 + 体检 + 可选终审官)
     if a.predict.strip() and snap:
         ms = ",".join(p.strip().replace("-", "-") for p in a.predict.split(","))
-        # ⑦.0 开球时间核对:FIX(网页显示)↔ matches.json(预测prompt)一致 + 非ET场醒目标记
-        #      (防"西部时区场把美东时间算错"再犯;硬不一致则拦,非ET场打印提示 agent 外部核对)
+        # ⑦.0a 新闻收集硬门禁:全48队、每队≥3源(news_preflight 是范围/源标准唯一权威)
+        #       不达标直接拒预测 —— "少收几队/源太少"在代码层就过不了门,不靠自觉(防 downscale 蒙混)
+        if run(["python3", "news_preflight.py"], BG) != 0:
+            sys.exit("✗ 新闻收集门禁未过(有队 <3 源/不足48队),补齐后再预测")
+        # ⑦.0b 开球时间核对:FIX(网页显示)↔ matches.json(预测prompt)一致 + 非ET场醒目标记
+        #       (防"西部时区场把美东时间算错"再犯;硬不一致则拦,非ET场打印提示 agent 外部核对)
         if run(["python3", "verify_kickoffs.py", "--matches", ms], PR) != 0:
             sys.exit("✗ 开球时间核对未过(FIX↔matches 不一致/当地越界),修正后再来")
         pf = ["python3", "preflight.py", "--snapshot", snap, "--matches", ms]
