@@ -145,6 +145,12 @@ def collect(team, asof, ts, urls, min_chars=300, refresh=False, prematch=False):
             "fetch_sources 直抓逐字全文（+Apify 兜底+质量门），不经模型改写。\n"
             "- **新旧判断**：身份键=URL、以 processed 仓库为准；已有默认跳过（--refresh 重拍快照）。\n"
             "- **下游**：全文走 summary 块A（LLM 三判后只增不改）；≥2 源交叉、防张冠李戴。\n")
+    # 本轮"搜过"留痕(即使 0 新增也写)——区分"搜了没新"(合法) vs "没搜"(降级)。配 news_preflight 尝试制门禁消假绿灯。
+    # urls_checked = 本轮喂了几个 URL(喂空列表假装搜过 → urls_checked=0,门禁能识破)。
+    amd = f"{RUNS}/data_raw/{ts}/_news_attempts"
+    os.makedirs(amd, exist_ok=True)
+    json.dump({"team": team, "ts": ts, "urls_checked": len(urls), "new": ok, "blocked": blocked, "skipped": skipped},
+              open(f"{amd}/{team}.json", "w", encoding="utf-8"), ensure_ascii=False)
     return ok, blocked, skipped, rawd
 
 

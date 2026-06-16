@@ -94,10 +94,11 @@ def main():
     # ⑦ 预测(先新闻收集门禁 + 开球时间核对 + 体检 + 可选终审官)
     if a.predict.strip() and snap:
         ms = ",".join(p.strip().replace("-", "-") for p in a.predict.split(","))
-        # ⑦.0a 新闻收集硬门禁:全48队、每队≥3源(news_preflight 是范围/源标准唯一权威)
-        #       不达标直接拒预测 —— "少收几队/源太少"在代码层就过不了门,不靠自觉(防 downscale 蒙混)
-        if run(["python3", "news_preflight.py"], BG) != 0:
-            sys.exit("✗ 新闻收集门禁未过(有队 <3 源/不足48队),补齐后再预测")
+        # ⑦.0a 新闻收集硬门禁:全48队、每队≥3源、**本轮都搜过**(--round 传本轮ts)+ 陈旧告警
+        #       (news_preflight 是范围/源/新鲜度标准的唯一权威)不达标直接拒预测——
+        #       "少收几队/源太少/本轮没搜"在代码层就过不了门,不靠自觉(防 downscale 蒙混、防假绿灯)
+        if run(["python3", "news_preflight.py", "--round", a.ts], BG) != 0:
+            sys.exit("✗ 新闻收集门禁未过(有队 <3 源/本轮没搜/不足48队),补齐后再预测")
         # ⑦.0b 开球时间核对:FIX(网页显示)↔ matches.json(预测prompt)一致 + 非ET场醒目标记
         #       (防"西部时区场把美东时间算错"再犯;硬不一致则拦,非ET场打印提示 agent 外部核对)
         if run(["python3", "verify_kickoffs.py", "--matches", ms], PR) != 0:
