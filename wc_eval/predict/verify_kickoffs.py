@@ -102,11 +102,11 @@ def main():
         # 北京 = 美东 + 12(赛事期全程 EDT)
         ethh = int(r["et"].split(":")[0]); etmm = r["et"].split(":")[1]
         bj = f"{(ethh + 12) % 24:02d}:{etmm}"
-        # ① 一致性:FIX 美东 vs matches.json 美东
+        # ① 一致性:FIX 美东 vs matches.json 美东(FIX 用 24:00 表示当日午夜=次日0点,故 %24 归一比较)
         mjhh = mj.get((d_iso, hc, ac))
-        consistent = (mjhh is None) or (mjhh == ethh)
-        # ② 当地合理性
-        sane = (local is None) or (local in SANE_LOCAL_HOURS)
+        consistent = (mjhh is None) or (mjhh == ethh % 24)
+        # ② 当地合理性(午夜场:local 已 %24,如 SF 9pm PT;24:00ET→24%24计入合理档)
+        sane = (local is None) or (local in SANE_LOCAL_HOURS) or (ethh == 24 and local == 21)
         # ③ 非ET场标记
         nonet = off and off > 0
         tag = []

@@ -1,0 +1,16 @@
+{
+ "team": "PAR",
+ "source": "ESPN",
+ "url": "https://www.espn.com/soccer/report/_/gameId/760417",
+ "title": "USA 4-1 Paraguay (Jun 12, 2026) Game Analysis - ESPN",
+ "news_date": "2026-06-15",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-15",
+ "fetched": "2026-06-15_2310",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "The United States cruised past Paraguay to open its home World Cup campaign with a statement victory in front of a galaxy of Los Angeles stars.\nMonaco forward Folarin Balogun scored two well-taken first-half goals as Mauricio Pochettino's side served early notice of their capabilities in a convincing 4-1 win.\nThe hosts were straight out of the blocks and took an early lead when Paraguay's Damián Bobadilla prodded a Weston McKennie cross into his own net.\nThe U.S. was irrepressible, and minutes after Balogun had a goal ruled offside, he made no mistake to finish off a flowing move after Christian Pulisic squared it from the left.\nThey added a third in first-half injury time as Malik Tillman -- among tough competition probably the best player on the pitch -- released Balogun into the box.\nUSMNT players celebrate after scoring a goal against Paraguay at the World Cup.\nGetty Images\nThe 24-year-old still had a lot to do but worked his way past two Paraguayan defenders, shifted the ball onto his left foot and picked out the top corner, giving Orlando Gill no chance.\nBalogun was born in the New York borough of Brooklyn to Nigerian parents. A month later, he moved to England, where he grew up in London. He joined Arsenal's academy at age 8. He represented England at the youth level and also played for the U.S. Under-18 team.\nOn Friday, he cemented his place as the No. 1 striker for the U.S., a position the Americans have long been looking to fill.\nParaguay's Brazil-born midfielder Mauricio pulled one back in the 73rd minute after finding space on the left of the box.\nBut the U.S. restored the three-goal cushion deep into injury time as substitute Giovanni Reyna curled in a sublime shot with the outside of his right foot.\nInformation from PA and The Associated Press was used in this recap.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

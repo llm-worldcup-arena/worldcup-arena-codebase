@@ -131,7 +131,7 @@ def gen(code, teams, rank, squad, persons, matches, venues, groups, wikidir):
     mates = [m for m in (groups.get(grp, []) if grp else []) if m != code]
     L = []
     L.append(f"# {name_zh}（{t.get('name_en', code)}） — 2026 世界杯背景资料")
-    L.append(f"（信息截至 {ASOF}，供赛前预测使用，不含赛事结果；数据源自维基/采集真值，可回溯 raw）\n")
+    L.append("（赛前资料，供预测使用；以维基/采集真值为准，含截至**预测时点**的公开信息；**仅排除「本场及本场之后比赛」的结果**——本场之前的真实赛果(热身赛/预选赛/早先小组赛等)属合法赛前信息、予以保留；可回溯 raw）\n")
     # 速览
     q = t.get("qualifying") or {}
     L.append("## 速览")

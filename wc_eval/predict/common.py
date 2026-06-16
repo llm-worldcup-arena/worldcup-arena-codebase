@@ -228,6 +228,11 @@ _HANDICAP = {
     ("ESP", "CPV"): -2.0,    # 西班牙 -2(ESP -1250 ML 巨热 vs CPV首秀;WH -2@17/20,区间-1.5~-2.5;FOX/CBS)
     ("IRN", "NZL"): -0.5,    # 伊朗 -0.5(IRN -118/-120 ML 小热;FanDuel/bet365/ESPN)
     ("BEL", "EGY"): -0.5,    # 比利时 -0.5(BEL -150 ML;bet365/FOX/Ladbrokes)
+    # —— 6/16(多源核对 2026-06-15 晚) ——
+    ("FRA", "SEN"): -1.5,    # 法国 -1.5(FRA -220 ML;AH 法-1.5 +140;CBS/SportsLine/ESPN)
+    ("IRQ", "NOR"): +1.5,    # 挪威(客)让1.5(NOR -450 ML 大热 Haaland;bet365)
+    ("ARG", "ALG"): -1.0,    # 阿根廷 -1(ARG -239 ML;Covers/Squawka,Kalshi 71%)
+    ("AUT", "JOR"): -1.5,    # 奥地利 -1.5(AUT -310 ML vs 约旦首秀;FanDuel,UEFA预选多场净胜2+)
 }
 
 
