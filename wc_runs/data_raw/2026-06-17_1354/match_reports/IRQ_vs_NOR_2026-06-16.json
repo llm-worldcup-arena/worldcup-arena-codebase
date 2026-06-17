@@ -1,0 +1,363 @@
+{
+ "match_id": "4697921",
+ "date": "2026-06-16",
+ "comp": "世界杯",
+ "ha_home": "中",
+ "home": "IRQ",
+ "away": "NOR",
+ "score": "1-4",
+ "venue": "Gillette Stadium",
+ "attendance": 63106,
+ "goals": [
+  {
+   "min": 29,
+   "side": "away",
+   "player": "Erling Haaland",
+   "sub": null
+  },
+  {
+   "min": 39,
+   "side": "home",
+   "player": "Aymen Hussein",
+   "sub": null
+  },
+  {
+   "min": 43,
+   "side": "away",
+   "player": "Erling Haaland",
+   "sub": null
+  },
+  {
+   "min": 76,
+   "side": "away",
+   "player": "Leo Oestigaard",
+   "sub": null
+  },
+  {
+   "min": 90,
+   "side": "away",
+   "player": "Aymen Hussein",
+   "sub": "乌龙"
+  }
+ ],
+ "cards": [
+  {
+   "min": 86,
+   "side": "home",
+   "player": "Zaid Tahsen",
+   "type": "黄牌"
+  }
+ ],
+ "stats": {
+  "射门": [
+   "11",
+   "12"
+  ],
+  "射正": [
+   "1",
+   "5"
+  ],
+  "禁区内射门": [
+   "8",
+   "4"
+  ],
+  "扑救": [
+   "2",
+   "3"
+  ],
+  "角球": [
+   "2",
+   "5"
+  ],
+  "越位": [
+   "1",
+   "0"
+  ],
+  "控球%": [
+   "39%",
+   "61%"
+  ],
+  "传中": [
+   "65",
+   "80"
+  ],
+  "传球": [
+   "271",
+   "477"
+  ],
+  "xG预期进球": [
+   "0.81",
+   "1.52"
+  ],
+  "xGOT/大机会": [
+   "0.6",
+   "2.65"
+  ]
+ },
+ "lineups": {
+  "home": [
+   {
+    "no": 12,
+    "name": "Jalal Hassan Hachim"
+   },
+   {
+    "no": 23,
+    "name": "Merchas Doski"
+   },
+   {
+    "no": 5,
+    "name": "Akam Hashem"
+   },
+   {
+    "no": 4,
+    "name": "Zaid Tahsen"
+   },
+   {
+    "no": 3,
+    "name": "Hussein Ali"
+   },
+   {
+    "no": 17,
+    "name": "Ali Jassim"
+   },
+   {
+    "no": 16,
+    "name": "Amir Al-Ammari"
+   },
+   {
+    "no": 24,
+    "name": "Zaid Ismail"
+   },
+   {
+    "no": 8,
+    "name": "Ibrahim Bayesh"
+   },
+   {
+    "no": 9,
+    "name": "Ali Al-Hamadi"
+   },
+   {
+    "no": 18,
+    "name": "Aymen Hussein"
+   },
+   {
+    "no": 11,
+    "name": "Ahmed Qasem"
+   },
+   {
+    "no": 25,
+    "name": "Mustafa Saadoon"
+   },
+   {
+    "no": 10,
+    "name": "Mohanad Ali"
+   },
+   {
+    "no": 21,
+    "name": "Marko Farji"
+   },
+   {
+    "no": 14,
+    "name": "Zidane Iqbal"
+   },
+   {
+    "no": 2,
+    "name": "Rebin Sulaka"
+   },
+   {
+    "no": 15,
+    "name": "Ahmed Hasan Maknzi"
+   },
+   {
+    "no": 22,
+    "name": "Ahmed Basil"
+   },
+   {
+    "no": 6,
+    "name": "Manaf Younis"
+   },
+   {
+    "no": 7,
+    "name": "Youssef Amyn"
+   },
+   {
+    "no": 26,
+    "name": "Frans Dhia Putros"
+   },
+   {
+    "no": 13,
+    "name": "Ali Yousif Hashim"
+   },
+   {
+    "no": 1,
+    "name": "Fahad Talib"
+   },
+   {
+    "no": 20,
+    "name": "Aimar Sher"
+   },
+   {
+    "no": 19,
+    "name": "Kevin Yakob"
+   }
+  ],
+  "away": [
+   {
+    "no": 1,
+    "name": "Örjan Nyland"
+   },
+   {
+    "no": 5,
+    "name": "David Moller Wolfe"
+   },
+   {
+    "no": 17,
+    "name": "Torbjörn Heggem"
+   },
+   {
+    "no": 3,
+    "name": "Kristoffer Ajer"
+   },
+   {
+    "no": 26,
+    "name": "Julian Ryerson"
+   },
+   {
+    "no": 20,
+    "name": "Antonio Nusa"
+   },
+   {
+    "no": 14,
+    "name": "Fredrik Aursnes"
+   },
+   {
+    "no": 8,
+    "name": "Sander Berge"
+   },
+   {
+    "no": 10,
+    "name": "Martin Odegaard"
+   },
+   {
+    "no": 9,
+    "name": "Erling Haaland"
+   },
+   {
+    "no": 7,
+    "name": "Alexander Sorloth"
+   },
+   {
+    "no": 6,
+    "name": "Patrick Berg"
+   },
+   {
+    "no": 22,
+    "name": "Oscar Bobb"
+   },
+   {
+    "no": 21,
+    "name": "Andreas Schjelderup"
+   },
+   {
+    "no": 4,
+    "name": "Leo Oestigaard"
+   },
+   {
+    "no": 18,
+    "name": "Kristian Thorstvedt"
+   },
+   {
+    "no": 19,
+    "name": "Thelo Aasgaard"
+   },
+   {
+    "no": 15,
+    "name": "Fredrik Bjørkan"
+   },
+   {
+    "no": 23,
+    "name": "Jens Hauge"
+   },
+   {
+    "no": 16,
+    "name": "Marcus Pedersen"
+   },
+   {
+    "no": 24,
+    "name": "Sondre Langås"
+   },
+   {
+    "no": 13,
+    "name": "Egil Selvik"
+   },
+   {
+    "no": 11,
+    "name": "Jørgen Strand Larsen"
+   },
+   {
+    "no": 25,
+    "name": "Henrik Falchener"
+   },
+   {
+    "no": 12,
+    "name": "Sander Tangvik"
+   },
+   {
+    "no": 2,
+    "name": "Morten Thorsby"
+   }
+  ]
+ },
+ "missing": [],
+ "events": [
+  {
+   "min": 29,
+   "side": "away",
+   "type": "进球",
+   "sub": null,
+   "player": "Erling Haaland"
+  },
+  {
+   "min": 39,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Aymen Hussein"
+  },
+  {
+   "min": 43,
+   "side": "away",
+   "type": "进球",
+   "sub": null,
+   "player": "Erling Haaland"
+  },
+  {
+   "min": 76,
+   "side": "away",
+   "type": "进球",
+   "sub": null,
+   "player": "Leo Oestigaard"
+  },
+  {
+   "min": 86,
+   "side": "home",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Zaid Tahsen"
+  },
+  {
+   "min": 90,
+   "side": "away",
+   "type": "进球",
+   "sub": "乌龙",
+   "player": "Aymen Hussein"
+  }
+ ],
+ "injuries": [],
+ "suspensions": [],
+ "ratings": {},
+ "quotes": [],
+ "narrative": "",
+ "prediction_note": "",
+ "_note": "macheta/Sofascore 权威硬数据；injuries/suspensions/ratings/quotes/narrative/prediction_note 待 agent WebSearch 补。"
+}

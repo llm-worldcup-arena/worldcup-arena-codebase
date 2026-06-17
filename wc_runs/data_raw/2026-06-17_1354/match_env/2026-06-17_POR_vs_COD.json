@@ -1,0 +1,41 @@
+{
+ "match": {
+  "slug": "2026-06-17_POR_vs_COD",
+  "date": "2026-06-17",
+  "home": "POR",
+  "away": "COD",
+  "round": "group",
+  "group": "K"
+ },
+ "kickoff": {
+  "美东": "2026-06-17T13:00:00-04:00",
+  "北京": "06-18 01:00"
+ },
+ "venue": {
+  "name": "NRG Stadium",
+  "city": "Houston",
+  "altitude_m": 15,
+  "roof": "retractable",
+  "surface": "grass"
+ },
+ "weather": {
+  "开球时段": {
+   "温度C": 26.9,
+   "体感C": 30.7,
+   "降水概率%": 14,
+   "降水mm": 0.0,
+   "风速kmh": 20.9,
+   "湿度%": 90,
+   "天况": "局部多云"
+  },
+  "source": "open-meteo(免费预报API)",
+  "fetched": "2026-06-17_1354",
+  "_note": "临近开球建议 --refresh 刷新"
+ },
+ "referee": {
+  "name": "Abdulrahman Al-Jassim (卡塔尔)",
+  "source": "FIFA/ESPN",
+  "fetched": "2026-06-17_1354"
+ },
+ "_note": "环境=比赛+时间+地点 确定;天气为开球时段;顶棚 retractable/fixed-canopy 时天气影响有限。"
+}

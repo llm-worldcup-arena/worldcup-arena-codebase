@@ -126,7 +126,8 @@ def collect(team, asof, ts, urls, min_chars=300, refresh=False, prematch=False):
                "asof": asof, "fetched": ts, "method": method, "status": status,
                "original_text": text,
                "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"}
-        fn = f"{nd}_{name}.json"                              # 文件名带新闻日期(利于按时序判断)
+        safe_name = re.sub(r'[/\\:*?"<>|]', "-", name)        # 消毒:名字里的路径/非法字符→"-"(防 "Rice/Saka" 当目录崩)
+        fn = f"{nd}_{safe_name}.json"                          # 文件名带新闻日期(利于按时序判断)
         body = json.dumps(rec, ensure_ascii=False, indent=1)
         open(f"{curd}/{fn}", "w", encoding="utf-8").write(body)    # ① 成熟仓库(累积)
         open(f"{rawd}/{fn}", "w", encoding="utf-8").write(body)    # ② 收集过程(本次新增)

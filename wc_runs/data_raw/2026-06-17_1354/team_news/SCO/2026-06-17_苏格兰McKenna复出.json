@@ -1,0 +1,16 @@
+{
+ "team": "SCO",
+ "source": "Scotsman",
+ "url": "https://www.scotsman.com/sport/football/international/scotland-handed-major-injury-boost-ahead-of-morocco-world-cup-match-8744374",
+ "title": "Scotland handed major injury boost ahead of Morocco World Cup match",
+ "news_date": "2026-06-17",
+ "published": null,
+ "tier": "T2",
+ "lang": "en",
+ "asof": "2026-06-17",
+ "fetched": "2026-06-17_1354",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Scotland handed major injury boost ahead of Morocco World Cup match\nCentre-half McKenna now in contention to face Moroccans\nScotland have been given an injury boost ahead of Friday night’s World Cup clash with Morocco after defender Scott McKenna returned to training.\nCentre-back McKenna missed the 1-0 Group C win over Haiti on Saturday with a calf injury which has curtailed his preparations.\nHowever, boss Steve Clarke now has a full complement of players for their second group game at the Boston stadium.\nScotland defender Scott McKenna trains ahead of the match against Morocco. | PA\nMcKenna was pictured back in full training with his fellow Scotland teammates on Tuesday at the team’s basecamp in Charlotte.\nScotland played with a back-four during the 1-0 win over Haiti over the weekend, but could switch to a three-man defence for the clash with the Moroccans.\nWith Morocco and Brazil drawing 1-1 in their group opener, the Scots are top of the table with three points as they look to qualify for the knockout stages for the first time.\nAfter taking on Morocco, Scotland – who are in the World Cup for the first time since 1998 – fly to Miami for their final Group C fixture against the Brazilians on June 24.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

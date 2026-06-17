@@ -1,0 +1,337 @@
+{
+ "match_id": "4627879",
+ "date": "2026-06-16",
+ "comp": "世界杯",
+ "ha_home": "中",
+ "home": "ARG",
+ "away": "ALG",
+ "score": "3-0",
+ "venue": "Arrowhead Stadium (Kansas City)",
+ "attendance": 69045,
+ "goals": [
+  {
+   "min": 17,
+   "side": "home",
+   "player": "Lionel Messi",
+   "sub": null
+  },
+  {
+   "min": 60,
+   "side": "home",
+   "player": "Lionel Messi",
+   "sub": null
+  },
+  {
+   "min": 76,
+   "side": "home",
+   "player": "Lionel Messi",
+   "sub": null
+  }
+ ],
+ "cards": [],
+ "stats": {
+  "射门": [
+   "10",
+   "7"
+  ],
+  "射正": [
+   "6",
+   "0"
+  ],
+  "禁区内射门": [
+   "4",
+   "4"
+  ],
+  "扑救": [
+   "0",
+   "3"
+  ],
+  "角球": [
+   "2",
+   "2"
+  ],
+  "越位": [
+   "3",
+   "1"
+  ],
+  "控球%": [
+   "48%",
+   "52%"
+  ],
+  "传中": [
+   "91",
+   "120"
+  ],
+  "传球": [
+   "504",
+   "559"
+  ],
+  "xG预期进球": [
+   "0.53",
+   "0.39"
+  ],
+  "xGOT/大机会": [
+   "1.98",
+   "0"
+  ]
+ },
+ "lineups": {
+  "home": [
+   {
+    "no": 23,
+    "name": "Emiliano Martinez"
+   },
+   {
+    "no": 25,
+    "name": "Facundo Medina"
+   },
+   {
+    "no": 6,
+    "name": "Lisandro Martinez"
+   },
+   {
+    "no": 13,
+    "name": "Cristian Romero"
+   },
+   {
+    "no": 4,
+    "name": "Gonzalo Montiel"
+   },
+   {
+    "no": 16,
+    "name": "Thiago Almada"
+   },
+   {
+    "no": 24,
+    "name": "Enzo Fernandez"
+   },
+   {
+    "no": 20,
+    "name": "Alexis Mac Allister"
+   },
+   {
+    "no": 7,
+    "name": "Rodrigo De Paul"
+   },
+   {
+    "no": 22,
+    "name": "Lautaro Martinez"
+   },
+   {
+    "no": 10,
+    "name": "Lionel Messi"
+   },
+   {
+    "no": 9,
+    "name": "Julian Alvarez"
+   },
+   {
+    "no": 15,
+    "name": "Nicolas Gonzalez"
+   },
+   {
+    "no": 26,
+    "name": "Nahuel Molina"
+   },
+   {
+    "no": 19,
+    "name": "Nicolas Otamendi"
+   },
+   {
+    "no": 18,
+    "name": "Nico Paz"
+   },
+   {
+    "no": 8,
+    "name": "Valentin Barco"
+   },
+   {
+    "no": 11,
+    "name": "Giovani Lo Celso"
+   },
+   {
+    "no": 21,
+    "name": "Jose Manuel Lopez"
+   },
+   {
+    "no": 1,
+    "name": "Juan Musso"
+   },
+   {
+    "no": 14,
+    "name": "Exequiel Palacios"
+   },
+   {
+    "no": 5,
+    "name": "Leandro Paredes"
+   },
+   {
+    "no": 12,
+    "name": "Geronimo Rulli"
+   },
+   {
+    "no": 2,
+    "name": "Marcos Senesi"
+   },
+   {
+    "no": 17,
+    "name": "Giuliano Simeone"
+   },
+   {
+    "no": 3,
+    "name": "Nicolas Tagliafico"
+   }
+  ],
+  "away": [
+   {
+    "no": 23,
+    "name": "Luca Zidane"
+   },
+   {
+    "no": 15,
+    "name": "Rayan Ait Nouri"
+   },
+   {
+    "no": 21,
+    "name": "Ramy Bensebaini"
+   },
+   {
+    "no": 2,
+    "name": "Aissa Mandi"
+   },
+   {
+    "no": 17,
+    "name": "Rafik Belghali"
+   },
+   {
+    "no": 22,
+    "name": "Ibrahim Maza"
+   },
+   {
+    "no": 19,
+    "name": "Nabil Bentaleb"
+   },
+   {
+    "no": 14,
+    "name": "Hicham Boudaoui"
+   },
+   {
+    "no": 10,
+    "name": "Fares Chaibi"
+   },
+   {
+    "no": 9,
+    "name": "Amine Gouiri"
+   },
+   {
+    "no": 11,
+    "name": "Anis Hadj Moussa"
+   },
+   {
+    "no": 18,
+    "name": "Mohamed Amoura"
+   },
+   {
+    "no": 8,
+    "name": "Houssem Aouar"
+   },
+   {
+    "no": 20,
+    "name": "Adil Boulbina"
+   },
+   {
+    "no": 7,
+    "name": "Riyad Mahrez"
+   },
+   {
+    "no": 6,
+    "name": "Ramiz Zerrouki"
+   },
+   {
+    "no": 3,
+    "name": "Achref Abada"
+   },
+   {
+    "no": 5,
+    "name": "Zineddine Belaïd"
+   },
+   {
+    "no": 16,
+    "name": "Oussama Benbot"
+   },
+   {
+    "no": 12,
+    "name": "Nadhir Benbouali"
+   },
+   {
+    "no": 26,
+    "name": "Samir Chergui"
+   },
+   {
+    "no": 25,
+    "name": "Farès Ghedjemis"
+   },
+   {
+    "no": 13,
+    "name": "Jaouen Hadjam"
+   },
+   {
+    "no": 1,
+    "name": "Melvin Mastil"
+   },
+   {
+    "no": 24,
+    "name": "Yassine Titraoui"
+   },
+   {
+    "no": 4,
+    "name": "Mohamed Tougai"
+   }
+  ]
+ },
+ "missing": [],
+ "events": [
+  {
+   "min": 6,
+   "side": "home",
+   "type": "T4",
+   "sub": "乌龙",
+   "player": "Goal Disallowed"
+  },
+  {
+   "min": 9,
+   "side": "away",
+   "type": "T4",
+   "sub": "乌龙",
+   "player": "Goal Disallowed"
+  },
+  {
+   "min": 17,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Lionel Messi"
+  },
+  {
+   "min": 60,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Lionel Messi"
+  },
+  {
+   "min": 76,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Lionel Messi"
+  }
+ ],
+ "injuries": [],
+ "suspensions": [],
+ "ratings": {},
+ "quotes": [],
+ "narrative": "",
+ "prediction_note": "",
+ "_note": "macheta/Sofascore 权威硬数据；injuries/suspensions/ratings/quotes/narrative/prediction_note 待 agent WebSearch 补。"
+}

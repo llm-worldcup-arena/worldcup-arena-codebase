@@ -1,0 +1,344 @@
+{
+ "match_id": "4627910",
+ "date": "2026-06-16",
+ "comp": "世界杯",
+ "ha_home": "中",
+ "home": "AUT",
+ "away": "JOR",
+ "score": "2-1",
+ "venue": "Levi's Stadium (Santa Clara)",
+ "attendance": 68527,
+ "goals": [
+  {
+   "min": 21,
+   "side": "home",
+   "player": "Romano Schmid",
+   "sub": null
+  },
+  {
+   "min": 50,
+   "side": "away",
+   "player": "Ali Alowan",
+   "sub": null
+  },
+  {
+   "min": 76,
+   "side": "home",
+   "player": "Yazan Al-Arab",
+   "sub": "乌龙"
+  }
+ ],
+ "cards": [
+  {
+   "min": 77,
+   "side": "home",
+   "player": "Marcel Sabitzer",
+   "type": "黄牌"
+  }
+ ],
+ "stats": {
+  "射门": [
+   "10",
+   "11"
+  ],
+  "射正": [
+   "3",
+   "4"
+  ],
+  "禁区内射门": [
+   "6",
+   "5"
+  ],
+  "扑救": [
+   "1",
+   "2"
+  ],
+  "角球": [
+   "4",
+   "3"
+  ],
+  "越位": [
+   "3",
+   "1"
+  ],
+  "控球%": [
+   "64%",
+   "36%"
+  ],
+  "传中": [
+   "128",
+   "82"
+  ],
+  "传球": [
+   "466",
+   "228"
+  ],
+  "xG预期进球": [
+   "0.91",
+   "0.32"
+  ],
+  "xGOT/大机会": [
+   "0.69",
+   "1.7"
+  ]
+ },
+ "lineups": {
+  "home": [
+   {
+    "no": 1,
+    "name": "Alexander Schlager"
+   },
+   {
+    "no": 16,
+    "name": "Phillipp Mwene"
+   },
+   {
+    "no": 8,
+    "name": "David Alaba"
+   },
+   {
+    "no": 15,
+    "name": "Philipp Lienhart"
+   },
+   {
+    "no": 5,
+    "name": "Stefan Posch"
+   },
+   {
+    "no": 4,
+    "name": "Xaver Schlager"
+   },
+   {
+    "no": 6,
+    "name": "Nicolas Seiwald"
+   },
+   {
+    "no": 9,
+    "name": "Marcel Sabitzer"
+   },
+   {
+    "no": 20,
+    "name": "Konrad Laimer"
+   },
+   {
+    "no": 18,
+    "name": "Romano Schmid"
+   },
+   {
+    "no": 14,
+    "name": "Sasa Kalajdzic"
+   },
+   {
+    "no": 7,
+    "name": "Marko Arnautovic"
+   },
+   {
+    "no": 17,
+    "name": "Carney Chukwuemeka"
+   },
+   {
+    "no": 3,
+    "name": "Kevin Danso"
+   },
+   {
+    "no": 24,
+    "name": "Paul Wanner"
+   },
+   {
+    "no": 21,
+    "name": "Patrick Wimmer"
+   },
+   {
+    "no": 2,
+    "name": "David Affengruber"
+   },
+   {
+    "no": 23,
+    "name": "Marco Friedl"
+   },
+   {
+    "no": 11,
+    "name": "Michael Gregoritsch"
+   },
+   {
+    "no": 10,
+    "name": "Florian Grillitsch"
+   },
+   {
+    "no": 19,
+    "name": "Dejan Ljubicic"
+   },
+   {
+    "no": 13,
+    "name": "Patrick Pentz"
+   },
+   {
+    "no": 22,
+    "name": "Alexander Prass"
+   },
+   {
+    "no": 26,
+    "name": "Alessandro Schöpf"
+   },
+   {
+    "no": 25,
+    "name": "Michael Svoboda"
+   },
+   {
+    "no": 12,
+    "name": "Florian Wiegele"
+   }
+  ],
+  "away": [
+   {
+    "no": 1,
+    "name": "Yazeed Abu laila"
+   },
+   {
+    "no": 16,
+    "name": "Mohammad Abualnadi"
+   },
+   {
+    "no": 5,
+    "name": "Yazan Al-Arab"
+   },
+   {
+    "no": 3,
+    "name": "Abdallah Nasib"
+   },
+   {
+    "no": 20,
+    "name": "Mohannad  Mahmoud abo Taha"
+   },
+   {
+    "no": 8,
+    "name": "Noor Al-Rawabdeh"
+   },
+   {
+    "no": 21,
+    "name": "Nizar Al Rashdan"
+   },
+   {
+    "no": 23,
+    "name": "Ehsan Haddad"
+   },
+   {
+    "no": 9,
+    "name": "Ali Alowan"
+   },
+   {
+    "no": 11,
+    "name": "Odeh Fakhouri"
+   },
+   {
+    "no": 10,
+    "name": "Musa Al-Taamari"
+   },
+   {
+    "no": 25,
+    "name": "Mohammad Al-Dawoud"
+   },
+   {
+    "no": 13,
+    "name": "Mahmoud Al Mardi"
+   },
+   {
+    "no": 19,
+    "name": "Saed Al Rosan"
+   },
+   {
+    "no": 24,
+    "name": "Ali Al-Azaizeh"
+   },
+   {
+    "no": 17,
+    "name": "Saleem Obaid"
+   },
+   {
+    "no": 4,
+    "name": "Husam Abudahab"
+   },
+   {
+    "no": 2,
+    "name": "Mohammad Abu Hasheesh"
+   },
+   {
+    "no": 7,
+    "name": "Mohamed Abu Zraiq Sharara"
+   },
+   {
+    "no": 22,
+    "name": "Abdallah Al Fakhouri"
+   },
+   {
+    "no": 26,
+    "name": "Anas Badawi"
+   },
+   {
+    "no": 12,
+    "name": "Nour Bani Ateyah"
+   },
+   {
+    "no": 14,
+    "name": "Rajaei Ayed"
+   },
+   {
+    "no": 6,
+    "name": "Amer Jamous"
+   },
+   {
+    "no": 15,
+    "name": "Ibrahim Saadeh"
+   },
+   {
+    "no": 18,
+    "name": "Mohammad Taha"
+   }
+  ]
+ },
+ "missing": [],
+ "events": [
+  {
+   "min": 21,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Romano Schmid"
+  },
+  {
+   "min": 50,
+   "side": "away",
+   "type": "进球",
+   "sub": null,
+   "player": "Ali Alowan"
+  },
+  {
+   "min": 71,
+   "side": "home",
+   "type": "T4",
+   "sub": "乌龙",
+   "player": "Goal Disallowed"
+  },
+  {
+   "min": 76,
+   "side": "home",
+   "type": "进球",
+   "sub": "乌龙",
+   "player": "Yazan Al-Arab"
+  },
+  {
+   "min": 77,
+   "side": "home",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Marcel Sabitzer"
+  }
+ ],
+ "injuries": [],
+ "suspensions": [],
+ "ratings": {},
+ "quotes": [],
+ "narrative": "",
+ "prediction_note": "",
+ "_note": "macheta/Sofascore 权威硬数据；injuries/suspensions/ratings/quotes/narrative/prediction_note 待 agent WebSearch 补。"
+}

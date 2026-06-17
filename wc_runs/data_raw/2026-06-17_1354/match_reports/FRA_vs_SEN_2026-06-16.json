@@ -1,0 +1,336 @@
+{
+ "match_id": 4627862,
+ "date": "2026-06-16",
+ "comp": "世界杯",
+ "ha_home": "中",
+ "home": "FRA",
+ "away": "SEN",
+ "score": "3-1",
+ "venue": "MetLife Stadium (New Jersey)",
+ "attendance": 80545,
+ "goals": [
+  {
+   "min": 66,
+   "side": "home",
+   "player": "Kylian Mbappe",
+   "sub": null
+  },
+  {
+   "min": 82,
+   "side": "home",
+   "player": "Bradley Barcola",
+   "sub": null
+  },
+  {
+   "min": 90,
+   "side": "away",
+   "player": "Ibrahim Mbaye",
+   "sub": null
+  },
+  {
+   "min": 90,
+   "side": "home",
+   "player": "Kylian Mbappe",
+   "sub": null
+  }
+ ],
+ "cards": [],
+ "stats": {
+  "射门": [
+   "11",
+   "6"
+  ],
+  "射正": [
+   "8",
+   "2"
+  ],
+  "禁区内射门": [
+   "1",
+   "3"
+  ],
+  "扑救": [
+   "2",
+   "1"
+  ],
+  "角球": [
+   "6",
+   "4"
+  ],
+  "越位": [
+   "1",
+   "3"
+  ],
+  "控球%": [
+   "53%",
+   "47%"
+  ],
+  "传中": [
+   "117",
+   "90"
+  ],
+  "传球": [
+   "505",
+   "430"
+  ],
+  "xG预期进球": [
+   "1.54",
+   "0.18"
+  ],
+  "xGOT/大机会": [
+   "2.06",
+   "0.17"
+  ]
+ },
+ "lineups": {
+  "home": [
+   {
+    "no": 16,
+    "name": "Mike Maignan"
+   },
+   {
+    "no": 19,
+    "name": "Theo Hernández"
+   },
+   {
+    "no": 17,
+    "name": "William Saliba"
+   },
+   {
+    "no": 4,
+    "name": "Dayot Upamecano"
+   },
+   {
+    "no": 5,
+    "name": "Jules Koundé"
+   },
+   {
+    "no": 14,
+    "name": "Adrien Rabiot"
+   },
+   {
+    "no": 8,
+    "name": "Aurélien Tchouaméni"
+   },
+   {
+    "no": 20,
+    "name": "Désiré Doué"
+   },
+   {
+    "no": 7,
+    "name": "Ousmane Dembélé"
+   },
+   {
+    "no": 11,
+    "name": "Michael Olise"
+   },
+   {
+    "no": 10,
+    "name": "Kylian Mbappe"
+   },
+   {
+    "no": 12,
+    "name": "Bradley Barcola"
+   },
+   {
+    "no": 24,
+    "name": "Rayan Cherki"
+   },
+   {
+    "no": 25,
+    "name": "Maghnes Akliouche"
+   },
+   {
+    "no": 3,
+    "name": "Lucas Digne"
+   },
+   {
+    "no": 2,
+    "name": "Malo Gusto"
+   },
+   {
+    "no": 21,
+    "name": "Lucas Hernández"
+   },
+   {
+    "no": 13,
+    "name": "N'Golo Kanté"
+   },
+   {
+    "no": 15,
+    "name": "Ibrahima Konaté"
+   },
+   {
+    "no": 6,
+    "name": "Manu Kone"
+   },
+   {
+    "no": 26,
+    "name": "Maxence Lacroix"
+   },
+   {
+    "no": 22,
+    "name": "Jean Philippe Mateta"
+   },
+   {
+    "no": 23,
+    "name": "Robin Risser"
+   },
+   {
+    "no": 1,
+    "name": "Brice Samba"
+   },
+   {
+    "no": 9,
+    "name": "Marcus Thuram"
+   },
+   {
+    "no": 18,
+    "name": "Warren Zaire-Emery"
+   }
+  ],
+  "away": [
+   {
+    "no": 16,
+    "name": "Edouard Mendy"
+   },
+   {
+    "no": 25,
+    "name": "El Hadji Malick Diouf"
+   },
+   {
+    "no": 19,
+    "name": "Moussa Niakhate"
+   },
+   {
+    "no": 3,
+    "name": "Kalidou Koulibaly"
+   },
+   {
+    "no": 15,
+    "name": "Krepin Diatta"
+   },
+   {
+    "no": 26,
+    "name": "Pape Gueye"
+   },
+   {
+    "no": 5,
+    "name": "Idrissa Gueye"
+   },
+   {
+    "no": 10,
+    "name": "Sadio Mané"
+   },
+   {
+    "no": 8,
+    "name": "Lamine Camara"
+   },
+   {
+    "no": 18,
+    "name": "Ismaila Sarr"
+   },
+   {
+    "no": 11,
+    "name": "Nicolas Jackson"
+   },
+   {
+    "no": 6,
+    "name": "Pathé Ciss"
+   },
+   {
+    "no": 21,
+    "name": "Habib Diarra"
+   },
+   {
+    "no": 9,
+    "name": "Bamba Dieng"
+   },
+   {
+    "no": 20,
+    "name": "Ibrahim Mbaye"
+   },
+   {
+    "no": 13,
+    "name": "Iliman Ndiaye"
+   },
+   {
+    "no": 7,
+    "name": "Assane Diao"
+   },
+   {
+    "no": 23,
+    "name": "Mory Diaw"
+   },
+   {
+    "no": 1,
+    "name": "Yehvann Diouf"
+   },
+   {
+    "no": 14,
+    "name": "Ismail Jakobs"
+   },
+   {
+    "no": 24,
+    "name": "Antoine Mendy"
+   },
+   {
+    "no": 22,
+    "name": "Bara Sapoko Ndiaye"
+   },
+   {
+    "no": 12,
+    "name": "Cherif Ndiaye"
+   },
+   {
+    "no": 2,
+    "name": "Mamadou Sarr"
+   },
+   {
+    "no": 17,
+    "name": "Pape Sarr"
+   },
+   {
+    "no": 4,
+    "name": "Abdoulaye Seck"
+   }
+  ]
+ },
+ "missing": [],
+ "events": [
+  {
+   "min": 66,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Kylian Mbappe"
+  },
+  {
+   "min": 82,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Bradley Barcola"
+  },
+  {
+   "min": 90,
+   "side": "away",
+   "type": "进球",
+   "sub": null,
+   "player": "Ibrahim Mbaye"
+  },
+  {
+   "min": 90,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Kylian Mbappe"
+  }
+ ],
+ "injuries": [],
+ "suspensions": [],
+ "ratings": {},
+ "quotes": [],
+ "narrative": "",
+ "prediction_note": "",
+ "_note": "macheta/Sofascore 权威硬数据；injuries/suspensions/ratings/quotes/narrative/prediction_note 待 agent WebSearch 补。"
+}

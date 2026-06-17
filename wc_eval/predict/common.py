@@ -233,6 +233,10 @@ _HANDICAP = {
     ("IRQ", "NOR"): +1.5,    # 挪威(客)让1.5(NOR -450 ML 大热 Haaland;bet365)
     ("ARG", "ALG"): -1.0,    # 阿根廷 -1(ARG -239 ML;Covers/Squawka,Kalshi 71%)
     ("AUT", "JOR"): -1.5,    # 奥地利 -1.5(AUT -310 ML vs 约旦首秀;FanDuel,UEFA预选多场净胜2+)
+    ("POR", "COD"): -1.5,    # 葡萄牙 -1.5(POR 1/4 ML 强热,Ronaldo;首次交手,刚果金 9/1)
+    ("ENG", "CRO"): -1.0,    # 英格兰 -1(ENG 预选 8胜8、22-0 大热;克罗地亚老将 Modric 仍在)
+    ("GHA", "PAN"): -0.5,    # 加纳 -0.5(微favored,Semenyo/I.Williams;但近7不胜,双方均志在抢分)
+    ("UZB", "COL"): +1.0,    # 哥伦比亚(客)让1(COL 大热 James/Diaz/Arias;乌兹别克首次参赛)
 }
 
 

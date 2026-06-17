@@ -1,0 +1,16 @@
+{
+ "team": "COD",
+ "source": "SportsMole",
+ "url": "https://www.sportsmole.co.uk/football/portugal/world-cup-2026/team-news/portugal-vs-congo-dr-injury-suspension-list-predicted-xis_599290.html",
+ "title": "Team News: Portugal vs. Congo DR injury, suspension list, predicted XIs - Sports Mole",
+ "news_date": "2026-06-16",
+ "published": "2026-06-16T17:00:00Z",
+ "tier": "T2",
+ "lang": "en",
+ "asof": "2026-06-17",
+ "fetched": "2026-06-17_1354",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "Portugal and Congo DR will begin their respective 2026 World Cup campaigns with a clash on Wednesday.\n\nThe two nations are competing in Group K this summer alongside Colombia and Uzbekistan, and here Sports Mole rounds up the team news for the game.\n\nGet FREE daily news and in-depth previews for games from the biggest leagues and competitions in world football — straight to your inbox.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

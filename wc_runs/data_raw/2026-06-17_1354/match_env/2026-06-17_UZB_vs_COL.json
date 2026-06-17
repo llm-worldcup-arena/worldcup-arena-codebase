@@ -1,0 +1,41 @@
+{
+ "match": {
+  "slug": "2026-06-17_UZB_vs_COL",
+  "date": "2026-06-17",
+  "home": "UZB",
+  "away": "COL",
+  "round": "group",
+  "group": "K"
+ },
+ "kickoff": {
+  "美东": "2026-06-17T22:00:00-04:00",
+  "北京": "06-18 10:00"
+ },
+ "venue": {
+  "name": "Estadio Azteca",
+  "city": "Mexico City",
+  "altitude_m": 2240,
+  "roof": "open",
+  "surface": "grass"
+ },
+ "weather": {
+  "开球时段": {
+   "温度C": 16.9,
+   "体感C": 18.4,
+   "降水概率%": 86,
+   "降水mm": 0.3,
+   "风速kmh": 1.8,
+   "湿度%": 90,
+   "天况": "毛毛雨"
+  },
+  "source": "open-meteo(免费预报API)",
+  "fetched": "2026-06-17_1354",
+  "_note": "临近开球建议 --refresh 刷新"
+ },
+ "referee": {
+  "name": "Anthony Taylor (英格兰)",
+  "source": "FIFA/ESPN",
+  "fetched": "2026-06-17_1354"
+ },
+ "_note": "环境=比赛+时间+地点 确定;天气为开球时段;顶棚 retractable/fixed-canopy 时天气影响有限。"
+}
