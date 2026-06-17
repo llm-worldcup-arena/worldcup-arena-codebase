@@ -6,7 +6,7 @@
   "models": [
     {"name": "Claude", "id": "claude-opus-4-6-thinking", "search": true},
     {"name": "GPT",    "id": "gpt-5.2", "search": true},
-    {"name": "Gemini", "id": "gemini-3.1-pro-preview-thinking", "search": true},
+    {"name": "Gemini", "id": "gemini-3.1-pro-preview", "search": true, "_note": "2026-06-17:DMXAPI下架了 gemini-3.1-pro-preview-thinking(整条3.1-thinking线503无通道),换回 gemini-3.1-pro-preview——实测仍带 thoughtSignature(思考)+ google_search 真联网(grounding来源),同一款3.1-pro思考模型、非降级"},
     {"name": "Kimi",   "id": "kimi-k2.6", "search": true, "channel": "moonshot", "_note": "官方直连,非DMXAPI;k2.6最新、自带thinking、temp固定1"},
     {"name": "GLM",    "id": "glm-5.1", "search": true, "channel": "zhipu", "_note": "智谱官方直连,非DMXAPI;glm-5.1、thinking+函数调用联网(智谱/web_search执行)、temp=1"},
     {"name": "Seed",   "id": "doubao-seed-2-0-pro-260215", "search": true}
