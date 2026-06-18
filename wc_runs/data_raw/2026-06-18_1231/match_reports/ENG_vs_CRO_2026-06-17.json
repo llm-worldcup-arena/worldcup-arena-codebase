@@ -1,0 +1,365 @@
+{
+ "match_id": "4627865",
+ "date": "2026-06-17",
+ "comp": "世界杯",
+ "ha_home": "中",
+ "home": "ENG",
+ "away": "CRO",
+ "score": "4-2",
+ "venue": "AT&T Stadium (Arlington)",
+ "attendance": 70389,
+ "goals": [
+  {
+   "min": 12,
+   "side": "home",
+   "player": "Harry Kane",
+   "sub": "点球"
+  },
+  {
+   "min": 36,
+   "side": "away",
+   "player": "Martin Baturina",
+   "sub": null
+  },
+  {
+   "min": 42,
+   "side": "home",
+   "player": "Harry Kane",
+   "sub": null
+  },
+  {
+   "min": 45,
+   "side": "away",
+   "player": "Petar Musa",
+   "sub": null
+  },
+  {
+   "min": 47,
+   "side": "home",
+   "player": "Jude Bellingham",
+   "sub": null
+  },
+  {
+   "min": 85,
+   "side": "home",
+   "player": "Marcus Rashford",
+   "sub": null
+  }
+ ],
+ "cards": [],
+ "stats": {
+  "射门": [
+   "22",
+   "10"
+  ],
+  "射正": [
+   "11",
+   "5"
+  ],
+  "禁区内射门": [
+   "6",
+   "3"
+  ],
+  "扑救": [
+   "5",
+   "2"
+  ],
+  "角球": [
+   "8",
+   "2"
+  ],
+  "越位": [
+   "0",
+   "1"
+  ],
+  "控球%": [
+   "52%",
+   "48%"
+  ],
+  "传中": [
+   "72",
+   "78"
+  ],
+  "传球": [
+   "406",
+   "381"
+  ],
+  "xG预期进球": [
+   "1.1",
+   "0.82"
+  ],
+  "xGOT/大机会": [
+   "3.33",
+   "0.51"
+  ]
+ },
+ "lineups": {
+  "home": [
+   {
+    "no": 1,
+    "name": "Jordan Pickford"
+   },
+   {
+    "no": 3,
+    "name": "Nico O'Reilly"
+   },
+   {
+    "no": 5,
+    "name": "John Stones"
+   },
+   {
+    "no": 2,
+    "name": "Ezri Konsa"
+   },
+   {
+    "no": 24,
+    "name": "Reece James"
+   },
+   {
+    "no": 4,
+    "name": "Declan Rice"
+   },
+   {
+    "no": 8,
+    "name": "Elliot Anderson"
+   },
+   {
+    "no": 18,
+    "name": "Anthony Gordon"
+   },
+   {
+    "no": 10,
+    "name": "Jude Bellingham"
+   },
+   {
+    "no": 20,
+    "name": "Noni Madueke"
+   },
+   {
+    "no": 9,
+    "name": "Harry Kane"
+   },
+   {
+    "no": 6,
+    "name": "Marc Guéhi"
+   },
+   {
+    "no": 11,
+    "name": "Marcus Rashford"
+   },
+   {
+    "no": 17,
+    "name": "Morgan Rogers"
+   },
+   {
+    "no": 7,
+    "name": "Bukayo Saka"
+   },
+   {
+    "no": 25,
+    "name": "Djed Spence"
+   },
+   {
+    "no": 15,
+    "name": "Dan Burn"
+   },
+   {
+    "no": 21,
+    "name": "Eberechi Eze"
+   },
+   {
+    "no": 13,
+    "name": "Dean Henderson"
+   },
+   {
+    "no": 14,
+    "name": "Jordan Henderson"
+   },
+   {
+    "no": 16,
+    "name": "Kobbie Mainoo"
+   },
+   {
+    "no": 26,
+    "name": "Jarell Quansah"
+   },
+   {
+    "no": 22,
+    "name": "Ivan Toney"
+   },
+   {
+    "no": 23,
+    "name": "James Trafford"
+   },
+   {
+    "no": 19,
+    "name": "Ollie Watkins"
+   }
+  ],
+  "away": [
+   {
+    "no": 1,
+    "name": "Dominik Livakovic"
+   },
+   {
+    "no": 4,
+    "name": "Josko Gvardiol"
+   },
+   {
+    "no": 22,
+    "name": "Luka Vušković"
+   },
+   {
+    "no": 6,
+    "name": "Josip Šutalo"
+   },
+   {
+    "no": 14,
+    "name": "Ivan Perisic"
+   },
+   {
+    "no": 15,
+    "name": "Mario Pasalic"
+   },
+   {
+    "no": 10,
+    "name": "Luka Modric"
+   },
+   {
+    "no": 2,
+    "name": "Josip Stanišić"
+   },
+   {
+    "no": 16,
+    "name": "Martin Baturina"
+   },
+   {
+    "no": 17,
+    "name": "Petar Sucic"
+   },
+   {
+    "no": 26,
+    "name": "Petar Musa"
+   },
+   {
+    "no": 8,
+    "name": "Mateo Kovacic"
+   },
+   {
+    "no": 9,
+    "name": "Andrej Kramaric"
+   },
+   {
+    "no": 20,
+    "name": "Igor Matanovic"
+   },
+   {
+    "no": 24,
+    "name": "Marco Pasalic"
+   },
+   {
+    "no": 13,
+    "name": "Nikola Vlašić"
+   },
+   {
+    "no": 11,
+    "name": "Ante Budimir"
+   },
+   {
+    "no": 25,
+    "name": "Martin Erlić"
+   },
+   {
+    "no": 19,
+    "name": "Toni Fruk"
+   },
+   {
+    "no": 18,
+    "name": "Kristijan Jakic"
+   },
+   {
+    "no": 23,
+    "name": "Dominik Kotarski"
+   },
+   {
+    "no": 7,
+    "name": "Nikola Moro"
+   },
+   {
+    "no": 12,
+    "name": "Ivor Pandur"
+   },
+   {
+    "no": 3,
+    "name": "Marin Pongracic"
+   },
+   {
+    "no": 21,
+    "name": "Luka Sučić"
+   },
+   {
+    "no": 5,
+    "name": "Duje Ćaleta-Car"
+   }
+  ]
+ },
+ "missing": [
+  {
+   "side": "home",
+   "no": 12,
+   "name": "Trevoh Chalobah",
+   "reason": "Ankle injury"
+  }
+ ],
+ "events": [
+  {
+   "min": 12,
+   "side": "home",
+   "type": "进球",
+   "sub": "点球",
+   "player": "Harry Kane"
+  },
+  {
+   "min": 36,
+   "side": "away",
+   "type": "进球",
+   "sub": null,
+   "player": "Martin Baturina"
+  },
+  {
+   "min": 42,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Harry Kane"
+  },
+  {
+   "min": 45,
+   "side": "away",
+   "type": "进球",
+   "sub": null,
+   "player": "Petar Musa"
+  },
+  {
+   "min": 47,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Jude Bellingham"
+  },
+  {
+   "min": 85,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Marcus Rashford"
+  }
+ ],
+ "injuries": [],
+ "suspensions": [],
+ "ratings": {},
+ "quotes": [],
+ "narrative": "",
+ "prediction_note": "",
+ "_note": "macheta/Sofascore 权威硬数据；injuries/suspensions/ratings/quotes/narrative/prediction_note 待 agent WebSearch 补。"
+}

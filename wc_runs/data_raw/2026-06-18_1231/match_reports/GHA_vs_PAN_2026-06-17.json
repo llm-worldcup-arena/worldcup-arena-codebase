@@ -1,0 +1,340 @@
+{
+ "match_id": "4627918",
+ "date": "2026-06-17",
+ "comp": "世界杯",
+ "ha_home": "中",
+ "home": "GHA",
+ "away": "PAN",
+ "score": "1-0",
+ "venue": "BMO Field (Toronto)",
+ "attendance": 42942,
+ "goals": [
+  {
+   "min": 90,
+   "side": "home",
+   "player": "Caleb Yirenkyi",
+   "sub": null
+  }
+ ],
+ "cards": [
+  {
+   "min": 16,
+   "side": "home",
+   "player": "Caleb Yirenkyi",
+   "type": "黄牌"
+  },
+  {
+   "min": 72,
+   "side": "away",
+   "player": "Cesar Blackman",
+   "type": "黄牌"
+  },
+  {
+   "min": 90,
+   "side": "away",
+   "player": "Carlos Harvey",
+   "type": "黄牌"
+  }
+ ],
+ "stats": {
+  "射门": [
+   "8",
+   "11"
+  ],
+  "射正": [
+   "2",
+   "4"
+  ],
+  "禁区内射门": [
+   "4",
+   "5"
+  ],
+  "扑救": [
+   "2",
+   "2"
+  ],
+  "角球": [
+   "2",
+   "2"
+  ],
+  "越位": [
+   "4",
+   "1"
+  ],
+  "控球%": [
+   "38%",
+   "62%"
+  ],
+  "传中": [
+   "92",
+   "115"
+  ],
+  "传球": [
+   "292",
+   "502"
+  ],
+  "xG预期进球": [
+   "0.52",
+   "0.87"
+  ],
+  "xGOT/大机会": [
+   "1.04",
+   "1.32"
+  ]
+ },
+ "lineups": {
+  "home": [
+   {
+    "no": 1,
+    "name": "Lawrence Ati-Zigi"
+   },
+   {
+    "no": 14,
+    "name": "Gideon Mensah"
+   },
+   {
+    "no": 18,
+    "name": "Jerome Opoku"
+   },
+   {
+    "no": 4,
+    "name": "Jonas Adjetey"
+   },
+   {
+    "no": 26,
+    "name": "Marvin Senaya"
+   },
+   {
+    "no": 11,
+    "name": "Antoine Semenyo"
+   },
+   {
+    "no": 15,
+    "name": "Elisha Owusu"
+   },
+   {
+    "no": 3,
+    "name": "Caleb Yirenkyi"
+   },
+   {
+    "no": 24,
+    "name": "Ernest Nuamah"
+   },
+   {
+    "no": 22,
+    "name": "Kamaldeen Sulemana"
+   },
+   {
+    "no": 9,
+    "name": "Jordan Ayew"
+   },
+   {
+    "no": 25,
+    "name": "Prince Kwabena Adu"
+   },
+   {
+    "no": 16,
+    "name": "Benjamin Asare"
+   },
+   {
+    "no": 7,
+    "name": "Issahaku Fatawu"
+   },
+   {
+    "no": 8,
+    "name": "Kwasi Sibo"
+   },
+   {
+    "no": 10,
+    "name": "Brandon Thomas-Asante"
+   },
+   {
+    "no": 12,
+    "name": "Joseph Anang"
+   },
+   {
+    "no": 17,
+    "name": "Baba Rahman"
+   },
+   {
+    "no": 20,
+    "name": "Augustine Boakye"
+   },
+   {
+    "no": 13,
+    "name": "Christopher Bonsu Baah"
+   },
+   {
+    "no": 23,
+    "name": "Derrick Luckassen"
+   },
+   {
+    "no": 6,
+    "name": "Abdul Mumin"
+   },
+   {
+    "no": 21,
+    "name": "Kojo Peprah Oppong"
+   },
+   {
+    "no": 2,
+    "name": "Alidu Seidu"
+   },
+   {
+    "no": 19,
+    "name": "Iñaki Williams"
+   }
+  ],
+  "away": [
+   {
+    "no": 22,
+    "name": "Orlando Mosquera"
+   },
+   {
+    "no": 16,
+    "name": "Andres Andrade"
+   },
+   {
+    "no": 3,
+    "name": "Jose Cordoba"
+   },
+   {
+    "no": 13,
+    "name": "Jiovany Ramos"
+   },
+   {
+    "no": 2,
+    "name": "Cesar Blackman"
+   },
+   {
+    "no": 11,
+    "name": "Yoel Barcenas"
+   },
+   {
+    "no": 14,
+    "name": "Carlos Harvey"
+   },
+   {
+    "no": 23,
+    "name": "Amir Murillo"
+   },
+   {
+    "no": 7,
+    "name": "Jose Rodriguez"
+   },
+   {
+    "no": 18,
+    "name": "Cecilio Waterman"
+   },
+   {
+    "no": 6,
+    "name": "Cristian Martinez"
+   },
+   {
+    "no": 10,
+    "name": "Ismael Diaz"
+   },
+   {
+    "no": 17,
+    "name": "Jose Fajardo"
+   },
+   {
+    "no": 20,
+    "name": "Anibal Godoy"
+   },
+   {
+    "no": 24,
+    "name": "Azarias Londono"
+   },
+   {
+    "no": 8,
+    "name": "Adalberto Carrasquilla"
+   },
+   {
+    "no": 15,
+    "name": "Eric Davis"
+   },
+   {
+    "no": 4,
+    "name": "Fidel Escobar"
+   },
+   {
+    "no": 5,
+    "name": "Edgardo Farina"
+   },
+   {
+    "no": 26,
+    "name": "Jorge Gutierrez"
+   },
+   {
+    "no": 1,
+    "name": "Luis Mejia"
+   },
+   {
+    "no": 25,
+    "name": "Roderick Miller"
+   },
+   {
+    "no": 19,
+    "name": "Alberto Quintero"
+   },
+   {
+    "no": 9,
+    "name": "Tomas Rodriguez"
+   },
+   {
+    "no": 12,
+    "name": "Cesar Samudio"
+   },
+   {
+    "no": 21,
+    "name": "Cesar Yanis"
+   }
+  ]
+ },
+ "missing": [
+  {
+   "side": "home",
+   "no": 5,
+   "name": "Thomas Partey",
+   "reason": "Muscle injury"
+  }
+ ],
+ "events": [
+  {
+   "min": 16,
+   "side": "home",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Caleb Yirenkyi"
+  },
+  {
+   "min": 72,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Cesar Blackman"
+  },
+  {
+   "min": 90,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Caleb Yirenkyi"
+  },
+  {
+   "min": 90,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Carlos Harvey"
+  }
+ ],
+ "injuries": [],
+ "suspensions": [],
+ "ratings": {},
+ "quotes": [],
+ "narrative": "",
+ "prediction_note": "",
+ "_note": "macheta/Sofascore 权威硬数据；injuries/suspensions/ratings/quotes/narrative/prediction_note 待 agent WebSearch 补。"
+}

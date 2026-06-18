@@ -1,0 +1,370 @@
+{
+ "match_id": "4697734",
+ "date": "2026-06-17",
+ "comp": "世界杯",
+ "ha_home": "中",
+ "home": "POR",
+ "away": "COD",
+ "score": "1-1",
+ "venue": "NRG Stadium (Houston)",
+ "attendance": 68777,
+ "goals": [
+  {
+   "min": 6,
+   "side": "home",
+   "player": "João Neves",
+   "sub": null
+  },
+  {
+   "min": 45,
+   "side": "away",
+   "player": "Yoane Wissa",
+   "sub": null
+  }
+ ],
+ "cards": [
+  {
+   "min": 13,
+   "side": "home",
+   "player": "Bernardo Silva",
+   "type": "黄牌"
+  },
+  {
+   "min": 32,
+   "side": "away",
+   "player": "Chancel Mbemba",
+   "type": "黄牌"
+  },
+  {
+   "min": 88,
+   "side": "home",
+   "player": "Nelson Semedo",
+   "type": "黄牌"
+  },
+  {
+   "min": 90,
+   "side": "home",
+   "player": "Tomás Araújo",
+   "type": "黄牌"
+  }
+ ],
+ "stats": {
+  "射门": [
+   "7",
+   "8"
+  ],
+  "射正": [
+   "1",
+   "2"
+  ],
+  "禁区内射门": [
+   "4",
+   "3"
+  ],
+  "扑救": [
+   "2",
+   "3"
+  ],
+  "角球": [
+   "5",
+   "4"
+  ],
+  "越位": [
+   "3",
+   "2"
+  ],
+  "控球%": [
+   "75%",
+   "25%"
+  ],
+  "传中": [
+   "135",
+   "56"
+  ],
+  "传球": [
+   "724",
+   "195"
+  ],
+  "xG预期进球": [
+   "1.83",
+   "0.71"
+  ],
+  "xGOT/大机会": [
+   "0.53",
+   "0.97"
+  ]
+ },
+ "lineups": {
+  "home": [
+   {
+    "no": 1,
+    "name": "Diogo Costa"
+   },
+   {
+    "no": 25,
+    "name": "Nuno Mendes"
+   },
+   {
+    "no": 13,
+    "name": "Renato Veiga"
+   },
+   {
+    "no": 4,
+    "name": "Tomás Araújo"
+   },
+   {
+    "no": 20,
+    "name": "João Cancelo"
+   },
+   {
+    "no": 23,
+    "name": "Vitinha"
+   },
+   {
+    "no": 15,
+    "name": "João Neves"
+   },
+   {
+    "no": 18,
+    "name": "Pedro Neto"
+   },
+   {
+    "no": 8,
+    "name": "Bruno Fernandes"
+   },
+   {
+    "no": 10,
+    "name": "Bernardo Silva"
+   },
+   {
+    "no": 7,
+    "name": "Cristiano Ronaldo"
+   },
+   {
+    "no": 2,
+    "name": "Nelson Semedo"
+   },
+   {
+    "no": 26,
+    "name": "Francisco Conceição"
+   },
+   {
+    "no": 9,
+    "name": "Gonçalo Ramos"
+   },
+   {
+    "no": 17,
+    "name": "Rafael Leão"
+   },
+   {
+    "no": 5,
+    "name": "Diogo Dalot"
+   },
+   {
+    "no": 22,
+    "name": "Rui Silva"
+   },
+   {
+    "no": 11,
+    "name": "João Félix"
+   },
+   {
+    "no": 19,
+    "name": "Goncalo Guedes"
+   },
+   {
+    "no": 14,
+    "name": "Goncalo Inacio"
+   },
+   {
+    "no": 16,
+    "name": "Francisco Trincão"
+   },
+   {
+    "no": 12,
+    "name": "José Sá"
+   },
+   {
+    "no": 6,
+    "name": "Matheus Nunes"
+   },
+   {
+    "no": 21,
+    "name": "Ruben Neves"
+   },
+   {
+    "no": 24,
+    "name": "Samú Costa"
+   },
+   {
+    "no": 3,
+    "name": "Ruben Dias"
+   }
+  ],
+  "away": [
+   {
+    "no": 1,
+    "name": "Lionel Mpasi"
+   },
+   {
+    "no": 3,
+    "name": "Steve Kapuadi"
+   },
+   {
+    "no": 4,
+    "name": "Axel Tuanzebe"
+   },
+   {
+    "no": 22,
+    "name": "Chancel Mbemba"
+   },
+   {
+    "no": 26,
+    "name": "Arthur Masuaku"
+   },
+   {
+    "no": 2,
+    "name": "Aaron Wan-Bissaka"
+   },
+   {
+    "no": 25,
+    "name": "Edo Kayembe"
+   },
+   {
+    "no": 8,
+    "name": "Samuel Moutoussamy"
+   },
+   {
+    "no": 6,
+    "name": "Ngal'ayel Mukau"
+   },
+   {
+    "no": 17,
+    "name": "Cedric Bakambu"
+   },
+   {
+    "no": 20,
+    "name": "Yoane Wissa"
+   },
+   {
+    "no": 23,
+    "name": "Simon Banza"
+   },
+   {
+    "no": 24,
+    "name": "Gedeon Kalulu"
+   },
+   {
+    "no": 12,
+    "name": "Joris Kayembe"
+   },
+   {
+    "no": 18,
+    "name": "Charles Pickel"
+   },
+   {
+    "no": 14,
+    "name": "Noah Sadiki"
+   },
+   {
+    "no": 5,
+    "name": "Dylan Batubinsika"
+   },
+   {
+    "no": 10,
+    "name": "Theo Bongonda"
+   },
+   {
+    "no": 13,
+    "name": "Meschack Elia"
+   },
+   {
+    "no": 21,
+    "name": "Matthieu Epolo"
+   },
+   {
+    "no": 16,
+    "name": "Timothy Fayulu"
+   },
+   {
+    "no": 11,
+    "name": "Gaël Kakuta"
+   },
+   {
+    "no": 19,
+    "name": "Fiston Mayele"
+   },
+   {
+    "no": 9,
+    "name": "Brian Cipenga"
+   },
+   {
+    "no": 7,
+    "name": "Nathanael Mbuku"
+   },
+   {
+    "no": 15,
+    "name": "Aaron Tshibola"
+   }
+  ]
+ },
+ "missing": [],
+ "events": [
+  {
+   "min": 6,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "João Neves"
+  },
+  {
+   "min": 13,
+   "side": "home",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Bernardo Silva"
+  },
+  {
+   "min": 32,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Chancel Mbemba"
+  },
+  {
+   "min": 45,
+   "side": "away",
+   "type": "进球",
+   "sub": null,
+   "player": "Yoane Wissa"
+  },
+  {
+   "min": 55,
+   "side": "home",
+   "type": "T4",
+   "sub": "乌龙",
+   "player": "Goal Disallowed"
+  },
+  {
+   "min": 88,
+   "side": "home",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Nelson Semedo"
+  },
+  {
+   "min": 90,
+   "side": "home",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Tomás Araújo"
+  }
+ ],
+ "injuries": [],
+ "suspensions": [],
+ "ratings": {},
+ "quotes": [],
+ "narrative": "",
+ "prediction_note": "",
+ "_note": "macheta/Sofascore 权威硬数据；injuries/suspensions/ratings/quotes/narrative/prediction_note 待 agent WebSearch 补。"
+}

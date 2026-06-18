@@ -1,0 +1,41 @@
+{
+ "match": {
+  "slug": "2026-06-18_SUI_vs_BIH",
+  "date": "2026-06-18",
+  "home": "SUI",
+  "away": "BIH",
+  "round": "group",
+  "group": "B"
+ },
+ "kickoff": {
+  "美东": "2026-06-18T15:00:00-04:00",
+  "北京": "06-19 03:00"
+ },
+ "venue": {
+  "name": "SoFi Stadium",
+  "city": "Inglewood, California",
+  "altitude_m": 30,
+  "roof": "fixed-canopy",
+  "surface": "grass"
+ },
+ "weather": {
+  "开球时段": {
+   "温度C": 19.6,
+   "体感C": 20.4,
+   "降水概率%": 0,
+   "降水mm": 0.0,
+   "风速kmh": 7.5,
+   "湿度%": 77,
+   "天况": "阴"
+  },
+  "source": "open-meteo(免费预报API)",
+  "fetched": "2026-06-18_1231",
+  "_note": "临近开球建议 --refresh 刷新"
+ },
+ "referee": {
+  "name": "João Pinheiro (葡萄牙)",
+  "source": "Law5/FIFA",
+  "fetched": "2026-06-18_1231"
+ },
+ "_note": "环境=比赛+时间+地点 确定;天气为开球时段;顶棚 retractable/fixed-canopy 时天气影响有限。"
+}

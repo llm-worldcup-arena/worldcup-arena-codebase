@@ -237,6 +237,10 @@ _HANDICAP = {
     ("ENG", "CRO"): -1.0,    # 英格兰 -1(ENG 预选 8胜8、22-0 大热;克罗地亚老将 Modric 仍在)
     ("GHA", "PAN"): -0.5,    # 加纳 -0.5(微favored,Semenyo/I.Williams;但近7不胜,双方均志在抢分)
     ("UZB", "COL"): +1.0,    # 哥伦比亚(客)让1(COL 大热 James/Diaz/Arias;乌兹别克首次参赛)
+    ("CZE", "RSA"): -0.5,    # 捷克 -0.5(双方均开门负、必争之战;南非 Sithole/Zwane 停赛、9人收场被削)
+    ("SUI", "BIH"): -0.5,    # 瑞士 -0.5(瑞士整齐;波黑 Dzeko 肩伤存疑、Kolasinac 待测)
+    ("CAN", "QAT"): -1.0,    # 加拿大 -1(主场温哥华 J.David/Larin;卡塔尔实力差距;Davies 可能替补)
+    ("MEX", "KOR"): -0.5,    # 墨西哥 -0.5(主场瓜达拉哈拉;均开门胜、Montes 停赛 vs 孙兴慜韩国,近平手略偏主)
 }
 
 

@@ -1,0 +1,16 @@
+{
+ "team": "RSA",
+ "source": "AlJazeera",
+ "url": "https://www.aljazeera.com/sports/2026/6/17/south-africa-plays-czechia-seeks-first-world-cup-win-after-mexico-defeat",
+ "title": "Preview: South Africa play Czechia, seek first WC win after Mexico defeat",
+ "news_date": "2026-06-18",
+ "published": null,
+ "tier": "T1",
+ "lang": "en",
+ "asof": "2026-06-18",
+ "fetched": "2026-06-18_1231",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "After losing their opening group matches, both teams need a victory to keep knockout hopes alive.\n\nThe 2026 World Cup will have 13 kickoff times. You can use the Al Jazeera Sport widget to find out exactly when your team is playing in your local time.\n\nWho : Czechia vs South Africa\nWhat : FIFA World Cup 2026 Group A match\nWhere : Atlanta Stadium , Atlanta, Georgia, United States\nWhen : Thursday, noon (16:00 GMT)\nHow to follow : We’ll have all the build-up on",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

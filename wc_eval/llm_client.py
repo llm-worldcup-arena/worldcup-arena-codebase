@@ -135,6 +135,25 @@ def _glm_search(messages, model, timeout, max_uses):
     return msgs[-1].get("content", "") if msgs else ""
 
 
+def _openrouter_search(messages, model, timeout, max_uses=5):
+    """OpenRouter 通道(2026-06-18 定):Claude/GPT/Gemini 走这里(id 带斜杠,如 anthropic/claude-opus-4.8、
+    openai/gpt-5.5-pro、google/gemini-3.1-pro-preview)。reasoning:{effort:high}=最高档思考 + 联网。
+    实测各家小坑:① GPT 思考极重(~1.6万tok)→ 给大预算 max_tokens=24000(不然思考吃光、答案空);
+    ② Gemini 必须用 web 插件(不是 :online)才回引用;其余 :online。Kimi/GLM 仍官方直连、Seed 仍 DMXAPI。"""
+    key = _secret("OPENROUTER_API_KEY")
+    prov = model.split("/")[0]                                       # anthropic / openai / google
+    use_plugin = (prov == "google")                                 # Gemini:web 插件才出引用注解
+    mid = model if use_plugin else model + ":online"
+    body = {"model": mid, "messages": messages,
+            "reasoning": {"effort": "high"},                         # 最高档思考
+            "max_tokens": 24000 if prov == "openai" else 16000}      # GPT 思考极重,给足预算
+    if use_plugin:
+        body["plugins"] = [{"id": "web", "max_results": max_uses}]
+    d = _post("https://openrouter.ai/api/v1/chat/completions", body,
+              {"Authorization": f"Bearer {key}", "X-Title": "wc-arena"}, timeout)
+    return d["choices"][0]["message"].get("content") or ""
+
+
 def chat_search(messages, model, temperature=0.3, timeout=300, max_uses=5):
     """带【真联网搜索】的一轮对话，返回回复文本。支持 claude*/gpt*/doubao*/gemini*（经 DMXAPI）+ kimi*/glm*（官方直连）。
     参数策略：各通道只传实测能过的最小集（gpt-5 系经 responses 不收 temperature → 不传）。"""
@@ -142,6 +161,9 @@ def chat_search(messages, model, temperature=0.3, timeout=300, max_uses=5):
     root = cfg["base_url"].rstrip("/").removesuffix("/v1")          # https://www.dmxapi.com
     auth = {"Authorization": f"Bearer {cfg['_key']}"}
     m = model.lower()
+
+    if "/" in m:                                                     # OpenRouter 通道:id 带斜杠(anthropic/openai/google) → Claude/GPT/Gemini
+        return _openrouter_search(messages, model, timeout, max_uses)
 
     if m.startswith("kimi"):                                         # Moonshot 官方直连，不走 DMXAPI
         return _kimi_search(messages, model, timeout, max_uses)

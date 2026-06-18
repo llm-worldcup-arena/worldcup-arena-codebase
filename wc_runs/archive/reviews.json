@@ -1414,5 +1414,857 @@
   },
   "collective": "全部6模型一致看好主胜，但在大小球(4/6错)、单双(4/6错)与比分上分歧显著，集体低估阿根廷净胜能力，仅GPT突破保守共识。",
   "paper_point": "强弱悬殊场次各模型胜平负预测高度一致，但比分及净胜球相关市场分歧显著，普遍低估强队优势。"
+ },
+ "BEL_vs_EGY": {
+  "per_market": {
+   "胜平负": {
+    "right": [],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ]
+   },
+   "让球": {
+    "right": [],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ]
+   },
+   "大小2.5": {
+    "right": [
+     "GPT"
+    ],
+    "wrong": [
+     "Claude",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ]
+   },
+   "双方进球": {
+    "right": [
+     "Claude",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ],
+    "wrong": [
+     "GPT"
+    ]
+   },
+   "单双": {
+    "right": [
+     "GPT"
+    ],
+    "wrong": [
+     "Claude",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ]
+   },
+   "半全场": {
+    "right": [],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ]
+   },
+   "正确比分": {
+    "right": [],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ]
+   }
+  },
+  "model_notes": {
+   "Claude": "仅双方进球正确，其余全错，预测主-主显示对逆转形势过度乐观。",
+   "GPT": "唯一命中大小球与单双，但逻辑矛盾——既看小又否双方进球。",
+   "Gemini": "五错一对，2-1预测暴露对主队得分能力高估。",
+   "Kimi": "与Gemini/GLM/Seed预测雷同，五错一对，羊群效应明显。",
+   "GLM": "复制式预测2-1，仅在双方进球市场正确，缺乏独立判断。",
+   "Seed": "预测完全同质化，五错一对，模型间相关性过高。"
+  },
+  "collective": "6模型在胜平负、让球、半全场、正确比分四大市场集体误判，一致看好比利时主胜却遭平局冷门；5/6模型同步高估总进球数（偏大）与奇偶性（偏单），仅在双方进球市场形成正确共识，揭示对强弱对话存在系统性高估偏见且衍生市场敏感度分化。",
+  "paper_point": "强弱悬殊对阵中所有模型集体误判主胜与让球盘，但在双方进球市场高度一致且准确，凸显AI对低概率平局事件盲点与特定衍生市场的判别韧性。"
+ },
+ "POR_vs_COD": {
+  "per_market": {
+   "胜平负": {
+    "right": [],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ]
+   },
+   "让球": {
+    "right": [],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ]
+   },
+   "大小2.5": {
+    "right": [
+     "Gemini",
+     "Kimi",
+     "Seed"
+    ],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "GLM"
+    ]
+   },
+   "双方进球": {
+    "right": [
+     "Claude"
+    ],
+    "wrong": [
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ]
+   },
+   "单双": {
+    "right": [
+     "Claude",
+     "Gemini",
+     "Kimi",
+     "Seed"
+    ],
+    "wrong": [
+     "GPT",
+     "GLM"
+    ]
+   },
+   "半全场": {
+    "right": [],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ]
+   },
+   "正确比分": {
+    "right": [],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ]
+   }
+  },
+  "model_notes": {
+   "Claude": "唯一正确预测双方进球和单双，但在核心赛果市场全错，明显高估葡萄牙优势。",
+   "GPT": "全部预测偏向葡萄牙大胜，双方进球和单双判断失误，对平局毫无预判。",
+   "Gemini": "大小球和单双判断准确，但与其他模型一样陷入强队必胜的思维定式。",
+   "Kimi": "同Gemini，大小球和单双正确，但赛果相关市场全部误判。",
+   "GLM": "7项预测全部错误，对冷门最不敏感，强队偏见最严重。",
+   "Seed": "大小球和单双预测成功，但在赛果判断上未能摆脱集体性看好葡萄牙的误区。"
+  },
+  "collective": "6个模型在胜平负、让球、半全场、正确比分四个核心市场集体误判，一致看好葡萄牙大胜，暴露了对弱队爆冷的系统性低估；仅在大小球和单双市场出现分歧。",
+  "paper_point": "所有模型在核心赛果市场呈现高度一致的强队偏见，集体低估平局概率，但在进球数奇偶性预测上表现较好，揭示AI预测对冷门事件的识别盲区。"
+ },
+ "ESP_vs_CPV": {
+  "per_market": {
+   "胜平负": {
+    "right": [],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ]
+   },
+   "让球": {
+    "right": [],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ]
+   },
+   "大小2.5": {
+    "right": [],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ]
+   },
+   "双方进球": {
+    "right": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ],
+    "wrong": []
+   },
+   "单双": {
+    "right": [],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ]
+   },
+   "半全场": {
+    "right": [],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ]
+   },
+   "正确比分": {
+    "right": [],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ]
+   }
+  },
+  "model_notes": {
+   "Claude": "强队依赖症典型代表，零进球结局与3-0预测形成极端反差。",
+   "GPT": "预测同质化严重，对弱队防守反击战术缺乏建模能力。",
+   "Gemini": "所有核心市场全军覆没，暴露排名权重过高的系统性偏见。",
+   "Kimi": "模板化预测最明显，对平局这一低概率事件完全失敏。",
+   "GLM": "西班牙进攻能力被严重高估，比分预测偏离实际达3球之多。",
+   "Seed": "六模型中一致性最高但准确度最低，凸显群体思维陷阱。"
+  },
+  "collective": "六模型在6/7市场集体误判，全部高估西班牙攻坚能力、低估佛得角防守韧性，预测同质化暴露训练数据与特征工程的相似性盲点，尤其对低概率零进球平局缺乏风险建模。",
+  "paper_point": "强弱悬殊对阵中六模型预测高度一致但集体失效，6/7市场错误率100%，揭示现有AI对冷门赛事的系统性低估与同质化风险。"
+ },
+ "KSA_vs_URU": {
+  "per_market": {
+   "胜平负": {
+    "right": [],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ]
+   },
+   "让球": {
+    "right": [],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ]
+   },
+   "大小2.5": {
+    "right": [
+     "Claude",
+     "GPT",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ],
+    "wrong": [
+     "Gemini"
+    ]
+   },
+   "双方进球": {
+    "right": [
+     "Gemini"
+    ],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ]
+   },
+   "单双": {
+    "right": [
+     "Kimi",
+     "GLM",
+     "Seed"
+    ],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini"
+    ]
+   },
+   "半全场": {
+    "right": [],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ]
+   },
+   "正确比分": {
+    "right": [],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ]
+   }
+  },
+  "model_notes": {
+   "Claude": "唯一正确预测小球的模型之一，但在所有方向性市场（胜平负、让球、半全场）全部误判，严重低估主队韧性。",
+   "GPT": "与Claude预测完全一致，暴露同质化问题，正确捕捉小球趋势却完全错过平局冷门。",
+   "Gemini": "唯一正确预测双方进球的模型，但大小球方向错误且比分预测过于激进，显示风险偏好较高。",
+   "Kimi": "正确预测小球、单双两个市场，但在核心方向市场（胜平负、让球、半全场）仍跟随大流误判客胜。",
+   "GLM": "与Kimi预测高度一致，正确捕捉单双和小球，但未能识别平局信号，让球盘判断失误。",
+   "Seed": "预测模式接近Kimi和GLM，单双和小球正确，但所有方向性预测均错，显示模型间存在共识偏差。"
+  },
+  "collective": "全部6个模型在胜平负、让球、半全场、正确比分四个核心市场集体误判，一致看好乌拉圭客胜且零封对手，严重低估沙特主场韧性及平局概率，暴露对低概率冷门事件的建模盲区。",
+  "paper_point": "强弱对话中全部模型集体误判平局冷门，一致倾向客胜且预测比分均未能捕捉双方进球，凸显对主场韧性及低概率事件建模不足。"
+ },
+ "IRQ_vs_NOR": {
+  "per_market": {
+   "胜平负": {
+    "right": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ],
+    "wrong": []
+   },
+   "让球": {
+    "right": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM"
+    ],
+    "wrong": [
+     "Seed"
+    ]
+   },
+   "大小2.5": {
+    "right": [
+     "Claude",
+     "GPT",
+     "Seed"
+    ],
+    "wrong": [
+     "Gemini",
+     "Kimi",
+     "GLM"
+    ]
+   },
+   "双方进球": {
+    "right": [
+     "Claude",
+     "Seed"
+    ],
+    "wrong": [
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM"
+    ]
+   },
+   "单双": {
+    "right": [
+     "Seed"
+    ],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM"
+    ]
+   },
+   "半全场": {
+    "right": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Seed"
+    ],
+    "wrong": [
+     "Kimi",
+     "GLM"
+    ]
+   },
+   "正确比分": {
+    "right": [],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ]
+   }
+  },
+  "model_notes": {
+   "Claude": "主流市场全中，惜败于单双与精确比分，整体稳健",
+   "GPT": "胜负判断精准但低估主队进球能力，奇偶性误判",
+   "Gemini": "严重低估总进球与主队威胁，预测过于保守",
+   "Kimi": "半全场判断失误，整体表现偏弱",
+   "GLM": "与Kimi错误模式雷同，缺乏独立判断",
+   "Seed": "表现最佳，独中奇偶性但误判让球盘，比分最接近"
+  },
+  "collective": "模型在胜负盘高度一致，但集体低估主队进球能力（4/6判双方进球为否），且5/6误判单双为双，暴露对弱队爆冷的系统性盲区；全部错比分显示精确比分预测仍具挑战性。",
+  "paper_point": "强弱悬殊场次中，各模型虽能一致预测客胜，却系统性低估主队进球概率并误判总进球奇偶性，且全部失效于精确比分，凸显对低概率事件与比分分布的建模不足。"
+ },
+ "FRA_vs_SEN": {
+  "per_market": {
+   "胜平负": {
+    "right": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ],
+    "wrong": []
+   },
+   "让球": {
+    "right": [
+     "Kimi"
+    ],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "GLM",
+     "Seed"
+    ]
+   },
+   "大小2.5": {
+    "right": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ],
+    "wrong": []
+   },
+   "双方进球": {
+    "right": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ],
+    "wrong": []
+   },
+   "单双": {
+    "right": [
+     "Kimi"
+    ],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "GLM",
+     "Seed"
+    ]
+   },
+   "半全场": {
+    "right": [
+     "Claude",
+     "Gemini",
+     "GLM"
+    ],
+    "wrong": [
+     "GPT",
+     "Kimi",
+     "Seed"
+    ]
+   },
+   "正确比分": {
+    "right": [
+     "Kimi"
+    ],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "GLM",
+     "Seed"
+    ]
+   }
+  },
+  "model_notes": {
+   "Claude": "核心方向正确，但让球盘、奇偶性、比分精度不足，保守预测2-1。",
+   "GPT": "基本方向对，错让球盘、奇偶性、半全场及比分，半全场误判为主-主。",
+   "Gemini": "与Claude表现相似，核心市场正确但让球、奇偶、比分三项偏差。",
+   "Kimi": "表现最佳，6项正确仅半全场错，精准命中让球盘、奇偶性及3-1比分。",
+   "GLM": "整体稳健，胜负、大小球、进球正确，但让球、奇偶、比分三项失误。",
+   "Seed": "基本方向对，但让球盘、奇偶性、半全场及比分四项错误，半全场误判为主-主。"
+  },
+  "collective": "6模型在胜平负、大小球、双方进球3市场高度一致且全对；但集体低估主队穿盘能力（5/6错让球）、偏好奇数总进球（5/6错单双）、比分预测保守（5/6报2-1而非实际3-1），反映对强弱悬殊场次的主队 dominance 深度判断不足。",
+  "paper_point": "强弱悬殊场次中，模型对赛果方向判断高度一致，但在比分深度、让球盘与奇偶性上呈现系统性保守偏差。"
+ },
+ "UZB_vs_COL": {
+  "per_market": {
+   "胜平负": {
+    "right": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ],
+    "wrong": []
+   },
+   "让球": {
+    "right": [
+     "Claude",
+     "Gemini",
+     "Kimi",
+     "GLM"
+    ],
+    "wrong": [
+     "GPT",
+     "Seed"
+    ]
+   },
+   "大小2.5": {
+    "right": [
+     "Seed"
+    ],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM"
+    ]
+   },
+   "双方进球": {
+    "right": [
+     "Seed"
+    ],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM"
+    ]
+   },
+   "单双": {
+    "right": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM"
+    ],
+    "wrong": [
+     "Seed"
+    ]
+   },
+   "半全场": {
+    "right": [
+     "Claude",
+     "Gemini",
+     "Seed"
+    ],
+    "wrong": [
+     "GPT",
+     "Kimi",
+     "GLM"
+    ]
+   },
+   "正确比分": {
+    "right": [],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ]
+   }
+  },
+  "model_notes": {
+   "Claude": "Correct on fundamentals but overly conservative, missing both teams to score and over 2.5 goals.",
+   "GPT": "Right on result and parity, but too cautious with 0-1 scoreline and handicap push prediction.",
+   "Gemini": "Mirrored Claude's pattern—solid on win/HTFT markets but failed on scoring-related predictions.",
+   "Kimi": "Identical conservative bias to Gemini, correct on basics but missed on goals and half-time status.",
+   "GLM": "Cloned Kimi's predictions exactly, showing systematic underestimation of scoring markets.",
+   "Seed": "Only model to correctly predict high-scoring affair with both teams scoring, but missed on parity and handicap."
+  },
+  "collective": "All six models correctly predicted the away win, but five systematically underestimated scoring: predicting under 2.5 goals and no BTTS, revealing a collective conservative bias that favored defensive low-scoring scenarios and overlooked underdog offensive capability.",
+  "paper_point": "Despite unanimous accuracy on match outcome, models exhibited systematic conservatism with 5/6 incorrectly forecasting under 2.5 goals and both teams not scoring, exposing a fundamental bias in scoreline prediction that persists even when match winners are correctly identified."
+ },
+ "ENG_vs_CRO": {
+  "per_market": {
+   "胜平负": {
+    "right": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ],
+    "wrong": []
+   },
+   "让球": {
+    "right": [
+     "Gemini"
+    ],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ]
+   },
+   "大小2.5": {
+    "right": [
+     "Kimi",
+     "GLM",
+     "Seed"
+    ],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini"
+    ]
+   },
+   "双方进球": {
+    "right": [
+     "Kimi",
+     "GLM",
+     "Seed"
+    ],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini"
+    ]
+   },
+   "单双": {
+    "right": [
+     "GPT",
+     "Gemini"
+    ],
+    "wrong": [
+     "Claude",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ]
+   },
+   "半全场": {
+    "right": [
+     "Claude",
+     "GPT",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ],
+    "wrong": [
+     "Gemini"
+    ]
+   },
+   "正确比分": {
+    "right": [],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ]
+   }
+  },
+  "model_notes": {
+   "Claude": "Correct on outcome and HT/FT but severely underestimated scoring volume (predicted 1-0 vs actual 4-2) and missed both teams scoring.",
+   "GPT": "Matched Claude on basics and correctly predicted even goals, yet failed on goal volume and both-teams-to-score markets.",
+   "Gemini": "Only model to correctly predict handicap win and even goals, but missed HT/FT and underestimated scoreline.",
+   "Kimi": "Best on goal markets (correct on over 2.5 and both teams scoring) but wrong on handicap and odd/even.",
+   "GLM": "Identical to Kimi in predictions, showing strong goal market sense but missing handicap and parity.",
+   "Seed": "Mirrored Kimi/GLM pattern, suggesting similar predictive logic with good goal volume intuition but handicap blind spot."
+  },
+  "collective": "All models correctly predicted home win, but 5/6 misread handicap (predicting push vs actual home win). Split into conservative trio (Claude/GPT/Gemini) who all failed on over/under and both-teams-to-score, versus aggressive trio (Kimi/GLM/Seed) who got those right but still underestimated magnitude. No model predicted correct score, revealing systematic conservatism toward goal volume.",
+  "paper_point": "Models exhibited a conservative-aggressive split on goal markets: aggressive trio correctly anticipated high scoring but still undershot 4-2, while conservative trio systematically underpredicted, indicating pervasive bias toward low-scoring outcomes even when acknowledging goal potential."
+ },
+ "GHA_vs_PAN": {
+  "per_market": {
+   "胜平负": {
+    "right": [
+     "Kimi"
+    ],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "GLM",
+     "Seed"
+    ]
+   },
+   "让球": {
+    "right": [
+     "Kimi"
+    ],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "GLM",
+     "Seed"
+    ]
+   },
+   "大小2.5": {
+    "right": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "GLM"
+    ],
+    "wrong": [
+     "Kimi",
+     "Seed"
+    ]
+   },
+   "双方进球": {
+    "right": [],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ]
+   },
+   "单双": {
+    "right": [
+     "Kimi",
+     "Seed"
+    ],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "GLM"
+    ]
+   },
+   "半全场": {
+    "right": [
+     "Kimi"
+    ],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "GLM",
+     "Seed"
+    ]
+   },
+   "正确比分": {
+    "right": [],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ]
+   }
+  },
+  "model_notes": {
+   "Claude": "大小球判断精准但全盘误判胜负方向，陷入'平局陷阱'与'双方进球'误区。",
+   "GPT": "与Claude预测完全一致，暴露同质化问题，所有核心赛果方向均错误。",
+   "Gemini": "同样陷入集体误判，仅在大小球上正确，缺乏独立判断能力。",
+   "Kimi": "唯一准确预测主胜及半全场走势，但高估进球数且误判双方进球。",
+   "GLM": "跟随主流预测失败，仅在大小球上正确，比分预测保守但错误。",
+   "Seed": "唯一反向预测客胜且错判大小球，仅在单双数上蒙对，最为激进偏差。"
+  },
+  "collective": "五模型集体陷入'平局+双方进球'预测陷阱，仅在大小球上达成共识；全部错判比分与进球方，暴露对低比分主胜模式的系统性盲区。",
+  "paper_point": "模型普遍低估主场优势，集体误判双方进球与半全场，仅在大小球上达成共识。"
  }
 }

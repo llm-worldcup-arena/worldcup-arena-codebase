@@ -1,0 +1,16 @@
+{
+ "team": "CPV",
+ "source": "FOX",
+ "url": "https://www.foxsports.com/stories/soccer/world-cup-roundup-cape-verde-does-unthinkable-against-spain",
+ "title": "World Cup Roundup: Cape Verde Does The Unthinkable Against Spain | FOX Sports",
+ "news_date": "2026-06-18",
+ "published": null,
+ "tier": "T2",
+ "lang": "en",
+ "asof": "2026-06-18",
+ "fetched": "2026-06-18_1231",
+ "method": "jsonld:articleBody",
+ "status": "ok",
+ "original_text": "What if I told you the only match without a goal on Monday produced the moment of the day? Yes, there were late equalizers and upsets on another four-match day at the 2026 FIFA World Cup, but only one will go down in the tournament's history books. Here is everything you might have missed on Day 5 of the 2026 FIFA World Cup: Save Of The Day Vozinha started playing soccer professionally in 2007 for his local club, Batuque, in Cape Verde. Nearly two decades later, the 40-year-old goalkeeper got the opportunity to show his class, recording a clean sheet against Spain. Six of his seven saves were from inside the box, and four of them were diving saves. Assist Of The Day Mohammad Mohebi will get the hero's treatment for his decisive equalizer in the 64th minute, but it wouldn't have been possible without the absolutely perfect cross from Ramin Rezaeian, which had just enough power to make it into the box and just enough finesse for Mohebi to get his head on it. Goal Of The Day Mo Salah got quite the birthday present from Emam Ashour, who settled Salah's pass just outside the penalty box and hit a low-driven shot that Egypt goalkeeper Mostafa Ahmed Shobeir couldn't get a hand on despite his best effort. And the cherry on top? Salah was credited with the assist. Happy birthday, Mo! This is what the expanded tournament is all about. Against all odds, Cape Verde earned a point in its first-ever World Cup match by shutting out Spain, and the scenes after the match were something to behold, from the emotional players to the electric supporters.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

@@ -1,0 +1,16 @@
+{
+ "team": "ESP",
+ "source": "AlJazeera",
+ "url": "https://www.aljazeera.com/sports/liveblog/2026/6/15/spain-vs-cape-verde-live-world-cup-2026",
+ "title": "Cape Verde seal one of all-time World Cup results in Spain draw – updates",
+ "news_date": "2026-06-18",
+ "published": null,
+ "tier": "T1",
+ "lang": "en",
+ "asof": "2026-06-18",
+ "fetched": "2026-06-18_1231",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "This page is now closed, but a summary of the game is available below and you can click here for our full match report. Thanks for joining us at Al Jazeera Sport .",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

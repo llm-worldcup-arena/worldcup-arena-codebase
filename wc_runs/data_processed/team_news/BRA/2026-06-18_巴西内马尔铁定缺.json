@@ -1,0 +1,16 @@
+{
+ "team": "BRA",
+ "source": "FIFA",
+ "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/brazil-neymar-injury",
+ "title": "Brazil suffer Neymar FIFA World Cup 2026 injury blow",
+ "news_date": "2026-06-18",
+ "published": null,
+ "tier": "T1",
+ "lang": "en",
+ "asof": "2026-06-18",
+ "fetched": "2026-06-18_1231",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "The veteran Brazil forward has suffered a grade two calf injury and is expected to be sidelined for two to three weeks.\nNeymar is expected to miss Brazil's FIFA World Cup 2026™ warm-up friendlies against Panama and Egypt with a grade two calf injury, which is likely to sideline the veteran forward for two to three weeks.\nAs such, the 34-year-old's participation in Brazil's opener against Morocco at New York New Jersey Stadium on 13 June is now far from certain.\nNeymar sustained the injury during Santos's 3-0 defeat to Coritiba on 17 May. The following day, he was called up by Carlo Ancelotti for Brazil's World Cup squad to great fanfare and huge excitement.\n\"We have been monitoring Neymar throughout the entire year. In this recent period, he has played and improved his physical condition. He is an important player, and he will be important at the World Cup,\" Ancelotti explained during the squad announcement.\nAfter the news was confirmed by Brazil’s national team doctor Rodrigo Lasmar, midfielder Casemiro commented on his longtime friend's recovery. \"The doctor (Lasmar) has already made it quite clear. We have to respect that. No player likes being injured, but let's hope that Neymar — and all the players — are healthy enough to play, because we know that we need every single player,\" he noted. \"Progress happens day by day. Every player here is important.\"\nDrawn into Group C, Ancelotti’s side will face Morocco on 13 June, followed by Haiti on 19 June and Scotland on 24 June.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}
