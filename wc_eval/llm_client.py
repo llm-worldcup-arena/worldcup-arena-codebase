@@ -173,7 +173,8 @@ def chat_search(messages, model, temperature=0.3, timeout=300, max_uses=5):
 
     if m.startswith("claude"):                                       # Anthropic 原生：system 提到顶层参数
         sys_txt = "\n".join(x["content"] for x in messages if x["role"] == "system")
-        body = {"model": model, "max_tokens": 16000,                  # thinking 模型禁自定温度 → 不传 temperature
+        body = {"model": model, "max_tokens": 32000,                  # thinking 模型禁自定温度 → 不传 temperature
+                "thinking": {"type": "enabled", "budget_tokens": 24000},  # 最高档思考(opus-4-8 需显式开;预算=上限,实际用多少算多少;-thinking后缀版会自动开但仍兼容)
                 "messages": [x for x in messages if x["role"] != "system"],
                 "tools": [{"type": "web_search_20250305", "name": "web_search", "max_uses": max_uses}]}
         if sys_txt:
@@ -183,8 +184,9 @@ def chat_search(messages, model, temperature=0.3, timeout=300, max_uses=5):
         return "".join(b.get("text", "") for b in d["content"] if b.get("type") == "text")
 
     if m.startswith("gpt") or m.startswith("doubao"):                # OpenAI Responses 兼容通道
-        d = _post(f"{root}/v1/responses",
-                  {"model": model, "input": messages, "tools": [{"type": "web_search"}]}, auth, timeout)
+        rbody = {"model": model, "input": messages, "tools": [{"type": "web_search"}],
+                 "reasoning": {"effort": "high"}}                     # 最高档思考:gpt-5.5 与 豆包 seed 都吃此参数(实测豆包 reasoning 1067→1638 tok)
+        d = _post(f"{root}/v1/responses", rbody, auth, timeout)
         return "".join(c.get("text", "") for o in d.get("output", []) if o.get("type") == "message"
                        for c in o.get("content", []))
 
@@ -192,7 +194,8 @@ def chat_search(messages, model, temperature=0.3, timeout=300, max_uses=5):
         sys_txt = "\n".join(x["content"] for x in messages if x["role"] == "system")
         body = {"contents": [{"role": "user", "parts": [{"text": x["content"]}]}
                              for x in messages if x["role"] != "system"],
-                "tools": [{"google_search": {}}], "generationConfig": {"temperature": temperature}}
+                "tools": [{"google_search": {}}],
+                "generationConfig": {"temperature": temperature, "thinkingConfig": {"thinkingBudget": 24576}}}  # 最高档思考(默认就思考,显式给高预算)
         if sys_txt:
             body["systemInstruction"] = {"parts": [{"text": sys_txt}]}
         d = _post(f"{root}/v1beta/models/{model}:generateContent", body,

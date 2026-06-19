@@ -1,0 +1,418 @@
+{
+ "match_id": "4627937",
+ "date": "2026-06-18",
+ "comp": "世界杯",
+ "ha_home": "中",
+ "home": "CAN",
+ "away": "QAT",
+ "score": "6-0",
+ "venue": "BC Place (Vancouver)",
+ "attendance": 52497,
+ "goals": [
+  {
+   "min": 16,
+   "side": "home",
+   "player": "Cyle Larin",
+   "sub": null
+  },
+  {
+   "min": 29,
+   "side": "home",
+   "player": "Jonathan David",
+   "sub": null
+  },
+  {
+   "min": 45,
+   "side": "home",
+   "player": "Jonathan David",
+   "sub": null
+  },
+  {
+   "min": 64,
+   "side": "home",
+   "player": "Nathan-Dylan Saliba",
+   "sub": null
+  },
+  {
+   "min": 75,
+   "side": "home",
+   "player": "Mohamed Al-Mannai",
+   "sub": "乌龙"
+  },
+  {
+   "min": 90,
+   "side": "home",
+   "player": "Jonathan David",
+   "sub": null
+  }
+ ],
+ "cards": [
+  {
+   "min": 9,
+   "side": "home",
+   "player": "Derek Cornelius",
+   "type": "黄牌"
+  },
+  {
+   "min": 33,
+   "side": "away",
+   "player": "Homam Al-Amin",
+   "type": "红牌"
+  },
+  {
+   "min": 54,
+   "side": "away",
+   "player": "Assim Madibo",
+   "type": "红牌"
+  },
+  {
+   "min": 62,
+   "side": "away",
+   "player": "Ahmed Fathi",
+   "type": "黄牌"
+  }
+ ],
+ "stats": {
+  "射门": [
+   "32",
+   "2"
+  ],
+  "射正": [
+   "10",
+   "0"
+  ],
+  "禁区内射门": [
+   "8",
+   "1"
+  ],
+  "扑救": [
+   "14",
+   "1"
+  ],
+  "角球": [
+   "19",
+   "1"
+  ],
+  "越位": [
+   "1",
+   "1"
+  ],
+  "控球%": [
+   "79%",
+   "21%"
+  ],
+  "传中": [
+   "132",
+   "44"
+  ],
+  "传球": [
+   "514",
+   "104"
+  ],
+  "xG预期进球": [
+   "3.92",
+   "0.07"
+  ],
+  "xGOT/大机会": [
+   "4.68",
+   "0"
+  ]
+ },
+ "lineups": {
+  "home": [
+   {
+    "no": 4,
+    "name": "Luc De Fougerolles"
+   },
+   {
+    "no": 16,
+    "name": "Maxime Crépeau"
+   },
+   {
+    "no": 22,
+    "name": "Richie Laryea"
+   },
+   {
+    "no": 13,
+    "name": "Derek Cornelius"
+   },
+   {
+    "no": 2,
+    "name": "Alistair Johnston"
+   },
+   {
+    "no": 20,
+    "name": "Ali Ahmed"
+   },
+   {
+    "no": 7,
+    "name": "Stephen Eustáquio"
+   },
+   {
+    "no": 8,
+    "name": "Ismaël Koné"
+   },
+   {
+    "no": 17,
+    "name": "Tajon Buchanan"
+   },
+   {
+    "no": 9,
+    "name": "Cyle Larin"
+   },
+   {
+    "no": 10,
+    "name": "Jonathan David"
+   },
+   {
+    "no": 15,
+    "name": "Moise Bombito"
+   },
+   {
+    "no": 12,
+    "name": "Tani Oluwaseyi"
+   },
+   {
+    "no": 25,
+    "name": "Nathan-Dylan Saliba"
+   },
+   {
+    "no": 14,
+    "name": "Jacob Shaffelburg"
+   },
+   {
+    "no": 23,
+    "name": "Niko Sigur"
+   },
+   {
+    "no": 6,
+    "name": "Mathieu Choiniere"
+   },
+   {
+    "no": 24,
+    "name": "Promise David"
+   },
+   {
+    "no": 19,
+    "name": "Alphonso Davies"
+   },
+   {
+    "no": 18,
+    "name": "Owen Goodman"
+   },
+   {
+    "no": 11,
+    "name": "Liam Millar"
+   },
+   {
+    "no": 26,
+    "name": "Jayden Nelson"
+   },
+   {
+    "no": 21,
+    "name": "Jonathan Osorio"
+   },
+   {
+    "no": 1,
+    "name": "Dayne St Clair"
+   },
+   {
+    "no": 5,
+    "name": "Joel Waterman"
+   }
+  ],
+  "away": [
+   {
+    "no": 1,
+    "name": "Mahmoud Abunada"
+   },
+   {
+    "no": 14,
+    "name": "Homam Al-Amin"
+   },
+   {
+    "no": 16,
+    "name": "Boualem Khoukhi"
+   },
+   {
+    "no": 2,
+    "name": "Pedro Miguel"
+   },
+   {
+    "no": 13,
+    "name": "Ayoub Al-Oui"
+   },
+   {
+    "no": 4,
+    "name": "Issa Laye"
+   },
+   {
+    "no": 23,
+    "name": "Assim Madibo"
+   },
+   {
+    "no": 5,
+    "name": "Jassem Gaber"
+   },
+   {
+    "no": 11,
+    "name": "Akram Afif"
+   },
+   {
+    "no": 15,
+    "name": "Yusuf Abdurisag"
+   },
+   {
+    "no": 8,
+    "name": "Edmilson Junior"
+   },
+   {
+    "no": 20,
+    "name": "Ahmed Fathi"
+   },
+   {
+    "no": 18,
+    "name": "Sultan Al Brake"
+   },
+   {
+    "no": 26,
+    "name": "Mohamed Al-Mannai"
+   },
+   {
+    "no": 3,
+    "name": "Lucas Mendes"
+   },
+   {
+    "no": 25,
+    "name": "Al Hashmi Al Hussain"
+   },
+   {
+    "no": 7,
+    "name": "Ahmed Alaaeldin"
+   },
+   {
+    "no": 19,
+    "name": "Almoez Ali"
+   },
+   {
+    "no": 17,
+    "name": "Ahmed Al Ganehi"
+   },
+   {
+    "no": 10,
+    "name": "Hasan Al-Haydos"
+   },
+   {
+    "no": 22,
+    "name": "Meshaal Barsham"
+   },
+   {
+    "no": 12,
+    "name": "Karim Boudiaf"
+   },
+   {
+    "no": 21,
+    "name": "Salah Zakaria"
+   },
+   {
+    "no": 24,
+    "name": "Tahsin Jamshid"
+   },
+   {
+    "no": 6,
+    "name": "Abdulaziz Hatem"
+   },
+   {
+    "no": 9,
+    "name": "Mohammed Muntari"
+   }
+  ]
+ },
+ "missing": [
+  {
+   "side": "home",
+   "no": 3,
+   "name": "Alfie Jones",
+   "reason": "Thigh injury"
+  }
+ ],
+ "events": [
+  {
+   "min": 9,
+   "side": "home",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Derek Cornelius"
+  },
+  {
+   "min": 16,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Cyle Larin"
+  },
+  {
+   "min": 29,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Jonathan David"
+  },
+  {
+   "min": 33,
+   "side": "away",
+   "type": "红牌",
+   "sub": null,
+   "player": "Homam Al-Amin"
+  },
+  {
+   "min": 45,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Jonathan David"
+  },
+  {
+   "min": 54,
+   "side": "away",
+   "type": "红牌",
+   "sub": null,
+   "player": "Assim Madibo"
+  },
+  {
+   "min": 62,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Ahmed Fathi"
+  },
+  {
+   "min": 64,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Nathan-Dylan Saliba"
+  },
+  {
+   "min": 75,
+   "side": "home",
+   "type": "进球",
+   "sub": "乌龙",
+   "player": "Mohamed Al-Mannai"
+  },
+  {
+   "min": 90,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Jonathan David"
+  }
+ ],
+ "injuries": [],
+ "suspensions": [],
+ "ratings": {},
+ "quotes": [],
+ "narrative": "",
+ "prediction_note": "",
+ "_note": "macheta/Sofascore 权威硬数据；injuries/suspensions/ratings/quotes/narrative/prediction_note 待 agent WebSearch 补。"
+}

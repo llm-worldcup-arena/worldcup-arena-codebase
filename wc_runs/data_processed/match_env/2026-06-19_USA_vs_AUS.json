@@ -1,0 +1,41 @@
+{
+ "match": {
+  "slug": "2026-06-19_USA_vs_AUS",
+  "date": "2026-06-19",
+  "home": "USA",
+  "away": "AUS",
+  "round": "group",
+  "group": "D"
+ },
+ "kickoff": {
+  "美东": "2026-06-19T15:00:00-04:00",
+  "北京": "06-20 03:00"
+ },
+ "venue": {
+  "name": "Lumen Field",
+  "city": "Seattle",
+  "altitude_m": 5,
+  "roof": "open",
+  "surface": "grass"
+ },
+ "weather": {
+  "开球时段": {
+   "温度C": 24.4,
+   "体感C": 25.2,
+   "降水概率%": 0,
+   "降水mm": 0.0,
+   "风速kmh": 12.8,
+   "湿度%": 48,
+   "天况": "晴"
+  },
+  "source": "open-meteo(免费预报API)",
+  "fetched": "2026-06-19_1138",
+  "_note": "临近开球建议 --refresh 刷新"
+ },
+ "referee": {
+  "name": "Felix Zwayer (GER)",
+  "source": "http://law5-theref.blogspot.com/2026/06/2026-fifa-wc-referee-appointments-for.html",
+  "fetched": "2026-06-19_1138"
+ },
+ "_note": "环境=比赛+时间+地点 确定;天气为开球时段;顶棚 retractable/fixed-canopy 时天气影响有限。"
+}

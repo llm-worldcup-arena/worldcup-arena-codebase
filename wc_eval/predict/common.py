@@ -241,6 +241,11 @@ _HANDICAP = {
     ("SUI", "BIH"): -0.5,    # 瑞士 -0.5(瑞士整齐;波黑 Dzeko 肩伤存疑、Kolasinac 待测)
     ("CAN", "QAT"): -1.0,    # 加拿大 -1(主场温哥华 J.David/Larin;卡塔尔实力差距;Davies 可能替补)
     ("MEX", "KOR"): -0.5,    # 墨西哥 -0.5(主场瓜达拉哈拉;均开门胜、Montes 停赛 vs 孙兴慜韩国,近平手略偏主)
+    # —— 6/19(多源核对 2026-06-19;正值=主队受让) ——
+    ("BRA", "HAI"): -2.0,    # 巴西 -2(BRA -800/-1000 ML 巨热、超算胜率88-92%、预测3-0、Over3.5;海地首秀弱旅;ESP-CPV同档;Yahoo/Squawka/Racingpost)
+    ("SCO", "MAR"): +0.5,    # 摩洛哥(客)让0.5(MAR -134 ML 小热、预选5场仅失1球;苏格兰火力不足、最可能摩1-0;Yahoo/compare.bet/johnnybet)
+    ("TUR", "PAR"): -0.5,    # 土耳其 -0.5(明示"0.5-goal favorite";TUR +105 微热 vs PAR +285、均0分生死战;Covers/BetMGM/Squawka)
+    ("USA", "AUS"): -0.5,    # 美国 -0.5(主场西雅图;USA -165 ML、算法胜率75%;澳洲爆冷2-0胜土;FanDuel/CBS,与USA-PAR -0.5同档)
 }
 
 

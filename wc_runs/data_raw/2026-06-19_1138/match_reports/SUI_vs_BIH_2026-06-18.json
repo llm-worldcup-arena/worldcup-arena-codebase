@@ -1,0 +1,405 @@
+{
+ "match_id": "4697700",
+ "date": "2026-06-18",
+ "comp": "世界杯",
+ "ha_home": "中",
+ "home": "SUI",
+ "away": "BIH",
+ "score": "4-1",
+ "venue": "SoFi Stadium (Los Angeles)",
+ "attendance": 70026,
+ "goals": [
+  {
+   "min": 74,
+   "side": "home",
+   "player": "Johan Manzambi",
+   "sub": null
+  },
+  {
+   "min": 84,
+   "side": "home",
+   "player": "Ruben Vargas",
+   "sub": null
+  },
+  {
+   "min": 90,
+   "side": "home",
+   "player": "Johan Manzambi",
+   "sub": null
+  },
+  {
+   "min": 90,
+   "side": "away",
+   "player": "Ermin Mahmic",
+   "sub": null
+  },
+  {
+   "min": 90,
+   "side": "home",
+   "player": "Granit Xhaka",
+   "sub": "点球"
+  }
+ ],
+ "cards": [
+  {
+   "min": 59,
+   "side": "away",
+   "player": "Amar Dedić",
+   "type": "黄牌"
+  },
+  {
+   "min": 61,
+   "side": "away",
+   "player": "Edin Džeko",
+   "type": "黄牌"
+  },
+  {
+   "min": 65,
+   "side": "home",
+   "player": "Nico Elvedi",
+   "type": "黄牌"
+  },
+  {
+   "min": 80,
+   "side": "away",
+   "player": "Tarik Muharemovic",
+   "type": "红牌"
+  }
+ ],
+ "stats": {
+  "射门": [
+   "13",
+   "5"
+  ],
+  "射正": [
+   "7",
+   "3"
+  ],
+  "禁区内射门": [
+   "3",
+   "1"
+  ],
+  "扑救": [
+   "3",
+   "1"
+  ],
+  "角球": [
+   "7",
+   "3"
+  ],
+  "越位": [
+   "3",
+   "1"
+  ],
+  "控球%": [
+   "62%",
+   "38%"
+  ],
+  "传中": [
+   "105",
+   "58"
+  ],
+  "传球": [
+   "516",
+   "287"
+  ],
+  "xG预期进球": [
+   "0.88",
+   "0.31"
+  ],
+  "xGOT/大机会": [
+   "2.46",
+   "0.27"
+  ]
+ },
+ "lineups": {
+  "home": [
+   {
+    "no": 1,
+    "name": "Gregor Kobel"
+   },
+   {
+    "no": 13,
+    "name": "Ricardo Rodriguez"
+   },
+   {
+    "no": 5,
+    "name": "Manuel Akanji"
+   },
+   {
+    "no": 4,
+    "name": "Nico Elvedi"
+   },
+   {
+    "no": 3,
+    "name": "Silvan Widmer"
+   },
+   {
+    "no": 8,
+    "name": "Remo Freuler"
+   },
+   {
+    "no": 10,
+    "name": "Granit Xhaka"
+   },
+   {
+    "no": 20,
+    "name": "Michel Aebischer"
+   },
+   {
+    "no": 22,
+    "name": "Fabian Rieder"
+   },
+   {
+    "no": 11,
+    "name": "Dan Ndoye"
+   },
+   {
+    "no": 7,
+    "name": "Breel Embolo"
+   },
+   {
+    "no": 26,
+    "name": "Cedric Itten"
+   },
+   {
+    "no": 25,
+    "name": "Luca Jaquez"
+   },
+   {
+    "no": 9,
+    "name": "Johan Manzambi"
+   },
+   {
+    "no": 15,
+    "name": "Djibril Sow"
+   },
+   {
+    "no": 17,
+    "name": "Ruben Vargas"
+   },
+   {
+    "no": 23,
+    "name": "Zeki Amdouni"
+   },
+   {
+    "no": 24,
+    "name": "Aurèle Amenda"
+   },
+   {
+    "no": 18,
+    "name": "Eray Cümart"
+   },
+   {
+    "no": 16,
+    "name": "Christian Fassnacht"
+   },
+   {
+    "no": 14,
+    "name": "Ardon Jashari"
+   },
+   {
+    "no": 21,
+    "name": "Marvin Keller"
+   },
+   {
+    "no": 12,
+    "name": "Yvon Mvogo"
+   },
+   {
+    "no": 19,
+    "name": "Noah Okafor"
+   },
+   {
+    "no": 6,
+    "name": "Denis Zakaria"
+   }
+  ],
+  "away": [
+   {
+    "no": 1,
+    "name": "Nikola Vasilj"
+   },
+   {
+    "no": 5,
+    "name": "Sead Kolasinac"
+   },
+   {
+    "no": 4,
+    "name": "Tarik Muharemovic"
+   },
+   {
+    "no": 18,
+    "name": "Nikola Katic"
+   },
+   {
+    "no": 7,
+    "name": "Amar Dedić"
+   },
+   {
+    "no": 19,
+    "name": "Kerim Alajbegovic"
+   },
+   {
+    "no": 14,
+    "name": "Ivan Šunjić"
+   },
+   {
+    "no": 6,
+    "name": "Benjamin Tahirovic"
+   },
+   {
+    "no": 15,
+    "name": "Amar Memić"
+   },
+   {
+    "no": 11,
+    "name": "Edin Džeko"
+   },
+   {
+    "no": 10,
+    "name": "Ermedin Demirovic"
+   },
+   {
+    "no": 20,
+    "name": "Esmir Bajraktarevic"
+   },
+   {
+    "no": 13,
+    "name": "Ivan Bašić"
+   },
+   {
+    "no": 16,
+    "name": "Amir Hadziahmetovic"
+   },
+   {
+    "no": 25,
+    "name": "Jovo Lukic"
+   },
+   {
+    "no": 26,
+    "name": "Ermin Mahmic"
+   },
+   {
+    "no": 9,
+    "name": "Samed Bazdar"
+   },
+   {
+    "no": 17,
+    "name": "Dzenis Burnic"
+   },
+   {
+    "no": 8,
+    "name": "Armin Gigovic"
+   },
+   {
+    "no": 3,
+    "name": "Dennis Hadzikadunic"
+   },
+   {
+    "no": 12,
+    "name": "Mladen Jurkas"
+   },
+   {
+    "no": 24,
+    "name": "Arjan Malic"
+   },
+   {
+    "no": 2,
+    "name": "Nihad Mujakić"
+   },
+   {
+    "no": 21,
+    "name": "Stjepan Radeljic"
+   },
+   {
+    "no": 23,
+    "name": "Haris Tabakovic"
+   },
+   {
+    "no": 22,
+    "name": "Martin Zlomislić"
+   }
+  ]
+ },
+ "missing": [
+  {
+   "side": "home",
+   "no": 2,
+   "name": "Miro Muheim",
+   "reason": "Calf Injury"
+  }
+ ],
+ "events": [
+  {
+   "min": 59,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Amar Dedić"
+  },
+  {
+   "min": 61,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Edin Džeko"
+  },
+  {
+   "min": 65,
+   "side": "home",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Nico Elvedi"
+  },
+  {
+   "min": 74,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Johan Manzambi"
+  },
+  {
+   "min": 80,
+   "side": "away",
+   "type": "红牌",
+   "sub": null,
+   "player": "Tarik Muharemovic"
+  },
+  {
+   "min": 84,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Ruben Vargas"
+  },
+  {
+   "min": 90,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Johan Manzambi"
+  },
+  {
+   "min": 90,
+   "side": "away",
+   "type": "进球",
+   "sub": null,
+   "player": "Ermin Mahmic"
+  },
+  {
+   "min": 90,
+   "side": "home",
+   "type": "进球",
+   "sub": "点球",
+   "player": "Granit Xhaka"
+  }
+ ],
+ "injuries": [],
+ "suspensions": [],
+ "ratings": {},
+ "quotes": [],
+ "narrative": "",
+ "prediction_note": "",
+ "_note": "macheta/Sofascore 权威硬数据；injuries/suspensions/ratings/quotes/narrative/prediction_note 待 agent WebSearch 补。"
+}

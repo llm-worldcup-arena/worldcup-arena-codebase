@@ -1,17 +1,19 @@
 {
-  "_note": "评测对象:6 家旗舰大模型。**当前活配置(和 6/17 一致):Claude/GPT/Gemini/Seed 走 DMXAPI + Kimi(Moonshot官方)/GLM(智谱官方)两个独立官方通道**。OpenRouter 迁移方案见 _openrouter_备选(2026-06-18 探索、暂不启用)。",
-  "_search_note": "search=true=可开真联网。通道:Claude→DMX /v1/messages web_search;GPT/豆包→DMX /v1/responses web_search;Gemini→DMX /v1beta google_search;Kimi→Moonshot 官方 builtin $web_search;GLM→智谱官方 function-call。Key 各通道独立,全在 secrets.local.json(gitignore)。",
+  "_note": "评测对象:6 家旗舰大模型,全部要求【最高档 thinking + 真联网 + reasoning】。通道:Claude/GPT/Gemini/Seed→DMXAPI + Kimi(Moonshot官方)/GLM(智谱官方)。2026-06-18 升级三家版本到 DMX 最新旗舰(见 _upgrade)。",
+  "_upgrade_2026-06-18": "Claude/GPT/Gemini 升到 DMX 最新版 + 最高档思考(实测见 _test)。thinking 是参数不是模型名:① Claude claude-opus-4-8 —— llm_client 给 /v1/messages 传 thinking:{type:enabled,budget_tokens:24000} 显式开(原 opus-4-6-thinking 是平台自动开);② GPT gpt-5.5 —— 传 reasoning:{effort:high};③ Gemini gemini-3.1-pro-preview —— generationConfig 传 thinkingConfig:{thinkingBudget:24576}(默认就思考、显式给高预算)。全留 DMX,不用 OpenRouter(OpenRouter 上 GPT :online 灌全文输入巨贵;DMX 的 web_search 是服务端工具调用、便宜)。",
+  "_test_2026-06-18": "DMX 最高档实测(结构化标记判定:thinking块/reasoning项/thought部分=思考;web_search_tool_result/web_search_call/groundingMetadata=联网):Claude opus-4-8 思考块1002字+web_search3次 | Gemini 3.1-pro 思考4280字/2189tok+grounding11源 | GPT-5.5 reasoning 8072tok/11轮+web_search10次(最猛最慢,~150-400s/次)。",
+  "_search_note": "search=true=可开真联网。通道:Claude→DMX /v1/messages web_search;GPT→DMX /v1/responses web_search+reasoning;Gemini→DMX /v1beta google_search+thinkingConfig;Kimi→Moonshot官方 builtin $web_search;GLM→智谱官方 function-call;Seed→DMX /v1/responses web_search(自带thinking)。Key 各通道独立、全在 secrets.local.json(gitignore)。",
   "models": [
-    {"name": "Claude", "id": "claude-opus-4-6-thinking", "search": true},
-    {"name": "GPT",    "id": "gpt-5.2", "search": true},
-    {"name": "Gemini", "id": "gemini-3.1-pro-preview", "search": true, "_note": "2026-06-17:DMX 下架了 gemini-3.1-pro-preview-thinking → 换 gemini-3.1-pro-preview(带 thoughtSignature 思考 + 联网,同款3.1-pro)"},
-    {"name": "Kimi",   "id": "kimi-k2.6", "search": true, "channel": "moonshot", "_note": "Moonshot 官方直连;k2.6 自带 thinking、temp 固定 1"},
-    {"name": "GLM",    "id": "glm-5.1", "search": true, "channel": "zhipu", "_note": "智谱官方直连;thinking + 函数调用联网"},
-    {"name": "Seed",   "id": "doubao-seed-2-0-pro-260215", "search": true}
+    {"name": "Claude", "id": "claude-opus-4-8", "search": true, "_note": "DMX;thinking 参数显式开(budget 24000)+ web_search"},
+    {"name": "GPT",    "id": "gpt-5.5", "search": true, "_note": "DMX;reasoning effort:high(思考最猛最慢~150-400s)+ web_search"},
+    {"name": "Gemini", "id": "gemini-3.1-pro-preview", "search": true, "_note": "DMX;thinkingConfig budget 24576 + google_search;-thinking 后缀版已被DMX下架故用这个"},
+    {"name": "Kimi",   "id": "kimi-k2.6", "search": true, "channel": "moonshot", "_note": "Moonshot官方直连;自带thinking、temp固定1"},
+    {"name": "GLM",    "id": "glm-5.1", "search": true, "channel": "zhipu", "_note": "智谱官方直连;thinking+函数调用联网"},
+    {"name": "Seed",   "id": "doubao-seed-2-0-pro-260215", "search": true, "_note": "DMX;reasoning effort:high(实测思考 1067→1638 tok)+ web_search"}
   ],
-  "_openrouter_备选_2026-06-18": {
-    "_说明": "用 OpenRouter key 实测过的迁移方案(暂不启用);要启用:改下面 id(带厂商前缀斜杠)、llm_client 已有 _openrouter_search 按'/'路由。坑:GPT 思考+联网极贵(:online 灌全文8万tok输入+high档狂想1.5万tok输出,单次~$5,慎用);Gemini 须用 web 插件(非:online)才回引用且省钱;ByteDance OR 无 pro 旗舰。",
-    "Claude": "anthropic/claude-opus-4.8", "GPT": "openai/gpt-5.5-pro(贵,慎)", "Gemini": "google/gemini-3.1-pro-preview",
-    "Kimi": "kimi-k2.6(仍官方)", "GLM": "glm-5.2(可升,仍官方)", "Seed": "OR无pro,留DMX"
+  "_rollback_2026-06-17前": {
+    "_说明": "升级前(6/17及之前)配置,留查/可回滚",
+    "Claude": "claude-opus-4-6-thinking", "GPT": "gpt-5.2", "Gemini": "gemini-3.1-pro-preview",
+    "Kimi": "kimi-k2.6", "GLM": "glm-5.1", "Seed": "doubao-seed-2-0-pro-260215"
   }
 }

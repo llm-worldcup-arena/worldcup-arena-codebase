@@ -1,0 +1,41 @@
+{
+ "match": {
+  "slug": "2026-06-19_BRA_vs_HAI",
+  "date": "2026-06-19",
+  "home": "BRA",
+  "away": "HAI",
+  "round": "group",
+  "group": "C"
+ },
+ "kickoff": {
+  "美东": "2026-06-19T21:00:00-04:00",
+  "北京": "06-20 09:00"
+ },
+ "venue": {
+  "name": "Lincoln Financial Field",
+  "city": "Philadelphia",
+  "altitude_m": 12,
+  "roof": "open",
+  "surface": "grass"
+ },
+ "weather": {
+  "开球时段": {
+   "温度C": 24.0,
+   "体感C": 22.1,
+   "降水概率%": 0,
+   "降水mm": 0.0,
+   "风速kmh": 10.5,
+   "湿度%": 38,
+   "天况": "晴"
+  },
+  "source": "open-meteo(免费预报API)",
+  "fetched": "2026-06-19_1138",
+  "_note": "临近开球建议 --refresh 刷新"
+ },
+ "referee": {
+  "name": "Alejandro Hernández (ESP)",
+  "source": "http://law5-theref.blogspot.com/2026/06/2026-fifa-wc-referee-appointments-for.html",
+  "fetched": "2026-06-19_1138"
+ },
+ "_note": "环境=比赛+时间+地点 确定;天气为开球时段;顶棚 retractable/fixed-canopy 时天气影响有限。"
+}
