@@ -1,0 +1,24 @@
+{
+ "source": "espn.com",
+ "url": "https://www.espn.com/soccer/report/_/gameId/760444",
+ "title": "Brazil 3-0 Haiti (Jun 19, 2026) Game Analysis - ESPN",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-19",
+  "home": "BRA",
+  "away": "HAI",
+  "home_en": "Brazil",
+  "away_en": "Haiti",
+  "home_zh": "巴西",
+  "away_zh": "海地",
+  "comp": "小组赛·C组",
+  "match_id": "M29",
+  "slug": "2026-06-19_BRA_vs_HAI"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Matheus Cunha scored twice as Brazil moved top of World Cup Group C with a 3-0 win over Haiti.\nVinicius Junior netted the third, with all of the goals coming in a first half during which Brazil looked markedly improved from their insipid opening draw against Morocco.\nThe result ensures Haiti, who lost to Scotland 1-0 in their first game, can no longer reach the knockout phase.\nBrazil ran riot in the first half, helped by some generous defending from the Caribbean side, whose high line gave Cunha, Raphinha and Vinicius plenty of opportunities to run in behind.\nRaphinha had a 12th-minute strike disallowed for offside. The Barcelona forward latched on to Bruno Guimaraes' through ball before finishing well, only for the assistant's flag to correctly signal he had moved a fraction early.\nTen minutes later Raphinha was sent clear again, but the former Leeds player lifted his finish wide of the target, with the offside flag once more raised.\nA minute later Brazil went ahead through Cunha. Vinicius cut in from the left and his curling effort was parried by Haiti goalkeeper Johny Placide to leave the Manchester United forward with a simple finish.\nCunha scored his second after 36 minutes as Haiti lost the ball in midfield, Vinicius played the former Wolves man in on the left and he smashed a first-time finish into the roof of the net.\nAn excellent start for the five-time winners was tarnished somewhat as Raphinha went off before half-time with what looked to be a hamstring injury, with Bournemouth teenager Rayan replacing him.\nVinicius went from provider to scorer in first-half stoppage time as the Real Madrid forward latched on to Lucas Paqueta's lofted pass and slotted the ball past the helpless Placide.\nHaiti produced their first shot of the game after 48 minutes as Danilo gave the ball away cheaply and Sunderland's Wilson Isidor - on as one of two half-time substitutes - hit a tame effort at Alisson Becker.\nAlisson denied Haiti their first World Cup goal since 1974 with a point-blank save as Ricardo Ade headed a corner goalwards.\nJean-Kevin Duverne prodded an effort wide for Haiti, while at the other end substitute Gabriel Martinelli saw an effort tipped against the crossbar by Placide.\nDouglas Santos fired over, Endrick had an effort ruled out for offside and Ederson put a good chance wide but Brazil were unable to add to their tally in the second half.\nIsidor drew an excellent save from Allison and Dominique Simon's stoppage-time effort from distance was also kept out by the Liverpool goalkeeper as Haiti became the first side to be eliminated from this year's tournament.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

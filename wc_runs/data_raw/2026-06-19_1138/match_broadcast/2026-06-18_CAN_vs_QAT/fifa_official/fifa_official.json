@@ -1,0 +1,24 @@
+{
+ "source": "FIFA官方",
+ "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/canada-qatar-match-report-highlights",
+ "title": "Canada 6-0 Qatar | Match report and highlights",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-18",
+  "home": "CAN",
+  "away": "QAT",
+  "home_en": "Canada",
+  "away_en": "Qatar",
+  "home_zh": "加拿大",
+  "away_zh": "卡塔尔",
+  "comp": "小组赛·B组",
+  "match_id": "M27",
+  "slug": "2026-06-18_CAN_vs_QAT"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Canada won their first FIFA World Cup match in style as Jonathan David notched a hat-trick and Cyle Larin and Nathan Saliba added goals to down Qatar.\nCanada 6-0 QatarCanada 6-0 Qatar\nCanada goals: Larin (16), David (29, 45+3, 90+2), Saliba (64), Manai og (75)\nJonathan David’s hat-trick powered Canada to a historic victory over nine-men Qatar at BC Place Vancouver. It is the first FIFA World Cup™ victory for the 2026 co-hosts, who with four points are on the precipice of the knockout round.\nCanada coach Jesse Marsch called for the fans and players to make Qatar feel their presence, and both delivered. Cyle Larin, fresh off his goal against Bosnia and Herzegovina, slotted home a rebound. David took it to another level, pulverizing a volley that blazed past Mahmoud Abunada.\nThings grew worse for Julen Lopetegui’s men after Homan Ahmed’s half-hour takedown of Tajon Buchanan and red card, and David made them pay by stabbing home right before the break.\nIt was then down to nine for Qatar when Assim Madibo’s challenge on Ismael Kone resulted in red. Nathan Saliba’s free-kick goal was inevitable, as was the own goal from Mohamed Manai and a late David strike to end a night that Canada will never forget.\nGroup B\nGroup B\nPWDLGFGAGDTCSPtsForm\n1\nCanada\nCAN\n2 1 0 7 1 6 -3 4\n-\n-\n-\n\n2\nSwitzerland\nSUI\n2 1 0 5 2 3 -2 4\n-\n-\n-\n\n3\nBosnia and Herzegovina\nBIH\n2 0 1 2 5 -3 -9 1\n-\n-\n-\n\n4\nQatar\nQAT\n2 0 1 7 -6 -11 1\n-\n-\n-\n\nKey statKey stat\nCanada striker Jonathan David is the first player to score a hat-trick on home soil since Geoff Hurst for England in 1966.\nMichelob Ultra Superior Player of the Match Michelob Ultra Superior Player of the Match\nJonathan David (Canada)\nWhat they said...What they said...\n\"We showed the world who Canada is. A lot of players came from nowhere, basically. We showed the fight we have in us. And we showed that we can perform on the world stage. We are just getting started. Ismael Koe's injury hurts and was emotional, but we went back out there and got the job done. Switzerland are around the corner and the job is not finished. I think we can do way better and we will have Kone in the back of our minds and do it for him.\" Cyle Larin, Canada striker\n“We wanted to play the kind of football that would electrify the crowd. We wanted to showcase the talent and mentality that we have. There are going to be 40 million Canadians who claim they were in the stadium today. These 55,000 were lucky and what a performance they saw.”",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

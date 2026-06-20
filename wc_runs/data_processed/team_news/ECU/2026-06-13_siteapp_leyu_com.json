@@ -1,0 +1,16 @@
+{
+ "team": "ECU",
+ "source": "siteapp-leyu.com",
+ "url": "https://siteapp-leyu.com/cases/154.html",
+ "title": "leyu乐鱼体育 - SiteAPP站点移动版 | 最新体育新闻+比分提醒功能",
+ "news_date": "2026-06-13",
+ "published": "2026-06-13 02:17:37",
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-20",
+ "fetched": "2026-06-20_1556",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "æ²³åçç³å®¶åºå¸é¿å®åºå»ºè®¾åå¤§è¡48å·é£å°å®é½018å¹¢åä¸åå¬æ¥¼åååº407å®¤ 17302665969 corrective@sina.com\n\nleyu乐鱼体育：SiteAPP站点移动版，最新体育新闻+智能比分提醒功能，像手机优化的体育站点，随时随地唤醒你对竞技的全部热情。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

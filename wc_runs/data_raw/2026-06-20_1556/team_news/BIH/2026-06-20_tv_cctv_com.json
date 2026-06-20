@@ -1,0 +1,16 @@
+{
+ "team": "BIH",
+ "source": "tv.cctv.com",
+ "url": "https://tv.cctv.com/2026/04/01/VIDE4BbiaFgw8zIPiIR5jGSm260401.shtml",
+ "title": "[国际足球]不敌波黑 意大利连续三届无缘世界杯决赛圈",
+ "news_date": "2026-06-20",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-20",
+ "fetched": "2026-06-20_1556",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "北京时间4月1日，世界杯预选赛欧洲区附加赛落幕，意大利不敌波黑，连续三届无缘世界杯决赛圈。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

@@ -1,0 +1,351 @@
+{
+ "match_id": "4697703",
+ "date": "2026-06-19",
+ "comp": "世界杯·D组",
+ "ha_home": "中",
+ "home": "TUR",
+ "away": "PAR",
+ "score": "0-1",
+ "venue": "Levi's Stadium (Santa Clara)",
+ "attendance": 68827,
+ "goals": [
+  {
+   "min": 2,
+   "side": "away",
+   "player": "Matias Galarza Fonda",
+   "sub": null
+  }
+ ],
+ "cards": [
+  {
+   "min": 4,
+   "side": "away",
+   "player": "Matias Galarza Fonda",
+   "type": "黄牌"
+  },
+  {
+   "min": 45,
+   "side": "away",
+   "player": "Miguel Almiron",
+   "type": "红牌"
+  },
+  {
+   "min": 63,
+   "side": "home",
+   "player": "Vincenzo Montella",
+   "type": "黄牌"
+  },
+  {
+   "min": 71,
+   "side": "home",
+   "player": "Eren  Elmalı",
+   "type": "黄牌"
+  }
+ ],
+ "stats": {
+  "射门": [
+   "32",
+   "7"
+  ],
+  "射正": [
+   "5",
+   "2"
+  ],
+  "禁区内射门": [
+   "15",
+   "3"
+  ],
+  "扑救": [
+   "12",
+   "2"
+  ],
+  "角球": [
+   "12",
+   "0"
+  ],
+  "越位": [
+   "2",
+   "3"
+  ],
+  "控球%": [
+   "78%",
+   "22%"
+  ],
+  "传中": [
+   "161",
+   "80"
+  ],
+  "传球": [
+   "559",
+   "95"
+  ],
+  "xG预期进球": [
+   "2.03",
+   "0.19"
+  ],
+  "xGOT/大机会": [
+   "0.59",
+   "0.24"
+  ]
+ },
+ "lineups": {
+  "home": [
+   {
+    "no": 23,
+    "name": "Uğurcan Çakır"
+   },
+   {
+    "no": 20,
+    "name": "Ferdi Kadioglu"
+   },
+   {
+    "no": 14,
+    "name": "Abdulkerim Bardakci"
+   },
+   {
+    "no": 3,
+    "name": "Merih Demiral"
+   },
+   {
+    "no": 18,
+    "name": "Mert Muldur"
+   },
+   {
+    "no": 10,
+    "name": "Hakan Calhanoglu"
+   },
+   {
+    "no": 16,
+    "name": "İsmail Yüksek"
+   },
+   {
+    "no": 11,
+    "name": "Kenan Yıldız"
+   },
+   {
+    "no": 8,
+    "name": "Arda Güler"
+   },
+   {
+    "no": 19,
+    "name": "Yunus Akgün"
+   },
+   {
+    "no": 7,
+    "name": "Kerem Aktürkoğlu"
+   },
+   {
+    "no": 13,
+    "name": "Eren  Elmalı"
+   },
+   {
+    "no": 9,
+    "name": "Deniz Gul"
+   },
+   {
+    "no": 6,
+    "name": "Orkun Kökçü"
+   },
+   {
+    "no": 26,
+    "name": "Can Uzun"
+   },
+   {
+    "no": 21,
+    "name": "Baris Yilmaz"
+   },
+   {
+    "no": 25,
+    "name": "Samet Akaydin"
+   },
+   {
+    "no": 24,
+    "name": "Oğuz Aydin"
+   },
+   {
+    "no": 22,
+    "name": "Kaan Ayhan"
+   },
+   {
+    "no": 12,
+    "name": "Altay Bayindir"
+   },
+   {
+    "no": 1,
+    "name": "Mert Günok"
+   },
+   {
+    "no": 15,
+    "name": "Ozan Kabak"
+   },
+   {
+    "no": 17,
+    "name": "Irfan Kahveci"
+   },
+   {
+    "no": 4,
+    "name": "Çağlar Söyüncü"
+   },
+   {
+    "no": 2,
+    "name": "Zeki Celik"
+   },
+   {
+    "no": 5,
+    "name": "Salih Özcan"
+   }
+  ],
+  "away": [
+   {
+    "no": 12,
+    "name": "Orlando Gill"
+   },
+   {
+    "no": 6,
+    "name": "Junior Alonso"
+   },
+   {
+    "no": 3,
+    "name": "Omar Alderete"
+   },
+   {
+    "no": 15,
+    "name": "Gustavo Gomez"
+   },
+   {
+    "no": 4,
+    "name": "Juan Caceres"
+   },
+   {
+    "no": 23,
+    "name": "Matias Galarza Fonda"
+   },
+   {
+    "no": 8,
+    "name": "Diego Gomez"
+   },
+   {
+    "no": 14,
+    "name": "Andres Cubas"
+   },
+   {
+    "no": 10,
+    "name": "Miguel Almiron"
+   },
+   {
+    "no": 19,
+    "name": "Julio Enciso"
+   },
+   {
+    "no": 25,
+    "name": "Isidro Pitta"
+   },
+   {
+    "no": 16,
+    "name": "Damian Bobadilla"
+   },
+   {
+    "no": 13,
+    "name": "Jose Canale"
+   },
+   {
+    "no": 26,
+    "name": "Alexandro Maidana"
+   },
+   {
+    "no": 2,
+    "name": "Gustavo Velazquez"
+   },
+   {
+    "no": 21,
+    "name": "Gabriel Avalos"
+   },
+   {
+    "no": 18,
+    "name": "Alex Arce"
+   },
+   {
+    "no": 5,
+    "name": "Fabian Balbuena"
+   },
+   {
+    "no": 24,
+    "name": "Gustavo Caballero"
+   },
+   {
+    "no": 1,
+    "name": "Roberto Fernandez"
+   },
+   {
+    "no": 11,
+    "name": "Mauricio"
+   },
+   {
+    "no": 20,
+    "name": "Braian Ojeda"
+   },
+   {
+    "no": 22,
+    "name": "Gaston Olveira"
+   },
+   {
+    "no": 17,
+    "name": "Alejandro Romero"
+   },
+   {
+    "no": 9,
+    "name": "Antonio Sanabria"
+   },
+   {
+    "no": 7,
+    "name": "Ramon Sosa"
+   }
+  ]
+ },
+ "missing": [],
+ "events": [
+  {
+   "min": 2,
+   "side": "away",
+   "type": "进球",
+   "sub": null,
+   "player": "Matias Galarza Fonda"
+  },
+  {
+   "min": 4,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Matias Galarza Fonda"
+  },
+  {
+   "min": 45,
+   "side": "away",
+   "type": "红牌",
+   "sub": null,
+   "player": "Miguel Almiron"
+  },
+  {
+   "min": 63,
+   "side": "home",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Vincenzo Montella"
+  },
+  {
+   "min": 71,
+   "side": "home",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Eren  Elmalı"
+  }
+ ],
+ "injuries": [],
+ "suspensions": [],
+ "ratings": {},
+ "quotes": [],
+ "narrative": "",
+ "prediction_note": "",
+ "_note": "macheta/Sofascore 权威硬数据；injuries/suspensions/ratings/quotes/narrative/prediction_note 待 agent WebSearch 补。",
+ "ht": "0-1"
+}

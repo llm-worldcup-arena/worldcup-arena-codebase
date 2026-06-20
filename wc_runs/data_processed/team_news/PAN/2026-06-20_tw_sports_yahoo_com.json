@@ -1,0 +1,16 @@
+{
+ "team": "PAN",
+ "source": "tw.sports.yahoo.com",
+ "url": "https://tw.sports.yahoo.com/news/wbc-%E5%B7%B4%E6%8B%BF%E9%A6%AC%E8%BC%B8%E7%90%83%E6%B7%98%E6%B1%B0-%E7%90%83%E5%93%A1%E8%88%87%E7%B8%BD%E6%95%99%E7%B7%B4%E4%BC%91%E6%81%AF%E5%8D%80%E7%88%86%E7%99%BC%E8%A1%9D%E7%AA%81-234816924.html",
+ "title": null,
+ "news_date": "2026-06-20",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-20",
+ "fetched": "2026-06-20_1556",
+ "method": "fail",
+ "status": "blocked",
+ "original_text": "",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

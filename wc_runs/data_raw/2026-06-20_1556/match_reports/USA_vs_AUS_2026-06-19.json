@@ -1,0 +1,406 @@
+{
+ "match_id": "4627857",
+ "date": "2026-06-19",
+ "comp": "世界杯·D组",
+ "ha_home": "主",
+ "home": "USA",
+ "away": "AUS",
+ "score": "2-0",
+ "venue": "Lumen Field (Seattle)",
+ "attendance": 66925,
+ "goals": [
+  {
+   "min": 11,
+   "side": "home",
+   "player": "Cameron Burgess",
+   "sub": "乌龙"
+  },
+  {
+   "min": 43,
+   "side": "home",
+   "player": "Alex Freeman",
+   "sub": null
+  }
+ ],
+ "cards": [
+  {
+   "min": 16,
+   "side": "away",
+   "player": "Jordan Bos",
+   "type": "黄牌"
+  },
+  {
+   "min": 32,
+   "side": "away",
+   "player": "Alessandro Circati",
+   "type": "黄牌"
+  },
+  {
+   "min": 56,
+   "side": "home",
+   "player": "Antonee Robinson",
+   "type": "黄牌"
+  },
+  {
+   "min": 88,
+   "side": "away",
+   "player": "Harry Souttar",
+   "type": "黄牌"
+  },
+  {
+   "min": 89,
+   "side": "home",
+   "player": "Folarin Balogun",
+   "type": "黄牌"
+  },
+  {
+   "min": 89,
+   "side": "away",
+   "player": "Jacob Italiano",
+   "type": "黄牌"
+  },
+  {
+   "min": 90,
+   "side": "home",
+   "player": "Chris Richards",
+   "type": "黄牌"
+  }
+ ],
+ "stats": {
+  "射门": [
+   "10",
+   "5"
+  ],
+  "射正": [
+   "2",
+   "2"
+  ],
+  "禁区内射门": [
+   "2",
+   "3"
+  ],
+  "扑救": [
+   "6",
+   "0"
+  ],
+  "角球": [
+   "7",
+   "4"
+  ],
+  "越位": [
+   "1",
+   "0"
+  ],
+  "控球%": [
+   "62%",
+   "38%"
+  ],
+  "传中": [
+   "113",
+   "79"
+  ],
+  "传球": [
+   "444",
+   "219"
+  ],
+  "xG预期进球": [
+   "1.13",
+   "0.39"
+  ],
+  "xGOT/大机会": [
+   "1.31",
+   "0.09"
+  ]
+ },
+ "lineups": {
+  "home": [
+   {
+    "no": 24,
+    "name": "Matt Freese"
+   },
+   {
+    "no": 13,
+    "name": "Tim Ream"
+   },
+   {
+    "no": 3,
+    "name": "Chris Richards"
+   },
+   {
+    "no": 16,
+    "name": "Alex Freeman"
+   },
+   {
+    "no": 5,
+    "name": "Antonee Robinson"
+   },
+   {
+    "no": 17,
+    "name": "Malik Tillman"
+   },
+   {
+    "no": 4,
+    "name": "Tyler Adams"
+   },
+   {
+    "no": 8,
+    "name": "Weston McKennie"
+   },
+   {
+    "no": 2,
+    "name": "Sergino Dest"
+   },
+   {
+    "no": 9,
+    "name": "Ricardo Pepi"
+   },
+   {
+    "no": 20,
+    "name": "Folarin Balogun"
+   },
+   {
+    "no": 14,
+    "name": "Sebastian Berhalter"
+   },
+   {
+    "no": 7,
+    "name": "Giovanni Reyna"
+   },
+   {
+    "no": 23,
+    "name": "Joseph Scally"
+   },
+   {
+    "no": 6,
+    "name": "Auston Trusty"
+   },
+   {
+    "no": 19,
+    "name": "Haji Wright"
+   },
+   {
+    "no": 11,
+    "name": "Brenden Aaronson"
+   },
+   {
+    "no": 18,
+    "name": "Max Arfsten"
+   },
+   {
+    "no": 25,
+    "name": "Christopher Brady"
+   },
+   {
+    "no": 22,
+    "name": "Mark McKenzie"
+   },
+   {
+    "no": 12,
+    "name": "Miles Robinson"
+   },
+   {
+    "no": 15,
+    "name": "Cristian Roldan"
+   },
+   {
+    "no": 1,
+    "name": "Matt Turner"
+   },
+   {
+    "no": 21,
+    "name": "Timothy Weah"
+   },
+   {
+    "no": 26,
+    "name": "Alex  Zendejas"
+   }
+  ],
+  "away": [
+   {
+    "no": 18,
+    "name": "Patrick Beach"
+   },
+   {
+    "no": 21,
+    "name": "Cameron Burgess"
+   },
+   {
+    "no": 19,
+    "name": "Harry Souttar"
+   },
+   {
+    "no": 3,
+    "name": "Alessandro Circati"
+   },
+   {
+    "no": 5,
+    "name": "Jordan Bos"
+   },
+   {
+    "no": 4,
+    "name": "Jacob Italiano"
+   },
+   {
+    "no": 23,
+    "name": "Nishan Velupillay"
+   },
+   {
+    "no": 24,
+    "name": "Paul Okon-Engstler"
+   },
+   {
+    "no": 13,
+    "name": "Aiden O'Neill"
+   },
+   {
+    "no": 7,
+    "name": "Mathew Leckie"
+   },
+   {
+    "no": 9,
+    "name": "Mohamed Toure"
+   },
+   {
+    "no": 6,
+    "name": "Jason Geria"
+   },
+   {
+    "no": 17,
+    "name": "Nestory Irankunda"
+   },
+   {
+    "no": 22,
+    "name": "Jackson Irvine"
+   },
+   {
+    "no": 8,
+    "name": "Connor Metcalfe"
+   },
+   {
+    "no": 20,
+    "name": "Cristian Volpato"
+   },
+   {
+    "no": 2,
+    "name": "Milos Degenek"
+   },
+   {
+    "no": 14,
+    "name": "Cammy Devlin"
+   },
+   {
+    "no": 16,
+    "name": "Aziz Behich"
+   },
+   {
+    "no": 25,
+    "name": "Lucas Herrington"
+   },
+   {
+    "no": 10,
+    "name": "Ajdin Hrustic"
+   },
+   {
+    "no": 12,
+    "name": "Paul Izzo"
+   },
+   {
+    "no": 11,
+    "name": "Awer Mabil"
+   },
+   {
+    "no": 1,
+    "name": "Mathew Ryan"
+   },
+   {
+    "no": 15,
+    "name": "Kai Trewin"
+   },
+   {
+    "no": 26,
+    "name": "Tete Yengi"
+   }
+  ]
+ },
+ "missing": [
+  {
+   "side": "home",
+   "no": 10,
+   "name": "Christian Pulisic",
+   "reason": "Muscle injury"
+  }
+ ],
+ "events": [
+  {
+   "min": 11,
+   "side": "home",
+   "type": "进球",
+   "sub": "乌龙",
+   "player": "Cameron Burgess"
+  },
+  {
+   "min": 16,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Jordan Bos"
+  },
+  {
+   "min": 32,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Alessandro Circati"
+  },
+  {
+   "min": 43,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Alex Freeman"
+  },
+  {
+   "min": 56,
+   "side": "home",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Antonee Robinson"
+  },
+  {
+   "min": 88,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Harry Souttar"
+  },
+  {
+   "min": 89,
+   "side": "home",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Folarin Balogun"
+  },
+  {
+   "min": 89,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Jacob Italiano"
+  },
+  {
+   "min": 90,
+   "side": "home",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Chris Richards"
+  }
+ ],
+ "injuries": [],
+ "suspensions": [],
+ "ratings": {},
+ "quotes": [],
+ "narrative": "",
+ "prediction_note": "",
+ "_note": "macheta/Sofascore 权威硬数据；injuries/suspensions/ratings/quotes/narrative/prediction_note 待 agent WebSearch 补。",
+ "ht": "2-0"
+}

@@ -1,0 +1,24 @@
+{
+ "source": "espn.com",
+ "url": "https://www.espn.com/soccer/report/_/gameId/760439",
+ "title": "Switzerland 4-1 Bosnia-Herz (Jun 18, 2026) Game Analysis - ESPN",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-18",
+  "home": "SUI",
+  "away": "BIH",
+  "home_en": "Switzerland",
+  "away_en": "Bosnia and Herzegovina",
+  "home_zh": "瑞士",
+  "away_zh": "波黑",
+  "comp": "小组赛·B组",
+  "match_id": "M26",
+  "slug": "2026-06-18_SUI_vs_BIH"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "INGLEWOOD, Calif. -- Substitute Johan Manzambi scored his first World Cup goal on an outstanding volley in the 74th minute, and Switzerland erupted late for a 4-1 victory over Bosnia-Herzegovina on Thursday to take control of its group.\nRubén Vargas scored in the 84th minute for the Swiss shortly after Tarik Muharemovic was sent off for a dangerous tackle, leaving Bosnia with 10 men. Manzambi scored again in the 90th on a pass from Vargas, and captain Granit Xhaka converted from the penalty spot with the final kick of the game in stoppage time.\nErmin Mahmic scored in the fourth minute of second-half injury time for Bosnia, which still has a legitimate chance of reaching the knockout stage of only its second World Cup after hanging with higher-ranked Switzerland deep into the second half.\nSwitzerland followed up its disappointing 1-1 draw with Qatar last week by largely dominating play against the momentum-laden Dragons, who were unbeaten in their last nine competitive matches.\nBut the Swiss couldn't break through until a moment of brilliance from Manzambi, a 20-year-old Geneva native who plays for German club Freiburg - and then Muharemovic's red card changed the match.\nManzambi scored three minutes after coming on for standout winger Dan Ndoye. Manzambi jumped and connected perfectly on Amar Memic's attempted clearing header, setting off a wild celebration in the nervous Swiss section of SoFi Stadium.\nBosnia was backed by a raucous cheering section with tens of thousands of fans in the crowd of 70,026 celebrating their nation's second World Cup appearance. The Dragons had less possession and fewer chances, yet every good moment was greeted by roars.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

@@ -1,0 +1,24 @@
+{
+ "source": "FIFA官方",
+ "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/czechia-south-africa-highlights-match-report",
+ "title": "South Africa snatch Czechia draw | Report and highlights",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-18",
+  "home": "CZE",
+  "away": "RSA",
+  "home_en": "Czech Republic",
+  "away_en": "South Africa",
+  "home_zh": "捷克",
+  "away_zh": "南非",
+  "comp": "小组赛·A组",
+  "match_id": "M25",
+  "slug": "2026-06-18_CZE_vs_RSA"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Czechia and South Africa drew 1-1 at Atlanta Stadium, with Teboho Mokoena’s spot-kick wiping out Michal Sadilek’s early goal at the FIFA World Cup 2026.\nCzechia 1-1 South AfricaCzechia 1-1 South Africa\nCzechia goals: Sadilek (6) South Africa goals: Teboho Mokoena pen (83)\nTeboho Mokoena’s late penalty cancelled out Michal Sadilek’s early opener as South Africa and Czechia drew at Atlanta Stadium. The result left the sides on one point apiece in Group A of the FIFA World Cup 2026™. Miroslav Koubek called for a “fast start” and his men responded. Adam Hlozek crossed from the right and Alexandr Sojka’s canny, first-time touch released Sadilek, who lashed it past Ronwen Williams. Hugo Broos introduced Relebohile Mofokeng for the second half and, though the 21-year-old duly flickered his genius, a Czechia backline bossed by the impressive Ladislav Krejci appeared set to hold out for victory. That was until Pavel Sulc was penalised for handball, and Mokoena sent Matej Kovar the wrong way from the spot.\nGroup A\nGroup A\nPWDLGFGAGDTCSPtsForm\n1\nMexico\nMEX\n2 0 3 0 3 -5 6\n-\n-\n-\n\n2\nKorea Republic\nKOR\n2 1 0 1 2 0 -3\n-\n-\n-\n\n3\nCzechia\nCZE\n2 0 1 2 3 -1 -1\n-\n-\n-\n\n4\nSouth Africa\nRSA\n2 0 1 3 -2 -12 1\n-\n-\n-\n\nKey statKey stat\nMichal Sadilek scored the fastest goal on this World Cup after five minutes and eight seconds. Felix Nmecha took eight seconds longer to net for Germany against Curaçao.\nMichelob Ultra Superior Player of the MatchMichelob Ultra Superior Player of the Match\nLadislav Krejci (Czechia)\nWhat they said...What they said...\n“We’re disappointed with this result. I think that, if we look at the chances, we were closer to winning, but we made a mistake that cost us. Despite that, we played better in the second half.” Miroslav Koubek, Czechia coach “I'm very proud of my team. This is Bafana – we love good football, we are aggressive, we create chances. Yes, we made mistakes, but I’m very proud of the performance today. Czechia are powerful and very tall. We did very well. It’s a little bit of a pity that it’s only 1-1, but we just have to win the game against Korea Republic, which will be very difficult too. If we play with the same mentality, it will be possible.”",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

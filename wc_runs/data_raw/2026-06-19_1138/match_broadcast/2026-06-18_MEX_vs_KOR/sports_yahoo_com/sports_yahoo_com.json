@@ -1,0 +1,24 @@
+{
+ "source": "sports.yahoo.com",
+ "url": "https://sports.yahoo.com/soccer/fifa-world-cup/south-korea-mexico-13587192/",
+ "title": "Mexico 1 - 0 South Korea: Final score, results, recap, box score, stats - Yahoo Sports",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-18",
+  "home": "MEX",
+  "away": "KOR",
+  "home_en": "Mexico",
+  "away_en": "Korea Republic",
+  "home_zh": "墨西哥",
+  "away_zh": "韩国",
+  "comp": "小组赛·A组",
+  "match_id": "M28",
+  "slug": "2026-06-18_MEX_vs_KOR"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Mexico 1 - 0 South Korea: Final score, results, recap, box score, stats\nSubstitution - In\n21 - Cesar Huerta\nSubstitution - Out\n16 - Julian Quinones\nSubstitution - In\n15 - Israel Reyes\nSubstitution - Out\n25 - Roberto Alvarado\nSubstitution - In\n11 - Santiago Gimenez\nSubstitution - Out\n9 - Raul Jimenez\nSubstitution - In\n9 - Cho Gue-sung\nSubstitution - Out\n8 - Paik Seung-Ho\nSubstitution - In\n25 - Eom Ji-sung\nSubstitution - Out\n15 - Kim Moon-hwan\nSubstitution - In\n20 - Yang Hyun-Jun\nSubstitution - Out\n22 - Seol Young-woo\nSubstitution - In\n18 - Obed Vargas\nSubstitution - Out\n7 - Luis Romo\nSubstitution - In\n17 - Orbelin Pineda\nSubstitution - Out\n26 - Brian Gutierrez\nYellow Card\n8 - Paik Seung-Ho\nSubstitution - In\n11 - Hwang Hee-chan\nSubstitution - Out\n10 - Lee Jae-Sung\nSubstitution - In\n18 - Oh Hyeon-gyu\nSubstitution - Out\n7 - Son Heung-min\nGoal\n7 - Luis Romo",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

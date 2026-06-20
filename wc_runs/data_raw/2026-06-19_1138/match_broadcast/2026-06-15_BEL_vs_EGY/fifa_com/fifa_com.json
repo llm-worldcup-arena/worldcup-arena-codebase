@@ -1,0 +1,24 @@
+{
+ "source": "fifa.com",
+ "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/belgium-egypt-highlights-match-report",
+ "title": "Belgium 1-1 Egypt | Match report and highlights",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-15",
+  "home": "BEL",
+  "away": "EGY",
+  "home_en": "Belgium",
+  "away_en": "Egypt",
+  "home_zh": "比利时",
+  "away_zh": "埃及",
+  "comp": "小组赛·G组",
+  "match_id": "M16",
+  "slug": "2026-06-15_BEL_vs_EGY"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Emam Ashour’s first international goal had Egypt on course for a maiden FIFA World Cup win, only for Romelu Lukaku’s arrival to help Belgium rescue a point.\nBelgium 1-1 Egypt | Group GBelgium 1-1 Egypt | Group G\nBelgium goal: Hany own goal (66) Egypt goal: Ashour (19)\nSeattle flung open the FIFA World Cup 2026™ gates for the first time and for a long spell of this Pacific Northwest clash, Egypt were on the verge of creating history.\nPrior to this Group G opener, the Pharaohs had only ever led a World Cup match for 29 minutes, never tasted victory and only kept a lone clean sheet. They failed to crack the second and third marks but topped the first after a fine opener from Emam Ashour.\nOn the day of his 34th birthday, the goal was scripted by Mohamed Salah and published emphatically by Ashour. The Al Ahly midfielder took one touch to set it up and swept a second through the legs of Thomas Meunier and past a diving Thibaut Courtois to send Egypt to the break with a slender lead.\nThat was the 28-year-old’s first international goal and it took a man who is the second-highest European international goalscorer of all time to rescue a point for Belgium. Exactly twenty seconds after his second-half introduction, Romelu Lukaku strode into the box to meet a Meunier cross, with his presence leading Mohamed Hany to poke it past his keeper Mostafa Shoubir.\nGroup G\nGroup G\nPWDLGFGAGDTCSPtsForm\n1\nNew Zealand\nNZL\n1 0 1 0 2 0 1\n-\n-\n-\n-\n\n2\nIR Iran\nIRN\n1 0 1 0 2 0 -1\n-\n-\n-\n-\n\n3\nBelgium\nBEL\n1 0 1 0 1 0 -2 1\n-\n-\n-\n-\n\n4\nEgypt\nEGY\n1 0 1 0 1 0 -2 1\n-\n-\n-\n-\n\nKey statKey stat\nEgypt had previously only led a World Cup match for 29 minutes. They've now improved on that tally.\nSuperior Player of the MatchSuperior Player of the Match\nEmam Ashour (Egypt)\nLoaded: 0%\n0:00\nProgress: 0%\n0:00\nProgress: 0%\n00:00 / 02:00\n/\nDuration Time 2:00\nRemaining Time -2:00\nFIFA Power Rankings explainedFIFA Power Rankings explained\n\"The opening match of a competition like the World Cup is always a tough one, especially against one of Africa’s top teams like Egypt. The important thing is that we stayed in the game. We managed to equalise thanks to a player who came off the bench, which shows just how important the whole squad is. It was a great game between two very good teams.\" Rudi Garcia, Belgium coach\n\"We got one point at the end but we gave it our all. We know Belgium are a good team with good quality players and the atmosphere was great so we need to thank the fans.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

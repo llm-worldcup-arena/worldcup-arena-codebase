@@ -1,0 +1,16 @@
+{
+ "team": "MEX",
+ "source": "rotowire.com",
+ "url": "https://www.rotowire.com/soccer/injury-report.php?league=LMX",
+ "title": "World Cup Injury Table | RotoWire Soccer",
+ "news_date": "2026-06-20",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-20",
+ "fetched": "2026-06-20_1556",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "The 2026 FIFA World Cup injury report tracks the fitness status of players across all 48 nations competing in the United States, Canada, and Mexico. Check back for real-time updates on doubtful and ruled-out players ahead of each matchday, with coverage spanning the group stage through the final.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

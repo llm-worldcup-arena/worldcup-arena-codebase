@@ -1,0 +1,41 @@
+{
+ "match": {
+  "slug": "2026-06-20_ECU_vs_CUW",
+  "date": "2026-06-20",
+  "home": "ECU",
+  "away": "CUW",
+  "round": "group",
+  "group": "E"
+ },
+ "kickoff": {
+  "美东": "2026-06-20T20:00:00-04:00",
+  "北京": "06-21 08:00"
+ },
+ "venue": {
+  "name": "Arrowhead Stadium",
+  "city": "Kansas City, Missouri",
+  "altitude_m": 266,
+  "roof": "open",
+  "surface": "grass"
+ },
+ "weather": {
+  "开球时段": {
+   "温度C": 29.3,
+   "体感C": 28.7,
+   "降水概率%": 5,
+   "降水mm": 0.0,
+   "风速kmh": 14.8,
+   "湿度%": 41,
+   "天况": "阴"
+  },
+  "source": "open-meteo(免费预报API)",
+  "fetched": "2026-06-20_1556",
+  "_note": "临近开球建议 --refresh 刷新"
+ },
+ "referee": {
+  "name": "Ma Ning (CHN)",
+  "source": "http://law5-theref.blogspot.com/2026/06/2026-fifa-wc-referee-appointments-for.html",
+  "fetched": "2026-06-20_1556"
+ },
+ "_note": "环境=比赛+时间+地点 确定;天气为开球时段;顶棚 retractable/fixed-canopy 时天气影响有限。"
+}

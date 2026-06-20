@@ -1,0 +1,325 @@
+{
+ "match_id": "4627882",
+ "date": "2026-06-19",
+ "comp": "世界杯·C组",
+ "ha_home": "中",
+ "home": "SCO",
+ "away": "MAR",
+ "score": "0-1",
+ "venue": "Gillette Stadium (Foxborough)",
+ "attendance": 64146,
+ "goals": [
+  {
+   "min": 2,
+   "side": "away",
+   "player": "Ismael Saibari",
+   "sub": null
+  }
+ ],
+ "cards": [
+  {
+   "min": 23,
+   "side": "away",
+   "player": "Issa Diop",
+   "type": "黄牌"
+  },
+  {
+   "min": 65,
+   "side": "home",
+   "player": "Andrew Robertson",
+   "type": "黄牌"
+  }
+ ],
+ "stats": {
+  "射门": [
+   "6",
+   "12"
+  ],
+  "射正": [
+   "0",
+   "2"
+  ],
+  "禁区内射门": [
+   "3",
+   "6"
+  ],
+  "扑救": [
+   "3",
+   "4"
+  ],
+  "角球": [
+   "2",
+   "5"
+  ],
+  "越位": [
+   "1",
+   "0"
+  ],
+  "控球%": [
+   "41%",
+   "59%"
+  ],
+  "传中": [
+   "67",
+   "86"
+  ],
+  "传球": [
+   "388",
+   "600"
+  ],
+  "xG预期进球": [
+   "0.43",
+   "0.97"
+  ],
+  "xGOT/大机会": [
+   "0",
+   "0.49"
+  ]
+ },
+ "lineups": {
+  "home": [
+   {
+    "no": 1,
+    "name": "Angus Gunn"
+   },
+   {
+    "no": 3,
+    "name": "Andrew Robertson"
+   },
+   {
+    "no": 13,
+    "name": "Jack Hendry"
+   },
+   {
+    "no": 5,
+    "name": "Grant Hanley"
+   },
+   {
+    "no": 22,
+    "name": "Nathan Patterson"
+   },
+   {
+    "no": 6,
+    "name": "Kieran Tierney"
+   },
+   {
+    "no": 19,
+    "name": "Lewis Ferguson"
+   },
+   {
+    "no": 11,
+    "name": "Ryan Christie"
+   },
+   {
+    "no": 7,
+    "name": "John McGinn"
+   },
+   {
+    "no": 4,
+    "name": "Scott McTominay"
+   },
+   {
+    "no": 10,
+    "name": "Che Adams"
+   },
+   {
+    "no": 9,
+    "name": "Lyndon Dykes"
+   },
+   {
+    "no": 17,
+    "name": "Ben Doak"
+   },
+   {
+    "no": 23,
+    "name": "Kenny Mclean"
+   },
+   {
+    "no": 24,
+    "name": "Anthony Ralston"
+   },
+   {
+    "no": 14,
+    "name": "Ross Stewart"
+   },
+   {
+    "no": 26,
+    "name": "Scott McKenna"
+   },
+   {
+    "no": 25,
+    "name": "Findlay Curtis"
+   },
+   {
+    "no": 8,
+    "name": "Tyler Fletcher"
+   },
+   {
+    "no": 21,
+    "name": "Craig Gordon"
+   },
+   {
+    "no": 2,
+    "name": "Aaron Hickey"
+   },
+   {
+    "no": 18,
+    "name": "George Hirst"
+   },
+   {
+    "no": 16,
+    "name": "Dominic Hyam"
+   },
+   {
+    "no": 12,
+    "name": "Liam Kelly"
+   },
+   {
+    "no": 20,
+    "name": "Lawrence Shankland"
+   },
+   {
+    "no": 15,
+    "name": "John Souttar"
+   }
+  ],
+  "away": [
+   {
+    "no": 1,
+    "name": "Yassine Bounou"
+   },
+   {
+    "no": 3,
+    "name": "Noussair Mazraoui"
+   },
+   {
+    "no": 18,
+    "name": "Chadi Riad"
+   },
+   {
+    "no": 14,
+    "name": "Issa Diop"
+   },
+   {
+    "no": 2,
+    "name": "Achraf Hakimi"
+   },
+   {
+    "no": 24,
+    "name": "Neil El Aynaoui"
+   },
+   {
+    "no": 6,
+    "name": "Ayyoub Bouaddi"
+   },
+   {
+    "no": 23,
+    "name": "Bilel El Khanouss"
+   },
+   {
+    "no": 8,
+    "name": "Azzedine Ounahi"
+   },
+   {
+    "no": 10,
+    "name": "Brahim Diaz"
+   },
+   {
+    "no": 11,
+    "name": "Ismael Saibari"
+   },
+   {
+    "no": 21,
+    "name": "Ayoube Amaimouni-Echghouyab"
+   },
+   {
+    "no": 15,
+    "name": "Samir El Mourabet"
+   },
+   {
+    "no": 9,
+    "name": "Soufiane Rahimi"
+   },
+   {
+    "no": 7,
+    "name": "Chemsdine Talbi"
+   },
+   {
+    "no": 4,
+    "name": "Sofyan Amrabat"
+   },
+   {
+    "no": 19,
+    "name": "Youssef Belammari"
+   },
+   {
+    "no": 20,
+    "name": "Ayoub El Kaabi"
+   },
+   {
+    "no": 13,
+    "name": "Zakaria El Ouahdi"
+   },
+   {
+    "no": 25,
+    "name": "Redouane Halhal"
+   },
+   {
+    "no": 12,
+    "name": "Munir El Kajoui"
+   },
+   {
+    "no": 5,
+    "name": "Marwane Saadane"
+   },
+   {
+    "no": 26,
+    "name": "Anass Salah-Eddine"
+   },
+   {
+    "no": 17,
+    "name": "Amine Sbaï"
+   },
+   {
+    "no": 22,
+    "name": "Ahmed Reda Tagnaouti"
+   },
+   {
+    "no": 16,
+    "name": "Gessime Yassine"
+   }
+  ]
+ },
+ "missing": [],
+ "events": [
+  {
+   "min": 2,
+   "side": "away",
+   "type": "进球",
+   "sub": null,
+   "player": "Ismael Saibari"
+  },
+  {
+   "min": 23,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Issa Diop"
+  },
+  {
+   "min": 65,
+   "side": "home",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Andrew Robertson"
+  }
+ ],
+ "injuries": [],
+ "suspensions": [],
+ "ratings": {},
+ "quotes": [],
+ "narrative": "",
+ "prediction_note": "",
+ "_note": "macheta/Sofascore 权威硬数据；injuries/suspensions/ratings/quotes/narrative/prediction_note 待 agent WebSearch 补。",
+ "ht": "0-1"
+}

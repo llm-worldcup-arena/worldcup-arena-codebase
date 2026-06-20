@@ -1,0 +1,24 @@
+{
+ "source": "fotos.europapress.es",
+ "url": "https://fotos.europapress.es/fotonoticia/f7600350",
+ "title": "Fútbol/Mundial.- Crónica del Arabia Saudí - Uruguay: 1-1 - EUROPAPRESS",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-15",
+  "home": "KSA",
+  "away": "URU",
+  "home_en": "Saudi Arabia",
+  "away_en": "Uruguay",
+  "home_zh": "沙特阿拉伯",
+  "away_zh": "乌拉圭",
+  "comp": "小组赛·H组",
+  "match_id": "M13",
+  "slug": "2026-06-15_KSA_vs_URU"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Fútbol/Mundial.- Crónica del Arabia Saudí - Uruguay: 1-1\nPie de Foto:\nJune 15, 2026, Miami Gardens, Florida, United States: Jayden Adams of South Africa and Maximiliano Araujo of Uruguay during the FIFA World Cup 2026 Group H match between Saudi Arabia and Uruguay at Miami Stadium on June 15th, 2026.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

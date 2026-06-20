@@ -28,9 +28,10 @@ CITY_TZ = {  # 网页 FIX 用的英文城市名 → 相对美东的小时差(当
     # ET(0)
     "Miami": 0, "Atlanta": 0, "New York": 0, "Philadelphia": 0, "Boston": 0, "Toronto": 0,
     "East Rutherford": 0, "Foxborough": 0, "Nashville": 0,
-    # CT(1)
-    "Dallas": 1, "Houston": 1, "Kansas City": 1, "Monterrey": 1, "Mexico City": 1,
-    "Guadalajara": 1, "Arlington": 1,
+    # US 中部 CDT(1)(夏令时 UTC-5)
+    "Dallas": 1, "Houston": 1, "Kansas City": 1, "Arlington": 1,
+    # 墨西哥 CST(2)(2022 起全国废夏令时 UTC-6 = 美东 EDT 再 -2;边境城市除外)
+    "Monterrey": 2, "Mexico City": 2, "Guadalajara": 2, "Zapopan": 2,
     # MT(2)
     "Denver": 2,
     # PT(3)

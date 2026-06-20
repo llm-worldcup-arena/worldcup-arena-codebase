@@ -1,0 +1,24 @@
+{
+ "source": "espn.com",
+ "url": "https://www.espn.com/soccer/report/_/gameId/760445",
+ "title": "Scotland 0-1 Morocco (Jun 19, 2026) Game Analysis - ESPN",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-19",
+  "home": "SCO",
+  "away": "MAR",
+  "home_en": "Scotland",
+  "away_en": "Morocco",
+  "home_zh": "苏格兰",
+  "away_zh": "摩洛哥",
+  "comp": "小组赛·C组",
+  "match_id": "M30",
+  "slug": "2026-06-19_SCO_vs_MAR"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "FOXBOROUGH, Mass. -- Ismael Saibari scored only 72 seconds into the game and Morocco beat Scotland 1-0 at the World Cup on Friday to keep alive their chances of advancing to a second straight knockout round.\nSaibari slipped behind two Scotland defenders and Brahim Díaz dropped the ball over the top to him. Saibari gathered and blasted it into the top left corner of the net, well outside the reach of goalkeeper Angus Gunn.\nMorocco, who reached the semifinals at the last World Cup in Qatar, drew 1-1 with Brazil in its Group C opener. Scotland, who haven't gotten out of the group stage in their previous eight previous World Cup appearances, beat Haiti 1-0 in their first match.\nSaibari also scored Morocco's goal against Brazil.\nMorocco nearly scored another in the 52nd minute when a header by Bilal El Khannouss off Achraf Hakimi's corner kick was battled down by Gunn.\nOnuoha doubts Morocco can repeat World Cup semifinal run\nScotland had a chance in first-half stoppage time when Andy Robertson sent a cross at John McGinn, who couldn't get a foot on it near the back post.\nAs Scotland pressed for an equalizer in the closing minutes, Morocco had a pair of good chances to add to their wide both missed the target.\nIn the 81st minute there was another penalty claim ignored when Scott McTominay was tackled by El Aynaoui inside the box.\nThe Napoli midfielder and substitute Lyndon Dykes caused further problems but Scotland ran out of time -- but not hope.\nIn the 76th minute there was a minute's applause from the Tartan Army in tribute to fan Donny Strathie, 76, who died in Boston on Sunday.\nInformation from PA and The Associated Press was used in this recap.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

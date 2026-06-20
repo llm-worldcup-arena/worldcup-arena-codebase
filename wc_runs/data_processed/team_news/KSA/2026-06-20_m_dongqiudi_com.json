@@ -1,0 +1,16 @@
+{
+ "team": "KSA",
+ "source": "m.dongqiudi.com",
+ "url": "https://m.dongqiudi.com/article/2275481.html",
+ "title": "沙特国家队中场奥泰夫膝盖受伤，将伤缺六周|沙特阿拉伯|利雅得新月|阿卜杜拉-奥泰夫|懂球帝",
+ "news_date": "2026-06-20",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-20",
+ "fetched": "2026-06-20_1556",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "北京时间9月3日，沙特阿拉伯在世界杯亚洲区预选赛12强赛当中3-1战胜越南，奥泰夫在比赛中受伤下场。\n\n10月12日，沙特阿拉伯将在主场对阵中国队。虽然尚有一个月的时间，但六周的伤缺是否会对奥泰夫的竞技状态造成影响，尚未可知。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

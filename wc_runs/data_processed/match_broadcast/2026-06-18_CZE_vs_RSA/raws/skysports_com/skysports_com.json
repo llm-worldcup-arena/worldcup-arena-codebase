@@ -1,0 +1,24 @@
+{
+ "source": "skysports.com",
+ "url": "https://www.skysports.com/football/czech-republic-vs-south-africa/549790",
+ "title": "World Cup 2026: Czech Republic 1-1 South Africa - Teboho Mokoena penalty gifts Bafana Bafana first point against wasteful Czechs",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-18",
+  "home": "CZE",
+  "away": "RSA",
+  "home_en": "Czech Republic",
+  "away_en": "South Africa",
+  "home_zh": "捷克",
+  "away_zh": "南非",
+  "comp": "小组赛·A组",
+  "match_id": "M25",
+  "slug": "2026-06-18_CZE_vs_RSA"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Teboho Mokoena's late penalty gifted South Africa their first point of the World Cup after wasteful Czech Republic failed to make their chances pay in a 1-1 draw in Atlanta. Bafana were desperate to respond after their disheartening opening defeat to Mexico, but they looked sluggish and lacking in creativity for much of the match. However, Pavel Sulc's clear, albeit inadvertent, handball nine minutes from time handed Teboho Mokoena the chance to salvage a point from the penalty spot.   They had trailed since the sixth minute to Michal Sadilek's smart finish from another Czech set piece but could have been ahead even before that, with Patrik Schick miscuing a presentable header with just 50 seconds on the clock. South Africa's best chance prior to their goal, a blocked effort from Thapelo Maseko, came when Matej Kovar spilled a cross with Hugo Broos' side struggling to create chances and failing to test the Czech goalkeeper to that point. They should have been further behind moments after the break when Vladimir Darida was found unmarked in the box but a heavy touch allowed Ime Okon to get back, before Schick nodded a free header straight at Ronwen Williams. But Mokoena's late leveller, and a late flurry of half-chances which followed for South Africa, leaves Group A blown right open with both they and Czech Republic still able to amass four points and finish at least third, which would be highly likely to see them into the last 32. The key moments from Atlanta... 1: MISS! Patrik Schick miscues a free header wide after just 50 seconds. 6: GOAL! Michal Sadilek smartly fires Czech Republic ahead after poor South Africa defending. 45+4: Thapelo Maseko's effort is blocked after Matej Kovar spills a cross. 47: Vladimir Darida's heavy touch denies Czech Republic a second after he is found unmarked. 48: Schick heads a corner straight at Ronwen Williams as another Czech chance comes and goes. 83: GOAL! Teboho Mokoena pulls South Africa level from the spot after Pavel Sulc is penalised for a handball. 88: Kamogelo Sebelebele fires goalwards with Kovar unable to hold at full stretch. Analysis: South Africa must make most of gift to kickstart dire tournament Sky Sports' Ron Walker: For 80 minutes South Africa toiled against a poor Czech Republic side who had lost to the Faroe Islands in qualifying for this tournament and pulled up no trees against South Korea in their opening game. It looked as though Hugo Broos' men were on the verge of an early exit without a single meaningful chance created for the second game in a row, until Pavel Sulc's inadvertent gift of an equaliser. From then, the sluggish, sideways South Africa was gone and there were glimpses that they might be able to salvage their tournament against South Korea in their final group game. Third place is suddenly a realistic opportunity - potentially even second with another slice of good fortune elsewhere. There is undoubtedly more to come from this South Africa side. Not just from how they ended in Atlanta, but from finishing above Nigeria in their qualifying group. But it will take a lot more than they have shown for the majority of this tournament so far to make it count. Broos 'very proud' of reaction to Mexico defeat South Africa head coach Hugo Broos to BBC Sport : \"I am very proud of my team when you see the reaction after the Mexico game. We play good football. We are aggressive, we had chances, but you need a bit of luck. \"We made one mistake, everyone knows that [Vladimir Coufal] throws very far. It's a pity but I'm very proud. The Czech Republic team is very powerful, and very tall. We did very well with the second balls, it was a fantastic performance.\"",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

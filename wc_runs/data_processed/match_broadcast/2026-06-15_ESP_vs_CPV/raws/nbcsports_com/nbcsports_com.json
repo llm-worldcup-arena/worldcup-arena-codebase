@@ -1,0 +1,24 @@
+{
+ "source": "nbcsports.com",
+ "url": "https://www.nbcsports.com/soccer/news/world-cup-debutants-cape-verde-hold-spain-in-huge-shock",
+ "title": "World Cup debutants Cape Verde hold Spain in huge shock",
+ "published": "2026-06-16T18:54:00",
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-15",
+  "home": "ESP",
+  "away": "CPV",
+  "home_en": "Spain",
+  "away_en": "Cape Verde",
+  "home_zh": "西班牙",
+  "away_zh": "佛得角",
+  "comp": "小组赛·H组",
+  "match_id": "M14",
+  "slug": "2026-06-15_ESP_vs_CPV"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "World Cup debutants Cape Verde shocked reigning European champions Spain in Atlanta on Monday, as the minnows held one of the favorites to win the 2026 men’s World Cup to a 0-0 draw.\n\nEveryone is talking about the Blue Sharks now, as they held No. 2 ranked Spain, and are now ready to attack their final two games in Group H against Saudi Arabia and Uruguay with renewed vigor and belief.\n\nThe final whistle in Atlanta sparked wild, emotional celebrations from everyone connected with Cape Verde, while Spain looked stunned.\n\nCape Verde, a nation of 10 volcanic islands off the coast off Africa with a population of just over 500,000 made a name for themselves with the best result, by far, in their history.\n\n\n\nThis scoreline was one of the biggest shocks in recent World Cup history as Cape Verde, ranked number 67th in the world, made the most of their debut in the spotlight.\n\nTiny Cape Verde are now making headlines around the world, as previously they competed on the international stage as part of Portugal before they gained their independence in 1975.\n\nCape Verde’s defense, led by veteran 40-year-old goalkeeper Vozinha who has seen his following on social media surge since the final whistle, held firm and got the luck they needed with Spain having an off day in attack.\n\n\n\nMarc Cucurella and Mikel Oyarzabal went close late on as Spain dominated play but they couldn’t find a way through as Luis de la Fuente brought Lamine Yamal off the bench late on but it was too little too late.\n\nSpain went closest in the first half after Cucurella nodded down for Ferran Torres but he hit the crossbar from close range and Vozinha made a superb stop to deny Oyarzabal on the rebound.\n\n\n\nCape Verde had a few chances from set pieces and on the counter but they worked so hard to close down gaps for Spain to operate in and were so well-organized defensively.\n\nThat solid defensive formula was the key to them qualifying for this World Cup, as head coach Bubista has masterminded one of the great World Cup surprises.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

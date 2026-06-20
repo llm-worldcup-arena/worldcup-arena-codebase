@@ -1,0 +1,16 @@
+{
+ "team": "CPV",
+ "source": "sportsmole.co.uk",
+ "url": "https://www.sportsmole.co.uk/football/spain/world-cup-2026/team-news/spain-vs-cape-verde-injury-suspension-list-predicted-xis_599108.html",
+ "title": "Team News: Spain vs. Cape Verde injury, suspension list, predicted XIs - Sports Mole",
+ "news_date": "2026-06-14",
+ "published": "2026-06-14T16:00:00Z",
+ "tier": "2",
+ "lang": "es",
+ "asof": "2026-06-20",
+ "fetched": "2026-06-20_1556",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "Spain and Cape Verde will meet in their opening match of the 2026 World Cup.\n\nLa Roja are regarded as one of the favourites to win this summer's competition, while Cape Verde are playing in the finals of a World Cup for the first time, and here Sports Mole rounds up the team news for the game.\n\nGet FREE daily news and in-depth previews for games from the biggest leagues and competitions in world football — straight to your inbox.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

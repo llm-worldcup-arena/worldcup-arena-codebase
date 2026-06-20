@@ -1,0 +1,24 @@
+{
+ "source": "fifa.com",
+ "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/mexico-korea-republic-highlights-match-report",
+ "title": "Mexico 1-0 Korea Republic | Match report and highlights",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-18",
+  "home": "MEX",
+  "away": "KOR",
+  "home_en": "Mexico",
+  "away_en": "Korea Republic",
+  "home_zh": "墨西哥",
+  "away_zh": "韩国",
+  "comp": "小组赛·A组",
+  "match_id": "M28",
+  "slug": "2026-06-18_MEX_vs_KOR"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "The co-hosts became the first team through to the Round of 32 following a thrilling victory over Korea Republic to top Group A.\nMexico 1-0 Korea RepublicMexico 1-0 Korea Republic\nMexico goal: Romo (50)\nLuis Romo was the hero for co-hosts Mexico as they defeated Korea Republic to secure the first spot in the Round of 32 at the FIFA World Cup 2026™.\nThere was a flyover above a fervent Guadalajara Stadium ahead of this contest, but the game itself took a while to take off and chances were at a premium in the opening period.\nJesus Gallardo signalled Mexico’s intent to take charge of proceedings when he sent a low shot into the side-netting four minutes into the second half though, and the co-hosts were celebrating one minute later when Romo was on hand to prod into the unguarded net after a mix up between Kim Seunggyu and Lee Gihyuk.\nKim went some way to atoning for his part in the goal by staying big to deny Raul Jimenez from close range with a sensational stop in the 75th minute, and his opposite number Raul Rangel then pulled off a scarcely-believable double save from Cho Guesung and Yang Hyunjun with three minutes remaining to wrap up the win for Mexico.\nWith first place in the bag, Javier Aguirre's side will now meet a third-placed team from one of Group C, E, F, H or I in the Round of 32 in Mexico City on 30 June.\nKey statKey stat\nWith this victory, Mexico have now won three successive World Cup matches for the first time.\nMichelob Ultra Superior Player of the MatchMichelob Ultra Superior Player of the Match\nLuis Romo (Mexico)\nWhat they said...What they said...\n\"It was difficult. We know them very well. They put us under a lot of pressure. They didn't give us any space, and neither did we. In the end, it felt like one mistake was always going to make the difference one way or the other. It wasn't a great match, and the opposition didn't allow us to do much.” Javier Aguirre, Mexico coach\n\"We played just as we planned. The way we conceded was disappointing. We will give everything in the last game of the group stage. I asked the players to remain calm and play our game. It wasn’t bad. We kept our composure throughout the game. We will focus on preparing for the next game now.”",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

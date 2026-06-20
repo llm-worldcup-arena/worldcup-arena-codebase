@@ -1,0 +1,24 @@
+{
+ "source": "en.as.com",
+ "url": "https://en.as.com/resultados/futbol/mundial/2026/directo/grupos_c_2_6908832c421f022/",
+ "title": "Brazil 3-0 Haiti summary: score, stats and highlights | World Cup 2026 Group C",
+ "published": "2026-06-19T20:20:37-04:00",
+ "tier": "2",
+ "lang": "es",
+ "match": {
+  "date": "2026-06-19",
+  "home": "BRA",
+  "away": "HAI",
+  "home_en": "Brazil",
+  "away_en": "Haiti",
+  "home_zh": "巴西",
+  "away_zh": "海地",
+  "comp": "小组赛·C组",
+  "match_id": "M29",
+  "slug": "2026-06-19_BRA_vs_HAI"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "A flurry of first-half goals was enough to earn Brazil the three points against Haiti, putting them top of Group C on goal difference.Brazil drew with Morocco in their World Cup opener last week but found form during a first-half blitz against Haiti. Carlo Ancelotti named Matheus Cunha in the starting XI and the Manchester United man repaid that face with two goals, the second of which was a brilliant left-footed shot rifled into the top corner. Vinicius Junior added a third shortly before the break and Brazil saw out the game with minimal fuss in the second half. The only negative for Ancelotti was an injury to Raphinha, who was taken off after pulling up in the first half. The full extent of the injury was not immediately clear but his withdrawal may have been a precaution with the game already won.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

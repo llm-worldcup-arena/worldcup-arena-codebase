@@ -1,0 +1,16 @@
+{
+ "team": "HAI",
+ "source": "bbc.com",
+ "url": "https://www.bbc.com/sport/football/articles/c242rl3yjp8o",
+ "title": "World Cup 2026: Haiti squad includes Wilson Isidor and Jean-Ricner Bellegarde",
+ "news_date": "2026-06-20",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-20",
+ "fetched": "2026-06-20_1556",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "Sunderland striker Wilson Isidor and Wolverhampton Wanderers midfielder Jean-Ricner Bellegarde are among the 26 players named in Haiti's squad for the 2026 World Cup, where they face Scotland in their opening game.\n\nThe Caribbean side have reached the men's World Cup for only the second time in their history after also qualifying for the 1974 tournament in West Germany.\n\nThey topped their Concacaf qualifying group largely thanks to the goals of the nation's all-time top scorer Duckens Nazon, who has 44 goals in 76 appearances - and despite having to play their home matches at neutral venues because of the country's security crisis.\n\nHowever, a late squad change had to be made before their opening game due to Leverton Pierre picking up a muscle injury. Garven Metusala, who has been capped 16 times for his national team, has replaced Pierre.\n\nHaiti open their Group C campaign against Scotland on 13 June (kick-off 02:00 BST 14 June) then face five-time World champions Brazil and 2022 semi-finalists Morocco.\n\nGoalkeepers: Johnny Placide (Bastia), Alexandre Pierre (Sochaux), Josue Duverger (FC Cosmos Koblenz).\n\nDefenders: Carlens Arcus (Angers), Wilguens Pauguain (Zulte Waregem), Duke Lacroix (Colorado Springs), Martin Expérience (Nancy), Jean-Kevin Duverne (KAA Gent), Ricardo Ade (LDU Quito), Hannes Delcroix (Lugano), Keeto Thermoncy (Young Boys Berne), Garven Metusala (Colorado Springs).\n\nMidfielders: Carl-Fred Sainthe (El Paso Locomotive), Jean-Jacques Danley (Philadelphia Union), Jean-Ricner Bellegarde (Wolves), Pierre Woodenski (Violette), Dominique Simon (Tatran Presov).\n\nForwards: Louicius Deedson (Dallas), Ruben Providence (Almere City), Josue Casimir (Auxerre), Derrick Etienne (Toronto), Wilson Isidor (Sunderland), Duckens Nazon (Esteghlal), Frantzdy Pierrot (Caykur Rizespor), Yassin Fortune (Vizela), Lenny Joseph (Ferencvaros).",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

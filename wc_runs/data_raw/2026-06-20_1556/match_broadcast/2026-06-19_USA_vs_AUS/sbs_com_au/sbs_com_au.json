@@ -1,0 +1,24 @@
+{
+ "source": "sbs.com.au",
+ "url": "https://www.sbs.com.au/news/article/usa-australia-football-fifa-world-cup/b1bch4krj",
+ "title": "Watch: Own goal and VAR call deliver USA 2-0 win over Socceroos",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-19",
+  "home": "USA",
+  "away": "AUS",
+  "home_en": "United States",
+  "away_en": "Australia",
+  "home_zh": "美国",
+  "away_zh": "澳大利亚",
+  "comp": "小组赛·D组",
+  "match_id": "M32",
+  "slug": "2026-06-19_USA_vs_AUS"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "The Socceroos defence that held so well against Türkiye had cracks in it, as the visitors conceded both goals in the first half. The second half was a more promising display from the Socceroos with young star Nestory Irankunde coming on and helping to lift the tempo, but not enough for a goal. Socceroos coach Tony Popovic once again chose the element of surprise for his opening lineup and some Socceroos supporters were left scratching their heads with the two goal scorers against T&#xFC;rkiye, Nestory Irankunda and Conor Metcalfe, starting on the bench. Mathew Leckie, known for his heroic goal against Denmark at the 2022 World Cup, and Nishan Velupillay started in their place. The USA opened the scoring after an own goal by Australia in the 10th minute. Folarin Balogun ran down the left flank, and makes a cross into the six yard box where Australian defender Cam Burgess knocked it into the back of the net. It was unlucky for the Socceroos and a perfect start for the USA. Jordy Bos received a yellow card after a block on Weston McKennie that pushed his face early in the second half and Alessandro Circati picked up another in the 31st minute. In the 44th minute the USA went 2-0 up after a goal that Australian fans were hoping wouldn&apos;t stand. They won a free kick on the edge of the penalty area. It was passed to the centre, with the shot coming from Sergi&#xF1;o Dest. The initial shot deflected by an Australian defender, going high, before being headed in by Alex Freeman. It was called offside, but after a VAR check, given to the USA. Both goals were unlucky &#x2014; an own goal and offside goal overturned by VAR &#x2014; but the USA created far more chances. At half time, Harry Kewell, part of SBS&apos;s presenter line-up, said the Socceroos have been &quot;not good enough&quot;. &quot;It feels like we&apos;ve frozen on the big stage,&quot; he says. &quot;We look panicky on the ball. &quot;We&apos;re just getting the ball and kicking it long where Toure has had no chance.&quot; Popovic didn&apos;t waste any time in the break substituting Jason Geria, Conor Metcalfe and Nestory Irankunda on as Nishan Velupillay, Cam Burgess and Mo Tour&#xE9; went off. But former Socceroo and broadcasting legend Craig Foster told SBS the decision not to start Irankunda had a high cost. &quot;I&apos;m not sure why, Popa kept Irankunda on the bench, given that he was so brilliant in the first game. And the importance of the game against Turkiye was we went one-nil up instead of one-nil down. &quot;That&apos;s critical when you have a defensive style of play. So, you know, I think that decision has probably cost him. He&apos;s come on now in the second half to try and chase the game again. That&apos;s the most difficult position to be in.&quot; With the USA now likely topping group D, Australia could remain in second or slip to third, depending on the result between T&#xFC;rkiye and Paraguay. The final standings will then be decided in the final group matches. Their win against T&#xFC;rkiye has made it more likely that they will still get out of the group stage, with one game left to play. The Group D winner will face the best third-placed team from one of five groups (Group B, E, F, I or J). They will also remain on the US west coast, with their Round of 32 match in Santa Clara, near San Francisco. The runners-up will play the second-placed team from Group G (Belgium, Iran, New Zealand or Egypt) in Arlington, Texas. <b><i>SBS</i></b> <b><i>SBS On Demand</i></b> <b><i>download our app</i></b> <b><i>subscribe to our newsletter</i></b>",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

@@ -1,0 +1,41 @@
+{
+ "match": {
+  "slug": "2026-06-20_NED_vs_SWE",
+  "date": "2026-06-20",
+  "home": "NED",
+  "away": "SWE",
+  "round": "group",
+  "group": "F"
+ },
+ "kickoff": {
+  "美东": "2026-06-20T13:00:00-04:00",
+  "北京": "06-21 01:00"
+ },
+ "venue": {
+  "name": "NRG Stadium",
+  "city": "Houston",
+  "altitude_m": 15,
+  "roof": "retractable",
+  "surface": "grass"
+ },
+ "weather": {
+  "开球时段": {
+   "温度C": 26.2,
+   "体感C": 29.9,
+   "降水概率%": 15,
+   "降水mm": 0.0,
+   "风速kmh": 5.5,
+   "湿度%": 74,
+   "天况": "阴"
+  },
+  "source": "open-meteo(免费预报API)",
+  "fetched": "2026-06-20_1556",
+  "_note": "临近开球建议 --refresh 刷新"
+ },
+ "referee": {
+  "name": "Michael Oliver (ENG)",
+  "source": "http://law5-theref.blogspot.com/2026/06/2026-fifa-wc-referee-appointments-for.html",
+  "fetched": "2026-06-20_1556"
+ },
+ "_note": "环境=比赛+时间+地点 确定;天气为开球时段;顶棚 retractable/fixed-canopy 时天气影响有限。"
+}

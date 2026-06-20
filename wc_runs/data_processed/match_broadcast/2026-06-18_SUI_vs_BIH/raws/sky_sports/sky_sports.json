@@ -1,0 +1,24 @@
+{
+ "source": "Sky Sports",
+ "url": "https://www.skysports.com/football/switzerland-vs-bosnia-and-herzegovina/549791",
+ "title": "World Cup 2026: Switzerland 4-1 Bosnia-Herzegovina - Johan Manzambi scores twice as Swiss take giant leap towards knockout stages",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-18",
+  "home": "SUI",
+  "away": "BIH",
+  "home_en": "Switzerland",
+  "away_en": "Bosnia and Herzegovina",
+  "home_zh": "瑞士",
+  "away_zh": "波黑",
+  "comp": "小组赛·B组",
+  "match_id": "M26",
+  "slug": "2026-06-18_SUI_vs_BIH"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Switzerland took a giant leap towards qualifying for the World Cup knockout stages with an emphatic 4-1 win over Bosnia-Herzegovina in Los Angeles. What had been an otherwise uneventful encounter for the first 73 minutes came to life when 20-year-old Johan Manzambi crashed in a volley just 166 seconds after his introduction, before Tarik Muharemovic was shown a straight red for catching Breel Embolo on the heel as the last man. Embolo then teed up another sub, Ruben Vargas, to hit a first-time shot past Nikola Vasilj to make it 2-0 and it was three with 90 minutes on the clock when Freiburg midfielder Manzambi coolly side-footed in his second.   There was still more action to come, though. On just his third appearance for his country, Ermin Mahmic reduced the deficit when he beat Switzerland goalkeeper Gregor Kobel with the sweetest of volleys from just inside the box. But the three-goal cushion was restored with one of the final kicks of the game when Swiss captain Granit Xhaka rolled in from the spot after Djibril Sow had been brought down by Amar Memic. The key moments from LA... 56: CLOSE ! Dan Ndoye's brilliant bicycle kick is tipped over, but he's later flagged offside. 69: SAVE ! Amar Dedic's powerful strike from 25 yards is pushed away by Gregor Kobel. 74: GOAL ! Johan Manzambi crashes in a volley just 166 seconds after coming on to put Switzerland in front. 80: RED CARD ! Bosnia-Herzegovina's Tarik Muharemovic shown straight red for tackle on Breel Embolo. 84: GOAL ! Ruben Vargas rolls in to make it 2-0. 88: CHANCE ! Vargas tees up Embolo, but the cross is just out of his reach. 90: GOAL ! Vargas does turn provider by pulling back from the byline for Manzambi to slot his second. 90+3: GOAL ! Ermin Mahmic's stunning volley gets Bosnia-Herzegovina on the scoresheet. 90+7: GOAL ! Granit Xhaka caps a big win by rolling in a penalty after a foul on Djibril Sow. Analysis: A star is born? Manzambi's incredible impact Sky Sports' Dan Long: Aside from a flourish in the opening 20 minutes or so, Switzerland struggled with any sort of attacking cohesion for much of the game in LA. They had dominated the ball, but Bosnia-Herzegovina possessed a threat on the break. Change was needed. Murat Yakin's substitutes changed the game - and Johan Manzambi was the star. Just 166 seconds after his introduction, he lashed a volley high into the net to open the scoring, then he made it 3-0 on 90 minutes. But not only that, he had the most shots on target among Switzerland players, and ranked top for both the most opposition box take-ons (5) and dribbles (4). Only two Swiss players managed more than his five duels. Manzambi - named Europa League Young Player of the Season for his efforts in helping Freiburg to the final - has certainly given Yakin something to think about for when he names his team for Wednesday's final group game against Canada.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

@@ -1,0 +1,16 @@
+{
+ "team": "SEN",
+ "source": "github.com",
+ "url": "https://github.com/0xEigenLabs/eigen-secret/pull/5/checks",
+ "title": "feat: update cerc20_generate_update_state_verifier.js by JangoCCC · Pull Request #5 · 0xEigenLabs/eigen-secret",
+ "news_date": "2026-06-20",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-20",
+ "fetched": "2026-06-20_1556",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "There was an error while loading. Please reload this page .",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

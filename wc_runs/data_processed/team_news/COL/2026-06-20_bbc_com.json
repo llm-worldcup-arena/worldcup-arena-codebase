@@ -1,0 +1,16 @@
+{
+ "team": "COL",
+ "source": "bbc.com",
+ "url": "https://www.bbc.com/sport/football/articles/clyppvlpl44o",
+ "title": "World Cup 2026: Colombia name James Rodriguez and Luis Diaz in final squad",
+ "news_date": "2026-06-20",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-20",
+ "fetched": "2026-06-20_1556",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "Captain James Rodriguez has been named in Colombia's World Cup squad following a season disrupted by illness.\n\nThe former Real Madrid, Bayern Munich and Everton player has started in just two of Minnesota United's 15 Major League Soccer matches, playing 194 minutes overall.\n\nThe 34-year-old midfielder is joined in Colombia's squad by Bayern Munich winger Luis Diaz as the South American nation return to the World Cup after failing to qualify for the 2022 edition in Qatar.\n\nRodriguez was taken to hospital in March after showing signs of illness during Colombia's 3-1 defeat by France and spent three days under observation with severe dehydration.\n\nSocial media rumours and reports in some US media at the time sparked concerns he was suffering from rhabdomyolysis - a potentially life-threatening muscle-wasting condition - but his club have firmly denied the claims.\n\nRodriguez, who won the Golden Boot at the 2014 World Cup, joined Minnesota in February, shortly before the MLS season began.\n\nCrystal Palace's Daniel Munoz and Jefferson Lerma make the squad, as does former Arsenal goalkeeper David Ospina.\n\nColombia will train in Bogota before facing Costa Rica and Jordan in friendlies on 1 and 7 June respectively.\n\nMaking their seventh appearance at the finals, they will face debutants Uzbekistan in their Group K opener on 17 June, before facing DR Congo and Portugal.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

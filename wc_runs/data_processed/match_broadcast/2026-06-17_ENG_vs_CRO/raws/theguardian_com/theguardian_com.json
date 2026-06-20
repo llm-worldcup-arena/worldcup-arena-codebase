@@ -1,0 +1,24 @@
+{
+ "source": "theguardian.com",
+ "url": "https://www.theguardian.com/football/2026/jun/17/england-4-2-croatia-world-cup-2026-group-l-player-ratings",
+ "title": "England 4-2 Croatia: World Cup 2026 Group L player ratings",
+ "published": "2026-06-17T22:19:03.000Z",
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-17",
+  "home": "ENG",
+  "away": "CRO",
+  "home_en": "England",
+  "away_en": "Croatia",
+  "home_zh": "英格兰",
+  "away_zh": "克罗地亚",
+  "comp": "小组赛·L组",
+  "match_id": "M22",
+  "slug": "2026-06-17_ENG_vs_CRO"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Jordan Pickford Could have done better with Baturina’s goal. Made crucial late save to keep England ahead but looked shaky. 6\n\nReece James At fault for losing his man for second equaliser. Dangerous in attack, not so good defensively. 6\n\nEzri Konsa Struggled in first half. Improved after break but his place could come under pressure from Marc Guéhi. 6\n\nJohn Stones Looked rusty and made a nervy start. Improved as the game went on, needs minutes badly. 6\n\nNico O’Reilly Got forward at every opportunity and should have scored from a corner. A work in progress at the back. 7\n\nElliot Anderson Kept things ticking over nicely in midfield. Excellent ball to set up Bellingham’s goal. 8\n\nDeclan Rice Produced pinpoint corner for Kane’s header. Not his usual dominant self in midfield and looks fatigued after a long season. 7\n\nNoni Madueke Won England’s penalty and looked very dangerous down right flank in place of Bukayo Saka. 8\n\nJude Bellingham Guilty of losing the ball in buildup to Croatia’s first goal. But made amends in style with a brilliant goal. 7\n\nAnthony Gordon On the periphery for most of the first half and couldn’t make an impact despite his best efforts. 6\n\nHarry Kane Played more like a quarterback than a striker at times but still equalled England’s World Cup finals scoring record. 9\n\nSubstitutes: Marcus Rashford (for Gordon 72) Picked his spot brilliantly for his goal that even Livakovic couldn’t get near 7; Morgan Rogers (for Rice 72) Struggled in central midfield and looked far more comfortable further forward. Great ball to set up Spence 6 ; Bukayo Saka (for Madueke 72) A surprise to see him given injury concerns but played part in Rashford’s clincher 7 ; Djed Spence (for Bellingham 80) Should have scored moments after coming on but denied by Livakovic 6 ; Marc Guéhi (for Stones 87) A late introduction when the game was already won 6.\n\nDominik Livakovic Off his line too early for penalty but some unbelievable stops to keep a rampant England at bay. 9\n\nJosip Sutalo Didn’t know whether to track Kane when he dropped deep and was caught out on more than one occasion. 5\n\nLuka Vuskovic The teenager lost sight of Kane for England’s second goal but Tottenham have a real prospect on their hands. 7\n\nJosko Gvardiol The Manchester City defender had his hands full with Madueke. 6\n\nJosip Stanisic A lively presence down the right flank for Croatia and often got the better of O’Reilly. 7\n\nLuka Modric A surprise to see him give away an early penalty for fouling Madueke. But still oozes class despite his advancing years. 7\n\nMario Pasalic Decent strike went just wide at the end of first half but lost out in midfield battle. 6\n\nIvan Perisic Such a clever header to set up the second equaliser. Has incredible energy for a 37-year-old. 7\n\nPetar Sucic Brilliant assist for Baturina’s goal, missed a great chance late on after Pickford fumble. 7\n\nMartin Baturina Took his goal brilliantly and the Como forward caused England problems with direct approach. 7\n\nPetar Musa The FC Dallas striker volleyed past Pickford with aplomb and was a real handful for England’s defenders. 7\n\nSubstitutes: Mateo Kovacic (for Modric 58) Couldn’t wrestle back control other than for a five minute period 6 ; Marco Pasalic (for Vuskovic 66) Almost equalised not long after coming on but was denied by Pickford 6 ; Igor Matanovic (for Musa 66) Could do nothing about Rashford’s goal after Croatia were carved open 6 ; Nikola Vlasic (for Baturina 78) Tried to inject some urgency to Croatia’s attack in the final stages 6 ; Andrej Kramaric (for Mario Pasalic 79) A real handful when he came on for last 10 minutes but couldn’t find equaliser 7.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

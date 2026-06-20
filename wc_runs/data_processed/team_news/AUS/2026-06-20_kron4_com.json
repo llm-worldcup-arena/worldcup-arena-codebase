@@ -1,0 +1,16 @@
+{
+ "team": "AUS",
+ "source": "kron4.com",
+ "url": "https://www.kron4.com/sports/world-cup-2026/ap-christian-pulisic-to-miss-us-world-cup-match-against-australia-because-of-calf-injury/",
+ "title": "Christian Pulisic to miss US World Cup match against Australia because of calf injury | KRON4",
+ "news_date": "2026-06-20",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-20",
+ "fetched": "2026-06-20_1556",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Christian Pulisic to miss US World Cup match against Australia because of calf injury\nby: ANDREW DESTIN, Associated Press\nPosted: Jun 19, 2026 / 10:53 AM PDT\nUpdated: Jun 19, 2026 / 11:24 AM PDT\nSEATTLE (AP) — U.S. star Christian Pulisic will miss Friday’s World Cup match against Australia because of a calf injury and was replaced in the starting lineup by Ricardo Pepi.\nUnited States coach Mauricio Pochettino made the announcement during an interview with Fox about 90 minutes before the kickoff at Lumen Field in Seattle.\nThe move is a setback for a U.S. team that defeated Paraguay 4-1 in its opener on June 12 and with a win would clinch advancement to the round of 32.\nPulisic left the game at halftime after helping create the opening goal by splitting a pair of defenders before passing to Weston McKennie, then setting up Folarin Balogun for the second goal.\nPochettino said the 27-year-old attacker was kicked in the back of his left calf during a training session ahead of the game and felt tightness during the match.\nUnited States’ Christian Pulisic (10) runs with the ball during the World Cup Group D soccer match between the United States and Paraguay in Inglewood, Calif., near Los Angeles, Friday, June 12, 2026. (AP Photo/Jayne Kamin-Oncea)\nPulisic trained on his own in the leadup to the game against Australia.\nPulisic has 33 goals in 87 international appearances.\nPepi was the only addition to the U.S. starting lineup.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

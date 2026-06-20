@@ -1,0 +1,24 @@
+{
+ "source": "ESPN",
+ "url": "https://www.espn.com/soccer/report/_/gameId/760438",
+ "title": "Czechia 1-1 South Africa (Jun 18, 2026) Game Analysis - ESPN",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-18",
+  "home": "CZE",
+  "away": "RSA",
+  "home_en": "Czech Republic",
+  "away_en": "South Africa",
+  "home_zh": "捷克",
+  "away_zh": "南非",
+  "comp": "小组赛·A组",
+  "match_id": "M25",
+  "slug": "2026-06-18_CZE_vs_RSA"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "ATLANTA -- Teboho Mokoena started the game with tears in his eyes and finished it with a smile on his face after converting a second-half penalty in South Africa's 1-1 draw with Czechia on Thursday at the World Cup.\nThapelo Maseko's long range shot late in the match caught the hand of Czech opponent Pavel Sulc in the area.\nMokoena, who was shown on camera with tears rolling down his cheeks during the pre-game national anthem, stepped up to the penalty spot and sent his shot low past Czechia goalkeeper Matej Kovár in the 83rd minute.\nThe South Africa midfielder said he was overwhelmed before kick off, thinking about his late grandfather.\n\"I know, wherever he is, he would be proud of me,\" Mokoena said. \"I just felt his presence in that moment. I thought if he was here, he would be proud of me because I know he believed in me when nobody believed in me.\"\nTeboho Mokoena ensured South Africa drew 1-1 with Czechia on Thursday.\nMichael Regan - FIFA/FIFA via Getty Images\nMichal Sadílek had given the Czechs the lead in the sixth minute at Mercedes-Benz Stadium. Alexandr Sojka played in Sadilek and he slid a shot past goalkeeper Ronwen Williams.\nBoth teams lost their opening matches, and both knew another setback would seriously hinder their chances of reaching the round of 32.\nSouth Africa faced some strong criticism following their 2-0 loss to co-hosts Mexico, which raised the prospect of the country extending its run of never having advanced to the knockout phase of a World Cup -- even as hosts in 2010.\n\"If we go on like that and if we can make another performance like today I think we have a chance to go in the second round,\" South Africa coach Hugo Broos said.\nSouth Africa will next face South Korea on Wednesday in Group A, but will be without Mokoena, who is suspended after picking up his second yellow card of the tournament.\nThe Czechs lost to South Korea 2-1 in their opening match and will likely need to beat Mexico in their final game on Wednesday to advance.\nThe Associated Press contributed to this report.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

@@ -1,0 +1,24 @@
+{
+ "source": "sports.yahoo.com",
+ "url": "https://sports.yahoo.com/soccer/fifa-world-cup/paraguay-turkiye-13587252/",
+ "title": "Turkiye 0 - 1 Paraguay: Final score, results, recap, box score, stats - Yahoo Sports",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-19",
+  "home": "TUR",
+  "away": "PAR",
+  "home_en": "Türkiye",
+  "away_en": "Paraguay",
+  "home_zh": "土耳其",
+  "away_zh": "巴拉圭",
+  "comp": "小组赛·D组",
+  "match_id": "M31",
+  "slug": "2026-06-19_TUR_vs_PAR"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Turkiye 0 - 1 Paraguay: Final score, results, recap, box score, stats\nSubstitution - In\n13 - Jose Canale\nSubstitution - Out\n23 - Matias Galarza\nSubstitution - In\n21 - Gabriel Avalos\nSubstitution - Out\n19 - Julio Enciso\nSubstitution - In\n6 - Orkun Kokcu\nSubstitution - Out\n14 - Abdulkerim Bardakci\nSubstitution - In\n26 - Alexandro Maidana\nSubstitution - Out\n4 - Juan Jose Caceres\nYellow Card\n13 - Eren Elmali\nSubstitution - In\n13 - Eren Elmali\nSubstitution - Out\n20 - Ferdi Kadioglu\nSubstitution - In\n2 - Gustavo Velazquez\nSubstitution - Out\n8 - Diego Gomez\nYellow Card63'\nTurkiye's Vincenzo Montella has been booked in Santa Clara, CA.\nSubstitution - In\n26 - Can Uzun\nSubstitution - Out\n16 - Ismail Yuksek\nSubstitution - In\n9 - Deniz Gul\nSubstitution - Out\n19 - Yunus Akgun\nSubstitution - In\n21 - Baris Alper Yilmaz\nSubstitution - Out\n7 - Kerem Akturkoglu\nSubstitution - In\n16 - Damián Bobadilla\nSubstitution - Out\n25 - Isidro Pitta",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

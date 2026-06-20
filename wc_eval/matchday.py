@@ -72,18 +72,17 @@ def main():
     if a.news and snap:
         run(["python3", "news_pipeline.py", "--snapshot", snap, "--ts", a.ts, "--teams", "ALL"], BG)
 
-    # ⑤ 赛事播报:已收集 raws 的场 → broadcast_synth(raws→ours,py-Kimi) → 可预测版 long
-    #    raws 收集(找源 WebSearch + fetch_sources)是检索步(agent),见 wc-match-broadcast;此处合成 ours。
-    #    可重复执行:赛后信息约 3h 才全,先跑一遍、信息更全后再 --refresh 跑一遍(幂等覆盖)。
-    if a.broadcast.strip():
-        for pair in a.broadcast.split(","):
-            h, w = pair.strip().split("-")
-            # 找该场 slug(date 从 matches.json)
-            import json as _j
-            mt = next((m for m in _j.load(open(f"{ROOT}/wc_runs/data_reference/matches.json", encoding="utf-8"))
-                       if m.get("team_a") == h and m.get("team_b") == w), None)
-            if mt:
-                run(["python3", "broadcast_synth.py", "--slug", f"{mt['date']}_{h}_vs_{w}", "--refresh"], BG)
+    # ⑤ 赛事播报【整轮自动化 = 全部信息收集的一部分,不再是手动旁支】:
+    #    broadcast_round.py 自动为【每一场已结算但还没做播报的场】跑完整条线:
+    #      fetch_sources 抓多源原文 → broadcast_synth 合成 ours → 归档 → 嵌进两队 summary 块B。
+    #    **URL 发现全 py 自动**(broadcast_round.discover_urls → web_search_urls/Apify Google,黑名单去垃圾;无需 agent)。
+    #    开关 config/wc_pipeline.json: auto_run_match_broadcast(on 才抓)。--broadcast A-B,.. 限定只跑某几场;--broadcast skip 跳过(本轮已单独跑过)。
+    #    幂等:做过的场不 remake;近2天的场增量重查只加新源;赛后信息约 3h 才全,可后续 --refresh 重跑补全。
+    if snap and a.broadcast.strip().lower() != "skip":
+        bcmd = ["python3", "broadcast_round.py", "--snapshot", snap, "--ts", a.ts]
+        if a.broadcast.strip():
+            bcmd += ["--only", a.broadcast]
+        run(bcmd, BG)
     if a.plong:
         run(["python3", "predictable_long_gen.py", "--all"], BG)
 
@@ -99,6 +98,10 @@ def main():
         #       "少收几队/源太少/本轮没搜"在代码层就过不了门,不靠自觉(防 downscale 蒙混、防假绿灯)
         if run(["python3", "news_preflight.py", "--round", a.ts], BG) != 0:
             sys.exit("✗ 新闻收集门禁未过(有队 <3 源/本轮没搜/不足48队),补齐后再预测")
+        # ⑦.0a2 赛事播报硬门禁:每一场【已结算】的比赛都必须有 ours/long.md + 两队 summary 块B 均已嵌
+        #        (broadcast_preflight 是"全部信息收集"里播报这一类的唯一权威)——防"播报这条线漏跑却没人发现"
+        if run(["python3", "broadcast_preflight.py", "--snapshot", snap], BG) != 0:
+            sys.exit("✗ 赛事播报门禁未过(有已结算场缺播报/未嵌块B),补齐后再预测")
         # ⑦.0b 开球时间核对:FIX(网页显示)↔ matches.json(预测prompt)一致 + 非ET场醒目标记
         #       (防"西部时区场把美东时间算错"再犯;硬不一致则拦,非ET场打印提示 agent 外部核对)
         if run(["python3", "verify_kickoffs.py", "--matches", ms], PR) != 0:

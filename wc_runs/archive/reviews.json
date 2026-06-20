@@ -2649,5 +2649,379 @@
   },
   "collective": "6模型在胜平负、让球、半全场、比分四大市场集体误判，一致看好主队完胜；仅大小球与单双因保守倾向幸免，暴露对弱队韧性、平局概率的系统性低估",
   "paper_point": "各模型对主队优势存在系统性高估，宏观赛果预测呈现高度一致的羊群偏见"
+ },
+ "BRA_vs_HAI": {
+  "per_market": {
+   "胜平负": {
+    "right": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ],
+    "wrong": []
+   },
+   "让球": {
+    "right": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ],
+    "wrong": []
+   },
+   "大小2.5": {
+    "right": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ],
+    "wrong": []
+   },
+   "双方进球": {
+    "right": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ],
+    "wrong": []
+   },
+   "单双": {
+    "right": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ],
+    "wrong": []
+   },
+   "半全场": {
+    "right": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ],
+    "wrong": []
+   },
+   "正确比分": {
+    "right": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ],
+    "wrong": []
+   }
+  },
+  "model_notes": {
+   "Claude": "七项全中，精准捕捉巴西碾压性优势与零封格局。",
+   "GPT": "全市场命中，展现对强弱悬殊对决的极强判断力。",
+   "Gemini": "预测完美，准确预判比分、半全场及大小球等细节。",
+   "Kimi": "零失误表现，完美把握主胜、大球与零封三大核心。",
+   "GLM": "所有市场正确，体现对绝对实力差距的充分认知。",
+   "Seed": "七市场全对，精准预测比分与进程的高度一致性。"
+  },
+  "collective": "未出现集体误判，所有模型在所有市场均预测正确。这反映出本场为实力悬殊的碾压局，巴西3-0领先至终场的赛果使各维度预测均无分歧空间。",
+  "paper_point": "强弱悬殊碾压局：六模型七市场全中且高度一致，凸显绝对优势方零封大胜的高可预测性。"
+ },
+ "SCO_vs_MAR": {
+  "per_market": {
+   "胜平负": {
+    "right": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ],
+    "wrong": []
+   },
+   "让球": {
+    "right": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ],
+    "wrong": []
+   },
+   "大小2.5": {
+    "right": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "GLM",
+     "Seed"
+    ],
+    "wrong": [
+     "Kimi"
+    ]
+   },
+   "双方进球": {
+    "right": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "GLM",
+     "Seed"
+    ],
+    "wrong": [
+     "Kimi"
+    ]
+   },
+   "单双": {
+    "right": [
+     "Claude",
+     "GPT",
+     "Kimi",
+     "Seed"
+    ],
+    "wrong": [
+     "Gemini",
+     "GLM"
+    ]
+   },
+   "半全场": {
+    "right": [
+     "Gemini",
+     "GLM"
+    ],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Kimi",
+     "Seed"
+    ]
+   },
+   "正确比分": {
+    "right": [
+     "Claude",
+     "GPT",
+     "Seed"
+    ],
+    "wrong": [
+     "Gemini",
+     "Kimi",
+     "GLM"
+    ]
+   }
+  },
+  "model_notes": {
+   "Claude": "5/7正确，仅半全场误判为平-客，未能捕捉客队开局领先",
+   "GPT": "5/7正确，与Claude错误一致，半全场预测过于保守",
+   "Gemini": "5/7正确，单双和比分预测偏差，高估总进球数为偶数且多一球",
+   "Kimi": "3/7正确，唯一高估大小球和双方进球，比分预测完全偏离",
+   "GLM": "5/7正确，与Gemini类似错误，单双和比分预测失准",
+   "Seed": "5/7正确，半全场预测保守，其他市场表现稳健"
+  },
+  "collective": "6模型在胜平负和让球市场高度一致且全对；半全场是最大盲区，4模型误判半场平局；Kimi是唯一系统性高估进攻的模型，其他模型在总进球上偏保守",
+  "paper_point": "半全场预测暴露模型共性缺陷：多数低估客队开局能力，无法准确捕捉半场领先格局"
+ },
+ "TUR_vs_PAR": {
+  "per_market": {
+   "胜平负": {
+    "right": [],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ]
+   },
+   "让球": {
+    "right": [],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ]
+   },
+   "大小2.5": {
+    "right": [
+     "Seed"
+    ],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM"
+    ]
+   },
+   "双方进球": {
+    "right": [
+     "Seed"
+    ],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM"
+    ]
+   },
+   "单双": {
+    "right": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ],
+    "wrong": []
+   },
+   "半全场": {
+    "right": [],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ]
+   },
+   "正确比分": {
+    "right": [],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ]
+   }
+  },
+  "model_notes": {
+   "Claude": "错在核心赛果，仅单双正确，显示对冷门和进球能力严重误判。",
+   "GPT": "与Claude预测完全一致，集体误判主胜，仅单双正确，缺乏独立性。",
+   "Gemini": "同样陷入主胜共识，仅单双正确，比分预测同质化严重。",
+   "Kimi": "预测完全复制主流，主胜错误，仅单双正确，未见差异化优势。",
+   "GLM": "半全场预测略有差异但同样错误，其余与主流一致，整体表现不佳。",
+   "Seed": "唯一命中大小球与双方进球，但赛果方向完全错误，呈现矛盾逻辑。"
+  },
+  "collective": "全部6个模型一致误判主胜方向，严重低估客队巴拉圭的防守反击能力；除单双外，集体看错核心市场，比分预测同质化（5家2-1），暴露对低比分零封局面的系统性盲区。",
+  "paper_point": "六模型在主胜预测上高度一致但全部错误，揭示了对客场冷门和低比分零封局面的系统性低估。"
+ },
+ "USA_vs_AUS": {
+  "per_market": {
+   "胜平负": {
+    "right": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ],
+    "wrong": []
+   },
+   "让球": {
+    "right": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ],
+    "wrong": []
+   },
+   "大小2.5": {
+    "right": [
+     "Claude"
+    ],
+    "wrong": [
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ]
+   },
+   "双方进球": {
+    "right": [
+     "Claude"
+    ],
+    "wrong": [
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ]
+   },
+   "单双": {
+    "right": [],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ]
+   },
+   "半全场": {
+    "right": [
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ],
+    "wrong": [
+     "Claude",
+     "GPT"
+    ]
+   },
+   "正确比分": {
+    "right": [],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ]
+   }
+  },
+  "model_notes": {
+   "Claude": "唯一准确预测小球且无双方进球，但半场比分、单双及具体比分均错。",
+   "GPT": "胜负盘正确但高估进球，与主流模型一致误判大小球、双方进球及单双。",
+   "Gemini": "胜负盘与半场领先预测正确，但进球数判断随大流偏高，比分未命中。",
+   "Kimi": "同Gemini，基础判断准但陷入集体性进球高估，具体比分错误。",
+   "GLM": "预测模式与GPT/Gemini/Kimi/Seed雷同，胜负盘准但进球预测集体失误。",
+   "Seed": "表现与多数模型一致，胜负盘准确但进球预测跟随主流误判。"
+  },
+  "collective": "所有模型准确预测主胜与让球盘，但5/6集体高估进球数（误判大2.5与双方进球），且全部错判单双，反映对进攻能力的系统性偏好及对偶数比分概率的低估。",
+  "paper_point": "强弱悬殊场次中，模型在胜负判断上高度一致且准确，但集体性高估进球数（5/6误判大小球与双方进球），暴露系统性进攻偏好偏差。"
  }
 }

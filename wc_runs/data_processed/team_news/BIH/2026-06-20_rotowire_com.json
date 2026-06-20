@@ -1,0 +1,16 @@
+{
+ "team": "BIH",
+ "source": "rotowire.com",
+ "url": "https://www.rotowire.com/soccer/headlines/haris-tabakovic-injury-trains-with-team-519255",
+ "title": "Haris Tabakovic Injury: Trains with team | RotoWire",
+ "news_date": "2026-06-20",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-20",
+ "fetched": "2026-06-20_1556",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "Tabakovic (ankle) returned to training with the team ahead of the second game against Switzerland, according to Bosnian Football.\n\nTabakovic has been working separately in recent days as he recovers from an ankle injury picked up in his last Bundesliga match, which kept him out of Bosnia and Herzegovina's World Cup opener. He made a notable step forward by joining full team training the day after the game, and could now be in contention for selection against Switzerland, though the forward will likely be a bench option",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

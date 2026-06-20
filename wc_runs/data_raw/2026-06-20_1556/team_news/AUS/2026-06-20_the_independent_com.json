@@ -1,0 +1,16 @@
+{
+ "team": "AUS",
+ "source": "the-independent.com",
+ "url": "https://www.the-independent.com/sport/football/usa-australia-live-score-world-cup-2026-pulisic-injury-b2998780.html",
+ "title": "USA v Australia LIVE: World Cup result as co-hosts seal place in knockout stages",
+ "news_date": "2026-06-20",
+ "published": "2026-06-20T06:00:24.000Z",
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-20",
+ "fetched": "2026-06-20_1556",
+ "method": "jsonld:articleBody",
+ "status": "ok",
+ "original_text": "There is little evidence about Folarin Balogun’s political beliefs and we should resist the urge to assign some. But there is a delicious irony in his emergence as the hero of USA’s opening World Cup 2026 games. At a time when Donald Trump’s administration is actively using the tournament to flaunt its strong-arm approach to border control, flexing against fans, players, staff and even celebrated Somali referees, a Londoner of Nigerian heritage seems like the poster boy for a very different story of America.\nBalogun’s parents were living in London when they took a holiday to New York in the summer of 2001. The trip proved fateful: airline attendants refused to allow his mother on the flight home after they noticed she was seven months pregnant. They were forced to stay in New York and Folarin Jerry Balogun was born in Brooklyn on 3 July.\nBaby Balogun was automatically granted US citizenship under the country’s birthright citizenship laws, based on the 14th amendment to the US Constitution, laws that the Trump administration is attempting to rewrite. Had Balogun’s birth fallen under the president’s new proposals, the US would not have had their star striker at their disposal.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

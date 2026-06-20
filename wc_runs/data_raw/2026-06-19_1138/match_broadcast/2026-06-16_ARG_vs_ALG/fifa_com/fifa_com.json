@@ -1,0 +1,24 @@
+{
+ "source": "fifa.com",
+ "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/argentina-v-algeria-highlights-match-report",
+ "title": "Argentina 3-0 Algeria | Match report and highlights",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-16",
+  "home": "ARG",
+  "away": "ALG",
+  "home_en": "Argentina",
+  "away_en": "Algeria",
+  "home_zh": "阿根廷",
+  "away_zh": "阿尔及利亚",
+  "comp": "小组赛·J组",
+  "match_id": "M19",
+  "slug": "2026-06-16_ARG_vs_ALG"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Hat-trick hero Lionel Messi made World Cup history as the defending champions ran out comfortable winners against Algeria.\nArgentina 3-0 AlgeriaArgentina 3-0 Algeria\nArgentina goals: Messi (17, 60, 76)\nLionel Messi equalled the all-time FIFA World Cup™ goalscoring record with a hat-trick as Argentina kicked off their title defence with victory over Algeria in Group J at Kansas City Stadium.\nMessi started the day three adrift of Miroslav Klose's mark of 16 goals on the global stage, but within 76 minutes of this match he was on level terms with the former Germany international.\nMessi and Algeria's Fares Chaibi both had efforts ruled out for offside in a breathless opening, but Argentina's captain fantastic soon made his mark. Picking up possession 30 yards from goal, he expertly rolled his marker, surged forward and curled a superb finish beyond the grasp of Luca Zidane.\nAlgeria largely kept the reigning champions at arm's length for the rest of the half, with an Alexis Mac Allister header over the crossbar Argentina's only real chance.\nAnis Hadj Moussa carved out one of the Fennec Foxes' better openings moments earlier, but a deflection took the sting out of his low effort and Emiliano Martinez gathered comfortably.\nMessi was once again at the heart of Argentina's brightest attacking moments after the break. He first flashed a 20-yard effort over the bar before slipping in Lautaro Martinez, whose dangerous cross was cut out by Zidane.\nThe Argentina talisman's second goal soon followed, with Zidane unable to hold Mac Allister's powerful strike, allowing Messi to pounce on the rebound and finish coolly with his right foot.\nThe 38-year-old completed his hat-trick with a trademark curling finish from the edge of the area, capping his 200th senior international appearance in style.\nHaving equalled Klose's record, Messi will have the chance to claim it outright when Argentina face Austria on 22 June. Algeria, meanwhile, take on Jordan in their next Group J outing.\nKey statKey stat\nMessi's hat-trick came 20 years to the day after his World Cup debut as a substitute in a group-stage match against Serbia and Montenegro at Germany 2006.\nMichelob Ultra Superior Player of the MatchMichelob Ultra Superior Player of the Match\nLionel Messi (Argentina)\nMessi: Our fans made us feel at homeMessi: Our fans made us feel at home\nThe Argentinian superstar reflects on his hat-trick against Algeria at the FIFA World Cup 2026.The Argentinian superstar reflects on his hat-trick against Algeria at the FIFA World Cup 2026.\nFIFA Power Rankings explainedFIFA Power Rankings explained\nWhat they said...What they said...\n\"I don't have the words to describe [Lionel] Messi. For 20 years, he's had us used to seeing things like this, and he inspires everyone who watches him play. We're going to take it one game at a time. The team is happy; we gave playing time to a lot of players. Hopefully we can win the next one so everyone can be in the third group game.\" Lionel Scaloni, Argentina coach\n\"What made the difference is that they have a player who is ruthless, almost every chance he gets ends up in the back of the net. He might be the best player of all time. His efficiency is formidable; we knew that. We tried to shut him down as much as possible, but it didn't work – he was too good for us there.\" Aissa Mandi, Algeria captain\n\"Everything I’m experiencing now is a bonus. I’ve been fortunate enough to achieve all my dreams — or even more than I ever dreamed of achieving — both professionally and personally. Now I’m just enjoying this, being part of a wonderful group, feeling good and being able to enjoy it out on the pitch. This is far more than I could ever have imagined when I was a kid.\"",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

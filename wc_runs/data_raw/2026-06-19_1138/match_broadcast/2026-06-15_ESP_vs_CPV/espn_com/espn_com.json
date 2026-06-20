@@ -1,0 +1,24 @@
+{
+ "source": "espn.com",
+ "url": "https://www.espn.com/soccer/report/_/gameId/760428",
+ "title": "Spain 0-0 Cape Verde (Jun 15, 2026) Game Analysis - ESPN",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-15",
+  "home": "ESP",
+  "away": "CPV",
+  "home_en": "Spain",
+  "away_en": "Cape Verde",
+  "home_zh": "西班牙",
+  "away_zh": "佛得角",
+  "comp": "小组赛·H组",
+  "match_id": "M14",
+  "slug": "2026-06-15_ESP_vs_CPV"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Tiny Cape Verde, making its debut at the World Cup, pulled off a stunning upset to shut out heavily favored Spain in a 0-0 draw on Monday.\n\"This means everything for our country,\" Cape Verde coach Pedro Leitão Brito said.\n\"We have always said that we wanted everybody to see our country, our team and we have shown organization and braveness and this is proof of what our country is about - resilience and to try to overcome hardships.\"\nEuropean champion Spain is one of the favorites to win the tournament and was -1200 to beat Cape Verde in its opening game. But it could not find a way past a 40-year-old goalkeeper and a stubborn defense that had an answer to everything Spain's superstars threw at them.\nNot even sensational teenager Lamine Yamal, who came in off the bench in the second half, could turn a game that ended with wild and emotional celebrations from Cape Verde players and fans inside the stadium.\n\"A dream\" was how Cape Verde defender Steven Moreira described it.\nVeteran goalkeeper Vozinha broke down in tears after the final whistle following his impressive performance to keep Spain at bay.\nCape Verde goalkeeper Vozinha impressed against Spain.\n(Photo by Roberto SCHMIDT / AFP via Getty Images,\nHe was the player of the match, pulling off a string of saves at the end of the first half to deny Ferran Torres, Pedri and Aymeric Laporte.\nThe closest Spain came to finding a breakthrough was when Torres struck the bar shortly before halftime.\n\"We should have won today's match with everything that happened, with all the favorable situations we created, but we lacked freshness and a clinical edge,\" said Spain coach Luis de la Fuente, who had warned before the match that Cape Verde could be one of the surprise teams of the World Cup.\nSpain could have been the victim of an even bigger upset when Diney Borges had a late chance to win the game, but saw his header saved by Spain keeper Unai Simón.\nCape Verde's performance rebuked some of the criticisms that the expansion of the World Cup from 32 teams to 48 would weaken the tournament.\nA group of islands with around half a million inhabitants is the third smallest nation to qualify for the tournament. And even against a Spain team that is filled with superstar players, Cape Verde proved its worth on soccer's biggest stage.\n\"All of us, we are happy because we work a lot to be here. We deserve to be here,\" said Vozinha.\nThe 2010 champion Spain is aiming to win the World Cup for a second time, but a disappointing start echoes its performances in recent tournaments when it has failed to advance beyond the round of 16 in each of the last three editions.\n\"What doubts do you think my team is going to have? Zero doubts,\" De la Fuente said. \"We know how difficult this competition is. The idea we need to follow is what took us here and what made us European champions.\"\nSpain plays Saudi Arabia on Sunday and Cape Verde faces Uruguay.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

@@ -1,0 +1,24 @@
+{
+ "source": "fifa.com",
+ "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/iraq-norway-highlights-match-report",
+ "title": "Iraq 1-4 Norway | Match report and highlights",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-16",
+  "home": "IRQ",
+  "away": "NOR",
+  "home_en": "Iraq",
+  "away_en": "Norway",
+  "home_zh": "伊拉克",
+  "away_zh": "挪威",
+  "comp": "小组赛·I组",
+  "match_id": "M18",
+  "slug": "2026-06-16_IRQ_vs_NOR"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Prolific forward struck either side of Aymen Hussein’s leveller, with Leo Ostigard also on target, to help Norway to a third World Cup win.\nIraq 1-4 NorwayIraq 1-4 Norway\nIraq goal: Aymen Hussein (39) Norway goals: Haaland (29, 43), Ostigard (76), Hussein own goal (90+6)\nBoth nations were back on the global stage for the first time this century and it was a man that entered with a tick over a half century of international goals, Erling Haaland, who handed Norway the early advantage.\nA move that began with goalkeeper Orjan Nyland cycled through 14 passes before David Moller Wolfe delivered a cross from the left that Haaland slid in to poke home at the back post.\nTen minutes later, veteran forward Aymen Hussein became just the second Iraqi player to score a World Cup goal as he rose to meet Amir Al Ammari’s chipped cross and plant a header past Nyland.\nHaaland then pounced on a mix-up between Zaid Tahseen and Jalal Hassan to restore Norway’s advantage and send them to the break with a lead for the first team at a World Cup.\nSubstitute Leo Ostigard, three-and-a-half minutes after his second-half arrival, extended the lead as he was left all alone at a corner to stride towards goal and power a header past Hassan. A late Hussein own goal saw Norway complete an ultimately comfortable win to move to the head of the Group I standings.\nGroup I\nGroup I\nPWDLGFGAGDTCSPtsForm\n1\nNorway\nNOR\n1 0 4 1 3 0 3\n-\n-\n-\n-\n\n2\nFrance\nFRA\n1 0 3 1 2 0 3\n-\n-\n-\n-\n\n3\nSenegal\nSEN\n1 0 1 3 -2 0\n-\n-\n-\n-\n\n4\nIraq\nIRQ\n1 0 1 4 -3 -1 0\n-\n-\n-\n-\n\nKey statKey stat\nAt 35 years and 279 days, Orjan Nyland became the oldest player to make a World Cup appearance for Norway.\nMichelob Ultra Superior Player of the MatchMichelob Ultra Superior Player of the Match\nErling Haaland (Norway)\nHaaland: I'm incredibly proud to make my World Cup debutHaaland: I'm incredibly proud to make my World Cup debut\nThe Norway forward reflects on his side's comprehensive victory over Iraq at the World Cup 2026.The Norway forward reflects on his side's comprehensive victory over Iraq at the World Cup 2026.\nFIFA Power Rankings explainedFIFA Power Rankings explained\nWhat they said...What they said...\n“My first goal was nice, the second even nicer so it’s fantastic and I’m proud of everyone that we could get off to a good start. We know though that the next games will be even tougher and we will have to play even better. We were expected to win and we won fortunately. Now everybody in Norway will be happy and I hope people will party!”",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

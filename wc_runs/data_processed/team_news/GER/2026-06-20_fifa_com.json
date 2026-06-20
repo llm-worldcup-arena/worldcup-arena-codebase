@@ -1,0 +1,16 @@
+{
+ "team": "GER",
+ "source": "fifa.com",
+ "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/lennart-karl-germany-injury-withdrawal",
+ "title": "Injured Lennart Karl out of Germany squad | FIFA World Cup 2026",
+ "news_date": "2026-06-20",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-20",
+ "fetched": "2026-06-20_1556",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Starlet was injured in training, with the DFB confirming that he will miss the tournament, with Assan Ouedraogo in line to fill the void.\nLess than a week ago, Lennart Karl was considered the big winner of the 4-0 friendly win against Finland, and many already had him pencilled in Germany's starting eleven for the FIFA World Cup 2026™. Now, the 18-year-old's World Cup dream is over, with injury forcing the Bayern Munich starlet out of the Germany squad.\n\"It hurts incredibly to miss the biggest tournament,\" Karl wrote in an Instagram post. \"Unfortunately, injuries often come at the worst possible time.\"\nThe German Football Association (DFB) announced late Friday evening that Karl suffered a torn muscle in his left thigh during the team's final training session before a friendly against the USA in Chicago and will miss the tournament.\n\"I feel incredibly sorry for Lenny. With his carefree attitude, his flair for the game, his pace, and his personality, he was a perfect fit for the team. It's a huge shock for him and all of us that he'll miss the World Cup,\" said head coach Julian Nagelsmann on the DFB website. \"It's only a small consolation that he's young and has many more tournaments ahead of him. We would have loved to have him on the team.\"\nAt the same time, the DFB announced its intention to call up Assan Ouedraogo to fill that void left by Karl's absence. The 20-year-old from RB Leipzig made his debut for the senior national team in November 2025, scoring a goal a 6-0 victory against Slovakia.\nNagelsmann explained: \"With Assan Ouedraogo, we're adding a player who, like Lenny, had a fantastic start with us. He's also highly talented and should play with courage and freedom here.\"",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

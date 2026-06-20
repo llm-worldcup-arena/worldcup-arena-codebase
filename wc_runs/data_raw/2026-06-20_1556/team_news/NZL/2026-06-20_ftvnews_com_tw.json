@@ -1,0 +1,16 @@
+{
+ "team": "NZL",
+ "source": "ftvnews.com.tw",
+ "url": "https://www.ftvnews.com.tw/news/detail/2026601W0063",
+ "title": "紐西蘭世界盃前傳傷情！中場雙核心受傷缺陣熱身賽 - 民視新聞網",
+ "news_date": "2026-06-20",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-20",
+ "fetched": "2026-06-20_1556",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "紐西蘭國家足球隊在世界盃開打前夕傳出傷兵消息，中場雙核心 Ryan Thomas 與 Joe Bell 因腿部傷勢，將缺席對陣海地與英格蘭的熱身賽。總教練 Darren Bazeley 坦言，這對球隊的中場佈局造成不小打擊。\n根據路透社（Reuters）報導，紐西蘭中場大將 Ryan Thomas 因腿後腱拉傷，確定無法在週二對陣海地以及週六對陣英格蘭的熱身賽中上場。另一名中場球員 Joe Bell 則因小腿傷勢，至少會缺席對海地的比賽，這讓紐西蘭在世界盃正式開打前的戰力調整蒙上陰影。\n總教練 Darren Bazeley 表示，雖然希望兩位球員能趕在 6 月 15 日對陣伊朗的世界盃首戰前康復，但缺乏實戰演練對球員狀態與教練團的戰術規劃都是一大挑戰。他特別提到在荷蘭效力的 Ryan Thomas 是一名優秀球員，無法透過熱身賽調整狀態並展現競爭力，對球員個人與球隊來說都非常可惜。\n在兩位主力缺陣的情況下，Alex Rufer 與新秀 Lachlan Bayliss 預計將獲得先發機會，與主力 Marko Stamenić 搭檔鎮守中場。紐西蘭本次世界盃小組賽將面對伊朗、埃及與比利時，這也是該國自 2010 年南非世界盃以來，睽違多年再次重返世界足球最高殿堂。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

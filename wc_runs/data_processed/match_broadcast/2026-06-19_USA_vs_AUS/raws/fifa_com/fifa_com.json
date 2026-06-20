@@ -1,0 +1,24 @@
+{
+ "source": "fifa.com",
+ "url": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021462",
+ "title": "EE. UU. v Australia 2-0 | Resultado, Estadísticas y Eesumen | Primera fase | Copa Mundial de la FIFA 2026 | FIFA",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-19",
+  "home": "USA",
+  "away": "AUS",
+  "home_en": "United States",
+  "away_en": "Australia",
+  "home_zh": "美国",
+  "away_zh": "澳大利亚",
+  "comp": "小组赛·D组",
+  "match_id": "M32",
+  "slug": "2026-06-19_USA_vs_AUS"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "EE. UU. v Australia 2-0 | Resultado, Estadísticas y Eesumen | Primera fase | Copa Mundial de la FIFA 2026\nSaltar al contenido principal\nCOBERTURA EN DIRECTO\nALINEACIÓN\nESTADÍSTICAS\nPOWER RANKINGS\nCLASIFICACIÓN\nPARTIDOS RELACIONADOS\nNOTICIAS\nEstadísticas en directo\nAtaque\nPosesión del balón\n55%\n30%\n15% en disputa\nGol\nTotal\n2\n0\nEncajados\n0\n2\nDentro del área penal\n1\n0\nFuera del área penal\n0\n0\nAsistencias\n0\n0\nRemates a puerta\nTotal\n10\n5\nA puerta\n2\n2\nFallidos\n3\n3\nDentro del área penal\n8\n3\nFuera del área penal\n2\n2\nInternadas en el último tercio\nCarril izquierdo\n25\n8\nCarril interior izquierdo\n3\n3\nCarril central\n7\n4\nCarril interior derecho\n6\n2\nCarril derecho\n17\n22\nLíneas de pase\nTotal\n347\n158\nDetrás\n93\n53\nEn medio\n122\n67\nDelante\n132\n38\nRecepciones de pases entre la línea de medios y la defensiva\n85\n75\nRecepciones entre líneas\n16\n10\nRuptura de líneas\nIntentos de ruptura de líneas\n186\n135\nRupturas de líneas\n121\n74\nIntentos de ruptura de líneas\n27\n18\nRupturas de líneas defensivas\n17\n11\nDisciplina\nTarjetas amarillas\n3\n4\nTarjetas rojas\n0\n0\nFaltas recibidas\n12\n16\nFueras de juego\n1\n0\nDistribución\nPases\n531\n308\nPases completados\n465\n238\nCentros\n15\n20\nCentros completados\n4\n4\nCambios de orientación\n5\n4\nJugadas a balón parado\nSaques de esquina\n7\n4\nLanzamientos de falta\n16\n13\nPenaltis marcados\n0\n0\nDefensa\nAutogoles\n0\n1\nPérdidas de balón provocadas\n39\n40\nPresiones defensivas\n167\n262\nCara a cara\nÚltimas reuniones\nRESULTADOS\nL\nW\nL\nW\nW\nEstadísticas del jugador\nAlexAlex\nFREEMANFREEMAN\n1\nGoles\nChrisChris\nRICHARDSRICHARDS\n93\nPasesPases\nMalikMalik\nTILLMANTILLMAN\n9\nCentrosCentros\nSerginoSergino\nDESTDEST\n3\nRemates a puertaRemates a puerta\nJacobJacob\nITALIANOITALIANO\n11.84\nkm\nDistancia totalDistancia total\nGiovanniGiovanni\nREYNAREYNA\n9.77\nkm/h\nVelocidad mediaVelocidad media\nJacobJacob\nITALIANOITALIANO\n76\nSprintsSprints\nHarryHarry\nSOUTTARSOUTTAR\n24\nIntentos de ruptura de líneasIntentos de ruptura de líneas\nAntoneeAntonee\nROBINSONROBINSON\n20\nRupturas de líneasRupturas de líneas\nWestonWeston\nMcKENNIEMcKENNIE\n59\nTotal de líneas de paseTotal de líneas de pase\nFolarinFolarin\nBALOGUNBALOGUN\n18\nRecepciones de pases entre la línea de medios y la defensivaRecepciones de pases entre la línea de medios y la defensiva\nJordanJordan\nBOSBOS\n15\nPérdidas de balón provocadasPérdidas de balón provocadas\nJacobJacob\nITALIANOITALIANO\n37\nPresiones defensivasPresiones defensivas",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

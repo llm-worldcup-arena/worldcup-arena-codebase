@@ -1,0 +1,16 @@
+{
+ "team": "HAI",
+ "source": "h5.ifeng.com",
+ "url": "https://h5.ifeng.com/c/vivo/v002EBbAW54VLcmRItDbQHHcu4NCNyN2hqXTOmPpj5mv9r0__?isNews=1&showComments=0",
+ "title": "",
+ "news_date": "2026-06-20",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-20",
+ "fetched": "2026-06-20_1556",
+ "method": "jsonld",
+ "status": "blocked",
+ "original_text": "",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

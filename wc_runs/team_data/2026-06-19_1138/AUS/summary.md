@@ -161,7 +161,7 @@
 
 ## 世界杯 2026 · 专项整理
 
-### 🏟 2026-06-13 · 小组赛 · 中(温哥华) vs TUR（2-0）
+### 🏟 2026-06-13 · 第1轮·小组赛 · 中(Vancouver) vs TUR（2-0 胜）
 
 2026年6月13日，世界杯D组首轮，澳大利亚2-0土耳其（半场1-0）。
 
@@ -199,11 +199,3 @@
 85' 换人 Gul(土) 替Akturkoglu(土)  
 86' 黄牌 Akgun(土)  
 86' 扑救 Beach(澳) 扑Calhanoglu(土)任意球
-
-### 📋 赛前 / 通用动态
-**伤停与可用性**：
-- 🏥 McGree(腿筋)缺整届;Souttar 跟腱伤愈复出;⚠️ 头号中锋 Kusini Yengi?——图雷(Toure)临战缺训伤疑、Yengi 候补顶替;预测首发:Ryan 第105场、Souttar/Irvine 中轴(A-Leagues/Sports Mole/Squawka/Goal)
-**状态与细节**：
-- Souttar 回归补强后防高度;Irvine 中场核心;新老结合(Volpato/Yengi 入选)
-**下一场指引**：
-- 今日首战 vs 土耳其(温哥华 BC Place,可开合顶):本队受让 0.5 球;防对方 Güler/Çalhanoğlu 双核,锋线人选(图雷伤疑)是临场变数

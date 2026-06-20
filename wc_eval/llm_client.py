@@ -101,6 +101,36 @@ def _zhipu_search(query, key, timeout=40):
         return f"（搜索失败:{str(e)[:60]}）"
 
 
+def web_search_urls(query, n=12, timeout=150):
+    """通用联网搜索 → 返回 [{title, content, link}] **真实 URL 列表**。全 py 驱动、可复现,不需 agent。
+    主通道 = Apify google-search-scraper(真实 Google 有机结果,质量高);失败回退智谱 /web_search。"""
+    # 主:Apify Google 搜索(真实 Google organic results,FIFA/Sky/ESPN/Guardian 等)
+    try:
+        token = _secret("APIFY_TOKEN")
+        d = _post(f"https://api.apify.com/v2/acts/apify~google-search-scraper/"
+                  f"run-sync-get-dataset-items?token={token}",
+                  {"queries": query, "maxPagesPerQuery": 1, "resultsPerPage": max(n, 10), "countryCode": "us"},
+                  {"Content-Type": "application/json"}, timeout)
+        org = []
+        for it in (d or []):
+            org += it.get("organicResults") or []
+        if org:
+            return [{"title": r.get("title", ""), "content": (r.get("description") or "")[:200],
+                     "link": r.get("url", "")} for r in org[:n] if r.get("url")]
+    except Exception:
+        pass
+    # 回退:智谱搜索端点
+    try:
+        key = _secret("ZHIPU_API_KEY")
+        d = _post("https://open.bigmodel.cn/api/paas/v4/web_search",
+                  {"search_engine": "search_std", "search_query": query},
+                  {"Authorization": f"Bearer {key}"}, 40)
+        return [{"title": r.get("title", ""), "content": (r.get("content") or "")[:200],
+                 "link": r.get("link", "")} for r in (d.get("search_result") or [])[:n] if r.get("link")]
+    except Exception:
+        return []
+
+
 def _glm_search(messages, model, timeout, max_uses):
     """GLM 智谱官方直连（open.bigmodel.cn）联网搜索 —— 函数调用 + 智谱自家 /web_search 执行（DMXAPI 那条托管通道
     无服务端搜索;智谱原生 in-chat web_search 工具实测不稳/易静默假搜,故改由模型自选 query、我方调智谱搜索端点执行,

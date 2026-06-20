@@ -1,0 +1,24 @@
+{
+ "source": "theguardian.com",
+ "url": "https://www.theguardian.com/football/2026/jun/17/austria-jordan-group-j-world-cup-match-report",
+ "title": "Marko Arnautovic adds gloss to scoreline as Austria see off World Cup debutants Jordan",
+ "published": "2026-06-17T06:21:08.000Z",
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-16",
+  "home": "AUT",
+  "away": "JOR",
+  "home_en": "Austria",
+  "away_en": "Jordan",
+  "home_zh": "奥地利",
+  "away_zh": "约旦",
+  "comp": "小组赛·J组",
+  "match_id": "M20",
+  "slug": "2026-06-16_AUT_vs_JOR"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Austria celebrated their long-awaited return to the World Cup with a 3-1 win over determined ⁠debutants Jordan, with substitute Marko Arnautovic the difference in a gritty, end-to-end Group J match.\n\nOn a brisk night in the San Francisco Bay Area, ⁠Austria went ahead with ⁠a 21st minute ​thunderbolt from Romano Schmid before Jordan fought back after the break through Ali Olwan’s exquisite strike in off the post.\n\nThe introduction of Arnautovic at half-time ⁠was decisive for Austria. The 37-year-old striker had a goal disallowed in the 69th minute, then pressured defender Yazan Al-Arab into an own goal seven minutes later before converting ⁠a penalty deep into stoppage time.\n\nAustria midfielder Konrad Laimer said they knew coming into the match how tough ​their opponents would be. “We knew that this was ‌going to be a difficult ‌match ... there were situations where we did a good job, there were phases where we underperformed,” he said.\n\n“What’s ‌important is the mentality of the entire team – we never gave up, we kept going until the end and finally we came out on top.”\n\nJordan defended resolutely and were fierce on the break, with the pace of forwards Olwan and Musa al-Taamari a constant threat to Austria, who were playing at their first World Cup in 28 years.\n\nThe match got off to a frenetic start, ‌with Jordan causing a scare two minutes in with a counter-attack that led to captain Ehsan Haddad blasting low into the side netting.\n\nAustria soon got into their stride, with ​Marcel Sabitzer the central figure in a succession of attacks, and they broke the deadlock on 21 minutes when Schmid found the top corner from outside the box.\n\nJordan pressed hard and found the leveller five minutes after half-time when Olwan powered down the left before firing a sumptuous shot in off the far post.\n\nAustria thought they ⁠were back in front when Arnautovic prodded home a loose ball from close range, ​but the goal was ruled ​out due to a handball by Stefan ​Posch following a VAR review.\n\nThey got the decisive goal when Sabitzer’s corner went in ​off Al Arab, then ‌put the game beyond ​Jordan through Arnautovic’s penalty ​12 minutes into stoppage time.\n\n“We didn’t deserve to lose in our first-ever World Cup appearance – a historic participation for us,” Jordan’s Olwan said. “We still have two matches ahead, and based on what I saw from our team today, we are capable of qualifying.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

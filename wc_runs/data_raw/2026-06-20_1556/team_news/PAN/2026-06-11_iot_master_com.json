@@ -1,0 +1,16 @@
+{
+ "team": "PAN",
+ "source": "iot-master.com",
+ "url": "https://www.iot-master.com/news/149.html",
+ "title": "JN江南·(中国区)体育官方网站-JN SPORTS",
+ "news_date": "2026-06-11",
+ "published": "2026-06-11 22:40:05",
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-20",
+ "fetched": "2026-06-20_1556",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "江南体育官方网站,江南JNSport体育,江南JN,江南JN体育官方网站，致力于提供全方位体育内容服务，整合赛事直播、权威数据与体育资讯，江南JNSport体育为中国用户呈现丰富多彩的运动世界，体验江南品牌独有的专业与热情。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

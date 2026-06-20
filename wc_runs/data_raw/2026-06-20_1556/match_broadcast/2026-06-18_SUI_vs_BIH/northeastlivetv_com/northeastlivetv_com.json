@@ -1,0 +1,24 @@
+{
+ "source": "northeastlivetv.com",
+ "url": "https://northeastlivetv.com/topnews/fifa-world-cup-2026-switzerland-set-unique-record-after-4-1-win-bosnia-and-herzegovina/",
+ "title": "FIFA World Cup 2026: Switzerland set unique record after 4-1 win Bosnia and Herzegovina",
+ "published": "2026-06-19T02:46:28+00:00",
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-18",
+  "home": "SUI",
+  "away": "BIH",
+  "home_en": "Switzerland",
+  "away_en": "Bosnia and Herzegovina",
+  "home_zh": "瑞士",
+  "away_zh": "波黑",
+  "comp": "小组赛·B组",
+  "match_id": "M26",
+  "slug": "2026-06-18_SUI_vs_BIH"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "In addition to the remarkable scoring pattern, the match also set another record, with all five total goals in the game.\n\nSwitzerland created history at the FIFA World Cup 2026 after all four of their goals in a 4-1 victory over Bosnia and Herzegovina came after the 74th minute, marking a first in the tournament’s history, according to ESPN Insights X handle.\n\nThe dramatic late surge saw Switzerland completely overturn the contest in the closing stages, with substitutes Johan Manzambi and Ruben Vargas playing key roles in the turnaround.\n\nIn addition to the remarkable scoring pattern, the match also set another record, with all five total goals in the game coming in the 74th minute or later–the most late-goal-dominated match ever recorded in World Cup history.\n\nSwitzerland initially found it difficult to break down their opponents, but the game turned after the introduction of their substitutes, with Manzambi also playing a key role in Tarik Muharemovic’s red card.\n\nThe Swiss side created limited chances in the first half, with Dan Ndoye and Remo Freuler both coming close but failing to find the target.Bosnia-Herzegovina goalkeeper Vasilj made several important saves early in the second half, including a strong stop to deny Ndoye’s overhead effort and a tight-angled header from Breel Embolo. However, Switzerland gradually increased pressure after the hydration break, while Amar Dedic also tested Gregor Kobel at the other end.Manzambi broke the deadlock shortly after coming on, finishing a rebound volley in the 74th minute after Vargas’ cross caused chaos in the box.\n\nHe soon influenced the game again, providing a key pass that led to Embolo being brought down by Muharemovic, resulting in a straight red card for the defender.\n\nVargas then extended Switzerland’s lead to 3-0 with a composed low finish before Manzambi added his second in the 90th minute to complete a dream spell off the bench.Bosnia-Herzegovina briefly responded through Ermin Mahmic, who scored a powerful late strike, but Switzerland immediately restored control as Granit Xhaka converted a penalty after a foul on Djibril Sow.\n\nThe win took Switzerland to the top of Group B.Despite a quiet first half, Switzerland’s substitutes proved decisive, with Manzambi becoming one of the youngest players to score a brace in World Cup history, highlighting the impact of Murat Yakin’s tactical changes after the break. (ANI)\n\nParaguay held firm to secure a vital win that boosted their hopes of progressing to the Round of 32 while ending Turkiye's campaign.\n\nTurkiye, meanwhile, were already facing mounting pressure after a disappointing 2-0 loss to Australia in their tournament opener.\n\nThe 28-year-old, who had missed the last eight months due to a back injury, registered a foul throw on his first attempt.\n\nThe 18-year-old Barcelona forward said Messi continues to prove his greatness in every match.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

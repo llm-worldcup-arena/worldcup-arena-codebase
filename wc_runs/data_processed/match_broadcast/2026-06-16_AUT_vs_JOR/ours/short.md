@@ -1,0 +1,10 @@
+- 奥地利 3-1 约旦（J组首轮）
+- **第20分钟**：Romano Schmid世界波，奥地利1-0
+- **第50分钟**：Ali Olwan长途奔袭扳平，1-1（约旦队史世界杯首球）
+- **第67分钟**：Marko Arnautovic进球，VAR因Stefan Posch手球取消
+- **第76分钟**：Marcel Sabitzer角球，约旦后卫Yazan Al Arab乌龙，2-1
+- **第90+12分钟**：Saleem Obaid手球，Arnautovic点球命中，3-1
+- **伤退**：约旦后卫Abdallah Nasib（第70分钟被换）
+- **门框**：Mousa Al Tamari第50分钟后头球中横梁
+- **黄牌**：Marcel Sabitzer（奥地利）
+- **状态**：奥地利终结36年世界杯胜利荒；约旦队史世界杯首秀展现反击能力，但防线在定位球出现致命失误

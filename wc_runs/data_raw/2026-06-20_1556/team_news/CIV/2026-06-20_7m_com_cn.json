@@ -1,0 +1,16 @@
+{
+ "team": "CIV",
+ "source": "7m.com.cn",
+ "url": "https://www.7m.com.cn/2026worldcup/news/723125-%E4%B8%96%E4%BD%93%E5%85%AC%E5%B8%83%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BC%A4%E5%81%9C%E5%90%8D%E5%8D%95%E5%A4%9A%E4%BD%8D%E7%90%83%E6%98%9F%E7%A1%AE%E8%AE%A4%E7%BC%BA%E5%B8%AD",
+ "title": "世体公布世界杯伤停名单：多位球星确认缺席 - 7M体育",
+ "news_date": "2026-06-20",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-20",
+ "fetched": "2026-06-20_1556",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "Copyright © 2003 - 2026 版权所有 www.7m.com.cn All Rights Reserved 保留全部权利。\n\n注意：第三方可能会在我们的网站上宣传其产品和/或服务。7M不保证其内容的准确性、充分性或完整性。您与此类第三方之间的交易仅限于您与该第三方之间，我们对您因此遭受的任何损失或损害概不负责。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

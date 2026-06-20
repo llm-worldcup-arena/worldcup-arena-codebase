@@ -1,0 +1,24 @@
+{
+ "source": "rte.ie",
+ "url": "https://www.rte.ie/sport/world-cup-2026/2026/0618/1579201-world-cup-2026-switzerland-v-bosnia-herzegovina-update/",
+ "title": "World Cup 2026: Switzerland 4-1 B-Herzegovina recap",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-18",
+  "home": "SUI",
+  "away": "BIH",
+  "home_en": "Switzerland",
+  "away_en": "Bosnia and Herzegovina",
+  "home_zh": "瑞士",
+  "away_zh": "波黑",
+  "comp": "小组赛·B组",
+  "match_id": "M26",
+  "slug": "2026-06-18_SUI_vs_BIH"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "So that's it. Qatar v Canada, the other game in the group, to come.\n22:25\nAnd no 4\nMature Content\nYou must be over the age of 18 in order to view this content\nLeave\n22:24\nSwiss on a roll - No 3\nMature Content\nYou must be over the age of 18 in order to view this content\nLeave\n22:24\nAnd No 2\nMature Content\nYou must be over the age of 18 in order to view this content\nLeave\n22:01\nGoal No 1 for the Swiss\nMature Content\nYou must be over the age of 18 in order to view this content\nLeave\n22:00\nSwiss subs were instrumental and Johan Manzambi and Ruben Vargas played their part. Bosnia were getting more a foothold before Manzambi's opener.\nBosnia's cause not helped with the sending off of Tarik Muharemovic and will feel disappointed that the gsme got away from them late on.\n21:57\nFULL-TIME: Switzerland 4-1 Bosnia-Herzegovina\n21:57\nSWITZERLAND GOAL - Granit Xhaka\nNo mistake. 4-1\n21:55\nSWITZERLAND PENALTY!\nDjibril Sow taken down by Amar Memic. Spot kick awarded.\n21:53\nBOSNIA GOAL - Ermin Mahmic\n90+3mins: Switzerland 3-1 Bosnia-Herzegovina\nFrom a corner, the ball is punched clear, falls to Mahmic who blasts it home.\n6 mins of added time by the way.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

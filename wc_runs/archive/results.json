@@ -1,126 +1,142 @@
 {
- "_说明": "现实档案:真实赛果,逐日收集。score.py 用它与预测档案对照算分。matches 填比分即可;group_winners 小组赛后填;global 淘汰赛/决赛后填;total_goals 整届打完填。",
- "matches": {
-  "MEX_vs_RSA": {
-   "score": "2-0",
-   "ht": "1-0"
+  "_说明": "现实档案:真实赛果,逐日收集。score.py 用它与预测档案对照算分。matches 填比分即可;group_winners 小组赛后填;global 淘汰赛/决赛后填;total_goals 整届打完填。",
+  "matches": {
+    "MEX_vs_RSA": {
+      "score": "2-0",
+      "ht": "1-0"
+    },
+    "KOR_vs_CZE": {
+      "score": "2-1",
+      "ht": "0-0"
+    },
+    "CAN_vs_BIH": {
+      "score": "1-1",
+      "ht": "0-1"
+    },
+    "USA_vs_PAR": {
+      "score": "4-1",
+      "ht": "3-0"
+    },
+    "QAT_vs_SUI": {
+      "score": "1-1",
+      "ht": "0-1"
+    },
+    "BRA_vs_MAR": {
+      "score": "1-1",
+      "ht": "1-1"
+    },
+    "HAI_vs_SCO": {
+      "score": "0-1",
+      "ht": "0-1"
+    },
+    "AUS_vs_TUR": {
+      "score": "2-0",
+      "ht": "1-0"
+    },
+    "GER_vs_CUW": {
+      "score": "7-1",
+      "ht": "3-1"
+    },
+    "CIV_vs_ECU": {
+      "score": "1-0",
+      "ht": "0-0"
+    },
+    "NED_vs_JPN": {
+      "score": "2-2",
+      "ht": "0-0"
+    },
+    "SWE_vs_TUN": {
+      "score": "5-1",
+      "ht": "2-1"
+    },
+    "KSA_vs_URU": {
+      "score": "1-1",
+      "ht": "1-0"
+    },
+    "ESP_vs_CPV": {
+      "score": "0-0",
+      "ht": "0-0"
+    },
+    "IRN_vs_NZL": {
+      "score": "2-2",
+      "ht": "1-1"
+    },
+    "BEL_vs_EGY": {
+      "score": "1-1",
+      "ht": "0-1"
+    },
+    "FRA_vs_SEN": {
+      "score": "3-1",
+      "ht": "0-0"
+    },
+    "IRQ_vs_NOR": {
+      "score": "1-4",
+      "ht": "1-2"
+    },
+    "ARG_vs_ALG": {
+      "score": "3-0",
+      "ht": "1-0"
+    },
+    "AUT_vs_JOR": {
+      "score": "2-1",
+      "ht": "1-0"
+    },
+    "POR_vs_COD": {
+      "score": "1-1",
+      "ht": "1-1"
+    },
+    "ENG_vs_CRO": {
+      "score": "4-2",
+      "ht": "2-2"
+    },
+    "GHA_vs_PAN": {
+      "score": "1-0",
+      "ht": "0-0"
+    },
+    "UZB_vs_COL": {
+      "score": "1-3",
+      "ht": "0-1"
+    },
+    "CZE_vs_RSA": {
+      "score": "1-1",
+      "ht": "1-0"
+    },
+    "SUI_vs_BIH": {
+      "score": "4-1",
+      "ht": "0-0"
+    },
+    "CAN_vs_QAT": {
+      "score": "6-0",
+      "ht": "3-0"
+    },
+    "MEX_vs_KOR": {
+      "score": "1-0",
+      "ht": "0-0"
+    },
+    "USA_vs_AUS": {
+      "score": "2-0",
+      "ht": "2-0"
+    },
+    "SCO_vs_MAR": {
+      "score": "0-1",
+      "ht": "0-1"
+    },
+    "BRA_vs_HAI": {
+      "score": "3-0",
+      "ht": "3-0"
+    },
+    "TUR_vs_PAR": {
+      "score": "0-1",
+      "ht": "0-1"
+    }
   },
-  "KOR_vs_CZE": {
-   "score": "2-1",
-   "ht": "0-0"
+  "group_winners": {},
+  "global": {
+    "夺冠": null,
+    "进决赛": [],
+    "四强": [],
+    "夺冠大洲": null,
+    "总进球285.5": null
   },
-  "CAN_vs_BIH": {
-   "score": "1-1",
-   "ht": "0-1"
-  },
-  "USA_vs_PAR": {
-   "score": "4-1",
-   "ht": "3-0"
-  },
-  "QAT_vs_SUI": {
-   "score": "1-1",
-   "ht": "0-1"
-  },
-  "BRA_vs_MAR": {
-   "score": "1-1",
-   "ht": "1-1"
-  },
-  "HAI_vs_SCO": {
-   "score": "0-1",
-   "ht": "0-1"
-  },
-  "AUS_vs_TUR": {
-   "score": "2-0",
-   "ht": "1-0"
-  },
-  "GER_vs_CUW": {
-   "score": "7-1",
-   "ht": "3-1"
-  },
-  "CIV_vs_ECU": {
-   "score": "1-0",
-   "ht": "0-0"
-  },
-  "NED_vs_JPN": {
-   "score": "2-2",
-   "ht": "0-0"
-  },
-  "SWE_vs_TUN": {
-   "score": "5-1",
-   "ht": "2-1"
-  },
-  "KSA_vs_URU": {
-   "score": "1-1",
-   "ht": "1-0"
-  },
-  "ESP_vs_CPV": {
-   "score": "0-0",
-   "ht": "0-0"
-  },
-  "IRN_vs_NZL": {
-   "score": "2-2",
-   "ht": "1-1"
-  },
-  "BEL_vs_EGY": {
-   "score": "1-1",
-   "ht": "0-1"
-  },
-  "FRA_vs_SEN": {
-   "score": "3-1",
-   "ht": "0-0"
-  },
-  "IRQ_vs_NOR": {
-   "score": "1-4",
-   "ht": "1-2"
-  },
-  "ARG_vs_ALG": {
-   "score": "3-0",
-   "ht": "1-0"
-  },
-  "AUT_vs_JOR": {
-   "score": "2-1",
-   "ht": "1-0"
-  },
-  "POR_vs_COD": {
-   "score": "1-1",
-   "ht": "1-1"
-  },
-  "ENG_vs_CRO": {
-   "score": "4-2",
-   "ht": "2-2"
-  },
-  "GHA_vs_PAN": {
-   "score": "1-0",
-   "ht": "0-0"
-  },
-  "UZB_vs_COL": {
-   "score": "1-3",
-   "ht": "0-1"
-  },
-  "CZE_vs_RSA": {
-   "score": "1-1",
-   "ht": "1-0"
-  },
-  "SUI_vs_BIH": {
-   "score": "4-1",
-   "ht": "0-0"
-  },
-  "CAN_vs_QAT": {
-   "score": "6-0",
-   "ht": "3-0"
-  },
-  "MEX_vs_KOR": {
-   "score": "1-0",
-   "ht": "0-0"
-  }
- },
- "group_winners": {},
- "global": {
-  "夺冠": null,
-  "进决赛": [],
-  "四强": [],
-  "夺冠大洲": null,
-  "总进球285.5": null
- },
- "total_goals": null
+  "total_goals": null
 }

@@ -1,0 +1,24 @@
+{
+ "source": "ESPN",
+ "url": "https://www.espn.com/soccer/report/_/gameId/760441",
+ "title": "Mexico 1-0 South Korea (Jun 18, 2026) Game Analysis - ESPN",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-18",
+  "home": "MEX",
+  "away": "KOR",
+  "home_en": "Mexico",
+  "away_en": "Korea Republic",
+  "home_zh": "墨西哥",
+  "away_zh": "韩国",
+  "comp": "小组赛·A组",
+  "match_id": "M28",
+  "slug": "2026-06-18_MEX_vs_KOR"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Mexico became the first country to advance to the knockout stage of the World Cup with a 1-0 win over South Korea.\nLuis Romo scored the only goal of tense encounter in Guadalajara to ensure the co-hosts reached the last 32.\nNeither side generated many chances in a dour first half, with Mexico registering only three shots as the teams went in goalless.\nRomo scored in the 50th minute after capitalising on a loose ball spilled by South Korean goalkeeper Kim Seung-gyu after a collision with defender Lee Gi-hyuk in the penalty area.\nDavid Ramos/Getty Images\nRomo made the most of the error, slotting the ball into the unguarded net.\nA brilliant double save from Mexico goalkeeper Raul Rangel in the 87th minute preserved the lead after he stopped a close-range header from Cho Gue-sung and then denied Yang Hyun-jun on the rebound.\nMexico will finish top of Group A - the result ensuring they will play on home soil in the last 32 and last 16 should they progress that far.\nSouth Korea will face South Africa in their final group stage match on Wednesday, with a point almost certain to take them through to the knockout phase.\nMexico coach Javier Aguirre told fifa.com in a post-match press conference: \"It was difficult. We know them very well. They put us under a lot of pressure.\n\"They didn't give us any space, and neither did we. In the end, it felt like one mistake was always going to make the difference one way or the other. It wasn't a great match, and the opposition didn't allow us to do much.\"\nSouth Korea coach Hong Myung-bo said: \"We played just as we planned. The way we conceded was disappointing. We will give everything in the last game of the group stage.\n\"I asked the players to remain calm and play our game. It wasn't bad. We kept our composure throughout the game. We will focus on preparing for the next game now.\"",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

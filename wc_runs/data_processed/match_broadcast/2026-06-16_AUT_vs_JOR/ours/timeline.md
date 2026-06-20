@@ -1,0 +1,6 @@
+15' 扑救 Schlager(奥)
+20' 进球 Schmid(奥)
+50' 进球 Olwan(约)
+67' VAR取消进球 Arnautovic(奥)
+76' 乌龙 Al Arab(约)
+90+12' 点球 Arnautovic(奥)

@@ -1,0 +1,24 @@
+{
+ "source": "eltiempo.com",
+ "url": "https://www.eltiempo.com/deportes/futbol-internacional/colombia-jugo-de-local-en-el-azteca-sufrio-y-gozo-su-debut-en-el-mundial-triunfo-clave-contra-uzbekistan-3565101",
+ "title": "Colombia vs. Uzbekistán: crónica y goles Copa Mundial de la Fifa 2026",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-17",
+  "home": "UZB",
+  "away": "COL",
+  "home_en": "Uzbekistan",
+  "away_en": "Colombia",
+  "home_zh": "乌兹别克斯坦",
+  "away_zh": "哥伦比亚",
+  "comp": "小组赛·K组",
+  "match_id": "M24",
+  "slug": "2026-06-17_UZB_vs_COL"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Colombia jugó de local en el Azteca, sufrió y gozó su debut en el Mundial: triunfo clave contra Uzbekistán\nNéstor Lorenzo, triunfo en el Mundial Foto: AFP\nEDITORA DE FUTBOLRED Y COLUMNISTA17.06.2026 23:25 Actualizado: 17.06.2026 23:39\nEra el mítico estadio Azteca (o Banorte, o Ciudad de México, ya no se sabe con estas decisiones de Fifa), pero parecía cualquiera de Colombia. Un mar de camisetas amarillas que hizo estremecer el escenario y que vibró la primera victoria del equipo de Néstor Lorenzo en el Mundial 2026. Fue un 3-1 a Uzbekistán más sufrido de lo previsto y más por errores propios. Pero igual fue fiesta.\nEl arranque no fue fácil. Uzbekistán, como se esperaba, parqueó el bus. La Selección no empezó bien: Mojica fue amonestado por torpe a los 7 minutos, con James caminando y Lerma y Mojica tensos.\nPero a los 18 minutos se rompió el tedio con un grito que anticipaba una alegría: el robo de Puerta que fue a Arias sacudió la red y alguna cerveza se derramó en vano.\nUzbekistán vs. Colombia. Foto:AFP\nNo exigía mucho Uzbekistán, pero, con todo, a los 30 minutos desactivaba Lucumí una bomba, cuando un mal regreso dejaba expuesto a Vargas.\nEl llamado de atención lo asumió Díaz —como corresponde—, enfilando al área en un hermoso pase de Arias que increíblemente superó al portero y se estrelló con la base del palo.\nUzbekistán vs. Colombia. Foto:AFP\nSaltaban los confiados al ritmo del ‘porropopo, porropopo’ y entonces, lo que vinieron a ver: Luis Díaz, el rostro mismo de un jugador de equipo que teniendo traje de diva elige el de obrero, encontró un espacio libre en la sólida zaga uzbeka y a lo lejos encontró la cara conocida de su gran amigo Daniel Muñoz, quien le apareció por sorpresa y libre de marca para definir, con pirueta incluida, y mandar la pelota al fondo de la red, a los 39 minutos. Así terminó el primer tiempo.\nLa Selección volvió en modo de exceso de confianza y lo pagó carísimo, pues Uzbekistán empató con un gol que nunca mereció: una pelota que debió controlar Camilo Vargas le picó antes, se le elevó al travesaño y ahí, libre de marca, apareció Fayzullaev para empujarla, a los 60.\nColombia contra Uzbekistán Foto:FCFSeleccionCol\nEntonces la tribuna fue clave y el despertar fue inmediato. Así llegó a la escena el más grande acierto de Néstor Lorenzo, la elección de Gustavo Puerta, el que corre por James y por todos, el que con un pase filtrado —¡por fin uno!— encontró a Díaz y apareció en la pantalla, desplomado en el césped, puños apretados, grito y alguna lágrima incontenible para su primer gol en un Mundial. “Oé, oé, oé, Lucho, Lucho”, retumbaba un estadio gigante.\nDebió ser el tercero a los 73 y hasta el cuarto si la indecisión en el cierre no hubiera pasado factura. Pero los suplentes dieron una mano clave: ‘Cucho’ Hernández ganó una pelota y tiró un centro, y Jaminton Campaz metió la cabeza para marcar el tercero, a los 90 + 9.\nColombia goleó a Uzbekistán en el estadio Azteca de Ciudad de México Foto:EFE\nGanar y aprovechar el tropiezo de Portugal demandaba tres puntos que se consiguieron. A Guadalajara parte el sueño, lleno de la sonrisa de Díaz replicada en más de 80.000 de sus compatriotas tan lejos de casa. ¡Así es como se canta, Colombia!\nJenny Gámez\nEditora de Deportes\n@JennyGamezA\nSigue toda la información de Deportes en Facebook y Twitter, o en nuestra newsletter semanal.\nBOLETINES EL TIEMPO\nRegístrate en nuestros boletines y recibe noticias en tu correo según tus intereses. Mantente informado con lo que realmente te importa.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

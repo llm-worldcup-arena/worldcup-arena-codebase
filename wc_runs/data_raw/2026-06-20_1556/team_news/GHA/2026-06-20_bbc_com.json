@@ -1,0 +1,16 @@
+{
+ "team": "GHA",
+ "source": "bbc.com",
+ "url": "https://www.bbc.com/sport/football/articles/cp9ppezl4v1o",
+ "title": "World Cup 2026: Ex-Arsenal midfielder Thomas Partey in preliminary Ghana squad",
+ "news_date": "2026-06-20",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-20",
+ "fetched": "2026-06-20_1556",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "Former Arsenal midfielder Thomas Partey has been named in Ghana's squad for the World Cup.\n\nPartey has pleaded not guilty to seven charges of rape and one count of sexual assault relating to allegations by four different women between 2020 and 2022.\n\nThe 32-year-old, who now plays for La Liga side Villarreal, is due to stand trial next year.\n\nPartey made 167 appearances in all competitions for Arsenal between 2020 and 2025 but left the Gunners last summer after his contract expired.\n\n\"Thomas is our vice-captain. He is one of the top midfielders in the world and we stand by him shoulder to shoulder,\" Ghana FA president Kurt Okraku told BBC Sport.\n\nGhana boss Carlos Queiroz named Partey in a preliminary 28-man squad for a pre-World Cup training camp and friendly against Wales in Cardiff on 2 June (19:45 BST).\n\nPartey remained in the squad as Queiroz left out goalkeepers Solomon Agbasi and Paul Reverson to reach his final 26-man selection.\n\nCentre-back Alexander Djiku has been ruled out after suffering a hamstring injury as his Spartak Moscow team won the Russian Cup final on 24 May so has been replaced by Netherlands-born defender Derrick Luckassen, who made his Ghana debut in March.\n\nManchester City forward Antoine Semenyo and Coventry striker Brandon Thomas-Asante are also included, along with Leicester duo Jordan Ayew and Abdul Fatawu.\n\nJoseph Anang, who plays for League of Ireland Premier Division club St Patrick's Athletic, is one of three goalkeepers in the squad.\n\nTottenham winger Mohammed Kudus missed out with the quad injury which has kept him out of action since January.\n\nGhana begin their World Cup Group L campaign against Panama in Toronto on 17 June before they face England and Croatia in Boston and Philadelphia, respectively.\n\nGoalkeepers: Benjamin Asare (Accra Hearts of Oak SC), Lawrence Ati-Zigi (St Gallen), Joseph Anang (St Patrick's Athletic).\n\nDefenders: Baba Abdul Rahman (PAOK), Gideon Mensah (Auxerre), Marvin Senaya (Auxerre), Alidu Seidu (Rennes), Abdul Mumin (Rayo Vallecano), Jerome Opoku (Istanbul Basaksehir), Jonas Adjetey (Wolfsburg), Kojo Oppong Peprah (Nice), Elisha Owusu (Auxerre), Derrick Luckassen (Pafos).\n\nMidfielders: Thomas Partey (Villarreal), Kwasi Sibo (Real Oviedo), Augustine Boakye (Saint-Etienne), Caleb Yirenkyi (Nordsjaelland), Abdul Fatawu Issahaku (Leicester City).\n\nForwards: Kamaldeen Sulemana (Atalanta), Christopher Bonsu Baah (Al Qadsiah), Ernest Nuamah (Lyon), Antoine Semenyo (Manchester City), Brandon Thomas-Asante (Coventry City), Prince Kwabena Adu (Viktoria Plzen), Inaki Williams (Athletic Bilbao), Jordan Ayew (Leicester City).",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

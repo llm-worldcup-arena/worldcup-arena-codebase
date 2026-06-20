@@ -1,0 +1,24 @@
+{
+ "source": "espn.com",
+ "url": "https://www.espn.com/soccer/report/_/gameId/760443",
+ "title": "Türkiye 0-1 Paraguay (Jun 19, 2026) Game Analysis - ESPN",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-19",
+  "home": "TUR",
+  "away": "PAR",
+  "home_en": "Türkiye",
+  "away_en": "Paraguay",
+  "home_zh": "土耳其",
+  "away_zh": "巴拉圭",
+  "comp": "小组赛·D组",
+  "match_id": "M31",
+  "slug": "2026-06-19_TUR_vs_PAR"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Miguel Almirón became the first player to be sent off for covering his mouth during an altercation with an opponent, but Paraguay clung on for a 1-0 World Cup win over Turkey.\nThe former Newcastle player was dismissed following a VAR review in first-half stoppage time. Almiron had covered his mouth while speaking to Turkey's Baris Yilmaz.\nMatías Galarza gave Paraguay a second-minute lead as he collected a pass from Julio Enciso and fired a low effort into the bottom corner from 20 yards.\nWith both sides having lost their opening game, there was plenty at stake at the San Francisco Bay Area Stadium and the tension soon led to a fiery encounter.\nMert Müldür's header from a free-kick hit the crossbar and post before bouncing away as Turkey came close to a 33rd-minute equaliser.\nGiven their numerical advantage it was no surprise that Turkey dominated the second half, with Orlando Gill saving from Abdülkerim Bardakçi.\nEnciso fired a good chance wide on the counter attack while Can Uzun missed from six yards out at the other end.\nNeeding a goal to maintain any chance of progressing, Turkey became increasingly desperate as Gill denied Uzun and Deniz Gül put the rebound off target. Merih Demiral headed a stoppage-time effort wide as defeat saw Turkey eliminated.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

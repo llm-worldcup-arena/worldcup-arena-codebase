@@ -1,0 +1,24 @@
+{
+ "source": "sports.yahoo.com",
+ "url": "https://sports.yahoo.com/soccer/fifa-world-cup/south-africa-czechia-13587246/",
+ "title": "Czechia 1 - 1 South Africa: Final score, results, recap, box score, stats - Yahoo Sports",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-18",
+  "home": "CZE",
+  "away": "RSA",
+  "home_en": "Czech Republic",
+  "away_en": "South Africa",
+  "home_zh": "捷克",
+  "away_zh": "南非",
+  "comp": "小组赛·A组",
+  "match_id": "M25",
+  "slug": "2026-06-18_CZE_vs_RSA"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Czechia 1 - 1 South Africa: Final score, results, recap, box score, stats\nSubstitution - In\n25 - Kamogelo Sebelebele\nSubstitution - Out\n12 - Thapelo Maseko\nGoal\n4 - Teboho Mokoena\nSubstitution - In\n2 - David Zima\nSubstitution - Out\n12 - Lukas Cerv\nYellow Card\n7 - Ladislav Krejcí II\nSubstitution - In\n22 - Tomas Soucek\nSubstitution - Out\n18 - Michal Sadilek\nSubstitution - In\n17 - Lukas Provod\nSubstitution - Out\n9 - Adam Hlozek\nSubstitution - In\n17 - Evidence Makgopa\nSubstitution - Out\n15 - Iqraam Rayners\nSubstitution - In\n15 - Pavel Sulc\nSubstitution - Out\n8 - Vladimir Darida\nSubstitution - In\n20 - Jaroslav Zeleny\nSubstitution - Out\n24 - Alexandr Sojka\nSubstitution - In\n10 - Relebohile Mofokeng\nSubstitution - Out\n23 - Jayden Adams",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

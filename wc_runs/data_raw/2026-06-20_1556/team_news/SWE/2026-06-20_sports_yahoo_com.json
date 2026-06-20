@@ -1,0 +1,16 @@
+{
+ "team": "SWE",
+ "source": "sports.yahoo.com",
+ "url": "https://sports.yahoo.com/soccer/teams/sweden/injuries/",
+ "title": "Sweden Injuries - Yahoo Sports",
+ "news_date": "2026-06-20",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-20",
+ "fetched": "2026-06-20_1556",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Shohei Ohtani a late scratch vs. Orioles, away from Dodgers on paternity leave\nUSMNT's Christian Pulisic misses Friday's World Cup match against Australia\nTitans, Jeffery Simmons reportedly agree to record-setting $105.8M extension\nMLB to be investigated for religious discrimination over Giants' 'Pride Night' caps\nElmo learns lesson after NBA Finals scandal, throws support behind USMNT",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

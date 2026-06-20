@@ -1,0 +1,24 @@
+{
+ "source": "skysports.com",
+ "url": "https://www.skysports.com/football/news/11095/13552709/world-cup-2026-belgium-1-1-egypt-pharaohs-denied-first-world-cup-win-after-romelu-lukakus-instant-impact",
+ "title": "World Cup 2026: Belgium 1-1 Egypt - Pharaohs denied first World Cup win after Romelu Lukaku's instant impact",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-15",
+  "home": "BEL",
+  "away": "EGY",
+  "home_en": "Belgium",
+  "away_en": "Egypt",
+  "home_zh": "比利时",
+  "away_zh": "埃及",
+  "comp": "小组赛·G组",
+  "match_id": "M16",
+  "slug": "2026-06-15_BEL_vs_EGY"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Egypt were denied a first-ever World Cup win after Romelu Lukaku forced an own-goal equaliser just seconds after coming on to rescue a 1-1 draw for Belgium in their Group G opener. Emam Ashour's superb 19th-minute opener from distance in the searing Seattle heat gave Egypt their first World Cup half-time lead. But the seven-time Africa Cup of Nations winners could not hold on to end their 92-year wait for a first victory at the tournament as Belgium's all-time top scorer Lukaku made an immediate impact off the bench. Just 22 seconds after coming on, the Napoli striker forced a Mohamed Hany own goal from Thomas Meunier's cross in the 66th minute.   Belgium then nearly completed the turnaround, but Egypt goalkeeper Mostafa Shobier superbly saved Brandon Mechele's header, while Lukaku headed over a late chance. An exciting end-to-end contest at Seattle Stadium saw veterans Kevin De Bruyne and Mohamed Salah face off, with both having their moments. On his 34th birthday, Salah gifted Ashour his fine opener to become the first African player on record (since 1966) to register a World Cup goal involvement on their birthday. But De Bruyne did his best to spoil the former Liverpool star's big day as he hit the post with a second-half free-kick before having Belgium's first shot on target as he sparked the Red Devils into life. The 34-year-old, though, needed his Napoli team-mate Lukaku to help salvage a point off the bench as Belgium face Iran next while Egypt take on New Zealand. The key moments from Seattle... 20: GOAL! Ashour hammers home a fine opener for his first Egypt goal. 33: SAVE! Courtois superbly saves Zico's low shot across goal to deny Egypt a second. 45+1: MISS! Doku blazes his close-range volley over as Belgium fail to have a shot on target in the first half. 53: OFF THE POST! De Bruyne hits a free-kick that bends onto the wrong side of the post. 55: IT SHOULD BE 2-0! Courtois pushes Salah's header straight to Ashour, but he lashes wide. 63: BIG CHANCE! De Bruyne has Belgium's first shot on target but he places it straight at the goalkeeper. 66: OWN GOAL EQUALISER! Instant impact from Lukaku just 22 seconds forces a Mohamed Hany own goal. 82: TOP SAVE! Egypt goalkeeper Shobeir denies Mechele's header at full stretch. Analysis: Salah as a No 10 - did Slot and Liverpool miss a trick? Sky Sports' Peter Smith: Another year older, another string to his bow? Mo Salah took up an unfamiliar No 10 role for Egypt against Belgium and it's a move that makes sense. By bringing him inside, Egypt boss Hossam Hassan retained Salah's attacking threat - he found Emam Ashour to score their goal - and was also able to include Mostafa Zico to offer energy up and down the right flank. Too often under Arne Slot at Liverpool last season Salah seemed posted out on the fringes, holding a position too wide to seriously threaten the opposition goal. And that was reflected in his numbers. Defensively, Liverpool's right-back suffered too. Now 34, the Egyptian King isn't going to retain the same capacity for high-intensity runs but he can still use his skill and experience to make an impact in and around the box. That was evidenced by him topping his team's stats for chances created, passing accuracy and fouls won. With talented team-mates around him (including Ashour, Zico and, up top, Omar Marmoush), Salah - still returning to full fitness after his hamstring issue - can play a central role for Egypt in North America. Their wait for a first World Cup win will surely come in their next two games based on this evidence. Belgium boss Garcia: It was a great game Belgium head coach Rudi Garcia: \"The opening match of a competition like the World Cup is always a tough one, especially against one of Africa's top teams like Egypt. \"We managed to equalise thanks to a player who came off the bench, which shows just how important the whole squad is. \"We had chances to win it, but their goalkeeper made some outstanding saves. It was a great game between two very good teams.\"",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

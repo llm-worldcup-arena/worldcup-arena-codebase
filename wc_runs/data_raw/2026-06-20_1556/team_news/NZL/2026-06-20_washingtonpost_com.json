@@ -1,0 +1,16 @@
+{
+ "team": "NZL",
+ "source": "washingtonpost.com",
+ "url": "https://www.washingtonpost.com/sports/soccer/2026/06/15/world-cup-new-zealand-injury-garbett-iran/827afa10-6919-11f1-830e-133d20cadd28_story.html",
+ "title": null,
+ "news_date": "2026-06-20",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-20",
+ "fetched": "2026-06-20_1556",
+ "method": "fail",
+ "status": "blocked",
+ "original_text": "",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

@@ -1,0 +1,24 @@
+{
+ "source": "sports.yahoo.com",
+ "url": "https://sports.yahoo.com/soccer/fifa-world-cup/norway-iraq-13587257/",
+ "title": "Iraq 1 - 4 Norway: Final score, results, recap, box score, stats - Yahoo Sports",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-16",
+  "home": "IRQ",
+  "away": "NOR",
+  "home_en": "Iraq",
+  "away_en": "Norway",
+  "home_zh": "伊拉克",
+  "away_zh": "挪威",
+  "comp": "小组赛·I组",
+  "match_id": "M18",
+  "slug": "2026-06-16_IRQ_vs_NOR"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Iraq 1 - 4 Norway: Final score, results, recap, box score, stats\nGoal\n18 - Aymen Hussein\nYellow Card\n4 - Zaid Tahseen\nSubstitution - In\n6 - Patrick Berg\nSubstitution - Out\n10 - Martin Odegaard\nSubstitution - In\n10 - Mohanad Ali\nSubstitution - Out\n8 - Ibrahim Bayesh\nGoal\n4 - Leo Ostigard\nAssist\n10 - Martin Odegaard\nSubstitution - In\n25 - Mustafa Saadoon\nSubstitution - Out\n3 - Hussein Ali\nSubstitution - In\n22 - Oscar Bobb\nSubstitution - Out\n7 - Alexander Sorloth\nSubstitution - In\n11 - Ahmed Qasem\nSubstitution - Out\n17 - Ali Jassim\nSubstitution - In\n4 - Leo Ostigard\nSubstitution - Out\n5 - David Moller Wolfe\nSubstitution - In\n18 - Kristian Thorstvedt\nSubstitution - Out\n14 - Fredrik Aursnes\nSubstitution - In\n21 - Andreas Schjelderup\nSubstitution - Out\n20 - Antonio Nusa\nSubstitution - In\n21 - Marko Farji\nSubstitution - Out\n9 - Ali Al-Hamadi\nSubstitution - In\n14 - Zidane Iqbal\nSubstitution - Out\n24 - Zaid Ismael",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

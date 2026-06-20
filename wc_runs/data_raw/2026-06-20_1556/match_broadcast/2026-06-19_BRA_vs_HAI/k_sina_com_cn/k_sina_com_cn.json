@@ -1,0 +1,24 @@
+{
+ "source": "k.sina.com.cn",
+ "url": "http://k.sina.com.cn/article_1831538920_m6d2b10e803301gs7e.html?cre=tianyi&mod=pcspth&loc=10&r=0&rfunc=99&tj=cxvertical_pc_spth&tr=181&from=sports&subch=osport",
+ "title": "巴西3比0胜海地，世界杯C组第二轮激战落幕|比利时足球|国际足联|德国足球|美加墨世界杯|巴西足球队_新浪新闻",
+ "published": "2026-06-20 11:08:30",
+ "tier": "3",
+ "lang": "zh",
+ "match": {
+  "date": "2026-06-19",
+  "home": "BRA",
+  "away": "HAI",
+  "home_en": "Brazil",
+  "away_en": "Haiti",
+  "home_zh": "巴西",
+  "away_zh": "海地",
+  "comp": "小组赛·C组",
+  "match_id": "M29",
+  "slug": "2026-06-19_BRA_vs_HAI"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "当下世界杯激战正酣！C组第二轮#巴西vs海地# 3：0结束。精彩比赛是靠超强球队撑起来滴！当今世界上最强的10支国家足球队排行榜，你觉得2026世界杯谁最有可能夺冠？.\nVideo Player is loading.\n00:00/00:00\n当前音量:0%\nLoaded: 0.00%\n05:32\n50% 75% 100%\n视频加载失败，请查看其他精彩视频\n特别声明：以上文章内容仅代表作者本人观点，不代表新浪网观点或立场。如有关于作品内容、版权或其它问题请于作品发表后的30日内与新浪网联系。\n来自于：河南\n联系我们 | 广告营销 | 通行证注册\n产品答疑 | 招聘信息 | 网站律师\nSINA English",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

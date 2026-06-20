@@ -1,0 +1,16 @@
+{
+ "team": "CRO",
+ "source": "m.qiumiwu.com",
+ "url": "https://m.qiumiwu.com/team/keluodiya1/news",
+ "title": "克罗地亚最新消息资讯【男足世界杯球队百科】 - 球迷屋",
+ "news_date": "2026-06-20",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-20",
+ "fetched": "2026-06-20_1556",
+ "method": "jsonld",
+ "status": "blocked",
+ "original_text": "",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

@@ -1,0 +1,16 @@
+{
+ "team": "CIV",
+ "source": "rotowire.com",
+ "url": "https://www.rotowire.com/soccer/headlines/evan-ndicka-injury-opener-absence-confirmed-519341",
+ "title": "Evan N'Dicka Injury: Opener absence confirmed | RotoWire",
+ "news_date": "2026-06-20",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-20",
+ "fetched": "2026-06-20_1556",
+ "method": "jsonld:articleBody",
+ "status": "ok",
+ "original_text": "N'dicka had initially been given a recovery timeline of up to four weeks, but the defender has not progressed quickly enough to be available for the tournament opener in Philadelphia. Manager Emerse Fae confirmed that N'dicka is the only player unavailable from the squad, with the remainder of the group fit for selection. The 26-year-old has become a key figure in Ivory Coast's back line over the past two years, making his absence a significant setback heading into one of the most important matches of the group stage. Odilon Kossounou is expected to step into the starting lineup and partner either Ousmane Diomande or Emmanuel Agbadou in central defense against Ecuador.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

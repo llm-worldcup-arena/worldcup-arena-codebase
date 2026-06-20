@@ -1,0 +1,24 @@
+{
+ "source": "nytimes.com",
+ "url": "https://www.nytimes.com/athletic/football/game/saudi-arabia-vs-uruguay/razWtx0nMcvtRTfz/",
+ "title": "Saudi Arabia vs Uruguay Box Score - June 15, 2026 - The Athletic",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-15",
+  "home": "KSA",
+  "away": "URU",
+  "home_en": "Saudi Arabia",
+  "away_en": "Uruguay",
+  "home_zh": "沙特阿拉伯",
+  "away_zh": "乌拉圭",
+  "comp": "小组赛·H组",
+  "match_id": "M13",
+  "slug": "2026-06-15_KSA_vs_URU"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Saudi Arabia hold Uruguay to draw. Weren't there supposed to be 'underdogs' in Group H?\n\nAnybody else having a ton of difficulty watching the games on the Fox Sports app? Just going to watch in Spanish on peacock because it's significantly better quality.\n\nWe just lost the Fox channel on Hulu. Now only on Telemundo, which sort of seems like an upgrade.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

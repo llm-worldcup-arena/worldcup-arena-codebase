@@ -1,0 +1,16 @@
+{
+ "team": "GER",
+ "source": "foxsports.com",
+ "url": "https://www.foxsports.com/stories/soccer/germany-delays-world-cup-squad-reveal-give-injured-players-more-time",
+ "title": "Germany Delays World Cup Squad Reveal To Give Injured Players More Time | FOX Sports",
+ "news_date": "2026-06-20",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-20",
+ "fetched": "2026-06-20_1556",
+ "method": "jsonld:articleBody",
+ "status": "ok",
+ "original_text": "Germany has postponed its World Cup squad announcement by nine days to take account of the last day of the Bundesliga and give more time for injured players to show their fitness. Germany coach Julian Nagelsmann was due to name his squad in Frankfurt on May 12, but it was pushed back on Tuesday to May 21. Gathering the squad has also been delayed for two days to May 27. The last round of the Bundesliga is on May 16, while the German Cup final between Bayern Munich and Stuttgart – likely to feature many Germany call-ups – is on May 23. World Cup preparations were due to start in the Bavarian resort of Herzogenaurach on May 25, but Nagelsmann likely wants to give his Bayern and Stuttgart players a longer rest beforehand. If Bayern makes it to the Champions League final on May 30, then any Germany players from the team will join their international colleagues only afterward. Germany is to play World Cup warm-ups against Finland in Mainz on May 31, then the United States in Chicago on June 6. Four-time champion Germany faces Ivory Coast, Ecuador and newcomer Curaçao in Group E at the World Cup. Bayern forward Serge Gnabry has been ruled out of the tournament, while young Bayern teammate Lennart Karl faces a race to be fit. Reporting by The Associated Press.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

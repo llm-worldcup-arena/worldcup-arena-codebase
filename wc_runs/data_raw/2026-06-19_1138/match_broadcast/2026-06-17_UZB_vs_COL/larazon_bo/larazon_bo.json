@@ -1,0 +1,24 @@
+{
+ "source": "larazon.bo",
+ "url": "https://larazon.bo/marcas/2026/06/17/vivo-colombia-ya-juega-contra-uzbekistan-en-mexico-df/",
+ "title": "Victoria fenomenal de Colombia de 3-1 sobre Uzbekistán - La Razón",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-17",
+  "home": "UZB",
+  "away": "COL",
+  "home_en": "Uzbekistan",
+  "away_en": "Colombia",
+  "home_zh": "乌兹别克斯坦",
+  "away_zh": "哥伦比亚",
+  "comp": "小组赛·K组",
+  "match_id": "M24",
+  "slug": "2026-06-17_UZB_vs_COL"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "«Estuvo cerrado, pero se logró el debut que queríamos. Se jugó bien con riesgos grandes», afirmó el DT Néstor Lorenzo.\nJaminton Campaz marca el tercer gol de Colombia a los 58’ST, con el que derrotó por 3-1 a Uzbekistán en su estreno mundialista.\n20’ST Implacable, la experiencia y jerarquía de Luis Díaz para anotar el 2-1 a los Sudamericanos, ante dudas del arquero rival.\n15’ST Abbosbek Fayzullaev empata en un ataque sorpresivo.\n45’PT Gran habilitación de Díaz, para que Daniel Múñoz anote el 1-0 para Colombia.\n35’PT, Gran accionar de Arias, que habilitó a Luis Díaz, quien ganó las espaldas, remató y el balón se estrelló en uno de los palos del arco rival.\n15’PT John Arias remató y el balón se fue cerca del palo izquierdo. Pudo ser el primero ante mala salida de la defensa uzbeka.\nEl seleccionado cafetalero la tiene complicada con los asiáticos, que cada vez se animan más a jugar de tu a tu contra su adversario.\nEl último seleccionado de Conmebol debuta en Norteamérica 2026, Colombia ya juega contra Uzbekistán en México DF por el grupo K\nCon todo su poderío liderado por James Rodríguez y Luis Díaz, el seleccionado cafetalero comienza su participación ilusionada con una gran actuación.\n«Estuvo cerrado, pero se logró el debut que queríamos. Se jugó bien con riesgos grandes», afirmó el DT Néstor Lorenzo.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

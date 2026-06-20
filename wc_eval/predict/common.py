@@ -246,6 +246,11 @@ _HANDICAP = {
     ("SCO", "MAR"): +0.5,    # 摩洛哥(客)让0.5(MAR -134 ML 小热、预选5场仅失1球;苏格兰火力不足、最可能摩1-0;Yahoo/compare.bet/johnnybet)
     ("TUR", "PAR"): -0.5,    # 土耳其 -0.5(明示"0.5-goal favorite";TUR +105 微热 vs PAR +285、均0分生死战;Covers/BetMGM/Squawka)
     ("USA", "AUS"): -0.5,    # 美国 -0.5(主场西雅图;USA -165 ML、算法胜率75%;澳洲爆冷2-0胜土;FanDuel/CBS,与USA-PAR -0.5同档)
+    # —— 6/20(多源核对 2026-06-20;正值=主队受让) ——
+    ("GER", "CIV"): -1.0,    # 德国 -1(GER -180 ML、首战7-1血洗库拉索;科特迪瓦中游、6/14平厄瓜多尔;lineups/SportsInteraction)
+    ("ECU", "CUW"): -2.0,    # 厄瓜多尔 -2(ECU -900 ML 巨热 vs CUW +2000;库拉索最小参赛国、刚0-7负德国;与GER-CUW/ESP-CPV同档)
+    ("NED", "SWE"): -0.5,    # 荷兰 -0.5(NED -135 ML 小热;瑞典 +340、力拼;与 NED-JPN -0.5同档)
+    ("TUN", "JPN"): +0.5,    # 日本(客)让0.5(JPN -190 ML 客胜热门;突尼斯 +525 名义主队、蒙特雷;lineups)
 }
 
 

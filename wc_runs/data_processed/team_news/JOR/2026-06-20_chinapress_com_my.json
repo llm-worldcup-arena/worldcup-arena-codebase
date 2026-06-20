@@ -1,0 +1,16 @@
+{
+ "team": "JOR",
+ "source": "chinapress.com.my",
+ "url": "https://www.chinapress.com.my/20260603/2026%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BD%9C%E6%96%B0%E5%86%9B%E7%BA%A6%E6%97%A6%E5%85%AC%E5%B8%83%E5%90%8D%E5%8D%95%E3%80%802%E5%90%8D%E9%9B%AA%E5%85%B0%E8%8E%AA%E5%A4%96/",
+ "title": null,
+ "news_date": "2026-06-20",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-20",
+ "fetched": "2026-06-20_1556",
+ "method": "fail",
+ "status": "blocked",
+ "original_text": "",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

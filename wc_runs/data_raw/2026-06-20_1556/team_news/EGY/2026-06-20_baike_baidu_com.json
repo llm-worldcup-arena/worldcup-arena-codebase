@@ -1,0 +1,16 @@
+{
+ "team": "EGY",
+ "source": "baike.baidu.com",
+ "url": "https://baike.baidu.com/item/%E5%9F%83%E5%8F%8A%E5%9B%BD%E5%AE%B6%E7%94%B7%E5%AD%90%E8%B6%B3%E7%90%83%E9%98%9F/2577287",
+ "title": null,
+ "news_date": "2026-06-20",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-20",
+ "fetched": "2026-06-20_1556",
+ "method": "fail",
+ "status": "blocked",
+ "original_text": "",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

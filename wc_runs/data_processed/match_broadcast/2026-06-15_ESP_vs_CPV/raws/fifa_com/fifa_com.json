@@ -1,0 +1,24 @@
+{
+ "source": "fifa.com",
+ "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/spain-cabo-verde-highlights-match-report",
+ "title": "Spain 0-0 Cabo Verde | Match report and highlights",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-15",
+  "home": "ESP",
+  "away": "CPV",
+  "home_en": "Spain",
+  "away_en": "Cape Verde",
+  "home_zh": "西班牙",
+  "away_zh": "佛得角",
+  "comp": "小组赛·H组",
+  "match_id": "M14",
+  "slug": "2026-06-15_ESP_vs_CPV"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Blue Sharks produce sensational defensive performance to secure 0-0 draw against European champions in Atlanta.\nSpain 0-0 Cabo VerdeSpain 0-0 Cabo Verde\nFIFA World Cup™ debutants Cabo Verde produced an extraordinary performance to secure a 0-0 draw with global heavyweights Spain.\nA nation of just over 500,000 people, they held out against Luis de la Fuente’s star-studded team, recording a result which will reverberate around planet football.\nCabo Verde were superbly organised from back to front. While Spain predictably enjoyed the lion’s share of possession, they were frustrated for large periods by their spirited and fiercely-determined opponents.\nLa Roja’s clearest first-half opening came when Ferran Torres struck the crossbar after being set up by Marc Cucurella. The ball rebounded to Mikel Oyarzabal, whose instinctive header forced an outstanding save from Vozinha. The 40-year-old Cabo Verde goalkeeper was in inspired form, and he made a tremendous sprawling stop to keep out Aymeric Laporte’s header on the stroke of half-time.\nThe Blue Sharks had some sporadic forays into the attacking third, too, giving their defenders some much-needed respite.\nEarly in the second period, Fabian Ruiz curled an effort over the bar from range, but a Spanish onslaught did not materialise as Cabo Verde continued to stand firm.\nOn 71 minutes, De la Fuente called for Lamine Yamal off the bench – and the teenage sensation’s presence immediately changed the complexion of the game. Spain’s attacks now had an extra degree of dynamism and unpredictability, but Cabo Verde marshalled him well and gilt-edged chances still proved tough to come by.\nOyarzabal had another opportunity late in the piece, but shot off target as Cabo Verde held on to bank a sensational point.\nKey statKey stat\nCabo Verde's World Cup qualification was built on their outstanding backline. They recorded seven clean sheets in their ten qualifiers.\nMichelob Ultra Superior Player of the MatchMichelob Ultra Superior Player of the Match\nVozinha (Cabo Verde)\nWhat they said...What they said...\n“We worked a lot for this. We knew we were playing against one of the best national teams in the world but we also know our quality. We worked a lot for this big day. We knew it was going to be very difficult but we’re very happy.” Vozinha, Cabo Verde goalkeeper and Michelob Ultra Superior Player of the Match\n\"The team tried, I think we had good fluidity. It's about fine-tuning those chances we created, because against a team that sits back so much you're not going to have many, and you know you have to take them. It's that simple.\" Rodri, Spain midfielder\n\"In our heads there’s positivity and a desire to improve. We should have won today’s match with everything that happened, with all the favourable situations we created, but we lacked freshness and clinical edge. We need to keep growing and gaining rhythm. That’s the big goal in the days we have until the next game. The opponent was a very physically strong team. We knew they were going to set up with a very low block and with very powerful players. If you add to that the fact that we lacked freshness, then this happens. Football is like that – there are no small opponents here.\"",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

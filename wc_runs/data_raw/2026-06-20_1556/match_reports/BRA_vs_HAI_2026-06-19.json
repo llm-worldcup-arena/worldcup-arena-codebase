@@ -1,0 +1,386 @@
+{
+ "match_id": "4627883",
+ "date": "2026-06-19",
+ "comp": "世界杯·C组",
+ "ha_home": "中",
+ "home": "BRA",
+ "away": "HAI",
+ "score": "3-0",
+ "venue": "Lincoln Financial Field (Philadelphia)",
+ "attendance": 68324,
+ "goals": [
+  {
+   "min": 23,
+   "side": "home",
+   "player": "Matheus Cunha",
+   "sub": null
+  },
+  {
+   "min": 36,
+   "side": "home",
+   "player": "Matheus Cunha",
+   "sub": null
+  },
+  {
+   "min": 45,
+   "side": "home",
+   "player": "Vinicius Júnior",
+   "sub": null
+  }
+ ],
+ "cards": [
+  {
+   "min": 4,
+   "side": "away",
+   "player": "Carlens Arcus",
+   "type": "黄牌"
+  },
+  {
+   "min": 45,
+   "side": "away",
+   "player": "Frantzdy Pierrot",
+   "type": "黄牌"
+  },
+  {
+   "min": 66,
+   "side": "home",
+   "player": "Douglas Santos",
+   "type": "黄牌"
+  },
+  {
+   "min": 72,
+   "side": "away",
+   "player": "Danley Jean Jacques",
+   "type": "黄牌"
+  }
+ ],
+ "stats": {
+  "射门": [
+   "8",
+   "7"
+  ],
+  "射正": [
+   "5",
+   "3"
+  ],
+  "禁区内射门": [
+   "2",
+   "3"
+  ],
+  "扑救": [
+   "1",
+   "1"
+  ],
+  "角球": [
+   "4",
+   "4"
+  ],
+  "越位": [
+   "8",
+   "4"
+  ],
+  "控球%": [
+   "57%",
+   "43%"
+  ],
+  "传中": [
+   "102",
+   "98"
+  ],
+  "传球": [
+   "462",
+   "331"
+  ],
+  "xG预期进球": [
+   "1.18",
+   "0.35"
+  ],
+  "xGOT/大机会": [
+   "2.31",
+   "0.43"
+  ]
+ },
+ "lineups": {
+  "home": [
+   {
+    "no": 1,
+    "name": "Alisson"
+   },
+   {
+    "no": 16,
+    "name": "Douglas Santos"
+   },
+   {
+    "no": 3,
+    "name": "Gabriel Magalhaes"
+   },
+   {
+    "no": 4,
+    "name": "Marquinhos"
+   },
+   {
+    "no": 13,
+    "name": "Danilo"
+   },
+   {
+    "no": 20,
+    "name": "Lucas Paquetá"
+   },
+   {
+    "no": 5,
+    "name": "Casemiro"
+   },
+   {
+    "no": 8,
+    "name": "Bruno Guimarães"
+   },
+   {
+    "no": 7,
+    "name": "Vinicius Júnior"
+   },
+   {
+    "no": 9,
+    "name": "Matheus Cunha"
+   },
+   {
+    "no": 11,
+    "name": "Raphinha"
+   },
+   {
+    "no": 22,
+    "name": "Gabriel Martinelli"
+   },
+   {
+    "no": 19,
+    "name": "Endrick"
+   },
+   {
+    "no": 26,
+    "name": "Rayan"
+   },
+   {
+    "no": 2,
+    "name": "Éderson"
+   },
+   {
+    "no": 18,
+    "name": "Danilo"
+   },
+   {
+    "no": 17,
+    "name": "Fabinho"
+   },
+   {
+    "no": 21,
+    "name": "Luiz Henrique"
+   },
+   {
+    "no": 24,
+    "name": "Roger Ibanez"
+   },
+   {
+    "no": 6,
+    "name": "Alex Sandro"
+   },
+   {
+    "no": 25,
+    "name": "Igor Thiago"
+   },
+   {
+    "no": 15,
+    "name": "Leo Pereira"
+   },
+   {
+    "no": 12,
+    "name": "Weverton"
+   },
+   {
+    "no": 23,
+    "name": "Ederson Moraes"
+   },
+   {
+    "no": 14,
+    "name": "Bremer"
+   }
+  ],
+  "away": [
+   {
+    "no": 1,
+    "name": "Johny Placide"
+   },
+   {
+    "no": 5,
+    "name": "Hannes Delcroix"
+   },
+   {
+    "no": 4,
+    "name": "Ricardo Ade"
+   },
+   {
+    "no": 22,
+    "name": "Jean-Kevin Duverne"
+   },
+   {
+    "no": 8,
+    "name": "Martin Experience"
+   },
+   {
+    "no": 2,
+    "name": "Carlens Arcus"
+   },
+   {
+    "no": 15,
+    "name": "Ruben Providence"
+   },
+   {
+    "no": 10,
+    "name": "Jean-Ricner Bellegarde"
+   },
+   {
+    "no": 17,
+    "name": "Danley Jean Jacques"
+   },
+   {
+    "no": 21,
+    "name": "Josue Casimir"
+   },
+   {
+    "no": 20,
+    "name": "Frantzdy Pierrot"
+   },
+   {
+    "no": 11,
+    "name": "Louicius Deedson"
+   },
+   {
+    "no": 7,
+    "name": "Derrick Etienne Jr."
+   },
+   {
+    "no": 18,
+    "name": "Wilson Isidor"
+   },
+   {
+    "no": 16,
+    "name": "Lenny Joseph"
+   },
+   {
+    "no": 25,
+    "name": "Dominique Simon"
+   },
+   {
+    "no": 9,
+    "name": "Duckens Nazon"
+   },
+   {
+    "no": 23,
+    "name": "Josue Duverger"
+   },
+   {
+    "no": 19,
+    "name": "Yassin Fortune"
+   },
+   {
+    "no": 13,
+    "name": "Markhus Lacroix"
+   },
+   {
+    "no": 14,
+    "name": "Leverton Pierre"
+   },
+   {
+    "no": 24,
+    "name": "Wilguens Paugain"
+   },
+   {
+    "no": 26,
+    "name": "Olivier Pierre"
+   },
+   {
+    "no": 12,
+    "name": "Alexandre Pierre"
+   },
+   {
+    "no": 6,
+    "name": "Carl Sainte"
+   },
+   {
+    "no": 3,
+    "name": "Keeto Thermoncy"
+   }
+  ]
+ },
+ "missing": [
+  {
+   "side": "home",
+   "no": 10,
+   "name": "Neymar",
+   "reason": "Calf Injury"
+  },
+  {
+   "side": "away",
+   "no": -1,
+   "name": "Duckens Nazon",
+   "reason": "Physical discomfort"
+  }
+ ],
+ "events": [
+  {
+   "min": 4,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Carlens Arcus"
+  },
+  {
+   "min": 23,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Matheus Cunha"
+  },
+  {
+   "min": 36,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Matheus Cunha"
+  },
+  {
+   "min": 45,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Vinicius Júnior"
+  },
+  {
+   "min": 45,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Frantzdy Pierrot"
+  },
+  {
+   "min": 66,
+   "side": "home",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Douglas Santos"
+  },
+  {
+   "min": 72,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Danley Jean Jacques"
+  }
+ ],
+ "injuries": [],
+ "suspensions": [],
+ "ratings": {},
+ "quotes": [],
+ "narrative": "",
+ "prediction_note": "",
+ "_note": "macheta/Sofascore 权威硬数据；injuries/suspensions/ratings/quotes/narrative/prediction_note 待 agent WebSearch 补。",
+ "ht": "3-0"
+}

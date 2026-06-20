@@ -1,0 +1,24 @@
+{
+ "source": "fifa.com",
+ "url": "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021440",
+ "title": "Czechia v South Africa 1-1 | Result, Stats & Highlights | First Stage | FIFA World Cup 2026™ | FIFA",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-18",
+  "home": "CZE",
+  "away": "RSA",
+  "home_en": "Czech Republic",
+  "away_en": "South Africa",
+  "home_zh": "捷克",
+  "away_zh": "南非",
+  "comp": "小组赛·A组",
+  "match_id": "M25",
+  "slug": "2026-06-18_CZE_vs_RSA"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Czechia v South Africa 1-1 | Result, Stats & Highlights | First Stage | FIFA World Cup 2026™\nLive Statistics\nAttacking\nPossession\n32%\n60%\n8% in contest\nGoal\nTotal\n1\n1\nConceded\n1\n1\nInside the Penalty Area\n1\n1\nOutside the Penalty Area\n0\n0\nAssists\n1\n0\nAttempts at Goal\nTotal\n14\n17\nOn Target\n3\n4\nOff Target\n5\n6\nInside the Penalty Area\n11\n6\nOutside the Penalty Area\n3\n11\nFinal Third Entries\nLeft Channel\n18\n14\nLeft Inside Channel\n7\n8\nCentral Channel\n7\n7\nRight Inside Channel\n3\n10\nRight Channel\n7\n15\nOffers to Receive\nTotal\n261\n472\nIn Behind\n76\n138\nIn Between\n119\n181\nIn Front\n66\n153\nReceptions Between Midfield and Defensive Lines\n89\n95\nReceptions Behind the Defensive Line\n7\n8\nLine Breaks\nAttempted Line Breaks\n174\n193\nCompleted Line Breaks\n105\n127\nAttempted Defensive Line Breaks\n17\n14\nCompleted Defensive Line Breaks\n6\n8\nDiscipline\nYellow Cards\n1\n2\nRed Cards\n0\n0\nFouls Against\n12\n10\nOffsides\n2\n3\nDistribution\nPasses\n352\n584\nPasses Completed\n279\n518\nCrosses\n15\n16\nCrosses Completed\n8\n3\nSwitches of Play Completed\n4\n6\nSet Plays\nCorners\n5\n5\nFree Kicks\n13\n13\nPenalties Scored\n0\n1\nDefending\nOwn Goals\n0\n0\nForced Turnovers\n41\n44\nPressing Applied\n343\n233",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

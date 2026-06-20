@@ -1,0 +1,16 @@
+{
+ "team": "POR",
+ "source": "tw.sports.yahoo.com",
+ "url": "https://tw.sports.yahoo.com/news/%E4%B8%96%E7%95%8C%E7%9B%83-%E8%85%BF%E5%82%B7%E6%9C%AA%E7%99%92-c%E7%BE%85%E7%BC%BA%E9%99%A3%E8%91%A1%E8%90%84%E7%89%99%E7%86%B1%E8%BA%AB%E8%B3%BD-%E4%B8%BB%E5%B8%A5%E6%8E%9B%E4%BF%9D%E8%AD%89-%E5%8F%83%E8%B3%BD%E7%84%A1%E8%99%9E-160446663.html",
+ "title": null,
+ "news_date": "2026-06-20",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-20",
+ "fetched": "2026-06-20_1556",
+ "method": "fail",
+ "status": "blocked",
+ "original_text": "",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

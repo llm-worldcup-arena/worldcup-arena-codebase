@@ -1,0 +1,24 @@
+{
+ "source": "fifa.com",
+ "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/france-senegal-highlights-match-report",
+ "title": "France 3-1 Senegal | Match report and highlights",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-16",
+  "home": "FRA",
+  "away": "SEN",
+  "home_en": "France",
+  "away_en": "Senegal",
+  "home_zh": "法国",
+  "away_zh": "塞内加尔",
+  "comp": "小组赛·I组",
+  "match_id": "M17",
+  "slug": "2026-06-16_FRA_vs_SEN"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Kylian Mbappe scored twice as France powered past Senegal in the opening game of Group I.\nFrance goals: Mbappe (66, 90+6), Barcola (82) Senegal goal: Ibrahim Mbaye (90+5)\nKylian Mbappe scored a brilliant brace to become France's all-time leading scorer with 58 goals as Les Bleus got their FIFA World Cup 2026™ campaign up and running with a thrilling victory over Senegal.\nThe France captain's double ensured there would be no repeat of his country’s loss to the West Africans in 2002 – Les Bleus’ only opening-game defeat in their previous eight global tournaments – to cap a much-improved second half from the two-time winners.\nAnd yet it was Pape Thiaw's team who carried the initial threat in New York New Jersey. The ball wouldn't go in for Nicolas Jackson after his shot beat Mike Maignan, deflecting unfavourably off both post and goalkeeper. Then, when it did go in, Jackson was offside. Ismaila Sarr also sent a good chance over.\nHowever, Desire Doue's warning shot after half-time heralded the French charge. Michael Olise and Mbappe forced excellent saves from Edouard Mendy. Then Olise's clever pass set up Mbappe to fire past Mendy and equal Olivier Giroud's record 57 strikes for France.\nMbappe then entered the history books outright with a super shot from outside the box after substitute Bradley Barcola and Ibrahim Mbaye had traded impressive late goals of their own.\nThe next target for Mbappe will be Miroslav Klose’s record 16 World Cup finals goals. The Frenchman currently has 14 in the global showpiece.\nKey statKey stat\nThis was Didier Deschamps’ 20th World Cup match as head coach, drawing him level with Bora Milutinovic, Oscar Tabarez and Mario Zagallo. Only three coaches have managed more games in the tournament.\nMichelob Ultra Superior Player of the MatchMichelob Ultra Superior Player of the Match\nMichael Olise (France)\nLoaded: 0%\n0:00\nProgress: 0%\n0:00\nProgress: 0%\n00:00 / 02:00\n/\nDuration Time 2:00\nRemaining Time -2:00\nFIFA Power Rankings explainedFIFA Power Rankings explained\nWhat they said...What they said...\n\"I play to make my mark on my country’s history, to ensure my team reaches the final and wins the World Cup. The rest will simply be part of who I am and my career.\" Kylian Mbappe, France captain, on becoming Les Bleus' record goalscorer\n\"It gives us a bit more peace of mind, although you're never really relaxed at a World Cup. We've seen it with the other teams – winning is never easy. It wasn't straightforward today, but we know we're capable of scoring at any moment. We have to stay calm and composed, stick to what we need to do, because everything happens so quickly at a World Cup. Now our focus shifts to the match against Iraq.\" Kylian Mbappé, France forward, speaking to M6\n\"We weren't able to execute our game plan. We knew we had to raise our level in the second half and be more clinical going forward. We only managed to do that in spells, whereas against teams like this you have to be meticulous and leave nothing to chance because you're up against pure talent. The first game is behind us now, we have to learn from it and turn our attention to Norway.\" Edouard Mendy, Senegal goalkeeper, speaking to beIN Sports\n\"It's a bit of a relief. We were a little apprehensive at the start. Changing Ousmane's [Dembele] and Michael's [Olise] positions made a big difference. It's always important to win your opening match. That's the magic of football when you get to share those emotions. It's only the first game, but we're going to enjoy it.\" Didier Deschamps, France coach, speaking to M6\nTICKETSTICKETS\nHOSPITALITYHOSPITALITY\nSTADIUM TOURSSTADIUM TOURS",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

@@ -1,0 +1,24 @@
+{
+ "source": "espn.com",
+ "url": "https://www.espn.com/soccer/match/_/gameId/760433/algeria-argentina",
+ "title": "Argentina 3-0 Algeria (Jun 16, 2026) Final Score - ESPN",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-16",
+  "home": "ARG",
+  "away": "ALG",
+  "home_en": "Argentina",
+  "away_en": "Algeria",
+  "home_zh": "阿根廷",
+  "away_zh": "阿尔及利亚",
+  "comp": "小组赛·J组",
+  "match_id": "M19",
+  "slug": "2026-06-16_ARG_vs_ALG"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "0.10\nxG\n0.26\nxGOT\n24 yds\nDistance\nRegular Play\nSituation\nLeft Foot\nShot Type\nHigh Right\nGoal Zone\nOff Target\n2 of 17\nNo shot data\n37'\n0 yds\nDistance\n-\nSituation\n-\nShot Type\n-\nGoal Zone\nOff Target\n3 of 17\n41'\n0.03\nxG\n0.00\nxGOT\n14 yds\nDistance\nRegular Play\nSituation\nRight Foot\nShot Type\n-\nGoal Zone\nOff Target\n4 of 17\n42'\n0.02\nxG\n0.00\nxGOT\n31 yds\nDistance\nRegular Play\nSituation\nRight Foot\nShot Type\nHigh Right\nGoal Zone\nOff Target\n5 of 17\n44'\n0.04\nxG\n0.00\nxGOT\n30 yds\nDistance\nRegular Play\nSituation\nRight Foot\nShot Type\n-\nGoal Zone\nOff Target\n6 of 17\n45'\n0.01\nxG\n0.00\nxGOT\n19 yds\nDistance\nRegular Play\nSituation\nRight Foot\nShot Type\nClose Right\nGoal Zone\nBlocked\n7 of 17\n45'+4'\n0.04\nxG\n0.00\nxGOT\n21 yds\nDistance\nRegular Play\nSituation\nLeft Foot\nShot Type\nLow Left\nGoal Zone\nOff Target\n8 of 17\n45'+5'\n0.05\nxG\n0.00\nxGOT\n13 yds\nDistance\nRegular Play\nSituation\nHeader\nShot Type\n-\nGoal Zone\nOff Target\n9 of 17\n51'\n0.07\nxG\n0.00\nxGOT\n25 yds\nDistance\nRegular Play\nSituation\nLeft Foot\nShot Type\nHigh Left\nGoal Zone\nSaved\n10 of 17\n54'\n0.12\nxG\n0.35\nxGOT\n18 yds\nDistance\nRegular Play\nSituation\nRight Foot\nShot Type\nLow Left\nGoal Zone\nBlocked\n11 of 17\n57'\n0.04\nxG\n0.00\nxGOT\n26 yds\nDistance\nRegular Play\nSituation\nRight Foot\nShot Type\nLow Centre\nGoal Zone\nSaved\n12 of 17\n60'\n0.03\nxG\n0.01\nxGOT\n30 yds\nDistance\nRegular Play\nSituation\nRight Foot\nShot Type\nLow Centre\nGoal Zone\nGoal\n13 of 17\n60'\n0.63\nxG\n0.93\nxGOT\n10 yds\nDistance\nRegular Play\nSituation\nRight Foot\nShot Type\nLow Right\nGoal Zone\nSaved\n14 of 17\n66'\n0.13\nxG\n0.07\nxGOT\n20 yds\nDistance\nRegular Play\nSituation\nLeft Foot\nShot Type\nHigh Centre\nGoal Zone\nOff Target\n15 of 17\n69'\n0.06\nxG\n0.00\nxGOT\n25 yds\nDistance\nRegular Play\nSituation\nRight Foot\nShot Type\nClose Left\nGoal Zone\nGoal\n16 of 17\n76'\n0.09\nxG\n0.59\nxGOT\n20 yds\nDistance\nRegular Play\nSituation\nLeft Foot\nShot Type\nLow Left\nGoal Zone\nBlocked\n17 of 17\n86'\n0.10\nxG\n0.00\nxGOT\n25 yds\nDistance\nFree Kick\nSituation\nLeft Foot\nShot Type\nLow Centre\nGoal Zone\nTeam Stats\n1.26\nExpected Goals\n0.32\n48%\nPossession\n52%\n6 (60%)\nShots on Goal\n1 (0%)\n0\nBig Chances Created\n0\n0\nBig Chances Missed\n0\n504 (90%)\nAccurate Passes\n563 (92%)\n39\nDuels Won\n43\n0\nSaves\n3\n13\nFouls Committed\n8\nData is currently unavailable.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

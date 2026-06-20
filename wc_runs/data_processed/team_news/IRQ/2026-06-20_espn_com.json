@@ -1,0 +1,16 @@
+{
+ "team": "IRQ",
+ "source": "espn.com",
+ "url": "https://www.espn.com/soccer/stats/_/league/FIFA.WORLDQ.UEFA/view/scoring",
+ "title": null,
+ "news_date": "2026-06-20",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-20",
+ "fetched": "2026-06-20_1556",
+ "method": "fail",
+ "status": "blocked",
+ "original_text": "",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

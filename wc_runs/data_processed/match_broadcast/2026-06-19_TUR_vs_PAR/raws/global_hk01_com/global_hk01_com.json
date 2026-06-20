@@ -1,0 +1,24 @@
+{
+ "source": "global.hk01.com",
+ "url": "https://global.hk01.com/article/60360549",
+ "title": "土耳其对巴拉圭2026世界杯｜国家足球队球员名单出炉+直播时间",
+ "published": "2026-06-20T02:36:44.000Z",
+ "tier": "3",
+ "lang": "zh",
+ "match": {
+  "date": "2026-06-19",
+  "home": "TUR",
+  "away": "PAR",
+  "home_en": "Türkiye",
+  "away_en": "Paraguay",
+  "home_zh": "土耳其",
+  "away_zh": "巴拉圭",
+  "comp": "小组赛·D组",
+  "match_id": "M31",
+  "slug": "2026-06-19_TUR_vs_PAR"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "世界杯2026，土耳其对巴拉圭于6月20日香港时间上午11时，于San Francisco Bay Area Stadium举行，Now618/616直播播放。\n土耳其对巴拉圭直播边度睇？\n平台：NOW 618/616台\n时间：6月20日上午11时\n组别：D\n土耳其队｜球员名单阵容\n世界杯2026土耳其｜足球排名+外围赛表现+出线形势\n门将：\n23 乌古简卡基（Ugurcan CAKIR）\n后卫：\n3 美列迪美罗（Merih DEMIRAL）\n14 巴达卡治（Abdulkerim BARDAKCI）\n18 梅迪穆度亚（Mert MULDUR）\n20 卡迪奥卢（Ferdi KADIOGLU）\n中场：\n10 查汉奴古（Hakan CALHANOGLU）\n16 约锡克（Ismail YUKSEK）\n前锋：\n7 艾度路高奴（Kerem AKTURKOGLU）\n8 艾达古拿（Arda GULER）\n11 基伦耶迪斯（Kenan YILDIZ）\n19 尤奴斯艾根（Yunus AKGUN）\n2026世界杯决赛周参赛球队：土耳其（Getty Images）\n巴拉圭队｜球员名单阵容\n世界杯2026巴拉圭｜足球排名+外围赛表现+出线形势\n门将：\n12 奥兰度基尔（Orlando Gill）\n后卫：\n3 奥马阿达雷迪（Omar Alderete）\n4 桑卡沙利斯（Juan José Cáceres）\n6 祖利亚阿朗素（Júnior Alonso）\n15 古斯达禾高美斯（Gustavo Gómez）\n中场：\n8 迪亚高高美斯（Diego Gómez）\n10 米基尔阿米朗（Miguel Almirón）\n14 安达斯古巴斯（Andrés Cubas）\n23 马迪亚斯加拉萨（Matías Galarza）\n前锋：\n19 祖利奥安斯素（Julio Enciso）\n25 伊斯度比达（Isidro Pitta）\n2026世界杯决赛周参赛球队：巴拉圭（Getty Images）",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

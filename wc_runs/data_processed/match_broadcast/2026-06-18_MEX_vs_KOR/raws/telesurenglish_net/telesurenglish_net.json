@@ -1,0 +1,24 @@
+{
+ "source": "telesurenglish.net",
+ "url": "https://www.telesurenglish.net/mexico-beats-south-korea-1-0-at-2026-fifa-world-cup-game/",
+ "title": "Mexico Beats South Korea 1-0 at 2026 FIFA World Cup Game - teleSUR English",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-18",
+  "home": "MEX",
+  "away": "KOR",
+  "home_en": "Mexico",
+  "away_en": "Korea Republic",
+  "home_zh": "墨西哥",
+  "away_zh": "韩国",
+  "comp": "小组赛·A组",
+  "match_id": "M28",
+  "slug": "2026-06-18_MEX_vs_KOR"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "The match was tightly contested with alternating dominance. Mexico pressed early but failed to create clear chances, and South Korea balanced the game after 10 minutes.\n\nIn the 87th minute, Mexican goalkeeper Raúl Rangel saved a shot from Cho Gue-sung, denying South Korea the equalizer. The match was ultimately decided by the single goalkeeping error.\n\nIn the final Group A match on June 24, Mexico will face the Czech Republic at Mexico City’s Estadio Azteca, while South Korea will play South Africa in Monterrey. President Sheinbaum wrote on social media: “Congratulations to our National Team. Their triumph fills all of Mexico with pride.”",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

@@ -1,0 +1,24 @@
+{
+ "source": "france24.com",
+ "url": "https://www.france24.com/en/sport/20260617-world-cup-2026-resilient-dr-congo-hold-off-ronaldo-s-portugal-onslaught",
+ "title": "World Cup 2026: Resilient DR Congo hold off Ronaldo's Portugal onslaught - France 24",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-17",
+  "home": "POR",
+  "away": "COD",
+  "home_en": "Portugal",
+  "away_en": "DR Congo",
+  "home_zh": "葡萄牙",
+  "away_zh": "刚果（金）",
+  "comp": "小组赛·K组",
+  "match_id": "M23",
+  "slug": "2026-06-17_POR_vs_COD"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "World Cup 2026: Resilient DR Congo hold off Ronaldo's Portugal onslaught\nPortugal failed to break down a courageous and well-organised DR Congo on Wednesday despite overwhelming dominance.\nThe Seleçao made a blistering start in Houston, with João Neves rising highest from a lofted pass by Pedro Neto in the sixth minute to head past goalkeeper Mpasi Nzau. Portugal, led by a 41-year-old Cristiano Ronaldo, controlled possession from the outset and imposed a suffocating midfield fuelled by PSG talent that dictated play.\nTheir approach was tactical: they constantly ran the Congolese defenders ragged, using their technical superiority to create space and tire opponents in preparation for late opportunities. The Portuguese dominated with about 75% possession, displaying some of the tournament's most flowing football.\nWatch moreWorld Cup 2026: France and Kylian Mbappé off to flying start\nDR Congo showed early promise when Wissa sent a header inches wide of the left post in the 11th minute after receiving a pinpoint cross, and Bakambu's mid-range strike was blocked by the Portuguese defence moments later. But Portugal kept a grip on the game as the team played with an aesthetic quality that set them apart from the competition.\nLes Léopards' vulnerabilities lay in their transition play. Their passes rarely reached the attacking duo with rhythm or incisiveness. Bakambu and Wissa found themselves under constant pressure from Portugal's defensive lines, which compressed space and neutralised their threat. Yet the African underdogs remained dangerous, and Wissa broke Portuguese resistance with a magnificent header in the fifth minute of added time of the first half.\nChances squandered in closing stages\nPortugal's second-half adjustments saw Francisco Conceição replace Bernardo Silva at half-time, followed by the introductions of Rafael Leão for Pedro Neto and Nelson Semedo for Nuno Mendes in the 72nd minute. Mendes had picked up a knock in the 59th minute.\nRonaldo squandered a golden opportunity in the 69th minute when his shot crept just past the right post after controlling a pass inside the box in a moment that could have changed the match. A VAR review denied Cancelo a goal for offside in the 55th minute. In the 74th minute, Ronaldo received a sweet pass, but his effort was blocked by the Congolese defence.\nWatch moreMessi becomes joint World Cup all-time scorer with hat trick against Algeria\nIn the closing stages, Portugal desperately pressed for a winner. Bruno Fernandes came agonisingly close in the 90+1st minute, finding himself unmarked at the edge of the box after receiving a cross, but his attempt sailed just wide of the right post.\nThe draw leaves both teams with work to do. Both sides now face challenges in a competitive Group K that also includes Colombia and Uzbekistan.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

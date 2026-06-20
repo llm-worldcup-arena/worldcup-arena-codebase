@@ -1,0 +1,24 @@
+{
+ "source": "aljazeera.com",
+ "url": "https://www.aljazeera.com/sports/2026/6/20/cunha-hits-brazil-double-against-haiti-to-seal-first-world-cup-2026-win",
+ "title": "Cunha hits Brazil double against Haiti to seal first World Cup 2026 win",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-19",
+  "home": "BRA",
+  "away": "HAI",
+  "home_en": "Brazil",
+  "away_en": "Haiti",
+  "home_zh": "巴西",
+  "away_zh": "海地",
+  "comp": "小组赛·C组",
+  "match_id": "M29",
+  "slug": "2026-06-19_BRA_vs_HAI"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Manchester United’s Matheus Cunha scores Brazil’s first two goals in 3-0 win against Haiti as FIFA event progress nears.\n\nVinicius Junior scored and assisted on one of Matheus Cunha’s two goals as five-time champion Brazil eliminated Haiti from the World Cup with a 3-0 victory .\n\nHaiti, the Western Hemisphere’s poorest nation that qualified for the World Cup for the first time since 1974, became the first team guaranteed not to reach the knockout round. Meanwhile, the Selecao got the decisive performance they needed on Friday.\n\nCunha, the Manchester United standout, got the start and showed with every surf-and-slide goal celebration why he should have been in the starting lineup in Brazil’s listless 1-1 draw against Morocco. Brazil coach Carlo Ancelotti made the surprising decision in the opener to instead insert Cunha as a late substitute.\n\nCunha thrilled the Brazilian fans who made up the bulk of the 68,324 spectators at Philadelphia Stadium when he tapped in a rebound for his first career World Cup goal. He then sent a left-footed strike into the upper left corner for a 2-0 lead in the first half against the overmatched Haitians.\n\nBrazil forward Raphinha, who was subbed out with an injury in the first half, had an early goal disallowed on an offside call that only temporarily muted the yellow-clad Selecao fans in an otherwise festive atmosphere at the home of the two-time Super Bowl champion Philadelphia Eagles — whose cheerleaders did their part to rally the crowd.\n\nHaitian fans danced and sang “Grenadye Alaso” (“Grenadiers to the Attack”), the traditional battle cry of the national team. Brazilians chanted back, reminding them their country is the five-time World Cup champion and the home of the king of football: “A thousand goals, a thousand goals, a thousand goals, a thousand goals, a thousand goals! Only Pele, only Pele!”\n\nCunha added to the frivolity in Philadelphia, home to nearly 6,000 Brazilian immigrants, when he flashed his familiar surfing celebration.\n\nVinicius, whose 32nd-minute goal helped Brazil earn the tie against Morocco, helped Brazil get on the board when his shot was stopped by goalkeeper Johny Placide, and Cunha was there to slam home the rebound to make it 1-0. Cunha extended both arms as if trying to catch some tasty waves and was mobbed by his teammates.\n\nVinicius slid a pass through the defence to find Cunha, and he powered one high into the net that Placide never had a chance to stop to make it 2-0. Cunha slid on his stomach and mimicked a swimming motion that all but put Haiti in the drink — and validated the Brazilians’ fans’ decision not to tempt fate and dress the Rocky statue in team gear for bad luck.\n\nVinicius closed the half with a goal, and that was enough to keep Brazil — seeking its first World Cup title since 2002 — happy before it closes Group C play against Scotland on Wednesday in Miami Gardens, Florida.\n\nNeymar was ruled out of Brazil’s second straight match because of a lingering calf injury.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

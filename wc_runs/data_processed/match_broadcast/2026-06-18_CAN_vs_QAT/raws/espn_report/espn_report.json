@@ -1,0 +1,24 @@
+{
+ "source": "ESPN",
+ "url": "https://www.espn.com/soccer/report/_/gameId/760440",
+ "title": "Canada 6-0 Qatar (Jun 18, 2026) Game Analysis - ESPN",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-18",
+  "home": "CAN",
+  "away": "QAT",
+  "home_en": "Canada",
+  "away_en": "Qatar",
+  "home_zh": "加拿大",
+  "away_zh": "卡塔尔",
+  "comp": "小组赛·B组",
+  "match_id": "M27",
+  "slug": "2026-06-18_CAN_vs_QAT"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Canada claimed their first World Cup win in style with a 6-0 thrashing of nine-man Qatar in front of a raucous home crowd in Vancouver - although a serious-looking injury to Ismaël Koné threatened to overshadow the result.\nThe co-hosts were aided throughout by some poor Qatar defending and red cards to defender Homam al Amin and midfielder Assim Madibo - the latter for a challenge which appeared to leave Kone with a broken leg.\nAfter both sides exchanged chances to open the scoring, Canada went ahead in the 15th minute through Cyle Larin and very quickly made it two when Juventus forward David's volley flew past the outstretched hands of Qatari goalkeeper Mahmud Abunada.\nErcin Erturk/Anadolu via Getty Images\nThe first red came just after the half-hour mark, when VAR upgraded Al Amin's last-gasp challenge on Tajon Buchanan. Referee Cristian Garay had initially given a penalty and yellow card but the tackle was ruled to be just outside the box, causing the card to be upgraded, with the extra man paying dividends just before half-time when David pounced on a rebound to nab his second.\nThe second half began in nightmarish fashion for both sides as Madibo was sent from the field for an aggressive challenge on midfielder Kone, who was stretchered off with what appeared to be a serious leg injury.\nSubstitute Nathan Saliba brought some joy back for Canada in the 65th minute, finding the back of the net from a free-kick and immediately rushing to his bench to raise a jersey with Kone's name and number on the back.\nThe result was rudimentary from there, with Jacob Shaffelburg and a late hat-trick for David extending the lead for the host nation.\nCanada now know that one more point will see them finish top of Group B, with their final group stage game coming against Switzerland on Wednesday.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

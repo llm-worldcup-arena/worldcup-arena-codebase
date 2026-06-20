@@ -1,0 +1,16 @@
+{
+ "team": "CZE",
+ "source": "flashscore.com",
+ "url": "https://www.flashscore.com/team/czech-republic/6LHwBDGU/news/",
+ "title": "Czech Republic news - Football, Europe",
+ "news_date": "2026-06-20",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-20",
+ "fetched": "2026-06-20_1556",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "Retrouvez nos conseils sur www.joueurs-info-service.fr (09-74-75-13-13, appel non surtaxé)\n\n18+ | Erlaubtes Glücksspiel gemäß der Whitelist | Suchtrisiken | Hilfe unter buwei.de\n\n21+ Участь в азартних іграх може викликати ігрову залежність.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

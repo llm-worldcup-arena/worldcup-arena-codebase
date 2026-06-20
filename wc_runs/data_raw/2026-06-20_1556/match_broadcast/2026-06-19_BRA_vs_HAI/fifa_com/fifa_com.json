@@ -1,0 +1,24 @@
+{
+ "source": "fifa.com",
+ "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/brazil-haiti-match-for-peace",
+ "title": "Brazil | Haiti | Match for Peace | FIFA World Cup 2026",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-19",
+  "home": "BRA",
+  "away": "HAI",
+  "home_en": "Brazil",
+  "away_en": "Haiti",
+  "home_zh": "巴西",
+  "away_zh": "海地",
+  "comp": "小组赛·C组",
+  "match_id": "M29",
+  "slug": "2026-06-19_BRA_vs_HAI"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "The Seleção brought Haiti to a standstill when they came over to the crisis-hit nation for a humanitarian friendly match in 2004.\nFor 90 minutes, Brazil and Haiti will do battle to try to make it out of Group C at the FIFA World Cup 2026™. Yet the teams meeting in Philadelphia on Friday share a bond that goes far beyond football and transcends any form of competition.\nHaitians have never forgotten that Brazil extended them a helping hand 22 years ago, when the Caribbean nation was going through a turbulent period marked by armed groups fighting for power.\nBrazil was leading the United Nations peacekeeping mission in the country, which saw them bring over the Seleção team that had lifted their fifth FIFA World Cup™ trophy just two years earlier.\nPlayed on 18 August 2004, the fixture became known as the ‘Match for Peace’ and remains one of the most significant events in Haitian football history.\n“I remember Ronaldo saying that the team had not received the level of affection they were getting from the Haitian people during the celebrations across Brazil after winning the World Cup,” former Brazil midfielder Roger told FIFA.\n“They were people who had suffered enormously, but they were overcome with happiness to be alongside that Brazil team.“\nThe result – a 6-0 win for Brazil – was almost irrelevant compared to the joy felt by the local population at seeing some of the world’s greatest players in person rather than only on television.\n“The stadium was completely packed,” former midfielder Edu Gaspar recalled. “I expected them to know Ronaldo, Ronaldinho, Roberto Carlos and the biggest stars, but they chanted the names of every player in the Brazil squad. They knew all of us. And they celebrated every one of our goals.”\nFormer Haiti international James Marcelin, who scored Haiti’s only goal against Brazil when the teams met at the Copa America Centenario in 2016, was unable to attend the match but he still remembers the excitement surrounding the occasion.\n“I watched it on television when I was a kid,” he said. “It was special. The idea was to promote peace in the country. Haiti was going through a critical period, so it meant a lot. They arrived in tanks and everything – it was unbelievable.”\nOne of the most iconic images from Brazil’s visit to Haiti was the journey from the airport to the centre of Port-au-Prince. The players travelled around 15 kilometres atop Urutu armoured vehicles belonging to the Brazilian Army, receiving a hero’s welcome from an estimated one million Haitians lining the streets.\n“We had to stop the vehicles several times because people were throwing themselves in front of us,” Edu remembered. “They wanted to get closer, to touch our hands.”\nSeven members of Brazil’s World Cup-winning squad featured in the friendly: Juliano Belletti, Juan, Roque Junior, Roberto Carlos, Gilberto Silva, Ronaldinho and Ronaldo.\nFor Haiti, one notable figure was defender Pierre Richard Bruny, the nation’s all-time record appearance holder with 95 caps. Bruny would later help Haiti win the 2007 Caribbean Cup and remained part of the national team until 2010.\nBrazilian President Luiz Inacio Lula da Silva, who travelled with the delegation, urged the team to adopt a diplomatic approach and avoid overwhelming the hosts with a heavy defeat. Despite the appeal, Brazil scored six times – three goals from Ronaldinho, two from Roger and one from Nilmar.\n“It was a wonderful occasion,” Roger said. “We gave them what they wanted to see on the pitch. We put on a show.”\nAs one of the aims of the match was to encourage disarmament among the Haitian population, tickets were not sold through traditional channels. Instead, some were exchanged for surrendered weapons, allowing supporters to watch some of the world’s finest players while contributing to the initiative. Around 15,000 people attended the match at Stade Sylvio Cator.\nIn recognition of the game’s humanitarian impact, the Brazilian Football Association (CBF) received the FIFA Fair Play Award in 2004. The trophy was presented later that year at the same ceremony where Ronaldinho was crowned FIFA World Player of the Year.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

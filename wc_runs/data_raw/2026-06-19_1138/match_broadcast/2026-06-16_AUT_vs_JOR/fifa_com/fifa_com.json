@@ -1,0 +1,24 @@
+{
+ "source": "fifa.com",
+ "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/austria-jordan-highlights-match-report",
+ "title": "Austria 3-1 Jordan | Match report and highlights",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-16",
+  "home": "AUT",
+  "away": "JOR",
+  "home_en": "Austria",
+  "away_en": "Jordan",
+  "home_zh": "奥地利",
+  "away_zh": "约旦",
+  "comp": "小组赛·J组",
+  "match_id": "M20",
+  "slug": "2026-06-16_AUT_vs_JOR"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Debutants Jordan put up a terrific fight, but Austria ultimately had just enough to make sure of all three points on their World Cup return.\nAustria 3-1 JordanAustria 3-1 Jordan\nAustria goals: Schmid (20), Al Arab own goal (76), Arnautovic (90+12 pen) Jordan goal: Ali Olwan (50)\nAustria's first match at the FIFA World Cup™ in 28 years ended with a hard-fought victory over Jordan, thanks to a first-half strike from Romano Schmid, an own goal by Jordan defender Yazan Al Arab and a Marko Arnautovic penalty deep into injury time.\nDebutants Jordan started brightly and carved out the first half-chance of the game in just the second minute at San Francisco Bay Area Stadium, but captain Ehsan Haddad fired his effort into the side-netting.\nOdeh Fakhouri then sent another warning shot a quarter of an hour later, but his strike from distance was tipped over the bar by Austria goalkeeper Alexander Schlager.\nIt was instead Austria that took the lead in the 20th minute, when Schmid whipped an unstoppable drive into the back of the net from the edge of the area.\nParity was restored five minutes into the second period, after a terrific solo effort from Ali Olwan.\nThe Nashama No9 carried the ball forward after being played into the Austria half by Noor Al Rawabdeh and, after breaking into the penalty area, he jinked inside and bent an inch-perfect shot home to create history and become the first Jordanian to score at the World Cup.\nArnautovic thought he had re-established Austria’s lead in the 67th minute, stabbing in after the ball broke to him in the six-yard box when Jordan goalkeeper Yazeed Abulaila failed to get enough purchase on a punch clear at a corner, but after a VAR on-field review the effort was ruled out for a handball in the build-up by Stefan Posch.\nArnautovic and his team-mates were celebrating again soon afterwards though, when the unfortunate Al Arab headed into his own net to put Austria back in front.\nThe veteran then added the gloss as he rifled in from the penalty spot in the 12th minute of time added on.\nKey statKey stat\nAustria have now played 30 FIFA World Cup matches, and not a single one of them has finished goalless.\nSuperior Player of the MatchSuperior Player of the Match\nAli Olwan (Jordan)\nLoaded: 0%\n0:00\nProgress: 0%\n0:00\nProgress: 0%\n00:00 / 02:00\n/\nDuration Time 2:00\nRemaining Time -2:00\nFIFA Power Rankings explainedFIFA Power Rankings explained\nWhat they said...What they said...\n\"It was a hard-fought win today, and we’re simply delighted to have started the tournament with a victory. It obviously gives us momentum and now we can calmly prepare for the next game. There’s still a long way to go in this tournament, so now it’s about taking the right things from this match and preparing as well as possible for Argentina.\" Alexander Schlager, Austria goalkeeper\n\"We’ve achieved our first objective. We wanted to start this tournament with a win. The fact that we managed to do that today is a huge relief, and we’re obviously very happy. Now we can focus on our next objective.\" David Alaba, Austria captain\n\"I think what we were missing is scoring our chances. But we learn from this game. I think in big games if you only have three or four chances, you need to score two of them. But we did our best, it's our debut [at the World Cup]. We are very proud of our fans, and I hope next game we are going to make them happy.\"",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

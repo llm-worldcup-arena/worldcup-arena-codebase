@@ -85,11 +85,12 @@ python3 fetch_sources.py --match <id> --urls urls.json
 - 🚫 **别把"已定"写成"不确定"**：权威**多数一致**(≥2 源同值、无同级多数反对)→ 正文**直接陈述定值**，不夹"（X 记 67'；Y 记 66'）"这类注记（教训：MEX-RSA 曾写"FIFA+Sky+DD 确认 67'；仅 AP 记 66'"——三家权威一致还摆出不确定的样子）。**真分歧**（权威各执一词、无多数）→ 正文取多数/主依源的**单一值**，分歧只集中写在文末「存疑」段；timeline 行内也不夹注。
 
 ## 并入主流程（融合机制）
-本子项目已并入主项目增量更新流程，但**子项目文件夹不变 = 赛事播报类信息的单一真源**，规则：
-1. **没做过**（该场无 `ours/long.md`）→ 主流程自动先完整跑本子项目（找源→抓原文→macheta→合成 long/short/timeline/data），然后 team_data 块B 从 ours 取。
-2. **做过 → 绝不 remake**。主流程本轮普通检索若捞到该场**新的**播报类信息：新源原文**扩充进本场 `raws/`**（只增不改），再走一步 **LLM 判断**——对比新信息与现有 ours（long/short/timeline 都是 LLM 合成物）：**有实质增量才修改 ours**（并在该场记录改了什么），无增量则只留 raws 不动 ours。
+本子项目已**真正接进** matchday 自动流程(2026-06-19 接线 = `bg_collect/broadcast_round.py`,由 matchday ⑤ 调;此前只有 `broadcast_synth` 散步骤、未串成主流程,导致 6/15 起播报漏采的 bug)。**子项目文件夹不变 = 赛事播报类信息的单一真源**,规则:
+0. **找源 URL 是 agent 在 ⓪b 做的**(WebSearch 权威赛报,写进 `data_raw/<ts>/_broadcast_urls/<Mid>.json`,与 team_news 的 URL 发现同构)——这是唯一需 agent 的环节;其余(抓→合成→归档→嵌块B)全 py、`broadcast_round.py` 自动串。
+1. **没做过**（该场无 `ours/long.md`）→ `broadcast_round` 自动:`fetch_sources`(读 ⓪b 的 urls)抓原文→`broadcast_synth` 合成 long/short/timeline→`archive_broadcast_raws` 归档→`wc2026_build.append_block_b` 把该队**所有已踢场**重嵌块B(从 ours 单一真源生成,可复现)。
+2. **做过 → 绝不 remake**。本轮普通检索若捞到该场**新的**播报类信息:新源原文**扩充进本场 `raws/`**（只增不改），`--refresh` 才重合成 ours。
 3. **raw 写入主项目（增量归档,版本语义勿破坏）**：子项目按【场次】累积、data_raw 按【采集时刻】切片——`archive_broadcast_raws()` 只归档**尚未在 data_raw 任何时分出现过的源** → 每个源文件只在【它被收集的那个时分目录】出现一次：首次收集→全部源进当时时分；1 小时后再来(扩充了新源)→**只有新源进新时分目录**，旧源绝不重复归档、也绝不混进旧时刻目录。没有新源 → 不建目录。
-4. 开关 `config/wc_pipeline.json` 的 `auto_run_match_broadcast`（默认 off）：off=主流程只**复用已有**播报（不跑不扩充）；on=按上面 1/2 自动跑与扩充。
+4. 开关 `config/wc_pipeline.json` 的 `auto_run_match_broadcast`（**2026-06-19 起默认 on**）：on=按上面自动跑与扩充；off=只**复用已有**(不跑不扩充)。**硬门禁 `bg_collect/broadcast_preflight.py`**:预测前强制"每已结算场都有 ours/long.md + 两队块B 均已嵌",不达标拒预测。
 
 ---
 

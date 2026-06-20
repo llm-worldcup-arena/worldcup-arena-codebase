@@ -1,0 +1,24 @@
+{
+ "source": "163.com",
+ "url": "https://www.163.com/dy/article/KVKV30TJ05299JMD.html",
+ "title": "2026世界杯奥地利3-1击败约旦",
+ "published": "2026-06-17T16:20:57+08:00",
+ "tier": "3",
+ "lang": "zh",
+ "match": {
+  "date": "2026-06-16",
+  "home": "AUT",
+  "away": "JOR",
+  "home_en": "Austria",
+  "away_en": "Jordan",
+  "home_zh": "奥地利",
+  "away_zh": "约旦",
+  "comp": "小组赛·J组",
+  "match_id": "M20",
+  "slug": "2026-06-16_AUT_vs_JOR"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "2026年FIFA世界杯J组较量中，世界杯新军约旦对阵奥地利。约旦队拼劲十足，拿出了亮眼表现，不过最终仍没能阻挡对手攻势，以1-3不敌奥地利。马尔科·阿瑙托维奇在本场比赛破门建功，比赛末段他罚入点球，帮助奥地利锁定胜局。\n\n特别声明：以上内容(如有图片或视频亦包括在内)为自媒体平台“网易号”用户上传并发布，本平台仅提供信息存储服务。\n\nNotice: The content above (including the pictures and videos if any) is uploaded and posted by a user of NetEase Hao, which is a social",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

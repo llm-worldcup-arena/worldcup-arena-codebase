@@ -1,0 +1,24 @@
+{
+ "source": "163.com",
+ "url": "https://www.163.com/dy/article/KVMMTCU3051482MP.html",
+ "title": "C罗六战世界杯！葡萄牙1-1战平刚果（金）",
+ "published": "2026-06-18T08:36:33+08:00",
+ "tier": "3",
+ "lang": "zh",
+ "match": {
+  "date": "2026-06-17",
+  "home": "POR",
+  "away": "COD",
+  "home_en": "Portugal",
+  "away_en": "DR Congo",
+  "home_zh": "葡萄牙",
+  "away_zh": "刚果（金）",
+  "comp": "小组赛·K组",
+  "match_id": "M23",
+  "slug": "2026-06-17_POR_vs_COD"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "央视新闻消息，北京时间6月18日凌晨，2026年美加墨世界杯继续进行。在K组首轮的一场比赛中，葡萄牙队1-1战平刚果（金）队。葡萄牙球星克里斯蒂亚诺·罗纳尔多首发出场，这是他第六次出战世界杯，足球史上第一人。\n\n上半场补时第5分钟，马苏阿库传中，维萨头球破门，葡萄牙1-1刚果（金）！这是刚果（金）在世界杯历史上打进的首粒进球。\n\n下半场，葡萄牙多次威胁刚果（金）球门，但均未取得进球。最终葡萄牙1-1战平刚果（金）。\n\n特别声明：以上内容(如有图片或视频亦包括在内)为自媒体平台“网易号”用户上传并发布，本平台仅提供信息存储服务。\n\nNotice: The content above (including the pictures and videos if any) is uploaded and posted by a user of NetEase Hao, which is a social",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

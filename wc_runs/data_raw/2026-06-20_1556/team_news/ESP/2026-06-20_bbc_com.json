@@ -1,0 +1,16 @@
+{
+ "team": "ESP",
+ "source": "bbc.com",
+ "url": "https://www.bbc.com/sport/football/articles/crlpp3dw14lo",
+ "title": "World Cup 2026: Spain squad includes Lamine Yamal but no Real Madrid players",
+ "news_date": "2026-06-20",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-20",
+ "fetched": "2026-06-20_1556",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "Injured forward Lamine Yamal has been named in Spain's World Cup squad, which does not feature any Real Madrid players for the first time.\n\nThe 18-year-old missed the final month of the season after tearing his left hamstring while playing for Barcelona on 22 April.\n\nReal defenders Dean Huijsen and Dani Carvajal were left out.\n\n\"I don't look at one club or another. I don't have that local bias a fan might have. For me, it's more global,\" said Spain coach Luis de la Fuente.\n\n\"The only thing I want is for these footballers to feel proud of representing the national team.\"\n\nReal did not win a trophy this season and finished eight points behind La Liga champions Barcelona.\n\nAthletic Bilbao winger Nico Williams, who has been struggling with a hamstring problem, also features in the 26-man squad.\n\n\"We're very relaxed. Barring any setbacks, we'll have everyone available from the very first match,\" said De la Fuente.\n\nThe World Cup runs from 11 June to 19 July.\n\nSpain play debutants Cape Verde on 15 June, Saudi Arabia on 21 June and Uruguay on 26 June in Group H.\n\nMidfielder Mikel Merino, who returned in Arsenal's last Premier League game of the season on Sunday after four months out with a stress fracture in the foot, has been included in the squad.\n\nHe is one of seven Premier League players along with clubmates David Raya and Martin Zubimendi, Tottenham's Pedro Porro, Chelsea's Marc Cucurella, Manchester City's Rodri and Crystal Palace's Yeremy Pino.\n\nDefenders Eric Garcia and Marc Pubill have been named after impressing this season for Barcelona and Atletico Madrid respectively .\n\n\"Excitement is the key word. Passion,\" said De la Fuente.\n\n\"The reaction of people all over Spain - adults and children alike - is that they are fully behind the national team.\"\n\nBarcelona midfielder Fermin Lopez was last week ruled out of the tournament with a broken foot.\n\nGoalkeepers: Unai Simon (Athletic Bilbao), David Raya (Arsenal), Joan Garcia (Barcelona).\n\nDefenders: Marcos Llorente (Atletico Madrid), Marc Pubill (Atletico Madrid), Pedro Porro (Tottenham), Aymeric Laporte (Athletic Bilbao), Eric Garcia (Barcelona), Pau Cubarsi (Barcelona), Marc Cucurella (Chelsea), Alejandro Grimaldo (Bayer Leverkusen).\n\nMidfielders: Rodri (Manchester City), Martin Zubimendi (Arsenal), Mikel Merino (Arsenal), Pedri (Barcelona), Gavi (Barcelona), Fabian Ruiz (Paris St-Germain), Alex Baena (Atletico Madrid).\n\nForwards: Yeremy Pino (Crystal Palace), Victor Munoz (Osasuna), Mikel Oyarzabal (Real Sociedad), Ferran Torres (Barcelona), Lamine Yamal (Barcelona), Dani Olmo (Barcelona), Nico Williams (Athletic Bilbao), Borja Iglesias (Celta Vigo).",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

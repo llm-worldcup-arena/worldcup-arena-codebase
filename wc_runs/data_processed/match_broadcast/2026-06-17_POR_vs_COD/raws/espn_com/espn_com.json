@@ -1,0 +1,24 @@
+{
+ "source": "espn.com",
+ "url": "https://www.espn.com/soccer/report/_/gameId/760435",
+ "title": "Portugal 1-1 Congo DR (Jun 17, 2026) Game Analysis - ESPN",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-17",
+  "home": "POR",
+  "away": "COD",
+  "home_en": "Portugal",
+  "away_en": "DR Congo",
+  "home_zh": "葡萄牙",
+  "away_zh": "刚果（金）",
+  "comp": "小组赛·K组",
+  "match_id": "M23",
+  "slug": "2026-06-17_POR_vs_COD"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Cristiano Ronaldo and his Portugal teammates could only manage a 1-1 draw with Congo DR on Wednesday in their opening World Cup match.\nCongo DR, who were playing at the World Cup for the first time in 52 years, became the second African nation to make a strong start in the tournament against European competition following Cape Verde's 0-0 draw with Spain on Monday.\nPlaying in front of a crowd of 68,777 spectators at NRG Stadium, which was mostly filled with Portugal supporters, Congo DR were making only their second World Cup appearance. The first came in 1974, when the team was known as Zaire.\nJoão Neves gave Portugal the lead in the sixth minute. The 5-foot-7 midfielder headed in a cross from Pedro Neto.\nYoane Wissa equalized for Congo DR with a header in stoppage time at the end of the first half off a cross from Arthur Masuaku, delighting the small pockets of blue-clad fans. It was DR Congo's first World Cup goal in the country's history.\nDR Congo was shut out in its previous three World Cup matches, losing to Scotland (2-0), Yugoslavia (9-0) and reigning champion Brazil (3-0) at the 1974 tournament in West Germany.\nRonaldo joined Argentina captain Lionel Messi as the only players to appear in six World Cups. And Ronaldo had chance to move out of a tie with Messi, who had a hat trick on Tuesday, by becoming the first player to score in a sixth tournament. Ronaldo missed shots wide right in the 68th and 73rd minutes. He shook his head in disgust after both.\nBruno Fernandes also had a chance to put Portugal on top in the 90th minute but his shot was also wide right.\nPortugal looked to have taken the lead in the 55th minute on a bicycle kick by João Cancelo, but he was ruled offside.\nSoon after that, Cédric Bakambu's attempt to put Congo DR on top failed when his shot bounced off the near post.\nRonaldo became the oldest outfield player to start a World Cup match, taking the record set four years ago by Canada midfielder Atiba Hutchinson. Cameroon great Roger Milla is the oldest outfield player to appear in a World Cup match, coming on as a substitute at 42 years old during the 1994 World Cup.\nThe parents of Diogo Jota, a member of the Portugal team who died alongside his brother in a car crash last summer, attended the game in a luxury suite.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

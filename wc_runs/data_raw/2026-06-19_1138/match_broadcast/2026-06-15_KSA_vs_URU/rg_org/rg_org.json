@@ -1,0 +1,24 @@
+{
+ "source": "rg.org",
+ "url": "https://rg.org/en-ca/news/soccer/uruguay-rescue-late-draw-against-saudi-arabia-world-cup",
+ "title": "Saudi Arabia 1-1 Uruguay: Araújo Rescues World Cup Draw",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-15",
+  "home": "KSA",
+  "away": "URU",
+  "home_en": "Saudi Arabia",
+  "away_en": "Uruguay",
+  "home_zh": "沙特阿拉伯",
+  "away_zh": "乌拉圭",
+  "comp": "小组赛·H组",
+  "match_id": "M13",
+  "slug": "2026-06-15_KSA_vs_URU"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Uruguay recovered from a goal down to earn a 1-1 draw against Saudi Arabia in their opening Group H match of the 2026 FIFA World Cup at Hard Rock Stadium.\nAbdulelah Al-Amri gave Saudi Arabia a surprise lead shortly before halftime, but Maxi Araújo equalized in the 80th minute as Marcelo Bielsa’s team avoided defeat in Miami Gardens.\nThe result leaves all four Group H teams level on one point after Spain and Cape Verde also played to a scoreless draw in their opening match.\nAl-Amri Rewards Saudi Pressure\nUruguay controlled slightly more possession during the opening stages, but they struggled to create clear scoring opportunities against an organized Saudi defence.\nSaudi goalkeeper Mohammed Al-Owais made an important save in the 30th minute, reacting quickly to tip Federico Viñas’ diving header over the crossbar.\nSaudi Arabia then began to threaten from set pieces. Fernando Muslera denied Al-Amri following a corner in the 38th minute, but the defender converted his next opportunity three minutes later.\nMuslera initially saved Saud Abdulhamid’s attempt from Musab Al-Juwayr’s corner, but the rebound fell to Al-Amri, who reacted first and finished from close range.\nSaudi Arabia went into halftime with a 1-0 lead and had produced the stronger attacking numbers despite entering the match ranked well below Uruguay.\nAraújo Finds Uruguay’s Equalizer\nBielsa responded by making two substitutions at halftime, replacing Darwin Núñez and Matías Viña with Agustín Canobbio and Juan Manuel Sanabria.\nUruguay increased the pressure after the restart. Manuel Ugarte came close to equalizing in the 60th minute when his low shot from outside the penalty area struck the post.\nSaudi Arabia moved into a five-player defensive line as they attempted to protect their advantage, while Al-Owais continued to deal with Uruguay’s crosses and set pieces.\nThe breakthrough finally arrived in the 80th minute. Al-Owais stopped Viñas’ initial header, but Araújo collected the rebound and directed the ball across goal to make it 1-1.\nThe equalizer prompted Uruguay to push for a winner, but Saudi Arabia survived a difficult closing period.\nAl-Owais Preserves Saudi Point\nAl-Owais produced two decisive saves during stoppage time. He denied Nicolás de la Cruz from close range before getting across his goal to push Federico Valverde’s low attempt wide.\nUruguay continued to attack during seven added minutes, but Guillermo Varela and Luciano Rodríguez were unable to find the target with late efforts.\nSaudi Arabia eventually settled for a point after spending the closing stages deep inside their own penalty area.\nThe draw continues an unpredictable start to Group H, with every team tied after the first round of matches. Supporters following the tournament through soccer betting sites can also review the latest World Cup 2026 Betting Bonuses in Canada before the group’s second set of fixtures.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

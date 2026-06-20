@@ -1,0 +1,16 @@
+{
+ "team": "CUW",
+ "source": "tw.sports.yahoo.com",
+ "url": "https://tw.sports.yahoo.com/news/%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E7%9B%83-%E5%BA%A6%E9%80%BC%E5%87%BA%E5%BE%B7%E5%9C%8B%E5%86%B7%E6%B1%97-%E5%BA%AB%E6%8B%89%E7%B4%A2%E9%81%AD%E8%A1%80%E6%B4%9778%E6%AD%B2%E8%80%81%E6%95%99%E9%A0%AD%E8%90%BD%E6%B7%9A-%E4%B8%8D%E8%A6%BA%E5%BE%97%E6%81%A5%E8%BE%B1-002132540.html",
+ "title": null,
+ "news_date": "2026-06-20",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-20",
+ "fetched": "2026-06-20_1556",
+ "method": "fail",
+ "status": "blocked",
+ "original_text": "",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

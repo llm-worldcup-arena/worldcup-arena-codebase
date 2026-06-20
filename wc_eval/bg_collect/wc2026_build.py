@@ -54,10 +54,12 @@ def _ensure_plong(bc_dir):
 
 
 def _long_excerpt(bc_dir):
-    """long 叙事正文:优先取 long_predictable.md(可预测版);缺则当场补生成(见 _ensure_plong)。
-    ① 到「### 来源」前;去 ④阵容长名单;##/### 降级 ####/#####;滤维护行。"""
-    p = _ensure_plong(bc_dir)
-    if not p:
+    """long 叙事正文:取【全本 long.md】(丰富版 ①②③⑤⑥⑦,与早期块B一致);① 到「### 来源」前;
+    去 ④阵容长名单;##/### 降级 ####/#####;滤维护行。
+    ⚠️ 2026-06-20 修复回归:此前误优先压缩的 long_predictable.md → 块B缩水~75%(用户报)。块B要全本——
+    过去赛报只述【已踢完的本场】,不含未来比赛结果,无泄露;长度正是要的(早期手工版即此样)。"""
+    p = f"{bc_dir}/ours/long.md"
+    if not os.path.exists(p):
         return None
     t = open(p, encoding="utf-8").read()
     i, j = t.find("## ①"), t.find("### 来源")

@@ -1,0 +1,16 @@
+{
+ "team": "KSA",
+ "source": "baike.sogou.com",
+ "url": "https://baike.sogou.com/v9253086.htm",
+ "title": "Access Restricted",
+ "news_date": "2026-06-20",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-20",
+ "fetched": "2026-06-20_1556",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "The security policy of this website has blocked you from further access.\nContact the site owner and provide the Request ID shown on this page.\nRequest ID: 3248272051869497704 Request Time: 2026-06-20 04:14:01 UTC-4\nIf you are the owner of this website:\nRefer to the EdgeOne Web Security Analytics documentation for further instructions.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

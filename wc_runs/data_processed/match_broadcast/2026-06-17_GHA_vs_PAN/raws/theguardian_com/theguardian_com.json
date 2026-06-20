@@ -1,0 +1,24 @@
+{
+ "source": "theguardian.com",
+ "url": "https://www.theguardian.com/football/2026/jun/18/ghana-panama-world-cup-2026-match-report-group-l",
+ "title": "Ghana grab vital World Cup victory over Panama after Caleb Yirenkyi’s last-gasp goal",
+ "published": "2026-06-18T01:31:33.000Z",
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-17",
+  "home": "GHA",
+  "away": "PAN",
+  "home_en": "Ghana",
+  "away_en": "Panama",
+  "home_zh": "加纳",
+  "away_zh": "巴拿马",
+  "comp": "小组赛·L组",
+  "match_id": "M21",
+  "slug": "2026-06-17_GHA_vs_PAN"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "A late goal from Caleb Yirenkyi gave Ghana a 1-0 win over Panama as they joined England at the top of Group L. Yirenkyi steered in Brandon Thomas-Asante’s cross in stoppage time to settle a match of few clear chances.\n\nCecilio Waterman forced a good save from the Ghana goalkeeper, Lawrence Ati-Zigi, in the second minute as he met a cross from the right, but it was a rare opening in a cagey first half in the Toronto rain.\n\nPanama had the best of the opening period, Cristian Martínez having a penalty appeal waved away as he tried to latch on to a ball over the top and Jiovany Ramos firing high and wide after Ati-Zigi had acrobatically punched into his path.\n\nManchester City’s Antoine Semenyo moved more centrally as the half wore on, finally making a major impact just before half-time with a through ball which ended with Ghana’s first effort on goal – Marvin Senaya endangering the corner flag more than the net.\n\nAti-Zigi, who received treatment late in the first half after a collision, was replaced at the interval by Benjamin Asare and Ghana finally carved an attempt of note, Jonas Adjetey heading straight at Orlando Mosquera.\n\nMartínez was unable to steer the ball inside the post at the other end, but Ghana were much brighter after the break with only a last-ditch touch from Ramos preventing Jordan Ayew, who is leaving Leicester this summer, from sliding home.\n\nRamos curled wide from the edge of the box moments later as the game opened up, an offside flag and Mosquera denying Thomas-Asante a late winner before he was released again moments later to deliver the cross for Yirenkyi.\n\n“With the football we played today we ‌can count on Ghana to do something,” Ghana’s coach, Carlos Queiroz, said. He complained about the rough handling of Ghana players by Panama, and said his team were “naive and not aggressive ⁠in the first half”.\n\nQueiroz also said he was unsure whether Ati-Zigi would be available to face England in Boston on Tuesday.\n\nDescribing the defeat as “painful”, Panama’s head coach, Thomas Christiansen, said: “We deserved better. We have lessons to learn. At the World Cup , mistakes are expensive.\n\n“Now is not the time for regrets. We will not be timid against Croatia. We want to show that Panama is difficult to beat and we will fight until the last breath.”",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

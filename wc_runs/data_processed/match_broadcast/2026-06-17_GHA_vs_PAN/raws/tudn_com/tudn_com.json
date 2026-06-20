@@ -1,0 +1,24 @@
+{
+ "source": "tudn.com",
+ "url": "https://www.tudn.com/mundial-2026/ghana-vs-panama",
+ "title": "Partido Ghana vs. Panamá",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-17",
+  "home": "GHA",
+  "away": "PAN",
+  "home_en": "Ghana",
+  "away_en": "Panama",
+  "home_zh": "加纳",
+  "away_zh": "巴拿马",
+  "comp": "小组赛·L组",
+  "match_id": "M21",
+  "slug": "2026-06-17_GHA_vs_PAN"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Ghana se midió a Panamá en su primer partido del Grupo L del Mundial 2026.\n\nEl seleccionador de los 3 leones fue el protagonista de la noche en el duelo de beisbol en entre los Royals y Cardinals.\n\nLa competencia mexicana tiene presencia en cinco selecciones en esta Copa del Mundo, además del Tricolor y así les fue.\n\nEl séptimo día de actividades del Mundial 2026 llegó a su fin luego de cuatro partidos; sigue aquí todo lo que sucedió.\n\nEl futbolista de Pumas pisa el césped y se abre la opción para que esté listo en el debut de Panamá ante Ghana.\n\nEl gobierno canadiense habría negado el acceso al futbolista africano por estar bajo investigación por acusaciones sexuales en Londres.\n\nEl cuadro canalero cumplirá con su segunda participación en su historia en los Mundiales de la FIFA y así les fue en su debut.\n\nLa selección africana ha tenido una presencia intermitente, pero relevante, en la Copa del Mundo.\n\nAmbas selecciones se alistan para la Copa del Mundo 2026.\n\nEl mote del equipo panameño tiene relación directa con el canal de navegación icónico que hay en su país.\n\nLos Black Stars fueron arropados por más de un centenar de aficionados en su base de entrenamiento.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

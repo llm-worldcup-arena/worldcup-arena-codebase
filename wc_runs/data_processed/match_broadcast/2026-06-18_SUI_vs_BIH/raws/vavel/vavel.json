@@ -1,0 +1,24 @@
+{
+ "source": "VAVEL",
+ "url": "https://www.vavel.com/en-us/soccer/1263741-switzerland-vs-bosnia-live-score-2026-fifa-world-cup.html",
+ "title": "Highlights and Goals Switzerland vs Bosnia and Herzegovina (4-1) in 2026 FIFA World Cup | 06/18/2026",
+ "published": "2026-06-18T21:01:16.000Z",
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-18",
+  "home": "SUI",
+  "away": "BIH",
+  "home_en": "Switzerland",
+  "away_en": "Bosnia and Herzegovina",
+  "home_zh": "瑞士",
+  "away_zh": "波黑",
+  "comp": "小组赛·B组",
+  "match_id": "M26",
+  "slug": "2026-06-18_SUI_vs_BIH"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "The head-to-head record between Switzerland and Bosnia and Herzegovina consists of a single match played in March 2016, in which the Bosnians defeated the Swiss 2-0.Edin Dzeko and Miralem Pjanic scored the goals on that occasion, and Dzeko is still a member of the national team. The 40-year-old is part of an exclusive group of World Cup superstars over 40, including Portugal's icon Cristiano Ronaldo and Croatia's legend Luka Modrić.Switzerland has qualified for 13 World Cups, while the Dragons are playing in their second tournament.\n\nSwitzerland are managed by Murat Yakin. No injuries or suspensions have been confirmed at this stage, and no probable lineup has been released. Further team news will be added closer to kick-off. Bosnia and Herzegovina are led by Sergej Barbarez. As with Switzerland, no injury or suspension information is currently available, and no projected XI has been confirmed. Updates will follow as the match approaches.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

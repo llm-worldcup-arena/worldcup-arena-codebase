@@ -1,0 +1,16 @@
+{
+ "team": "AUT",
+ "source": "sohu.com",
+ "url": "https://www.sohu.com/a/1027676760_461392",
+ "title": "奥地利世界杯名单：朗尼克带队阿拉巴在列 中超旧将阿瑙入选",
+ "news_date": "2026-05-26",
+ "published": "2026-05-26 10:16",
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-20",
+ "fetched": "2026-06-20_1556",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "2026年美加墨世界杯，由曼联前主帅朗尼克率领的奥地利国家队落位J3，与卫冕冠军阿根廷、阿尔及利亚和约旦同组。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

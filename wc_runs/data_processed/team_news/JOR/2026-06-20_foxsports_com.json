@@ -1,0 +1,16 @@
+{
+ "team": "JOR",
+ "source": "foxsports.com",
+ "url": "https://www.foxsports.com/soccer/fifa-world-cup/france-national-team-43946",
+ "title": "France Team News - Soccer | FOX Sports",
+ "news_date": "2026-06-20",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-20",
+ "fetched": "2026-06-20_1556",
+ "method": "jsonld",
+ "status": "blocked",
+ "original_text": "",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

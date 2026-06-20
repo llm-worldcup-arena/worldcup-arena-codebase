@@ -1,0 +1,24 @@
+{
+ "source": "amnh.org",
+ "url": "https://www.amnh.org/explore/world-cup-world-cultures/usa-vs-australia",
+ "title": "USA vs. Australia: World Cup on the Big Screen | AMNH",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-19",
+  "home": "USA",
+  "away": "AUS",
+  "home_en": "United States",
+  "away_en": "Australia",
+  "home_zh": "美国",
+  "away_zh": "澳大利亚",
+  "comp": "小组赛·D组",
+  "match_id": "M32",
+  "slug": "2026-06-19_USA_vs_AUS"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "USA vs. Australia: World Cup on the Big Screen\nWatch the USA vs. Australia FIFA World Cup 2026™ match at the Museum on the big screens in LeFrak Theater, Cullman Hall of the Universe, and the Global Sports Pavilion in the Futter Gallery.\nFIFA World Cup 2026™ watch parties are part of the Museum’s World Cup, World Cultures summer series, which celebrates the community and science of sport through exhibitions, experiences, and special programming.\nWatch parties are free with any Museum admission.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

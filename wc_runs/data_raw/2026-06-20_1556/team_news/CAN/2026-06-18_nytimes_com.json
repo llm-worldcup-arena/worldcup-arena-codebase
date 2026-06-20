@@ -1,0 +1,16 @@
+{
+ "team": "CAN",
+ "source": "nytimes.com",
+ "url": "https://www.nytimes.com/athletic/live-blogs/canada-vs-qatar-live-updates-world-cup-2026-score-result/9ahxBd5hI3SF/",
+ "title": "How Ismael Kone suffered serious injury as Canada routed Qatar behind Jonathan David hat-trick",
+ "news_date": "2026-06-18",
+ "published": "2026-06-18T17:00:16.533Z",
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-20",
+ "fetched": "2026-06-20_1556",
+ "method": "jsonld:articleBody",
+ "status": "ok",
+ "original_text": "Ismael Kone suffered a serious injury as Canada recorded the first men’s World Cup win in their history.That injury overshadowed an otherwise positive match for the co-hosts who ran out 6-0 victors in Group B. As he was leaving the pitch on a stretcher, Kone put his thumb up to the crowd inside BC Place.Jonathan David was the star for Canada, scoring his first World Cup hat-trick to go level with Lionel Messi in the race for the Golden Boot. Cyle Larin and Nathan Saliba also scored, while the co-hosts' fifth goal went down as a Mohamed Manai own goal.Join the Discuss tab or email us: live@theathletic.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

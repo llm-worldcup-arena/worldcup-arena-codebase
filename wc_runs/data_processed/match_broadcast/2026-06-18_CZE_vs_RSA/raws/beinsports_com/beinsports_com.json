@@ -1,0 +1,24 @@
+{
+ "source": "beinsports.com",
+ "url": "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/all-the-goals-czechia-vs-south-africa-at-the-2026-fifa-world-cup-2026-06-18?Ko=EF",
+ "title": "All the Goals! Czechia vs South Africa at the 2026 FIFA World Cup",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-18",
+  "home": "CZE",
+  "away": "RSA",
+  "home_en": "Czech Republic",
+  "away_en": "South Africa",
+  "home_zh": "捷克",
+  "away_zh": "南非",
+  "comp": "小组赛·A组",
+  "match_id": "M25",
+  "slug": "2026-06-18_CZE_vs_RSA"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Goal for Czechia! The European side opened the scoring. After a quick combination in the final third, the ball reached the South African penalty area, where Michal Sadílek finished with precision to beat the goalkeeper and put his team in front.\n\nGoal for South Africa! As the match entered its final stages, the African side found the equalizer from the penalty spot. Teboho Mokoena converted the penalty, sending the ball into the net and leaving the Czech goalkeeper with no chance, making it 1-1 on the scoreboard.\n\nCzechia and South Africa shared the points after a hard-fought 1-1 draw. Michal Sadílek gave the Europeans the lead, but Teboho Mokoena converted a late penalty to level the score and secure the final result.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

@@ -1,0 +1,24 @@
+{
+ "source": "as.com",
+ "url": "https://as.com/us/futbol/mundial/canada-hace-historia-pero-pierde-a-kone-f202606-n/",
+ "title": "Canadá hace historia, pero pierde a Koné",
+ "published": "2026-06-18T20:05:38-04:00",
+ "tier": "2",
+ "lang": "es",
+ "match": {
+  "date": "2026-06-18",
+  "home": "CAN",
+  "away": "QAT",
+  "home_en": "Canada",
+  "away_en": "Qatar",
+  "home_zh": "加拿大",
+  "away_zh": "卡塔尔",
+  "comp": "小组赛·B组",
+  "match_id": "M27",
+  "slug": "2026-06-18_CAN_vs_QAT"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Ocho partidos mundialistas tuvieron que transcurrir para que la selección de Canadá pudiera celebrar la que probablemente se convertirá en la victoria más importante y especial de su historia, pues tras el empate ante Bosnia y nuevamente frente a su afición en Vancouver, el conjunto dirigido por Jesse Marsch conquistó su primer triunfo en un Mundial ante una escuadra de Qatar que poco pudo hacer y que tuvo todos los astros alineados en su contra. Sin embargo, lo que inició como una fiesta canadiense, terminó en malas noticias para la escuadra anfitriona, pues para su mala fortuna, Ismael Koné sufrió una lesión que pone fin a su participación en la Copa del Mundo. Apenas a los 17 minutos del partido Cyle Larin fue el encargado de inaugurar la fiesta canadiense, pues tras un mal rechace por parte de Mahmoud Abunada, el guardameta catarí, el ’9’ canadiense aprovechó para empujar el balón al fondo del arco y marcar así su segunda anotación en esta Copa del Mundo. La anotación canadiense fue el impulso que los hombre de Jesse Marsch necesitaban para tomar confianza y empezar a hacer un juego casi a la perfección, el cual a los 29 minutos vio nuevamente su recompensa tras la segunda anotación del partido por parte de Jonathan David, quien con un potente derechazo y tras un intento de Tajon Buchanan, puso el esférico fuera del alcance de Abunada. El primer tiempo canadiense fue de ensueño, pues más allá de bajar las revoluciones del partido, el equipo buscó más anotaciones, mismas que llegaron apenas unos instantes después de la anotación de David. A los 33 minutos del encuentro, el árbitro sacó la primera de dos cartulinas rojas que vería el encuentro. Hamam Ahmed se fue expulsado por una falta sobre Tajon Buchanan, lo cual dejó en desventaja al cuadro de Lopetegui, quien pese a ajustar sus piezas con el ingreso de Sultan Al Brake, no pudo evitar el tercer tanto antes del descanso. En el tiempo agregado de la primera mitad, Jonathan David marcó su doblete tras un gran servicio y un remate descompuesto por parte de Cyle Larin. Para encaminar a Canadá a su primera victoria. La segunda mitad parecía ser el complemento perfecto de la fiesta canadiense, pero una dura entrada por parte de Assim Madebo sobre Ismael Koné terminó por amargar el festejo de la escuadra local en este Mundial. El atacante canadiense terminó con una fractura y abandonó el terreno del partido entre aplausos de sus compañeros, rivales y afición, mientras que Madebo se convirtió en el segundo expulsado del partido. Ya con dos hombres menos, Qatar quedó completamente expuesto ante una Canadá que agarró fuerza tras lo sucedido con Koné para sumar más goles a su cuenta y de paso dedicárselos. Nathan Saliba puso el cuarto en el encuentro tras un gran disparo de tiro libre, mismo que tuvo la emotiva celebración del cuadro canadiense, que se reunió y mostró la playera de Ismael Koné. La manita llegó con Jacob Shaffelburg, el jugador del LAFC, que apenas a los pocos minutos de ingresar al terreno de juego anotó, aunque con un poco de fortuna, pues su disparo fue desviado, por lo que al final el tanto fue otorgado como autogol, pero el destino aún deparaba más para Canadá, que cayó con Jonathan David firmando su triplete selló este triunfo canadiense. Con este resultado, Canadá depende de sí mismo para clasificarse, pues sabe que un empate contra Suiza lo pondrá en dieciseisavos de final, esto con el fin de evitar apelar a las matemáticas para definir su clasificación. ¡Lleva el deporte contigo! Descarga la App de AS para recibir alertas al instante y configura en MiZona qué quieres leer, sigue a tus equipos y consulta sus partidos. Descárgala aquí. ¿Además buscas licenciar contenido?",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

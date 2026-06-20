@@ -1,0 +1,41 @@
+{
+ "match": {
+  "slug": "2026-06-20_TUN_vs_JPN",
+  "date": "2026-06-20",
+  "home": "TUN",
+  "away": "JPN",
+  "round": "group",
+  "group": "F"
+ },
+ "kickoff": {
+  "美东": "2026-06-21T00:00:00-04:00",
+  "北京": "06-21 12:00"
+ },
+ "venue": {
+  "name": "Estadio BBVA",
+  "city": "Guadalupe, Nuevo León",
+  "altitude_m": 540,
+  "roof": "open",
+  "surface": "grass"
+ },
+ "weather": {
+  "开球时段": {
+   "温度C": 24.7,
+   "体感C": 27.6,
+   "降水概率%": 11,
+   "降水mm": 0.0,
+   "风速kmh": 8.6,
+   "湿度%": 77,
+   "天况": "阴"
+  },
+  "source": "open-meteo(免费预报API)",
+  "fetched": "2026-06-20_1556",
+  "_note": "临近开球建议 --refresh 刷新"
+ },
+ "referee": {
+  "name": "István Kovács (ROU)",
+  "source": "http://law5-theref.blogspot.com/2026/06/2026-fifa-wc-referee-appointments-for.html",
+  "fetched": "2026-06-20_1556"
+ },
+ "_note": "环境=比赛+时间+地点 确定;天气为开球时段;顶棚 retractable/fixed-canopy 时天气影响有限。"
+}

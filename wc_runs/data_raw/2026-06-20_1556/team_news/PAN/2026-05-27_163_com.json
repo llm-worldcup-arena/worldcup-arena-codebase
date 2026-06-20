@@ -1,0 +1,16 @@
+{
+ "team": "PAN",
+ "source": "163.com",
+ "url": "https://www.163.com/dy/article/KTTEBFQ60549BAP0.html",
+ "title": "巴拿马世界杯大名单：队长戈多伊领衔，法哈多、沃特曼在列",
+ "news_date": "2026-05-27",
+ "published": "2026-05-27T02:50:15+08:00",
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-20",
+ "fetched": "2026-06-20_1556",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "5月26日，巴拿马队正式公布出征世界杯26人名单，球队在今夏世界杯与英格兰、克罗地亚以及加纳同组。\n\n特别声明：以上内容(如有图片或视频亦包括在内)为自媒体平台“网易号”用户上传并发布，本平台仅提供信息存储服务。\n\nNotice: The content above (including the pictures and videos if any) is uploaded and posted by a user of NetEase Hao, which is a social media platform and only provides information storage services.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

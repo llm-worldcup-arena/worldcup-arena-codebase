@@ -1,0 +1,16 @@
+{
+ "team": "KOR",
+ "source": "china.kyodonews.net",
+ "url": "https://china.kyodonews.net/articles/-/6594",
+ "title": "前瞻：WBC美国队排出明星阵容 韩国与中华队实力不俗",
+ "news_date": "2026-06-20",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-20",
+ "fetched": "2026-06-20_1556",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "【共同社2月6日电】力争在3月的世界棒球经典赛（WBC）中卫冕的日本队将面对众多强敌。美国队欲夺回冠军宝座，由获得美职棒大联盟（MLB）上赛季美联最佳球员的贾奇（Aaron Judge，纽约洋基）担任队长，排出堪称“MLB明星军团”的豪华阵容。\n\n美国队投打两端均有顶尖球员出战。投手方面，集结了上赛季两大联盟的赛扬奖得主斯库巴尔（Tarik Skubal，底特律老虎）与斯金斯（Paul Skenes，匹兹堡海盗）。击球员则有同为双冠王的罗利（Cal Raleigh，西雅图水手）与施瓦伯（Kyle Schwarber，费城费城人）。\n\n日本队所在的C组小组赛将从3月5日开打，主要对手是韩国队和中华台北队。后者在2024年“世界棒球12强赛”击败日本并首次夺冠，拥有古林睿炀、孙易磊（均效力北海道日本火腿斗士）以及徐若熙（新加盟福冈软银鹰）等强悍投手。韩国队则寄望于李政厚（旧金山巨人）与金慧成（洛杉矶道奇）等MLB球员。\n\n此外，多米尼加队有可能成为日本队四分之一决赛的对手。该队以曾获本垒打王的小格雷罗（Vladimir Guerrero Jr.，多伦多蓝鸟）和强打索托（Juan Soto，纽约大都会）为核心，凭借火力惊人的打线，力争再度登顶。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

@@ -1,0 +1,24 @@
+{
+ "source": "skysports.com",
+ "url": "https://www.skysports.com/football/news/33694/13552727/world-cup-2026-portugal-1-1-dr-congo-cristiano-ronaldo-struggles-as-roberto-martinezs-side-slump-to-disappointing-draw-in-opener",
+ "title": "World Cup 2026: Portugal 1-1 DR Congo - Cristiano Ronaldo struggles as Roberto Martinez's side slump to disappointing draw in opener",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-17",
+  "home": "POR",
+  "away": "COD",
+  "home_en": "Portugal",
+  "away_en": "DR Congo",
+  "home_zh": "葡萄牙",
+  "away_zh": "刚果（金）",
+  "comp": "小组赛·K组",
+  "match_id": "M23",
+  "slug": "2026-06-17_POR_vs_COD"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Cristiano Ronaldo struggled during his first performance at the 2026 World Cup as a disappointing Portugal were held to a 1-1 draw by DR Congo. Ronaldo started the game but failed to make the desired impact, missing two big chances as his goalless run in major tournaments was extended to 10 games. Joao Neves had given Portugal the lead with a smart header inside six minutes but that proved to be their only shot on target for the entire game. DR Congo remained stubborn and were rewarded with their first World Cup goal courtesy of Newcastle's Yoane Wissa, which proved enough to come away with a remarkable point in their first appearance at the tournament since 1974 as Zaire.   The key moments from Houston... 6: GOAL! Neves heads home for perfect Portugal start 45+5: GOAL! DR Congo’s stubbornness pays off as Wissa equalises 55: GOAL DISALLOWED! Cancelo’s bicycle kick is chalked off for offside 57: Bakambu smashes the outside of the post from close range 68: Ronaldo misses his best chance from just 10 yards out 73: A carbon-copy chance for Ronaldo also goes begging Goals in pictures Portugal 1-0 DR Congo (Neves, 6) Portugal 1-1 DR Congo (Wissa, 45+5)",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

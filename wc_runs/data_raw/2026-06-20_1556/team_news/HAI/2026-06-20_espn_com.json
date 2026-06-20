@@ -1,0 +1,16 @@
+{
+ "team": "HAI",
+ "source": "espn.com",
+ "url": "https://www.espn.com/soccer/team/squad/_/id/2654/haiti",
+ "title": "Haiti 2026 Squad - ESPN",
+ "news_date": "2026-06-20",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-20",
+ "fetched": "2026-06-20_1556",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Derrick Etienne Jr.7\n\nF\n\n29\n\n5' 10\"\n\n152 lbs\n\nHaiti\n\n1\n\n1\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\nDuckens Nazon9\n\nF\n\n32\n\n5' 11\"\n\n172 lbs\n\nHaiti\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\nLouicius Deedson11\n\nF\n\n25\n\n5' 10\"\n\n157 lbs\n\nHaiti\n\n2\n\n1\n\n0\n\n0\n\n1\n\n0\n\n2\n\n1\n\n0\n\n0\n\nRuben Providence15\n\nF\n\n24\n\n5' 10\"\n\n161 lbs\n\nHaiti\n\n2\n\n0\n\n0\n\n0\n\n4\n\n1\n\n2\n\n4\n\n0\n\n0\n\nLenny Joseph16\n\nF\n\n25\n\n6' 0\"\n\n152 lbs\n\nHaiti\n\n2\n\n2\n\n0\n\n0\n\n0\n\n0\n\n2\n\n0\n\n0\n\n0\n\nWilson Isidor18\n\nF\n\n25\n\n6' 0\"\n\n159 lbs\n\nHaiti\n\n2\n\n1\n\n0\n\n0\n\n4\n\n1\n\n3\n\n1\n\n0\n\n0\n\nFrantzdy Pierrot20\n\nF\n\n31\n\n6' 4\"\n\n172 lbs\n\nHaiti\n\n2\n\n0\n\n0\n\n0\n\n3\n\n1\n\n5\n\n4\n\n1\n\n0\n\nJosué Casimir21\n\nF\n\n24\n\n5' 10\"\n\n150 lbs\n\nHaiti\n\n2\n\n1\n\n0\n\n0\n\n1\n\n0\n\n2\n\n2\n\n0\n\n0\n\nGlossary\nName:Name\nPOS:Position\nAge:Current age of player\nHT:Height\nWT:Weight\nNAT:Nationality\nAPP:Appearances\nSUB:Substitute Appearances\nG:Total Goals\nA:Assists\nSHOT:Shots\nSOG:Shots On Goal\nFC:Fouls Committed\nFA:Fouls Suffered\nYC:Yellow Cards\nRC:Red Cards\nSV:Saves\nGA:Goals Against",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

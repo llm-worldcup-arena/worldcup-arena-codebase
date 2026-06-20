@@ -1,0 +1,16 @@
+{
+ "team": "CAN",
+ "source": "olympics.com",
+ "url": "https://www.olympics.com/en/news/fifa-world-cup-2026-canada-players-squad-list-key-stats-schedule",
+ "title": "Canada at FIFA World Cup 2026: All players, full squad list, key stats and schedule",
+ "news_date": "2026-06-20",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-20",
+ "fetched": "2026-06-20_1556",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Canada at FIFA World Cup 2026: All players, full squad list, key stats and schedule\nQuick facts\nCaptain: Alphonso Davies\nManager: Jesse Marsch\nWorld Cup appearances (including 2026): 3\nBest World Cup result: Group stage (1986, 2022)\nGoalkeepers: Dayne St. Clair (Inter Miami), Maxime Crépeau (Orlando City), Owen Goodman (Crystal Palace)\nDefenders: Alistair Johnson (Celtic), Derek Cornelius (Marseille), Richie Laryea (Toronto), Niko Sigur (Hajduk Split), Joel Waterman (Chicago Fire), Luc De Fougerolles (Fulham), Moïse Bombito (Nice), Alphonso Davies (Bayern Munich), Alfie Jones (Middlesbrough)\nMidfielders: Stephen Eustáquio (Porto), Ismaël Koné (Sassuolo Calcio), Tajon Buchanan (Villarreal), Mathieu Choinière (Los Angeles FC), Ali Ahmed (Norwich City), Nathan Saliba (Anderlecht), Liam Miller (Hull City), Marcelo Flores (Tigres UANL), Jacob Shaffelburg (Toronto), Jonathan Osario (Toronto)\nForwards: Jonathan David (Juventus), Cyle Larin (Southampton), Tani Oluwaseyi (Villarreal), Promise David (Royale Union Saint-Gilloise)",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

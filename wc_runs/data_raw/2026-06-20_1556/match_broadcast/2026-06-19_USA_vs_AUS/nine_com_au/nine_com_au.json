@@ -1,0 +1,24 @@
+{
+ "source": "nine.com.au",
+ "url": "https://www.nine.com.au/sport/football/fifa-world-cup-day-three-live-scores-socceroos-results-highlights-latest-news-20260619-p608i0.html",
+ "title": "FIFA World Cup 2026 LIVE scores, Day 9: Scotland vs Morocco results, latest news; Australia vs USA highlights; Mike Grella mocks Irankunda with crotch grab; Brazil vs Haiti highlights; Paraguay vs Turkiye highlights; Paraguay player handed red card for shock new rule, Türkiye eliminated despite historic red card, Socceroos handed Group D showdown | Nine.com.au",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-19",
+  "home": "USA",
+  "away": "AUS",
+  "home_en": "United States",
+  "away_en": "Australia",
+  "home_zh": "美国",
+  "away_zh": "澳大利亚",
+  "comp": "小组赛·D组",
+  "match_id": "M32",
+  "slug": "2026-06-19_USA_vs_AUS"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "A player covering their mouth with their hand or shirt in a confrontation situation can be sent off with a red card, and we’ve seen that happen in this game between Paraguay and Türkiye. Paraguay’s Miguel Almirón covered his mouth while saying something to a Türkiye player, that was flagged by the group and the VAR has decided that it constitutes a red card. Almirón is sent off for the incident, a new rule for this 2026 World Cup. This is the first time this rule has ever been implemented and Paraguay is now down to 10 players.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

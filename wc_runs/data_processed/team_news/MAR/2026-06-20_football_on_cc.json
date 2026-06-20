@@ -1,0 +1,16 @@
+{
+ "team": "MAR",
+ "source": "football.on.cc",
+ "url": "https://football.on.cc/%E8%B6%B3%E7%90%83%E5%BF%AB%E8%A8%8A/bkn-20260612180246395-0612_00882_001/%E5%A4%A9%E5%8A%A9%E5%B7%B4%E8%A5%BF%EF%BC%9F%E6%91%A9%E6%B4%9B%E5%93%A5%E5%85%A9%E4%BA%BA%E5%8F%97%E5%82%B7%E9%80%80%E9%9A%8A",
+ "title": "天助巴西？摩洛哥兩人受傷退隊",
+ "news_date": "2026-06-20",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-20",
+ "fetched": "2026-06-20_1556",
+ "method": "jsonld",
+ "status": "blocked",
+ "original_text": "",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

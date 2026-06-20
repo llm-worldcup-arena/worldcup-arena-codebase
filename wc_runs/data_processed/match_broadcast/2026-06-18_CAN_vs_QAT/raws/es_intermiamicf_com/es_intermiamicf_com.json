@@ -1,0 +1,24 @@
+{
+ "source": "es.intermiamicf.com",
+ "url": "https://es.intermiamicf.com/noticias/cronica-canada-suma-historica-primera-victoria-en-una-copa-mundial-de-la-fifa-con-contundente-triunfo-por-6-0-contra-qatar",
+ "title": "CRÓNICA: Canadá suma histórica primera victoria en una Copa Mundial de la FIFA con contundente triunfo por 6-0 contra Qatar | Inter Miami CF",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-18",
+  "home": "CAN",
+  "away": "QAT",
+  "home_en": "Canada",
+  "away_en": "Qatar",
+  "home_zh": "加拿大",
+  "away_zh": "卡塔尔",
+  "comp": "小组赛·B组",
+  "match_id": "M27",
+  "slug": "2026-06-18_CAN_vs_QAT"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Canadá (1V-0D-1E, 4 puntos) continuó su campaña en la Copa Mundial de la FIFA 2026 con una histórica victoria por 6-0 contra Qatar (0V-1D-1E, 1 punto), la primera del país en una cita mundialista, en el Grupo B el jueves por la noche en el BC Place Vancouver en Vancouver, Canadá. Un triplete del delantero Jonathan David, goles de Cyle Larin y Nathan Saliba, así como un autogol de Qatar, condujeron a los Reds al resultado histórico. El arquero de Inter Miami CF, Dayne St. Clair, estuvo disponible en el banquillo pero no participó en el partido.\n\nCanadá saltó al campo con Maxime Crépeau en la portería; Alistair Johnston, Luc de Fougerolles, Derek Cornelius y Richie Laryea arrancaron de inicio en defensa; Tajon Buchanan, Stephen Eustáquio, Ismaël Koné y Ali Ahmed fueron titulares en el mediocampo; David y Larin lideraron el ataque.\n\nCyle Larin abrió el marcador para Canadá en el minuto 16 con su segundo gol en esta Copa Mundial de la FIFA 2026. El delantero aprovechó un rebote para marcar desde distancia tras un intento inicial de su compañero Jonathan David.\n\nDavid amplió la ventaja de Canadá en el minuto 29 con una potente volea desde el sector derecho del área.\n\nQatar se quedó con un jugador menos en el minuto 33 cuando el defensa Homam Ahmed fue mostrado una tarjeta roja.\n\nDavid completó su doblete en el tercer minuto del tiempo añadido para que los coanfitriones del torneo se fueran al descanso con una ventaja de 3-0, aprovechando un rebote y rematando a bocajarro tras un cabezazo de Larin que obligó al portero de Qatar a realizar una gran parada.\n\nQatar se quedó con nueve jugadores en el campo al inicio de la segunda parte, ya que el centrocampista Assim Madibo fue expulsado al minuto 53.\n\nNathan Saliba anotó el cuarto gol para Canadá en el minuto 64 con un magnífico tiro libre.\n\nEl cuadro local sentenció la victoria por medio de un autogol del centrocampista catarí Mohamed Manai en el minuto 75, y con David marcando su tercer gol del partido desde dentro del área en el segundo minuto del tiempo añadido.\n\nAhora, Canadá continuará su participación en el Grupo B enfrentando a Suiza el miércoles 24 de junio a las 3 p.m. ET en el BC Place Vancouver.\n\nCanadá actualmente es líder del Grupo B y necesita un empate o una victoria contra Suiza para ganar el grupo y asegurar su pase a los dieciseisavos de final.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

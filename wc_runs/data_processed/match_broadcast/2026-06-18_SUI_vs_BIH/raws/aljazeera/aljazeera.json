@@ -1,0 +1,24 @@
+{
+ "source": "Al Jazeera",
+ "url": "https://www.aljazeera.com/sports/2026/6/18/switzerland-beat-bosnia-and-herzegovina-4-1-top-group-b-in-world-cup",
+ "title": "Bosnia’s World Cup knockout stage hopes dented with 4–1 loss to Switzerland",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-18",
+  "home": "SUI",
+  "away": "BIH",
+  "home_en": "Switzerland",
+  "away_en": "Bosnia and Herzegovina",
+  "home_zh": "瑞士",
+  "away_zh": "波黑",
+  "comp": "小组赛·B组",
+  "match_id": "M26",
+  "slug": "2026-06-18_SUI_vs_BIH"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "All five goals were scored in the final 30 minutes as the match in Los Angeles erupted to life in closing stages.\n\nJohan Manzambi scored a late brace after coming on in the 71st minute, following goals from Ruben Vargas and Granit Xhaka as Switzerland erupted late for a 4-1 victory over 10-man Bosnia and Herzegovina to top Group B at the World Cup.\n\nThe last three Swiss goals at the Los Angeles Stadium followed the 80th-minute dismissal of Bosnian defender Tarik Muharemovic, who was sent off for hauling down Breel Embolo to deny an obvious goalscoring opportunity, in a dramatic finish to the match on Thursday.\n\nWhen it was all finished, Switzerland, with one win and a draw, were in command of the group despite an unexpected 1-1 draw against Qatar in their tournament opener.\n\nQatar and Canada play in Thursday’s later Group B clash in Vancouver, where the winner will draw level on points with the Swiss side that’s looking to progress to the knockout phase for a fourth consecutive World Cup.\n\nBosnian substitute Ermin Mahmic scored with a thunderous volley in second-half stoppage time for Bosnia and Herzegovina, who remain on one point.\n\nBut the Balkan side will need to be more adventurous in their group finale against Qatar to have any chance of progressing after offering little against the Swiss.\n\nAll five goals they have conceded have come after the 70th minute, including the equaliser in their 1-1 tournament-opening draw against Canada.\n\nYet it looked for long stretches like Bosnia’s cagey approach would work until Switzerland coach Murat Yakin sent on Manzambi.\n\nShortly after his own introduction, Vargas got free on the left and curled in an outswinging cross towards the back post.\n\nAmar Memic tried to head clear, but Manzambi instinctively met the second ball near the penalty spot and thumped a vicious side volley that had too much power for Bosnian goalkeeper Nikola Vasilj.\n\nAny realistic hopes of a positive Bosnian result ended six minutes later when referee Joao Pinheiro had no choice but to produce a red card for Muharemovic’s late challenge from behind.\n\nFour minutes later, Vargas found the bottom right corner after Embolo held the ball up near the spot and then played it to his open teammate to his left.\n\nVargas was the provider when Manzambi completed his brace in the 90th minute, and after Mahmic pulled a goal back, the veteran Xhaka converted from the penalty spot seven minutes into second-half stoppage time.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

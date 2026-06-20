@@ -1,0 +1,24 @@
+{
+ "source": "skysports.com",
+ "url": "https://www.skysports.com/football/mexico-vs-korea-rep/report/549793",
+ "title": "World Cup 2026: Mexico 1-0 South Korea - Seung-Gyu Kim error gifts co-hosts safe passage into round of 32",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-18",
+  "home": "MEX",
+  "away": "KOR",
+  "home_en": "Mexico",
+  "away_en": "Korea Republic",
+  "home_zh": "墨西哥",
+  "away_zh": "韩国",
+  "comp": "小组赛·A组",
+  "match_id": "M28",
+  "slug": "2026-06-18_MEX_vs_KOR"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Mexico became the first nation to secure a spot in the World Cup round of 32 and they can thank a Seung-Gyu Kim goalkeeping error as South Korea were beaten 1-0 in Guadalajara. In a far-from-thrilling Group A encounter, the two goalkeepers decided the game with two contrasting performances. Kim dropped a Raul Jimenez header into the path of Luis Romo, who lifted the ball over the 'keeper to score the decisive goal. Late on, down the other end as South Korea chased, Raul Rangel's double save to deny second-half substitute Gue-Sung Cho wrapped up the three points for Mexico.   With six points from two games after their opening win over South Africa, Mexico are now in control of Group A and well-placed to secure top spot. First would ensure they will play their round of 32 match in Mexico City. Javier Aguirre's side could meet England in the round of 16 should both nations win their group and progress past their first knockout game. South Korea, who generated just one shot on target either side of half time, can still qualify for the knockout stages but must beat South Africa to ensure progression. Up next for Mexico is the Czech Republic. The key moments from Mexico City... 16: BRILLIANT GOAL-LINE CLEARANCE! Alvarez acrobatically hooks away Heung-Min Son's attempt at a lob. 20: SAVE! Alvarado curls in a sumptuous ball into the area. It finds Quinones, who manages to beat his marker to head towards goal but Kim makes the stop. 50: GOAL! Seung-Gyu Kim drops a Jimenez header and gifts Romo and Mexico a goal. 77: CLOSE! Hyun-Jun Yang and Hyun-Gyu Oh very nearly combine superbly for an equaliser but there's too much on the former's ball into the area. 87: HUGE CHANCE!! Rangel denies Gue-Sung Cho with a pair of vital double saves late on. 90+4: Vazquez gets across to deny Gue-Sung Cho an attempt at Rangel's goal. It's superbly timed defending. South Korea are pushing, but is it too little too late? Will more nations take up South Korea's approach? Sky Sports' William Bitibiri: According to South Korea boss, Myung-bo Hong, outside of the goalkeeping error, everything went to plan. But how worrying is that and does it point to the approach some nations will be taking to the second round of fixtures? South Korea generated two shots on target. Those came in the 87th minute, a damning yet interesting reflection of their approach. It goes without saying what three points meant on the day. Take a look at Mexico, who are on course to secure top spot and further establish themselves as a nation going beyond one that simply makes up the numbers. However, South Korea played for a draw. Their opening win against the Czech Republic was front-foot, dynamic and ferocious at times. On this occasion, their display was soft, tired and timid. But was that design? The game was being played at high altitude, 1600 feet above ground, which means any intensity will feel like a workout. The fact that South Korea won their opening fixture, and that South Africa and Czech Republic had drawn earlier on Thursday, meant aiming for a draw in these conditions wasn't the worst idea. This time it backfired for South Korea, but it might not be the last measured approach sides take to round two of the group stage with an eye on the knockouts.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

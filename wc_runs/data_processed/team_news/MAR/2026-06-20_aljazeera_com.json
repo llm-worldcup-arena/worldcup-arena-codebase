@@ -1,0 +1,16 @@
+{
+ "team": "MAR",
+ "source": "aljazeera.com",
+ "url": "https://www.aljazeera.com/sports/2026/6/3/morocco-world-cup-2026-preview-players-to-watch-group-and-squad-list",
+ "title": "World Cup contenders: Are Morocco ready to go all the way this time?",
+ "news_date": "2026-06-20",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-20",
+ "fetched": "2026-06-20_1556",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "The Atlas Lions aim to better their historic 2022 semifinal appearance but have had a chaotic run-in.\n\nThe FIFA World Cup begins on June 11. You can follow the action on Al Jazeera’s dedicated World Cup 2026 page with all the latest news, match build-up and live text commentary, and",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

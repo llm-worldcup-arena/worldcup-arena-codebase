@@ -1,0 +1,16 @@
+{
+ "team": "JPN",
+ "source": "nippon.com",
+ "url": "https://www.nippon.com/en/japan-data/h02782/",
+ "title": "Japan’s Men’s National Soccer Squad for the 2026 World Cup",
+ "news_date": "2026-06-15",
+ "published": "2026-06-15T15:27:00+0900",
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-20",
+ "fetched": "2026-06-20_1556",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "Japan left it late, but earned a point with an 88th minute equalizer against the Netherlands in its first group match of the 2026 FIFA World Cup. The Dutch took the lead twice in the second half, but Japan pulled level both times with goals from Nakamura Keito and Kamada Daichi. Its next game is against Tunisia on June 20, followed by Sweden on June 25. (Dates for fixtures are one day ahead in Japan.)\n\nJapan is making its eighth consecutive World Cup appearance in the 2026 tournament in the United States, Mexico, and Canada, which kicked off on June 11. Samurai Blue’s initial squad was named on May 15, but captain Endō Wataru withdrew due to injury on the first day of the competition. He was replaced by Machino Shūto, with Itakura Kō taking on the captain’s armband.\n\nJapan has made it to the knock-out stage a total of four times, including at the last two tournaments, but has yet to move past the round of 16.\n\n(Translated from Japanese. Banner photo: Japan team members acknowledge supporters after a 2-2 draw with the Netherlands in Dallas.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

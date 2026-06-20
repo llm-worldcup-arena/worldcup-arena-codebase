@@ -1,0 +1,24 @@
+{
+ "source": "NBC",
+ "url": "https://www.nbcconnecticut.com/world-cup/mexico-south-korea-score/3746869/",
+ "title": "Mexico takes Group A with 1-0 win vs. South Korea in World Cup – NBC Connecticut",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-18",
+  "home": "MEX",
+  "away": "KOR",
+  "home_en": "Mexico",
+  "away_en": "Korea Republic",
+  "home_zh": "墨西哥",
+  "away_zh": "韩国",
+  "comp": "小组赛·A组",
+  "match_id": "M28",
+  "slug": "2026-06-18_MEX_vs_KOR"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Mexico takes Group A with 1-0 win vs. South Korea in World Cup – NBC Connecticut\nThe first ticket to the Round of 32 has been punched.\nMexico took down South Korea 1-0 in Guadalajara on Thursday to take Group A of the World Cup, so El Tri can play the group finale without pressure.\nThe first half was all about Korea trying to take the sting out of the game by limiting Mexico's touches and keeping control of the ball, especially in midfield.\nHowever, Korea needed a bit more final product to really threaten Mexico. Star striker Son Heung-min was not doing enough to concer El Tri, which was a similar showing to Czechia in the opener as he struggled to make an impact.\nMexico's lack of front-foot action compared to the South Africa game resulted in boos from the home crowd at halftime.\nThe key moment came early in the second half. In the 50th minute, what should've been a simple cross claim by Korean goalie Kim Seung-gyu turned into a nightmare.\nKim had the ball momentarily, but saw it slip through his fingers. Mexican midfielder Luis Romo was first to it as he stabbed it home.\n1:38\nMéxico se pone arriba 1-0 tras error defensivo y Luis Romo anota ante Corea del Sur\nSon then came off for Korea in the 57th minute, but no goal would come unlike what transpired in the comeback vs. Czechia.\nA couple of half chances came Korea's way, but only one had the best shot at going in.\n2026 FIFA World Cup\nIn the 87th minute, a perfect cross from the left flank by Eom Ji-sung reached both Hang Hyun-jun and Cho Gue-sung, but somehow 26-year-old goalie Raul Rangel kept it off the line.\nKorea ended the game with the better expected goals, per FotMob, accumulating 0.69 to 0.48. A 1-1 scoreline would've felt fair given the chance Rangel prevented, but it's Mexico that comes away with three points with no complaints.\nNo matter what happens in the group finale next Wednesday, Mexico will be top going into the Round of 32. El Tri will meet Czechia, which is still alive for a knockout spot.\nKorea will hope to stay in second against South Africa, which also stayed alive after a disappointing opening-day showing against Mexico. Czechia and South Africa drew 1-1 earlier Thursday.\n0:25\nThis Mexico fan is Quack-tastic!\nA duck was seen walking along Paseo de la Reforma in Mexico City, wearing a Team Mexico jersey. We think it's quack-tastic.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

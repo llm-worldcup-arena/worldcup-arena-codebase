@@ -1,0 +1,24 @@
+{
+ "source": "en.as.com",
+ "url": "https://en.as.com/soccer/world-cup/switzerland-vs-bosnia-herzegovina-live-online-score-stats-goals-updates-world-cup-2026-group-b-f202606-n/",
+ "title": "Switzerland vs Bosnia-Herzegovina: summary: score, stats, goals and highlights | World Cup 2026 Group B",
+ "published": "2026-06-18T14:00:00-04:00",
+ "tier": "2",
+ "lang": "es",
+ "match": {
+  "date": "2026-06-18",
+  "home": "SUI",
+  "away": "BIH",
+  "home_en": "Switzerland",
+  "away_en": "Bosnia and Herzegovina",
+  "home_zh": "瑞士",
+  "away_zh": "波黑",
+  "comp": "小组赛·B组",
+  "match_id": "M26",
+  "slug": "2026-06-18_SUI_vs_BIH"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "The World Cup 2026 journey continues for Switzerland and Bosnia-Herzegovina as they meet in Group B, with another important result on the line in the race for the knockout stages. Goal difference plays a greater part in this edition than ever before, while coaches and fans will be hoping to avoid key injuries. FIFA’s tournament across the USA, Mexico and Canada brings together ambition, quality, and the unpredictability that makes it such a compelling spectacle.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

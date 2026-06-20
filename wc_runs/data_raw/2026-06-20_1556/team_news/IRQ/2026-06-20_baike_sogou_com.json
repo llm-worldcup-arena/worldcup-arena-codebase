@@ -1,0 +1,16 @@
+{
+ "team": "IRQ",
+ "source": "baike.sogou.com",
+ "url": "https://baike.sogou.com/v75380627.htm",
+ "title": "windows8.1 _ 百科",
+ "news_date": "2026-06-20",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-20",
+ "fetched": "2026-06-20_1556",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "Windows 8.1中，微软发布了与Windows 8有区别的多个重要更新。微软公司于北京时间2013年10月17日发布Windows 8.1正式版。\n\n北京时间2013年10月17日晚上7点，Windows 8.1在全球范围内，通过Windows 8上的Windows应用商店进行更新推送及其订阅可免费下载评估版本。\n\n同时，在Windows 8.1更新正式发布后，搭载Windows 8.1的全新设备；如Surface Pro 2、Wbin iexpect2、华硕等预装Windows 8.1系统的设备在世界各地的零售渠道陆续上市。\n\nWindows 8.1主流支持服务过期时间为2018年1月9日，扩展支持服务过期时间为2023年1月10日。\n\n2014年4月，微软在BUILD2014大会上发布Windows 8.1 Update 1，并宣布Windows 将对9英寸以下的设备免授权费。\n\nWindows 8.1是微 软公司在2012年10月推出Windows 8之后，微软着手开发Windows 8的更新包。在代号为“Blue”的项目中，微软将实现操作系统升级标准化，以便向用户提供更常规的升级。Windows 8.1具有承上启下的作用，为未来的Windows 9铺路。\n\n2013年6月26日，微软Build 2013 大会发布Windows 8.1预览版。\n\n2013年5月15日，微软Windows部门首席财务官兼首席营销官塔米·雷勒(Tami Reller) 在JP摩根技术、媒体及电信会议上表示：Windows Blue正式确定官方名称为Windows 8.1，Windows 8正版用户将提供免费升级，微软正式推出了Windows 8.1预览版操作系统全新的微软Windows 8.1预览版系统不仅让“开始”按钮重新回到了桌面，而且针对键盘、Outlook、搜索、娱乐等功能体验还进行了大面积优化，号称拥有超过多达800项的更新，并正式宣布了将于10月推出正式版本。\n\n2013年8月14日，微软正式宣布：自北京时间10月17日晚上7点起，Windows 8.1将在全球范围内，开始通过Windows 8上的Windows应用商店免费为Windows 8用户进行更新推送。此外，微软还将在8月底Windows8.1RTM版分发给OEM硬件合作伙伴。原计划MSDN/Technet订阅用户将于10月拿到Windows 8.1 RTM版本，但是经过微软内部激烈的讨论最终于2013年9月9日向MSDN/Technet订户提供Windows 8.1的RTM版本。\n\n2013年10月17日，微软正式提供Windows 8.1的下载，所有安装了Windows 8的用户都可以通过Windows应用商店的更新中获得8.1版本。\n\n2014年4月2日，微软在BUILD2014推出Windows 8.1 Update 1，所有安装了Windows 8.1的用户可以免费获得升级。\n\nWindows 8.1开发者预览版（Windows 8.1 Developer Preview版）\n\n2013年6月，微软在BUILD开发者大会上发布Windows Blue(Windows 8.1)的公众预览版本，微软已经将Windows 8.1 Build 9391提供给OEM合作伙伴进行测试，并称之为Developer Preview开发者预览版。\n\nWindows 8.1 Build 9391被冠以Windows 8.1 Developer Preview Major EEAP Build 9391的名称，这还是开发者预览版的测试版本，还不是将在6月发布的最终版。\n\nWindows 8.1消费者预览版（Windows 8.1 Customer Preview版）\n\n在Windows 8.1开发者预览版公布后，微软正式公布Windows 8 Consumer Preview消费者预览版，也就是用户常提到的Beta公测版。\n\nWindows 8.1发布预览版（Windows 8.1Release Preview版）\n\nWindows 8.1的预览版中，微软发布了Windows 8的多个重要更新。Windows 8.1预览版已经在2013年6月26日的微软Build 2013 大会发布，用户可以到微软的官方网站下载体验，Windows 8的用户可以通过Windows应用商店获得更新。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

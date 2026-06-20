@@ -1,0 +1,16 @@
+{
+ "team": "AUT",
+ "source": "bbc.com",
+ "url": "https://www.bbc.com/sport/football/articles/c3928ewev42o",
+ "title": "World Cup 2026: Austria's David Alaba passed fit but Christoph Baumgartner ruled out of tournament",
+ "news_date": "2026-06-20",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-20",
+ "fetched": "2026-06-20_1556",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "Austria captain David Alaba has been given the all-clear to travel for the World Cup after picking up a muscle injury on Monday but midfielder Christoph Baumgartner has been ruled out of the tournament.\n\nFormer Bayern Munich and Real Madrid defender Alaba was substituted at half-time of Austria's 1-0 friendly win against Tunisia but has been passed fit to travel to the United States with the rest of the squad.\n\nIt is not such positive news for RB Leipzig midfielder Baumgartner, however.\n\nThe 26-year-old suffered a thigh muscle injury during Monday's pre-match warm-up and has been ruled out of the World Cup, the country's football association confirmed on Tuesday.\n\nBaumgartner is one of Austria's more important players and enjoyed a fantastic season in Germany, scoring 17 goals and providing nine assists in all competitions for the Bundesliga club.\n\n\"This is of course very bitter news for Christoph and for us as a team,\" coach Ralf Rangnick said in a statement.\n\n\"He is an important player and a central personality within our team. Now our full support is for his recovery.\"\n\nAustria's World Cup campaign begins against Jordan on 16 June before taking on reigning world champions Argentina on 22 June and rounding off against Algeria on 28 June.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

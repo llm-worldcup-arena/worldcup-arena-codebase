@@ -1,0 +1,16 @@
+{
+ "team": "CUW",
+ "source": "msn.com",
+ "url": "https://www.msn.com/zh-cn/news/other/%E8%8B%B1%E4%B9%99-%E5%BC%97%E5%88%A9%E7%89%B9%E4%BC%8D%E5%BE%B7vs%E6%B2%83%E5%B0%94%E7%B4%A2%E5%B0%94%E4%BC%A4%E7%97%85%E5%90%8D%E5%8D%95%E6%9C%80%E6%96%B0/ar-AA1xYt97?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1",
+ "title": "MSN",
+ "news_date": "2026-06-20",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-20",
+ "fetched": "2026-06-20_1556",
+ "method": "jsonld",
+ "status": "blocked",
+ "original_text": "",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

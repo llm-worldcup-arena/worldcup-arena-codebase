@@ -1,0 +1,24 @@
+{
+ "source": "fifa.com",
+ "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/switzerland-bosnia-herzegovina-match-report-highlights",
+ "title": "Switzerland 4-1 Bosnia and Herzegovina | Match report and highlights",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-18",
+  "home": "SUI",
+  "away": "BIH",
+  "home_en": "Switzerland",
+  "away_en": "Bosnia and Herzegovina",
+  "home_zh": "瑞士",
+  "away_zh": "波黑",
+  "comp": "小组赛·B组",
+  "match_id": "M26",
+  "slug": "2026-06-18_SUI_vs_BIH"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "The Freiburg midfielder bagged a brace as the Swiss went on a second-half goal spree.\nSwitzerland goals: Manzambi (74, 90) Vargas (84), Xhaka pen (90+7) Bosnia and Herzgovina goal: Mahmic (90+3)\nSwitzerland moved to the top of Group B after a Johan Manzambi-inspired victory over ten-man Bosnia and Herzegovina.\nThe Freiburg star struck twice in a goal-laden second half as the Swiss followed up their opening-match draw against Qatar with an impressive and ultimately deserved victory.\nAfter a forgettable first period, the match burst into life after the interval when Manzambi came off the bench to crash home an unstoppable first-time strike. Fellow substitute Ruben Vargas doubled their advantage with a smart right-footed finish before setting up Manzambi to settle the outcome and put himself in the adidas Golden Boot picture.\nThe Bosnians, who had lost Tarik Muharemovic to a red card for a professional foul on Breel Embolo, pulled a goal back in stoppage time with a ferocious Ermin Mahmic strike. There was no hope of a comeback, though, and Switzerland captain Granit Xhaka restored their three-goal cushion as time ticked down with a coolly dispatched penalty.\nGroup B\nGroup B\nPWDLGFGAGDTCSPtsForm\n1\nCanada\nCAN\n2 1 0 7 1 6 -3 4\n-\n-\n-\n\n2\nSwitzerland\nSUI\n2 1 0 5 2 3 -2 4\n-\n-\n-\n\n3\nBosnia and Herzegovina\nBIH\n2 0 1 2 5 -3 -9 1\n-\n-\n-\n\n4\nQatar\nQAT\n2 0 1 7 -6 -11 1\n-\n-\n-\n\nKey statKey stat\nAt 20 years and 247 days, Manzambi became the youngest player to score two or more goals in a FIFA World Cup match for Switzerland. He is also the first player to score multiple World Cup goals for the Swiss having come off the bench.\nSuperior Player of the MatchSuperior Player of the Match\nJohan Manzambi (Switzerland)\nWhat they said...What they said...\n\"It was important to have all the energy on the pitch today and to find solutions. We needed to be patient and we chose to wait until the hydration break to make our tactical changes, so the opponent didn't have a chance to react. We brought fast players and after the opponent already ran a lot, we got spaces, and we were able to convincingly decide the match.\" Murat Yakin, Switzerland coach\n\"Up until the hydration break, we were the better team, we were playing well and put pressure on them. We always talk about a good Swiss team with very good individual players, who are capable of using spaces. They punished us heavily, but such is life. It was our first defeat in ten games, but the world doesn’t end now. We still have one game left and we’ll try to win that.\" Sergej Barbarez, Bosnia and Herzegovina coach\n“Yes, it’s probably the best moment of my career so far. We knew why we didn’t start well and we had to be patient today. But we’re a good team and I think we showed that today.”",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

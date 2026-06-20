@@ -1,0 +1,24 @@
+{
+ "source": "cryptobriefing.com",
+ "url": "https://cryptobriefing.com/cape-verde-stuns-spain-world-cup-2026/",
+ "title": "Cape Verde stuns Spain in World Cup 2026 upset",
+ "published": "2026-06-16T06:18:34+00:00",
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-15",
+  "home": "ESP",
+  "away": "CPV",
+  "home_en": "Spain",
+  "away_en": "Cape Verde",
+  "home_zh": "西班牙",
+  "away_zh": "佛得角",
+  "comp": "小组赛·H组",
+  "match_id": "M14",
+  "slug": "2026-06-15_ESP_vs_CPV"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "The reason has a name: Vozinha. The 40-year-old goalkeeper turned in the performance of a lifetime, making seven crucial saves to keep Spain off the scoresheet. At an age when most professional footballers have long since retired, Vozinha was diving, punching, and parrying shots from players half his age.\n\nCape Verde didn’t try to outplay Spain. They absorbed pressure with a defensive discipline that bordered on art, collapsed passing lanes, packed the box, and trusted their goalkeeper to handle whatever leaked through.\n\nHere’s the thing about Cape Verde’s presence in this tournament. This was their debut. Their first World Cup match ever. Ranked 67th in FIFA’s global rankings, they weren’t supposed to be competitive against the fourth-most-successful team in World Cup history.\n\nCape Verde is a country with fewer people than the city of Albuquerque, New Mexico. Their entire population could fit inside a handful of major football stadiums around the world.\n\nAnd yet they walked off the pitch in Atlanta with a point that Spain desperately wanted.\n\nFor Spain, this is an uncomfortable result but not a catastrophic one. Twenty-seven shots and no goals suggests a finishing problem, not a creation problem. Spain generated more than enough opportunities to win comfortably.\n\nVozinha’s seven-save masterclass will be replayed for years. A 40-year-old goalkeeper, playing in his country’s first World Cup match, shutting out the European champions with nothing but reflexes and nerve.\n\nCape Verde, a volcanic archipelago off the west coast of Africa with a population of roughly 529,000, just earned their first-ever World Cup point. They did it against Spain, the reigning European champions and co-favorites to win the entire tournament.\n\nThe Group H opener on June 15, 2026, at Mercedes-Benz Stadium in Atlanta ended 0-0.\n\nSpain did what Spain does. They controlled the ball, moved it with surgical precision, and created chances at will. Approximately 70% of possession belonged to La Roja in the first half alone.\n\nThey registered 27 shots on goal across the match. Twenty-seven. For context, that’s the kind of volume that usually produces three or four goals against most international sides.\n\nDaily news, analysis & market insights delivered free.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

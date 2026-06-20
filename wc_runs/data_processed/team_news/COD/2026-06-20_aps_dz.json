@@ -1,0 +1,16 @@
+{
+ "team": "COD",
+ "source": "aps.dz",
+ "url": "https://www.aps.dz/cn/sports/sport-collectif/mq83qdu5-%E5%AF%B9%E9%98%B5%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%89%8D%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E9%98%B5%E5%AE%B9%E6%A3%80%E9%AA%8C",
+ "title": "对阵阿根廷前的最后一次阵容检验",
+ "news_date": "2026-06-20",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-20",
+ "fetched": "2026-06-20_1556",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "阿尔及尔——阿尔及利亚国家足球队将于周三深夜至周四凌晨在堪萨斯城迎战玻利维亚队（阿尔及利亚时间1时），这场友谊赛将成为球队在2026年世界杯开赛前的最后一次全面演练。2026年世界杯将于6月11日至7月19日在美国、加拿大和墨西哥举行。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

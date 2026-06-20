@@ -1,0 +1,16 @@
+{
+ "team": "PAR",
+ "source": "news.zhibo8.com",
+ "url": "https://news.zhibo8.com/zuqiu/2026-06-06/6a236e2253d63native.htm",
+ "title": "距世界杯首战仅一周，巴拉圭国脚恩西索友谊赛受伤捂脸落泪-直播吧",
+ "news_date": "2026-06-20",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-20",
+ "fetched": "2026-06-20_1556",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "恩西索效力于法甲俱乐部斯特拉斯堡，巴拉圭将在北京时间6月13日上午迎来世界杯首战，对手是东道主美国。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

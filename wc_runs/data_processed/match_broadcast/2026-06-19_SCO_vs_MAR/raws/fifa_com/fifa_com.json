@@ -1,0 +1,24 @@
+{
+ "source": "fifa.com",
+ "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/scotland-morocco-match-report-highlights",
+ "title": "Scotland 0-1 Morocco | Match report and highlights",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-19",
+  "home": "SCO",
+  "away": "MAR",
+  "home_en": "Scotland",
+  "away_en": "Morocco",
+  "home_zh": "苏格兰",
+  "away_zh": "摩洛哥",
+  "comp": "小组赛·C组",
+  "match_id": "M30",
+  "slug": "2026-06-19_SCO_vs_MAR"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "The Atlas Lions striker netted the team's fastest-ever World Cup to get their North American campaign up and running.\nScotland 0-1 MoroccoScotland 0-1 Morocco\nMorocco goal: Saibari (2)\nMorocco took an early lead over Scotland at Boston Stadium and never looked back. The Atlas Lions' solitary goal came courtesy of Ismael Saibari, who ran past the Scottish back line, brought down a well-weighted ball from Brahim Diaz and slammed the ball past Angus Gunn and into the roof of the net.\nSaibari's finish was a record breaker: the fastest so far at FIFA World Cup 2026™ and Morocco's fastest ever at the global showpiece. The victory leaves Morocco with four points and sitting atop Group C ahead of Brazil's game in Philadelphia.\nAfter the break, the game's back-and-forth momentum continued. Saibari came close to a second, hitting a deflected shot off the bar after Bilal El Khannouss broke down the left wing and whipped in a low cross.\nMorocco came close again moments later when El Khannouss nearly flicked home a near post corner from Achraf Hakimi, only to be denied by Gunn again.\nScotland gained the ascendancy in the final 15 minutes. John McGinn, Ben Gannon-Doak and Scott McTominay attacked in waves as the Tartan Army willed them toward an equaliser, however time ran out as the Atlas Lions hung on for a crucial victory.\nKey statKey stat\nIsmael Saibari has become just the second African player to score in each of his first two appearances at the World Cup after Egypt's Mohamed Salah (against Russia and Saudi Arabia in 2018).\nSuperior Player of the MatchSuperior Player of the Match\nIsmael Saibari (Morocco)\nWhat they said...What they said...\n\"I think we played a very good game against a strong opponent, with players with a lot of experience. I think we had a lot of patience and we were able to create chances, although they were in a very, very low block. In the last ten minutes they pushed a little more and, when we had to step back, we did it well.\" Yassine Bounou, Morocco goalkeeper\n\"I thought we picked ourselves up in the first half. Maybe we took 10 minutes to get into the game again [after Morocco's goal] because obviously, when you get a setback, it is really difficult to respond. Weaker teams would have crumbled against that quality of opposition but we dug in, we got ourselves back in the game, and started moving the ball about a little bit better. I'm proud of the players, but obviously we’re all devastated and disappointed that we didn’t get the result we wanted.\"",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

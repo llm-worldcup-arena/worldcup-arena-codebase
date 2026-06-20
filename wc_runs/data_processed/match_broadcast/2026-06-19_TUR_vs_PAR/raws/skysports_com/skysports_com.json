@@ -1,0 +1,24 @@
+{
+ "source": "skysports.com",
+ "url": "https://www.skysports.com/football/news/17251/13553626/world-cup-2026-turkey-0-1-paraguay-vincenzo-montellas-side-eliminated-from-world-cup-after-back-to-back-defeats",
+ "title": "World Cup 2026: Turkey 0-1 Paraguay - Vincenzo Montella's side eliminated from World Cup after back-to-back defeats",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-19",
+  "home": "TUR",
+  "away": "PAR",
+  "home_en": "Türkiye",
+  "away_en": "Paraguay",
+  "home_zh": "土耳其",
+  "away_zh": "巴拉圭",
+  "comp": "小组赛·D组",
+  "match_id": "M31",
+  "slug": "2026-06-19_TUR_vs_PAR"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "In an emotionally-charged encounter in San Francisco, Turkey were sent packing from the World Cup having fallen to back-to-back defeats, losing 1-0 to steely Paraguay after also suffering at the hands of Australia. As a result, Turkey, one of the pre-tournament dark horses, join Haiti through the exit door at the earliest possible juncture. They failed to score a single goal despite a combined 62 attempts - the most efforts without scoring in any two-match span in competition history. Vincenzo Montella, who was booked on the night, could only watch on as his side squandered chance after chance. Orlando Gill made five saves to deny the likes of Kenan Yildiz, Can Uzun and Deniz Gul. Mert Muldur's header from a clever free-kick routine hit the crossbar and then the post. Agonisingly, nothing would stick. Merih Demiral also tried with a header late in stoppage time that he sent wide to end any feint hope of a revival. They become just the second team to suffer early elimination. \"We should have won these games so apologies to the Turkish people,\" reflected midfielder Arda Guler afterwards. Paraguay, meanwhile, are very much alive and kicking in Group D. They were forced to play the entirety of the second half with 10 players after Miguel Almiron was dismissed just before the break, punished by VAR in a new rule designed to add greater transparency and fairness to the game. Almiron covered his mouth in a confrontation with Muldur, spotted by the video officials. And after on-field referee Ivan Barton was sent to the screen to review the incident, the outcome was inevitable.   The game's winner arrived much earlier in the tie, after 65 seconds in fact, as Matias Galarza struck from range to score the tournament's fastest goal so far. Paraguay were defiant, with only a 22 per cent share of possession but enough defensive nouse to protect their lead with a player less. Their tournament fate will go down to the final round of group-stage matches, where they face Australia in a straight fight for second spot. Hosts USA are already assured of finishing as Group D winners. \"It's unforgettable,\" scorer Galarza said. \"This is the most beautiful stage in the world, playing amongst the best. I hope that Paraguay is happy.\" The key moments from San Francisco... 2: GOAL! Matias Galarza scores the fastest goal of the tournament so far, firing inside the post within the first 65 seconds of kick off. 14: Arda Guler balloons a presentable pullback over the bar as Turkey search for a route back. 33: Mulder his the crossbar and post with a header from Hakan Calhanoglu's deft free-kick. 45+3: RED! Almiron is dismissed for covering his mouth in a confrontation with Mulder, spotted by VAR. 56: Abdulkerim Bardakci teases another cross into the box that goes begging. Turkey's chance count mounts. 62: Kenan Yildiz dinks the ball into the six-yard area for Deniz Gul to head but the effort is lacking any proper pace. 89: Can Uzun steers a strike at goal from a neat cutback but sees his effort saved. Gul misses the rebound.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

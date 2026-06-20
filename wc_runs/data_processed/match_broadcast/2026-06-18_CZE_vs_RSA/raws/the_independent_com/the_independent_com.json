@@ -1,0 +1,24 @@
+{
+ "source": "the-independent.com",
+ "url": "https://www.the-independent.com/sport/football/czech-republic-south-africa-live-score-world-cup-2026-result-b2997798.html",
+ "title": "Czech Republic v South Africa LIVE: Result and reaction from World Cup clash",
+ "published": "2026-06-18T20:00:00.000Z",
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-18",
+  "home": "CZE",
+  "away": "RSA",
+  "home_en": "Czech Republic",
+  "away_en": "South Africa",
+  "home_zh": "捷克",
+  "away_zh": "南非",
+  "comp": "小组赛·A组",
+  "match_id": "M25",
+  "slug": "2026-06-18_CZE_vs_RSA"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "The 2026 World Cup is underway as 48 nations are split into 12 groups for the first time in the tournament’s long history.\nCo-hosts Mexico, USA and Canada are the top seeds in Groups A, B and D respectively, while Scotland are in Group C with Brazil, Morocco and Haiti, and England are all the way down in Group L with Croatia, Ghana and Panama. The top two sides in each group will qualify for the World Cup’s first ever round of 32, as will the eighth best third-place teams. Just three points could be enough for some teams to reach the knockout stages.\nThere will be 104 matches, up by 40 since the Qatar World Cup in 2022, while Lionel Messi and Cristiano Ronaldo likely to play on this stage for the last time in their glittering careers.\nHere are all the fixtures, results and latest group standings:",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

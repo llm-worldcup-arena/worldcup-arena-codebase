@@ -1,0 +1,24 @@
+{
+ "source": "fifa.com",
+ "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/ir-iran-new-zealand-highlights-match-report",
+ "title": "IR Iran 2-2 New Zealand | Match report and highlights",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-15",
+  "home": "IRN",
+  "away": "NZL",
+  "home_en": "Iran",
+  "away_en": "New Zealand",
+  "home_zh": "伊朗",
+  "away_zh": "新西兰",
+  "comp": "小组赛·G组",
+  "match_id": "M15",
+  "slug": "2026-06-15_IRN_vs_NZL"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Elijah Just's brace was not enough as the All Whites were twice pegged back by IR Iran in an absorbing Group G encounter.\nIR Iran 2-2 New Zealand | Group GIR Iran 2-2 New Zealand | Group G\nIR Iran goals: Rezaeian (32), Mohebbi (64) New Zealand goals: Just (7, 54)\nIR Iran denied New Zealand a first FIFA World Cup™ win after twice coming from behind to draw their Group G opener at Los Angeles Stadium.\nAfter Mehdi Taremi tested Max Crocombe in a lively opening, Elijah Just went one better to give the All Whites the lead with a low, drilled finish.\nChris Wood was instrumental in the breakthrough goal and the big striker was at it again moments later as he found Sarpreet Singh, who forced an unconvincing save from Alireza Beiranvand.\nIran responded in kind through Taremi, whose 20-yard strike crashed against the upright before the first hydration break. The pause seemed to work in favour of Amir Ghalenoei's team, who returned with greater intent and quickly found an equaliser.\nRamin Rezaeian broke through the defensive line and calmly finished with the outside of his boot past Crocombe, bringing the score to 1-1.\nNew Zealand restored their advantage early in the second half when Wood released Just for a clipped finish over the advancing Beiranvand.\nHowever, Iran weren't behind for long. Goalscorer Rezaeian turned provider, delivering an inch-perfect cross for Mohammad Mohebbi to power a header in off the inside of the post.\nThere was no separating the teams in the closing stages, with Wood heading straight at Beiranvand in added time. New Zealand's bid for a first World Cup victory rolls on to their next Group G assignment against Egypt on 21 June. Iran, meanwhile, face Belgium, with all four sides locked on one point apiece after Matchday 1.\nKey statKey stat\nElijah Just is the first New Zealand player to score more than once in a World Cup match.\nSuperior Player of the MatchSuperior Player of the Match\nRamin Rezaeian (IR Iran)\nLoaded: 0%\n0:00\nProgress: 0%\n0:00\nProgress: 0%\nCurrent Time 0:00\n/\nDuration Time 0:00\nRemaining Time -0:00\nFIFA Power Rankings explainedFIFA Power Rankings explained\nWhat they said...What they said...\n\"It’s really special. We had a lot of goals coming in and the first was to get on the board, so one point is OK and there are a lot of positives to build on. Scoring once is something that I couldn’t have dreamed of and two [goals] is just amazing.\"",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

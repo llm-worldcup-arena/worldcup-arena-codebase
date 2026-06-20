@@ -1,0 +1,24 @@
+{
+ "source": "es.whoscored.com",
+ "url": "https://es.whoscored.com/matches/1953888/matchreport/internacional-fifa-world-cup-2026-france-senegal",
+ "title": "Crónica del Partido - France 3-1 Senegal - FIFA World Cup 2026",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-16",
+  "home": "FRA",
+  "away": "SEN",
+  "home_en": "France",
+  "away_en": "Senegal",
+  "home_zh": "法国",
+  "away_zh": "塞内加尔",
+  "comp": "小组赛·I组",
+  "match_id": "M17",
+  "slug": "2026-06-16_FRA_vs_SEN"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Do you consent to these personal data processing activities by us and our partners?\nStore and/or access information on a device\nPrecise geolocation data, and identification through device scanning\nPersonalised advertising and content, advertising and content measurement, audience research and services development\nSome partners may rely on their legitimate interest. Your choices on this site will be applied for this site. You can change your settings at any time, including withdrawing your consent, by clicking the link or icon at the bottom of this page. Please note that you may need to scroll down to access it. Cookies, IDs, browser data or similar online identifiers could be processed for one or several of the purposes presented here.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

@@ -1,0 +1,16 @@
+{
+ "team": "EGY",
+ "source": "sports.now.com",
+ "url": "https://sports.now.com/home/news/details?id=39626945004",
+ "title": "【世盃‧G組列強】埃及防反突破能力強 - Now Sports",
+ "news_date": "2026-06-20",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-20",
+ "fetched": "2026-06-20_1556",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "繼續訪問/使用本網站，即表示閣下同意其使用cookies。要了解更多有關閣下如何管理cookies設置以及我們網站如何使用cookies的資料，請閱讀我們的 《Cookies政策》 。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

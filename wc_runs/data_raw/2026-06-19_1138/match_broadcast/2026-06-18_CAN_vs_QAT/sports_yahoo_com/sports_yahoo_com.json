@@ -1,0 +1,24 @@
+{
+ "source": "sports.yahoo.com",
+ "url": "https://sports.yahoo.com/soccer/fifa-world-cup/qatar-canada-13587195/",
+ "title": "Canada 6 - 0 Qatar: Final score, results, recap, box score, stats - Yahoo Sports",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-18",
+  "home": "CAN",
+  "away": "QAT",
+  "home_en": "Canada",
+  "away_en": "Qatar",
+  "home_zh": "加拿大",
+  "away_zh": "卡塔尔",
+  "comp": "小组赛·B组",
+  "match_id": "M27",
+  "slug": "2026-06-18_CAN_vs_QAT"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Canada 6 - 0 Qatar: Final score, results, recap, box score, stats\nGoal\n10 - Jonathan David\nAssist\n25 - Nathan Saliba\nSubstitution - In\n3 - Lucas Mendes\nSubstitution - Out\n20 - Ahmed Fathy\nSubstitution - In\n23 - Niko Sigur\nSubstitution - Out\n17 - Tajon Buchanan\nGoal\n26 - Mohammed Manai\nSubstitution - In\n12 - Tani Oluwaseyi\nSubstitution - Out\n20 - Ali Ahmed\nSubstitution - In\n14 - Jacob Shaffelburg\nSubstitution - Out\n4 - Luc De Fougerolles\nYellow Card\n20 - Ahmed Fathy\nSubstitution - In\n25 - Alhashmi Alhussein\nSubstitution - Out\n11 - Akram Afif\nSubstitution - In\n25 - Nathan Saliba\nSubstitution - Out\n8 - Ismael Kone\nRed Card\n23 - Assim Madibo\nSubstitution - In\n15 - Moise Bombito\nSubstitution - Out\n13 - Derek Cornelius\nSubstitution - In\n20 - Ahmed Fathy\nSubstitution - Out\n8 - Edmilson Junior\nSubstitution - In\n26 - Mohammed Manai\nSubstitution - Out\n5 - Jassem Gaber",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

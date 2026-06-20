@@ -1,0 +1,16 @@
+{
+ "team": "SWE",
+ "source": "olympics.com",
+ "url": "https://www.olympics.com/en/news/fifa-world-cup-2026-sweden-great-escape-graham-potter-all-players-full-squad-list-key-stats-schedule",
+ "title": "Sweden at FIFA World Cup 2026: All players, full squad list, key stats and schedule",
+ "news_date": "2026-06-20",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-20",
+ "fetched": "2026-06-20_1556",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Sweden at FIFA World Cup 2026: All players, full squad list, key stats and schedule\nQuick facts\nCaptain: Victor Lindelöf\nManager: Graham Potter\nWorld Cup appearances (including 2026): 13\nBest World Cup result: Final (1958)\nGoalkeepers: Viktor Johansson (Stoke City), Kristoffer Nordfeldt (AIK Fotball AB), Jacob Widell Zetterström (Derby County)\nDefenders: Hjalmar Ekdal (Burnley), Gabriel Gudmundsson (Leeds United), Isak Hien (Atalanta), Gustaf Lagerbielke (SC Braga), Victor Lindelöf (Aston Villa), Eric Smith (St Pauli), Carl Starfelt (Celta de Vigo), Elliot Stroud Mjallby), Daniel Svensson (Borussia Dortmund)\nMidfielders: Jesper Kalström (Udinese), Yasin Ayari (Brighton), Mattias Svanberg (Wolfsburg), Lucas Bergvall (Tottenham Hotspur), Besfort Zeneli (Saint-Gilloise), Herman Johansson (FC Dallas)*\nForwards: Taha Ali (Malmö), Alexander Bernhardsson (Holstein Kiel), Anthony Elanga (Newcastle), Viktor Gyökeres (Arsenal), Alexander Isak (Liverpool), Gustaf Nilsson (Club Brugge), Benjamin Nygren (Celtic), Ken Sema (Pafos)\n*On 30 May, Emil Holm withdrew from the squad due to injury and was replaced by Herman Johansson",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

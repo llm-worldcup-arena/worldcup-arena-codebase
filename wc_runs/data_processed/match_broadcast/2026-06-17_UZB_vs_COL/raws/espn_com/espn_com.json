@@ -1,0 +1,24 @@
+{
+ "source": "espn.com",
+ "url": "https://www.espn.com/soccer/report/_/gameId/760436",
+ "title": "Uzbekistan 1-3 Colombia (Jun 17, 2026) Game Analysis - ESPN",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-17",
+  "home": "UZB",
+  "away": "COL",
+  "home_en": "Uzbekistan",
+  "away_en": "Colombia",
+  "home_zh": "乌兹别克斯坦",
+  "away_zh": "哥伦比亚",
+  "comp": "小组赛·K组",
+  "match_id": "M24",
+  "slug": "2026-06-17_UZB_vs_COL"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Second-half goals from Luis Díaz and Jáminton Campaz gave Colombia a 3-1 victory over debutants Uzbekistan as the last two teams to begin their World Cup campaign clashed in the Azteca stadium in Mexico City.\nAbbosbek Fayzullaev had equalised Daniel Muñoz's first-half opener, but Bayern Munich's Diaz put them ahead before Campaz's late header finally saw off a battling Uzbekistan.\nColombia celebrates\nHector Vivas - FIFA\nA physical start to the match saw Colombia's Johan Mojica booked after just seven minutes, the South Americans enjoying more of the possession with Jhon Arias firing the first real chance wide from outside the box.\nDiaz struck the post as he fired across goal and moments later was bundled off the ball by Manchester City defender Abdukodir Khusanov, who collected a cameraman and a yellow card.\nDiaz picked himself off the ground and six minutes before half-time, his ball into the box was met by a well-timed run from Crystal Palace full-back Munoz to steer the ball past goalkeeper Utkir Yusupov.\nUzbekistan showed more attacking intent after the break and found an equaliser with their first real opportunity on the hour mark, Camilo Vargas saving Eldor Shomurodov's volley only for the ball to loop up and Abbosbek Fayzullaev headed home from almost on the line.\nThe lead lasted just five minutes, Yusupov failing to keep out Diaz's shot as Colombia broke in numbers after regaining possession in midfield.\nSubstitute Campaz finally ended any doubt as he headed in Cucho Hernández's cross nine minutes into stoppage time, although teenager Bekhruz Karimov still had time to crash a shot against the crossbar.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

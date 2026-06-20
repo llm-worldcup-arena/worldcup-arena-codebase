@@ -1,0 +1,24 @@
+{
+ "source": "rte.ie",
+ "url": "https://www.rte.ie/sport/world-cup-2026/2026/0615/1578619-world-cup-2026-saudi-arabia-v-uruguay-updates/",
+ "title": "World Cup 2026: Saudi Arabia 1-1 Uruguay recap",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-15",
+  "home": "KSA",
+  "away": "URU",
+  "home_en": "Saudi Arabia",
+  "away_en": "Uruguay",
+  "home_zh": "沙特阿拉伯",
+  "away_zh": "乌拉圭",
+  "comp": "小组赛·H组",
+  "match_id": "M13",
+  "slug": "2026-06-15_KSA_vs_URU"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Our report is live now on the site, but the soccer doesn't stop.\nWe've Iran and New Zealand coming up shortly - stay tuned to our tracker (link here) and to RTÉ2 and the RTÉ Player (link here).\n01:11\nThis was another great save to keep Valverde out\nMature Content\nYou must be over the age of 18 in order to view this content\nLeave\n01:06\nThis is the Uruguay equaliser, which earned them a share of the spoils\nMature Content\nYou must be over the age of 18 in order to view this content\nLeave\nFull-time: Saudi Arabia 1-1 Uruguay\nNo, they can't force it home! A good point for Saudi against a team that were many people's fancy to go far in this tournament.\nUruguay were much, much better in the second half after a fairly dull opening 45 minutes. But Mohammed Al Owais in the Saudi goal did make some big stops to keep it to one.\nIt leaves all four sides on a point after one game.\n01:03\n90+8 mins: Saudi Arabia 1-1 Uruguay\nLate, late corner for Uruguay - last chance...\n01:01\n90+5 mins: Saudi Arabia 1-1 Uruguay\nTwo minutes to go - can Uruguay find the winner?\nThey're the only side looking like they're going to win it.\n01:00\n90+3 mins: Saudi Arabia 1-1 Uruguay\nAl Lajami, Abdullah Al Hamdan and Alaa Hejji come in for Saudi, with Abdulhamid, Al Harbi and Al Buraikan making way.\nWe resume and Valverde goes so close to sticking a low strike into the bottom right corner, but again Al Owais tips it around his left post. He's been really good in this game, although he did possibly let himself down for the goal.\n00:57\n90+1 mins: Saudi Arabia 1-1 Uruguay\nAl Owais with another good save to keep de la Cruz's shot out.\n00:56\n90 mins: Saudi Arabia 1-1 Uruguay\nRidrigo Aguirre replaces Vinas and we'll have seven minutes of added time.\n00:53\n87 mins: Saudi Arabia 1-1 Uruguay\nIs that Saudi's first shot of this half? Out of nowhere, Abdulhamid goes close from the edge of the box, firing just over Muslera's crossbar.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

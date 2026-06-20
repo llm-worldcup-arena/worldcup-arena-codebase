@@ -1,0 +1,24 @@
+{
+ "source": "cosm.com",
+ "url": "https://www.cosm.com/los-angeles/events/wc-usa-australia-hwp-2026-06-19-1200",
+ "title": "2026 FIFA World Cup™ USA vs. Australia",
+ "published": "1781895600",
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-19",
+  "home": "USA",
+  "away": "AUS",
+  "home_en": "United States",
+  "away_en": "Australia",
+  "home_zh": "美国",
+  "away_zh": "澳大利亚",
+  "comp": "小组赛·D组",
+  "match_id": "M32",
+  "slug": "2026-06-19_USA_vs_AUS"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "2026 FIFA World Cup™ USA vs. Australia\nBe a part of the action as the USA takes on Australia in Shared Reality at Cosm. Go pitchside from the FIFA World Cup on FOX. Surround yourself in the action as you’re immersed in every pass, save, and goal of the world’s biggest tournament. [Time subject to change*]\nThe USA continues Group D play from Seattle. The Stars and Stripes face Australia for the first time at a World Cup. The Australians finished second in a group that included eventual finalists France in 2022, before losing 2-1 in the Round of 16 to champions Argentina. Cosm is where the heart-pounding action of the World Cup reaches another level — you’ll have to see it for yourself.\nThe content shown at this Event is protected by copyright. The use of cell phones or any other recording devices to live-stream or otherwise materially copy the on-screen Event presentation is strictly prohibited. If you do so, you consent to your immediate removal from the Event and the forfeiture of any Event content in your possession. Thank you for your understanding and cooperation.\n*Event times hosted by Cosm may be subject to change due to scheduling conflicts. Cosm reserves the right, at its sole discretion, to adjust the start or end time of your event, without notice, which may differ from the time listed on your original ticket.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}
