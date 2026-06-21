@@ -1,0 +1,331 @@
+{
+ "match_id": "4627872",
+ "date": "2026-06-20",
+ "comp": "世界杯·E组",
+ "ha_home": "中",
+ "home": "GER",
+ "away": "CIV",
+ "score": "2-1",
+ "venue": "BMO Field (Toronto)",
+ "attendance": 43036,
+ "goals": [
+  {
+   "min": 30,
+   "side": "away",
+   "player": "Franck Kessié",
+   "sub": null
+  },
+  {
+   "min": 68,
+   "side": "home",
+   "player": "Deniz Undav",
+   "sub": null
+  },
+  {
+   "min": 90,
+   "side": "home",
+   "player": "Deniz Undav",
+   "sub": null
+  }
+ ],
+ "cards": [],
+ "stats": {
+  "射门": [
+   "16",
+   "9"
+  ],
+  "射正": [
+   "7",
+   "2"
+  ],
+  "禁区内射门": [
+   "5",
+   "2"
+  ],
+  "扑救": [
+   "4",
+   "5"
+  ],
+  "角球": [
+   "8",
+   "3"
+  ],
+  "越位": [
+   "0",
+   "1"
+  ],
+  "控球%": [
+   "60%",
+   "40%"
+  ],
+  "传中": [
+   "131",
+   "102"
+  ],
+  "传球": [
+   "555",
+   "367"
+  ],
+  "xG预期进球": [
+   "1.95",
+   "0.8"
+  ],
+  "xGOT/大机会": [
+   "2.36",
+   "1.1"
+  ]
+ },
+ "lineups": {
+  "home": [
+   {
+    "no": 1,
+    "name": "Manuel Neuer"
+   },
+   {
+    "no": 18,
+    "name": "Nathaniel Brown"
+   },
+   {
+    "no": 15,
+    "name": "Nico Schlotterbeck"
+   },
+   {
+    "no": 4,
+    "name": "Jonathan Tah"
+   },
+   {
+    "no": 6,
+    "name": "Joshua Kimmich"
+   },
+   {
+    "no": 5,
+    "name": "Aleksandar Pavlović"
+   },
+   {
+    "no": 23,
+    "name": "Felix Nmecha"
+   },
+   {
+    "no": 17,
+    "name": "Florian Wirtz"
+   },
+   {
+    "no": 10,
+    "name": "Jamal Musiala"
+   },
+   {
+    "no": 19,
+    "name": "Leroy Sané"
+   },
+   {
+    "no": 7,
+    "name": "Kai Havertz"
+   },
+   {
+    "no": 20,
+    "name": "Nadiem Amiri"
+   },
+   {
+    "no": 8,
+    "name": "Leon Goretzka"
+   },
+   {
+    "no": 9,
+    "name": "Jamie Leweling"
+   },
+   {
+    "no": 2,
+    "name": "Antonio Rüdiger"
+   },
+   {
+    "no": 26,
+    "name": "Deniz Undav"
+   },
+   {
+    "no": 3,
+    "name": "Waldemar Anton"
+   },
+   {
+    "no": 12,
+    "name": "Oliver Baumann"
+   },
+   {
+    "no": 14,
+    "name": "Maximilian Beier"
+   },
+   {
+    "no": 13,
+    "name": "Pascal Gross"
+   },
+   {
+    "no": 21,
+    "name": "Alexander Nübel"
+   },
+   {
+    "no": 25,
+    "name": "Assan Ouédraogo"
+   },
+   {
+    "no": 22,
+    "name": "David Raum"
+   },
+   {
+    "no": 16,
+    "name": "Angelo Stiller"
+   },
+   {
+    "no": 24,
+    "name": "Malick Thiaw"
+   },
+   {
+    "no": 11,
+    "name": "Nick Woltemade"
+   }
+  ],
+  "away": [
+   {
+    "no": 1,
+    "name": "Yahia Fofana"
+   },
+   {
+    "no": 3,
+    "name": "Ghislain Konan"
+   },
+   {
+    "no": 20,
+    "name": "Emmanuel Agbadou"
+   },
+   {
+    "no": 7,
+    "name": "Odilon Kossounou"
+   },
+   {
+    "no": 5,
+    "name": "Wilfried Singo"
+   },
+   {
+    "no": 18,
+    "name": "Ibrahim Sangare"
+   },
+   {
+    "no": 11,
+    "name": "Yan Diomande"
+   },
+   {
+    "no": 26,
+    "name": "Christ Inao Oulaï"
+   },
+   {
+    "no": 8,
+    "name": "Franck Kessié"
+   },
+   {
+    "no": 15,
+    "name": "Amad Diallo"
+   },
+   {
+    "no": 9,
+    "name": "Ange-Yoan Bonny"
+   },
+   {
+    "no": 10,
+    "name": "Simon Adingra"
+   },
+   {
+    "no": 17,
+    "name": "Guéla Doué"
+   },
+   {
+    "no": 6,
+    "name": "Seko Fofana"
+   },
+   {
+    "no": 22,
+    "name": "Evann Guessand"
+   },
+   {
+    "no": 19,
+    "name": "Nicolas Pépé"
+   },
+   {
+    "no": 14,
+    "name": "Oumar Diakité"
+   },
+   {
+    "no": 2,
+    "name": "Ousmane Diomande"
+   },
+   {
+    "no": 25,
+    "name": "Parfait Guiagon"
+   },
+   {
+    "no": 16,
+    "name": "Mohamed Koné"
+   },
+   {
+    "no": 23,
+    "name": "Alban Lafont"
+   },
+   {
+    "no": 21,
+    "name": "Evan N'Dicka"
+   },
+   {
+    "no": 13,
+    "name": "Christopher Opéri"
+   },
+   {
+    "no": 4,
+    "name": "Jean Michael Seri"
+   },
+   {
+    "no": 24,
+    "name": "Bazoumana Toure"
+   },
+   {
+    "no": 12,
+    "name": "Elye Wahi"
+   }
+  ]
+ },
+ "missing": [],
+ "events": [
+  {
+   "min": 22,
+   "side": "home",
+   "type": "T4",
+   "sub": "乌龙",
+   "player": "Goal Disallowed"
+  },
+  {
+   "min": 30,
+   "side": "away",
+   "type": "进球",
+   "sub": null,
+   "player": "Franck Kessié"
+  },
+  {
+   "min": 68,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Deniz Undav"
+  },
+  {
+   "min": 90,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Deniz Undav"
+  }
+ ],
+ "injuries": [],
+ "suspensions": [],
+ "ratings": {},
+ "quotes": [],
+ "narrative": "",
+ "prediction_note": "",
+ "_note": "macheta/Sofascore 权威硬数据；injuries/suspensions/ratings/quotes/narrative/prediction_note 待 agent WebSearch 补。",
+ "ht": "0-1"
+}

@@ -1,0 +1,16 @@
+{
+ "team": "AUS",
+ "source": "news.qq.com",
+ "url": "https://news.qq.com/rain/a/20260526A03VT200",
+ "title": "ESPN：澳大利亚国脚中场麦格里因伤无缘世界杯_腾讯新闻",
+ "news_date": "2026-05-26",
+ "published": "2026-05-26 10:46:15",
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-21",
+ "fetched": "2026-06-21_1543",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "北京时间5月23日晚间，英冠升级附加赛决赛，米德尔斯堡客场对阵赫尔城，最终米德尔斯堡0-1不敌赫尔城无缘冲超，这场比赛第76分钟，澳大利亚国脚麦格里因伤离场。\n\n据ESPN消息， 澳大利亚国家队方面确认，中场球员麦格里确定因伤无缘本届世界杯。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

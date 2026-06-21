@@ -1,0 +1,24 @@
+{
+ "source": "sportsmole.co.uk",
+ "url": "https://www.sportsmole.co.uk/football/netherlands/world-cup-2026/head-to-head/netherlands-vs-sweden-head-to-head-record-and-past-meetings_599518.html",
+ "title": "Netherlands vs. Sweden: Head-to-head record and past meetings ahead of 2026 World Cup clash - Sports Mole",
+ "published": "2026-06-18T08:55:00Z",
+ "tier": "3",
+ "lang": "es",
+ "match": {
+  "date": "2026-06-20",
+  "home": "NED",
+  "away": "SWE",
+  "home_en": "Netherlands",
+  "away_en": "Sweden",
+  "home_zh": "荷兰",
+  "away_zh": "瑞典",
+  "comp": "小组赛·F组",
+  "match_id": "M35",
+  "slug": "2026-06-20_NED_vs_SWE"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Netherlands vs. Sweden is a fixture that dates all the way back to 1908, with the pair first meeting in a third-place playoff at the Olympic Games - Netherlands won 2-0 on that occasion, and they were victorious in the first four games between the two nations.\n\nSweden's first win over Netherlands was a 4-1 success in a friendly in August 1919, but five of their opening six games in all competitions ended in wins for Holland.\n\nNetherlands lead the overall head-to-head record between the two teams, having won 12 of their previous 25 matches, suffering eight defeats and also drawing five.\n\nThe last meeting between the two teams was a 2026 World Cup group game, with the Netherlands recording a 5-1 victory.\n\nThere had only been one previous clash between the two nations at a World Cup - that came at the 1974 competition, with the pair playing out a goalless draw in the group stage; Netherlands went on to lose the 1974 World Cup final to West Germany.\n\nThe pair also famously met in the quarter-finals of Euro 2004, with Netherlands winning 5-4 on penalties following a goalless draw.\n\nGet FREE daily news and in-depth previews for games from the biggest leagues and competitions in world football — straight to your inbox.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

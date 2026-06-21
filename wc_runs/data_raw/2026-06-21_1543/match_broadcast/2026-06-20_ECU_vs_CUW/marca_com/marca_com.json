@@ -1,0 +1,24 @@
+{
+ "source": "marca.com",
+ "url": "https://www.marca.com/mx/futbol/mundial/cronica/2026/06/21/6a3744aeca474175318b45c3.html",
+ "title": "Ecuador - Curaçao: Resumen Ecuador vs Curazao: Enner Valencia y Pedro Vite firman 'papelón' que los pone con un pie fuera del Mundial 2026 - Mundial",
+ "published": "2026-06-21T01:56:01Z",
+ "tier": "2",
+ "lang": "es",
+ "match": {
+  "date": "2026-06-20",
+  "home": "ECU",
+  "away": "CUW",
+  "home_en": "Ecuador",
+  "away_en": "Curaçao",
+  "home_zh": "厄瓜多尔",
+  "away_zh": "库拉索",
+  "comp": "小组赛·E组",
+  "match_id": "M34",
+  "slug": "2026-06-20_ECU_vs_CUW"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Ecuador - Curaçao: Resumen Ecuador vs Curazao: Enner Valencia y Pedro Vite firman 'papelón' que los pone con un pie fuera del Mundial 2026\nResumen Ecuador vs Curazao: Enner Valencia y Pedro Vite firman 'papelón' que los pone con un pie fuera del Mundial 2026\nLos ecuatorianos suman su segundo partido sin anotar gol; mientras que Curazao hizo historia\nEnner Valencia y Pedro Vite firman 'papelón' que los pone con un pie fuera del Mundial 2026\nRAÍZ\nActualizado 20/06/2026 - 21:09 CDT\nLa Selección de Ecuador llegó a este partido ante Curazao con la necesidad de una victoria y en el papel parecía que lo lograrían por enfrentarse a una de las selecciones más débiles de esta edición, pero el gol nunca llegó, firmando así uno de los más grandes fracasos en la historia del futbol ecuatoriano; teniendo un pie fuera de esta Copa Mundial de la FIFA 2026.\nEcuador era una de las selecciones de Conmebol que más despertaba ilusión por las clasificatorias que hizo, siendo de los conjuntos más sólidos, pero que no ha podido encontrarse con el gol en dos partidos disputados y los más fáciles del Grupo E porque su cierre es ante Alemania, pero llegan con la obligación de ganar.\nHistórico Curazao: Primer punto en su primer Mundial\nPor otro lado, Curazao ha conseguido su resultado más importante en la historia de su país; se han logrado levantar de una durísima goleada por Alemania de 7-1 y ahora, en su primera Copa Mundial de la FIFA en la que han participado, ya han conseguido su primer punto.\nCurazao celebra haber obtenido su primer punto en el Mundial 2026 tras empate con Ecuadorinstagram\nCurazao, una pequeña Isla de apenas 155 mil habitantes, pudo resistir a los ataques de Ecuador, teniendo como figura a su portero Eloy Room, quien se ha sacado la espina de su primer partido mundialista y hoy marcó diferencia y fue fundamental para hacer historia con su país, que ahora enfrentará a Costa de Marfil y tiene grandes posibilidades de avanzar en el Grupo E.\nCurazao busca seguir haciendo historia; mientras que Ecuador se niega a caer en el Mundial 2026\nHasta el momento, el único clasificado en el Grupo E es Alemania que lleva paso perfecto y ahora se enfrenta a un Ecuador con la obligación de ganar y no sumar un fracaso en su historia. Sin embargo, Curazao parece que es el equipo con más vida después de haber iniciado con una derrota dolorosa, pues se enfrenta a Costa de Marfil y el ganador avanzará a la siguiente ronda.\nAfición de Ecuador muestra su decepción tras no lograr goles frente a CurazaoX\nAsí marcha el Grupo E hasta el momento:\nAlemania - 6 pts (+7)\nCosta de Marfil - 3 pts (0)\nEcuador - 1 pts (-1)\nCurazao - 1 pts (-6)\nSelección de Fútbol de Ecuador - MX\nSelección de Fútbol de Curazao - MX\nFutbol Noticias\nMundial FIFA 2026\nMundial",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

@@ -1,0 +1,24 @@
+{
+ "source": "fifa.com",
+ "url": "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021475",
+ "title": "Tunisia v Japan 0-4 | Result, Stats & Highlights | First Stage | FIFA World Cup 2026™ | FIFA",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-20",
+  "home": "TUN",
+  "away": "JPN",
+  "home_en": "Tunisia",
+  "away_en": "Japan",
+  "home_zh": "突尼斯",
+  "away_zh": "日本",
+  "comp": "小组赛·F组",
+  "match_id": "M36",
+  "slug": "2026-06-20_TUN_vs_JPN"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Tunisia v Japan 0-4 | Result, Stats & Highlights | First Stage | FIFA World Cup 2026™\n\"We didn't know exactly what the opponents would do, but we didn't focus too much on them. Instead, we prepared well for what we wanted to do and played aggressively,\" Japan coach Hajime Moriyasu told DAZN.\n\"During our preparations, the coaching staff made it clear what we needed to do, and because of that the players were able to perform to their full potential. Many Japanese supporters came here to Monterrey, sang the national anthem with us and cheered us on loudly. Their support was a huge boost for us.\"\nDominance for Japan, devastation for Tunisia. Herve Renard had it all to do to try to keep the North Africans in the World Cup but they can have no complaints about their exit after shipping four goals in Monterrey and nine in two matches.\nAfter drawing their opener against the Netherlands, meanwhile, Japan look very impressive as they registered a record victory at the global showpiece. In 151 previous matches featuring AFC teams at the FIFA World Cup, no nation has ever scored four goals in a match. Japan have become the first to do so.\nThe 1,000th game in World Cup history certainly lived up to expectations.\nTunisia0\n-\n4Japan\nThe referee brings the second period to an end.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

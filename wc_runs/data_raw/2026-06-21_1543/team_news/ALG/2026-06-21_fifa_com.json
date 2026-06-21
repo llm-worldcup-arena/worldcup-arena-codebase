@@ -1,0 +1,16 @@
+{
+ "team": "ALG",
+ "source": "fifa.com",
+ "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/algeria-squad-announcement-vladimir-petkovic",
+ "title": "Mahrez heads Algeria's World Cup squad as Zidane included",
+ "news_date": "2026-06-21",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-21",
+ "fetched": "2026-06-21_1543",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Riyad Mahrez leads a squad featuring goalkeeper Luca Zidane, son of 1998 World Cup winner Zinedine Zidane.\nVladimir Petkovic has named his 26-man squad for the FIFA World Cup 2026™, where Algeria will take on holders Argentina, Austria and Jordan in Group J.\nCaptain Riyad Mahrez and record appearance-maker Aissa Mandi are among the team's most experienced squad members, alongside midfielder Nabil Bentaleb, who returns after an injury-disrupted international career.\nGoalkeeper Luca Zidane, son of 1998 World Cup winner Zinedine Zidane, also makes the grade despite suffering a broken chin and jaw while playing for Granada in April. The 28-year-old has won six caps since debuting for Les Fennecs last October, with Oussama Benbot and Melvin Mastil completing the goalkeeping trio.\nIn another boost for Petkovic, attacking duo Houssem Aouar and Amine Gouiri are back in the fold after missing the Africa Cup of Nations through injury.\nAlgeria, who are playing at their first World Cup since losing in the Round of 16 to eventual winners Germany at Brazil 2014, will play warm-up games against the Netherlands (3 June) and Bolivia (10 June), before beginning their Group J campaign against Argentina in Kansas City on 16 June.\nAlgeria's FIFA World Cup 2026 squadAlgeria's FIFA World Cup 2026 squad\nGoalkeepersGoalkeepers\nOussama Benbot Melvin Mastil Luca Zidane\nDefendersDefenders\nAchref Abada Rayan Ait-Nouri Zineddine Belaid Rafik Belghali Ramy Bensebaïni Samir Chergui Jaouen Hadjam Aissa Mandi Mohamed Tougai\nMidfieldersMidfielders\nHoussem Aouar Nabil Bentaleb Hicham Boudaoui Fares Chaibi Ibrahim Maza Yacine Titraoui Ramiz Zerrouki\nForwardsForwards\nMohamed Amoura Nadhir Benbouali Adil Boulbina Fares Ghedjemis Amine Gouiri Riyad Mahrez Anis Hadj Moussa\nAll squads are provisional until the final list of 26 players is announced by FIFA, following their submission by participating teams, on 2 June.\nAlgeria’s World Cup 2026 fixtures and groupAlgeria’s World Cup 2026 fixtures and group\n16 June: Argentina v Algeria - Kansas City Stadium\n22 June: Jordan v Algeria - San Francisco Bay Area Stadium\n27 June: Algeria v Austria- Kansas City Stadium\nExplore hospitality packages for Algeria's FIFA World Cup 2026™ matches",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

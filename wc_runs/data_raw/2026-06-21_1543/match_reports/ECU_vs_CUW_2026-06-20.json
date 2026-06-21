@@ -1,0 +1,363 @@
+{
+ "match_id": "4627896",
+ "date": "2026-06-20",
+ "comp": "世界杯·E组",
+ "ha_home": "中",
+ "home": "ECU",
+ "away": "CUW",
+ "score": "0-0",
+ "venue": "Arrowhead Stadium (Kansas City)",
+ "attendance": 68598,
+ "goals": [],
+ "cards": [
+  {
+   "min": 38,
+   "side": "home",
+   "player": "Jordy Alcivar",
+   "type": "黄牌"
+  },
+  {
+   "min": 39,
+   "side": "away",
+   "player": "Leandro Bacuna",
+   "type": "黄牌"
+  },
+  {
+   "min": 53,
+   "side": "away",
+   "player": "Juninho Bacuna",
+   "type": "黄牌"
+  },
+  {
+   "min": 56,
+   "side": "away",
+   "player": "Livano Comenencia",
+   "type": "黄牌"
+  },
+  {
+   "min": 75,
+   "side": "away",
+   "player": "Juriën Gaari",
+   "type": "黄牌"
+  },
+  {
+   "min": 90,
+   "side": "away",
+   "player": "Gervane Kastaneer",
+   "type": "黄牌"
+  }
+ ],
+ "stats": {
+  "射门": [
+   "27",
+   "10"
+  ],
+  "射正": [
+   "15",
+   "3"
+  ],
+  "禁区内射门": [
+   "10",
+   "4"
+  ],
+  "扑救": [
+   "2",
+   "3"
+  ],
+  "角球": [
+   "9",
+   "0"
+  ],
+  "越位": [
+   "1",
+   "2"
+  ],
+  "控球%": [
+   "75%",
+   "25%"
+  ],
+  "传中": [
+   "146",
+   "59"
+  ],
+  "传球": [
+   "579",
+   "157"
+  ],
+  "xG预期进球": [
+   "1.61",
+   "0.21"
+  ],
+  "xGOT/大机会": [
+   "2.48",
+   "0.93"
+  ]
+ },
+ "lineups": {
+  "home": [
+   {
+    "no": 1,
+    "name": "Hernan Galindez"
+   },
+   {
+    "no": 3,
+    "name": "Piero Hincapie"
+   },
+   {
+    "no": 6,
+    "name": "Willian Pacho"
+   },
+   {
+    "no": 21,
+    "name": "Alan Franco"
+   },
+   {
+    "no": 5,
+    "name": "Jordy Alcivar"
+   },
+   {
+    "no": 7,
+    "name": "Pervis Estupinan"
+   },
+   {
+    "no": 9,
+    "name": "John Yeboah"
+   },
+   {
+    "no": 15,
+    "name": "Pedro Vite"
+   },
+   {
+    "no": 23,
+    "name": "Moises Caicedo"
+   },
+   {
+    "no": 13,
+    "name": "Enner Valencia"
+   },
+   {
+    "no": 19,
+    "name": "Gonzalo Plata"
+   },
+   {
+    "no": 20,
+    "name": "Nilson Angulo"
+   },
+   {
+    "no": 16,
+    "name": "Jordy Caicedo"
+   },
+   {
+    "no": 17,
+    "name": "Angelo Preciado"
+   },
+   {
+    "no": 11,
+    "name": "Kevin Rodriguez"
+   },
+   {
+    "no": 24,
+    "name": "Jeremy Arevalo"
+   },
+   {
+    "no": 18,
+    "name": "Denil Castillo"
+   },
+   {
+    "no": 26,
+    "name": "Yaimar Medina"
+   },
+   {
+    "no": 14,
+    "name": "Alan Minda"
+   },
+   {
+    "no": 4,
+    "name": "Joel Ordonez"
+   },
+   {
+    "no": 25,
+    "name": "Jackson Porozo"
+   },
+   {
+    "no": 10,
+    "name": "Kendry Paez"
+   },
+   {
+    "no": 12,
+    "name": "Moises Ramirez"
+   },
+   {
+    "no": 2,
+    "name": "Felix Torres"
+   },
+   {
+    "no": 8,
+    "name": "Anthony Valencia"
+   },
+   {
+    "no": 22,
+    "name": "Gonzalo Valle"
+   }
+  ],
+  "away": [
+   {
+    "no": 1,
+    "name": "Eloy Room"
+   },
+   {
+    "no": 5,
+    "name": "Sherel Floranus"
+   },
+   {
+    "no": 18,
+    "name": "Armando Obispo"
+   },
+   {
+    "no": 3,
+    "name": "Juriën Gaari"
+   },
+   {
+    "no": 24,
+    "name": "Deveron Fonville"
+   },
+   {
+    "no": 20,
+    "name": "Joshua Brenet"
+   },
+   {
+    "no": 7,
+    "name": "Juninho Bacuna"
+   },
+   {
+    "no": 10,
+    "name": "Leandro Bacuna"
+   },
+   {
+    "no": 8,
+    "name": "Livano Comenencia"
+   },
+   {
+    "no": 21,
+    "name": "Tahith Chong"
+   },
+   {
+    "no": 9,
+    "name": "Jurgen Locadia"
+   },
+   {
+    "no": 14,
+    "name": "Kenji Gorre"
+   },
+   {
+    "no": 19,
+    "name": "Gervane Kastaneer"
+   },
+   {
+    "no": 16,
+    "name": "Jearl Margaritha"
+   },
+   {
+    "no": 6,
+    "name": "Godfried Roemeratoe"
+   },
+   {
+    "no": 4,
+    "name": "Roshon van Eijma"
+   },
+   {
+    "no": 11,
+    "name": "Jeremy Antonisse"
+   },
+   {
+    "no": 23,
+    "name": "Riechedly Bazoer"
+   },
+   {
+    "no": 25,
+    "name": "Tyrick Bodak"
+   },
+   {
+    "no": 26,
+    "name": "Trevor Doornbusch"
+   },
+   {
+    "no": 22,
+    "name": "Kevin Felida"
+   },
+   {
+    "no": 12,
+    "name": "Sontje Hansen"
+   },
+   {
+    "no": 17,
+    "name": "Brandley Kuwas"
+   },
+   {
+    "no": 15,
+    "name": "Ar'jany Martha"
+   },
+   {
+    "no": 13,
+    "name": "Tyrese Noslin"
+   },
+   {
+    "no": 2,
+    "name": "Shurandy Sambo"
+   }
+  ]
+ },
+ "missing": [],
+ "events": [
+  {
+   "min": 38,
+   "side": "home",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Jordy Alcivar"
+  },
+  {
+   "min": 39,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Leandro Bacuna"
+  },
+  {
+   "min": 53,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Juninho Bacuna"
+  },
+  {
+   "min": 56,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Livano Comenencia"
+  },
+  {
+   "min": 75,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Juriën Gaari"
+  },
+  {
+   "min": 90,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Gervane Kastaneer"
+  }
+ ],
+ "injuries": [],
+ "suspensions": [],
+ "ratings": {},
+ "quotes": [],
+ "narrative": "",
+ "prediction_note": "",
+ "_note": "macheta/Sofascore 权威硬数据；injuries/suspensions/ratings/quotes/narrative/prediction_note 待 agent WebSearch 补。",
+ "ht": "0-0"
+}

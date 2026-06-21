@@ -191,15 +191,7 @@ def collect_one(m, ts, refresh):
     if os.path.exists(af):
         urls = json.load(open(af, encoding="utf-8")); kind = "agent源"          # agent 显式补的源(可选)优先
     elif done and not refresh:
-        # 做过的场也【增量重查】:近2天的赛后报道还在陆续出 → 重查只抓新源;>2天稳定 → 复用(省 Apify)
-        import datetime
-        try:
-            recent = (datetime.date.fromisoformat(ts[:10]) - datetime.date.fromisoformat(m["date"])).days <= 2
-        except Exception:
-            recent = False
-        if not recent:
-            return "复用(已做过·>2天稳定)"
-        urls = discover_urls(m, existing); kind = "自动发现(增量重查)"
+        return "复用(已做过)"          # 【增量,2026-06-21 改】做过的场直接复用、不再每轮重搜(太慢);只收没做过的待结算场。要重抓加 --refresh
     else:
         urls = discover_urls(m, existing); kind = "自动发现"
     new_urls = [u for u in urls if u["name"] not in existing]      # 只抓新源(身份键=源名)
@@ -268,8 +260,9 @@ def main():
     print(f"▶ 赛事播报整轮 · 快照{a.snapshot} · 开关 auto_run_match_broadcast={'ON' if on else 'OFF'}"
           f"{'(--force 强开)' if a.force and not mb_integration_on() else ''} · 已结算 {len(allm)} 场")
 
-    # ── 采集+合成(开关 on 才抓;off 只复用已有;--embed-only 整段跳过) ──
+    # ── 采集+合成(增量:做过的场复用、只收没做过的;off 只复用已有;--embed-only 整段跳过) ──
     miss_url = []
+    fresh = []                          # 本轮【新收集到播报】的场 → 只重嵌这些场涉及的队(增量,省时)
     if not a.embed_only:
         for m in allm:
             if on:
@@ -278,13 +271,18 @@ def main():
                 st = "复用(已做过)" if mb_done(m["bc"]) else "✗缺播报(开关OFF,跳过采集)"
             if "缺URL" in st or "缺播报" in st:
                 miss_url.append(m["key"])
+            elif not st.startswith("复用"):       # 真正新收集/重合成了
+                fresh.append(m)
             print(f"  · {m['key']:<14} {st}")
     else:
         print("  (--embed-only:跳过采集/合成,只重嵌块B)")
 
-    # ── 嵌块B(每队所有已踢场;只嵌已做播报的) ──
-    bteams = sorted({m["a"] for m in allm} | {m["b"] for m in allm})
-    print(f"▶ 嵌 summary 块B(专项整理)· 涉及 {len(bteams)} 队")
+    # ── 嵌块B:增量只嵌【本轮新收集场】涉及的队(--embed-only 或 --refresh 则全嵌) ──
+    if a.embed_only or a.refresh:
+        bteams = sorted({m["a"] for m in allm} | {m["b"] for m in allm})
+    else:
+        bteams = sorted({m["a"] for m in fresh} | {m["b"] for m in fresh})
+    print(f"▶ 嵌 summary 块B(专项整理)· {'全' if (a.embed_only or a.refresh) else '增量'}涉及 {len(bteams)} 队")
     embedded = 0
     for t in bteams:
         ts_m = [m for m in settled_matches() if t in (m["a"], m["b"])]      # 该队【全部】已结算场(不止本轮)

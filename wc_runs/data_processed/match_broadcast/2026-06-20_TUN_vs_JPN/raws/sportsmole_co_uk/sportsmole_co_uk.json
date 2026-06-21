@@ -1,0 +1,24 @@
+{
+ "source": "sportsmole.co.uk",
+ "url": "https://www.sportsmole.co.uk/football/tunisia/world-cup/head-to-head/tunisia-vs-japan-head-to-head-record-and-past-meetings_599624.html",
+ "title": "Tunisia vs. Japan: Head-to-head record and past meetings ahead of 2026 World Cup fixture - Sports Mole",
+ "published": "2026-06-19T17:01:00Z",
+ "tier": "3",
+ "lang": "es",
+ "match": {
+  "date": "2026-06-20",
+  "home": "TUN",
+  "away": "JPN",
+  "home_en": "Tunisia",
+  "away_en": "Japan",
+  "home_zh": "突尼斯",
+  "away_zh": "日本",
+  "comp": "小组赛·F组",
+  "match_id": "M36",
+  "slug": "2026-06-20_TUN_vs_JPN"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "After a shock managerial change, Tunisia look to get their World Cup campaign back on track against Japan on Sunday morning.\n\nThe Eagles of Carthage were one of the biggest losers during the opening group-stage fixtures, defeated 5-1 by Graham Potter's Sweden, leading to the swift sacking of head coach Sabri Lamouchi .\n\nSeeking to avoid four straight defeats, Tunisia have parachuted Herve Renard into the coaching hotseat for the remainder of the tournament at least, with the Frenchman's first task arriving in Guadalupe, Mexico on Sunday morning.\n\nOpponents Japan remain in decent shape to qualify for the knockout stages via a top-two finish following a pulsating 2-2 draw with the Netherlands at Dallas Stadium in Texas last Sunday night.\n\nHere, Sports Mole takes an in-depth look at the head-to-head record and previous meetings between Tunisia and Japan ahead of this weekend's clash.\n\nOver the past three decades, Tunisia and Japan have locked horns on six occasions, with the latter having the better of the matches, winning five and losing just once to the Eagles of Carthage.\n\nThe first clash between the two nations arrived in October 1996, when a solitary strike from Masakiyo Maezono secured a 1-0 friendly victory for Samurai Blue at Universiade Memorial Stadium, Kobe.\n\nTunisia's next trip to Japan was for a high-stakes competitive fixture in June 2002, with the hosts sealing a 2-0 win in Group H of the World Cup in front of 45,000 spectators at Osaka Nagai Stadium.\n\nIn fact, the African side lost four straight games in this matchup before finally registering their first and only success, with the Eagles of Carthage triumphing 3-0 in the 2022 final of the Kirin Cup.\n\nJapan returned to winning ways against Tunisia last time out, though, as Kyogo Furuhashi and Junya Ito found the net in a 2-0 victory for Samurai Blue during the 2023 Kirin Challenge Cup in Kobe.\n\nGet FREE daily news and in-depth previews for games from the biggest leagues and competitions in world football — straight to your inbox.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

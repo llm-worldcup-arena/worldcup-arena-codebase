@@ -1,0 +1,24 @@
+{
+ "source": "espn.com",
+ "url": "https://www.espn.com/soccer/match/_/gameId/760449/japan-tunisia",
+ "title": "Tunisia 0-4 Japan (Jun 21, 2026) Final Score - ESPN",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-20",
+  "home": "TUN",
+  "away": "JPN",
+  "home_en": "Tunisia",
+  "away_en": "Japan",
+  "home_zh": "突尼斯",
+  "away_zh": "日本",
+  "comp": "小组赛·F组",
+  "match_id": "M36",
+  "slug": "2026-06-20_TUN_vs_JPN"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "0.01\nxG\n0.00\nxGOT\n32 yds\nDistance\nRegular Play\nSituation\nRight Foot\nShot Type\nHigh Right\nGoal Zone\nGoal\n2 of 13\n4'\n0.84\nxG\n0.95\nxGOT\n3 yds\nDistance\nRegular Play\nSituation\nLeft Foot\nShot Type\nLow Centre\nGoal Zone\nOff Target\n3 of 13\n6'\n0.11\nxG\n0.00\nxGOT\n17 yds\nDistance\nRegular Play\nSituation\nLeft Foot\nShot Type\nHigh Left\nGoal Zone\nBlocked\n4 of 13\n10'\n0.04\nxG\n0.14\nxGOT\n22 yds\nDistance\nRegular Play\nSituation\nRight Foot\nShot Type\nLow Left\nGoal Zone\nOff Target\n5 of 13\n10'\n0.14\nxG\n0.00\nxGOT\n6 yds\nDistance\nRegular Play\nSituation\nRight Foot\nShot Type\nLow Right\nGoal Zone\nGoal\n6 of 13\n31'\n0.03\nxG\n0.07\nxGOT\n26 yds\nDistance\nRegular Play\nSituation\nRight Foot\nShot Type\nLow Left\nGoal Zone\nOff Target\n7 of 13\n48'\n0.03\nxG\n0.00\nxGOT\n32 yds\nDistance\nRegular Play\nSituation\nRight Foot\nShot Type\nClose Left\nGoal Zone\nBlocked\n8 of 13\n63'\n0.02\nxG\n0.00\nxGOT\n28 yds\nDistance\nRegular Play\nSituation\nRight Foot\nShot Type\nLow Centre\nGoal Zone\nBlocked\n9 of 13\n66'\n0.01\nxG\n0.00\nxGOT\n27 yds\nDistance\nRegular Play\nSituation\nRight Foot\nShot Type\nLow Right\nGoal Zone\nGoal\n10 of 13\nJ. Ito\nJPN • Center Right Forward\n69'\n0.59\nxG\n0.49\nxGOT\n13 yds\nDistance\nRegular Play\nSituation\nRight Foot\nShot Type\nLow Right\nGoal Zone\nBlocked\n11 of 13\n75'\n0.03\nxG\n0.00\nxGOT\n19 yds\nDistance\nRegular Play\nSituation\nLeft Foot\nShot Type\nHigh Right\nGoal Zone\nGoal\n12 of 13\n83'\n0.22\nxG\n0.92\nxGOT\n7 yds\nDistance\nRegular Play\nSituation\nHeader\nShot Type\nLow Right\nGoal Zone\nBlocked\n13 of 13\nJ. Ito\nJPN • Center Right Forward\n85'\n0.05\nxG\n0.00\nxGOT\n16 yds\nDistance\nRegular Play\nSituation\nRight Foot\nShot Type\nLow Left\nGoal Zone\nTeam Stats\n0.05\nExpected Goals\n2.07\n38%\nPossession\n62%\n0 (0%)\nShots on Goal\n5 (46%)\n0\nBig Chances Created\n2\n0\nBig Chances Missed\n1\n284 (80%)\nAccurate Passes\n521 (90%)\n38\nDuels Won\n43\n1\nSaves\n0\n8\nFouls Committed\n15\nData is currently unavailable.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

@@ -1,0 +1,16 @@
+{
+ "team": "NZL",
+ "source": "nytimes.com",
+ "url": "https://www.nytimes.com/athletic/7243364/2026/05/01/world-cup-injury-news-latest/",
+ "title": "World Cup injury tracker: Latest news on Davies, Mitoma and other key potential absentees",
+ "news_date": "2026-06-21",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-21",
+ "fetched": "2026-06-21_1543",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "The Athletic has live coverage of the latest 2026 World Cup news.\n\nThe World Cup is a chance to see some of the planet’s best players compete on the biggest stage of them all.\n\nHowever, like any other competition, it is not immune to the injury bug. Several key names have already been ruled out with long-term issues, others face a race against time to be ready for the trip to North America, while some are battling back to fitness before the end of their club’s domestic seasons.\n\nThere will be 48 countries at the World Cup for the first time, meaning that the pool of players hoping for a call-up this summer has drastically increased.\n\nHere, The Athletic takes you through the key active injuries of all 48 nations in our tracker, which will be updated throughout the build-up to the tournament.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

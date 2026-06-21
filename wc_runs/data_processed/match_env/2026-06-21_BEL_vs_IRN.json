@@ -1,0 +1,41 @@
+{
+ "match": {
+  "slug": "2026-06-21_BEL_vs_IRN",
+  "date": "2026-06-21",
+  "home": "BEL",
+  "away": "IRN",
+  "round": "group",
+  "group": "G"
+ },
+ "kickoff": {
+  "美东": "2026-06-21T15:00:00-04:00",
+  "北京": "06-22 03:00"
+ },
+ "venue": {
+  "name": "SoFi Stadium",
+  "city": "Inglewood, California",
+  "altitude_m": 30,
+  "roof": "fixed-canopy",
+  "surface": "grass"
+ },
+ "weather": {
+  "开球时段": {
+   "温度C": 22.4,
+   "体感C": 24.6,
+   "降水概率%": 0,
+   "降水mm": 0.0,
+   "风速kmh": 13.1,
+   "湿度%": 64,
+   "天况": "晴"
+  },
+  "source": "open-meteo(免费预报API)",
+  "fetched": "2026-06-21_1543",
+  "_note": "临近开球建议 --refresh 刷新"
+ },
+ "referee": {
+  "name": "Dario Herrera (ARG)",
+  "source": "http://law5-theref.blogspot.com/2026/06/2026-fifa-wc-referee-appointments-for.html",
+  "fetched": "2026-06-21_1543"
+ },
+ "_note": "环境=比赛+时间+地点 确定;天气为开球时段;顶棚 retractable/fixed-canopy 时天气影响有限。"
+}

@@ -1,0 +1,24 @@
+{
+ "source": "curacao.com",
+ "url": "https://www.curacao.com/es/event/ecuador-vs-curacao-mundial-2026",
+ "title": "Ecuador vs Curaçao Mundial 2026 | Curacao, la Escapada al Caribe",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-20",
+  "home": "ECU",
+  "away": "CUW",
+  "home_en": "Ecuador",
+  "away_en": "Curaçao",
+  "home_zh": "厄瓜多尔",
+  "away_zh": "库拉索",
+  "comp": "小组赛·E组",
+  "match_id": "M34",
+  "slug": "2026-06-20_ECU_vs_CUW"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "No te pierdas Ecuador vs Curazao en el Mundial 2026. Vive la emoción, la pasión y la energía mientras ambos equipos compiten en el escenario más grande del fútbol. Únete a aficionados de todo el mundo y disfruta de un partido inolvidable.\nMap data ©2026\nMap data ©2026\nMis favoritos\nCompartir\nCompartir\nCuando quiera guardar algo para más tarde, asegúrese de hacer clic en el",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

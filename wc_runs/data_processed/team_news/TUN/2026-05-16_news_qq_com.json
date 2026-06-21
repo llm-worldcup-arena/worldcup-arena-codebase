@@ -1,0 +1,16 @@
+{
+ "team": "TUN",
+ "source": "news.qq.com",
+ "url": "https://news.qq.com/rain/a/20260516A054YP00",
+ "title": "与荷兰、日本同组！突尼斯公布世界杯26人名单_腾讯新闻",
+ "news_date": "2026-05-16",
+ "published": "2026-05-16 12:08:59",
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-21",
+ "fetched": "2026-06-21_1543",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "北京时间5月16日02:01，突尼斯队官方公布了世界杯26人名单，拉尼·赫迪拉在列， 曼联 旧将汉尼拔入选。\n\n突尼斯队目前FIFA排名第44，这是球队第7次参加世界杯，前六届世界杯全部止步小组赛。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

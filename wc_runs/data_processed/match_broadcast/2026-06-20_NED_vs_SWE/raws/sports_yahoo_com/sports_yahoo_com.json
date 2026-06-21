@@ -1,0 +1,24 @@
+{
+ "source": "sports.yahoo.com",
+ "url": "https://sports.yahoo.com/soccer/fifa-world-cup/sweden-netherlands-13587255/",
+ "title": "Netherlands 5 - 1 Sweden: Final score, results, recap, box score, stats - Yahoo Sports",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-20",
+  "home": "NED",
+  "away": "SWE",
+  "home_en": "Netherlands",
+  "away_en": "Sweden",
+  "home_zh": "荷兰",
+  "away_zh": "瑞典",
+  "comp": "小组赛·F组",
+  "match_id": "M35",
+  "slug": "2026-06-20_NED_vs_SWE"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Netherlands 5 - 1 Sweden: Final score, results, recap, box score, stats\nSubstitution - In\n24 - Elliot Stroud\nSubstitution - Out\n5 - Gabriel Gudmundsson\nSubstitution - In\n17 - Noa Lang\nSubstitution - Out\n11 - Cody Gakpo\nGoal\n24 - Crysencio Summerville\nAssist\n10 - Memphis\nYellow Card\n7 - Lucas Bergvall\nSubstitution - In\n26 - Taha Ali\nSubstitution - Out\n18 - Yasin Ayari\nYellow Card\n18 - Yasin Ayari\nSubstitution - In\n10 - Memphis\nSubstitution - Out\n19 - Brian Brobbey\nSubstitution - In\n16 - Guus Til\nSubstitution - Out\n14 - Tijjani Reijnders\nSubstitution - In\n20 - Teun Koopmeiners\nSubstitution - Out\n21 - Frenkie de Jong\nGoal\n11 - Anthony Elanga\nAssist\n9 - Alexander Isak\nSubstitution - In\n7 - Lucas Bergvall\nSubstitution - Out\n10 - Benjamin Nygren\nSubstitution - In\n22 - Besfort Zeneli\nSubstitution - Out\n16 - Jesper Karlstrom\nSubstitution - In\n11 - Anthony Elanga\nSubstitution - Out\n21 - Alexander Bernhardsson\nGoal\n11 - Cody Gakpo\nAssist\n24 - Crysencio Summerville\nYellow Card\n5 - Gabriel Gudmundsson\nGoal\n11 - Cody Gakpo\nAssist\n22 - Denzel Dumfries\nSubstitution - In\n24 - Crysencio Summerville\nSubstitution - Out\n18 - Donyell Malen",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

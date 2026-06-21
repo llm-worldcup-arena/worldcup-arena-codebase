@@ -1,0 +1,24 @@
+{
+ "source": "whoscored.com",
+ "url": "https://www.whoscored.com/matches/1976980/show/international-fifa-world-cup-2026-netherlands-sweden",
+ "title": "Netherlands 5-1 Sweden - FIFA World Cup 2026 Head to Head Statistics",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-20",
+  "home": "NED",
+  "away": "SWE",
+  "home_en": "Netherlands",
+  "away_en": "Sweden",
+  "home_zh": "荷兰",
+  "away_zh": "瑞典",
+  "comp": "小组赛·F组",
+  "match_id": "M35",
+  "slug": "2026-06-20_NED_vs_SWE"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Netherlands 5-1 Sweden - FIFA World Cup 2026 Head to Head Statistics\nUser Predictions\nMan of the Match\n1.Alexander Isak 50%\n2.Virgil van Dijk 25%\n3.Crysencio Summerville 25%\nVoting closed at kick-off\n4 votes\nThanks! Your vote will be added shortly.\nFailed!\nCorrect Score\nHome 2-1\n40%\nDraw 1-1\n20%\nHome 1-0\n20%\nDraw 2-2\n20%\nThree-way\nHome\nDraw\nAway\n60%\n40%\n0%\nVoting closed at kick-off\n5 votes\nThanks! Your vote will be added shortly.\nFailed!",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

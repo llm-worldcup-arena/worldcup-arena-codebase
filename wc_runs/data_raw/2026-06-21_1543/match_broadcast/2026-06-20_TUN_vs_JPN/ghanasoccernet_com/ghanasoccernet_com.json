@@ -1,0 +1,24 @@
+{
+ "source": "ghanasoccernet.com",
+ "url": "https://ghanasoccernet.com/world-cup-2026-tunisia-vs-japan-to-be-1000th-match-in-fifa-world-cup-history",
+ "title": "World Cup 2026: Tunisia vs Japan to be 1,000th match in FIFA World Cup history - Ghana Latest Football News, Live Scores, Results - GHANAsoccernet",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-20",
+  "home": "TUN",
+  "away": "JPN",
+  "home_en": "Tunisia",
+  "away_en": "Japan",
+  "home_zh": "突尼斯",
+  "away_zh": "日本",
+  "comp": "小组赛·F组",
+  "match_id": "M36",
+  "slug": "2026-06-20_TUN_vs_JPN"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "World Cup 2026: Tunisia vs Japan to be 1,000th match in FIFA World Cup history - Ghana Latest Football News, Live Scores, Results\nTunisia's Group F clash against Japan on Friday at Monterrey Stadium will be the 1,000th match in FIFA World Cup history.\nThe milestone comes during the expanded 2026 tournament, which features 48 teams, 104 matches and is being hosted across Canada, Mexico and the United States.\nRomanian referee Istvan Kovacs has been appointed to officiate the historic fixture. He will be assisted by Ferencz Tunyogi and Mihai Marica, while Costa Ricans Juan CalderÃ³n and Juan Carlos Mora will serve as fourth official and reserve assistant referee.\nTo mark the occasion, all match officials will wear special adidas kits featuring gold sleeve stripes and a \"Match 1000\" patch.\nFIFA Chief Refereeing Officer Pierluigi Collina said Kovacs was selected on merit, with the milestone adding extra significance to the appointment.\nThe match also brings back memories of Tunisia and Japan's meeting in the group stage of the 2002 World Cup.\nThe landmark fixture reflects the remarkable growth of the FIFA World Cup since its inaugural tournament in 1930, which featured just 13 teams and 18 matches. The 2026 edition is the biggest in the competition's history, with 48 nations taking part across 16 host cities.\nSend your news stories to editor@ghanasoccernet.com and via WhatsApp on +233 546310076.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

@@ -1,0 +1,16 @@
+{
+ "team": "IRQ",
+ "source": "bbc.com",
+ "url": "https://www.bbc.com/sport/football/articles/cy526nrz39eo",
+ "title": "World Cup 2026: Iraq squad includes Ali Al-Hamadi and Zidane Iqbal",
+ "news_date": "2026-06-21",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-21",
+ "fetched": "2026-06-21_1543",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "Ipswich forward Ali Al-Hamadi and Manchester United youth product Zidane Iqbal are part of Iraq's squad for the 2026 World Cup.\n\nBut coach Graham Arnold left out Dundee United defender Dario Naamo, who recently switched his international allegiance from Finland and made his Iraq debut in Friday's 1-0 friendly win over Andorra.\n\nAhmed Qasem also made his debut on Friday, after switching from Sweden, and the Nashville SC midfielder is included Arnold's 26-man squad.\n\nAl-Hamadi's family fled Iraq when he was a baby and settled in Liverpool, where he was signed by Tranmere before making his EFL debut with Wycombe in 2022.\n\nThe 24-year-old became the first Iraqi player to feature in the Premier League with Ipswich in 2024 and spent the season just completed on loan with Luton in League One.\n\nAl-Hamadi and experienced forward Aymen Hussein scored as Iraq beat Bolivia 2-1 in the World Cup play-offs to qualify for the first time in 40 years, while Iqbal was an unused substitute.\n\nThe Manchester-born midfielder, 23, came through United's academy and made one Champions League appearance before joining Dutch side Utrecht in 2023, playing 18 times last season.\n\nGoalkeeper Jalal Hassan is Iraq's captain and their most experienced player with 100 caps. Australian coach Arnold has kept fellow keeper Kamil Saadi with the squad, in addition to the three goalkeepers he has selected, in case of an injury.\n\nIraq have been drawn in Group I and will face Norway in Boston, France in Philadelphia and then Senegal in Toronto.\n\nGoalkeepers: Fahad Talib (Al-Talaba), Jalal Hassan (Al-Zawraa), Ahmed Basil (Al-Shorta).\n\nDefenders: Hussein Ali (Pogon Szczecin), Manaf Younis, Ahmed Yahya, Mustafa Saadoon (Al-Shorta), Zaid Tahseen (Pakhtakor), Rebin Sulaka (Port), Akam Hashim (Al-Zawraa), Merchas Doski (Viktoria Plzen), Zaid Ismail (Al-Talaba), Frans Putros (Persib).\n\nMidfielders: Amir Al-Ammari (Cracovia), Kevin Yakob (Aarhus GF), Zidane Iqbal (Utrecht), Aimar Sher (Sarpsborg), Ibrahim Bayesh (Al-Dhafra), Ahmed Qasem (Nashville SC), Youssef Amyn (AEK Larnaca), Marko Farji (Venezia).\n\nForwards: Ali Jassim (Al-Najma), Ali Al-Hamadi (Ipswich), Ali Yousef (Al-Talaba), Aymen Hussein (Al-Karma), Mohanad Ali (Dibba).",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

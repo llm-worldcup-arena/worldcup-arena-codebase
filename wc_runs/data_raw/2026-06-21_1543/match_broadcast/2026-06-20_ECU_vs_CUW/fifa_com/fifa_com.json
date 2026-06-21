@@ -1,0 +1,24 @@
+{
+ "source": "fifa.com",
+ "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/ecuador-curacao-match-report-highlights",
+ "title": "Ecuador 0-0 Curaçao | Match report and highlights",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-20",
+  "home": "ECU",
+  "away": "CUW",
+  "home_en": "Ecuador",
+  "away_en": "Curaçao",
+  "home_zh": "厄瓜多尔",
+  "away_zh": "库拉索",
+  "comp": "小组赛·E组",
+  "match_id": "M34",
+  "slug": "2026-06-20_ECU_vs_CUW"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "La Tricolor had the lion's share of possession and chances but Eloy Room ensured Curaçao went home with their first World Cup point.\nEcuador took the game to Curaçao in Kansas City but the evening turned out to be an Eloy Room masterpiece. The Blue Wave keeper made a number of incredible saves, helping the Concacaf side secure their first ever point at the FIFA World Cup™.\nLa Tricolor started brightly as Moises Caicedo unleashed Enner Valencia with a brilliant ball over the top. Valencia was left one on one with Room, but failed to find a way past the Caribbean keeper; setting the tone for the night.\nEarly on, the Blue Wave were able to take advantage of the space Ecuador left as they pushed for an opener. Bacuna and Locadia made good runs into space and created chances for their midfielders, but they were also unable to find the back of the net.\nAs the half went on Ecuador attacked in waves, but no one could find a way past the imperious Room.\nAs time wound down, Ecuador pressed even harder for a goal and Valencia nearly scored a strong header from a whipped in cross, only to be denied by Room.\nEcuador hit the woodwork three times and had nearly 30 attempts, but were unable to find a way through the Caribbean side's defence. The draw means that Germany will qualify for the Round of 32 as Group E winners. The other three sides in the group enter the final matchday with the opportunity to progress to the knockout phase.\nGroup E\nGroup E\nPWDLGFGAGDTCSPtsForm\n1\nGermany\nGER\n2 0 9 2 7 0 6\n-\n-\n-\n\n2\nCôte d'Ivoire\nCIV\n2 1 0 1 2 0 -3\n-\n-\n-\n\n3\nEcuador\nECU\n2 0 1 0 1 -1 -2 1\n-\n-\n-\n\n4\nCuraçao\nCUW\n2 0 1 7 -6 -5 1\n-\n-\n-\n\nKey statKey stat\nThis is just the third goalless draw in 33 World Cup encounters between CONMEBOL and Concacaf nations. The other two were:\nUruguay 0-0 Mexico - 1966 group stage Brazil 0-0 Mexico - 2014 group stage\nMichelob Ultra Superior Player of the MatchMichelob Ultra Superior Player of the Match\nEloy Room (Curaçao)\nLoaded: 0%\n0:00\nProgress: 0%\n0:00\nProgress: 0%\n00:00 / 00:40\n/\nDuration Time 0:39\nRemaining Time -0:39\nRoom: We fight for the whole countryRoom: We fight for the whole country\nThe Curaçao goalkeeper reacts to his record-breaking performance against Ecuador.The Curaçao goalkeeper reacts to his record-breaking performance against Ecuador.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

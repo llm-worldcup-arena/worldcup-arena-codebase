@@ -1,0 +1,24 @@
+{
+ "source": "fifa.com",
+ "url": "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021469",
+ "title": "Germany v Côte d'Ivoire 2-1 | Result, Stats & Highlights | First Stage | FIFA World Cup 2026™ | FIFA",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-20",
+  "home": "GER",
+  "away": "CIV",
+  "home_en": "Germany",
+  "away_en": "Ivory Coast",
+  "home_zh": "德国",
+  "away_zh": "科特迪瓦",
+  "comp": "小组赛·E组",
+  "match_id": "M33",
+  "slug": "2026-06-20_GER_vs_CIV"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Germany v Côte d'Ivoire 2-1 | Result, Stats & Highlights | First Stage | FIFA World Cup 2026™\nLive Statistics\nAttacking\nPossession\n49%\n41%\n10% in contest\nGoal\nTotal\n2\n1\nConceded\n1\n2\nInside the Penalty Area\n2\n1\nOutside the Penalty Area\n0\n0\nAssists\n2\n0\nAttempts at Goal\nTotal\n16\n9\nOn Target\n7\n2\nOff Target\n7\n2\nInside the Penalty Area\n9\n5\nOutside the Penalty Area\n7\n4\nFinal Third Entries\nLeft Channel\n28\n20\nLeft Inside Channel\n10\n2\nCentral Channel\n6\n3\nRight Inside Channel\n4\n9\nRight Channel\n28\n11\nOffers to Receive\nTotal\n328\n263\nIn Behind\n102\n69\nIn Between\n108\n121\nIn Front\n118\n73\nReceptions Between Midfield and Defensive Lines\n136\n91\nReceptions Behind the Defensive Line\n12\n9\nLine Breaks\nAttempted Line Breaks\n190\n157\nCompleted Line Breaks\n151\n111\nAttempted Defensive Line Breaks\n22\n12\nCompleted Defensive Line Breaks\n13\n9\nDiscipline\nYellow Cards\n0\n0\nRed Cards\n0\n0\nFouls Against\n5\n7\nOffsides\n0\n1\nDistribution\nPasses\n634\n449\nPasses Completed\n578\n387\nCrosses\n20\n12\nCrosses Completed\n4\n4\nSwitches of Play Completed\n4\n2\nSet Plays\nCorners\n8\n3\nFree Kicks\n8\n5\nPenalties Scored\n0\n0\nDefending\nOwn Goals\n0\n0\nForced Turnovers\n47\n43\nPressing Applied\n293\n316",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

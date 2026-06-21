@@ -1,0 +1,16 @@
+{
+ "team": "BIH",
+ "source": "tw.sports.yahoo.com",
+ "url": "https://tw.sports.yahoo.com/news/%E6%B9%96%E4%BA%BA%E5%86%8D%E6%B7%BB%E9%87%8D%E6%93%8A-doncic%E5%85%A9%E6%88%B0%E7%8B%82%E7%A0%8D92%E5%88%86%E5%BE%8C-%E9%80%B2%E5%85%A5%E5%82%B7%E5%85%B5%E5%90%8D%E5%96%AE%E8%87%B3%E5%B0%91%E7%BC%BA%E9%99%A3-%E9%80%B1-202512518.html",
+ "title": null,
+ "news_date": "2026-06-21",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-21",
+ "fetched": "2026-06-21_1543",
+ "method": "fail",
+ "status": "blocked",
+ "original_text": "",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

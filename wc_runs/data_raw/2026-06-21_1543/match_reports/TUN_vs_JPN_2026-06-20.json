@@ -1,0 +1,336 @@
+{
+ "match_id": "4627873",
+ "date": "2026-06-20",
+ "comp": "世界杯·F组",
+ "ha_home": "中",
+ "home": "TUN",
+ "away": "JPN",
+ "score": "0-4",
+ "venue": "Estadio BBVA (Guadalupe)",
+ "attendance": 51243,
+ "goals": [
+  {
+   "min": 4,
+   "side": "away",
+   "player": "Daichi Kamada",
+   "sub": null
+  },
+  {
+   "min": 31,
+   "side": "away",
+   "player": "Ayase Ueda",
+   "sub": null
+  },
+  {
+   "min": 69,
+   "side": "away",
+   "player": "Junya Ito",
+   "sub": null
+  },
+  {
+   "min": 83,
+   "side": "away",
+   "player": "Ayase Ueda",
+   "sub": null
+  }
+ ],
+ "cards": [],
+ "stats": {
+  "射门": [
+   "2",
+   "11"
+  ],
+  "射正": [
+   "0",
+   "5"
+  ],
+  "禁区内射门": [
+   "1",
+   "3"
+  ],
+  "扑救": [
+   "1",
+   "3"
+  ],
+  "角球": [
+   "3",
+   "5"
+  ],
+  "越位": [
+   "1",
+   "1"
+  ],
+  "控球%": [
+   "38%",
+   "62%"
+  ],
+  "传中": [
+   "65",
+   "117"
+  ],
+  "传球": [
+   "284",
+   "521"
+  ],
+  "xG预期进球": [
+   "0.15",
+   "1.15"
+  ],
+  "xGOT/大机会": [
+   "0",
+   "2.57"
+  ]
+ },
+ "lineups": {
+  "home": [
+   {
+    "no": 16,
+    "name": "Aymen Dahmen"
+   },
+   {
+    "no": 4,
+    "name": "Omar Rekik"
+   },
+   {
+    "no": 3,
+    "name": "Montassar Talbi"
+   },
+   {
+    "no": 6,
+    "name": "Dylan Bronn"
+   },
+   {
+    "no": 2,
+    "name": "Ali Abdi"
+   },
+   {
+    "no": 17,
+    "name": "Ellyes Skhiri"
+   },
+   {
+    "no": 25,
+    "name": "Anis Ben Slimane"
+   },
+   {
+    "no": 20,
+    "name": "Yan Valery"
+   },
+   {
+    "no": 10,
+    "name": "Hannibal Mejbri"
+   },
+   {
+    "no": 8,
+    "name": "Elias Saad"
+   },
+   {
+    "no": 26,
+    "name": "Sebastian Tounekti"
+   },
+   {
+    "no": 7,
+    "name": "Elias Achouri"
+   },
+   {
+    "no": 21,
+    "name": "Mohamed Amine Ben Hamida"
+   },
+   {
+    "no": 19,
+    "name": "Firas Chaouat"
+   },
+   {
+    "no": 11,
+    "name": "Ismaël Gharbi"
+   },
+   {
+    "no": 13,
+    "name": "Rani Khedira"
+   },
+   {
+    "no": 5,
+    "name": "Adem Arous"
+   },
+   {
+    "no": 14,
+    "name": "Khalil Ayari"
+   },
+   {
+    "no": 15,
+    "name": "Hadj Mahmoud"
+   },
+   {
+    "no": 22,
+    "name": "Sabri Ben Hessen"
+   },
+   {
+    "no": 12,
+    "name": "Mortadha Ben Ouanes"
+   },
+   {
+    "no": 1,
+    "name": "Abdelmouhib Chamakh"
+   },
+   {
+    "no": 24,
+    "name": "Raed Chikhaoui"
+   },
+   {
+    "no": 18,
+    "name": "Rayan Elloumi"
+   },
+   {
+    "no": 9,
+    "name": "Hazem Mastouri"
+   },
+   {
+    "no": 23,
+    "name": "Moutaz Neffati"
+   }
+  ],
+  "away": [
+   {
+    "no": 1,
+    "name": "Zion Suzuki"
+   },
+   {
+    "no": 21,
+    "name": "Hiroki Ito"
+   },
+   {
+    "no": 4,
+    "name": "Ko Itakura"
+   },
+   {
+    "no": 22,
+    "name": "Takehiro Tomiyasu"
+   },
+   {
+    "no": 13,
+    "name": "Keito Nakamura"
+   },
+   {
+    "no": 7,
+    "name": "Ao Tanaka"
+   },
+   {
+    "no": 24,
+    "name": "Kaishu Sano"
+   },
+   {
+    "no": 10,
+    "name": "Ritsu Doan"
+   },
+   {
+    "no": 15,
+    "name": "Daichi Kamada"
+   },
+   {
+    "no": 14,
+    "name": "Junya Ito"
+   },
+   {
+    "no": 18,
+    "name": "Ayase Ueda"
+   },
+   {
+    "no": 9,
+    "name": "Keisuke Goto"
+   },
+   {
+    "no": 20,
+    "name": "Ayumu Seko"
+   },
+   {
+    "no": 2,
+    "name": "Yukinari Sugawara"
+   },
+   {
+    "no": 17,
+    "name": "Yuito Suzuki"
+   },
+   {
+    "no": 25,
+    "name": "Junnosuke Suzuki"
+   },
+   {
+    "no": 23,
+    "name": "Tomoki Hayakawa"
+   },
+   {
+    "no": 11,
+    "name": "Daizen Maeda"
+   },
+   {
+    "no": 5,
+    "name": "Yuto Nagatomo"
+   },
+   {
+    "no": 19,
+    "name": "Koki Ogawa"
+   },
+   {
+    "no": 12,
+    "name": "Keisuke Osako"
+   },
+   {
+    "no": 26,
+    "name": "Kento Shiogai"
+   },
+   {
+    "no": 3,
+    "name": "Shogo Taniguchi"
+   },
+   {
+    "no": 16,
+    "name": "Tsuyoshi Watanabe"
+   }
+  ]
+ },
+ "missing": [
+  {
+   "side": "away",
+   "no": 8,
+   "name": "Takefusa Kubo",
+   "reason": "Sprained knee injury"
+  }
+ ],
+ "events": [
+  {
+   "min": 4,
+   "side": "away",
+   "type": "进球",
+   "sub": null,
+   "player": "Daichi Kamada"
+  },
+  {
+   "min": 31,
+   "side": "away",
+   "type": "进球",
+   "sub": null,
+   "player": "Ayase Ueda"
+  },
+  {
+   "min": 69,
+   "side": "away",
+   "type": "进球",
+   "sub": null,
+   "player": "Junya Ito"
+  },
+  {
+   "min": 83,
+   "side": "away",
+   "type": "进球",
+   "sub": null,
+   "player": "Ayase Ueda"
+  }
+ ],
+ "injuries": [],
+ "suspensions": [],
+ "ratings": {},
+ "quotes": [],
+ "narrative": "",
+ "prediction_note": "",
+ "_note": "macheta/Sofascore 权威硬数据；injuries/suspensions/ratings/quotes/narrative/prediction_note 待 agent WebSearch 补。",
+ "ht": "0-2"
+}

@@ -1,0 +1,8 @@
+- Japan 4-0 Tunisia, Group F - Tunisia's second consecutive defeat (lost 5-1 to Sweden previously)
+- Goals: Kamada (4'), Ueda (31', 83'), Ito (69')
+- Penalty controversy at 70 seconds: Ueda clipped by Skhiri, referee Kovacs declined, VAR did not intervene
+- Tunisia: Interim coach Hervé Renard (appointed 3 days prior), cited "lacking defensive organisation"
+- Japan: First AFC nation to score 4 goals in a World Cup match; total dominance in xG (2.07 vs 0.05)
+- Ueda scored twice and assisted one; Japan 5 shots on target, Tunisia 0
+- Japan possession 62%, Tunisia 38%; Japan keeper Suzuki required 0 saves
+- Tunisia bottom of group, faces Netherlands next; Japan level on points with Netherlands, faces Sweden

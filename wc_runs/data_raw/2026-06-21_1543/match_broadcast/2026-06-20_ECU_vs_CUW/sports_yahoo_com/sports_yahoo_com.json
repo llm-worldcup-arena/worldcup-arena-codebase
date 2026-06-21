@@ -1,0 +1,24 @@
+{
+ "source": "sports.yahoo.com",
+ "url": "https://sports.yahoo.com/soccer/fifa-world-cup/curacao-ecuador-13587212/",
+ "title": "Ecuador 0 - 0 Curacao: Final score, results, recap, box score, stats - Yahoo Sports",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-20",
+  "home": "ECU",
+  "away": "CUW",
+  "home_en": "Ecuador",
+  "away_en": "Curaçao",
+  "home_zh": "厄瓜多尔",
+  "away_zh": "库拉索",
+  "comp": "小组赛·E组",
+  "match_id": "M34",
+  "slug": "2026-06-20_ECU_vs_CUW"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Ecuador 0 - 0 Curacao: Final score, results, recap, box score, stats\nYellow Card\n19 - Gervane Kastaneer\nSubstitution - In\n16 - Jordy Caicedo\nSubstitution - Out\n9 - John Yeboah\nSubstitution - In\n6 - Godfried Roemeratoe\nSubstitution - Out\n8 - Livano Comenencia\nSubstitution - In\n19 - Gervane Kastaneer\nSubstitution - Out\n9 - Jurgen Locadia\nSubstitution - In\n17 - Ángelo Preciado\nSubstitution - Out\n21 - Alan Franco\nSubstitution - In\n16 - Jearl Margaritha\nSubstitution - Out\n21 - Tahith Chong\nSubstitution - In\n4 - Roshon Van Eijma\nSubstitution - Out\n24 - Deveron Fonville\nSubstitution - In\n14 - Kenji Gorre\nSubstitution - Out\n7 - Juninho Bacuna\nYellow Card\n3 - Jurien Gaari\nSubstitution - In\n20 - Nilson Angulo\nSubstitution - Out\n7 - Pervis Estupinan\nYellow Card\n8 - Livano Comenencia\nYellow Card\n7 - Juninho Bacuna\nSubstitution - In\n11 - Kevin Rodriguez\nSubstitution - Out\n5 - Jordy Alcivar",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

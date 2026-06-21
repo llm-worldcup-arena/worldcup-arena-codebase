@@ -1,0 +1,16 @@
+{
+ "team": "JOR",
+ "source": "news.zhibo8.com",
+ "url": "https://news.zhibo8.com/zuqiu/2026-06-17/6a32538bbd0f8native.htm",
+ "title": "约旦球员进球后举球衣，致敬因十字韧带撕裂无缘世界杯的队友-直播吧",
+ "news_date": "2026-06-21",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-21",
+ "fetched": "2026-06-21_1543",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "直播吧6月17日讯 今天，约旦在世界杯首战1-3不敌奥地利。中东媒体WinWin报道，约旦球员进球后举球衣，致敬因十字韧带撕裂无缘世界杯的队友。\n\n约旦球员阿里·乌勒万，在为约旦打入其世界杯历史上的首粒进球后，举起球衣致敬了因十字韧带受伤而缺席世界杯的队友亚赞·纳伊马特。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

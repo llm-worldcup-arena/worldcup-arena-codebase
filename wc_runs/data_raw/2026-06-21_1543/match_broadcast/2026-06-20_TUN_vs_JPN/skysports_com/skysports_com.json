@@ -1,0 +1,24 @@
+{
+ "source": "skysports.com",
+ "url": "https://www.skysports.com/football/tunisia-vs-japan/report/549801",
+ "title": "World Cup 2026: Tunisia 0-4 Japan - Ayase Ueda scores twice as Tunisia's tournament ends in disappointment",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-20",
+  "home": "TUN",
+  "away": "JPN",
+  "home_en": "Tunisia",
+  "away_en": "Japan",
+  "home_zh": "突尼斯",
+  "away_zh": "日本",
+  "comp": "小组赛·F组",
+  "match_id": "M36",
+  "slug": "2026-06-20_TUN_vs_JPN"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Japan delivered a ruthlessly punishing performance to thrash Tunisia 4-0 in Guadalupe, ending the African side's World Cup before it really got going. Herve Renard was parachuted in to the head coach role following a humiliating 5-1 defeat to Sweden in Tunisia's first outing, replacing the sacked Sabri Lamouchi, but the same problems persisted. Their second offering was arguably worse than their first. Renard, appearing at his third World Cup as a coach after leading Morocco and Saudi Arabia, was unable to mastermind the kind of result that earned him international recognition on the world stage - his Saudi Arabian team famously beat Argentina in 2022. But Japan, ranked 37 places higher, were far from obliging opponents for a boss five days into a new job. Their intensity smothered Tunisia, much more organised and clinical, with their confidence best displayed by four classy goals.   Keito Nakamura picked out Daichi Kamada to round off a sweeping move for the opener before Ayase Ueda arrowed a spectacular second. After the break, Ueda turned provider for a clever third, giving Junya Ito the chance to beat Aymen Dahmen in a one-on-one. Every goal had a team aspect to it. Kaishu Sano combined with Ueda to put the gloss on the scoreline late on as Tunisia's hopes of a revival faded into obscurity. Their tournament has been a disaster. Japan, meanwhile, move level on points and goal difference with the Dutch in Group F. And such an unforgiving display should draw attention. Perhaps Hajime Moriyasu's well-drilled side lack the kind of world-class talent other nations boast, but few will match their intensity. In terms of dark horses, Japan are a strong shout to make a real impact this summer. The key moments from Monterrey... 4: GOAL! Nakamura gets to the byline and pulls the ball back towards five Japan shirts, queueing up to finish, with Kamada getting on the end of it. 31: GOAL! Ueda is found in acres of space before arrowing a fierce strike into the far corner of the net. 69: GOAL! J. Ito gets the wrong side of Ben Hmida, shrugs off a half-hearted challenge, before slotting beneath Dahmen. 84: GOAL! Sano's overlapping run and deft cross finds the head of Ueda, who sends a looping header beyond two Tunisia defenders on the goalline. Agressive style pleases Moriyasu Japan coach Hajime Moriyasu speaking to DAZN : \"We didn't know exactly what the opponents would do, but we didn't focus too much on them. Instead, we prepared well for what we wanted to do and played aggressively. \"Many Japanese supporters came here to Monterrey, sang the national anthem with us and cheered us on loudly. Their support was a huge boost for us.\" Standout star: Ayase Ueda Japan are not a side packed with superstars, at least not at first glance. But Ueda's latest display would rival the Erling Haalands and Harry Kanes of this world in terms of finishing ability. The Feyenoord forward, the Eredivisie's leading marksman last season, was unplayable. He's carried his career-best club form onto the world stage for all to enjoy. Both goals, the first a raking strike from range and the second a masterful looping header, showed off his repertoire. Both instinctive finishes. But the real intelligence came when he turned the ball around the corner for Ito's goal. His awareness and connection with team-mates is a major asset. A landmark game for the World Cup, the 1,000th in its storied history, was lit up quite sensationally by him.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

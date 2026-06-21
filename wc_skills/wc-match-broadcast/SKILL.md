@@ -88,7 +88,7 @@ python3 fetch_sources.py --match <id> --urls urls.json
 本子项目已**真正接进** matchday 自动流程(2026-06-19 接线 = `bg_collect/broadcast_round.py`,由 matchday ⑤ 调;此前只有 `broadcast_synth` 散步骤、未串成主流程,导致 6/15 起播报漏采的 bug)。**子项目文件夹不变 = 赛事播报类信息的单一真源**,规则:
 0. **找源 URL 是 agent 在 ⓪b 做的**(WebSearch 权威赛报,写进 `data_raw/<ts>/_broadcast_urls/<Mid>.json`,与 team_news 的 URL 发现同构)——这是唯一需 agent 的环节;其余(抓→合成→归档→嵌块B)全 py、`broadcast_round.py` 自动串。
 1. **没做过**（该场无 `ours/long.md`）→ `broadcast_round` 自动:`fetch_sources`(读 ⓪b 的 urls)抓原文→`broadcast_synth` 合成 long/short/timeline→`archive_broadcast_raws` 归档→`wc2026_build.append_block_b` 把该队**所有已踢场**重嵌块B(从 ours 单一真源生成,可复现)。
-2. **做过 → 绝不 remake**。本轮普通检索若捞到该场**新的**播报类信息:新源原文**扩充进本场 `raws/`**（只增不改），`--refresh` 才重合成 ours。
+2. **做过 → 直接复用、不重搜(2026-06-21 改为增量)**。`broadcast_round` 每轮**只收没做过的场(刚结算的)**,做过的场(有 `ours/long.md`)直接跳过,**不再每轮重新搜索/扩充**(那样太慢)。确需补全/重抓该场 → 手动 `broadcast_round --slug-only` 或 `broadcast_synth --refresh`。嵌块B 也增量:只重嵌**本轮新收集场**涉及的队(`--embed-only`/`--refresh` 才全嵌)。
 3. **raw 写入主项目（增量归档,版本语义勿破坏）**：子项目按【场次】累积、data_raw 按【采集时刻】切片——`archive_broadcast_raws()` 只归档**尚未在 data_raw 任何时分出现过的源** → 每个源文件只在【它被收集的那个时分目录】出现一次：首次收集→全部源进当时时分；1 小时后再来(扩充了新源)→**只有新源进新时分目录**，旧源绝不重复归档、也绝不混进旧时刻目录。没有新源 → 不建目录。
 4. 开关 `config/wc_pipeline.json` 的 `auto_run_match_broadcast`（**2026-06-19 起默认 on**）：on=按上面自动跑与扩充；off=只**复用已有**(不跑不扩充)。**硬门禁 `bg_collect/broadcast_preflight.py`**:预测前强制"每已结算场都有 ours/long.md + 两队块B 均已嵌",不达标拒预测。
 

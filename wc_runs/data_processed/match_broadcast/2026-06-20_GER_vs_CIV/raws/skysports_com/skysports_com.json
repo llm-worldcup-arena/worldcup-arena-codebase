@@ -1,0 +1,24 @@
+{
+ "source": "skysports.com",
+ "url": "https://www.skysports.com/football/news/12098/13553785/world-cup-2026-germany-2-1-ivory-coast-deniz-undav-scores-94th-minute-winner-in-group-e-clash",
+ "title": "World Cup 2026: Germany 2-1 Ivory Coast - Deniz Undav scores 94th-minute winner in Group E clash",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-20",
+  "home": "GER",
+  "away": "CIV",
+  "home_en": "Germany",
+  "away_en": "Ivory Coast",
+  "home_zh": "德国",
+  "away_zh": "科特迪瓦",
+  "comp": "小组赛·E组",
+  "match_id": "M33",
+  "slug": "2026-06-20_GER_vs_CIV"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Deniz Undav's 94th-minute goal clinched a come-from-behind 2-1 victory for Germany against Ivory Coast in Group E to send them into the World Cup knockout stages. Substitute Undav clinically dispatched the winner from Felix Nmecha's pass having earlier cancelled out Ivory Coast captain Franck Kessie's opener by volleying in a Nadiem Amiri cross. Germany appeared to be heading for a shock defeat before the former Brighton striker's 60th-minute introduction but his goals, which put him on nine in 11 games for his country, mean they join USA and Mexico in reaching the knockouts with a game to spare.   Ivory Coast, winners against Ecuador in their opener, were the better side in the first half, inspired by Liverpool target Yan Diomande, who helped set up Kessie's goal with a burst of pace and low cross, but the defeat means they still have work to do to qualify. The key moments from Toronto... 10: SAVE! Yahia Fofana makes a good save to stop Kai Havertz's header 22: GOAL RULED OUT! Aleksandar Pavlovic forces a corner over the line but is penalised for a foul on the goalkeeper 30: GOAL! Diomande's wicked low cross allows Kessie to score 39: GOAL RULED OUT! Germany denied again after Havertz's goal is chalked off for a foul by Jamal Musiala 60: Germany introduce Undav as part of a triple change 68: GOAL! Undav volleys in Amiri's excellent centre to level it up 90+4: GOAL! Undav dispatches the winner to spark wild Germany celebrations",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

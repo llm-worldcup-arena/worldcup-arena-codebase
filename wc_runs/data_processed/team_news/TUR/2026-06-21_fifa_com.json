@@ -1,0 +1,16 @@
+{
+ "team": "TUR",
+ "source": "fifa.com",
+ "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams/turkiye/team-news",
+ "title": "Türkiye | FIFA World Cup 2026™",
+ "news_date": "2026-06-21",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-21",
+ "fetched": "2026-06-21_1543",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "7.29\nkm/h\nAverage SpeedAverage Speed\nFerdiFerdi\nKADIOGLUKADIOGLU\n101\nMost SprintsMost Sprints\nArdaArda\nGULERGULER\n74\nMost Attempted Line BreaksMost Attempted Line Breaks\nArdaArda\nGULERGULER\n56\nMost Completed Line BreaksMost Completed Line Breaks\nArdaArda\nGULERGULER\n189\nMost Offers To ReceiveMost Offers To Receive\nKenanKenan\nYILDIZYILDIZ\n74\nMost Receptions Between Midfield and Defensive LineMost Receptions Between Midfield and Defensive Line\nKeremKerem\nAKTURKOGLUAKTURKOGLU\n38\nMost Pressing AppliedMost Pressing Applied\nVideoVideo\nMert GUNOKMert GUNOK\nGoalkeeperGoalkeeper\nZeki CELIKZeki CELIK\nDefenderDefender\nMerih DEMIRALMerih DEMIRAL\nDefenderDefender\nCaglar SOYUNCUCaglar SOYUNCU\nDefenderDefender\nSalih OZCANSalih OZCAN\nMidfielderMidfielder\nOrkun KOKCUOrkun KOKCU\nMidfielderMidfielder\nKerem AKTURKOGLUKerem AKTURKOGLU\nForwardForward\nArda GULERArda GULER\nForwardForward\nDeniz GULDeniz GUL\nForwardForward\nHakan CALHANOGLUHakan CALHANOGLU\nMidfielderMidfielder\nKenan YILDIZKenan YILDIZ\nForwardForward\nAltay BAYINDIRAltay BAYINDIR\nGoalkeeperGoalkeeper\nEren ELMALIEren ELMALI\nDefenderDefender\nAbdulkerim BARDAKCIAbdulkerim BARDAKCI\nDefenderDefender\nOzan KABAKOzan KABAK\nDefenderDefender\nIsmail YUKSEKIsmail YUKSEK\nMidfielderMidfielder\nIrfan Can KAHVECIIrfan Can KAHVECI\nForwardForward\nMert MULDURMert MULDUR\nDefenderDefender\nYunus AKGUNYunus AKGUN\nForwardForward\nFerdi KADIOGLUFerdi KADIOGLU\nDefenderDefender\nBaris Alper YILMAZBaris Alper YILMAZ\nForwardForward\nKaan AyhanKaan Ayhan\nMidfielderMidfielder\nUgurcan CAKIRUgurcan CAKIR\nGoalkeeperGoalkeeper\nOguz AYDINOguz AYDIN\nForwardForward\nSamet AKAYDINSamet AKAYDIN\nDefenderDefender\nCan UZUNCan UZUN\nForwardForward",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

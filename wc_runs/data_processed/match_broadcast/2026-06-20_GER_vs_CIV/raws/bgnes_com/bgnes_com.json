@@ -1,0 +1,24 @@
+{
+ "source": "bgnes.com",
+ "url": "https://www.bgnes.com/sport/germany-staged-a-comeback-against-ivory-coast-at-the-2026-world-cup",
+ "title": "Germany staged a comeback against Ivory Coast at the 2026 World Cup",
+ "published": "2026-06-20T22:11:15Z",
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-20",
+  "home": "GER",
+  "away": "CIV",
+  "home_en": "Germany",
+  "away_en": "Ivory Coast",
+  "home_zh": "德国",
+  "away_zh": "科特迪瓦",
+  "comp": "小组赛·E组",
+  "match_id": "M33",
+  "slug": "2026-06-20_GER_vs_CIV"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Germany recorded its second victory at the World Cup after defeating Ivory Coast 2–1 in a Group E match played at BMO Field in Toronto. Despite the Bundesteam’s dominance for most of the match, it was the African team that opened the scoring. Franck Kessié gave Côte d’Ivoire the lead in the 30th minute, and the Germans were unable to capitalize on their chances before halftime. After the restart, Germany’s pressure intensified and, unsurprisingly, led to an equalizer. Deniz Undav leveled the score in the 68th minute, and in the dramatic closing moments of the match, he once again proved to be the hero for his team, scoring the winning goal in the fourth minute of stoppage time. With this victory, the Germans took sole possession of first place in the group standings with six points. Ivory Coast remains in second place with three points, while Ecuador and Curaçao are still winless ahead of their head-to-head matchup later tonight at Arrowhead Stadium in Kansas City, which kicks off at 3:00 a.m. Bulgarian time.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

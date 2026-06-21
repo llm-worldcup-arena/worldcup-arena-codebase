@@ -1,0 +1,16 @@
+{
+ "team": "PAR",
+ "source": "zaobao.com.sg",
+ "url": "https://www.zaobao.com.sg/news/sports/story20250320-6045016",
+ "title": "阿根廷前锋马丁内斯腿伤 缺席世界杯外围赛",
+ "news_date": "2026-06-21",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-21",
+ "fetched": "2026-06-21_1543",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "（路透电）阿根廷足总星期三（3月19日）指出，前锋劳塔罗·马丁内斯（Lautaro Martinez）由于腿筋受伤，将缺席接下来对阵乌拉圭和巴西的南美洲区世界杯外围赛。\n\n目前效力国际米兰（Inter Milan）的马丁内斯上周在球队于欧冠16强赛次回合，压倒荷兰球队飞燕诺（Feyenoord）的比赛中因肌肉不适而没有下场。\n\n这名27岁的球员星期天（16日）在国米2比0战胜亚特兰大（Atalanta）的意甲比赛中复出并取得进球。随后他加入斯卡洛尼（Scaloni）执掌兵符的阿根廷国家队，但现在却因左腿筋受伤而被排除在大名单外。\n\n随着马丁内斯受伤，阿根廷的缺席球员名单越来越长，其中包括因肌肉拉伤而缺阵的队长梅西（Messi），还有蒙铁尔（Montiel）、洛塞尔索（Lo Celso）和迪巴拉（Dybala）。\n\n在12轮外围赛之后，阿根廷以25分领跑南美外围赛积分榜。这支世界杯和美洲杯冠军球队将在星期五（21日）客场挑战排名第二的乌拉圭，四天后主场迎战排名第五的巴西。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

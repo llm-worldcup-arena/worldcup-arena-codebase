@@ -128,6 +128,22 @@
     "TUR_vs_PAR": {
       "score": "0-1",
       "ht": "0-1"
+    },
+    "GER_vs_CIV": {
+      "score": "2-1",
+      "ht": "0-1"
+    },
+    "ECU_vs_CUW": {
+      "score": "0-0",
+      "ht": "0-0"
+    },
+    "NED_vs_SWE": {
+      "score": "5-1",
+      "ht": "2-0"
+    },
+    "TUN_vs_JPN": {
+      "score": "0-4",
+      "ht": "0-2"
     }
   },
   "group_winners": {},

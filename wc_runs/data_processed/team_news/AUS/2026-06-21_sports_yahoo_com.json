@@ -1,0 +1,16 @@
+{
+ "team": "AUS",
+ "source": "sports.yahoo.com",
+ "url": "https://sports.yahoo.com/soccer/article/christian-pulisic-ruled-out-for-usmnts-world-cup-match-against-australia-172910043.html",
+ "title": "Christian Pulisic ruled out for USMNT's World Cup match against Australia - Yahoo Sports",
+ "news_date": "2026-06-21",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-21",
+ "fetched": "2026-06-21_1543",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Christian Pulisic ruled out for USMNT's World Cup match against Australia\nSEATTLE — Christian Pulisic was held out of the U.S. World Cup match against Australia on Friday because of a calf injury — an expected decision after he left last week's opener at halftime and did not participate in full training this week.\n\"Christian is not available,\" coach Mauricio Pochettino told Fox Sports before the game. \"I think the feelings are good, and let's hope that as soon as possible he can be ready to be selected again and be part of the team.\"\nAdvertisement\nAn influential player in the USMNT's 4-1 victory over Paraguay in Inglewood, California, Pulisic was removed after aggravating an ailment suffered in training a few days earlier.\nU.S. officials were cautiously optimistic Pulisic would be able to return to face Australia in a match pitting Group D's leaders. But they also did not want to risk a more significant injury that could threaten to end his World Cup.\nOn Thursday, Pochettino said, \"Christian is strong and with a great mentality, and is [making] a fantastic effort to try to be ready as soon as possible.\"\nWhile the team trained early in the week at base camp in Irvine, California, Pulisic worked with trainers on the side and engaged in some ball work. In the segment of Thursday's session at the University of Washington that was open to reporters, Pulisic did not participate.\nAdvertisement\nIn Pulisic's absence, Pochettino started striker Ricardo Pepi against the Aussies at Lumen Field. That selection was a bit of a surprise, given his preference to play with Folarin Balogun as the lone center forward. The U.S. went on to beat Australia 2-0, clinch a spot in the Round of 32 and win Group D.\nSpeculation had pointed to a winger, such as Tim Weah or Alex Zendejas, or a midfielder, such as Sebastian Berhalter or Gio Reyna. In the opener, Berhalter replaced Pulisic and Malik Tillman slid into a more advanced role.\nIn his World Cup debut, Pepi replaced Balogun, a two-goal scorer, in the 72nd minute.\nAdvertisement\nThere were no other lineup changes. Matt Freese started in goal, with Tim Ream, Chris Richards and Alex Freeman on the backline, Antonee Robinson and Sergiño Dest on the wings, Tyler Adams and Tillman in central midfield and Weston McKennie in an attacking role.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

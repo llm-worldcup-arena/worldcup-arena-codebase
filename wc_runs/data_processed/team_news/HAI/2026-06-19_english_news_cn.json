@@ -1,0 +1,16 @@
+{
+ "team": "HAI",
+ "source": "english.news.cn",
+ "url": "http://english.news.cn/20260619/e2140d0f480a4db28766dc2721212085/c.html",
+ "title": "Brazil",
+ "news_date": "2026-06-19",
+ "published": "2026-06-19",
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-21",
+ "fetched": "2026-06-21_1543",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "NEW JERSEY, June 18 (Xinhua) -- Neymar has been ruled out of Brazil's second World Cup group match against Haiti as he continues his recovery from a calf injury, the Brazilian Football Confederation (CBF) said on Thursday.\n\nThe 34-year-old resumed training at Brazil's New Jersey base this week after missing the team's 1-1 draw with Morocco in their World Cup Group C opener on Saturday.\n\n\"He will remain in New Jersey to optimize the final stage of his recovery process, making use of the excellent facilities,\" read a statement on the CBF's website.\n\nBrazil will face Haiti in Philadelphia on Friday before finishing the group stage against Scotland in Miami on June 24.\n\nNeymar has been sidelined since May after sustaining a grade two calf strain in his right leg while playing for Santos.\n\nBrazil's all-time leading scorer with 79 goals in 128 international appearances, the former Barcelona and Paris Saint-Germain attacker has not played for the national team since suffering a ruptured anterior cruciate ligament in October 2023.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

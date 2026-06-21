@@ -1,0 +1,16 @@
+{
+ "team": "SEN",
+ "source": "bbc.com",
+ "url": "https://www.bbc.com/sport/football/articles/c3e2dq38evzo",
+ "title": "World Cup 2026: Sadio Mane named in Senegal's squad after missing 2022 tournament",
+ "news_date": "2026-06-21",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-21",
+ "fetched": "2026-06-21_1543",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "Al-Nassr forward Sadio Mane has been included in Senegal's 26-man squad for this summer's World Cup.\n\nThe former Liverpool and Bayern Munich player was named in Senegal's squad for the 2022 World Cup in Qatar, but he missed the tournament with a knee injury.\n\nMane was among the Senegal players who remained on the pitch during January's 2025 Africa Cup of Nations final when Morocco were awarded a stoppage-time penalty.\n\nThe 34-year-old encouraged his team-mates who had walked off in protest to return and finish the game, which Senegal won thanks to a Pape Gueye goal in extra-time.\n\nHowever, a Confederation of African Football (Caf) appeals board later declared Morocco winners of the tournament following Senegal's controversial walk-off.\n\nMane will be joined in attack at the World Cup by Bayern Munich forward Nicolas Jackson, Everton's Iliman Ndiaye and Crystal Palace winger Ismaila Sarr.\n\nSenegal head coach Pape Thiaw has also selected Everton midfielder Idrissa Gueye, Sunderland's Habib Diarra and Tottenham Hotspur's Pape Matar Sarr.\n\nHowever, Thiaw has dropped defenders Moustapha Mbow of Paris FC and Anderlecht's Ilay Camara from his final squad.\n\nSenegal open their World Cup campaign in New Jersey against France on 16 June, followed by Norway on 22 June and Iraq on 26 June.\n\nThe expanded 48-team competition in the US, Canada and Mexico runs from 11 June to 19 July.\n\nGoalkeepers: Edouard Mendy (Al-Ahli), Yehvann Diouf (Nice), Mory Diaw (Le Havre).\n\nDefenders: Krepin Diatta (Monaco), Antoine Mendy (Nice), Abdoulaye Seck (Maccabi Haifa), Kalidou Koulibaly (Al-Hilal), Moussa Niakhate (Lyon), Mamadou Sarr (Chelsea), El-Hadji Malick Diouf (West Ham United), Ismail Jakobs (Galatasaray).\n\nMidfielders: Idrissa Gueye (Everton), Habib Diarra (Sunderland), Pape Matar Sarr (Tottenham), Pape Gueye (Villarreal), Lamine Camara (Monaco), Pathe Ciss (Rayo Vallecano), Bara Ndiaye (Bayern Munich).\n\nForwards: Sadio Mane (Al-Nassr), Bamba Dieng (Lorient), Iliman Ndiaye (Everton), Nicolas Jackson (Bayern Munich), Assane Diao (Como), Ibrahim Mbaye (Paris St-Germain), Cherif Ndiaye (Samsunspor), Ismaila Sarr (Crystal Palace).",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

@@ -1,0 +1,16 @@
+{
+ "team": "JOR",
+ "source": "m.sohu.com",
+ "url": "https://m.sohu.com/a/1031356991_461392/?pvid=000115_3w_a&scm=10001.650_14-200000.0.0-0-0-0-0",
+ "title": "世界杯新军！约旦队公布参赛名单 小组赛末轮战阿根廷",
+ "news_date": "2026-06-03",
+ "published": "2026-06-03 07:54:15",
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-21",
+ "fetched": "2026-06-21_1543",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "约旦国家队公布了征战2026年美加墨世界杯的大名单，雷恩前锋塔马里领衔，这将是他们首次登上世界杯舞台。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

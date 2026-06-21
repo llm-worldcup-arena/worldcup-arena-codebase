@@ -1,0 +1,16 @@
+{
+ "team": "SEN",
+ "source": "news.sina.cn",
+ "url": "https://news.sina.cn/2026-06-03/detail-iniaarqw2599332.d.html?vt=4",
+ "title": "塞内加尔世界杯26人名单：马内、杰克逊领衔，门迪、库利巴利入选",
+ "news_date": "2026-06-02",
+ "published": "2026-06-02 09:46:52",
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-21",
+ "fetched": "2026-06-21_1543",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "直播吧06月02日讯 塞内加尔公布世界杯26人名单，马内、杰克逊领衔，门迪、库利巴利在列， 18岁拜仁小将恩迪亚耶入选 。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

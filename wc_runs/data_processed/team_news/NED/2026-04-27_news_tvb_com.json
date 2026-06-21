@@ -1,0 +1,16 @@
+{
+ "team": "NED",
+ "source": "news.tvb.com",
+ "url": "https://news.tvb.com/tc/1166245-%E8%8D%B7%E8%98%AD%E5%9C%8B%E8%85%B3%E6%B2%99%E7%B6%AD%E8%A5%BF%E8%92%99%E6%96%AF%E5%9B%A0%E5%82%B7%E7%84%A1%E7%B7%A3%E4%B8%96%E7%95%8C%E7%9B%83",
+ "title": "荷蘭國腳沙維西蒙斯因傷無緣世界盃",
+ "news_date": "2026-04-27",
+ "published": "2026-04-27T22:14:00+08:00",
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-21",
+ "fetched": "2026-06-21_1543",
+ "method": "jsonld",
+ "status": "blocked",
+ "original_text": "",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

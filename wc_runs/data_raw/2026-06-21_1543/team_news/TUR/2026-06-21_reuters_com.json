@@ -1,0 +1,16 @@
+{
+ "team": "TUR",
+ "source": "reuters.com",
+ "url": "https://www.reuters.com/graphics/SOCCER-WORLDCUP/mopaoglqkpa/teams/turkey/",
+ "title": "Turkey at the FIFA World Cup 2026: Squad, fixtures and results",
+ "news_date": "2026-06-21",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-21",
+ "fetched": "2026-06-21_1543",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Turkey at the FIFA World Cup 2026: Squad, fixtures and results\nManager: Vincenzo Montella\nAssistants: H. Balta, D. Russo\nSources\nData and commentary from Opta Sports\nCover image\nA blow up soccer ball of the Trionda, the official match ball of the FIFA World Cup 2026, stands during a press conference announcing an official fan zone for the area in New York City, U.S., April 27, 2026. REUTERS/Shannon Stapleton/File Photo\nIllustration & Design\nAnurag Rao and Prasanta Kumar Dutta\nDevelopment\nPrasanta Kumar Dutta\nEditing\nJon McClure and Simon Scarr",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

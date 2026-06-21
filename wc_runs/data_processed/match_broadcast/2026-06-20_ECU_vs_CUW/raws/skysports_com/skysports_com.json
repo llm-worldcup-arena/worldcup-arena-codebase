@@ -1,0 +1,24 @@
+{
+ "source": "skysports.com",
+ "url": "https://www.skysports.com/football/news/29910/13553789/world-cup-2026-ecuador-0-0-curacao-eloy-room-makes-history-with-incredible-15-saves-to-earn-blue-wave-first-ever-point",
+ "title": "World Cup 2026: Ecuador 0-0 Curacao - Eloy Room makes history with incredible 15 saves to earn Blue Wave first ever point",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-20",
+  "home": "ECU",
+  "away": "CUW",
+  "home_en": "Ecuador",
+  "away_en": "Curaçao",
+  "home_zh": "厄瓜多尔",
+  "away_zh": "库拉索",
+  "comp": "小组赛·E组",
+  "match_id": "M34",
+  "slug": "2026-06-20_ECU_vs_CUW"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Curacao goalkeeper Eloy Room made history with an incredible 15 saves to earn his country their first ever World Cup point by holding Ecuador to a 0-0 draw in Group E. Room, 37, set a new record for the most saves in 90 minutes of a World Cup match since records began in 1966, with an outstanding display, improbably keeping alive the qualification hopes of the team ranked 81st in the world and a population of just 158,000 people despite their 7-1 opening-game defeat to Germany. Ecuador, fancied by many to go deep into the tournament after a promising qualifying campaign, had 27 shots, producing an xG of 3.05, yet drew another blank after losing 1-0 to the Ivory Coast and must now beat table-toppers Germany to go through.   Enner Valencia was the most wasteful of Ecuador's forwards with seven shots, denied by Room's best save in only the third minute when clean through on goal before Gonzalo Plata had his close-range header parried by the unbeatable goalkeeper on a remarkable night in Kansas. The key moments from Kansas... 3: HUGE SAVE! Curacao goalkeeper Room denies Valencia with a brilliant stop. 69: ROOM AGAIN! Plata's close-range header at a corner is superbly parried by the goalkeeper. 60: DOULE SAVE! But NOT from Room as Curacao are denied a shock lead. 79: ROOM MAKES HISTORY! Angulo's pildriver from outside the box is parried by Room to bring up his fifteenth save. 90: OFF THE WOODWORK! Ecuador substitute Preciado sees his cross hit the crossbar. Who is Eloy Room? Room plays for second-tier Miami FC in the USL Championship, having signed for the club in December last year. The 37-year-old won the Eredivisie title with PSV in the 2017/18 season and before that spent most of his career at Vitesse, where he made more than 250 appearances over two spells. After PSV, he signed for MLS side Columbus Crew in 2019, playing 102 times, winning the MLS Save of Year and the MLS Cup. Room for a hero... Save after save! Ecuadraw on the brink Sky Sports' David Richardson: The issue with Ecuador's qualifying campaign was their repeated reliance on 0-0 draws, a habit that now threatens to end in an embarrassing group-stage exit. Amad Diallo's last-minute winner for the Ivory Coast denied them a draw in the opening game, after they had recorded eight stalemates in 18 qualifiers. Even their 1-0 win over Argentina, which concluded their qualifying campaign, came after a run of four consecutive 0-0 draws. That pattern has continued. In their eight friendlies before this tournament, they drew five. Sebastian Beccacece's side struggles for goals, often scraping wins by the odd goal and leaning heavily on Enner Valencia, who has 49 goals in 107 appearances. The next highest scorer is Gonzalo Plata with eight. Managing to draw 0-0 despite 27 shots against a team ranked 81st in the world is quite an achievement in itself. Beating Germany to reach the knockout stage would be an even bigger one.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

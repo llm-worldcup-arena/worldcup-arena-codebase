@@ -1,0 +1,24 @@
+{
+ "source": "k.sina.com.cn",
+ "url": "https://k.sina.com.cn/article_1960785875_m74df37d303301r98q.html?from=sports&subch=osport",
+ "title": "德国2比1科特迪瓦|美加墨世界杯|科特迪瓦足球|德国足球|克罗地亚足球队|约书亚-基米希_新浪新闻",
+ "published": "2026-06-21 07:37:30",
+ "tier": "3",
+ "lang": "zh",
+ "match": {
+  "date": "2026-06-20",
+  "home": "GER",
+  "away": "CIV",
+  "home_en": "Germany",
+  "away_en": "Ivory Coast",
+  "home_zh": "德国",
+  "away_zh": "科特迪瓦",
+  "comp": "小组赛·E组",
+  "match_id": "M33",
+  "slug": "2026-06-20_GER_vs_CIV"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "#德国绝杀进球# 【#德国2比1科特迪瓦# 】美加墨世界杯E组第二轮，德国队VS科特迪瓦队。凯西为科特迪瓦先下一城，替补登场的温达夫攻入两球。最终，德国逆转战胜科特迪瓦，积6分暂列小组头名。（央视体育）\nVideo Player is loading.\n00:00/00:00\n当前音量:0%\nLoaded: 0%\n03:50\n50% 75% 100%\n视频加载失败，请查看其他精彩视频\n特别声明：以上文章内容仅代表作者本人观点，不代表新浪网观点或立场。如有关于作品内容、版权或其它问题请于作品发表后的30日内与新浪网联系。\n联系我们 | 广告营销 | 通行证注册\n产品答疑 | 招聘信息 | 网站律师\nSINA English",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}
