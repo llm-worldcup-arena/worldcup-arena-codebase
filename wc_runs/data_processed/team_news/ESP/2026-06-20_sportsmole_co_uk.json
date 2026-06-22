@@ -1,0 +1,16 @@
+{
+ "team": "ESP",
+ "source": "sportsmole.co.uk",
+ "url": "https://www.sportsmole.co.uk/football/spain/world-cup-2026/team-news/spain-vs-saudi-arabia-injury-suspension-list-predicted-xis_599590.html",
+ "title": "Team News: Spain vs. Saudi Arabia injury, suspension list, predicted XIs - Sports Mole",
+ "news_date": "2026-06-20",
+ "published": "2026-06-20T16:00:00Z",
+ "tier": "2",
+ "lang": "es",
+ "asof": "2026-06-22",
+ "fetched": "2026-06-22_1235",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "Spain and Saudi Arabia will continue their respective 2026 World Cup campaigns with a clash in Group H on Sunday.\n\nSaudi Arabia are second in the section on one point, while Spain are third, also on one point, and here Sports Mole rounds up the team news for the game.\n\nGet FREE daily news and in-depth previews for games from the biggest leagues and competitions in world football — straight to your inbox.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

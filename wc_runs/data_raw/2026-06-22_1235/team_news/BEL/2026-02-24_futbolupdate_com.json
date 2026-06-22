@@ -1,0 +1,16 @@
+{
+ "team": "BEL",
+ "source": "futbolupdate.com",
+ "url": "https://www.futbolupdate.com/belgium-2026-fifa-world-cup/",
+ "title": "Belgium 2026 World Cup Schedule: Results, Scores & Standings",
+ "news_date": "2026-02-24",
+ "published": "2026-02-24T11:06:39+05:45",
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-22",
+ "fetched": "2026-06-22_1235",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "Belgium finished third at the 2018 World Cup in Russia, their best ever result. Now a new generation — led by Lois Openda , Amadou Onana and Yannick Carrasco — takes the mantle from the “golden generation” of Hazard, De Bruyne and Lukaku. Manager Domenico Tedesco has forged a dynamic, pressing side ready to go deeper in 2026.\n\n🇧🇪 Top 2 teams qualify automatically to Round of 32. The 8 best third-placed teams across all groups also advance. Standings will update after each matchday.\n\nBelgium are seeded first in Group G, drawn into a West Coast cluster with all three matches on the Pacific seaboard. They open against Egypt — returning to the World Cup for the first time since 1990 and backed by the formidable Mohamed Salah — at Lumen Field in Seattle . Their second game moves south to SoFi Stadium in Inglewood , facing an Iran side that qualified through the AFC and are no strangers to upsets. The group concludes in Vancouver, Canada against New Zealand , the OFC representative. All Group G matches are played at three West Coast venues: Lumen Field (Seattle), SoFi Stadium (Los Angeles) and BC Place (Vancouver). As Group G winners, Belgium would face the runner-up of Group A or the best third-placed team in the Round of 32, keeping them on a potential collision course with the Netherlands from the quarterfinals onward.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

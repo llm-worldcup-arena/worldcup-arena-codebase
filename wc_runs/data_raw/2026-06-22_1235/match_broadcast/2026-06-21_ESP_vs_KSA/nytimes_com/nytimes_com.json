@@ -1,0 +1,24 @@
+{
+ "source": "nytimes.com",
+ "url": "https://www.nytimes.com/athletic/football/game/saudi-arabia-vs-spain/EHdindD4opyE3PtS/",
+ "title": "Saudi Arabia vs Spain Box Score - June 21, 2026 - The Athletic",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-21",
+  "home": "ESP",
+  "away": "KSA",
+  "home_en": "Spain",
+  "away_en": "Saudi Arabia",
+  "home_zh": "西班牙",
+  "away_zh": "沙特阿拉伯",
+  "comp": "小组赛·H组",
+  "match_id": "M38",
+  "slug": "2026-06-21_ESP_vs_KSA"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Just got home and turned this game on Fox. Commentary was about Tyler Adams and Christian Pulisic. I was amazed as neither plays for either of these teams. So I went over to Telemundo. My Spanish es muy malo, but it was clear that the main commentator was doing play-by-play and they were only discussing things related to this game. What has happened to American broadcasting? I am truly ashamed.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

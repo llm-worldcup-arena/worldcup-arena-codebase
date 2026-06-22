@@ -1,0 +1,16 @@
+{
+ "team": "SWE",
+ "source": "harveycadillac.com",
+ "url": "https://www.harveycadillac.com/searchnew.aspx",
+ "title": "Cadillac New Vehicle Inventory Search in Grand Rapids | Cadillac dealership in Grand Rapids MI",
+ "news_date": "2026-06-22",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-22",
+ "fetched": "2026-06-22_1235",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Type in a zip code, or share your location to find vehicles near you.\n- or -\nSales tax, title, license fee, registration fee, finance charges & compliance fees are additional to the advertised price. New Cadillac and Cadillac Courtesy Transportation Vehicle (CTA) pricing is for qualified buyers or lessees. Cadillac Certified Pre-Owned and used vehicle pricing is for qualified buyers. Every effort is made to provide site visitors with accurate information - however, Harvey Cadillac is not responsible for typographical or entry errors. Please contact us with any questions or concerns. The Manufacturer's Suggested Retail Price (MSRP) excludes tax, title, license, dealer fees and optional equipment. Dealer sets final price. The Manufacturer's Suggested Retail Price excludes tax, title, license, dealer fees and optional equipment. Dealer sets final price.\nThe Manufacturer's Suggested Retail Price excludes tax, title, license, dealer fees and optional equipment. Dealer sets final price.\nThis content has been blocked pending your consent.\nThis content has been blocked pending your consent.\nThis content has been blocked pending your consent.\nThis content has been blocked pending your consent.\nThis content has been blocked pending your consent.\nThis content has been blocked pending your consent.\nThis content has been blocked pending your consent.\nThis content has been blocked pending your consent.\nThis content has been blocked pending your consent.\nThis content has been blocked pending your consent.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

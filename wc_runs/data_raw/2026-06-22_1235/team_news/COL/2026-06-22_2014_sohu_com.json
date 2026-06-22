@@ -1,0 +1,16 @@
+{
+ "team": "COL",
+ "source": "2014.sohu.com",
+ "url": "http://2014.sohu.com/20140518/n399710511.shtml",
+ "title": "·¨Ã½ÆØ·¨¶û¿¼½«ÂäÑ¡23ÈËÃûµ¥ ÒòÏ¥ÉË´í¹ýÊÀ½ç±­-ËÑºüÌåÓý",
+ "news_date": "2026-06-22",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-22",
+ "fetched": "2026-06-22_1235",
+ "method": "jsonld",
+ "status": "blocked",
+ "original_text": "",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

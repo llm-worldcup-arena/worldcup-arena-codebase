@@ -1,0 +1,402 @@
+{
+ "match_id": "4627905",
+ "date": "2026-06-21",
+ "comp": "世界杯·H组",
+ "ha_home": "中",
+ "home": "URU",
+ "away": "CPV",
+ "score": "2-2",
+ "venue": "Hard Rock Stadium (Miami)",
+ "attendance": 64003,
+ "goals": [
+  {
+   "min": 21,
+   "side": "away",
+   "player": "Kevin Lenini",
+   "sub": null
+  },
+  {
+   "min": 44,
+   "side": "home",
+   "player": "Maximiliano Araujo",
+   "sub": null
+  },
+  {
+   "min": 45,
+   "side": "home",
+   "player": "Agustin Canobbio",
+   "sub": null
+  },
+  {
+   "min": 61,
+   "side": "away",
+   "player": "Hélio Varela",
+   "sub": null
+  }
+ ],
+ "cards": [
+  {
+   "min": 5,
+   "side": "away",
+   "player": "Sidny Cabral",
+   "type": "黄牌"
+  },
+  {
+   "min": 20,
+   "side": "home",
+   "player": "Rodrigo Bentancur",
+   "type": "黄牌"
+  },
+  {
+   "min": 58,
+   "side": "home",
+   "player": "Mathias Olivera",
+   "type": "黄牌"
+  },
+  {
+   "min": 90,
+   "side": "away",
+   "player": "Diney Borges",
+   "type": "黄牌"
+  }
+ ],
+ "stats": {
+  "射门": [
+   "17",
+   "12"
+  ],
+  "射正": [
+   "2",
+   "4"
+  ],
+  "禁区内射门": [
+   "8",
+   "4"
+  ],
+  "扑救": [
+   "7",
+   "4"
+  ],
+  "角球": [
+   "11",
+   "4"
+  ],
+  "越位": [
+   "3",
+   "0"
+  ],
+  "控球%": [
+   "65%",
+   "35%"
+  ],
+  "传中": [
+   "114",
+   "70"
+  ],
+  "传球": [
+   "419",
+   "205"
+  ],
+  "xG预期进球": [
+   "0.85",
+   "0.33"
+  ],
+  "xGOT/大机会": [
+   "1.65",
+   "1.25"
+  ]
+ },
+ "lineups": {
+  "home": [
+   {
+    "no": 23,
+    "name": "Fernando Muslera"
+   },
+   {
+    "no": 25,
+    "name": "Juan Sanabria"
+   },
+   {
+    "no": 16,
+    "name": "Mathias Olivera"
+   },
+   {
+    "no": 3,
+    "name": "Sebastian Caceres"
+   },
+   {
+    "no": 13,
+    "name": "Guillermo Varela"
+   },
+   {
+    "no": 5,
+    "name": "Manuel Ugarte"
+   },
+   {
+    "no": 20,
+    "name": "Maximiliano Araujo"
+   },
+   {
+    "no": 8,
+    "name": "Federico Valverde"
+   },
+   {
+    "no": 6,
+    "name": "Rodrigo Bentancur"
+   },
+   {
+    "no": 14,
+    "name": "Agustin Canobbio"
+   },
+   {
+    "no": 21,
+    "name": "Federico Vinas"
+   },
+   {
+    "no": 9,
+    "name": "Darwin Nunez"
+   },
+   {
+    "no": 18,
+    "name": "Brian Rodriguez"
+   },
+   {
+    "no": 7,
+    "name": "Nicolas De La Cruz"
+   },
+   {
+    "no": 19,
+    "name": "Rodrigo Aguirre"
+   },
+   {
+    "no": 24,
+    "name": "Santiago Bueno"
+   },
+   {
+    "no": 2,
+    "name": "Jose Maria Gimenez"
+   },
+   {
+    "no": 15,
+    "name": "Emiliano Martinez"
+   },
+   {
+    "no": 12,
+    "name": "Santiago Mele"
+   },
+   {
+    "no": 11,
+    "name": "Facundo Pellistri"
+   },
+   {
+    "no": 22,
+    "name": "Joaquin Piquerez"
+   },
+   {
+    "no": 1,
+    "name": "Sergio Rochet"
+   },
+   {
+    "no": 17,
+    "name": "Matias Vina"
+   },
+   {
+    "no": 26,
+    "name": "Rodrigo Zalazar"
+   }
+  ],
+  "away": [
+   {
+    "no": 1,
+    "name": "Vozinha"
+   },
+   {
+    "no": 13,
+    "name": "Sidny Cabral"
+   },
+   {
+    "no": 3,
+    "name": "Diney Borges"
+   },
+   {
+    "no": 4,
+    "name": "Roberto Lopes"
+   },
+   {
+    "no": 22,
+    "name": "Steven Moreira"
+   },
+   {
+    "no": 6,
+    "name": "Kevin Lenini"
+   },
+   {
+    "no": 11,
+    "name": "Garry Rodrigues"
+   },
+   {
+    "no": 10,
+    "name": "Jamiro Monteiro"
+   },
+   {
+    "no": 18,
+    "name": "Telmo Arcanjo"
+   },
+   {
+    "no": 20,
+    "name": "Ryan Mendes"
+   },
+   {
+    "no": 9,
+    "name": "Benchimol"
+   },
+   {
+    "no": 26,
+    "name": "Hélio Varela"
+   },
+   {
+    "no": 16,
+    "name": "Yannick Semedo"
+   },
+   {
+    "no": 14,
+    "name": "Deroy Duarte"
+   },
+   {
+    "no": 15,
+    "name": "Laros Duarte"
+   },
+   {
+    "no": 21,
+    "name": "Nuno Da Costa"
+   },
+   {
+    "no": 23,
+    "name": "CJ dos Santos"
+   },
+   {
+    "no": 7,
+    "name": "Jovane Cabral"
+   },
+   {
+    "no": 12,
+    "name": "Márcio Rosa"
+   },
+   {
+    "no": 24,
+    "name": "Wagner Pina"
+   },
+   {
+    "no": 5,
+    "name": "Logan Costa"
+   },
+   {
+    "no": 8,
+    "name": "João Paulo"
+   },
+   {
+    "no": 19,
+    "name": "Livramento"
+   },
+   {
+    "no": 17,
+    "name": "Willy Semedo"
+   },
+   {
+    "no": 25,
+    "name": "Kelvin Pires"
+   },
+   {
+    "no": 2,
+    "name": "Stopira"
+   }
+  ]
+ },
+ "missing": [
+  {
+   "side": "home",
+   "no": 10,
+   "name": "Giorgian de Arrascaeta",
+   "reason": "Broken collarbone"
+  },
+  {
+   "side": "home",
+   "no": 4,
+   "name": "Ronald Araujo",
+   "reason": "Muscle injury"
+  }
+ ],
+ "events": [
+  {
+   "min": 5,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Sidny Cabral"
+  },
+  {
+   "min": 20,
+   "side": "home",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Rodrigo Bentancur"
+  },
+  {
+   "min": 21,
+   "side": "away",
+   "type": "进球",
+   "sub": null,
+   "player": "Kevin Lenini"
+  },
+  {
+   "min": 44,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Maximiliano Araujo"
+  },
+  {
+   "min": 45,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Agustin Canobbio"
+  },
+  {
+   "min": 58,
+   "side": "home",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Mathias Olivera"
+  },
+  {
+   "min": 61,
+   "side": "away",
+   "type": "进球",
+   "sub": null,
+   "player": "Hélio Varela"
+  },
+  {
+   "min": 70,
+   "side": "home",
+   "type": "T4",
+   "sub": "乌龙",
+   "player": "Goal Disallowed"
+  },
+  {
+   "min": 90,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Diney Borges"
+  }
+ ],
+ "injuries": [],
+ "suspensions": [],
+ "ratings": {},
+ "quotes": [],
+ "narrative": "",
+ "prediction_note": "",
+ "_note": "macheta/Sofascore 权威硬数据；injuries/suspensions/ratings/quotes/narrative/prediction_note 待 agent WebSearch 补。",
+ "ht": "2-1"
+}

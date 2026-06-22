@@ -1,0 +1,16 @@
+{
+ "team": "HAI",
+ "source": "news.zhibo8.com",
+ "url": "https://news.zhibo8.com/zuqiu/2026-06-12/6a2adcd7eecc8native.htm",
+ "title": "倒在开赛前！官方：海地中场皮埃尔二级肌肉拉伤，退出世界杯名单-直播吧",
+ "news_date": "2026-06-22",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-22",
+ "fetched": "2026-06-22_1235",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "直播吧06月12日讯 海地国家队发布官方公告，球队中场勒沃顿·皮埃尔因伤退出世界杯名单，补召效力于美国二级联赛球队科罗拉多跃泉的后卫加尔文·梅图萨拉。\n\n海地国家队本届世界杯与苏格兰、巴西、摩洛哥一同分在C组，首战将在6月14日9点对阵苏格兰。\n\n医疗团队检测出勒弗顿·皮埃尔右腿肌肉拉伤，将无法参加世界杯。为了替换他，技术团队已征召加尔文·梅图萨拉，他将前往波士顿与球队会合。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

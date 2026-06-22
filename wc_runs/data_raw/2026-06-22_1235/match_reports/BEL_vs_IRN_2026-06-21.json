@@ -1,0 +1,336 @@
+{
+ "match_id": "4627860",
+ "date": "2026-06-21",
+ "comp": "世界杯·G组",
+ "ha_home": "中",
+ "home": "BEL",
+ "away": "IRN",
+ "score": "0-0",
+ "venue": "SoFi Stadium (Los Angeles)",
+ "attendance": 70317,
+ "goals": [],
+ "cards": [
+  {
+   "min": 3,
+   "side": "home",
+   "player": "Romelu Lukaku",
+   "type": "黄牌"
+  },
+  {
+   "min": 33,
+   "side": "away",
+   "player": "Saeed Ezatolahi",
+   "type": "黄牌"
+  },
+  {
+   "min": 66,
+   "side": "home",
+   "player": "Nathan Ngoy",
+   "type": "红牌"
+  }
+ ],
+ "stats": {
+  "射门": [
+   "23",
+   "7"
+  ],
+  "射正": [
+   "7",
+   "3"
+  ],
+  "禁区内射门": [
+   "10",
+   "3"
+  ],
+  "扑救": [
+   "6",
+   "1"
+  ],
+  "角球": [
+   "4",
+   "2"
+  ],
+  "越位": [
+   "3",
+   "4"
+  ],
+  "控球%": [
+   "70%",
+   "30%"
+  ],
+  "传中": [
+   "143",
+   "51"
+  ],
+  "传球": [
+   "533",
+   "198"
+  ],
+  "xG预期进球": [
+   "1.48",
+   "0.3"
+  ],
+  "xGOT/大机会": [
+   "1.49",
+   "0.87"
+  ]
+ },
+ "lineups": {
+  "home": [
+   {
+    "no": 1,
+    "name": "Thibaut Courtois"
+   },
+   {
+    "no": 5,
+    "name": "Maxim de Cuyper"
+   },
+   {
+    "no": 4,
+    "name": "Brandon Mechele"
+   },
+   {
+    "no": 25,
+    "name": "Nathan Ngoy"
+   },
+   {
+    "no": 15,
+    "name": "Thomas Meunier"
+   },
+   {
+    "no": 8,
+    "name": "Youri Tielemans"
+   },
+   {
+    "no": 23,
+    "name": "Nicolas Raskin"
+   },
+   {
+    "no": 10,
+    "name": "Leandro Trossard"
+   },
+   {
+    "no": 7,
+    "name": "Kevin De Bruyne"
+   },
+   {
+    "no": 22,
+    "name": "Alexis Saelemaekers"
+   },
+   {
+    "no": 9,
+    "name": "Romelu Lukaku"
+   },
+   {
+    "no": 21,
+    "name": "Timothy Castagne"
+   },
+   {
+    "no": 26,
+    "name": "Matias Fernandez-Pardo"
+   },
+   {
+    "no": 14,
+    "name": "Dodi Lukébakio"
+   },
+   {
+    "no": 3,
+    "name": "Arthur Theate"
+   },
+   {
+    "no": 20,
+    "name": "Hans Vanaken"
+   },
+   {
+    "no": 17,
+    "name": "Charles de Ketelaere"
+   },
+   {
+    "no": 16,
+    "name": "Koni De Winter"
+   },
+   {
+    "no": 6,
+    "name": "Axel Witsel"
+   },
+   {
+    "no": 12,
+    "name": "Senne Lammens"
+   },
+   {
+    "no": 24,
+    "name": "Amadou Onana"
+   },
+   {
+    "no": 13,
+    "name": "Mike Penders"
+   },
+   {
+    "no": 18,
+    "name": "Joaquin Seys"
+   },
+   {
+    "no": 19,
+    "name": "Diego Moreira"
+   }
+  ],
+  "away": [
+   {
+    "no": 1,
+    "name": "Alireza Beiranvand"
+   },
+   {
+    "no": 19,
+    "name": "Ali Nemati"
+   },
+   {
+    "no": 4,
+    "name": "Shoja Khalilzadeh"
+   },
+   {
+    "no": 13,
+    "name": "Hossein Kanaani"
+   },
+   {
+    "no": 3,
+    "name": "Ehsan Hajsafi"
+   },
+   {
+    "no": 2,
+    "name": "Saleh Hardani"
+   },
+   {
+    "no": 8,
+    "name": "Mohammad Mohebi"
+   },
+   {
+    "no": 6,
+    "name": "Saeed Ezatolahi"
+   },
+   {
+    "no": 14,
+    "name": "Saman Ghoddos"
+   },
+   {
+    "no": 23,
+    "name": "Ramin Rezaeian"
+   },
+   {
+    "no": 9,
+    "name": "Mehdi Taremi"
+   },
+   {
+    "no": 18,
+    "name": "Amirhossein Hosseinzadeh"
+   },
+   {
+    "no": 7,
+    "name": "Alireza Jahanbakhsh"
+   },
+   {
+    "no": 20,
+    "name": "Shahriar Moghanlou"
+   },
+   {
+    "no": 5,
+    "name": "Milad Mohammadi"
+   },
+   {
+    "no": 16,
+    "name": "Mehdi Torabi"
+   },
+   {
+    "no": 11,
+    "name": "Ali Alipour"
+   },
+   {
+    "no": 15,
+    "name": "Roozbeh Cheshmi"
+   },
+   {
+    "no": 24,
+    "name": "Dennis Eckert"
+   },
+   {
+    "no": 25,
+    "name": "Danial Eiri"
+   },
+   {
+    "no": 10,
+    "name": "Mehdi Ghayedi"
+   },
+   {
+    "no": 21,
+    "name": "Mohammad Ghorbani"
+   },
+   {
+    "no": 22,
+    "name": "Seyed Hossein Hosseini"
+   },
+   {
+    "no": 12,
+    "name": "Payam Niazmand"
+   },
+   {
+    "no": 26,
+    "name": "Amirmohammad Razzaghinia"
+   },
+   {
+    "no": 17,
+    "name": "Arya Yousefi"
+   }
+  ]
+ },
+ "missing": [
+  {
+   "side": "home",
+   "no": 11,
+   "name": "Jeremy Doku",
+   "reason": "Virus"
+  },
+  {
+   "side": "home",
+   "no": 2,
+   "name": "Zeno Debast",
+   "reason": "Leg injury"
+  }
+ ],
+ "events": [
+  {
+   "min": 3,
+   "side": "home",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Romelu Lukaku"
+  },
+  {
+   "min": 27,
+   "side": "away",
+   "type": "T4",
+   "sub": "乌龙",
+   "player": "Goal Disallowed"
+  },
+  {
+   "min": 33,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Saeed Ezatolahi"
+  },
+  {
+   "min": 66,
+   "side": "home",
+   "type": "红牌",
+   "sub": null,
+   "player": "Nathan Ngoy"
+  }
+ ],
+ "injuries": [],
+ "suspensions": [],
+ "ratings": {},
+ "quotes": [],
+ "narrative": "",
+ "prediction_note": "",
+ "_note": "macheta/Sofascore 权威硬数据；injuries/suspensions/ratings/quotes/narrative/prediction_note 待 agent WebSearch 补。",
+ "ht": "0-0"
+}

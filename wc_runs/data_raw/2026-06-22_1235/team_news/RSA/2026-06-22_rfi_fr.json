@@ -1,0 +1,16 @@
+{
+ "team": "RSA",
+ "source": "rfi.fr",
+ "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260531-%E9%83%A8%E5%88%86%E9%9A%8F%E9%98%9F%E4%BA%BA%E5%91%98%E7%AD%BE%E8%AF%81%E5%87%BA%E9%97%AE%E9%A2%98-%E5%8D%97%E9%9D%9E%E8%B6%B3%E7%90%83%E9%98%9F%E6%97%A0%E6%B3%95%E5%90%AF%E7%A8%8B",
+ "title": null,
+ "news_date": "2026-06-22",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-22",
+ "fetched": "2026-06-22_1235",
+ "method": "fail",
+ "status": "blocked",
+ "original_text": "",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

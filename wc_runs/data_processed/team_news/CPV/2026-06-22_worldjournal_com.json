@@ -1,0 +1,16 @@
+{
+ "team": "CPV",
+ "source": "worldjournal.com",
+ "url": "https://www.worldjournal.com/wj/story/121479/9568526?from=wj_msg&zh-cn",
+ "title": "世界杯最大冷门…顶住西班牙狂攻0：0佛得角门将封神 | 世界新闻网",
+ "news_date": "2026-06-22",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-22",
+ "fetched": "2026-06-22_1235",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "美加墨 世界杯 （FIFA World Cup）H组首轮分组赛，15日爆出开赛至今的最大震撼弹。\n\n「无敌舰队」西班牙队今日迎战世界杯新兵佛得角队（Cape Verde），在全场掌握超过七成控球率、牢牢掌控局面的情况下，却硬生生踢到铁板。\n\n佛得角40岁的传奇老将守门员沃齐尼亚（Vozinha）化身天墙，凭借一己之力只手遮天，贡献7次神级扑救，一战封神；最终率领这支非洲黑马以0比0逼平强敌，写下本届赛事至今最大的冷门。沃齐尼亚赛后流下眼泪，并荣膺本场比赛最佳球员。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

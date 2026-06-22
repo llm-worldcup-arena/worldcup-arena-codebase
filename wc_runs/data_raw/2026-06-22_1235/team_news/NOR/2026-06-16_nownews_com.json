@@ -1,0 +1,16 @@
+{
+ "team": "NOR",
+ "source": "nownews.com",
+ "url": "https://www.nownews.com/news/6847175?srsltid=AfmBOoqePSU1MBTGBNkoqfBImHi90_LOtNwELds9Z6-2ycKYXCx1sZQY",
+ "title": "世界盃6/17伊拉克VS挪威賽程懶人包》全分析、球員名單、預計先發 | 綜合 | 運動 | NOWnews今日新聞",
+ "news_date": "2026-06-16",
+ "published": "2026-06-16T12:53:21+08:00",
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-22",
+ "fetched": "2026-06-22_1235",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "《NOWNEWS APP》「聽新聞」功能，每日為您朗讀超過600則新聞。不需坐在電腦前或盯著手機瞧，可一邊做家事、開車、運動，讓AI語音主播用聲音陪伴您生活的每一刻。\n\n大學讀商科，因為喜歡各種體育賽事所以一直以來的夢想都是體育記者。大學畢業前因緣際會下加入《NOWNEWS今日新聞》 ，主要負責運動中心NBA、MLB等外電編譯、防守Google News等任務，在工讀期間累積許多編輯經驗，也...",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

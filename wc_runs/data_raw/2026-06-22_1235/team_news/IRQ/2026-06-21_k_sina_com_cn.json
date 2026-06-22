@@ -1,0 +1,16 @@
+{
+ "team": "IRQ",
+ "source": "k.sina.com.cn",
+ "url": "https://k.sina.com.cn/article_7880068681_1d5b04e49020022890.html?from=sports&subch=osport",
+ "title": "队报：伊拉克两人受伤出战成疑，战法国也可能更换主力门将",
+ "news_date": "2026-06-21",
+ "published": "2026-06-21 05:24:05",
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-22",
+ "fetched": "2026-06-22_1235",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "雷速体育6月21日讯 根据法国媒体《队报》的报道，伊拉克国家队出现伤情，或影响到对阵法国的小组赛第二轮比赛。\n\n据悉，伊拉克右后卫侯赛因·阿里颈部受伤、左边锋贾西姆内收肌拉伤，两人都缺席了球队的合练，能否参加对阵法国的比赛尚不确定。\n\n此外，《队报》还表示，由于伊拉克主力门将哈桑在对阵挪威的比赛中表现糟糕，替补门将艾哈迈德·巴西勒可能会顶替前者首发出战。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

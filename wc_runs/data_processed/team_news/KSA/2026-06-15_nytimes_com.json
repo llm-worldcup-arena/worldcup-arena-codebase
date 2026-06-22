@@ -1,0 +1,16 @@
+{
+ "team": "KSA",
+ "source": "nytimes.com",
+ "url": "https://www.nytimes.com/athletic/live-blogs/world-cup-today-live-updates-scores-results-news-latest/24EPcmy9Uk4B/NHyTT6HtqCoO/?eafs_enabled=false",
+ "title": "Munoz an injury doubt for Spain vs Saudi Arabia",
+ "news_date": "2026-06-15",
+ "published": "2026-06-15T09:01:37.394Z",
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-22",
+ "fetched": "2026-06-22_1235",
+ "method": "jsonld:articleBody",
+ "status": "ok",
+ "original_text": "Before the 2026 World Cup kicked off, there was some derision on social media directed from European football fans directed towards American football stadiums — particularly ones that would host World Cup games. Those venues were described as “soulless, cavernous bowls” compared to the history and aura of the football stadiums that dot Europe's urban areas.It's a fair criticism in some cases, though places like MetLife/New York New Jersey Stadium, AT&T/Dallas Stadium and Levi's/San Francisco Bay Area Stadium have been up to the challenge of providing great World Cup atmospheres so far despite their size and inconvenient locations well outside their respective city centres. But no World Cup venue fits that description less than Lumen Field, or Seattle Stadium. As USMNT and Sounders midfielder Christian Roldan said earlier today (h/t Henry Bushnell), “This is one of the loudest stadiums in the world.”The home of the NFL’s Seattle Seahawks and the MLS’s Seattle Sounders carries a near-mythical reputation among American sports venues for the noise it brings and the home-field advantage it provides. The Seahawks lovingly call their fanbase the “12th man” with the idea that their home crowd at Lumen Field is so impactful it’s like having an extra player on the pitch. The reputation is well-deserved. The Seahawks have won 68.9 per cent of their home games since 2012, the third-best mark in the NFL. They have won all four of the NFC Championship Games — the NFL play-off semi-finals for a spot in the neutral-site Super Bowl — that have been played at this venue. When Marshawn “Beast Mode” Lynch scored a game-winning touchdown in overtime of a 2011 play-off game, the stadium shook, literally, causing a magnitude 2.0 earthquake picked up by nearby detection systems. The incident lives in Seattle sports lore as the “Beast Quake.”A similar earthquake was recorded during the 2019 MLS Cup final, won by the Sounders over Toronto FC.My largely UK-based Athletic colleagues ranked the stadium tied for first among the 16 World Cup venues across the U.S., Mexico and Canada, with Simon Hughes stating that he “cannot think of a stadium in the world that feels so connected to the city it belongs to.”What does that mean for the USMNT when it takes the pitch there against Australia tomorrow? The only match prediction I am confident in making is that if U.S. fans provide anything close to the energy they brought at SoFi Stadium last week — and all signs point to yes — than I believe the USMNT will have the best crowd advantage it’s ever had in its history of playing in World Cups.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

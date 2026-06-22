@@ -1,0 +1,41 @@
+{
+ "match": {
+  "slug": "2026-06-22_FRA_vs_IRQ",
+  "date": "2026-06-22",
+  "home": "FRA",
+  "away": "IRQ",
+  "round": "group",
+  "group": "I"
+ },
+ "kickoff": {
+  "美东": "2026-06-22T17:00:00-04:00",
+  "北京": "06-23 05:00"
+ },
+ "venue": {
+  "name": "Lincoln Financial Field",
+  "city": "Philadelphia",
+  "altitude_m": 12,
+  "roof": "open",
+  "surface": "grass"
+ },
+ "weather": {
+  "开球时段": {
+   "温度C": 31.1,
+   "体感C": 31.5,
+   "降水概率%": 20,
+   "降水mm": 0.0,
+   "风速kmh": 10.5,
+   "湿度%": 39,
+   "天况": "阴"
+  },
+  "source": "open-meteo(免费预报API)",
+  "fetched": "2026-06-22_1235",
+  "_note": "临近开球建议 --refresh 刷新"
+ },
+ "referee": {
+  "name": "Drew Fischer (CAN)",
+  "source": "http://law5-theref.blogspot.com/2026/06/2026-fifa-wc-referee-appointments-for.html",
+  "fetched": "2026-06-22_1235"
+ },
+ "_note": "环境=比赛+时间+地点 确定;天气为开球时段;顶棚 retractable/fixed-canopy 时天气影响有限。"
+}

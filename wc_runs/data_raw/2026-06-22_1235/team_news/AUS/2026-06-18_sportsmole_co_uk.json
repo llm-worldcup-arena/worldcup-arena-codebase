@@ -1,0 +1,16 @@
+{
+ "team": "AUS",
+ "source": "sportsmole.co.uk",
+ "url": "https://www.sportsmole.co.uk/football/usa/world-cup-2026/team-news/usa-vs-australia-injury-suspension-list-predicted-xis_599443.html",
+ "title": "Team News: USA vs. Australia injury, suspension list, predicted XIs | World Cup 2026 - Sports Mole",
+ "news_date": "2026-06-18",
+ "published": "2026-06-18T19:00:00Z",
+ "tier": "2",
+ "lang": "es",
+ "asof": "2026-06-22",
+ "fetched": "2026-06-22_1235",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "USA and Australia will clash in Seattle on the second matchday in Group D at the World Cup 2026.\n\nBoth nations secured victories in their opening games, meaning top spot is on the line for Friday's winners.\n\nHere Sports Mole rounds up the team news for the game.\n\nGet FREE daily news and in-depth previews for games from the biggest leagues and competitions in world football — straight to your inbox.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

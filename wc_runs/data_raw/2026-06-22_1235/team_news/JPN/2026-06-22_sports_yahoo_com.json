@@ -1,0 +1,16 @@
+{
+ "team": "JPN",
+ "source": "sports.yahoo.com",
+ "url": "https://sports.yahoo.com/articles/japan-world-cup-2026-squad-150102694.html",
+ "title": null,
+ "news_date": "2026-06-22",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-22",
+ "fetched": "2026-06-22_1235",
+ "method": "fail",
+ "status": "blocked",
+ "original_text": "",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

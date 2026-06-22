@@ -1,0 +1,16 @@
+{
+ "team": "CIV",
+ "source": "bbc.com",
+ "url": "https://www.bbc.com/sport/football/articles/c9360dwzl2lo",
+ "title": "World Cup 2026: Ivory Coast name squad without forward Wilfried Zaha",
+ "news_date": "2026-06-22",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-22",
+ "fetched": "2026-06-22_1235",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "Ivory Coast have named four Premier League players in their 26-man squad for this year's World Cup, but there is no room for former Crystal Palace forward Wilfried Zaha.\n\nWolves defender Emmanuel Agbadou, Nottingham Forest midfielder Ibrahim Sangare and forwards Amad Diallo and Evann Guessand, of Manchester United and Aston Villa respectively, have been named in the travelling party.\n\nZaha, 33, was selected for the 2025 Africa Cup of Nations (Afcon) earlier this season, but the 36-cap winger, currently on loan with Charlotte FC in Major League Soccer from Galatasaray, has not made the cut for the World Cup finals.\n\nSeko Fofana, Jean Michael Seri, Simon Adingra and Nicolas Pepe, all of whom have English top-flight experience, have been selected by head coach Emerse Fae.\n\nRB Leipzig's Yan Diomande, who has been heavily linked with a move to the Premier League this summer, is among the forwards chosen, along with the uncapped Ange-Yoan Bonny of Inter Milan.\n\nBonny, 22, completed a nationality transfer last week - having represented France Under-21s - and is following the same path as new national team-mate Elye Wahi, who won his first cap in March in the 1-0 win over Scotland.\n\nPepe, 30, is included having been omitted by Fae for Afcon, where the Ivorians were defending their title but went out at the quarter-final stage.\n\nForest's veteran defender Willy Boly and former West Ham striker Sebastien Haller, who scored the winning goal in the Afcon final in 2024, are also left out although Haller has been named among five players on standby.\n\nIvory Coast are in Group E for their fourth World Cup, and will open their campaign on 14 June against Ecuador, before facing Germany and tournament debutants Curacao.\n\nThe World Cup, hosted by the United States, Canada and Mexico, runs from 11 June to 19 July.\n\nGoalkeepers: Yahia Fofana (Rizespor), Mohamed Kone (Charleroi), Alban Lafont (Panathinaikos).\n\nDefenders: Emmanuel Agbadou (Wolverhampton Wanderers), Christopher Operi (Istanbul Basaksehir), Ousmane Diomande (Sporting), Guela Doue (Racing Strasbourg), Ghislain Konan (Gil Vicente), Odilon Kossonou (Atalanta), Evan Ndicka (AS Roma), Wilfried Singo (Galatasaray).\n\nMidfielders: Seko Fofana (Stade Rennais), Parfait Guiagon (Charleroi), Franck Kessie (Al Ahli), Christ Oulai (Trabzonspor), Ibrahim Sangare (Nottingham Forest), Jean-Michael Seri (NK Maribor).\n\nForwards: Simon Adingra (AS Monaco), Ange-Yoan Bonny (Inter Milan), Amad Diallo (Manchester United), Oumar Diakite (Cercle Brugge), Yan Diomande (RB Leipzig), Evann Guessand (Aston Villa), Nicolas Pepe (Villarreal), Bazoumana Toure (Hoffenheim), Elye Wahi (Nice).",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

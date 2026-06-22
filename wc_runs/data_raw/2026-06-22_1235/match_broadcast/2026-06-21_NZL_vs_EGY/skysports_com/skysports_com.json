@@ -1,0 +1,24 @@
+{
+ "source": "skysports.com",
+ "url": "https://www.skysports.com/football/news/35849/13553798/world-cup-2026-new-zealand-x-x-egypt",
+ "title": "World Cup 2026: New Zealand 1-3 Egypt - Mohamed Salah inspires Pharoahs to historic first win in Vancouver",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-21",
+  "home": "NZL",
+  "away": "EGY",
+  "home_en": "New Zealand",
+  "away_en": "Egypt",
+  "home_zh": "新西兰",
+  "away_zh": "埃及",
+  "comp": "小组赛·G组",
+  "match_id": "M40",
+  "slug": "2026-06-21_NZL_vs_EGY"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Mohamed Salah scored one goal and assisted another as Egypt came from behind to beat New Zealand 3-1 and record their first-ever World Cup win. The Pharoahs had not won during appearances at the 1934, 1990 or 2018 editions of the tournament and, based on a somewhat insipid first-half performance, it looked as though that long run would continue, particularly after Finn Surman powered in the opener after questionable marking from a corner. Salah's most significant contribution of the first half was to plant a free-kick the wrong side of the left-hand post from the edge of the area.   But seemingly after a stern talking-to from head coach Hossam Hassan at the break, the performance from the former Liverpool man and his colleagues improved significantly after it. Suddenly, their attacks carried menace, forcing New Zealand to sit deeper and deeper - and just before the hour, in a similar position to Surman, the unmarked Mostafa Zico headed in Mohamed Hany's cross. Within 10 minutes of the equaliser, after a rapid break, Salah came alive when he traded passes with Zico, then swept home - in the trademark fashion he did so often in the Premier League - to give Egypt the lead for the first time in Vancouver. And it was he who delivered the corner from the left that found substitute Trezeguet, who dived to head past Max Crocombe to put the icing on the cake and put the knockout stages within touching distance. The key moments in Vancouver... 14: SAVE ! Egypt goalkeeper Mostafa Shobeir makes a smart save at his near post to deny Elijah Just. 15: GOAL ! Finn Surman is left unmarked at the resulting corner and heads New Zealand in front. 35: Omar Marmoush rolls a free-kick short to Mohamed Salah, but the former Liverpool man bends it wide of the left-hand post. 52: SAVE ! Shobeir has to stay alert to tip a looping header from Callum McCowatt over the bar. 58: GOAL ! Mohamed Hany picks out Mostafa Zico with a cross from the right and he heads home unchallenged. 67: GOAL ! Zico exchanges passes with Salah, who then coolly sweeps home to put Egypt in front for the first time. 82: GOAL ! Salah picks out Trezeguet with a corner from the right, which he dives to plant past Max Crocombe. 90+3: CHANCE ! Substitute Zizo rounds Crocombe, but takes too long to shoot and his effort is blocked.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

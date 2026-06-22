@@ -1,0 +1,24 @@
+{
+ "source": "fifa.com",
+ "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/new-zealand-egypt-match-report-highlights",
+ "title": "New Zealand 1-3 Egypt: Match report and highlights",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-21",
+  "home": "NZL",
+  "away": "EGY",
+  "home_en": "New Zealand",
+  "away_en": "Egypt",
+  "home_zh": "新西兰",
+  "away_zh": "埃及",
+  "comp": "小组赛·G组",
+  "match_id": "M40",
+  "slug": "2026-06-21_NZL_vs_EGY"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Mohamed Salah struck the decisive goal as Egypt came from behind to defeat New Zealand 3-1 and claim their first FIFA World Cup win.\nNew Zealand goal: Surman (15) Egypt goals: Zico (58), Salah (67) Trezeguet (82)\nGoals from Mostafa Zico, Mohamed Salah and Trezeguet saw Egypt create history as they came from behind to beat New Zealand 3-1 and claim their first FIFA World Cup™ victory since making their debut 92 years and 25 days ago.\nNew Zealand started aggressively at BC Place Vancouver, and after Sarpreet Singh and Elijah Just had already threatened, Finn Surman gave the All Whites a deserved lead with a bullet of a header from a corner in the 15th minute.\nSalah and Emam Ashour both went close before half time as Egypt went in search of an equaliser, and Salah was denied again by Max Crocombe in the first minute of the second period.\nEgypt goalkeeper Mostafa Shobeir prevented New Zealand from doubling their lead shortly afterwards with a terrific save from Callum McCowatt’s flicked header, and Zico then pulled Hossam Hassan’s side back into the game with a free header in the 58th minute.\nNine minutes later Salah struck the decisive blow, guiding a crisp low finish into the net after a fine team move to spark wild celebrations for his side, and Trezeguet added the gloss with Egypt’s third with eight minutes remaining.\nKey statKey stat\nThis was the first time Egypt had ever gone in behind at half-time in a FIFA World Cup fixture\nSuperior Player of the MatchSuperior Player of the Match\nMohamed Salah (Egypt)\nWhat they said...What they said...\n\"It’s incredible. I don’t know how to express it in words. It’s a great achievement for all the players, for the staff, so hopefully we can carry on like this in the group, and we can write history and qualify – and in years to come it will be remembered as one the best achievements in the history [of Egyptian football]. We have to enjoy today, enjoy tomorrow, then focus on the next game.\" Mohamed Salah, Egypt captain\n“Getting the first win for our country, it’s just something…..I don't know, I don't have the words. I'm speechless, you know, it's truly something great. We're so happy to have achieved this. It's the first one for Egypt in our history and, Inshallah, it's not the last one.” Mostafa Shobeir, Egypt goalkeeper\n“It’s disappointing. We were so good in the first half. We dominated possession and created a lot of chances. We came out in the second half and I thought we were okay but we didn’t quite get to the pace of the game. Egypt upped the tempo and we couldn’t replicate what we were doing so well in the first half. Ultimately, that hurt us. We’re still one game away from making history. We know we have to beat Belgium now.”",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

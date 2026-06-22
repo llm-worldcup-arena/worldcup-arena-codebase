@@ -1,0 +1,16 @@
+{
+ "team": "IRN",
+ "source": "tw.sports.yahoo.com",
+ "url": "https://tw.sports.yahoo.com/news/%E4%B8%96%E7%95%8C%E7%9B%83-%E4%BC%8A%E6%9C%97%E9%80%80%E5%87%BA%E4%B8%96%E7%95%8C%E7%9B%83-%E9%AB%94%E8%82%B2%E9%83%A8%E9%95%B7%E7%A8%B1%E5%9C%A8%E7%BE%8E%E4%BC%8A%E8%A1%9D%E7%AA%81%E7%8F%BE%E7%8B%80%E4%B8%8B%E7%84%A1%E6%B3%95%E5%8F%83%E8%B3%BD-180523108.html",
+ "title": null,
+ "news_date": "2026-06-22",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-22",
+ "fetched": "2026-06-22_1235",
+ "method": "fail",
+ "status": "blocked",
+ "original_text": "",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

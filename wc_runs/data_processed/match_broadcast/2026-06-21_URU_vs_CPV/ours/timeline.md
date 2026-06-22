@@ -1,0 +1,13 @@
+21' 进球 Kevin Pina(佛)
+44' 进球 Maxi Araújo(乌)
+45' 换人 D. Duarte替阿尔坎若(佛)
+45+6' 进球 Agustín Canobbio(乌)
+58' 黄牌 Matías Olivera(乌)
+59' 换人 Hélder Varela替Rodríguez(佛)
+61' 进球 Hélder Varela(佛)
+69' 进球无效 Maxi Araújo(乌) VAR
+70' 换人 Darwin Núñez替Viñas(乌)
+80' 换人 Y. Semedo替Montiero(佛)
+82' 换人 Brian Rodríguez替Maxi Araújo(乌)
+90+4' 黄牌 D. Borges(佛)
+90+5' 扑救 Muslera(乌)

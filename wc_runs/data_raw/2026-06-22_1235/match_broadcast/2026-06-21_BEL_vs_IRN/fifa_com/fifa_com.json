@@ -1,0 +1,24 @@
+{
+ "source": "fifa.com",
+ "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/belgium-ir-iran-match-report-highlights",
+ "title": "Belgium 0-0 IR Iran | Match report and highlights | FIFA World Cup 2026",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-21",
+  "home": "BEL",
+  "away": "IRN",
+  "home_en": "Belgium",
+  "away_en": "Iran",
+  "home_zh": "比利时",
+  "away_zh": "伊朗",
+  "comp": "小组赛·G组",
+  "match_id": "M39",
+  "slug": "2026-06-21_BEL_vs_IRN"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "The Red Devils had to settle for a share of the points with IR Iran in a Group G encounter marked by some excellent goalkeeping at both ends.\nBelgium 0-0 IR IranBelgium 0-0 IR Iran\nBelgium and IR Iran are still both seeking their first win of this FIFA World Cup™ following a goalless draw in Los Angeles.\nIt was a match marked by some terrific saves from Iran goalkeeper Alireza Beiranvand and his Belgium counterpart Thibaut Courtois, with Rudi Garcia’s Red Devils dominating possession but ending up with ten men after the dismissal of centre-back Nathan Ngoy.\nBelgium had Romelu Lukaku starting up front – his first start for club or country since 9 June last year. Yet for all their possession and crosses and cutbacks, the closest they got to an early goal was a strong near-post drive by Youri Tielemans beaten away by goalkeeper Beiranvand.\nIran sat deep and showed impressive resilience, be it through Beiranvand's saves or defensive blocks. And they produced the more serious first-half goal threat. Courtois did brilliantly to get down low to stop a Hossein Kanani shot on the turn following a long throw into the box. Then, after 25 minutes, Team Melli found the net with an impressively inventive free-kick. Ehsan Hajisafi slid the ball through to Mehdi Taremi in the wall and he shot low past Courtois. Sadly for Iran, Taremi had strayed offside.\nIn the second half, Alireza Jahanbakhsh came on for his 100th cap and Iran called Courtois into action again with a powerful Taremi volley following another long throw. At the other end Beiranvand excelled with two eye-catching low saves to deny Maxim De Cuyper.\nAfter 66 minutes, Belgium lost Ngoy to a red card after his miscontrol of the ball let in Taremi and the centre-back pulled him down. However, Amir Ghalenoei’s men could not profit from the extra man, leaving both sides with two points apiece from their two games so far.\nKey statKey stat\nGoalkeeper Thibaut Courtois equalled Enzo Scifo's Belgian record of 17 World Cup appearances.\nSuperior Player of the MatchSuperior Player of the Match\nAlireza Beiranvand (IR Iran)\nLoaded: 0%\n0:00\nProgress: 0%\n0:00\nProgress: 0%\n00:00 / 00:00\n/\nDuration Time 0:00\nRemaining Time -0:00\nBeiranvand: We came here to make our people happyBeiranvand: We came here to make our people happy\nThe IR Iran goalkeeper spoke following his excellent display to help his nation to get a point against Belgium.The IR Iran goalkeeper spoke following his excellent display to help his nation to get a point against Belgium.\nWhat they said...What they said...\n\"We lacked efficiency up front. I expected this kind of game, with nearly 70 per cent possession, plenty of crosses and lots of shots. We hit the target, but we didn't test the goalkeeper enough. Playing with ten men didn't help either. We've had matches like this before and usually scored at least three goals. That's part of a slow start to a World Cup. At times, we looked a bit hesitant. We know exactly what result we'll need against New Zealand.\" Rudi Garcia, Belgium head coach\n\"We have to analyse what went wrong because we created so many chances without scoring, and that's frustrating. We play with too much emotion in key moments.\" Romelu Lukaku, Belgium striker\n\"I think it was a very exciting game. Both teams deserved to win; both could have taken the three points. I want to extend my sincere thanks to each and every player, especially Ali Beiranvand.\" Amir Ghalehnoei, IR Iran coach\n\"The game was very tough. After all, the Belgian team is one of the best in the world. They put incredible pressure on us, especially in the first half. After they went down to ten men, Belgium sat back a bit more. They were looking to intercept a pass from us and were looking for our mistakes to launch a counterattack. We could have won the game if we'd had more focus, but you all saw it – hats off to all the players who played today. They played with their hearts.\"",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

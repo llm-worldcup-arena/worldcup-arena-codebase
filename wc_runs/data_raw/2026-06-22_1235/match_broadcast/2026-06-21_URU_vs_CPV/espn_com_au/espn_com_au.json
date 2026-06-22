@@ -1,0 +1,24 @@
+{
+ "source": "espn.com.au",
+ "url": "https://www.espn.com.au/football/story/_/id/49138051/uruguay-cape-verde-live-world-cup-2026-latest-updates-commentary-score-result",
+ "title": "Uruguay 2-2 Cape Verde: Cape Verde earn second remarkable draw - as it happened - ESPN",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-21",
+  "home": "URU",
+  "away": "CPV",
+  "home_en": "Uruguay",
+  "away_en": "Cape Verde",
+  "home_zh": "乌拉圭",
+  "away_zh": "佛得角",
+  "comp": "小组赛·H组",
+  "match_id": "M37",
+  "slug": "2026-06-21_URU_vs_CPV"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Uruguay 2-2 Cape Verde: Cape Verde earn second remarkable draw - as it happened\nplay\nBubista vows Cape Verde will play with 'no fear' against Uruguay (1:07)\nJames ReganJun 22, 2026, 10:18 AM\nCape Verde's incredible journey at the 2026 World Cup continued on Sunday as they drew 2-2 with Uruguay.\nThe result followed their 0-0 with Spain last week as their rollercoaster ride continued in Miami.\nKevin Pina opened the scoring for Cape Verde, their first goal in a World Cup, with an outrageous 30-yard free kick. Goals from Maxi Araújo and Agustín Canobbio gave Uruguay the lead before Hélio Varela came on in the second half and scored to snatch a point for the African island nation.\nHere is how it happened.\n- Marcelo Bielsa: Hydration break 'adds nothing and takes away a lot'",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

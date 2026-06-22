@@ -1,0 +1,16 @@
+{
+ "team": "PAN",
+ "source": "fifalive-leyu.com",
+ "url": "https://fifalive-leyu.com/news/151.html",
+ "title": "leyu乐鱼app - 现场氛围随身携带 | 让比赛像在身边",
+ "news_date": "2026-05-28",
+ "published": "2026-05-28 02:31:29",
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-22",
+ "fetched": "2026-06-22_1235",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "leyu乐鱼app：现场呐喊与灯光氛围口袋装，随身携带主场温度，让任何角落都变成看台第一排。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

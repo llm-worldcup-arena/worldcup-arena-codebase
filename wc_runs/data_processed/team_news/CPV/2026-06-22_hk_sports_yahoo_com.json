@@ -1,0 +1,16 @@
+{
+ "team": "CPV",
+ "source": "hk.sports.yahoo.com",
+ "url": "https://hk.sports.yahoo.com/news/%E8%B6%B3%E7%90%83%EF%BD%9C%E9%9D%9E%E6%B4%B2%E5%B0%8F%E5%9C%8B%E4%BD%9B%E5%BE%97%E8%A7%92%E6%8F%AE%E4%BD%8E%E5%96%80%E9%BA%A5%E9%9A%86-%E6%AD%B7%E5%8F%B2%E6%80%A7%E6%99%89%E8%BA%AB%E4%B8%96%E7%95%8C%E7%9B%83%E6%B1%BA%E8%B3%BD%E5%91%A8-193539434.html",
+ "title": null,
+ "news_date": "2026-06-22",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-22",
+ "fetched": "2026-06-22_1235",
+ "method": "fail",
+ "status": "blocked",
+ "original_text": "",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

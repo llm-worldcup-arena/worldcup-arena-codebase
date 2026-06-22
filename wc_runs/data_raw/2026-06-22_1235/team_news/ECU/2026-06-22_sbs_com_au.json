@@ -1,0 +1,16 @@
+{
+ "team": "ECU",
+ "source": "sbs.com.au",
+ "url": "https://www.sbs.com.au/news/article/injured-castillo-named-in-ecuadors-world-cup-squad/5g7o3lwc3",
+ "title": "Injured Castillo named in Ecuador's World Cup squad",
+ "news_date": "2026-06-22",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-22",
+ "fetched": "2026-06-22_1235",
+ "method": "jsonld:articleBody",
+ "status": "ok",
+ "original_text": "Coach Reinaldo Rueda, whose squad list was issued by the Ecuadorean Football Federation, considers the central midfielder, a veteran of Ecuador&apos;s last finals in Germany in 2006, an essential part of his team. The widely-travelled 32-year-old suffered a nasty knock on his knee in a clash in which Mexico&apos;s Luis Montes broke a leg during a friendly in Texas on Saturday. Rueda has opted to take 19-year-old Carlos Gruezo of VfB Stuttgart, capped twice, as extra cover in midfield in his only surprise pick. Ecuador&apos;s opening Group E match against Switzerland in Brasilia is on June 15 before they face Honduras on June 20 in Curitiba and France in Rio de Janeiro five days later. Squad: Goalkeepers: Maximo Banguera (Barcelona SC), Alexander Dominguez (LDU Quito), Adrian Bone (El Nacional) Defenders: Frickson Erazo (Flamengo), Jorge Guagua, Oscar Bagui, Gabriel Achilier (all Emelec), Walter Ayovi (Pachuca), Juan Carlos Paredes (Barcelona SC) Midfielders: Segundo Castillo (Al-Hilal), Carlos Gruezo (VfB Stuttgart), Renato Ibarra (Vitesse Arnhem), Cristian Noboa (Dynamo Moscow), Luis Saritama (Barcelona SC), Antonio Valencia (Manchester United), Edison Mendez (Independiente Santa Fe), Michael Arroyo (Atlante) Forwards: Felipe Caicedo (Al-Jazira), Jefferson Montero (Morelia), Joao Rojas (Cruz Azul), Fidel Martinez, Jaime Ayovi (both Tijuana), Enner Valencia (Pachuca) (Reporting by Alexandra Valencia; Writing by Rex Gowar; Editing by Greg Stutchbury)",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

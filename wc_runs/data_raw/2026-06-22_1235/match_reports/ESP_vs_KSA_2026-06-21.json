@@ -1,0 +1,371 @@
+{
+ "match_id": "4627877",
+ "date": "2026-06-21",
+ "comp": "世界杯·H组",
+ "ha_home": "中",
+ "home": "ESP",
+ "away": "KSA",
+ "score": "4-0",
+ "venue": "Mercedes-Benz Stadium (Atlanta)",
+ "attendance": 68239,
+ "goals": [
+  {
+   "min": 10,
+   "side": "home",
+   "player": "Lamine Yamal",
+   "sub": null
+  },
+  {
+   "min": 21,
+   "side": "home",
+   "player": "Mikel Oyarzabal",
+   "sub": null
+  },
+  {
+   "min": 24,
+   "side": "home",
+   "player": "Mikel Oyarzabal",
+   "sub": null
+  },
+  {
+   "min": 49,
+   "side": "home",
+   "player": "Hassan Al Tambakti",
+   "sub": "乌龙"
+  }
+ ],
+ "cards": [
+  {
+   "min": 30,
+   "side": "away",
+   "player": "Salem Al Dawsari",
+   "type": "黄牌"
+  },
+  {
+   "min": 60,
+   "side": "away",
+   "player": "Mohamed Kanno",
+   "type": "黄牌"
+  }
+ ],
+ "stats": {
+  "射门": [
+   "22",
+   "3"
+  ],
+  "射正": [
+   "8",
+   "1"
+  ],
+  "禁区内射门": [
+   "12",
+   "1"
+  ],
+  "扑救": [
+   "2",
+   "1"
+  ],
+  "角球": [
+   "6",
+   "1"
+  ],
+  "越位": [
+   "2",
+   "3"
+  ],
+  "控球%": [
+   "67%",
+   "33%"
+  ],
+  "传中": [
+   "149",
+   "68"
+  ],
+  "传球": [
+   "668",
+   "294"
+  ],
+  "xG预期进球": [
+   "2.28",
+   "0.14"
+  ],
+  "xGOT/大机会": [
+   "3.45",
+   "0.1"
+  ]
+ },
+ "lineups": {
+  "home": [
+   {
+    "no": 23,
+    "name": "Unai Simón"
+   },
+   {
+    "no": 24,
+    "name": "Marc Cucurella"
+   },
+   {
+    "no": 14,
+    "name": "Aymeric Laporte"
+   },
+   {
+    "no": 22,
+    "name": "Pau Cubarsí"
+   },
+   {
+    "no": 12,
+    "name": "Pedro Porro"
+   },
+   {
+    "no": 20,
+    "name": "Pedri"
+   },
+   {
+    "no": 16,
+    "name": "Rodri Hernández"
+   },
+   {
+    "no": 10,
+    "name": "Dani Olmo"
+   },
+   {
+    "no": 15,
+    "name": "Álex Baena"
+   },
+   {
+    "no": 21,
+    "name": "Mikel Oyarzabal"
+   },
+   {
+    "no": 19,
+    "name": "Lamine Yamal"
+   },
+   {
+    "no": 6,
+    "name": "Mikel Merino"
+   },
+   {
+    "no": 11,
+    "name": "Yeremy Pino"
+   },
+   {
+    "no": 8,
+    "name": "Fabián Ruiz"
+   },
+   {
+    "no": 7,
+    "name": "Ferran Torres"
+   },
+   {
+    "no": 17,
+    "name": "Nico Williams"
+   },
+   {
+    "no": 4,
+    "name": "Eric Garcia"
+   },
+   {
+    "no": 13,
+    "name": "Joan García"
+   },
+   {
+    "no": 3,
+    "name": "Alex Grimaldo"
+   },
+   {
+    "no": 26,
+    "name": "Borja Iglesias"
+   },
+   {
+    "no": 5,
+    "name": "Marcos Llorente"
+   },
+   {
+    "no": 25,
+    "name": "Víctor Muñoz"
+   },
+   {
+    "no": 2,
+    "name": "Marc Pubill"
+   },
+   {
+    "no": 9,
+    "name": "Gavi"
+   },
+   {
+    "no": 1,
+    "name": "David Raya"
+   },
+   {
+    "no": 18,
+    "name": "Martín Zubimendi"
+   }
+  ],
+  "away": [
+   {
+    "no": 21,
+    "name": "Mohammed Al Owais"
+   },
+   {
+    "no": 5,
+    "name": "Hassan Al Tambakti"
+   },
+   {
+    "no": 3,
+    "name": "Ali Lajami"
+   },
+   {
+    "no": 4,
+    "name": "Abdulelah Al-Amri"
+   },
+   {
+    "no": 24,
+    "name": "Moteb Al-Harbi"
+   },
+   {
+    "no": 12,
+    "name": "Saud Abdulhamid"
+   },
+   {
+    "no": 10,
+    "name": "Salem Al Dawsari"
+   },
+   {
+    "no": 6,
+    "name": "Nasser Al-Dawsari"
+   },
+   {
+    "no": 15,
+    "name": "Abdullah Alkhaibari"
+   },
+   {
+    "no": 7,
+    "name": "Musab Al-Juwayr"
+   },
+   {
+    "no": 9,
+    "name": "Firas Al-Braikan"
+   },
+   {
+    "no": 26,
+    "name": "Mohammed Abu Al-Shamat"
+   },
+   {
+    "no": 17,
+    "name": "Khalid Al Ghannam"
+   },
+   {
+    "no": 19,
+    "name": "Abdullah Al-Hamdan"
+   },
+   {
+    "no": 18,
+    "name": "Alaa Hejji"
+   },
+   {
+    "no": 23,
+    "name": "Mohamed Kanno"
+   },
+   {
+    "no": 1,
+    "name": "Nawaf Al-Aqeedi"
+   },
+   {
+    "no": 16,
+    "name": "Ziyad Aljohani"
+   },
+   {
+    "no": 22,
+    "name": "Ahmed Al Kassar"
+   },
+   {
+    "no": 11,
+    "name": "Saleh Al-Shehri"
+   },
+   {
+    "no": 13,
+    "name": "Nawaf Boushal"
+   },
+   {
+    "no": 14,
+    "name": "Hasan Kadesh"
+   },
+   {
+    "no": 2,
+    "name": "Ali Majrashi"
+   },
+   {
+    "no": 20,
+    "name": "Sultan Madash"
+   },
+   {
+    "no": 8,
+    "name": "Ayman Yahya"
+   },
+   {
+    "no": 25,
+    "name": "Jehad Thakri"
+   }
+  ]
+ },
+ "missing": [],
+ "events": [
+  {
+   "min": 10,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Lamine Yamal"
+  },
+  {
+   "min": 21,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Mikel Oyarzabal"
+  },
+  {
+   "min": 24,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Mikel Oyarzabal"
+  },
+  {
+   "min": 30,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Salem Al Dawsari"
+  },
+  {
+   "min": 49,
+   "side": "home",
+   "type": "进球",
+   "sub": "乌龙",
+   "player": "Hassan Al Tambakti"
+  },
+  {
+   "min": 60,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Mohamed Kanno"
+  },
+  {
+   "min": 90,
+   "side": "home",
+   "type": "T4",
+   "sub": "乌龙",
+   "player": "Goal Disallowed"
+  }
+ ],
+ "injuries": [],
+ "suspensions": [],
+ "ratings": {},
+ "quotes": [],
+ "narrative": "",
+ "prediction_note": "",
+ "_note": "macheta/Sofascore 权威硬数据；injuries/suspensions/ratings/quotes/narrative/prediction_note 待 agent WebSearch 补。",
+ "ht": "3-0"
+}

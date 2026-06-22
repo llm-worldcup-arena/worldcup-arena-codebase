@@ -1,0 +1,24 @@
+{
+ "source": "worldcup.cctv.com",
+ "url": "https://worldcup.cctv.com/2026/match/22920321/index.shtml",
+ "title": "2026年世界杯：乌拉圭VS佛得角_2026年美加墨世界杯",
+ "published": null,
+ "tier": "3",
+ "lang": "zh",
+ "match": {
+  "date": "2026-06-21",
+  "home": "URU",
+  "away": "CPV",
+  "home_en": "Uruguay",
+  "away_en": "Cape Verde",
+  "home_zh": "乌拉圭",
+  "away_zh": "佛得角",
+  "comp": "小组赛·H组",
+  "match_id": "M37",
+  "slug": "2026-06-21_URU_vs_CPV"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "5.2万\n7.6万\n我来说几句...\n穆斯莱拉\n门将\n23号\n巴雷拉\n后卫\n13号\n卡塞雷斯\n后卫\n3号\n奥利韦拉\n后卫\n16号\n萨纳布里亚\n左后卫\n25号\n乌加特\n中场\n5号\n本坦库尔\n中场\n6号\n卡诺比奥\n中场\n14号\n巴尔韦尔德\n中场\n8号\nM·阿劳霍\n中场\n20号\n比尼亚斯\n前锋\n21号\n皮克雷斯\n中场\n22号\n马丁内斯\n中场\n15号\n萨拉萨尔\n中场\n26号\n佩利斯特里\n前锋\n11号\n努涅斯\n前锋\n9号\n德拉克鲁斯\n中场\n7号\n比尼亚\n后卫\n17号\n罗德里格斯\n前锋\n18号\n梅莱\n门将\n12号\n布埃诺\n后卫\n24号\n罗切特\n门将\n1号\n希门尼斯\n后卫\n2号\n阿吉雷\n前锋\n19号\n沃西尼亚\n门将\n1号\n莫雷拉\n后卫\n22号\n洛佩斯\n后卫\n4号\n博尔热斯\n后卫\n3号\n卡布拉尔\n后卫\n13号\n凯文\n中场\n6号\n阿尔坎若\n中场\n18号\n门德斯\n中场\n20号\n蒙泰罗\n中场\n10号\n罗德里格斯\n中场\n11号\n本希莫尔\n前锋\n9号\n利夫拉门托\n前锋\n19号\n若昂保罗\n中场\n8号\n皮雷斯\n后卫\n25号\n多斯桑托斯\n门将\n23号\n瓦格纳\n后卫\n24号\n埃利奥\n中场\n26号\nY·塞梅多\n中场\n16号\n马尔西奥\n门将\n12号\n科斯塔\n后卫\n5号\nD·杜阿尔特\n中场\n14号\nW·塞梅多\n中场\n17号\n约瓦内\n中场\n7号\nL·杜阿尔特\n中场\n15号\n达科斯塔\n中场\n21号\n斯托皮拉\n后卫\n2号\n球员名单\n乌拉圭\n佛得角\n16\n射门\n11\n2\n射正\n4\n7\n射偏\n3\n11\n角球\n4\n66\n控球\n34\n11\n犯规\n4\n3\n越位\n0\n2\n黄牌\n2\n0\n红牌\n0",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

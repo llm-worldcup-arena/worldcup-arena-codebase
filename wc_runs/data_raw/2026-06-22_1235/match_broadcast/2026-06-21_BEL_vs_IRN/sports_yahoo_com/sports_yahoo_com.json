@@ -1,0 +1,24 @@
+{
+ "source": "sports.yahoo.com",
+ "url": "https://sports.yahoo.com/soccer/fifa-world-cup/iran-belgium-13587217/",
+ "title": "Belgium 0 - 0 Iran: Final score, results, recap, box score, stats - Yahoo Sports",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-21",
+  "home": "BEL",
+  "away": "IRN",
+  "home_en": "Belgium",
+  "away_en": "Iran",
+  "home_zh": "比利时",
+  "away_zh": "伊朗",
+  "comp": "小组赛·G组",
+  "match_id": "M39",
+  "slug": "2026-06-21_BEL_vs_IRN"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Belgium 0 - 0 Iran: Final score, results, recap, box score, stats\nSubstitution - In\n26 - Matias Fernandez-Pardo\nSubstitution - Out\n7 - Kevin De Bruyne\nSubstitution - In\n18 - Amirhossein Hosseinzadeh\nSubstitution - Out\n6 - Saeid Ezatolahi\nSubstitution - In\n20 - Shahriyar Moghanloo\nSubstitution - Out\n14 - Saman Ghoddos\nSubstitution - In\n3 - Arthur Theate\nSubstitution - Out\n9 - Romelu Lukaku\nRed Card\n25 - Nathan Ngoy\nSubstitution - In\n16 - Mahdi Torabi\nSubstitution - Out\n8 - Mohammad Mohebbi\nSubstitution - In\n5 - Milad Mohammadi\nSubstitution - Out\n3 - Ehsan Hajisafi\nSubstitution - In\n14 - Dodi Lukebakio\nSubstitution - Out\n22 - Alexis Saelemaekers\nSubstitution - In\n20 - Hans Vanaken\nSubstitution - Out\n23 - Nicolas Raskin\nSubstitution - In\n21 - Timothy Castagne\nSubstitution - Out\n15 - Thomas Meunier\nSubstitution - In\n7 - Alireza Jahanbakhsh\nSubstitution - Out\n2 - Saleh Hardani",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

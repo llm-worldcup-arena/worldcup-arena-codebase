@@ -1,0 +1,16 @@
+{
+ "team": "NED",
+ "source": "aps.dz",
+ "url": "https://www.aps.dz/cn/sports/sport-collectif/mpz8op3i-%E5%9B%BD%E5%AE%B6%E8%B6%B3%E7%90%83%E9%98%9F-%E5%9C%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E5%89%8D%E5%B1%95%E7%8E%B0%E4%BA%AE%E7%9C%BC%E7%8A%B6%E6%80%81",
+ "title": "“国家足球队”在世界杯前展现亮眼状态",
+ "news_date": "2026-06-22",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-22",
+ "fetched": "2026-06-22_1235",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "鹿特丹（荷兰）——在周三于鹿特丹德库伊普球场（De Kuip）进行的一场2026年世界杯备战友谊赛中，阿尔及利亚国家足球队表现坚韧、纪律严明，以1比0击败世界排名第7位的荷兰队（半场0比0），这场比赛展现了球队在世界杯前的良好竞技状态。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

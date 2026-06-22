@@ -1,0 +1,16 @@
+{
+ "team": "TUR",
+ "source": "k.sina.com.cn",
+ "url": "https://k.sina.com.cn/article_2661992301_m9eaac76d03301gcqs.html?from=society",
+ "title": "土耳其豪华阵容世界杯两连败出局，球员崩溃落泪",
+ "news_date": "2026-06-20",
+ "published": "2026-06-20 15:56:37",
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-22",
+ "fetched": "2026-06-22_1235",
+ "method": "jsonld",
+ "status": "blocked",
+ "original_text": "",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

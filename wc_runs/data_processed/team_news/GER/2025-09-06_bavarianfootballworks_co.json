@@ -1,0 +1,16 @@
+{
+ "team": "GER",
+ "source": "bavarianfootballworks.com",
+ "url": "https://www.bavarianfootballworks.com/world-cup-qualifying/136006/germany-vs-northern-ireland-lineups-team-news-injuries-and-more",
+ "title": "Germany vs. Northern Ireland: Lineups, team news, injuries, and more!",
+ "news_date": "2025-09-06",
+ "published": "2025-09-06T17:30:00+00:00",
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-22",
+ "fetched": "2026-06-22_1235",
+ "method": "jsonld:articleBody",
+ "status": "ok",
+ "original_text": "Germany dropped a performance to forget last time out, getting shut out 2-0 by Slovakia in World Cup Qualifying. Julian Nagelsmann demanded change and will look to get a win against Northern Ireland who won 3-1 away to Luxembourg in the concurrent match. With the top team in this group qualifying directly to the tournament proper, Germany will look to recover from this early setback to avoid the play-offs early next year.\nTeam news\nWith the available players from the last match, here’s how Germany could line up:\n[Image: https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2025/09/lineup-builder-13.png?quality=90&strip=all]\nNagelsmann tried a back four last time and it didn’t work, so maybe his preferred back three system will bear fruit. Oliver Baumann starts in goal, with a backline of Jonathan Tah, Antonio Rüdiger, and Robin Koch. The midfield will consist of Joshua Kimmich and Pascal Groß in the pivot, with Maximilian Mittelstädt and Jamie Leweling as the left and right midfielders respectively. The attack will have Florian Wirtz and Paul Nebel as pseudo-wingers behind Nick Woltemade.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

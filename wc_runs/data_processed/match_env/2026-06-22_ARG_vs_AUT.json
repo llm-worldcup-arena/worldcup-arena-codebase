@@ -1,0 +1,41 @@
+{
+ "match": {
+  "slug": "2026-06-22_ARG_vs_AUT",
+  "date": "2026-06-22",
+  "home": "ARG",
+  "away": "AUT",
+  "round": "group",
+  "group": "J"
+ },
+ "kickoff": {
+  "美东": "2026-06-22T13:00:00-04:00",
+  "北京": "06-23 01:00"
+ },
+ "venue": {
+  "name": "AT&T Stadium",
+  "city": "Arlington, Texas",
+  "altitude_m": 184,
+  "roof": "retractable",
+  "surface": "grass"
+ },
+ "weather": {
+  "开球时段": {
+   "温度C": 27.4,
+   "体感C": 33.7,
+   "降水概率%": 16,
+   "降水mm": 0.0,
+   "风速kmh": 12.8,
+   "湿度%": 87,
+   "天况": "雷雨"
+  },
+  "source": "open-meteo(免费预报API)",
+  "fetched": "2026-06-22_1235",
+  "_note": "临近开球建议 --refresh 刷新"
+ },
+ "referee": {
+  "name": "Amin Omar (EGY)",
+  "source": "http://law5-theref.blogspot.com/2026/06/2026-fifa-wc-referee-appointments-for.html",
+  "fetched": "2026-06-22_1235"
+ },
+ "_note": "环境=比赛+时间+地点 确定;天气为开球时段;顶棚 retractable/fixed-canopy 时天气影响有限。"
+}

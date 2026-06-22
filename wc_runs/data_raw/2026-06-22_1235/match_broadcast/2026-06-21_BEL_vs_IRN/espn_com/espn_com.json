@@ -1,0 +1,24 @@
+{
+ "source": "espn.com",
+ "url": "https://www.espn.com/soccer/report/_/gameId/760451",
+ "title": "Belgium 0-0 Iran (Jun 21, 2026) Game Analysis - ESPN",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-21",
+  "home": "BEL",
+  "away": "IRN",
+  "home_en": "Belgium",
+  "away_en": "Iran",
+  "home_zh": "比利时",
+  "away_zh": "伊朗",
+  "comp": "小组赛·G组",
+  "match_id": "M39",
+  "slug": "2026-06-21_BEL_vs_IRN"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "INGLEWOOD, Calif. -- Alireza Beiranvand made seven saves as Iran and Belgium played to a 0-0 draw at the World Cup on Sunday, with Team Melli unable to break through after the Red Devils went down to 10 men in the second half.\nBelgium defender Nathan Ngoy received a straight red card in the 66th minute when he miskicked a ball backward and then fouled Mehdi Taremi to prevent the Iran star from getting a clean breakaway scoring chance.\nIran couldn't capitalize, and Belgium actually generated better scoring chances down the stretch -- but both teams left with their second straight draw in group play.\nNeither team will feel good about the result.\nDuring a tumultuous World Cup trip affected by travel restrictions and visa denials from the U.S., Iran will regret missing a golden opportunity to beat a European powerhouse sitting 10th in FIFA's world rankings while playing before a loud, supportive crowd.\nIran returned to the Los Angeles area for their second straight match in front of a crowd packed with fans from the diaspora both supporting Team Melli and booing the Iranian anthem, with hundreds of Lion and Sun flags displayed.\nIran goalkeeper Alireza Beiranvand makes a save during his team's World Cup match against Belgium.\nGetty Images\nThe team's World Cup cycle has been chaotic ever since the U.S. began its war in Iran on Feb. 28. The Iranians moved their training base from Arizona to Mexico, and the team is operating under travel restrictions requiring them to leave Los Angeles only hours after both matches, infuriating coach Amir Ghalenoei.\nMeanwhile, star-studded Belgium have yet to score in two matches at the World Cup, getting on the scoreboard only through an own goal in their opening draw with Egypt.\nBelgium are unbeaten in their past 15 competitive matches, but have not scored on 53 consecutive shots at the World Cup dating back to their one goal scored in their three mostly dismal games in Qatar four years ago.\nBelgium dominated possession in the first 60 minutes, but Iran had a handful of strong chances stopped by goalkeeper Thibaut Courtois, who matched Beiranvand's excellence. Team Melli had the best scoring chances early, including a beautiful set piece for a goal by Taremi -- who was ruled offside by video review.\nMaxim De Cuyper was denied twice in the second half by Beiranvand, including a golden opportunity in the 86th minute.\nWith so many preparation obstacles, Ghalenoei leaned on experience against Belgium, sending out the oldest starting 11 at a World Cup match since 1966, according to ESPN Research.\nRomelu Lukaku was a surprise addition to Belgium's starting lineup, playing the first 73 minutes and recording one shot. The Red Devils' career goals leader missed nearly all of his club season at Napoli with a hamstring injury, and he played as a substitute against Egypt on Monday.\nStandout Belgian winger Jérémy Doku missed the match with an illness.\nThe Associated Press contributed to this report.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

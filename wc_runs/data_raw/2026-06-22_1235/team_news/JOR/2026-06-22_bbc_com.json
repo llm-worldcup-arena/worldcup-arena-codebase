@@ -1,0 +1,16 @@
+{
+ "team": "JOR",
+ "source": "bbc.com",
+ "url": "https://www.bbc.com/sport/football/articles/c2023jvdjrko",
+ "title": "World Cup 2026: Jordan's final 26-man squad includes Mousa Al-Tamari",
+ "news_date": "2026-06-22",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-22",
+ "fetched": "2026-06-22_1235",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "Jordan have named their final 26-man squad for their World Cup debut this summer.\n\nCoach Jamal Sellami's squad includes forward Mousa Al-Tamari of French side Rennes, although Al-Sailiya's Ali Olwan is the highest scorer among the group travelling to the United States.\n\nCaptain Ehsan Haddad has been selected with the experienced defender having recovered after nearly a year out with an Achilles injury.\n\nBut striker Yazan Al-Naimat is still out having suffered an anterior cruciate ligament injury at the Arab Cup in December.\n\nJordan have their final friendly against Colombia in San Diego on 7 June before playing in Group J.\n\nThey will face Austria (16 June) and Algeria (22 June) in Santa Clara before taking on holders Argentina in Dallas on 27 June.\n\nGoalkeepers: Yazeed Abulaila (Al-Hussein), Abdullah Al-Fakhouri (Al-Wehdat), Noor Bani Attiah (Al-Faisaly).\n\nDefenders: Abdallah Nasib (Al-Zawraa), Ehsan Haddad, Saed Al-Rosan, Saleem Obaid (Al-Hussein), Yazan Al-Arab (FC Seoul), Mohammad Abualnadi (Selangor), Husam Abu Dahab, Anas Banawi (Al-Faisaly), Mohannad Abu Taha (Al-Quwa Al-Jawiya), Mohammad Abu Hasheesh (Al-Karma).\n\nMidfielders: Noor Al-Rawabdeh (Selangor), Nizar Al-Rashdan (Qatar), Ibrahim Saadeh (Al-Karma), Rajaei Ayed, Mahmoud Al-Mardi (Al-Hussein), Amer Jamous (Al-Zawraa), Mohammad Al-Dawoud (Al-Wehdat).\n\nForwards: Mousa Al-Tamari (Rennes), Odeh Al-Fakhouri (Pyramids), Mohammad Abu Zrayq (Raja Casablanca), Ali Azaizeh (Al-Shabab), Ibrahim Sabra (Lokomotiva Zagreb), Ali Olwan (Al-Sailiya).",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

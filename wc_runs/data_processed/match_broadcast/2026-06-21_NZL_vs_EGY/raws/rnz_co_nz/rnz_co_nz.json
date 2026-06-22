@@ -1,0 +1,24 @@
+{
+ "source": "rnz.co.nz",
+ "url": "https://www.rnz.co.nz/news/sport/607838/new-zealand-egypt-searching-for-elusive-first-world-cup-win-in-key-clash",
+ "title": "New Zealand, Egypt searching for elusive first World Cup win in key clash",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-21",
+  "home": "NZL",
+  "away": "EGY",
+  "home_en": "New Zealand",
+  "away_en": "Egypt",
+  "home_zh": "新西兰",
+  "away_zh": "埃及",
+  "comp": "小组赛·G组",
+  "match_id": "M40",
+  "slug": "2026-06-21_NZL_vs_EGY"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "New Zealand and Egypt both came close to securing their first World Cup wins when they drew their opening games at the 2026 tournament, and the two sides meet on Monday knowing victory would leave them with one foot in the knockout stage.\n\nWith all four teams drawing their first game, Group G remains extremely tight, and the need for a win is all the more pressing for Darren Bazeley's New Zealand, who were twice pegged back by Iran and who face Belgium in their final group game.\n\n\"When you're leading twice in a game you come away with that 'what if?',\" Bazeley said after his side were held to a stalemate by Iran.\n\n\"We were probably as close as we've ever been to winning a game at the World Cup, and we couldn't quite do that today.\"\n\nThe New Zealanders drew all three games at their previous World Cup appearance in 2010 and looked set for a historic first win against Iran thanks to two goals from Elijah Just. They will be hoping that giant striker Chris Wood can bring his physicality to bear against the Egyptians.\n\nThat could prove to be a tough task against a team that only conceded two goals in their 10-game qualifying campaign and who held Belgium to a 1-1 draw in their opener.\n\nEgypt player Mohamed Salah netted nine goals in their qualifying campaign and is again expected to play a key role for the team, but coach Hossam Hassan is keen to ease his side's dependence on the winger.\n\n\"The whole world is waiting to see the face of Egypt as a respected team, with all of the players, with Salah as well. But we don't want to rely on one single star. We want to rely on the group and work within that framework of a project,\" Hassan said prior to the tournament.\n\nHassan's intent to build a team for the future would receive a serious boost if they can grab a win over New Zealand that could see them make the World Cup knockout stage.\n\n\"I told them (the Egyptian people) that we have to have a new national identity for our national squad ... we try to work on the mindset of the players, prepare our players and try to build their confidence that they are a strong team.\"",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

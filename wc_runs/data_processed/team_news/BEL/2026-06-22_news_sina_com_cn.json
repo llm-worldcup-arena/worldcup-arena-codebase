@@ -1,0 +1,16 @@
+{
+ "team": "BEL",
+ "source": "news.sina.com.cn",
+ "url": "https://news.sina.com.cn/zx/2026-06-22/doc-iniefqsa0446281.shtml",
+ "title": "大跌眼镜！FIFA第10比利时世界杯2连平，5亿阵容2场38射只进1球",
+ "news_date": "2026-06-22",
+ "published": "2026-06-22 05:18:57",
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-22",
+ "fetched": "2026-06-22_1235",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "直播吧06月22日讯 美加墨世界杯小组赛G组第2轮，比利时0-0战平伊朗，小组赛两连平。\n\n本届世界杯开始前，比利时的FIFA排名是世界第10，但小组赛前两战，比利时面对FIFA第30埃及和FIFA第22伊朗，38脚射门只靠对手乌龙打进一球，目前以2分排名G组第二。\n\n比利时全队的总身价高达5.48亿欧元，在本届世界杯球队中排名第10，球队阵容中身价最高的是7500万欧元身价的曼城边锋多库，本场比赛他因伤缺阵。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}
