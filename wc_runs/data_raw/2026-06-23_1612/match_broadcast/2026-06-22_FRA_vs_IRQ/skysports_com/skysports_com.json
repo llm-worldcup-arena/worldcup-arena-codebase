@@ -1,0 +1,24 @@
+{
+ "source": "skysports.com",
+ "url": "https://www.skysports.com/football/news/11095/13554964/world-cup-2026-france-3-0-iraq-kylian-mbappe-double-sends-france-into-last-32-after-weather-hit-win",
+ "title": "World Cup 2026: France 3-0 Iraq - Kylian Mbappe double sends France into last 32 after weather-hit win",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-22",
+  "home": "FRA",
+  "away": "IRQ",
+  "home_en": "France",
+  "away_en": "Iraq",
+  "home_zh": "法国",
+  "away_zh": "伊拉克",
+  "comp": "小组赛·I组",
+  "match_id": "M42",
+  "slug": "2026-06-22_FRA_vs_IRQ"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "France booked their place in the World Cup last 32 with a game to spare as Kylian Mbappe's ruthless double inspired a 3-0 victory over Iraq in a contest interrupted by a two-hour weather delay in Philadelphia. Didier Deschamps' side arrived knowing victory would secure qualification after their opening win over Senegal and they delivered with the minimum of fuss, overcoming both stubborn opponents and Mother Nature to continue their flawless start to the tournament. Mbappe was the headline act once again. The France captain struck either side of half-time to take his tally to four goals in the competition, underlining why he remains the most feared forward in world football. \"If I want to keep up with what Leo is doing, I'll have to do even more,\" Mbappe said after Lionel Messi starred himself in front of goal as Argentina beat Austria. There was also a moment of personal redemption for Ousmane Dembele. The winger finally ended his long wait for a goal at a major international tournament, finding the net for the first time in his 20th appearance across World Cups and European Championships.   France's quality was evident from the outset. Their movement between the lines continually stretched Iraq and it was Mbappe who made the breakthrough midway through the first half when belting one home from 22 yards. The match then took an unprecedented turn at the interval. With severe storms moving through the Philadelphia area, officials ordered players and supporters to remain under cover, resulting in the first weather-related delay of the World Cup. What should have been a routine 15-minute break stretched into a two-hour stoppage as lightning concerns forced organisers to postpone the restart. Mbappe could be seen directing the ground staff clearing the pitch, later saying of pictures that went viral: \"The side of the pitch where we were attacking was completely waterlogged. They spent 20 minutes cleaning the side where we defend, but they didn't spend any time cleaning the side where we attack. So, that's a bit of a disadvantage. I would have preferred they spend equal time cleaning both halves of the pitch. Or, if they had to choose, clean the side where we are attacking, you know? \"I think having to wait for two hours, and then you arrive and see that they didn't actually protect the pitch-normally they should cover it-so it's a small frustration, but it passes.\" When play eventually resumed, France quickly extinguished any lingering Iraqi hopes as Mbappe took advantage of some baffling decisions to play out from the back from Iraq. The French superstar is now just two goals behind Lionel Messi in the all-time World Cup goalscorer race with 16. Michael Olise created the third, turning and powering away from his defenders, before slotting Dembele through. France play Norway in their final game on Friday and are in a great spot to top the table with six points in the bag. 'Singing in the rain' - First weather delay at the World Cup The key moments from Philadelphia... 9 - GOAL! Mbappe puts France in front with a rasping strike from distance 40 - RAIN! The heavens open in Philadelphia with supporters heading for cover 45 - GAME DELAYED! The players don't return for the second half as lightning strikes mean the game is delayed 46 - GAME RESTARTS! Two hours later, the players return to the pitch for the second half 56 - GOAL! Mbappe has an easy finish after a big error passing out from the back involving Zaid Tahseen 66 - GOAL!",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

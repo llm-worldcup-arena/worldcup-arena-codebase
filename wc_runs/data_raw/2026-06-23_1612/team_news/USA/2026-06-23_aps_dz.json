@@ -1,0 +1,16 @@
+{
+ "team": "USA",
+ "source": "aps.dz",
+ "url": "https://www.aps.dz/cn/sports/sport-collectif/mq53g878-%E9%98%BF%E5%B0%94%E5%8F%8A%E5%88%A9%E4%BA%9A%E5%9B%BD%E5%AE%B6%E8%B6%B3%E7%90%83%E9%98%9F%E5%B0%86%E7%9B%AE%E6%A0%87%E9%94%81%E5%AE%9A%E5%9C%A8-%E7%BE%8E%E5%9B%BD",
+ "title": "阿尔及利亚国家足球队将目标锁定在 美国",
+ "news_date": "2026-06-23",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-23",
+ "fetched": "2026-06-23_1612",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "阿尔及尔——阿尔及利亚国家足球队于周日下午启程前往美国，参加将于 2026年6月11日至7月19日 在美国、加拿大和墨西哥举行的2026年世界杯。球队希望在这项全球赛事中取得符合全国人民期待的优异成绩。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

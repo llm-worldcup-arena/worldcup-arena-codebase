@@ -1,0 +1,24 @@
+{
+ "source": "levisstadium.com",
+ "url": "https://levisstadium.com/event/fifa-world-cup-group-stage-2026-06-22/",
+ "title": "FIFA WORLD CUP | JORDAN vs. ALGERIA - Levi's® Stadium",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-22",
+  "home": "JOR",
+  "away": "ALG",
+  "home_en": "Jordan",
+  "away_en": "Algeria",
+  "home_zh": "约旦",
+  "away_zh": "阿尔及利亚",
+  "comp": "小组赛·J组",
+  "match_id": "M44",
+  "slug": "2026-06-22_JOR_vs_ALG"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Heading to the stadium for FIFA World Cup 2026™ this summer? Please refer to the event’s website here.\n\nJordan vs. Algeria will take place at Levi’s® Stadium on June 22nd, 2026 at 8:00 p.m. PT.\n\nFor this summer’s FIFA World Cup 2026™ tournament, please refer to FIFAWorldCup.com for the latest policies and stadium information.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

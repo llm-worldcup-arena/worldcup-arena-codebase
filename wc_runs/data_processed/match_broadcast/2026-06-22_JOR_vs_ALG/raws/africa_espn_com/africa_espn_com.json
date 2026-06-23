@@ -1,0 +1,24 @@
+{
+ "source": "africa.espn.com",
+ "url": "https://africa.espn.com/football/story/_/id/49145580/jordan-algeria-live-world-cup-2026-latest-updates-commentary-score-result",
+ "title": "Jordan 1 - 2 Algeria: Late Amine Gouiri goal eliminates Jordan - as it happened - ESPN",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-22",
+  "home": "JOR",
+  "away": "ALG",
+  "home_en": "Jordan",
+  "away_en": "Algeria",
+  "home_zh": "约旦",
+  "away_zh": "阿尔及利亚",
+  "comp": "小组赛·J组",
+  "match_id": "M44",
+  "slug": "2026-06-22_JOR_vs_ALG"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Jordan 1 - 2 Algeria: Late Amine Gouiri goal eliminates Jordan - as it happened\n4h\n12mLeonard Solms\n6hEd Dove\n11hESPN News Services\n12hColin Udoh\n6hJames Olley\n9hShivam Pathak\n12hEd Dove\n11hJeff Kassouf\n13hColin Udoh\n18hShubi Arun\n3hEd Dove\n13hEd Dove\n40mTim Vickery\n10hLizzy Becherano\n1dRob Dawson\n20hLeonard Solms\n6hGabriel Tan\n5hJulien Laurens\n3hConnor O'Halloran\n2hTom Chambers\n5dBeth Lindop and Sam Marsden\n1hESPN\n4dSam Tighe\n4dEmily Keogh and Yash Thakur\n21hSam Marsden\n3dAlex Kirkland and Rodra\n6dLeonard Solms\n7mLeonard Solms\n35mTim Vickery\n39mJeff Carlisle\n1hESPN\n1hJamie Barton\n1hESPN\n2hTom Masters\n2hTom Masters\n2hESPN\n2hTom Chambers\n2hTom Chambers\n2hTom Chambers\n2hESPN\n2hNina Hristova\n2hAAP\n2hESPN\n2hTom Chambers\nSunaadh Sagar\nJun 23, 2026, 05:01 AM\nAlgeria kept their 2026 FIFA World Cup hopes alive with a come-from-behind 2-1 win over debutants Jordan in a Group J encounter in Santa Clara, and you can relive it all as it happened right here.\nFollowing their 0-3 loss to Lionel Messi's Argentina in their opener, Algeria bounced back, while Jordan impressed once again, despite succumbing to their second successive loss in this tournament. The result means, Argentina are guaranteed to top Group J.\nWorld Cup 2026 - updates, news as Erling Haaland brace leaves Senegal on the brink\nSadio Mane and Senegal fell to a 3-2 defeat to Norway on Monday night in East Rutherford, New Jersey, leaving them on the brink of elimination. Al Bello/Getty Images\nLeonard Solms\nJun 23, 2026, 08:27 AM\nSenegal were left on the brink of elimination from the FIFA World Cup on Monday as an Erling Haaland brace gave Norway a 3-2 win over the Lions of Teranga.\nSenegal can only hope to finish third in Group I and have other results go their way. However, there was some consolation for Africa, however, as Algeria picked up a 2-1 win over Jordan. Tuesday will see an eagerly anticipated encounter between Ghana and England, as well as DR Congo's clash with Colombia.\n- Despite a brace from Ismaïla Sarr, Senegal went down 3-2 to Norway, compounding their woes.\n- A late goal from Amine Gouiri handed Algeria a lifeline as they recovered from defeat to Lionel Messi's Argentina with victory over Jordan.\n- Resolving the Jordan Ayew dilemma and other areas of focus as Ghana face England.\n- Lionel Messi picks up from where he left off after Algeria clash, making more history against Austria.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

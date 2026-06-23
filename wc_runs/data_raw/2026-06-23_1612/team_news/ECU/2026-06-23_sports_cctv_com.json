@@ -1,0 +1,16 @@
+{
+ "team": "ECU",
+ "source": "sports.cctv.com",
+ "url": "https://sports.cctv.com/2026/06/23/VIDEj8fWQkAG7xHuUemcrP2s260623.shtml",
+ "title": "[世界杯]I组第2轮：法国3-0伊拉克 集锦",
+ "news_date": "2026-06-23",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-23",
+ "fetched": "2026-06-23_1612",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "央视网消息：北京时间6月23日，2026年美加墨世界杯I组第2轮，法国VS伊拉克。全场比赛结束，最终法国3-0大胜伊拉克。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

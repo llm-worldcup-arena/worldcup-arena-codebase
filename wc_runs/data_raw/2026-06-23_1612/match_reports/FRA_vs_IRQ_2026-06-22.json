@@ -1,0 +1,338 @@
+{
+ "match_id": "4697922",
+ "date": "2026-06-22",
+ "comp": "世界杯·I组",
+ "ha_home": "中",
+ "home": "FRA",
+ "away": "IRQ",
+ "score": "3-0",
+ "venue": "Lincoln Financial Field (Philadelphia)",
+ "attendance": 68324,
+ "goals": [
+  {
+   "min": 14,
+   "side": "home",
+   "player": "Kylian Mbappe",
+   "sub": null
+  },
+  {
+   "min": 54,
+   "side": "home",
+   "player": "Kylian Mbappe",
+   "sub": null
+  },
+  {
+   "min": 66,
+   "side": "home",
+   "player": "Ousmane Dembélé",
+   "sub": null
+  }
+ ],
+ "cards": [
+  {
+   "min": 6,
+   "side": "away",
+   "player": "Amir Al-Ammari",
+   "type": "黄牌"
+  }
+ ],
+ "stats": {
+  "射门": [
+   "19",
+   "4"
+  ],
+  "射正": [
+   "5",
+   "0"
+  ],
+  "禁区内射门": [
+   "10",
+   "3"
+  ],
+  "扑救": [
+   "4",
+   "1"
+  ],
+  "角球": [
+   "4",
+   "2"
+  ],
+  "越位": [
+   "1",
+   "0"
+  ],
+  "控球%": [
+   "56%",
+   "44%"
+  ],
+  "传中": [
+   "120",
+   "80"
+  ],
+  "传球": [
+   "540",
+   "413"
+  ],
+  "xG预期进球": [
+   "1.95",
+   "0.65"
+  ],
+  "xGOT/大机会": [
+   "2.28",
+   "0"
+  ]
+ },
+ "lineups": {
+  "home": [
+   {
+    "no": 16,
+    "name": "Mike Maignan"
+   },
+   {
+    "no": 3,
+    "name": "Lucas Digne"
+   },
+   {
+    "no": 17,
+    "name": "William Saliba"
+   },
+   {
+    "no": 4,
+    "name": "Dayot Upamecano"
+   },
+   {
+    "no": 5,
+    "name": "Jules Koundé"
+   },
+   {
+    "no": 14,
+    "name": "Adrien Rabiot"
+   },
+   {
+    "no": 6,
+    "name": "Manu Kone"
+   },
+   {
+    "no": 12,
+    "name": "Bradley Barcola"
+   },
+   {
+    "no": 11,
+    "name": "Michael Olise"
+   },
+   {
+    "no": 7,
+    "name": "Ousmane Dembélé"
+   },
+   {
+    "no": 10,
+    "name": "Kylian Mbappe"
+   },
+   {
+    "no": 25,
+    "name": "Maghnes Akliouche"
+   },
+   {
+    "no": 24,
+    "name": "Rayan Cherki"
+   },
+   {
+    "no": 20,
+    "name": "Désiré Doué"
+   },
+   {
+    "no": 2,
+    "name": "Malo Gusto"
+   },
+   {
+    "no": 9,
+    "name": "Marcus Thuram"
+   },
+   {
+    "no": 21,
+    "name": "Lucas Hernández"
+   },
+   {
+    "no": 19,
+    "name": "Theo Hernández"
+   },
+   {
+    "no": 13,
+    "name": "N'Golo Kanté"
+   },
+   {
+    "no": 15,
+    "name": "Ibrahima Konaté"
+   },
+   {
+    "no": 26,
+    "name": "Maxence Lacroix"
+   },
+   {
+    "no": 22,
+    "name": "Jean Philippe Mateta"
+   },
+   {
+    "no": 23,
+    "name": "Robin Risser"
+   },
+   {
+    "no": 1,
+    "name": "Brice Samba"
+   },
+   {
+    "no": 8,
+    "name": "Aurélien Tchouaméni"
+   },
+   {
+    "no": 18,
+    "name": "Warren Zaire-Emery"
+   }
+  ],
+  "away": [
+   {
+    "no": 22,
+    "name": "Ahmed Basil"
+   },
+   {
+    "no": 23,
+    "name": "Merchas Doski"
+   },
+   {
+    "no": 5,
+    "name": "Akam Hashem"
+   },
+   {
+    "no": 4,
+    "name": "Zaid Tahsen"
+   },
+   {
+    "no": 3,
+    "name": "Hussein Ali"
+   },
+   {
+    "no": 16,
+    "name": "Amir Al-Ammari"
+   },
+   {
+    "no": 8,
+    "name": "Ibrahim Bayesh"
+   },
+   {
+    "no": 14,
+    "name": "Zidane Iqbal"
+   },
+   {
+    "no": 24,
+    "name": "Zaid Ismail"
+   },
+   {
+    "no": 11,
+    "name": "Ahmed Qasem"
+   },
+   {
+    "no": 18,
+    "name": "Aymen Hussein"
+   },
+   {
+    "no": 2,
+    "name": "Rebin Sulaka"
+   },
+   {
+    "no": 9,
+    "name": "Ali Al-Hamadi"
+   },
+   {
+    "no": 7,
+    "name": "Youssef Amyn"
+   },
+   {
+    "no": 21,
+    "name": "Marko Farji"
+   },
+   {
+    "no": 20,
+    "name": "Aimar Sher"
+   },
+   {
+    "no": 15,
+    "name": "Ahmed Hasan Maknzi"
+   },
+   {
+    "no": 25,
+    "name": "Mustafa Saadoon"
+   },
+   {
+    "no": 10,
+    "name": "Mohanad Ali"
+   },
+   {
+    "no": 17,
+    "name": "Ali Jassim"
+   },
+   {
+    "no": 6,
+    "name": "Manaf Younis"
+   },
+   {
+    "no": 12,
+    "name": "Jalal Hassan Hachim"
+   },
+   {
+    "no": 26,
+    "name": "Frans Dhia Putros"
+   },
+   {
+    "no": 13,
+    "name": "Ali Yousif Hashim"
+   },
+   {
+    "no": 1,
+    "name": "Fahad Talib"
+   },
+   {
+    "no": 19,
+    "name": "Kevin Yakob"
+   }
+  ]
+ },
+ "missing": [],
+ "events": [
+  {
+   "min": 6,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Amir Al-Ammari"
+  },
+  {
+   "min": 14,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Kylian Mbappe"
+  },
+  {
+   "min": 54,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Kylian Mbappe"
+  },
+  {
+   "min": 66,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Ousmane Dembélé"
+  }
+ ],
+ "injuries": [],
+ "suspensions": [],
+ "ratings": {},
+ "quotes": [],
+ "narrative": "",
+ "prediction_note": "",
+ "_note": "macheta/Sofascore 权威硬数据；injuries/suspensions/ratings/quotes/narrative/prediction_note 待 agent WebSearch 补。",
+ "ht": "1-0"
+}

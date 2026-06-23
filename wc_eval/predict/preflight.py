@@ -21,7 +21,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from common import read_summary, handicap_clause
 from predict_match import build_user
 
-MUST_IN_PROMPT = ["环境:", "让球盘口", "不限于此", "逐项核对", "矛盾案例", "3 球以内已全部列出"]
+MUST_IN_PROMPT = ["环境:", "让球盘口", "不限于此", "逐项核对", "矛盾案例", "X=主队进球数"]
 
 
 def _now_et():

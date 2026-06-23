@@ -1,0 +1,24 @@
+{
+ "source": "8world.com",
+ "url": "https://www.8world.com/sports/world-cup-argentina-austria-3190501",
+ "title": "梅西18球登顶射手榜 阿根廷2比0胜奥地利晋级32强",
+ "published": null,
+ "tier": "3",
+ "lang": "zh",
+ "match": {
+  "date": "2026-06-22",
+  "home": "ARG",
+  "away": "AUT",
+  "home_en": "Argentina",
+  "away_en": "Austria",
+  "home_zh": "阿根廷",
+  "away_zh": "奥地利",
+  "comp": "小组赛·J组",
+  "match_id": "M43",
+  "slug": "2026-06-22_ARG_vs_AUT"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "J组的阿根廷以2比0，击败奥地利，以两连胜、6分，高居小组榜首，提前晋升32强。\n\n球星梅西（Lionel Messi）也打破纪录，成为世界杯进球最多的球员，累计进球达18个。\n\n不过，他在第38分钟，在队友梅迪纳（Facundo Medina）的助攻下，推射破门，踢进个人世界杯的第17个球，让阿根廷以1比0领先。\n\n梅西在完场前的补时阶段，梅开二度，在禁区内低射，再进一球，以18球改写纪录，成为世界杯射手王，同时为阿根廷锁定胜局，提前一轮出线。\n\n更多关于 2026 年世界杯的最新报道，欢迎浏览 《8 视界新闻网》世界杯专页 。欲观看世界杯所有 104 场赛事直播，请前往 mewatch.sg/fifaworldcup 了解更多详情 。",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

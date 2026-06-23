@@ -1,0 +1,16 @@
+{
+ "team": "NOR",
+ "source": "bbc.com",
+ "url": "https://www.bbc.com/sport/football/articles/c74d7j5lw8po",
+ "title": "World Cup 2026: Martin Odegaard captains Norway World Cup squad",
+ "news_date": "2026-06-23",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-23",
+ "fetched": "2026-06-23_1612",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "Arsenal skipper Martin Odegaard has been named captain of Norway's 26-man squad for this summer's World Cup.\n\nThe newly crowned Premier League winner is joined by Manchester City striker Erling Haaland, Fulham's Oscar Bobb and Crystal Palace forward Jorgen Strand Larsen.\n\nA unique squad announcement was delivered by the King of Norway via a pre-recorded video on social media. , external\n\nUncapped Hamburg goalkeeper Sander Tangvik makes the squad after a final sign-off from the monarch.\n\nThe 23-year-old's inclusion as the only uncapped player in the squad comes after an injury to SK Brann's Mathias Dyngeland, while a request to switch the nationality of former Russia Under-21 keeper Nikita Haikin was not approved.\n\n\"I didn't trust it [the squad] until the video was finished. I didn't trust the King for a second,\" Derby County defender Sondre Langas, who is included, told national broadcaster NRK.\n\nNorway open their World Cup campaign in Boston against Iraq on 16 June, followed by games against Senegal and France.\n\nThe expanded 48-team competition in the US, Canada and Mexico runs from 11 June to 19 July.\n\nGoalkeepers: Orjan Haskjold Nyland (Sevilla), Egil Selvik (Watford), Sander Tangvik (Hamburger SV).\n\nDefenders: Julian Ryerson (Borussia Dortmund), Marcus Holmgren Pedersen (Torino), David Moller Wolfe (Wolverhampton), Fredrik Bjorkan (Bodo/Glimt), Kristoffer Ajer (Brentford), Torbjorn Heggem (Bologna), Leo Skiri Ostigard (Genoa), Sondre Langas (Derby County), Henrik Falchener (Viking).\n\nMidfielders: Martin Odegaard (Arsenal), Sander Berge (Fulham), Fredrik Aursnes (Benfica), Patrick Berg (Bodo/Glimt), Kristian Thorstvedt (Sassuolo), Morten Thorsby (Cremonese), Thelo Aasgaard (Rangers).\n\nForwards: Erling Haaland (Manchester City), Alexander Sorloth (Atletico Madrid), Jorgen Strand Larsen (Crystal Palace), Antonio Nusa (RB Leipzig), Oscar Bobb (Fulham), Andreas Schjelderup (Benfica), Jens Petter Hauge (Bodo/Glimt).",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

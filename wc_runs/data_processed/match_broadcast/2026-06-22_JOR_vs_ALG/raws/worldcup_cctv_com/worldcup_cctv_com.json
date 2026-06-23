@@ -1,0 +1,24 @@
+{
+ "source": "worldcup.cctv.com",
+ "url": "https://worldcup.cctv.com/2026/match/22920337/index.shtml",
+ "title": "2026年世界杯：约旦VS阿尔及利亚_2026年美加墨世界杯",
+ "published": null,
+ "tier": "3",
+ "lang": "zh",
+ "match": {
+  "date": "2026-06-22",
+  "home": "JOR",
+  "away": "ALG",
+  "home_en": "Jordan",
+  "away_en": "Algeria",
+  "home_zh": "约旦",
+  "away_zh": "阿尔及利亚",
+  "comp": "小组赛·J组",
+  "match_id": "M44",
+  "slug": "2026-06-22_JOR_vs_ALG"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "10.4万\n5.4万\n我来说几句...\n耶齐德\n门将\n1号\n纳西卜\n后卫\n3号\n阿布达哈卜\n后卫\n4号\n阿拉伯\n后卫\n5号\n伊赫桑\n后卫\n23号\n拉瓦卜迪赫\n中场\n8号\n尼扎尔\n中场\n21号\n阿布塔哈\n中场\n20号\n塔马里\n前锋\n10号\n乌勒万\n前锋\n9号\n马尔迪\n前锋\n13号\n阿布纳迪\n后卫\n16号\n阿布哈希什\n后卫\n2号\n阿扎伊泽赫\n前锋\n24号\n萨迪赫\n中场\n15号\n阿布古什\n中场\n18号\n乌达\n前锋\n11号\n巴达维\n后卫\n26号\n贾穆斯\n中场\n6号\n阿布泽赖基\n前锋\n7号\n巴尼阿提亚赫\n门将\n12号\n法胡里\n门将\n22号\n赛义德\n后卫\n19号\n萨利姆\n后卫\n17号\n达乌德\n中场\n25号\n拉贾埃\n中场\n14号\n齐达内\n门将\n23号\n贝尔加利\n后卫\n17号\n曼迪\n后卫\n2号\n本塞拜尼\n后卫\n21号\n艾特努里\n后卫\n15号\n布达维\n中场\n14号\n扎鲁基\n中场\n6号\n马扎\n中场\n22号\n马赫雷兹\n前锋\n7号\n古伊里\n前锋\n9号\n沙伊比\n中场\n10号\n哈吉穆萨\n前锋\n11号\n盖杰米斯\n前锋\n25号\n阿巴达\n后卫\n3号\n蒂特拉维\n中场\n24号\n本布阿利\n前锋\n12号\n布勒比纳\n前锋\n20号\n贝莱德\n后卫\n5号\n马斯蒂勒\n门将\n1号\n哈贾姆\n后卫\n13号\n图贾伊\n后卫\n4号\n谢尔吉\n后卫\n26号\n本博特\n门将\n16号\n阿瓦尔\n中场\n8号\n本塔利卜\n中场\n19号\n球员名单\n约旦\n阿尔及利亚\n8\n射门\n17\n4\n射正\n8\n4\n射偏\n3\n1\n角球\n10\n25\n控球\n75\n11\n犯规\n6\n1\n越位\n0\n1\n黄牌\n1\n0\n红牌\n0",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

@@ -1,0 +1,354 @@
+{
+ "match_id": "4627911",
+ "date": "2026-06-22",
+ "comp": "世界杯·J组",
+ "ha_home": "中",
+ "home": "JOR",
+ "away": "ALG",
+ "score": "1-2",
+ "venue": "Levi's Stadium (Santa Clara)",
+ "attendance": 68371,
+ "goals": [
+  {
+   "min": 36,
+   "side": "home",
+   "player": "Nizar Al Rashdan",
+   "sub": null
+  },
+  {
+   "min": 69,
+   "side": "away",
+   "player": "Nadhir Benbouali",
+   "sub": null
+  },
+  {
+   "min": 82,
+   "side": "away",
+   "player": "Amine Gouiri",
+   "sub": null
+  }
+ ],
+ "cards": [
+  {
+   "min": 44,
+   "side": "away",
+   "player": "Ramiz Zerrouki",
+   "type": "黄牌"
+  },
+  {
+   "min": 64,
+   "side": "home",
+   "player": "Husam Abudahab",
+   "type": "黄牌"
+  }
+ ],
+ "stats": {
+  "射门": [
+   "8",
+   "17"
+  ],
+  "射正": [
+   "4",
+   "8"
+  ],
+  "禁区内射门": [
+   "4",
+   "4"
+  ],
+  "扑救": [
+   "0",
+   "5"
+  ],
+  "角球": [
+   "1",
+   "10"
+  ],
+  "越位": [
+   "1",
+   "0"
+  ],
+  "控球%": [
+   "28%",
+   "72%"
+  ],
+  "传中": [
+   "64",
+   "139"
+  ],
+  "传球": [
+   "180",
+   "560"
+  ],
+  "xG预期进球": [
+   "0.61",
+   "1.49"
+  ],
+  "xGOT/大机会": [
+   "0.56",
+   "2.09"
+  ]
+ },
+ "lineups": {
+  "home": [
+   {
+    "no": 1,
+    "name": "Yazeed Abu laila"
+   },
+   {
+    "no": 4,
+    "name": "Husam Abudahab"
+   },
+   {
+    "no": 5,
+    "name": "Yazan Al-Arab"
+   },
+   {
+    "no": 3,
+    "name": "Abdallah Nasib"
+   },
+   {
+    "no": 20,
+    "name": "Mohannad  Mahmoud abo Taha"
+   },
+   {
+    "no": 8,
+    "name": "Noor Al-Rawabdeh"
+   },
+   {
+    "no": 21,
+    "name": "Nizar Al Rashdan"
+   },
+   {
+    "no": 23,
+    "name": "Ehsan Haddad"
+   },
+   {
+    "no": 13,
+    "name": "Mahmoud Al Mardi"
+   },
+   {
+    "no": 9,
+    "name": "Ali Alowan"
+   },
+   {
+    "no": 10,
+    "name": "Musa Al-Taamari"
+   },
+   {
+    "no": 2,
+    "name": "Mohammad Abu Hasheesh"
+   },
+   {
+    "no": 7,
+    "name": "Mohamed Abu Zraiq Sharara"
+   },
+   {
+    "no": 24,
+    "name": "Ali Al-Azaizeh"
+   },
+   {
+    "no": 11,
+    "name": "Odeh Fakhouri"
+   },
+   {
+    "no": 17,
+    "name": "Saleem Obaid"
+   },
+   {
+    "no": 16,
+    "name": "Mohammad Abualnadi"
+   },
+   {
+    "no": 25,
+    "name": "Mohammad Al-Dawoud"
+   },
+   {
+    "no": 22,
+    "name": "Abdallah Al Fakhouri"
+   },
+   {
+    "no": 19,
+    "name": "Saed Al Rosan"
+   },
+   {
+    "no": 26,
+    "name": "Anas Badawi"
+   },
+   {
+    "no": 12,
+    "name": "Nour Bani Ateyah"
+   },
+   {
+    "no": 14,
+    "name": "Rajaei Ayed"
+   },
+   {
+    "no": 6,
+    "name": "Amer Jamous"
+   },
+   {
+    "no": 15,
+    "name": "Ibrahim Saadeh"
+   },
+   {
+    "no": 18,
+    "name": "Mohammad Taha"
+   }
+  ],
+  "away": [
+   {
+    "no": 23,
+    "name": "Luca Zidane"
+   },
+   {
+    "no": 15,
+    "name": "Rayan Ait Nouri"
+   },
+   {
+    "no": 21,
+    "name": "Ramy Bensebaini"
+   },
+   {
+    "no": 2,
+    "name": "Aissa Mandi"
+   },
+   {
+    "no": 17,
+    "name": "Rafik Belghali"
+   },
+   {
+    "no": 6,
+    "name": "Ramiz Zerrouki"
+   },
+   {
+    "no": 14,
+    "name": "Hicham Boudaoui"
+   },
+   {
+    "no": 10,
+    "name": "Fares Chaibi"
+   },
+   {
+    "no": 22,
+    "name": "Ibrahim Maza"
+   },
+   {
+    "no": 7,
+    "name": "Riyad Mahrez"
+   },
+   {
+    "no": 9,
+    "name": "Amine Gouiri"
+   },
+   {
+    "no": 5,
+    "name": "Zineddine Belaïd"
+   },
+   {
+    "no": 12,
+    "name": "Nadhir Benbouali"
+   },
+   {
+    "no": 19,
+    "name": "Nabil Bentaleb"
+   },
+   {
+    "no": 11,
+    "name": "Anis Hadj Moussa"
+   },
+   {
+    "no": 13,
+    "name": "Jaouen Hadjam"
+   },
+   {
+    "no": 3,
+    "name": "Achref Abada"
+   },
+   {
+    "no": 8,
+    "name": "Houssem Aouar"
+   },
+   {
+    "no": 16,
+    "name": "Oussama Benbot"
+   },
+   {
+    "no": 20,
+    "name": "Adil Boulbina"
+   },
+   {
+    "no": 26,
+    "name": "Samir Chergui"
+   },
+   {
+    "no": 25,
+    "name": "Farès Ghedjemis"
+   },
+   {
+    "no": 1,
+    "name": "Melvin Mastil"
+   },
+   {
+    "no": 24,
+    "name": "Yassine Titraoui"
+   },
+   {
+    "no": 4,
+    "name": "Mohamed Tougai"
+   }
+  ]
+ },
+ "missing": [
+  {
+   "side": "away",
+   "no": 18,
+   "name": "Mohamed Amoura",
+   "reason": "Hamstring Injury"
+  }
+ ],
+ "events": [
+  {
+   "min": 36,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Nizar Al Rashdan"
+  },
+  {
+   "min": 44,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Ramiz Zerrouki"
+  },
+  {
+   "min": 64,
+   "side": "home",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Husam Abudahab"
+  },
+  {
+   "min": 69,
+   "side": "away",
+   "type": "进球",
+   "sub": null,
+   "player": "Nadhir Benbouali"
+  },
+  {
+   "min": 82,
+   "side": "away",
+   "type": "进球",
+   "sub": null,
+   "player": "Amine Gouiri"
+  }
+ ],
+ "injuries": [],
+ "suspensions": [],
+ "ratings": {},
+ "quotes": [],
+ "narrative": "",
+ "prediction_note": "",
+ "_note": "macheta/Sofascore 权威硬数据；injuries/suspensions/ratings/quotes/narrative/prediction_note 待 agent WebSearch 补。",
+ "ht": "1-0"
+}

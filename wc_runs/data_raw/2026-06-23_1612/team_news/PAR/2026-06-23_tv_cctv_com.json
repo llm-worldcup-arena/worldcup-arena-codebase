@@ -1,0 +1,16 @@
+{
+ "team": "PAR",
+ "source": "tv.cctv.com",
+ "url": "https://tv.cctv.com/2025/06/11/VIDETsYEctxahO3r64c617zd250611.shtml",
+ "title": "[国际足球]巴西战胜巴拉圭提前晋级世界杯",
+ "news_date": "2026-06-23",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-23",
+ "fetched": "2026-06-23_1612",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "北京时间6月11日，世界杯南美区预选赛继续进行，巴西男足以1比0力克巴拉圭，提前两轮锁定2026年美加墨世界杯参赛席位。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

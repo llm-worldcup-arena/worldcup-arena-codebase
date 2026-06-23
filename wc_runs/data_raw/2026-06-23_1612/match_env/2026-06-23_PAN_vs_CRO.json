@@ -1,0 +1,41 @@
+{
+ "match": {
+  "slug": "2026-06-23_PAN_vs_CRO",
+  "date": "2026-06-23",
+  "home": "PAN",
+  "away": "CRO",
+  "round": "group",
+  "group": "L"
+ },
+ "kickoff": {
+  "美东": "2026-06-23T19:00:00-04:00",
+  "北京": "06-24 07:00"
+ },
+ "venue": {
+  "name": "BMO Field",
+  "city": "Toronto",
+  "altitude_m": 76,
+  "roof": "open",
+  "surface": "grass"
+ },
+ "weather": {
+  "开球时段": {
+   "温度C": 22.4,
+   "体感C": 20.6,
+   "降水概率%": 0,
+   "降水mm": 0.0,
+   "风速kmh": 16.8,
+   "湿度%": 53,
+   "天况": "阴"
+  },
+  "source": "open-meteo(免费预报API)",
+  "fetched": "2026-06-23_1612",
+  "_note": "临近开球建议 --refresh 刷新"
+ },
+ "referee": {
+  "name": "Pierre Atcho (GAB)",
+  "source": "http://law5-theref.blogspot.com/2026/06/2026-fifa-wc-referee-appointments-for.html",
+  "fetched": "2026-06-23_1612"
+ },
+ "_note": "环境=比赛+时间+地点 确定;天气为开球时段;顶棚 retractable/fixed-canopy 时天气影响有限。"
+}

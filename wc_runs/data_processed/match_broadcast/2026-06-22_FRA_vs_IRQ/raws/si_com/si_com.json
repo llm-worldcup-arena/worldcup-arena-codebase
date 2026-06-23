@@ -1,0 +1,24 @@
+{
+ "source": "si.com",
+ "url": "https://www.si.com/soccer/france-vs-iraq-world-cup-live-score-match-stats",
+ "title": "France vs. Iraq—World Cup: Live Score and Match Stats",
+ "published": "2026-06-22T20:00:04Z",
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-22",
+  "home": "FRA",
+  "away": "IRQ",
+  "home_en": "France",
+  "away_en": "Iraq",
+  "home_zh": "法国",
+  "away_zh": "伊拉克",
+  "comp": "小组赛·I组",
+  "match_id": "M42",
+  "slug": "2026-06-22_FRA_vs_IRQ"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "France continues its charge towards the World Cup title with an intriguing clash against Iraq on Monday.\n\nGraham Arnold’s side was ultimately overpowered by Erling Haaland’s Norway on gameweek one and there is even more attacking talent boasted by France. “I asked if we could play three goalkeepers,” Iraq boss Arnold joked, “but they said no.” Several shot-stoppers may not be needed to deny France ’s forward line unless it finds its form.\n\nA record-setting Kylian Mbappé is bolstered by a supporting cast of Désiré Doué, Ousmane Dembélé and Michael Olise, but it took all of Didier Deschamps’s talents at least 45 minutes to get adjusted to the tournament: France mustered just one blocked shot in the first half of its clash with Senegal. However, in a worrying forewarning of what Iraq may face, Mbappé and Co. woke up after the interval, rattling off eight shots on target and three goals.\n\nSports Illustrated’s FC team bring you the latest news, transfers and match coverage.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

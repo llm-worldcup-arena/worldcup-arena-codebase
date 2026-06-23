@@ -1,0 +1,16 @@
+{
+ "team": "MEX",
+ "source": "line-hth.com",
+ "url": "https://line-hth.com/news/93.html",
+ "title": "华体会(hth.com)·中国官网 - 华体会HTH赛事资讯直达",
+ "news_date": "2026-05-27",
+ "published": "2026-05-27 07:56:07",
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-23",
+ "fetched": "2026-06-23_1612",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "华体会(hth.com)·中国官网华体会HTH赛事资讯直达中国官网赛事资讯直达，用户通过hth.com快速浏览足球篮球等赛事最新资讯、比分更新和专业报道，资讯详实、更新频繁，提供高效的赛事资讯直达体验。\n\nCopyright 2026 - ¡ë¡ë¡ë 华体会(hth.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

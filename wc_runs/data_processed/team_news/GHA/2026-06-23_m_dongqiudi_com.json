@@ -1,0 +1,16 @@
+{
+ "team": "GHA",
+ "source": "m.dongqiudi.com",
+ "url": "https://m.dongqiudi.com/article/4686142.html",
+ "title": "加纳队官方：乔丹-阿尤等4人因伤退出本期国家队，补招3人|加纳|欧塞尔|雷恩|莱斯特城|乔丹-阿尤|吉迪恩-门萨|赛义杜|法塔武|懂球帝",
+ "news_date": "2026-06-23",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-23",
+ "fetched": "2026-06-23_1612",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "据加纳队官方消息，乔丹-阿尤、吉迪恩-门萨、阿利杜-赛义杜及法塔武，因遭遇伤病，将遗憾告别本次国家队征程。\n\n为填补阵容空缺，足协迅速行动，征召了玛姆杜（Kamaradini Mamudu）、阿班（Ebenezer Abban）和阿弗里伊（Jerry Afriyie）三位球员入队。\n\n值得注意的是，在门萨与赛义杜随国家队出征对阵安哥拉的比赛前，二人均通过了初步的身体检查，遗憾的是，赛后他们被发现身体状况欠佳。此外，阿尤和法塔武则是在与安哥拉的较量中不幸受伤，阿尤展现了顽强的体育精神，坚持完成了整场比赛，法塔武则因伤在半场被替换下场。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

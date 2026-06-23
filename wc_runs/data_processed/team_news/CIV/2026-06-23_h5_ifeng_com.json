@@ -1,0 +1,16 @@
+{
+ "team": "CIV",
+ "source": "h5.ifeng.com",
+ "url": "https://h5.ifeng.com/c/vivoArticle/v002qEh11DwhxREZGK5gKTKU66cCICMt3SOiSK4gPDvGeOU__?isNews=1&showComments=0",
+ "title": "马卡：科特迪瓦世界杯名单出炉，迪奥曼德与尼古拉-佩佩领衔",
+ "news_date": "2026-06-23",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-23",
+ "fetched": "2026-06-23_1612",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "据马卡报报道，科特迪瓦在当地时间周五公布了参加下一届世界杯的26人名单，主教练法埃希望球队能在世界杯上突破此前最佳成绩，力争小组出线。\n\n在这份名单中，焦点球员包括效力于RB莱比锡、受到多家欧洲豪门关注的扬-迪奥曼德，以及比利亚雷亚尔边锋尼古拉-佩佩。最大惊喜则是国际米兰球员博尼入选，这名球员尽管曾在法国青年队梯队效力，但在官方征召名单公布前的最后时刻决定代表科特迪瓦出战。\n\n科特迪瓦被分在E组，小组赛将先后对阵德国、厄瓜多尔和库拉索。他们将于6月15日迎来首场比赛，对手是这支南美球队厄瓜多尔。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

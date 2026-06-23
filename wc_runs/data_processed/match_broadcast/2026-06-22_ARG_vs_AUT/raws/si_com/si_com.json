@@ -1,0 +1,24 @@
+{
+ "source": "si.com",
+ "url": "https://www.si.com/soccer/argentina-vs-austria-world-cup-live-score-match-stats",
+ "title": "Argentina vs. Austria—World Cup: Live Score and Match Stats",
+ "published": "2026-06-22T17:18:44Z",
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-22",
+  "home": "ARG",
+  "away": "AUT",
+  "home_en": "Argentina",
+  "away_en": "Austria",
+  "home_zh": "阿根廷",
+  "away_zh": "奥地利",
+  "comp": "小组赛·J组",
+  "match_id": "M43",
+  "slug": "2026-06-22_ARG_vs_AUT"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Lionel Messi had the perfect chance to sail off into a golden sunset after lifting the World Cup for Argentina in 2022. Yet, much like Michael Corleone, just when the veteran leader thought he was out, they pulled him back in.\n\nIt has proven to be a wise decision. Unlike some other stars in the winter of their careers at this tournament, Messi justified his selection as team’s central figure with a record-breaking hat-trick against Algeria . The loose stitching of the North African outfit was no match for Inter Miami’s 38-year-old wizard, but Austria will pose an entirely different test.\n\nRalf Rangnick’s high-pressing side bullied its way to a 3–1 win over Jordan which was tighter than the scoreline may suggest. Austria recorded just as many shots (11) as its opponents, only taking the lead late on through an own goal.\n\nAfter both sides started the competition with a pair of wins, this clash could very well prove to be a straight shootout for top spot in Group J.\n\nSports Illustrated’s FC team bring you the latest news, transfers and match coverage.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

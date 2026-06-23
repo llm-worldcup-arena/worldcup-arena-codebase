@@ -1,0 +1,350 @@
+{
+ "match_id": "4627927",
+ "date": "2026-06-22",
+ "comp": "世界杯·I组",
+ "ha_home": "中",
+ "home": "NOR",
+ "away": "SEN",
+ "score": "3-2",
+ "venue": "MetLife Stadium (New Jersey)",
+ "attendance": 80663,
+ "goals": [
+  {
+   "min": 43,
+   "side": "home",
+   "player": "Marcus Pedersen",
+   "sub": null
+  },
+  {
+   "min": 48,
+   "side": "home",
+   "player": "Erling Haaland",
+   "sub": null
+  },
+  {
+   "min": 53,
+   "side": "away",
+   "player": "Ismaila Sarr",
+   "sub": null
+  },
+  {
+   "min": 58,
+   "side": "home",
+   "player": "Erling Haaland",
+   "sub": null
+  },
+  {
+   "min": 90,
+   "side": "away",
+   "player": "Ismaila Sarr",
+   "sub": null
+  }
+ ],
+ "cards": [],
+ "stats": {
+  "射门": [
+   "13",
+   "16"
+  ],
+  "射正": [
+   "7",
+   "4"
+  ],
+  "禁区内射门": [
+   "3",
+   "7"
+  ],
+  "扑救": [
+   "3",
+   "5"
+  ],
+  "角球": [
+   "5",
+   "4"
+  ],
+  "越位": [
+   "0",
+   "4"
+  ],
+  "控球%": [
+   "42%",
+   "58%"
+  ],
+  "传中": [
+   "87",
+   "98"
+  ],
+  "传球": [
+   "282",
+   "430"
+  ],
+  "xG预期进球": [
+   "1.57",
+   "1.75"
+  ],
+  "xGOT/大机会": [
+   "1.95",
+   "1.35"
+  ]
+ },
+ "lineups": {
+  "home": [
+   {
+    "no": 1,
+    "name": "Örjan Nyland"
+   },
+   {
+    "no": 5,
+    "name": "David Moller Wolfe"
+   },
+   {
+    "no": 17,
+    "name": "Torbjörn Heggem"
+   },
+   {
+    "no": 3,
+    "name": "Kristoffer Ajer"
+   },
+   {
+    "no": 26,
+    "name": "Julian Ryerson"
+   },
+   {
+    "no": 14,
+    "name": "Fredrik Aursnes"
+   },
+   {
+    "no": 8,
+    "name": "Sander Berge"
+   },
+   {
+    "no": 10,
+    "name": "Martin Odegaard"
+   },
+   {
+    "no": 20,
+    "name": "Antonio Nusa"
+   },
+   {
+    "no": 9,
+    "name": "Erling Haaland"
+   },
+   {
+    "no": 7,
+    "name": "Alexander Sorloth"
+   },
+   {
+    "no": 6,
+    "name": "Patrick Berg"
+   },
+   {
+    "no": 22,
+    "name": "Oscar Bobb"
+   },
+   {
+    "no": 16,
+    "name": "Marcus Pedersen"
+   },
+   {
+    "no": 21,
+    "name": "Andreas Schjelderup"
+   },
+   {
+    "no": 4,
+    "name": "Leo Oestigaard"
+   },
+   {
+    "no": 19,
+    "name": "Thelo Aasgaard"
+   },
+   {
+    "no": 15,
+    "name": "Fredrik Bjørkan"
+   },
+   {
+    "no": 23,
+    "name": "Jens Hauge"
+   },
+   {
+    "no": 24,
+    "name": "Sondre Langås"
+   },
+   {
+    "no": 13,
+    "name": "Egil Selvik"
+   },
+   {
+    "no": 11,
+    "name": "Jørgen Strand Larsen"
+   },
+   {
+    "no": 25,
+    "name": "Henrik Falchener"
+   },
+   {
+    "no": 12,
+    "name": "Sander Tangvik"
+   },
+   {
+    "no": 2,
+    "name": "Morten Thorsby"
+   },
+   {
+    "no": 18,
+    "name": "Kristian Thorstvedt"
+   }
+  ],
+  "away": [
+   {
+    "no": 16,
+    "name": "Edouard Mendy"
+   },
+   {
+    "no": 25,
+    "name": "El Hadji Malick Diouf"
+   },
+   {
+    "no": 19,
+    "name": "Moussa Niakhate"
+   },
+   {
+    "no": 3,
+    "name": "Kalidou Koulibaly"
+   },
+   {
+    "no": 15,
+    "name": "Krepin Diatta"
+   },
+   {
+    "no": 26,
+    "name": "Pape Gueye"
+   },
+   {
+    "no": 5,
+    "name": "Idrissa Gueye"
+   },
+   {
+    "no": 10,
+    "name": "Sadio Mané"
+   },
+   {
+    "no": 8,
+    "name": "Lamine Camara"
+   },
+   {
+    "no": 18,
+    "name": "Ismaila Sarr"
+   },
+   {
+    "no": 11,
+    "name": "Nicolas Jackson"
+   },
+   {
+    "no": 6,
+    "name": "Pathé Ciss"
+   },
+   {
+    "no": 23,
+    "name": "Mory Diaw"
+   },
+   {
+    "no": 14,
+    "name": "Ismail Jakobs"
+   },
+   {
+    "no": 20,
+    "name": "Ibrahim Mbaye"
+   },
+   {
+    "no": 17,
+    "name": "Pape Sarr"
+   },
+   {
+    "no": 7,
+    "name": "Assane Diao"
+   },
+   {
+    "no": 21,
+    "name": "Habib Diarra"
+   },
+   {
+    "no": 9,
+    "name": "Bamba Dieng"
+   },
+   {
+    "no": 1,
+    "name": "Yehvann Diouf"
+   },
+   {
+    "no": 24,
+    "name": "Antoine Mendy"
+   },
+   {
+    "no": 22,
+    "name": "Bara Sapoko Ndiaye"
+   },
+   {
+    "no": 13,
+    "name": "Iliman Ndiaye"
+   },
+   {
+    "no": 12,
+    "name": "Cherif Ndiaye"
+   },
+   {
+    "no": 2,
+    "name": "Mamadou Sarr"
+   },
+   {
+    "no": 4,
+    "name": "Abdoulaye Seck"
+   }
+  ]
+ },
+ "missing": [],
+ "events": [
+  {
+   "min": 43,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Marcus Pedersen"
+  },
+  {
+   "min": 48,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Erling Haaland"
+  },
+  {
+   "min": 53,
+   "side": "away",
+   "type": "进球",
+   "sub": null,
+   "player": "Ismaila Sarr"
+  },
+  {
+   "min": 58,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Erling Haaland"
+  },
+  {
+   "min": 90,
+   "side": "away",
+   "type": "进球",
+   "sub": null,
+   "player": "Ismaila Sarr"
+  }
+ ],
+ "injuries": [],
+ "suspensions": [],
+ "ratings": {},
+ "quotes": [],
+ "narrative": "",
+ "prediction_note": "",
+ "_note": "macheta/Sofascore 权威硬数据；injuries/suspensions/ratings/quotes/narrative/prediction_note 待 agent WebSearch 补。",
+ "ht": "1-0"
+}

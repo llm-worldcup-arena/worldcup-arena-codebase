@@ -1,0 +1,24 @@
+{
+ "source": "fifa.com",
+ "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/jordan-algeria-match-report-highlights",
+ "title": "Jordan 1-2 Algeria | Match report and highlights",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-22",
+  "home": "JOR",
+  "away": "ALG",
+  "home_en": "Jordan",
+  "away_en": "Algeria",
+  "home_zh": "约旦",
+  "away_zh": "阿尔及利亚",
+  "comp": "小组赛·J组",
+  "match_id": "M44",
+  "slug": "2026-06-22_JOR_vs_ALG"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Goals from Nadhir Benbouali and Amine Gouiri secured a comeback win for Algeria, in the process eliminating Jordan.\nJordan 1-2 AlgeriaJordan 1-2 Algeria\nJordan goal: Al Rashdan (36) Algeria goals: Benbouali (69), Gouiri (82)\nAlgeria came from behind to defeat Jordan 2-1 and keep alive their hopes of a place in the next round at the FIFA World Cup 2026™, in the process ending debutant Jordan's campaign after two games.\nBoth teams were desperate for a positive result at San Francisco Bay Area Stadium after tasting defeat in their opening matches, and while neither was able to carve out any clear opportunities in the opening exchanges it was Algeria who were the more proactive side.\nJordan maintained their concentration impressively though, and it was instead Jamal Sellami's men who broke the deadlock in the 36th minute.\nMousa Al Tamari miscued and sliced the ball across the penalty area into the path of Nizar Al Rashdan, and he made a far cleaner connection on his effort to sweep home with the outside of his right boot.\nIt was now Algeria's turn to stay composed, and after pinning Jordan back for a prolonged spell after the restart, Nadhir Benbouali headed them level from a 69th minute corner.\nAmine Gouiri then completed the turnaround with eight minutes remaining, tucking in from close range after the ball fell to him at another corner.\nKey statKey stat\nAlgeria have now kept only one clean sheet in 15 FIFA World Cup matches. That came in the 0-0 draw against England in 2010.\nSuperior Player of the MatchSuperior Player of the Match\nIbrahim Maza (Algeria)\nWhat they said...What they said...\n“It was a very hard game. They were leading 1-0 but we had the upper hand the whole game, that was my feeling. At half time we spoke that now we have to do even more, but we have to be patient still as we had the ball nearly the whole time. Then we scored two nice goals and won the game. We are very happy. I think these three points will help us in the next game, will motivate us a lot. We have confidence now to go to the next game.” Ibrahim Maza, Algeria forward\n\"We know it's very tough to play against such a defensive block. We gave it our all, tried everything, and were rewarded with two set pieces that we had practiced. We wanted to put that loss to Argentina behind us. I am really proud of the team. When you win a World Cup match, you have to appreciate it.” Aissa Mandi, Algeria defender\n\"That’s why I said before the second match that the first game gave us confidence and a real boost, and that we were the better side. Today’s match has also given us confidence and, God willing, the belief that we can be at our best in the next game and leave a good impression of Jordanian football.\"",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

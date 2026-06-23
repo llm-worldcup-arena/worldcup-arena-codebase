@@ -1,0 +1,24 @@
+{
+ "source": "marca.com",
+ "url": "https://www.marca.com/mx/futbol/mundial/cronica/2026/06/22/6a3982c6ca474195528b45de.html",
+ "title": "Argentina - Austria: Resumen y gol Argentina vs Austria: Un histórico Messi lleva a la Albiceleste a los 16avos del Mundial 2026 - Mundial",
+ "published": "2026-06-22T19:03:54Z",
+ "tier": "2",
+ "lang": "es",
+ "match": {
+  "date": "2026-06-22",
+  "home": "ARG",
+  "away": "AUT",
+  "home_en": "Argentina",
+  "away_en": "Austria",
+  "home_zh": "阿根廷",
+  "away_zh": "奥地利",
+  "comp": "小组赛·J组",
+  "match_id": "M43",
+  "slug": "2026-06-22_ARG_vs_AUT"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Argentina - Austria: Resumen y gol Argentina vs Austria: Un histórico Messi lleva a la Albiceleste a los 16avos del Mundial 2026\nJUAN CASTRO\nDALLAS\nActualizado 22/06/2026 - 14:03 CDT\nDe nuevo él. De nuevo 'El Diez'. De nuevo Lionel Messi, que, con un doblete mágico, sigue empeñado en regalarle a su país el sueño, aunque falta mucho, de un bicampeonato inédito. Fue un inconsciente homenaje al otro 'Diez' y 'dios' del fútbol argentino, Diego Maradona, de cuyo 'Gol del Siglo' ante Inglaterra se cumplen hoy 40 años exactos. Una linda casualidad del fútbol.\nArgentina gana y todos los goles son del astro: Lionel Messi\nLa Albiceleste se clasificó para la siguiente ronda (esperemos que NO ante España) ante una Austria rocosa, pero sin imaginación. Y así es imposible hacerle cosquillas a esta campeona del mundo con todas las letras, una campeona que mereció irse de Dallas con más de dos goles de ventaja.\nLa victoria se resume en el doblete de Messi, pero no sólo. No se engañen. Ni los lectores ni los rivales. La campeona del mundo es mucho más que Leo, que ya es mucho. Pero es la seguridad del 'Cuti y Lisandro atrás; el buen pase del trío De Paul-Enzo-Mac; la movilidad de Almada... etc. Quien quiera derrocar a la campeona va a tener que ponerle músculo y juego a sus partidos\nEl triunfo se fraguó en una primera parte en la que pasaron muchas cosas, pero terminó como siempre, con un gol de Messi (en el minuto 38) que pasará a la historia del fútbol como el que le encumbró (por ahora) como máximo artillero de los Mundiales (17... y luego 18). Lo de este chico es asombroso.\n¿Cómo queda la tabla histórica de goleadores en Copas del Mundo?\nLionel Messi: 18 goles\nMarta: 17 goles\nMiroslav Klose: 16 goles\nRonaldo Nazario: 15 goles\nKylian Mbappé: 14 goles\nGerd Müller: 14 goles\nAsí está la Bota de Oro del Mundial 2026\nLionel Messi | Argentina | 5\nDeniz Undav | Alemania | 3\nJonathan David | Canada | 3\nCrysencio Summerville | Países Bajos | 2\nMikel Oyarzabal | España | 2\nAyase Ueda | Japón | 2\nCody Gakpo | Países Bajos | 2\nVinicius Junior | Brasil | 2\nMaxi Araújo | Uruguay | 2\nJohan Manzambi | Suiza | 2\nY eso que venía de tres ocasiones de (casi) gol en los minutos precedentes, incluyendo un penalti fallado en el minuto 8 (lo tiró fuera) y otras dos 'chances' salvadas de milagro por portero y defensa austríacos.\nEl choque era de pierna dura, con varias trifulcas. El músculo austríaco esa pesado, y Argentina, con mucho sentido de pertenencia, inteligencia y valentía, lo contrarrestaba con fútbol de posesión y ocasiones claras. Son unos genios para esperar el momento y saber atacar donde más duele, como hizo Medina en el pase a Messi para su gol 17 en los Mundiales.\nMessi se coloca como máximo goleador de la Copa Mundial de la FIFA y así lo celebra el Fan Fest de GuadalajaraX\nMessi sella su doblete y suma cinco goles en el Mundial 2026\nLa segunda parte fue de menos vértigo para la Albiceleste y con un problema, la sustitución de su pilar más defensivo, 'El Cuti' Romero, una pieza insustituible cuya rodilla pende de un hilo. Veremos si no es nada de cara a cuando Argentina se juega las papas.\nApenas pasaron cosas (una ocasión fallada por Julián, entre ellas), al margen de muchos cambios. Austria quitó a Alaba, metió a Arnautovic... intentó cosas, pero no hacía cosquillas.\nMessi, mientras, caminaba la cancha en espera del tercer partido ante Jordania y camino de otro sueño mundialista siendo aún más histórico. Pero, tranquilos, que antes de irse, Leo dejó de nuevo su sello (minuto 95) con el gol 18 en los Mundiales y el segundo de una Argentina rendida a los pies de su 'Dios'.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

@@ -1,0 +1,24 @@
+{
+ "source": "en.as.com",
+ "url": "https://en.as.com/soccer/france-vs-iraq-live-online-updates-goals-score-and-highlights-2026-world-cup-group-i-f202606-d/",
+ "title": "France 3 vs 0 Iraq summary:  updates, goals, score and highlights | 2026 World Cup Group I",
+ "published": "2026-06-22T17:17:42-04:00",
+ "tier": "2",
+ "lang": "es",
+ "match": {
+  "date": "2026-06-22",
+  "home": "FRA",
+  "away": "IRQ",
+  "home_en": "France",
+  "away_en": "Iraq",
+  "home_zh": "法国",
+  "away_zh": "伊拉克",
+  "comp": "小组赛·I组",
+  "match_id": "M42",
+  "slug": "2026-06-22_FRA_vs_IRQ"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Star watch: France Where do we start for the France star watch? From top to bottom, front to back this might be the most star studded side in the entire world. That doesn't always mean they are the best team in the world, but with Kylian Mbappe in front of breakout star of the season Michael Olise, and back to back Champions League winners Desire Doue and Ousmane Dembele this is a team that has endless options in the attacking third. Dembele is the Ballon d’Or winner, and one of the favorites to win it again if France has a great campaign in this World Cup. You never know when or where it’s going to come from but when you place this France side it can come from so many angles and in so many ways.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

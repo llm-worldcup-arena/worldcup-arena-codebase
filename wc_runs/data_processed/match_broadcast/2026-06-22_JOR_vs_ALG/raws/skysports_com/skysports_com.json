@@ -1,0 +1,24 @@
+{
+ "source": "skysports.com",
+ "url": "https://www.skysports.com/football/jordan-vs-algeria/report/549809",
+ "title": "World Cup 2026: Jordan 1-2 Algeria - Debutants knocked out of tournament after Algerian turnaround",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-22",
+  "home": "JOR",
+  "away": "ALG",
+  "home_en": "Jordan",
+  "away_en": "Algeria",
+  "home_zh": "约旦",
+  "away_zh": "阿尔及利亚",
+  "comp": "小组赛·J组",
+  "match_id": "M44",
+  "slug": "2026-06-22_JOR_vs_ALG"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Debutants Jordan have been knocked out of the World Cup after Algeria’s second-half turnaround 2-1 win kept their hopes of qualifying for the knockout stages alive. Nadhir Benbouali and Amine Gouiri both scored from corners in California to earn the African side their first victory of the 2026 tournament. The comeback win confirmed Argentina's place as Group J winners, with the holders to meet the Group H runners-up, currently Uruguay, in the round of 32 on July 3. But Jordan will not be in the knockout stages after a second consecutive defeat saw them eliminated with a game to spare.   The Asian side took a 36th-minute lead through Nizar Al Rashdan, whose first-time outside-of-the-boot effort beat Algerian goalkeeper Luca Zidane - son of Zinedine - to give them hope of a first World Cup point. Algeria failed to trouble Jordan in the first half, leading to half-time changes, and one of those had the desired impact as Benbouali headed in from Riyad Mahrez's corner in the 69th minute. Algeria then pushed for a winner with Jordan tiring, and it eventually came in the 82nd minute through another corner as Gouiri prodded home from a knockdown, with the goal surviving a VAR check for offside. The two-time AFCON champions held on for the win to move level on points with Austria, whom they play next in Kansas on Sunday (3am UK time) in their final Group J game with both sides potentially needing just a draw to reach the knockout stages. Jordan, meanwhile, will look to end their first-ever World Cup campaign in style as they face three-time winners Argentina in Dallas on Sunday at 3am UK time. The key moments from Santa Clara... 1: FIRST CHANCE FOR JORDAN! Al Rashdan heads wide from a free-kick after just 50 seconds! 33: MAHREZ CHANCE! The Algeria captain is sent through over the top but his prodded effort is saved behind by the Jordan goalkeeper. 36: GOAL FOR JORDAN! Al Rashdan's first-time outside-of-the-boot finish gives the Asian side their first-ever World Cup lead. 69: ALGERIA EQUALISE! Benbouali heads in from Mahrez's corner to level up with their first goal of the 2026 tournament. 82: ALGERIA TAKE THE LEAD! Gouiri finishes from close range at a corner and his winner survives a VAR check for offside. Analysis: Jordan suffer dignified exit Jordan might be out of the World Cup, but they depart with their heads held high. The debutants once again proved they can mix it at this level as they deservedly took a first-half lead. Algeria had looked toothless against an organised Jordan side who were full of belief and confidence. But much like their opening Group J defeat to Austria, the Asian side ran out of gas - and Algeria took full advantage with their bench proving the difference. Half-time substitute Benbouali scored the leveller, while substitute Anis Moussa, who replaced Mahrez in the 76th minute, provided the corner which led to Gouiri's winner. With both goals coming from corners, Jordan need to tighten up their set-piece defence if they are to go out memorably in their final group game against holders Argentina. Algeria, meanwhile, have some much-needed momentum heading into their decisive Group J clash against Austria, with Gouiri's goal - the latest winner for Algeria at a World Cup - showing they have the fighting spirit and determination to reach the round of 32.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

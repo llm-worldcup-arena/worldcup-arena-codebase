@@ -1,0 +1,16 @@
+{
+ "team": "TUR",
+ "source": "reuters.com",
+ "url": "https://www.reuters.com/sports/soccer/world-cup/turkey/",
+ "title": "Turkey at the FIFA World Cup 2026: News, Fixtures, Results & Squad | Reuters",
+ "news_date": "2026-06-23",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-23",
+ "fetched": "2026-06-23_1612",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Turkey at the FIFA World Cup 2026: News, Fixtures, Results & Squad\nVerification Required\nThe visual verification might not be accessible to you. We recommend you to use the audio verification instead. Important: after clicking play, you will hear 6 digits. Please wait until the audio finishes before typing or interacting with the page.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

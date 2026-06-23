@@ -1,0 +1,24 @@
+{
+ "source": "cronica.com.ar",
+ "url": "https://www.cronica.com.ar/depo/mundial2026/triunfo-y-pase-a-16avos-el-1x1-de-la-seleccion-argentina-ante-austria/",
+ "title": "Triunfo y pase a 16avos: el 1x1 de la Selección Argentina ante Austria",
+ "published": null,
+ "tier": "3",
+ "lang": "es",
+ "match": {
+  "date": "2026-06-22",
+  "home": "ARG",
+  "away": "AUT",
+  "home_en": "Argentina",
+  "away_en": "Austria",
+  "home_zh": "阿根廷",
+  "away_zh": "奥地利",
+  "comp": "小组赛·J组",
+  "match_id": "M43",
+  "slug": "2026-06-22_ARG_vs_AUT"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Argentina pisó fuerte y volvió a quedarse con los 3 puntos en la segunda fecha del Mundial 2026: fue ante Austria y con dos goles de Lionel Messi, que permitieron conseguir el pase a la siguiente fase.El partido, si bien tuvo un triunfo contundente desde el resultado, tuvo momentos complejos para el combinado argentino, ya que Austria pudo mantenerse a tiro en el marcador.Emiliano Martínez (7): si bien Austria tuvo sus situaciones, las pocas veces que Dibu tuvo que ser llamado respondió bien. Se lo vio seguro en los centros y con la salida prolija.Nahuel Molina (7): buen partido del lateral del Atlético Madrid, que tuvo su estreno como titular en este Mundial 2026. Mejor en la marca que en las proyecciones, y con la intensidad que lo caracteriza.Cristian Romero (8): sólido en la marca y cubriendo los espacios, mantiene un gran rendimiento junto a su compañero de saga. Salió lesionado y encendió las alarmas en Argentina, aunque no hay confirmación sobre lo sucedido.Lisandro Martínez (8): el mejor de la defensa argentina. Sobrio en la salida y atento en la marca. Se asienta como uno de los centrales titulares de la Selección.Nahuel Medina (8): segundo partido de titular para el lateral que volvió a cumplir. Intenso y férreo en la marca, tuvo algunos cruces con rivales que le costaron una amarilla.Alexis Mac Allister (7): en una posición que no es su \"preferida\", el volante del Liverpool volvió a cumplir. Clave para emprolijar las transiciones argentinas, completó un buen encuentro.Enzo Fernández (8): siempre con destellos que marcan su clase, estuvo claro en los pases cortos y preciso en los pases en profundidad. Llegó a posición de gol varias veces, aunque en pocas pudo rematar.Rodrigo De Paul (8): el motor de la mitad de la cancha. Presionó, cortó, jugó e hizo jugar. El mejor socio de Messi y de sus compañeros en el medio.Thiago Almada (7): buen descanso para las transiciones rápidas que necesitaban \"un cambio\". Le da una variante más de gambeta al equipo, que muchas veces la necesita.Lionel Messi (9): obviamente, el mejor argentino. Hizo jugar a sus compañeros y llegó varias veces al área directo a buscar el gol. Cerró una gran jugada en el primer gol y, para el segundo, la peleó y se le dio. Récord en mundiales y va por más.Lautaro Martínez (6): pese a que no termina de redondear buenos partidos y está \"peleado con el arco\" en los mundiales, su compromiso siempre está.Nicolás Otamendi (7): entró casi a los 60 minutos por la lesión de Cuti Romero. Pisó bien de entrada, ganó varias de arriba y estuvo sólido en los mano a mano. Nicolás González (7): siempre vertical y dinámico, tuvo el gol en una contra y no pateó. También, ganó de cabeza en un corner que pasó muy cerca. Julián Álvarez (6): el equipo permaneció más en su campo desde su ingreso, por lo que se dedicó más a la marca y a la presión mientras esperaba para una contra, que no se dio con claridad.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

@@ -1,0 +1,16 @@
+{
+ "team": "SWE",
+ "source": "sportsmole.co.uk",
+ "url": "https://www.sportsmole.co.uk/football/netherlands/world-cup/team-news/netherlands-vs-sweden-injury-suspension-list-predicted-xis_599531.html",
+ "title": "Team News: Netherlands vs. Sweden injury, suspension list, predicted XIs - Sports Mole",
+ "news_date": "2026-06-19",
+ "published": "2026-06-19T17:00:00Z",
+ "tier": "2",
+ "lang": "es",
+ "asof": "2026-06-23",
+ "fetched": "2026-06-23_1612",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "Netherlands and Sweden will continue their respective 2026 World Cup campaigns with a clash in Group F on Saturday.\n\nSweden are currently top of the section on three points, with Netherlands in third on one point, and here Sports Mole rounds up the team news for the game.\n\nGet FREE daily news and in-depth previews for games from the biggest leagues and competitions in world football — straight to your inbox.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

@@ -1,0 +1,24 @@
+{
+ "source": "espn.com",
+ "url": "https://www.espn.com/soccer/report/_/gameId/760455",
+ "title": "Jordan 1-2 Algeria (Jun 22, 2026) Game Analysis - ESPN",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-22",
+  "home": "JOR",
+  "away": "ALG",
+  "home_en": "Jordan",
+  "away_en": "Algeria",
+  "home_zh": "约旦",
+  "away_zh": "阿尔及利亚",
+  "comp": "小组赛·J组",
+  "match_id": "M44",
+  "slug": "2026-06-22_JOR_vs_ALG"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Two second-half goals from corners saw Algeria come from behind to beat Jordan 2-1 and keep their hopes of reaching the World Cup round-of-32 alive.\nNadhir Benobuali and Amine Gouiri grabbed the decisive goals in Santa Clara after Nizar Al Rashdan's opener for Jordan, setting up a clash with Austria to decide who finishes second behind Argentina in Group J.\nStu Forster/Getty Images\nAl Rashdan headed a free kick wide for Jordan in the opening minute as both teams had early chances, Algeria enjoying more possession in the first period with Jordan threatening when they did push forward.\nRiyad Mahrez, restored to the starting line-up, had a golden chance but could not bring the ball into a shooting position; the former Manchester City and Leicester City player also having a shot smothered by Yazeed Abulaila.\nGouiri and Farès Chaïbi also had chances, but Jordan went ahead after 35 minutes - a pullback making its way through a miskick to Al Rashdan, who found the bottom corner via a defender's heel and goalkeeper Luca Zidane's outstretched hand.\nWith Jordan seemingly happy to protect their lead, Algeria pressed for much of the second period, the lively Ibrahim Maza providing the biggest threat while Noor Al Rawabdeh fired wide at the other end on the break.\nAlgeria's pressure finally told after 68 minutes, substitute Benobuali rising highest to head home Mahrez's corner.\nThey added a second, ending debutant Jordan's hopes of reaching the last 32, when Gouiri was ruled onside by VAR as he prodded home from close range after another header from a corner.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

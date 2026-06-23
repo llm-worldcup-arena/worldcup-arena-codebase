@@ -1,0 +1,24 @@
+{
+ "source": "espn.com",
+ "url": "https://www.espn.com/soccer/match/_/gameId/760456/austria-argentina",
+ "title": "Argentina 2-0 Austria (Jun 22, 2026) Final Score - ESPN",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-22",
+  "home": "ARG",
+  "away": "AUT",
+  "home_en": "Argentina",
+  "away_en": "Austria",
+  "home_zh": "阿根廷",
+  "away_zh": "奥地利",
+  "comp": "小组赛·J组",
+  "match_id": "M43",
+  "slug": "2026-06-22_ARG_vs_AUT"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "0.79\nxG\n0.00\nxGOT\n13 yds\nDistance\nPenalty\nSituation\nLeft Foot\nShot Type\nClose Right\nGoal Zone\nOff Target\n2 of 18\nShot out of view\n23'\n0.14\nxG\n0.00\nxGOT\n9 yds\nDistance\nRegular Play\nSituation\nHeader\nShot Type\n-\nGoal Zone\nOff Target\n3 of 18\n23'\n0.10\nxG\n0.00\nxGOT\n17 yds\nDistance\nRegular Play\nSituation\nLeft Foot\nShot Type\nClose Right\nGoal Zone\nBlocked\n4 of 18\n32'\n0.07\nxG\n0.00\nxGOT\n17 yds\nDistance\nRegular Play\nSituation\nLeft Foot\nShot Type\nLow Centre\nGoal Zone\nGoal\n5 of 18\n38'\n0.24\nxG\n0.32\nxGOT\n17 yds\nDistance\nRegular Play\nSituation\nLeft Foot\nShot Type\nLow Left\nGoal Zone\nOff Target\n6 of 18\n46'\n0.03\nxG\n0.00\nxGOT\n26 yds\nDistance\nRegular Play\nSituation\nRight Foot\nShot Type\n-\nGoal Zone\nSaved\n7 of 18\n55'\n0.05\nxG\n0.05\nxGOT\n30 yds\nDistance\nFree Kick\nSituation\nRight Foot\nShot Type\nHigh Centre\nGoal Zone\nBlocked\n8 of 18\n61'\n0.10\nxG\n0.00\nxGOT\n23 yds\nDistance\nRegular Play\nSituation\nRight Foot\nShot Type\nLow Centre\nGoal Zone\nOff Target\n9 of 18\n65'\n0.05\nxG\n0.00\nxGOT\n20 yds\nDistance\nRegular Play\nSituation\nLeft Foot\nShot Type\n-\nGoal Zone\nOff Target\n10 of 18\n67'\n0.12\nxG\n0.00\nxGOT\n8 yds\nDistance\nRegular Play\nSituation\nHeader\nShot Type\n-\nGoal Zone\nOff Target\n11 of 18\n73'\n0.07\nxG\n0.00\nxGOT\n9 yds\nDistance\nRegular Play\nSituation\nHeader\nShot Type\nClose Right\nGoal Zone\nBlocked\n12 of 18\n86'\n0.21\nxG\n0.00\nxGOT\n16 yds\nDistance\nRegular Play\nSituation\nRight Foot\nShot Type\nLow Centre\nGoal Zone\nBlocked\n13 of 18\n86'\n0.07\nxG\n0.00\nxGOT\n17 yds\nDistance\nRegular Play\nSituation\nRight Foot\nShot Type\nLow Centre\nGoal Zone\nOff Target\n14 of 18\n90'+3'\n0.09\nxG\n0.00\nxGOT\n9 yds\nDistance\nRegular Play\nSituation\nHeader\nShot Type\nClose Left\nGoal Zone\nSaved\n15 of 18\n90'+4'\n0.40\nxG\n0.26\nxGOT\n12 yds\nDistance\nRegular Play\nSituation\nLeft Foot\nShot Type\nLow Centre\nGoal Zone\nBlocked\n16 of 18\n90'+5'\n0.16\nxG\n0.00\nxGOT\n12 yds\nDistance\nRegular Play\nSituation\nLeft Foot\nShot Type\nLow Left\nGoal Zone\nGoal\n17 of 18\n90'+5'\n0.20\nxG\n0.94\nxGOT\n8 yds\nDistance\nRegular Play\nSituation\nLeft Foot\nShot Type\nLow Centre\nGoal Zone\nOff Target\n18 of 18\n90'+8'\n0.04\nxG\n0.00\nxGOT\n33 yds\nDistance\nFree Kick\nSituation\nLeft Foot\nShot Type\nClose Left\nGoal Zone\nTeam Stats\n2.36\nExpected Goals\n0.53\n54%\nPossession\n46%\n5 (42%)\nShots on Goal\n1 (17%)\n2\nBig Chances Created\n1\n3\nBig Chances Missed\n1\n494 (89%)\nAccurate Passes\n401 (86%)\n50\nDuels Won\n46\n1\nSaves\n2\n13\nFouls Committed\n13\nData is currently unavailable.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}
