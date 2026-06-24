@@ -1,0 +1,24 @@
+{
+ "source": "vavel.com",
+ "url": "https://www.vavel.com/en-us/soccer/2026/06/23/1264154-england-vs-ghana-live-score-2026-fifa-world-cup.html",
+ "title": "Highlights for England 0-0 Ghana in 2026 FIFA World Cup Match | 06/23/2026 - VAVEL USA",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-23",
+  "home": "ENG",
+  "away": "GHA",
+  "home_en": "England",
+  "away_en": "Ghana",
+  "home_zh": "英格兰",
+  "away_zh": "加纳",
+  "comp": "小组赛·L组",
+  "match_id": "M45",
+  "slug": "2026-06-23_ENG_vs_GHA"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Highlights for England 0-0 Ghana in 2026 FIFA World Cup Match | 06/23/2026\nEVENT ENDED\nHighlights for England 0-0 Ghana in 2026 FIFA World Cup Match\nIn a game with few thrills, England and Ghana drew 0-0 in the World Cup, leaving the decision of who qualifies for the next round to the final matchday.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

@@ -1,0 +1,325 @@
+{
+ "match_id": "4627935",
+ "date": "2026-06-23",
+ "comp": "世界杯·L组",
+ "ha_home": "中",
+ "home": "PAN",
+ "away": "CRO",
+ "score": "0-1",
+ "venue": "BMO Field (Toronto)",
+ "attendance": 43036,
+ "goals": [
+  {
+   "min": 54,
+   "side": "away",
+   "player": "Ante Budimir",
+   "sub": null
+  }
+ ],
+ "cards": [
+  {
+   "min": 61,
+   "side": "home",
+   "player": "Yoel Barcenas",
+   "type": "黄牌"
+  },
+  {
+   "min": 90,
+   "side": "away",
+   "player": "Petar Sucic",
+   "type": "黄牌"
+  }
+ ],
+ "stats": {
+  "射门": [
+   "8",
+   "6"
+  ],
+  "射正": [
+   "1",
+   "2"
+  ],
+  "禁区内射门": [
+   "5",
+   "3"
+  ],
+  "扑救": [
+   "2",
+   "1"
+  ],
+  "角球": [
+   "7",
+   "2"
+  ],
+  "越位": [
+   "1",
+   "2"
+  ],
+  "控球%": [
+   "42%",
+   "58%"
+  ],
+  "传中": [
+   "90",
+   "115"
+  ],
+  "传球": [
+   "277",
+   "433"
+  ],
+  "xG预期进球": [
+   "0.71",
+   "0.82"
+  ],
+  "xGOT/大机会": [
+   "0.03",
+   "1.24"
+  ]
+ },
+ "lineups": {
+  "home": [
+   {
+    "no": 22,
+    "name": "Orlando Mosquera"
+   },
+   {
+    "no": 16,
+    "name": "Andres Andrade"
+   },
+   {
+    "no": 3,
+    "name": "Jose Cordoba"
+   },
+   {
+    "no": 13,
+    "name": "Jiovany Ramos"
+   },
+   {
+    "no": 2,
+    "name": "Cesar Blackman"
+   },
+   {
+    "no": 23,
+    "name": "Amir Murillo"
+   },
+   {
+    "no": 7,
+    "name": "Jose Rodriguez"
+   },
+   {
+    "no": 11,
+    "name": "Yoel Barcenas"
+   },
+   {
+    "no": 14,
+    "name": "Carlos Harvey"
+   },
+   {
+    "no": 6,
+    "name": "Cristian Martinez"
+   },
+   {
+    "no": 17,
+    "name": "Jose Fajardo"
+   },
+   {
+    "no": 15,
+    "name": "Eric Davis"
+   },
+   {
+    "no": 24,
+    "name": "Azarias Londono"
+   },
+   {
+    "no": 9,
+    "name": "Tomas Rodriguez"
+   },
+   {
+    "no": 18,
+    "name": "Cecilio Waterman"
+   },
+   {
+    "no": 8,
+    "name": "Adalberto Carrasquilla"
+   },
+   {
+    "no": 10,
+    "name": "Ismael Diaz"
+   },
+   {
+    "no": 4,
+    "name": "Fidel Escobar"
+   },
+   {
+    "no": 5,
+    "name": "Edgardo Farina"
+   },
+   {
+    "no": 20,
+    "name": "Anibal Godoy"
+   },
+   {
+    "no": 26,
+    "name": "Jorge Gutierrez"
+   },
+   {
+    "no": 1,
+    "name": "Luis Mejia"
+   },
+   {
+    "no": 25,
+    "name": "Roderick Miller"
+   },
+   {
+    "no": 19,
+    "name": "Alberto Quintero"
+   },
+   {
+    "no": 12,
+    "name": "Cesar Samudio"
+   },
+   {
+    "no": 21,
+    "name": "Cesar Yanis"
+   }
+  ],
+  "away": [
+   {
+    "no": 1,
+    "name": "Dominik Livakovic"
+   },
+   {
+    "no": 4,
+    "name": "Josko Gvardiol"
+   },
+   {
+    "no": 3,
+    "name": "Marin Pongracic"
+   },
+   {
+    "no": 6,
+    "name": "Josip Šutalo"
+   },
+   {
+    "no": 2,
+    "name": "Josip Stanišić"
+   },
+   {
+    "no": 8,
+    "name": "Mateo Kovacic"
+   },
+   {
+    "no": 10,
+    "name": "Luka Modric"
+   },
+   {
+    "no": 14,
+    "name": "Ivan Perisic"
+   },
+   {
+    "no": 16,
+    "name": "Martin Baturina"
+   },
+   {
+    "no": 24,
+    "name": "Marco Pasalic"
+   },
+   {
+    "no": 26,
+    "name": "Petar Musa"
+   },
+   {
+    "no": 11,
+    "name": "Ante Budimir"
+   },
+   {
+    "no": 9,
+    "name": "Andrej Kramaric"
+   },
+   {
+    "no": 15,
+    "name": "Mario Pasalic"
+   },
+   {
+    "no": 17,
+    "name": "Petar Sucic"
+   },
+   {
+    "no": 21,
+    "name": "Luka Sučić"
+   },
+   {
+    "no": 25,
+    "name": "Martin Erlić"
+   },
+   {
+    "no": 19,
+    "name": "Toni Fruk"
+   },
+   {
+    "no": 18,
+    "name": "Kristijan Jakic"
+   },
+   {
+    "no": 23,
+    "name": "Dominik Kotarski"
+   },
+   {
+    "no": 20,
+    "name": "Igor Matanovic"
+   },
+   {
+    "no": 7,
+    "name": "Nikola Moro"
+   },
+   {
+    "no": 12,
+    "name": "Ivor Pandur"
+   },
+   {
+    "no": 13,
+    "name": "Nikola Vlašić"
+   },
+   {
+    "no": 22,
+    "name": "Luka Vušković"
+   },
+   {
+    "no": 5,
+    "name": "Duje Ćaleta-Car"
+   }
+  ]
+ },
+ "missing": [],
+ "events": [
+  {
+   "min": 54,
+   "side": "away",
+   "type": "进球",
+   "sub": null,
+   "player": "Ante Budimir"
+  },
+  {
+   "min": 61,
+   "side": "home",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Yoel Barcenas"
+  },
+  {
+   "min": 90,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Petar Sucic"
+  }
+ ],
+ "injuries": [],
+ "suspensions": [],
+ "ratings": {},
+ "quotes": [],
+ "narrative": "",
+ "prediction_note": "",
+ "_note": "macheta/Sofascore 权威硬数据；injuries/suspensions/ratings/quotes/narrative/prediction_note 待 agent WebSearch 补。",
+ "ht": "0-0"
+}

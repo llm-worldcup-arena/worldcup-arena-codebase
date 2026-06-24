@@ -1,0 +1,345 @@
+{
+ "match_id": "4697735",
+ "date": "2026-06-23",
+ "comp": "世界杯·K组",
+ "ha_home": "中",
+ "home": "COL",
+ "away": "COD",
+ "score": "1-0",
+ "venue": "Estadio AKRON (Guadalajara)",
+ "attendance": 45358,
+ "goals": [
+  {
+   "min": 76,
+   "side": "home",
+   "player": "Daniel Munoz",
+   "sub": null
+  }
+ ],
+ "cards": [
+  {
+   "min": 56,
+   "side": "home",
+   "player": "Jhon Lucumi",
+   "type": "黄牌"
+  },
+  {
+   "min": 90,
+   "side": "away",
+   "player": "Charles Pickel",
+   "type": "黄牌"
+  },
+  {
+   "min": 90,
+   "side": "home",
+   "player": "Jefferson Lerma",
+   "type": "黄牌"
+  }
+ ],
+ "stats": {
+  "射门": [
+   "20",
+   "7"
+  ],
+  "射正": [
+   "9",
+   "1"
+  ],
+  "禁区内射门": [
+   "5",
+   "4"
+  ],
+  "扑救": [
+   "6",
+   "2"
+  ],
+  "角球": [
+   "5",
+   "4"
+  ],
+  "越位": [
+   "7",
+   "0"
+  ],
+  "控球%": [
+   "64%",
+   "36%"
+  ],
+  "传中": [
+   "102",
+   "68"
+  ],
+  "传球": [
+   "473",
+   "224"
+  ],
+  "xG预期进球": [
+   "0.79",
+   "0.42"
+  ],
+  "xGOT/大机会": [
+   "1.39",
+   "0.08"
+  ]
+ },
+ "lineups": {
+  "home": [
+   {
+    "no": 12,
+    "name": "Camilo Vargas"
+   },
+   {
+    "no": 17,
+    "name": "Johan Mojica"
+   },
+   {
+    "no": 3,
+    "name": "Jhon Lucumi"
+   },
+   {
+    "no": 23,
+    "name": "Davinson Sanchez"
+   },
+   {
+    "no": 2,
+    "name": "Daniel Munoz"
+   },
+   {
+    "no": 11,
+    "name": "Jhon Arias"
+   },
+   {
+    "no": 16,
+    "name": "Jefferson Lerma"
+   },
+   {
+    "no": 14,
+    "name": "Gustavo Puerta"
+   },
+   {
+    "no": 7,
+    "name": "Luis Diaz"
+   },
+   {
+    "no": 25,
+    "name": "Luis Suarez"
+   },
+   {
+    "no": 10,
+    "name": "James Rodriguez"
+   },
+   {
+    "no": 9,
+    "name": "Jhon Cordoba"
+   },
+   {
+    "no": 20,
+    "name": "Juan Fernando Quintero"
+   },
+   {
+    "no": 6,
+    "name": "Richard Rios"
+   },
+   {
+    "no": 4,
+    "name": "Santiago Arias"
+   },
+   {
+    "no": 21,
+    "name": "Jaminton Campaz"
+   },
+   {
+    "no": 8,
+    "name": "Jorge Carrascal"
+   },
+   {
+    "no": 5,
+    "name": "Kevin Castano"
+   },
+   {
+    "no": 18,
+    "name": "Willer Ditta"
+   },
+   {
+    "no": 26,
+    "name": "Andres Gomez"
+   },
+   {
+    "no": 19,
+    "name": "Juan Camilo Hernandez"
+   },
+   {
+    "no": 22,
+    "name": "Deiver Machado"
+   },
+   {
+    "no": 13,
+    "name": "Yerry Mina"
+   },
+   {
+    "no": 24,
+    "name": "Alvaro Montero"
+   },
+   {
+    "no": 1,
+    "name": "David Ospina"
+   },
+   {
+    "no": 15,
+    "name": "Juan Portilla"
+   }
+  ],
+  "away": [
+   {
+    "no": 1,
+    "name": "Lionel Mpasi"
+   },
+   {
+    "no": 3,
+    "name": "Steve Kapuadi"
+   },
+   {
+    "no": 4,
+    "name": "Axel Tuanzebe"
+   },
+   {
+    "no": 22,
+    "name": "Chancel Mbemba"
+   },
+   {
+    "no": 26,
+    "name": "Arthur Masuaku"
+   },
+   {
+    "no": 2,
+    "name": "Aaron Wan-Bissaka"
+   },
+   {
+    "no": 25,
+    "name": "Edo Kayembe"
+   },
+   {
+    "no": 8,
+    "name": "Samuel Moutoussamy"
+   },
+   {
+    "no": 6,
+    "name": "Ngal'ayel Mukau"
+   },
+   {
+    "no": 20,
+    "name": "Yoane Wissa"
+   },
+   {
+    "no": 17,
+    "name": "Cedric Bakambu"
+   },
+   {
+    "no": 23,
+    "name": "Simon Banza"
+   },
+   {
+    "no": 12,
+    "name": "Joris Kayembe"
+   },
+   {
+    "no": 7,
+    "name": "Nathanael Mbuku"
+   },
+   {
+    "no": 18,
+    "name": "Charles Pickel"
+   },
+   {
+    "no": 14,
+    "name": "Noah Sadiki"
+   },
+   {
+    "no": 5,
+    "name": "Dylan Batubinsika"
+   },
+   {
+    "no": 10,
+    "name": "Theo Bongonda"
+   },
+   {
+    "no": 13,
+    "name": "Meschack Elia"
+   },
+   {
+    "no": 21,
+    "name": "Matthieu Epolo"
+   },
+   {
+    "no": 16,
+    "name": "Timothy Fayulu"
+   },
+   {
+    "no": 11,
+    "name": "Gaël Kakuta"
+   },
+   {
+    "no": 19,
+    "name": "Fiston Mayele"
+   },
+   {
+    "no": 24,
+    "name": "Gedeon Kalulu"
+   },
+   {
+    "no": 9,
+    "name": "Brian Cipenga"
+   },
+   {
+    "no": 15,
+    "name": "Aaron Tshibola"
+   }
+  ]
+ },
+ "missing": [],
+ "events": [
+  {
+   "min": 8,
+   "side": "home",
+   "type": "T4",
+   "sub": "乌龙",
+   "player": "Goal Disallowed"
+  },
+  {
+   "min": 56,
+   "side": "home",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Jhon Lucumi"
+  },
+  {
+   "min": 76,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Daniel Munoz"
+  },
+  {
+   "min": 90,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Charles Pickel"
+  },
+  {
+   "min": 90,
+   "side": "home",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Jefferson Lerma"
+  }
+ ],
+ "injuries": [],
+ "suspensions": [],
+ "ratings": {},
+ "quotes": [],
+ "narrative": "",
+ "prediction_note": "",
+ "_note": "macheta/Sofascore 权威硬数据；injuries/suspensions/ratings/quotes/narrative/prediction_note 待 agent WebSearch 补。",
+ "ht": "0-0"
+}

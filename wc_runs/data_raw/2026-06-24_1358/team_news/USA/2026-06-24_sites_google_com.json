@@ -1,0 +1,16 @@
+{
+ "team": "USA",
+ "source": "sites.google.com",
+ "url": "https://sites.google.com/view/nmw7kjou/",
+ "title": "世界杯阵容官网 | 2026美加墨世界杯球队阵容 | 官方名单公布 - World Cup Squads",
+ "news_date": "2026-06-24",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-24",
+ "fetched": "2026-06-24_1358",
+ "method": "jsonld",
+ "status": "blocked",
+ "original_text": "",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

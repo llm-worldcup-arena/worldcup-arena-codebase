@@ -1,0 +1,24 @@
+{
+ "source": "espn.com.au",
+ "url": "https://www.espn.com.au/football/report/_/gameId/760460",
+ "title": "Panama 0-1 Croatia (24 Jun, 2026) Game Analysis - ESPN (AU)",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-23",
+  "home": "PAN",
+  "away": "CRO",
+  "home_en": "Panama",
+  "away_en": "Croatia",
+  "home_zh": "巴拿马",
+  "away_zh": "克罗地亚",
+  "comp": "小组赛·L组",
+  "match_id": "M46",
+  "slug": "2026-06-23_PAN_vs_CRO"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "TORONTO -- Josip Stanisic lifted a curving cross onto the boot of Ante Budimir, who tapped it into an open net in the 54th minute Tuesday, giving Croatia a 1-0 win over Panama in the FIFA World Cup.\nCroatia remains in contention for the knockout round ahead of their third and final group-stage match against Ghana on Saturday. Panama were eliminated and are still seeking a first World Cup point in two appearances.\nAfter a slow-moving first half at BMO Field, Croatia broke through Panama's strong back line after the break, with substitute Budimir finding the net just four minutes after coming on.\nThe Vatreni nearly added another goal three minutes later when 40-year-old Luka Modrić -- making his 200th international appearance -- passed ahead to Marco Pašalić on a breakaway, but Panama goalkeeper Orlando Mosquera blocked Pašalić's shot.\nPanama had three straight chances in the 67th minute to knot things up. Croatia goalkeeper Dominik Livaković made a trio of dazzling saves; on the third, he just managed to get a hand on the ball and send it over the net.\nGroup L will be decided on Saturday, with England and Ghana tied at four points and Croatia with three.\nEngland will face Los Canaleros in East Rutherford, New Jersey, while Ghana and Croatia will play in Philadelphia.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

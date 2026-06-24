@@ -1,0 +1,24 @@
+{
+ "source": "espn.com",
+ "url": "https://www.espn.com/soccer/report/_/gameId/760458",
+ "title": "England 0-0 Ghana (Jun 23, 2026) Game Analysis - ESPN",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-23",
+  "home": "ENG",
+  "away": "GHA",
+  "home_en": "England",
+  "away_en": "Ghana",
+  "home_zh": "英格兰",
+  "away_zh": "加纳",
+  "comp": "小组赛·L组",
+  "match_id": "M45",
+  "slug": "2026-06-23_ENG_vs_GHA"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Thomas Tuchel's stilted side stumbled to a 0-0 draw with well-drilled Ghana as England edged closer to the World Cup knockout phase in forgettable fashion.\nSix days on from the thrilling 4-2 victory against Croatia in Texas, things fell flat in Foxborough as the back-to-back European Championship runners-up failed to break down the Black Stars.\nEngland were a far cry from the swashbuckling side that thrilled in their Group L opener, with Tuchel's team unable to find a way through Carlos Queiroz's organised outfit as Harry Kane missed their best chance late on.\nNeither side so much as mustered a shot on target in a first half that began with widespread boos for Ghana midfielder Thomas Partey, who is scheduled to stand trial next year on seven counts of rape and one of sexual assault that he denies.\nNot even England's set-piece prowess and strength on the bench could swing a late goal, although substitute Nico O'Reilly saw a header rattle the crossbar and Kane uncharacteristically skied the rebound as they pushed for a winner.\nBoth sides looks all but assured of a place in the round of 32 after this stalemate as Tuchel's men turn their attention to Saturday's group finale against Panama at MetLife Stadium in New Jersey.\n'VAR went for a coffee!' - Ghana manager fumes at decisions vs. England\nEngland started on the front foot but Queiroz's obdurate outfit were not leaving many gaps, with a Reece James cutback dealt with before Declan Rice lasered narrowly over from distance.\nGhana sat deep, dealing with crosses and pressure before a clash of heads between Jordan Ayew and James led to a lengthy break.\nFans expressed anger at the hydration break that soon followed, appeasing advertisers rather than helping players given it was only 20 degrees Celsius at Gillette Stadium.\nRice collected England's first booking of the World Cup as half-time approached for a challenge on Jerome Opoku, who was later barged by Jude Bellingham.\nGhana took umbrage with that and manager Queiroz bellowed at the midfielder at half-time as friend Morgan Rogers ushered him away.\nEngland continued to toil and Djed Spence -- who appeared not to shake Partey's hand before kick-off -- did well to disrupt Marvin Senaya.\nThe 57th minute brought the game's first shot on target, with Noni Madueke's blocked strike followed by an Anthony Gordon effort, but England continued to struggle.\nElliot Anderson failed with a pair of headers and Madueke blazed wide, with Tuchel making a pair of changes before Jordan Pickford caused anxiety by bursting off his line to cut out a through-ball.\nGhana substitute Prince Adu was adjudged to have fouled the goalkeeper and Kane saw a shot comfortably saved before another hydration break caused further fury.\nTuchel replaced Bellingham and Anderson with Rogers and Eberechi Eze in a bid to change the course of the game, which Ghana hoped would swing their way in the 79th minute. A quick counter ended with Konsa clumsily denying Adu, who hit it onto team-mate Semenyo in an offside position as England survived.\nBukayo Saka saw a low shot parried as England pushed late on, with substitute O'Reilly seeing a header hit the bar before Kane skied the loose ball with four minutes remaining.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

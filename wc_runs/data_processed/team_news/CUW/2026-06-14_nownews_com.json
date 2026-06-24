@@ -1,0 +1,16 @@
+{
+ "team": "CUW",
+ "source": "nownews.com",
+ "url": "https://www.nownews.com/news/6846653?srsltid=AfmBOoo6bceKLKZf0noRgqLvUNQiztRLUzECpHzgmS5rIlO9wxsExlA1",
+ "title": "世界盃6/15德國VS庫拉索賽程懶人包》總分析、球員名單、預計先發 | 綜合 | 運動 | NOWnews今日新聞",
+ "news_date": "2026-06-14",
+ "published": "2026-06-14T20:24:50+08:00",
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-24",
+ "fetched": "2026-06-24_1358",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "《NOWNEWS APP》「聽新聞」功能，每日為您朗讀超過600則新聞。不需坐在電腦前或盯著手機瞧，可一邊做家事、開車、運動，讓AI語音主播用聲音陪伴您生活的每一刻。\n\n畢業於中國文化大學，曾在聯合報系經濟日報工作過一年，主跑地方產經線，累積新聞採訪、撰寫實務經驗。 之後於2016年加入《NOWNEWS今日新聞》，至今擔任體育記者採訪工作已有9年，專注於各式體育報導，曾實地...",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

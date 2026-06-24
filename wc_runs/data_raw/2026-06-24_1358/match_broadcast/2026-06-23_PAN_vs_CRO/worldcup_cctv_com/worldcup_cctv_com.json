@@ -1,0 +1,24 @@
+{
+ "source": "worldcup.cctv.com",
+ "url": "https://worldcup.cctv.com/2026/match/22920341/index.shtml",
+ "title": "2026年世界杯：巴拿马VS克罗地亚_2026年美加墨世界杯",
+ "published": null,
+ "tier": "3",
+ "lang": "zh",
+ "match": {
+  "date": "2026-06-23",
+  "home": "PAN",
+  "away": "CRO",
+  "home_en": "Panama",
+  "away_en": "Croatia",
+  "home_zh": "巴拿马",
+  "away_zh": "克罗地亚",
+  "comp": "小组赛·L组",
+  "match_id": "M46",
+  "slug": "2026-06-23_PAN_vs_CRO"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "我来说几句...\n莫斯克拉\n门将\n22号\n拉莫斯\n后卫\n13号\n科尔多瓦\n后卫\n3号\n安德拉德\n后卫\n16号\n穆里略\n后卫\n23号\n哈维\n后卫\n14号\n巴塞纳斯\n中场\n11号\n布莱克曼\n后卫\n2号\n马丁内斯\n中场\n6号\n法哈多\n前锋\n17号\nJ.L·罗德里格斯\n中场\n7号\nT·罗德里格斯\n前锋\n9号\n隆多尼奥\n前锋\n24号\n萨穆迪奥\n门将\n12号\n古铁雷斯\n后卫\n26号\n金特罗\n中场\n19号\n法里尼亚\n后卫\n5号\n亚尼斯\n中场\n21号\n卡拉斯基利亚\n中场\n8号\n埃斯科瓦尔\n后卫\n4号\n迪亚斯\n中场\n10号\n米勒\n后卫\n25号\n戴维斯\n后卫\n15号\n沃特曼\n前锋\n18号\n戈多伊\n中场\n20号\n梅希亚\n门将\n1号\n利瓦科维奇\n门将\n1号\n斯塔尼希奇\n后卫\n2号\n舒塔洛\n后卫\n6号\n蓬格拉契奇\n后卫\n3号\n格瓦迪奥尔\n后卫\n4号\n莫德里奇\n中场\n10号\n科瓦契奇\n中场\n8号\nMarc·帕沙利奇\n前锋\n24号\n巴图里纳\n中场\n16号\n佩里希奇\n前锋\n14号\n穆萨\n前锋\n26号\n马塔诺维奇\n前锋\n20号\n武什科维奇\n后卫\n22号\nL·苏契奇\n中场\n21号\n潘杜尔\n门将\n12号\n弗鲁克\n中场\n19号\nP·苏契奇\n中场\n17号\n科塔尔斯基\n门将\n23号\n亚基奇\n后卫\n18号\n埃尔利奇\n后卫\n25号\n莫罗\n中场\n7号\n弗拉希奇\n中场\n13号\n恰莱塔察尔\n后卫\n5号\nMari·帕沙利奇\n中场\n15号\n克拉马里奇\n前锋\n9号\n布迪米尔\n前锋\n11号\n球员名单\n巴拿马\n克罗地亚\n8\n射门\n6\n3\n射正\n3\n4\n射偏\n2\n7\n角球\n2\n42\n控球\n58\n19\n犯规\n12\n1\n越位\n2\n1\n黄牌\n1\n0\n红牌\n0",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

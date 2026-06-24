@@ -1,0 +1,24 @@
+{
+ "source": "fifa.com",
+ "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/england-ghana-match-report-highlights",
+ "title": "England 0-0 Ghana | Match report and highlights",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-23",
+  "home": "ENG",
+  "away": "GHA",
+  "home_en": "England",
+  "away_en": "Ghana",
+  "home_zh": "英格兰",
+  "away_zh": "加纳",
+  "comp": "小组赛·L组",
+  "match_id": "M45",
+  "slug": "2026-06-23_ENG_vs_GHA"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Both sides will enter their final match on 27 June with four points apiece following the draw at Boston Stadium.\nEngland 0-0 GhanaEngland 0-0 Ghana\nAn inspired defensive display ensured Ghana earned a goalless draw with England at the FIFA World Cup 2026™.\nIt was a first half punctuated by perspiration rather than inspiration. Ghana stood tall against wave after wave of England pressure, with the Three Lions' only half-chance coming through a looping Declan Rice header which cleared the crossbar.\nAfter the break, Elliot Anderson saw a close-range header blocked shortly before Anthony Gordon fired an effort into the midriff of goalkeeper Benjamin Asare. Harry Kane was next to try his luck with a low drive, but Asare was again equal to it.\nGhana, meanwhile, looked threatening in their forays forward, and sliced England open with just shy of ten minutes to go. Abdul Fatawu was sent through on Jordan Pickford, and while Ezri Konsa got back to foil his initial attempt, the winger's second effort was blocked just in front of the goalline by team-mate Antoine Semenyo.\nEngland saved their best chances for the 87th minute. A flowing move ended with Reece James crossing for Nico O'Reilly, whose back-post header came back off the crossbar. The loose ball fell to Kane, but he blazed his effort high into the Boston sky.\nThe result ensures England and Ghana will enter the final matchday of Group L in the top two. A point from their final matches against Panama and Croatia respectively will secure both of a spot in the Round of 32.\nKey statKey stat\nEngland have now drawn one of their group matches 0-0 in four of the previous five tournaments. They went goalless against Algeria at South Africa 2010, Costa Rica at Brazil 2014 and USA at Qatar 2022.\nMichelob Ultra Superior Player of the MatchMichelob Ultra Superior Player of the Match\nJude Bellingham (England)\nLoaded: 0%\n0:00\nProgress: 0%\n0:00\nProgress: 0%\n00:00 / 00:31\n/\nDuration Time 0:31\nRemaining Time -0:31\nBellingham: Ghana did a great jobBellingham: Ghana did a great job\nThe Englishman reflects on Ghana's strong defensive following their goalless draw in Boston.The Englishman reflects on Ghana's strong defensive following their goalless draw in Boston.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

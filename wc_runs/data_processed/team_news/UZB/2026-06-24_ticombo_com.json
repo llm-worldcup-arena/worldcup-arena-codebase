@@ -1,0 +1,16 @@
+{
+ "team": "UZB",
+ "source": "ticombo.com",
+ "url": "https://www.ticombo.com/zh/world-cup-2026/teams/uzbekistan",
+ "title": "关于入围2026年世界杯的 乌兹别克斯坦 队的一切。",
+ "news_date": "2026-06-24",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-24",
+ "fetched": "2026-06-24_1358",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "关于入围2026年世界杯的 乌兹别克斯坦 队的一切。\n德国\nUnter den Linden 24, 10117 Berlin, Germany\n英国\n167 City Road, London, Greater London, EC1V 1AW, United Kingdom\n美国\n131 Continental Dr, Suite 305, Newark, Delaware 19713, United States\n瑞士\nDorfstrasse 52a, 6390 Engelberg, Switzerland\n保加利亚\nRegus Sofia City West, bul Totleben 53-55, 1606 Sofia, Bulgaria\n阿联酋\nUAE Dubai Silicon Oasis, DDP Building A1, Office 302, Dubai, United Arab Emirates\n墨西哥\nAv Chapultepec 360, Roma Norte, Cuauhtémoc, 06700 Ciudad de México, CDMX, Mexico",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

@@ -1,0 +1,24 @@
+{
+ "source": "elpais.com",
+ "url": "https://elpais.com/deportes/mundial-futbol/2026-06-23/cristiano-ronaldo-al-fin-se-une-al-show-doblete-ante-uzbekistan-y-record-historico.html",
+ "title": "Cristiano Ronaldo al fin se une al ‘show’ del Mundial: doblete ante Uzbekistán y récord histórico",
+ "published": "2026-06-23T21:49:37+02:00",
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-23",
+  "home": "POR",
+  "away": "UZB",
+  "home_en": "Portugal",
+  "away_en": "Uzbekistan",
+  "home_zh": "葡萄牙",
+  "away_zh": "乌兹别克斯坦",
+  "comp": "小组赛·K组",
+  "match_id": "M47",
+  "slug": "2026-06-23_POR_vs_UZB"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Y a la segunda apareció el único que faltaba en la fiesta. Cristiano, la gran estrella que quedaba por irrumpir en el Mundial que encendieron los goles y las actuaciones iluminadoras de Messi, Mbappé, Haaland y Kane, se desquitó con el tanto que descorchó el marcador para Portugal ante Uzbekistán después de todo el barullo que se había generado en torno a él tras el empate contra Congo en el estreno. Su diana tempranera lo liberó a él, el primer futbolista en la historia en marcar en seis Copas del Mundo, y liberó también a la Seleção, que fluyó desde el manejo de Vitinha y Neves y abrochó la función en el primer tramo con el doblete de Ronaldo y la falta que convirtió Nuno Mendes. Por mucho que enfrente estuviera el flojo combinado de Fabio Cannavaro, el triunfo y el juego fueron muy convincentes y entusiasmaron a Portugal, que el domingo se jugará en Miami el primer puesto del grupo K ante Colombia. La obra coral de la Seleção llegó después de que Roberto Martínez hiciera dos cambios. El recuperado Rúben Dias, el jefe de la defensa, volvió al once por el lesionado Tomás Araújo y João Félix sustituyó en una de las alas a Bernardo Silva. El equipo salió inflamado en el techado y moderno Houston Stadium. El balón le corría mucho a Portugal desde el manejo del genial Vitinha y la verticalidad y velocidad de jugadores como Pedro Neto, Cancelo y Nuno Mendes. Uzbekistán veía cómo una tras otra le llovían ocasiones en el área. Una buena triangulación por el sector derecho entre Cancelo, Neto y Neves terminó en córner después de que Abdullaev desviara el disparo franco de Bruno Fernandes. El grupo luso trenzaba con mucha celeridad si tenía que desnudar a un rival encastillado y también era capaz de lanzar contras muy profundas como la que Ronaldo no definió por centímetros tras un centro de Nuno Mendes. La puesta en escena de una de las candidatas para ganar el Mundial fue apabullante y también efectiva en cuanto Cristiano transformó en el 6 una entrega de Cancelo. El delantero se anticipó a los centrales como en los viejos tiempos con un desmarque fantástico y enjauló el balón al primer toque. Su tanto lo convirtió en el segundo futbolista más mayor en marcar en un Mundial al hacerlo con 41 años y 138 días, solo por detrás de los 42 años y 39 días del camerunés Roger Milla en 1994, pero sobre todo calmó a una selección que había visto engordar el ruido en torno a su emblema en la última semana. La sonrisa de Roberto Martínez en el banquillo y la sensación de alivio que desprendió Ronaldo, que acumulaba diez partidos sin marcar en grandes torneos, fueron reveladoras. La función de Cristiano fue muy dominante desde el rol limitado que ha asumido en los estertores de su carrera: un delantero fijo que estira a los centrales, combina de cara y mata en el remate. Los aficionados portugueses gritaron poseídos su nombre cuando se preparó para lanzar una falta en la frontal cometida sobre Pedro Neto. El tiro franco estaba mejor orientado para un zurdo y fue Nuno Mendes quien lo convirtió para sorpresa del público y del guardameta Nematov, que no se esperaba que fuera el lateral quien disparara. Cristiano se llevó la mano a la sien en la celebración para recalcar la inteligencia del embuste y de la jugada. De Uzbekistán no hubo más noticias en la portería de Diogo Costa que un gol anulado a Ganiev por una falta clara de Fayzullaev sobre Cancelo. El grupo de Cannavaro asistió inocuo al show de Portugal y de Cristiano, que ya mató el choque en el 39 en una contra en la que Bruno Fernandes alumbró una entrega al espacio. Sin más trama que saber cuánto iba a crecer la goleada y la cuenta de CR7, Roberto Martínez dio carrete a Semedo, Conceição, Trincão, Bernardo Silva y Leão, que completó la goleada después del tanto de Nematov en propia puerta. Ronaldo se quedó sin el hat-trick que rozó una y otra vez, pero el icono de Portugal se llevó el MVP y sobre todo dejó al fin su huella en su sexto Mundial.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

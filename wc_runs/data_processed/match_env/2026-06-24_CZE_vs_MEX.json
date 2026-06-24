@@ -1,0 +1,40 @@
+{
+ "match": {
+  "slug": "2026-06-24_CZE_vs_MEX",
+  "date": "2026-06-24",
+  "home": "CZE",
+  "away": "MEX",
+  "round": "group",
+  "group": "A"
+ },
+ "kickoff": {
+  "美东": "2026-06-24T21:00:00-04:00",
+  "北京": "06-25 09:00"
+ },
+ "venue": {
+  "name": "Estadio Azteca",
+  "city": "Mexico City",
+  "altitude_m": 2240,
+  "roof": "open",
+  "surface": "grass"
+ },
+ "weather": {
+  "开球时段": {
+   "温度C": 16.6,
+   "体感C": 17.8,
+   "降水概率%": 94,
+   "降水mm": 1.6,
+   "风速kmh": 2.2,
+   "湿度%": 87,
+   "天况": "阵雨"
+  },
+  "source": "open-meteo(免费预报API)",
+  "fetched": "2026-06-24_1358",
+  "_note": "临近开球建议 --refresh 刷新"
+ },
+ "referee": {
+  "name": null,
+  "_note": "待 WebSearch FIFA指派公告"
+ },
+ "_note": "环境=比赛+时间+地点 确定;天气为开球时段;顶棚 retractable/fixed-canopy 时天气影响有限。"
+}

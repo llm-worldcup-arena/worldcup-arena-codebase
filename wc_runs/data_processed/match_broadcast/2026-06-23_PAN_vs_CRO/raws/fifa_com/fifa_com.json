@@ -1,0 +1,24 @@
+{
+ "source": "fifa.com",
+ "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/panama-croatia-match-report-highlights",
+ "title": "Panama 0-1 Croatia | Match report and highlights",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-23",
+  "home": "PAN",
+  "away": "CRO",
+  "home_en": "Panama",
+  "away_en": "Croatia",
+  "home_zh": "巴拿马",
+  "away_zh": "克罗地亚",
+  "comp": "小组赛·L组",
+  "match_id": "M46",
+  "slug": "2026-06-23_PAN_vs_CRO"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Panama put up an impressive showing and went close on several occasions, but it was ultimately a day of celebration for Croatia as Luka Modric made his 200th appearance.\nPanama 0-1 CroatiaPanama 0-1 Croatia\nCroatia goal: Budimir (54)\nCroatia kick-started their FIFA World Cup 2026™ campaign with a hard-fought 1-0 victory over Panama, a result that also confirmed Los Canaleros' elimination from the competition with one game remaining.\nPanama were the better side in the first half at Toronto Stadium, and very nearly opened the scoring in the 23rd minute when Croatia goalkeeper Dominik Livakovic did superbly to tip Jose Luis Rodriguez’s powerful header on to the crossbar.\nCroatia established more of a foothold after the interval though, and took the lead in the 54th minute when substitute Ante Budimir tucked in at the back post after Josip Stanisic’s delicious low cross from the right.\nMarco Pasalic had a glorious chance to double his side’s lead three minutes later, but was first denied by Panama goalkeeper Orlando Mosquera and then blazed the rebound off target.\nPanama also continued to threaten, but found Livakovic in inspired form between the posts and were unable to muster the goal they needed to secure a maiden World Cup point.\nInstead it was all smiles for Croatia and their inspirational captain Luka Modric, who celebrated his 200th international cap with yet another win on football's greatest stage.\nGroup L\nGroup L\nPWDLGFGAGDTCSPtsForm\n1\nEngland\nENG\n2 1 0 4 2 -1 4\n-\n-\n-\n\n2\nGhana\nGHA\n2 1 0 1 0 1 -2 4\n-\n-\n-\n\n3\nCroatia\nCRO\n2 1 0 1 3 4 -1 -1 3\n-\n-\n-\n\n4\nPanama\nPAN\n2 0 2 0 2 -2 -3 0\n-\n-\n-\n\nKey statKey stat\nLuka Modric has featured in each of Croatia’s last 21 matches at the FIFA World Cup™, a sequence stretching back to their second group-stage game against Japan in 2006\nMichelob Ultra Superior Player of the MatchMichelob Ultra Superior Player of the Match\nCristian Martinez (Panama)\nWhat they said...What they said...\n\"We played well. We fought until the end, staying true to our identity and the only thing I can say is that I am proud of my players. They played a great game, we went toe-to-toe with Croatia. That’s just how football goes. They had one clear chance and scored it. The truth is that they did not create too much danger against us. I think we were brave in this match and once again, I’m proud of the boys.\" Thomas Christiansen, Panama coach\n\"I want to congratulate the opponent, who was very good today and gave us a lot of difficulties. To be honest, I didn’t expect it to be this difficult. We didn’t react the best, maybe that was due to the pressure as we really needed these three points. I’m glad we were able to win Luka [Modric]’s 200th game. He played excellently today, at 40 years of age. We’re so happy to have him in the national team.\"",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

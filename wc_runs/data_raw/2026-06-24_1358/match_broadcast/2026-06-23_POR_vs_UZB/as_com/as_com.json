@@ -1,0 +1,24 @@
+{
+ "source": "as.com",
+ "url": "https://as.com/futbol/mundial/portugal-uzbekistan-hoy-en-directo-fase-de-grupos-del-mundial-2026-ultima-hora-del-grupo-k-f202606-d/",
+ "title": "Portugal 5-0 Uzbekistán: resumen, goles y resultado",
+ "published": "2026-06-23T17:00:22+02:00",
+ "tier": "2",
+ "lang": "es",
+ "match": {
+  "date": "2026-06-23",
+  "home": "POR",
+  "away": "UZB",
+  "home_en": "Portugal",
+  "away_en": "Uzbekistan",
+  "home_zh": "葡萄牙",
+  "away_zh": "乌兹别克斯坦",
+  "comp": "小组赛·K组",
+  "match_id": "M47",
+  "slug": "2026-06-23_POR_vs_UZB"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "El eterno capitán de Portugal únicamente necesitó seis minutos para silenciar todas las críticas del estreno y hacer historia al convertirse en el único jugador en marcar en seis mundiales.Cristiano se anticipó en el primer palo para rematar el centro raso de Cancelo.A diferencia del debut, la Seleçao no bajó el ritmo y diez minutos después llegó el segundo con un gran lanzamiento de falta de Nuno Mendes al palo del portero después de que Cristiano se la dejara.El parón provocó un bajón en el ritmo luso e incluso marcó G'aniev, pero fue anulado por el VAR debido a una clara falta sobre Cancelo.Antes del descanso, Cristiano culminó su doblete tras cruzarla ante el portero en un contragolpe lanzado por Bruno Fernandes.Portugal y Cristiano ya están aquí.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

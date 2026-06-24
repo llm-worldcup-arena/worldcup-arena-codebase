@@ -1,0 +1,24 @@
+{
+ "source": "sports.yahoo.com",
+ "url": "https://sports.yahoo.com/soccer/fifa-world-cup/uzbekistan-portugal-13587237/",
+ "title": "Portugal 5 - 0 Uzbekistan: Final score, results, recap, box score, stats - Yahoo Sports",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-23",
+  "home": "POR",
+  "away": "UZB",
+  "home_en": "Portugal",
+  "away_en": "Uzbekistan",
+  "home_zh": "葡萄牙",
+  "away_zh": "乌兹别克斯坦",
+  "comp": "小组赛·K组",
+  "match_id": "M47",
+  "slug": "2026-06-23_POR_vs_UZB"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Portugal 5 - 0 Uzbekistan: Final score, results, recap, box score, stats\nSubstitution - In\n23 - Sherzod Esanov\nSubstitution - Out\n7 - Otabek Shukurov\nSubstitution - In\n10 - Ruslanbek Jiyanov\nSubstitution - Out\n24 - Behruzjon Karimov\nGoal\n17 - Rafael Leão\nSubstitution - In\n17 - Rafael Leão\nSubstitution - Out\n23 - Vitinha\nSubstitution - In\n10 - Bernardo Silva\nSubstitution - Out\n15 - Joao Neves\nSubstitution - In\n21 - Igor Sergeev\nSubstitution - Out\n22 - Abbosbek Fayzullaev\nYellow Card\n13 - Renato Veiga\nSubstitution - In\n16 - Francisco Trincao\nSubstitution - Out\n11 - João Félix\nGoal\n12 - Abduvohid Nematov\nSubstitution - In\n3 - Khojiakbar Alijonov\nSubstitution - Out\n13 - Sherzod Nasrullaev\nSubstitution - In\n6 - Akmal Mozgovoy\nSubstitution - Out\n9 - Odiljon Xamrobekov\nSubstitution - In\n26 - Francisco Conceicao\nSubstitution - Out\n18 - Pedro Neto\nSubstitution - In\n2 - Nelson Semedo\nSubstitution - Out\n20 - João Cancelo",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

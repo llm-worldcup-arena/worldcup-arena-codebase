@@ -1,0 +1,16 @@
+{
+ "team": "TUR",
+ "source": "nownews.com",
+ "url": "https://www.nownews.com/news/6846351?srsltid=AfmBOopLVYokx2W6mFTUGsG1qS_KC0altFnTaDb3YbfL5krk4vhhiGQJ",
+ "title": "世界盃6/14澳洲VS土耳其賽程懶人包》全分析、球員名單、預計先發 | 綜合 | 運動 | NOWnews今日新聞",
+ "news_date": "2026-06-13",
+ "published": "2026-06-13T23:00:00+08:00",
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-24",
+ "fetched": "2026-06-24_1358",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "《NOWNEWS APP》「聽新聞」功能，每日為您朗讀超過600則新聞。不需坐在電腦前或盯著手機瞧，可一邊做家事、開車、運動，讓AI語音主播用聲音陪伴您生活的每一刻。\n\n熱愛運動卻當不了職業運動員，於是走上體育記者一職。 待過傳統報業、雜誌與論壇，再重回網路新媒體，期望透過文字，傳遞更多運動場上的精采時刻。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

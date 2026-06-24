@@ -1,0 +1,16 @@
+{
+ "team": "SEN",
+ "source": "sports.cctv.com",
+ "url": "https://sports.cctv.com/2026/06/23/VIDExnjEm5JK2gikYLIX06v4260623.shtml",
+ "title": "[世界杯]I组第2轮：挪威3-2塞内加尔 哈兰德集锦",
+ "news_date": "2026-06-24",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-24",
+ "fetched": "2026-06-24_1358",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "央视网消息：北京时间6月23日，2026年美加墨世界杯I组第2轮挪威迎战塞内加尔。全场比赛结束，最终挪威3-2战胜塞内加尔，哈兰德上演梅开二度。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

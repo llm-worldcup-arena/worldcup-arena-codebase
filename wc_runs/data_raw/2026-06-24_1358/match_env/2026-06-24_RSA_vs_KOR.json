@@ -1,0 +1,40 @@
+{
+ "match": {
+  "slug": "2026-06-24_RSA_vs_KOR",
+  "date": "2026-06-24",
+  "home": "RSA",
+  "away": "KOR",
+  "round": "group",
+  "group": "A"
+ },
+ "kickoff": {
+  "美东": "2026-06-24T21:00:00-04:00",
+  "北京": "06-25 09:00"
+ },
+ "venue": {
+  "name": "Estadio BBVA",
+  "city": "Guadalupe, Nuevo León",
+  "altitude_m": 540,
+  "roof": "open",
+  "surface": "grass"
+ },
+ "weather": {
+  "开球时段": {
+   "温度C": 30.9,
+   "体感C": 30.1,
+   "降水概率%": 0,
+   "降水mm": 0.0,
+   "风速kmh": 23.9,
+   "湿度%": 45,
+   "天况": "晴"
+  },
+  "source": "open-meteo(免费预报API)",
+  "fetched": "2026-06-24_1358",
+  "_note": "临近开球建议 --refresh 刷新"
+ },
+ "referee": {
+  "name": null,
+  "_note": "待 WebSearch FIFA指派公告"
+ },
+ "_note": "环境=比赛+时间+地点 确定;天气为开球时段;顶棚 retractable/fixed-canopy 时天气影响有限。"
+}

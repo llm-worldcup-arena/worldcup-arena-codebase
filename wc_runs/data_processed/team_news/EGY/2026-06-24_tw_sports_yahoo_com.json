@@ -1,0 +1,16 @@
+{
+ "team": "EGY",
+ "source": "tw.sports.yahoo.com",
+ "url": "https://tw.sports.yahoo.com/news/%E8%96%A9%E6%8B%89%E8%B5%AB%E6%A2%85%E9%96%8B%E4%BA%8C%E5%BA%A6-%E5%9F%83%E5%8F%8A3%E6%AF%940%E6%93%8A%E6%95%97%E5%90%89%E5%B8%83%E5%9C%B0-%E6%AD%A3%E5%BC%8F%E5%8F%96%E5%BE%972026%E4%B8%96%E7%95%8C%E7%9B%83%E5%8F%83%E8%B3%BD%E8%B3%87%E6%A0%BC-051813605.html",
+ "title": null,
+ "news_date": "2026-06-24",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-24",
+ "fetched": "2026-06-24_1358",
+ "method": "fail",
+ "status": "blocked",
+ "original_text": "",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

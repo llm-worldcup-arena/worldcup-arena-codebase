@@ -1,0 +1,40 @@
+{
+ "match": {
+  "slug": "2026-06-24_SCO_vs_BRA",
+  "date": "2026-06-24",
+  "home": "SCO",
+  "away": "BRA",
+  "round": "group",
+  "group": "C"
+ },
+ "kickoff": {
+  "美东": "2026-06-24T18:00:00-04:00",
+  "北京": "06-25 06:00"
+ },
+ "venue": {
+  "name": "Hard Rock Stadium",
+  "city": "Miami Gardens, Florida",
+  "altitude_m": 3,
+  "roof": "open",
+  "surface": "grass"
+ },
+ "weather": {
+  "开球时段": {
+   "温度C": 30.9,
+   "体感C": 34.2,
+   "降水概率%": 22,
+   "降水mm": 0.0,
+   "风速kmh": 12.5,
+   "湿度%": 61,
+   "天况": "雷雨"
+  },
+  "source": "open-meteo(免费预报API)",
+  "fetched": "2026-06-24_1358",
+  "_note": "临近开球建议 --refresh 刷新"
+ },
+ "referee": {
+  "name": null,
+  "_note": "待 WebSearch FIFA指派公告"
+ },
+ "_note": "环境=比赛+时间+地点 确定;天气为开球时段;顶棚 retractable/fixed-canopy 时天气影响有限。"
+}

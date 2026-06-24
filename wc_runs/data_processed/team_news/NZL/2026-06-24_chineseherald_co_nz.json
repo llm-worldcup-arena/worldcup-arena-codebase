@@ -1,0 +1,16 @@
+{
+ "team": "NZL",
+ "source": "chineseherald.co.nz",
+ "url": "https://www.chineseherald.co.nz/news/entertainment/fifa-world-cup-2026-opening/",
+ "title": "世界杯开幕！中国队也参赛了？网友：首发是LABUBU和马宁…… | 新西兰中文先驱网",
+ "news_date": "2026-06-24",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-24",
+ "fetched": "2026-06-24_1358",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "{{index+1}} /{{images.length}} {{images[index].",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

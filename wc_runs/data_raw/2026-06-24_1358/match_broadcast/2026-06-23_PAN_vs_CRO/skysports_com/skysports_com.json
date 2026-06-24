@@ -1,0 +1,24 @@
+{
+ "source": "skysports.com",
+ "url": "https://www.skysports.com/football/news/11095/13554940/world-cup-2026-panama-0-1-croatia-ante-budimir-scores-from-bench-to-kickstart-2018-finalists-tournament",
+ "title": "World Cup 2026: Panama 0-1 Croatia - Ante Budimir scores from bench to kickstart 2018 finalists' tournament",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-23",
+  "home": "PAN",
+  "away": "CRO",
+  "home_en": "Panama",
+  "away_en": "Croatia",
+  "home_zh": "巴拿马",
+  "away_zh": "克罗地亚",
+  "comp": "小组赛·L组",
+  "match_id": "M46",
+  "slug": "2026-06-23_PAN_vs_CRO"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Ante Budimir came off the bench to ignite Croatia's World Cup and eliminate Panama as the 2018 finalists won 1-0 in Toronto. The half-time change settled a game of few clear-cut chances as he bundled home Josip Stanisic's excellent cross at the back post nine minutes after coming on, as Croatia bounced back from their opening-game defeat to England. There was little to worry them defensively but knowing a victory would give them a strong chance of reaching the last 32, they found the Central Americans a tough nut to crack before half-time, when a double change from Zlatko Dalic had the desired effect, hooking Petar Musa and Josko Gvardiol for Andre Kramaric and Budimir.   Within 10 minutes Stanisic's intricate one-two with Mario Pasalic on the flank opened up space for the Bayern Munich full-back, and his dangerous delivery was allowed to travel right through the six-yard box and reach an unmarked Budimir on the far side, where he could not miss. Pasalic should have doubled the lead minutes later when played clean through as Croatia countered from a corner, but aimed a dink too close to Orlando Mosquera's body before turning the rebound wide from a tight angle. Ultimately it mattered little, with Croatia in a strong position to progress and Panama only playing for pride when they face England on Saturday night. The key moments from Toronto... 23: SAVE! Livakovic is at full stretch to deny Panama's Rodriguez, but the offside flag eventually goes up against the winger. 46: SUBS! Gvardiol and Musa are hooked, with Kramaric and Budimir coming on. 54: GOAL! Budimir makes a near-instant impact by prodding home Stanisic's excellent cross with a late run to the back post. 57: BIG CHANCE! It should be two as Pasalic is played clean through over the half-way line - but his dink is saved by Mosquera before he is forced wide by the rebound and misses. 69: SAVE! Another moment for Livakovic, this time without the aid of an offside flag, as he shows good reactions to keep out Harvey's effort.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

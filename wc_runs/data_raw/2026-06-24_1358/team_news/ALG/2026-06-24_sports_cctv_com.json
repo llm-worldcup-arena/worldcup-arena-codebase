@@ -1,0 +1,16 @@
+{
+ "team": "ALG",
+ "source": "sports.cctv.com",
+ "url": "https://sports.cctv.com/2026/06/24/VIDEcgiWdduFI4Wo60cZ06Fo260624.shtml",
+ "title": "[世界杯]费尔南德斯直塞禁区 C罗破门梅开二度",
+ "news_date": "2026-06-24",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-24",
+ "fetched": "2026-06-24_1358",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "央视网消息：北京时间6月24日，2026年美加墨世界杯K组第2轮，葡萄牙VS乌兹别克斯坦，第39分钟，费尔南德斯直塞禁区，C罗破门梅开二度，葡萄牙3-0乌兹别克斯坦。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

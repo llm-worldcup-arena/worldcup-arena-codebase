@@ -1,0 +1,24 @@
+{
+ "source": "espn.com",
+ "url": "https://www.espn.com/soccer/report/_/gameId/760461",
+ "title": "Portugal 5-0 Uzbekistan (Jun 23, 2026) Game Analysis - ESPN",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-23",
+  "home": "POR",
+  "away": "UZB",
+  "home_en": "Portugal",
+  "away_en": "Uzbekistan",
+  "home_zh": "葡萄牙",
+  "away_zh": "乌兹别克斯坦",
+  "comp": "小组赛·K组",
+  "match_id": "M47",
+  "slug": "2026-06-23_POR_vs_UZB"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Cristiano Ronaldo announced his arrival at the 2026 World Cup with two goals as Portugal ignited their campaign with a 5-0 thrashing of Uzbekistan.\nPortugal and Ronaldo were heavily criticised after an uninspiring 1-1 draw in their Group K opener against DR Congo, but they came alive under the roof at the Houston Stadium on Tuesday.\nNuno Mendes and Rafael Leão were also on target, while Uzbekistan conceded an own goal in a convincing performance by Roberto Martinez's side.\nThere had been much focus on Ronaldo's status in the team, but Martinez stuck with the 41-year-old and was rewarded with a determined display.\nRonaldo was eager to get off the mark after strong starts to the tournament by fellow world stars such as Lionel Messi, Kylian Mbappé, Harry Kane and Erling Haaland.\nCristiano Ronaldo scored twice in their win over Uzbekistan.\nHakan Akgun/Anadolu via Getty Images\nHe needed just six minutes to find the net, becoming the first player to score in six World Cups in the process.\nHe had already spurned one chance as he failed to connect with a brilliant cross from Mendes, but he made no mistake when he swivelled and fired in first time at the near post from a João Cancelo ball.\nBruno Fernandes also had a shot deflected over in a strong start and Mendes doubled the lead from a free-kick in the 17th minute.\nUzbekistan feared a Ronaldo strike from the edge of the box, but the former Real Madrid star made only the slightest movement as he allowed Mendes to run up and drive home.\nUzbekistan, managed by Italy's 2006 World Cup-winning captain Fabio Cannavaro, thought they had pulled one back with a stunning strike from Azizjon Ganiev just before the half-hour. It was ruled out for a foul on Cancelo in the build-up by Abbosbek Fayzullaev.\nRonaldo compounded their frustration when he raced on to a well-weighted ball by Fernandes and finished coolly.\nRonaldo went close again just before the break as he just beat goalkeeper Abduvohid Nematov to the ball, but his chip was cleared off the line.\nRonaldo celebrates with teammates after scoring his second goal.\nGrzegorz Wajda/Eurasia Sport Images/Getty Images\nFayzullaev shot straight at Diogo Costa as Uzbekistan briefly threatened after the restart, but Ronaldo was denied by Nematov at the other end.\nPortugal's fourth came on the hour when a low ball into the box took a series of deflections and ended up in the net after ricocheting off Abdukodir Khusanov and Nematov.\nRonaldo forced a fine save from Nematov as he continued to chase a hat-trick and Leao completed the rout when he lashed into the roof of the net when a clearance rolled into his path.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

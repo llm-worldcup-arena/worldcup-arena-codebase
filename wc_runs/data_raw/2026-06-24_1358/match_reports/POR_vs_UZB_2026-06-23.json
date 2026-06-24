@@ -1,0 +1,384 @@
+{
+ "match_id": "4627929",
+ "date": "2026-06-23",
+ "comp": "世界杯·K组",
+ "ha_home": "中",
+ "home": "POR",
+ "away": "UZB",
+ "score": "5-0",
+ "venue": "NRG Stadium (Houston)",
+ "attendance": 68777,
+ "goals": [
+  {
+   "min": 6,
+   "side": "home",
+   "player": "Cristiano Ronaldo",
+   "sub": null
+  },
+  {
+   "min": 17,
+   "side": "home",
+   "player": "Nuno Mendes",
+   "sub": null
+  },
+  {
+   "min": 39,
+   "side": "home",
+   "player": "Cristiano Ronaldo",
+   "sub": null
+  },
+  {
+   "min": 60,
+   "side": "home",
+   "player": "Abduvokhid Nematov",
+   "sub": "乌龙"
+  },
+  {
+   "min": 87,
+   "side": "home",
+   "player": "Rafael Leão",
+   "sub": null
+  }
+ ],
+ "cards": [
+  {
+   "min": 14,
+   "side": "away",
+   "player": "Odildzhon Khamrobekov",
+   "type": "黄牌"
+  },
+  {
+   "min": 68,
+   "side": "home",
+   "player": "Renato Veiga",
+   "type": "黄牌"
+  }
+ ],
+ "stats": {
+  "射门": [
+   "17",
+   "7"
+  ],
+  "射正": [
+   "9",
+   "2"
+  ],
+  "禁区内射门": [
+   "5",
+   "2"
+  ],
+  "扑救": [
+   "3",
+   "3"
+  ],
+  "角球": [
+   "3",
+   "2"
+  ],
+  "越位": [
+   "2",
+   "2"
+  ],
+  "控球%": [
+   "66%",
+   "34%"
+  ],
+  "传中": [
+   "128",
+   "77"
+  ],
+  "传球": [
+   "561",
+   "262"
+  ],
+  "xG预期进球": [
+   "1.64",
+   "0.2"
+  ],
+  "xGOT/大机会": [
+   "3.49",
+   "0.09"
+  ]
+ },
+ "lineups": {
+  "home": [
+   {
+    "no": 1,
+    "name": "Diogo Costa"
+   },
+   {
+    "no": 25,
+    "name": "Nuno Mendes"
+   },
+   {
+    "no": 13,
+    "name": "Renato Veiga"
+   },
+   {
+    "no": 3,
+    "name": "Ruben Dias"
+   },
+   {
+    "no": 20,
+    "name": "João Cancelo"
+   },
+   {
+    "no": 23,
+    "name": "Vitinha"
+   },
+   {
+    "no": 15,
+    "name": "João Neves"
+   },
+   {
+    "no": 11,
+    "name": "João Félix"
+   },
+   {
+    "no": 8,
+    "name": "Bruno Fernandes"
+   },
+   {
+    "no": 18,
+    "name": "Pedro Neto"
+   },
+   {
+    "no": 7,
+    "name": "Cristiano Ronaldo"
+   },
+   {
+    "no": 2,
+    "name": "Nelson Semedo"
+   },
+   {
+    "no": 26,
+    "name": "Francisco Conceição"
+   },
+   {
+    "no": 16,
+    "name": "Francisco Trincão"
+   },
+   {
+    "no": 10,
+    "name": "Bernardo Silva"
+   },
+   {
+    "no": 17,
+    "name": "Rafael Leão"
+   },
+   {
+    "no": 4,
+    "name": "Tomás Araújo"
+   },
+   {
+    "no": 5,
+    "name": "Diogo Dalot"
+   },
+   {
+    "no": 22,
+    "name": "Rui Silva"
+   },
+   {
+    "no": 19,
+    "name": "Goncalo Guedes"
+   },
+   {
+    "no": 14,
+    "name": "Goncalo Inacio"
+   },
+   {
+    "no": 12,
+    "name": "José Sá"
+   },
+   {
+    "no": 9,
+    "name": "Gonçalo Ramos"
+   },
+   {
+    "no": 6,
+    "name": "Matheus Nunes"
+   },
+   {
+    "no": 21,
+    "name": "Ruben Neves"
+   },
+   {
+    "no": 24,
+    "name": "Samú Costa"
+   }
+  ],
+  "away": [
+   {
+    "no": 12,
+    "name": "Abduvokhid Nematov"
+   },
+   {
+    "no": 5,
+    "name": "Rustam Ashurmatov"
+   },
+   {
+    "no": 18,
+    "name": "Abdulla Abdullaev"
+   },
+   {
+    "no": 2,
+    "name": "Abdukodir Khusanov"
+   },
+   {
+    "no": 13,
+    "name": "Sherzod Nasrullaev"
+   },
+   {
+    "no": 7,
+    "name": "Otabek Shukurov"
+   },
+   {
+    "no": 9,
+    "name": "Odildzhon Khamrobekov"
+   },
+   {
+    "no": 24,
+    "name": "Bekhruz Karimov"
+   },
+   {
+    "no": 22,
+    "name": "Abbosbek Fayzullaev"
+   },
+   {
+    "no": 19,
+    "name": "Aziz Ganiev"
+   },
+   {
+    "no": 14,
+    "name": "Eldor Shomurodov"
+   },
+   {
+    "no": 3,
+    "name": "Khozhiakbar Alizhonov"
+   },
+   {
+    "no": 23,
+    "name": "Sherzod Esanov"
+   },
+   {
+    "no": 10,
+    "name": "Jaloliddin Masharipov"
+   },
+   {
+    "no": 6,
+    "name": "Akmal Mozgovoy"
+   },
+   {
+    "no": 21,
+    "name": "Igor Sergeev"
+   },
+   {
+    "no": 20,
+    "name": "Azizbek Amanov"
+   },
+   {
+    "no": 16,
+    "name": "Botirali Ergashev"
+   },
+   {
+    "no": 15,
+    "name": "Umar Eshmurodov"
+   },
+   {
+    "no": 8,
+    "name": "Jamshid Iskanderov"
+   },
+   {
+    "no": 17,
+    "name": "Dostonbek Khamdamov"
+   },
+   {
+    "no": 25,
+    "name": "Avazbek Ulmasaliev"
+   },
+   {
+    "no": 4,
+    "name": "Farrukh Sayfiev"
+   },
+   {
+    "no": 26,
+    "name": "Jakhongir Urozov"
+   },
+   {
+    "no": 11,
+    "name": "Oston Urunov"
+   },
+   {
+    "no": 1,
+    "name": "Utkir Yusupov"
+   }
+  ]
+ },
+ "missing": [],
+ "events": [
+  {
+   "min": 6,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Cristiano Ronaldo"
+  },
+  {
+   "min": 14,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Odildzhon Khamrobekov"
+  },
+  {
+   "min": 17,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Nuno Mendes"
+  },
+  {
+   "min": 30,
+   "side": "away",
+   "type": "T4",
+   "sub": "乌龙",
+   "player": "Goal Disallowed"
+  },
+  {
+   "min": 39,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Cristiano Ronaldo"
+  },
+  {
+   "min": 60,
+   "side": "home",
+   "type": "进球",
+   "sub": "乌龙",
+   "player": "Abduvokhid Nematov"
+  },
+  {
+   "min": 68,
+   "side": "home",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Renato Veiga"
+  },
+  {
+   "min": 87,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Rafael Leão"
+  }
+ ],
+ "injuries": [],
+ "suspensions": [],
+ "ratings": {},
+ "quotes": [],
+ "narrative": "",
+ "prediction_note": "",
+ "_note": "macheta/Sofascore 权威硬数据；injuries/suspensions/ratings/quotes/narrative/prediction_note 待 agent WebSearch 补。",
+ "ht": "3-0"
+}

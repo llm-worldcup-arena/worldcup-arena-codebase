@@ -1,0 +1,311 @@
+{
+ "match_id": "4627920",
+ "date": "2026-06-23",
+ "comp": "世界杯·L组",
+ "ha_home": "中",
+ "home": "ENG",
+ "away": "GHA",
+ "score": "0-0",
+ "venue": "Gillette Stadium (Foxborough)",
+ "attendance": 63983,
+ "goals": [],
+ "cards": [
+  {
+   "min": 41,
+   "side": "home",
+   "player": "Declan Rice",
+   "type": "黄牌"
+  },
+  {
+   "min": 60,
+   "side": "away",
+   "player": "Iñaki Williams",
+   "type": "黄牌"
+  }
+ ],
+ "stats": {
+  "射门": [
+   "19",
+   "2"
+  ],
+  "射正": [
+   "3",
+   "1"
+  ],
+  "禁区内射门": [
+   "10",
+   "0"
+  ],
+  "扑救": [
+   "6",
+   "1"
+  ],
+  "角球": [
+   "9",
+   "2"
+  ],
+  "越位": [
+   "2",
+   "2"
+  ],
+  "控球%": [
+   "79%",
+   "21%"
+  ],
+  "传中": [
+   "119",
+   "49"
+  ],
+  "传球": [
+   "586",
+   "127"
+  ],
+  "xG预期进球": [
+   "1.49",
+   "0.21"
+  ],
+  "xGOT/大机会": [
+   "0.37",
+   "0"
+  ]
+ },
+ "lineups": {
+  "home": [
+   {
+    "no": 1,
+    "name": "Jordan Pickford"
+   },
+   {
+    "no": 25,
+    "name": "Djed Spence"
+   },
+   {
+    "no": 6,
+    "name": "Marc Guéhi"
+   },
+   {
+    "no": 2,
+    "name": "Ezri Konsa"
+   },
+   {
+    "no": 24,
+    "name": "Reece James"
+   },
+   {
+    "no": 4,
+    "name": "Declan Rice"
+   },
+   {
+    "no": 8,
+    "name": "Elliot Anderson"
+   },
+   {
+    "no": 18,
+    "name": "Anthony Gordon"
+   },
+   {
+    "no": 10,
+    "name": "Jude Bellingham"
+   },
+   {
+    "no": 20,
+    "name": "Noni Madueke"
+   },
+   {
+    "no": 9,
+    "name": "Harry Kane"
+   },
+   {
+    "no": 21,
+    "name": "Eberechi Eze"
+   },
+   {
+    "no": 3,
+    "name": "Nico O'Reilly"
+   },
+   {
+    "no": 11,
+    "name": "Marcus Rashford"
+   },
+   {
+    "no": 17,
+    "name": "Morgan Rogers"
+   },
+   {
+    "no": 7,
+    "name": "Bukayo Saka"
+   },
+   {
+    "no": 15,
+    "name": "Dan Burn"
+   },
+   {
+    "no": 12,
+    "name": "Trevoh Chalobah"
+   },
+   {
+    "no": 14,
+    "name": "Jordan Henderson"
+   },
+   {
+    "no": 13,
+    "name": "Dean Henderson"
+   },
+   {
+    "no": 16,
+    "name": "Kobbie Mainoo"
+   },
+   {
+    "no": 26,
+    "name": "Jarell Quansah"
+   },
+   {
+    "no": 5,
+    "name": "John Stones"
+   },
+   {
+    "no": 22,
+    "name": "Ivan Toney"
+   },
+   {
+    "no": 23,
+    "name": "James Trafford"
+   },
+   {
+    "no": 19,
+    "name": "Ollie Watkins"
+   }
+  ],
+  "away": [
+   {
+    "no": 16,
+    "name": "Benjamin Asare"
+   },
+   {
+    "no": 14,
+    "name": "Gideon Mensah"
+   },
+   {
+    "no": 18,
+    "name": "Jerome Opoku"
+   },
+   {
+    "no": 4,
+    "name": "Jonas Adjetey"
+   },
+   {
+    "no": 26,
+    "name": "Marvin Senaya"
+   },
+   {
+    "no": 5,
+    "name": "Thomas Partey"
+   },
+   {
+    "no": 11,
+    "name": "Antoine Semenyo"
+   },
+   {
+    "no": 8,
+    "name": "Kwasi Sibo"
+   },
+   {
+    "no": 3,
+    "name": "Caleb Yirenkyi"
+   },
+   {
+    "no": 19,
+    "name": "Iñaki Williams"
+   },
+   {
+    "no": 9,
+    "name": "Jordan Ayew"
+   },
+   {
+    "no": 25,
+    "name": "Prince Kwabena Adu"
+   },
+   {
+    "no": 17,
+    "name": "Baba Rahman"
+   },
+   {
+    "no": 7,
+    "name": "Issahaku Fatawu"
+   },
+   {
+    "no": 21,
+    "name": "Kojo Peprah Oppong"
+   },
+   {
+    "no": 12,
+    "name": "Joseph Anang"
+   },
+   {
+    "no": 20,
+    "name": "Augustine Boakye"
+   },
+   {
+    "no": 13,
+    "name": "Christopher Bonsu Baah"
+   },
+   {
+    "no": 23,
+    "name": "Derrick Luckassen"
+   },
+   {
+    "no": 6,
+    "name": "Abdul Mumin"
+   },
+   {
+    "no": 24,
+    "name": "Ernest Nuamah"
+   },
+   {
+    "no": 15,
+    "name": "Elisha Owusu"
+   },
+   {
+    "no": 2,
+    "name": "Alidu Seidu"
+   },
+   {
+    "no": 22,
+    "name": "Kamaldeen Sulemana"
+   },
+   {
+    "no": 10,
+    "name": "Brandon Thomas-Asante"
+   },
+   {
+    "no": 1,
+    "name": "Lawrence Ati-Zigi"
+   }
+  ]
+ },
+ "missing": [],
+ "events": [
+  {
+   "min": 41,
+   "side": "home",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Declan Rice"
+  },
+  {
+   "min": 60,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Iñaki Williams"
+  }
+ ],
+ "injuries": [],
+ "suspensions": [],
+ "ratings": {},
+ "quotes": [],
+ "narrative": "",
+ "prediction_note": "",
+ "_note": "macheta/Sofascore 权威硬数据；injuries/suspensions/ratings/quotes/narrative/prediction_note 待 agent WebSearch 补。",
+ "ht": "0-0"
+}

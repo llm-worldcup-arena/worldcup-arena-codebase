@@ -1,0 +1,16 @@
+{
+ "team": "MAR",
+ "source": "worldcup.cctv.com",
+ "url": "https://worldcup.cctv.com/2022/12/07/VIDEiR86zxiOGiz6uAFOLOZ9221207.shtml",
+ "title": "[世界杯新闻]摩洛哥门将布努：这场胜利属于全队",
+ "news_date": "2026-06-24",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-24",
+ "fetched": "2026-06-24_1358",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "2022年卡塔尔世界杯1/8决赛，摩洛哥对阵西班牙，最终西班牙点球大战不敌摩洛哥，无缘八强。摩洛哥队门将布努表示，这场胜利属于全队。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

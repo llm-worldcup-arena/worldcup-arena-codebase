@@ -1,0 +1,16 @@
+{
+ "team": "JOR",
+ "source": "sports.cctv.com",
+ "url": "https://sports.cctv.com/2026/06/23/VIDEqHHAx4GoQH6bo5Be2pWx260623.shtml",
+ "title": "[世界杯]J组第2轮：约旦1-2阿尔及利亚 集锦",
+ "news_date": "2026-06-24",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-24",
+ "fetched": "2026-06-24_1358",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "央视网消息：北京时间6月23日，2026年美加墨世界杯J组第2轮约旦迎战阿尔及利亚。全场比赛结束，最终约旦1-2不敌阿尔及利亚。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

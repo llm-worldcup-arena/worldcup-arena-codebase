@@ -1,0 +1,16 @@
+{
+ "team": "UZB",
+ "source": "sports.yahoo.com",
+ "url": "https://sports.yahoo.com/soccer/teams/uzbekistan/",
+ "title": "Uzbekistan News, Videos, Schedules, Roster, Stats - Yahoo Sports",
+ "news_date": "2026-06-24",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-24",
+ "fetched": "2026-06-24_1358",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "BYU forward AJ Dybantsa selected No. 1 overall by Wizards in NBA Draft\nRecord-breaking Cristiano Ronaldo leads Portugal's 5-0 rout of Uzbekistan\nNFL reportedly scraps Supplemental Draft, making Brendan Sorsby ineligible for 2026\nMavs select Michigan's Morez Johnson, reuniting him with new coach Dusty May\nPromotion, relegation and match play: PGA Tour unveils radical new structure",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

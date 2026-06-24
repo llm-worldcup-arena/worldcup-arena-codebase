@@ -1,0 +1,24 @@
+{
+ "source": "en.africatopsports.com",
+ "url": "https://en.africatopsports.com/2026-fifa-world-cup-budimir-fires-croatia-back-into-contention-with-crucial-win-over-panama/",
+ "title": "2026 FIFA World Cup: Budimir Fires Croatia Back Into Contention With Crucial Win Over Panama",
+ "published": "2026-06-24T01:03:13+00:00",
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-23",
+  "home": "PAN",
+  "away": "CRO",
+  "home_en": "Panama",
+  "away_en": "Croatia",
+  "home_zh": "巴拿马",
+  "away_zh": "克罗地亚",
+  "comp": "小组赛·L组",
+  "match_id": "M46",
+  "slug": "2026-06-23_PAN_vs_CRO"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Croatia reignited their FIFA World Cup campaign with a hard-fought 1-0 victory over Panama at BMO Field, thanks to a decisive second-half strike from veteran forward Ante Budimir.\n\nAfter suffering a disappointing 4-2 defeat to England in their opening Group L fixture, Croatia entered the match knowing that anything less than victory would leave their hopes of reaching the knockout stages hanging by a thread.\n\nThe Europeans responded with determination and resilience, securing three vital points that have thrown the group wide open once again.\n\nThe breakthrough arrived in the 54th minute when Budimir capitalized on Croatia’s sustained pressure to slot home what proved to be the match-winning goal.\n\nIt was a moment of quality that transformed not only the contest but also the complexion of Group L.\n\nCroatia controlled much of the possession throughout the encounter, while Panama remained dangerous on the counterattack.\n\nHowever, the Central Americans were unable to find a way past the Croatian defence, which bounced back strongly after conceding four goals against England in their previous outing.\n\nThe result moves Croatia onto three points and significantly improves their standing in the group.\n\nMeanwhile, Panama remain without a point after two matches and now face a daunting challenge against England in their next fixture.\n\nAnother defeat would almost certainly end their hopes of progressing to the Round of 32.\n\nWith England and Ghana still occupying the top positions in the group, Croatia’s victory has injected fresh excitement into the race for qualification.\n\nWhat appeared to be a difficult situation for the 2018 World Cup finalists has suddenly become an opportunity.\n\nAttention now turns to Croatia’s blockbuster showdown with Ghana on June 27, a match that could determine who advances to the knockout rounds.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}
