@@ -1,0 +1,16 @@
+{
+ "team": "ARG",
+ "source": "m.thepaper.cn",
+ "url": "https://m.thepaper.cn/newsDetail_forward_33263150",
+ "title": "阿根廷队公布世界杯大名单，38岁梅西带伤出征",
+ "news_date": "2026-06-25",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-25",
+ "fetched": "2026-06-25_1134",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "今天，阿根廷公布2026美加墨世界杯26人大名单，38岁的队长梅西领衔，这将是他第六次参加世界杯。北京时间6月17日，阿根廷队将出战世界杯首场小组赛。当地时间5月24日，梅西在比赛中提前退场，根据最新公布的检查结果，梅西因肌肉疲劳，左腿腿筋出现了不适。据阿根廷媒体报道，梅西此次是轻度拉伤，预计休息10-14天。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

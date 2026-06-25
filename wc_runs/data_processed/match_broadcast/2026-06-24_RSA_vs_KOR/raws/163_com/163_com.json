@@ -1,0 +1,24 @@
+{
+ "source": "163.com",
+ "url": "https://www.163.com/dy/article/KVVNPJS20549BAP0.html",
+ "title": "官方：阿根廷裁判特略将执法世界杯南非vs韩国",
+ "published": "2026-06-21T20:45:08+08:00",
+ "tier": "3",
+ "lang": "zh",
+ "match": {
+  "date": "2026-06-24",
+  "home": "RSA",
+  "away": "KOR",
+  "home_en": "South Africa",
+  "away_en": "Korea Republic",
+  "home_zh": "南非",
+  "away_zh": "韩国",
+  "comp": "小组赛·A组",
+  "match_id": "M54",
+  "slug": "2026-06-24_RSA_vs_KOR"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "国际足联官方公布了世界杯小组赛南非vs韩国的裁判安排，来自阿根廷的法昆多-特略将担任主裁。\n\n特别声明：以上内容(如有图片或视频亦包括在内)为自媒体平台“网易号”用户上传并发布，本平台仅提供信息存储服务。\n\nNotice: The content above (including the pictures and videos if any) is uploaded and posted by a user of NetEase Hao, which is a social media platform and only provides information storage services.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

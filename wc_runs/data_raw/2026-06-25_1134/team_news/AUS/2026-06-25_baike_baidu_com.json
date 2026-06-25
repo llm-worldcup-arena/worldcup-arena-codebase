@@ -1,0 +1,16 @@
+{
+ "team": "AUS",
+ "source": "baike.baidu.com",
+ "url": "https://baike.baidu.com/item/%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9E%E5%9C%8B%E5%AE%B6%E7%94%B7%E5%AD%90%E8%B6%B3%E7%90%83%E9%9A%8A/3302731?noadapt=1",
+ "title": null,
+ "news_date": "2026-06-25",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-25",
+ "fetched": "2026-06-25_1134",
+ "method": "fail",
+ "status": "blocked",
+ "original_text": "",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

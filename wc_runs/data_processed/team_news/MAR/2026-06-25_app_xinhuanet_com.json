@@ -1,0 +1,16 @@
+{
+ "team": "MAR",
+ "source": "app.xinhuanet.com",
+ "url": "https://app.xinhuanet.com/news/article.html?articleId=202605285e6ba34794534bd2ae8fdc175faef833",
+ "title": "摩洛哥男足国家队公布世界杯大名单 - 新华网客户端",
+ "news_date": "2026-06-25",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-25",
+ "fetched": "2026-06-25_1134",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "新华社拉巴特5月27日电（记者赵一宁）当地时间26日晚，摩洛哥国家队公布了2026年美加墨世界杯的大名单，队长阿什拉夫领衔，卜拉欣·迪亚斯、马兹拉维在列，除26名正选球员外，还有3名候补球员。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

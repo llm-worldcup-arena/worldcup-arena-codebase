@@ -1,0 +1,24 @@
+{
+ "source": "urdupoint.com",
+ "url": "https://www.urdupoint.com/islam/islamic-events-in-czech-republic.html",
+ "title": "Islamic Events in Czech Republic, Calendar 2026 - Festival Dates for Muslims",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-24",
+  "home": "CZE",
+  "away": "MEX",
+  "home_en": "Czech Republic",
+  "away_en": "Mexico",
+  "home_zh": "捷克",
+  "away_zh": "墨西哥",
+  "comp": "小组赛·A组",
+  "match_id": "M53",
+  "slug": "2026-06-24_CZE_vs_MEX"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Czech Republic Islamic events, Find Muslim Festival dates and Holidays in Czech Republic for 2026. Complete list including Ramadan, Eid ul Fitr, Hajj, Eid ul Adha, Ashura, Eid Milad un Nabi, Shab e Barat, Shab e Miraj. Find accurate dates according to Islamic & Gregorian calendars.\nIslamic events calendar for Czech Republic, information about the Islamic festivals and events. Muslims living in Czech Republic are always concerned about finding the exact dates if Islamic events, and festivals. There are 12 Hijri Islamic months, the first Islamic month of the year is Muharram, than Safar, Rabi al-awwal, Rabi al-thani, Jumada al-awwal, Jumada al-thani, Rajab, Shaban, Ramadan, Shawwal, Dhul Qadah & Dhul Hijja. Every year there is one Holy month of Ramadan, celebrated in Czech Republic and all over the world. Every islamic year has two Eids, Eid al Fitar and Eid ul Adha, Eid Milad un Nabi is celebrated by Muslims in Czech Republic too. Find out when is the Shab e Miraj, Shab e Barat, Ashura Ramadan, Eid ul Fitr, Eid ul Adha and Eid Milad un Nabi will be celebrated in Czech Republic in 2026. There is also a complete Islamic Calendar with Hijri dates of Czech Republic according to Gregorian calendar.\nIslamic Events Worldwide:Pakistan, India, Hong Kong, Venezuela, Bolivia, Ireland, Cameroon, Myanmar, Spain, Luxembourg, Denmark, Micronesia, Lithuania, Palestine, South Africa, Democratic Republic Of The Congo, Saint Lucia.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

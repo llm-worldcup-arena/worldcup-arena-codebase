@@ -1,0 +1,371 @@
+{
+ "match_id": "4697701",
+ "date": "2026-06-24",
+ "comp": "世界杯·B组",
+ "ha_home": "中",
+ "home": "BIH",
+ "away": "QAT",
+ "score": "3-1",
+ "venue": "Lumen Field (Seattle)",
+ "attendance": 66925,
+ "goals": [
+  {
+   "min": 29,
+   "side": "home",
+   "player": "Kerim Alajbegovic",
+   "sub": null
+  },
+  {
+   "min": 34,
+   "side": "home",
+   "player": "Mahmoud Abunada",
+   "sub": "乌龙"
+  },
+  {
+   "min": 42,
+   "side": "away",
+   "player": "Hasan Al-Haydos",
+   "sub": null
+  },
+  {
+   "min": 80,
+   "side": "home",
+   "player": "Ermin Mahmic",
+   "sub": null
+  }
+ ],
+ "cards": [
+  {
+   "min": 78,
+   "side": "away",
+   "player": "Ahmed Fathi",
+   "type": "黄牌"
+  },
+  {
+   "min": 82,
+   "side": "home",
+   "player": "Ermin Mahmic",
+   "type": "黄牌"
+  }
+ ],
+ "stats": {
+  "射门": [
+   "14",
+   "9"
+  ],
+  "射正": [
+   "5",
+   "3"
+  ],
+  "禁区内射门": [
+   "4",
+   "6"
+  ],
+  "扑救": [
+   "5",
+   "0"
+  ],
+  "角球": [
+   "5",
+   "5"
+  ],
+  "越位": [
+   "1",
+   "3"
+  ],
+  "控球%": [
+   "54%",
+   "46%"
+  ],
+  "传中": [
+   "97",
+   "60"
+  ],
+  "传球": [
+   "452",
+   "371"
+  ],
+  "xG预期进球": [
+   "1.05",
+   "1.01"
+  ],
+  "xGOT/大机会": [
+   "0.96",
+   "1.14"
+  ]
+ },
+ "lineups": {
+  "home": [
+   {
+    "no": 1,
+    "name": "Nikola Vasilj"
+   },
+   {
+    "no": 5,
+    "name": "Sead Kolasinac"
+   },
+   {
+    "no": 21,
+    "name": "Stjepan Radeljic"
+   },
+   {
+    "no": 18,
+    "name": "Nikola Katic"
+   },
+   {
+    "no": 24,
+    "name": "Arjan Malic"
+   },
+   {
+    "no": 19,
+    "name": "Kerim Alajbegovic"
+   },
+   {
+    "no": 14,
+    "name": "Ivan Šunjić"
+   },
+   {
+    "no": 13,
+    "name": "Ivan Bašić"
+   },
+   {
+    "no": 20,
+    "name": "Esmir Bajraktarevic"
+   },
+   {
+    "no": 11,
+    "name": "Edin Džeko"
+   },
+   {
+    "no": 10,
+    "name": "Ermedin Demirovic"
+   },
+   {
+    "no": 17,
+    "name": "Dzenis Burnic"
+   },
+   {
+    "no": 3,
+    "name": "Dennis Hadzikadunic"
+   },
+   {
+    "no": 26,
+    "name": "Ermin Mahmic"
+   },
+   {
+    "no": 15,
+    "name": "Amar Memić"
+   },
+   {
+    "no": 6,
+    "name": "Benjamin Tahirovic"
+   },
+   {
+    "no": 9,
+    "name": "Samed Bazdar"
+   },
+   {
+    "no": 7,
+    "name": "Amar Dedić"
+   },
+   {
+    "no": 8,
+    "name": "Armin Gigovic"
+   },
+   {
+    "no": 16,
+    "name": "Amir Hadziahmetovic"
+   },
+   {
+    "no": 12,
+    "name": "Mladen Jurkas"
+   },
+   {
+    "no": 25,
+    "name": "Jovo Lukic"
+   },
+   {
+    "no": 2,
+    "name": "Nihad Mujakić"
+   },
+   {
+    "no": 23,
+    "name": "Haris Tabakovic"
+   },
+   {
+    "no": 22,
+    "name": "Martin Zlomislić"
+   }
+  ],
+  "away": [
+   {
+    "no": 1,
+    "name": "Mahmoud Abunada"
+   },
+   {
+    "no": 18,
+    "name": "Sultan Al Brake"
+   },
+   {
+    "no": 4,
+    "name": "Issa Laye"
+   },
+   {
+    "no": 16,
+    "name": "Boualem Khoukhi"
+   },
+   {
+    "no": 2,
+    "name": "Pedro Miguel"
+   },
+   {
+    "no": 12,
+    "name": "Karim Boudiaf"
+   },
+   {
+    "no": 20,
+    "name": "Ahmed Fathi"
+   },
+   {
+    "no": 5,
+    "name": "Jassem Gaber"
+   },
+   {
+    "no": 10,
+    "name": "Hasan Al-Haydos"
+   },
+   {
+    "no": 11,
+    "name": "Akram Afif"
+   },
+   {
+    "no": 8,
+    "name": "Edmilson Junior"
+   },
+   {
+    "no": 7,
+    "name": "Ahmed Alaaeldin"
+   },
+   {
+    "no": 19,
+    "name": "Almoez Ali"
+   },
+   {
+    "no": 17,
+    "name": "Ahmed Al Ganehi"
+   },
+   {
+    "no": 26,
+    "name": "Mohamed Al-Mannai"
+   },
+   {
+    "no": 6,
+    "name": "Abdulaziz Hatem"
+   },
+   {
+    "no": 15,
+    "name": "Yusuf Abdurisag"
+   },
+   {
+    "no": 13,
+    "name": "Ayoub Al-Oui"
+   },
+   {
+    "no": 22,
+    "name": "Meshaal Barsham"
+   },
+   {
+    "no": 21,
+    "name": "Salah Zakaria"
+   },
+   {
+    "no": 24,
+    "name": "Tahsin Jamshid"
+   },
+   {
+    "no": 3,
+    "name": "Lucas Mendes"
+   },
+   {
+    "no": 25,
+    "name": "Al Hashmi Al Hussain"
+   },
+   {
+    "no": 9,
+    "name": "Mohammed Muntari"
+   }
+  ]
+ },
+ "missing": [
+  {
+   "side": "home",
+   "no": 4,
+   "name": "Tarik Muharemovic",
+   "reason": "Red Card"
+  },
+  {
+   "side": "away",
+   "no": 23,
+   "name": "Assim Madibo",
+   "reason": "Red Card"
+  },
+  {
+   "side": "away",
+   "no": 14,
+   "name": "Homam Al-Amin",
+   "reason": "Red Card"
+  }
+ ],
+ "events": [
+  {
+   "min": 29,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Kerim Alajbegovic"
+  },
+  {
+   "min": 34,
+   "side": "home",
+   "type": "进球",
+   "sub": "乌龙",
+   "player": "Mahmoud Abunada"
+  },
+  {
+   "min": 42,
+   "side": "away",
+   "type": "进球",
+   "sub": null,
+   "player": "Hasan Al-Haydos"
+  },
+  {
+   "min": 78,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Ahmed Fathi"
+  },
+  {
+   "min": 80,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Ermin Mahmic"
+  },
+  {
+   "min": 82,
+   "side": "home",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Ermin Mahmic"
+  }
+ ],
+ "injuries": [],
+ "suspensions": [],
+ "ratings": {},
+ "quotes": [],
+ "narrative": "",
+ "prediction_note": "",
+ "_note": "macheta/Sofascore 权威硬数据；injuries/suspensions/ratings/quotes/narrative/prediction_note 待 agent WebSearch 补。",
+ "ht": "2-1"
+}

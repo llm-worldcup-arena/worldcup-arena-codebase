@@ -1,0 +1,371 @@
+{
+ "match_id": "4627855",
+ "date": "2026-06-24",
+ "comp": "世界杯·B组",
+ "ha_home": "中",
+ "home": "SUI",
+ "away": "CAN",
+ "score": "2-1",
+ "venue": "BC Place (Vancouver)",
+ "attendance": 52497,
+ "goals": [
+  {
+   "min": 46,
+   "side": "home",
+   "player": "Ruben Vargas",
+   "sub": null
+  },
+  {
+   "min": 57,
+   "side": "home",
+   "player": "Johan Manzambi",
+   "sub": null
+  },
+  {
+   "min": 76,
+   "side": "away",
+   "player": "Promise David",
+   "sub": null
+  }
+ ],
+ "cards": [
+  {
+   "min": 32,
+   "side": "away",
+   "player": "Cyle Larin",
+   "type": "黄牌"
+  },
+  {
+   "min": 32,
+   "side": "home",
+   "player": "Granit Xhaka",
+   "type": "黄牌"
+  },
+  {
+   "min": 87,
+   "side": "away",
+   "player": "Liam Millar",
+   "type": "黄牌"
+  }
+ ],
+ "stats": {
+  "射门": [
+   "6",
+   "13"
+  ],
+  "射正": [
+   "4",
+   "7"
+  ],
+  "禁区内射门": [
+   "1",
+   "3"
+  ],
+  "扑救": [
+   "1",
+   "3"
+  ],
+  "角球": [
+   "2",
+   "7"
+  ],
+  "越位": [
+   "1",
+   "3"
+  ],
+  "控球%": [
+   "55%",
+   "45%"
+  ],
+  "传中": [
+   "82",
+   "94"
+  ],
+  "传球": [
+   "369",
+   "271"
+  ],
+  "xG预期进球": [
+   "0.58",
+   "1.25"
+  ],
+  "xGOT/大机会": [
+   "1.17",
+   "2.76"
+  ]
+ },
+ "lineups": {
+  "home": [
+   {
+    "no": 1,
+    "name": "Gregor Kobel"
+   },
+   {
+    "no": 13,
+    "name": "Ricardo Rodriguez"
+   },
+   {
+    "no": 5,
+    "name": "Manuel Akanji"
+   },
+   {
+    "no": 4,
+    "name": "Nico Elvedi"
+   },
+   {
+    "no": 25,
+    "name": "Luca Jaquez"
+   },
+   {
+    "no": 10,
+    "name": "Granit Xhaka"
+   },
+   {
+    "no": 8,
+    "name": "Remo Freuler"
+   },
+   {
+    "no": 17,
+    "name": "Ruben Vargas"
+   },
+   {
+    "no": 9,
+    "name": "Johan Manzambi"
+   },
+   {
+    "no": 15,
+    "name": "Djibril Sow"
+   },
+   {
+    "no": 7,
+    "name": "Breel Embolo"
+   },
+   {
+    "no": 20,
+    "name": "Michel Aebischer"
+   },
+   {
+    "no": 16,
+    "name": "Christian Fassnacht"
+   },
+   {
+    "no": 26,
+    "name": "Cedric Itten"
+   },
+   {
+    "no": 11,
+    "name": "Dan Ndoye"
+   },
+   {
+    "no": 3,
+    "name": "Silvan Widmer"
+   },
+   {
+    "no": 23,
+    "name": "Zeki Amdouni"
+   },
+   {
+    "no": 24,
+    "name": "Aurèle Amenda"
+   },
+   {
+    "no": 18,
+    "name": "Eray Cümart"
+   },
+   {
+    "no": 14,
+    "name": "Ardon Jashari"
+   },
+   {
+    "no": 21,
+    "name": "Marvin Keller"
+   },
+   {
+    "no": 12,
+    "name": "Yvon Mvogo"
+   },
+   {
+    "no": 19,
+    "name": "Noah Okafor"
+   },
+   {
+    "no": 22,
+    "name": "Fabian Rieder"
+   },
+   {
+    "no": 6,
+    "name": "Denis Zakaria"
+   }
+  ],
+  "away": [
+   {
+    "no": 4,
+    "name": "Luc De Fougerolles"
+   },
+   {
+    "no": 16,
+    "name": "Maxime Crépeau"
+   },
+   {
+    "no": 22,
+    "name": "Richie Laryea"
+   },
+   {
+    "no": 13,
+    "name": "Derek Cornelius"
+   },
+   {
+    "no": 2,
+    "name": "Alistair Johnston"
+   },
+   {
+    "no": 20,
+    "name": "Ali Ahmed"
+   },
+   {
+    "no": 6,
+    "name": "Mathieu Choiniere"
+   },
+   {
+    "no": 25,
+    "name": "Nathan-Dylan Saliba"
+   },
+   {
+    "no": 17,
+    "name": "Tajon Buchanan"
+   },
+   {
+    "no": 9,
+    "name": "Cyle Larin"
+   },
+   {
+    "no": 10,
+    "name": "Jonathan David"
+   },
+   {
+    "no": 7,
+    "name": "Stephen Eustáquio"
+   },
+   {
+    "no": 24,
+    "name": "Promise David"
+   },
+   {
+    "no": 11,
+    "name": "Liam Millar"
+   },
+   {
+    "no": 12,
+    "name": "Tani Oluwaseyi"
+   },
+   {
+    "no": 14,
+    "name": "Jacob Shaffelburg"
+   },
+   {
+    "no": 15,
+    "name": "Moise Bombito"
+   },
+   {
+    "no": 19,
+    "name": "Alphonso Davies"
+   },
+   {
+    "no": 18,
+    "name": "Owen Goodman"
+   },
+   {
+    "no": 26,
+    "name": "Jayden Nelson"
+   },
+   {
+    "no": 21,
+    "name": "Jonathan Osorio"
+   },
+   {
+    "no": 23,
+    "name": "Niko Sigur"
+   },
+   {
+    "no": 1,
+    "name": "Dayne St Clair"
+   },
+   {
+    "no": 5,
+    "name": "Joel Waterman"
+   }
+  ]
+ },
+ "missing": [
+  {
+   "side": "home",
+   "no": 2,
+   "name": "Miro Muheim",
+   "reason": "Calf Injury"
+  },
+  {
+   "side": "away",
+   "no": 0,
+   "name": "Alfie Jones",
+   "reason": "Thigh injury"
+  },
+  {
+   "side": "away",
+   "no": 8,
+   "name": "Ismaël Koné",
+   "reason": "Broken ankle"
+  }
+ ],
+ "events": [
+  {
+   "min": 32,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Cyle Larin"
+  },
+  {
+   "min": 32,
+   "side": "home",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Granit Xhaka"
+  },
+  {
+   "min": 46,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Ruben Vargas"
+  },
+  {
+   "min": 57,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Johan Manzambi"
+  },
+  {
+   "min": 76,
+   "side": "away",
+   "type": "进球",
+   "sub": null,
+   "player": "Promise David"
+  },
+  {
+   "min": 87,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Liam Millar"
+  }
+ ],
+ "injuries": [],
+ "suspensions": [],
+ "ratings": {},
+ "quotes": [],
+ "narrative": "",
+ "prediction_note": "",
+ "_note": "macheta/Sofascore 权威硬数据；injuries/suspensions/ratings/quotes/narrative/prediction_note 待 agent WebSearch 补。",
+ "ht": "0-0"
+}

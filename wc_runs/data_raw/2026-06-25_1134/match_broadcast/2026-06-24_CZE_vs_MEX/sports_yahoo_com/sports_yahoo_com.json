@@ -1,0 +1,24 @@
+{
+ "source": "sports.yahoo.com",
+ "url": "https://sports.yahoo.com/soccer/fifa-world-cup/mexico-czechia-13587247/",
+ "title": "Czechia 0 - 3 Mexico: Final score, results, recap, box score, stats - Yahoo Sports",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-24",
+  "home": "CZE",
+  "away": "MEX",
+  "home_en": "Czech Republic",
+  "away_en": "Mexico",
+  "home_zh": "捷克",
+  "away_zh": "墨西哥",
+  "comp": "小组赛·A组",
+  "match_id": "M53",
+  "slug": "2026-06-24_CZE_vs_MEX"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Czechia 0 - 3 Mexico: Final score, results, recap, box score, stats\nGoal\n8 - Alvaro Fidalgo\nAssist\n25 - Roberto Alvarado\nSubstitution - In\n19 - Tomas Chory\nSubstitution - Out\n12 - Lukas Cerv\nSubstitution - In\n24 - Alexandr Sojka\nSubstitution - Out\n22 - Tomas Soucek\nSubstitution - In\n23 - Jesus Gallardo\nSubstitution - Out\n20 - Mateo Chavez\nSubstitution - In\n13 - Guillermo Ochoa\nSubstitution - Out\n1 - Raul Rangel\nSubstitution - In\n8 - Alvaro Fidalgo\nSubstitution - Out\n19 - Gilberto Mora\nSubstitution - In\n22 - Tomas Soucek\nSubstitution - Out\n3 - Tomas Holes\nSubstitution - In\n10 - Patrik Schick\nSubstitution - Out\n9 - Adam Hlozek\nYellow Card\n4 - Edson Alvarez\nSubstitution - In\n18 - Obed Vargas\nSubstitution - Out\n7 - Luis Romo\nSubstitution - In\n11 - Santiago Gimenez\nSubstitution - Out\n22 - Guillermo Martinez\nGoal\n16 - Julian Quinones\nAssist\n2 - Jorge Sanchez\nSubstitution - In\n17 - Lukas Provod\nSubstitution - Out\n26 - Denis Visinsky\nGoal\n20 - Mateo Chavez\nAssist\n7 - Luis Romo",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

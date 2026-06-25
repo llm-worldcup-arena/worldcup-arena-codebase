@@ -1,0 +1,24 @@
+{
+ "source": "ceicdata.com",
+ "url": "http://www.ceicdata.com/en/indicator/czech-republic/current-account-balance",
+ "title": "Czech Republic Current Account Balance, 2003 – 2025 | CEIC Data",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-24",
+  "home": "CZE",
+  "away": "MEX",
+  "home_en": "Czech Republic",
+  "away_en": "Mexico",
+  "home_zh": "捷克",
+  "away_zh": "墨西哥",
+  "comp": "小组赛·A组",
+  "match_id": "M53",
+  "slug": "2026-06-24_CZE_vs_MEX"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "This website stores cookies on your computer. These cookies are used to collect information about how you interact with our website and allow us to remember you. We use this information in order to improve and customize your browsing experience and for analytics and metrics about our visitors both on this website and other media. To find out more about the cookies we use, see our Cookies Policy .\n\nIf you decline, your information won’t be tracked when you visit this website. A single cookie will be used in your browser to remember your preference not to be tracked.\n\nKey information about Czech Republic Current Account Balance Czech Republic Current Account recorded a surplus of 1.4 USD bn in Sep 2025, compared with a deficit of 32.0 USD mn in the previous month. Czech Republic Current Account Balance: USD mn data is updated monthly, available from Jan 2003 to Sep 2025, with an averaged value of 640.6 USD mn. The data reached an all-time high of 2.4 USD bn in Mar 2024 and a record low of -4.8 USD bn in Aug 2022. CEIC converts monthly Current Account Balance into USD. Czech National Bank provides Current Account Balance in local currency based on BPM6. Czech National Bank average market exchange rate is used for currency conversions. Current Account Balance prior to January 2004 is based on BPM5. Foreign Direct Investment (FDI) fell by 236.4 USD mn in Sep 2025. Czech Republic Direct Investment Abroad expanded by 967.9 USD mn in Sep 2025. Its Foreign Portfolio Investment increased by 7.1 USD bn in Jun 2025. The country's Nominal GDP was reported at 102.6 USD bn in Sep 2025.\n\nView Czech Republic's Current Account Balance from Jan 2003 to Sep 2025 in the chart:\n\nmax\n\n1y\n\n5y\n\n10y\n\nbar\n\nline\n\narea\n\nspline\n\nareaspline\n\ncolumn\n\nApply\n\nGet this data\n\nThere is no data available for your selected dates.\n\nmax\n\n1y\n\n5y\n\n10y\n\nbar\n\nline\n\narea\n\nspline\n\nareaspline\n\ncolumn\n\nApply\n\nGet this data\n\nThere is no data available for your selected dates.\n\nWhat was Czech Republic's Current Account Balance in Sep 2025?\n\nCzech Republic Current Account recorded a surplus of 1.4 USD bn in Sep 2025, compared with a deficit of 32.0 USD mn in the previous month. See the table below for more data.\n\nExplore the most complete set of 6.6 million time series covering more than 200 economies, 20 industries and 18 macroeconomic sectors.\n\nCEIC’s economic databases cover over 200 global markets. Our Platform offers the most reliable macroeconomic data and advanced analytical tools.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

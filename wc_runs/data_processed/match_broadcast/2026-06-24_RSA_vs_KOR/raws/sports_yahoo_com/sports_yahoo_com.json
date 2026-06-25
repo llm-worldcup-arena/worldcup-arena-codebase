@@ -1,0 +1,24 @@
+{
+ "source": "sports.yahoo.com",
+ "url": "https://sports.yahoo.com/soccer/fifa-world-cup/south-korea-south-africa-13587193/",
+ "title": "South Africa 1 - 0 South Korea: Final score, results, recap, box score, stats - Yahoo Sports",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-24",
+  "home": "RSA",
+  "away": "KOR",
+  "home_en": "South Africa",
+  "away_en": "Korea Republic",
+  "home_zh": "南非",
+  "away_zh": "韩国",
+  "comp": "小组赛·A组",
+  "match_id": "M54",
+  "slug": "2026-06-24_RSA_vs_KOR"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "South Africa 1 - 0 South Korea: Final score, results, recap, box score, stats\nSubstitution - In\n23 - Jayden Adams\nSubstitution - Out\n10 - Relebohile Mofokeng\nYellow Card\n9 - Cho Gue-sung\nSubstitution - In\n15 - Iqraam Rayners\nSubstitution - Out\n12 - Thapelo Maseko\nSubstitution - In\n9 - Cho Gue-sung\nSubstitution - Out\n18 - Oh Hyeon-gyu\nYellow Card\n6 - Aubrey Modiba\nSubstitution - In\n16 - Park Jin-seob\nSubstitution - Out\n4 - Kim Min-Jae\nGoal\n12 - Thapelo Maseko\nAssist\n8 - Tshepang Moremi\nSubstitution - In\n8 - Tshepang Moremi\nSubstitution - Out\n7 - Oswin Appollis\nSubstitution - In\n24 - Kim Jin-gyu\nSubstitution - Out\n8 - Paik Seung-Ho\nSubstitution - In\n23 - Jens Castrop\nSubstitution - Out\n13 - Lee Tae-seok\nSubstitution - In\n7 - Son Heung-min\nSubstitution - Out\n11 - Hwang Hee-chan",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

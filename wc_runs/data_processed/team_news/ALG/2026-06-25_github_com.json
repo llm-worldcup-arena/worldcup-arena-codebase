@@ -1,0 +1,16 @@
+{
+ "team": "ALG",
+ "source": "github.com",
+ "url": "https://github.com/Adriano-goes/ahp-worldcup-2026",
+ "title": "GitHub - Adriano-goes/ahp-worldcup-2026: A reproducible AHP (Analytic Hierarchy Process) model ranking favorites for the FIFA World Cup 2026. Criteria and consistency checks are built in Excel; a minimal Python script reads the Results sheet, exports a sorted CSV, and generates a horizontal bar chart with in-bar percentage labels.",
+ "news_date": "2026-06-25",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-25",
+ "fetched": "2026-06-25_1134",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "Use the Analytic Hierarchy Process (AHP) to rank national teams for the FIFA World Cup 2026.\nAll scoring logic and checks are kept in Excel; Python reads the Results sheet, exports a CSV, and generates the chart.\n\nNote: Weights come from Saaty’s pairwise comparisons and are validated with a consistency check.\n\nInstall dependencies\npip install -r requirements.txt\n\nGenerate CSV + chart\npython run_ahp_worldcup.py\n\nA reproducible AHP (Analytic Hierarchy Process) model ranking favorites for the FIFA World Cup 2026. Criteria and consistency checks are built in Excel; a minimal Python script reads the Results sheet, exports a sorted CSV, and generates a horizontal bar chart with in-bar percentage labels.\n\nThere was an error while loading. Please reload this page .",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

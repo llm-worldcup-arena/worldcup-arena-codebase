@@ -1,0 +1,24 @@
+{
+ "source": "sports.yahoo.com",
+ "url": "https://sports.yahoo.com/soccer/fifa-world-cup/qatar-bosnia-and-herzegovina-13587250/",
+ "title": "Bosnia and Herzegovina 3 - 1 Qatar: Final score, results, recap, box score, stats - Yahoo Sports",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-24",
+  "home": "BIH",
+  "away": "QAT",
+  "home_en": "Bosnia and Herzegovina",
+  "away_en": "Qatar",
+  "home_zh": "波黑",
+  "away_zh": "卡塔尔",
+  "comp": "小组赛·B组",
+  "match_id": "M52",
+  "slug": "2026-06-24_BIH_vs_QAT"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Bosnia and Herzegovina 3 - 1 Qatar: Final score, results, recap, box score, stats\nYellow Card\n26 - Ermin Mahmic\nSubstitution - In\n17 - Dzenis Burnic\nSubstitution - Out\n19 - Kerim Alajbegovic\nGoal\n26 - Ermin Mahmic\nAssist\n3 - Dennis Hadzikadunic\nSubstitution - In\n26 - Mohammed Manai\nSubstitution - Out\n20 - Ahmed Fathy\nSubstitution - In\n7 - Ahmed Alaaeldin\nSubstitution - Out\n8 - Edmilson Junior\nYellow Card\n20 - Ahmed Fathy\nSubstitution - In\n19 - Almoez Ali\nSubstitution - Out\n12 - Karim Boudiaf\nSubstitution - In\n26 - Ermin Mahmic\nSubstitution - Out\n11 - Edin Dzeko\nSubstitution - In\n3 - Dennis Hadzikadunic\nSubstitution - Out\n18 - Nikola Katic\nSubstitution - In\n17 - Ahmed Alganehi\nSubstitution - Out\n10 - Hassan Alhaydos\nSubstitution - In\n6 - Abdulaziz Hatem\nSubstitution - Out\n5 - Jassem Gaber\nSubstitution - In\n6 - Benjamin Tahirovic\nSubstitution - Out\n14 - Ivan Sunjic\nSubstitution - In\n15 - Amar Memic\nSubstitution - Out\n24 - Arjan Malic",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

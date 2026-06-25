@@ -1,0 +1,324 @@
+{
+ "match_id": "4627867",
+ "date": "2026-06-24",
+ "comp": "世界杯·A组",
+ "ha_home": "中",
+ "home": "RSA",
+ "away": "KOR",
+ "score": "1-0",
+ "venue": "Estadio BBVA (Guadalupe)",
+ "attendance": 51243,
+ "goals": [
+  {
+   "min": 63,
+   "side": "home",
+   "player": "Thapelo Maseko",
+   "sub": null
+  }
+ ],
+ "cards": [
+  {
+   "min": 73,
+   "side": "home",
+   "player": "Aubrey Modiba",
+   "type": "黄牌"
+  },
+  {
+   "min": 79,
+   "side": "away",
+   "player": "Cho Gue-Sung",
+   "type": "黄牌"
+  }
+ ],
+ "stats": {
+  "射门": [
+   "13",
+   "8"
+  ],
+  "射正": [
+   "4",
+   "3"
+  ],
+  "禁区内射门": [
+   "5",
+   "4"
+  ],
+  "扑救": [
+   "4",
+   "1"
+  ],
+  "角球": [
+   "4",
+   "6"
+  ],
+  "越位": [
+   "3",
+   "0"
+  ],
+  "控球%": [
+   "32%",
+   "68%"
+  ],
+  "传中": [
+   "80",
+   "138"
+  ],
+  "传球": [
+   "277",
+   "643"
+  ],
+  "xG预期进球": [
+   "0.75",
+   "1.6"
+  ],
+  "xGOT/大机会": [
+   "0.39",
+   "1.42"
+  ]
+ },
+ "lineups": {
+  "home": [
+   {
+    "no": 1,
+    "name": "Ronwen Williams"
+   },
+   {
+    "no": 6,
+    "name": "Aubrey Modiba"
+   },
+   {
+    "no": 14,
+    "name": "Mbekezeli Mbokazi"
+   },
+   {
+    "no": 21,
+    "name": "Ime Okon"
+   },
+   {
+    "no": 20,
+    "name": "Khuliso Mudau"
+   },
+   {
+    "no": 13,
+    "name": "Yaya Sithole"
+   },
+   {
+    "no": 5,
+    "name": "Thalente Mbatha"
+   },
+   {
+    "no": 7,
+    "name": "Oswin Appollis"
+   },
+   {
+    "no": 10,
+    "name": "Relebohile Mofokeng"
+   },
+   {
+    "no": 12,
+    "name": "Thapelo Maseko"
+   },
+   {
+    "no": 17,
+    "name": "Evidence Makgopa"
+   },
+   {
+    "no": 23,
+    "name": "Jayden Adams"
+   },
+   {
+    "no": 8,
+    "name": "Tshepang Moremi"
+   },
+   {
+    "no": 15,
+    "name": "Iqraam Rayners"
+   },
+   {
+    "no": 16,
+    "name": "Sipho Chaine"
+   },
+   {
+    "no": 26,
+    "name": "Bradley Cross"
+   },
+   {
+    "no": 9,
+    "name": "Lyle Foster"
+   },
+   {
+    "no": 22,
+    "name": "Ricardo Goss"
+   },
+   {
+    "no": 18,
+    "name": "Samukele Kabini"
+   },
+   {
+    "no": 24,
+    "name": "Olwethu Makhanya"
+   },
+   {
+    "no": 2,
+    "name": "Thabang Matuludi"
+   },
+   {
+    "no": 3,
+    "name": "Khulumani Ndamane"
+   },
+   {
+    "no": 25,
+    "name": "Kamogelo Sebelebele"
+   },
+   {
+    "no": 19,
+    "name": "Nkosinathi Sibisi"
+   }
+  ],
+  "away": [
+   {
+    "no": 1,
+    "name": "Seung-Gyu Kim"
+   },
+   {
+    "no": 3,
+    "name": "Gi-hyuk Lee"
+   },
+   {
+    "no": 4,
+    "name": "Kim Min-Jae"
+   },
+   {
+    "no": 2,
+    "name": "Han-beom Lee"
+   },
+   {
+    "no": 13,
+    "name": "Tae-seok Lee"
+   },
+   {
+    "no": 6,
+    "name": "In-beom Hwang"
+   },
+   {
+    "no": 8,
+    "name": "Seung-Ho Paik"
+   },
+   {
+    "no": 22,
+    "name": "Young-woo Seol"
+   },
+   {
+    "no": 11,
+    "name": "Hwang Hee-Chan"
+   },
+   {
+    "no": 19,
+    "name": "Lee Kang-in"
+   },
+   {
+    "no": 18,
+    "name": "Oh Hyeon-Gyu"
+   },
+   {
+    "no": 23,
+    "name": "Jens Castrop"
+   },
+   {
+    "no": 9,
+    "name": "Cho Gue-Sung"
+   },
+   {
+    "no": 24,
+    "name": "Jin-gyu Kim"
+   },
+   {
+    "no": 16,
+    "name": "Jin-seob Park"
+   },
+   {
+    "no": 7,
+    "name": "Heung-Min Son"
+   },
+   {
+    "no": 17,
+    "name": "Joon-ho Bae"
+   },
+   {
+    "no": 14,
+    "name": "Wi-je Cho"
+   },
+   {
+    "no": 25,
+    "name": "Ji-sung Eom"
+   },
+   {
+    "no": 21,
+    "name": "Hyeon-woo Jo"
+   },
+   {
+    "no": 5,
+    "name": "Kim Tae-Hyeon"
+   },
+   {
+    "no": 15,
+    "name": "Moon-hwan Kim"
+   },
+   {
+    "no": 10,
+    "name": "Lee Jae-Sung"
+   },
+   {
+    "no": 26,
+    "name": "Dong-Gyeong Lee"
+   },
+   {
+    "no": 12,
+    "name": "Bum-keun Song"
+   },
+   {
+    "no": 20,
+    "name": "Hyun-jun Yang"
+   }
+  ]
+ },
+ "missing": [
+  {
+   "side": "home",
+   "no": 11,
+   "name": "Themba Zwane",
+   "reason": "Red Card"
+  }
+ ],
+ "events": [
+  {
+   "min": 63,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Thapelo Maseko"
+  },
+  {
+   "min": 73,
+   "side": "home",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Aubrey Modiba"
+  },
+  {
+   "min": 79,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Cho Gue-Sung"
+  }
+ ],
+ "injuries": [],
+ "suspensions": [],
+ "ratings": {},
+ "quotes": [],
+ "narrative": "",
+ "prediction_note": "",
+ "_note": "macheta/Sofascore 权威硬数据；injuries/suspensions/ratings/quotes/narrative/prediction_note 待 agent WebSearch 补。",
+ "ht": "0-0"
+}

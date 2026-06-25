@@ -1,0 +1,16 @@
+{
+ "team": "JOR",
+ "source": "news.ifeng.com",
+ "url": "https://news.ifeng.com/c/8uBjyczpnU1",
+ "title": "世界杯丨小组赛：约旦队对阵阿尔及利亚队(3)",
+ "news_date": "2026-06-25",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-25",
+ "fetched": "2026-06-25_1134",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "当地时间6月22日，在美国旧金山进行的2026年美加墨世界杯足球赛J组小组赛中，约旦队对阵阿尔及利亚队。\n\n6月22日，约旦队球员尼扎尔·阿尔拉什丹（右一）进球后庆祝。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

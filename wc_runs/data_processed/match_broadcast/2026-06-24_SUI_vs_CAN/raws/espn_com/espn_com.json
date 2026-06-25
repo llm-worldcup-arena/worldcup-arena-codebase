@@ -1,0 +1,24 @@
+{
+ "source": "espn.com",
+ "url": "https://www.espn.com/soccer/report/_/gameId/760463",
+ "title": "Switzerland 2-1 Canada (Jun 24, 2026) Game Analysis - ESPN",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-24",
+  "home": "SUI",
+  "away": "CAN",
+  "home_en": "Switzerland",
+  "away_en": "Canada",
+  "home_zh": "瑞士",
+  "away_zh": "加拿大",
+  "comp": "小组赛·B组",
+  "match_id": "M51",
+  "slug": "2026-06-24_SUI_vs_CAN"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Breel Embolo helped to dash co-hosts Canada's hopes of a last-32 clash on home soil as unbeaten Switzerland clinched top spot in Group B with a 2-1 victory in Vancouver.\nThe Rennes frontman set up both Rubén Vargas and Johan Manzambi after the break as the Swiss ensured they will return to the same venue in the knockout stage despite substitute Promise David's reply.\nJesse Marsch's side, who finished above Bosnia and Herzegovina by virtue of their head-to-head record, face a trip to Los Angeles.\nThe Swiss should have been ahead within 11 minutes when Embolo was played in behind defender Richie Laryea, only to see his shot blocked by keeper Maxime Crépeau before Manzambi's follow-up was repelled by Derek Cornelius.\nCanada frontman Cyle Larin was equally wasteful two minutes later, although an offside flag belatedly spared his blushes, but he did significantly better after running on to Jonathan David's 33rd-minute pass, forcing a solid save from Gregor Kobel with a curling right-foot attempt.\nSwitzerland celebrate as Johan Manzambi scores their second goal against Canada.\nDale MacMillan/Soccrates/Getty Images\nKobel clawed away Ali Ahmed's strike at his near post after he had been picked out by Jonathan David, who later lashed a left-foot shot wide, with four minutes of what proved to be a goalless first half remaining.\nHowever, the game exploded into life within 40 seconds of the restart when Embolo smuggled the ball away from full-back Alistair Johnston on the Swiss right and crossed to the far post, where Vargas blasted past Crepeau at his near post.\nThe Canada keeper was culpable as Murat Yakin's men extended their lead with 57 minutes gone, allowing Manzambi's shot to squirm from his grasp after Embolo had held the ball up and laid it into his run.\nPromise David gave his side hope with 14 minutes remaining when he dispatched Nathan Saliba's fine cross emphatically past Kobel, but Johnston was unable to direct his header past the keeper deep into stoppage time.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

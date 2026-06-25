@@ -1,0 +1,40 @@
+{
+ "match": {
+  "slug": "2026-06-25_JPN_vs_SWE",
+  "date": "2026-06-25",
+  "home": "JPN",
+  "away": "SWE",
+  "round": "group",
+  "group": "F"
+ },
+ "kickoff": {
+  "美东": "2026-06-25T19:00:00-04:00",
+  "北京": "06-26 07:00"
+ },
+ "venue": {
+  "name": "AT&T Stadium",
+  "city": "Arlington, Texas",
+  "altitude_m": 184,
+  "roof": "retractable",
+  "surface": "grass"
+ },
+ "weather": {
+  "开球时段": {
+   "温度C": 33.8,
+   "体感C": 33.9,
+   "降水概率%": 1,
+   "降水mm": 0.0,
+   "风速kmh": 20.8,
+   "湿度%": 40,
+   "天况": "基本晴"
+  },
+  "source": "open-meteo(免费预报API)",
+  "fetched": "2026-06-25_1134",
+  "_note": "临近开球建议 --refresh 刷新"
+ },
+ "referee": {
+  "name": null,
+  "_note": "待 WebSearch FIFA指派公告"
+ },
+ "_note": "环境=比赛+时间+地点 确定;天气为开球时段;顶棚 retractable/fixed-canopy 时天气影响有限。"
+}

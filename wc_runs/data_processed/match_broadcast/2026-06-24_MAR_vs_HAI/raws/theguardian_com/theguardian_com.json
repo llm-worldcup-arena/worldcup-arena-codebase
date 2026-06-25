@@ -1,0 +1,24 @@
+{
+ "source": "theguardian.com",
+ "url": "https://www.theguardian.com/football/2026/jun/25/morocco-haiti-world-cup-match-report",
+ "title": "Morocco battle back to claim thumping World Cup win in six-goal thriller with Haiti",
+ "published": "2026-06-25T00:23:12.000Z",
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-24",
+  "home": "MAR",
+  "away": "HAI",
+  "home_en": "Morocco",
+  "away_en": "Haiti",
+  "home_zh": "摩洛哥",
+  "away_zh": "海地",
+  "comp": "小组赛·C组",
+  "match_id": "M50",
+  "slug": "2026-06-24_MAR_vs_HAI"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Morocco confirmed their progress to the World Cup last 32 ⁠but twice had to ⁠come from behind to ​get the better of plucky Haiti 4-2 in an action-packed game on Wednesday, and fell short of topping Brazil in the Group C standings .\n\nMorocco finished level on seven points with ⁠the five-time world champions, who beat Scotland 3-0, but are runners-up on goal difference and will play the Group F winners – either Japan, the Netherlands or Sweden – on Monday in the first knockout round.\n\n“We were looking for first spot in the group, but Haiti had ‌nothing to lose and played a good transition game, so it was not an easy game for us,” coach Mohamed Ouahbi said.\n\n“Morocco has entered a whole new ⁠dimension, and we’re part ⁠of a new ​momentum where we actually need to believe we can take the title.\n\n“How do we reach this objective? Well, again, as I said before, we need to be 100% committed. Today, we have the best ingredients ⁠that are needed to become the best nation, and we believe we can do it; the players ​believe in it, the same for the ‌staff.”\n\nHaiti, the ⁠first side eliminated from the 48-team tournament after losing their second group game, went ahead early but African footballer of the ​year Achraf Hakimi equalised in the 39th minute.\n\nWilson Isidor’s thunderbolt ‌restored Haiti’s lead in the 43rd ‌minute but matters were soon level again as Ismael Saibari scored his third goal in as many World Cup appearances.\n\nIt took ‌until the 78th minute for Morocco to go ahead when substitute Soufiane Rahimi thrashed home from close range after Haiti failed to clear a corner and 20-year-old Gessime Yassine made it 4-2 in the last minute.\n\nHaiti had only pride to play for but made Morocco work for their victory and despite losing all three games at the tournament – their first in 52 years – will depart with their reputation enhanced.\n\n“We showed that we didn’t steal our spot here,” manager Sebastien Migne said. “We deserve to be here.\n\n“I hope that what ‌we gave the fans was good enough for them. Unfortunately, we didn’t get a point, we would have loved to give at least a point to our fans.”\n\nWith vociferous support willing them forward, Haiti opened the scoring after 10 ‌minutes as Josué Casimir calmly shielded the ball, waiting for Jean-Kévin Duverne to support him on the wing and carry it into the box before a square pass was audaciously backheeled goalwards by Lenny ​Joseph.\n\nThe goal was initially awarded to the Haiti striker even though his effort looked to be going wide, deflecting in off the back of Morocco goalkeeper Yassine Bounou, but it was later changed to become yet another own goal in this tournament.\n\nHaiti’s 38-year-old goalkeeper Johny Placide, playing his last international after 15 years in the team, produced a series of sharp saves to twice deny Ayoub ⁠El Kaabi and Hakimi. But when he parried Bilal El Khannouss’s cross in the 39th minute, Hakimi ​was quickest to bundle it over the ​line for the equaliser.\n\nDuverne set up Isidor ​for his rasping strike from outside the area to put Haiti ahead again.\n\nMorocco’s response was much quicker ​the second time, with Sofyan ‌Amrabat setting Hakimi off ​down the right flank and ​the captain dragging the ball back for Saibari to slot home.\n\nHaiti’s defences were eventually breached from a set-piece although they protested vehemently for a foul after Rahimi had controlled the ball before turning and slamming home. Rahimi set up Yassine for a tap-in after Haiti’s defenders stopped playing, believing the ball had gone out of play, but VAR confirmed the goal.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

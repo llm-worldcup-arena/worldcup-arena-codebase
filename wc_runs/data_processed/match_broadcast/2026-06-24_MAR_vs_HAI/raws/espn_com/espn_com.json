@@ -1,0 +1,24 @@
+{
+ "source": "espn.com",
+ "url": "https://www.espn.com/soccer/report/_/gameId/760464",
+ "title": "Morocco 4-2 Haiti (Jun 24, 2026) Game Analysis - ESPN",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-24",
+  "home": "MAR",
+  "away": "HAI",
+  "home_en": "Morocco",
+  "away_en": "Haiti",
+  "home_zh": "摩洛哥",
+  "away_zh": "海地",
+  "comp": "小组赛·C组",
+  "match_id": "M50",
+  "slug": "2026-06-24_MAR_vs_HAI"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Soufiane Rahimi and Gessime Yassine came off the bench to help Morocco rally for a 4-2 victory over Haiti on Wednesday and erase the Caribbean nation's hopes of a first ever point at the World Cup.\nMorocco, which became the first African team to reach the World Cup semifinals four years ago in Qatar, twice came from behind against a team playing on soccer's biggest stage for the first time in 52 years.\nRahimi's deflected shot in the 78th minute put Morocco ahead 3-2 and Yassine killed off any chance of an upset with a goal in the 89th.\nMorocco advanced to the round of 32 in second place behind Brazil in Group C. The five-time champion Brazilians beat Scotland 3-0 in the other group match.\nMorocco, which won the most recent Africa Cup of Nations, has ambitions go deep again this year. But it was given a scare by Haiti, which is 74 places below Morocco in the FIFA rankings.\nMorocco beat Haiti 4-2 on Wednesday.\nEvrim Aydin/Anadolu via Getty Images\nHaiti took a surprise lead in the 10th minute with a goal that was more than five decades in the making.\nLenny Jospeh's back-heeled flick at the near post beat Morocco goalkeeper Yassine Bounou and he became his country's first scorer at a World Cup since Emmanuel Sanon in 1974, which was Haiti's only other appearance at the tournament.\nMorocco pushed for an equalizer and Achraf Hakimi finally got it in the 39th minute. Haiti keeper Johny Placide managed to get a hand to Bilal El Khannouss' deflected cross, but couldn't prevent Hakimi from bundling the ball over the line.\nAlthough Morocco looked to be ready to explode for more goals, it was Haiti that again took the lead four minutes later when Wilson Isidor scored from outside the box with a shot that flew into the top corner.\nThere was still time for another goal at the end of a thrilling half with Ismael Saibari sweeping Hakimi's cross past Placide in stoppage time to make it 2-2 at the break.\nIt was Saibari's third goal of the tournament.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

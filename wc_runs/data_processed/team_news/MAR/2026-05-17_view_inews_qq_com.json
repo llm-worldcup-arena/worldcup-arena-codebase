@@ -1,0 +1,16 @@
+{
+ "team": "MAR",
+ "source": "view.inews.qq.com",
+ "url": "https://view.inews.qq.com/a/20260517A07LZJ00",
+ "title": "摩洛哥记者：因为此前的伤病，齐耶赫不会入选世界杯大名单_腾讯新闻",
+ "news_date": "2026-05-17",
+ "published": "2026-05-17 22:59:09",
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-25",
+ "fetched": "2026-06-25_1134",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "虎扑05月17日讯 据摩洛哥记者Izem Anass的独家消息称，齐耶赫并不会入选世界杯大名单。\n\nAnass写道：“回应球迷们关于齐耶赫的疑问，尤其是他是否会出现在摩洛哥国家队大名单中。根据我的独家消息来源，他此前遭遇的伤病，是国家队主帅哈利霍季奇将其排除在征召考虑之外的原因。”",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

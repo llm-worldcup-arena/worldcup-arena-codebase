@@ -1,0 +1,16 @@
+{
+ "team": "ARG",
+ "source": "sina.cn",
+ "url": "https://www.sina.cn/news/detail/5307132998058839.html",
+ "title": "阿根廷后卫因伤无缘世界杯_新浪新闻",
+ "news_date": "2026-06-25",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-25",
+ "fetched": "2026-06-25_1134",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "阿根廷国家队官方确认，后卫巴列尔迪（巴莱尔迪）训练中右腿比目鱼肌受伤，确定无缘2026美加墨世界杯。27岁的他首次入选世界杯名单，本是后防重要轮换球员。阿根廷将启动补招，塞内西成热门替代人选。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

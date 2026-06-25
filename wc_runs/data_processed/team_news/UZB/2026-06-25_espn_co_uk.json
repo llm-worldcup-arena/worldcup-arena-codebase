@@ -1,0 +1,16 @@
+{
+ "team": "UZB",
+ "source": "espn.co.uk",
+ "url": "https://www.espn.co.uk/football/team/_/id/2570/uzbekistan",
+ "title": "Uzbekistan Scores, Stats and Highlights - ESPN (UK)",
+ "news_date": "2026-06-25",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-25",
+ "fetched": "2026-06-25_1134",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Has Ronaldo silenced his critics after brace vs. Uzbekistan?\n1d\nUzbekistan\nSOCCER\nUzbekistan\nSOCCER\nUzbekistan\nSOCCER\nUzbekistan\nSOCCER\nLisbon goes wild as Ronaldo scores for Portugal vs. Uzbekistan\n1d\nUzbekistan\nSOCCER\nConceicao: We don't have any obligation to pass the ball to Ronaldo\n3d\nBack to Top",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

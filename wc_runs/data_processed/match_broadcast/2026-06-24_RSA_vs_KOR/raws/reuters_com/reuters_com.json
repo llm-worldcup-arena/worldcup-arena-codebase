@@ -1,0 +1,24 @@
+{
+ "source": "reuters.com",
+ "url": "https://www.reuters.com/sports/soccer/soccer-south-africa-south-korea-seek-win-decisive-group-clash-2026-06-22/",
+ "title": "Soccer-South Africa and South Korea seek win in decisive Group A clash | Reuters",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-24",
+  "home": "RSA",
+  "away": "KOR",
+  "home_en": "South Africa",
+  "away_en": "Korea Republic",
+  "home_zh": "南非",
+  "away_zh": "韩国",
+  "comp": "小组赛·A组",
+  "match_id": "M54",
+  "slug": "2026-06-24_RSA_vs_KOR"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Soccer-South Africa and South Korea seek win in decisive Group A clash\nVerification Required\nThe visual verification might not be accessible to you. We recommend you to use the audio verification instead. Important: after clicking play, you will hear 6 digits. Please wait until the audio finishes before typing or interacting with the page.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

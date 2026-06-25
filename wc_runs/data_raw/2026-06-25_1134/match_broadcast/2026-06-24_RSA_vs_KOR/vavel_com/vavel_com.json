@@ -1,0 +1,24 @@
+{
+ "source": "vavel.com",
+ "url": "https://www.vavel.com/en-us/soccer/2026/06/12/1263204-south-korea-vs-czech-republic-live-score-2026-world-cup.html",
+ "title": "Highlights and goals of South Korea 2-1 Czech Republic in the 2026 FIFA World Cup | 06/11/2026 - VAVEL USA",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-24",
+  "home": "RSA",
+  "away": "KOR",
+  "home_en": "South Africa",
+  "away_en": "Korea Republic",
+  "home_zh": "南非",
+  "away_zh": "韩国",
+  "comp": "小组赛·A组",
+  "match_id": "M54",
+  "slug": "2026-06-24_RSA_vs_KOR"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Highlights and goals of South Korea 2-1 Czech Republic in the 2026 FIFA World Cup | 06/11/2026\nHighlights and goals of South Korea 2-1 Czech Republic in the 2026 FIFA World Cup\nThe Czech Republic struck first, but South Korea showed resilience to complete a 2-1 comeback win in Guadalajara. The result boosts the Koreans' hopes in Group A. Up next, South Korea meets Mexico, while the Czech Republic faces South Africa.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

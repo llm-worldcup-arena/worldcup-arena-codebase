@@ -1,0 +1,16 @@
+{
+ "team": "IRN",
+ "source": "sports.ifeng.com",
+ "url": "https://sports.ifeng.com/c/8sTGH8fIj0S",
+ "title": "确认！伊朗男足公布30人名单将参加2026年世界杯",
+ "news_date": "2026-06-25",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-25",
+ "fetched": "2026-06-25_1134",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "当地时间19日，伊朗国家足球队媒体部门表示，随着部分联赛赛事安排调整，国家队训练工作将按照教练组技术安排有序推进，以保障球队备战2026年世界杯的整体计划。\n\n该部门表示，伊朗男足将根据既定备战方案开展阶段性集训，并通过系统训练提升球队整体竞争力，为在2026年美加墨世界杯赛场取得良好表现做好准备。\n\n“特别声明：以上作品内容(包括在内的视频、图片或音频)为凤凰网旗下自媒体平台“大风号”用户上传并发布，本平台仅提供信息存储空间服务。\n\nNotice: The content above (including the videos, pictures and audios if any) is uploaded and posted by the user of Dafeng Hao, which is a social media platform and merely provides information storage space services.”",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

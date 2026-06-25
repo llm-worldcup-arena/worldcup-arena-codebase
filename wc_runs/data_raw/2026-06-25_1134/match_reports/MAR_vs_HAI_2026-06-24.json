@@ -1,0 +1,390 @@
+{
+ "match_id": "4627938",
+ "date": "2026-06-24",
+ "comp": "世界杯·C组",
+ "ha_home": "中",
+ "home": "MAR",
+ "away": "HAI",
+ "score": "4-2",
+ "venue": "Mercedes-Benz Stadium (Atlanta)",
+ "attendance": 68239,
+ "goals": [
+  {
+   "min": 10,
+   "side": "away",
+   "player": "Yassine Bounou",
+   "sub": "乌龙"
+  },
+  {
+   "min": 39,
+   "side": "home",
+   "player": "Achraf Hakimi",
+   "sub": null
+  },
+  {
+   "min": 43,
+   "side": "away",
+   "player": "Wilson Isidor",
+   "sub": null
+  },
+  {
+   "min": 45,
+   "side": "home",
+   "player": "Ismael Saibari",
+   "sub": null
+  },
+  {
+   "min": 78,
+   "side": "home",
+   "player": "Soufiane Rahimi",
+   "sub": null
+  },
+  {
+   "min": 89,
+   "side": "home",
+   "player": "Gessime Yassine",
+   "sub": null
+  }
+ ],
+ "cards": [
+  {
+   "min": 79,
+   "side": "away",
+   "player": "Duckens Nazon",
+   "type": "黄牌"
+  },
+  {
+   "min": 90,
+   "side": "away",
+   "player": "Josue Casimir",
+   "type": "黄牌"
+  }
+ ],
+ "stats": {
+  "射门": [
+   "22",
+   "9"
+  ],
+  "射正": [
+   "11",
+   "2"
+  ],
+  "禁区内射门": [
+   "6",
+   "4"
+  ],
+  "扑救": [
+   "5",
+   "3"
+  ],
+  "角球": [
+   "9",
+   "1"
+  ],
+  "越位": [
+   "5",
+   "0"
+  ],
+  "控球%": [
+   "69%",
+   "31%"
+  ],
+  "传中": [
+   "91",
+   "55"
+  ],
+  "传球": [
+   "479",
+   "198"
+  ],
+  "xG预期进球": [
+   "1.74",
+   "0.78"
+  ],
+  "xGOT/大机会": [
+   "3.71",
+   "0.49"
+  ]
+ },
+ "lineups": {
+  "home": [
+   {
+    "no": 1,
+    "name": "Yassine Bounou"
+   },
+   {
+    "no": 26,
+    "name": "Anass Salah-Eddine"
+   },
+   {
+    "no": 18,
+    "name": "Chadi Riad"
+   },
+   {
+    "no": 25,
+    "name": "Redouane Halhal"
+   },
+   {
+    "no": 2,
+    "name": "Achraf Hakimi"
+   },
+   {
+    "no": 4,
+    "name": "Sofyan Amrabat"
+   },
+   {
+    "no": 24,
+    "name": "Neil El Aynaoui"
+   },
+   {
+    "no": 23,
+    "name": "Bilel El Khanouss"
+   },
+   {
+    "no": 11,
+    "name": "Ismael Saibari"
+   },
+   {
+    "no": 10,
+    "name": "Brahim Diaz"
+   },
+   {
+    "no": 20,
+    "name": "Ayoub El Kaabi"
+   },
+   {
+    "no": 15,
+    "name": "Samir El Mourabet"
+   },
+   {
+    "no": 3,
+    "name": "Noussair Mazraoui"
+   },
+   {
+    "no": 8,
+    "name": "Azzedine Ounahi"
+   },
+   {
+    "no": 9,
+    "name": "Soufiane Rahimi"
+   },
+   {
+    "no": 16,
+    "name": "Gessime Yassine"
+   },
+   {
+    "no": 21,
+    "name": "Ayoube Amaimouni-Echghouyab"
+   },
+   {
+    "no": 19,
+    "name": "Youssef Belammari"
+   },
+   {
+    "no": 6,
+    "name": "Ayyoub Bouaddi"
+   },
+   {
+    "no": 14,
+    "name": "Issa Diop"
+   },
+   {
+    "no": 13,
+    "name": "Zakaria El Ouahdi"
+   },
+   {
+    "no": 12,
+    "name": "Munir El Kajoui"
+   },
+   {
+    "no": 5,
+    "name": "Marwane Saadane"
+   },
+   {
+    "no": 17,
+    "name": "Amine Sbaï"
+   },
+   {
+    "no": 22,
+    "name": "Ahmed Reda Tagnaouti"
+   },
+   {
+    "no": 7,
+    "name": "Chemsdine Talbi"
+   }
+  ],
+  "away": [
+   {
+    "no": 1,
+    "name": "Johny Placide"
+   },
+   {
+    "no": 8,
+    "name": "Martin Experience"
+   },
+   {
+    "no": 5,
+    "name": "Hannes Delcroix"
+   },
+   {
+    "no": 4,
+    "name": "Ricardo Ade"
+   },
+   {
+    "no": 22,
+    "name": "Jean-Kevin Duverne"
+   },
+   {
+    "no": 15,
+    "name": "Ruben Providence"
+   },
+   {
+    "no": 10,
+    "name": "Jean-Ricner Bellegarde"
+   },
+   {
+    "no": 17,
+    "name": "Danley Jean Jacques"
+   },
+   {
+    "no": 21,
+    "name": "Josue Casimir"
+   },
+   {
+    "no": 18,
+    "name": "Wilson Isidor"
+   },
+   {
+    "no": 16,
+    "name": "Lenny Joseph"
+   },
+   {
+    "no": 9,
+    "name": "Duckens Nazon"
+   },
+   {
+    "no": 2,
+    "name": "Carlens Arcus"
+   },
+   {
+    "no": 11,
+    "name": "Louicius Deedson"
+   },
+   {
+    "no": 20,
+    "name": "Frantzdy Pierrot"
+   },
+   {
+    "no": 25,
+    "name": "Dominique Simon"
+   },
+   {
+    "no": 23,
+    "name": "Josue Duverger"
+   },
+   {
+    "no": 7,
+    "name": "Derrick Etienne Jr."
+   },
+   {
+    "no": 19,
+    "name": "Yassin Fortune"
+   },
+   {
+    "no": 13,
+    "name": "Markhus Lacroix"
+   },
+   {
+    "no": 14,
+    "name": "Leverton Pierre"
+   },
+   {
+    "no": 24,
+    "name": "Wilguens Paugain"
+   },
+   {
+    "no": 26,
+    "name": "Olivier Pierre"
+   },
+   {
+    "no": 12,
+    "name": "Alexandre Pierre"
+   },
+   {
+    "no": 6,
+    "name": "Carl Sainte"
+   },
+   {
+    "no": 3,
+    "name": "Keeto Thermoncy"
+   }
+  ]
+ },
+ "missing": [],
+ "events": [
+  {
+   "min": 10,
+   "side": "away",
+   "type": "进球",
+   "sub": "乌龙",
+   "player": "Yassine Bounou"
+  },
+  {
+   "min": 39,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Achraf Hakimi"
+  },
+  {
+   "min": 43,
+   "side": "away",
+   "type": "进球",
+   "sub": null,
+   "player": "Wilson Isidor"
+  },
+  {
+   "min": 45,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Ismael Saibari"
+  },
+  {
+   "min": 78,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Soufiane Rahimi"
+  },
+  {
+   "min": 79,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Duckens Nazon"
+  },
+  {
+   "min": 89,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Gessime Yassine"
+  },
+  {
+   "min": 90,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Josue Casimir"
+  }
+ ],
+ "injuries": [],
+ "suspensions": [],
+ "ratings": {},
+ "quotes": [],
+ "narrative": "",
+ "prediction_note": "",
+ "_note": "macheta/Sofascore 权威硬数据；injuries/suspensions/ratings/quotes/narrative/prediction_note 待 agent WebSearch 补。",
+ "ht": "2-2"
+}

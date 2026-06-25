@@ -1,0 +1,24 @@
+{
+ "source": "espn.com",
+ "url": "https://www.espn.com/soccer/report/_/gameId/760465",
+ "title": "Scotland 0-3 Brazil (Jun 24, 2026) Game Analysis - ESPN",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-24",
+  "home": "SCO",
+  "away": "BRA",
+  "home_en": "Scotland",
+  "away_en": "Brazil",
+  "home_zh": "苏格兰",
+  "away_zh": "巴西",
+  "comp": "小组赛·C组",
+  "match_id": "M49",
+  "slug": "2026-06-24_SCO_vs_BRA"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Vinícius Júnior scored two goals, Matheus Cunha also scored and five-time World Cup champion Brazil beat Scotland 3-0 on Wednesday, advancing to the knockout stage as the Group C winner.\nVinícius -- who has a goal in all three of Brazil's group matches -- scored in the seventh minute and again just before halftime, tying Norway's Erling Haaland and Kylian Mbappé with of France with four goals, one behind Lionel Messi of Argentina.\nBrazil reached the knockout rounds for the 15th consecutive World Cup. Morocco finished second in the group and also advanced, rallying to beat Haiti 4-2.\nNeymar entered as a substitute in the 76th, making his debut after a right calf injury sidelined him for Brazil's first two matches. The majority-Brazilian crowd at Hard Rock Stadium began chanting his name midway through the second half as he got off the bench and began doing warmup sprints on the sideline -- and fans roared as he trotted onto the pitch.\nVinícius Júnior celebrates after scoring against Scotland on Wednesday.\nHannah Peters - FIFA/FIFA via Getty Images\nNeymar is Brazil's career scoring leader with 79 goals in 130 international appearances. The 34-year-old forward appeared in each of the past three World Cups for Brazil, scoring eight goals.\nScotland is playing in its first World Cup since 1998 and has become one of the more interesting teams of the tournament. Its dedicated fans, known as the Tartan Army, brought a party atmosphere to the Boston and Miami areas ahead of their team's matches.\nScotland hasn't advanced past the group stage in nine tries.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

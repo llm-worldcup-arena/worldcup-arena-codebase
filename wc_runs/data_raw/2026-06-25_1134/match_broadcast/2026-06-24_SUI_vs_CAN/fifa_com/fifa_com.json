@@ -1,0 +1,24 @@
+{
+ "source": "fifa.com",
+ "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/switzerland-canada-match-report-highlights",
+ "title": "Switzerland 2-1 Canada | Match report and highlights",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-24",
+  "home": "SUI",
+  "away": "CAN",
+  "home_en": "Switzerland",
+  "away_en": "Canada",
+  "home_zh": "瑞士",
+  "away_zh": "加拿大",
+  "comp": "小组赛·B组",
+  "match_id": "M51",
+  "slug": "2026-06-24_SUI_vs_CAN"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Switzerland advance to the Round of 32 after Juan Vargas and Johan Manzambi earned victory over co-hosts Canada, who also punched their ticket.\nSwitzerland 2-1 CanadaSwitzerland 2-1 Canada\nSwitzerland goals: Vargas (46), Manzambi (57) Canada goal: Promise David (76)\nCanada’s party at the FIFA World Cup 2026™ will continue through the knockout stages — though it was Switzerland celebrating in Vancouver after a hard-fought victory secured first place in Group B for Murat Yakin’s men.\nWhile both teams march on – Canada for the first time in their history – Switzerland’s success, achieved through second-half strikes by Juan Vargas and Johan Manzambi, means that they, not the co-hosts, will be back at BC Place Vancouver on 2 July to take on the third-placed team from Group E, F, G, I or J in the Round of 32.\nFor Canada, demoted to second place in the group by this defeat, they advance as runners-up and must travel south to Los Angeles for their meeting with the Group A runners-up on 28 June.\nSwitzerland had their first scent of goal after 11 minutes. Released by Ricardo Rodriguez, Breel Embolo went through on goal but was foiled by Maxime Crepeau, the Canada custodian, with Derek Cornelius then blocking Manzambi’s follow-up attempt.\nFor all Canada’s endeavour, the closest they got to a first-half goal were low shots by Cyle Larin and Ali Ahmed which did not trouble Gregor Kobel too greatly.\nThen, 40 seconds after the interval, Switzerland seized control as Vargas collected the ball at the back post and produced an emphatic finish into the bottom corner following Manzambi’s low cross from the right. Manzambi himself doubled the advantage after 57 minutes, the 20-year-old scoring his third goal of these finals with a low drive under Crepeau.\nWith the spirit that has helped them make history, Canada rallied with substitute Promise David stabbing in a volley with his first touch, two minutes after taking the field in the 74th minute. It led to a late siege on the Swiss goal but Kobel's save from David's header secured them the points.\nKey statKey stat\nSwitzerland have qualified from the group stage for the sixth time in their last seven World Cup campaigns.\nSuperior Player of the MatchSuperior Player of the Match\nJohan Manzambi (Switzerland)\nWhat they saidWhat they said\n\"I know our team has heart. We have a group that will give everything at every moment. It’s just about managing the little moments. At the start we were tentative and not aggressive enough. But I will focus on the positives and on the response. I thought about going to five at the back at half-time to lock things up and I wish we’d done that. Alphonso Davies should be ready for the next match. We just wanted to continue the energy that’s taken place here in Canada. That’s the disappointment – building on one big win is so important. I’m so thankful for the energy and the country. But we’re going to go to LA and we still want to electrify our country. We’re exactly where we wanted to be – in the knockout phase.\" Jesse Marsch, Canada coach\n\"I think we played three good games. The first one with the result not so good, but at the end we got two wins, one draw, so we are confident as a team. We have a lot of players in good shape. We are in good shape also in the team. We laugh a lot, so we are really confident to play this next game.\" Michel Aebischer, Switzerland midfielder \"We've come a long way in the programme, and this is the reality of our group now where we're not satisfied with what we have because we always look forward and we always look ahead. So [for] the collective feeling, there's a bit of disappointment. We wanted to stay home but now we have to see against who we're playing, and we're going to go on the road and we know how to play as well in those type of games.”",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

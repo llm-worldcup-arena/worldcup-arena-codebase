@@ -1,0 +1,24 @@
+{
+ "source": "directbooking.ro",
+ "url": "https://www.directbooking.ro/offers-valasske-mezirici_czech-republic-booking.aspx?ids=34828&idr=0&tr=individual&mk=linksstatiuni",
+ "title": "Accommodation Valasske Mezirici, Czech Republic Czech Republic winter 2026 - 2027 - without transport - DirectBooking.ro",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-24",
+  "home": "CZE",
+  "away": "MEX",
+  "home_en": "Czech Republic",
+  "away_en": "Mexico",
+  "home_zh": "捷克",
+  "away_zh": "墨西哥",
+  "comp": "小组赛·A组",
+  "match_id": "M53",
+  "slug": "2026-06-24_CZE_vs_MEX"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Accommodation Valasske Mezirici, Czech Republic Czech Republic winter 2026 - 2027 - without transport\nSearch hotel or destination\nDestination\nHotel\nData\nNighs\nRequest an offer\nEnter the information below and we will send you a customized offer as soon as possible\nHotel or Destination\nEmail\nPhone optional\nFilter by×\nApply filters below to find\nApply filters below to find your dream vacation\nMasa\nRoom only (8)\nBreakfast (7)\nFacilitati hotel\nwith restaurant (5)\nwith free parking (2)\nwith massage (1)\nwith sauna (1)\nwith kitchenette (1)\nAccommodation Valasske Mezirici, Czech Republic Czech Republic winter 2026\nFilters: Transport: individual× (16 offers, 237.7EUR - 889EUR)\nAccommodation offers in Valasske Mezirici, offers in Valasske Mezirici, travel offers in Valasske Mezirici Czech Republic, individually Valasske Mezirici Czech Republic, individually accommodation Valasske Mezirici, offer accommodation Valasske Mezirici, individual travel Valasske Mezirici, offers tourist Valasske Mezirici, Valasske Mezirici 2026 - 2027, Valasske Mezirici hotels, Czech Republic Valasske Mezirici, apartments Valasske Mezirici, booking Valasske Mezirici, Valasske Mezirici accommodation, cheap accommodation in Valasske Mezirici , Valasske Mezirici individual travel, trip Valasske Mezirici, hotel in Valasske Mezirici, hotels in Valasske Mezirici, Valasske Mezirici hotels, Valasske Mezirici reservation, accommodation Valasske Mezirici, Valasske Mezirici resort, holiday Valasske Mezirici, Valasske Mezirici tourism, hotels Valasske Mezirici, Valasske Mezirici trip.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

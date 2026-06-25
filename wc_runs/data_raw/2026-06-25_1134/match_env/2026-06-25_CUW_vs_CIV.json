@@ -1,0 +1,40 @@
+{
+ "match": {
+  "slug": "2026-06-25_CUW_vs_CIV",
+  "date": "2026-06-25",
+  "home": "CUW",
+  "away": "CIV",
+  "round": "group",
+  "group": "E"
+ },
+ "kickoff": {
+  "美东": "2026-06-25T16:00:00-04:00",
+  "北京": "06-26 04:00"
+ },
+ "venue": {
+  "name": "Lincoln Financial Field",
+  "city": "Philadelphia",
+  "altitude_m": 12,
+  "roof": "open",
+  "surface": "grass"
+ },
+ "weather": {
+  "开球时段": {
+   "温度C": 30.3,
+   "体感C": 30.6,
+   "降水概率%": 2,
+   "降水mm": 0.0,
+   "风速kmh": 9.2,
+   "湿度%": 35,
+   "天况": "晴"
+  },
+  "source": "open-meteo(免费预报API)",
+  "fetched": "2026-06-25_1134",
+  "_note": "临近开球建议 --refresh 刷新"
+ },
+ "referee": {
+  "name": null,
+  "_note": "待 WebSearch FIFA指派公告"
+ },
+ "_note": "环境=比赛+时间+地点 确定;天气为开球时段;顶棚 retractable/fixed-canopy 时天气影响有限。"
+}

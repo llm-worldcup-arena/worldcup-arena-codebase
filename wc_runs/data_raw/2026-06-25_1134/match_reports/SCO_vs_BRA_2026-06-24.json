@@ -1,0 +1,374 @@
+{
+ "match_id": "4627881",
+ "date": "2026-06-24",
+ "comp": "世界杯·C组",
+ "ha_home": "中",
+ "home": "SCO",
+ "away": "BRA",
+ "score": "0-3",
+ "venue": "Hard Rock Stadium (Miami)",
+ "attendance": 64478,
+ "goals": [
+  {
+   "min": 7,
+   "side": "away",
+   "player": "Vinicius Júnior",
+   "sub": null
+  },
+  {
+   "min": 45,
+   "side": "away",
+   "player": "Vinicius Júnior",
+   "sub": null
+  },
+  {
+   "min": 60,
+   "side": "away",
+   "player": "Matheus Cunha",
+   "sub": null
+  }
+ ],
+ "cards": [
+  {
+   "min": 62,
+   "side": "away",
+   "player": "Danilo",
+   "type": "黄牌"
+  },
+  {
+   "min": 82,
+   "side": "away",
+   "player": "Fabinho",
+   "type": "黄牌"
+  },
+  {
+   "min": 89,
+   "side": "home",
+   "player": "Ryan Christie",
+   "type": "黄牌"
+  }
+ ],
+ "stats": {
+  "射门": [
+   "14",
+   "21"
+  ],
+  "射正": [
+   "5",
+   "9"
+  ],
+  "禁区内射门": [
+   "6",
+   "7"
+  ],
+  "扑救": [
+   "3",
+   "5"
+  ],
+  "角球": [
+   "7",
+   "6"
+  ],
+  "越位": [
+   "0",
+   "1"
+  ],
+  "控球%": [
+   "46%",
+   "54%"
+  ],
+  "传中": [
+   "92",
+   "106"
+  ],
+  "传球": [
+   "448",
+   "564"
+  ],
+  "xG预期进球": [
+   "1.41",
+   "2.55"
+  ],
+  "xGOT/大机会": [
+   "1.23",
+   "4.42"
+  ]
+ },
+ "lineups": {
+  "home": [
+   {
+    "no": 1,
+    "name": "Angus Gunn"
+   },
+   {
+    "no": 3,
+    "name": "Andrew Robertson"
+   },
+   {
+    "no": 26,
+    "name": "Scott McKenna"
+   },
+   {
+    "no": 13,
+    "name": "Jack Hendry"
+   },
+   {
+    "no": 22,
+    "name": "Nathan Patterson"
+   },
+   {
+    "no": 23,
+    "name": "Kenny Mclean"
+   },
+   {
+    "no": 19,
+    "name": "Lewis Ferguson"
+   },
+   {
+    "no": 7,
+    "name": "John McGinn"
+   },
+   {
+    "no": 4,
+    "name": "Scott McTominay"
+   },
+   {
+    "no": 17,
+    "name": "Ben Doak"
+   },
+   {
+    "no": 20,
+    "name": "Lawrence Shankland"
+   },
+   {
+    "no": 10,
+    "name": "Che Adams"
+   },
+   {
+    "no": 11,
+    "name": "Ryan Christie"
+   },
+   {
+    "no": 25,
+    "name": "Findlay Curtis"
+   },
+   {
+    "no": 24,
+    "name": "Anthony Ralston"
+   },
+   {
+    "no": 6,
+    "name": "Kieran Tierney"
+   },
+   {
+    "no": 9,
+    "name": "Lyndon Dykes"
+   },
+   {
+    "no": 8,
+    "name": "Tyler Fletcher"
+   },
+   {
+    "no": 21,
+    "name": "Craig Gordon"
+   },
+   {
+    "no": 5,
+    "name": "Grant Hanley"
+   },
+   {
+    "no": 2,
+    "name": "Aaron Hickey"
+   },
+   {
+    "no": 18,
+    "name": "George Hirst"
+   },
+   {
+    "no": 16,
+    "name": "Dominic Hyam"
+   },
+   {
+    "no": 12,
+    "name": "Liam Kelly"
+   },
+   {
+    "no": 15,
+    "name": "John Souttar"
+   },
+   {
+    "no": 14,
+    "name": "Ross Stewart"
+   }
+  ],
+  "away": [
+   {
+    "no": 1,
+    "name": "Alisson"
+   },
+   {
+    "no": 16,
+    "name": "Douglas Santos"
+   },
+   {
+    "no": 3,
+    "name": "Gabriel Magalhaes"
+   },
+   {
+    "no": 4,
+    "name": "Marquinhos"
+   },
+   {
+    "no": 13,
+    "name": "Danilo"
+   },
+   {
+    "no": 20,
+    "name": "Lucas Paquetá"
+   },
+   {
+    "no": 5,
+    "name": "Casemiro"
+   },
+   {
+    "no": 8,
+    "name": "Bruno Guimarães"
+   },
+   {
+    "no": 7,
+    "name": "Vinicius Júnior"
+   },
+   {
+    "no": 9,
+    "name": "Matheus Cunha"
+   },
+   {
+    "no": 26,
+    "name": "Rayan"
+   },
+   {
+    "no": 6,
+    "name": "Alex Sandro"
+   },
+   {
+    "no": 22,
+    "name": "Gabriel Martinelli"
+   },
+   {
+    "no": 19,
+    "name": "Endrick"
+   },
+   {
+    "no": 17,
+    "name": "Fabinho"
+   },
+   {
+    "no": 10,
+    "name": "Neymar"
+   },
+   {
+    "no": 24,
+    "name": "Roger Ibanez"
+   },
+   {
+    "no": 25,
+    "name": "Igor Thiago"
+   },
+   {
+    "no": 15,
+    "name": "Leo Pereira"
+   },
+   {
+    "no": 12,
+    "name": "Weverton"
+   },
+   {
+    "no": 21,
+    "name": "Luiz Henrique"
+   },
+   {
+    "no": 23,
+    "name": "Ederson Moraes"
+   },
+   {
+    "no": 14,
+    "name": "Bremer"
+   },
+   {
+    "no": 2,
+    "name": "Éderson"
+   },
+   {
+    "no": 18,
+    "name": "Danilo"
+   }
+  ]
+ },
+ "missing": [
+  {
+   "side": "away",
+   "no": 11,
+   "name": "Raphinha",
+   "reason": "Hamstring Injury"
+  }
+ ],
+ "events": [
+  {
+   "min": 7,
+   "side": "away",
+   "type": "进球",
+   "sub": null,
+   "player": "Vinicius Júnior"
+  },
+  {
+   "min": 24,
+   "side": "away",
+   "type": "T4",
+   "sub": "乌龙",
+   "player": "Goal Disallowed"
+  },
+  {
+   "min": 45,
+   "side": "away",
+   "type": "进球",
+   "sub": null,
+   "player": "Vinicius Júnior"
+  },
+  {
+   "min": 60,
+   "side": "away",
+   "type": "进球",
+   "sub": null,
+   "player": "Matheus Cunha"
+  },
+  {
+   "min": 62,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Danilo"
+  },
+  {
+   "min": 82,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Fabinho"
+  },
+  {
+   "min": 89,
+   "side": "home",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Ryan Christie"
+  }
+ ],
+ "injuries": [],
+ "suspensions": [],
+ "ratings": {},
+ "quotes": [],
+ "narrative": "",
+ "prediction_note": "",
+ "_note": "macheta/Sofascore 权威硬数据；injuries/suspensions/ratings/quotes/narrative/prediction_note 待 agent WebSearch 补。",
+ "ht": "0-2"
+}

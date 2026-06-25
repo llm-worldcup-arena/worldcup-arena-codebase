@@ -1,0 +1,24 @@
+{
+ "source": "espn.com",
+ "url": "https://www.espn.com/soccer/match/_/gameId/760467/mexico-czechia",
+ "title": "Czechia 0-3 Mexico (Jun 24, 2026) Final Score - ESPN",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-24",
+  "home": "CZE",
+  "away": "MEX",
+  "home_en": "Czech Republic",
+  "away_en": "Mexico",
+  "home_zh": "捷克",
+  "away_zh": "墨西哥",
+  "comp": "小组赛·A组",
+  "match_id": "M53",
+  "slug": "2026-06-24_CZE_vs_MEX"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "0.03\nxG\n0.00\nxGOT\n15 yds\nDistance\nRegular Play\nSituation\nHeader\nShot Type\nLow Centre\nGoal Zone\nOff Target\n2 of 24\n8'\n0.06\nxG\n0.00\nxGOT\n17 yds\nDistance\nRegular Play\nSituation\nRight Foot\nShot Type\nClose Left\nGoal Zone\nOff Target\n3 of 24\nShot out of view\n12'\n0.04\nxG\n0.00\nxGOT\n18 yds\nDistance\nRegular Play\nSituation\nLeft Foot\nShot Type\nHigh Left\nGoal Zone\nOff Target\n4 of 24\n15'\n0.02\nxG\n0.00\nxGOT\n33 yds\nDistance\nRegular Play\nSituation\nRight Foot\nShot Type\n-\nGoal Zone\nBlocked\n5 of 24\n27'\n0.10\nxG\n0.00\nxGOT\n15 yds\nDistance\nRegular Play\nSituation\nRight Foot\nShot Type\nLow Centre\nGoal Zone\nOff Target\n6 of 24\n37'\n0.06\nxG\n0.00\nxGOT\n16 yds\nDistance\nRegular Play\nSituation\nRight Foot\nShot Type\n-\nGoal Zone\nBlocked\n7 of 24\n39'\n0.03\nxG\n0.00\nxGOT\n29 yds\nDistance\nRegular Play\nSituation\nLeft Foot\nShot Type\nLow Centre\nGoal Zone\nSaved\n8 of 24\n39'\n0.02\nxG\n0.06\nxGOT\n22 yds\nDistance\nRegular Play\nSituation\nRight Foot\nShot Type\nHigh Right\nGoal Zone\nOff Target\n9 of 24\n39'\n0.08\nxG\n0.00\nxGOT\n19 yds\nDistance\nRegular Play\nSituation\nLeft Foot\nShot Type\n-\nGoal Zone\nOff Target\n10 of 24\n44'\n0.01\nxG\n0.00\nxGOT\n36 yds\nDistance\nRegular Play\nSituation\nRight Foot\nShot Type\nHigh Right\nGoal Zone\nOff Target\n11 of 24\n45'+3'\n0.01\nxG\n0.00\nxGOT\n39 yds\nDistance\nRegular Play\nSituation\nRight Foot\nShot Type\nClose High\nGoal Zone\nSaved\n12 of 24\nL. Cerv\nCZE • Center Right Midfielder\n46'\n0.11\nxG\n0.13\nxGOT\n16 yds\nDistance\nRegular Play\nSituation\nLeft Foot\nShot Type\nHigh Centre\nGoal Zone\nBlocked\n13 of 24\n50'\n0.03\nxG\n0.00\nxGOT\n21 yds\nDistance\nRegular Play\nSituation\nRight Foot\nShot Type\nLow Centre\nGoal Zone\nBlocked\n14 of 24\nL. Cerv\nCZE • Center Right Midfielder\n54'\n0.01\nxG\n0.00\nxGOT\n28 yds\nDistance\nRegular Play\nSituation\nRight Foot\nShot Type\nLow Centre\nGoal Zone\nGoal\n15 of 24\n55'\n0.43\nxG\n0.44\nxGOT\n15 yds\nDistance\nRegular Play\nSituation\nLeft Foot\nShot Type\nLow Left\nGoal Zone\nBlocked\n16 of 24\n61'\n0.03\nxG\n0.00\nxGOT\n31 yds\nDistance\nRegular Play\nSituation\nLeft Foot\nShot Type\nLow Centre\nGoal Zone\nGoal\n17 of 24\n61'\n0.76\nxG\n0.99\nxGOT\n5 yds\nDistance\nRegular Play\nSituation\nRight Foot\nShot Type\nLow Centre\nGoal Zone\nOff Target\n18 of 24\n68'\n0.01\nxG\n0.00\nxGOT\n29 yds\nDistance\nRegular Play\nSituation\nRight Foot\nShot Type\n-\nGoal Zone\nOff Target\n19 of 24\n77'\n0.06\nxG\n0.00\nxGOT\n13 yds\nDistance\nRegular Play\nSituation\nHeader\nShot Type\n-\nGoal Zone\nOff Target\n20 of 24\n81'\n0.02\nxG\n0.00\nxGOT\n36 yds\nDistance\nRegular Play\nSituation\nRight Foot\nShot Type\n-\nGoal Zone\nBlocked\n21 of 24\n90'+2'\n0.02\nxG\n0.00\nxGOT\n32 yds\nDistance\nRegular Play\nSituation\nRight Foot\nShot Type\nLow Left\nGoal Zone\nOff Target\n22 of 24\n90'+3'\n0.01\nxG\n0.00\nxGOT\n17 yds\nDistance\nRegular Play\nSituation\nRight Foot\nShot Type\nHigh Left\nGoal Zone\nSaved\n23 of 24\n90'+4'\n0.10\nxG\n0.22\nxGOT\n11 yds\nDistance\nRegular Play\nSituation\nLeft Foot\nShot Type\nLow Centre\nGoal Zone\nGoal\n24 of 24\n90'+4'\n0.21\nxG\n0.71\nxGOT\n17 yds\nDistance\nRegular Play\nSituation\nRight Foot\nShot Type\nHigh Left\nGoal Zone\nTeam Stats\n0.47\nExpected Goals\n1.79\n52%\nPossession\n48%\n1 (8%)\nShots on Goal\n5 (46%)\n0\nBig Chances Created\n5\n0\nBig Chances Missed\n2\n332 (83%)\nAccurate Passes\n331 (85%)\n40\nDuels Won\n34\n2\nSaves\n1\n9\nFouls Committed\n13\nData is currently unavailable.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

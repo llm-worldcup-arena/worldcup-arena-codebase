@@ -1,0 +1,341 @@
+{
+ "match_id": "4697698",
+ "date": "2026-06-24",
+ "comp": "世界杯·A组",
+ "ha_home": "中",
+ "home": "CZE",
+ "away": "MEX",
+ "score": "0-3",
+ "venue": "Estadio Azteca (Mexico City)",
+ "attendance": 80824,
+ "goals": [
+  {
+   "min": 55,
+   "side": "away",
+   "player": "Mateo Chavez",
+   "sub": null
+  },
+  {
+   "min": 61,
+   "side": "away",
+   "player": "Julian Quinones",
+   "sub": null
+  },
+  {
+   "min": 90,
+   "side": "away",
+   "player": "Alvaro Fidalgo",
+   "sub": null
+  }
+ ],
+ "cards": [
+  {
+   "min": 64,
+   "side": "away",
+   "player": "Edson Alvarez",
+   "type": "黄牌"
+  }
+ ],
+ "stats": {
+  "射门": [
+   "13",
+   "11"
+  ],
+  "射正": [
+   "1",
+   "5"
+  ],
+  "禁区内射门": [
+   "8",
+   "4"
+  ],
+  "扑救": [
+   "4",
+   "2"
+  ],
+  "角球": [
+   "5",
+   "1"
+  ],
+  "越位": [
+   "1",
+   "0"
+  ],
+  "控球%": [
+   "52%",
+   "48%"
+  ],
+  "传中": [
+   "93",
+   "86"
+  ],
+  "传球": [
+   "332",
+   "331"
+  ],
+  "xG预期进球": [
+   "0.18",
+   "0.44"
+  ],
+  "xGOT/大机会": [
+   "0.13",
+   "2.42"
+  ]
+ },
+ "lineups": {
+  "home": [
+   {
+    "no": 1,
+    "name": "Matej Kovar"
+   },
+   {
+    "no": 7,
+    "name": "Ladislav Krejčí"
+   },
+   {
+    "no": 4,
+    "name": "Robin Hranáč"
+   },
+   {
+    "no": 3,
+    "name": "Tomas Holeš"
+   },
+   {
+    "no": 21,
+    "name": "David Doudera"
+   },
+   {
+    "no": 18,
+    "name": "Michal Sadilek"
+   },
+   {
+    "no": 12,
+    "name": "Lukáš Cerv"
+   },
+   {
+    "no": 5,
+    "name": "Vladimir Coufal"
+   },
+   {
+    "no": 26,
+    "name": "Denis Visinsky"
+   },
+   {
+    "no": 15,
+    "name": "Pavel Šulc"
+   },
+   {
+    "no": 9,
+    "name": "Adam Hložek"
+   },
+   {
+    "no": 19,
+    "name": "Tomas Chorý"
+   },
+   {
+    "no": 17,
+    "name": "Lukas Provod"
+   },
+   {
+    "no": 10,
+    "name": "Patrik Schick"
+   },
+   {
+    "no": 24,
+    "name": "Alexandr Sojka"
+   },
+   {
+    "no": 22,
+    "name": "Tomas Soucek"
+   },
+   {
+    "no": 6,
+    "name": "Štěpán Chaloupek"
+   },
+   {
+    "no": 13,
+    "name": "Mojmir Chytil"
+   },
+   {
+    "no": 8,
+    "name": "Vladimir Darida"
+   },
+   {
+    "no": 23,
+    "name": "Lukas Hornicek"
+   },
+   {
+    "no": 11,
+    "name": "Jan Kuchta"
+   },
+   {
+    "no": 25,
+    "name": "Hugo Sochůrek"
+   },
+   {
+    "no": 16,
+    "name": "Jindřich Staněk"
+   },
+   {
+    "no": 20,
+    "name": "Jaroslav Zeleny"
+   },
+   {
+    "no": 2,
+    "name": "David Zima"
+   }
+  ],
+  "away": [
+   {
+    "no": 1,
+    "name": "Raul Rangel"
+   },
+   {
+    "no": 20,
+    "name": "Mateo Chavez"
+   },
+   {
+    "no": 15,
+    "name": "Israel Reyes"
+   },
+   {
+    "no": 3,
+    "name": "Cesar Montes"
+   },
+   {
+    "no": 2,
+    "name": "Jorge Sanchez"
+   },
+   {
+    "no": 7,
+    "name": "Luis Romo"
+   },
+   {
+    "no": 4,
+    "name": "Edson Alvarez"
+   },
+   {
+    "no": 19,
+    "name": "Gilberto Mora"
+   },
+   {
+    "no": 16,
+    "name": "Julian Quinones"
+   },
+   {
+    "no": 22,
+    "name": "Guillermo Martinez"
+   },
+   {
+    "no": 25,
+    "name": "Roberto Alvarado"
+   },
+   {
+    "no": 8,
+    "name": "Alvaro Fidalgo"
+   },
+   {
+    "no": 23,
+    "name": "Jesus Gallardo"
+   },
+   {
+    "no": 11,
+    "name": "Santiago Gimenez"
+   },
+   {
+    "no": 13,
+    "name": "Guillermo Ochoa"
+   },
+   {
+    "no": 18,
+    "name": "Obed Vargas"
+   },
+   {
+    "no": 12,
+    "name": "Carlos Acevedo"
+   },
+   {
+    "no": 24,
+    "name": "Luis Chavez"
+   },
+   {
+    "no": 14,
+    "name": "Armando Gonzalez"
+   },
+   {
+    "no": 26,
+    "name": "Brian Gutierrez"
+   },
+   {
+    "no": 21,
+    "name": "Cesar Huerta"
+   },
+   {
+    "no": 9,
+    "name": "Raul Jimenez"
+   },
+   {
+    "no": 6,
+    "name": "Erik Lira"
+   },
+   {
+    "no": 17,
+    "name": "Orbelin Pineda"
+   },
+   {
+    "no": 10,
+    "name": "Alexis Vega"
+   },
+   {
+    "no": 5,
+    "name": "Johan Vasquez"
+   }
+  ]
+ },
+ "missing": [
+  {
+   "side": "home",
+   "no": 14,
+   "name": "David Jurasek",
+   "reason": "Thigh injury"
+  }
+ ],
+ "events": [
+  {
+   "min": 55,
+   "side": "away",
+   "type": "进球",
+   "sub": null,
+   "player": "Mateo Chavez"
+  },
+  {
+   "min": 61,
+   "side": "away",
+   "type": "进球",
+   "sub": null,
+   "player": "Julian Quinones"
+  },
+  {
+   "min": 64,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Edson Alvarez"
+  },
+  {
+   "min": 90,
+   "side": "away",
+   "type": "进球",
+   "sub": null,
+   "player": "Alvaro Fidalgo"
+  }
+ ],
+ "injuries": [],
+ "suspensions": [],
+ "ratings": {},
+ "quotes": [],
+ "narrative": "",
+ "prediction_note": "",
+ "_note": "macheta/Sofascore 权威硬数据；injuries/suspensions/ratings/quotes/narrative/prediction_note 待 agent WebSearch 补。",
+ "ht": "0-0"
+}

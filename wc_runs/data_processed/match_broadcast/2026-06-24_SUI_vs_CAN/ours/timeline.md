@@ -1,0 +1,16 @@
+11' 重大扑救 Crépeau(加)封堵Embolo单刀
+31' 黄牌 Larin(加)
+31' 黄牌 Xhaka(瑞)
+33' 重大扑救 Kobel(瑞)化解Larin射门
+41' 重大扑救 Kobel(瑞)托出Ahmed射门
+46' 进球 Vargas(瑞)
+57' 进球 Manzambi(瑞)
+58' 换人 Millar(加)替Ahmed
+74' 换人 David(加)替Buchanan
+74' 换人 Aebischer(瑞)替Sow
+76' 进球 David(加)
+80' 换人 Ndoye(瑞)替Vargas
+83' 换人 Shaffelburg(加)替Laryea
+85' 换人 Fassnacht(瑞)替Manzambi
+87' 黄牌 Millar(加)
+90+5' 重大扑救 Kobel(瑞)没收Johnston头球

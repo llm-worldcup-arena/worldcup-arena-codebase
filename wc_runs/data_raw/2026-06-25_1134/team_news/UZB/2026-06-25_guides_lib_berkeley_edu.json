@@ -1,0 +1,16 @@
+{
+ "team": "UZB",
+ "source": "guides.lib.berkeley.edu",
+ "url": "https://guides.lib.berkeley.edu/az/databases?q=Ksaok%20Digital%20Asset%20Center%20B1%20Reviews",
+ "title": "A-Z Databases",
+ "news_date": "2026-06-25",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-25",
+ "fetched": "2026-06-25_1134",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "Find the best library databases for your research.\n\nThe following databases are newly acquired or being evaluated for a future subscription.\n\nUser-friendly, powerful cloud-based mapping software for creating web maps and performing analysis. Includes access to ArcGIS Living Atlas of the World and premium content, including demographic, environmental, and imagery data.\n\nMGG Online builds on the second edition of Die Musik in Geschichte und Gegenwart (MGG, 1994–2008), offering new and substantially updated content as well as continuous updates, revisions, and additions.\n\nMy China Roots is a family history database for the Chinese diaspora that includes millions of searchable ancestors in America and Southeast Asia.\n\nPharos provides hazard, use, and exposure information on chemicals and building products. NOTE: You must first register for an account using the link here and your Berkeley email address.\n\nTabloids recorded what broadsheet newspapers missed, and spoke what cannot be expressed by broadsheet newspapers. This resource would be a great complement of regular news resources published in the same time period. It would also provide much needed primary sources to academic programs in the area of history/art history, sociology, cultural/popular cultural studies, journalism studies and film studies.\n\nVitalLaw (formerly Cheetah) is a legal research platform that provides access to statutes, cases, administrative agency materials, as well as treatises, reporters, newsletters, and blogs.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

@@ -1,0 +1,16 @@
+{
+ "team": "BEL",
+ "source": "bbc.com",
+ "url": "https://www.bbc.com/sport/football/articles/cpwp17pxvxdo",
+ "title": "World Cup 2026: Belgium name Romelu Lukaku in 26-man squad despite Napoli absence",
+ "news_date": "2026-06-25",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-25",
+ "fetched": "2026-06-25_1134",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "Romelu Lukaku has been named in Belgium's World Cup squad, despite manager Rudi Garcia saying he is \"out of shape\".\n\nThe Napoli striker, who turned 33 on Wednesday, has made just seven substitute appearances totalling 69 minutes in 2025-26 and been in Belgium for the past two months recovering from a hamstring injury.\n\nLukaku is Belgium's all-time leading scorer with 89 goals from 124 caps, with his most recent international appearance coming against Wales last June.\n\n\"Romelu has recovered, but he's out of shape, and I'm not sure he'll be able to start the matches. But he's our best striker, Belgium's all-time leading scorer,\" said Garcia.\n\n\"We have five weeks to get him back to full fitness so that little by little he can help the team.\"\n\nFormer Chelsea, Manchester United and Everton player Lukaku has the chance to play in his fourth successive World Cup, along with Thibaut Courtois, Kevin de Bruyne and Axel Witsel.\n\nGarcia has included Lille's Matias Fernandez-Pardo as cover after he pledged his international allegiance to Belgium this week.\n\nThe 21-year-old forward, who was born in Brussels to Italian and Spanish parents, played for Belgium at junior level - although he switched his allegiance to Spain in 2025, he did not make an appearance for them.\n\nFernandez-Pardo was chosen instead of Lois Openda, who has not played regularly for Juventus this season, while Sporting defender Zeno Debast has been included despite an injury in training.\n\nBelgium will play Egypt, Iran and New Zealand in Group G, with their games being held in the United States and Canada.\n\nGoalkeepers: Thibaut Courtois (Real Madrid), Senne Lammens (Manchester United), Mike Penders (Racing Strasbourg).\n\nDefenders: Timothy Castagne (Fulham), Zeno Debast (Sporting), Maxim de Cuyper (Brighton), Koni de Winter (AC Milan), Brandon Mechele (Club Brugge), Thomas Meunier (Lille), Nathan Ngoy (Lille), Joaquin Seys (Club Brugge), Arthur Theate (Eintracht Frankfurt).\n\nMidfielders: Kevin de Bruyne (Napoli), Amadou Onana (Aston Villa), Nicolas Raskin (Rangers), Youri Tielemans (Aston Villa), Hans Vanaken (Club Brugge), Axel Witsel (Girona).\n\nForwards: Charles de Ketelaere (Atalanta), Jeremy Doku (Manchester City), Matias Fernandez-Pardo (Lille), Romelu Lukaku (Napoli), Dodi Lukebakio (Benfica), Diego Moreira (Strasbourg), Alexis Saelemaekers (AC Milan), Leandro Trossard (Arsenal).",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

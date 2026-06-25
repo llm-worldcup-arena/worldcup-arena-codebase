@@ -1,0 +1,24 @@
+{
+ "source": "fifa.com",
+ "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/morocco-haiti-match-report-highlights",
+ "title": "Morocco 4-2 Haiti | Match report and highlights",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-24",
+  "home": "MAR",
+  "away": "HAI",
+  "home_en": "Morocco",
+  "away_en": "Haiti",
+  "home_zh": "摩洛哥",
+  "away_zh": "海地",
+  "comp": "小组赛·C组",
+  "match_id": "M50",
+  "slug": "2026-06-24_MAR_vs_HAI"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Les Grenadiers scored two historic goals before waving goodbye to the tournament, but Morocco secured the victory to continue their World Cup journey.\nMorocco 4-2 HaitiMorocco 4-2 Haiti\nMorocco goals: Hakimi (39), Saibari (45+1), Rahimi (78), Yassine (89) Haiti goals: Bono own goal (10), Isidor (43)\nMorocco came from behind to defeat a dogged Haiti team in their final match of group play at FIFA World Cup 2026™. The Atlas Lions suffered a huge scare with Les Grenadiers twice taking the lead but they finished with a flourish to secure the victory.\nHaiti came out playing free of pressure which created an action packed first half which thrilled fans with four goals. They opened the scoring just ten minutes into the match when full back Jean-Kevin Duverne cut the ball back across the penalty area, and Lenny Joseph gave it an audacious back heel flick. The ball ricocheted in off Morocco keeper Yassine Bounou, but that did not take away from celebrations of what was Haiti's first World Cup goal in 52 years.\nHaiti's goal woke up the Atlas Lions, who pushed for an equaliser and after seeing several good chances saved by Johny Placide, finally found the back of the net through Achraf Hakimi. The marauding full back bundled the ball over the line after Placide had parried away a shot from Bilal El Khannouss.\nHaiti took the lead once again moments later, this time through a truly world-class strike from Isidor. The Grenadier striker lashed home a screamer from distance that will live long in the history books. But the flurry of goals didn't stop there. In first-half stoppage time, Hakimi cutback for Saibari who sidefooted home to send the sides in level at half time.\nAfter the break, Morocco slowly squeezed the Haitians until Soufiane Rahimi completed the comeback with just over ten minutes to play, firing home a deflected shot from a corner kick. Youngster Gessime Yassine added a fourth in the dying minutes to secure the victory.\nHaiti's bright finish caps off an exciting first appearance at the World Cup in over 50 years. With the win, Morocco finish second in Group C and will take on the winner of Group F in Monterrey on 29 June.\nGroup C\nGroup C\nPWDLGFGAGDTCSPtsForm\n1\nBrazil\nBRA\n3 2 1 0 7 1 6 -5 7\n-\n-\n\n2\nMorocco\nMAR\n3 2 1 0 6 3 -1 7\n-\n-\n\n3\nScotland\nSCO\n3 1 0 2 1 4 -3 -5 3\n-\n-\n\n4\nHaiti\nHAI\n3 0 3 2 8 -6 -7 0\n-\n-\n\nKey statKey stat\nHaiti scored two goals for the first time at the FIFA World Cup, the first of which made them the 45th nation to score a goal at the 2026 showpiece.\nWhat they said...What they said...\n\"At times we lacked humility and paid the price for it. We weren't fully committed in the duels, we gave them confidence and allowed them to grow into the game and score twice. At half-time, the coach told us we needed to be more aggressive, win the second balls and bring greater intensity to our attacking play.\" Bilal El Khannouss, Morocco midfielder\n\"It was a tricky game, a difficult one. We didn't start well, but we changed our mindset and worked hard to get ourselves back into it. We managed to win thanks to the way we attacked. At half-time, the message was to stay focused on winning the second balls. We couldn't let them grow in confidence. We're proud of what we did, but now we need to recover well and get ourselves ready for what's next.\" Achraf Hakimi, Morocco defender\n\"It wasn't an easy game. We didn't start off well, but little by little we got into it, stepped up our game, and from there, I think we started playing the way we wanted to\". Yassine Bounou, Morocco's goalkeeper\n\"We came very close to making history in this World Cup. And even if we didn't win, we wanted to leave with our heads held high. And that's exactly what we've done\". Sebastien Migne, Haiti's coach\nSuperior Player of the MatchSuperior Player of the Match\nAchraf Hakimi (Morocco)",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

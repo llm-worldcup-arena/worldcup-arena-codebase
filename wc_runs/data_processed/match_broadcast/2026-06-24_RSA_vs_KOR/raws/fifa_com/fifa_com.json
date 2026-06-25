@@ -1,0 +1,24 @@
+{
+ "source": "fifa.com",
+ "url": "https://www.fifa.com/en/articles/south-africa-korea-republic-match-report-highlights",
+ "title": "South Africa 1-0 Korea Republic | Match report and highlights",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-24",
+  "home": "RSA",
+  "away": "KOR",
+  "home_en": "South Africa",
+  "away_en": "Korea Republic",
+  "home_zh": "南非",
+  "away_zh": "韩国",
+  "comp": "小组赛·A组",
+  "match_id": "M54",
+  "slug": "2026-06-24_RSA_vs_KOR"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Korea Republic had the majority of the ball in Monterrey, but a Thapelo Maseko stunner clinched victory and historic progress for Bafana.\nSouth Africa goal: Maseko (63)\nIt was a game that neither side could afford to lose — but it was South Africa who found a way to win.\nThanks to a second-half goal from winger Thapelo Maseko, Bafana overcame an energetic Korea Republic in an exciting, albeit low-scoring, clash to advance to their first-ever knockout match at the FIFA World Cup™.\nPlaying in front of a largely Korean crowd, South Africa started the better in Monterrey. Early on, Maseko had a promising fastbreak cut out at the last moment by Korea defender Lee Gihyuk. Later in the half Kim Seunggyu made two fine saves, first parrying Thalente Mbatha's shot from distance, before denying Evidence Makgopa from point-blank range.\nHong Myungbo threw caution to the wind after the break, making three changes, including the introduction of talisman Son Heungmin, in an attempt to shift the scoreline in Korea Republic's favour. However, as the Koreans pushed for an opener, it was a South African substitute who made the difference.\nAgainst the run of play, Teshpang Moremi collected the ball on the left wing, beat a defender and fizzed a ball across the top of the penalty area. Maseko controlled the ball inside toward his left foot and slotted the winning goal in at the near post.\nAs runners-up in Group A, Bafana will play their next match in Los Angeles on 28 June against Group B runners-up Canada.\nKey statKey stat\nThapelo Maseko has become the second youngest goalscorer for South Africa in the FIFA World Cup at 22 years and 225 days.\nWhat they said...What they said...\n“I believe the players gave everything they had, but it is disappointing that we conceded the opening goal. As for the disappointing result, that responsibility lies with me as the head coach.” Hong Myungbo, Korea Republic coach\nIt is difficult to explain what this feels like. It is a fantastic experience. We played really well and created chances. Tactically we did really well and Korea Republic couldn't find the spaces that they wanted. We scored the goal and then it was 20 minutes with a very high heart rate. What we did in the last five years is amazing. When you work together for such a long time there is a connection and it is more than a relationship between coach and players, we have become friends. We just have to enjoy this. Hugo Broos, South Africa coach\nIt's unbelievable, it feels like a dream. Thank you to the fans, they gave it their all. This is for everyone who supported us, but also for those who didn't. There were many people who didn't believe in us. We went through some rough patches. But this team showed that they are capable and strong. Thapelo Maseko, South Africa goalscorer\nMichelob Ultra Superior Player of the MatchMichelob Ultra Superior Player of the Match\nThapelo Maseko (South Africa)",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

@@ -1,0 +1,24 @@
+{
+ "source": "easyship.com",
+ "url": "https://www.easyship.com/en-cz/duties-and-taxes-calculator/mexico",
+ "title": "Free Mexico Import Duty and Tax Calculator From The Czech Republic",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-24",
+  "home": "CZE",
+  "away": "MEX",
+  "home_en": "Czech Republic",
+  "away_en": "Mexico",
+  "home_zh": "捷克",
+  "away_zh": "墨西哥",
+  "comp": "小组赛·A组",
+  "match_id": "M53",
+  "slug": "2026-06-24_CZE_vs_MEX"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Use this free Import Duty Calculator to estimate your tax and duties when shipping to Mexico based on your shipment value and product type.\n\nWhen shipping a package internationally from Czech Republic , your shipment may be subject to a custom duty and import tax. Every country is different, and to ship to , you need to be aware of the following.\n\nMexico calculates using the CIF method, which means the import duty and taxes are calculated based on the value of the imported goods as well as shipping costs.\n\nClick here or use our calculator to see fees.\n\nThere are usually also charges levied by the import customs broker for filing the import customs clearance documents with the local customs authorities. This customs brokerage fee will be in addition to the customs duties and import VAT / GST applied to the imported goods.\n\nEasyship was built to allow any business to grow by making it easy for them to ship to or any other country in the world.\n\nSee how Easyship streamlines customs clearance or sign-up today to ship with these great shipping options.\n\nCustom duties and taxes can be complicated, cause hold ups at customs, incur unexpected shipping costs, ruin the customer experience and have sellers lose their clients. We make sure that you know upfront how much to pay so you can avoid unpleasant surprises and shipment delays in the future.\n\nTo calculate import duty rates for your shipment, multiply the taxable value of your shipment by the tax and duty percentage for Mexico.\n\nRemember, import duty percentages vary for each category of goods.\n\nThe taxable value is usually based on the value of the goods, but depending on the valuation method of a country, it can also include other amounts.\n\nImport duty is a tax imposed by a government on goods from other countries. This added tax on imported goods is aimed to make foreign products less desirable and encourage supporting the domestic market.\n\nNot paying taxes is tax evasion, which we don't encourage. It's not worth risking your business getting fined. It's best to know any customs duty rate amount that is applicable to your shipment, and be upfront with customers on pricing. Use the import taxes calculator for an estimate or visit our countries information for an individual breakdown.\n\nThe customs authority can easily check your business website and other sources to verify if the value listed matches the actual value of the item. Listing a lower value in order to avoid taxes is tax evasion and against the law.\n\nGet the latest shipping news, expert guides and invites.\n\nBy signing up, you agree to receive marketing emails from Easyship. Unsubscribe at any time.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

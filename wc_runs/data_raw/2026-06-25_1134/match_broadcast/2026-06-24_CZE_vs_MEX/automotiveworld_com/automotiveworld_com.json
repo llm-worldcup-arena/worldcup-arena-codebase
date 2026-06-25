@@ -1,0 +1,24 @@
+{
+ "source": "automotiveworld.com",
+ "url": "http://www.automotiveworld.com/news/suppliers/92234-czech-republic-metaldyne-acquires-additional-facility",
+ "title": "Czech Republic: Metaldyne acquires additional facility | Automotive World",
+ "published": "2012-02-24T13:43:45+00:00",
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-24",
+  "home": "CZE",
+  "away": "MEX",
+  "home_en": "Czech Republic",
+  "away_en": "Mexico",
+  "home_zh": "捷克",
+  "away_zh": "墨西哥",
+  "comp": "小组赛·A组",
+  "match_id": "M53",
+  "slug": "2026-06-24_CZE_vs_MEX"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "“Our goal is to help stakeholders understand the future of mobility.”\n\nMetaldyne has announced the acquisition of a facility in Zbysov, Czech Republic, which is near Brno, Czech Republic and close to the borders of Austria and Slovakia. The company will initially focus on expanding certain technologies within the Zbysov plant which will support growth within its forging and machining product lines. Metaldyne Subscribe to Automotive World … Continued\n\nMetaldyne has announced the acquisition of a facility in Zbysov, Czech Republic, which is near Brno, Czech Republic and close to the borders of Austria and Slovakia.\n\nThe company will initially focus on expanding certain technologies within the Zbysov plant which will support growth within its forging and machining product lines.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

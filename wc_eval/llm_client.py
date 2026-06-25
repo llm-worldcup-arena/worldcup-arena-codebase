@@ -213,9 +213,9 @@ def chat_search(messages, model, temperature=0.3, timeout=300, max_uses=5):
                   {**auth, "x-api-key": cfg["_key"], "anthropic-version": "2023-06-01"}, timeout)
         return "".join(b.get("text", "") for b in d["content"] if b.get("type") == "text")
 
-    if m.startswith("gpt") or m.startswith("doubao"):                # OpenAI Responses 兼容通道
+    if m.startswith("gpt") or m.startswith("doubao") or m.startswith("qwen"):  # OpenAI Responses 兼容通道
         rbody = {"model": model, "input": messages, "tools": [{"type": "web_search"}],
-                 "reasoning": {"effort": "high"}}                     # 最高档思考:gpt-5.5 与 豆包 seed 都吃此参数(实测豆包 reasoning 1067→1638 tok)
+                 "reasoning": {"effort": "high"}}                     # 最高档思考:gpt-5.5 / 豆包 seed / qwen3-max 都吃此参数(qwen 为 GLM 智谱断额时的 DMX 平替,2026-06-25)
         d = _post(f"{root}/v1/responses", rbody, auth, timeout)
         return "".join(c.get("text", "") for o in d.get("output", []) if o.get("type") == "message"
                        for c in o.get("content", []))

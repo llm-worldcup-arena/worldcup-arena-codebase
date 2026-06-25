@@ -1,0 +1,24 @@
+{
+ "source": "163.com",
+ "url": "https://www.163.com/dy/article/L07S4TDM0549BAP0.html",
+ "title": "2平8负，巴西是苏格兰交手次数最多却从未赢过的球队",
+ "published": "2026-06-25T00:35:08+08:00",
+ "tier": "3",
+ "lang": "zh",
+ "match": {
+  "date": "2026-06-24",
+  "home": "SCO",
+  "away": "BRA",
+  "home_en": "Scotland",
+  "away_en": "Brazil",
+  "home_zh": "苏格兰",
+  "away_zh": "巴西",
+  "comp": "小组赛·C组",
+  "match_id": "M49",
+  "slug": "2026-06-24_SCO_vs_BRA"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "据统计，巴西队是苏格兰队历史上交手次数最多却从未赢过的对手，10次交手苏格兰队2平8负。\n\n此外，在世界杯上与南美球队交锋，苏格兰队也从未取得胜利，战绩为2平6负，其中包括4次未能战胜巴西。\n\n巴西与苏格兰将迎来第5次世界杯交锋，自1974年以来，只有阿根廷与荷兰的交手次数（6次）更多。\n\n特别声明：以上内容(如有图片或视频亦包括在内)为自媒体平台“网易号”用户上传并发布，本平台仅提供信息存储服务。\n\nNotice: The content above (including the pictures and videos if any) is uploaded and posted by a user of NetEase Hao, which is a social",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

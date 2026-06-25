@@ -1,0 +1,24 @@
+{
+ "source": "worldjournal.com",
+ "url": "https://www.worldjournal.com/wj/story/124903/9563777?zh-cn",
+ "title": "世界杯╱加拿大1:1逼平波赫 抢下历史性第1分 | 世界新闻网",
+ "published": null,
+ "tier": "3",
+ "lang": "zh",
+ "match": {
+  "date": "2026-06-24",
+  "home": "SUI",
+  "away": "CAN",
+  "home_en": "Switzerland",
+  "away_en": "Canada",
+  "home_zh": "瑞士",
+  "away_zh": "加拿大",
+  "comp": "小组赛·B组",
+  "match_id": "M51",
+  "slug": "2026-06-24_SUI_vs_CAN"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "美加墨 世界杯 分组赛B组第1轮，由地主 加拿大 队迎战波赫队。最终，加拿大在主场以1比1逼平波赫，在队史参加的7场世界杯会内赛中，终于抢下历史性的第1分积分。\n\n比赛进行到第74分钟时，加拿大队伊凡苏尼奇(Ivan Sunjic)换下艾斯米尔巴伊拉克塔雷维奇(Esmir Bajraktarević)。第76分钟时，凯尔·拉林(Cyle Larin)替补塔尼·奥卢瓦塞伊(Tani Oluwaseyi )上场，2分钟后便破门得分，帮助加拿大队扳平比分，与波赫队打成平手。\n\ntwitter loading... ▲ 影片来源：X@FOXSoccer（若有侵犯著作者权益，请连络删除。）This image(video) is used for news reporting purposes, please contact us for removal if there is a copyright issue.\n\n美东时间12日下午3时，美加墨世界杯分组赛B组第1轮，由地主加拿大队迎战波赫队。\n\n比赛第20分钟，波赫队获得右侧角球机会，在门前一片混战中，卢基奇（Jovo Lukic）头槌破门！帮助波赫取得1比0领先。",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

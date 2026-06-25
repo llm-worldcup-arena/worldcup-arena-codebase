@@ -1,0 +1,24 @@
+{
+ "source": "as.com",
+ "url": "https://as.com/futbol/mundial/bosnia-qatar-hoy-en-directo-fase-de-grupos-del-mundial-2026-ultima-hora-del-grupo-b-f202606-d/",
+ "title": "Bosnia y Herzegovina 3 - 1 Qatar: resumen, goles y resultado",
+ "published": "2026-06-24T19:53:45+02:00",
+ "tier": "2",
+ "lang": "es",
+ "match": {
+  "date": "2026-06-24",
+  "home": "BIH",
+  "away": "QAT",
+  "home_en": "Bosnia and Herzegovina",
+  "away_en": "Qatar",
+  "home_zh": "波黑",
+  "away_zh": "卡塔尔",
+  "comp": "小组赛·B组",
+  "match_id": "M52",
+  "slug": "2026-06-24_BIH_vs_QAT"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "El equipo europeo fue superior durante casi toda la primera parte en un encuentro al que llegaban como favoritos. Comenzaron con un tono elevado con dos disparos desde fuera del área de Edin Dzeko y Basic que tuvo que repeler Mahmoud Abunada. Sin embargo, tras la pausa de hidratación, Bosnia encontró el camino hacia la portería rival con un disparo desde la frontal de Alajbegovic y un gol en propia puerta de Al Brake para ponerse rápidamente 2-0. Antes del descanso y fruto de la relajación, Qatar anotó al filo del descuento un tanto en las botas de Hassan Al Haydos para recortar diferencias antes del intermedio.La segunda parte tuvo un dominio claro qatarí que se volcó al ataque desde la reanudación. Sin embargo, los de Lopetegui fueron incapaces de derribar el muro bosnio tras estrellarse contra Katic y Kolasinac constantemente. Bosnia acabó sentenciando el encuentro tras un tanto de Mahmic en el tramo final que acabó por sentenciar el encuentro y acercar a los europeos a la siguiente ronda, aunque tendrán que esperar resultados.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

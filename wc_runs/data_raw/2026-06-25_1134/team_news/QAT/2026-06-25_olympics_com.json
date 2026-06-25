@@ -1,0 +1,16 @@
+{
+ "team": "QAT",
+ "source": "olympics.com",
+ "url": "https://www.olympics.com/en/news/fifa-world-cup-2026-qatar-all-players-full-squad-list-key-stats-and-schedule",
+ "title": "Qatar at FIFA World Cup 2026: All players, full squad list, key stats and schedule",
+ "news_date": "2026-06-25",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-25",
+ "fetched": "2026-06-25_1134",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Qatar at FIFA World Cup 2026: All players, full squad list, key stats and schedule\nQuick facts\nCaptain: Hassan Al-Haydos\nManager: Julen Lopetegui\nWorld Cup appearances (including 2026): 2\nBest World Cup result: Group stage (2022)\nGoalkeepers: Salah Zakaria (Al-Duhail), Mahmoud Abunada (Al Rayyan), Meshaal Barsham (Al-Sadd)\nDefenders: Hashmi Hussein (Al Arabi), Ayoub Alawi (Al Gharafa), Boualem Khoukhi (Al-Sadd), Pedro Miguel (Al-Sadd), Issa Laaye (Al Arabi), Lucas Mendes (Al-Wakrah), Sultan Al-Brake (Al-Duhail), Homam Al-Amin (Cultural Leonesa)\nMidfielders: Mohammed Al-Manai (Al Shamal), Jassem Jaber (Al Arabi), Karim Boudiaf (Al-Duhail), Ahmed Fathi (Al Arabi), Abdulaziz Hatem (Al Rayyan), Assim Madibo (Al-Wakrah)\nForwards: Tahseen Mohammed (Al-Duhail), Edmilson Junior (Al-Duhail), Almoez Ali (Al-Duhail), Akram Afif (Al-Sadd), Mohammed Muntari (Al Gharafa), Youssef Abdulrazzaq (Al-Wakrah), Ahmed Alaa (Al Rayyan), Hassan Al-Haydos (Al-Sadd), Ahmed Al-Janahi (Al Gharafa)",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

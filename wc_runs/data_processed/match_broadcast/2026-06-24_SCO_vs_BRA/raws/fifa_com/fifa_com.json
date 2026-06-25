@@ -1,0 +1,24 @@
+{
+ "source": "fifa.com",
+ "url": "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021455",
+ "title": "Scotland v Brazil 0-3 | Result, Stats & Highlights | First Stage | FIFA World Cup 2026™ | FIFA",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-24",
+  "home": "SCO",
+  "away": "BRA",
+  "home_en": "Scotland",
+  "away_en": "Brazil",
+  "home_zh": "苏格兰",
+  "away_zh": "巴西",
+  "comp": "小组赛·C组",
+  "match_id": "M49",
+  "slug": "2026-06-24_SCO_vs_BRA"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Scotland v Brazil 0-3 | Result, Stats & Highlights | First Stage | FIFA World Cup 2026™\nLive Statistics\nAttacking\nPossession\n42%\n51%\n7% in contest\nGoal\nTotal\n0\n3\nConceded\n3\n0\nInside the Penalty Area\n0\n3\nOutside the Penalty Area\n0\n0\nAssists\n0\n3\nAttempts at Goal\nTotal\n14\n21\nOn Target\n5\n9\nOff Target\n2\n7\nInside the Penalty Area\n10\n14\nOutside the Penalty Area\n4\n7\nFinal Third Entries\nLeft Channel\n16\n25\nLeft Inside Channel\n7\n10\nCentral Channel\n6\n11\nRight Inside Channel\n12\n10\nRight Channel\n16\n18\nOffers to Receive\nTotal\n357\n383\nIn Behind\n70\n88\nIn Between\n146\n146\nIn Front\n141\n149\nReceptions Between Midfield and Defensive Lines\n80\n98\nReceptions Behind the Defensive Line\n6\n12\nLine Breaks\nAttempted Line Breaks\n168\n165\nCompleted Line Breaks\n113\n122\nAttempted Defensive Line Breaks\n12\n18\nCompleted Defensive Line Breaks\n7\n9\nDiscipline\nYellow Cards\n1\n2\nRed Cards\n0\n0\nFouls Against\n10\n11\nOffsides\n0\n1\nDistribution\nPasses\n520\n615\nPasses Completed\n466\n571\nCrosses\n24\n13\nCrosses Completed\n10\n4\nSwitches of Play Completed\n3\n0\nSet Plays\nCorners\n7\n6\nFree Kicks\n11\n10\nPenalties Scored\n0\n0\nDefending\nOwn Goals\n0\n0\nForced Turnovers\n33\n28\nPressing Applied\n241\n227",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

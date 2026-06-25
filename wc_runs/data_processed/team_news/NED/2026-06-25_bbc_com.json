@@ -1,0 +1,16 @@
+{
+ "team": "NED",
+ "source": "bbc.com",
+ "url": "https://www.bbc.com/sport/football/articles/cgqpj3xk9e0o",
+ "title": "Netherlands' 2026 World Cup squad: Frimpong misses out, Timber included",
+ "news_date": "2026-06-25",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-25",
+ "fetched": "2026-06-25_1134",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "Liverpool defender Jeremie Frimpong has been left out of the Netherlands' World Cup squad.\n\nRonald Koeman's 26-man group is dominated by Premier League players, with 15 coming from England's top flight, but there is no place for Frimpong - whose club team-mates Virgil van Dijk, Ryan Gravenberch and Cody Gakpo are included.\n\nInjured Arsenal full-back Jurrien Timber has been picked despite not having featured for the Gunners since March because of an ankle injury.\n\nSix of the seven defenders selected play in England's top flight, including Tottenham centre-back Micky van de Ven and Chelsea's Jorrel Hato. Inter Milan right-back Denzel Dumfries is the sole non-Premier League representative.\n\nBrighton trio Bart Verbruggen, Jan Paul van Hecke and Mats Wieffer all earn call-ups while Manchester City duo Nathan Ake and Tijjani Reijnders also get the nod.\n\nSunderland keeper Robin Roefs, who is yet to play for his country, is one of three goalkeepers picked - joining Verbruggen and Bayer Leverkusen's Mark Flekken.\n\nThere is also a place for Black Cats forward Brian Brobbey, while Bournemouth's Justin Kluivert and West Ham United forward Crysencio Summerville make up the Premier League contingent.\n\nhttps://www.bbc.co.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

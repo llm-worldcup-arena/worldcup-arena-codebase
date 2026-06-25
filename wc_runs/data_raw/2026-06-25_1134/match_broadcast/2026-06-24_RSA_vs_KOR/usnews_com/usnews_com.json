@@ -1,0 +1,24 @@
+{
+ "source": "usnews.com",
+ "url": "https://www.usnews.com/news/sports/articles/2026-06-24/south-africa-reaches-world-cup-knockout-round-for-1st-time-with-1-0-win-over-south-korea",
+ "title": "South Africa Reaches World Cup Knockout Round for 1st Time With 1-0 Win Over South Korea",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-24",
+  "home": "RSA",
+  "away": "KOR",
+  "home_en": "South Africa",
+  "away_en": "Korea Republic",
+  "home_zh": "南非",
+  "away_zh": "韩国",
+  "comp": "小组赛·A组",
+  "match_id": "M54",
+  "slug": "2026-06-24_RSA_vs_KOR"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "South Africa Reaches World Cup Knockout Round for 1st Time With 1-0 Win Over South Korea\nGUADALUPE, Mexico (AP) — South Africa advanced to the knockout phase of the World Cup for the first time with a 1-0 victory over South Korea on Wednesday night.\nThapelo Maseko scored in the 63rd minute off a precise cross from Tshepang Moremi and South Africa finished in second place in Group A behind Mexico, which won all three of its group-stage games.\nSouth Africa will take on Canada, the second-place finisher in Group B, in a knockout game Sunday at Inglewood, California.\nBafana had failed to advance from the group stage in 1998, 2002 and as host in 2010.\nSouth Africa opened its World Cup with a 2-0 loss to Mexico before using a late goal to earn a 1-1 draw with Czech Republic. It entered its final group-stage game trailing Mexico and favored South Korea before shocking the Taegeuk Warriors.\nSouth Korea opened this World Cup with a 2-1 come-from-behind win over Czech Republic and lost to Mexico 1-0 in its second game.\nSouth Korea became the first Asian team to reach the knockout round in 2002, when it finished fourth overall. The Taegeuk Warriors also advanced out of the group stage in 2022 and 2010, both times reaching the round of 16.\n___\nMaya Koluder-Ramirez is a student in the University of Georgia’s Carmical Sports Media Institute.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

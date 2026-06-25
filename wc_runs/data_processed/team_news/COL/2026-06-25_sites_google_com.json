@@ -1,0 +1,16 @@
+{
+ "team": "COL",
+ "source": "sites.google.com",
+ "url": "https://sites.google.com/view/ofvy05/",
+ "title": "世界杯注册积分榜最新动态揭晓",
+ "news_date": "2026-06-25",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-25",
+ "fetched": "2026-06-25_1134",
+ "method": "jsonld",
+ "status": "blocked",
+ "original_text": "",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}
