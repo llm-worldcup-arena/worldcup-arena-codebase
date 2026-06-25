@@ -8,7 +8,7 @@
     {"name": "GPT",    "id": "gpt-5.5", "search": true, "_note": "DMX;reasoning effort:high(思考最猛最慢~150-400s)+ web_search"},
     {"name": "Gemini", "id": "gemini-3.1-pro-preview", "search": true, "_note": "DMX;thinkingConfig budget 24576 + google_search;-thinking 后缀版已被DMX下架故用这个"},
     {"name": "Kimi",   "id": "kimi-k2.6", "search": true, "channel": "moonshot", "_note": "Moonshot官方直连;自带thinking、temp固定1"},
-    {"name": "GLM",    "id": "qwen3-max", "search": true, "_note": "2026-06-25 起:智谱 glm-5.1 账户余额不足,GLM 槽位改用 DMX 的 qwen3-max 平替(同国产旗舰、reasoning effort:high 思考 + /responses web_search 联网);智谱充值后可回滚为 glm-5.1"},
+    {"name": "GLM",    "id": "glm-5", "search": true, "_note": "2026-06-25 起:智谱 glm-5.1 账户余额不足,改用 DMX 托管的真 GLM(glm-5,DMX 上最新 GLM)+ thinking;联网由 _glm_search 走 DMX 模型 + Apify(Google)执行搜索,全程不碰智谱;智谱充值后改回 glm-5.1"},
     {"name": "Seed",   "id": "doubao-seed-2-0-pro-260215", "search": true, "_note": "DMX;reasoning effort:high(实测思考 1067→1638 tok)+ web_search"}
   ],
   "_rollback_2026-06-17前": {

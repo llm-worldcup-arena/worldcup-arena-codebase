@@ -132,21 +132,22 @@ def web_search_urls(query, n=12, timeout=150):
 
 
 def _glm_search(messages, model, timeout, max_uses):
-    """GLM 智谱官方直连（open.bigmodel.cn）联网搜索 —— 函数调用 + 智谱自家 /web_search 执行（DMXAPI 那条托管通道
-    无服务端搜索;智谱原生 in-chat web_search 工具实测不稳/易静默假搜,故改由模型自选 query、我方调智谱搜索端点执行,
-    搜索引擎仍是智谱自家、公平）。glm-5.1 thinking 与函数调用可同开,temperature=1。"""
-    key = _secret("ZHIPU_API_KEY")
-    auth = {"Authorization": f"Bearer {key}"}
+    """GLM 联网搜索 —— 智谱官方 glm-5.1 账户断额(2026-06-25)后改走 DMX：模型用 DMX 托管的 glm(thinking 显式开),
+    联网由模型自选 query、我方用 web_search_urls(Apify Google) 执行后喂回(DMX 自带 GLM 的 in-chat web_search 静默
+    假搜/返回空,故我方接管搜索执行;与其余 DMX 模型同走 Google 系搜索、公平)。全程 DMX+Apify、不碰智谱;智谱充值后
+    可把 models.json 的 GLM id 改回 glm-5.1 并恢复本函数旧版(智谱直连)。"""
+    cfg = load_config()
+    auth = {"Authorization": f"Bearer {cfg['_key']}"}
+    url = cfg["base_url"].rstrip("/") + "/chat/completions"
     tools = [{"type": "function", "function": {
         "name": "web_search",
         "description": "联网搜索实时信息（伤停/赛果/状态/赔率/新闻等），返回相关网页摘要",
         "parameters": {"type": "object", "properties": {
             "query": {"type": "string", "description": "搜索关键词"}}, "required": ["query"]}}}]
     msgs = list(messages)
-    for _ in range(max_uses + 2):
-        d = _post("https://open.bigmodel.cn/api/paas/v4/chat/completions",
-                  {"model": model, "messages": msgs, "thinking": {"type": "enabled"},
-                   "tools": tools, "max_tokens": 8000, "temperature": 1.0}, auth, timeout)
+    for _ in range(min(max_uses, 3) + 1):                            # 最多 3 轮搜索(DMX glm-5 thinking 慢,限轮数+限结果防上下文膨胀致 read timeout)
+        d = _post(url, {"model": model, "messages": msgs, "thinking": {"type": "enabled"},
+                        "tools": tools, "max_tokens": 8000}, auth, timeout)
         ch = d["choices"][0]
         msg = ch["message"]
         if ch.get("finish_reason") == "tool_calls" and msg.get("tool_calls"):
@@ -158,8 +159,9 @@ def _glm_search(messages, model, timeout, max_uses):
                     q = json.loads(tc["function"]["arguments"]).get("query", "")
                 except Exception:
                     pass
-                msgs.append({"role": "tool", "tool_call_id": tc["id"],
-                             "content": _zhipu_search(q, key) if q else "（空 query）"})
+                hits = web_search_urls(q, n=6) if q else []
+                txt = "\n".join(f"- {h['title']}：{h['content']}（{h['link']}）" for h in hits) or "（无结果）"
+                msgs.append({"role": "tool", "tool_call_id": tc["id"], "content": txt})
             continue
         return msg.get("content") or ""
     return msgs[-1].get("content", "") if msgs else ""
@@ -213,9 +215,9 @@ def chat_search(messages, model, temperature=0.3, timeout=300, max_uses=5):
                   {**auth, "x-api-key": cfg["_key"], "anthropic-version": "2023-06-01"}, timeout)
         return "".join(b.get("text", "") for b in d["content"] if b.get("type") == "text")
 
-    if m.startswith("gpt") or m.startswith("doubao") or m.startswith("qwen"):  # OpenAI Responses 兼容通道
+    if m.startswith("gpt") or m.startswith("doubao"):                # OpenAI Responses 兼容通道
         rbody = {"model": model, "input": messages, "tools": [{"type": "web_search"}],
-                 "reasoning": {"effort": "high"}}                     # 最高档思考:gpt-5.5 / 豆包 seed / qwen3-max 都吃此参数(qwen 为 GLM 智谱断额时的 DMX 平替,2026-06-25)
+                 "reasoning": {"effort": "high"}}                     # 最高档思考:gpt-5.5 与 豆包 seed 都吃此参数(实测豆包 reasoning 1067→1638 tok)
         d = _post(f"{root}/v1/responses", rbody, auth, timeout)
         return "".join(c.get("text", "") for o in d.get("output", []) if o.get("type") == "message"
                        for c in o.get("content", []))
