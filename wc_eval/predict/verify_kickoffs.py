@@ -87,6 +87,7 @@ def main():
     print("日期    组 对阵            场馆(城市)      美东   当地   北京   核对")
     print("─" * 78)
     issues, flags = [], []
+    seen = set()
     for r in fix:
         d_iso = "2026-" + r["date"].replace(".", "-").zfill(5).replace(".", "-")  # "6.15"→ rough
         # 规范 ISO 日期
@@ -98,7 +99,12 @@ def main():
         if want and (hc, ac) not in want:
             continue
         if not r["et"]:
+            if want and (hc, ac) in want:
+                issues.append((hc, ac, "FIX缺美东开球时间"))
+                seen.add((hc, ac))
+                print(f"{d_iso} {r['grp']} {hc}-{ac:<3} {r['away'][:8]:<8} {r['city_en'][:12]:<12} {'':>5}  {'  ?  '}  {'  ?  '}  ✗FIX缺时间")
             continue
+        seen.add((hc, ac))
         local, off = et_to_local(r["et"], r["city_en"])
         # 北京 = 美东 + 12(赛事期全程 EDT)
         ethh = int(r["et"].split(":")[0]); etmm = r["et"].split(":")[1]
@@ -118,6 +124,11 @@ def main():
         print(f"{d_iso} {r['grp']} {hc}-{ac:<3} {r['away'][:8]:<8} {r['city_en'][:12]:<12} {r['et']:>5}  {loc_s}  {bj}  {' '.join(tag) or '✓'}")
 
     print("─" * 78)
+    if want:
+        missing = sorted(want - seen)
+        for hc, ac in missing:
+            issues.append((hc, ac, "FIX无此指定场"))
+            print(f"✗ {hc}-{ac}: FIX无此指定场或队名映射失败")
     if issues:
         print(f"❌ {len(issues)} 项硬问题(FIX↔matches 不一致 / 当地时间越界)——必须修正后再推。")
     if flags:

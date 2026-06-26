@@ -280,6 +280,13 @@ _HANDICAP = {
     ("ECU", "GER"): +0.5,    # 德国(客)让0.5(GER -150 已头名出线;厄瓜多尔 +285 需取分搏第三;ESPN -0.5盘)
     ("JPN", "SWE"): -0.5,    # 日本 -0.5(JPN -118 微热;瑞典 +350;中立达拉斯;FanDuel)
     ("TUN", "NED"): +1.5,    # 荷兰(客)让1.5(NED -1000 巨热,头名7球;突尼斯已出局、负瑞典1-5;与SCO-BRA同档)
+    # —— 6/26 G/H/I 三组末轮(多源核对 2026-06-26;正值=主队受让) ——
+    ("NOR", "FRA"): +1.0,    # 法国(客)让1(SBG 明示 FRA -1;DraftKings ML FRA -124/NOR +350;Mashable 15:00ET)
+    ("SEN", "IRQ"): -1.5,    # 塞内加尔 -1.5(FanDuel/SI ML SEN -450 vs IRQ +1200;必须大胜争第三,与FRA-IRQ巨热档接近)
+    ("EGY", "IRN"): -0.5,    # 埃及 -0.5(Gooners/Bet365/Betfred/Cloudbet: EGY 2.45~2.50 vs IRN 3.40~3.80,小热)
+    ("NZL", "BEL"): +2.0,    # 比利时(客)让2(SBG 明示 BEL -2,ML -660;新西兰 +1656,温哥华)
+    ("CPV", "KSA"): -0.5,    # 佛得角 -0.5(Deadspin ML CPV +140 vs KSA +185;BetBrothers称CPV slight favourite,平衡小热)
+    ("URU", "ESP"): +1.0,    # 西班牙(客)让1(SBG 明示 ESP -1;Deadspin ML Spain -190/URU +525)
 }
 
 
