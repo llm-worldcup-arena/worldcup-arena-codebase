@@ -15,6 +15,7 @@
    python3 broadcast_round.py --snapshot <snap> --ts <ts> --refresh
 """
 import os, sys, json, glob, re, argparse, subprocess
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 RUNS = f"{ROOT}/wc_runs"
@@ -247,6 +248,8 @@ def main():
     ap.add_argument("--force", action="store_true", help="无视 auto_run_match_broadcast 开关强制采集")
     ap.add_argument("--embed-only", dest="embed_only", action="store_true",
                     help="只重嵌块B(跳过采集/合成)——改了块B生成逻辑后快速重嵌全队,不动 Apify")
+    ap.add_argument("--workers", type=int, default=3,
+                    help="采集/合成按场并发数;嵌 summary 块B 仍串行写入")
     a = ap.parse_args()
 
     on = mb_integration_on() or a.force
@@ -264,12 +267,29 @@ def main():
     miss_url = []
     fresh = []                          # 本轮【新收集到播报】的场 → 只重嵌这些场涉及的队(增量,省时)
     if not a.embed_only:
-        for m in allm:
+        def one_match(m):
             if on:
                 st = collect_one(m, a.ts, a.refresh)
             else:
                 st = "复用(已做过)" if mb_done(m["bc"]) else "✗缺播报(开关OFF,跳过采集)"
-            if "缺URL" in st or "缺播报" in st:
+            return m, st
+
+        workers = max(1, min(a.workers, len(allm) or 1))
+        if workers == 1:
+            results = [one_match(m) for m in allm]
+        else:
+            print(f"▶ 播报采集/合成并行 · workers={workers}")
+            results = []
+            with ThreadPoolExecutor(max_workers=workers) as ex:
+                futs = {ex.submit(one_match, m): m for m in allm}
+                for f in as_completed(futs):
+                    try:
+                        results.append(f.result())
+                    except Exception as e:
+                        m = futs[f]
+                        results.append((m, f"✗异常:{str(e)[:100]}"))
+        for m, st in sorted(results, key=lambda x: (x[0]["date"], x[0]["mid"])):
+            if "缺URL" in st or "缺播报" in st or st.startswith("✗"):
                 miss_url.append(m["key"])
             elif not st.startswith("复用"):       # 真正新收集/重合成了
                 fresh.append(m)

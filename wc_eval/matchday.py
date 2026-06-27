@@ -16,6 +16,11 @@
   --review        1=对已结算且有预测的场跑赛后复盘官  默认1
   --push-web      1=把预测+积分榜推到网页(并 git push)  0=只本地(默认0,推送是外发动作需显式开)
   --reveal 6.13   配 --push-web:解锁网页到某日
+  --env-workers         环境按场并发数(默认6)
+  --coach-workers       教练简介队伍并发数(默认16)
+  --news-workers        新闻三判队伍并发数(默认10)
+  --broadcast-workers   赛事播报按场并发数(默认3)
+  --predict-workers     预测按场并发数(默认2;每场内部仍并发6模型)
 
 只跑 py 能跑的;**新闻 URL 发现/抓取**是检索步(WebSearch+collect_team_news,见 skill),本编排假定 raws 已就位。
 
@@ -26,6 +31,7 @@
 例(只更新数据不推):  python3 matchday.py ... --predict "" --push-web 0
 """
 import os, sys, json, argparse, subprocess, datetime
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -36,6 +42,43 @@ PR = f"{HERE}/predict"
 def run(cmd, cwd):
     print(f"\n$ {' '.join(cmd)}")
     return subprocess.call(cmd, cwd=cwd)
+
+
+def run_many(jobs, workers, label):
+    """Run independent subprocess jobs with bounded parallelism."""
+    jobs = [j for j in jobs if j]
+    if not jobs:
+        return 0
+    workers = max(1, min(int(workers or 1), len(jobs)))
+    if workers == 1:
+        rc = 0
+        for cmd, cwd in jobs:
+            code = run(cmd, cwd)
+            rc = rc or code
+        return rc
+
+    print(f"\n=== 并行{label}: {len(jobs)} 个任务 · workers={workers} ===")
+    failures = []
+    with ThreadPoolExecutor(max_workers=workers) as ex:
+        futs = {ex.submit(run, cmd, cwd): (cmd, cwd) for cmd, cwd in jobs}
+        done = 0
+        for fut in as_completed(futs):
+            cmd, _cwd = futs[fut]
+            done += 1
+            try:
+                code = fut.result()
+            except Exception as e:
+                code = 1
+                print(f"  ✗ [{done}/{len(jobs)}] {' '.join(cmd)} 异常:{str(e)[:120]}")
+            else:
+                mark = "✓" if code == 0 else f"✗ rc={code}"
+                print(f"  {mark} [{done}/{len(jobs)}] {' '.join(cmd)}")
+            if code:
+                failures.append((code, cmd))
+    if failures:
+        print(f"  ⚠️ 并行{label}有 {len(failures)} 个任务失败")
+        return failures[0][0] or 1
+    return 0
 
 
 def main():
@@ -53,24 +96,37 @@ def main():
     ap.add_argument("--review", type=int, default=1)
     ap.add_argument("--push-web", dest="push", type=int, default=0)
     ap.add_argument("--reveal", default="")
+    ap.add_argument("--env-workers", type=int, default=6, help="环境刷新按场并发数")
+    ap.add_argument("--coach-workers", type=int, default=16, help="教练简介并发数(传给 coach_enrich)")
+    ap.add_argument("--news-workers", type=int, default=10, help="新闻三判队伍并发数(传给 news_pipeline)")
+    ap.add_argument("--broadcast-workers", type=int, default=3, help="赛事播报采集/合成按场并发数")
+    ap.add_argument("--predict-workers", type=int, default=2, help="预测按场并发数;每场内部仍会并发 6 模型")
     a = ap.parse_args()
     snap = a.snapshot
     print(f"=== 比赛日编排 ts={a.ts} snapshot={snap} ===")
     print(f"参数: settle={a.settle} news={a.news} coach={a.coach} env={a.env} plong={a.plong} "
-          f"predict={a.predict} audit={a.audit} review={a.review} push_web={a.push}")
+          f"predict={a.predict} audit={a.audit} review={a.review} push_web={a.push} "
+          f"workers(env={a.env_workers}, coach={a.coach_workers}, news={a.news_workers}, "
+          f"broadcast={a.broadcast_workers}, predict={a.predict_workers})")
 
     # ② 环境(天气/裁判)刷新
+    env_jobs = []
     for pair in [p for p in a.env.split(",") if p.strip()]:
         h, w = pair.split("-")
-        run(["python3", "collect_match_env.py", "--home", h, "--away", w, "--ts", a.ts, "--refresh"], BG)
+        env_jobs.append((["python3", "collect_match_env.py", "--home", h, "--away", w,
+                          "--ts", a.ts, "--refresh"], BG))
+    if env_jobs and run_many(env_jobs, a.env_workers, "环境刷新") != 0:
+        print("  ⚠️ 环境刷新有失败项;保留现有仓库数据继续后续门禁")
 
     # ③ 教练可读简介(全48队,并行)
     if a.coach:
-        run(["python3", "coach_enrich.py", "--ts", a.ts, "--teams", "ALL"], BG)
+        run(["python3", "coach_enrich.py", "--ts", a.ts, "--teams", "ALL",
+             "--workers", str(a.coach_workers)], BG)
 
     # ④ 新闻三判 py 管道(假定 raws 已抓;无新增的队自动跳过=不动 summary)
     if a.news and snap:
-        run(["python3", "news_pipeline.py", "--snapshot", snap, "--ts", a.ts, "--teams", "ALL"], BG)
+        run(["python3", "news_pipeline.py", "--snapshot", snap, "--ts", a.ts,
+             "--teams", "ALL", "--team-workers", str(a.news_workers)], BG)
 
     # ⑤ 赛事播报【整轮自动化 = 全部信息收集的一部分,不再是手动旁支】:
     #    broadcast_round.py 自动为【每一场已结算但还没做播报的场】跑完整条线:
@@ -82,6 +138,7 @@ def main():
         bcmd = ["python3", "broadcast_round.py", "--snapshot", snap, "--ts", a.ts]
         if a.broadcast.strip():
             bcmd += ["--only", a.broadcast]
+        bcmd += ["--workers", str(a.broadcast_workers)]
         run(bcmd, BG)
     if a.plong:
         run(["python3", "predictable_long_gen.py", "--all"], BG)
@@ -111,10 +168,13 @@ def main():
             pf.append("--llm-audit")
         if run(pf, PR) != 0:
             sys.exit("✗ 体检/终审未过,停止(不带病预测)")
+        pred_jobs = []
         for pair in a.predict.split(","):
             h, w = pair.strip().split("-")
-            run(["python3", "predict_match.py", "--home", h, "--away", w,
-                 "--snapshot", snap, "--run-ts", a.ts], PR)
+            pred_jobs.append((["python3", "predict_match.py", "--home", h, "--away", w,
+                               "--snapshot", snap, "--run-ts", a.ts], PR))
+        if run_many(pred_jobs, a.predict_workers, "单场预测") != 0:
+            sys.exit("✗ 有单场预测任务失败,停止合并/归档")
         run(["python3", "merge_batch.py", a.ts], PR)
         run(["python3", "archive_pred.py", a.ts, "--daily"], PR)
 

@@ -287,6 +287,13 @@ _HANDICAP = {
     ("NZL", "BEL"): +2.0,    # 比利时(客)让2(SBG 明示 BEL -2,ML -660;新西兰 +1656,温哥华)
     ("CPV", "KSA"): -0.5,    # 佛得角 -0.5(Deadspin ML CPV +140 vs KSA +185;BetBrothers称CPV slight favourite,平衡小热)
     ("URU", "ESP"): +1.0,    # 西班牙(客)让1(SBG 明示 ESP -1;Deadspin ML Spain -190/URU +525)
+    # —— 6/27 J/K/L 三组末轮(多源核对 2026-06-27;正值=主队受让) ——
+    ("PAN", "ENG"): +2.5,    # 英格兰(客)让2.5(SportsGambler 明示 ENG -2.25;RotoWire ENG -2.5,MetLife)
+    ("CRO", "GHA"): -0.5,    # 克罗地亚 -0.5(AZCentral/DraftKings ML CRO -130 vs GHA +450;ESPN/FanDuel 有盘,取半球)
+    ("ALG", "AUT"): +0.5,    # 奥地利(客)让0.5(Oddschecker/SportsInteraction AUT +135~+187 小热 vs ALG +235~+320)
+    ("JOR", "ARG"): +2.0,    # 阿根廷(客)让2(SportsGambler 明示 ARG -2;DraftKings ML ARG -525,Kalshi >2.5球42%)
+    ("COL", "POR"): +0.5,    # 葡萄牙(客)让0.5(AZCentral/DraftKings ML POR -120 vs COL +320;SportsGambler POR -120 value)
+    ("COD", "UZB"): -0.5,    # 刚果金 -0.5(SportsGambler DR Congo -143,约59%胜率;Ladbrokes DR Congo 7/10 vs UZB 3/1)
 }
 
 

@@ -234,6 +234,30 @@
   },
   "PAR_vs_AUS": {
    "score": "0-0"
+  },
+  "NOR_vs_FRA": {
+   "score": "1-4",
+   "ht": "1-3"
+  },
+  "SEN_vs_IRQ": {
+   "score": "5-0",
+   "ht": "1-0"
+  },
+  "EGY_vs_IRN": {
+   "score": "1-1",
+   "ht": "1-1"
+  },
+  "NZL_vs_BEL": {
+   "score": "1-5",
+   "ht": "0-1"
+  },
+  "CPV_vs_KSA": {
+   "score": "0-0",
+   "ht": "0-0"
+  },
+  "URU_vs_ESP": {
+   "score": "0-1",
+   "ht": "0-1"
   }
  },
  "group_winners": {},

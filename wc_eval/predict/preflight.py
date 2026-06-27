@@ -14,6 +14,7 @@
 跑:python3 preflight.py --snapshot 2026-06-13_0748 --matches QAT-SUI,BRA-MAR,HAI-SCO,AUS-TUR
 """
 import os, json, argparse, datetime, sys
+import re
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 RUNS = f"{ROOT}/wc_runs"
@@ -81,6 +82,35 @@ def check(home, away, snap):
     return errs, warns
 
 
+def _issue_text(issue):
+    return f"{issue.get('quote', '')} {issue.get('why', '')}"
+
+
+def _dates_in_issue(issue):
+    """提取 LLM issue 里明写的日期。只用来降级明显早于本场的 leakage 误报。"""
+    txt = _issue_text(issue)
+    out = []
+    for y, m, d in re.findall(r"(20\d{2})[-/年.](\d{1,2})[-/月.](\d{1,2})", txt):
+        try:
+            out.append(datetime.date(int(y), int(m), int(d)))
+        except ValueError:
+            pass
+    for m, d in re.findall(r"(?<!\d)(\d{1,2})/(\d{1,2})(?!\d)", txt):
+        try:
+            out.append(datetime.date(2026, int(m), int(d)))
+        except ValueError:
+            pass
+    return out
+
+
+def _hard_leakage(issue, match_date):
+    """LLM 终审偶尔把本场前已赛结果误报成 leakage；硬拦只保留本场日及之后的明确赛果泄露。"""
+    dates = _dates_in_issue(issue)
+    if dates and all(d < match_date for d in dates):
+        return False
+    return True
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--snapshot", required=True)
@@ -105,19 +135,28 @@ def main():
         pairs = [tuple(p.strip().split("-")) for p in a.matches.split(",")]
         def _audit(hw):
             h, w = hw
+            mt = next((m for m in json.load(open(f"{RUNS}/data_reference/matches.json", encoding="utf-8"))
+                       if m.get("team_a") == h and m.get("team_b") == w), {})
             return hw, snapshot_audit(h, w, read_summary(h, a.snapshot), read_summary(w, a.snapshot),
-                                      f"快照 {a.snapshot}")
+                                      f"快照 {a.snapshot}；本场日期 {mt.get('date')}；只把本场或本场之后赛果算泄露")
         # 拦截规则:**只对 leakage(泄露)硬拦**——这是 benchmark 命门;矛盾/过期 精度有限(实测爱把
         # "近期战绩客场对手比分在前"约定、主/中场地小标注误报为矛盾),降级为 issues 供人核,不 hard-block。
         blocked = 0
         for hw, r in pmap(_audit, pairs, workers=4, label="终审"):
             h, w = hw
+            mt = next((m for m in json.load(open(f"{RUNS}/data_reference/matches.json", encoding="utf-8"))
+                       if m.get("team_a") == h and m.get("team_b") == w), {})
+            md = datetime.date.fromisoformat(mt.get("date"))
             iss = (r or {}).get("issues", [])
-            leak = [it for it in iss if it.get("type") == "leakage"]
+            raw_leak = [it for it in iss if it.get("type") == "leakage"]
+            leak = [it for it in raw_leak if _hard_leakage(it, md)]
             tag = "🚫泄露" if leak else ("⚠️存疑" if iss else "✅")
             print(f"  {tag} {h} vs {w}" + (f"  issues {len(iss)}条(leak {len(leak)})" if iss else ""))
             for it in iss:
-                print(f"      [{it.get('type')}] {it.get('team')}: {it.get('quote','')[:40]} — {it.get('why','')[:50]}")
+                typ = it.get("type")
+                if typ == "leakage" and it in raw_leak and it not in leak:
+                    typ = "leakage误报降级"
+                print(f"      [{typ}] {it.get('team')}: {it.get('quote','')[:40]} — {it.get('why','')[:50]}")
             if leak:
                 blocked += 1
         if blocked:
