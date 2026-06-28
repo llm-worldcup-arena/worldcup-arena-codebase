@@ -30,6 +30,34 @@
 跟赛程,每个预测点用 `snapshot_round` 出的**当轮最新快照**,预测接下来的比赛。
 **【待定·需确认】** 逐日预测的具体维度:每场胜平负?具体比分?当日多场打包?
 
+### C. 淘汰赛阶段新增步骤（不改旧预测流）
+淘汰赛先跑新增脚本解析已确定对阵，再继续使用原来的单场预测链路。
+
+```bash
+# 先看清楚哪些场已能落地、哪些第三名分配还需人工指定
+python3 wc_eval/predict/resolve_knockout.py --dry-run
+
+# 写入已确定的对阵:matches.json + 网页 knockout 表
+python3 wc_eval/predict/resolve_knockout.py --write-matches --write-web
+
+# 若 FIFA 官方第三名分配已出,用 override 明确指定,不要让脚本猜
+python3 wc_eval/predict/resolve_knockout.py --write-matches --write-web \
+  --third-overrides M74=ECU,M77=SWE
+```
+
+原则:
+- `predict_match.py / merge_batch.py / archive_pred.py / update_web.py` 旧链路保留;
+- `resolve_knockout.py` 只把 bracket slot 转成真实 `HOME-AWAY`;
+- 最佳第三名有多个候选时保留“暂定”,必须用官方分配或人工 override;
+- 对阵落地后仍需补该场 `match_env` 和 `_HANDICAP` 固定盘口,再跑预测门禁。
+
+一键编排可选打开:
+
+```bash
+python3 wc_eval/matchday.py --resolve-ko 1 --snapshot 2026-06-28_1223 \
+  --env NED-MAR,BRA-JPN --predict NED-MAR,BRA-JPN --ts 2026-06-29_0900
+```
+
 ## 评分（`score.py`）
 赛后用真实赛果对照,按上面分值结算,累加成积分榜(单场分 + 全局分)。
 

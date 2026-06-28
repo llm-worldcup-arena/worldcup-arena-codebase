@@ -12,6 +12,8 @@
   --env  A-B,..   要刷新环境(天气/裁判)的场次
   --plong         1=为已收集 raws 的播报生成可预测版 long  0=跳过
   --predict A-B,. 要预测的场次(空=不预测)
+  --resolve-ko    1=预测前先解析已确定淘汰赛对阵,写入 matches.json + 网页 KO 表  0=跳过(默认0)
+  --third-overrides 第三名分配歧义手工指定,如 M74=ECU,M77=SWE
   --audit         1=预测前跑 LLM 快照终审官(语义把关)  默认1
   --review        1=对已结算且有预测的场跑赛后复盘官  默认1
   --push-web      1=把预测+积分榜推到网页(并 git push)  0=只本地(默认0,推送是外发动作需显式开)
@@ -92,6 +94,8 @@ def main():
     ap.add_argument("--broadcast", default="", help="要合成赛事播报 ours 的场次 A-B,..(需先有 raws);可 --refresh 重跑")
     ap.add_argument("--plong", type=int, default=0)
     ap.add_argument("--predict", default="")
+    ap.add_argument("--resolve-ko", type=int, default=0, help="淘汰赛阶段:先解析已确定对阵并写入 matches/web")
+    ap.add_argument("--third-overrides", default="", help="最佳第三名分配歧义手工指定,如 M74=ECU,M77=SWE")
     ap.add_argument("--audit", type=int, default=1)
     ap.add_argument("--review", type=int, default=1)
     ap.add_argument("--push-web", dest="push", type=int, default=0)
@@ -105,9 +109,18 @@ def main():
     snap = a.snapshot
     print(f"=== 比赛日编排 ts={a.ts} snapshot={snap} ===")
     print(f"参数: settle={a.settle} news={a.news} coach={a.coach} env={a.env} plong={a.plong} "
-          f"predict={a.predict} audit={a.audit} review={a.review} push_web={a.push} "
+          f"predict={a.predict} resolve_ko={a.resolve_ko} third_overrides={a.third_overrides or '-'} "
+          f"audit={a.audit} review={a.review} push_web={a.push} "
           f"workers(env={a.env_workers}, coach={a.coach_workers}, news={a.news_workers}, "
           f"broadcast={a.broadcast_workers}, predict={a.predict_workers})")
+
+    # ①K 淘汰赛对阵解析:新增阶段步骤,默认关闭;只把已确定/人工指定后的 KO 场写入数据源。
+    if a.resolve_ko:
+        kcmd = ["python3", "resolve_knockout.py", "--write-matches", "--write-web"]
+        if a.third_overrides:
+            kcmd += ["--third-overrides", a.third_overrides]
+        if run(kcmd, PR) != 0:
+            sys.exit("✗ 淘汰赛对阵解析失败,停止后续流程")
 
     # ② 环境(天气/裁判)刷新
     env_jobs = []

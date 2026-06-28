@@ -72,19 +72,31 @@ def main():
         aj = re.sub(r"(REVEAL_THROUGH\s*[:=]\s*)['\"][^'\"]*['\"]", rf'\1"{a.reveal}"', aj, count=1)
         revmsg = f" · REVEAL_THROUGH→{a.reveal}"
     res = json.load(open(f"{ARC}/results.json", encoding="utf-8"))
-    # RESULTS 的索引键必须与网页 FIX(worldcup-app.js)显示顺序一致,否则注入赛果会张冠李戴。
-    # 两边统一按【开球时间 kickoff_ts】升序(FIX 也按时间序维护);match_id 仅作同刻次序兜底。
+    # RESULTS 的索引键必须与前端读取方式一致:
+    #   小组赛:worldcup-ui.js 用 FIX 数组下标读 res[i] → 仍按 FIX/时间顺序枚举;
+    #   淘汰赛:worldcup-ui.js 用 matchNo-1 读 res[m[0]-1] → 必须稀疏写 match_id-1。
     _ms = json.load(open(f"{ROOT}/wc_runs/data_reference/matches.json", encoding="utf-8"))
-    _ms = sorted(_ms, key=lambda m: (m.get("date") or "", m.get("kickoff_ts") or "zzzz", m.get("match_id") or ""))
-    order = [f"{m['team_a']}_vs_{m['team_b']}" for m in _ms]
     RES = {}
-    for idx, mk in enumerate(order):
+    group_ms = sorted((m for m in _ms if m.get("round") == "group"),
+                      key=lambda m: (m.get("date") or "", m.get("kickoff_ts") or "zzzz", m.get("match_id") or ""))
+    ko_ms = [m for m in _ms if m.get("round") != "group"]
+    for pos, m in enumerate(group_ms):
+        mk = f"{m['team_a']}_vs_{m['team_b']}"
         rr = (res.get("matches") or {}).get(mk, {})
         if rr.get("score"):
             v = str(rr["score"]).replace("-", ":")
             if rr.get("ht"):
                 v += "/" + str(rr["ht"]).replace("-", ":")
-            RES[str(idx)] = v
+            RES[str(pos)] = v
+    for m in ko_ms:
+        mk = f"{m['team_a']}_vs_{m['team_b']}"
+        rr = (res.get("matches") or {}).get(mk, {})
+        mm = re.match(r"^M(\d+)$", str(m.get("match_id") or ""))
+        if rr.get("score") and mm:
+            v = str(rr["score"]).replace("-", ":")
+            if rr.get("ht"):
+                v += "/" + str(rr["ht"]).replace("-", ":")
+            RES[str(int(mm.group(1)) - 1)] = v
     aj = re.sub(r"RESULTS:\s*\{[^}]*\}", "RESULTS: " + json.dumps(RES, ensure_ascii=False), aj, count=1)
     # 注入全局赛果（results.global + group_winners → arena.js;FIFA码转英文队名）
     teams = {t["team_id"]: t["name_en"] for t in json.load(open(f"{ROOT}/wc_runs/data_reference/teams.json", encoding="utf-8"))}

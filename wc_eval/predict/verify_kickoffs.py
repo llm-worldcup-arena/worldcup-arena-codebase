@@ -20,14 +20,15 @@ import os, re, json, argparse
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 MATCHES = f"{ROOT}/wc_runs/data_reference/matches.json"
-WEB_APP = os.environ.get("WC_WEB_DIR") and f"{os.environ['WC_WEB_DIR']}/worldcup-app.js" \
-    or f"{os.path.dirname(ROOT)}/worldcup_2026_web/site/worldcup-app.js"
+WEB_DIR = os.environ.get("WC_WEB_DIR") or f"{os.path.dirname(ROOT)}/worldcup_2026_web/site"
+WEB_APP = f"{WEB_DIR}/worldcup-app.js"
+WEB_KO = f"{WEB_DIR}/worldcup-knockout.js"
 
 # 美东相对各时区的偏移(ET 比当地早几小时):ET 同区=0,CT 慢1,MT 慢2,PT 慢3。当地 = 美东时刻 - offset。
 CITY_TZ = {  # 网页 FIX 用的英文城市名 → 相对美东的小时差(当地 = ET - 值)
     # ET(0)
-    "Miami": 0, "Atlanta": 0, "New York": 0, "Philadelphia": 0, "Boston": 0, "Toronto": 0,
-    "East Rutherford": 0, "Foxborough": 0, "Nashville": 0,
+    "Miami": 0, "Miami Gardens": 0, "Atlanta": 0, "New York": 0, "New York / NJ": 0,
+    "Philadelphia": 0, "Boston": 0, "Toronto": 0, "East Rutherford": 0, "Foxborough": 0, "Nashville": 0,
     # US 中部 CDT(1)(夏令时 UTC-5)
     "Dallas": 1, "Houston": 1, "Kansas City": 1, "Arlington": 1,
     # 墨西哥 CST(2)(2022 起全国废夏令时 UTC-6 = 美东 EDT 再 -2;边境城市除外)
@@ -35,7 +36,8 @@ CITY_TZ = {  # 网页 FIX 用的英文城市名 → 相对美东的小时差(当
     # MT(2)
     "Denver": 2,
     # PT(3)
-    "Los Angeles": 3, "Seattle": 3, "San Francisco": 3, "Santa Clara": 3, "Vancouver": 3, "Inglewood": 3,
+    "Los Angeles": 3, "Seattle": 3, "San Francisco": 3, "Santa Clara": 3, "SF Bay Area": 3,
+    "Vancouver": 3, "Inglewood": 3,
 }
 # 世界杯北美赛程的常见【当地】开球档(小时);越界=可疑
 SANE_LOCAL_HOURS = {11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22}
@@ -48,6 +50,24 @@ def parse_fix(path):
     for m in re.finditer(r'\["(\d+\.\d+)","([^"]*)","([^"]+)","([^"]+)","([^"]*)","([^"]*)","([^"]*)"\]', t):
         d, grp, h, a, ccn, cen, et = m.groups()
         rows.append({"date": d, "grp": grp, "home": h, "away": a, "city_cn": ccn, "city_en": cen, "et": et})
+    return rows
+
+
+def parse_ko(path, code):
+    """从 worldcup-knockout.js 解析已落地实队的 KO 行,占位行跳过。"""
+    if not os.path.exists(path):
+        return []
+    t = open(path, encoding="utf-8").read()
+    rows = []
+    pat = (r'\[\s*(\d+)\s*,\s*(\d+)\s*,\s*"(\d+\.\d+)"\s*,\s*"([^"]+)"\s*,\s*'
+           r'"([^"]*)"\s*,\s*"([^"]*)"\s*,\s*"([^"]*)"\s*,\s*"([^"]*)"\s*,\s*'
+           r'"([^"]*)"\s*,\s*"([^"]*)"\s*\]')
+    for m in re.finditer(pat, t):
+        no, rd, d, et, _azh, aen, _bzh, ben, _vzh, ven = m.groups()
+        if aen not in code or ben not in code:
+            continue
+        rows.append({"date": d, "grp": f"KO{no}", "home": aen, "away": ben,
+                     "city_cn": _vzh, "city_en": ven, "et": et})
     return rows
 
 
@@ -73,6 +93,7 @@ def main():
     code = {}
     for m in re.finditer(r'"([^"]+)":"([A-Z]{3})"', open(WEB_APP, encoding="utf-8").read()):
         code[m.group(1)] = m.group(2)
+    fix += parse_ko(WEB_KO, code)
     # matches.json 按 (date, A, B) 存 kickoff_ts(美东小时)
     mj = {}
     for m in ms:
