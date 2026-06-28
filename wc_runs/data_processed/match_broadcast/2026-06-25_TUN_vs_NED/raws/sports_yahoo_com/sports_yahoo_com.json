@@ -1,0 +1,24 @@
+{
+ "source": "sports.yahoo.com",
+ "url": "https://sports.yahoo.com/soccer/fifa-world-cup/netherlands-tunisia-13587208/",
+ "title": "Tunisia 1 - 3 Netherlands: Final score, results, recap, box score, stats - Yahoo Sports",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-25",
+  "home": "TUN",
+  "away": "NED",
+  "home_en": "Tunisia",
+  "away_en": "Netherlands",
+  "home_zh": "突尼斯",
+  "away_zh": "荷兰",
+  "comp": "小组赛·F组",
+  "match_id": "M58",
+  "slug": "2026-06-25_TUN_vs_NED"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Tunisia 1 - 3 Netherlands: Final score, results, recap, box score, stats\nSubstitution - In\n26 - Sebastian Tounekti\nSubstitution - Out\n9 - Hazem Mastouri\nSubstitution - In\n17 - Noa Lang\nSubstitution - Out\n11 - Cody Gakpo\nSubstitution - In\n10 - Memphis\nSubstitution - Out\n19 - Brian Brobbey\nSubstitution - In\n19 - Firas Chaouat\nSubstitution - Out\n11 - Ismael Gharbi\nSubstitution - In\n24 - Crysencio Summerville\nSubstitution - Out\n18 - Donyell Malen\nSubstitution - In\n7 - Justin Kluivert\nSubstitution - Out\n14 - Tijjani Reijnders\nSubstitution - In\n20 - Teun Koopmeiners\nSubstitution - Out\n21 - Frenkie de Jong\nSubstitution - In\n12 - Mortadha Ben Ouanes\nSubstitution - Out\n21 - Mohamed Amine Ben Hmida\nSubstitution - In\n7 - Elias Achouri\nSubstitution - Out\n25 - Anis Slimane\nSubstitution - In\n15 - Mohamed Hadj Mahmoud\nSubstitution - Out\n13 - Rani Khedira\nGoal\n6 - Jan-Paul van Hecke\nAssist\n14 - Tijjani Reijnders\nGoal\n9 - Hazem Mastouri\nAssist\n10 - Hannibal Mejbri",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

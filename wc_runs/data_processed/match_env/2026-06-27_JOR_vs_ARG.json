@@ -1,0 +1,40 @@
+{
+ "match": {
+  "slug": "2026-06-27_JOR_vs_ARG",
+  "date": "2026-06-27",
+  "home": "JOR",
+  "away": "ARG",
+  "round": "group",
+  "group": "J"
+ },
+ "kickoff": {
+  "美东": "2026-06-27T22:00:00-04:00",
+  "北京": "06-28 10:00"
+ },
+ "venue": {
+  "name": "AT&T Stadium",
+  "city": "Arlington, Texas",
+  "altitude_m": 184,
+  "roof": "retractable",
+  "surface": "grass"
+ },
+ "weather": {
+  "开球时段": {
+   "温度C": 30.6,
+   "体感C": 31.1,
+   "降水概率%": 0,
+   "降水mm": 0.0,
+   "风速kmh": 22.0,
+   "湿度%": 52,
+   "天况": "晴"
+  },
+  "source": "open-meteo(免费预报API)",
+  "fetched": "2026-06-27_1312",
+  "_note": "临近开球建议 --refresh 刷新"
+ },
+ "referee": {
+  "name": null,
+  "_note": "待 WebSearch FIFA指派公告"
+ },
+ "_note": "环境=比赛+时间+地点 确定;天气为开球时段;顶棚 retractable/fixed-canopy 时天气影响有限。"
+}

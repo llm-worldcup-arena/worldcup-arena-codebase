@@ -1,0 +1,16 @@
+{
+ "team": "ESP",
+ "source": "sports.ndtv.com",
+ "url": "https://sports.ndtv.com/us/fifa/spain-2026-world-cup-guide-full-squad-list-key-players-group-h-fixtures-and-latest-injury-news-11624395",
+ "title": "Spain 2026 World Cup Guide: Full Squad List, Key Players, Group H Fixtures And Latest Injury News | FIFA | NDTV US Sports",
+ "news_date": "2026-06-26",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-26",
+ "fetched": "2026-06-26_1615",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Spain 2026 World Cup Guide: Full Squad List, Key Players, Group H Fixtures And Latest Injury News | FIFA\nSpain At The 2026 World Cup: Squad, Fixtures And Injury News© NDTV\nSpain arrive at the 2026 World Cup as the team most neutrals expect to win it. Luis de la Fuente's side won Euro 2024, finished top of their Nations League group, and have assembled a 26-man squad that blends the tactical discipline of Rodri and Fabian Ruiz with the raw brilliance of Lamine Yamal and Nico Williams. The injuries surrounding both of those forwards, however, have cast a shadow over the entire build-up.\n\nThe Full Squad and Key Players\nGoalkeepers: Unai Simón (Athletic Club), David Raya (Arsenal), Álex Remiro (Real Sociedad). Defenders: Pedro Porro (Tottenham), Marcos Llorente (Atlético Madrid), Pau Cubarsí (Barcelona), Marc Pubill (Atlético Madrid), Aymeric Laporte (Athletic Club), Eric García (Barcelona), Alejandro Grimaldo (Bayer Leverkusen), Marc Cucurella (Chelsea).\nMidfielders: Rodri (Manchester City), Martín Zubimendi (Arsenal), Gavi (Barcelona), Pedri (Barcelona), Fabián Ruiz (PSG), Mikel Merino (Arsenal), Álex Baena (Atlético Madrid).\nForwards: Dani Olmo (Barcelona), Lamine Yamal (Barcelona), Nico Williams (Athletic Club), Yéremy Pino (Crystal Palace), Ferran Torres (Barcelona), Borja Iglesias (Celta Vigo), Víctor Muñoz (Osasuna), Mikel Oyarzabal (Real Sociedad).\nRodri captains the side and remains one of the best midfielders in the world despite missing much of the 2024-25 season through injury. Pedri and Gavi give De la Fuente one of the most technically gifted central midfield pools at the tournament. Dani Olmo leads the attack in Yamal's absence.\nLatest Injury News and Group H Fixtures\nLamine Yamal is the central injury concern. The 18-year-old suffered a hamstring injury in Barcelona's final La Liga match and is expected to miss Spain's opening game against Cape Verde on June 15. The most optimistic timeline has him available for the Uruguay fixture on June 26. Nico Williams is also recovering from a hamstring problem, though his prognosis is more positive. Mikel Merino has recovered from a long-term injury and is expected to be available from the start. Fermín López was ruled out before the squad was finalised with a metatarsal fracture.\nSpain face Cape Verde in Atlanta on June 15, Saudi Arabia in Atlanta on June 21, and Uruguay in Guadalajara on June 26. The group is manageable. A Yamal fitness update before June 15 is the only thing Spain's entire fanbase is waiting for.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

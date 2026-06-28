@@ -1,0 +1,24 @@
+{
+ "source": "foxsports.com",
+ "url": "https://www.foxsports.com/live-blog/soccer/dr-congo-vs-uzbekistan-live-updates-score-latest-world-cup-news-goals",
+ "title": "DR Congo vs. Uzbekistan Live Updates, Score: Latest World Cup News and Goals | FOX Sports",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-27",
+  "home": "COD",
+  "away": "UZB",
+  "home_en": "DR Congo",
+  "away_en": "Uzbekistan",
+  "home_zh": "刚果（金）",
+  "away_zh": "乌兹别克斯坦",
+  "comp": "小组赛·K组",
+  "match_id": "M72",
+  "slug": "2026-06-27_COD_vs_UZB"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "The Leopards are headed to the knockout stages.A come-from-behind victory, with three goals in the final 22 minutes, gives DR Congo its first-ever World Cup win and sends it to the round of 32. DR Congo had to do it the hard way, chipping away all game after going down 1-0 in the 10th minute.Yoane Wissa scored the penalty he earned in the 68th minute, Mayele delivered the go-ahead goal in the 78th, and Wissa added his second as the insurance goal in the 91st. That puts DR Congo in the round of 32 for the first time in its history and in only its second World Cup appearance. Remarkable story.DR Congo started a little shaky as Uzbekistan came out with energy and urgency, but it grew into the match in the first half and was the better team in the second half as it pushed for the comeback.For Uzbekistan, it is disappointing in its World Cup debut. Uzbekistan was 22 minutes plus stoppage time away from its first-ever World Cup point, but it just could not hold on. The pressure kept piling on late, and eventually Uzbekistan cracked despite a valiant effort.DR Congo will stay in Atlanta Stadium, where it has earned a date with England on Wednesday, July 1.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

@@ -1,0 +1,24 @@
+{
+ "source": "espn.com",
+ "url": "https://www.espn.com/soccer/report/_/gameId/760475",
+ "title": "Norway 1-4 France (Jun 26, 2026) Game Analysis - ESPN",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-26",
+  "home": "NOR",
+  "away": "FRA",
+  "home_en": "Norway",
+  "away_en": "France",
+  "home_zh": "挪威",
+  "away_zh": "法国",
+  "comp": "小组赛·I组",
+  "match_id": "M61",
+  "slug": "2026-06-26_NOR_vs_FRA"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "FOXBOROUGH, Mass -- France forward Ousmane Dembélé scored a first-half hat trick, including one off a feed from Kylian Mbappé, to help his team beat Norway 4-1 at the World Cup on Friday.\nDembélé's goals came in the seventh, 20th and 32nd minutes. It was the first-half hat trick at the World Cup since Russia forward Oleg Salenko scored three of his five goals in the opening 45 minutes against Cameroon at the 1994 World Cup in the United States.\nDésiré Doué scored France's final goal in second-half injury time.\nDembélé, who won Ballon d'Or as Europe's top player in 2025 and has now scored four goals at this year's World Cup, left the game in the 65th minute. He was replaced by Bradley Barcola.\nOusmane Dembélé helped himself to a hat trick as France booked their place in the knockouts as group winners.\nPhoto by Sathire Kelpa/Anadolu via Getty Images\nThelo Aasgaard got Norway on the scoreboard after Dembélé's second goal, finding the back of the net only 14 seconds after the restart. But Dembélé added his third goal less than nine minutes later to push the lead back to two.\nDembélé increased his international goal total to eight while Mbappe now has 16 goals and four assists in 17 World Cup matches. He scored two goals in each of France's wins over Senegal and Iraq.\nErling Haaland was among 10 regular starters absent from Norway's starting lineup, presumably to rest. The wholesale changes included Egil Selvik starting in goal in place of Orjan Nyland.\nFrance, which won the World Cup in 2018 and lost in the final four years ago, had already secured its place in the knockout round before Friday's match. Norway was also assured of a spot in the round of 32 and ended up in second place in the group.\nThe fastest World Cup hat trick took only 7 minutes, 42 seconds. Hungary striker Laszlo Kiss, who had come on as a substitute, managed that feat late in the match against El Salvador at the 1982 World Cup in Spain.\nThe quickest World Cup hat trick from the start of the match occurred at the 1954 tournament in Switzerland when Austria striker Erich Probst scored his three goals in the opening 24 minutes against Czechoslovakia.\nMbappé nearly got France on the scoreboard only 21 seconds into the game. He sprinted up the right side and sent a hard shot that hit the crossbar beyond the outstretched arm of Selvik.\nDembélé was operating in space for his first goal when he took a pass from Mbappé and blasted a right-footed shot across Selvik.\nOn the Paris Saint-Germain player's second goal, Dembélé found space between three defenders at the top of the box and fired in a left-footer beyond Selvik's diving save attempt.\nNorway had a chance to close the gap back to one goal in the 49th when France defender Theo Hernández was whistled for tripping Oscar Bobb in the box. But Jorgen Strand Larsen's penalty shot toward the right corner was batted away by France goalkeeper Mike Maignan.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

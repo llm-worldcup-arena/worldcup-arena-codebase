@@ -1,0 +1,24 @@
+{
+ "source": "sports.yahoo.com",
+ "url": "https://sports.yahoo.com/soccer/fifa-world-cup/ghana-croatia-13587244/",
+ "title": "Croatia 2 - 1 Ghana: Final score, results, recap, box score, stats - Yahoo Sports",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-27",
+  "home": "CRO",
+  "away": "GHA",
+  "home_en": "Croatia",
+  "away_en": "Ghana",
+  "home_zh": "克罗地亚",
+  "away_zh": "加纳",
+  "comp": "小组赛·L组",
+  "match_id": "M68",
+  "slug": "2026-06-27_CRO_vs_GHA"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Croatia 2 - 1 Ghana: Final score, results, recap, box score, stats\nYellow Card\n21 - Kojo Peprah Oppong\nSubstitution - In\n4 - Josko Gvardiol\nSubstitution - Out\n13 - Nikola Vlasic\nSubstitution - In\n24 - Marco Pasalic\nSubstitution - Out\n16 - Martin Baturina\nSubstitution - In\n3 - Caleb Yirenkyi\nSubstitution - Out\n8 - Kwasi Sibo\nGoal\n13 - Nikola Vlasic\nAssist\n10 - Luka Modric\nSubstitution - In\n15 - Mario Pasalic\nSubstitution - Out\n8 - Mateo Kovacic\nGoal\n23 - Derrick Luckassen\nAssist\n24 - Ernest Nuamah\nSubstitution - In\n24 - Ernest Nuamah\nSubstitution - Out\n22 - Kamaldeen Sulemana\nSubstitution - In\n10 - Brandon Thomas-Asante\nSubstitution - Out\n9 - Jordan Ayew\nYellow Card\n14 - Ivan Perisic\nSubstitution - In\n20 - Igor Matanovic\nSubstitution - Out\n11 - Ante Budimir\nSubstitution - In\n7 - Abdul Fatawu\nSubstitution - Out\n15 - Elisha Owusu\nSubstitution - In\n21 - Kojo Peprah Oppong\nSubstitution - Out\n4 - Jonas Adjetey",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

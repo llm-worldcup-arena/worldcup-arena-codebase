@@ -1,0 +1,350 @@
+{
+ "match_id": 4627921,
+ "date": "2026-06-27",
+ "comp": "小组赛·L组",
+ "ha_home": "中",
+ "home": "Croatia",
+ "away": "Ghana",
+ "score": "2-1",
+ "venue": "Lincoln Financial Field (Philadelphia)",
+ "attendance": 68324,
+ "goals": [
+  {
+   "min": 31,
+   "side": "home",
+   "player": "Petar Sucic",
+   "sub": null
+  },
+  {
+   "min": 73,
+   "side": "away",
+   "player": "Derrick Luckassen",
+   "sub": null
+  },
+  {
+   "min": 83,
+   "side": "home",
+   "player": "Nikola Vlašić",
+   "sub": null
+  }
+ ],
+ "cards": [
+  {
+   "min": 68,
+   "side": "home",
+   "player": "Ivan Perisic",
+   "type": "黄牌"
+  },
+  {
+   "min": 90,
+   "side": "away",
+   "player": "Kojo Peprah Oppong",
+   "type": "黄牌"
+  }
+ ],
+ "stats": {
+  "射门": [
+   "8",
+   "6"
+  ],
+  "射正": [
+   "4",
+   "1"
+  ],
+  "禁区内射门": [
+   "2",
+   "3"
+  ],
+  "扑救": [
+   "2",
+   "2"
+  ],
+  "角球": [
+   "3",
+   "2"
+  ],
+  "越位": [
+   "1",
+   "2"
+  ],
+  "控球%": [
+   "53%",
+   "47%"
+  ],
+  "传中": [
+   "99",
+   "104"
+  ],
+  "传球": [
+   "477",
+   "402"
+  ],
+  "xG预期进球": [
+   "0.61",
+   "0.49"
+  ],
+  "xGOT/大机会": [
+   "0.87",
+   "0.96"
+  ]
+ },
+ "lineups": {
+  "home": [
+   {
+    "no": 1,
+    "name": "Dominik Livakovic"
+   },
+   {
+    "no": 14,
+    "name": "Ivan Perisic"
+   },
+   {
+    "no": 3,
+    "name": "Marin Pongracic"
+   },
+   {
+    "no": 6,
+    "name": "Josip Šutalo"
+   },
+   {
+    "no": 2,
+    "name": "Josip Stanišić"
+   },
+   {
+    "no": 8,
+    "name": "Mateo Kovacic"
+   },
+   {
+    "no": 10,
+    "name": "Luka Modric"
+   },
+   {
+    "no": 16,
+    "name": "Martin Baturina"
+   },
+   {
+    "no": 17,
+    "name": "Petar Sucic"
+   },
+   {
+    "no": 13,
+    "name": "Nikola Vlašić"
+   },
+   {
+    "no": 11,
+    "name": "Ante Budimir"
+   },
+   {
+    "no": 4,
+    "name": "Josko Gvardiol"
+   },
+   {
+    "no": 20,
+    "name": "Igor Matanovic"
+   },
+   {
+    "no": 24,
+    "name": "Marco Pasalic"
+   },
+   {
+    "no": 15,
+    "name": "Mario Pasalic"
+   },
+   {
+    "no": 25,
+    "name": "Martin Erlić"
+   },
+   {
+    "no": 19,
+    "name": "Toni Fruk"
+   },
+   {
+    "no": 18,
+    "name": "Kristijan Jakic"
+   },
+   {
+    "no": 23,
+    "name": "Dominik Kotarski"
+   },
+   {
+    "no": 9,
+    "name": "Andrej Kramaric"
+   },
+   {
+    "no": 7,
+    "name": "Nikola Moro"
+   },
+   {
+    "no": 26,
+    "name": "Petar Musa"
+   },
+   {
+    "no": 12,
+    "name": "Ivor Pandur"
+   },
+   {
+    "no": 21,
+    "name": "Luka Sučić"
+   },
+   {
+    "no": 22,
+    "name": "Luka Vušković"
+   },
+   {
+    "no": 5,
+    "name": "Duje Ćaleta-Car"
+   }
+  ],
+  "away": [
+   {
+    "no": 16,
+    "name": "Benjamin Asare"
+   },
+   {
+    "no": 14,
+    "name": "Gideon Mensah"
+   },
+   {
+    "no": 23,
+    "name": "Derrick Luckassen"
+   },
+   {
+    "no": 4,
+    "name": "Jonas Adjetey"
+   },
+   {
+    "no": 26,
+    "name": "Marvin Senaya"
+   },
+   {
+    "no": 5,
+    "name": "Thomas Partey"
+   },
+   {
+    "no": 22,
+    "name": "Kamaldeen Sulemana"
+   },
+   {
+    "no": 8,
+    "name": "Kwasi Sibo"
+   },
+   {
+    "no": 15,
+    "name": "Elisha Owusu"
+   },
+   {
+    "no": 11,
+    "name": "Antoine Semenyo"
+   },
+   {
+    "no": 9,
+    "name": "Jordan Ayew"
+   },
+   {
+    "no": 3,
+    "name": "Caleb Yirenkyi"
+   },
+   {
+    "no": 7,
+    "name": "Issahaku Fatawu"
+   },
+   {
+    "no": 24,
+    "name": "Ernest Nuamah"
+   },
+   {
+    "no": 21,
+    "name": "Kojo Peprah Oppong"
+   },
+   {
+    "no": 10,
+    "name": "Brandon Thomas-Asante"
+   },
+   {
+    "no": 19,
+    "name": "Iñaki Williams"
+   },
+   {
+    "no": 25,
+    "name": "Prince Kwabena Adu"
+   },
+   {
+    "no": 12,
+    "name": "Joseph Anang"
+   },
+   {
+    "no": 17,
+    "name": "Baba Rahman"
+   },
+   {
+    "no": 20,
+    "name": "Augustine Boakye"
+   },
+   {
+    "no": 13,
+    "name": "Christopher Bonsu Baah"
+   },
+   {
+    "no": 6,
+    "name": "Abdul Mumin"
+   },
+   {
+    "no": 18,
+    "name": "Jerome Opoku"
+   },
+   {
+    "no": 2,
+    "name": "Alidu Seidu"
+   },
+   {
+    "no": 1,
+    "name": "Lawrence Ati-Zigi"
+   }
+  ]
+ },
+ "missing": [],
+ "events": [
+  {
+   "min": 31,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Petar Sucic"
+  },
+  {
+   "min": 68,
+   "side": "home",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Ivan Perisic"
+  },
+  {
+   "min": 73,
+   "side": "away",
+   "type": "进球",
+   "sub": null,
+   "player": "Derrick Luckassen"
+  },
+  {
+   "min": 83,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Nikola Vlašić"
+  },
+  {
+   "min": 90,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Kojo Peprah Oppong"
+  }
+ ],
+ "injuries": [],
+ "suspensions": [],
+ "ratings": {},
+ "quotes": [],
+ "narrative": "",
+ "prediction_note": "",
+ "_note": "macheta/Sofascore 权威硬数据；injuries/suspensions/ratings/quotes/narrative/prediction_note 待 agent WebSearch 补。"
+}

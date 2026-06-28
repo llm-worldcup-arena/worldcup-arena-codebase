@@ -1,0 +1,16 @@
+{
+ "team": "BIH",
+ "source": "sports.yahoo.com",
+ "url": "https://sports.yahoo.com/articles/why-edin-dzeko-isnt-playing-180249840.html",
+ "title": "World Cup 2026: Lionel Messi will start on bench vs. Jordan, Argentina coach confirms",
+ "news_date": "2026-06-28",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-28",
+ "fetched": "2026-06-28_1223",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "World Cup 2026: Lionel Messi will start on bench vs. Jordan, Argentina coach confirms\nLionel Messi will begin Argentina's World Cup 2026 group stage match against Jordan on the bench, head coach Lionel Scaloni confirmed to reporters on Friday.\nMessi, 39, has scored all five of Argentina's goals in the 2026 World Cup. With his two versus Austria, he became the World Cup's all-time leading goal scorer with 18. He's the current favorite to win the Golden Boot, though France's Kylian Mbappé and Ousmane Dembélé are close behind.\nAdvertisement\nArgentina has already won Group J with a 3-0 victory over Algeria and 2-0 win versus Austria. That gives La Albiceleste an opportunity to rest some of their players and rotate in others who have not yet played. Messi is not dealing with an injury, Scaloni clarified.\nMeanwhile, Jordan has lost both of its group stage games — 3-1 to Austria and 2-1 to Algeria — and is already eliminated from the tournament.\n\"So Leo is going to start on the bench, and it's not, and I'm not trying to skirt the question,\" Scaloni responded to 91-year-old reporter Enrique Macaya Márquez, covering his 18th World Cup.\nAdvertisement\n\"You should know, because I'm answering it because you deserve a sincere answer,\" Scaloni added. \"Now, as for the formation, I won't tell you any more on that, and Leo will come in a little bit later. The whole lineup, I've got this confirmed, but we'll announce that tomorrow.\"\nMessi is expected to play during the second half.\nThe eight-time Ballon d'Or winner came into the World Cup with \"muscle fatigue\" in his left hamstring, sustained in Inter Miami's MLS match on May 24. If Messi didn't play against Jordan, he'd go 11 days without taking the field with Argentina's match in the Round of 32 scheduled for July 3 against Cape Verde\nAmong the players who could be in the lineup instead of Messi are Nico Paz, 21, and Giovani Lo Celso, 30, neither of whom has played many minutes in Argentina's first two games.\nAdvertisement\nLeft-back Nicolás Tagliafico said Argentina is determined to finish group play undefeated.\n\"We cannot let our guard down, we cannot relax, even though we have qualified already,\" he said, via The Athletic.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

@@ -1,0 +1,24 @@
+{
+ "source": "reuters.com",
+ "url": "https://www.reuters.com/sports/soccer/egypt-iran-face-crunch-world-cup-game-shadow-geopolitics-2026-06-24/",
+ "title": "Egypt, Iran face crunch World Cup game in shadow of geopolitics | Reuters",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-26",
+  "home": "EGY",
+  "away": "IRN",
+  "home_en": "Egypt",
+  "away_en": "Iran",
+  "home_zh": "埃及",
+  "away_zh": "伊朗",
+  "comp": "小组赛·G组",
+  "match_id": "M63",
+  "slug": "2026-06-26_EGY_vs_IRN"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Egypt, Iran face crunch World Cup game in shadow of geopolitics\nVerification Required\nThe visual verification might not be accessible to you. We recommend you to use the audio verification instead. Important: after clicking play, you will hear 6 digits. Please wait until the audio finishes before typing or interacting with the page.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

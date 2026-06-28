@@ -1,0 +1,40 @@
+{
+ "match": {
+  "slug": "2026-06-27_COL_vs_POR",
+  "date": "2026-06-27",
+  "home": "COL",
+  "away": "POR",
+  "round": "group",
+  "group": "K"
+ },
+ "kickoff": {
+  "美东": "2026-06-27T19:30:00-04:00",
+  "北京": "06-28 07:30"
+ },
+ "venue": {
+  "name": "Hard Rock Stadium",
+  "city": "Miami Gardens, Florida",
+  "altitude_m": 3,
+  "roof": "open",
+  "surface": "grass"
+ },
+ "weather": {
+  "开球时段": {
+   "温度C": 30.5,
+   "体感C": 34.8,
+   "降水概率%": 4,
+   "降水mm": 0.0,
+   "风速kmh": 11.4,
+   "湿度%": 68,
+   "天况": "雷雨"
+  },
+  "source": "open-meteo(免费预报API)",
+  "fetched": "2026-06-27_1312",
+  "_note": "临近开球建议 --refresh 刷新"
+ },
+ "referee": {
+  "name": null,
+  "_note": "待 WebSearch FIFA指派公告"
+ },
+ "_note": "环境=比赛+时间+地点 确定;天气为开球时段;顶棚 retractable/fixed-canopy 时天气影响有限。"
+}

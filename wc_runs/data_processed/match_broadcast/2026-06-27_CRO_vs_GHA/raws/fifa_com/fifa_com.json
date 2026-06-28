@@ -1,0 +1,24 @@
+{
+ "source": "fifa.com",
+ "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/croatia-ghana-match-report-highlights",
+ "title": "Croatia 2-1 Ghana | Match report and highlights",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-27",
+  "home": "CRO",
+  "away": "GHA",
+  "home_en": "Croatia",
+  "away_en": "Ghana",
+  "home_zh": "克罗地亚",
+  "away_zh": "加纳",
+  "comp": "小组赛·L组",
+  "match_id": "M68",
+  "slug": "2026-06-27_CRO_vs_GHA"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Zlatko Dalic's side finish runners-up in Group L and will play the second-placed team from Group K.\nCroatia 2-1 GhanaCroatia 2-1 Ghana\nCroatia goals: Sucic (31), Vlasic (83) Ghana goal: Luckassen (73)\nPetar Sucic and Nikola Vlasic were the goalscoring heroes as Croatia beat Ghana to leapfrog the already-qualified Black Stars into second spot in Group L.\nZlatko Dalic’s side could have qualified as one of the best third-placed teams by playing out a draw, but signalled their desire for a win from the first whistle.\nThe warning signs were there for Carlos Queiroz’s side as early as the 17th minute, when Vlasic found space 20 yards from goal and clipped the outside of the post with a powerful right-foot shot.\nIt was certainly no more than Croatia deserved when they took the head just after the half-hour, with Sucic crashing a stunning 30-yard drive through a couple of attempted blocks and just inside the left-hand post.\nGhana were offering little at the other end at this stage, with Antoine Semenyo – who fired narrowly wide as half-time approached – their only real source of attacking menace.\nThe Black Stars improved significantly in the second half, however, and their pressure was rewarded 17 minutes from time when Derrick Luckassen snuck in at a free-kick to side-foot home the equaliser.\nBut having profited from poor marking at one end, Ghana paid for it at the other ten minutes later when Vlasic stole in unmarked at a Luka Modric corner to head home the winner off the inside of the left-hand post.\nKey statKey stat\nSucic, at 22 years and 245 days, became the second-youngest player to score for Croatia at the FIFA World Cup, after Josko Gvardiol (20 years, 328 days against Morocco in 2022).\nWhat they said...What they said...\n\"There's a degree of disappointment in camp. We knew that there was the opportunity to win the group. That was our intention, our ambition, and there was the possibility. So, of course, it was disappointing. We haven't done that, but we have to take the positive and we're into the next round. We want to go as far as we can in the tournament.\" Brandon Thomas-Asante, Ghana forward\nMichelob Ultra Superior Player of the MatchMichelob Ultra Superior Player of the Match\nPetar Sucic (Croatia)",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

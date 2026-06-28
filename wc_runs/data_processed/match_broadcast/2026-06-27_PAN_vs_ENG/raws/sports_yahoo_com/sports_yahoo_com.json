@@ -1,0 +1,24 @@
+{
+ "source": "sports.yahoo.com",
+ "url": "https://sports.yahoo.com/soccer/fifa-world-cup/england-panama-13587243/",
+ "title": "Panama 0 - 2 England: Final score, results, recap, box score, stats - Yahoo Sports",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-27",
+  "home": "PAN",
+  "away": "ENG",
+  "home_en": "Panama",
+  "away_en": "England",
+  "home_zh": "巴拿马",
+  "away_zh": "英格兰",
+  "comp": "小组赛·L组",
+  "match_id": "M67",
+  "slug": "2026-06-27_PAN_vs_ENG"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Panama 0 - 2 England: Final score, results, recap, box score, stats\nSubstitution - In\n19 - Alberto Quintero\nSubstitution - Out\n14 - Carlos Harvey\nSubstitution - In\n15 - Eric Davis\nSubstitution - Out\n26 - Jorge Gutierrez\nSubstitution - In\n19 - Ollie Watkins\nSubstitution - Out\n9 - Harry Kane\nSubstitution - In\n14 - Jordan Henderson\nSubstitution - Out\n8 - Elliot Anderson\nYellow Card\n16 - Andres Andrade\nSubstitution - In\n24 - Azarias Londono\nSubstitution - Out\n7 - Jose Luis Rodriguez\nSubstitution - In\n10 - Ismael Diaz\nSubstitution - Out\n11 - Edgar Yoel Barcenas\nSubstitution - In\n21 - Eberechi Eze\nSubstitution - Out\n10 - Jude Bellingham\nGoal\n9 - Harry Kane\nAssist\n10 - Jude Bellingham\nSubstitution - In\n25 - Djed Spence\nSubstitution - Out\n26 - Jarell Quansah\nSubstitution - In\n20 - Noni Madueke\nSubstitution - Out\n7 - Bukayo Saka\nGoal\n10 - Jude Bellingham\nAssist\n7 - Bukayo Saka\nYellow Card\n26 - Jarell Quansah\nYellow Card\n17 - Jose Fajardo\nSubstitution - In\n17 - Jose Fajardo\nSubstitution - Out\n9 - Tomás Rodríguez",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

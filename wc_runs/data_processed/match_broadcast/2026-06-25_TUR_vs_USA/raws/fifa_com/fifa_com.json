@@ -1,0 +1,24 @@
+{
+ "source": "fifa.com",
+ "url": "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021459",
+ "title": "Türkiye v USA 3-2 | Result, Stats & Highlights | First Stage | FIFA World Cup 2026™ | FIFA",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-25",
+  "home": "TUR",
+  "away": "USA",
+  "home_en": "Türkiye",
+  "away_en": "United States",
+  "home_zh": "土耳其",
+  "away_zh": "美国",
+  "comp": "小组赛·D组",
+  "match_id": "M59",
+  "slug": "2026-06-25_TUR_vs_USA"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Türkiye v USA 3-2 | Result, Stats & Highlights | First Stage | FIFA World Cup 2026™\nSkip to main content\n|\nEnglish\nFrançais\nDeutsch\nEspañol\nPortuguês\nItaliano\nIndonesia\n한국어\n日本語\nالعربية\n|\nGroup D • Match 59\n22 : 00 • 25 Jun 2026\n3 - 2\nFull Time\n3 - 2\n25 Jun 2026\nKaan Ayhan\n90'+8'\nBaris Alper YILMAZ\n31'\nArda GULER\n10'\nSebastian BERHALTER\n49'\nAuston TRUSTY\n3'\nFIFA World Cup 2026™\nLos Angeles ●Los Angeles Stadium\nWhere to watch\nHIGHLIGHTS",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

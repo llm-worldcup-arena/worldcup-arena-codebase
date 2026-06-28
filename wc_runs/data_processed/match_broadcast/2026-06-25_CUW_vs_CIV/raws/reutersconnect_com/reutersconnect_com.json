@@ -1,0 +1,24 @@
+{
+ "source": "reutersconnect.com",
+ "url": "https://www.reutersconnect.com/item/curacao-v-ivory-coast-fifa-world-cup-2026-group-e/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwNDRQVlJJ",
+ "title": "Licensable picture: Curacao v Ivory Coast - FIFA World Cup 2026 - Group E | Reuters Connect",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-25",
+  "home": "CUW",
+  "away": "CIV",
+  "home_en": "Curaçao",
+  "away_en": "Ivory Coast",
+  "home_zh": "库拉索",
+  "away_zh": "科特迪瓦",
+  "comp": "小组赛·E组",
+  "match_id": "M55",
+  "slug": "2026-06-25_CUW_vs_CIV"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Licensable picture: Curacao v Ivory Coast - FIFA World Cup 2026 - Group E\nThis asset – including all text, audio and imagery – is provided by Anadolu Agency. Reuters Connect has not verified or endorsed the material, which is being made available to professional media customers to facilitate the free flow of global news and information.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

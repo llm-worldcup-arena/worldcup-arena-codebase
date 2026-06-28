@@ -1,0 +1,16 @@
+{
+ "team": "EGY",
+ "source": "finance.sina.com.cn",
+ "url": "https://finance.sina.com.cn/stock/usstock/summary/2026-06-27/doc-inievrew7233745.shtml",
+ "title": "埃及球员穆罕默德·萨拉赫因左膝伤势退出世界杯赛事",
+ "news_date": "2026-06-27",
+ "published": "2026-06-27T15:46:10+08:00",
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-28",
+ "fetched": "2026-06-28_1223",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "埃及队球员穆罕默德·萨拉赫在对阵伊朗的世界杯比赛中因左膝伤病离场，目前正接受球队医疗组评估，返回酒店后还将接受进一步检查。\n\n埃及队主帅霍萨姆·哈桑表示对现有阵容充满信心，球队目标是在扩军后的世界杯赛事中首次闯入淘汰赛阶段。\n\n本届赛事萨拉赫已送出两次助攻，此前在埃及击败新西兰的队史世界杯首胜中，他打入个人第68粒国家队进球。\n\n声明：市场有风险，投资需谨慎。本文由AI大模型基于公开信息生成，不代表新浪财经观点。文中所有信息、数据及图表仅供参考，不构成任何形式的投资建议或决策依据，相关信息以实际公告为准。如有疑问，请联系：biz@staff.sina.com.cn。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

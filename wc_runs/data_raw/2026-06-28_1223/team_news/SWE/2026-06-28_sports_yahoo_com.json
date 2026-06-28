@@ -1,0 +1,16 @@
+{
+ "team": "SWE",
+ "source": "sports.yahoo.com",
+ "url": "https://sports.yahoo.com/articles/juventus-defender-holm-forced-withdraw-134000914.html",
+ "title": "World Cup 2026: Erling Haaland was an unused sub during a much-changed Norway's 4-1 loss to France",
+ "news_date": "2026-06-28",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-28",
+ "fetched": "2026-06-28_1223",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "World Cup 2026: Erling Haaland was an unused sub during a much-changed Norway's 4-1 loss to France\nJuventus defender Holm forced to withdraw from Sweden 2026 World Cup squad\nJuventus defender Emil Holm will be forced to watch the 2026 World Cup from home, as an injury has forced him to withdraw from the Sweden national team squad ahead of the tournament in North America.\nHolm misses 2026 World Cup through injury and returns to Juventus\nHolm, who joined Juventus on loan with an option to buy from Bologna in January, was initially selected in Graham Potter’s 26-man squad, but has since withdrawn with a muscular injury, which will keep him sidelined for several weeks.\nAdvertisement\nSweden have confirmed that Herman Johansson has been called into the squad to replace Holm, and that Sebastian Nanasi has been promoted to the standby list for the 2026 World Cup.\nEmil Holm poses alongside Marco Ottolini (left) and Damien Comolli (right).\n“Juventus defender Emil Holm has suffered a muscle injury that is expected to keep him out of opportunities to play for several weeks,” the Swedish FA confirmed in a statement.\n“Given the assessment, Emil Holm will leave the World Cup squad for continued rehabilitation and thus miss this summer’s championship.”\nHolm had started the season at Bologna and moved to Juventus on loan in January with an option to buy at the end of the season.\nAdvertisement\nIt is not yet clear whether the Bianconeri are ready to activate that option for €15m plus a further €3m in add-ons.\nBetween the two clubs, Holm made 27 appearances this season in all competition, contributing one goal and five assists.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

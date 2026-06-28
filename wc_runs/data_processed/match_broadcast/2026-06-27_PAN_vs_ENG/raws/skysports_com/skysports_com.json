@@ -1,0 +1,24 @@
+{
+ "source": "skysports.com",
+ "url": "https://www.skysports.com/football/news/12016/13558439/panama-0-2-england-thomas-tuchel-vows-the-bigger-the-game-the-bigger-england-will-be-in-world-cup-knockouts",
+ "title": "Panama 0-2 England: Thomas Tuchel vows 'the bigger the game, the bigger England will be' in World Cup knockouts",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-27",
+  "home": "PAN",
+  "away": "ENG",
+  "home_en": "Panama",
+  "away_en": "England",
+  "home_zh": "巴拿马",
+  "away_zh": "英格兰",
+  "comp": "小组赛·L组",
+  "match_id": "M67",
+  "slug": "2026-06-27_PAN_vs_ENG"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Thomas Tuchel has vowed that \"the bigger the game, the bigger England will be\" after a laboured 2-0 victory over Panama sent them into knockout stages of the World Cup as Group L winners. Having gone from the thrill-a-minute victory against Croatia to a dour draw with Ghana, Tuchel's team overcame a sluggish start to win Saturday's match at MetLife Stadium. England were already guaranteed of a place in the knockout phase following Friday's fixtures and wrapped up top spot in their group to set up a last-32 tie against a third-placed side on Wednesday. Democratic Republic of Congo will be the opponents in Atlanta. Panama 0-2 England - Match report England player ratings   Bigger tests are to follow and vast improvements are required if they are to return to MetLife Stadium for the final on July 19. Tuchel said: \"It's an aggressive approach that we take. You have to defend your one-on-ones. But the tournament starts again now in knockouts. Now we collect our strength and energy. We build our team spirit and belief. We will step up, the bigger the games get the bigger we'll be. \"We did what was needed. It was a tough match. It was difficult to score. We were the only team to score twice against them. We were aggressive and careful with the counter-attacks - we deserved to win but it was a hard piece of work.\" Nev: England far from perfect | Keane: Tuchel doesn't know best XI Gary Neville thinks England must improve as they move into the World Cup 2026 knockout stages. Speaking to ITV , he said: \"Tuchel said, 'we will step up, the bigger the games'. They're going to have to. He won't be walking off that pitch and thinking everything is perfect right now. \"They've got to get together in the next four days, get Declan Rice back in the team, get the back four more solid.\" Tuchel made five changes for the game with Panama, switching both his wingers to hand Marcus Rashford and Bukayo Saka their first starts of the World Cup while Nico O'Reilly, Morgan Rogers and Jarell Quansah also played. \"I still don't think Tuchel has a clue what his best XI is,\" said Roy Keane. \"He's done a lot of chopping and changing. That's not good. \"It wasn't pretty, far from it. England's top players eventually turned up in the second half in Bellingham and Kane. They're huge players for them, that's what you want in these tight games.\" Panama registered 13 shots on England's goal as a lack of killer instinct in the final third held them back from truly wobbling England. They had the ball in the net, too, in injury-time through José Fajardo but his strike was ruled out by VAR for offside. Speaking to the BBC , Micah Richards said: \"Panama did have chances and that is something to keep an eye on. They conceded against Croatia, Ghana also had chances. Before you know it the opponent has space, and against better teams you will get punished. \"They don't get tight enough and before you know it a simple give and go and you're in. If this is Mbappe, Yamal or Vinicius, that could potentially go in.\"",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

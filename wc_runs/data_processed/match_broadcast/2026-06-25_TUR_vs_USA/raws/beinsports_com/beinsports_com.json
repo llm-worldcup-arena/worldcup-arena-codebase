@@ -1,0 +1,24 @@
+{
+ "source": "beinsports.com",
+ "url": "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/-video-all-goals-from-turkey-vs-united-states-in-the-fifa-world-cup-2026-2026-06-26-_video_all_goals_from_turkey_vs_united_states_in_aee3f78",
+ "title": "Turkey bows out of FIFA World Cup 2026 with last-gasp win over United States in Los Angeles",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-25",
+  "home": "TUR",
+  "away": "USA",
+  "home_en": "Türkiye",
+  "away_en": "United States",
+  "home_zh": "土耳其",
+  "away_zh": "美国",
+  "comp": "小组赛·D组",
+  "match_id": "M59",
+  "slug": "2026-06-25_TUR_vs_USA"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Kaan Ayhan , the German-born defender, delivered a 98th-minute winner to seal a dramatic 3-2 victory for Turkey over the United States in their final FIFA World Cup 2026 Group D match in Los Angeles.\n\nThe Galatasaray defender had only entered the match 10 minutes earlier, but capitalized on defensive chaos in the final seconds to complete a memorable comeback for a Turkish side that finally rediscovered its attacking identity too late in the tournament.\n\nThe United States, already assured of top spot in the group, rotated several players ahead of the Round of 32. Even so, they started strongly and twice looked in control of the match.\n\nSebastian Berhalter played a key role in the USMNT’s attacking output, providing an assist early on and scoring in the opening minutes of the second half, but his efforts were not enough to contain a brilliant performance from Arda Güler , who dictated much of Turkey’s attacking play.\n\nThe match exploded into life early. Just three minutes in, the United States struck first from a corner routine, with Auston Trusty finishing powerfully after Berhalter’s delivery caused problems in the Turkish box.\n\nTurkey responded quickly. In the 10th minute, a flowing move involving Arda Güler , Oguz Aydin , and Barış Yılmaz ended with Güler himself finishing past Matt Turner to level the score.\n\nMomentum then shifted decisively. Güler, increasingly influential, linked up with Kenan Yıldız before Orkun Kökçü completed the turnaround in the 31st minute, sending Turkey into halftime with a 2-1 lead.\n\nThe second half began with renewed pressure from the United States, and Berhalter once again punished hesitation in the Turkish back line in the 49th minute to make it 2-2.\n\nBoth teams pushed for a winner, with Christian Pulisic introduced by Mauricio Pochettino to add creativity in the closing stages. His presence briefly lifted the hosts, but it was Turkey who had the final say.\n\nIn the 98th minute, chaos in the American defense allowed Ayhan to pounce and finish clinically, sealing a stunning victory for Vincenzo Montella’s side.\n\nDespite the result, the United States still finishes the group stage as leaders of Group D, while Turkey exits the tournament with a memorable—and emotional—final statement performance that showcased flashes of its true potential.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

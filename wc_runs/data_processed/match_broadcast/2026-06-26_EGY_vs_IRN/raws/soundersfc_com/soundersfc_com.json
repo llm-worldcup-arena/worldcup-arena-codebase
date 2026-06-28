@@ -1,0 +1,24 @@
+{
+ "source": "soundersfc.com",
+ "url": "https://www.soundersfc.com/news/egyvira-101-preview-all-you-need-to-know-when-egypt-faces-ir-iran-in-fifa-world-cup-2026tm-in-seattle",
+ "title": "EGYvIRA 101 Preview: All you need to know when Egypt faces IR Iran in FIFA World Cup 2026™ in Seattle | Seattle Sounders",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-26",
+  "home": "EGY",
+  "away": "IRN",
+  "home_en": "Egypt",
+  "away_en": "Iran",
+  "home_zh": "埃及",
+  "away_zh": "伊朗",
+  "comp": "小组赛·G组",
+  "match_id": "M63",
+  "slug": "2026-06-26_EGY_vs_IRN"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "The FIFA World Cup is finally here. Seattle will host four group stage matches, including the United States Men’s National Team, as well as a Round of 32 match and a Round of 16 match.\n\nFans hoping to attend FIFA World Cup 2026 matches in Seattle can secure a tickets through our World Cup Bundle , go directly through FIFA for matches taking place at Seattle Stadium, or purchase all-inclusive hospitality packages HERE .\n\nHere is everything you need to know about Egypt vs. IR Iran in Group G on June 26.\n\nWHEN AND WHERE : Kickoff is at 8 p.m. PT at Seattle Stadium.\n\nWHERE TO WATCH : The match will air on FOX and can be streamed on FOX One .\n\nAs the world discovers Seattle's soccer passion, there's never been a better time to experience it for yourself. Sign up to receive two free tickets and see why Sounders FC is at the heart of one of North America's great soccer cities.\n\nAfter the World Cup, keep the soccer celebration going with Sounders FC vs. Portland Timbers on June 16. Tickets start at just $20.26, making the biggest match of the year one of the easiest ways to experience Seattle soccer live.\n\nFeel the pull of the Sound and step into something bigger. 2026 will continue to put Seattle soccer on the world stage, so there's no better time to join the Rave Green and grow with the Sounders legacy. Secure your seat alongside the best fans in MLS. Season Memberships are on sale now.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

@@ -1,0 +1,16 @@
+{
+ "team": "SWE",
+ "source": "harveycadillac.com",
+ "url": "https://www.harveycadillac.com/searchused.aspx",
+ "title": "Cadillac Pre-Owned vehicles | Cadillac dealer in Grand Rapids MI | Harvey Cadillac",
+ "news_date": "2026-06-26",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-26",
+ "fetched": "2026-06-26_1615",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Cadillac Pre-Owned vehicles | Cadillac dealer in Grand Rapids MI\nCertified Pre-Owned (13)\nCarfax 1 Owner (53)\n2026 (5)\n2025 (16)\n2024 (13)\n2023 (17)\n2022 (7)\n2021 (3)\n2020 (3)\n2019 (2)\n2018 (4)\n2017 (3)\n2015 (1)\n2014 (1)\n2010 (1)\n2002 (1)\nAudi\n(1)\nBMW\n(5)\nBuick\n(1)\nCadillac\n(24)\nChevrolet\n(1)\nGMC\n(3)\nJaguar\n(1)\nJeep\n(4)\nKia\n(1)\nLand Rover\n(2)\nLexus\n(17)\nLincoln\n(8)\nMercedes-Benz\n(4)\nToyota\n(4)\nVolvo\n(1)\nAudi\nBMW\nBuick\nCadillac\nChevrolet\nGMC\nJaguar\nJeep\nKia\nLand Rover\nLexus\nLincoln\nMercedes-Benz\nToyota\nVolvo\n—\n10000\n141000\n—\n0\n189000\nBeige\n(1)\nBlack\n(30)\nBlue\n(4)\nGray\n(8)\nRed\n(10)\nSilver\n(5)\nWhite\n(19)\nBlack\n(40)\nBlue\n(2)\nBrown\n(3)\nGray\n(5)\nOther\n(20)\nTan\n(6)\nWhite\n(1)\n—\n10\n120\n—\n10\n110\nElectric (2)\nElectric Fuel System (5)\nGasoline (46)\nGasoline Fuel (20)\nHybrid (4)\nConvertible\n(2)\nCoupe\n(2)\nSedan\n(6)\nSUV\n(65)\nTruck - Crew Cab\n(2)\nIn Stock (77)\nThis content has been blocked pending your consent.\nThis content has been blocked pending your consent.\nThis content has been blocked pending your consent.\nThis content has been blocked pending your consent.\nThis content has been blocked pending your consent.\nThis content has been blocked pending your consent.\nThis content has been blocked pending your consent.\nThis content has been blocked pending your consent.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

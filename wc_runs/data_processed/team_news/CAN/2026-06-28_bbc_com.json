@@ -1,0 +1,16 @@
+{
+ "team": "CAN",
+ "source": "bbc.com",
+ "url": "https://www.bbc.com/sport/football/articles/c4g4j119xdqo",
+ "title": "World Cup 2026: Alphonso Davies in Canada squad despite recent injuries",
+ "news_date": "2026-06-28",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-28",
+ "fetched": "2026-06-28_1223",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "Head coach Jesse Marsch has included Bayern Munich defender Alphonso Davies in what he described the best 26-man squad \"ever assembled\" by co-hosts Canada for this summer's World Cup.\n\nDavies, 25, was deemed sufficiently fit for inclusion despite recovering from a hamstring injury, while Juventus forward Jonathan David also makes the cut.\n\nPorto midfielder Stephen Eustaquio, Villarreal's Tajon Buchanan and Tani Oluwaseyi, and Southampton forward Cyle Larin are all included.\n\n\"We have really our best group of 26 players that this country has ever assembled at any one time,\" said Marsch.\n\n\"Are all of them right now at full 100%? No, but they're close,\" he added, signalling frustration at the repeated questions from media about players' injuries.\n\nDavies faces a race against time to be fit for Canada's opening game against Bosnia and Herzegovina on 12 June after being injured in Bayern Munich's Champions League semi-final defeat by Paris St-Germain.\n\nThat followed a series of muscle injuries after his return from an eight-month absence with an anterior cruciate ligament (ACL) tear suffered in March 2025.\n\n\"We've had a pretty good idea of who our core group is for a while. The real X factor in all these decisions was to determine which players are going to be healthy, and who could we project to be really close to 100% and in the best form of their life,\" added Marsch.\n\n\"Luckily, we are on track with a lot of guys. Will everyone be 100% for the Bosnia match? No, that won't be the case. But we will have a really strong core that will be ready for that match, and we believe we can get stronger as the tournament goes on.\"\n\nAs one of three co-hosts, Canada, who are yet to win a World Cup game, will play all three group games on home soil.\n\nGames against Qatar and Switzerland in Vancouver follow their World Cup opener in Toronto.\n\nThe expanded 48-team competition in Canada, the US and Mexico runs from 11 June to 19 July.\n\nGoalkeepers: Dayne St Clair (Inter Miami), Maxime Crepeau (Orlando City), Owen Goodman (Crystal Palace).\n\nDefenders: Alistair Johnston (Celtic), Derek Cornelius (Marseille), Richie Laryea (Toronto), Niko Sigur (Hajduk Split), Joel Waterman (Chicago Fire), Luc de Fougerolles (Fulham), Moise Bombito (Nice), Alphonso Davies (Bayern Munich), Alfie Jones (Middlesbrough).\n\nMidfielders: Stephen Eustaquio (Porto), Ismael Kone (Sassuolo), Tajon Buchanan (Villarreal), Mathieu Choiniere (Los Angeles FC), Ali Ahmed (Norwich City), Nathan Saliba (Anderlecht), Liam Millar (Hull City), Marcelo Flores (Tigres UANL), Jacob Shaffelburg (Toronto), Jonathan Osorio (Toronto).\n\nForwards: Jonathan David (Juventus), Cyle Larin (Southampton), Tani Oluwaseyi (Villarreal), Promise David (Union SG).",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

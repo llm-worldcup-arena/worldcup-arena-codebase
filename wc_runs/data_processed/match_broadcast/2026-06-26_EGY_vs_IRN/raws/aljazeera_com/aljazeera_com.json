@@ -1,0 +1,24 @@
+{
+ "source": "aljazeera.com",
+ "url": "https://www.aljazeera.com/sports/2026/6/26/egypt-vs-iran-world-cup-2026-prediction-kickoff-schedule-teams",
+ "title": "Salah, Egypt out to make history in geopolitically charged clash with Iran",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-26",
+  "home": "EGY",
+  "away": "IRN",
+  "home_en": "Egypt",
+  "away_en": "Iran",
+  "home_zh": "埃及",
+  "away_zh": "伊朗",
+  "comp": "小组赛·G组",
+  "match_id": "M63",
+  "slug": "2026-06-26_EGY_vs_IRN"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Mohamed Salah’s Egypt and Mehdi Taremi’s Iran are both in the hunt for the FIFA World Cup knockouts in Group G.\n\nThe 2026 World Cup will have 13 different kickoff times. You can use the Al Jazeera Sport widget to find out exactly when your team is playing in your local time.\n\nWho : Egypt vs Iran\nWhat : FIFA World Cup 2026 Group G match\nWhere : Seattle Stadium , Seattle\nWhen : Friday, 8pm local time (03:00 GMT on Saturday)\nHow to follow : We’ll have all the build-up on",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

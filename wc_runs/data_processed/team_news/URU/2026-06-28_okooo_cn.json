@@ -1,0 +1,16 @@
+{
+ "team": "URU",
+ "source": "okooo.cn",
+ "url": "https://www.okooo.cn/news/6a3842e03cc529133ec91608/",
+ "title": "乌拉圭vs佛得角伤停：三大主力缺阵影响几何？_澳客",
+ "news_date": "2026-06-28",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-28",
+ "fetched": "2026-06-28_1223",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "2026-06-22 06:00:00，世界杯H组第2轮，乌拉圭和佛得角在展开对决。\n\n乌拉圭后防线两名主力希门尼斯和阿劳霍因伤缺阵，这对球队的防守稳定性造成较大影响；中场核心德阿拉斯凯塔的缺席则削弱了乌拉圭的进攻组织能力。整体来看，乌拉圭攻防两端均受到明显削弱。\n\nCopyright © 2002-2026 澳客网 All rights reserved.\n京ICP备2023027454号-2 增值电信业务经营许可证：京B2-20240263 京公网安备11010802026576号",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

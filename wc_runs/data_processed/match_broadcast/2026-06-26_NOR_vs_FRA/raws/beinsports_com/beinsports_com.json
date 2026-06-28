@@ -1,0 +1,24 @@
+{
+ "source": "beinsports.com",
+ "url": "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/mauricio-pochettino-poised-to-remain-as-u-s-head-coach-through-the-2030-world-cup-2026-06-26",
+ "title": "Mauricio Pochettino poised to remain as U.S. head coach through the 2030 World Cup",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-26",
+  "home": "NOR",
+  "away": "FRA",
+  "home_en": "Norway",
+  "away_en": "France",
+  "home_zh": "挪威",
+  "away_zh": "法国",
+  "comp": "小组赛·I组",
+  "match_id": "M61",
+  "slug": "2026-06-26_NOR_vs_FRA"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "The United States men's national team's strong showing at the 2026 FIFA World Cup , despite its defeat to Turkey, has not only boosted expectations among its fans but also accelerated the U.S. Soccer Federation's plans to maintain continuity under Mauricio Pochettino .\n\nThe Argentine manager has already received a contract extension offer that would keep him in charge through 2030 , although a final decision will be made after the tournament concludes.\n\nAccording to The Athletic , the U.S. Soccer Federation presented Pochettino with an offer before the World Cup to extend his stay for a second World Cup cycle.\n\nThe 54-year-old took over in September 2024 , and his current contract is set to expire at the end of the ongoing FIFA World Cup .\n\nThe report adds that both parties agreed to postpone any decision until after the tournament, allowing time to fully assess the team's performance.\n\nThe federation's confidence in the project is also reflected financially. Pochettino reportedly earns a base salary of around $4 million per year , with performance bonuses that could raise his annual compensation to between $5 million and $6 million , making him one of the highest-paid national team coaches in the world .\n\nThe long-term outlook is appealing for both sides. Over the next four years, the United States will host the 2028 Los Angeles Olympic Games , is expected to stage the 2028 Copa América , and will also unveil a new $250 million National Training Center in Atlanta.\n\nPochettino, who has recently been linked with AC Milan , said he remains open to staying in the role but emphasized that his sole focus is on the World Cup.\n\nFor U.S. Soccer, keeping the former Chelsea , Tottenham Hotspur , and Paris Saint-Germain manager would represent a major step toward solidifying a long-term sporting project.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

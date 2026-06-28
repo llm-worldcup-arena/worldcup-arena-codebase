@@ -1,0 +1,16 @@
+{
+ "team": "UZB",
+ "source": "sports.yahoo.com",
+ "url": "https://sports.yahoo.com/soccer/teams/uzbekistan/injuries/",
+ "title": "Uzbekistan Injuries - Yahoo Sports",
+ "news_date": "2026-06-28",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-28",
+ "fetched": "2026-06-28_1223",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Jaron 'Boots' Ennis pummels, stops Xander Zayas to capture unified titles\nReporter apologizes for joke about not knowing where Bosnia and Herzegovina is\nCanelo Alvarez's return fight delayed until October\nWWE Night of Champions: Sami Zayn shockingly wins WWE title\nHarry Kane becomes England's all-time leading World Cup goal scorer",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

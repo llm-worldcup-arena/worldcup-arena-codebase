@@ -1,0 +1,24 @@
+{
+ "source": "espn.in",
+ "url": "https://www.espn.in/football/report/_/gameId/760485",
+ "title": "Panama 0-2 England (28 Jun, 2026) Game Analysis - ESPN (IN)",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-27",
+  "home": "PAN",
+  "away": "ENG",
+  "home_en": "Panama",
+  "away_en": "England",
+  "home_zh": "巴拿马",
+  "away_zh": "英格兰",
+  "comp": "小组赛·L组",
+  "match_id": "M67",
+  "slug": "2026-06-27_PAN_vs_ENG"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Jude Bellingham and Harry Kane scored early in the second half, lifting England over Panama 2-0 Saturday and into what appears to be a more favorable bracket for the knockout phase of the World Cup.\nOn a rainy afternoon before a vocal pro-England crowd that made MetLife Stadium seem like Wembley, Panama held the European power scoreless through a first half when neither team mounted threats and Kane had 10 touches, the fewest of any player.\nBellingham put the Three Lions ahead in the 62nd minute from Bukayo Saka's corner kick. Held in bear hug by Jorge Gutiérrez at the top of the 6-yard box, Bellingham stuck out his left leg and stabbed the ball past goalkeeper Orlando Mosquera for his third World Cup goal, his second this year.\nFive minutes later, Bellingham crossed from the left flank and Kane outjumped Andrés Andrade to head the ball in for his 82nd international goal. Kane became England's record World Cup scorer with his 11th goal, one more than Gary Lineker.\nWearing red jerseys in a tournament for the first time since beating Sweden in a 2018 World Cup quarterfinal, England finished the group with two wins and a draw for seven points. The English play their round of 32 match Wednesday in Atlanta, likely against Senegal or Congo DR. The team that advances faces Mexico or Ecuador in Mexico City.\nJude Bellingham scored and registered an assist as England confirmed their passage to the knockouts as group winners.\nPhoto by ANGELA WEISS / AFP via Getty Images\nIf the Three Lions had dropped to second, they probably would have faced Colombia or Portugal, with the winner meeting Spain, Austria or Algeria.\nPanama went 0-3 for the second time and joined Iraq, Haiti, El Salvador, Canada and Mexico -- all but one from the CONCACAF region -- as teams that lost their first six World Cup matches. José Fajardo put the ball in the net for the Los Canaleros in second-half stoppage time, but was called for offside.\nSupporters filled the field walls with Cross of St. George flags displaying club names that included Tottenham, Watford and Wolves plus some less-celebrated ones such as Crawley Town, Bristol Rovers and Faversham Town.\nEngland, which won its only World Cup at home in 1966, reached the knockout rounds for the seventh time in eight World Cups.\nJarell Quansah, usually a central defender, replaced right back Reece James, sidelined by a hamstring injury. Nico O'Reilly took over from Djed Spence at left back. Coach Thomas Tuchel replaced three midfielder, using Bukayo Saka, Morgan Rogers and Marcus Rashford instead of Declan Rice, Noni Madueke and Anthony Gordon.\nEngland goalkeeper Jordan Pickford played his 15th World Cup match, second among English players to Peter Shilton's 17.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

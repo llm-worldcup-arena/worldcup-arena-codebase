@@ -1,0 +1,24 @@
+{
+ "source": "sbs.com.au",
+ "url": "https://www.sbs.com.au/language/chinese/zh-hans/podcast-episode/world-cup-updates-daily-spain-rebounds-as-cabo-verde-makes-world-cup-history/bhojx9i80",
+ "title": "【世界杯快讯】西班牙四球大胜登顶小组榜首 佛得角创历史逼平乌拉圭",
+ "published": null,
+ "tier": "3",
+ "lang": "zh",
+ "match": {
+  "date": "2026-06-26",
+  "home": "URU",
+  "away": "ESP",
+  "home_en": "Uruguay",
+  "away_en": "Spain",
+  "home_zh": "乌拉圭",
+  "away_zh": "西班牙",
+  "comp": "小组赛·H组",
+  "match_id": "M66",
+  "slug": "2026-06-26_URU_vs_ESP"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "MIAMI, FL - 21.06.2026: URUGUAY VS. CAPE VERDE - Kevin Pina celebrates a goal during the match between Uruguay and Cape Verde, valid for the group stage of the 2026 FIFA World Cup, held at Hard Rock Stadium, in Miami Gardens, Florida, United States, this Sunday (21) Source: SIPA USA / Danilo Fernandes/Fotoarena/Sipa USA/AAP Image\n\n在亚特兰大举行的H组比赛中，西班牙队以4比0大胜沙特阿拉伯队，强势升至小组第一。\n\n本场比赛中，新星拉明·亚马尔（Lamine Yamal）攻入一球，米克尔·奥亚萨瓦尔（Mikel Oyarzabal）梅开二度，帮助球队取得胜利。\n\n与此同时，佛得角队制造了本届赛事的一大冷门。这支非洲岛国球队以2比2逼平两届世界杯冠军乌拉圭队。\n\n凯文·皮纳（Kevin Pina）攻入佛得角队史上首个世界杯进球，埃利奥·瓦雷拉（Hélio Varela）则打进扳平比分的一球。\n\n赛前被看好的比利时队至今仍未在本届世界杯中取得运动战进球，他们目前唯一的进球来自首场比赛对手的乌龙球。\n\n另一场比赛中，新西兰队一度看到了赢得队史首场世界杯胜利的希望，上半场结束时他们以1比0领先埃及队。\n\n澳大利亚男足“袋鼠军团”正在备战与巴拉圭队的一场生死战，这场比赛将决定他们能否晋级淘汰赛阶段。\n\n在此前0比2不敌美国队后，澳大利亚队希望及时反弹。助理教练迈尔·耶迪纳克（Mile Jedinak）表示，球队预计将面对来自南美的强硬挑战。\n\n“大家都知道，面对南美球队时，他们总会展现出强烈的斗志，会为每一次机会拼尽全力。我们预计这场比赛也不会例外。与此同时，我们对自己也有同样的要求。关键在于如何坚持自己的比赛风格，同时应对对手带来的挑战。”\n\n澳大利亚队将于6月26日星期五迎战巴拉圭队，比赛将于澳大利亚东部标准时间上午11点在SBS电视台直播。\n\n请锁定SBS On Demand，免费观看2026年世界杯全部104场比赛直播，并随时观看完整回放、赛事精华和精彩集锦。\n\n欢迎下载应用程序SBS Audio，订阅Mandarin。您也可以通过YouTube、Apple Podcasts、Spotify等平台随时收听SBS普通话播客，在 YouTube , X , Instagram ， 微博 和微信平台关注SBS中文，了解更多澳洲新闻。",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

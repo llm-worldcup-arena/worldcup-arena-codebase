@@ -1,0 +1,24 @@
+{
+ "source": "marca.com",
+ "url": "https://www.marca.com/futbol/mundial/cronica/2026/06/26/paraguay-australia-firman-pacto-santa-clara.html",
+ "title": "Paraguay y Australia firman el",
+ "published": "2026-06-26T04:00:52Z",
+ "tier": "2",
+ "lang": "es",
+ "match": {
+  "date": "2026-06-25",
+  "home": "PAR",
+  "away": "AUS",
+  "home_en": "Paraguay",
+  "away_en": "Australia",
+  "home_zh": "巴拉圭",
+  "away_zh": "澳大利亚",
+  "comp": "小组赛·D组",
+  "match_id": "M60",
+  "slug": "2026-06-25_PAR_vs_AUS"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "No se podía dar por hecho, pero sí que se podía prever en la previa del encuentro. Paraguay y Australia 'pactaron las paces' y firmaron uno de los peores partidos de lo que va de Mundial con un 0-0 ciertamente rácano. Tanto es así que en el añadido de la segunda mitad vimos más ocasiones que en los 90 minutos anteriores. Ambas selecciones certificaron así su pase a la siguiente ronda de esta Copa del Mundo. Comenzó mejor Australia. La incidencia de los dos mediapuntas, Volpato y Metcalfe, hizo estragos en la defensa de los de Alfaro. Irvine, con un disparo algo centrado desde el interior del área, avisó a Gill, que pudo atrapar el balón sin muchos problemas. Minutos después O'Neill volvió a intentarlo con un disparo desde la frontal que acabó marchándose algo desviado. Siguieron dominando los de Popovic ante una pasiva Paraguay, consciente de que el empate les servía para clasificarse a la siguiente ronda. La pausa de hidratación bajó el ritmo de un partido que ya de por sí estaba siendo muy bajo, por lo que en el 'segundo cuarto' de los primeros 45 minutos apenas vimos peligro. Tan solo Bos, en el 35', rompió un tanto la monotonía con un disparo lejano que terminó blocando abajo Gill. Antes de que el encuentro se marchara al descanso, Volpato tuvo la mejor para los socceroos con un tiro al palo largo que desbarató con una buena estirada el guardameta paraguayo. Irvine, que fue el primero en amenazar sobre la portería rival en los primeros minutos, cerró el contador de ocasiones del primer tiempo con un remate de cabeza forzado que acabó marchándose por encima del larguero. Paraguay cambió el chip tras el paso por vestuarios. Alfaro quitó a Maidana y dio entrada a Maurício al descanso. El centrocampista de Palmeiras protagonizó, en apenas cinco minutos sobre el césped, el primer disparo a puerta de la selección sudamericana, el cual acabó en los guantes de Beach. El partido se abrió ligeramente en el segundo tiempo, con alternativas para correr para los dos conjuntos, pero sin llegar a traducirlo en verdadero peligro. Tan solo Maurício en Paraguay y alguna arrancada de Bos, que tuvo las dos últimas para Australia en unos últimos minutos de partido con varias alternativas para ambos conjuntos, parecieron romper el ritmo de un encuentro difícil de seguir por momentos. Sin embargo, nadie fue capaz de mover el marcador antes del pitido final de Turpin. Con el empate, ambas selecciones certificaron el pase a la siguiente ronda del Mundial con cuatro puntos. Australia lo hará como segunda clasificada debido a la diferencia de goles, mientras que los de Alfaro se aseguran un puesto como una de las mejores terceras.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

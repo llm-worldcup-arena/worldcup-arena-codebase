@@ -1,0 +1,24 @@
+{
+ "source": "voz.us",
+ "url": "https://voz.us/en/sports/260626/36887/ecuador-pulls-off-an-upset-against-germany-and-advances-to-the-round-of-16.html",
+ "title": "Ecuador pulls off an upset against Germany and advances to the round of 16",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-25",
+  "home": "ECU",
+  "away": "GER",
+  "home_en": "Ecuador",
+  "away_en": "Germany",
+  "home_zh": "厄瓜多尔",
+  "away_zh": "德国",
+  "comp": "小组赛·E组",
+  "match_id": "M56",
+  "slug": "2026-06-25_ECU_vs_GER"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Ecuador pulls off an upset against Germany and advances to the round of 16\nPublished by\n12h ago\n2 minutes read\nEcuador had its back against the wall. It absolutely had to beat Germany to avoid being eliminated in the group stage. The criticism following the draw against Curaçao and the loss to the Ivory Coast reverberated within the national team coached by Argentine Sebastián Beccacece. However, soccer is no stranger to miracles. Germany took the lead in the second minute, following a clear foul that went unnoticed by both the head referee and VAR. Despite the blow to morale and the injustice, Ecuador didn’t give up. They quickly equalized thanks to an inspired Angulo, and with just over thirteen minutes remaining in a tight, intense, and controversial match, Gonzalo Plata beat the legendary Manuel Neuer, sealing the final score of 2-1 and sending the Tricolor team to the Round of 16 of the 2026 World Cup.\nIt was a cry of relief from the more than 50,000 Ecuadorians who made up the majority of the crowd at MetLife Stadium. On a corner kick to the near post flicked on by Kevin Rodríguez, Plata managed to get his foot on the ball just as Manuel Neuer was about to catch it, and the stadium on the outskirts of New York erupted in jubilation.\nLa Tricolor, spurred on by chants of “¡Sí se puede!” from the stands, held off Germany’s final attacks until U.S. referee Tori Penso blew the final whistle.\nWith that whistle, the Ecuadorians let their emotions run wild after a few pressure-filled days. The players embraced each other in excitement, while the much-criticized Sebastián Beccacece ran and climbed into the stands to celebrate with his family.\nIn the other Group E match, Ivory Coast beat Curaçao 2-0 and qualified in second place, tied on points with Germany, which had already secured first place after defeating the African team in the previous matchday.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

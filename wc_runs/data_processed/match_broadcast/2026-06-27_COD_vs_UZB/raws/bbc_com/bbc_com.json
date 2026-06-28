@@ -1,0 +1,24 @@
+{
+ "source": "bbc.com",
+ "url": "https://www.bbc.com/sport/football/live/c5yzgpr17evt",
+ "title": "Congo DR 3-1 Uzbekistan: Yoane Wissa scores twice to set up DR Congo vs England in last 32 at World Cup",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-27",
+  "home": "COD",
+  "away": "UZB",
+  "home_en": "DR Congo",
+  "away_en": "Uzbekistan",
+  "home_zh": "刚果（金）",
+  "away_zh": "乌兹别克斯坦",
+  "comp": "小组赛·K组",
+  "match_id": "M72",
+  "slug": "2026-06-27_COD_vs_UZB"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "The main thing is to celebrate the performance. Obviously they are playing at home, Miami is north Colombia and you felt that atmosphere coming from the fans. After this group phase where they have got better and better and better, Colombia will go into that game [against Ghana] full of confidence. Colombia can't overcommit and they have to be so disciplined. I think they are well trained to take on Ghana.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

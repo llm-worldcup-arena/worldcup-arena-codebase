@@ -1,0 +1,24 @@
+{
+ "source": "englandfootball.com",
+ "url": "https://www.englandfootball.com/england/mens-senior-team/fixtures-results/2025-26/World-Cup/panama-v-england-fifa-world-cup-saturday-27-june-2026-match-centre",
+ "title": "Match Centre: Panama 0-2 England",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-27",
+  "home": "PAN",
+  "away": "ENG",
+  "home_en": "Panama",
+  "away_en": "England",
+  "home_zh": "巴拿马",
+  "away_zh": "英格兰",
+  "comp": "小组赛·L组",
+  "match_id": "M67",
+  "slug": "2026-06-27_PAN_vs_ENG"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "- Panama and England’s only previous encounter was in the group stage of the 2018 FIFA World Cup – England won 6-1, their largest World Cup victory to date.\n\n- England’s only defeat against a CONCACAF nation at the FIFA World Cup came in 1950 against the USA (0-1). Since then, the Three Lions have three wins and three draws.\n\n- Panama have lost all five of their FIFA World Cup matches. Prior to 2026, only three nations had lost their first six games at the finals: Mexico, El Salvador, and Canada (Haiti and Iraq also lost five from five prior to MD3 in 2026).\n\n- England have only lost their third group game in one of their last 14 FIFA World Cup tournaments (W8 D5), a 0-1 defeat to Belgium in 2018.\n\n- Over the first two matchdays of the FIFA World Cup 2026, no side’s matches saw fewer shots than Panama’s (32, level with Tunisia), with Los Canaleros having 19 shots and facing 13. Prior to 2026, the fewest shots for and against on record (from 1966) by any side in a three-game World Cup group was 44 by Morocco in 2022 (24 for, 20 against).\n\n- Panama have completed 780 passes in their two FIFA World Cup games in 2026, just 25 fewer than they managed in all three games at their previous finals in 2018 (805). They have had more high turnovers (11 to 9) and pressed sequences (24 to 19) in two games in 2026 than in all three in 2018.\n\n- Declan Rice has created ten chances at the FIFA World Cup so far, the most of any player across the first two matchdays. This is only the third instance on record (from 1966) of an England player creating ten plus chances in a single group stage at the finals, with David Beckham responsible for both of the first two (Eleven in 2002, 16 in 2006).\n\n- Against Ghana, Marc Guéhi completed 126 passes, the most by an England player on record at a major tournament (FIFA World Cup since 1966, UEFA EURO since 1980). He also won seven fouls, making him just the second player of any nation to complete 100+ passes and win 7+ fouls on record in a FIFA World Cup game (since 1966), after Spain’s Isco v Russia in 2018 (129 passes completed, 9 fouls won).\n\n- Harry Kane scored a hat-trick in England’s only previous encounter with Panama at the 2018 FIFA World Cup, including two goals from the penalty spot. It was England’s third hat-trick at the tournament, after Geoff Hurst (v West Germany in the 1966 final) and Gary Lineker (v Poland in 1986).\n\nAnother relatively recent World Cup opponent for England, following the first-ever and only meeting with the Central Americans at the 2018 World Cup in Russia.\n\nIt was a memorable day for England too, as Gareth Southgate’s team clocked up a 6-1 victory on that occasion, thanks to a hat-trick from Harry Kane and further goals from John Stones and Jesse Lingard.\n\nFollow England matches live\n\nGet all the latest match updates and match content first on our Live Blog and get exclusive behind-the-scenes content from the England camp on the official England app.\n\nDownload and register for free here.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

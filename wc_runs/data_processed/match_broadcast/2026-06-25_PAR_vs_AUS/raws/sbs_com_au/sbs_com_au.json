@@ -1,0 +1,24 @@
+{
+ "source": "sbs.com.au",
+ "url": "https://www.sbs.com.au/language/chinese/zh-hans/podcast-episode/world-cup-in-full-swing-memorable-moments-and-australia-vs-paraguay-prediction/ydixvjc6f",
+ "title": "【微声音】世界杯难忘瞬间与澳洲VS巴拉圭预测",
+ "published": null,
+ "tier": "3",
+ "lang": "zh",
+ "match": {
+  "date": "2026-06-25",
+  "home": "PAR",
+  "away": "AUS",
+  "home_en": "Paraguay",
+  "away_en": "Australia",
+  "home_zh": "巴拉圭",
+  "away_zh": "澳大利亚",
+  "comp": "小组赛·D组",
+  "match_id": "M60",
+  "slug": "2026-06-25_PAR_vs_AUS"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "VANCOUVER, CANADA - JUNE 13: A young fan supporter of Australia poses for a photo with memorabilia during the FIFA World Cup 2026 group stage match between Australia and Turkey at BC Place Stadium on June 13, 2026 in Vancouver, British Columbia, Canada. Source: SIPA USA / Amy Elle/SPP/Sipa USA/AAP Image\n\n本届世界杯小组赛已经进入尾声，除了比分和排名，还有很多赛场内外那些让人印象深刻的故事——比如，第一次参加世界杯的佛得角队，连续逼平西班牙和乌拉圭两支冠军球队；39岁的梅西以18个世界杯进球独享历史射手王；还有挪威球星哈兰德，代言中国凉茶品牌引发华人球迷热议。\n\n本届世界杯最让您印象深刻的故事是什么？澳大利亚队将迎来小组赛最后一个对手巴拉圭，您觉得这场比赛结果会如何？——《微声音》热线 1300 799 323，短信平台 0448 799 323，听听大家怎么说。\n\n欢迎下载应用程序SBS Audio，订阅Mandarin。您也可以通过YouTube、Apple Podcasts、Spotify等平台随时收听SBS普通话播客，在 YouTube , X , Instagram ， 微博 和微信平台关注SBS中文，了解更多澳洲新闻。",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

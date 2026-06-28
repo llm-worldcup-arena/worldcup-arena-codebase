@@ -1,0 +1,16 @@
+{
+ "team": "ESP",
+ "source": "sportsmole.co.uk",
+ "url": "https://www.sportsmole.co.uk/football/spain/world-cup-2026/team-news/uruguay-vs-spain-injury-suspension-list-predicted-xis_599993.html",
+ "title": "Team News: Uruguay vs. Spain injury, suspension list, predicted XIs - Sports Mole",
+ "news_date": "2026-06-26",
+ "published": "2026-06-26T00:00:00Z",
+ "tier": "2",
+ "lang": "es",
+ "asof": "2026-06-27",
+ "fetched": "2026-06-27_1312",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "Uruguay and Spain will round off their respective 2026 World Cup campaigns with a clash in Group H on Friday.\n\nAs it stands, Spain are top of the section on four points, while Uruguay sit second on two points, and here Sports Mole rounds up the team news for the game.\n\nGet FREE daily news and in-depth previews for games from the biggest leagues and competitions in world football — straight to your inbox.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

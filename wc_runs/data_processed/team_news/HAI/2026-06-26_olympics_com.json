@@ -1,0 +1,16 @@
+{
+ "team": "HAI",
+ "source": "olympics.com",
+ "url": "https://www.olympics.com/en/news/fifa-world-cup-2026-haiti-players-squad-list-key-stats-schedule",
+ "title": "Haiti at FIFA World Cup 2026: All players, full squad list, key stats and schedule",
+ "news_date": "2026-06-26",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-26",
+ "fetched": "2026-06-26_1615",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Haiti at FIFA World Cup 2026: All players, full squad list, key stats and schedule\nQuick facts\nCaptain: Johny Placide\nManager: Sebastien Migne\nWorld Cup appearances (including 2026): 2\nBest World Cup result: Group stage (1974)\nGoalkeepers: Johny Placide (SC Bastia), Alexandre Pierre (FC Sochaux), Josué Duverger (FC Cosmos Koblenz)\nDefenders: Carlens Arcus (Angers SCO), Wilguens Paugain (SV Zulte Waregem), Duke Lacroix (Colorado Springs), Martin Experience (AS Nancy-Lorraine), Jean-Kevin Duverne (KAA Gent), Ricardo Adé (LDU Quito), Hannes Delcroix (FC Lugano), Keeto Thermoncy (BSC Young Boys II)\nMidfielders: Leverton Pierre (FC Vizela), Carl-Fred Sainthe (El Paso Locomotive FC), Jean-Jacques Danley (Philadelphia Union), Jeanricner Bellegarde (Wolverhampton), Pierre Woodenski (Violette AC), Dominique Simon (FC Tatran Prešov)\nForwards: Louicius Deedson (FC Dallas), Ruben Providence (Almere City FC), Josué Casimir (AJ Auxerre), Derrick Etienne (Toronto FC), Wilson Isidor (Sunderland AFC), Duckens Nazon (Esteghlal FC), Frantzdy Pierrot (Çaykur Rizespor), Yassin Fortune (FC Vizela), Lenny Joseph (Ferencváros TC)",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

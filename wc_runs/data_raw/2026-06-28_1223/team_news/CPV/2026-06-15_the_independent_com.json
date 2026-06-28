@@ -1,0 +1,16 @@
+{
+ "team": "CPV",
+ "source": "the-independent.com",
+ "url": "https://www.the-independent.com/sport/football/spain-cape-verde-live-score-result-world-cup-2026-b2995836.html",
+ "title": "Spain v Cape Verde LIVE: Lamine Yamal on bench for World Cup 2026 opener",
+ "news_date": "2026-06-15",
+ "published": "2026-06-15T18:50:14.000Z",
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-28",
+ "fetched": "2026-06-28_1223",
+ "method": "jsonld:articleBody",
+ "status": "ok",
+ "original_text": "The expanded 2026 World Cup sees a record 48 teams compete to lift the biggest prize in football, but while there are plenty of new faces and potential fairytales in North America this summer, one thing remains the same – the usual suspects are favourites once again.\nWhile 2018 winners and 2022 runners-up France will bid to make a third World Cup final in a row this summer, it’s European champions Spain who head into the tournament as favourites, with Luis de la Fuente’s side hoping to build on the success of Germany two years ago.\nLa Roja surprised plenty of fans and pundits in a superb run to the final at Euro 2024, and their World Cup campaign should provide a similarly comfortable route through to the knockout rounds.\nTwo-time winners Uruguay will provide a fairly stern test for Spain early on and will be confident of qualifying in second as they look for another surprise run to the latter stages, while third place is up for grabs – on paper anyway – between 61st ranked Saudi Arabia and 69th ranked Cape Verde, who are one of the feel-good stories of the summer after qualifying for a first World Cup in their history.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

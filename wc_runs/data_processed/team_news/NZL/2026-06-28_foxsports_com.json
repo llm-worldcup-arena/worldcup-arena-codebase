@@ -1,0 +1,16 @@
+{
+ "team": "NZL",
+ "source": "foxsports.com",
+ "url": "https://www.foxsports.com/articles/soccer/injured-matt-garbett-ruled-out-of-new-zealands-world-cup-squad-replaced-by-logan-rogerson",
+ "title": "Injured Matt Garbett ruled out of New Zealand's World Cup squad, replaced by Logan Rogerson | FOX Sports",
+ "news_date": "2026-06-28",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-28",
+ "fetched": "2026-06-28_1223",
+ "method": "jsonld:articleBody",
+ "status": "ok",
+ "original_text": "INGLEWOOD, Calif. (AP) — Midfielder Matt Garbett was ruled out of New Zealand’s squad at the World Cup on Monday, hours before the team's opening 2-2 draw with Iran. New Zealand Football posted a statement on social media saying Garbett injured his hamstring in practice over the weekend. “The whole squad’s thoughts are with Matt at this time and we are gutted he won’t be able to play in the tournament,” New Zealand Football said. The 24-year-old Garbett, who plays for Peterborough in England's third-tier competition, has played 38 games for New Zealand and scored five goals. He played in New Zealand's 1-0 friendly loss to England in Florida earlier this month. Garbett has been replaced in the 26-man squad by Auckland FC forward Logan Rogerson. New Zealand, playing at the World Cup for the first time since 2010, is in Group G with Iran, Egypt and Belgium. ___ AP World Cup: https://apnews.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

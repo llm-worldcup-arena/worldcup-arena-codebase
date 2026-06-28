@@ -1,0 +1,24 @@
+{
+ "source": "aljazeera.com",
+ "url": "https://www.aljazeera.com/sports/2026/6/25/world-cup-2026-uruguay-vs-spain-knockouts-prediction-lineups",
+ "title": "World Cup: Spain aims for top group spot finish against Uruguay in Mexico",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-26",
+  "home": "URU",
+  "away": "ESP",
+  "home_en": "Uruguay",
+  "away_en": "Spain",
+  "home_zh": "乌拉圭",
+  "away_zh": "西班牙",
+  "comp": "小组赛·H组",
+  "match_id": "M66",
+  "slug": "2026-06-26_URU_vs_ESP"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Past winners Uruguay and Spain face off in Guadalajara, battling for top-spot in Group H and a kinder knockout draw.\n\nWho : Spain vs Uruguay\nWhat : FIFA World Cup 2026 Group H match\nWhere : Guadalajara Stadium, Mexico\nWhen : Friday, 6pm local time (00:00 GMT)\nHow to follow : We’ll have all the buildup on",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

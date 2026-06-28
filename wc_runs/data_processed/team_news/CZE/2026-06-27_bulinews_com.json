@@ -1,0 +1,16 @@
+{
+ "team": "CZE",
+ "source": "bulinews.com",
+ "url": "https://bulinews.com/world-cup-hoffenheim-trio-start-for-czechia-against-hosts-mexico",
+ "title": "Confirmed World Cup Lineups: Mexico vs. Czech Republic",
+ "news_date": "2026-06-27",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-27",
+ "fetched": "2026-06-27_1312",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Confirmed World Cup Lineups: Mexico vs. Czech Republic\nWorld: World Cup\nEstadio Azteca\nWed 21:00June 24, 2026 at 21:00\nFT\n0 - 3\n(0 - 0)\nCzech Republic\nMexico\n⚽ M. Chávez García (55), ⚽ J. Quiñones (61), ⚽ Á. Fidalgo Fernández (90)\n@eskeFussballWed 19:43June 24, 2026 at 19:43\nWorld Cup: Hoffenheim trio start for Czechia against co-hosts Mexico\nCzechia eye to join co-hosts Mexico in the Round of 32 at the World Cup.\nLars Baron/Getty Images\nMexico host Czechia in their last group match, having already secured their place in the Round of 32 as Group A winners. Czechia took the lead against South Korea and South Africa, but they have only taken a single point so far in the competition.\nHoffenheim trio – Robin Hranáč, Vladimír Coufal, and Adam Hložek – are in Czechia’s starting lineup once again, while Patrik Schick is relegated to the substitute bench after going scoreless in the first two games.\n17-year-old Mexican midfielder Gilberto Mora starts for the first time in the World Cup, while 40-year-old iconic goalkeeper Guillermo Ochoa remains on the bench as he hopes to feature in his fourth tournament.\nMéxico XI: Rangel; Sánchez, Reyes, Montes, Chávez; Mora, Romo, Álvarez ©; Alvarado, Martínez, Quiñones\nCzechia XI: Kovář; Hranáč, Holeš, Krejčí ©; Doudera, Červ, Sadilek, Coufal; Višinský, Šulc; Hložek",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

@@ -1,0 +1,24 @@
+{
+ "source": "espn.com",
+ "url": "https://www.espn.com/soccer/report/_/gameId/760469",
+ "title": "Paraguay 0-0 Australia (Jun 25, 2026) Game Analysis - ESPN",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-25",
+  "home": "PAR",
+  "away": "AUS",
+  "home_en": "Paraguay",
+  "away_en": "Australia",
+  "home_zh": "巴拉圭",
+  "away_zh": "澳大利亚",
+  "comp": "小组赛·D组",
+  "match_id": "M60",
+  "slug": "2026-06-25_PAR_vs_AUS"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Australia and Paraguay played to a 0-0 draw Thursday night in a result that clinched a spot in the knockout round of the World Cup for the Socceroos and will likely be enough for the Paraguayans to advance.\nThe expanded tournament to 48 teams that provides a spot in the knockout round for eight of the 12 third-place teams in the group stage led to the cautious approach for both teams in their final Group D match after they each entered with three points thanks to wins over Türkiye.\n- Pulisic subs on as Türkiye beats U.S. on last kick\n- How can teams qualify for knockout rounds?\n- FIFA World Cup match schedule\nThe winner of this game was assured second place behind the United States in the group with Australia also clinching that spot with a draw thanks to a better goal differential than Paraguay. But the draw that gave Paraguay four points in the group also was likely to be enough barring a string of bad results in the final two days of group play.\n\"We tried to win the game,\" Australia coach Tony Popovic said. \"In the end, a draw was enough for both nations. Congratulations to Paraguay as well. ... I'm sure as we are feeling euphoria and joy as a nation, I'm sure Paraguay is as well.\"\nThis marks the third time that Australia have advanced to the knockout round after losing in the round of 16 in 2006 and 2022. The Socceroos will play in the round of 32 on July 3 in Arlington, Texas, against the second-place finisher from Group G that will be determined Friday night.\nParaguay's Julio Enciso and Australia's Alessandro Circati battle for the ball during the side's goalless draw.\nStu Forster/Getty Images\n\"We really did work hard for this moment and I think we should enjoy it,\" midfielder Ajdin Hrustic said.\nParaguay must wait to learn their fate, but are in good position to advance to the knockout round for the fifth time.\n\"Now we have to wait,\" coach Gustavo Alfaro said. \"I am optimistic that we will be able to move on to the next phase.\"\nThe Socceroos had the best chances in the first half, but Paraguay goalkeeper Orlando Gill stopped an early attempt from Jackson Irvine and then made another save in stoppage time against Cristian Volpato.\nThe cautious play continued in the second half when Paraguay did have more possession than in the opening 45 minutes but neither team came close to scoring. Jordan Bos had the best chance for Australia in the 90th minute, but his shot went wide from the right side of the box.\nPatrick Beach then made a save for Australia on a low shot by Maurício that lacked power in stoppage time.\n\"You can have opinions on how the game was played or what we both thought we needed,\" Popovic said. \"We at no stage felt we were playing for a draw. I felt we controlled the game quite well, were in control and had the better opportunities. We just gave one away at the end from the edge of the box, which was a heart in the mouth moment unfortunately for us.\"\nPopovic made six changes to his lineup for the game, including giving 18-year-old Lucas Herrington his first World Cup appearance. Herrington, who plays for the Colorado Rapids in MLS, became the youngest Aussie to appear in a World Cup game.\nParaguay midfielder Diego Gómez got his second yellow card of group play and will miss the round of 32 if the team advances.\n\"We wanted a positive result, but it couldn't be done,\" Gómez said. \"There is a lot to work on, [lots] to get done, lots of things to improve on.\"",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

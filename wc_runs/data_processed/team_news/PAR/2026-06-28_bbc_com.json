@@ -1,0 +1,16 @@
+{
+ "team": "PAR",
+ "source": "bbc.com",
+ "url": "https://www.bbc.com/sport/football/articles/cq812vlx992o",
+ "title": "World Cup 2026: Paraguay attacker Julio Enciso injured in warm-up friendly",
+ "news_date": "2026-06-28",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-28",
+ "fetched": "2026-06-28_1223",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "Paraguay forward Julio Enciso's World Cup is in doubt after he was injured during a 4-0 friendly win over Nicaragua.\n\nThe 22-year-old former Brighton player was in tears as he was taken off the pitch on a stretcher in the 25th minute of the South American side's final warm-up game.\n\nParaguay's World Cup campaign begins on Saturday when they face hosts the USA in Los Angeles.\n\nManager Gustavo Alfaro wants Enciso to have the chance to play in Paraguay's first World Cup finals since 2010.\n\n\"Hopefully it's nothing serious and just the result of an impact, and that we can keep him and get him back to full fitness,\" Alfaro said.\n\n\"He suffered a double injury: first to his side and then to his lower back, which affected his quadriceps.\n\nEnciso has been a regular starter throughout Paraguay's qualification campaign, scoring three goals and assisting two.\n\nHe contributed 12 goals during his first season at Strasbourg after joining the club from Brighton in September.\n\nMeanwhile, Argentina defender Leonardo Balerdi will definitely miss the tournament after suffering a calf injury in training.\n\nThe defending champions have yet to call up a replacement.\n\nLionel Scaloni's side face Algeria in their World Cup opener in Kansas City on 17 June.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

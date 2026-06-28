@@ -1,0 +1,24 @@
+{
+ "source": "fifa.com",
+ "url": "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021508",
+ "title": "Panama v England 0-2 | Result, Stats & Highlights | First Stage | FIFA World Cup 2026™ | FIFA",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-27",
+  "home": "PAN",
+  "away": "ENG",
+  "home_en": "Panama",
+  "away_en": "England",
+  "home_zh": "巴拿马",
+  "away_zh": "英格兰",
+  "comp": "小组赛·L组",
+  "match_id": "M67",
+  "slug": "2026-06-27_PAN_vs_ENG"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Panama v England 0-2 | Result, Stats & Highlights | First Stage | FIFA World Cup 2026™\nFIFA Official Stats\nAttacking\nPossession\n33%\n57%\n11% in contest\nGoal\nTotal\n0\n2\nConceded\n2\n0\nInside the Penalty Area\n0\n2\nOutside the Penalty Area\n0\n0\nAssists\n0\n2\nAttempts at Goal\nTotal\n13\n17\nOn Target\n2\n6\nOff Target\n8\n9\nInside the Penalty Area\n8\n12\nOutside the Penalty Area\n5\n5\nFinal Third Entries\nLeft Channel\n10\n20\nLeft Inside Channel\n3\n10\nCentral Channel\n3\n7\nRight Inside Channel\n4\n6\nRight Channel\n13\n27\nOffers to Receive\nTotal\n191\n481\nIn Behind\n69\n140\nIn Between\n77\n131\nIn Front\n45\n210\nReceptions Between Midfield and Defensive Lines\n70\n126\nReceptions Behind the Defensive Line\n6\n27\nLine Breaks\nAttempted Line Breaks\n171\n198\nCompleted Line Breaks\n93\n150\nAttempted Defensive Line Breaks\n19\n39\nCompleted Defensive Line Breaks\n5\n30\nDiscipline\nYellow Cards\n2\n1\nRed Cards\n0\n0\nFouls Against\n16\n13\nOffsides\n4\n4\nDistribution\nPasses\n306\n562\nPasses Completed\n231\n500\nCrosses\n10\n29\nCrosses Completed\n3\n5\nSwitches of Play Completed\n3\n6\nSet Plays\nCorners\n3\n7\nFree Kicks\n17\n20\nPenalties Scored\n0\n0\nDefending\nOwn Goals\n0\n0\nForced Turnovers\n55\n44\nPressing Applied\n283\n228",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

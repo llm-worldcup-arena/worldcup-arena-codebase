@@ -1,0 +1,24 @@
+{
+ "source": "espn.com",
+ "url": "https://www.espn.com/soccer/report/_/gameId/760480",
+ "title": "Croatia 2-1 Ghana (Jun 27, 2026) Game Analysis - ESPN",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-27",
+  "home": "CRO",
+  "away": "GHA",
+  "home_en": "Croatia",
+  "away_en": "Ghana",
+  "home_zh": "克罗地亚",
+  "away_zh": "加纳",
+  "comp": "小组赛·L组",
+  "match_id": "M68",
+  "slug": "2026-06-27_CRO_vs_GHA"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Croatia earned a spot in the World Cup knockout stage, getting goals from Nikola Vlasic and Luka Sucic to beat Ghana 2-1 on Saturday.\nGhana had already secured advancement from the group stage for the first time since 2010.\nVlašić headed home Luka Modric's corner in the 83rd minute to score the winner and put Croatia back in contention after it finished third in 2022. The win means Croatia finished second behind England in Group L, with Ghana third.\nSučić scored in the 31st minute for Croatia on an absolute rocket from outside the box for his second career international goal.\nDerrick Luckassen scored the equalizer that -- after a brief review -- sent thousands of fans wearing yellow into a frenzy. Luckassen, brother of the Netherlands' Brian Brobbey, found the bottom right corner in the 73rd minute to make it 1-1 and the first of the five group stage games in Philadelphia where both teams scored.\nNikola Vlasic celebrates scoring Croatia's winner against Ghana.\nEzra Shaw - FIFA/FIFA via Getty Images\nGhana goalie Benjamin Asare briefly kept it a tie game on a diving stop off the top of his hand that sent the ball over the net but failed only a minute later to stop Vlašić.\nVlasic wagged his tongue and ran toward his teammates with outstretched arms in celebration.\nSucic helped Croatia take a 1-0 lead into halftime in a game where a couple of near misses prevented it from building a more comfortable lead. Nikola Vlasic bonked one of the posts earlier in the half, and Modric's cross on a free kick into the box was headed over the bar by Marin Pongracic.\nGhana seemed poised to tie the game late in the half when Antoine Semenyo beat his man and fired a shot that slid across the Kentucky bluegrass and went just wide of the left post.\nSemenyo was one of the few prominent attackers in this tournament to go without a goal in the first three games. He finished third in the Premier League with 17 goals last season and was one of Manchester City's best players after it bought him from Bournemouth, yet couldn't connect in the World up against Panama, England and even Croatia's backline.\nLionel Messi, Kylian Mbappé and Erling Haaland have dazzled in the World Cup where every game has seemed like a showcase for the tournament's top stars.\nThe good news for Semenyo is, there's at least one more shot for him to bust through for Ghana.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

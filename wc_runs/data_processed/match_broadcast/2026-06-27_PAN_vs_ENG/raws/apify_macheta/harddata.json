@@ -1,0 +1,353 @@
+{
+ "match_id": 4627933,
+ "date": "2026-06-27",
+ "comp": "小组赛·L组",
+ "ha_home": "中",
+ "home": "Panama",
+ "away": "England",
+ "score": "0-2",
+ "venue": "MetLife Stadium (New Jersey)",
+ "attendance": 80663,
+ "goals": [
+  {
+   "min": 62,
+   "side": "away",
+   "player": "Jude Bellingham",
+   "sub": null
+  },
+  {
+   "min": 67,
+   "side": "away",
+   "player": "Harry Kane",
+   "sub": null
+  }
+ ],
+ "cards": [
+  {
+   "min": 53,
+   "side": "home",
+   "player": "Jose Fajardo",
+   "type": "黄牌"
+  },
+  {
+   "min": 60,
+   "side": "away",
+   "player": "Jarell Quansah",
+   "type": "黄牌"
+  },
+  {
+   "min": 84,
+   "side": "home",
+   "player": "Andres Andrade",
+   "type": "黄牌"
+  }
+ ],
+ "stats": {
+  "射门": [
+   "13",
+   "17"
+  ],
+  "射正": [
+   "2",
+   "6"
+  ],
+  "禁区内射门": [
+   "8",
+   "8"
+  ],
+  "扑救": [
+   "3",
+   "3"
+  ],
+  "角球": [
+   "3",
+   "7"
+  ],
+  "越位": [
+   "4",
+   "4"
+  ],
+  "控球%": [
+   "33%",
+   "67%"
+  ],
+  "传中": [
+   "60",
+   "114"
+  ],
+  "传球": [
+   "202",
+   "490"
+  ],
+  "xG预期进球": [
+   "0.42",
+   "2.07"
+  ],
+  "xGOT/大机会": [
+   "0.21",
+   "2.01"
+  ]
+ },
+ "lineups": {
+  "home": [
+   {
+    "no": 22,
+    "name": "Orlando Mosquera"
+   },
+   {
+    "no": 16,
+    "name": "Andres Andrade"
+   },
+   {
+    "no": 3,
+    "name": "Jose Cordoba"
+   },
+   {
+    "no": 4,
+    "name": "Fidel Escobar"
+   },
+   {
+    "no": 26,
+    "name": "Jorge Gutierrez"
+   },
+   {
+    "no": 23,
+    "name": "Amir Murillo"
+   },
+   {
+    "no": 7,
+    "name": "Jose Luis Rodriguez"
+   },
+   {
+    "no": 11,
+    "name": "Yoel Barcenas"
+   },
+   {
+    "no": 14,
+    "name": "Carlos Harvey"
+   },
+   {
+    "no": 6,
+    "name": "Cristian Martinez"
+   },
+   {
+    "no": 9,
+    "name": "Tomas Rodriguez"
+   },
+   {
+    "no": 15,
+    "name": "Eric Davis"
+   },
+   {
+    "no": 10,
+    "name": "Ismael Diaz"
+   },
+   {
+    "no": 17,
+    "name": "Jose Fajardo"
+   },
+   {
+    "no": 24,
+    "name": "Azarias Londono"
+   },
+   {
+    "no": 19,
+    "name": "Alberto Quintero"
+   },
+   {
+    "no": 2,
+    "name": "Cesar Blackman"
+   },
+   {
+    "no": 8,
+    "name": "Adalberto Carrasquilla"
+   },
+   {
+    "no": 5,
+    "name": "Edgardo Farina"
+   },
+   {
+    "no": 20,
+    "name": "Anibal Godoy"
+   },
+   {
+    "no": 1,
+    "name": "Luis Mejia"
+   },
+   {
+    "no": 25,
+    "name": "Roderick Miller"
+   },
+   {
+    "no": 13,
+    "name": "Jiovany Ramos"
+   },
+   {
+    "no": 12,
+    "name": "Cesar Samudio"
+   },
+   {
+    "no": 18,
+    "name": "Cecilio Waterman"
+   },
+   {
+    "no": 21,
+    "name": "Cesar Yanis"
+   }
+  ],
+  "away": [
+   {
+    "no": 1,
+    "name": "Jordan Pickford"
+   },
+   {
+    "no": 3,
+    "name": "Nico O'Reilly"
+   },
+   {
+    "no": 6,
+    "name": "Marc Guéhi"
+   },
+   {
+    "no": 2,
+    "name": "Ezri Konsa"
+   },
+   {
+    "no": 26,
+    "name": "Jarell Quansah"
+   },
+   {
+    "no": 8,
+    "name": "Elliot Anderson"
+   },
+   {
+    "no": 11,
+    "name": "Marcus Rashford"
+   },
+   {
+    "no": 10,
+    "name": "Jude Bellingham"
+   },
+   {
+    "no": 17,
+    "name": "Morgan Rogers"
+   },
+   {
+    "no": 7,
+    "name": "Bukayo Saka"
+   },
+   {
+    "no": 9,
+    "name": "Harry Kane"
+   },
+   {
+    "no": 21,
+    "name": "Eberechi Eze"
+   },
+   {
+    "no": 14,
+    "name": "Jordan Henderson"
+   },
+   {
+    "no": 20,
+    "name": "Noni Madueke"
+   },
+   {
+    "no": 25,
+    "name": "Djed Spence"
+   },
+   {
+    "no": 19,
+    "name": "Ollie Watkins"
+   },
+   {
+    "no": 15,
+    "name": "Dan Burn"
+   },
+   {
+    "no": 12,
+    "name": "Trevoh Chalobah"
+   },
+   {
+    "no": 18,
+    "name": "Anthony Gordon"
+   },
+   {
+    "no": 13,
+    "name": "Dean Henderson"
+   },
+   {
+    "no": 16,
+    "name": "Kobbie Mainoo"
+   },
+   {
+    "no": 4,
+    "name": "Declan Rice"
+   },
+   {
+    "no": 5,
+    "name": "John Stones"
+   },
+   {
+    "no": 22,
+    "name": "Ivan Toney"
+   },
+   {
+    "no": 23,
+    "name": "James Trafford"
+   }
+  ]
+ },
+ "missing": [
+  {
+   "side": "away",
+   "no": 24,
+   "name": "Reece James",
+   "reason": "Hamstring Injury"
+  }
+ ],
+ "events": [
+  {
+   "min": 53,
+   "side": "home",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Jose Fajardo"
+  },
+  {
+   "min": 60,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Jarell Quansah"
+  },
+  {
+   "min": 62,
+   "side": "away",
+   "type": "进球",
+   "sub": null,
+   "player": "Jude Bellingham"
+  },
+  {
+   "min": 67,
+   "side": "away",
+   "type": "进球",
+   "sub": null,
+   "player": "Harry Kane"
+  },
+  {
+   "min": 84,
+   "side": "home",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Andres Andrade"
+  }
+ ],
+ "injuries": [],
+ "suspensions": [],
+ "ratings": {},
+ "quotes": [],
+ "narrative": "",
+ "prediction_note": "",
+ "_note": "macheta/Sofascore 权威硬数据；injuries/suspensions/ratings/quotes/narrative/prediction_note 待 agent WebSearch 补。"
+}
