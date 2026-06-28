@@ -248,7 +248,8 @@ def chat_search(messages, model, temperature=0.3, timeout=300, max_uses=5):
     if m.startswith("claude"):                                       # Anthropic 原生：system 提到顶层参数
         sys_txt = "\n".join(x["content"] for x in messages if x["role"] == "system")
         body = {"model": model, "max_tokens": 32000,                  # thinking 模型禁自定温度 → 不传 temperature
-                "thinking": {"type": "enabled", "budget_tokens": 24000},  # 最高档思考(opus-4-8 需显式开;预算=上限,实际用多少算多少;-thinking后缀版会自动开但仍兼容)
+                "thinking": {"type": "adaptive"},                     # DMX 2026-06 起改用 adaptive + output_config.effort 控制思考强度
+                "output_config": {"effort": "high"},
                 "messages": [x for x in messages if x["role"] != "system"],
                 "tools": [{"type": "web_search_20250305", "name": "web_search", "max_uses": max_uses}]}
         if sys_txt:

@@ -43,7 +43,18 @@ def main():
         slot.setdefault("matches", {}).update(md.get("matches", {}))   # matches 始终累加(新场 merge、旧场留)
 
     sample_matches = list(next(iter(new.values()), {}).get("matches", {}).keys())
-    arc["_固定记录"].append({"批次": a.batch, "模式": "full" if a.full else "daily", "本次场次": sample_matches})
+    rec = {"批次": a.batch, "模式": "full" if a.full else "daily", "本次场次": sample_matches}
+    records, replaced = [], False
+    for old in arc.get("_固定记录", []):
+        if old.get("批次") == a.batch and old.get("模式") == rec["模式"]:
+            if not replaced:
+                records.append(rec)
+                replaced = True
+            continue
+        records.append(old)
+    if not replaced:
+        records.append(rec)
+    arc["_固定记录"] = records
     json.dump(arc, open(PRED, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 
     any_model = next(iter(arc["models"].values()), {})
