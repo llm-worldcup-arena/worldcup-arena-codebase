@@ -16,6 +16,7 @@
 → ready() 崩 → 下半页不渲染。本脚本只换 PRED + 实跑验证 + 回滚,机制上根除。
 """
 import json, re, sys, subprocess, argparse, datetime, os
+from common import _HANDICAP
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))   # 仓库根(可移植)
 # 网页仓库在另一个目录;默认同级 worldcup_2026_web/site,可用环境变量 WC_WEB_DIR 覆盖
@@ -120,6 +121,11 @@ def main():
         revmsg += f" · RESULTS {len(RES)} 场"
     if g:
         revmsg += " · 全局赛果"
+
+    hcp = {f"{home}_vs_{away}": line for (home, away), line in _HANDICAP.items()}
+    hcp_js = re.sub(r"^", "  ", json.dumps(hcp, ensure_ascii=False, indent=2), flags=re.M).lstrip()
+    aj = re.sub(r"var HCP\s*=\s*\{.*?\};", "var HCP = " + hcp_js + ";", aj, count=1, flags=re.S)
+    open(apjs, "w", encoding="utf-8").write(aj)
 
     nm = len(next(iter(arc["models"].values()), {}).get("matches", {}))
     print(f"✅ 上线就绪:worldcup-data.js ← 预测档案(matches {nm} 场/模型){revmsg}")
