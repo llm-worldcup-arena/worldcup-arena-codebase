@@ -294,6 +294,8 @@ _HANDICAP = {
     ("JOR", "ARG"): +2.0,    # 阿根廷(客)让2(SportsGambler 明示 ARG -2;DraftKings ML ARG -525,Kalshi >2.5球42%)
     ("COL", "POR"): +0.5,    # 葡萄牙(客)让0.5(AZCentral/DraftKings ML POR -120 vs COL +320;SportsGambler POR -120 value)
     ("COD", "UZB"): -0.5,    # 刚果金 -0.5(SportsGambler DR Congo -143,约59%胜率;Ladbrokes DR Congo 7/10 vs UZB 3/1)
+    # —— 6/28 32 强 M73 ——
+    ("RSA", "CAN"): +1.0,    # 加拿大(客)让1(加拿大小组赛进攻效率/净胜球明显优于南非;M73 洛杉矶中立场,取客让1评分线)
 }
 
 

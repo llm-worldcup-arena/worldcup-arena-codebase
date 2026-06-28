@@ -88,6 +88,8 @@ def main():
     aj = re.sub(r"RESULTS:\s*\{[^}]*\}", "RESULTS: " + json.dumps(RES, ensure_ascii=False), aj, count=1)
     # 注入全局赛果（results.global + group_winners → arena.js;FIFA码转英文队名）
     teams = {t["team_id"]: t["name_en"] for t in json.load(open(f"{ROOT}/wc_runs/data_reference/teams.json", encoding="utf-8"))}
+    # 前端 WC.T 使用展示键而非部分 FIFA 官方英文全称；这些键必须对齐，否则如 D 组头名 USA 会显示成英文文本。
+    teams.update({"USA": "USA", "CIV": "Côte d'Ivoire", "COD": "DR Congo", "CUW": "Curaçao", "TUR": "Türkiye"})
     en = lambda c: teams.get(c, c)
     g = res.get("global") or {}
     CONF = {"欧洲": "UEFA", "南美": "CONMEBOL", "北美": "CONCACAF", "非洲": "CAF", "亚洲": "AFC", "大洋洲": "OFC"}
