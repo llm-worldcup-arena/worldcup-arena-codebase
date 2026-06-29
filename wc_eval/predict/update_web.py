@@ -4,6 +4,7 @@
   ① 只替换 PRED 对象(括号深度匹配,文件其余一字不动 → 绝不漏 X2/OU/BT 等映射表)
   ② node 运行时验证 ready()(语法过≠跑得起来,崩就【回滚】不写坏文件)
   ③ cache-bust index.html 的 ?v=
+  ④ 前端 UI 契约检查:已结算淘汰赛在竞猜卡列表必须显示比分,未结算仍显示阶段/暂定。
 另:--reveal <日期,如 6.12> 同步把前端 worldcup-arena.js 的 REVEAL_THROUGH 改到该日(解锁当天比赛预测)。
 
 ★ 网页数据 = 预测档案(唯一真源)。逐日只需:archive_pred.py 把新场累加进档案 → 本脚本刷新网页 + 解锁。
@@ -24,6 +25,35 @@ WEB = os.environ.get("WC_WEB_DIR") or os.path.join(os.path.dirname(ROOT), "world
 if not os.path.isdir(WEB):                # 别人 clone 没有相邻网页仓 → 明确报错(而非默默失败),指明用环境变量
     raise SystemExit(f"✗ 找不到网页仓库目录:{WEB}\n  请设环境变量 WC_WEB_DIR=<你的 worldcup 网页仓 site 路径> 后重试。")
 ARC = f"{ROOT}/wc_runs/archive"
+
+
+def verify_web_ui_contracts():
+    """Guard the small but easy-to-regress UI rules that update_web relies on.
+
+    update_web.py injects knockout results into A.RESULTS with key match_id - 1.
+    The match picker must then render settled knockout rows like group rows:
+    score when settled, round badge when only pairing/picks are known, provisional
+    when the bracket slot is not fixed.
+    """
+    ui_path = f"{WEB}/worldcup-ui.js"
+    ui = open(ui_path, encoding="utf-8").read()
+    m = re.search(r"var koRows = koData\(\)\.map\(function \(m, i\) \{(?P<body>.*?)host\.innerHTML", ui, re.S)
+    if not m:
+        sys.exit("✗ 前端 UI 契约检查失败:找不到 renderAmList 的 koRows 区块")
+    body = m.group("body")
+    checks = [
+        ("淘汰赛已结算判断使用 res[match_id-1]",
+         re.search(r"done\s*=\s*!!res\[m\[0\]\s*-\s*1\]", body)),
+        ("已结算淘汰赛列表尾标显示比分",
+         "<span class='dn'>" in body and re.search(r"res\[m\[0\]\s*-\s*1\].*?split\(\"/\"\)\[0\]", body, re.S)),
+        ("未结算但已确定对阵仍显示阶段名",
+         re.search(r"f\s*\?\s*\"<span class='gp'>\"\s*\+\s*koBadge\(m,\s*en\)", body)),
+        ("未确定对阵仍显示暂定",
+         re.search(r"koBadge\(m,\s*en\).*?Prov\.", body, re.S) and "暂定" in body),
+    ]
+    miss = [name for name, ok in checks if not ok]
+    if miss:
+        sys.exit("✗ 前端 UI 契约检查失败:\n  - " + "\n  - ".join(miss))
 
 
 def main():
@@ -126,10 +156,11 @@ def main():
     hcp_js = re.sub(r"^", "  ", json.dumps(hcp, ensure_ascii=False, indent=2), flags=re.M).lstrip()
     aj = re.sub(r"var HCP\s*=\s*\{.*?\};", "var HCP = " + hcp_js + ";", aj, count=1, flags=re.S)
     open(apjs, "w", encoding="utf-8").write(aj)
+    verify_web_ui_contracts()
 
     nm = len(next(iter(arc["models"].values()), {}).get("matches", {}))
     print(f"✅ 上线就绪:worldcup-data.js ← 预测档案(matches {nm} 场/模型){revmsg}")
-    print(f"   只换 PRED · 运行时验证通过 · cache-bust ?v={ver}")
+    print(f"   只换 PRED · 运行时验证通过 · UI契约检查通过 · cache-bust ?v={ver}")
     print(f"   下一步:cd {WEB} && git add -A && git commit && git push")
 
 
