@@ -50,7 +50,15 @@ def verify_web_ui_contracts():
          re.search(r"f\s*\?\s*\"<span class='gp'>\"\s*\+\s*koBadge\(m,\s*en\)", body)),
         ("未确定对阵仍显示暂定",
          re.search(r"koBadge\(m,\s*en\).*?Prov\.", body, re.S) and "暂定" in body),
+        # 淘汰赛展示按【开球时间】排序(2026-06-29 加,防回归):别让"巴西-日本 13:00
+        # 因官方编号 M76 最大而排到当天最后"再现;擂台列表(koRows)同一天按 kickoff 排。
+        ("擂台淘汰赛列表按开球时间排序",
+         re.search(r"\.sort\(.*?tm\(\s*[ab]\.m\[3\]", body, re.S)),
     ]
+    # 今日赛程列表 / 今日竞猜卡 / 赛程页按天 —— 这 3 处淘汰赛渲染也须按开球时间(m[3])排序。
+    n_ko_time_sort = len(re.findall(r"T\(a\[3\]\)\s*-\s*T\(b\[3\]\)", ui))
+    if n_ko_time_sort < 3:
+        checks.append((f"今日/竞猜卡/赛程页淘汰赛按开球时间排序(应≥3处,实测{n_ko_time_sort}处)", False))
     miss = [name for name, ok in checks if not ok]
     if miss:
         sys.exit("✗ 前端 UI 契约检查失败:\n  - " + "\n  - ".join(miss))
