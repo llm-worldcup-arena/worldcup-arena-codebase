@@ -1,0 +1,24 @@
+{
+ "source": "fifa.com",
+ "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/australia-turkiye-highlights-match-report",
+ "title": "Australia 2-0 Türkiye | Match report and highlights",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-13",
+  "home": "AUS",
+  "away": "TUR",
+  "home_en": "Australia",
+  "away_en": "Türkiye",
+  "home_zh": "澳大利亚",
+  "away_zh": "土耳其",
+  "comp": "小组赛·D组",
+  "match_id": "M6",
+  "slug": "2026-06-13_AUS_vs_TUR"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "See how Australia beat Türkiye in Vancouver with two excellent goals and a memorable goalkeeping debut.\nAustralia goals: Irankunda (27), Metcalfe (75)\nNestory Irankunda and Connor Metcalfe scored memorable goals to fire Australia to a sensational 2-0 win over Türkiye in Vancouver.\nThe match also belonged to Patrick Beach, the young goalkeeper handed a shock Socceroos debut who went on to thwart Arda Guler and Co.\nEyebrows had been raised when the 22-year-old was preferred to Mat Ryan but he played a key role in Australia’s opener, saving smartly from Guler before launching a lightning counter-attack.\nWithin seconds, the ball had been switched from one end to the other, and Irankunda tool full advantage, cutting inside brilliantly before rifling home an unstoppable right-foot shot.\nBeach continued to impress, tipping an Abdulkerime Bardakci piledriver on to the post and parrying clear a powerful free-kick from the influential Guler.\nAustralia remained dangerous, though, and secured the points 15 minutes from time when Metcalfe snatched possession in midfield, surged forward and crashed a superb left-foot shot into the bottom corner.\nThe Socceroos now march on to a top-of-the-table showdown with Group D leaders USA in Seattle, while Türkiye face a must-not-lose encounter with Paraguay.\nKey statKey stat\n8 - Beach pulled off no fewer than eight saves to keep Türkiye at bay on an international debut to remember\nSuperior Player of the MatchSuperior Player of the Match\nNestory Irankunda (Australia)\nLoaded: 0%\n0:00\nProgress: 0%\n0:00\nProgress: 0%\n00:00 / 02:00\n/\nDuration Time 2:00\nRemaining Time -2:00\nFIFA Power Rankings explainedFIFA Power Rankings explained\nWhat they said...What they said...\n\"Yeah it [Australia's first goal] was quite special. You see the young boys combining to score a goal, and you can’t underestimate what this will do for their confidence and belief. Emotionally it will take a lot out of the players, this game, so we’ve got to get back and recover well and focus on the US... [I'm] Proud to be here as head coach, to experience this, put a smile on these people’s faces that have travelled so far to support us. And just happy for a wonderful young group of men.\" Tony Popovic, Australia coach\n“We’ve got the win now, we worked extra hard, we fought till the end, and it’s just an exciting moment... It feels amazing. You’ve got to thank the staff, you’ve got to thank the nation. They all have the belief in me to do so well, and I felt like today getting that goal, it was amazing... Timmy Cahill’s my biggest inspiration when it comes to football, him and Lionel Messi. Tim Cahill, Australia’s greatest in my opinion, and I just thought if I scored I’d do the same [celebration] as him, and I got to do it.” Nestory Irankunda, Australia winger and Superior Player of the Match\n\"We created so many chances, but we couldn't score. That's football. They defended very well; it was difficult to get into the box. They did well at scoring on the counter-attack, which is their best weapon. All is not lost; there are still two games to play, and I'm confident. We're disappointed with the result, but there's time to move on. We have to stay positive.\"",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

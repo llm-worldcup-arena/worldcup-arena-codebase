@@ -1,0 +1,24 @@
+{
+ "source": "cp24.com",
+ "url": "https://www.cp24.com/news/sports/2026/06/27/canada-vies-to-make-more-history-in-fifa-world-cup-knockout-match-vs-south-africa/",
+ "title": "Canada vies to make more history in FIFA World Cup knockout match vs. South Africa",
+ "published": "2026-06-27T11:53:23.319Z",
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-28",
+  "home": "RSA",
+  "away": "CAN",
+  "home_en": "South Africa",
+  "away_en": "Canada",
+  "home_zh": "南非",
+  "away_zh": "加拿大",
+  "comp": "r32",
+  "match_id": "M73",
+  "slug": "2026-06-28_RSA_vs_CAN"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Canada will look to keep its historic World Cup run alive Sunday when it takes on South Africa in the round of 32 in Los Angeles.\n\nThe matchup will mark the first time each nation has reached the tournament’s knockout phase.\n\nThe Canadians earned a spot by finishing second in Group B following a 1-1 draw with Bosnia-Herzegovina, a 6-0 thumping of Qatar and a 2-1 loss to Switzerland in round-robin play.\n\nSouth Africa started its tournament with a 2-0 loss to Mexico before improving with a 1-1 draw against Czechia and upsetting South Korea 1-0 to claim the runner-up position in Group A.\n\nBafana came into the tournament sitting 60th in FIFA’s rankings while Les Rouges held the No. 30 spot.\n\nCanada’s head coach Jesse Marsch has said captain Alphonso Davies will make his return from a hamstring injury in Sunday’s game, but also previously said he expected the star left back to play against Switzerland — a statement he later called “a decoy” intended to complicate his opponents’ game plan.\n\nThis report by The Canadian Press was first published June 27, 2026.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

@@ -1,0 +1,24 @@
+{
+ "source": "bbc.co.uk",
+ "url": "https://www.bbc.co.uk/iplayer/episode/m002y381/fifa-world-cup-2026-fifa-world-cup-2026-highlights-argentina-v-algeria-highlights",
+ "title": "FIFA World Cup 2026 - FIFA World Cup 2026 Highlights: Argentina v Algeria Highlights - BBC iPlayer",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-16",
+  "home": "ARG",
+  "away": "ALG",
+  "home_en": "Argentina",
+  "away_en": "Algeria",
+  "home_zh": "阿根廷",
+  "away_zh": "阿尔及利亚",
+  "comp": "小组赛·J组",
+  "match_id": "M19",
+  "slug": "2026-06-16_ARG_vs_ALG"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "FIFA World Cup 2026 - FIFA World Cup 2026 Highlights: Argentina v Algeria Highlights\nSorry, BBC iPlayer isn’t available in your region.\nIt looks like you’re outside of the UK. BBC iPlayer is only available in the UK. If you are using a proxy or VPN, please turn off any of these services and try again.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

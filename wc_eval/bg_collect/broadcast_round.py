@@ -8,7 +8,7 @@
   ③ archive_broadcast_raws 把【新源】增量归档进 data_raw/<ts>/match_broadcast/(版本语义:按采集时分切片)
   ④ wc2026_build.append_block_b 把每队【所有已踢场】的播报嵌进 summary 块B(## 世界杯 2026 · 专项整理)
 开关 config/wc_pipeline.json: auto_run_match_broadcast —— off=只复用已有、不抓不合成;on=为缺的场自动跑。
-做过的场(有 ours/long.md)不 remake;只为缺的场跑(可 --refresh 强制重合成)。
+做过的场(有 ours/long.md)不 remake;但若正文源过少/long 过短/只有硬数据,会自动补源重合成。
 
 跑:python3 broadcast_round.py --snapshot <snap> --ts <ts>
    python3 broadcast_round.py --snapshot <snap> --ts <ts> --only CZE-RSA,SUI-BIH
@@ -22,6 +22,8 @@ RUNS = f"{ROOT}/wc_runs"
 HERE = os.path.dirname(os.path.abspath(__file__))
 MR = f"{ROOT}/wc_eval/match_report"
 MB = f"{RUNS}/data_processed/match_broadcast"
+MIN_TEXT_SOURCES = 3
+MIN_LONG_CHARS = 1600
 sys.path.insert(0, f"{ROOT}/wc_eval")
 sys.path.insert(0, HERE)
 from wc2026_build import append_block_b, mb_done, mb_integration_on, archive_broadcast_raws
@@ -47,7 +49,8 @@ _ES_DOM = (".com.ar", ".com.mx", "marca", "as.com", "ole", "clarin", "lanacion",
 _BAD_URL = re.compile(r"(youtube\.com|/watch|/video|/videos/|liveblog|/live/|live-updates|live-blog|en-vivo|"
                       r"envivo|minuto-a-minuto|how-to-watch|como-ver|wikipedia\.org|reddit\.com|facebook\.com|"
                       r"twitter\.com|x\.com/|instagram|flashscore|livescore|sofascore|/odds|betting|tickets|"
-                      r"\.pdf($|\?)|"
+                      r"\.pdf($|\?)|365scores\.com|threads\.com|iplayer|/highlights/?$|/match/|/fixture/|"
+                      r"luxiang|/luxiang|podcast|"
                       # 中国大陆封禁/敏感媒体(进 summary 当来源会触发 Kimi/GLM 审查)
                       r"epochtimes|theepochtimes|ntdtv|ntd\.com|soundofhope|minghui|secretchina|aboluowang|"
                       r"dajiyuan|bannedbook|dafahao|falun)", re.I)
@@ -180,7 +183,10 @@ def discover_urls(m, exclude_names):
                 continue
             seen.add(dom)
             out.append({"name": name, "source": dom, "url": url, "tier": tier, "lang": lang})
-    return out
+    # Keep the retry budget bounded.  Prefer T1/T2 match-report pages, then a
+    # small number of T3 text articles for language diversity.
+    out.sort(key=lambda x: (int(x.get("tier") or 3), x.get("lang") != "en", x["name"]))
+    return out[:5]
 
 
 def collect_one(m, ts, refresh):
@@ -188,11 +194,13 @@ def collect_one(m, ts, refresh):
     没做过→合成,做过但有新源→--refresh 重合成(新信息判断要不要改 ours),无新源→不动。返回状态串。"""
     bc = m["bc"]; done = mb_done(bc)
     existing = set(os.listdir(f"{bc}/raws")) if os.path.isdir(f"{bc}/raws") else set()
+    q = broadcast_quality(bc)
+    quality_refresh = bool(done and q["needs_refresh"])
     af = f"{RUNS}/data_raw/{ts}/_broadcast_urls/{m['mid']}.json"
     if os.path.exists(af):
         urls = json.load(open(af, encoding="utf-8")); kind = "agent源"          # agent 显式补的源(可选)优先
-    elif done and not refresh:
-        return "复用(已做过)"          # 【增量,2026-06-21 改】做过的场直接复用、不再每轮重搜(太慢);只收没做过的待结算场。要重抓加 --refresh
+    elif done and not refresh and not quality_refresh:
+        return "复用(已做过)"          # 增量:质量达标的已做场直接复用;质量不足的场会自动补源
     else:
         urls = discover_urls(m, existing); kind = "自动发现"
     new_urls = [u for u in urls if u["name"] not in existing]      # 只抓新源(身份键=源名)
@@ -202,18 +210,52 @@ def collect_one(m, ts, refresh):
     if new_urls:
         tmp = f"/tmp/_bcurls_{m['mid']}.json"
         json.dump(new_urls, open(tmp, "w"), ensure_ascii=False)
-        subprocess.call(["python3", "fetch_sources.py", "--match", m["mid"], "--urls", tmp], cwd=MR)
+        subprocess.call(["python3", "fetch_sources.py", "--match", m["mid"], "--urls", tmp, "--no-apify"], cwd=MR)
         after = set(os.listdir(f"{bc}/raws")) if os.path.isdir(f"{bc}/raws") else set()
         fetched = len(after - existing)
-    if not done or fetched or refresh:                            # 没做过 或 有新源 → (重)合成
+    remake = (not done) or bool(fetched) or refresh or (quality_refresh and q["long_len"] < MIN_LONG_CHARS)
+    if remake:                                                     # 没做过/有新源/强制/短 long → (重)合成
         cmd = ["python3", "broadcast_synth.py", "--slug", m["slug"]]
         if done or refresh:
             cmd.append("--refresh")
         subprocess.call(cmd, cwd=HERE)
     _, n = archive_broadcast_raws(ts, bc)
     if done and not fetched:
+        if quality_refresh:
+            return f"⚠质量不足({q['reason']})·重查{kind}无新源" + ("→已重合成" if remake else "")
         return f"复用(重查{kind}无新源)"
-    return f"{kind}:抓{fetched}新源→{'(重)合成' if (not done or fetched) else '不动'}→归档{n}新源" + ("" if mb_done(bc) else " ⚠仍无long.md")
+    q2 = broadcast_quality(bc)
+    return (f"{kind}:抓{fetched}新源→{'(重)合成' if remake else '不动'}→归档{n}新源"
+            f"{' · 质量仍偏低(' + q2['reason'] + ')' if q2['needs_refresh'] else ''}"
+            + ("" if mb_done(bc) else " ⚠仍无long.md"))
+
+
+def broadcast_quality(bc):
+    """Return coarse quality signals for an existing match_broadcast product.
+
+    harddata/macheta is valuable, but it is not a narrative match report. A
+    finished broadcast should have several text article sources and a long.md
+    that is not just the structured data restated.
+    """
+    raws = f"{bc}/raws"
+    srcs = sorted(os.listdir(raws)) if os.path.isdir(raws) else []
+    text_srcs = [s for s in srcs if s != "apify_macheta"]
+    longp = f"{bc}/ours/long.md"
+    long_len = len(open(longp, encoding="utf-8").read()) if os.path.exists(longp) else 0
+    reasons = []
+    if os.path.exists(longp) and len(text_srcs) < MIN_TEXT_SOURCES:
+        reasons.append(f"正文源{text_srcs and len(text_srcs) or 0}<{MIN_TEXT_SOURCES}")
+    if os.path.exists(longp) and long_len < MIN_LONG_CHARS:
+        reasons.append(f"long {long_len}<{MIN_LONG_CHARS}")
+    if os.path.exists(longp) and srcs == ["apify_macheta"]:
+        reasons.append("仅硬数据源")
+    return {
+        "sources": len(srcs),
+        "text_sources": len(text_srcs),
+        "long_len": long_len,
+        "needs_refresh": bool(reasons),
+        "reason": ",".join(reasons) or "ok",
+    }
 
 
 def embed_team(snap, team, team_settled, venues, teams):

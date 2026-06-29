@@ -1,0 +1,24 @@
+{
+ "source": "olympics.com",
+ "url": "https://www.olympics.com/en/news/fifa-world-cup-2026-canada-south-africa-round-32-head-to-head-full-schedule-watch",
+ "title": "FIFA World Cup 2026: How to watch Canada vs South Africa in the round of 32 – head-to-head, full schedule",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-28",
+  "home": "RSA",
+  "away": "CAN",
+  "home_en": "South Africa",
+  "away_en": "Canada",
+  "home_zh": "南非",
+  "away_zh": "加拿大",
+  "comp": "r32",
+  "match_id": "M73",
+  "slug": "2026-06-28_RSA_vs_CAN"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "FIFA World Cup 2026: How to watch Canada vs South Africa in the round of 32 – head-to-head, full schedule\nCanada and South Africa will both play their first-ever FIFA World Cup knockout match in a historic occasion on Sunday (28 June).\nCanada have ticked off a few momentous World Cup achievements as co-hosts, from recording their first World Cup point to their first win, days before qualifying for their round of 32.\nA final Group B matchday loss against Switzerland meant a Canadian home crowd opportunity was missed; their knockout debut will instead be hosted in Los Angeles, California.\nSouth Africa progressed through to their furthest run in the competition when they stunned a favoured Republic of Korea side on Wednesday (24 June).\nAfter failing to qualify for the last three editions and failing to get past the group stages in 1998, 2002, and as host in 2010, Bafana will feature in the elimination rounds for the first time.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

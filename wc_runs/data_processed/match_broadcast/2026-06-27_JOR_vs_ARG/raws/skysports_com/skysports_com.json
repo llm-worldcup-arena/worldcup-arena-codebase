@@ -1,0 +1,24 @@
+{
+ "source": "skysports.com",
+ "url": "https://www.skysports.com/football/news/12098/13556713/world-cup-2026-jordan-1-3-argentina-lionel-messi-breaks-world-cup-record-by-scoring-in-seventh-game-in-a-row",
+ "title": "World Cup 2026: Jordan 1-3 Argentina - Lionel Messi breaks World Cup record by scoring in seventh game in a row",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-27",
+  "home": "JOR",
+  "away": "ARG",
+  "home_en": "Jordan",
+  "away_en": "Argentina",
+  "home_zh": "约旦",
+  "away_zh": "阿根廷",
+  "comp": "小组赛·J组",
+  "match_id": "M70",
+  "slug": "2026-06-27_JOR_vs_ARG"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Lionel Messi came off the bench to become the first man to score in seven World Cup games in a row in Argentina’s 3-1 win over Jordan. Lionel Scaloni made nine changes to the team with the holders already assured of top spot in Group J but it did not stop Argentina taking control in the first half. Giovani Lo Celso curled in a free-kick before Lautaro Martinez converted from the spot. Jordan did have a moment to remember in the second half when substitute Mousa Al-Tamari finished a lovely team goal to pull one back. But Scaloni introduced Messi soon after and the maestro delivered the moment that many supporters were there to see. His low free-kick found the net with the goalkeeper once again wrong-footed. Now 39, Messi has scored six goals at this World Cup, a record 19 in total, and has also done something else no one has done before - scored in seven consecutive World Cup matches. But he and Argentina have much bigger ambitions at this tournament. They will play Cape Verde in the last 32.   The key moments from Dallas... 19: GOAL! Lo Celso curled a free-kick in for the opener 31: GOAL! Martinez scored a penalty after Senesi was fouled 55: GOAL! Al-Tamari came off the bench to pull one goal back 60: SUB! Messi was introduced on the hour to the fans' delight 80: GOAL! Messi got his goal by slamming in a low free-kick Analysis: Another Messi moment Managing minutes is going to be particularly important for Argentina in this trophy defence for a number of reasons. They have one of the older teams at the tournament and are in the half of the draw that makes the route to the final more testing. While, say, Germany have five days between each knockout match on their way to a potential final, Argentina will have only four if they want to go all the way. It means that Scaloni must manage the workload and this game was an opportunity to rest Messi. He kept him back for an hour but the Argentina boss would have been the most unpopular man in Dallas had he denied the crowd a glimpse of the great man. They were rewarded with yet another Messi moment. Scaloni will hope there are more to come. Scaloni: Messi preferred to give team-mates spotlight Argentina manager Lionel Scaloni on Lionel Messi ... \"It's a bit of an awkward situation for me because I don't know what else to say. The only thing I can add is that he could have played 90 minutes today and, without taking anything away from the opposition, he might have added to that legend. \"But he preferred to give his team-mates some playing time and focus on what lies ahead. That speaks volumes about him because he doesn't dwell on those statistics that people talk about so much. \"Yes, he still surprises me, but there are no more words to describe him.\" Jordan boss proud despite exit Jordan manager Jamal Sellami ... \"We are out of the competition while feeling very proud of what we have presented as debutants, trying to learn as many lessons as possible. \"When you face the world champions at this level, small errors will cost a lot. We need to understand the magnitude of all errors, even the small ones. \"But overall this is a great experience for all of us. I'm very proud of my players and what they have presented on the pitch. I'm very happy of the results that we have achieved and I hope that in future, Jordanian football will reach greater heights and it will be present in future World Cup editions.\"",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

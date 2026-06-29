@@ -1,0 +1,24 @@
+{
+ "source": "reuters.com",
+ "url": "https://www.reuters.com/sports/soccer/canada-south-africa-enter-uncharted-territory-first-world-cup-last-32-game-2026-06-26/",
+ "title": "Canada and South Africa enter uncharted territory in first World Cup last-32 game | Reuters",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-28",
+  "home": "RSA",
+  "away": "CAN",
+  "home_en": "South Africa",
+  "away_en": "Canada",
+  "home_zh": "南非",
+  "away_zh": "加拿大",
+  "comp": "r32",
+  "match_id": "M73",
+  "slug": "2026-06-28_RSA_vs_CAN"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Canada and South Africa enter uncharted territory in first World Cup last-32 game\nVerification Required\nThe visual verification might not be accessible to you. We recommend you to use the audio verification instead. Important: after clicking play, you will hear 6 digits. Please wait until the audio finishes before typing or interacting with the page.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

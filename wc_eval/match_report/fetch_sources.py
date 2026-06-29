@@ -243,6 +243,7 @@ def main():
     ap.add_argument("--match", required=True, help="matches.json 的 match_id，如 M1")
     ap.add_argument("--urls", required=True, help="urls.json：[{name,source,url,tier,lang}]")
     ap.add_argument("--min", type=int, default=300, help="正文低于此字数视作被挡/失败，标待 Apify")
+    ap.add_argument("--no-apify", action="store_true", help="只做快速直抓,不启用 Apify 兜底")
     a = ap.parse_args()
     md = resolve_match(a.match)
     entries = json.load(open(a.urls, encoding="utf-8"))
@@ -260,7 +261,7 @@ def main():
             text, title, pub, rawlen = "", None, None, 0
             print(f"  ✗ {name:20s} 直抓异常：{str(ex)[:60]}")
         # ── 直抓被挡（空/反爬/直播垃圾）→ 有 token 则用 website-content-crawler 兜底（渲染 JS、绕反爬）──
-        if (len(text) < a.min or is_junk(text)) and token and e.get("apify", True):
+        if (len(text) < a.min or is_junk(text)) and token and not a.no_apify and e.get("apify", True):
             try:
                 atext, atitle = fetch_apify(e["url"], token)
                 if len(atext) >= a.min and not is_junk(atext):

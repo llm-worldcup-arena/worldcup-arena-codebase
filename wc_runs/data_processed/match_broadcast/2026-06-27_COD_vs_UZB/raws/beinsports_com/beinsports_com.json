@@ -1,0 +1,24 @@
+{
+ "source": "beinsports.com",
+ "url": "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/dr-congo-s-possible-lineup-to-face-uzbekistan-at-the-fifa-world-cup-2026-2026-06-27",
+ "title": "DR Congo's Possible Lineup to Face Uzbekistan at the FIFA World Cup 2026",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-27",
+  "home": "COD",
+  "away": "UZB",
+  "home_en": "DR Congo",
+  "away_en": "Uzbekistan",
+  "home_zh": "刚果（金）",
+  "away_zh": "乌兹别克斯坦",
+  "comp": "小组赛·K组",
+  "match_id": "M72",
+  "slug": "2026-06-27_COD_vs_UZB"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "The DR Congo national team enters its final group-stage match at the 2026 FIFA World Cup knowing that only a victory will keep its hopes of reaching the knockout rounds alive.\n\nSébastien Desabre's side heads into the decisive Group K clash with one point after drawing against Portugal and narrowly losing to Colombia , leaving the African nation still in contention for one of the tournament's best third-place spots.\n\nWhile qualification is no longer entirely in its own hands, DR Congo understands that collecting all three points is the first step toward extending its World Cup journey.\n\nDespite the mixed results, DR Congo has shown encouraging signs against two of the strongest teams in the group.\n\nGoalkeeper Lionel Mpasi-Nzau delivered an outstanding performance against Colombia, making several crucial saves to keep his team in the match, while the defensive unit once again proved capable of frustrating world-class opposition for long stretches.\n\nDesabre praised his team's resilience after the defeat and will be hoping for another disciplined display in this must-win encounter.\n\nEverything points toward Desabre sticking with the core group that has featured throughout the tournament.\n\nDR Congo knows that winning alone may not be enough to reach the knockout stage.\n\nIn addition to defeating Uzbekistan, the Leopards will also need favorable results elsewhere to secure one of the remaining qualification spots available to the best third-place finishers.\n\nWith experienced leaders such as Chancel Mbemba , Cédric Bakambu , and Yoane Wissa , the African side will look to finish the group stage on a high note and keep alive its dream of advancing beyond the opening round for the first time since returning to the World Cup.\n\nMatch Information\n\nMatch: DR Congo vs Uzbekistan\nCompetition: FIFA World Cup 2026 – Group K\nDate: June 27, 2026\nVenue: Mercedes-Benz Stadium\nCity: Atlanta, United States\nHead Coach: Sébastien Desabre\nCaptain: Chancel Mbemba\n\nFollow all the action from the 2026 FIFA World Cup on beIN SPORTS.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

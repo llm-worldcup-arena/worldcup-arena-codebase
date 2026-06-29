@@ -1,0 +1,24 @@
+{
+ "source": "en.as.com",
+ "url": "https://en.as.com/soccer/argentina-vs-algeria-live-online-updates-score-goals-and-highlights-2026-world-cup-group-j-f202606-d/",
+ "title": "Argentina 3 vs 0 Algeria summary: updates, goals, score and highlights | Messi’s 2026 World Cup debut",
+ "published": "2026-06-16T19:26:57-04:00",
+ "tier": "2",
+ "lang": "es",
+ "match": {
+  "date": "2026-06-16",
+  "home": "ARG",
+  "away": "ALG",
+  "home_en": "Argentina",
+  "away_en": "Algeria",
+  "home_zh": "阿根廷",
+  "away_zh": "阿尔及利亚",
+  "comp": "小组赛·J组",
+  "match_id": "M19",
+  "slug": "2026-06-16_ARG_vs_ALG"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Algeria squadThey may not be the most known side in the tournament, but there are some names you will certainly know as you look at Vladimir Petkovic's 26 man squad. The most recognizable of all is Riyad Mahrez who has a sensation in the Premier League before heading to the Saudi League. Luca Zidane is representing Algeria as well and Man City defender Rayan Ait-Nouri are the headliners of this team that should come into this summer with some loft goals. Here is the 26 man squadGoalkeepers:Anthony Mandrea (SM Caen)Luca Zidane (Granada CF)Oussama Benbot (USM Alger)Defenders:Aïssa Mandi (Lille OSC)Ramy Bensebaini (Borussia Dortmund)Rayan Aït-Nouri (Manchester City)Mehdi Dorval (SSC Bari)Mohamed Amine Tougaï (Espérance de Tunis)Zineddine Belaïd (JS Kabylie)Rafiq Belghali (Hellas Verona)Jaouen Hadjam (Young Boys)Youcef Atal (Al-Sadd SC)Midfielders:Ismaël Bennacer (Dinamo Zagreb)Hicham Boudaoui (OGC Nice)Ramiz Zerrouki (FC Twente)Farès Chaïbi (Eintracht Frankfurt)Houssem Aouar (Al-Ittihad)Adam Zorgane (Union Saint-Gilloise)Ibrahim Maza (Bayer Leverkusen)Ahmed Kendouci (Ceramica Cleopatra)Forwards:Riyad Mahrez (Al-Ahli)Mohamed Amoura (VfL Wolfsburg)Amine Gouiri (Olympique de Marseille)Anis Hadj Moussa (Feyenoord)Baghdad Bounedjah (Al-Shamal)Adel Boulbina (Al-Duhail)",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

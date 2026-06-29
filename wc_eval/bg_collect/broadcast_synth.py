@@ -12,7 +12,7 @@ short.md(精简) + timeline.md(逐分钟)。
 跑:python3 broadcast_synth.py --slug 2026-06-12_CAN_vs_BIH
    python3 broadcast_synth.py --all --refresh
 """
-import os, sys, json, glob, argparse
+import os, sys, json, glob, argparse, time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -21,8 +21,11 @@ MB = f"{RUNS}/data_processed/match_broadcast"
 sys.path.insert(0, f"{ROOT}/wc_eval")
 from wc_llm import kimi_text, predictable_long
 
+MIN_LONG_CHARS = 1600
+
 LONG_SYS = """你是世界杯赛事播报编辑。给你同一场比赛的【多份逐字原文】(不同媒体/多语种),交叉合成一篇权威「全本播报 long」。
 要求:① 多源交叉——同一事实多源印证则直接陈述,只在真有分歧处标「存疑」;② 覆盖:比分(含半场)/进球(分钟+球员+助攻)/红黄牌+停赛影响/关键扑救与机会/阵容与阵型/换人/统计(控球/射门/xG)/教练战术调整/裁判与新规/**赛后采访引语(主帅+球员)**/**看点·纪录·花絮**/现场氛围与历史;③ 客观、信息密度高、不杜撰原文没有的事实。
+这是【全本播报】,不是短摘要:只要原文有足够材料,全篇正文目标不少于 1800 个中文字符;每个有材料的章节至少写 2-4 句,要展开关键事件的过程、背景、影响和多源细节。只有原文确无材料的章节才写「（原文未涉及）」。
 **严格用以下七节标题(固定不变,保证各场结构一致)**,markdown ## 分节:
 ## ① 比分速览
 ## ② 进球与关键事件
@@ -36,6 +39,56 @@ LONG_SYS = """你是世界杯赛事播报编辑。给你同一场比赛的【多
 SHORT_SYS = """把这篇赛事播报浓缩成 8-12 行要点(markdown 无序列表),只留对"理解这场+预测两队下一场"最关键的硬信息(比分/进球/红牌停赛/伤退/状态信号)。客观,不抒情。不要前言。"""
 
 TL_SYS = """从这篇赛事播报抽出逐分钟时间线(markdown),格式每行 `分钟' 事件`(如 `9' 进球 Quiñones(墨)`),按时间排序,只列实际发生的关键事件(进球/红黄牌/换人/重大扑救/VAR)。不要前言、不要解释。"""
+
+EXPAND_SYS = """你是世界杯赛事播报编辑。给你一篇偏短的「全本播报 long」和同场多源原文,在不杜撰的前提下扩写成更完整的 long。
+要求:
+1. 保留原有七节标题,不要改标题结构。
+2. 补充原文中已有但初稿没展开的关键机会、判罚、战术背景、阵容人员、现场与晋级影响。
+3. 只要原文有材料,全篇正文不少于 1800 个中文字符;不要写成短摘要。
+4. 原文没有的采访、红黄牌、统计可以继续写「原文未涉及」,但有材料的章节必须展开。
+直接输出完整 markdown,不要前言。"""
+
+
+def _write_text(path, text):
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(text)
+
+
+def _retry(label, fn, retries=2, sleep=3):
+    """LLM calls can occasionally time out. Retry without touching old files."""
+    last = None
+    for i in range(1, retries + 1):
+        try:
+            return fn()
+        except Exception as e:
+            last = e
+            if i < retries:
+                print(f"  ⚠️ {label} 失败({str(e)[:80]})，{sleep}s 后重试 {i + 1}/{retries}", file=sys.stderr)
+                time.sleep(sleep)
+    raise last
+
+
+def _retry_text(label, system, user, timeout=300, retries=2):
+    return _retry(label, lambda: kimi_text(system, user, timeout=timeout), retries=retries)
+
+
+def _best_effort(label, path, fn):
+    """Write secondary products only after successful generation; keep old file on failure."""
+    try:
+        text = fn()
+        _write_text(path, text)
+        return {"ok": True, "len": len(text)}
+    except Exception as e:
+        return {"ok": False, "error": f"{label}:{str(e)[:120]}"}
+
+
+def _expand_if_short(slug, long_md, material):
+    if len(long_md) >= MIN_LONG_CHARS:
+        return long_md
+    prompt = (f"【场次】{slug}\n\n【偏短初稿】\n{long_md}\n\n"
+              f"【多源原文】\n{material[:50000]}")
+    expanded = _retry_text("expand_long", EXPAND_SYS, prompt, timeout=300, retries=2)
+    return expanded if expanded.lstrip().startswith("#") else long_md.split("\n\n", 1)[0] + "\n\n" + expanded
 
 
 def _read_raws(d):
@@ -56,26 +109,46 @@ def _read_raws(d):
 
 
 def synth(slug, refresh=False):
-    d = f"{MB}/{slug}"
-    if not os.path.isdir(f"{d}/raws"):
-        return {"slug": slug, "skip": "无raws"}
-    os.makedirs(f"{d}/ours", exist_ok=True)
-    longp = f"{d}/ours/long.md"
-    if os.path.exists(longp) and not refresh:
-        return {"slug": slug, "skip": "ours已存(--refresh重做)"}
-    material = _read_raws(d)
-    if len(material) < 500:
-        return {"slug": slug, "skip": "raws内容过少"}
-    head = f"# {slug.replace('_', ' ')} · 赛事播报【全本 / long】\n> 2026 世界杯 · py-Kimi 多源交叉合成\n\n"
-    long_md = head + kimi_text(LONG_SYS, f"【场次】{slug}\n\n{material}")
-    open(longp, "w", encoding="utf-8").write(long_md)
-    # 可预测版 + short + timeline 并行
-    plong = predictable_long(long_md)["plong"]
-    open(f"{d}/ours/long_predictable.md", "w", encoding="utf-8").write(
-        "<!-- 可预测版 long:py-Kimi 从 long.md 改写;块B 优先取此版。-->\n\n" + plong)
-    open(f"{d}/ours/short.md", "w", encoding="utf-8").write(kimi_text(SHORT_SYS, long_md))
-    open(f"{d}/ours/timeline.md", "w", encoding="utf-8").write(kimi_text(TL_SYS, long_md))
-    return {"slug": slug, "ok": True, "long": len(long_md), "plong": len(plong)}
+    try:
+        d = f"{MB}/{slug}"
+        if not os.path.isdir(f"{d}/raws"):
+            return {"slug": slug, "skip": "无raws"}
+        os.makedirs(f"{d}/ours", exist_ok=True)
+        longp = f"{d}/ours/long.md"
+        old_long = open(longp, encoding="utf-8").read() if os.path.exists(longp) else ""
+        if os.path.exists(longp) and not refresh:
+            return {"slug": slug, "skip": "ours已存(--refresh重做)"}
+        material = _read_raws(d)
+        if len(material) < 500:
+            return {"slug": slug, "skip": "raws内容过少"}
+        head = f"# {slug.replace('_', ' ')} · 赛事播报【全本 / long】\n> 2026 世界杯 · py-Kimi 多源交叉合成\n\n"
+
+        body = _retry_text("long", LONG_SYS, f"【场次】{slug}\n\n{material}", timeout=300, retries=2)
+        long_md = head + body
+        long_md = _expand_if_short(slug, long_md, material)
+        if old_long and len(long_md) < MIN_LONG_CHARS and len(long_md) < len(old_long):
+            return {"slug": slug, "skip": f"新long偏短({len(long_md)}<{MIN_LONG_CHARS})且短于旧稿({len(old_long)}),保留旧稿"}
+        _write_text(longp, long_md)
+
+        # Secondary products are useful, but they must not crash the round or
+        # overwrite a previous good file when an LLM call times out.
+        sec = {}
+        plong_box = {}
+        def gen_plong():
+            plong = _retry("long_predictable", lambda: predictable_long(long_md)["plong"], retries=2)
+            plong_box["text"] = plong
+            return "<!-- 可预测版 long:py-Kimi 从 long.md 改写;块B 优先取此版。-->\n\n" + plong
+
+        sec["long_predictable"] = _best_effort("long_predictable", f"{d}/ours/long_predictable.md", gen_plong)
+        sec["short"] = _best_effort("short", f"{d}/ours/short.md",
+                                    lambda: _retry_text("short", SHORT_SYS, long_md, timeout=240, retries=2))
+        sec["timeline"] = _best_effort("timeline", f"{d}/ours/timeline.md",
+                                       lambda: _retry_text("timeline", TL_SYS, long_md, timeout=240, retries=2))
+        errors = [v["error"] for v in sec.values() if not v.get("ok")]
+        return {"slug": slug, "ok": True, "long": len(long_md),
+                "plong": len(plong_box.get("text", "")), "secondary_errors": errors}
+    except Exception as e:
+        return {"slug": slug, "error": str(e)[:200]}
 
 
 def main():
@@ -92,7 +165,10 @@ def main():
     print(f"▶ 播报合成 raws→ours:{len(slugs)} 场 · py-Kimi")
     with ThreadPoolExecutor(max_workers=a.workers) as ex:
         for f in as_completed([ex.submit(synth, s, a.refresh) for s in slugs]):
-            print(f"  {f.result()}")
+            try:
+                print(f"  {f.result()}")
+            except Exception as e:
+                print(f"  {{'error': '{str(e)[:200]}'}}")
 
 
 if __name__ == "__main__":

@@ -1,0 +1,24 @@
+{
+ "source": "elmundo.es",
+ "url": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/06/28/6a408123e85ecea3208b4577.html",
+ "title": "Portugal no puede con Colombia y pone al rojo vivo el Mundial: Croacia en dieciseisavos y posible cruce con España en octavos",
+ "published": "2026-06-28T02:04:30Z",
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-27",
+  "home": "COL",
+  "away": "POR",
+  "home_en": "Colombia",
+  "away_en": "Portugal",
+  "home_zh": "哥伦比亚",
+  "away_zh": "葡萄牙",
+  "comp": "小组赛·K组",
+  "match_id": "M71",
+  "slug": "2026-06-27_COL_vs_POR"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Miami confirmó que Colombia es un equipo a tener en cuenta, que a Portugal le falta una marcha más y que el lado del cuadro de España se pone al rojo vivo. Los lusos no pasaron del empate contra los colombianos (0-0), terminan segundos de su grupo y se enfrentarán a Croacia en los dieciseisavos. Cristiano contra Modric en el que puede ser el último partido del que pierda en los Mundiales. Después, el ganador podría medirse a España en octavos si los de De la Fuente superan la primera eliminatoria. Es un lado del cuadro infernal. Con Francia, Alemania, Marruecos, Países Bajos, Canadá, Estados Unidos o Bélgica entre las selecciones que compiten por esa zona. En el otro, sin embargo, Inglaterra, Argentina y Brasil parecen favoritas, con secundarias como Colombia, Suiza o Noruega a punto de mostrar sus argumentos. El problema para Portugal es grande, porque ha pasado de enfrentarse a Ghana si era primera, a hacerlo con Croacia. Y todo por un empate tras un duelo competido, intenso, de mucho nivel. Un partido de eliminatorias con dos estrellas, los porteros. Diogo Costa y Vargas fueron los mejores de sus equipos evitando los goles. Especialmente Costa, imbatible ante los intentos de una Colombia que fue mejor, llenando de dudas los mares de Portugal, que no termina de arrancar. El empate bastaba a los cafeteros para terminar primeros del Grupo K, pero su seleccionador Néstor Lorenzo no quiso salir a empatar. Colombia arrancó con el cuchillo entre los dientes, presionando, robando cerca del área rival y buscando sin parar a Luis Díaz, el que más daño hizo. Portugal sólo encontró algo de aire cuando apareció Bruno Fernandes, impulsando alguna acción de Cristiano. Poco más de una Portugal irregular. Con el paso de los minutos, la figura de Costa se hizo enorme. Sacó un remate de Lerma, otro de Arias, otro de Luis Suárez y varias acciones que parecían llevar al gol. En el tramo final, más propenso a la ruptura posicional y emocional, encontró de nuevo a Colombia volcada buscando la victoria, con Cristiano aislado en el ataque portugués. Davinson Sánchez marcó, pero su tanto fue anulado por fuera de juego, y el duelo murió en tablas. 24 remates de Colombia, 12 de Portugal, 6-2 entre los tres palos. Los lusos deberán mejor mucho para superar a una Croacia que va de menos a más, y Colombia aterriza en las eliminatorias con la moral por las nubes y con un rival, Ghana, mucho más cómodo.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}
