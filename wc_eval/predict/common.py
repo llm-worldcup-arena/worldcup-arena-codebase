@@ -296,6 +296,10 @@ _HANDICAP = {
     ("COD", "UZB"): -0.5,    # 刚果金 -0.5(SportsGambler DR Congo -143,约59%胜率;Ladbrokes DR Congo 7/10 vs UZB 3/1)
     # —— 6/28 32 强 M73 ——
     ("RSA", "CAN"): +1.0,    # 加拿大(客)让1(加拿大小组赛进攻效率/净胜球明显优于南非;M73 洛杉矶中立场,取客让1评分线)
+    # —— 6/29 32 强 M74-M76(多源核对 2026-06-29;正值=主队受让) ——
+    ("BRA", "JPN"): -0.5,    # 巴西 -0.5(ActionNetwork 主 spread BRA -0.5/JPN +0.5;RotoWire/DraftKings ML BRA -135、JPN +400,半球档)
+    ("GER", "PAR"): -1.5,    # 德国 -1.5(ESPN/DraftKings 明示 GER -1.5 -105;Yahoo PAR +1.5;RotoWire/FOX ML GER -300/-308)
+    ("NED", "MAR"): -0.5,    # 荷兰 -0.5(ESPN/DraftKings 明示 NED -0.5 +120/MAR +0.5 -150;90分钟ML NED小热)
 }
 
 
