@@ -1,6 +1,16 @@
 # HAI · 修改日志
 > 每轮改动逐条留底,最新置顶。块A=summary 原结构增量;块B=wc2026 专属块增量。
 
+## 2026-06-29_1326
+**块A · summary.md(原结构)**
+- [⑦] +1条(py-Kimi三判): 海地52年后再登世界杯舞台，队长普拉西德以38岁高龄首征大赛，队史射手王纳左恩(
+**说明**:2026-06-30_1258轮 news_pipeline:新3/进⑦1/拒2/合并-8行
+**检索来源**:hk.sports.yahoo.com, scotsman.com, beinsports.com
+**块A · summary.md(原结构)**
+- 本轮3篇新闻三判全未过(拒因示例:['hk.sports.yahoo.com:该新闻内容为乌拉圭队与贝尔萨，与目标球队海地（HAI）完全无', 'beinsports.com:文章日期2026-06-30晚于其所预览的比赛(6月13日对'])
+**说明**:2026-06-30_1258轮 news_pipeline:新3/进⑦0/拒3
+**检索来源**:scotsman.com, hk.sports.yahoo.com, beinsports.com
+
 ## 2026-06-29_0714
 **块A · summary.md(原结构)**
 - 本轮2篇新闻三判全未过(拒因示例:[])

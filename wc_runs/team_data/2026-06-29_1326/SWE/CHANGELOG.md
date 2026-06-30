@@ -1,6 +1,15 @@
 # SWE · 修改日志
 > 每轮改动逐条留底,最新置顶。块A=summary 原结构增量;块B=wc2026 专属块增量。
 
+## 2026-06-29_1326
+**块A · summary.md(原结构)**
+- 本轮3篇新闻三判全未过(拒因示例:[])
+**说明**:2026-06-30_1258轮 news_pipeline:新3/进⑦0/拒0
+**块A · summary.md(原结构)**
+- 本轮3篇新闻三判全未过(拒因示例:['today.line.me:is_new=false：与summary中Hien对日本拉', "ttplus.cn:新闻正文为'无有效信息'，无任何实质内容可提取"])
+**说明**:2026-06-30_1258轮 news_pipeline:新3/进⑦0/拒3
+**检索来源**:globalsportsarchive.com, ttplus.cn, today.line.me
+
 ## 2026-06-29_0714
 **块A · summary.md(原结构)**
 - 本轮3篇新闻三判全未过(拒因示例:[])

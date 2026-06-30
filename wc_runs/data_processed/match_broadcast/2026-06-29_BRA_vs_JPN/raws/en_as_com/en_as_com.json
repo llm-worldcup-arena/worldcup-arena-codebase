@@ -1,0 +1,24 @@
+{
+ "source": "en.as.com",
+ "url": "https://en.as.com/soccer/brazil-vs-japan-live-online-updates-goals-stats-and-highlights-vinicius-at-the-2026-world-cup-round-of-32-f202606-d/",
+ "title": "Brazil 2 vs 1 Japan live online: updates, goals, stats and highlights | 2026 World Cup round of 32",
+ "published": "2026-06-29T12:52:30-04:00",
+ "tier": "2",
+ "lang": "es",
+ "match": {
+  "date": "2026-06-29",
+  "home": "BRA",
+  "away": "JPN",
+  "home_en": "Brazil",
+  "away_en": "Japan",
+  "home_zh": "巴西",
+  "away_zh": "日本",
+  "comp": "r32",
+  "match_id": "M76",
+  "slug": "2026-06-29_BRA_vs_JPN"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Brazil's World Cup history We all know the Brazilians and the history they have in the World Cup. Their legacy started long ago when a teenage sensation named Pele led them to their first World Cup in 1958. He would go on to lead Brazil to two more World Cups in the next three editions to crown this country as the first powerhouse in the tournament. They would have to wait until 1994 to win another World Cup, this one on America soil. Eight years later they were hoisting the Cup again when they won it in 2002. Back in America, they are looking to make it 2/2 after the final which will be held in New Jersey.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

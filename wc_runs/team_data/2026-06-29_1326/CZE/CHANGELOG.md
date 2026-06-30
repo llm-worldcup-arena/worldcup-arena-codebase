@@ -1,6 +1,16 @@
 # CZE · 修改日志
 > 每轮改动逐条留底,最新置顶。块A=summary 原结构增量;块B=wc2026 专属块增量。
 
+## 2026-06-29_1326
+**块A · summary.md(原结构)**
+- [⑦] +1条(py-Kimi三判): 5月21日捷克公布世界杯29人初选名单：绍切克、希克、赫洛泽克领衔，10将来自布
+**说明**:2026-06-30_1258轮 news_pipeline:新4/进⑦1/拒3
+**检索来源**:tw.sports.yahoo.com, 163.com, the-independent.com, news.qq.com
+**块A · summary.md(原结构)**
+- 本轮4篇新闻三判全未过(拒因示例:['the-independent.com:该文为泛世界杯伤情综述，仅涉及巴西、英格兰、埃及、西班牙、美', "tw.sports.yahoo.com:该新闻主题为公布世界杯名单，与summary中已记录的'29"])
+**说明**:2026-06-30_1258轮 news_pipeline:新4/进⑦0/拒4
+**检索来源**:tw.sports.yahoo.com, 163.com, news.qq.com, the-independent.com
+
 ## 2026-06-29_0714
 **块A · summary.md(原结构)**
 - 本轮1篇新闻三判全未过(拒因示例:[])

@@ -1,0 +1,24 @@
+{
+ "source": "beinsports.com",
+ "url": "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/all-the-goals-brazil-vs-japan-fifa-world-cup-2026-2026-06-29",
+ "title": "All the Goals from Brazil vs. Japan | FIFA World Cup 2026",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-29",
+  "home": "BRA",
+  "away": "JPN",
+  "home_en": "Brazil",
+  "away_en": "Japan",
+  "home_zh": "巴西",
+  "away_zh": "日本",
+  "comp": "r32",
+  "match_id": "M76",
+  "slug": "2026-06-29_BRA_vs_JPN"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "GOAL FOR JAPAN! Kaishū Sano opened the scoring with a precise finish. The midfielder found space inside the box and beat the Brazilian goalkeeper to give the Samurai Blue a 1-0 lead in the FIFA World Cup 2026 Round of 32.\n\nGOAL FOR BRAZIL! Casemiro appeared at the perfect moment to equalize the match. The midfielder took advantage of the opportunity to make it 1-1 against Japan.\n\nGOAL FOR BRAZIL! Gabriel Martinelli struck in the closing moments to complete Brazil's comeback. With the match on the verge of ending, the forward found the back of the net to give the Seleção a 2-1 lead over Japan.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

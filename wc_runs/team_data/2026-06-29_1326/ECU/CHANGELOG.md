@@ -1,6 +1,17 @@
 # ECU · 修改日志
 > 每轮改动逐条留底,最新置顶。块A=summary 原结构增量;块B=wc2026 专属块增量。
 
+## 2026-06-29_1326
+**块A · summary.md(原结构)**
+- [⑦] +1条(py-Kimi三判): ESPN小组赛数据：厄瓜多尔3轮战罢，普拉塔3场1球(8射5正)为队内唯一进球者
+**说明**:2026-06-30_1258轮 news_pipeline:新4/进⑦1/拒3/合并-3行
+**检索来源**:texasonlineplay.org, sportstar.thehindu.com, foxsports.com, espn.in
+**块A · summary.md(原结构)**
+- [⑦] +2条(py-Kimi三判): 欧冠数据：凯塞多41次抢断、帕乔105次球权回收；世预赛18场仅失5球为南美最少
+- [⑦] +2条(py-Kimi三判): ESPN公布厄瓜多尔小组赛球员数据：凯塞多3场4次犯规，瓦伦西亚10射6正，普拉
+**说明**:2026-06-30_1258轮 news_pipeline:新4/进⑦2/拒2/合并-3行
+**检索来源**:sportstar.thehindu.com, foxsports.com, espn.in, texasonlineplay.org
+
 ## 2026-06-29_0714
 **块A · summary.md(原结构)**
 - 本轮2篇新闻三判全未过(拒因示例:[])

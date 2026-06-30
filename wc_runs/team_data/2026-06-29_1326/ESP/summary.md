@@ -138,27 +138,25 @@
 
 ## ⑦ 关键动态
 
-- 🟢 **亚马尔、尼科·威廉斯、比克托·穆尼奥斯6/15首战确认替补；费尔明·洛佩斯骨折伤缺**——三人因伤缺席6/8秘鲁末轮热身，6/11在查塔努加恢复合练；亚马尔（左腿筋/腹股沟伤，4/22后无正式比赛）康复中，穆尼奥斯肌肉超负荷出战成疑→6/26确认伤缺。6/26情报显示亚马尔伤愈预计首发。🏥 **费尔明·洛佩斯**右脚第五跖骨骨折已手术，无缘本届。（多源核实：ESPN/FOX/Goal/Al Jazeera/sportsmole/Russpain/Rotowire/beinsports/BBC/apnews.com/bastillepost.com/FourFourTwo/163.com）
+- 🏥 **伤情与停赛状态**：费尔明·洛佩斯右脚第五跖骨骨折已手术，无缘本届；亚马尔左腿筋/腹股沟伤（4/22后无正式比赛），6/15首战确认替补→6/26确认伤愈预计首发；尼科·威廉斯6/15首战替补后，同乌拉圭比赛中腿筋旧伤复发（仅14分钟出场），出战淘汰赛成疑或赛事报销；比克托·穆尼奥斯肌肉超负荷，6/26确认伤缺；皮诺锁骨骨折（此前肩锁关节扭伤），带伤完赛恐告别世界杯，德拉富恩特赞其「表现英勇、堪称英雄」；佩德里被克罗斯撞伤倦勤；梅里诺1月应力性骨折康复中；法比安·雷斯带伤入围；卡华查、路罗贺莫停赛；卡瓦哈尔、纳乔累积黄牌停赛（2024欧洲杯8强战）；五边锋中仅巴埃纳100%健康，主帅需在7月2日淘汰赛对奥地利/阿尔及利亚前解困。（多源核实：ESPN/FOX/Goal/Al Jazeera/sportsmole/Russpain/Rotowire/beinsports/BBC/apnews.com/bastillepost.com/FourFourTwo/163.com/independent.co.uk/SI.com）
 
-- **名单创史与新老交替**：26人名单首次零皇马球员（卡瓦哈尔、胡伊森、莫拉塔落选），英超七将含阿森纳三将（拉亚/苏维门迪/梅里诺）火线入选，8人来自巴萨。以亚马尔、库瓦尔西、佩德里、加维、尼科·威廉斯等新生代为主，莫拉塔等老将未入选，球队进入「新黄金一代」当打周期。（多源核实：ESPN/FOX/Goal/Al Jazeera/sportsmole/Russpain/Rotowire/beinsports/BBC/apnews.com/bastillepost.com/FourFourTwo/worldsoccertalk.com/Yahoo Sports）
+- **名单创史与新老交替**：2026.05.25公布世界杯26人终选名单，队长罗德里；首次零皇马球员（卡瓦哈尔、胡伊森、莫拉塔落选），1950年来首次；英超七将含阿森纳三将（拉亚/苏维门迪/梅里诺）火线入选，8人来自巴萨；以亚马尔、库瓦尔西、佩德里、加维、尼科·威廉斯等新生代为主，莫拉塔等老将未入选，球队进入「新黄金一代」当打周期。（多源核实：ESPN/FOX/Goal/Al Jazeera/sportsmole/Russpain/Rotowire/beinsports/BBC/apnews.com/bastillepost.com/FourFourTwo/worldsoccertalk.com/Yahoo Sports/rg.org）
 
-- **预测首发与战术体系**：Rotowire版433：西蒙/库库雷利亚、拉波尔特、库瓦尔西、波罗，佩德里、罗德里、法维安·鲁伊斯，奥尔莫、奥亚尔萨瓦尔、费兰·托雷斯；beinsports版：西蒙/马科斯·略伦特、库瓦尔西、拉波尔特、库库雷利亚，罗德里、佩德里、法维安·鲁伊斯，亚历克斯·巴埃纳、奥亚尔萨瓦尔、费兰·托雷斯；Goal.com 6/20版：西蒙/库库雷利亚、库巴西、拉波尔特、略伦特/佩德里、罗德里、法维安·鲁伊斯/威廉斯、奥亚尔萨瓦尔、亚马尔。德拉富恩特推行直接快攻，从传控转向快速纵向4-3-3/4-2-3-1，称西班牙拥有最强中场。（多源核实：Rotowire/beinsports/Goal/ESPN/FOX/Al Jazeera/sportsmole/Russpain/BBC/apnews.com/bastillepost.com/FourFourTwo/worldsoccertalk.com/finance.sina.com.cn）
+- **预测首发与战术体系**：Rotowire版433：西蒙/库库雷利亚、拉波尔特、库瓦尔西、波罗，佩德里、罗德里、法维安·鲁伊斯，奥尔莫、奥亚尔萨瓦尔、费兰·托雷斯；beinsports版：西蒙/马科斯·略伦特、库瓦尔西、拉波尔特、库库雷利亚，罗德里、佩德里、法维安·鲁伊斯，亚历克斯·巴埃纳、奥亚尔萨瓦尔、费兰·托雷斯；Goal.com 6/20版：西蒙/库库雷利亚、库巴西、拉波尔特、略伦特/佩德里、罗德里、法维安·鲁伊斯/威廉斯、奥亚尔萨瓦尔、亚马尔。最新：亚马尔6/26确认伤愈预计首发。德拉富恩特推行直接快攻，从传控转向快速纵向4-3-3/4-2-3-1，称西班牙拥有最强中场。（多源核实：Rotowire/beinsports/Goal/ESPN/FOX/Al Jazeera/sportsmole/Russpain/BBC/apnews.com/bastillepost.com/FourFourTwo/worldsoccertalk.com/finance.sina.com.cn）
 
-- **战绩荣誉与近期赛果**：携2024欧洲杯冠军（七战全胜）、2023国家联赛冠军、2025欧国联亚军（点球3-5负葡萄牙）之势。世预赛E组5胜1平16分（21-2得失球）6-0大胜土耳其。携10场不败（7胜）之势，FIFA排名第二；德拉富恩特带队90分钟内30+场不败。近期0-0爆冷平佛得角，4-0大胜沙特，目前4分领跑H组。预选赛2-2土耳其暴露定位球防守漏洞；热身赛0-0埃及、1-1伊拉克进球转化下滑。（多源核实：ESPN/FOX/Goal/Al Jazeera/sportsmole/Russpain/Rotowire/beinsports/BBC/apnews.com/bastillepost.com/FourFourTwo/Goal/news.now.com/stheadline/worldsoccertalk.com/163.com/Sports Mole/Yahoo Sports）
+- **战绩荣誉与近期赛果**：携2024欧洲杯冠军（七战全胜）、2023国家联赛冠军、2025欧国联亚军（点球3-5负葡萄牙）之势；世预赛E组5胜1平16分（21-2得失球）6-0大胜土耳其；携10场不败（7胜）之势，FIFA排名第二；德拉富恩特带队90分钟内30+场不败；近期0-0爆冷平佛得角，4-0大胜沙特；预选赛2-2土耳其暴露定位球防守漏洞；热身赛0-0埃及、1-1伊拉克进球转化下滑；小组赛先打佛得角、沙特，末轮碰乌拉圭，目前4分领跑H组，乌拉圭2分次席，周五迎战乌拉圭。（多源核实：ESPN/FOX/Goal/Al Jazeera/sportsmole/Russpain/Rotowire/beinsports/BBC/apnews.com/bastillepost.com/FourFourTwo/Goal/news.now.com/stheadline/worldsoccertalk.com/163.com/Sports Mole/Yahoo Sports）
 
-- **停赛与伤缺**：卡华查、路罗贺莫停赛；卡瓦哈尔、纳乔累积黄牌停赛（2024欧洲杯8强战）。柏迪伤缺；佩德里被克罗斯撞伤倦勤；梅里诺（1月应力性骨折康复）、法比安·雷斯带伤入围。（多源核实：news.now.com/stheadline/ESPN/FOX/Al Jazeera/sportsmole/Russpain/BBC/apnews.com/bastillepost.com/FourFourTwo）
-
-- **锋线状态与核心数据**：费兰·托雷斯近两场热身赛1球1助、巴萨季末7场5球，成右路选项。奥亚尔萨瓦尔预选赛6球。亚马尔23场6球携16球11助攻赛季状态领衔，赛季41次参与巴萨进球。亚历克斯·巴埃纳亦可能首发。罗德里掌控节奏。（多源核实：ESPN/FOX/Goal/Al Jazeera/sportsmole/Russpain/Rotowire/beinsports/BBC/apnews.com/bastillepost.com/FourFourTwo/worldsoccertalk.com/Yahoo Sports）
+- **锋线状态与核心数据**：费兰·托雷斯近两场热身赛1球1助、巴萨季末7场5球，成右路选项；奥亚尔萨瓦尔预选赛6球；亚马尔23场6球携16球11助攻赛季状态领衔，赛季41次参与巴萨进球；亚历克斯·巴埃纳亦可能首发；罗德里掌控节奏。（多源核实：ESPN/FOX/Goal/Al Jazeera/sportsmole/Russpain/Rotowire/beinsports/BBC/apnews.com/bastillepost.com/FourFourTwo/worldsoccertalk.com/Yahoo Sports）
 
 - **外部环境扰动**：3月对埃及的热身赛因「2026伊朗战争」由卡塔尔卢塞尔球场临时改至西班牙本土举办——地区局势对赛程/备战安排带来了客观的不确定性背景。（多源核实：Al Jazeera）
-
-- **赛程与出线形势**：小组赛先打佛得角、沙特两个弱旅，末轮才碰乌拉圭，有条件提前出线。周五迎战乌拉圭，目前4分领跑H组，乌拉圭2分次席。（多源核实：ESPN/FOX/Goal/Al Jazeera/sportsmole/Russpain/Rotowire/beinsports/BBC/apnews.com/bastillepost.com/FourFourTwo/Sports Mole）
 
 - **数据亮点**：西班牙5战全胜，102次攻门、230次取回控球权均冠绝各队；法国教练点名重点防范西班牙中场洛迪。（多源核实：news.now.com）
 
 - **库库雷利亚转会动态**：德拉富恩特回应库库雷利亚转会皇马传闻称不影响球队；库库雷利亚7月1日切尔西转会后正式加入。（多源核实：finance.sina.com.cn/Yahoo Sports）
 
 - **点球魔咒**：2025欧国联决赛点球3-5负葡萄牙，是继2018、2022世界杯连续点球出局后的又一次失利——淘汰赛点球大战的心理与稳定性，仍是西班牙最受关注的隐忧。（多源核实：Goal）
+
+- ESPN发布西班牙队世界杯小组赛阶段数据：奥亚尔萨瓦尔3场2球1助11射门领衔锋线，亚马尔3场1球8射门，罗德里、佩德里等中场全勤，全队6人各领1黄。（多源核实：ESPN）
 
 ## ⑧ 综合定位与变数
 **定位**：西班牙是本届世界杯的**头号梯队夺冠热门之一**——FIFA 第 2、Elo 2155 的顶级排名，叠加欧洲杯卫冕冠军的强势、世界级的中场厚度与控球统治力，使其无论纸面实力还是即战力都位居 48 队前列。其打法以高控球率、短传渗透（Tiki-taka 传承）、中场绞杀与边路（亚马尔、尼科·威廉斯）冲击为底色，是典型的「掌控比赛」型强队。本届身处一个「上有乌拉圭、下有沙特/佛得角」的相对友好分组，小组出线几无悬念，真正的考验在淘汰赛。

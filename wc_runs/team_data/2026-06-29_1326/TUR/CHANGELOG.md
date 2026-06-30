@@ -1,6 +1,15 @@
 # TUR · 修改日志
 > 每轮改动逐条留底,最新置顶。块A=summary 原结构增量;块B=wc2026 专属块增量。
 
+## 2026-06-29_1326
+**块A · summary.md(原结构)**
+- 本轮6篇新闻三判全未过(拒因示例:[])
+**说明**:2026-06-30_1258轮 news_pipeline:新6/进⑦0/拒0
+**块A · summary.md(原结构)**
+- 本轮6篇新闻三判全未过(拒因示例:['the-independent.com:该文为泛世界杯伤情综述，涉及巴西/英格兰/埃及/西班牙/美国', 'news.qq.com:该新闻涉及加拿大球员邦比托，与土耳其队完全无关'])
+**说明**:2026-06-30_1258轮 news_pipeline:新6/进⑦0/拒6
+**检索来源**:today.line.me, the-independent.com, bbc.co.uk, smart-kaiyuanpai.com, cj.sina.com.cn, news.qq.com
+
 ## 2026-06-29_0714
 **块A · summary.md(原结构)**
 - 本轮6篇新闻三判全未过(拒因示例:[])

@@ -1,6 +1,19 @@
 # CPV · 修改日志
 > 每轮改动逐条留底,最新置顶。块A=summary 原结构增量;块B=wc2026 专属块增量。
 
+## 2026-06-29_1326
+**块A · summary.md(原结构)**
+- [⑦] +2条(py-Kimi三判): 末轮0-0逼平沙特历史性晋级16强，将战阿根廷。队长莱恩·门德斯36岁国家队已9
+- [⑦] +2条(py-Kimi三判): 佛得角世预赛CAF D组出线详情：0-0安哥拉、1-4喀麦隆、2025年10月1
+**说明**:2026-06-30_1258轮 news_pipeline:新7/进⑦2/拒5/合并-3行
+**检索来源**:sports.cctv.com, bleacherreport.com, finance.sina.com.cn, m.sohu.com, ticombo.com, espn.in, chaseyoursport.com
+**块A · summary.md(原结构)**
+- [⑦] +3条(py-Kimi三判): 佛得角0-0逼平沙特历史性晋级16强，将战阿根廷。队长莱恩·门德斯（36岁，99
+- [⑦] +3条(py-Kimi三判): ESPN发布佛得角2026世界杯小组赛26人技术统计：瑞安·门德斯3场4射，凯文
+- [⑦] +3条(py-Kimi三判): 佛得角世预赛末5轮不败头名出线，近2年5胜6平1负进18球失12球；热身赛0-0
+**说明**:2026-06-30_1258轮 news_pipeline:新7/进⑦3/拒4/合并-4行
+**检索来源**:chaseyoursport.com, espn.in, m.sohu.com, bleacherreport.com, ticombo.com, finance.sina.com.cn, sports.cctv.com
+
 ## 2026-06-29_0714
 **块A · summary.md(原结构)**
 - 本轮5篇新闻三判全未过(拒因示例:[])

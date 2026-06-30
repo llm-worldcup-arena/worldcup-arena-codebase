@@ -1,6 +1,18 @@
 # BRA · 修改日志
 > 每轮改动逐条留底,最新置顶。块A=summary 原结构增量;块B=wc2026 专属块增量。
 
+## 2026-06-29_1326
+**块A · summary.md(原结构)**
+- [⑦] +3条(py-Kimi三判): 巴西以C组头名身份将在周一于NRG体育场对阵F组次席日本，争夺世界杯32强赛席位
+- [⑦] +3条(py-Kimi三判): 巴西右路再遭重创：拉菲尼亚右大腿后侧肌肉拉伤缺阵，拉扬将顶替首发；内马尔淘汰赛或
+- [⑦] +3条(py-Kimi三判): 巴西加时2-1逆转日本晋级16强，卡塞米罗56分钟头球扳平，马丁内利加时赛建功，
+**说明**:2026-06-30_1258轮 news_pipeline:新8/进⑦3/拒5/合并-3行
+**检索来源**:k.sina.com.cn, sportsmole.co.uk, m.dongqiudi.com, the-independent.com, sports.yahoo.com, tw.news.yahoo.com, 163.com, app.xinhuanet.com
+**块A · summary.md(原结构)**
+- 本轮8篇新闻三判全未过(拒因示例:['the-independent.com:巴西内马尔/拉菲尼亚伤情已在⑦中完整收录，本文属同一主题重复', 'sportsmole.co.uk:与summary⑦中巴西vs日本淘汰赛信息完全重复，未提供新'])
+**说明**:2026-06-30_1258轮 news_pipeline:新8/进⑦0/拒8
+**检索来源**:k.sina.com.cn, 163.com, the-independent.com, sportsmole.co.uk, sports.yahoo.com, tw.news.yahoo.com, m.dongqiudi.com, app.xinhuanet.com
+
 ## 2026-06-29_0714
 **块A · summary.md(原结构)**
 - 本轮2篇新闻三判全未过(拒因示例:[])

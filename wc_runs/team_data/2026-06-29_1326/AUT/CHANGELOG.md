@@ -1,6 +1,18 @@
 # AUT · 修改日志
 > 每轮改动逐条留底,最新置顶。块A=summary 原结构增量;块B=wc2026 专属块增量。
 
+## 2026-06-29_1326
+**块A · summary.md(原结构)**
+- [⑦] +3条(py-Kimi三判): 世界杯J组末轮奥地利3-3战平阿尔及利亚（6月28日），阿瑙托维奇、萨比策、卡莱
+- [⑦] +3条(py-Kimi三判): 奥地利次轮vs阿根廷前瞻：萨比策背黄牌需收敛动作，阿拉巴与波施伤情出战成疑，阿瑙
+- [⑦] +3条(py-Kimi三判): J组末轮奥地利3-3阿尔及利亚，阿瑙托维奇、萨比策破门，卡莱季奇补时头槌救主，双
+**说明**:2026-06-30_1258轮 news_pipeline:新6/进⑦3/拒3/合并-4行
+**检索来源**:sports.cctv.com, global.hk01.com, cna.com.tw, worldjournal.com, bulinews.com, 163.com
+**块A · summary.md(原结构)**
+- [⑦] +1条(py-Kimi三判): 世界杯J组末轮奥地利3-3阿尔及利亚携手晋级，确认首发：施拉格尔/波施、林哈特、
+**说明**:2026-06-30_1258轮 news_pipeline:新6/进⑦1/拒5/合并-4行
+**检索来源**:worldjournal.com, 163.com, bulinews.com, global.hk01.com, cna.com.tw, sports.cctv.com
+
 ## 2026-06-29_0714
 **说明**:2026-06-29_0714轮:无新增新闻,summary未动
 

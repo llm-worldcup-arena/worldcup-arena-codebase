@@ -1,6 +1,16 @@
 # CRO · 修改日志
 > 每轮改动逐条留底,最新置顶。块A=summary 原结构增量;块B=wc2026 专属块增量。
 
+## 2026-06-29_1326
+**块A · summary.md(原结构)**
+- [⑦] +1条(py-Kimi三判): 英格兰中场赖斯在对克罗地亚首战72分钟因腰背与腿筋不适被换下，随后对加纳打满全场
+**说明**:2026-06-30_1258轮 news_pipeline:新5/进⑦1/拒4/合并-2行
+**检索来源**:sohu.com, flashscore.com, the-independent.com, 163.com, chinapress.com.my
+**块A · summary.md(原结构)**
+- 本轮5篇新闻三判全未过(拒因示例:['the-independent.com:该文通篇报道巴西、英格兰、西班牙、埃及、美国、德国球员伤情，', '163.com:主题重复且事实错误：26人名单已收录，利瓦科维奇仅第三次而非'])
+**说明**:2026-06-30_1258轮 news_pipeline:新5/进⑦0/拒5
+**检索来源**:163.com, the-independent.com, chinapress.com.my, flashscore.com, sohu.com
+
 ## 2026-06-29_0714
 **块A · summary.md(原结构)**
 - 本轮2篇新闻三判全未过(拒因示例:[])

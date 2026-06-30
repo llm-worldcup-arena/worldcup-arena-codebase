@@ -1,6 +1,17 @@
 # JOR · 修改日志
 > 每轮改动逐条留底,最新置顶。块A=summary 原结构增量;块B=wc2026 专属块增量。
 
+## 2026-06-29_1326
+**块A · summary.md(原结构)**
+- [⑦] +1条(py-Kimi三判): Transfermarkt公布约旦世界杯26人名单：总身价20.30M€，塔马里
+**说明**:2026-06-30_1258轮 news_pipeline:新4/进⑦1/拒3/合并-4行
+**检索来源**:transfermarkt.co.za, goal.com, sports.cctv.com, qiaobaous.com
+**块A · summary.md(原结构)**
+- [⑦] +2条(py-Kimi三判): Transfermarkt更新约旦队详细名单：26人总身价20.30M€，平均年
+- [⑦] +2条(py-Kimi三判): 6月27日J组末轮约旦1-3阿根廷，塔马里打入阿根廷本届世界杯首粒丢球，洛塞尔索
+**说明**:2026-06-30_1258轮 news_pipeline:新4/进⑦2/拒2/合并-4行
+**检索来源**:goal.com, transfermarkt.co.za, qiaobaous.com, sports.cctv.com
+
 ## 2026-06-29_0714
 **块A · summary.md(原结构)**
 - 本轮2篇新闻三判全未过(拒因示例:[])

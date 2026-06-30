@@ -1,6 +1,16 @@
 # PAR · 修改日志
 > 每轮改动逐条留底,最新置顶。块A=summary 原结构增量;块B=wc2026 专属块增量。
 
+## 2026-06-29_1326
+**块A · summary.md(原结构)**
+- 本轮7篇新闻三判全未过(拒因示例:[])
+**说明**:2026-06-30_1258轮 news_pipeline:新7/进⑦0/拒0
+**块A · summary.md(原结构)**
+- [⑦] +2条(py-Kimi三判): 巴拉圭1/8决赛vs德国(6/29 21:30波士顿)，德国12年无淘汰赛胜绩、
+- [⑦] +2条(py-Kimi三判): 「巴拉圭以最佳小组第三身份晋级1/16决赛，将迎战E组头名德国」多源核实:spo
+**说明**:2026-06-30_1258轮 news_pipeline:新7/进⑦2/拒5
+**检索来源**:ca.sports.yahoo.com, 163.com, news.bjd.com.cn, cj.sina.com.cn, sportsmole.co.uk, m.sohu.com, app.xinhuanet.com
+
 ## 2026-06-29_0714
 **块A · summary.md(原结构)**
 - 本轮1篇新闻三判全未过(拒因示例:[])

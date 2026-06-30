@@ -1,6 +1,16 @@
 # BEL · 修改日志
 > 每轮改动逐条留底,最新置顶。块A=summary 原结构增量;块B=wc2026 专属块增量。
 
+## 2026-06-29_1326
+**块A · summary.md(原结构)**
+- [⑦] +1条(py-Kimi三判): 比利时0-0伊朗两连平积2分出线告急；多库因呼吸道感染缺席次轮，其妻预产期7月第
+**说明**:2026-06-30_1258轮 news_pipeline:新6/进⑦1/拒5/合并-5行
+**检索来源**:sports.cctv.com, today.line.me, sohu.com, news.qq.com, h5.ifeng.com, au.sports.yahoo.com
+**块A · summary.md(原结构)**
+- 本轮6篇新闻三判全未过(拒因示例:['news.qq.com:新闻内容与比利时队无关，系加拿大球员邦比托伤情', 'au.sports.yahoo.com:该文为6月15日比利时vs埃及战的赛前预测，但发布日期为6月'])
+**说明**:2026-06-30_1258轮 news_pipeline:新6/进⑦0/拒6
+**检索来源**:au.sports.yahoo.com, h5.ifeng.com, today.line.me, news.qq.com, sohu.com, sports.cctv.com
+
 ## 2026-06-29_0714
 **块A · summary.md(原结构)**
 - 本轮2篇新闻三判全未过(拒因示例:[])

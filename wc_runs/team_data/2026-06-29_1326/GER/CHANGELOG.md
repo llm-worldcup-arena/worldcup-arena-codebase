@@ -1,6 +1,16 @@
 # GER · 修改日志
 > 每轮改动逐条留底,最新置顶。块A=summary 原结构增量;块B=wc2026 专属块增量。
 
+## 2026-06-29_1326
+**块A · summary.md(原结构)**
+- 本轮2篇新闻三判全未过(拒因示例:["sportsmole.co.uk:主题级重复：仓库已有'Team News: Germany ", 'ttplus.cn:时间线矛盾：2026年6月30日世界杯期间不应有俱乐部比赛，'])
+**说明**:2026-06-30_1258轮 news_pipeline:新2/进⑦0/拒2
+**检索来源**:ttplus.cn, sportsmole.co.uk
+**块A · summary.md(原结构)**
+- 本轮2篇新闻三判全未过(拒因示例:['sportsmole.co.uk:已有仓库标题「Team News: Germany vs. ', 'ttplus.cn:该新闻描述诺伊尔在世界杯前（4月/5月）对阵杜塞尔多夫的小腿'])
+**说明**:2026-06-30_1258轮 news_pipeline:新2/进⑦0/拒2
+**检索来源**:sportsmole.co.uk, ttplus.cn
+
 ## 2026-06-29_0714
 **块A · summary.md(原结构)**
 - 本轮2篇新闻三判全未过(拒因示例:[])

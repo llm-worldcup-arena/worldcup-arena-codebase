@@ -1,6 +1,20 @@
 # ALG · 修改日志
 > 每轮改动逐条留底,最新置顶。块A=summary 原结构增量;块B=wc2026 专属块增量。
 
+## 2026-06-29_1326
+**块A · summary.md(原结构)**
+- [⑦] +4条(py-Kimi三判): 阿尔及利亚主帅佩特科维奇(62岁)目标小组第二,主踢4-2-3-1(边卫助攻/中
+- [⑦] +4条(py-Kimi三判): J组末轮阿尔及利亚3:3奥地利，贝尔加里45分钟破门，马赫雷斯60分钟+补时双响
+- [⑦] +4条(py-Kimi三判): ESPN统计：阿尔及利亚世界杯阵容数据，马赫雷斯3场2球1助、古伊里3场1球、马
+- [⑦] +4条(py-Kimi三判): 2025年8月28日佩特科维奇公布26人名单备战9月4日对博茨瓦纳、8日对几内亚
+**说明**:2026-06-30_1258轮 news_pipeline:新7/进⑦4/拒3
+**检索来源**:k.sina.com.cn, bbc.com, al24news.dz, worldjournal.com, sports.yahoo.com, transfermarkt.com, espn.co.uk
+**块A · summary.md(原结构)**
+- [⑦] +2条(py-Kimi三判): 阿尔及利亚主帅佩特科维奇(62岁)目标小组次席,惯用4-2-3-1:艾特-努里+
+- [⑦] +2条(py-Kimi三判): ESPN发布阿尔及利亚世界杯26人全数据表：马赫雷斯3场2球1助5射门3射正，古
+**说明**:2026-06-30_1258轮 news_pipeline:新7/进⑦2/拒5/合并-5行
+**检索来源**:worldjournal.com, k.sina.com.cn, al24news.dz, sports.yahoo.com, espn.co.uk, bbc.com, transfermarkt.com
+
 ## 2026-06-29_0714
 **块A · summary.md(原结构)**
 - 本轮3篇新闻三判全未过(拒因示例:[])

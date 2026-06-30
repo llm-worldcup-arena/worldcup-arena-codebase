@@ -1,6 +1,16 @@
 # COD · 修改日志
 > 每轮改动逐条留底,最新置顶。块A=summary 原结构增量;块B=wc2026 专属块增量。
 
+## 2026-06-29_1326
+**块A · summary.md(原结构)**
+- [⑦] +1条(py-Kimi三判): 对手英格兰中场核心赖斯预计7月2日32强赛对刚果（金）首发复出，6月24日小腿遭
+**说明**:2026-06-30_1258轮 news_pipeline:新4/进⑦1/拒3
+**检索来源**:sports.cctv.com, zaobao.com.sg, sports.yahoo.com, news.qq.com
+**块A · summary.md(原结构)**
+- [⑦] +1条(py-Kimi三判): 英格兰中场核心赖斯预计7月2日世界杯32强赛对刚果（金）首发，6月24日对加纳小
+**说明**:2026-06-30_1258轮 news_pipeline:新4/进⑦1/拒3/合并-2行
+**检索来源**:sports.cctv.com, sports.yahoo.com, news.qq.com, zaobao.com.sg
+
 ## 2026-06-29_0714
 **块A · summary.md(原结构)**
 - 本轮5篇新闻三判全未过(拒因示例:[])

@@ -300,6 +300,10 @@ _HANDICAP = {
     ("BRA", "JPN"): -0.5,    # 巴西 -0.5(ActionNetwork 主 spread BRA -0.5/JPN +0.5;RotoWire/DraftKings ML BRA -135、JPN +400,半球档)
     ("GER", "PAR"): -1.5,    # 德国 -1.5(ESPN/DraftKings 明示 GER -1.5 -105;Yahoo PAR +1.5;RotoWire/FOX ML GER -300/-308)
     ("NED", "MAR"): -0.5,    # 荷兰 -0.5(ESPN/DraftKings 明示 NED -0.5 +120/MAR +0.5 -150;90分钟ML NED小热)
+    # —— 6/30 32 强 M77-M79(多源核对 2026-06-30;正值=主队受让) ——
+    ("FRA", "SWE"): -1.5,    # 法国 -1.5(FRA -400 ML / -1000 晋级 巨热 vs SWE +1000;ESPN/CBS/FOX,类比 ENG-GHA/POR-UZB -1.5)
+    ("CIV", "NOR"): +0.5,    # 挪威(客)让0.5(NOR -186 晋级 / +105 ML 中等热 vs CIV +270;Pickswise/ESPN,达拉斯中立场)
+    ("MEX", "ECU"): -0.5,    # 墨西哥 -0.5(MEX +120 ML 微热 / -182 晋级;阿兹特克主场 vs ECU +290;CBS/Pickswise,类比 TUR-PAR -0.5)
 }
 
 

@@ -1,6 +1,19 @@
 # JPN · 修改日志
 > 每轮改动逐条留底,最新置顶。块A=summary 原结构增量;块B=wc2026 专属块增量。
 
+## 2026-06-29_1326
+**块A · summary.md(原结构)**
+- [⑦] +3条(py-Kimi三判): 2026世界杯1/8决赛周一NRG体育场巴西vs日本，日本去年3-2胜巴西但队史
+- [⑦] +3条(py-Kimi三判): 森保一治下日本对欧洲球队7胜1负，26人名单仅3人来自J联赛；三笘薰腿筋撕裂伤退
+- [⑦] +3条(py-Kimi三判): 日本末轮1:1瑞典，三轮不败以小组第二出线；久保建英首战左膝伤退后两轮缺阵，町野
+**说明**:2026-06-30_1258轮 news_pipeline:新5/进⑦3/拒2/合并-8行
+**检索来源**:tw.sports.yahoo.com, sportsmole.co.uk, nippon.com, finance.sina.com.cn, nownews.com
+**块A · summary.md(原结构)**
+- [⑦] +2条(py-Kimi三判): 日本1/8决赛1-2遭巴西绝杀出局，佐野海舟第29分钟远射破门，卡塞米罗第56分
+- [⑦] +2条(py-Kimi三判): 日本1:1瑞典，三轮不败以F组第二出线；三笘薰、远藤航、南野拓实赛前伤缺，久保建
+**说明**:2026-06-30_1258轮 news_pipeline:新5/进⑦2/拒3/合并-2行
+**检索来源**:sportsmole.co.uk, nippon.com, nownews.com, tw.sports.yahoo.com, finance.sina.com.cn
+
 ## 2026-06-29_0714
 **块A · summary.md(原结构)**
 - 本轮1篇新闻三判全未过(拒因示例:[])
