@@ -1,0 +1,24 @@
+{
+ "source": "realmadrid.com",
+ "url": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/cronica-francia-suecia-16avos-final-mundial-29-06-2026",
+ "title": "3-0: Mbappé",
+ "published": "2026-06-29T22:50:00.000Z",
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-30",
+  "home": "FRA",
+  "away": "SWE",
+  "home_en": "France",
+  "away_en": "Sweden",
+  "home_zh": "法国",
+  "away_zh": "瑞典",
+  "comp": "r32",
+  "match_id": "M77",
+  "slug": "2026-06-30_FRA_vs_SWE"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "France qualified for the Round of 16 of the World Cup after defeating Sweden in New Jersey. Mbappé, chosen as the MVP of the match, was instrumental with a brace that brought his tally to six goals in the tournament and made him, with 10 goals, the top scorer in the history of World Cup knockout stage matches, surpassing Leônidas and Ronaldo (8). Tchouameni was also in the starting lineup and played the entire match.\n\nAfter an evenly matched start, France stepped up their attack midway through the first half. Before the break, Mbappé put his team ahead after outmaneuvering his defender with an excellent dribble and finishing with a cross-shot inside the box (45’). After halftime, Barcola made it 2-0 in the 53rd minute, and our forward sealed the victory by completing his brace with a right-footed shot that secured the definitive 3-0 win (74’). France is now in the Round of 16, where they will face Paraguay.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

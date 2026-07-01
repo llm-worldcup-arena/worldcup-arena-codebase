@@ -1,0 +1,24 @@
+{
+ "source": "cronica.com.ec",
+ "url": "https://cronica.com.ec/2026/06/30/ecuador-se-despide-del-mundial-2026-tras-caer-2-0-frente-a-mexico/",
+ "title": "Ecuador se despide del Mundial 2026 tras caer 2-0 frente a México",
+ "published": "2026-07-01T04:14:18+00:00",
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-30",
+  "home": "MEX",
+  "away": "ECU",
+  "home_en": "Mexico",
+  "away_en": "Ecuador",
+  "home_zh": "墨西哥",
+  "away_zh": "厄瓜多尔",
+  "comp": "r32",
+  "match_id": "M79",
+  "slug": "2026-06-30_MEX_vs_ECU"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "La selección de Ecuador puso fin a su participación en el Mundial de Estados Unidos, México y Canadá 2026 luego de perder 2-0 ante México este martes 30 de junio en el Estadio Azteca, en un compromiso correspondiente a los dieciseisavos de final. Con este resultado, el combinado anfitrión avanzó a los octavos de final, mientras que La Tri cerró su campaña mundialista.\n\nDesde el inicio del encuentro, el conjunto mexicano tomó la iniciativa con presión y un manejo constante del balón, lo que dificultó la salida del equipo dirigido por Sebastián Beccacece. Ecuador tuvo problemas para asentarse en el campo y pasó buena parte del primer tiempo defendiendo los ataques del rival.\n\nLa insistencia de México encontró recompensa antes del descanso. Julián Quiñones abrió el marcador tras una jugada colectiva bien elaborada y, minutos después, Raúl Jiménez amplió la ventaja para dejar el 2-0 con el que ambos equipos se fueron al entretiempo.\n\nPese al complicado panorama, Ecuador intentó reaccionar. La oportunidad más clara llegó con un remate de John Yeboah que se estrelló en el poste cuando el marcador todavía era de 1-0, una acción que pudo cambiar el rumbo del partido.\n\nEn la segunda mitad, La Tri adelantó sus líneas y buscó generar mayor peligro en el área rival, pero se encontró con una defensa mexicana ordenada y un equipo local que administró la ventaja con inteligencia. Aunque Ecuador mostró una mejor versión tras el descanso, no logró encontrar el gol que lo devolviera al partido.\n\nCon el resultado, México -con una campaña perfecta- confirmó su clasificación a los octavos de final y ratificó el buen nivel mostrado durante el torneo. En cambio, Ecuador se despidió del Mundial después de una actuación que incluyó una histórica remontada frente a Alemania para acceder a la fase eliminatoria, pero que terminó ante un rival que fue más efectivo en los momentos decisivos.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

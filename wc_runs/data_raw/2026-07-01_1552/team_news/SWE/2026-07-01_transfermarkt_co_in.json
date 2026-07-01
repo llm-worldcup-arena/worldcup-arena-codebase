@@ -1,0 +1,16 @@
+{
+ "team": "SWE",
+ "source": "transfermarkt.co.in",
+ "url": "https://www.transfermarkt.co.in/sweden/kader/verein/3557",
+ "title": "Sweden - Detailed squad 2026 | Transfermarkt",
+ "news_date": "2026-07-01",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-07-01",
+ "fetched": "2026-07-01_1552",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "This page displays a detailed overview of the club's current squad. It shows all personal information about the players, including age, nationality, contract duration and market value. It also contains a table with average age, cumulative market value and average market value for each player position and overall.\n#PlayerAgeClubMarket value\n12\n\nViktor Johansson\nGoalkeeper\n27 ₹96 Cr\n1\n\nJacob Widell Zetterström\nGoalkeeper\n27 ₹20 Cr\n23\n\nKristoffer Nordfeldt\nGoalkeeper\n37 ₹1.4 Cr\n4\n\nIsak Hien\nCentre-Back\n27 ₹176 Cr\n2\n\nGustaf Lagerbielke\nCentre-Back\n26 ₹80 Cr\n3\n\nVictor Lindelöf\nCentre-Back\n31 ₹40 Cr\n14\n\nHjalmar Ekdal\nCentre-Back\n27 ₹40 Cr\n20\n\nEric Smith\nCentre-Back\n29 ₹40 Cr\n15\n\nCarl Starfelt\nCentre-Back\n31 ₹36 Cr\n8\n\nDaniel Svensson\nLeft-Back\n24 ₹176 Cr\n5\n\nGabriel Gudmundsson\nLeft-Back\n27 ₹160 Cr\n13\n\nKen Sema\nLeft-Back\n32 ₹6.4 Cr\n16\n\nJesper Karlström\nDefensive Midfield\n31 ₹32 Cr\n7\n\nLucas Bergvall\nCentral Midfield\n20 ₹280 Cr\n18\n\nYasin Ayari\nCentral Midfield\n22 ₹280 Cr\n19\n\nMattias Svanberg\nCentral Midfield\n27 ₹64 Cr\n22\n\nBesfort Zeneli\nCentral Midfield\n23 ₹48 Cr\n6\n\nHerman Johansson\nRight Midfield\n28 ₹14.4 Cr\n24\n\nElliot Stroud\nLeft Midfield\n24 ₹64 Cr\n10\n\nBenjamin Nygren\nAttacking Midfield\n24 ₹112 Cr\n26\n\nTaha Ali\nLeft Winger\n28 ₹12 Cr\n11\n\nAnthony Elanga\nRight Winger\n24 ₹256 Cr\n21\n\nAlexander Bernhardsson\nRight Winger\n27 ₹24 Cr\n9\n\nAlexander Isak\nCentre-Forward\n26 ₹680 Cr\n17\n\nViktor Gyökeres\nCentre-Forward\n28 ₹520 Cr\n25\n\nGustaf Nilsson\nCentre-Forward\n29 ₹14.4 Cr\nSquad details by position\nPosition ø-Age Market value ø-Market value\nGoalkeeper 31.0 ₹117 Cr ₹39.13 Cr\nDefender 28.7 ₹754 Cr ₹83.82 Cr\nMidfield 25.4 ₹894 Cr ₹112 Cr\nAttack 27.3 ₹1,506 Cr ₹251 Cr\nTotal: 27.6 ₹3,273 Cr ₹126 Cr\nRevoke Tracking\nSie haben erfolgreich Ihre Einwilligung in die Nutzung von Transfermarkt mit Tracking und Cookies widerrufen. Sie können sich jetzt zwischen dem Contentpass-Abo und der Nutzung mit personalisierter Werbung, Cookies und Tracking entscheiden.\nRevoke Tracking\nSie haben erfolgreich Ihre Einwilligung in die Nutzung von Transfermarkt mit Tracking und Cookies widerrufen. Sie können sich jetzt zwischen dem Contentpass-Abo und der Nutzung mit personalisierter Werbung, Cookies und Tracking entscheiden.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

@@ -1,0 +1,16 @@
+{
+ "team": "SWE",
+ "source": "sportsmole.co.uk",
+ "url": "https://www.sportsmole.co.uk/football/france/world-cup-2026/team-news/france-vs-sweden-injury-suspension-list-predicted-xis_600359.html",
+ "title": "Team News: France vs. Sweden injury, suspension list, predicted XIs | World Cup 2026 - Sports Mole",
+ "news_date": "2026-06-29",
+ "published": "2026-06-29T21:00:00Z",
+ "tier": "2",
+ "lang": "es",
+ "asof": "2026-07-01",
+ "fetched": "2026-07-01_1552",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "France and Sweden will begin their knockout campaigns at the 2026 World Cup on Tuesday, when they clash at New York New Jersey Stadium.\n\nHaving finished first in their group with nine points from nine, many will expect France to beat Sweden, who finished third in Group F with four points.\n\nHere, Sports Mole rounds up the team news for both nations.\n\nGet FREE daily news and in-depth previews for games from the biggest leagues and competitions in world football — straight to your inbox.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

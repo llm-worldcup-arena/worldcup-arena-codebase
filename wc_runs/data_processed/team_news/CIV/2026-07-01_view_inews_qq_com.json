@@ -1,0 +1,16 @@
+{
+ "team": "CIV",
+ "source": "view.inews.qq.com",
+ "url": "https://view.inews.qq.com/k/20260530A02BBH00?scene=wap&no-redirect=1",
+ "title": "科特迪瓦队官方：阿克帕因伤无缘世界杯，土超后卫奥皮顶替",
+ "news_date": "2026-07-01",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-07-01",
+ "fetched": "2026-07-01_1552",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "雷速体育5月30日讯 科特迪瓦国家队官方宣布，球队后卫阿克帕受伤，无缘参加世界杯。\n\n据悉，阿克帕将因伤缺席世界杯，他的位置由土超球队巴萨克赛尔球员克里斯托弗·奥皮顶替。此前，奥皮已经被列入了科特迪瓦国家队的替补名单中。\n\n现年24岁的欧塞尔后卫阿克帕，本赛季在法甲联赛出战26次，是球队的绝对主力。而奥皮本赛季代表巴萨克赛尔出战22场土超，送出4次助攻。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

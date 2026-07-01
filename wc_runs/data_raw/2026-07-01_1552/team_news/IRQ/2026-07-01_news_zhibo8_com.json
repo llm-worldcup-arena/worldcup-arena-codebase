@@ -1,0 +1,16 @@
+{
+ "team": "IRQ",
+ "source": "news.zhibo8.com",
+ "url": "https://news.zhibo8.com/zuqiu/2026-06-07/6a2474fb8ff37native.htm",
+ "title": "伊拉克国家队官方：后卫叶海亚受伤，征召艾哈迈德·麦肯齐入替-直播吧",
+ "news_date": "2026-07-01",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-07-01",
+ "fetched": "2026-07-01_1552",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "直播吧6月7日讯 伊拉克国家队官方宣布，由于后卫艾哈迈德·叶海亚的后腿肌肉遭受二级拉伤，需要休息和治疗四周时间。因此，国家队主帅格雷厄姆·阿诺德决定征召艾哈迈德·麦肯齐入替。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

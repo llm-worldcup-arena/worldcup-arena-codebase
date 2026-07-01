@@ -1,0 +1,16 @@
+{
+ "team": "QAT",
+ "source": "mlssoccer.com",
+ "url": "https://www.mlssoccer.com/competitions/fifa-world-cup/news/2026-fifa-world-cup-all-squads",
+ "title": "2026 FIFA World Cup: All Squads | MLSSoccer.com",
+ "news_date": "2026-07-01",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-07-01",
+ "fetched": "2026-07-01_1552",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "The 2026 FIFA World Cup is finally here, and all 48 teams have officially locked in their 26-man rosters for this summer's tournament.\n\nWant to know which players will represent their countries on the game's biggest stage?\n\nCheck out all rosters below as games unfold from June 11 to July 19 across the United States, Mexico and Canada.\n\nMLS players who were selected to play at the 2026 World Cup are in bold.\n\nGoalkeepers (3): Maxime Crépeau , Owen Goodman, Dayne St. Clair\n\nForwards (9): Josué Casimir, Louicius Deedson , Derrick Etienne Jr. , Yassin Fortune, Wilson Isidor, Lenny Joseph, Duckens Nazon, Frantzdy Pierrot, Ruben Providence\n\nGet the latest from MLS: league news, must-see matches, kit drops, premium offers for the World’s biggest event, and more!",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

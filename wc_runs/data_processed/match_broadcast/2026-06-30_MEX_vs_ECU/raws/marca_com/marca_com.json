@@ -1,0 +1,24 @@
+{
+ "source": "marca.com",
+ "url": "https://www.marca.com/mx/futbol/mundial/cronica/2026/07/01/6a44832446163fb60f8b45c2.html",
+ "title": "Resumen y goles México vs Ecuador: Javier Aguirre y la Selección Mexicana hacen historia y esperan rival en Octavos de Final",
+ "published": "2026-07-01T04:02:13Z",
+ "tier": "2",
+ "lang": "es",
+ "match": {
+  "date": "2026-06-30",
+  "home": "MEX",
+  "away": "ECU",
+  "home_en": "Mexico",
+  "away_en": "Ecuador",
+  "home_zh": "墨西哥",
+  "away_zh": "厄瓜多尔",
+  "comp": "r32",
+  "match_id": "M79",
+  "slug": "2026-06-30_MEX_vs_ECU"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Javier Aguirre lo logra. Después de un cuasi perfecto encuentro contra la selección de Ecuador, la Selección Mexicana por fin logra llegar al famoso quinto partido desde que el propio Javier, como jugador, lo lograra con el Tricolor en el Mundial México 86. Julián Quiñones, Raúl Jiménez, Piojo Alvarado, Gilberto Mora y el resto del Tricolor dieron cátedra ante un Ecuador falto de profundidad, y superan por primera vez en 40 años un juego de eliminación directa, manteniendo el invicto en el Estadio Azteca. Con una merecida victoria sobre Ecuador, gracias a los goles de Quiñonez y Jiménez, el Vasco puede decir &quot;misión cumplida&quot;. Pero Aguirre y el Tri quieren más. Ahora, esperarán al ganador del Inglaterra - Congo para saber cuál será su rival en Octavos de Final, en juego que se llevará a cabo el próximo domingo en el Estadio Azteca, en el que será el último juego del Mundial 2026 en México. Primera mitad de dominio absoluto Desde el silbatazo inicial, México impuso condiciones. Gilberto Mora y Roberto Alvarado se conectaron bien por la derecha y generaron las primeras llegadas. Al minuto 5, Mora probó con un disparo lejano. Poco después, Raúl Jiménez cabeceó desviado, pero el Azteca ya rugía. Ecuador apenas tuvo una aproximación al 17&apos;, cuando un tiro de Yeboah pegó en el poste izquierdo de Raúl &apos;Tala&apos; Rangel. Fue el único susto para México en la primera parte. Al minuto 22, llegó el gol que abrió el partido. Un pase largo de Roberto Alvarado encontró a Julián Quiñones, quien recortó dentro del área y sacó un derechazo cruzado que venció a Galíndez. El Azteca explotó. México 1-0.La ventaja se amplió al 30&apos;. Un error defensivo ecuatoriano permitió que Raúl Jiménez definiera con un potente disparo al ángulo superior izquierdo. 2-0. México dominaba con autoridad y se fue al descanso con una ventaja cómoda. Segunda mitad: control y sustituciones En el complemento, Ecuador intentó presionar, pero le faltó profundidad. México mantuvo el orden y administró el resultado. Al 58&apos;, Gilberto Mora salió para darle entrada a Brian Gutiérrez. Tras la pausa de hidratación, Aguirre movió el banco: entraron Obed Vargas y Santiago Giménez por Jiménez y Romo. Al 79&apos;, Orbelín Pineda y Jesús Reyes reemplazaron a Quiñones y Alvarado. Ecuador tuvo más posesión en el segundo tiempo, pero nunca generó peligro real. Al 89&apos;, Giménez desperdició un contragolpe claro con un mal pase. Al minuto 94, Hincapié fue expulsado tras una fuerte protesta (se tapó la boca y le dijo algo a Santiago Giménez). Tras revisión del VAR, recibió la roja directa. El árbitro añadió 7 minutos de compensación, pero México aguantó con inteligencia y cerró el partido con una victoria que ya es histórica México, con paso firme hacia la gloria Con este triunfo, el Tri ahora espera rival en cuartos con la moral por las nubes. Javier Aguirre ha logrado lo que pocos técnicos mexicanos: un equipo sólido, compacto y peligroso. La afición mexicana vivió una noche inolvidable en el Azteca. El sueño de llegar lejos en casa sigue vivo. México ya está entre los 16 mejores del mundo. Para Javier Aguirre, la gloria será superar el próximo domingo a Inglaterra o República Democrática del Congo en el Azteca. Y tiene todo para conseguirlo. View this post on Instagram A post shared by MARCA México (@marca_mexico)",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

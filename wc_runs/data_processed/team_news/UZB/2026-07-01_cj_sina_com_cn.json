@@ -1,0 +1,16 @@
+{
+ "team": "UZB",
+ "source": "cj.sina.com.cn",
+ "url": "https://cj.sina.com.cn/articles/view/7879995911/1d5af3207068020ati?froms=ggmp",
+ "title": "乌兹别克斯坦进球队员名字？2026世界杯完整名单__财经头条__新浪财经",
+ "news_date": "2026-07-01",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-07-01",
+ "fetched": "2026-07-01_1552",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "截至2026年06月28日，2026美加墨世界杯乌兹别克斯坦正赛进球队员共有2名，热身赛另有2名进球队员，完整名单如下：\n2026美加墨世界杯正赛进球队员\n小组赛第1轮（乌兹别克斯坦1-3哥伦比亚）：法伊祖拉耶夫（费祖拉耶夫）Abbosbek Fayzullaev，第61分钟破门，这是乌兹别克队史世界杯正赛首球。\n小组赛第2轮（葡萄牙5-0乌兹别克斯坦）：乌兹别克斯坦无进球\n小组赛第3轮（刚果(金)3-1乌兹别克斯坦）：肖穆罗多夫Eldor Shomurodov（14号前锋），第10分钟小角度吊射破门\n世界杯正赛全部进球者汇总：\n法伊祖拉耶夫（Abbosbek Fayzullaev）\n肖穆罗多夫（Eldor Shomurodov）\n世界杯热身赛进球队员\n荷兰2-1乌兹别克斯坦热身赛中，乌兹别克斯坦进球队员为：\n哈姆达莫夫Dostonbek Hamdamov\n乌鲁诺夫Oston Urunov\n头条号入驻\n新浪财经头条意见反馈留言板\n4001102288 欢迎批评指正",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

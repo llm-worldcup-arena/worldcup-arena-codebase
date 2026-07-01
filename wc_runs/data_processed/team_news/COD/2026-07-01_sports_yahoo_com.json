@@ -1,0 +1,16 @@
+{
+ "team": "COD",
+ "source": "sports.yahoo.com",
+ "url": "https://sports.yahoo.com/articles/england-xi-vs-dr-congo-180417277.html",
+ "title": "England XI vs DR Congo: Predicted lineup, confirmed team news, injury latest for World Cup - Yahoo Sports",
+ "news_date": "2026-07-01",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-07-01",
+ "fetched": "2026-07-01_1552",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "England XI vs DR Congo: Predicted lineup, confirmed team news, injury latest for World Cup\nEngland XI vs DR Congo: Predicted lineup, confirmed team news, injury latest for World Cup\nThomas Tuchel is juggling a right-back crisis for England's World Cup round of 32 match tonight against DR Congo.\nJarell Quansah suffered an injury that forced him off against Panama and that leaves England with no fit right-backs for Wednesday's match in Atlanta.\nAdvertisement\nIt comes after Tino Livramento dropped out of England's World Cup squad on the eve of the tournament with a calf injury and then Reece James suffered a hamstring issue that kept him out of Panama and will see him miss DR Congo. Both he and Quansah will be unavailable after missing training on Tuesday.\nJames has a history of injury and had started both of England's first two games of the tournament.\nTuchel may have to turn to Djed Spence — who is in the squad as a left-back — or shift centre-back Ezri Konsa to the right and bring John Stones back in centrally as he looks for a solution at right-back.\nVersatile: Djed Spence (Getty)\n\"A classic ankle twist and he is in pain,\" Tuchel said of Quansah's injury. \"He said he had it before and it is a matter of days. He has his leg up high and in ice.\nAdvertisement\n\"Naturally, of course [I am worried about the right-back situation]. We have another injury in the position. It will be a tight race for Reece James and a tight race for Jarell Quansah, but it is our job to find solutions and we will do.\"\nIn midfield, Declan Rice will be back available after he was handed a rest against Panama, and that is likely to see Jude Bellingham - used as a No8 in Rice's absence - shift up and return to the No10 role.\nTuchel must decide between Bukayo Saka and Noni Madueke on the right wing and between Anthony Gordon and Marcus Rashford on the left.\nPredicted England XI vs Croatia (4-2-3-1): Pickford; Konsa, Stones, Guehi, O'Reilly; Anderson, Rice; Saka, Bellingham, Rashford; Kane\nInjured: James, Quansah\nTime and date: 5pm BST on Wednesday, July 1, 2026\nVenue: Atlanta Stadium, Atlanta, Georgia",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

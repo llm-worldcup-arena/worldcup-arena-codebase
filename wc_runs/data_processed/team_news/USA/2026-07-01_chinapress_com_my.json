@@ -1,0 +1,16 @@
+{
+ "team": "USA",
+ "source": "chinapress.com.my",
+ "url": "https://www.chinapress.com.my/20260620/2026%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BD%9C%E4%B8%8D%E4%B8%80%E6%A0%B7%E7%9A%84%E4%BC%A4%E5%81%9C%EF%BC%81%E8%A3%81%E5%88%A4%E6%8A%BD%E7%AD%8B%E5%80%92%E5%9C%B0-%E7%90%83/",
+ "title": null,
+ "news_date": "2026-07-01",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-07-01",
+ "fetched": "2026-07-01_1552",
+ "method": "fail",
+ "status": "blocked",
+ "original_text": "",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

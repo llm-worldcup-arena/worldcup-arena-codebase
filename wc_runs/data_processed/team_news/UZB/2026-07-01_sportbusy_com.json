@@ -1,0 +1,16 @@
+{
+ "team": "UZB",
+ "source": "sportbusy.com",
+ "url": "https://www.sportbusy.com/world-cup-2026/teams/uzbekistan/players/",
+ "title": "Uzbekistan World Cup 2026 Players",
+ "news_date": "2026-07-01",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-07-01",
+ "fetched": "2026-07-01_1552",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "26 players linked to team-scoped World Cup pages.\n\nThis page lists every Uzbekistan player at the 2026 FIFA World Cup with a direct link to each individual profile showing position, age, goals, assists, and full stat breakdown.\n\nUzbekistan brings a 26-player squad. Three must be designated goalkeepers. The total count for this squad is shown in the hero section above.\n\nEach player profile shows: position, age, nationality, appearances (App), sub appearances (Sub), goals (G), assists (A), shots (Sh), shots on target (SoT), yellow cards (YC), red cards (RC), and goalkeeper stats (SV, GA, ST) where available.\n\nUzbekistan's standout performers are accessible on individual player pages below. Goals, assists, and appearances data will update throughout the tournament as match data is ingested.\n\nGoal scorers are shown in the Goals (G) column on each player profile page. Stats update through the data pipeline as tournament matches finish.\n\nYes. Every player profile page and this team player hub include links back to the main Uzbekistan team page showing the full schedule, group standings, and complete roster table.\n\nPlayer ages are listed in the Age column on each individual player page and in the main team roster table. Visit any player's profile to see their exact age.\n\nPosition data is shown in the Position (Pos) column on every player profile page. The team roster table also displays positions for all squad members at a glance.\n\nYes. Player URLs are team-scoped (/world-cup-2026/teams/[team]/players/[player]/) to maintain country context and prevent content duplication.\n\nYes. Pages revalidate every 5 minutes via ISR. New stats ingested from the data pipeline appear on player pages shortly after match data is processed.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

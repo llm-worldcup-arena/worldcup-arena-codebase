@@ -1,0 +1,16 @@
+{
+ "team": "HAI",
+ "source": "h5.ifeng.com",
+ "url": "https://h5.ifeng.com/c/vivoArticle/v0028j6RvRgohz--n--Z4OHT4mbqlIlzpbd--KDDM7Ys4M7sCw__?isNews=1&showComments=0",
+ "title": "官方：梅图萨拉顶替受伤的皮埃尔进入海地队世界杯参赛名单",
+ "news_date": "2026-07-01",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-07-01",
+ "fetched": "2026-07-01_1552",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "经队医检查，莱弗顿-皮埃尔右侧内收肌二级损伤，将无缘本届世界杯。教练组征召梅图萨拉入队顶替，后者将前往波士顿与球队会合。(公告完)\n\n梅图萨拉现年26岁，司职后卫，目前效力于美乙俱乐部科罗拉多泉波路。现在他在德转上的身价为20万欧元。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

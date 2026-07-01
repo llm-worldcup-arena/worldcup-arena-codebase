@@ -1,0 +1,24 @@
+{
+ "source": "aljazeera.com",
+ "url": "https://www.aljazeera.com/sports/2026/6/30/france-sweden-fifa-world-cup-round-of-32-prediction-schedule-lineups-mbappe-dembele",
+ "title": "Can Mbappe and Dembele lead France to the last-16? Sweden test awaits",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-30",
+  "home": "FRA",
+  "away": "SWE",
+  "home_en": "France",
+  "away_en": "Sweden",
+  "home_zh": "法国",
+  "away_zh": "瑞典",
+  "comp": "r32",
+  "match_id": "M77",
+  "slug": "2026-06-30_FRA_vs_SWE"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Kylian Mbappe’s France, the title favourites for the 2026 World Cup, take on Alexander Isak’s Sweden in the last 32.\n\nFive wins to go. How can your team reach the final and win World Cup 2026? Click here to find out or here to follow our live coverage of France against Sweden.\n\nWho : France vs Sweden\nWhat : FIFA World Cup 2026 – Round of 32\nWhere : New York New Jersey Stadium, East Rutherford, USA\nWhen : Tuesday, June 30, at 5pm (21:00 GMT)\nHow to follow : We will have all the build-up on",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

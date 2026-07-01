@@ -1,0 +1,16 @@
+{
+ "team": "ESP",
+ "source": "k.sina.com.cn",
+ "url": "https://k.sina.com.cn/article_2747143811_a3be168304001g8v2.html?from=sports&subch=osport",
+ "title": "西班牙队两将伤退世界杯，尼科威廉斯皮诺伤缺",
+ "news_date": "2026-06-28",
+ "published": "2026-06-28 10:56:59",
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-07-01",
+ "fetched": "2026-07-01_1552",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "【伤停】《马卡报》：西班牙队两名边锋中度受伤，尼科-威廉斯右腿内收肌肌肉受伤，耶雷米-皮诺肩锁关节扭伤，两人都有可能无缘世界杯剩余比赛，这使得西班牙边路的安排成为了难题。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

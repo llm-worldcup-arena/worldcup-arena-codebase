@@ -1,0 +1,16 @@
+{
+ "team": "CIV",
+ "source": "rotowire.com",
+ "url": "https://www.rotowire.com/soccer/headlines/wilfried-singo-injury-set-for-recovery-period-520684",
+ "title": "Wilfried Singo Injury: Set for recovery period | RotoWire",
+ "news_date": "2026-07-01",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-07-01",
+ "fetched": "2026-07-01_1552",
+ "method": "jsonld:articleBody",
+ "status": "ok",
+ "original_text": "Singo will nonetheless observe a period of rest and treatment over the coming days to allow for optimal recovery, with the medical staff taking a cautious approach despite the encouraging test results. The Ivorian federation confirmed they will closely monitor his condition as it evolves, leaving his availability for any subsequent fixtures dependent on how he responds to the rest period. The positive medical update is welcome news for Ivory Coast heading into the remainder of their World Cup campaign.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

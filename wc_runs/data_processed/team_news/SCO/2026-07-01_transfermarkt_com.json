@@ -1,0 +1,16 @@
+{
+ "team": "SCO",
+ "source": "transfermarkt.com",
+ "url": "https://www.transfermarkt.com/scotland/sperrenundverletzungen/verein/3380",
+ "title": "Scotland - Suspensions and injuries | Transfermarkt",
+ "news_date": "2026-07-01",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-07-01",
+ "fetched": "2026-07-01_1552",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "This table lists all players who are injured, sick and suspended, and those, who are at risk of facing suspension.\nNo information available.\nRisk of suspension\nThis table lists all players who are injured, sick and suspended, and those, who are at risk of facing suspension.\nNo information available.\nRevoke Tracking\nSie haben erfolgreich Ihre Einwilligung in die Nutzung von Transfermarkt mit Tracking und Cookies widerrufen. Sie können sich jetzt zwischen dem Contentpass-Abo und der Nutzung mit personalisierter Werbung, Cookies und Tracking entscheiden.\nRevoke Tracking\nSie haben erfolgreich Ihre Einwilligung in die Nutzung von Transfermarkt mit Tracking und Cookies widerrufen. Sie können sich jetzt zwischen dem Contentpass-Abo und der Nutzung mit personalisierter Werbung, Cookies und Tracking entscheiden.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

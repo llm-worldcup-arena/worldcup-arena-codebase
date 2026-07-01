@@ -1,0 +1,16 @@
+{
+ "team": "EGY",
+ "source": "h5.ifeng.com",
+ "url": "https://h5.ifeng.com/c/vivoArticle/v002KqVK-_ezyC4Ccpt-_eXS--kFd125VK--1t--Zi9lkaYpGo5E__?vivoBusiness=hiboardnews",
+ "title": "埃及主帅：萨拉赫等三人均遭遇伤情，将接受医学检查",
+ "news_date": "2026-07-01",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-07-01",
+ "fetched": "2026-07-01_1552",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "北京时间6月27日，据欧足联官方报道，埃及队主帅胡萨姆-哈桑确认萨拉赫等三人伤情。\n\n胡萨姆-哈桑确认，埃及国家队队长穆罕默德-萨拉赫在对阵伊朗的比赛中感到后侧肌肉疼痛，这导致他在下半场被换下。\n\n哈桑还表示，埃及队左后卫艾哈迈德-法托也感到后侧疼痛，穆罕默德-阿卜杜勒穆奈姆则遭遇脚踝挫伤。\n\n哈桑指出，萨拉赫、法托和穆罕默德-阿卜杜勒穆奈姆将按计划接受影像检查和医学检测，由队医穆罕默德-阿布-阿拉监督，以确认他们的状况，并确定三人的康复治疗方案。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}
