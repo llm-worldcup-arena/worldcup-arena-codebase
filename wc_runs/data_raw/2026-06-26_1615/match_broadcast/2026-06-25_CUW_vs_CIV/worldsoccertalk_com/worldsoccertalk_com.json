@@ -1,0 +1,24 @@
+{
+ "source": "worldsoccertalk.com",
+ "url": "https://worldsoccertalk.com/world-cup/curacao-vs-ivory-coast-projected-lineups-for-the-2026-world-cup-group-e-game/",
+ "title": "Curacao vs Ivory Coast: Confirmed lineups for the 2026 World Cup Group E game",
+ "published": "2026-06-25T13:18:33-04:00",
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-25",
+  "home": "CUW",
+  "away": "CIV",
+  "home_en": "Curaçao",
+  "away_en": "Ivory Coast",
+  "home_zh": "库拉索",
+  "away_zh": "科特迪瓦",
+  "comp": "小组赛·E组",
+  "match_id": "M55",
+  "slug": "2026-06-25_CUW_vs_CIV"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Curacao and the Ivory Coast enter their final Group E match of the 2026 FIFA World Cup knowing that one moment could decide their tournament fate. This has become one of the most important fixtures of the group stage, with both national teams chasing a place in the knockout rounds.\n\nThe Ivory Coast national team arrives with the advantage, while the Curacao national team is fighting for a historic opportunity on its World Cup debut. The stakes are extremely high: one side needs only a positive result to advance, while the other must deliver a memorable victory to keep its dream alive.\n\nThe match at Lincoln Financial Field in Philadelphia represents a defining moment for both teams. Ivory Coast can secure qualification with a win or draw, while Curacao likely needs all three points to continue its historic World Cup journey. In fact, the latter has already created one of the tournament’s biggest stories by earning its first-ever World Cup point.\n\nAfter suffering a heavy 7-1 defeat against Germany in its opening match, the Caribbean side responded with a remarkable defensive performance in a 0-0 draw against Ecuador. Goalkeeper Eloy Room became the hero of that match, producing a record-breaking display with 15 saves to keep Ecuador from scoring.\n\nHis performance gave Curacao the belief that another strong defensive effort could put the national team within reach of the knockout rounds. However, Curacao cannot rely only on another defensive miracle. The national team must find a way to create more attacking opportunities against an Ivory Coast side that has shown quality and balance throughout the tournament.\n\nIvory Coast looks to finish strong after dramatic Germany defeat\n\nIvory Coast enters the match with confidence despite suffering a painful late defeat against Germany. The Elephants looked close to securing qualification after taking the lead, but Germany scored a stoppage-time winner to claim a 2-1 victory.\n\nThe African side had previously opened the tournament with a 1-0 win over Ecuador, thanks to a late goal from Amad Diallo. That result placed the Ivory Coast in a strong position, and another positive result against Curacao would guarantee progress.\n\nManager Emerse Fae has built a disciplined team that combines defensive organization with exciting attacking talent. Young winger Yan Diomande has been one of Ivory Coast’s standout performers, creating chances and providing a constant threat on the wing.\n\nThe return of key defensive figures has also strengthened the squad. Evan N’Dicka is available again, giving Ivory Coast more experience at the back as the national team attempts to reach the knockout stage for the first time in its history.\n\nLivano Comenencia #8 of Curacao celebrates scoring his team’s first goal vs Germany.\n\nCuracao vs Ivory Coast: Confirmed lineups\n\nCuracao confirmed starting XI (5-4-1): Room; Brenet, Gaari, Obispo, Floranus, Fonville; Tahith Chong, Comenencia, Leandro Bacuna, Juninho Bacuna; Locadia.\n\nIvory Coast confirmed starting XI (4-2-4): Fofana; Guela Doue, Ousmane Diomande, Odilon Kossounou, Christopher Operi; Sangare, Kessie; Amad Diallo, Bonny, Yan Diomande, Nicolas Pepe.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

@@ -1,0 +1,16 @@
+{
+ "team": "ECU",
+ "source": "163.com",
+ "url": "https://www.163.com/dy/article/KUB74O7I0549BAP0.html",
+ "title": "厄瓜多尔大名单：凯塞多领衔，威廉-帕乔、因卡皮耶在列",
+ "news_date": "2026-06-01",
+ "published": "2026-06-01T11:13:36+08:00",
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-27",
+ "fetched": "2026-06-27_1312",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "北京时间6月1日，厄瓜多尔公布世界杯大名单。其中， 凯塞多 领衔，威廉-帕乔、埃斯图皮尼安、因卡皮耶在列。\n\n特别声明：以上内容(如有图片或视频亦包括在内)为自媒体平台“网易号”用户上传并发布，本平台仅提供信息存储服务。\n\nNotice: The content above (including the pictures and videos if any) is uploaded and posted by a user of NetEase Hao, which is a social media platform and only provides information storage services.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

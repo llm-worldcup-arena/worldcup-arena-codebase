@@ -1,0 +1,24 @@
+{
+ "source": "rg.org",
+ "url": "https://rg.org/en-ca/news/soccer/ecuador-beat-germany-reach-world-cup-knockout-stage",
+ "title": "Ecuador Beat Germany 2-1 to Reach World Cup Knockout Stage",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-25",
+  "home": "ECU",
+  "away": "GER",
+  "home_en": "Ecuador",
+  "away_en": "Germany",
+  "home_zh": "厄瓜多尔",
+  "away_zh": "德国",
+  "comp": "小组赛·E组",
+  "match_id": "M56",
+  "slug": "2026-06-25_ECU_vs_GER"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Ecuador recovered from an early deficit to beat Germany 2-1, with Gonzalo Plata’s late goal securing a World Cup knockout place (Photo by Buda Mendes/Getty Images)\nEcuador recovered from conceding inside two minutes to defeat Germany 2-1 and secure a place in the knockout stage of the 2026 FIFA World Cup.\nLeroy Sané gave Germany an immediate lead, but Nilson Angulo responded with Ecuador’s first goal of the tournament seven minutes later. Gonzalo Plata then scored the decisive goal in the 77th minute, sending Sebastián Beccacece’s team into the Round of 32.\nGermany remained top of Group E despite the defeat, finishing ahead of Ivory Coast because of their head-to-head result. Ecuador placed third with four points and advanced as one of the best third-placed teams.\nAngulo Cancels Out Sané’s Early Opener\nGermany needed only one minute and 49 seconds to take the lead. Florian Wirtz worked his way through a crowded area and found Sané, who directed a left-footed finish beyond Hernán Galíndez.\nThe goal was reviewed after Ecuador appealed for a high boot by Aleksandar Pavlović during the buildup, but VAR allowed it to stand.\nEcuador responded quickly after Pedro Vite dispossessed Felix Nmecha outside the German penalty area. Vite moved the ball to Angulo, who curled a long-range effort into the bottom corner in the ninth minute.\nIt was Ecuador’s first goal of the tournament, coming with their 40th shot following a 1-0 defeat to Ivory Coast and a goalless draw with Curaçao.\nGermany continued to have more possession, but Ecuador applied greater pressure after the equalizer. Moisés Caicedo helped control midfield, while Joel Ordóñez produced an important block to stop Jamal Musiala’s shot.\nPlata Scores Ecuador’s Decisive Goal\nGermany thought they had earned a penalty immediately after halftime when Ordóñez challenged Kai Havertz inside the area. Referee Victoria Penso initially pointed to the spot but overturned the decision after a VAR review identified a foul by Sané on Vite earlier in the move.\nManuel Neuer later denied Enner Valencia, while Ecuador survived a defensive mix-up between the German goalkeeper and Jonathan Tah without converting the opportunity.\nThe winning goal arrived from a corner in the 77th minute. Kevin Rodríguez redirected Moisés Caicedo’s delivery at the near post, allowing Plata to move ahead of Neuer and poke the ball into the net.\nSané had an opportunity to equalize one minute earlier but mishit his effort after Deniz Undav directed a long pass into his path. Germany continued to attack during seven minutes of stoppage time, although Undav and Pascal Groß were unable to find the target.\nEcuador finished with seven shots and generated 1.51 expected goals, compared with Germany’s 0.65. Vite also made nine tackles, the most recorded by an Ecuador player in a World Cup match since detailed tournament data became available in 1966.\nGermany Win Group as Ecuador Advance in Third\nGermany entered the match having already qualified following victories over Curaçao and Ivory Coast. Julian Nagelsmann’s team still finished first in Group E despite seeing its 11-match winning streak end.\nIvory Coast secured second place after defeating Curaçao in the group’s other final fixture. Ecuador ended the group stage with four points and advanced from third place, while Curaçao were eliminated with one point.\nEcuador had entered the final match knowing that a draw would not be enough. Their comeback produced only the second World Cup victory in the country’s history after conceding first, following a 2-1 win over Honduras in 2014.\nEcuador’s Round of 32 opponent will depend on the final results in Group L, with a possible matchup against England among the available scenarios.\nSupporters comparing soccer betting sites ahead of the knockout phase can also review RG’s World Cup 2026 Betting Bonuses in Canada page for current tournament offers.\nGroup E\nTeamPGDPts\n🇩🇪 Germany 3 +6\n🇨🇮 Ivory Coast 3 +2 6\n🇪🇨 Ecuador 3 0 4\n🇨🇼 Curaçao 3 -8 1",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

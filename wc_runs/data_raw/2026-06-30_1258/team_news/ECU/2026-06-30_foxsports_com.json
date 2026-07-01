@@ -1,0 +1,16 @@
+{
+ "team": "ECU",
+ "source": "foxsports.com",
+ "url": "https://www.foxsports.com/stories/soccer/segundo-castillo-makes-ecuadors-world-cup-squad-despite-knee-injury",
+ "title": "Segundo Castillo makes Ecuador's World Cup squad despite knee injury | FOX Sports",
+ "news_date": "2026-06-30",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-30",
+ "fetched": "2026-06-30_1258",
+ "method": "jsonld:articleBody",
+ "status": "ok",
+ "original_text": "Ecuador head coach Reinaldo Rueda has named Segundo Castillo in his World Cup squad despite the midfielder suffering a nasty knee injury in Saturday's friendly against Mexico. Castillo has undergone tests and treatment since suffering his blow when Mexico's Luis Montes went in hard on him in a 50-50 challenge. Montes came out worst as he suffered a broken leg, while Castillo, despite looking to have his knee bent back at an unnatural angle in the tackle, has a hope of playing at the tournament in Brazil. Manchester United winger Antonio Valencia is the star name in Ecuador's 23-man party, which was announced on the national federation's website. The 28-year-old will be hoping to put a miserable domestic campaign with United behind him when his country take on Switzerland, Honduras and France in Group E. Former Manchester City striker Felipe Caicedo, now with United Arab Emirates club Al Jazira, has also been included, as has 35-year-old midfielder Edison Mendez, Ecuador's third most capped player in history. Ecuador World Cup squad: Maximo Banguera (Barcelona, Ecuador), Adrian Bone (El Nacional), Alexander Dominguez (Liga de Quito); Gabriel Achilier (Emelec), Walter Ayovi (Pachuca), Oscar Bagui (Emelec), Frickson Erazo (Flamengo), Jorge Guagua (Emelec), Juan Carlos Paredes (Barcelona, Ecuador); Segundo Castillo (Al Hilal), Carlos Gruezo (Stuttgart), Renato Ibarra (Vitesse Arnhem), Fidel Martinez (Tijuana), Edison Mendez (Santa Fe), Christian Noboa (Dinamo Moscow), Luis Saritama (Barcelona, Ecuador), Antonio Valencia (Manchester United); Jaime Ayovi (Tijuana), Felipe Caicedo (Al-Jazira), Jefferson Montero (Morelia), Joao Rojas (Cruz Azul), Enner Valencia (Pachuca), Michael Arroyo (Atlante).",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

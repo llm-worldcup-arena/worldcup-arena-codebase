@@ -1,0 +1,24 @@
+{
+ "source": "skysports.com",
+ "url": "https://www.skysports.com/football/news/12098/13556707/world-cup-2026-dr-congo-3-1-uzbekistan-yoane-wissa-stars-as-the-leopards-complete-comeback-win-to-set-up-last-32-clash-against-england",
+ "title": "World Cup 2026: DR Congo 3-1 Uzbekistan - Yoane Wissa stars as the Leopards complete comeback win to set up last 32 clash against England",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-27",
+  "home": "COD",
+  "away": "UZB",
+  "home_en": "DR Congo",
+  "away_en": "Uzbekistan",
+  "home_zh": "刚果（金）",
+  "away_zh": "乌兹别克斯坦",
+  "comp": "小组赛·K组",
+  "match_id": "M72",
+  "slug": "2026-06-27_COD_vs_UZB"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Yoane Wissa scored two as the Democratic Republic of Congo fought from behind to beat Uzbekistan 3-1 in Atlanta and book a round of 32 clash against England. The Newcastle forward was the star of the show as he scored his second and third goals of the tournament to ensure his side clinched third in Group K with DR Congo's first-ever World Cup victory. Wissa was also on target as the Leopards drew with Portugal on matchday one. What's now DR Congo's most glorious footballing victory, nearly wasn't to be. Uzbekistan opened the scoring after a quick start through captain Eldor Shomurodov. He found the back in the opening minute, only for it to be chalked off for offside.   DR Congo, who needed a win to progress, were then sparked into action. Although Nathan Mbuku's equaliser was ruled out after his flailing arm caught Sherzod Nasrullaev in the face during the build-up, Wissa provided the lifeline. The 29-year-old was caught in the box by Abdukodir Khusanov and stepped up to coolly convert his penalty. Fiston Mayele, a second-half substitute, put Congo's noses in front for the first time before Wissa arrowed in a third to seal the win. The same stage that saw DR Congo claim a famous victory will house their first knockout tie against England on Wednesday. The key moments from Atlanta... 1: OFFSIDE, NO GOAL! Uzbekistan nearly take an early lead, straight from kick-off. Skipper Shomurodov beats Mpasi but the flag goes up instantly for offside. 10: GOAL! Shomurodov takes full advantage of a DR Congo mess at the back, lobbing the ball over Mpasi, who is caught in no man's land. 18: GOAL! Nathan Mbuku fires DR Congo level, but it's immediately checked by VAR. 19: NO GOAL! VAR rules out Mbuku's equaliser for a foul in the build-up. 35: DR CONGO WANT A PENALTY! Cipenga goes down in the area after Alidzhanov places two hands on the forward. It looks like a push! 66: PENALTY TO DR CONGO! Khusanov catches Wissa in the area with a swing and a miss. 68: GOAL! Wissa sends Nematov the wrong way with a coolly taken penalty. 78: GOAL! Mayele pokes DR Congo in front to complete the comeback. 90+1: GOAL! Wissa fires from range to seal DR Congo's spot in the round of 32. Why DR Congo is a test Tuchel will have wanted to avoid Analysis by Sky Sports' William Bitibiri: \"If you're looking for your dark horses in the knockout stages, you won't find one in DR Congo. Instead, you'll find a prowling, stubborn Leopard, primed and ready to spring a surprise or two. \"Portugal came away licking their wounds, with scars exposed in their meeting with DR Congo, leading to the questioning of a stellar array of footballers. \"Not only did DR Congo claim a point against Portugal, who were considered one of the competition's favourites from the onset, but onlookers would be justified to argue that Sebastien Desabre's men deserved a victory. \"Colombia offered a different test, and while DR Congo eventually ceded under pressure late on in the game, the principles were clear - defend first and ask questions later. \"DR Congo isn't a side designed to entertain; they are a nation built on not losing. Despite Yoane Wissa's three goals in the competition, the defence is where Desabre has placed his focus during his reign in charge of DR Congo. \"Under his stewardship, DR Congo has never been beaten by more than a one-goal margin since taking over the national team in 2022. For context, Thomas Tuchel, who took over England last year, has already lost by a two-goal margin, a 3-1 defeat to Senegal. \"Congo's goalscoring is a stumbling block too, with the side scoring one goal or fewer in two-thirds of their matches (66.7 per cent). \"The inquest into England's lack of creativity, inspiration or energy in attacking areas continue despite their 2-0 win over Panama. On a quest to fix that, don't expect Tuchel to find easy prey to remedy that against the stubborn DR Congo.\"",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

@@ -1,0 +1,24 @@
+{
+ "source": "beinsports.com",
+ "url": "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/ecuador-pulls-off-a-historic-upset-by-defeating-germany-at-the-2026-world-cup-2026-06-25",
+ "title": "Ecuador pulls off a historic upset by defeating Germany at the 2026 World Cup",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-25",
+  "home": "ECU",
+  "away": "GER",
+  "home_en": "Ecuador",
+  "away_en": "Germany",
+  "home_zh": "厄瓜多尔",
+  "away_zh": "德国",
+  "comp": "小组赛·E组",
+  "match_id": "M56",
+  "slug": "2026-06-25_ECU_vs_GER"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Ecuador produced one of the biggest upsets of the 2026 FIFA World Cup by defeating Germany in a match that began as an uphill battle but ended as an unforgettable night for La Tri. The South American side showed character, resilience, and clinical finishing to overcome one of the tournament's strongest teams.\n\nThe match got off to a blistering start. Germany took the lead just two minutes in through Leroy Sané , in a goal that sparked controversy due to a possible foul in the buildup. Ecuador, however, refused to back down and responded quickly in the 9th minute, when Nilson Angulo found the equalizer to breathe new life into the South American side.\n\nAs the match entered its decisive stages, Gonzalo Plata stepped up in the 77th minute to score the goal that changed the course of the game. The Ecuadorian forward finished with composure to restore his team's lead, sparking celebrations for a La Tri side that competed with intelligence and courage until the final whistle.\n\nThe defeat leaves an unavoidable question: Is Germany truly a genuine title contender? Although the European side arrived at the tournament with a squad full of quality and star power, the match against Ecuador exposed significant weaknesses. Their start was promising, but they gradually lost control, struggled against Ecuador's intensity, and failed to impose their experience when it mattered most.\n\nBeyond the result itself, Ecuador proved it can compete with anyone. La Tri defeated a global powerhouse, showed great mental strength after falling behind, and displayed tremendous character on a crucial night. This victory not only boosts Ecuador's hopes in the tournament, but also confirms that they could become one of the most difficult teams to face at the 2026 FIFA World Cup.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

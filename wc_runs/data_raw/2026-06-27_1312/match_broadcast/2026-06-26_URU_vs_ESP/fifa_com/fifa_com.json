@@ -1,0 +1,24 @@
+{
+ "source": "fifa.com",
+ "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/uruguay-spain-match-report-highlights",
+ "title": "Uruguay 0-1 Spain | Match report and highlights",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-26",
+  "home": "URU",
+  "away": "ESP",
+  "home_en": "Uruguay",
+  "away_en": "Spain",
+  "home_zh": "乌拉圭",
+  "away_zh": "西班牙",
+  "comp": "小组赛·H组",
+  "match_id": "M66",
+  "slug": "2026-06-26_URU_vs_ESP"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Spain's possession game proved too much for Uruguay as La Roja overcame La Celeste to secure top spot in Group H.\nUruguay 0-1 SpainUruguay 0-1 Spain\nSpain goal: Baena (42)\nUruguay have been knocked out of the FIFA World Cup 2026™ at the group stage after Alex Baena's late first-half goal secured top spot in Group H for Spain. In the Round of 32, the European heavyweights will meet the runners-up from Group J in Los Angeles on 2 July.\nIt was a dismal end to the competition for Marcelo Biela's men, who substituted goalkeeper Fernando Muslera at half-time after his error led to Baena's strike and who had Agustin Canobbio sent off in injury time.\nAs expected, La Roja had the lion's share of possession for large stretches of the match, and the first half wound down, Spain's possession finally led to a clear goalscoring opportunity.\nComing across the penalty area from the left wing, Baena controlled a low cross from Marcos Llorente and fired a shot toward the Uruguayan goal.\nMuslera couldn't hold the strike and the ball dribbled into the far corner, giving Spain the lead. In order to claw their way back into the game, Muslera was brought off at half-time for substitute goalkeeper Sergio Rochet.\nLa Celeste fought hard to find a way back into the match, pushing Spain to the very end, but La Roja's passing game proved too efficient. Ferran Torres could have added a second in the dying minutes, but the Barcelona forward slammed his shot off the crossbar.\nA poor tournament for Uruguay ended on a disappointing note when Canobbio was sent off deep into injury time for a tackle on Pau Cubarsi.\nKey statKey stat\nThis is Spain's first victory against Uruguay at the FIFA World Cup. The prior two games ended in a draw.\nWhat they said...What they said...\n\"I wasn't able to maximize the potential of Uruguay's players. With Valverde's substitution, I sought to have a stronger presence in attack\". Marcelo Bielsa, Uruguay coach\n\"The truth is we knew it would be tough, that we were playing for first place and they were playing for their lives. Maybe it wasn't the same game as last time, but it was necessary to play like that. It's probably one of the most important goals of my career.\" Alex Baena, Spain player\n\"I feel really happy. This squad has been outstanding. Our team has been amazing. Our efforts led to us being in this situation at the top of the group. This is a long path. This team does not concede much and it’s a striking team. They’re unbeatable. They improve every minute. We can develop our football in different ways.\" Luis de la Fuente, Spain coach\nMichelob Ultra Superior Player of the MatchMichelob Ultra Superior Player of the Match\nAlex Baena (Spain)",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

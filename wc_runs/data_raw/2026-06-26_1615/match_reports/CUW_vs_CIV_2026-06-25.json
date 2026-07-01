@@ -1,0 +1,350 @@
+{
+ "match_id": 4627897,
+ "date": "2026-06-25",
+ "comp": "世界杯",
+ "ha_home": "中",
+ "home": "CUW",
+ "away": "CIV",
+ "score": "0-2",
+ "venue": "Lincoln Financial Field (Philadelphia)",
+ "attendance": 68324,
+ "goals": [
+  {
+   "min": 7,
+   "side": "away",
+   "player": "Nicolas Pépé",
+   "sub": null
+  },
+  {
+   "min": 64,
+   "side": "away",
+   "player": "Nicolas Pépé",
+   "sub": null
+  }
+ ],
+ "cards": [
+  {
+   "min": 35,
+   "side": "away",
+   "player": "Nicolas Pépé",
+   "type": "黄牌"
+  },
+  {
+   "min": 75,
+   "side": "home",
+   "player": "Juninho Bacuna",
+   "type": "黄牌"
+  },
+  {
+   "min": 83,
+   "side": "home",
+   "player": "Gervane Kastaneer",
+   "type": "黄牌"
+  }
+ ],
+ "stats": {
+  "射门": [
+   "11",
+   "7"
+  ],
+  "射正": [
+   "2",
+   "3"
+  ],
+  "禁区内射门": [
+   "7",
+   "3"
+  ],
+  "扑救": [
+   "2",
+   "1"
+  ],
+  "角球": [
+   "4",
+   "6"
+  ],
+  "越位": [
+   "2",
+   "1"
+  ],
+  "控球%": [
+   "37%",
+   "63%"
+  ],
+  "传中": [
+   "79",
+   "113"
+  ],
+  "传球": [
+   "295",
+   "558"
+  ],
+  "xG预期进球": [
+   "0.38",
+   "1.42"
+  ],
+  "xGOT/大机会": [
+   "0.06",
+   "1.86"
+  ]
+ },
+ "lineups": {
+  "home": [
+   {
+    "no": 1,
+    "name": "Eloy Room"
+   },
+   {
+    "no": 24,
+    "name": "Deveron Fonville"
+   },
+   {
+    "no": 18,
+    "name": "Armando Obispo"
+   },
+   {
+    "no": 3,
+    "name": "Juriën Gaari"
+   },
+   {
+    "no": 5,
+    "name": "Sherel Floranus"
+   },
+   {
+    "no": 20,
+    "name": "Joshua Brenet"
+   },
+   {
+    "no": 7,
+    "name": "Juninho Bacuna"
+   },
+   {
+    "no": 10,
+    "name": "Leandro Bacuna"
+   },
+   {
+    "no": 8,
+    "name": "Livano Comenencia"
+   },
+   {
+    "no": 21,
+    "name": "Tahith Chong"
+   },
+   {
+    "no": 9,
+    "name": "Jurgen Locadia"
+   },
+   {
+    "no": 11,
+    "name": "Jeremy Antonisse"
+   },
+   {
+    "no": 19,
+    "name": "Gervane Kastaneer"
+   },
+   {
+    "no": 17,
+    "name": "Brandley Kuwas"
+   },
+   {
+    "no": 13,
+    "name": "Tyrese Noslin"
+   },
+   {
+    "no": 2,
+    "name": "Shurandy Sambo"
+   },
+   {
+    "no": 23,
+    "name": "Riechedly Bazoer"
+   },
+   {
+    "no": 25,
+    "name": "Tyrick Bodak"
+   },
+   {
+    "no": 26,
+    "name": "Trevor Doornbusch"
+   },
+   {
+    "no": 22,
+    "name": "Kevin Felida"
+   },
+   {
+    "no": 14,
+    "name": "Kenji Gorre"
+   },
+   {
+    "no": 12,
+    "name": "Sontje Hansen"
+   },
+   {
+    "no": 16,
+    "name": "Jearl Margaritha"
+   },
+   {
+    "no": 15,
+    "name": "Ar'jany Martha"
+   },
+   {
+    "no": 6,
+    "name": "Godfried Roemeratoe"
+   },
+   {
+    "no": 4,
+    "name": "Roshon van Eijma"
+   }
+  ],
+  "away": [
+   {
+    "no": 1,
+    "name": "Yahia Fofana"
+   },
+   {
+    "no": 13,
+    "name": "Christopher Opéri"
+   },
+   {
+    "no": 2,
+    "name": "Ousmane Diomande"
+   },
+   {
+    "no": 7,
+    "name": "Odilon Kossounou"
+   },
+   {
+    "no": 17,
+    "name": "Guéla Doué"
+   },
+   {
+    "no": 8,
+    "name": "Franck Kessié"
+   },
+   {
+    "no": 18,
+    "name": "Ibrahim Sangare"
+   },
+   {
+    "no": 11,
+    "name": "Yan Diomande"
+   },
+   {
+    "no": 19,
+    "name": "Nicolas Pépé"
+   },
+   {
+    "no": 15,
+    "name": "Amad Diallo"
+   },
+   {
+    "no": 9,
+    "name": "Ange-Yoan Bonny"
+   },
+   {
+    "no": 14,
+    "name": "Oumar Diakité"
+   },
+   {
+    "no": 26,
+    "name": "Christ Inao Oulaï"
+   },
+   {
+    "no": 4,
+    "name": "Jean Michael Seri"
+   },
+   {
+    "no": 24,
+    "name": "Bazoumana Toure"
+   },
+   {
+    "no": 12,
+    "name": "Elye Wahi"
+   },
+   {
+    "no": 10,
+    "name": "Simon Adingra"
+   },
+   {
+    "no": 20,
+    "name": "Emmanuel Agbadou"
+   },
+   {
+    "no": 6,
+    "name": "Seko Fofana"
+   },
+   {
+    "no": 22,
+    "name": "Evann Guessand"
+   },
+   {
+    "no": 25,
+    "name": "Parfait Guiagon"
+   },
+   {
+    "no": 3,
+    "name": "Ghislain Konan"
+   },
+   {
+    "no": 16,
+    "name": "Mohamed Koné"
+   },
+   {
+    "no": 23,
+    "name": "Alban Lafont"
+   },
+   {
+    "no": 21,
+    "name": "Evan N'Dicka"
+   },
+   {
+    "no": 5,
+    "name": "Wilfried Singo"
+   }
+  ]
+ },
+ "missing": [],
+ "events": [
+  {
+   "min": 7,
+   "side": "away",
+   "type": "进球",
+   "sub": null,
+   "player": "Nicolas Pépé"
+  },
+  {
+   "min": 35,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Nicolas Pépé"
+  },
+  {
+   "min": 64,
+   "side": "away",
+   "type": "进球",
+   "sub": null,
+   "player": "Nicolas Pépé"
+  },
+  {
+   "min": 75,
+   "side": "home",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Juninho Bacuna"
+  },
+  {
+   "min": 83,
+   "side": "home",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Gervane Kastaneer"
+  }
+ ],
+ "injuries": [],
+ "suspensions": [],
+ "ratings": {},
+ "quotes": [],
+ "narrative": "",
+ "prediction_note": "",
+ "_note": "macheta/Sofascore 权威硬数据；injuries/suspensions/ratings/quotes/narrative/prediction_note 待 agent WebSearch 补。"
+}

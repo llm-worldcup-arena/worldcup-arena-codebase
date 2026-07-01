@@ -1,0 +1,16 @@
+{
+ "team": "JOR",
+ "source": "transfermarkt.co.za",
+ "url": "https://www.transfermarkt.co.za/jordan/kader/verein/15737",
+ "title": "Jordan - Detailed squad 2026 | Transfermarkt",
+ "news_date": "2026-06-30",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-30",
+ "fetched": "2026-06-30_1258",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "This page displays a detailed overview of the club's current squad. It shows all personal information about the players, including age, nationality, contract duration and market value. It also contains a table with average age, cumulative market value and average market value for each player position and overall.\n#PlayerAgeClubMarket value\n1\n\nYazeed Abulaila\nGoalkeeper\n33 300 k €\n12\n\nNoor Bane Ataya\nGoalkeeper\n33 250 k €\n22\n\nAbdallah Al-Fakhouri\nGoalkeeper\n26 250 k €\n5\n\nYazan Al-Arab\nCentre-Back\n30 1,00 mil. €\n19\n\nSaed Al-Rousan\nCentre-Back\n29 450 k €\n3\n\nAbdallah Nasib\nCentre-Back\n32 400 k €\n4\n\nHusam Abu Dahab\nCentre-Back\n26 350 k €\n16\n\nMohammad Abualnadi\nCentre-Back\n25 350 k €\n17\n\nSaleem Obaid\nCentre-Back\n34 100 k €\n20\n\nMohannad Abu Taha\nLeft-Back\n23 550 k €\n2\n\nMohammad Abu Hasheesh\nLeft-Back\n31 400 k €\n18\n\nMohammad Abu Ghoush\nLeft-Back\n20 300 k €\n23\n\nEhsan Haddad\nRight-Back\n32 300 k €\n26\n\nAnas Badawi\nRight-Back\n28 200 k €\n21\n\nNizar Al-Rashdan\nDefensive Midfield\n27 600 k €\n6\n\nAmer Jamous\nCentral Midfield\n23 500 k €\n8\n\nNoor Al-Rawabdeh\nCentral Midfield\n29 500 k €\n15\n\nIbrahim Saadeh\nCentral Midfield\n26 500 k €\n14\n\nRajaei Ayed\nCentral Midfield\n32 325 k €\n25\n\nMohammad Al-Dawoud\nCentral Midfield\n33 150 k €\n11\n\nOdeh Fakhoury\nLeft Winger\n20 350 k €\n13\n\nMahmoud Al-Mardi\nLeft Winger\n32 350 k €\n10\n\nMousa Tamari\nRight Winger\n29 10,00 mil. €\n7\n\nMohammad Abu Zrayq\nRight Winger\n28 700 k €\n24\n\nAli Azaizeh\nRight Winger\n22 325 k €\n9\n\nAli Olwan\nCentre-Forward\n26 800 k €\nSquad details by position\nPosition ø-Age Market value ø-Market value\nGoalkeeper 31,1 800 k € 267 k €\nDefender 28,6 4,40 mil. € 400 k €\nMidfield 28,9 2,58 mil. € 429 k €\nAttack 26,6 12,53 mil. € 2,09 mil. €\nTotal: 28,5 20,30 mil. € 781 k €\nRevoke Tracking\nSie haben erfolgreich Ihre Einwilligung in die Nutzung von Transfermarkt mit Tracking und Cookies widerrufen. Sie können sich jetzt zwischen dem Contentpass-Abo und der Nutzung mit personalisierter Werbung, Cookies und Tracking entscheiden.\nRevoke Tracking\nSie haben erfolgreich Ihre Einwilligung in die Nutzung von Transfermarkt mit Tracking und Cookies widerrufen. Sie können sich jetzt zwischen dem Contentpass-Abo und der Nutzung mit personalisierter Werbung, Cookies und Tracking entscheiden.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

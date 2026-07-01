@@ -1,0 +1,24 @@
+{
+ "source": "VAVEL USA",
+ "url": "https://www.vavel.com/en-us/soccer/2026/06/14/1263370-australia-vs-turkey-live-score-2026-world-cup.html",
+ "title": "Highlights and goals from Australia 2-0 Turkey at the 2026 FIFA World Cup | 06/14/2026",
+ "published": "2026-06-14T06:05:53.000Z",
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-13",
+  "home": "AUS",
+  "away": "TUR",
+  "home_en": "Australia",
+  "away_en": "Türkiye",
+  "home_zh": "澳大利亚",
+  "away_zh": "土耳其",
+  "comp": "小组赛·D组",
+  "match_id": "M6",
+  "slug": "2026-06-13_AUS_vs_TUR"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Australia heads into this World Cup with the clear goal of matching—or even surpassing—its performance at Qatar 2022, where it reached the Round of 16, leaving a competitive and surprising impression on the world. However, its current form raises some concerns. The Socceroos have had a less-than-stellar run in their most recent friendly matches, with two wins (against Cameroon and Curaçao), two losses (against Colombia and Mexico), and one draw (1-1 against Switzerland).Despite this, the 1-1 draw against Switzerland in their last warm-up match left a more positive impression, showing a slight improvement in their defensive structure and ability to react. The Australian team is undergoing a generational transition, with new players beginning to take center stage in a system that prioritizes tactical organization, physical intensity, and collective discipline. This World Cup debut represents an opportunity to demonstrate that, regardless of recent results, Australia remains a tough and competitive team that aims to excel beyond its own confederation.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

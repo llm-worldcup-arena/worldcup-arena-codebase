@@ -1,0 +1,24 @@
+{
+ "source": "espn.com",
+ "url": "https://www.espn.com/soccer/report/_/gameId/760470",
+ "title": "Türkiye 3-2 USA (Jun 25, 2026) Game Analysis - ESPN",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-25",
+  "home": "TUR",
+  "away": "USA",
+  "home_en": "Türkiye",
+  "away_en": "United States",
+  "home_zh": "土耳其",
+  "away_zh": "美国",
+  "comp": "小组赛·D组",
+  "match_id": "M59",
+  "slug": "2026-06-25_TUR_vs_USA"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Kaan Ayhan scored on the final kick of the match, and Türkiye beat the United States 3-2 Thursday night for its only win of the World Cup.\nAuston Trusty scored in the third minute and Sebastian Berhalter got a tying goal early in the second half for the Americans, who had already won Group D with victories over Paraguay and Australia. Coach Mauricio Pochettino's team will meet Bosnia-Herzegovina in the Round of 32 on Wednesday.\nPochettino fielded nine new starters for this low-stakes game, but Christian Pulisic entered in the 58th minute. He hadn't played since the first half of the Americans' opener due to a calf injury.\nArda Güler and Orkun Kökçü scored in the first half of a resilient performance by Türkiye, which had already been eliminated.\nTürkiye won in the eighth minute of stoppage time when Can Uzun got the ball in space on the back post and pushed it past sprawling goalkeeper Matt Turner to Ayhan, who slid to knock it home.\nTürkiye improbably won in the eighth minute of stoppage time when Can Uzun got the ball in space on the back post and pushed it past sprawling goalkeeper Matt Turner to Ayhan, who slid to knock it home.\nKaan Ayhan reacts after scoring Türkiye's last-gasp winning goal against the United States.\nSarah Stier - FIFA/FIFA via Getty Images\nThe game's meaninglessness didn't matter to the raucous sellout crowd that packed SoFi Stadium. The American team's fan base has been energized by its strong start to this home World Cup -- and this Los Angeles-area crowd was still chanting and standing when Berhalter airmailed a long corner to Trusty, who made the stadium shake when he banged it home inside the back post.\nTrusty's goal was the Americans' seventh of the tournament, tying their scoring record for any World Cup before knockout play even begins. It was also the 173rd goal of this tournament, breaking the record for the most combined goals scored in a World Cup set in Qatar four years ago -- and doing it in four fewer matches.\nTürkiye evened it in the 10th minute with an excellent two-man game from Baris Alper Yilmaz and Güler, the 21-year-old Real Madrid rising star.\nGüler then set up another goal in the 31st minute with a pass that eventually led to Kökçü's close-range shot. Türkiye scored on both of its shots on net in the first half.\nBerhalter tied it in the 49th minute by running on to a loose ball about 20 yards from the net for a vicious strike.\nPulisic replaced Tim Weah in the 58th minute for his first game action since the first half of their 4-1 victory over Paraguay nearly two weeks ago.\nPulisic said this week that he is ready to play again after coming out at halftime with a calf injury in the Americans' home World Cup opener. The AC Milan midfielder entered the 2-2 game to an enormous roar, and he created a scoring opportunity just a couple of minutes later with a dynamic run down the left side.\nPulisic nearly scored again in the 63rd minute, but his quick shot off a nice pass from Berhalter was knocked off the goalpost by Türkiye goalkeeper Ugurcan Çakir, and Brenden Aaronson botched the resulting sitter.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

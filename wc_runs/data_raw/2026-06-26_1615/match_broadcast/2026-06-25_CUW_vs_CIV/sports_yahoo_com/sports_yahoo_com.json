@@ -1,0 +1,24 @@
+{
+ "source": "sports.yahoo.com",
+ "url": "https://sports.yahoo.com/soccer/fifa-world-cup/ivory-coast-curacao-13587214/",
+ "title": "Curacao 0 - 2 Ivory Coast: Final score, results, recap, box score, stats - Yahoo Sports",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-25",
+  "home": "CUW",
+  "away": "CIV",
+  "home_en": "Curaçao",
+  "away_en": "Ivory Coast",
+  "home_zh": "库拉索",
+  "away_zh": "科特迪瓦",
+  "comp": "小组赛·E组",
+  "match_id": "M55",
+  "slug": "2026-06-25_CUW_vs_CIV"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Curacao 0 - 2 Ivory Coast: Final score, results, recap, box score, stats\nSubstitution - In\n2 - Shurandy Sambo\nSubstitution - Out\n20 - Joshua Brenet\nSubstitution - In\n17 - Brandley Kuwas\nSubstitution - Out\n9 - Jurgen Locadia\nYellow Card\n19 - Gervane Kastaneer\nSubstitution - In\n19 - Gervane Kastaneer\nSubstitution - Out\n3 - Jurien Gaari\nSubstitution - In\n4 - Jean Michael Seri\nSubstitution - Out\n8 - Franck Kessié\nSubstitution - In\n13 - Tyrese Noslin\nSubstitution - Out\n24 - Deveron Fonville\nYellow Card\n7 - Juninho Bacuna\nSubstitution - In\n24 - Bazoumana Toure\nSubstitution - Out\n11 - Yan Diomande\nSubstitution - In\n14 - Oumar Diakite\nSubstitution - Out\n9 - Ange-Yoan Bonny\nSubstitution - In\n12 - Elye Wahi\nSubstitution - Out\n19 - Nicolas Pepe\nGoal\n19 - Nicolas Pepe\nAssist\n18 - Ibrahim Sangare\nSubstitution - In\n11 - Jeremy Antonisse\nSubstitution - Out\n8 - Livano Comenencia\nSubstitution - In\n26 - Christ Inao Oulai\nSubstitution - Out\n15 - Amad Diallo",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

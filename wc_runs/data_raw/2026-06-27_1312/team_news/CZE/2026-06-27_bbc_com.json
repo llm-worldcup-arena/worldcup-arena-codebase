@@ -1,0 +1,16 @@
+{
+ "team": "CZE",
+ "source": "bbc.com",
+ "url": "https://www.bbc.com/sport/football/articles/ckgp77e0yp7o",
+ "title": "World Cup 2026: Tomas Soucek in Czech Republic squad",
+ "news_date": "2026-06-27",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-27",
+ "fetched": "2026-06-27_1312",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "West Ham midfielder Tomas Soucek has been named in the Czech Republic squad for this summer's World Cup - their first appearance at the tournament since 2006.\n\nWith 89 caps to his name, 31-year-old Soucek is the most experienced player selected by head coach Miroslav Koubek.\n\nHe is joined in the squad by former Hammers team-mate Vladimir Coufal, who joined Hoffenheim in 2025, while Wolves defender Ladislav Krejci also makes the cut.\n\nAt 17, Sparta Prague midfielder Hugo Sochurek is the youngest player selected, while 10 players from reigning Czech champions Slavia Prague will feature.\n\nThe expanded 48-team World Cup in the USA, Canada and Mexico runs from 11 June to 19 July.\n\nThe Czechs are in Group A and start their campaign against South Korea on 12 June in Guadalajara.\n\nThey then face South Africa in Atlanta on 18 June before playing co-hosts Mexico a week later in Mexico City.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

@@ -1,0 +1,24 @@
+{
+ "source": "aljazeera.com",
+ "url": "https://www.aljazeera.com/sports/2026/6/26/australia-paraguay-fifa-world-cup-2026-score-report-socceroos",
+ "title": "Australia seal World Cup knockouts spot after gritty 0-0 draw with Paraguay",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-25",
+  "home": "PAR",
+  "away": "AUS",
+  "home_en": "Paraguay",
+  "away_en": "Australia",
+  "home_zh": "巴拉圭",
+  "away_zh": "澳大利亚",
+  "comp": "小组赛·D组",
+  "match_id": "M60",
+  "slug": "2026-06-25_PAR_vs_AUS"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "The Socceroos finish second in Group D with four points and are through to the 2026 FIFA World Cup round of 32.\n\nAustralia booked their place in the World Cup ‘s round of 32 on Thursday ⁠with a cagey 0-0 ⁠draw against Paraguay that left the South Americans facing a nervous wait to see if they will advance.\n\nIn a physical, scrappy contest at San Francisco Bay Area ⁠Stadium, Paraguay pushed late after being dominated early, but it ended with the Socceroos making the tournament’s knockout phase for a third time, four years after reaching the last 16 in Qatar.\n\nTony ⁠Popovic’s team sealed second place in Group D behind cohosts the United States and will meet the second-placed team in Group G, which remains wide open before Egypt face Iran, and Belgium meet New Zealand on Friday.\n\nParaguay, on four points, may have done enough to advance as one of the eight best-finishing, ‌third-placed sides, but the 2010 quarterfinalists will need to wait for other results in the final group matches in the coming days.\n\nPopovic made six changes to his starting 11 in a bold shake-up, bringing back livewire Nestory Irankunda and adding Cristian Volpato to his forward line in a signal of attacking intent.\n\nWith Jordan Bos switching from left back to right to cover for the injured Jacob Italiano, Australia made promising raids down the right, but the finishing ⁠touch proved stubbornly elusive.\n\nMinutes after kickoff, Volpato set up Jackson Irvine on ⁠the right of the penalty area, but he thumped an angled shot straight at Paraguay goalkeeper Orlando Gill.\n\nBos and Volpato drew saves from Gill late in the half without genuinely testing the keeper.\n\nWith Paraguay restricted to one shot in ⁠the half, coach Gustavo Alfaro injected Mauricio at the break, and the Brazilian-born attacker shot fruitlessly from distance five minutes after the restart.\n\nThe Paraguayans ⁠grew into the contest with the help of the energetic ⁠Julio Enciso, who repeatedly sliced through Australia’s defence.\n\nHe blew one of Paraguay’s better chances with a low shot that flashed well wide of the left post eight minutes from time.\n\nIn an end-to-end finish, Bos briefly had Socceroos fans rising from their ‌seats in the 89th minute as he split two defenders, charged into the box from the right and sent his shot fizzing by the far post.\n\nMauricio gave Beach a late test when he ‌found ‌a sliver of room on the edge of the area, but his tepid, low shot was easily dealt with, and Australia held on to advance with more substance than style.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

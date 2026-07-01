@@ -1,0 +1,40 @@
+{
+ "match": {
+  "slug": "2026-06-26_SEN_vs_IRQ",
+  "date": "2026-06-26",
+  "home": "SEN",
+  "away": "IRQ",
+  "round": "group",
+  "group": "I"
+ },
+ "kickoff": {
+  "美东": "2026-06-26T15:00:00-04:00",
+  "北京": "06-27 03:00"
+ },
+ "venue": {
+  "name": "BMO Field",
+  "city": "Toronto",
+  "altitude_m": 76,
+  "roof": "open",
+  "surface": "grass"
+ },
+ "weather": {
+  "开球时段": {
+   "温度C": 19.8,
+   "体感C": 21.8,
+   "降水概率%": 1,
+   "降水mm": 0.0,
+   "风速kmh": 12.3,
+   "湿度%": 86,
+   "天况": "阴"
+  },
+  "source": "open-meteo(免费预报API)",
+  "fetched": "2026-06-26_1615",
+  "_note": "临近开球建议 --refresh 刷新"
+ },
+ "referee": {
+  "name": null,
+  "_note": "待 WebSearch FIFA指派公告"
+ },
+ "_note": "环境=比赛+时间+地点 确定;天气为开球时段;顶棚 retractable/fixed-canopy 时天气影响有限。"
+}

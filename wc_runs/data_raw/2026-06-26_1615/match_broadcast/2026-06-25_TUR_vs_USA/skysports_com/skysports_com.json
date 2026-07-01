@@ -1,0 +1,24 @@
+{
+ "source": "skysports.com",
+ "url": "https://www.skysports.com/football/turkey-vs-usa/report/549821",
+ "title": "World Cup 2026: Turkey 3-2 USA - Christian Pulisic returns from injury for co-hosts but Kaan Ayhan's late goal settles Group D clash",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-25",
+  "home": "TUR",
+  "away": "USA",
+  "home_en": "Türkiye",
+  "away_en": "United States",
+  "home_zh": "土耳其",
+  "away_zh": "美国",
+  "comp": "小组赛·D组",
+  "match_id": "M59",
+  "slug": "2026-06-25_TUR_vs_USA"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Eliminated Turkey scored a 98th-minute winner to clinch a 3-2 victory over World Cup co-hosts USA, who will face Bosnia-Herzegovina in the round of 32. Turkey's tournament exit was already confirmed after back-to-back losses to Australia and Paraguay in which they failed to score from 62 shots but they restored some pride thanks to substitute Kaan Ayhan's close-range winner in the final seconds in Los Angeles. USA, already assured of a round of 32 spot as group winners, went in front in the third minute when Auston Trusty scored from a corner but Turkey fought back with goals from Arda Guler and Baris Yilmaz as Vincenzo Montella's side belatedly found some cutting edge. Sebastian Berhalter hauled USA level with a low finish from the edge of the box straight after half-time and there was also a second-half substitute appearance from talisman Christian Pulisic, who struck the post on his return from a calf injury.   It was Turkey, though, who would have the final say as Ayhan forced a cross-shot from fellow substitute Can Uzun over the line to condemn Mauricio Pochettino's side to a first defeat of the tournament before they head into the knockout stage to face Group B third-place finishers Bosnia-Herzegovina. The key moments from Los Angeles... 3: GOAL! Trusty fires USA ahead from a corner 10: GOAL! Guler notches Turkey equaliser in clinical style 30: OFFSIDE! Mark McKenzie sees a goal ruled out for USA 31: GOAL! Yilmaz turns in from close range to put Turkey ahead 49: GOAL! Berhalter fires home low finish to equalise 58: Pulisic is welcomed on as he makes his return from injury 64: POST! Turkey goalkeeper Ugurcan Cakir pushes a Pulisic effort onto the post 90+8: GOAL! Ayhan wins it for Turkey at the death Analysis: Pulisic's return boosts USA Turkey's late winner dampened the mood for the USA following their back-to-back victories over Paraguay and Australia but Pulisic's return from the calf injury suffered in the first half of their opening fixture was a major positive for Pochettino. The AC Milan forward, USA's best player and scorer of 33 goals in 87 international games, looked sharp after replacing Timothy Weah in the 58th minute, the chunky cameo allowing him to build his fitness for the games that matter in the knockout stage. The looping effort pushed onto the post by Turkey goalkeeper Ugurcan Cakir was one of three shots in a lively display. He was also denied by Cakir after racing in on goal on the left-hand side of the box having taken a Berhalter pass brilliantly on his chest. USA's winning start to the tournament is over but Pulisic's return gives them cause for optimism for the rest of the tournament, with Bosnia-Herzegovina next up at 1am on Thursday July 2. McKennie: Defeat will motivate us even more USA midfielder Winston McKennie said: \"Turkey were very clinical and finished their chances. \"The momentum will still be there for us, for sure. Everyone wants to go into the next game having won the previous game, but I think it's going to motivate us even more. \"All 26 players we have on this roster can step up and the do the job. We believe in everyone on this roster, and that everyone will step up and contribute to the team. \"He's [Pulisic] a special player.... he can come ​in and be that player to create something out of thin air. It was good to see him back on the ‌pitch and hopefully see him again ​in San Francisco.\"",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

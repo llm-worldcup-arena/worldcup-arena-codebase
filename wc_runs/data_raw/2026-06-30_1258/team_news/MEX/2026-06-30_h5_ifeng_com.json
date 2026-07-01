@@ -1,0 +1,16 @@
+{
+ "team": "MEX",
+ "source": "h5.ifeng.com",
+ "url": "https://h5.ifeng.com/c/vivoArticle/v002WE2z8j4YQuYBEfQ5GH--q5UNFHFWCTVkPPeO4mrw7hnQ__?vivoBusiness=hiboardnews",
+ "title": "13位名将预计因伤缺席世界杯，西蒙斯、米利唐等人在列",
+ "news_date": "2026-06-30",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-30",
+ "fetched": "2026-06-30_1258",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "世界杯日益临近，近期却有多名球员遭受重伤，预计无缘世界杯。记者Rahman Osman列出了遭遇伤病的13位著名球员的名单，他们预计都将缺席世界杯。\n13位预计因伤缺席世界杯的著名球员名单\n哈维-西蒙斯 热刺/荷兰 ACL\n米利唐 皇马/巴西 腿筋\n埃斯特旺 切尔西/巴西 腿筋\n罗德里戈 皇马/巴西 ACL\n埃基蒂克 利物浦/法国 跟腱\n福伊特 比利亚雷亚尔/阿根廷 跟腱\n帕尼切利 斯特拉斯堡/阿根廷 ACL\n萨利苏 摩纳哥/加纳 ACL\n库杜斯 热刺/加纳 腿筋\n南野拓实 摩纳哥/日本 ACL\n远藤航 利物浦/日本 脚踝\n格纳布里 拜仁/德国 肌肉撕裂\n马拉贡 美洲/墨西哥 跟腱\n【上咪咕独家看英超】",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

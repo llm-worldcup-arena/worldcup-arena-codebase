@@ -1,0 +1,16 @@
+{
+ "team": "NZL",
+ "source": "china.kyodonews.net",
+ "url": "https://china.kyodonews.net/articles/-/11672",
+ "title": "世界杯小组赛久保建英伤退 赛后坐轮椅离场",
+ "news_date": "2026-06-27",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-27",
+ "fetched": "2026-06-27_1312",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "【共同社达拉斯6月15日电】14日在美国达拉斯举行的世界杯小组赛日本队对阵荷兰一战中，日本中场核心球员久保建英在下半场第26分钟时左膝附近受伤被换下。久保与对方球员相撞后捂着左腿倒下。随后虽然起身并在场边简单慢跑，但最终主动要求换人，并坐倒在地。\n\n据日本足协称，由于“并非可顺畅行走的状态”，久保未接受赛后采访。比赛结束后，他坐轮椅离场。\n\n当被问及伤情时，日本队主帅森保一表示：“我还没有收到医疗团队的报告。希望是轻伤。”",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

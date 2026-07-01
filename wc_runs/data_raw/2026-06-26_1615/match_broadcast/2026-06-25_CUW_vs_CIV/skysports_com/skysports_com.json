@@ -1,0 +1,24 @@
+{
+ "source": "skysports.com",
+ "url": "https://www.skysports.com/football/news/17244/13556657/world-cup-2026-curacao-x-x-ivory-coast",
+ "title": "World Cup 2026: Curacao 0-2 Ivory Coast - Former Arsenal forward Nicolas Pepe sends Les Elephants through to knockout stages",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-25",
+  "home": "CUW",
+  "away": "CIV",
+  "home_en": "Curaçao",
+  "away_en": "Ivory Coast",
+  "home_zh": "库拉索",
+  "away_zh": "科特迪瓦",
+  "comp": "小组赛·E组",
+  "match_id": "M55",
+  "slug": "2026-06-25_CUW_vs_CIV"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Former Arsenal forward Nicolas Pepe scored twice as Ivory Coast secured second-place in Group E with a comfortable 2-0 win over Curacao. The result sent Emerse Fae's side into the World Cup knockout stages for the first time in history and ensured the debutants finished bottom of the pile. Les Elephants only needed a point to finish as runners-up, but they took control early on and went in front inside seven minutes when Liverpool target Yan Diomande took advantage of Curacao failing to clear their lines to square for Pepe, who slotted smartly into the bottom right corner.   It should have been 2-0 before the 20-minute mark but under pressure, Amad Diallo scuffed another Diomande cross wide. Curacao did not lose spirit, with Jurien Gaari, Tahith Chong and Leandro Bacuna all managing shots, but a combined xG of just 0.13 illustrated the lack of definitive threat they carried. While they trailed by just one goal, Dick Advocaat's side possessed the more urgency of the two teams after the break - until their hopes suffered a hammer blow just after the hour, when Ibrahim Sangare set Pepe free in the box with a glorious ball. He opened his body and coolly fired a second past Eloy Room that secured Ivory Coast's historic progression and broke Curacao hearts. The key moments in Philadelphia 2: SHOT ! Curacao's Tahith Chong hits the game's first shot on target. Yahia Fofana saves. 7: GOAL ! Ivory Coast's Nicolas Pepe smartly tucks in the opening goal after a square ball from Yan Diomande. 18: CHANCE ! Diomande picks out Amad Diallo, but he scuffs wide under pressure. 44: WIDE ! Leandro Bacuna darts between two Ivory Coast defenders, but lashes the wrong side of the post. 55: OVER ! Curacao's Sherel Floranus causes a touch of panic as his shot whistles just over the crossbar. 64: GOAL ! Ibrahim Sangare's lovely ball sets up Pepe, who opens his body and curls home for 2-0.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

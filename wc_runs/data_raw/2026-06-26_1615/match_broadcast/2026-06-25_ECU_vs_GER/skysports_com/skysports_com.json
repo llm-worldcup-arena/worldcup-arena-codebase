@@ -1,0 +1,24 @@
+{
+ "source": "skysports.com",
+ "url": "https://www.skysports.com/football/news/12098/13556661/world-cup-2026-ecuador-2-1-germany-south-american-side-stun-four-time-winners-to-reach-knockout-stages",
+ "title": "World Cup 2026: Ecuador 2-1 Germany - South American side stun four-time winners to reach knockout stages",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-25",
+  "home": "ECU",
+  "away": "GER",
+  "home_en": "Ecuador",
+  "away_en": "Germany",
+  "home_zh": "厄瓜多尔",
+  "away_zh": "德国",
+  "comp": "小组赛·E组",
+  "match_id": "M56",
+  "slug": "2026-06-25_ECU_vs_GER"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Ecuador stunned already-qualified Germany with a 2-1 comeback win in New Jersey to reach the World Cup knockout stages and dent Scotland’s round of 32 hopes. Gonzalo Plata's 77th-minute winner sent Ecuador through as one of the best third-placed teams, with the South American side a potential round of 32 opponent for England should the Three Lions top Group L. But for Scotland, Ecuador's dramatic victory means Steve Clarke's side drop to the final eighth third-place spot with other teams still to finish their group stage. How the third-place table stands | Who could play who in the last 32?   The Tartan Army needed a favour from Germany, and it started well as Leroy Sane struck an opener inside the opening two minutes. But Sunderland's Nilson Angulo hit a fine leveller just seven minutes later before Plata prodded home late in the second half to spark wild Ecuadorian scenes in New Jersey. How Ecuador overcame VAR controversy to win The stunning win represented an amazing turnaround for Sebastian Beccacece's side, who failed to win their opening two games without scoring. Ecuador felt Sane's first-time finish after just 109 seconds should have been disallowed by VAR for a for a high foot by Aleksander Pavlovic on Pedro Vite. But La Tri responded quickly through Angulo's arrowed ninth-minute shot, which was their first goal of the tournament with their 40th attempt. VAR came to Ecuador's rescue immediately in the second half as Germany's penalty for Joel Ordonez's foul on Kai Havertz was overturned by referee Tori Penso after a pitchside monitor VAR call, which showed Vite had been fouled in the build-up by Sane. Ecuador then pushed for a winner in the closing stages and were rewarded when Plata stabbed in ahead of Manuel Neuer, who failed to claim the ball from a front-post flick-on at a corner. Ecuador then defended superbly to reach the knockout stages for just the second time in their history. Germany, meanwhile, will need to recover from their first defeat of the tournament, with the four-time winners taking on the third-place finisher from either Group A/B/C/D/F in the round of 32 on Monday at 9.30pm UK time in Boston.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

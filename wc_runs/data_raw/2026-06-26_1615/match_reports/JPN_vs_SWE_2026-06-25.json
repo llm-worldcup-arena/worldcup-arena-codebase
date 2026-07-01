@@ -1,0 +1,353 @@
+{
+ "match_id": "4697707",
+ "date": "2026-06-25",
+ "comp": "世界杯",
+ "ha_home": "中",
+ "home": "JPN",
+ "away": "SWE",
+ "score": "1-1",
+ "venue": "AT&T Stadium (Arlington)",
+ "attendance": 70137,
+ "goals": [
+  {
+   "min": 56,
+   "side": "home",
+   "player": "Daizen Maeda",
+   "sub": null
+  },
+  {
+   "min": 62,
+   "side": "away",
+   "player": "Anthony Elanga",
+   "sub": null
+  }
+ ],
+ "cards": [
+  {
+   "min": 32,
+   "side": "away",
+   "player": "Isak Hien",
+   "type": "黄牌"
+  },
+  {
+   "min": 77,
+   "side": "home",
+   "player": "Shogo Taniguchi",
+   "type": "黄牌"
+  },
+  {
+   "min": 85,
+   "side": "away",
+   "player": "Viktor Gyökeres",
+   "type": "黄牌"
+  }
+ ],
+ "stats": {
+  "射门": [
+   "8",
+   "11"
+  ],
+  "射正": [
+   "3",
+   "5"
+  ],
+  "禁区内射门": [
+   "3",
+   "3"
+  ],
+  "扑救": [
+   "2",
+   "3"
+  ],
+  "角球": [
+   "2",
+   "8"
+  ],
+  "越位": [
+   "3",
+   "2"
+  ],
+  "控球%": [
+   "52%",
+   "48%"
+  ],
+  "传中": [
+   "84",
+   "101"
+  ],
+  "传球": [
+   "378",
+   "312"
+  ],
+  "xG预期进球": [
+   "0.69",
+   "0.71"
+  ],
+  "xGOT/大机会": [
+   "1.27",
+   "1.16"
+  ]
+ },
+ "lineups": {
+  "home": [
+   {
+    "no": 1,
+    "name": "Zion Suzuki"
+   },
+   {
+    "no": 21,
+    "name": "Hiroki Ito"
+   },
+   {
+    "no": 4,
+    "name": "Ko Itakura"
+   },
+   {
+    "no": 20,
+    "name": "Ayumu Seko"
+   },
+   {
+    "no": 13,
+    "name": "Keito Nakamura"
+   },
+   {
+    "no": 15,
+    "name": "Daichi Kamada"
+   },
+   {
+    "no": 7,
+    "name": "Ao Tanaka"
+   },
+   {
+    "no": 2,
+    "name": "Yukinari Sugawara"
+   },
+   {
+    "no": 11,
+    "name": "Daizen Maeda"
+   },
+   {
+    "no": 10,
+    "name": "Ritsu Doan"
+   },
+   {
+    "no": 18,
+    "name": "Ayase Ueda"
+   },
+   {
+    "no": 14,
+    "name": "Junya Ito"
+   },
+   {
+    "no": 5,
+    "name": "Yuto Nagatomo"
+   },
+   {
+    "no": 19,
+    "name": "Koki Ogawa"
+   },
+   {
+    "no": 3,
+    "name": "Shogo Taniguchi"
+   },
+   {
+    "no": 16,
+    "name": "Tsuyoshi Watanabe"
+   },
+   {
+    "no": 9,
+    "name": "Keisuke Goto"
+   },
+   {
+    "no": 23,
+    "name": "Tomoki Hayakawa"
+   },
+   {
+    "no": 6,
+    "name": "Shuto Machino"
+   },
+   {
+    "no": 12,
+    "name": "Keisuke Osako"
+   },
+   {
+    "no": 24,
+    "name": "Kaishu Sano"
+   },
+   {
+    "no": 26,
+    "name": "Kento Shiogai"
+   },
+   {
+    "no": 25,
+    "name": "Junnosuke Suzuki"
+   },
+   {
+    "no": 17,
+    "name": "Yuito Suzuki"
+   },
+   {
+    "no": 22,
+    "name": "Takehiro Tomiyasu"
+   }
+  ],
+  "away": [
+   {
+    "no": 1,
+    "name": "Jacob Zetterström"
+   },
+   {
+    "no": 5,
+    "name": "Gabriel Gudmundsson"
+   },
+   {
+    "no": 4,
+    "name": "Isak Hien"
+   },
+   {
+    "no": 2,
+    "name": "Gustaf Lagerbielke"
+   },
+   {
+    "no": 24,
+    "name": "Elliot Stroud"
+   },
+   {
+    "no": 18,
+    "name": "Yasin Ayari"
+   },
+   {
+    "no": 3,
+    "name": "Victor Lindelof"
+   },
+   {
+    "no": 21,
+    "name": "Alexander Bernhardsson"
+   },
+   {
+    "no": 9,
+    "name": "Alexander Isak"
+   },
+   {
+    "no": 17,
+    "name": "Viktor Gyökeres"
+   },
+   {
+    "no": 11,
+    "name": "Anthony Elanga"
+   },
+   {
+    "no": 7,
+    "name": "Lucas Bergvall"
+   },
+   {
+    "no": 10,
+    "name": "Benjamin Nygren"
+   },
+   {
+    "no": 13,
+    "name": "Ken Sema"
+   },
+   {
+    "no": 15,
+    "name": "Carl Starfelt"
+   },
+   {
+    "no": 8,
+    "name": "Daniel Svensson"
+   },
+   {
+    "no": 26,
+    "name": "Taha Ali"
+   },
+   {
+    "no": 14,
+    "name": "Hjalmar Ekdal"
+   },
+   {
+    "no": 12,
+    "name": "Viktor Johansson"
+   },
+   {
+    "no": 6,
+    "name": "Herman Johansson"
+   },
+   {
+    "no": 16,
+    "name": "Jesper Karlström"
+   },
+   {
+    "no": 25,
+    "name": "Gustaf Nilsson"
+   },
+   {
+    "no": 23,
+    "name": "Kristoffer Nordfeldt"
+   },
+   {
+    "no": 20,
+    "name": "Eric Smith"
+   },
+   {
+    "no": 19,
+    "name": "Mattias Svanberg"
+   },
+   {
+    "no": 22,
+    "name": "Besfort Zeneli"
+   }
+  ]
+ },
+ "missing": [
+  {
+   "side": "home",
+   "no": 8,
+   "name": "Takefusa Kubo",
+   "reason": "Sprained knee injury"
+  }
+ ],
+ "events": [
+  {
+   "min": 32,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Isak Hien"
+  },
+  {
+   "min": 56,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Daizen Maeda"
+  },
+  {
+   "min": 62,
+   "side": "away",
+   "type": "进球",
+   "sub": null,
+   "player": "Anthony Elanga"
+  },
+  {
+   "min": 77,
+   "side": "home",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Shogo Taniguchi"
+  },
+  {
+   "min": 85,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Viktor Gyökeres"
+  }
+ ],
+ "injuries": [],
+ "suspensions": [],
+ "ratings": {},
+ "quotes": [],
+ "narrative": "",
+ "prediction_note": "",
+ "_note": "macheta/Sofascore 权威硬数据；injuries/suspensions/ratings/quotes/narrative/prediction_note 待 agent WebSearch 补。"
+}

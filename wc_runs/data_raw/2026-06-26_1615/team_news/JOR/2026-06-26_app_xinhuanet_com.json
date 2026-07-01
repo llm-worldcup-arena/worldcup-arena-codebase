@@ -1,0 +1,16 @@
+{
+ "team": "JOR",
+ "source": "app.xinhuanet.com",
+ "url": "https://app.xinhuanet.com/news/article.html?articleId=2026062391cfaa66b5274171955e4ae0b80f5b61",
+ "title": "约旦发生球迷踩踏事件致1死8伤 - 新华网客户端",
+ "news_date": "2026-06-26",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-26",
+ "fetched": "2026-06-26_1615",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "新华社安曼6月23日电（记者何奕萍）约旦公安总局新闻发言人23日说，位于约旦首都安曼的古罗马剧场当天发生球迷踩踏事件，导致1人死亡、8人受伤。\n\n发言人说，伤者伤势稳定。当天是美加墨世界杯J组第二轮比赛约旦队对阵阿尔及利亚队，约旦球迷集中在古罗马剧场观看比赛。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

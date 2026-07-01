@@ -1,0 +1,16 @@
+{
+ "team": "URU",
+ "source": "standard.co.uk",
+ "url": "https://www.standard.co.uk/sport/football/spain-xi-vs-uruguay-starting-lineup-confirmed-team-news-injury-latest-world-cup-2026-today-b1287589.html",
+ "title": "Spain XI vs Uruguay: Starting lineup, confirmed team news, injury latest for World Cup today | The Standard",
+ "news_date": "2026-06-29",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-29",
+ "fetched": "2026-06-29_0714",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Spain XI vs Uruguay: Starting lineup, confirmed team news, injury latest for World Cup today\nsport | tennis\nEmma Raducanu confirms Wimbledon withdrawal hours after promising to play through pain\nBritish No1 reveals she has been struck down with a stress fracture less than 24 hours before opening match",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

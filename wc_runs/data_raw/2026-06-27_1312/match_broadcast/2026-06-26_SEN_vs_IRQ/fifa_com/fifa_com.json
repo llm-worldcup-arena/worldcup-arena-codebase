@@ -1,0 +1,24 @@
+{
+ "source": "fifa.com",
+ "url": "https://www.fifa.com/es/match-centre/match/17/285023/289273/400021493",
+ "title": "Senegal v Irak 5-0 | Resultado, Estadísticas y Eesumen | Primera fase | Copa Mundial de la FIFA 2026 | FIFA",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-26",
+  "home": "SEN",
+  "away": "IRQ",
+  "home_en": "Senegal",
+  "away_en": "Iraq",
+  "home_zh": "塞内加尔",
+  "away_zh": "伊拉克",
+  "comp": "小组赛·I组",
+  "match_id": "M62",
+  "slug": "2026-06-26_SEN_vs_IRQ"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Senegal v Irak 5-0 | Resultado, Estadísticas y Eesumen | Primera fase | Copa Mundial de la FIFA 2026\nSaltar al contenido principal\nCOBERTURA EN DIRECTO\nALINEACIÓN\nESTADÍSTICAS\nPOWER RANKINGS\nCLASIFICACIÓN\nPARTIDOS RELACIONADOS\nNOTICIAS\nEstadísticas oficiales de la FIFA\nAtaque\nPosesión del balón\n58%\n30%\n13% en disputa\nGol\nTotal\n5\n0\nEncajados\n0\n5\nDentro del área penal\n3\n0\nFuera del área penal\n2\n0\nAsistencias\n5\n0\nRemates a puerta\nTotal\n27\n6\nA puerta\n11\n1\nFallidos\n11\n1\nDentro del área penal\n14\n1\nFuera del área penal\n13\n5\nInternadas en el último tercio\nCarril izquierdo\n28\n10\nCarril interior izquierdo\n10\n2\nCarril central\n15\n2\nCarril interior derecho\n10\n1\nCarril derecho\n21\n7\nLíneas de pase\nTotal\n364\n163\nDetrás\n123\n50\nEn medio\n124\n68\nDelante\n117\n45\nRecepciones de pases entre la línea de medios y la defensiva\n133\n44\nRecepciones entre líneas\n16\n4\nRuptura de líneas\nIntentos de ruptura de líneas\n153\n128\nRupturas de líneas\n120\n59\nIntentos de ruptura de líneas\n28\n13\nRupturas de líneas defensivas\n17\n4\nDisciplina\nTarjetas amarillas\n2\n2\nTarjetas rojas\n0\n1\nFaltas recibidas\n10\n11\nFueras de juego\n1\n0\nDistribución\nPases\n585\n280\nPases completados\n523\n200\nCentros\n29\n5\nCentros completados\n7\n0\nCambios de orientación\n3\n3\nJugadas a balón parado\nSaques de esquina\n12\n3\nLanzamientos de falta\n11\n11\nPenaltis marcados\n0\n0\nDefensa\nAutogoles\n0\n0\nPérdidas de balón provocadas\n38\n43\nPresiones defensivas\n162\n259\nCara a cara\nÚltimas reuniones\nRESULTADOS\nL\nD\nL\nL\nW\nEstadísticas del jugador\nPapePape\nGUEYEGUEYE\n2\nGoles\nIdrissaIdrissa\nGana GUEYEGana GUEYE\n91\nPasesPases\nSadioSadio\nMANEMANE\n8\nCentrosCentros\nPapePape\nGUEYEGUEYE\n6\nRemates a puertaRemates a puerta\nAbdoulayeAbdoulaye\nSeckSeck\n1\nAsistenciasAsistencias\nIsmailIsmail\nJAKOBSJAKOBS\n12.24\nkm\nDistancia totalDistancia total\nKEVINKEVIN\nYAKOBYAKOB\n7.35\nkm/h\nVelocidad mediaVelocidad media\nIsmailIsmail\nJAKOBSJAKOBS\n64\nSprintsSprints\nIdrissaIdrissa\nGana GUEYEGana GUEYE\n32\nIntentos de ruptura de líneasIntentos de ruptura de líneas\nIdrissaIdrissa\nGana GUEYEGana GUEYE\n26\nRupturas de líneasRupturas de líneas\nIsmailIsmail\nJAKOBSJAKOBS\n41\nTotal de líneas de paseTotal de líneas de pase\nSadioSadio\nMANEMANE\n26\nRecepciones de pases entre la línea de medios y la defensivaRecepciones de pases entre la línea de medios y la defensiva\nALIALI\nJASIMJASIM\n12\nPérdidas de balón provocadasPérdidas de balón provocadas\nIBRAHIMIBRAHIM\nBAYESHBAYESH\n49\nPresiones defensivasPresiones defensivas",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

@@ -1,0 +1,16 @@
+{
+ "team": "ALG",
+ "source": "sports.yahoo.com",
+ "url": "https://sports.yahoo.com/soccer/teams/algeria/injuries/",
+ "title": "Algeria Injuries - Yahoo Sports",
+ "news_date": "2026-06-30",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-30",
+ "fetched": "2026-06-30_1258",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "NBA free agency updates: Ja Morant to Blazers, James Harden declines option\nViral German soccer fan vows to carry on journey despite team's stunning exit\nKager Knueppel follows his older brother, commits to play at Duke\nReds' Dane Myers carted off field after ridiculous catch, scary collision\nYankees' Jazz Chisholm leaves loss early with concussion after scary collision",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

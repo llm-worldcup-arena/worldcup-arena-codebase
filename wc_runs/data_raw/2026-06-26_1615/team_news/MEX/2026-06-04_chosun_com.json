@@ -1,0 +1,16 @@
+{
+ "team": "MEX",
+ "source": "chosun.com",
+ "url": "https://www.chosun.com/english/sports-en/2026/06/04/5ZSAF3LNAVEPTOGOJABGEESONU/",
+ "title": "Mexico's Injury Woes Ahead of World Cup Opener vs South Africa",
+ "news_date": "2026-06-04",
+ "published": "2026-06-04T13:48:29.339Z",
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-26",
+ "fetched": "2026-06-26_1615",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Mexico's Injury Woes Ahead of World Cup Opener vs South Africa\nAgirre, Mexico national team coach. /EPA\n[Sports Chosun Nogoon Reporter] The co-host nation Mexico, which shares the same group as the South Korean national football team for the North America-Central America World Cup, is deeply troubled by injuries. Mexico is struggling with the physical condition of four players ahead of the opening match of the 2026 North America-Central America World Cup against South Africa, scheduled for the 12th (Korean time), as these players have each been battling various injuries over the past few weeks.\nMexico's head coach Javier Aguirre had previously stated that he would not bring injured players to the tournament. However, due to the severity of Mexico's injury concerns, he ultimately had to reconsider his stance.\nAccording to reports from Mexican local media, defenders César Montes, Lokomotiv Moscow, Edson Álvarez, Fenerbahçe, midfielder Luis Chávez, Dynamo Moscow, and forward Alexis Vega, Toluca are all recovering from injuries and fighting against time to get back into shape. They are still not fully fit.\nMontes made a substitute appearance in the friendly match against Australia on the 1st but continues to complain of muscle pain. Fenerbahçe's star Álvarez is dealing with an ankle issue. Dynamo Moscow midfielder Chávez has a painful ligament condition. Toluca forward Vega is managing knee pain, and this injury requires close monitoring.\nSouth Africa, in contrast, has relatively fewer injured players. The only current injury concern is left-back Aubrey Modiba, Mamelodi Sundowns. South Africa's head coach Hugo Broos is hoping that Modiba will recover in time for the first match against Mexico.\nSouth Korea will face Mexico in the second group-stage match on the 19th. Reporter Nogoon nogoon@sportschosun.com\n· This article has been translated by Upstage Solar AI.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

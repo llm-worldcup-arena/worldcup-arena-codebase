@@ -1,0 +1,24 @@
+{
+ "source": "reuters.com",
+ "url": "https://www.reuters.com/sports/soccer/nothing-changes-cape-verde-crunch-clash-with-saudi-arabia-2026-06-26/",
+ "title": "Nothing changes for Cape Verde in crunch clash with Saudi Arabia | Reuters",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-26",
+  "home": "CPV",
+  "away": "KSA",
+  "home_en": "Cape Verde",
+  "away_en": "Saudi Arabia",
+  "home_zh": "佛得角",
+  "away_zh": "沙特阿拉伯",
+  "comp": "小组赛·H组",
+  "match_id": "M65",
+  "slug": "2026-06-26_CPV_vs_KSA"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Nothing changes for Cape Verde in crunch clash with Saudi Arabia\nVerification Required\nThe visual verification might not be accessible to you. We recommend you to use the audio verification instead. Important: after clicking play, you will hear 6 digits. Please wait until the audio finishes before typing or interacting with the page.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

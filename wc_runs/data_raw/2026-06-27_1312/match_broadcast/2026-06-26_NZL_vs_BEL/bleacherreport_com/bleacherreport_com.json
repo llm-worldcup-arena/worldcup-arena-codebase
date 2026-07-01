@@ -1,0 +1,24 @@
+{
+ "source": "bleacherreport.com",
+ "url": "https://bleacherreport.com/game/new-zealand-national-football-vs-belgium-national-football-2026-6-15-18-00",
+ "title": "Belgium vs. New Zealand - June 15, 2026 | Live Scores, Updates, Odds, Injury News and Recaps | Bleacher Report",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-26",
+  "home": "NZL",
+  "away": "BEL",
+  "home_en": "New Zealand",
+  "away_en": "Belgium",
+  "home_zh": "新西兰",
+  "away_zh": "比利时",
+  "comp": "小组赛·G组",
+  "match_id": "M64",
+  "slug": "2026-06-26_NZL_vs_BEL"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "HomeScoresTeamsFIFA World Cup 2026Transfer RumorsUSMNTUSWNTB/R 99: Ranking Best Players EverPremier LeagueChampions LeagueLa LigaSerie ABundesligaMLS\nBelgium vs. New Zealand - June 15, 2026\nNZL\n1\nFinalYesterday\n5\nBEL\nRecap\nStats\nSocial\nLineup\nPlays\nStandings\nBets offered by\nGambling Problem? Call 1-800-GAMBLER. Hope is here. GamblingHelpLineMA.org or call (800) 327-5050 for 24/7 support (MA). Call 1-877-8HOPE-NY or Text HOPENY (467369) (NY). 21+ and present in AZ, CO, CT, IA, IL, IN, KS, KY, LA (permitted parishes only), MA, MD, MI, NJ, NY, OH, PA, TN, VA, WV, or WY. FanDuel is offering online sports wagering in Kansas under an agreement with Kansas Star Casino, LLC. Gambling Problem? Call 1-800-GAMBLER or visit FanDuel.com/RG (CO, IA, KY, MI, NJ, OH, PA, IL, TN, VA), 1-800-NEXT-STEP or text NEXTSTEP to 53342 (AZ), 1-888-789-7777 or visit ccpg.org/chat (CT), 1-800-9-WITH-IT (IN), 1-800-522-4700 or visit ksgamblinghelp.com (KS), 1-877-770-STOP (LA), visit www.mdgamblinghelp.org (MD), 1-800-522-4700 (WY), or visit www.1800gambler.net (WV).",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

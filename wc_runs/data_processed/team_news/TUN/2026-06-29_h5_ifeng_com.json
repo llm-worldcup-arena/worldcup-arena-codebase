@@ -1,0 +1,16 @@
+{
+ "team": "TUN",
+ "source": "h5.ifeng.com",
+ "url": "https://h5.ifeng.com/c/vivoArticle/v002WE2z8j4YQuYBEfQ5GH--q5UNFHFWCTVkPPeO4mrw7hnQ__?vivoBusiness=hiboardnews",
+ "title": "13位名将预计因伤缺席世界杯，西蒙斯、米利唐等人在列",
+ "news_date": "2026-06-29",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-29",
+ "fetched": "2026-06-29_0714",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "世界杯日益临近，近期却有多名球员遭受重伤，预计无缘世界杯。记者Rahman Osman列出了遭遇伤病的13位著名球员的名单，他们预计都将缺席世界杯。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

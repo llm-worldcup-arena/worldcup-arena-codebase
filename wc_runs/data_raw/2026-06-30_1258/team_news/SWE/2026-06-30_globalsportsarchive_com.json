@@ -1,0 +1,16 @@
+{
+ "team": "SWE",
+ "source": "globalsportsarchive.com",
+ "url": "https://globalsportsarchive.com/news-article/soccer/isak-hien-ruled-out-of-poland-playoff-final-as-swedens-injury-list-grows/171908/",
+ "title": "Isak Hien ruled out of Poland playoff final as Sweden's injury list grows - Global Sports Archive",
+ "news_date": "2026-06-30",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-30",
+ "fetched": "2026-06-30_1258",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "Sweden will be without Isak Hien for Tuesday’s 2026 World Cup playoff final against Poland after the defender was ruled out with a thigh injury suffered during the 3–1 win over Ukraine. Hien, who started alongside captain Victor Lindelöf in Valencia, was forced off after 37 minutes and has been unable to train since. He has now left the national‑team camp, with no replacement added to the squad. Carl Starfelt is expected to step into the starting lineup after deputising in the semi‑final.\n\nThe 27‑year‑old has been one of Sweden’s most consistent performers over the past year, even wearing the armband in Lindelöf’s absence, and Atalanta will now assess how long he may be sidelined. Sweden, already hit by injuries to Alexander Isak, Emil Holm, Dejan Kulusevski and Emil Krafth, will again look to Viktor Gyökeres, whose hat‑trick secured their place in the final. Poland, meanwhile, arrive with no new fitness concerns.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

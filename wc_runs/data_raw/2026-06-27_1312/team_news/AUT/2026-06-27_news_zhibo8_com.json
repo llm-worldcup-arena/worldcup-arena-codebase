@@ -1,0 +1,16 @@
+{
+ "team": "AUT",
+ "source": "news.zhibo8.com",
+ "url": "https://news.zhibo8.com/zuqiu/2026-06-23/6a396b0df2329native.htm",
+ "title": "太拼了！踢约旦下颚骨骨折的奥地利后卫波施，本场对阵阿根廷首发-直播吧",
+ "news_date": "2026-06-27",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-27",
+ "fetched": "2026-06-27_1312",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "直播吧06月23日讯 2026世界杯小组赛J组第2轮，阿根廷vs奥地利。奥地利29岁的后卫斯蒂芬·波施首发出战，他曾在首轮对阵约旦时下颌骨骨折。\n\n在 官方通告 中，奥地利足协表示：“斯蒂芬·波施在世界杯首场对阵约旦的比赛中下颌骨骨折。CT扫描证实了这一伤情。目前，斯蒂芬·波施无需手术。”",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

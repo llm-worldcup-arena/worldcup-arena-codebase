@@ -1,0 +1,16 @@
+{
+ "team": "KOR",
+ "source": "harveycadillac.com",
+ "url": "https://www.harveycadillac.com/searchnew.aspx",
+ "title": "Cadillac New Vehicle Inventory Search in Grand Rapids | Cadillac dealership in Grand Rapids MI",
+ "news_date": "2026-06-30",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-30",
+ "fetched": "2026-06-30_1258",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "This content has been blocked pending your consent.\nThis content has been blocked pending your consent.\nThis content has been blocked pending your consent.\nThis content has been blocked pending your consent.\nThis content has been blocked pending your consent.\nThis content has been blocked pending your consent.\nThis content has been blocked pending your consent.\nThis content has been blocked pending your consent.\nThis content has been blocked pending your consent.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

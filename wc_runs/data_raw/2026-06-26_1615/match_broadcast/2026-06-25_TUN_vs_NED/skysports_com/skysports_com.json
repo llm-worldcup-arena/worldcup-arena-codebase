@@ -1,0 +1,24 @@
+{
+ "source": "skysports.com",
+ "url": "https://www.skysports.com/football/news/11095/13556668/world-cup-2026-tunisia-1-3-netherlands-ronald-koemans-side-claim-top-spot-in-group-f-with-comprehensive-win-in-kansas-city",
+ "title": "World Cup 2026: Tunisia 1-3 Netherlands -  Ronald Koeman's side claim top spot in Group F with comprehensive win in Kansas City",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-25",
+  "home": "TUN",
+  "away": "NED",
+  "home_en": "Tunisia",
+  "away_en": "Netherlands",
+  "home_zh": "突尼斯",
+  "away_zh": "荷兰",
+  "comp": "小组赛·F组",
+  "match_id": "M58",
+  "slug": "2026-06-25_TUN_vs_NED"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Netherlands secured top spot in Group F with a comprehensive 3-1 win over Tunisia. The Netherlands knew that top spot would be theirs so long as they matched Japan's result against Sweden, and with the other Group F game finishing 1-1, Ronald Koeman's side safely took first. A third-minute own goal from Ellyes Skhiri - the 12th this tournament and joint-most in World Cup history - was followed by Brian Brobbey's third of the competition four minutes later to put the Dutch in command. Hazem Mastouri did respond with a goal on his World Cup debut early in the second half, but a header from Jan Paul van Hecke just after the hour mark secured the points for Netherlands.   Who will each Group F team face in the round of 32? Netherlands vs Morocco in Guadalupe, Mexico on Tuesday June 30 , kick-off 2am . Brazil vs Japan in Houston, Texas on Monday June 29 , kick-off at 6pm . Sweden could face any of Germany, the Group I winners, Mexico, USA or Switzerland - depending on which other third-placed teams qualify. However, their opponents are most likely to be the Group I winners, which will be one of France or Norway . That round of 32 game will take place on Tuesday June 30 in New Jersey, New York, kick-off 10pm. The key moments from Kansas City... 2: Gharbi misses huge chance to give Tunisia shock opener 3: GOAL! Captain Skhiri turns the ball into his own net 7: GOAL! Brobbey taps home third goal of World Cup 13: Ben Slimane heads straight at Verbruggen from close range 51: Skhiri makes unbelievable block on the line to deny Dumfries 53: GOAL! Mastouri halves deficit on World Cup debut 62: GOAL! Van Hecke restores two-goal cushion 66: Reijnders hits the bar with delicate chip Analysis: Netherlands show they can go through the gears Sky Sports' Callum Bishop: In many ways, this was the result everyone expected. However, the manner of it was an interesting one. While the Netherlands controlled the game throughout, they certainly didn't have it all their own way. Tunisia came to play and had plenty of chances themselves. What was most impressive, though, was the way in which Ronald Koeman's side responded to the warnings. Tunisia arguably should've been ahead by the time of the third-minute opener. The Dutch also hit back immediately after conceding in the second half and pushed for more goals. Can they do that against tougher opposition? The knockout stages will tell us. However, the way they have gone about their business with 10 goals in three games would make them frightening opposition for many. A match-up against Morocco will be one of the more intriguing ties of the round of 32. The question is, can they keep the form going against a semi-finalist from 2022?",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

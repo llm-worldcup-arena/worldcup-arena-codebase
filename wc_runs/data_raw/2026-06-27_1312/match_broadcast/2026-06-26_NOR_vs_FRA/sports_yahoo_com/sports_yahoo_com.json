@@ -1,0 +1,24 @@
+{
+ "source": "sports.yahoo.com",
+ "url": "https://sports.yahoo.com/soccer/fifa-world-cup/france-norway-13587229/",
+ "title": "Norway 1 - 4 France: Final score, results, recap, box score, stats - Yahoo Sports",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-26",
+  "home": "NOR",
+  "away": "FRA",
+  "home_en": "Norway",
+  "away_en": "France",
+  "home_zh": "挪威",
+  "away_zh": "法国",
+  "comp": "小组赛·I组",
+  "match_id": "M61",
+  "slug": "2026-06-26_NOR_vs_FRA"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Norway 1 - 4 France: Final score, results, recap, box score, stats\nGoal\n20 - Desire Doue\nAssist\n12 - Bradley Barcola\nSubstitution - In\n2 - Malo Gusto\nSubstitution - Out\n5 - Jules Kounde\nSubstitution - In\n22 - Jean-Philippe Mateta\nSubstitution - Out\n10 - Kylian Mbappe\nSubstitution - In\n20 - Antonio Nusa\nSubstitution - Out\n21 - Andreas Schjelderup\nSubstitution - In\n23 - Jens Petter Hauge\nSubstitution - Out\n22 - Oscar Bobb\nSubstitution - In\n15 - Ibrahima Konate\nSubstitution - Out\n4 - Dayot Upamecano\nYellow Card\n8 - Aurelien Tchouameni\nSubstitution - In\n24 - Sondre Langas\nSubstitution - Out\n25 - Henrik Falchener\nSubstitution - In\n12 - Bradley Barcola\nSubstitution - Out\n7 - Ousmane Dembele\nSubstitution - In\n24 - Rayan Cherki\nSubstitution - Out\n11 - Michael Olise\nSubstitution - In\n16 - Marcus Holmgren Pedersen\nSubstitution - Out\n15 - Fredrik Andre Bjorkan\nSubstitution - In\n2 - Morten Thorsby\nSubstitution - Out\n18 - Kristian Thorstvedt",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

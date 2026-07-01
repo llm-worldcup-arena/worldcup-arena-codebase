@@ -1,0 +1,16 @@
+{
+ "team": "BIH",
+ "source": "sports.yahoo.com",
+ "url": "https://sports.yahoo.com/articles/world-cup-2026-official-line-175500294.html",
+ "title": "World Cup 2026 official line-ups: Bosnia vs. Qatar and Switzerland vs. Canada - Yahoo Sports",
+ "news_date": "2026-06-26",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-26",
+ "fetched": "2026-06-26_1615",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "World Cup 2026 official line-ups: Bosnia vs. Qatar and Switzerland vs. Canada\nThere are several Serie A players involved in tonight’s World Cup games, as Group B will be decided with Bosnia and Herzegovina vs. Qatar and Switzerland vs. Canada.\nThey both kick off simultaneously at 20.00 UK time (21.00 CEST), but in two different countries.\nAdvertisement\nThis was set to be the group that Italy were going to be placed in, until losing the World Cup play-off on penalties to Bosnia and Herzegovina.\nZENICA, BOSNIA AND HERZEGOVINA – MARCH 31: Haris Tabakovic of Bosnia and Herzegovina celebrates with his teammates after scoring his team’s equalizing goal during the FIFA World Cup 2026 European Qualifiers KO play-offs match between Bosnia & Herzegovina and Italy at Stadion Bilino Polje on March 31, 2026 in Zenica, Bosnia and Herzegovina. (Photo by Getty Images/Getty Images)\nThere are quite a few Serie A representatives in that squad, including Sead Kolasinac of Atalanta, Sassuolo’s Tarik Muharemovic, new Venezia signing Ivan Basic and ex-Roma, Inter and Fiorentina striker Edin Dzeko.\nAdvertisement\nBosnia are still looking for their first 2026 World Cup victory after a 1-1 draw with Canada and 4-1 defeat to Switzerland, where Muharemovic was sent off and is therefore suspended here along with Qatar’s Assim Madibo and Homam Al-Amin.\nMILAN, ITALY – APRIL 17: Manuel Akanji of FC Internazionale Milano warms up prior to the Serie A match between FC Internazionale and Cagliari Calcio at Giuseppe Meazza Stadium on April 17, 2026 in Milan, Italy. (Photo by Marco Luzzani/Getty Images)\nIn the other match, both Canada and Switzerland have four points, so go head-to-head for top spot.\nJuventus striker Jonathan David bagged a hat-trick in the 6-0 victory over Qatar, and starts again for the CANMNT.\nAdvertisement\nHowever, the tournament is over for Sassuolo midfielder Ismael Kone, who fractured his leg in that match.\nInter defender Manuel Akanji, Bologna midfielder Remo Freuler and Pisa’s Michel Aebischer are all familiar faces, but Milan’s Ardon Jashari is on the bench.\nWorld Cup Group B\nBosnia and Herzegovina vs. Qatar\nBosnia and Herzegovina: Vasilj; Radeljic, Katic, Malic, Kolasinac; Bakaktarevic, Sunjic, Basic, Alajbegovic; Demirovic, Dzeko\nQatar: Abunada; Pedro Miguel, Boualem Khoukhi, Laye, Sultan Albrake; Jassem Gaber, Fathy, Boudiaf; Hassan Alhaydos, Akram Afif, Edmilson Junior\nSwitzerland: Kobel; Jacquez, Elvedi, Akanji, Rodriguez; Freuler, Xhaka; Manzambi, Sow, Vargas; Embolo\nCanada: Crepeau; Johnston, De Fougerolles, Cornelius, Laryea; Buchanan, Choiniere, Saliba, Ahmed; Jonathan David, Larin",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

@@ -1,0 +1,24 @@
+{
+ "source": "espn.com",
+ "url": "https://www.espn.com/soccer/report/_/gameId/760478",
+ "title": "Cape Verde 0-0 Saudi Arabia (Jun 26, 2026) Game Analysis - ESPN",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-26",
+  "home": "CPV",
+  "away": "KSA",
+  "home_en": "Cape Verde",
+  "away_en": "Saudi Arabia",
+  "home_zh": "佛得角",
+  "away_zh": "沙特阿拉伯",
+  "comp": "小组赛·H组",
+  "match_id": "M65",
+  "slug": "2026-06-26_CPV_vs_KSA"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "HOUSTON -- Cape Verde completed an improbable run through the group stage with a third straight World Cup draw to become the smallest country to earn a spot in a FIFA World Cup knockout round following a 0-0 draw against Saudi Arabia on Friday night.\nThe small island nation off the western coast of Africa, which is making its debut on the game's grandest stage, had already held 2010 champion Spain to a 0-0 draw and then came from behind to get a 2-2 result against Uruguay.\nCape Verde's three points put the team in second place behind Spain, who beat Uruguay on Friday night and won the group.\nCape Verde celebrates\nImage Photo Agency/Getty Images\nCape Verde will play reigning World Champions Argentina in Miami on July 3.\nOn the eve of the match, Cape Verde coach Bubista mused, \"everyone is entitled to dream and nothing is impossible.\"\nThe Blue Sharks proved him right, overcoming seemingly insurmountable odds as this country of just more than 500,000 reached the round of 32.\nA woman, her face painted with a flag of the archipelago, held a sign that read: \"Small Islands, Big Dreams.\"\nA dream that these underdogs have made reality as they continue their charmed run on the world stage.\nThey did it with another strong game from Vozinha, the 40-year-old goalkeeper whose tournament success has helped him amass more than 16 million Instagram followers.\nHe had a save in first half stoppage time, grabbing a header from Mohamed Kanno to keep Saudi Arabia scoreless. Another save came in the 66th minute when he leaped to deflect a shot from Mohammed Abu Al-Shamat. A third came in the 92nd minute when he stopped a shot by Abdullah Al-Hamdan.\nCape Verde had a chance to score in the 50th minute, but Kevin Pina's shot from distance was just above the crossbar. Another chance came in the 74th minute when Laros Duarte's shot from the middle of the box was stopped by goalkeeper Mohammed Al-Owais.\nA last chance to score came in the final seconds when Nuno da Costa sent a shot from the middle of the box wide left.\nBut it didn't matter because a couple of minutes after the final whistle, Spain completed its victory over Uruguay and set off a joyous celebration among Cape Verde's players and fans, many of whom cried as they rejoiced.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

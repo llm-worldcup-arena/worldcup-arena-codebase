@@ -1,0 +1,24 @@
+{
+ "source": "as.com",
+ "url": "https://as.com/futbol/mundial/cabo-verde-arabia-saudi-hoy-en-directo-fase-de-grupos-del-mundial-2026-ultima-hora-del-grupo-h-f202606-d/",
+ "title": "Cabo Verde 0 - 0 Arabia Saudí: resumen y resultado de la fase de grupos del Mundial 2026 | Grupo H",
+ "published": "2026-06-27T00:59:45+02:00",
+ "tier": "2",
+ "lang": "es",
+ "match": {
+  "date": "2026-06-26",
+  "home": "CPV",
+  "away": "KSA",
+  "home_en": "Cape Verde",
+  "away_en": "Saudi Arabia",
+  "home_zh": "佛得角",
+  "away_zh": "沙特阿拉伯",
+  "comp": "小组赛·H组",
+  "match_id": "M65",
+  "slug": "2026-06-26_CPV_vs_KSA"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "La Selección de Cabo Verde hace historia en el Mundial 2026 al conseguir el pase a dieciseisavos de final como segunda del grupo H. Un grupo en el que España pasa como primera y en el que Uruguay da el sorpresón al quedar eliminada. Los de Bubista además consiguen la clasificación sin perder: tres empates, aunque hay que reconocer que se han llevado menos premio del que merecían ante Arabia Saudí. Los halcones verdes arrancaron con intensidad hasta la pausa de hidratación. A partir de ahí apenas generaron peligro aún sabiendo que necesitaban un gol para clasificar.Perdieron en combate a Al-Tambakti a la media hora de juego y vieron como João Paulo y Mendes percutían por las bandas con más frecuencia. El asedio fue más evidente tras el descanso, con dos latigazos lejanos y con Wagner Pina como ejecutor. Los cambios de Bubista mejoraron a los tiburones azules, destacando a Da Costa, Garry Rodrigues y Laros Duarte. Este último tuvo la ocasión más clara pero Al-Owais le privó del 1-0 con un paradón a bocajarro. Finalmente son los africanos los que se llevan el gato al agua con merecimiento y todo apunta a que Argentina será el siguiente rival.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

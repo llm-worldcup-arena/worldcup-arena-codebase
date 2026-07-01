@@ -1,0 +1,24 @@
+{
+ "source": "sports.yahoo.com",
+ "url": "https://sports.yahoo.com/soccer/fifa-world-cup/saudi-arabia-cape-verde-13587226/",
+ "title": "Cape Verde 0 - 0 Saudi Arabia: Final score, results, recap, box score, stats - Yahoo Sports",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-26",
+  "home": "CPV",
+  "away": "KSA",
+  "home_en": "Cape Verde",
+  "away_en": "Saudi Arabia",
+  "home_zh": "佛得角",
+  "away_zh": "沙特阿拉伯",
+  "comp": "小组赛·H组",
+  "match_id": "M65",
+  "slug": "2026-06-26_CPV_vs_KSA"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Cape Verde 0 - 0 Saudi Arabia: Final score, results, recap, box score, stats\nSubstitution - In\n22 - Steven Moreira\nSubstitution - Out\n24 - Wagner Pina\nYellow Card\n9 - Feras Albrikan\nSubstitution - In\n24 - Moteb Alharbi\nSubstitution - Out\n13 - Nawaf Bu Washl\nSubstitution - In\n11 - Garry Rodrigues\nSubstitution - Out\n20 - Ryan Mendes\nSubstitution - In\n15 - Laros Duarte\nSubstitution - Out\n10 - Jamiro Monteiro\nYellow Card\n6 - Nasser Aldawsari\nSubstitution - In\n19 - Abdullah Alhamddan\nSubstitution - Out\n20 - Sultan Mandash\nSubstitution - In\n26 - Mohammed Abu Alshamat\nSubstitution - Out\n10 - Salem Aldawsari\nSubstitution - In\n26 - Helio Varela\nSubstitution - Out\n17 - Willy Semedo\nSubstitution - In\n21 - Nuno Da Costa\nSubstitution - Out\n19 - Dailon Livramento\nSubstitution - In\n7 - Musab Aljuwayr\nSubstitution - Out\n15 - Abdullah Alkhaibari",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

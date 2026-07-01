@@ -1,0 +1,16 @@
+{
+ "team": "TUR",
+ "source": "bbc.com",
+ "url": "https://www.bbc.com/sport/football/articles/c202w4ew633o",
+ "title": "World Cup 2026: Arda Guler, Caglar Soyuncu and Hakan Calhanoglu in Turkey squad",
+ "news_date": "2026-06-26",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-26",
+ "fetched": "2026-06-26_1615",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "Real Madrid midfielder Arda Guler has been named in Turkey's 26-man World Cup squad.\n\nGuler, 21, picked up the Champions League Revelation of the Season award, which recognises a young player's achievement in the competition, following his four assists and two goals as Real reached the quarter-finals.\n\nManchester United goalkeeper Altay Bayindir and Brighton defender Ferdi Kadioglu have also been included in head coach Vincenzo Montella's final squad.\n\nTurkey open their Group D campaign against Australia on 14 June, followed by Paraguay on 20 June and the United States on 26 June.\n\nThe World Cup, co-hosted by the US, Canada and Mexico, begins on 11 June.\n\nGoalkeepers: Altay Bayindir (Manchester United), Mert Gunok (Fenerbahce), Ugurcan Cakir (Galatasaray).\n\nDefenders: Abdulkerim Bardakci (Galatasaray), Caglar Soyuncu (Fenerbahce), Eren Elmali (Galatasaray), Ferdi Kadioglu (Brighton), Merih Demiral (Al-Ahli Saudi), Mert Muldur (Fenerbahce), Ozan Kabak (Hoffenheim), Samet Akaydin (Caykur Rizespor), Zeki Celik (AS Roma).\n\nMidfielders: Hakan Calhanoglu (Inter Milan), Ismail Yuksek (Fenerbahce), Kaan Ayhan (Galatasaray), Orkun Kokcu (Besiktas), Salih Ozcan (Borussia Dortmund).\n\nForwards: Arda Guler (Real Madrid), Baris Alper Yilmaz (Galatasaray), Can Uzun (Eintracht Frankfurt), Deniz Gul (Porto), Irfan Can Kahveci (Kasimpasa), Kenan Yildiz (Juventus), Kerem Akturkoglu (Fenerbahce), Oguz Aydin (Fenerbahce), Yunus Akgun (Galatasaray).",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

@@ -1,0 +1,16 @@
+{
+ "team": "KSA",
+ "source": "foxsports.com",
+ "url": "https://www.foxsports.com/soccer/saudi-arabia-men-team",
+ "title": "Saudi Arabia Team News - Soccer | FOX Sports",
+ "news_date": "2026-06-26",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-26",
+ "fetched": "2026-06-26_1615",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Yamal In Action; Mbappé, Haaland Finally Meet: World Cup Match Day 16 Is Massive\nWorld Cup Buzz: Mauricio Pochettino, Country Music Fan, Has A Request\nWorld Cup Roundup: Spain Makes Statement; Belgium's Struggles Continue\nSpain Star Lamine Yamal On His 1st World Cup Goal: 'A Dream Come True'\n4 Takeaways From Spain's Bounce-Back Win vs. Saudi Arabia At The World Cup\nSpain vs. Saudi Arabia Highlights: Spain Dominates, Earns 3 Points\nSpain vs. Saudi Arabia Prediction, Odds, Picks For World Cup Match\nSpain vs. Saudi Arabia: How to Watch, TV Channel, Live Stream, Time\nCape Verde, Spain, Egypt Back in Action: What To Know For World Cup Match Day 11\n4 Takeaways From Uruguay's Nervy Draw vs.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

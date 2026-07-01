@@ -1,0 +1,24 @@
+{
+ "source": "reutersconnect.com",
+ "url": "https://www.reutersconnect.com/item/turkiye-v-usa-fifa-world-cup-2026-group-d/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwVDJBMk9P",
+ "title": "Licensable picture: Turkiye v USA - FIFA World Cup 2026 - Group D | Reuters Connect",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-25",
+  "home": "TUR",
+  "away": "USA",
+  "home_en": "Türkiye",
+  "away_en": "United States",
+  "home_zh": "土耳其",
+  "away_zh": "美国",
+  "comp": "小组赛·D组",
+  "match_id": "M59",
+  "slug": "2026-06-25_TUR_vs_USA"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Licensable picture: Turkiye v USA - FIFA World Cup 2026 - Group D\nThis asset – including all text, audio and imagery – is provided by Anadolu Agency. Reuters Connect has not verified or endorsed the material, which is being made available to professional media customers to facilitate the free flow of global news and information.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

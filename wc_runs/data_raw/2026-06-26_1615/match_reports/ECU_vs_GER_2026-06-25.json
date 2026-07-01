@@ -1,0 +1,381 @@
+{
+ "match_id": 4627858,
+ "date": "2026-06-25",
+ "comp": "世界杯",
+ "ha_home": "中",
+ "home": "ECU",
+ "away": "GER",
+ "score": "2-1",
+ "venue": "MetLife Stadium (New Jersey)",
+ "attendance": 80663,
+ "goals": [
+  {
+   "min": 2,
+   "side": "away",
+   "player": "Leroy Sané",
+   "sub": null
+  },
+  {
+   "min": 9,
+   "side": "home",
+   "player": "Nilson Angulo",
+   "sub": null
+  },
+  {
+   "min": 77,
+   "side": "home",
+   "player": "Gonzalo Plata",
+   "sub": null
+  }
+ ],
+ "cards": [
+  {
+   "min": 43,
+   "side": "home",
+   "player": "Piero Hincapie",
+   "type": "黄牌"
+  },
+  {
+   "min": 44,
+   "side": "away",
+   "player": "Aleksandar Pavlović",
+   "type": "黄牌"
+  },
+  {
+   "min": 50,
+   "side": "home",
+   "player": "Alan Franco",
+   "type": "黄牌"
+  },
+  {
+   "min": 89,
+   "side": "home",
+   "player": "Gonzalo Plata",
+   "type": "黄牌"
+  }
+ ],
+ "stats": {
+  "射门": [
+   "7",
+   "11"
+  ],
+  "射正": [
+   "3",
+   "3"
+  ],
+  "禁区内射门": [
+   "2",
+   "3"
+  ],
+  "扑救": [
+   "2",
+   "5"
+  ],
+  "角球": [
+   "3",
+   "2"
+  ],
+  "越位": [
+   "0",
+   "0"
+  ],
+  "控球%": [
+   "39%",
+   "61%"
+  ],
+  "传中": [
+   "83",
+   "106"
+  ],
+  "传球": [
+   "312",
+   "517"
+  ],
+  "xG预期进球": [
+   "1.57",
+   "0.67"
+  ],
+  "xGOT/大机会": [
+   "1.63",
+   "0.94"
+  ]
+ },
+ "lineups": {
+  "home": [
+   {
+    "no": 1,
+    "name": "Hernan Galindez"
+   },
+   {
+    "no": 3,
+    "name": "Piero Hincapie"
+   },
+   {
+    "no": 6,
+    "name": "Willian Pacho"
+   },
+   {
+    "no": 4,
+    "name": "Joel Ordonez"
+   },
+   {
+    "no": 21,
+    "name": "Alan Franco"
+   },
+   {
+    "no": 20,
+    "name": "Nilson Angulo"
+   },
+   {
+    "no": 15,
+    "name": "Pedro Vite"
+   },
+   {
+    "no": 23,
+    "name": "Moises Caicedo"
+   },
+   {
+    "no": 9,
+    "name": "John Yeboah"
+   },
+   {
+    "no": 13,
+    "name": "Enner Valencia"
+   },
+   {
+    "no": 19,
+    "name": "Gonzalo Plata"
+   },
+   {
+    "no": 16,
+    "name": "Jordy Caicedo"
+   },
+   {
+    "no": 7,
+    "name": "Pervis Estupinan"
+   },
+   {
+    "no": 17,
+    "name": "Angelo Preciado"
+   },
+   {
+    "no": 11,
+    "name": "Kevin Rodriguez"
+   },
+   {
+    "no": 2,
+    "name": "Felix Torres"
+   },
+   {
+    "no": 5,
+    "name": "Jordy Alcivar"
+   },
+   {
+    "no": 24,
+    "name": "Jeremy Arevalo"
+   },
+   {
+    "no": 18,
+    "name": "Denil Castillo"
+   },
+   {
+    "no": 26,
+    "name": "Yaimar Medina"
+   },
+   {
+    "no": 14,
+    "name": "Alan Minda"
+   },
+   {
+    "no": 25,
+    "name": "Jackson Porozo"
+   },
+   {
+    "no": 10,
+    "name": "Kendry Paez"
+   },
+   {
+    "no": 12,
+    "name": "Moises Ramirez"
+   },
+   {
+    "no": 8,
+    "name": "Anthony Valencia"
+   },
+   {
+    "no": 22,
+    "name": "Gonzalo Valle"
+   }
+  ],
+  "away": [
+   {
+    "no": 1,
+    "name": "Manuel Neuer"
+   },
+   {
+    "no": 2,
+    "name": "Antonio Rüdiger"
+   },
+   {
+    "no": 4,
+    "name": "Jonathan Tah"
+   },
+   {
+    "no": 6,
+    "name": "Joshua Kimmich"
+   },
+   {
+    "no": 22,
+    "name": "David Raum"
+   },
+   {
+    "no": 5,
+    "name": "Aleksandar Pavlović"
+   },
+   {
+    "no": 23,
+    "name": "Felix Nmecha"
+   },
+   {
+    "no": 19,
+    "name": "Leroy Sané"
+   },
+   {
+    "no": 17,
+    "name": "Florian Wirtz"
+   },
+   {
+    "no": 10,
+    "name": "Jamal Musiala"
+   },
+   {
+    "no": 7,
+    "name": "Kai Havertz"
+   },
+   {
+    "no": 14,
+    "name": "Maximilian Beier"
+   },
+   {
+    "no": 13,
+    "name": "Pascal Gross"
+   },
+   {
+    "no": 16,
+    "name": "Angelo Stiller"
+   },
+   {
+    "no": 24,
+    "name": "Malick Thiaw"
+   },
+   {
+    "no": 26,
+    "name": "Deniz Undav"
+   },
+   {
+    "no": 20,
+    "name": "Nadiem Amiri"
+   },
+   {
+    "no": 3,
+    "name": "Waldemar Anton"
+   },
+   {
+    "no": 12,
+    "name": "Oliver Baumann"
+   },
+   {
+    "no": 8,
+    "name": "Leon Goretzka"
+   },
+   {
+    "no": 9,
+    "name": "Jamie Leweling"
+   },
+   {
+    "no": 21,
+    "name": "Alexander Nübel"
+   },
+   {
+    "no": 25,
+    "name": "Assan Ouédraogo"
+   },
+   {
+    "no": 11,
+    "name": "Nick Woltemade"
+   }
+  ]
+ },
+ "missing": [
+  {
+   "side": "away",
+   "no": 18,
+   "name": "Nathaniel Brown",
+   "reason": "Muscle injury"
+  },
+  {
+   "side": "away",
+   "no": 15,
+   "name": "Nico Schlotterbeck",
+   "reason": "Ligament injury"
+  }
+ ],
+ "events": [
+  {
+   "min": 2,
+   "side": "away",
+   "type": "进球",
+   "sub": null,
+   "player": "Leroy Sané"
+  },
+  {
+   "min": 9,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Nilson Angulo"
+  },
+  {
+   "min": 43,
+   "side": "home",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Piero Hincapie"
+  },
+  {
+   "min": 44,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Aleksandar Pavlović"
+  },
+  {
+   "min": 50,
+   "side": "home",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Alan Franco"
+  },
+  {
+   "min": 77,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Gonzalo Plata"
+  },
+  {
+   "min": 89,
+   "side": "home",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Gonzalo Plata"
+  }
+ ],
+ "injuries": [],
+ "suspensions": [],
+ "ratings": {},
+ "quotes": [],
+ "narrative": "",
+ "prediction_note": "",
+ "_note": "macheta/Sofascore 权威硬数据；injuries/suspensions/ratings/quotes/narrative/prediction_note 待 agent WebSearch 补。"
+}

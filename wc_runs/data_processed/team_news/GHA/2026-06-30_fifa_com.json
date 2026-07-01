@@ -1,0 +1,16 @@
+{
+ "team": "GHA",
+ "source": "fifa.com",
+ "url": "https://www.fifa.com/en/articles/ghana-squad-world-cup-2026-carlos-queiroz",
+ "title": "Kudus misses out as Queiroz names Ghana squad",
+ "news_date": "2026-06-30",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-30",
+ "fetched": "2026-06-30_1258",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "The Tottenham star has not recovered from a quad injury in time to feature in Carlos Queiroz's first selection as Ghana head coach.\nGhana have announced their 26-man squad for the FIFA World Cup 2026™, where they will face Croatia, England and Panama in Group L.\nCarlos Queiroz, who is gearing up to take part in a fifth global finals, has called up national team captain Jordan Ayew, Abdul Fatawu and Antoine Semenyo, while Lyon star Ernest Nuamah has recovered from an ACL rupture in time to be called up.\nThe headline absentee from the squad is Tottenham Hotspur star Mohammed Kudus. The winger suffered a quad injury in January which was set to keep him out until April, but he suffered a setback during his recovery and will now miss the tournament in Canada, Mexico and the USA.\nGhana's preliminary World Cup squadGhana's preliminary World Cup squad\nGoalkeepersGoalkeepers\nLawrence Ati-Zigi Benjamin Asare Joseph Anang\nDefendersDefenders\nJonas Adjetey Derrick Luckassen Gideon Mensah Abdul Mumin Jerome Opoku Kojo Oppong Peprah Baba Abdul Rahman Alidu Seidu Marvin Senaya\nMidfieldersMidfielders\nAugustine Boakye Abdul Fatawu Elisha Owusu Thomas Partey Kwasi Sibo Kamaldeen Sulemana Caleb Yirenkyi\nForwardsForwards\nJordan Ayew Christopher Bonsu Baah Prince Kwabena Adu Ernest Nuamah Antoine Semenyo Brandon Thomas-Asante Inaki Williams\nAll squads are provisional until the final list of 26 players is announced by FIFA, following their submission by participating teams, on 2 June.\nGhana's World Cup 2026 fixtures and groupGhana's World Cup 2026 fixtures and group\n17 June: Ghana v Panama - Toronto Stadium\n23 June: England v Ghana - Boston Stadium\n27 June: Croatia v Ghana - Philadelphia Stadium\nExplore hospitality packages for Ghana’s FIFA World Cup 2026™ matchesExplore hospitality packages for Ghana’s FIFA World Cup 2026™ matches\nRead more on Ghana at the World CupRead more on Ghana at the World Cup",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

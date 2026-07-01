@@ -1,0 +1,16 @@
+{
+ "team": "COD",
+ "source": "bulinews.com",
+ "url": "https://bulinews.com/world-cup-luis-diaz-starts-colombia-eye-round-32-congo-test",
+ "title": "Confirmed World Cup Lineups: Colombia vs. DR Congo",
+ "news_date": "2026-06-26",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-26",
+ "fetched": "2026-06-26_1615",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Confirmed World Cup Lineups: Colombia vs. DR Congo\nWorld: World Cup\nTue 22:00June 23, 2026 at 22:00\nFT\n1 - 0\n(0 - 0)\nColombia\nCongo DR\n⚽ D. Muñoz (76)\n@eskeFussballTue 20:36June 23, 2026 at 20:36\nWorld Cup: Luis Díaz starts as Colombia eye Round of 32 with DR Congo test\nFC Bayern’s superstar is in Colombia’s starting lineup for the game against DR Congo.\nDavid Ramos/Getty Images\nLuis Díaz starts for Colombia in their second group stage match at the 2026 World Cup against DR Congo. FC Bayern’s superstar won “Man of the Match” against Uzbekistan after contributing a goal and an assist in the 3-1 victory.\nFormer Bayern attacker James Rodriguez also keeps his place in Néstor Lorenzo's unchanged starting XI, while three more players with past Bundesliga experience start on the bench for Los Cafeteros – Santiago Arias, Gustavo Puerta (both Bayer Leverkusen), and Jhon Córdoba (Mainz, Köln and Hertha BSC).\nYoane Wissa helped DR Congo to their first-ever World Cup point when they held Portugal on matchday one. Cristiano Ronaldo’s historic night in Houston lifted five-star Portugal as they sit top of the group with four points.\nHere are the two lineups for the game at Guadalajara Stadium.\nColombia: Vargas; Muñoz, Lucumí, Sánchez, Mojica; Lerma, Puerta; James Rodríguez ©, Luis Díaz, Arias; Luis Suárez\nDR Congo: Mpasi; Wan-Bissaka, Kapuadi, Mbemba ©, Tuanzebe, Masuaku; Moutoussamy, Kayembe, Mukau; Wissa, Bakambu\nIt is child's play for United States head coach Mauricio Pochettino, as Jesse Ma",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

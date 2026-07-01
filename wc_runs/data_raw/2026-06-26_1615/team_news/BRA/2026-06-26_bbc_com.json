@@ -1,0 +1,16 @@
+{
+ "team": "BRA",
+ "source": "bbc.com",
+ "url": "https://www.bbc.com/sport/football/articles/c759vdlyr2wo",
+ "title": "2026 World Cup: Neymar named in Brazil's 26-man squad",
+ "news_date": "2026-06-26",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-26",
+ "fetched": "2026-06-26_1615",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "Brazil forward Neymar has been included in head coach Carlo Ancelotti's 26-man squad for this summer's World Cup.\n\nThe 34-year-old, who now plays for Brazilian side Santos, is the country's all-time leading goalscorer with 79 goals in 128 appearances but has not played for the Selecao since 2023 amid his struggles with injuries.\n\nMaking the squad means he will feature at a fourth World Cup having also played for Brazil at the 2014, 2018 and 2022 tournaments.\n\nItalian Ancelotti revealed his squad at a ceremony in Rio de Janeiro and fans cheered when Neymar's name was announced.\n\nAncelotti, 66, who was appointed by Brazil last year, said: \"We spent the entire year analysing Neymar.\n\n\"We realised that in this last period he had continuity and was in good physical condition\".\n\nAlisson Becker, who has missed Liverpool's last 10 games through injury, has been selected, along with Manchester United pair Casemiro and Matheus Cunha, Newcastle midfielder Bruno Guimaraes, Arsenal defender Gabriel, Brentford striker Igor Thiago and Bournemouth forward Rayan.\n\nHowever, Chelsea forward Joao Pedro misses out despite being the Blues' top scorer in the Premier League this season with 15 goals and five assists.\n\nOther players who have made the cut include La Liga stars Vinicius Junior of Real Madrid and Barcelona's Raphinha as well as 19-year-old striker Endrick, on loan at Lyon from Real.\n\nFive-time winners Brazil take on Morocco on 13 June, Haiti on 20 June and Scotland in their final Group C game four days later.\n\nThe expanded 48-team World Cup in the United States, Canada and Mexico starts on 11 June.\n\nGoalkeepers: Alisson (Liverpool), Ederson (Fenerbahce), Weverton (Gremio).\n\nDefenders: Alex Sandro, Danilo, Leo Pereira (Flamengo), Bremer (Juventus), Ibanez (Al-Ahli), Ederson (Atalanta), Marquinhos (Paris St-Germain), Gabriel (Arsenal), Douglas Santos (Zenit St. Petersburg).\n\nMidfielders: Bruno Guimaraes (Newcastle), Casemiro (Manchester United), Danilo Santos (Botafogo), Fabinho (Al-Ittihad), Lucas Paqueta (Flamengo).\n\nForwards: Endrick (Lyon), Gabriel Martinelli (Arsenal), Igor Thiago (Brentford), Matheus Cunha (Manchester United), Raphinha (Barcelona), Vinicius Junior (Real Madrid), Luiz Henrique (Zenit St. Petersburg), Neymar (Santos), Rayan (Bournemouth).",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

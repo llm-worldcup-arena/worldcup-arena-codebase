@@ -1,0 +1,16 @@
+{
+ "team": "SWE",
+ "source": "reuters.com",
+ "url": "https://www.reuters.com/sports/soccer/swedens-hien-out-world-cup-after-suffering-hamstring-injury-against-japan-2026-06-27/",
+ "title": "Sweden's Hien out of World Cup after suffering injury against Japan | Reuters",
+ "news_date": "2026-06-29",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-29",
+ "fetched": "2026-06-29_0714",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Sweden's Hien out of World Cup after suffering injury against Japan\nVerification Required\nThe visual verification might not be accessible to you. We recommend you to use the audio verification instead. Important: after clicking play, you will hear 6 digits. Please wait until the audio finishes before typing or interacting with the page.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

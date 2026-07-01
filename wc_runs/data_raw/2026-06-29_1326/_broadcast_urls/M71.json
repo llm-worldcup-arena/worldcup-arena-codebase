@@ -1,0 +1,23 @@
+[
+ {
+  "name": "apnews_com",
+  "source": "apnews.com",
+  "url": "https://apnews.com/article/world-cup-colombia-portugal-score-a5ae140b4377ce6fe8303c61cbb74e70",
+  "tier": "1",
+  "lang": "en"
+ },
+ {
+  "name": "skysports_com",
+  "source": "skysports.com",
+  "url": "https://www.skysports.com/football/news/12309/13556705/world-cup-2026-colombia-0-0-portugal-davinson-sanchezs-late-goal-ruled-out-for-offside-as-colombia-finish-top-of-group-k-with-portugal-runners-up",
+  "tier": "2",
+  "lang": "en"
+ },
+ {
+  "name": "indianexpress_com",
+  "source": "indianexpress.com",
+  "url": "https://indianexpress.com/article/sports/football/portugal-vs-colombia-fifa-world-cup-2026-live-score-game-group-k-football-match-game-ronaldo-rodriguez-florida-updates-10760449/",
+  "tier": "3",
+  "lang": "en"
+ }
+]

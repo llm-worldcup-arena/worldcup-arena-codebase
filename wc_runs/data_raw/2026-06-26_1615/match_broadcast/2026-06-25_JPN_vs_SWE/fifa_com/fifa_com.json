@@ -1,0 +1,24 @@
+{
+ "source": "fifa.com",
+ "url": "https://www.fifa.com/en/articles/japan-sweden-match-report-highlights",
+ "title": "Japan 1-1 Sweden | Match report and highlights",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-25",
+  "home": "JPN",
+  "away": "SWE",
+  "home_en": "Japan",
+  "away_en": "Sweden",
+  "home_zh": "日本",
+  "away_zh": "瑞典",
+  "comp": "小组赛·F组",
+  "match_id": "M57",
+  "slug": "2026-06-25_JPN_vs_SWE"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Daizen Maeda and Anthony Elanga traded quick-fire goals as Japan and Sweden advanced to the Round of 32 behind Group F winners the Netherlands.\nJapan 1-1 SwedenJapan 1-1 Sweden\nJapan goal: Maeda (56) Sweden goal: Elanga (62)\nA hard-fought draw has taken Japan through to the FIFA World Cup 2026™ knockout stage as Group F runners-up and secured Sweden's spot as one of the eight best third-placed teams.\nThe Samurai Blue arrived at Dallas Stadium knowing a draw would secure a top-two finish, while Sweden needed all three points to leapfrog their opponents into second place.\nJapan soon began to assert control, dictating the tempo and forcing Graham Potter's charges deep inside their own half. Daizen Maeda headed narrowly wide early on, before Yukinari Sugawara tested Jacob Zetterstrom for the first time.\nKeito Nakamura went even closer to breaking the deadlock, but his cleverly disguised effort was brilliantly tipped around the post.\nJapan broke the deadlock ten minutes after the restart when Maeda latched on to a superb Ritsu Doan through ball and finished smartly into the corner. Their lead lasted just a few minutes, though, with Anthony Elanga firing in a ferocious 20-yard shot to restore parity.\nWith Sweden in the ascendancy, Zion Suzuki denied Alexander Isak and Elanga goals that would have sent Potter's men through in second place as a gripping contest ended all square.\nWith the Netherlands defeating already eliminated Tunisia to claim top spot in Group F, section runners-up Japan's reward is a Round of 32 meeting with Group C winners Brazil. Sweden's next assignment will be against the winner of Group B, E or I.\nGroup F\nGroup F\nPWDLGFGAGDTCSPtsForm\n1\nNetherlands\nNED\n3 2 1 0 10 4 6 -3 7\n-\n-\n\n2\nJapan\nJPN\n3 1 2 0 7 3 4 -1 5\n-\n-\n\n3\nSweden\nSWE\n3 1 7 0 -5 4\n-\n-\n\n4\nTunisia\nTUN\n3 0 3 2 12 -10 -1 0\n-\n-\n\nKey statKey stat\nJapan have gone unbeaten in the World Cup group stage for the first time.\nWhat they said...What they said...\n\"I really wanted to win today, but I think a point was enough in the end. And listen, I'm really proud of the whole team, especially [GK] Jakob [Zetterstrom] who came in today. I think he played a terrific game.\" Anthony Elanga, Sweden player\n\"The first half was a tight match. On the other hand, in the second half we got the lead, but after being equalized, the momentum shifted to the opponent. Despite that, I think we achieved what was important—conceding the minimum, not losing, and securing at least a point. Being able to carry this unbeaten momentum into the Brazil match next is definitely positive.\" Zion Suzuki, Japan goalkeeper\n\"(On Nagaotmo) It's not for me to say, but he's a wonderful player—appearing this many times in Japanese soccer is remarkable. In this tournament, he's guiding the team in a positive direction both on and off the pitch. Of course, he played today, and the fact that we've come this far is thanks to not just him but many senior players. That said, I feel like our real battle starts now. So I think it would be good to battle alongside him moving forward.\" Ao Tanaka, Japan player\n\"With him (Nagatomo) around, this team is united. Even when he's not on the pitch, he's been cheering us on from the bench, which is why I could take the field today. That's something I need to learn from. Without it being just for his sake, I want all of us to see something beautiful together.\" Daizen Maeda, Japan player\nMichelob Ultra Superior Player of the MatchMichelob Ultra Superior Player of the Match\nAnthony Elanga (Sweden)",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

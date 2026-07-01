@@ -1,0 +1,16 @@
+{
+ "team": "URU",
+ "source": "view.inews.qq.com",
+ "url": "https://view.inews.qq.com/a/20260627A07I8800",
+ "title": "伤病分析师：乌加特可能遭遇前交叉韧带撕裂_腾讯新闻",
+ "news_date": "2026-06-27",
+ "published": "2026-06-27 17:24:10",
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-30",
+ "fetched": "2026-06-30_1258",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "雷速体育6月27日讯世界杯小组赛末轮，乌拉圭0-1不敌西班牙无缘晋级，雪上加霜的是，球队中场乌加特中途伤退，据伤病分析师透露，他可能遭遇 前交叉韧带撕裂 。\n\n伤病分析师Physio Scout写道： 曼努埃尔·乌加特 因左膝受伤，不得不被担架抬离场。膝关节外翻+无对抗下转身发力，伤情高度指向前交叉韧带撕裂（可能伴随半月板损伤）。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

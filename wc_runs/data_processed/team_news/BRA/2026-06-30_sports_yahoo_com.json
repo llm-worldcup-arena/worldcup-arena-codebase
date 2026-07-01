@@ -1,0 +1,16 @@
+{
+ "team": "BRA",
+ "source": "sports.yahoo.com",
+ "url": "https://sports.yahoo.com/articles/brazil-lineup-vs-japan-neymar-150536967.html",
+ "title": "World Cup 2026: Brazil gets dramatic 2-1 win over Japan, scoring twice in second half",
+ "news_date": "2026-06-30",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-30",
+ "fetched": "2026-06-30_1258",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "World Cup 2026: Brazil gets dramatic 2-1 win over Japan, scoring twice in second half\nGabriel Martinelli buried the winner off the right post five minutes into extra time to lift Brazil to a 2-1 victory over Japan on Monday, sending the five-time champions into the Round of 16. Brazil joins Canada as the second team to advance out of the Round of 32 at the 2026 World Cup.\nBruno Guimarães pounced on a terrible giveaway by Japan at the top of the box, then made a pinpoint pass between defenders to Martinelli, who fired a shot far to the right of Japan goalkeeper Zion Suzuki and the ball bounced in off the post.\nAny questions regarding Neymar entering the match for Brazil in extra time was negated by Martinelli's clutch goal, leaving Japan little time to prepare a tying chance.\nCasemiro scored the equalizer for Brazil in the 56th minute of the second half, knocking in a header past Suzuki, who was caught flat-footed following a cross from Rayan.\nThe Manchester United star nearly had a goal three minutes earlier, but his point-blank header was denied by Suzuki with help from his defense.\nKeeping the pressure on the Japan net throughout the second half, Vinícius Júnior poked a ball toward the net at 58' but couldn't get much on the attempt. That allowed Suzuki to get a hand on it and push it to deflect off the right post.\nJapan is knocked out from the tournament in heartbreaking fashion after shocking all observers with an early lead.\nSamurai Blue shocks Brazil with early lead\nJapan took a surprising 1-0 lead at the 29' mark with Kasha Sano pouncing on a pass at midfield and taking the ball into Brazil territory.\nSano split two defenders before firing a shot past defender Gabriel Magalhaes and goalkeeper Alisson Becker to put Samurai Blue ahead.\nJune 11 - July 19 | Canada, Mexico, United States\nThe score was certainly surprising at first glance based on Brazil's World Cup championship history compared to Japan's. But Canarinho controlled possession throughout the first half and frequently kept the action on Japan's side of the field.\nIn the first half, Brazil had eight shots to Japan's four despite trailing by a goal. Suzuki blocked four of those shots in the Japan net. Brazil was also far more accurate with its passing, connecting on 93% of its attempts compared to 85% for Japan. As a result, Canarinho had 16 touches in the Japan box, while Samurai Blue only had two.\nBrazil will now face the winner of Tuesday's match between Switzerland and Algeria in the Round of 16 on Sunday in New Jersey.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

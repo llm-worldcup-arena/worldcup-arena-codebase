@@ -1,0 +1,24 @@
+{
+ "source": "Sky Sports",
+ "url": "https://www.skysports.com/football/australia-vs-turkey/549773",
+ "title": "World Cup 2026: Australia 2-0 Turkey - Socceroos make winning start to Group D campaign in Vancouver",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-13",
+  "home": "AUS",
+  "away": "TUR",
+  "home_en": "Australia",
+  "away_en": "Türkiye",
+  "home_zh": "澳大利亚",
+  "away_zh": "土耳其",
+  "comp": "小组赛·D组",
+  "match_id": "M6",
+  "slug": "2026-06-13_AUS_vs_TUR"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Goals in each half from Nestory Irankunda and Connor Metcalfe saw Australia shock Turkey 2-0 in their opening World Cup Group D clash in Vancouver. Tony Popovic's side were considered big underdogs ahead of the game at BC Place, but they produced a disciplined display to record just their fifth World Cup victory and their second win in their opening fixture at the tournament, with young goalkeeper Patrick Beach the hero. The 22-year-old was handed a surprise competitive Socceroos debut in place of the more experienced Mat Ryan, but did not let his side down with a string of impressive stops - the most so far by any 'keeper in the tournament - to frustrate Turkey, the best coming when he tipped Abdulkerim Bardakci's long-range strike on to the post to preserve his team's slender lead. Earlier, Watford striker Irankunda had shown great skill and composure to fire Australia into a 27th-minute lead on the counter, before Metcalfe's low drive from distance sealed the victory with a quarter of an hour to go.   The key moments from Vancouver 27: Guler fires a close-range volley straight at Beach. 27: GOAL! Just 18 seconds later Irankunda fires Australia ahead on the break. 30: Beach tips Bardakci's long-range drive on to the post. 72: Beach is there again to deny Zeki Celik with an impressive near-post stop. 75: GOAL! Metcalfe doubles the Socceroos lead with a low drive from distance.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

@@ -1,0 +1,24 @@
+{
+ "source": "sportstar.thehindu.com",
+ "url": "https://sportstar.thehindu.com/football/fifa-world-cup/germany-vs-paraguay-fifa-world-cup-2026-round-of-32-paraguayan-penalty-shootout-record/article71163387.ece",
+ "title": "What is the record of Paraguay in penalty shootouts?",
+ "published": "2026-06-30T04:28:06+05:30",
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-29",
+  "home": "GER",
+  "away": "PAR",
+  "home_en": "Germany",
+  "away_en": "Paraguay",
+  "home_zh": "德国",
+  "away_zh": "巴拉圭",
+  "comp": "r32",
+  "match_id": "M74",
+  "slug": "2026-06-29_GER_vs_PAR"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "What is the record of Paraguay in penalty shootouts? left Paraguay has only had one penalty shootout in the FIFA World Cup, which it won against Japan in 2010. REUTERS https://ss-i.thgim.com/public/incoming/j2kmer/article71163402.ece/alternates/FREE_1200/MDF85030.JPG EDDIE KEOGH Paraguay players celebrate their victory over Japan after the penalty shootout in their 2010 World Cup second round soccer match at Loftus Versfeld stadium in Pretoria June 29, 2010. REUTERS/Eddie Keogh (SOUTH AFRICA - Tags: SPORT SOCCER WORLD CUP) A potential penalty shootout looms in the FIFA World Cup 2026 as Germany remains level with Paraguay in extra-time, in their round of 32 clash in Boston. Chennai A potential penalty shootout looms in the FIFA World Cup 2026 as Germany remains level with Paraguay in their round of 32 match in Boston on Monday. Julio Enciso gave Paraguay the lead in the first half before Kai Havertz restored parity after the break. If the contest remains level at the end of extra time, the match will move to a penalty shootout. What is the record of Paraguay in penalty shootouts? Paraguay has a fifty-fifty record in the penalty shootouts in senior men’s football. In eight of its shootouts so far, Paraguay has won four. It has had only one penalty shootout in the FIFA World Cup, which it won against Japan in 2010. Its last penalty shootout was in the 2021 Copa America, when it lost to Peru in sudden death. [[\"Tournament\",\"Round\",\"Fixture\",\"Result\"],[\"Copa America 2021\",\"Quarterfinals\",\"Paraguay vs Peru\",\"6-7\"],[\"Copa America 2019\",\"Quarterfinals\",\"Paraguay vs Brazil\",\"3-4\"],[\"Copa America 2015\",\"Semifinals\",\"Paraguay vs Brazil\",\"5-4\"],[\"Copa America 2011\",\"Semifinals\",\"Paraguay vs Venezuela\",\"5-3\"],[\"Copa America 2011\",\"Quarterfinals\",\"Paraguay vs Brazil\",\"2-0\"],[\"FIFA World Cup 2010\",\"Round of 16\",\"Paraguay vs Japan\",\"5-3\"],[\"Copa America 1999\",\"Quarterfinals\",\"Paraguay vs Uruguay\",\"6-4\"],[\"Copa America 1995\",\"Quarterfinals\",\"Paraguay vs Colombia\",\"5-6\"",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

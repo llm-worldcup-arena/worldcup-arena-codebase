@@ -1,0 +1,24 @@
+{
+ "source": "fifa.com",
+ "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/tunisia-netherlands-match-report-highlights",
+ "title": "Tunisia 1-3 Netherlands | Match report and highlights",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-25",
+  "home": "TUN",
+  "away": "NED",
+  "home_en": "Tunisia",
+  "away_en": "Netherlands",
+  "home_zh": "突尼斯",
+  "away_zh": "荷兰",
+  "comp": "小组赛·F组",
+  "match_id": "M58",
+  "slug": "2026-06-25_TUN_vs_NED"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Ronald Koeman's side grabbed two early goals to help secure top spot in Group F, while the Eagles of Carthage depart the World Cup without a point.\nTunisia 1-3 NetherlandsTunisia 1-3 Netherlands\nTunisia goal: Mastouri (54) Netherlands goals: Skhiri (3, OG), Brobbey (7), Van Hecke (62)\nThe Netherlands clinched top spot in Group F and set up a Round of 32 meeting with Morocco in Monterrey on 29 June as they overcame Tunisia at Kansas City Stadium.\nRonald Koeman’s men needed just three minutes to break the deadlock against their already-eliminated opponents, with captain Ellyes Skhiri slicing into his own net from Denzel Dumfries’ cross as he looked to prevent the ball reaching Brian Brobbey.\nAnd it was 2-0 soon after, with Brobbey bagging his third goal of the tournament from close range after Virgil van Dijk headed a free-kick back across the face of goal.\nThe Eagles of Carthage, who have endured a challenging tournament after heavy defeats to Sweden and Japan, had come close to scoring in the opening moments, only for Ismael Gharbi to side-foot over when well placed.\nFrom then on, Herve Renard’s side were largely on the back foot and they came close to conceding a third early on during a rain-soaked second half with Skhiri blocking well to prevent Dumfries’ powerful effort from troubling Aymen Dahmen.\nTunisia pulled themselves back into the contest when Hazem Mastouri was given too much freedom in the penalty area to head home Hannibal Mejbri’s corner, but the Dutch responded immediately through Jan Paul van Hecke as he glanced home Tijjani Reijnders’ delivery.\nKey statKey stat\nThis was the first time in their 58 World Cup matches that the Netherlands have scored two goals in the opening seven minutes of a game.\nMichelob Ultra Superior Player of the MatchMichelob Ultra Superior Player of the Match\nBrian Brobbey (Netherlands)\nWhat they said...What they said...\n“I’m happy. I wanted first place in the group, and we finished that way. I’m just surprised by how easily we relaxed too much in the match. I think it had to do with the fact that we went 2-0 up very quickly. That can be a problem against a stronger opponent, and Morocco are an attacking team.” Ronald Koeman, Netherlands coach\n\"We were not at the level for this World Cup, this is clear, there is no discussion. It's a big tournament with very good teams, especially in this group. It was a very tough group. I already spoke to the players, I thanked them. But when you're in this type of psychological situation, it's not easy to tackle, especially when it's against a very strong team in an amazing stadium, and the crowd is packed with orange.\"",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

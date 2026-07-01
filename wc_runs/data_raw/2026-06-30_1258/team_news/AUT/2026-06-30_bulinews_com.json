@@ -1,0 +1,16 @@
+{
+ "team": "AUT",
+ "source": "bulinews.com",
+ "url": "https://bulinews.com/world-cup-several-bundesliga-stars-action-austria-and-algeria-lock-horns",
+ "title": "Confirmed World Cup Lineups: Austria vs. Algeria",
+ "news_date": "2026-06-30",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-30",
+ "fetched": "2026-06-30_1258",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Confirmed World Cup Lineups: Austria vs. Algeria\nWorld: World Cup\nSat 22:00June 27, 2026 at 22:00\nFT\n3 - 3\n(1 - 1)\nAlgeria\nAustria\n⚽ R. Belghali (45), ⚽ R. Mahrez (60), ⚽ R. Mahrez (90)\n⚽ M. Arnautović (28), ⚽ M. Sabitzer (55), ⚽ S. Kalajdzic (90)\n@eskeFussballSat 20:52June 27, 2026 at 20:52\nWorld Cup: Several Bundesliga stars in action as Austria and Algeria lock horns\nAustria and Algeria face off in one of the final group stage fixtures at the 2026 World Cup.\nDean Mouhtaropoulos/Getty Images\nRalf Rangnick's Austria face Algeria in the crucial Group J fixture. Both teams came into the last round of the group stage with three points as they both beat debutant Jordan and lost to Lionel Messi's Argentina.\nA draw would send both to the Round of 32 with Austria getting a second place finish thanks to their superior goal difference. There are a total of eleven Bundesliga stars from the two lineups as the German coach picked eight German-based players in his XI.\nAustria XI: Schlager; Posch, Lienhart, Alaba ©, Mwene; Seiwald, Schlager; Schmid, Laimer, Sabitzer; Arnautovic\nAlgeria XI: Benbot; Belghali, Mandi, Bensebaini, Hadjam; Aouar, Maza, Bentaleb; Mahrez ©, Gouiri, Chaïbi",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

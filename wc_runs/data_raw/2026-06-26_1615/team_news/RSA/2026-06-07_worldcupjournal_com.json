@@ -1,0 +1,16 @@
+{
+ "team": "RSA",
+ "source": "worldcupjournal.com",
+ "url": "https://worldcupjournal.com/south-africa-world-cup-2026-squad/",
+ "title": "South Africa World Cup 2026 Squad Preview: Key Players, Fixtures & Full Team Analysis",
+ "news_date": "2026-06-07",
+ "published": "2026-06-07T09:02:21+00:00",
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-26",
+ "fetched": "2026-06-26_1615",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "Global tournaments and competition hubs in one place.\n\nReal-time coverage and instant match tracking.\n\nLatest football, cricket, and multi-sport news coverage.\n\nDeep match breakdowns, player insights, and tactical reviews.\n\nMatch previews, tournament outlooks, and fantasy picks.\n\nProfiles, squads, and team-by-team coverage.\n\nLive streams and sports video categories.\n\nAccess login, registration, and publisher area.\n\nYour feedback helps us improve match information and page experience.\n\nYour contribution helps us fix issues and improve World Cup Journal.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

@@ -1,0 +1,40 @@
+{
+ "match": {
+  "slug": "2026-06-29_BRA_vs_JPN",
+  "date": "2026-06-29",
+  "home": "BRA",
+  "away": "JPN",
+  "round": "r32",
+  "group": null
+ },
+ "kickoff": {
+  "美东": "2026-06-29T13:00:00-04:00",
+  "北京": "06-30 01:00"
+ },
+ "venue": {
+  "name": "NRG Stadium",
+  "city": "Houston",
+  "altitude_m": 15,
+  "roof": "retractable",
+  "surface": "grass"
+ },
+ "weather": {
+  "开球时段": {
+   "温度C": 34.3,
+   "体感C": 39.0,
+   "降水概率%": 0,
+   "降水mm": 0.0,
+   "风速kmh": 18.0,
+   "湿度%": 52,
+   "天况": "雷雨"
+  },
+  "source": "open-meteo(免费预报API)",
+  "fetched": "2026-06-29_0714",
+  "_note": "临近开球建议 --refresh 刷新"
+ },
+ "referee": {
+  "name": null,
+  "_note": "待 WebSearch FIFA指派公告"
+ },
+ "_note": "环境=比赛+时间+地点 确定;天气为开球时段;顶棚 retractable/fixed-canopy 时天气影响有限。"
+}

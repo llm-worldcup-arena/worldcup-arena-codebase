@@ -1,0 +1,341 @@
+{
+ "match_id": "4627874",
+ "date": "2026-06-25",
+ "comp": "世界杯",
+ "ha_home": "中",
+ "home": "TUN",
+ "away": "NED",
+ "score": "1-3",
+ "venue": "Arrowhead Stadium (Kansas City)",
+ "attendance": 68391,
+ "goals": [
+  {
+   "min": 3,
+   "side": "away",
+   "player": "Ellyes Skhiri",
+   "sub": "乌龙"
+  },
+  {
+   "min": 7,
+   "side": "away",
+   "player": "Brian Brobbey",
+   "sub": null
+  },
+  {
+   "min": 54,
+   "side": "home",
+   "player": "Hazem Mastouri",
+   "sub": null
+  },
+  {
+   "min": 62,
+   "side": "away",
+   "player": "Jan Paul van Hecke",
+   "sub": null
+  }
+ ],
+ "cards": [],
+ "stats": {
+  "射门": [
+   "10",
+   "20"
+  ],
+  "射正": [
+   "4",
+   "7"
+  ],
+  "禁区内射门": [
+   "5",
+   "8"
+  ],
+  "扑救": [
+   "1",
+   "5"
+  ],
+  "角球": [
+   "4",
+   "6"
+  ],
+  "越位": [
+   "2",
+   "1"
+  ],
+  "控球%": [
+   "29%",
+   "71%"
+  ],
+  "传中": [
+   "57",
+   "128"
+  ],
+  "传球": [
+   "199",
+   "602"
+  ],
+  "xG预期进球": [
+   "0.49",
+   "1.66"
+  ],
+  "xGOT/大机会": [
+   "0.94",
+   "2.22"
+  ]
+ },
+ "lineups": {
+  "home": [
+   {
+    "no": 16,
+    "name": "Aymen Dahmen"
+   },
+   {
+    "no": 21,
+    "name": "Mohamed Amine Ben Hamida"
+   },
+   {
+    "no": 17,
+    "name": "Ellyes Skhiri"
+   },
+   {
+    "no": 3,
+    "name": "Montassar Talbi"
+   },
+   {
+    "no": 2,
+    "name": "Ali Abdi"
+   },
+   {
+    "no": 20,
+    "name": "Yan Valery"
+   },
+   {
+    "no": 10,
+    "name": "Hannibal Mejbri"
+   },
+   {
+    "no": 13,
+    "name": "Rani Khedira"
+   },
+   {
+    "no": 11,
+    "name": "Ismaël Gharbi"
+   },
+   {
+    "no": 25,
+    "name": "Anis Ben Slimane"
+   },
+   {
+    "no": 9,
+    "name": "Hazem Mastouri"
+   },
+   {
+    "no": 7,
+    "name": "Elias Achouri"
+   },
+   {
+    "no": 15,
+    "name": "Hadj Mahmoud"
+   },
+   {
+    "no": 12,
+    "name": "Mortadha Ben Ouanes"
+   },
+   {
+    "no": 19,
+    "name": "Firas Chaouat"
+   },
+   {
+    "no": 26,
+    "name": "Sebastian Tounekti"
+   },
+   {
+    "no": 14,
+    "name": "Khalil Ayari"
+   },
+   {
+    "no": 22,
+    "name": "Sabri Ben Hessen"
+   },
+   {
+    "no": 6,
+    "name": "Dylan Bronn"
+   },
+   {
+    "no": 1,
+    "name": "Abdelmouhib Chamakh"
+   },
+   {
+    "no": 24,
+    "name": "Raed Chikhaoui"
+   },
+   {
+    "no": 18,
+    "name": "Rayan Elloumi"
+   },
+   {
+    "no": 4,
+    "name": "Omar Rekik"
+   },
+   {
+    "no": 8,
+    "name": "Elias Saad"
+   }
+  ],
+  "away": [
+   {
+    "no": 1,
+    "name": "Bart Verbruggen"
+   },
+   {
+    "no": 5,
+    "name": "Nathan Aké"
+   },
+   {
+    "no": 4,
+    "name": "Virgil van Dijk"
+   },
+   {
+    "no": 6,
+    "name": "Jan Paul van Hecke"
+   },
+   {
+    "no": 22,
+    "name": "Denzel Dumfries"
+   },
+   {
+    "no": 14,
+    "name": "Tijjani Reijnders"
+   },
+   {
+    "no": 21,
+    "name": "Frenkie de Jong"
+   },
+   {
+    "no": 8,
+    "name": "Ryan Gravenberch"
+   },
+   {
+    "no": 11,
+    "name": "Cody Gakpo"
+   },
+   {
+    "no": 19,
+    "name": "Brian Brobbey"
+   },
+   {
+    "no": 18,
+    "name": "Donyell Malen"
+   },
+   {
+    "no": 10,
+    "name": "Memphis Depay"
+   },
+   {
+    "no": 7,
+    "name": "Justin Kluivert"
+   },
+   {
+    "no": 20,
+    "name": "Teun Koopmeiners"
+   },
+   {
+    "no": 17,
+    "name": "Noa Lang"
+   },
+   {
+    "no": 24,
+    "name": "Crysencio Summerville"
+   },
+   {
+    "no": 23,
+    "name": "Mark Flekken"
+   },
+   {
+    "no": 2,
+    "name": "Lutsharel Geertruida"
+   },
+   {
+    "no": 25,
+    "name": "Jorrel Hato"
+   },
+   {
+    "no": 13,
+    "name": "Robin Roefs"
+   },
+   {
+    "no": 16,
+    "name": "Guus Til"
+   },
+   {
+    "no": 26,
+    "name": "Quinten Timber"
+   },
+   {
+    "no": 9,
+    "name": "Wout Weghorst"
+   },
+   {
+    "no": 12,
+    "name": "Mats Wieffer"
+   },
+   {
+    "no": 3,
+    "name": "Marten De Roon"
+   },
+   {
+    "no": 15,
+    "name": "Micky van de Ven"
+   }
+  ]
+ },
+ "missing": [
+  {
+   "side": "home",
+   "no": 5,
+   "name": "Adem Arous",
+   "reason": "缺阵"
+  },
+  {
+   "side": "home",
+   "no": 23,
+   "name": "Moutaz Neffati",
+   "reason": "缺阵"
+  }
+ ],
+ "events": [
+  {
+   "min": 3,
+   "side": "away",
+   "type": "进球",
+   "sub": "乌龙",
+   "player": "Ellyes Skhiri"
+  },
+  {
+   "min": 7,
+   "side": "away",
+   "type": "进球",
+   "sub": null,
+   "player": "Brian Brobbey"
+  },
+  {
+   "min": 54,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Hazem Mastouri"
+  },
+  {
+   "min": 62,
+   "side": "away",
+   "type": "进球",
+   "sub": null,
+   "player": "Jan Paul van Hecke"
+  }
+ ],
+ "injuries": [],
+ "suspensions": [],
+ "ratings": {},
+ "quotes": [],
+ "narrative": "",
+ "prediction_note": "",
+ "_note": "macheta/Sofascore 权威硬数据；injuries/suspensions/ratings/quotes/narrative/prediction_note 待 agent WebSearch 补。"
+}

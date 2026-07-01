@@ -1,0 +1,16 @@
+{
+ "team": "TUN",
+ "source": "k.sina.com.cn",
+ "url": "https://k.sina.com.cn/article_6320391439_178b9850f040019f4g.html?from=sports&subch=osport",
+ "title": "突尼斯球员下半场迟到，球衣号码脱落引关注",
+ "news_date": "2026-06-26",
+ "published": "2026-06-26 08:08:11",
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-29",
+ "fetched": "2026-06-29_0714",
+ "method": "jsonld",
+ "status": "blocked",
+ "original_text": "",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

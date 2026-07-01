@@ -1,0 +1,24 @@
+{
+ "source": "espn.com",
+ "url": "https://www.espn.com/soccer/report/_/gameId/760421",
+ "title": "Australia 2-0 Türkiye (Jun 14, 2026) Game Analysis - ESPN",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-13",
+  "home": "AUS",
+  "away": "TUR",
+  "home_en": "Australia",
+  "away_en": "Türkiye",
+  "home_zh": "澳大利亚",
+  "away_zh": "土耳其",
+  "comp": "小组赛·D组",
+  "match_id": "M6",
+  "slug": "2026-06-13_AUS_vs_TUR"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Nestory Irankunda and Connor Metcalfe scored and Australia spoiled Türkiye's return to the World Cup for the first time in 24 years with a 2-0 victory on Saturday night.\nThe result puts Australia level with co-hosts the United States at the top of Group D ahead of the teams going head to head in Seattle on Friday.\nGoalkeeper Patrick Beach made eight saves for the Socceroos in their group opener as FIFA president Gianni Infantino looked on. Australia were playing in their sixth straight World Cup and seventh overall.\nTürkiye reached the semifinals of the 2002 World Cup but then missed five straight tournaments before qualifying this year by beating Kosovo in a playoff.\nIrankunda broke through for the Socceroos in the 27th minute with a low shot while pursued by three defenders. It came less than a minute after the first-half hydration break.\nNestory Irankunda celebrates with teammate Mohamed Toure after scoring Australia's opening goal against Türkiye.\nJared C. Tilton - FIFA/FIFA via Getty Images\nIrankunda celebrated by punching the corner flag in a tribute to Australian soccer legend Tim Cahill. The 20-year-old who plays for Watford is the Socceroo's youngest-ever goal scorer at a World Cup.\nMinutes later Beach stopped Abdulkerim Bardakcı's blast from distance. Beach started in goal for the Socceroos rather than experienced counterpart Matthew Ryan in a surprise decision from coach Tony Popovic.\nKenan Yildiz, a 21-year-old who plays for Juventus, was not in the starting lineup but subbed in for Türkiye at halftime.\nTürkiye had a dangerous free kick in the 57th minute, but Arda Güler's attempt was saved by Beach. Güler, a talented 21-year-old attacking midfielder who plays for Real Madrid, was not yet born the last time Türkiye played in the World Cup.\nConnor Metcalfe capitalized on Ismail Yüksek's turnover in the 75th minute to double the Socceroos' lead. The Socceroos fell to France in the opener in Qatar but then beat Tunisia and Denmark in their group before getting knocked out by eventual champions Argentina in the round of 16.\nIt is the third World Cup appearance for the Turks, who reached the tournament for the first time in 1954.\nTürkiye will next face Paraguay, who were downed 4-1 in their group opener on Friday in Los Angeles.\nThe Associated Press contributed to this report.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

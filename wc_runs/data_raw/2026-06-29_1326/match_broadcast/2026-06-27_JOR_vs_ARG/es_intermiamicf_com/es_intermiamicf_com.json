@@ -1,0 +1,24 @@
+{
+ "source": "es.intermiamicf.com",
+ "url": "https://es.intermiamicf.com/noticias/cronica-argentina-con-messi-y-de-paul-gana-el-grupo-j-de-la-copa-mundial-de-la-fifa-2026tm-con-un-record-perfecto",
+ "title": "CRÓNICA: Argentina, con Messi y De Paul, gana el Grupo J de la Copa Mundial de la FIFA 2026™ con un récord perfecto | Inter Miami CF",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-27",
+  "home": "JOR",
+  "away": "ARG",
+  "home_en": "Jordan",
+  "away_en": "Argentina",
+  "home_zh": "约旦",
+  "away_zh": "阿根廷",
+  "comp": "小组赛·J组",
+  "match_id": "M70",
+  "slug": "2026-06-27_JOR_vs_ARG"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Argentina (3V-0D-1E, 9 puntos) cerró la fase de grupos de la Copa Mundial de la FIFA 2026™ con un récord perfecto esta noche, derrotando a Jordania por 3-1 conforme La Albiceleste sumó una tercera victoria consecutiva en su último partido del Grupo J. El capitán de Inter Miami CF , Leo Messi, volvió a marcar, mientras que Lautaro Martínez y Giovani Lo Celso anotaron los otros goles. El mediocampista del Inter Miami, Rodrigo De Paul, estuvo en el banquillo, pero no participó en el partido.\n\nLos campeones defensores saltaron al terreno de juego con Emiliano Martínez en la portería; Exequiel Palacios, Nicolás Otamendi, Marcos Senesi y Nicolás Tagliafico formaron la línea de cuatro en defensa; Giuliano Simeone, Nico Paz, Leandro Paredes y Lo Celso arrancaron de inicio en el mediocampo; El capitán Julián Álvarez y Lautaro Martínez lideraron la línea de ataque.\n\nLo Celso abrió el marcador para darle la ventaja a Argentina en el minuto 19 con un espectacular tiro libre a la esquina superior izquierda.\n\nLautaro Martínez amplió la ventaja para los actuales campeones del mundo antes del descanso al convertir un penal al minuto 31.\n\nJordania recortó distancias en la segunda mitad con un gol de Mousa Al-Tamari al minuto 55.\n\nMessi entró al partido en lugar de Lautaro Martínez en el minuto 60. Finalmente, sentenció la victoria con un golazo en el minuto 80, anotando con un magnífico tiro libre a la esquina inferior izquierda. Con este gol, alcanzó los seis tantos y continúa liderando la tabla de máximos goleadores en esta Copa Mundial de la FIFA 2026™.\n\nEl marcador de 3-1 se mantuvo hasta el final y Argentina cerró su participación en la fase de grupos con un récord perfecto de tres victorias.\n\nArgentina ahora enfrentará a Cabo Verde en los dieciseisavos de final el viernes 3 de julio en el Miami Stadium (pitaxo inicial a las 6 p.m. ET ).",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

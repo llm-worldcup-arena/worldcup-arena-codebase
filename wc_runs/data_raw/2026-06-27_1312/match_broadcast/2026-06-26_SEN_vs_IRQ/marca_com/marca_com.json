@@ -1,0 +1,24 @@
+{
+ "source": "marca.com",
+ "url": "https://www.marca.com/mx/futbol/mundial/cronica/2026/06/26/6a3ede2fe2704e08628b45d6.html",
+ "title": "Senegal - Iraq: Goles y resumen Senegal vs Irak: Sadio Mané mueve todo y empuja el México - Ecuador en 16avos de final del Mundial 2026 - Mundial",
+ "published": "2026-06-26T21:05:20Z",
+ "tier": "2",
+ "lang": "es",
+ "match": {
+  "date": "2026-06-26",
+  "home": "SEN",
+  "away": "IRQ",
+  "home_en": "Senegal",
+  "away_en": "Iraq",
+  "home_zh": "塞内加尔",
+  "away_zh": "伊拉克",
+  "comp": "小组赛·I组",
+  "match_id": "M62",
+  "slug": "2026-06-26_SEN_vs_IRQ"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Senegal - Iraq: Goles y resumen Senegal vs Irak: Sadio Mané mueve todo y empuja el México - Ecuador en 16avos de final del Mundial 2026\nRAÍZ\nActualizado 26/06/2026 - 16:05 CDT\nEste viernes 26 de junio se jugó el partido de Senegal vs Irak por la Jornada 3 del Grupo I de la Copa Mundial de la FIFA 2026 en el Estadio Toronto. Este era un duelo de alto interés para la afición mexicana, pues el rival de México para los 16avos podría salir de este grupo.\nMientras que Noruega y Francia se disputaban el primer lugar del Grupo I, la Selección de Senegal y la de Irak se batían en un duelo para poder clasificarse como uno de los mejores terceros lugares del Mundial 2026. Pero, de acuerdo con los cálculos, un empate o una simple victoria no serviría, sino que Irak o Senegal tendrían que golear para tener serias aspiraciones de llegar a la próxima ronda de la justa mundialista.\nSenegal golpea primero con un gol tempranero\nFue apenas al minuto 4 cuando la Selección de Senegal sorprendió a los iraquíes con una anotación. Todo fue gracias a una asistencia de Abdoulaye Seck que ejecutó un tiro de esquina, después, Habib Diarra remató con un cabezazo que puso el 1-0.\n¡¡Senegal pone el primero!! Con esta anotación, los africanos se acercan a la clasificación.\nEste video no está disponible en tu ubicación.\nIrak se queda con 10, grave error de Sulaka\nLa Selección de Irak todavía no había podido recuperarse de la anotación cuando Rebin Sulaka cometió un grave error. Y es que el defensa iraquí fue expulsado al minuto 13 tras derivar a Sadio Mané, quien se perfilaba hacia la portería. En un inicio, el silbante sólo había mostrado la amarilla, pero tras una revisión con el VAR se determinó la expulsión.\nIraq's World Cup farewell goes from bad to worse. Already trailing Senegal, defender Rebin Sulaka is sent off after just 13 minutes for pulling down Sadio Mane, who was bearing down on goal. Referee Anthony Taylor had initially given a yellow card but a lengthy VAR check saw Mostrar más\nSenegal incrementa la ventaja\nIsmaïla Sarr puso el 2 a 0. Fue en la segunda mitad del encuentro cuando el delantero senegalés firmó la segunda anotación ante Irak, misma que prácticamente le daba el tercer lugar en el Grupo I; sin embargo, aún faltaba una mayor diferencia de goles para poder tener mayores chances de que Senegal clasificara como uno de los mejores terceros lugares.\nYa es goleada, Pape Gueye anota el tercero\nTan solo tres minutos después del segundo tanto, la Selección de Mané volvió a hacer de las suyas. En esta ocasión Sarr fue el asistidor y quien anotó fue Pape Gueye. De esta manera, las pretensiones de Senegal de pasar a 16avos del Mundial 2026 eran mucho más serias.\n| GOAL: PAPE GUEYE MAKES IT THREE!!! Senegal 3-0 Iraq\nDoblete de Pape Gueye\nAl minuto 71 la Selección de Senegal liquidó por completo a Irak. Y es que con un hombre menos desde casi el inicio del encuentro, los iraquíes padecieron bastante de los espacios. Esta vez, Iliman Ndiaye fue quien le dio el pase de Pape Gueye para que anotara el 4 a 0.\nINSANE 4th goal for Senegal by Pape Gueye against Iraq... #FIFAWorldCup\nIllman anota el quinto de Senegal\nYa con una Selección Iraníe completamente descompuesta, Illiman Ndiaye marcó el quinto gol del partido al minuto 82'. Con esto, la Selección de Irak se despide de la Copa Mundial 2026, mientras que Senegal quedará en la espera de si podrá clasificar como uno de los mejores terceros lugares.\n¿Senegal será el rival de México?\nAunque Escocia es el rival de México por el momento, ahora que Senegal goleó a Irak se han incrementado las posibilidades de que la Selección Mexicana se enfrente a Ecuador. Si España consigue ganarle a Uruguay en Guadalajara, entonces se definiría un México vs Ecuador para los 16avos de final de la Copa Mundial de la FIFA 2026.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

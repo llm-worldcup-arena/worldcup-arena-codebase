@@ -1,0 +1,16 @@
+{
+ "team": "POR",
+ "source": "olympics.com",
+ "url": "https://www.olympics.com/en/news/fifa-world-cup-2026-portugal-all-players-full-squad-list-key-stats-and-schedule",
+ "title": "Portugal at FIFA World Cup 2026: All players, full squad list, key stats and schedule",
+ "news_date": "2026-06-29",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-29",
+ "fetched": "2026-06-29_0714",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Portugal at FIFA World Cup 2026: All players, full squad list, key stats and schedule\nQuick facts\nCaptain: Cristiano Ronaldo\nManager: Roberto Martinez\nWorld Cup appearances (including 2026): 9\nBest World Cup result: Third place (1966)\nGoalkeepers: Diogo Costa (FC Porto), José Sá (Wolverhampton Wanderers), Rui Silva (Sporting CP)\nDefenders: Diogo Dalot (Manchester United); Matheus Nunes (Manchester City), Nélson Semedo (Fenerbahce SK), João Cancelo (FC Barcelona), Nuno Mendes (PSG), Gonçalo Inácio (Sporting CP), Renato Veiga (Villarreal); Rúben Dias (Manchester City); Tomás Araújo (SL Benfica)\nMidfielders: Rúben Neves (Al Hilal), Samuel Costa (Mallorca), João Neves (PSG), Vitinha (PSG), Bruno Fernandes (Manchester United), Bernardo Silva (Manchester City)\nForwards: João Félix (Al Nassr), Francisco Trincão (Sporting CP), Francisco Conceição (Juventus), Pedro Neto (Chelsea), Rafael Leão (AC Milan), Gonçalo Guedes (Real Sociedad), Gonçalo Ramos (PSG); Cristiano Ronaldo (Al Nassr)",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

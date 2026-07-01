@@ -1,0 +1,24 @@
+{
+ "source": "sports.yahoo.com",
+ "url": "https://sports.yahoo.com/soccer/fifa-world-cup/iran-egypt-13587220/",
+ "title": "Egypt 1 - 1 Iran: Final score, results, recap, box score, stats - Yahoo Sports",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-26",
+  "home": "EGY",
+  "away": "IRN",
+  "home_en": "Egypt",
+  "away_en": "Iran",
+  "home_zh": "埃及",
+  "away_zh": "伊朗",
+  "comp": "小组赛·G组",
+  "match_id": "M63",
+  "slug": "2026-06-26_EGY_vs_IRN"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Egypt 1 - 1 Iran: Final score, results, recap, box score, stats\nYellow Card\n4 - Shoja Khalilzadeh\nYellow Card\n17 - Mohanad Lashin\nSubstitution - In\n7 - Alireza Jahanbakhsh\nSubstitution - Out\n8 - Mohammad Mohebbi\nYellow Card\n6 - Saeid Ezatolahi\nSubstitution - In\n9 - Hamza Abdelkarim\nSubstitution - Out\n11 - Mostafa Zico\nSubstitution - In\n20 - Shahriyar Moghanloo\nSubstitution - Out\n14 - Saman Ghoddos\nSubstitution - In\n25 - Zizo\nSubstitution - Out\n10 - Mohamed Salah\nSubstitution - In\n22 - Omar Marmoush\nSubstitution - Out\n8 - Emam Ashour\nSubstitution - In\n19 - Marawan Attia\nSubstitution - Out\n21 - Mahmoud Saber\nSubstitution - In\n2 - Saleh Hardani\nSubstitution - Out\n13 - Hossein Kanani",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

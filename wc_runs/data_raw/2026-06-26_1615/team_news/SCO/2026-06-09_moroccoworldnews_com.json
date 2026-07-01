@@ -1,0 +1,16 @@
+{
+ "team": "SCO",
+ "source": "moroccoworldnews.com",
+ "url": "https://www.moroccoworldnews.com/2026/06/317172/morocco-world-cup-rival-scotland-cancels-final-friendly-due-to-injury-concerns/",
+ "title": "Morocco World Cup Rival Scotland Cancels Final Friendly Due to Injury Concerns",
+ "news_date": "2026-06-09",
+ "published": "2026-06-09T16:40:03+00:00",
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-26",
+ "fetched": "2026-06-26_1615",
+ "method": "jsonld:articleBody",
+ "status": "ok",
+ "original_text": "Scotland, one of Morocco's opponents in the 2026 FIFA World Cup, has cancelled its final warm-up match before the tournament due to a growing injury crisis within the squad. \r\n\r\nAccording to reports, the Scottish national team was scheduled to face Norway in a behind-closed-doors friendly on Monday. However, the coaching staff decided to call off the match after assessing the physical condition of the players and the increasing number of injuries in the camp. \r\n\r\nThe friendly was intended to help Scotland fine-tune its preparations before the start of the World Cup. The match had not been publicly announced and was expected to take place without spectators. After details of the fixture were leaked to the media, the Scottish Football Association released a statement explaining the reasons behind the cancellation. \r\n\r\nDespite the setback, Scotland will continue its preparations for the World Cup, where it has been drawn into Group C alongside Morocco, Brazil and Haiti. \r\n\r\nFor Morocco, the development could be seen as a significant update ahead of the group-stage campaign, with Scotland managing several injury concerns before the two teams meet later on Friday, June 19, 2026",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

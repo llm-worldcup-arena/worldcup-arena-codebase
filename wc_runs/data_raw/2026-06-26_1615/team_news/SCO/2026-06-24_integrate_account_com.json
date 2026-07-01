@@ -1,0 +1,16 @@
+{
+ "team": "SCO",
+ "source": "integrate-account.com",
+ "url": "https://www.integrate-account.com/news/216.html",
+ "title": "K8体育网页版登录 | ag厅k8登录线路_凯发娱乐官网欢迎您",
+ "news_date": "2026-06-24",
+ "published": "2026-06-24 13:16:36",
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-26",
+ "fetched": "2026-06-26_1615",
+ "method": "jsonld",
+ "status": "blocked",
+ "original_text": "",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

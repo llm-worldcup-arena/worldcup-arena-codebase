@@ -1,0 +1,24 @@
+{
+ "source": "fifa.com",
+ "url": "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021481",
+ "title": "New Zealand v Belgium 1-5 | Result, Stats & Highlights | First Stage | FIFA World Cup 2026™ | FIFA",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-26",
+  "home": "NZL",
+  "away": "BEL",
+  "home_en": "New Zealand",
+  "away_en": "Belgium",
+  "home_zh": "新西兰",
+  "away_zh": "比利时",
+  "comp": "小组赛·G组",
+  "match_id": "M64",
+  "slug": "2026-06-26_NZL_vs_BEL"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "New Zealand v Belgium 1-5 | Result, Stats & Highlights | First Stage | FIFA World Cup 2026™\nEND SECOND HALF\n90'+4'\nAlexis SAELEMAEKERSAlexis SAELEMAEKERS\n86'\nRomelu LUKAKURomelu LUKAKU\nCharles DE KETELAERECharles DE KETELAERE\n85'\nRomelu LUKAKURomelu LUKAKU\nYouri TIELEMANSYouri TIELEMANS\n85'\nNicolas RASKINNicolas RASKIN\nElijah JUSTElijah JUST\n84'\nLiberato CACACELiberato CACACE\nFrancis DE VRIESFrancis DE VRIES\n79'\nKevin DE BRUYNEKevin DE BRUYNE\n72'\nAmadou ONANAAmadou ONANA\nLeandro TROSSARDLeandro TROSSARD\n72'\nAlexis SAELEMAEKERSAlexis SAELEMAEKERS\n66'\nKevin DE BRUYNEKevin DE BRUYNE\nTim PAYNETim PAYNE\nMichael BOXALLMichael BOXALL\n64'\nJoe BELLJoe BELL\nCallum McCOWATTCallum McCOWATT\n64'\nJeremy DOKUJeremy DOKU\n56'\nMatias FERNANDEZ-PARDOMatias FERNANDEZ-PARDO\nElijah JUSTElijah JUST\n56'\n50'\nLeandro TROSSARDLeandro TROSSARD\nMarko STAMENICMarko STAMENIC\n46'\nSTART SECOND HALF\nSarpreet SINGHSarpreet SINGH\nJesse RANDALLJesse RANDALL\nHT\nRyan THOMASRyan THOMAS\nBen OLDBen OLD\nHT\nHalf Time\n28'\nLeandro TROSSARDLeandro TROSSARD\nMATCH START\nCompetition\nFIFA World Cup™\nLocation\nBC Place Vancouver\nCity\nVancouver\nReferee\nAdham Mohammad Tumah Makhadmeh\nAttendance\n52497\nCompetition\nFIFA World Cup™\nLocation\nBC Place Vancouver\nCity\nVancouver\nReferee\nAdham Mohammad Tumah Makhadmeh\nAttendance\n52497",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

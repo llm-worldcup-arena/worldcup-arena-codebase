@@ -1,0 +1,24 @@
+{
+ "source": "fifa.com",
+ "url": "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021479",
+ "title": "Egypt v IR Iran 1-1 | Result, Stats & Highlights | First Stage | FIFA World Cup 2026™ | FIFA",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-26",
+  "home": "EGY",
+  "away": "IRN",
+  "home_en": "Egypt",
+  "away_en": "Iran",
+  "home_zh": "埃及",
+  "away_zh": "伊朗",
+  "comp": "小组赛·G组",
+  "match_id": "M63",
+  "slug": "2026-06-26_EGY_vs_IRN"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Egypt v IR Iran 1-1 | Result, Stats & Highlights | First Stage | FIFA World Cup 2026™\nEgypt knew before tonight's clash that they were headed to the knockouts for the first time. IR Iran spent the next 90-plus minutes trying to join them.\nMahmoud Saber gave the Pharaohs the lead after five minutes when he fired through the legs of Alireza Beiranvand.\nIR Iran didn't take that hit lying down, though, and were handed a golden chance to level just over five minutes later. Mehdi Taremi won, but subsequently missed, a penalty.\nIt mattered little, though, as just 135 seconds later Milad Mohammadi's effort was squirmed out to Ramin Rezaeian, who made no mistake in tucking home the loose ball.\nThe rest of the match passed by with little incident, until a flurry of IR Iran chances in the final ten minutes. Taremi hit the bar, before Shoja Khalilzadeh thought he'd levelled when he put away some penalty-box pinball. It wasn't to be, however, as a marginal offside call saw the goal chalked off. There was time for further heartache, as Saeid Ezatolahi sent a header crashing off the crossbar.\nEgypt will now take on Australia in the last 32 in Dallas, while IR Iran must wait and see if they will finish among the eight best third-placed sides.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

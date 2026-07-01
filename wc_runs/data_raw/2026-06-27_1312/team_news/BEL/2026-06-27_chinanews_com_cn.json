@@ -1,0 +1,16 @@
+{
+ "team": "BEL",
+ "source": "chinanews.com.cn",
+ "url": "https://www.chinanews.com.cn/ty/2022/11-11/9891979.shtml",
+ "title": "比利时队世界杯26人大名单公布 阿扎尔、卢卡库领衔-中新网",
+ "news_date": "2026-06-27",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-27",
+ "fetched": "2026-06-27_1312",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "中新网 11月11日电 据比利时国家足球队官方微博消息，10日晚，比利时国家队公布了世界杯26人大名单，“欧洲红魔”保留了此前的主力阵容班底。德布劳内、阿扎尔、卢卡库等人悉数在列，FIFA年度最佳门将库尔图瓦镇守球门。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

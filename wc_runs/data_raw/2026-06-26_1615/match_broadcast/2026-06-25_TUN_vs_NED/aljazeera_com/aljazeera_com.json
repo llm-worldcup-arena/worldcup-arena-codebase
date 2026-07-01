@@ -1,0 +1,24 @@
+{
+ "source": "aljazeera.com",
+ "url": "https://www.aljazeera.com/sports/2026/6/26/netherlands-beat-tunisia-3-1-enter-world-cup-knockouts-as-group-winners",
+ "title": "Netherlands book knockouts date with Morocco with 3-1 win over Tunisia",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-25",
+  "home": "TUN",
+  "away": "NED",
+  "home_en": "Tunisia",
+  "away_en": "Netherlands",
+  "home_zh": "突尼斯",
+  "away_zh": "荷兰",
+  "comp": "小组赛·F组",
+  "match_id": "M58",
+  "slug": "2026-06-25_TUN_vs_NED"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Netherlands top Group F with seven points and will face Morocco in the round of 32 in Monterrey on Monday.\n\nThe Netherlands overcame Tunisia 3-1 to top World Cup Group F, avoiding a tricky encounter with Brazil in the last 32.\n\nRonald Koeman’s men flew into a two-goal lead in soggy Kansas City, thanks to some poor defending from their opponents, who leave the tournament without a point.\n\nFirst, Ellyes Skhiri sliced Denzel Dumfries’s cross into his own net, and minutes later, Sunderland forward Brian Brobbey lashed home from close range.\n\nThat apparently sealed the deal for the Netherlands, whose orange-clad fans were entertaining themselves with Mexican waves midway through the first half at Arrowhead Stadium.\n\nTunisia pulled a goal back in the second half, but the Dutch restored their two-goal lead courtesy of a Jan Paul van Hecke header shortly after the hour mark.\n\nThe Netherlands, who finished their group fixtures with seven points, pipped Japan to top spot in Group F, and will face Morocco in the second round in Monterrey on Monday.\n\nJapan drew 1-1 against Sweden in Arlington, Texas, to confirm second spot, though the Scandinavian side also advanced as one of the eight best-placed teams who finished third.\n\nThursday’s game started on time after a lightning storm had threatened major disruption earlier in the American Midwest.\n\nTunisia went close in the opening moments, when Ismael Gharbi fired over from close range, but that proved a false indicator of what was to come.\n\nInstead, Skhiri turned the ball into his own net in the third minute to put the three-time finalists in front.\n\nJust four minutes later, Brobbey smashed home his third goal of the World Cup after Virgil van Dijk headed a cross goal following a Tijjani Reijnders free kick.\n\nTunisia threatened to unravel further but managed to reach half-time without conceding again.\n\nThe North Africans pulled a goal back in the 54th minute, when Hazem Mastouri headed home from Hannibal Mejbri’s corner.\n\nBut any potential jitters were quickly dispelled minutes later, when Van Hecke’s header from Reijnders’s corner found its way into the net via a deflection.\n\nTunisia will go home with their tails between their legs after an embarrassing campaign in which they shipped 12 goals in three games.\n\nVeteran French coach Herve Renard was hired last week, after Sabri Lamouchi was fired following the team’s 5-1 hammering by Sweden in their opening match in Mexico.\n\nBut he was unable to stop the rot, as Tunisia, who romped through qualifying without conceding a single goal, collapsed 4-0 against Japan before their defeat against the Dutch.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

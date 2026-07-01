@@ -1,0 +1,24 @@
+{
+ "source": "aljazeera.com",
+ "url": "https://www.aljazeera.com/sports/2026/6/14/2026-world-cup-australia-stun-turkiye-2-0-in-counterattacking-masterclass",
+ "title": "Australia spoil Turkiye’s return to the World Cup with shock 2-0 victory",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-13",
+  "home": "AUS",
+  "away": "TUR",
+  "home_en": "Australia",
+  "away_en": "Türkiye",
+  "home_zh": "澳大利亚",
+  "away_zh": "土耳其",
+  "comp": "小组赛·D组",
+  "match_id": "M6",
+  "slug": "2026-06-13_AUS_vs_TUR"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Australia secure win in Group D courtesy of goals from Nestory Irankunda and Connor Metcalfe.\n\nNestory Irankunda and Connor Metcalfe have scored as Australia have spoiled Turkiye’s return to the World Cup for the first time in 24 years with a 2-0 victory.\n\nGoalkeeper Patrick Beach made eight saves for the Socceroos in their group opener on Saturday night as FIFA President Gianni Infantino looked on in Vancouver, Canada.\n\nAustralia coach Tony Popovic pulled off a huge shock in his starting lineup, dropping experienced captain and goalkeeper Maty Ryan in favour of Beach, winning only his third cap.\n\nVice captain Jackson Irvine was also dropped in favour of 21-year-old midfielder Paul Okon-Engstler in a starting XI that featured 10 World Cup debutants.\n\nBoth of those selections proved to be inspired as Beach pulled off a string of fine saves to deny Turkiye, who dominated possession and territory but could not find a way past the Australian goalkeeper.\n\nOkon-Engstler, meanwhile, was instrumental in setting up the opening goal in the first half, unleashing a long ball that split the Turkish defence and sent Irankunda racing in on goal to score.\n\nTurkiye – playing in the World Cup for the first time since finishing third at the 2002 tournament – arrived in North America dreaming of making a serious run in the knockout rounds.\n\nBut their talented team, made up largely of players who regularly compete in the European Champions League, were unable to get to grips with a well-organised Socceroos lineup.\n\nOne of Turkiye’s best chances came in the 27th minute when Real Madrid’s Arda Guler forced a smart save from Beach with a rasping shot.\n\nJust seconds after that chance, though, Australia took the lead.\n\nBeach picked out Okon-Engstler deep in the Australia half, and the midfielder pumped the ball upfield for Irankunda.\n\nThe Australia winger still had plenty to do, but a clever first touch took him clear of the covering defence before he tucked away a low finish.\n\nIrankunda celebrated by sprinting to the edge of the pitch and pretending to box the corner flag, mimicking former Australia skipper Tim Cahill’s signature goal celebration.\n\nTurkiye thought they had equalised three minutes later after Abdulkerim Bardakci’s pile-driver from outside the area hurtled towards goal.\n\nBut Beach got the slightest of fingertips on the ball to divert it onto the post, and Australia survived again.\n\nBeach kept up his commanding form in the second half, turning a Guler free kick wide for a corner on 57 minutes.\n\nWith Beach continuing to make save after save, Australia made the game safe in the 75th minute when Metcalfe picked the ball up in midfield, advanced on goal and shot home from 23 metres (25 yards).\n\n“Unreal. It is a dream come true. We have got the win now,” said Irankunda, the youngest men’s World Cup scorer for Australia and not a definite starter before kickoff.\n\n“It feels amazing. You have got to thank the staff, thank the nation. They have got the belief in me.”\n\nAustralia are playing in their sixth straight World Cup and seventh overall.\n\nThe Socceroos fell to France in the opener in Qatar four years ago, but then beat Tunisia and Denmark in their group before getting knocked out by eventual champions Argentina in the round of 16.\n\nIt is the third World Cup appearance for Turkiye, who reached the tournament for the first time in 1954.\n\nThe teams are in Group D with the United States and Paraguay. The Americans thrashed Paraguay 4-1 in their group opener on Friday in Los Angeles.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

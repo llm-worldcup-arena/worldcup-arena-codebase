@@ -1,0 +1,16 @@
+{
+ "team": "BIH",
+ "source": "h5.ifeng.com",
+ "url": "https://h5.ifeng.com/c/vivo/v002Ywo4RydIF2HiHNC3hKpEzufLxj8YxeeqAXehQiIFqVQ__?vivoBusiness=hiboardnews",
+ "title": "波黑公布世界杯26人名单：哲科领衔，德米罗维奇、科拉希纳茨在列",
+ "news_date": "2026-06-29",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-29",
+ "fetched": "2026-06-29_0714",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "北京时间5月11日，波黑国家队公布了出征2026年美加墨世界杯的大名单，40岁的老将哲科领衔。\n\n波黑队在欧洲区附加赛决赛击败了意大利，时隔12年第二次进入世界杯决赛圈。在世界杯，波黑队进入到了B组，将与加拿大、瑞士、卡塔尔同组。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

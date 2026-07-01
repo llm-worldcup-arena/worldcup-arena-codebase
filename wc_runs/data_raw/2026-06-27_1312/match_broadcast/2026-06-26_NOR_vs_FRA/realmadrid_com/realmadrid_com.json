@@ -1,0 +1,24 @@
+{
+ "source": "realmadrid.com",
+ "url": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/cronica-noruega-francia-mundial-j3-26-06-2026",
+ "title": "1-4: Mbappé, Tchouameni, and Konaté advance as group leaders with France",
+ "published": "2026-06-26T21:05:00.000Z",
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-26",
+  "home": "NOR",
+  "away": "FRA",
+  "home_en": "Norway",
+  "away_en": "France",
+  "home_zh": "挪威",
+  "away_zh": "法国",
+  "comp": "小组赛·I组",
+  "match_id": "M61",
+  "slug": "2026-06-26_NOR_vs_FRA"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Mbappé, Tchouameni, and Konaté played a key role in their national team's victory against Norway, securing the top spot in the group and advancing to the Round of 32. Our forward was crucial in the first two goals for his team, providing two assists, while the midfielder set up the third goal. Konaté entered the field in the 75th minute, marking his first appearance in this World Cup.\n\nFrance took the lead in the 7th minute when Mbappé delivered an excellent through ball to Dembélé, who finished with a powerful shot. In the 20th minute, the madridista forward assisted Dembélé again, who extended the lead with a precise strike. One minute later, Aasgaard reduced the deficit for Norway, but in the 32nd minute, Dembélé scored the 1-3, this time with a well-timed pass from Tchouameni.\n\nIn the second half, Doué sealed the 1-4 victory in added time. With this win, the French team secured the top spot in Group I with nine points and will face one of the best third-placed teams in the Round of 32.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

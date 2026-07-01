@@ -1,0 +1,24 @@
+{
+ "source": "sports.yahoo.com",
+ "url": "https://sports.yahoo.com/soccer/fifa-world-cup/iraq-senegal-13587259/",
+ "title": "Senegal 5 - 0 Iraq: Final score, results, recap, box score, stats - Yahoo Sports",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-26",
+  "home": "SEN",
+  "away": "IRQ",
+  "home_en": "Senegal",
+  "away_en": "Iraq",
+  "home_zh": "塞内加尔",
+  "away_zh": "伊拉克",
+  "comp": "小组赛·I组",
+  "match_id": "M62",
+  "slug": "2026-06-26_SEN_vs_IRQ"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Senegal 5 - 0 Iraq: Final score, results, recap, box score, stats\nYellow Card\n23 - Merchas Doski\nGoal\n13 - Iliman Ndiaye\nAssist\n26 - Pape Gueye\nYellow Card\n26 - Pape Gueye\nSubstitution - In\n7 - Assane Diao\nSubstitution - Out\n18 - Ismaila Sarr\nYellow Card\n16 - Amir Alammari\nGoal\n26 - Pape Gueye\nAssist\n13 - Iliman Ndiaye\nSubstitution - In\n19 - Kevin Yakob\nSubstitution - Out\n14 - Zidane Iqbal\nGoal\n26 - Pape Gueye\nAssist\n18 - Ismaila Sarr\nSubstitution - In\n6 - Pathe Ciss\nSubstitution - Out\n4 - Abdoulaye Seck\nSubstitution - In\n15 - Ahmed Maknazi\nSubstitution - Out\n17 - Ali Jasim\nSubstitution - In\n13 - Ali Yousif\nSubstitution - Out\n9 - Ali Al-Hamadi\nSubstitution - In\n26 - Pape Gueye\nSubstitution - Out\n21 - Habib Diarra\nSubstitution - In\n11 - Nicolas Jackson\nSubstitution - Out\n8 - Lamine Camara\nSubstitution - In\n13 - Iliman Ndiaye\nSubstitution - Out\n20 - Ibrahim Mbaye\nGoal\n18 - Ismaila Sarr\nAssist\n8 - Lamine Camara\nSubstitution - In\n12 - Jalal Hassan\nSubstitution - Out\n22 - Ahmed Basil",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

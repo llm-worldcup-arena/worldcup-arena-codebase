@@ -1,0 +1,16 @@
+{
+ "team": "CRO",
+ "source": "jiemian.com",
+ "url": "https://www.jiemian.com/article/2305747.html",
+ "title": "克罗地亚大将佩里西奇或因伤缺席世界杯决赛|界面新闻 · 快讯",
+ "news_date": "2026-06-29",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-29",
+ "fetched": "2026-06-29_0714",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "北京时间7月13日， 据《每日邮报》消息，克罗地亚边锋佩里西奇在与英格兰队的比赛中大腿受伤，可能因此错过克罗地亚历史上首场世界杯决赛。在此前的半决赛中，佩里西奇打入一球，帮助克罗地亚队2-1淘汰英格兰，他也被评为该场比赛最佳球员。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

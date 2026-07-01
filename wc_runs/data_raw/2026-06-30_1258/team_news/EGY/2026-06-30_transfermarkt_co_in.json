@@ -1,0 +1,16 @@
+{
+ "team": "EGY",
+ "source": "transfermarkt.co.in",
+ "url": "https://www.transfermarkt.co.in/egypt/kader/verein/3672",
+ "title": "Egypt - Detailed squad 2026 | Transfermarkt",
+ "news_date": "2026-06-30",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-30",
+ "fetched": "2026-06-30_1258",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "This page displays a detailed overview of the club's current squad. It shows all personal information about the players, including age, nationality, contract duration and market value. It also contains a table with average age, cumulative market value and average market value for each player position and overall.\n#PlayerAgeClubMarket value\n23\n\nOufa Shobeir\nGoalkeeper\n26 ₹9.6 Cr\n26\n\nMohamed Alaa\nGoalkeeper\n26 ₹9.6 Cr\n1\n\nMohamed El Shenawy\nGoalkeeper\n37 ₹4 Cr\n16\n\nEl Mahdi Soliman\nGoalkeeper\n39 ₹1.2 Cr\n6\n\nMohamed Abdelmonem\nCentre-Back\n27 ₹20 Cr\n4\n\nHossam Abdelmaguid\nCentre-Back\n25 ₹16 Cr\n5\n\nRamy Rabia\nCentre-Back\n33 ₹4.8 Cr\n2\n\nYasser Ibrahim\nCentre-Back\n33 ₹2.2 Cr\n13\n\nAhmed Fatouh\nLeft-Back\n28 ₹8 Cr\n15\n\nKarim Hafez\nLeft-Back\n30 ₹5.6 Cr\n3\n\nMohamed Hany\nRight-Back\n30 ₹12 Cr\n24\n\nTarek Alaa\nRight-Back\n24 ₹2 Cr\n19\n\nMarwan Ateya\nDefensive Midfield\n27 ₹32 Cr\n17\n\nMohanad Lasheen\nDefensive Midfield\n30 ₹24 Cr\n14\n\nHamdy Fathy\nDefensive Midfield\n31 ₹14.4 Cr\n18\n\nNabil Dunga\nDefensive Midfield\n30 ₹8 Cr\n8\n\nEmam Ashour\nCentral Midfield\n28 ₹32 Cr\n21\n\nMahmoud Saber\nCentral Midfield\n24 ₹12 Cr\n7\n\nTrezeguet\nLeft Winger\n31 ₹36 Cr\n20\n\nIbrahim Adel\nLeft Winger\n25 ₹20 Cr\n11\n\nMostafa Ziko\nLeft Winger\n29 ₹14.4 Cr\n10\n\nMohamed Salah\nRight Winger\n34 ₹176 Cr\n12\n\nHaissem Hassan\nRight Winger\n24 ₹28 Cr\n25\n\nZizo\nRight Winger\n30 ₹28 Cr\n22\n\nOmar Marmoush\nCentre-Forward\n27 ₹400 Cr\n9\n\nHamza Abdelkarim\nCentre-Forward\n18 ₹12 Cr\nSquad details by position\nPosition ø-Age Market value ø-Market value\nGoalkeeper 32.4 ₹24.4 Cr ₹6.1 Cr\nDefender 29.1 ₹70.6 Cr ₹8.83 Cr\nMidfield 28.9 ₹122 Cr ₹20.4 Cr\nAttack 27.6 ₹714 Cr ₹89.3 Cr\nTotal: 29.1 ₹932 Cr ₹35.84 Cr\nRevoke Tracking\nSie haben erfolgreich Ihre Einwilligung in die Nutzung von Transfermarkt mit Tracking und Cookies widerrufen. Sie können sich jetzt zwischen dem Contentpass-Abo und der Nutzung mit personalisierter Werbung, Cookies und Tracking entscheiden.\nRevoke Tracking\nSie haben erfolgreich Ihre Einwilligung in die Nutzung von Transfermarkt mit Tracking und Cookies widerrufen. Sie können sich jetzt zwischen dem Contentpass-Abo und der Nutzung mit personalisierter Werbung, Cookies und Tracking entscheiden.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

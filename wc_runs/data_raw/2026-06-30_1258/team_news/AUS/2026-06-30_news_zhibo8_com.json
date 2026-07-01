@@ -1,0 +1,16 @@
+{
+ "team": "AUS",
+ "source": "news.zhibo8.com",
+ "url": "https://news.zhibo8.com/zuqiu/2026-06-27/6a3f480592338native.htm",
+ "title": "澳大利亚官方：意大利诺和马修·莱基因伤告别本届世界杯-直播吧",
+ "news_date": "2026-06-30",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-30",
+ "fetched": "2026-06-30_1258",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "直播吧6月27日讯 澳大利亚队官方消息，后卫雅各布·意大利诺和前锋马修·莱基因伤将缺席本届世界杯的剩余比赛。\n\n澳大利亚官方写道：“我们祝愿雅各布和马修早日康复，并感谢他们在本次征程中的贡献。我们会想念你们的，伙计们。”",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

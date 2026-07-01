@@ -1,0 +1,16 @@
+{
+ "team": "EGY",
+ "source": "bbc.co.uk",
+ "url": "https://www.bbc.co.uk/sport/football/articles/c0mypyw1130o",
+ "title": "World Cup 2026: Mohamed Salah a doubt for Egypt's last-32 tie with hamstring injury",
+ "news_date": "2026-06-29",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-29",
+ "fetched": "2026-06-29_0714",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "Egypt captain Mohamed Salah is a doubt for Friday's World Cup last-32 tie against Australia after suffering a hamstring injury.\n\nThe 34-year-old was substituted during Egypt's 1-1 draw with Iran and team doctor Mohamed Abou said Salah had complained of pain before scans later confirmed a hamstring strain.\n\nThe statement from the Egyptian Football Association added that Salah has begun a treatment programme but made no suggestion as to whether the forward will be fit to play against Australia in Dallas on 3 July (19:00 BST).\n\n\"I spoke with Salah and, God willing, the injury doesn't seem serious,\" Egypt coach Hossam Hassan said after the Iran match.\n\n\"He assured me it would be fine, that it's not a serious injury.\"\n\nA hamstring problem kept former Liverpool star Salah out for three weeks from late April but he recovered to feature in the Reds' final two games of the season.\n\nSalah has scored once and provided two assists so far in this World Cup as Egypt qualified from Group G in second place.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

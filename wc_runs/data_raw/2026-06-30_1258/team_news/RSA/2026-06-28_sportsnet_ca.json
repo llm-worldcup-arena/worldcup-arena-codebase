@@ -1,0 +1,16 @@
+{
+ "team": "RSA",
+ "source": "sportsnet.ca",
+ "url": "https://www.sportsnet.ca/fifa-world-cup/article/canadas-alphonso-davies-not-starting-vs-south-africa/",
+ "title": "Canada's Alphonso Davies subs in vs. South Africa",
+ "news_date": "2026-06-28",
+ "published": "2026-06-28T13:58:30.000Z",
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-30",
+ "fetched": "2026-06-30_1258",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "Canada captain Alphonso Davies came on for the country's Round of 32 FIFA World Cup game against South Africa.\n\nThe 25-year-old Bayern Munich standout replaced Tajon Buchanan in the 74th minute on Sunday and took the captain's armband from Stephen Eustaquio, who ended up scoring the game-winner in extra time. The 1-0 win sent Canada into the Round of 16 for the first time in the men's tournament history.\n\nIt marked Davies' first game action since early May, when he suffered a hamstring injury while playing in a Champions League semifinal.\n\nDavies missed Canada's first three games of the World Cup, despite head coach Jesse Marsch saying he expected the star left back to play against Switzerland in the nation's group-stage finale in Vancouver on June 24.\n\nCanada opened the tournament with a 1-1 draw against Bosnia-Herzegovina in Toronto on June 12, then earned its first-ever win in the men's tournament on June 18, thumping Qatar 6-0 in Vancouver.\n\nIt finished second in Group B after falling 2-1 to Switzerland and advanced to a World Cup knockout game for the first time.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

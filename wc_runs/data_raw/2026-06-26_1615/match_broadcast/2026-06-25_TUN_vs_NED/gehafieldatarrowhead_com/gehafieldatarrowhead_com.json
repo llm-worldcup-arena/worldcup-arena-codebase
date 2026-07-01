@@ -1,0 +1,24 @@
+{
+ "source": "gehafieldatarrowhead.com",
+ "url": "https://www.gehafieldatarrowhead.com/events/detail/fifa-world-cup-26-group-stage-tunisia-vs-netherlands",
+ "title": "FIFA World Cup 26™ Group Stage - Tunisia vs. Netherlands | GEHA Field at Arrowhead Stadium",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-25",
+  "home": "TUN",
+  "away": "NED",
+  "home_en": "Tunisia",
+  "away_en": "Netherlands",
+  "home_zh": "突尼斯",
+  "away_zh": "荷兰",
+  "comp": "小组赛·F组",
+  "match_id": "M58",
+  "slug": "2026-06-25_TUN_vs_NED"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "FIFA World Cup 26™ Group Stage - Tunisia vs. Netherlands\nGet Closer Than Ever to FIFA WORLD CUP 26™\nFIFA World Cup 26™ will bring the world together, and our team will bring you the best of it all as an exclusive sales agent of On Location in Kansas City.\nExperience matchday elevated with complete hospitality packages, all of which feature premium tickets, entertainment, food & beverage, and beyond.\nNow available across all three host nations – Canada, Mexico, and the U.S. – including single matches*!\nBOOK NOW\nDon’t risk unofficial sources or leave tickets to chance in the future. Secure your place now at the greatest FIFA World Cup™ in history and get closer than ever to the experience of a lifetime.\n*Host nation team matches – Canada, Mexico, and the U.S. – are not available as single-match offerings. To access host nation team matches, consider a Venue Series offering. See hospitality offerings below.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

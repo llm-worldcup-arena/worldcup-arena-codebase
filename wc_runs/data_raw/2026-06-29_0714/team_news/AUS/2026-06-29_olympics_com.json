@@ -1,0 +1,16 @@
+{
+ "team": "AUS",
+ "source": "olympics.com",
+ "url": "https://www.olympics.com/en/news/steve-smith-called-up-australia-t20-world-cup-2026-reserve-marsh-injury",
+ "title": "Steve Smith to join Australia’s T20 World Cup 2026 squad as reserve after Mitchell Marsh injury blow",
+ "news_date": "2026-06-29",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-29",
+ "fetched": "2026-06-29_0714",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Steve Smith to join Australia’s T20 World Cup 2026 squad as reserve after Mitchell Marsh injury blow\nAustralia have called on former skipper Steve Smith to travel to Sri Lanka as reserve cover after captain Mitchell Marsh was ruled out of their T20 World Cup 2026 opener against Ireland with injury.\nMarsh sustained a direct blow to the groin during training earlier this week.\nSubsequent scans confirmed internal testicular bleeding, forcing him to miss the Australian cricket team’s opening match of the T20 World Cup 2026 against Ireland on Wednesday.\nCricket Australia outlined the medical position in a statement.\n“He (Marsh) is experiencing ongoing pain and discomfort which is restricting his movement,” the board said. “His return to play will be guided by symptom resolution and medical advice.”\nTravis Head led Australia in Marsh’s absence against Ireland while Matthew Renshaw took his position in the playing XI.\nAustralia will continue their group-stage campaign in Sri Lanka with a match against Zimbabwe in Colombo on Friday. They will then travel to Kandy to face Sri Lanka and Oman on February 17 and 21, respectively.\nSmith has not been formally added to Australia’s T20 World Cup 2026 squad. However, the 2021 champions have a vacant spot to utilise after opting not to name a replacement for Josh Hazlewood, who was ruled out of the tournament after failing to recover from injury.\nThat vacancy allows selectors to include Smith if required without further administrative delay.\nSmith will travel to acclimatise and train with the squad while Marsh undergoes rehabilitation. Sean Abbott is already in Sri Lanka as a travelling reserve, providing additional depth to the pace-bowling group.\nA former all-format captain, Smith has scored over 1000 runs in 67 T20Is and was also part of the Australian side which won the T20 World Cup in the UAE back in 2021. However, he hasn’t played a T20I since February 2024.\nAustralia’s preparations for the T20 World Cup 2026 have already been disrupted by injuries in recent weeks. Hazlewood and Pat Cummins were both ruled out before the tournament, reducing the experience within the pace attack.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

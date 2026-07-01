@@ -1,0 +1,24 @@
+{
+ "source": "nytimes.com",
+ "url": "https://www.nytimes.com/athletic/football/game/belgium-vs-new-zealand/xrw2pyguV6krZeiW/",
+ "title": "Belgium vs New Zealand Box Score - June 27, 2026 - The Athletic",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-26",
+  "home": "NZL",
+  "away": "BEL",
+  "home_en": "New Zealand",
+  "away_en": "Belgium",
+  "home_zh": "新西兰",
+  "away_zh": "比利时",
+  "comp": "小组赛·G组",
+  "match_id": "M64",
+  "slug": "2026-06-26_NZL_vs_BEL"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Belgium beat New Zealand to win World Cup group. Welcome to the party, Kevin De Bruyne\n\nThe Belgium team is waffling. Thank you. I’ll see myself out\n\nIs anyone else hoping for wins by NZ and Egypt? I just think it would be great to see Australia v New Zealand at a World Cup that isn't cricket, rugby (either code) or netball.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

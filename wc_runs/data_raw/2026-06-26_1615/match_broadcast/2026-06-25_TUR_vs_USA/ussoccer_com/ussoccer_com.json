@@ -1,0 +1,24 @@
+{
+ "source": "ussoccer.com",
+ "url": "https://ussoccer.com/stories/2025/06/usmnt-turkey-jack-mcglynn-recap-highlights",
+ "title": "Young U.S. Team Comes Up Short in Hard Fought 2-1 Loss Against Türkiye",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-25",
+  "home": "TUR",
+  "away": "USA",
+  "home_en": "Türkiye",
+  "away_en": "United States",
+  "home_zh": "土耳其",
+  "away_zh": "美国",
+  "comp": "小组赛·D组",
+  "match_id": "M59",
+  "slug": "2026-06-25_TUR_vs_USA"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "EAST HARTFORD, Conn. (June 7, 2025) — The U.S. Men’s National Team fell 2-1 to Türkiye in East Hartford, Conn., on Saturday in what was the first of two friendlies against UEFA opposition ahead of the 2025 Concacaf Gold Cup. Four players made their senior Men’s National Team debuts as the young U.S. team showed an improved effort and determination against an experienced Turkish side.\n\nThe scoring started early on Saturday, as midfielder Jack McGlynn netted a goal in the first minute of the game, electrifying the crowd of 34,023. McGlynn took control of the ball off a leading pass from Malik Tillman, and just as the 21-year-old approached the box, he confidently struck from 18 yards. The shot curled off his left foot and into the far side netting away from Turkish goalkeeper Berke Özer’s reach. It was McGlynn’s second career international goal, whileTillman recorded his first international assist on the play.\n\nHowever, Türkiye capitalized on two key moments before halftime. The Turks tallied their first goal in the 24th minute after USMNT midfielder Johnny Cardoso’s attempted clearance inside the 18-yard box met the knees of Arda Güler and was redirected into the U.S. net.\n\nThree minutes later, Türkiye found a second goal via Kerem Aktürkoğlu. As the Turkish attack pressured the U.S. six-yard box ,pair of low crosses failed to find their target, instead deflecting off defender Miles Robinson and into the path of Aktürkoğlu who finished from close range.\n\nThe U.S. found a way to halt the momentum against the experienced Turkish side and reassert themselves in the second half, yet ultimately the equalizer remained elusive. Finding space on the wings, the U.S. attackers delivered several dangerous crosses into the area. The team’s best chance to level the score came on a late Tillman header, but Özer found himself well-positioned to collect.\n\nUp next, the USMNT will face Switzerland in the Coca-Cola SendOff Match in Nashville, Tenn. this Tuesday, June 10 at 8 p.m. ET. Broadcast coverage will be available on TNT, TruTV, Max, Peacock, Westwood One Sports, and Fútbol de Primera Radio. Tickets for the match can be purchased HERE .\n\nUSA— Jack McGlynn (Malik Tillman), 1st minute: Malik Tillman got the attack started with a pass into space for Jack McGlynn on the right side. McGlynn carried the ball toward goal andunleashed a left-footed shot from distancethat hit left side of the net for his second international goal. USA 1, TUR 0\n\nTUR — Arda Güler, 24th minute: The ball ricocheted off ofArda Güler after a clearance attempt by U.S. midfielder Johnny Cardoso and found the back of the net. USA 1, TUR 1\n\nTUR — Kerem Aktürkoglu, 27th minute: Just minutes after the equalizer, striker Kerem Aktürkoglu scored the go-ahead goal. As the Turkish attack pressured the U.S. six-yard box, pair of low crosses failed to find their target, instead deflecting off defender Miles Robinson and into the path of Aktürkoğlu who finished from close range. USA 1, TUR 2\n\nUSA: 25-Matt Freese; 27-Max Arfsten (19-Haji Wright, 65), 12-Miles Robinson (22-Mark McKenzie, 46), 3-Chris Richards (Capt.), 16-Alex Freeman; 15-Johnny Cardoso (4-Tyler Adams, 46), 6-Jack McGlynn (7-Quinn Sullivan, 65); 14-Luca de la Torre, 17-Malik Tillman, 10-Diego Luna (20-Nathan Harriel, 65); 24-Patrick Agyemang (23-Brian White, 75’)",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

@@ -1,0 +1,24 @@
+{
+ "source": "reuters.com",
+ "url": "https://www.reuters.com/sports/soccer/unconvincing-uruguay-seek-first-win-against-revitalised-spain-2026-06-24/",
+ "title": "Unconvincing Uruguay seek first win against revitalised Spain | Reuters",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-26",
+  "home": "URU",
+  "away": "ESP",
+  "home_en": "Uruguay",
+  "away_en": "Spain",
+  "home_zh": "乌拉圭",
+  "away_zh": "西班牙",
+  "comp": "小组赛·H组",
+  "match_id": "M66",
+  "slug": "2026-06-26_URU_vs_ESP"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Unconvincing Uruguay seek first win against revitalised Spain\nVerification Required\nThe visual verification might not be accessible to you. We recommend you to use the audio verification instead. Important: after clicking play, you will hear 6 digits. Please wait until the audio finishes before typing or interacting with the page.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

@@ -1,0 +1,16 @@
+{
+ "team": "ALG",
+ "source": "bulinews.com",
+ "url": "https://bulinews.com/world-cup-austria-and-algeria-join-round-32-after-injury-time-drama",
+ "title": "World Cup: Austria and Algeria join Round of 32 after injury-time drama",
+ "news_date": "2026-06-29",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-29",
+ "fetched": "2026-06-29_0714",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "World Cup: Austria and Algeria join Round of 32 after injury-time drama\nWorld: World Cup\nYesterday 22:00June 27, 2026 at 22:00\nFT\n3 - 3\n(1 - 1)\nAlgeria\nAustria\n⚽ R. Belghali (45), ⚽ R. Mahrez (60), ⚽ R. Mahrez (90)\n⚽ M. Arnautović (28), ⚽ M. Sabitzer (55), ⚽ S. Kalajdzic (90)\n@eskeFussballToday 00:32June 28, 2026 at 00:32\nAustria's thrilling 3-3 draw with Algeria saw both teams join the Round of 32 at the 2026 World Cup.\nCharlotte Wilson/Getty Images\nAustria are through to the Round of 32 after ex-Stuttgart striker Sasa Kalajdzic's 96th-minute goal cancelled out Riyad Mahrez's strike three minutes earlier for Algeria. The six-goal thriller was enough for both teams to qualify for the knockout stages.\nA win for Algeria would have seen Iran take Austria's place, but Ralf Rangnick's side responded immediately to climb to second place in Group J. Algeria qualified as one of the best third-placed teams.\nTwelve Bundesliga players featured in the eventful encounter, with nine of them representing Austria. Former Werder Bremen striker Marko Arnautovic opened the scoring with a scrappy finish before Rafik Belghali's well-taken strike leveled it before half-time.\nAlgeria had to respond quickly once again when Borussia Dortmund’s Marcel Sabitzer restored Austria's lead ten minutes after the restart. Mahrez scored twice for Algeria, although it wasn't enough for them to finish second in the group.\nAustria will face Spain in the Round of 32, while Algeria prepare for Switzerland. Algeria's coach Vladimír Petković is set for a game against the team he coached for seven years, including at the 2018 World Cup.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

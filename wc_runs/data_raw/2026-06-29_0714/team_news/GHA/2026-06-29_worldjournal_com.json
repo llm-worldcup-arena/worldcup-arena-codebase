@@ -1,0 +1,16 @@
+{
+ "team": "GHA",
+ "source": "worldjournal.com",
+ "url": "https://www.worldjournal.com/wj/story/124903/9573913?from=wj_catelistnews&zh-cn",
+ "title": "世界杯／20岁小将伤停进球 加纳绝杀巴拿马 | 世界新闻网",
+ "news_date": "2026-06-29",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-29",
+ "fetched": "2026-06-29_0714",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "加纳和巴拿马今天比数一直挂零，直到伤停补时加纳才打破僵局，靠伊伦基（Caleb Yirenkyi）伤停补时的巧射破网「绝杀」巴拿马，惊险抢下3分积分。\n\n巴拿马伤停补时最后阶段获得定位球机会，门将莫斯克拉（Orlando Mosquera）都直接压上阵，但他头锤没能破网，一阵混乱中加纳替补门将阿萨雷（Benjamin Asare）将球抱下，浇熄巴拿马反扑。\n\n这次攻防还出现火药味，让巴拿马后卫哈维（Carlos Harvey）领到一张黄牌，但没改变加纳取胜结果，3分积分到手和英格兰暂时并列L组龙头，晋级淘汰赛机会大增。\n\n年仅20岁的伊伦基目前在丹麦超级联赛的洛斯查兰特效力，他11岁进入「梦想成真」足球学院训练，9年后在最大舞台上演「绝杀」，真的美梦成真。\n\n巴拿马控球率5成6优于加纳，11次射门、4次射正也优于加纳的7次射门和2次射正，但最终都没能攻破球门，和平手的1分积分擦身而过。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

@@ -1,0 +1,24 @@
+{
+ "source": "vavel.com",
+ "url": "https://www.vavel.com/en-us/soccer/2026/06/25/1264368-japan-vs-sweden-live-score-2026-fifa-world-cup.html",
+ "title": "Highlights and Goals Japan 1 - 1 Sweden in 2026 FIFA World Cup | 06/25/2026 - VAVEL USA",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-25",
+  "home": "JPN",
+  "away": "SWE",
+  "home_en": "Japan",
+  "away_en": "Sweden",
+  "home_zh": "日本",
+  "away_zh": "瑞典",
+  "comp": "小组赛·F组",
+  "match_id": "M57",
+  "slug": "2026-06-25_JPN_vs_SWE"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Highlights and Goals Japan 1 - 1 Sweden in 2026 FIFA World Cup | 06/25/2026\nHighlights and Goals Japan 1 - 1 Sweden in 2026 FIFA World Cup\nJapan and Sweden played out a 1-1 draw in a hard-fought contest decided by fine margins. Japan miss the chance to secure top spot, while Sweden earn a valuable point after a dramatic finish.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

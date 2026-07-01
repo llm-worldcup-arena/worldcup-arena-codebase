@@ -1,0 +1,16 @@
+{
+ "team": "TUN",
+ "source": "fb8-leyu.com",
+ "url": "https://fb8-leyu.com/cases/173.html",
+ "title": "leyu乐鱼下载 - 足球8号专业工具 | 数据与激情双驱动",
+ "news_date": "2026-06-25",
+ "published": "2026-06-25 03:50:39",
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-29",
+ "fetched": "2026-06-29_0714",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "leyu乐鱼下载：足球8号专业助手，数据图表+情感共鸣双引擎，助你把热爱升级成专业级洞察。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

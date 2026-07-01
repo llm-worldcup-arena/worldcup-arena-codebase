@@ -1,0 +1,366 @@
+{
+ "match_id": "4697704",
+ "date": "2026-06-25",
+ "comp": "世界杯",
+ "ha_home": "中",
+ "home": "TUR",
+ "away": "USA",
+ "score": "3-2",
+ "venue": "SoFi Stadium (Los Angeles)",
+ "attendance": 70492,
+ "goals": [
+  {
+   "min": 3,
+   "side": "away",
+   "player": "Auston Trusty",
+   "sub": null
+  },
+  {
+   "min": 10,
+   "side": "home",
+   "player": "Arda Güler",
+   "sub": null
+  },
+  {
+   "min": 31,
+   "side": "home",
+   "player": "Baris Yilmaz",
+   "sub": null
+  },
+  {
+   "min": 49,
+   "side": "away",
+   "player": "Sebastian Berhalter",
+   "sub": null
+  },
+  {
+   "min": 90,
+   "side": "home",
+   "player": "Kaan Ayhan",
+   "sub": null
+  }
+ ],
+ "cards": [
+  {
+   "min": 19,
+   "side": "away",
+   "player": "Sebastian Berhalter",
+   "type": "黄牌"
+  }
+ ],
+ "stats": {
+  "射门": [
+   "9",
+   "18"
+  ],
+  "射正": [
+   "3",
+   "7"
+  ],
+  "禁区内射门": [
+   "4",
+   "6"
+  ],
+  "扑救": [
+   "2",
+   "5"
+  ],
+  "角球": [
+   "2",
+   "9"
+  ],
+  "越位": [
+   "2",
+   "5"
+  ],
+  "控球%": [
+   "48%",
+   "52%"
+  ],
+  "传中": [
+   "84",
+   "80"
+  ],
+  "传球": [
+   "333",
+   "397"
+  ],
+  "xG预期进球": [
+   "1.13",
+   "0.85"
+  ],
+  "xGOT/大机会": [
+   "2.3",
+   "1.95"
+  ]
+ },
+ "lineups": {
+  "home": [
+   {
+    "no": 23,
+    "name": "Uğurcan Çakır"
+   },
+   {
+    "no": 14,
+    "name": "Abdulkerim Bardakci"
+   },
+   {
+    "no": 15,
+    "name": "Ozan Kabak"
+   },
+   {
+    "no": 2,
+    "name": "Zeki Celik"
+   },
+   {
+    "no": 13,
+    "name": "Eren  Elmalı"
+   },
+   {
+    "no": 6,
+    "name": "Orkun Kökçü"
+   },
+   {
+    "no": 5,
+    "name": "Salih Özcan"
+   },
+   {
+    "no": 24,
+    "name": "Oğuz Aydin"
+   },
+   {
+    "no": 11,
+    "name": "Kenan Yıldız"
+   },
+   {
+    "no": 8,
+    "name": "Arda Güler"
+   },
+   {
+    "no": 21,
+    "name": "Baris Yilmaz"
+   },
+   {
+    "no": 22,
+    "name": "Kaan Ayhan"
+   },
+   {
+    "no": 17,
+    "name": "Irfan Kahveci"
+   },
+   {
+    "no": 18,
+    "name": "Mert Muldur"
+   },
+   {
+    "no": 4,
+    "name": "Çağlar Söyüncü"
+   },
+   {
+    "no": 26,
+    "name": "Can Uzun"
+   },
+   {
+    "no": 25,
+    "name": "Samet Akaydin"
+   },
+   {
+    "no": 19,
+    "name": "Yunus Akgün"
+   },
+   {
+    "no": 7,
+    "name": "Kerem Aktürkoğlu"
+   },
+   {
+    "no": 12,
+    "name": "Altay Bayindir"
+   },
+   {
+    "no": 3,
+    "name": "Merih Demiral"
+   },
+   {
+    "no": 9,
+    "name": "Deniz Gul"
+   },
+   {
+    "no": 1,
+    "name": "Mert Günok"
+   },
+   {
+    "no": 20,
+    "name": "Ferdi Kadioglu"
+   },
+   {
+    "no": 16,
+    "name": "İsmail Yüksek"
+   },
+   {
+    "no": 10,
+    "name": "Hakan Calhanoglu"
+   }
+  ],
+  "away": [
+   {
+    "no": 1,
+    "name": "Matt Turner"
+   },
+   {
+    "no": 6,
+    "name": "Auston Trusty"
+   },
+   {
+    "no": 22,
+    "name": "Mark McKenzie"
+   },
+   {
+    "no": 12,
+    "name": "Miles Robinson"
+   },
+   {
+    "no": 23,
+    "name": "Joseph Scally"
+   },
+   {
+    "no": 7,
+    "name": "Giovanni Reyna"
+   },
+   {
+    "no": 14,
+    "name": "Sebastian Berhalter"
+   },
+   {
+    "no": 8,
+    "name": "Weston McKennie"
+   },
+   {
+    "no": 21,
+    "name": "Timothy Weah"
+   },
+   {
+    "no": 9,
+    "name": "Ricardo Pepi"
+   },
+   {
+    "no": 11,
+    "name": "Brenden Aaronson"
+   },
+   {
+    "no": 2,
+    "name": "Sergino Dest"
+   },
+   {
+    "no": 16,
+    "name": "Alex Freeman"
+   },
+   {
+    "no": 10,
+    "name": "Christian Pulisic"
+   },
+   {
+    "no": 17,
+    "name": "Malik Tillman"
+   },
+   {
+    "no": 26,
+    "name": "Álex Zendejas"
+   },
+   {
+    "no": 4,
+    "name": "Tyler Adams"
+   },
+   {
+    "no": 18,
+    "name": "Max Arfsten"
+   },
+   {
+    "no": 20,
+    "name": "Folarin Balogun"
+   },
+   {
+    "no": 25,
+    "name": "Christopher Brady"
+   },
+   {
+    "no": 24,
+    "name": "Matt Freese"
+   },
+   {
+    "no": 13,
+    "name": "Tim Ream"
+   },
+   {
+    "no": 3,
+    "name": "Chris Richards"
+   },
+   {
+    "no": 5,
+    "name": "Antonee Robinson"
+   },
+   {
+    "no": 19,
+    "name": "Haji Wright"
+   }
+  ]
+ },
+ "missing": [
+  {
+   "side": "away",
+   "no": 15,
+   "name": "Cristian Roldan",
+   "reason": "Muscle injury"
+  }
+ ],
+ "events": [
+  {
+   "min": 3,
+   "side": "away",
+   "type": "进球",
+   "sub": null,
+   "player": "Auston Trusty"
+  },
+  {
+   "min": 10,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Arda Güler"
+  },
+  {
+   "min": 19,
+   "side": "away",
+   "type": "黄牌",
+   "sub": null,
+   "player": "Sebastian Berhalter"
+  },
+  {
+   "min": 31,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Baris Yilmaz"
+  },
+  {
+   "min": 49,
+   "side": "away",
+   "type": "进球",
+   "sub": null,
+   "player": "Sebastian Berhalter"
+  },
+  {
+   "min": 90,
+   "side": "home",
+   "type": "进球",
+   "sub": null,
+   "player": "Kaan Ayhan"
+  }
+ ],
+ "injuries": [],
+ "suspensions": [],
+ "ratings": {},
+ "quotes": [],
+ "narrative": "",
+ "prediction_note": "",
+ "_note": "macheta/Sofascore 权威硬数据；injuries/suspensions/ratings/quotes/narrative/prediction_note 待 agent WebSearch 补。"
+}

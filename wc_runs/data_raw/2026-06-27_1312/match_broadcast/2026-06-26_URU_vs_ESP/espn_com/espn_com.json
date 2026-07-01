@@ -1,0 +1,24 @@
+{
+ "source": "espn.com",
+ "url": "https://www.espn.com/soccer/report/_/gameId/760479",
+ "title": "Uruguay 0-1 Spain (Jun 26, 2026) Game Analysis - ESPN",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-26",
+  "home": "URU",
+  "away": "ESP",
+  "home_en": "Uruguay",
+  "away_en": "Spain",
+  "home_zh": "乌拉圭",
+  "away_zh": "西班牙",
+  "comp": "小组赛·H组",
+  "match_id": "M66",
+  "slug": "2026-06-26_URU_vs_ESP"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(apify:website-content-crawler) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Spain defeated Uruguay 1-0 after another goalkeeping mistake by Fernando Muslera to advance to the knockout stage of the World Cup and eliminate the South American powerhouse on Friday.\nUruguay, a two-time champion, will go home without any victories in its three Group H games. Spain, the European champion, won the group with seven points and will face the second-place team from Group J - either Austria or Algeria - on Thursday in Inglewood, California.\nÁlex Baena scored in the 42nd minute after Muslera couldn't fully swat away his shot from inside the area. It was the third blunder of the tournament by the 40-year-old Muslera, who was pulled at halftime by coach Marcelo Bielsa.\nAt 19th in the FIFA rankings, Uruguay is the highest-ranked team to be eliminated so far.\nCape Verde, which played Saudi Arabia to a 0-0 draw in the other group game on Friday, finished second in the group with three points, one more than both Uruguay and Saudi Arabia. Uruguay finished third but without enough points to be among the best eight third-place teams that will advance.\nAP Photo/Fernando Llano\nA few Uruguay players cried on the field after the final whistle. Many fans booed the team as it left.\nThe match was one of the most anticipated of the group stage, but it featured few significant scoring chances by either team.\nUruguay players loudly advocated for a penalty in the final minutes after Federico Viñas went down inside the area.\nThere was some tension near the end. Uruguay's Agustín Canobbio was sent off in stoppage time for a tackle on Spain defender Paul Cubarsi. His teammates had to escort him off the field, and after the final whistle he returned to try to talk to the referee.\nUruguay, the World Cup winner in 1930 and 1950, came into the final group match in turmoil after draws against Saudi Arabia and Cape Verde. Uruguayan media said there were reports of players not being happy with veteran Argentine coach Bielsa.\nSpain, seeking its second World Cup title, opened with a shocking 0-0 draw against Cape Verde but was coming off a 4-0 win over Saudi Arabia. La Roja haven't made it past the round of 16 since winning their lone title in 2010.\nSpain striker Lamine Yamal, who entered the tournament nursing a left hamstring injury, had a lackluster outing and again didn't play the entire match, being replaced by Ferran Torres in the 76th. The 18-year-old Yamal was replaced at halftime against Saudi Arabia and came off the bench in the second half against Cape Verde.\nUruguay midfielder Manuel Ugarte had to replaced because of an apparent knee injury near the end of the first half. He was on the ground seeking medical assistance when Spain opened the scoring, and was eventually taken off the field on a stretcher.\nKing Felipe VI of Spain was among the crowd of 45,065 at Estadio Akron.\nA moment of silence was observed before the match in memory of those who died when back-to-back earthquakes struck Venezuela late Wednesday.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

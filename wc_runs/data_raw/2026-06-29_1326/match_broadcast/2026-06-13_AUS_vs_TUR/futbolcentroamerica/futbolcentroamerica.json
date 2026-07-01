@@ -1,0 +1,24 @@
+{
+ "source": "Futbol Centroamérica",
+ "url": "https://futbolcentroamerica.com/mundial/australia-vs-turquia-minuto-a-minuto-del-partido-por-el-grupo-d-en-el-mundial-2026",
+ "title": "Australia doblega a Turquía en su debut en el Mundial 2026: resumen y goles",
+ "published": "2026-06-13T20:00:00-06:00",
+ "tier": "3",
+ "lang": "es",
+ "match": {
+  "date": "2026-06-13",
+  "home": "AUS",
+  "away": "TUR",
+  "home_en": "Australia",
+  "away_en": "Türkiye",
+  "home_zh": "澳大利亚",
+  "away_zh": "土耳其",
+  "comp": "小组赛·D组",
+  "match_id": "M6",
+  "slug": "2026-06-13_AUS_vs_TUR"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "El estadio BC Place de Vancouver fue el escenario del triunfo 2-0 de Australia sobre Turquía que cerraron la primera jornada del Mundial 2026 en grupo D que también comparten con Estados Unidos que abrió con una brillante victoria sobre Paraguay.\n\nLos asiáticos empezaron con más dudas que certezas con Turquía buscando generar espacios a través de combinaciones rápidas entre sus mediocampistas de buen pie como Arda Guler y Hakan Calhanoglu.\n\nAmbos futbolistas fueron incisivos en la generación de espacios, aunque sin mayor precisión. En ocasiones, Guler intentó remates de zurda desde fuera del área, pero no tuvo su mejor noche en cuanto precisión.\n\nLos australianos se fueron ganando al medio tiempo 1-0 con anotación de Nestory Irankunda que se escapó por la banda izquierda en un contragolpe para definir de forma letal frente al arquero Cakir al minuto 27.\n\nFue hasta el minuto 30 cuando Calhanoglu sacó un zurdazo que se estrelló en el vertical derecho de la portería defendida por Patrick Beach que colaboró al lanzarse cuan largo es y desviar levemente el balón.\n\nEn la segunda etapa Kenan Yildiz hizo su ingreso para jugar los segundos 45 minutos, el habilidoso extremo turco intentó generar daño a través de su explosividad, pero no logró encontrar solución en el frente de ataque.\n\nSi bien los europeos manejaron el balón durante gran tramo del partido; los australianos se plantaron con una defensa compacta que respondía a los embates de los dirigidos por Vincenzo Montella.\n\nFue a los 75 minutos de tiempo corrido cuando Connor Metcalfe doblegó la portería de Cakir a través de un zurdazo desde fuera del área.\n\nPatrick Beach fue la figura de Australia con una gran actuación en el arco, respondiendo en los momentos claves del partido y manteniendo el cero en su portería.\n\nCon este triunfo, Australia se ubica en la segunda posición de la tabla en el grupo D que lidera Estados Unidos tras la goleada 4-1 sobre Paraguay. El siguiente encuentro para los asiáticos será el próximo viernes 19 de junio ante Estados Unidos y Turquía se enfrentará a Paraguay es mismo día.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

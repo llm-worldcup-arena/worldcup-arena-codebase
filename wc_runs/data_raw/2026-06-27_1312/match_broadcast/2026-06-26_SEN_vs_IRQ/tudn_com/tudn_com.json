@@ -1,0 +1,24 @@
+{
+ "source": "tudn.com",
+ "url": "https://www.tudn.com/mundial-2026/senegal-vs-irak",
+ "title": "Partido Senegal vs. Irak",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-26",
+  "home": "SEN",
+  "away": "IRQ",
+  "home_en": "Senegal",
+  "away_en": "Iraq",
+  "home_zh": "塞内加尔",
+  "away_zh": "伊拉克",
+  "comp": "小组赛·I组",
+  "match_id": "M62",
+  "slug": "2026-06-26_SEN_vs_IRQ"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "La selección africana cumplió con su objetivo de golear y colocarse entre los mejores terceros lugares de momento por lo que aún tienen posibilidades de clasificar a Dieciseisavos de Final.\n\nPrevio al enfrentamiento en estadio Boston, los jugadores mostraron su solidaridad.\n\nEl delantero de la Selección de Francia protagonizó un curioso momento durante la suspensión del partido ante Irak en el Mundial 2026.\n\nEl choque entre Francia e Irak se suspendió después de los primetos 45 minutos.\n\nEl técnico de Francia le movió al once, respecto a lo que presentó ante Senegal.\n\nFrancia busca una victoria para clasificar a 16avos e Irak para no quedar eliminado.\n\nAntes de partido contra Irak, el defensor del Arsenal admitió que es muy diferente jugar en su selección que con su club por toda la gente que lo mira.\n\nConsulta el horario y canales para ver este juego de la Jornada 2 de Fase de Grupos en el Mundial 2026.\n\nEl cambio en el protocolo de la FIFA previo a los partidos de Arabia Saudita en el Mundial ha llamado la atención.\n\n¿Quién gana entre Les Bleus y los Leones de Mesopotamia? Esto dicen los datos.\n\nLa problemática estalló de cara al duelo crucial contra Noruega del próximo lunes.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

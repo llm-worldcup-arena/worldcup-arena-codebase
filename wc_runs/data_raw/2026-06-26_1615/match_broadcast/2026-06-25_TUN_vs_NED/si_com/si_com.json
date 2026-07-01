@@ -1,0 +1,24 @@
+{
+ "source": "si.com",
+ "url": "https://www.si.com/soccer/tunisia-vs-netherlands-world-cup-live-score-match-stats",
+ "title": "Tunisia vs. Netherlands—World Cup: Live Score and Match Stats",
+ "published": "2026-06-25T22:00:01Z",
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-25",
+  "home": "TUN",
+  "away": "NED",
+  "home_en": "Tunisia",
+  "away_en": "Netherlands",
+  "home_zh": "突尼斯",
+  "away_zh": "荷兰",
+  "comp": "小组赛·F组",
+  "match_id": "M58",
+  "slug": "2026-06-25_TUN_vs_NED"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Tunisia has thus far been the 2026 World Cup ’s whipping boy.\n\nFirst, the Eagles of Carthage were hammered 5-1 by Sweden—a result that saw it sack its manager and appoint Hervé Renard—before then being beaten 4-0 by Japan and eliminated from the tournament with little resistance.\n\nThings are not set to get any easier. The Netherlands presents the toughest challenge yet, having drawn 2-2 with Japan before thumping Sweden 5-1 in its most recent outing. Its attacking talent—including Brian Brobbey, Cody Gakpo, and Crysencio Summerville—has been one of the standout features of the tournament, even if it has looked occasionally vulnerable defensively.\n\nHead-to-head, Tunisia has never beaten the Netherlands, although two of their three meetings have ended in draws. However, Tunisia’s performances so far—one goal scored, nine conceded, three shots on target, and a measly 0.17 expected goals (xG) across two matches—suggest little optimism heading into its final group game.\n\nToby Cudworth is Lead Editor for SI FC. A Premier League, EFL and UEFA accredited journalist, Cudworth is a graduate of the University of Gloucestershire, where he studied Broadcast Journalism. He previously worked for 90min as a writer, academy manager, editor and eventually content lead, before joining Sports Illustrated in May 2025. A lifelong supporter of West Ham United, he still can’t quite believe they won a European trophy and feels nature is healing now that results have slipped back into the yo-yo patterns of the last 30 years.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

@@ -1,0 +1,16 @@
+{
+ "team": "BRA",
+ "source": "sportsmole.co.uk",
+ "url": "https://www.sportsmole.co.uk/football/scotland/injury-news/team-news/scotland-vs-brazil-injury-suspension-list-predicted-xis_599773.html",
+ "title": "Team News: Scotland vs. Brazil injury, suspension list, predicted XIs | World Cup 2026 - Sports Mole",
+ "news_date": "2026-06-23",
+ "published": "2026-06-23T22:00:00Z",
+ "tier": "2",
+ "lang": "es",
+ "asof": "2026-06-27",
+ "fetched": "2026-06-27_1312",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "Scotland lock horns with Brazil in their third and final Group C fixture at the 2026 World Cup in Miami on Wednesday.\n\nBoth nations are seeking to secure their place in the knockout rounds, and here, Sports Mole rounds up all the latest team news for the two clubs.\n\nGet FREE daily news and in-depth previews for games from the biggest leagues and competitions in world football — straight to your inbox.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

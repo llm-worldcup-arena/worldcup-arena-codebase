@@ -1,0 +1,24 @@
+{
+ "source": "bestblogs.dev",
+ "url": "https://www.bestblogs.dev/worldcup/matches/wc2026-030-ecu-ger",
+ "title": "World Cup Special - BestBlogs",
+ "published": null,
+ "tier": "3",
+ "lang": "zh",
+ "match": {
+  "date": "2026-06-25",
+  "home": "ECU",
+  "away": "GER",
+  "home_en": "Ecuador",
+  "away_en": "Germany",
+  "home_zh": "厄瓜多尔",
+  "away_zh": "德国",
+  "comp": "小组赛·E组",
+  "match_id": "M56",
+  "slug": "2026-06-25_ECU_vs_GER"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Ecuador take on Germany in Group E at the 2026 World Cup. Previews, Prophet's call and odds snapshots keep updating until kick-off.\n\n普神：押了德国赢，当 VAR 吹掉那个点球的瞬间，这注就输了——德国那天心思不在这里。\n\nHad Germany at 61.7%, reasonable on paper. But this was a rotated Germany squad — already through as Group E leaders with 6 pts — playing without full intent. The Havertz VAR non-penalty reversal broke German momentum at the worst time. Plata's 78-minute winner sealed it. The 'upset' was partly illusory: a fully-motivated Germany likely wins. Concede the loss, but note the market mispriced rotation risk.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

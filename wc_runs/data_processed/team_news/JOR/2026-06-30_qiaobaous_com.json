@@ -1,0 +1,16 @@
+{
+ "team": "JOR",
+ "source": "qiaobaous.com",
+ "url": "https://www.qiaobaous.com/article/213138.html",
+ "title": "世界杯丨J组 阿根廷队战胜约旦队—侨报网",
+ "news_date": "2026-06-30",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-06-30",
+ "fetched": "2026-06-30_1258",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "【侨报讯】6月27日，在美国达拉斯进行的2026美加墨世界杯足球赛J组小组赛中，阿根廷队3比1战胜约旦队。\n\n上半场，第19分钟，洛塞尔索主罚任意球直接破门；第31分钟，阿根廷获得点球，劳塔罗一蹴而就收获个人本届世界杯首球。下半场，易边再战。第55分钟，塔马里破门，这也是阿根廷在本届世界杯的首粒丢球；第80分钟，替补登场的梅西任意球破门。全场战罢，阿根廷3-1击败约旦，小组赛三战全胜，他们淘汰赛首轮的对手将是新军佛得角。\n\nCopyright © 1990 - 2026 侨报网, 版权所有 保留所有权利. Pacific Culture Enterprise, Inc. All rights reserved.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

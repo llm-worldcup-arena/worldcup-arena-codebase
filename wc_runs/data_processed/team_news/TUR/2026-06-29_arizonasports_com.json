@@ -1,0 +1,16 @@
+{
+ "team": "TUR",
+ "source": "arizonasports.com",
+ "url": "https://arizonasports.com/world-cup/us-send-out-new-lineup-vs-turkey-with-round-of-32-matchup-set-in-world-cup",
+ "title": "US sends out new lineup vs. Turkey with Round of 32 matchup set in World Cup - Arizona Sports",
+ "news_date": "2026-06-29",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-29",
+ "fetched": "2026-06-29_0714",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "US sends out new lineup vs. Turkey with Round of 32 matchup set in World Cup\nINGLEWOOD, Calif. (AP) — The United States kept Christian Pulisic on the bench and sent out nine new starters for its final World Cup group match against Turkey on Thursday night with its knockout-round place already secured.\nThe American team has already won its group and clinched a matchup with Bosnia-Herzegovina in the Round of 32 next week, so coach Mauricio Pochettino used this meaningless final match to give playing time to the second string on his 26-man squad.\nThe Americans kept Pulisic on the bench to begin the match along with the four key U.S. players who have already picked up yellow cards: striker Folarin Balogun, Tyler Adams and top defenders Antonee Robinson and Chris Richards.\nPulisic said this week that he is ready to play again after coming out at halftime with a calf injury in the Americans’ 4-1 victory over Paraguay to open their home World Cup nearly two weeks ago. Pochettino said Wednesday he hadn’t decided how to use Pulisic against Turkey, but suggested he might play part of the game.\nWeston McKennie and Ricardo Pepi were the only starters in the lineup against Turkey who also started the Americans’ 2-0 victory over Australia in Seattle last week. McKennie, the U.S. captain against Turkey, was the only player to start all three group matches, while Pepi remained in the lineup after replacing Pulisic against the Socceroos.\nPochettino also swapped out starting goalkeeper Matt Freese for Matt Turner, who was the Americans’ starter for all four matches at the Qatar World Cup four years ago.\nThe new starters were Turner, Auston Trusty, Gio Reyna, Brenden Aaronson, Miles Robinson, Sebastian Berhalter, Tim Weah, Mark McKenzie and Joe Scally.\nTurner, Aaronson, McKenzie and Miles Robinson all got their first playing time at this World Cup.\nThe U.S. faces Bosnia on Wednesday, July 1, in Santa Clara, California.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

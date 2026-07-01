@@ -1,0 +1,16 @@
+{
+ "team": "KOR",
+ "source": "espn.com",
+ "url": "https://www.espn.com/soccer/story/_/id/49170133/south-korea-drop-captain-son-heung-min-world-cup-decider",
+ "title": "South Korea drop captain Son Heung-Min for World Cup decider - ESPN",
+ "news_date": "2026-06-29",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-29",
+ "fetched": "2026-06-29_0714",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "South Korea drop captain Son Heung-Min for World Cup decider\nplay\nWhy Mexico's win over South Korea is a 'big deal' (0:38)\nGabriel Tan\nJun 24, 2026, 08:36 PM ET\nMONTERREY, Mexico -- South Korea coach Hong Myung-Bo has made a shocking selection call by leaving captain Son Heung-Min out of their decisive Group A clash against South Africa at the 2026 FIFA World Cup on Wednesday.\nSon is the biggest of three changes to the starting XI that lost 1-0 to Mexico last Thursday, and will be replaced as the Taegeuk Warriors' spearhead by Oh Hyeon-Gyu, who scored the winning goal in their campaign-opening victory over Czechia.\nThe LAFC star, who has at times singlehandedly carried South Korea's hopes for the past decade, has had an underwhelming World Cup so far. He was replaced against the Czechs in the 69th minute by Oh, who went on to decide the contest 11 minutes after coming on, and was taken off even earlier against Mexico, in the 57th minute.\nIn both matches, Son had the fewest touches of South Korea's starting outfielders with 37 against Czechia and just 19 against the Mexicans.\nSon's impact has been limited thus far under a 5-2-3 system that Hong has opted for and has not allowed for his skipper to play to the best of his abilities, with his involvement hugely restricted in a No. 9 role.\nThe 33-year-old forward did not score in Qatar four years ago, Son's last World Cup goal actually came in 2018.\nThe other two changes made by South Korea are wingback Lee Tae-Seok and winger Hwang Hee-Chan coming in for Kim Moon-Hwan and Lee Jae-Sung, respectively.\nWorld Cup Daily: Canada beat South Africa; Haaland in NYC; Iran despair\nESPN\nJun 28, 2026, 06:52 PM ET\nThe knockout stage has officially begun! After 72 matches featuring 48 teams across 12 groups, we are now down to the final 32 teams. It's win or go home for the remaining countries at the 2026 FIFA World Cup.\nSunday's round of 32 game didn't disappoint in the end either, as co-hosts Canada scored a late winner to defeat South Africa in Inglewood, California and advance to the round of 16 for the first time in men's World Cup history.\nEnjoy all the features, news, video analysis and color from around the competition.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

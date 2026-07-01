@@ -1,0 +1,16 @@
+{
+ "team": "BRA",
+ "source": "reuters.com",
+ "url": "https://www.reuters.com/sports/soccer/neymar-included-brazils-world-cup-squad-after-injury-struggles-2026-05-18/",
+ "title": "Neymar included in Brazil's World Cup squad after injury struggles | Reuters",
+ "news_date": "2026-06-26",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-06-26",
+ "fetched": "2026-06-26_1615",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Neymar included in Brazil's World Cup squad after injury struggles\nVerification Required\nThe visual verification might not be accessible to you. We recommend you to use the audio verification instead. Important: after clicking play, you will hear 6 digits. Please wait until the audio finishes before typing or interacting with the page.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}
