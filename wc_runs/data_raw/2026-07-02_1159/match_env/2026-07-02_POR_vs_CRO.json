@@ -22,7 +22,7 @@
   "开球时段": {
    "温度C": 34.5,
    "体感C": 35.8,
-   "降水概率%": 7,
+   "降水概率%": 4,
    "降水mm": 0.0,
    "风速kmh": 17.9,
    "湿度%": 43,
@@ -33,8 +33,9 @@
   "_note": "临近开球建议 --refresh 刷新"
  },
  "referee": {
-  "name": null,
-  "_note": "待 WebSearch FIFA指派公告"
+  "name": "Espen Eskas(挪威)",
+  "source": "Law5TheRef/ESPN R32 名单",
+  "fetched": "2026-07-02_1159"
  },
  "_note": "环境=比赛+时间+地点 确定;天气为开球时段;顶棚 retractable/fixed-canopy 时天气影响有限。"
 }
