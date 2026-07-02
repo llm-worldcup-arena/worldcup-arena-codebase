@@ -1,0 +1,16 @@
+{
+ "team": "ECU",
+ "source": "k.sina.com.cn",
+ "url": "https://k.sina.com.cn/article_1568073074_5d76e572040013sz0.html?from=sports&subch=osport",
+ "title": "厄瓜多尔世界杯出局，球员将获休整期",
+ "news_date": "2026-07-01",
+ "published": "2026-07-01 12:11:10",
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-07-02",
+ "fetched": "2026-07-02_1159",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "难绷是挺难绷的，不过厄瓜多尔被淘汰后，银卡也可以休息了（是不是下个国际比赛日都不用去了？），好好休息准备下赛季，回来后可不许给我们也整这出啊，当然如果真这样，估计要被塔哥打死（毕竟我们真是吃过很多亏）",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

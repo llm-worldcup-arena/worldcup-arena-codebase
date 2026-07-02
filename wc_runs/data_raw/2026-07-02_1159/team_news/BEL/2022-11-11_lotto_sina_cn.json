@@ -1,0 +1,16 @@
+{
+ "team": "BEL",
+ "source": "lotto.sina.cn",
+ "url": "https://lotto.sina.cn/2022-11-11/detail-imqqsmrp5731450.d.html?vt=4",
+ "title": "比利时世界杯26人名单：德布劳内领衔 卢卡库带伤入选",
+ "news_date": "2022-11-11",
+ "published": "2022-11-11 09:32:12",
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-07-02",
+ "fetched": "2026-07-02_1159",
+ "method": "jsonld",
+ "status": "blocked",
+ "original_text": "",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

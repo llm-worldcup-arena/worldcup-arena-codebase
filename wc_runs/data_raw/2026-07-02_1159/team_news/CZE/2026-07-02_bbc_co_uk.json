@@ -1,0 +1,16 @@
+{
+ "team": "CZE",
+ "source": "bbc.co.uk",
+ "url": "https://www.bbc.co.uk/sport/football/articles/c8724pp9wxno",
+ "title": "West Ham midfielder Tomas Soucek suffers injury during World Cup loss",
+ "news_date": "2026-07-02",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-07-02",
+ "fetched": "2026-07-02_1159",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "West Ham United midfielder Tomas Soucek was forced off the pitch during Czech Republic's 3-0 loss to Mexico on Thursday after he suffered an injury.\n\nThe 31-year-old appeared to roll his ankle while attempting to close down Mexico goalkeeper Guillermo Ochoa. He was helped off the pitch by team-mates before being stretchered away in the 87th minute.\n\nThe details of his injury are not yet known.\n\nWolves defender Ladislav Krejci also featured for the Czech Republic during the match, captaining the side for all 90 minutes.\n\nTheir defeat means they exit the World Cup after claiming just one point from three games in Group A.\n\nAsk about West Ham - what do you want to know?",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

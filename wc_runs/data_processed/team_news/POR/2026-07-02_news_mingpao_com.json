@@ -1,0 +1,16 @@
+{
+ "team": "POR",
+ "source": "news.mingpao.com",
+ "url": "https://news.mingpao.com/ins/%E9%AB%94%E8%82%B2/article/20260617/s00006/1781692448728/%E4%B8%96%E7%95%8C%E7%9B%83-%E8%91%A1%E8%90%84%E7%89%99%E6%87%B7%E6%85%9F%E5%95%9F%E8%88%AA-c%E6%9C%97%E9%A0%98%E6%98%9F%E7%B4%9A%E9%99%A3%E5%AE%B9%E8%AA%93%E9%80%90%E9%9A%8A%E5%8F%B2%E9%A6%96%E5%86%A0",
+ "title": null,
+ "news_date": "2026-07-02",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-07-02",
+ "fetched": "2026-07-02_1159",
+ "method": "fail",
+ "status": "blocked",
+ "original_text": "",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

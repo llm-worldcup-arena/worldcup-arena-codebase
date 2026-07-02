@@ -1,0 +1,24 @@
+{
+ "source": "bolavip.com",
+ "url": "https://bolavip.com/en/world-cup/are-ivory-coast-out-of-2026-world-cup-after-loss-to-norway",
+ "title": "Are Ivory Coast out of 2026 World Cup after loss to Norway?",
+ "published": "2026-06-30T14:58:00-04:00",
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-06-30",
+  "home": "CIV",
+  "away": "NOR",
+  "home_en": "Ivory Coast",
+  "away_en": "Norway",
+  "home_zh": "科特迪瓦",
+  "away_zh": "挪威",
+  "comp": "r32",
+  "match_id": "M78",
+  "slug": "2026-06-30_CIV_vs_NOR"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "In front of a packed crowd at Dallas Stadium, Norway emerged victorious against Ivory Coast, securing an important win to keep their 2026 FIFA World Cup campaign alive. As a result, the Elephants‘ journey in the tournament came to an end with their elimination.\n\nAntonio Nusa opened the scoring in the first half with a superb finish from the left side. Amad Diallo, who did not start the match, came off the bench and scored a stunning goal in the second half to level the score.\n\nFinally, Erling Haaland struck late to give Norway a 2-1 victory. With the goal, he also surpassed Cristiano Ronaldo in goals scored in FIFA World Cup knockout-stage matches.\n\nWhat’s next for Norway?\n\nWith the victory, Norway became the first European team to reach the Round of 16 of the 2026 FIFA World Cup. Next, the Vikings will face Brazil, which advanced after eliminating Japan.\n\nErling Haaland #9 of Norway celebrates scoring his team’s second goal.\n\nBoth teams will meet in this crucial match at New York New Jersey Stadium (commonly known as MetLife Stadium) on Sunday, July 5, with kickoff scheduled for 4:00 PM ET.\n\nIvory Coast’s World Cup dream comes to an end\n\nIvory Coast’s defeat to Norway brought its 2026 FIFA World Cup campaign to an end. Despite reaching the knockout stage for the first time in the nation’s history, the Elephants‘ hopes of continuing their memorable run were dashed in Dallas.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

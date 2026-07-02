@@ -1,0 +1,24 @@
+{
+ "source": "beinsports.com",
+ "url": "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/united-states-knocks-out-bosnia-and-books-round-of-16-clash-with-belgium-2026-07-02?tags%2525255B0%2525255D=wta-tour",
+ "title": "United States beats Bosnia to reach the 2026 World Cup Round of 16; Belgium awaits",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-07-01",
+  "home": "USA",
+  "away": "BIH",
+  "home_en": "United States",
+  "away_en": "Bosnia and Herzegovina",
+  "home_zh": "美国",
+  "away_zh": "波黑",
+  "comp": "r32",
+  "match_id": "M81",
+  "slug": "2026-07-01_USA_vs_BIH"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "The United States continued its strong FIFA World Cup 2026 campaign with a 2-0 victory over Bosnia and Herzegovina at San Francisco Stadium , securing a place in the Round of 16, where Belgium awaits.\n\nMauricio Pochettino's side relied on goals from Folarin Balogun and Malik Tillman to earn a victory that featured attacking quality, late drama and a costly red card.\n\nThe United States controlled much of the first half and thought it had taken the lead midway through the opening period when Balogun finished with a powerful left-footed strike. The goal, however, was ruled out for offside.\n\nThe Monaco striker would not be denied for long.\n\nAfter Tyler Adams played a vertical pass that bounced around the penalty area, Balogun reacted quickest to score the opening goal and register his third strike of the tournament.\n\nHe nearly doubled his tally before halftime, only to see his effort crash against the crossbar.\n\nThe game shifted dramatically in the 64th minute.\n\nBalogun accidentally stepped on Tarik Muharemovic's ankle during a challenge, and after a VAR review, the referee upgraded the decision to a straight red card.\n\nPlaying with ten men, the United States was forced to defend deeper as Bosnia pushed forward in search of an equalizer.\n\nJust as Bosnia appeared to be gaining momentum, Malik Tillman put the match beyond doubt.\n\nThe midfielder curled a superb free kick into the net in the 79th minute to make it 2-0 and send the home nation into the Round of 16.\n\nWith the victory, the United States advances to the knockout stage and will travel to Seattle to face Belgium on July 6.\n\nBosnia, meanwhile, bows out after achieving the best World Cup campaign in its history by reaching the knockout stage for the first time, in what could also prove to be Edin Džeko's final appearance for the national team.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

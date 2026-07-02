@@ -1,0 +1,24 @@
+{
+ "source": "en.as.com",
+ "url": "https://en.as.com/soccer/world-cup/england-vs-dr-congo-live-online-score-stats-goals-updates-world-cup-2026-f202607-d/",
+ "title": "England vs DR Congo summary: stats, score, goals, highlights | World Cup 2026",
+ "published": "2026-07-01T11:56:02-04:00",
+ "tier": "2",
+ "lang": "es",
+ "match": {
+  "date": "2026-07-01",
+  "home": "ENG",
+  "away": "COD",
+  "home_en": "England",
+  "away_en": "DR Congo",
+  "home_zh": "英格兰",
+  "away_zh": "刚果（金）",
+  "comp": "r32",
+  "match_id": "M80",
+  "slug": "2026-07-01_ENG_vs_COD"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Good question. The truth is that we're yet to see whether or not this England side can kick it with the big boys of football, as this iteration of the Three Lions hasn't really had the chance to do so.At present, I couldn't name you a fixed starting XI, nor could I tell you exactly how they're going to play in each game. That's not, believe it or not, down to my knowledge of lack thereof, instead it says more about Tuchel's potential uncertainty regarding what he wants and can get.The manager said he expects England to play “better against better sides”, so I guess we'll have to see if they can get past this stubborn DR Congo team, who are certainly no pushovers.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

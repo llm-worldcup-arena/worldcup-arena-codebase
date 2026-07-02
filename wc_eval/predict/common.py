@@ -308,6 +308,10 @@ _HANDICAP = {
     ("ENG", "COD"): -1.5,    # 英格兰 -1.5(ENG -370 ML / -800 晋级 巨热 vs COD +1300;DraftKings/CBS/亚特兰大,类比 FRA-SWE -1.5)
     ("USA", "BIH"): -0.5,    # 美国 -0.5(USA -185 ML 主热;ESPN/OddsShark 另挂 USA -1.5,AH 主线取半球;旧金山)
     ("BEL", "SEN"): -0.5,    # 比利时 -0.5(ESPN 明示 Belgium -0.5 / Senegal +0.5;BEL +115 ML 小热;Covers)
+    # —— 7/2 32 强 M83-M85(多源核对 2026-07-02;正值=主队受让) ——
+    ("POR", "CRO"): -0.5,    # 葡萄牙 -0.5(ESPN/lineups 明示 POR -0.5 -130 / CRO +0.5;bet365 ML POR -290 大热但首次交手有球)
+    ("ESP", "AUT"): -1.5,    # 西班牙 -1.5(SportsGambler/FanDuel AH ESP -1.5 -105;ML ESP -300 巨热75%;近9场6中-1.5,预测2-0)
+    ("SUI", "ALG"): -0.5,    # 瑞士 -0.5(SUI -103 ML 微弱主队近平手;Covers/oddschecker 72%公众投注瑞士;取最小主队半球)
 }
 
 

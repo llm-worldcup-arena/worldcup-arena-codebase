@@ -1,0 +1,24 @@
+{
+ "source": "theguardian.com",
+ "url": "https://www.theguardian.com/football/2026/jul/01/england-2-1-dr-congo-world-cup-last-32-player-ratings",
+ "title": "England 2-1 DR Congo: World Cup last 32 player ratings",
+ "published": "2026-07-01T18:24:07.000Z",
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-07-01",
+  "home": "ENG",
+  "away": "COD",
+  "home_en": "England",
+  "away_en": "DR Congo",
+  "home_zh": "英格兰",
+  "away_zh": "刚果（金）",
+  "comp": "r32",
+  "match_id": "M80",
+  "slug": "2026-07-01_ENG_vs_COD"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Jordan Pickford Got a hand to Cipenga’s strike but could have done better. Will be relieved that England rescued themselves. 5\n\nDjed Spence Must take some blame for the goal and general confusion in defence. Offered occasional threat in attack. 4\n\nEzri Konsa Had a nightmare afternoon. Caught out for the opening goal, always looked panicked in possession. 4\n\nMarc Guéhi The only England defender who seems comfortable on the ball. Time for a new partner? 7\n\nNico O’Reilly Made far too many basic mistakes, not a defender. His future must be further up the pitch. 5\n\nElliot Anderson Often found himself outnumbered in midfield but found his rhythm and came close to scoring. 7\n\nDeclan Rice Struggled to impose himself on proceedings until moving to right-back. Poor delivery from set pieces. 5\n\nNoni Madueke Lacked end product when it matters despite promising moments. Was a spectator for opening goal. 5\n\nJude Bellingham Will still be wondering how he didn’t score after having three efforts saved. But played his part in comeback. 8\n\nMarcus Rashford Summed up England’s awful start by miscontrolling ball out of play. Last contribution was a terrible cross. 3\n\nHarry Kane England’s saviour yet again. Where would Thomas Tuchel be without his captain? Probably out of a job. 9\n\nSubs: Bukayo Saka (for Madueke 60) A slow start but looked dangerous with a couple of runs. Has to start against Mexico. 7 ; Anthony Gordon (for Rashford 60) Two assists off the bench showed why he is joining Barcelona next season. 9 ; Eberechi Eze (for Spence 70) Exerted his influence as England chased the game. 7 ; John Stones (for Rice 90) Late sub as England saw out win. 6\n\nLionel Mpasi Three brilliant saves in first half and another from Bellingham. But will be disappointed not to have stopped Kane’s first. 8\n\nAaron Wan-Bissaka The Croydon-born right-back produced a brilliant goalline clearance and was dangerous in attack. 8\n\nAxel Tuanzebe Rashford’s old school friend was a towering presence in the heart of the DRC’s defence and made some key blocks. 7\n\nChancel Mbemba Brilliant pass to set up Cipenga’s goal and kept Kane quiet for most of the game. But not long enough. 6\n\nArthur Masuaku The former West Ham defender kept Madueke relatively quiet but struggled against Saka when he came on. 6\n\nNathan aël Mbuku A lively presence down the right flank. He almost scored just before being taken off. 7\n\nNgal’ayel Mukau More than played his part in the DRC’s physical approach. The Lille midfielder looks to have a bright future. 8\n\nSamuel Moutoussamy The powerhouse with a distinctive haircut was a formidable obstacle, although tired in the second half. 7\n\nNoah Sadiki The Sunderland midfielder was everywhere. No wonder all the big clubs in the Premier League have been looking at him. 8\n\nBrian Cipenga What a performance. Took his goal brilliantly and just about landed the back-flip celebration. 8\n\nYoane Wissa Had a golden chance to make it 2-0 in the first half but couldn’t take it. Proved to be a pivotal moment. 6\n\nSubs: Meschack Elia (for Mbuku 64) Showed raw pace in first duel with O’Reilly. 6 ; Théo Bongonda (for Cipenga 75) Little impact after replacing goalscorer. 5 ; Edo Kayembe (for Mukua 75) Tried to inject some energy into tired legs. 5 ; Joris Kayembe (for Moutoussamy 89) Came on as the DRC chased the game. 5 ; Fiston Mayel e (for Masuaku 89) A late attacking substitute.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

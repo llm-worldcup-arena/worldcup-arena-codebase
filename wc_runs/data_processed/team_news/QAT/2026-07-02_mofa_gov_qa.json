@@ -1,0 +1,16 @@
+{
+ "team": "QAT",
+ "source": "mofa.gov.qa",
+ "url": "https://mofa.gov.qa/en/state-of-qatar/Key-Facts-and-Information/general-information",
+ "title": "General Information",
+ "news_date": "2026-07-02",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-07-02",
+ "fetched": "2026-07-02_1159",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "The State of Qatar is an independent and sovereign state in the Middle East. It joined the United Nations in 1971. It has witnessed a broad economic, social and cultural renaissance that included education, health, sports, culture, media and infrastructure, and achieved a huge leap in economy and energy since 1995. It is an Islamic state whose laws and customs comply with Islamic law. His Highness Sheikh Tamim bin Hamad bin Khalifa Al-Thani has assumed power in the state since 2013.\n\nThe State of Qatar is a peninsula located on the western coast of the Arabian Gulf, approximately 100 km wide and 200 km long. It includes several islands, with Halul, Shirawa, and Al-Ashat being the largest. Qatar shares its southern border with the Kingdom of Saudi Arabia and is neighbored by Bahrain, the United Arab Emirates, and Iran across the sea.\n\nQatar has a population of 3,119,589 million.\n\nIslam is the official religion of the State of Qatar, which also accommodates religious minorities.\n\nDoha, the capital, is the government seat and the hub for major commercial and financial institutions. It is home to over half of Qatar's population and is a significant cultural centre, boasting numerous museums and education centres.\n\nThe major cities include Doha, Al Wakra, Al Khor, Dukhan, Al Shamal, Mesaieed, and Ras Laffan.\n\nQatar is governed as a constitutional hereditary monarchy.\n\nArabic is the official language; English is also widely spoken.\n\nQatar operates on GMT +3 hours, with no daylight saving time adjustments.\n\nThe desert climate of Qatar features hot summers and mild winters. Average monthly temperatures range from 17°C in January to 36°C in July, occasionally surpassing 40°C during the summer. Rainfall is sparse and occurs mainly in brief showers during the winter.\n\nThe Qatari Riyal (QR or QAR) is Qatar's currency, with a fixed exchange rate of US $1 = QR3.64. ATMs are widely available, and most commercial venues accept major credit cards.\n\nTravelers must adhere to customs regulations concerning luggage and personal gifts in non-commercial quantities. The exemption applies to gifts valued at up to 3000 riyals and 400 cigarettes or 20 cigars. Exceeding these limits incurs customs fees.\n\nQatar boasts one of the lowest crime rates worldwide, offering a safe environment with religious and political stability. While usual precautions are advised, visitors can feel secure exploring any part of the city.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

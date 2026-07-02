@@ -1,0 +1,16 @@
+{
+ "team": "FRA",
+ "source": "tv.cctv.com",
+ "url": "https://tv.cctv.com/2022/11/12/VIDEnZ1YKYEX4yXK9do0fVtG221112.shtml",
+ "title": "[世界杯新闻]马内带伤入选塞内加尔世界杯阵容",
+ "news_date": "2026-07-02",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-07-02",
+ "fetched": "2026-07-02_1159",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "北京时间11月11日，塞内加尔公布了卡塔尔世界杯26人名单，马内带伤入选，门迪、盖耶在列。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

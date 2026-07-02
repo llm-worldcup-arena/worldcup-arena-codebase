@@ -1,0 +1,16 @@
+{
+ "team": "ENG",
+ "source": "sports.now.com",
+ "url": "https://sports.now.com/home/news/details?id=39585598593",
+ "title": "恐提早收咧 利華文圖征世盃成疑 - Now Sports",
+ "news_date": "2026-07-02",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-07-02",
+ "fetched": "2026-07-02_1159",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "繼續訪問/使用本網站，即表示閣下同意其使用cookies。要了解更多有關閣下如何管理cookies設置以及我們網站如何使用cookies的資料，請閱讀我們的 《Cookies政策》 。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

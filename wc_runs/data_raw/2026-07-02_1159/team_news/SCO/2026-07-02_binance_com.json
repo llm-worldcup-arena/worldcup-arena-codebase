@@ -1,0 +1,16 @@
+{
+ "team": "SCO",
+ "source": "binance.com",
+ "url": "https://www.binance.com/bg/square/post/06-25-2026-world-cup-scotland-captain-robertson-s-injury-status-is-pending-337747486397233",
+ "title": "World Cup | Scotland captain Robertson’s injury status still uncertain | Binance News on Binance Square",
+ "news_date": "2026-07-02",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-07-02",
+ "fetched": "2026-07-02_1159",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "World Cup | Scotland captain Robertson’s injury status still uncertain\nAfter Scotland lost 0-3 to Brazil in the final group-stage match of the 2026 World Cup in Miami, skipper Andy Robertson’s injury has raised concerns. The team also has to wait for the group stage to finish in order to determine whether they can advance to the knockout round. According to a report from Yahoo Sports, Robertson was injured in the match against Brazil. He played the full first half, after which he was replaced in midfield by manager Steve Clarke, with Kieran Tierney coming on. After the match, he was seen on the bench using an ice pack to ice his right ankle. Scotland’s group-stage record stands at 3 points, with their goal difference dropping to -3. They are currently sixth among the third-placed teams across all groups. The top eight third-place finishers will advance to the Round of 32. Robertson said he needs “a day or two” to assess his injury: “Time will tell us what’s happened.”",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

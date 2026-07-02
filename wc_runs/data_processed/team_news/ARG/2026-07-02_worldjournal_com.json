@@ -1,0 +1,16 @@
+{
+ "team": "ARG",
+ "source": "worldjournal.com",
+ "url": "https://www.worldjournal.com/wj/story/121227/9523896?from=wj_msg&zh-cn",
+ "title": "世界杯剩3周 梅西「伤退」阿根廷卫冕路蒙阴影 | 世界新闻网",
+ "news_date": "2026-07-02",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-07-02",
+ "fetched": "2026-07-02_1159",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "阿根廷 球王 梅西 (Lionel Messi)在2026美加墨 世界杯 足球赛开踢前惊传伤情。他在迈阿密国际(Inter Miami CF)的比赛中，疑似腿后肌受伤退场，引发外界关注。\n\nESPN报导，梅西24日的比赛上半场表现活跃，协助球队两度进球。不过，比赛第73分钟，他在主罚自由球后突然摸向腿部，疑似出现不适。随后，梅西被换下，并未接受队医搀扶，而是自行直接走入球员信道。\n\n现年39岁的梅西已参加过五届世界杯，尽管他已经入选阿根廷队大名单，但他此前曾表示，只有在身体完全健康的情况下，才会参加本届世界杯。\n\n卫冕冠军阿根廷将于6月16日迎战阿尔及利亚，展开世界杯卫冕之旅，距离开赛仅剩三周多时间。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

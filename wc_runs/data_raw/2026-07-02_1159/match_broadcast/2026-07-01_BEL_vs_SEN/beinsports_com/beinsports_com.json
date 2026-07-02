@@ -1,0 +1,24 @@
+{
+ "source": "beinsports.com",
+ "url": "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/belgium-complete-dramatic-comeback-over-senegal-to-reach-the-fifa-world-cup-2026-round-of-16-2026-07-01",
+ "title": "Belgium Complete Dramatic Comeback Over Senegal to Reach the FIFA World Cup 2026 Round of 16",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-07-01",
+  "home": "BEL",
+  "away": "SEN",
+  "home_en": "Belgium",
+  "away_en": "Senegal",
+  "home_zh": "比利时",
+  "away_zh": "塞内加尔",
+  "comp": "r32",
+  "match_id": "M82",
+  "slug": "2026-07-01_BEL_vs_SEN"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Belgium completed a dramatic comeback on Wednesday in Seattle , capitalizing on costly mistakes by Senegal to book their place in the FIFA World Cup 2026 Round of 16 with a 3-2 extra-time victory over the Teranga Lions.\n\nThe unlikely “villain” for the Africans was Youri Tielemans, who not only scored the winning penalty in the 120+5th minute but also forced extra time with his 89th-minute equalizer for the Red Devils—who for much of the match looked beaten and on the brink of elimination.\n\nBelgium will now face the winner of the United States vs. Bosnia and Herzegovina on Monday, July 6, in Seattle, the Emerald City’s farewell match at the tournament.\n\nWhen everything pointed to a painful exit, Belgium produced one of the most dramatic comebacks of the 2026 World Cup.\n\nRudi Garcia’s side spent long stretches under pressure against a dominant Senegal team that controlled the game and built a two-goal lead.\n\nBut in the closing minutes, the Red Devils showed their character, leveling the score and dragging the match into extra time.\n\nIn the added period, a VAR-reviewed penalty converted by Tielemans sealed a dramatic 3-2 victory that sent the Europeans through.\n\nThe African side were superior for large parts of the match thanks to an intense and well-structured approach.\n\nFrom the start, they found space down the flanks and repeatedly troubled a Belgian defense that once again showed coordination issues and a lack of response.\n\nHabib Diarra opened the scoring in the 24th minute after a move initiated by Sadio Mané, while Ismaïla Sarr doubled the lead early in the second half (51’) with a brilliant finish. Diarra capitalized on a rebound following Sarr’s header off the post, and Sarr later finished clinically after bringing down a long switch of play and delivering a composed right-footed strike from just before midfield, set up by Moussa Niakhaté.\n\nSenegal even came close to a third goal, but Thibaut Courtois produced a crucial save that ultimately kept Belgium alive.\n\nWhen the situation looked beyond recovery—especially after the departures of Kevin De Bruyne and Jérémy Doku—Romelu Lukaku turned the game on its head in the closing stages after coming off the bench, with Thomas Meunier also playing a key role as another impact substitute.\n\nThe striker pulled one back in the 86th minute, finishing at the near post from a cross from the right, and reignited Belgium’s hopes. Just three minutes later (89’), Tielemans took advantage of a poor outing from goalkeeper Mory Diaw, rising to head home the equalizer and force extra time.\n\nIn the added period, both sides dropped the intensity, although the Europeans continued to push in search of a breakthrough.\n\nIn the 119th minute, a foul inside the box was awarded after a VAR review, and Tielemans made no mistake from the penalty spot to complete a memorable comeback. Lukaku initially shaped to take the penalty, but it was the Aston Villa midfielder who ultimately stepped up and converted.\n\nBelgium advanced with more grit than brilliance, while Senegal bowed out after letting a commanding qualification slip through their fingers.\n\nFollow all the action from the 2026 FIFA World Cup on beIN SPORTS.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

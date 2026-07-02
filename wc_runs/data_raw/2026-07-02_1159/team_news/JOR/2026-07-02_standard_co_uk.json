@@ -1,0 +1,16 @@
+{
+ "team": "JOR",
+ "source": "standard.co.uk",
+ "url": "https://www.standard.co.uk/sport/football/argentina-xi-vs-jordan-starting-lineup-confirmed-team-news-injury-latest-world-cup-2026-today-b1287842.html",
+ "title": "Argentina XI vs Jordan: Starting lineup, confirmed team news, injury latest for World Cup 2026 today | The Standard",
+ "news_date": "2026-07-02",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-07-02",
+ "fetched": "2026-07-02_1159",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Argentina XI vs Jordan: Starting lineup, confirmed team news, injury latest for World Cup 2026 today\nsport | football\nThree things we learned from England win as Harry Kane saves World Cup dream\nInspirational captain rescues Three Lions from humiliation as daunting showdown with Mexico now awaits in last 16",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

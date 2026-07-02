@@ -1,0 +1,16 @@
+{
+ "team": "SUI",
+ "source": "aps.dz",
+ "url": "https://www.aps.dz/cn/sports/sport-collectif/mr23c94y-%E9%98%BF%E5%B0%94%E5%8F%8A%E5%88%A9%E4%BA%9A%E8%BF%8E%E6%88%98%E7%91%9E%E5%A3%AB-%E5%85%A8%E5%8A%9B%E4%BA%89%E5%A4%BA%E5%8D%81%E5%85%AD%E5%BC%BA%E5%B8%AD%E4%BD%8D",
+ "title": "阿尔及利亚迎战瑞士，全力争夺十六强席位",
+ "news_date": "2026-07-02",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-07-02",
+ "fetched": "2026-07-02_1159",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "阿尔及尔——阿尔及利亚国家足球队将于当地时间周五（阿尔及利亚时间凌晨4时）在加拿大温哥华BC Place球场迎来一场具有历史意义的比赛，在2026年世界杯十六分之一决赛中对阵瑞士队，力争继续自己的世界杯征程。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

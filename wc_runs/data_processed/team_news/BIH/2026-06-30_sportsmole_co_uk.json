@@ -1,0 +1,16 @@
+{
+ "team": "BIH",
+ "source": "sportsmole.co.uk",
+ "url": "https://www.sportsmole.co.uk/football/usa/world-cup-2026/team-news/usa-vs-bosnia-herzegovina-injury-suspension-list-predicted-xis_600325.html",
+ "title": "Team News: USA vs. Bosnia-Herzegovina injury, suspension list, predicted XIs - Sports Mole",
+ "news_date": "2026-06-30",
+ "published": "2026-06-30T00:00:00Z",
+ "tier": "2",
+ "lang": "es",
+ "asof": "2026-07-02",
+ "fetched": "2026-07-02_1159",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "USA and Bosnia-Herzegovina will meet in the last-32 stage of the 2026 World Cup on Wednesday.\n\nBosnia-Herzegovina advanced as one of the best third-placed finishers at the competition, while USA topped Group D, and here Sports Mole rounds up the team news for the knockout match.\n\nGet FREE daily news and in-depth previews for games from the biggest leagues and competitions in world football — straight to your inbox.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

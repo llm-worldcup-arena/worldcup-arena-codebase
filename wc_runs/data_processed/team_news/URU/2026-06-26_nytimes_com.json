@@ -1,0 +1,16 @@
+{
+ "team": "URU",
+ "source": "nytimes.com",
+ "url": "https://www.nytimes.com/athletic/live-blogs/uruguay-vs-spain-live-updates-world-cup-2026-score-result/His0NjpjIi75/",
+ "title": "How Uruguay were eliminated from the 2026 World Cup after losing to Spain in Group H",
+ "news_date": "2026-06-26",
+ "published": "2026-06-26T19:00:41.319Z",
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-07-02",
+ "fetched": "2026-07-02_1159",
+ "method": "jsonld:articleBody",
+ "status": "ok",
+ "original_text": "The Bielsa era looks to be winding down, and the head coach was in no mood to dress it up — the gist of his post-match assessment being that he failed to get the best out of the players at his disposal. It is an honest epitaph for a campaign that unravelled not in Guadalajara but weeks earlier, in the points dropped against Cape Verde and Saudi Arabia. Whether Bielsa stays or walks, the questions facing Uruguay are bigger than one man. This is an excellent generation — Valverde, Araujo, Nunez, Bentancur — running short on tournaments to deliver something, and the post-Suarez attack looked toothless when it mattered most. The talent is undeniable; harnessing it, as the head coach himself conceded, is the part that keeps slipping away. A reset beckons, and with it some uncomfortable conversations in Montevideo.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

@@ -1,0 +1,16 @@
+{
+ "team": "BIH",
+ "source": "usatoday.com",
+ "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/06/30/usmnt-injury-updates-christian-pulisic-world-cup-usa-bosnia-herzegovina/90760129007/",
+ "title": "USMNT World Cup injury updates on Christian Pulisic, others for USA-Bosnia",
+ "news_date": "2026-07-02",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-07-02",
+ "fetched": "2026-07-02_1159",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "USMNT World Cup injury updates on Christian Pulisic, others for USA-Bosnia\nJune 30, 2026Updated July 1, 2026, 6:53 p.m. ET\nSANTA CLARA, CA — Defender Auston Trusty's chances of being available for the U.S. men's national team's round-of-32 game against Bosnia and Herzegovina at the World Cup are better than those of fellow defender Mark McKenzie and midfielder Cristian Roldan.\nUSMNT coach Mauricio Pochettino said Trusty, who suffered an ankle injury against Turkey, has made quicker progress than expected and was able to train with the team on Tuesday, June 30. McKenzie (foot) and Roldan (quad) still have not returned to full training.\nAll three players will be evaluated again ahead of the Wednesday, July 1 game.\n\"We need the last assessment, but I hope (Trusty) can be on the bench and be available. Roldan and Mark McKenzie, it's going to be difficult but we need to wait. Because in 24 hours, things can change very quick,\" Pochettino said.\nTrusty played the entire game against Turkey, scoring his first international goal. But he was seen limping afterward. McKenzie also played the entire game against Turkey but has been out of training since then with what U.S. Soccer has described as \"irritation\" in his foot.\nRoldan has not trained with the team since injuring his quad on June 20.\nThe best injury news for the USMNT is that Christian Pulisic said he feels \"ready\" to play 90 minutes.\nPulisic missed the Australia game after tweaking a left calf injury in the first half of the opener against Paraguay. He played 32 minutes against Turkey after coming on in the second half.\n\"I felt great in the game, the last game against Turkey. So, feeling good this week and yeah, I'm definitely ready to go for tomorrow,\" Pulisic said.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}
