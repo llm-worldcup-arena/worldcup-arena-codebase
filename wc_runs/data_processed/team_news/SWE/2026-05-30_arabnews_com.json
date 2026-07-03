@@ -1,0 +1,16 @@
+{
+ "team": "SWE",
+ "source": "arabnews.com",
+ "url": "https://www.arabnews.com/node/2645471/sport",
+ "title": "Sweden’s injured Holm misses World Cup, Johansson called up",
+ "news_date": "2026-05-30",
+ "published": "2026-05-30T21:27:24+03:00",
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-07-03",
+ "fetched": "2026-07-03_1410",
+ "method": "jsonld:articleBody",
+ "status": "ok",
+ "original_text": "STOCKHOLM: Sweden ‌defender Emil Holm has suffered a muscle injury and will miss the World Cup, with Herman Johansson called up as a replacement, the country’s FA (SVFF) announced on Saturday. \r\nThe 26-year-old Holm, who has been ‌on loan ‌at Juventus from ‌Bologna, was ⁠in Graham Potter’s ⁠squad announced on May 12 but is expected to be sidelined for several weeks. \r\nThe SVFF said FC Dallas midfielder ⁠Johansson, 28, has joined ‌the ‌national team camp in Stockholm to ‌replace Holm. \r\n“I have fought ‌my whole life to represent my country in a World Cup ... and to have ‌it taken away by an injury. It hurts ⁠so ⁠much,” Holm said in a statement. \r\nSweden open their Group F campaign against Tunisia in Guadalupe, Mexico on June 14 before two games over the border in Texas, against Netherlands in Houston and Japan in Arlington.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

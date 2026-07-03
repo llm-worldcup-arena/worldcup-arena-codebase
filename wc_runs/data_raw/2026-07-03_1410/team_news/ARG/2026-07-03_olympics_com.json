@@ -1,0 +1,16 @@
+{
+ "team": "ARG",
+ "source": "olympics.com",
+ "url": "https://www.olympics.com/en/news/fifa-world-cup-2026-argentina-all-players-full-squad-list-key-stats-schedule",
+ "title": "Argentina at FIFA World Cup 2026: All players, full squad list, key stats and schedule",
+ "news_date": "2026-07-03",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-07-03",
+ "fetched": "2026-07-03_1410",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Argentina at FIFA World Cup 2026: All players, full squad list, key stats and schedule\nQuick facts\nCaptain: Lionel Messi\nManager: Lionel Scaloni\nWorld Cup appearances (including 2026): 19\nBest World Cup result: Winners (1978, 1986, 2022)\nFIFA World Cup 2026 – Argentina’s final squad\nGoalkeepers: Emiliano Martínez (Aston Villa), Gerónimo Rulli (Olympique de Marseille), Juan Musso (Atlético de Madrid)\nDefenders: Gonzalo Montiel (River Plate), Nahuel Molina (Atlético de Madrid), Lisandro Martínez (Manchester United), Nicolás Otamendi (SL Benfica), Leonardo Balerdi (Olympique de Marseille), Cristian Romero (Tottenham Hotspur), Facundo Medina (Olympique de Marseille), Nicolás Tagliafico (Olympique Lyonnais)\nMidfielders: Leandro Paredes (Boca Juniors), Rodrigo De Paul (Inter Miami), Exequiel Palacios (Bayer Leverkusen), Enzo Fernández (Chelsea), Alexis Mac Allister (Liverpool), Giovani Lo Celso (Real Betis), Valentín Barco (RC Strasbourg)\nForwards: Lionel Messi (Inter Miami), Nicolás Paz (Como 1907), Thiago Almada (Atlético de Madrid), Nicolás González (Atlético de Madrid), Giuliano Simeone (Atlético de Madrid), Lautaro Martínez (Internazionale), José Manuel López (Palmeiras), Julián Álvarez (Atlético de Madrid)",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

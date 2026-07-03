@@ -1,0 +1,16 @@
+{
+ "team": "USA",
+ "source": "ftvnews.com.tw",
+ "url": "https://www.ftvnews.com.tw/news/detail/2026602W0037",
+ "title": "美國隊世界盃名單出爐！後防大將 Chris Richards 帶傷入選成焦點 - 民視新聞網",
+ "news_date": "2026-07-03",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-07-03",
+ "fetched": "2026-07-03_1410",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "美國男足國家隊正式向國際足總（FIFA）提交 26 人世界盃參賽名單，儘管後衛 Chris Richards 仍受韌帶傷勢困擾，總教練 Mauricio Pochettino 仍決定將其納入陣容，並密切觀察復原狀況。\n效力於英超水晶宮的 26 歲中後衛 Chris Richards，上個月在比賽中不慎造成腳踝韌帶撕裂，傷勢一度引發外界擔憂。然而，總教練 Mauricio Pochettino 在週一提交給 FIFA 的最終名單中，依然保留了他的位置。目前 Chris Richards 已隨隊在亞特蘭大郊區的訓練基地進行復健與練習。\nMauricio Pochettino 表示，接下來的幾天將是關鍵，醫療團隊會持續評估 Chris Richards 是否具備參加世界盃的體能狀態。根據賽事規定，美國隊在 6 月 11 日前仍有更換名單的機會。美國隊預計於 6 月 12 日在加州英格爾伍德迎戰巴拉圭，正式開啟本屆世界盃征途。\n本屆世界盃由美國、加拿大與墨西哥共同主辦，參賽隊伍擴大至 48 隊。美國隊在週日的熱身賽中以 3 比 2 擊敗塞內加爾，展現不俗戰力，本週六則將迎戰強敵德國隊，進行最後的賽前調整。名單中除了受矚目的 Chris Richards，還包括 Christian Pulisic 與 Matt Turner 等核心球員。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

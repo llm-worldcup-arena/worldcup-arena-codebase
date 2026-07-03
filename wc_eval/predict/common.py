@@ -312,6 +312,10 @@ _HANDICAP = {
     ("POR", "CRO"): -0.5,    # 葡萄牙 -0.5(ESPN/lineups 明示 POR -0.5 -130 / CRO +0.5;bet365 ML POR -290 大热但首次交手有球)
     ("ESP", "AUT"): -1.5,    # 西班牙 -1.5(SportsGambler/FanDuel AH ESP -1.5 -105;ML ESP -300 巨热75%;近9场6中-1.5,预测2-0)
     ("SUI", "ALG"): -0.5,    # 瑞士 -0.5(SUI -103 ML 微弱主队近平手;Covers/oddschecker 72%公众投注瑞士;取最小主队半球)
+    # —— 7/3 32 强 M86-M88(多源核对 2026-07-03;正值=主队受让) ——
+    ("ARG", "CPV"): -2.0,    # 阿根廷 -2(OddsShark 明示 AH ARG -2 -110;ML ARG -1800/-769 巨热88%胜率 vs CPV +1080;卫冕冠军对首入32强)
+    ("COL", "GHA"): -1.0,    # 哥伦比亚 -1(SportsGambler AH COL -1.25 -100;FanDuel spread COL -1.5 +130;ML COL -190~-225 强主 vs GHA +600~+750,取整-1)
+    ("AUS", "EGY"): +0.25,   # 埃及(客)让0.25(Pinnacle AH EGY -0.25/AUS +0.25;ML EGY +150 微热 / AUS +230 / 平 +190;埃及-140晋级微占优,达拉斯中立场)
 }
 
 

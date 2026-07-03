@@ -1,0 +1,24 @@
+{
+ "source": "elpais.com",
+ "url": "https://elpais.com/deportes/mundial-futbol/2026-07-02/resumen-y-ultimas-noticias-de-la-copa-mundial-de-futbol.html",
+ "title": "Mundial 2026, últimas noticias en directo | Argentina y Colombia buscan sus lugares en octavos",
+ "published": "2026-07-03T09:45:03+02:00",
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-07-02",
+  "home": "ESP",
+  "away": "AUT",
+  "home_en": "Spain",
+  "away_en": "Austria",
+  "home_zh": "西班牙",
+  "away_zh": "奥地利",
+  "comp": "r32",
+  "match_id": "M84",
+  "slug": "2026-07-02_ESP_vs_AUT"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "La UEFA ha avanzado que no impondrá tarjetas rojas a los jugadores que se tapen la boca en un enfrentamiento con un rival durante sus competiciones, pero los infractores sí que podrían enfrentarse a procedimientos disciplinarios por ese tipo de incidentes.Según han indicado medios de comunicación como la BBC y The Athletic, el máximo organismo rector del fútbol europeo ha informado este jueves de dicha medida a sus federaciones miembro. Así, la UEFA ha señalado que se debería mostrar una tarjeta amarilla a los jugadores por “intentar ocultar la comunicación como acto de conducta antideportiva”.Luego la UEFA ha aclarado que esto “se entiende sin perjuicio de cualquier investigación o procedimiento disciplinario que pueda derivarse como consecuencia de, o en relación con, dicho comportamiento”.En la Copa Mundial de la FIFA 2026, se insta a los árbitros a que expulsen a los jugadores que se tapen la boca durante un enfrentamiento con un adversario. De hecho, esto le ha ocurrido a Miguel Almirón, de Paraguay, y a Piero Hincapié, de Ecuador, pues ambos fueron expulsados.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

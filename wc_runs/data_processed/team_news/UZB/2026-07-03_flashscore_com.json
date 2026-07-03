@@ -1,0 +1,16 @@
+{
+ "team": "UZB",
+ "source": "flashscore.com",
+ "url": "https://www.flashscore.com/team/uzbekistan/EZYKKRMc/news/",
+ "title": "Uzbekistan news - Football, Asia",
+ "news_date": "2026-07-03",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-07-03",
+ "fetched": "2026-07-03_1410",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "HELP: You are on Uzbekistan news page in Football/Asia section. Flashscore.com offers Uzbekistan livescore, final and partial results, standings and match details and all news around it. Besides Uzbekistan news you can follow team news from thousands competitions from many countries around the world on Flashscore.com. Just click on the Search button in the upper menu, search for desired team and then click on News tab on team page.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

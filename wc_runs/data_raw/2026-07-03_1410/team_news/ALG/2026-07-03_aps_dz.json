@@ -1,0 +1,16 @@
+{
+ "team": "ALG",
+ "source": "aps.dz",
+ "url": "https://www.aps.dz/cn/sports/sport-collectif/mpsg1umj-%E5%9B%BD%E5%AE%B6%E9%98%9F%E7%90%83%E5%91%98%E6%81%A2%E5%A4%8D%E8%AE%AD%E7%BB%83",
+ "title": "国家队球员恢复训练",
+ "news_date": "2026-07-03",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-07-03",
+ "fetched": "2026-07-03_1410",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "阿尔及尔—— 据阿尔及利亚足球联合会公告，国家足球队球员于周四在西迪穆萨国家技术中心 (Sidi Moussa) 恢复训练，为备战2026年世界杯（6月11日—7月19日）做准备。在此之前，球队于周三因宰牲节获得一天休息。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

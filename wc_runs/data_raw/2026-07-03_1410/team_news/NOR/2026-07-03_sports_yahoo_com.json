@@ -1,0 +1,16 @@
+{
+ "team": "NOR",
+ "source": "sports.yahoo.com",
+ "url": "https://sports.yahoo.com/soccer/teams/norway/injuries/",
+ "title": "Norway Injuries - Yahoo Sports",
+ "news_date": "2026-07-03",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-07-03",
+ "fetched": "2026-07-03_1410",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "NBA free agency updates: Tari Eason returns to Rockets on 5-year deal\nGonçalo Ramos' 94th-minute goal helps give Portugal a 2-1 World Cup win over Croatia\nJaylen Brown releases statement showing mixed feelings after trade to 76ers\nTaylor Swift-Travis Kelce wedding to get Knicks-style security perimeter at MSG\nA's prospect Ryan Lasko still doesn't have feeling in lower half after scary collision",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

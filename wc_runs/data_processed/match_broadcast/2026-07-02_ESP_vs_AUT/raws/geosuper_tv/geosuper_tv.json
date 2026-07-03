@@ -1,0 +1,24 @@
+{
+ "source": "geosuper.tv",
+ "url": "https://www.geosuper.tv/latest/57504-spain-vs-austria-fifa-world-cup-2026-round-of-32-match",
+ "title": "Spain ease past Austria to reach FIFA World Cup 2026 Round of 16",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-07-02",
+  "home": "ESP",
+  "away": "AUT",
+  "home_en": "Spain",
+  "away_en": "Austria",
+  "home_zh": "西班牙",
+  "away_zh": "奥地利",
+  "comp": "r32",
+  "match_id": "M84",
+  "slug": "2026-07-02_ESP_vs_AUT"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Mikel Oyarzabal scored a brace as Spain eased past Austria 3-0 to book their place in the FIFA World Cup 2026 Round of 16 with a convincing win at Los Angeles Stadium in Inglewood on Thursday.\n\nSpain, who is one of the favourites at the tournament and have yet to concede a goal, will take on Portugal or Croatia for a place in the quarter-finals.\n\nSpain broke the deadlock in the 36th minute of the match through Oyarzabal. He scored his third goal in the FIFA World Cup 2026 by converting Marc Cucurella's low-driven cross from the left.\n\nPedro Porro doubled the lead in the 66th minute for the Spanish football team. Alex Baena fed Porro a cross, which he headed home at the back post to score his first international goal.\n\nOyarzabal sealed the deal for his team when he scored his second goal of the match in the 89th minute to make it 3-0.\n\nOyarzabal latched on to another wonderful cross from Cucurella and slotted into the bottom-right corner.\n\nLuis de la Fuente's side dominated the match, enjoying 64.5% of possession and having 10 shots on target in 23 attempts. At the same time, Austria have not been on target in five efforts.\n\nAustria's best chance of the second half came when a cross into the box was headed by Sasa Kalajdzic, but the ball ended up landing harmlessly on top of the goal.\n\nSpain, World Cup winners in 2010, started the tournament with a goalless draw against Cape Verde that raised questions about their form.\n\nBut they absolutely dominated Austria and will take encouragement from the performance of Lamine Yamal, 18, who looked to have shaken off the hamstring injury that hampered him earlier in the tournament.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

@@ -1,0 +1,16 @@
+{
+ "team": "NED",
+ "source": "old.flyskishuttle.com",
+ "url": "https://old.flyskishuttle.com/?p=/apks/c23797.aspx",
+ "title": "FLYSKI Shuttle - FlySki Shuttle",
+ "news_date": "2026-07-03",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-07-03",
+ "fetched": "2026-07-03_1410",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "COME AND RIDE WITH US, FROM THE AIRPORT TO THE SLOPES OF THE DOLOMITES\nCollective Transfer reservations are closed, the Private Transfer service is active every day of the year\nCollective Transfer bookings for the 2025-26 winter season are open!\nThe Private Transfer service is available every day of the year\nPACK YOUR BAGS, WE’LL DO THE REST!\nExperience a comfortable and convenient journey to the Dolomites aboard our Private Transfer. Select the schedule that best suits your arrival and departure times.\nExperience a comfortable and convenient journey to Trentino’s ski slopes aboard our Shuttle service. Select the schedule that best suits your arrival and departure times.\nEASY\nLet us handle your airport or train station transfer. Just book your ride, and we’ll be there to take you to your destination.\nCOMFORTABLE\nWe tailor each transfer to the number of passengers booked, to ensure a pleasant journey for all our guests.\nDIRECT\nWith our extensive route network, traveling between northern Italy’s airports and train stations and Trentino’s ski resorts is easy and relaxing.\nVerona Airport\nBergamo Airport\nVenice Airport\nMilan Train Station/Airport\nTrento Train Station\nBolzano Airport\nTreviso Airport\nFassa Valley\nSole Valley\nMadonna di Campiglio\nFiemme Valley\nSan Martino di Castrozza\nGarda Lake\nPaganella\nValsugana\nAre you a Professional Operator and want to have access to the confidential rates reserved for you?\nContact us!",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

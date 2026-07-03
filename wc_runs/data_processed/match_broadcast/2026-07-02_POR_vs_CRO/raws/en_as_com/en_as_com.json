@@ -1,0 +1,24 @@
+{
+ "source": "en.as.com",
+ "url": "https://en.as.com/resultados/futbol/mundial/2026/directo/dieciseisavos_a_1_6933caff98a1799/",
+ "title": "Portugal vs Croatia summary: score, stats, goals and highlights | 2026 World Cup last 32",
+ "published": "2026-07-02T18:37:43-04:00",
+ "tier": "2",
+ "lang": "es",
+ "match": {
+  "date": "2026-07-02",
+  "home": "POR",
+  "away": "CRO",
+  "home_en": "Portugal",
+  "away_en": "Croatia",
+  "home_zh": "葡萄牙",
+  "away_zh": "克罗地亚",
+  "comp": "r32",
+  "match_id": "M83",
+  "slug": "2026-07-02_POR_vs_CRO"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Peeep peeep! Its all over! Portugal have edged Croatia in a magnificent, thrilling exhibition of knockout soccer. They advance to a last-16 tie with Spain.Have we just seen the last of Luka Modric - possibly at international level, possibly at all levels? I very much hope not. Gonçalo Ramos's very late header has won it for the Portuguese, after Josko Gvardiol's even later leveller was ruled out for that tight, tight offside call. Portugal had much the better of the first half - but the second was, as they say, a ding-dong cup tie. Croatia, who saw Ivan Perisic's opener cancelled out by Cristiano Ronaldo's penalty, could just as easily have won it.Zlatko Dalic's men can, certainly, feel with some justification that they did as much as their opponent to merit a last-16 spot. It's the first time they've reached the World Cup knockouts and not made it to at least the semifinals. So it's Portugal who advance, having secured their eighth win in 11 meetings with Croatia. Roberto Martínez's men will now head to Dallas, where they'll face the Spaniards for a berth in the quarterfinals. Narrative klaxon: Martínez comes up against his home country.That's all from me - thank for reading. Bye!",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

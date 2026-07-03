@@ -1,0 +1,24 @@
+{
+ "source": "skysports.com",
+ "url": "https://www.skysports.com/football/switzerland-vs-algeria/report/549848",
+ "title": "World Cup 2026: Switzerland 2-0 Algeria - Goals from Breel Embolo and Dan Ndoye secure first World Cup knockout win in 88 years",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-07-02",
+  "home": "SUI",
+  "away": "ALG",
+  "home_en": "Switzerland",
+  "away_en": "Algeria",
+  "home_zh": "瑞士",
+  "away_zh": "阿尔及利亚",
+  "comp": "r32",
+  "match_id": "M85",
+  "slug": "2026-07-02_SUI_vs_ALG"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Switzerland finally ended their World Cup knockout hoodoo by beating Algeria 2-0 to set up a last-16 meeting with either Colombia or Ghana. The Swiss, who had been eliminated in each of their past seven knockout games at the tournament, brought an end to 88 years of knockout pain as goals from Breel Embolo (10) and Nottingham Forest's Dan Ndoye (46) secured victory in Vancouver. Algeria had made a bright start to the game but they could not capitalise as Switzerland shackled former Manchester City star Riyad Mahrez.   Switzerland had a late opportunity to add to their tally but substitute Fabian Rieder inexplicably failed to convert from close range. It was the only negative on what was a comfortable evening for Murat Yakin's side. Switzerland will face the winner of the last-32 tie between Colombia and Ghana on Tuesday (kick-off 9pm) in Vancouver. The key moments from Vancouver... 10: GOAL! After Algeria's bright start, Manzambi's burst forward and cross set up Embolo for the Swiss opener. 46: GOAL! Switzerland made the perfect start to the half as Forest winger Ndoye's fine finish doubled the lead. 50: CHANCE! Mahrez's only real opportunity was blocked by his former Man City team-mate Manuel Aknaji. 81: MISS! Substitute Fabian Rieder missed an open goal as Wwitzerland missed the chance to add a third. Newcastle target Manzambi shows worth Sky Sports' Oliver Yew: Newcastle fans would have been interested viewers of the action in Vancouver. Eddie Howe's side are interested in Switzerland forward Johan Manzambi, who has lit up the World Cup in the group stages with three goals. At 20 years and 261 days old, Manzambi is the youngest player to reach five goal involvements (three goals, two assists) at a World Cup since records began in 1966. He continued his excellent form at the tournament, setting up Embolo's opener with a blistering run, showing just what Newcastle could be getting if they firm up their interest in the Freiburg winger. Every time the £42m-rated 20-year-old got the ball the Algeria players were concerned by his frightening pace and power, and Switzerland were looking to get him the ball at every opportunity. His direct approach got the fans in Vancouver off their seats and you could easily see the same happening at St James' Park if a move was to materialise.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

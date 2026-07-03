@@ -1,0 +1,24 @@
+{
+ "source": "aljazeera.com",
+ "url": "https://www.aljazeera.com/sports/2026/7/2/belgium-stage-3-2-comeback-win-over-senegal-to-enter-world-cup-last",
+ "title": "Belgium pull off stunning comeback to beat Senegal, enter World Cup last 16",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-07-01",
+  "home": "BEL",
+  "away": "SEN",
+  "home_en": "Belgium",
+  "away_en": "Senegal",
+  "home_zh": "比利时",
+  "away_zh": "塞内加尔",
+  "comp": "r32",
+  "match_id": "M82",
+  "slug": "2026-07-01_BEL_vs_SEN"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Tielemans’s penalty late into stoppage time of extra time capped Belgium’s comeback from 2-0 down in Seattle.\n\nYouri Tielemans struck a 125th-minute penalty as Belgium rallied from two goals down and defeated Senegal 3-2 after extra time in their World Cup last ⁠-32 clash in Seattle to keep alive their title hopes, which had looked dead and buried.\n\nSenegal’s Lamine Camara slid in on Tielemans as the ball flashed across the face of goal and conceded the spot kick after a ⁠⁠video assistant referee review, with the Belgian picking out the top corner to complete an extraordinary comeback on Wednesday.\n\nHabib Diarra and Ismaila Sarr had given Senegal a deserved 2-0 lead, and they looked to be cruising through to the next round before Belgium netted twice in the final four minutes through Romelu Lukaku and Tielemans to force extra time.\n\nBelgium now face the winner of ‌‌Wednesday’s last-32 clash between cohosts United States and Bosnia and Herzegovina in the next round in Seattle on Monday.\n\nIt was cruel on Senegal, who controlled much of the 90 minutes, and struck the woodwork twice, but could not see out the game.\n\nThey became the fourth African side to bow out in a narrow defeat in the last 32 after South Africa, Ivory Coast, and the Democratic Republic of the Congo, and will wonder how they managed to let this one slip.\n\nSenegal were inches away from the lead when Ismail Jakobs’s cross from the ⁠⁠left was parried by Thibaut Courtois, but a stretching Sarr could only steer the ⁠⁠loose ball onto the post.\n\nWhen the African side did break the deadlock in the 25th minute, it was no surprise. Sadio Mane’s cross was headed goal-wards by Sarr, but his effort came off the post again.\n\nThis time, the loose ball fell kindly for Diarra, and he side-footed home ⁠⁠from 7 yards.\n\nMaxim De Cuyper forced an excellent save from Senegal goalkeeper Mory Diaw with a shot that looked to be heading into the top corner as Belgium trailed ⁠⁠at the break.\n\nBelgium brought on Lukaku for the ineffective ⁠⁠Charles De Ketelaere at half-time, but were soon 2-0 down.\n\nA stunning long pass from Moussa Niakhate was brilliantly controlled on the chest by Sarr, who held off two defenders before thundering the ball into the net in the 51st minute.\n\nBelgium struggled to create clear-cut chances until the final five minutes, ‌‌and almost out of nowhere turned the game on its head by netting twice in three minutes.\n\nFirst, Lukaku turned the ball in at the near post from Thomas Meunier’s low cross, and Leandro Trossard’s ball into the box from ‌‌deep ‌‌was headed into the net by Tielemans.\n\nThose two had been involved in a heated exchange earlier in the match, but it was all smiles and hugs when the equaliser went in, before Tielemans was central again in the winner.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

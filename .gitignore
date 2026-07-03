@@ -16,3 +16,4 @@ __pycache__/
 # ── 临时 ──
 *.tmp
 result_sources/
+wc_runs/_logs/

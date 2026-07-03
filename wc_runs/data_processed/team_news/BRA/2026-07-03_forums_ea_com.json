@@ -1,0 +1,16 @@
+{
+ "team": "BRA",
+ "source": "forums.ea.com",
+ "url": "https://forums.ea.com/discussions/fc-26-feedback-en/brazil-squad-missing-players-in-fc-26/13475539",
+ "title": "World Cup 2026 Squad Updates | EA Forums - 13475539",
+ "news_date": "2026-07-03",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-07-03",
+ "fetched": "2026-07-03_1410",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Optional Cookies, including those that support the Multimedia Player, are currently disabled based on Your Privacy Choices settings.\nChoose Accept and Play Video to enable the Multimedia Player, including its associated Cookies. This may involve the collection and sharing of your viewing information by YouTube for analytics and advertising purposes.\nYou can also choose to watch the video on YouTube.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

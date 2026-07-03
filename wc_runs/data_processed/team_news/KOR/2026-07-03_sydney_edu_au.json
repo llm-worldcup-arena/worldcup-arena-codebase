@@ -1,0 +1,16 @@
+{
+ "team": "KOR",
+ "source": "sydney.edu.au",
+ "url": "https://www.sydney.edu.au/search.html",
+ "title": "Search - The University of Sydney",
+ "news_date": "2026-07-03",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-07-03",
+ "fetched": "2026-07-03_1410",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "We couldn't find what you were looking for, but here's some things you can do about it:\nIf you're using quotes (\" or ') or advanced operators like +, - or |, try removing them to broaden your search\nIf you're searching for an acronym, try searching for the full name\nPlease enter some text to search\nFilters\nResults per page\nWe couldn't find what you were looking for, but here's some things you can do about it:\nIf you're using quotes (\" or ') or advanced operators like +, - or |, try removing them to broaden your search\nIf you're searching for an acronym, try searching for the full name",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

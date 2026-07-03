@@ -1,0 +1,16 @@
+{
+ "team": "COD",
+ "source": "skysports.com",
+ "url": "https://www.skysports.com/football/news/12098/13559299/england-2026-world-cup-news-reece-james-and-jarell-quansah-to-miss-last-32-clash-vs-dr-congo-with-injury",
+ "title": "England 2026 World Cup news: Reece James and Jarell Quansah to miss last-32 clash vs DR Congo with injury",
+ "news_date": "2026-07-03",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-07-03",
+ "fetched": "2026-07-03_1410",
+ "method": "jsonld:articleBody",
+ "status": "ok",
+ "original_text": "Reece James and Jarell Quansah have been ruled out of England's World Cup last-32 game against DR Congo in Atlanta on Wednesday. Quansah twisted his ankle in the final group-stage win over Panama on Saturday, while James has a hamstring injury. The pair were the only England players to miss training ahead of the knockout clash with DR Congo, with versatile Tottenham full-back Djed Spence now set to get the nod to fill in at right-back. Tuchel vows 'the bigger the game, the bigger England will be' Panama 0-2 England - Match report and reaction | As it happened Knockout bracket, third-place table and fixtures World Cup day-by-day schedule | Latest: World Cup",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

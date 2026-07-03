@@ -1,0 +1,24 @@
+{
+ "source": "skysports.com",
+ "url": "https://www.skysports.com/football/spain-vs-austria/report/549849",
+ "title": "World Cup 2026: Spain 3-0 Austria – Mikel Oyarzabal stars for European champions as they ease into last 16",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-07-02",
+  "home": "ESP",
+  "away": "AUT",
+  "home_en": "Spain",
+  "away_en": "Austria",
+  "home_zh": "西班牙",
+  "away_zh": "奥地利",
+  "comp": "r32",
+  "match_id": "M84",
+  "slug": "2026-07-02_ESP_vs_AUT"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Spain eased into the round of 16 of the World Cup with a comfortable 3-0 win over Austria in Los Angeles. Spain had been frustrated to see Marc Cucurella's goal controversially disallowed for a foul on the goalkeeper but it was only a temporary reprieve for a spirited Austria side. Mikel Oyarzabal opened the scoring late in the first half and there was no way back. Ralf Rangnick did attempt to pull off the same dramatic trick that earned his team their place in the knockout stages - turning to Sasa Kalajdzic, the stoppage-time hero against Algeria. The tall striker came close to an equaliser but headed over the bar this time.   Pedro Porro doubled the advantage soon after by nodding in from close range to crush Austria's hopes of a comeback and Oyarzabal sealed the convincing victory by converting Cucurella's centre to send a message to the other World Cup heavyweights. Spain were a little underwhelming in the group stage, famously drawing with Cape Verde. But Luis de la Fuente's side are yet to concede a goal at this tournament and his team are now 34 games unbeaten inside 90 minutes in competitive internationals. With Lamine Yamal showed glimpses of his astonishing quality at the other end of the pitch, there is surely much more to come. If Spain can continue to be solid at the back then they have the talent to take better teams apart. It is Portugal or Croatia up next. The key moments from Los Angeles... 30 - DISALLOWED GOAL! Cucurella denied for a 'foul' on the goalkeeper. 37 - GOAL! Oyarzabal slotted home to give Spain a deserved lead. 61 - CHANCE! Kalajdzic close to levelling but heads over with his first touch. 66 - GOAL! Porro nods in from Baena's cross to double the advantage. 89 - GOAL! Oyarzabal converted his second from Cucurella's centre. Analysis: Oyarzabal key for Spain Alvaro Morata captained Spain to victory at Euro 2024 but scored only once in seven appearances, six of them starts. Luis de la Fuente's side were a little more fluent at that tournament than at this one so far but Oyarzabal is a very different proposition. The Real Sociedad forward scored the winner against England off the bench in the final in 2024, of course, and since usurping Morata has proven himself a lethal finisher. These were his third and fourth goals of the World Cup. He gives Spain another dimension. Oyarzabal: Happy to help the team Spain top scorer Mikel Oyarzabal : \"I'm happy to help the team and get through to the next round. Now we need to rest. They were a physical side and difficult to play against, but we played a good match. \"We're happy to qualify. It doesn't matter who we face in the next round - I have friends in both teams.\" De la Fuente: We can do better! Spain head coach Luis de la Fuente : \"We knew it would be an important match, especially in this knockout stage. We had the previous games in mind and, in every aspect, we were almost perfect. \"But there are still a few little things to improve. We can always do better. Every match is going to be more difficult than the last. We need to keep this mentality.\"",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

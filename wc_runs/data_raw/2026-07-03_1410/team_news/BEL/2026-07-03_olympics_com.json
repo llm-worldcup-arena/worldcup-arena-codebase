@@ -1,0 +1,16 @@
+{
+ "team": "BEL",
+ "source": "olympics.com",
+ "url": "https://www.olympics.com/en/news/fifa-world-cup-2026-belgium-players-squad-list-key-stats-schedule",
+ "title": "Belgium at FIFA World Cup 2026: All players, full squad list, key stats and schedule",
+ "news_date": "2026-07-03",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-07-03",
+ "fetched": "2026-07-03_1410",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Belgium at FIFA World Cup 2026: All players, full squad list, key stats and schedule\nQuick facts\nCaptain: Youri Tielemans\nManager: Rudi Garcia\nWorld Cup appearances (including 2026): 15\nBest World Cup result: Third (2018)\nFIFA World Cup 2026 – Belgium’s full squad\nGoalkeepers: Thibaut Courtois (Real Madrid), Senne Lammens (Manchester United), Mike Penders (Strasbourg)\nDefenders: Timothy Castagne (Fulham), Zeno Debast (Sporting CP), Maxim De Cuyper (Brighton), Koni De Winter (AC Milan), Brandon Mechele (Club Brugge), Thomas Meunier (Lille), Nathan Ngoy (Lille), Joaquin Seys (Club Brugge), Arthur Theate (Eintracht Frankfurt)\nMidfielders: Kevin De Bruyne (Napoli), Amadou Onana (Aston Villa), Nicolas Raskin (Rangers), Youri Tielemans (Aston Villa), Hans Vanaken (Club Brugge), Axel Witsel (Girona)\nForwards: Charles De Ketelaere (Atalanta), Jeremy Doku (Manchester City), Matias Fernandez Pardo (Lille), Romelu Lukaku (Napoli), Dodi Lukebakio (Benfica), Diego Moreira (Strasbourg), Alexis Saelemaekers (AC Milan), Leandro Trossard (Arsenal)",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

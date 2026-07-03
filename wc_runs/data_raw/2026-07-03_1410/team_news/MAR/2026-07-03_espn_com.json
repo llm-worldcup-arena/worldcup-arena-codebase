@@ -1,0 +1,16 @@
+{
+ "team": "MAR",
+ "source": "espn.com",
+ "url": "https://www.espn.com/soccer/team/_/id/2869/morocco",
+ "title": "Morocco Scores, Stats and Highlights - ESPN",
+ "news_date": "2026-07-03",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-07-03",
+ "fetched": "2026-07-03_1410",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Bayern Munich complete signing of Morocco forward Ismael Saibari in €55m deal with PSV Eindhoven. Saibari signs five year contract with Bundesliga champions.\nMorocco\nSOCCER\nMorocco\nSOCCER\nOuahbi: 'Everyone respects Morocco' after knocking the Netherlands out the WC\n3d\nMorocco\nSOCCER\nKoeman reflects on the Netherlands' 'really painful' penalty defeat to Morocco\n3d\nMorocco\nSOCCER\nDe Roon: It was a 'funeral atmosphere' in Netherlands dressing room\n3d\nMorocco\nSOCCER\nBack to Top\nTeamGPWDLGDP\nUnited States 3 2 0 1 +4 6\nAustralia 3 1 0 4\nParaguay 3 1 -2 4\nTürkiye 3 1 0 2 -2 3\nGoal Difference\n3\nTied-14th\nGoals Scored\n7\nTied-17th\nAssists\n6\nTied-11th\nGoals Conceded\n4\nTied-17th",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

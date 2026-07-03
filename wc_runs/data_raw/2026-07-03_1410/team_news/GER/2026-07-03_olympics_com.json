@@ -1,0 +1,16 @@
+{
+ "team": "GER",
+ "source": "olympics.com",
+ "url": "https://www.olympics.com/en/news/fifa-world-cup-2026-germany-all-players-full-squad-list-key-stats-schedule",
+ "title": "Germany at FIFA World Cup 2026: All players, full squad list, key stats and schedule",
+ "news_date": "2026-07-03",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-07-03",
+ "fetched": "2026-07-03_1410",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Germany at FIFA World Cup 2026: All players, full squad list, key stats and schedule\nQuick facts\nCaptain: Joshua Kimmich\nManager: Julian Nagelsmann\nWorld Cup appearances (including 2026): 21\nBest World Cup result: Winners (1954, 1974, 1990, 2014)\nGoalkeepers: Oliver Baumann (Hoffenheim), Manuel Neuer (Bayern München), Alexander Nübel (VfB Stuttgart)\nDefenders: Waldemar Anton (Borussia Dortmund), Nathaniel Brown (Frankfurt), Joshua Kimmich (Bayern Munich, captain), David Raum (RB Leipzig), Antonio Rudiger (Real Madrid, vice-captain), Nico Schlotterbeck (Borussia Dortmund), Jonathan Tah (Bayern Munich), Malick Thiaw (Newcastle)\nMidfielders: Nadiem Amiri (Mainz), Leon Goretzka (Bayern Munich), Pascal Gross (Brighton), Jamie Leweling (Stuttgart), Assan Ouédraogo (RB Leipzig)*, Jamal Musiala (Bayern Munich), Felix Nmecha (Borussia Dortmund), Alexander Pavlovic (Bayern Munich), Angelo Stiller (Stuttgart), Florian Wirtz (Liverpool)\nForwards: Maximilian Beier (Borussia Dortmund), Kai Havertz (Arsenal), Leroy Sane (Galatasaray), Denis Undav (Stuttgart), Nick Woltemade (Newcastle)\n*Assan Ouédraogo replaced Lennart Karl, who withdrew from the squad due to injury on 6 June",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}
