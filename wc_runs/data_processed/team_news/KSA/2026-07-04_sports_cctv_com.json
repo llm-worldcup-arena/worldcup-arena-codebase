@@ -1,0 +1,16 @@
+{
+ "team": "KSA",
+ "source": "sports.cctv.com",
+ "url": "https://sports.cctv.com/2026/06/22/VIDEYQTTyM56yYSUrsV52cIH260622.shtml",
+ "title": "[世界杯]H组第2轮：西班牙4-0沙特阿拉伯 集锦",
+ "news_date": "2026-07-04",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-07-04",
+ "fetched": "2026-07-04_2015",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "央视网消息：北京时间6月22日，2026年美加墨世界杯H组第2轮，西班牙队对阵沙特阿拉伯队。全场比赛结束，最终，西班牙4-0沙特阿拉伯。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

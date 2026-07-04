@@ -1,0 +1,16 @@
+{
+ "team": "EGY",
+ "source": "view.inews.qq.com",
+ "url": "https://view.inews.qq.com/a/20260628A0283Q00",
+ "title": "埃及官方：萨拉赫腿筋拉伤、左后卫报销、中卫脚踝严重受伤_腾讯新闻",
+ "news_date": "2026-06-28",
+ "published": "2026-06-28 07:44:14",
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-07-04",
+ "fetched": "2026-07-04_2015",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "萨拉赫 被诊断出腿筋拉伤，目前已开始接受治疗。埃及队将于下周五在世界杯第二阶段比赛中对阵澳大利亚队。\n\n据队医穆罕默德-阿布-埃尔-埃拉（Mohamed Abou El-Ela）介绍，针对这位身披10号球衣的球员所做的检查显示其大腿肌肉拉伤。\n\n除萨拉赫外，队医还确认左后卫艾哈迈德-法图赫大腿肌肉撕裂，预计将缺席本届赛事的剩余比赛。\n\n埃及中后卫阿卜杜勒-莫内姆（Abdel Monem）则遭遇了脚踝伤势，目前正处于恢复期，希望能继续留在队中。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

@@ -1,0 +1,24 @@
+{
+ "source": "skysports.com",
+ "url": "https://www.skysports.com/football/colombia-vs-ghana/report/549853",
+ "title": "World Cup 2026: Colombia 1-0 Ghana - Jhon Arias' goal sets up last-16 clash with Switzerland in Vancouver",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-07-03",
+  "home": "COL",
+  "away": "GHA",
+  "home_en": "Colombia",
+  "away_en": "Ghana",
+  "home_zh": "哥伦比亚",
+  "away_zh": "加纳",
+  "comp": "r32",
+  "match_id": "M87",
+  "slug": "2026-07-03_COL_vs_GHA"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Colombia reached the last 16 of the World Cup for the third time in their last three appearances at the tournament with a 1-0 win over Ghana. Nestor Lorenzo's side will now face Switzerland in Vancouver on July 7, with a place in the quarter-finals, against either Argentina or Egypt, on the line.   An unwanted piece of history was made early on in Kansas City, with both sides forced into changes after injuries to Colombia's Jhon Cordoba and Ghana's Marvin Senaya. No World Cup match on record had ever seen both teams make substitutions before the 15th minute. That did not disrupt the flow of the game, however, and shortly after the second change Colombia struck. Cordoba's replacement Luis Suarez curled in a cross from the right, which the untracked Jhon Arias - formerly of Wolves - guided home. They should have added to their lead before the break, but Luis Diaz fired just wide after a rapid counter, before Suarez headed past the opposite post and Johan Mojica's header was brilliantly clawed away by Lawrence Ati Zigi. Just before the hour mark, Colombia celebrated a second when Diaz slid in to convert a cross from Crystal Palace's Jefferson Lerma, only for the assistant referee to raise his flag for offside. Diaz, Davinson Sanchez and Juan Fernando Quintero each had further chances to extend the lead, but against a toothless Ghana attack, that slender advantage never looked under threat. The key moments in Kansas City... 1: SHOT! Ghana's Thomas Partey tests the water with a shot from 25 yards that whistles just wide. 8: SUB! Colombia's Jhon Cordoba taken off injured. Luis Suarez replaces him. 13: SUB! Ghana's Marvin Senaya also goes off injured. Alidu Seidu comes on. 14: GOAL! Jhon Arias opens the scoring after being picked out by Suarez's cross. 45+1: SAVE! Crucial stop from Ghana's Lawrence Ati Zigi to claw away Johan Mojica's header. 57: GOAL DISALLOWED! Diaz slides in Jefferson Lerma's cross, but he's flagged offside. Analysis: Colombia need to show more going forward - and Quintero could be key Sky Sports' Dan Long: After Jhon Arias scored what proved to be the winner for Colombia in the first 15 minutes, Nestor Lorenzo's side looked sharp. Ghana's low block had served them well in the group stages, but it seemed the dominant Colombians would have more than enough to put the game to bed. But, despite generating 2.19 xG, the second goal just never arrived. It was not an issue, in the end, as Ghana offered precious little going forward, but against stronger opposition Colombia could be punished for not taking their chances. Lorenzo may well look into bringing in Juan Fernando Quintero to remedy that. The 33-year-old - who plays his club football in Argentina with River Plate - replaced Arias after 72 minutes, but was Colombia's biggest threat. He had 24 touches, did not misplace a single one of his 19 passes and created five chances - the most of any player on the pitch. He almost scored a contender for goal of the tournament, too, but, fortunately for Ghana, his rocket flew wide of the right-hand post. A starting spot in Vancouver could well be in the offing.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

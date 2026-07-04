@@ -316,6 +316,9 @@ _HANDICAP = {
     ("ARG", "CPV"): -2.0,    # 阿根廷 -2(OddsShark 明示 AH ARG -2 -110;ML ARG -1800/-769 巨热88%胜率 vs CPV +1080;卫冕冠军对首入32强)
     ("COL", "GHA"): -1.0,    # 哥伦比亚 -1(SportsGambler AH COL -1.25 -100;FanDuel spread COL -1.5 +130;ML COL -190~-225 强主 vs GHA +600~+750,取整-1)
     ("AUS", "EGY"): +0.25,   # 埃及(客)让0.25(Pinnacle AH EGY -0.25/AUS +0.25;ML EGY +150 微热 / AUS +230 / 平 +190;埃及-140晋级微占优,达拉斯中立场)
+    # —— 7/4 16 强 M89-M90(多源核对 2026-07-04;正值=主队受让) ——
+    ("CAN", "MAR"): +0.5,    # 摩洛哥(客)让0.5(FanDuel ML MAR -120 微热 / CAN +370 / 平 +230;CBS/Oddschecker;摩洛哥小组头名实力略占优,加拿大共主办)
+    ("PAR", "FRA"): +1.5,    # 法国(客)让1.5(SportsGambler/FanDuel spread FRA -1.5;AH Paraguay +2 -111;ML FRA -550 巨热 vs PAR;世界亚军对小组第三)
 }
 
 

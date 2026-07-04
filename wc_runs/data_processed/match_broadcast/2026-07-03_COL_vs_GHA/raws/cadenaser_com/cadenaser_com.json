@@ -1,0 +1,24 @@
+{
+ "source": "cadenaser.com",
+ "url": "https://cadenaser.com/nacional/2026/07/04/colombia-1-0-ghana-resumen-resultado-y-goles-del-partido-de-dieciseisavos-de-final-del-mundial-2026-cadena-ser/",
+ "title": "Colombia 1-0 Ghana: resumen, resultado y goles del partido de dieciseisavos de final del Mundial 2026",
+ "published": "2026-07-04T03:31:48.427Z",
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-07-03",
+  "home": "COL",
+  "away": "GHA",
+  "home_en": "Colombia",
+  "away_en": "Ghana",
+  "home_zh": "哥伦比亚",
+  "away_zh": "加纳",
+  "comp": "r32",
+  "match_id": "M87",
+  "slug": "2026-07-03_COL_vs_GHA"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Colombia vence en un partido pragmático ante la Ghana de Iñaki Williams y ocupa el último lugar disponible en los octavos de final del Mundial 2026. Un solitario gol de Jhon Arias en el minuto 14 fue suficiente para sellar el billete entre los dieciséis mejores del mundo y se enfrentará a Suiza. Los equipos nacionales de Colombia y Ghana se disputaban el último lugar en los octavos de final de la Copa del Mundo 2026. El partido comenzó con la selección de Iñaki Williams sorprendiendo gracias a un lanzamiento lejano de Thomas Partey, que sería la ocasión más clara de toda la primera mitad para los africanos. Fue a partir de este momento cuando los colombianos dieron un paso adelante y, después de un centro raso, llegó el gol de un incombustible Jhon Arias. Arias puso por delante a Colombia en el minuto 14 de partido y la aportación de este extremo a la selección en este Mundial merece mención especial porque le está dando una verticalidad y un ritmo que por el momento no está llegando en las botas de un desacertado Luis Díaz. Arias se ha erigido en este Mundial como uno de los líderes futbolísticos de la selección entrenada por Néstor Lorenzo. No todo fueron buenas noticias porque la peor de todas ellas llegó en forma de lesión del delantero Jhon Durán. En su lugar entró Luis Suárez, que se terminó convirtiendo en la gran figura del partido. Fue él quien en la segunda parte del encuentro pondría un balón preciso a las botas de un Luis Díaz que hizo el segundo del partido, pero se lo anuló el VAR por fuera de juego. Es la tercera vez que le ocurre esto al futbolista del Bayern de Múnich. El partido terminó con la sensación de una Colombia gris que no fue capaz de dar un paso adelante y una selección de Ghana cuya plantilla e idea de juego está hecha para resistir y no para proponer. Colombia 1-0 Ghana. Gol de Jhon Arias (min.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

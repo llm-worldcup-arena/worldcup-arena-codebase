@@ -1,0 +1,16 @@
+{
+ "team": "KOR",
+ "source": "eaff.com",
+ "url": "https://eaff.com/news/8054.html",
+ "title": "EAFF NEWS/COLUMN",
+ "news_date": "2026-07-04",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-07-04",
+ "fetched": "2026-07-04_2015",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "10MA TOPICS! [JAPAN FA][AFC U20 ASIAN CUP] Group D - MD3: Japan 1-1 Korea Republic\n\n10MA TOPICS! [DPR KOREA FA][AFC U20 ASIAN CUP] Group B - MD3: Saudi Arabia 2-1 DPR Korea\n\n10MA TOPICS! [CHINA FA][AFC U20 ASIAN CUP] Group A - MD3: China PR 1-2 Australia\n\n10MA TOPICS! [JAPAN FA][AFC U20 ASIAN CUP] Ozeki: Team spirit helped Japan claim vital point against Syria\n\n10MA TOPICS! [KOREA FA][AFC U20 ASIAN CUP] Lee’s innovativeness pays dividends for Korea Republic\n\n10MA TOPICS! [KOREA FA][AFC U20 ASIAN CUP] Group D - MD2: Thailand 1-4 Korea Republic\n\n10MA TOPICS! [JAPAN FA][AFC U20 ASIAN CUP] Group D - MD2: Syria 2-2 Japan\n\n10MA TOPICS! [DPR KOREA FA][AFC U20 ASIAN CUP] Group B - MD2: DPR Korea 1-2 Jordan",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

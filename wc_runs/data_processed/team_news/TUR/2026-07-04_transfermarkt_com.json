@@ -1,0 +1,16 @@
+{
+ "team": "TUR",
+ "source": "transfermarkt.com",
+ "url": "https://www.transfermarkt.com/turkiye/kader/verein/3381",
+ "title": "Turkiye - Detailed squad 2026 | Transfermarkt",
+ "news_date": "2026-07-04",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-07-04",
+ "fetched": "2026-07-04_2015",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "This page displays a detailed overview of the club's current squad. It shows all personal information about the players, including age, nationality, contract duration and market value. It also contains a table with average age, cumulative market value and average market value for each player position and overall.\n#PlayerAgeClubMarket value\n23\n\nUğurcan Çakır\nGoalkeeper\n30 €15.00m\n12\n\nAltay Bayındır\nGoalkeeper\n28 €5.00m\n1\n\nMert Günok\nGoalkeeper\n37 €500k\n15\n\nOzan Kabak\nCentre-Back\n26 €15.00m\n3\n\nMerih Demiral\nCentre-Back\n28 €12.00m\n14\n\nAbdülkerim Bardakcı\nCentre-Back\n31 €6.50m\n4\n\nÇağlar Söyüncü\nCentre-Back\n30 €3.50m\n25\n\nSamet Akaydin\nCentre-Back\n32 €1.20m\n20\n\nFerdi Kadıoğlu\nLeft-Back\n26 €35.00m\n13\n\nEren Elmalı\nLeft-Back\n25 €5.00m\n2\n\nZeki Çelik\nRight-Back\n29 €14.00m\n18\n\nMert Müldür\nRight-Back\n27 €7.00m\n10\n\nHakan Çalhanoğlu\nDefensive Midfield\n32 €16.00m\n16\n\nİsmail Yüksek\nDefensive Midfield\n27 €15.00m\n5\n\nSalih Özcan\nDefensive Midfield\n28 €3.50m\n22\n\nKaan Ayhan\nDefensive Midfield\n31 €1.50m\n6\n\nOrkun Kökçü\nCentral Midfield\n25 €25.00m\n8\n\nArda Güler\nAttacking Midfield\n21 €90.00m\n26\n\nCan Uzun\nAttacking Midfield\n20 €45.00m\n11\n\nKenan Yıldız\nLeft Winger\n21 €75.00m\n21\n\nBarış Alper Yılmaz\nLeft Winger\n26 €30.00m\n7\n\nKerem Aktürkoğlu\nLeft Winger\n27 €20.00m\n19\n\nYunus Akgün\nRight Winger\n25 €18.00m\n24\n\nOğuz Aydın\nRight Winger\n25 €7.00m\n17\n\nİrfan Can Kahveci\nRight Winger\n30 €3.00m\n9\n\nDeniz Gül\nCentre-Forward\n22 €5.00m\nSquad details by position\nPosition ø-Age Market value ø-Market value\nGoalkeeper 32.0 €20.50m €6.83m\nDefender 28.7 €99.20m €11.02m\nMidfield 26.8 €196.00m €28.00m\nAttack 25.7 €158.00m €22.57m\nTotal: 27.8 €473.70m €18.22m\nRevoke Tracking\nSie haben erfolgreich Ihre Einwilligung in die Nutzung von Transfermarkt mit Tracking und Cookies widerrufen. Sie können sich jetzt zwischen dem Contentpass-Abo und der Nutzung mit personalisierter Werbung, Cookies und Tracking entscheiden.\nRevoke Tracking\nSie haben erfolgreich Ihre Einwilligung in die Nutzung von Transfermarkt mit Tracking und Cookies widerrufen. Sie können sich jetzt zwischen dem Contentpass-Abo und der Nutzung mit personalisierter Werbung, Cookies und Tracking entscheiden.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

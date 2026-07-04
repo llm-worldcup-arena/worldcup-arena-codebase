@@ -1,0 +1,16 @@
+{
+ "team": "MAR",
+ "source": "english.aawsat.com",
+ "url": "https://english.aawsat.com/sports/5282796-morocco-forced-two-injury-changes-ahead-world-cup-opener",
+ "title": "Klopp Confirms Germany Talks and Says he's 'Recharged' Since Leaving Liverpool",
+ "news_date": "2026-07-04",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-07-04",
+ "fetched": "2026-07-04_2015",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Klopp Confirms Germany Talks and Says he's 'Recharged' Since Leaving Liverpool\nMorocco have been hit by the loss of two starters to injury, with Nayef Aguerd and Abde Ezzalzouli replaced in their World Cup squad.\nDefender Marwane Saadane and striker Amine Sbai have been added as replacements, the Moroccan federation and FIFA confirmed, according to Reuters.\nAguerd, 30, has not played since the start of March because of a groin injury, which required surgery. His recovery stalled in April when it was discovered that he had a fracture of his pubic bone.\nMorocco coach Mohamed Ouahabi kept up hope Aguerd would recover in time, but ⁠decided on Thursday ⁠that he would not be ready for this month’s tournament in Canada, Mexico and the United States.\nThe 24-year-old Ezzalzouli was hurt in a freak incident in the weekend’s friendly against Norway in Harrison, New Jersey.\nAs Morocco defended a corner kick, teammate Chadi Riad landed awkwardly on Ezzalzouli's ⁠right knee. Ezzalzouli attempted to continue playing, but soon had to be taken off.\nBoth Aguerd and Ezzalzouli were in the Morocco squad that reached the semi-final of the last World Cup in Qatar, and also the final of the Africa Cup of Nations in Morocco in January.\nAguerd, however, was also injured at the last World Cup in the last-16 tie against Spain and missed their three subsequent games at the tournament.\nSaadane, 34, debuted for Morocco in ⁠2015 but ⁠has been an infrequent squad member since, while 25-year-old Sbai, who plays primarily on the left wing, won a first cap earlier this month in a World Cup warm-up friendly against Burundi.\nBoth Saadane and Sbai were taken to the US as cover and have been training with the squad. Saadane featured in Sunday’s 1-1 draw with Norway as a second half replacement while Sbai was listed among the substitutes.\nMorocco open their Group C campaign at the World Cup against Brazil at the New York/New Jersey Stadium on Saturday.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

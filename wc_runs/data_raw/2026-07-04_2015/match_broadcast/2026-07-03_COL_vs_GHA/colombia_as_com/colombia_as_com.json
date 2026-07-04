@@ -1,0 +1,24 @@
+{
+ "source": "colombia.as.com",
+ "url": "https://colombia.as.com/futbol/mundial/el-sueno-continua-colombia-vence-a-ghana-y-avanza-a-octavos-del-mundial-f202607-n/",
+ "title": "El sueño continúa: Colombia vence a Ghana y avanza a octavos del Mundial",
+ "published": "2026-07-03T22:41:51-05:00",
+ "tier": "2",
+ "lang": "es",
+ "match": {
+  "date": "2026-07-03",
+  "home": "COL",
+  "away": "GHA",
+  "home_en": "Colombia",
+  "away_en": "Ghana",
+  "home_zh": "哥伦比亚",
+  "away_zh": "加纳",
+  "comp": "r32",
+  "match_id": "M87",
+  "slug": "2026-07-03_COL_vs_GHA"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Alegría colombiana para cerrar la inédita fase de dieciseisavos de final de la Copa del Mundo. La Selección Colombia superó por la mínima diferencia a Ghana en el Arrowhead Stadium de Kansas City y se convirtió en el último clasificado a los octavos, fase que alcanza la Tricolor por cuarta vez en su historia. Néstor Lorenzo incluyó dos modificaciones con respecto al XI ante Portugal: el regreso de los dos laterales titulares en lugar de Santiago Arias y Deiver Machado. Pero muy temprano tuvo que quemar su primer cambio, pues Jhon Córdoba sufrió una lesión muscular y le dejó su lugar a Luis Suárez, misma situación que se dio un par de minutos después con Marvin Senaya en Ghana. Para ese momento, los africanos ya habían tenido el primer aviso: James Rodríguez cazó un rebote en el borde del área propia, pero falló en el despeje, la regaló y Thomas Partey estuvo cerca de marcar un golazo de media distancia. Transcurría el minuto 14 de la primera parte cuando Luis Suárez aprovechó los espacios que generó con una finta de pase y se escapó por la derecha, ganó con algo de fortuna ante un defensor y envió el centro para la llegada en solitario por el segundo palo de Jhon Arias, que de primera con el borde interno de su pie derecho la envió al fondo. Jugada similar a la del tercer gol ante Uzbekistán, aquella con el centro del Cucho y el cabezazo de Campaz. Después de romperse el cero, el partido se planchó: Colombia con la posesión ante un rival esperando con bloque bajo y buscando algún contragolpe, lo cual no se dio en la etapa inicial. Por el contrario, la Tricolor tuvo chances para ampliar la ventaja, pero Luis Díaz le erró al arco en su definición con derecha, Suárez cabeceó desviado y Lawrence Ati Zigi metió un manotazo que ahogó el grito de gol de Johan Mojica tras un centro de Daniel Muñoz. El equipo de Carlos Queiroz se adelantó unos metros en el complemento y empezaron a aparecer los espacios. Richard Ríos, que entró para el segundo tiempo en lugar de James, probó a ras de piso desviado y Puerta hizo volar a Zigi para evitar un golazo. Una recuperación de Suárez en campo rival pudo acabar en el segundo de la Tricolor, pero Díaz, que se lanzó para enviarla al fondo, partió adelantado. Banderín arriba y confirmación de la decisión desde el VAR. Y poco después se dio una jugadota colectiva que acabó con Lucho perdiendo un mano a mano ante el portero. Era clarísima. A Davinson Sánchez se le sigue escapando su gol. Contra Portugal fue un fuera de juego milimétrico y esta noche su cabezazo contra el piso, tras el córner de Juan Fernando Quintero, acabó en las manos del portero. El volante también probó de larga distancia y casi la clava en un ángulo. Ríos y Campaz hicieron trabajar a Zigi en el tiempo añadido con un Ghana jugado, pero sin inquietar a Camilo Vargas. Al final fue triunfo por la mínima para adquirir tiquete a Vancouver, donde enfrentará a Suiza el martes 7 de julio (3:00 p.m. de Colombia) por los octavos de final. El sueño continúa. ¡Lleva el deporte contigo! Descarga la App de AS para recibir alertas al instante y configura en MiZona qué quieres leer, sigue a tus equipos y consulta sus partidos. Descárgala aquí. ¿Además buscas licenciar contenido?",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

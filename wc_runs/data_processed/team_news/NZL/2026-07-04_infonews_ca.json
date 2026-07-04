@@ -1,0 +1,16 @@
+{
+ "team": "NZL",
+ "source": "infonews.ca",
+ "url": "https://infonews.ca/news/7706943/injured-matt-garbett-ruled-out-of-new-zealands-world-cup-squad-replaced-by-logan-rogerson/",
+ "title": "Injured Matt Garbett ruled out of New Zealand's World Cup squad, replaced by Logan Rogerson | iNFOnews.ca",
+ "news_date": "2026-07-04",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-07-04",
+ "fetched": "2026-07-04_2015",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Injured Matt Garbett ruled out of New Zealand's World Cup squad, replaced by Logan Rogerson\nNew Zealand forward Matthew Garbett wipes away sweat during the first half of an international friendly soccer match against England Saturday, June 6, 2026, in Tampa, Fla. (AP Photo/Chris O'Meara)\nINGLEWOOD, Calif. (AP) — Midfielder Matt Garbett was ruled out of New Zealand’s squad at the World Cup on Monday, hours before the team’s opening game against Iran.\nNew Zealand Football posted a statement on social media saying Garbett injured his hamstring in practice over the weekend.\n“The whole squad’s thoughts are with Matt at this time and we are gutted he won’t be able to play in the tournament,” New Zealand Football said.\nThe 24-year-old Garbett, who plays for Peterborough in England’s third-tier competition, has played 38 games for New Zealand and scored five goals. He played in New Zealand’s 1-0 friendly loss to England in Florida earlier this month.\nGarbett has been replaced in the 26-man squad by Auckland FC forward Logan Rogerson.\nNew Zealand, playing at the World Cup for the first time since 2010, is in Group G with Iran, Egypt and Belgium.\n___\nAP World Cup: https://apnews.com/fifa-world-cup\nNew Zealand players react after the World Cup Group G soccer match between Iran and New Zealand in Inglewood, Calif., near Los Angeles, Monday, June 15, 2026. (AP Photo/Andre Penner)\nNews from © The Associated Press, 2026. All rights reserved.\nThis material may not be published, broadcast, rewritten or redistributed.\nThe Associated Press is an independent global news organization dedicated to factual reporting. Founded in 1846, AP today remains the most trusted source of fast, accurate, unbiased news in all formats and the essential provider of the technology and services vital to the news business. More than half the world’s population sees AP journalism every day.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

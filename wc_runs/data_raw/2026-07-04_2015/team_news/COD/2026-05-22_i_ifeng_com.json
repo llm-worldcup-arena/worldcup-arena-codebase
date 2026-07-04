@@ -1,0 +1,16 @@
+{
+ "team": "COD",
+ "source": "i.ifeng.com",
+ "url": "https://i.ifeng.com/c/8tKiP7JOeVx",
+ "title": "刚果（金）埃博拉治疗中心 遭纵火抗议 当地知名球员疑感染埃博拉死亡 家属称死于伤寒，要取回遗体",
+ "news_date": "2026-05-22",
+ "published": "2026-05-22 13:24:05",
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-07-04",
+ "fetched": "2026-07-04_2015",
+ "method": "jsonld",
+ "status": "blocked",
+ "original_text": "",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

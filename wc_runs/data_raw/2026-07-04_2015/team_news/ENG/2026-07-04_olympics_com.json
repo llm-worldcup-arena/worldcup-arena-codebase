@@ -1,0 +1,16 @@
+{
+ "team": "ENG",
+ "source": "olympics.com",
+ "url": "https://www.olympics.com/en/news/fifa-world-cup-2026-england-players-squad-list-key-stats-schedule",
+ "title": "FIFA World Cup 2026: England leave out Cole Palmer and Phil Foden - All players, full squad list, key stats and schedule",
+ "news_date": "2026-07-04",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-07-04",
+ "fetched": "2026-07-04_2015",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "FIFA World Cup 2026: England leave out Cole Palmer and Phil Foden\nQuick facts\nCaptain: Harry Kane\nManager: Thomas Tuchel\nWorld Cup appearances (including 2026): 17\nBest World Cup result: Winners (1966)\nFIFA World Cup 2026 – England’s full squad\nGoalkeepers: Jordan Pickford (Everton), Dean Henderson (Crystal Palace), James Trafford (Manchester City)\nDefenders: Reece James (Chelsea), Trevoh Chalobah (Chelsea) (Replaced Tino Livramento (Newcastle) on 16 June), Marc Guéhi (Manchester City), Ezri Konsa (Aston Villa), John Stones (Manchester City), Jarell Quansah (Bayer Leverkusen), Nico O’Reilly (Manchester City), Dan Burn (Newcastle), Djed Spence (Tottenham Hotspur)\nMidfielders: Declan Rice (Arsenal), Elliot Anderson (Nottingham Forest), Jude Bellingham (Real Madrid), Jordan Henderson (Brentford), Morgan Rogers (Aston Villa), Kobbie Mainoo (Manchester United), Eberechi Eze (Arsenal)\nForwards: Harry Kane (Bayern Munich), Ivan Toney (Al-Ahli), Ollie Watkins (Aston Villa), Bukayo Saka (Arsenal), Noni Madueke (Arsenal), Marcus Rashford (Barcelona), Anthony Gordon (Newcastle)",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

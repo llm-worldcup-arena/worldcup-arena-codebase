@@ -1,0 +1,24 @@
+{
+ "source": "marca.com",
+ "url": "https://www.marca.com/futbol/mundial/cronica/2026/07/04/prorroga-salva-argentina-milagro-mundial-cabo-verde.html",
+ "title": "La prórroga salva a Argentina de un",
+ "published": "2026-07-04T00:44:58Z",
+ "tier": "2",
+ "lang": "es",
+ "match": {
+  "date": "2026-07-03",
+  "home": "ARG",
+  "away": "CPV",
+  "home_en": "Argentina",
+  "away_en": "Cape Verde",
+  "home_zh": "阿根廷",
+  "away_zh": "佛得角",
+  "comp": "r32",
+  "match_id": "M86",
+  "slug": "2026-07-03_ARG_vs_CPV"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Un gol del 'Cuti' Romero en el minuto 111 (o de Diney en propia puerta) salvó a la vigente campeona del mundo de un fiasco Mundial en Miami. Una prórroga que pasará a la historia, pese al triunfo albiceleste, por lo que pudo ser, que ya es mucho, pues hablamos de la número 1 del ránking FIFA y la 67, Cabo Verde. Un serio aviso para una Argentina que, evidentemente, se lo merecía (el triunfo) pero que tendrá que revisar algunas cosas si quiere el bicampeonato, entre ellas, recuperar o refrescar físicamente a un equipo al que se vio falto de ideas y con algunos jugadores que salieron 'tocados'. Un 3-2 sufrido, con tres goles en la prórroga, y con algunas atajadas del 'Dibu' Martínez que salvaron a los suyos del 3-3 y los penaltis, que hubieran hecho infartar a más de uno, tanto a favor como en contra de Argentina. La primera parte fue sosa, con pocas ocasiones, con un Cabo Verde bien plantado en un 1-4-5-1 en defensa que permitía pocos espacios para la Albiceleste. Ésta, sin embargo, no desesperaba y aguardaba pacientemente. Y llegó el minuto 29'. Un balón milimétrico de Lisandro Martínez -magnífico lanzador- que sólo podía ser bajado y rematado casi al unísono por un genio. Y ése es Leo Messi (tercer MVP en cuatro partidos). Un control de otro planeta y una definición para el 1-0 que hacía romper sus propios records: gol 20 en los Mundiales; partido 30; ocho partidos seguidos marcando en Copas del Mundo (12 goles en ese período)... Leo no tiene fin... camino a un bicampeonato que aún es posible. Y poco más hubo de una primera parte en la Argentina apostó por el once tipo que Scaloni ya considera como titular. La defensa, con un 'Cuti' ya recuperado, estaba firme. Los tres grandes del medio también (De Paul-Mac-Enzo)... y arriba, lo de siempre: Leo Messi (LM). La segunda parte empezó apática, con algún dominio caboverdiano y con el ímpetu albiceleste algo apagado, como la grada. El ritmo lo alteraba alguna excentricidad de Vozinha (el meta africano de 40 años); una parada del 'Dibu' que se llevó un 'uuuy' en la grada; y alguna cosita más. Pero esto es un Mundial, ¡papá!... y aquí no hay rival fácil. Por eso, el fútbol, en un error de marca de Enzo, le dio una 'chance' a Cabo Verde con el gol de D. Duarte. Un gol que ponía el 1-1 y retumbaba en el mundo entero. ¡Boooomm! Y a partir de ahí vino el sufrimiento argentino, en la cancha, en la grada... y en el país. El 'show' de Vozinha, con buenas intervenciones, hacía presagiar unos minutos de dolor inesperado a la Albiceleste. Nadie lo auguraba. Hubo un posible penalti por manos de Lopes (para mí, fue penalti claro aunque viniera de un rebote de la cabeza del defensor), y aquí acabó la esperanza argentino de no ir a la prórroga tras varias faltas erradas por LM. ¡Esto es un Mundial, papá! Y nos fuimos a la prórroga. Y ahí vino el gol, nada más empezar, de Lisandro Martínez (asistencia y gol). El golazo de 'Licha' aclaraba el panorama... hasta que llegó la joya Mundial que nos regaló Lopes Cabral con, quizá, el mejor gol del Mundial por ahora. Un pepinazo a la escuadra (2-2) que le hizo volverse loco y hasta se fue a darle un beso a su chica en la grada. Y luego, el relatado 3-2 del 'Cuti', con desvío del defensa incluido... y el sufrimiento argentino (sí, argentino) hasta el final.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

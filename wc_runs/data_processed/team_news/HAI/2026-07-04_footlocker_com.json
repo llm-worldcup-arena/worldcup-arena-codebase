@@ -1,0 +1,16 @@
+{
+ "team": "HAI",
+ "source": "footlocker.com",
+ "url": "https://www.footlocker.com/search?q=5%2B%EB%85%B8%EC%9B%90%EB%B8%8C%EC%95%A1%28%40zoro840%29%EB%B6%80%EC%82%B0%EC%BA%94%EB%94%94%EC%B6%98%EC%B2%9C%EB%B8%8C%EC%95%A1%EF%BC%8E%EA%B2%BD%EA%B8%B0%EB%B8%8C%EC%95%A1%EA%8D%86%EA%B0%95%EB%82%A8%EB%B8%8C%EC%95%A1%EC%8B%A0%EC%82%AC%EB%8F%99%EC%BA%94%EB%94%94%E2%95%A1%EC%84%9C%EB%A9%B4%EB%B8%8C%EC%95%A1%EC%84%9C%EC%9A%B8%EB%B8%8C%EC%95%A1%E3%8D%9B.tpx%3Arelevance%3AprimaryColor%3ABrown&currentPage=1&srsltid=AfmBOooh9u1wKJN1wBLHHR9vMoArrxyCpPVFQdRugqDjkH6TA7gv6EpC",
+ "title": "Foot Locker",
+ "news_date": "2026-07-04",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-07-04",
+ "fetched": "2026-07-04_2015",
+ "method": "jsonld",
+ "status": "blocked",
+ "original_text": "",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

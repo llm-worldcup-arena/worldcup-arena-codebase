@@ -1,0 +1,24 @@
+{
+ "source": "newswav.com",
+ "url": "https://newswav.com/article/fifa-world-cup-2026-switzerland-cruise-past-algeria-to-enter-round-of-16-A2607_PNxPcz",
+ "title": "FIFA World Cup 2026: Switzerland cruise past Algeria to enter Round of 16",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-07-02",
+  "home": "SUI",
+  "away": "ALG",
+  "home_en": "Switzerland",
+  "away_en": "Algeria",
+  "home_zh": "瑞士",
+  "away_zh": "阿尔及利亚",
+  "comp": "r32",
+  "match_id": "M85",
+  "slug": "2026-07-02_SUI_vs_ALG"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Vancouver [Switzerland], July 3 (ANI): Switzerland secured a place in the FIFA World Cup 2026 Round of 16 with a commanding 2-0 victory over Algeria on Thursday (local time), displaying a clinical performance in the Round of 32 knockout clash.Breel Embolo of Switzerland was named Player of the Match for his impressive performance.Breel Embolo opened the scoring early in the 10th minute, finishing off a brilliant move initiated by Johan Manzambi. The winger produced a dazzling solo run down the left flank before reaching the byline and delivering a pinpoint cross, which Embolo converted from close range.Holding a 1-0 lead at half-time, Switzerland doubled their advantage immediately after the restart when Dan Ndoye struck in the 46th minute. The goal came after a defensive clearance fell kindly to him outside the box, allowing him to fire a low effort into the net.Algeria, led by Riyad Mahrez, attempted to mount a comeback but failed to break through the disciplined Swiss defence. Switzerland also came close to adding a third late on, though Fabian Rieder missed a gilt-edged opportunity.Despite the missed chance, the Swiss side comfortably saw out the match, registering a 2-0 win and booking their place in the Round of 16.The victory also marked Switzerland’s first World Cup knockout win since 1938, ending a long-standing wait in style.Switzerland will remain in Vancouver, where they will next take on either Colombia or Ghana on 7 July. According to the FIFA Website, Switzerland have now won three successive fixtures at the World Cup for the first time, with this victory following group-stage triumphs over Bosnia and Herzegovina and Canada. (ANI)(This content is sourced from a syndicated feed and is published as received. The Tribune assumes no responsibility or liability for its accuracy, completeness, or content.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

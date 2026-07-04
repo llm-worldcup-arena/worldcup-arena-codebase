@@ -1,0 +1,16 @@
+{
+ "team": "GHA",
+ "source": "english.news.cn",
+ "url": "https://english.news.cn/africa/20260109/b8fe246ac891401987223677514c2c67/c.html",
+ "title": "Ghanaian football fans express worry over injury of top stars ahead of FIFA World Cup",
+ "news_date": "2026-01-09",
+ "published": "2026-01-09",
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-07-04",
+ "fetched": "2026-07-04_2015",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "ACCRA, Jan. 9 (Xinhua) -- Football fans in Ghana on Friday expressed worry over the injuries of two top stars of the country's male senior national team, ahead of the 2026 FIFA World Cup to be held in the United States, Canada, and Mexico.\n\nMohammed Salisu and Mohammed Kudus who play their trade for AS Monaco in the French Ligue 1 and Tottenham Hotspurs in the Premier League respectively are currently injured, a situation could potentially affect the fortunes of the Black Stars in the World Cup.\n\n46-year-old Theophilus Atseku, a physical education instructor in an educational institution in the eastern port city of Tema observed that the Black Stars defense and midfield have been broken with the injury of the two players.\n\n\"Kudus is our topmost star in the team, and Salisu is the kingpin of our defense. With the two absent, it is going to affect the team, I'm expecting the coach to look for worthy replacements ahead of the World Cup,\" said Atseku.\n\nFor 48-year-old Henry Djangbah, a football fan, the injuries of the two is a major blow as Ghana will be up against top teams in the group stage of the World Cup.\n\n\"I am scared for our country because we are going to the World Cup with two key players on our injury list. We are told Salisu will miss the tournament; this is indeed a big blow. Even though Kudus is set to return, it is still scary for us,\" said Djangbah.\n\nGhana will make its fifth appearance at the World Cup and has been drawn into Group L which also includes Panama, England, and Croatia in the upcoming FIFA tournament.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

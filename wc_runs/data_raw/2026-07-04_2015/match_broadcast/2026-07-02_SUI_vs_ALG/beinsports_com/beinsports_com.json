@@ -1,0 +1,24 @@
+{
+ "source": "beinsports.com",
+ "url": "https://www.beinsports.com/en-mena/football/fifa-world-cup-2026/articles-video/switzerland-vs-algeria-latest-2026-07-03",
+ "title": "Switzerland beat Algeria to book World Cup last-16 place",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-07-02",
+  "home": "SUI",
+  "away": "ALG",
+  "home_en": "Switzerland",
+  "away_en": "Algeria",
+  "home_zh": "瑞士",
+  "away_zh": "阿尔及利亚",
+  "comp": "r32",
+  "match_id": "M85",
+  "slug": "2026-07-02_SUI_vs_ALG"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "The Swiss were in control for much of the contest and will now face either Colombia or Ghana for a place in the quarter-finals.\n\nJohan Manzambi proved the catalyst for the opening goal, bursting down the left flank before delivering a low cross that Breel Embolo converted from close range to hand Switzerland a deserved first-half lead.\n\nAlgeria searched for a way back after the interval, but Switzerland remained compact at the back and continued to threaten on the counter.\n\nDan Ndoye wrapped up the victory late on, drilling a low effort through a crowded penalty area that slipped beyond goalkeeper Luca Zidane despite the Algerian keeper getting a hand to the ball.\n\nThe defeat brings Algeria's World Cup campaign to an end after a spirited run to the knockout rounds, while Switzerland march on to the last 16 with another assured display.\n\nMurat Yakin's side will now turn their attention to a meeting with either Colombia or Ghana as they bid to continue their progress in North America.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

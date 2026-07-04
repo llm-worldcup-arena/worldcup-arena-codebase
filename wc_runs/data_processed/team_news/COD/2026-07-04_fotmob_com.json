@@ -1,0 +1,16 @@
+{
+ "team": "COD",
+ "source": "fotmob.com",
+ "url": "https://www.fotmob.com/teams/6321/squad/dr-congo",
+ "title": "DR Congo - squad, coach, injuries and positions",
+ "news_date": "2026-07-04",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-07-04",
+ "fetched": "2026-07-04_2015",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "GK Standard Liege 21 6'0\" $7.5M\nAaron Wan-Bissaka\nRB, RWB, RM West Ham United 2 28 6'0\" $25M\nGédéon Kalulu\nRB, RM Aris Limassol 24 28 5'9\" $790K\nSteve Kapuadi\nCB, LB Widzew Łódź 3 28 6'5\" $1.6M\nAxel Tuanzebe\nCB Burnley 4 28 6'0\" $3.2M\nDylan Batubinsika\nCB AE Larissa 5 30 6'1\" $200K\nChancel Mbemba\nCB Lille 22 31 6'0\" $1.7M\nJoris Kayembe Ditu\nLB, CB Genk 12 31 5'11\" $1.6M\nArthur Masuaku\nLB, CB, LWB Sunderland 26 32 5'10\" $1.5M\nSamuel Moutoussamy\nDM, CM Atromitos 8 29 5'9\" $650K\nAaron Tshibola\nDM, CM Kilmarnock 15 31 6'3\" $99K\nNoah Sadiki\nCM, DM, AM Sunderland 14 21 5'8\" $39M\nCharles Pickel\nCM, DM, AM Espanyol 18 29 6'2\" $1.5M\nEdo Kayembe\nCM, ST, AM, DM Watford 25 28 6'0\" $2.4M\nNgal Ayel Mukau\nRW, CM, DM, AM Lille 6 21 6'2\" $16M\nThéo Bongonda\nRW Spartak Moscow 10 30 5'10\" $2M\nMeschack Elia\nRW, AM, LW Alanyaspor 13 28 5'8\" $1.1M\nBrian Cipenga\nLW, LM, RM, CM Almeria 9 28 5'7\" $610K\nNathanaël Mbuku\nLW, AM, RW, RM, LM Augsburg 7 24 5'7\" $1.7M\nGaël Kakuta\nST, AM, RW AE Larissa 11 35 5'8\" $430K\nCédric Bakambu\nST Real Betis 17 35 6'0\" $1.2M\nFiston Mayele\nST Pyramids FC 19 32 6'1\" $1.2M\nYoane Wissa\nST, LW Newcastle United 20 29 5'9\" $29M\nSimon Banza\nST Al-Jazira 23 29 6'2\" $12M\nCoachAge\nKeepersShirtAge\nDefendersShirtAge\nMidfieldersShirtAge\nForwardsShirtAge",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

@@ -1,0 +1,24 @@
+{
+ "source": "theguardian.com",
+ "url": "https://www.theguardian.com/football/2026/jul/04/cape-verde-argentina-world-cup-last-32-reaction-quotes",
+ "title": "Cape Verde exit World Cup with heads held high: ‘We did our best and we did it with bravery’",
+ "published": "2026-07-04T04:19:33.000Z",
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-07-03",
+  "home": "ARG",
+  "away": "CPV",
+  "home_en": "Argentina",
+  "away_en": "Cape Verde",
+  "home_zh": "阿根廷",
+  "away_zh": "佛得角",
+  "comp": "r32",
+  "match_id": "M86",
+  "slug": "2026-07-03_ARG_vs_CPV"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Lionel Messi and Argentina will move on to Atlanta and a last-16 tie against Egypt next week after a thrilling 3-2 victory against Cape Verde, but this was still a wonderful night for the tiny archipelago nation, whose players left Miami Stadium having created their own moment of sporting history.\n\n“First things, the pride I feel in my players and what they did, they did it with dignity and courage,” Bubista, the Capo Verde coach, said after his team had been edged out in extra time by Diney Borges’s own goal .\n\n“We have to be aware that we did work that will stay in the [history] books and we made history for our country. Also for countries like ours that struggle to qualify for the World Cup , we showed that if they work with great character and focus on the goal they want, it may take time but they will be able to get there.”\n\nCape Verde’s players are drawn almost entirely from the nation’s diaspora population and play largely in second tier leagues around Europe. But they twice equalised in Miami and were the stronger team at the end as the world champions held on.\n\n“The feeling in the dressing room is sadness,” Bubista said. “We are sad because we are leaving the competition and also because we got so close, so close, but I think they must be proud of their performance and of representing our country. It shows the team has a soul.\n\n“We did our best and we did it with bravery. Never did we fail to stay true to our identity, which is why I am so proud of what my players did.\n\n“More so than just playing, this was about showing the world our identity. For as long as we were here we wanted to play against the best in the world. We wanted to show fair play. We wanted to exist on a level playing field. We are inexperienced in this tournament and often experience pays.\n\n“I’d like to thank our people, I’d like to say thank you to our fans for all their affection and love. It has been a source of great pride to show how we are as a country to the entire world.”\n\nFor Lionel Scaloni there were some testy exchanges with journalists at the end of his 100th game as coach, as Scaloni attempted to put a gloss on a performance that ebbed away after Messi had given his team the lead.\n\n“Today we proved that we have character,” Scaloni said. “Everyone thought this match was going to be a walk in the park. We were sure it wasn’t going to be like that.\n\n“This is Argentina and nothing is easy in this country. We are born here trust me, the jersey is not the same as for other countries. Some people might think we are arrogant, but I can assure you, this is not the same when you have bad results. You must have character as you have 47 million people rooting for you and you need courage to bounce back from that.\n\n“This team has it. We suffered a very difficult game, we are still here but it won’t be easy, this is a very difficult World Cup. I hope the fans can have a drink now to relax for a bit.”\n\nOf his milestone game Scaloni added: “This was the most important one for me as a coach, because we are at a World Cup and many things happened in the game. We need to get some rest now. We had six days before, and we have three and a half days now. When you need rest the most is when you least have it.”",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

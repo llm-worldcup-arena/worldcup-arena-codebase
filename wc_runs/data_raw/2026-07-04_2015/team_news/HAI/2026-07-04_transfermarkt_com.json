@@ -1,0 +1,16 @@
+{
+ "team": "HAI",
+ "source": "transfermarkt.com",
+ "url": "https://www.transfermarkt.com/haiti/kader/verein/14161",
+ "title": "Haiti - Detailed squad 2026 | Transfermarkt",
+ "news_date": "2026-07-04",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-07-04",
+ "fetched": "2026-07-04_2015",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "This page displays a detailed overview of the club's current squad. It shows all personal information about the players, including age, nationality, contract duration and market value. It also contains a table with average age, cumulative market value and average market value for each player position and overall.\n#PlayerAgeClubMarket value\n12\n\nAlexandre Pierre\nGoalkeeper\n25 €700k\n1\n\nJohny Placide\nGoalkeeper\n38 €150k\n23\n\nJosué Duverger\nGoalkeeper\n26 -\n5\n\nHannes Delcroix\nCentre-Back\n27 €2.00m\n22\n\nJean-Kévin Duverne\nCentre-Back\n28 €2.00m\n4\n\nRicardo Adé\nCentre-Back\n36 €300k\n6\n\nGarven Metusala\nCentre-Back\n26 €200k\n3\n\nKeeto Thermoncy\nCentre-Back\n20 €100k\n8\n\nMartin Expérience\nLeft-Back\n27 €350k\n13\n\nDuke Lacroix\nLeft-Back\n32 €125k\n2\n\nCarlens Arcus\nRight-Back\n30 €1.80m\n24\n\nWilguens Paugain\nRight-Back\n24 €800k\n17\n\nDanley Jean Jacques\nDefensive Midfield\n26 €3.00m\n25\n\nDominique Simon\nDefensive Midfield\n25 €200k\n6\n\nCarl Sainté\nDefensive Midfield\n23 €125k\n26\n\nWoodensky Pierre\nDefensive Midfield\n21 €100k\n10\n\nJean-Ricner Bellegarde\nCentral Midfield\n28 €16.00m\n7\n\nDerrick Etienne Jr.\nLeft Winger\n29 €800k\n15\n\nRuben Providence\nLeft Winger\n24 €300k\n21\n\nJosué Casimir\nRight Winger\n24 €3.00m\n11\n\nLouicius Deedson\nRight Winger\n25 €1.20m\n18\n\nWilson Isidor\nCentre-Forward\n25 €18.00m\n16\n\nLenny Joseph\nCentre-Forward\n25 €2.00m\n20\n\nFrantzdy Pierrot\nCentre-Forward\n31 €1.50m\n9\n\nDuckens Nazon\nCentre-Forward\n32 €800k\n19\n\nYassin Fortuné\nCentre-Forward\n27 €300k\nSquad details by position\nPosition ø-Age Market value ø-Market value\nGoalkeeper 30.0 €850k €283k\nDefender 28.3 €7.68m €853k\nMidfield 25.1 €19.43m €3.89m\nAttack 27.5 €27.90m €3.10m\nTotal: 27.6 €55.85m €2.15m\nRevoke Tracking\nSie haben erfolgreich Ihre Einwilligung in die Nutzung von Transfermarkt mit Tracking und Cookies widerrufen. Sie können sich jetzt zwischen dem Contentpass-Abo und der Nutzung mit personalisierter Werbung, Cookies und Tracking entscheiden.\nRevoke Tracking\nSie haben erfolgreich Ihre Einwilligung in die Nutzung von Transfermarkt mit Tracking und Cookies widerrufen. Sie können sich jetzt zwischen dem Contentpass-Abo und der Nutzung mit personalisierter Werbung, Cookies und Tracking entscheiden.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

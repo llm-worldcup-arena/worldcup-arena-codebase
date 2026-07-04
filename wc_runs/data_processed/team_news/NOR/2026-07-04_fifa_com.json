@@ -1,0 +1,16 @@
+{
+ "team": "NOR",
+ "source": "fifa.com",
+ "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams/norway/team-news",
+ "title": "Norway | Squad, Fixtures & News | FIFA World Cup 2026™",
+ "news_date": "2026-07-04",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-07-04",
+ "fetched": "2026-07-04_2015",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "35.69\nkm\nTotal Distance RanTotal Distance Ran\nFredrikFredrik\nAURSNESAURSNES\n7.12\nkm/h\nAverage SpeedAverage Speed\nMartinMartin\nODEGAARDODEGAARD\n180\nMost SprintsMost Sprints\nOrjanOrjan\nNYLANDNYLAND\n89\nMost Attempted Line BreaksMost Attempted Line Breaks\nOrjanOrjan\nNYLANDNYLAND\n54\nMost Completed Line BreaksMost Completed Line Breaks\nMartinMartin\nODEGAARDODEGAARD\n171\nMost Offers To ReceiveMost Offers To Receive\nMartinMartin\nODEGAARDODEGAARD\n55\nMost Receptions Between Midfield and Defensive LineMost Receptions Between Midfield and Defensive Line\nMartinMartin\nODEGAARDODEGAARD\n123\nMost Pressing AppliedMost Pressing Applied\nVideoVideo",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

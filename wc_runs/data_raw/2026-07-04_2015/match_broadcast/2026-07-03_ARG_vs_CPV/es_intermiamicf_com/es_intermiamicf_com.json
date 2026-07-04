@@ -1,0 +1,24 @@
+{
+ "source": "es.intermiamicf.com",
+ "url": "https://es.intermiamicf.com/noticias/cronica-argentina-con-messi-y-de-paul-avanza-a-los-octavos-de-final-de-la-copa-mundial-de-la-fifa-2026tm",
+ "title": "CRÓNICA: Argentina, con Messi y De Paul, avanza a los octavos de final de la Copa Mundial de la FIFA 2026™ | Inter Miami CF",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-07-03",
+  "home": "ARG",
+  "away": "CPV",
+  "home_en": "Argentina",
+  "away_en": "Cape Verde",
+  "home_zh": "阿根廷",
+  "away_zh": "佛得角",
+  "comp": "r32",
+  "match_id": "M86",
+  "slug": "2026-07-03_ARG_vs_CPV"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Argentina continuó su campaña en la fase eliminatoriala de Copa Mundial de la FIFA 2026™, con una emocionante victoria por 3-2 sobre Cabo Verde para avanzar a los octavos de final. El capitán de Inter Miami CF , Leo Messi, anotó el primer gol de Argentina en el partido, mientras que el mediocampista Rodrigo De Paul también formó parte del once inicial.\n\nCabe destacar que Messi alcanzó los 30 partidos en la competencia, convirtiéndose en el único jugador en la historia de la Copa Mundial de la FIFA en alcanzar dicha cifra. Además, hizo historia con su gol de esta noche, convirtiéndose en el primer jugador en la historia en marcar en ocho partidos consecutivos de la Copa Mundial de la FIFA.\n\nLos vigentes campeones del mundo saltaron al terreno de juego con Emiliano Martínez en la portería; Nahuel Molina, Crisitian Romero, Lisandro Martínez y Facundo Medina formaron la línea de cuatro en defensa; De Paul, Alexis Mac Allister, Enzo Fernández y Thiago Almada fueron titulares en el mediocampo; el capitán Messi y Lautaro Martínez lideraron el ataque.\n\nLos primeros minutos presentaron un partido igualado, con ambos equipos buscando el gol de la apertura. Messi finalmente rompió el cerrojo para poner a Argentina en ventaja al minuto 29, controlando magistralmente un balón largo de Lisandro Martínez dentro del área antes de marcar con una sublime definición con zurda. Con este gol, Messi alcanzó los 20 goles en Copas Mundiales, ampliando su ventaja como máximo goleador en la historia del torneo, y siete en esta edición, continuando así liderando la tabla de goleadores. Además, se convirtió en el primer jugador en la historia en marcar en ocho partidos consecutivos de la Copa Mundial de la FIFA.\n\nEn la segunda mitad, Cabo Verde empató en el minuto 59 por medio de un gol de Deroy Duarte.\n\nArgentina presionó en busca del gol de la victoria, con Messi a punto de anotar con un remate desde dentro del área en el minuto 62 y con un tiro libre en el minuto 72, pero no pudo adelantarse y el ganador se definió en la prórroga.\n\nLos campeones defensores recuperaron la ventaja al inicio del primer tiempo extra tras un saque de esquina al área, con Lisandro Martínez mandando la pelota al fondo de la red con un potente disparo con pierna izquierda desde el sector derecho del área en el minuto 92.\n\nCabo Verde nuevamente emparejó las acciones antes del final de la primera parte de la prórroga, con un gol de Sidny Lopes Cabral en el minuto 103.\n\nArgentina volvió a ponerse por delante en el marcador en la segunda parte de la prórroga gracias a un autogol de Diney Borges de Cabo Verde al minuto 111.\n\nEl marcador por 3-2 se mantuvo sin cambios hasta el pitazo final, y la Albiceleste se quedó con la victoria para clasificar a los octavos de final.\n\nA continuación, Argentina se medirá a Egipto en los octavos de final el martes 7 de julio a las 12:00 p.m. ET en el Atlanta Stadium.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

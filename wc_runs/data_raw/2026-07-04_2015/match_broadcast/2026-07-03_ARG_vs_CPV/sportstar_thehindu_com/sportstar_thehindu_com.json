@@ -1,0 +1,24 @@
+{
+ "source": "sportstar.thehindu.com",
+ "url": "https://sportstar.thehindu.com/football/fifa-world-cup/argentina-vs-cape-verde-live-score-fifa-world-cup-2026-round-of-32-updates-lionel-messi-goal-highlights/article71180366.ece",
+ "title": "Argentina vs Cape Verde Highlights, FIFA World Cup 2026— Messi and Co. win 3-2 to enter round of 16",
+ "published": "2026-07-04T01:54:56+05:30",
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-07-03",
+  "home": "ARG",
+  "away": "CPV",
+  "home_en": "Argentina",
+  "away_en": "Cape Verde",
+  "home_zh": "阿根廷",
+  "away_zh": "佛得角",
+  "comp": "r32",
+  "match_id": "M86",
+  "slug": "2026-07-03_ARG_vs_CPV"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Welcome to Sportstar’s highlights of the FIFA World Cup 2026 round of 32 match between Argentina and Cabo Verde, also known as Cape Verde, which was played at the Miami Stadium in Florida on Friday.Lionel Messi continued his goalscoring streak in Miami with another goal in the FIFA World Cup 2026 - one that temporarily kept his team ahead before Deroy Duarte equalised for Cape Verde. The match continued to be a rollercoaster of an affair until an own goal saw the Albiceleste have the last laugh.Full-time score:Argentina 3 (L. Messi 28’, L. Martinez 92’, D. Borges [OG] 111’) beat Cape Verde 2 (D. Duarte 59’, S. Cabral 103’) [A.E.T]ARG vs CPV Highlights:29’ Goal! | Lionel Messi got a brilliant long ball from the midfield from Lisandro Martinez. Messi received it and then with his second touch off his left foot, found the net from a narrow angle. 45’ Save! | Alexis Mac Allister threaded in a pass for Messi at the edge of the box. Cape Verde blocked Messi, but Enzo Fernandez tried a shot - which remained on target - prompting a save by Vozinha.59’ Goal! | Ryan Mendes carried the ball into the final third, and crossed past Facundo Medina from the right to Deroy Duarte, who shot through Emi Martinez’s legs to equalise.92’ Goal! | Lionel Messi took the corner kick, which, after a header from a penalty-box melee, fell for Lisandro Martinez, who rattled the net with a brilliant strike.103’ Goal! | Sidny Lopes Cabral took the ball along the left flank and curled in with his right foot and it went in. What a strike!111’ Goal! Lionel Messi took the corner, and the ball kissed the net after a Cristian Romero header, which had then taken a major deflection off Diney Borges.ARG vs CPV 3Match overview:Kick-off time: 6 pm local time, June 3 (3:30 am IST, June 4)Venue: Hard Rock Stadium (Miami Stadium), MiamiReferee: Drew Fischer",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

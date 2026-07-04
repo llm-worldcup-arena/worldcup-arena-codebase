@@ -1,0 +1,16 @@
+{
+ "team": "KOR",
+ "source": "espn.com",
+ "url": "https://www.espn.com/soccer/team/results/_/id/3/arg.argentinos_juniors",
+ "title": "Argentinos Juniors 2026 Results - ESPN",
+ "news_date": "2026-07-04",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-07-04",
+ "fetched": "2026-07-04_2015",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "0 - 12nd Leg · Tied 1-1 on aggregate · Barcelona SC wins 5-4 on Penalty Kicks\nBarcelona SC\nFT-Pens CONMEBOL Libertadores\nWed, Feb 18\n\nBarcelona SC\n0 - 11st Leg\nArgentinos Juniors\nFT CONMEBOL Libertadores\nThu, Feb 12\n\nArgentinos Juniors\n1 - 0\nRiver Plate\nFT Argentine Liga Profesional de Fútbol\nSat, Feb 7\n\nRacing Club\n2 - 1\nArgentinos Juniors\nFT Argentine Liga Profesional de Fútbol\nMon, Feb 2\n\nArgentinos Juniors\n0 - 0\nBelgrano (Córdoba)\nFT Argentine Liga Profesional de Fútbol\nJanuary, 2026\nDATEMATCHRESULTCOMPETITION\nThu, Jan 29\n\nEstudiantes de Río Cuarto\n0 - 0\nArgentinos Juniors\nFT Argentine Liga Profesional de Fútbol\nSun, Jan 25\n\nArgentinos Juniors\n1 - 0\nSarmiento (Junín)\nFT Argentine Liga Profesional de Fútbol\nWed, Jan 21\n\nArgentinos Juniors\n1 - 1Midland wins 6-5 on Penalty Kicks\nMidland\nFT-Pens Copa Argentina",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

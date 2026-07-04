@@ -1,0 +1,16 @@
+{
+ "team": "COL",
+ "source": "transfermarkt.com",
+ "url": "https://www.transfermarkt.com/colombia/kader/verein/3816/saison_id/2026/plus/1",
+ "title": "Colombia - Detailed squad 2026 (Detailed view) | Transfermarkt",
+ "news_date": "2026-07-04",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-07-04",
+ "fetched": "2026-07-04_2015",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "This page displays a detailed overview of the club's current squad. It shows all personal information about the players, including age, nationality, contract duration and market value. It also contains a table with average age, cumulative market value and average market value for each player position and overall.\n#PlayerDate of birth/AgeClubHeightFootInternational matchesGoalsDebutMarket value\n24\n\nÁlvaro Montero\nGoalkeeper\n29/03/1995 (31) 2,01m right 11 - 04/06/2019 €2.50m\n12\n\nCamilo Vargas\nGoalkeeper\n09/03/1989 (37) 1,83m left 46 - 11/10/2014 €450k\n1\n\nDavid Ospina\nGoalkeeper\n31/08/1988 (37) 1,83m right 131 - 07/02/2007 €100k\n3\n\nJhon Lucumí\nCentre-Back\n26/06/1998 (28) 1,87m left 41 1 04/06/2019 €22.00m\n23\n\nDavinson Sánchez\nCentre-Back\n12/06/1996 (30) 1,88m right 83 4 16/11/2016 €16.00m\n18\n\nWiller Ditta\nCentre-Back\n23/01/1998 (28) 1,79m right 5 - 18/10/2023 €5.50m\n13\n\nYerry Mina\nCentre-Back\n23/09/1994 (31) 1,95m right 54 8 08/06/2016 €2.50m\n22\n\nDeiver Machado\nLeft-Back\n02/09/1993 (32) 1,73m left 16 - 12/09/2018 €1.80m\n17\n\nJohan Mojica\nLeft-Back\n21/08/1992 (33) 1,84m left 48 1 26/03/2015 €1.50m\n2\n\nDaniel Muñoz\nRight-Back\n26/05/1996 (30) 1,80m right 50 5 04/06/2021 €22.00m\n4\n\nSantiago Arias\nRight-Back\n13/01/1992 (34) 1,77m right 69 - 16/10/2013 €1.20m\n6\n\nRichard Ríos\nDefensive Midfield\n02/06/2000 (26) 1,85m right 36 2 12/10/2023 €25.00m\n16\n\nJefferson Lerma\nDefensive Midfield\n25/10/1994 (31) 1,80m right 69 5 10/11/2017 €6.00m\n5\n\nKevin Castaño\nDefensive Midfield\n29/09/2000 (25) 1,79m right 27 - 29/01/2023 €5.00m\n14\n\nGustavo Puerta\nCentral Midfield\n23/07/2003 (22) 1,73m right 10 1 16/11/2025 €10.00m\n15\n\nJuan Portilla\nCentral Midfield\n12/09/1998 (27) 1,81m right 10 - 10/09/2024 €5.00m\n8\n\nJorge Carrascal\nAttacking Midfield\n25/05/1998 (28) 1,80m right 24 2 25/09/2022 €13.00m\n20\n\nJuan Fernando Quintero\nAttacking Midfield\n18/01/1993 (33) 1,67m left 52 6 17/10/2012 €1.80m\n10\n\nJames Rodríguez\nAttacking Midfield\n12/07/1991 (34) 1,81m left 130 31 11/10/2011 €1.50m\n7\n\nLuis Díaz\nLeft Winger\n13/01/1997 (29) 1,79m right 78 23 12/09/2018 €70.00m\n26\n\nAndrés Gómez\nLeft Winger\n12/09/2002 (23) 1,70m right 9 2 10/12/2023 €11.00m\n21\n\nJáminton Campaz\nLeft Winger\n24/05/2000 (26) 1,66m left 12 2 17/06/2021 €5.50m\n11\n\nJhon Arias\nRight Winger\n21/09/1997 (28) 1,68m right 42 7 05/06/2022 €15.00m\n25\n\nLuis Suárez\nCentre-Forward\n02/12/1997 (28) 1,79m right 16 5 17/11/2020 €30.00m\n19\n\nCucho Hernández\nCentre-Forward\n20/04/1999 (27) 1,76m right 10 2 17/10/2018 €18.00m\n9\n\nJhon Córdoba\nCentre-Forward\n11/05/1993 (33) 1,86m right 24 6 17/11/2023 €10.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

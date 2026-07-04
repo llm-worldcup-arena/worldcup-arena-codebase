@@ -1,0 +1,16 @@
+{
+ "team": "EGY",
+ "source": "h5.ifeng.com",
+ "url": "https://h5.ifeng.com/c/vivoArticle/v002ZysTCx1WJbf5wpvEAiL8hs30Dsod0wM3iSFXI57EVoI__?isNews=1&vivoBusiness=hibo&showComments=0",
+ "title": "每体：萨拉赫腿筋拉伤，出战澳大利亚成疑",
+ "news_date": "2026-07-04",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-07-04",
+ "fetched": "2026-07-04_2015",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "萨拉赫目前最关心的是埃及和对阵澳大利亚的世预赛。尽管沙特方面想把这位红军传奇带到沙特职业联赛，萨拉赫眼下只盯着世界杯和澳大利亚。埃及国家队也最担心这位核心的身体状况。\n\n埃及队队医穆罕默德-阿布-埃拉在与伊朗一战后确认，这名边锋接受了X光检查，结果显示他腿筋肌肉拉伤。\n\n回暖信号出现在前往达拉斯前的最后一练，也就是7月1日周三埃及队长只参加了部分训练。\n\n对于对阵“袋鼠军团”的比赛来说，这一迹象是积极的，但还谈不上确定。埃及希望创造历史，首次在赛事现代阶段从小组赛出线，而有萨拉赫在阵，目标会更接近一些。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

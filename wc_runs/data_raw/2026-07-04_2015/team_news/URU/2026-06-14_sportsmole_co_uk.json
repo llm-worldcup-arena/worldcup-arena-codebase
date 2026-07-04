@@ -1,0 +1,16 @@
+{
+ "team": "URU",
+ "source": "sportsmole.co.uk",
+ "url": "https://www.sportsmole.co.uk/football/saudi-arabia/world-cup-2026/team-news/saudi-arabia-vs-uruguay-injury-suspension-list-predicted-xis_599116.html",
+ "title": "Team News: Saudi Arabia vs. Uruguay injury, suspension list, predicted XIs - Sports Mole",
+ "news_date": "2026-06-14",
+ "published": "2026-06-14T22:00:00Z",
+ "tier": "2",
+ "lang": "es",
+ "asof": "2026-07-04",
+ "fetched": "2026-07-04_2015",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "Saudi Arabia and Uruguay will begin their respective 2026 World Cup campaigns with a contest in Miami on Monday.\n\nThe two nations are competing in Group H this summer alongside Spain and Cape Verde, and here Sports Mole rounds up the team news for the game.\n\nGet FREE daily news and in-depth previews for games from the biggest leagues and competitions in world football — straight to your inbox.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

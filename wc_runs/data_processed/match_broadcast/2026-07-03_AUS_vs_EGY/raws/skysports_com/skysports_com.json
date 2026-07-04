@@ -1,0 +1,24 @@
+{
+ "source": "skysports.com",
+ "url": "https://www.skysports.com/football/news/12098/13558810/world-cup-2026-australia-1-1-egypt-2-4-on-penalties-shoot-out-drama-sends-mohamed-salah-and-co-into-last-16",
+ "title": "World Cup 2026: Australia 1-1 Egypt (2-4 on penalties) - Shoot-out drama sends Mohamed Salah and co into last 16",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-07-03",
+  "home": "AUS",
+  "away": "EGY",
+  "home_en": "Australia",
+  "away_en": "Egypt",
+  "home_zh": "澳大利亚",
+  "away_zh": "埃及",
+  "comp": "r32",
+  "match_id": "M88",
+  "slug": "2026-07-03_AUS_vs_EGY"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Egypt are into the last 16 of the World Cup after beating Australia in a dramatic penalty shoot-out in Dallas. The game itself ended 1-1 after extra time but Harry Souttar and Lucas Herrington both missed from the spot in the shootout while Egypt converted four consecutive spot-kicks against Mat Ryan - brought on in the 119th minute - to send Australia packing. Although Cristian Volpato's early effort skimmed the crossbar, it was Egypt who were the better team in the first half and Emam Ashour soon nodded them in front. Omar Marmoush should have doubled the advantage at the start of the second period. But Egypt were punished when Australia found an equaliser that came when Mohamed Hany glanced the ball into his own net. It still took a stunning save from Patrick Beach to deny Ramy Rabia a 94th-minute winner and take the game to extra time. Mohamed Salah came to life in extra-time but could not force the winner and Egypt would have been entitled to feel concerned by the prospect of penalties having lost their previous four shoot-outs - particularly when Ryan came on in goal for Australia. The experienced stopper replaced Beach but could not keep out any Egypt penalties, Salah dinking his effort down the middle. Two Australia defenders missed - Souttar and Herrington - to end their hopes as Egypt set up a clash with Argentina or Cape Verde.   The key moments from Dallas... 5 - CROSSBAR! Volpato took a shot from distance that skimmed the bar. 13 - GOAL! Ashour nodded Egypt ahead when unmarked at the back. 21 - WIDE! Zico fired wide when through but was adjudged offside. 46 - WIDE! Marmoush straight from the restart slotted his shot wide. 55 - OWN GOAL! Australia levelled when the ball glances in off Hany. 90+4 - SAVE! Beach brilliantly pushed Rabia's header over the bar. PEN - MISS! Souttar blazed the opening penalty over the crossbar. PEN - MISS! After five conversions, Herrington hit the bar himself. PEN - WINNER! Abdelmaguid sent Ryan the wrong way to win it. Salah: If anyone was going to Panenka, it was going to be me! Egypt captain Mohamed Salah speaking on BBC Sport: \"It's history. I told the boys before the game 'this is the biggest stage you can play in your life so just enjoy it. Don't let the pressure get to you and not enjoy the moment.' \"I'm glad we managed to win the game. Bad luck for them [Australia]... On his Panenka penalty: \"If someone was going to do it, it was going to be me. \"I'm more experienced than others, I want to give them confidence but I decided last minute [on the run-up]. I don't know if it's my last World Cup or not, so I had to do it.\" On possibly facing Messi in the round of 16: \"We have to respect both teams and we'll see what's next.\" Popovic: We showed Australian football is strong Australia boss Tony Popovic : \"It's tough. We showed the world that Australian football is strong, they're a wonderful group and I'm devastated for them. Unfortunately we ‌go home and the World Cup ends for ​us.\"",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}
