@@ -1,0 +1,24 @@
+{
+ "source": "aljazeera.com",
+ "url": "https://www.aljazeera.com/sports/2026/7/4/france-vs-paraguay-world-cup-round-of-16-mbappe-prediction-kickoff",
+ "title": "In form France meet giant killers Paraguay in World Cup last-16 clash",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-07-04",
+  "home": "PAR",
+  "away": "FRA",
+  "home_en": "Paraguay",
+  "away_en": "France",
+  "home_zh": "巴拉圭",
+  "away_zh": "法国",
+  "comp": "r16",
+  "match_id": "M90",
+  "slug": "2026-07-04_PAR_vs_FRA"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "France have been the best team so far at the World Cup, although Paraguay are in a confident mood after upsetting Germany.\n\nHow can your team reach the final and win the World Cup 2026? Click here to find out – or click here to join our live coverage of France against Paraguay.\n\nWho: France vs Paraguay\nWhat: FIFA World Cup 2026 – Round of 16\nWhere: Philadelphia Stadium, US\nWhen: Saturday, July 4, at 5pm (21:00 GMT)\nHow to follow: We will have all the build-up on",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

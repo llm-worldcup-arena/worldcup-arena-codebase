@@ -293,11 +293,15 @@
   },
   "GER_vs_PAR": {
    "score": "1-1",
-   "ht": ""
+   "ht": "",
+   "ko_winner": "PAR",
+   "note": "加时1-1,巴拉圭点球晋级(官方R16对阵确认)"
   },
   "NED_vs_MAR": {
    "score": "1-1",
-   "ht": ""
+   "ht": "",
+   "ko_winner": "MAR",
+   "note": "加时1-1,摩洛哥点球晋级(官方R16对阵确认)"
   },
   "FRA_vs_SWE": {
    "score": "3-0",
@@ -349,6 +353,14 @@
    "pens": "2-4",
    "ko_winner": "EGY",
    "note": "加时1-1,埃及点球4-2晋级"
+  },
+  "CAN_vs_MAR": {
+   "score": "0-3",
+   "ht": ""
+  },
+  "PAR_vs_FRA": {
+   "score": "0-1",
+   "ht": ""
   }
  },
  "group_winners": {

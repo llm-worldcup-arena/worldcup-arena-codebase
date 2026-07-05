@@ -1,0 +1,16 @@
+{
+ "team": "FRA",
+ "source": "lemonde.fr",
+ "url": "https://www.lemonde.fr/en/sports/article/2026/04/15/france-s-ekitike-ruled-out-of-the-2026-world-cup-due-to-injury_6752469_9.html?srsltid=AfmBOopUC4xs5ozRcFQQY0DS6EWxqDwcCIwO3ymw8pszHYufh1GCZDO9",
+ "title": "France's Ekitiké ruled out of 2026 World Cup due to injury",
+ "news_date": "2026-07-05",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-07-05",
+ "fetched": "2026-07-05_2157",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "The Liverpool and France forward suffered a major injury during a match between Liverpool and PSG on Tuesday.\nLiverpool and France forward Hugo Ekitiké will miss the 2026 World Cup after suffering a serious injury in his club's Champions League loss to Paris Saint-Germain, his national team coach Didier Deschamps said on Wednesday, April 15.\nThe 23-year-old crumpled in a heap holding his lower right leg with a suspected ruptured Achilles tendon during the first half of Liverpool's 2-0 quarter-final second-leg defeat to European champions PSG on Tuesday.\n\"Unfortunately, the severity of [Ekitiké's] injury will prevent him from finishing the season with Liverpool and taking part in the World Cup,\" Deschamps said in a statement released by the French football federation. \"This injury is a huge blow for him, of course, but also for the French national team. I wanted to express my full support for him, as well as that of the entire coaching staff.\"\nEkitiké has scored 17 goals in 45 matches in all competitions for Liverpool since arriving at Anfield for a fee of £79 million last summer. Since winning his first France cap in a World Cup qualifier in September last year, Ekitiké has been a regular in Les Bleus' set-up, scoring two goals and providing one assist in his eight caps.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

@@ -1,0 +1,16 @@
+{
+ "team": "FRA",
+ "source": "dailysports.net",
+ "url": "https://dailysports.net/news/is-the-injury-more-serious-france-star-could-miss-world-cup-opening-match/",
+ "title": "Is the injury more serious? France star could miss World Cup opening match | Dailysports",
+ "news_date": "2026-07-05",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-07-05",
+ "fetched": "2026-07-05_2157",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Is the injury more serious? France star could miss World Cup opening match\nConcerns are growing.\nFrance are set to begin their 2026 World Cup campaign soon, but one of their key players may miss the opening fixture.\nDetails: In a recent friendly match, full-back Jules Koundé left the pitch due to injury. L’Équipe now reports that he has suffered a muscular problem. Malo Gusto could therefore start in the French lineup for the opening matches of the tournament.\nMeanwhile, Portugal defender Nuno Mendes came on at the start of the second half but was unable to last even 45 minutes. In the 80th minute, the full-back was forced off the pitch, sparking concern within the Portuguese camp.\nReminder: The 2026 FIFA World Cup is just around the corner, but frustration is mounting within the France national team and among those surrounding the squad over its biggest star and captain.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

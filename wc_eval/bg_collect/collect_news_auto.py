@@ -78,12 +78,19 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--asof", required=True)
     ap.add_argument("--ts", required=True)
-    ap.add_argument("--teams", default="ALL")
+    ap.add_argument("--teams", default="ALL", help="ALL=全48队 · ALIVE=仅仍存活(有比赛)的队 · 或逗号队码")
     ap.add_argument("--workers", type=int, default=8)
     a = ap.parse_args()
     teams = {t["team_id"]: t for t in json.load(open(f"{RUNS}/data_reference/teams.json", encoding="utf-8"))}
-    codes = list(teams) if a.teams == "ALL" else [c.strip() for c in a.teams.split(",") if c.strip()]
-    print(f"▶ 队伍新闻全 py 自动采集:{len(codes)} 队 · asof={a.asof} ts={a.ts} · web_search_urls(Apify)自动发现源")
+    if a.teams == "ALL":
+        codes = list(teams)
+    elif a.teams.upper() == "ALIVE":
+        from roster import alive_teams
+        codes = alive_teams()
+    else:
+        codes = [c.strip() for c in a.teams.split(",") if c.strip()]
+    scope = "全48" if a.teams == "ALL" else ("存活" if a.teams.upper() == "ALIVE" else "指定")
+    print(f"▶ 队伍新闻全 py 自动采集:{len(codes)} 队({scope}) · asof={a.asof} ts={a.ts} · web_search_urls(Apify)自动发现源")
     done = 0
     with ThreadPoolExecutor(max_workers=a.workers) as ex:
         futs = {ex.submit(one_team, c, teams[c].get("name_en", c), teams[c].get("name_zh", c), a.asof, a.ts): c

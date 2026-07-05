@@ -1,0 +1,41 @@
+{
+ "match": {
+  "slug": "2026-07-05_BRA_vs_NOR",
+  "date": "2026-07-05",
+  "home": "BRA",
+  "away": "NOR",
+  "round": "r16",
+  "group": null
+ },
+ "kickoff": {
+  "美东": "2026-07-05T16:00:00-04:00",
+  "北京": "07-06 04:00"
+ },
+ "venue": {
+  "name": "MetLife Stadium",
+  "city": "East Rutherford, New Jersey",
+  "altitude_m": 3,
+  "roof": "open",
+  "surface": "grass"
+ },
+ "weather": {
+  "开球时段": {
+   "温度C": 30.2,
+   "体感C": 32.5,
+   "降水概率%": 22,
+   "降水mm": 0.0,
+   "风速kmh": 14.1,
+   "湿度%": 58,
+   "天况": "阴"
+  },
+  "source": "open-meteo(免费预报API)",
+  "fetched": "2026-07-05_2157",
+  "_note": "临近开球建议 --refresh 刷新"
+ },
+ "referee": {
+  "name": "Ismail Elfath(USA)",
+  "source": "Yahoo/FIFA R16 referee confirm 2026-07",
+  "fetched": "2026-07-05_2157"
+ },
+ "_note": "环境=比赛+时间+地点 确定;天气为开球时段;顶棚 retractable/fixed-canopy 时天气影响有限。"
+}

@@ -319,6 +319,9 @@ _HANDICAP = {
     # —— 7/4 16 强 M89-M90(多源核对 2026-07-04;正值=主队受让) ——
     ("CAN", "MAR"): +0.5,    # 摩洛哥(客)让0.5(FanDuel ML MAR -120 微热 / CAN +370 / 平 +230;CBS/Oddschecker;摩洛哥小组头名实力略占优,加拿大共主办)
     ("PAR", "FRA"): +1.5,    # 法国(客)让1.5(SportsGambler/FanDuel spread FRA -1.5;AH Paraguay +2 -111;ML FRA -550 巨热 vs PAR;世界亚军对小组第三)
+    # —— 7/5 16 强 M91-M92(多源核对 2026-07-05;正值=主队受让) ——
+    ("BRA", "NOR"): -0.75,   # 巴西 -0.75(SportsGambler/FanDuel AH NOR +0.75 -127;ML BRA -128 隐含56% vs NOR;夺冠热门对北欧黑马)
+    ("MEX", "ENG"): +0.25,   # 英格兰(客)让0.25(FanDuel AH ENG -0.25 +102;ML ENG +135 微热 / MEX +220 / 平 +210;英格兰略占优,墨西哥主场阿兹特克)
 }
 
 

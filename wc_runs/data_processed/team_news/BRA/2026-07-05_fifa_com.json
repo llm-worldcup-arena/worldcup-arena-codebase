@@ -1,0 +1,16 @@
+{
+ "team": "BRA",
+ "source": "fifa.com",
+ "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams/brazil/team-news",
+ "title": "Brazil | Squad, Fixtures & News | FIFA World Cup 2026™",
+ "news_date": "2026-07-05",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-07-05",
+ "fetched": "2026-07-05_2157",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "44.52\nkm\nTotal Distance RanTotal Distance Ran\nBRUNOBRUNO\nGUIMARAESGUIMARAES\n7.13\nkm/h\nAverage SpeedAverage Speed\nVINICIUSVINICIUS\nJUNIORJUNIOR\n208\nMost SprintsMost Sprints\nGABRIELGABRIEL\nMAGALHAESMAGALHAES\n87\nMost Attempted Line BreaksMost Attempted Line Breaks\nGABRIELGABRIEL\nMAGALHAESMAGALHAES\n77\nMost Completed Line BreaksMost Completed Line Breaks\nBRUNOBRUNO\nGUIMARAESGUIMARAES\n282\nMost Offers To ReceiveMost Offers To Receive\nVINICIUSVINICIUS\nJUNIORJUNIOR\n71\nMost Receptions Between Midfield and Defensive LineMost Receptions Between Midfield and Defensive Line\nVINICIUSVINICIUS\nJUNIORJUNIOR\n120\nMost Pressing AppliedMost Pressing Applied\nVideoVideo",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

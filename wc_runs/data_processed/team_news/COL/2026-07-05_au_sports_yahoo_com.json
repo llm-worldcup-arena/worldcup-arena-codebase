@@ -1,0 +1,16 @@
+{
+ "team": "COL",
+ "source": "au.sports.yahoo.com",
+ "url": "https://au.sports.yahoo.com/colombia-vs-ghana-xis-confirmed-142034820.html",
+ "title": "Injury news: Collingwood star OUT of Gold Coast clash",
+ "news_date": "2026-07-05",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-07-05",
+ "fetched": "2026-07-05_2157",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Colombia vs Ghana XIs: Confirmed team news, predicted lineup, injury latest for World Cup today\nGhana will have Antoine Semenyo available for their World Cup round of 32 clash against Colombia today.\nConcerns over the Manchester City winger emerged after he was seen limping late on during the 2-1 defeat by Croatia last weekend, a result that saw Ghana progress as one of the best third-placed teams.\nAdvertisement\nSemenyo went down in the Croatia box towards the end of the game and while he left the pitch after receiving treatment, he was able to finish the game.\nSpeaking at full-time though, Ghana boss Carlos Queiroz delivered a positive update, saying: “No, its just a knock, he will be alright.\"\nA boost for the Black Stars certainly as Queiroz can name an unchanged attacking quartet of Semenyo, Elisha Owusu, Kwasi Sibo and Kamaldeen Sulemana in support of captain Jordan Ayew, still awaiting his first goal of the tournament.\nAdvertisement\nThomas Partey is expected to start in defensive midfield but there is a decision to be made over Jerome Opoku after he sat out the final group match against Croatia as a precautionary measure due to a groin issue.\nThe central defender has since returned to training and is in line for an immediate recall having been one of Ghana’s most impressive performers against Panama and England in the group phase.\nDoubtful: Jerome Opoku (Getty)\nColombia, meanwhile, have no injury concerns heading into this fixture, but changes are expected.\nAdvertisement\nNestor Lorenzo opted to rest Crystal Palace defender Daniel Munoz, Johan Mojica and Sporting CP striker Luis Suarez for the goalless draw with Portugal last weekend, but all three are likely to start.\nPredicted Colombia XI: Vargas; Munoz, Sanchez, Lucumi, Mojica; Puerta, Lerma, Arias; J Rodriguez, Suarez, Diaz.\nPredicted Ghana XI: Asare; Senaya, Adjetey, Opoku, Mensah; Partey; Semenyo, Owusus, Sibo, Sulemana; Ayew\nDoubts: Opoku\nTime and date: 2.30am BST on Saturday, July 4, 2026\nHow to watch: ITV\nVenue: Kansas City Stadium",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

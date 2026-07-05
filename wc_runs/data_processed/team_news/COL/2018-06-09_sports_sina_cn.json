@@ -1,0 +1,16 @@
+{
+ "team": "COL",
+ "source": "sports.sina.cn",
+ "url": "https://sports.sina.cn/laliga/all/2018-06-09/detail-ihcscwxc3077309.d.html?vt=4&cid=75552",
+ "title": "哥伦比亚宣布主力左后卫受伤 将遗憾错过世界杯",
+ "news_date": "2018-06-09",
+ "published": "2018-06-09 20:02:37",
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-07-05",
+ "fetched": "2026-07-05_2157",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "世界杯即将开始，每支参赛队都希望能全员健康出战，但还是有球员在世界杯前遭遇伤病打击，哥伦比亚国家队确认，主力左后卫法布拉左膝前十字韧带断裂，无缘出战俄罗斯世界杯。\n\n法布拉出生于1991年2月22日，已经代表哥伦比亚国家队出场19次，打进1球，目前他效力于博卡青年，本来他是世界杯首发左后卫的有力人选，这次受伤对他来说也是十分遗憾。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

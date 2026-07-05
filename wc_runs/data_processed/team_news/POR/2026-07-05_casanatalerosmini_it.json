@@ -1,0 +1,16 @@
+{
+ "team": "POR",
+ "source": "casanatalerosmini.it",
+ "url": "http://www.casanatalerosmini.it/beni/?/28/2Apollo-e-Dafne-1-096",
+ "title": "Apollo e Dafne - Casa Natale di Antonio Rosmini",
+ "news_date": "2026-07-05",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-07-05",
+ "fetched": "2026-07-05_2157",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "© 2010 Biblioteca Rosminiana - via Stoppani 1 - 38068 Rovereto (TN) - tel 0464-431427 - e-mail rosminiana@biblio.infotn.it\n\nI contenuti e le immagini presenti nel sito sono coperti da copyright. Non è consentito alcun utilizzo senza preventiva autorizzazione.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

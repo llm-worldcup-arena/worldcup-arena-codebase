@@ -1,0 +1,24 @@
+{
+ "source": "skysports.com",
+ "url": "https://www.skysports.com/football/paraguay-vs-france/report/549855#:~:text=World%20Cup%202026%3A%20Paraguay%200,Les%20Bleus%20reach%20last%20eight&text=Kylian%20Mbappe's%20second%2Dhalf%20penalty,quarter%2Dfinal%20meeting%20with%20Morocco.",
+ "title": "World Cup 2026: Paraguay 0-1 France - Kylian Mbappe moves level with Lionel Messi on seven goals as Les Bleus reach last eight",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-07-04",
+  "home": "PAR",
+  "away": "FRA",
+  "home_en": "Paraguay",
+  "away_en": "France",
+  "home_zh": "巴拉圭",
+  "away_zh": "法国",
+  "comp": "r16",
+  "match_id": "M90",
+  "slug": "2026-07-04_PAR_vs_FRA"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Kylian Mbappe's 70th-minute penalty gave France a 1-0 victory over Paraguay in an ill-tempered World Cup last-16 tie in Philadelphia to set up a quarter-final meeting with Morocco. Mbappe converted his kick coolly despite Paraguayan attempts to put him off as he finally broke the South American side's resistance and moved level with Lionel Messi on seven World Cup goals. Paraguay, winners over Germany in the previous round, had defended stubbornly in the 39-degree heat up until then, restricting France, the tournament's outstanding team so far, to long-range shots and succeeding in slowing the game down. It took the introduction of Desire Doue for Bradley Barcola for France to find a way through. Uzbek referee Ilgiz Tantashev waved away his penalty appeal initially after he was tripped by Diego Gomez but overturned the decision after a VAR check.   Paraguay players attempted to delay the penalty and scuff up the spot but Mbappe held his nerve to find the bottom corner. Paraguay's frustration spilled over with some reckless challenges in the closing stages, most of which went unpunished by the referee, who didn't give Paraguay any bookings despite France's protests and a series of confrontations between players which continued after the final whistle. Mbappe, a target for Paraguay throughout, was denied a second goal by a superb double save from Orlando Gill in stoppage time and subsequently refused to shake the goalkeeper's hand after Tantashev had called time on a combustible contest - and a bewildering refereeing performance. The key moments from Philadelphia 22: FIRST SHOT! Manu Kone tries his luck from range after a slow start from France 31: CHANCE! Mbappe has a chance from Ousmane Dembele's teasing cross but fails to connect with his header 39: Mbappe catches an arm to the face from Matias Galarza which goes unpunished as France's frustration builds 55 SAVE! Kone's dipping shot requires an acrobatic save from Gill 67: VAR! The referee points to the spot after checking a foul on Desire Doue on the pitch-side monitor 70: GOAL! Mbappe scores despite Paraguay delaying and trying to scuff up the penalty spot 77: FLASHPOINT! Juan Jose Caceres kicks out at Mbappe but avoids a booking or red card 90+7: SAVES! Mbappe is denied by Gill's outstanding double save before tempers spill over after the final whistle",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

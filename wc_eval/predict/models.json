@@ -4,7 +4,7 @@
   "_test_2026-06-18": "DMX 最高档实测(结构化标记判定:thinking块/reasoning项/thought部分=思考;web_search_tool_result/web_search_call/groundingMetadata=联网):Claude opus-4-8 思考块1002字+web_search3次 | Gemini 3.1-pro 思考4280字/2189tok+grounding11源 | GPT-5.5 reasoning 8072tok/11轮+web_search10次(最猛最慢,~150-400s/次)。",
   "_search_note": "search=true=可开真联网。通道:Claude→DMX /v1/messages web_search;GPT→DMX /v1/responses web_search+reasoning;Gemini→DMX /v1beta google_search+thinkingConfig;Kimi→Moonshot官方 builtin $web_search;GLM→智谱官方 function-call;Seed→DMX /v1/responses web_search(自带thinking)。Key 各通道独立、全在 secrets.local.json(gitignore)。",
   "models": [
-    {"name": "Claude", "id": "claude-opus-4-8", "search": true, "_note": "DMX;thinking 参数显式开(budget 24000)+ web_search"},
+    {"name": "Claude", "id": "claude-opus-4-6", "search": true, "_note": "DMX;2026-07-05 opus-4-8与4-6-thinking在DMX不支持web_search工具(400),改用claude-opus-4-6(DMX带web_search+thinking,实测通);无OpenRouter账号"},
     {"name": "GPT",    "id": "gpt-5.5", "search": true, "_note": "DMX;reasoning effort:high(思考最猛最慢~150-400s)+ web_search"},
     {"name": "Gemini", "id": "gemini-3.1-pro-preview", "search": true, "_note": "DMX;thinkingConfig budget 24576 + google_search;-thinking 后缀版已被DMX下架故用这个"},
     {"name": "Kimi",   "id": "kimi-k2.6", "search": true, "channel": "moonshot", "_note": "Moonshot官方直连;自带thinking、temp固定1"},

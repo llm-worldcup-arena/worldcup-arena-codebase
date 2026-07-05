@@ -1,0 +1,16 @@
+{
+ "team": "POR",
+ "source": "img.thol.it",
+ "url": "https://img.thol.it/?p=/retiro/c10942.shtml",
+ "title": "Object reference not set to an instance of an object.",
+ "news_date": "2026-07-05",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-07-05",
+ "fetched": "2026-07-05_2157",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Object reference not set to an instance of an object.\nException Details: System.NullReferenceException: Object reference not set to an instance of an object.\n[NullReferenceException: Object reference not set to an instance of an object.]\n_Default.Page_Load(Object sender, EventArgs e) +6788\nSystem.Web.UI.Control.OnLoad(EventArgs e) +107\nSystem.Web.UI.Control.LoadRecursive() +89\nSystem.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint) +1532",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

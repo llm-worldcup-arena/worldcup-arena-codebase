@@ -74,16 +74,26 @@ def main():
     ap.add_argument("--stale-days", type=int, default=STALE_DAYS)
     ap.add_argument("--today", default=datetime.date.today().isoformat(), help="陈旧基准日(默认系统今天)")
     ap.add_argument("--allow-below", default="", help="逗号分隔:显式放行确无足量新闻的队(需 CHANGELOG 记明)")
+    ap.add_argument("--scope", default="alive", choices=["alive", "all"],
+                    help="alive=仅仍存活(有比赛)的队(淘汰赛自动收窄,默认) · all=强制全48队")
     a = ap.parse_args()
     allow = set(x.strip() for x in a.allow_below.split(",") if x.strip())
     today = datetime.date.fromisoformat(a.today)
 
-    teams = all_teams()
-    if len(teams) != 48:
-        sys.exit(f"❌ teams.json 不是 48 队(实 {len(teams)})——范围基准异常,先修 teams.json")
+    if a.scope == "all":
+        teams = all_teams()
+        if len(teams) != 48:
+            sys.exit(f"❌ teams.json 不是 48 队(实 {len(teams)})——范围基准异常,先修 teams.json")
+    else:
+        from roster import alive_teams
+        teams = alive_teams()
+        if not teams:
+            sys.exit("❌ 存活队列表为空——matches.json/results.json 异常,先查赛程数据")
+    total = len(teams)
 
     mode = f" · 本轮尝试制(round={a.rnd})" if a.rnd else " · 仅查累计"
-    print(f"▶ 新闻硬门禁:全48队 · 每队≥{a.min}源 · ≥{a.min_langs}语种{mode} · 陈旧>{a.stale_days}天告警(py权威,不分深/轻)")
+    scope_s = "全48队" if a.scope == "all" else f"存活{total}队(有比赛的队,淘汰赛自动收窄)"
+    print(f"▶ 新闻硬门禁:{scope_s} · 每队≥{a.min}源 · ≥{a.min_langs}语种{mode} · 陈旧>{a.stale_days}天告警(py权威,不分深/轻)")
     fail, stale = [], []
     for i, t in enumerate(teams, 1):
         n, langs, newest = team_sources(t)
@@ -108,7 +118,7 @@ def main():
         flag = "✗" + ";".join(bad) if bad else ("☑放行" if t in allow else ("⚠陈旧" if (newest and age > a.stale_days) else "✓"))
         att_s = f" 本轮搜{att}源" if a.rnd and att is not None else (" 本轮没搜" if a.rnd else "")
         age_s = f"最新{age}天前" if newest else "无日期"
-        print(f"  团队 {i:02d}/48 {t}: {n}源[{'/'.join(sorted(langs)) or '-'}]{att_s} · {age_s} {flag}")
+        print(f"  团队 {i:02d}/{total} {t}: {n}源[{'/'.join(sorted(langs)) or '-'}]{att_s} · {age_s} {flag}")
 
     print("─" * 60)
     if stale:
@@ -118,7 +128,7 @@ def main():
         print(f"❌ 门禁不过:{len(fail)} 队 → " + "; ".join(f"{t}[{r}]" for t, r in fail))
         print(f"   补齐(≥{a.min}源{' + 本轮搜过' if a.rnd else ''})再来;某队确无足量新闻则 --allow-below 放行 + CHANGELOG 记明。")
         sys.exit(1)
-    print(f"✅ 门禁通过:48/48 · 每队≥{a.min}源{' · 本轮全搜过' if a.rnd else ''}"
+    print(f"✅ 门禁通过:{total}/{total} · 每队≥{a.min}源{' · 本轮全搜过' if a.rnd else ''}"
           + (f"(放行 {','.join(sorted(allow))})" if allow else "")
           + (f" · ⚠{len(stale)}队陈旧待留意" if stale else ""))
     sys.exit(0)
