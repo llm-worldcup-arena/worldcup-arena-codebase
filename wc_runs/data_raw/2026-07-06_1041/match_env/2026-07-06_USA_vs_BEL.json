@@ -33,8 +33,9 @@
   "_note": "临近开球建议 --refresh 刷新"
  },
  "referee": {
-  "name": null,
-  "_note": "待 WebSearch FIFA指派公告"
+  "name": "Adham Al-Makhadmeh(Jordan)",
+  "source": "jarayid/Wikipedia/Law5 R16 referee confirm 2026-07-06",
+  "fetched": "2026-07-06_1041"
  },
  "_note": "环境=比赛+时间+地点 确定;天气为开球时段;顶棚 retractable/fixed-canopy 时天气影响有限。"
 }
