@@ -1,0 +1,24 @@
+{
+ "source": "skysports.com",
+ "url": "https://www.skysports.com/football/brazil-vs-norway/report/549856",
+ "title": "World Cup 2026: Brazil 1-2 Norway - Erling Haaland scores double to knock five-time winners out despite Neymar's stoppage-time penalty",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-07-05",
+  "home": "BRA",
+  "away": "NOR",
+  "home_en": "Brazil",
+  "away_en": "Norway",
+  "home_zh": "巴西",
+  "away_zh": "挪威",
+  "comp": "r16",
+  "match_id": "M91",
+  "slug": "2026-07-05_BRA_vs_NOR"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Erling Haaland dumped Brazil out of the World Cup at the last-16 stage as his brilliant late double secured a 2-1 win for Norway to set up a quarter-final against England or Mexico. The Manchester City striker broke the deadlock in the 79th minute when he towered above Arsenal nemesis Gabriel to head beyond Alisson, then added a superb second when his low drive from long range found the corner to leave the five-time winners stunned. Neymar, on as a substitute for only his second appearance of the tournament, pulled a goal back with a late penalty but Haaland's heroics punished Brazil's wastefulness, with Bruno Guimaraes having had an earlier spot-kick saved by Orjan Nyland.   Haaland's goals take him to seven at the World Cup, putting him level with Lionel Messi and Kylian Mbappe in the race for the Golden Boot . They also mean he has now scored in 14 consecutive internationals for Norway, extending an extraordinary run. As Norway prepare for the first World Cup quarter-final in their history, Brazil, under Carlo Ancelotti, are left to rue another early tournament exit, with Guimaraes' botched penalty, following a stuttered run-up, one of several missed opportunities. Substitute Endrick poked a one-on-one chance wide soon after coming off the bench, while Vinicius Jr was denied by the excellent Nyland, who also pulled off a sensational save to prevent a Kristoffer Ajer own goal a few minutes after Haaland's opener. Norway will now await the result of England's last-16 clash with Mexico to learn their quarter-final opponents but Haaland's outstanding form gives them hope of going all the way. The key moments from New Jersey 14: PENALTY SAVED! Bruno Guimaraes has his spot-kick saved by Nyland 40: SAVE! Nyland makes a big save from Vinicius Jr at his near post 59 WASTE! Endrick is put through by Vinicius Jr but pokes wide 68 SUB! Neymar is applauded onto the pitch as he appears as a substitute 79: GOAL! Haaland rises above Gabriel to head in Andreas Schjelderup's cross 85: SAVE! A back-peddling Nyland sensationally prevents an Ajer own goal 90: GOAL! Haaland drills in his second from outside the Brazil box 90+10: GOAL! Neymar converts a penalty but it's only a consolation",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

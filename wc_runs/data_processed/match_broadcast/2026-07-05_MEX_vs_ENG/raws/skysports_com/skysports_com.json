@@ -1,0 +1,24 @@
+{
+ "source": "skysports.com",
+ "url": "https://www.skysports.com/football/news/12016/13560286/world-cup-2026-englands-last-16-tie-with-mexico-will-kick-off-at-1am-monday",
+ "title": "World Cup 2026: England's last-16 tie with Mexico WILL kick-off at 1am Monday",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-07-05",
+  "home": "MEX",
+  "away": "ENG",
+  "home_en": "Mexico",
+  "away_en": "England",
+  "home_zh": "墨西哥",
+  "away_zh": "英格兰",
+  "comp": "r16",
+  "match_id": "M92",
+  "slug": "2026-07-05_MEX_vs_ENG"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "England's World Cup last-16 tie with Mexico will remain a 1am kick-off on Monday after confusion over a possible time move, but fears remain about predicted thunderstorms in the area. Thunderstorms and bad weather are forecast to hit Mexico City around the time of kick-off. That led to the emergence of reports around 8pm Friday night UK time that FIFA were considering bringing the game forward by six hours and were in discussions with the English and Mexican FAs. The new proposed kick-off time would have been 7pm UK time on Sunday - midday local time. England's potential fixtures and route to the World Cup final World Cup day-by-day schedule | Latest: World Cup",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

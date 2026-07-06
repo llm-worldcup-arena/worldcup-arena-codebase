@@ -1,0 +1,16 @@
+{
+ "team": "USA",
+ "source": "mozishuoqiu.com",
+ "url": "http://www.mozishuoqiu.com/index.php/Injury/lst",
+ "title": "NBA伤病实时更新-墨子说球",
+ "news_date": "2026-07-06",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-07-06",
+ "fetched": "2026-07-06_1041",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "声明：本网资讯仅供球迷购买国家体育彩票参考，任何人不得用于非法用途，否则责任自负。本网站拒绝为任何具有赌博性质的组织进行广告链接和服务。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

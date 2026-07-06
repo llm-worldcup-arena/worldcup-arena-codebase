@@ -1,0 +1,24 @@
+{
+ "source": "bleacherreport.com",
+ "url": "https://bleacherreport.com/articles/25451038-morocco-eliminates-canada-final-match-stats-highlights-updated-world-cup-2026-bracket",
+ "title": "Morocco Eliminates Canada, Final Match Stats, Highlights & Updated World Cup 2026 Bracket",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-07-04",
+  "home": "CAN",
+  "away": "MAR",
+  "home_en": "Canada",
+  "away_en": "Morocco",
+  "home_zh": "加拿大",
+  "away_zh": "摩洛哥",
+  "comp": "r16",
+  "match_id": "M89",
+  "slug": "2026-07-04_CAN_vs_MAR"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Morocco is off to the quarterfinals of the FIFA men's World Cup for the second straight tournament.\n\nThe African side beat Canada 3-0 on Saturday in Houston to confirm the first of the eight quarterfinal spots in the 2026 tournament.\n\nMorocco's attack came to life in the second half with a pair of goals.\n\nAzzedine Ounahi scored the first of his two tallies in the 50th minute off a set piece.\n\nOunahi then finished off the victory in the 82nd minute on a brilliant counter attack.\n\nOunahi received an assist from Brahim Diaz and finished into the right side of the net.\n\nSoufiane Rahimi added a third goal in the final minute of stoppage-time to make it a three-goal victory.\n\nThe three goals came from three of the four shots on target Morocco had over 90 minutes.\n\nCanada had more time in its attacking half and more shots, but it could not muster a goal.\n\nMorocco is now off to its second straight World Cup quarterfinal. It hadn't made it past the round of 16 prior to 2022.\n\nCanada will go home with some positives, as it won its first-ever knockout-round game at the men's World Cup in the round of 32.\n\nNext up for Morocco is a quarterfinal clash with the winner of the France-Paraguay game. That quarterfinal is scheduled for July 9.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

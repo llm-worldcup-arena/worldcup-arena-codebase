@@ -1378,5 +1378,35 @@
   "coach_a": null,
   "coach_b": null,
   "result": null
+ },
+ {
+  "match_id": "M93",
+  "edition": 2026,
+  "round": "r16",
+  "group": null,
+  "date": "2026-07-06",
+  "kickoff_ts": "2026-07-06T15:00:00-04:00",
+  "venue_id": "at_t_stadium",
+  "team_a": "POR",
+  "team_b": "ESP",
+  "referee_id": null,
+  "coach_a": null,
+  "coach_b": null,
+  "result": null
+ },
+ {
+  "match_id": "M94",
+  "edition": 2026,
+  "round": "r16",
+  "group": null,
+  "date": "2026-07-06",
+  "kickoff_ts": "2026-07-06T20:00:00-04:00",
+  "venue_id": "lumen_field",
+  "team_a": "USA",
+  "team_b": "BEL",
+  "referee_id": null,
+  "coach_a": null,
+  "coach_b": null,
+  "result": null
  }
 ]

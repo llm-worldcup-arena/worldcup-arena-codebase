@@ -1,0 +1,16 @@
+{
+ "team": "USA",
+ "source": "bbc.com",
+ "url": "https://www.bbc.com/sport/football/articles/c77552k60jno",
+ "title": "World Cup 2026: USA boss Mauricio Pochettino includes Bournemouth's Tyler Adams and Fulham's Antonee Robinson in squad",
+ "news_date": "2026-07-06",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-07-06",
+ "fetched": "2026-07-06_1041",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "Bournemouth midfielder Tyler Adams and Fulham left-back Antonee Robinson have both been named in the United States squad for the World Cup.\n\nAdams and Robinson are among the five players at English clubs picked by USA boss Mauricio Pochettino.\n\nAlso included are Leeds midfielder Brenden Aaronson, Crystal Palace defender Chris Richards and Coventry forward Haji Wright.\n\nCeltic centre-back Auston Trusty has been picked along with midfielders Christian Pulisic and Weston McKennie, who play for AC Milan and Juventus respectively.\n\nPochettino has included Borussia Monchengladbach attacking midfielder Giovanni Reyna, the son of former US internationals Claudio Reyna and Danielle Reyna, in his 26-strong squad.\n\nReyna, 23, was at the centre of an controversy at Qatar 2022 , when it emerged after the tournament he was nearly been kicked out of the camp by then coach Gregg Berhalter over his attitude in training.\n\nThat in turn led to Reyna's mother informing US Soccer of a physical altercation in 1991 between Berhalter and his then girlfirend, and now wife.\n\nIt prompted the governing body to request an independent investigation which concluded that Berhalter did not improperly withhold information about the domestic abuse of his wife and found \"no evidence to suggest that he has engaged in similar misconduct at any other time\".\n\nAmong the Major League Soccer players included in the roster are Berhalter's son, Sebastian, the Vancouver Whitecaps midfielder.\n\nWorld Cup co-hosts USA open their World Cup Group D campaign against Paraguay on 13 June before matches against Australia and Turkey.\n\nGoalkeepers: Chris Brady (Chicago Fire), Matt Freese (New York City), Matt Turner (New England Revolution).\n\nDefenders: Max Arfsten (Columbus Crew), Sergino Dest (PSV Eindhoven), Alex Freeman (Villarreal), Mark McKenzie (Toulouse), Tim Ream (Charlotte FC), Chris Richards (Crystal Palace), Antonee Robinson (Fulham), Miles Robinson (Cincinnati), Joe Scally (Borussia Monchengladbach), Auston Trusty (Celtic).\n\nMidfielders: Tyler Adams (Bournemouth), Sebastian Berhalter (Vancouver Whitecaps), Weston McKennie (Juventus), Cristian Roldan (Seattle Sounders), Brenden Aaronson (Leeds United), Christian Pulisic (AC Milan), Gio Reyna (Borussia Monchengladbach), Malik Tillman (Bayer Leverkusen), Tim Weah (Marseille), Alejandro Zendejas (Club America).\n\nForwards: Folarin Balogun (Monaco), Ricardo Pepi (PSV Eindhoven), Haji Wright (Coventry City).",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}
