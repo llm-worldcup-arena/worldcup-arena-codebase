@@ -1,0 +1,16 @@
+{
+ "team": "ENG",
+ "source": "sportsmole.co.uk",
+ "url": "https://www.sportsmole.co.uk/football/england/world-cup-2026/team-news/mexico-vs-england-injury-suspension-list-predicted-xis_600613.html",
+ "title": "Team News: Mexico vs. England injury, suspension list, predicted XIs | World Cup 2026 - Sports Mole",
+ "news_date": "2026-07-05",
+ "published": "2026-07-05T00:00:00Z",
+ "tier": "2",
+ "lang": "es",
+ "asof": "2026-07-07",
+ "fetched": "2026-07-07_0900",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "Aiming to do what no team has ever done before, England seek a first-ever World Cup win for a visiting team at Estadio Azteca, when they battle Mexico in Sunday's last-16 tie.\n\nThe Three Lions fought back to defeat Congo 2-1 and set up a showdown with El Tri, who were 2-0 winners over Ecuador in the last 32, and here Sports Mole rounds up the team news for both clubs.\n\nGet FREE daily news and in-depth previews for games from the biggest leagues and competitions in world football — straight to your inbox.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

@@ -1,0 +1,24 @@
+{
+ "source": "beinsports.com",
+ "url": "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/possible-united-states-lineup-to-face-belgium-in-the-fifa-world-cup-2026-round-of-16-2026-07-06",
+ "title": "Possible United States lineup to face Belgium in the FIFA World Cup 2026 Round of 16",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-07-06",
+  "home": "USA",
+  "away": "BEL",
+  "home_en": "United States",
+  "away_en": "Belgium",
+  "home_zh": "美国",
+  "away_zh": "比利时",
+  "comp": "r16",
+  "match_id": "M94",
+  "slug": "2026-07-06_USA_vs_BEL"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "After advancing through the previous round, the United States faces one of its biggest challenges of the FIFA World Cup 2026 as it takes on Belgium in the Round of 16. Mauricio Pochettino's side is expected to field a balanced lineup, blending experience and energy in an effort to overcome one of the tournament's strongest teams.\n\nIn goal, Matt Freese is expected to start between the posts for the United States. The defensive line would feature Antonee Robinson, Chris Richards, Tim Ream, and Alex Freeman , a back line that will look to stay organized and contain Belgium's attacking threat.\n\nProviding width and attacking support from the flank, Sergiño Dest is expected to operate as an attack-minded wing-back.\n\nThe midfield would be led by Tyler Adams , who is expected to provide balance and defensive stability, alongside Malik Tillman and Weston McKennie , two midfielders capable of winning possession and joining the attack. Out wide, Christian Pulisic would be the team's main creative force and one of the United States' biggest attacking weapons.\n\nUp front, Folarin Balogun is expected to lead the line for the Americans. The striker will look to capitalize on the spaces created by Pulisic and the late runs from midfield as he aims to provide the goals in what promises to be a highly competitive matchup.\n\nMatt Freese, Antonee Robinson, Chris Richards, Tim Ream, Alex Freeman, Sergiño Dest, Malik Tillman, Tyler Adams, Weston McKennie, Christian Pulisic, and Folarin Balogun.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

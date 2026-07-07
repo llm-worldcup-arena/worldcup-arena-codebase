@@ -1,0 +1,16 @@
+{
+ "team": "NOR",
+ "source": "standard.co.uk",
+ "url": "https://www.standard.co.uk/sport/football/norway-xi-vs-brazil-starting-lineup-confirmed-team-news-injury-latest-world-cup-2026-today-b1288753.html",
+ "title": "Brazil vs Norway LIVE: World Cup 2026 result, latest updates and fan reaction after Haaland masterclass | The Standard",
+ "news_date": "2026-07-07",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-07-07",
+ "fetched": "2026-07-07_0900",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Brazil vs Norway LIVE: World Cup 2026 result, latest updates and fan reaction after Haaland masterclass\nsport | football\nTransfer news LIVE: Arsenal eye striker deal, Guimaraes twist; Man Utd want Santos; Chelsea, Liverpool latest\nFollow the latest news, rumours and gossip throughout the summer window",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

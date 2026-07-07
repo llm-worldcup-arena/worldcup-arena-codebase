@@ -1,0 +1,16 @@
+{
+ "team": "COL",
+ "source": "amp.marca.com",
+ "url": "https://amp.marca.com/en/world-cup/2026/07/05/terrible-news-for-the-colombia-national-team-jhon-cordoba-will-miss-the-2026-world-cup-due-to-a-serious-injury.html",
+ "title": "Terrible news for the Colombia National Team: Jhon Córdoba will miss the 2026 World Cup due to a serious injury",
+ "news_date": "2026-07-05",
+ "published": "2026-07-05T14:58:18Z",
+ "tier": "2",
+ "lang": "es",
+ "asof": "2026-07-07",
+ "fetched": "2026-07-07_0900",
+ "method": "jsonld:articleBody",
+ "status": "ok",
+ "original_text": "The historic qualification of the Colombia National Team for the round of 16 of the 2026 World Cup has left a bittersweet taste around La Tricolor. Despite the fervor and joy over the victory against Ghana, the coaching staff led by Néstor Lorenzo has received the worst possible news: striker Jhon Córdoba will miss the rest of the global tournament due to a severe muscle injury. The incident that set off alarm bells occurred last Friday, July 3, during the round of 32 match against the Ghanaian side, played at Children's Mercy Park in Kansas City. It was only the 6th minute when the Krasnodar striker from Russia pushed himself to the limit in a run down the right flank, contesting a loose ball. Immediately after the effort, Córdoba grabbed the back of his left leg and, after trying to stay on his feet for a few moments while showing clear signs of pain, looked toward the bench and asked to be substituted. In the 8th minute, he left the field walking with difficulty to make way for Luis Javier Suárez. 'Néstor Lorenzo would later describe the moment in the post-match press conference with a worrying phrase: \"Jhon Córdoba felt a twinge\".' After undergoing the mandatory diagnostic tests and an electromagnetic resonance scan by the medical department of the Colombian Football Federation, the suspicions were confirmed. The Chocó-born forward suffered a tear in the adductor of his left leg, an injury whose severity stipulates an estimated recovery time of four weeks. This physical problem is not entirely new for the player. Córdoba had already been dealing with hamstring tendon discomfort that kept him from getting minutes in the previous warm-up friendlies against Costa Rica and Jordan, also forcing him to miss the World Cup opener against Uzbekistan. Although he had managed to recover enough to get minutes against the Democratic Republic of the Congo and start against Portugal, the overload and the blow against Ghana ultimately brought his participation to a definitive end. Jhon Córdoba's withdrawal presents an extremely adverse scenario for the national team. According to Article 24 (paragraph 2) of FIFA's official regulations for the World Cup, national teams are only allowed to replace a player from the final squad in the event of a serious injury up to 24 hours before the opening match of the tournament. The only exception to this rule applies exclusively to goalkeepers. Since he is an outfield player, the Colombia National Team will not be able to call up any replacement from the provisional list and will have to face the remainder of the World Cup with 25 players.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}
