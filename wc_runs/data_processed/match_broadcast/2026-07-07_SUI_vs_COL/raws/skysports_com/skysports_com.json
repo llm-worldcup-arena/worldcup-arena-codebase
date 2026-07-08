@@ -1,0 +1,24 @@
+{
+ "source": "skysports.com",
+ "url": "https://www.skysports.com/football/news/11095/13560517/world-cup-2026-switzerland-0-0-colombia-pens-4-3-swiss-through-to-quarter-finals-to-face-argentina-after-shoot-out-success",
+ "title": "World Cup 2026: Switzerland 0-0 Colombia (Pens: 4-3) - Swiss through to quarter-finals to face Argentina after shoot-out success",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-07-07",
+  "home": "SUI",
+  "away": "COL",
+  "home_en": "Switzerland",
+  "away_en": "Colombia",
+  "home_zh": "瑞士",
+  "away_zh": "哥伦比亚",
+  "comp": "r16",
+  "match_id": "M96",
+  "slug": "2026-07-07_SUI_vs_COL"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Switzerland held their nerve to edge a tight and cagey contest with a 4-3 penalty shoot-out success over unfortunate Colombia and seal a quarter-final meeting with World Cup holders Argentina on Saturday. Ruben Vargas shook off his pre-game injury doubts to deliver the decisive spot-kick after a painful 120 minutes of goalless knockout football, where neither side managed to impose themselves, needing the cruelty of a shoot-out to finally reveal a winner. The extra-time period at least offered slightly more excitement, with Jhon Lucum crashing a header against the crossbar and Jaminton Campaz inexplicably fluffing the best opening of the match, which was probably justly decided by the lottery of kicks from 12 yards.   Colombia's Davinson Sanchez was the first to miss his penalty but was reprieved by Manuel Akanji skiing his attempt over the crossbar. Cucho Hernandez was then denied by a brilliant save from Gregor Kobel, allowing Vargas to latterly seal the deal. The outcome felt harsh on a Colombian side whose gameplan was far more adventurous and expansive than their more conservative European counterparts in front of a partisan crowd in Canada, but they ultimately lacked a finisher, and paid a brutal price. Swiss persistence prevailed in the end - their first ever World Cup shoot-out victory - sealing a first quarter-final appearance since hosting the tournament all the way back in 1954. Colombian tears flowed. Their vast promise never got its rightful reward. The key moments from Vancouver 21: SHOT! Gustavo Puerta's long-range effort is pushed to safety by Kobel. 30: CHANCE! Fabian Reider's strike is blasted straight at Camilo Vargas. 52: Reider's attempt from a free-kick is curled around the wall but flashes into the side-netting. 99: CROSSBAR! Jhon Lucumi's free header from a corner is planted against the woodwork. 116: HUGE CHANCE! Granit Xhaka gets caught on the ball and Colombia spring into the box via Campaz, who ballooned wide. 120: PENALTIES! Sanchez misses for Colombia and Akanji fires his kick over the bar. Cucho Hernandez is denied by Kobel. Vargas buries the decider. How do steady Swiss approach Argentina? Sky Sports' Laura Hunter: Switzerland's campaign has been less about high-profile stars and more about solidity and consistency. It's got them this far, so it's hard to argue. But you have to wonder how on earth they go about going toe-to-toe with the class of Argentina in three days time. They have hearts of lions, proper spirit, but a lack of elite quality will surely be a limiting factor. Talented midfielder Johan Manzambi missed their last 16 tie altogether and star man Vargas played a bit-part role - albeit converted the critical fifth penalty - and both will be needed for any realistic prospect of beating the holders. The Swiss are at least comfortable in possession and have proven their organisational structure works without the ball, but this will be different. More intensity against better players. Granit Xhaka often has a command of the middle third but won't be able shackle Lionel Messi single-handedly. How their approach changes from here will be fascinating. Luck will need to strike again to stand any chance.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

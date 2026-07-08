@@ -377,6 +377,17 @@
     "USA_vs_BEL": {
       "score": "1-4",
       "ht": "1-2"
+    },
+    "ARG_vs_EGY": {
+      "score": "3-2",
+      "ht": "0-1"
+    },
+    "SUI_vs_COL": {
+      "score": "0-0",
+      "ht": "0-0",
+      "pens": "4-3",
+      "ko_winner": "SUI",
+      "note": "常规+加时0-0,瑞士点球4-3晋级(Vargas制胜点球)"
     }
   },
   "group_winners": {

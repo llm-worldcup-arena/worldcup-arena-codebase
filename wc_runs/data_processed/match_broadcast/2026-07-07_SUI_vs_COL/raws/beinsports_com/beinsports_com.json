@@ -1,0 +1,24 @@
+{
+ "source": "beinsports.com",
+ "url": "https://www.beinsports.com/en-mena/football/fifa-world-cup-2026/articles-video/switzerland-vs-colombia-latest-2026-07-07",
+ "title": "Switzerland beat Colombia on penalties to reach World Cup quarter-finals",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-07-07",
+  "home": "SUI",
+  "away": "COL",
+  "home_en": "Switzerland",
+  "away_en": "Colombia",
+  "home_zh": "瑞士",
+  "away_zh": "哥伦比亚",
+  "comp": "r16",
+  "match_id": "M96",
+  "slug": "2026-07-07_SUI_vs_COL"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Goalkeeper Gregor Kobel proved the hero in the shootout, saving Cucho Hernandez's penalty before Ruben Vargas converted the decisive spot-kick to send the Swiss into a last-eight meeting with defending champions Argentina.\n\nThe final Round of 16 tie of the tournament was a tightly contested affair, with both sides struggling to create clear-cut chances against two disciplined defences.\n\nColombia threatened first when Gustavo Puerta's curling effort from the edge of the area was brilliantly tipped away by Kobel, while Switzerland responded through Fabian Rieder and Dan Ndoye, both denied by Camilo Vargas.\n\nThe contest remained evenly balanced after the break. Switzerland enjoyed more of the possession, but Colombia looked dangerous on the counter, although Luis Suarez fired wastefully wide with one of their best opportunities.\n\nExtra time finally brought the game to life.\n\nJhon Lucumi headed against the crossbar from a corner before Kobel produced another outstanding save to deny Jaminton Campaz, while at the other end Camilo Vargas kept out substitute Zeki Amdouni.\n\nCampaz then squandered a golden opportunity to win the match in the closing stages of extra time, sending the tie to a penalty shootout.\n\nAfter both sides missed from the spot, Kobel produced the decisive save to deny Cucho Hernandez, leaving Ruben Vargas to calmly convert the winning penalty.\n\nSwitzerland advance to the quarter-finals for the first time since 1954 and will face Argentina on Saturday for a place in the last four.\n\nRuben Vargas converts the decisive penalty as Switzerland prevail in the shootout and are through to the quarter-finals.\n\nThe biggest chance of the game goes begging as Jaminton Campaz fires over.\n\nWatch Switzerland vs Argentina LIVE on beIN SPORTS MAX channels!",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

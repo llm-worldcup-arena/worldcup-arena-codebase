@@ -1,0 +1,24 @@
+{
+ "source": "bbc.com",
+ "url": "https://www.bbc.com/pidgin/articles/cx235p04kweo",
+ "title": "Argentina vs Egypt highlights: Lionel Messi and Enzo Fernandez goals carry Argentine to Fifa World Cup 2026 quarter-final  - BBC News Pidgin",
+ "published": "2026-07-07T10:40:35.677Z",
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-07-07",
+  "home": "ARG",
+  "away": "EGY",
+  "home_en": "Argentina",
+  "away_en": "Egypt",
+  "home_zh": "阿根廷",
+  "away_zh": "埃及",
+  "comp": "r16",
+  "match_id": "M95",
+  "slug": "2026-07-07_ARG_vs_EGY"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Defending champions Argentina beat Egypt to qualify for di quarter-finals of di 2026 Fifa World Cup.\n\nArgentina come from 2-0 down to lead Egypy afta Enzo Fernandez jump high and head di ball into di bottom left corner for injury time.\n\nDi last goal na from wen Lautaro Martinez cross di ball from di left and Chelsea midfielder Enzo Fernandez dey dia for di back post chnace di header past Mostafa Shobeir.\n\nLionel Messi first level di score sheet for Argentina for di 83 miniutes to make up for di penalty wey im miss bifor afta Tottenham defender Romero pull one back for Argentina.\n\nArgentina go now face Switzerland or Colombia for di quarter-final game.\n\nFor di 67 minutes, Mostafa Zico double di score for Egypt to put dem two goals ahead of di Argentine team.\n\nMessi penalty wey e miss na part of di highlights of di match afta Egypt goalkeeper punch di ball comot.\n\nOgbonge 90 minutes of footbal wey pipo tink say e go enta extra time but Argentina say no way wit late goal.\n\nTears of joy from Argentina players, tears of sadness from di Egyptians.\n\nLionel Messi also cry becos im World Cup career dey just minutes away from ova, but en dem need am most, e show up wit assist for di first goal and score di equaliser.\n\nDis na one of di great World Cup comebacks wia Argentina fight through to di next stage of di tournament.\n\nArgentina and Egypt face each oda for dis 2026 FIFA World Cup Round of 16 on Tuesday, July 7 2026, for Atlanta Stadium.\n\nAs many pipo bin expect, Argentina don qualify for di Round of 16 for di sixth straight World Cup. But e no easy for dem as many pipo bin tink.\n\nFor one of di most exciting World Cup matches ever, Argentina need extra time bifor dem fit beat Cape Verde, wey dey play dia first World Cup, for di Round of 32.\n\nWit dat win, Argentina don now win 11 straight matches, wey be dia longest winning run eva, and dem neva lose for dia last 10 World Cup matches, wey also match dia record.\n\nLa Albiceleste don score two or more goals for 10 straight World Cup matches, equal di second-longest run ever (West Germany from 1938-58) and just one match behind di longest record wey Uruguay set from 1930-54.\n\nWit di goal wey Lionel Messi score against Cape Verde, e don now score seven of Argentina 11 goals for dis World Cup, and di equaliser against Egypt make am eight goals.\n\nMeanwhile, Egypt qualify for di World Cup knockout stage for di first time for dia history afta dem beat Australia 4-2 for penalty shootout following 1-1 draw, but dat hope don end again.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

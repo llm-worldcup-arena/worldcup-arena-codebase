@@ -1,0 +1,16 @@
+{
+ "team": "ENG",
+ "source": "rugby-addict.com",
+ "url": "https://www.rugby-addict.com/en-ie/article/newcastle/mexico-vs-england-injury-suspension-list-predicted-xis-world-cup-2026/6a49db2582413af37d03229f",
+ "title": "Mexico vs. England injury, suspension list, predicted XIs | World Cup 2026 | Rugby-Addict",
+ "news_date": "2026-07-08",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-07-08",
+ "fetched": "2026-07-08_0900",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "Mexico vs. England injury, suspension list, predicted XIs | World Cup 2026\n04/07/2026 20:00\nSports Mole rounds up all of the latest injury and suspension news ahead of Sunday's World Cup 2026 last-16 clash between Mexico and England.\nTop 6 NEWCASTLE\n1.\n2.\n3.\n4.\n5.\n6.\nSponsored\nSponsored\nSponsored\nSponsored\nSponsored\n🔥 Still a little time ? Take a look at these recommendations !",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

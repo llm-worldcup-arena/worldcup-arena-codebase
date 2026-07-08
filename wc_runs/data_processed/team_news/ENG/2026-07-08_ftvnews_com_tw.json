@@ -1,0 +1,16 @@
+{
+ "team": "ENG",
+ "source": "ftvnews.com.tw",
+ "url": "https://www.ftvnews.com.tw/news/detail/2026616W0728",
+ "title": "世界盃／英格蘭後衛因傷退賽 Trevoh Chalobah緊急遞補 - 民視新聞網",
+ "news_date": "2026-07-08",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-07-08",
+ "fetched": "2026-07-08_0900",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "2026年世界盃（World Cup）開打在即，英格蘭國家隊卻傳出傷兵噩耗。23歲後衛 Tino Livramento 在訓練中不幸小腿受傷，遺憾宣布退出本屆賽事，教練團緊急徵召切爾西（Chelsea）後衛 Trevoh Chalobah 遞補入隊。\n英格蘭代表隊官方發表聲明指出，效力於英超（Premier League）紐卡索聯（Newcastle）的右後衛 Tino Livramento，週日在堪薩斯城（Kansas City）的訓練基地進行訓練時，不慎傷及小腿。經過週一的詳細掃描與醫療評估後，遺憾確認他無法參與接下來的世界盃賽事。\n為了填補戰力空缺，英格蘭隊緊急徵召了效力於切爾西（Chelsea）、現年26歲的中後衛 Trevoh Chalobah 進入26人名單。不過，由於時間緊迫，Trevoh Chalobah 預計要到週三首場小組賽結束後，才會前往堪薩斯城的基地與球隊會合。\n英格蘭本屆世界盃被分在L組，首場分組賽將於週三在德州阿靈頓（Arlington, Texas）迎戰強敵克羅埃西亞，同組對手還包括迦納與巴拿馬。現年23歲的 Tino Livramento 先前就曾因大腿傷勢缺席英超賽季末段，如今再度因傷無緣世界盃，對他與英格蘭隊無疑是一大打擊。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

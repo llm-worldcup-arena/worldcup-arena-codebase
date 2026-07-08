@@ -1,0 +1,24 @@
+{
+ "source": "nytimes.com",
+ "url": "https://www.nytimes.com/athletic/football/game/colombia-vs-switzerland/lvm8kSApbrJea5cq/",
+ "title": "Colombia vs Switzerland Box Score - July 07, 2026 - The Athletic",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-07-07",
+  "home": "SUI",
+  "away": "COL",
+  "home_en": "Switzerland",
+  "away_en": "Colombia",
+  "home_zh": "瑞士",
+  "away_zh": "哥伦比亚",
+  "comp": "r16",
+  "match_id": "M96",
+  "slug": "2026-07-07_SUI_vs_COL"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Idea: call this a draw and put the top six swiss and colombian players on a combined team vs argentina.\n\nI can barely remember the '94 Cup ... no Internet, not much cable, no YouTube highlights, no live Athletic chat. This year's WC, especially through discussions like these ... have made it far more of a community than I have ever imagined it could be, here in the US. Ironically, my born in 1928 mother was a big soccer fan -- 2nd gen English. Thank you, beautiful game, for enduring.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

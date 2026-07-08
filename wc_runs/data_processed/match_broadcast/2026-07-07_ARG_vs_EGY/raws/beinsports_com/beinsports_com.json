@@ -1,0 +1,24 @@
+{
+ "source": "beinsports.com",
+ "url": "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/predicted-egypt-lineup-to-face-argentina-in-the-fifa-world-cup-2026-round-of-16-2026-07-07",
+ "title": "Predicted Egypt lineup to face Argentina in the FIFA World Cup 2026 Round of 16",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-07-07",
+  "home": "ARG",
+  "away": "EGY",
+  "home_en": "Argentina",
+  "away_en": "Egypt",
+  "home_zh": "阿根廷",
+  "away_zh": "埃及",
+  "comp": "r16",
+  "match_id": "M95",
+  "slug": "2026-07-07_ARG_vs_EGY"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "After advancing through a demanding previous stage, Egypt now faces one of the biggest challenges in its recent history as it takes on Argentina in the Round of 16 of the FIFA World Cup 2026.\n\nHossam Hassan's side is expected to line up in a 4-2-3-1 formation , aiming to stay defensively organized while using the pace of its attacking players to trouble one of South America's football powerhouses.\n\nIn goal, Mostafa Shoubir is expected to retain his place between the posts. Ahead of him, Mohamed Hany and Ahmed Fatouh would operate as full-backs, while Ramy Rabia and Karim Hafez are projected to form the center-back pairing tasked with containing Argentina's dangerous attack.\n\nIn midfield, Marwan Atteya and Hamdy Fathy would make up the double pivot, providing balance, ball recovery, and distribution.\n\nFurther forward, Emam Ashour is expected to play as the attacking midfielder, with Mohamed Salah and Mostafa Zico occupying the wings. Salah's experience and ability to create chances in transition will be crucial, while Ashour will look to link midfield and attack.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

@@ -1,0 +1,24 @@
+{
+ "source": "aljazeera.com",
+ "url": "https://www.aljazeera.com/news/2026/7/6/argentina-vs-egypt-fifa-world-cup-last-16-messi-salah-prediction-kickoff-news",
+ "title": "Messi vs Salah as Argentina face Egypt with World Cup quarters on the line",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-07-07",
+  "home": "ARG",
+  "away": "EGY",
+  "home_en": "Argentina",
+  "away_en": "Egypt",
+  "home_zh": "阿根廷",
+  "away_zh": "埃及",
+  "comp": "r16",
+  "match_id": "M95",
+  "slug": "2026-07-07_ARG_vs_EGY"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Lionel Messi’s Argentina go up against Mohamed Salah’s Egypt in a spicy World Cup round of 16 encounter.\n\nFour wins to go. How can your team reach the final and win the World Cup 2026? Click here to find out.\n\nWho : Argentina vs Egypt\nWhat : FIFA World Cup 2026 – Round of 16\nWhere : Atlanta Stadium, Atlanta, Georgia, the United States\nWhen : Tuesday, July 7, at 12pm (16:00 GMT)\nHow to follow : We will have all the build-up on",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

@@ -1,0 +1,24 @@
+{
+ "source": "si.com",
+ "url": "https://www.si.com/soccer/argentina-vs-egypt-world-cup-live-score-match-stats",
+ "title": "Argentina 3-2 Egypt—World Cup: Match Stats, As it Happened",
+ "published": "2026-07-07T15:00:03Z",
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-07-07",
+  "home": "ARG",
+  "away": "EGY",
+  "home_en": "Argentina",
+  "away_en": "Egypt",
+  "home_zh": "阿根廷",
+  "away_zh": "埃及",
+  "comp": "r16",
+  "match_id": "M95",
+  "slug": "2026-07-07_ARG_vs_EGY"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Argentina’s defense of the World Cup goes on after a staggering 3–2 comeback win over Egypt in Atlanta.\n\nLionel Messi and co. were overwhelming favorites to book a date with Switzerland or Colombia in the quarterfinals, but the script looked to have been well and truly ripped up by Egypt who produced a brilliant display of counterattacking soccer.\n\nYasser Ibrahim’s 15th-minute header silenced the many thousands of Argentina fans in attendance at Mercedes-Benz Stadium and there was further disbelief when Messi—the top scorer at the 2026 World Cup alongside Kylian Mbappé heading into the game—inexplicably missed a second penalty of the tournament soon after.\n\nNicolas Tagliafico had been felled in the area by an unawares Haissem Hassan, who seemed to be surprised that the left back had latched onto a through ball inside the channel as he quickly as he did, but Messi was denied from 12 yards by Egypt goalkeeper Mostafa Ahmed Shobeir, who sprung to his left to keep out a penalty that was nowhere near the corner.\n\nMessi’s miss from the penalty spot was his fourth in World Cup tournament history, and it looked as if his faux pas would be punished in the ultimate fashion. Having already had a goal ruled out for a foul on Lisandro Martínez in the buildup, Mostafa Zico swept a second home with 67 minutes on the clock—a quality finish that capped another lightning counter from Egypt.\n\nBut Argentina has a long history of never knowing when its beaten, and the intestinal fortitude its shown in years gone by came to the fore once more. Cristian Romero bundled home from close range with just over 10 minutes remaining, before Messi redeemed his penalty woe by lashing in a crisp half-volley a few minutes later.\n\nWith Argentina’s raucous support fully believing once more, Enzo Fernández sealed a memorable win for his country in the second minute of injury-time—in doing so, he scored the 3,000th goal in World Cup history and helped La Albiceleste avoid the biggest upset of all time.\n\nToby Cudworth is Lead Editor for SI FC. A Premier League, EFL and UEFA accredited journalist, Cudworth is a graduate of the University of Gloucestershire, where he studied Broadcast Journalism. He previously worked for 90min as a writer, academy manager, editor and eventually content lead, before joining Sports Illustrated in May 2025. A lifelong supporter of West Ham United, he still can’t quite believe they won a European trophy and feels nature is healing now that results have slipped back into the yo-yo patterns of the last 30 years.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

@@ -1,0 +1,24 @@
+{
+ "source": "amp.marca.com",
+ "url": "https://amp.marca.com/en/world-cup/2026/07/06/colombia-s-nightmare-record-the-edge-switzerland-could-exploit-at-the-2026-world-cup.html",
+ "title": "Colombia",
+ "published": "2026-07-06T13:26:54Z",
+ "tier": "2",
+ "lang": "es",
+ "match": {
+  "date": "2026-07-07",
+  "home": "SUI",
+  "away": "COL",
+  "home_en": "Switzerland",
+  "away_en": "Colombia",
+  "home_zh": "瑞士",
+  "away_zh": "哥伦比亚",
+  "comp": "r16",
+  "match_id": "M96",
+  "slug": "2026-07-07_SUI_vs_COL"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "The 2026 World Cup fever continues to sweep across North America, and the Colombian national team has already secured a place in the tournament's history books before even kicking off its Round of 16 clash. Néstor Lorenzo's side has achieved an unprecedented milestone by becoming the only one of the 48 participating nations to play matches in all three host countries — the United States, Mexico, and Canada. While the feat stands as a unique badge of honor, it has also raised serious concerns within Colombia's camp over the physical toll of such extensive travel. The Cafeteros began their campaign in Mexico, adapting to the unique conditions of their opening matches before traveling to the United States for encounters against Portugal and Ghana, where they enjoyed strong support from Latino fans. Now, their Round of 16 showdown against Switzerland requires yet another rapid relocation, this time to Canada, completing a remarkable transcontinental journey across all three host nations. No other team at the tournament has been required to navigate such a demanding schedule of airports, border crossings, time-zone adjustments, and climate changes in such a short period. While several European contenders have been able to establish stable base camps and play their matches within a relatively small geographic area, Colombia has repeatedly crossed vast stretches of North America. The accumulation of travel miles and the disruption of recovery cycles have become a major concern for the team's medical staff. Colombia has reportedly traveled more than 9,500 kilometers by air, forcing coaches and fitness specialists to implement recovery plans during flights to minimize the effects of jet lag and muscular fatigue. In a World Cup spread across a continent-sized region, every hour spent traveling is an hour lost on the training pitch. Switzerland's path to the knockout stage has been considerably kinder from a logistical standpoint. The European side has benefited from shorter journeys and a more stable travel schedule, allowing players to maximize rest and recovery time throughout the group stage. As a result, the Swiss could hold a physical advantage if the match extends into extra time or penalties. Analysts believe Switzerland's trademark high-intensity pressing game may be strengthened against a Colombian side carrying the accumulated fatigue of competing in three different countries. Lorenzo's challenge will be to offset that energy gap through smart squad management and controlled possession. Despite the demanding circumstances, Colombia's players have refused to use travel fatigue as a pre-match excuse. Team leaders have emphasized that the pride of representing their country and the opportunity to continue their World Cup journey outweigh any physical discomfort. Inside the dressing room, the historic achievement is viewed as proof of the group's adaptability and resilience. Still, concerns remain. Reports from recent training sessions suggest several key players are dealing with minor muscular overload issues, leaving the coaching staff monitoring their condition right up until kickoff. World Cup history has repeatedly shown that seemingly small details—such as recovery time, travel demands, and physical freshness—can make all the difference in knockout matches. Colombia's battle against Switzerland may not be decided solely by tactics, but also by how well the South Americans cope with the invisible effects of their extraordinary North American tour. If they can overcome the physical challenges and impose their dynamic style of play, their record of competing in all three host countries may ultimately be remembered not as a disadvantage, but as a legendary chapter in Colombia's World Cup story.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}
