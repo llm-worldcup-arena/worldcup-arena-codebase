@@ -209,43 +209,6 @@ def _glm_search(messages, model, timeout, max_uses):
                         {"Authorization": f"Bearer {cfg['_key']}"}, model)
 
 
-def _claude_fn_search(messages, model, timeout, max_uses, cfg, hdr, root):
-    """Claude 客户端搜索兜底(2026-07-10 加)：DMX 渠道对 opus-4-8 剥离托管 web_search(400 not supported)时,
-    照 GLM _glm_search 的路子——给模型自定义 web_search function 工具,模型自选 query,我方用
-    web_search_urls(Apify Google)执行后以 tool_result 喂回。thinking/effort 与主路一致,搜索最多 3 轮×6 条。"""
-    sys_txt = "\n".join(x["content"] for x in messages if x["role"] == "system")
-    tools = [{"name": "web_search",
-              "description": "联网搜索实时信息（伤停/赛果/状态/赔率/新闻等），返回相关网页摘要",
-              "input_schema": {"type": "object", "properties": {
-                  "query": {"type": "string", "description": "搜索关键词"}}, "required": ["query"]}}]
-    msgs = [x for x in messages if x["role"] != "system"]
-    rounds = min(max_uses, int(os.environ.get("WC_GLM_MAX_USES", "3")))
-    for i in range(rounds + 1):
-        body = {"model": model, "max_tokens": 32000,
-                "thinking": {"type": "adaptive"}, "output_config": {"effort": "high"},
-                "messages": msgs, "tools": tools if i < rounds else []}
-        if i == rounds and any(x.get("role") == "user" and isinstance(x.get("content"), list) for x in msgs):
-            msgs.append({"role": "user", "content": "请停止继续搜索，直接基于以上资料完成最终回答。"})
-            body["messages"] = msgs
-        if sys_txt:
-            body["system"] = sys_txt
-        d = _post(f"{root}/v1/messages", body, hdr, timeout)
-        content = d.get("content", [])
-        tool_uses = [b for b in content if b.get("type") == "tool_use"]
-        if d.get("stop_reason") == "tool_use" and tool_uses:
-            msgs.append({"role": "assistant", "content": content})   # 原样回传(含 thinking 块,保签名)
-            results = []
-            for tu in tool_uses:
-                q = (tu.get("input") or {}).get("query", "")
-                hits = web_search_urls(q, n=6) if q else []
-                txt = "\n".join(f"- {h['title']}：{h['content']}（{h['link']}）" for h in hits) or "（无结果）"
-                results.append({"type": "tool_result", "tool_use_id": tu["id"], "content": txt})
-            msgs.append({"role": "user", "content": results})
-            continue
-        return "".join(b.get("text", "") for b in content if b.get("type") == "text")
-    return ""
-
-
 def _openrouter_search(messages, model, timeout, max_uses=5):
     """OpenRouter 通道(2026-06-18 定):Claude/GPT/Gemini 走这里(id 带斜杠,如 anthropic/claude-opus-4.8、
     openai/gpt-5.5-pro、google/gemini-3.1-pro-preview)。reasoning:{effort:high}=最高档思考 + 联网。
@@ -284,7 +247,6 @@ def chat_search(messages, model, temperature=0.3, timeout=300, max_uses=5):
 
     if m.startswith("claude"):                                       # Anthropic 原生：system 提到顶层参数
         sys_txt = "\n".join(x["content"] for x in messages if x["role"] == "system")
-        hdr = {**auth, "x-api-key": cfg["_key"], "anthropic-version": "2023-06-01"}
         body = {"model": model, "max_tokens": 32000,                  # thinking 模型禁自定温度 → 不传 temperature
                 "thinking": {"type": "adaptive"},                     # DMX 2026-06 起改用 adaptive + output_config.effort 控制思考强度
                 "output_config": {"effort": "high"},
@@ -292,15 +254,9 @@ def chat_search(messages, model, temperature=0.3, timeout=300, max_uses=5):
                 "tools": [{"type": "web_search_20250305", "name": "web_search", "max_uses": max_uses}]}
         if sys_txt:
             body["system"] = sys_txt
-        try:
-            d = _post(f"{root}/v1/messages", body, hdr, timeout)
-            return "".join(b.get("text", "") for b in d["content"] if b.get("type") == "text")
-        except urllib.error.HTTPError as e:
-            err = e.read().decode(errors="replace")[:300]
-            if e.code == 400 and "not supported" in err:              # DMX 渠道剥离托管 web_search(4-8 曾 7/5、7/10 两犯)
-                print(f"  ! Claude 托管 web_search 被拒,降级客户端搜索(function+Apify):{err[:80]}")
-                return _claude_fn_search(messages, model, timeout, max_uses, cfg, hdr, root)
-            raise
+        d = _post(f"{root}/v1/messages", body,
+                  {**auth, "x-api-key": cfg["_key"], "anthropic-version": "2023-06-01"}, timeout)
+        return "".join(b.get("text", "") for b in d["content"] if b.get("type") == "text")
 
     if m.startswith("gpt") or m.startswith("doubao"):                # OpenAI Responses 兼容通道
         rbody = {"model": model, "input": messages, "tools": [{"type": "web_search"}],
