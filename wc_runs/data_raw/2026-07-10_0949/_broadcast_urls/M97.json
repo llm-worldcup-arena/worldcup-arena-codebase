@@ -1,7 +1,37 @@
 [
- {"name": "abcnews_com", "source": "abcnews.com (AP wire)", "url": "https://abcnews.com/Sports/wireStory/france-morocco-meet-world-cup-time-quarterfinals-134630340", "tier": "1", "lang": "en"},
- {"name": "aljazeera_com", "source": "aljazeera.com", "url": "https://www.aljazeera.com/sports/2026/7/9/mbappe-and-dembele-net-as-france-beat-morocco-to-reach-world-cup-semifinal", "tier": "1", "lang": "en"},
- {"name": "foxnews_com", "source": "foxnews.com", "url": "https://www.foxnews.com/sports/kylian-mbappe-ousmane-dembele-fire-france-world-cup-semifinals-win-over-morocco", "tier": "2", "lang": "en"},
- {"name": "yahoo_com", "source": "sports.yahoo.com", "url": "https://sports.yahoo.com/soccer/breaking-news/article/2026-world-cup-france-overpowers-morocco-behind-kylian-mbappe-ousmane-dembele-goals-to-return-to-semifinals-220628026.html", "tier": "2", "lang": "en"},
- {"name": "olympics_com", "source": "olympics.com", "url": "https://www.olympics.com/en/news/fifa-world-cup-2026-france-morocco-quarter-final-score-lineups-live-updates", "tier": "2", "lang": "en"}
+ {
+  "name": "abcnews_com",
+  "source": "abcnews.com (AP wire)",
+  "url": "https://abcnews.com/Sports/wireStory/france-morocco-meet-world-cup-time-quarterfinals-134630340",
+  "tier": "1",
+  "lang": "en"
+ },
+ {
+  "name": "aljazeera_com",
+  "source": "aljazeera.com",
+  "url": "https://www.aljazeera.com/sports/2026/7/9/mbappe-and-dembele-net-as-france-beat-morocco-to-reach-world-cup-semifinal",
+  "tier": "1",
+  "lang": "en"
+ },
+ {
+  "name": "foxnews_com",
+  "source": "foxnews.com",
+  "url": "https://www.foxnews.com/sports/kylian-mbappe-ousmane-dembele-fire-france-world-cup-semifinals-win-over-morocco",
+  "tier": "2",
+  "lang": "en"
+ },
+ {
+  "name": "npr_org",
+  "source": "npr.org",
+  "url": "https://www.npr.org/2026/07/09/nx-s1-5887619/2026-world-cup-fifa-france-morocco-quarterfinal",
+  "tier": "1",
+  "lang": "en"
+ },
+ {
+  "name": "cnn_com",
+  "source": "cnn.com",
+  "url": "https://www.cnn.com/2026/07/09/sport/live-news/france-morocco-world-cup-score",
+  "tier": "1",
+  "lang": "en"
+ }
 ]

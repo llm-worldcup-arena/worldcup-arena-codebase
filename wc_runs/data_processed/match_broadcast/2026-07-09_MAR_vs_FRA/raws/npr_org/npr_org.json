@@ -1,0 +1,24 @@
+{
+ "source": "npr.org",
+ "url": "https://www.npr.org/2026/07/09/nx-s1-5887619/2026-world-cup-fifa-france-morocco-quarterfinal",
+ "title": "France downs Morocco 2-0 to advance to the World Cup semifinal",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-07-09",
+  "home": "MAR",
+  "away": "FRA",
+  "home_en": "Morocco",
+  "away_en": "France",
+  "home_zh": "摩洛哥",
+  "away_zh": "法国",
+  "comp": "qf",
+  "match_id": "M97",
+  "slug": "2026-07-09_MAR_vs_FRA"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "France forward Kylian Mbappe celebrates scoring his team's first goal during the World Cup quarterfinal against Morocco in Foxborough, Mass. on Thursday.\n\nOdd Andersen/AFP via Getty Images\n\nhide caption\n\nFOXBOROUGH, Mass. — It was billed as a battle of the World Cup heavyweights, and it looked close for a half.\n\nA rematch of the 2022 World Cup semifinal: France, the 2018 champion and 2022 runner-up , against Morocco, the Cinderella from four years ago, and the first Arab and African nation to reach a semifinal. But Morocco could do no better than the quarterfinals this year — losing to France 2-0.\n\nIt did not take long for France to go on the attack. In the fourth minute, striker Kylian Mbappé just missed putting Les Bleus up early with a shot that zipped by the left post. France dominated much of the first half, preventing Morocco from even taking a shot until stoppage time at the end.\n\nThe best first-half opportunity for France came in the 25th minute. Mbappé was tackled near the Morocco goal and won a penalty kick.\n\nThe resulting video review took three minutes, frustrating Mbappé, who wanted to take the kick much sooner. When he eventually shot the penalty, Morocco's keeper Yassine Bounou dove, low and to the right, easily saving the weak effort by Mbappé.\n\nThe French defense stymied Morocco, preventing their offense from getting into a rhythm on a hot, sunny day (it was 89 degrees at kickoff). But France could do no better. At halftime, it was 0-0. The capacity crowd of just over 64,000 at Gillette Stadium wanted more.\n\nMorocco's midfielder Neil El Aynaoui (left) reacts to a missed chance during the World Cup match against France.\n\nFranck Fife/AFP via Getty Images\n\nhide caption\n\nMorocco's ascent to becoming a respected contender at the World Cup is not coincidental. The government has made it a point to invest heavily in the Moroccan national team, even building a state-of-the-art facility and academy, 15 years ago, that experts say rivals France's soccer training site.\n\n\"The king of that country made a decision,\" said Zayn Nabbi, host of the podcast On The Whistle , about African soccer. \"They were gonna invest in football, and they were gonna use it as soft power. A host of stars are turning down the opportunity to play for European nations to play for Morocco.\"\n\nConsider 18-year-old Moroccan midfielder Ayyoub Bouaddi, who was born in France to Moroccan parents, and was courted by the French national team, but ultimately chose Morocco. \"Bouaddi is a symbol of a generational shift in which playing for national teams in Europe is no longer treated as the highest form of recognition,\" wrote journalists Aomar Boum and Brahim El Guabli in the blog Africa is a Country .\n\nBut they were no match for French soccer, which attacked relentlessly in the second half: in the 60th minute came the first French goal. A sensational shot by Mbappé beyond the long stretch of Bounou. It was Mbappé's eighth goal of this tournament, a record 12th in the knockout round, and his 20th goal in the World Cup.\n\nShortly thereafter, Moroccan player Issa Diop received a yellow card for tackling Mbappé, the first and only card of the game .\n\nThe French scoring continued six minutes later. Mbappé flicked a pass to Ousmane Dembélé, who darted through the Moroccan defense and made it 2-0. Mbappé was subbed out in the 77th minute with a slight limp (he sat on the bench with an ice pack on his right ankle).\n\nMorocco did not give up the fight, creating several scoring opportunities late. But they could not find a way to get the ball into the net.\n\nFrance now moves on to the semifinal next Tuesday against either Spain or Belgium, which are playing their quarterfinal match tomorrow in Inglewood, Calif.\n\nNPR's Jasmine Garsd reported from Foxborough, Mass. and Russell Lewis from Birmingham, Ala.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

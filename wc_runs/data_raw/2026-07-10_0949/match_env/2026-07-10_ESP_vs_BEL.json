@@ -20,12 +20,12 @@
  },
  "weather": {
   "开球时段": {
-   "温度C": 24.6,
-   "体感C": 27.6,
+   "温度C": 26.6,
+   "体感C": 29.7,
    "降水概率%": 0,
    "降水mm": 0.0,
-   "风速kmh": 10.6,
-   "湿度%": 65,
+   "风速kmh": 11.7,
+   "湿度%": 57,
    "天况": "晴"
   },
   "source": "open-meteo(免费预报API)",
@@ -33,8 +33,9 @@
   "_note": "临近开球建议 --refresh 刷新"
  },
  "referee": {
-  "name": null,
-  "_note": "待 WebSearch FIFA指派公告"
+  "name": "Michael Oliver(英格兰)",
+  "source": "Squawka/Yahoo/OneFootball 官宣,助理Burt/Mainwaring,四官Abatti(巴西)",
+  "fetched": "2026-07-10_0949"
  },
  "_note": "环境=比赛+时间+地点 确定;天气为开球时段;顶棚 retractable/fixed-canopy 时天气影响有限。"
 }

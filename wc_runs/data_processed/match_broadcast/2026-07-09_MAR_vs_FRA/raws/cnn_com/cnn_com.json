@@ -1,0 +1,24 @@
+{
+ "source": "cnn.com",
+ "url": "https://www.cnn.com/2026/07/09/sport/live-news/france-morocco-world-cup-score",
+ "title": "France books a spot in the World Cup semifinals with a convincing 2-0 win over Morocco | CNN",
+ "published": "2026-07-09T19:00:09.858Z",
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-07-09",
+  "home": "MAR",
+  "away": "FRA",
+  "home_en": "Morocco",
+  "away_en": "France",
+  "home_zh": "摩洛哥",
+  "away_zh": "法国",
+  "comp": "qf",
+  "match_id": "M97",
+  "slug": "2026-07-09_MAR_vs_FRA"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Well, as a Spaniard, I both expected this to happen and dreaded it happening. If you’ve been following France the entire World Cup, you saw this coming. I said earlier that Les Bleus feel inevitable and, much like Thanos, they really do have a sense of purpose that a lot of other teams this tournament have not had. From the get-go today, France pushed the issue against a stout and proud Moroccan defense. While Yassine Bounou and the Atlas Lions defiantly held off for an hour of play, the wall finally fell under the attack of the titans that are Kylian Mbappé and Ousmane Dembélé.\nWhile Morocco did fall quite convincingly today, it did a continent proud as the final African representative in the World Cup, showing tenacity, grit and some free-flowing soccer throughout this edition of the greatest sports tournament on earth. The team has firmly established itself as part of the game’s elite and we will see the Atlas Lions back on the biggest stages. Les Bleus, meanwhile, march into the semifinals looking to contest their third World Cup final in a row – an almost unfathomable achievement in itself before you realize that they were one penalty shootout away from a possible three-peat – and it doesn’t even look like they’ve really ever gotten out of second gear this tournament. Yes, Paraguay pushed France to the limit physically, but it never really looked like the Albirroja was knocking out this juggernaut.\nWe have yet to see the limit of this French side, perhaps because it hasn’t found a suitable opponent yet, but if it does indeed end up playing Spain on July 14 in Arlington, Texas (a repeat of the 2024 Euros semifinal that La Roja won 2-1), we might yet see the most dazzling of heights of any team ever at a World Cup. Now, all attention turns to Los Angeles’ SoFi Stadium to see if Spain can hold up its end of the bargain and make it to the Lone Star State on Tuesday.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}
