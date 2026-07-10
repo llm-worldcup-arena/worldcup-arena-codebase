@@ -1,0 +1,16 @@
+{
+ "team": "NOR",
+ "source": "sports.yahoo.com",
+ "url": "https://sports.yahoo.com/articles/england-xi-vs-norway-confirmed-192458874.html",
+ "title": "World Cup: FIFA bans England's Jarell Quansah for two games after red card vs. Mexico",
+ "news_date": "2026-07-10",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-07-10",
+ "fetched": "2026-07-10_0949",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "World Cup: FIFA bans England's Jarell Quansah for two games after red card vs. Mexico\nEngland players are walking a suspension tightrope ahead of their World Cup quarter-final against Norway.\nThe Three Lions meet the Norwegians on Saturday in Miami as they bid to reach the semi-finals.\nBut there are four players at risk of being suspended for a possible semi-final if they are shown another yellow card against the Norwegians.\nAdvertisement\nIn previous years, if a player received two yellow cards across any of the matches before the semi-final, they received an automatic one-game suspension.\nHowever, under FIFA's new regulations due to the expanded World Cup format that includes an extra round of games, yellow cards are wiped twice throughout the tournament. The first was after the group stage and the next will be after the quarter-finals.\nJude Bellingham, Declan Rice, Marc Guehi and Nico O'Reilly would all be suspended for the semi-final if they picked up a booking against Norway and England made it through.\nSuspension risk: Declan Rice (AFP/Getty)\nJarell Quansah is suspended for the Norway game after his red card against Mexico.\nAdvertisement\nEngland players trained at their Kansas City base camp in the Swope Soccer Village training facility on Wednesday, with 22 of the 26-man squad involved.\nJordan Henderson was back at the England team hotel, the Inn and Meadowbrook, after surgery on his arm following a freak injury he suffered during celebrations after the 3-2 win over Mexico at Estadio Azteca.\nHe is not expected to have any further involvement at the World Cup but is set to stay with the group for the remainder of the tournament.\nReece James, Guehi and vice captain Rice also missed training on Wednesday.\nThe trio followed individualised programmes instead of taking part in the main session.\nAdvertisement\nJames is hoping to return for the quarter-final after missing England's matches against Panama, the DR Congo and Mexico with a hamstring injury.\nTuchel has decisions to make on the wing positions but may be minded to stick with Anthony Gordon on the left and Bukayo Saka after both players performed well against Mexico.\nEngland predicted XI vs Norway (4-2-3-1): Pickford; James, Konsa, Guehi, O'Reilly; Anderson, Rice; Saka, Bellingham, Gordon; Kane\nSuspended: Quansah\nOut: J Henderson\nTime and date: 10pm BST on Saturday July 12, 2026\nVenue: Miami Stadium, Miami, Florida",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

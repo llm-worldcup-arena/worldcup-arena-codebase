@@ -9031,5 +9031,103 @@
   },
   "collective": "模型在大小球（2.5）市场达成罕见共识且全部正确，但在正确比分市场集体失准，且半数模型（Gemini/GLM/Seed）误判双方进球。原因在于过度低估0-0平局的概率，倾向于至少一方进球的“安全”预测，未能识别双方防守优于进攻的冷门特征。",
   "paper_point": "尽管所有模型一致看低总进球数，却集体回避0-0比分并半数误判双方进球，揭示对防守型僵局的系统性低估与对得分场景的隐性偏好。"
+ },
+ "MAR_vs_FRA": {
+  "per_market": {
+   "胜平负": {
+    "right": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM"
+    ],
+    "wrong": [
+     "Seed"
+    ]
+   },
+   "让球": {
+    "right": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM"
+    ],
+    "wrong": [
+     "Seed"
+    ]
+   },
+   "大小2.5": {
+    "right": [
+     "GPT",
+     "Gemini",
+     "Seed"
+    ],
+    "wrong": [
+     "Claude",
+     "Kimi",
+     "GLM"
+    ]
+   },
+   "双方进球": {
+    "right": [
+     "GPT",
+     "Gemini"
+    ],
+    "wrong": [
+     "Claude",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ]
+   },
+   "单双": {
+    "right": [
+     "GPT",
+     "Gemini",
+     "Seed"
+    ],
+    "wrong": [
+     "Claude",
+     "Kimi",
+     "GLM"
+    ]
+   },
+   "半全场": {
+    "right": [
+     "Claude",
+     "GPT",
+     "Kimi",
+     "GLM"
+    ],
+    "wrong": [
+     "Gemini",
+     "Seed"
+    ]
+   },
+   "正确比分": {
+    "right": [
+     "GPT",
+     "Gemini"
+    ],
+    "wrong": [
+     "Claude",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ]
+   }
+  },
+  "model_notes": {
+   "Claude": "Strong on match direction but misread goal markets, overestimating offensive output.",
+   "GPT": "Flawless prediction across all markets, demonstrating superior match calibration.",
+   "Gemini": "Nearly perfect with only half-time score error, correctly anticipated defensive game.",
+   "Kimi": "Matched consensus on outcome/handicap but shared goal market miscalculations.",
+   "GLM": "Identical pattern to Kimi/Claude—right macro view, wrong micro goal details.",
+   "Seed": "Fundamentally misjudged match strength, predicting upset instead of away dominance."
+  },
+  "collective": "Five models correctly predicted away win but collectively overestimated goal production: 4/6 expected both teams to score and 3/6 went over 2.5 goals, revealing systematic bias toward offensive output in strong favorite scenarios. Half-time draw consensus was strong (4/6 correct), but models diverged on whether France would lead at halftime.",
+  "paper_point": "Strong favorite matches produce high model consensus on outcome but systematic divergence on goal markets, with collective overestimation of total goals and both-teams-to-score probability."
  }
 }

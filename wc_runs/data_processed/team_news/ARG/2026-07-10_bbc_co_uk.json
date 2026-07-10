@@ -1,0 +1,16 @@
+{
+ "team": "ARG",
+ "source": "bbc.co.uk",
+ "url": "https://www.bbc.co.uk/iplayer/episode/m002yrbl/fifa-world-cup-2026-game-changers-2026-game-changers-why-argentina-are-unique-to-every-big-nation",
+ "title": "FIFA World Cup 2026 - Game Changers (2026): Game Changers: Why Argentina Are Unique To Every Big Nation! - BBC iPlayer",
+ "news_date": "2026-07-10",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-07-10",
+ "fetched": "2026-07-10_0949",
+ "method": "apify",
+ "status": "ok",
+ "original_text": "FIFA World Cup 2026 - Game Changers (2026): Game Changers: Why Argentina Are Unique To Every Big Nation!\nSorry, BBC iPlayer isn’t available in your region.\nIt looks like you’re outside of the UK. BBC iPlayer is only available in the UK. If you are using a proxy or VPN, please turn off any of these services and try again.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

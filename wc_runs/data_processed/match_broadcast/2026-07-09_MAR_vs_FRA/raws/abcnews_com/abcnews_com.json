@@ -1,0 +1,24 @@
+{
+ "source": "abcnews.com (AP wire)",
+ "url": "https://abcnews.com/Sports/wireStory/france-morocco-meet-world-cup-time-quarterfinals-134630340",
+ "title": "France beats Morocco 2-0 in the World Cup quarterfinals",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-07-09",
+  "home": "MAR",
+  "away": "FRA",
+  "home_en": "Morocco",
+  "away_en": "France",
+  "home_zh": "摩洛哥",
+  "away_zh": "法国",
+  "comp": "qf",
+  "match_id": "M97",
+  "slug": "2026-07-09_MAR_vs_FRA"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "FOXBOROUGH, Mass. -- FOXBOROUGH, Mass. (AP) — Kylian Mbappé had a goal and an assist after missing a first-half penalty kick, Ousmane Dembélé also scored and France beat Morocco 2-0 Thursday in the World Cup quarterfinals.\n\nMbappé's goal in the 60th minute was the 20th of his World Cup career and came in his 20th match at the tournament, moving him one behind Argentina captain Lionel Messi. Dembélé scored his fifth goal of the tournament in the 66th.\n\nMbappé was taken down in the 76th minute and was taken off for a substitute a minute later. He was then shown sitting on the bench with an ice pack on his right ankle.\n\nAfter the match and with both shoes on, Mbappé ran and jumped in celebration with his teammates.\n\nFrance will face either Spain or Belgium in the semifinals in Dallas on Tuesday.\n\nFrance beat Morocco by the same score in the semifinals of the 2022 tournament in Qatar when the Atlas Lions became the first African team to make it that far. France now remains on track to become only the third nation to play in the final of three consecutive World Cups.\n\nMbappé got his goal with a perfectly placed shot just inside the far post after Morocco failed to clear the ball. He received the ball just outside the area, took a couple steps forward and then sent his shot sailing into the net. He extended both arms and ran to the sideline to celebrate with his teammates.\n\nFrance's second goal came after Mbappé took a pass and tapped it back for Dembélé. Mbappé kept running forward and took defenders with him, opening space for Dembélé's shot.\n\nFrance held a 21-4 advantage in shots on goal and 8-1 edge in shots on target for the game.\n\n“We are very disappointed. We wanted to go on,” Morocco coach Mohamed Ouahbi said. “When we had ball possession, our transitions were not great and we had to run a little more. Their players were in their comfort zone.”\n\nMbappé also had the first shot on goal of the game, just missing wide right in the fourth minute. Then, in the 25th, he was running up the left side when he was chopped down in the box by Morocco defender Noussair Mazraoui. Referee Facundo Tello quickly pointed to the penalty spot.\n\nMbappé lined up waiting for his attempt but was held up by a lengthy video review. He was finally cleared to shoot in the 28th minute, but after a hesitation, Mbappé’s shot toward the right corner was corralled by goalkeeper Yassine Bounou, who guessed the direction of the shot correctly.\n\nMbappé made his only other penalty attempt at this year's World Cup in France’s 1-0 victory over Paraguay in the round of 16.\n\nStill, France was by far the more active team offensively in the first half, holding a 13-1 advantage in shots on goal.\n\nMorocco’s best opportunity came just before the halftime whistle when Achraf Hakimi sent a free kick from just outside the box past the right post.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

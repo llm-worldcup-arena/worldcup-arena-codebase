@@ -1,0 +1,24 @@
+{
+ "source": "aljazeera.com",
+ "url": "https://www.aljazeera.com/sports/2026/7/9/mbappe-and-dembele-net-as-france-beat-morocco-to-reach-world-cup-semifinal",
+ "title": "Mbappe and Dembele net as France beat Morocco to reach World Cup semifinal",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-07-09",
+  "home": "MAR",
+  "away": "FRA",
+  "home_en": "Morocco",
+  "away_en": "France",
+  "home_zh": "摩洛哥",
+  "away_zh": "法国",
+  "comp": "qf",
+  "match_id": "M97",
+  "slug": "2026-07-09_MAR_vs_FRA"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "France beat Morocco 2-0 in quarterfinals at FIFA World Cup 2026 and will meet Spain or Belgium next.\n\nKylian Mbappe and Ousmane Dembele were on target as France surged past Morocco 2-0 to book their place in the World Cup semifinals.\n\nMbappe curled in his eighth goal of the tournament on 60 minutes on Thursday before Dembele doubled Les Bleus’ lead six minutes later to settle a clinical victory at the Gillette Stadium outside Boston.\n\nThe win sends the 2018 champions into a last-four showdown against either Spain or Belgium in Arlington, Texas on Tuesday.\n\nAfrican champions Morocco had been tipped to pose a serious threat to France’s hopes of reaching a third consecutive World Cup final.\n\nBut Didier Deschamps’ men were always in control against a limited Morocco side who failed to register a single shot on goal until an 83rd-minute free-kick by Azzedine Ounahi was parried away by France goalkeeper Mike Maignan.\n\nFrance, though, struggled to find a breakthrough, and missed the opportunity to take the lead on 28 minutes when Mbappe saw a penalty saved by Morocco goalkeeper Yassine Bounou.\n\nMbappe had won the penalty after being brought down by Noussair Mazraoui but was forced to wait several minutes before being allowed to take the kick after a protracted VAR check.\n\nMorocco managed to hold out to half-time, but it was always only a matter of time before France’s relentless pressure paid off.\n\nThe breakthrough came on the hour mark, with Mbappe bending a brilliant right-foot shot past Bounou from the edge of the area.\n\nParis Saint-Germain star Dembele made the game safe in the 66th minute, striding forward menacingly from midfield before steering a low finish into the bottom corner.\n\nFrance now await the winner of Friday’s quarterfinal in Los Angeles between European champions Spain and Belgium.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

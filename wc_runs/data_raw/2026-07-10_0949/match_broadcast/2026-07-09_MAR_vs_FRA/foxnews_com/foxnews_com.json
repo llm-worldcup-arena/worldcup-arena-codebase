@@ -1,0 +1,24 @@
+{
+ "source": "foxnews.com",
+ "url": "https://www.foxnews.com/sports/kylian-mbappe-ousmane-dembele-fire-france-world-cup-semifinals-win-over-morocco",
+ "title": "Kylian Mbappé, Ousmane Dembélé fire France into World Cup semifinals with win over Morocco",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-07-09",
+  "home": "MAR",
+  "away": "FRA",
+  "home_en": "Morocco",
+  "away_en": "France",
+  "home_zh": "摩洛哥",
+  "away_zh": "法国",
+  "comp": "qf",
+  "match_id": "M97",
+  "slug": "2026-07-09_MAR_vs_FRA"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "For the second straight World Cup, France has sent Morocco home with a 2-0 victory. In 2022, it was a historic semifinal as Morocco became the first-ever African team to reach that stage of the tournament. But France defeated Morocco to reach the World Cup Final in Qatar. Four years later, history repeated itself in the quarterfinals, and Kylian Mbappé and Ousmane Dembélé scored second-half goals to send France back to the semifinals. CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM France awaits the winner of Spain and Belgium, who face off Friday at 3 p.m. ET in Los Angeles. Much like Paraguay in the Round of 16 against France, Morocco was clearly focusing on its defense, making sure the likes of Mbappé didn’t have easy lanes to score. It was working to start the match, though France was immediately on the offensive and stayed there throughout. However, Morocco faltered when a foul was committed in its own box, forcing a penalty kick. KYLIAN MBAPPÉ'S SEVENTH GOAL OF THE WORLD CUP LIFTS FRANCE PAST PARAGUAY IN PHYSICAL ROUND OF 16 MATCH Mbappé stepped right up to the ball, but the head referee was waiting for the signal to see if a VAR check was needed before the penalty could be taken. The referee called it a penalty on the pitch, but he had Mbappé frustrated because he had to continue redoing his routine multiple times before finally getting the chance. Morocco goalkeeper Yassine \"Bono\" Bounou read Mbappé like a book as the French superstar tried to bait him into moving before his kick. But Bounou stood like a statue before pouncing to his left and keeping the scoreboard silent in the first half. Morocco didn't register its first real scoring chance until stoppage time, underscoring France's control of the match. It felt like only a matter of time before Les Bleus finally broke through. After getting back to its offensive ways in the second half, it was left to Mbappé to find just enough space inside Morocco’s box with defenders draped all around him, to fire a perfectly placed kick past a diving Bounou for his eighth World Cup tournament goal. Mbappé is tied with Argentina’s Lionel Messi for the lead in this World Cup, while scoring 20 for his career. Messi, who broke the all-time World Cup goals record earlier in the group stages, is up to 21 goals. With Morocco finally conceding, France began finding more space as its opponent was forced to open up in search of an equalizer. Dembélé exploited one of those gaps to perfection. In the 66th minute, Dembélé, using his weaker right foot, kept a screamer low toward Bounou’s net. Though the Morocco keeper got a hand on it, he didn’t get enough, and it trickled into the back of the net. At this point, France knew it had the space it needed on the scoreboard to ride out the match. Though Morocco tried, it couldn’t get anything going, and Didier Deschamps’ squad once again proved how dominant it can be during this World Cup as it moved on to the semifinals. CLICK HERE TO DOWNLOAD THE FOX NEWS APP France will play July 14 at 3 p.m. ET in Dallas, where it could face a Spanish team that has yet to allow a goal in this tournament or a Belgium squad that took out Team USA to reach the quarterfinals. Follow Fox News Digital’s sports coverage on X and subscribe to the Fox News Sports Huddle newsletter.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}
