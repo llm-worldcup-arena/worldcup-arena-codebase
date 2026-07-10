@@ -158,55 +158,18 @@ def web_search_urls(query, n=12, timeout=150):
 
 
 def _glm_search(messages, model, timeout, max_uses):
-    """GLM 联网搜索 —— 优先走 Z.AI/智谱官方 glm-5.2；联网由模型自选 query、我方用 web_search_urls(Apify Google)
-    执行后喂回，保持与 DMX 模型相同的外部搜索执行路径。官方通道异常时回退 DMX 托管 glm，避免单点阻断。"""
-    cfg = load_config()
-    tools = [{"type": "function", "function": {
-        "name": "web_search",
-        "description": "联网搜索实时信息（伤停/赛果/状态/赔率/新闻等），返回相关网页摘要",
-        "parameters": {"type": "object", "properties": {
-            "query": {"type": "string", "description": "搜索关键词"}}, "required": ["query"]}}}]
-
-    def run_loop(url, auth, mid):
-        msgs = list(messages)
-        used_tool = False
-        glm_max_uses = min(max_uses, int(os.environ.get("WC_GLM_MAX_USES", "3")))
-        for _ in range(glm_max_uses + 1):                             # 默认最多 3 轮搜索,可用环境变量为慢场次收口
-            d = _post(url, {"model": mid, "messages": msgs, "thinking": {"type": "enabled"},
-                            "tools": tools, "max_tokens": 8000}, auth, timeout)
-            ch = d["choices"][0]
-            msg = ch["message"]
-            if ch.get("finish_reason") == "tool_calls" and msg.get("tool_calls"):
-                used_tool = True
-                msgs.append({"role": "assistant", "content": msg.get("content") or "",
-                             "reasoning_content": msg.get("reasoning_content") or "",
-                             "tool_calls": msg["tool_calls"]})
-                for tc in msg["tool_calls"]:
-                    q = ""
-                    try:
-                        q = json.loads(tc["function"]["arguments"]).get("query", "")
-                    except Exception:
-                        pass
-                    hits = web_search_urls(q, n=6) if q else []
-                    txt = "\n".join(f"- {h['title']}：{h['content']}（{h['link']}）" for h in hits) or "（无结果）"
-                    msgs.append({"role": "tool", "tool_call_id": tc["id"], "content": txt})
-                continue
-            return msg.get("content") or ""
-        if used_tool:
-            msgs.append({"role": "user", "content": "请停止继续搜索，直接基于以上资料完成最终回答，并在最后输出唯一 JSON。"})
-            d = _post(url, {"model": mid, "messages": msgs, "thinking": {"type": "enabled"},
-                            "max_tokens": 8000}, auth, timeout)
-            return d["choices"][0]["message"].get("content") or ""
-        return msgs[-1].get("content", "") if msgs else ""
-
-    try:
-        key = _secret("ZHIPU_API_KEY")
-        return run_loop("https://api.z.ai/api/paas/v4/chat/completions",
-                        {"Authorization": f"Bearer {key}"}, "glm-5.2")
-    except Exception as e:
-        print(f"  ! GLM 官方通道失败,回退 DMX:{str(e)[:120]}")
-        return run_loop(cfg["base_url"].rstrip("/") + "/chat/completions",
-                        {"Authorization": f"Bearer {cfg['_key']}"}, model)
+    """GLM 联网搜索 —— 智谱官方 glm-5.2 + **原生服务端 web_search 工具**(2026-07-10 改)。
+    必须传 search_engine 否则假搜;搜索由智谱服务端执行(阴性对照验证:不带工具答不出两天前赛果、带工具答对)。
+    不再用"模型吐 query→我方 Apify 执行→喂回"的客户端代搜(被测模型联网必须自家实现,用户 2026-07-10 定);
+    也不回退 DMX 托管 glm(那条通道无服务端搜索,兜底会悄悄破坏"真联网"口径)——官方挂了就抛错,交预测线点名回填。"""
+    key = _secret("ZHIPU_API_KEY")
+    d = _post("https://api.z.ai/api/paas/v4/chat/completions",
+              {"model": "glm-5.2", "messages": messages, "thinking": {"type": "enabled"}, "max_tokens": 8000,
+               "tools": [{"type": "web_search", "web_search": {
+                   "enable": True, "search_engine": "search_std", "search_result": True,
+                   "count": max(max_uses, 5)}}]},
+              {"Authorization": f"Bearer {key}"}, timeout)
+    return d["choices"][0]["message"].get("content") or ""
 
 
 def _openrouter_search(messages, model, timeout, max_uses=5):

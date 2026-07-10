@@ -8,7 +8,7 @@
     {"name": "GPT",    "id": "gpt-5.5", "search": true, "_note": "DMX;reasoning effort:high(思考最猛最慢~150-400s)+ web_search"},
     {"name": "Gemini", "id": "gemini-3.1-pro-preview", "search": true, "_note": "DMX;thinkingConfig budget 24576 + google_search;-thinking 后缀版已被DMX下架故用这个"},
     {"name": "Kimi",   "id": "kimi-k2.6", "search": true, "channel": "moonshot", "_note": "Moonshot官方直连;自带thinking、temp固定1"},
-    {"name": "GLM",    "id": "glm-5", "search": true, "_note": "2026-06-25 起:智谱 glm-5.1 账户余额不足,改用 DMX 托管的真 GLM(glm-5,DMX 上最新 GLM)+ thinking;联网由 _glm_search 走 DMX 模型 + Apify(Google)执行搜索,全程不碰智谱;智谱充值后改回 glm-5.1"},
+    {"name": "GLM",    "id": "glm-5", "search": true, "_note": "2026-07-10 起:智谱官方 glm-5.2 + 原生服务端 web_search 工具(必须传 search_engine 否则假搜;阴性对照已验真搜)。不再客户端代搜(Apify)、不再回退 DMX(那条无服务端搜索);官方挂了就报错交回填。id glm-5 仅历史显示用,实际模型写死在 _glm_search=glm-5.2;从 M99/M100 起生效,当日 M98 定稿仍是旧法不动"},
     {"name": "Seed",   "id": "doubao-seed-2-0-pro-260215", "search": true, "_note": "DMX;reasoning effort:high(实测思考 1067→1638 tok)+ web_search"}
   ],
   "_rollback_2026-06-17前": {
