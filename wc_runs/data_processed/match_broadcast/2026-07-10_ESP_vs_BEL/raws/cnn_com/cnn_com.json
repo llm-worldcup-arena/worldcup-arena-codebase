@@ -1,0 +1,24 @@
+{
+ "source": "cnn.com",
+ "url": "https://www.cnn.com/2026/07/10/sport/live-news/spain-belgium-world-cup-score",
+ "title": "Spain’s late winning goal breaks Belgian hearts to seal World Cup semifinal spot | CNN",
+ "published": "2026-07-10T18:00:29.737Z",
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-07-10",
+  "home": "ESP",
+  "away": "BEL",
+  "home_en": "Spain",
+  "away_en": "Belgium",
+  "home_zh": "西班牙",
+  "away_zh": "比利时",
+  "comp": "qf",
+  "match_id": "M98",
+  "slug": "2026-07-10_ESP_vs_BEL"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "There’s a very common expression in soccer, at least in Spain: Hay que saber sufrir – \"You have to know how to suffer.\" Well, tonight, I have suffered. A slight insight into this game and my wild abandonment of reason whenever my teams play: When Thibaut Courtois went off in the 71st minute, instead of thinking, \"Hey, the other team’s best player went off, we have a better chance of winning,\" I thought, \"Well, the soccer gods deem us unworthy of victory tonight.\" As the minutes ticked down and it looked like it was going to extra-time, I just had my head in my hands until seeing what looked like yet another late, futile attempt on goal from someone who isn’t a forward or winger. Except this time, the keeper’s save bumbled forward out of his hands and the ball dropped to Mikel Merino, who came to Spain’s rescue yet again.\nAll this to say that soccer is never straightforward. You can be the overwhelming favorite. You can have multiple things go your way in terms of circumstance. You can play better than the opponent. And yet, sometimes, you make one seemingly inconsequential mistake and it’s tied. Sometimes, everything you try just seems to be slightly out of sync and the whole thing becomes a hypothetical torture chamber. At those times, hay que saber sufrir. Belgium says goodbye to this tournament and, as a result, to its \"Golden Generation\" and we should laud the effort they showed today. The Red Devils – true to their name – knew about suffering and almost made it pay off today. Respect. La Roja knows about suffering too. Striker Mikel Oyarzabal said ahead of the quarterfinal, \"Regardless of whether things go well or badly, or who’s playing, the team responds, and I think that’s crucial.\" Spain has had some incredible play this tournament that led to lots of goals and easy wins (Saudi Arabia and Austria), but it’s also had some rough and tumble affairs that it has survived (Uruguay), some games where nothing seemed to work (Cape Verde) and some games where nothing seemed to work until it did (Portugal and Belgium).\nThrough it all, La Roja had to know how to suffer to make it to the semifinals and, now, they have a date with the unstoppable juggernaut that is France. Let me tell you now, there will be a whole lot more suffering on Tuesday at AT&T Stadium when the two tournament favorites take the field. I will 100% suffer despite thinking Spain is the underdog in the tie, but like I said at the beginning of the night, that’s the glorious part of the game. You take the highs with the lows and, sometimes, you experience something magical. Sometimes, it all pays off. Sometimes, you might see your country suffer just a tad less than the opposition and make it to a second ever World Cup final. Hay que saber sufrir.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

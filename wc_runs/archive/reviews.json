@@ -9129,5 +9129,101 @@
   },
   "collective": "Five models correctly predicted away win but collectively overestimated goal production: 4/6 expected both teams to score and 3/6 went over 2.5 goals, revealing systematic bias toward offensive output in strong favorite scenarios. Half-time draw consensus was strong (4/6 correct), but models diverged on whether France would lead at halftime.",
   "paper_point": "Strong favorite matches produce high model consensus on outcome but systematic divergence on goal markets, with collective overestimation of total goals and both-teams-to-score probability."
+ },
+ "ESP_vs_BEL": {
+  "per_market": {
+   "胜平负": {
+    "right": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ],
+    "wrong": []
+   },
+   "让球": {
+    "right": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ],
+    "wrong": []
+   },
+   "大小2.5": {
+    "right": [
+     "Gemini",
+     "Kimi"
+    ],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "GLM",
+     "Seed"
+    ]
+   },
+   "双方进球": {
+    "right": [
+     "Gemini",
+     "Kimi"
+    ],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "GLM",
+     "Seed"
+    ]
+   },
+   "单双": {
+    "right": [
+     "GPT",
+     "Gemini",
+     "Kimi"
+    ],
+    "wrong": [
+     "Claude",
+     "GLM",
+     "Seed"
+    ]
+   },
+   "半全场": {
+    "right": [
+     "GPT"
+    ],
+    "wrong": [
+     "Claude",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ]
+   },
+   "正确比分": {
+    "right": [
+     "Gemini",
+     "Kimi"
+    ],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "GLM",
+     "Seed"
+    ]
+   }
+  },
+  "model_notes": {
+   "Claude": "方向正确但过度保守，预测2-0零封，错判进球数、双方进球及半场领先。",
+   "GPT": "精准把握赛果与半场平局，但低估进球总量与客队得分能力。",
+   "Gemini": "预测最准，仅半场走势误判，比分2-1完全命中。",
+   "Kimi": "与Gemini表现一致，比分与进球市场准确，仅半场判断失误。",
+   "GLM": "赛果正确但陷入低比分偏见，所有进球相关预测均偏保守。",
+   "Seed": "与GLM错误模式高度一致，系统性低估客队进球与比赛开放性。"
+  },
+  "collective": "全部模型正确预测主胜方向，但5/6误判半场走势（主-主而非平-主），且4/6系统性低估客队进球能力，导致大小球、双方进球及比分预测集体偏保守，暴露对弱队得分潜力的普遍低估与对半场博弈动态调整不足。",
+  "paper_point": "模型在赛果方向高度一致且准确，但在进球细节（大小、双方进球、比分）上呈现保守性系统偏差，尤其普遍高估主队半场领先概率，揭示AI对足球动态博弈与弱队反击潜力的建模缺陷。"
  }
 }

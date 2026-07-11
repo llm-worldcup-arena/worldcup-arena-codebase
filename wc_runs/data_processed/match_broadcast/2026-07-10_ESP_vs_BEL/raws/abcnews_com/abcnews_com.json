@@ -1,0 +1,24 @@
+{
+ "source": "abcnews.com (AP wire)",
+ "url": "https://abcnews.com/Sports/wireStory/belgiums-charles-de-ketelaere-ends-spains-world-cup-134661490",
+ "title": "Mikel Merino stars again as Spain edges Belgium 2-1 in the World Cup quarterfinals",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-07-10",
+  "home": "ESP",
+  "away": "BEL",
+  "home_en": "Spain",
+  "away_en": "Belgium",
+  "home_zh": "西班牙",
+  "away_zh": "比利时",
+  "comp": "qf",
+  "match_id": "M98",
+  "slug": "2026-07-10_ESP_vs_BEL"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "INGLEWOOD, Calif. -- Mikel Merino scored in the 88th minute on a rebound yielded by backup Belgium goalkeeper Senne Lammens, and Spain advanced to the World Cup semifinals with a 2-1 victory on Friday.\n\nMerino was the late hero for the second straight match for Spain, which will face tournament favorite France in the semifinals on Tuesday in the Dallas area.\n\n“It will be a clash of giants,” Spain coach Luis De La Fuente said through a translator.\n\nMerino came on in the 86th minute and scored on his second touch of the match, charging into the box and pouncing after Lammens spilled a rebound of Pau Cubarsí's long shot.\n\nThe Arsenal forward also scored as a substitute early in injury time to secure Spain's 1-0 victory over Portugal in the round of 16. This second clutch goal against an upset-minded Belgium sent La Roja to the semifinals for the first time since they won the World Cup in 2010.\n\n“I’ve done this again, and it’s happened to me again, so it would seem that coincidence exists,” a smiling Merino said. “If you’re ready and you try, it can happen for you. I’m very, very pleased.”\n\nLammens, the capable Manchester United keeper, was forced into the match in the 71st minute after longtime Belgium keeper Thibaut Courtois left with an apparent thigh injury.\n\nCourtois made four saves, but the Real Madrid keeper went down to the grass four minutes before his substitution. He received treatment during the hydration break, but he left the match in tears.\n\nOnly Germany's Manuel Neuer has played more World Cup matches than Courtois, while Lammens had not yet played at this year's World Cup.\n\nBelgium desperately pressed for an equalizer in the final minutes with substitute forward Romelu Lukaku leading the effort, but Aymeric Laporte acrobatically volleyed the best chance out of the box in the second minute of injury time.\n\nFabián Ruiz scored in the 30th minute for Spain, but Belgium forward Charles De Ketelaere notched the first goal allowed by Spain in the entire World Cup in the 41st minute.\n\nSpain remained unbeaten since March 2023 in a streak of 37 matches, while Belgium's streak of 18 straight unbeaten matches ended.\n\nAfter a cautious start from both teams in the World Cup’s second quarterfinal match, Spain broke through when Lamine Yamal and Pedro Porro moved the ball down the right side and got it to Dani Olmo, whose shot was stopped by Courtois. The rebound went straight to Ruiz, who hammered home his first goal of the tournament.\n\nRuiz was making his first start since Spain’s World Cup opener, replacing Pedri in the lineup in a mildly surprising tactical decision by De La Fuente — whose later substitute decisions paid off even more.\n\nSpain didn’t allow a goal in its first five matches at this year's tournament, and goalkeeper Unai Simón hadn’t conceded in a World Cup-record 650 minutes dating to Qatar. The streaks abruptly ended when De Ketelaere muscled past Cubarsí and headed home a cross from Timothy Castagne for Belgium’s tying goal.\n\nBelgium hadn’t generated anything close to a strong scoring chance before the latest big moment for De Ketelaere, the Atalanta forward who scored two goals in Belgium’s 4-1 rout of the co-host U.S. on Monday.\n\nBelgium captain Youri Tielemans was removed from the starting lineup after getting injured during warmups. He joined injured defender Amadou Onana on the sidelines, although Kevin De Bruyne returned for Belgium and started the match.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

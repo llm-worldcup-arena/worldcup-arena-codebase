@@ -1,0 +1,16 @@
+{
+ "team": "ENG",
+ "source": "cnweb-ayxty.com",
+ "url": "https://cnweb-ayxty.com/news/14.html",
+ "title": "全球体育赛事数字转播与传媒矩阵",
+ "news_date": "2026-07-11",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-07-11",
+ "fetched": "2026-07-11_1050",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "当前系统正在全负荷运行中。本平台主要负责跨区域体育赛事的全链路精细化运营、多信号数字转播矩阵的分发调度，以及体育传媒大数据的清洗与分析。请各下属运营单位严格遵守网络安全管理规定，确保转播信号的安全与合规。\n\n最新更新：已完成对本季度国际赛事数字化运营系统的路由策略升级，进一步优化了高并发下的数据自适应流控。非授权终端及异常网络节点的访问将被系统风控安全分流。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

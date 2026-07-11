@@ -1,0 +1,16 @@
+{
+ "team": "ESP",
+ "source": "sportsmole.co.uk",
+ "url": "https://www.sportsmole.co.uk/football/spain/world-cup-2026/team-news/spain-vs-belgium-injury-suspension-list-predicted-xis--world-cup-2026_600888.html",
+ "title": "Team News: Spain vs. Belgium injury, suspension list, predicted XIs | World Cup 2026 - Sports Mole",
+ "news_date": "2026-07-09",
+ "published": "2026-07-09T18:00:00Z",
+ "tier": "2",
+ "lang": "es",
+ "asof": "2026-07-11",
+ "fetched": "2026-07-11_1050",
+ "method": "html:paragraphs",
+ "status": "ok",
+ "original_text": "With Belgium aiming to repeat their World Cup quarter-final win over Spain some 40 years ago, the European nations are set to lock horns in Los Angeles.\n\nAhead of Friday's big game, the Red Devils received cruel injury news about a key midfielder , while La Roja's squad is not at its full complement either.\n\nHere, Sports Mole rounds up the latest team news for both sides.\n\nGet FREE daily news and in-depth previews for games from the biggest leagues and competitions in world football — straight to your inbox.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

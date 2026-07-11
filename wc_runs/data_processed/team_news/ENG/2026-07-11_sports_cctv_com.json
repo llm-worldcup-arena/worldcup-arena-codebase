@@ -1,0 +1,16 @@
+{
+ "team": "ENG",
+ "source": "sports.cctv.com",
+ "url": "https://sports.cctv.com/2026/07/10/VIDE6ogvtuatfquZbLxhZ7TO260710.shtml",
+ "title": "[世界杯]奥利塞送出直塞 姆巴佩跟进射门高出球门",
+ "news_date": "2026-07-11",
+ "published": null,
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-07-11",
+ "fetched": "2026-07-11_1050",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "央视网消息：北京时间7月10日，2026年美加墨世界杯1/4决赛，法国VS摩洛哥。第56分钟，奥利塞送出直塞，姆巴佩跟进射门高出球门。",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}
