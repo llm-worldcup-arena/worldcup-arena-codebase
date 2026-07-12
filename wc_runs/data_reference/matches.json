@@ -1513,5 +1513,20 @@
   "coach_a": null,
   "coach_b": null,
   "result": null
+ },
+ {
+  "match_id": "M102",
+  "edition": 2026,
+  "round": "sf",
+  "group": null,
+  "date": "2026-07-15",
+  "kickoff_ts": "2026-07-15T15:00:00-04:00",
+  "venue_id": "mercedes_benz_stadium",
+  "team_a": "ENG",
+  "team_b": "ARG",
+  "referee_id": null,
+  "coach_a": null,
+  "coach_b": null,
+  "result": null
  }
 ]
