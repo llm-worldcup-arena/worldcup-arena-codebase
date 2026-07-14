@@ -1,0 +1,24 @@
+{
+ "source": "skysports.com",
+ "url": "https://www.skysports.com/football/news/11095/13561909/world-cup-2026-argentina-xx-switzerland",
+ "title": "World Cup 2026: Argentina 3-1 Switzerland (AET): Julian Alvarez scores stunner to set up blockbuster semi-final vs England",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-07-11",
+  "home": "ARG",
+  "away": "SUI",
+  "home_en": "Argentina",
+  "away_en": "Switzerland",
+  "home_zh": "阿根廷",
+  "away_zh": "瑞士",
+  "comp": "qf",
+  "match_id": "M100",
+  "slug": "2026-07-11_ARG_vs_SUI"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Julian Alvarez scored an extra-time stunner as Argentina beat 10-man Switzerland 3-1 and set up a mouth-watering World Cup semi-final clash with England. Lionel Messi and Co will face the Three Lions in Atlanta on Wednesday at 8pm UK time, with a place in the final against either France or Spain on the line. It will be the first competitive meeting between the nations in 24 years.   Despite Switzerland's positive start in Kansas City, they only had themselves to blame when they fell behind inside 10 minutes. Alexis Mac Allister was twice left unmarked at a corner - and the second time he punished them, by guiding in a header in after being picked out by Messi. Breel Embolo had the Swiss' most promising chance of the first half, but a combination of Lisandro and Emi Martinez stopped him getting a shot away from just inside the box. He had a huge chance to level shortly after the restart, too, but a world-class block from Lisandro Martinez denied him. Dan Ndoye and Granit Xhaka then forced saves from the Argentina goalkeeper after a spell of sustained pressure, which finally paid off when the former linked up superbly with Ricardo Rodriguez and fired home from a tight angle to level the game. The Swiss elation was shortlived. Five minutes after the equaliser, Leandro Paredes was booked for a foul on Embolo - but under new mistaken identity rules , the VAR recommended a review and referee Joao Pinheiro instead showed Embolo a second yellow card for simulation. Messi and Mac Allister both had chances to win it for Argentina before the final whistle, but they could not find a way to prevent extra time. Though Switzerland did manage to hold the reigning world champions at bay for the first 15 minutes, Julian Alvarez's beautiful strike from 25 yards, into the top right corner, took the wind from their sails. Lautaro Martinez added the gloss in the dying embers, and by then, the Swiss race was run. The key moments from Kansas City 10: GOAL ! Messi delivers Argentina's second corner in quick succession and finds Alexis Mac Allister, who heads in unmarked. 32: BIG CHANCE ! Switzerland's Breel Embolo is sent clear, but Lisandro Martinez and Emi Martinez combine to stop him getting a shot away. 43: WASTEFUL ! Remo Freuler stands over a free-kick in a promising position on the left, but goes for glory despite four men waiting in the box and misses the target by some distance. 50: BLOCK ! Incredible from Lisandro Martinez, who recovers to deny a Embolo a certain goal. 67: GOAL ! Dan Ndoye plays a neat one-two with Ricardo Rodriguez and fires underneath Emi Martinez from a tight angle. 72: RED CARD ! Embolo is shown a second yellow card for simulation under new mistaken identity rules. 89: CHANCE ! Mac Allister meets a Nico Gonzalez cross, but heads over from six yards. 112: GOAL ! Julian Alvarez scores a stunner to restore Argentina's lead. 120+1: GOAL ! Lautaro Martinez adds the gloss late on after Thiago Almada's initial shot is kept out. Argentina have been taken to extra time twice - will that affect them vs England? Sky Sports' Dan Long: In facing the reigning world champions, Switzerland were always going to be up against it in their quest to reach a first-ever World Cup semi-final. But they certainly made it difficult for Lionel Scaloni's side. The Swiss were deserving of their equaliser and might have even forced a winner, had Breel Embolo not been sent off. He was inconsolable when he was given his marching orders and for good reason. His dismissal changed the game. Once extra time was confirmed, they were content to sit back and try and force the lottery of penalties. Unfortunately for them, that's when Argentina came to life. But England will likely have been happy to see their next opponents pushed all the way. It's the second time in three games they have been taken to extra time. Had Enzo Fernandez not scored a 93rd-minute winner against Egypt in the last-16, it could have been three from three. Whether or not that affects Argentina in the semi-finals is up for debate, of course, but with England having played an extra 30 minutes against Norway, at least the playing field will be level on Wednesday night in Atlanta.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

@@ -1,0 +1,24 @@
+{
+ "source": "marca.com",
+ "url": "https://www.marca.com/futbol/mundial/cronica/2026/07/06/bicho-merino.html",
+ "title": "Crónica de Portugal - España | El bicho es Merino",
+ "published": "2026-07-06T21:11:43Z",
+ "tier": "2",
+ "lang": "es",
+ "match": {
+  "date": "2026-07-06",
+  "home": "POR",
+  "away": "ESP",
+  "home_en": "Portugal",
+  "away_en": "Spain",
+  "home_zh": "葡萄牙",
+  "away_zh": "西班牙",
+  "comp": "r16",
+  "match_id": "M93",
+  "slug": "2026-07-06_POR_vs_ESP"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "El bicho es España, colgada a los ángeles como en Sudáfrica. Un pase mágico de Ferran a Merino liquidó en el minuto 91 un nuevo laberinto contra Portugal. La selección masticó el partido y encontró el tesoro. Merino, el goleador inesperado, el mismo que sacó la cabeza ante Alemania, desató la euforia. Jugar contra Portugal es un engorro de detalles, miedos y saber jugar con el corazón congelado. En un partido de bandazos emocionales, España nunca se descompuso. Dos de los relevos de De la Fuente, Ferran y Merino, firmaron la jugada de la victoria. Los Mundiales encuentran momentos mágicos, esos instantes en los que se inicia una cadena de felicidad. En Sudáfrica pudo ser el penalti que Casillas paró a Cardozo. En Dallas, Nuno Mendes mandó al larguero antes de su lesión y Merino sentenció cuando millones de personas pedían hora en el cardiólogo. Desde que acabaron los himnos el partido tenía pinta de disputarse como una final, esa avenida de sustos y detalles donde un error te manda al aeropuerto. Portugal arañaba en la presión, hambrienta por incomodar a España. La selección de Roberto Martínez controlaba y España creaba ocasiones. Un pase de Dani Olmo, -otra vez de doctor entre líneas-, a Oyarzabal le dejó solo ante Diogo Costa y el remate del zurdo se marchó fuera por dos guantes. El portero del Oporto, el mejor de los que no tienen fama en Europa, se exhibió más tarde en un remate de Lamine y sobre todo en un envío de Álex Baena al que replicó con una estirada de santo. En el juego ofensivo español estaba claro una vez más que Olmo era el tipo que sabía desactivar las alarmas del rival. Portugal pisaba menos el área, ahí donde se libraba un insólito choque generacional. Cubarsí no había nacido (2006) cuando Cristiano disputó su primer Mundial. CR7, antes de ser CR1000, ha reducido su área de acción. Su misión actual es esperar que esos músculos que los demás no sabíamos que existían se topen con un balón suelto. Eso fue lo que se quedó en un escorzo de Joao Félix, que el rey del gol casi emboca. Unai Simón respondió con una palomita de foto. En el verde se jugaban varios minipartidos. Uno de ellos lleva en la solapa la etiqueta de clásico. Como sucedía con Roberto Carlos, palabras mayores en el oficio de lateral izquierdo, Nuno Mendes, desde un rincón del campo se convierte en un influencer de lo que pasa en el partido. El zurdo, desde la autoridad, corta, distribuye, lanza faltas, córners y aburre al rival. Su mapa de calor se sale de la ciudad. Su lesión muscular en la segunda mitad alivió a la sociedad española. Contra ese portento se medía Lamine Yamal. Nuno Mendes se ganó el papel de depósito de kryptonita del fútbol de Lamine, una llaga que se mete en el cerebro y requiere de una jugada que le quite superpoderes. En la otra finca, Cucurella tiraba carreras con Pedro Neto, su compañero en el Chelsea. De otros jugadores se veía menos. Vitinha y Pedri, que en enero parecen los mejores centrocampistas del mundo, daban síntomas de pagar el kilometraje. No fue extraño que Vitinha y Pedri no terminaran el encuentro. Roberto Martínez utilizó una gacela llamada Rafael Leao para suplir a un Joao Félix que se sacrificó como nunca en defensa. De la Fuente tardó más en mover la foto, pero el santoral estaba abierto. Ferran, activo y puntilloso desde que entró en el césped, vio lo que sólo ven los elegidos. Merino, un falso ariete, un verdadero futbolista, miró a Diogo Costa y le batió por raso. España está en la buena ola. El bicho del campeonato es español.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

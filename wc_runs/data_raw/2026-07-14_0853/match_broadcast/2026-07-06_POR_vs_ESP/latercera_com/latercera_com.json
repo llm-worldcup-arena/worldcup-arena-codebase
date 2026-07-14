@@ -1,0 +1,24 @@
+{
+ "source": "latercera.com",
+ "url": "https://www.latercera.com/el-deportivo/noticia/el-juicio-de-la-prensa-de-espana-a-cristiano-ronaldo-tras-su-ultimo-mundial-con-portugal-la-cronica-de-un-fracaso-anunciado/",
+ "title": "El juicio de la prensa de España a Cristiano Ronaldo tras su último Mundial con Portugal: “La crónica de un fracaso anunciado” - La Tercera",
+ "published": "2026-07-07T11:15:39.058Z",
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-07-06",
+  "home": "POR",
+  "away": "ESP",
+  "home_en": "Portugal",
+  "away_en": "Spain",
+  "home_zh": "葡萄牙",
+  "away_zh": "西班牙",
+  "comp": "r16",
+  "match_id": "M93",
+  "slug": "2026-07-06_POR_vs_ESP"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "España anotó su nombre en los cuartos de final del Mundial 2026. Con angustia, el conjunto ibérico derrotó en la agonía por 1-0 a Portugal y puso fin al sueño de Cristiano Ronaldo por levantar la tan esquiva Copa del Mundo. Tras firmar el triunfo en Dallas, en los medios españoles festinaron con la eliminación del astro de los lusos. “España manda a la calle a Cristiano Ronaldo”, partió titulando Diario Sport. “El equipo supo sufrir, aguantar y ser mejor que Portugal hasta el punto de decidir en la prórroga con un gol de Mikel Merino al culminar una asistencia de oro de Ferran Torres. La Roja firmó el que fue el último partido en un Mundial de un desaparecido Cristiano Ronaldo“, agregaron. Para los portales hispanos, la partida de CR7 era esperable. “Nada de nada en cuanto a efectividad para un Ronaldo de poca injerencia en los marcadores: el doblete ante Uzbekistán no significó nada para la ‘manita’ final’, y un solitario gol de penalti contra Croacia se antojaba poco aporte comparado con las grandes figuras del Mundial -los Mbappé, Messi o Haaland-. El capitán portugués abandonó el campo entre lágrimas, las de aquel que sabe que dejó ir la última oportunidad. Desde 2006 intentando conseguirlo. 20 años después, Cristiano Ronaldo se quedó sin el gran premio. La crónica de un fracaso anunciado“, complementaron. En Mundo Deportivo, en tanto, remarcaron que la participación del portugués fue escasa para las expectativas que se posaban sobre su figura. “Fue una triste despedida para el mito ex madridista y para la afición portuguesa, no sólo por la eliminación de Portugal en octavos contra España sino también por lo poco que, pese a que como siempre lo intentó, pudo aportar CR7 al juego ofensivo de su selección“, señalan. Marca, por su lado, eligió valorar la extensa carrera del Bicho al más alto nivel. “Cristiano sabía que podía pasar. Lo reconoció en rueda de prensa. Y aun así, las lágrimas se le escaparon tras el pitido final. “Te voy a ser sincero: independientemente de lo que pase mañana, saldré de aquí con la conciencia tranquila”, dijo. Y así fue. El de Madeira se marchó del campo con orgullo, sabiendo que a sus 41 años pocos pueden igualar su trayectoria“, consignaron. “Se marcha, mientras, como uno de los pocos jugadores (junto a Messi y Ochoa) capaces de jugar seis Mundiales... pero el único que ha anotado en todos ellos\", concluyeron, homenajeando a un jugador que marcó época por casi dos décadas ininterrumpidas.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

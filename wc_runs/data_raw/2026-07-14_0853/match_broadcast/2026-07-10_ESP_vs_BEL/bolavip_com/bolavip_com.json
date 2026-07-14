@@ -1,0 +1,24 @@
+{
+ "source": "bolavip.com",
+ "url": "https://bolavip.com/en/world-cup/spain-vs-belgium-head-to-head-record-in-world-cup-history",
+ "title": "Spain vs Belgium: Head-to-head record in World Cup history",
+ "published": "2026-07-08T11:54:47-04:00",
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-07-10",
+  "home": "ESP",
+  "away": "BEL",
+  "home_en": "Spain",
+  "away_en": "Belgium",
+  "home_zh": "西班牙",
+  "away_zh": "比利时",
+  "comp": "qf",
+  "match_id": "M98",
+  "slug": "2026-07-10_ESP_vs_BEL"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Spain and Belgium renew their rivalry in the 2026 FIFA World Cup quarterfinals scheduled for July 10 at Los Angeles Stadium, with both European powers looking to secure a place in the semifinals.\n\nThe two nations have met twice in FIFA World Cup history, splitting those encounters with one victory each. Their previous meetings came in consecutive tournaments, making this quarterfinal their first World Cup clash in more than three decades.\n\nWith a place in the last four on the line and only few games left in the 2026 World Cup, and with the chance to keep fighting for the world title, both teams arrive in strong form after navigating difficult paths through the knockout stage.\n\nSpain vs. Belgium head-to-head\n\nSpain, one of the eight countries that have won the World Cup, and Belgium have faced each other twice at the tournament, with the all-time record perfectly balanced. Their first meeting came in the 1986 FIFA World Cup quarterfinals in Mexico. The match finished 1-1 after extra time before Belgium advanced with a 5-4 victory in the penalty shootout.\n\nPlayers of Spain applaud fans. Florencia Tan Jun/Getty Images\n\nFour years later, the teams met again during the 1990 FIFA World Cup group stage in Italy. Spain claimed a 2-1 victory thanks to goals from Alberto Górriz and Míchel, leveling the World Cup series between the two nations.\n\nHow Spain and Belgium reached the quarterfinals\n\nSpain, coached by Luis de la Fuente, have yet to concede a goal during the tournament. After opening with a scoreless draw against Cape Verde, La Roja defeated Saudi Arabia 4-0 and Uruguay 1-0 to win Group G. Spain then eliminated Austria 3-0 in the Round of 32 before edging Portugal 1-0 in the Round of 16 thanks to Mikel Merino’s dramatic late winner.\n\nBelgium, managed by Rudi García, recovered from an inconsistent start to become one of the tournament’s most dangerous teams. After draw against Egypt and Iran, the Red Devils secured first place in their group with a 5-1 victory over New Zealand. Belgium then rallied from two goals down to defeat Senegal 3-2 after extra time in the Round of 32 before eliminating host nation United States with a convincing 4-1 victory in the Round of 16, powered by a brace from Charles De Ketelaere.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

@@ -1,0 +1,24 @@
+{
+ "source": "skysports.com",
+ "url": "https://www.skysports.com/football/news/11095/13561320/world-cup-2026-spain-2-1-belgium-mikel-merino-scores-late-winner-as-la-roja-book-mouthwatering-semi-final-with-france",
+ "title": "World Cup 2026: Spain 2-1 Belgium: Mikel Merino scores late winner as La Roja book mouthwatering semi-final with France",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-07-10",
+  "home": "ESP",
+  "away": "BEL",
+  "home_en": "Spain",
+  "away_en": "Belgium",
+  "home_zh": "西班牙",
+  "away_zh": "比利时",
+  "comp": "qf",
+  "match_id": "M98",
+  "slug": "2026-07-10_ESP_vs_BEL"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Spain booked a blockbuster semi-final meeting with France after beating Belgium 2-1 thanks to last-gasp specialist Mikel Merino in Los Angeles. The substitute arrived in the 88th minute to pounce on an error from stand-in goalkeeper Senne Lammens, who was a late introduction himself after an emotional Thibaut Courtois was forced off injured, turning home the rebound from Pau Cubarsi's opportunistic strike. The moment was as excruciating for Lammens as it was exhilarating for Merino, coming up clutch again after also delivering a late winner in victory over Portugal in the last round. He had only been on the pitch for 117 seconds, scoring with just his second touch.   Spain had been breached for the first time at this World Cup in the first half, when makeshift No 9 Charles De Ketelaere headed Timothy Castagne's teasing cross beyond Unai Simon to cancel out a well-worked opener from Fabian Ruiz. But Luis de la Fuente's side were not to be denied, Merino, so often Arsenal's saviour, refusing to stand down. For club and country, he continues to offer solutions in big moments, his only touch in the Belgium box resulting in the decisive goal. Spain remain unbeaten since March 2023, a remarkable streak of 36 matches, and will play tournament favourites France in a tantalising tie in Texas on Tuesday for the right to contest the final. De la Fuente has now managed more games at major tournaments without losing than any other international manager (13). The key moments from Los Angeles 30: GOAL! Fabian Ruiz benefits from some poor Courtois handling and slams home on the rebound from close range. 41: GOAL! Charles De Ketelaere latches onto Castagne's teasing cross and heads Belgium level. 47: CHANCE! Lamine Yamal is released by Cubarsi but denied by Courtois 1vs1. 55: CHANCE! Lovely one-two between Doku and De Bruyne gets De Cuyper in behind, who smashes carelessly at the side-netting. 61: SAVES! Lamine Yamal effort beaten away by the busy Courtois, before saving from Oyarzabal. 72: INJURY! Senne Lammens replaces Courtois in goal after injury forces him off. 88: GOAL! Mikel Merino scores with his second touch after Lammens spills Cubarsi's low shot. Merino: Late goals no accident \"I've done this again, and it's happened to me again, so it would seem that coincidence exists,\" a smiling Merino said. \"If you go in prepared, it can happen. \"If you're ready and you try, it can happen for you. I'm very, very pleased. Two matches to win a World Cup is a dream come true - hopefully we can achieve it.\" Spain's titans show up at right time Analysis by Sky Sports' Laura Hunter: Spain's win over Belgium was as close to vintage La Roja as we have seen at this tournament. Plenty of their stars turned up and Mikel Merino's impeccable timekeeping surfaced once more. This is becoming a habit. All the pre-tournament hype was about Lamine Yamal and he was another to show his class on the night. All of Spain's pretty but patient build-up was fed through him. He finished top of most creative charts, with six efforts at goal and four successful dribbles. A performance equal parts artistry and industry. But more central still to Spain's success was Rodri, the centrepiece of all that is good about De la Fuente's side. He's unbothered by such a burden. If anything he is actually emboldened by the extra responsibility. The Spain captain has made 62 line-breaking passes in the final third at this tournament, equalling the record set by Germany's Toni Kroos in 2014 - and he's far from done yet. All of Spain's technicians appear to be moving into stealth mode at the perfect time. They won't be put away easily.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

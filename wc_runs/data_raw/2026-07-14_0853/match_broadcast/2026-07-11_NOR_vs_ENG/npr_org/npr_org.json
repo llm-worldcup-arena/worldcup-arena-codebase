@@ -1,0 +1,24 @@
+{
+ "source": "npr.org",
+ "url": "https://www.npr.org/2026/07/11/nx-s1-5890169/2026-world-cup-fifa-england-norway-quarterfinal",
+ "title": "In a nailbiter, England moves on to the World Cup semifinals, defeating Norway 2-1",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-07-11",
+  "home": "NOR",
+  "away": "ENG",
+  "home_en": "Norway",
+  "away_en": "England",
+  "home_zh": "挪威",
+  "away_zh": "英格兰",
+  "comp": "qf",
+  "match_id": "M99",
+  "slug": "2026-07-11_NOR_vs_ENG"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "England's Jude Bellingham celebrates scoring his team's second goal during the World Cup quarterfinal match between England and Norway on Saturday in Miami Gardens, Fla. England defeated Norway 2-1 to advance to the semifinals.\n\nRichard Pelham/Getty Images\n\nhide caption\n\nMIAMI GARDENS, Fla. — England has done it again. Escaping with an extra-time quarterfinal victory 2-1 over Norway at the World Cup to keep their dreams alive of a second tournament title.\n\nIt was a typical South Florida July afternoon: hot, muggy and just generally unpleasant. At kickoff, it was 90 F — and meteorologists warned of a dangerous heat index of 108 degrees. Though it felt even hotter than that.\n\nYou could see the impact right away — both teams had a smattering of chances in the first half. But the sprints weren't as fast, the passes not as crisp. England mostly controlled the ball. Striker Harry Kane had a free kick just outside the Norway penalty area in the 29th minute, which sailed just above the crossbar.\n\nNorway's star, Erling Haaland, had a header in the 35th minute that energized the crowd. The excitement continued when, in the next minute, Andreas Schjelderup sent a blistering left-footed strike past the outstretched arm of England keeper Jordan Pickford. Norway took the lead 1-0\n\nIt was the fifth time that Norway had scored first at this World Cup.\n\nThe buzz began to build inside Hard Rock Stadium, capacity 64,478, as the England crowd willed its side forward. The team did not delay, intensifying its offensive attack. Then, just before halftime, Jude Bellingham, England's savior against Mexico in the round of 32, answered again, with another strike. At the break, it was 1-1.\n\nErling Haaland (R) of Norway reacts during the World Cup quarterfinal match between Norway and England on Saturday in Miami Gardens, Fla.\n\nBuda Mendes/Getty Images\n\nhide caption\n\nNorway struck first in the second half. After a corner kick, which bounced off a few players, Torbjørn Heggem fired it into the goal. But the goal was wiped away after a video review showed Haaland had pushed an English player to the ground just before the corner kick.\n\nAt the end of regulation, the score remained 1-1, forcing another 30-minutes of extra time and another half-hour in the heat. England's Bellingham only needed three minutes to put his side ahead for good. Norway's keeper saved a long-range strike, but the ball ricocheted off him, and Bellingham rushed forward and slotted it into the net, his sixth goal of the tournament.\n\nAfter England's first goal, Norway's players and coaches had complained to the referee. It appeared that the Norwegian keeper's kick that preceded the goal had hit a wire of the sky cam. The sky cam zips above the field, providing aerial views of the game. Television replays seemed to show that the trajectory of the ball had changed after the punt. The ball then dropped to the feet of an England player, who passed it to a teammate, and on to Bellingham, who scored.\n\nThe soccer balls in use at the World Cup are fitted with electronic sensors. They're used to inform the referee, for example, if the whole of the ball crosses the goal line. FIFA says the connected ball technology provides \"precise, real-time data about its movement and position.\" FIFA released a statement after the Bellingham goal that there was \"no evidence\" that the \"heartbeat of the ball\" changed when the ball was in the air.\n\nIt was the first World Cup meeting between the two sides. And it was the furthest that Norway had ever advanced at a World Cup.\n\nEngland, which last won the World Cup title in 1966, will face Argentina (which also needed extra time to defeat Switzerland ) in the semifinal on Wednesday in Atlanta.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

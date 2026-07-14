@@ -1,0 +1,51 @@
+[
+ {
+  "name": "npr_org",
+  "source": "npr.org (AP wire)",
+  "url": "https://www.npr.org/2026/07/12/nx-s1-5890774/argentina-switzerland-3-1-world-cup-semifinals",
+  "tier": "1",
+  "lang": "en"
+ },
+ {
+  "name": "yahoo_com",
+  "source": "sports.yahoo.com",
+  "url": "https://sports.yahoo.com/soccer/breaking-news/article/world-cup-2026-julian-alvarezs-extra-time-golazo-powers-argentinas-3-1-quarterfinal-win-over-10-man-switzerland-034422006.html",
+  "tier": "1",
+  "lang": "en"
+ },
+ {
+  "name": "fifa_com",
+  "source": "fifa.com (official)",
+  "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/argentina-switzerland-match-report-highlights",
+  "tier": "1",
+  "lang": "en"
+ },
+ {
+  "name": "skysports_com",
+  "source": "skysports.com",
+  "url": "https://www.skysports.com/football/news/11095/13561909/world-cup-2026-argentina-xx-switzerland",
+  "tier": "2",
+  "lang": "en"
+ },
+ {
+  "name": "espn_com",
+  "source": "espn.com",
+  "url": "https://www.espn.com/soccer/story/_/id/49339687/argentina-switzerland-2026-world-cup-julian-alvarez-england",
+  "tier": "2",
+  "lang": "en"
+ },
+ {
+  "name": "aljazeera_com",
+  "source": "aljazeera.com",
+  "url": "https://www.aljazeera.com/sports/liveblog/2026/7/11/argentina-vs-switzerland-live-fifa-world-cup-2026",
+  "tier": "1",
+  "lang": "en"
+ },
+ {
+  "name": "cbc_ca",
+  "source": "cbc.ca (AP wire)",
+  "url": "https://www.cbc.ca/sports/soccer/worldcup/fifa-world-cup-recap-argentina-switzerland-quarterfinal-july-11-9.7266897",
+  "tier": "1",
+  "lang": "en"
+ }
+]

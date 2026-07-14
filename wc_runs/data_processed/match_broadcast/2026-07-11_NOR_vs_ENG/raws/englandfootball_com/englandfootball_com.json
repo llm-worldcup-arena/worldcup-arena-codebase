@@ -1,0 +1,24 @@
+{
+ "source": "englandfootball.com (FA official)",
+ "url": "https://www.englandfootball.com/england/mens-senior-team/fixtures-results/2025-26/World-Cup/norway-england-fifa-world-cup-quarter-final-saturday-11-july-2026-match-centre",
+ "title": "Match Centre: Norway 1-2 England",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-07-11",
+  "home": "NOR",
+  "away": "ENG",
+  "home_en": "Norway",
+  "away_en": "England",
+  "home_zh": "挪威",
+  "away_zh": "英格兰",
+  "comp": "qf",
+  "match_id": "M99",
+  "slug": "2026-07-11_NOR_vs_ENG"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "- Norway and England have met 12 times prior, with this their first meeting since a 1-0 friendly win for the Three Lions in September 2014. Overall, Norway have won just two of those 12 matches (D3 L7), failing to score in any of their last four.\n\n- England have been eliminated from five of their last six FIFA World Cup knockout round matches against European opposition and each of their last three in succession. Their latest defeat saw them lose 2-1 to France at the quarter final stage of the 2022 tournament.\n\n- Norway have failed to win any of their six FIFA World Cup games against fellow European opposition (D2 L4), losing both of their prior knockout round matches against such sides, 2-1 in 1938 and 1-0 in 1998 both against Italy.\n\n- Only Brazil (14) and Germany (14) have qualified for more FIFA World Cup quarter-finals than England, with this set to be their eleventh appearance at this stage in the competition. The Three Lions have progressed from just three of those matches however, conceding 2+ goals in seven of those ties.\n\n- Norway have reached the quarter-finals at a major tournament (FIFA World Cup/UEFA EUROs) for the first time in their history. They have both scored (12) and conceded (9) in all five of their games at the FIFA World Cup 2026 so far, while the only side to ever reach the semi-final of the competition having both scored and conceded 10+ goals was Germany in 1954 (16GF, 11GA).\n\n- Harry Kane has scored six goals at the 2026 FIFA World Cup; it’s only the third time an England player has scored six goals in a major tournament (FIFA World Cup/UEFA EUROs - also Gary Lineker at the 1986 World Cup and Kane himself at the 2018 World Cup). Kane has scored eleven goals in his last 12 knockout stage matches at major tournaments, both scoring and missing a penalty against France at this stage of the 2022 FIFA World Cup.\n\n- Erling Haaland has scored in each of his last 14 competitive outings for Norway (27 goals in total during this period), finding the back of the net in all four of his appearances at the FIFA World Cup 2026 so far. The last player to score in each of his first five games at the tournament was Colombia’s James Rodríguez in 2014, while the last European player to do so was Germany’s Gerd Müller in 1970.\n\n- After scoring twice against Mexico, Jude Bellingham became the first midfielder to net 4+ goals in a FIFA World Cup campaign for England (4). His 33.3% shot conversion rate at the 2026 tournament is also the highest of any England midfielder to attempt more than three shots in a World Cup campaign on Opta record (since 1966 – four goals from 12 shots).\n\n- At the FIFA World Cup 2026, Erling Haaland has netted four match-winning goals, with only Poland’s Grzegorz Lato in 1974 and Italy’s Salvatore Schillaci in 1990 managing more in a single campaign in the competition’s history (both five).\n\n- For England at the FIFA World Cup 2026, Elliot Anderson ranks first for interceptions (7), tackles (14), possession won (29), duels won (40) and line breaking passes (42), while only Jude Bellingham has made as many high intensity pressures as him (170 each).\n\n- Jordan Pickford is set to overtake Peter Shilton to become England’s outright all-time leading appearance maker at the FIFA World Cup (currently level with 17 games each). Pickford has however conceded seven of the ten shots on target Erling Haaland has had against him in the Premier League, with the Norwegian only netting more goals in the competition against José Sá (10), Alphonse Areola (9) and Bernd Leno (8).\n\nFind out more about getting tickets for the FIFA World Cup 2026.\n\nFollow England matches live\n\nGet all the latest match updates and match content first on our Live Blog and get exclusive behind-the-scenes content from the England camp on the official England app.\n\nDownload and register for free here.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

@@ -1,0 +1,16 @@
+{
+ "team": "FRA",
+ "source": "stheadline.com",
+ "url": "https://www.stheadline.com/zh-hans/realtime-sport/3159448/%E4%B8%96%E7%95%8C%E6%9D%AF%E6%96%87%E4%B8%B9%E8%BE%BE%E4%BC%A4%E5%9F%8B-%E6%B3%95%E5%9B%BD%E6%83%8A%E7%8E%B0%E9%97%A8%E5%B0%86%E7%81%BE%E9%9A%BE",
+ "title": "世界杯｜文丹达伤埋 法国惊现门将灾难",
+ "news_date": "2022-10-29",
+ "published": "2022-10-29T07:36:00+0800",
+ "tier": "2",
+ "lang": "zh",
+ "asof": "2026-07-14",
+ "fetched": "2026-07-14_0853",
+ "method": "html:paragraphs",
+ "status": "blocked",
+ "original_text": "《Foot Mercato》报道，法国国家队面临门将灾难，继AC米兰守门员美拿之后，又轮到雷恩门将文丹达大腿内肌受伤，可能无缘出战卡塔尔世界杯。\n\n三十七岁的文丹达周四于欧霸杯分组赛，雷恩作客3：3打和费伦巴治一仗，在五十二分钟伤出，赛后证实为大腿内肌伤患，目前未知道会缺阵多久，可能危及参与世杯决赛周的机会。由于AC米兰门将美拿已告小腿受伤，如今再添文丹达一名伤兵，令法国主帅迪甘斯一下子失去两名二号可靠的门将。\n\n据称，将于十一月九日宣布法国大军名单的迪甘斯，可能征召韦斯咸门将阿里路亚、南特门将拿方特顶替。\n\n立即下载 | 全新《星岛头条》APP : https://bit.",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

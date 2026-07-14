@@ -1,0 +1,7 @@
+[
+ {"name": "aljazeera_com", "source": "aljazeera.com", "url": "https://www.aljazeera.com/sports/2026/7/12/bellingham-scores-twice-as-england-beat-norway-2-1-to-reach-world-cup-semis", "tier": "1", "lang": "en"},
+ {"name": "npr_org", "source": "npr.org", "url": "https://www.npr.org/2026/07/11/nx-s1-5890169/2026-world-cup-fifa-england-norway-quarterfinal", "tier": "1", "lang": "en"},
+ {"name": "cbc_ca", "source": "cbc.ca (AP wire)", "url": "https://www.cbc.ca/sports/soccer/worldcup/fifa-world-cup-recap-norway-england-quarterfinal-july-11-9.7266892", "tier": "1", "lang": "en"},
+ {"name": "espn_com", "source": "espn.com", "url": "https://www.espn.com/soccer/story/_/id/49335118/england-reach-world-cup-semifinals-jude-bellingham-big-night-norway-erling-haaland-anonymous", "tier": "2", "lang": "en"},
+ {"name": "englandfootball_com", "source": "englandfootball.com (FA official)", "url": "https://www.englandfootball.com/england/mens-senior-team/fixtures-results/2025-26/World-Cup/norway-england-fifa-world-cup-quarter-final-saturday-11-july-2026-match-centre", "tier": "2", "lang": "en"}
+]

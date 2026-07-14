@@ -1,0 +1,24 @@
+{
+ "source": "npr.org (AP wire)",
+ "url": "https://www.npr.org/2026/07/12/nx-s1-5890774/argentina-switzerland-3-1-world-cup-semifinals",
+ "title": "Alvarez's 112th-minute goal helps lift Argentina past Switzerland 3-1 and into World Cup semifinals",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-07-11",
+  "home": "ARG",
+  "away": "SUI",
+  "home_en": "Argentina",
+  "away_en": "Switzerland",
+  "home_zh": "阿根廷",
+  "away_zh": "瑞士",
+  "comp": "qf",
+  "match_id": "M100",
+  "slug": "2026-07-11_ARG_vs_SUI"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Argentina's Alexis Mac Allister, center, celebrates scoring their first goal with Lionel Messi during the World Cup quarterfinal soccer match between Argentina and Switzerland in Kansas City, Mo., Saturday, July 11, 2026.\n\nAbbie Parr/AP\n\nhide caption\n\nKANSAS CITY, Mo. — Julian Alvarez sent defending champion Argentina into the World Cup semifinals with a long-range strike in the 112th minute against Switzerland, while another goal by Lautaro Martinez with seconds left in extra time only served to make the 3-1 victory look a whole lot easier than it was Saturday night.\n\nAlexis Mac Allister also scored off a corner kick from Lionel Messi, helping La Albiceleste gut out another down-to-the-wire thriller and advance to play England on Wednesday in Atlanta. The Three Lions beat Norway 2-1 earlier in the day.\n\nMessi's nine-game World Cup scoring streak ended, but his pursuit of a second World Cup title continues.\n\nThe game swung in the second half on a call sure to rile up critics who believe Argentina has been favored in this tournament.\n\nThe Swiss had just tied the game on Dan Ndoye's goal in the 67th minute when Leandro Paredes was shown a yellow card for a tackle on Breel Embolo. But video showed the Swiss player falling before the Argentina midfielder made contact with him, and since Embolo received a yellow card earlier in the match, he was sent off and Switzerland left to defend with 10 players.\n\nIt was the second time a yellow card has been overturned using the \"mistaken identity\" protocol at the World Cup. The rule allows the video assistant referee to intervene when an incorrect player is shown a yellow or red card.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}
