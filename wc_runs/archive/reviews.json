@@ -9410,5 +9410,101 @@
   },
   "collective": "6模型在胜平负、让球、半全场、比分四市场集体错判，一致高估主队阿根廷且完全低估平局冷门；仅在大小球、双方进球、单双等市场存在分歧，暴露对赛果方向的同质化偏见与对细节市场的随机性。",
   "paper_point": "6模型在胜负方向高度一致且集体误判，暴露AI对足球平局冷门的系统性低估与模型间同质化偏见。"
+ },
+ "FRA_vs_ESP": {
+  "per_market": {
+   "胜平负": {
+    "right": [
+     "Seed"
+    ],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM"
+    ]
+   },
+   "让球": {
+    "right": [
+     "GLM",
+     "Seed"
+    ],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi"
+    ]
+   },
+   "大小2.5": {
+    "right": [
+     "GPT",
+     "GLM"
+    ],
+    "wrong": [
+     "Claude",
+     "Gemini",
+     "Kimi",
+     "Seed"
+    ]
+   },
+   "双方进球": {
+    "right": [
+     "GPT"
+    ],
+    "wrong": [
+     "Claude",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ]
+   },
+   "单双": {
+    "right": [
+     "GLM"
+    ],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "Seed"
+    ]
+   },
+   "半全场": {
+    "right": [],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ]
+   },
+   "正确比分": {
+    "right": [],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ]
+   }
+  },
+  "model_notes": {
+   "Claude": "一边倒押法国，全错因高估主队火力",
+   "GPT": "只有大小2.5和双方进球蒙对，整体仍偏主胜",
+   "Gemini": "与Claude同路错，继续高估法国",
+   "Kimi": "完全复制热门剧本，全部偏离",
+   "GLM": "选平思路避开了主胜陷阱，但仍错比分",
+   "Seed": "唯一看准胜负方向，却高估进球并错比分"
+  },
+  "collective": "除GLM外集体高估法国不败且进球能力，导致胜平负、让球、双方进球、大小2.5全偏主向；比分共识全部偏低（1-0/2-1/1-2），实际0-2更大冷。",
+  "paper_point": "强队主场失利场景下，六模型仍集体高看主队进球能力，比分预测集中于低进球差，结果冷门0-2暴露系统性乐观偏差。"
  }
 }

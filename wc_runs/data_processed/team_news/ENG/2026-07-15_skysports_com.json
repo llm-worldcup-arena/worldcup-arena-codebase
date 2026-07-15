@@ -1,0 +1,16 @@
+{
+ "team": "ENG",
+ "source": "skysports.com",
+ "url": "https://www.skysports.com/football/news/12016/13562168/world-cup-2026-england-defender-marc-guehi-a-serious-doubt-for-quarter-final-clash-with-norway",
+ "title": "World Cup 2026: England defender Marc Guehi a serious doubt for quarter-final clash with Norway",
+ "news_date": "2026-07-15",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "asof": "2026-07-15",
+ "fetched": "2026-07-15_1009",
+ "method": "jsonld:articleBody",
+ "status": "ok",
+ "original_text": "Marc Guehi is a serious doubt for England’s World Cup quarter-final on Saturday against Norway as he battles a hamstring strain picked up in the win over Mexico. Guehi didn't take part in the final training session in Kansas City, Sky Sports News understands, but Thomas Tuchel has not yet given up hope that he will be able to start the game. The Manchester City defender was seen walking around the edge of the pitch at England's Swope Soccer training base on Thursday, but it's now clear he wasn't able to join his teammates on the grass. The problem is not thought to be serious, but time is running out for Guehi to prove his fitness. England's route to the World Cup final World Cup day-by-day schedule | Latest: World Cup",
+ "_note": "全文走 summary 块A(LLM三判后只增不改);processed=成熟仓库累积,raw=本次收集过程。"
+}

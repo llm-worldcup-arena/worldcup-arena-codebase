@@ -1,0 +1,24 @@
+{
+ "source": "nbcnews.com",
+ "url": "https://www.nbcnews.com/sports/soccer/live-blog/spain-france-world-cup-2026-july-14-live-updates-rcna587324",
+ "title": "Spain defeats France 2-0 to advance to World Cup final",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-07-14",
+  "home": "FRA",
+  "away": "ESP",
+  "home_en": "France",
+  "away_en": "Spain",
+  "home_zh": "法国",
+  "away_zh": "西班牙",
+  "comp": "sf",
+  "match_id": "M101",
+  "slug": "2026-07-14_FRA_vs_ESP"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Last December, as soon as the World Cup draw revealed a potential collision between Spain and France in the semifinal, this became one of the most-anticipated matches of the tournament. And now it's here, a showdown between two global powers that memorably faced off only two years ago in the semifinal of the European Championship.\n\nSpain won, 2-1, in a match where Spanish star Lamine Yamal became that tournament's youngest-ever scorer at just 16. Yamal turned 19 yesterday. (Yamal also scored twice in Spain's 2-1 win over France in the 2024-25 UEFA Nations League semifinal.)\n\n\"He’s a skilled player with a lot of qualities, but we draw the focus on our team, the French team, our players and our assets and our qualities,\" French midfielder Warren Zaire-Emery said yesterday via a translator. \"There are four attackers and we will do our best to stop Spain.\"\n\nUnlike that 2024 Euros meeting, however, when French star Kylian Mbappé played with a broken nose, he won't be playing hurt in this World Cup semifinal. Mbappé has played some of the best soccer of his career during this tournament with his eight goals matching Lionel Messi atop the race for the Golden Boot honor given to the top scorer.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

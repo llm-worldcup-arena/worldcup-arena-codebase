@@ -1,0 +1,24 @@
+{
+ "source": "beinsports.com",
+ "url": "https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/france-0-2-spain-oyarzabal-and-porro-send-european-champions-to-world-cup-final-2026-07-14",
+ "title": "France 0-2 Spain: Oyarzabal and Porro send European champions to World Cup final",
+ "published": null,
+ "tier": "1",
+ "lang": "en",
+ "match": {
+  "date": "2026-07-14",
+  "home": "FRA",
+  "away": "ESP",
+  "home_en": "France",
+  "away_en": "Spain",
+  "home_zh": "法国",
+  "away_zh": "西班牙",
+  "comp": "sf",
+  "match_id": "M101",
+  "slug": "2026-07-14_FRA_vs_ESP"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Mikel Oyarzabal continued his fine form for Spain as he helped them to a 2-0 win over France, which sent them to the World Cup final for the first time since 2010.\n\nLa Roja will face either England or Argentina for the trophy, as Pedro Porro's goal gave them the insurance they needed against a lacklustre France side at Dallas Stadium.\n\nIt was a fairly quiet start for both sides, with Adrien Rabiot swinging a volley wide before Alex Baena hit the wall from a free-kick on the edge of the box.\n\nBut Spain got their opening from the penalty spot as Lucas Digne, unaware of his surroundings, kicked through Lamine Yamal as he tried to clear his lines.\n\nOyarzabal confidently stepped up from 12 yards and powered his fifth goal of these finals down the right, giving Mike Maignan no chance in the 22nd minute.\n\nBradley Barcola fired over in France's best first-half chance, while they got a reprieve at the other end as Dayot Upamecano took the ball off Fabian Ruiz's toe after a lovely Spain move.\n\nSpain continued to dominate after the break, though, and got their reward in the 58th minute as Porro played a lovely one-two with Dani Olmo to get in behind France and sweep home their second.\n\nIt almost got worse for Les Bleus three minutes later as Yamal peeled away, rounded Digne on the edge of the six-yard box and curled a wonderful finish past Maignan, but he had set off too early, with the offside flag denying him.\n\nKylian Mbappe sprang into life midway through the second half to drill a low shot across goal, but Marc Cucurella stuck out a leg to deflect it narrowly wide of the far post.\n\nFrance were gifted a great chance to halve the deficit when Simon fluffed his header after rushing out of his box, but the goalkeeper recovered to block Desire Doue's tame shot as Didier Deschamps' side crashed out in the semi-finals.\n\nSpain have now lost just two of their last 11 meetings with France in all competitions, with this their third straight win, all of which have come at the semi-final stage of a tournament (2-1 win in Euro 2024 and 5-4 victory in the 2024-25 Nations League).\n\nMbappe – who broke the record for the most appearances for France at the World Cup (21) – did not click into gear, being caught offside more times (twice) than he had touches in the opposition box (one) in the first half.\n\nInstead, Oyarzabal took the headlines before the break. Only David Villa (13), Alvaro Morata (10) and Fernando Torres (nine) have scored more goals at major tournaments for Spain than his seven, while no Spanish player has ever scored more goals at a single World Cup (five).\n\nIn fact, since the start of 2025, he has had a hand in 24 goals across 19 appearances for La Roja in all competitions (17 goals, seven assists), 14 more than any other player.\n\nOlmo also played his part by setting up the second goal. He has the joint-most assists for Spain on record at major tournaments (World Cup/Euros – since 1980), along with Cesc Fabregas (both eight).\n\nDeschamps, who took charge of his 26th World Cup match, the outright most of any manager, will not be bowing out as France boss with another World Cup. His side managed just 10 shots worth 0.3 expected goals (xG), with only three of those on target.\n\nIt means that France have still never won a game at the finals when trailing at half-time (D1 L12) as Spain ensured they reached just their second final, having lifted the trophy in their first in 2010.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}
