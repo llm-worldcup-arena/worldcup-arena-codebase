@@ -9506,5 +9506,96 @@
   },
   "collective": "除GLM外集体高估法国不败且进球能力，导致胜平负、让球、双方进球、大小2.5全偏主向；比分共识全部偏低（1-0/2-1/1-2），实际0-2更大冷。",
   "paper_point": "强队主场失利场景下，六模型仍集体高看主队进球能力，比分预测集中于低进球差，结果冷门0-2暴露系统性乐观偏差。"
+ },
+ "ENG_vs_ARG": {
+  "per_market": {
+   "胜平负": {
+    "right": [],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ]
+   },
+   "让球": {
+    "right": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ],
+    "wrong": []
+   },
+   "大小2.5": {
+    "right": [],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ]
+   },
+   "双方进球": {
+    "right": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ],
+    "wrong": []
+   },
+   "单双": {
+    "right": [],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ]
+   },
+   "半全场": {
+    "right": [],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ]
+   },
+   "正确比分": {
+    "right": [],
+    "wrong": [
+     "Claude",
+     "GPT",
+     "Gemini",
+     "Kimi",
+     "GLM",
+     "Seed"
+    ]
+   }
+  },
+  "model_notes": {
+   "Claude": "让球与BTTS命中，但比分、胜负及大小皆过度保守。",
+   "GPT": "与同行同步失准，主要错在把比赛想象成低比分平局。",
+   "Gemini": "BTTS正确，其余落入‘1-1’共识陷阱。",
+   "Kimi": "同样困于平局剧本，未捕捉客队终场破局。",
+   "GLM": "让球虽对，其余全部照抄市场均值。",
+   "Seed": "BTTS命中，但比分和大小球双双偏小。"
+  },
+  "collective": "全部模型集体看错胜负、大小2.5、单双、半全场及正确比分，原因在于一致低估阿根廷客场终结能力，高估双方僵持程度，导致普遍给出低比分平局剧本。",
+  "paper_point": "六模型罕见全盘一致：胜负、大小球、比分集体保守于1-1平局，暴露对强强对话中客队后程爆发力的系统性低估。"
  }
 }

@@ -1,0 +1,24 @@
+{
+ "source": "bleacherreport.com",
+ "url": "https://bleacherreport.com/articles/25455334-messi-argentina-beat-england-final-match-stats-highlights-world-cup-2026-bracket",
+ "title": "Messi, Argentina Beat England, Final Match Stats, Highlights from World Cup 2026 Bracket",
+ "published": null,
+ "tier": "3",
+ "lang": "en",
+ "match": {
+  "date": "2026-07-15",
+  "home": "ENG",
+  "away": "ARG",
+  "home_en": "England",
+  "away_en": "Argentina",
+  "home_zh": "英格兰",
+  "away_zh": "阿根廷",
+  "comp": "sf",
+  "match_id": "M102",
+  "slug": "2026-07-15_ENG_vs_ARG"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(html:paragraphs) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "Argentina staged a dramatic comeback to beat England 2-1 in Wednesday's 2026 World Cup semifinal at Mercedes-Benz Stadium in Atlanta.\n\nLautaro Martínez scored in the second minute of second-half injury time, getting on the end of a cross from Lionel Messi.\n\nEngland supporters have experienced plenty of heartbreak and disappointment at major tournaments, and this is likely to live long in their memories.\n\nAnthony Gordon netted the opener in the 55th minute, which capped off an impressive counterattacking move. Dropping deep into midfield, Harry Kane got the rush going, and Gordon made the perfect run to get into position for Morgan Rogers' cross from the right.\n\nEngland's lead nearly disappeared just minutes later.\n\nGiuliano Simeone was bearing down on goal from the right when Djed Spence flew in with a sliding tackle.\n\nMistiming that tackle by a split-second would've sent Spence barreling into Simeone for a penalty, or he would've gone right on by without dislodging the ball. Instead, he had what looked like a signature moment.\n\nPerhaps because of that close call, England coach Thomas Tuchel tweaked his tactics to go more defensive earlier than you would've expected. Rather than try to press the advantage, Tuchel had his players drop deep behind the ball.\n\nAs a result, the momentum started swinging in Argentina's favor, so Enzo Fernández's goal in the 85th minute didn't come as a shock. He fired a shot from outside the box past a diving Jordan Pickford.\n\nThe problem with parking the bus is that it can be difficult to flip the switch back when you need to go more attacking.\n\nBy the time Fernández's goal went in, Tuchel had subbed off Gordon, Reece James and Declan Rice. He used three of his five subs to fortify his defense.\n\nThat left him with fewer options when Martínez's header hit the back of the net, and the attack-minded players still out on the pitch were running on empty.\n\nThere's bound to be plenty of second-guessing across the pond in the coming days after England's collapse.\n\nSpain awaits Argentina in Sunday's final after outclassing France 2-0 in Tuesday's first semifinal.\n\nEntering that fixture, the French had arguably looked the strongest side in the field. Then their high-powered attack was totally taken out of the game by Spain, and the 2010 champion countered with equally devastating effect.\n\nOnly twice has a country successfully defended the World Cup title. Italy won in 1934 and 1938 before Brazil went back-to-back in 1958 and 1962. Four years ago, Argentina denied France's bid.\n\nHistory is certainly not on the side of coach Lionel Scaloni, but Argentina looks increasingly like a team of destiny.",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

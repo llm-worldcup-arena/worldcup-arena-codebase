@@ -1,0 +1,24 @@
+{
+ "source": "nbcnews.com",
+ "url": "https://www.nbcnews.com/sports/soccer/live-blog/england-argentina-world-cup-2026-july-15-live-updates-rcna587325",
+ "title": "Argentina defeats England 2-1 after another comeback; Spain awaits in World Cup final",
+ "published": null,
+ "tier": "2",
+ "lang": "en",
+ "match": {
+  "date": "2026-07-15",
+  "home": "ENG",
+  "away": "ARG",
+  "home_en": "England",
+  "away_en": "Argentina",
+  "home_zh": "英格兰",
+  "away_zh": "阿根廷",
+  "comp": "sf",
+  "match_id": "M102",
+  "slug": "2026-07-15_ENG_vs_ARG"
+ },
+ "fetched": "raw-HTML 直抓 + 抽取(jsonld:articleBody) + 清洗（逐字、未经任何模型/改写/翻译）",
+ "status": "ok",
+ "original_text": "After Argentina's quarterfinal victory against Switzerland to set up a semifinal showdown against England, a journalist asked Argentina coach Lionel Scaloni about his message to his team considering its \"rivalry\" with England.\n\n“The message is this is a football game,\" Scaloni said. \"That's what I can say. This is a football game and we will be playing against a very tough opponent. They have an excellent coach, and this is a football game, and that’s all.”\n\nBut that's not all to those who see this match as a proxy fight between two nations with a testy relationship.\n\nAfter Argentina's Antonio Rattín was sent off against England during the 1966 World Cup — a moment that later led to the creation of the yellow and red card system — England's manager insulted Argentina's team as \"animals.\" (Argentina wore black armbands memorializing Rattín on Saturday, following his death.) Twenty years later, Diego Maradona scored the controversial \"Hand of God\" goal to lead Argentina past England in a 1986 World Cup quarterfinal.\n\nBut the tension goes well beyond soccer. In 1982, Argentina invaded the Falkland Islands off its coast, where a British presence has remained since the 19th century. The skirmish lasted 10 weeks and led to hundreds of deaths before Argentina surrendered its fight to claim the islands, which are called the Malvinas in Argentina.\n\nThe British still maintain a presence on the islands, where about 3,000 people live and statues remembering British Prime Minister Margaret Thatcher and another dedicated to \"those who liberated us\" in 1982 stand in the town of Stanley. But Argentina still disputes that presence. Just last week, the Argentine foreign minister wrote a story in an Argentine newspaper, La Nacion, saying that \"by history, by law and by conviction, the Falkland Islands are Argentine.\"\n\nThe foreign minister added that \"time does not transform an illegitimate occupation into sovereignty. Nor will it divide the territorial unity.\"",
+ "_note": "网页赛报正文逐字留底（已去直播/电视/版权/导航杂讯）。"
+}

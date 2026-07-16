@@ -1,0 +1,7 @@
+[
+  {"name":"cbsnews_com","source":"cbsnews.com","url":"https://www.cbsnews.com/news/argentina-beats-england-world-cup-final/","tier":"2","lang":"en"},
+  {"name":"nbcnews_com","source":"nbcnews.com","url":"https://www.nbcnews.com/sports/soccer/live-blog/england-argentina-world-cup-2026-july-15-live-updates-rcna587325","tier":"2","lang":"en"},
+  {"name":"sports_yahoo_com","source":"sports.yahoo.com","url":"https://sports.yahoo.com/soccer/live/england-vs-argentina-world-cup-2026-score-result-schedule-live-updates-150000908.html","tier":"2","lang":"en"},
+  {"name":"bleacherreport_com","source":"bleacherreport.com","url":"https://bleacherreport.com/articles/25455334-messi-argentina-beat-england-final-match-stats-highlights-world-cup-2026-bracket","tier":"3","lang":"en"},
+  {"name":"espn_com","source":"espn.com","url":"https://www.espn.com/soccer/match/_/gameId/760515/argentina-england","tier":"2","lang":"en"}
+]

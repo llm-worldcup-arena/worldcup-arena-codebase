@@ -1528,5 +1528,35 @@
   "coach_a": null,
   "coach_b": null,
   "result": null
+ },
+ {
+  "match_id": "M103",
+  "edition": 2026,
+  "round": "final",
+  "group": null,
+  "date": "2026-07-18",
+  "kickoff_ts": "2026-07-18T17:00:00-04:00",
+  "venue_id": "hard_rock_stadium",
+  "team_a": "FRA",
+  "team_b": "ENG",
+  "referee_id": null,
+  "coach_a": null,
+  "coach_b": null,
+  "result": null
+ },
+ {
+  "match_id": "M104",
+  "edition": 2026,
+  "round": "final",
+  "group": null,
+  "date": "2026-07-19",
+  "kickoff_ts": "2026-07-19T15:00:00-04:00",
+  "venue_id": "metlife_stadium",
+  "team_a": "ESP",
+  "team_b": "ARG",
+  "referee_id": null,
+  "coach_a": null,
+  "coach_b": null,
+  "result": null
  }
 ]
